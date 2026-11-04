@@ -1,5 +1,3 @@
-###DEC-069457-0-000-03-11-1971@@@
-
 DECRETO Nº 69.457 - DE 3 DE NOVEMBRO De 1971
 
 Concede reconhecimento à Faculdade de Ciências Econômicas e Contábeis de Lages, da Fundação Universitária do Planalto Catarinense, em Lages, Santa Catarina.

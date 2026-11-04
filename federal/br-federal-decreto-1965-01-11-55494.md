@@ -1,5 +1,3 @@
-###DEC-055494-0-000-11-01-1965@@@
-
 DECRETO Nº 55.494, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Fouad Darwich Zacharias a pesquisar cassiterita no município de Lábrea, Estado do Amazonas.

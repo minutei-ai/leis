@@ -1,5 +1,3 @@
-###DEC-001963-0-000-25-07-1996@@@
-
 DECRETO Nº 1.963 ,DE 25 DE JULHO DE 1996.
 
 Suspende as autorizações e concessões para exploração de Mogno e Virola, pelo período de dois anos, e dá outras providências.

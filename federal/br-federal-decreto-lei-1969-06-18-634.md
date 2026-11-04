@@ -1,5 +1,3 @@
-###DEL-000634-0-000-18-06-1969@@@
-
 DECRETO-LEI Nº 634, DE 18 DE JUNHO DE 1969
 
 Aprova o Convênio de Cooperação Brasileiro-Paraguaia no Combate à Febre Aftosa assinado em 16 de maio de 1969.

@@ -1,5 +1,3 @@
-###DEC-097535-0-000-20-02-1989@@@
-
 DECRETO N° 97.535, DE 20 DE FEVEREIRO DE 1989
 
 Dispõe sobre a redistribuição das competências da extinta SUNAMAM e dá outras providências.

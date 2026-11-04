@@ -1,5 +1,3 @@
-###DEC-002387-0-000-17-11-1997@@@
-
 DECRETO Nº 2.387, DE 17 DE NOVEMBRO DE 1997
 
 Altera o valor de indenização constante do Anexo ao Decreto nº 2.318, de 5 de setembro de 1997.

@@ -1,5 +1,3 @@
-###DEC-087301-0-000-21-06-1982@@@
-
 Decreto nº 87.301, de 21 de junho de 1982
 
 Aprova alteração nos Estatutos da Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF e dá outras providências.

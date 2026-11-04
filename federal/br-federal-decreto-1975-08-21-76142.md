@@ -1,5 +1,3 @@
-###DEC-076142-0-000-21-08-1975@@@
-
 DECRETO Nº 76.142 - DE 21 DE AGOSTO DE 1975
 
 Abre ao Ministério da Indústria e do Comércio o crédito suplementar de Cr$ 9.485.200,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -10,11 +8,623 @@ DECRETA:
 
 Art. 1º Fica aberto ao Ministério da Indústria e do Comércio em favor de diversas unidades orçamentárias, o crédito suplementar de Cr$ 9.485.200,00 (nove milhões, quatrocentos e oitenta e cinco mil e duzentos cruzeiros) para reforço de dotações orçamentárias consignadas no subanexo 1800, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1800</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Gabinete do Ministro</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801.11070202.001</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Assessoramento Superior</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">420.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35.200</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801.11623462.141</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Promoção e Orientação do Desenvolvimento Industrial</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">402.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">265.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.300</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801.11623462.144</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Coordenação da Política Executiva do Sal</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">404.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis..........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">205.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.400</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801.11633542.112</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Promoção e Orientação do Desenvolvimento Comercial</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis..........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1802</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria Geral</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1802.11090412.005</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Coordenação do Planejamento</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">195.800</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16.900</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1803</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria Geral - Órgãos Regionais da Indústria e do Comércio</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1803.11070212.146</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutenção dos Órgãos Regionais</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.330.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">84.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">700</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1804</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inspetoria Geral de Finanças</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1804.11080322.011</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administração Financeira, Contabilidade e Auditoria</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">220.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">180.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.700</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social...............</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1805</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Divisão de Segurança e Informações</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1805.11291692.003</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Assessoramento Relacionado à Segurança Nacional</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">68.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Familia.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1806</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Consultoria Jurídica</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1806.11073922.002</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Assessoramento Relacionado a Assuntos de Natureza Jurídica</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">457.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.400</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1807</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Serviços Gerais</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1807.11070212.122</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutenção dos Serviços Administrativos</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">570.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">420.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">61.600</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">127.400</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1808</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento Nacional de Registro do Comércio</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1808.11663762.147</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutenção da Junta Comercial do Distrito Federal</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social...............</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1808.11663762.227</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Coordenação e Administração do Registro do Comércio e Atividades Mercantis</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9.700</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social...............</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1809</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Instituto Nacional de Tecnologia</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1809.11100212.148</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Promoção e Orientação do Desenvolvimento Tecnológico</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">445.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">352.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.500</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1810</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Instituto Nacional de Pesos e Medidas</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1810.11663752.149</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fiscalização do Cumprimento da Legislação Metrológica</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">268.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família..................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1811</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Pessoal</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1811.11070212.010</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administração de Pessoal</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.796.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">360.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Sálario-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45.600</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social...............</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1812</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria de Tecnologia Industrial</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1812.11100212.228</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Coordenação e Supervisão da Política Tecnológica</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis..........................................</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL................................................................</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">9.485.200</span></p></td></tr></tbody></table>
+Cr$1,00
+
+1800
+
+- MINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO
+
+1801
+
+- Gabinete do Ministro
+
+1801.11070202.001
+
+- Assessoramento Superior
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis.........................................
+
+420.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+35.200
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+23.000
+
+1801.11623462.141
+
+- Promoção e Orientação do Desenvolvimento Industrial
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+402.000
+
+02
+
+- Despesas Variáveis.........................................
+
+265.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+15.300
+
+Cr$1,00
+
+1801.11623462.144
+
+- Coordenação da Política Executiva do Sal
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+404.000
+
+02
+
+- Despesas Variáveis..........................................
+
+205.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+14.400
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+7.000
+
+1801.11633542.112
+
+- Promoção e Orientação do Desenvolvimento Comercial
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+24.000
+
+02
+
+- Despesas Variáveis..........................................
+
+10.000
+
+1802
+
+- Secretaria Geral
+
+1802.11090412.005
+
+- Coordenação do Planejamento
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis.........................................
+
+195.800
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+16.900
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+29.000
+
+1803
+
+- Secretaria Geral - Órgãos Regionais da Indústria e do Comércio
+
+1803.11070212.146
+
+- Manutenção dos Órgãos Regionais
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+1.330.000
+
+02
+
+- Despesas Variáveis.........................................
+
+20.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+84.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+700
+
+1804
+
+- Inspetoria Geral de Finanças
+
+1804.11080322.011
+
+- Administração Financeira, Contabilidade e Auditoria
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+220.000
+
+02
+
+- Despesas Variáveis.........................................
+
+180.000
+
+3.2.3.3
+
+- Salário-Família................................................
+
+6.700
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............
+
+20.000
+
+1805
+
+- Divisão de Segurança e Informações
+
+1805.11291692.003
+
+- Assessoramento Relacionado à Segurança Nacional
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis.........................................
+
+68.000
+
+3.2.3.3
+
+- Salário-Familia.................................................
+
+2.000
+
+1806
+
+- Consultoria Jurídica
+
+1806.11073922.002
+
+- Assessoramento Relacionado a Assuntos de Natureza Jurídica
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+457.000
+
+3.2.3.3
+
+- Salário-Família................................................
+
+14.400
+
+1807
+
+- Departamento de Serviços Gerais
+
+1807.11070212.122
+
+- Manutenção dos Serviços Administrativos
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+570.000
+
+02
+
+- Despesas Variáveis........................................
+
+420.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+61.600
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+127.400
+
+1808
+
+- Departamento Nacional de Registro do Comércio
+
+1808.11663762.147
+
+- Manutenção da Junta Comercial do Distrito Federal
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+120.000
+
+02
+
+- Despesas Variáveis.........................................
+
+34.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............
+
+5.000
+
+Cr$1,00
+
+1808.11663762.227
+
+- Coordenação e Administração do Registro do Comércio e Atividades Mercantis
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+200.000
+
+02
+
+- Despesas Variáveis........................................
+
+58.000
+
+3.2.3.3
+
+- Salário-Família................................................
+
+9.700
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............
+
+10.000
+
+1809
+
+- Instituto Nacional de Tecnologia
+
+1809.11100212.148
+
+- Promoção e Orientação do Desenvolvimento Tecnológico
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+445.000
+
+02
+
+- Despesas Variáveis.........................................
+
+352.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+28.500
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+36.000
+
+1810
+
+- Instituto Nacional de Pesos e Medidas
+
+1810.11663752.149
+
+- Fiscalização do Cumprimento da Legislação Metrológica
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+268.000
+
+3.2.3.3
+
+- Salário-Família..................................................
+
+9.000
+
+1811
+
+- Departamento de Pessoal
+
+1811.11070212.010
+
+- Administração de Pessoal
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+1.796.000
+
+02
+
+- Despesas Variáveis.........................................
+
+360.000
+
+3.2.3.3
+
+- Sálario-Família.................................................
+
+45.600
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............
+
+40.000
+
+1812
+
+- Secretaria de Tecnologia Industrial
+
+1812.11100212.228
+
+- Coordenação e Supervisão da Política Tecnológica
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis..........................................
+
+20.000
+
+TOTAL................................................................
+
+9.485.200
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento aos subanexos 1800 e 3900, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1800</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Gabinete do Ministro</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1801.11070202.001</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">500.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1801.11623462.142</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44.600</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1802</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria Geral</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1802.11090412.005</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.579.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1810</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Instituto Nacional de Pesos e Medidas</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1810.11663752.149</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1812</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria de Tecnologia Industrial</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1812.11100212.228</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">150.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1813</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria de Administração</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1813.11070212.013</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">710.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis..........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3900</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- RESERVA DE CONTINGÊNCIA</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3900.99999999.999</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingência</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.6.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingência..................................</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.454.600</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL.................................................................</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">9.485.200</span></p></td></tr></tbody></table>
+Cr$1,00
+
+1800
+
+- MINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO
+
+1801
+
+- Gabinete do Ministro
+
+Atividade
+
+- 1801.11070202.001
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+500.000
+
+Atividade
+
+- 1801.11623462.142
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+44.600
+
+1802
+
+- Secretaria Geral
+
+Atividade
+
+- 1802.11090412.005
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+1.579.000
+
+1810
+
+- Instituto Nacional de Pesos e Medidas
+
+Atividade
+
+- 1810.11663752.149
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+20.000
+
+1812
+
+- Secretaria de Tecnologia Industrial
+
+Atividade
+
+- 1812.11100212.228
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+150.000
+
+Cr$1,00
+
+1813
+
+- Secretaria de Administração
+
+Atividade
+
+- 1813.11070212.013
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+710.000
+
+02
+
+- Despesas Variáveis..........................................
+
+27.000
+
+3900
+
+- RESERVA DE CONTINGÊNCIA
+
+3900.99999999.999
+
+- Reserva de Contingência
+
+3.2.6.0
+
+- Reserva de Contingência..................................
+
+6.454.600
+
+TOTAL.................................................................
+
+9.485.200
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
@@ -40,11 +650,617 @@ DECRETA:
 
 Art. 1º Fica aberto ao Ministério da Indústria e do Comércio em favor de diversas unidades orçamentárias, o crédito suplementar de Cr$ 9.485.200,00 (nove milhões, quatrocentos e oitenta e cinco mil e duzentos cruzeiros) para reforço de dotações orçamentárias consignadas no subanexo 1800, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1800</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Gabinete do Ministro</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801.11070202.001</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Assessoramento Superior</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">420.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35.200</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801.11623462.141</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Promoção e Orientação do Desenvolvimento Industrial</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">402.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">265.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.300</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801.11623462.144</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Coordenação da Política Executiva do Sal</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">404.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis..........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">205.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.400</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801.11633542.112</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Promoção e Orientação do Desenvolvimento Comercial</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis..........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1802</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria Geral</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1802.11090412.005</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Coordenação do Planejamento</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">195.800</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16.900</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1803</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria Geral - Órgãos Regionais da Indústria e do Comércio</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1803.11070212.146</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutenção dos Órgãos Regionais</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.330.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">84.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">700</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1804</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inspetoria Geral de Finanças</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1804.11080322.011</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administração Financeira, Contabilidade e Auditoria</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">220.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">180.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.700</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social...............</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1805</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Divisão de Segurança e Informações</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1805.11291692.003</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Assessoramento Relacionado à Segurança Nacional</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">68.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Familia.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1806</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Consultoria Jurídica</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1806.11073922.002</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Assessoramento Relacionado a Assuntos de Natureza Jurídica</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">457.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.400</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1807</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Serviços Gerais</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1807.11070212.122</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutenção dos Serviços Administrativos</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">570.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">420.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">61.600</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">127.400</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1808</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento Nacional de Registro do Comércio</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1808.11663762.147</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutenção da Junta Comercial do Distrito Federal</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social...............</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1808.11663762.227</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Coordenação e Administração do Registro do Comércio e Atividades Mercantis</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9.700</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social...............</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1809</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Instituto Nacional de Tecnologia</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1809.11100212.148</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Promoção e Orientação do Desenvolvimento Tecnológico</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">445.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">352.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.500</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1810</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Instituto Nacional de Pesos e Medidas</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1810.11663752.149</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fiscalização do Cumprimento da Legislação Metrológica</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">268.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família..................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1811</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Pessoal</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1811.11070212.010</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administração de Pessoal</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.796.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">360.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Sálario-Família.................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45.600</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social...............</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1812</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria de Tecnologia Industrial</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1812.11100212.228</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Coordenação e Supervisão da Política Tecnológica</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis..........................................</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL................................................................</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">9.485.200</span></p></td></tr></tbody></table>
+Cr$1,00
+
+1800
+
+- MINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO
+
+1801
+
+- Gabinete do Ministro
+
+1801.11070202.001
+
+- Assessoramento Superior
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis.........................................
+
+420.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+35.200
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+23.000
+
+1801.11623462.141
+
+- Promoção e Orientação do Desenvolvimento Industrial
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+402.000
+
+02
+
+- Despesas Variáveis.........................................
+
+265.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+15.300
+
+1801.11623462.144
+
+- Coordenação da Política Executiva do Sal
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+404.000
+
+02
+
+- Despesas Variáveis..........................................
+
+205.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+14.400
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+7.000
+
+1801.11633542.112
+
+- Promoção e Orientação do Desenvolvimento Comercial
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+24.000
+
+02
+
+- Despesas Variáveis..........................................
+
+10.000
+
+1802
+
+- Secretaria Geral
+
+1802.11090412.005
+
+- Coordenação do Planejamento
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis.........................................
+
+195.800
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+16.900
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+29.000
+
+1803
+
+- Secretaria Geral - Órgãos Regionais da Indústria e do Comércio
+
+1803.11070212.146
+
+- Manutenção dos Órgãos Regionais
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+1.330.000
+
+02
+
+- Despesas Variáveis.........................................
+
+20.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+84.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+700
+
+1804
+
+- Inspetoria Geral de Finanças
+
+1804.11080322.011
+
+- Administração Financeira, Contabilidade e Auditoria
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+220.000
+
+02
+
+- Despesas Variáveis.........................................
+
+180.000
+
+3.2.3.3
+
+- Salário-Família................................................
+
+6.700
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............
+
+20.000
+
+1805
+
+- Divisão de Segurança e Informações
+
+1805.11291692.003
+
+- Assessoramento Relacionado à Segurança Nacional
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis.........................................
+
+68.000
+
+3.2.3.3
+
+- Salário-Familia.................................................
+
+2.000
+
+1806
+
+- Consultoria Jurídica
+
+1806.11073922.002
+
+- Assessoramento Relacionado a Assuntos de Natureza Jurídica
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+457.000
+
+3.2.3.3
+
+- Salário-Família................................................
+
+14.400
+
+1807
+
+- Departamento de Serviços Gerais
+
+1807.11070212.122
+
+- Manutenção dos Serviços Administrativos
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+570.000
+
+02
+
+- Despesas Variáveis........................................
+
+420.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+61.600
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+127.400
+
+1808
+
+- Departamento Nacional de Registro do Comércio
+
+1808.11663762.147
+
+- Manutenção da Junta Comercial do Distrito Federal
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+120.000
+
+02
+
+- Despesas Variáveis.........................................
+
+34.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............
+
+5.000
+
+1808.11663762.227
+
+- Coordenação e Administração do Registro do Comércio e Atividades Mercantis
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+200.000
+
+02
+
+- Despesas Variáveis........................................
+
+58.000
+
+3.2.3.3
+
+- Salário-Família................................................
+
+9.700
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............
+
+10.000
+
+1809
+
+- Instituto Nacional de Tecnologia
+
+1809.11100212.148
+
+- Promoção e Orientação do Desenvolvimento Tecnológico
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+445.000
+
+02
+
+- Despesas Variáveis.........................................
+
+352.000
+
+3.2.3.3
+
+- Salário-Família.................................................
+
+28.500
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+36.000
+
+1810
+
+- Instituto Nacional de Pesos e Medidas
+
+1810.11663752.149
+
+- Fiscalização do Cumprimento da Legislação Metrológica
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................
+
+268.000
+
+3.2.3.3
+
+- Salário-Família..................................................
+
+9.000
+
+1811
+
+- Departamento de Pessoal
+
+1811.11070212.010
+
+- Administração de Pessoal
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+1.796.000
+
+02
+
+- Despesas Variáveis.........................................
+
+360.000
+
+3.2.3.3
+
+- Sálario-Família.................................................
+
+45.600
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............
+
+40.000
+
+1812
+
+- Secretaria de Tecnologia Industrial
+
+1812.11100212.228
+
+- Coordenação e Supervisão da Política Tecnológica
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis..........................................
+
+20.000
+
+TOTAL................................................................
+
+9.485.200
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento aos subanexos 1800 e 3900, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1800</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1801</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Gabinete do Ministro</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1801.11070202.001</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">500.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1801.11623462.142</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44.600</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1802</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria Geral</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1802.11090412.005</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.579.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1810</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Instituto Nacional de Pesos e Medidas</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1810.11663752.149</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1812</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria de Tecnologia Industrial</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1812.11100212.228</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">150.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1813</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria de Administração</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1813.11070212.013</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas......................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">710.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis..........................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.000</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3900</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- RESERVA DE CONTINGÊNCIA</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3900.99999999.999</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingência</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.6.0</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingência..................................</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.454.600</span></p></td></tr><tr><td style="width:102.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL.................................................................</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">9.485.200</span></p></td></tr></tbody></table>
+Cr$1,00
+
+1800
+
+- MINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO
+
+1801
+
+- Gabinete do Ministro
+
+Atividade
+
+- 1801.11070202.001
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+500.000
+
+Atividade
+
+- 1801.11623462.142
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+44.600
+
+1802
+
+- Secretaria Geral
+
+Atividade
+
+- 1802.11090412.005
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+1.579.000
+
+1810
+
+- Instituto Nacional de Pesos e Medidas
+
+Atividade
+
+- 1810.11663752.149
+
+3.2.5.0
+
+- Contribuições de Previdência Social................
+
+20.000
+
+1812
+
+- Secretaria de Tecnologia Industrial
+
+Atividade
+
+- 1812.11100212.228
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+150.000
+
+1813
+
+- Secretaria de Administração
+
+Atividade
+
+- 1813.11070212.013
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas......................
+
+710.000
+
+02
+
+- Despesas Variáveis..........................................
+
+27.000
+
+3900
+
+- RESERVA DE CONTINGÊNCIA
+
+3900.99999999.999
+
+- Reserva de Contingência
+
+3.2.6.0
+
+- Reserva de Contingência..................................
+
+6.454.600
+
+TOTAL.................................................................
+
+9.485.200
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,5 +1,3 @@
-###DEC-067719-0-000-07-12-1970@@@
-
 DECRETO Nº 67.719, DE 7 DE DEZEMBRO DE 1970.
 
 Abre ao Ministério dos Transportes em favor do Grupo de Estudos para Integração da política de Transportes, o crédito suplementar de Cr$ 810.000,00 para refôrço de dotações consignadas no vigente Orçamento.
@@ -10,11 +8,117 @@ Decreta:
 
 Art. 1º Fica aberto ao Ministério dos Transportes, em favor do Grupo de Estudos para Integração da Política de Transportes o crédito suplementar de Cr$ 810.000,00 (oitocentos e dez mil cruzeiros), para refôrço de dotações orçamentárias consignada ao subanexo 27.00.00 a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.00.00</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">-MINISTÉRIO DOS TRANSPORTES</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.09.00</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Grupo de Estudos para Integração da Política de Transportes</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16.01.2.029</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administração, Supervisão da Unidade</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.4.0</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Material Permanente..................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.000</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16.02.1.126</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Estudo da Área Portuária da Região Paraná/Santa Catarina</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros.....................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">650.000</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16.02.2.032</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Informação, Documentação e Aperfeiçoamento Técnico</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros.....................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">150.000</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL..........................................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">810.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+27.00.00
+
+-MINISTÉRIO DOS TRANSPORTES
+
+27.09.00
+
+- Grupo de Estudos para Integração da Política de Transportes
+
+16.01.2.029
+
+- Administração, Supervisão da Unidade
+
+4.1.4.0
+
+- Material Permanente..................................................................
+
+10.000
+
+16.02.1.126
+
+- Estudo da Área Portuária da Região Paraná/Santa Catarina
+
+3.1.3.2
+
+- Outros Serviços de Terceiros.....................................................
+
+650.000
+
+16.02.2.032
+
+- Informação, Documentação e Aperfeiçoamento Técnico
+
+3.1.3.2
+
+- Outros Serviços de Terceiros.....................................................
+
+150.000
+
+TOTAL..........................................................................................
+
+810.000
 
 Art. 2º Os recursos necessários à execução dêste Decreto de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao subanexo 27.00.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.00.00</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DOS TRANSPORTES</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.09.00</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Grupo de Estudos para Integração da Política de Transportes</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 16.02.1.125</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02.00</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis....................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60.000</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.2.0</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Material de Consumo.................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50.000</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.3.1</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Remuneração de Serviços Pessoais.........................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.000</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Outros serviços de Terceiros.....................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">400.000</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social..........................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.000</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 16.02.2.030</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02.00</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis.............................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">285.000</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL..........................................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">810.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+27.00.00
+
+- MINISTÉRIO DOS TRANSPORTES
+
+27.09.00
+
+- Grupo de Estudos para Integração da Política de Transportes
+
+Projeto
+
+- 16.02.1.125
+
+3.1.1.1
+
+- Pessoal Civil
+
+02.00
+
+- Despesas Variáveis....................................................................
+
+60.000
+
+3.1.2.0
+
+- Material de Consumo.................................................................
+
+50.000
+
+3.1.3.1
+
+- Remuneração de Serviços Pessoais.........................................
+
+10.000
+
+3.1.3.2
+
+- Outros serviços de Terceiros.....................................................
+
+400.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social..........................................
+
+5.000
+
+Atividade
+
+- 16.02.2.030
+
+3.1.1.1
+
+- Pessoal Civil
+
+02.00
+
+- Despesas Variáveis.............................................................
+
+285.000
+
+TOTAL..........................................................................................
+
+810.000
 
 Art. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

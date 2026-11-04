@@ -1,5 +1,3 @@
-###DEC-092860-0-000-27-06-1986@@@
-
 DECRETO Nº 92.860, DE 27 DE JUNHO DE 1986
 
 Dispõe sobre aumento de capital da TASA - Telecomunicações Aeronáuticas S.A.

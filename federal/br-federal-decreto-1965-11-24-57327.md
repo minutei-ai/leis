@@ -1,5 +1,3 @@
-###DEC-057327-0-000-24-11-1965@@@
-
 decreto Nº 57.327, de 24 de novembro de 1965.
 
 Autoriza o cidadão brasileiro Alfredo de Vuono a pesquisar na mica e caulim no município de Guararema, Estado de São Paulo.

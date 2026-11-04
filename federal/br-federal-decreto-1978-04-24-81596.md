@@ -1,5 +1,3 @@
-###DEC-081596-0-000-24-04-1978@@@
-
 Decreto nº 81.596, de 24 de abril de 1978
 
 AUTORIZA o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Amazonas.

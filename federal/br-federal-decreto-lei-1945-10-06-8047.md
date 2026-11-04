@@ -1,5 +1,3 @@
-###DEL-008047-0-000-06-10-1945@@@
-
 DECRETO-LEI N. 8.047 – DE 6 DE OUTUBRO DE 1945
 
  Abre ao Ministério da Educação e Saúde o crédito especial de Cr$...216.000,00 para despesas decorrentes de doação feita por intermédio da Embaixada do Brasil em Lisboa.

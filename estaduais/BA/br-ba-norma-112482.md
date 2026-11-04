@@ -1,24 +1,29 @@
 LEI Nº 11.357 DE 06 DE JANEIRO DE 2009
 
-Ver também:<br>
-Art. 3º da Lei nº [14.317](https://www.legislabahia.ba.gov.br/documentos/lei-no-14317-de-18-de-junho-de-2021), de 18 de junho de 2021: " Ficam integralmente referendadas, nos termos do inciso II do art. 36 da Emenda Constitucional Federal nº 103, de 12 de novembro de 2019: I - a alteração do art. 149 da Constituição Federal promovida pelo art. 1º da Emenda Constitucional Federal nº 103, de 12 de novembro de 2019;II - as revogações do § 21 do art. 40 da Constituição Federal, bem como dos arts. 2º, 6º e 6º-A todos da Emenda Constitucional Federal nº 41, de 19 de dezembro de 2003, e do art. 3º da Emenda Constitucional Federal nº 47, de 05 de julho de 2005, promovidas pela alínea "a” do inciso I e pelos incisos III e IV todos do art. 35 da Emenda Constitucional Federal nº 103, de 12 de novembro de 2019.<br>
+Ver também:
+
+Art. 3º da Lei nº [14.317](https://www.legislabahia.ba.gov.br/documentos/lei-no-14317-de-18-de-junho-de-2021), de 18 de junho de 2021: " Ficam integralmente referendadas, nos termos do inciso II do art. 36 da Emenda Constitucional Federal nº 103, de 12 de novembro de 2019: I - a alteração do art. 149 da Constituição Federal promovida pelo art. 1º da Emenda Constitucional Federal nº 103, de 12 de novembro de 2019;II - as revogações do § 21 do art. 40 da Constituição Federal, bem como dos arts. 2º, 6º e 6º-A todos da Emenda Constitucional Federal nº 41, de 19 de dezembro de 2003, e do art. 3º da Emenda Constitucional Federal nº 47, de 05 de julho de 2005, promovidas pela alínea "a” do inciso I e pelos incisos III e IV todos do art. 35 da Emenda Constitucional Federal nº 103, de 12 de novembro de 2019.
+
 Art. 16º da Lei nº [11.471](https://www.legislabahia.ba.gov.br/documentos/lei-no-11471-de-15-de-abril-de-2009), de 15 de abril de 2009: "O benefício do auxílio-funeral, de caráter assistencial, consiste no ressarcimento das despesas devidamente comprovadas, realizadas pelo dependente ou por terceiro que tenha custeado o funeral de servidor público ativo, civil ou militar, bem como daqueles descritos no inciso III do artigo 10 da Lei nº 11.357, de 06 de janeiro de 2009, até o limite correspondente a 3 (três) vezes o menor vencimento do Estado."
 
 Organiza o Regime Próprio de Previdência dos Servidores Públicos do Estado da Bahia e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DO REGIME DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO ESTADO DA BAHIA
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 1º** - O Regime Próprio de Previdência Social dos Servidores Públicos do Estado da Bahia - RPPS, organizado na forma desta Lei, tem por finalidade assegurar os benefícios previdenciários aos seus segurados e dependentes.
 
 **Parágrafo único -** Compete à unidade gestora do RPPS a administração e a concessão de aposentadoria e pensão aos servidores titulares de cargos efetivos e respectivos dependentes, de todos os órgãos e entidades dos Poderes do Estado, bem como os atos de revisão desses benefícios, na forma prevista nesta Lei, observados os seguintes princípios:
 
-Redação do Prágrafo único de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação do Prágrafo único de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Parágrafo único - Compete à unidade gestora do RPPS a administração e a concessão de aposentadoria, pensão, auxílio-reclusão e salário-família aos servidores titulares de cargos efetivos e respectivos dependentes, de todos os órgãos e entidades dos Poderes do Estado, bem como os atos de revisão desses benefícios, na forma prevista nesta Lei, observados os seguintes princípios:"
 
 **I -**        garantia da participação de representantes dos segurados, ativos e inativos, nos colegiados e instâncias de decisão em que os seus interesses sejam objeto de discussão e deliberação, cabendo-lhes acompanhar e fiscalizar a sua administração;
@@ -39,12 +44,14 @@ Redação original: "Parágrafo único - Compete à unidade gestora do RPPS a ad
 
 **II -**          garantir o pagamento dos proventos de aposentadoria decorrentes de atos de concessão praticados pelas autoridades competentes;
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "II - garantir o pagamento dos proventos de aposentadoria, reserva remunerada e reforma, decorrentes de atos de concessão praticados pelas autoridades competentes;"
 
 **III -**     dar cobertura aos eventos de incapacidade permanente para o trabalho, morte e idade avançada.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "III - dar cobertura aos eventos de invalidez, prisão, morte, idade avançada e o salário-família."
 
 **Art. 5º** - São princípios básicos do RPPS:
@@ -53,7 +60,8 @@ Redação original: "III - dar cobertura aos eventos de invalidez, prisão, mort
 
 **II -**      garantia de aposentadoria em valor não inferior ao salário mínimo;
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "II - garantia de aposentadorias, reservas remuneradas, reformas e pensões pagas em valores não inferiores ao salário mínimo;"
 
 **III -**     proibição de criar, majorar ou estender qualquer benefício ou serviço, sem a correspondente fonte de custeio total;
@@ -64,10 +72,12 @@ Redação original: "II - garantia de aposentadorias, reservas remuneradas, refo
 
 **Parágrafo único -**   Os benefícios concedidos não poderão ser distintos dos previstos no Regime Geral de Previdência Social - RGPS.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DOS BENEFICIÁRIOS
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES GERAIS
 
 **Art. 6º** - São beneficiários do RPPS os segurados e dependentes, definidos nos termos das Seções I e II deste Capítulo.
@@ -88,12 +98,14 @@ DISPOSIÇÕES GERAIS
 
 **Art. 8º** - O servidor efetivo cedido pela União, outro Estado,  Distrito Federal ou  Município permanece filiado ao regime previdenciário de origem.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DOS SEGURADOS
 
 **Art. 9º** - A qualidade de segurado resulta, automaticamente, do início do exercício em cargo efetivo estadual.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 9º - A qualidade de segurado resulta, automaticamente, do início do exercício em cargo efetivo estadual para os servidores civis e militares."
 
 **Art. 10** - São segurados do regime estabelecido por esta Lei:
@@ -106,7 +118,8 @@ Revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **III -**     os servidores públicos civis inativos dos órgãos e entidades dos Poderes do Estado.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "III - os servidores públicos civis inativos e os militares reformados ou da reserva remunerada, dos órgãos e entidades dos Poderes do Estado."
 
 **Art. 11** - A perda da qualidade de segurado ocorrerá nas seguintes hipóteses:
@@ -117,7 +130,8 @@ Redação original: "III - os servidores públicos civis inativos e os militares
 
 **III -**     cassação da aposentadoria ou da disponibilidade, nas hipóteses previstas em lei.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DOS DEPENDENTES
 
 **Art. 12** - Consideram-se dependentes dos segurados definidos nos incisos I, II e III do artigo 10, para os efeitos desta Lei:
@@ -130,19 +144,22 @@ DOS DEPENDENTES
 
 **IV -**     os filhos solteiros de qualquer idade com incapacidade permanente para o trabalho enquanto permanecerem nesta condição;
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "IV - os filhos solteiros inválidos de qualquer idade, enquanto permanecerem nesta condição;"
 
 **V -**      os pais com incapacidade permanente para o trabalho enquanto permanecerem nesta condição.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "V - os pais inválidos, enquanto permanecerem nesta condição."
 
 **§ 1º** -A dependência econômica das pessoas indicadas nos incisos I, II e III deste artigo é presumida, e a das demais deve ser comprovada.
 
 **§ 2º** - Equiparam-se aos filhos, nas condições dos incisos III e IV do _caput_ deste artigo, exclusivamente o tutelado e o enteado, em relação aos quais tenha o segurado obtido delegação do pátrio poder, desde que atendidos os seguintes requisitos:
 
-Redação de acordo com o Decreto 14.317 de 18 de junho de 2021.<br>
+Redação de acordo com o Decreto 14.317 de 18 de junho de 2021.
+
 Redação original: "§ 2º - Equiparam-se aos filhos, nas condições dos incisos III e IV deste artigo, o tutelado e o enteado, em relação aos quais tenha o segurado obtido delegação do pátrio poder, desde que atendidos os seguintes requisitos: "
 
 **I -**        que o equiparado não tenha qualquer vinculação previdenciária, quer como segurado, quer como beneficiário dos pais ou de outrem, fato este que deve ser comprovado;
@@ -181,23 +198,28 @@ Redação original: "§ 2º - Equiparam-se aos filhos, nas condições dos incis
 
 **§ 8º** - A existência de dependente de qualquer das classes enumeradas nos incisos I, II, III e IV do _caput_ deste artigo exclui do direito às prestações previdenciárias os pais com incapacidade permanente para o trabalho.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 8º - A existência de dependente de qualquer das classes enumeradas nos incisos I, II, III e IV do caput deste artigo exclui do direito às prestações previdenciárias os pais inválidos."
 
 **§ 9º** - Dos dependentes incapazes permanentemente para o trabalho referidos nos incisos IV e V do _caput_ deste artigo exigir-se-á prova de não serem beneficiários, direta ou indiretamente, como segurados ou dependentes, de qualquer sistema previdenciário oficial, ressalvada a hipótese do § 10 deste artigo.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 9º - Dos dependentes inválidos referidos nos incisos IV e V do caput deste artigo exigir-se-á prova de não serem beneficiários, direta ou indiretamente, como segurados ou dependentes, de qualquer sistema previdenciário oficial, ressalvada a hipótese do parágrafo seguinte."
 
 **§ 10** - No caso dos dependentes referidos nos incisos III e IV do _caput_ deste artigo, será admitida a duplicidade de vinculação previdenciária como dependente, unicamente em relação aos genitores, segurados que sejam de qualquer regime previdenciário.
 
-Redação de acordo com a Lei 14.317 de 18 de junho de 2021.<br>
-Redação anterior de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020: "§ 10 - No caso de filho maior, solteiro, com incapacidade permanente para o trabalho e economicamente dependente, admitir-se-á a duplicidade de vinculação previdenciária como dependente, unicamente em relação aos genitores, segurados que sejam de qualquer regime previdenciário."<br>
+Redação de acordo com a Lei 14.317 de 18 de junho de 2021.
+
+Redação anterior de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020: "§ 10 - No caso de filho maior, solteiro, com incapacidade permanente para o trabalho e economicamente dependente, admitir-se-á a duplicidade de vinculação previdenciária como dependente, unicamente em relação aos genitores, segurados que sejam de qualquer regime previdenciário."
+
 Redação original: "§ 10 - No caso de filho maior, solteiro, inválido e economicamente dependente, admitir-se-á a duplicidade de vinculação previdenciária como dependente, unicamente em relação aos genitores, segurados que sejam de qualquer regime previdenciário."
 
 **§ 11** - As condições de incapacidade permanente para o trabalho serão apuradas pela Junta Médica Oficial do Estado ou por instituição credenciada pelo Poder Público.
 
-Redação  de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação  de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 11 - As condições de invalidez temporária e permanente serão apuradas pela junta médica oficial do Estado ou por instituição credenciada pelo Poder Público."
 
 **<Revogado> § 12** - A verificação da condição de invalidez temporária a que se refere o parágrafo anterior deverá ser realizada em prazo nunca superior a 6 (seis) meses.
@@ -206,21 +228,25 @@ Revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **§ 13** - Na hipótese de filhos e pais com incapacidade permanente para o trabalho, a unidade gestora do RPPS poderá, a qualquer tempo, se julgar necessário, solicitar apuração da condição de incapacidade pela Junta Médica oficial do Estado ou por instituição credenciada pelo Poder Público.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 13 - Na hipótese de filhos e pais inválidos em caráter permanente, a unidade gestora do RPPS poderá, a qualquer tempo, se julgar necessário, solicitar apuração da condição de invalidez pela junta médica oficial do Estado, ou por instituição credenciada pelo Poder Público."
 
 **§ 14** - O dependente do segurado será também beneficiário do RPPS a partir da data em que lhe for deferido o benefício de pensão por ato da autoridade competente.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 14 - O dependente do segurado será também beneficiário do RPPS a partir da data em que lhe for deferido o benefício de pensão ou de auxílio-reclusão por ato da autoridade competente."
 
 **§ 15** -  A condição de dependente para o filho, o enteado e o tutelado solteiros perdurará até 24 (vinte e quatro) anos de idade, desde que não percebam qualquer rendimento, na forma do § 6º deste artigo, e sejam comprovadas, semestralmente, sua matrícula e frequência regular em curso de nível superior ou a sujeição a ensino especial.
 
-Redação de acordo com a Lei 14.317 de 18 de junho de 2021.<br>
-Redação original: "§ 15 - A condição de dependente para o filho, o enteado e o tutelado solteiros, desde que não percebam qualquer rendimento, perdurará até 24 (vinte e quatro) anos de idade, na forma do § 6º deste artigo, e sejam comprovadas, semestralmente, sua matrícula e frequência regular em curso de nível superior ou a sujeição a ensino especial. "<br>
+Redação de acordo com a Lei 14.317 de 18 de junho de 2021.
+
+Redação original: "§ 15 - A condição de dependente para o filho, o enteado e o tutelado solteiros, desde que não percebam qualquer rendimento, perdurará até 24 (vinte e quatro) anos de idade, na forma do § 6º deste artigo, e sejam comprovadas, semestralmente, sua matrícula e frequência regular em curso de nível superior ou a sujeição a ensino especial. "
+
 Art. 15 acrescido pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
-**Art.** **13** - A perda da qualidade de dependente e, se for o caso, a de beneficiário do RPPS ensejará o cancelamento do benefício respectivo e ocorrerá:
+**Art.13** - A perda da qualidade de dependente e, se for o caso, a de beneficiário do RPPS ensejará o cancelamento do benefício respectivo e ocorrerá:
 
 **I -**        para o cônjuge, pela anulação do casamento, pela separação de fato ou judicial, ou pelo divórcio, desde que o segurado não lhe preste alimentos de forma espontânea ou fixados judicialmente;
 
@@ -230,7 +256,8 @@ Art. 15 acrescido pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **IV -**     para o maior com incapacidade permanente para o trabalho pela cessação da incapacidade;
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "IV - para o maior inválido, pela cessação da invalidez;"
 
 **V -**      para o beneficiário solteiro, viúvo ou divorciado, pelo casamento ou pela união estável;
@@ -243,8 +270,10 @@ Redação original: "IV - para o maior inválido, pela cessação da invalidez;"
 
 **§ 1º** - A perda da qualidade de beneficiário para os dependentes de que tratam os incisos I e II do _caput_ do art. 12, bem assim daqueles previstos na parte final dos incisos I e II do _caput_ deste artigo, ocorrerá, ainda, após o decurso de 04 (quatro) meses de percepção do benefício, se o óbito ocorrer sem que o segurado tenha realizado o recolhimento mínimo de 18 (dezoito) contribuições.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
-Redação anterior de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015: "§ 1º - A perda da qualidade de beneficiário para os dependentes de que tratam os incisos I e II do caput do art. 12, bem assim daqueles previstos na parte final dos incisos I e II do caput deste artigo, ocorrerá, ainda, após o decurso de 04 (quatro) meses de percepção do benefício, se o óbito ocorrer sem que o segurado tenha realizado o recolhimento mínimo de 18 (dezoito) contribuições ou se o casamento ou a união estável contar com menos de 02 (dois) anos."<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
+Redação anterior de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015: "§ 1º - A perda da qualidade de beneficiário para os dependentes de que tratam os incisos I e II do caput do art. 12, bem assim daqueles previstos na parte final dos incisos I e II do caput deste artigo, ocorrerá, ainda, após o decurso de 04 (quatro) meses de percepção do benefício, se o óbito ocorrer sem que o segurado tenha realizado o recolhimento mínimo de 18 (dezoito) contribuições ou se o casamento ou a união estável contar com menos de 02 (dois) anos."
+
 Redação original: "§ 1º - A comprovação do pensionamento espontâneo, para os fins dos incisos I e II deste artigo, será feita mediante as declarações de imposto de renda do alimentante e do alimentado, se for o caso, ou por qualquer outro meio de prova inequívoco."
 
 **§ 1º-A** - Perde o direito à pensão por morte o cônjuge ou companheiro se comprovada, a qualquer tempo, simulação ou fraude no casamento ou na união estável, ou a formalização desses com o fim exclusivo de constituir benefício previdenciário. 
@@ -253,8 +282,10 @@ Redação original: "§ 1º - A comprovação do pensionamento espontâneo, para
 
 **§ 2º** - Não se aplica a regra prevista no § 1º deste artigo:
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
-Redação anterior de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015: "§ 2º - Não se aplica a regra prevista no parágrafo anterior:"<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
+Redação anterior de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015: "§ 2º - Não se aplica a regra prevista no parágrafo anterior:"
+
 Redação original: "§ 2º - O cônjuge e o(a) companheiro(a) separado(a) de fato e não pensionado(a) judicialmente deverá comprovar sua dependência econômica em relação ao segurado."
 
 **I -**         quando o óbito do segurado seja decorrente de acidente posterior ao casamento ou ao início da união estável;
@@ -263,22 +294,26 @@ Inciso I acrescido pelo art. 1º da Lei nº 13.447, de 07 de outubro de 2015.
 
 **II -**      quando qualquer dos beneficiários previstos no § 1º deste artigo seja considerado com incapacidade permanente para o trabalho, mediante exame médico-pericial a cargo da Junta Médica Oficial do Estado, por doença ou acidente ocorrido após o casamento ou início da união estável e anterior ao óbito.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação anterior de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015 que acresceu o inciso II  ao § 2º: "II - quando qualquer dos beneficiários previstos no § 1º deste artigo seja considerado incapaz e insuscetível de reabilitação para o exercício de atividade remunerada que lhe garanta subsistência, mediante exame médico-pericial a cargo da Junta Médica Oficial do Estado, por doença ou acidente ocorrido após o casamento ou início da união estável e anterior ao óbito."
 
 **§ 3º** - A comprovação do pensionamento espontâneo, para os fins dos incisos I e II do _caput_ deste artigo, será feita mediante as declarações de imposto de renda do alimentante e do alimentado, se for o caso, ou por qualquer outro meio de prova inequívoco.
 
-Redação de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015.<br>
+Redação de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015.
+
 Redação original: "§ 3º - A qualidade de dependente é intransmissível e não se restabelece."
 
 **§ 4º** - O cônjuge e o(a) companheiro(a) separado(a) de fato e não pensionado(a) judicialmente deverá comprovar sua dependência econômica em relação ao segurado.
 
-Redação de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015.<br>
+Redação de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015.
+
 Redação original: "§ 4º - Perderá o direito ao benefício de pensão o dependente que for condenado, por decisão judicial transitada em julgado, pela prática de crime doloso contra a vida do segurado;"
 
 **§ 5º** -  A qualidade de dependente é intransmissível e não se restabelece.
 
-Redação de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015.<br>
+Redação de acordo com o art. 1º da Lei nº 13.447, de 07 de outubro de 2015.
+
 Redação original: "§ 5º - Para os efeitos desta Lei, a condição de dependente deverá estar caracterizada no momento do fato gerador do benefício."
 
 **§ 6º -** Perderá o direito ao benefício de pensão o dependente que for condenado, por decisão judicial transitada em julgado, pela prática de crime doloso contra a vida do segurado.
@@ -289,10 +324,12 @@ Redação original: "§ 5º - Para os efeitos desta Lei, a condição de depende
 
 § 7º acrescido pelo art. 2º da Lei nº 13.447, de 07 de outubro de 2015.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DOS BENEFÍCIOS
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES INTRODUTÓRIAS
 
 **Art. 14** - Os benefícios previdenciários consistem em prestações de caráter pecuniário a que fazem jus o segurado ou seus dependentes, conforme a respectiva titularidade, compreendendo:
@@ -301,17 +338,20 @@ DISPOSIÇÕES INTRODUTÓRIAS
 
 **a)**   aposentadoria por incapacidade permanente para o trabalho;
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "a) aposentadoria por invalidez permanente:"
 
 **b)** aposentadoria compulsória;
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "b) aposentadoria compulsória por implemento de idade;"
 
 **c)**   aposentadoria voluntária;
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "c) aposentadoria voluntária por tempo de contribuição;"
 
 **<Revogado> d)**    aposentadoria voluntária por implemento de idade;
@@ -346,15 +386,18 @@ Revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 Revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS APOSENTADORIAS
 
-Subseção I -<br>
+Subseção I -
+
 DA APOSENTADORIA POR INVALIDEZ
 
 **Art. 15** - A aposentadoria por incapacidade permanente para o trabalho será devida ao segurado que, estando ou não em gozo de licença para tratamento de saúde, for considerado, por laudo médico pericial oficial, incapaz de readaptação para o exercício de seu cargo e retroagirá à data da expedição do referido laudo.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 15 - A aposentadoria por invalidez será devida ao segurado que, estando ou não em gozo de licença para tratamento de saúde, for considerado, por laudo médico pericial oficial, incapaz de readaptação para o exercício de seu cargo e retroagirá à data da expedição do referido laudo."
 
 **§ 1º** - O laudo a que se refere o _caput_ deste artigo será elaborado mediante a realização de exame médico-pericial a cargo da junta médica oficial do Estado, ou por instituição credenciada pelo Poder Público.
@@ -369,36 +412,42 @@ Redação original: "Art. 15 - A aposentadoria por invalidez será devida ao seg
 
 **§ 4º** - Em caso de doença que impuser afastamento compulsório, com base em laudo conclusivo da medicina especializada, ratificado pela Junta Médica Oficial do Estado, a aposentadoria por incapacidade permanente para o trabalho independerá de licença para tratamento de saúde, e será devida a partir da data da expedição do laudo oficial confirmatório.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 4º - Em caso de doença que impuser afastamento compulsório, com base em laudo conclusivo da medicina especializada, ratificado pela junta médica oficial do Estado, a aposentadoria por invalidez permanente independerá de licença para tratamento de saúde, e será devida a partir da data da expedição do laudo oficial confirmatório. "
 
 **§ 5º** - O pagamento do benefício de aposentadoria por incapacidade permanente para o trabalho decorrente de doença mental somente será feito ao curador do segurado, condicionado à apresentação do termo de curatela, ainda que provisório.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 5º - O pagamento do benefício de aposentadoria por invalidez decorrente de doença mental somente será feito ao curador do segurado, condicionado à apresentação do termo de curatela, ainda que provisório."
 
 **§ 6º** - O servidor que voltar a exercer atividade laboral remunerada terá a aposentadoria por incapacidade permanente para o trabalho suspensa e será notificado para apresentação de defesa que comprove a incapacidade.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 6º - O servidor que voltar a exercer atividade laboral remunerada terá a aposentadoria por invalidez suspensa e será notificado para apresentação de defesa que comprove a incapacidade."
 
 **§ 7º** - Se comprovada a capacidade do servidor para o exercício da função pública, cessará o benefício e haverá a reversão do servidor para o serviço ativo, a partir da publicação do respectivo ato no Diário Oficial do Estado.
 
 **§ 8º** - O servidor que tenha se aposentado por incapacidade permanente para o trabalho será submetido, em prazo nunca superior a 02 (dois) anos, à Junta Médica Oficial do Estado para comprovação da incapacidade, sem prejuízo da requisição de ofício, a qualquer tempo, pelo referido órgão.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 8º - O servidor que se tenha aposentado por invalidez será submetido, em prazo nunca superior a 2 (dois) anos, à junta médica oficial do Estado para comprovação de sua invalidez, sem prejuízo da requisição de ofício, a qualquer tempo, pelo referido órgão."
 
 **§ 9º** - O servidor que, injustificadamente, não se submeter ao exame médico de que trata o parágrafo anterior, terá o pagamento do seu benefício imediatamente suspenso, até que atenda à convocação oficial.
 
 **§ 10** - Para os fins do disposto nesta Lei, acidente de trabalho é aquele ocorrido no exercício do cargo, que se relacione, direta ou indiretamente, com as atribuições deste, provocando lesão corporal ou perturbação funcional que cause a perda ou redução, permanente ou temporária, da capacidade para o trabalho.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 10 - Acidente em serviço é aquele ocorrido no exercício do cargo, que se relacione, direta ou indiretamente, com as atribuições deste, provocando lesão corporal ou perturbação funcional que cause a perda ou redução, permanente ou temporária, da capacidade para o trabalho."
 
 **§ 11 -** Equiparam-se ao acidente de trabalho, para os efeitos desta Lei:
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 11 - Equiparam-se ao acidente em serviço, para os efeitos desta Lei:"
 
 **I -**        o acidente ligado ao serviço que, embora não tenha sido a causa única, haja contribuído diretamente para a redução ou perda da sua capacidade para o trabalho, ou produzido lesão que exija atenção médica para a sua recuperação;
@@ -427,17 +476,20 @@ Redação original: "§ 11 - Equiparam-se ao acidente em serviço, para os efeit
 
 **§ 12** - Nos períodos destinados a refeição ou descanso, ou por ocasião da satisfação de outras necessidades fisiológicas, no local do trabalho ou durante este, considera-se o servidor no exercício do cargo.
 
-Subseção II -<br>
+Subseção II -
+
 DA APOSENTADORIA COMPULSÓRIA
 
 **Art. 16** - O servidor será aposentado compulsoriamente, com proventos proporcionais ao tempo de contribuição, aos 70 (setenta) anos de idade, ou aos 75 (setenta e cinco) anos de idade, na forma de lei complementar.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 16 - Ressalvados os casos previstos em lei, o segurado será aposentado compulsoriamente aos 70 (setenta) anos de idade, com proventos proporcionais ao tempo de contribuição, calculados na forma estabelecida no artigo 36 desta Lei."
 
 **Parágrafo único -**   A aposentadoria será declarada por ato da autoridade competente, com vigência a partir do dia em que o servidor atingir a idade-limite para permanência no serviço.
 
- <Revogada>Subseção III -<br>
+ <Revogada>Subseção III -
+
 DA APOSENTADORIA POR IDADE E TEMPO DE CONTRIBUIÇÃO
 
 Subseção III revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
@@ -446,14 +498,16 @@ Subseção III revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **I -**        tempo mínimo de 10 (dez) anos de efetivo exercício no serviço público;
 
-Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.<br>
+Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.
+
 Redação original: "I - tempo mínimo de 10 (dez) anos de efetivo exercício no serviço público estadual;"
 
 **II -**      tempo mínimo de 5 (cinco) anos de efetivo exercício no cargo em que se dará a aposentadoria;
 
 **III -**     60 (sessenta) anos de idade e 35 (trinta e cinco) anos de tempo de contribuição, se homem, e 55 (cinqüenta e cinco) anos de idade e 30 (trinta) anos de tempo de contribuição, se mulher.
 
- <Revogada>Subseção IV -<br>
+ <Revogada>Subseção IV -
+
 DA APOSENTADORIA POR IDADE
 
 Subseção IV revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
@@ -462,14 +516,16 @@ Subseção IV revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **I -**        tempo mínimo de 10 (dez) anos de efetivo exercício no serviço público;
 
-Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.<br>
+Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.
+
 Redação original: "I - tempo mínimo de 10 (dez) anos de efetivo exercício no serviço público estadual;"
 
 **II -**      tempo mínimo de 5 (cinco) anos de efetivo exercício no cargo em que se dará a aposentadoria;
 
 **III -**     65 (sessenta e cinco) anos de idade, se homem, e 60 (sessenta) anos de idade, se mulher.
 
- <Revogada>Subseção V -<br>
+ <Revogada>Subseção V -
+
 DA APOSENTADORIA ESPECIAL DE PROFESSOR
 
 Subseção V revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
@@ -482,7 +538,8 @@ Subseção V revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **III -**     55 (cinqüenta e cinco) anos de idade e 30 (trinta) anos de contribuição, se homem, e 50 (cinqüenta) anos de idade e 25 (vinte e cinco) anos de contribuição, se mulher.
 
- <Revogada>Subseção VI -<br>
+ <Revogada>Subseção VI -
+
 DA TRANSFERÊNCIA DO MILITAR DO ESTADO PARA A INATIVIDADE
 
 Subseção VI revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
@@ -493,10 +550,12 @@ Subseção VI revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 TÍTULO III
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 <Revogada> Subseção VII
 
-Subseção VII revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Subseção VII revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Título III, Capítulo I e artigos 20-A a 20-H acrescidos pela Lei nº 12.597, de 22 de novembro de 2012.
 
 **<Revogado> Art. 20-A** - O salário-família será pago aos servidores ativos e inativos que tiverem os seguintes dependentes:
@@ -549,7 +608,8 @@ Art. 20-G revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 Art. 20-H revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA PENSÃO
 
 **Art. 21** - A pensão será devida aos dependentes do segurado, quando do seu falecimento, a partir da data:
@@ -568,7 +628,8 @@ DA PENSÃO
 
 **Art. 22** - A pensão por morte concedida aos dependentes do servidor público será equivalente a uma cota familiar de 50% (cinquenta por cento) do valor da aposentadoria recebida pelo servidor ou daquela a que teria direito se fosse aposentado por incapacidade permanente para o trabalho na data do óbito, acrescida de cotas de 15 (quinze) pontos percentuais por dependente, até o máximo de 100% (cem por cento).
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 22 - O benefício da pensão por morte será igual:"
 
 **<Revogado> I -** à totalidade dos proventos percebidos pelo servidor inativo, na data anterior à do óbito, até o limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social de que trata o artigo 201 da Constituição Federal, acrescido de 70% (setenta por cento) da parcela excedente a este limite;
@@ -587,7 +648,8 @@ Inciso II revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **c)**   que sejam oriundos do serviço público em outro ente da Federação e ali estivessem vinculados ao Regime de Previdência Complementar, na forma do art. 40, §§ 14 a 16, da Constituição Federal, independentemente de adesão ao plano de benefícios administrado por entidade fechada de previdência complementar.
 
-Renomeado para § 1º pela Lei 14.317 de 18 de junho de 2021.<br>
+Renomeado para § 1º pela Lei 14.317 de 18 de junho de 2021.
+
 Parágrafo único acrescido ao art. 22 pelo art. 39 da Lei nº 13.222, de 12 de janeiro de 2015.
 
 **§ 2º** - Observado o recolhimento mínimo de 18 (dezoito) contribuições mensais até a data do óbito do instituidor segurado, o tempo de duração da pensão por morte devida aos beneficiários previstos no § 1º do art. 13 desta Lei será calculado de acordo com sua idade, nos termos abaixo especificados:
@@ -604,42 +666,62 @@ Parágrafo único acrescido ao art. 22 pelo art. 39 da Lei nº 13.222, de 12 de 
 
 **VI** \- vitalícia, com 44 (quarenta e quatro) ou mais anos de idade.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
-Redação anterior de acordo com o art. 3º da Lei nº 13.447, de 07 de outubro de 2015 que acrescentou o § 2º ao art. 22: "§ 2º - Observado o recolhimento mínimo de 18 (dezoito) contribuições mensais e de pelo menos 02 (dois) anos de casamento ou união estável até a data do óbito do instituidor segurado, o tempo de duração da pensão por morte devida aos beneficiários previstos no § 1º do art. 13 desta Lei será calculado de acordo com sua expectativa de sobrevida àquela data, conforme tabela abaixo:<br>
-Expectativa de sobrevida à idade x do cônjuge, companheiro ou companheira, em anos (E(x))<br>
-55 < E(x)<br>
-51 < E(x) 55<br>
-48 < E(x) 51<br>
-38 < E(x) 48<br>
-35 < E(x) 38<br>
-E(x) 35<br>
-Duração do benefício de pensão por morte (em anos)<br>
-3<br>
-6<br>
-10<br>
-15<br>
-20<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
+Redação anterior de acordo com o art. 3º da Lei nº 13.447, de 07 de outubro de 2015 que acrescentou o § 2º ao art. 22: "§ 2º - Observado o recolhimento mínimo de 18 (dezoito) contribuições mensais e de pelo menos 02 (dois) anos de casamento ou união estável até a data do óbito do instituidor segurado, o tempo de duração da pensão por morte devida aos beneficiários previstos no § 1º do art. 13 desta Lei será calculado de acordo com sua expectativa de sobrevida àquela data, conforme tabela abaixo:
+
+Expectativa de sobrevida à idade x do cônjuge, companheiro ou companheira, em anos (E(x))
+
+55 < E(x)
+
+51 < E(x) 55
+
+48 < E(x) 51
+
+38 < E(x) 48
+
+35 < E(x) 38
+
+E(x) 35
+
+Duração do benefício de pensão por morte (em anos)
+
+3
+
+6
+
+10
+
+15
+
+20
+
 vitalício"
 
 **<Revogado> § 3º \-** Para efeito do disposto no § 2º deste artigo, a expectativa de sobrevida será obtida a partir da Tábua Completa de Mortalidade - ambos os sexos - construída pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, vigente no momento do óbito do segurado instituidor.
 
-§ 3º revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+§ 3º revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
+
 § 3º acrescido ao art. 22 pelo art. 3º da Lei nº 13.447, de 07 de outubro de 2015.
 
 **§ 4º \-** Os beneficiários previstos no § 1º do art. 13 desta Lei terão direito a pensão por morte vitalícia, independentemente de período de recolhimento mínimo de contribuições até a data do óbito do instituidor segurado, nas seguintes condições:
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
-Redação de acordo com a Lei nº 13.568, de 20 de junho de 2016: "§ 4º - Os beneficiários previstos no § 1º do art. 13 desta Lei terão direito a pensão por morte vitalícia, independentemente de período de recolhimento mínimo de contribuições e da duração do casamento ou união estável até a data do óbito do instituidor segurado, nas seguintes condições:"<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
+Redação de acordo com a Lei nº 13.568, de 20 de junho de 2016: "§ 4º - Os beneficiários previstos no § 1º do art. 13 desta Lei terão direito a pensão por morte vitalícia, independentemente de período de recolhimento mínimo de contribuições e da duração do casamento ou união estável até a data do óbito do instituidor segurado, nas seguintes condições:"
+
 Redação anterior de acordo com o art. 3º da Lei nº 13.447, de 07 de outubro de 2015 que acresceu o § 4º ao art. 22: "§ 4º - Os beneficiários previstos no § 1º do art. 13 desta Lei considerados incapazes e insuscetíveis de reabilitação para o exercício de atividade remunerada que lhe garanta subsistência, mediante exame médico-pericial a cargo da Junta Médica Oficial do Estado, por acidente ou doença ocorrido entre o casamento ou início da união estável e a cessação do pagamento do benefício, terão direito à pensão por morte vitalícia."
 
 **I -**        quando considerados com incapacidade permanente para o trabalho, mediante exame médico-pericial a cargo da Junta Médica Oficial do Estado, por acidente ou doença ocorrido entre o casamento ou início da união estável e a cessação do pagamento do benefício;
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação de acordo com a Lei nº 13.568, de 20 de junho de 2016: "I - quando considerados incapazes e insuscetíveis de reabilitação para o exercício de atividade remunerada que lhe garanta subsistência, mediante exame médico-pericial a cargo da Junta Médica Oficial do Estado, por acidente ou doença ocorrido entre o casamento ou início da união estável e a cessação do pagamento do benefício;"
 
 **II -**      quando o óbito do segurado decorrer de acidente de trabalho.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação de acordo com a Lei nº 13.568, de 20 de junho de 2016: "II - quando o óbito do segurado decorrer de acidente em serviço."
 
 **§ 5º** - A pensão por morte devida aos dependentes do policial civil e do agente penitenciário, decorrente de agressão sofrida no exercício ou em razão da função será vitalícia para o cônjuge ou companheiro e equivalente à remuneração do cargo.” (NR)
@@ -656,7 +738,8 @@ Redação de acordo com a Lei nº 13.568, de 20 de junho de 2016: "II - quando o
 
 **§ 4º** - Requerida a habilitação de novo(s) possível(is) dependente(s) ao benefício de pensão já deferido a outrem, o(s) beneficiário(s) já habilitado(s) será(ão) notificado(s) pela autoridade competente acerca da possibilidade de recálculo do valor da pensão e da devolução dos valores eventualmente percebidos a maior.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 4º - Requerida a habilitação de novo(s) possível(is) dependente(s) ao benefício de pensão já deferido a outrem, o(s) beneficiário(s) já habilitado(s) será(ão) notificado(s) pela autoridade competente para, no prazo de 30 (trinta) dias, declarar(em) se aceita(m) ou não a reserva imediata da(s) cota(s)-parte(s) eventualmente cabível(is) ao(s) novo(s) requerente(s), com a redução proporcional do(s) valor(es) do benefício que está sendo pago, interpretando-se como aceitação o seu silêncio."
 
 **<Revogado> § 5º** - Caso o(s) beneficiário(s) já habilitado(s) não aceite(m) a reserva da(s) cota(s)-parte(s) e venha(m) a ser posteriormente deferido(s) o(s) pedido(s) ao(s) novo(s) dependente(s) habilitado(s), o excedente que tenha sido indevidamente pago àquele(s) por conta da(s) cota(s)-parte(s) instituída(s) em favor deste(s) será descontado das futuras prestações do benefício.
@@ -673,7 +756,8 @@ Revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **Art. 24** - O direito à cota-parte da pensão extinguir-se-á pelos motivos previstos em lei, devendo o valor total do benefício ser redistribuído entre os dependentes remanescentes após a exclusão da cota-parte extinta.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 24 - O direito à cota-parte da pensão extinguir-se-á pelos motivos previstos em lei, devendo o valor total do benefício, inclusive a cota-parte sobre que se tenha extinguido o direito, ser redistribuído entre os dependentes remanescentes, assegurado o pagamento do benefício até sua completa extinção."
 
 **<Revogado> Art. 25** - É assegurado o pagamento retroativo dos valores referentes à pensão que restaram suspensos nos períodos compreendidos entre a realização de cada perícia médica e a confirmação da invalidez temporária de que trata o § 11 do artigo 12 desta Lei.
@@ -690,7 +774,8 @@ Art. 26 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **Parágrafo único -**   Verificada a existência de cumulação indevida de pensões, será o beneficiário notificado para que exerça, no prazo de 30 (trinta) dias, o direito de opção, sob pena de suspensão do pagamento do benefício por último concedido, sem prejuízo da devolução das importâncias indevidamente recebidas.
 
-<Revogada> SEÇÃO III -<br>
+<Revogada> SEÇÃO III -
+
 DO AUXÍLIO-RECLUSÃO
 
 SEÇÃO III revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
@@ -729,14 +814,16 @@ Art. 29 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 Art. 30 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
-<Revogado> CAPÍTULO II -<br>
+<Revogado> CAPÍTULO II -
+
 DAS REGRAS ESPECIAIS E DE TRANSIÇÃO
 
 CAPÍTULO II  revogada pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **<Revogado> Art. 31** - Ao segurado do RPPS que tiver ingressado por concurso público de provas ou de provas e títulos em cargo público efetivo da Administração Pública direta, autárquica e fundacional de quaisquer das esferas federativas, até 16 de dezembro de 1998, será facultada sua aposentadoria com proventos calculados de acordo com o art. 36 desta Lei, quando o servidor, cumulativamente:
 
-Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.<br>
+Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.
+
 Redação original: "Art. 31 - Ao segurado do RPPS que tiver ingressado por concurso público de provas ou de provas e títulos em cargo público efetivo nos órgãos e entidades dos Poderes do Estado, até 16 de dezembro de 1998, será facultada sua aposentadoria com proventos calculados de acordo com o artigo 36 desta Lei, quando o servidor, cumulativamente:"
 
 **I -**        tiver 53 (cinqüenta e três) anos de idade, se homem, e 48 (quarenta e oito) anos de idade, se mulher;
@@ -757,15 +844,18 @@ Redação original: "Art. 31 - Ao segurado do RPPS que tiver ingressado por conc
 
 **§ 2º** - O segurado professor que, até a data de publicação da Emenda Constitucional Federal nº 20, de 15 de dezembro de 1998, tenha ingressado, regularmente, em cargo efetivo de Magistério Público da União, dos Estados, dos Municípios e do Distrito Federal, incluídas suas autarquias e fundações, e que opte por se aposentar na forma do disposto no _caput_ deste artigo, terá o tempo de serviço exercido até a publicação daquela Emenda contado com o acréscimo de 17% (dezessete por cento), se homem, e de 20% (vinte por cento), se mulher, desde que se aposente, exclusivamente, com tempo de efetivo exercício nas funções de Magistério, observado o disposto no § 1º deste artigo.
 
-Art. 31 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.<br>
-Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.<br>
+Art. 31 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
+
+Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.
+
 Redação original: "§ 2º - O segurado professor que, até a data de publicação da Emenda Constitucional nº 20, de 15 de dezembro de 1998, tenha ingressado, regularmente, em cargo efetivo de magistério no Estado, incluídas suas autarquias e fundações, e que opte por aposentar-se na forma do disposto no caput, terá o tempo de serviço exercido até a publicação daquela Emenda contado com o acréscimo de 17% (dezessete por cento), se homem, e de 20% (vinte por cento), se mulher, desde que se aposente, exclusivamente, com tempo de efetivo exercício nas funções de magistério, observado o disposto no § 1º deste artigo."
 
 **§ 3º** - As aposentadorias concedidas conforme este artigo serão reajustadas de acordo com o disposto no artigo 39 desta Lei.
 
 **<Revogado> Art. 32** - Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas no art. 17 ou pelas regras estabelecidas no art. 31, ambos desta Lei, o segurado do RPPS que tiver ingressado por concurso público de provas ou de provas e títulos em cargo público efetivo, em qualquer das esferas federativas, até 31 de dezembro de 2003, poderá se aposentar com proventos integrais, que corresponderão à totalidade da remuneração do servidor no cargo efetivo em que se der a aposentadoria, quando, observadas as reduções de idade e tempo de contribuição contidas no art. 19 desta Lei, vier a preencher, cumulativamente, as seguintes condições:
 
-Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.<br>
+Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.
+
 Redação original: "Art. 32 - Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas no artigo 17, ou pelas regras estabelecidas no artigo 31, ambos desta Lei, o segurado do RPPS que tiver ingressado por concurso público de provas ou de provas e títulos em cargo público efetivo nos órgãos e entidades dos Poderes do Estado até 31 de dezembro de 2003 poderá aposentar-se com proventos integrais, que corresponderão à totalidade da remuneração do servidor no cargo efetivo em que se der a aposentadoria, quando, observadas as reduções de idade e tempo de contribuição contidas no artigo 19 desta Lei, vier a preencher, cumulativamente, as seguintes condições:"
 
 **I -**        60 (sessenta) anos de idade, se homem, e 55 (cinqüenta e cinco) anos de idade, se mulher;
@@ -774,7 +864,8 @@ Redação original: "Art. 32 - Ressalvado o direito de opção à aposentadoria 
 
 **III -**     20 (vinte) anos de efetivo exercício no serviço público;
 
-Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.<br>
+Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.
+
 Redação original: "III - 25 (vinte e cinco) anos de efetivo exercício no serviço público estadual;"
 
 **IV -**     10 (dez**)** anos de carreira e 5 (cinco) anos de efetivo exercício no cargo em que se der a aposentadoria.
@@ -787,7 +878,8 @@ Art. 32 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **Parágrafo único** - Aplica-se ao valor dos proventos de aposentadorias concedidas com base no disposto do _caput_ do art. 7º da Emenda Constitucional Federal nº 41, de 19 de dezembro de 2003, observando-se igual critério de revisão às pensões derivadas dos proventos desses servidores.
 
-Art. 32-A revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Art. 32-A revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Art. 32-A acrescido pela Lei nº 12.597, de 22 de novembro de 2012.
 
 **<Revogado> Art. 33** - Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas pelo artigo 17 ou pelas regras estabelecidas pelos artigos 31 e 32, todos desta Lei o servidor que tenha ingressado no serviço público até 16 de dezembro de 1998 poderá aposentar-se com proventos integrais, desde que preencha, cumulativamente, as seguintes condições:
@@ -812,20 +904,24 @@ Art. 34 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 Art. 35 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS REGRAS DE CÁLCULO DOS PROVENTOS E REAJUSTE DOS BENEFÍCIOS
 
 **Art. 36** - Para o cálculo dos benefícios do RPPS, será utilizada a média aritmética simples das maiores remunerações, subsídios e salários de contribuição adotados como base para contribuições a Regime Próprio de Previdência Social e ao Regime Geral de Previdência Social, ou como base para contribuições decorrentes das atividades militares de que tratam os arts. 42 e 142 da Constituição Federal, atualizados monetariamente, correspondentes a 90% (noventa por cento) do período contributivo desde a competência julho de 1994 ou desde o início da contribuição, se posterior àquela competência.
 
-Redação de acordo com a Lei 14.317 de 18 de junho de 2021.<br>
-Redação anterior de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020: "Art. 36 - Para o cálculo dos benefícios do RPPS, será utilizada a média aritmética simples dos salários de contribuição e das remunerações adotados como base para contribuições a Regime Próprio de Previdência Social e ao Regime Geral de Previdência Social, ou como base para contribuições decorrentes das atividades militares de que tratam os arts. 42 e 142 da Constituição Federal, atualizados monetariamente, correspondentes a 90% (noventa por cento) do período contributivo desde a competência julho de 1994 ou desde o início da contribuição, se posterior àquela competência. "<br>
+Redação de acordo com a Lei 14.317 de 18 de junho de 2021.
+
+Redação anterior de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020: "Art. 36 - Para o cálculo dos benefícios do RPPS, será utilizada a média aritmética simples dos salários de contribuição e das remunerações adotados como base para contribuições a Regime Próprio de Previdência Social e ao Regime Geral de Previdência Social, ou como base para contribuições decorrentes das atividades militares de que tratam os arts. 42 e 142 da Constituição Federal, atualizados monetariamente, correspondentes a 90% (noventa por cento) do período contributivo desde a competência julho de 1994 ou desde o início da contribuição, se posterior àquela competência. "
+
 Redação original: "Art. 36 - No cálculo dos proventos das aposentadorias referidas nos artigos 15, 16, 17, 18, 19 e 31 desta Lei, será considerada a média aritmética simples das maiores remunerações ou subsídios, utilizados como base para as contribuições do servidor aos regimes de previdência a que esteve vinculado, correspondentes a 80% (oitenta por cento) de todo o período contributivo desde a competência de julho de 1994, ou desde a do início da contribuição, se posterior àquela competência."
 
 **§ 1º** - As remunerações ou subsídios considerados no cálculo do valor inicial dos proventos terão os seus valores atualizados, mês a mês, de acordo com a variação integral do índice fixado para a atualização dos salários de contribuição considerados no cálculo dos benefícios do RGPS.
 
 **§ 2º** - Nas competências a partir de julho de 1994, em que não tenha havido contribuição para o RPPS, a base de cálculo dos proventos será a remuneração ou subsídio do segurado.
 
-Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.<br>
+Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.
+
 Redação original: "§ 2º - A base de cálculo dos proventos será a remuneração do servidor no cargo efetivo nas competências a partir de julho de 1994 em que tenha havido contribuição para o RPPS."
 
 **§ 3º** - Os valores das remunerações a serem utilizadas no cálculo de que trata este artigo serão comprovados mediante documento fornecido pelos órgãos aos quais o servidor esteve vinculado, ou por outro documento público.
@@ -838,7 +934,8 @@ Redação original: "§ 2º - A base de cálculo dos proventos será a remunera�
 
 **§ 5º** - A média a que se refere o _caput_ deste artigo será limitada ao valor máximo do salário de contribuição do Regime Geral de Previdência Social para o servidor que ingressou no serviço público em cargo efetivo após a implantação do regime de previdência complementar ou que tenha exercido a opção correspondente, nos termos do disposto nos §§ 14 a 16 do art. 40 da Constituição Federal.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 5º - Os proventos, calculados de acordo com o caput deste artigo, por ocasião de sua concessão, não poderão exceder a remuneração do respectivo servidor no cargo efetivo em que se deu a aposentadoria."
 
 **<Revogado> § 6º** - Para o cálculo dos proventos proporcionais ao tempo de contribuição será utilizada a fração cujo numerador será o total desse tempo e o denominador o tempo necessário à respectiva aposentadoria voluntária com proventos integrais.
@@ -875,12 +972,14 @@ Art. 38 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **§ 1º -** Na aposentadoria compulsória, quando o servidor já tiver adquirido o direito a quaisquer das aposentadorias referidas no artigo anterior, serão incluídas na fixação dos proventos as gratificações e vantagens percebidas por 5 (cinco) anos consecutivos ou 10 (dez) anos interpolados, calculadas pela média percentual dos últimos 12 (doze) meses anteriores ao mês civil em que foi adquirido o direito a quaisquer daquelas aposentadorias ou dos últimos 12 (doze) meses anteriores ao mês civil em que completou a idade de 70 (setenta) anos.
 
-Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.<br>
+Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.
+
 Redação original: "§ 1º - Aplica-se o critério estabelecido no caput deste artigo, referente à apuração da média dos últimos 12 (doze) meses, ainda que em algum deles não tenha havido percepção da vantagem."
 
 **§ 2º** - Na aposentadoria por invalidez, quando o servidor já tiver adquirido o direito a quaisquer das aposentadorias referidas no artigo anterior, serão incluídas na fixação dos proventos as gratificações e vantagens percebidas por 5 (cinco) anos consecutivos ou 10 (dez) interpolados, calculadas pela média percentual dos últimos 12 (doze) meses anteriores ao mês civil em que foi adquirido o direito a quaisquer daquelas aposentadorias ou dos últimos 12 (doze) meses anteriores ao mês civil em que foi expedido o laudo médico pericial que constatou a incapacidade permanente do servidor.
 
-Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.<br>
+Redação de acordo com a Lei nº 12.597, de 22 de novembro de 2012.
+
 Redação original: "§ 2º - Observado o disposto no caput e § 1º deste artigo, em se tratando de gratificações e vantagens percebidas em valores nominais, inclusive fixados em referências, o valor médio apurado não será convertido em percentual."
 
 **§ 3º** - Aplica-se o critério estabelecido no _caput_ deste artigo, referente à apuração da média dos últimos 12 (doze) meses, ainda que em algum deles não tenha havido percepção da vantagem.
@@ -911,14 +1010,16 @@ Art. 38-A acrescido pela Lei nº 12.597, de 22 de novembro de 2012.
 
 **<Revogado> Art. 38-B** - Quando a revisão das aposentadorias e pensões determinada pelo art. 2º da Emenda Constitucional Federal nº 70, de 29 de março de 2012, resultar em proventos com valores inferiores aos então percebidos, a diferença apurada será transformada em vantagem pessoal não reajustável, a ser absorvida pelos reajustes e aumentos futuros.
 
-Art. 38-B revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Art. 38-B revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Art. 38-B acrescido pela Lei nº 12.597, de 22 de novembro de 2012.
 
 **<Revogado> Art. 39** - Os benefícios de aposentadoria e pensão de que tratam os artigos 15, 16, 17, 18, 19, 20, 21 e 31 desta Lei, ressalvadas as hipóteses previstas no artigo 3º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, serão reajustados para preservar-lhes, em caráter permanente, o valor real, de acordo com os critérios estabelecidos em lei.
 
 Art. 39 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS DISPOSIÇÕES GERAIS RELATIVAS AOS BENEFÍCIOS PREVIDENCIÁRIOS
 
 **Art. 40** - Os benefícios serão concedidos nos termos das Constituições Federal e Estadual e da legislação infraconstitucional em vigor.
@@ -935,13 +1036,14 @@ Art. 41 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **Art. 42** - Ressalvado o disposto nos artigos 15 e 16 desta Lei, a aposentadoria vigorará a partir da data da publicação do respectivo ato.
 
-**Art. 43** **\-** O servidor que for investido em novo cargo público efetivo, a partir da data de publicação desta Lei, e que tiver ocupado, sem interrupção, sucessivos cargos efetivos nos órgãos e entidades dos Poderes do Estado, terá considerada como data de ingresso no serviço público estadual a data da mais remota investidura, dentre as ininterruptas.
+**Art. 43\-** O servidor que for investido em novo cargo público efetivo, a partir da data de publicação desta Lei, e que tiver ocupado, sem interrupção, sucessivos cargos efetivos nos órgãos e entidades dos Poderes do Estado, terá considerada como data de ingresso no serviço público estadual a data da mais remota investidura, dentre as ininterruptas.
 
 **Art. 44** - Para fins de concessão de aposentadoria pelo RPPS, é vedada a contagem de tempo de contribuição ficto.
 
 **Art. 45** - Será computado, integralmente, o tempo de contribuição no serviço público federal, estadual, distrital e municipal prestado sob a égide de qualquer regime jurídico, bem como o tempo de contribuição ao RGPS e o tempo de serviço militar.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 45 - Será computado, integralmente, o tempo de contribuição no serviço público federal, estadual, distrital e municipal prestado sob a égide de qualquer regime jurídico, bem como o tempo de contribuição ao RGPS."
 
 **Art. 46** - Ressalvadas as aposentadorias decorrentes de cargos acumuláveis na forma da Constituição Federal, será vedada a percepção de mais de uma aposentadoria por conta do RPPS.
@@ -984,7 +1086,8 @@ Redação original: "Art. 45 - Será computado, integralmente, o tempo de contri
 
 **Art. 54** - Os benefícios de aposentadoria e pensão serão reajustados nos termos estabelecidos para o Regime Geral de Previdência Social.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 54 - É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos em lei."
 
 **<Revogado> Art. 55** - Salvo em caso de divisão entre aqueles que fizerem _jus_, os benefícios previstos nesta Lei, à exceção do salário-família, não terão valor inferior ao salário mínimo.
@@ -993,14 +1096,16 @@ Art. 55 revogado pela Lei nº 14.250 de 18 de fevereiro de 2020.
 
 **Art. 56** - Será de até 180 (cento e oitenta) dias o prazo para concessão de pensão e de aposentadoria, contados da data de protocolização do requerimento.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 56 - Será de até 60 (sessenta) dias o prazo para concessão da pensão e do auxílio-reclusão, contados da data de protocolização do requerimento."
 
 **§ 1º** - Incidirá atualização monetária nos casos de habilitação originária dos benefícios, quando ultrapassado o prazo indicado no _caput_ deste artigo.
 
 **§ 2º** - O prazo previsto no _caput_ deste artigo será contado a partir da data de satisfação pelo requerente de ato que lhe competia praticar.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 2º - O prazo previsto no caput deste artigo será contado a partir da data de satisfação pelo beneficiário de ato que lhe competia praticar."
 
 **§ 3º** - Os pagamentos posteriores aos prazos de que tratam os §§ 1º e 2º deste artigo, que não tenham sido efetuados até a folha de pagamento do mês subseqüente à concessão do benefício, terão seus valores atualizados.
@@ -1009,26 +1114,30 @@ Redação original: "§ 2º - O prazo previsto no caput deste artigo será conta
 
 **Art. 58** - A gratificação natalina devida aos servidores aposentados e pensionistas equivalerá aos proventos ou à pensão referente ao mês de dezembro de cada ano.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 58 - A gratificação natalina devida aos servidores aposentados, da reserva remunerada, reformados e pensionistas equivalerá aos proventos ou à pensão referente ao mês de dezembro de cada ano."
 
 **Parágrafo único -**   No ano da ocorrência do fato gerador ou extintivo do benefício, o cálculo da respectiva gratificação obedecerá à proporcionalidade da manutenção do benefício no correspondente exercício, equivalendo cada mês decorrido, ou fração de dias superior a 15 (quinze), a 1/12 (um doze avos).
 
 **Art. 59** - A concessão do benefício de aposentadoria é regulada pela legislação vigente na data da aquisição do direito à inatividade remunerada ou pela legislação superveniente até a data da ocorrência da aposentadoria e a concessão de pensão é regulada pela legislação vigente na data do óbito.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 59 - A concessão dos benefícios de aposentadoria, de reserva remunerada e de reforma é regulada pela legislação vigente na data da aquisição do direito à inatividade remunerada ou pela legislação superveniente até a data da ocorrência da aposentadoria; e os de pensão e auxílio-reclusão, nas datas do óbito e da privação da liberdade, respectivamente."
 
 **Parágrafo único -** Os benefícios de prestação continuada de aposentadoria e pensão serão modificados ou extintos, de acordo com a lei vigente ao tempo da ocorrência do fato modificativo ou extintivo, ressalvado o direito adquirido.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Parágrafo único - Os benefícios de prestação continuada de aposentadoria, reserva remunerada, reforma, pensão e auxílio-reclusão serão modificados ou extintos, de acordo com a lei vigente ao tempo da ocorrência do fato modificativo ou extintivo, ressalvado o direito adquirido."
 
 **Art. 60** - Concedida a aposentadoria ou a pensão, será o ato publicado e submetido a julgamento do Tribunal de Contas do Estado da Bahia.
 
 **Art. 61** - Ressalvado o direito dos menores, incapazes e ausentes, prescreve em 05 (cinco) anos a pretensão de percepção do benefício de pensão, contados a partir da data do óbito.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 61 - Ressalvado o direito dos menores, incapazes e ausentes, prescreve em 5 (cinco) anos a pretensão do beneficiário para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pela unidade gestora do RPPS, a contar da data em que deveriam ter sido pagas, na forma da lei civil."
 
 **Art. 62** - A justificação administrativa, processada na forma do disposto em regulamento, poderá suprir a falta de quaisquer documentos ou prova de fato do interesse dos beneficiários, para o efeito de obter prestações da competência da unidade gestora do RPPS, salvo os documentos que estejam sujeitos a registro público ou que se refiram a ato jurídico para o qual a lei prescreva forma especial.
@@ -1045,25 +1154,30 @@ Art. 64 revogado pelo art. 4º da Lei 14.262 de 13 e maio de 2020.
 
 Parágrafo único revogado pelo art. 4º da Lei 14.262 de 13 e maio de 2020.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DO CUSTEIO DO SISTEMA DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO ESTADO DA BAHIA
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS CONTRIBUIÇÕES, DO RECOLHIMENTO E DA ARRECADAÇÃO
 
 **Art. 65** - Constituirá fato gerador das contribuições dos segurados para o RPPS a percepção de remuneração, subsídios, proventos, pensões ou outra espécie remuneratória, incluídas as vantagens pecuniárias pessoais de caráter permanente ou de qualquer outra natureza, oriundos dos cofres públicos estaduais, em decorrência das circunstâncias elencadas no art. 10 desta Lei.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 65 - Constituirá fato gerador das contribuições dos segurados para o RPPS a percepção de remuneração, subsídios, soldos, proventos, pensões ou outra espécie remuneratória, incluídas as vantagens pecuniárias pessoais de caráter permanente ou de qualquer outra natureza, oriundos dos cofres públicos estaduais, em decorrência das circunstâncias elencadas no artigo 10 desta Lei."
 
 **Art. 66** - Constituirá fato gerador das contribuições do Estado, bem como das contribuições de todos os órgãos e entidades dos seus Poderes para o RPPS o pagamento de remuneração, subsídios, ou outra espécie remuneratória, incluídas as vantagens pecuniárias pessoais de caráter permanente ou de qualquer outra natureza, oriundos dos cofres públicos estaduais, em decorrência das circunstâncias elencadas no art. 10 desta Lei.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 66 - Constituirá fato gerador das contribuições do Estado, bem como das contribuições de todos os órgãos e entidades dos seus Poderes para o RPPS o pagamento de remuneração, subsídios, soldos ou outra espécie remuneratória, incluídas as vantagens pecuniárias pessoais de caráter permanente ou de qualquer outra natureza, oriundos dos cofres públicos estaduais, em decorrência das circunstâncias elencadas no artigo 10 desta Lei."
 
 **Art. 67** - A alíquota de contribuição mensal dos segurados para o RPPS será de 14% (quatorze por cento).
 
-Redação de acordo com o art. 4º da Lei nº 14.031 de 12 de dezembro de 2018.<br>
+Redação de acordo com o art. 4º da Lei nº 14.031 de 12 de dezembro de 2018.
+
 Redação original: "Art. 67 - A alíquota de contribuição mensal dos segurados para o RPPS será de 12% (doze por cento)."
 
 **Parágrafo único** - Para os segurados que percebam remuneração bruta superior a R$15.000,00 (quinze mil reais), a alíquota aplicável sobre a parcela que exceder o referido limite será de 15% (quinze por cento).
@@ -1072,10 +1186,14 @@ Parágrafo único acrescido ao art. 67 pela Lei nº 14.250 de 18 de fevereiro de
 
 **Art. 68** - A alíquota de contribuição mensal do Estado para o RPPS será de 28% (vinte e oito por cento) para o Fundo Financeiro da Previdência Social dos Servidores Públicos do Estado da Bahia - FUNPREV e para o Fundo Previdenciário dos Servidores Públicos do Estado da Bahia - BAPREV.
 
-Ver também:<br>
-Art. 4º da Lei nº [12.597](https://www.legislabahia.ba.gov.br/documentos/lei-no-12597-de-22-de-novembro-de-2012), de 22 de novembro de 2012: "Esta Lei entra em vigor na data de sua publicação, ressalvada a modificação introduzida no art. 68, da Lei nº 11.357/09, que vigerá a partir de 1º de janeiro de 2013."<br>
-Redação de acordo com Lei nº 14.520 de 15 de dezembro de 2022.<br>
-Redação anterior de acordo com a Lei nº 12.597, de 22 de novembro de 2012 - "Art. 68 - A alíquota de contribuição mensal do Estado para o RPPS será de:"<br>
+Ver também:
+
+Art. 4º da Lei nº [12.597](https://www.legislabahia.ba.gov.br/documentos/lei-no-12597-de-22-de-novembro-de-2012), de 22 de novembro de 2012: "Esta Lei entra em vigor na data de sua publicação, ressalvada a modificação introduzida no art. 68, da Lei nº 11.357/09, que vigerá a partir de 1º de janeiro de 2013."
+
+Redação de acordo com Lei nº 14.520 de 15 de dezembro de 2022.
+
+Redação anterior de acordo com a Lei nº 12.597, de 22 de novembro de 2012 - "Art. 68 - A alíquota de contribuição mensal do Estado para o RPPS será de:"
+
 Redação original: "Art. 68 - A alíquota de contribuição mensal do Estado para o RPPS será de 24% (vinte e quatro por cento)."
 
 **revogadoI -**         24% (vinte e quatro por cento) para o Fundo Financeiro da Previdência Social dos Servidores Públicos do Estado da Bahia - FUNPREV;
@@ -1088,7 +1206,8 @@ Revogado pela Lei nº 14.520 de 15 de dezembro de 2022.
 
 **Art. 69** - Incidirá contribuição sobre os proventos de aposentadorias e pensões concedidas pelo RPPS que superem o triplo do valor a que se refere o § 2º do art. 201 da Constituição Federal, com percentual igual ao estabelecido para os servidores titulares de cargos efetivos.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 69 - Incidirá contribuição sobre os proventos de aposentadorias e pensões concedidas pelo RPPS que superem o limite máximo estabelecido para os benefícios do RGPS de que trata o artigo 201 da Constituição Federal, com percentual igual ao estabelecido para os servidores titulares de cargos efetivos."
 
 **Art. 70** - Considera-se base de cálculo para fins de contribuição dos servidores civis ativos:
@@ -1099,7 +1218,8 @@ Redação original: "Art. 69 - Incidirá contribuição sobre os proventos de ap
 
 **III** -     o valor bruto da remuneração integral devida no mês, excluídas as parcelas a que se refere o artigo seguinte, que não exceder ao limite máximo de benefícios do Regime Geral de Previdência Social, para os servidores que sejam oriundos do serviço público em outro ente da Federação e ali estivessem vinculados ao Regime de Previdência Complementar, na forma do art. 40, §§ 14 a 16, da Constituição Federal, independentemente de adesão a plano de benefícios administrado por entidade fechada de previdência complementar.
 
-Redação de acordo com o art. 39 da Lei nº 13.222, de 12 de janeiro de 2015.<br>
+Redação de acordo com o art. 39 da Lei nº 13.222, de 12 de janeiro de 2015.
+
 Redação original: "Art. 70 - Considera-se base de cálculo para fins de contribuição dos servidores civis ativos o valor bruto da remuneração integral devida no mês, excluídas as parcelas a que se refere o artigo seguinte."
 
 **Art. 71** - Não integram a base de cálculo das contribuições dos segurados e do Estado, para os efeitos desta Lei:
@@ -1132,12 +1252,14 @@ VII revogado pelo art.27 da Lei 14.265 de 22 de maio de 2020.
 
 **§ 2º** - Para os servidores inativos, considera-se base de cálculo para fins de contribuição o valor total bruto dos proventos da aposentadoria que supere o triplo do valor a que se refere o § 2º do art. 201 da Constituição Federal, com percentual igual ao estabelecido para os servidores titulares de cargos efetivos.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 2º - Para os servidores inativos considera-se base de cálculo para fins de contribuição o valor total bruto dos proventos da aposentadoria que supere o limite máximo estabelecido para os benefícios do RGPS de que trata o artigo 201 da Constituição Federal, com percentual igual ao estabelecido para os servidores titulares de cargos efetivos."
 
 **§ 3º** - Para os pensionistas, considera-se base de cálculo para fins de contribuição o valor total bruto do respectivo benefício que supere o triplo do valor a que se refere o § 2º do art. 201 da Constituição Federal, com percentual igual ao estabelecido para os servidores titulares de cargos efetivos.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "§ 3º - Para os pensionistas considera-se base de cálculo para fins de contribuição o valor total bruto do respectivo benefício que supere o limite máximo estabelecido para os benefícios do RGPS de que trata o artigo 201 da Constituição Federal, com percentual igual ao estabelecido para os servidores titulares de cargos efetivos."
 
 **<Revogado> § 4º** - Para os servidores inativos e pensionistas portadores de doenças incapacitantes, na forma do § 3º do artigo 15 desta Lei, considera-se base de cálculo para fins de contribuição as parcelas de proventos de aposentadoria e de pensão que superem o dobro do limite máximo estabelecido para os benefícios do RGPS de que trata o artigo 201 da Constituição Federal.
@@ -1156,13 +1278,16 @@ Redação original: "§ 3º - Para os pensionistas considera-se base de cálculo
 
 **III** \-     o valor bruto da remuneração integral devida no mês, excluídas as parcelas a que se refere o artigo seguinte, que não exceder ao limite máximo de benefícios do Regime Geral de Previdência Social, para os servidores que sejam oriundos do serviço público em outro ente da Federação e ali estivessem vinculados ao Regime de Previdência Complementar, na forma do art. 40, §§ 14 a 16, da Constituição Federal, independentemente de adesão a plano de benefícios administrado por entidade fechada de previdência complementar.
 
-Revogado pela Lei 14.317 de 18 de junho de 2021.<br>
-Redação de acordo com o art. 39 da Lei nº 13.222, de 12 de janeiro de 2015.<br>
+Revogado pela Lei 14.317 de 18 de junho de 2021.
+
+Redação de acordo com o art. 39 da Lei nº 13.222, de 12 de janeiro de 2015.
+
 Redação original: "§ 6º - Para os órgãos e entidades dos Poderes do Estado, considera-se base de cálculo para fins de contribuição a soma do valor bruto da remuneração mensal de todos os servidores ativos, na forma indicada no caput deste artigo."
 
 **§ 7º** - No caso de acumulação constitucional de cargos, a contribuição incidirá sobre cada uma das remunerações, excluídas as parcelas indicadas nos incisos do _caput_ deste artigo, aplicando-se o limite de que trata o inciso XI do art. 37 da Constituição Federal, e observando-se o disposto no parágrafo anterior.
 
-Redação de acordo com o art. 39 da Lei nº 13.222, de 12 de janeiro de 2015.<br>
+Redação de acordo com o art. 39 da Lei nº 13.222, de 12 de janeiro de 2015.
+
 Redação original: "§ 7º - No caso de acumulação constitucional de cargos, a contribuição incidirá sobre a totalidade de cada uma das remunerações, excluídas as parcelas indicadas nos incisos do caput deste artigo, observado o limite de que trata o inciso XI do artigo 37 da Constituição Federal. "
 
 **§ 8º** \- As parcelas referidas nos incisos I a XI do _caput_ deste artigo não serão, sob nenhuma hipótese, computadas para efeito de aposentadoria.
@@ -1209,7 +1334,8 @@ Art. 73 regulamentado pelo Decreto nº 18.322, de 19 de abril de 2018.
 
 **Art. 74** - As transferências do Estado ao RPPS para pagamento das aposentadorias e pensões, nos termos previstos no art. 67 desta Lei, deverão ser realizadas no prazo assinalado no art. 73 desta Lei.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
 Redação original: "Art. 74 - As transferências do Estado ao RPPS para pagamento das aposentadorias, reservas remuneradas, reformas e pensões, nos termos previstos no § 1º do artigo 67 desta Lei, deverão ser realizadas no prazo assinalado no artigo 73 e seus parágrafos."
 
 **Art. 75** - As contribuições mensais dos segurados ativos, inativos e pensionistas serão descontadas pelos setores encarregados pela elaboração das respectivas folhas de pagamento e recolhidas diretamente à unidade gestora do RPPS no prazo do artigo 73 desta Lei, sob pena de responsabilidade civil, penal e administrativa do gestor do órgão ou entidade inadimplente.
@@ -1250,13 +1376,16 @@ Redação original: "Art. 74 - As transferências do Estado ao RPPS para pagamen
 
 **Parágrafo único -** Incidirão contribuições, para o regime de que trata esta Lei, sobre as parcelas remuneratórias complementares, que não compõem a remuneração do cargo efetivo, pagas pelo cessionário ao servidor cedido, exceto se a parcela não for passível de incorporação aos proventos.
 
-Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.<br>
-Redação anterior de acordo com a Lei nº 12.597, de 22 de novembro de 2012: "Parágrafo único - Não incidirão contribuições, para o regime de que trata esta Lei, sobre as parcelas remuneratórias complementares, que não compõem a remuneração do cargo efetivo, pagas pelo cessionário ao servidor cedido, exceto se, por disposição expressa de Lei, a parcela for passível de incorporação à remuneração ou aos proventos e o servidor manifestar interesse neste sentido."<br>
+Redação de acordo com a Lei nº 14.250 de 18 de fevereiro de 2020.
+
+Redação anterior de acordo com a Lei nº 12.597, de 22 de novembro de 2012: "Parágrafo único - Não incidirão contribuições, para o regime de que trata esta Lei, sobre as parcelas remuneratórias complementares, que não compõem a remuneração do cargo efetivo, pagas pelo cessionário ao servidor cedido, exceto se, por disposição expressa de Lei, a parcela for passível de incorporação à remuneração ou aos proventos e o servidor manifestar interesse neste sentido."
+
 Redação original: "Parágrafo único - Não incidirão contribuições para o regime de que trata esta Lei sobre as parcelas remuneratórias complementares, não componentes da remuneração do cargo efetivo, pagas pelo cessionário ao servidor cedido ou à disposição, exceto na hipótese de adicional de insalubridade e de periculosidade."
 
 **Art. 84** - Caberá ao órgão ou entidade de origem encaminhar à unidade gestora do RPPS relação mensal dos servidores cedidos ou colocados à disposição sem ônus, com suas respectivas remunerações ou subsídios, nos termos do artigo anterior.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 DAS DISPOSIÇÕES GERAIS E FINAIS
 
 **Art. 85** - Os segurados e beneficiários que não se recadastrarem, quando lhes for exigido, terão seus benefícios automaticamente suspensos da folha de pagamento, a partir do mês imediatamente subseqüente ao do termo final do prazo fixado, e somente terão o pagamento restabelecido, inclusive dos créditos vencidos, após serem prestados os necessários esclarecimentos e informações.

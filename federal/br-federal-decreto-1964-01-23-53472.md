@@ -1,5 +1,3 @@
-###DEC-053472-0-000-23-01-1964@@@
-
 DECRETO Nº 53.472, DE 23 de JANEIRO DE 1964.
 
 Aprova o Regulamento do Núcleo de parque de Eletrônica.

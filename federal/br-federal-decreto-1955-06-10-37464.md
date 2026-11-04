@@ -1,16 +1,14 @@
-###DEC-037464-0-000-10-06-1955@@@
+**DECRETO Nº 37.464, DE 10 DE JUNHO DE 1955.**
 
-<strong>DECRETO Nº 37.464, DE 10 DE JUNHO DE 1955.</strong>
+***Dispõe sôbre a colocação hierárquica de Oficiais Especialistas de Aeronáutica o Almanaque do Ministério da Aeronáutica.***
 
-<em><strong>Dispõe sôbre a colocação hierárquica de Oficiais Especialistas de Aeronáutica o Almanaque do Ministério da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Os Oficiais Especialistas de Aeronáutica, promovidos a Segundo Tenente de acôrdo com a Lei nº 1.782, de 24 de dezembro de 1952, possuidores do curso de formação de Oficial da ativa, passam a ocupar número na escala hierárquica dos Quadros a que pertencerem na ativa.
 
-<strong>Art</strong>. 1º Os Oficiais Especialistas de Aeronáutica, promovidos a Segundo Tenente de acôrdo com a Lei nº 1.782, de 24 de dezembro de 1952, possuidores do curso de formação de Oficial da ativa, passam a ocupar número na escala hierárquica dos Quadros a que pertencerem na ativa.
-
-<strong>Art</strong>. 2º Os Segundos Tenentes Especialistas de Aeronáutica que concluíram o Curso da atual Escola de Oficiais Especialistas e de Infantaria de Guarda em 15 de julho de 1953 - passam a ocupar a seguinte ordem de precedência na escala hierárquica no Almanaque do Ministério da Aeronáutica:
+**Art**. 2º Os Segundos Tenentes Especialistas de Aeronáutica que concluíram o Curso da atual Escola de Oficiais Especialistas e de Infantaria de Guarda em 15 de julho de 1953 - passam a ocupar a seguinte ordem de precedência na escala hierárquica no Almanaque do Ministério da Aeronáutica:
 
 A) No Quadro de Oficiais Especialistas em Avião
 
@@ -28,12 +26,12 @@ D) No Quadro de Oficiais Especialistas em Fotografia
 
 Segundos Tenentes - Jayme dos Santos e Herval da Costa Bezerra, nesta ordem, imediatamente abaixo do atual Segundo Tenente número dois - Milton Vieira Borges.
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 10 de junho de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes

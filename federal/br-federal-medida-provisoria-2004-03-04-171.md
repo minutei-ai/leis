@@ -1,5 +1,3 @@
-###MPV-000171-0-000-04-03-2004-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 171, DE 4 DE MARÇO 2004.
 
 Antecipa, em caráter excepcional, a transferência de recursos prevista no art. 1o-A da Lei nº 10.336, de 19 de dezembro de 2001.

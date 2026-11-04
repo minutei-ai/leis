@@ -1,5 +1,3 @@
-###DEC-049420-0-000-03-12-1960@@@
-
 DECRETO Nº 49.420, DE 3 DE dezembro DE 1960.
 
 Autoriza Henri Peube-Locou a comprar pedras preciosas.

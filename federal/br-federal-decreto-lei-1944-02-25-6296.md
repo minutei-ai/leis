@@ -1,5 +1,3 @@
-###DEL-006296-0-000-25-02-1944@@@
-
 DECRETO-LEI N. 6.296 – DE 25 DE FEVEREIRO DE 1944
 
 Abre ao Ministério da Educação e Saúde, o crédito especial de Cr$ 79.800,00 e dá outras providências

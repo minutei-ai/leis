@@ -1,7 +1,3 @@
-1
-
-###DEC-002084-0-000-29-11-1996@@@
-
 DECRETO Nº 2.084, DE 29 DE NOVEMBRO DE 1996.
 
 Prorroga o prazo de remanejamento dos cargos que menciona.

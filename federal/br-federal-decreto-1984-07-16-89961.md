@@ -1,5 +1,3 @@
-###DEC-089961-0-000-16-07-1984@@@
-
 Decreto nº 89.961, de 16 de julho de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Pontal, da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-048191-0-000-11-05-1960@@@
-
 DECRETO Nº 48.191, DE 11 DE MAIO DE 1960.
 
 Abre, pela Presidência da República, o crédito especial de Cr$511.453,20, para o fim, que especifica.

@@ -1,5 +1,3 @@
-###DEL-003021-0-000-01-02-1941@@@
-
 DECRETO-LEI N. 3.021 – DE 1 DE FEVEREIRO DE 1941
 
 Dá nova denominação à Diretoria de Aeronáutica do Exército

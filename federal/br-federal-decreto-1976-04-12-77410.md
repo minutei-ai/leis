@@ -1,5 +1,3 @@
-###DEC-077410-0-000-12-04-1976@@@
-
 DECRETO Nº 77.410 - DE 12 DE ABRIL DE 1976
 
 Codifica as estações hidrológicas do País e dá outras providências.

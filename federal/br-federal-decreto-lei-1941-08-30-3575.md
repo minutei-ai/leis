@@ -1,5 +1,3 @@
-###DEL-003575-0-000-30-08-1941@@@
-
 DECRETO-LEI N. 3.575 – DE 30 DE AGOSTO DE 1941
 
 Concede o usufruto de um prédio ao Montepio Geral de Economia dos Servidores do Estado

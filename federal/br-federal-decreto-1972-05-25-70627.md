@@ -1,5 +1,3 @@
-###DEC-070627-0-000-25-05-1972@@@
-
 decreto Nº 70.627, de 25 de maio de 1972.
 
 Inclui na constituição do Comando Geral de Apoio a Diretoria de Ele-trônica e Proteção ao Voo, altera a constituição dos Comandos de Apoio Militar e de Apoio de Infra-estrutura e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-086820-0-000-05-01-1982@@@
-
 decreto nº 86.820, de 05 de janeiro de 1982.
 
 Cria o Comando Militar da Amazônia e seu respectivo Comando, no Ministério do Exército e dá outras providências.

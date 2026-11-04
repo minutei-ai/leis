@@ -1,5 +1,3 @@
-###DEC-052715-0-000-21-10-1963@@@
-
 DECRETO Nº 52.715, DE 21 DE OUTUBRO DE 1963
 
 Aprova alterações introduzidas nos Estatutos da Companhia Internacional de Seguros.
@@ -17,8 +15,6 @@ Brasília, 21 de outubro 1963; 142º a Independência e 75º da República.
 JOÃO GOULART
 
 Egydio Michaelsen
-
-###DEC-052715-0-000-21-10-1963@@@RET01+++
 
 DECRETO Nº 52.715, DE 21 DE OUTUBRO DE 1963.
 

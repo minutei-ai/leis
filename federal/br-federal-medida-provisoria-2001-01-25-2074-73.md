@@ -1,5 +1,3 @@
-###MPV-002074-0-073-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.074-73, DE 25 DE JANEIRO DE 2001
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

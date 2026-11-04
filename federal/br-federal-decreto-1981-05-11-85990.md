@@ -1,5 +1,3 @@
-###DEC-085990-0-000-11-05-1981@@@
-
 Decreto nº 85.990, de 11 de maio de 1981.
 
 Autoriza o aumento do Capital Social da Espírito Santo Centrais Elétricas S.A. - ESCELSA.

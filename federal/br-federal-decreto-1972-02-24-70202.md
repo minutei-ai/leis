@@ -1,5 +1,3 @@
-###DEC-070202-0-000-24-02-1972@@@
-
 Decreto Nº 70.202, DE 24 DE FEVEREIRO DE 1972.
 
 Classifica órgão de deliberação coletiva existente na área do ministério do planejamento e Coordenação Geral.

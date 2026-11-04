@@ -1,5 +1,3 @@
-###DEC-054303-0-000-24-09-1964@@@
-
 DECRETO Nº 54.303, DE 24 DE SETEMBRO DE 1964.
 
 Altera a redação do Regimento da Secretaria-Geral do Conselho de Segurança Nacional, aprovado por Decreto nº 45.040, de 6 de dezembro de 1958 e revoga os Decretos nºs 44.489 “A”, de 15 de setembro de 1958 e 46.508 “A”, de 20 de julho de 1959.

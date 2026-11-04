@@ -1,5 +1,3 @@
-###DEC-004076-0-000-09-01-2002@@@
-
 DECRETO Nº 4.076, DE 9 DE JANEIRO DE 2002.
 
 Restabelece a vigência do Decreto no 83.259, de 8 de março de 1979, que dispõe sobre a incorporação de bens da União, para integralização do capital social da Empresa Brasileira de Pesquisa Agropecuária, e dá outras providências.

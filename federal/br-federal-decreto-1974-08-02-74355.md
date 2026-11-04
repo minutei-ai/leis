@@ -1,5 +1,3 @@
-###DEC-074355-0-000-02-08-1974@@@
-
 Decreto nº 74.355, de 2 de Agosto de 1974.
 
 Declara de utilidade pública, para fins de desapropriação, um lote de terreno urbano, com benfeitorias, situado no Subdistrito de Indianópolis, Cidade de São Paulo, Estado de São Paulo, destinado à instalação do Centro Operacional Sul pela Telecomunicações de São Paulo S.A. - TELESP.

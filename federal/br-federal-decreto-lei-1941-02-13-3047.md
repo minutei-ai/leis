@@ -1,5 +1,3 @@
-###DEL-003047-0-000-13-02-1941@@@
-
 DECRETO-LEI N. 3.047 – DE 13 DE FEVEREIRO DE 1941
 
 Dá denominação aos postos da hierarquia militar das Forças Aéreas Nacionais
@@ -10,7 +8,131 @@ decreta:
 
 Art. 1º As denominações dos postos da hierarquia das Forças Aéreas Nacionais e a correspondência com as do Exército e da Armada serão as seguintes:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:6.85pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:148.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">AERONÁUTICA</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">EXÉRCITO</span></p></td><td style="width:148.9pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">ARMADA</span></p></td></tr><tr><td style="width:148.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Soldado, 2ª classe</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soldado, 1 classe</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cabo</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3º Sargento</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2º Sargento</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1º Sargento</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">-</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Soldado</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2º Cabo</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1º Cabo</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3º Sargento</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2º Sargento</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1º Sargento</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Sargento Ajudante</span></p></td><td style="width:148.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Marinheiro, 2ª classe</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Marinheiro, 1ª classe</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cabo</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3º Sargento</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2º Sargento</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1º Sargento</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:148.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Sub-oficial</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cadete de Aeronáutica</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Aspirador Aviador</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2º Tenente Aviador</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1º Tenente Aviador</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Capitão Aviador</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Major Aviador</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Tenente Coronel Aviador</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Coronel Aviador</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Brigadeiro do Ar</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Major Brigadeiro do Ar</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Marechal do Ar</span></p></td><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Subtenente</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cadete</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Aspirante</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2º Tenente</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1º Tenente</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Capitão</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Major</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Tenente Coronel</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Coronel</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">General de Brigada</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">General de Divisão</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Marechal</span></p></td><td style="width:148.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Sub-oficial</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Aspirante</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Guarda Marinha</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2º Tenente</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1º Tenente</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Capitão Tenente</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Capitão Corveta</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Capitão de Fragata</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Capitão de Mar e Guerra</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Contra Almirante</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Vice Almirante</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Almirante</span></p></td></tr></tbody></table>
+AERONÁUTICA
+
+EXÉRCITO
+
+ARMADA
+
+Soldado, 2ª classe
+
+Soldado, 1 classe
+
+Cabo
+
+-
+
+3º Sargento
+
+2º Sargento
+
+1º Sargento
+
+ -
+
+Soldado
+
+-
+
+2º Cabo
+
+1º Cabo
+
+3º Sargento
+
+2º Sargento
+
+1º Sargento
+
+Sargento Ajudante
+
+Marinheiro, 2ª classe
+
+Marinheiro, 1ª classe
+
+Cabo
+
+-
+
+3º Sargento
+
+2º Sargento
+
+1º Sargento
+
+-
+
+Sub-oficial
+
+Cadete de Aeronáutica
+
+Aspirador Aviador
+
+2º Tenente Aviador
+
+1º Tenente Aviador
+
+Capitão Aviador
+
+Major Aviador
+
+Tenente Coronel Aviador
+
+Coronel Aviador
+
+Brigadeiro do Ar
+
+Major Brigadeiro do Ar
+
+Marechal do Ar
+
+Subtenente
+
+Cadete
+
+Aspirante
+
+2º Tenente
+
+1º Tenente
+
+Capitão
+
+Major
+
+Tenente Coronel
+
+Coronel
+
+General de Brigada
+
+General de Divisão
+
+Marechal
+
+Sub-oficial
+
+Aspirante
+
+Guarda Marinha
+
+2º Tenente
+
+1º Tenente
+
+Capitão Tenente
+
+Capitão Corveta
+
+Capitão de Fragata
+
+Capitão de Mar e Guerra
+
+Contra Almirante
+
+Vice Almirante
+
+Almirante
 
 Art. 2º Revogam-se as disposições em contrário.
 

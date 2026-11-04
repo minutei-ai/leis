@@ -1,5 +1,3 @@
-###DEL-009911-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.911 – DE 17 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Marinha o crédito suplementar de Cr$ ........15.750.000,00, à verba que especifica.

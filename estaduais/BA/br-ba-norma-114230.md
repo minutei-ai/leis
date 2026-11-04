@@ -650,103 +650,127 @@ Art. 82 - Fica criado o quadro de Pessoal do Tribunal de Contas do Estado, const
 
 Art. 83 - Os símbolos referentes ao padrão dos cargos isolados de carreira e em comissão do quadro dos Serviços Auxiliares do Tribunal terão os seguintes valores mensais:
 
-<table border="1" cellspacing="0" cellpadding="0" width="329" style="width:246.4pt;
- border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 20<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>8.500,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 21<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 22<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9.500,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 23<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 24<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10.500,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 25<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>11.500,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 26<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>13.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 27<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>14.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 28<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 29<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>16.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 30<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>17.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 31<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>18.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 32<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 33<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>21.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 34<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>22.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 35<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 36<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>24.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 37<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>25.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC. 38<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>31.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.C.1<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.C.2<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>45.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.C.3<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>50.000,00<quebra></quebra></span></p></td></tr></tbody></table>
+TC. 20<quebra></quebra>
+
+8.500,00<quebra></quebra>
+
+TC. 21<quebra></quebra>
+
+9.000,00<quebra></quebra>
+
+TC. 22<quebra></quebra>
+
+9.500,00<quebra></quebra>
+
+TC. 23<quebra></quebra>
+
+10.000,00<quebra></quebra>
+
+TC. 24<quebra></quebra>
+
+10.500,00<quebra></quebra>
+
+TC. 25<quebra></quebra>
+
+11.500,00<quebra></quebra>
+
+TC. 26<quebra></quebra>
+
+13.000,00<quebra></quebra>
+
+TC. 27<quebra></quebra>
+
+14.000,00<quebra></quebra>
+
+TC. 28<quebra></quebra>
+
+15.000,00<quebra></quebra>
+
+TC. 29<quebra></quebra>
+
+16.000,00<quebra></quebra>
+
+TC. 30<quebra></quebra>
+
+17.000,00<quebra></quebra>
+
+TC. 31<quebra></quebra>
+
+18.000,00<quebra></quebra>
+
+TC. 32<quebra></quebra>
+
+20.000,00<quebra></quebra>
+
+TC. 33<quebra></quebra>
+
+21.000,00<quebra></quebra>
+
+TC. 34<quebra></quebra>
+
+22.000,00<quebra></quebra>
+
+TC. 35<quebra></quebra>
+
+23.000,00<quebra></quebra>
+
+TC. 36<quebra></quebra>
+
+24.000,00<quebra></quebra>
+
+TC. 37<quebra></quebra>
+
+25.000,00<quebra></quebra>
+
+TC. 38<quebra></quebra>
+
+31.000,00<quebra></quebra>
+
+TC.C.1<quebra></quebra>
+
+30.000,00<quebra></quebra>
+
+TC.C.2<quebra></quebra>
+
+45.000,00<quebra></quebra>
+
+TC.C.3<quebra></quebra>
+
+50.000,00<quebra></quebra>
 
 Art. 84 - As funções gratificadas do mesmo quadro corresponderão aos seguintes valores mensais:
 
-<table border="1" cellspacing="0" cellpadding="0" width="329" style="width:246.4pt;
- border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.3<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.7<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.500,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.6<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>7.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.5<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>8.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.4<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.3<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>12.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.2<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15.000,00<quebra></quebra></span></p></td></tr><tr><td width="177" valign="top" style="width:133.0pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.1<quebra></quebra></span></p></td><td width="151" valign="top" style="width:4.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>25.000,00<quebra></quebra></span></p></td></tr></tbody></table>
+TC.G.3<quebra></quebra>
+
+5.000,00<quebra></quebra>
+
+TC.G.7<quebra></quebra>
+
+6.500,00<quebra></quebra>
+
+TC.G.6<quebra></quebra>
+
+7.000,00<quebra></quebra>
+
+TC.G.5<quebra></quebra>
+
+8.000,00<quebra></quebra>
+
+TC.G.4<quebra></quebra>
+
+9.000,00<quebra></quebra>
+
+TC.G.3<quebra></quebra>
+
+12.000,00<quebra></quebra>
+
+TC.G.2<quebra></quebra>
+
+15.000,00<quebra></quebra>
+
+TC.G.1<quebra></quebra>
+
+25.000,00<quebra></quebra>
 
 Art. 85- O pessoal atualmente lotado no Tribunal e que nele se encontre servindo, inclusive o pessoal variável, será, a critério do Plenário e sem redução de vencimentos ou salários, aproveitado nos cargos criados por esta lei, devendo ser-lhe expedidas as respectivas apostilas.
 
@@ -782,325 +806,30 @@ TABELA Nº 1
 
 (A QUE SE REFERE O ARTIGO 82 DA PRESENTE LEI)
 
-<table border="0" cellspacing="0" cellpadding="0" width="347" style="width:260.55pt;
- border-collapse:collapse;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="347" colspan="3" valign="top" style="width:260.55pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>CARGOS EM COMISSÃO<quebra></quebra></span></p></td></tr><tr><td width="36" valign="top" style="width:26.7pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Nº<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Denominação<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Padrão<quebra></quebra></span></p></td></tr><tr><td width="36" valign="top" style="width:26.7pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretário<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.C.3<quebra></quebra></span></p></td></tr><tr><td width="36" valign="top" style="width:26.7pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Diretor<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.C.2<quebra></quebra></span></p></td></tr><tr><td width="36" valign="top" style="width:26.7pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>1<quebra></quebra></span></u></p></td><td width="156" valign="top" style="width:116.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Assistente<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.C.1<quebra></quebra></span></p></td></tr><tr><td width="36" valign="top" style="width:26.7pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> CARGOS EM COMISSÃO<quebra></quebra> </td></tr><tr><td valign="top"> Nº<quebra></quebra> </td><td valign="top"> Denominação<quebra></quebra> </td><td valign="top"> Padrão<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Secretário<quebra></quebra> </td><td valign="top"> TC.C.3<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Diretor<quebra></quebra> </td><td valign="top"> TC.C.2<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Assistente<quebra></quebra> </td><td valign="top"> TC.C.1<quebra></quebra> </td></tr><tr><td valign="top"> 3<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
 TABELA N º 2
 
 (A QUE SE REFERE O ARTIGO 82 DA PRESENTE LEI)
 
-<table border="0" cellspacing="0" cellpadding="0" width="347" style="width:260.55pt;
- border-collapse:collapse;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="347" colspan="3" valign="top" style="width:260.55pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>FUNÇÕES GRATIFICADAS<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Nº<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Denominação<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Padrão<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretário<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.1<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Presidente do Corpo Auxiliar<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.2<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Diretor<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.3<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Membro do Corpo Auxiliar<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.3<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Chefe de Secção<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.4<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Escrivão<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.4<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Oficial de Gabinete do Presidente<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.4<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Oficial de Gabinete do Secretário<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.5<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Inspetor de Almoxarifados<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.5<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretário do Corpo Auxiliar<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.6<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Oficial de Expediente<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.6<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>8<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Encarregado de Turma<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.7<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Sub-Escrivão<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.7<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>1<quebra></quebra></span></u></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Chefe de Portaria<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.G.8<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> FUNÇÕES GRATIFICADAS<quebra></quebra> </td></tr><tr><td valign="top"> Nº<quebra></quebra> </td><td valign="top"> Denominação<quebra></quebra> </td><td valign="top"> Padrão<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Secretário<quebra></quebra> </td><td valign="top"> TC.G.1<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Presidente do Corpo Auxiliar<quebra></quebra> </td><td valign="top"> TC.G.2<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Diretor<quebra></quebra> </td><td valign="top"> TC.G.3<quebra></quebra> </td></tr><tr><td valign="top"> 6<quebra></quebra> </td><td valign="top"> Membro do Corpo Auxiliar<quebra></quebra> </td><td valign="top"> TC.G.3<quebra></quebra> </td></tr><tr><td valign="top"> 4<quebra></quebra> </td><td valign="top"> Chefe de Secção<quebra></quebra> </td><td valign="top"> TC.G.4<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Escrivão<quebra></quebra> </td><td valign="top"> TC.G.4<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Oficial de Gabinete do Presidente<quebra></quebra> </td><td valign="top"> TC.G.4<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Oficial de Gabinete do Secretário<quebra></quebra> </td><td valign="top"> TC.G.5<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Inspetor de Almoxarifados<quebra></quebra> </td><td valign="top"> TC.G.5<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Secretário do Corpo Auxiliar<quebra></quebra> </td><td valign="top"> TC.G.6<quebra></quebra> </td></tr><tr><td valign="top"> 2<quebra></quebra> </td><td valign="top"> Oficial de Expediente<quebra></quebra> </td><td valign="top"> TC.G.6<quebra></quebra> </td></tr><tr><td valign="top"> 8<quebra></quebra> </td><td valign="top"> Encarregado de Turma<quebra></quebra> </td><td valign="top"> TC.G.7<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Sub-Escrivão<quebra></quebra> </td><td valign="top"> TC.G.7<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Chefe de Portaria<quebra></quebra> </td><td valign="top"> TC.G.8<quebra></quebra> </td></tr><tr><td valign="top"> 30<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
 TABELA Nº 3
 
 (A QUE SE REFERE O ARTIGO 82 DA PRESENTE LEI)
 
-<table border="0" cellspacing="0" cellpadding="0" width="347" style="width:260.55pt;
- border-collapse:collapse;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="347" colspan="3" valign="top" style="width:260.55pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>CARGOS ISOLADOS<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Nº<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Denominação<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Padrão<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Contador<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.38<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Bibliotecário<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.38<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Estatístico<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.38<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Arquivologista<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.38<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auditor<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.38<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Redator<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.36<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Taquígrafo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.35<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxiliar de Taquigrafia<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.32<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Técnico de Almoxarifados<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.34<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>4<quebra></quebra></span></u></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Motorista<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.27<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>16<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> CARGOS ISOLADOS<quebra></quebra> </td></tr><tr><td valign="top"> Nº<quebra></quebra> </td><td valign="top"> Denominação<quebra></quebra> </td><td valign="top"> Padrão<quebra></quebra> </td></tr><tr><td valign="top"> 2<quebra></quebra> </td><td valign="top"> Contador<quebra></quebra> </td><td valign="top"> TC.38<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Bibliotecário<quebra></quebra> </td><td valign="top"> TC.38<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Estatístico<quebra></quebra> </td><td valign="top"> TC.38<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Arquivologista<quebra></quebra> </td><td valign="top"> TC.38<quebra></quebra> </td></tr><tr><td valign="top"> 2<quebra></quebra> </td><td valign="top"> Auditor<quebra></quebra> </td><td valign="top"> TC.38<quebra></quebra> </td></tr><tr><td valign="top"> 2<quebra></quebra> </td><td valign="top"> Redator<quebra></quebra> </td><td valign="top"> TC.36<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Taquígrafo<quebra></quebra> </td><td valign="top"> TC.35<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Auxiliar de Taquigrafia<quebra></quebra> </td><td valign="top"> TC.32<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Técnico de Almoxarifados<quebra></quebra> </td><td valign="top"> TC.34<quebra></quebra> </td></tr><tr><td valign="top"> 4<quebra></quebra> </td><td valign="top"> Motorista<quebra></quebra> </td><td valign="top"> TC.27<quebra></quebra> </td></tr><tr><td valign="top"> 16<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
 TABELA Nº 4
 
 (A QUE SE REFERE O ARTIGO 82 DA PRESENTE LEI)
 
-<table border="0" cellspacing="0" cellpadding="0" width="347" style="width:260.55pt;
- border-collapse:collapse;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="347" colspan="3" valign="top" style="width:260.55pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>CARGOS DE CARREIRA<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Nº<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Denominação<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Padrão<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>13<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Oficial Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.32<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Oficial Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.33<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>7<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Oficial Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.34<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Oficial Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.35<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Oficial Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.36<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Oficial Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.37<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxiliar Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.26<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>13<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxiliar Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.27<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>11<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxiliar Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.28<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxiliar Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.29<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>7<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxiliar Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.30<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxiliar Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.31<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Sub-Auxiliar Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.23<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Sub-Auxiliar Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.24<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Sub-Auxiliar Instrutivo<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.25<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Serviçal<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.22<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Serviçal<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.21<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>5<quebra></quebra></span></u></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Serviçal<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TC.20<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>120<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> CARGOS DE CARREIRA<quebra></quebra> </td></tr><tr><td valign="top"> Nº<quebra></quebra> </td><td valign="top"> Denominação<quebra></quebra> </td><td valign="top"> Padrão<quebra></quebra> </td></tr><tr><td valign="top"> 13<quebra></quebra> </td><td valign="top"> Oficial Instrutivo<quebra></quebra> </td><td valign="top"> TC.32<quebra></quebra> </td></tr><tr><td valign="top"> 10<quebra></quebra> </td><td valign="top"> Oficial Instrutivo<quebra></quebra> </td><td valign="top"> TC.33<quebra></quebra> </td></tr><tr><td valign="top"> 7<quebra></quebra> </td><td valign="top"> Oficial Instrutivo<quebra></quebra> </td><td valign="top"> TC.34<quebra></quebra> </td></tr><tr><td valign="top"> 5<quebra></quebra> </td><td valign="top"> Oficial Instrutivo<quebra></quebra> </td><td valign="top"> TC.35<quebra></quebra> </td></tr><tr><td valign="top"> 3<quebra></quebra> </td><td valign="top"> Oficial Instrutivo<quebra></quebra> </td><td valign="top"> TC.36<quebra></quebra> </td></tr><tr><td valign="top"> 2<quebra></quebra> </td><td valign="top"> Oficial Instrutivo<quebra></quebra> </td><td valign="top"> TC.37<quebra></quebra> </td></tr><tr><td valign="top"> 15<quebra></quebra> </td><td valign="top"> Auxiliar Instrutivo<quebra></quebra> </td><td valign="top"> TC.26<quebra></quebra> </td></tr><tr><td valign="top"> 13<quebra></quebra> </td><td valign="top"> Auxiliar Instrutivo<quebra></quebra> </td><td valign="top"> TC.27<quebra></quebra> </td></tr><tr><td valign="top"> 11<quebra></quebra> </td><td valign="top"> Auxiliar Instrutivo<quebra></quebra> </td><td valign="top"> TC.28<quebra></quebra> </td></tr><tr><td valign="top"> 9<quebra></quebra> </td><td valign="top"> Auxiliar Instrutivo<quebra></quebra> </td><td valign="top"> TC.29<quebra></quebra> </td></tr><tr><td valign="top"> 7<quebra></quebra> </td><td valign="top"> Auxiliar Instrutivo<quebra></quebra> </td><td valign="top"> TC.30<quebra></quebra> </td></tr><tr><td valign="top"> 5<quebra></quebra> </td><td valign="top"> Auxiliar Instrutivo<quebra></quebra> </td><td valign="top"> TC.31<quebra></quebra> </td></tr><tr><td valign="top"> 5<quebra></quebra> </td><td valign="top"> Sub-Auxiliar Instrutivo<quebra></quebra> </td><td valign="top"> TC.23<quebra></quebra> </td></tr><tr><td valign="top"> 3<quebra></quebra> </td><td valign="top"> Sub-Auxiliar Instrutivo<quebra></quebra> </td><td valign="top"> TC.24<quebra></quebra> </td></tr><tr><td valign="top"> 2<quebra></quebra> </td><td valign="top"> Sub-Auxiliar Instrutivo<quebra></quebra> </td><td valign="top"> TC.25<quebra></quebra> </td></tr><tr><td valign="top"> 2<quebra></quebra> </td><td valign="top"> Serviçal<quebra></quebra> </td><td valign="top"> TC.22<quebra></quebra> </td></tr><tr><td valign="top"> 3<quebra></quebra> </td><td valign="top"> Serviçal<quebra></quebra> </td><td valign="top"> TC.21<quebra></quebra> </td></tr><tr><td valign="top"> 5<quebra></quebra> </td><td valign="top"> Serviçal<quebra></quebra> </td><td valign="top"> TC.20<quebra></quebra> </td></tr><tr><td valign="top"> 120<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
 TABELA Nº 5
 
 (A QUE SE REFERE O ARTIGO 82 DA PRESENTE LEI)
 
-<table border="0" cellspacing="0" cellpadding="0" width="347" style="width:260.55pt;
- border-collapse:collapse;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="347" colspan="3" valign="top" style="width:260.55pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>DIARISTAS<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Nº<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Denominação<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Diária<quebra></quebra></span></p></td></tr><tr><td width="45" valign="top" style="width:33.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Mensageiros<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>-200,00<quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> DIARISTAS<quebra></quebra> </td></tr><tr><td valign="top"> Nº<quebra></quebra> </td><td valign="top"> Denominação<quebra></quebra> </td><td valign="top"> Diária<quebra></quebra> </td></tr><tr><td valign="top"> 10<quebra></quebra> </td><td valign="top"> Mensageiros<quebra></quebra> </td><td valign="top"> -200,00<quebra></quebra> </td></tr></tbody></table>
 
-* * *
+ *

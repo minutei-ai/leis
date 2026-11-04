@@ -1,5 +1,3 @@
-###DEC-055645-0-000-28-01-1965@@@
-
 DECRETO Nº 55.645, DE 28 DE JANEIRO DE 1965.
 
 Autoriza a cessão gratuita, ao Departamento Nacional de Estradas de Rodagem, de terreno nacional interior que menciona, situado em Vacaria, no Estado do Rio Grande do Sul.

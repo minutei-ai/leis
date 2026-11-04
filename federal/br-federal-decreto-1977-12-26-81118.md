@@ -1,5 +1,3 @@
-###DEC-081118-0-000-26-12-1977@@@
-
 decreto nº 81.118, de 26 de dezembro de 1977.
 
 Suspende a execução da Lei número 3.699, de 14 de maio de 1976, do Estado de Mato Grosso.

@@ -151,7 +151,3 @@ Fundação Centro de Hematologia e Hemoterapia do Estado de Minas Gerais – HEM
 Cargo de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidente 01 1,85057 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,57298 Diretoria Técnico Científica Diretor 01 1,57298 Diretoria de Atuação Estratégica Diretor 01 1,57298 Auditoria Seccional Auditor Seccional 01 1,43418 Gabinete Chefe de Gabinete 01 1,43418 Assessoria Jurídica Assessor Jurídico 01 1,43418 Gabinete Assessor de Comunicação Social 01 1,43418
-
-\==================================
-
-Data da última atualização: 25/1/2011.

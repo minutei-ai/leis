@@ -1,8 +1,18 @@
 Lei Ordinária n° 20.932 / 2020           Lei Ordinária n° 20.913 / 2020
 
-<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%"><p style="TEXT-ALIGN: right" align="right"><font size="2" face="Arial">&nbsp;</font></p></td></tr><tr><td width="100%"><p style="TEXT-ALIGN: center" align="center"><font color="#808000" size="2" face="Arial"><img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif"><br><strong>GOVERNO DO ESTADO DE GOIÁS</strong></font><font size="2" face="Arial"><br></font><strong><font size="2" color="#808000" face="Arial">Secretaria de Estado da Casa Civil</font></strong></p></td></tr></tbody></table>
+<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
 
-**LEI No 20.932** **, DE 22 DE DEZEMBRO DE 2020.**
+&nbsp;
+
+</td></tr><tr><td width="100%">
+
+<img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
+**GOVERNO DO ESTADO DE GOIÁS**
+**Secretaria de Estado da Casa Civil**
+
+</td></tr></tbody></table>
+
+**LEI No 20.932, DE 22 DE DEZEMBRO DE 2020.**
 
 Autoriza a renegociação dos débitos inscritos em Restos a Pagar Processados, no âmbito da administração pública estadual e dá outras providências.
 
@@ -10,14 +20,16 @@ Autoriza a renegociação dos débitos inscritos em Restos a Pagar Processados, 
 
 Art. 1º  A dívida pública estadual decorrente de despesas empenhadas e liquidadas, devidamente inscritas em Restos a Pagar Processados, e certificada pelos gestores dos órgãos da administração direta, das autarquias e das fundações poderá ser quitada por meio de renegociação com os credores, ressalvadas aquelas incluídas no plano de recuperação previsto na Lei Complementar federal nº 159, de 19 de maio de 2017, a serem pagas por meio de leilões pelo critério de maior desconto.
 
-§ 1º A renegociação se dará por adesão na qual os credores assumirão concordar com o desconto e o eventual parcelamento sobre o valor original da dívida do Estado, também poderá ocorrer a compensação entre os créditos inscritos em dívida ativa pelo Estado de Goiás e os Restos a Pagar Processados, ressalvados os de natureza tributária.<br>
-[\- Redação dada pela Lei nº 21.221, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104726/lei-21221). <br>
+§ 1º A renegociação se dará por adesão na qual os credores assumirão concordar com o desconto e o eventual parcelamento sobre o valor original da dívida do Estado, também poderá ocorrer a compensação entre os créditos inscritos em dívida ativa pelo Estado de Goiás e os Restos a Pagar Processados, ressalvados os de natureza tributária.
+
+[\- Redação dada pela Lei nº 21.221, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104726/lei-21221). 
 
 ~~§ 1º  A renegociação se dará por adesão na qual os credores assumem concordar com o desconto, o parcelamento sobre o valor original da dívida do Estado e a compensação entre os créditos inscritos em dívida ativa pelo Estado de Goiás e Restos a Pagar Processados.~~
 
 § 2º  Os percentuais de desconto e parcelamento serão estabelecidos por portaria editada pelo titular da Secretaria de Estado da Economia.
 
-§ 3º As dívidas com valor original superior a R$ 1.000.000,00 (um milhão de reais) poderão ser parceladas por prazo a ser acordado no ato da renegociação, respeitado o disposto no § 2º do art. 1º desta Lei.<br>
+§ 3º As dívidas com valor original superior a R$ 1.000.000,00 (um milhão de reais) poderão ser parceladas por prazo a ser acordado no ato da renegociação, respeitado o disposto no § 2º do art. 1º desta Lei.
+
 [\- Redação dada pela Lei nº 21.221, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104726/lei-21221).
 
 ~~§ 3º  As dívidas com valor original superior a R$ 1.000.000,00 (um milhão de reais) deverão, obrigatoriamente, ser parceladas em prazo superior a 12 (doze) meses.~~
@@ -28,7 +40,8 @@ Art. 1º  A dívida pública estadual decorrente de despesas empenhadas e liqui
 
 Art. 2º  Fica autorizada a compensação entre os créditos inscritos em dívida ativa pelo Estado de Goiás e Restos a Pagar Processados de que trata esta Lei.
 
-~~Parágrafo único.  A compensação a que se refere o _caput_ não alcança a parcela do crédito tributário a ser distribuído aos municípios, conforme os incisos III e IV do art. 107 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual-)~~ ~~.~~<br>
+~~Parágrafo único.  A compensação a que se refere o _caput_ não alcança a parcela do crédito tributário a ser distribuído aos municípios, conforme os incisos III e IV do art. 107 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual-).~~
+
 [\- Revogado pela Lei nº 21.221, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104726/lei-21221)
 
 Art. 3º  A Secretaria de Estado da Economia, após a divulgação do ato previsto no § 2º do art. 1º desta Lei, selecionará os débitos passíveis de renegociação e publicará editais aos interessados com as condições do acordo, também poderá notificar pessoalmente os credores de importâncias superiores a R$ 1.000.000,00 (um milhão de reais).
@@ -45,7 +58,8 @@ Art. 4º  O interessado na negociação ou a Procuradoria Setorial da Secretari
 
 Art. 5º  Os recursos necessários aos pagamentos decorrentes dos acordos firmados serão solicitados à Secretaria de Estado da Economia.
 
-§ 1º No caso das dívidas pagas à vista e as parceladas em prazo inferior a 12 (doze) meses, os pagamentos serão solicitados pelos respectivos órgãos por meio do Cronograma Mensal de Desembolso Financeiro – CMDF.<br>
+§ 1º No caso das dívidas pagas à vista e as parceladas em prazo inferior a 12 (doze) meses, os pagamentos serão solicitados pelos respectivos órgãos por meio do Cronograma Mensal de Desembolso Financeiro – CMDF.
+
 [\- Redação dada pela Lei nº 21.221, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104726/lei-21221).
 
 ~~§ 1º  No caso das dívidas parceladas em prazo inferior a 12 (doze) meses, os pagamentos serão solicitados pelos respectivos órgãos por meio do Cronograma Mensal de Desembolso Financeiro – CMDF.~~
@@ -68,7 +82,6 @@ Art. 12.  Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 22 de dezembro de 2020; 132º da República.
 
-RONALDO CAIADO<br>
-Governador do Estado
+RONALDO CAIADO
 
-_Este texto não substitui o publicado no D.O. de 23-12-2020_ _._
+Governador do Estado

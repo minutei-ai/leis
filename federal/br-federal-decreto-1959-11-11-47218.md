@@ -1,5 +1,3 @@
-###DEC-047218-0-000-11-11-1959@@@
-
 DECRETO Nº 47.218, DE 11 DE NOVEMBRO DE 1959.
 
 Exclui das disposições do parágrafo único do art. 9º do Decreto número 45.363, de 29 de janeiro de 1959, despesa que menciona.

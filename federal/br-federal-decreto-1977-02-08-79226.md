@@ -1,5 +1,3 @@
-###DEC-079226-0-000-08-02-1977@@@
-
 DECRETO Nº 79.226, DE 8 DE FEVEREIRO DE 1977.
 
 Exclui cargo que indica, do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura.

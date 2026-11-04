@@ -1,5 +1,3 @@
-###DEC-060629-0-000-26-04-1967@@@
-
 DECRETO Nº 60.629, DE 26 DE ABRIL DE 1967.
 
 Dispõe sôbre o parágrafo único do artigo 14 do Decreto-lei nº 69, de 21 de novembro de 1966.

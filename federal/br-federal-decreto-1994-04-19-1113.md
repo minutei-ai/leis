@@ -1,7 +1,3 @@
-1
-
-###DEC-001113-0-000-19-04-1994@@@
-
 DECRETO N° 1.113, DE 19 DE ABRIL DE 1994
 
 Dá nova redação ao art. 1°, inciso III e § 3º do Decreto nº 702, de 22 de dezembro de 1992.

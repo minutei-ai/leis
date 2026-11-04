@@ -1,7 +1,3 @@
-1
-
-###DEC-001163-0-000-22-06-1994@@@
-
 DECRETO N° 1.163, DE 22 DE JUNHO DE 1994
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo Comercial n° 19, entre Brasil, Argentina, México e Uruguai, de 12.11.93.

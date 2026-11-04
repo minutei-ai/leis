@@ -1,5 +1,3 @@
-###DEC-079191-0-000-01-02-1977@@@
-
 DECRETO Nº 79.191, DE 1º DE FEVEREIRO DE 1977
 
 Concede autorização às companhias Lockheed Petroleum Service Ltd. e Lockheed Equipamentos e Serviços LTDA. para operarem no mar territorial do Brasil a embarcação M/V Costal Cruiser, de nacionalidade norte-americana, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

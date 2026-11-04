@@ -1,5 +1,3 @@
-###DEC-052900-0-000-21-11-1963@@@
-
 DECRETO Nº 52.900, DE 21 DE NOVEMBRO DE 1963.
 
 Declara de interêsse social para fins de desapropriação parte da área de terras, no loteamento denominado “Javaèzinho”, situada no Município de Cristalândia, Estado de Goiás, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071980-0-000-22-03-1973@@@
-
 DECRETO Nº 71.980, DE 22 DE MARÇO DE 1973.
 
 Declara a cessação de exploração de serviço públicos de energia elétrica, outorga concessão, revoga decreto e dá outras providências.

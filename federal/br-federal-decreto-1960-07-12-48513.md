@@ -1,5 +1,3 @@
-###DEC-048513-0-000-12-07-1960@@@
-
 DECRETO Nº 48.513, DE 12 DE JULHO DE 1960.
 
 Torna sem efeito o item 78, do art. 1º, do Decreto nº 39.075, de 24-4-56, e dá outras providências.

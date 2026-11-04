@@ -1,5 +1,3 @@
-###DEL-004261-0-000-16-04-1942@@@
-
 DECRETO-LEI N. 4.261 – DE 16 DE ABRIL DE 1942
 
 Abre ao Conselho de Imigração e Colonização o crédito especial 2.000:000$0, para amparo a trabalhadores nacionais, e dá outras providências

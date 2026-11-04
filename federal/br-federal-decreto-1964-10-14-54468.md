@@ -1,5 +1,3 @@
-###DEC-054468-0-000-14-10-1964@@@
-
 DECRETO Nº 54.468, DE 14 DE OUTUBRO DE 1964.
 
 Outorga concessão à Companhia Estadual de Energia Elétrica, para distribuir energia elétrica, no Município de Sobradinho, e dá outras providências.

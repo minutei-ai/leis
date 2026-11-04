@@ -1,5 +1,3 @@
-###DEC-074352-0-000-01-08-1974@@@
-
 DECRETO Nº 74.352, DE 1 DE AGOSTO DE 1974.
 
 Autoriza o funcionamento da habilitação Português-Inglês no curso de Letras da Faculdade de Filosofia, Ciências e Letras de Palmas mantida pelo Centro Pastoral, Educacional e Assistencial "Dom Carlos", com sede na cidade de Palmas, Estado do Paraná.

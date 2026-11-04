@@ -1,5 +1,3 @@
-###DEL-006130-0-000-21-12-1943@@@
-
 DECRETO‑LEI N. 6.130 – DE 21 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de Cr$ 61.383,00, à verba que específica

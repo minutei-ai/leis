@@ -1,5 +1,3 @@
-###DEC-062129-0-000-16-01-1968@@@
-
 DECRETO Nº 62.129, DE 16 DE JANEIRO DE 1968.
 
 Delega competência ao Ministro da Agricultura para aprovar projetos especificações e orçamentos de obras de construção ou de reforma, adotando o regime previsto na Lei número 1.489, de 10 de dezembro de 1951, e dá outras providências.

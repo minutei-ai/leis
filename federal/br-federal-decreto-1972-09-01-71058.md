@@ -1,5 +1,3 @@
-###DEC-071058-0-000-01-09-1972@@@
-
 DECRETO Nº 71.058, DE 1 DE SETEMBRO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Cametá, Estado do Pará.

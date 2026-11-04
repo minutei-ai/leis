@@ -1,5 +1,3 @@
-###DEL-005222-0-000-23-01-1943@@@
-
 DECRETO‑LEI N. 5.222 – DE 23 DE JANEIRO DE 1943
 
 Dispõe sobre a organização da rede federal de estabelecimentos de ensino industrial

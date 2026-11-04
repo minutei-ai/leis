@@ -1,5 +1,3 @@
-###DEC-067769-0-000-09-12-1970@@@
-
 DECRETO Nº 67.769, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 20.362, de 9 de janeiro de 1946.

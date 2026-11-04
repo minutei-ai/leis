@@ -1,5 +1,3 @@
-###DEC-070927-0-000-03-08-1972@@@
-
 DECRETO Nº 70.927, DE 3 DE AGOSTO DE 1972.
 
 Revoga o Decreto nº 43.945, de 3 de julho de 1958 e outorga concessão.

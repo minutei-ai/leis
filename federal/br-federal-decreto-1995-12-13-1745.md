@@ -1,7 +1,3 @@
-1
-
-###DEC-001745-0-000-13-12-1995@@@
-
 DECRETO N° 1.745, DE 13 DE DEZEMBRO DE 1995.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério da Fazenda, e dá outras providências.
@@ -735,8 +731,6 @@ DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 Art. 31. Os regimentos internos definirão o detalhamento dos órgãos integrantes da estrutura regimental, as competências das respectivas unidades, as atribuições de seus dirigentes e as áreas de jurisdição dos órgãos descentralizados.
 
 Republica-se por ter saído com incorreção no D.O.U. de 14.12.95 e 28.12.95 - Seção 1.
-
-###DEC-001745-0-000-13-12-1995@@@REP01+++
 
 DECRETO N° 1.745, DE 13 DE DEZEMBRO DE 1995
 

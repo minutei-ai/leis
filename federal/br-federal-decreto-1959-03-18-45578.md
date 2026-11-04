@@ -1,5 +1,3 @@
-###DEC-045578-0-000-18-03-1959@@@
-
 DECRETO Nº 45.578, de 18 DE março DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal do Pará.

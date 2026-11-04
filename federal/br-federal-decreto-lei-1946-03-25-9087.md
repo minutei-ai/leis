@@ -1,5 +1,3 @@
-###DEL-009087-0-000-25-03-1946@@@
-
 DECRETO-LEI N. 9.087 – DE 25 DE MARÇO DE 1946
 
 Manda computar aos médicos transferidos pára o Quadro de Saúde da Aeronáutica, tempo do serviço público.

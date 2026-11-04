@@ -1,21 +1,21 @@
-**LEI COMPLEMENTAR N° 291, DE 26 DE DEZEMBRO DE 2007.**<br>
-<br>
-. Consolidada até LC 842/2026.<br>
-. Autor: Poder Executivo<br>
-. Publicada no DOE de 26/12/07, p. 01.<br>
+**LEI COMPLEMENTAR N° 291, DE 26 DE DEZEMBRO DE 2007.**
+
+. Consolidada até LC 842/2026.
+
+. Autor: Poder Executivo
+
+. Publicada no DOE de 26/12/07, p. 01.
+
 . Alterada pela LC [485/13](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE), [842/2026](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb4aa45ed8a4977d03258df7004bc27b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20842%2C%20DE%2013%20DE).
 
 **Autoriza o Poder Executivo a instituir entidade denominada “Fundação Nova Chance” visando o Atendimento Assistencial e Profissionalizante do Presidiário no Estado de Mato Grosso.**
 
-<br>
-
 **A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO, t**endo em vista o que dispõe o Art. 45 da Constituição Estadual, aprova e o Governador do Estado sanciona a seguinte lei complementar:
 
-<br>
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Disposições Gerais**
 
-<br>
 **Art. 1º** Fica o Poder Executivo autorizado a instituir Fundação denominada “Nova Chance” visando o atendimento assistencial e profissionalizante do presidiário no Estado de Mato Grosso, a qual se regerá por esta lei complementar e por seus estatutos aprovados por decreto estadual.
 
 **Art. 2º** A Fundação terá prazo de duração indeterminado, sede e foro na Capital do Estado e adquirirá personalidade jurídica a partir da inscrição do seu ato institutivo no registro competente, com o qual serão apresentados os estatutos e o respectivo decreto de aprovação.
@@ -24,13 +24,14 @@ Parágrafo único. O Estado de Mato Grosso será representado pela Procuradoria-
 
 **Art. 3º** A Fundação, pessoa jurídica dotada de autonomia técnica, administrativa e financeira, é vinculada à Secretaria de Estado de Justiça e Direitos Humanos. **_(Nova redação dada pela_** [**_LC 485/13_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**
 
-**Redação Original**<br>
+**Redação Original**
+
 **Art. 3º** A Fundação, pessoa jurídica dotada de autonomia técnica, administrativa e financeira, é vinculada à Secretaria de Estado de Justiça e Segurança Pública do Estado de Mato Grosso.
 
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Dos Objetivos**
 
-<br>
 **Art. 4º** A Fundação terá por objetivo contribuir para a recuperação social, psicossomática e familiar dos presidiários e para a melhoria de suas condições de vida, através da elevação do nível de sanidade física, social, moral e familiar, bem como profissionalizar e oferecer oportunidade de trabalho remunerado ao presidiário e egresso do sistema prisional mato-grossense, propondo-se, para tanto, a:
 
 I - organizar os condenados e egressos do sistema prisional para a promoção assistencial e crescimento social, moral, familiar e técnico, através da instrução e prática profissionalizante;
@@ -63,11 +64,10 @@ XIV - desenvolver outras atividades afins e correlatas.
 
 **Art. 5º** A Fundação atuará diretamente ou por intermédio de instituições públicas ou privadas, nacionais, estrangeiras ou internacionais, mediante convênios, contratos, parcerias públicas e/ou privadas, cooperações técnicas ou financeiras e concessão de auxílios.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Do Patrimônio**
 
-<br>
 **Art. 6º** O patrimônio da Fundação será constituído:
 
 I - pela dotação inicial de R$ 20.000,00 (vinte mil reais), provenientes do Tesouro Estadual;
@@ -80,11 +80,10 @@ IV - pelos rendimentos de suas atividades.
 
 Parágrafo único. No caso de extinção da Fundação, seus bens e direitos passarão a integrar o patrimônio do Estado de Mato Grosso.
 
-<br>
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **Dos recursos**
 
-<br>
 **Art. 7º** A Fundação contará com os recursos provenientes de:
 
 I - dotação consignada anualmente no orçamento do Estado;
@@ -105,25 +104,26 @@ Parágrafo único A Fundação poderá receber doações, legados, auxílios e c
 
 **Art. 8º** Os bens, direitos e recursos da Fundação serão utilizados exclusivamente para a consecução de seus fins.
 
-<br>
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
+
 **Da organização e administração**
 
-**Seção I**<br>
+**Seção I**
+
 **Disposições Gerais**
 
-<br>
 **Art. 9º** São órgãos da Fundação o Conselho Curador e a Presidência.
 
 Parágrafo único O Conselho Curador é o órgão superior consultivo e a Presidência, o órgão executivo. **_(Nova redação dada pela Lei Complementar n°_** [**_842/2026_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb4aa45ed8a4977d03258df7004bc27b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20842%2C%20DE%2013%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 Parágrafo único. O Conselho Curador é o órgão superior de deliberação e a Presidência, o órgão executivo.
 
-**Seção II**<br>
+**Seção II**
+
 **Do Conselho Curador**
 
-<br>
 **Art. 10** O Conselho Curador será composto de 15 (quinze) membros, a saber:
 
 I - Secretário de Estado de Justiça e Direitos Humanos. **_(Nova redação dada pela_** [**_LC 485/13_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**
@@ -162,99 +162,114 @@ VI - 2 (dois) membros de livre escolha do Governador do Estado.
 
 § 4º O mandato dos membros do Conselho Curador será de 2 (dois) anos, podendo ser renovado pelo mesmo período. **_(Acrescentado pela Lei Complementar n°_** [**_842/2026_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb4aa45ed8a4977d03258df7004bc27b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20842%2C%20DE%2013%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Da Presidência**
 
-**Subseção I**<br>
+**Subseção I**
+
 **Dos órgãos da Presidência**
 
-<br>
-**Art. 11** A Presidência da Fundação, órgão executivo, será integrada pelo: **_(Nova redação dada pela Lei Complementar n°_** [**_842/2026_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb4aa45ed8a4977d03258df7004bc27b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20842%2C%20DE%2013%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**<br>
-1 - Gabinete da Presidência;<br>
-1.1 - Diretoria de Reintegração Social; e<br>
+**Art. 11** A Presidência da Fundação, órgão executivo, será integrada pelo: **_(Nova redação dada pela Lei Complementar n°_** [**_842/2026_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb4aa45ed8a4977d03258df7004bc27b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20842%2C%20DE%2013%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**
+
+1 - Gabinete da Presidência;
+
+1.1 - Diretoria de Reintegração Social; e
+
 1.2 - Diretoria de Administração Sistêmica.
 
 Parágrafo único Desde que não acarrete aumento de despesas, fica autorizada a alteração da estrutura organizacional básica da Fundação Nova Chance por meio de decreto.
 
-**Redação Original.**<br>
-**Art. 11** A Presidência da Fundação, órgão executivo, será integrada por uma Diretoria Executiva, com:<br>
-I - Assessorias;<br>
-II - _(revogado)_ [LC 485/13](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)<br>
-**Redação Original**<br>
+**Redação Original.**
+
+**Art. 11** A Presidência da Fundação, órgão executivo, será integrada por uma Diretoria Executiva, com:
+
+I - Assessorias;
+
+II - _(revogado)_ [LC 485/13](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)
+
+**Redação Original**
+
 II - Auditoria Interna.
 
-**Subseção II**<br>
+**Subseção II**
+
 **Do Presidente da Fundação**
 
-<br>
 **Art. 12** O Presidente da Fundação será livremente escolhido pelo Governador do Estado.
 
 Parágrafo único. O cargo de Presidente da Fundação é de provimento em comissão, ressaltando o relevante trabalho que será prestado ao Estado de Mato Grosso.
 
-**Subseção III**<br>
+**Subseção III**
+
 **Das Diretorias**
 
-**_(Nova redação dada a íntegra da_** _subseção III_ **_pela Lei Complementar n°_** [**_842/2026_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb4aa45ed8a4977d03258df7004bc27b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20842%2C%20DE%2013%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**<br>
+**_(Nova redação dada a íntegra da_** _subseção III_ **_pela Lei Complementar n°_** [**_842/2026_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb4aa45ed8a4977d03258df7004bc27b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20842%2C%20DE%2013%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**
 
-<br>
 **Art. 13** As Diretorias de Reintegração Social e de Administração Sistêmica estão diretamente subordinadas à Presidência.
 
 Parágrafo único Os cargos de Diretor previstos no _caput_ deste artigo serão providos em comissão, mediante nomeação pelo Governador, escolhidos dentre pessoas com nível superior e conhecimento na área.
 
-**Redação Original.**<br>
-**Subseção III**<br>
-**Da Diretoria Executiva**<br>
-**Art. 13** O cargo de Diretor Executivo é de provimento em cargo de comissão, nomeado pelo Governador, escolhido dentre pessoas com nível superior.<br>
+**Redação Original.**
+
+**Subseção III**
+
+**Da Diretoria Executiva**
+
+**Art. 13** O cargo de Diretor Executivo é de provimento em cargo de comissão, nomeado pelo Governador, escolhido dentre pessoas com nível superior.
+
 Parágrafo único. A Diretoria Executiva está diretamente subordinada à Presidência.
 
-**Subseção IV**<br>
-**Da Auditoria Interna**<br>
+**Subseção IV**
 
-<br>
-<br>
+**Da Auditoria Interna**
+
 **Art. 14** _(revogado)_ [**_LC 485/13_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)
 
 **Redação Original.**
 
-**Art. 14** À Auditoria Interna, como unidade da estrutura básica da Fundação, será diretamente subordinada ao Diretor Executivo, cabendo:<br>
-I - efetuar controle e avaliação de resultados;<br>
-II - reunir e elaborar documentos e informações;<br>
+**Art. 14** À Auditoria Interna, como unidade da estrutura básica da Fundação, será diretamente subordinada ao Diretor Executivo, cabendo:
+
+I - efetuar controle e avaliação de resultados;
+
+II - reunir e elaborar documentos e informações;
+
 III - executar tarefas relacionadas com seu campo de atividades, determinadas pelo Diretor Executivo.
 
-<br>
-**Subseção V**<br>
+**Subseção V**
+
 **Disposições Gerais**
 
-<br>
 **Art. 15** _(revogado)_ **_(Revogado pela Lei Complementar n°_** [**_842/2026_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb4aa45ed8a4977d03258df7004bc27b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20842%2C%20DE%2013%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**
 
-**Redação Original.**<br>
+**Redação Original.**
+
 **Art. 15** Os mandatos do Presidente, do Diretor Executivo e dos membros do Conselho Curador, a que se refere o Art. 10, desta lei complementar, será de 4 (quatro) anos, renovável por uma só vez.
 
-**Seção IV**<br>
+**Seção IV**
+
 **Do Pessoal**
 
-<br>
 **Art. 16** O regime jurídico do pessoal da Fundação será o estatutário.
 
 § 1º Os servidores serão investidos nos cargos mediante processo apropriado, na forma prevista em lei.
 
 § 2º Quando prestarem serviço, eventual ou permanente, no interior dos estabelecimentos penais ou em órgãos vinculados à Secretaria de Estado de Justiça e Direitos Humanos, os servidores da fundação ficarão subordinados hierarquicamente à autoridade imediata superior do local e estarão obrigados à observância de todas as normas relativas à segurança e à disciplina vigentes. **_(Nova redação dada pela L_**[**_C 485/13_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**
 
-**Redação Original**<br>
+**Redação Original**
+
 § 2º Quando prestarem serviço, eventual ou permanente, no interior dos estabelecimentos penais ou em órgãos vinculados à Secretaria de Estado de Justiça e Segurança Pública do Estado de Mato Grosso, os servidores da fundação ficarão subordinados hierarquicamente à autoridade imediata superior do local e estarão obrigados à observância de todas as normas relativas à segurança e à disciplina vigentes.
 
 **Art. 17** Poderão ser postos à disposição da Fundação funcionários ou servidores da Administração direta e indireta do Estado, abrangendo o Executivo, Legislativo e Judiciário, com ou sem prejuízo dos vencimentos, salários e/ou subsídios de seus cargos ou funções, nos termos da legislação específica.
 
-<br>
-**CAPÍTULO VI**<br>
+**CAPÍTULO VI**
+
 **Das Disposições Finais**
 
-<br>
 **Art. 18** O Estatuto da Fundação será publicado por meio de decreto, regulamentando, dentre outros, os seguintes aspectos: **_(Nova redação dada ao_** _caput_ **_pela Lei Complementar n°_** [**_842/2026_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/bb4aa45ed8a4977d03258df7004bc27b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20842%2C%20DE%2013%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b6d144a03e44ccb984257aed0055f6ca?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20485%2C%20DE%2007%20DE)**_)_**
 
-**Redação Original**.<br>
+**Redação Original**.
+
 **Art. 18** Os estatutos da Fundação serão elaborados pela Secretaria de Estado de Justiça e Segurança Pública, aprovados e modificados através de Decreto, que disciplinarão basicamente os seguintes aspectos:
 
 I - em relação a seus fins:
@@ -299,25 +314,44 @@ c) o sistema contábil e de apuração de custo.
 
 Palácio Paiaguás, em Cuiabá, 26 de dezembro de 2007, 186º da Independência e 119º da República.
 
-**BLAIRO BORGES MAGGI**<br>
-CARLOS BRITO DE LIMA<br>
-ORESTES TEODORO DE OLIVEIRA<br>
-YÊNES JESUS DE MAGALHÃES<br>
-EDMILSON JOSÉ DOS SANTOS<br>
-JOÃO ANTÔNIO CUIABANO MALHEIROS<br>
-JOSÉ GONÇALVES BOTELHO DO PRADO<br>
-NELDO EGON WEIRICH<br>
-ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUZA MAGGI<br>
-PEDRO JAMIL NADAF<br>
-VILCEU FRANCISCO MARCHETTI<br>
-SÁGUAS MORAES SOUZA<br>
-GERALDO APARECIDO DE VITTO JÚNIOR<br>
-AUGUSTINHO MORO<br>
-LUIS HENRIQUE CHAVES DALDEGAN<br>
-JOSÉ CARLOS DIAS<br>
-JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO<br>
-JOSÉ JOAQUIM DE SOUZA FILHO<br>
-JOÃO CARLOS VICENTE FERREIRA<br>
-FRANCISCO TARQUÍNIO DALTRO<br>
-<br>
+**BLAIRO BORGES MAGGI**
+
+CARLOS BRITO DE LIMA
+
+ORESTES TEODORO DE OLIVEIRA
+
+YÊNES JESUS DE MAGALHÃES
+
+EDMILSON JOSÉ DOS SANTOS
+
+JOÃO ANTÔNIO CUIABANO MALHEIROS
+
+JOSÉ GONÇALVES BOTELHO DO PRADO
+
+NELDO EGON WEIRICH
+
+ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUZA MAGGI
+
+PEDRO JAMIL NADAF
+
+VILCEU FRANCISCO MARCHETTI
+
+SÁGUAS MORAES SOUZA
+
+GERALDO APARECIDO DE VITTO JÚNIOR
+
+AUGUSTINHO MORO
+
+LUIS HENRIQUE CHAVES DALDEGAN
+
+JOSÉ CARLOS DIAS
+
+JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO
+
+JOSÉ JOAQUIM DE SOUZA FILHO
+
+JOÃO CARLOS VICENTE FERREIRA
+
+FRANCISCO TARQUÍNIO DALTRO

@@ -1,5 +1,3 @@
-###DEC-092884-0-000-03-07-1986@@@
-
 DECRETO Nº 92.884, DE 3 DE JULHO DE 1986
 
 Outorga concessão à GOIANA FM LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Goiana, Estado de Pernambuco.

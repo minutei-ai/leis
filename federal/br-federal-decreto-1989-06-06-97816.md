@@ -1,7 +1,3 @@
-1
-
-###DEC-097816-0-000-06-06-1989@@@
-
 DECRETO N° 97.816, DE 06 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA PRIAPU”, classificado como “latifún­dio por exploração”, situado no Município de Santa Luzia do Itanhy, no Estado de Sergipe, compreendido na zona prioritária, fixada pelo Decreto n° 92.687, de 19 de maio de 1986, e dá outras providências.

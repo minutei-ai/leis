@@ -1,5 +1,3 @@
-###DEC-076364-0-000-02-10-1975@@@
-
 DECRETO Nº 76.364, DE 2 DE OUTUBRO DE 1975.
 
 Concede reconhecimento ao curso de Artes Práticas da Faculdade de Ciências da Fundação Educacional de Bauru, com sede na Cidade de Bauru, Estado de São Paulo.

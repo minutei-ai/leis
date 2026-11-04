@@ -1,7 +1,3 @@
-1
-
-###DEC-099469-0-000-20-08-1990@@@
-
 DECRETO N° 99.469, DE 20 DE AGOSTO DE 1990
 
 Altera o Decreto n° 99.247, de 11 de maio de 1990, e dá outras providências.

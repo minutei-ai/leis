@@ -1,7 +1,3 @@
-1
-
-###DEC-099433-0-000-31-07-1990@@@
-
 DECRETO N° 99.433, DE 31 DE JULHO DE 1990
 
 Revoga o art. 5° do Decreto n° 4.071, de 12 de maio de 1939.

@@ -1,5 +1,3 @@
-###DEC-081897-0-000-10-07-1978@@@
-
 Decreto nº 81 897, de 10 de julho de 1978
 
 Promulga o Acordo de Comércio entre o Governo da República Federativa do Brasil e o Governo da República Socialista da Tchecoslováquia; 1977.

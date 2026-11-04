@@ -1,7 +1,3 @@
-1
-
-###DEC-000853-0-000-02-07-1993@@@
-
 DECRETO N° 853, DE 2 DE JULHO DE 1993
 
 Dá nova redação ao § 1º do art. 26 do Decreto nº 101, de l7 de abril de l991, que estabelece prazo para opção da sistemática de incentivos fiscais instituída pela Lei nº  8.167, de 16 de janeiro de 1991.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209705)<br>
-
 # DECRETO N° 68.694, DE 10 DE JULHO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à implantação de uma estação elevatória de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., na Vila Operária, Distrito de Perus, no Município de São Paulo, e dá providências correlatas._

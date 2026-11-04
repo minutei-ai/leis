@@ -1,5 +1,3 @@
-###DEC-054728-0-000-30-10-1964@@@
-
 Decreto nº 54.728, de 30 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Heraldo dos Santos Andrade a pesquisar minério de ferro no município de Santa Bárbara, Estado de Minas Gerais.

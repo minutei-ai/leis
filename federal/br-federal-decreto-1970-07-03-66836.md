@@ -1,5 +1,3 @@
-###DEC-066836-0-000-03-07-1970@@@
-
 DECRETO Nº 66.836, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública o Instituto Medalha Milagrosa, com sede em Salvador, Estado da Bahia.

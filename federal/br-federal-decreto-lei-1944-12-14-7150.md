@@ -1,5 +1,3 @@
-###DEL-007150-0-000-14-12-1944@@@
-
 DECRETO-LEI N. 7.150 – DE 14 DE DEZEMBRO DE 1944
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 1.704.366,70, para despesas com trabalhadores destinados ao Vale do Amazonas

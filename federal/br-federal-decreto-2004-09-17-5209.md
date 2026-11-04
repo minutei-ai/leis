@@ -1,5 +1,3 @@
-###DEC-005209-0-000-17-09-2004@@@
-
 DECRETO Nº 5.209 DE 17 DE SETEMBRO DE 2004
 
 Regulamenta a Lei nº 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família, e dá outras providências.
@@ -84,7 +82,8 @@ Do Conselho Gestor do Programa Bolsa Família
 
 Seção III
 
-Das Competências e das Responsabilidades dos Estados, Distrito Federal e Municípios<br>
+Das Competências e das Responsabilidades dos Estados, Distrito Federal e Municípios
+
 na Execução do Programa Bolsa Família
 
         Art.11.  A execução e gestão do Programa Bolsa Família dar-se-á de forma descentralizada, por meio da conjugação de esforços entre os entes federados, observada a intersetorialidade, a participação comunitária e o controle social.

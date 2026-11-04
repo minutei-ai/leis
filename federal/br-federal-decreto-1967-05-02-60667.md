@@ -1,5 +1,3 @@
-###DEC-060667-0-000-02-05-1967@@@
-
 DECRETO Nº 60.667, DE 2 DE MAIO DE 1967.
 
 Transfere concessão.

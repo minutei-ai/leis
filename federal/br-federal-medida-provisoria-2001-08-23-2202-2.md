@@ -1,5 +1,3 @@
-###MPV-002202-0-002-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.202-2, DE 23 DE AGOSTO DE 2001
 
  Dispõe sobre o ressarcimento das contribuições para os Programas e Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e para a Seguridade Social - COFINS incidentes sobre insumos utilizados na fabricação de produtos destinados à exportação.
@@ -43,8 +41,6 @@ Brasília, 23 de agosto de 2001; 180º da Independência e 113º da República.
 FERNANDO HENRIQUE CARDOSO
 
 Pedro Malan
-
-<br>
 
 ANEXO
 

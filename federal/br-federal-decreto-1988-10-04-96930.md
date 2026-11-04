@@ -1,5 +1,3 @@
-###DEC-096930-0-000-04-10-1988@@@
-
 DECRETO Nº 96.930, DE 4 DE OUTUBRO DE 1988
 
 Altera o Estatuto da Fundação Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq.

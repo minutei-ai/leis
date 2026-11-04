@@ -1,5 +1,3 @@
-###DEC-088421-0-000-21-06-1983@@@
-
 decreto nº 88.421, de 21 de junho de 1983
 
 Dispõe sobre a implantação da Área de proteção Ambiental de Piaçabuçu, no Estado de Alagoas e dá outras providências.
@@ -86,8 +84,6 @@ JOÃO FIGUEIREDO
 
 Mário David Andreazza
 
-###DEC-088421-0-000-21-06-1983@@@RET01+++
-
 # DECRETO Nº 88.421, DE 21 DE JUNHO DE 1984
 
 Dispõe sobre a implantação da Área de Proteção Ambiental de Piaçabuçu, no Estado de Alagoas e dá outras providências.
@@ -111,8 +107,6 @@ LEIA\-SE:
 LEIA\-SE:
 
 ... Reservas Ecológicas Particulares.
-
-###DEC-088421-0-000-21-06-1983@@@REP01+++
 
 # \* DECRETO Nº 88.421, DE 21 DE JUNHO DE 1983
 

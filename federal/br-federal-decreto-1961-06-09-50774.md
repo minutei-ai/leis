@@ -1,5 +1,3 @@
-###DEC-050774-0-000-09-06-1961@@@
-
 DECRETO Nº 50.774, DE 9 DE JUNHO DE 1961.
 
 Concede à Mineração Carazal Ltda., autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-091244-0-000-09-05-1985@@@
-
 decreto nº 91.244, de 09 de maio de 1985.
 
 Declara de ocupação dos silvícolas, área de terras que menciona no Estado do Pará e dá outras providências.

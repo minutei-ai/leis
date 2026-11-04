@@ -1,5 +1,3 @@
-###DEC-097020-0-000-25-10-1988@@@
-
 DECRETO N.° 97.020, DE 25 DE OUTUBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessá­ria à implantação da estação transforma­dora de distribuição Jardim Paraíso, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

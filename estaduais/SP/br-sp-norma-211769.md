@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211769)<br>
-
 # DECRETO N° 70.048, DE 05 DE NOVEMBRO DE 2025
 
 ### _Aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete do Vice-Governador, da Governadoria do Estado._
@@ -28,7 +26,8 @@ TARCÍSIO DE FREITAS
 
 Arthur Luis Pinho de Lima
 
-#### ANEXO I<br>
+#### ANEXO I
+
 Estrutura Organizacional do Gabinete do Vice-Governador
 
 **Artigo 1° -** O Gabinete do Vice-Governador tem as seguintes competências:
@@ -115,12 +114,122 @@ VIII - solicitar informações a órgãos da Administração Pública.
 
 **Artigo 4° -** A Casa Civil é responsável pela prestação de suporte técnico-administrativo, financeiro, de recursos humanos e de infraestrutura ao Gabinete do Vice-Governador.
 
-#### ANEXO II<br>
+#### ANEXO II
+
 Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete do Vice-Governador
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">UNIDADE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QTD.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">DENOMINAÇÃO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CÓD.</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Gabinete do Vice-Governador</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe do Gabinete do Vice-Governador</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.17</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.14</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.13</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.09</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente Técnico I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.05</td></tr></tbody></table>
+UNIDADE
 
-#### ANEXO III<br>
+QTD.
+
+DENOMINAÇÃO
+
+CÓD.
+
+Gabinete do Vice-Governador
+
+1
+
+Chefe do Gabinete do Vice-Governador
+
+CCESP 1.17
+
+2
+
+Assessor Especial II
+
+CCESP 2.14
+
+3
+
+Assessor Especial I
+
+CCESP 2.13
+
+3
+
+Assessor I
+
+CCESP 2.09
+
+2
+
+Assistente Técnico I
+
+CCESP 2.05
+
+#### ANEXO III
+
 Quadro Resumo de Custos dos Cargos em Comissão e das Funções de Confiança do Gabinete do Vice-Governador
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CÓDIGO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">VALOR UNITÁRIO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QTD.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">VALOR TOTAL</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.17</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8,00</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8,00</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.14</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">5,50</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">11,00</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.13</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">4,50</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">13,50</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.09</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3,00</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9,00</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.05</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2,00</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">4,00</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Subtotal 1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">11</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">45,50</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">FCESP</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">0</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">0,00</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Subtotal 2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">0</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">0,00</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Total</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">11</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">45,50</td></tr></tbody></table>
+CÓDIGO
+
+VALOR UNITÁRIO
+
+QTD.
+
+VALOR TOTAL
+
+CCESP 1.17
+
+8,00
+
+1
+
+8,00
+
+CCESP 2.14
+
+5,50
+
+2
+
+11,00
+
+CCESP 2.13
+
+4,50
+
+3
+
+13,50
+
+CCESP 2.09
+
+3,00
+
+3
+
+9,00
+
+CCESP 2.05
+
+2,00
+
+2
+
+4,00
+
+Subtotal 1
+
+11
+
+45,50
+
+FCESP
+
+0
+
+0,00
+
+Subtotal 2
+
+0
+
+0,00
+
+Total
+
+11
+
+45,50

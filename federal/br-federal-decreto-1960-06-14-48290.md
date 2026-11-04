@@ -1,5 +1,3 @@
-###DEC-048290-0-000-14-06-1960@@@
-
 DECRETO Nº 48.290, DE 14 DE JUNHO DE 1960.
 
 Concede à Companhia Bandeirantes de Navegação a autorização para funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEL-003152-0-000-27-03-1941@@@
-
 DECRETO-LEI N. 3.152 – DE 27 DE MARÇO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de dois contos oitocentos e noventa e um mil e quatrocentos reais (2:891$4), para pagamento de diferença de vencimentos

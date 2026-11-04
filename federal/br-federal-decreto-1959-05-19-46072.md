@@ -1,5 +1,3 @@
-###DEC-046072-0-000-19-05-1959@@@
-
 DECRETO Nº 46.072, DE 19 DE maio DE 1959.
 
 Declara sem efeito o Decreto número 44.137, de 25 de julho de 1958.

@@ -1,5 +1,3 @@
-###DEC-073507-0-000-18-01-1974@@@
-
 DECRETO Nº 73.507, DE 18 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 67.604, de 18 de novembro de 1970, através do qual foi concedido à Cia. de Cimento Itambé o direito de lavrar calcário, no Município de Campo Largo, Estado do Paraná.

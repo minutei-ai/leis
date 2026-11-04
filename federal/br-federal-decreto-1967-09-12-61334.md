@@ -1,5 +1,3 @@
-###DEC-061334-0-000-12-09-1967@@@
-
 Decreto nº 61.334, de 12 de Setembro de 1967.
 
 Retifica, na parte a que se refere, o Decreto nº 51.858, de 21 de março de 1963.

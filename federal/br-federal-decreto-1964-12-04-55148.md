@@ -1,5 +1,3 @@
-###DEC-055148-0-000-04-12-1964@@@
-
 DECRETO Nº 55.148, DE 4 DE DEZEMBRO DE 1964.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco concessão para distribuir energia elétrica.

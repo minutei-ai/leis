@@ -1,5 +1,3 @@
-###DEC-075738-0-000-19-05-1975@@@
-
 DECRETO Nº 75.738, DE 19 DE MAIO DE 1975
 
 Concede a Antônio José de Carvalho firma individual, o direito de lavrar minério de ferro no Município de Igarapé, Estado de Minas Gerais.

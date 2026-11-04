@@ -1,7 +1,3 @@
-1
-
-###DEL-002392-0-000-21-12-1987@@@
-
 # DECRETO-LEI N° 2.392, DE 21 DE DEZEMBRO DE 1987
 
 Cancela débitos para com a Superintendência Nacional do Abastecimento - SUNAB, e dá outras providências.

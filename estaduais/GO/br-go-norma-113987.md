@@ -16,10 +16,49 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL</td><td style=" width:85px;    ">14 421 1007 2373</td><td style=" width:85px;    ">27000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 277.808,93</td><td style=" width:85px;    ">R$ 277.808,93</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 277.808,93</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 277.808,93</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL
+
+14 421 1007 2373
+
+27000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 277.808,93
+
+R$ 277.808,93
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 277.808,93
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 277.808,93

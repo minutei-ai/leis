@@ -1,5 +1,3 @@
-###DEC-048677-0-000-04-08-1960@@@
-
 DECRETO Nº 48.677, DE 4 DE AGÔSTO DE 1960.
 
 Concede à Companhia de Navegação da Amazônia autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

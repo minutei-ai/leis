@@ -1,5 +1,3 @@
-###DEC-096618-0-000-31-08-1988@@@
-
 DECRETO Nº 96.618, DE 31 DE AGOSTO DE 1988
 
 Aprova o Regulamento dos Serviços Público-Restritos.

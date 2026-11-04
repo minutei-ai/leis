@@ -1,7 +1,3 @@
-1
-
-###DEL-001649-0-000-19-12-1978@@@
-
 # DECRETO-LEI Nº 1.649, DE 19 DE DEZEMBRO DE 1978
 
 Dispõe sobre a criação de cargos no Tribunal de Contas da União, e dá outras providências.

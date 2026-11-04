@@ -1,5 +1,3 @@
-###DEC-054095-0-000-05-08-1964@@@
-
 decreto nº 54.095, de 5 de agôsto de 1964.
 
 Declara de utilidade pública, para fins de servidão ou de desapropriação em favor da Petróleo Brasileiro S.A. - PETROBRÁS - imóveis necessários à pesquisa e lavra de Petróleo, situados no Estado da Bahia.

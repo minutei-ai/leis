@@ -4,7 +4,8 @@ Cria os componentes do Município de Aparecida de Goiânia, Estado de Goiás, no
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º Esta Lei cria os componentes municipais do Sistema Nacional de Segurança Alimentar (SISAN), bem como define parâmetros para elaboração e implementação do Plano Municipal de Segurança Alimentar e Nutricional, em consonância com os princípios e diretrizes estabelecidos pela Lei nº 11.346, de 15 de setembro de 2006, com o Decreto nº 6.272, de 2007, o Decreto nº 6.273, de 2007, e o Decreto nº 7.272, de 2010, com o propósito de garantir o Direito Humano à Alimentação Adequada.
@@ -39,7 +40,8 @@ Art. 5º A consecução do Direito Humano à Alimentação Adequada e da Seguran
 
 Art. 6º O Município de Aparecida de Goiânia Estado de Goiás deve empenhar-se na promoção de cooperação técnica com o Governo Estadual e com os demais municípios do estado, contribuindo assim, para a realização do Direito Humano à Alimentação Adequada.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS COMPOMENTES MUNICIPAIS DO SISTEMA NACIONAL DE ALIMENTAR E NUTRICIONAL
 
 Art. 7º A consecução do Direito Humano à Alimentação Adequada e da Segurança Alimentar e Nutricional da população far-se-á por meio do SISAN, integrado, no Município de Aparecida de Goiânia Estado de Goiás por um conjunto de órgãos e entidades afetas à Segurança Alimentar e Nutricional.
@@ -72,8 +74,10 @@ Art. 11. Esta Lei entra em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA GOIÂNIA, AOS 26 DIAS DO MÊS DE MAIO DO ANO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional

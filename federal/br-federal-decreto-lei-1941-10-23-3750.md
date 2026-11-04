@@ -1,5 +1,3 @@
-###DEL-003750-0-000-23-10-1941@@@
-
 DECRETO-LEI N. 3.750 – DE 23 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial de 2.808:330$0, para despesas da Comissão Mista Brasileiro-Boliviana de Petróleo.

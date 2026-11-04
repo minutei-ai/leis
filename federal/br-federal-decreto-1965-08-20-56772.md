@@ -1,5 +1,3 @@
-###DEC-056772-0-000-20-08-1965@@@
-
 DECRETO Nº 56.772, DE 20 DE AGÔSTO DE 1965.
 
 Transfere de Luiz Antônio Monnerat para Regino Monnerat a concessão para produzir e distribuir energia elétrica no Município de Duas Barras, Estado do Rio de Janeiro.
@@ -21,8 +19,6 @@ Brasília, 20 de agôsto de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-056772-0-000-20-08-1965@@@RET01+++
 
 DECRETO Nº 56.772, DE 20 DE AGÔSTO DE 1965.
 

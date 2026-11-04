@@ -1,5 +1,3 @@
-###DEC-001802-0-000-02-02-1996@@@
-
 DECRETO Nº 1.802, DE 02 DE FEVEREIRO DE 1996
 
 Dispõe sobre a inscrição dos restos a pagar do exercício de 1995, no âmbito do Poder Executivo.

@@ -1,5 +1,3 @@
-###DEC-006418-0-000-31-03-2008@@@
-
 DECRETO Nº 6.418, DE 31 DE MARÇO DE 2008.
 
 Promulga o Acordo para a Facilitação de Atividades Empresariais no Mercosul, aprovado pela Decisão CMC 32/04, emanada da XXVII Reunião de Cúpula do Mercosul, realizada em Belo Horizonte, em 16 de dezembro de 2004.
@@ -22,11 +20,7 @@ Brasília, 31 de março de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 1º.4.2008
-
-ACORDO PARA A FACILITAÇÃO DE ATIVIDADES EMPRESARIAIS NO MERCOSUL
+         Celso Luiz Nunes AmorimACORDO PARA A FACILITAÇÃO DE ATIVIDADES EMPRESARIAIS NO MERCOSUL
 
 A República Argentina, a República Federativa do Brasil, a República do Paraguai e a República Oriental do Uruguai acordam o seguinte:
 

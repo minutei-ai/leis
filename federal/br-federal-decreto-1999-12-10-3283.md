@@ -1,5 +1,3 @@
-###DEC-003283-0-000-10-12-1999@@@
-
 DECRETO Nº 3.283, DE 10 DE DEZEMBRO DE 1999.
 
 Dá nova redação ao art. 2º do Decreto nº 2.912, de 29 de dezembro de 1998, que aprova o Programa de Dispêndios Globais - PDG das empresas estatais federais para 1999.

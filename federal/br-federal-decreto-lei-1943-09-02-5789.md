@@ -1,5 +1,3 @@
-###DEL-005789-0-000-02-09-1943@@@
-
 DECRETO‑LEI N. 5.789 – DE 2 DE SETEMBRO DE 1943
 
 Autoriza a emissão de "Letras do Tesouro"

@@ -1,5 +1,3 @@
-###LEI-000000-0-000-20-09-1828@@@
-
 LEI - DE 20 DE SETEMBRO DE 1828
 
 Extingue o Tribunal da Junta da Bulla da Cruzada.

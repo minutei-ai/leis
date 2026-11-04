@@ -1,5 +1,3 @@
-###DEC-047740-0-000-02-02-1960@@@
-
 decreto nº 47.740, de 2 de fevereiro de 1960.
 
 Dispõe sôbre a desapropriação de imóvel destinado à Universidade do Ceará.

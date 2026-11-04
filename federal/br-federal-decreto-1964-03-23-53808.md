@@ -1,5 +1,3 @@
-###DEC-053808-0-000-23-03-1964@@@
-
 DECRETO Nº 53.808, DE 23 DE MARÇO DE 1964.
 
 Autoriza o cidadão brasileiro José Trindade a pesquisar diamantes no município de Alto Paraguai, Estado de Mato Grosso.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.640, DE 21 DE JULHO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei n. 1.422, de 18 de dezembro de 2001, que “Dispõe sobre o Regimento de Custas do Poder Judiciário do Estado do Acre, amplia o acesso à Justiça e dá outras providências."</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei n. 1.422, de 18 de dezembro de 2001, que “Dispõe sobre o Regimento de Custas do Poder Judiciário do Estado do Acre, amplia o acesso à Justiça e dá outras providências."
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -18,5 +22,6 @@
 
 Rio Branco-Acre, 21 de julho de 2020, 132º da República, 118º do Tratado de Petrópolis e 59º do Estado do Acre.
 
-**Gladson de Lima Cameli<br>
+**Gladson de Lima Cameli
+
 **Governador do Estado do Acre

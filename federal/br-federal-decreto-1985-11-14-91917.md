@@ -1,5 +1,3 @@
-###DEC-091917-0-000-14-11-1985@@@
-
 Decreto nº 91.917, de 14 de novembro de 1985.
 
 Concede autorização ao navio de pesquisa "ENDEAVOR", de bandeira norte-americana, para realizar em águas jurisdicionais brasileiras os serviços que especifica.

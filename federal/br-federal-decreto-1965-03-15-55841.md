@@ -1,5 +1,3 @@
-###DEC-055841-0-000-15-03-1965@@@
-
 DECRETO Nº 55.841, DE 15 DE MARÇO DE 1965.
 
 Aprova o Regulamento da Inspeção do Trabalho.

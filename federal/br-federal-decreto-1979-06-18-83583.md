@@ -1,5 +1,3 @@
-###DEC-083583-0-000-18-06-1979@@@
-
 Decreto nº 83.583, de 18 de junho de 1979
 
 Dá nova redação a dispositivos dos Decreto nº 83.226, de 1º de março de 1979, que regulamenta a Lei nº 6.544, de 21 de agosto de 1978, que dispõe sobre novas inscrições de magistrados federais no Montepio Civil da União.

@@ -1,5 +1,3 @@
-###DEC-070148-0-000-17-02-1972@@@
-
 DECRETO Nº 70.148, DE 17 DE FEVEREIRO DE 1972.
 
 Revoga o Decreto nº 8.938, de 30 de agosto de 1911, que concedeu á empresa Mississippi Valley, South América And Orient Steamship Company, autorização para funcionar na República Federativa do Brasil.

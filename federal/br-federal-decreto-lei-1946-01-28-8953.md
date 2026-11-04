@@ -1,5 +1,3 @@
-###DEL-008953-0-000-28-01-1946@@@
-
 DECRETO-LEI N. 8.953 – DE 28 DE JANEIRO DE 1946
 
 Revigora o Decreto-lei nº 7.930, de 3 de setembro de 1945 e dá outras providências.

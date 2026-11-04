@@ -1,5 +1,3 @@
-###DEC-056298-0-000-19-05-1965@@@
-
 DECRETO Nº 56.298, DE 19 DE maio DE 1965.
 
 Declara de utilidade pública a “Sociedade Educadora Nossa Senhora da Piedade”, com sede no Estado da Guanabara.

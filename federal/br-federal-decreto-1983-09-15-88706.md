@@ -1,5 +1,3 @@
-###DEC-088706-0-000-15-09-1983@@@
-
 Decreto nº 88.706, de 15 de setembro de 1983.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS imóveis constituídos de terras e benfeitorias, de propriedade particular que menciona.

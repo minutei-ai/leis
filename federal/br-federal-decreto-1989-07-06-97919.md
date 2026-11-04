@@ -1,7 +1,3 @@
-1
-
-###DEC-097919-0-000-06-07-1989@@@
-
 DECRETO N° 97.919, DE 6 DE JULHO D E 1989
 
 Altera o Estatuto da Fundação Alexandre de Gusmão  FUNAG.

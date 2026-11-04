@@ -1,5 +1,3 @@
-###DEL-008962-0-000-29-01-1946@@@
-
 DECRETO-LEI N. 8.962 – DE 29 DE JANEIRO DE 1946
 
 Transfere funcionários da carreira de oficial administrativo do Quadro Permanente para carreira idêntica do Quadro Suplementar do Ministério da Guerra e dá outras providências.

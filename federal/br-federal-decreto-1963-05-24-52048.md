@@ -1,5 +1,3 @@
-###DEC-052048-0-000-24-05-1963@@@
-
 DECRETO Nº 52.048, DE 24 DE MAIO DE 1963.
 
 Autoriza Fosforita Olinda S. A. - Fasa - a lavrar fosforita no município de Igarassu, Estado de Pernambuco.

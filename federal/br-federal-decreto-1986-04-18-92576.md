@@ -1,5 +1,3 @@
-###DEC-092576-0-000-18-04-1986@@@
-
 DECRETO Nº 92.576, DE 18 DE ABRIL DE 1986
 
 Altera o Decreto nº 87.428, de 27 de julho de 1982, "que dispõe sobre a estrutura básica do Ministério dos Transportes e dá outras providências".

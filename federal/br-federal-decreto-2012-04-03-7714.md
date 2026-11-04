@@ -1,5 +1,3 @@
-###DEC-007714-0-000-03-04-2012-PUB-01@@@
-
 DECRETO Nº 7.714, DE 3 DE ABRIL DE 2012
 
 Altera o Decreto nº 4.993, de 18 de fevereiro de 2004, que dispõe sobre a criação do Comitê de Financiamento e Garantia das Exportações.

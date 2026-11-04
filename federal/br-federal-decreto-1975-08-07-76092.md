@@ -1,5 +1,3 @@
-###DEC-076092-0-000-07-08-1975@@@
-
 DECRETO Nº 76.092 - DE 7 DE AGOSTO DE 1975
 
 Abre ao Poder Legislativo em favor de diversos Órgãos o crédito suplementar de Cr$ 123.476.900,00 para reforço de dotações consignadas no vigente Orçamento.
@@ -10,11 +8,235 @@ DECRETA:
 
 Art. 1º Fica aberto o crédito suplementar no valor de Cr$ 123.476.900,00 (cento e vinte e três milhões, quatrocentos e setenta e seis mil e novecentos cruzeiros), para reforço de dotações orçamentárias consignadas no vigente Orçamento, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01.00</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- CÂMARA DOS DEPUTADOS.................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">67.291.900</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0100.01010012.017</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Processo Legislativo</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas ...............................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38.385.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis....................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23.527.800</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família............................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">140.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social..........................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.700.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0100.15814882.015</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Encargos com Inativos e Pensionistas</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.1</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inativos........................................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.449.100</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família............................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">90.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02.00</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- SENADO FEDERAL ..................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">48.255.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0200.01010012.017</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Processo Legislativo</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas...............................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.418.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis....................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12.718.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família...........................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">250.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social..........................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.334.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0200.01070242.019</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutenção do Centro de Processamento de Dados e Informações</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis ...................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.189.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0200.01623472.164</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Serviços Gráficos</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis ..................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7.431.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social .........................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.955.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0200.15814882.015</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Encargos com Inativos e Pensionistas</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.1</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inativos ......................................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.918.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família ..........................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03.00</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- TRIBUNAL DE CONTAS DA UNIÃO .........................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">7.930.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0300.01010022.020</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fiscalização e Controle da Arrecadação e Aplicação dos Recursos Públicos</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.2.0</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Material de Consumo .................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros ....................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social .........................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">730.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0300.15814882.015</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Encargos com Inativos e Pensionistas</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.1</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inativos ......................................................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">6.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL....................................</span></p></td><td style="width:57.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">123.476.900</span></p></td></tr></tbody></table>
+Cr$1,00
+
+01.00
+
+- CÂMARA DOS DEPUTADOS.................................
+
+67.291.900
+
+0100.01010012.017
+
+- Processo Legislativo
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas ...............................
+
+38.385.000
+
+02
+
+- Despesas Variáveis....................................................
+
+23.527.800
+
+3.2.3.3
+
+- Salário-Família............................................................
+
+140.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social..........................
+
+2.700.000
+
+0100.15814882.015
+
+- Encargos com Inativos e Pensionistas
+
+3.2.3.1
+
+- Inativos........................................................................
+
+2.449.100
+
+3.2.3.3
+
+- Salário-Família............................................................
+
+90.000
+
+02.00
+
+- SENADO FEDERAL ..................................................
+
+48.255.000
+
+0200.01010012.017
+
+- Processo Legislativo
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas...............................
+
+15.418.000
+
+02
+
+- Despesas Variáveis....................................................
+
+12.718.000
+
+3.2.3.3
+
+- Salário-Família...........................................................
+
+250.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social..........................
+
+4.334.000
+
+0200.01070242.019
+
+- Manutenção do Centro de Processamento de Dados e Informações
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis ...................................................
+
+2.189.000
+
+0200.01623472.164
+
+- Serviços Gráficos
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis ..................................................
+
+7.431.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social .........................
+
+2.955.000
+
+0200.15814882.015
+
+- Encargos com Inativos e Pensionistas
+
+3.2.3.1
+
+- Inativos ......................................................................
+
+2.918.000
+
+3.2.3.3
+
+- Salário-Família ..........................................................
+
+42.000
+
+03.00
+
+- TRIBUNAL DE CONTAS DA UNIÃO .........................
+
+7.930.000
+
+0300.01010022.020
+
+- Fiscalização e Controle da Arrecadação e Aplicação dos Recursos Públicos
+
+3.1.2.0
+
+- Material de Consumo .................................................
+
+200.000
+
+3.1.3.2
+
+- Outros Serviços de Terceiros ....................................
+
+1.000.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social .........................
+
+730.000
+
+0300.15814882.015
+
+- Encargos com Inativos e Pensionistas
+
+3.2.3.1
+
+- Inativos ......................................................................
+
+6.000.000
+
+TOTAL....................................
+
+123.476.900
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03.00</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- TRIBUNAL DE CONTAS DA UNIÃO ......................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">1.200.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 0300.01010211.007</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.3.0</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Equipamentos e Instalações ...................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">600.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.4.0</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Material Permanente ..............................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">600.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39.00</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- RESERVA DE CONTINGÊNCIA ............................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">122.276.900</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3900.99999999.999</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingência</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.6.0</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingência ........................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">122.276.900</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL .......................................................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">123.476.900</span></p></td></tr></tbody></table>
+03.00
+
+- TRIBUNAL DE CONTAS DA UNIÃO ......................
+
+1.200.000
+
+Projeto
+
+- 0300.01010211.007
+
+4.1.3.0
+
+- Equipamentos e Instalações ...................................
+
+600.000
+
+4.1.4.0
+
+- Material Permanente ..............................................
+
+600.000
+
+39.00
+
+- RESERVA DE CONTINGÊNCIA ............................
+
+122.276.900
+
+3900.99999999.999
+
+- Reserva de Contingência
+
+3.2.6.0
+
+- Reserva de Contingência ........................................
+
+122.276.900
+
+TOTAL .......................................................................
+
+123.476.900
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

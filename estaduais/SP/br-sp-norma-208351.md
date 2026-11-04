@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208351)<br>
-
 # DECRETO N° 67.842, DE 27 DE JULHO DE 2023
 
 ### _Altera os Decretos n° 67.053, de 17 de agosto de 2022, que fixa, conforme o caso, o percentual ou o valor anual máximo para pagamento das Bonificações por Resultados - BR relativas ao exercício de 2022, e n° 66.772, de 24 de maio de 2022, que regulamenta a Bonificação por Resultados - BR, instituída pela Lei Complementar n° 1.361, de 21 de outubro de 2021._

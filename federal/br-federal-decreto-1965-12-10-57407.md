@@ -1,5 +1,3 @@
-###DEC-057407-0-000-10-12-1965@@@
-
 DECRETO Nº 57.407, DE 10 DE DEZEMBRO DE 1965.
 
 Dá nova redação a dispositivo do Decreto nº 55.090-A, de 28 de novembro de 1964 - Regulamento da Lei de Promoções dos Oficiais do Exército.

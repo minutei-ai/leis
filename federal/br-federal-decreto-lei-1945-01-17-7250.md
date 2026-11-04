@@ -1,5 +1,3 @@
-###DEL-007250-0-000-17-01-1945@@@
-
 DECRETO-LEi N. 7.250 – DE 17 DE JANEIRO DE 1945
 
 Altera a carreira de Arquivista do Quadro Permanente do Departamento Administrativo do Serviço Público

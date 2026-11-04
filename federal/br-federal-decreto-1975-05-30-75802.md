@@ -1,5 +1,3 @@
-###DEC-075802-0-000-30-05-1975@@@
-
 DECRETO Nº 75.802, DE 30 DE MAIO DE 1975
 
 Concede à Companhia de Cimento Salvador o direito de lavrar minério de ferro no Município de Jitauna, Estado da Bahia.

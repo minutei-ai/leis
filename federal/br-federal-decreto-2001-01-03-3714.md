@@ -1,5 +1,3 @@
-###DEC-003714-0-000-03-01-2001@@@
-
 DECRETO Nº 3.714 , DE 3 DE JANEIRO DE 2001
 
 Dispõe sobre a remessa por meio eletrônico de documentos a que se refere o art. 57-A do Decreto nº 2.954, de 29 de janeiro de 1999, e dá outras providências.

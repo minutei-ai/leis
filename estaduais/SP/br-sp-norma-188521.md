@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188521)
-
 # DECRETO Nº 63.855, DE 28 DE NOVEMBRO DE 2018
 
 ### _Altera dispositivos que especifica do Decreto nº 57.884, de 19 de março de 2012, que institui Avaliação de Desempenho Individual e estabelece os critérios relativos à progressão para os servidores integrantes das classes abrangidas pela Lei Complementar nº 1.157, de 2 de dezembro de 2011, e dá providências correlatas_
@@ -90,61 +88,94 @@ ecretário de Logística e Transportes
 
 Márcio Fernando Elias Rosa
 
-Secretário da Justiça e da Defesa da Cidadania<br>
-Eduardo Trani<br>
-Secretário do Meio Ambiente<br>
-Gilberto Nascimento Silva Júnior<br>
-Secretário de Desenvolvimento Social<br>
-Maurício Juvenal<br>
-Secretário de Planejamento e Gestão<br>
-Marco Antonio Zago<br>
-Secretário da Saúde<br>
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Lourival Gomes<br>
-Secretário da Administração Penitenciária<br>
-Clodoaldo Pelissioni<br>
-Secretário dos Transportes Metropolitanos<br>
-Cícero Firmino da Silva<br>
-Secretário do Emprego e Relações do Trabalho<br>
-Carlos Renato Cardoso Pires de Camargo<br>
-Secretário de Esporte, Lazer e Juventude<br>
-João Carlos de Souza Meirelles<br>
-Secretário de Energia e Mineração<br>
-José Roberto Aprillanti Junior<br>
-Secretário de Turismo<br>
-Linamara Rizzo Battistella<br>
-Secretária dos Direitos da Pessoa com Deficiência<br>
-Aldo Rebelo<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Secretário da Justiça e da Defesa da Cidadania
+
+Eduardo Trani
+
+Secretário do Meio Ambiente
+
+Gilberto Nascimento Silva Júnior
+
+Secretário de Desenvolvimento Social
+
+Maurício Juvenal
+
+Secretário de Planejamento e Gestão
+
+Marco Antonio Zago
+
+Secretário da Saúde
+
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Lourival Gomes
+
+Secretário da Administração Penitenciária
+
+Clodoaldo Pelissioni
+
+Secretário dos Transportes Metropolitanos
+
+Cícero Firmino da Silva
+
+Secretário do Emprego e Relações do Trabalho
+
+Carlos Renato Cardoso Pires de Camargo
+
+Secretário de Esporte, Lazer e Juventude
+
+João Carlos de Souza Meirelles
+
+Secretário de Energia e Mineração
+
+José Roberto Aprillanti Junior
+
+Secretário de Turismo
+
+Linamara Rizzo Battistella
+
+Secretária dos Direitos da Pessoa com Deficiência
+
+Aldo Rebelo
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 28 de novembro de 2018.
 
-<br>
-<br>
-
 #### [DECRETO Nº 63.855, DE 28 DE NOVEMBRO DE 2018](https://www.al.sp.gov.br/norma/188521)
 
 #### Retificação do D.O. de 29-11-2018
 
-No referendo onde se lê:<br>
-Marco Antonio Zago<br>
-Secretário da Saúde<br>
-Leia-se:<br>
-Antonio Rugolo Júnior<br>
+No referendo onde se lê:
+
+Marco Antonio Zago
+
+Secretário da Saúde
+
+Leia-se:
+
+Antonio Rugolo Júnior
+
 Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Saúde
 
-<br>
-<br>
-
 #### [DECRETO Nº 63.855, DE 28 DE NOVEMBRO DE 2018](https://www.al.sp.gov.br/norma/188521)
 
 #### Retificação do D.O. de 29-11-2018
 
-No referendo onde se lê:<br>
-Clodoaldo Pelissioni<br>
-Secretário dos Transportes Metropolitanos<br>
-leia-se:<br>
-Michael Sotelo Cerqueira<br>
+No referendo onde se lê:
+
+Clodoaldo Pelissioni
+
+Secretário dos Transportes Metropolitanos
+
+leia-se:
+
+Michael Sotelo Cerqueira
+
 Secretário-Adjunto, Respondendo pelo Expediente da Secretaria dos Transportes Metropolitanos

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209409)<br>
-
 # DECRETO N° 68.496, DE 02 DE MAIO DE 2024
 
 ### _Altera a classificação institucional da Secretaria de Meio Ambiente, Infraestrutura e Logística nos Sistemas de Administração Financeira e Orçamentária do Estado._

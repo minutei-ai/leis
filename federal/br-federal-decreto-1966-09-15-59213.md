@@ -1,5 +1,3 @@
-###DEC-059213-0-000-15-09-1966@@@
-
 decreto nº 59.213, de 15 de setembro de 1966.
 
 Incorpora emissoras do Ministério da Educação e Cultura ao Serviço de Radiodifusão Educativa do mesmo Ministério.

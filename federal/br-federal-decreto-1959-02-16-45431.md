@@ -1,5 +1,3 @@
-###DEC-045431-0-000-16-02-1959@@@
-
 DECRETO Nº 45.431, DE 16 DE FEVEREIRO DE 1959.
 
 Dispõe sôbre o exercício de funções de instrutoria em estabelecimentos e curso do Ministério da Marinha.

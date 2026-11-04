@@ -1,30 +1,28 @@
-###DEC-022048-0-000-13-11-1946@@@
+**DECRETO Nº 22.048, DE 13 DE NOVEMBRO DE 1946.**
 
-<strong>DECRETO Nº 22.048, DE 13 DE NOVEMBRO DE 1946.</strong>
+***Aprova o Regimento da Comissão de Estudos do Conselho de Segurança Nacional.***
 
-<em><strong>Aprova o Regimento da Comissão de Estudos do Conselho de Segurança Nacional.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e, na conformidade do que dispõe o Decreto-lei nº 9.775, de 6 de setembro de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e, na conformidade do que dispõe o Decreto-lei nº 9.775, de 6 de setembro de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Comissão de Estudos do Conselho de Segurança Nacional e que acompanha o presente Decreto, assinado pelo General de Divisão Álcio Souto, Presidente da Comissão de Estudos.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Comissão de Estudos do Conselho de Segurança Nacional e que acompanha o presente Decreto, assinado pelo General de Divisão Álcio Souto, Presidente da Comissão de Estudos.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 13 de novembro de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Benedito Costa Netto
 
-<strong>REGIMENTO DA COMISSÃO DE ESTUDOS</strong>
+**REGIMENTO DA COMISSÃO DE ESTUDOS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO PRESIDENTE DA COMISSÃO</em>
+*DO PRESIDENTE DA COMISSÃO*
 
-<strong>Art</strong>. 1º Compete ao Presidente da Comissão:
+**Art**. 1º Compete ao Presidente da Comissão:
 
 a) orientar e dirigir os trabalhos da Comissão;
 
@@ -40,11 +38,11 @@ f)dar posse aos novos membros, depois de prestado o compromisso legal;
 
 g) organizar sub-comissões especiais, sempre que julgar necessário para tratar dos detalhes de assuntos eminentemente técnicos.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DOS MEMBROS DA COMISSÃO</em>
+*DOS MEMBROS DA COMISSÃO*
 
-<strong>Art</strong>. 2º Compete aos membros efetivos da Comissão:
+**Art**. 2º Compete aos membros efetivos da Comissão:
 
 a) prestar o compromisso determinado neste Regimento;
 
@@ -62,17 +60,17 @@ g) Apresentar ao Presidente da Comissão memoriais ou sugestões sôbre problema
 
 h) Participar das votações da Comissão e emitir por escrito todo voto que diverfir do parecer em discussão.
 
-<strong>Art</strong>. 3º Aos membros eventuais da Comissão incumbe, em tudo que lhes fôr compatível, as atribuições definidas no artigo 2º para os membros efetivos.
+**Art**. 3º Aos membros eventuais da Comissão incumbe, em tudo que lhes fôr compatível, as atribuições definidas no artigo 2º para os membros efetivos.
 
-<strong>Art</strong>. 4º É vedado a todos os membros efetivos ou eventuais da Comissão de Estudos revelar, sob qualquer forma, os assuntos estudados nas sessões relativas à segurança nacional. Igualmente, é lhes vedado tratar em palestras e conferências, pela imprensa ou em livros, de assuntos dependentes de exame ou já resolvidos pela Comissão.
+**Art**. 4º É vedado a todos os membros efetivos ou eventuais da Comissão de Estudos revelar, sob qualquer forma, os assuntos estudados nas sessões relativas à segurança nacional. Igualmente, é lhes vedado tratar em palestras e conferências, pela imprensa ou em livros, de assuntos dependentes de exame ou já resolvidos pela Comissão.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO FUNCIONAMENTO</em>
+*DO FUNCIONAMENTO*
 
-<strong>Art</strong>. 5º A Comissão de Estudos reune-se por convocação do Presidente. Com a presença da maioria dos membros, a Comissão poderá iniciar ou prosseguir nos estudos, entretanto só decidirá não havendo unanimidade, quando o Presidente assim julgar conveniente.
+**Art**. 5º A Comissão de Estudos reune-se por convocação do Presidente. Com a presença da maioria dos membros, a Comissão poderá iniciar ou prosseguir nos estudos, entretanto só decidirá não havendo unanimidade, quando o Presidente assim julgar conveniente.
 
-<strong>Art</strong>. 6º As reuniões da Comissão de Estudos realizam-se na sede da Secretaria Geral do Conselho de Segurança Nacional e obedecem às seguintes regras gerais:
+**Art**. 6º As reuniões da Comissão de Estudos realizam-se na sede da Secretaria Geral do Conselho de Segurança Nacional e obedecem às seguintes regras gerais:
 
 1ª - Havendo número legal, o Presidente declara aberta a sessão e manda proceder à leitura da ata da sessão anterior, a qual se considera aprovada, se não houver impugnação. No caso de qualquer restrição, o Chefe do Gabinete da Secretaria prestará esclarecimentos, e se, apesar dêles, a Comissão de Estudos reconhecer a procedência da impugnação, será feita a devida retificação, que constará da ata da sessão em aprêço;
 
@@ -92,25 +90,25 @@ e) Findo prazo concedido, a Comissão reunir-se-à novamente, para discutir o pa
 
 4ª - Terminada a ordem do dia, o Presidente facultará a palavra aos membros que desejarem fazer qualquer comunicação ou apresentar qualquer indicação ao plenário atinente aos interêsses da Segurança Nacional.
 
-<strong>Art</strong>. 7º Os pareceres, as susgestões, as emendas, etc., sôbre qualquer assunto sujeito a exame e discussão do plenário, devem ser sempre escritos e anexados ao respectivo processo.
+**Art**. 7º Os pareceres, as susgestões, as emendas, etc., sôbre qualquer assunto sujeito a exame e discussão do plenário, devem ser sempre escritos e anexados ao respectivo processo.
 
-<strong>Art</strong>. 8º De cada sessão lavrar-se-á a respectiva ata, em livro especial. A ata uma vez lida, discutida e aprovada, na sessão seguinte, será assinada pelo Presidente da Comissão e pelo Chefe do Gabinete da Secretaria Geral.
+**Art**. 8º De cada sessão lavrar-se-á a respectiva ata, em livro especial. A ata uma vez lida, discutida e aprovada, na sessão seguinte, será assinada pelo Presidente da Comissão e pelo Chefe do Gabinete da Secretaria Geral.
 
 Parágrafo único. O Assistente do Gabinete da Secretaria Geral será sempre o redator das atas e debates.
 
-<strong>Art</strong>. 9º Incumbe à Secretaria Geral do Conselho de Segurança Nacional o preparo do expediente relativo aos relatórios de apresentação das questões que devam ser submetidas à alta decisão do Presidente da República.
+**Art**. 9º Incumbe à Secretaria Geral do Conselho de Segurança Nacional o preparo do expediente relativo aos relatórios de apresentação das questões que devam ser submetidas à alta decisão do Presidente da República.
 
-<strong>Art</strong>.10. De todos os documentos, pareceres o relatório originários da Comissão de Estudos ficará arquivada uma cópia autêntica na Secretaria Geral.
+**Art**.10. De todos os documentos, pareceres o relatório originários da Comissão de Estudos ficará arquivada uma cópia autêntica na Secretaria Geral.
 
-<strong>Art</strong>. 11. As relações da Comissão de Estudos são asseguradas pessoalmente por seu Presidente – o Secretário Geral do Conselho de Segurança Nacional – ou pelo Chefe do Gabinete da Secretaria Geral, quando para isso receber delegação.
+**Art**. 11. As relações da Comissão de Estudos são asseguradas pessoalmente por seu Presidente – o Secretário Geral do Conselho de Segurança Nacional – ou pelo Chefe do Gabinete da Secretaria Geral, quando para isso receber delegação.
 
 Parágrafo único. O expediente referente ás relações da Comissão será preparado pela Secretaria Geral.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO COMPROMISSO</em>
+*DO COMPROMISSO*
 
-<strong>Art</strong>. 12. Os novos membros efetivos e o eventuais da Comissão de Estudos prestarão o seguinte compromisso, perante os elementos integrantes da mesma, na primeira reunião para a qual forem convocados:
+**Art**. 12. Os novos membros efetivos e o eventuais da Comissão de Estudos prestarão o seguinte compromisso, perante os elementos integrantes da mesma, na primeira reunião para a qual forem convocados:
 
 “Prometo, sob palavra de honra, guardar no mais completo sigilo os assuntos que forem tratados em caráter reservado ou secreto e o que ocorrer nas sessões, manisfestando minhas opiniões sem reservas, com inteira lealdade, sempre que estiverem em causa os interêsses da Segurança Nacional”.
 
@@ -118,6 +116,6 @@ Parágrafo único. De cada compromisso que poderá ser prestado, isoladamente ou
 
 Rio de Janeiro, 13 novembro de 1946.
 
-<strong>GENERAL ALCIO SOUTO</strong>
+**GENERAL ALCIO SOUTO**
 
 Secretário Geral

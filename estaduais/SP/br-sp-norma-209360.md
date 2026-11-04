@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209360)<br>
-
 # LEI N° 17.919, DE 23 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 19/2024, do Deputado Mauro Bragato - PSDB)

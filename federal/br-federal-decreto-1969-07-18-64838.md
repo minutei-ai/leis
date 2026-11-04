@@ -1,5 +1,3 @@
-###DEC-064838-0-000-18-07-1969@@@
-
 DECRETO Nº 64.838 - DE 18 DE JULHO DE 1969.
 
 Declara caduco o Decreto número 19.600 de 12 de setembro de 1945.

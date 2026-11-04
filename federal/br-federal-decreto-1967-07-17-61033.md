@@ -1,5 +1,3 @@
-###DEC-061033-0-000-17-07-1967@@@
-
 DECRETO Nº 61.033, DE 17 DE JULHO DE 1967.
 
 Abre ao Ministério da Justiça em favor do Departamento de Polícia Federal o crédito suplementar de NCr$6.500.000,00 (seis milhões e quinhentos mil cruzeiros novos) para refôrço de dotações orçamentárias do vigente exercício (Lei número 5.189, de 8 de dezembro de 1966).

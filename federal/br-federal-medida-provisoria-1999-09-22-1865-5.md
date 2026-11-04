@@ -1,5 +1,3 @@
-###MPV-001865-0-005-22-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.865-5, DE 22 DE SETEMBRO DE 1999.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

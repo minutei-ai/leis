@@ -1,5 +1,3 @@
-###DEC-084781-0-000-11-06-1980@@@
-
 DECRETO Nº 84.781 DE 11 DE JUNHO DE 1980.
 
 Revoga o Decreto nº 76.687, de 27 de novembro de 1975, que aprova o Regulamento do Centro de Educação Física "Almirante Adalberto Nunes" (CEFAN).

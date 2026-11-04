@@ -1,5 +1,3 @@
-###DEC-053984-0-000-25-06-1964@@@
-
 Decreto nº 53.984, de 25 de junho de 1964.
 
 Revoga o Decreto nº 53.584, de 21 de fevereiro de 1964 que dispõe sôbre a uniformização e contrôle dos preços de venda de medicamentos.

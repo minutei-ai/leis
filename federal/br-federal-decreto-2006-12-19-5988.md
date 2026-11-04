@@ -1,5 +1,3 @@
-###DEC-005988-0-000-19-12-2006@@@
-
 DECRETO Nº 5.988 DE 19 DE DEZEMBRO DE 2006.
 
 Dispõe sobre o art. 31 da Lei no 11.196, de 21 de novembro de 2005, que instituiu depreciação acelerada incentivada e desconto da Contribuição para o PIS/PASEP e da COFINS, no prazo de doze meses, para aquisições de bens de capital efetuadas por pessoas jurídicas estabelecidas em microregiões menos favorecidas das áreas de atuação das extintas SUDENE e SUDAM.
@@ -35,5 +33,3 @@ Brasília, 19 de dezembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
        Guido Mantega
-
-Este texto não substitui o publicado no DOU de 20.12.2006

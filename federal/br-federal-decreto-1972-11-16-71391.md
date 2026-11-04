@@ -1,5 +1,3 @@
-###DEC-071391-0-000-16-11-1972@@@
-
 DECRETO Nº 71.391 - DE 16 DE NOVEMBRO DE 1972.
 
 Regulamenta os artigos 58 e 59 do Decreto-lei nº 37, de 18 de novembro de 1966, que dispõem sobre normas especiais de controle aduaneiro de mercadorias abandonadas.

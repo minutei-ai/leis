@@ -1,5 +1,3 @@
-###DEC-050333-0-000-11-03-1961@@@
-
 DECRETO Nº 50.333, DE 11 DE MARÇO DE 1961.
 
 Institui, nos Gabinetes Militar e Civil, Sub-Gabinetes da Presidência da República e dá outras providências.

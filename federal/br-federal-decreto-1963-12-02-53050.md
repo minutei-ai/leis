@@ -1,5 +1,3 @@
-###DEC-053050-0-000-02-12-1963@@@
-
 DECRETO Nº 53.050, DE 2 DE DEZEMBRO DE 1963.
 
 Estende às autoridades que menciona atribuições para conceder ou cassar benefícios do Decreto nº 47.053, de 20 de outubro de 1959.

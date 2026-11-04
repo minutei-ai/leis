@@ -1,5 +1,3 @@
-###DEC-092297-0-000-15-01-1986@@@
-
 DECRETO Nº 92.297, DE 15 DE JANEIRO DE 1986
 
 Prorroga o prazo concedido à Comissão Especial para promover análise do Cooperativismo no Brasil e inclui, na sua composição, representante da Organização das Cooperativas do Brasil - OCB.

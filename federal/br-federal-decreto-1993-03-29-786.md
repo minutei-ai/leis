@@ -1,7 +1,3 @@
-1
-
-###DEC-000786-0-000-29-03-1993@@@
-
 DECRETO N° 786, DE 29 DE MARÇO DE 1993
 
 Revoga a Seção X do Capítulo VI do Decreto n° 724, de 1° de janeiro de 1993.

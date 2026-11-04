@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209816)<br>
-
 # DECRETO N° 68.750, DE 08 DE AGOSTO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Limeira, o imóvel que especifica._

@@ -1,5 +1,3 @@
-###DEL-000387-0-000-26-12-1968@@@
-
 DECRETO-LEI Nº 387, DE 26 DE DEZEMBRO DE 1968
 
 Concede isenção dos impostos de importação e sôbre produtos industrializados aos bens que especifica, importados pela Igreja Presbiteriana de São José dos Campos (SP).

@@ -18,31 +18,42 @@ VINÍCIUS FONSÊCA CAMPOS
 
 Procurador-Geral
 
-**ANEXO ÚNICO<br>
+**ANEXO ÚNICO
+
 (Alteração do cargo de Orientador Esportivo contido no Anexo II da Lei nº 3.853/1999 – Especificações de requisitos)**
 
-**Cargo:** Orientador Esportivo<br>
+**Cargo:** Orientador Esportivo
+
 **Categoria:** Operacional
 
-**Descrição da Função: <br>
+**Descrição da Função: 
+
 Sumário:**
 
 Promover a prática de atividades e exercícios físicos em geral, atendendo cidadãos de diferentes faixas etárias, orientando-os de acordo com os princípios, as regras e as técnicas das atividades esportivas, para possibilitar-lhes o desenvolvimento harmônico do corpo e a manutenção de boas condições de saúde. Prestar serviço junto aos órgãos da Administração direta, especialmente a Secretaria de Esportes.
 
 **Tarefas:** 
 
-• Prestar serviços no campo dos exercícios físicos com objetivos instrutivos, de saúde e de desempenho esportivo;<br>
-• Desenvolver, com crianças, jovens e adultos, atividades físicas; <br>
-• Expor técnicas esportivas, realizar treinamentos especializados com atletas de diferentes esportes;<br>
-• Esclarecer acerca dos princípios e regras inerentes a cada modalidade;<br>
-• Organizar, participar e acompanhar as Competições Esportivas, tais como: Campeonatos Municipais, Distritos, Jogos Abertos, Jogos de Federações, e outros correlatos;<br>
-• Elaborar o plano semanal de atividades esportivas, acompanhar a execução prática, obedecendo aos critérios éticos, morais e os parâmetros convencionais do Esporte;<br>
+• Prestar serviços no campo dos exercícios físicos com objetivos instrutivos, de saúde e de desempenho esportivo;
+
+• Desenvolver, com crianças, jovens e adultos, atividades físicas; 
+
+• Expor técnicas esportivas, realizar treinamentos especializados com atletas de diferentes esportes;
+
+• Esclarecer acerca dos princípios e regras inerentes a cada modalidade;
+
+• Organizar, participar e acompanhar as Competições Esportivas, tais como: Campeonatos Municipais, Distritos, Jogos Abertos, Jogos de Federações, e outros correlatos;
+
+• Elaborar o plano semanal de atividades esportivas, acompanhar a execução prática, obedecendo aos critérios éticos, morais e os parâmetros convencionais do Esporte;
+
 • Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
 
 **Requisitos:** 
 
-• Diploma devidamente registrado de conclusão de curso de graduação em Educação Física, fornecido por instituição credenciada pelo MEC, ou Registro profissional no Conselho Regional de Educação Física – CREF ou, alternativamente, no caso da modalidade Futebol de Campo, comprovação de que tenha sido treinador ou jogador profissional por, no mínimo, 05 (cinco) anos, fornecida por Federação de Futebol ou pela Confederação Brasileira de Futebol;<br>
-• Experiência mínima de 01 (um) ano nas funções do cargo;<br>
+• Diploma devidamente registrado de conclusão de curso de graduação em Educação Física, fornecido por instituição credenciada pelo MEC, ou Registro profissional no Conselho Regional de Educação Física – CREF ou, alternativamente, no caso da modalidade Futebol de Campo, comprovação de que tenha sido treinador ou jogador profissional por, no mínimo, 05 (cinco) anos, fornecida por Federação de Futebol ou pela Confederação Brasileira de Futebol;
+
+• Experiência mínima de 01 (um) ano nas funções do cargo;
+
 • No edital poderá ser exigida a habilitação em algumas modalidades, tais como: A) Futebol; B) Basquetebol; C) Voleibol; D) Handebol; E) Futsal; F) Natação; G) Hidroginástica; H) Academia; I) Ginástica; J) Lutas Marciais.
 
 **Carga horária:**  200 horas mensais. 

@@ -1,5 +1,3 @@
-###DEC-060185-0-000-08-02-1967@@@
-
 DECRETO Nº 60.185, DE 8 DE FEVEREIRO DE 1967.
 
 Aprova o Regimento do Serviço de Documentação do Ministério das Minas e Energia e dá outras providências.

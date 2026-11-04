@@ -1,5 +1,3 @@
-###DEC-073192-0-000-23-11-1973@@@
-
 DECRETO Nº 73.192 - DE 23 DE NOVEMBRO DE 1973
 
 Concede a Minérios Metalúrgicos do Nordeste S.A. o direito de lavrar minério de manganês no Município de Sento Sé, Estado da Bahia.

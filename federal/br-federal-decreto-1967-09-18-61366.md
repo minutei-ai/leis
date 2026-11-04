@@ -1,5 +1,3 @@
-###DEC-061366-0-000-18-09-1967@@@
-
 DECRETO Nº 61.366, DE 18 DE SETEMBRO DE 1967.
 
 Suprime os arts. 55 e 56 dos Estatutos da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS e altera o título do Capítulo XIII dos mesmos Estatutos.

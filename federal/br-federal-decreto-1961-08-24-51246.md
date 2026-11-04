@@ -1,5 +1,3 @@
-###DEC-051246-0-000-24-08-1961@@@
-
 decreto nº 51.246, de 24 de agôsto de 1961.
 
 Autoriza Joaquim Simões de Oliveira a construir um ramal particular de linha de transmissão entre a sede da Fazenda Santa Tereza e a da Fazenda Bela Vista, situadas respectivamente, nos municípios de Brotas e de Itirapina, no Estado de São Paulo, e dá outras providências.

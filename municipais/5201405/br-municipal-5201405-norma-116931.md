@@ -26,11 +26,14 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 0
 
  
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-CILENE ALVES BATISTA<br>
+CILENE ALVES BATISTA
+
 Secretária Municipal de Regulação Urbana e Rural

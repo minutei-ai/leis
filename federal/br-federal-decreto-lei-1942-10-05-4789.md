@@ -1,5 +1,3 @@
-###DEL-004789-0-000-05-10-1942@@@
-
 DECRETO-LEI N. 4.789 – DE 5 DE OUTUBRO DE 1942
 
 Autoriza a emissão de Obrigações de Guerra e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-006306-0-000-02-03-1944@@@
-
 DECRETO-LEI N. 6.306 – DE 2 DE MARÇO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito extraordinário de Cruzeiros 2.280.000,00 para aquisição de derivados sufanilamídicos

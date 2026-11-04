@@ -1,5 +1,3 @@
-###DEC-049222-0-000-16-11-1960@@@
-
 decreto nº 49.222, de 16 de novembro de 1960.
 
 Autoriza a Companhia Fôrça e Luz Nordeste do Brasil a ampliar suas instalações no Estado do Rio de Grande do Norte.

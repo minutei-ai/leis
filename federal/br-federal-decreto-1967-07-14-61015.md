@@ -1,5 +1,3 @@
-###DEC-061015-0-000-14-07-1967@@@
-
 DECRETO nº 61.015, DE 14 DE JULHO DE 1967.
 
 Transfere para o Ministério da Educação e Cultura órgãos vinculados ao Serviço de Alimentação da Previdência Social.

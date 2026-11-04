@@ -1,5 +1,3 @@
-###DEC-077689-0-000-26-05-1976@@@
-
 DECRETO Nº 77.689, DE 26 DE MAIO DE 1976
 
 Concede o reconhecimento ao curso de Artes Práticas da Escola Superior de Artes Santa Marcelina, com sede na Cidade de Botucatu, Estado de São Paulo.

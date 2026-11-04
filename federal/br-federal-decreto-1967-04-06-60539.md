@@ -1,5 +1,3 @@
-###DEC-060539-0-000-06-04-1967@@@
-
 Decreto nº 60.539, de 6 de abril de 1967.
 
 Revoga o Decreto nº 56.465, de 15 de junho de 1965, transfere encargos ao Ministério dos Transportes e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004636-0-000-31-08-1942@@@
-
 DECRETO-LEI N. 4.636 – DE 31 DE AGOSTO DE 1942
 
 Cassa a autorização de funcionamento às companhias de seguros alemãs e italianas, e dá outras providências

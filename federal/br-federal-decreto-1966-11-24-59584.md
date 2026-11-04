@@ -1,5 +1,3 @@
-###DEC-059584-0-000-24-11-1966@@@
-
 DECRETO nº 59.584, DE 24 DE NOVEMBRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Ceará de Seguros Gerais, relativa ao aumento do capital social.

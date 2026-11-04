@@ -1,5 +1,3 @@
-###DEC-057889-0-000-28-02-1966@@@
-
 DECRETO Nº 57.889, de 28 de fevereiro de 1966.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar cianita no município de São Sebastião do Maranhão, Estado de Minas Gerais.

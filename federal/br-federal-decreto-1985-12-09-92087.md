@@ -1,5 +1,3 @@
-###DEC-092087-0-000-09-12-1985@@@
-
 Decreto nº 92.087, de 09 de dezembro de 1985
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO CLUBE DE FRONTEIRA LTDA., para a SIR-SISTEMA INDEPENDÊNCIA DE RÁDIO E COMUNICAÇÕES LTDA.

@@ -1,5 +1,3 @@
-###DEC-049553-A-000-17-12-1960@@@
-
 DECRETO Nº 49.553-A, DE 17 DE DEZEMBRO DE 1960.
 
 Transfere, com o respectivo ocupante, uma função da Tabela Única de Extranumerário Mensalista da Delegacia de Serviço do Patrimônio no Estado da Guanabara, para a Alfândega do Rio de Janeiro.
@@ -19,8 +17,6 @@ Brasília, em 17 de dezembro de 1960; 139º da Independência e 72º da Repúbli
 Juscelino KubItschek
 
 S. Paes de Almeida
-
-###DEC-049553-0-000-17-12-1960@@@RET01+++
 
 DECRETO Nº 49.553-A, DE 17 DE DEZEMBRO DE 1960.
 

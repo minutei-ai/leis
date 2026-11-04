@@ -1,5 +1,3 @@
-###DEC-068750-0-000-15-06-1971@@@
-
 DECRETO Nº 68.750 - DE 15 DE JUNHO DE 1971.
 
 Declara de intêresse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, áreas de terreno necessária à reformulação do Projeto de irrigação "São Gonçalo", no município de Souza, Estado da Paraíba.

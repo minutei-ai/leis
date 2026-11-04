@@ -1,5 +1,3 @@
-###DEC-048982-0-000-01-10-1960@@@
-
 DECRETO Nº 48.982, DE 1º DE OUTUBRO DE 1960.
 
 Altera o Regulamento da Escola de Aeronáutica.

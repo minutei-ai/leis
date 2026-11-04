@@ -1,5 +1,3 @@
-###DEC-006695-0-000-15-12-2008@@@
-
 DECRETO Nº 6.695, DE 15 DE DEZEMBRO DE 2008.
 
 Dá nova redação ao art.152-A do Decreto no 6.514, de 22 de julho de 2008, que dispõe sobre as infrações e sanções administrativas ao meio ambiente, estabelece o processo administrativo federal para apuração destas infrações.

@@ -1,5 +1,3 @@
-###DEL-005180-0-000-11-01-1943@@@
-
 DECRETO‑LEI N. 5.180 – DE 11 DE JANEIRO DE 1943
 
 Suspende, no mês de janeiro deste ano, a cobrança da multa de mora a que se refere o § 3º do art. 5º do decreto‑lei n. 4.789, de 5 de outubro da 1942

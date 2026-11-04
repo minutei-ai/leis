@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/8336)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1999/compilacao-lei-10386-22.10.1999.html)
 
 # LEI N° 10.386, DE 22 DE OUTUBRO DE 1999

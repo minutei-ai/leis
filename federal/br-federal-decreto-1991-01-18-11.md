@@ -1,7 +1,3 @@
-1
-
-###DEC-000011-0-000-18-01-1991@@@
-
 DECRETO N° 11, DE 18 DE JANEIRO DE 1991
 
 Aprova a Estrutura Regimental do Ministério da Justiça e dá outras providências.

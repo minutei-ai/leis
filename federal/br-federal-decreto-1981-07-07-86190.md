@@ -1,5 +1,3 @@
-###DEC-086190-0-000-07-07-1981@@@
-
 Decreto nº 86.190, de 07 de julho de 1981.
 
 Acrescenta parágrafos ao artigo 2º do Decreto nº 85.795, de 9 de março de 1981, que institui no Gabinete Civil da Presidência da República a Secretaria de Imprensa e Divulgação.

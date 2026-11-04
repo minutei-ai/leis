@@ -1,7 +1,3 @@
-1
-
-###DEC-000226-0-000-10-10-1991@@@
-
 DECRETO N° 226, DE 10 DE OUTUBRO DE 1991
 
 Dispõe sobre a redução do período de duração do Serviço Militar Inicial.

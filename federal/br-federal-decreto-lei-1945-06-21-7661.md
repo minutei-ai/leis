@@ -1,7 +1,3 @@
-1
-
-###DEL-007661-0-000-21-06-1945@@@
-
 # DECRETO-LEI Nº 7.661 DE 21 DE JUNHO DE 1945
 
 Lei de Falências

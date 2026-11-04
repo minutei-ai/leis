@@ -1,5 +1,3 @@
-###DEC-004499-0-000-04-12-2002@@@
-
 DECRETO Nº 4.499, DE 4 DE DEZEMBRO DE 2002
 
 Altera o art. 3º do Decreto nº 2.536, de 6 de abril de 1998.

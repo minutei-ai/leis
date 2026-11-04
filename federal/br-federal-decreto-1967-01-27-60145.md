@@ -1,5 +1,3 @@
-###DEC-060145-0-000-27-01-1967@@@
-
 DECRETO Nº 60.145, DE 27 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro João de Augustinis a pesquisar argila no município de Ijaci, Estado de Minas Gerais.

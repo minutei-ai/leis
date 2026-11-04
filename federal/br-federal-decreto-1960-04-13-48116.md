@@ -1,5 +1,3 @@
-###DEC-048116-0-000-13-04-1960@@@
-
 DECRETO N. 48.116 – DE 13 DE ABRIL DE 1960
 
 Altera o Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

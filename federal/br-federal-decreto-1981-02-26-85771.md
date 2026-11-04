@@ -1,5 +1,3 @@
-###DEC-085771-0-000-26-02-1981@@@
-
 Decreto nº 85.771, de 26 de fevereiro de 1981
 
 Autoriza o funcionamento do curso de Tecnólogo em Técnicas Digitais da Faculdade de Tecnologia Senador Fláquer, em Santo André, Estado de São Paulo.

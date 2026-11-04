@@ -1,5 +1,3 @@
-###DEC-058071-0-000-24-03-1966@@@
-
 DECRETO Nº 58.071, DE 24 DE MARÇO DE 1966.
 
 Dá nova redação à letra d, do art. 71, do Regulamento para a Escola de Comando Estado-Maior do Exército, aprovado pelo Decreto nº 36.955, de 25 de fevereiro de 1955.
@@ -31,8 +29,6 @@ Brasília, 24 de março de 1966; 145º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Arthur da Costa e Silva
-
-###DEC-058071-0-000-24-03-1966@@@RET01+++
 
 DECRETO Nº 58.071, 24 DE MARÇO DE 1966.
 

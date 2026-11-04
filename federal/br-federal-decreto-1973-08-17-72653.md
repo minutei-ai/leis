@@ -1,5 +1,3 @@
-###DEC-072653-0-000-17-08-1973@@@
-
 DECRETO Nº 72.653, DE 17 DE AGOSTO DE 1973.
 
 Concede à Mineração Matheus Leme Ltda. o direito de lavrar argila no Município de São Simão, Estado de São Paulo.

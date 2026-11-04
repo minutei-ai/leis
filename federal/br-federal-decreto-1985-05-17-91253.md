@@ -1,5 +1,3 @@
-###DEC-091253-0-000-17-05-1985@@@
-
 DECRETO Nº 91.253, DE 17 DE MAIO DE 1985
 
 Altera disposições referentes à Progressão funcional na Carreira de Diplomata..

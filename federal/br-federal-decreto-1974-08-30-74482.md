@@ -1,5 +1,3 @@
-###DEC-074482-0-000-30-08-1974@@@
-
 DECRETO Nº 74.482, DE 30 DE AGOSTO DE 1974.
 
 Cria Comissão Interministerial que específica e dá outras providências.

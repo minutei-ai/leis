@@ -2,7 +2,8 @@ LEI Nº 1.589 DE 22 DE DEZEMBRO DE 1961
 
 Cria o Município de Milagres, desmembrado do de Amargosa.
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.919](https://www.legislabahia.ba.gov.br/documentos/lei-no-12919-de-19-de-novembro-de-2013#LO%2012.919) de 19 de novembro de 2013 - Atualiza os limites dos municípios que integram o Território de Identidade Vale do Jiquiriçá, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Amargosa, Brejões, Cravolândia, Elísio Medrado, Irajuba, Itiruçu, Jaguaquara, Jiquiriçá, Lafayette Coutinho, Lajedo do Tabocal, Laje, Maracás, Milagres, Mutuípe, Nova Itarana, Planaltino, Santa Inês, São Miguel das Matas e Ubaíra. 
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e sanciono a seguinte Lei:
@@ -69,4 +70,4 @@ LEIA-SE:
 
 Com o Município de Iaçu:
 
-* * *
+ *

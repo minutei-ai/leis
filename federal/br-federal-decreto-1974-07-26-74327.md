@@ -1,5 +1,3 @@
-###DEC-074327-0-000-26-07-1974@@@
-
 DECRETO Nº 74.327 - DE 26 DE JULHO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, sem benfeitorias, situado no 3º Distrito do Município de Duque de Caixas, Estado do Rio de Janeiro, destinada à instalação de uma estação telefônica automática pela Companhia Telefônica Brasileira - CTB.

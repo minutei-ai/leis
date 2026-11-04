@@ -1,5 +1,3 @@
-###DEL-003182-0-000-09-04-1941@@@
-
 DECRETO-LEI N. 3.182 – DE 9 DE ABRIL DE 1941
 
 Estabelece o prazo para a transformação dos bancos de depósitos e dispõe sobre a propriedade, transferências, penhor ou caução das ações ou quotas de capital desses bancos.

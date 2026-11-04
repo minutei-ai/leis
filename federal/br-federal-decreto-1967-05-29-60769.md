@@ -1,5 +1,3 @@
-###DEC-060769-0-000-29-05-1967@@@
-
 DECRETO Nº 60.769, DE 29 DE MAIO DE 1967.
 
 Acrescenta dispositivos ao Decreto número 54.308, de 25 de setembro de 1954, que especifica as funções permanentes no esterior, para os efeitos da Lei número 4.328, de 30 de abril de 1964 (Código de Vencimentos dos Militares).

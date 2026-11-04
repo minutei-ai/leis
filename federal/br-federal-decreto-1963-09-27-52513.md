@@ -1,5 +1,3 @@
-###DEC-052513-0-000-27-09-1963@@@
-
 DECRETO Nº 52.513, DE 27 DE SETEMBRO DE 1963.
 
 Revoga o Decreto nº 24.665, de 13 de março de 1948.

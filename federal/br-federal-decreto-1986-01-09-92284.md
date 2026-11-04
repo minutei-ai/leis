@@ -1,5 +1,3 @@
-###DEC-092284-0-000-09-01-1986@@@
-
 DECRETO Nº 92.284, DE 09 DE JANEIRO DE 1986
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Valformoso", compreendido na referida área, no Município de Sete Barras, no Estado de São Paulo, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073818-0-000-12-03-1974@@@
-
 DECRETO N° 73.818, DE 12 DE MARÇO DE 1974.
 
 Concede reconhecimento aos cursos de Matemática, de Ciências e de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras, mantida pela Fundação Universidade de Rio Grande, com sede na cidade de Rio Grande, Estado do Rio Grande do Sul.

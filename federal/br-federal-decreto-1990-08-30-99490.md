@@ -1,7 +1,3 @@
-1
-
-###DEC-099490-0-000-30-08-1990@@@
-
 DECRETO Nº 99.490, DE 30 DE AGOSTO DE 1990
 
 Dispõe sobre o concurso vestibular para admissão aos cursos de graduação das instituições de ensino superior e dá outras providências.

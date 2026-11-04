@@ -6,17 +6,18 @@ Altera a redação do art. 3º da Lei nº 4.457, de 18 de dezembro de 2013, que 
 
 Publicada no Diário Oficial nº 11.015, de 16 de dezembro de 2022, página 6.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º O art. 3º da [Lei n<del>º</del> 4.457, de 18 de dezembro de 2013](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/0709fe8a9b65dbd304257c46004c6ed0?OpenDocument), passa a vigorar com a seguinte alteração:<br>
-<br>
-<i>“Art. 3º Esta Lei vigorará até a execução completa das obras pactuadas até 31 de dezembro de 2024, firmadas em conformidade com as disposições desta norma legislativa.” (NR)</i><br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação<i>.</i><br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º O art. 3º da [Lei n~~º~~ 4.457, de 18 de dezembro de 2013](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/0709fe8a9b65dbd304257c46004c6ed0?OpenDocument), passa a vigorar com a seguinte alteração:
+
+*“Art. 3º Esta Lei vigorará até a execução completa das obras pactuadas até 31 de dezembro de 2024, firmadas em conformidade com as disposições desta norma legislativa.” (NR)*
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação*.*
+
 Campo Grande, 15 de dezembro de 2022.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

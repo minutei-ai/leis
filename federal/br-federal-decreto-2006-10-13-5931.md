@@ -1,5 +1,3 @@
-###DEC-005931-0-000-13-10-2006@@@
-
 DECRETO Nº 5.931, DE 13 DE OUTUBRO DE 2006.
 
 Promulga o Tratado sobre Transferência de Presos entre o Governo da República Federativa do Brasil e o Governo da República do Peru, celebrado em Lima, em 25 de agosto de 2003.
@@ -24,11 +22,7 @@ Brasília,  13 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 16.10.2006
-
-TRATADO SOBRE TRANSFERÊNCIA DE PRESOS ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO PERU
+       Celso Luiz Nunes AmorimTRATADO SOBRE TRANSFERÊNCIA DE PRESOS ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO PERU
 
 O Governo da República Federativa do Brasil
 

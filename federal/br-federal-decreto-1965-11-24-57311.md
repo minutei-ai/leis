@@ -1,5 +1,3 @@
-###DEC-057311-0-000-24-11-1965@@@
-
 DECRETO Nº 57.311, DE 24 DE NOVEMBRO DE 1965.
 
 Declara de utilidade pública para fins de desapropriação em favor da Petróleo Brasileiro S.A. - Petrobrás uma área de terreno situada no Município de Candeias, Estado da Bahia.

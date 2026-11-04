@@ -1,5 +1,3 @@
-###DEC-083247-0-000-07-03-1979@@@
-
 Decreto nº 83.247, de 07 de março de 1979
 
 Concede à PURUNÃ - Mineração, Indústria e Comércio Ltda. o direito de lavrar dolomito no Município de Balsa Nova, Estado do Paraná.

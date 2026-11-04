@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/61915)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2006/compilacao-lei-12302-29.03.2006.html)
 
 # LEI N° 12.302, DE 29 DE MARÇO DE 2006

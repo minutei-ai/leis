@@ -1,5 +1,3 @@
-###MPV-000366-0-000-26-04-2007@@@
-
 MEDIDA PROVISÓRIA Nº 366, DE 26 DE ABRIL DE 2007.
 
 Dispõe sobre a criação do Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes, e dá outras providências.
@@ -145,5 +143,3 @@ JOSÉ DE ALENCAR GOMES DA SILVA
 Paulo Bernardo Silva
 
 Marina Silva
-
-Este texto não substitui o publicado no DOU de 27.4.2007.

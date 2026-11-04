@@ -1,5 +1,3 @@
-###DEC-080542-0-000-11-10-1977@@@
-
 DECRETO Nº 80.542, DE 11 DE OUTUBRO DE 1977.
 
 Autoriza a transformação do curso de Matemática em curso de Ciências, da Faculdade de Filosofia Santa Dorotéia, com sede na cidade de Nova Friburgo, Estado do Rio de Janeiro.

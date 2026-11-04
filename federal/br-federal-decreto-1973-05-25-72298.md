@@ -1,5 +1,3 @@
-###DEC-072298-0-000-25-05-1973@@@
-
 DECRETO Nº 72.298, DE 25 DE MAIO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Administração e Ciências Contábeis "Campos Salles", mantida pela Associação Educativa Campos Salles, São Paulo, Estado de São Paulo.

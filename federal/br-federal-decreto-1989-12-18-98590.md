@@ -1,7 +1,3 @@
-1
-
-###DEC-098590-0-000-18-12-1989@@@
-
 DECRETO Nº 98.590, DE 18 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Espírito Santo Centrais Elétricas S.A. - ESCELSA, no Estado do Espírito Santo.

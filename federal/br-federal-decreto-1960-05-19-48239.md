@@ -1,5 +1,3 @@
-###DEC-048239-0-000-19-05-1960@@@
-
 DECRETO Nº 48.239, DE 19 DE MAIO DE 1960.
 
 Altera a composição da comissão a que se refere o Decreto nº 47.964, de 30 de março de 1960.

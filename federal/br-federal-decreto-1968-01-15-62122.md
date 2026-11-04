@@ -1,5 +1,3 @@
-###DEC-062122-0-000-15-01-1968@@@
-
 DECRETO Nº 62.122, DE 15 DE JANEIRO DE 1968.
 
 Estabelece normas para o abate do gado bovino no ano de 1968 e determina outras providências.

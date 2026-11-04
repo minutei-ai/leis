@@ -1,5 +1,3 @@
-###MPV-000055-0-000-12-07-2002@@@
-
 MEDIDA PROVISÓRIA Nº 55, DE 12 DE JULHO DE 2002
 
 Autoriza condições especiais para o crédito de valores iguais ou inferiores a R$ 100,00, de que trata a Lei Complementar nº 110, de 29 de junho de 2001, e dá outras providências.

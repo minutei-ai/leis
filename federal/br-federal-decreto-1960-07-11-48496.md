@@ -1,5 +1,3 @@
-###DEC-048496-0-000-11-07-1960@@@
-
 decreto nº 48.496, de 11 de julho de 1960.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura, que menciona.

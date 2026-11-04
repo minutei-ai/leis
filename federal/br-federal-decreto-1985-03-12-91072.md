@@ -1,5 +1,3 @@
-###DEC-091072-0-000-12-03-1985@@@
-
 DECRETO Nº 91.072, DE 12 de Março de 1985
 
 Altera dispositivo do Decreto nº 80.228, de 25 de agosto de 1977, que regulamenta a Lei nº 6251, de 08 de outubro de 1975, que instituiu normas gerais sobre desportos.

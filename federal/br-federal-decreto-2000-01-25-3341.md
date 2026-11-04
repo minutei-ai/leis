@@ -1,5 +1,3 @@
-###DEC-003341-0-000-25-01-2000@@@
-
 DECRETO Nº 3.341, DE 25 DE JANEIRO DE 2000.
 
 Prorroga o prazo de remanejamento estabelecidos nos Decretos que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083974-0-000-13-09-1979@@@
-
 Decreto nº 83.974, de 13 de setembro de 1979.
 
 Dispõe sobre o resgate dos títulos da dívida pública federal ao portador, nos casos de destruição, perda ou extravio.

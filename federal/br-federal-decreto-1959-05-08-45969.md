@@ -1,5 +1,3 @@
-###DEC-045969-0-000-08-05-1959@@@
-
 DECRETO Nº 45.969, DE 08 DE maio DE 1959.
 
 Dispõe sôbre a lotação de servidor cedido à R.F.F.S.A..

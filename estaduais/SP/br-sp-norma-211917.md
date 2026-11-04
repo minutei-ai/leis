@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211917)<br>
-
 # DECRETO N° 70.139, DE 01 DE DEZEMBRO DE 2025
 
 ### _Transfere, da Secretaria de Gestão e Governo Digital para a Secretaria de Desenvolvimento Social, a administração do imóvel que especifica, localizado no Município de Campos do Jordão, e dá providências correlatas._

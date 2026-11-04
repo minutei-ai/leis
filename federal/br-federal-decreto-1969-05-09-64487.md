@@ -1,5 +1,3 @@
-###DEC-064487-0-000-09-05-1969@@@
-
 DECRETO Nº 64.487, DE 9 DE MAIO DE 1969.
 
 Abre a Presidência da República em favor do Serviço Nacional de Informações o crédito suplementar de NCr$ 1.200.000,00 para reforço de dotação consignadas no vigente Orçamento.
@@ -10,11 +8,123 @@ decreta:
 
 Art. 1º Fica aberto à Presidência da República em favor do Serviço Nacional de Informações, o crédito suplementar de NCr$ 1.200.000,00 (um milhão e duzentos mil cruzeiros novos) para reforço de dotação orçamentária consignada ao subanexo 5.01.00 a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NCr$</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.01.00</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Presidência da República</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.01.04</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Serviço Nacional de Informações</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07.09.03.1.007</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reequipamento do Serviço</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.0.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas de Capital ....................................................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.200.000,00</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Investimentos. ..............................................................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.200.000,00</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.3.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Equipamentos e Instalações ........................................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.200.000,00</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Total ...............................................................................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.200.000,00</span></p></td></tr></tbody></table>
+NCr$
+
+5.01.00
+
+- Presidência da República
+
+5.01.04
+
+- Serviço Nacional de Informações
+
+07.09.03.1.007
+
+- Reequipamento do Serviço
+
+4.0.0.0
+
+- Despesas de Capital ....................................................................
+
+1.200.000,00
+
+4.1.0.0
+
+- Investimentos. ..............................................................................
+
+1.200.000,00
+
+4.1.3.0
+
+- Equipamentos e Instalações ........................................................
+
+1.200.000,00
+
+Total ...............................................................................................
+
+1.200.000,00
 
 Art. 2º Os recursos necessários à execução dêste Decreto decorrerão de anulação parcial de dotação orçamentária consignada no vigente orçamento do Subanexo 5.01.00 a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NCr$</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.01.00</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Presidência da República Órgãos Subordinados</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.01.08</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento Administrativo do Pessoal Civil - DASP</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01.01.03.1.014</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Mecanização e Reequipamento do Departamento</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.0.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas de Capital</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Investimentos</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.2.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Serviço em Regime de Programação Especial ...........................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">500.000,00</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01.01.03.1.015</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Instalação do Centro de Aperfeiçoamento</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.0.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas de Capital</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Investimentos</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.3.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Equipamentos e Instalações ........................................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.4.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Material Permanente.....................................................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000,00</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01.01.03.2.010</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Funcionamento do Departamento</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.0.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Correntes</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas de Custeio</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.3.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Serviços de Terceiros ..................................................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.5.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas de Exercícios Anteriores .............................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">300.000,00</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Total ...............................................................................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.200.000,00</span></p></td></tr></tbody></table>
+NCr$
+
+5.01.00
+
+- Presidência da República Órgãos Subordinados
+
+5.01.08
+
+- Departamento Administrativo do Pessoal Civil - DASP
+
+01.01.03.1.014
+
+- Mecanização e Reequipamento do Departamento
+
+4.0.0.0
+
+- Despesas de Capital
+
+4.1.0.0
+
+- Investimentos
+
+4.1.2.0
+
+- Serviço em Regime de Programação Especial ...........................
+
+500.000,00
+
+01.01.03.1.015
+
+- Instalação do Centro de Aperfeiçoamento
+
+4.0.0.0
+
+- Despesas de Capital
+
+4.1.0.0
+
+- Investimentos
+
+4.1.3.0
+
+- Equipamentos e Instalações ........................................................
+
+100.000,00
+
+4.1.4.0
+
+- Material Permanente.....................................................................
+
+200.000,00
+
+01.01.03.2.010
+
+- Funcionamento do Departamento
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.1.0.0
+
+- Despesas de Custeio
+
+3.1.3.0
+
+- Serviços de Terceiros ..................................................................
+
+100.000,00
+
+3.1.5.0
+
+- Despesas de Exercícios Anteriores .............................................
+
+300.000,00
+
+Total ...............................................................................................
+
+1.200.000,00
 
 Art. 3º Êste Decreto entrará em vigor na data de sua publicação.
 

@@ -1,5 +1,3 @@
-###DEC-050756-0-000-09-06-1961@@@
-
 DECRETO Nº 50.756, DE 9 DE JUNHO DE 1961.
 
 Revoga os Decretos que concederam à Companhia Florestal e Marítima Selvamar autorização para funcionar como emprêsa de navegação de cabotagem.

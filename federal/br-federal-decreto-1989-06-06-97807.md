@@ -1,7 +1,3 @@
-1
-
-###DEC-097807-0-000-06-06-1989@@@
-
 DECRETO N° 97.807, DE 06 DE JUNHO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, terrenos adjacentes à Escola Paulista de Medicina, com sede no Estado de São Paulo.

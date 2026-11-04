@@ -1,5 +1,3 @@
-###DEC-055729-0-000-03-02-1965@@@
-
 decreto nº 55.729, de 3 de fevereiro de 1965.
 
 Dá nova redação a alínea “a” do art. 35, do Regulamento de Promoções dos Oficiais da Aeronáutica.

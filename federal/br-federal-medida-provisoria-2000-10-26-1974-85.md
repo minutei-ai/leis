@@ -1,5 +1,3 @@
-###MPV-001974-0-085-26-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.974-85, DE 26 de outubro DE 2000.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

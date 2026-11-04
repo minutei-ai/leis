@@ -1,5 +1,3 @@
-###DEC-065204-0-000-22-09-1969@@@
-
 Decreto nº 65.204 - de 22 de setembro de 1969.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que indica, na Cidade de Iraí, Estado do Rio Grande do Sul.

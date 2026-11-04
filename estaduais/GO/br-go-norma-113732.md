@@ -16,40 +16,381 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">14 122 4200 4243</td><td style=" width:85px;    ">27990142</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 4.690.236,78</td><td style=" width:85px;    ">R$ 400.127,40</td><td style=" width:85px;    ">R$ 5.090.364,18</td></tr></tbody></table>
+**2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">27130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 9.766.611,80</td><td style=" width:85px;    ">R$ 793.763,63</td><td style=" width:85px;    ">R$ 10.560.375,43</td></tr><tr><td style=" width:85px;    ">VALORIZAÇÃO E QUALIFICAÇÃO DO PROFISSIONAL DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2353</td><td style=" width:85px;    ">27130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.156.482,40</td><td style=" width:85px;    ">R$ 1.914.849,41</td><td style=" width:85px;    ">R$ 5.071.331,81</td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">27130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 5.247.351,32</td><td style=" width:85px;    ">R$ 6.663.157,79</td><td style=" width:85px;    ">R$ 11.910.509,11</td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 183 1051 3179</td><td style=" width:85px;    ">27130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.069.200,00</td><td style=" width:85px;    ">R$ 197.429,36</td><td style=" width:85px;    ">R$ 1.266.629,36</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3177</td><td style=" width:85px;    ">27130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.080.876,65</td><td style=" width:85px;    ">R$ 810.512,78</td><td style=" width:85px;    ">R$ 1.891.389,43</td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3178</td><td style=" width:85px;    ">27130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 11.756.594,14</td><td style=" width:85px;    ">R$ 751.350,37</td><td style=" width:85px;    ">R$ 12.507.944,51</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3177</td><td style=" width:85px;    ">27130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 5.853.584,27</td><td style=" width:85px;    ">R$ 1.914.273,08</td><td style=" width:85px;    ">R$ 7.767.857,35</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">27000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 470.675,00</td><td style=" width:85px;    ">R$ 236.169,79</td><td style=" width:85px;    ">R$ 706.844,79</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">SOLUÇÕES DE TI</td><td style=" width:85px;    ">04 122 1048 2588</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 14.058.131,99</td><td style=" width:85px;    ">R$ 900.000,00</td><td style=" width:85px;    ">R$ 14.958.131,99</td></tr><tr><td style=" width:85px;    ">SOLUÇÕES DE TI</td><td style=" width:85px;    ">04 122 1048 2588</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.761.289,23</td><td style=" width:85px;    ">R$ 700.000,00</td><td style=" width:85px;    ">R$ 3.461.289,23</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 1.600.000,00</td></tr><tr><td style=" width:340px;    ">27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 236.169,79</td></tr><tr><td style=" width:340px;    ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 13.045.336,42</td></tr><tr><td style=" width:340px;    ">27990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 400.127,40</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 15.281.633,61</td></tr></tbody></table>
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+14 122 4200 4243
+
+27990142
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 4.690.236,78
+
+R$ 400.127,40
+
+R$ 5.090.364,18
+
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+27130000
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 9.766.611,80
+
+R$ 793.763,63
+
+R$ 10.560.375,43
+
+VALORIZAÇÃO E QUALIFICAÇÃO DO PROFISSIONAL DE SEGURANÇA PÚBLICA
+
+06 181 1051 2353
+
+27130000
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.156.482,40
+
+R$ 1.914.849,41
+
+R$ 5.071.331,81
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+27130000
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 5.247.351,32
+
+R$ 6.663.157,79
+
+R$ 11.910.509,11
+
+ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA
+
+06 183 1051 3179
+
+27130000
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.069.200,00
+
+R$ 197.429,36
+
+R$ 1.266.629,36
+
+CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3177
+
+27130000
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.080.876,65
+
+R$ 810.512,78
+
+R$ 1.891.389,43
+
+ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3178
+
+27130000
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 11.756.594,14
+
+R$ 751.350,37
+
+R$ 12.507.944,51
+
+CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3177
+
+27130000
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 5.853.584,27
+
+R$ 1.914.273,08
+
+R$ 7.767.857,35
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+27000280
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 470.675,00
+
+R$ 236.169,79
+
+R$ 706.844,79
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+SOLUÇÕES DE TI
+
+04 122 1048 2588
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 14.058.131,99
+
+R$ 900.000,00
+
+R$ 14.958.131,99
+
+SOLUÇÕES DE TI
+
+04 122 1048 2588
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.761.289,23
+
+R$ 700.000,00
+
+R$ 3.461.289,23
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.600.000,00
+
+27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 236.169,79
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 13.045.336,42
+
+27990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS - EXERCÍCIOS ANTERIORES
+
+R$ 400.127,40
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 15.281.633,61
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA DE AMPLIAÇÃO DA EFICIÊNCIA E DA QUALIDADE DAS FINANÇAS, DO PLANEJ. E DO GASTO PÚBLICO</td><td style=" width:85px;    ">04 121 1048 2591</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 337.500,00</td><td style=" width:85px;    ">R$ 337.500,00</td><td style=" width:85px;    ">R$ 337.500,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 137.852.695,26</td><td style=" width:85px;    ">R$ 1.262.500,00</td><td style=" width:85px;    ">R$ 1.262.500,00</td></tr></tbody></table>
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso I</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 236.169,79</td></tr><tr><td style=" width:340px;    ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 13.045.336,42</td></tr><tr><td style=" width:340px;    ">27990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 400.127,40</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 13.681.633,61</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 1.600.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 1.600.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 1.600.000,00</td></tr><tr><td style=" width:340px;    ">27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 236.169,79</td></tr><tr><td style=" width:340px;    ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 13.045.336,42</td></tr><tr><td style=" width:340px;    ">27990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 400.127,40</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 15.281.633,61</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO DA INICIATIVA DE AMPLIAÇÃO DA EFICIÊNCIA E DA QUALIDADE DAS FINANÇAS, DO PLANEJ. E DO GASTO PÚBLICO
+
+04 121 1048 2591
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 337.500,00
+
+R$ 337.500,00
+
+R$ 337.500,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 137.852.695,26
+
+R$ 1.262.500,00
+
+R$ 1.262.500,00
+
+**TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §  1º  Inciso I**
+
+27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 236.169,79
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 13.045.336,42
+
+27990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS - EXERCÍCIOS ANTERIORES
+
+R$ 400.127,40
+
+**TOTAL**
+
+R$ 13.681.633,61
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.600.000,00
+
+**TOTAL**
+
+R$ 1.600.000,00
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.600.000,00
+
+27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 236.169,79
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 13.045.336,42
+
+27990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS - EXERCÍCIOS ANTERIORES
+
+R$ 400.127,40
+
+**TOTAL**
+
+R$ 15.281.633,61

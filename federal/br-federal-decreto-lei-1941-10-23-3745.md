@@ -1,5 +1,3 @@
-###DEL-003745-0-000-23-10-1941@@@
-
 DECRETO-LEI N. 3.745 – DE 23 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 3:000$0, para atender às despesas que especifica

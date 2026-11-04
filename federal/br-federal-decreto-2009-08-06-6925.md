@@ -1,5 +1,3 @@
-###DEC-006925-0-000-06-08-2009@@@
-
 DECRETO Nº 6.925, DE 6 DE AGOSTO DE 2009.
 
 Dispõe sobre a aplicação do art. 19 do Protocolo de Cartagena sobre Biossegurança da Convenção sobre Diversidade Biológica, promulgado pelo Decreto n~~º~~ 5.705, de 16 de fevereiro de 2006, e dá outras providências.

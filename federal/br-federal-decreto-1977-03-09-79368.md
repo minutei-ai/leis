@@ -1,5 +1,3 @@
-###DEC-079368-0-000-09-03-1977@@@
-
 DECRETO Nº 79.368, DE 9 DE MARÇO DE 1977.
 
 Dispõe sobre os recursos da União destinados à implementação, no presente exercício, do Programa Nacional de Alimentação e Nutrição, na parte relativa ao Ministério da Previdência e Assistência Social.

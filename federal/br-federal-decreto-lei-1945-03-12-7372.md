@@ -1,5 +1,3 @@
-###DEL-007372-0-000-12-03-1945@@@
-
 DECRETO-LEI N. 7.372 – DE 12 DE MARÇO DE 1945
 
 Altera as carreiras de Marinheiro e Patrão, do Quadro Suplementar do Ministério da Guerra, e dá outras providências

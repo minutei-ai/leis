@@ -1,5 +1,3 @@
-###DEC-065099-0-000-04-09-1969@@@
-
 DECRETO Nº 65.099, DE 4 DE SETEMBRO DE 1969.
 
 Abre, à Presidência da República, em favor do Conselho Nacional de Pesquisas, o crédito suplementar de NCr$ 4.169.670,00 ( quatro milhões, cento e sessenta e nove mil, seiscentos e setenta cruzeiros novos) para refôrço de dotação consignada no vigente Orçamento.
@@ -10,11 +8,63 @@ decretam:
 
 Art. 1º Fica aberto, à Presidência da República, em favor do Conselho Nacional de Pesquisas, o crédito suplementar de NCr$ 4.169.670,00 (quatro milhões, cento e sessenta e nove mil seiscentos e setenta cruzeiros novos) para refôrço de dotação orçamentaria consignada ao subanexo 5.01.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NCr$</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.01.00</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Presidência da República</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.01.11</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Presidência da República - (Órgão Vinculado)</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">- Conselho Nacional de Pesquisas</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08.02.03.2.023</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Concessão de Auxílios e Bôlsas Relacionadas à Pesquisa Cientifica</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Transferências Correntes</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.0.</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Diversas Transferências Correntes</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Diversos........................................................................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.169.670,00</span></p></td></tr></tbody></table>
+NCr$
+
+5.01.00
+
+- Presidência da República
+
+5.01.11
+
+- Presidência da República - (Órgão Vinculado)  - Conselho Nacional de Pesquisas
+
+08.02.03.2.023
+
+- Concessão de Auxílios e Bôlsas Relacionadas à Pesquisa Cientifica
+
+3.2.0.0
+
+- Transferências Correntes
+
+3.2.7.0.
+
+- Diversas Transferências Correntes
+
+3.2.7.2
+
+- Entidades Federais
+
+- Diversos........................................................................................
+
+4.169.670,00
 
 Art. 2º Os recursos necessários à execução dêste Decreto decorrerão de anulação parcial de dotação orçamentaria consignada no vigente Orçamento ao Subanexo 5.13.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.13.00</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Ministério do Planejamento e Coordenação Geral</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.13.02</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria-Geral</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08.02.15.1.003</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundo Nacional de Desenvolvimento Cientifico e Tecnológico</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.0.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas de Capital</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.0.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Transferências de Capital</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.6.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Auxílios para Inversões Financeiras.............................................</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.169.670,00</span></p></td></tr></tbody></table>
+5.13.00
+
+- Ministério do Planejamento e Coordenação Geral
+
+5.13.02
+
+- Secretaria-Geral
+
+08.02.15.1.003
+
+- Fundo Nacional de Desenvolvimento Cientifico e Tecnológico
+
+4.0.0.0
+
+- Despesas de Capital
+
+4.3.0.0
+
+- Transferências de Capital
+
+4.3.6.0
+
+- Auxílios para Inversões Financeiras.............................................
+
+4.169.670,00
 
 Art. 3º Êste Decreto entrará em vigor na data de sua publicação.
 

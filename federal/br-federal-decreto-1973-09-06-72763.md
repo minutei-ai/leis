@@ -1,5 +1,3 @@
-###DEC-072763-0-000-06-09-1973@@@
-
 DECRETO Nº 72.763, DE 6 DE SETEMBRO DE 1973.
 
 Concede a Antônio Sérgio Borges - Engenharia e Mineração o direito de lavrar diatomita, no Município de Jaguaruna, Estado de Santa Catarina.

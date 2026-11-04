@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.435, de 14 de Novembro de 2024.](https://legis.ac.gov
 
 > **LEI Nº 3.615, DE 16 DE MARÇO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria o Fundo Especial Registral de Realização Fundiária de Interesse Social – FERRFIS e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria o Fundo Especial Registral de Realização Fundiária de Interesse Social – FERRFIS e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -42,15 +46,11 @@ Modificada pela Lei nº [4.435, de 14 de Novembro de 2024.](https://legis.ac.gov
 
 **§ 4º** A destinação dos recursos do FERRFIS será feita com base em relatório circunstanciado, identificando as serventias beneficiadas, os atos praticados e os respectivos valores, com vistas a subsidiar as atividades de fiscalização e de prestação de contas da aplicação dos recursos do fundo.
 
-<br>
-
 **§ 5º** As aplicações dos recursos do FERRFIS serão destinadas a: (Incluído pela Lei nº 4.435, de 14/11/2024)
 
 **I -** compensação, total ou parcial, dos custos referentes aos atos registrais da Regularização Fundiária Urbana de Interesse Social - Reurb-S; (Incluído pela Lei nº 4.435, de 14/11/2024)
 
 **II -** custeamento de serviços técnicos ligados aos requisitos mínimos exigidos para o projeto de regularização fundiária descritos no art. 35, da Lei Federal nº 13.465 de 11 de julho de 2017. (Incluído pela Lei nº 4.435, de 14/11/2024)
-
-<br>
 
 **§ 6º** A liberação dos recursos previstos nos incisos I e II, do § 5º, deste artigo, deverá ser precedida de autorização do Conselho da Justiça Estadual - COJUS, após emissão de parecer do grupo coordenador do FERRFIS. (Incluído pela Lei nº 4.435, de 14/11/2024)
 

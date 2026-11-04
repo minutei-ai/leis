@@ -1,5 +1,3 @@
-###DEC-053561-0-000-18-02-1964@@@
-
 DECRETO Nº 53.561, de 18 de fevereiro de 1964.
 
 Institui a Comissão Executiva de Auxílio às vítimas das Enchentes na Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-076119-0-000-13-08-1975@@@
-
 DECRETO Nº 76.119 - DE 13 DE AGOSTO DE 1975
 
 Estabelece normas para a realização de prova de habilitação à livre-docência.

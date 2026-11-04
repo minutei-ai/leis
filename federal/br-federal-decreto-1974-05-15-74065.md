@@ -1,5 +1,3 @@
-###DEC-074065-0-000-15-05-1974@@@
-
 DECRETO nº 74.065, de 15 de maio de 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, dos terrenos que menciona, situados no Estado do Rio Grande do Sul.

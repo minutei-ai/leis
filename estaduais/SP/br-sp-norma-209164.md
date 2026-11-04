@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209164)<br>
-
 # DECRETO N° 68.370, DE 05 DE MARÇO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante comodato, por prazo determinado, parte do imóvel que especifica, e dá providências correlatas._

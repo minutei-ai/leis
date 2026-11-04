@@ -6595,7 +6595,3 @@ Art. 258 - Esta lei delegada entra em vigor na data de sua publicação.
 Palácio Tiradentes, em Belo Horizonte, 20 de janeiro de 2011; 223º da Inconfidência Mineira e 190º da Independência do Brasil.
 
 ANTONIO AUGUSTO JUNHO ANASTASIA
-
-\===================
-
-Data da última atualização: 29/7/2016.

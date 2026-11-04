@@ -1,5 +1,3 @@
-###DEC-072068-0-000-10-04-1973@@@
-
 Decreto nº 72.068, de 10 de abril de 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão no Estado do Espírito Santo.

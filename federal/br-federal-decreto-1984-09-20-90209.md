@@ -1,5 +1,3 @@
-###DEC-090209-0-000-20-09-1984@@@
-
 Decreto nº 90.209, de 20 de setembro de 1984
 
 Autoriza o funcionamento do curso de Biblioteconomia a ser ministrado pela Faculdade de Biblioteconomia de Botucatu.

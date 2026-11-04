@@ -1,7 +1,3 @@
-1
-
-###DEC-001229-0-000-24-08-1994@@@
-
 DECRETO Nº 1.229, DE 24 DE AGOSTO DE 1994
 
 Dispõe sobre alterações no Estatuto Social da RADIOBRÁS - Empresa Brasileira de Comunicação S.A.

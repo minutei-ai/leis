@@ -1,5 +1,3 @@
-###DEC-073591-0-000-07-02-1974@@@
-
 DECRETO nº 73.591, de 7 de Fevereiro de 1974.
 
 Autoriza o funcionamento da Faculdade de Direito da Sociedade de Ensino Superior de Nova Iguaçu - SESNI, com sede na cidade de Nova Iguaçu, Estado do Rio de Janeiro.

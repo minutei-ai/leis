@@ -1,24 +1,22 @@
-###DEC-026998-0-000-02-08-1949@@@
+**DECRETO Nº 26.998, DE 2 AGÔSTO DE 1949.**
 
-<strong>DECRETO Nº 26.998, DE 2 AGÔSTO DE 1949.</strong>
+***Outorga concessão ao Estado do Espírito Santo para estabelecer uma estação radiodifusora em Vitória.***
 
-<em><strong>Outorga concessão ao Estado do Espírito Santo para estabelecer uma estação radiodifusora em Vitória.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, atendendo ao que solicitou o Govêrno do Estado do Espírito Santo e tendo em vista o disposto no artigo 5º, número XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, atendendo ao que solicitou o Govêrno do Estado do Espírito Santo e tendo em vista o disposto no artigo 5º, número XII, da mesma Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica outorgada concessão ao Estado do Espírito Santo para estabelecer em Vitória, Capital dêste Estado, uma estação sob o nome de “Rádio Espírito Santo”, destinada a executar os serviços de radiofusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
-Parágrafo único. – O contrato decorrente dêste concessão deverá ser assinado dentro do prazo de 60 dias, a contar da data da publicação dêste decreto no <em>Diário Oficial</em>, sob pena de ser logo considerado nula a concessão.
+Parágrafo único. – O contrato decorrente dêste concessão deverá ser assinado dentro do prazo de 60 dias, a contar da data da publicação dêste decreto no *Diário Oficial*, sob pena de ser logo considerado nula a concessão.
 
 Rio de Janeiro, 2 de agôsto de 1949. 128 da Independência e 61º da República.
 
-<strong>EURICO G DUTRA</strong>
+**EURICO G DUTRA**
 
 Clóvis Pestana
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 26.998, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 26.998, DESTA DATA**
 
 I
 
@@ -66,7 +64,7 @@ V
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno Federal poderá, pelo órgão fiscalizador, impor ao concessionário multa de Cr$100,00 (cem cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros) conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente ao concessionário ou da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente ao concessionário ou da publicação do ato no *Diário Oficial*.
 
 VI
 
@@ -76,9 +74,9 @@ VII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo o tempo, fôr verifcada inobservância das disposições contidas nas alíneas <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, (<em>infine</em>), <em>e</em>, <em>h</em>, <em>i</em> e <em>j</em> da cláusula III;
+a) se, em todo o tempo, fôr verifcada inobservância das disposições contidas nas alíneas *a*, *b*, *c*, *d*, (*infine*), *e*, *h*, *i* e *j* da cláusula III;
 
-b) se não forem pagas, dentro dos prazos estabelecidos, a cota e contribuições a que se refere a alínea <em>d</em> da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula V;
+b) se não forem pagas, dentro dos prazos estabelecidos, a cota e contribuições a que se refere a alínea *d* da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula V;
 
 c) se em qualquer tempo, se verificar o emprêgo da estação para outros fins que não os determinados na concessão e adimitidos pela legislação que reger a matéria.
 
@@ -92,4 +90,4 @@ b) se o concessionário incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 2 de agôsto de 1949.
 
-<strong>CLOVIS PESTANA</strong>
+**CLOVIS PESTANA**

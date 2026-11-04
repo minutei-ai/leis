@@ -1,5 +1,3 @@
-###DEC-065212-0-000-23-09-1969@@@
-
 Decreto nº 65.212 - de 23 de setembro de 1969.
 
 Cria as reservas indígenas que discrimina, no Estado de Mato Grosso.

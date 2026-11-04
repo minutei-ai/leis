@@ -1,5 +1,3 @@
-###DEC-097386-0-000-22-12-1988@@@
-
 DECRETO Nº 97.386, DE 22 DE DEZEMBRO DE 1988
 
 Reajusta o valor do Salário Mínimo de Referência.

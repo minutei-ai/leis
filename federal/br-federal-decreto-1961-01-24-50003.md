@@ -1,5 +1,3 @@
-###DEC-050003-0-000-24-01-1961@@@
-
 DECRETO Nº 50.003, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Moacyr Motta a pesquisar cassiterita no município Federal de Rondônia.

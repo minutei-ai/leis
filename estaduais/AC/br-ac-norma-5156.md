@@ -1,6 +1,10 @@
 > **LEI Nº 3.930, DE 07 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Revoga a Lei Estadual nº 2.443, de 5 de agosto de 2011, que dispõe sobre a proibição do uso de celulares e aparelhos de transmissão no interior das agências bancárias.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Revoga a Lei Estadual nº 2.443, de 5 de agosto de 2011, que dispõe sobre a proibição do uso de celulares e aparelhos de transmissão no interior das agências bancárias.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

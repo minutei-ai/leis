@@ -1,5 +1,3 @@
-###DEC-055243-0-000-18-12-1964@@@
-
 DECRETO Nº 55.243, DE 18 DE DEZEMBRO DE 1964.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$1.500.000.000,00 para o fim que menciona.
@@ -21,8 +19,6 @@ Brasília, 18 de dezembro de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 José Chryssantho Seabra Fagundes
-
-###DEC-055243-0-000-18-12-1964@@@RET01+++
 
 DECRETO Nº 55.243, DE 18 DE DEZEMBRO DE 1964.
 

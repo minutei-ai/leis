@@ -1,7 +1,3 @@
-1
-
-###DEC-001635-0-000-14-09-1995@@@
-
 DECRETO Nº 1.635, DE 14 DE SETEMBRO DE 1995.
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

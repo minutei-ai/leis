@@ -1,5 +1,3 @@
-###DEC-005251-0-000-22-10-2004@@@
-
 DECRETO Nº 5.251, DE 22 DE OUTUBRO DE 2004
 
 Dispõe sobre a Artilharia Divisionária da 1 a Divisão de Exército, e dá outras providências.

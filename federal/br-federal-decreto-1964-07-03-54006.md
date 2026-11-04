@@ -1,5 +1,3 @@
-###DEC-054006-0-000-03-07-1964@@@
-
 DECRETO Nº 54.006, DE 3 DE JULHO DE 1964.
 
 Regulamenta o § 4º do artigo 7º da Lei nº 4.345, de 26 de junho de 1964.

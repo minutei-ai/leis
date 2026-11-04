@@ -1,5 +1,3 @@
-###MPV-000205-0-000-06-08-2004@@@
-
 MEDIDA PROVISÓRIA Nº 205, DE 6 DE AGOSTO 2004
 
 Dispõe sobre a concessão de subvenção para equalização de taxas de juros e outros encargos financeiros em operações de crédito para investimentos na Região Centro-Oeste, a serem contratadas até 30 de junho de 2005, acrescenta o art. 6º-A à Lei nº 10.177, de 12 de janeiro de 2001, e altera a redação do § 2º do art. 7º da Lei nº 9.126, de 10 de novembro de 1995.

@@ -1,5 +1,3 @@
-###MPV-000520-0-000-31-12-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 520, DE 31 DE DEZEMBRO DE 2010.
 
 Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Serviços Hospitalares S.A. - EBSERH e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-060698-0-000-08-05-1967@@@
-
 DECRETO Nº 60.698, DE 8 DE MAIO DE 1967.
 
 Dispõe sôbre a criação de Comissão de Equiparação de preço do trigo nacional ao do importado e dá outras providência.

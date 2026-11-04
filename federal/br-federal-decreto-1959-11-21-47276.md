@@ -1,5 +1,3 @@
-###DEC-047276-0-000-21-11-1959@@@
-
 DECRETO Nº 47.276, DE 21 DE Novembro DE 1959.
 
 Autoriza a liberação de credito contido no Plano de Economia.
@@ -10,7 +8,33 @@ decreta:
 
 Art. 1º. Fica autorizada a liberação no Plano de Economia para o corrente exercício financeiro, com o fundamento do inciso II do art. 3º do Decreto nº 45.363, de 29 de janeiro de 1959, da quantia de Cr$15.000.000,00 (quinze milhões de cruzeiros), para ser aplicado em obras consideradas de interêsse publico no Aeroporto de Joinville - Estado de Santa Catarina, com a classificação que se segue:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.12</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Ministério da Aeronáutica</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Verba 4.0.00</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Investimentos.</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Consignação 4.1.00</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Obras.</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Subconsignação:</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.1.03</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Prosseguimento e conclusão de obras.</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7)</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Diretamente em convênio com o DNER, ou outro órgão do Govêrno Federal ou colaboração com o Estado a ampliação e pavimentação de pista, pátios, construção de estação de passageiros e obras de acesso dos seguintes aeroportos:</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Joinville ..............................................................................</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>15.000.000,00</span></p></td></tr></tbody></table>
+4.12
+
+- Ministério da Aeronáutica
+
+Verba 4.0.00
+
+- Investimentos.
+
+Consignação 4.1.00
+
+- Obras.
+
+Subconsignação:
+
+4.1.03
+
+- Prosseguimento e conclusão de obras.
+
+7)
+
+Diretamente em convênio com o DNER, ou outro órgão do Govêrno Federal ou colaboração com o Estado a ampliação e pavimentação de pista, pátios, construção de estação de passageiros e obras de acesso dos seguintes aeroportos:
+
+Cr$
+
+Joinville ..............................................................................
+
+15.000.000,00
 
 Art. 2º. O Ministério da Fazenda promovera as providências necessárias à liberação do credito a que se refere o artigo anterior.
 

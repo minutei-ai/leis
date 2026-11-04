@@ -1,7 +1,3 @@
-1
-
-###DEC-000532-0-000-20-05-1992@@@
-
 DECRETO Nº 532, DE 20 DE MAIO DE 1992
 
 Cria a Reserva Extrativista da Mata Grande.

@@ -1,5 +1,3 @@
-###MPV-001888-0-025-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.888-25, DE 23 DE NOVEMBRO DE 1999.
 
 Dá nova relação ao art. 1º da Lei nº 9.530, de 10 de dezembro de 1997.

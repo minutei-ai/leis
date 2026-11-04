@@ -1,5 +1,3 @@
-###DEC-054831-0-000-03-11-1964@@@
-
 DECRETO Nº 54.831, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Ricardo Sampaio Corrêa a lavrar quartzito, no município de Mogi das Cruzes, Estado de São Paulo.

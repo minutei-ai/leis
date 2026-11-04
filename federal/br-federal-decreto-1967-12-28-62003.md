@@ -1,5 +1,3 @@
-###DEC-062003-0-000-28-12-1967@@@
-
 DECRETO Nº 62.003, DE 28 DE DEZEMBRO DE 1967.
 
 Transfere da Prefeitura Municipal de Astorga para a Companhia Paranaense de Energia Elétrica a concessão para distribuir energia elétrica no município de Lobato, Estado do Paraná.

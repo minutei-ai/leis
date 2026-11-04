@@ -1,5 +1,3 @@
-###DEC-059911-0-000-30-12-1966@@@
-
 DECRETO Nº 59.911, DE 30 DE DEZEMBRO DE 1966.
 
 Gabinete do Ministro Extraordinário para a Coordenação dos Organismos Regionais - Território Federal do Amapá. Abre o crédito suplementar de Cr$18.815.000, em refôrço a dotações orçamentárias do vigente exercício.
@@ -10,7 +8,51 @@ decreta:
 
 Art. 1º Fica aberto ao Gabinete do Ministro Extraordinário para a Coordenação dos Organismos Regionais o crédito suplementar de Cr$18.815.000 (dezoito milhões oitocentos e quinze mil cruzeiros), em refôrço às seguintes dotações orçamentárias do vigente exercício:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.01.02.05</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Administração do Território Federal do Amapá</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.0.0.0</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Despesas Correntes</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.0.0</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Despesas de Custeio</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.1.0</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pessoal</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.1.1</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pessoal Civil</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>02.02</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Diárias.............................................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5.000.000</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.3.0</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Inativos Civis</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>01.00</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pessoal Civil</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>01.02</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vant. incorp.....................................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>7.000.000</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>01.03</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Abono provisório e novas aposentadorias......................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>815.000</span></p></td></tr></tbody></table>
+4.01.02.05
+
+Administração do Território Federal do Amapá
+
+3.0.0.0
+
+Despesas Correntes
+
+3.1.0.0
+
+Despesas de Custeio
+
+3.1.1.0
+
+Pessoal
+
+3.1.1.1
+
+Pessoal Civil
+
+02.02
+
+Diárias.............................................................................................
+
+5.000.000
+
+3.2.3.0
+
+Inativos Civis
+
+01.00
+
+Pessoal Civil
+
+01.02
+
+Vant. incorp.....................................................................................
+
+7.000.000
+
+01.03
+
+Abono provisório e novas aposentadorias......................................
+
+815.000
 
 Art. 2º O crédito suplementar de que trata o artigo anterior, será automaticamente, registrado e distribuído ao Tesouro Nacional.
 

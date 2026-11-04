@@ -1,5 +1,3 @@
-###DEL-008882-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.882 – DE 24 DE JANEIRO DE 1946
 
 Cria cargo no Quadro Permanente do Ministério da Aeronáutica e dá outras providências.

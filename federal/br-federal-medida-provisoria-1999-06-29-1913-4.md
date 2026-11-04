@@ -1,5 +1,3 @@
-###MPV-001913-0-004-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.913-4, DE 29 DE JUNHO DE 1999.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071362-0-000-13-11-1972@@@
-
 DECRETO Nº 71.362 - DE 13 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento ao Curso de Psicologia da Faculdade de Filosofia do Recife - PE.

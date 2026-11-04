@@ -1,5 +1,3 @@
-###DEL-005883-0-000-06-10-1943@@@
-
 DECRETO‑LEI N. 5.883 – DE 6 DE OUTUBRO DE 1943
 
 Autoriza a concessão de isenção de tributos no Conselho Protetor do Aloisia num e dá outras providências

@@ -1,26 +1,24 @@
-###DEC-021590-0-000-07-08-1946@@@
+**DECRETO Nº 21.590, DE 7 DE AGÔSTO DE 1946.**
 
-<strong>DECRETO Nº 21.590, DE 7 DE AGÔSTO DE 1946.</strong>
+***Altera o Plano de Uniformes do Pessoal do Exército e das Polícias Militares e dá outras providências.***
 
-<em><strong>Altera o Plano de Uniformes do Pessoal do Exército e das Polícias Militares e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica alterado o Plano de Uniformes do Pessoal do Exército, aprovado pelo Decreto nº 10.205, de 10 de agôsto de 1942 e o das Polícias Militares, de acôrdo com as novas disposições assinadas pelo General de Divisão Pedro Aurélio de Góis Monteiro, Ministro de Estado da Guerra.
 
-<strong>Art</strong>. 1º Fica alterado o Plano de Uniformes do Pessoal do Exército, aprovado pelo Decreto nº 10.205, de 10 de agôsto de 1942 e o das Polícias Militares, de acôrdo com as novas disposições assinadas pelo General de Divisão Pedro Aurélio de Góis Monteiro, Ministro de Estado da Guerra.
-
-<strong>Art</strong>. 2º O Presente decreto entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+**Art**. 2º O Presente decreto entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
 
 Rio de Janeiro, 7 de agôsto de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 P. Góes Monteiro
 
 Carlos Coimbra da Luz
 
-<strong>ALTERAÇÕES NO PLANO DE UNIFORMES</strong>
+**ALTERAÇÕES NO PLANO DE UNIFORMES**
 
 I - Composições dos uniformes
 
@@ -254,7 +252,7 @@ O 1º) Nas solenidades oficias (recepção de gala; visita ou apresentação a C
 
 O 2º) Nas mesmas condições do 1º uniforme, no rigor do verão.
 
-O 3º) Em atos sociais, quando o traje civil, obrigatório fôr “<em>smooking</em>” ou “<em>rigor</em>” ou em cerimônias de casamento a que compareça como convidado.
+O 3º) Em atos sociais, quando o traje civil, obrigatório fôr “*smooking*” ou “*rigor*” ou em cerimônias de casamento a que compareça como convidado.
 
 O 4º) Nos atos sociais correntes e passeio; ou quando determinado.
 
@@ -656,8 +654,8 @@ c) os demais a partir de 1 de janeiro de 1947.
 
 18 - As disposições contidas no item X deverão ser tornadas obrigatórias a partir de 1 de julho de 1947.
 
-19 - É permitido o uso do 5º uniforme conforme o tipo <em>C</em>, do R.U.P.E. (Decreto nº 10.205, de 10-8-42), com ombreiras costuradas na maga e com cinto verde oliva do atual plano, até 1 de julho de 1948.
+19 - É permitido o uso do 5º uniforme conforme o tipo *C*, do R.U.P.E. (Decreto nº 10.205, de 10-8-42), com ombreiras costuradas na maga e com cinto verde oliva do atual plano, até 1 de julho de 1948.
 
 Rio de Janeiro, 7 de agôsto de 1946.
 
-<strong>P. GÓES MONTEIRO</strong>
+**P. GÓES MONTEIRO**

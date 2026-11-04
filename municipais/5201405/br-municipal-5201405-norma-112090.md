@@ -60,7 +60,8 @@ Art. 9º Esta Lei entrará em vigor na data de sua publicação, revogando-se as
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA/GO, aos 09 de janeiro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
 ANEXO I
@@ -73,12 +74,10 @@ Promover a interação com os contribuintes e a autuação dos infratores, visan
 
 Auxiliar diretamente o Secretário Municipal na análise, acompanhando a execução, controle e aperfeiçoamento de atividades de natureza fiscal e os respectivos planos, programas e atividades de apoio administrativo, técnico e operacional.
 
-<br>
 ANEXO II
 
 DOS REQUISITOS DA FUNÇÃO GRATIFICADA DE ANALISTA DE PROCEDIMENTOS FISCALIZATÓRIOS
 
-<br>
 1)    Obrigatoriamente:
 
 1.1.    Exercer cargo ou emprego público no município de Aparecida de Goiânia;
@@ -91,4 +90,4 @@ DOS REQUISITOS DA FUNÇÃO GRATIFICADA DE ANALISTA DE PROCEDIMENTOS FISCALIZATÓ
 
 2.2.    Pós-graduação lato sensu nas áreas afins às atribuições da função gratificada, ou;
 
-2.3.    Participação no Colegiado Tributário do Município de Aparecida de Goiânia.<br>
+2.3.    Participação no Colegiado Tributário do Município de Aparecida de Goiânia.

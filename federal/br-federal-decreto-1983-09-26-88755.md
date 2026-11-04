@@ -1,5 +1,3 @@
-###DEC-088755-0-000-26-09-1983@@@
-
 Decreto nº 88.755 de 26 de Setembro de 1983
 
 Outorga concessão à RADIO BANDEIRANTE DE CACHOEIRA PAULISTA LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Cachoeira Paulista, Estado de São Paulo.

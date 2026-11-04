@@ -1,5 +1,3 @@
-###DEL-008390-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.390 – DE 17 DE DEZEMBRO DE 1945
 
 Cria cargos no Quadro Permanente do Ministério da Aeronáutica e dá outras providências.

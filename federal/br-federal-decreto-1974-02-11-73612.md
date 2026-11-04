@@ -1,5 +1,3 @@
-###DEC-073612-0-000-11-02-1974@@@
-
 DECRETO Nº 73.612, DE 11 DE FEVEREIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, em favor do Petróleo Brasileiro S.A. - PETROBRAS, uma área de terra situada em Jacuacanga, Município de Angra dos Reis, Estado do Rio de Janeiro.

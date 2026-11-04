@@ -1,5 +1,3 @@
-###DEC-069112-0-000-24-08-1971@@@
-
 DECRETO Nº 69.112, DE 24 DE AGÔSTO DE 1971.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 57.977, de 11 de março de 1966, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público "Gravatá", no município de Mata Grande, Estado de Alagoas.

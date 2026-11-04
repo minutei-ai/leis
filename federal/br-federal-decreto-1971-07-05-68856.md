@@ -1,5 +1,3 @@
-###DEC-068856-0-000-05-07-1971@@@
-
 DECRETO Nº 68.856, DE 5 DE JULHO DE 1971.
 
 Autoriza o funcionamento do Curso de Matemática da Faculdade de Filosofia, Ciências e Letras de São José do Rio Prêto, S. P.

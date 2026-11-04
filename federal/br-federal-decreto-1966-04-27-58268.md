@@ -1,5 +1,3 @@
-###DEC-058268-0-000-27-04-1966@@@
-
 DECRETO Nº 58.268, DE 27 DE ABRIL DE 1966.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$6.000.000.000, para o fim que específica.

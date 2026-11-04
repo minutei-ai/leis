@@ -1,5 +1,3 @@
-###DEC-069198-0-000-14-09-1971@@@
-
 DECRETO Nº 69.198, DE 14 DE SETEMBRO DE 1971.
 
 Abre ao Ministério da Justiça, em favor da Inspetoria-Geral de Finanças, o crédito suplementar de Cr$ 210.000,00, para refôrço de dotações consignadas no vigente Orçamento.
@@ -10,11 +8,105 @@ decreta:
 
 Art. 1º Fica aberto ao Ministério da Justiça, em favor da Inspetoria-Geral de Finanças, o crédito suplementar de Cr$ 210.000,00 (duzentos e dez mil cruzeiros), para refôrço de dotações orçamentárias consignadas ao subanexo 20.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.00</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA JUSTIÇA</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.03</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inspetoria-Geral de Finanças</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.03.01.07.2.004</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coordenação de Controle Financeiro</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis .....................................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.2.0</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Material de Consumo ...................................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros ......................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.4.0</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Encargos Diversos .......................................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.03.01.07.1.003</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reequipamento da Inspetoria</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.3.0</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Equipamentos e Instalações ........................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">120.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL ............................................................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">210.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+20.00
+
+- MINISTÉRIO DA JUSTIÇA
+
+20.03
+
+- Inspetoria-Geral de Finanças
+
+20.03.01.07.2.004
+
+Coordenação de Controle Financeiro
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis .....................................................................
+
+45.000
+
+3.1.2.0
+
+- Material de Consumo ...................................................................
+
+5.000
+
+3.1.3.2
+
+- Outros Serviços de Terceiros ......................................................
+
+35.000
+
+3.1.4.0
+
+- Encargos Diversos .......................................................................
+
+5.000
+
+20.03.01.07.1.003
+
+- Reequipamento da Inspetoria
+
+4.1.3.0
+
+- Equipamentos e Instalações ........................................................
+
+120.000
+
+TOTAL ............................................................................................
+
+210.000
 
 Art. 2º Os recursos necessários à execução dêste Decreto decorrerão de anulação parcial de dotação orçamentária consignada no vigente Orçamento ao subanexo 20.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.00</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA JUSTIÇA</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.01</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Gabinete do Ministro</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 20.01.01.04.2.001</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.4.0</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Encargos Diversos ...................................................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">165.000</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20.03</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inspetoria-Geral de Finanças</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 20.03.01.07.2.004</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas ..............................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">45.000</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:326.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- TOTAL ......................................................................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">210.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+20.00
+
+- MINISTÉRIO DA JUSTIÇA
+
+20.01
+
+- Gabinete do Ministro
+
+Atividade
+
+- 20.01.01.04.2.001
+
+3.1.4.0
+
+- Encargos Diversos ...................................................................................
+
+165.000
+
+20.03
+
+- Inspetoria-Geral de Finanças
+
+Atividade
+
+- 20.03.01.07.2.004
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas ..............................................................
+
+45.000
+
+- TOTAL ......................................................................................................
+
+210.000
 
 Art. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

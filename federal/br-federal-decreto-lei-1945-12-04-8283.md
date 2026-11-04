@@ -1,5 +1,3 @@
-###DEL-008283-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.283 – DE 4 DE DEZEMBRO DE 1945
 
 Concede pensão especial à viúva de um oficial.

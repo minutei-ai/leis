@@ -1,5 +1,3 @@
-###DEC-067736-0-000-08-12-1970@@@
-
 DECRETO Nº 67.736, DE 8 DE DEZEMBRO DE 1970.
 
 Concede à Minas da Serra Geral Limitada o direito de lavrar minério de ferro, no município de Ouro Prêto, Estado de Minas Gerais.

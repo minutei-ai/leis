@@ -1,5 +1,3 @@
-###DEC-074066-0-000-15-05-1974@@@
-
 DECRETO Nº 74.066, DE 15 DE MAIO DE 1974.
 
 Concede reconhecimento aos cursos de Estatística e de Geologia da Universidade Federal do Ceará, com sede na Cidade de Fortaleza, Estado do Ceará.

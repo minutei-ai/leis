@@ -1,5 +1,3 @@
-###DEC-095219-0-000-13-11-1987@@@
-
 DECRETO N° 95.219, DE 13 DE NOVEMBRO DE 1987
 
 Altera Efetivos de Oficiais da Força Aérea Brasileira para 1987.
@@ -12,7 +10,53 @@ Art. 1° O n° 2 do item I do artigo 1° do Decreto n° 93.862, de 23 de dezembr
 
 «2 - Oficiais Superiores, Intermediários e Subalternos
 
-<table cellspacing="0" cellpadding="0" style="border:1.5pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:60.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:2.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Postos / Quadros</span></p></td><td style="width:33.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cel.</span></p></td><td style="width:47pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ten.Cel.</span></p></td><td style="width:47pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maj.</span></p></td><td style="width:47pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cap.</span></p></td><td style="width:47pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1° Ten.</span></p></td><td style="width:47pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2° Ten.</span></p></td><td style="width:47pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Total</span></p></td></tr><tr><td style="width:60.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:2.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Médicos</span></p></td><td style="width:33.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34</span></p></td><td style="width:47pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">69</span></p></td><td style="width:47pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">115</span></p></td><td style="width:47pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">207</span></p></td><td style="width:47pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">225</span></p></td><td style="width:47pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:47pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">650</span></p></td></tr><tr><td style="width:60.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:2.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vagas não distribuídas</span></p></td><td style="width:33.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23</span></p></td><td style="width:47pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44</span></p></td><td style="width:47pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:47pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">182</span></p></td><td style="width:47pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">194</span></p></td><td style="width:47pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">215</span></p></td><td style="width:47pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">658</span></p></td></tr></tbody></table>
+Postos / Quadros
+
+Cel.
+
+Ten.Cel.
+
+Maj.
+
+Cap.
+
+1° Ten.
+
+2° Ten.
+
+Total
+
+Médicos
+
+34
+
+69
+
+115
+
+207
+
+225
+
+-
+
+650
+
+Vagas não distribuídas
+
+23
+
+44
+
+-
+
+182
+
+194
+
+215
+
+658
 
 Art. 2° Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

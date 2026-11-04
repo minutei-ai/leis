@@ -4,7 +4,8 @@ Dispõe sobre a produção e a comercialização de queijos e outros produtos l�
 
 **O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA**, no uso de atribuição prevista no art. 80, § 7º da Constituição do Estado da Bahia, combinando com o art. 41, XXII, da Resolução n.º 1193/85 (Regimento Interno), faço saber que o Plenário da Assembleia aprovou e eu promulgo a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** -  Esta Lei dispõe sobre a produção e a comercialização de queijos e outros produtos lácteos artesanais no Estado da Bahia.
@@ -33,10 +34,12 @@ DISPOSIÇÕES PRELIMINARES
 
 **XI -** Boas Práticas de Fabricação – BPF: Condições e procedimentos higiênico- sanitários e operacionais sistematizados, aplicados em todo o fluxo de produção, com o objetivo de garantir a inocuidade, a identidade, a qualidade e a integridade dos produtos de origem animal;
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA PRODUÇÃO DO QUEIJO E OUTROS PRODUTOS ARTESANAIS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Requisitos à Produção
 
 **Art. 2º** - São condições para a produção dos queijos e produtos lácteos artesanais, visando assegurar a qualidade e a inocuidade dos produtos:
@@ -63,9 +66,12 @@ Dos Requisitos à Produção
 
 **§ 5**º - Não  admitir-se-á a utilização de conservantes para queijos e outros produtos lácteos artesanais;
 
-SEÇÃO IID<br>
-os Insumos<br>
-SUBSEÇÃO I<br>
+SEÇÃO IID
+
+os Insumos
+
+SUBSEÇÃO I
+
 Da Água
 
 **Art. 4º** - A água utilizada na queijaria e na ordenha deve ser potável, canalizada e em volume compatível com a demanda do processamento e das dependências sanitárias.
@@ -80,7 +86,8 @@ Da Água
 
 **§ 5**º - A água deve ser clorada, especialmente quando for constatada contaminação microbiológica, e o controle do teor de cloro deve ser realizado diariamente, antes da queijaria entrar em atividade.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Do Leite
 
 **Art. 5º** - A propriedade rural que fornece o leite ou na qual está situada a queijaria deve dispor de curral de ordenha coberto e/ou sala de ordenha, obedecendo preceitos mínimos de construção, higiene e bem-estar animal.
@@ -101,7 +108,8 @@ Do Leite
 
 **§ 6**º - É proibido o uso de leite de retenção ou na fase colostral ou de fêmeas que estejam sendo submetidas a tratamento com produtos de uso veterinário, atentando-se nesse sentido, para o período de carência recomendado pelo fabricante.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Das Queijarias
 
 **Art. 7º**\- A queijaria deve dispor de ambientes adequados para: recepção do leite, higienização de mãos e calçados (barreira sanitária), fabricação, maturação (quando aplicável), embalagem, estocagem (quando necessário), expedição e almoxarifado.
@@ -176,7 +184,8 @@ Das Queijarias
 
 **IV -** outras simplificações que não incorram em riscos sanitários previamente aprovadas pelo serviço de inspeção oficial.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Dos Manipuladores
 
 **Art. 12** - Todos os manipuladores envolvidos, direta ou indiretamente no processo de produção, devem possuir treinamento em boas práticas de ordenha e/ou fabricação, ficando obrigados a cumprir práticas de higiene pessoal e operacional que preservem a inocuidade do produto.
@@ -185,7 +194,8 @@ I – os manipuladores deverão fazer exames de saúde anualmente ou sempre que 
 
 II – é obrigatório o uso de uniformes, gorros, calçados próprios e limpos para os manipuladores.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Da Embalagem
 
 **Art. 13** - O queijo e outros produtos artesanais poderão ser comercializados com ou sem embalagem, conforme a característica do produto, desde que, seja permitida sua rastreabilidade.
@@ -196,7 +206,8 @@ Da Embalagem
 
 **§ 3**º - No queijo artesanal comercializado sem embalagem, será necessária a identificação na peça, com marcação de relevo ou com a utilização de material atóxico, as informações mínimas: denominação de venda, o estabelecimento produtor e data de fabricação. O produtor também deverá disponibilizar nos postos de venda ou junto ao queijo, material informativo com as demais informações obrigatórias para o consumidor.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 Do Transporte
 
 **Art. 14** - O transporte deverá ser compatível com a natureza dos produtos, de modo a preservar sempre suas condições tecnológicas, higiênicas e de qualidade, de forma organizada, evitando condições que possam comprometer o produto.
@@ -209,7 +220,8 @@ Do Transporte
 
 **§ 4**º - Os veículos de carroceria isotérmica deverão possuir revestimento interno de material não oxidável, impermeável e de fácil higienização e, quando necessário, dotados de unidade de refrigeração.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 Do Registro
 
 **Art. 15** - São atos autorizativos para a comercialização do queijo e outros  produtos lácteos artesanais, o registro da queijaria junto ao Serviço de Inspeção Municipal, Estadual ou Federal.
@@ -254,7 +266,8 @@ Do Registro
 
 **§ 3**º - Poderá ser concedida ampliação do prazo do termo de compromisso de ajuste, desde que constatado cumprimento parcial dos compromissos de adequação assumidos pelo requerente, a critério do Órgão de controle sanitário competente.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA FISCALIZAÇÃO
 
 **Art. 20** - A inspeção e a fiscalização industrial e sanitária da produção do queijo artesanal serão realizadas periodicamente pelo Órgão de controle sanitário, visando assegurar o cumprimento das exigências desta Lei e dos demais dispositivos legais aplicáveis.
@@ -283,7 +296,8 @@ DA FISCALIZAÇÃO
 
 **Parágrafo único -** A penalidade de apreensão, prevista no inciso III deste artigo, pode ser aplicada cumulativamente com quaisquer das outras penalidades.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO PAPEL DO ESTADO NA PRODUÇÃO E NA COMERCIALIZAÇÃO DOS QUEIJOS E OUTROS PRODUTOS LÁCTEOS ARTESANAIS
 
 **Art. 23** - Na produção e comercialização dos queijos e outros produtos lácteos artesanais, compete à administração pública estadual:
@@ -320,7 +334,8 @@ DO PAPEL DO ESTADO NA PRODUÇÃO E NA COMERCIALIZAÇÃO DOS QUEIJOS E OUTROS PRO
 
 **XVI -** Conferir, por meio de auditoria, equivalência de SIMs ao SIE Artesanal – Selo ARTE, para fins de habilitação sanitária e fiscalização de queijos artesanais;
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DISPOSIÇÕES FINAIS
 
 **Art. 24** - O Poder Executivo regulamentará a presente Lei, nos termos da Constituição do Estado de Bahia.

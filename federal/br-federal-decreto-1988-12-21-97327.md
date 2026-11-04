@@ -1,5 +1,3 @@
-###DEC-097327-0-000-21-12-1988@@@
-
 DECRETO Nº 97.327, DE 21 DE DEZEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Pedagogia de Dourados, Mato Grosso do Sul.

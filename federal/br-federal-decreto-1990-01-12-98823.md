@@ -1,7 +1,3 @@
-1
-
-###DEC-098823-0-000-12-01-1990@@@
-
 DECRETO N° 98.823, DE 12 DE JANEIRO DE 1990
 
 Autoriza a Caixa Econômica Federal a operar em dias não úteis, nos casos que especifica.

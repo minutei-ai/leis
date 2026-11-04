@@ -1,5 +1,3 @@
-###DEC-059964-0-000-09-01-1967@@@
-
 DECRETO Nº 59.964, DE 9 DE JANEIRO DE 1967.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$30.000.000.000 (trinta bilhões de cruzeiros) autorizado pela Lei nº 5.072, de 12 de agôsto de 1966, para o fim que menciona.

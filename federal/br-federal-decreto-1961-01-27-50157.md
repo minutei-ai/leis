@@ -1,5 +1,3 @@
-###DEC-050157-0-000-27-01-1961@@@
-
 DECRETO Nº 50.157, DE 27 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Educadora de Campinas Sociedade Anônima para instalar uma estação radiodifusora.

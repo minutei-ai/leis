@@ -1,5 +1,3 @@
-###DEC-080917-0-000-02-12-1977@@@
-
 DECRETO Nº 80.917, DE 02 DE dezembro DE 1977.
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Bandeirantes S.A. para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de São Paulo.

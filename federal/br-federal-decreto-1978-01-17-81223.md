@@ -1,5 +1,3 @@
-###DEC-081223-0-000-17-01-1978@@@
-
 Decreto nº 81.223, de 17 de janeiro de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Barueri, Estado de São Paulo.

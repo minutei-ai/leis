@@ -1,14 +1,12 @@
-###DEC-037688-0-000-03-08-1955@@@
+**DECRETO Nº 37.688, DE 3 DE AGÔSTO DE 1955.**
 
-<strong>DECRETO Nº 37.688, DE 3 DE AGÔSTO DE 1955.</strong>
+***Altera o Regulamento da Escola de Aeronáutica, aprovado pelo Decreto, nº 30.698, de 1º de abril de 1952.***
 
-<em><strong>Altera o Regulamento da Escola de Aeronáutica, aprovado pelo Decreto, nº 30.698, de 1º de abril de 1952.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regulamento da Escola de Aeronáutica, aprovado pelo Decreto nº 30.698, de 1º de abril de 1952 e alterado pelos de ns. 33.053, de 15-6, de 1953, 34.844, de 28-12-1953 e 36.459, de 10-11-954, fica alterado na forma que se segue:
+**Art**. 1º O Regulamento da Escola de Aeronáutica, aprovado pelo Decreto nº 30.698, de 1º de abril de 1952 e alterado pelos de ns. 33.053, de 15-6, de 1953, 34.844, de 28-12-1953 e 36.459, de 10-11-954, fica alterado na forma que se segue:
 
 I) Substitua-se pelo seguinte o artigo 4º:
 
@@ -44,7 +42,7 @@ d) os alunos da Academia Militar das Agulhas Negras e Escola Naval.
 
 a) dois têrços das vagas se destinam aos alunos da Escola Preparatória de Cadetes do Ar;
 
-b) um têrço, ou o restante das vagas, no caso dos alunos da Escola Preparatória de Cadetes do Ar não atingirem ao fixado na alínea <em>a</em> do presente parágrafo, será preenchido obedecendo à seguinte prioridade:
+b) um têrço, ou o restante das vagas, no caso dos alunos da Escola Preparatória de Cadetes do Ar não atingirem ao fixado na alínea *a* do presente parágrafo, será preenchido obedecendo à seguinte prioridade:
 
 1º sargentos da Fôrça Aérea Brasileira, diplomados pela Escola de Especialistas de Aeronáutica, aprovados no Concurso de Admissão e que não tenham atingido o seu 26º aniversário no dia 1 de março do ano da matrícula;
 
@@ -52,11 +50,11 @@ b) um têrço, ou o restante das vagas, no caso dos alunos da Escola Preparatór
 
 3º alunos do Colégio militar que terminarem o Curso Científico, alunos das Escolas Preparatórias de Cadetes do Exército, Colégio Naval e Curso preparatório do Colégio Militar, classificados por merecimento intelectual em cada um dêsses Estabelecimentos de Ensino;
 
-c) na hipótese de ainda restarem vagas, após satisfeito do disposto nas alíneas <em>a</em> e <em>b</em>, poderão ser matriculados, a critério do Ministro da Aeronáutica, os alunos da Academia Militar das Agulhas Negras e Escola Naval que tenham autorização do ministério de origem.
+c) na hipótese de ainda restarem vagas, após satisfeito do disposto nas alíneas *a* e *b*, poderão ser matriculados, a critério do Ministro da Aeronáutica, os alunos da Academia Militar das Agulhas Negras e Escola Naval que tenham autorização do ministério de origem.
 
 § 3º Para cumprimento do que estabelece o item 3º do parágrafo anterior, as vagas existentes serão dividas proporcionalmente ao número de candidatos de cada origem, preenchidas pelos que possuírem melhor classificação intelectual nos cursos dos Estabelecimentos de Ensino de origem”.
 
-II) Substitua-se pela seguinte a alínea <em>a</em> do art. 76:
+II) Substitua-se pela seguinte a alínea *a* do art. 76:
 
 a) Secretaria do Comando”.
 
@@ -88,7 +86,7 @@ f) Estágio de Vôo por Instrumento.
 
 § 2º Os Chefes da Seção de Operações ou Estágio serão os Comandantes dêsses elementos orgânicos e os responsáveis pela orientação e execução do serviço de manutenção e suprimento, atribuído ao pessoal pertencente a cada um dos órgãos da Divisão de Instrução de Vôo.
 
-§ 3º O Chefe da Divisão de Instrução de Vôo é o comandante da Unidade organizada com o efetivo da Divisão e, além das atribuições constantes das letras <em>a, b</em> e <em>c</em> do art. 141 é o responsável pela instrução terrestre da unidade sob o seu comando”.
+§ 3º O Chefe da Divisão de Instrução de Vôo é o comandante da Unidade organizada com o efetivo da Divisão e, além das atribuições constantes das letras *a, b* e *c* do art. 141 é o responsável pela instrução terrestre da unidade sob o seu comando”.
 
 VI) Acrescente-se ao art. 149 o seguinte parágrafo único:
 
@@ -174,10 +172,10 @@ d) Seção de Educação Física.
 
 § 2º O Chefe da Seção de Educação Física é o responsável pela orientação e fiscalização da prática de educação física de todos os elementos da Escola.”
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogados os Decretos ns. 34.844, de 28-12-1953 e 36.459, de 10-11-1954, e as demais disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogados os Decretos ns. 34.844, de 28-12-1953 e 36.459, de 10-11-1954, e as demais disposições em contrário.
 
 Rio de Janeiro, em 3 de agôsto de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes

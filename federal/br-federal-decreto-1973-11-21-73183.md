@@ -1,5 +1,3 @@
-###DEC-073183-0-000-21-11-1973@@@
-
 DECRETO Nº 73.183 - DE 21 NOVEMBRO DE 1973
 
 Autoriza o funcionamento do curso de Letras (licenciatura plena) da Faculdade de Filosofia, Ciências e Letras de Uruguaiana, mantida pelo Consórcio Educacional Fronteira Oeste, com sede na cidade de Uruguaiana, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-006369-0-000-30-01-2008@@@
-
 DECRETO Nº 6.369, DE 30 DE JANEIRO DE 2008.
 
 Institui o Comitê Gestor de Acompanhamento de Compromissos Relativos à Integração Sul-americana - CGCOM-SUL, e dá outras providências.
@@ -55,5 +53,3 @@ Celso Luiz Nunes Amorim
 Guido Mantega,
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 31.1.2008

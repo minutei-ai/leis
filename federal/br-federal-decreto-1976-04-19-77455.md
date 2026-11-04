@@ -1,5 +1,3 @@
-###DEC-077455-0-000-19-04-1976@@@
-
 DECRETO Nº 77.455 - DE 19 DE ABRIL DE 1976
 
 Dispõe sobre a transferência de alunos de estabelecimentos de ensino superior e dá outras providências.

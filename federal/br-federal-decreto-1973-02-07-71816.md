@@ -1,5 +1,3 @@
-###DEC-071816-0-000-07-02-1973@@@
-
 DECRETO Nº 71.816, DE 7 DE FEVEREIRO DE 1973.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Escola de Economia da Universidade do Vale do Rio dos Sinos, São Leopoldo, Rio Grande do Sul.

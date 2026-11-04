@@ -1,5 +1,3 @@
-###DEL-006250-0-000-07-02-1944@@@
-
 DECRETO-LEI N. 6.250 – DE 7 DE FEVEREIRO DE  1944
 
 Estabelece normas para a execução do art. 4º do Decreto-lei nº 5.874, de 2 de outubro de 1943

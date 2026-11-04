@@ -1,5 +1,3 @@
-###DEC-002618-0-000-05-06-1998@@@
-
 DECRETO Nº 2.618, DE 5 DE JUNHO DE 1998
 
 Dispõe sobre o Programa Emergencial de Frentes Produtivas e dá outras providências.

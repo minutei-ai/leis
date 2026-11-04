@@ -1,5 +1,3 @@
-###DEC-080306-0-000-09-09-1977@@@
-
 Decreto nº 80.306, de 9 de setembro de 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Atalaia de Sergipe S. A., cuja denominação social foi, posteriormente, alterada para Rádio Atalaia de Sergipe Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Aracaju, Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-059566-0-000-14-11-1966@@@
-
 DECRETO Nº 59.566, de 14 de novembro de 1966.
 
 Regulamenta as Seções I, II e III do Capítulo IV do Título III da Lei nº 4.504, de 30 de novembro de 1964, Estatuto da Terra, o Capítulo III da Lei nº 4.947, de 6 de abril de 1966, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075840-0-000-10-06-1975@@@
-
 DECRETO Nº 75.840, DE 10 DE JUNHO DE 1975.
 
 Concede a Athayde Soares, firma individual o direito de lavrar mármore no Município de Cachoeira de Itapemirim, Estado do Espírito Santo.

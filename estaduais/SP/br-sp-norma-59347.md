@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59347)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2005/compilacao-lei-12155-19.12.2005.html)
 
 # LEI Nº 12.155, DE 19 DE DEZEMBRO DE 2005

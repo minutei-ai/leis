@@ -43,7 +43,3 @@ Art. 5º – Esta emenda à Constituição entra em vigor na data de sua publica
 Palácio da Inconfidência, em Belo Horizonte, 4 de novembro de 2021; 233º da Inconfidência Mineira e 200º da Independência do Brasil.
 
 Agostinho Patrus – presidente – Antonio Carlos Arantes – 1º-vice-presidente – Doutor Jean Freire – 2º-vice-presidente – Alencar da Silveira Jr. – 3º-vice-presidente – Tadeu Martins Leite – 1º-secretário – Carlos Henrique – 2º-secretário – Arlen Santiago – 3º-Secretário.
-
-\============================================================
-
-Data da última atualização: 24/11/2025.

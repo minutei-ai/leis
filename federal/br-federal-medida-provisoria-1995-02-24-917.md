@@ -1,7 +1,3 @@
-1
-
-###MPV-000917-0-000-24-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 917, DE 24 DE FEVEREIRO DE 1995
 
 Autoriza a utilização do produto da alienação do navio "Docevale" no saneamento financeiro da Companhia de Navegação Lloyd Brasileiro (Lloydbrás).

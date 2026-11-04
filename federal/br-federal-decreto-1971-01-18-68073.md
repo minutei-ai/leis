@@ -1,5 +1,3 @@
-###DEC-068073-0-000-18-01-1971@@@
-
 DECRETO Nº 68.073, DE 18 DE JANEIRO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão que se estenderá desde Pontalina até a cidade de Edéia, no município de mesmo nome, no Estado de Goiás.

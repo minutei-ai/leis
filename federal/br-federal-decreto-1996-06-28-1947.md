@@ -1,5 +1,3 @@
-###DEC-001947-0-000-28-06-1996@@@
-
 DECRETO Nº 1.947, DE 28 DE JUNHO DE 1996.
 
 Dispõe sobre a emissão de Títulos do Tesouro Nacional destinados ao pagamento de dívidas do Programa de Garantia da Atividade Agropecuária (PROAGRO), em cumprimento ao disposto nos arts. 1°, inciso VI, e 2° da Medida Provisória n° 1.504, de 13 de junho de 1996, e dá. outras providências.

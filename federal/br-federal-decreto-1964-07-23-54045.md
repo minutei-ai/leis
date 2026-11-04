@@ -1,5 +1,3 @@
-###DEC-054045-0-000-23-07-1964@@@
-
 DECRETO Nº 54.045, DE 23 DE JULHO DE 1964.
 
 Aprova a revisão dos Quadros provisórios, do Instituto da Previdência e Assistência dos Servidores do Estado e dá outras providências.

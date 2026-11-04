@@ -1,5 +1,3 @@
-###DEL-007945-0-000-10-09-1945@@@
-
 DECRETO-LEI N. 7.945 – DE 10 DE SETEMBRO DE 1945
 
 Abre crédito Suplementar ao Ministério da Fazenda

@@ -1,5 +1,3 @@
-###DEC-083586-0-000-18-06-1979@@@
-
 Decreto nº 83.586, de 18 de junho de 1979
 
 Concede à Mineração e Calcário Vitti S.A. o direito de lavrar calcário dolomítico no Município de Rio Claro, Estado de São Paulo.

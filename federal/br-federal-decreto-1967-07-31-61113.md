@@ -1,5 +1,3 @@
-###DEC-061113-0-000-31-07-1967@@@
-
 DECRETO Nº 61.113, DE 31 DE JULHO DE 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação dos equipamentos novos, sem similar no país, neste descritos e consignados à emprêsa “Indústria de Azulejos S.A. - IASA”, de Recife (Pe.)
@@ -14,7 +12,31 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos, sem similar no país, a seguir descritos e consignados à emprêsa “Indústria de Azulejos S.A. - IASA”, de Recife (Pe.):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item - Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Máquinas elétricas para trabalho em cerâmica, completas, modêlos ENGMANN, para prensagem de azulejos cerâmicos a uma pressão de 150 ton. Com capacidade para 3.000 unidades hora, fabricação FELIX ENGMANN MASCHINENFABRIK KOHLSHEID-AACHEN - Alemanha Ocidental, acompladas com 2 motores elétricos, cada, marca Loher &amp; Sobrac, de 380 V, 13, 5A, 3.6KW, 4,9, Ps, 800 rpm, 60 Hz”....................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>57.536</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle">
+
+Item - Especificação
+
+</td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle">
+
+Quantidade a ser importada
+
+</td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle">
+
+Valor Total CIF US$
+
+</td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+1 Máquinas elétricas para trabalho em cerâmica, completas, modêlos ENGMANN, para prensagem de azulejos cerâmicos a uma pressão de 150 ton. Com capacidade para 3.000 unidades hora, fabricação FELIX ENGMANN MASCHINENFABRIK KOHLSHEID-AACHEN - Alemanha Ocidental, acompladas com 2 motores elétricos, cada, marca Loher &amp; Sobrac, de 380 V, 13, 5A, 3.6KW, 4,9, Ps, 800 rpm, 60 Hz”....................................................................................................
+
+</td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom">
+
+2
+
+</td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom">
+
+57.536
+
+</td></tr></tbody></table>
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria fica sua similaridade, para efeito da isenção de que trata o presente Decreto, para ser examinado pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1959, do Senhor Ministro da Fazenda.
 

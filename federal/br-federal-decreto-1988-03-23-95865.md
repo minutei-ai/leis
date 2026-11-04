@@ -1,7 +1,3 @@
-1
-
-###DEC-095865-0-000-23-03-1988@@@
-
 DECRETO N° 95.865, DE 23 DE MARÇO DE 1988
 
 Institui na Superintendência de Campanhas de Saúde Pública, do Ministério da Saúde, a Medalha do Mérito SUCAM e dá outras providências.

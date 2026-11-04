@@ -1,5 +1,3 @@
-###DEC-002133-0-000-22-01-1997@@@
-
 DECRETO Nº 2.133, DE 22 DE JANEIRO DE 1997
 
 Autoriza a empresa DCN INTERNATIONAL a estabelecer filial na República Federativa do Brasil, sob a denominação social de DCN INTERNATIONAL e dá outras providências.

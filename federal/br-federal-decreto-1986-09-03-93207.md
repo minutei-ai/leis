@@ -1,5 +1,3 @@
-###DEC-093207-0-000-03-09-1986@@@
-
 DECRETO Nº 93.207, DE 03 DE SETEMBRO DE 1986
 
 Dispõe sobre a criação da Diretoria de Material de Aviação do Exército, no Ministério do Exército, e dá outras providências.

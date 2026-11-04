@@ -1,5 +1,3 @@
-###DEC-080379-0-000-21-09-1977@@@
-
 DECRETO Nº 80.379, DE 21 DE SETEMBRO DE 1977
 
 Declara perempta a outorga deferida à Rádio Difusora Fluminense Ltda. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Niterói, Estado do Rio de Janeiro.

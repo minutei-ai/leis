@@ -1,5 +1,3 @@
-###DEC-049270-0-000-17-11-1960@@@
-
 decreto nº 49.270, de 17 de novembro de 1960.
 
 Autoriza o cidadão brasileiro Alkindar Monteiro Junqueira a lavrar calcário, no município de São Paulo.

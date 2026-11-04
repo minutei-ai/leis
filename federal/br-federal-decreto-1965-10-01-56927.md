@@ -1,5 +1,3 @@
-###DEC-056927-0-000-01-10-1965@@@
-
 DECRETO Nº 56.927, DE 1º DE OUTUBRO DE 1965.
 
 Concede à Mineração Ipanema S.A. autorização para funcionar como emprêsa de mineração.

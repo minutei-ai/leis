@@ -1,5 +1,3 @@
-###DEC-068696-0-000-01-06-1971@@@
-
 DECRETO Nº 68.696, de 1 de junho de 1971.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal da Universidade Federal do Rio de Janeiro, e dá outras providências.

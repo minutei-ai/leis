@@ -1,5 +1,3 @@
-###DEC-085937-0-000-28-04-1981@@@
-
 Decreto nº 85.937, de 28 de abril de 1981.
 
 Concede autorização à COMPANHIA ESSO PROSPECÇÃO DO BRASIL, para operar em águas interiores do Brasil, a serviço da PETRÓLEO BRASILEIRO S.A.-PETROBRÁS.

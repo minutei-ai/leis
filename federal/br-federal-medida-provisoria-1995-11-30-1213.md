@@ -1,7 +1,3 @@
-1
-
-###MPV-001213-0-000-30-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.213, DE 30 DE NOVEMBRO DE 1995.
 
 Dispõe sobre a alocação, em depósitos especiais, remunerados, de recursos das disponibilidades financeiras do Fundo de Amparo ao Trabalhador - FAT.

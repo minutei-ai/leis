@@ -1,5 +1,3 @@
-###DEC-087726-0-000-19-10-1982@@@
-
 Decreto nº 87.726, de 19 de outubro de1982
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel situado no Município de São Paulo, Estado de São Paulo, destinado à instalação de Estação Telefônica, a cargo da Telecomunicações de São Paulo S.A. - TELESP.

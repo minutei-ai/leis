@@ -1,5 +1,3 @@
-###DEC-076524-0-000-03-11-1975@@@
-
 DECRETO Nº 76.524, DE 3 DE NOVEMBRO DE 1975.
 
 Declara a caducidade da concessão outorgada a Alberto Otto, para lavrar água mineral no Município de Petrópolis, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-067870-0-000-17-12-1970@@@
-
 DECRETO Nº 67.870, DE 17 DE DEZEMBRO DE 1970.
 
 Declara de interesse social para fins de desapropriação para Reforma Agrária áreas de terras no município de Iguatemi (MT) e dá outras providências.

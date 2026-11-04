@@ -1,5 +1,3 @@
-###DEC-082348-0-000-02-10-1978@@@
-
 Decreto nº 82 348 de 02 de outubro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Riachão, Estado do Maranhão.
@@ -19,8 +17,6 @@ Brasília, 02 de outubro de 1978; 157º da Independência e 90º da República.
 ERNESTO GEISEL
 
 Mário Henrique Simonsen
-
-###DEC-082348-0-000-02-10-1978@@@RET01+++
 
 Decreto nº 82.348, DE 2 DE OUTUBRO DE 1978
 

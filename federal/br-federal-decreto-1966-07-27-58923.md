@@ -1,5 +1,3 @@
-###DEC-058923-0-000-27-07-1966@@@
-
 DECRETO Nº 58.923, DE 27 DE JULHO DE 1966.
 
 Cassa a autorização concedida à Protetora Companhia Nacional de Seguros Gerais, com sede na cidade de Pôrto Alegre, Estado do Rio Grande do Sul, para funcionar na República.

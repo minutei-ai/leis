@@ -24,10 +24,12 @@ VII - organização e estrutura dos orçamentos.
 
 Parágrafo único - A Lei Orçamentária anual para o exercício de 1995 deverá ser compatibilizada com as diretrizes, prioridades e metas estabelecidas para os diversos setores constantes do Plano Plurianual aprovado pela [Lei nº 6.349, de 17 de dezembro de 1991](https://www.legislabahia.ba.gov.br/documentos/lei-no-6349-de-17-de-dezembro-de-1991#LO_6_349) .
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DIRETRIZES PARA OS ORÇAMENTOS DO ESTADO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS DIRETRIZES GERAIS
 
 Art. 2º - No projeto de Lei Orçamentária, as receitas e despesas serão orçadas segundo os preços vigentes em julho de 1994.
@@ -70,10 +72,12 @@ Art. 6º - As receitas próprias de autarquias e fundações instituídas e mant
 
 Parágrafo único - O Poder Executivo estabelecerá mecanismos de controle do disposto neste artigo.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS DIRETRIZES DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
 
-Subseção I -<br>
+Subseção I -
+
 Das Diretrizes Comuns
 
 Art. 7º - Os recursos ordinários do Tesouro Estadual somente poderão ser programados para atender a gastos com despesas de capital, após atendidas as despesas com pessoal e encargos sociais, serviço da dívida e custeio administrativo e operacional.
@@ -106,7 +110,8 @@ Art. 12 - Os orçamentos fiscal e da seguridade social conterão dotações glob
 
 Parágrafo único - As Reservas de Contingências serão constituídas em montantes correspondentes a 1,5% (um e meio por cento) dos valores globais dos respectivos orçamentos.
 
-Subseção II -<br>
+Subseção II -
+
 Das Diretrizes Específicas do Orçamento Fiscal
 
 Art. 13 - O orçamento fiscal abrangerá todas as receitas dos Poderes do Estado, seus fundos, órgãos da administração direta, autarquias e fundações instituídas e mantidas pelo Poder Público.
@@ -121,7 +126,8 @@ Art. 14 - As propostas orçamentárias dos Poderes Legislativo e Judiciário ser
 
 § 3º - As eventuais diferenças de recursos em favor dos Poderes Legislativo e Judiciário, decorrentes de reestimativa da receita tributária para 1995, serão consignadas em atividade sob a denominação de "provisão para cumprimento do disposto no artigo 23 da LDO", a ser alocada nos "Encargos Gerais do Estado" e destinada a reajustar, ao longo do exercício, os orçamentos referidos neste artigo.
 
-Subseção III -<br>
+Subseção III -
+
 Das Diretrizes Específicas do Orçamento da Seguridade Social
 
 Art. 15 -O orçamento da seguridade social abrangerá as entidades e órgãos, bem como fundos, fundações e autarquias que atuem nas áreas de saúde, previdência e assistência social.
@@ -134,7 +140,8 @@ II - receitas próprias dos órgãos, fundos e entidades que integram exclusivam
 
 Art. 17 - As despesas com a execução de programa de trabalho relacionado com a saúde individual e coletiva, desenvolvido e coordenado pela Secretaria da Saúde, obedecerão ao disposto na [Lei nº 6.581, de 04 de maio de 1994](https://www.legislabahia.ba.gov.br/documentos/lei-no-6581-de-04-de-maio-de-1994#LO_6_581) .
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DAS DIRETRIZES DO ORÇAMENTO DE INVESTIMENTOS DAS EMPRESAS
 
 Art. 18 - O orçamento de investimento, previsto no [artigo 159, parágrafo 5º, inciso II, da Constituição Estadual](https://www.legislabahia.ba.gov.br/documentos/lei-no-6588-de-22-de-junho-de-1994#Const_Est_Art__159_P_5) , será apresentado para cada empresa pública e sociedade de economia mista em que o Estado detenha, direta ou indiretamente, a maioria do capital social com direito a voto.
@@ -153,7 +160,8 @@ c) elevação dos padrões de desenvolvimento.
 
 Art. 20 - Os investimentos à conta de recursos oriundos dos orçamentos fiscal e da seguridade social, inclusive mediante participação acionária, serão programados de acordo com as dotações previstas no respectivos orçamentos.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ORGANIZAÇÃO E ESTRUTURA DO ORÇAMENTO
 
 Art. 21 - A estrutura e a organização da Lei Orçamentária obedecerão à legislação pertinente em vigor, e ao excepcionalmente disposto nesta Lei.
@@ -254,7 +262,8 @@ II - cópia das classificações orçamentárias da receita e da despesa, utiliz
 
 III - cópia do Quadro de Detalhamento de Despesa - QDD.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL
 
 Art. 31 - A concessão de vantagens e o aumento de vencimentos dos servidores e empregados públicos serão admitidos nos limites das dotações previstas na Lei Orçamentária para os gastos com "Pessoal e Encargos Sociais", atualizadas, ao longo do exercício financeiro de 1995, na forma do disposto no [artigo 2º desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-6588-de-22-de-junho-de-1994#LO_6_588_Art__2) .
@@ -281,7 +290,8 @@ Art. 33 - As dotações para atendimento das despesas com a admissão de pessoal
 
 Art. 34 - A política de remuneração de pessoal terá em vista o disposto no artigo 37, inciso XI, da Constituição Federal, combinado com o artigo 38 do Ato das Disposições Constitucionais Transitórias, da mesma Constituição.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA POLÍTICA DE APLICAÇÃO DAS AGÊNCIAS FINANCEIRAS OFICIAIS DE FOMENTO
 
 Art. 35 - As agências financeiras estaduais, na concessão de financiamento, observarão as seguintes políticas:
@@ -302,7 +312,8 @@ VI - fomento a agroindústrias, agricultura irrigada, produção de insumos agr�
 
 § 2º - A concessão de empréstimos ou financiamentos pelas agências oficiais a Municípios, inclusive às suas entidades da administração direta, fundações, empresas e sociedades controladas, sem prejuízo das demais normas regulamentares, fica condicionada à comprovação a que se refere o [artigo 11 desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-6588-de-22-de-junho-de-1994#LO_6_588_Art__11) e as normas do Banco Central.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA E INCREMENTO DA RECEITA
 
 Art. 36 - O Poder Executivo encaminhará à Assembléia Legislativa, até 30 de setembro do exercício em curso, projeto de lei dispondo sobre alterações na legislação tributária estadual e incremento da receita, incluindo:
@@ -319,7 +330,8 @@ IV - geração de receita própria pelas entidades da administração indireta, 
 
 § 2º - A Assembléia Legislativa apreciará as matérias que lhe sejam encaminhadas nos termos deste artigo até o encerramento da seção legislativa.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 37 - Caso o projeto de Lei Orçamentária não seja aprovado e sancionado até 31 de dezembro de 1994, a programação constante da proposta orçamentária para 1995 poderá ser executada na forma originalmente encaminhada ao Poder Legislativo, atualizada, segundo critérios nele definidos, nos termos do [artigo 2º, desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-6588-de-22-de-junho-de-1994#LO_6_588_Art__2) , até a edição da respectiva Lei Orçamentária.

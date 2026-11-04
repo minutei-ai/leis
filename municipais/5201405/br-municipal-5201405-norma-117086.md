@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.200, DE 16 DE JULHO DE 2014.<br>
+LEI MUNICIPAL Nº 3.200, DE 16 DE JULHO DE 2014.
+
 (Revogada pela Lei Ordinária nº 3.553, de 6 de maio de 2020).
 
 ~~Altera a redação da Lei Municipal nº 2.747 de 11 de fevereiro de 2009, que dispõe sobre a criação, composição e competências do Conselho Municipal de Cultura da Cidade de Aparecida de Goiânia-Go e dá outras providências.~~
@@ -47,11 +48,14 @@ LEI MUNICIPAL Nº 3.200, DE 16 DE JULHO DE 2014.<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 16 dias do mês de julho de 2014.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~
 
-~~ELIEZER ETERNO GUIMARÃES<br>
-Secretário Municipal de Cultura e Turismo~~<br>
+~~ELIEZER ETERNO GUIMARÃES
+
+Secretário Municipal de Cultura e Turismo~~

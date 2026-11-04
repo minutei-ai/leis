@@ -90,8 +90,6 @@ Art. 8º Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Goiânia, 1º de julho de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

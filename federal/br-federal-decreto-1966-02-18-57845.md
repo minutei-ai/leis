@@ -1,5 +1,3 @@
-###DEC-057845-0-000-18-02-1966@@@
-
 DECRETO Nº 57.845, DE 18 DE FEVEREIRO DE 1966.
 
 Modifica o Decreto nº 57.823, de 15 de fevereiro de 1966, que “Criou o Grupo de Trabalho Especial para elaborar o esquema de aplicação de recursos externos destinados à pecuária nacional”.

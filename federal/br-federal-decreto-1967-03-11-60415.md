@@ -1,5 +1,3 @@
-###DEC-060415-0-000-11-03-1967@@@
-
 DECRETO Nº 60.415, DE 11 DE MARÇO DE 1967.
 
 Declara caduco o decreto nº 6.264, de 11 de setembro de 1940.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.803, DE 12 DE NOVEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Denomina Unidade Mista de Saúde Maria de Jesus Ander - Mazica, a Unidade Mista no Município de Acrelândia.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Denomina Unidade Mista de Saúde Maria de Jesus Ander - Mazica, a Unidade Mista no Município de Acrelândia.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

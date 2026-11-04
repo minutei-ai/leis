@@ -1,5 +1,3 @@
-###DEC-095473-0-000-11-12-1987@@@
-
 DECRETO Nº 95.473, DE 11 DE DEZEMBRO DE 1987
 
 Outorga concessão À RÁDIO DIÁRIO DE PRESIDENTE PRUDENTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Presidente Prudente, Estado de São Paulo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211114)<br>
-
 # LEI N° 18.159, DE 27 DE JUNHO DE 2025
 
 ## (Projeto de lei n° 1377/2023, dos Deputados Vitão do Cachorrão - REPUBLICANOS, Gil Diniz - PL, Reis - PT, Marcio Nakashima - PDT)

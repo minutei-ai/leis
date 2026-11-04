@@ -69,34 +69,60 @@ II - para pagamento parcelado: entrada no percentual mínimo de 10% (dez por cen
 | 17 | 35,76% |   | 35 | 10,70% |
 | 18 | 33,44% |   | 36 | 10,00% |
 
-<br>
-III - as multas tributárias não moratórias, além das deduções previstas nos incisos anteriores, sofrerão redução de 90% (noventa por cento) em seu valor no caso de pagamento à vista e, na hipótese de parcelamento, serão aplicados os descontos previstos na Tabela Única, do inciso II deste artigo; <br>
-IV - exclusivamente para os débitos ambientais, redução de 50% (cinquenta por cento) do valor de multas diárias ajustadas em Termos de Compromisso e Termos de Ajustamento de Conduta, sem prejuízo da aplicação do disposto nos incisos I e II deste artigo.<br>
-§ 1º O pagamento da entrada, ou da parcela única no caso de pagamento à vista, deverá ser efetuado no prazo máximo de 05 (cinco) dias contados da assinatura do termo de adesão, exceto nos casos em que o pagamento da entrada ou parcela única se der por meio de valores decorrentes de bloqueios judiciais, nos termos do § 4º do art. 2º desta lei, hipóteses em que o pagamento se dará quando da expedição do respectivo alvará. <br>
-§ 2º Exceto quando o contribuinte ofertar valores penhorados, todo e qualquer pagamento à Fazenda Pública dar-se-á mediante o pagamento do respectivo DUAM emitido por força do Termo de Acordo e Confissão de Dívida.<br>
-Art. 7º Sobre o saldo devedor parcelado incidirão juros de 1,0% (um por cento) ao mês e correção monetária pelo INPC/IBGE. <br>
-Parágrafo único. Não haverá incidência de juros e da correção monetária de que trata o caput deste artigo em transações celebradas para pagamento em até 04 (quatro) parcelas.<br>
-Art. 8º A adesão às facilidades desta Lei exclui a aplicação da redução da multa prevista no art. 207 do Código Tributário Municipal (Lei Complementar nº 5.727, de 11 de dezembro de 2009).<br>
-Art. 9º A opção pelo REFIS considera-se formalizada com o pagamento à vista do crédito consolidado ou com a assinatura, escrita ou digital, do Termo de Acordo e Confissão Dívida.<br>
-Art. 10. A opção pelo REFIS implica ao contribuinte a assunção das seguintes obrigações:<br>
-I - confissão irrevogável e irretratável da totalidade dos débitos fiscais abrangidos pelo Programa;<br>
-II - aceitação plena e irretratável de todas as condições estabelecidas nesta Lei;<br>
-III - cumprimento regular das parcelas do débito consolidado.<br>
-§ 1º A adesão ao REFIS implicará na suspensão das ações judiciais, mantidos todos os gravames e garantias até a final quitação do débito negociado, exceto as ações de autoria de contribuintes que deverão ser extintas com resolução do mérito em razão da transação.<br>
-§ 2º A opção pelo REFIS exclui qualquer outra forma de parcelamento antes efetuada pelo contribuinte, administrativo ou judicial, de acordo com o saldo remanescente para pagamento, ressalvados valores já pagos que não serão afetados pelo regramento do REFIS.<br>
-Art. 11. Quando o pedido de parcelamento incidir sobre débitos que estejam sob a competência da Procuradoria do Município, o contribuinte deverá promover também:<br>
-I - o reembolso à vista das custas processuais.<br>
-II - o pagamento dos honorários advocatícios nos mesmos prazos e moldes do crédito parcelado. <br>
-Art. 12. O não pagamento da entrada, o não cumprimento de qualquer outra obrigação relativa ao Termo de Acordo e Confissão de Dívida ou inadimplemento de qualquer parcela por prazo superior a 60 (sessenta) dias implicará no vencimento antecipado da dívida independentemente de prévio aviso ou notificação, e a exigência do débito na sua integralidade, com expurgo de todos os descontos concedidos, ficando o acordo automaticamente prejudicado, exceto quanto à confissão da dívida pelo devedor, renúncia ou desistência de qualquer defesa, embargos ou recursos, seja em processos administrativos seja em judiciais.<br>
-Parágrafo único. A exclusão do contribuinte do REFIS implicará a exigibilidade imediata da totalidade do débito objeto da transação, restabelecendo-se, em relação ao montante não pago, os valores originários, com a incidência dos acréscimos legais na forma da legislação vigente à época da ocorrência dos respectivos fatos geradores, inscrição do débito em dívida ativa, consequente protesto e cobrança judicial.<br>
-Art. 13. Os efeitos desta Lei não retroagirão de modo que o gozo dos benefícios por ela instituídos não confere direito à restituição ou compensação de importância já paga, seja a que título for.<br>
-Art. 14. É facultada a qualquer pessoa, física ou jurídica, assumir solidariamente ou liquidar débitos de terceiros mediante procuração outorgada pelo devedor, assunção que deverá contar com a anuência expressa da autoridade competente.<br>
-Art. 15. A opção pelo parcelamento dos débitos, na forma estabelecida nesta lei, possibilita ao contribuinte a obtenção de certidão positiva de débitos com efeito de negativa, de acordo com o art. 206 do CTN.<br>
-Art. 16. A adesão ao REFIS importa em autorização ao Município de Rio Verde-GO para negociar no mercado financeiro os acordos e parcelamentos objetos da presente lei.<br>
-Art. 17. Os benefícios e termos de que trata esta lei não se aplicam à contribuinte envolvidos em fraudes tributárias.<br>
-Art. 18. A adesão aos benefícios concedidos por esta lei deverá ser formalizada até a data de 31 de agosto de 2025.<br>
-Art. 19. O Poder Executivo poderá prorrogar por meio de Decreto por até 2 (duas) vezes o prazo para formalização de adesão ao REFIS.<br>
-Art. 20. Esta lei entrará em vigor na data de sua publicação.<br>
+III - as multas tributárias não moratórias, além das deduções previstas nos incisos anteriores, sofrerão redução de 90% (noventa por cento) em seu valor no caso de pagamento à vista e, na hipótese de parcelamento, serão aplicados os descontos previstos na Tabela Única, do inciso II deste artigo; 
+
+IV - exclusivamente para os débitos ambientais, redução de 50% (cinquenta por cento) do valor de multas diárias ajustadas em Termos de Compromisso e Termos de Ajustamento de Conduta, sem prejuízo da aplicação do disposto nos incisos I e II deste artigo.
+
+§ 1º O pagamento da entrada, ou da parcela única no caso de pagamento à vista, deverá ser efetuado no prazo máximo de 05 (cinco) dias contados da assinatura do termo de adesão, exceto nos casos em que o pagamento da entrada ou parcela única se der por meio de valores decorrentes de bloqueios judiciais, nos termos do § 4º do art. 2º desta lei, hipóteses em que o pagamento se dará quando da expedição do respectivo alvará. 
+
+§ 2º Exceto quando o contribuinte ofertar valores penhorados, todo e qualquer pagamento à Fazenda Pública dar-se-á mediante o pagamento do respectivo DUAM emitido por força do Termo de Acordo e Confissão de Dívida.
+
+Art. 7º Sobre o saldo devedor parcelado incidirão juros de 1,0% (um por cento) ao mês e correção monetária pelo INPC/IBGE. 
+
+Parágrafo único. Não haverá incidência de juros e da correção monetária de que trata o caput deste artigo em transações celebradas para pagamento em até 04 (quatro) parcelas.
+
+Art. 8º A adesão às facilidades desta Lei exclui a aplicação da redução da multa prevista no art. 207 do Código Tributário Municipal (Lei Complementar nº 5.727, de 11 de dezembro de 2009).
+
+Art. 9º A opção pelo REFIS considera-se formalizada com o pagamento à vista do crédito consolidado ou com a assinatura, escrita ou digital, do Termo de Acordo e Confissão Dívida.
+
+Art. 10. A opção pelo REFIS implica ao contribuinte a assunção das seguintes obrigações:
+
+I - confissão irrevogável e irretratável da totalidade dos débitos fiscais abrangidos pelo Programa;
+
+II - aceitação plena e irretratável de todas as condições estabelecidas nesta Lei;
+
+III - cumprimento regular das parcelas do débito consolidado.
+
+§ 1º A adesão ao REFIS implicará na suspensão das ações judiciais, mantidos todos os gravames e garantias até a final quitação do débito negociado, exceto as ações de autoria de contribuintes que deverão ser extintas com resolução do mérito em razão da transação.
+
+§ 2º A opção pelo REFIS exclui qualquer outra forma de parcelamento antes efetuada pelo contribuinte, administrativo ou judicial, de acordo com o saldo remanescente para pagamento, ressalvados valores já pagos que não serão afetados pelo regramento do REFIS.
+
+Art. 11. Quando o pedido de parcelamento incidir sobre débitos que estejam sob a competência da Procuradoria do Município, o contribuinte deverá promover também:
+
+I - o reembolso à vista das custas processuais.
+
+II - o pagamento dos honorários advocatícios nos mesmos prazos e moldes do crédito parcelado. 
+
+Art. 12. O não pagamento da entrada, o não cumprimento de qualquer outra obrigação relativa ao Termo de Acordo e Confissão de Dívida ou inadimplemento de qualquer parcela por prazo superior a 60 (sessenta) dias implicará no vencimento antecipado da dívida independentemente de prévio aviso ou notificação, e a exigência do débito na sua integralidade, com expurgo de todos os descontos concedidos, ficando o acordo automaticamente prejudicado, exceto quanto à confissão da dívida pelo devedor, renúncia ou desistência de qualquer defesa, embargos ou recursos, seja em processos administrativos seja em judiciais.
+
+Parágrafo único. A exclusão do contribuinte do REFIS implicará a exigibilidade imediata da totalidade do débito objeto da transação, restabelecendo-se, em relação ao montante não pago, os valores originários, com a incidência dos acréscimos legais na forma da legislação vigente à época da ocorrência dos respectivos fatos geradores, inscrição do débito em dívida ativa, consequente protesto e cobrança judicial.
+
+Art. 13. Os efeitos desta Lei não retroagirão de modo que o gozo dos benefícios por ela instituídos não confere direito à restituição ou compensação de importância já paga, seja a que título for.
+
+Art. 14. É facultada a qualquer pessoa, física ou jurídica, assumir solidariamente ou liquidar débitos de terceiros mediante procuração outorgada pelo devedor, assunção que deverá contar com a anuência expressa da autoridade competente.
+
+Art. 15. A opção pelo parcelamento dos débitos, na forma estabelecida nesta lei, possibilita ao contribuinte a obtenção de certidão positiva de débitos com efeito de negativa, de acordo com o art. 206 do CTN.
+
+Art. 16. A adesão ao REFIS importa em autorização ao Município de Rio Verde-GO para negociar no mercado financeiro os acordos e parcelamentos objetos da presente lei.
+
+Art. 17. Os benefícios e termos de que trata esta lei não se aplicam à contribuinte envolvidos em fraudes tributárias.
+
+Art. 18. A adesão aos benefícios concedidos por esta lei deverá ser formalizada até a data de 31 de agosto de 2025.
+
+Art. 19. O Poder Executivo poderá prorrogar por meio de Decreto por até 2 (duas) vezes o prazo para formalização de adesão ao REFIS.
+
+Art. 20. Esta lei entrará em vigor na data de sua publicação.
+
 Gabinete do Prefeito de Rio Verde, aos 26 de maio de 2025.
 
 wellington soares carrijo filho 

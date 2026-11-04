@@ -1,5 +1,3 @@
-###DEC-070198-0-000-24-02-1972@@@
-
 Decreto nº 70.198, de 24 de fevereiro de 1972.
 
 Regulamenta o Decreto-lei º 1.023, de 21 de outubro de 1969, que dispõe sobre a tarifa de utilização de Faróis, e dá outras providências.
@@ -79,8 +77,6 @@ EMÍLIO G. MÉDICI
 Adalberto de Barros Nunes
 
 José Flávio Pécora
-
-###DEC-070198-0-000-24-02-1972@@@RET01+++
 
 Decreto nº 70.198, de 24 de fevereiro de 1972.
 

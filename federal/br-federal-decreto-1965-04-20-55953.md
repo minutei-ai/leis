@@ -1,5 +1,3 @@
-###DEC-055953-0-000-20-04-1965@@@
-
 DECRETO Nº 55.953, DE 20 DE ABRIL DE 1965.
 
 Aprova alteração introduzida nos Estatutos da Companhia Paranaense de Seguros Gerais, relativa ao aumento do capital social.

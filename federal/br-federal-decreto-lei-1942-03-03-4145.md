@@ -1,5 +1,3 @@
-###DEL-004145-0-000-03-03-1942@@@
-
 DECRETO-LEI N. 4.145 – DE 3 DE MARÇO DE 1942
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Réis... 25:000$000, para despesas de aumento no pé direito de dois anfiteatros e modificação de um porta de elevador da Faculdade nacional de Medicina da Universidade do Brasil

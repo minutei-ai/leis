@@ -1,5 +1,3 @@
-###DEC-091139-0-000-13-03-1985@@@
-
 DECRETO Nº 91.139, DE 13 de março DE 1985
 
 Altera a redação do item III do parágrafo 29 do artigo 104, do Regimento das Delegacias Estaduais da Indústria e do Comércio, aprova do, juntamente com outros Regimentos de Órgãos do Ministério da Indústria e do Comercio, pelo Decreto nº 533, de 23 de janeiro de 1962.

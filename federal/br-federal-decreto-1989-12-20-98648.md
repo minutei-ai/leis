@@ -1,7 +1,3 @@
-1
-
-###DEC-098648-0-000-20-12-1989@@@
-
 DECRETO Nº 98.648, DE 20 DE DEZEMBRO DE 1989
 
 Define bens de pequeno valor, para efeito da não‑incidência do Imposto de Renda sobre ganhos de capital, e dá outras providências.

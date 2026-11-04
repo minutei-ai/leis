@@ -1,5 +1,3 @@
-###MPV-001763-0-065-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.763-65, DE 8 DE ABRIL DE 1999
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

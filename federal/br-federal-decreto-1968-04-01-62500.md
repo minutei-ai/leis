@@ -1,5 +1,3 @@
-###DEC-062500-0-000-01-04-1968@@@
-
 Decreto nº 62.500, de 1º de abril de 1968.
 
 Declara de utilidade pública a “Santa Casa de Misericórdia de Araçatuba”, com sede em Araçatuba, Estado de São Paulo.

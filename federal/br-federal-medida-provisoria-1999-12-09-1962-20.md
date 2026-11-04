@@ -1,5 +1,3 @@
-###MPV-001962-0-020-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.962-20, DE 9 DE DEZEMBRO DE 1999.
 
 Estende aos servidores públicos civis do Poder Executivo Federal vantagem de vinte e oito vírgula oitenta e seis por cento, objetivo de decisão do Supremo Tribunal Federal, e dá outras providências.

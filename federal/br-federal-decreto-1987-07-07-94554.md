@@ -1,5 +1,3 @@
-###DEC-094554-0-000-07-07-1987@@@
-
 DECRETO N° 94.554, DE 7 DE JULHO DE 1987
 
 Dispõe sobre estímulos à construção e reaparelhamento de pequenos e médios matadouros e sua fiscalização.

@@ -1,5 +1,3 @@
-###DEC-049371-0-000-29-11-1960@@@
-
 DECRETO Nº 49.371, DE 29 DE NOVEMBRO DE 1960.
 
 Altera a redação do decreto número 47.480, de 23 de dezembro de 1959 e dá outras providências.

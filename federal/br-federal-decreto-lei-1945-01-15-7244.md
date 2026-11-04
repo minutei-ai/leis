@@ -1,5 +1,3 @@
-###DEL-007244-0-000-15-01-1945@@@
-
 DECRETO-LEI N. 7.244 – DE 15 DE JANEIRO DE 1945
 
 Considera associados obrigatórios do Instituto de Aposentadoria e Pensões dos Marítimos os trabalhadores por conta própria que servem a bordo dos navios e embarcações nacionais, e dá outras providências

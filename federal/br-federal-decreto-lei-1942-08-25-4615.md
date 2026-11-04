@@ -1,5 +1,3 @@
-###DEL-004615-0-000-25-08-1942@@@
-
 DECRETO-LEI N. 4.615 – DE 25 DE AGOSTO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de 24:780$0, à verba que especifica

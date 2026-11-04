@@ -1,5 +1,3 @@
-###DEC-070038-0-000-24-01-1972@@@
-
 DECRETO nº 70.038, DE 24 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Casa de Caridade "Imaculada Conceição", com sede em Nazaré da Mata, Estado de Pernambuco.

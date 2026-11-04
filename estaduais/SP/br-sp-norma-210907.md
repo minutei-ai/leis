@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210907)<br>
-
 # DECRETO N° 69.515, DE 05 DE MAIO DE 2025
 
 ### _Estabelece prazo para que canis e gatis se adaptem às exigências contidas na Lei n° 17.972, de 10 de julho de 2024, e dá outras providências._

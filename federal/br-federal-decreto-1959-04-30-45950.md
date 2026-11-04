@@ -1,5 +1,3 @@
-###DEC-045950-0-000-30-04-1959@@@
-
 DECRETO Nº 45.950, DE 30 DE ABRIL DE 1959.
 
 Aprova o Regulamento da Diretoria de Assistência Social. (DAS)
@@ -286,4 +284,46 @@ Art. 14. Regimento Interno.
 
 ÍNDICE DE ASSUNTOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições do Chefe do Gabinete .............................................................</span><span>...</span><span>..............</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 12</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições dos Chefes de Seções</span><span> </span><span>.............................................................................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 13</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições do Diretor ..............................................................................</span><span>....................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 11</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições do Gabinete ..........................................................................</span><span>....................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 8º</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Atribuições das Seções ........................................................</span><span>...........................</span><span>............</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 9º e 10</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Finalidade da Diretoria ................................................</span><span>...</span><span>.............................................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 1º e 2º</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Organização da Diretoria ............................................................................................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 4º</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Organização do Gabine .................................................................</span><span>.</span><span>............................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 5º</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Organização Geral ......................................................................................................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 3º</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Organização das Seções .....................................</span><span>...</span><span>....................................................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 6º e 7º</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Regimento Interno ..................................................</span><span>.........</span><span>............................................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Art. 14</span></p></td></tr></tbody></table>
+Atribuições do Chefe do Gabinete ..............................................................................
+
+Art. 12
+
+Atribuições dos Chefes de Seções .............................................................................
+
+Art. 13
+
+Atribuições do Diretor ..................................................................................................
+
+Art. 11
+
+Atribuições do Gabinete ..............................................................................................
+
+Art. 8º
+
+Atribuições das Seções ...............................................................................................
+
+Art. 9º e 10
+
+Finalidade da Diretoria ................................................................................................
+
+Art. 1º e 2º
+
+Organização da Diretoria ............................................................................................
+
+Art. 4º
+
+Organização do Gabine ..............................................................................................
+
+Art. 5º
+
+Organização Geral ......................................................................................................
+
+Art. 3º
+
+Organização das Seções ............................................................................................
+
+Art. 6º e 7º
+
+Regimento Interno .......................................................................................................
+
+Art. 14

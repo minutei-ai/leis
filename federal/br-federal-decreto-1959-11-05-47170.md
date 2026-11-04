@@ -1,5 +1,3 @@
-###DEC-047170-0-000-05-11-1959@@@
-
 DECRETO Nº 47.170, DE 5 DE NOVEMBRO DE 1959.
 
 Altera o Regulamento do Serviço de Assistência e Seguro Social dos Economiários (SASSE)

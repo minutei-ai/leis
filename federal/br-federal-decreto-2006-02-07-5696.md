@@ -1,5 +1,3 @@
-###DEC-005696-0-000-07-02-2006@@@
-
 DECRETO Nº 5.696, DE 7 DE FEVEREIRO DE 2006.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.649, do Conselho de Segurança das Nações Unidas, de 21 de dezembro de 2005, que, entre outras providências, amplia o âmbito de aplicação do regime de sanções envolvendo restrições de viagem e congelamento de fundos, ativos financeiros e recursos econômicos de indivíduos designados pelo comitê de sanções responsável.

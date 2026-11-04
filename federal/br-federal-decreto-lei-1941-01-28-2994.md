@@ -1,5 +1,3 @@
-###DEL-002994-0-000-28-01-1941@@@
-
 DECRETO-LEI N. 2.994 – DE 28 DE JANEIRO DE 1941
 
  Código Nacional de Trânsito

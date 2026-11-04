@@ -1,5 +1,3 @@
-###DEC-077344-0-000-29-03-1976@@@
-
 DECRETO Nº 77.344, DE 29 DE MARÇO DE 1976
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Educação, Ciências e Letras "Urubupungá", com sede na Cidade de Pereira Barreto, Estado de São Paulo.

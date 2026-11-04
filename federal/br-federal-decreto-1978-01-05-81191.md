@@ -1,5 +1,3 @@
-###DEC-081191-0-000-05-01-1978@@@
-
 Decreto nº 81.191, de 5 de janeiro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação e instituição de servidão, as áreas de terra que menciona, localizadas nos Municípios de Acopiara e Piquet Carneiro, Estado do Ceará, pela Telecomunicações Brasileiras S.A. - TELEBRÁS, destinadas à construção de uma Estação Repetidora e à via de acesso desta, a cargo da Telecomunicações do Ceará S.A. - TELECEARÁ.

@@ -1,5 +1,3 @@
-###DEC-049237-0-000-16-11-1960@@@
-
 DECRETO Nº 49.237, DE 16 DE novembro DE 1960.
 
 Concede reconhecimento ao Curso de Engenharia Civil da Escola de Engenharia da Universidade da Paraíba.

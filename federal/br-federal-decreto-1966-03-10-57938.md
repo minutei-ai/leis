@@ -1,5 +1,3 @@
-###DEC-057938-0-000-10-03-1966@@@
-
 DECRETO Nº 57.938, DE 10 DE MARÇO DE 1966.
 
 Cria a Policlínica de Guarnição da Vila Militar e dá outras providências.

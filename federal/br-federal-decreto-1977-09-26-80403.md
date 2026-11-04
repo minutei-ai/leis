@@ -1,5 +1,3 @@
-###DEC-080403-0-000-26-09-1977@@@
-
 Decreto nº 80.403, de 26 de setembro de 1977.
 
 Exclui cargo que indica, do Quadro de Pessoal  Parte Permanente - do Ministério da Saúde.

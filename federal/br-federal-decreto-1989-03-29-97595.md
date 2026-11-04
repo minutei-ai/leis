@@ -1,5 +1,3 @@
-###DEC-097595-0-000-29-03-1989@@@
-
 DECRETO N° 97.595, DE 29 DE MARÇO DE 1989
 
 Dispõe sobre a acumulação de cargos, empregos ou funções na Administração Federal.

@@ -1,5 +1,3 @@
-###DEC-089183-0-000-15-12-1983@@@
-
 Decreto nº 89.183, de 15 de dezembro de 1983
 
 Aprova alteração introduzida no Estatuto da Companhia de Pesquisa de Recursos Minerais - C.P.R.M.

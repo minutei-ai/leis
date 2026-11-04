@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208293)<br>
-
 # DECRETO N° 67.814, DE 18 DE JULHO DE 2023
 
 ### _Institui o Programa "UniversalizaSP", sob a coordenação das Secretarias de Meio Ambiente, Infraestrutura e Logística e de Parcerias em Investimentos, e dá providências correlatas._

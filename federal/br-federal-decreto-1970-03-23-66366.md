@@ -1,5 +1,3 @@
-###DEC-066366-0-000-23-03-1970@@@
-
 DECRETO Nº 66.366 - DE 23 DE MARÇO DE 1970
 
 Outorga à Campanhia de Telecomunicações do Estado de São Paulo - COTESP - concessão para explorar o serviço telefônico público interurbano entre os municípios de Taquarituba e Taguai, no Estado de São Paulo.

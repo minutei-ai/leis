@@ -52,7 +52,8 @@ Felipe da Silva Freitas
 
 Secretário de Justiça e Direitos Humanos
 
-Bruno Gomes Monteiro<br>
+Bruno Gomes Monteiro
+
 Secretário de Cultura
 
 Ângela Cristina Santos Guimarães

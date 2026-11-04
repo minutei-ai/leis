@@ -1,5 +1,3 @@
-###DEC-056470-0-000-16-06-1965@@@
-
 DECRETO Nº 56.470, DE 16 DE JUNHO DE 1965.
 
 Retifica o enquadramento da Universidade de Minas Gerais, aprovado pelo Decreto nº 51.359, de 24 de novembro de 1961.
@@ -35,8 +33,6 @@ Brasília, 16 de junho de 1965; 144º da Independência e 77º da República.
 h. castello branco
 
 Flávio Lacerda
-
-###DEC-056470-0-000-16-06-1965@@@RET01+++
 
 DECRETO Nº 56.470, DE 16 DE JUNHO DE 1965.
 

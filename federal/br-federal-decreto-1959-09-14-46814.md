@@ -1,5 +1,3 @@
-###DEC-046814-0-000-14-09-1959@@@
-
 DECRETO Nº 46.814, DE14 DE SETEMBRO DE 1959.
 
 Outorga à Prefeitura Municipal de Iguaí concessão para o aproveitamento de energia hidráulica de um desnível existente no rio Prêto, no distrito-sede do município de Iguaí, Estado da Bahia.

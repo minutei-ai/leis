@@ -1,5 +1,3 @@
-###DEL-003995-0-000-31-12-1941@@@
-
 DECRETO‑LEI Nº 3.995 – DE 31 DE DEZEMBRO DE 1941
 
 Estabelece para os profissionais e organizações sujeitas ao regime do decreto nº 23.569, de 11 de dezembro de 1933, a obrigação do pagamento de uma anuidade aos Conselhos Regionais de que trata o mesmo decreto, e dá outras providências.

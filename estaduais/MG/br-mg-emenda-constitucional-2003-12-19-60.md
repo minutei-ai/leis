@@ -27,7 +27,3 @@ Deputado Antônio Andrade - 1º-Secretário
 Deputado Luiz Fernando Faria - 2º-Secretário
 
 Deputado Pastor George - 3º-Secretário
-
-\================================================================
-
-Data da última atualização: 27/11/2007

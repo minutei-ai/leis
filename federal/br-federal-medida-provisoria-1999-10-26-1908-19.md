@@ -1,5 +1,3 @@
-###MPV-001908-0-019-26-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.908-19, DE 26 DE OUTUBRO DE 1999.
 
 Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos privados de assistência à saúde, e dá outras providências.

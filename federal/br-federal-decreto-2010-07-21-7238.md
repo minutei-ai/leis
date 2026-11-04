@@ -1,5 +1,3 @@
-###DEC-007238-0-000-21-07-2010@@@
-
 DECRETO Nº 7.238, DE 21 DE JULHO DE 2010.
 
 Acresce dispositivo ao Regulamento de Promoções da Carreira de Diplomata do Serviço Exterior Brasileiro, aprovado pelo Decreto nº 6.559, de 8 de setembro de 2008.

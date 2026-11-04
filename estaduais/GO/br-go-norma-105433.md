@@ -24,5 +24,6 @@ Deputado LISSAUER VIEIRA
 
 – PRESIDENTE –
 
-BRUNO PEIXOTO<br>
+BRUNO PEIXOTO
+
 Deputado Estadual

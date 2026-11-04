@@ -1,5 +1,3 @@
-###DEC-047011-0-000-13-10-1959@@@
-
 DECRETO Nº 47.011, DE 13 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Pedro Cochinel a pesquisar fluorita, no Município de Tubarão, Estado de Santa Catarina.

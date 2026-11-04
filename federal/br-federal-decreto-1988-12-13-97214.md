@@ -1,5 +1,3 @@
-###DEC-097214-0-000-13-12-1988@@@
-
 DECRETO Nº 97.214, DE 13 DE DEZEMBRO DE 1988
 
 Autoriza a Meridional Companhia de Seguros Gerais a aumentar seu capital social.

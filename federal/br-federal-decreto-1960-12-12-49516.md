@@ -1,5 +1,3 @@
-###DEC-049516-0-000-12-12-1960@@@
-
 DECRETO Nº 49.516, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza “Somipal” S. A., Indústria Paulista de Minérios a pesquisar feldspato no município de Carvalhos, Estado de Minas Gerais.

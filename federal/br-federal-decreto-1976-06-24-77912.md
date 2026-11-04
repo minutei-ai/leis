@@ -1,5 +1,3 @@
-###DEC-077912-0-000-24-06-1976@@@
-
 DECRETO Nº 77.912, DE 24 DE JUNHO DE 1976.
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Ciências Econômicas da Faculdade de Ciências Econômicas do Alto Taquari, com sede na cidade de Lageado, Rio Grande do Sul.

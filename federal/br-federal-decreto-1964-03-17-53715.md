@@ -1,5 +1,3 @@
-###DEC-053715-0-000-17-03-1964@@@
-
 DECRETO Nº 53.715, DE 17 DE MARÇO DE 1964.
 
 Retifica o enquadramento dos cargos e funções de que trata o Decreto n° 52.257-A, de 15 de julho de 1963.

@@ -1,5 +1,3 @@
-###DEC-051743-0-000-22-02-1963@@@
-
 DECRETO Nº 51.743, DE 22 DE FEVEREIRO DE 1963.
 
 Declara de utilidade pública o Educandário Dr. Bezerra de Menezes, com sede em Marília, Estado de São Paulo.

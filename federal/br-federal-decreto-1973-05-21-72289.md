@@ -1,5 +1,3 @@
-###DEC-072289-0-000-21-05-1973@@@
-
 DECRETO Nº 72.289, DE 21 DE MAIO DE 1973.
 
 Transfere com os respectivos cargos, para o Quadro de Pessoal do Ministério da Educação e Cultura, servidores do Quadro de Pessoal em extinção da Fundação IBGE.

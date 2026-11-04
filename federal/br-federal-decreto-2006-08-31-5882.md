@@ -1,5 +1,3 @@
-###DEC-005882-0-000-31-08-2006@@@
-
 DECRETO Nº 5.882, DE 31 DE AGOSTO DE 2006.
 
 Modifica os arts. 5o, 12 e 16 do Decreto no 5.025, de 30 de março de 2004, que regulamenta o Programa de Incentivo às Fontes Alternativas de Energia Elétrica - PROINFA, e dá outras providências.
@@ -59,5 +57,3 @@ Brasília, 31 de agosto de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
           Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no D.O.U. de 1º.9.2006.

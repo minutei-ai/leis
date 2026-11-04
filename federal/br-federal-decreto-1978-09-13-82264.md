@@ -1,5 +1,3 @@
-###DEC-082264-0-000-13-09-1978@@@
-
 Decreto nº 82.264, de 13 de setembro de 1978.
 
 Altera os Decretos nºs 71.323, de 7 de novembro de 1972, e 71.535, de 13 de dezembro de 1972, que dispõem sobre o Grupo Diplomacia.

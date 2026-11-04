@@ -1,5 +1,3 @@
-###DEC-095238-0-000-13-11-1987@@@
-
 DECRETO N° 95.238, DE 13 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Contábeis de Barretos, São Paulo.

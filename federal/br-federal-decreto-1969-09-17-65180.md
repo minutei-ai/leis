@@ -1,5 +1,3 @@
-###DEC-065180-0-000-17-09-1969@@@
-
 DECRETO Nº 65.180 - DE 17 DE SETEMBRO DE 1969.
 
 Outorga ao município de Ladainha, Estado de Minas Gerais, concessão para o aproveitamento imediato e limitado de um trecho do rio Mucuri do Norte.

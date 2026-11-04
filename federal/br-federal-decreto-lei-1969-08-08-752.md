@@ -1,7 +1,3 @@
-1
-
-###DEL-000752-0-000-08-08-1969@@@
-
 DECRETO-LEI Nº 752, De 8 DE AGôsTo De 1969
 
 Estima a Receita e fixa a Despesa do Distrito Federal para o exercício financeiro de 1970.
@@ -14,11 +10,201 @@ Art. 1º O Orçamento do Distrito Federal, para o exercício financeiro de 1970,
 
 Art. 2º A Receita do Distrito Federal será realizada mediante arrecadação dos tributos, rendas, suprimentos de fundos e outras Receitas Correntes e de Capital, na forma da legislação em vigor e de acôrdo com o seguinte desdobramento:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Receitas Correntes</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-style:italic; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Receita Tributária ....................................................................</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>191.394.000,00</span></p></td></tr><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Receita Patrimonial..................................................................</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>690.400,00</span></p></td></tr><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Receita Industrial.....................................................................</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25.800,00</span></p></td></tr><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Transferências Correntes.........................................................</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>161.184.700,00</span></p></td></tr><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Transferência Diversas.............................................................</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">3.565.900,00</span></p></td></tr><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total das Receitas Correntes....................................................</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>356.860.800,00</span></p></td></tr><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total das Receitas Correntes....................................................</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>356.860.800,00</span></p></td></tr><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Receitas de Capital..................................................................</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">67.509.200,00</span></p></td></tr><tr><td style="width:278.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total da Receita Orçamentária.................................................</span></p></td><td style="width:118.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>424.370.000,00</span></p></td></tr></tbody></table>
+NCr$
+
+Receitas Correntes
+
+Receita Tributária ....................................................................
+
+191.394.000,00
+
+Receita Patrimonial..................................................................
+
+690.400,00
+
+Receita Industrial.....................................................................
+
+25.800,00
+
+Transferências Correntes.........................................................
+
+161.184.700,00
+
+Transferência Diversas.............................................................
+
+3.565.900,00
+
+Total das Receitas Correntes....................................................
+
+356.860.800,00
+
+Total das Receitas Correntes....................................................
+
+356.860.800,00
+
+Receitas de Capital..................................................................
+
+67.509.200,00
+
+Total da Receita Orçamentária.................................................
+
+424.370.000,00
 
 Art. 3º A Despesa do Distrito Federal será efetuada de acôrdo com a programação estabelecida nos quadros anexos e distribuídas pelas Unidades Orçamentárias, conforme o seguinte desdobramento:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Despesa por Programa</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Administração .........................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>104.507.900,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Agropecuária ...........................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>17.181.700,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Assistência e Previdência ........................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7.386.100,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Comércio ................................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>205.000,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Comunicações ........................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.000.000,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Defesa e Segurança ................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>58.358.400,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Educação ................................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>69.018.800,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Energia ...................................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.842.000,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Habitação e Planejamento Urbano ..........................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>56.762.000,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Saúde e Saneamento ..............................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>90.403.100,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Transporte ...............................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">11.705.000,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total Geral da Despesa ...........................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>424.370.000,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Despesa por Unidade Orçamentárias</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Gabinete do Prefeito ................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.514.500,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Departamento de Turismo e Recreação ..................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.026.800,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procuradoria-Geral ..................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.643.800,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria do Govêrno .............................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.714.600,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Região Administrativa I - Brasília .............................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>638.500,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Região Administrativa II - Gama ..............................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>650.400,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Região Administrativa III - Taguatinga .....................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>765.000,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Região Administrativa IV - Brazlândia .....................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>290.600,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Região Administrativa V - Sobradinho .....................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>740.800,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Região Administrativa VI - Planaltina .......................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>450.300,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Região Administrativa VII - Paranoá ........................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>259.600,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Região Administrativa VIII - Jardim .........................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>259.600,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria de Administração ...................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.751.600,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria de Finanças ............................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>58.833.400,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria de Agricultura e Produção ......................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>13.496.700,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria de Educação e Cultura ...........................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>68.903.800,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria de Saúde ................................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>61.265.500,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria de Serviços Sociais .................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>13.955.100,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria de Viação e Obras ..................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>98.054.500,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria de Serviços Públicos ..............................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.152.400,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria de Segurança Pública ............................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>27.352.400,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Polícia Militar do Distrito Federal .............................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.610.700,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Corpo de Bombeiros do Distrito Federal ..................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.395.200,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tribunal de Contas do Distrito Federal .....................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">3.644.100,00</span></p></td></tr><tr><td style="width:278.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total Geral da Despesa ...........................................................</span></p></td><td style="width:117.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>424.370.000,00</span></p></td></tr></tbody></table>
+NCr$
+
+Despesa por Programa
+
+Administração .........................................................................
+
+104.507.900,00
+
+Agropecuária ...........................................................................
+
+17.181.700,00
+
+Assistência e Previdência ........................................................
+
+7.386.100,00
+
+Comércio ................................................................................
+
+205.000,00
+
+Comunicações ........................................................................
+
+2.000.000,00
+
+Defesa e Segurança ................................................................
+
+58.358.400,00
+
+Educação ................................................................................
+
+69.018.800,00
+
+Energia ...................................................................................
+
+6.842.000,00
+
+Habitação e Planejamento Urbano ..........................................
+
+56.762.000,00
+
+Saúde e Saneamento ..............................................................
+
+90.403.100,00
+
+Transporte ...............................................................................
+
+11.705.000,00
+
+Total Geral da Despesa ...........................................................
+
+424.370.000,00
+
+Despesa por Unidade Orçamentárias
+
+Gabinete do Prefeito ................................................................
+
+1.514.500,00
+
+Departamento de Turismo e Recreação ..................................
+
+3.026.800,00
+
+Procuradoria-Geral ..................................................................
+
+1.643.800,00
+
+Secretaria do Govêrno .............................................................
+
+1.714.600,00
+
+Região Administrativa I - Brasília .............................................
+
+638.500,00
+
+Região Administrativa II - Gama ..............................................
+
+650.400,00
+
+Região Administrativa III - Taguatinga .....................................
+
+765.000,00
+
+Região Administrativa IV - Brazlândia .....................................
+
+290.600,00
+
+Região Administrativa V - Sobradinho .....................................
+
+740.800,00
+
+Região Administrativa VI - Planaltina .......................................
+
+450.300,00
+
+Região Administrativa VII - Paranoá ........................................
+
+259.600,00
+
+Região Administrativa VIII - Jardim .........................................
+
+259.600,00
+
+Secretaria de Administração ...................................................
+
+15.751.600,00
+
+Secretaria de Finanças ............................................................
+
+58.833.400,00
+
+Secretaria de Agricultura e Produção ......................................
+
+13.496.700,00
+
+Secretaria de Educação e Cultura ...........................................
+
+68.903.800,00
+
+Secretaria de Saúde ................................................................
+
+61.265.500,00
+
+Secretaria de Serviços Sociais .................................................
+
+13.955.100,00
+
+Secretaria de Viação e Obras ..................................................
+
+98.054.500,00
+
+Secretaria de Serviços Públicos ..............................................
+
+20.152.400,00
+
+Secretaria de Segurança Pública ............................................
+
+27.352.400,00
+
+Polícia Militar do Distrito Federal .............................................
+
+15.610.700,00
+
+Corpo de Bombeiros do Distrito Federal ..................................
+
+15.395.200,00
+
+Tribunal de Contas do Distrito Federal .....................................
+
+3.644.100,00
+
+Total Geral da Despesa ...........................................................
+
+424.370.000,00
 
 Art. 4º A aplicação dos recursos discriminados no artigo 3º far-se-á de acôrdo com os Programa estabelecidos para as Unidades Orçamentárias.
 
@@ -46,8 +232,6 @@ A. CosTA e SiLvA
 
 Luís Antônio da Gama e Silva
 
-###DEL-000752-0-000-08-08-1969@@@RET01+++
-
 DEcReto-leI nº 752, de 8 de agôsto de 1969
 
 Estima a Receita e fixa a Despesa do Distrito Federal para o Exercício Financeiro de 1970
@@ -60,10 +244,28 @@ Na página 25, na Secretaria de Agricultura e Produção, na natureza da Despesa
 
 ..........................................................................................................................................
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>43.5.00.00</span></p></td><td style="width:67.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.3.5.0</span></p></td><td style="width:246.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxílios para Material Permanente</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:67.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:246.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Entidades do Distrito Federal</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:67.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:246.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fundação Zoobotânica do Distrito Federal</span></p></td></tr></tbody></table>
+43.5.00.00
+
+4.3.5.0
+
+Auxílios para Material Permanente
+
+Entidades do Distrito Federal
+
+Fundação Zoobotânica do Distrito Federal
 
 LEIA-SE:
 
 ................................................................................................................................................
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>43.5.00.00</span></p></td><td style="width:67.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.3.5.0</span></p></td><td style="width:246.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxílios para Material Permanente</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>43.5.30.00</span></p></td><td style="width:67.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:246.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Entidades do Distrito Federal</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:67.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:246.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fundação Zoobotânica do Distrito Federal</span></p></td></tr></tbody></table>
+43.5.00.00
+
+4.3.5.0
+
+Auxílios para Material Permanente
+
+43.5.30.00
+
+Entidades do Distrito Federal
+
+Fundação Zoobotânica do Distrito Federal

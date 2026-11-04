@@ -1,5 +1,3 @@
-###DEC-002685-0-000-23-07-1998@@@
-
 DECRETO Nº 2.685, DE 23 DE JULHO DE 1998
 
 Dispõe sobre a Corregedoria-Geral do Departamento de Polícia Federal do Ministério da Justiça, e dá outras providências.

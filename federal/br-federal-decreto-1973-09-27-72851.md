@@ -1,5 +1,3 @@
-###DEC-072851-0-000-27-09-1973@@@
-
 DECRETO Nº 72.851, DE 27 DE SETEMBRO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Departamento Nacional de Estradas de Rodagem, e dá outras providências.

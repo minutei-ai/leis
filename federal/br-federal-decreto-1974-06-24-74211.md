@@ -1,5 +1,3 @@
-###DEC-074211-0-000-24-06-1974@@@
-
 decreto nº 74.211, de 24 de junho de 1974.
 
 Modifica a estrutura da Universidade Federal do Rio Grande do Norte.

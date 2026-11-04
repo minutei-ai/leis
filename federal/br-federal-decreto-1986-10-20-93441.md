@@ -1,5 +1,3 @@
-###DEC-093441-0-000-20-10-1986@@@
-
 DECRETO Nº 93.441, DE 20 DE OUTUBRO DE 1986
 
 Declara luto oficial.

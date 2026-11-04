@@ -1,5 +1,3 @@
-###DEC-045615-0-000-24-03-1959@@@
-
 Decreto nº 45.615, de 24 de março de 1959.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Distrito Federal.

@@ -1,5 +1,3 @@
-###MPV-001959-0-017-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.959,17 DE 6 DE JANEIRO DE 2000.
 
 Acresce parágrafo ao art. 4º da Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento.

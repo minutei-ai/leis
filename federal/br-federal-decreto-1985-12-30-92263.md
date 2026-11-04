@@ -1,5 +1,3 @@
-###DEC-092263-0-000-30-12-1985@@@
-
 DECRETO Nº 92.263, DE 30 DE DEZEMBRO DE 1985
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Datas Leite, Mato Grosso e Ladeira", compreendido na referida área, nos Municípios de Itapecuru-Mirim, Vargem Grande e Presidente Vargas, no Estado do Maranhão, e dá outras providências.

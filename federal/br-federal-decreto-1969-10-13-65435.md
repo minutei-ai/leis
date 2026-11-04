@@ -1,5 +1,3 @@
-###DEC-065435-0-000-13-10-1969@@@
-
 decreto nº 65.435 - de 13 de outubro de 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro Único de Pessoal - Parte Especial - da Universidade Federal do Rio de Janeiro, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

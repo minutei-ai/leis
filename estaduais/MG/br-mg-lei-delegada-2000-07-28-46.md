@@ -27,7 +27,3 @@ ITAMAR FRANCO
 Henrique Eduardo Ferreira Hargreaves
 
 José Augusto Trópia Reis
-
-\================================
-
-Data da última atualização: 13/04/2010.

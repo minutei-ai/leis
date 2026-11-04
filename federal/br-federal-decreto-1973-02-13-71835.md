@@ -1,5 +1,3 @@
-###DEC-071835-0-000-13-02-1973@@@
-
 DECRETO Nº 71.835, DE 13 DE FEVEREIRO DE 1973.
 
 Dispõe sobre a matrícula em estabelecimento de ensino superior de dependentes de representantes diplomáticos e consulares de carreira acreditados junto ao Governo Brasileiro, e dá outras providências.

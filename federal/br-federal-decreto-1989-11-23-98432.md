@@ -1,7 +1,3 @@
-1
-
-###DEC-098432-0-000-23-11-1989@@@
-
 DECRETO Nº 98.432, DE 23 DE NOVEMBRO DE 1989
 
 Renova a concessão outorgada à RBC - REDE BAHIANA DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Feira de Santana, Estado da Bahia.

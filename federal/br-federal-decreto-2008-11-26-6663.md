@@ -1,5 +1,3 @@
-###DEC-006663-0-000-26-11-2008@@@
-
 DECRETO Nº 6.663, DE 26 DE NOVEMBRO DE 2008.
 
 Regulamenta a aferição sumária, pelo Ministro de Estado da Integração Nacional, da caracterização do estado de calamidade pública ou da situação de emergência, aliada à impossibilidade de o problema ser resolvido pelo ente da Federação.

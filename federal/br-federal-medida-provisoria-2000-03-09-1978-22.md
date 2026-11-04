@@ -1,5 +1,3 @@
-###MPV-001978-0-022\-09-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.978-22, DE 9 DE março DE 2000.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

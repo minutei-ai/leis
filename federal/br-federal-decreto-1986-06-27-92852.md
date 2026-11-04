@@ -1,5 +1,3 @@
-###DEC-092852-0-000-27-06-1986@@@
-
 DECRETO Nº 92.852, DE 27 DE JuNHO DE 1986
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DE AQUIDAUANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Aquidauana, Estado do Mato Grosso do Sul.

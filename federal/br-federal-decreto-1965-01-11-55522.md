@@ -1,5 +1,3 @@
-###DEC-055522-0-000-11-01-1965@@@
-
 DECRETO Nº 55.522, de 11 de janeiro de 1965.
 
 Autoriza Somipal S.A. Indústria Paulista de Minérios a pesquisar xisto-grafitoso, no município de Carvalhos, Estado de Minas Gerais.

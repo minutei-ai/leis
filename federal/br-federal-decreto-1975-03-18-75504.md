@@ -1,5 +1,3 @@
-###DEC-075504-0-000-18-03-1975@@@
-
 DECRETO Nº 75.504, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Formação de Professores para as Disciplinas Profissionalizantes do Ensino de 2º grau do Centro de Educação Técnica do Instituto Americano de Lins, com sede na Cidade de Lins, Estado de São Paulo.

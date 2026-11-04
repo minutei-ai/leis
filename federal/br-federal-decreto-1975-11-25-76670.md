@@ -1,5 +1,3 @@
-###DEC-076670-0-000-25-11-1975@@@
-
 Decreto Nº 76.670, DE 25 De NOVEmBRO DE 1975.
 
 Cria a Embaixada do Brasil no Suriname.

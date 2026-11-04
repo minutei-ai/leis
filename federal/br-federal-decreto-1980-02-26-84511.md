@@ -1,5 +1,3 @@
-###DEC-084511-0-000-26-02-1980@@@
-
 DECRETO Nº 84.511, DE 26 DE FEVEREIRO DE 1980
 
 Autoriza a alienação do domínio útil de terreno pertencente ao patrimônio da Fundação Universidade do Amazonas.

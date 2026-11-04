@@ -1,5 +1,3 @@
-###MPV-002203-0-000-08-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.203, DE 8 DE AGOSTO DE 2001
 
 Institui o Programa Bolsa-Renda para atendimento à população atingida pelos efeitos da estiagem, incluída na Região do Semi-Árido, e dá outras providências.

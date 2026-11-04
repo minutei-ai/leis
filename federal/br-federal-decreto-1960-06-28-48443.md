@@ -1,5 +1,3 @@
-###DEC-048443-0-000-28-06-1960@@@
-
 Decreto nº 48.443, de 28 de junho de 1960.
 
 Dispõe sôbre a coordenação e fiscalização das atividades do Ministério da Agricultura nos Estados.
@@ -25,8 +23,6 @@ Juscelino Kubitschek
 Barros Carvalho
 
 Antônio Barros Carvalho
-
-###DEC-048443-0-000-28-06-1960@@@RET01+++
 
 decreto nº 48.443, de 28 de junho de 1960.
 

@@ -1,5 +1,3 @@
-###DEC-059740-0-000-15-12-1966@@@
-
 DECRETO Nº 59.740, DE 15 DE DEZEMBRO DE 1966.
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$2.187.140,000 em refôrço às dotações das categorias econômicas que específica.
@@ -12,9 +10,73 @@ Art. 1º Fica aberto ao Ministério da Fazenda o crédito suplementar de Cr$2.18
 
 Lei nº 4.900, de 10 de dezembro de 1965.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.07.00</span></p></td><td style="width:369.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Ministério da Fazenda</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.07.28</span></p></td><td style="width:369.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Delegacia do Tesouro Brasileiro no Exterior</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.0.0.0</span></p></td><td style="width:369.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.0.0</span></p></td><td style="width:369.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas de Custeio</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.1.0</span></p></td><td style="width:369.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Pessoal</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.1.1</span></p></td><td style="width:369.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Pessoal Civil</span></p></td></tr></tbody></table>
+4.07.00
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>05</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Gratificação de função ......................................................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.140.000</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>02.00</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Despesas variáveis com o pessoal civil</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>01</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Ajuda de custo ..................................................................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>12.000.000</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>06</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Gratificação por serviço ou estudo no estrangeiro ...........................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.650.000.000</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.3.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Serviços de terceiros</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>02</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Passagens, transporte de pessoas e de suas bagagens; pedágios .</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>73.000.000</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.4.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Encargos Diversos</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>09.00</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Custeio de Órgãos não Diplomáticos ou Consulares........................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>450.000.000</span></p></td></tr></tbody></table>
+- Ministério da Fazenda
+
+4.07.28
+
+- Delegacia do Tesouro Brasileiro no Exterior
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.1.0.0
+
+- Despesas de Custeio
+
+3.1.1.0
+
+- Pessoal
+
+3.1.1.1
+
+- Pessoal Civil
+
+Cr$
+
+05
+
+- Gratificação de função ......................................................................
+
+2.140.000
+
+02.00
+
+- Despesas variáveis com o pessoal civil
+
+01
+
+- Ajuda de custo ..................................................................................
+
+12.000.000
+
+06
+
+- Gratificação por serviço ou estudo no estrangeiro ...........................
+
+1.650.000.000
+
+3.1.3.0
+
+- Serviços de terceiros
+
+02
+
+- Passagens, transporte de pessoas e de suas bagagens; pedágios .
+
+73.000.000
+
+3.1.4.0
+
+- Encargos Diversos
+
+09.00
+
+- Custeio de Órgãos não Diplomáticos ou Consulares........................
+
+450.000.000
 
 Art. 2º O crédito suplementar de que trata o artigo 1º será automaticamente registrado pelo Tribunal de Contas da União e distribuído ao Tesouro Nacional.
 

@@ -1,5 +1,3 @@
-###DEL-003920-0-000-11-12-1941@@@
-
 DECRETO-LEI N. 3.920 – DE 11 DE DEZEMBRO DE 1941
 
 Autoriza a Companhia Siderúrgica Nacional a expropriar bens no Estado de Santa Catarina

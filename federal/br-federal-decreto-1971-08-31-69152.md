@@ -1,5 +1,3 @@
-###DEC-069152-0-000-31-08-1971@@@
-
 DECRETO Nº 69.152, DE 31 DE AGÔSTO DE 1971.
 
 Muda a denominação do Estabelecimento Central de Finanças e dá outras providências.

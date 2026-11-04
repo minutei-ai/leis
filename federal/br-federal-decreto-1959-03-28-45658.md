@@ -1,5 +1,3 @@
-###DEC-045658-0-000-28-03-1959@@@
-
 Decreto nº 45.658, de 28 de março de 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal de Mato Grosso.

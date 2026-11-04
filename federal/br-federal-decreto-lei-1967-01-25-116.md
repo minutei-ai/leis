@@ -1,7 +1,3 @@
-1
-
-###DEL-000116-0-000-25-01-1967@@@
-
 DECRETO-LEI Nº 116, DE 25 DE JANEIRO DE 1967
 
 Dispõe sôbre as operações inerentes ao transporte de mercadorias por via d’água nos portos brasileiros, delimitando suas responsabilidades e tratando das faltas e avarias.

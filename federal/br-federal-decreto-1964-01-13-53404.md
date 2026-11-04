@@ -1,5 +1,3 @@
-###DEC-053404-0-000-13-01-1964@@@
-
 Decreto nº 53.404, de 13 de janeiro de 1964.
 
 Declara de interesse social, para fins de desapropriação áreas de terra situada em Cachoeira de Macacu e Itaboraí, no Estado do Rio de Janeiro.

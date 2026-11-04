@@ -1,5 +1,3 @@
-###DEC-067075-0-000-18-08-1970@@@
-
 Decreto nº 67.075, de 18 de agôsto de 1970.
 
 Declara caduco o Decreto nº 19.910 de 14 de novembro de 1945.

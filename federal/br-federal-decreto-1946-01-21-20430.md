@@ -1,76 +1,74 @@
-###DEC-020430-0-000-21-01-1946@@@
+**DECRETO Nº 20.430, DE 21 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.430, DE 21 DE JANEIRO DE 1946.</strong>
+***Aprova o Regulamento do Material para o Departamento dos Correios e Telégrafos.***
 
-<em><strong>Aprova o Regulamento do Material para o Departamento dos Correios e Telégrafos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a,* da Constituição e atendendo ao que propôs a Comissão de Planejamento do Departamento dos Correios e Telégrafos, de acôrdo com o artigo 29, alínea *b*, do Decreto-lei número 8.308, de 6 de dezembro de 1945,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a,</em> da Constituição e atendendo ao que propôs a Comissão de Planejamento do Departamento dos Correios e Telégrafos, de acôrdo com o artigo 29, alínea <em>b</em>, do Decreto-lei número 8.308, de 6 de dezembro de 1945,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Material para o Departamento dos Correios e Telégrafos, que baixa assinado pelo Ministério da Viação e Obras Públicas.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Material para o Departamento dos Correios e Telégrafos, que baixa assinado pelo Ministério da Viação e Obras Públicas.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação, revogada as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação, revogada as disposições em contrário.
 
 Rio de Janeiro, em 21 de janeiro de 1946, 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Maurício Joppert da Silva
 
-<strong>DEPARTAMENTO DOS CORREIOS E TELÉGRAFOS</strong>
+**DEPARTAMENTO DOS CORREIOS E TELÉGRAFOS**
 
 REGULAMENTO DO MATERIAL
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Disposições Preliminares</em>
+*Disposições Preliminares*
 
-<strong>Art</strong>. 1º O presente regulamento estabelece para o provimento de material os serviços do Departamento dos Correios e Telégrafos.
+**Art**. 1º O presente regulamento estabelece para o provimento de material os serviços do Departamento dos Correios e Telégrafos.
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Despesa</em>
+*Da Despesa*
 
-<strong>Art</strong>. 2º A previsão da despêsa com a aquisição de material será estudada anualmente com a antecedência exigida para a apresentação, a época própria, do programa econômico-financeiro para o exercício seguinte.
+**Art**. 2º A previsão da despêsa com a aquisição de material será estudada anualmente com a antecedência exigida para a apresentação, a época própria, do programa econômico-financeiro para o exercício seguinte.
 
-<strong>Art</strong>. 3º Promulgado o Orçamento Geral da República, organizar-se-á a discriminação da despesa com material, dentro da dotação global concedida ao Departamento, a fim de ser submetida à aprovação do Ministro da Viação e Obras Públicas.
+**Art**. 3º Promulgado o Orçamento Geral da República, organizar-se-á a discriminação da despesa com material, dentro da dotação global concedida ao Departamento, a fim de ser submetida à aprovação do Ministro da Viação e Obras Públicas.
 
-<strong>Art</strong>. 4º A despesa com material obedecerá à discriminação aprovada, com as alterações que por ventura forem autorizadas, no correr do exercício, pelo Ministro da Viação e Obras Públicas, por proposta do Diretor Geral dos Correios e Telégrafos.
+**Art**. 4º A despesa com material obedecerá à discriminação aprovada, com as alterações que por ventura forem autorizadas, no correr do exercício, pelo Ministro da Viação e Obras Públicas, por proposta do Diretor Geral dos Correios e Telégrafos.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Padronização</em>
+*Da Padronização*
 
-<strong>Art</strong>. 5º O material para os serviços postais e telegráficos será padronizado, e à medida que fôr sendo estabelecida a padronização as aquisições serão feitas de acôrdo com os padrões fixados.
+**Art**. 5º O material para os serviços postais e telegráficos será padronizado, e à medida que fôr sendo estabelecida a padronização as aquisições serão feitas de acôrdo com os padrões fixados.
 
-<strong>Art</strong>. 6º A padronização e especificação de cada material serão organizadas pelos órgãos competentes do Departamento, observadas as Normas Técnicas Brasileiras, e em colaboração com a Associação Brasileira de Normas Técnicas sempre que fôr possível e conveniente.
+**Art**. 6º A padronização e especificação de cada material serão organizadas pelos órgãos competentes do Departamento, observadas as Normas Técnicas Brasileiras, e em colaboração com a Associação Brasileira de Normas Técnicas sempre que fôr possível e conveniente.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA CATALOGAÇÃO</em>
+*DA CATALOGAÇÃO*
 
-<strong>Art</strong>. 7º Para a aquisição de material não específico dos Correios e Telégrafos, adotar-se-á a catalogação de Serviço Público Civil.
+**Art**. 7º Para a aquisição de material não específico dos Correios e Telégrafos, adotar-se-á a catalogação de Serviço Público Civil.
 
 Parágrafo único. Para o material específico dos serviços postais e telegráficos, a catalogação será organizada de acôrdo com a mesmas orientação técnica da do Serviço Público Civil.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da aquisição</em>
+*Da aquisição*
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA FORMA DE AQUISIÇÃO</em>
+*DA FORMA DE AQUISIÇÃO*
 
-<strong>Art</strong>. 8º O material para os serviços postais e telégrafos será adquirido diretamente pelo Departamento dos Correios e Telégrafos, obedecido o disposto nêste regulamento.
+**Art**. 8º O material para os serviços postais e telégrafos será adquirido diretamente pelo Departamento dos Correios e Telégrafos, obedecido o disposto nêste regulamento.
 
-<strong>Art</strong>. 9º A aquisição do material poderá ser realizada:
+**Art**. 9º A aquisição do material poderá ser realizada:
 
 a) na Capital da República ou em qualquer outro ponto do país;
 
 b) no estrangeiro, em suas fontes produtoras.
 
-<strong>Art</strong>. 10. A aquisição será feita por meio de:
+**Art**. 10. A aquisição será feita por meio de:
 
 a) concorrência pública;
 
@@ -84,13 +82,13 @@ c) coleta de preços.
 
 § 3º A coleta de preços realizar-se-á para aquisição de artigos de necessidade eventual e urgente, desde que o valor total estimado não exceda de Cr$500.000,00.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Concorrência Pública</em>
+*Da Concorrência Pública*
 
-<strong>Art</strong>. 11. A concorrência pública far-se-á por meio de edital divulgado no <em>Diário Oficial</em> ou no órgão oficial dos governos dos Estados, ou, ainda em jornais de grande circulação.
+**Art**. 11. A concorrência pública far-se-á por meio de edital divulgado no *Diário Oficial* ou no órgão oficial dos governos dos Estados, ou, ainda em jornais de grande circulação.
 
-<strong>Art</strong>. 12. Dos editais da concorrência pública, além de outros requisitos julgados necessários, deverão constar:
+**Art**. 12. Dos editais da concorrência pública, além de outros requisitos julgados necessários, deverão constar:
 
 a) o dia, hora e local em que serão abertas as propostas;
 
@@ -108,11 +106,11 @@ g) a indicação dos documentos comprobatórios de idoneidade para poderem os pr
 
 h) a importância da caução para a assinatura do contrato de fornecimento do material, ou as condições de garantais bancárias.
 
-<strong>Art</strong>. 13. O edital da concorrência será publicado com a antecedência mínima de quinze dias da data fixada para a abertura das propostas de fornecimento do material, devendo ser feita sua divulgação, nêsse período, tantas vêzes quantas forem julgadas necessárias.
+**Art**. 13. O edital da concorrência será publicado com a antecedência mínima de quinze dias da data fixada para a abertura das propostas de fornecimento do material, devendo ser feita sua divulgação, nêsse período, tantas vêzes quantas forem julgadas necessárias.
 
-<strong>Art</strong>. 14. Haja ou não declaração no ato que convocar as concorrências, presume-se sempre que à autoridade competente se reserva o direito de anular qualquer concorrência, por despacho motivado, se houver justa causa, sem que o Departamento se responsabilize por qualquer indenização.
+**Art**. 14. Haja ou não declaração no ato que convocar as concorrências, presume-se sempre que à autoridade competente se reserva o direito de anular qualquer concorrência, por despacho motivado, se houver justa causa, sem que o Departamento se responsabilize por qualquer indenização.
 
-<strong>Art</strong>. 15. A idoneidade dos proponentes será julgada prèviamente.
+**Art**. 15. A idoneidade dos proponentes será julgada prèviamente.
 
 § 1º Aos concorrentes será lícito reclamar contra a inclusão ou exclusão de qualquer dêles da lista de idoneidade, mediante prova dos fatos que alegarem.
 
@@ -120,25 +118,25 @@ h) a importância da caução para a assinatura do contrato de fornecimento do m
 
 § 3º Se a decisão do recurso fôr contrária ao licitante, sua proposta será restituída sem que seja aberto o invólucro em que estiver contida.
 
-<strong>Art</strong>. 16. No dia e hora estabelecidos no edital da concorrência, a autoridade que a presidir receberá as propostas assinadas pelos licitantes, e, se todos forem julgados idôneos, procederá a abertura das mesmas.
+**Art**. 16. No dia e hora estabelecidos no edital da concorrência, a autoridade que a presidir receberá as propostas assinadas pelos licitantes, e, se todos forem julgados idôneos, procederá a abertura das mesmas.
 
-<strong>Art</strong>. 17. Lidas, em seguida, as propostas, cada licitante presente deverá rubricar, fôlha a fôlha, as de todos os outros, à vista do presidente da concorrência, o qual, por sua vez, as autenticará com sua rubrica, não sendo admitidas retificações ou cancelamentos de preços, bem como alteração das condições estipuladas.
+**Art**. 17. Lidas, em seguida, as propostas, cada licitante presente deverá rubricar, fôlha a fôlha, as de todos os outros, à vista do presidente da concorrência, o qual, por sua vez, as autenticará com sua rubrica, não sendo admitidas retificações ou cancelamentos de preços, bem como alteração das condições estipuladas.
 
-<strong>Art</strong>. 18. As propostas procedentes do estrangeiro ou que forem remetidas pelo Correio serão abertas, igualmente pela forma indicada no artigo anterior, ainda que nãos e achem presentes os licitantes, que poderão ser representados por procuradores se assim o entenderem.
+**Art**. 18. As propostas procedentes do estrangeiro ou que forem remetidas pelo Correio serão abertas, igualmente pela forma indicada no artigo anterior, ainda que nãos e achem presentes os licitantes, que poderão ser representados por procuradores se assim o entenderem.
 
-<strong>Art</strong>. 19. Das reuniões para julgamento da idoneidade dos concorrentes e recebimento e abertura das propostas será lavrada ata circunstanciada, em que deverão ser mencionadas tôdas as propostas apresentadas, reclamações feitas e demais ocorrências que interessarem ao julgamento da licitação.
+**Art**. 19. Das reuniões para julgamento da idoneidade dos concorrentes e recebimento e abertura das propostas será lavrada ata circunstanciada, em que deverão ser mencionadas tôdas as propostas apresentadas, reclamações feitas e demais ocorrências que interessarem ao julgamento da licitação.
 
-<strong>Art</strong>. 20. Antes de qualquer decisão, deverá ser publicado na íntegra, nos mesmos jornais em que o tenham sido os editais, um quadro comparativo das propostas apresentadas.
+**Art**. 20. Antes de qualquer decisão, deverá ser publicado na íntegra, nos mesmos jornais em que o tenham sido os editais, um quadro comparativo das propostas apresentadas.
 
-<strong>Art</strong>. 21. Feita a publicação e organizada a classificação dos concorrentes, deverão o quadro comparativo, as atas lavradas e os documentos que instruírem as propostas ser encaminhados à autoridade competente, com um breve relatório do presidente da concorrência, no qual deverá ser indicada a proposta mais vantajosa.
+**Art**. 21. Feita a publicação e organizada a classificação dos concorrentes, deverão o quadro comparativo, as atas lavradas e os documentos que instruírem as propostas ser encaminhados à autoridade competente, com um breve relatório do presidente da concorrência, no qual deverá ser indicada a proposta mais vantajosa.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DA CONCORRÊNCIA ADMINISTRATIVA</em>
+*DA CONCORRÊNCIA ADMINISTRATIVA*
 
-<strong>Art</strong>. 22. A concorrência administrativa far-se-á entre comerciantes inscritos no Registro de Fornecedores do Departamento dos Correios e Telégrafos que se propuserem a fornecer artigos de uso habitual.
+**Art**. 22. A concorrência administrativa far-se-á entre comerciantes inscritos no Registro de Fornecedores do Departamento dos Correios e Telégrafos que se propuserem a fornecer artigos de uso habitual.
 
-<strong>Art</strong>. 23. O Registro de Fornecedores, instituído para os fins do artigo anterior, será feito na Diretoria Geral ou nas Diretorias Regionais mediante preenchimento de formulário próprio, acompanhado de documentos comprobatórios de inscrição no Registro de Comércio, de habilitação para negociar com os artigos a fornecer e de quitação com a Fazenda Pública Federal, Estadual e Municipal.
+**Art**. 23. O Registro de Fornecedores, instituído para os fins do artigo anterior, será feito na Diretoria Geral ou nas Diretorias Regionais mediante preenchimento de formulário próprio, acompanhado de documentos comprobatórios de inscrição no Registro de Comércio, de habilitação para negociar com os artigos a fornecer e de quitação com a Fazenda Pública Federal, Estadual e Municipal.
 
 § 1º Aos comerciantes inscritos no Departamento Federal de Compras será dispensada a apresentação dos documentos comprobatórios a que se refere êste artigo, se juntarem ao formulário o original ou fotocópia autenticada do certificado de inscrição naquêle Departamento.
 
@@ -152,15 +150,15 @@ h) a importância da caução para a assinatura do contrato de fornecimento do m
 
 § 6º O certificado mencionará expressamente os documentos apresentados pelo fornecedor, não o dispensando da comprovação de condições especiais de capacidade não exigidas para a expedição do referido certificado.
 
-<strong>Art</strong>. 24. Não poderá renovar a inscrição, ou fazê-la em qualquer Diretoria Regional, o fornecedor que não tenha dado boa execução nos compromissos assumidos ou haja reincidido em faltas para com o Departamento.
+**Art**. 24. Não poderá renovar a inscrição, ou fazê-la em qualquer Diretoria Regional, o fornecedor que não tenha dado boa execução nos compromissos assumidos ou haja reincidido em faltas para com o Departamento.
 
-<strong>Art</strong>. 25. Declarado idôneo um fornecedor pelo govêrno federal, estadual ou municipal, ou ainda por entidade paraestatal, será imediatamente cancelada sua inscrição no Registro de fornecedores, só podendo a mesma ser renovada após reabilitação devidamente provada.
+**Art**. 25. Declarado idôneo um fornecedor pelo govêrno federal, estadual ou municipal, ou ainda por entidade paraestatal, será imediatamente cancelada sua inscrição no Registro de fornecedores, só podendo a mesma ser renovada após reabilitação devidamente provada.
 
-<strong>Art</strong>. 26. A concorrência administrativa far-se-á por meio de edital convocando os inscritos a apresentarem propostas de fornecimento dos artigos nele indicados.
+**Art**. 26. A concorrência administrativa far-se-á por meio de edital convocando os inscritos a apresentarem propostas de fornecimento dos artigos nele indicados.
 
 Parágrafo único. As propostas deverão conter indicação dos preços correspondentes às unidades indicadas no edital, marcas, qualidade, características e mais esclarecimentos que forem necessários.
 
-<strong>Art</strong>. 27. Do edital da concorrência administrativa, além de outros requisitos julgados necessários, deverão constar:
+**Art**. 27. Do edital da concorrência administrativa, além de outros requisitos julgados necessários, deverão constar:
 
 a) o dia, hora e local em que serão abertas as propostas;
 
@@ -174,13 +172,13 @@ e) o período de vigência da concorrência;
 
 f) a importância da caução garantidora do compromisso a assumir.
 
-<strong>Art</strong>. 28. A publicação do edital e aberturas das propostas obedecerão às normas previstas para a realização da concorrência pública.
+**Art**. 28. A publicação do edital e aberturas das propostas obedecerão às normas previstas para a realização da concorrência pública.
 
-<strong>Art</strong>. 29. As propostas, acompanhadas de quadro comparativo dos preços oferecidos e de breve relatório serão submetidas à decisão da autoridade competente.
+**Art**. 29. As propostas, acompanhadas de quadro comparativo dos preços oferecidos e de breve relatório serão submetidas à decisão da autoridade competente.
 
-<strong>Art</strong>. 30. Aprovada a concorrência, os pedidos para fornecimento de material serão feitos aos licitantes que houverem apresentado preços mais baratos.
+**Art**. 30. Aprovada a concorrência, os pedidos para fornecimento de material serão feitos aos licitantes que houverem apresentado preços mais baratos.
 
-<strong>Art</strong>. 31. A concorrência administrativo vigorará até 31 de dezembro.
+**Art**. 31. A concorrência administrativo vigorará até 31 de dezembro.
 
 § 1º Decorridos 4 meses da data da abertura das propostas, se algum fornecedor denunciar os preços aceitos ou se outro qualquer fornecedor inscrito oferecer preços mais baratos que aquêles, proceder-se-á a nova concorrência para fornecimento apenas dos artigos cujos preços se tornarem suscetíveis de alteração.
 
@@ -188,13 +186,13 @@ f) a importância da caução garantidora do compromisso a assumir.
 
 § 3º A denúncia a que se refere o § 1º deverá ser feita por escrito e só se tornará efetiva 15 dias após a data em que de rentrada em protocolo.
 
-<strong>Art</strong>. 32. O proponente de preço mais barato, inscrito no Registro de Fornecedores, não poderá, em caso algum, recusar-se a satisfazer a encomenda de material, sob pena de ser excluída a firma do respectivo registro e de correr por sua conta a diferença do preço do material.
+**Art**. 32. O proponente de preço mais barato, inscrito no Registro de Fornecedores, não poderá, em caso algum, recusar-se a satisfazer a encomenda de material, sob pena de ser excluída a firma do respectivo registro e de correr por sua conta a diferença do preço do material.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DA DISPENSA DE CONCORRÊNCIA</em>
+*DA DISPENSA DE CONCORRÊNCIA*
 
-<strong>Art</strong>. 33. Poderá ser dispensada a concorrência:
+**Art**. 33. Poderá ser dispensada a concorrência:
 
 a) para os fornecimentos que forem julgados de interêsse nacional ou que se tornarem urgentes, não permitindo as demoras exigidas pelos prazos de concorrência, ou quando as condições peculiares à região tornarem impraticável êsse procedimento;
 
@@ -210,15 +208,15 @@ f) para compra de produtos industriais da União, dos Estados ou Municípios;
 
 g) quando, por motivo de ordem econômica, financeira ou técnica, as aquisições devam ser feitas noutra cidade do país ou no estrangeiro.
 
-Parágrafo único. A dispensa da concorrência nas hipóteses previstas nas letras <em>a</em> e <em>b</em> dêste artigo dependerá de autorização, respectivamente do Ministro da Viação e Obras Públicas e do Diretor Geral dos Correios e Telégrafos. A dispensa da concorrência para aquisição de material no estrangeiro dependerá de autorização do Ministério da Viação e Obras Públicas.
+Parágrafo único. A dispensa da concorrência nas hipóteses previstas nas letras *a* e *b* dêste artigo dependerá de autorização, respectivamente do Ministro da Viação e Obras Públicas e do Diretor Geral dos Correios e Telégrafos. A dispensa da concorrência para aquisição de material no estrangeiro dependerá de autorização do Ministério da Viação e Obras Públicas.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DA COLETA DE PREÇOS</em>
+*DA COLETA DE PREÇOS*
 
-<strong>Art</strong>. 34. A coleta de preços far-se-á mediante convite, em modêlo próprio, enviado a comerciantes do material a adquirir.
+**Art**. 34. A coleta de preços far-se-á mediante convite, em modêlo próprio, enviado a comerciantes do material a adquirir.
 
-<strong>Art</strong>. 35. Dos convites para a coleta de preços deverão constar:
+**Art**. 35. Dos convites para a coleta de preços deverão constar:
 
 a) a espécie, qualidade e quantidade do material a adquirir;
 
@@ -228,25 +226,25 @@ c) o prazo para a entrega do material;
 
 d) o local da entrega.
 
-<strong>Art</strong>. 36. A entrega dos convites expedidos poderá ser feita aos interessados, mediante recibo em modêlo destinado a êsse fim, ou por via postal, ficando arquivado no processo da coleta de preços e certificado fornecido pelo Correio.
+**Art**. 36. A entrega dos convites expedidos poderá ser feita aos interessados, mediante recibo em modêlo destinado a êsse fim, ou por via postal, ficando arquivado no processo da coleta de preços e certificado fornecido pelo Correio.
 
-<strong>Art</strong>. 37. Aceito o convite, deverá o comerciante interessado indicar no lugar próprio do modêlo:
+**Art**. 37. Aceito o convite, deverá o comerciante interessado indicar no lugar próprio do modêlo:
 
 a) o preço unitário do material;
 
 b) o preço para a quantidade do material mencionado.
 
-<strong>Art</strong>. 38. Não serão consideradas as coletas que deixarem de ser restituídas dentro do prazo fixado para a sua devolução, as que contiverem emendas ou rasuras não ressalvadas e as que não tiverem pago o impôsto do sêlo.
+**Art**. 38. Não serão consideradas as coletas que deixarem de ser restituídas dentro do prazo fixado para a sua devolução, as que contiverem emendas ou rasuras não ressalvadas e as que não tiverem pago o impôsto do sêlo.
 
-<strong>Art</strong>. 39. As propostas resultantes das coletas de preço serão abertas no dia e hora indicados no convite e cada um dos interessados presentes deverá rubricar, fôlha a fôlha, as propostas dos demais.
+**Art**. 39. As propostas resultantes das coletas de preço serão abertas no dia e hora indicados no convite e cada um dos interessados presentes deverá rubricar, fôlha a fôlha, as propostas dos demais.
 
-<strong>Art</strong>. 40. Com os elementos constantes das propostas será organizado um quadro comparativo dos preços oferecidos, para decisão da autoridade superior.
+**Art**. 40. Com os elementos constantes das propostas será organizado um quadro comparativo dos preços oferecidos, para decisão da autoridade superior.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DA AQUISIÇÃO POR MEIO DE ADIANTAMENTO</em>
+*DA AQUISIÇÃO POR MEIO DE ADIANTAMENTO*
 
-<strong>Art</strong>. 41. Poderá ser adquirido material, por meio de adiantamento, nos seguintes casos:
+**Art**. 41. Poderá ser adquirido material, por meio de adiantamento, nos seguintes casos:
 
 a) para pequenas compras que, pelo seu reduzido valor, não despertem interêsse entre fornecedores;
 
@@ -256,15 +254,15 @@ c) para a realização de compras em que se verifique haver vantagem ou conveni�
 
 d) para a aquisição de material nas fontes de produção.
 
-<strong>Art</strong>. 42. Nas aquisições de material feitas por meio de adiantamento não poderão ser dispensadas as exigências contidas nas instruções relativas à padronização e à especificação do material.
+**Art**. 42. Nas aquisições de material feitas por meio de adiantamento não poderão ser dispensadas as exigências contidas nas instruções relativas à padronização e à especificação do material.
 
-<strong>Art</strong>. 43. O material adquirido por meio de adiantamento será devidamente escriturado, não podendo ser ultimado o processo de prestação de contas sem prova de terem sido fornecidos ao órgão competente os elementos para aquela escrituração.
+**Art**. 43. O material adquirido por meio de adiantamento será devidamente escriturado, não podendo ser ultimado o processo de prestação de contas sem prova de terem sido fornecidos ao órgão competente os elementos para aquela escrituração.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>DA AQUISIÇÃO FORA DA SEDE</em>
+*DA AQUISIÇÃO FORA DA SEDE*
 
-<strong>Art</strong>. 44. Para as aquisições a se realizarem nos caos da letra <em>g</em> do artigo 33, deverá a Diretoria Geral cotejar os preços correntes do material na sua sede com os que obtiver noutra praça, computando, para comparação, as seguintes parcelas, conforme a hipótese:
+**Art**. 44. Para as aquisições a se realizarem nos caos da letra *g* do artigo 33, deverá a Diretoria Geral cotejar os preços correntes do material na sua sede com os que obtiver noutra praça, computando, para comparação, as seguintes parcelas, conforme a hipótese:
 
 a) preço de custo na praça de origem;
 
@@ -276,61 +274,61 @@ d) direitos aduaneiros e taxas adicionais.
 
 Parágrafo único. O material poderá ser adquirido se do cotejo feito, na forma dêste artigo, resultar que o excesso de preço não ultrapasse 10% e o prazo em que possa ser fornecido não seja superior ao exigido pelos serviços do Departamento.
 
-<strong>Art</strong>. 45. Decidida a aquisição em outra praça, nacional ou estrangeira, o preço de compra do material, para todos os efeitos, inclusive os de escrituração, será determinado pelo seu preço de custo na praça de origem, acrescido das despesas realizadas com o seu transporte até o local de aplicação.
+**Art**. 45. Decidida a aquisição em outra praça, nacional ou estrangeira, o preço de compra do material, para todos os efeitos, inclusive os de escrituração, será determinado pelo seu preço de custo na praça de origem, acrescido das despesas realizadas com o seu transporte até o local de aplicação.
 
-<strong>Art</strong>. 46. Correrão por conta da dotação destinada à aquisição do material todas as despesas enumeradas nas letras <em>b, c</em> e <em>d</em> do art. 44.
+**Art**. 46. Correrão por conta da dotação destinada à aquisição do material todas as despesas enumeradas nas letras *b, c* e *d* do art. 44.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>DO JULGAMENTO DAS PROPOSTAS</em>
+*DO JULGAMENTO DAS PROPOSTAS*
 
-<strong>Art</strong>. 47. A adjudicação do fornecimento de qualquer material caberá ao autor da proposta mais barata, por mínima que seja a diferença entre ela e qualquer outra.
+**Art**. 47. A adjudicação do fornecimento de qualquer material caberá ao autor da proposta mais barata, por mínima que seja a diferença entre ela e qualquer outra.
 
 Parágrafo único. Se a proposta mais barata, no todo ou em parte, exceder de 10% os preços correntes da praça, far-se-á nova concorrência ou coleta de preços para o material ou artigo em que se verificar o excesso.
 
-<strong>Art</strong>. 48. Nos casos, devidamente justificados, de preferência de material de maior preço, poderá ser escolhido a que melhor satisfizer aos interêsses de serviço, submetendo-se, na hipótese, o processo à decisão superior.
+**Art**. 48. Nos casos, devidamente justificados, de preferência de material de maior preço, poderá ser escolhido a que melhor satisfizer aos interêsses de serviço, submetendo-se, na hipótese, o processo à decisão superior.
 
-<strong>Art</strong>. 49. Na hipótese de absoluta igualdade de condições entre duas ou mais propostas, serão consultados os concorrentes sôbre o maior abatimento que se comprometem a fazer para desempate, procedendo-se a sorteio, para decidir a qual dos proponentes caberá a adjudicação do fornecimento se nenhum dêles quiser fazer redução no preço de sua proposta.
+**Art**. 49. Na hipótese de absoluta igualdade de condições entre duas ou mais propostas, serão consultados os concorrentes sôbre o maior abatimento que se comprometem a fazer para desempate, procedendo-se a sorteio, para decidir a qual dos proponentes caberá a adjudicação do fornecimento se nenhum dêles quiser fazer redução no preço de sua proposta.
 
-<strong>Art</strong>. 50. Em igualdade de condições, terão sempre preferência os proponentes nacionais.
+**Art**. 50. Em igualdade de condições, terão sempre preferência os proponentes nacionais.
 
-<strong>Art</strong>. 51. Para a comparação dos preços cotados em moeda estrangeira, as normas serão estabelecidas, em cada caso, o edital da concorrência ou no convite para a coleta de preços.
+**Art**. 51. Para a comparação dos preços cotados em moeda estrangeira, as normas serão estabelecidas, em cada caso, o edital da concorrência ou no convite para a coleta de preços.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Do Contrato</em>
+*Do Contrato*
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>Da forma dos Contratos</em>
+*Da forma dos Contratos*
 
-<strong>Art</strong>. 52. As aquisições de material que dependerem de concorrências pública serão providas mediante contrato lavra no Departamento observados os princípios de direito comum, só se tornando efetivo depois de publicado no <em>Diário Oficial</em>.
+**Art**. 52. As aquisições de material que dependerem de concorrências pública serão providas mediante contrato lavra no Departamento observados os princípios de direito comum, só se tornando efetivo depois de publicado no *Diário Oficial*.
 
 § 1º Para garantia de execução do contato exigir-se-á prestação de caução.
 
 § 2º O contrato assim celebrado servirá para instruir o exame “a posteriori”, pelo Tribunal de Contas, das despesas resultantes do contrato.
 
-<strong>Art</strong>. 53. Os contratos celebrados com o Departamento dos Correios e Telégrafos terão duração certa, adstrita, sempre que possível, à vigência dos respectivos créditos, não podendo seu prazo exceder de cinco anos.
+**Art**. 53. Os contratos celebrados com o Departamento dos Correios e Telégrafos terão duração certa, adstrita, sempre que possível, à vigência dos respectivos créditos, não podendo seu prazo exceder de cinco anos.
 
-<strong>Art</strong>. 54. As despesas de cópia, sêlo e outras relativas aos contratos cabem ao contratante.
+**Art**. 54. As despesas de cópia, sêlo e outras relativas aos contratos cabem ao contratante.
 
-<strong>Art</strong>. 55. Sempre que os contratos forem celebrados com pessoas jurídicas, provarão estas a sua existência legal. Em se tratando de Companhia ou Sociedades, constituídas no estrangeiro, cumpre-lhes provas que estão legalmente autorizadas a funcionar no Brasil.
+**Art**. 55. Sempre que os contratos forem celebrados com pessoas jurídicas, provarão estas a sua existência legal. Em se tratando de Companhia ou Sociedades, constituídas no estrangeiro, cumpre-lhes provas que estão legalmente autorizadas a funcionar no Brasil.
 
-<strong>Art</strong>. 56. Em nenhum caso poderá ser permitida a celebração de contratos verbais com o Departamento, sendo nulos de pleno direito os que porventura assim forem concluídos.
+**Art**. 56. Em nenhum caso poderá ser permitida a celebração de contratos verbais com o Departamento, sendo nulos de pleno direito os que porventura assim forem concluídos.
 
-<strong>CAPÍTULO XIII</strong>
+**CAPÍTULO XIII**
 
-<em>Da competência para celebração dos contratos</em>
+*Da competência para celebração dos contratos*
 
-<strong>Art</strong>. 57. Os contratos para a aquisição de material serão celebrados pelo Diretor Geral e, por delegação sua, pelos Diretores, na Diretoria Geral e Diretores Regionais.
+**Art**. 57. Os contratos para a aquisição de material serão celebrados pelo Diretor Geral e, por delegação sua, pelos Diretores, na Diretoria Geral e Diretores Regionais.
 
-<strong>Art</strong>. 58. Os contratos cujas despesas tenham de ser realizadas em mais de um exercício, financeiro ficarão sujeitos à aprovação prévia do Ministério da Viação e Obras Públicas; e aquêles cujo valor total ultrapassar Cr$ 10.000.000,00 (dez milhões de cruzeiros) dependerão, ainda, de registro prévio do Tribunal de Contas.
+**Art**. 58. Os contratos cujas despesas tenham de ser realizadas em mais de um exercício, financeiro ficarão sujeitos à aprovação prévia do Ministério da Viação e Obras Públicas; e aquêles cujo valor total ultrapassar Cr$ 10.000.000,00 (dez milhões de cruzeiros) dependerão, ainda, de registro prévio do Tribunal de Contas.
 
-<strong>CAPÍTULO XIV</strong>
+**CAPÍTULO XIV**
 
-<em>Das cláusulas essenciais e acessórias dos contratos resultantes de concorrências públicas</em>
+*Das cláusulas essenciais e acessórias dos contratos resultantes de concorrências públicas*
 
-<strong>Art</strong>. 59. Os contratos terão cláusulas essenciais e acessórias.
+**Art**. 59. Os contratos terão cláusulas essenciais e acessórias.
 
 § 1º São cláusulas essenciais:
 
@@ -348,11 +346,11 @@ f) a cláusula onde expressamente se declare que o contrato não entrará em vig
 
 § 2º São cláusulas acessórias tôdas as demais reguladoras das condições necessárias à integral e perfeita execução dos contratos, inclusive as que digam respeito à quitação com o serviço militar e à prova, dado o caso, de ser o contratante representante exclusivo do material objeto do contrato.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Vínculo Obrigacional na Concorrência Administrativa ou Coleta de Preços</em>
+*Do Vínculo Obrigacional na Concorrência Administrativa ou Coleta de Preços*
 
-<strong>Art</strong>. 60. Nos casos de concorrência administrativa ou coleta de preços, o vínculo obrigacional se tonará efetivo com o recebimento, pelo fornecedor, da requisição do material, documento êsse que constituirá o empenho da despesa.
+**Art**. 60. Nos casos de concorrência administrativa ou coleta de preços, o vínculo obrigacional se tonará efetivo com o recebimento, pelo fornecedor, da requisição do material, documento êsse que constituirá o empenho da despesa.
 
 Parágrafo único. Essa requisição deverá indicar:
 
@@ -368,71 +366,71 @@ e) a declaração expressa de ter sido a importância deduzida do crédito respe
 
 f) o prazo para a entrega do material.
 
-<strong>CAPÍTULO XVI</strong>
+**CAPÍTULO XVI**
 
-<em>Da Caução</em>
+*Da Caução*
 
-<strong>Art</strong>. 61. São admitidas duas espécies de caução:
+**Art**. 61. São admitidas duas espécies de caução:
 
 a) real;
 
 b) fideijussória.
 
-<strong>Art</strong>. 62. A caução real será prestada em dinheiro ou apólices da dívida pública, a fideijussória, por meio de documento de responsabilidade bancária, que garanta a integral execução dos compromissos assumidos.
+**Art**. 62. A caução real será prestada em dinheiro ou apólices da dívida pública, a fideijussória, por meio de documento de responsabilidade bancária, que garanta a integral execução dos compromissos assumidos.
 
-<strong>Art</strong>. 63. Quando a caução fôr prestada em títulos da dívida pública, apresentará o interessado certidão de que os mesmos se acham inscritos em nome do caucionante e livres e desembaraçados de quaisquer ônus, as forem nominativos.
+**Art**. 63. Quando a caução fôr prestada em títulos da dívida pública, apresentará o interessado certidão de que os mesmos se acham inscritos em nome do caucionante e livres e desembaraçados de quaisquer ônus, as forem nominativos.
 
-<strong>Art</strong>. 64. Quando se tratar de caução da natureza referida, no artigo anterior, o Departamento comunicará o fato á Caixa de Amortização ou às Delegacias Fiscais, para a averbação da competente cláusula.
+**Art**. 64. Quando se tratar de caução da natureza referida, no artigo anterior, o Departamento comunicará o fato á Caixa de Amortização ou às Delegacias Fiscais, para a averbação da competente cláusula.
 
-<strong>Art</strong>. 65. O valor da caução será estipulado, para cada caso, no edital de concorrência, e, qualquer que seja êsse valor, será ela prestada no Departamento ou nas Diretorias Regionais.
+**Art**. 65. O valor da caução será estipulado, para cada caso, no edital de concorrência, e, qualquer que seja êsse valor, será ela prestada no Departamento ou nas Diretorias Regionais.
 
-<strong>Art</strong>. 66. Para garantir a assinatura de contratos ou para assegurar o fornecimento de material a ser adquirido por meio de concorrência administrativa, exigir-se-á sempre caução real, sendo a fidejussória admitida, a critério da autoridade competente para garantir a execução de obrigações oriundas de contratos.
+**Art**. 66. Para garantir a assinatura de contratos ou para assegurar o fornecimento de material a ser adquirido por meio de concorrência administrativa, exigir-se-á sempre caução real, sendo a fidejussória admitida, a critério da autoridade competente para garantir a execução de obrigações oriundas de contratos.
 
-<strong>Art</strong>. 67. As cauções só poderão ser levantadas quando satisfeitas integralmente as obrigações e mediante despacho da autoridade competente.
+**Art**. 67. As cauções só poderão ser levantadas quando satisfeitas integralmente as obrigações e mediante despacho da autoridade competente.
 
-<strong>Art</strong>. 68. Serão descontadas das cauções, mediante processo sumário, as muitas e diferenças de preços verificadas nos casos previstos neste regulamento, sendo o fornecedor intimado a completar o valor da caução prestada, marcando-se-lhe para isso prazo até 10 dias.
+**Art**. 68. Serão descontadas das cauções, mediante processo sumário, as muitas e diferenças de preços verificadas nos casos previstos neste regulamento, sendo o fornecedor intimado a completar o valor da caução prestada, marcando-se-lhe para isso prazo até 10 dias.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Da entrega, recebimento e aceitação do material</em>
+*Da entrega, recebimento e aceitação do material*
 
-<strong>CAPÍTULO XVII</strong>
+**CAPÍTULO XVII**
 
-<em>Da Entrega</em>
+*Da Entrega*
 
-<strong>Art</strong>. 69. O material encomendado deverá ser entregue pelo fornecedor nos almoxarifados e depósitos do Departamento ou no local indicado nos editais de concorrência ou nos convites para coleta de preços.
+**Art**. 69. O material encomendado deverá ser entregue pelo fornecedor nos almoxarifados e depósitos do Departamento ou no local indicado nos editais de concorrência ou nos convites para coleta de preços.
 
-<strong>CAPÍTULO XVIII</strong>
+**CAPÍTULO XVIII**
 
-<em>Do Recebimento</em>
+*Do Recebimento*
 
-<strong>Art</strong>. 70. O recibo passado em nota de fornecimento apenas transferirá para o Departamento a responsabilidade pela guarda e conservação do material e servirá ao fornecedor como ressalva quanto aos prazos marcados para aquele fim, não importando isso em aceitação do material.
+**Art**. 70. O recibo passado em nota de fornecimento apenas transferirá para o Departamento a responsabilidade pela guarda e conservação do material e servirá ao fornecedor como ressalva quanto aos prazos marcados para aquele fim, não importando isso em aceitação do material.
 
 § 1º No caso de recusa de material, o fornecedor fica obrigado a retirá-lo dentro do prazo que, para isso, fôr fixado.
 
 § 2º Excedido êsse prazo, o material será recolhido ao Depósito do Serviço de Patrimônio da União ou ao Depósito Público nos Estados, correndo tôdas as despesas e riscos por conta do fornecedor.
 
-<strong>CAPÍTULO XIX</strong>
+**CAPÍTULO XIX**
 
-<em>Da Aceitação</em>
+*Da Aceitação*
 
-<strong>Art</strong>. 71. Para a aceitação do material, serão designados funcionários especializados, que verificarão com o almoxarife ou o responsável pelo almoxarifado ou depósito se as suas condições ou qualidades correspondem às respectivas especificações.
+**Art**. 71. Para a aceitação do material, serão designados funcionários especializados, que verificarão com o almoxarife ou o responsável pelo almoxarifado ou depósito se as suas condições ou qualidades correspondem às respectivas especificações.
 
-<strong>Art</strong>. 72. Sempre que, a juízo do Almoxarife, do responsável pelo almoxarifado ou depósito ou ainda, do setor requisitante, o material oferecer qualquer dificuldade para sua aceitação devido à sal natureza específica ou técnica deverão ser solicitados os exames ou testes a laboratórios, oficiais ou não, nesta Capital ou nos Estados, além de vistorias por parte dos setores requisitantes.
+**Art**. 72. Sempre que, a juízo do Almoxarife, do responsável pelo almoxarifado ou depósito ou ainda, do setor requisitante, o material oferecer qualquer dificuldade para sua aceitação devido à sal natureza específica ou técnica deverão ser solicitados os exames ou testes a laboratórios, oficiais ou não, nesta Capital ou nos Estados, além de vistorias por parte dos setores requisitantes.
 
-<strong>Art</strong>. 73. Verificada, embora posteriormente, quaisquer fraude praticada para burlar ou prejudicar a perfeita inspeção do material, será o fornecedor responsabilizado.
+**Art**. 73. Verificada, embora posteriormente, quaisquer fraude praticada para burlar ou prejudicar a perfeita inspeção do material, será o fornecedor responsabilizado.
 
-<strong>Art</strong>. 74. Para o material de importação poderão ser exigidos certificados de exames técnicos procedidos por organizações especializadas.
+**Art**. 74. Para o material de importação poderão ser exigidos certificados de exames técnicos procedidos por organizações especializadas.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Das sanções</em>
+*Das sanções*
 
-<strong>CAPÍTULO XX</strong>
+**CAPÍTULO XX**
 
-<em>Das Penalidades e Recursos</em>
+*Das Penalidades e Recursos*
 
-<strong>Art</strong>. 75. Os fornecedores que deixarem de satisfazer os compromissos assumidos  ficarão sujeitos:
+**Art**. 75. Os fornecedores que deixarem de satisfazer os compromissos assumidos  ficarão sujeitos:
 
 a) a multas;
 
@@ -442,87 +440,87 @@ c) a declaração de inidoneidade.
 
 Parágrafo único. As sanções a que se referem êste artigo aplicadas pelas autoridades que tiverem decidido sôbre as aquisições de material.
 
-<strong>Art</strong>. 76. As multas poderão ser aplicadas até o limite da caução ou de um têrço do valor do fornecimento, e os recursos interpostos do ato que as houver aplicado não serão encaminhados sem o depósito prévio das respectivas importâncias.
+**Art**. 76. As multas poderão ser aplicadas até o limite da caução ou de um têrço do valor do fornecimento, e os recursos interpostos do ato que as houver aplicado não serão encaminhados sem o depósito prévio das respectivas importâncias.
 
-<strong>Art</strong>. 77. O ato de aplicação das penalidades previstas no art. 74 será obrigatoriamente publicado no Diário Oficial ou no órgão oficial nos Estados, cabendo recursos à autoridade superior dentro do prazo de 10 dias contados da data da publicação feita.
+**Art**. 77. O ato de aplicação das penalidades previstas no art. 74 será obrigatoriamente publicado no Diário Oficial ou no órgão oficial nos Estados, cabendo recursos à autoridade superior dentro do prazo de 10 dias contados da data da publicação feita.
 
-<strong>Art</strong>. 78. O Departamento comunicará ao Ministério da viação e Obras Públicas, os nomes dos fornecedores julgados idôneos.
+**Art**. 78. O Departamento comunicará ao Ministério da viação e Obras Públicas, os nomes dos fornecedores julgados idôneos.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Da guarda, requisição, distribuição e contrôle do material</em>
+*Da guarda, requisição, distribuição e contrôle do material*
 
-<strong>CAPÍTULO XXI</strong>
+**CAPÍTULO XXI**
 
-<em>DA QUARDA</em>
+*DA QUARDA*
 
-<strong>Art</strong>. 79. A guarda do material incumbirá aos almoxarifados e depósitos do Departamento, localizados de acôrdo com as necessidades dos serviços e tendo em vista os centros de manutenção de material que forem estabelecidos.
+**Art**. 79. A guarda do material incumbirá aos almoxarifados e depósitos do Departamento, localizados de acôrdo com as necessidades dos serviços e tendo em vista os centros de manutenção de material que forem estabelecidos.
 
 Parágrafo único. As normas para a guarda do material, inclusive daquele fornecido para aplicação, serão estabelecidas nas instruções previstas no art. 96.
 
-<strong>CAPÍTULO XXII</strong>
+**CAPÍTULO XXII**
 
-<em>DA REQUISIÇÃO</em>
+*DA REQUISIÇÃO*
 
-<strong>Art</strong>. 80. As normas e o calendário para as requisições de material pelos diferentes órgãos e setores do Departamento serão fixados nas instruções expedidas pelo Diretor Geral.
+**Art**. 80. As normas e o calendário para as requisições de material pelos diferentes órgãos e setores do Departamento serão fixados nas instruções expedidas pelo Diretor Geral.
 
-<strong>CAPÍTULO XXIII</strong>
+**CAPÍTULO XXIII**
 
-<em>DA DISTRIBUIÇÃO</em>
+*DA DISTRIBUIÇÃO*
 
-<strong>Art</strong>. 81. A distribuição do material pelos diversos almoxarifados e depósitos será feita conforme as necessidades previsíveis dos serviços nas diferentes regiões e de acôrdo com o programa de trabalho traçado, observadas as instruções e que para êsse fim forem expedidas.
+**Art**. 81. A distribuição do material pelos diversos almoxarifados e depósitos será feita conforme as necessidades previsíveis dos serviços nas diferentes regiões e de acôrdo com o programa de trabalho traçado, observadas as instruções e que para êsse fim forem expedidas.
 
-<strong>CAPÍTULO XXIV</strong>
+**CAPÍTULO XXIV**
 
-<em>DO CONTRÔLE</em>
+*DO CONTRÔLE*
 
-<strong>Art</strong>. 82. Para contrôle do material adquirido, guardado e distribuído serão adotados processos adequados, tendo em vista o conhecimento, em qualquer tempo, da situação dos estoques, consumo, custos e outros dados necessários, á perfeita orientação da Administração do Departamento, procedendo-se a inventário pelo menos uma vez por ano.
+**Art**. 82. Para contrôle do material adquirido, guardado e distribuído serão adotados processos adequados, tendo em vista o conhecimento, em qualquer tempo, da situação dos estoques, consumo, custos e outros dados necessários, á perfeita orientação da Administração do Departamento, procedendo-se a inventário pelo menos uma vez por ano.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Das Cessões, permutas, recuperação, alienação e baixa material</em>
+*Das Cessões, permutas, recuperação, alienação e baixa material*
 
-<strong>CAPÍTULO XXV</strong>
+**CAPÍTULO XXV**
 
-<em>Das cessões e permutas</em>
+*Das cessões e permutas*
 
-<strong>Art</strong>. 83. As cessões e as permutas poderão ser realizadas em caráter definitivo ou provisório, quando referentes a bens móveis por sua natureza sendo consideradas sempre em caráter definitivo quando disserem respeito a material precário, de transformação e de consumo.
+**Art**. 83. As cessões e as permutas poderão ser realizadas em caráter definitivo ou provisório, quando referentes a bens móveis por sua natureza sendo consideradas sempre em caráter definitivo quando disserem respeito a material precário, de transformação e de consumo.
 
-<strong>Art</strong>. 84. As cessões e as permutas constarão de têrmo circunstanciado em que fiquem firmadas as suas condições, indicando-se sempre o valor estimativo do material e a forma de indenização quando se tratar de permutas.
+**Art**. 84. As cessões e as permutas constarão de têrmo circunstanciado em que fiquem firmadas as suas condições, indicando-se sempre o valor estimativo do material e a forma de indenização quando se tratar de permutas.
 
-<strong>Art</strong>. 85. Nenhum material, ainda que desnecessário ou inservível podem ser cedido gratuitamente a particulares.
+**Art**. 85. Nenhum material, ainda que desnecessário ou inservível podem ser cedido gratuitamente a particulares.
 
-<strong>Art</strong>. 86. As cessões e as permutas deverão ser solicitadas pelo Chefe de Repartição ou entidade interessada e só poderão realizar-se depois de autorizadas pelo órgão competente ao Departamento.
+**Art**. 86. As cessões e as permutas deverão ser solicitadas pelo Chefe de Repartição ou entidade interessada e só poderão realizar-se depois de autorizadas pelo órgão competente ao Departamento.
 
-<strong>Art</strong>. 87. As cessões e as permutas só serão autorizadas quando atenderem à conveniência do Departamento.
+**Art**. 87. As cessões e as permutas só serão autorizadas quando atenderem à conveniência do Departamento.
 
-<strong>Art</strong>. 88. As cessões e as permutas serão sempre precedidas de vistoria da qual se lavrará um têrmo em que figurem os elementos necessários para o exame da autoridade que tiver de decidir sôbre o assunto.
+**Art**. 88. As cessões e as permutas serão sempre precedidas de vistoria da qual se lavrará um têrmo em que figurem os elementos necessários para o exame da autoridade que tiver de decidir sôbre o assunto.
 
-<strong>CAPÍTULO XXVI</strong>
+**CAPÍTULO XXVI**
 
-<em>Da Recuperação</em>
+*Da Recuperação*
 
-<strong>Art</strong>. 89. O Departamento providenciará a recuperação do material julgado necessário aos seus serviços, determinando os centros em que, para aquêle fim, êsse material deverá ser recolhido.
+**Art**. 89. O Departamento providenciará a recuperação do material julgado necessário aos seus serviços, determinando os centros em que, para aquêle fim, êsse material deverá ser recolhido.
 
-<strong>Art</strong>. 90. O material considerado inútil, inservível ou obsoleto, deverá ser recolhido aos centros de recuperação de que trata o artigo anterior.
+**Art**. 90. O material considerado inútil, inservível ou obsoleto, deverá ser recolhido aos centros de recuperação de que trata o artigo anterior.
 
-<strong>CAPÍTULO XXVII</strong>
+**CAPÍTULO XXVII**
 
-<em>Da Alienação</em>
+*Da Alienação*
 
-<strong>Art</strong>. 91. Será o material julgado inaproveitável para o serviço mediante autorização expressa do órgão competente do Departamento.
+**Art**. 91. Será o material julgado inaproveitável para o serviço mediante autorização expressa do órgão competente do Departamento.
 
-<strong>Art</strong>. 92. Far-se-á alienação mediante concorrência pública, indicando-se no edital as características do material e o seu valor provável.
+**Art**. 92. Far-se-á alienação mediante concorrência pública, indicando-se no edital as características do material e o seu valor provável.
 
 § 1º Ultimado o processo de concorrência, e aceita a proposta mais vantajosa, o material será entregue à vista do recibo do pagamento do respectivo preço.
 
 § 2º Se não se apresentarem licitantes ou se os preços oferecidos não atingirem o valor indicado no edital de concorrência, o material será vendido em leilão a quem maior preço oferecer, mediante pagamento no ato.
 
-<strong>CAPÍTULO XXVIII</strong>
+**CAPÍTULO XXVIII**
 
-<em>Da Baixa</em>
+*Da Baixa*
 
-<strong>Art</strong>. 93. Dar-se-á baixa do material nos casos de:
+**Art**. 93. Dar-se-á baixa do material nos casos de:
 
 a) inutilidade total em conseqüência de acidente;
 
@@ -532,20 +530,20 @@ c) extravio ou roubo;
 
 d) alienação.
 
-<strong>Art</strong>. 94. Nos casos de extravio ou roubo a solicitação da baixa será instruída com o processo instaurado para a averiguação das causas do extravio ou roubo e apuração da responsabilidade.
+**Art**. 94. Nos casos de extravio ou roubo a solicitação da baixa será instruída com o processo instaurado para a averiguação das causas do extravio ou roubo e apuração da responsabilidade.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 95. Em casos excepcionais o Diretor Geral dos Correios e Telégrafos providenciará até o dia 15 de Dezembro de cada ano, a fim de que seja assegurado o pagamento de material já encomendado e cuja entrega não se possa realizar por causa justificada, dentro do ano financeiro.
+**Art**. 95. Em casos excepcionais o Diretor Geral dos Correios e Telégrafos providenciará até o dia 15 de Dezembro de cada ano, a fim de que seja assegurado o pagamento de material já encomendado e cuja entrega não se possa realizar por causa justificada, dentro do ano financeiro.
 
-<strong>Art</strong>. 96. O Diretor Geral dos Correios e Telégrafos expedirá as instruções que se fizerem necessárias à perfeita execução do presente Regulamento.
+**Art**. 96. O Diretor Geral dos Correios e Telégrafos expedirá as instruções que se fizerem necessárias à perfeita execução do presente Regulamento.
 
-<em>Disposição Transitória</em>
+*Disposição Transitória*
 
-<strong>Art</strong>. 97. Enquanto não forem instaladas suas oficinas próprias, o Departamento, para atender com presteza às necessidades dos serviços nas diferentes regiões do país, poderá, incumbir da execução de trabalhos gráficos, não só a Imprensa Nacional, como também qualquer estabelecimento particular.
+**Art**. 97. Enquanto não forem instaladas suas oficinas próprias, o Departamento, para atender com presteza às necessidades dos serviços nas diferentes regiões do país, poderá, incumbir da execução de trabalhos gráficos, não só a Imprensa Nacional, como também qualquer estabelecimento particular.
 
 Rio de Janeiro, 21 de Janeiro de 1946.
 
-<strong>MAURÍCIO JOPPERT DA SILVA</strong>
+**MAURÍCIO JOPPERT DA SILVA**

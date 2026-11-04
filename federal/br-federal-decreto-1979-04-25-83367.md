@@ -1,5 +1,3 @@
-###DEC-083367-0-000-25-04-1979@@@
-
 DECRETO Nº 83.367, DE 25 DE ABRIL DE 1979.
 
 Dispõe sobre a composição do Conselho de Desenvolvimento Econômico (CDE).

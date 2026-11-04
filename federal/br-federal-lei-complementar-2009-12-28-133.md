@@ -1,5 +1,3 @@
-###LCP-000133-0-000-28-12-2009@@@
-
 LEI COMPLEMENTAR Nº 133, DE 28 DE DEZEMBRO DE 2009
 
 Altera a Lei Complementar no 123, de 14 de dezembro de 2006, para modificar o enquadramento das atividades de produções cinematográficas, audiovisuais, artísticas e culturais no Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte.

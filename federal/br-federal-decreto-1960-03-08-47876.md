@@ -1,5 +1,3 @@
-###DEC-047876-0-000-08-03-1960@@@
-
 DECRETO Nº 47.876, DE 8 DE MARÇO DE 1960.
 
 Autoriza a Companhia de Luz e Fôrça de Parnaíba a ampliar as suas instalações termoelétricas.

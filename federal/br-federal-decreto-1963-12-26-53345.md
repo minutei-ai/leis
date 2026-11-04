@@ -1,5 +1,3 @@
-###DEC-053345-0-000-26-12-1963@@@
-
 decreto nº 53.345, de 23 de dezembro de 1963.
 
 Declara de utilidade pública a Associação Evangélica Beneficente de Minas Gerais, com sede em Belo Horizonte, estado de Minas Gerais.

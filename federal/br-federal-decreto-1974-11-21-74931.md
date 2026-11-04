@@ -1,5 +1,3 @@
-###DEC-074931-0-000-21-11-1974@@@
-
 DECRETO Nº 74.931, DE 21 DE NOVEMBRO DE 1974.
 
 Altera dispositivos do Regulamento do seguro de Acidentes do Trabalho.

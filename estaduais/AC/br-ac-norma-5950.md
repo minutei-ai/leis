@@ -1,6 +1,10 @@
 > **LEI Nº 4.316, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Veda a utilização de verba pública em produtos, serviços, espaços ou eventos que promovam, direta ou indireta, a erotização precoce, a sexualização ou outros conteúdos impróprios ao desenvolvimento psíquico de crianças e adolescentes, no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Veda a utilização de verba pública em produtos, serviços, espaços ou eventos que promovam, direta ou indireta, a erotização precoce, a sexualização ou outros conteúdos impróprios ao desenvolvimento psíquico de crianças e adolescentes, no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

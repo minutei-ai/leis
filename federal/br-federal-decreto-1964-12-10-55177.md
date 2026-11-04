@@ -1,5 +1,3 @@
-###DEC-055177-0-000-10-12-1964@@@
-
 DECRETO Nº 55.177, DE 10 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Ivo Felisberto de Souza a pesquisar mármore e calcita, no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEL-006950-0-000-11-10-1944@@@
-
 DECRETO-LEI N. 6.950 – DE 11 DE OUTUBRO DE 1944
 
 Cria funções gratificadas para o Serviço de Estatística da Previdência e Trabalho, do Ministério do Trabalho, Indústria e Comércio e dá outras providências

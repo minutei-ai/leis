@@ -1,5 +1,3 @@
-###DEC-055251-0-000-22-12-1964@@@
-
 DECRETO Nº 55.251, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza a Companhia de Mineração Serra da Farofa - CEFAR - a pesquisar minérios de ferro e de manganês, nos municípios de Brumadinho, Mateus Leme e Igarapé, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-003620-0-000-17-09-1941@@@
-
 DECRETO-LEI N. 3.620 – DE 17 DE SETEMBRO DE 1941
 
 Eleva o padrão de vencimento do cargo que indica e dá outras providências

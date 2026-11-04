@@ -1,5 +1,3 @@
-###DEC-085443-0-000-02-12-1980@@@
-
 Decreto nº 85.443, de 02 de dezembro de 1980
 
 Autoriza o aumento do Capital Social da Empresa Brasileira de Planejamento de Transporte - GEIPOT.

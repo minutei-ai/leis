@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211910)<br>
-
 # LEI N° 18.349, DE 28 DE NOVEMBRO DE 2025
 
 ## (Projeto de lei n° 754/2024, do Deputado Paulo Correa Jr - PSD)

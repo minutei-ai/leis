@@ -1,5 +1,3 @@
-###DEC-047801-0-000-13-02-1960@@@
-
 DECRETO Nº 47.801, DE 13 de fevereiro DE 1960.
 
 Dispõe sôbre a lotação de servidores cedidos à R.F.F.S.A.
@@ -381,8 +379,6 @@ Rio de Janeiro, em 13 de fevereiro de 1960; 139º da Independência e 72º da Re
 juscelino kubitschek
 
 Ernani do Amaral Peixoto
-
-###DEC-047801-0-000-13-02-1960@@@RET01+++
 
 decreto nº 47.801, de 13 de fevereiro de 1960.
 

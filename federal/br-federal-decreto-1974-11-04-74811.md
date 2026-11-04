@@ -1,5 +1,3 @@
-###DEC-074811-0-000-04-11-1974@@@
-
 DECRETO Nº 74.811, DE 4 DE NOVEMBRO DE 1974
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Fronteira Ltda., autorizada a usar a denominação de Rádio Independência de São José do Rio Preto, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São José do Rio Preto, Estado de São Paulo.

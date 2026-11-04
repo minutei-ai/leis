@@ -1,5 +1,3 @@
-###DEC-075795-0-000-28-05-1975@@@
-
 DECRETO Nº 75.795, DE 28 DE MAIO DE 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras "Castro Alves", mantida pelo Instituto de Ensino Superior "Castro Alves" - IESCA, com sede na cidade de São Paulo, Estado de São Paulo.

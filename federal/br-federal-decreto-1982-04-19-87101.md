@@ -1,5 +1,3 @@
-###DEC-087101-0-000-19-04-1982@@@
-
 Decreto nº 87.101, de 19 de abril de 1982
 
 Autoriza o aumento do Capital Social da companhia Siderúrgica da Amazônia - SIDERAMA.

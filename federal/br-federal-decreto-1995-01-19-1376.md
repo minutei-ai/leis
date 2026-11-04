@@ -1,7 +1,3 @@
-1
-
-###DEC-001376-0-000-19-01-1995@@@
-
 DECRETO N° 1.376, DE 19 DE JANEIRO DE 1995
 
 Extingue a Comissão Especial criada pelo Decreto nº 1.001, de 6 de dezembro de 1993.

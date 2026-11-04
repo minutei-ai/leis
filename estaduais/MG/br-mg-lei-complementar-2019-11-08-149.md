@@ -151,7 +151,3 @@ ANEXO II
 Relação das comarcas com os municípios que as integram
 
 (...) (...) 85 – Conselheiro Pena Conselheiro Pena Cuparaque Goiabeira Tumiritinga (...) (...) 114 – Governador Valadares Governador Valadares Alpercata Frei Inocêncio Marilac Mathias Lobato Periquito São Geraldo da Piedade (...) (...) 127 – Ipanema Ipanema Conceição de Ipanema Pocrane São José do Mantimento Taparuba (Liminar deferida nos autos da ação nº 01664796-33.2019.8.13.0000, em trâmite no Tribunal de Justiça de Minas Gerais, para suspender a eficácia e a aplicabilidade das alterações promovidas no item 127 do Anexo II, até o julgamento final da ação. Acórdão publicado em 23/9/2020.) (...) (...) 151 – Jaíba Jaíba Matias Cardoso (...) (...) 164 – Lajinha Lajinha Chalé (...) (...) (Liminar deferida nos autos da ação nº 01664796-33.2019.8.13.0000, em trâmite no Tribunal de Justiça de Minas Gerais, para suspender a eficácia e a aplicabilidade das alterações promovidas no item 164 do Anexo II, até o julgamento final da ação. Acórdão publicado em 23/9/2020.) 172 – Manga Manga Miravânia São João das Missões (...) (...) 299 – Tarumirim Tarumirim Alvarenga Engenheiro Caldas Fernandes Tourinho Sobrália (...) (...) 320 – Virginópolis Virginópolis Divinolândia de Minas Gonzaga Santa Efigênia de Minas Sardoá”
-
-\======================
-
-Data da última atualização: 17/3/2021.

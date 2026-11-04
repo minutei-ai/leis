@@ -1,5 +1,3 @@
-###DEC-058216-0-000-19-04-1966@@@
-
 DECRETO Nº 58.216, DE 19 DE ABRIL DE 1966.
 
 Concede á Commercial Union Assurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

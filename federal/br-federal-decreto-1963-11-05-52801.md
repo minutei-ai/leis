@@ -1,5 +1,3 @@
-###DEC-052801-0-000-05-11-1963@@@
-
 DECRETO Nº 52.801, DE 5 DE NOVEMBRO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da Italbrás - Companhia de Seguros Gerais, inclusive aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 5 de novembro de 1963; 142º da Independência e 75º da República.
 JOÃO GOULART
 
 Egydio Michaelsen
-
-###DEC-052801-0-000-05-11-1963@@@RET01+++
 
 DECRETO Nº 52.801, DE 5 DE NOVEMBRO DE 1963.
 

@@ -1,5 +1,3 @@
-###DEC-067239-0-000-23-09-1970@@@
-
 DECRETO Nº 67.239, DE 23 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública a Sociedade Beneficente "Linath Haizerdek", com sede em São Paulo, Estado de São Paulo.

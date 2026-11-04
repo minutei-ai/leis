@@ -1,5 +1,3 @@
-###DEC-096937-0-000-04-10-1988@@@
-
 DECRETO Nº 96.937, DE 4 DE OUTUBRO DE 1988
 
 Renova a autorização outorgada à Oxford S.A. Indústria e Comércio - OSAICO para utilizar o trabalho noturno de mulher maior de dezoito anos.

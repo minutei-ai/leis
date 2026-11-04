@@ -1,5 +1,3 @@
-###DEC-074200-0-000-21-06-1974@@@
-
 DECRETO Nº 74.200, DE 21 DE JUNHO DE 1974.
 
 Altera o Decreto nº 63.196, de 29 de agosto de 1968, que dispõe sobre o sistema regulador de preços no mercado interno e dá outras providências.

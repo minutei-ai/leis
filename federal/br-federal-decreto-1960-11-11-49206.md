@@ -1,5 +1,3 @@
-###DEC-049206-0-000-11-11-1960@@@
-
 DECRETO Nº 49.206, DE 11 DE NOVEMBRO DE 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista do Quartel General da 2ª Zona Aérea para a da Diretoria de Aeronáutica Civil.

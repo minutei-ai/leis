@@ -1,5 +1,3 @@
-###DEC-088987-0-000-10-11-1983@@@
-
 Decreto nº 88.987, de 10 de novembro de 1983
 
 Concede à SIDERURGIA BRASILEIRA S.A. - SIDERBRÁS (Grupo SIDERBRÁS) autorização para proceder ao aumento de seu capital autorizado, bem como do capital social.

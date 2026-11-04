@@ -1,5 +1,3 @@
-###DEC-068395-0-000-23-03-1971@@@
-
 DECRETO Nº 68.395, DE 23 DE MARÇO DE 1971.
 
 Declara de utilidade pública o Instituto Coração de Jesus, com sede em Santo André, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-050280-0-000-18-02-1961@@@
-
 DECRETO Nº 50.280, DE 18 DE FEVEREIRODE 1961.
 
 Declara de utilidade pública a “Província Brasileira da Congregação das Irmãs “Filhas” de Caridade de São Vicente de Paulo”, com sede em Curitiba, Estado do Paraná.

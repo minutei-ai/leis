@@ -1,5 +1,3 @@
-###DEC-073851-0-000-14-03-1974@@@
-
 DECRETO Nº 73.851, DE 14 DE março DE 1974.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

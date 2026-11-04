@@ -1,5 +1,3 @@
-###DEC-086708-0-000-09-12-1981@@@
-
 Decreto nº 86.708, de 9 de dezembro de 1981
 
 Concede autorização ao navio "FARNELLA" para realizar, no mar territorial do Brasil, os serviços que especifica.

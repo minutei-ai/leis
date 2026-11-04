@@ -1,5 +1,3 @@
-###DEC-004166-0-000-13-03-2002@@@
-
 DECRETO Nº 4.166, DE 13 DE MARÇO DE 2002
 
 Altera o § 1º do art. 33 do Decreto nº 3.000, de 26 de março de 1999, que regulamenta a tributação, fiscalização, arrecadação e administração do Imposto sobre a Renda e Proventos de Qualquer Natureza.

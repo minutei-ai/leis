@@ -1,5 +1,3 @@
-###DEC-050024-0-000-24-01-1961@@@
-
 DECRETO Nº 50.024, DE 24 DE JANEIRO DE 1961.
 
 Autoriza Mineração Bandeirante Ltda. a pesquisar caulim no município de Itabirito, Estado de Minas Gerais.

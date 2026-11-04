@@ -1,5 +1,3 @@
-###DEC-059018-0-000-08-08-1966@@@
-
 DECRETO Nº 59.018, DE 8 DE AGôSTO DE 1966.
 
 Abre ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral da Bahia, o Crédito especial de Cr$512.729, para o fim que especifica.

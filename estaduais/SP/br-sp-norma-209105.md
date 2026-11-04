@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209105)<br>
-
 # DECRETO N° 68.330, DE 07 DE FEVEREIRO DE 2024
 
 ### _Altera o Decreto n° 67.642, de 10 de abril de 2023, que regulamenta a Lei n° 17.183, de 18 de outubro de 2019, para instituir o Comitê de Ações Preventivas da Política sobre Drogas._

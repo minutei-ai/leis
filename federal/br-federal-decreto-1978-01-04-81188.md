@@ -1,5 +1,3 @@
-###DEC-081188-0-000-04-01-1978@@@
-
 Decreto nº 81.188, de 4 de janeiro de 1978.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

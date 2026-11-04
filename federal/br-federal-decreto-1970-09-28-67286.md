@@ -1,5 +1,3 @@
-###DEC-067286-0-000-28-09-1970@@@
-
 DECRETO Nº 67.286, DE 28 DE SETEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Permanente - do Ministério da Indústria e do Comércio, cargos originários do Departamento Administrativo de Pessoal Civil (DASP).

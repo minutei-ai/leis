@@ -1,5 +1,3 @@
-###DEC-059716-0-000-13-12-1966@@@
-
 DECRETO Nº 59.716, DE 13 DE DEZEMBRO DE 1966.
 
 Extingue funções gratificadas no Ministério da Fazenda - Serviço de Transportes da Presidência da República.

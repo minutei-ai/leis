@@ -1,5 +1,3 @@
-###DEC-076575-0-000-10-11-1975@@@
-
 DECRETO Nº 76.575, DE 10 DE NOVEMBRO DE 1975.
 
 Autorizar o registro, em nome da União Federal, dos imóveis que mencionar situados no Estado do Rio de Janeiro.

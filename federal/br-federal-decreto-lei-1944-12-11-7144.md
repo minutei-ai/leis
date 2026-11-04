@@ -1,5 +1,3 @@
-###DEL-007144-0-000-11-12-1944@@@
-
 DECRETO-LEI N. 7.144 – DE 11 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 18.000,00, para pagamento de gratificação de representação

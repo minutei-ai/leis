@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/181660)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2017/compilacao-lei-16416-11.05.2017.html)
 
 # LEI N° 16.416, DE 11 DE MAIO DE 2017
@@ -7,7 +6,8 @@
 
 ### _~~Dispõe sobre a cassação da eficácia da inscrição no cadastro de contribuintes do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, por fraude metrológica na revenda varejista de combustíveis~~_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
+
 ~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:~~
 
 ~~Artigo 1° - Será cassada a eficácia da inscrição no cadastro de contribuintes do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, do posto revendedor de combustíveis automotivos que utilizar qualquer dispositivo mecânico ou eletrônico, acionado por controle remoto ou não, que acarrete o fornecimento ao consumidor de volume de combustível diverso do indicado na bomba medidora, observadas as variações volumétricas permitidas pelo órgão metrológico competente.~~

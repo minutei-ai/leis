@@ -1,5 +1,3 @@
-###DEC-005240-0-000-11-10-2004@@@
-
 DECRETO Nº 5.240 DE 11 DE OUTUBRO DE 2004
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República da Tunísia, celebrado em Brasília, em 13 de março de 2002.

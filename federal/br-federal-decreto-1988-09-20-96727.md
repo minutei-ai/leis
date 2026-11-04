@@ -1,5 +1,3 @@
-###DEC-096727-0-000-20-09-1988@@@
-
 DECRETO N° 96.727, DE 20 DE SETEMBRO DE 1988
 
 Aprova o Regulamento para a Caixa de Construções de Casas para o Pessoal do Ministério da Marinha.

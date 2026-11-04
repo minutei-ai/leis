@@ -22,8 +22,10 @@ Aparecida de Goiânia, 24 de abril de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
-DIOGO TUFÃO<br>
+DIOGO TUFÃO
+
 Vereador

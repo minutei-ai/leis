@@ -1,5 +1,3 @@
-###DEC-058449-0-000-17-05-1966@@@
-
 DECRETO Nº 58.449, DE 17 DE MAIO DE 1966.
 
 Autoriza a Sociedade de Mineração Apolo S.A. a pesquisar minério de ferro, no município de Caeté, Estado de Minas Gerais.

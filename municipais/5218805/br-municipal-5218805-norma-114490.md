@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR Nº 5.249, DE 08 DE MARÇO DE 2007.
 
-<br>
 Altera a Lei Complementar n. 3.635/1998 – Código de Posturas.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

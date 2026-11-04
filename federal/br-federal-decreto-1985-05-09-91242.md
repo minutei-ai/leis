@@ -1,5 +1,3 @@
-###DEC-091242-0-000-09-05-1985@@@
-
 # DECRETO Nº 91.242, DE 09 DE MAIO DE 1985
 
 Cargos Privativos de Oficial-General do Exército em tempo de paz.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002410-0-000-15-01-1988@@@
-
 # DECRETO‑LEI Nº 2.410, DE 15 DE JANEIRO DE 1988
 
 Altera o Decreto-lei nº 2.355, de 27 de agosto,de 1987, que estabelece limite de retribuição na Administração Pública da União, do Distrito Federal e dos Territórios, e dá outras providências.

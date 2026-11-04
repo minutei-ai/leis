@@ -1,5 +1,3 @@
-###DEC-076427-0-000-13-10-1975@@@
-
 DECRETO Nº 76.427, DE 13 DE OUTUBRO DE 1975.
 
 Dispõe sobre o regime de previdência dos empregados no Banco Nacional de Crédito Cooperativo e dá outras providências.

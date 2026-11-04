@@ -1,5 +1,3 @@
-###DEC-050152-0-000-27-01-1961@@@
-
 DECRETO Nº 50.152, DE 27 DE JANEIRO DE 1961.
 
 Concede reconhecimento a curso.

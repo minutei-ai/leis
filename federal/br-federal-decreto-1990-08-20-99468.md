@@ -1,7 +1,3 @@
-1
-
-###DEC-099468-0-000-20-08-1990@@@
-
 DECRETO Nº 99.468, DE 20 DE AGOSTO DE 1990
 
 Declara insubsistente a disponibilidade de servidores que menciona.

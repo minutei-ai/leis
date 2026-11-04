@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bee44461-87f8-474b-8888-487d587b07c3/texto#nowhere)
 
-###DEC-091609-0-000-03-09-1985@@@
-
 # DECRETO Nº 91.609, DE 03 DE setembro DE 1985.
 
 Extingue o Consulado do Brasil em Gdynia.

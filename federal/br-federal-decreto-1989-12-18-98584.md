@@ -1,7 +1,3 @@
-1
-
-###DEC-098584-0-000-18-12-1989@@@
-
 DECRETO Nº 98.584, DE 18 DE DEZEMBRO DE 1989
 
 Abre ao Orçamento Fiscal da União créditos adicionais de Ncz$ 38.873.300,00, para atender despesas com o serviço da divida de diversos órgãos.

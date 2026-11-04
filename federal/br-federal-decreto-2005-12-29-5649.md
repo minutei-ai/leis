@@ -1,5 +1,3 @@
-###DEC-005649-0-000-29-12-2005@@@
-
 DECRETO Nº 5.649, DE 29 DE DEZEMBRO DE 2005.
 
 Regulamenta o Regime Especial de Aquisição de Bens de Capital para Empresas Exportadoras - RECAP, que suspende a exigência da Contribuição para o PIS/PASEP e da COFINS, instituído pelos arts. 12 a 16 da Lei no 11.196, de 21 de novembro de 2005.

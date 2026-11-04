@@ -1,5 +1,3 @@
-###DEC-004062-0-000-21-12-2001@@@
-
 DECRETO Nº 4.062, DE 21 DE DEZEMBRO DE 2001
 
 Define as expressões "cachaça", "Brasil" e "cachaça do Brasil" como indicações geográficas e dá outras providências.

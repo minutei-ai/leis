@@ -1,5 +1,3 @@
-###DEC-066554-0-000-11-05-1970@@@
-
 DECRETO Nº 66.554, DE 11 DE MAIO DE 1970.
 
 Declara de utilidade pública a Casa do Candango, com sede em Brasília, Distrito Federal.

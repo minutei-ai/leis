@@ -1,5 +1,3 @@
-###DEL-006163-0-000-31-12-1943@@@
-
 DECRETO‑LEI N. 6.163 – DE 31 DE DEZEMBRO DE 1943
 
 Fixa a divisão administrativa e judiciária do Território do Acre, que vigorará, sem alteração, de 1 de janeiro de 1944 a 31 de dezembro de 1948, e dá outras providências

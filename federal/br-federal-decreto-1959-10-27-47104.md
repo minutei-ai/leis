@@ -1,5 +1,3 @@
-###DEC-047104-0-000-27-10-1959@@@
-
 DECRETO Nº 47.104, DE 27 DE OUTUBRO DE 1959.
 
 Renova o Decreto nº 41.531, de 17 de maio de 1957.

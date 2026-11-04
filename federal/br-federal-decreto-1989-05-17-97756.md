@@ -1,7 +1,3 @@
-1
-
-###DEC-097756-0-000-17-05-1989@@@
-
 DECRETO Nº 97.756, DE 17 DE MAIO DE 1989
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados do Centro de Ensino Superior do Pará.

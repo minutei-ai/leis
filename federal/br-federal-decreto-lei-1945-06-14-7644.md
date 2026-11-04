@@ -1,5 +1,3 @@
-###DEL-007644-0-000-14-06-1945@@@
-
 ( \* ) DECRETO-LEI N. 7.644 – DE 14 DE JUNHO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar a “Casa da Empregada” do Pagamento do impôsto que menciona

@@ -1,5 +1,3 @@
-###DEC-081354-0-000-20-02-1978@@@
-
 Decreto nº 81 354, de 20 de fevereiro de 1978
 
 Autoriza a cessão, sob o regime de aforamento, dos imóveis que menciona, situados no Município de Caçapava do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-057690-0-000-01-02-1966@@@
-
 Decreto nº 57.690, de 1 de fevereiro de 1966.
 
 Aprova o Regulamento para a execução da Lei nº 4.680, de 18 de junho de 1965.

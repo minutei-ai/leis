@@ -1,5 +1,3 @@
-###DEC-090392-0-000-30-10-1984@@@
-
 Decreto nº 90.392, de 30 de outubro de 1984
 
 Outorga à OLVEPAR-Óleos Vegetais Paraná S.A. concessão para o aproveitamento da energia hidráulica de um desnível denominado Salto Claudelino, no rio Chopim, no Município de Clevelândia, Estado do Paraná, para uso exclusivo.

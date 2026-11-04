@@ -1,5 +1,3 @@
-###MPV-001944-0-021-16-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.944-21, DE 16 de novembro DE 2000.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra e dá outras providências.

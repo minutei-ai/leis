@@ -1,5 +1,3 @@
-###DEC-096126-0-000-03-06-1988@@@
-
 # DECRETO N° 96.126, DE 3 DE JUNHO DE 1988
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade de Informática, no Rio de Janeiro, RJ.

@@ -1,5 +1,3 @@
-###DEC-078394-0-000-10-09-1976@@@
-
 Decreto nº 78.394, de 10 de setembro de 1976.
 
 Concede à Cêramus Bahia S.A. - Produtos Cerâmicos o direito de lavrar argila no Município de Camaçari, Estado da Bahia.

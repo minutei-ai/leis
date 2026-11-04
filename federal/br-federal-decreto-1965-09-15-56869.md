@@ -1,5 +1,3 @@
-###DEC-056869-0-000-15-09-1965@@@
-
 DECRETO Nº 56.869, DE 15 DE SETEMBRO DE 1965.
 
 Concede reconhecimento ao curso de Psicologia da Pontifíca Universidade Católica do Rio de Janeiro.

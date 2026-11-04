@@ -1,5 +1,3 @@
-###DEC-091324-0-000-13-06-1985@@@
-
 DECRETO Nº 91.324, DE 13 DE JUNHO DE 1985.
 
 Altera e revoga dispositivos do Regulamento do Serviço de Radioamador, aprovado pelo Decreto nº 74.810, de 04 de novembro de 1974.

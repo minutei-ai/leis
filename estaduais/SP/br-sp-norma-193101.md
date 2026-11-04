@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/193101)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/emenda.constitucional/2020/compilacao-emenda.constitucional-48-10.02.2020.html)
 
 # EMENDA CONSTITUCIONAL N° 48, DE 10 DE FEVEREIRO DE 2020

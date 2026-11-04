@@ -1,5 +1,3 @@
-###DEC-081569-0-000-18-04-1978@@@
-
 decreto nº 81.569, de 18 de abril de 1978.
 
 Regulamenta a Lei nº 6.499, de 07/12/77, que dispõe sobre a instrução dos filhos do Sargento Sílvio Delmar Hollenbach.

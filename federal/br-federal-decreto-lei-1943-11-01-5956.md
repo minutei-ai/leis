@@ -1,5 +1,3 @@
-###DEL-005956-0-000-01-11-1943@@@
-
 DECRETO‑LEI N. 5.956 – DE 1 DE NOVEMBRO DE 1943
 
 Torna obrigatório o depósito das entradas de capital nas sociedades por ação em organização

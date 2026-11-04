@@ -1,5 +1,3 @@
-###DEC-070366-0-000-04-04-1972@@@
-
 DECRETO Nº 70.366, DE 4 DE ABRIL DE 1972.
 
 Autoriza o funcionamento do curso de Engenheiros de Operação da Escola Técnica Federal de Minas Gerais.

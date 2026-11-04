@@ -1,5 +1,3 @@
-###DEC-073285-0-000-10-12-1973@@@
-
 DECRETO Nº 73.285 - DE 10 DE DEZEMBRO DE 1973
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Santarém, Estado do Pará.

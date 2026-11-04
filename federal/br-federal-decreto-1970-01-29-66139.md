@@ -1,5 +1,3 @@
-###DEC-066139-0-000-29-01-1970@@@
-
 Decreto nº 66.139 - de 29 de janeiro de 1970
 
 Revoga dispositivo do Regulamento do Serviço Social da Indústria, aprovado pelo Decreto nº 57.375, de 2 de dezembro de 1965.

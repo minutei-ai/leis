@@ -1,5 +1,3 @@
-###DEL-002003-0-000-06-01-1983@@@
-
 # DECRETO-LEI Nº 2.003, DE 06 de janeiro DE 1983
 
 Reajusta os vencimentos, salários, gratificações e proventos dos servidores do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências.

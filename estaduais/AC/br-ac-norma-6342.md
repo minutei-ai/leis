@@ -1,6 +1,10 @@
 > **LEI Nº 4.483, DE 03 DE DEZEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Título Honorífico de Cidadã Acreana à Sra. Jessica Pasa Borges.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Título Honorífico de Cidadã Acreana à Sra. Jessica Pasa Borges.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

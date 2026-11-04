@@ -1,5 +1,3 @@
-###DEC-045230-0-000-15-01-1959@@@
-
 DECRETo Nº 45.230, DE 15 DE JANEIRO DE 1959.
 
 Autoriza a São Paulo Light S. A. - Serviços de Eletricidade a construir uma linha de transmissão entre os municípios de Pindamonhangaba e São José dos Campos, no Estado de São Paulo.

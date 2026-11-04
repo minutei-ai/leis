@@ -1,5 +1,3 @@
-###DEC-091823-0-000-22-10-1985@@@
-
 Decreto nº 91.823, de 22 de outubro de 1985
 
 Altera a composição do Conselho Deliberativo da Superintendência do Desenvolvimento da Amazônia - SUDAM, e dá outras providências.

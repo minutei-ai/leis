@@ -1,5 +1,3 @@
-###DEC-004837-0-000-10-09-2003@@@
-
 DECRETO Nº 4.837,  DE 10 DE SETEMBRO DE 2003.
 
        Dá nova redação aos arts. 1o e 1-A do Decreto no 408, de 27 de dezembro de 1991, que regulamenta o art. 3o da Lei no 8.242, 12 de outubro de 1991, e dá outras providências.
@@ -60,5 +58,6 @@ IV \- Ministério das Relações Exteriores por representante da Secretaria Es
 
         Brasília, 10 de setembro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

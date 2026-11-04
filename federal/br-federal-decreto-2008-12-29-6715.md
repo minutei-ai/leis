@@ -1,5 +1,3 @@
-###DEC-006715-0-000-29-12-2008@@@
-
 DECRETO Nº 6.715, DE 29 DE DEZEMBRO DE 2008.
 
 Altera o Decreto no 5.123, de 1o de julho de 2004, que regulamenta a Lei no 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - SINARM e define crimes.

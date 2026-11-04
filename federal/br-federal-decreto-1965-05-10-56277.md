@@ -1,5 +1,3 @@
-###DEC-056277-0-000-10-05-1965@@@
-
 DECRETO Nº 56.277, DE 10 DE MAIO DE 1965.
 
 Incorpora ao patrimônio da União imóvel destinado ao Ministério da Guerra.

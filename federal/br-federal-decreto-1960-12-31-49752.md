@@ -1,5 +1,3 @@
-###DEC-049752-0-000-31-12-1960@@@
-
 DECRETO Nº 49.752, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a Companhia de Cimento Portland Maringá a pesquisar calcário no município de Itapeva, Estado de São Paulo.

@@ -38,7 +38,77 @@ SITUAÇÃO PROPOSTA
 | Lote 18 | 285,71 |
 | Lote 19 | 281,89 |
 
-<table><thead></thead><tbody><tr><td style="text-align:center">Lote 20</td><td style="text-align:center">486,27</td></tr><tr><td style="text-align:center">Lote 21</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 22</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 23</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 24</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 25</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 26</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 27</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 28</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 29</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 30</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 31</td><td style="text-align:center">185,10</td></tr><tr><td style="text-align:center">Lote 32</td><td style="text-align:center">388,50</td></tr><tr><td style="text-align:center">Lote 33</td><td style="text-align:center">300,00</td></tr><tr><td style="text-align:center">Lote 34</td><td style="text-align:center">300,00</td></tr><tr><td style="text-align:center">Lote 35</td><td style="text-align:center">300,00</td></tr><tr><td style="text-align:center">Lote 36</td><td style="text-align:center">300,00</td></tr><tr><td style="text-align:center">Lote 37</td><td style="text-align:center">300,00</td></tr></tbody></table>
+Lote 20
+
+486,27
+
+Lote 21
+
+185,10
+
+Lote 22
+
+185,10
+
+Lote 23
+
+185,10
+
+Lote 24
+
+185,10
+
+Lote 25
+
+185,10
+
+Lote 26
+
+185,10
+
+Lote 27
+
+185,10
+
+Lote 28
+
+185,10
+
+Lote 29
+
+185,10
+
+Lote 30
+
+185,10
+
+Lote 31
+
+185,10
+
+Lote 32
+
+388,50
+
+Lote 33
+
+300,00
+
+Lote 34
+
+300,00
+
+Lote 35
+
+300,00
+
+Lote 36
+
+300,00
+
+Lote 37
+
+300,00
 
 Parágrafo único. O desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2024408639, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
@@ -46,8 +116,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 27 de novembro de 2024.
 
-ALANNA RITIELLE P. DE ARAÚJO FRANÇA<br>
+ALANNA RITIELLE P. DE ARAÚJO FRANÇA
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

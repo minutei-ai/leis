@@ -1,5 +1,3 @@
-###DEC-095472-0-000-11-12-1987@@@
-
 DECRETO Nº 95.472, DE 11 DE DEZEMBRO DE 1987
 
 Outorga concessão a GASPAR RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São José do Rio Claro, Estado do Mato Grosso.

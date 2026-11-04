@@ -1,5 +1,3 @@
-###DEL-005849-0-000-23-09-1943@@@
-
 DECRETO‑LEI N. 5.849 – DE 23 DE SETEMBRO DE 1943
 
 Dispõe sôbre a matéria de importação de lentes

@@ -1,5 +1,3 @@
-###DEC-081830-0-000-23-06-1978@@@
-
 Decreto nº 81.830, de 23 de junho de 1978.
 
 Concede à Minérios Metalúrgicos do Nordeste S.A. o direito de lavrar minério de manganês no Município de Miguel Calmon, Estado da Bahia.

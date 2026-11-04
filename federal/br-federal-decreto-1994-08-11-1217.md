@@ -1,7 +1,3 @@
-1
-
-###DEC-001217-0-000-11-08-1994@@@
-
 DECRETO Nº 1.217, DE 11 DE AGOSTO DE 1994
 
 Exclui da relação constante do AnexoIII à Lei nº 7.798, de 10 de julho de 1989,os produtos que especifica.

@@ -1,5 +1,3 @@
-###DEC-058665-0-000-16-06-1966@@@
-
 Decreto nº 58.665, de 16 de junho de 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel em Aracaju - SE, destinado ao Ministério da Guerra.

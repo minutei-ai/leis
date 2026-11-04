@@ -1,7 +1,3 @@
-1
-
-###DEC-085813-0-000-16-03-1981@@@
-
 decreto nº 85.813, de 16 de março de 1981.
 
 Declara de interesse social, para fins de desapropriação, parte dos imóveis rurais denominados Pousos “1” e “2”, situados no Município de Marechal Cândido Rondon, no Estado do Paraná, compreendidos na área prioritária de reforma agrária de que tratam os Decretos nºs 69.411, de 22 de outubro de 1971, 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

@@ -26,8 +26,10 @@ Município de Aparecida de Goiânia, 05 de Maio de 2023.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-UBIRACI SILVA SANTOS<br>
+UBIRACI SILVA SANTOS
+
 Secretário de Habitação

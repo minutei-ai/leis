@@ -1,5 +1,3 @@
-###DEC-087399-0-000-13-07-1982@@@
-
 Decreto nº 87.399, de 13 de julho de 1982
 
 Renova por 10 (dez) anos o prazo da outorga dada à RÁDIO ITAPIRANGA LTDA., para executar serviço de radiodifusão sonora em onda média, na cidade de Itapiranga, Estado de Santa Catarina.

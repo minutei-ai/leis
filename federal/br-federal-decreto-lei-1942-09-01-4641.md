@@ -1,5 +1,3 @@
-###DEL-004641-0-000-01-09-1942@@@
-
 DECRETO-LEI N. 4.641 – DE 1 DE SETEMBRO DE 1942
 
 Dispõe sobre a execução de óperas brasileiras

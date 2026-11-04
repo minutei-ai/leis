@@ -1,5 +1,3 @@
-###DEC-002894-0-000-22-12-1998@@@
-
 DECRETO Nº 2.894, DE 22 DE DEZEMBRO DE 1998.
 
 Regulamenta a emissão e o fornecimento de selo ou sinal de identificação dos fonogramas e das obras audiovisuais, previstos no art. 113 da Lei nº 9.610, de 19 de fevereiro de 1998, que altera, atualiza e consolida a legislação sobre direitos autorais e dá outras providências.

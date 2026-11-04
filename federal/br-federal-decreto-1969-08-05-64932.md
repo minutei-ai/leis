@@ -1,5 +1,3 @@
-###DEC-064932-0-000-05-08-1969@@@
-
 DECRETO Nº 64.932 - de 5 de agÔsto de 1969.
 
 Altera a composição do Grupo de Trabalho criado pelo Decreto número 64.568, de 22 de maio de 1968.

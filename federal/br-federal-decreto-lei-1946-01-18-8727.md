@@ -1,5 +1,3 @@
-###DEL-008727-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.727 – DE 18 DE JANEIRO DE 1946
 
 Dá nova redação ao art. 168 da Decreto-lei n. 6.887, de 21 de Setembro de 1944

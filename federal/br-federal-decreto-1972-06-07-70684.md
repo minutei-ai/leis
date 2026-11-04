@@ -1,5 +1,3 @@
-###DEC-070684-0-000-07-06-1972@@@
-
 Decreto nº 70.684, de 7 de junho de 1972.
 
 Concede reconhecimento à Faculdade de Ciências Econômicas da Universidade do Amazonas.

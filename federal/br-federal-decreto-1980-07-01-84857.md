@@ -1,5 +1,3 @@
-###DEC-084857-0-000-01-07-1980@@@
-
 Decreto nº 84.857, de 01 de julho de 1980.
 
 Autoriza o funcionamento de habilitações do curso de Letras das Faculdades Integradas de Santo Ângelo, Estado do Rio Grande do Sul.

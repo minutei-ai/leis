@@ -1,5 +1,3 @@
-###DEC-096218-0-000-24-06-1988@@@
-
 DECRETO N° 96.218, DE 24 DE JUNHO DE 1988
 
 Outorga concessão à TV LUZIÂNIA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Luziânia, Estado de Goiás.

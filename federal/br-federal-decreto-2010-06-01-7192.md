@@ -1,5 +1,3 @@
-###DEC-007192-0-000-01-06-2010@@@
-
 DECRETO Nº 7.192, DE 1º DE JUNHO DE 2010.
 
 Transfere a cumulatividade da Embaixada do Brasil em Male, na República das Maldivas, para a Embaixada do Brasil em Colombo

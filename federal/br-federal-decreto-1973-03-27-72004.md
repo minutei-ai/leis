@@ -1,5 +1,3 @@
-###DEC-072004-0-000-27-03-1973@@@
-
 DECRETO Nº 72.004, de 27 de março de 1973.
 
 Concede à Empresa de Desenvolvimento de Recursos Minerais - "CODEMIN" S.A. o direito de lavrar minério de níquel no Município de Niquelândia, Estado de Goiás.

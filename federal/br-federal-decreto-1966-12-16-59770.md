@@ -1,5 +1,3 @@
-###DEC-059770-0-000-16-12-1966@@@
-
 DECRETO Nº 59.770, DE 16 DE DEZEMBRO DE 1966
 
 Autoriza o cidadão brasileiro Vicente Esteves de Faria a pesquisar minério de ferro no município de Passa Tempo, Estado de Minas Gerais.

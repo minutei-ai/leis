@@ -1,5 +1,3 @@
-###DEC-055162-0-000-08-12-1964@@@
-
 DECRETO Nº 55.162, DE 8 DE DEZEMBRO DE 1964.
 
 Aprova a nova redação do Regulamento da Comissão Nacional das Organizações Nações Unidas para Alimentação e Agricultura (F.A.O.).
@@ -51,8 +49,6 @@ Parágrafo único. Mediante proposta do Presidente, ou de qualquer membro, poder
 Brasília, 8 de dezembro de 1964.
 
 A.B.L. Castelo Branco
-
-###DEC-055162-0-000-08-12-1964@@@RET01+++
 
 DECRETO Nº 55.162, DE 8 DE dezEMBRO DE 1964.
 

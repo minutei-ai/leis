@@ -1,5 +1,3 @@
-###DEC-007228-0-000-01-07-2010@@@
-
 DECRETO Nº 7.228, DE 1º DE JULHO DE 2010.
 
 Altera a redação do art. 3o do Decreto no 2.908, de 29 de dezembro de 1998, que regulamenta a distribuição dos cargos da Carreira de Analista de Comércio Exterior por órgão do Poder Executivo Federal.

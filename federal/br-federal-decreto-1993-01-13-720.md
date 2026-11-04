@@ -1,7 +1,3 @@
-1
-
-###DEC-000720-0-000-13-01-1993@@@
-
 DECRETO N° 720, DE 13 DE JANEIRO DE 1993
 
 Altera a redação do art. 1º do Decreto n° 99.608, de 13 de outubro de 1990, que criou o Grupo de Trabalho com a finalidade de coordenar e estabelecer diretrizes para a negociação de débitos de entidades da Administração Pública Federal, e dá outras providências.

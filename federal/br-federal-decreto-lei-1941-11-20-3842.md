@@ -1,5 +1,3 @@
-###DEL-003842-0-000-20-11-1941@@@
-
 DECRETO-LEI N. 3.842 – DE 20 DE NOVEMBRO DE 1941
 
 Altera com dispositivo do Código de Vencimentos e Vantagens dos Militares do Exército

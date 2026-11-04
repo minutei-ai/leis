@@ -1,5 +1,3 @@
-###DEC-064930-0-000-05-08-1969@@@
-
 DECRETO Nº 64.930 - de 5 de Agôsto de 1969.
 
 Autoriza funcionamento de Curso de Ciências Sociais.

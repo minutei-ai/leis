@@ -1,5 +1,3 @@
-###DEC-053240-0-000-12-12-1963@@@
-
 DECRETO Nº 53.240, DE 12 DE DEZEMBRO DE 1963.
 
 Dispõe sôbre a promoção a classe final da Carreira de Diplomata.

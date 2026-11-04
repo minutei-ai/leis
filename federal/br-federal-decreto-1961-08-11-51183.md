@@ -1,5 +1,3 @@
-###DEC-051183-0-000-11-08-1961@@@
-
 Decreto nº 51.183, de 11 de agôsto de 1961.
 
 Dá nova redação ao § 3º do art. 36 do Decreto nº 48.180, de 10 de maio de 1960, e outras providências.

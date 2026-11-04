@@ -1,5 +1,3 @@
-###DEC-080192-0-000-17-08-1977@@@
-
 DECRETO Nº 80.192, DE 17 DE AGOSTO DE 1977.
 
 Abre à Justiça do Distrito Federal e dos Territórios, em favor do Tribunal de Justiça do Distrito Federal, o crédito suplementar de Cr$ 19.540.000,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -10,11 +8,115 @@ DECRETA:
 
 Art. 1º Fica aberto à Justiça do Distrito Federal e dos Territórios, em favor do Tribunal de Justiça do Distrito Federal, o crédito suplementar no valor de Cr$ 19.540.000,00 (dezenove milhões, quinhentos e quarenta mil cruzeiros), para reforço de dotações orçamentárias consignadas ao subanexo 1000, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1000</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1001</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Tribunal de Justiça do Distrito Federal</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1001.02040132.021</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Processamento de Causas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.112.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.200.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">180.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1001.15824952.015</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Encargos com Inativos e Pensionistas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.1</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inativos</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.030.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salário-Família</span></p></td><td style="width:56.8pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19.540.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+1000
+
+- JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+1001
+
+- Tribunal de Justiça do Distrito Federal
+
+1001.02040132.021
+
+- Processamento de Causas
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas
+
+15.112.000
+
+02
+
+- Despesas Variáveis
+
+1.200.000
+
+3.2.3.3
+
+- Salário-Família
+
+180.000
+
+1001.15824952.015
+
+- Encargos com Inativos e Pensionistas
+
+3.2.3.1
+
+- Inativos
+
+3.030.000
+
+3.2.3.3
+
+- Salário-Família
+
+18.000
+
+TOTAL
+
+19.540.000
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento aos subanexos 1000 e 3900, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1000</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.315.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1001</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Tribunal de Justiça do Distrito Federal</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1001.02040132.021</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">835.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1001.02040211.028</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.3.0</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Equipamentos e Instalações</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">480.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3900</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- RESERVA DE CONTINGÊNCIA</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18.225.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3900.99999999.999</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingência</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.6.0</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingência</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18.225.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:262.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19.540.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+1000
+
+- JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+1.315.000
+
+1001
+
+- Tribunal de Justiça do Distrito Federal
+
+Atividade
+
+- 1001.02040132.021
+
+3.1.3.2
+
+- Outros Serviços de Terceiros
+
+835.000
+
+Projeto
+
+- 1001.02040211.028
+
+4.1.3.0
+
+- Equipamentos e Instalações
+
+480.000
+
+3900
+
+- RESERVA DE CONTINGÊNCIA
+
+18.225.000
+
+3900.99999999.999
+
+- Reserva de Contingência
+
+3.2.6.0
+
+- Reserva de Contingência
+
+18.225.000
+
+TOTAL
+
+19.540.000
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

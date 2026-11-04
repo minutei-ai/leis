@@ -1,5 +1,3 @@
-###LEI-000000-0-002-24-09-1829@@@
-
 LEI - DE 24 DE SETEMBRO DE 1829
 
 Manda subsistir a Junta de Justiça Militar da Provincia do Pará.

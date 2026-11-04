@@ -1,5 +1,3 @@
-###DEC-049481-0-000-09-12-1960@@@
-
 DECRETO Nº 49.481, DE 9 DE DEZEMBRO DE 1960.
 
 Autoriza a Companhia Paulista de Mineração a lavrar caulim no município de Barra do Pirai, Estado do Rio de Janeiro.

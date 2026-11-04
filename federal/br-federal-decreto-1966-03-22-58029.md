@@ -1,5 +1,3 @@
-###DEC-058029-0-000-22-03-1966@@@
-
 DECRETO Nº 58.029, de 22 de março de 1966.
 
 Torna sem efeito o art. 1º do Decreto nº 57.127, de 20 de outubro de 1965.

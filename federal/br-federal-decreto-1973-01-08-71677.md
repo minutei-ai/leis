@@ -1,5 +1,3 @@
-###DEC-071677-0-000-08-01-1973@@@
-
 DECRETO Nº 71.677, DE 8 DE JANEIRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias situadas nos Estados de Pernambuco, Alagoas e Bahia, destinadas ao aproveitamento hidrelétrico de Moxotó.

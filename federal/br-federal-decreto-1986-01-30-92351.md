@@ -1,5 +1,3 @@
-###DEC-092351-0-000-30-01-1986@@@
-
 DECRETO Nº 92.351, DE 30 DE JANEIRO DE 1986
 
 Fixa os Efetivos de Oficiais da Marinha para 1986.

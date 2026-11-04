@@ -1,5 +1,3 @@
-###DEC-007958-0-000-13-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.958, DE 13 DE MARÇO DE 2013
 
 Estabelece diretrizes para o atendimento às vítimas de violência sexual pelos profissionais de segurança pública e da rede de atendimento do Sistema Único de Saúde.

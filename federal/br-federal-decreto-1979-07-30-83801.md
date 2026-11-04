@@ -1,5 +1,3 @@
-###DEC-083801-0-000-30-07-1979@@@
-
 DECRETO Nº 83.801, DE 30 DE JULHO DE 1979.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União à operação de crédito externo a ser contratada pelas CENTRAIS ELÉTRICAS BRASILEIRAS S/A - ELETROBRÁS.

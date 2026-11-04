@@ -1,7 +1,3 @@
-1
-
-###DEC-000385-0-000-24-12-1991@@@
-
 DECRETO Nº 385, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Perigara, no Estado do Mato Grosso.

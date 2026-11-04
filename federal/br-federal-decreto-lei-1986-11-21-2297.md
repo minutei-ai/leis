@@ -1,5 +1,3 @@
-###DEL-002297-0-000-21-11-1986@@@
-
 # DECRETO-LEI Nº 2.297, DE 21 DE NOVEMBRO DE 1986
 
 Isenta do imposto de renda o ganho auferido, por pessoas físicas, na alienação de imóveis financiados pelo Sistema Financeiro da Habitação.

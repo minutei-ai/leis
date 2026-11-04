@@ -1,7 +1,3 @@
-1
-
-###DEC-098143-0-000-14-09-1989@@@
-
 DECRETO Nº 98.143, DE 14 DE SETEMBRO DE 1989
 
 Homologa a demarcação administrativa da área indígena que menciona, no município de Nobres, Mato Grosso, e de outras providencias.

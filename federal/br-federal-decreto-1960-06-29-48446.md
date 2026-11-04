@@ -1,5 +1,3 @@
-###DEC-048446-0-000-29-06-1960@@@
-
 Decreto nº 48.446, de 29 de junho de 1960.
 
 Transfere sem aumento de despesas, funções de Auxíliar-administrativo, ref. 24 da Tabela única de Extranumerário-Mensalista do Ministério da Justiça e Negócios Interiores para idêntica Tabela do Ministério da Fazenda.
@@ -23,8 +21,6 @@ Juscelino Kubitschek
 Armando Ribeiro Falcão
 
 S. Paes de Almeida
-
-###DEC-048446-0-000-29-06-1960@@@RET01+++
 
 decreto nº 48.446, de 29 de junho de 1960.
 

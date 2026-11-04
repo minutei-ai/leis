@@ -1,14 +1,12 @@
-###DEC-041488-0-000-11-05-1957@@@
+**DECRETO Nº 41.488, DE 11 DE MAIO DE 1957.**
 
-<strong>DECRETO Nº 41.488, DE 11 DE MAIO DE 1957.</strong>
+***Cria o Estandarte-Distintivo para o 6º Regimento de Cavalaria “Regimento José de Abreu”.***
 
-<em><strong>Cria o Estandarte-Distintivo para o 6º Regimento de Cavalaria “Regimento José de Abreu”.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º fica criado o estandarte-distintivo, para o 6º Regimento de Cavalaria - “Regimento José de Abreu” - de acôrdo com modêlo que a esta acompanha, obedecendo as seguintes características:
+**Art**. 1º fica criado o estandarte-distintivo, para o 6º Regimento de Cavalaria - “Regimento José de Abreu” - de acôrdo com modêlo que a esta acompanha, obedecendo as seguintes características:
 
 \- Em campo Branco, pala de azul com 1/4 da largura do Estandarte, côres da Cavalaria.
 
@@ -24,10 +22,10 @@
 
 \- Dimensões: 0m,80 x 1m,10.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogada as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogada as disposições em contrário.
 
 Rio de Janeiro, em 11 de maio de 1957, 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

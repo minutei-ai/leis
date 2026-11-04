@@ -1,5 +1,3 @@
-###DEC-080410-0-000-27-09-1977@@@
-
 DECRETO Nº 80.410, DE 27 DE SETEMBRO DE 1977.
 
 Concede à Magnesita S.A. o direito de lavrar agalmatolito no Município de Onça do Pitangui, Estado de Minas Gerais.

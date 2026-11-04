@@ -1,5 +1,3 @@
-###DEC-005495-0-000-20-07-2005@@@
-
 DECRETO Nº 5.495, DE 20 DE JULHO DE 2005.      
 
 Acresce incisos ao art. 7o do Decreto no 3.505, de 13 de junho de 2000, que institui a Política de Segurança da Informação nos órgãos e entidades da administração pública federal.
@@ -23,5 +21,3 @@ XVI - Advocacia-Geral da União." (NR)
 LUIZ INÁCIO LULA DA SILVA
 
 Jorge Armando Felix
-
-Este texto não substitui o publicado no DOU de 21.7.2005

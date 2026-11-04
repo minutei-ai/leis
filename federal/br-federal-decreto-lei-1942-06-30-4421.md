@@ -1,5 +1,3 @@
-###DEL-004421-0-000-30-06-1942@@@
-
 DECRETO-LEI N. 4.421 – DE 30 DE JUNHO DE 1942
 
 Dispõe sobre as tabelas numéricas do extranumerários mensalistas e diaristas e dá outras providências

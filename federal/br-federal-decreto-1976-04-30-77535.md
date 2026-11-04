@@ -1,5 +1,3 @@
-###DEC-077535-0-000-30-04-1976@@@
-
 DECRETO Nº 77.535 - DE 30 DE ABRIL DE 1976
 
 Concede autorização à empresa Santa Fe Overseas, Incorporated, para operar no mar territorial brasileiro as embarcações de perfuração "Bluewater 3" e Santa Fe Mariner 2", a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

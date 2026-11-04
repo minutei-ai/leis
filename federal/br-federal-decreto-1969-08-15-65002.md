@@ -1,5 +1,3 @@
-###DEC-065002-0-000-15-08-1969@@@
-
 DECRETO Nº 65.002 - de 15 de AgÔsto de 1969.
 
 Decreta a Intervenção Federal nos Municípios de Barracão, Cachoeirinha, Cangussu, Feliz e Planalto, do Estado do Rio Grande do Sul.

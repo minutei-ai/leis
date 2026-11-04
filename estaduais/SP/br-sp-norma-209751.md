@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209751)<br>
-
 # LEI N° 17.999, DE 23 DE JULHO DE 2024
 
 ## (Projeto de lei n° 53/2024, da Deputada Marta Costa PSD)

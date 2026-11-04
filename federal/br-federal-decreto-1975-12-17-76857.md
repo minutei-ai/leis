@@ -1,5 +1,3 @@
-###DEC-076857-0-000-17-12-1975@@@
-
 DECRETO Nº 76.857, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Odontologia da Faculdade Odontologia de Nova Friburgo, com sede na cidade de Nova - Friburgo, Estado do Rio de Janeiro.

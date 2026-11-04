@@ -1,5 +1,3 @@
-###DEC-086716-0-000-10-12-1981@@@
-
 Decreto nº 86.716, de 10 de dezembro de 1981.
 
 Autoriza a Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, a proceder ao aumento do seu Capital Social.

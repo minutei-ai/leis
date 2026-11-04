@@ -1,5 +1,3 @@
-###DEC-072782-0-000-12-09-1973@@@
-
 DECRETO Nº 72.782, DE 12 DE SETEMBRO DE 1973.
 
 Aprova o Plano de Reestruturação da Universidade Federal do Paraná.

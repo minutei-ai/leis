@@ -1,5 +1,3 @@
-###DEL-005323-0-000-16-03-1943@@@
-
 DECRETO‑LEI N. 5.323 – DE 16 DE MARÇO DE 1943
 
 Revigora, no presente ano, o decreto‑lei n. 3.143, de 25 de março de 1941

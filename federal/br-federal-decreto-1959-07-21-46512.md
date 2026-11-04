@@ -1,5 +1,3 @@
-###DEC-046512-0-000-21-07-1959@@@
-
 DECRETO Nº 46.512, DE 21 DE JULHO DE 1959.
 
 Altera o regulamento da Comissão de Marinha Mercante, baixado pelo Decreto nº 7.838, de 11 de setembro de 1941.

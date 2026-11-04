@@ -1,5 +1,3 @@
-###DEC-058369-0-000-09-05-1966@@@
-
 DECRETO Nº 58.369, de 9 de maio de 1966.
 
 Declara de utilidade pública a “Creche Conde Modesto Leal”, com sede em Joinville, Estado de Santa Catarina.

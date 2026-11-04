@@ -1,7 +1,3 @@
-1
-
-###DEC-095649-0-000-19-01-1988@@@
-
 DECRETO N° 95.649, DE 19 DE JANEIRO DE 1988
 
 Revoga o Decreto n° 75.160, de 30 de dezembro de 1974, que aprovou o Regulamento da Diretoria de Saúde da Marinha.

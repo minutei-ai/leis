@@ -1,5 +1,3 @@
-###DEC-096164-0-000-14-06-1988@@@
-
 DECRETO N° 96.164, DE 14 DE JUNHO DE 1988
 
 Altera o Estatuto da Fundação de Assistência ao Estudante - FAE.

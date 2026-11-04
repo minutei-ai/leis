@@ -1,5 +1,3 @@
-###DEC-046454-0-000-17-07-1959@@@
-
 DECRETO Nº 46.454, DE 17 DE JULHO DE 1959.
 
 Autoriza a cidadã brasileira Sebastiana Ganem Barraneos a pesquisar mica e quartzo no município de Malacacheta, Estado de Minas Gerais.

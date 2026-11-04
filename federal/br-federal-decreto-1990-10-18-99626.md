@@ -1,5 +1,3 @@
-###DEC-099626-0-000-18-10-1990@@@
-
 DECRETO N° 99.626, DE 18 DE OUTUBRO DE 1990
 
 Dispõe sobre tomadas e prestações de contas de órgãos e entidades extintos e dá outras providências.

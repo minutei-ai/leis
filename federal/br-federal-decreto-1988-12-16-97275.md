@@ -1,5 +1,3 @@
-###DEC-097275-0-000-16-12-1988@@@
-
 DECRETO Nº 97.275, DE 16 DE DEZEMBRO DE 1988
 
 Altera dispositivos do Decreto nº. 96.186, de 21 de junho de 1988, que dispõe sobre o Programa de Desenvolvimento de Sistemas Unificados e Descentralizados de Saúde nos Estados - SUDS, na área de competência do Ministério da Saúde.

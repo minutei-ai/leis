@@ -1,5 +1,3 @@
-###DEC-073504-0-000-17-01-1974@@@
-
 DECRETO Nº 73.504, DE 17 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 63.050, de 30 de julho de 1968, através do qual foi concedido à Companhia de Cimento Portland Paraíso o direito de lavrar calcário, no Município de Campos, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-066080-0-000-16-01-1970@@@
-
 Decreto nº 66.080 - de 16 de janeiro de 1970
 
 Altera a redação do caput do artigo 103 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto número 62.127, de 16 de janeiro de 1968, e dá outras providências.

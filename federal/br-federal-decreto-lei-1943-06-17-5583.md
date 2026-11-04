@@ -1,5 +1,3 @@
-###DEL-005583-0-000-17-06-1943@@@
-
 DECRETO‑LEI N. 5.583 – DE 17 DE JUNHO DE 1943
 
 Modifica a seriação de rubricas do vigente Orçamento Geral da República

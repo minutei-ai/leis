@@ -1,22 +1,20 @@
-###DEC-025091-0-000-14-06-1948@@@
+**DECRETO Nº 25.091, DE 14 DE JUNHO DE 1948.**
 
-<strong>DECRETO Nº 25.091, DE 14 DE JUNHO DE 1948.</strong>
+***Concede à “ Brazilian Telephone Company” autorização para continuar a funcionar na República.***
 
-<em><strong>Concede à “ Brazilian Telephone Company” autorização para continuar a funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a “*Brazilian Telephone Company*” sociedade anônima, autorizada a funcionar pelos Decretos ns. 11.500, de 23 de fevereiro de 1945, 13.722, de 13 de agôsto de 1919, 16.222, de 28 de novembro de 1923 e 17.116, de 11 de novembro de 1925,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a “<em>Brazilian Telephone Company</em>” sociedade anônima, autorizada a funcionar pelos Decretos ns. 11.500, de 23 de fevereiro de 1945, 13.722, de 13 de agôsto de 1919, 16.222, de 28 de novembro de 1923 e 17.116, de 11 de novembro de 1925,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único. É concedida à sociedade anônima “<em>Brazilian Telephone Company”</em>, com sede na cidade de Toronto, Província de Ontário, Domínio do Canadá, autorização para continuar a funcionar na República, com as alterações introduzidas em seus estatutos, por deliberações aprovadas nas assembléias gerais de seus acionistas, realizadas em 28 de fevereiro e 25 de junho de 1935 e 25 de junho de 1942, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
+Artigo único. É concedida à sociedade anônima “*Brazilian Telephone Company”*, com sede na cidade de Toronto, Província de Ontário, Domínio do Canadá, autorização para continuar a funcionar na República, com as alterações introduzidas em seus estatutos, por deliberações aprovadas nas assembléias gerais de seus acionistas, realizadas em 28 de fevereiro e 25 de junho de 1935 e 25 de junho de 1942, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 14 de junho de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 25.091, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 25.091, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 14 de junho de 1948.
 
-<strong>MORVAN FIGUEIREDO</strong>
+**MORVAN FIGUEIREDO**

@@ -1,5 +1,3 @@
-###DEC-086161-0-000-29-06-1981@@@
-
 Decreto nº 86.161, de 29 de junho de 1981
 
 Declara de utilidade pública, para fins de Constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão subterrâneas da LIGHT - Serviços de Eletricidade S.A, no Estado do Rio de Janeiro.

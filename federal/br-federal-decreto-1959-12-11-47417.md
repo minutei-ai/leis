@@ -1,5 +1,3 @@
-###DEC-047417-0-000-11-12-1959@@@
-
 Decreto nº 47.417, de 11 de Dezembro de 1959.
 
 Autoriza Minérios Brasileiros - Comércio e Exportação Ltda. a comprar pedras preciosas.

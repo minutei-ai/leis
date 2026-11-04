@@ -1,5 +1,3 @@
-###DEL-003719-0-000-15-10-1941@@@
-
 DECRETO-LEI N. 3.719 – DE 15 DE OUTUBRO DE 1941
 
 Dispõe sobre a publicação de uma História ilustrada da República e dá outras providências

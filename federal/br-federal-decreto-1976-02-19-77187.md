@@ -1,5 +1,3 @@
-###DEC-077187-0-000-19-02-1976@@@
-
 DEcRETO Nº 77.187, DE 19 DE FEVEREIRO DE 1976.
 
 Cria o Consulado em Atlanta.

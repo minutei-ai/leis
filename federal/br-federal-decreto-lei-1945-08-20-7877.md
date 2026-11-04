@@ -1,5 +1,3 @@
-###DEL-007877-0-000-20-08-1945@@@
-
 DECRETO-LEI N. 7.877 – DE 20 DE AGÔSTO DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 369.000,00, à verba que especifica.

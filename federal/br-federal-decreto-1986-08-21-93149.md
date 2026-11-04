@@ -1,5 +1,3 @@
-###DEC-093149-0-000-21-08-1986@@@
-
 DECRETO Nº 93.149, DE 21 DE AGOSTO DE 1986
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO BOM JESUS DE SIQUEIRA CAMPOS LTDA., para a FUNDAÇÃO CULTURAL SÃO FRANCISCO DE ASSIS.

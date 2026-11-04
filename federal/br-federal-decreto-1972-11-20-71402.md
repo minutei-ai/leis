@@ -1,5 +1,3 @@
-###DEC-071402-0-000-20-11-1972@@@
-
 DECRETO Nº 71.402, DE 20 DE NOVEMBRO DE 1972.
 
 Autoriza a encampação dos bens e instalações vinculadas a concessão de serviços públicos de energia elétrica no município de Baixa Guandu, Estado do Espírito Santo.

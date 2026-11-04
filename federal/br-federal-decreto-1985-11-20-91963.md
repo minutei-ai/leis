@@ -1,5 +1,3 @@
-###DEC-091963-0-000-20-11-1985@@@
-
 Decreto nº 91.963, de 20 de novembro de 1985
 
 Renova a concessão outorgada à RÁDIO EDUCAÇÃO RURAL DE TEFÉ LTDA., para explorar serviço de radiodifusão sonora em ondas tropicais, na cidade Tefé, Estado do Amazonas.

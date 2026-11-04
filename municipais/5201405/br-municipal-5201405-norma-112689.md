@@ -4,7 +4,8 @@ DISPÕE SOBRE O PLANO DE CARGOS E SALÁRIOS DOS SERVIDORES DA SECRETARIA DE EDUC
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÃNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-PLANO DE CARGOS E SALÁRIOS<br>
+PLANO DE CARGOS E SALÁRIOS
+
 CAPÍTULO I - DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Em complementação às normas do Estatuto dos Servidores do Magistério Público do Município de Aparecida de Goiânia, a Secretaria Municipal da Educação, cria com a finalidade de estabelecer sua política de pessoal, o Plano de Cargos e Salários - PCS que dispõe sobre a estrutura ocupacional, provimento dos cargos e suas funções gratificadas, política salarial e a relação, servidor público – serviço público, provimento, movimentação de pessoal, benefícios e regime disciplinar dentro da Secretaria Municipal da Educação.
@@ -163,7 +164,6 @@ III -     No ato da admissão, o servidor se obriga a tomar conhecimento:
 
 3)    Plano de Cargos e Salários.
 
-<br>
  
 
 CAPÍTULO VII - DA ESTRUTURA OCUPACIONAL
@@ -264,10 +264,12 @@ Art. 42 - As gratificações serão devidas ao servidor ocupante de cargo efetiv
 
 § 2.º - Os cargos em comissão e as funções de confiança privativos de profissões regulamentadas por lei federal serão ocupados exclusivamente por pessoas qualificadas, inscritas nos seus respectivos conselhos regionais ou equivalentes.
 
-§3º. Os diretores das unidades escolares receberão gratificação correspondente a 50% do valor constante da tabela do “Anexo X” desta Lei para profissional de educação, 40 horas, de acordo com enquadramento de cada servidor, qual seja o seu Nível (PE – I ESPECIAL, PE-I, PE-II, PE-III e PE – IV) e Letra (A até J). <br>
+§3º. Os diretores das unidades escolares receberão gratificação correspondente a 50% do valor constante da tabela do “Anexo X” desta Lei para profissional de educação, 40 horas, de acordo com enquadramento de cada servidor, qual seja o seu Nível (PE – I ESPECIAL, PE-I, PE-II, PE-III e PE – IV) e Letra (A até J). 
+
 (Redação acrescentada pela Lei Complementar nº 217, de 17 de agosto de 2023). 
 
-§4º. Os professores lotados na Secretaria de Educação receberão complementação remuneratória, correspondente a 50% do valor constante da tabela do “Anexo X” desta Lei para profissional de educação, carga horária 40 horas, de acordo com enquadramento de cada servidor, qual seja o seu Nível (PE – I ESPECIAL, PE-I, PE-II, PE-III e PE – IV) e Letra (A até J), se ocupantes de função de confiança, de chefia ou coordenação.<br>
+§4º. Os professores lotados na Secretaria de Educação receberão complementação remuneratória, correspondente a 50% do valor constante da tabela do “Anexo X” desta Lei para profissional de educação, carga horária 40 horas, de acordo com enquadramento de cada servidor, qual seja o seu Nível (PE – I ESPECIAL, PE-I, PE-II, PE-III e PE – IV) e Letra (A até J), se ocupantes de função de confiança, de chefia ou coordenação.
+
 (Redação acrescentada pela Lei Complementar nº 217, de 17 de agosto de 2023). 
 
 Art. 43 - 0 exercício de cargo em comissão ou função de confiança assegurará direitos ao servidor durante o período em que estiver exercendo o cargo ou a função.
@@ -698,7 +700,8 @@ e)    - Gratificação para Docência;
 
 f)    - Adicional de Prestação de Serviço Extra.
 
-§4º. Em caráter excepcional, conforme a necessidade da administração pública, para fins de adequar a grade de aulas da Unidade Escolar, os Profissionais da Educação, poderão ser modulados pela Secretaria Municipal de Educação, com a quantidade de aulas superior a carga horária determinada na Tabela Salarial do Anexo X desta Lei. Hipótese em que receberão complementação salarial proporcional à jornada cumprida.<br>
+§4º. Em caráter excepcional, conforme a necessidade da administração pública, para fins de adequar a grade de aulas da Unidade Escolar, os Profissionais da Educação, poderão ser modulados pela Secretaria Municipal de Educação, com a quantidade de aulas superior a carga horária determinada na Tabela Salarial do Anexo X desta Lei. Hipótese em que receberão complementação salarial proporcional à jornada cumprida.
+
 (Redação acrescentada pela Lei Complementar nº 217, de 17 de agosto de 2023). 
 
 CAPÍTULO XXIV - DA ESTRUTURA DE SALÁRIOS
@@ -767,12 +770,14 @@ Art. 85- Os ocupantes de chefias com cargos em comissão poderão ser dispensado
 
 Art. 86- A Secretaria Municipal da Educação adotará, segundo a sua conveniência e legislação pertinente, para àqueles que lhes prestam serviços, uma jornada de trabalho com 20, 30 e 40 (vinte, trinta e quarenta) horas semanais nas unidades escolares, e em (30) trinta ou 40 (quarenta) horas semanais, nos níveis administrativos, com vencimento correspondente à respectiva jornada.
 
-§1º A jornada de trabalho do professor que acumule cargo no Município de Aparecida de Goiânia, será de no máximo 30 (trinta) horas semanais em cada cargo.<br>
+§1º A jornada de trabalho do professor que acumule cargo no Município de Aparecida de Goiânia, será de no máximo 30 (trinta) horas semanais em cada cargo.
+
 (Redação alterada pela Lei Complementar nº 82, de 20 de março de 2014).
 
 ~~Parágrafo único - A jornada de trabalho do professor que acumule cargo no Município de Aparecida de Goiânia, será de no máximo 30 (trinta) horas semanais em cada cargo.~~
 
-§ 2º - A jornada de trabalho dos ocupantes do cargo de Auxiliar de Secretaria,  será de 30(trinta) horas semanais.<br>
+§ 2º - A jornada de trabalho dos ocupantes do cargo de Auxiliar de Secretaria,  será de 30(trinta) horas semanais.
+
 (Redação acrescentada pela Lei Complementar nº 82, de 20 de março de 2014).
 
 §3º Haverá substituição, em caráter excepcional, de forma esporádica e extraordinária, nos casos de afastamentos legais dos servidores do magistério. As substituições, que ocorrerão conforme a discricionariedade do Secretário Municipal de Educação, obedecerão aos seguintes critérios:
@@ -797,15 +802,18 @@ i)    Para fins de pagamento dos substitutos serão considerados os dias trab
 
 j)    Caso haja desistência do professor substituto, a Secretaria Municipal de Educação deverá ser informada no prazo de 48 horas pelo gestor da Unidade, via ofício, com data de início e fim do período em que o professor cumpriu substituição. O fato deverá ser lavrado em Ata, na qual o professor subscreverá sua desistência; 
 
-k)    Se o professor desistir da substituição, ele ficará impedido de realizar uma nova substituição por o período de 1(um) ano, salvo quando se licenciar;<br>
+k)    Se o professor desistir da substituição, ele ficará impedido de realizar uma nova substituição por o período de 1(um) ano, salvo quando se licenciar;
+
 (Artigo acrescentado pela Lei Complementar nº 217, de 17 de agosto de 2023).
 
 Art. 86-A. A carga horária dos Profissionais de Educação em efetivo exercício nas Escolas Municipais de Educação Integral receberão complementação remuneratória, correspondente a 50% do valor constante da tabela do “Anexo X” desta Lei para profissional de educação, carga horária 40 horas, de acordo com enquadramento de cada servidor, qual seja o seu Nível (PE – I ESPECIAL, PE-I, PE-II, PE-III e PE – IV) e Letra (A até J).
 
-Parágrafo único. Além do vencimento do cargo efetivo de que seja titular, o Profissional de Educação, em efetivo exercício nos dois períodos de funcionamento da Escola Municipal de Educação Integral, perceberá, a título de tempo integral, um adicional mensal de valor equivalente a 30% (trinta por cento) aplicado sobre do vencimento-base de seu cargo efetivo acrescido da complementação do caput deste artigo.<br>
+Parágrafo único. Além do vencimento do cargo efetivo de que seja titular, o Profissional de Educação, em efetivo exercício nos dois períodos de funcionamento da Escola Municipal de Educação Integral, perceberá, a título de tempo integral, um adicional mensal de valor equivalente a 30% (trinta por cento) aplicado sobre do vencimento-base de seu cargo efetivo acrescido da complementação do caput deste artigo.
+
 (Artigo acrescentado pela Lei Complementar nº 217, de 17 de agosto de 2023).
 
-Art. 86-B. Os adicionais a que se refere o art. 86-A, e as gratificações de que tratam o art. 86-B, II e parágrafo único, todos desta lei, serão devidos em caso de férias regulamentares, licença para tratamento de saúde, licença-maternidade, licença-paternidade e 13º salário.   <br>
+Art. 86-B. Os adicionais a que se refere o art. 86-A, e as gratificações de que tratam o art. 86-B, II e parágrafo único, todos desta lei, serão devidos em caso de férias regulamentares, licença para tratamento de saúde, licença-maternidade, licença-paternidade e 13º salário.   
+
 (Artigo acrescentado pela Lei Complementar nº 217, de 17 de agosto de 2023).
 
 Art. 87- Havendo conveniência, interesse mútuo, e consentimento das partes, mediante requerimento por escrito do servidor, a jornada de trabalho poderá ser reduzida, com salário proporcional à mesma; ou quando não houver mais necessidade ou interesse por parte da Secretaria Municipal da Educação, em razão de extinção de turma, turnos, cursos ou fechamento de escola.
@@ -858,7 +866,8 @@ VIII - ADICIONAL POR TEMPO DE SERVIÇO A cada 05 (cinco) anos trabalhados o serv
 
 IX - PROGRESSÃO HORIZONTAL A cada 02 (dois) anos trabalhados o servidor adquire o direito de um acréscimo de 02% (dois por cento) sobre o salário base e qüinqüênio, que será sempre cumulativo.
 
-X -    CONCESSÃO DE UNIFORMES / EPI<br>
+X -    CONCESSÃO DE UNIFORMES / EPI
+
            A Secretaria Municipal da Educação fornecerá, segundo as normas regulamentadoras, uniformes e Equipamentos de Proteção Individuais (EPI), e segundo condições orçamentárias e a seu critério, uniformes apropriados para o trabalho aos servidores que se enquadrem nas seguintes situações, além de outras que vierem a ser estabelecidas:
 
 a)    Pessoal da manutenção;
@@ -877,7 +886,8 @@ g)    Secretária Executiva.
 
 Obs.: De acordo com a Lei nº 6514, de 22/12/77, que criou as normas regulamentadoras das atividades de Segurança e Medicina do Trabalho, e Portaria nº 3214 de 08/06/78 que aprovou as Normas Regulamentadoras, dente elas a NR-06, que estabeleceu no seu item 6.2 a obrigatoriedade da distribuição gratuita dos EPIs e EPCs aos servidores, bem como a obrigatoriedade do seu uso e no item 6.7.1 obrigando o servidor a usá-lo para a finalidade a que se destina, responsabilizando-o pela guarda e comunicação quando ele se tornar impróprio ao uso.
 
-XI -    LICENÇA PARA APRIMORAMENTO PROFISSIONAL<br>
+XI -    LICENÇA PARA APRIMORAMENTO PROFISSIONAL
+
            A licença para aprimoramento profissional, concedida pelo Secretário (a) da Educação, consiste no afastamento do servidor, sem prejuízo do vencimento ou da remuneração, para freqüentar curso de aperfeiçoamento, mestrado ou doutorado.
 
 a)    O curso a ser freqüentado deve ser reconhecido e oferecido por instituição oficial ou credenciada; devendo ser entregue semestralmente na Secretaria Municipal da Educação declaração de freqüência do servidor.
@@ -894,7 +904,8 @@ b) para obtenção da licença:
 
 • somente terá direito a licença de aperfeiçoamento de mestrado ou doutorado, se o curso pretendido estiver na área de atuação do servidor, de acordo com o cargo ocupado.
 
-• observará demais critérios definidos pela Secretaria Municipal de Educação e a concessão será ato discricionário da Administração Pública.”<br>
+• observará demais critérios definidos pela Secretaria Municipal de Educação e a concessão será ato discricionário da Administração Pública.”
+
 (Redação alterada pela Lei Complementar nº 217, de 17 de agosto de 2023).
 
 ~~b)    Para obtenção da licença:~~
@@ -1129,16 +1140,20 @@ Art. 130 - – Esta Lei entrará em vigor na data de sua publicação, revogadas
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e seis dias do mês de setembro de dois mil e seis.
 
-JOSÉ MACEDO ARAÚJO<br>
+JOSÉ MACEDO ARAÚJO
+
 PREFEITO MUNICIPAL
 
-ADRIANA FERREIRA DA S. OLIVEIRA BORGES<br>
+ADRIANA FERREIRA DA S. OLIVEIRA BORGES
+
 SECRETÁRIA DA EDUCAÇÃO
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SECRETÁRIO EXECUTIVO
 
-MARCELO RIBEIRO FERNANDES<br>
+MARCELO RIBEIRO FERNANDES
+
 PROCURADOR GERAL
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18732)

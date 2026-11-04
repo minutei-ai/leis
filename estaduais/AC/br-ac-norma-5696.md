@@ -1,6 +1,10 @@
 > **LEI Nº 4.145, DE 09 DE AGOSTO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a garantia de prioridade de tramitação dos procedimentos investigatórios que visem à apuração e responsabilização de crimes, dolosos ou culposos, que tenham como vítimas crianças e adolescentes.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a garantia de prioridade de tramitação dos procedimentos investigatórios que visem à apuração e responsabilização de crimes, dolosos ou culposos, que tenham como vítimas crianças e adolescentes.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

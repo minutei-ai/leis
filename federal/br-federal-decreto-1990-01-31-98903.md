@@ -1,7 +1,3 @@
-1
-
-###DEC-098903-0-000-31-01-1990@@@
-
 DECRETO Nº 98.903, DE 31 DE JANEIRO DE 1990
 
 Autoriza o Funcionamento do curso de Turismo da Faculdade para Executivos, em Natal, Rio Grande do Norte.

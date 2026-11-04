@@ -1,5 +1,3 @@
-###DEL-007507-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.507 – DE 30 DE ABRIL DE 1945
 
 Modifica o traçado do tronco T P-2, do Plano Geral de Viação Nacional

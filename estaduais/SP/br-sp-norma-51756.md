@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51756)
-
 # LEI Nº 11.810, DE 09 DE SETEMBRO DE 2004
 
 ## ( PL 243/2004 - Valdomiro Lopes)

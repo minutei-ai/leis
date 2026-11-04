@@ -1,5 +1,3 @@
-###DEC-059973-0-000-10-01-1967@@@
-
 DECRETO Nº 59.973, DE 10 DE JANEIRO DE 1967.
 
 Outorga concessão à Televisão Cidade Branca Ltda. para instalar uma emissora de radiodifusão de sons e imagens (televisão).

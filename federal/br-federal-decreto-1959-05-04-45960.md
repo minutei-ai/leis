@@ -1,5 +1,3 @@
-###DEC-045960-0-000-04-05-1959@@@
-
 DECRETO Nº 45.960, DE 4 DE MAIO DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal da Bahia.

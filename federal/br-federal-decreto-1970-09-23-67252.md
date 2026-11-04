@@ -1,5 +1,3 @@
-###DEC-067252-0-000-23-09-1970@@@
-
 DECRETO Nº 67.252, DE 23 DE SETEMBRO DE 1970.
 
 Concede à Companhia Nacional do Carvão do Barro Branco o direito de lavrar carvão mineral, no município de Lauro Müller, Estado de Santa Catarina.

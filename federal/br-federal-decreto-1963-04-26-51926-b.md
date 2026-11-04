@@ -1,5 +1,3 @@
-###DEC-051926-B-000-26-04-1963@@@
-
 DECRETO Nº 51.926, DE 26 DE ABRIL DE 1963.
 
 Cancela a autorização para funcionar, no Brasil, concedida à sociedade anônima General Motors Aceptance Corporation, South America.

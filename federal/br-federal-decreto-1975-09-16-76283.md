@@ -1,5 +1,3 @@
-###DEC-076283-0-000-16-09-1975@@@
-
 DECRETO Nº 76.283 - DE 16 DE SETEMBRO DE 1975
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Brasília, Distrito Federal.

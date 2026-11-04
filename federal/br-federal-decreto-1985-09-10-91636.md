@@ -1,5 +1,3 @@
-###DEC-091636-0-000-10-09-1985@@@
-
 Decreto nº 91.636, de 10 de setembro de 1985
 
 Revoga o Decreto nº 86 268, de 06 de agosto de 1981, que "Concede à Empresa Husky Oil International Ltd., autorização para funcionar na República Federativa do Brasil' e dá outras providências.

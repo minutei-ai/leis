@@ -1,5 +1,3 @@
-###DEC-084789-0-000-16-06-1980@@@
-
 Decreto nº 84.789, de 16 de junho de 1980.
 
 Dispõe sobre a inclusão, por transposição, na Categoria Funcional de Agente de Saúde Pública, do Grupo-Saúde Pública, código: SP-1700 ou LT-SP-1700, e dá outras providências.

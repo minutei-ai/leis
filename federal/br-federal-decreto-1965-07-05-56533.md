@@ -1,5 +1,3 @@
-###DEC-056533-0-000-05-07-1965@@@
-
 DECRETO Nº 56.533, DE 5 DE JULHO DE 1965.
 
 Inclui a indústria de acumuladores elétricos entre as atividades em que é permitido o trabalho aos domingos e feriados.

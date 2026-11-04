@@ -1,5 +1,3 @@
-###DEC-053511-0-000-29-01-1964@@@
-
 DECRETO nº 53.511, de 29 de Janeiro de 1964.
 
 Altera o Regulamento da Escola de Comando e Estado-Maior da Aeronáutica.

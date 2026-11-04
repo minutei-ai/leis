@@ -1,5 +1,3 @@
-###DEC-060322-0-000-07-03-1967@@@
-
 DECRETO Nº 60.322, de 7 de março de 1967.
 
 Dá nova redação ao artigo 22, do Decreto nº 59.832, de 21 de Dezembro de 1966.

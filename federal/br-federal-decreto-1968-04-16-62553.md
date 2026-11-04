@@ -1,5 +1,3 @@
-###DEC-062553-0-000-16-04-1968@@@
-
 Decreto nº 62.553, de 16 de abril de 1968.
 
 Concede permissão permanente para trabalhar em domingos e feriados, civis e religiosos, à emprêsa Indústria Química de Sínteses & Fermentações S.A., da cidade de Campos, Estado do Rio de Janeiro.

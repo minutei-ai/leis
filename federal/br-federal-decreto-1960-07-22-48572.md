@@ -1,5 +1,3 @@
-###DEC-048572-0-000-22-07-1960@@@
-
 DECRETO Nº 48.572, DE 22 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Simplício Antunes Armondes a pesquisar mica e quartzo no município de Galiléia Estado de Minas Gerais.

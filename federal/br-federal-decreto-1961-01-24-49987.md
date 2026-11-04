@@ -1,5 +1,3 @@
-###DEC-049987-0-000-24-01-1961@@@
-
 DECRETO Nº 49.987, DE 24 DE JANEIRO DE 1961.
 
 Altera temporàriamente, dispositivos do Regulamento de Promoções para Oficiais da Marinha.

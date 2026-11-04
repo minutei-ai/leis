@@ -1,5 +1,3 @@
-###DEC-075248-0-000-21-01-1975@@@
-
 DECRETO Nº 75.248, DE 21 DE JANEIRO DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de imóvel em Picos-PI, destinado ao Ministério do Exército.

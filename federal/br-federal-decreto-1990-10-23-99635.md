@@ -1,5 +1,3 @@
-###DEC-099635-0-000-23-10-1990@@@
-
 DECRETO N° 99.635, DE 23 DE OUTUBRO DE 1990
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo Regional de Abertura de Mercados em favor da Bolívia (Acordo n° 1).

@@ -1,5 +1,3 @@
-###DEC-069850-0-000-29-12-1971@@@
-
 DECRETO Nº 69.850 - DE 29 DE DEZEMBRO DE 1971
 
 Outorga à Companhia Estadual de Energia Elétrica concessão para o aproveitamento da energia hidráulica de um trecho do rio Jacuí, no Estado do Rio Grande do Sul.

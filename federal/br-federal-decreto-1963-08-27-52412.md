@@ -1,5 +1,3 @@
-###DEC-052412-0-000-27-08-1963@@@
-
 decreto nº 52.412, de 27 de agôsto de 1963.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Fazenda.

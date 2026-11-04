@@ -1,5 +1,3 @@
-###DEC-076146-0-000-21-08-1975@@@
-
 DECRETO Nº 76.146 - DE 21 DE AGOSTO DE 1975
 
 Autoriza o funcionamento da Faculdade de Engenharia de Operação, mantida pela Fundação Municipal de São João del Rei, com sede na cidade de São João del Rei, Estado de Minas Gerais.

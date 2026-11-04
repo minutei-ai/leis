@@ -1,5 +1,3 @@
-###DEL-005465-0-000-07-05-1943@@@
-
 DECRETO‑LEI N. 5.465 – DE 7 DE MAIO DE 1943
 
 Cria cargos no Ministério da Justiça e Negócios Interiores e dá outras provi­dências

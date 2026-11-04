@@ -1,5 +1,3 @@
-###DEL-000134-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 134 – DE 29 DE DEZEMBRO DE 1937
 
 Abre o crédito suplementar de 50:000$000 (cincoenta contos de réis) para refôrço da sub-consignação da verba 18ª – Substituições – do vigente orçamento da Prefeitura do Distrito Federal

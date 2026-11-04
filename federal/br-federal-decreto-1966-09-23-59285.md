@@ -1,5 +1,3 @@
-###DEC-059285-0-000-23-09-1966@@@
-
 DECRETO N.º 59.285, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza a Companhia de Mineração de Brejaúba a pesquisar berilo, bismuto, águas marinhas e pedras semi-preciosas, no município de Conceição do Mato Dentro, Estado de Minas Gerais.

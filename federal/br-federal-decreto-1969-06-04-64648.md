@@ -1,5 +1,3 @@
-###DEC-064648-0-000-04-06-1969@@@
-
 DECRETO Nº 64.648, DE 4 DE JUNHO DE 1969.
 
 Eleva a categoria de Embaixada a Legação do Brasil em Cabul.

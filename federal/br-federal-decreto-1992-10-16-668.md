@@ -1,7 +1,3 @@
-1
-
-###DEC-000668-0-000-16-10-1992@@@
-
 DECRETO N° 668, DE 16 DE OUTUBRO DE 1992
 
 Concede indulto, comuta penas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000067-0-000-15-12-1937@@@
-
 DECRETO-LEI N. 67 – DE 15 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Educação e Saúde, o crédito especial de réis 10:500$000, para pagamento de aluguéis de salas, no “Edifício Rex”

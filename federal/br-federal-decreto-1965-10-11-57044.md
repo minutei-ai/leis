@@ -1,5 +1,3 @@
-###DEC-057044-0-000-11-10-1965@@@
-
 DECRETO Nº 57.044, DE 11 DE outubro DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Boavista Companhia de Seguros de Vida, inclusive aumento do capital social.

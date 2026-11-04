@@ -1,6 +1,10 @@
 > **LEI Nº 3.154, DE 29 DE JULHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a campanha de combate às drogas nas escolas públicas e privadas do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a campanha de combate às drogas nas escolas públicas e privadas do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

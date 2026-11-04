@@ -1,5 +1,3 @@
-###MPV-001866-0-003-27-07-1999@@@
-
 Medida Provisória nº 1.866-3, de 27 de julho de 1999.
 
 Altera dispositivos do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, e dá outras providências.

@@ -1,4 +1,5 @@
-MUNICÍPIO DE APARECIDA DE GOIÂNIA<br>
+MUNICÍPIO DE APARECIDA DE GOIÂNIA
+
 CÂMARA MUNICIPAL
 
 Projeto de Emenda à Lei Orgânica do Município de Aparecida de Goiânia Nº 005 de 19 de Dezembro de 2012.
@@ -19,14 +20,18 @@ Art. 2º – Esta emenda entra em vigor na data de sua publicação, revogando-s
 
 MESA DIRETORA
 
-JOÃO ANTÔNIO BORGES<br>
+JOÃO ANTÔNIO BORGES
+
 Presidente
 
-ASSIS BRASIL SANTOS RODRIGUES<br>
+ASSIS BRASIL SANTOS RODRIGUES
+
 Vice-Presidente
 
-MAX SANTOS DE MENEZES<br>
+MAX SANTOS DE MENEZES
+
 1º Secretário
 
-JOSÉ DOMINGOS CARDOSO<br>
+JOSÉ DOMINGOS CARDOSO
+
 2º Secretário

@@ -1,5 +1,3 @@
-###MPV-002108-0-009-27-12-2000@@@
-
 Medida Provisória Nº 2.108-9, de 27 DE DEZEMBRO DE 2000.
 
 Institui, no âmbito da União, nos termos do art. 37, inciso XXI, da Constituição Federal, modalidade de licitação denominada pregão, para aquisição de bens e serviços comuns, e dá outras providências.

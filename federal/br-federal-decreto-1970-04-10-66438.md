@@ -1,5 +1,3 @@
-###DEC-066438-0-000-10-04-1970@@@
-
 DECRETO Nº 66.438, DE 10 DE ABRIL DE 1970.
 
 Altera a estrutura do Hospital dos Servidores do Estado e dá outras providências.

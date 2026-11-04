@@ -1,5 +1,3 @@
-###MPV-000122-0-000-25-06-2003@@@
-
 MEDIDA PROVISÓRIA Nº 122, DE 25 DE JUNHO 2003.       
 
 Dispõe sobre o direcionamento de depósitos à vista captados pelas instituições financeiras para operações de crédito destinadas à população de baixa renda e a microempreendedores, autoriza o Poder Executivo a instituir o Programa de Incentivo à Implementação de Projetos de Interesse Social \- PIPS, e dá outras providências.
@@ -84,5 +82,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da 
 
         Brasília, 25 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Antonio Palocci Filho

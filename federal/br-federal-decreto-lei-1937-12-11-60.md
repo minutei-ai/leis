@@ -1,5 +1,3 @@
-###DEL-000060-0-000-11-12-1937@@@
-
 DECRETO-LEI N. 60 – DE 11 DE DEZEMBRO DE 1937
 
 Abre o crédito suplementar de 3.670:000$000 para refôrço de sub-consignações da verba 3ª – Departamento dos Correios e Telégrafos do vigente orçamento do Ministério da Viação e Obras Públicas

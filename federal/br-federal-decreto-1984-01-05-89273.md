@@ -1,5 +1,3 @@
-###DEC-089273-0-000-05-01-1984@@@
-
 DECRETO Nº 89.273, de O5 de janeiro de 1984.
 
 Altera o Regulamento do Magistério do Exército, aprovado pelo Decreto nº 70.219, de 1º de março de 1972.

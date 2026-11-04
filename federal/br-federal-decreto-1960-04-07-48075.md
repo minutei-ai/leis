@@ -1,5 +1,3 @@
-###DEC-048075-0-000-07-04-1960@@@
-
 DECRETO Nº 48.075, DE 7 DE ABRIL DE 1960.
 
 Autoriza Verolme Estaleiros Reunidos do Brasil S A, a instalar usina termoelétrica, para uso próprio, no município de Angra dois Reis, Estado do Rio de Janeiro.

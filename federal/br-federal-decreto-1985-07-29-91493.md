@@ -1,5 +1,3 @@
-###DEC-091493-0-000-29-07-1985@@@
-
 DECRETO nº 91.493, de 29 de julho de 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

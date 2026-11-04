@@ -1,7 +1,3 @@
-1
-
-###DEC-000393-0-000-24-12-1991@@@
-
 DECRETO Nº 393, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da área indígena Sai-Cinza, no Estado do Pará.

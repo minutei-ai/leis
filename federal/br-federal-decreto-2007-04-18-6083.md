@@ -1,5 +1,3 @@
-###DEC-006083-0-000-18-04-2007@@@
-
 DECRETO Nº 6.083, DE 18 DE ABRIL DE 2007.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.
@@ -25,5 +23,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Orlando Silva de Jesus Júnior
-
-Este texto não substitui o publicado no DOU de 19.4.2007

@@ -1,5 +1,3 @@
-###DEC-046002-0-000-15-05-1959@@@
-
 decreto nº 46.002, de 15 de maio de 1959.
 
 Aprova o Regulamento do Instituto Brasileiro do Sal.

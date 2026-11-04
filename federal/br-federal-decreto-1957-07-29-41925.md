@@ -1,34 +1,32 @@
-###DEC-041925-0-000-29-07-1957@@@
+**DECRETO Nº 41.925, DE 29 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41.925, DE 29 DE JULHO DE 1957.</strong>
+***Aprova o Regimento da Comissão Executiva para a aplicação dos recursos destinado a assistência à cafeicultura a que se refere o Decreto nº 41.651, de 4 de junho de 1957.***
 
-<em><strong>Aprova o Regimento da Comissão Executiva para a aplicação dos recursos destinado a assistência à cafeicultura a que se refere o Decreto nº 41.651, de 4 de junho de 1957.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e de acôrdo com o disposto no art. 3º, parágrafo único, do Decreto nº 41.651, de 4 de junho de 1957,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e de acôrdo com o disposto no art. 3º, parágrafo único, do Decreto nº 41.651, de 4 de junho de 1957,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento, que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Fazenda para a aplicação pela Comissão Executiva instituída no artigo 3º do referido decreto, dos recursos destinados à cafeicultura e operações de defesa do mercado do café.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento, que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Fazenda para a aplicação pela Comissão Executiva instituída no artigo 3º do referido decreto, dos recursos destinados à cafeicultura e operações de defesa do mercado do café.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 29 de julho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBTSCHEK</strong>
+**JUSCELINO KUBTSCHEK**
 
 José Maria Alkmim
 
 Mário Meneghetti
 
-<strong>A COMISSÃO EXECUTIVA, CRIADA PELO ART. 3º DO DECRETO Nº 41.651, DE 4 DE JULHO DE 1657, PARA O DESEMPENHO DE SUAS ATRIBUIÇÕES E NA FORMA PREVISTA NO PARÁGRAFO ÚNICO DO MESMO ARTIGO, RESOLVE APROVAR O SEGUINTE:</strong>
+**A COMISSÃO EXECUTIVA, CRIADA PELO ART. 3º DO DECRETO Nº 41.651, DE 4 DE JULHO DE 1657, PARA O DESEMPENHO DE SUAS ATRIBUIÇÕES E NA FORMA PREVISTA NO PARÁGRAFO ÚNICO DO MESMO ARTIGO, RESOLVE APROVAR O SEGUINTE:**
 
 REGIMENTO INTERNO
 
-<strong>Art</strong>. 1º A Comissão Executiva, incumbida de aplicar os recursos destinados à lavoura cafeeira pelo Decreto nº 41.651, de 4 de julho de 1957, designar-se-á Comissão Executiva de Assistência à Cafeicultura (C. E. A. C.).
+**Art**. 1º A Comissão Executiva, incumbida de aplicar os recursos destinados à lavoura cafeeira pelo Decreto nº 41.651, de 4 de julho de 1957, designar-se-á Comissão Executiva de Assistência à Cafeicultura (C. E. A. C.).
 
-<strong>Art</strong>. 2º Fazem parte da C.E.A.C.:
+**Art**. 2º Fazem parte da C.E.A.C.:
 
 a) O Ministro da Fazenda, que a preside, em suas reuniões, com o voto de qualidade;
 
@@ -44,11 +42,11 @@ e) O Diretor da Carteira da Câmbio do Banco do Brasil S.A.;
 
 § 2º A execução das medidas que forem aprovadas pela C.E.A.C. será da incumbência do Presidente do Instituto Brasileiro do Café.
 
-<strong>Art</strong>. 3º Compete à C.E.A.C.:
+**Art**. 3º Compete à C.E.A.C.:
 
 a) convencionar com o Banco do Brasil S.A. os juros dos depósitos relativos aos recursos que são transferidos a crédito da Comissão, por fôrça e na forma do art. 1º do citado Decreto nº 41.651;
 
-b) aprovar as condições para a venda dos cafés a que se refere a letra <em>b</em> do art. 1º do Decreto número 41.651;
+b) aprovar as condições para a venda dos cafés a que se refere a letra *b* do art. 1º do Decreto número 41.651;
 
 c) orçar a receita da Comissão e fixar a aplicação dos recursos, bem como as despesas de seus serviços;
 
@@ -72,28 +70,28 @@ l) estruturar os próprios serviços, baixando as instruções necessárias à s
 
 m) elaborar balancete mensal.
 
-§ 1º As operações referidas na letra <em>h</em> serão realizadas pela C.E.A.C., por intermédio do Instituto Brasileiro do Café, mediante convênio, atendendo ao disposto na Lei número 1.779, de 22 de dezembro de 1952.
+§ 1º As operações referidas na letra *h* serão realizadas pela C.E.A.C., por intermédio do Instituto Brasileiro do Café, mediante convênio, atendendo ao disposto na Lei número 1.779, de 22 de dezembro de 1952.
 
-§ 2º As operações de financiamento para a formação e renovação de cafezais previstas na letra <em>g</em> ou para a aquisição de utilidades serão feitas através da Carteira de Crédito Agrícola e Industrial do Banco do Brasil S.A., ou de Bancos oficiais outros, mediante convênios, tendo em vista sempre o disposto na letra <em>g</em>.
+§ 2º As operações de financiamento para a formação e renovação de cafezais previstas na letra *g* ou para a aquisição de utilidades serão feitas através da Carteira de Crédito Agrícola e Industrial do Banco do Brasil S.A., ou de Bancos oficiais outros, mediante convênios, tendo em vista sempre o disposto na letra *g*.
 
 § 3º Os convênios estipularão renumeração aos órgãos e entidades incumbidas da execução dos financiamentos ou dos serviços.
 
-<strong>Art</strong>. 4º A C.E.A.C., reunir-se-á obrigatoriamente uma vez por mês, em data fixada pelo Presidente, deliberando com a presença de três membros, no mínimo.
+**Art**. 4º A C.E.A.C., reunir-se-á obrigatoriamente uma vez por mês, em data fixada pelo Presidente, deliberando com a presença de três membros, no mínimo.
 
 Parágrafo único. O presidente ou a maioria de seus membros poderão convocar reuniões extraordinárias.
 
-<strong>Art</strong>. 5º As deliberações da C.E.A.C. serão tomadas por maioria de votos e constarão das atas das reuniões.
+**Art**. 5º As deliberações da C.E.A.C. serão tomadas por maioria de votos e constarão das atas das reuniões.
 
-<strong>Art</strong>. 6º Para o desempeno de suas atribuições, contará a C.E.A.C. com um serviço de secretaria e contabilidade.
+**Art**. 6º Para o desempeno de suas atribuições, contará a C.E.A.C. com um serviço de secretaria e contabilidade.
 
 Parágrafo único. Na forma da legislação em vigor, poderá o Presidente da C.E.A.C. requisitar do Instituto Brasileira do Café funcionários necessários aos serviços da Comissão.
 
-<strong>Art</strong>. 7º A C.E.A.C. manterá permanente contato com os órgãos executores de seu programa de ação, fiscalizando e controlando sua atividade, reservando-se o direito de rescisão dos convênios sempre que julgas conveniente.
+**Art**. 7º A C.E.A.C. manterá permanente contato com os órgãos executores de seu programa de ação, fiscalizando e controlando sua atividade, reservando-se o direito de rescisão dos convênios sempre que julgas conveniente.
 
-<strong>Art</strong>. 8º Para o custeio das despesas com seus serviços contará a C.E.A.C. com a renda liquida dos recursos postos à sua disposição.
+**Art**. 8º Para o custeio das despesas com seus serviços contará a C.E.A.C. com a renda liquida dos recursos postos à sua disposição.
 
-<strong>Art</strong>. 9º Os casos omissos serão resolvidos pela C.E.A.C.
+**Art**. 9º Os casos omissos serão resolvidos pela C.E.A.C.
 
 Rio de Janeiro, em 29 de julho de 1957.
 
-<strong>JOSÉ MARIA ALKMIM</strong>
+**JOSÉ MARIA ALKMIM**

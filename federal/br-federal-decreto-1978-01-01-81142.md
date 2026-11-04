@@ -1,5 +1,3 @@
-###DEC-081142-0-000-01-01-1978@@@
-
 decreto nº 81.142, de 1º de janeiro de 1978.
 
 Declara luto oficial

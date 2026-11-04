@@ -1,5 +1,3 @@
-###DEC-093538-0-000-06-11-1986@@@
-
 DECRETO Nº 93.538, DE 6 DE NOVEMBRO DE 1986
 
 Regulamenta o Fundo Nacional de Desenvolvimento (FND), criado pelo Decreto-lei nº 2.288, de 23 de julho de 1986, e dá outras providências.

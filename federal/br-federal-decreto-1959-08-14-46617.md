@@ -1,5 +1,3 @@
-###DEC-046617-0-000-14-08-1959@@@
-
 DECRETO Nº 46.617, de 14 de agôsto de 1959.
 
 Revoga o § 3º do art. 18 do Decreto nº 42.916, de 30 de dezembro de 1957.

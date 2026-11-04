@@ -1,5 +1,3 @@
-###DEC-093649-0-000-05-12-1986@@@
-
 DECRETO Nº 93.649, DE 5 DE DEZEMBRO DE 1986
 
 Concede à COMPANHIA FERRO E AÇO DE VITÓRIA - COFAVI, autorização para proceder a aumento de seu capital social.

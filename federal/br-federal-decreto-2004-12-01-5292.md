@@ -1,5 +1,3 @@
-###DEC-005292-0-000-01-12-2004@@@
-
 DECRETO Nº 5.292 DE 1º DE DEZEMBRO DE 2004
 
 Dispõe sobre a execução da Ata de Retificação do Trigésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai, da República Oriental do Uruguai e da República do Chile, de 23 de agosto de 2004.
@@ -24,8 +22,10 @@ LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
 
-# ATA DE RETIFICAÇÃO DO TRIGÉSIMO NONO PROTOCOLO<br>
-ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO<br>
+# ATA DE RETIFICAÇÃO DO TRIGÉSIMO NONO PROTOCOLO
+
+ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO
+
 ECONÔMICA N° 35
 
         Na cidade de Montevidéu, aos 23 dias do mês de agosto de dos mil e quatro, a Secretaria-Geral da Associação Latino-Americana de Integração (ALADI), em uso das faculdades que lhe confere a Resolução 30 do Comitê de Representantes, como depositária dos Acordos e Protocolos assinados pelos Governos dos países- membros da ALADI, e em conformidade com o estabelecido em seu Artigo Terceiro, faz constar:

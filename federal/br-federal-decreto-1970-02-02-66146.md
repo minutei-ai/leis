@@ -1,5 +1,3 @@
-###DEC-066146-0-000-02-02-1970@@@
-
 DECRETO Nº 66.146 - DE 2 DE FEVEREIRO DE 1970
 
 Outorga concessão à Companhia Telefônica de Alagoas S.A., para executar serviços de telefonia público urbano (Municipal) no Estado de Alagoas.

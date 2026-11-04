@@ -1,5 +1,3 @@
-###DEC-058257-0-000-26-04-1966@@@
-
 decreto nº 58.257 de 26 de abril de 1966.
 
 Transforma o Consulado de carreira em Casablanca em Consulado honorário.

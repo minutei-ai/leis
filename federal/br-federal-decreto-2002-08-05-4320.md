@@ -1,5 +1,3 @@
-###DEC-004320-0-000-05-08-2002@@@
-
 DECRETO Nº 4.320, DE 5 DE AGOSTO DE 2002
 
 Aprova o Estatuto e o Quadro Demonstração Gratificadas dos Cargos em Comissão e das Funções Gratificadas da Fundação Escola Nacional de Administração Pública – ENAP,e dá outras providências.

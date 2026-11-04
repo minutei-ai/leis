@@ -1,14 +1,12 @@
-###DEC-063273-0-000-24-09-1968@@@
+**DECRETO Nº 63.273, DE 24 DE SETEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.273, DE 24 DE SETEMBRO DE 1968.</strong>
+***Acrescenta os cargos que especifica à lotação numérica e nominal da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.***
 
-<em><strong>Acrescenta os cargos que especifica à lotação numérica e nominal da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterada a lotação numérica e nominal do Quadro de Pessoal - Parte Permanente, do Ministério da Fazenda, aprovada pelo Decreto nº 38.673, de 27 de janeiro de 1956, adicionando-se, com os respectivos ocupantes, os cargos em que foram transformados pela Lei número 3.780, de 12 de julho de 1960, os antigos empregos da ex-Comissão Executiva da Defesa da Borracha e da Comissão de Financiamento da Produção, ocupados, pelos servidores abaixo relacionados os quais ficam distribuídos pelas seguintes repartições:
+**Art**. 1º Fica alterada a lotação numérica e nominal do Quadro de Pessoal - Parte Permanente, do Ministério da Fazenda, aprovada pelo Decreto nº 38.673, de 27 de janeiro de 1956, adicionando-se, com os respectivos ocupantes, os cargos em que foram transformados pela Lei número 3.780, de 12 de julho de 1960, os antigos empregos da ex-Comissão Executiva da Defesa da Borracha e da Comissão de Financiamento da Produção, ocupados, pelos servidores abaixo relacionados os quais ficam distribuídos pelas seguintes repartições:
 
 I - Administração do Edifício da Fazenda
 
@@ -86,10 +84,10 @@ Técnico de Administração - 1 cargo
 
 1\. Jarbas Alfredo Duarte
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 24 de setembro de 1968; 147º da Independência e 80º da República
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Antonio Delfim Netto

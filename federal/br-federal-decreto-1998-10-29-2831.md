@@ -1,5 +1,3 @@
-###DEC-002831-0-000-29-10-1998@@@
-
 DECRETO Nº 2.831, DE 29 DE OUTUBRO DE 1998
 
 Promulga o Acordo sobre Serviços Aéreos, celebrado entre o Governo da República Federativa do Brasil e o Governo da Nova Zelândia, em Brasília, em 18 de junho de 1996.
@@ -290,7 +288,17 @@ Em testemunho do que, os abaixo assinados, devidamente autorizados por seus resp
 
 Feito em Brasília, em 18 de junho de 1996, em dois exemplares originais, nos idiomas português e inglês, sendo todos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:194.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da Nova Zelândia</span></p></td></tr><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:194.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Philip Burdon</span></p></td></tr><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro das Relações Exteriores</span></p></td><td style="width:194.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:right; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro do Comércio</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da Nova Zelândia
+
+Luiz Felipe Lampreia
+
+Philip Burdon
+
+Ministro das Relações Exteriores
+
+Ministro do Comércio
 
 Anexo
 

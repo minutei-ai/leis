@@ -1,5 +1,3 @@
-###DEC-096585-0-000-25-08-1988@@@
-
 DECRETO N° 96.585, DE 25 DE AGOSTO DE 1988
 
 Outorga concessão à SOCIEDADE STEREOSUL DE RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Volta Redonda, Estado do Rio de Janeiro.

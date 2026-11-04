@@ -1,5 +1,3 @@
-###DEC-047187-0-000-06-11-1959@@@
-
 DECRETO Nº 47.187, DE 6 DE NOVEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Pedro Busato a pesquisar calcário nos municípios de Almirante Tamandaré e Colombo, Estado do Paraná.

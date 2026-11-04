@@ -1,5 +1,3 @@
-###DEC-052162-0-000-27-06-1963@@@
-
 DECRETO Nº 52.162, DE 27 DE JUNHO DE 1963.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de Cr$53.000.000,00 (cinqüenta e três milhões de cruzeiros), destinado à Fundação Universidade do Amazonas.

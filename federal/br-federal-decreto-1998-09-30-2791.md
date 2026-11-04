@@ -1,5 +1,3 @@
-###DEC-002791-0-000-30-09-1998@@@
-
 DECRETO Nº 2.791, DE 30 DE SETEMBRO DE 1998
 
 Prorroga o prazo de remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-009344-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.344 – DE 10 DE JUNHO DE 1946
 
 Define a competência para a expedição de “Licenças de Exportação”, e dá outras providências.

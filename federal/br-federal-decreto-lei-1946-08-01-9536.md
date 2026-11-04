@@ -1,5 +1,3 @@
-###DEL-009536-0-000-01-08-1946@@@
-
 DECRETO-LEI N. 9.536 – DE 1 DE AGÔSTO DE 1946
 
 Dá nova redação ao item 4 do art. 32 do Decreto-lei nº 8.760, de 21 de Janeiro de 1946.

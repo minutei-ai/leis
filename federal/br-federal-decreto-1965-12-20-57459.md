@@ -1,5 +1,3 @@
-###DEC-057459-0-000-20-12-1965@@@
-
 DECRETO Nº 57.459, DE 20 DE DEZEMBRO DE 1965.
 
 Estabelece Coordenadorias Regionais do Ministério da Agricultura nos Estados e Territórios.
@@ -29,8 +27,6 @@ Brasília, 20 de dezembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Ney Braga
-
-###DEC-057459-0-000-20-12-1965@@@RET01+++
 
 DECRETO Nº 57.459, DE 20 DE DEZEMBRO DE 1965.
 

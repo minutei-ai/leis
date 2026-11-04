@@ -1,5 +1,3 @@
-###DEC-080987-0-000-12-12-1977@@@
-
 Decreto nº 80.987, de 12 de dezembro de 1977.
 
 Concede a Djalma Borges - Firma Individual o direito de lavrar calcário no Município de Rio Pardo, Estado do Rio Grande do Sul.

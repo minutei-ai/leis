@@ -1,5 +1,3 @@
-###DEC-004584-0-000-05-02-2003@@@
-
 DECRETO Nº 4.584, DE 5 DE FEVEREIRO DE 2003.
 
        Institui o Serviço Social Autônomo Agência de Promoção de Exportações do Brasil - APEX-Brasil e dá outras providências.
@@ -160,5 +158,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 5 de fevereiro de 2003; 182~~º~~ da Independência e 115~~º~~ da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Luiz Fernando Furlan

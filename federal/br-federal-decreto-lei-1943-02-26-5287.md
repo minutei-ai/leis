@@ -1,5 +1,3 @@
-###DEL-005287-0-000-26-02-1943@@@
-
 DECRETO‑LEI N. 5.287 – DE 26 DE FEVEREIRO DE 1943
 
 Dispõe sobre os Orgãos Auxiliares e as Comissões Especiais do Conselho Nacional de Águas e Energia Elétrica e da outras providências

@@ -1,5 +1,3 @@
-###DEC-062101-0-000-11-01-1968@@@
-
 DECRETO Nº 62.101, DE 11 DE JANEIRO DE 1968.
 
 Concede à sociedade Italcable Servizi Cablografici Radiotelegrafici e Radioelettrici - Societá per Azioni autorização para continuar a funcionar na República do Brasil.

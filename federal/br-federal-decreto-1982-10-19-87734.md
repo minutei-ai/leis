@@ -1,5 +1,3 @@
-###DEC-087734-0-000-19-10-1982@@@
-
 Decreto nº 87.734, de 19 de outubro de 1982
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

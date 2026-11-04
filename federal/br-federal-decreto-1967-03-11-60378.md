@@ -1,5 +1,3 @@
-###DEC-060378-0-000-11-03-1967@@@
-
 DECRETO Nº 60.378, DE 11 DE MARÇO DE 1967.
 
 Concede à Aro-Minas Comércio e Extração de Minérios Ltda. autorização para funcionar como emprêsa de mineração.

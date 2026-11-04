@@ -1,5 +1,3 @@
-###DEC-078042-0-000-13-07-1976@@@
-
 decreto nº 78.042, de 13 de julho de 1976.
 
 Dispõe sobre estrutura básica do Ministro dos Transportes e dá outras providências.

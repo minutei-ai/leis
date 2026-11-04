@@ -1,5 +1,3 @@
-###DEL-003858-0-000-21-11-1941@@@
-
 DECRETO-LEI N. 3.858 – DE 21 DE NOVEMBRO DE 1941
 
 Cria cargos nos Quadros I e III do Ministério da Viação e Obras Públicas, para regularizar a situação do pessoal da antiga Estrada de Ferro Oeste de Mina,. e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072898-0-000-09-10-1973@@@
-
 DECRETO Nº 72.898, DE 9 DE OUTUBRO DE 1973.
 
 Regulamenta a concessão ou autorização de serviço aéreo de transporte regular e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068083-0-000-19-01-1971@@@
-
 DECRETO Nº 68.083, DE 19 DE JANEIRO DE 1971.
 
 Declara de utilidade pública a Sociedade de São Vicente de Paulo de Itabuna, com sede em Itabuna, Estado da Bahia.

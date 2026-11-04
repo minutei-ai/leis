@@ -1,5 +1,3 @@
-###DEC-079557-0-000-20-04-1977@@@
-
 Decreto nº 79.557, de 20 de abril de 1977.
 
 Dispõe sobre a criação de função de confiança no Quadro Permanente da Comissão de Valores Mobiliários e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068369-0-000-18-03-1971@@@
-
 DECRETO Nº 68.369, DE 18 DE MARÇO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Odontologia, da Fundação Educacional e Cultural de Nova Friburgo, mantida pela Prefeitura Municipal de Nova Friburgo, no Estado do Rio de Janeiro.

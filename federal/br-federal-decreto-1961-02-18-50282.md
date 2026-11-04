@@ -1,5 +1,3 @@
-###DEC-050282-0-000-18-02-1961@@@
-
 DECRETO Nº 50.282, DE 18 DE FEVEREIRO DE 1961.
 
 Abre, pelo Ministério do Trabalho e Previdência Social, o crédito especial de Cr$50.000.000,00, para os fins que especifica.

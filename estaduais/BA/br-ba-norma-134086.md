@@ -6,10 +6,12 @@ Dispõe sobre a Lei Orgânica do Tribunal de Contas dos Municípios do Estado da
 
 **O GOVERNADOR DO ESTADO DA BAHIA,** faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA COMPETÊNCIA, SEDE E JURISDIÇÃO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA COMPETÊNCIA
 
 **Art. 1º** - Ao Tribunal de Contas dos Municípios do Estado da Bahia, órgão de auxílio do controle externo a cargo das Câmaras Municipais; compete:
@@ -90,7 +92,8 @@ DA COMPETÊNCIA
 
 **Art. 4º** - As auditorias e inspeções em obras públicas serão realizadas na própria obra  e nos órgãos e entidades da administração  pública por elas responsáveis, por equipe técnica para tal fim constituída, que fiscalizará o cumprimento do cronograma físico-financeiro, da estimativa dos quantitativos e custos da obra, a exatidão dos serviços medidos, pagos ou a pagar, os cálculos dos reajustamentos, garantias, fianças e demais cláusulas contratuais.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA SEDE E JURISDIÇÃO
 
 **Art. 5º** - O  Tribunal de Contas dos Municípios do Estado da Bahia tem sede na Cidade do Salvador e jurisdição própria e privativa em todo o território do Estado sobre as pessoas e matérias sujeitas à sua competência.
@@ -111,7 +114,8 @@ DA SEDE E JURISDIÇÃO
 
 **Art. 7**º - Ao Tribunal de Contas dos Municípios, no exercício de sua competência e no âmbito de sua jurisdição, assiste o poder regulamentar, podendo o mesmo, em conseqüência expedir atos e instruções normativas sobre matéria de suas atribuições e sobre a organização dos processos que lhe devam ser submetidos, obrigando ao seu cumprimento, sob pena de responsabilidade.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DA ORGANIZAÇÃO, COMPOSIÇÃO E DA ESTRUTURA DOS ÓRGÃOS AUXILIARES
 
 CAPÍTULO I
@@ -120,8 +124,10 @@ CAPÍTULO I
 
 **Art. 9º** - O Tribunal de Contas dos Municípios, com o objetivo de assegurar mais rapidez e eficiência à execução do controle externo, manterá unidades técnicas regionais no interior do Estado, na forma e quantidade previstas em Regimento Interno.
 
-CAPÍTULO II -<br>
-Seção I -<br>
+CAPÍTULO II -
+
+Seção I -
+
 Da Composição
 
 **Art. 10** - O Tribunal de Contas dos Municípios é integrado por 7 (sete) Conselheiros nomeados pelo Governador do Estado e escolhidos, após argüição pública, pela Assembléia Legislativa, na seguinte forma e ordem:
@@ -132,7 +138,8 @@ II - 5 (cinco), pela Assembléia Legislativa.
 
 **Parágrafo único -**   Somente poderão concorrer à lista tríplice mencionada neste artigo os membros do Ministério Público que à época de sua elaboração contarem, pelo menos, 2 (dois) anos de exercício na Representação daquela Procuradoria no Tribunal de Contas dos Municípios.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Do Tribunal Pleno e das Câmaras
 
 **Art. 11** - O Tribunal Pleno do Tribunal de Contas dos Municípios, dirigido por seu Presidente, terá a competência e o funcionamento regulados em Regimento Interno.
@@ -143,7 +150,8 @@ Do Tribunal Pleno e das Câmaras
 
 **§ 2º** - A competência, o número, a composição, a presidência e o funcionamento das Câmaras serão regulados por Regimento Interno, que também regulará o período de funcionamento das sessões e o recesso.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do Presidente e do Vice-Presidente
 
 **Art. 13** - Os Conselheiros elegerão o Presidente e o vice-Presidente do Tribunal de Contas dos Municípios para o mandato correspondente a 2 (dois) anos, vedada a reeleição para o mesmo cargo, no período imediatamente subseqüente.
@@ -174,7 +182,8 @@ Do Presidente e do Vice-Presidente
 
 **Art. 17** - O regimento Interno disporá sobre as atribuições do Presidente e do vice-Presidente.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Dos Conselheiros
 
 **Art. 18** - Somente poderão ser investidos como Conselheiros do Tribunal de Contas dos Municípios, brasileiros, maiores de 35 (trinta e cinco) anos e com menos de 65 (sessenta e cinco) anos de idade, de idoneidade moral e reputação ilibadas e de, notórios conhecimentos jurídicos, contábeis, econômicos, financeiros ou de administração pública, com mais de 10 (dez) anos de exercício de função ou atividade profissional que exija os conhecimentos mencionados.
@@ -227,7 +236,8 @@ Dos Conselheiros
 
 **Art. 24** - O Regimento Interno disporá sobre as atribuições dos Conselheiros.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 Dos Auditores
 
 **Art. 25** - Os Auditores, em número de 7 (sete) serão nomeados pelo Presidente do Tribunal de Contas dos Municípios dentre cidadãos que, portadores de diploma de curso superior de Direito, Contabilidade, Economia ou Administração logrem aprovação em concurso público de provas  ou de provas e títulos, observada sempre a ordem de classificação dos candidatos habilitados.
@@ -236,7 +246,8 @@ Dos Auditores
 
 **Art. 27** - O Regimento Interno disporá sobre as atribuições dos Auditores.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA ESTRUTURA DOS ÓRGÃOS AUXILIARES
 
 **Art. 28** - O Tribunal de Contas dos Municípios terá a seguinte estrutura:
@@ -295,7 +306,8 @@ DA ESTRUTURA DOS ÓRGÃOS AUXILIARES
 
 **Parágrafo único -**   As competências das unidades técnicas e administrativas mencionadas neste artigo, bem como a denominação e quantidade de seções que as compõem, serão estabelecidas pelo Regimento Interno.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DO ORÇAMENTO
 
 **Art. 29** - O Tribunal de Contas dos Municípios encaminhará ao Poder Executivo as propostas referentes aos Projetos de Lei relativos ao plano plurianual, às diretrizes orçamentárias e ao orçamento anual.
@@ -312,20 +324,24 @@ DO ORÇAMENTO
 
 **III -**      somente poderá ser alterada pelos órgãos técnicos competentes com a prévia audiência do Tribunal de Contas dos Municípios.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DA REPRESENTAÇÃO DO MINISTÉRIO PÚBLICO
 
 **Art. 30** - A Procuradoria Geral da Justiça manterá representação junto ao Tribunal de Contas dos Municípios, na forma da legislação específica.
 
 **Art. 31** - Os processos em que forem detectados indícios de infração penal serão encaminhados à Representação da Procuradoria Geral da Justiça, para as providências necessárias.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 DO JULGAMENTO E DA FISCALIZAÇÃO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO JULGAMENTO DE CONTAS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da Prestação e da Tomada de Contas
 
 **Art. 32** - Estão sujeitas à prestação ou tomada de contas, é só por decisão do Tribunal de Contas dos Municípios poderão ser liberados dessa responsabilidade, as pessoas físicas e jurídicas indicadas nos Artigos 1ª, inciso I e II, e 6ª, incisos I e V, desta Lei.
@@ -388,24 +404,28 @@ Da Prestação e da Tomada de Contas
 
 **Parágrafo único -**   O Tribunal de Contas dos Municípios poderá considerar irregular as contas no caso de reincidência no descumprimento de determinação de que o responsável tenha tido ciência, feita em processo de  prestação ou tomada de contas anterior.
 
-Subseção I -<br>
+Subseção I -
+
 Das Contas Regulares
 
 **Art. 41** - O Tribunal de Contas dos Municípios dará quitação plena ao responsável por contas consideradas regulares.
 
-Subseção II -<br>
+Subseção II -
+
 Das Contas Regulares com Ressalvas
 
 **Art. 42** - Considerando as contas regulares com ressalvas, o Tribunal de Contas dos Municípios dará quitação ao responsável e lhe determinará, ou a quem lhe tenha sucedido, a adoção de medidas necessárias à correção das impropriedades ou faltas identificadas, de modo a prevenir a ocorrência de outras semelhantes.
 
-Subseção III -<br>
+Subseção III -
+
 Das Contas Irregulares
 
 **Art. 43** - Considerando as contas irregulares e havendo débito, o Tribunal de Contas dos Municípios imporá ao responsável o pagamento da dívida atualizada monetariamente, acrescida dos juros de mora devidos, podendo, ainda, aplicar-lhe a multa prevista no artigo 69 desta Lei.
 
 **Parágrafo único -**   Não havendo débito, mas compravada qualquer das ocorrências previstas no artigo 40, inciso III, alínea a, o Tribunal de Contas dos Municípios poderá aplicar ao responsável a multa prevista no artigo 71, inciso I, desta Lei.
 
-Subseção IV -<br>
+Subseção IV -
+
 Das Contas Iliquidáveis
 
 **Art. 44** - As contas serão consideradas iliquidáveis quando caso fortuito ou força maior, comprovadamente alheio à vontade do responsável, torne materialmente impossível a análise do mérito a que se refere o artigo 40 desta Lei.
@@ -416,7 +436,8 @@ Das Contas Iliquidáveis
 
 **§ 2º** - Transcorrido o prazo prescricional sem que tenha havido nova decisão, as contas serão consideradas encerradas.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Execução das Decisões
 
 **Art. 46** - Em qualquer fase do processo, o Tribunal de Contas dos Municípios poderá autorizar o recolhimento parcelado de importância porventura devida, na forma estabelecida em Regimento Interno, incidindo sobre cada parcela os correspondentes acréscimos legais.
@@ -429,15 +450,18 @@ Da Execução das Decisões
 
 **Art. 50** - A publicidade das decisões do Tribunal de Contas dos Municípios  far-se-á através de publicação em Diário Oficial do Estado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 FISCALIZAÇÃO A CARGO DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Do Objetivo
 
 **Art. 51** - O Tribunal de Contas dos Municípios exercerá a fiscalização contábil, financeira, orçamentária, operacional e patrimonial dos órgãos e entidades da administração direta e indireta municipal, inclusive das fundações e sociedades instituídas e mantidas pelo poder público municipal bem como de qualquer responsável por dinheiro, bens e valores públicos municipais, com o objetivo de verificar a legalidade, a legitimidade, a economicidade e a razoabilidade de atos e contratos e com vistas a assegurar a eficácia do controle que lhe compete a instruir o julgamento de contas, bem como prestará às Câmaras Municipais o auxílio que elas lhe solicitarem, para o desempenho do controle externo dos seus órgãos.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Das Contas dos Poderes Executivo e Legislativo Municipais
 
 **Art. 52** - As contas dos Poderes Executivo e Legislativo Municipais serão prestadas ou tomadas, de acordo com as disposições constantes desta Lei.
@@ -484,7 +508,8 @@ Das Contas dos Poderes Executivo e Legislativo Municipais
 
 **Art. 62** - Nenhum processo, documento ou informação poderá ser sonegado ao Tribunal de Contas dos Municípios, sob pena de responsabilidade do sonegador, sem prejuízo da aplicação de multas e outras sanções previstas em lei.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Dos Atos Sujeitos a Registros
 
 **Art. 63** - Os atos de admissão de pessoal, a qualquer título na administração direta e indireta municipal, excetuadas as fundações instituídas ou mantidas pelo poder público municipal, executadas as nomeações para o cargo de provimento em comissão e designações para função gratificada e os de aposentadoria serão objeto de registro pelo Tribunal de Contas dos Municípios.
@@ -493,7 +518,8 @@ Dos Atos Sujeitos a Registros
 
 **§ 2º** - A investidura em cargo comissionado municipal dependerá sempre da apresentação de certidão de regularidade das prestações de contas em cargos anteriores, expedida pelo Tribunal de Contas dos Municípios.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Da Fiscalização de Atos e Contratos
 
 **Art. 64** - Para assegurar a eficácia do controle e para instruir o exame das contas, o Tribunal de Contas dos Municípios efetuará a fiscalização dos atos e contratos de que resultem receita ou despesa, praticados pelos responsáveis sujeitos à sua jurisdição.
@@ -528,10 +554,12 @@ Da Fiscalização de Atos e Contratos
 
 **Art. 67** - Se, ao exercer a fiscalização, for configurada a ocorrência de desfalque, desvio de dinheiros ou bens ou outra irregularidade de que resulte dano ao erário, o Tribunal de Contas dos Municípios ordenará, desde logo, a conversão do processo em tomada de contas especial.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 Da Impugnação de Débitos e Cominação de Multas
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Dos Débitos e das Multas
 
 **Art. 68** - Verificada a ocorrência de débito, resultante de irregulariadade em processo de prestação de contas, o Tribunal de Contas dos Municípios definirá a responsabilidade individual ou solidária pelo ato de gestão inquinado e ordenará a notificação do responsável para, no prazo de 30 (trinta) dias, contados da publicação da mesma, apresentar defesa ou recolher a quantia devida.
@@ -576,7 +604,8 @@ Dos Débitos e das Multas
 
 **Art. 75** - Em hipótese alguma o pagamento de multa poderá onerar o erário municipal e, se ocorrer, será considerado crime com responsabilidade do ou dos seus autores, na forma da lei penal.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Das Outras Providências
 
 **Art. 76** - Nos casos de ilegalidade da despesa, irregularidade de contas ou descumprimento de suas decisões, o Tribunal de Contas dos Municípios poderá, ainda, adotar as providências abaixo relacionadas, na conformidade do caso:
@@ -605,7 +634,8 @@ Das Outras Providências
 
 **IV -**      declarar o administrador ou responsável em alcance.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO CONTROLE INTERNO
 
 **Art. 77** - Os Poderes Executivo e Legislativo Municipal manterão, de forma integrada, sistema de controle interno, com a finalidade de:
@@ -636,7 +666,8 @@ DO CONTROLE INTERNO
 
 **§ 2º** - Verificada, em inspeção, auditoria ou na apreciação das contas, irregularidade ou ilegalidade que não tenham sido comunicadas tempestivamente ao Tribunal de Contas dos Municípios  e provada a omissão, o dirigente do órgão de controle interno, na qualidade de responsável solidário, ficará sujeito às sanções previstas para  a espécie, nesta Lei, independentemente das demais cominações legais.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA DENÚNCIA
 
 **Art. 80** - Qualquer cidadão, partido político, associação ou sindicato é parte legítima para denunciar irregularidade ou ilegalidade perante o Tribunal de Contas dos Municípios.
@@ -683,7 +714,8 @@ DA DENÚNCIA
 
 **Art. 87** - Resolução do Tribunal de Contas dos Municípios regulamentará a tramitação das denúncias no âmbito do órgão.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS RECONSIDERAÇÕES E DOS RECURSOS
 
 **Art. 88** - Será admitido pedido de reconsideração relativo a qualquer decisão do Tribunal de Contas dos Municípios, interposto no prazo de 15 (quinze) dias, a contar de sua publicação, quando formulado:
@@ -696,13 +728,16 @@ DAS RECONSIDERAÇÕES E DOS RECURSOS
 
 **Art. 89** - Dos atos administrativos do Presidente as decisões das Câmaras, previstas no artigo 8º desta Lei, caberá recurso para o Tribunal Pleno, no prazo de 5 (cinco) dias, a contar da data de sua publicação.
 
-TÍTULO VI -<br>
+TÍTULO VI -
+
 DA ADMISSÃO, QUANTIDADE E DESPESA DE PESSOAL E DAS CONCESSÕES DE APOSENTADORIA, TRANSFERÊNCIAS PARA RESERVA, REFORMAS E PENSÕES NO ÂMBITO DO MUNICÍPIO.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA ADMISSÃO, QUANTIDADE E DESPESA DE PESSOAL
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da Admissão de Pessoal
 
 **Art. 90 -** O Tribunal de Contas dos Municípios apreciará a legalidade dos atos de admissão de pessoal da  administração direta e indireta municipal, inclusive os  concursos públicos por elas realizados, os quais deverão obedecer aos seguintes princípios constitucionais:
@@ -725,7 +760,8 @@ Da Admissão de Pessoal
 
 **§ 2º** - Resolução do Tribunal Pleno estabelecerá os trâmites e rotinas necessárias à apreciação objeto deste artigo.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Quantidade e Despesa de Pessoal
 
 **Art. 91** - O Tribunal de Contas dos Municípios receberá das Prefeituras e das Câmaras Municipais, inclusive das entidades da administração indireta municipal, no mês seguinte a cada trimestre do exercício.
@@ -740,14 +776,16 @@ Da Quantidade e Despesa de Pessoal
 
 **Art. 92** - O não encaminhamento das informações objeto desta Seção importará em crime de responsabilidade para o gestor competente, devendo o Tribunal de Contas dos Municípios comunicar à respectiva Câmara Municipal a inobservância do preceito constitucional a que se refere o artigo anterior.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS CONCESSÕES DE APOSENTADORIAS, TRANSFERÊNCIAS PARA RESERVA, REFORMAS E PENSÕES NO ÂMBITO DO MUNICÍPIO.
 
 **Art. 93**\- O Tribunal de Contas dos Municípios julgará da legalidade das concessões de aposentadoria, transferências para a reserva, reformas e pensões de servidores de órgãos e entidades da administração direta e indireta municipal, excluídas as melhorias posteriores.
 
 **Parágrafo único -**   Resolução do Tribunal Pleno estabelecerá os trâmites necessários ao julgamento objeto deste artigo.
 
-TÍTULO VII -<br>
+TÍTULO VII -
+
 DA DESPESA COM NOTICIÁRIO, PROPAGANDA OU PROMOÇÃO
 
 **Art. 94** - O  Tribunal de Contas dos Municípios receberá dos órgãos e entidades da administração direta e indireta municipal quadro demonstrativo da despesa total com noticiário, propaganda ou promoção realizada pelo órgão ou entidade, no mês seguinte a cada trimestre do exercício.
@@ -758,14 +796,16 @@ DA DESPESA COM NOTICIÁRIO, PROPAGANDA OU PROMOÇÃO
 
 **§ 3º-** No prazo de 30(trinta) dias, contados da recepção das informações objeto deste artigo, o Tribunal de Contas dos Municípios as fará publicar, em Diário Oficial do Estado.
 
-TÍTULO VIII -<br>
+TÍTULO VIII -
+
 DA LEGALIDADE, LEGITIMIDADE, ECONOMICIDADE E RAZOABILIDADE
 
 **DOS ATOS ADMINISTRATIVOS MUNICIPAIS**
 
 **Art. 95 -** O Tribunal de Contas dos Municípios apreciará a legalidade, legitimidade, economicidade e razoabilidade dos atos administrativos exarados por órgãos e entidades da administração direta e indireta municipal.
 
-TÍTULO IX -<br>
+TÍTULO IX -
+
 DO PESSOAL DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS
 
 **Art. 96** - O Tribunal de Contas dos Municípios  disporá de quadro próprio de pessoal, em regime jurídico único, com sua estrutura de Grupos Ocupacionais e Categorias Funcionais fixados em Lei, regido, no que não colidir com a legislação específica nem com as disposições da presente Lei, pelo Estatuto dos Funcionários Públicos Civis do Estado da Bahia.
@@ -784,71 +824,41 @@ DO PESSOAL DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS
 
 **III -**      os seguintes cargos de carreira, de provimento permanente, abaixo relacionados:
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:360.2pt;border-collapse:collapse;border:none;mso-border-alt:solid black 1.5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.75pt solid black;
- mso-border-insidev:.75pt solid black" width="0"><tbody><tr><td style="width:105.05pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="140"><p class="Tabela-Texto">REGIME JURÍDICO</p></td><td style="width:155.95pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">CARGOS</span></p></td><td style="width:99.2pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">QUANTIDADE</span></p></td></tr><tr><td style="width:105.05pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="140"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">Estatutário</span></p></td><td style="width:155.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">a) Auditor de Controle Externo</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">11</span></p></td></tr><tr><td style="width:105.05pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="140"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">Estatutário</span></p></td><td style="width:155.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">b) Auditor Jurídico</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">01</span></p></td></tr><tr><td style="width:105.05pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="140"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">Estatutário</span></p></td><td style="width:155.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">c) Técnico de Doc. e Biblioteca</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">02</span></p></td></tr><tr><td style="width:105.05pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="140"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">Celetista</span></p></td><td style="width:155.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">d) Técnico de Informática</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">05</span></p></td></tr><tr><td style="width:105.05pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="140"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">Celetista</span></p></td><td style="width:155.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">e) Agente de Segurança</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p class="Tabela-Texto"><span style="mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-theme-font:minor-bidi">06</span></p></td></tr></tbody></table>
+REGIME JURÍDICO
+
+CARGOS
+
+QUANTIDADE
+
+Estatutário
+
+a) Auditor de Controle Externo
+
+11
+
+Estatutário
+
+b) Auditor Jurídico
+
+01
+
+Estatutário
+
+c) Técnico de Doc. e Biblioteca
+
+02
+
+Celetista
+
+d) Técnico de Informática
+
+05
+
+Celetista
+
+e) Agente de Segurança
+
+06
 
 **Parágrafo único -** O primeiro cargo da Categoria Funcional de Auditor Jurídico, no qual ocorrer vacância, a partir da vigência desta Lei, será extinto.
 
@@ -870,290 +880,160 @@ DO PESSOAL DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS
 
 **Art. 99** - A partir da vigência desta Lei, a composição do Grupo Ocupacional Direção e Assessoramento, criado pelo Artigo 5º da Lei nº 4.824, de 24 de janeiro de 1989, passa a ser a seguinte:
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:406.15pt;border-collapse:collapse;border:none;mso-border-alt:
- solid black 1.5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.75pt solid black;
- mso-border-insidev:.75pt solid black" width="0"><tbody><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-">CÓDIGO</span></p></td><td style="width:66.35pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">SÍMBOLO</span></p></td><td style="width:163.85pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">DENOMINAÇÃO</span></p></td><td style="width:3.0cm;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">QUANTIDADE</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-">TCM-DAS-101</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">05</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Chefe de Gabinete</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">01</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-102</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">05</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Assessor Especial</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">02</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-103</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">05</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Coordenador de Administração</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">01</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-104</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">05</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Coordenador de Controle Externo</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">01</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-105</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">05</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Secretário Geral</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">01</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-106</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">05</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Chefe de Assessoria</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">02</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-106-A</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">05</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Coord. Assist. Mun. Acomp. Int.</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">01</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-107</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">04</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Assistente</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">07</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-108</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">04</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Assessor</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">10</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-109</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">04</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Assessor Jurídico</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">04</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-110</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">04</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Dir. Div. Controle Externo</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">05</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-110-A</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">04</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Chefe de Unid. Técnica</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">04</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-111</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">04</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Inspetor Regional</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">27</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-112</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">03</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Secretário-Assistente</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">06</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-113</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">03</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Secretário de Câmara</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">02</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-113-A</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">03</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Chefe de Unid. Exame Contas</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">05</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-114</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">02</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Oficial de Gabinete</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">02</span></p></td></tr><tr><td style="width:90.9pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="121"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">TCM-DAS-115</span></p></td><td style="width:66.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">01</span></p></td><td style="width:163.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="218"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">Secretário</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="Tabela-Texto"><span style="mso-bidi-mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi">06</span></p></td></tr></tbody></table>
+CÓDIGO
 
-TÍTULO X -<br>
+SÍMBOLO
+
+DENOMINAÇÃO
+
+QUANTIDADE
+
+TCM-DAS-101
+
+05
+
+Chefe de Gabinete
+
+01
+
+TCM-DAS-102
+
+05
+
+Assessor Especial
+
+02
+
+TCM-DAS-103
+
+05
+
+Coordenador de Administração
+
+01
+
+TCM-DAS-104
+
+05
+
+Coordenador de Controle Externo
+
+01
+
+TCM-DAS-105
+
+05
+
+Secretário Geral
+
+01
+
+TCM-DAS-106
+
+05
+
+Chefe de Assessoria
+
+02
+
+TCM-DAS-106-A
+
+05
+
+Coord. Assist. Mun. Acomp. Int.
+
+01
+
+TCM-DAS-107
+
+04
+
+Assistente
+
+07
+
+TCM-DAS-108
+
+04
+
+Assessor
+
+10
+
+TCM-DAS-109
+
+04
+
+Assessor Jurídico
+
+04
+
+TCM-DAS-110
+
+04
+
+Dir. Div. Controle Externo
+
+05
+
+TCM-DAS-110-A
+
+04
+
+Chefe de Unid. Técnica
+
+04
+
+TCM-DAS-111
+
+04
+
+Inspetor Regional
+
+27
+
+TCM-DAS-112
+
+03
+
+Secretário-Assistente
+
+06
+
+TCM-DAS-113
+
+03
+
+Secretário de Câmara
+
+02
+
+TCM-DAS-113-A
+
+03
+
+Chefe de Unid. Exame Contas
+
+05
+
+TCM-DAS-114
+
+02
+
+Oficial de Gabinete
+
+02
+
+TCM-DAS-115
+
+01
+
+Secretário
+
+06
+
+TÍTULO X -
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 100** - A título de racionalização administrativa e economia processual, e com o objetivo de evitar que o custo da cobrança seja superior ao valor do ressarcimento, o Tribunal de Contas dos Municípios poderá, de pronto, determinar o arquivamento do processo, sem cancelamento do débito a cujo pagamento continuará obrigado o devedor, para lhe ser dada quitação.

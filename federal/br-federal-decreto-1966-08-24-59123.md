@@ -1,5 +1,3 @@
-###DEC-059123-0-000-24-08-1966@@@
-
 DECRETO Nº 59.123, DE 24 DE AGÔSTO DE 1966.
 
 Revoga dispositivo do Decreto número 1.919, de 19 de dezembro de 1962.

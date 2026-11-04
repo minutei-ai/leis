@@ -1,5 +1,3 @@
-###DEC-080831-0-000-28-11-1977@@@
-
 DECRETO Nº 80.831, DE 28 DE NOVEMBRO DE 1977.
 
 Dispõe sobre a estrutura básica do Ministério da Agricultura e dá outras providências.

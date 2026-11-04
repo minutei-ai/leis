@@ -1,5 +1,3 @@
-###DEC-050419-0-000-07-04-1961@@@
-
 DECRETO Nº 50.419, DE 7 DE ABRIL DE 1961.
 
 Concede autorização para o funcionamento de curso.

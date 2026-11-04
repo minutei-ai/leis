@@ -1,5 +1,3 @@
-###DEC-052504-0-000-27-09-1963@@@
-
 DECRETO Nº 52.504, DE 27 DE SETEMBRO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de uma área de terreno situada na localidade de Porto Esperidião Município de Caceres, Estado de Mato Grosso, necessária ao Ministério da Guerra.

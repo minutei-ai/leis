@@ -1,5 +1,3 @@
-###DEC-092423-0-000-25-02-1986@@@
-
 DECRETO Nº 92.423, DE 25 DE FEVEREIRO DE 1986
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Sararé", compreendido na referida área, nos Municípios de Vila Bela da Santíssima Trindade e Pontes e Lacerda, no Estado do Mato Grosso, e dá outras providências.

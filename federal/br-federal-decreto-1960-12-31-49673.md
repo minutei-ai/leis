@@ -1,5 +1,3 @@
-###DEC-049673-0-000-31-12-1960@@@
-
 DECRETO Nº 49.673, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a Mineração Rio das Mortes S.A. a pesquisar cassiterita e ouro no município de Amapá, Território Federal do Amapá.

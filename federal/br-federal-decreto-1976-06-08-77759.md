@@ -1,5 +1,3 @@
-###DEC-077759-0-000-08-06-1976@@@
-
 decreto nº 77.759, de 8 de junho de 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora do Maranhão Ltda., cuja denominação foi, posteriormente, alterada para Rádio Difusora do Maranhão S.A., para executar serviço de radiodifusão sonora em onda tropical, na Cidade de São Luís, Estado do Maranhão.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095761-0-000-01-03-1988@@@
-
 DECRETO N° 95.761, DE 1° DE MARÇO DE 1988
 
 Declara de utilidade pública as instituições que menciona.

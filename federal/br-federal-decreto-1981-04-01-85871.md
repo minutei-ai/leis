@@ -1,5 +1,3 @@
-###DEC-085871-0-000-01-04-1981@@@
-
 DECRETO Nº 85.871, de 01 de abril de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

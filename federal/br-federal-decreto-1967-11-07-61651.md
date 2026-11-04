@@ -1,5 +1,3 @@
-###DEC-061651-0-000-07-11-1967@@@
-
 DECRETO Nº 61.651, DE 7 DE NOVEMBRO DE 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamentos novos, sem similar nacional, neste descritos e consignados a emprêsa “Termoligas Metalúrgicas Ltda.”, de Salvador, Estado da Bahia.
@@ -14,7 +12,57 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, exceto a taxa prevista no Decreto - Lei nº 83, de 26-12-66, artigo 9º, a importação de equipamentos novos, sem similar nacional, a seguir descritos e consignados à emprêsa “Termoligas Metalúrgicas Ltda.”, de Salvador (BA):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Quantidade</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>a ser</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>importada</span></p></td><td style="width:67pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Moinho de bolas vibratório “</span><span style="font-style:italic">Allis Chalmers</span><span>“ modelo 1.518 D, acionado por dois motores acoplados de 7,5 HP cada .......................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:67pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>17.700</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Moinho de bolas Edgar </span><span style="font-style:italic">Allan Stag</span><span>, tamanho nº 4, completo com motor ....................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:67pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.360</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Peneira vibratória “</span><span style="font-style:italic">Russel</span><span>”, modelo 804, completa com acessório e motor ................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:67pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.612</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Peneira vibratória Robinson, tipo LXM, tamanho 3.640, com motor .........................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:67pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.158</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Total .............................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:67pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>33.830</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade
+
+a ser
+
+importada
+
+Valor Total
+
+CIF US$
+
+1
+
+Moinho de bolas vibratório “Allis Chalmers“ modelo 1.518 D, acionado por dois motores acoplados de 7,5 HP cada .......................................................................
+
+2
+
+17.700
+
+2
+
+Moinho de bolas Edgar Allan Stag, tamanho nº 4, completo com motor ....................................................
+
+1
+
+10.360
+
+3
+
+Peneira vibratória “Russel”, modelo 804, completa com acessório e motor ................................................
+
+2
+
+2.612
+
+4
+
+Peneira vibratória Robinson, tipo LXM, tamanho 3.640, com motor .........................................................
+
+1
+
+3.158
+
+Total .............................................................................
+
+-
+
+33.830
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria, fica sua similaridade, para efeito da isenção de que trata o presente decreto, para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

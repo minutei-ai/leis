@@ -1,5 +1,3 @@
-###DEC-083400-0-000-03-05-1979@@@
-
 Decreto nº 83.400, de 03 de maio de 1979.
 
 Aprova o Estatuto da Fundação Projeto Rondon.

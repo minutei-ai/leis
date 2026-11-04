@@ -1,5 +1,3 @@
-###DEC-088558-0-000-01-08-1983@@@
-
 Decreto nº 88.558, de 01 de agosto de 1983
 
 Renova por 10 (dez) anos a concessão outorgada RÁDIO ELDORADO LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de São Paulo, Estado de São Paulo.

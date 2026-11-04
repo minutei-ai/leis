@@ -1,5 +1,3 @@
-###DEC-002958-0-000-08-02-1999@@@
-
 DECRETO Nº 2.958, DE 8 DE FEVEREIRO DE 1999.
 
 Aprova a consolidação do Estatuto da RADIOBRÁS – Empresa Brasileira de Comunicação S.A.

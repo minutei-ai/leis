@@ -1,5 +1,3 @@
-###DEC-066074-0-000-14-01-1970@@@
-
 decreto nº 66.074 - de 14 de janeiro de 1970
 
 Autoriza funcionamento de curso.

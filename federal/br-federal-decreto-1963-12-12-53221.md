@@ -1,5 +1,3 @@
-###DEC-053221-0-000-12-12-1963@@@
-
 DECRETO Nº 53.221, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza a Siderúrgica Oeste de Minas S.A. - SOMISA - a pesquisar minério de ferro no município de Mateus Leme, Estado de Minas Gerais.

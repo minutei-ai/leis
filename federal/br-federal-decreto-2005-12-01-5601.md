@@ -1,5 +1,3 @@
-###DEC-005601-0-000-01-12-2005@@@
-
 DECRETO Nº 5.601, DE 1º DE DEZEMBRO DE 2005.
 
 Dispõe sobre a execução do Quadragésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, na condição de Estados Partes do MERCOSUL, e da República do Chile, de 26 de setembro de 2005.

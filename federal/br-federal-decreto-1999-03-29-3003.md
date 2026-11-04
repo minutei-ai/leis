@@ -1,5 +1,3 @@
-###DEC-003003-0-000-29-03-1999@@@
-
 DECRETO Nº 3.003, DE 29 DE MARÇO DE 1999
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.015, de 26 de setembro de 1996.

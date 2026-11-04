@@ -1,5 +1,3 @@
-###DEC-064279-0-000-21-03-1969@@@
-
 DECRETO Nº 64.279, DE 21 DE MARÇO DE 1969.
 
 Declara de utilidade pública a Fundação Anti-Tuberculosa Santa Teresinha, com sede em Salvador, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-002837-0-000-04-11-1998@@@
-
 DECRETO Nº 2.837, DE 4 DE NOVEMBRO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.702, de 30 de julho de 1998.

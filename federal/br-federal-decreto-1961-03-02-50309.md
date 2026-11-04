@@ -1,5 +1,3 @@
-###DEC-050309-0-000-02-03-1961@@@
-
 Decreto nº 50.309, de 2 de março de 1961.
 
 Torna sem efeito os Decretos nº 49.299, de 19 de novembro de 1960 e nº 50.223, de 28 de janeiro de 1961.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000907-0-000-31-08-1993@@@
-
 DECRETO N° 907, DE 31 DE AGOSTO DE 1993
 
 Regulamenta a Lei n° 8.689 de 27 de julho de 1993, que dispõe sobre á extinção do Instituto Nacional de Assistência Médica da Previdência Social INAMPS, e dá outras providências.

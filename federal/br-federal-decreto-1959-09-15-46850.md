@@ -1,5 +1,3 @@
-###DEC-046850-0-000-15-09-1959@@@
-
 DECRETO Nº 46.850, DE 15 DE SETEMBRO DE 1959.
 
 Transfere do Estado do Paraná para a Companhia Paranaense de Energia Elétrica (COPEL), a concessão para a produção e fornecimento de energia elétrica em tôda área compreendida pelo Decreto nº 27.650, de 28 de dezembro de 1949.

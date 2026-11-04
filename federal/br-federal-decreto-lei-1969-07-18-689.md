@@ -1,5 +1,3 @@
-###DEL-000689-0-000-18-07-1969@@@
-
 DECRETO-LEI Nº 689, DE 18 DE JULHO DE 1969
 
 Extingue o Conselho Nacional de Águas e Energia Elétrica, do Ministério das Minas e Energia, e dá outras providências.

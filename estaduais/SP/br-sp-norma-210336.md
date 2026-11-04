@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210336)<br>
-
 # DECRETO N° 69.154, DE 12 DE DEZEMBRO DE 2024
 
 ### _Autoriza a outorga de uso, ao Município de Campinas, da área que especifica, e dá providências correlatas._

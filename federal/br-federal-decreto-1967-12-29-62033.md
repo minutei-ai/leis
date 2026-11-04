@@ -1,5 +1,3 @@
-###DEC-062033-0-000-29-12-1967@@@
-
 DECRETO Nº 62.033, DE 29 DE DEZEMBRO DE 1967.
 
 Autoriza a Companhia de Mineração Rio Acima a lavrar minério de ferro, minério de manganês e ocre, no município de Santa Barbara, Estado de Minas Gerais.
@@ -27,8 +25,6 @@ Brasília, 29 de dezembro de 1967; 146º da Independência e 79º da República.
 A. COSTA E SILVA
 
 José costa Cavalcanti
-
-###DEC-062033-0-000-29-12-1967@@@RET01+++
 
 DECRETO Nº 62.033, DE 29 DE DEZEMBRO DE 1967.
 

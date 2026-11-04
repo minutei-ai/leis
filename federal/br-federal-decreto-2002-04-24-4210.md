@@ -1,5 +1,3 @@
-###DEC-004210-0-000-24-04-2002@@@
-
 DECRETO Nº 4.210, DE 24 DE ABRIL DE 2002
 
 Promulga o Protocolo de Ushuaia sobre Compromisso Democrático no Mercosul, Bolívia e Chile.

@@ -1,5 +1,3 @@
-###DEC-094029-0-000-16-02-1987@@@
-
 DECRETO Nº 94.029, DE 16 DE FEVEREIRO DE 1987.
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada no Município e Comarca de Itatiba, Estado de São Paulo, destinada à instalação de Central Telefônica da Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

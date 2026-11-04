@@ -1,5 +1,3 @@
-###DEC-096512-0-000-15-08-1988@@@
-
 DECRETO N° 96.512, DE 15 DE AGOSTO DE 1988
 
 Dispõe sobre a execução do Décimo Nono Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/80, subscrito entre o Brasil e a Argentina (Acordo n° 1)

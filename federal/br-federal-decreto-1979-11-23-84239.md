@@ -1,5 +1,3 @@
-###DEC-084239-0-000-23-11-1979@@@
-
 Decreto nº 84.239, de 23 de novembro de 1979.
 
 Acrescenta parágrafos ao artigo 29 do Decreto nº 64.214, de 18 de março de 1969, que regulamenta disposições pertinentes aos incentivos fiscais e financeiros administrados pela Superintendência do Desenvolvimento do Nordeste (SUDENE).

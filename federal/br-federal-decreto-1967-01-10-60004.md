@@ -1,5 +1,3 @@
-###DEC-060004-0-000-10-01-1967@@@
-
 DECRETO Nº 60.004, DE 10 DE JANEIRO DE 1967.
 
 Renova o decreto nº 2.153, de 22 de janeiro de 1963.

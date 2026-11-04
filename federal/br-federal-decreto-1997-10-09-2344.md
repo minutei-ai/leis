@@ -1,5 +1,3 @@
-###DEC-002344-0-000-09-10-1997@@@
-
 DECRETO Nº 2.344, DE 9 DE OUTUBRO DE 1997
 
 Dispõe sobre a instauração de processo de inventário em entidades em extinção, cujas atividades serão absorvidas por organizações sociais.

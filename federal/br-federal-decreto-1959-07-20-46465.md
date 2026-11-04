@@ -1,5 +1,3 @@
-###DEC-046465-0-000-20-07-1959@@@
-
 decreto nº 46.465, de 20 de julho de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Paraopeba, no Estado de Minas Gerais.

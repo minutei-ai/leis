@@ -1,5 +1,3 @@
-###DEC-066985-0-000-31-07-1970@@@
-
 decret0 nº 66.985, de 31 de julho de 1970.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Penápolis, com sede em Penápolis, Estado de São Paulo.

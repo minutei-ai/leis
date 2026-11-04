@@ -1,5 +1,3 @@
-###DEL-004247-0-000-10-04-1942@@@
-
 DECRETO-LEI N. 4.247 – DE 10 DE ABRIL DE 1942
 
 Dá nova aplicação, no Ministério da Marinha, ao disposto no art. 143, alíneas "f” e “g” do Estatuto dos Militares

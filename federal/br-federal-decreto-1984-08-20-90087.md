@@ -1,5 +1,3 @@
-###DEC-090087-0-000-20-08-1984@@@
-
 Decreto Nº 90.087, de 20 de agosto de 1984.
 
 Dispõe sobre a composição do Conselho Federal de Educação.

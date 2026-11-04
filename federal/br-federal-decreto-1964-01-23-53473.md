@@ -1,5 +1,3 @@
-###DEC-053473-0-000-23-01-1964@@@
-
 DECRETO Nº 53.473, DE 23 DE JANEIRO DE 1964.
 
 Aprova Regulamento da Pagadoria dos Inativos e Pensionistas da Aeronáutica.
@@ -359,8 +357,6 @@ Major Brigadeiro do Ar
 Anysio Botelho,
 
 Ministro da Aeronáutica
-
-###DEC-053473-0-000-23-01-1964@@@RET01+++
 
 DECRETO Nº 53.473, DE 23 DE JANEIRO DE 1964.
 

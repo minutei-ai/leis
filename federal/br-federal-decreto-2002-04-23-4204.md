@@ -1,5 +1,3 @@
-###DEC-004204-0-000-23-04-2002@@@
-
 DECRETO Nº 4.204, DE 23 DE ABRIL DE 2002
 
 Dá nova redação ao art. 1º do Decreto nº 3.675, de 28 de novembro de 2000, que dispõe sobre medidas especiais relacionadas com o registro de medicamentos genéricos, de que trata o art. 4º da Lei nº 9.787, de 10 de fevereiro de 1999.

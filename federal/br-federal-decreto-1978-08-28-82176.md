@@ -1,5 +1,3 @@
-###DEC-082176-0-000-28-08-1978@@@
-
 Decreto nº 82.176, de 28 de agosto de 1978.
 
 Altera o item XXVI do art. 5º do Decreto nº 72.493, de 19 de julho de 1973, que dispõe sobre o Grupo - Outras Atividades de Nível Superior.

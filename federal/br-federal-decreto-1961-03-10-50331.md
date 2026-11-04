@@ -1,5 +1,3 @@
-###DEC-050331-0-000-10-03-1961@@@
-
 DECRETO Nº 50.331, de 10 DE MARÇO DE 1961.
 
 Abre, pelo Ministério da Fazenda o crédito especial de Cr$47.286.000,00, para os fins que especifica.
@@ -10,7 +8,31 @@ decreta:
 
 Art. 1º Fica aberto, pelo Ministério da Fazenda, o crédito especial de Cr$47.286.000,00, (quarenta e sete milhões e duzentos e oitenta e seis mil cruzeiros).
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Custeio:</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:64.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:64.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Material de Consumo e de Transformação .......................................................</span></p></td><td style="width:64.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.204.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Material permanente .........................................................................................</span></p></td><td style="width:64.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>25.560.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Serviço de Terceiros .........................................................................................</span></p></td><td style="width:64.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9.940.000.00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Encargos Diversos.............................................................................................</span></p></td><td style="width:64.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>428.000,00</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Investimentos:</span></p></td><td style="width:64.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:343.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Equipamentos e instalações..............................................................................</span></p></td><td style="width:64.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9.940.000,00</span></p></td></tr></tbody></table>
+Custeio:
+
+Cr$
+
+Material de Consumo e de Transformação .......................................................
+
+1.204.000,00
+
+Material permanente .........................................................................................
+
+25.560.000,00
+
+Serviço de Terceiros .........................................................................................
+
+9.940.000.00
+
+Encargos Diversos.............................................................................................
+
+428.000,00
+
+Investimentos:
+
+Equipamentos e instalações..............................................................................
+
+9.940.000,00
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

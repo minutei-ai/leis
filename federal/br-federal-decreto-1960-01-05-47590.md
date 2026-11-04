@@ -1,5 +1,3 @@
-###DEC-047590-0-000-05-01-1960@@@
-
 DECRETO Nº 47.590, DE 05 DE JANEIRO DE 1960.
 
 Prorroga a vigência do Decreto número 45.480, de 26 de fevereiro de 1959.

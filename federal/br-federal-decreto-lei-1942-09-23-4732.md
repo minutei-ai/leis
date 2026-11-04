@@ -1,5 +1,3 @@
-###DEL-004732-0-000-23-09-1942@@@
-
 DECRETO-LEI N. 4.732 – DE 23 De SETEMBRO DE 1942
 
 Ratifica a redução do decreto-lei n. 4.664, de 4 de setembro de 1942

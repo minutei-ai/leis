@@ -1,5 +1,3 @@
-###DEC-091135-0-000-13-03-1985@@@
-
 Decreto nº 91.135, dE 13 dE março dE 1985.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Econômicas do Alto Taquari.

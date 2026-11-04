@@ -1,7 +1,3 @@
-1
-
-###DEC-099957-0-000-28-12-1990@@@
-
 # DECRETO Nº 99.957, DE 28 DE DEZEMBRO DE 1990
 
 Dá nova redação ao art. 2º, ao inciso V do art. 4º e ao art. 10 do Decreto nº 99.6830, de 8 de novembro de 1990.

@@ -1,5 +1,3 @@
-###DEC-082365-0-000-04-10-1978@@@
-
 Decreto nº 82.365, de 04 de outubro de 1978.
 
 Concede à PALMASA - Azulejos Várzea da Palma S. A.; o direito de lavrar argila no Município de Várzea da Palma, Estado de Minas Gerais.

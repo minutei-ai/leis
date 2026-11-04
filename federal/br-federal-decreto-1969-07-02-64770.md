@@ -1,5 +1,3 @@
-###DEC-064770-0-000-02-07-1969@@@
-
 DECRETO Nº 64.770 - DE 2 DE JULHO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação áreas destinadas à bacia de acumulação do aproveitamento da energia hidráulica de trecho do rio Paranaense nos municípios de Fartura e Itaporanga no Estado de São Paulo.

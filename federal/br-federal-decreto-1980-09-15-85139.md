@@ -1,5 +1,3 @@
-###DEC-085139-0-000-15-09-1980@@@
-
 DECRETO Nº 85.139, DE 15 DE SETEMBRO DE 1980
 
 Autoriza o aumento da potência da RÁDIO CULTURA DE CAMBARÁ LTDA., na cidade de Cambará, Estado do Paraná.

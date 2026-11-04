@@ -1,5 +1,3 @@
-###DEC-005665-0-000-10-01-2006@@@
-
 DECRETO Nº 5.665, DE 10 DE JANEIRO DE 2006.
 
 Acresce item à alínea "d" do art. 2º do Decreto no 40.556, de 17 de dezembro de 1956, que regula o uso das condecorações nos uniformes militares.

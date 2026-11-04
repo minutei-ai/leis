@@ -1,5 +1,3 @@
-###DEC-059861-0-000-26-12-1966@@@
-
 DECRETO Nº 59.861, DE 26 DE DEZEMBRO DE 1966.
 
 Declara de utilidade pública o “Lar Escola Coração de Maria Nossa Mãe” com sede em Piracicaba, Estado de São Paulo.

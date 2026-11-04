@@ -1,5 +1,3 @@
-###DEC-061338-0-000-13-09-1967@@@
-
 DECRETO Nº 61.338, DE 13 DE SETEMBRO DE 1967.
 
 Aprova as alterações introduzidas nos Estatutos da Santa Cruz Companhia de Seguros Gerais, inclusive aumento do capital social.

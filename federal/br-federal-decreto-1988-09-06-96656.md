@@ -1,5 +1,3 @@
-###DEC-096656-0-000-06-09-1988@@@
-
 DECRETO N° 96.656, DE 6 DE SETEMBRO DE 1988
 
 Dispõe sobre as Escolas Agrotécnicas Federais e dá outras providências.

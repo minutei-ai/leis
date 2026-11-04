@@ -1,5 +1,3 @@
-###DEC-083218-0-000-01-03-1979@@@
-
 DECRETO Nº 83.218, DE 1º DE MARÇO DE 1979
 
 Autoriza o Instituto Histórico e Geográfico Brasileiro a dar em garantia hipotecária à Caixa Econômica Federal terreno cedido pelo Governo Federal.

@@ -20,5 +20,6 @@ Art. 3º Revogam-se disposições em contrário.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 03 de outubro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

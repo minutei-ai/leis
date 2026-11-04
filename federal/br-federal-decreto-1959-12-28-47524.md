@@ -1,5 +1,3 @@
-###DEC-047524-0-000-28-12-1959@@@
-
 DECRETO Nº 47.524, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Leonel José Gomes a pesquisar magnesita, no Município de Brumado, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-095247-0-000-17-11-1987@@@
-
 DECRETO N° 95.247, DE 17 DE NOVEMBRO DE 1987
 
 Regulamenta a Lei n° 7.418, de 16 de dezembro de 1985, que institui o Vale-Transporte, com a alteração da Lei n° 7.619, de 30 de setembro de 1987.

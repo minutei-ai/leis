@@ -102,13 +102,16 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 30 de
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-EINSTEIN A. FERREIRA PANIAGO<br>
+EINSTEIN A. FERREIRA PANIAGO
+
 Secretário de Transparência, Fiscalização e Controle
 
 [ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19040) 

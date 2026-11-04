@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208654)<br>
-
 # DECRETO N° 68.002, DE 10 DE OUTUBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à duplicação e melhoria do trecho entre os km 0,300 e 9 da SPA-053/280, Rodovia Prefeito Livio Tagliassachi, nos Municípios de Araçariguama e São Roque, e dá providências correlatas._

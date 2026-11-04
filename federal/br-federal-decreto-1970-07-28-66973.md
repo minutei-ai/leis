@@ -1,5 +1,3 @@
-###DEC-066973-0-000-28-07-1970@@@
-
 DECRETO Nº 66.973, DE 28 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 40.513, de 10 de dezembro de 1956.

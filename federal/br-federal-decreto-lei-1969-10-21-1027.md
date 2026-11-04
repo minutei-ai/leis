@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c95a5967-5f4b-4941-af15-36c67e5525fd/texto#nowhere)
 
-###DEL-001027-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.027, DE 21 DE OUTUBRO DE 1969
 
 Reverte ao Fundo Naval a receita proveniente das multas estabelecidas no Regulamento para o Tráfego Marítimo, e dá outras providências.

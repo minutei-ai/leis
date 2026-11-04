@@ -1,5 +1,3 @@
-###DEC-085028-0-000-12-08-1980@@@
-
 Decreto nº 85.028 de 12 de agosto de 1980
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo, da Faculdade de Arquitetura e Urbanismo de Ribeirão Preto, São Paulo.

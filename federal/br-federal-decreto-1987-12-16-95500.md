@@ -1,5 +1,3 @@
-###DEC-095500-0-000-16-12-1987@@@
-
 DECRETO Nº 95.500, DE 16 DE DEZEMBRO DE 1987
 
 Autoriza GIOVANI MORACCHIOLI e ACHILLE MARCO MARMIROLI, ambos de nacionalidade italiana e residentes no Brasil, a adquirir imóvel rural.

@@ -18,11 +18,14 @@ Gabinete do Prefeito de Aparecida de Goiânia, Estado de Goiás, aos 05 de abril
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Secretário

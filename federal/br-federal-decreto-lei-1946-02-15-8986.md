@@ -1,6 +1,4 @@
-###DEL-008986-0-000-15-02-1946@@@
-
- DECRETO-LEI N. 8.986 – DE 15 DE  FEVEREIRO DE 1946
+DECRETO-LEI N. 8.986 – DE 15 DE  FEVEREIRO DE 1946
 
 Dispõe sôbre  a especialização do pessoal no Corpo do Pessoal Subalterno da Armada                  
 

@@ -1,5 +1,3 @@
-###DEC-064024-0-000-27-01-1969@@@
-
 DECRETO Nº 64.024, DE 27 DE JANEIRO DE 1969.
 
 Altera o Regulamento para a Secretaria-Geral da Marinha, aprovado pelo Decreto nº 32.273, de 18 de fevereiro de 1953, e alterado pelos Decretos nº 45.653, de 25 de março de 1959, nº 53.399, de 6 de janeiro de 1964, nº 53.469, de 22 de janeiro de 1964, e dispõe sôbre competência da Diretoria do Pessoal Civil da Marinha.

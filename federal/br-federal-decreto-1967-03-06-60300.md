@@ -1,5 +1,3 @@
-###DEC-060300-0-000-06-03-1967@@@
-
 DECRETO Nº 60.300, DE 6 DE MARÇO DE 1967.
 
 Autoriza a Cia. Serviços de Engenharia - SERVIENGE a pesquisar calcário no Distrito Federal.

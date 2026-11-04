@@ -1,5 +1,3 @@
-###DEC-071357-0-000-10-11-1972@@@
-
 Decreto Nº 71.357 - DE 10 DE NOVEMBRO DE 1972.
 
 Retifica o artigo 1º, do Decreto nº 66.286, de 2 de março de 1970.

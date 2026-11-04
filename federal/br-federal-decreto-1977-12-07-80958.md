@@ -1,5 +1,3 @@
-###DEC-080958-0-000-07-12-1977@@@
-
 DECRETO Nº 80.958, DE 07 DE DEZEMBRO DE 1977.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita no Município de Itanhandu, Estado de Minas Gerais .

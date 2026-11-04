@@ -1,5 +1,3 @@
-###DEC-061277-0-000-04-09-1967@@@
-
 DECRETO Nº 61.277, DE 4 DE SETEMBRO DE 1967.
 
 Retifica o art. 1º do Decreto número 59.071, de 12 de agôsto de 1966.

@@ -1,5 +1,3 @@
-###DEL-009370-0-000-17-06-1946@@@
-
 DECRETO-LEI N. 9.370 – DE 17 DE JUNHO DE 1946
 
 Extingue o Serviço de Defesa Civil e dá outras providências.

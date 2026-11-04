@@ -1,5 +1,3 @@
-###DEC-047729-0-000-29-01-1960@@@
-
 DECRETO N.º 47.729, DE 29 DE JANEIRO DE 1960.
 
 Renova o Decreto n.º 42.066, de 19 de agôsto de 1957.

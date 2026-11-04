@@ -1,5 +1,3 @@
-###DEL-008162-0-000-07-11-1945@@@
-
 DECRETO-LEI N. 8.162 – DE 7 DE NOVEMBRO DE 1945
 
 Interpreta disposições do Decreto-lei n.º 7.586, de 28 de maio de 1945

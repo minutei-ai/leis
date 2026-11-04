@@ -1,5 +1,3 @@
-###DEC-086818-0-000-05-01-1982@@@
-
 DECRETO Nº 86.818, DE 05 DE JANEIRO DE 1982.
 
 Altera o Regulamento de Movimentação para Oficiais e Praças do Exército (R-50), aprovado pelo Decreto nº 83.079, de 23 de janeiro de 1979.

@@ -1,5 +1,3 @@
-###DEC-045255-0-000-15-01-1959@@@
-
 DECRETO Nº 45.255, DE 15 DE JANEIRO DE 1959.
 
 Renova o Decreto nº 40.330, de 12 de novembro de 1956.

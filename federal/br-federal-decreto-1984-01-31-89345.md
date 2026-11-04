@@ -1,5 +1,3 @@
-###DEC-089345-0-000-31-01-1984@@@
-
 Decreto nº 89.345, de 31 de janeiro de 1984
 
 Renova por 10 (dez) anos a concessão outorgada à FUNDAÇÃO CRISTÃ - ESPÍRITA CULTURAL PAULO DE TARSO, para explorar serviço de radiodifusão sonora em onda média, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

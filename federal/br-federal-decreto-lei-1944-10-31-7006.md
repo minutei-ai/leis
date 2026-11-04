@@ -1,5 +1,3 @@
-###DEL-007006-0-000-31-10-1944@@@
-
 DECRETO-LEI N. 7.006 – DE 31 DE OUTUBRO DE 1944
 
 Inclui cargos da carreira,de Carvoeiro do Quadro Suplementar do Ministério da Fazenda na carreira de Foguista dos mesmos Quadro e Ministério

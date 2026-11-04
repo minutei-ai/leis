@@ -1,5 +1,3 @@
-###DEC-076512-0-000-24-10-1975@@@
-
 DECRETO Nº 76.512, DE 24 DE OUTUBRO DE 1975.
 
 Outorga à Companhia Sengés de Papel e Celulose concessão para o aproveitamento hidráulico de um trecho do rio Jaguaricatu, no Estado do Paraná, para uso exclusivo.

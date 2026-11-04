@@ -1,5 +1,3 @@
-###DEC-071206-0-000-05-10-1972@@@
-
 DECRETO Nº 71.206, DE 5 DE OUTUBRO DE 1972.
 
 Autoriza o Estado do Maranhão a transferir o domínio útil dos terrenos que menciona.

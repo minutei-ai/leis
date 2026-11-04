@@ -1,5 +1,3 @@
-###DEL-000193-0-000-24-02-1967@@@
-
 DECRETO-LEI Nº 193, DE 24 DE FEVEREIRO DE 1967
 
 Altera a redação dos artigos 10 e 11 da Lei nº 4.923, de 23 de dezembro de 1965, que institui o cadastro permanente das admissões e dispensas de empregados.

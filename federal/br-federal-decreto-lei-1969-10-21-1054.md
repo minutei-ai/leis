@@ -1,7 +1,3 @@
-1
-
-###DEL-001054-0-000-21-10-1969@@@
-
 DecRETo-lEI Nº 1.054, de 21 de Outubro de 1969
 
 Aproveita servidor no Quadro de Pessoal do Ministério da Educação e Cultura.

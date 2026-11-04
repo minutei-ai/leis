@@ -1,5 +1,3 @@
-###DEC-059826-0-000-21-12-1966@@@
-
 decreto nº 59.826, de 21 de dezembro de 1966.
 
 Abre o crédito suplementar de Cr$4.000.000 (quatro milhões de cruzeiros), ao Ministério das Minas e Energia para refôrço de dotação orçamentária do vigente exercício, que especifica.
@@ -10,7 +8,29 @@ decreta:
 
 Art. 1º Fica aberto ao Ministério das Minas e Energia, o crédito suplementar de Cr$4.000.000 (quatro milhões de cruzeiros), para refôrço da seguinte dotação orçamentária do vigente exercício (Lei nº 4.900, de 10 de dezembro de 1965):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.12.00</span></p></td><td style="width:385.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Ministério das Minas e Energia</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.12.06</span></p></td><td style="width:385.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Departamento Nacioal da Produção Mineral</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.0.0.0</span></p></td><td style="width:385.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Despesas Correntes</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.0.0</span></p></td><td style="width:385.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Despesas de Custeio</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.3.0</span></p></td><td style="width:385.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Serviços de Terceiros</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>09.00</span></p></td><td style="width:385.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Serviços de comunicações em geral</span></p></td></tr></tbody></table>
+4.12.00
+
+- Ministério das Minas e Energia
+
+4.12.06
+
+- Departamento Nacioal da Produção Mineral
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.1.0.0
+
+- Despesas de Custeio
+
+3.1.3.0
+
+- Serviços de Terceiros
+
+09.00
+
+- Serviços de comunicações em geral
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

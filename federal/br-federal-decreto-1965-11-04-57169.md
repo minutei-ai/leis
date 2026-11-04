@@ -1,5 +1,3 @@
-###DEC-057169-0-000-04-11-1965@@@
-
 DECRETO Nº 57.169, DE 4 DE NOVEMBRO DE 1965.
 
 Complementa o Decreto nº 55.332, de 31 de dezembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-071761-0-000-26-01-1973@@@
-
 DECRETO Nº 71.761, DE 26 DE JANEIRO DE 1973.
 
 Inclui as Comissões de Conciliação e Julgamento do Instituto do Açúcar e do Álcool na classificação de órgãos de deliberação coletiva de que trata o Decreto nº 70.310, de 21 de março de 1972.

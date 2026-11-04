@@ -1,5 +1,3 @@
-###DEC-052773-0-000-29-10-1963@@@
-
 DECRETO Nº 52773, DE 29 DE OUTUBRO DE 1963.
 
 Concede a Navegação Litorânea Brasileira S.A. (Navelibra) autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-076786-0-000-15-12-1975@@@
-
 DECRETO Nº 76.786, DE 15 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de  Letras da Faculdade de Filosofia, Ciências e Letras de Presidente Venceslau, Estado de São Paulo.

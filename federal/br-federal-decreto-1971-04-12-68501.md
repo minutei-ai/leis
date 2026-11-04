@@ -1,5 +1,3 @@
-###DEC-068501-0-000-12-04-1971@@@
-
 DECRETO Nº 68.501 - DE 12 DE ABRIL DE 1971.
 
 Concede reconhecimento à Faculdade de Direito de Rio dos Sinos, em São Leopoldo, RS.

@@ -1,5 +1,3 @@
-###DEC-099659-0-000-31-10-1990@@@
-
 DECRETO Nº 99.659, DE 31 DE OUTUBRO DE 1990
 
 Fixa cargos privativos de Oficial-General da Aeronáutica, em tempo de paz, e dá outras providências.

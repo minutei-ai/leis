@@ -1,5 +1,3 @@
-###DEC-055984-0-000-22-04-1965@@@
-
 DECRETO Nº 55.984, DE 22 DE ABRIL DE 1965.
 
 Autoriza Mármores Eldorado S.A. Mineração Indústria e Comércio a pesquisar mármore, no município de Eldorado, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-073902-0-000-05-04-1974@@@
-
 DECRETO Nº 73.902, DE 5 DE ABRIL DE 1974.
 
 Declara sem efeito o Decreto número 46.822, de 15 de setembro de 1959.

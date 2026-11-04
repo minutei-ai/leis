@@ -1,7 +1,3 @@
-1
-
-###DEC-098916-0-000-01-02-1990@@@
-
 DECRETO Nº 98.916, DE 1º DE FEVEREIRO DE 1990
 
 Altera o Regimento Interno dos Gabinetes da Presidência da República e dá outras providências.

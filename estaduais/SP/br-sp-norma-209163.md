@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209163)<br>
-
 # DECRETO N° 68.369, DE 05 DE MARÇO DE 2024
 
 ### _Autoriza a outorga de uso, em favor da AEQUOTAM - Associação de Assistência e Equoterapia de Americana, de parte do imóvel que especifica, e dá providências correlatas._

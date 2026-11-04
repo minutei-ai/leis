@@ -1,5 +1,3 @@
-###DEC-067343-0-000-05-10-1970@@@
-
 DECRETO Nº 67.343, DE 5 DE OUTUBRO DE 1970.
 
 Declara de utilidade pública o Instituto Maria Auxiliadora, com sede em Alto Araguaia, Estado de Mato Grosso.

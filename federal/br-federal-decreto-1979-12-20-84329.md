@@ -1,5 +1,3 @@
-###DEC-084329-0-000-20-12-1979@@@
-
 Decreto nº 84.329 de 20 de dezembro de 1979.
 
 Autoriza o aumento de capital da Aços Finos Piratini S.A., com subscrição de ações em dinheiro.

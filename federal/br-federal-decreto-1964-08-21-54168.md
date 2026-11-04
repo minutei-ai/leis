@@ -1,5 +1,3 @@
-###DEC-054168-0-000-21-08-1964@@@
-
 DECRETO Nº 54.168, DE 21 DE AGÔSTO DE 1964.
 
 Renova o Decreto nº 48.299, de 17 de junho de 1960.

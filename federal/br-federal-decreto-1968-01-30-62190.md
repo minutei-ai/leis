@@ -1,5 +1,3 @@
-###DEC-062190-0-000-30-01-1968@@@
-
 DECRETO Nº 62.190, DE 30 DE JANEIRO DE 1968.
 
 Declara de utilidade pública a “Associação Jundiaiense de Pais e Amigos dos Excepcionais”, com sede em Jundiaí, Estado de São Paulo.

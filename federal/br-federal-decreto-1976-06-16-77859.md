@@ -1,5 +1,3 @@
-###DEC-077859-0-000-16-06-1976@@@
-
 DECRETO Nº 77.859, DE 16 DE JUNHO de 1976.
 
 Exclui cargos com os respectivos ocupantes, do Quadro de Pessoal, Parte Permanente, do Ministério da Saúde.

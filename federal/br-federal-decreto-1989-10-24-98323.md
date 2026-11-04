@@ -1,7 +1,3 @@
-1
-
-###DEC-098323-0-000-24-10-1989@@@
-
 DECRETO N° 98.323, DE 24 DE OUTUBRO DE 1989
 
 Fixa os preços mínimos básicos para financiamento e/ou aquisição de produtos agrícolas da safra de verão de 1989/90.

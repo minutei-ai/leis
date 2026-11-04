@@ -1,5 +1,3 @@
-###DEC-082352-0-000-02-10-1978@@@
-
 Decreto nº 82.352 de 02 de outubro de 1978
 
 Concede reconhecimento ao curso de Tecnólogo em Cooperativismo da Universidade Federal de Viçosa, com sede na cidade de Viçosa, Estado de Minas Gerais.

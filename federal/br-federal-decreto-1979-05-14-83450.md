@@ -1,5 +1,3 @@
-###DEC-083450-0-000-14-05-1979@@@
-
 Decreto nº 83.450 de 14 de maio de 1979
 
 Autoriza o funcionamento da Faculdade de Engenharia Mecânica, com sede na cidade de Varginha, Estado de Minas Gerais.

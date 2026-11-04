@@ -1,5 +1,3 @@
-###DEC-004011-0-000-13-11-2001@@@
-
 DECRETO Nº 4.011, DE 13 DE NOVEMBRO DE 2001
 
 Concede indulto, comuta penas e dá outras providências.

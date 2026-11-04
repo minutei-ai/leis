@@ -1,5 +1,3 @@
-###DEL-008748-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.748 – DE 21 DE JANEIRO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 2.000.000,00 , para atender a despesas com o II Congresso Panamericano de Minas e Geologia.

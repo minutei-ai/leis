@@ -1,5 +1,3 @@
-###DEC-086592-0-000-17-11-1981@@@
-
 DECRETO Nº 86.592, de 17 DE NOVEMBRO DE 1981
 
 Autoriza CORNELIUS VEIT WIEDEMANN, de nacionalidade alemã, a adquirir imóvel rural.

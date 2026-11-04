@@ -1,5 +1,3 @@
-###DEC-088488-0-000-07-07-1983@@@
-
 Decreto nº 88.488, de 07 de julho de 1983
 
 Declara de utilidade pública as instituições que menciona.

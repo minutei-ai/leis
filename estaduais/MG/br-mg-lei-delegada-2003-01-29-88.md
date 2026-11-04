@@ -167,7 +167,3 @@ Cargos de provimento em comissão da estrutura Intermediária
 CARGA HORÁRIA: 40 HORAS
 
 UNIDADE ADMINISTRATIVA CLASSE DE CARGOS Nº DE CARGOS SÍMBOLO DE VENCIMENTO Chefe de Divisão 05 12J Chefe de Seção 15 11J Gerente 01 12I
-
-\=================================================================
-
-Data da última atualização: 25/1/2011.

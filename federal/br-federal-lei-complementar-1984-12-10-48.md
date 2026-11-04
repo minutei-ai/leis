@@ -1,5 +1,3 @@
-###LCP-000048-0-000-10-12-1984@@@
-
 # LEI COMPLEMENTAR Nº 048, de 10 de dezembro de 1984.
 
 Estabelece normas integrantes do Estatuto da Microempresa, relativas a isenção do imposto sobre Circulação de Mercadorias - ICM e do Imposto sobre Serviços - ISS.

@@ -1,5 +1,3 @@
-###DEC-083047-0-000-16-01-1979@@@
-
 DECRETO Nº 83.047, DE 16 DE JANEIRO DE 1979
 
 Aprova a modificação do Estatuto da Empresa de Engenharia e Construção de Obras Especiais-ECEX.

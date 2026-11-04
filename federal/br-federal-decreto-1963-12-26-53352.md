@@ -1,5 +1,3 @@
-###DEC-053352-0-000-26-12-1963@@@
-
 DECRETO Nº 53.352, DE 26 DE DEZEMBRO DE 1963.
 
 Aprova o Regulamento do Fundo Nacional de Telecomunicações.

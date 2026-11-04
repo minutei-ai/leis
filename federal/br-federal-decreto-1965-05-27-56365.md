@@ -1,5 +1,3 @@
-###DEC-056365-0-000-27-05-1965@@@
-
 DECRETO Nº 56.365, DE 27 DE MAIO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno sem edificações que menciona, em Belém, Estado do Pará.

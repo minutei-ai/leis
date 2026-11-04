@@ -20,7 +20,8 @@ Art. 4º - O capital do Banco será o que for fixado, em qualquer ocasião, pela
 
 § 3º - A cessão de que trata o parágrafo anterior dar-se-á dentro do prazo estabelecido aos acionistas para o exercício do direito de preferência, obrigando-se o Estado a depositar, no Banco o total do valor respectivo, que ficará em conta bloqueada, exclusivamente utilizável na aquisição de ações novas do próprio Banco.
 
-Redação de acordo com a Lei nº 2.861, de 11 de dezembro de 1970.<br>
+Redação de acordo com a Lei nº 2.861, de 11 de dezembro de 1970.
+
 Redação original: "Art. 4º - O capital do Banco será o que for fixado, em qualquer ocasião, pela Assembléia Geral dos seus acionistas.Parágrafo único - O Estado continuará possuindo, no mínimo cinqüenta e um por cento (51%) do Capital do Banco e de suas ações com direito a voto, mantido sempre, tal limite mínimo, em todas as elevações porventura estabelecidas pela Assembléia Geral, dos acionistas."
 
 Art. 5º - São asseguradas ao Banco as seguintes vantagens:
@@ -47,12 +48,14 @@ Art. 7º - vetado.
 
 Art. 8º - O Banco terá uma Diretoria composta de um Presidente e de até mais outros sete Diretores, à qual competirá sua administração geral.
 
-Redação de acordo com a Lei nº 3.702, de 31 de maio de 1979.<br>
+Redação de acordo com a Lei nº 3.702, de 31 de maio de 1979.
+
 Redação original: "Art. 8º - O Banco terá uma Diretoria composta de um Presidente, de um Diretor-Superitendente e de até mais outros seis Diretores, à qual competirá sua administração geral."
 
 § 1º - Até o limite referido neste artigo, os Estatutos estabelecerão o número de componentes da Diretoria e a maneira como esta decidirá sobre a designação e atribuições de cada qual dos Diretores.
 
-Redação de acordo com a Lei nº 2.861, de 11 de dezembro de 1970.<br>
+Redação de acordo com a Lei nº 2.861, de 11 de dezembro de 1970.
+
 Redação original: "§ 1º - Até o limite referido neste artigo, os Estatutos estabelecerão o número dos componentes da Diretoria, bem como assegurarão ao Presidente a prerrogativa de estabelecer a designação e as atribuições de cada qual dos demais Diretores."
 
 § 2º - Os membros da Diretoria são eleitos pela Assembléia Geral dos Acionistas que também elegerá dois suplentes, entre pessoas de reputação ilibada, que não sejam parentes naturais, ou afins, entre si, até o terceiro grau.
@@ -71,12 +74,14 @@ Art. 10 - Os vencimentos dos Diretores, e as verbas mensais de representação, 
 
 Art. 11 - As Assembléias Gerais serão presididas pelo Presidente do Banco, delas devendo participar o Procurador Geral do Estado, na hipótese prevista pelo art. 52, inciso XII, da Lei nº 2.321, de 11 de abril de 1966.
 
-Redação de acordo com a Lei nº 3.702, de 31 de maio de 1979.<br>
+Redação de acordo com a Lei nº 3.702, de 31 de maio de 1979.
+
 Redação original: "Art. 11 - Salvo designação especial do Governador do Estado, as Assembléias Gerais, ordinárias ou extraordinárias, serão presididas pelo Secretário da Fazenda ou seu substituto legal, delas devendo participar o Procurador Geral do Estado, na hipótese se prevista pelo art. 52, inciso XII, da Lei nº 2.321, de 11 de abril de 1966."
 
 Art. 12 - O Governo do Estado fica autorizado a dar, em caução e garantia de financiamentos obtidos pelo Banco, ou por estes garantidos as ações de sua propriedade que excedam o mínimo inalienável previsto pelo § 1º do artigo 4º .
 
-Redação de acordo com a Lei nº 2.861, de 11 de dezembro de 1970.<br>
+Redação de acordo com a Lei nº 2.861, de 11 de dezembro de 1970.
+
 Redação original: "Art. 12 - O Governo do Estado fica autorizado a dar em caução e garantia de financiamentos obtidos pelo Banco, ou por este garantidos, as ações de sua propriedade que excedam o mínimo inalienável, previsto pelo parágrafo único do art. 4º."
 
 Art. 13 - As ações de propriedade inalienável do Estado não perceberão dividendos, enquanto não couber, ao restante das ações, um dividendo de oito por cento (8%) em média, no triênio, incluindo o exercício encerrado.
@@ -93,7 +98,8 @@ Art. 16 - vetado.
 
 Art. 17 - O Conselho Fiscal do Banco será composto de 04 (quatro) membros, e suplentes em igual número, eleitos anualmente, pela Assembléia Geral Ordinária, podendo ser reeleitos.
 
-Redação de acordo com a Lei nº 2.945, de 26 de julho de 1971.<br>
+Redação de acordo com a Lei nº 2.945, de 26 de julho de 1971.
+
 Redação original: "Art. 17 - O Conselho Fiscal do Banco será composto de quatro (4) membros, dois (2) dos quais contadores legalmente habilitados e pertencentes à Auditoria Geral do Estado, importando as suas assinaturas, nos pareceres que devam ser produzidos, no cumprimento do disposto no art. 130 da Lei Estadual nº 2.321, de 11 de abril de 1966."
 
 Art. 18 - A restrição prevista no inciso V do art. 34 da Lei Federal nº 4.595, de 31 de dezembro de 1966, se aplica às pessoas físicas dos sócios majoritários e dirigentes das pessoas jurídicas a que se refere o dispositivo.

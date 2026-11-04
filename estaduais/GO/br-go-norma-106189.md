@@ -22,8 +22,6 @@ Art. 2º Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias de 
 
 Goiânia, 11 de outubro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

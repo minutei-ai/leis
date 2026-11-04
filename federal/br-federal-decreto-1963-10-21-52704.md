@@ -1,5 +1,3 @@
-###DEC-052704-0-000-21-10-1963@@@
-
 DECRETO Nº 52.704, DE 21 DE OUTUBRO DE 1963.
 
 Outorga ao Govêrno do Estado do Pará concessão para distribuir energia elétrica no município de Capanema.

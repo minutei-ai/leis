@@ -1,5 +1,3 @@
-###DEC-055018-0-000-17-11-1964@@@
-
 Decreto nº 55.018, de 17 de novembro de 1964.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Comercial do Pará, inclusive aumento do capital social.

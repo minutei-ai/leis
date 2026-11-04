@@ -1,5 +1,3 @@
-###DEC-067354-0-000-07-10-1970@@@
-
 DECRETO Nº 67.354, DE 7 DE OUTUBRO DE 1970.
 
 Concede permissão, em caráter permanente à emprêsa Elekeiroz do Nordeste Indústria Química S.A., sediada em Igarassu, Estado de Pernambuco, para funcionar aos domingos e nos dias feriados civis e religiosos.

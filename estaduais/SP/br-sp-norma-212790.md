@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212790)<br>
-
 # DECRETO N° 70.715, DE 26 DE JUNHO DE 2026
 
 ### _Altera os Anexos II e III do Decreto n° 69.333, de 29 de janeiro de 2025, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Ciência, Tecnologia e Inovação._
@@ -20,14 +18,356 @@ Vahan Agopyan
 
 #### ANEXO I
 
-#### ANEXO II<br>
+#### ANEXO II
+
 Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Ciência, Tecnologia e Inovação
 
-<table style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Unidade</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Quantidade</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Denominação Cargo/Função</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP/FCESP</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Secretaria Executiva</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Secretário Executivo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.18 (NES)</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.15</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessoria Técnica</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Assessoria</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.16</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.15</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial I</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.13</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessoria de Parcerias e Contratos</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Assessoria</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.16</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.15</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial I</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.13</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefia de Gabinete</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Gabinete</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.16</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor I</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.09</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente Técnico II</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.06</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Serviço de Ouvidoria e Integridade</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Serviço</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.08</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Diretoria de Ciência, Tecnologia e Inovação</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Diretor</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.15</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial II</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.14</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor IV</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.12</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente IV</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.04</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Coordenadoria de Programas</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Coordenador</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.13</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor IV</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.12</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente Técnico IV</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.08</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Coordenadoria de Ambientes de Inovação</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Coordenador</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.13</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor IV</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.12</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente Técnico IV</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.08</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Serviço de Apoio à CPRTI</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Serviço</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.07</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente II</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.02</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Coordenadoria de Ensino Técnico e Superior</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Coordenador</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.13</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor IV</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.12</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente Técnico IV</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.08</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente IV</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.04</td></tr></tbody></table>
+Unidade
+
+Quantidade
+
+Denominação Cargo/Função
+
+CCESP/FCESP
+
+Secretaria Executiva
+
+1
+
+Secretário Executivo
+
+CCESP 1.18 (NES)
+
+3
+
+Assessor Especial III
+
+CCESP 2.15
+
+Assessoria Técnica
+
+1
+
+Chefe de Assessoria
+
+CCESP 1.16
+
+2
+
+Assessor Especial III
+
+CCESP 2.15
+
+1
+
+Assessor Especial I
+
+CCESP 2.13
+
+Assessoria de Parcerias e Contratos
+
+1
+
+Chefe de Assessoria
+
+CCESP 1.16
+
+1
+
+Assessor Especial III
+
+CCESP 2.15
+
+1
+
+Assessor Especial I
+
+CCESP 2.13
+
+Chefia de Gabinete
+
+1
+
+Chefe de Gabinete
+
+CCESP 1.16
+
+3
+
+Assessor I
+
+CCESP 2.09
+
+1
+
+Assistente Técnico II
+
+CCESP 2.06
+
+Serviço de Ouvidoria e Integridade
+
+1
+
+Chefe de Serviço
+
+CCESP 1.08
+
+Diretoria de Ciência, Tecnologia e Inovação
+
+1
+
+Diretor
+
+CCESP 1.15
+
+1
+
+Assessor Especial II
+
+CCESP 2.14
+
+1
+
+Assessor IV
+
+CCESP 2.12
+
+1
+
+Assistente IV
+
+CCESP 2.04
+
+Coordenadoria de Programas
+
+1
+
+Coordenador
+
+CCESP 1.13
+
+2
+
+Assessor IV
+
+CCESP 2.12
+
+1
+
+Assistente Técnico IV
+
+CCESP 2.08
+
+Coordenadoria de Ambientes de Inovação
+
+1
+
+Coordenador
+
+CCESP 1.13
+
+2
+
+Assessor IV
+
+CCESP 2.12
+
+1
+
+Assistente Técnico IV
+
+CCESP 2.08
+
+Serviço de Apoio à CPRTI
+
+1
+
+Chefe de Serviço
+
+CCESP 1.07
+
+1
+
+Assistente II
+
+CCESP 2.02
+
+Coordenadoria de Ensino Técnico e Superior
+
+1
+
+Coordenador
+
+CCESP 1.13
+
+2
+
+Assessor IV
+
+CCESP 2.12
+
+1
+
+Assistente Técnico IV
+
+CCESP 2.08
+
+1
+
+Assistente IV
+
+CCESP 2.04
 
 #### ANEXO II
 
-#### ANEXO III<br>
+#### ANEXO III
+
 Quadro Resumo de Custos dos Cargos em Comissão e das Funções de Confiança da Secretaria de Ciência, Tecnologia e Inovação
 
-<table style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Código</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Valor Unitário</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Quantidade</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Valor Total</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.18</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9,00</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9,00</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.16</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">7,00</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">21,00</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.15</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">6,00</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">6,00</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.13</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">4,50</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">13,50</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.08</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2,75</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2,75</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 1.07</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2,50</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2,50</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.15</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">6,00</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">6</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">36,00</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.14</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">5,50</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">5,50</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.13</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">4,50</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9,00</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.12</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">4,00</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">7</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">28,00</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.09</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3,00</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9,00</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.08</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2,75</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8,25</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.06</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2,25</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2,25</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.04</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1,75</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3,50</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CCESP 2.02</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1,25</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1,25</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Subtotal 1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">36</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">157,50</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">FCESP</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">0</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Subtotal 2</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">0</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Total</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">36</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">157,50</td></tr></tbody></table>
+Código
+
+Valor Unitário
+
+Quantidade
+
+Valor Total
+
+CCESP 1.18
+
+9,00
+
+1
+
+9,00
+
+CCESP 1.16
+
+7,00
+
+3
+
+21,00
+
+CCESP 1.15
+
+6,00
+
+1
+
+6,00
+
+CCESP 1.13
+
+4,50
+
+3
+
+13,50
+
+CCESP 1.08
+
+2,75
+
+1
+
+2,75
+
+CCESP 1.07
+
+2,50
+
+1
+
+2,50
+
+CCESP 2.15
+
+6,00
+
+6
+
+36,00
+
+CCESP 2.14
+
+5,50
+
+1
+
+5,50
+
+CCESP 2.13
+
+4,50
+
+2
+
+9,00
+
+CCESP 2.12
+
+4,00
+
+7
+
+28,00
+
+CCESP 2.09
+
+3,00
+
+3
+
+9,00
+
+CCESP 2.08
+
+2,75
+
+3
+
+8,25
+
+CCESP 2.06
+
+2,25
+
+1
+
+2,25
+
+CCESP 2.04
+
+1,75
+
+2
+
+3,50
+
+CCESP 2.02
+
+1,25
+
+1
+
+1,25
+
+Subtotal 1
+
+36
+
+157,50
+
+FCESP
+
+0
+
+Subtotal 2
+
+0
+
+Total
+
+36
+
+157,50

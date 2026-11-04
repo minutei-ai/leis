@@ -1,5 +1,3 @@
-###DEC-006135-0-000-26-06-2007@@@
-
 DECRETO Nº 6.135, DE 26 DE JUNHO DE 2007.
 
 Dispõe sobre o Cadastro Único para Programas Sociais do Governo Federal e dá outras providências.
@@ -123,5 +121,3 @@ Brasília, 26 de junho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Patrus Ananias
-
-Este texto não substitui o publicado no DOU de 27.6.2007

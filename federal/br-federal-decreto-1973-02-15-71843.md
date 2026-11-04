@@ -1,5 +1,3 @@
-###DEC-071843-0-000-15-02-1973@@@
-
 DECRETO N° 71.843, DE 15 DE FEVEREIRO DE 1973.
 
 Altera o Decreto n° 64.714, de 18 de junho de 1969.

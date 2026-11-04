@@ -1,5 +1,3 @@
-###DEL-007256-0-000-18-01-1945@@@
-
 DECRETO-LEI N. 7.256 – DE 18 DE JANEIRO DE 1945
 
 Autoriza a permuta dos imóveis que menciona e dá outras providências

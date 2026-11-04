@@ -1,5 +1,3 @@
-###DEC-049304-0-000-21-11-1960@@@
-
 DECRETO Nº 49.304, DE 21 DE NOVEMBRO DE 1960.
 
 Modifica o Regulamento do Ensino Industrial, aprovado pelo Decreto nº 47.038, de 16 de outubro de 1959.

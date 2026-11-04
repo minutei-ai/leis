@@ -1,5 +1,3 @@
-###DEC-081896-0-000-06-07-1978@@@
-
 DECRETO Nº 81.896, DE 06 de JUlHO DE 1978.
 
 Cria Organização Militar no Ministério do Exército e dá outras providências.

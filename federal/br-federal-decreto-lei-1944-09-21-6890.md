@@ -1,5 +1,3 @@
-###DEL-006890-0-000-21-09-1944@@@
-
 DECRETO-LEI N. 6.890 – DE 21 DE SETEMBRO DE 1944
 
 Estabelece medidas para facilitar a reconstituição de documentos inutilizados em conseqüência do incêndio ocorrido no Serviço de Comunicações do Ministério da Educação e Saúde

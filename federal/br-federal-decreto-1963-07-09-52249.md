@@ -1,5 +1,3 @@
-###DEC-052249-0-000-09-07-1963@@@
-
 decreto nº 52.249, de 9 de julho de 1963.
 
 Autoriza a Cia. Paulista de Mineração a pesquisar feldspato e caolim no município Santana do Deserto, Estado de Minas Gerais.

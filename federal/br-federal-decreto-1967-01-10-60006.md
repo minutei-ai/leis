@@ -1,5 +1,3 @@
-###DEC-060006-0-000-10-01-1967@@@
-
 DECRETO Nº 60.006, DE 10 DE JANEIRO DE 1967.
 
 Autoriza a Indústria e Comércio Magnebock Ltda. a pesquisar filito no município de Pirapora de Bom Jesus, Estado de São Paulo.

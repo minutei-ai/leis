@@ -1,5 +1,3 @@
-###DEC-067220-0-000-18-09-1970@@@
-
 DECRETO Nº 67.220, DE 18 DE SETEMBRO DE 1970.
 
 Abre em favor do Ministério da Aeronáutica o crédito suplementar de Cr$10.000.000,00 para refôrço de dotação consignada no vigente Orçamento.
@@ -10,11 +8,41 @@ Decreta:
 
 Art. 1º Fica aberto, em favor do Ministério da Aeronáutica, o crédito suplementar de Cr$10.000.000,00 (dez milhões de cruzeiros), para refôrço de dotação orçamentária consignada ao subanexo 12.00.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:297.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12.00.00</span></p></td><td style="width:297.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA AERONÁUTICA</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08.071.007</span></p></td><td style="width:297.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Suprimentos e Equipamentos de Aeronaves</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.3.0</span></p></td><td style="width:297.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Equipamentos e Instalações...........................................................</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.000.000,00</span></p></td></tr></tbody></table>
+Cr$
+
+12.00.00
+
+- MINISTÉRIO DA AERONÁUTICA
+
+08.071.007
+
+- Suprimentos e Equipamentos de Aeronaves
+
+4.1.3.0
+
+- Equipamentos e Instalações...........................................................
+
+10.000.000,00
 
 Art. 2º Os recursos necessários à execução dêste Decreto decorrerão de anulação parcial de dotação orçamentária consignada no vigente Orçamento ao subanexo 28.00.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.00.00</span></p></td><td style="width:297.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Encargos Gerais da União</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.02.00</span></p></td><td style="width:297.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Recursos sob Supervisão do Ministério do Planejamento e Coordenação Geral</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18.00.1.013</span></p></td><td style="width:297.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Financiamento de Atividades e Projetos Prioritários</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.2.0</span></p></td><td style="width:297.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Serviço em Regime de Programação Especial...............................</span></p></td><td style="width:67.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.000.000,00</span></p></td></tr></tbody></table>
+28.00.00
+
+- Encargos Gerais da União
+
+28.02.00
+
+- Recursos sob Supervisão do Ministério do Planejamento e Coordenação Geral
+
+18.00.1.013
+
+- Financiamento de Atividades e Projetos Prioritários
+
+4.1.2.0
+
+- Serviço em Regime de Programação Especial...............................
+
+10.000.000,00
 
 Art. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,5 +1,3 @@
-###DEC-006649-0-000-18-11-2008@@@
-
 DECRETO Nº 6.638, DE 18 DE NOVEMBRO DE 2008.
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Complementação Econômica n~~º~~ 59 (7PA-ACE59), assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e os Governos da República Bolivariana da Venezuela, da República da Colômbia e da República do Equador, em 21 de maio de 2008.

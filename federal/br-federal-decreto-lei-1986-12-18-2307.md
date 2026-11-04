@@ -1,5 +1,3 @@
-###DEL-002307-0-000-18-12-1986@@@
-
 # DECRETO-LEI Nº 2.307, DE 18 DE DEZEMBRO DE 1986
 
 Dispõe sobre as operações de crédito e financiamento, no âmbito da Administração Federal, e dá outras providências.

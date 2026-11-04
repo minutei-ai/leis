@@ -1,5 +1,3 @@
-###DEC-084734-0-000-24-05-1980@@@
-
 Decreto nº 84.734, de 24 de maio de 1980.
 
 Cria a Embaixada do Brasil em São Vicente e Granadinas.

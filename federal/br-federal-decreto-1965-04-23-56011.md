@@ -1,5 +1,3 @@
-###DEC-056011-0-000-23-04-1965@@@
-
 DECRETO Nº 56.011, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Osmar Carvalho a pesquisar argila no município de São Simão, Estado de Paulo.

@@ -1,5 +1,3 @@
-###DEC-060647-0-000-28-04-1967@@@
-
 DECRETO Nº 60.647, DE 28 DE ABRIL DE 1967.
 
 Declara de utilidade pública o “Oratório Anjo da Guarda”, com sede em São Paulo, Estado de São Paulo.

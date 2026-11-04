@@ -1,5 +1,3 @@
-###DEC-051771-0-000-04-03-1963@@@
-
 DECRETO Nº 51.771, DE 4 DE Março de 1963.
 
 Autoriza o cidadão brasileiro Francisco Diogo Felix a pesquisar minério de ferro no município de Itabira, Estado de Minas Gerais.

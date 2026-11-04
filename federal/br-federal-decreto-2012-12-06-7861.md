@@ -1,5 +1,3 @@
-###DEC-007861-0-000-06-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.861, DE 6 DE DEZEMBRO DE 2012
 
 Institui a Comissão Nacional das Autoridades nos Portos - CONAPORTOS, dispõe sobre a atuação integrada dos órgãos e entidades públicos nos portos organizados e instalações portuárias, e dá outras providências.

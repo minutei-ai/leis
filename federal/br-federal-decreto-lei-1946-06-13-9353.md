@@ -1,5 +1,3 @@
-###DEL-009353-0-000-13-06-1946@@@
-
 DECRETO-LEI N. 9.353 – DE 13 DE JUNHO DE 1946
 
 Dispõe sôbre as atribuições do Departamento Federal de Segurança Pública.

@@ -1,5 +1,3 @@
-###DEC-049954-0-000-17-01-1961@@@
-
 DECRETO Nº 49.954, DE 17 DE JANEIRO DE 1961.
 
 Outorga concessão à Televisão Excelsior S.A. para estabelecer uma estação de radiotelevisão.

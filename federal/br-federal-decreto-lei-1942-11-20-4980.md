@@ -1,5 +1,3 @@
-###DEL-004980-0-000-20-11-1942@@@
-
 DECRETO-LEI N. 4.980 – DE 20 DE NOVEMBRO DE 1942
 
 Abre, ao Ministério da Agricultura, o crédito suplementar de Cr$ 20.000,00 à verba que especifica

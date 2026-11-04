@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208774)<br>
-
 # LEI N° 17.840, DE 07 DE NOVEMBRO DE 2023
 
 ## (Projeto de lei n° 104/2023, da Deputada Leticia Aguiar - PP)

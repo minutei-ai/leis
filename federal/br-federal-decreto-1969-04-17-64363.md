@@ -1,5 +1,3 @@
-###DEC-064363-0-000-17-04-1969@@@
-
 DECRETO Nº 64.363, DE 17 DE ABRIL DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente, do Ministério das Relações Exteriores, cargo originário do Quadro de Pessoal - Parte Permanente, do Ministério da Indústria e do Comércio.

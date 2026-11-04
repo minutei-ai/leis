@@ -1,5 +1,3 @@
-###DEC-070060-0-000-26-01-1972@@@
-
 DECRETO Nº 70.060, DE 26 DE JANEIRO DE 1972.
 
 Classifica órgão de deliberação coletiva existente na área do Ministério das Minas e Energia e dá outras providências.

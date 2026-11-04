@@ -1,5 +1,3 @@
-###DEL-003634-0-000-18-09-1941@@@
-
 DECRETO-LEI N. 3.634 – DE 18 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de 500:000$0 para desenvolvimento do cooperativismo

@@ -1,5 +1,3 @@
-###DEC-006033-0-000-01-02-2007@@@
-
 DECRETO Nº 6.033, DE 1º DE FEVEREIRO DE 2007.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.727, de 15 de dezembro de 2006, do Conselho de Segurança das Nações Unidas, que, entre outras providências, renova, até 31 de outubro de 2007, o embargo de armas à Costa do Marfim, bem como as restrições de viagem e o congelamento de fundos, ativos financeiros e recursos econômicos de determinados indivíduos e entidades.
@@ -18,11 +16,7 @@ Brasília, 1º de  fevereiro de 2007; 186o da Independência e 119o da Repúbli
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 2.2.2007.
-
-O Conselho de Segurança,
+       Celso Luiz Nunes AmorimO Conselho de Segurança,
 
 Recordando suas resoluções e as declarações anteriores do seu Presidente em relação à situação na Costa do Marfim,
 

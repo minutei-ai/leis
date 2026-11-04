@@ -4,7 +4,8 @@ Cria o Código de Ética e Disciplina da Guarda Civil Municipal de Aparecida de 
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1°. Esta Lei dispõe sobre a instituição do Código de Ética e Disciplina da Guarda Civil Municipal de Aparecida de Goiânia – CEDIGCM/APGO com a finalidade de:
@@ -73,7 +74,8 @@ Art. 8º. A observância aos princípios constitucionais da Administração Púb
 
 Parágrafo único. O exercício do cargo deve ser integrado à conduta do dia a dia do servidor e toda atitude incompatível às suas funções, tanto na sua vida pública quanto privada, quando se manifestar com tal poderá acrescer ou prejudicar o seu conceito profissional e da Corporação.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA HIERARQUIA
 
 Art. 9º. A camaradagem, como norma de convivência solidária e prestimosa, torna-se indispensável à formação e ao convívio institucional, propiciando a existência de boas relações sociais entre os agentes.
@@ -90,7 +92,8 @@ Art. 11. O ordenamento hierárquico da Guarda Civil Municipal de Aparecida de Go
 
 Art. 12. Os integrantes da Corporação Guarda Civil Municipal de Aparecida de Goiânia serão subordinados à hierarquia básica da Instituição, qualquer que seja o local do exercício das atribuições do cargo e de suas funções, sujeitando-se, ainda, quando for o caso, às normas dos órgãos/entidades onde desenvolvam suas atividades, desde que não conflitem com as da GCM/APGO, as quais serão sempre soberanas.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA DISCIPLINA
 
 Art. 13. A disciplina da Corporação manifesta-se pelo estrito cumprimento do dever legal, conforme as normas e padrões regulamentares, em todos os escalões, cargos e funções de todos os graus de hierarquia da GCM/APGO.
@@ -119,7 +122,8 @@ Art. 14. Supervisão é a atividade permanentemente desenvolvida em nome da auto
 
 Art. 15. A civilidade é parte integrante da educação, competindo a cada servidor da Corporação Guarda Civil Municipal de Aparecida Goiânia o tratamento respeitoso com os pares e subordinados.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DOS SINAIS DE RESPEITO E TRATAMENTO
 
 Art. 16. Os integrantes da Corporação Guarda Civil Municipal de Aparecida de Goiânia devem demonstrar respeito e apreço aos seus superiores, pares, subordinados e à comunidade, através:
@@ -164,7 +168,8 @@ III – bom-dia, boa-tarde, boa-noite.
 
 Art. 22. O Comandante geral da GCM/APGO poderá definir, de acordo com as circunstâncias e naquilo que couber, normas complementares, a serem adotadas pela Corporação da Guarda Civil Municipal.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS DEVERES FUNDAMENTAIS E DAS VEDAÇÕES
 
 Art. 23. São deveres fundamentais dos Guardas Civis Municipais de Aparecida de Goiânia:
@@ -185,7 +190,8 @@ VII – respeitar e cumprir, no plano administrativo, as decisões dos órgãos 
 
 VIII – ter consciência de que deverá sempre instrumentalizar meios de mitigar as desigualdades para o encontro de soluções justas e que a lei é um instrumento para garantir a igualdade de todos.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DOS DEVERES FUNCIONAIS, ADMINISTRATIVOS E LEGAIS
 
 Art. 24. Constituem deveres a serem observados pelos Guardas Civis Municipais de Aparecida de Goiânia, dentre outros previstos nas regras e princípios constitucionais e infraconstitucionais:
@@ -246,7 +252,8 @@ a) – não tenham valor comercial ou sejam de valor irrisório; ou
 
 b) – distribuídos por entidades de qualquer natureza, a título de cortesia, propaganda, divulgação habitual, ou por ocasião de eventos especiais ou datas comemorativas, que tenham valor módico.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DOS ATRIBUTOS PARA UM BOM CONCEITO INSTITUCIONAL
 
 Art. 25. Os integrantes da Corporação da Guarda Civil Municipal de Aparecida de Goiânia, no cumprimento das atribuições do cargo ou função, deverão exercitar, diuturnamente, dentre outros, os atributos a seguir conceituados:
@@ -305,7 +312,8 @@ XIV - prestar atendimento e esclarecimentos ao público interno e externo, pesso
 
 XV - atender às requisições da Corregedoria Geral e Ouvidoria da GCM/APGO e dos demais órgãos da Administração Municipal.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DAS RESPONSABILIDADES
 
 Art. 27. O servidor da Corporação da Guarda Civil Municipal de Aparecida de Goiânia poderá responder civil, penal e administrativamente pelo exercício irregular de suas atribuições.
@@ -322,7 +330,8 @@ Art. 30. A responsabilidade administrativa resulta de ato omisso ou comisso, dol
 
 Parágrafo único. A responsabilidade administrativa do servidor será afastada, no caso de absolvição, por meio de decisão final da justiça criminal, que negue a existência do fato ou sua autoria.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DAS DEFINIÇÕES E CLASSIFICAÇÕES DAS INFRAÇÕES DISCIPLINARES
 
 Art. 31. São infrações disciplinares as violações aos princípios, proibições e não cumprimento dos deveres previstos neste Código e aos demais dispositivos legais pertinentes, sem prejuízo das sanções cíveis e penais aplicáveis à espécie.
@@ -349,12 +358,14 @@ III - demissão.
 
 § 3º A Demissão será aplicada, por ato do Chefe do Poder Executivo, nos termos da Lei Complementar n°. 003/2001, Estatuto dos Servidores da Prefeitura e Câmara Municipal de Aparecida de Goiânia.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DA COMPETÊNCIA PARA APLICAÇÃO DAS NORMAS DESTA LEI
 
 Art. 34. As autoridades competentes para proceder à aplicação de penalidade imposta ao servidor são aquelas descritas no art. 154, da Lei Complementar n° 003/01 – Estatuto dos servidores da Prefeitura e Câmara Municipal de Aparecida de Goiânia, conforme a sua natureza e gravidade.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 DAS INFRAÇÕES LEVES
 
 Art. 35. São infrações disciplinares de natureza leve, com penalidade de Advertência por escrito:
@@ -393,7 +404,8 @@ XVI- descuidar-se da apresentação pessoal em serviço;
 
 XVII - comparecer ao serviço sem o Documento de Identidade Funcional;
 
-CAPÍTULO XII<br>
+CAPÍTULO XII
+
 DAS INFRAÇÕES MÉDIAS
 
 Art. 36. São infrações disciplinares de natureza média, com penalidade de Suspensão:
@@ -466,7 +478,8 @@ XXVIII – divulgar informações da GCM e da administração deste município, 
 
 XXIX - promover ou instigar a desordem;
 
-CAPÍTULO XIII<br>
+CAPÍTULO XIII
+
 DAS INFRAÇÕES GRAVES
 
 Art. 37. As infrações de natureza grave, com penalidade de demissão são as constantes do art. 148, da Lei Complementar n. º 003/01, Estatuto dos Servidores da Prefeitura e Câmara Municipal de Aparecida de Goiânia e:
@@ -479,12 +492,14 @@ III - deixar por culpa, dolo ou omissão de zelar pelo que lhe seja confiado, pe
 
 IV – utilizar-se do anonimato em discurso de ódio;
 
-CAPÍTULO XIV<br>
+CAPÍTULO XIV
+
 DA PRESCRIÇÃO
 
 Art. 38. O prazo prescricional das penalidades impostas aos servidores serão os mesmos constantes da Lei Complementar n°. 003/01 – Estatutos dos Servidores da Prefeitura e Câmara Municipal de Aparecida de Goiânia, conforme a natureza e gravidade da respectiva sanção.
 
-CAPÍTULO XV<br>
+CAPÍTULO XV
+
 DO JULGAMENTO
 
 Art. 39. Compete à Corregedoria Geral da GCMAPGO, realizar a apuração de infrações disciplinares, mediante processo administrativo disciplinar específico, a ser conduzido por Comissão Especial, determinada pelo seu titular, nos termos legais, e apreciar representações relativas aos servidores da Corporação da Guarda Civil Municipal de Aparecida de Goiânia, procedendo, inclusive, investigações sobre a conduta ética, social e funcional.
@@ -543,7 +558,8 @@ Art. 45. As penalidades aplicadas ao servidor da Corporação que violar as proi
 
 Art. 46. É atribuição da Corregedoria Geral e da Ouvidoria GCMAPGO, cumprir e fazer cumprir o Código de Ética da Guarda Civil Municipal, o Estatuto dos Servidores da Prefeitura e Câmara Municipal de Aparecida de Goiânia e suas alterações posteriores, e demais legislações e normas pertinentes aos servidores da Corporação Guarda Civil Municipal de Aparecida de Goiânia.
 
-CAPÍTULO XVI<br>
+CAPÍTULO XVI
+
 DA REMOÇÃO TEMPORÁRIA E DO AFASTAMENTO PREVENTIVO
 
 Art. 47. O servidor de carreira da Corporação Guarda Civil Municipal de Aparecida de Goiânia que for indiciado pela prática de crime previsto no Código Penal Brasileiro deverá, de imediato, ser removido das atividades operacionais, garantindo-lhe o exercício das atribuições do cargo em funções de natureza administrativa, até a conclusão do Processo Administrativo Disciplinar ou da Ação Penal respectiva.
@@ -562,7 +578,8 @@ Art. 49. A Corregedoria Geral da GCMAPGO, mediante decisão fundamentada ao Secr
 
 Art. 50. A remoção temporária e o afastamento preventivo não implicarão na perda das vantagens e direitos pecuniários decorrentes do cargo e nem terá caráter punitivo, sendo cabível somente quando presentes indícios suficientes de autoria e materialidade da infração.
 
-CAPÍTULO XVII<br>
+CAPÍTULO XVII
+
 DAS RECOMPENSAS E DOS DIREITOS
 
 Art. 51. As recompensas constituem-se formas de reconhecimento aos bons serviços, atos meritórios e trabalhos relevantes prestados por servidor da Corporação da Guarda Municipal Aparecida de Goiânia.
@@ -587,7 +604,8 @@ III - Elogio coletivo deve ressaltar as mesmas qualidades do individual, destina
 
 Art. 53. Aos Servidores da Guarda Civil Municipal serão assegurados todos dos direitos e garantias conforme dispuser a Lei Complementar 003/2001, Estatuto do Servidor Público, em seus Artigos 52, 53, 55 a 132.
 
-CAPÍTULO XVIII<br>
+CAPÍTULO XVIII
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 54. O exercício das funções de Guarda Civil Municipal exige dos integrantes da GCMAPGO, além de outros previstos nesse código:
@@ -622,5 +640,6 @@ Art. 59 Ficam revogadas as disposições contrárias.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 20 de Abril de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

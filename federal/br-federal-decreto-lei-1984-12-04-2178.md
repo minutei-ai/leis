@@ -1,5 +1,3 @@
-###DEL-002178-0-000-04-12-1984@@@
-
 # Decreto-lei nº 2.178, de 04 de dezembro de 1984
 
 Fixa as bases para o soerguimento da Rede Ferroviária Federal S/A - RFFSA, e dá outras providências.

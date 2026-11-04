@@ -1,5 +1,3 @@
-###DEC-092853-0-000-27-06-1986@@@
-
 DECRETO Nº 92.853, DE 27 DE JUNHO DE 1986
 
 Renova a concessão outorgada à RÁDIO JORNAL "A CRÍTICA" LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Manaus, Estado do Amazonas.

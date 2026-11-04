@@ -1,5 +1,3 @@
-###DEL-008302-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.302 – DE 6 DE DEZEMBRO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 15. 000,00, para atender ao pagamento de salarios devidos a Matilde Matarazzo Gargiulo.

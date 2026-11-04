@@ -1,5 +1,3 @@
-###DEC-046626-0-000-14-08-1959@@@
-
 DECRETO Nº 46.626, DE 14 DE AGÔSTO DE 1959.
 
 Outorga ao Estado do Paraná concessão para o aproveitamento de energia hidráulica do Salto Grande, no rio Chopim, distrito de Pato Branco, município do mesmo nome, Estado do Paraná.

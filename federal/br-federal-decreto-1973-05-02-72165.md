@@ -1,5 +1,3 @@
-###DEC-072165-0-000-02-05-1973@@@
-
 DECRETO Nº 72.165, DE 2 DE MAIO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Alegre, Espírito Santo.

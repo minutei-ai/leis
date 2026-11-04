@@ -1,5 +1,3 @@
-###DEL-000013-0-000-18-07-1966@@@
-
 DECRETO-LEI Nº 13, DE 18 DE JULHO DE 1966
 
 Autoriza o Banco Central da República do Brasil a suprir recursos para assistência financeira de emprêsas.

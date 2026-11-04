@@ -1,5 +1,3 @@
-###DEC-082992-0-000-08-01-1979@@@
-
 Decreto nº 82.992, de 08 de janeiro de 1979
 
 Concede à Calcário Bonança Ltda. o direito de lavrar calcário dolomítico no Município de Rio Claro, Estado de São Paulo.

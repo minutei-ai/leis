@@ -1,7 +1,3 @@
-1
-
-###MPV-001303-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.303, DE 9 DE FEVEREIRO DE 1996.
 
 Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro.

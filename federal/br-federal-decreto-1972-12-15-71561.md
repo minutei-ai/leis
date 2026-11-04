@@ -1,5 +1,3 @@
-###DEC-071561-0-000-15-12-1972@@@
-
 DECRETO Nº 71.561 - DE 15 DE DEZEMBRO DE 1972
 
 Abre ao Ministério dos Transportes, em favor da Secretaria-Geral - Entidades Supervisionadas, o crédito suplementar de Cr$ 20.000.000,00, para reforço de dotação no vigente Orçamento.
@@ -10,15 +8,67 @@ decreta:
 
 Art. 1º Fica aberto ao Ministério dos Transportes, em favor da Secretaria-Geral - Entidades Supervisionadas, o crédito suplementar no valor de Cr$20.000.000,00 (vinte milhões de cruzeiros), para reforço de dotação consignada ao subanexo 27.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.00</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DOS TRANSPORTES</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.03</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria-Geral - Entidades Supervisionadas</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2703.1608.1011</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Projetos a Cargo do Departamento Nacional de Portos e Vias Navegáveis</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.3.0</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Auxílios para Obras Públicas .....................................</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">20.000.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+27.00
+
+- MINISTÉRIO DOS TRANSPORTES
+
+27.03
+
+- Secretaria-Geral - Entidades Supervisionadas
+
+2703.1608.1011
+
+- Projetos a Cargo do Departamento Nacional de Portos e Vias Navegáveis
+
+4.3.3.0
+
+- Auxílios para Obras Públicas .....................................
+
+20.000.000
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotação orçamentária consignada ao subanexo 28.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.00</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- ENCARGOS GERAIS DA UNIÃO</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.02</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Recursos sob Supervisão do Ministério do Planejamento e Coordenação Geral</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 2802.1800.2003</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.6.0</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingência ...........................................</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">20.000.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+28.00
+
+- ENCARGOS GERAIS DA UNIÃO
+
+28.02
+
+- Recursos sob Supervisão do Ministério do Planejamento e Coordenação Geral
+
+Atividade
+
+- 2802.1800.2003
+
+3.2.6.0
+
+- Reserva de Contingência ...........................................
+
+20.000.000
 
 Art. 3º O presente crédito, no orçamento próprio do Departamento Nacional de Portos e Vias Navegáveis, obedecerá à seguinte programação:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Suplementando</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67.00</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DOS TRANSPORTES</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67.05</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento Nacional de Portos e Vias Navegáveis.</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6705.1608.1029</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Dragagens para Acesso Marítimo .............................</span></p></td><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">20.000.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+Suplementando
+
+67.00
+
+- MINISTÉRIO DOS TRANSPORTES
+
+67.05
+
+- Departamento Nacional de Portos e Vias Navegáveis.
+
+6705.1608.1029
+
+- Dragagens para Acesso Marítimo .............................
+
+20.000.000
 
 Art. 4º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

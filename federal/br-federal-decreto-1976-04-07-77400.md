@@ -1,5 +1,3 @@
-###DEC-077400-0-000-07-04-1976@@@
-
 Decreto nº 77.400 - de 7 de abril de 1976
 
 Concede autorização à Quimbrasil - Química Industrial Brasileira S.A., sediada em Santo André, Estado de São Paulo, a funcionar, aos domingos e feriados civis e religiosos, no estabelecimento industrial que menciona.

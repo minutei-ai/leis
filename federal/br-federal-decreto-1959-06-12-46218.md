@@ -1,5 +1,3 @@
-###DEC-046218-0-000-12-06-1959@@@
-
 DECRETO N. 46.218 – DE 12 DE JUNHO DE 1959
 
 Concede nacionalização à sociedade Brazilian Hydro Electric Company, Limited, sob a denominação de Companhia Fluminense de Energia Hidrelétrica.

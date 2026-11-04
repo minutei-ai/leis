@@ -1,6 +1,10 @@
 > **LEI Nº 3.300, DE 01 DE NOVEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Plano Permanente de Valorização da Vida, no âmbito do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Plano Permanente de Valorização da Vida, no âmbito do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

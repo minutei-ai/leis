@@ -1,5 +1,3 @@
-###DEL-005255-0-000-17-02-1943@@@
-
 DECRETO‑LEI N. 5.255 – DE 17 DE FEVEREIRO DE 1943
 
 Modifica o art. 85, § 2º, letra a, do Estatuto dos Militares

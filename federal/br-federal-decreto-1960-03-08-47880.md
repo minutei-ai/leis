@@ -1,5 +1,3 @@
-###DEC-047880-0-000-08-03-1960@@@
-
 DECRETO Nº 47.880, DE 08 DE março DE 1960.
 
 Declara de utilidade pública uma área de terra destinada à construção de uma usina termelétrica, da Companhia Fôrça e Luz do Paraná S. A., e autoriza essa Companhia a promover a desapropriação da mesma.

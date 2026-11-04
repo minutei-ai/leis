@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209013)<br>
-
 # DECRETO N° 68.242, DE 22 DE DEZEMBRO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, o imóvel que especifica._

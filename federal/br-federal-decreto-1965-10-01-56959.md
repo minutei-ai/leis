@@ -1,5 +1,3 @@
-###DEC-056959-0-000-01-10-1965@@@
-
 DECRETO Nº 56.959, DE 1º DE OUTUBRO DE 1965.
 
 Declara de utilidade pública para fins de desapropriação, em favor da Petróleo Brasileiro S. A. - Petrobrás, uma área de terra situada em Tramandaí, município de Osório, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-065226-0-000-25-09-1969@@@
-
 DECRETO Nº 65.226, DE 25 DE SETEMBRO DE 1969.
 
 Abre, ao Ministério da Educação e Cultura, em favor da Diretoria do Ensino Superior, o crédito especial de NCr$ 200.00,00 para o fim que específica.
@@ -10,11 +8,63 @@ decretam:
 
 Art. 1º Fica aberto ao Ministério da Educação e Cultura em favor da Diretoria do Ensino Superior, o crédito especial de NCr$ 200.000,00 (duzentos mil cruzeiros novos) para atender às despesas a seguir discriminadas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NCr$</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.05.00</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Ministério da Educacão e Cultura</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.05.20</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Diretoria do Ensino Superior</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08.06.07.2.234</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atendimento de Compromisso Firmado com a Pan American Health Organization (Biblioteca Regional de Medicina) Cota do MEC</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.0.0.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesa Correntes</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.0.0.</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Transferência Correntes</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.1.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Subvencões Sociais........................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000,00</span></p></td></tr></tbody></table>
+NCr$
+
+5.05.00
+
+- Ministério da Educacão e Cultura
+
+5.05.20
+
+- Diretoria do Ensino Superior
+
+08.06.07.2.234
+
+- Atendimento de Compromisso Firmado com a Pan American Health Organization (Biblioteca Regional de Medicina) Cota do MEC
+
+3.0.0.0
+
+- Despesa Correntes
+
+3.2.0.0.
+
+- Transferência Correntes
+
+3.2.1.0
+
+- Subvencões Sociais........................................................................
+
+200.000,00
 
 Art. 2º Os recursos necessários à execução dêste Decreto decorrerão de anulação parcial de dotacões orçamentárias no vigente Orçamento ao subanexo 5.05.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NCr$</span></p></td></tr><tr><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.05.00</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Ministério da Educacão</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.05.20</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Diretoria de Ensino Superior</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08.06.07.1.097</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Auxilios a Estabelecimentos de Ensino Superior para o Atendimento de Compromisso Firmado com o BID</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">1) Universidade de São Paulo</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.0.0.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas de Capital</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.0.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Transferências de Capital</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.3.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Auxílios para Obras Públicas..........................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000,00</span></p></td></tr></tbody></table>
+NCr$
+
+5.05.00
+
+- Ministério da Educacão
+
+5.05.20
+
+- Diretoria de Ensino Superior
+
+08.06.07.1.097
+
+- Auxilios a Estabelecimentos de Ensino Superior para o Atendimento de Compromisso Firmado com o BID  1) Universidade de São Paulo
+
+4.0.0.0
+
+- Despesas de Capital
+
+4.3.0.0
+
+- Transferências de Capital
+
+4.3.3.0
+
+- Auxílios para Obras Públicas..........................................................
+
+200.000,00
 
 Art. 3º Êste Decreto entrará em vigor na data de sua publicação.
 

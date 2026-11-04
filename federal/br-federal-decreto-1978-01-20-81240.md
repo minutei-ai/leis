@@ -1,5 +1,3 @@
-###DEC-081240-0-000-20-01-1978@@@
-
 Decreto nº 81.240, de 20 de janeiro de 1978.
 
 Regulamenta as disposições da Lei nº 6.435, de 15 de julho de 1977, relativas às entidades fechadas de previdência privada.

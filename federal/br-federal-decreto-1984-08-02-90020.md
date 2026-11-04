@@ -1,5 +1,3 @@
-###DEC-090020-0-000-02-08-1984@@@
-
 Decreto nº 90.020, de 02 dE agosto de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias necessárias à implantação da estação transformadora de distribuição Itaquaquecetuba, da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

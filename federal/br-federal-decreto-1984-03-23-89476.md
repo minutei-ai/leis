@@ -1,5 +1,3 @@
-###DEC-089476-0-000-23-03-1984@@@
-
 Decreto nº 89.476, de 23 de março de 1984
 
 Outorga concessão à RÁDIO ALVORADA DE ESTRELA D'OESTE LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Estrela D'Oeste, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-000389-0-000-26-12-1968@@@
-
 DECRETO-LEI Nº 389, DE 26 DE DEZEMbro DE 1968
 
 Dispõe sôbre a verificação judicial de insalubridade e periculosidade e dá outras providências.
@@ -31,8 +29,6 @@ Brasília, 26 de dezembro de 1968; 147º da Independência e 80º da República.
 A. COSTA E SILVA
 
 Jarbas G. Passarinho
-
-###DEL-000389-0-000-26-12-1968@@@REP01+++
 
 DECReTO-Lei Nº 389, DE 26 DE DEZEMbro DE 1968
 

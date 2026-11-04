@@ -1,5 +1,3 @@
-###DEC-060389-0-000-11-03-1967@@@
-
 decreto nº 60.389, de 11 de março de 1967.
 
 Declara caduco o Decreto nº 34.857, de 30 de dezembro de 1953.

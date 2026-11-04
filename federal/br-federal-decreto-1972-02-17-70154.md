@@ -1,5 +1,3 @@
-###DEC-070154-0-000-17-02-1972@@@
-
 DECRETO Nº 70.154, DE 17 DE FEVEREIRO DE 1972.
 
 Classifica os órgãos de deliberação coletiva existente na área do Ministério da Fazenda.

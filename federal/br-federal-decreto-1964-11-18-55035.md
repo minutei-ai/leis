@@ -1,5 +1,3 @@
-###DEC-055035-0-000-18-11-1964@@@
-
 DECRETO Nº 55.035, DE 18 DE NOVEMBRO DE 1964.
 
 Autoriza a Cia. Catarinense de Cimento Portland a pesquisar calcário no Município de Camboriú, Estado de Santa Catarina.

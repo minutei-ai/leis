@@ -1,5 +1,3 @@
-###DEC-074414-0-000-14-08-1974@@@
-
 DECRETO nº 74.414, DE 14 DE AGOSTO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Rádio Carijós Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Conselheiro Lafaiete, Estado de Minas Gerais.

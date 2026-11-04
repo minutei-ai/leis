@@ -1,5 +1,3 @@
-###DEC-086086-0-000-08-06-1981@@@
-
 Decreto nº 86.086, de 08 de junho de 1981.
 
 Declara de utilidade pública para fins de desapropriação a área de terra com benfeitorias, situada na Rua Rui Barbosa nºs 3038 a 3048, em Campo Grande, Estado de Mato Grosso do Sul, destinada à instalação de uma Central Telefônica pela Telecomunicações de Mato Grosso S.A.-TELEMAT.

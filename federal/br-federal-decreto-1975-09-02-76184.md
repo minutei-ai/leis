@@ -1,5 +1,3 @@
-###DEC-076184-0-000-02-09-1975@@@
-
 DECRETO Nº 76.184 - DE 2 DE SETEMBRO DE 1975
 
 Suspende as vedações de aquisição estabelecidas no Decreto nº 74.908, de 19 de novembro de 1974; relativamente a produtos originários de países membros da Associação  Latino-Amercicana  de Livre Comércio - ALALC.

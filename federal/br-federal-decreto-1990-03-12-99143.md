@@ -1,7 +1,3 @@
-1
-
-###DEC-099143-0-000-12-03-1990@@@
-
 DECRETO Nº 99.143, DE 12 DE MARÇO DE 1990
 
 Declara de preservação permanente a vegetação natural das áreas que descreve.

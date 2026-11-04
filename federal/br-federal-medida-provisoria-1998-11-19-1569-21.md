@@ -1,5 +1,3 @@
-###MPV-001569-0-021-19-11-1998@@@
-
 MEDIDA PROVISóRIA Nº 1.569-21, DE 19 DE NOVEMBRO DE 1998.
 
 Estabelece multa em operações de importação e dá outras providências.

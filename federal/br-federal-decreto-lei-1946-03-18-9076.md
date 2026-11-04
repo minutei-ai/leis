@@ -1,5 +1,3 @@
-###DEL-009076-0-000-18-03-1946@@@
-
 DECRETO-LEI N. 9.076 – DE 18 DE MARÇO DE 1946
 
 Restabelece a vigência do artigo 3º do Decreto-lei nº 8.740, de 19 de Janeiro de 1946.

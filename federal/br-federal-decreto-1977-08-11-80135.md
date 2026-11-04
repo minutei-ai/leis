@@ -1,5 +1,3 @@
-###DEC-080135-0-000-11-08-1977@@@
-
 DECRETO Nº 80.135, DE 11 DE AGOSTO DE 1977.
 
 Suspende a execução da Lei nº 7.214, de 13 de novembro de 1968, do Estado de Goiás.

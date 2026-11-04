@@ -1,5 +1,3 @@
-###DEC-004144-0-000-25-02-2002@@@
-
 DECRETO Nº 4.144, DE 25 DE FEVEREIRO DE 2002
 
 Dispõe sobre a execução do Trigésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 29 de agosto de 2001.
@@ -72,4 +70,118 @@ Pelo Governo da República Oriental do Uruguai
 
 Elbio Rosselli Frieri
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">ITEM NCM</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">REQUISITO DE ORIGEM</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">48081000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">48191000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">48192000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">48193000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">61052000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">61069000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">61071900</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">61099000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">61121200</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">61159300</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">62031100</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">62034300</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">62044300</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">62051000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">62052000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">62053000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">62064000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">62111100</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">64021900</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">64022000</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">64029100</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">64029900</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">64035100</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">64035900</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">64039100</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">64039900</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">64041100</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr><tr><td style="width:86.4pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">64041900</span></p></td><td style="width:297.6pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valor agregado regional de 60%</span></p></td></tr></tbody></table>
+ITEM NCM
+
+REQUISITO DE ORIGEM
+
+48081000
+
+Valor agregado regional de 60%
+
+48191000
+
+Valor agregado regional de 60%
+
+48192000
+
+Valor agregado regional de 60%
+
+48193000
+
+Valor agregado regional de 60%
+
+61052000
+
+Valor agregado regional de 60%
+
+61069000
+
+Valor agregado regional de 60%
+
+61071900
+
+Valor agregado regional de 60%
+
+61099000
+
+Valor agregado regional de 60%
+
+61121200
+
+Valor agregado regional de 60%
+
+61159300
+
+Valor agregado regional de 60%
+
+62031100
+
+Valor agregado regional de 60%
+
+62034300
+
+Valor agregado regional de 60%
+
+62044300
+
+Valor agregado regional de 60%
+
+62051000
+
+Valor agregado regional de 60%
+
+62052000
+
+Valor agregado regional de 60%
+
+62053000
+
+Valor agregado regional de 60%
+
+62064000
+
+Valor agregado regional de 60%
+
+62111100
+
+Valor agregado regional de 60%
+
+64021900
+
+Valor agregado regional de 60%
+
+64022000
+
+Valor agregado regional de 60%
+
+64029100
+
+Valor agregado regional de 60%
+
+64029900
+
+Valor agregado regional de 60%
+
+64035100
+
+Valor agregado regional de 60%
+
+64035900
+
+Valor agregado regional de 60%
+
+64039100
+
+Valor agregado regional de 60%
+
+64039900
+
+Valor agregado regional de 60%
+
+64041100
+
+Valor agregado regional de 60%
+
+64041900
+
+Valor agregado regional de 60%

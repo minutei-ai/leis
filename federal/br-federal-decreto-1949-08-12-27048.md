@@ -1,28 +1,26 @@
-###DEC-027048-0-000-12-08-1949@@@
+**DECRETO Nº 27.048, DE 12 DE AGÔSTO DE 1949.**
 
-<strong>DECRETO Nº 27.048, DE 12 DE AGÔSTO DE 1949.</strong>
+***Aprova o regulamento da Lei nº 605, de 5 de janeiro de 1949, que dispõe sôbre o repouso semanal remunerado e o pagamento de salário nos dias feriados civis e religiosos.***
 
-<em><strong>Aprova o regulamento da Lei nº 605, de 5 de janeiro de 1949, que dispõe sôbre o repouso semanal remunerado e o pagamento de salário nos dias feriados civis e religiosos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, e nos têrmos do art. 10, parágrafo único, da Lei nº 605, de 5 de janeiro de 1949,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, e nos têrmos do art. 10, parágrafo único, da Lei nº 605, de 5 de janeiro de 1949,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento que a êste acompanha, assinado pelo Ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, pelo qual reger-se-à a execução da Lei nº 605, de 5 de janeiro de 1949.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento que a êste acompanha, assinado pelo Ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, pelo qual reger-se-à a execução da Lei nº 605, de 5 de janeiro de 1949.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 12 de agôsto de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Honório Monteiro
 
-<strong>REGULAMENTO A QUE SE REFERE O DECRETO Nº 27.048, DE 12 DE AGÔSTO DE 1949</strong>
+**REGULAMENTO A QUE SE REFERE O DECRETO Nº 27.048, DE 12 DE AGÔSTO DE 1949**
 
-<strong>Art</strong>. 1º Todo empregado tem direito a repouso remunerado, num dia de cada semana, perfeitamente aos domingos, nos feriados civis e nos religiosos, de acôrdo com a tradição local, salvo as exceções previstas neste Regulamento.
+**Art**. 1º Todo empregado tem direito a repouso remunerado, num dia de cada semana, perfeitamente aos domingos, nos feriados civis e nos religiosos, de acôrdo com a tradição local, salvo as exceções previstas neste Regulamento.
 
-<strong>Art</strong>. 2º As disposições do presente Regulamento são extensivas:
+**Art**. 2º As disposições do presente Regulamento são extensivas:
 
 a) aos trabalhadores rurais, salvo os que trabalhem em regime de parceria agrícola, meação ou forma semelhante de participação na produção;
 
@@ -30,19 +28,19 @@ b) aos trabalhadores que, sob fôrma autônoma, trabalhem agrupados, por interm�
 
 c) aos trabalhadores das entidades autárquicas, dos serviços industriais da União, dos Estados, dos Municípios e dos Territórios, e das emprêsas por êstes administradas ou incorporadas, desde que não estejam sujeitos ao regime dos funcionários ou extranumerários ou não tenham regime próprio de proteção ao trabalho, que lhes assegure situação análigas à daqueles servidores públicos.
 
-<strong>Art</strong>. 3º O presente regulamento não se aplica:
+**Art**. 3º O presente regulamento não se aplica:
 
 a) aos empregados domésticos, assim considerados os que prestem serviço de natureza não econômica a pessoa ou a família, no âmbito residencial destas;
 
 b) aos funcionários da União dos Estados, dos Municípios e dos Territórios, bem como aos respectivos extranumerários, em serviço nas próprias repartições.
 
-<strong>Art</strong>. 4º O repouso semanal remunerado será de vinte horas consecutivas.
+**Art**. 4º O repouso semanal remunerado será de vinte horas consecutivas.
 
-<strong>Art</strong>. 5º São feriados e como tais obrigam ao repouso remunerado em todo o território nacional, aquêles que a lei determinar.
+**Art**. 5º São feriados e como tais obrigam ao repouso remunerado em todo o território nacional, aquêles que a lei determinar.
 
 Parágrafo único. Será também obrigatório o repouso remunerado nos dias feriados locais, até o máximo de sete, desde que declarados como tais por lei municipal, cabendo à autoridade regional competente em matéria de trabalho expedir os atos necessários à observância do repouso remunerado nesses dias.
 
-<strong>Art</strong>. 6º Executados os casos em que a execução dos serviços for imposta pelas exigências técnicas das emprêsas, é vedado o trabalho nos dias de repouso a que se refere o art. 1º, garantida, entretanto, a remuneração respectiva.
+**Art**. 6º Executados os casos em que a execução dos serviços for imposta pelas exigências técnicas das emprêsas, é vedado o trabalho nos dias de repouso a que se refere o art. 1º, garantida, entretanto, a remuneração respectiva.
 
 § 1º Constituem exigências técnicas, para os efeitos dêste regulamento, aquelas que, em razão do interêsse público, ou pelas condições pecualiares às atividades da emprêsa ou ao local onde as mesmas se exercitarem, tornem indispensável a continuidade do trabalho, em todos ou alguns dos respectivos serviços.
 
@@ -50,21 +48,21 @@ Parágrafo único. Será também obrigatório o repouso remunerado nos dias feri
 
 § 3º Nos serviços em que fôr permitido o trabalho nos feriados civis e religiosos, a remuneração dos empregados que trabalharem nesses dias será paga em dôbro, salvo a emprêsa determinar outro dia de folga.
 
-<strong>Art</strong>. 7º É concedida, em caráter permanente e de acôrdo com o disposto no § 1º do art. 6º, permissão para o trabalho nos dias de repouso a que se refere o art. 1º, nas atividades constantes da relação anexa ao presente regulamento.
+**Art**. 7º É concedida, em caráter permanente e de acôrdo com o disposto no § 1º do art. 6º, permissão para o trabalho nos dias de repouso a que se refere o art. 1º, nas atividades constantes da relação anexa ao presente regulamento.
 
 § 1º Os pedidos de permissão para quaisquer outras atividades, que se enquadrem no § 1º do art. 6º, serão apresentados às autoridades regionais referidas no art. 16, que os encaminharão ao Ministro do Trabalho, Indústria e Comércio, devidamente informados.
 
 § 2º A permissão dar-se-á por decreto ao Poder Executivo.
 
-<strong>Art</strong>. 8º Fora dos casos previstos no artigo anterior admitir-se-á excepcionalmente, o trabalho em dia de repouso:
+**Art**. 8º Fora dos casos previstos no artigo anterior admitir-se-á excepcionalmente, o trabalho em dia de repouso:
 
 a) quando ocorrer motivo de fôrça maior, cumprindo à emprêsa justificar a ocorrência perante a autoridade regional a que se refere o art. 15, no prazo de 10 dias;
 
 b) quando, para atender à realização ou conclusão de serviços inadiáveis ou cuja inexecução possa acarretar prejuízo manifesto, a emprêsa obtiver da autoridade regional referida no art. 15 autorização prévia, com discriminação do período autorizado, o qual, de cada vez, não excederá de 60 dias, cabendo neste caso a remuneração em dôbro, na forma e com a ressalva constante do artigo 6º, § 3º.
 
-<strong>Art</strong>. 9º Nos dias de repouso, em que fôr permitido o trabalho, é vedada às emprêsas a execução de serviços que não se enquadrem nos motivos determinantes da permissão.
+**Art**. 9º Nos dias de repouso, em que fôr permitido o trabalho, é vedada às emprêsas a execução de serviços que não se enquadrem nos motivos determinantes da permissão.
 
-<strong>Art</strong>. 10. A remuneração dos dias de repouso obrigatório, tanto o do repouso obrigatório, tanto o do repouso semanal como aquêles correspondentes aos feriados, integrará o salário para todos os efeitos legais e com êle deverá ser paga.
+**Art**. 10. A remuneração dos dias de repouso obrigatório, tanto o do repouso obrigatório, tanto o do repouso semanal como aquêles correspondentes aos feriados, integrará o salário para todos os efeitos legais e com êle deverá ser paga.
 
 § 1º A remuneração do dia de repouso corresponderá, qualquer que seja a forma de pagamento do salário:
 
@@ -74,9 +72,9 @@ b) para os contratados por tarefa ou peça, ao equivalente ao salário correspon
 
 c) para os trabalhadores rurais, que trabalham por tarefa pré-determinada, ao cociente da divisão do salário convencionado pelo número de dias fixado para a respectiva execução.
 
-§ 2º A remuneração prevista na alínea <em>a</em> será devida aos empregados contratados por mês ou quinzena, cujo cálculo de salário mensal ou quinzenal, ou cujos descontos por faltas ao serviço sejam efetuados em base inferior a trinta (30) ou quinze (15) dias  respectivamente.
+§ 2º A remuneração prevista na alínea *a* será devida aos empregados contratados por mês ou quinzena, cujo cálculo de salário mensal ou quinzenal, ou cujos descontos por faltas ao serviço sejam efetuados em base inferior a trinta (30) ou quinze (15) dias  respectivamente.
 
-<strong>Art</strong>. 11. Perderá a remuneração do dia de repouso o trabalhador que, sem motivo justificado ou em virtude de punição disciplinar, não tiver trabalhado durante tôda a semana, cumprindo integralmente o seu horário de trabalho.
+**Art**. 11. Perderá a remuneração do dia de repouso o trabalhador que, sem motivo justificado ou em virtude de punição disciplinar, não tiver trabalhado durante tôda a semana, cumprindo integralmente o seu horário de trabalho.
 
 § 1º Nas emprêsas em que vigorar regime de trabalho reduzido, a freqüência exigida corresponderá ao número de dias em que houver trabalho.
 
@@ -86,7 +84,7 @@ c) para os trabalhadores rurais, que trabalham por tarefa pré-determinada, ao c
 
 § 4º Para os efeitos do pagamento da remuneração, entende-se como semana o período da segunda-feira a domingo, anterior à semana em que recair o dia de repouso definido no art. 1º.
 
-<strong>Art</strong>. 12. Constituem motivos justificados:
+**Art**. 12. Constituem motivos justificados:
 
 a) os previstos no art. 473, e seu parágrafo da Consolidação das Leis do Trabalho;
 
@@ -106,21 +104,21 @@ f) a doença do empregado devidamente comprovada, até 15 dias, caso em que a re
 
 § 3º As entradas no serviço, verificadas com atraso, em decorrência de acidentes de transportes, quando devidamente comprovados mediante atestado da emprêsa concessionária, não acarretarão, para o trabalhador, a aplicação do disposto no art. 11.
 
-<strong>Art</strong>. 13. Para os efeitos da legislação do trabalho e das contribuições e benefícios da previdência social, passará a ser calculado na base de trinta dias ou duzentos e quarenta horas o mês que anteriormente, o era na base de vinte e cinco dias ou duzentas horas.
+**Art**. 13. Para os efeitos da legislação do trabalho e das contribuições e benefícios da previdência social, passará a ser calculado na base de trinta dias ou duzentos e quarenta horas o mês que anteriormente, o era na base de vinte e cinco dias ou duzentas horas.
 
-<strong>Art</strong>. 14. As infrações ao disposto na Lei nº 605, de 5 de janeiro de 1949, ou neste Regulamento, serão punidas, segundo o caráter e a gravidade, com a multa de cem a cinco mil cruzeiros.
+**Art**. 14. As infrações ao disposto na Lei nº 605, de 5 de janeiro de 1949, ou neste Regulamento, serão punidas, segundo o caráter e a gravidade, com a multa de cem a cinco mil cruzeiros.
 
-<strong>Art</strong>. 15. São originalmente competentes para a imposição das multas de que trata êste Regulamento as autoridades regionais do trabalho: no Distrito Federal, o Diretor da Divisão de Fiscalização do Departamento Nacional do Trabalho; nos Estados, os Delegados Regionais do Trabalho; e, nos Estados onde houver delegação de atribuições a autoridade delegada.
+**Art**. 15. São originalmente competentes para a imposição das multas de que trata êste Regulamento as autoridades regionais do trabalho: no Distrito Federal, o Diretor da Divisão de Fiscalização do Departamento Nacional do Trabalho; nos Estados, os Delegados Regionais do Trabalho; e, nos Estados onde houver delegação de atribuições a autoridade delegada.
 
-<strong>Art</strong>. 16. A fiscalização da execução do presente Regulamento, bem como o processo de atuação de seus infratores, reger-se-ão pelo disposto no Título VII da Consolidação das Leis do Trabalho.
+**Art**. 16. A fiscalização da execução do presente Regulamento, bem como o processo de atuação de seus infratores, reger-se-ão pelo disposto no Título VII da Consolidação das Leis do Trabalho.
 
-<strong>Art</strong>. 17. O presente Regulamento entrará em vigor na data de sua publicação.
+**Art**. 17. O presente Regulamento entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, 12 de agôsto de 1949.
 
-<strong>HONÓRIO MONTEIRO</strong>
+**HONÓRIO MONTEIRO**
 
-<strong>RELAÇÃO A QUE SE REFERE O ARTIGO 7º</strong>
+**RELAÇÃO A QUE SE REFERE O ARTIGO 7º**
 
 I - INDÚSTRIA
 

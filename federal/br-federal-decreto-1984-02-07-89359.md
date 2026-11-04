@@ -1,5 +1,3 @@
-###DEC-089359-0-000-07-02-1984@@@
-
 Decreto nº 89.359, de 07 de fevereiro de 1984
 
 Autoriza o funcionamento de habilitação do curso de Estudos Sociais da Fundação Educacional de Santa Catarina.

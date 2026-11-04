@@ -1,5 +1,3 @@
-###DEC-049681-0-000-31-12-1960@@@
-
 DECRETO Nº 49.681, DE 31 DE DEZEMBRO DE 1960.
 
 Outorga à Prefeitura Municipal de Balsas, Estado do Maranhão, concessão para distribuir energia elétrica.

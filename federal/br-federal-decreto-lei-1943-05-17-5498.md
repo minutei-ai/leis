@@ -1,5 +1,3 @@
-###DEL-005498-0-000-17-05-1943@@@
-
 DECRETO‑LEI N. 5.498 – DE 17 DE MAIO DE 1943
 
 Cria o 7º Batalhão de Engenhos, com sede em Recife

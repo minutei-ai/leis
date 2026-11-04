@@ -1,5 +1,3 @@
-###DEC-055157-0-000-04-12-1964@@@
-
 Decreto nº 55.157, de 4 de dezembro de 1964.
 
 Autoriza Minerium do Brasil Indústria e Comércio Ltda., a pesquisar gipsita no município de Ipubi, Estado de Pernambuco.

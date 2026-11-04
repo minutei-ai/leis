@@ -1,5 +1,3 @@
-###MPV-002052-0-005-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.052-5, DE 23 DE novembro dE 2000.
 
 Regulamenta o inciso II do § 1º e o § 4º do art. 225 da Constituição, os arts. 1º, 8º, alínea “j”, 10, alínea “c”, 15 e 16, alíneas 3 e 4 da Convenção sobre Diversidade Biológica, dispõe sobre o acesso ao patrimônio genético, a proteção e o acesso ao conhecimento tradicional associado, a repartição de benefícios e o acesso à tecnologia e a transferência de tecnologia para sua conservação e utilização, e dá outras providências.

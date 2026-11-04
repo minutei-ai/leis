@@ -1,5 +1,3 @@
-###DEC-076569-0-000-07-11-1975@@@
-
 DECREtO Nº 76.569, DE 7 DE NOVEMBRO DE 1975
 
 Fixa o fator de reajustamento salarial relativo a novembro de 1975.

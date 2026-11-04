@@ -1,5 +1,3 @@
-###DEL-004842-0-000-17-10-1942@@@
-
 DECRETO-LEI N. 4.842 – DE 17 DE OUTUBRO DE 1942
 
 Autoriza a circulação de cédulas de Cr$ 5, e dá outras providências

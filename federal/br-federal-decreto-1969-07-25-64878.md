@@ -1,5 +1,3 @@
-###DEC-064878-0-000-25-07-1969@@@
-
 DECRETO Nº 64.878 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 23.532 de 18 de agôsto de 1947.

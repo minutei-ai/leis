@@ -1,5 +1,3 @@
-###DEL-008341-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.341 – DE 10 DE DEZEMBRO DE 1945
 
 Modifica dispositivos do decreto-lei nº 6.922, de 4 de outubro de 1944, e dá outras providências.

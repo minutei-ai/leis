@@ -1,5 +1,3 @@
-###DEC-005904-0-000-21-09-2006@@@
-
 DECRETO Nº 5.904, DE 21 DE SETEMBRO DE 2006.
 
 Regulamenta a Lei no 11.126, de 27 de junho de 2005, que dispõe sobre o direito da pessoa com deficiência visual de ingressar e permanecer em ambientes de uso coletivo acompanhada de cão-guia e dá outras providências.
@@ -127,5 +125,3 @@ Brasília, 21de setembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Erenice Guerra
-
-Este texto não substitui o publicado no D.O.U. de 22.9.2006.

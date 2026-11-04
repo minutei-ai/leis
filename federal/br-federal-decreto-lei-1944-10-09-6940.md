@@ -1,5 +1,3 @@
-###DEL-006940-0-000-09-10-1944@@@
-
 DECRETO-LEI N  6.940 – DE 9 DE OUTUBRO DE 1944
 
 Isenta as viaturas automóveis – tipo militar, pertencentes ao Exército, do emplacamento municipal

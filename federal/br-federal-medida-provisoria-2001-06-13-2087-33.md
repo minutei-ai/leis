@@ -1,5 +1,3 @@
-###MPV-002087-0-033-13-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.087‑33, DE 13 DE JUNHO DE 2001
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

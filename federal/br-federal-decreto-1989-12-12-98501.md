@@ -1,5 +1,3 @@
-###DEC-098501-0-000-12-12-1989@@@
-
 DECRETO Nº 98.501, DE 12 DE DEZEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “GLEBA GRANJA”, situado no Município de Comodoro, Estado de Mato Grosso, e dá outras providências.

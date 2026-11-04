@@ -1,7 +1,3 @@
-1
-
-###DEC-098942-0-000-12-02-1990@@@
-
 DECRETO Nº 98.942, DE 12 DE FEVEREIRO DE 1990
 
 Dispõe sobre a coordenação das atividades de proteção a saúde pública e ao meio ambiente, em razão do uso da mistura alcool-metanol-gasolina, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074520-0-000-09-09-1974@@@
-
 DECRETO Nº 74.520, DE 9 DE SETEMBRO DE 1974.
 
 Autoriza o funcionamento das Faculdades de Direito, de Administração e Ciências Contábeis, de Filosofia, Ciências e Letras e do Instituto de Psicologia de Maceió, mantidos pela Prefeitura Municipal de Maceió, Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-055286-0-000-24-12-1964@@@
-
 DECRETO Nº 55.286, DE 24 DE DEZEMBRO DE 1964.
 
 Estabelece as normas gerais para a regulamentação da Lei nº 4.504 de 30 de novembro de 1964 e dá outras providências.
@@ -89,8 +87,6 @@ H. Castello Branco
 Hugo de Almeida Leme
 
 Roberto de Oliveira Campos
-
-###DEC-055286-0-000-24\-12-1964@@@RET01+++
 
 decreto nº 55.286, de 24 de dezembro de 1964.
 

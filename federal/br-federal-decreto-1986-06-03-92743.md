@@ -1,5 +1,3 @@
-###DEC-092743-0-000-03-06-1986@@@ 
-
 DECRETO Nº 92.743, DE 3 DE JUNHO DE 1986
 
 Prorroga o prazo a que se refere o art. 3º do Decreto nº 92.560, de 16 de abril de 1986.

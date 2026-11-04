@@ -1,5 +1,3 @@
-###DEC-080040-0-000-28-07-1977@@@
-
 DECRETO Nº 80.040, DE 28 DE JULHO DE 1977
 
 Concede à Pavam Ltda. o direito de lavrar argila no Município de Várzea da Palma, Estado de Minas Gerais.

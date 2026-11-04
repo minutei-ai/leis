@@ -1,5 +1,3 @@
-###DEC-072855-0-000-27-09-1973@@@
-
 DECRETO Nº 72.855, DE 27 DE SETEMBRO DE 1973.
 
 Concede a Maria da Glória Villaça Machado, firma individual, o direito de lavrar agalmatolito, no Município de Mateus Leme, Estado de Minas Gerais.

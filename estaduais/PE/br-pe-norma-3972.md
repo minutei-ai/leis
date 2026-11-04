@@ -64,36 +64,20 @@ THIAGO ARRAES DE ALENCAR NORÕES
 
 **PARTICIPANTES DA PÓS-GRADUAÇÃO _STRICTO SENSU_, DA FUNDAÇÃO UNIVERSIDADE DE PERNAMBUCO – UPE.**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">TÍTULO DA GRATIFICAÇÃO</span></p></td><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SÍMBOLO</span></p></td><td width="205" valign="top" style="width:153.55pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR NOMINAL DA GRATIFICAÇÃO</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Coordenador de Pós-Graduação <i>stricto sensu</i></span></p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PPG- 1</span></p></td><td width="205" valign="top" style="width:153.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$ 1.500,00</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td></tr><tr><td width="205" valign="top" style="width:153.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Membro da Pós-Graduação <i>stricto sensu</i></span></p></td><td width="205" valign="top" style="width:153.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PPG-2</span></p></td><td width="205" valign="top" style="width:153.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$ 1.100,00</span></p></td></tr></tbody></table>
+TÍTULO DA GRATIFICAÇÃO
+
+SÍMBOLO
+
+VALOR NOMINAL DA GRATIFICAÇÃO
+
+Coordenador de Pós-Graduação *stricto sensu*
+
+PPG- 1
+
+R$ 1.500,00
+
+Membro da Pós-Graduação *stricto sensu*
+
+PPG-2
+
+R$ 1.100,00

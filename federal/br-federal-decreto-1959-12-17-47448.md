@@ -1,5 +1,3 @@
-###DEC-047448-0-000-17-12-1959@@@
-
 DECRETO Nº 47.448, DE 17 DE DEZEMBRO DE 1959.
 
 Retifica a redação do artigo 1º do Decreto nº 47.208, de 9 de novembro de 1959.

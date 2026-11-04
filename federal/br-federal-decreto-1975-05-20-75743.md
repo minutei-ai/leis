@@ -1,5 +1,3 @@
-###DEC-075743-0-000-20-05-1975@@@
-
 DECRETO Nº 75.743, DE 20 DE MAIO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, sem benfeitorias, situado na Cidade de Vitória, Estado do Espírito Santo, destinado à instalação de uma estação costeira de uma repetidora de telecomunicações, e serviços afins, pela Empresa Brasileira de Telecomunicações - EMBRATEL.

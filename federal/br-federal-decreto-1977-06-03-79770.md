@@ -1,5 +1,3 @@
-###DEC-079770-0-000-03-06-1977@@@
-
 DECRETO Nº 79.770, DE 3 DE JUNHO DE 1977.
 
 Aprova o Regulamento para o Corpo de Praça do Corpo de Fuzileiros Navais.

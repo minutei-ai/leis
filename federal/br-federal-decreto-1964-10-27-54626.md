@@ -1,5 +1,3 @@
-###DEC-054626-0-000-27-10-1964@@@
-
 decreto nº 54.626, de 27 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Edmundo Henrique Soares e Silva a pesquisar minério de ouro no município de Dianópolis, Estado de Goiás.

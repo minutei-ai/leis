@@ -1,5 +1,3 @@
-###MPV-001637-0-009-24-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.637-9, DE 24 DE SETEMBRO DE 1998
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077141-0-000-12-02-1976@@@
-
 DECRETO Nº 77.141, DE 12 DE FEVEREIRO DE 1976.
 
 Autoriza o funcionamento dos cursos de Enfermagem e de Serviço Social da Escola Superior de Ciências da Saúde e Promoção Social, da Fundação Educacional do Sul de Santa Catarina, com sede na cidade de Tubarão, Estado de Santa Catarina.

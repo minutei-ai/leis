@@ -1,7 +1,3 @@
-1
-
-###DEC-097894-0-000-30-06-1989@@@
-
 DECRETO N° 97.894, DE 30 DE JUNHO DE 1989
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados, das Faculdades Integradas Castelo Branco.

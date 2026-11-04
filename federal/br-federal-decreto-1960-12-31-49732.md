@@ -1,5 +1,3 @@
-###DEC-049732-0-000-31-12-1960@@@
-
 DECRETO Nº 49.732, DE 31 DE DEZEMBRO DE-1960.
 
 Outorga ao Estado da Bahia concessão para distribuir energia elétrica.

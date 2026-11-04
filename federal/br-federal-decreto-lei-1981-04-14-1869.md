@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d7ae6f2e-9c63-440e-987a-48180526a611/texto#nowhere)
 
-###DEL-001869-0-000-14-04-1981@@@
-
 # DECRETO-LEI Nº 1.869, DE14 DE ABRIL DE 1981.
 
 Dispõe sobre a isenção de impostos e taxas nas importações realizadas pela Indústria de Material Bélico do Brasil - IMBEL.

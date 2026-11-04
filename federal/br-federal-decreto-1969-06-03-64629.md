@@ -1,5 +1,3 @@
-###DEC-064629-0-000-03-06-1969@@@
-
 decreto nº 64.629, de 3 de junho de 1969.
 
 Extingue a Comissão de Construção da Base Naval de Aratu, criada pelo Decreto nº 59.318, de 28 de setembro de 1966.

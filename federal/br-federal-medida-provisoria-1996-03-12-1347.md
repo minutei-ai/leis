@@ -1,7 +1,3 @@
-1
-
-###MPV-001347-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.347, DE 12 DE MARÇO DE 1996.
 
 Altera a redação de dispositivos das Leis nºs 8.112, de 11 de dezembro de 1990, e 8.911, de 11 de julho de 1994, para instituir os Décimos Incorporados, e dá outras providências.

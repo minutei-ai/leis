@@ -1,5 +1,3 @@
-###MPV-002016-0-000-04-01-2000@@@
-
 medida provisória Nº 2.016-0, de 4 de janeiro de 2000.
 
 Abre ao Orçamento Fiscal da União, em favor do Ministério da Integração Nacional, crédito extraordinário no valor de R$5.000.000,00, para os fins que especifica.

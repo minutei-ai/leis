@@ -1,5 +1,3 @@
-###DEC-088092-0-000-09-02-1983@@@
-
 # Decreto nº 88.092, de 09 de fevereiro de 1983.
 
 Dispõe sobre o procedimento a ser adotado no Registro de Imóveis, relativamente às propriedades da LIGHT - Serviços de Eletricidade  S.A. alienadas à ELETROPAULO - Eletricidade de São Paulo S.A.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/64dc12cd-f1ff-4b28-89ee-d88745161d00/texto#nowhere)
 
-###DEL-001889-0-000-12-11-1981@@@
-
 # Decreto-lEi nº 1.889, de 12 de novembro de 1981
 
 Cancela débitos para com as autarquias federais e dá outras providências.

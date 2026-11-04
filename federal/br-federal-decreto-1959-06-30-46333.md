@@ -1,5 +1,3 @@
-###DEC-046333-0-000-30-06-1959@@@
-
 DECRETO Nº 46.333, DE 29 DE JUNHO DE 1959.
 
 Autoriza o cidadão brasileiro Mário Gonçalves de Medeiros a pesquisar cassiterita no município de Acari, Estado do Rio Grande do Norte.

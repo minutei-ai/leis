@@ -1,5 +1,3 @@
-###DEC-006975-0-000-07-10-2009@@@
-
 DECRETO Nº 6.975, DE 7 DE OUTUBRO DE 2009.
 
 Promulga o Acordo sobre Residência para Nacionais dos Estados Partes do Mercado Comum do Sul - Mercosul, Bolívia e Chile, assinado por ocasião da XXIII Reunião do Conselho do Mercado Comum, realizada em Brasília nos dias 5 e 6 de dezembro de 2002.

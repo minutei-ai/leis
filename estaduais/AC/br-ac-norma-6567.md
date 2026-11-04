@@ -1,6 +1,10 @@
 > **LEI Nº 4.647, DE 22 DE SETEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o Treinamento aos profissionais da segurança pública para estabelecer a escuta especializada em depoimento de crianças e adolescentes.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o Treinamento aos profissionais da segurança pública para estabelecer a escuta especializada em depoimento de crianças e adolescentes.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

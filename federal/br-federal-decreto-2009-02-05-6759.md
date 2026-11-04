@@ -1,5 +1,3 @@
-###DEC-006759-0-000-05-02-2009@@@
-
 DECRETO Nº 6.759, DE 5 DE FEVEREIRO DE 2009.
 
 Regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.

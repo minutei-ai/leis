@@ -1,5 +1,3 @@
-###DEL-005941-0-000-28-10-1943@@@
-
 DECRETO‑LEI N. 5.941 – DE 28 DE OUTUBRO DE 1943
 
 Cria a Colônia Agrícola Nacional "Dourados", no Território Federal de Ponta Porã, e dá outras providências

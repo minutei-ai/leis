@@ -1,5 +1,3 @@
-###DEC-071740-0-000-23-01-1973@@@
-
 DECRETO Nº 71.740, DE 23 DE JANEIRO DE 1973.
 
 Declara sem efeito o Decreto número 53.283, de 16 de dezembro de 1963.

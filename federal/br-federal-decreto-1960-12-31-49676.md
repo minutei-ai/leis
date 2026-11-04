@@ -1,5 +1,3 @@
-###DEC-049676-0-000-31-12-1960@@@
-
 DECRETO Nº 49.676, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro José Maria Monteiro de Barros a pesquisar minérios de ferro e manganês, no município de Itabirito, Estado de Minas Gerais.

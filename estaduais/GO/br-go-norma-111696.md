@@ -16,10 +16,48 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1880-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELO TCMGO</td><td style=" width:85px;    ">09 272 0200 7205</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 126.058,25</td><td style=" width:85px;    ">R$ 5.748.545,85</td><td style=" width:85px;    ">R$ 5.874.604,10</td></tr></tbody></table>
+**1880-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 5.748.545,85</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 5.748.545,85</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELO TCMGO
+
+09 272 0200 7205
+
+25000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 126.058,25
+
+R$ 5.748.545,85
+
+R$ 5.874.604,10
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 5.748.545,85
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 5.748.545,85

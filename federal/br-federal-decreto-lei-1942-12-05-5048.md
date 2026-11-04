@@ -1,5 +1,3 @@
-###DEL-005048-0-000-05-12-1942@@@
-
 DECRETO-LEI N. 5.048 – DE 5 DE DEZEMBrO DE 1942
 
 Dispõe sobre os proveitos da reforma, par invalidez, do Pessoal ,Subalterno da Armada

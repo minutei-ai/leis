@@ -16,24 +16,54 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 582.473,56</td><td style=" width:85px;    ">R$ 119.377,05</td><td style=" width:85px;    ">R$ 701.850,61</td></tr><tr><td style=" width:85px;    ">CONTRIBUIÇÕES AO PASEP</td><td style=" width:85px;    ">28 846 0100 7102</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 600.000,00</td><td style=" width:85px;    ">R$ 600.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td>06 181 1051 2352</td><td>17530161</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 582.473,56</td><td>R$ 119.377,05</td><td>R$ 701.850,61</td></tr><tr><td>CONTRIBUIÇÕES AO PASEP</td><td>28 846 0100 7102</td><td>17530161</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 600.000,00</td><td>R$ 600.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>1880-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELOS REGIMES PRÓPRIOS DE PREVIDÊNCIA</td><td style=" width:85px;    ">09 272 0200 7203</td><td style=" width:85px;    ">18020330</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 53.000.000,00</td><td style=" width:85px;    ">R$ 53.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**1880-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELOS REGIMES PRÓPRIOS DE PREVIDÊNCIA</td><td>09 272 0200 7203</td><td>18020330</td><td>90</td><td>1 - PESSOAL E ENCARGOS SOCIAIS</td><td>R$ 0,00</td><td>R$ 53.000.000,00</td><td>R$ 53.000.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;  height:19px;   ">R$ 719.377,05</td></tr><tr><td style=" width:340px;    ">18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO</td><td style=" width:340px;    ">R$ 53.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 53.719.377,05</td></tr></tbody></table>
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 719.377,05
+
+18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO
+
+R$ 53.000.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 53.719.377,05
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.805.863,87</td><td style=" width:85px;    ">R$ 119.377,05</td><td style=" width:85px;    ">R$ 119.377,05</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.686.486,82</td><td style=" width:85px;    ">R$ 600.000,00</td><td style=" width:85px;    ">R$ 600.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td>06 122 4200 4243</td><td>17530161</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 2.805.863,87</td><td>R$ 119.377,05</td><td>R$ 119.377,05</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td>06 122 4200 4243</td><td>17530161</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 2.686.486,82</td><td>R$ 600.000,00</td><td>R$ 600.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>1862-GOIÁS PREVIDÊNCIA – GOIASPREV</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">RESERVA DE CONTINGÊNCIA</td><td style=" width:85px;    ">99 999 9999 9000</td><td style=" width:85px;    ">18020330</td><td style=" width:85px;    ">99</td><td style=" width:85px;    ">9 - RESERVA DE CONTINGÊNCIA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 53.000.000,00</td><td style=" width:85px;    ">R$ 53.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**1862-GOIÁS PREVIDÊNCIA – GOIASPREV**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>RESERVA DE CONTINGÊNCIA</td><td>99 999 9999 9000</td><td>18020330</td><td>99</td><td>9 - RESERVA DE CONTINGÊNCIA</td><td>R$ 0,00</td><td>R$ 53.000.000,00</td><td>R$ 53.000.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;  height:19px;   ">R$ 719.377,05</td></tr><tr><td style=" width:340px;    ">18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO</td><td style=" width:340px;    ">R$ 53.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 53.719.377,05</td></tr></tbody></table>
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+R$ 719.377,05
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;  height:19px;   ">R$ 719.377,05</td></tr><tr><td style=" width:340px;    ">18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO</td><td style=" width:340px;    ">R$ 53.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 53.719.377,05</td></tr></tbody></table>
+18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO
+
+R$ 53.000.000,00
+
+**TOTAL**
+
+R$ 53.719.377,05
+
+**TOTAL POR FONTE**
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 719.377,05
+
+18020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO
+
+R$ 53.000.000,00
+
+**TOTAL**
+
+R$ 53.719.377,05

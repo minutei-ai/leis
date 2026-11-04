@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59871)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2006/compilacao-lei-12192-06.01.2006.html)
 
 # LEI Nº 12.192, DE 06 DE JANEIRO DE 2006

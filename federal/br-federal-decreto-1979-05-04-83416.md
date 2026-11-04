@@ -1,5 +1,3 @@
-###DEC-083416-0-000-04-05-1979@@@
-
 Decreto nº 83.416, de 04 de maio de 1979.
 
 Outorga à Companhia Industrial Itaunense concessão para os aproveitamentos da energia hidráulica dos trechos da Cachoeira do Engenho e da Cachoeira do Caixão, do rio São João, Estado de Minas Gerais, para uso exclusivo.

@@ -1,5 +1,3 @@
-###DEL-003975-0-000-26-12-1941@@@
-
 DECRETO-LEI N. 3.975 – DE 26 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito especial de réis 2:880$0, para liquidação de despesas efetuadas com a embaixada de estudantes de Porto Alegre.

@@ -1,5 +1,3 @@
-###DEC-056943-0-000-01-10-1965@@@
-
 DECRETO Nº 56.943, de 1º de outubro de 1965.
 
 Renova o decreto nº 2.142, de 22 de janeiro de 1963.

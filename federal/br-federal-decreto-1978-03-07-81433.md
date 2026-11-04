@@ -1,5 +1,3 @@
-###DEC-081433-0-000-07-03-1978@@@
-
 Decreto nº 81.433, de 07 de março 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Caxias, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-072979-0-000-19-10-1973@@@
-
 DECRETO Nº 72.979, DE 19 DE OUTUBRO DE 1973.
 
 Aproveita no Quadro Único de Pessoal da Universidade Federal da Bahia, servidor em disponibilidade, e dá outras providências.

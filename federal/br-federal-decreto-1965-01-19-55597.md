@@ -1,5 +1,3 @@
-###DEC-055597-0-000-19-01-1965@@@
-
 decreto nº 55.597, de 19 de janeiro de 1965.
 
 Dispõe sôbre a intervenção no Estado de Goiás.

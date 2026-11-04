@@ -1,5 +1,3 @@
-###DEC-047726-0-000-29-01-1960@@@
-
 DECRETO Nº 47.726, DE 29 DE JANEIRO DE 1960.
 
 Autoriza a cidadã brasileira Maria Margarida Fonseca Gianneti a lavrar mármore no município de Itabirito, Estado de Minas Gerais.

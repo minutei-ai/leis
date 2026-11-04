@@ -1,5 +1,3 @@
-###DEC-003958-0-000-09-10-2001@@@
-
 DECRETO Nº 3.958, DE 9 DE OUTUBRO DE 2001
 
 Declara a caducidade da permissão outorgada à empresa Mantiqueira Armazéns Gerais Ltda. para a prestação de serviços públicos de movimentação e armazenagem de mercadorias na Estação Aduaneira Interior - EADI na cidade de Poços de Caldas, Estado de Minas Gerais, e dá outras providências.

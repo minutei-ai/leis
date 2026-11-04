@@ -1,5 +1,3 @@
-###DEL-009400-0-000-21-06-1946@@@
-
 DECRETO-LEI N. 9.400 – DE 21 DE JUNHO DE 1946
 
 Dispõe sôbre a concessão de auxílio para funeral à família dos extranumerários da União.

@@ -1,5 +1,3 @@
-###DEC-073605-0-000-08-02-1974@@@
-
 DECRETO Nº 73.605, DE 8 DE FEVEREIRO DE 1974.
 
 Dispões sobre a criação do Ministério do Exército, de Órgão Autônomos e dá outras providências.

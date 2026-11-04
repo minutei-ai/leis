@@ -1,5 +1,3 @@
-###DEC-082740-0-000-29-11-1978@@@
-
 DECRETO Nº 82.740, DE 29 DE NOVEMBRO DE 1978.
 
 Suspende, em parte, a execução do artigo 26 da Constituição do Estado de São Paulo.

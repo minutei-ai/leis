@@ -1,5 +1,3 @@
-###DEC-050074-0-000-25-01-1961@@@
-
 DECRETO Nº 50.074, DE 25 DE JANEIRO DE 1961.
 
 Retifica o art. 1º do decreto nº 45.254 de 15 de janeiro de 1959.

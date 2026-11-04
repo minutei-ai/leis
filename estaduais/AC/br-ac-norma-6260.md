@@ -1,6 +1,10 @@
 > **LEI Nº 4.501, DE 16 DE DEZEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria o Conselho Estadual dos Direitos das Pessoas com Deficiência do Acre - CONEDE/AC, institui o Plano Estadual Intersetorial para Promoção e Garantia dos Direitos das Pessoas com Deficiência e revoga a Lei nº 2.018, de 11 de agosto de 2008.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria o Conselho Estadual dos Direitos das Pessoas com Deficiência do Acre - CONEDE/AC, institui o Plano Estadual Intersetorial para Promoção e Garantia dos Direitos das Pessoas com Deficiência e revoga a Lei nº 2.018, de 11 de agosto de 2008.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

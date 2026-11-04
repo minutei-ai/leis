@@ -1,5 +1,3 @@
-###DEC-060552-0-000-07-04-1967@@@
-
 DECRETO Nº 60.552, DE 7 DE ABRIL DE 1967.
 
 Autoriza a cessão, sob o regime de aforamento, de terras de propriedades da União Federal, localizadas em Jacuacanga, Município de Angra dos Reis, Estado do Rio de Janeiro, e altera as disposições do Decreto nº 2.058, de 16 de janeiro de 1963, publicados no Diário Oficial de 21 do mesmo mês.

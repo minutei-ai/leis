@@ -1,5 +1,3 @@
-###DEC-082287-0-000-19-09-1978@@@
-
 Decreto nº 82.287, de 19 de setembro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias necessárias a ampliação da subestação de Farroupilha, da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado do Rio Grande do Sul.

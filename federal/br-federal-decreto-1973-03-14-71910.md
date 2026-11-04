@@ -1,5 +1,3 @@
-###DEC-071910-0-000-14-03-1973@@@
-
 DECRETO Nº 71.910, DE 14 DE MARÇO DE 1973.
 
 Concede à Kehrle Mineração Ltda. o direito de lavrar gipsita no Município de Trindade, Estado de Pernambuco.

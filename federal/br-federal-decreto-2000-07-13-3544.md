@@ -1,5 +1,3 @@
-###DEC-003544-0-000-13-07-2000@@@
-
 DECRETO Nº 3.544, DE 13 DE JULHO DE 2000.
 
 Delega competência ao Ministro de Estado das Relações Exteriores para a prática dos atos que especifica.

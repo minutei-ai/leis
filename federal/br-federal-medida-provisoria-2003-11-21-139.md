@@ -1,5 +1,3 @@
-###MPV-000139-0-000-21-11-2003@@@
-
 MEDIDA PROVISÓRIA Nº 139, DE 21 DE NOVEMBRO 2003.
 
        Institui o Programa de Complementação ao Atendimento Educacional Especializado aos Portadores de Deficiência, e dá outras providências.
@@ -58,7 +56,10 @@ MEDIDA PROVISÓRIA Nº 139, DE 21 DE NOVEMBRO 2003.
 
         Brasília, 21 de novembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Cristovam Ricardo Cavalcanti Buarque<br>
-Guido Mantega<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Cristovam Ricardo Cavalcanti Buarque
+
+Guido Mantega
+
 José Dirceu de Oliveira e Silva

@@ -1,7 +1,3 @@
-1
-
-###DEC-098072-0-000-21-08-1989@@@
-
 DECRETO N° 98.072, DE 21 DE AGOSTO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Espírito Santo Centrais Elétricas S.A. ESCELSA, no Estado do Espírito Santo.

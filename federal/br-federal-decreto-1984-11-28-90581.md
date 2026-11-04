@@ -1,5 +1,3 @@
-###DEC-090581-0-000-28-11-1984@@@
-
 Decreto nº 90.581, de 28 de novembro de 1984.
 
 Altera dispositivo do Decreto nº 60.521, de 31 de março de 1967, que estabelece a Estrutura Básica da Organização do Ministério da Aeronáutica e dá outras providências.

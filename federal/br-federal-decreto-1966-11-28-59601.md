@@ -1,5 +1,3 @@
-###DEC-059601-0-000-28-11-1966@@@
-
 Decreto nº 59.601, de 28 de novembro de 1966.
 
 Concede à Immobiliare Casa Latina - Società per Azioni autorização para continuar a funcionar na República dos Estados Unidos do Brasil.

@@ -1,5 +1,3 @@
-###DEC-086621-0-000-20-11-1981@@@
-
 Decreto nº 86.621, de 20 de novembro de 1981.
 
 Autoriza o aumento do limite do Capital Social de FLORESTAS RIO DOCE S.A.

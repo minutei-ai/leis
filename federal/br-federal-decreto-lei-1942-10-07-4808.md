@@ -1,5 +1,3 @@
-###DEL-004808-0-000-07-10-1942@@@
-
 DECRETO-LEI N. 4.808 – DE 7 DE OUTUBRO DE 1942
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Viação e Obras Públicas

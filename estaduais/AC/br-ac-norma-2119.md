@@ -1,6 +1,10 @@
 > **LEI Nº 3.121, DE 03 DE MARÇO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a concessão de uso dos silos graneleiros situados nos Municípios de Rio Branco, Senador Guiomard, Capixaba, Brasiléia, Acrelândia e Plácido de Castro, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a concessão de uso dos silos graneleiros situados nos Municípios de Rio Branco, Senador Guiomard, Capixaba, Brasiléia, Acrelândia e Plácido de Castro, e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

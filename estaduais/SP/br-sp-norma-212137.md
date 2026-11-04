@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212137)<br>
-
 # DECRETO N° 70.311, DE 29 DE DEZEMBRO DE 2025
 
 ### _Dispõe sobre procedimentos para a execução de emendas parlamentares individuais e de transferências voluntárias decorrentes de indicação parlamentar no âmbito da Administração Pública estadual, e dá providências correlatas._
@@ -14,7 +12,8 @@ Considerando a necessidade de aprimorar os mecanismos de controle, transparênci
 
 Decreta:
 
-#### Seção I<br>
+#### Seção I
+
 Da Transparência, Rastreabilidade e Processamento Digital
 
 **Artigo 1° -** Este decreto estabelece procedimentos obrigatórios para a execução de emendas parlamentares individuais e de transferências voluntárias decorrentes de indicação parlamentar no âmbito da Administração Pública estadual, visando ampliar a transparência, a rastreabilidade e o controle da aplicação dos recursos públicos.
@@ -55,10 +54,12 @@ Da Transparência, Rastreabilidade e Processamento Digital
 
 3\. os valores a serem desembolsados em cada período.
 
-#### Seção II<br>
+#### Seção II
+
 Das Transferências Especiais
 
-#### Subseção I<br>
+#### Subseção I
+
 Do Plano de Trabalho e Da Conta Bancária Específica
 
 **Artigo 4° -** As transferências de recursos para Municípios, decorrentes de emendas parlamentares individuais, na modalidade transferência especial, observarão os procedimentos estabelecidos nesta seção.
@@ -109,7 +110,8 @@ IV - a conformidade com as normas legais aplicáveis.
 
 **§ 3° -** Os recursos não utilizados ou aplicados em desconformidade com o plano de trabalho deverão ser restituídos aos cofres estaduais.
 
-#### Subseção II<br>
+#### Subseção II
+
 Da Prestação de Contas
 
 **Artigo 9° -** A prestação de contas das transferências especiais compreenderá a apresentação de relatório de gestão atualizado até o final da execução do objeto, contendo a verificação da conformidade entre o plano de trabalho e a respectiva execução.
@@ -168,7 +170,8 @@ V - a regularidade dos procedimentos adotados.
 
 **Artigo 12 -** Os documentos relativos à prestação de contas deverão ser mantidos pelo prazo de 5 (cinco) anos, contados da aprovação das contas, para fins de fiscalização pelos órgãos de controle.
 
-#### Seção III<br>
+#### Seção III
+
 Disposições Finais
 
 **Artigo 13 -** Os órgãos e entidades da Administração Pública estadual deverão adequar seus procedimentos internos ao disposto neste decreto a partir de 1° de janeiro de 2026, inclusive no que se refere aos processos em andamento, no que couber.

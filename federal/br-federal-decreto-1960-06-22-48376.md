@@ -1,5 +1,3 @@
-###DEC-048376-0-000-22-06-1960@@@
-
 decreto nº 48.376, de 22 de junho de 1960.
 
 Concede autorização para o funcionamento de curso.

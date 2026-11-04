@@ -1,5 +1,3 @@
-###DEL-006530-0-000-25-05-1944@@@
-
 DECRETO-LEI N. 6.530 – DE 25 DE MAIO DE 1944
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 575.161,60, para classificação e liquidação de despesas provenientes de visita de personalidades ilustres.

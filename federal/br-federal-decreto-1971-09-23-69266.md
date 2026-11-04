@@ -1,5 +1,3 @@
-###DEC-069266-0-000-23-09-1971@@@
-
 Decreto Nº 69.266, DE 23 DE setembro DE 1971.
 
 Declara de utilidade pública o Colégio Cristo Rei, com sede em Presidente Prudente, Estado de São Paulo.

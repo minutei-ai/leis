@@ -1,5 +1,3 @@
-###DEC-055366-0-000-31-12-1964@@@
-
 DECRETO Nº 55.366, de 31 de dezembro de 1964.
 
 Concede a sociedade anônima F. S. Hampshire & Co. Limited autorização para continuar a funcionar na República, sob a nova denominação de Norton, Megaw, Hampshire & Co. Limited.

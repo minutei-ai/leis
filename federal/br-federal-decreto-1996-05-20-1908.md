@@ -1,5 +1,3 @@
-###DEC-001908-0-000-20-05-1996@@@
-
 DECRETO Nº 1.908, DE 20 DE MAIO DE 1996
 
 Estabelece condições para prestação de assistência judicial, pela União, aos servidores integrantes da Carreira Auditoria do Tesouro Nacional e aos titulares de cargos de Direção e Assessoramento Superiores, em ações decorrentes do exercício de cargo na Secretaria da Receita Federal, e dá outras providências.

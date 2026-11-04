@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211059)<br>
-
 # DECRETO N° 69.619, DE 11 DE JUNHO DE 2025
 
 ### _Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de operação, manutenção e realização dos investimentos necessários para a exploração do sistema de transporte aquaviário de veículos e passageiros denominado "Sistema de Travessias", e aprova o respectivo regulamento._
@@ -96,7 +94,8 @@ Rafael Antonio Cren Benini
 
 #### REGULAMENTO DA CONCESSÃO PATROCINADA DOS SERVIÇOS PÚBLICOS DE OPERAÇÃO, MANUTENÇÃO E REALIZAÇÃO DOS INVESTIMENTOS NECESSÁRIOS PARA A EXPLORAÇÃO DO SISTEMA DE TRANSPORTE AQUAVIÁRIO DE VEÍCULOS E PASSAGEIROS DENOMINADO "SISTEMA DE TRAVESSIAS"
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este regulamento tem por objetivo disciplinar a concessão patrocinada dos serviços públicos de operação, manutenção e realização dos investimentos necessários para a exploração do sistema de transporte aquaviário de veículos e passageiros denominado "Sistema de Travessias", constituído pelas travessias localizadas nas seguintes regiões:
@@ -145,7 +144,8 @@ c) Travessia Terminal Natividade da Serra, entre Natividade da Serra - Pouso Alt
 
 **§ 3° -** Serão incorporadas ao "Sistema de Travessias" todas as ampliações a serem implantadas nas áreas operacionais durante o período da concessão, que passarão a integrar a infraestrutura do sistema e área da concessão.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Concessão
 
 **Artigo 2° -** O objeto da concessão compreende:
@@ -162,7 +162,8 @@ V - a manutenção preventiva e corretiva dos bens da concessão, de modo a mant
 
 VI - as demais atividades e serviços previstas no contrato de concessão.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Dos Direitos e Obrigações da Concessionária
 
 **Artigo 3° -** São direitos e obrigações da concessionária, durante todo o prazo da concessão, sem prejuízo do disposto no contrato de concessão e na legislação pertinente:
@@ -207,7 +208,8 @@ XIX - cooperar e apoiar o desenvolvimento das atividades de acompanhamento e de 
 
 XX - cumprir as demais disposições previstas no contrato de concessão.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Dos Direitos e Obrigações do Poder Concedente
 
 **Artigo 4° -** Incumbe ao Poder Concedente, dentre outros direitos e obrigações previstos no contrato:
@@ -222,7 +224,8 @@ IV - providenciar as declarações de utilidade pública necessárias para execu
 
 V - intervir na prestação dos serviços, retomá-lo e extinguir a concessão, nos casos e nas condições previstas neste contrato e na legislação pertinente.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Dos Direitos e Obrigações dos Usuários
 
 **Artigo 5° -** São direitos e obrigações dos usuários:
@@ -241,7 +244,8 @@ VI - comunicar às autoridades competentes atos ilícitos praticados pela conces
 
 VII - contribuir para a conservação das boas condições dos bens públicos por meio dos quais lhes são prestados os serviços. Parágrafo único - O Poder Concedente, a ARTESP e a concessionária estimularão a participação da comunidade em assuntos de interesse do "Sistema de Travessias".
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa e das Penalidades
 
 **Artigo 6° -** A ARTESP atuará, na forma prevista no contrato e na [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), no acompanhamento da concessão e na fiscalização dos serviços concedidos.
@@ -268,7 +272,8 @@ c) a mensuração dos indicadores de desempenho realizada pelo verificador indep
 
 **§ 2° -** Os fatores a que se refere o § 1° deste artigo serão aferidos a partir dos parâmetros definidos nos anexos do contrato.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Da Remuneração
 
 **Artigo 8° -** Constituem fontes de remuneração da concessionária, nos termos do contrato de concessão e anexos:
@@ -285,7 +290,8 @@ III - outras fontes provenientes de receitas alternativas, complementares, acess
 
 **Artigo 10 -** A concessionária garantirá acesso ao serviço público de transporte aquaviário àquele que tenha direito a transporte gratuito, nos termos do contrato de concessão e anexos, observada a legislação aplicável.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Das Disposições Gerais
 
 **Artigo 11 -** O Poder Concedente providenciará, mediante proposta da concessionária, as medidas para a declaração de utilidade pública dos bens e áreas necessários à eventual ampliação do "Sistema de Travessias", responsabilizando-se a concessionária pela promoção das desapropriações e servidões administrativas, bem como pelas respectivas indenizações, observados os termos e condições do contrato de concessão, na forma autorizada pelo Poder Público.

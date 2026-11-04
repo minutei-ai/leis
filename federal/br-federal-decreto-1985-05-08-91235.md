@@ -1,5 +1,3 @@
-###DEC-091235-0-000-08-05-1985@@@
-
 Decreto nº 91.235, dE 08 de maio de 1985
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Fundação Técnico-Educacional Souza Marques.

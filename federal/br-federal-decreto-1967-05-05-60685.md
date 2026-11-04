@@ -1,5 +1,3 @@
-###DEC-060685-0-000-05-05-1967@@@
-
 DECRETO Nº 60.685, DE 5 DE MAIO DE 1967.
 
 Dá nova redação ao art. 2º do Decreto nº 60.359, de 10 de março de 1967.

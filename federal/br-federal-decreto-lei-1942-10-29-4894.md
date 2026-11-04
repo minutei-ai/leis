@@ -1,5 +1,3 @@
-###DEL-004894-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.894 – DE 29 DE OUTUBRO DE 1942
 
 Autoriza o prefeito do Distrito Federal a conceder a isenção de 50% (cinquenta por cento) do imposto predial ao imovel que menciona

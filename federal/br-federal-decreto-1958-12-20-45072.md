@@ -1,5 +1,3 @@
-###DEC-045072-0-000-20-12-1958@@@
-
 DECRETO Nº 45.072, DE 20 DE DEZEMBRO DE 1958.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos.

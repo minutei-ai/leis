@@ -1,5 +1,3 @@
-###DEC-080043-0-000-28-07-1977@@@
-
 DECRETO Nº 80.043, DE 28 DE JULHO DE 1977
 
 Concede à Abílio Pedro S. A. Indústria e Comércio o direito de lavrar calcário dolomítico no Município de Limeira, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000459-0-000-27-02-1992@@@
-
 DECRETO N° 459, DE 27 DE FEVEREIRO DE 1992
 
 Dispõe sobre as funções de confiança de órgãos integrantes da Presidência da República.

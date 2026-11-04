@@ -1,5 +1,3 @@
-###DEC-059131-0-000-25-08-1966@@@
-
 DECRETO Nº 59.131, DE 25 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro José de Barros Sobrinho a pesquisar mica no município de Galiléia, Estado de Minas Gerais.

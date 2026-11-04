@@ -1,5 +1,3 @@
-###DEC-007157-0-000-09-04-2010@@@
-
 DECRETO Nº 7.157, DE 9 DE ABRIL DE 2010.
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória
@@ -30,4 +28,62 @@ LUIZ INÁCIO LULA DA SILVA
 
 ANEXO
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:137.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FUNCIONAL PROGRAMÁTICA</span></p></td><td style="width:73.58pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓDIGO</span></p></td><td style="width:230.08pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NOME</span></p></td></tr><tr><td style="width:137.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.782.1456.206Z.0103</span></p></td><td style="width:73.58pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00814</span></p></td><td style="width:230.08pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manutenção de Rodovias - RR</span></p></td></tr><tr><td style="width:137.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.782.1456.206Z.0014</span></p></td><td style="width:73.58pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00814</span></p></td><td style="width:230.08pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manutenção de Rodovias - RR</span></p></td></tr><tr><td style="width:137.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.782.1456.207B.0103</span></p></td><td style="width:73.58pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00814</span></p></td><td style="width:230.08pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manutenção de Rodovias - RR</span></p></td></tr><tr><td style="width:137.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.782.1456.207B.0014</span></p></td><td style="width:73.58pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00814</span></p></td><td style="width:230.08pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manutenção de Rodovias - RR</span></p></td></tr><tr><td style="width:137.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.782.1461.7M91.0041</span></p></td><td style="width:73.58pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00763</span></p></td><td style="width:230.08pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">BR-376/PR - Construção - Contorno Norte de Maringá</span></p></td></tr><tr><td style="width:137.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.482.1136.8873.0001</span></p></td><td style="width:73.58pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.01639</span></p></td><td style="width:230.08pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Desenvolvimento Institucional em Habitação - Apoio à Modernização Institucional dos Municípios/NA</span></p></td></tr><tr><td style="width:137.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.0122.1N08.0001</span></p></td><td style="width:73.58pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.00553</span></p></td><td style="width:230.08pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Esgotamento Sanitário - Porto Velho/RO</span></p></td></tr><tr><td style="width:137.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.0122.1N08.0011</span></p></td><td style="width:73.58pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.00553</span></p></td><td style="width:230.08pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Esgotamento Sanitário - Porto Velho/RO</span></p></td></tr><tr><td style="width:137.35pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1136.1P95.0001</span></p></td><td style="width:73.58pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.00553</span></p></td><td style="width:230.08pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Esgotamento Sanitário - Porto Velho/RO</span></p></td></tr></tbody></table>
+FUNCIONAL PROGRAMÁTICA
+
+CÓDIGO
+
+NOME
+
+26.782.1456.206Z.0103
+
+MT.00814
+
+Manutenção de Rodovias - RR
+
+26.782.1456.206Z.0014
+
+MT.00814
+
+Manutenção de Rodovias - RR
+
+26.782.1456.207B.0103
+
+MT.00814
+
+Manutenção de Rodovias - RR
+
+26.782.1456.207B.0014
+
+MT.00814
+
+Manutenção de Rodovias - RR
+
+26.782.1461.7M91.0041
+
+MT.00763
+
+BR-376/PR - Construção - Contorno Norte de Maringá
+
+15.482.1136.8873.0001
+
+MCID.01639
+
+Desenvolvimento Institucional em Habitação - Apoio à Modernização Institucional dos Municípios/NA
+
+17.512.0122.1N08.0001
+
+MCID.00553
+
+Esgotamento Sanitário - Porto Velho/RO
+
+17.512.0122.1N08.0011
+
+MCID.00553
+
+Esgotamento Sanitário - Porto Velho/RO
+
+17.512.1136.1P95.0001
+
+MCID.00553
+
+Esgotamento Sanitário - Porto Velho/RO

@@ -1,5 +1,3 @@
-###DEC-048762-0-000-11-08-1960@@@
-
 DECRETO Nº 48.762, DE 11 DE agôsto DE 1960.
 
 Aprova a reforma dos estatutos sociais do Banco do Nordeste do Brasil S.A..

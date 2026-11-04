@@ -1,5 +1,3 @@
-###DEC-071898-0-000-13-03-1973@@@
-
 DECRETO Nº 71.898, DE 13 DE MARÇO DE 1973.
 
 Autoriza o funcionamento do Curso de Licenciatura em Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Taubaté - SP.

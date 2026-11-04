@@ -1,5 +1,3 @@
-###DEC-050410-0-000-04-04-1961@@@
-
 DECRETO Nº 50.410, DE 4 DE ABRIL DE 1961.
 
 Estende aos comerciantes atacadistas de farinha de trigo as disposições do Decreto número 50.359, de 18 de março de 1961.

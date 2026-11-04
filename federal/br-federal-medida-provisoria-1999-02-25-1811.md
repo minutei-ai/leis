@@ -1,5 +1,3 @@
-###MPV-001811-0-000-25-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.811, DE 25 DE FEVEREIRO DE 1999.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

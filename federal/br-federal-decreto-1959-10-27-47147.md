@@ -1,5 +1,3 @@
-###DEC-047147-0-000-27-10-1959@@@
-
 DECRETO Nº 47.147, DE 27 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Ambrosino de Paula Rezende a pesquisar cassiterita na município de Rezende de Costa, Estado de Minas Gerais.

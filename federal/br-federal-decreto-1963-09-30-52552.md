@@ -1,5 +1,3 @@
-###DEC-052552-0-000-30-09-1963@@@
-
 Decreto nº 52.552, de 30 de setembro de 1963.
 
 Transfere da Prefeitura Municipal de São Gabriel para a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a concessão para distribuir energia elétrica ao município, e dá outras providências.

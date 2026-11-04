@@ -1,5 +1,3 @@
-###DEC-048194-0-000-11-05-1960@@@
-
 DECRETO Nº 48.194, DE 11 DE MAIO DE 1960.
 
 Renova o Decreto nº 42.101, de 19 de agôsto de 1957.

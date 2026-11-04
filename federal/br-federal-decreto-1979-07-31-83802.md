@@ -1,5 +1,3 @@
-###DEC-083802-0-000-31-07-1979@@@
-
 DECRETO Nº 83.802, DE 31 DE JULHO DE 1979.
 
 Reduz as alíquotas do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos.

@@ -1,5 +1,3 @@
-###DEL-000402-0-000-30-12-1968@@@
-
 DECRETO-LEI Nº 402, DE 30 DE DEZEMBRO DE 1968
 
 Retifica o detalhamento do projeto do Tribunal Regional do Trabalho e Juntas de Conciliação e Julgamento da 1ª Região, constante da Lei nº 5.373, de 6 de dezembro de 1967.
@@ -25,8 +23,6 @@ Luís Antônio da Gama e Silva
 Antonio Delfim Netto
 
 Hélio Beltrão
-
-###DEL-000402-0-000-30-12-1968@@@RET01+++
 
 DECRETO-LEI Nº 402, DE 30 DE DEZEMBRO DE 1968
 

@@ -1,5 +1,3 @@
-###DEC-044964-0-000-01-12-1958@@@
-
 decreto nº 44.964, de 1 de dezembro de 1958.
 
 Autoriza A.P. Green do Brasil S.A. Comercial, Industrial e Técnica a pesquisar ciamita no município de Bom Jardim de Minas, Estado de Minas Gerais.

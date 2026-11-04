@@ -1,5 +1,3 @@
-###MPV-001799-0-003-18-03-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.799-3, DE 18 DE MARÇO DE 1999
 
 Altera dispositivos da Lei nº 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

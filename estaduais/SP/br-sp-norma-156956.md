@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/156956)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2009/compilacao-lei.complementar-1093-16.07.2009.html)
 
 # LEI COMPLEMENTAR N° 1.093, DE 16 DE JULHO DE 2009
@@ -7,7 +6,8 @@
 
 ### _Dispõe sobre a contratação por tempo determinado de que trata o inciso X do artigo 115 da Constituição Estadual e dá outras providências correlatas_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
 ~~Artigo 1° - A contratação por tempo determinado de que trata o inciso X do artigo 115 da Constituição Estadual, para atender a necessidade temporária de excepcional interesse público, será formalizada mediante contrato e nas seguintes hipóteses:~~
@@ -224,8 +224,10 @@ _\- Vide [Lei Complementar n° 1.381, de 16/12/2022](https://www.al.sp.gov.br/no
 
 **Artigo 2° -** A contratação nos termos desta lei complementar será celebrada, em cada área, pelo respectivo Secretário de Estado, pelo Procurador Geral do Estado, ou pelo Dirigente da Autarquia, que poderão delegar a competência para a prática do ato, e:
 
-**I -** dependerá de autorização do Governador;<br>
-**II -** será precedida de processo seletivo simplificado, submetido às condições estabelecidas em regulamento próprio elaborado pela Secretaria de Gestão Pública, por intermédio do órgão central de recursos humanos;<br>
+**I -** dependerá de autorização do Governador;
+
+**II -** será precedida de processo seletivo simplificado, submetido às condições estabelecidas em regulamento próprio elaborado pela Secretaria de Gestão Pública, por intermédio do órgão central de recursos humanos;
+
 **III -** deverá ser objeto de ampla divulgação.
 
 ~~Parágrafo único - Na hipótese referida no inciso I do artigo 1° desta lei complementar, o processo seletivo poderá ser apenas classificatório, de acordo com os requisitos previstos no respectivo edital.~~
@@ -238,12 +240,18 @@ _~~\- Parágrafo único com redação dada pela [Lei Complementar n° 1.215, de 
 
 _\- Parágrafo único com redação dada pela [Lei Complementar n° 1.361, de 21/10/2021](https://www.al.sp.gov.br/norma/200540), com efeitos a partir de 01/11/2021._
 
-**Artigo 3° -** Quando houver empate, a classificação resolver-se-á favoravelmente ao candidato que tiver pela ordem:<br>
-**I -** em relação à atividade a ser desempenhada:<br>
-**a)** escolaridade mais compatível;<br>
-**b)** maior tempo de experiência;<br>
-**II -** maior grau de escolaridade;<br>
-**III -** maiores encargos de família.<br>
+**Artigo 3° -** Quando houver empate, a classificação resolver-se-á favoravelmente ao candidato que tiver pela ordem:
+
+**I -** em relação à atividade a ser desempenhada:
+
+**a)** escolaridade mais compatível;
+
+**b)** maior tempo de experiência;
+
+**II -** maior grau de escolaridade;
+
+**III -** maiores encargos de família.
+
 **Parágrafo único -** Quando algum candidato, dentre os empatados na ordem de classificação, tiver idade igual ou superior a 60 (sessenta) anos, dar-se-á preferência ao de maior idade, nos termos da Lei federal n° 10.741, de 1° de outubro de 2003 - Estatuto do Idoso.
 
 **Artigo 4° -** Para ser contratado, o candidato deverá preencher as seguintes condições:
@@ -254,9 +262,12 @@ _\- Parágrafo único com redação dada pela [Lei Complementar n° 1.361, de 21
 
 _\- Inciso I com redação dada pela [Lei Complementar n° 1.361, de 21/10/2021](https://www.al.sp.gov.br/norma/200540), com efeitos a partir de 01/11/2021._
 
-**II -** não ser portador de deficiência incompatível com o exercício da atividade a ser desempenhada;<br>
-**III -** não exercer cargo, emprego ou função públicos na Administração direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios, exceto nos casos previstos no inciso XVI do artigo 37 da Constituição Federal e inciso XVIII do artigo 115 da Constituição Estadual;<br>
-**IV -** possuir escolaridade e experiência compatíveis com a atividade a ser desempenhada, de acordo com os requisitos estabelecidos no edital;<br>
+**II -** não ser portador de deficiência incompatível com o exercício da atividade a ser desempenhada;
+
+**III -** não exercer cargo, emprego ou função públicos na Administração direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios, exceto nos casos previstos no inciso XVI do artigo 37 da Constituição Federal e inciso XVIII do artigo 115 da Constituição Estadual;
+
+**IV -** possuir escolaridade e experiência compatíveis com a atividade a ser desempenhada, de acordo com os requisitos estabelecidos no edital;
+
 **V -** ter boa conduta.
 
 ~~Parágrafo único - As condições estabelecidas nos incisos I e II deste artigo deverão ser comprovadas mediante atestados expedidos por órgãos ou entidades integrantes do Sistema Único de Saúde no Estado de São Paulo.~~
@@ -357,33 +368,54 @@ _\- Inciso III com redação dada pela [Lei Complementar n° 1.361, de 21/10/202
 
 _\- Inciso VI com redação dada pela [Lei Complementar n° 1.361, de 21/10/2021](https://www.al.sp.gov.br/norma/200540), com efeitos a partir de 01/11/2021._
 
-**VII -** nas hipóteses de o contratado:<br>
-**a)** preencher a vaga relativa ao concurso para o qual foi aprovado, nos termos do artigo 5° desta lei complementar;<br>
-**b)** ser convocado para serviço militar obrigatório ou serviço civil alternativo, quando houver incompatibilidade de horário;<br>
+**VII -** nas hipóteses de o contratado:
+
+**a)** preencher a vaga relativa ao concurso para o qual foi aprovado, nos termos do artigo 5° desta lei complementar;
+
+**b)** ser convocado para serviço militar obrigatório ou serviço civil alternativo, quando houver incompatibilidade de horário;
+
 **c)** assumir mandato eletivo que implique afastamento do serviço;
 
 **d)** não obter, na avaliação de desempenho, quando instituída, a nota mínima necessária para prosseguimento do contrato, nos termos do respectivo ato regulamentador; (NR)
 
 _\- Alínea "d" acrescentada pela [Lei Complementar n° 1.361, de 21/10/2021](https://www.al.sp.gov.br/norma/200540), com efeitos a partir de 01/11/2021._
 
-**VIII -** por conveniência da Administração.<br>
-**§ 1° -** A extinção do contrato com fundamento nos incisos I a VII deste artigo far-se-á sem direito a indenização.<br>
-**§ 2° -** A extinção do contrato com fundamento no inciso VIII deste artigo implicará o pagamento ao contratado de indenização correspondente a 1 (uma) vez o valor da remuneração mensal fixada no contrato, ou, quando for o caso, da média mensal da remuneração fixada no contrato, até o advento da extinção.<br>
-**§ 3° -** Na hipótese do inciso IV deste artigo, previamente ao ato que rescindir o contrato, será assegurada ao contratado a faculdade de exercer o direito de defesa, no prazo de 3 (três) dias úteis, devendo o procedimento ser concluído dentro de 10 (dez) dias contados da data do protocolo das razões de defesa ou do decurso do prazo para apresentá-las.<br>
-**Artigo 9° -** O contratado não poderá receber atribuições, funções ou encargos não previstos no respectivo contrato.<br>
-**Artigo 10 -** O contratado nos termos desta lei complementar está sujeito aos mesmos deveres, proibições e responsabilidades previstos na [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), aplicando-se aos docentes, subsidiariamente, as disposições da [Lei complementar n° 444, de 27 de dezembro de 1985](https://www.al.sp.gov.br/norma/27099).<br>
-**Artigo 11 -** A remuneração do contratado nos termos desta lei complementar será fixada:<br>
-**I -** para o desempenho de atividades correspondentes às de cargos públicos, em importância não superior à retribuição inicial destes, acrescida das vantagens pecuniárias inerentes à função, ao horário e ao local de exercício;<br>
-**II -** para o desempenho de função docente por período de 1 (um) até 15 (quinze) dias, em importância correspondente às horas-aula efetivamente ministradas;<br>
-**III -** para o desempenho de outras atividades, em importância não superior:<br>
-**a)** à da remuneração inicial estabelecida pela legislação estadual vigente para servidores que exerçam função assemelhada;<br>
-**b)** ao valor definido pelo Poder Executivo, que não poderá ultrapassar os limites legais, nas demais hipóteses.<br>
-**Artigo 12 -** Fica assegurado ao contratado nos termos desta lei complementar:<br>
-**I -** o décimo terceiro salário, na proporção de 1/12 (um doze avos) por mês trabalhado ou fração superior a 15 (quinze) dias;<br>
-**II -** o pagamento das férias, decorridos 12 (doze) meses de efetivo exercício da função.<br>
-**Artigo 13 -** Serão consideradas como dias trabalhados as ausências do contratado em virtude de:<br>
-**I -** casamento, até 2 (dois) dias consecutivos;<br>
-**II -** falecimento de pais, irmãos, cônjuge, companheiro ou filhos, até 2 (dois) dias consecutivos;<br>
+**VIII -** por conveniência da Administração.
+
+**§ 1° -** A extinção do contrato com fundamento nos incisos I a VII deste artigo far-se-á sem direito a indenização.
+
+**§ 2° -** A extinção do contrato com fundamento no inciso VIII deste artigo implicará o pagamento ao contratado de indenização correspondente a 1 (uma) vez o valor da remuneração mensal fixada no contrato, ou, quando for o caso, da média mensal da remuneração fixada no contrato, até o advento da extinção.
+
+**§ 3° -** Na hipótese do inciso IV deste artigo, previamente ao ato que rescindir o contrato, será assegurada ao contratado a faculdade de exercer o direito de defesa, no prazo de 3 (três) dias úteis, devendo o procedimento ser concluído dentro de 10 (dez) dias contados da data do protocolo das razões de defesa ou do decurso do prazo para apresentá-las.
+
+**Artigo 9° -** O contratado não poderá receber atribuições, funções ou encargos não previstos no respectivo contrato.
+
+**Artigo 10 -** O contratado nos termos desta lei complementar está sujeito aos mesmos deveres, proibições e responsabilidades previstos na [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), aplicando-se aos docentes, subsidiariamente, as disposições da [Lei complementar n° 444, de 27 de dezembro de 1985](https://www.al.sp.gov.br/norma/27099).
+
+**Artigo 11 -** A remuneração do contratado nos termos desta lei complementar será fixada:
+
+**I -** para o desempenho de atividades correspondentes às de cargos públicos, em importância não superior à retribuição inicial destes, acrescida das vantagens pecuniárias inerentes à função, ao horário e ao local de exercício;
+
+**II -** para o desempenho de função docente por período de 1 (um) até 15 (quinze) dias, em importância correspondente às horas-aula efetivamente ministradas;
+
+**III -** para o desempenho de outras atividades, em importância não superior:
+
+**a)** à da remuneração inicial estabelecida pela legislação estadual vigente para servidores que exerçam função assemelhada;
+
+**b)** ao valor definido pelo Poder Executivo, que não poderá ultrapassar os limites legais, nas demais hipóteses.
+
+**Artigo 12 -** Fica assegurado ao contratado nos termos desta lei complementar:
+
+**I -** o décimo terceiro salário, na proporção de 1/12 (um doze avos) por mês trabalhado ou fração superior a 15 (quinze) dias;
+
+**II -** o pagamento das férias, decorridos 12 (doze) meses de efetivo exercício da função.
+
+**Artigo 13 -** Serão consideradas como dias trabalhados as ausências do contratado em virtude de:
+
+**I -** casamento, até 2 (dois) dias consecutivos;
+
+**II -** falecimento de pais, irmãos, cônjuge, companheiro ou filhos, até 2 (dois) dias consecutivos;
+
 **III -** serviços obrigatórios por lei.
 
 ~~Artigo 14 - O contratado poderá requerer o abono ou a justificação de faltas, observadas as condições estabelecidas em decreto.~~
@@ -406,11 +438,16 @@ _\- Artigo 16 com redação dada pela [Lei Complementar n° 1.361, de 21/10/2021
 
 **Artigo 17** \- O contratado perderá a totalidade da remuneração do dia quando comparecer ou retirar-se do serviço fora de horário, ressalvadas as hipóteses previstas em decreto e os casos de consulta ou tratamento de saúde, previstos em lei.
 
-**Artigo 18 -** Sempre que a natureza e a necessidade do serviço assim o exigirem, os Secretários de Estado, o Procurador Geral do Estado e os Dirigentes de Autarquias poderão, com anuência do Secretário de Gestão Pública, expedir normas específicas quanto ao horário de trabalho dos contratados nos termos desta lei complementar.<br>
-**Artigo 19 -** As normas de registro e controle de frequência dos contratados para suprir atividade docente, nas hipóteses previstas no inciso IV do artigo 1° desta lei complementar, serão estabelecidas em ato específico da Secretaria da Educação.<br>
-**Artigo 20 -** O contratado na forma do disposto nesta lei complementar ficará vinculado ao Regime Geral de Previdência Social, nos termos da legislação federal.<br>
-**Artigo 21 -** Caberá ao órgão setorial de recursos humanos do órgão ou da autarquia contratante registrar, controlar e acompanhar a execução dos contratos celebrados, observado o disposto no artigo 2° desta lei complementar.<br>
-**Parágrafo único -** O órgão ou a autarquia contratante encaminhará, mensalmente, ao órgão central de recursos humanos, por intermédio do seu órgão setorial, os dados relativos aos contratos celebrados com base nesta lei complementar, para fins de controle.<br>
+**Artigo 18 -** Sempre que a natureza e a necessidade do serviço assim o exigirem, os Secretários de Estado, o Procurador Geral do Estado e os Dirigentes de Autarquias poderão, com anuência do Secretário de Gestão Pública, expedir normas específicas quanto ao horário de trabalho dos contratados nos termos desta lei complementar.
+
+**Artigo 19 -** As normas de registro e controle de frequência dos contratados para suprir atividade docente, nas hipóteses previstas no inciso IV do artigo 1° desta lei complementar, serão estabelecidas em ato específico da Secretaria da Educação.
+
+**Artigo 20 -** O contratado na forma do disposto nesta lei complementar ficará vinculado ao Regime Geral de Previdência Social, nos termos da legislação federal.
+
+**Artigo 21 -** Caberá ao órgão setorial de recursos humanos do órgão ou da autarquia contratante registrar, controlar e acompanhar a execução dos contratos celebrados, observado o disposto no artigo 2° desta lei complementar.
+
+**Parágrafo único -** O órgão ou a autarquia contratante encaminhará, mensalmente, ao órgão central de recursos humanos, por intermédio do seu órgão setorial, os dados relativos aos contratos celebrados com base nesta lei complementar, para fins de controle.
+
 **Artigo 22 -** Sem prejuízo da nulidade do contrato, a inobservância das disposições desta lei complementar importará responsabilidade administrativa da autoridade signatária e do contratado, e, se for o caso, solidariedade quanto à devolução de valores percebidos pelo contratado.
 
 ~~Artigo 23 - Esta lei complementar aplica-se aos órgãos da Administração direta e às Autarquias cujo pessoal seja submetido ao regime jurídico próprio dos servidores titulares de cargos efetivos.~~
@@ -419,29 +456,48 @@ _\- Artigo 16 com redação dada pela [Lei Complementar n° 1.361, de 21/10/2021
 
 _\- Artigo 23 com redação dada pela [Lei Complementar n° 1.361, de 21/10/2021](https://www.al.sp.gov.br/norma/200540), com efeitos a partir de 01/11/2021._
 
-**Artigo 24 -** Fica vedada, a partir da publicação desta lei complementar, a admissão de pessoal com fundamento na [Lei n° 500, de 13 de novembro de 1974](https://www.al.sp.gov.br/norma/39651).<br>
-**Parágrafo único -** Ficam extintas as funções-atividades submetidas ao regime jurídico instituído pela lei de que trata o "caput" deste artigo, na seguinte conformidade:<br>
-**1 -** na vacância, as que se encontrarem preenchidas;<br>
-**2 -** na data da publicação desta lei complementar, as que estiverem vagas.<br>
-**Artigo 25 -** As contratações de pessoal após o advento da Lei complementar n° 1.010, de 1° de junho de 2007, sob o regime jurídico da [Lei n° 500, de 13 de novembro de 1974](https://www.al.sp.gov.br/norma/39651), estarão automaticamente extintas:<br>
-**I -** findo o prazo de contratação, quando a vigência tiver sido estipulada;<br>
-**II -** após o decurso de 12 (doze) meses, contados da data da publicação desta lei complementar, quando o prazo da vigência da contratação não tiver sido definido.**<br>
-Parágrafo único -** No caso de função docente, observado o § 1° do artigo 7° desta lei complementar e o artigo 11 da [Lei complementar n° 836, de 30 de dezembro de 1997](https://www.al.sp.gov.br/norma/6190), as contratações a que se refere o "caput" deste artigo estarão automaticamente extintas após 2 (dois) anos letivos subsequentes ao que estiver em curso na data da publicação desta lei complementar.<br>
-**Artigo 26 -** O Poder Executivo regulamentará esta lei complementar.<br>
-**Artigo 27 -** As despesas resultantes desta lei complementar correrão à conta das dotações consignadas no orçamento vigente, ficando o Poder Executivo autorizado a abrir créditos adicionais, se necessário, nos termos do artigo 43 da Lei federal n° 4.320, de 17 de março de 1964.<br>
+**Artigo 24 -** Fica vedada, a partir da publicação desta lei complementar, a admissão de pessoal com fundamento na [Lei n° 500, de 13 de novembro de 1974](https://www.al.sp.gov.br/norma/39651).
+
+**Parágrafo único -** Ficam extintas as funções-atividades submetidas ao regime jurídico instituído pela lei de que trata o "caput" deste artigo, na seguinte conformidade:
+
+**1 -** na vacância, as que se encontrarem preenchidas;
+
+**2 -** na data da publicação desta lei complementar, as que estiverem vagas.
+
+**Artigo 25 -** As contratações de pessoal após o advento da Lei complementar n° 1.010, de 1° de junho de 2007, sob o regime jurídico da [Lei n° 500, de 13 de novembro de 1974](https://www.al.sp.gov.br/norma/39651), estarão automaticamente extintas:
+
+**I -** findo o prazo de contratação, quando a vigência tiver sido estipulada;
+
+**II -** após o decurso de 12 (doze) meses, contados da data da publicação desta lei complementar, quando o prazo da vigência da contratação não tiver sido definido.**
+
+Parágrafo único -** No caso de função docente, observado o § 1° do artigo 7° desta lei complementar e o artigo 11 da [Lei complementar n° 836, de 30 de dezembro de 1997](https://www.al.sp.gov.br/norma/6190), as contratações a que se refere o "caput" deste artigo estarão automaticamente extintas após 2 (dois) anos letivos subsequentes ao que estiver em curso na data da publicação desta lei complementar.
+
+**Artigo 26 -** O Poder Executivo regulamentará esta lei complementar.
+
+**Artigo 27 -** As despesas resultantes desta lei complementar correrão à conta das dotações consignadas no orçamento vigente, ficando o Poder Executivo autorizado a abrir créditos adicionais, se necessário, nos termos do artigo 43 da Lei federal n° 4.320, de 17 de março de 1964.
+
 **Artigo 28 -** Esta lei complementar e suas disposições transitórias entram em vigor na data de sua publicação, ficando revogados o artigo 13 da [Lei n° 7.698, de 10 de janeiro de 1992](https://www.al.sp.gov.br/norma/18776) e a [Lei complementar n° 733, de 23 de novembro de 1993](https://www.al.sp.gov.br/norma/14604).
 
 #### DISPOSIÇÕES TRANSITÓRIAS
 
-**Artigo 1° -** Aos servidores ocupantes de funções de docente abrangidas pelo disposto no § 2° do artigo 2° da Lei complementar n° 1.010, de 1° de junho de 2007, será assegurada a atribuição de carga horária equivalente a 12 (doze) horas semanais de trabalho, composta por 10 (dez) horas em atividades com alunos e 2 (duas) horas de trabalho pedagógico na escola, em atividades coletivas, observadas as seguintes condições:<br>
-**I -** os docentes deverão se inscrever e participar obrigatoriamente de processo de avaliação anual, no seu respectivo campo de atuação, na forma a ser disciplinada pela Secretaria da Educação;<br>
-**II -** os docentes que obtiverem índices iguais ou superiores aos mínimos fixados pela Secretaria de Educação ficarão dispensados das avaliações anuais subsequentes e passarão a concorrer, entre seus pares, no processo de atribuição de classes ou de aulas, na Faixa 3 a que se refere o inciso I do artigo 45 da [Lei complementar n° 444, de 27 de dezembro de 1985](https://www.al.sp.gov.br/norma/27099), antes dos demais servidores indicados na mesma faixa e antes dos candidatos à admissão como docentes;<br>
-**III -** a classificação final do docente para o processo de atribuição de classes ou de aulas, no respectivo campo de atuação, observará a ordem decrescente da soma dos pontos referentes ao tempo de serviço e aos títulos com os pontos obtidos na avaliação anual, que terá o limite máximo de 80 (oitenta) pontos;<br>
-**IV -** caso o total de aulas atribuídas no respectivo campo de atuação resulte aquém do limite fixado no "caput" deste artigo, aos docentes serão atribuídas horas de complementação de carga horária, no mínimo até atingir o referido limite, devendo ser cumpridas pelo docente de acordo com as normas expedidas pela Secretaria da Educação;<br>
-**V -** os docentes que não obtiverem os índices mínimos fixados no processo de avaliação não poderão concorrer no processo de atribuição de classes ou aulas e deverão cumprir a totalidade da carga horária prevista no "caput" deste artigo de acordo com as normas expedidas pela Secretaria da Educação, sem prejuízo da participação obrigatória nos subsequentes processos de avaliação anual.**<br>
-Parágrafo único -** A Secretaria de Educação poderá autorizar a participação dos docentes referidos no inciso II deste artigo nas avaliações anuais subsequentes, devendo ser considerada, para fins de classificação no processo de atribuição de classes ou aulas, o melhor índice obtido pelo docente nas avaliações de que participou.<br>
-**Artigo 2° -** Aplica-se o disposto no inciso V do artigo 1° destas Disposições Transitórias aos docentes que não possuam a habilitação mínima exigida para atribuição de classes ou aulas nos respectivos campos de atuação, estabelecido o prazo de 1 (um) ano, contado da data da vigência desta lei complementar, para obtenção da referida habilitação.<br>
-**Artigo 3° -** Aos docentes abrangidos pelo disposto no parágrafo único do artigo 25 desta lei complementar serão atribuídas classes ou aulas disponíveis, conforme condições e limites estabelecidos pela Secretaria da Educação, observados os incisos I e III do artigo 1° destas Disposições Transitórias.<br>
+**Artigo 1° -** Aos servidores ocupantes de funções de docente abrangidas pelo disposto no § 2° do artigo 2° da Lei complementar n° 1.010, de 1° de junho de 2007, será assegurada a atribuição de carga horária equivalente a 12 (doze) horas semanais de trabalho, composta por 10 (dez) horas em atividades com alunos e 2 (duas) horas de trabalho pedagógico na escola, em atividades coletivas, observadas as seguintes condições:
+
+**I -** os docentes deverão se inscrever e participar obrigatoriamente de processo de avaliação anual, no seu respectivo campo de atuação, na forma a ser disciplinada pela Secretaria da Educação;
+
+**II -** os docentes que obtiverem índices iguais ou superiores aos mínimos fixados pela Secretaria de Educação ficarão dispensados das avaliações anuais subsequentes e passarão a concorrer, entre seus pares, no processo de atribuição de classes ou de aulas, na Faixa 3 a que se refere o inciso I do artigo 45 da [Lei complementar n° 444, de 27 de dezembro de 1985](https://www.al.sp.gov.br/norma/27099), antes dos demais servidores indicados na mesma faixa e antes dos candidatos à admissão como docentes;
+
+**III -** a classificação final do docente para o processo de atribuição de classes ou de aulas, no respectivo campo de atuação, observará a ordem decrescente da soma dos pontos referentes ao tempo de serviço e aos títulos com os pontos obtidos na avaliação anual, que terá o limite máximo de 80 (oitenta) pontos;
+
+**IV -** caso o total de aulas atribuídas no respectivo campo de atuação resulte aquém do limite fixado no "caput" deste artigo, aos docentes serão atribuídas horas de complementação de carga horária, no mínimo até atingir o referido limite, devendo ser cumpridas pelo docente de acordo com as normas expedidas pela Secretaria da Educação;
+
+**V -** os docentes que não obtiverem os índices mínimos fixados no processo de avaliação não poderão concorrer no processo de atribuição de classes ou aulas e deverão cumprir a totalidade da carga horária prevista no "caput" deste artigo de acordo com as normas expedidas pela Secretaria da Educação, sem prejuízo da participação obrigatória nos subsequentes processos de avaliação anual.**
+
+Parágrafo único -** A Secretaria de Educação poderá autorizar a participação dos docentes referidos no inciso II deste artigo nas avaliações anuais subsequentes, devendo ser considerada, para fins de classificação no processo de atribuição de classes ou aulas, o melhor índice obtido pelo docente nas avaliações de que participou.
+
+**Artigo 2° -** Aplica-se o disposto no inciso V do artigo 1° destas Disposições Transitórias aos docentes que não possuam a habilitação mínima exigida para atribuição de classes ou aulas nos respectivos campos de atuação, estabelecido o prazo de 1 (um) ano, contado da data da vigência desta lei complementar, para obtenção da referida habilitação.
+
+**Artigo 3° -** Aos docentes abrangidos pelo disposto no parágrafo único do artigo 25 desta lei complementar serão atribuídas classes ou aulas disponíveis, conforme condições e limites estabelecidos pela Secretaria da Educação, observados os incisos I e III do artigo 1° destas Disposições Transitórias.
+
 **Artigo 4° -** Os docentes abrangidos por estas Disposições Transitórias serão dispensados, caso não se inscrevam ou imotivadamente não participem do processo de avaliação previsto no inciso I de seu artigo 1°, sem prejuízo do disposto no artigo 35, IV, da [Lei n° 500, de 13 de novembro de 1974](https://www.al.sp.gov.br/norma/39651).
 
 **Artigo 5° -** Os contratados para o exercício de função docente nos termos desta lei complementar poderão celebrar novo contrato de trabalho, cuja vigência fica limitada ao período correspondente ao ano letivo de 2012, desde que atendidos os seguintes requisitos: (NR)
@@ -594,17 +650,30 @@ _\- § 3° acrescentado pela [Lei Complementar n° 1.385, de 13/06/2023](https:/
 
 Palácio dos Bandeirantes, 16 de julho de 2009
 
-JOSÉ SERRA<br>
-Paulo Renato Souza<br>
-Secretário da Educação<br>
-Luiz Roberto Barradas Barata<br>
-Secretário da Saúde<br>
-Sidney Estanislau Beraldo<br>
-Secretário de Gestão Pública<br>
-Mauro Ricardo Machado Costa<br>
-Secretário da Fazenda<br>
-Francisco Vidal Luna<br>
-Secretário de Economia e Planejamento<br>
-Aloysio Nunes Ferreira Filho<br>
-Secretário-Chefe da Casa Civil<br>
+JOSÉ SERRA
+
+Paulo Renato Souza
+
+Secretário da Educação
+
+Luiz Roberto Barradas Barata
+
+Secretário da Saúde
+
+Sidney Estanislau Beraldo
+
+Secretário de Gestão Pública
+
+Mauro Ricardo Machado Costa
+
+Secretário da Fazenda
+
+Francisco Vidal Luna
+
+Secretário de Economia e Planejamento
+
+Aloysio Nunes Ferreira Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 16 de julho de 2009.

@@ -1,5 +1,3 @@
-###DEC-005928-0-000-13-10-2006@@@
-
 DECRETO Nº 5.928, DE 13 DE OUTUBRO DE 2006.
 
 Dá nova redação aos arts. 8o, 11, 14, 15, 16 e 17 do Anexo I ao Decreto no 5.735, de 27 de março de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Instituto Nacional de Colonização e Reforma Agrária - INCRA.
@@ -127,5 +125,3 @@ LUIZ INÁCIO LULA DA SILVA
            Paulo Bernardo Silva
 
         Guilherme Cassel
-
-Este texto não substitui o publicado no D.O.U. de 16.10.2006.

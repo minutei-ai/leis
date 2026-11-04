@@ -1,5 +1,3 @@
-###DEL-003037-0-000-10-02-1941@@@
-
 DECRETO-LEI N. 3.037 – DE 10 DE FEVEREIRO DE 1941
 
 Fixa as taxas a que estão sujeitas as cartas de reconhecimento dos sindicatos e associações sindicais de grau superior

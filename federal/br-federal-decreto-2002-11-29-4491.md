@@ -1,5 +1,3 @@
-###DEC-004491-0-000-29-11-2002@@@
-
 DECRETO NO- 4.491, DE 29 DE NOVEMBRO DE 2002
 
 Prorroga o prazo de que trata o art. 7o- da Lei no- 10.453, de 13 de maio de 2002, que dispõe sobre subvenções ao preço e ao transporte do álcool combustíveis e subsídios ao preço do gás liquefeito de petróleo - GLP.

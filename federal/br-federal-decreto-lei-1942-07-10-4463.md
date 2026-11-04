@@ -1,5 +1,3 @@
-###DEL-004463-0-000-10-07-1942@@@
-
 DECRETO-LEI N. 4.463 – DE 10 DE JULHO DE 1942
 
 Outorga ao Governo do Estado de São Paulo autorização para o aproveitamento de energia hidráulica em uma quéda dágua no ribeirão Monte Alegre, em terras da Fazenda Estadual no municpio de Araraquara, Estado de São Paulo, para uso exclusivo da Estrada de Ferro Araraquara

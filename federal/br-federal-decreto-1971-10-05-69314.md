@@ -1,5 +1,3 @@
-###DEC-069314-0-000-05-10-1971@@@
-
 DECRETO Nº 69.314, DE 5 DE OUTUBRO DE 1971.
 
 Aprova o Regulamento da Secretaria-Geral do Conselho de Segurança Nacional.

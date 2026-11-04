@@ -1,5 +1,3 @@
-###DEC-048965-0-000-23-09-1960@@@
-
 DECRETO Nº 48.965, 23 de setembro de 1960.
 
 Dispõe sôbre a admissão, nos quadros das autarquias de previdência social e do IPASE, de servidores sediados em Brasília.

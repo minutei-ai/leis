@@ -1,5 +1,3 @@
-###DEC-084632-0-000-11-04-1980@@@
-
 DECRETO Nº 84.632, DE 11 DE ABRIL DE 1980.
 
 Dispõe sobre a composição do Conselho Nacional de Política Penitenciária, e altera redação do item VII do artigo 3º do Decreto nº 76.387, de 2 de outubro de 1975.

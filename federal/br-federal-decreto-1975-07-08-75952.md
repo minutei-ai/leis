@@ -1,5 +1,3 @@
-###DEC-075952-0-000-08-07-1975@@@
-
 DECRETO Nº 75.952 - DE 8 DE JULHO DE 1975.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia de desenvolvimento do Vale do São Francisco - CODEVASF, área de terra situada no Município de Pirapora, no Estado de Minas Gerais.

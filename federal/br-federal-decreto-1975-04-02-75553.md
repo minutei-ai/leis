@@ -1,5 +1,3 @@
-###DEC-075553-0-000-02-04-1975@@@
-
 DECRETO Nº 75.553, DE 2 DE ABRIL DE 1975
 
 Altera o Decreto nº 55.843, de 18 de março de 1965, que aprovou em caráter definitivo o enquadramento do pessoal da Universidade Federal do Rio de Janeiro, e dá outras providências.

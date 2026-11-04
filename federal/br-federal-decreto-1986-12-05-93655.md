@@ -1,5 +1,3 @@
-###DEC-093655-0-000-05-12-1986@@@
-
 DECRETO Nº 93.655, DE 5 DE DEZEMBRO DE 1986
 
 Dá novas atribuições à Secretaria do Tesouro Nacional.

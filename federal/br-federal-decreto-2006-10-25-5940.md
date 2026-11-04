@@ -1,5 +1,3 @@
-###DEC-005940-0-000-25-10-2006@@@
-
 DECRETO Nº 5.940, DE 25 DE OUTUBRO DE 2006.
 
 Institui a separação dos resíduos recicláveis descartados pelos órgãos e entidades da administração pública federal direta e indireta, na fonte geradora, e a sua destinação às associações e cooperativas dos catadores de materiais recicláveis, e dá outras providências.
@@ -55,5 +53,3 @@ Institui a separação dos resíduos recicláveis descartados pelos órgãos e e
 LUIZ INÁCIO LULA DA SILVA
 
          Patrus Ananias
-
-Este texto não substitui o publicado no DOU de 26.10.2006

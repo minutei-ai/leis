@@ -1,5 +1,3 @@
-###MPV-001992-0-027-11-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.992-27, DE 11 de abril de 2000.
 
 Altera dispositivos das Leis nºs 9.082, de 25 de julho de 1995, 9.293, de 15 de julho de 1996, 9.473, de 22 de julho de 1997, 9.692, de 27 de julho de 1998, e 9.811, de 28 de julho de 1999, que dispõem sobre as diretrizes para a elaboração da lei orçamentária para os exercícios de 1996, 1997, 1998, 1999 e 2000, respectivamente.

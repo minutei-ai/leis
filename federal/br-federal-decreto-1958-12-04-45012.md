@@ -1,5 +1,3 @@
-###DEC-045012-0-000-04-12-1958@@@
-
 DECRETO Nº 45.012, DE 4 DE DEZEMBRO DE 1958.
 
 Declara públicas, de uso comum, do domínio do Estado de Minas Gerais, as águas do rio Inferno.

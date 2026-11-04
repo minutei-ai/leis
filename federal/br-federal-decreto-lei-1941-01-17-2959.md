@@ -1,5 +1,3 @@
-###DEL-002959-0-000-17-01-1941@@@
-
 DECRETO-LEI N. 2.959 – DE 17 DE JANEIRO DE 1941
 
 Concede a vantagem prevista no art. 73 do Código de Vencimentos e Vantagens dos Militares do Exército aos militares da ativo que servirem em determinadas unidades.

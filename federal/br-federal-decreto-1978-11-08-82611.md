@@ -1,5 +1,3 @@
-###DEC-082611-0-000-08-11-1978@@@
-
 Decreto nº 82.611, de 08 de novembro de 1978
 
 Retifica a autorização de lavra conferida à Empresa de Mineração Calcita Rio Branco Ltda. pelo Decreto nº 24.692, de 22 de março de 1948, retificado pelo Decreto nº 63.129, de 20 de agosto de 1968.

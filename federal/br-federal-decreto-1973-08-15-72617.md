@@ -1,5 +1,3 @@
-###DEC-072617-0-000-15-08-1973@@@
-
 DECRETO Nº 72.617, DE 15 DE AGOSTO DE 1973.
 
 Autoriza o funcionamento do curso de Estudos Sociais, em substituição ao curso de História, da Faculdade de Ciências Humanas, mantida pelo Instituto Metodista de Ensino Superior, com sede em Rudge Ramos, São Bernardo do Campo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-049103-0-000-11-10-1960@@@
-
 Decreto nº 49.103, de 11 de outubro de 1960.
 
 Cria o distintivo para a Arma de Comunicações

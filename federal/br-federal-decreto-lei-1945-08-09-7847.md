@@ -1,5 +1,3 @@
-###DEL-007847-0-000-09-08-1945@@@
-
 DECRETO-LEI N. 7.847 – DE 9 DE AGÔSTO DE 1945
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 9.000.000,00, para despesas com o abastecimento dágua no Distrito Federal.

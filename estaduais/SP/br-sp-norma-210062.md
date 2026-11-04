@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210062)<br>
-
 # DECRETO N° 68.927, DE 26 DE SETEMBRO DE 2024
 
 ### _Regulamenta a Lei n° 18.025, de 9 de setembro de 2024, que dispõe sobre a criação de programa habitacional para policiais civis, policiais militares, policiais técnico-científicos e policiais penais vinculados à Secretaria da Segurança Pública ou à Secretaria da Administração Penitenciária._

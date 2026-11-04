@@ -1,5 +1,3 @@
-###DEL-003364-0-000-21-06-1941@@@
-
 DECRETO-LEI N. 3.364 – DE 21 DE JUNHO DE 1941
 
 Concede acréscimo de vencimentos aos Generais

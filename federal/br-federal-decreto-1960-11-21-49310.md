@@ -1,5 +1,3 @@
-###DEC-049310-0-000-21-11-1960@@@
-
 DECRETO Nº 49.310, DE 21 DE NOVEMBRO DE 1960.
 
 Dispõe sôbre o regime de providência e assistência do pessoal contratado pela Superintendência do Desenvolvimento do Nordeste.

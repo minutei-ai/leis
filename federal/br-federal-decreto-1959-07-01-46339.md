@@ -1,5 +1,3 @@
-###DEC-046339-0-000-01-07-1959@@@
-
 DECRETO Nº 46.339, DE 1º DE JULHO DE 1959.
 
 Autoriza à Companhia Fôrça e Luz de Minas Gerais a ampliar suas instalações produtoras de energia elétrica, em Belo Horizonte, Estado de Minas Gerais.

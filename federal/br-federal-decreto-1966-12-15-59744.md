@@ -1,5 +1,3 @@
-###DEC-059744-0-000-15-12-1966@@@
-
 DECRETO Nº 59.744, de 15 de dezembro de 1966.
 
 Autoriza o cidadão brasileiro Clovis Scripilliti a lavrar argila refratária, no Município de Poços de Caldas, Estado de Minas Gerais.

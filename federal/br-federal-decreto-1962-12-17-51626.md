@@ -1,5 +1,3 @@
-###DEC-051626-0-000-17-12-1962@@@
-
 DECRETO Nº 51.626, DE 17 DE DEZEMBRO DE 1962.
 
 Retifica o enquadramento dos cargos e funções do Ministério da Fazenda.

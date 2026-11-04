@@ -1,5 +1,3 @@
-###DEC-006597-0-000-06-10-2008@@@
-
 DECRETO Nº 6.597, DE 6 DE OUTUBRO DE 2008.
 
 Dispõe sobre a concessão de bônus e rebates sobre os financiamentos de custeio e investimento, contratados ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF em Municípios do Mato Grosso do Sul, cujos contratantes foram afetados pelas medidas de contenção da febre aftosa.

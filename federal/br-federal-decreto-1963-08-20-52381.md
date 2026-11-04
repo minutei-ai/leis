@@ -1,5 +1,3 @@
-###DEC-052381-0-000-20-08-1963@@@
-
 DECRETO Nº 52.381, DE 20 DE AGÔSTO DE 1963.
 
 Autoriza a Prefeitura Municipal de Mongaguá, Estado de São Paulo a encampar a concessão dos serviços locais de energia elétrica, de que é titular a Emprêsa Elétrica de Mongaguá.
@@ -29,8 +27,6 @@ Brasília, 20 de agôsto de 1963; 142º da Independência e 75º da República.
 JOÃO GOULART
 
 Antônio de Oliveira Britto
-
-###DEC-052381-0-000-20-08-1963@@@RET01+++
 
 DECRETO Nº 52.381, de 20 de agôsto de 1963.
 

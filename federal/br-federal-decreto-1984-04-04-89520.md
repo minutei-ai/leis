@@ -1,5 +1,3 @@
-###DEC-089520-0-000-04-04-1984@@@
-
 Decreto nº 89.520, de 04 de abril de 1984
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO EDUCAÇÃO RURAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Campo Grande, Estado de Mato Grosso do Sul.

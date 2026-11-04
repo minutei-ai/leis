@@ -1,5 +1,3 @@
-###DEL-003091-0-000-04-03-1941@@@
-
 DECRETO-LEI N. 3.091 – DE 4 DE MARÇO DE 1941
 
 Abre, pelo Ministério da justiça e Negócios Interiores, o crédito especial de 430:000$0, à conta da verba que especifica

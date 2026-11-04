@@ -1,5 +1,3 @@
-###DEC-091455-0-000-22-07-1985@@@
-
 Decreto nº 91.455, de 22 de julho de 1985
 
 Autoriza o aumento do Capital Social da Centrais Elétricas de Roraima - CER.

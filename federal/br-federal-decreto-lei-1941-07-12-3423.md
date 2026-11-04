@@ -1,5 +1,3 @@
-###DEL-003423-0-000-12-07-1941@@@
-
 DECRETO-LEI N. 3.423 – DE 12 DE JULHO DE 1941
 
 Dispõe sobre as carreiras de Escriturário e Escriturário (Serviço Regional) do extinto Quadro II – Estrada de Ferro Central do Brasil – do Ministério da Viação e Obras Públicas e dá outras Providências

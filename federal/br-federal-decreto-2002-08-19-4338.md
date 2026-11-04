@@ -1,5 +1,3 @@
-###DEC-004338-0-000-19-08-2002@@@
-
 DECRETO Nº 4.338 – DE 19 DE AGOSTO DE 2002
 
 Prorroga o prazo fixado no art. 2º do Decreto nº 2.413, de 4 de dezembro de 1997, que dispõe sobre as atribuições da Comissão Nacional de Energia Nuclear nas atividades de industrialização, importação e exportação de minerais e minérios de lítio e seus derivados.

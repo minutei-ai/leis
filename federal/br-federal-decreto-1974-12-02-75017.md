@@ -1,5 +1,3 @@
-###DEC-075017-0-000-02-12-1974@@@
-
 DECRETO Nº 75.017, DE 2 DE DEZEMBRO DE 1974.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Administrativas, mantida pelo Instituto Metodista de Ensino Superior, com sede na cidade de São Bernardo do Campo, Estado de São Paulo.

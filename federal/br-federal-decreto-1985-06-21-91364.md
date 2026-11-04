@@ -1,5 +1,3 @@
-###DEC-091364-0-000-21-06-1985@@@
-
 DECRETO nº 91.364, de 21 de Junho de 1985
 
 Altera a redação do § 1º, do artigo 2º do Decreto 80.281/77, que dispõe sobre a constituição da Comissão Nacional de Residência Médica.

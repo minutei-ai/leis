@@ -1,7 +1,3 @@
-1
-
-###DEL-002461-0-000-30-08-1988@@@
-
 # DECRETO‑LEI Nº 2.461, DE 30 DE AGOSTO DE 1988
 
 Altera a legislação do Imposto de Renda.

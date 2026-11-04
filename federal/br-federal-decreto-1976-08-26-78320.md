@@ -1,5 +1,3 @@
-###DEC-078320-0-000-26-08-1976@@@
-
 DECRETO Nº 78.320, DE 26 DE AGOSTO DE 1976.
 
 Autoriza a transformação do curso de Desenho e Plástica, em curso de Educação Artística da Faculdade de Desenho e Plástica, com sede na cidade de Franca, Estado de São Paulo.

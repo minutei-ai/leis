@@ -1,5 +1,3 @@
-###DEC-090308-0-000-16-10-1984@@@
-
 Decreto nº 90.308, de 16 de outubro de i984
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

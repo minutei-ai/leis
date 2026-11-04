@@ -1,5 +1,3 @@
-###DEC-069788-0-000-14-12-1971@@@
-
 DECRETO Nº 69.788 - DE 14 DE DEZEMBRO DE 1971
 
 Redistribui, com o respectivo ocupante, cargo do Ministério da Agricultura para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

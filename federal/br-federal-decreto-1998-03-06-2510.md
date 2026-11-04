@@ -1,5 +1,3 @@
-###DEC-002510-0-000-06-03-1998@@@
-
 DECRETO Nº 2.510, DE 6 DE MARÇO DE 1998
 
 Promulga o Acordo para Cooperação Científica e Tecnológica, celebrado entre o Governo da República Federativa do Brasil e o Governo da República da Polônia, em Varsóvia, em 5 de setembro de 1996.
@@ -128,4 +126,28 @@ Artigo X
 
 Feito em Varsóvia, aos 5 dias de setembro de 1996, em dois exemplares originais, nos idiomas português, polonês e inglês, sendo todos os textos igualmente autênticos. Em caso de divergência na sua interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da Republica</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Villarinho Pedroso</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Embaixador do Brasil na</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">República da Polônia</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">da Polônia</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Aleksander Luczak</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Presidente do Comitê Estatal</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">de Pesquisas Científicas</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Pelo Governo da Republica
+
+Federativa do Brasil
+
+Luiz Villarinho Pedroso
+
+Embaixador do Brasil na
+
+República da Polônia
+
+</td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Pelo Governo da República
+
+da Polônia
+
+Aleksander Luczak
+
+Presidente do Comitê Estatal
+
+de Pesquisas Científicas
+
+</td></tr></tbody></table>

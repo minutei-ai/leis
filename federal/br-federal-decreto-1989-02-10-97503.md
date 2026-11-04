@@ -1,5 +1,3 @@
-###DEC-097503-0-000-10-02-1989@@@
-
 DECRETO N° 97.503, DE 10 DE FEVEREIRO DE 1989
 
 Concede à COMPANHIA SIDERÚRGICA DE TUBARÃO CST autorização para proceder a aumento do seu capital social.

@@ -1,5 +1,3 @@
-###DEC-057716-0-000-02-02-1966@@@
-
 DECRETO Nº 57.716, DE 2 DE FEVEREIRO de 1966.
 
 Concede a Minérios e Fertilizantes do Brasil S.A., autorização para funcionar como emprêsa de mineração.

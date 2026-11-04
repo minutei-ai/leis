@@ -1,5 +1,3 @@
-###DEC-002870-0-000-10-12-1998@@@
-
 DECRETO Nº 2.870, DE 10 DE DEZEMBRO DE 1998.
 
 Promulga a Convenção Internacional sobre Preparo, Resposta e Cooperação em Caso de Poluição por Óleo, assinada em Londres, em 30 de novembro de 1990.

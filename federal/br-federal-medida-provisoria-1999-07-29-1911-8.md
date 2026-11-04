@@ -1,5 +1,3 @@
-###MPV-001911-0-008-29-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.911-8, DE 29 DE JULHO DE 1999.
 
 Altera dispositivos da Lei nº 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057162-0-000-04-11-1965@@@
-
 Decreto nº 57.162, de 4 de novembro de 1965.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil da fração ideal do terreno nacional interior que menciona, no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-064764-0-000-01-07-1969@@@
-
 DECRETO Nº 64.764 - DE 1º DE JULHO DE 1969.
 
 Redistribui, com os respectivos ocupantes para o Quadro de Pessoal - Parte Especial - do Ministério das Minas Energia, cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional, e dá outras providências.

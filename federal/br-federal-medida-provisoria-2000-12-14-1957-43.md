@@ -1,5 +1,3 @@
-###MPV-001957-0-043-14-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.957-43, DE 14 de dezembro DE 2000.
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

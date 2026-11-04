@@ -1,5 +1,3 @@
-###DEC-087812-0-000-16-11-1982@@@
-
 Decreto nº 87.812, de 16 de novembro de 1982
 
 Autoriza aumento de capital social do Hospital de Clínicas de Porto Alegre.

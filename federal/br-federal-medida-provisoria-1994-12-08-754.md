@@ -1,5 +1,3 @@
-###MPV-000754-0-000-08-12-1994@@@
-
 # MEDIDA PROVISÓRIA N° 754, DE 8 DE DEZEMBRO DE 1994
 
 Dá nova redação a dispositivos da Lei n° 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social.

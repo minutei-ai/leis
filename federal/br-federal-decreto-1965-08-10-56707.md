@@ -1,5 +1,3 @@
-###DEC-056707-0-000-10-08-1965@@@
-
 Decreto Nº 56.707, DE 10 DE AGôSTO DE 1965.
 
 Revoga o art. 2º do Decreto nº 30.078, de 19 de outubro de 1951.

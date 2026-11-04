@@ -1,6 +1,10 @@
 > **LEI Nº 4.506, DE 20 DE DEZEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.183, de 11 de outubro de 2023, que dispõe sobre o Conselho Estadual de Trânsito do Estado do Acre - CETRAN/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 4.183, de 11 de outubro de 2023, que dispõe sobre o Conselho Estadual de Trânsito do Estado do Acre - CETRAN/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

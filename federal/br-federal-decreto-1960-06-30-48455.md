@@ -1,5 +1,3 @@
-###DEC-048455-0-000-30-06-1960@@@
-
 DECRETO Nº 48.455, DE 30 DE JUNHO DE 1960.
 
 Revigora o Decreto nº 46.870, de 16 de setembro de 1959.

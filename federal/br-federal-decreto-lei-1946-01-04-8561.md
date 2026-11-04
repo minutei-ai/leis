@@ -1,5 +1,3 @@
-###DEL-008561-0-000-04-01-1946@@@
-
 DECRETO-LEI N. 8.561 – DE 4 DE JANEIRO DE 1946
 
 Dispõe sôbre a nomeação do Presidente e Vice-Presidente do Supremo Tribunal Federal.

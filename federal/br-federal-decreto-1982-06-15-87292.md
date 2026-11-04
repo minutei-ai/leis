@@ -1,5 +1,3 @@
-###DEC-087292-0-000-15-06-1982@@@
-
 Decreto nº 87.292, de 15 de junho de 1982
 
 Autoriza a Goiás Fertilizantes S/A - GOIASFÉRTIL a proceder ao aumento do limite do seu Capital Social.

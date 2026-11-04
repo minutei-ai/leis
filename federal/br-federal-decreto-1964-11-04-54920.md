@@ -1,5 +1,3 @@
-###DEC-054920-0-000-04-11-1964@@@
-
 DECRETO Nº 54 920, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Nagib Jafet a pesquisar minério de cobre, no município de Bom Jesus da Lapa, Estado da Bahia.

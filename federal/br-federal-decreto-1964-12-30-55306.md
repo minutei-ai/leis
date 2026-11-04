@@ -1,5 +1,3 @@
-###DEC-055306-0-000-30-12-1964@@@
-
 DECRETO Nº 55.306, DE 30 DE DEZEMBRO DE 1964.
 
 Aprova o aumento de capital do Banco do Estado da Guanabara S.A.

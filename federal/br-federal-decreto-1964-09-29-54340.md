@@ -1,5 +1,3 @@
-###DEC-054340-0-000-29-09-1964@@@
-
 DECRETO Nº 54.340, DE 29 DE SETEMBRO DE 1964.
 
 Retifica as relações que acompanharam os decretos que menciona.

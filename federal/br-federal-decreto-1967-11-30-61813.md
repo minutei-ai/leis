@@ -1,5 +1,3 @@
-###DEC-061813-0-000-30-11-1967@@@
-
 DECRETO Nº 61.813, DE 30 DE NOVEMBRO DE 1967.
 
 Retifica a redação dos incisos V e X do artigo 19 dos Estatutos da Financiadora de Estudos e Projetos S. A. - FINEP.

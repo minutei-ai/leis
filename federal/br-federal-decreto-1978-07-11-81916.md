@@ -1,5 +1,3 @@
-###DEC-081916-0-000-11-07-1978@@@
-
 Decreto nº 81.916, de 11 de julho de 1978
 
 Concede à Mineração Urandi S.A. o direito de lavrar minério de manganês no Município de Jacaraci, Estado da Bahia.

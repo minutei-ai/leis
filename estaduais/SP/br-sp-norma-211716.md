@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211716)<br>
-
 # DECRETO N° 70.020, DE 21 DE OUTUBRO DE 2025
 
 ### _Altera o Decreto n° 68.239, de 22 de dezembro de 2023, que autoriza a outorga de uso, em favor da Fundação para o Desenvolvimento da Educação - FDE, de parte do imóvel que especifica, e dá providências correlatas._

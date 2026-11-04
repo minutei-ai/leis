@@ -1,5 +1,3 @@
-###DEL-009114-0-000-01-04-1946@@@
-
 DECRETO-LEI N. 9.114 – DE 1 DE ABRIL DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar o Abrigo Teresa de Jesus do impôsto que menciona.

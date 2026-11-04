@@ -1,5 +1,3 @@
-###DEC-059936-0-000-06-01-1967@@@
-
 DECRETO Nº 59.936, DE 6 JANEIRO DE 1967.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$3.000.000.000 (três bilhões de cruzeiros), autorizado pelo Decreto-lei nº 37, de 18 de novembro de 1966, para atender a despesas que menciona.

@@ -6,7 +6,8 @@ Institui o “Dia Municipal do Doador de Sangue e Plaquetas"  e a “Semana Mun
 
 Art. 1º Fica instituído o “Dia Municipal do Doador Voluntário de Sangue e Plaquetas”, a ser comemorado, anualmente, no dia 14 de junho, e designa a “Semana Municipal de Incentivo à Doação de Sangue e Plaquetas”, a ser realizada na segunda quinzena do mês de junho, no âmbito do Município de Rio Verde-GO.
 
-Art. 2º A Semana Municipal de Incentivo à Doação de Sangue e Plaquetas tem por objetivo conscientizar a população rio-verdense, através de procedimentos informativos, educativos e organizados, sobre a importância de doação de sangue e plaquetas, seus procedimentos, sua confiabilidade, seus benefícios e quais os possíveis doadores.<br>
+Art. 2º A Semana Municipal de Incentivo à Doação de Sangue e Plaquetas tem por objetivo conscientizar a população rio-verdense, através de procedimentos informativos, educativos e organizados, sobre a importância de doação de sangue e plaquetas, seus procedimentos, sua confiabilidade, seus benefícios e quais os possíveis doadores.
+
 Parágrafo único. Será concedido o dia de folga ao servidor do Poder Legislativo Municipal que efetivar a sua doação, e mais um dia, a sua escolha, em um período de até 30 dias, a contar da data da doação.
 
 Art. 3º Esta semana será comemorada com destaque e deverá ser amplamente divulgada, ficando autorizado o Poder Público Municipal a estabelecer e organizar o calendário de atividades a serem desenvolvidos durante a semana.

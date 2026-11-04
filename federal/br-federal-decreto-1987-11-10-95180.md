@@ -1,5 +1,3 @@
-###DEC-095180-0-000-10-11-1987@@@
-
 DECRETO N° 95.180, DE 10 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Administração de Sistemas de Informações da Faculdade Ibero-Americana de Letras e Ciências Humanas.

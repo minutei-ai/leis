@@ -1,5 +1,3 @@
-###DEC-073540-0-000-23-01-1974@@@
-
 DECRETO Nº 73.540, DE 23 DE JANEIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra situadas no município de São Gonçalo, Estado do Rio de Janeiro.

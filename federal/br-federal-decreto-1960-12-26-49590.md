@@ -1,5 +1,3 @@
-###DEC-049590-0-000-26-12-1960@@@
-
 Decreto nº49.590, de 26 de dezembro de 1960.
 
 Revoga o art. 2º do Decreto nº48.325, de 20 de junho de 1960.

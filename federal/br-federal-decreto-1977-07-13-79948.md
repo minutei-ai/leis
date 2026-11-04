@@ -1,5 +1,3 @@
-###DEC-079948-0-000-13-07-1977@@@
-
 Decreto nº 79.948, de 13 de julho de 1977
 
 Concede reconhecimento aos Cursos de Ciências e de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras "Farias Brito", com sede na cidade de Guarulhos, Estado de São Paulo.

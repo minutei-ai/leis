@@ -1,5 +1,3 @@
-###DEC-068537-0-000-24-04-1971@@@
-
 DECRETO Nº 68.537 - DE 24 DE ABRIL DE 1971.
 
 Retifica o Decreto número 66.163, de 4 de fevereiro de 1970 que autorizou o funcionamento da Faculdade de Ciências Econômicas e Contábeis de Londrina, no Estado do Paraná.

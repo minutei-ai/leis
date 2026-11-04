@@ -1,5 +1,3 @@
-###DEC-006858-0-000-25-05-2009@@@
-
 DECRETO Nº 6.858, DE 25 DE MAIO DE 2009.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia para Construção de uma Ponte sobre o Rio Mamoré entre as Cidades de Guajará-Mirim e Guayaramerín, firmado em Brasília em 14 de fevereiro de 2007.

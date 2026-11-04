@@ -1,5 +1,3 @@
-###DEC-075243-0-000-17-01-1975@@@
-
 decreto nº 75.243, de 17 de janeiro de 1975.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

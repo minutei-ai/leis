@@ -1,5 +1,3 @@
-###DEC-075210-0-000-14-01-1975@@@
-
 DECRETO Nº 75.210, DE 14 DE JANEIRO DE 1975.
 
 Revoga o Decreto nº 63.221, de 5 de setembro de 1968, que dispõe sobre a cessão do domínio pleno de terrenos da União, ao Banco Nacional da Habitação.

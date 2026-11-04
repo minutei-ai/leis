@@ -1,5 +1,3 @@
-###DEC-096504-0-000-15-08-1988@@@
-
 DECRETO N° 96.504, DE 15 DE AGOSTO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “SITIO CATINGUEIRA”, classificado como “latifúndio por exploração”, situado no Município de Baraúna, no Estado do Rio Grande do Norte, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.681 de 19 de maio de 1986, e dá outras providências.

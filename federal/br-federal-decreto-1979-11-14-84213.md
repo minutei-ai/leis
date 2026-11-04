@@ -1,5 +1,3 @@
-###DEC-084213-0-000-14-11-1979@@@
-
 Decreto nº 84.213, de 14 de novembro de 1979
 
 Renova por 10 (dez) anos a concessão outorgada à Emissora de Educação Rural Ltda. para que a Fundação Paz na Terra passe a executar serviço da radiodifusão sonora em onda tropical, na cidade de Natal, Estado do Rio Grande do Norte.

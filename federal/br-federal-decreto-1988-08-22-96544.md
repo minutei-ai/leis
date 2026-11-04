@@ -1,5 +1,3 @@
-###DEC-096544-0-000-22-08-1988@@@
-
 DECRETO N° 96.544, DE 22 DE AGOSTO DE 1988
 
 Outorga concessão à REDE SANMORI DE RÁDIO E TELEVISÃO LTDA., para explorar ser­viço de radiodifusão sonora em onda mé­dia, na Cidade de Porto Velho, Estado de Rondônia.

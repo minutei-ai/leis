@@ -1,5 +1,3 @@
-###DEL-001926-0-000-17-02-1982@@@
-
 # DECRETO-LEI Nº 1.926, DE 27 DE FEVEREIRO DE 1982
 
 Reajusta o valor de soldo base de cálculo da remuneração dos PM da Polícia Militar e dos BM do Corpo de Bombeiros do Distrito Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007521-0-000-03-05-1945@@@
-
 DECRETO-LEI N. 7.521 – DE 3 DE MAIO DE 1945
 
 Prorroga o prazo de exercício dos atuais vogais e suplentes dos Conselhos Regionais do Trabalho e Juntas de Conciliação e Julgamento

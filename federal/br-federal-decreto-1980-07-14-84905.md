@@ -1,5 +1,3 @@
-###DEC-084905-0-000-14-07-1980@@@
-
 Decreto nº 84.905, de 14 juLho de 1980.
 
 Autoriza o Ministério da Aeronáutica a ceder, sob o regime de arrendamento, imóveis sob a sua jurisdição, e dá outras providências.

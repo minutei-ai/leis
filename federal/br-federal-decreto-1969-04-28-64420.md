@@ -1,5 +1,3 @@
-###DEC-064420-0-000-28-04-1969@@@
-
 DECRETO Nº 64.420, DE 28 DE ABRIL DE 1969.
 
 Autoriza a cessão da área de terra que menciona, ao Instituto Brasileiro de Desenvolvimento Florestal.

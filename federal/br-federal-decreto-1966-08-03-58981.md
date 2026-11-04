@@ -1,5 +1,3 @@
-###DEC-058981-0-000-03-08-1966@@@
-
 DECRETO Nº 58.981, DE 3 DE AGÔSTO DE 1966.
 
 Autoriza o Banco Central da República do Brasil, como Agente da União Federal, a dar a garantia do Tesouro Nacional à operação de crédito que menciona.

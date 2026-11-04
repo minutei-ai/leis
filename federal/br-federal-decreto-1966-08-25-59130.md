@@ -1,5 +1,3 @@
-###DEC-059130-0-000-25-08-1966@@@
-
 DECRETO Nº 59.130, de 25 de agôsto de 1966.
 
 Restringe a soma de privilégio da Prefeitura Municipal de Alto Rio Doce e outorga à Centrais Elétrica de Minas Gerais S.A. a respectiva concessão.

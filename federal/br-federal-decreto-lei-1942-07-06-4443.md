@@ -1,5 +1,3 @@
-###DEL-004443-0-000-06-07-1942@@@
-
 DECRETO-LEI N. 4.443 – DE 6 DE JULHO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de 5.849:000$0, para despesas com os serviços do Imposto de Renda

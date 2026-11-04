@@ -1,5 +1,3 @@
-###DEC-092343-0-000-28-01-1986@@@
-
 DECRETO Nº 92.343, DE 28 DE JANEIRO DE 1986
 
 Declara de utilidade pública as instituições que menciona.

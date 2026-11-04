@@ -12,11 +12,27 @@ Art. 1º - Fica desmembrada a Área Industrial nº 01 da Quadra 113-A situada no
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMOVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center"><strong>UMA ÁREA INDUSTRIAL DE Nº 01</strong> (Possui APP)</td><td style="text-align:center"><strong>5.510,00</strong></td></tr></tbody></table>
+IMOVEL
+
+ÁREA (m²)
+
+**UMA ÁREA INDUSTRIAL DE Nº 01** (Possui APP)
+
+**5.510,00**
 
 SITUAÇÃO PROPOSTA
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEIS</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center"><strong>ÁREA 01A</strong></td><td style="text-align:center"><strong>145,18</strong></td></tr><tr><td style="text-align:center"><strong>ÁREA 01B </strong>Possui APP Destinada ao sistema viário</td><td style="text-align:center"><strong>5.364,82</strong></td></tr></tbody></table>
+IMÓVEIS
+
+ÁREA (m²)
+
+**ÁREA 01A**
+
+**145,18**
+
+**ÁREA 01B **Possui APP Destinada ao sistema viário
+
+**5.364,82**
 
 Parágrafo único. O desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2022.226.419, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
@@ -24,8 +40,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogando
 
 Aparecida de Goiânia, Estado de Goiás, aos 16 de maio de 2023.
 
-VILMAR MARIANO <br>
+VILMAR MARIANO 
+
 Prefeito Municipal
 
-JULIO CÉSAR CHAGAS MENDES<br>
+JULIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

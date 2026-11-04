@@ -1,5 +1,3 @@
-###DEC-066518-0-000-30-04-1970@@@
-
 DECRETO Nº 65.518, DE 30 DE ABRIL DE 1970.
 
 Declara de utilidade pública o Centro Espírita Amor e Caridade, com sede em Paracambi, Estado do Rio de Janeiro.

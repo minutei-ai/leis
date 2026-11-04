@@ -1,5 +1,3 @@
-###DEC-070470-0-000-03-05-1972@@@
-
 DECRETO Nº 70.470, DE 3 DE MAIO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação e Ciências "Nova Piratininga" - São Paulo.

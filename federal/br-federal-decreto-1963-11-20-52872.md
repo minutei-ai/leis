@@ -1,5 +1,3 @@
-###DEC-052872-0-000-20-11-1963@@@
-
 decreto nº 52.872, de 20 de novembro de 1963.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Avaré, com sede em Avaré, Estado de S. Paulo,

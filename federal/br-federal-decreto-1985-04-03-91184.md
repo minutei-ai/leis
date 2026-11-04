@@ -1,5 +1,3 @@
-###DEC-091184-0-000-03-04-1985@@@
-
 Decreto nº 91.184, de 03 de abril de 1985.
 
 Fixa os Efetivos dos Quadros Complementares de Oficiais da Marinha.

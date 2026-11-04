@@ -1,6 +1,7 @@
 LEI Nº 11.061 DE 01 DE JULHO DE 2008
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [11.217](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11217-de-18-de-setembro-de-2008) , de 18 de setembro de 2008 - Regulamenta as disposições da Lei nº [11.061](https://www.legislabahia.ba.gov.br/documentos/lei-no-11061-de-01-de-julho-de-2008) , de 01 de julho de 2008, que instituiu, no âmbito da Secretaria da Segurança Pública do Estado da Bahia, o Serviço Auxiliar Administrativo e dá outras providências.
 
 Institui, no âmbito da Secretaria da Segurança Pública do Estado da Bahia, o Serviço Auxiliar Administrativo e dá outras providências.

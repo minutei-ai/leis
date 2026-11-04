@@ -1,5 +1,3 @@
-###DEC-062258-0-000-14-02-1968@@@
-
 DECRETO Nº 62.258, DE 14 DE FEVEREIRO DE 1968.
 
 Suspende o funcionamento do “Instituto de Investigações Científicas e Criminais, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-060565-0-000-10-04-1967@@@
-
 DECRETO Nº 60.565, DE 10 DE ABRIL DE 1967.
 
 Cria Grupo de Trabalho para estudar e propor medidas para solução dos problemas da indústria nacional de fosfatos, em especial no Nordeste.

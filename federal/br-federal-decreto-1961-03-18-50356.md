@@ -1,5 +1,3 @@
-###DEC-050356-0-000-18-03-1961@@@
-
 DECRETO Nº 50.356, DE 18 DE MARÇO DE 1961.
 
 Revoga o Decreto nº 50.221, de 28 de janeiro de 1961, e dá outras providências.

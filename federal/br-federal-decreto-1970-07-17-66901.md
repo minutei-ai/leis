@@ -1,5 +1,3 @@
-###DEC-066901-0-000-17-07-1970@@@
-
 Decreto nº 66.901, de 17 de julho de 1970.
 
 Declara caduco o Decreto nº 18.406 de 18 de abril de 1945, alterado pelo de nº 19.326, de 1 de agôsto de 1945.

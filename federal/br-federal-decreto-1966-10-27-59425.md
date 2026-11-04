@@ -1,5 +1,3 @@
-###DEC-059425-0-000-27-10-1966@@@
-
 Decreto nº 59.425, de 27 de outubro de 1966
 
 Retifica o Decreto nº 59.179, de 6 de setembro de 1966.

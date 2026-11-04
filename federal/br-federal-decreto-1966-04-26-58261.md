@@ -1,5 +1,3 @@
-###DEC-058261-0-000-26-04-1966@@@
-
 DECRETO Nº 58.261, DE 26 DE ABRIL DE 1966.
 
 Transforma o Consulado de carreira em Sevilha em Consulado honorário.

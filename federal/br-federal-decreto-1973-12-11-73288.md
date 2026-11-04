@@ -1,5 +1,3 @@
-###DEC-073288-0-000-11-12-1973@@@
-
 DECRETO Nº 73.288 - DE 11 DE DEZEMBRO DE 1973
 
 Concede indulto a sentenciados primários e dá outras providências.

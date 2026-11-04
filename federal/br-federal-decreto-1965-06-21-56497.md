@@ -1,5 +1,3 @@
-###DEC-056497-0-000-21-06-1965@@@
-
 DECRETO Nº 56.497, DE 21 DE JUNHO DE 1965.
 
 Declara de utilidade pública a “Associação de Educação Familiar e Social do Rio Grande do Sul”, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

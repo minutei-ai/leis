@@ -1,5 +1,3 @@
-###DEC-057090-0-000-19-10-1965@@@
-
 DECRETO Nº 57.090, DE 19 DE OUTUBRO DE 1965.
 
 Autoriza a firma Icominas S.A. - Emprêsa de Mineração a pesquisar calcita, calcário e mármore no município de Pedro Leopoldo, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-077715-0-000-31-05-1976@@@
-
 DECRETO Nº 77.715 - DE 31 DE MAIO DE 1976
 
 Autoriza a Universidade Federal de Minas Gerais a alienar imóvel de sua propriedade e dá outras providências.

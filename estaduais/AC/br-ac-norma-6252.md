@@ -1,6 +1,10 @@
 > **LEI Nº 4.508, DE 20 DE DEZEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.117, de 26 de janeiro de 1994, que dispõe sobre a política ambiental do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.117, de 26 de janeiro de 1994, que dispõe sobre a política ambiental do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

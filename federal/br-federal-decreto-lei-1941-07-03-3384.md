@@ -1,5 +1,3 @@
-###DEL-003384-0-000-03-07-1941@@@
-
 DECRETO-LEI N. 3.384 – DE 3 DE JULHO DE 1941
 
 Estende aos alunos dos cursos de Educação Física, de Vitória, Estado do Espírito Santo, as regalias dos licenciados em educação física

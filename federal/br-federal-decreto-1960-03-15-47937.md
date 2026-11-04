@@ -1,5 +1,3 @@
-###DEC-047937-0-000-15-03-1960@@@
-
 DECRETO Nº 47.937, DE 15 DE MARÇO DE 1960.
 
 Dispõe sôbre diárias aos militares mandados servir em Brasília e dá outras providências.

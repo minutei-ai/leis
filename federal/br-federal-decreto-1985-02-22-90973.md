@@ -1,5 +1,3 @@
-###DEC-090973-0-000-22-02-1985@@@
-
 Decreto nº 90.973, de 22 de fevereiro dE 1985
 
 Autoriza o funcionamento do Curso de Letras da Autarquia Universidade do Sudoeste/BA.

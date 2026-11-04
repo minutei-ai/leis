@@ -1,5 +1,3 @@
-###DEC-077929-0-000-30-06-1976@@@
-
 Decreto nº 77.929, de 30 de junho de 1976.
 
 Declara de utilidade pública, para fins de desapropriação, dois terrenos necessários à implantação da subestação Caiçara, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

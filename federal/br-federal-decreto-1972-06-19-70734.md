@@ -1,5 +1,3 @@
-###DEC-070734-0-000-19-06-1972@@@
-
 DECRETO Nº 70.734, DE 19 DE JUNHO DE 1972.
 
 Dispõe sobre a Comissão Organizadora do VII Congresso Indigenista Interamericano.

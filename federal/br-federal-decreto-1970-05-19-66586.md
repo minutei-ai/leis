@@ -1,5 +1,3 @@
-###DEC-066586-0-000-19-05-1970@@@
-
 Decreto nº 66.586, de 19 de maio de 1970.
 
 Outorga concessão à Companhia Telefônica de Fortaleza, para explorar o Serviço de Telefonia Público Urbano, na cidade de Fortaleza Estado do Ceará.

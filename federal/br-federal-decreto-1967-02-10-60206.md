@@ -1,5 +1,3 @@
-###DEC-060206-0-000-10-02-1967@@@
-
 DECRETO Nº 60.206, DE 10 DE FEVEREIRO DE 1967.
 
 Retifica o Decreto nº 54.261, de 4 de setembro de 1964, que retificou o enquadramento dos cargos, funções e empregos de funcionários do Ministério da Aeronáutica.

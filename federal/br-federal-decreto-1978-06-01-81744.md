@@ -1,5 +1,3 @@
-###DEC-081744-0-000-01-06-1978@@@
-
 Decreto nº 81.744, de 1º de junho de 1978.
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos que menciona, situados no Município de Rosário, Estado do Maranhão.

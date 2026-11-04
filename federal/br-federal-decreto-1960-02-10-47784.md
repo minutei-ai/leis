@@ -1,5 +1,3 @@
-###DEC-047784-0-000-10-02-1960@@@
-
 DECRETO Nº 47.784, DE 10 DE FEVEREIRO DE 1960.
 
 Altera a denominação da Escola de Serviço Social do Maranhão.

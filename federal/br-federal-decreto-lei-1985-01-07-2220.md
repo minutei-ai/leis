@@ -1,5 +1,3 @@
-###DEL-002220-0-000-07-01-1985@@@
-
 # DECRETO-LEI Nº 2.220, DE 07 DE JANEIRO DE 1985
 
 Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Superior Tribunal Militar e das Auditorias da Justiça Militar e dá outras providências.

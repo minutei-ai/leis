@@ -525,7 +525,3 @@ Art. 12 – Revogam-se as disposições em contrário, entrando este Decreto-lei
 Palácio da Liberdade, em Belo Horizonte, 10 de julho de 1947.
 
 MILTON SOARES CAMPOS – Governador do Estado.
-
-\===================
-
-Data da última atualização: 30/5/2008.

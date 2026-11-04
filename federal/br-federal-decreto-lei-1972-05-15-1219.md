@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a6fdcd4b-8484-4cc0-94ec-f7af9d709d99/texto#nowhere)
 
-###DEL-001219-0-000-15-05-1972@@@
-
 # DECRETO-LEI Nº 1.219, DE 15 DE MaiO DE 1972
 
 Dispõe sobre a concessão de estímulos à exportação de manufaturados e dá outras providências.

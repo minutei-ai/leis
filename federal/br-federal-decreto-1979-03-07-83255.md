@@ -1,5 +1,3 @@
-###DEC-083255-0-000-07-03-1979@@@
-
 DECRETO Nº 83.255, DE 07 DE MARÇO DE 1979
 
 Retifica a concessão de lavra outorgada à Mineração Lapa Vermelha Ltda. pelo Decreto nº 72.002, de 27de março de 1973.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000434-0-000-24-01-1992@@@
-
 DECRETO Nº 434, DE 24 DE JANEIRO DE 1992
 
 Dispõe sobre o provimento dos cargos da Carreira Finanças e Controle.

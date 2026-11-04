@@ -1,5 +1,3 @@
-###DEC-080432-0-000-28-09-1977@@@
-
 DECRETO Nº 80.432, DE 28 DE SETEMBRO DE 1977.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Santo Antonio do Sudoeste, Estado do Paraná, compreendido na área prioritária de reforma agrária, de que tratam os Decretos nºs 69.411, de 22 de outubro de 1971, e 78.422, de 15 de fevereiro de 1976.
@@ -23,8 +21,6 @@ Brasília, 28 de setembro de 1977; 156º da Independência e 89º da República.
 Ernesto Geisel
 
 Alysson Paulinelli
-
-###DEC-080432-0-000-28-09-1977@@@RET01+++
 
 DECRETO Nº 80.432, DE 28 DE SETEMBRO DE 1977.
 

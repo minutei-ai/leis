@@ -1,5 +1,3 @@
-###DEC-061364-0-000-18-09-1967@@@
-
 decreto nº 61.364, de 18 de setembro de 1967.
 
 declara a cessação da exploração dos serviços de energia elétrica pela Companhia Tecidos Pitanguiense no município de Pitanguí, Estado de Minas Gerais, outorga concessão a Centrais Elétricas de Minas Gerais S. A., no mesmo município e dá outras providências.

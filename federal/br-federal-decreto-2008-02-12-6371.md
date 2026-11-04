@@ -1,5 +1,3 @@
-###DEC-006371-0-000-12-02-2008@@@
-
 DECRETO Nº 6.371, DE 12 DE FEVEREIRO DE 2008.
 
 Dá nova redação ao art. 1o do Decreto no 4.801, de 6 de agosto de 2003, que cria a Câmara de Relações Exteriores e Defesa Nacional, do Conselho de Governo.
@@ -31,5 +29,3 @@ Brasília, 12 de fevereiro de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Jorge Armando Felix
-
-Este texto não substitui o publicado no DOU de 13.2.2008

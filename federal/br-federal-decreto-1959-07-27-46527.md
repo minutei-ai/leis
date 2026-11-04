@@ -1,5 +1,3 @@
-###DEC-046527-0-000-27-07-1959@@@
-
 DECRETO Nº 46.527, DE 27 DE JULHO DE 1959.
 
 Desvincula da concessão para distribuir energia elétrica no distrito de Santa Clara, município de Porciúncula, Estado do Rio da Janeiro os bens e instalações que constituem o acêrvo pertencente ao primitivo concessionário.

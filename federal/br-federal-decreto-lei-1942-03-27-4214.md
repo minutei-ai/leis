@@ -1,5 +1,3 @@
-###DEL-004214-0-000-27-03-1942@@@
-
 DECRETO-LEI N. 4.214 – DE 27 DE MARÇO DE 1942
 
 Cria uma coletoria federal no município de Conceição das Alagoas, no Estado de Minas Gerais, e dá outras providências.

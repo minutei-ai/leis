@@ -1,5 +1,3 @@
-###DEL-009762-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.762 – DE 6 DE SETEMBRO DE 1946
 
 Dispõe sôbre as obrigações dos “pecuaristas”. previstas no Decreto-lei nº 9.686, de 30 de agôsto de 1946.

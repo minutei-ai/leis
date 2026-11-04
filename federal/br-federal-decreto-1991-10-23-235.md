@@ -1,7 +1,3 @@
-1
-
-###DEC-000235-0-000-23-10-1991@@@
-
 DECRETO Nº 235, DE 23 DE OUTUBRO DE 1991
 
 Regulamenta a aplicação do disposto no art. 4º da Lei nº 8.174, de 30 de janeiro de 1991.

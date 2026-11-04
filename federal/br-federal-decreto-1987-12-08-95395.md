@@ -1,5 +1,3 @@
-###DEC-095395-0-000-08-12-1987@@@
-
 DECRETO Nº 95.395, DE 08 DE DEZEMBRO DE 1987
 
 Outorga concessão à ACD SISTEMA DE RÁDIO E TELEVISÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Araxá, Estado de Minas Gerais.

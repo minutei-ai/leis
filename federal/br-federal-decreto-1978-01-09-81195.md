@@ -1,5 +1,3 @@
-###DEC-081195-0-000-09-01-1978@@@
-
 Decreto nº 81.195, de 9 de janeiro de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da companhia Elétrica de Caiuá, no estado de São Paulo.

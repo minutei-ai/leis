@@ -1,5 +1,3 @@
-###DEC-092740-0-000-03-06-1986@@@
-
 DECRETO Nº 92.740, DE 3 DE JUNHO DE 1986
 
 Autoriza a Empresa Brasileira de Compressores S.A., com sede no Município de Joinville, Estado de Santa Catarina, a utilizar o trabalho noturno da mulher maior de dezoito anos, e dá outras providências.
@@ -21,8 +19,6 @@ Brasília, 3 de junho de 1986; 165º da Independência e 98º da República.
 JOSÉ SARNEY
 
 Eros Antônio de Almeida
-
-###DEC-092740-0-000-03-06-1986@@@RET01+++
 
 # Decreto nº 92.740, de 03 de junho de 1986
 

@@ -1,5 +1,3 @@
-###DEC-091023-0-000-04-03-1985@@@
-
 DECRETO Nº 91.023, DE 04 DE MARÇO DE 1985
 
 Autoriza a Telecomunicações Brasileira S.A. - TELEBRÁS e suas controladas a promoverem aumento de capital social.

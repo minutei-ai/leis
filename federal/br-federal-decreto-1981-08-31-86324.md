@@ -1,5 +1,3 @@
-###DEC-086324-0-000-31-08-1981@@@
-
 Decreto nº 86.324, de 31 de agosto de 1981
 
 Dispõe sobre o registro profissional dos professores e dá outras providências.

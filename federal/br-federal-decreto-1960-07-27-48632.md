@@ -1,5 +1,3 @@
-###DEC-048632-0-000-27-07-1960@@@
-
 DECRETO Nº 48.632, DE 27 DE JULHO DE 1960.
 
 Outorga concessão à Rádio Difusora Mearim Sociedade Anônima para instalar uma estação radiodifusora.

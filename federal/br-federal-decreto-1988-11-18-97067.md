@@ -1,5 +1,3 @@
-###DEC-097067-0-000-18-11-1988@@@
-
 DECRETO N° 97.067, DE 18 DE NOVEMBRO DE 1988
 
 Prorroga o prazo de que trata o art. 6°, do Decreto n° 94.553, de 6 de julho de 1987.

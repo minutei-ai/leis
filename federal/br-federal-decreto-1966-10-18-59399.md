@@ -1,5 +1,3 @@
-###DEC-059399-0-000-18-10-1966@@@
-
 DECRETO Nº 59.399, DE 18 DE OUTUBRO DE 1966.
 
 Extingue organizações militares do Exército, e dá outras providências.

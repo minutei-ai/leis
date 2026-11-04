@@ -1,5 +1,3 @@
-###DEC-050707-0-000-31-05-1961@@@
-
 DECRETO Nº 50.707, DE 31 DE MAIO DE 1961.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. a construir uma linha de transmissão entre as cidades de Três Pontas e Campo do Meio, passando por Campos Gerais, Estado de Minas Gerais

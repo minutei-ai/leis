@@ -1,5 +1,3 @@
-###MPV-001754-0-013-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.754-13, DE 13 DE JANEIRO DE 1999.
 
 Dispõe sobre a simplificação do arquivamento de atos nas Juntas Comerciais e do protesto de título de dívida de microempresas e de empresas de pequeno porte, e dá outras providências.

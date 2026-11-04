@@ -1,5 +1,3 @@
-###DEC-007504-0-000-24-06-2011-PUB-01@@@
-
 DECRETO Nº 7.504, DE 24 DE JUNHO DE 2011
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e altera o Anexo II do Decreto nº 5.135, de 7 de julho de 2004.

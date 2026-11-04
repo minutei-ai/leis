@@ -2,7 +2,11 @@ Revogada pela Lei nº [3.601 , de 09 de Janeiro de 2020.](https://legis.ac.gov.b
 
 > **LEI Nº 3.485, DE 14 DE JUNHO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.471, de 26 de dezembro de 2018, que fixa o subsídio do governador, vice-governador e dos secretários de Estado para o exercício financeiro de 2019.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.471, de 26 de dezembro de 2018, que fixa o subsídio do governador, vice-governador e dos secretários de Estado para o exercício financeiro de 2019.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

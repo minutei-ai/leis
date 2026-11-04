@@ -1,5 +1,3 @@
-###DEC-006783-0-000-19-02-2009@@@
-
 DECRETO Nº 6.783, DE 19 DE FEVEREIRO DE 2009.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Federal da Croácia sobre Cooperação no Campo da Veterinária, firmado em Zagreb, em 20 de abril de 2004.

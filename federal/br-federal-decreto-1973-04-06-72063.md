@@ -1,5 +1,3 @@
-###DEC-072063-0-000-06-04-1973@@@
-
 Decreto nº. 72.063, de 6 de abril de 1973.
 
 Modifica o Regulamento de Passaportes.

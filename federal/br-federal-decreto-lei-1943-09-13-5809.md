@@ -1,5 +1,3 @@
-###DEL-005809-0-000-13-09-1943@@@
-
 DECRETO‑LEI N. 5.809 – DE 13 DE SETEMBRO DE 1943
 
 Cria uma Companhia de Metralhadora Motorizada na Polícia Militar do Distrito Federal

@@ -32,62 +32,6 @@ Secretário da Administração
 
 ANEXO ÚNICO
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- border:none;mso-border-alt:solid black 1.5pt;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr><td width="330" colspan="2" valign="top" style="width:247.5pt;border:solid black 1.5pt;
-  border-bottom:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">POLÍCIA CIVIL DA BAHIA<quebra></quebra></p></td></tr><tr><td width="330" colspan="2" valign="top" style="width:247.5pt;border-top:none;
-  border-left:solid black 1.5pt;border-bottom:solid black .75pt;border-right:
-  solid black 1.5pt;mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Delegado de Polícia<quebra></quebra></p></td></tr><tr><td width="170" valign="top" style="width:127.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Classe<quebra></quebra></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Efetivo<quebra></quebra></p></td></tr><tr><td width="170" valign="top" style="width:127.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">1ª<quebra></quebra></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">150<quebra></quebra></p></td></tr><tr><td width="170" valign="top" style="width:127.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">2ª<quebra></quebra></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">350<quebra></quebra></p></td></tr><tr><td width="170" valign="top" style="width:127.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black 1.5pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">3ª<quebra></quebra></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">650<quebra></quebra></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> POLÍCIA CIVIL DA BAHIA<quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> Delegado de Polícia<quebra></quebra> </td></tr><tr><td valign="top"> Classe<quebra></quebra> </td><td valign="top"> Efetivo<quebra></quebra> </td></tr><tr><td valign="top"> 1ª<quebra></quebra> </td><td valign="top"> 150<quebra></quebra> </td></tr><tr><td valign="top"> 2ª<quebra></quebra> </td><td valign="top"> 350<quebra></quebra> </td></tr><tr><td valign="top"> 3ª<quebra></quebra> </td><td valign="top"> 650<quebra></quebra> </td></tr></tbody></table>
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- border:none;mso-border-alt:solid black 1.5pt;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr><td width="330" colspan="2" valign="top" style="width:247.5pt;border:solid black 1.5pt;
-  border-bottom:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Escrivão de Polícia<quebra></quebra></p></td></tr><tr><td width="170" valign="top" style="width:127.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Classe/Nível<quebra></quebra></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Efetivo<quebra></quebra></p></td></tr><tr><td width="170" valign="top" style="width:127.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Oficial/6<quebra></quebra></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">60<quebra></quebra></p></td></tr><tr><td width="170" valign="top" style="width:127.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">5<quebra></quebra></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">110<quebra></quebra></p></td></tr><tr><td width="170" valign="top" style="width:127.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">4<quebra></quebra></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">160<quebra></quebra></p></td></tr><tr><td width="170" valign="top" style="width:127.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">3<quebra></quebra></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">250<quebra></quebra></p></td></tr><tr><td width="170" valign="top" style="width:127.5pt;border-top:none;border-left:
-  solid black 1.5pt;border-bottom:solid black 1.5pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">2<quebra></quebra></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">620<quebra></quebra></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> Escrivão de Polícia<quebra></quebra> </td></tr><tr><td valign="top"> Classe/Nível<quebra></quebra> </td><td valign="top"> Efetivo<quebra></quebra> </td></tr><tr><td valign="top"> Oficial/6<quebra></quebra> </td><td valign="top"> 60<quebra></quebra> </td></tr><tr><td valign="top"> 5<quebra></quebra> </td><td valign="top"> 110<quebra></quebra> </td></tr><tr><td valign="top"> 4<quebra></quebra> </td><td valign="top"> 160<quebra></quebra> </td></tr><tr><td valign="top"> 3<quebra></quebra> </td><td valign="top"> 250<quebra></quebra> </td></tr><tr><td valign="top"> 2<quebra></quebra> </td><td valign="top"> 620<quebra></quebra> </td></tr></tbody></table>

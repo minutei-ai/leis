@@ -1,5 +1,3 @@
-###DEC-045518-0-000-03-03-1959@@@
-
 DECRETO Nº 45.518, DE 3 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores do Conselho Federal de Engenharia e Arquitetura.

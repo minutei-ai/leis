@@ -1,5 +1,3 @@
-###DEC-049992-0-000-24-01-1961@@@
-
 Decreto nº 49.992, de 24 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro Antônio José de Souza a lavrar salgema e carnalita, no município de Luís Correia, Estado do Piauí.

@@ -1,5 +1,3 @@
-###DEC-056914-0-000-30-09-1965@@@
-
 DECRETO Nº 56.914, DE 30 DE SETEMBRO DE 1965.
 
 Altera o Decreto nº 53.982, de 25 de junho de 1964, que dispõe sôbre a importação de petróleo e derivados.

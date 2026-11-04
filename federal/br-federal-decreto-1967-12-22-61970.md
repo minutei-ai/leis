@@ -1,5 +1,3 @@
-###DEC-061970-0-000-22-12-1967@@@
-
 DECRETO Nº 61.970, DE 22 DE DEZEMBRO DE 1967.
 
 Modifica a redação dos artigos 126 e 127 do Decreto nº 59.607, de 28 de novembro de 1966.

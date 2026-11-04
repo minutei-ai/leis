@@ -1,5 +1,3 @@
-###DEC-005697-0-000-07-02-2006@@@
-
 DECRETO Nº 5.697, DE 7 DE FEVEREIRO DE 2006.
 
 Altera o Decreto nº 4.542, de 26 de dezembro de 2002, que aprova a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI.

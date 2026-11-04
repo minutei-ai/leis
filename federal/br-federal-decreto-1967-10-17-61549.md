@@ -1,5 +1,3 @@
-###DEC-061549-0-000-17-10-1967@@@
-
 DECRETO Nº 61.549, DE 17 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública a “Sociedade Filantrópica Evangélica do Maranhão” com sede em São Luíz, Estado do Maranhão.

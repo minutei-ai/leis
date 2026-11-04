@@ -26,5 +26,6 @@ Art. 3º. Esta Lei Complementar entra em vigor na data de sua publicação revog
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA/GO, aos 25 de Maio de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

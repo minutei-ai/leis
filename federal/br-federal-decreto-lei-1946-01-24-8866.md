@@ -1,5 +1,3 @@
-###DEL-008866-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.866 – DE 24 DE JANEIRO  DE 1946
 
 Dispõe sôbre construções, reformas ou adaptações de            edifícios para Correios e Telégrafos.

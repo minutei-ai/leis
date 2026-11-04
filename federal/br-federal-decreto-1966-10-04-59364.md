@@ -1,5 +1,3 @@
-###DEC-059364-0-000-04-10-1966@@@
-
 DECRETO Nº 59.364, DE 4 DE OUTUBRO DE 1966.
 
 Transfere ao Departamento de Águas e Energia Elétrica, do Estado de Minas Gerais, concessão para distribuir energia elétrica.

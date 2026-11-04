@@ -1,5 +1,3 @@
-###DEC-071605-0-000-22-12-1972@@@
-
 DECRETO nº 71.605 - de 22 De dezembro de 1972
 
 Concede reconhecimento do Curso de Relações Públicas da Federação de Estabelecimento de Ensino Superior em Novo Hamburgo, mantido pela Associação Pró- ensino Superior em Novo Hamburgo- RS.

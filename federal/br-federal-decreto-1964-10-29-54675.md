@@ -1,5 +1,3 @@
-###DEC-054675-0-000-29-10-1964@@@
-
 Decreto nº 54.675, de 29 de outubro de 1964.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Internacional de Seguros, inclusive aumento do capital social.

@@ -1,5 +1,3 @@
-###DEL-004740-0-000-25-09-1942@@@
-
 DECRETO-LEI N. 4.740 – DE 25 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de 3:000$0, à verba que especifica

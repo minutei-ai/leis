@@ -1,5 +1,3 @@
-###DEC-066330-0-000-16-03-1970@@@
-
 DECRETO Nº 66.330 - DE 16 DE MARÇO DE 1970
 
 Institui a Comissão Especial Supervisora de Aplicação de Recursos.

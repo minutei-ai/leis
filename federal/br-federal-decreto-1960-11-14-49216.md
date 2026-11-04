@@ -1,5 +1,3 @@
-###DEC-049216-0-000-14-11-1960@@@
-
 DECRETO Nº 49.216, DE 14 DE novembro DE 1960.
 
 Autoriza a Comissão do Vale do São Francisco a aceitar, na sede do Município de Campo Formoso, Estado da Bahia, a doação de uma área de 3.172,55 m2, de propriedade daquela Prefeitura.

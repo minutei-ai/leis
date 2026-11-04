@@ -1,5 +1,3 @@
-###DEL-008249-0-000-29-11-1945@@@
-
 DECRETO-LEI N. 8.249 – DE 29 DE NOVEMBRO DE 1945
 
 Dispõe sôbre a situação jurídica dos empregados das emprêsas incorporadas ao patrimônio da União.

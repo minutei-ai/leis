@@ -1,5 +1,3 @@
-###DEC-055971-0-000-20-04-1965@@@
-
 decreto nº 55.971, de 20 de abril de 1965.
 
 Autoriza estrangeira a adquirir, em revigoração de aforamento, o domínio útil de fração ideal do terreno de marinha e acrescido que menciona, no Estado da Guanabara.

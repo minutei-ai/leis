@@ -1,5 +1,3 @@
-###DEC-007039-0-000-22-12-2009@@@
-
 DECRETO Nº 7.039, DE 22 DE DEZEMBRO DE 2009.
 
 Promulga o Protocolo de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República Francesa referente à Criação de um Fórum Franco-Brasileiro do Ensino Superior e da Pesquisa, firmado em Brasília, em 25 de maio de 2006.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72602)
-
 # LEI Nº 12.628, DE 26 DE JUNHO DE 2007
 
 ## (Projeto de lei nº 318/2006, do Deputado Baleia Rossi - PMDB)

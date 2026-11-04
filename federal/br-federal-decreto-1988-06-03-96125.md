@@ -1,5 +1,3 @@
-###DEC-096125-0-000-03-06-1988@@@
-
 # DECRETO N° 96.125, DE 3 DE JUNHO DE 1988
 
 Autoriza o funcionamento do curso de Comunicação Social da Faculdade de Filosofia, Ciências e Letras "Eugênio Pacelli", da Fundação de Ensino Superior do Vale do Sapucaí, em Pouso Alegre, Minas Gerais.

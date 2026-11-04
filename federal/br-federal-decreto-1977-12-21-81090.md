@@ -1,5 +1,3 @@
-###DEC-081090-0-000-21-12-1977@@@
-
 decreto nº 81.090, de 21 de dezembro de 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Universidade do Amazonas, com sede na cidade de Manaus, Estado do Amazonas.

@@ -1,14 +1,12 @@
-###DEC-021176-0-000-27-05-1946@@@
+**DECRETO Nº 21.176, DE 27 DE MAIO DE 1946.**
 
-<strong>DECRETO Nº 21.176, DE 27 DE MAIO DE 1946.</strong>
+***Modifica dispositivos dos Decretos números 1.435, de 4 de Fevereiro de 1937 e 10.756, de 30 de Outubro de 1942:***
 
-<em><strong>Modifica dispositivos dos Decretos números 1.435, de 4 de Fevereiro de 1937 e 10.756, de 30 de Outubro de 1942:</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O § 1º do art. 49 e art. 54 do Decreto nº 1.435, de 4 de Fevereiro de 1937, passam a ter a seguinte redação:
+**Art**. 1º O § 1º do art. 49 e art. 54 do Decreto nº 1.435, de 4 de Fevereiro de 1937, passam a ter a seguinte redação:
 
 “Art. 49 ...................................................................................................................................
 
@@ -24,14 +22,14 @@
 
 § 4º O aluno dependente que for novamente, inabilitado na disciplina da dependência terá baixa de praça de aspirante.”
 
-<strong>Art</strong>. 2º O art. 19 do Decreto número 10.756, de 30 de Outubro de 1942, passa a ter a seguinte redação:
+**Art**. 2º O art. 19 do Decreto número 10.756, de 30 de Outubro de 1942, passa a ter a seguinte redação:
 
 “Art. 19. O Curso Prévio será de um ano, para todos os aspirantes; o Curso Superior será de quatro anos para os aspirantes que se destinarem ao Corpo da Armada; de dois anos para os que se destinarem ao Corpo de Fuzileiros Navais e de um ano para os que se destinarem ao Corpo de Intendentes Navais; o Curso de Aplicação terá a duração de doze meses.”
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 27 de Maio de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 José Maria Neiva

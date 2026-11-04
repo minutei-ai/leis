@@ -1,5 +1,3 @@
-###DEC-066445-0-000-14-04-1970@@@
-
 DECRETO Nº 66.445, DE 14 DE ABRIL DE 1970.
 
 Publica os índices de atualização monetária dos salários dos últimos 24 (vinte e quatro) meses, na forma estabelecida na Lei nº 5.451, de 12 de junho de 1968, e dá outras providências.
@@ -10,7 +8,105 @@ Decreta:
 
 Art. 1º Para reconstituição dos salários reais médios dos últimos 24 (vinte e quatro) meses, conforme estabelecido no § 2º do Artigo 1º da Lei nº 5.451, de 12 de junho de 1968, serão utilizados os seguintes coeficientes, aplicáveis nos salários dos meses correspondentes, para os acôrdos coletivos de trabalho ou decisões da Justiça do Trabalho, cuja vigência termine no mês de abril de 1970.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Mês</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Coeficiente</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abril de 1968 ..........................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,51</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maio de 1968 ..........................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,47</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Junho de 1968 ........................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,45</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Julho de 1968 .........................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,42</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Agôsto de 1968 ......................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,39</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Setembro de 1968 ..................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,37</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Outubro de 1968 ....................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,35</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Novembro de 1968 .................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,33</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Dezembro de 1968 .................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,31</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Janeiro de 1969 ......................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,29</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Fevereiro de 1969 ..................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,26</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Março de 1969 .......................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,25</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abril de 1969 ..........................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,23</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maio de 1969 ..........................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,21</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Junho de 1969 ........................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,19</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Julho de 1969 .........................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,16</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Agôsto de 1969 ......................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,14</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Setembro de 1969 ..................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,13</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Outubro de 1969 ....................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,11</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Novembro de 1969 .................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,09</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Dezembro de 1969 .................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,07</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Janeiro de 1970 ......................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,06</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Fevereiro de 1970 ..................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,03</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Março de 1970 .......................................................................................................</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,02</span></p></td></tr></tbody></table>
+Mês
+
+Coeficiente
+
+Abril de 1968 ..........................................................................................................
+
+1,51
+
+Maio de 1968 ..........................................................................................................
+
+1,47
+
+Junho de 1968 ........................................................................................................
+
+1,45
+
+Julho de 1968 .........................................................................................................
+
+1,42
+
+Agôsto de 1968 ......................................................................................................
+
+1,39
+
+Setembro de 1968 ..................................................................................................
+
+1,37
+
+Outubro de 1968 ....................................................................................................
+
+1,35
+
+Novembro de 1968 .................................................................................................
+
+1,33
+
+Dezembro de 1968 .................................................................................................
+
+1,31
+
+Janeiro de 1969 ......................................................................................................
+
+1,29
+
+Fevereiro de 1969 ..................................................................................................
+
+1,26
+
+Março de 1969 .......................................................................................................
+
+1,25
+
+Abril de 1969 ..........................................................................................................
+
+1,23
+
+Maio de 1969 ..........................................................................................................
+
+1,21
+
+Junho de 1969 ........................................................................................................
+
+1,19
+
+Julho de 1969 .........................................................................................................
+
+1,16
+
+Agôsto de 1969 ......................................................................................................
+
+1,14
+
+Setembro de 1969 ..................................................................................................
+
+1,13
+
+Outubro de 1969 ....................................................................................................
+
+1,11
+
+Novembro de 1969 .................................................................................................
+
+1,09
+
+Dezembro de 1969 .................................................................................................
+
+1,07
+
+Janeiro de 1970 ......................................................................................................
+
+1,06
+
+Fevereiro de 1970 ..................................................................................................
+
+1,03
+
+Março de 1970 .......................................................................................................
+
+1,02
 
 Parágrafo único. O salário real médio a ser reconstituído será a média aritmética dos valôres obtidos pela aplicação dos coeficientes acima aos salários dos meses correspondentes.
 

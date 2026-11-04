@@ -1,5 +1,3 @@
-###DEC-094026-0-000-13-02-1987@@@
-
 DECRETO Nº 94.026, DE 13 DE FEVEREIRO DE 1987.
 
 Concede à AÇOS FINOS PIRATINI S.A., (GRUPO SIDERBRÁS) autorização para proceder ao aumento de seu capital social.

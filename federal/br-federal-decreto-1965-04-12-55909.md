@@ -1,5 +1,3 @@
-###DEC-055909-0-000-12-04-1965@@@
-
 Decreto nº 55.909, de 12 de abril de 1965.
 
 Concede autorização para o funcionamento da Faculdade de Ciências Contábeis e Administrativas, no Estado da Guanabara.

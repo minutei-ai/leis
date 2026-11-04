@@ -1,5 +1,3 @@
-###DEC-091427-0-000-11-07-1985@@@
-
 decreto nº 91.427, de 11 de julho de 1985
 
 Autoriza o funcionamento do curso de Estatística da Faculdade de Estatística Silva e Souza.

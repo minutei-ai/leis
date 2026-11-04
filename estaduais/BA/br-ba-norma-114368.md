@@ -8,7 +8,8 @@ Art. 1º - É o Governo do Estado autorizado a abrir na Secretaria da Fazenda, �
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão por conta da verba 3.05.08-1.6.21.1, do orçamento vigente.
 
-Redação de acordo com a Lei nº 1.959, de 18 de setembro de 1963.<br>
+Redação de acordo com a Lei nº 1.959, de 18 de setembro de 1963.
+
 Redação original: "Art. 2º - As despesas decorrentes desta Lei correrão à conta da Consignação 1.6.00 - subconsignação 8.07.4.1.6.21, do Orçamento em vigor." 
 
 Art. 3º - Esta Lei entrará em vigor na data da sua publicação, ficando revogadas as disposições em contrário.
@@ -23,4 +24,4 @@ Orlando Gonçalves Teixeira
 
 Manoel Evangelista de Brito
 
-* * *
+ *

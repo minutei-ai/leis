@@ -1,5 +1,3 @@
-###DEC-065393-0-000-13-10-1969@@@
-
 DECRETO Nº 65.393, DE 13 DE OUTUBRO DE 1969.
 
 Transforma Unidade do Exército e dá outras providências.

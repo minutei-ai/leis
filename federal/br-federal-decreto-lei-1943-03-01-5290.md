@@ -1,5 +1,3 @@
-###DEL-005290-0-000-01-03-1943@@@
-
 DECRETO‑LEI N. 5.290 – DE 1 DE MARÇO DE 1943
 
 Inclue no Quadro de Infantaria de Guarda (Q.I.G.) do Corpo de Oficiais da Aeronáutica, dois Segundos Tenentes da Reserva de 2ª classe de 1ª linha do Exército

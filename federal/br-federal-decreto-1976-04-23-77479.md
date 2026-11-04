@@ -1,5 +1,3 @@
-###DEC-077479-0-000-23-04-1976@@@
-
 DECRETO Nº 77.479 - DE 23 DE ABRIL DE 1976
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona situados na cidade de Guajará-Mirim, Território Federal de Rondônia.

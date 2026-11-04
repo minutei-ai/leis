@@ -1,5 +1,3 @@
-###DEC-049953-0-000-17-01-1961@@@
-
 DECRETO Nº 49.953, DE 17 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Estadual Limitada para instalar uma estação radiodifusora.

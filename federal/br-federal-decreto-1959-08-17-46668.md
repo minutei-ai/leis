@@ -1,5 +1,3 @@
-###DEC-046668-0-000-17-08-1959@@@
-
 DECRETO Nº 46.668, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Fernando Almeida Oliveira a lavrar caulim, quartzo, mica e cassiterita no município de Mogi das Cruzes, Estado de São Paulo.

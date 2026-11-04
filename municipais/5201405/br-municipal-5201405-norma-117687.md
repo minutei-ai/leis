@@ -112,8 +112,10 @@ Art. 6º Este Decreto entrará em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA/GO, aos 11 de outubro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

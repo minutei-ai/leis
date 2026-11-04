@@ -1,5 +1,3 @@
-###DEL-000630-0-000-16-06-1969@@@
-
 Decreto-lei nº 630, de 16 de Junho de 1969
 
 Define a situação dos empregados a que se refere o artigo 23, e seus parágrafos, da Lei nº 5.316, de 14 de setembro de 1967, nos casos que especifica.

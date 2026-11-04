@@ -1,5 +1,3 @@
-###DEC-091695-0-000-27-09-1985@@@
-
 DECRETO Nº 91.695, DE 27 DE SETEMBRO DE 1985.
 
 Altera dispositivos do Regulamento para o Corpo de Praças da Armada (Decreto nº 87.179 de 18 de maio de 1982) que revogou os Decretos nºs 74.072 de 15 de maio de 1974 e 76.514 de 24 de outubro de 1975.

@@ -1,5 +1,3 @@
-###DEC-069780-0-000-14-12-1971@@@
-
 DECRETO Nº 69.780 - DE 14 DE DEZEMBRO DE 1971
 
 Retifica decretos de transferência no Ministério da Fazenda.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.823, DE 28 DE JULHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Denomina Dr. Enéas Ferreira Carneiro, a Faculdade Estadual do Acre – FEAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Denomina Dr. Enéas Ferreira Carneiro, a Faculdade Estadual do Acre – FEAC.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

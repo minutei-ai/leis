@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58192)
-
 # LEI Nº 12.073, DE 04 DE OUTUBRO DE 2005
 
 ## ( PL 570/2003 - José Bittencourt)

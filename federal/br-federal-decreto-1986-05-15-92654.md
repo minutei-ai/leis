@@ -1,5 +1,3 @@
-###DEC-092654-0-000-15-05-1986@@@
-
 DECRETO Nº 92.654, DE 15 DE MAIO DE 1986
 
 Cria o Grupo de Trabalho para reestruturação da Previdência Social, e dá outras providências.

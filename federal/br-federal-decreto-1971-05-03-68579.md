@@ -1,5 +1,3 @@
-###DEC-068579-0-000-03-05-1971@@@
-
 DECRETO Nº 68.579 - DE 3 DE MAIO DE 1971.
 
 Autoriza a cessão ,sob o regime de aforamento, do terreno de marinha que menciona, situado no Estado da Guanabara.

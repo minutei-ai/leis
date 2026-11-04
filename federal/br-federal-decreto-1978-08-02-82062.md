@@ -1,5 +1,3 @@
-###DEC-082062-0-000-02-08-1978@@@
-
 Decreto nº 82.062, de 02 de agosto de 1978.
 
 Autoriza a conversão dos cursos de Matemática, História Natural, Química e Física, e Ciências, em curso de Ciências do Centro de Humanidades da Universidade Federal de Mato Grosso, com sede na cidade de Cuiabá, Estado de Mato Grosso.

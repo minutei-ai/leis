@@ -1,5 +1,3 @@
-###DEC-051723-0-000-18-02-1963@@@
-
 DECRETO Nº 51.723, DE 18 DE FEVEREIRO DE 1963.
 
 Cria o Grupo de Trabalho para revisão das formas de concessão de crédito agropecuário.

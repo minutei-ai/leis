@@ -1,5 +1,3 @@
-###DEL-002984-0-000-25-01-1941@@@
-
 DECRETO-LEI N. 2.984 – DE 25 DE JANEIRO DE 1941
 
 Dispõe sobre despesas com pessoal e material do Ministério da Aeronáutica

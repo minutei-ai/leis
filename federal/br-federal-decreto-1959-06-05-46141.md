@@ -1,5 +1,3 @@
-###DEC-046141-0-000-05-06-1959@@@
-
 DECRETO Nº 46.141, DE 5 DE JUNHO DE 1959.
 
 Abre, ao Poder Judiciário, Justiça do Trabalho, o crédito especial de Cr$614.928,00 para o fim que específica.

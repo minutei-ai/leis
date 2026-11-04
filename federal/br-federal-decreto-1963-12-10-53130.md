@@ -1,5 +1,3 @@
-###DEC-053130-0-000-10-12-1963@@@
-
 decreto nº 53.130, de 10 de dezembro de 1963.
 
 Retifica o art. 1º do Decreto 2.202, de 22 de janeiro de 1963.

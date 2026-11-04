@@ -1,5 +1,3 @@
-###DEC-003278-0-000-07-12-1999@@@
-
 DECRETO Nº 3.278, DE 7 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a execução do Vigésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 35 (Procedimento de Solução de Controvérsias), entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do Mercado Comum do Sul (MERCOSUL), e o Governo da República do Chile, de 19 de outubro de 1999.

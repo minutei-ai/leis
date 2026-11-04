@@ -1,5 +1,3 @@
-###DEC-072901-0-000-10-10-1973@@@
-
 DECRETO Nº 72.901, DE 10 DE OUTUBRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas e Administrativas de Guaratinguetá, mantida pela Organização Guará de Ensino, com sede na cidade de Guaratinguetá, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-000616-0-000-24-07-1992@@@
-
 DECRETO N° 616, DE 24 DE JULHO DE 1992
 
 Dispõe sobre a transferência de dotações consignadas nos orçamentos da União, ajusta os valores trimestrais estabelecidos pelo Decreto n° 475, de 13 de março de 1992, alterado pelo Decreto n ° 587, de 30 de junho de 1992, e dá outras providências.

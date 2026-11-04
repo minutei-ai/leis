@@ -1,5 +1,3 @@
-###DEC-062235-0-000-07-02-1968@@@
-
 Decreto Nº 62.235, DE 7 DE FEVEREIRO DE 1968.
 
 Altera dispositivos do Decreto número 60.079, de 16 de janeiro de 1967, que aprova o “Regulamento Geral do Plano de Valorização Econômica da Amazônia” e dá outras providências.

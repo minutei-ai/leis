@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208203)<br>
-
 # DECRETO N° 67.760, DE 20 DE JUNHO DE 2023
 
 ### _Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS e dá outras providências._

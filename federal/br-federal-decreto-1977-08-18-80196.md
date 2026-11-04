@@ -1,5 +1,3 @@
-###DEC-080196-0-000-18-08-1977@@@
-
 DECRETO Nº 80.196, DE 18 DE AGOSTO DE 1977.
 
 Altera o Decreto nº 79.342, de 7 de março de 1977.

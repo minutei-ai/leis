@@ -1,5 +1,3 @@
-###DEC-093589-0-000-18-11-1986@@@
-
 DECRETO Nº 93.589, DE 18 DE NOVEMBRO DE 1986.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra necessária à construção do Açude Público - "ARCORVERDE”, no Município de Pedra, Estado de Pernambuco, para a execução do Programa de Irrigação do Nordeste (PROINE), e dá outras providências.

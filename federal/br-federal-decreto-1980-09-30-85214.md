@@ -1,5 +1,3 @@
-###DEC-085214-0-000-30-09-1980@@@
-
 Decreto nº 85.214, de 30 de setembro de 1980.
 
 Dispensa a licitação na alienação de terras devolutas da União, que menciona, e dá outras providências.

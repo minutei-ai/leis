@@ -1,5 +1,3 @@
-###DEC-074109-0-000-27-05-1974@@@
-
 DECRETO nº 74.109, de 27 de maio de 1974.
 
 Concede reconhecimento ao curso de Pedagogia do Instituto de Educação de Minas Gerais, com sede na Cidade de Belo Horizonte, Estado de Minas Gerais.

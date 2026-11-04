@@ -1,5 +1,3 @@
-###DEL-001240-0-000-11-10-1972@@@
-
 # DECRETO-LEI Nº 1.240, DE 11 DE OUTUbRO DE 1972
 
 Dispõe sobre incentivos fiscais à exportação de minerais abundantes no País.

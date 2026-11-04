@@ -4,7 +4,8 @@ Dispõe sobre as diretrizes orçamentárias para o exercício de 2027, na forma 
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Ficam estabelecidas as diretrizes orçamentárias do Estado para o exercício de 2027, em conformidade com o disposto na Constituição Federal, na Constituição Estadual e na Lei Complementar Federal nº 101, de 04 de maio de 2000, Lei de Responsabilidade Fiscal, compreendendo:
@@ -25,7 +26,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **VIII -** as disposições finais.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS METAS FISCAIS E PRIORIDADES DA ADMINISTRAÇÃO PÚBLICA ESTADUAL
 
 **Art. 2º** - As metas fiscais para o exercício de 2027 são as constantes do Anexo II desta Lei e poderão ser ajustadas se verificadas alterações da conjuntura nacional e estadual, dos parâmetros macroeconômicos utilizados na estimativa das receitas e despesas e do comportamento da execução dos Orçamentos de 2026, além de modificações na legislação que venham a afetar esses parâmetros.
@@ -48,7 +50,8 @@ DAS METAS FISCAIS E PRIORIDADES DA ADMINISTRAÇÃO PÚBLICA ESTADUAL
 
 **IV -** garantir o atendimento de passivos contingentes e de outros riscos fiscais capazes de afetar as contas públicas, constantes do Anexo III desta Lei.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ESTRUTURA E ORGANIZAÇÃO DOS ORÇAMENTOS
 
 **Art. 6º** - A Proposta Orçamentária para 2027 que o Poder Executivo encaminhará à Assembleia Legislativa, no prazo previsto no inciso III do § 6º do art. 160 da Constituição Estadual, será constituída da Mensagem, nos termos do inciso I do _caput_ do art. 22 da Lei Federal nº 4.320, de 17 de março de 1964, e do Projeto de Lei Orçamentária Anual, o qual terá a seguinte composição:
@@ -187,15 +190,18 @@ DA ESTRUTURA E ORGANIZAÇÃO DOS ORÇAMENTOS
 
 **§ 5**º - Para fins de registro, avaliação e controle da execução orçamentária e financeira da despesa pública, os elementos de despesa serão desdobrados em subelementos.
 
-CAPÍTULO IV<br>
-DAS DIRETRIZES PARA A ELABORAÇÃO E EXECUÇÃO<br>
+CAPÍTULO IV
+
+DAS DIRETRIZES PARA A ELABORAÇÃO E EXECUÇÃO
+
  DOS ORÇAMENTOS E SUAS ALTERAÇÕES
 
 **Art. 12** - A elaboração dos Orçamentos Fiscal e da Seguridade Social, bem como sua alteração, execução e gestão orçamentária, financeira e contábil serão realizadas no Sistema Integrado de Planejamento, Contabilidade e Finanças do Estado da Bahia - FIPLAN, instituído pelo Decreto nº 14.125, de 06 de setembro de 2012.
 
 **Art. 13** - A inclusão e a alteração das dotações relativas às emendas parlamentares individuais de que trata o art. 160 da Constituição Estadual obedecerão, no Projeto de Lei, na Lei Orçamentária Anual e em seus créditos adicionais, ao disposto na Seção IV deste Capítulo.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Da Elaboração dos Orçamentos
 
 **Art. 14** - Os Orçamentos Fiscal e da Seguridade Social compreenderão o conjunto das receitas públicas, bem como as despesas dos Poderes, do Ministério Público e da Defensoria Pública, seus órgãos, fundos, autarquias, empresas estatais dependentes e fundações instituídas e mantidas pelo Poder Público.
@@ -340,7 +346,8 @@ Da Elaboração dos Orçamentos
 
 **Art. 35** - Os Poderes Executivo, Legislativo e Judiciário, o Ministério Público e a Defensoria Pública encaminharão ao Órgão Central do Sistema Estadual de Planejamento e Gestão Estratégica, até 08 de agosto de 2026, seus respectivos quadros de pessoal de que trata o inciso XII do § 1º do art. 6º desta Lei, discriminado nominalmente por órgão, autarquia, fundação, sociedade de economia mista e empresa pública, contendo o quantitativo de servidores, empregados públicos e agentes políticos, ativos e inativos, cargos em comissão e REDA, bem como a necessidade de novas admissões.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Execução dos Orçamentos
 
 **Art. 36** - A execução da Lei Orçamentária de 2027 e dos créditos adicionais obedecerá aos princípios constitucionais da legalidade, impessoalidade, moralidade, publicidade e eficiência na Administração Pública Estadual.
@@ -367,7 +374,8 @@ Da Execução dos Orçamentos
 
 **Art. 41** - Para fins de apuração dos custos de bens e serviços públicos da Administração Pública Estadual, os órgãos e entidades do Poder Executivo deverão empreender as ações necessárias à operacionalização do Sistema de Apropriação de Custos Públicos - ACP, instituído pelo Decreto nº 8.444, de 07 de fevereiro de 2003.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Alteração dos Orçamentos
 
 **Art. 42** - Os créditos adicionais, independentemente de serem lançados no FIPLAN com o detalhamento da natureza da despesa até o nível de elemento, serão abertos por Decreto do Chefe do Poder Executivo Estadual e publicados no Diário Oficial do Estado por categoria econômica, grupo de despesa e modalidade de aplicação, discriminando a fonte específica de recursos.
@@ -434,7 +442,8 @@ Da Alteração dos Orçamentos
 
 **II -** a vinculação programática da ação orçamentária ao Plano Plurianual vigente, com o objetivo de efetuar correções.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Das Emendas Parlamentares Individuais
 
 **Art. 49** - O Projeto de Lei Orçamentária de 2027 conterá reserva específica classificada como operação especial, alocada em ação própria na unidade orçamentária Encargos Gerais do Estado sob Gestão da SEPLAN, para atendimento das emendas parlamentares individuais, no limite correspondente a 1,0% (um por cento) da Receita Corrente Líquida realizada no exercício anterior, determinado no inciso I do § 9º do art. 160 da Constituição Estadual.
@@ -531,7 +540,8 @@ Das Emendas Parlamentares Individuais
 
 **Art. 62** - Quando a transferência de recursos do Estado para a execução de emendas parlamentares de que trata esta Seção for destinada a municípios e a entidades sem fins lucrativos, obedecerá, no que couber, aos regramentos do Capítulo V desta Lei.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Da Programação da Execução Orçamentária e Financeira e sua Limitação
 
 **Art. 63** - Os Poderes, o Ministério Público e a Defensoria Pública deverão elaborar e publicar, por ato próprio, até 30 (trinta) dias após a publicação da Lei Orçamentária de 2027, cronograma anual de desembolso mensal para o referido exercício relativo às despesas com pessoal e encargos sociais, juros e encargos da dívida, outras despesas correntes, investimentos, inversões financeiras e amortização da dívida, contemplando os limites para cada órgão e discriminando as fontes de recursos em Fontes do Tesouro e Outras Fontes, com vistas ao cumprimento das metas fiscais previstas no Anexo II desta Lei.
@@ -562,14 +572,16 @@ Da Programação da Execução Orçamentária e Financeira e sua Limitação
 
 **Art. 65** - Aplica-se somente ao Poder Executivo a limitação de empenho e de movimentação financeira, ou o restabelecimento desses limites, cuja necessidade tenha sido identificada fora da avaliação bimestral e, caso ocorra, será feita mediante Decreto.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES REFERENTES ÀS TRANSFERÊNCIAS
 
 **Art. 66** - As entidades públicas e privadas beneficiadas com recursos públicos a qualquer título estarão submetidas à fiscalização do Poder Público, com a finalidade de verificar o cumprimento de metas e objetivos para os quais receberam os recursos.
 
 **Art. 67** - Os pagamentos à conta de recursos recebidos do Estado, abrangidos pelas Seções I e II deste Capítulo, estão sujeitos à identificação do beneficiário da despesa, por Cadastro de Pessoas Físicas - CPF ou CNPJ, e a movimentação dos recursos, por parte de convenentes ou executores, somente será realizada mediante conta bancária específica para cada instrumento de transferência.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Transferências Voluntárias aos Municípios
 
 **Art. 68** - As transferências voluntárias de recursos para os Municípios, conforme definidas no _caput_ do art. 25 da Lei de Responsabilidade Fiscal, serão realizadas mediante convênio, observado o disposto nos arts. 41 a 46 da Lei nº 14.634, de 28 de novembro de 2023, e os termos desta Seção.
@@ -612,10 +624,12 @@ Das Transferências Voluntárias aos Municípios
 
 **Art. 72** - O disposto nesta Seção aplica-se aos consórcios públicos legalmente instituídos, à exceção do limite mínimo de contrapartida atendida por meio de recursos financeiros que será de 05% (cinco por cento) sobre o valor previsto nos convênios ou instrumentos congêneres.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Transferências ao Setor Privado
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Das Subvenções Sociais
 
 **Art. 73** - A transferência de recursos a título de subvenções sociais, nos termos do art. 16 da Lei Federal nº 4.320, de 17 de março de 1964, atenderá às entidades privadas sem fins lucrativos que prestem serviços essenciais nas áreas de educação, saúde, cultura ou de assistência social, quando tais entidades:
@@ -630,7 +644,8 @@ Das Subvenções Sociais
 
 **Parágrafo único -** O registro de que trata o inciso IV do _caput_ deste artigo poderá ser dispensado, desde que a entidade seja selecionada em processo público de ampla divulgação promovido pelo órgão ou entidade concedente para execução de ações, programas ou serviços em parceria com a Administração Pública Estadual.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Das Subvenções Econômicas
 
 **Art. 74** - A transferência de recursos nos termos dos arts. 18 e 19 da Lei Federal nº 4.320, de 17 de março de 1964, e dos arts. 26 e 28 da Lei de Responsabilidade Fiscal, atenderá exclusivamente às despesas correntes destinadas a:
@@ -649,14 +664,16 @@ Das Subvenções Econômicas
 
 **Art. 75** - As disposições do art. 74 desta Lei não se aplicam, no que couber, às subvenções econômicas de que trata a Lei nº 14.315, de 17 de junho de 2021.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Das Contribuições Correntes e de Capital
 
 **Art. 76** - A transferência de recursos a título de contribuições correntes somente será destinada a entidades privadas sem fins lucrativos que não atuem nas áreas de que trata o _caput_ do art. 73 desta Lei.
 
 **Art. 77** - A transferência de recursos para entidades privadas sem fins lucrativos, a título de contribuições de capital, fica condicionada à autorização em lei especial anterior de que trata o § 6º do art. 12 da Lei Federal nº 4.320, de 17 de março de 1964.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Dos Auxílios
 
 **Art. 78** - A transferência de recursos a título de auxílios, previstos no § 6º art. 12 da Lei Federal nº 4.320, de 17 de março de 1964, somente poderá ser destinada a entidades privadas sem fins lucrativos declaradas ou reconhecidas de utilidade pública, e desde que sejam:
@@ -679,7 +696,8 @@ Dos Auxílios
 
 **VI -** voltadas diretamente às atividades de extrativismo, pesca e agricultura de pequeno porte, realizadas por povos tradicionais e agricultores familiares, desde que constituídas sob a forma de associação ou cooperativa singular, social ou de produção, integradas por pessoas em situação de desvantagem socioeconômica.
 
-SUBSEÇÃO V<br>
+SUBSEÇÃO V
+
 Das Disposições Gerais
 
 **Art. 79** - A transferência de recursos a título de contribuições correntes e auxílios de que tratam os arts. 76 e 78 desta Lei, somente será destinada a entidades que preencham uma das seguintes condições:
@@ -784,7 +802,8 @@ Das Disposições Gerais
 
 **§ 2**º - A contrapartida financeira avençada, consoante cronograma aprovado, deverá ser depositada, pela entidade beneficiada, na conta bancária destacada para o convênio ou instrumento congênere, sob pena de rescisão do ajuste e correspondente tomada de contas.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Dos Empréstimos, Financiamentos e Refinanciamentos
 
 **Art. 89** - Os empréstimos, financiamentos e refinanciamentos, com recursos dos Orçamentos Fiscal e da Seguridade Social, observarão o disposto no art. 27 da Lei de Responsabilidade Fiscal.
@@ -797,7 +816,8 @@ Dos Empréstimos, Financiamentos e Refinanciamentos
 
 **Art. 90** - As prorrogações e composições de dívidas decorrentes de empréstimos, financiamentos e refinanciamentos concedidos com recursos dos Orçamentos Fiscal e da Seguridade Social dependem de autorização expressa em lei específica.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Das Transferências a Pessoas Físicas
 
 **Art. 91** - A destinação de ajuda financeira, a qualquer título, a pessoas físicas, somente se fará para garantir a eficácia da execução de programa governamental específico, nas áreas de assistência social, saúde, educação ou cultura, atendido ao disposto no art. 26 da Lei de Responsabilidade Fiscal, inclusive a prévia autorização por lei específica, e desde que, concomitantemente:
@@ -822,7 +842,8 @@ Das Transferências a Pessoas Físicas
 
 **Art. 92** - A prévia autorização por lei específica, exigida no _caput_ do art. 91 desta Lei, não se aplica ao apoio financeiro de que tratam as Leis nos 7.888, de 27 de agosto de 2001, e 9.431, de 11 de fevereiro de 2005.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES RELATIVAS À POLÍTICA E À DESPESA DE PESSOAL DO ESTADO
 
 **Art. 93** - Para atendimento ao disposto no inciso II do parágrafo único do art. 162 da Constituição Estadual, observado o inciso I do mesmo parágrafo, ficam autorizadas as despesas de pessoal relativas à concessão de quaisquer vantagens, aumentos de remuneração, criação de cargos, empregos e funções, alterações de estrutura de carreiras, bem como admissões ou contratações a qualquer título, de civis ou militares, até o montante das quantidades constantes do quadro de pessoal referido no inciso XII do § 1º do art. 6º desta Lei, cujos valores deverão constar da programação orçamentária para 2027 e serem compatíveis com os limites da Lei de Responsabilidade Fiscal.
@@ -889,7 +910,8 @@ DAS DISPOSIÇÕES RELATIVAS À POLÍTICA E À DESPESA DE PESSOAL DO ESTADO
 
 **III -** às situações reconhecidas por decreto de emergência.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA ESTADUAL E MEDIDAS PARA INCREMENTO DA RECEITA
 
 **Art. 104** - O Poder Executivo encaminhará à Assembleia Legislativa da Bahia, em caso de necessidade, Projeto de Lei dispondo sobre alterações na legislação tributária estadual e incremento da receita ou emitirá orientações e procedimentos específicos sobre:
@@ -904,7 +926,8 @@ DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA ESTADUAL E MEDI
 
 **Parágrafo único -** Os recursos eventualmente decorrentes das alterações previstas neste artigo serão incorporados aos orçamentos do Estado mediante a abertura de créditos adicionais no decorrer do exercício.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA POLÍTICA DE APLICAÇÃO DE RECURSOS DA AGÊNCIA FINANCEIRA ESTADUAL DE FOMENTO
 
 **Art. 105** - A concessão de crédito mediante financiamento por agência financeira oficial de fomento do Estado, além da sua compatibilização com as diretrizes estabelecidas no Plano Plurianual 2024-2027, observará as seguintes linhas de aplicações, visando estimular e apoiar:
@@ -957,7 +980,8 @@ DA POLÍTICA DE APLICAÇÃO DE RECURSOS DA AGÊNCIA FINANCEIRA ESTADUAL DE FOMEN
 
 **II -** realizar os estudos técnicos que visem auxiliar a implementação de empreendimentos públicos ou privados relacionados ao desenvolvimento econômico e social da Bahia.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DAS DISPOSIÇÕES FINAIS
 
 **Art. 106** - O disposto nesta Lei não poderá ir de encontro a normas de responsabilidade fiscal que venham a ser editadas pelo Governo Federal.

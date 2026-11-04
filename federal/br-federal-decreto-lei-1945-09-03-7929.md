@@ -1,5 +1,3 @@
-###DEL-007929-0-000-03-09-1945@@@
-
 DECRETO-LEI N. 7.929 – DE 3 DE SETEMBRO DE 1945
 
 Altera as carreiras de Escriturário, Guarda-civil e Maquinista Marítimo, do Ministério da Justiça e Negócios Interiores, e dá outras providências

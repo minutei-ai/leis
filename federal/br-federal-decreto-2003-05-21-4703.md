@@ -1,5 +1,3 @@
-###DEC-004703-0-000-21-05-2003@@@
-
 DECRETO Nº 4.703, DE 21 DE MAIO DE 2003.
 
     Dispõe sobre o Programa Nacional da Diversidade Biológica \- PRONABIO e a Comissão Nacional da Biodiversidade, e dá outras providências.   
@@ -164,11 +162,18 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 21 de maio de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-  Celso Luiz Nunes Amorim<br>
-Roberto Rodrigues<br>
-Guido Mantega<br>
-Roberto Átila Amaral Vieira<br>
-Marina Silva<br>
-Ciro Ferreira Gomes<br>
+LUIZ INÁCIO LULA DA SILVA
+
+  Celso Luiz Nunes Amorim
+
+Roberto Rodrigues
+
+Guido Mantega
+
+Roberto Átila Amaral Vieira
+
+Marina Silva
+
+Ciro Ferreira Gomes
+
 Miguel Soldatelli Rosseto

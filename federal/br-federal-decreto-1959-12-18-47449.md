@@ -1,5 +1,3 @@
-###DEC-047449-0-000-18-12-1959@@@
-
 DECRETO Nº 47.449, DE 18 DE DEZEMBRO DE 1959.
 
 Altera a redação do artigo 255 do Decreto nº 45.422, de 12 de fevereiro de 1959.

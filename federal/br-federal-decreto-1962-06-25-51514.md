@@ -1,5 +1,3 @@
-###DEC-051514-0-000-25-06-1962@@@
-
 Decreto nº 51.514, De 25 de junho de 1962.
 
 Institui o Órgão Misto União Federal Estado do Paraná e dá outras providências.

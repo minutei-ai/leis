@@ -1,5 +1,3 @@
-###DEC-081970-0-000-13-07-1978@@@
-
 DECRETO Nº 81.970, DE 13 de JULHO DE 1978.
 
 Concede autorização às empresas PECTEN BRAZIL EXPLORATION AND DEVELOPMENT COMPANY, CHEVRON PETROLEUM COMPANY OF BRAZIL e MARATHON PETROLEUM BRASUL, LTD. para operarem no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEL-000118-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 118 – DE 29 DE DEZEMBRO DE 1937
 
 Fixa o imposto sôbre vendas e consignações, a ser cobrado no Distrito Federal

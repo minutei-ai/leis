@@ -1,5 +1,3 @@
-###DEL-009065-0-000-15-03-1946@@@
-
 DECRETO-LEI N. 9.065 – DE 15 DE MARÇO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar a Mitra Arquiepiscopal do Rio de Janeiro do impôsto que menciona.

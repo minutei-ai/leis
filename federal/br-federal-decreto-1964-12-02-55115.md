@@ -1,5 +1,3 @@
-###DEC-055115-0-000-02-12-1964@@@
-
 DECRETO Nº 55.155, de 2 de dezembro de 1964.
 
 Concede à Cerâmica Gerbi S.A., autorização para funcionar como emprêsa de mineração.

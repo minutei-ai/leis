@@ -1,5 +1,3 @@
-###DEC-062328-0-000-01-03-1968@@@
-
 DECRETO Nº 62.328, DE 1º de MARÇO DE 1968.
 
 Redistribui, com o respectivo ocupante, para o Quadro de pessoal da Universidade Federal da Paraíba, cargo oriundo do extinto Lloyd Brasileiro - Patrimônio Nacional, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-093850-0-000-22-12-1986@@@
-
 DECRETO Nº 93.850, DE 22 DE DEZEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação do canteiro de obras, margem esquerda, da usina hidrelétrica de Taquaruçu da CESP - Companhia Energética de São Paulo, no Estado do Paraná.

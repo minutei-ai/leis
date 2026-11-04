@@ -1,5 +1,3 @@
-###DEC-059534-0-000-09-11-1966@@@f
-
 DECRETO Nº 59.534, DE 09 DE NOVEMBRO DE 1966.
 
 Concede à Mineração Jamary Ltda., autorização para funcionar como emprêsa de mineração.

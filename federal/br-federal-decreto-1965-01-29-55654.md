@@ -1,5 +1,3 @@
-###DEC-055654-0-000-29-01-1965@@@
-
 DECRETO Nº 55.654, DE 29 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Joaquim Falleiros Filho a pesquisar calcário, no município de Itambacuri, Estado de Minas Gerais.

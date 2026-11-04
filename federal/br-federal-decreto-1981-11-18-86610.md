@@ -1,5 +1,3 @@
-###DEC-086610-0-000-18-11-1981@@@
-
 Decreto nº 86.610, de 18 de novembro de 1981
 
 Renova por 15 (quinze) anos a concessão outorgada à TELEVISÃO CENTRO AMÉRICA LTDA., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Cuiabá, Estado de Mato Grosso.

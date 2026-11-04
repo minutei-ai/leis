@@ -1,5 +1,3 @@
-###DEC-084512-0-000-26-02-1980@@@
-
 Decreto nº 84.512, de 26 de fevereiro de 1980
 
 Dispensa a licitação para a alienação de terras devolutas da União que menciona, e dá outras providências.

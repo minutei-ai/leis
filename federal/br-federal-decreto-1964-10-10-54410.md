@@ -1,5 +1,3 @@
-###DEC-054410-0-000-10-10-1964@@@
-
 DECRETO Nº 54.410, DE 10 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia Fôrça e Luz de Minas Gerais a vender os bens que específica.

@@ -1,5 +1,3 @@
-###DEC-080100-0-000-08-08-1977@@@
-
 DECRETO Nº 80.100, DE 8 DE AGOSTO DE 1977.
 
 Concede à Centrais Elétricas do Norte do Brasil S.A. (ELETRONORTE) autorização para construir uma linha de transmissão de energia elétrica em faixa de terra situada na reserva indígena Mãe Maria, no Estado do Pará, e dá outras providências.

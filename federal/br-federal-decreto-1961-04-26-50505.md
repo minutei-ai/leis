@@ -1,5 +1,3 @@
-###DEC-050505-0-000-26-04-1961@@@
-
 DECRETO Nº 50.505, DE 26 DE ABRIL DE 1961.
 
 Consolida as disposições relativas à educação moral e cívica nos estabelecimentos de ensino, e dá outras providências.

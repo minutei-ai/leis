@@ -1,5 +1,3 @@
-###DEC-053944-0-000-04-06-1964@@@
-
 DECRETO Nº 53.944, DE 4 DE JUNHO DE 1964.
 
 Aprova o Regulamento para concessão do auxílio especial de emergência às emprêsas de transporte aéreo regular.

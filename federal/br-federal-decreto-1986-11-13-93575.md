@@ -1,5 +1,3 @@
-###DEC-093575-0-000-13-11-1986@@@
-
 DECRETO Nº 93.575, DE 13 DE NOVEMBRO DE 1986
 
 Autoriza a transferência direta da concessão outorgada à REDE GAÚCHA ZERO HORA DE COMUNICAÇÕES LTDA, para a Rádio Globo de Brasília Ltda.

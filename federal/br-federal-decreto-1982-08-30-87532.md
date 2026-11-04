@@ -1,5 +1,3 @@
-###DEC-087532-0-000-30-08-1982@@@
-
 Decreto nº 87.532, de 30 de agosto de 1982
 
 Altera a composição do Conselho de Previdência Complementar (CPC) e o "quorum" mínimo de seus membros.

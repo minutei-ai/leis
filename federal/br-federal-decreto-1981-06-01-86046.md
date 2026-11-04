@@ -1,5 +1,3 @@
-###DEC-086046-0-000-01-06-1981@@@
-
 Decreto nº 86.046, de 01 de junho de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Costa Pinto, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

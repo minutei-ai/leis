@@ -1,5 +1,3 @@
-###DEC-049429-0-000-05-12-1960@@@
-
 DECRETO Nº 49.429, DE 5 DE DEZEMBro DE 1960.
 
 Concede nacionalidade à sociedade anônima Atlatic Refeining Company of Brazil, sob a denominação de Companhia Atlantic de Petróleo.

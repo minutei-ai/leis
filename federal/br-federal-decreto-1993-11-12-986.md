@@ -1,7 +1,3 @@
-1
-
-###DEC-000986-0-000-12-11-1993@@@
-
 DECRETO 986, DE 12 DE NOVEMBRO DE 1993
 
 Regulamenta a execução do transporte em Território Nacional, em tempo de paz, dos militares da Marinha, do Exército e da Aeronáutica.
@@ -332,8 +328,6 @@ ITAMAR FRANCO
 
 Arnaldo Leite Pereira
 
-<br>
-
 1
 
 # ANEXO I
@@ -382,12 +376,128 @@ Automóvel          12
 
 Motocicleta            3
 
-<br>
-
 1
 
 ANEXO 2
 
 Tabela para o Cálculo da Idenização do Transporte da Bagagem do Militar, por Via Rodoviária, dentro do Território Nacional.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">Distância Entre a Localidade</span></p><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">de Origem e Destino</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">Valor em Cr$ por m</span><span style="font-size:0.9em; vertical-align:3pt">3</span></p><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em; vertical-align:3pt">Transportado</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">01 A</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">50 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em; -aw-import:spaces">&nbsp;</span><span style="font-size:0.9em">2.978,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">51 A</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">100 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em; -aw-import:spaces">&nbsp;</span><span style="font-size:0.9em">3.255,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">101 A</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">200 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em; -aw-import:spaces">&nbsp;</span><span style="font-size:0.9em">3.836,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">201 A</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">400 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em; -aw-import:spaces">&nbsp;</span><span style="font-size:0.9em">5.099,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">401 A</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">600 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em; -aw-import:spaces">&nbsp;</span><span style="font-size:0.9em">6.293,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">601 A</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">800 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em; -aw-import:spaces">&nbsp;</span><span style="font-size:0.9em">7.547,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE</span><span style="font-size:0.9em; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:0.9em">801 A 1.000 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em; -aw-import:spaces">&nbsp;</span><span style="font-size:0.9em">8.706,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 1.001 A 1.200 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em; -aw-import:spaces">&nbsp;</span><span style="font-size:0.9em">9.877,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 1.201 A 1400 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">11.077,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 1.401 A 1.600 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">12.285,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 1.601 A 1.800 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">13.507,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 1.801 A 2.000 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">14.749,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 2.001 A 2.200 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">16.007,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 2.201 A 2.400 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">17.283,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 2.401 A 2.600 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">18.476,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 2.601 A 2.800 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">19.669,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 2.801 A 3.000 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">20.895,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 3.001 A 3.200 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">22.091,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 3.201 A 3.400 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">23.293,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 3.401 A 3.600 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">24.507,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 3.601 A 3.800 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">25.725,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 3.801 A 4.000 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">26.918,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 4.001 A 4.200 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">28.156,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 4.201 A 4.400 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">29.382,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 4.401 A 4.600 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">30.639,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 4.601 A 4.800 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">31.866,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">DE 4.801 A 5.000 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">33.035,00</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">Acima de 5.000 Km</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.9em">34.342,00</span></p></td></tr></tbody></table>
+Distância Entre a Localidade
+
+de Origem e Destino
+
+Valor em Cr$ por m3
+
+Transportado
+
+DE      01 A      50 Km
+
+2.978,00
+
+DE      51 A    100 Km
+
+3.255,00
+
+DE    101 A    200 Km
+
+3.836,00
+
+DE    201 A    400 Km
+
+5.099,00
+
+DE    401 A    600 Km
+
+6.293,00
+
+DE    601 A    800 Km
+
+7.547,00
+
+DE    801 A 1.000 Km
+
+8.706,00
+
+DE 1.001 A 1.200 Km
+
+9.877,00
+
+DE 1.201 A 1400 Km
+
+11.077,00
+
+DE 1.401 A 1.600 Km
+
+12.285,00
+
+DE 1.601 A 1.800 Km
+
+13.507,00
+
+DE 1.801 A 2.000 Km
+
+14.749,00
+
+DE 2.001 A 2.200 Km
+
+16.007,00
+
+DE 2.201 A 2.400 Km
+
+17.283,00
+
+DE 2.401 A 2.600 Km
+
+18.476,00
+
+DE 2.601 A 2.800 Km
+
+19.669,00
+
+DE 2.801 A 3.000 Km
+
+20.895,00
+
+DE 3.001 A 3.200 Km
+
+22.091,00
+
+DE 3.201 A 3.400 Km
+
+23.293,00
+
+DE 3.401 A 3.600 Km
+
+24.507,00
+
+DE 3.601 A 3.800 Km
+
+25.725,00
+
+DE 3.801 A 4.000 Km
+
+26.918,00
+
+DE 4.001 A 4.200 Km
+
+28.156,00
+
+DE 4.201 A 4.400 Km
+
+29.382,00
+
+DE 4.401 A 4.600 Km
+
+30.639,00
+
+DE 4.601 A 4.800 Km
+
+31.866,00
+
+DE 4.801 A 5.000 Km
+
+33.035,00
+
+Acima de 5.000 Km
+
+34.342,00

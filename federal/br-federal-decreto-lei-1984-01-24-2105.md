@@ -1,5 +1,3 @@
-###DEL-002105-0-000-24-01-1984@@@
-
 # Decreto nº 2.105, de 24 de Janeiro 1984
 
 Modifica o Decreto-lei nº 1.312, de 15 de fevereiro de 1974.

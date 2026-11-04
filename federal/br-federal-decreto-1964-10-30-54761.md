@@ -1,5 +1,3 @@
-###DEC-054761-0-000-30-10-1964@@@
-
 DECRETO Nº 54.761, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza Willi Zwetsch a comprar pedras preciosas.

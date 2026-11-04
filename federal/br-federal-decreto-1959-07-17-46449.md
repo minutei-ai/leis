@@ -1,5 +1,3 @@
-###DEC-046449-0-000-17-07-1959@@@
-
 DECRETO Nº 46.449, DE 17 DE JULHO DE 1959.
 
 Autoriza o cidadão brasileiro Gladstone Linhares Guerra a pesquisar berilo, águas marinhas, no município de  Nova Era, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208140)<br>
-
 # DECRETO N° 67.725, DE 29 DE MAIO DE 2023
 
 ### _Disciplina a implementação do Projeto de Recuperação do Rio Tietê à Montante da Barragem da Penha - Programa Renasce Tietê e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-088937-0-000-01-11-1983@@@
-
 DECRETO Nº 88.937, DE 01 DE NOVEMBRO DE 1983.
 
 Altera o limite quantitativo de antiguidade para organização do Quadros de Acesso ao Posto de Tenente-Coronel do Serviço de Intendência.

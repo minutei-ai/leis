@@ -1,5 +1,3 @@
-###DEC-000000-0-000-06-12-1823@@@
-
 DECRETO - DE 6 DE DEZEMBRO DE 1823
 
 Manda que se continue a abonar os ordenados, pensões e gratificações suspensasem virtude da carta de lei de 20 de Outubro do 1822.

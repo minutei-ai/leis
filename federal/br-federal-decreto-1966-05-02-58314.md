@@ -1,5 +1,3 @@
-###DEC-058314-0-000-02-05-1966@@@
-
 Decreto nº 58.314, de 02 de maio de 1966.
 
 Altera os arts. 21 e 31 do Regulamento da Diretoria de Rotas Aéreas.

@@ -1,5 +1,3 @@
-###DEC-060172-0-000-01-02-1967@@@
-
 decreto nº 60.172, de 1º de fevereiro de 1967.
 
 Dispõe sôbre a execução, no território nacional, da Resolução 232 (1965) do Conselho de Segurança das Nações Unidas, sôbre a aplicação de sanções econômicas seletivas contra a Rodésia do Sul.

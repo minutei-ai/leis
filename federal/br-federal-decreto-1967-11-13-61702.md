@@ -1,5 +1,3 @@
-###DEC-061702-0-000-13-11-1967@@@
-
 DECRETO Nº 61.702, DE 13 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, necessários ao Ministério do Exército.

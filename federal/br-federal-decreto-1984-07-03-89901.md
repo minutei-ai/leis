@@ -1,5 +1,3 @@
-###DEC-089901-0-000-03-07-1984@@@
-
 Decreto nº 89.901, de 03 de julho de 1984
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Marabá, situado no Município de Bonito, no Estado de Mato Grosso do Sul, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.900, de 03 de julho de 1984.

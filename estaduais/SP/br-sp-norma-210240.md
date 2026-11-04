@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210240)<br>
-
 # DECRETO N° 69.048, DE 14 DE NOVEMBRO DE 2024
 
 ### _Altera a classificação institucional da Secretaria da Segurança Pública nos Sistemas de Administração Financeira e Orçamentária do Estado._

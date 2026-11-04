@@ -1,5 +1,3 @@
-###DEC-048524-0-000-14-07-1960@@@
-
 decreto nº 48.524, de 14 de julho de 1960.
 
 Atualiza o Plano Portuário Nacional e dá outras providências.
@@ -12,7 +10,33 @@ Art. 1º Fica atualizado o Plano Portuário Nacional que passará a ser constitu
 
 Art. 2º Para a execução do Plano Portuário Nacional ficam estabelecidos os seguintes limites de investimentos, a serem efetuados até 1962, inclusive:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>I - Com a expansão e melhoramentos, dos portos de Manaus, Belém, Mucuripe, Natal, Cabedelo, Recife, Maceió, Aracaju, Salvador, Ilhéus, Vitória, Rio de Janeiro, Niterói, Angra dos Reis, São Sebastião, Santos, Paranagua, São Francisco do Sul, Itajaí, Florianópolis, Imbituba, Laguna, Rio Grande, Pelotas, Pôrto Alegre e Corumbá ..............................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>18.000.000.000,00</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>II - Com a construção de novos portos em Macapá, Itaqui, Luiz Corrêa, Areia Branca, Campinho, Malhado e Fôrno ...................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.400.000.000,00</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>III - Com melhoramentos em hidrovias ...........................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.600.000.000,00</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>IV - Com estudos em laboratórios de hidráulica experimental .......................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>50.000.000,00</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>V - Com a aquisição de equipamentoso de dragagem ..................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>900.000.000,00</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>VI - Com encargos diversos, decorrentes da implantação do Plano Portuário Nacional ..........................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">450.000.000,00</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Total ................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>23.400.000.000,00</span></p></td></tr></tbody></table>
+I - Com a expansão e melhoramentos, dos portos de Manaus, Belém, Mucuripe, Natal, Cabedelo, Recife, Maceió, Aracaju, Salvador, Ilhéus, Vitória, Rio de Janeiro, Niterói, Angra dos Reis, São Sebastião, Santos, Paranagua, São Francisco do Sul, Itajaí, Florianópolis, Imbituba, Laguna, Rio Grande, Pelotas, Pôrto Alegre e Corumbá ..............................................
+
+18.000.000.000,00
+
+II - Com a construção de novos portos em Macapá, Itaqui, Luiz Corrêa, Areia Branca, Campinho, Malhado e Fôrno ...................................................
+
+1.400.000.000,00
+
+III - Com melhoramentos em hidrovias ...........................................................
+
+2.600.000.000,00
+
+IV - Com estudos em laboratórios de hidráulica experimental .......................
+
+50.000.000,00
+
+V - Com a aquisição de equipamentoso de dragagem ..................................
+
+900.000.000,00
+
+VI - Com encargos diversos, decorrentes da implantação do Plano Portuário Nacional ..........................................................................................
+
+450.000.000,00
+
+Total ................................................................................................................
+
+23.400.000.000,00
 
 Art. 3º A aplicação total ou parcial dos investimentos fixados no artigo primeiro, dependerá, em cada caso, de aprovação prévia pelo Ministro da Viação e Obras Públicas, dos programas, estudos, projetos, especificações, orçamentos e justificação econômica.
 

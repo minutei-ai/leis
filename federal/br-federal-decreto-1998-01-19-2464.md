@@ -1,5 +1,3 @@
-###DEC-002464-0-000-19-01-1998@@@
-
 DECRETO Nº 2.464, DE 19 DE JANEIRO DE 1998
 
 Dispõe sobre a execução da Ata de Retificação do Acordo de Complementação Econômica nº 35, entre os Governos dos Estados Partes do MERCOSUL e o Governo da República do Chile, lavrada em 20 de agosto de 1997.

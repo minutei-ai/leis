@@ -1,7 +1,3 @@
-1
-
-###DEC-000391-0-000-24-12-1991@@@
-
 DECRETO Nº 391, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Área Iindígena Rio Formoso, no Estado do Mato Grosso.

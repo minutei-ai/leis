@@ -1,5 +1,3 @@
-###DEC-060706-0-000-09-05-1967@@@
-
 Decreto nº 60.706, de 9 de maio de 1967.
 
 Altera o Decreto nº 60.407, de 11 de março de 1967 e dá outras providências.

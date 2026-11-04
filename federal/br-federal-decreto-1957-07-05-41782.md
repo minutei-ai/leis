@@ -1,10 +1,8 @@
-###DEC-041782-0-000-05-07-1957@@@
+**DECRETO Nº 41.782, DE 5 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41.782, DE 5 DE JULHO DE 1957.</strong>
+***Dá a denominação de Clóvis Corrêa da Costa à Maternidade do Instituto Fernandes Figueira.***
 
-<em><strong>Dá a denominação de Clóvis Corrêa da Costa à Maternidade do Instituto Fernandes Figueira.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição:
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição:
 
 CONSIDERANDO que o Professor Clóvis Corrêa da Costa, formado em medicina há 45 anos, dedicou-se durante todo êsse longo período à causa da proteção ao binômio mãe-filho e ao magistério, como professor catedrático de Obstetrícia da Faculdade de Ciências Médicas; Docente de Clínica Obstétrica e de Clínica Ginecológica da Faculdade Nacional de Medicina e Professor de Obstetrícia dos Cursos do Departamento Nacional da Criança;
 
@@ -22,14 +20,14 @@ CONSIDERANDO que tendo mais de 35 anos de serviço público, podendo, portanto, 
 
 CONSIDERANDO, finalmente que no memorial assinado por todos os médicos do Instituto Fernandes Figueira e do Departamento Nacional da Criança através de cujo Diretor Geral, que também o subscreve, é formulada a sugestão de dar-se o nome dêsse grande especialista à Maternidade que dirige;
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º A Maternidade do Instituto Fernandes Figueira, do Departamento Nacional da Criança, passa a ter a denominação de “Maternidade Clóvis Corrêa da Costa”.
+**Art**. 1º A Maternidade do Instituto Fernandes Figueira, do Departamento Nacional da Criança, passa a ter a denominação de “Maternidade Clóvis Corrêa da Costa”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 5 de julho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Maurício de Medeiros

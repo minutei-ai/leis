@@ -1,5 +1,3 @@
-###DEC-070611-0-000-25-05-1972@@@
-
 DECRETO Nº 70.611, DE 25 DE MAIO DE 1972.
 
 Concede à Mineração Nossa Senhora do Amparo o direito de lavrar areia quartzosa e caulim no município de São João Del Rei, Estado de Minas Gerais.

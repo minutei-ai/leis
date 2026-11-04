@@ -1,5 +1,3 @@
-###DEC-054480-0-000-14-10-1964@@@
-
 deceto nº 54.480, de 14 de outubro de 1964.
 
 Outorga à Companhia Estadual de Energia Elétrica concessão para distribuir energia elétrica no Município de Tucunduva.

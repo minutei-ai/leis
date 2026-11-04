@@ -42,51 +42,43 @@ ERIBERTO MEDEIROS
 
 Presidente
 
-**ANEXO I**<br>
-**Carreiras de Apoio Técnico-Administrativo<br>
-Quadro Permanente**<br>
-<br>
+**ANEXO I**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="644" style="width:483.0pt;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="189" style="width:141.4pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CARGO</span></p></td><td width="455" style="width:341.55pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ÁREA</span></p></td></tr><tr><td width="189" style="width:141.4pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ANALISTA MINISTERIAL</span></p></td><td width="455" style="width:341.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ADMINISTRATIVA, ARQUITETURA, AUDITORIA, BIBLIOTECONOMIA, BIOLOGIA, CIÊNCIAS CONTÁBEIS, COMUNICAÇÃO SOCIAL, DOCUMENTAÇÃO, ENGENHARIA CIVIL, ENGENHARIA ELÉTRICA. ESTATÍSTICA, INFORMÁTICA, JURÍDICA, NUTRIÇÃO, PEDAGOGIA, PLANEJAMENTO, PROCESSUAL, PSICOLOGIA, MEDICINA, SERVIÇO SOCIAL.</span></p></td></tr><tr><td width="189" style="width:141.4pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">TÉCNICO MINISTERIAL</span></p></td><td width="455" style="width:341.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ADMINISTRATIVA, CONTABILIDADE, APOIO ESPECIALIZADO, ELETRÔNICA, TELECOMUNICAÇÕES, INFORMÁTICA.</span></p></td></tr></tbody></table>
+**Carreiras de Apoio Técnico-Administrativo
 
-<br>
-**ANEXO II**<br>
-**Carreiras de Apoio Técnico-Administrativo<br>
+Quadro Permanente**
+
+CARGO
+
+ÁREA
+
+ANALISTA MINISTERIAL
+
+ADMINISTRATIVA, ARQUITETURA, AUDITORIA, BIBLIOTECONOMIA, BIOLOGIA, CIÊNCIAS CONTÁBEIS, COMUNICAÇÃO SOCIAL, DOCUMENTAÇÃO, ENGENHARIA CIVIL, ENGENHARIA ELÉTRICA. ESTATÍSTICA, INFORMÁTICA, JURÍDICA, NUTRIÇÃO, PEDAGOGIA, PLANEJAMENTO, PROCESSUAL, PSICOLOGIA, MEDICINA, SERVIÇO SOCIAL.
+
+TÉCNICO MINISTERIAL
+
+ADMINISTRATIVA, CONTABILIDADE, APOIO ESPECIALIZADO, ELETRÔNICA, TELECOMUNICAÇÕES, INFORMÁTICA.
+
+**ANEXO II**
+
+**Carreiras de Apoio Técnico-Administrativo
+
 Quadro Suplementar - em extinção**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="643" style="width:482.25pt;margin-left:.75pt;background:white;border-collapse:collapse;
- border:none"><tbody><tr><td width="187" style="width:140.5pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CARGO</span></p></td><td width="455" style="width:341.4pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ÁREA</span></p></td></tr><tr><td width="187" style="width:140.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ANALISTA MINISTERIAL SUPLEMENTAR</span></p></td><td width="455" style="width:341.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ADMINISTRATIVA, ARQUITETURA, AUDITORIA, BIBLIOTECONOMIA, BIOLOGIA, CIÊNCIAS CONTÁBEIS, COMUNICAÇÃO SOCIAL, DOCUMENTAÇÃO, ENGENHARIA CIVIL, ESTATÍSTICA, INFORMÁTICA, JURÍDICA, NUTRIÇÃO, PEDAGOGIA, PLANEJAMENTO, PROCESSUAL, PSICOLOGIA, MEDICINA, SERVIÇO SOCIAL</span></p></td></tr><tr><td width="187" style="width:140.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">TÉCNICO MINISTERIAL SUPLEMENTAR</span></p></td><td width="455" style="width:341.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ADMINISTRATIVA, APOIO ESPECIALIZADO, ELETRÔNICA, TELECOMUNICAÇÕES, INFORMÁTICA</span></p></td></tr></tbody></table>
+CARGO
 
-**ANEXO V**<br>
-<br>
+ÁREA
+
+ANALISTA MINISTERIAL SUPLEMENTAR
+
+ADMINISTRATIVA, ARQUITETURA, AUDITORIA, BIBLIOTECONOMIA, BIOLOGIA, CIÊNCIAS CONTÁBEIS, COMUNICAÇÃO SOCIAL, DOCUMENTAÇÃO, ENGENHARIA CIVIL, ESTATÍSTICA, INFORMÁTICA, JURÍDICA, NUTRIÇÃO, PEDAGOGIA, PLANEJAMENTO, PROCESSUAL, PSICOLOGIA, MEDICINA, SERVIÇO SOCIAL
+
+TÉCNICO MINISTERIAL SUPLEMENTAR
+
+ADMINISTRATIVA, APOIO ESPECIALIZADO, ELETRÔNICA, TELECOMUNICAÇÕES, INFORMÁTICA
+
+**ANEXO V**
 
 Cargo: Secretário-Geral Adjunto - FGMP-8
 

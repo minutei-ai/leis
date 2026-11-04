@@ -1,20 +1,18 @@
-###DEC-026359-0-000-14-02-1949@@@
+**DECRETO Nº 26.359, DE 14 DE FEVEREIRO DE 1949.**
 
-<strong>DECRETO Nº 26.359, DE 14 DE FEVEREIRO DE 1949.</strong>
+***Outorga à Prefeitura Municipal de Itapecerica concessão para o aproveitamento progressivo de energia hidráulica da cachoeira dos Alves, situada no rio Itapecerica, divisa do município de igual nome com de Divinópolis, Estado de Minas Gerais.***
 
-<em><strong>Outorga à Prefeitura Municipal de Itapecerica concessão para o aproveitamento progressivo de energia hidráulica da cachoeira dos Alves, situada no rio Itapecerica, divisa do município de igual nome com de Divinópolis, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra *b*, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra <em>b</em>, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Prefeitura Municipal de Itapecerica, ou empresa que organizar, concessão para o aproveitamento progressivo de energia hidráulica da cachoeira dos Alves, situada no rio Itapecerica, divisa do município de igual nome com o de Divinópolis, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Prefeitura Municipal de Itapecerica, ou empresa que organizar, concessão para o aproveitamento progressivo de energia hidráulica da cachoeira dos Alves, situada no rio Itapecerica, divisa do município de igual nome com o de Divinópolis, Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, bem como a descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica, para serviços públicos, de utilidade pública e para comércio de energia na sede do município de Itapecerica, distritos de São Sebastião do Curral, Marilândia, Pedra do Indaiá e nas localidades de Noelândia e Lamunier.
 
-<strong>Art</strong>. 2º Sob pena de cadulidade do presente título, a concessionária obriga-se a:
+**Art**. 2º Sob pena de cadulidade do presente título, a concessionária obriga-se a:
 
 I - Registrá-lo na Divisão de Águas dentro do prazo de trinta (30) dias após a sua publicação.
 
@@ -66,32 +64,32 @@ V - Obedecer em todos os projetos, às prescrições de ordem técnica determina
 
 Parágrafo único - Os prazos a que se refere este artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga e a realizar as observações de acordo com as instruções da Divisão de Águas.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga e a realizar as observações de acordo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato.
+**Art**. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato.
 
-<strong>Art</strong>. 5º O capital a ser remunerado será efetivamente invertido nas instalações do concessionário em função de sua indústria concorrendo, direta ou indiretamente, para a produção transmissão e distribuição de energia elétrica.
+**Art**. 5º O capital a ser remunerado será efetivamente invertido nas instalações do concessionário em função de sua indústria concorrendo, direta ou indiretamente, para a produção transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 6º As atuais tabelas de preço de energia fornecida pela concessionária, serão integralmente mantidas até que mediante revisão, oportunamente efetuada pela Divisão de Águas sejam fixadas as que deverão vigorar de acôrdo com o disposto no artigo 180 do Código de Águas.
+**Art**. 6º As atuais tabelas de preço de energia fornecida pela concessionária, serão integralmente mantidas até que mediante revisão, oportunamente efetuada pela Divisão de Águas sejam fixadas as que deverão vigorar de acôrdo com o disposto no artigo 180 do Código de Águas.
 
-<strong>Art</strong>. 7º Para a manutenção da integridade do capital a que se refere o art. 5º do presente decreto, será criado um fundo de reserva que proverá as renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 7º Para a manutenção da integridade do capital a que se refere o art. 5º do presente decreto, será criado um fundo de reserva que proverá as renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único - A constituição desse fundo, que se denominará reserva de renovação, será realizada por cotas especiais que incidirão sobre as tarifas, sob forma de percentagem. Estas cotas serão determinadas, tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 8º Findo o prazo da concessão, toda a propriedade da concessionária, que no momento existir em função exclusiva e permanente da produção transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Governo do Estado de Minas Gerais, de conformidade com o estipulado nos arts. 165 e 166 do Código de Águas mediante indenização na base do custo histórico do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 7º deste decreto.
+**Art**. 8º Findo o prazo da concessão, toda a propriedade da concessionária, que no momento existir em função exclusiva e permanente da produção transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Governo do Estado de Minas Gerais, de conformidade com o estipulado nos arts. 165 e 166 do Código de Águas mediante indenização na base do custo histórico do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 7º deste decreto.
 
 § 1º Se o Estado de Minas Gerais não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Governo Federal que a concessão seja renovada pela forma que no respectivo contrato deverá estar prevista.
 
 § 2º Para os efeitos do § 1º deste artigo, fica a concessionária obrigada a dar conhecimento ao Governo Federal da decisão do Estado de Minas Gerais e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 9º A concessionária gozará desde a data do registro de que trata o art. 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sobre a matéria.
+**Art**. 9º A concessionária gozará desde a data do registro de que trata o art. 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sobre a matéria.
 
-<strong>Art</strong>. 10. O presente decreto entrará em vigor na data da sua publicação.
+**Art**. 10. O presente decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 11. Revogam-se as disposições em contrário.
+**Art**. 11. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 14 de fevereiro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

@@ -1,5 +1,3 @@
-###DEC-050214-0-000-28-01-1961@@@
-
 DECRETO Nº 50.214, DE 28 DE Janeiro DE 1961.
 
 Ratifica os decretos que menciona.

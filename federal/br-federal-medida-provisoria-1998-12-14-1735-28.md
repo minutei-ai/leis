@@ -1,5 +1,3 @@
-###MPV-001735-0-028-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.735-28, DE 14 DE DEZEMBRO DE 1998.
 
 Altera a redação dos arts. 14, 18, 34, 44 e 49 da Lei nº 9.082, de 25 de julho de 1995, dos arts. 18, 19, 34, 35 e do § 4º do art. 53 da Lei nº 9.293, de 15 de julho de 1996, que dispõem, respectivamente, sobre as diretrizes para a elaboração da lei orçamentária para os exercícios de 1996 e 1997.

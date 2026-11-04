@@ -1,5 +1,3 @@
-###DEC-071614-0-000-22-12-1972@@@
-
 DECRETO Nº 71.614 - DE 22 DE DEZEMBRO DE 1972
 
 Concede reconhecimento da Faculdade de Filosofia, Ciências e Letras de Dracena, mantida pela Fundação Dracenense de Educação e Cultura - Dracena - SP.

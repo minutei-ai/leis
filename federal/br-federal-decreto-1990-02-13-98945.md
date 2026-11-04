@@ -1,7 +1,3 @@
-1
-
-###DEC-098945-0-000-13-02-1990@@@
-
 DECRETO Nº 98.945, DE 13 DE FEVEREIRO DE 1990
 
 Extingue cargo no Ministério das Relações Exteriores.

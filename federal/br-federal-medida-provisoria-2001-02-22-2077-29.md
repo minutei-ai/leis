@@ -1,5 +1,3 @@
-###MPV-002077-0-029-22-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.077-29, DE 22 DE FEVEREIRO DE 2001
 
 Institui o Auxílio-Transporte, dispõe sobre o pagamento dos militares e dos servidores do Poder Executivo Federal, inclusive de suas autarquias, fundações, empresas públicas e sociedades de economia mista, e dá outras providências.

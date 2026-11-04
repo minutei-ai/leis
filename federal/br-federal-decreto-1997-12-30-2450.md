@@ -1,5 +1,3 @@
-###DEC-002450-0-000-30-12-1997@@@
-
 DECRETO Nº 2.450, DE 30 DE DEZEMBRO DE 1997
 
 Prorroga a validade da inscrição em Restos a Pagar de Programas a cargo do Ministério do Planejamento e Orçamento.

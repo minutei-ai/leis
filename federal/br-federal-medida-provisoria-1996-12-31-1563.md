@@ -1,7 +1,3 @@
-1
-
-###MPV-001563-0-000-31-12-1996@@@
-
 # MEDIDA PROVISÓRIA N° 1.563, DE 31 DE DEZEMBRO DE 1996.
 
 Dispõe sobre a incidência do imposto de renda na fonte sobre rendimentos de beneficiários residentes ou domiciliados no exterior.

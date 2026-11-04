@@ -1,5 +1,3 @@
-###DEC-060100-0-000-20-01-1967@@@
-
 DECRETO Nº 60.100, DE 20 DE JANEIRO DE 1967.
 
 Aprova a constituição da Siderúrgica de Santa Catarina Sociedade Anônima - SIDESC.

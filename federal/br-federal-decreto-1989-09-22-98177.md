@@ -1,7 +1,3 @@
-1
-
-###DEC-098177-0-000-22-09-1989@@@
-
 DECRETO Nº 98.177, DE 22 DE SETEMBRO DE 1989
 
 Promulga o Tratado de Integração, Cooperação e Desenvolvimento, entre a Re­pública Federativa do Brasil e a República Argentina .

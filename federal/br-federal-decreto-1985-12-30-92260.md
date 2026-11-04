@@ -1,5 +1,3 @@
-###DEC-092260-0-000-30-12-1985@@@
-
 DECRETO Nº 92.260, DE 30 DE DEZEMBRO DE 1985
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Administração e Ciências Contábeis Luzwell.

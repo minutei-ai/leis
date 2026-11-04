@@ -1,5 +1,3 @@
-###DEC-075161-0-000-31-12-1974@@@
-
 DECRETO Nº 75.161, DE 31 DE DEZEMBRO DE 1974.
 
 Modifica a redação do Decreto número 69.618, de 30 de novembro de 1971, e prorroga sua vigência.

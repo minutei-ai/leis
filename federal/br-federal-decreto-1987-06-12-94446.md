@@ -1,5 +1,3 @@
-###DEC-094446-0-000-12-06-1987@@@
-
 DECRETO Nº 94.446, DE 12 DE JUNHO DE 1987
 
 Institui a Comissão de Coordenação Financeira e dá outras providências.

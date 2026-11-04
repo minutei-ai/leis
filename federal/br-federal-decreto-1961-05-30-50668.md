@@ -1,5 +1,3 @@
-###DEC-050668-0-000-30-05-1961@@@
-
 DECRETO Nº 50.668, DE 30 DE MAIO DE 1961.
 
 Altera o Regimento da Comissão de Classificação de Cargos.

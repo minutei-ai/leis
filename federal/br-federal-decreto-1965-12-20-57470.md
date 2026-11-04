@@ -1,5 +1,3 @@
-###DEC-057470-0-000-20-12-1965@@@
-
 DECRETO Nº 57.470, de 20 de dezembro de 1965.
 
 Declara de utilidade pública a Sociedade Cristã Maria e Jesus, com sede no Estado da Guanabara.

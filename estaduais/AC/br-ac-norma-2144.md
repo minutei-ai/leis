@@ -2,7 +2,11 @@ Revogada pela Lei nº [4.132 , de 17 de Julho de 2023.](https://legis.ac.gov.br/
 
 > **LEI Nº 3.387, DE 21 DE JUNHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Sistema Estadual de Ciência, Tecnologia e Inovação do Acre – SisTec-AC, cria o Programa Estadual de Fomento à Pesquisa, Desenvolvimento e Inovação – PROINOVA, e altera o Fundo de Desenvolvimento Científico e Tecnológico – FDCT.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Sistema Estadual de Ciência, Tecnologia e Inovação do Acre – SisTec-AC, cria o Programa Estadual de Fomento à Pesquisa, Desenvolvimento e Inovação – PROINOVA, e altera o Fundo de Desenvolvimento Científico e Tecnológico – FDCT.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

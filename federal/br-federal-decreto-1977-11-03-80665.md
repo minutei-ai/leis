@@ -1,5 +1,3 @@
-###DEC-080665-0-000-03-11-1977@@@
-
 DECRETO Nº 80.665, DE 03 DE NOVEMBRO DE 1977.
 
 Concede à Mineração Geral do Nordeste S/A. o direito de lavrar caulim no Município de Camaçari, Estado da Bahia.

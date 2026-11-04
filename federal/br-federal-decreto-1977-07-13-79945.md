@@ -1,5 +1,3 @@
-###DEC-079945-0-000-13-07-1977@@@
-
 Decreto nº 79.945, de 13 de julho de 1977
 
 Concede reconhecimento ao curso de Serviço Social, das Faculdades Integradas Santo Antônio, com sede na cidade de São Paulo, Estado de São Paulo.

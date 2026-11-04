@@ -1250,7 +1250,8 @@ Goiânia, 10 de julho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 [ANEXOS DA LDO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18914)

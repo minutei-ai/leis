@@ -1,14 +1,12 @@
-###DEC-036056-0-000-16-08-1954@@@
+**DECRETO Nº 36.056, DE 16 DE AGÔSTO DE 1954.**
 
-<strong>DECRETO Nº 36.056, DE 16 DE AGÔSTO DE 1954.</strong>
+***Altera a redação de dispositivos do Estatuto da Universidade do Paraná.***
 
-<em><strong>Altera a redação de dispositivos do Estatuto da Universidade do Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e de acôrdo com art. 2º, da Lei número 20, de 10 de fevereiro de 28 de 1947,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e de acôrdo com art. 2º, da Lei número 20, de 10 de fevereiro de 28 de 1947,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º No Estatuto da Universidade do Paraná, aprovado pelo Decreto nº 30 738, de 7 de abril de 1952, o artigo 16, item “<em>d</em>”; o artigo 27, parágrafo único; os artigos 42 e 46 passam a ter a seguinte redação, respectivamente:
+**Art**. 1º No Estatuto da Universidade do Paraná, aprovado pelo Decreto nº 30 738, de 7 de abril de 1952, o artigo 16, item “*d*”; o artigo 27, parágrafo único; os artigos 42 e 46 passam a ter a seguinte redação, respectivamente:
 
 “Art. 16. Ao Conselho Universitário compete:
 
@@ -24,12 +22,12 @@ Parágrafo único. A organização e seriação de cursos, os métodos de demons
 
 “Art. 46. As atribuições do Diretor constarão do regime de cada unidade universitária”.
 
-<strong>Art</strong>. 2º No Estatuto a que se refere o artigo anterior fica suprimido o item “<em>c</em>” do art. 16.
+**Art**. 2º No Estatuto a que se refere o artigo anterior fica suprimido o item “*c*” do art. 16.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 16 de agôsto de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Edgard Santos

@@ -1,5 +1,3 @@
-###DEC-091954-0-000-19-11-1985@@@
-
 Decreto nº 91.954, de 19 de novembro de 1985
 
 Revoga dispositivos dos Decretos nº 89.659, de 15 de maio de 1984  e nº 89.684, de 15 de maio de 1984.

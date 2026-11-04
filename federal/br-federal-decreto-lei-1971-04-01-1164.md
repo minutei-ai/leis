@@ -1,5 +1,3 @@
-###DEL-001164-0-000-01-04-1971@@@
-
 # DECRETO-LEI Nº 1.164, DE 1 De ABRIL DE 1971
 
 Declara indispensáveis à segurança e ao desenvolvimento nacionais terras devolutas situadas na faixa de cem quilômetros de largura em cada lado do eixo de rodovias na Amazônia Legal, e dá outras providências.

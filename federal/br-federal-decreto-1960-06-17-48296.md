@@ -1,5 +1,3 @@
-###DEC-048296-0-000-17-06-1960@@@
-
 DECRETo Nº 48.296, DE 17 DE JUNHO DE 1960.
 
 Renova o Decreto nº 43.347, de 12 de março de 1958.

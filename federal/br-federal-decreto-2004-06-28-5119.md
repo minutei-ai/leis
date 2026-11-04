@@ -1,5 +1,3 @@
-###DEC-005119-0-000-28-06-2004@@@
-
 DECRETO N o 5.119, DE 28 DE JUNHO DE 2004
 
 Revoga o dispositivo que menciona e o Decreto nº 4.364, de 6 de setembro de 2002.

@@ -1,5 +1,3 @@
-###DEC-081046-0-000-15-12-1977@@@
-
 DECRETO Nº 81.046, DE 15 DE DEZEMBRO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208770)<br>
-
 # DECRETO N° 68.063, DE 07 DE NOVEMBRO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Campinas, o imóvel que especifica._

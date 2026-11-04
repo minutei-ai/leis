@@ -1,5 +1,3 @@
-###DEC-078909-0-000-07-12-1976@@@
-
 DECRETO Nº 78.909, DE 7 DE DEZEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação pela Siderurgia Brasileira S.A. - SIDERBRÁS, áreas de terra situadas no Município de Vitoria e Serra, Estado do Espírito Santo.
@@ -12,7 +10,113 @@ Art. 1º São declaradas de  utilidade pública para fins de desapropriação p
 
 Art. 2º As áreas a que se refere este Decreto, totalizam aproximadamente 7.130.000m² (sete milhões, cento e trinta mil metros quadrados), delimitadas na planta nº SDT - 006, de 15/09/76, na qual se adotou como referencia o marco de número 23.015 da Diretoria de Hidrografia e Navegação da Marinha, localizado junto a Ponta de Tubarão, com J = 20º 16'46,407" e l = 40º 14'28,908" e coordenadas x = 20.000, e Y= 10.000 no sistema adotado. As áreas em questão se acham delimitadas pelo polígono cujos vértice são os seguintes:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PONTO</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">X</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Y</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E1</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.759,92</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11.731,60</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E2</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">19.991,31</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">12.411,11</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E3</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">18.230,00</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.212,80</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">F0</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">18.007,00</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.567,52</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">F1</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">17.991,74</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.752,33</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">F3</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">18.320,73</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.799,91</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">F4</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">18.727,52</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.509,18</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E6</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">19,204,31</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">16,176,32</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E7</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.506,04</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15,246,00</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E8</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.718,56</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">14.442,68</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E9</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.416,21</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">14.019,61</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">E10</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">21.685,40</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">13.112,55</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">D3</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">21.679,56</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">13.018,39</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">D4</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">21.677,20</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">12.860,30</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">D5</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">21.844,53</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">12.630,08</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">D1</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">12.199,12</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11.727,01</span></p></td></tr><tr><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">D2</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.888,79</span></p></td><td style="width:142.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11.911,92</span></p></td></tr></tbody></table>
+PONTO
+
+X
+
+Y
+
+E1
+
+20.759,92
+
+11.731,60
+
+E2
+
+19.991,31
+
+12.411,11
+
+E3
+
+18.230,00
+
+15.212,80
+
+F0
+
+18.007,00
+
+15.567,52
+
+F1
+
+17.991,74
+
+15.752,33
+
+F3
+
+18.320,73
+
+15.799,91
+
+F4
+
+18.727,52
+
+15.509,18
+
+E6
+
+19,204,31
+
+16,176,32
+
+E7
+
+20.506,04
+
+15,246,00
+
+E8
+
+20.718,56
+
+14.442,68
+
+E9
+
+20.416,21
+
+14.019,61
+
+E10
+
+21.685,40
+
+13.112,55
+
+D3
+
+21.679,56
+
+13.018,39
+
+D4
+
+21.677,20
+
+12.860,30
+
+D5
+
+21.844,53
+
+12.630,08
+
+D1
+
+12.199,12
+
+11.727,01
+
+D2
+
+20.888,79
+
+11.911,92
 
 O polígono é completado pela costa marítima entre os vértices D1 e D4.
 

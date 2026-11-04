@@ -1,5 +1,3 @@
-###DEC-090038-0-000-09-08-1984@@@
-
 Decreto nº 90.038, de 09 de agosto de 1984
 
 Dispõe sobre a indenização das contribuições referentes a período em que não era obrigatória a filiação à previdência social urbana.

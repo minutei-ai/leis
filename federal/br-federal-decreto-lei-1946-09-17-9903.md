@@ -1,5 +1,3 @@
-###DEL-009903-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.903 – DE 17 DE SETEMBRO DE 1946
 
 Dispõe sôbre as atribuições da Inspetoria Geral Penitenciária e dá outras providências.

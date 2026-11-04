@@ -1,5 +1,3 @@
-###DEC-095217-0-000-13-11-1987@@@
-
 DECRETO N° 95.217, DE 13 DE NOVEMBRO DE 1987
 
 Renova a concessão outorgada à FUNDAÇÃO EDUCACIONAL UNIÃO DA SERRA - RÁDIO VERANENSE DE VERANÓPOLIS, para explorar serviço de radiodifusão sonora em onda média, na cidade de Veranópolis, Estado do Rio Grande do Sul.

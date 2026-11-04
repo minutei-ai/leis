@@ -1,5 +1,3 @@
-###DEC-057128-0-000-20-10-1965@@@
-
 DECRETO Nº 57.128, DE 20 DE OUTUBRO DE 1965.
 
 Delega poderes ao Presidente do Conselho Nacional de Telecomunicações, para autorizar a realização de coleta de preços e concorrência administrativa e dispensa de concorrência, na forma prevista na letra c, item IV, do art. 1º da Lei nº 4.401, de 10 de setembro de 1964.

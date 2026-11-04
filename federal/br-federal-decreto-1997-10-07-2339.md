@@ -1,5 +1,3 @@
-###DEC-002339-0-000-07-10-1997@@@
-
 DECRETO Nº 2.339, DE 7 DE OUTUBRO DE 1997
 
 Dá nova redação aos arts. 2º e 3º do Decreto nº 2.220, de 6 de maio de 1997.

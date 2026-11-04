@@ -1,7 +1,3 @@
-1
-
-###DEC-002047-0-000-29-10-1996@@@
-
 DECRETO Nº 2.047, DE 29 DE OUTUBRO DE 1996.
 
 Dá nova redação aos arts. 2º, 29 e 30 do Anexo I ao Decreto nº 1.757, de 22 de dezembro de 1995, e dispõe sobre o Conselho Deliberativo da Política do Café.

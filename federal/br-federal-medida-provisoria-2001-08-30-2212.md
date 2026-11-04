@@ -1,5 +1,3 @@
-###MPV-002212-0-000-30-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.212, DE 30 DE AGOSTO DE 2001
 
  Cria o Programa de Subsídio à Habitação de Interesse Social - PSH, e dá outras providências.

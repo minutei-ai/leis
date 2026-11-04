@@ -1,5 +1,3 @@
-###DEC-067987-0-000-30-12-1970@@@
-
 Decreto nº 67.987, de 30 de dezembro de 1970.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal do Departamento Nacional de Estradas de Ro dagem (DNER), do Ministério dos Transportes, e dá outras providências.

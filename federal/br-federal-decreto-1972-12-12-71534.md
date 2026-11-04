@@ -1,5 +1,3 @@
-###DEC-071534-0-000-12-12-1972@@@
-
 DECRETO Nº 71.534, DE 12 DE DEZEMBRO DE 1972.
 
 Dispõe sobre a estrutura, funcionamento e competência do Ministério das Relações Exteriores, e dá outras providências.

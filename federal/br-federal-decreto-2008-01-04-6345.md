@@ -1,5 +1,3 @@
-###DEC-006345-0-000-04-01-2008@@@
-
 DECRETO Nº 6.345, DE 4 DE JANEIRO DE 2008.
 
 Altera o Decreto no 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.
@@ -33,5 +31,3 @@ VIII - nas demais operações de câmbio: trinta e oito centésimos por cento.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 7.1.2008

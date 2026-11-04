@@ -1,5 +1,3 @@
-###DEC-050465-0-000-14-04-1961@@@
-
 (\*) DECRETO Nº 50.465, DE 14 DE ABRIL DE 1961.
 
 Cria o Instituto Brasileiro de Estudos Afro-Asiáticos.

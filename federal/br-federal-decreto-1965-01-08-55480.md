@@ -1,5 +1,3 @@
-###DEC-055480-0-000-08-01-1965@@@
-
 DECRETO Nº 55.480, DE 8 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Jayme Vieira Marques da Costa a pesquisar calcário, argila e xisto argiloso, no município de Iporanga, Estado de São Paulo.

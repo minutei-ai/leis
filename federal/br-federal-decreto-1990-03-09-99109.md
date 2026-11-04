@@ -1,7 +1,3 @@
-1
-
-###DEC-099109-0-000-09-03-1990@@@
-
 DECRETO Nº 99.109, DE 9 DE MARÇO DE 1990
 
 Cria, no Estado do Amazonas, a Flo­resta Nacional Cuiar com os limites que es­pecífica, e dá outras providências.

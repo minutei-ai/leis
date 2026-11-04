@@ -1,5 +1,3 @@
-###DEC-006464-0-000-27-05-2008@@@
-
 DECRETO Nº 6.464, DE 27 DE MAIO DE 2008.
 
 Dispõe sobre a designação e atuação de adidos agrícolas junto a missões diplomáticas brasileiras no exterior, e dá outras providências.
@@ -145,5 +143,3 @@ Samuel Pinheiro Guimarães Neto
 Reinhold Stefhanes
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 28.5.2008

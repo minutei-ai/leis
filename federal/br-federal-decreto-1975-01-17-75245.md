@@ -1,5 +1,3 @@
-###DEC-075245-0-000-17-01-1975@@@
-
 DECRETO Nº 75.245, DE JANEIRO DE 1975.
 
 Outorga à Pinhofleck - Sociedade Produtora e Comercial de Madeiras S.A. concessão para o aproveitamento hidráulico de um trecho do rio Chopim, Município se Mangueirinha, Estado do Paraná, para uso exclusivo.

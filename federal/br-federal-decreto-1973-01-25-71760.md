@@ -1,5 +1,3 @@
-###DEC-071760-0-000-25-01-1973@@@
-
 DECRETO Nº 71.760, DE 25 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação, Ciências e Letras "Notre Dame", mantida pela Sociedade Educacional "Notre Dame", Rio de Janeiro, Estado da Guanabara.

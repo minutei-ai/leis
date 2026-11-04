@@ -1,5 +1,3 @@
-###DEL-002122-0-000-09-04-1940@@@
-
 DECRETO-LEI N. 2.122 – DE 9 DE ABRIL DE 1940
 
 Reorganiza o Instituto de Aposentadoria e Pensões dos Comerciários

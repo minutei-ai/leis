@@ -1,5 +1,3 @@
-###DEC-048820-0-000-12-08-1960@@@
-
 DECRETO Nº 48.820, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir uma linha de transmissão.

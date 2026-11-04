@@ -1,5 +1,3 @@
-###DEC-078270-0-000-17-08-1976@@@
-
 DECRETO Nº 78.270, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Geografia, da Faculdade de Filosofia, Ciências e Letras de Guarulhos, com sede na cidade de Guarulhos, Estado de São Paulo.

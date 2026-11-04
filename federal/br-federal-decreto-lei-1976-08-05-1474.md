@@ -1,5 +1,3 @@
-###DEL-001474-0-000-05-08-1976@@@
-
 # DECRETO-LEI Nº 1.474, DE 5 DE AGOSTO DE 1976
 
 Altera a redação do artigo 2º do Decreto-Lei nº 1.453, de 6 de abril de 1976, e dá outras providências

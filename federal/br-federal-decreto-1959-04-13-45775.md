@@ -1,5 +1,3 @@
-###DEC-045775-0-000-13-04-1959@@@
-
 DECRETO Nº 45.775, DE 13 DE ABRIL DE 1959.
 
 Concede autorização para funcionamento de Cursos.

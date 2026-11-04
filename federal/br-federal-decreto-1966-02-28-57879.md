@@ -1,5 +1,3 @@
-###DEC-057879-0-000-28-02-1966@@@
-
 DECRETO Nº 57.879, DE 28 DE FEVEREIRO DE 1966.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica.

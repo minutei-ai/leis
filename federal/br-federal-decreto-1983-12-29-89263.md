@@ -1,5 +1,3 @@
-###DEC-089263-0-000-29-12-1983@@@
-
 Decreto nº 89.263, de 29 de dezembro de 1983
 
 Concede à SIDERURGIA BRASILEIRA S.A.-SIDERBRÁS (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital autorizado, bem como do capital social.

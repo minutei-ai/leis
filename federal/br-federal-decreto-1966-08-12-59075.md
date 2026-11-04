@@ -1,5 +1,3 @@
-###DEC-059075-0-000-12-08-1966@@@
-
 DECRETO Nº 59.075, DE 12 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro Marcelino Gonçalves Júnior a pesquisar mica no município de Macaé, Estado de Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-079070-0-000-30-12-1976@@@
-
 DECRETO Nº 79.070, DE 30 DE DEZEMBRO DE 1976
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Faculdade de Ciências Econômicas de Blumenau, com sede na cidade de Blumenau, Estado de santa Catarina.

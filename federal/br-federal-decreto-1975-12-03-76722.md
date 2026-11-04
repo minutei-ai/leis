@@ -1,5 +1,3 @@
-###DEC-076722-0-000-03-12-1975@@@
-
 DECRETO Nº 76.722, DE 3 DE DEZEMBRO DE 1975.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (D.N.O.C.S.), área de terra abrangida pelo Projeto de Irrigação "Estreito - Setor III", nos municípios de Urandí e Sebastião Laranjeiras, Estado da Bahia.

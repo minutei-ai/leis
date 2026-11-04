@@ -1,5 +1,3 @@
-###MPV-001870-0-030-26-08-1999@@@
-
 Medida Provisória nº 1.870-30, de 26 de agosto de 1999.
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1997 a 30 de abril de 1998.

@@ -1,5 +1,3 @@
-###DEC-060688-0-000-05-05-1967@@@
-
 DECRETO Nº 60.688, DE 5 DE MAIO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. – CEMIG, concessão para distribuir energia elétrica no município de Itanhandu, Estado de Minas Gerais.

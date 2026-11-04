@@ -1,7 +1,3 @@
-1
-
-###DEC-000018-0-000-01-02-1991@@@
-
 DECRETO Nº 18, DE 1º DE FEVEREIRO DE 1991
 
 Altera o Decreto nº 99.350, de 27 de junho de 1990.

@@ -4,7 +4,8 @@ Institui a criação do Programa Aparecida Cooperando e Reciclando com Dignidade
 
 FAÇO SABER QUE A CÂMARA MUNICPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º. Esta Lei institui a criação do Programa Aparecida Cooperando e Reciclando com Dignidade e estabelece as condições para o serviço público de coleta seletiva dos resíduos sólidos em residências, empresas e indústrias deste município.
@@ -75,7 +76,8 @@ XIV.    Destinação Final Ambientalmente Adequada: destinação de resíduos
 
 XV.    Disposição Final Ambientalmente Adequada: distribuição ordenada de rejeitos em aterros, observando normas operacionais específicas de modo a evitar danos ou riscos à saúde pública e à segurança e a minimizar os impactos ambientais adversos
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS PRINCÍPIOS FUNDAMENTAIS
 
 Art. 5º. Esta lei estabelece as diretrizes municipais para a implantação do Programa Aparecida Cooperando e Reciclando com Dignidade, que inclui a responsabilidade social com os Trabalhadores (Catadores) de Materiais Recicláveis, e a universalização do acesso ao serviço público de coleta seletiva de resíduos sólidos recicláveis nas residências, empresas e indústrias,  no município de Aparecida de Goiânia, definindo que este será estruturado com:
@@ -118,7 +120,8 @@ Art. 6º. Os geradores de resíduos sólidos domiciliares e recicláveis são re
 
 Art. 7º. Cabe ao Município realizar a coleta dos resíduos recicláveis, devendo o gerador segregá-los previamente, acondicioná-los e dispô-los para coleta nos dias e períodos estabelecidos que deverão ser divulgados pelo Poder Público.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 FORMAÇÃO DE COOPERATIVAS OU ASSOCIAÇÕES DE CATADORES DE MATERIAIS RECICLÁVEIS
 
 Art. 8º. Estará habilitada a participar do Programa Aparecida Cooperando e Reciclando com Dignidade, as cooperativas ou associações de trabalhadores (catadores) de materiais recicláveis que atenderem aos dispositivos abaixo, e os estabelecidos na Lei Nº 12.690, de 19 de Julho de 2012, assim como as demais leis vigentes no município, assegurando que:
@@ -141,7 +144,8 @@ V.    que não exerça nenhuma outra atividade ilícita na cooperativa.
 
 Art. 9º. Compete ao Município de Aparecida de Goiânia o planejamento, execução e fiscalização das ações que garantam o atendimento à população e cooperativas ou associações de trabalhadores (catadores) de materiais recicláveis a qualidade do serviço de coleta seletiva executados de forma direta ou indireta.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 PLANEJAMENTO E PRESTAÇÃO DO SERVIÇO PÚBLICO DE COLETA SELETIVA
 
 Art. 10. O planejamento do serviço público de coleta seletiva de resíduos recicláveis será desenvolvido visando a universalização de seu alcance, com a consideração, entre outros, dos seguintes aspectos:
@@ -182,7 +186,8 @@ II. ação de sucateiros, ferro-velhos, atravessadores e financiadores do trabal
 
 III. armazenamento/acondicionamento de resíduos recicláveis em domicílios, com finalidade comercial ou que propiciem a multiplicação de vetores ou outros animais nocivos à saúde pública.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 RESPONSABILIDADES , ASPECTOS ECONÔMICOS E SOCIAIS
 
 Art. 15. Cabe ao Poder Público, através da Secretaria de Meio Ambiente, solicitar no momento de licenciamento ambiental das empresas e indústrias instaladas no município, a obrigatoriedade de segregação/separação dos resíduos recicláveis, assim como a sua destinação para o Programa Aparecida Cooperando e Reciclando com Dignidade.
@@ -205,7 +210,8 @@ I. a inclusão dos catadores informais não organizados na cooperativa e nos tra
 
 II. a educação continuada dos seus integrantes e suas responsabilidades como cooperados ou associados; a logística e a comercialização dos materiais recicláveis; limpeza e organização do galpão de triagem; divisão de horas trabalhadas e pagamentos dos cooperados ou associados; multas ocasionadas pelo descumprimento das legislações vigentes no municipio;
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DOS ATOS LESIVOS AO SERVIÇO DE COLETA SELETIVA E AO PROGRAMA APARECIDA COOPERANDO E RECICLANDO COM DIGNIDADE
 
 Art. 23. Consideram-se atos lesivos ao serviço de coleta seletiva e ao programa aparecida cooperando e reciclando com dignidade:
@@ -224,7 +230,8 @@ VI- aceitar o trabalho de menores de idade nas Cooperativas ou Associações de 
 
 Parágrafo único. Na ocorrência de qualquer ato lesivo definido nos incisos deste artigo deverá a Administração, através da Secretaria responsável pelo Programa Aparecida Cooperando e Reciclando com Dignidade acionar as Secretarias de Meio Ambiente e Regulação Urbana a notificar o infrator para, em quarenta e oito horas contadas a partir da notificação, regularizar a situação.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 FISCALIZAÇÃO E SANÇÕES ADMINISTRATIVAS
 
 Art. 24. O descumprimento ao disposto na presente Lei sujeitará o responsável às seguintes penalidades, que serão aplicadas pelo órgão competente do Município.
@@ -259,10 +266,12 @@ Art. 27. Esta Lei entrará em vigor 30 (trinta) dias após a sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 09 dias do mês de setembro do ano de 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração institucional
 
 ANEXO I

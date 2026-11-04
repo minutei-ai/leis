@@ -1,5 +1,3 @@
-###DEL-003183-0-000-09-04-1941@@@
-
 DECRETO-LEI N. 3.183 – DE 9 DE ABRIL DE 1941
 
 Cria, na Polícia Civil do Distrito Federal, a Delegacia de Estrangeiros, e dá outras providências

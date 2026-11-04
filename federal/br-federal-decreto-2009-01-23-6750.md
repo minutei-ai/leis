@@ -1,5 +1,3 @@
-###DEC-006750-0-000-23-01-2009@@@
-
 DECRETO Nº 6.750, DE 23 DE JANEIRO DE 2009.
 
 Altera o caput do art. 1o do Decreto no 6.359, de 18 de janeiro de 2008, que dispõe sobre o remanejamento temporário de cargos em comissão para o Ministério da Integração Nacional.

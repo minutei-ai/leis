@@ -1,5 +1,3 @@
-###DEC-086583-0-000-17-11-1981@@@
-
 decreto nº 86.583, de 17 de novembro de 1981
 
 Declara de utilidade pública, para fins de instituição de servidão de passagem, em favor da Petrobrás Fertilizantes S.A. - PETROFÉRTIL, subsidiária da Petróleo Brasileiro S/A PETROBRÁS, imóveis constituídos de terras e benfeitorias, que menciona.

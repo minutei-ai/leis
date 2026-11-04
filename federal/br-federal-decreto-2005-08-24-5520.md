@@ -1,5 +1,3 @@
-###DEC-005520-0-000-24-08-2005@@@
-
 DECRETO Nº 5.520, DE 24 DE AGOSTO DE 2005.
 
        Institui o Sistema Federal de Cultura - SFC e dispõe sobre a composição e o funcionamento do Conselho Nacional de Política Cultural - CNPC do Ministério da Cultura, e dá outras providências.
@@ -261,5 +259,3 @@ DO CONSELHO NACIONAL DE POLÍTICA CULTURAL - CNPC
 LUIZ INÁCIO LULA DA SILVA
 
 Gilberto Gil
-
-Este texto não substitui o publicado no DOU de 25.8.2005

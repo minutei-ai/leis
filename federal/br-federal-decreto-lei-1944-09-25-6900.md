@@ -1,5 +1,3 @@
-###DEL-006900-0-000-25-09-1944@@@
-
 DECRETO-LEI N. 6.900 – DE 25 DE SETEMBRO DE 1944
 
 Altera, sem aumento de despesa, o Orçamento Geral da República

@@ -1,5 +1,3 @@
-###DEC-004438-0-000-24-10-2002@@@
-
 DECRETO Nº 4.438, DE 24 DE OUTUBRO DE 2002
 
 Dá nova redação ao art. 11 do Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963.

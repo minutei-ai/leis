@@ -1,5 +1,3 @@
-###DEL-000637-0-000-18-06-1969@@@
-
 DECRETO-LEI Nº 637, DE 18 DE JUNHO DE 1969
 
 Acresce os efetivos de oficiais e praça no Exército e dá outras providências.

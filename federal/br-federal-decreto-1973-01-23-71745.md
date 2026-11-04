@@ -1,5 +1,3 @@
-###DEC-071745-0-000-23-01-1973@@@
-
 DECRETO Nº 71.745, de 23 de janeiro de 1973.
 
 Torna-se sem efeito aproveitamento de disponível no Ministério da Marinha.

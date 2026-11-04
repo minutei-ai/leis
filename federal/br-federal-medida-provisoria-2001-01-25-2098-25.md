@@ -1,5 +1,3 @@
-###MPV-002098-0-025-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.098-25, DE 25 DE JANEIRO DE 2001
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-065312-0-000-09-10-1969@@@
-
 DECRETO Nº 65.312 - DE 9 DE OUTUBRO DE 1969.
 
 Regulamenta o Decreto-lei nº 610, de 4 de junho de 1969, que criou os Quadros Complementares de Oficiais da Marinha de Guerra.

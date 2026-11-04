@@ -1,5 +1,3 @@
-###DEC-056167-0-000-28-04-1965@@@
-
 DECRETO Nº 56.167, DE 28 DE ABRIL DE 1965.
 
 Renova o Decreto nº 51.247, de 24 de agôsto de 1961.

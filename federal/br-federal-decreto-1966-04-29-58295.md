@@ -1,5 +1,3 @@
-###DEC-058295-0-000-29-04-1966@@@
-
 DECRETO Nº 58.295, DE 29 DE ABRIL DE 1966.
 
 Autoriza o Banco Central da República do Brasil a negociar e contratar com o Banco Interamericano de Desenvolvimento operação de empréstimo em moeda estrangeira, para o fim que especifica.

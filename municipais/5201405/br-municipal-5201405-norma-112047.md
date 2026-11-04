@@ -4,12 +4,14 @@ DISPÕE SOBRE O ESTATUTO DOS SERVIDORES DO MAGISTÉRIO DA PREFEITURA MUNICIPAL D
 
 FAÇO SABER QUE A CÃMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI: ESTATUTO DOS SERVIDORES DO MAGISTÉRIO
 
-TÍTULO I<br>
+TÍTULO I
+
 DO OBJETIVO
 
 Art. 1º - O Estatuto dos Servidores do Magistério Público do Município de Aparecida de Goiânia, regulamenta suas atividades específicas, estabelecendo normas sobre seus direitos, vantagens e deveres.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
  DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 2º - O regime jurídico dos servidores do Magistério é o estabelecido neste Estatuto e, subsidiariamente, no Estatuto dos Servidores Públicos, da Prefeitura Municipal de Aparecida de Goiânia.
@@ -40,29 +42,34 @@ Art. 5º - As funções de Magistério são de lotação privativa da Secretaria
 
 § 4.º - Em se tratando de cargo em comissão, o servidor a que se refere o parágrafo anterior poderá optar pelo vencimento do respectivo cargo em comissão.
 
-TÍTULO II<br>
+TÍTULO II
+
 DO REGIME FUNCIONAL
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
  DO PROVIMENTO
 
 Art. 6º - O cargo na Carreira do Magistério será provido mediante concurso público de provas ou provas e títulos, de natureza competitiva, eliminatória e classificatória, obedecidos aos pré-requisitos constantes do Plano de Carreira e Vencimentos do Magistério Público, da Prefeitura Municipal de Aparecida de Goiânia.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
  DA ADMINISTRAÇÃO ESCOLAR
 
 Art. 7º - Compreendem-se como atividades da Administração Escolar os atos inerentes à direção, assessoramento e assistência em unidades escolares com atribuições básicas pertinentes ao ensino, bem como nas unidades regionais e em unidade da Secretaria Municipal de Educação, com atribuições educacionais específicas.
 
 ~~Art. 8º - A função de Diretor de unidade escolar, será exercida por portador de curso de graduação em educação, de livre escolha do Chefe do Poder Executivo, e que possua, no mínimo, três anos de experiência no exercício de atividades docentes ou de suporte pedagógico direto.~~
 
-~~Parágrafo Único - O Diretor, nos seus afastamentos legais superiores a 30 (trinta) dias, terá um substituto remunerado que preencha os requisitos exigidos para o exercício da função, escolhido pelo titular da Secretaria Municipal de Educação.~~<br>
+~~Parágrafo Único - O Diretor, nos seus afastamentos legais superiores a 30 (trinta) dias, terá um substituto remunerado que preencha os requisitos exigidos para o exercício da função, escolhido pelo titular da Secretaria Municipal de Educação.~~
+
 (Revogado pela Lei Ordinária nº 2.861, de 13 de novembro de 2009).
 
 Art. 9º - Será constituído, em cada estabelecimento de ensino municipal, o Conselho Escolar composto pela direção da unidade escolar, por representantes dos Profissionais da Educação, dos servidores de apoio técnico-especializado, administrativos e de serviços auxiliares, dos alunos e dos pais, eleitos pelos seus pares, de acordo com as normas estabelecidas pela Secretaria Municipal de Educação.
 
 Parágrafo Único - O Conselho Escolar tem por objetivo promover o desenvolvimento das atividades educacionais, dentro do espírito democrático, assegurada a participação da comunidade escolar na discussão das questões pedagógico-administrativas.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA JORNADA DE TRABALHO
 
 Art. 10 - A jornada semanal de trabalho do servidor do Magistério será estabelecida de acordo com a necessidade da administração e a disponibilidade do servidor, observada a compatibilidade de horário.
@@ -89,34 +96,40 @@ II. Em regime especial de trabalho, nos termos da legislação específica.
 
 § 2.º - O substituto perceberá de acordo com o vencimento básico do cargo e a correspondente carga horária do substituído, devendo possuir habilitação, no mínimo, equivalente a do substituído.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
  DA PROMOÇÃO FUNCIONAL
 
 Art. 13 - A promoção funcional do servidor do Magistério ocorrerá mediante o estabelecido no Plano de Carreira e Vencimentos dos servidores integrantes do Grupo Ocupacional Magistério, da Prefeitura Municipal de Aparecida de Goiânia.
 
-TÍTULO III<br>
+TÍTULO III
+
 DOS DIREITOS E VANTAGENS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
  DO VENCIMENTO E DA REMUNERAÇÃO
 
 Art. 14 - Vencimento é a retribuição pecuniária devida ao servidor do Magistério pelo efetivo exercício do cargo, correspondente ao grau e padrão da respectiva classe.
 
 Art. 15 - Remuneração é o vencimento acrescido das vantagens pecuniárias, atribuídas em lei, ao servidor do Magistério pelo efetivo exercício do cargo.
 
-SEÇÃO ÚNICA<br>
+SEÇÃO ÚNICA
+
 DA REMUNERAÇÃO DE DIRETOR DE ESCOLA
 
 Art. 16 - O Diretor de unidade escolar pública do Município de Aparecida de Goiânia perceberá vencimento correspondente à carga horária máxima prevista para os seus cargos efetivos, acrescidos da gratificação de Diretor, nos termos do Plano de Carreira e Vencimentos do Magistério.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
  DAS VANTAGENS PECUNIÁRIAS
 
 Art. 17 – As vantagens pecuniárias devidas ao ocupante do cargo de Profissional de Educação, são as estabelecidas no Plano de Carreira e Vencimentos do Grupo Ocupacional Magistério.
 
 Art. 18 - Ao servidor investido em cargo de provimento em comissão, é dado optar pelo vencimento ou remuneração de seu cargo efetivo, sem prejuízo da gratificação de representação respectiva.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
  DAS FÉRIAS E DO RECESSO
 
 Art. 19 - Observado o disposto no Estatuto dos Servidores Públicos do Município de Aparecida de Goiânia, o Profissional de Educação gozará anualmente:
@@ -139,7 +152,8 @@ Art. 22 - O servidor do Magistério não é obrigado a interromper suas férias,
 
 Art. 23 - É vedado levar à conta de férias qualquer falta ao serviço.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
  DAS LICENÇAS
 
 Art. 24 – Além das licenças previstas no Estatuto dos Servidores da Prefeitura Municipal de Aparecida de Goiânia, poderá ser concedida ao servidor do Magistério a Licença para Aprimoramento Profissional.
@@ -156,10 +170,12 @@ Parágrafo Único - Não cumprindo o compromisso, o servidor ficará obrigado a 
 
 Art. 27 – O servidor do Magistério, poderá ainda, a critério do titular da Pasta, ser liberado para participação em congressos, seminários e simpósios.
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DOS DEVERES E PROIBIÇÕES
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
  DOS DEVERES
 
 Art. 28 - Em razão do excepcional relevância de suas atribuições, ao Servidor do Magistério impõe-se conduta ilibada.
@@ -242,8 +258,8 @@ VI -     comunicar ao Secretário (a) da Educação, quando for necessária, 
 
 VII -     propor a aplicação de penalidades.
 
-<br>
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS PROIBIÇÕES
 
 Art. 31 - Ao servidor do Magistério, além do disposto no Estatuto do Servidor Público do Município de Aparecida de Goiânia, é proibido:
@@ -394,18 +410,22 @@ I -    A responsabilidade civil decorre de procedimento: doloso ou culposo, q
 
 II -    A responsabilidade penal abrange os crimes e contravenções previstos no Código Penal, Lei das Contravenções Penais, Lei de Segurança Nacional e Legislação Complementar;
 
-III -    A responsabilidade funcional resulta de atos praticados ou omissões havidas no desempenho das atribuições ou função prejudiciais à Secretaria Municipal da Educação.<br>
+III -    A responsabilidade funcional resulta de atos praticados ou omissões havidas no desempenho das atribuições ou função prejudiciais à Secretaria Municipal da Educação.
+
  
 
-TÍTULO V<br>
+TÍTULO V
+
 DA APURAÇÃO DE IRREGULARIDADES
 
 Art. 33 - A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância, assegurada ao acusado ampla defesa, nos termos do Estatuto do Servidor Municipal de Aparecida de Goiânia.
 
-TÍTULO VI<br>
+TÍTULO VI
+
 DA DISTRIBUIÇÃO DO SERVIDOR DO MAGISTÉRIO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA LOTAÇÃO
 
 Art. 34 - Lotação é o ato mediante o qual a Secretaria Municipal de Educação determina o local em que o servidor do Magistério prestará serviços, priorizando as vagas existentes próximas à sua residência.
@@ -414,14 +434,16 @@ Art. 34 - Lotação é o ato mediante o qual a Secretaria Municipal de Educaçã
 
 § 2.º - O Profissional da Educação no exercício de atividades de suporte pedagógico direto poderá ser lotado nas diversas unidades da Secretaria Municipal de Educação e dar assistência às unidades escolares.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA REMOÇÃO
 
 Art. 35 - Remoção é o deslocamento, por necessidade do ensino ou por permuta, do servidor do Magistério de uma para outra unidade escolar, para unidade regional de ensino ou para unidade central da Secretaria Municipal de Educação.
 
 Parágrafo Único - A remoção do servidor do Magistério far-se-á no período compreendido entre o final de um ano letivo e o início do próximo, salvo interesse do ensino ou motivo de saúde, obedecidas às normas elaboradas pela Secretaria Municipal de Educação.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA CESSÃO
 
 Art. 36 - O Profissional da Educação, além das atribuições previstas neste Estatuto, poderá exercer atividades correlatas às do Magistério, ficando vedado o afastamento para o exercício de atividades burocráticas.
@@ -432,20 +454,24 @@ Art. 36 - O Profissional da Educação, além das atribuições previstas neste 
 
 Art. 37 - O afastamento do servidor do Magistério para outros órgãos do Município e órgãos das diferentes esferas de Governo, caso excepcionalmente aprovado, far-se-á sempre sem ônus para as verbas vinculadas à manutenção e desenvolvimento do ensino.
 
-TÍTULO VII<br>
+TÍTULO VII
+
 DA APOSENTADORIA
 
 Art. 38 – O servidor do Magistério da Prefeitura Municipal de Aparecida de Goiânia será aposentado nos termos da Constituição Federal e do Estatuto dos Servidores Públicos deste Município e do Regime de Previdência Municipal.
 
-TÍTULO VIII<br>
+TÍTULO VIII
+
 DO ADICIONAL NOTURNO
 
 Art. 39 -0 serviço noturno prestado em horário compreendido entre vinte e duas horas de um dia e cinco horas do dia seguinte, terá o valor da hora acrescido de mais vinte por cento, computando-se cada hora como cinqüenta e dois minutos e trinta segundos.
 
-TÍTULO IX<br>
+TÍTULO IX
+
 DO PROCESSO ADMINISTRATIVO DISCIPLINAR
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA SINDICÂNCIA
 
 Art. 40 - A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, seu órgão de origem, assegurada ao acusado ampla defesa.
@@ -466,12 +492,14 @@ Art. 40 - A autoridade que tiver ciência de irregularidade no serviço público
 
 Art. 41 - Da sindicância poderá resultar: arquivamento do processo; aplicação de penalidade de advertência ou suspensão de até trinta dias; instauração de processo disciplinar. Parágrafo Ùnico - Sempre que o ilícito praticado pelo servidor ensejar a imposição de penalidade de suspensão por mais de 30 (trinta) dias de demissão, cassação de aposentadoria ou disponibilidade, ou destituição de cargo em comissão, será obrigatória a instauração de processo disciplinar.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO AFASTAMENTO PREVENTIVO
 
 Art. 42 - Como medida cautelar e a fim de que o servidor não venha a influir na apuração da irregularidade, a autoridade instauradora do processo disciplinar poderá ordenar o seu afastamento do exercício do cargo pelo prazo de até sessenta dias, sem prejuízo da remuneração.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PROCESSO DISCIPLINAR
 
 Art. 43 - O processo disciplinar é o instrumento destinado a apurar responsabilidade de servidor por infração praticada no exercício de suas atribuições, ou que tenha relação mediata com as atribuições do cargo em que se encontre investido.
@@ -490,7 +518,8 @@ Art. 47 - 0 prazo para conclusão do processo disciplinar não excederá a 60 (s
 
 § 2.º - As reuniões da comissão serão registradas em atas que deverão detalhar as deliberações adotadas.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO INQUERITO
 
 Art. 48 - O inquérito administrativo obedecerá ao principio do contraditório, assegurada ao acusado, ampla defesa, com a utilização dos meios e recursos admitidos em direito.
@@ -557,7 +586,8 @@ Art. 60 - Apreciada a defesa à comissão elaborará relatório minucioso, onde 
 
 Art. 61 - O processo disciplinar, com o relatório conclusivo, será remetido à autoridade que determinou a sua instauração, para julgamento.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO JULGAMENTO
 
 Art. 62 - No prazo de vinte dias, contados do recebimento do processo, a autoridade julgadora proferirá a sua decisão.
@@ -584,7 +614,8 @@ Art. 66 - Quando a infração estiver capitulada como crime, o processo discipli
 
 Art. 67 - O servidor que responde processo disciplinar só poderá ser exonerado a pedido, ou aposentado voluntariamente após a conclusão do processo e o cumprimento da penalidade, caso aplicada.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA REVISÃO DO PROCESSO
 
 Art. 68 - O processo disciplinar poderá ser revisto, a qualquer tempo, a pedido ou de ofício, quando se aduzirem fatos novos ou circunstâncias suscetíveis de justificar a inocência do punido ou a inadequação da penalidade aplicada.
@@ -617,7 +648,8 @@ Art. 76 - Julgado procedente a revisão, será declarada sem efeito as penalidad
 
 Parágrafo Único - Da revisão do processo não poderá resultar agravamento de penalidade.
 
-TÍTULO X<br>
+TÍTULO X
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 77 - Consideram-se da família, além do cônjuge e filhos, quaisquer pessoas que vivam a expensas do servidor e constem de seu assentamento individual, mediante comprovação judicial.
@@ -676,7 +708,8 @@ Art. 92 - Será fornecido uniforme ao servidor, quando seu uso for obrigatório.
 
 Art. 93 - Os benefícios previstos neste estatuto somente serão concedidos mediante requerimento do servidor.
 
-TÍTULO XI<br>
+TÍTULO XI
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 94 - São considerados estáveis no serviço público do município os servidores em exercício que, mesmo não tendo sido admitidos mediante aprovação em concurso público, contavam com pelo menos cinco anos continuados de exercício no serviço público no dia 05 de outubro de 1988.
@@ -705,14 +738,18 @@ Art. 105 - Esta Lei entrará em vigor na data de sua publicação, conjuntamente
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e seis dias do mês de setembro de dois mil e seis.
 
-José Macedo de Araújo<br>
+José Macedo de Araújo
+
 Prefeito Municipal
 
-Adriana Ferreira da S. Oliveira Borges<br>
+Adriana Ferreira da S. Oliveira Borges
+
 Secretária da Educação
 
-Walter de Carvalho e Silva<br>
+Walter de Carvalho e Silva
+
 Secretário Executivo
 
-Marcelo Ribeiro Fernandes<br>
+Marcelo Ribeiro Fernandes
+
 Procurador Geral

@@ -1,7 +1,3 @@
-1
-
-###DEC-099619-0-000-18-10-1990@@@
-
 # DECRETO Nº99.619, DE 18 DE OUTUBRO DE 1990
 
 Altera o prazo de que trata o parágrafo único do art. 6º do Decreto 99.161, de 13 de março de 1990

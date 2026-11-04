@@ -1,5 +1,3 @@
-###DEC-055456-0-000-05-01-1965@@@
-
 DECRETO Nº 55.456, DE 5 JANEIRO DE 1965.
 
 Renova o Decreto nº 49.655, de 31 de dezembro de 1960.

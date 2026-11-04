@@ -1,5 +1,3 @@
-###DEC-050548-0-000-05-05-1961@@@
-
 Decreto nº 50.548, de 5 de maio de 1961.
 
 Autoriza Odesinho Justiniano de Souza, a comprar pedras preciosas.

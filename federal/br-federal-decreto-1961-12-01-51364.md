@@ -1,5 +1,3 @@
-###DEC-051364-0-000-01-12-1961@@@
-
 DECRETO Nº 51.364, DE 1º DE DEZEMBRO DE 1961.
 
 Dispõe sôbre os quadros de pessoal das Caixas Econômicas Federais e dá outras providências.

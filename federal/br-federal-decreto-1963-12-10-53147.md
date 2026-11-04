@@ -1,5 +1,3 @@
-###DEC-053147-0-000-10-12-1963@@@
-
 Decreto nº 53.147, de 10 de dezembro de 1963.
 
 Autoriza a Siderúrgica Oeste de Minas S.A. - SOMISA, a lavrar minério de ferro, no município de Itaúna, Estado de Minas Gerais.

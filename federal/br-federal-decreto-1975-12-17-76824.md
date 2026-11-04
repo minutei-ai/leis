@@ -1,5 +1,3 @@
-###DEC-076824-0-000-17-12-1975@@@
-
 DECRETO Nº 76.824, DE 17 DE DEZEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação pela Empresas Nucleares Brasileiras S.A. - NUCLEBRÁS, áreas de terra situadas em Santa Cruz, Município do Rio de Janeiro, Estado do Rio de Janeiro.

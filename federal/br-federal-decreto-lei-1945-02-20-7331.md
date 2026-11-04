@@ -1,5 +1,3 @@
-###DEL-007331-0-000-20-02-1945@@@
-
 DECRETO-LEI N. 7.331 – DE 20 DE FEVEREIRO DE 1945
 
 Dá nova aplicação aos recursos destinados ao Estádio Nacional e outras providências

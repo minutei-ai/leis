@@ -1,5 +1,3 @@
-###DEC-053797-0-000-23-03-1964@@@
-
 DECRETO Nº 53.797, DE 23 de março DE 1964.
 
 Autorizo o cidadão brasileiro Gustadio Netto Jr., a pesquisar aluviões auríferos, no município de São Felix do Xingu, Estado do Pará.

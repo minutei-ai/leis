@@ -1,5 +1,3 @@
-###DEC-089185-0-000-16-12-1983@@@
-
 Decreto nº 89.185, dE 16 de dezembro de 1983
 
 Autoriza o funcionamento do curso de Educação Física da Faculdade de Ciências Humanas de Marechal Cândido Rondon, Paraná.

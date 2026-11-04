@@ -1,5 +1,3 @@
-###DEC-070836-0-000-14-07-1972@@@
-
 decreto nº 70.836, de 14 de julho de 1972.
 
 Concede reconhecimento ao curso de Medicina da Faculdade de Ciências da Saúde da Universidade de Brasília.

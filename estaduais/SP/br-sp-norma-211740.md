@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211740)<br>
-
 # DECRETO N° 70.040, DE 30 DE OUTUBRO DE 2025
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha "Honra aos Combatentes da Primeira Guerra Mundial", instituída pelo Instituto Histórico Militar - IHM e dá providências correlatas_
@@ -18,7 +16,8 @@ Arthur Luis Pinho de Lima
 
 #### REGULAMENTO DA HONRARIA
 
-#### Capítulo I<br>
+#### Capítulo I
+
 Da Honraria
 
 **Artigo 1° -** A Medalha "Honra aos Combatentes da Primeira Guerra Mundial", tem por objetivo agraciar personalidades civis e militares, nacionais ou estrangeiras, de espírito altruísta que, sem temer o sacrifício, colocam a honra e os interesses da sociedade acima de tudo, cumprindo seu dever em todos os campos profissionais; que tenham prestado relevantes serviços em prol das causas defendidas pelo Instituto Histórico Militar, ou que, de algum modo, tenham prestado relevantes serviços à sociedade brasileira em geral, ao Estado de São Paulo e ao Povo, em particular.
@@ -65,7 +64,8 @@ g) roseta: redonda de ouro (metal dourado), de 10 mm dez milímetros) de diâmet
 
 h) diploma: o diploma terá as características e dizeres a serem estabelecidos pelo Instituto Histórico Militar, conforme orientações técnicas do Conselho Estadual da Ordem do Ipiranga, devendo possuir obrigatoriamente as seguintes informações: Anverso: Nome da honraria; nome completo do(a) agraciado(a); nome da instituição; número do decreto de oficialização; local, data e assinatura do Chanceler da instituição; Verso: Dados de registro do diploma na Instituição (Livro e Página/Sequência); chancela de registro do diploma junto ao Conselho Estadual da Ordem do Ipiranga.
 
-#### Capítulo II<br>
+#### Capítulo II
+
 Da Chancelaria e do Conselho de Outorgas
 
 **Artigo 4° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pelo Conselho de Outorgas atuando com base na legitimidade histórica, institucional e cultural que sustenta sua missão, sendo um órgão técnico-administrativo responsável por:
@@ -98,7 +98,8 @@ IV - um membro do Conselho Consultivo do Instituto;
 
 V - um membro honorário convidado, com notório saber ou atuação na área objeto da honraria.
 
-#### Capítulo III<br>
+#### Capítulo III
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 6° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler, e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual da Ordem do Ipiranga.
@@ -129,7 +130,8 @@ V- Secretário da Chancelaria, Vice-Chanceler, para os demais membros e suplente
 
 **Artigo 9° -** Caso a honraria permaneça por muito tempo sem ser outorgada e/ou nos casos em que o Conselho de Outorgas seja dissolvido, será necessário acender novamente a Fonte de Honra (Fons Honorum), conforme previsto no Artigo 6°.
 
-#### Capítulo IV<br>
+#### Capítulo IV
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 10 -** As indicações para a concessão da honraria serão dirigidas ao Conselho de Outorgas em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -170,7 +172,8 @@ Do Direito de Honra (Jus Honorum)
 
 **Artigo 17 -** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-#### Capítulo V<br>
+#### Capítulo V
+
 Do Registro e das Chancelas Oficiais dos Diplomas
 
 **Artigo 18 -** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
@@ -191,7 +194,8 @@ Do Registro e das Chancelas Oficiais dos Diplomas
 
 **§3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual da Ordem do Ipiranga.
 
-#### Capítulo VI<br>
+#### Capítulo VI
+
 Das Cerimônias de Outorga
 
 **Artigo 21 -** A outorga das condecorações será feita preferencialmente em solenidade pública, sempre que houver oportunidade para a divulgação dos ideais, dos valores e do trabalho, do Instituto Histórico Militar - IHM.
@@ -218,7 +222,8 @@ Das Cerimônias de Outorga
 
 **§3° -** Os membros da Chancelaria devem ostentar ao menos a roseta (botão de lapela) da honraria a ser outorgada.
 
-#### Capítulo VII<br>
+#### Capítulo VII
+
 Das Disposições Finais
 
 **Artigo 24 -** É vedada a comercialização da honraria, sob pena de revogação do decreto de oficialização.

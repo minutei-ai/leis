@@ -1,5 +1,3 @@
-###DEC-052108-0-000-11-06-1963@@@
-
 DECRETO Nº 52.108, DE 11 DE JUNHO DE 1963.
 
 Declara de interêsse social para fins de desapropriação e colonização uma área de terra situada no Município de Campos, Estado do Rio de Janeiro.

@@ -2,7 +2,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA PROMULGA E FAZ PUBLIC
 
 LEI Nº 6.366 DE 06 DE FEVEREIRO DE 1992
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.360](javascript: openDoc\() de 29 de junho de 2015 -  Atualiza na forma da Lei 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: Araci, Barrocas, Biritinga, Candeal, Cansanção, Conceição do Coité, Ichu, Itiúba, Lamarão, Monte Santo, Nordestina, Queimadas, Quijingue, Retirolândia, Santaluz, São Domingos, Serrinha, Teofilândia, Tucano e Valente.
 
 Altera os limites do Município de São Domingos com o Município de Valente.

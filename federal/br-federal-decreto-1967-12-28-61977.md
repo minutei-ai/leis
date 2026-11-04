@@ -1,5 +1,3 @@
-###DEC-061977-0-000-28-12-1967@@@
-
 Decreto nº 61.977, de 28 de dezembro de 1967.
 
 Extinção, transformação e mudanças de denominação de unidades.

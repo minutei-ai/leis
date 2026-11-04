@@ -1,5 +1,3 @@
-###DEL-005384-0-000-08-04-1943@@@
-
 DECRETO‑LEI N. 5.384 – DE 8 DE ABRIL DE 1943
 
 Dispõe sobre os beneficiários do seguro de vida

@@ -1,5 +1,3 @@
-###DEL-006256-0-000-09-02-1944@@@
-
 DECRETO-LEI N. 6.256 – DE 9 DE FEVEREIRO DE 1944
 
 Modifica o art. 6º e respectivos parágrafos do Decreto-lei nº 4.185, de 16 de março de 1942, que estabelece normas de contabilidade para os Ministérios da Guerra, Marinha e Aeronáutica, e dá outras providências.

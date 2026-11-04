@@ -1,5 +1,3 @@
-###DEC-075488-0-000-18-03-1975@@@
-
 DECRETO Nº 75.488, DE 18 DE MARÇO DE 1975
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Educação e Ciências Humanas "Prof. Laert de Carvalho", mantida pelo Centro de Estudos Unificados Bandeirante, com sede na cidade de Santos, Estado de São Paulo.

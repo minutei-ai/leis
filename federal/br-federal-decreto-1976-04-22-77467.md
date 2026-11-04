@@ -1,5 +1,3 @@
-###DEC-077467-0-000-22-04-1976@@@
-
 DECRETO N.º 77.467 - DE 22 DE ABRIL DE 1976
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz- CPFL, no Estado de São Paulo.

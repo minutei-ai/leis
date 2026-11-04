@@ -1,5 +1,3 @@
-###MPV-001739-0-022-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.739-22, DE 2 DE JUNHO DE 1999.
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

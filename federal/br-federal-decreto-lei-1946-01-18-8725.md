@@ -1,5 +1,3 @@
-###DEL-008725-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.725 – DE 18 DE JANEIRO DE 1946
 
 Desapropria, para fins de utilidade pública, o domínio direto de um terreno em Natal, Estado do Rio Grande do Norte, e autoria a aquisição de seu  domínio útil e da casa nele existente.

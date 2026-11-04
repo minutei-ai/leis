@@ -1,5 +1,3 @@
-###DEC-047367-0-000-04-12-1959@@@
-
 DECRETO Nº 47.367, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza a Indústria e Comércio de Águas S. A. a lavrar água mineral no município de Belo Horizonte, Estado de Minas Gerais.

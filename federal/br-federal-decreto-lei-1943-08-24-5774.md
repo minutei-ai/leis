@@ -1,5 +1,3 @@
-###DEL-005774-0-000-24-08-1943@@@
-
 DECRETO–LEI N. 5.774 – DE 24 DE AGÔSTO DE 1943
 
 Dispõe sôbre a aposentadoria de Sílvio pinheiro Guimarães

@@ -1,5 +1,3 @@
-###DEC-056457-0-000-10-06-1965@@@
-
 decreto nº 56.457, de 10 de junho de 1965.
 
 Revoga disposição do Decreto número 49.316, de 22 de novembro de 1960.

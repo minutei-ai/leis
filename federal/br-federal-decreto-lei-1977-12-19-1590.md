@@ -1,5 +1,3 @@
-###DEL-001590-0-000-19-12-1977@@@
-
 # Decreto-Lei nº 1.590, de 19 de dezembro de 1977.
 
 Dá nova redação a dispositivo do Decreto-Lei nº 1.310, de 08 de fevereiro de 1974, que altera a legislação referente ao Fundo do Exército.

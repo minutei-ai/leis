@@ -1,7 +1,3 @@
-1
-
-###DEL-002456-0-000-22-08-1988@@@
-
 # DECRETO-LEI Nº 2.456, DE 22 DE AGOSTO DE 1988
 
 Dispõe sobre a instituição de Caixa Único no Sistema de Transporte Público Coletivo do Distrito Federal e dá outras providências.

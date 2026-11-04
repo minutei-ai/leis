@@ -1,7 +1,3 @@
-1
-
-###DEC-098287-0-000-12-10-1989@@@
-
 DECRETO N° 98.287, DE 12 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do Curso Su­perior de Tecnologia em Processamento de Dados do Instituto Superior de Ensino e Pesquisa de Ituiutaba.

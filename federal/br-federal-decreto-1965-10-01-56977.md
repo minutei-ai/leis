@@ -1,5 +1,3 @@
-###DEC-056977-0-000-01-10-1965@@@
-
 DECRETO Nº 56.977, DE 1º DE OUTUBRO DE 1965.
 
 Outorga concessão à Televisão Morena Ltda., para instalar uma emissora de radiodifusão de sons e imagens (televisão).

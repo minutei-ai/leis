@@ -1,5 +1,3 @@
-###DEC-085939-0-000-28-04-1981@@@
-
 decreto nº 85.939, de 28 de abril de 1981.
 
 Concede autorização à empresa ELF-AQUITAINE BRÉSIL, para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

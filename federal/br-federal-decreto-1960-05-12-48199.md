@@ -1,5 +1,3 @@
-###DEC-048199-0-000-12-05-1960@@@
-
 decreto nº 48.199, de 12 de maio de 1960.
 
 Retifica o art. 1º do Decreto número 13.015, de 28 de julho de 1943.

@@ -1,5 +1,3 @@
-###DEC-007308-0-000-22-09-2010-PUB-01@@@
-
 DECRETO Nº 7.308, DE 22 DE SETEMBRO DE 2010.
 
 Altera o Decreto n~~º~~ 6.944, de 21 de agosto de 2009, no tocante à realização de avaliações psicológicas em concurso público.

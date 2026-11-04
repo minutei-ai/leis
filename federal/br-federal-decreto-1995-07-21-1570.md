@@ -1,7 +1,3 @@
-1
-
-###DEC-001570-0-000-21-07-1995@@@
-
 DECRETO Nº 1.570, DE 21 DE JULHO DE 1995.
 
 Regulamenta, no âmbito do Ministério das Relações Exteriores, o Capítulo V da Lei nº 7.501, de 27 de junho de 1986, que dispõe sobre o regime de contratação dos Auxiliares Locais.

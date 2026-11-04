@@ -1,5 +1,3 @@
-###DEC-067367-0-000-09-10-1970@@@
-
 DECRETO Nº 67.367, DE 9 DE OUTUBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Permanente - do Instituto Brasileiro de Desenvolvimento Florestal, cargos originários do Departamento Administrativo do Pessoal Civil (DASP).

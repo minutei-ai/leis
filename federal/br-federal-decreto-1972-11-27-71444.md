@@ -1,5 +1,3 @@
-###DEC-071444-0-000-27-11-1972@@@
-
 DECRETO Nº 71.444, DE 27 DE NOVEMBRO DE 1972.
 
 Aproveita no Quadro de Pessoal do Ministério da Agricultura, servidores em disponibilidade e dá outras providências.

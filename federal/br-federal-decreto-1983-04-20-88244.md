@@ -1,5 +1,3 @@
-###DEC-088244-0-000-20-04-1983@@@
-
 Decreto nº 88.244, de 20 de abril de 1983
 
 Autoriza a Coordenação Nacional do Ensino Agropecuário - COAGRI, órgão do Ministério da Educação e Cultura, a participar da Política Nacional de Cooperativismo, junto às Cooperativas-Escola.

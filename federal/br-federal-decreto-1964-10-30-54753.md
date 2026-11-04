@@ -1,5 +1,3 @@
-###DEC-054753-0-000-30-10-1964@@@
-
 DECRETO Nº 54.753, DE 30 DE OUTUBRO DE 1964.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia, autorização de estudos da bacia do rio Parão.

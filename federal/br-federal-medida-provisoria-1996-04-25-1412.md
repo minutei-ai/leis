@@ -1,7 +1,3 @@
-1
-
-###MPV-001412-0-000-25-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.412, de 25 de ABRIL DE 1996.
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

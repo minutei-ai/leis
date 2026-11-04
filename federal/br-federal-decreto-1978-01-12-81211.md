@@ -1,5 +1,3 @@
-###DEC-081211-0-000-12-01-1978@@@
-
 Decreto n.º 81 211, de 12 de janeiro de 1978.
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

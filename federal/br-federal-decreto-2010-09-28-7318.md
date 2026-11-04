@@ -1,5 +1,3 @@
-###DEC-007318-0-000-28-09-2010-PUB-01@@@
-
 DECRETO Nº 7.318, DE 28 DE SETEMBRO DE 2010.
 
 Altera e acresce dispositivo ao Decreto no 5.289, de 29 de novembro de 2004, para regulamentar a participação de servidores civis nas atividades desenvolvidas no âmbito da cooperação federativa prevista na Lei no 11.473, de 10 de maio de 2007

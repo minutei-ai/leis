@@ -1,5 +1,3 @@
-###DEC-062488-0-000-29-03-1968@@@
-
 DECRETO Nº 62.488, de 29 de março de 1968.
 
 Retifica o art. 1º do Decreto número 61.522, de 12 de Outubro de 1967, que declara de utilidade pública, para fins de desapropriação, uma área de 6,30m x 17,80m localizada no tôpo do Edifício Itália”, á Av. São Luiz nº 72, esquina com a Av. Ipiranga, na Cidade de São Paulo, necessária à instalação de uma estrutura metálica, com capacidade para suportar antenas parabólicas do Sistema Nacional de Telecomunicações.

@@ -1,5 +1,3 @@
-###DEL-003297-0-000-22-05-1941@@@
-
 DECRETO-LEI N. 3.297 – DE 22 DE MAIO DE 1941
 
 Dispõe sobre o contrato de professores estrangeiros para os estabelecimentos de ensino profissional

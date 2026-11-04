@@ -1,5 +1,3 @@
-###DEC-045127-0-000-29-12-1958@@@
-
 DECRETO Nº 45.127, DE 29 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Amaro Pinto de Barros a pesquisar água mineral no município de Fortaleza, Estado do Ceará.

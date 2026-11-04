@@ -1,5 +1,3 @@
-###DEC-082998-0-000-09-01-1979@@@
-
 Decreto nº 82.998, de 09 de janeiro de 1979
 
 Autoriza, até 31 de dezembro de 1979, o aproveitamento dos navios estrangeiros na cabotagem nacional.

@@ -1,5 +1,3 @@
-###DEC-048770-0-000-11-08-1960@@@
-
 DECRETO Nº 43.770, DE 11 DE AGôSTO DE 1960.
 
 Autoriza o Patrimônio da União a fazer a cessão de próprio nacional em Recife, Estado de Pernambuco.

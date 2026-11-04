@@ -1,7 +1,3 @@
-1
-
-###DEC-095692-0-000-01-02-1988@@@
-
 DECRETO N° 95.692, DE 1° DE FEVEREIRO DE 1988
 
 Outorga concessão à Rádio Bandeirantes de Vitória da Conquista Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Vitória da Conquista, Estado da Bahia.

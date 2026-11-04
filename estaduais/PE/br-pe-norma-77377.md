@@ -52,90 +52,50 @@ BIANCA FERREIRA TEIXEIRA
 
 ATRIBUIÇÕES, POSTOS, GRADUAÇÕES E VALORES DE RETRIBUIÇÃO DOS MILITARES INATIVOS DO ESTADO DESIGNADOS PARA A GMPE:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="146" valign="top" style="width:109.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">ATRIBUIÇÃO</span></p></td><td width="165" valign="top" style="width:123.9pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">POSTO/GRADUAÇÃO</span></p></td><td width="158" valign="top" style="width:118.45pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">EFETIVO PREVISTO</span></p></td><td width="135" valign="top" style="width:100.95pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">VALOR MENSAL DA</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">RETRIBUIÇÃO (R$)</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="146" valign="top" style="width:109.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">.............................</span></p></td><td width="165" valign="top" style="width:123.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">..................................</span></p></td><td width="158" valign="top" style="width:118.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">................................</span></p></td><td width="135" valign="top" style="width:100.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">...........................</span></p></td></tr><tr><td width="146" valign="top" style="width:109.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Guarda Patrimonial</span></p></td><td width="165" valign="top" style="width:123.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Praças inativos da PMPE ou do CBMPE</span></p></td><td width="158" valign="top" style="width:118.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1.633</span></p></td><td width="135" valign="top" style="width:100.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1.450,00 (NR)</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="146" valign="top" style="width:109.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Guarda de OME PMPE (AC)</span></p></td><td width="165" valign="top" style="width:123.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Praças inativos da PMPE (AC)</span></p></td><td width="158" valign="top" style="width:118.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">300 (AC)</span></p></td><td width="135" valign="top" style="width:100.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1.700,00 (AC)</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="146" valign="top" style="width:109.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Auxiliar Administrativo (AC)</span></p></td><td width="165" valign="top" style="width:123.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Praças inativos da PMPE (AC)</span></p></td><td width="158" valign="top" style="width:118.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">300 (AC)</span></p></td><td width="135" valign="top" style="width:100.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1.600,00 (AC)</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="146" valign="top" style="width:109.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">TOTAL</span></p></td><td width="165" valign="top" style="width:123.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="158" valign="top" style="width:118.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">4034 (NR)</span></p></td><td width="135" valign="top" style="width:100.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr></tbody></table>
+ATRIBUIÇÃO
+
+POSTO/GRADUAÇÃO
+
+EFETIVO PREVISTO
+
+VALOR MENSAL DA
+
+RETRIBUIÇÃO (R$)
+
+.............................
+
+..................................
+
+................................
+
+...........................
+
+Guarda Patrimonial
+
+Praças inativos da PMPE ou do CBMPE
+
+1.633
+
+1.450,00 (NR)
+
+Guarda de OME PMPE (AC)
+
+Praças inativos da PMPE (AC)
+
+300 (AC)
+
+1.700,00 (AC)
+
+Auxiliar Administrativo (AC)
+
+Praças inativos da PMPE (AC)
+
+300 (AC)
+
+1.600,00 (AC)
+
+TOTAL
+
+4034 (NR)
 
 ”

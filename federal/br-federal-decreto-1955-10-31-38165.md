@@ -1,12 +1,10 @@
-###DEC-038165-0-000-31-10-1955@@@
+**DECRETO Nº 38.165, DE 31 DE OUTUBRO DE 1955.**
 
-<strong>DECRETO Nº 38.165, DE 31 DE OUTUBRO DE 1955.</strong>
+***Concede autorização à American Motoris Insurance Company, com sede em Illinois., Estados Unidos da América, para funcionar na República, operando em seguros e resseguros dos ramos elementares.***
 
-<em><strong>Concede autorização à American Motoris Insurance Company, com sede em Illinois., Estados Unidos da América, para funcionar na República, operando em seguros e resseguros dos ramos elementares.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, Inciso I, da Constituição e nos têrmos do Decreto-lei nº 2.063, de 7 de março de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, Inciso I, da Constituição e nos têrmos do Decreto-lei nº 2.063, de 7 de março de 1940,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à American Motoris Insurance Company, com sede em Illinois, Estados Unidos da América autorização para funcionar na República, separando em seguros e resseguros dos ramos elementares, com os estatutos que apresentou, mediante as seguintes condições:
 
@@ -16,6 +14,6 @@ II - A Companhia ficará integralmente sujeita às leis e regulamentos vigentes,
 
 Rio de Janeiro, em 31 de outubro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Napoleão de Alencastro Guimarães

@@ -1,5 +1,3 @@
-###DEC-058496-0-000-24-05-1966@@@
-
 Decreto nº 58.496, de 24 de maio de 1966.
 
 Extingue a 2a Exatoria Federal em Ponte Nova, no Estado de Minas Gerais.

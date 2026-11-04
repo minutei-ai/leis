@@ -1,5 +1,3 @@
-###DEL-006318-0-000-06-03-1944@@@
-
 DECRETO-LEI N. 6.318 – DE 6 DE MARÇO DE 1944
 
 Cria um Hospital Militar de 2ª classe em Ponta Grossa

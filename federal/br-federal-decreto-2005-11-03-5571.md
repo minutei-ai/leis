@@ -1,5 +1,3 @@
-###DEC-005571-0-000-03-11-2005@@@
-
 DECRETO Nº 5.571, DE 3 DE NOVEMBRO DE 2005.
 
 Altera o Estatuto Social da Comercializadora Brasileira de Energia Emergencial - CBEE, aprovado pelo Decreto nº 3.900, de 29 de agosto de 2001.

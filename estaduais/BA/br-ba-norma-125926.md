@@ -48,8 +48,8 @@ II - com o Município de Rio do Pires - começa no rio do Pires, no ponto de enc
 
 III - Com o município de Rio de Contas- começa no alto da serra Itubira (coordenadas -13º 18' 40,96"; -41º 54' 32,82"), daí em reta, sentido sul, até o ponto na junção dos dois principais braços formadores do córrego do Bicho (coordenadas -13º 20' 01,21"; -41º 54' 50,21"), daí em reta, sentido sudoeste, até o ponto no entroncamento da estrada que liga as localidades Bicho-Rio da Caixa-Rio Sapé (coordenadas -13º 20' 34,76"; -41º 56' 52,62"), daí em reta, sentido sul, até o ponto no riacho João Ferreira (coordenadas -13º 24' 09,88"; 41º 56' 57,00"), segue pelo divisor de águas dos riachos Fundo, Falheta, Roda e do rio Brumado e da serra das Almas até o pico das Almas, na serra das Almas (coordenadas -13º 31' 35,91"; -41º 58' 02,29");
 
-<br>
-Redação de acordo com a Lei nº [13.721](https://www.legislabahia.ba.gov.br/documentos/lei-no-13721-de-27-de-abril-de-2017#LO%2013.721) , de 27 de abril de 2017.<br>
+Redação de acordo com a Lei nº [13.721](https://www.legislabahia.ba.gov.br/documentos/lei-no-13721-de-27-de-abril-de-2017#LO%2013.721) , de 27 de abril de 2017.
+
 Redação original: "III - com o Município de Rio de Contas - começa no alto da serra Itubira (coordenadas -13º 18' 40,96"; -41º 54' 32,82"), ao sul do pico dos Barbados, daí em reta, sentido sudoeste, até o pico das Almas, na serra das Almas  (coordenadas -13º 31' 35,91"; -41º 58' 02,29");"
 
 IV - com o Município de Livramento de Nossa Senhora - começa no pico das Almas, na serra da Almas (coordenadas -13º 31' 35,91"; -41º 58' 02,29"), segue por este divisor de águas até a nascente do riacho dos Quatis (coordenadas -13º 32' 45,39"; -41º 59' 26,03"), desce por este até a interseção com a reta que parte da ponta sul da serra das Crioulas em direção ao lugar Brejo (coordenadas -13º 37' 27,81"; -42º 01' 08,61");

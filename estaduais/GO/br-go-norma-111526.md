@@ -12,48 +12,426 @@ Art. 2º Esta portaria entra em vigor nesta data. GABINETE DO SECRETÁRIO DE EST
 
 QUADRO 1
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:100%;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:12%;    ">10 302 1043 2516</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">50</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 2.372.200,83</td><td style=" width:12%;    ">R$ 512.600,00</td><td style=" width:12%;    ">R$ 2.884.800,83</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>1500 - CONTROLADORIA-GERAL DO ESTADO</b><br>1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">APRIMORAMENTO DO COMPLIANCE PÚBLICO</td><td style=" width:12%;    ">04 124 1047 2330</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 860.893,43</td><td style=" width:12%;    ">R$ 565.128,16</td><td style=" width:12%;    ">R$ 1.426.021,59</td></tr><tr><td style=" width:12%;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:12%;    ">04 122 4200 4243</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 50.150,10</td><td style=" width:12%;    ">R$ 447.818,00</td><td style=" width:12%;    ">R$ 497.968,10</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">FOMENTO A ARRANJOS PRODUTIVOS LOCAIS - APL'S</td><td style=" width:12%;    ">11 334 1054 2448</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 20.338,42</td><td style=" width:12%;    ">R$ 1.078,25</td><td style=" width:12%;    ">R$ 21.416,67</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">CONSTRUÇÃO OU REFORMA DE INSTALAÇÃO FÍSICA DA UEG</td><td style=" width:12%;    ">12 364 1008 3206</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 500.000,00</td><td style=" width:12%;    ">R$ 500.000,00</td></tr><tr><td style=" width:12%;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:12%;    ">12 122 4200 4243</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 75.383,03</td><td style=" width:12%;    ">R$ 1.186.852,05</td><td style=" width:12%;    ">R$ 1.262.235,08</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 3.213.476,46</td></tr><tr><td style=" width:50%;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:50%;    ">R$ 3.213.476,46</td></tr></tbody></table>
+**SALDO ATUALIZADO**
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 2.372.200,83
+
+R$ 512.600,00
+
+R$ 2.884.800,83
+
+**1500 - CONTROLADORIA-GERAL DO ESTADO**
+1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+APRIMORAMENTO DO COMPLIANCE PÚBLICO
+
+04 124 1047 2330
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 860.893,43
+
+R$ 565.128,16
+
+R$ 1.426.021,59
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 50.150,10
+
+R$ 447.818,00
+
+R$ 497.968,10
+
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOMENTO A ARRANJOS PRODUTIVOS LOCAIS - APL'S
+
+11 334 1054 2448
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 20.338,42
+
+R$ 1.078,25
+
+R$ 21.416,67
+
+**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONSTRUÇÃO OU REFORMA DE INSTALAÇÃO FÍSICA DA UEG
+
+12 364 1008 3206
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 500.000,00
+
+R$ 500.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+12 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 75.383,03
+
+R$ 1.186.852,05
+
+R$ 1.262.235,08
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 3.213.476,46
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 3.213.476,46
 
 QUADRO 2
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:100%;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="width: 100%;" width="100%"><tbody><tr><td style="  width: 12%;  height: 19px;"><b>ESPECIFICAÇÃO</b></td><td style="  width: 12%;  height: 19px;    "><b>AÇÃO</b></td><td style="  width: 12%;  height: 19px;    "><b>FONTE</b></td><td style="  width: 12%;  height: 19px;    "><b>MODALIDADE</b></td><td style="  width: 12%;  height: 19px;    "><b>GRUPO</b></td><td style="  width: 12%;  height: 19px;    "><b>SALDO A PROGRAMAR</b></td><td style="  width: 12%;  height: 19px;    "><b>VALOR BLOQUEADO</b></td><td style="  width: 12%;  height: 19px;    "><b>VALOR A REDUZIR</b></td></tr><tr><td style="  width: 12%;     ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style="  width: 12%;      ">10 122 4200 4243</td><td style="  width: 12%;      ">15000100</td><td style="  width: 12%;      ">90</td><td style="  width: 12%;      ">4 - INVESTIMENTOS</td><td style="  width: 12%;      ">R$ 630.095,05</td><td style="  width: 12%;      ">R$ 512.600,00</td><td style="  width: 12%;      ">R$ 512.600,00</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="width: 100%;" width="100%"><tbody><tr><td style="  width: 100%;  height: 19px;"><b>1500 - CONTROLADORIA-GERAL DO ESTADO</b><br>1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">GOVERNO ABERTO E PARTICIPAÇÃO CIDADÃ</td><td style=" width:12%;    ">04 124 1047 2050</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 2.492.721,06</td><td style=" width:12%;    ">R$ 492.721,06</td><td style=" width:12%;    ">R$ 492.721,06</td></tr><tr><td style=" width:12%;    ">GOVERNO ABERTO E PARTICIPAÇÃO CIDADÃ</td><td style=" width:12%;    ">04 124 1047 2050</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">50</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 72.407,10</td><td style=" width:12%;    ">R$ 72.407,10</td><td style=" width:12%;    ">R$ 72.407,10</td></tr><tr><td style=" width:12%;    ">APRIMORAMENTO DO COMPLIANCE PÚBLICO</td><td style=" width:12%;    ">04 124 1047 2330</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 447.818,00</td><td style=" width:12%;    ">R$ 447.818,00</td><td style=" width:12%;    ">R$ 447.818,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">FOMENTO A ARRANJOS PRODUTIVOS LOCAIS - APL'S</td><td style=" width:12%;    ">11 334 1054 2448</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 244.010,00</td><td style=" width:12%;    ">R$ 1.078,25</td><td style=" width:12%;    ">R$ 1.078,25</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="width: 100%;" width="100%"><tbody><tr><td style="  width: 100%;  height: 19px;"><b>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">CONSTRUÇÃO OU REFORMA DE INSTALAÇÃO FÍSICA DA UEG</td><td style=" width:12%;    ">12 364 1008 3206</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 3.059.640,45</td><td style=" width:12%;    ">R$ 500.000,00</td><td style=" width:12%;    ">R$ 500.000,00</td></tr><tr><td style=" width:12%;    ">TITULAÇÃO DE ALUNO DE GRADUAÇÃO</td><td style=" width:12%;    ">12 364 1008 2402</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 353.385,09</td><td style=" width:12%;    ">R$ 353.385,09</td><td style=" width:12%;    ">R$ 353.385,09</td></tr><tr><td style=" width:12%;    ">FOMENTO A AÇÃO DE EXTENSÃO</td><td style=" width:12%;    ">12 364 1008 2400</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 272.404,00</td><td style=" width:12%;    ">R$ 272.404,00</td><td style=" width:12%;    ">R$ 272.404,00</td></tr><tr><td style=" width:12%;    ">CONCESSÃO DE BOLSA/AUXÍLIO FINANCEIRO ACADÊMICO</td><td style=" width:12%;    ">12 364 1008 2466</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 561.062,96</td><td style=" width:12%;    ">R$ 561.062,96</td><td style=" width:12%;    ">R$ 561.062,96</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 3.213.476,46</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 3.213.476,46</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 3.213.476,46</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 3.213.476,46</td></tr></tbody></table>
+10 122 4200 4243
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 630.095,05
+
+R$ 512.600,00
+
+R$ 512.600,00
+
+**1500 - CONTROLADORIA-GERAL DO ESTADO**
+1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GOVERNO ABERTO E PARTICIPAÇÃO CIDADÃ
+
+04 124 1047 2050
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.492.721,06
+
+R$ 492.721,06
+
+R$ 492.721,06
+
+GOVERNO ABERTO E PARTICIPAÇÃO CIDADÃ
+
+04 124 1047 2050
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 72.407,10
+
+R$ 72.407,10
+
+R$ 72.407,10
+
+APRIMORAMENTO DO COMPLIANCE PÚBLICO
+
+04 124 1047 2330
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 447.818,00
+
+R$ 447.818,00
+
+R$ 447.818,00
+
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOMENTO A ARRANJOS PRODUTIVOS LOCAIS - APL'S
+
+11 334 1054 2448
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 244.010,00
+
+R$ 1.078,25
+
+R$ 1.078,25
+
+**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSTRUÇÃO OU REFORMA DE INSTALAÇÃO FÍSICA DA UEG
+
+12 364 1008 3206
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 3.059.640,45
+
+R$ 500.000,00
+
+R$ 500.000,00
+
+TITULAÇÃO DE ALUNO DE GRADUAÇÃO
+
+12 364 1008 2402
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 353.385,09
+
+R$ 353.385,09
+
+R$ 353.385,09
+
+FOMENTO A AÇÃO DE EXTENSÃO
+
+12 364 1008 2400
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 272.404,00
+
+R$ 272.404,00
+
+R$ 272.404,00
+
+CONCESSÃO DE BOLSA/AUXÍLIO FINANCEIRO ACADÊMICO
+
+12 364 1008 2466
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 561.062,96
+
+R$ 561.062,96
+
+R$ 561.062,96
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 3.213.476,46
+
+**TOTAL**
+
+R$ 3.213.476,46
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 3.213.476,46
+
+**TOTAL**
+
+R$ 3.213.476,46

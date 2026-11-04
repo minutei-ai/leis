@@ -1,5 +1,3 @@
-###DEC-095175-0-000-10-11-1987@@@
-
 DECRETO N° 95.175, DE 10 DE NOVEMBRO DE 1987
 
 Inclui o Ministro de Estado da Agricultura entre os membros integrantes do Conselho de Não-Ferrosos e de Siderurgia - CONSIDER, do Ministério da Indústria e do Comércio, e dá outras providências.

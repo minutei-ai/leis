@@ -1,5 +1,3 @@
-###DEC-085859-0-000-30-03-1981@@@
-
 DECRETO Nº 85.859, DE 30 De março DE 1981
 
 Aprova alterações introduzidas no Estatuto da COMPANHIA DE PESQUISA DE RECURSOS MINERAIS - C.P.R.M.

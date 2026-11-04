@@ -1,5 +1,3 @@
-###MPV-002014-0-002-28-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.014-2, DE 28 de janeiro DE 2000.
 
 Altera e acresce dispositivos à Lei nº 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativos à propriedade industrial, e dá outras providências.

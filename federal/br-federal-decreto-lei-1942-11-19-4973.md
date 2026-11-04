@@ -1,5 +1,3 @@
-###DEL-004973-0-000-19-11-1942@@@
-
 DECRETO-LEI N. 4.973 – DE 19 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 1.000,00 à verba que especifica

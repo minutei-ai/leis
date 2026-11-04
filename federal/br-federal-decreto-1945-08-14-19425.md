@@ -1,48 +1,46 @@
-###DEC-019425-0-000-14-08-1945@@@
+**DECRETO Nº 19.425, DE 14 DE AGÔSTO DE 1945.**
 
-<strong>DECRETO Nº 19.425, DE 14 DE AGÔSTO DE 1945.</strong>
+***Aprova o Regimento do Conselho Nacional de Desportos do Ministério da Educação e Saúde.***
 
-<em><strong>Aprova o Regimento do Conselho Nacional de Desportos do Ministério da Educação e Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Conselho de Desportos que, assinado pelo Ministério da Educação e Saúde, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Conselho de Desportos que, assinado pelo Ministério da Educação e Saúde, com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor em 1º de agôsto de 1945, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor em 1º de agôsto de 1945, revogadas as disposições em contrário.
 
 Rio de Janeiro, 14 de agôsto de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Gustavo Capanema
 
-<strong>REGIMENTO DO CONSELHO NACIONAL DE DESPORTOS</strong>
+**REGIMENTO DO CONSELHO NACIONAL DE DESPORTOS**
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Conselho Nacional de Desportos (C.N.D.) órgão integrante do Ministério da Educação e Saúde, diretamente subordinado ao respectivo Ministro de Estado, têm por finalidade orientar fiscalizar e incentivar a prática dos desportos em todo o pais e opinar quanto as subvenções e aos favores eu devem ser concedidas às entidades desportivas.
+**Art**. 1º O Conselho Nacional de Desportos (C.N.D.) órgão integrante do Ministério da Educação e Saúde, diretamente subordinado ao respectivo Ministro de Estado, têm por finalidade orientar fiscalizar e incentivar a prática dos desportos em todo o pais e opinar quanto as subvenções e aos favores eu devem ser concedidas às entidades desportivas.
 
-<strong>CAPITULO II</strong>
+**CAPITULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O C. N. D. compor-se-á de seis membros dos quais cinco serão designados pelo Presidente da República dentre pessoas de elevada expressão cívica, e que representem em seus vários aspectos, o movimento desportivo nacional e o sexto será o Diretor da Divisão de Educação de Física do Departamento Nacional de Educação que participará dos trabalhos sem direito a voto.
+**Art**. 2º O C. N. D. compor-se-á de seis membros dos quais cinco serão designados pelo Presidente da República dentre pessoas de elevada expressão cívica, e que representem em seus vários aspectos, o movimento desportivo nacional e o sexto será o Diretor da Divisão de Educação de Física do Departamento Nacional de Educação que participará dos trabalhos sem direito a voto.
 
-<strong>Art</strong>. 3º O Presidente da República designará dentre os membros do C.N.D. aqueles que deverão exercer as funções de Presidente e Vice-Presidente.
+**Art**. 3º O Presidente da República designará dentre os membros do C.N.D. aqueles que deverão exercer as funções de Presidente e Vice-Presidente.
 
-<strong>Art</strong>. 4º O Ministro da Educação e Saúde designará, dentre os funcionários do próprio Ministro o Secretário do C.N.D., mediante proposta do Presidente dêste.
+**Art**. 4º O Ministro da Educação e Saúde designará, dentre os funcionários do próprio Ministro o Secretário do C.N.D., mediante proposta do Presidente dêste.
 
-<strong>Art</strong>. 5º O C.N.D. terá uma Secretaria cuja direção será exercida pelo Secretário do C. N.D.
+**Art**. 5º O C.N.D. terá uma Secretaria cuja direção será exercida pelo Secretário do C. N.D.
 
-<strong>CAPITULO III</strong>
+**CAPITULO III**
 
-<em>DA COMPETÊNCIA</em>
+*DA COMPETÊNCIA*
 
-<strong>Art</strong>. 6º Ao C.N.D. compete:
+**Art**. 6º Ao C.N.D. compete:
 
 I - estudar as matérias relativas à organização desportiva do país e propor ao Ministro da Educação e Saúde as medidas legislativas administravas e mesma referente;
 
@@ -112,7 +110,7 @@ XXXIII - requisitar o auxilio da autoridade policial para fazer respeitados os s
 
 XXXIV - propor ao Ministro da Educação e Saúde qualquer alteração dêste Regimento.
 
-<strong>Art</strong>. 7º A Secretaria compete:
+**Art**. 7º A Secretaria compete:
 
 I - organizar e manter atualizado o cadastro das entidades desportivas do país;
 
@@ -140,11 +138,11 @@ h) zelar pela limpeza e conservação dos móveis e dependências do C.N.D.
 
 Parágrafo único. A secretaria deverá funcionar perfeitamente articulada com a D.A. do Ministério da Educação e Saúde., observando as normas e métodos de trabalho prescritos pelo mesmo nos assuntos de sua competência.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 8º Ao Presidente do C.N.D. incumbe:
+**Art**. 8º Ao Presidente do C.N.D. incumbe:
 
 I - presidir as sessões e submeter a discussão e votação as matérias constantes da ordem do dia e reclamar os resultados;
 
@@ -200,9 +198,9 @@ XXVI -elogiar e aplicar penas disciplinares inclusive a de suspensão de até tr
 
 XXVII - determinar a instauração que execer de sua alçada;
 
-<strong>Art</strong>. 9º Ao Vice-Presidente incumbe, além processos das atribuições estabelecidas demais membros do C.N.D.
+**Art**. 9º Ao Vice-Presidente incumbe, além processos das atribuições estabelecidas demais membros do C.N.D.
 
-<strong>Art</strong>. 10. Aos membros do C.N.D. incumbe:
+**Art**. 10. Aos membros do C.N.D. incumbe:
 
 I - comparecer a tôdas as sessões, salvo motivo de foça maior, justificado perante o Presidente;
 
@@ -218,7 +216,7 @@ VI - sugerir por, escrito, à deliberação do plenário, tôdas as medidas das 
 
 VII - assinar o livro de presença, ao comparecerem às sessões.
 
-<strong>Art</strong>. 11. Ao Secretário incumbe:
+**Art**. 11. Ao Secretário incumbe:
 
 I - secretariar as sessões do Conselho;
 
@@ -250,17 +248,17 @@ XIV - preencher boletins de merecimento dos funcionários que lhe forem diretame
 
 XV - apresentar ao Presidente do Conselho, anualmente, um relatório circunstanciado dos trabalhos realizados, em andamento e planejados.
 
-<strong>Art</strong>. 12. Aos servidores do C.N.D. sem funções especificadas neste Regimento incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 12. Aos servidores do C.N.D. sem funções especificadas neste Regimento incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das sessões</em>
+*Das sessões*
 
-<strong>Art</strong>. 13. O C.N.D. reunir-se-á em sessões ordinárias, quinzenalmente, em dias fixados pelo Presidente, ou em sessões extraordinárias, quando convocado pelo Ministro da Educação e Saúde ou pelo seu próprio Presidente.
+**Art**. 13. O C.N.D. reunir-se-á em sessões ordinárias, quinzenalmente, em dias fixados pelo Presidente, ou em sessões extraordinárias, quando convocado pelo Ministro da Educação e Saúde ou pelo seu próprio Presidente.
 
 Parágrafo único. Para que as sessões se realizem, bastará o comparecimento de quatro membros, desde que um dêles seja o Presidente ou o Vice-Presidente.
 
-<strong>Art</strong>. 14. De três partes constarão as sessões do C.N.D.:
+**Art**. 14. De três partes constarão as sessões do C.N.D.:
 
 I - expediente;
 
@@ -278,56 +276,56 @@ III - interêsse gerais dos desportos.
 
 § 5º O C.N.D. deliberará por maioria de votos e, quando ocorrer empate em qualquer votação, caberá ao Presidente também o voto de qualidade.
 
-<strong>Art</strong>. 15. As sessões do C.N.D. terão a duração de duas horas sendo permitida a prorrogação, quando sendo permitida a prorrogação, quando requerida por um membro e aprovada pela maioria.
+**Art**. 15. As sessões do C.N.D. terão a duração de duas horas sendo permitida a prorrogação, quando sendo permitida a prorrogação, quando requerida por um membro e aprovada pela maioria.
 
 § 1º Durante as sessões do C.N.D., apenas permanecerão no recinto os membros e o Secretário, salvo decisão em contrário, tomada pela a presença de alguma autoridade desportiva para colaborar no estudo de qualquer assunto.
 
 § 2º O Ministro da Educação e Saúde ocupará a presidência das sessões sempre que a elas estiver presente, cabendo-lhe, nesse caso, orientar os debates e ditar as diretrizes necessárias à solução de qualquer matéria.
 
-<strong>Art</strong>. 16. O membro do C.N.D. a quem houver sido atribuído o estudo de qualquer assunto poderá solicitar, por intermédio do Presidente as diligências necessárias ao seu esclarecimento.
+**Art**. 16. O membro do C.N.D. a quem houver sido atribuído o estudo de qualquer assunto poderá solicitar, por intermédio do Presidente as diligências necessárias ao seu esclarecimento.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 17. O C.N.D. terá lotação aprovada em decreto.
+**Art**. 17. O C.N.D. terá lotação aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação o C.N.D. poderá ter pessoal extranumerário admitido na forma da legislação vigente.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 18. O horário normal do trabalho da Secretaria será fixado pelo Presidente do C.N.D respeitado o número de horas semanais ou mensais estabelecidos para o Serviço Público Civil.
+**Art**. 18. O horário normal do trabalho da Secretaria será fixado pelo Presidente do C.N.D respeitado o número de horas semanais ou mensais estabelecidos para o Serviço Público Civil.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 19. Nas suas faltas e impedimentos o Presidente será substituindo pelo Vice-Presidente do Conselho.
+**Art**. 19. Nas suas faltas e impedimentos o Presidente será substituindo pelo Vice-Presidente do Conselho.
 
-<strong>Art</strong>. 20. Em caso de falta ou impedimento, o membro nato será substituído por seu substituto legal no cargo que exerce e os demais membros, por substitutos previamente designados pelo Presidente da República.
+**Art**. 20. Em caso de falta ou impedimento, o membro nato será substituído por seu substituto legal no cargo que exerce e os demais membros, por substitutos previamente designados pelo Presidente da República.
 
-<strong>Art</strong>. 21. O Secretário, nos casos previstos no artigo precedente, será substituído pelo servidor da Secretária de sua indicação que fôr designado pelo Presidente para êste fim.
+**Art**. 21. O Secretário, nos casos previstos no artigo precedente, será substituído pelo servidor da Secretária de sua indicação que fôr designado pelo Presidente para êste fim.
 
-<strong>Art</strong>. 22. Salvo o membro nato, os membros do Conselho que deixarem de comparecer a três sessões consecutivas sem motivo justificado, serão considerados automàticamente resignatários.
+**Art**. 22. Salvo o membro nato, os membros do Conselho que deixarem de comparecer a três sessões consecutivas sem motivo justificado, serão considerados automàticamente resignatários.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Disposições gerias</em>
+*Disposições gerias*
 
-<strong>Art</strong>. 23 O C.N.D. tomará conhecimento das representações feitas por qualquer pessoa, contra a prática de ato desportivos infringente às leis e determinações em vigor.
+**Art**. 23 O C.N.D. tomará conhecimento das representações feitas por qualquer pessoa, contra a prática de ato desportivos infringente às leis e determinações em vigor.
 
-<strong>Art</strong>. 24. O C.N.D. só tomará conhecimento de assuntos referentes às entidades desportivas quando instruídos e encaminhados pela respectiva confederação.
+**Art**. 24. O C.N.D. só tomará conhecimento de assuntos referentes às entidades desportivas quando instruídos e encaminhados pela respectiva confederação.
 
-<strong>Art</strong>. 25. O C.N.D, não tomará conhecimento do papel algum relativo a entidade desportiva que não tenha obtido alvará de funcionamento e cujo estatuto não se tenha submetido ao disposto na lei.
+**Art**. 25. O C.N.D, não tomará conhecimento do papel algum relativo a entidade desportiva que não tenha obtido alvará de funcionamento e cujo estatuto não se tenha submetido ao disposto na lei.
 
-<strong>Art</strong>. 26. O C.N.D. não apreciará pedido de auxílio financeiro de entidade desportiva que tenha atletas profissionais da entidade, relativas ao custeio do respectivo departamento, não tiverem publicação permanente, nem se sujeitarem à fiscalização e à aprovação do órgão fiscal previsto no seu estatuto.
+**Art**. 26. O C.N.D. não apreciará pedido de auxílio financeiro de entidade desportiva que tenha atletas profissionais da entidade, relativas ao custeio do respectivo departamento, não tiverem publicação permanente, nem se sujeitarem à fiscalização e à aprovação do órgão fiscal previsto no seu estatuto.
 
-<strong>Art</strong>. 27. O Presidente do C.N.D. poderá credenciar um desportista para servir como seu representante nos atos desportivos de representação pessoal e estranhos às atividades diretas do mesmo órgão.
+**Art**. 27. O Presidente do C.N.D. poderá credenciar um desportista para servir como seu representante nos atos desportivos de representação pessoal e estranhos às atividades diretas do mesmo órgão.
 
-<strong>Art</strong>. 28. As funções de Presidente do C.N.D,. são incompatíveis com o exercício de quaisquer outras em entidades desportivas, salvo de representação desportivas internacional ou de direção de congressos, conferências ou reuniões de caráter eventual.
+**Art**. 28. As funções de Presidente do C.N.D,. são incompatíveis com o exercício de quaisquer outras em entidades desportivas, salvo de representação desportivas internacional ou de direção de congressos, conferências ou reuniões de caráter eventual.
 
 Rio de Janeiro, 14 de agôsto de 1945.
 
-<strong>GUSTAVO CAPENEMA</strong>
+**GUSTAVO CAPENEMA**

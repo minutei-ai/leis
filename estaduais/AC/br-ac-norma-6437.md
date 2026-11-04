@@ -1,6 +1,10 @@
 > **LEI Nº 4.589, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Reconhece de Utilidade Pública a Colônia de Pescador Acreano - CPA.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Reconhece de Utilidade Pública a Colônia de Pescador Acreano - CPA.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

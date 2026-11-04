@@ -1,5 +1,3 @@
-###DEC-085931-0-000-27-04-1981@@@
-
 Decreto nº 85.931, de 27 DE abril de 1981.
 
 Suspende, por inconstitucionalidade, a execução da Lei Complementar nº 17, de 25 de julho de 1979, decretada e promulgada pela Assembléia Legislativa do Estado da Paraíba.

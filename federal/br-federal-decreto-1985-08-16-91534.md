@@ -1,5 +1,3 @@
-###DEC-091534-0-000-16-08-1985@@@
-
 Decreto nº 91.534, de 16 de agosto de 1985.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Marinha.

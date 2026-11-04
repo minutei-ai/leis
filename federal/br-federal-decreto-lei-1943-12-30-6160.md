@@ -1,5 +1,3 @@
-###DEL-006160-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.160 – DE 30 DE DEZEMBRO DE 1943
 
 Suprime função gratificada no Quadro Permanente do Ministério da Agricultura

@@ -1,5 +1,3 @@
-###DEC-070909-0-000-31-07-1972@@@
-
 DECRETON 70.909, de 31 de julho de 1972.
 
 Autoriza o Presidente da Comissão Coordenadora do Projeto Aeroporto Internacional - CCPAI a gerir recursos provenientes de empréstimos externos e dá outras providências.

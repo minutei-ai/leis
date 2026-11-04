@@ -1,5 +1,3 @@
-###DEC-048626-0-000-26-07-1960@@@
-
 DECRETO Nº 48.626, DE 26 DE JULHO DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 35.109, de 25-2-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Poço da Trincheiras, no Município de Santana de Ipanema, Estado de Alagoas.

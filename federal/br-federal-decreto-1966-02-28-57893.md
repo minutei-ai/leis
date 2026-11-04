@@ -1,5 +1,3 @@
-###DEC-057893-0-000-28-02-1966@@@
-
 decreto Nº 57.893, de 28 de fevereiro de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Comercial de Seguros Gerais, relativa ao aumento do capital social.

@@ -1,5 +1,3 @@
-###MPV-002040-0-011-26-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.040-11, DE 26 DE outubro DE 2000.
 
 Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação, no âmbito do sistema de pagamento, e dá outras providencias.

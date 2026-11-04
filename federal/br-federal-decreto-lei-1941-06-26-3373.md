@@ -1,5 +1,3 @@
-###DEL-003373-0-000-26-06-1941@@@
-
 DECRETO-LEI N. 3.373 – DE 26 DE JUNHO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Justiça e Negócios Interiores

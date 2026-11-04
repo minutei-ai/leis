@@ -1,7 +1,3 @@
-1
-
-###DEC-099300-0-000-15-06-1990@@@
-
 DECRETO N° 99.300, DE 15 DE JUNHO DE 1990
 
 Dispõe sobre os proventos dos servidores postos em disponibilidade e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072475-0-000-16-07-1973@@@
-
 decreto nº 72.475, de 16 de julho de 1973.
 
 Autoriza a contratação de empréstimo externo e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210721)<br>
-
 # DECRETO N° 69.418, DE 12 DE MARÇO DE 2025
 
 ### _Altera do Decreto n° 60.435, de 13 de maio de 2014, que dispõe sobre as consignações em folha de pagamento de servidores públicos civis e militares, ativos, inativos e reformados e de pensionistas da administração direta e autárquica e o Decreto n° 69.182, de 18 de dezembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria da Fazenda e Planejamento._

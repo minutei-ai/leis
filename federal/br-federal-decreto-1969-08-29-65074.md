@@ -1,5 +1,3 @@
-###DEC-065074-0-000-29-08-1969@@@
-
 DECRETO Nº 65.074 - DE 29 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública a Irmandade do Hospital de Caridade Anita Costa (Santa Casa de Misericórdia) com sede em Santo Anastácio, Estado de São Paulo.

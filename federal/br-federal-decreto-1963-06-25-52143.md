@@ -1,5 +1,3 @@
-###DEC-052143-0-000-25-06-1963@@@
-
 DECRETO Nº 52.143, DE 25 DE JUNHO DE 1963.
 
 Dá nova redação à alínea b do § 2º do art. 41 do Regulamento Geral da Previdência Social aprovado pelo Decreto n° 48.959-A, de 19 de setembro de 1960.

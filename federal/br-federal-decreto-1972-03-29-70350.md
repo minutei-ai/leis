@@ -1,5 +1,3 @@
-###DEC-070350-0-000-29-03-1972@@@
-
 DECRETO Nº 70.350, DE 29 DE MARÇO DE 1972.
 
 Redistribui, com os respectivos ocupantes, cargos do Departamento Nacional de Obras Contras as Secas para o Departamento Nacional de Obras de Saneamento, e dá outras providências.

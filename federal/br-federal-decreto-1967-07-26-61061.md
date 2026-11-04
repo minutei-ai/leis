@@ -1,5 +1,3 @@
-###DEC-061061-0-000-26-07-1967@@@
-
 decreto Nº 61.061, DE 26 DE JULHO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Companhia Fôrça e Luz de Sêrro, no distrito-sede do município de Sêrro e outorga concessão à Centrais Elétricas de Minas Gerais S.A.

@@ -1,5 +1,3 @@
-###DEC-067786-0-000-10-12-1970@@@
-
 DECRETO Nº 67.786, de 10 de Dezembro de 1970.
 
 Declara caduco o Decreto número 41.122, de 12 de março de 1957.

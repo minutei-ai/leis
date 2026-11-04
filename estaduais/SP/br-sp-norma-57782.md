@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57782)
-
 # LEI Nº 12.054, DE 21 DE SETEMBRO DE 2005
 
 ## ( PL 660/2004 - Governador)

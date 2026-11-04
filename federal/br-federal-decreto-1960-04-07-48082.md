@@ -1,5 +1,3 @@
-###DEC-048082-0-000-07-04-1960@@@
-
 DECRETO Nº 48.082, DE 7 DE abril DE 1960.
 
 Extingue e cria cargos em Quadro do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

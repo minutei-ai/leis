@@ -1,5 +1,3 @@
-###DEC-089255-0-000-28-12-1983@@@
-
 DECRETO Nº 89.255, DE 28 DE DEZEMBRO DE 1983.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Gleba Chapadinha", situado no Município de São Félix do Araguaia, no Estado de Mato Grosso, e compreendido na área prioritária para fins de reforma agrária, fixada pela Decreto nº 89.254, de 28 de dezembro de 1983.

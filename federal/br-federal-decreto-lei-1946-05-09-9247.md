@@ -1,5 +1,3 @@
-###DEL-009247-0-000-09-05-1946@@@
-
 DECRETO-LEI N. 9.247 – DE  9 DE MAIO DE 1946
 
 Retifica o orçamento do Plano de Obras e Equipamentos

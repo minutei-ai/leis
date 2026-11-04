@@ -1,5 +1,3 @@
-###DEL-003947-0-000-18-12-1941@@@
-
 DECRETO-LEI N. 3.947 – DE 18 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito especial de 1 :080$0, para pagamento de gratificação adicional

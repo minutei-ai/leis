@@ -1,5 +1,3 @@
-###DEC-077782-0-000-08-06-1976@@@
-
 DECRETO Nº 77.782, DE 8 DE JUNhO DE 1976.
 
 Declara a caducidade do Manifesto de Mina que menciona.

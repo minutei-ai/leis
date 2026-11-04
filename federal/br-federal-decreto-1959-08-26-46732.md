@@ -1,5 +1,3 @@
-###DEC-046732-0-000-26-08-1959@@@
-
 DECRETO Nº 46.732, DE 26 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Cesarino Vitorino da Silva a pesquisar areia quartzosa, no município de São Vicente, Estado de São Paulo.

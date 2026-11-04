@@ -43,7 +43,3 @@ REDAÇÃO ORIGINAL
 "Art. 31 - ................................................
 
 II - férias-prêmio, com duração de seis meses, adquiridas a cada período de dez anos de efetivo exercício de serviço público, admitida sua conversão em espécie, por opção do servidor, ou, para efeito de aposentadoria, a contagem em dobro das não gozadas;".
-
-\-------------------------------------------------------------------------
-
-Data da última atualização: 05/11/2003

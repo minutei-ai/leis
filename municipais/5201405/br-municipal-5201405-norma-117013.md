@@ -28,14 +28,16 @@ IX – incentivo á participação popular;
 
 X – as disposições gerais.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
 
 Art. 2º As metas e prioridades, contempladas nesta Lei, estão definidas na Lei Municipal nº 3.149, de 20 de dezembro de 2013, e suas alterações posteriores que dispõe sobre o Plano Plurianual para o quadriênio 2014-2017, especificadas no Anexo de Metas e Prioridades integrantes daquela lei, as quais terão precedência na alocação de recursos na lei orçamentária para 2016, e na sua execução, não se constituindo, porém, em limite à programação das despesas.
 
 Art. 3º Integram esta lei os anexos de Metas Fiscais e o de Riscos Fiscais, estabelecidos para o próximo exercício, em conformidade com o que dispõe os §§ 1º e 3º do art. 4º da Lei Complementar nº. 101, de 04 de maio de 2000 - Lei de Responsabilidade Fiscal.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
 
 Art. 4º Para efeito desta lei entende-se por:
@@ -94,7 +96,8 @@ III – orçamento fiscal e da seguridade social dos Poderes Executivo, Legislat
 
 § 1º O Projeto de Lei Orçamentária conterá ainda a programação referente à manutenção e desenvolvimento do ensino, nos termos do art. 113 da Lei Orgânica Municipal.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DAS DIRETRIZES GERAIS PARA A ELABORAÇÃO E EXECUÇÃO DOS ORÇAMENTOS DO MUNICÍPIO E SUAS ALTERAÇÕES.
 
 Art. 7º A elaboração do projeto de lei, a aprovação e a execução da lei orçamentária para o exercício vindouro evidenciarão a transparência da gestão fiscal, observados os princípios da publicidade e a garantia do acesso popular através de audiências públicas (presenciais ou eletrônicas) previamente programadas.
@@ -217,7 +220,8 @@ Art. 30 Na programação dos investimentos, aqueles em fase de execução terão
 
 Art. 31 A administração pública poderá destinar recursos para, direta ou indiretamente, cobrir necessidades de pessoas físicas, comprovadamente carentes, tanto por meio de auxílios financeiros quanto por meio de material de distribuição gratuita, observado o art. 26 da Lei Complementar nº 101/2000 - LRF.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 32 As despesas totais com pessoal serão limitadas em 60% (sessenta por cento) da receita corrente líquida do Município, sendo 6% (seis por cento) para o Legislativo e 54% (cinquenta e quatro por cento) para o Poder Executivo, nos termos do art. 20, III da Lei Complementar nº 101/2000, excetuando-se os casos de:
@@ -250,7 +254,8 @@ Art. 36 Desde que não ultrapasse o limite legal de gastos com pessoal conforme 
 
 Art. 37 O Poder Executivo poderá proceder à revisão geral anual na remuneração básica dos servidores públicos e nos subsídios de conformidade com artigo 37, da Constituição Federal.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO MUNICÍPIO.
 
 Art. 38 O Poder Executivo Municipal poderá enviar à Câmara Municipal projeto de lei dispondo sobre alterações na legislação tributária, cujos efeitos poderão ser considerados, especialmente sobre:
@@ -271,7 +276,8 @@ VII - Instituição de novas taxas pela prestação de serviços públicos e pel
 
 VIII - Revisão das isenções tributárias, para manter o interesse público e a justiça social;
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 CRITÉRIOS E FORMAS DE LIMITAÇÃO DE EMPENHO
 
 Art. 39 Na hipótese de ocorrência das circunstancias estabelecidas no caput do art. 9º e no inciso II do § 1º do art. 31, da Lei Complementar nº 101/2000, o Poder Executivo e o Poder Legislativo precederão à respectiva limitação de empenho e de movimentação financeira, calculada de forma proporcional à participação dos Poderes no total das dotações iniciais constantes da lei orçamentária de 2016, utilizando para tal fim as cotas orçamentárias e financeiras.
@@ -302,7 +308,8 @@ VIII - investimentos.
 
 § 5º Se verificado, ao final de um bimestre, que a realização da receita não será suficiente para garantir o equilíbrio das contas publicas, adotar-se-ão as mesmas medidas previstas neste artigo.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 PARAMETROS PARA A ELABORAÇÃO DAS METAS BIMESTRAIS DE ARRECADAÇÃO E O CRONOGRAMA MENSAL DE DESEMBOLSO
 
 Art. 40 O Poder Executivo por meio da Secretaria de Planejamento, estabelecerá por ato próprio, até 30 (trinta) dias, após a publicação da Lei Orçamentária de 2016, o cronograma mensal de desembolso, e as metas bimestrais de arrecadação, respectivamente, nos termos dos arts. 8º e 13 da Lei Complementar nº 101/2000 - LRF.
@@ -313,7 +320,8 @@ Art. 40 O Poder Executivo por meio da Secretaria de Planejamento, estabelecerá 
 
 § 3º A programação financeira e o cronograma mensal de desembolso de que trata o caput deste artigo servirão de base para a limitação de empenhos, além de garantir o cumprimento da meta de resultado primário.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DEFINIÇÃO DE CRITÉRIOS PARA INÍCIO DE NOVOS PROJETOS
 
 Art. 41 Além da observância das metas e prioridades definidas nos termos do art. 2º desta Lei, a lei orçamentária de 2016 e seus créditos adicionais, observado o disposto no art. 45 da Lei Complementar nº 101/2000 somente incluirão novos projetos se:
@@ -328,7 +336,8 @@ IV – os recursos alocados destinarem-se a contrapartidas de recursos federais,
 
 Parágrafo único. Considera-se projeto em andamento, para os efeitos desta Lei, aquele cuja execução iniciar-se até a data de encaminhamento da proposta orçamentária para o exercício de 2015, cujo cronograma de execução ultrapasse o término do exercício de 2014.
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 INCENTIVO À PARTICIPAÇÃO POPULAR
 
 Art. 42 O projeto de lei orçamentária do Município, relativo ao exercício financeiro de 2015, deverá assegurar a transparência na elaboração e execução do orçamento.
@@ -343,7 +352,8 @@ I – elaboração da proposta orçamentária de 2016;
 
 II – demonstração dos resultados obtidos pela Administração, na execução do planejamento;
 
-SEÇÃO X<br>
+SEÇÃO X
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 44 A programação de receitas e despesas a serem previstas no Orçamento para o exercício de 2016, deverá ser compatível com os objetivos e metas do Plano Plurianual (PPA) e da Lei de Diretrizes Orçamentárias (LDO).
@@ -360,13 +370,16 @@ Art. 48 Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia, Estado de Goiás, aos 02 dias do mês de julho do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Secretário Municipal de Planejamento
 
 ANEXOS

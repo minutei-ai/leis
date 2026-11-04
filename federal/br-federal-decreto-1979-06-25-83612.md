@@ -1,5 +1,3 @@
-###DEC-083612-0-000-25-06-1979@@@
-
 Decreto nº 83.612, de 25 de junho de 1979.
 
 Autorizada a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Santa Branca, Estado de São Paulo.

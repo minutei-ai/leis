@@ -1,5 +1,3 @@
-###DEC-056997-0-000-01-10-1965@@@
-
 DECRETO Nº 56.997, DE 1º DE OUTUBRO DE 1965.
 
 Declara ao prioritário ao desenvolvimento do Nordeste para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à empresa ‘’Exportadora Machado Araújo Limitada’’ de Fortaleza (CE).
@@ -14,7 +12,33 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar registrado no país, a seguir descritos e consignados à empresa ‘’Exportadora Machado Araújo Limitada’’ de Fortaleza, Estado do Ceará.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:276.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.25pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:276.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Acessórios componentes de um filtro prensa de alumínio com a seguinte discriminação:</span></p><p class="Tabela" style="text-indent:0pt"><span>4 placas de vapor encamisados;</span></p><p class="Tabela" style="text-indent:0pt"><span>4 placas não encamisadas;</span></p><p class="Tabela" style="text-indent:0pt"><span>8 molduras;</span></p><p class="Tabela" style="text-indent:0pt"><span>16 argolas de borracha;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16 fôlhas perfuradas 25 x 26. Fabricação de T Shriver and Company, Inc Estados Unidos da América do Norte.</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:276.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total ..........................................................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.507</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1
+
+Acessórios componentes de um filtro prensa de alumínio com a seguinte discriminação:
+
+4 placas de vapor encamisados;
+
+4 placas não encamisadas;
+
+8 molduras;
+
+16 argolas de borracha;
+
+16 fôlhas perfuradas 25 x 26. Fabricação de T Shriver and Company, Inc Estados Unidos da América do Norte.
+
+Total ..........................................................................................
+
+-
+
+1.507
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4e6f99ee-2715-4310-a017-3722d95df2fd/texto#nowhere)
 
-###DEL-000562-0-000-30-04-1969@@@
-
 DECRETO-LEI Nº 562, DE 30 DE ABRIL DE 1969
 
 Altera a redação da Lei nº 5.450, de 5 de junho de 1968, que aprovou o Orçamento Plurianual de Investimentos para o Triênio 1968/1970.

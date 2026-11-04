@@ -1,5 +1,3 @@
-###DEL-003797-0-000-05-11-1941@@@
-
 DECRETO-LEI N. 3.797 – DE 5 DE NOVEMBRO DE 1941
 
 Aprova o acordo celebrado entre a Comissão Especial de Revisão das Concessões de Terras na Faixa das Fronteiras e o Estado do Rio Grande do Sul, para execução, em colaboração, de dispositivos dos decretos-Leis ns. 1.968, de 17 de janeiro de 1940, e 2.610, de 20 de setembro de 1940.

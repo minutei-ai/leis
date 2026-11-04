@@ -1,5 +1,3 @@
-###DEC-085589-0-000-30-12-1980@@@
-
 decreto nº 85.589, de 30 de dezembro de 1980
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Cachoeira", situado no Município de Chapecó, Estado de Santa Catarina, compreendido na área prioritária de reforma agrária, de que trata o Decreto nº 69.411, de 22 de outubro de 1971, ampliada pelos Decretos nºs. 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

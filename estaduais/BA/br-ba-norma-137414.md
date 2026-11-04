@@ -24,23 +24,4 @@ Bruno Dauster
 
 Secretário da Casa Civil
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:418.75pt;border-collapse:collapse" width="558"><tbody><tr style="height:15.25pt"><td colspan="2" style="width:418.75pt;border:solid black 1.0pt;
-  padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="558"><p align="center" class="MsoNormal" style="margin-right:2.2pt;text-align:center"><b><span style="color:black">ANEXO ÚNICO<br>Anexo I da Lei Complementar nº 11, de 18 de janeiro de 1996</span></b></p></td></tr><tr style="height:15.25pt"><td style="width:284.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="379"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">CARGO</span></b></p></td><td style="width:134.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="180"><p align="center" class="MsoNormal" style="margin-right:2.2pt;text-align:center"><b><span style="color:black">QUANTITATIVO</span></b></p></td></tr><tr style="height:15.25pt"><td style="width:284.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="379"><p class="MsoNormal"><span style="font-size:12.0pt">Procurador de Justiça</span></p></td><td style="width:134.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="180"><p align="center" class="MsoNormal" style="margin-right:2.2pt;text-align:center"><span style="font-size:12.0pt">57</span></p></td></tr><tr style="height:15.25pt"><td style="width:284.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="379"><p class="MsoNormal"><span style="font-size:12.0pt">Promotor de Justiça de Entrância Final</span></p></td><td style="width:134.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="180"><p align="center" class="MsoNormal" style="margin-right:2.2pt;text-align:center"><span style="font-size:12.0pt">409</span></p></td></tr><tr style="height:15.25pt"><td style="width:284.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="379"><p class="MsoNormal"><span style="font-size:12.0pt">Promotor de Justiça de Entrância Intermediária</span></p></td><td style="width:134.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="180"><p align="center" class="MsoNormal" style="margin-right:2.2pt;text-align:center"><span style="font-size:12.0pt">128</span></p></td></tr><tr style="height:15.25pt"><td style="width:284.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="379"><p class="MsoNormal"><span style="font-size:12.0pt">Promotor de Justiça de Entrância Inicial</span></p></td><td style="width:134.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="180"><p align="center" class="MsoNormal" style="margin-right:2.2pt;text-align:center"><span style="font-size:12.0pt">184</span></p></td></tr><tr style="height:15.25pt"><td style="width:284.05pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="379"><p class="MsoNormal"><span style="font-size:12.0pt">Promotor de Justiça Substituto</span></p></td><td style="width:134.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm .5pt 0cm .5pt;height:15.25pt" valign="top" width="180"><p align="center" class="MsoNormal" style="margin-right:2.2pt;text-align:center"><span style="font-size:12.0pt">25</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **ANEXO ÚNICO Anexo I da Lei Complementar nº 11, de 18 de janeiro de 1996** </td></tr><tr><td valign="top"> **CARGO** </td><td valign="top"> **QUANTITATIVO** </td></tr><tr><td valign="top"> Procurador de Justiça </td><td valign="top"> 57 </td></tr><tr><td valign="top"> Promotor de Justiça de Entrância Final </td><td valign="top"> 409 </td></tr><tr><td valign="top"> Promotor de Justiça de Entrância Intermediária </td><td valign="top"> 128 </td></tr><tr><td valign="top"> Promotor de Justiça de Entrância Inicial </td><td valign="top"> 184 </td></tr><tr><td valign="top"> Promotor de Justiça Substituto </td><td valign="top"> 25 </td></tr></tbody></table>

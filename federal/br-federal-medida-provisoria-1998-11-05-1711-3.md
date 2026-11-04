@@ -1,5 +1,3 @@
-###MPV-001711-0-003-05-11-1998@@@
-
 MEDIDA PROVISÓRIA nº 1.711-3, DE 5 DE NOVEMBRO DE 1998.
 
 Acresce dispositivo à Lei nº 9.526, de 8 de dezembro de 1997.

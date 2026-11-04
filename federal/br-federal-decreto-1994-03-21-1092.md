@@ -1,7 +1,3 @@
-1
-
-###DEC-001092-0-000-21-03-1994@@@
-
 DECRETO Nº 1.092, DE 21 DE MARÇO DE 1994
 
 Dá nova redação aos §§ 1º e 2º do art. 2º do Decreto nº 1.007, de 13 de dezembro de 1993, que dispõe sobre as contribuições compulsórias devidas ao Serviço Social do Transporte (SEST) e ao Serviço Nacional de Aprendizagem do Transporte (SENAT).

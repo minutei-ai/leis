@@ -1,7 +1,3 @@
-1
-
-###DEC-000332-0-000-04-11-1991@@@
-
 DECRETO Nº 332, DE 4 DE NOVEMBRO DE 1991
 
 Dispõe sobre a correção monetária das demonstrações financeiras.

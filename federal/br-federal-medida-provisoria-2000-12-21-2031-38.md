@@ -1,5 +1,3 @@
-###MPV-002031-0-038-21-12-2000@@@
-
 medida provisÓria nº 2.031-38, de 21 de dezembro de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

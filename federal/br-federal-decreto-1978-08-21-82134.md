@@ -1,5 +1,3 @@
-###DEC-082134-0-000-21-08-1978@@@
-
 Decreto nº 82.134, de 21 de agosto de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

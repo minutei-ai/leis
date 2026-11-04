@@ -1,5 +1,3 @@
-###DEC-049255-0-000-17-11-1960@@@
-
 DECRETO Nº 49.255, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza Mineração Hannaco Ltda. a lavrar minério de ferro no Município de Itabirito, Estado de Minas Gerais

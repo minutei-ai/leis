@@ -1,7 +1,3 @@
-1
-
-###DEC-097887-0-000-28-06-1989@@@
-
 DECRETO N° 97.887, DE 28 DE JUNHO DE 1989
 
 Cria o PARQUE NACIONAL DO MONTE RORAIMA e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-097439-0-000-06-01-1989@@@
-
 DECRETO N° 97.439, DE 6 DE JANEIRO DE 1989
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras Eugênio Pacelli, em Pouso Alegre, Minas Gerais.

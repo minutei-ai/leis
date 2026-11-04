@@ -1,5 +1,3 @@
-###DEL-006355-0-000-20-03-1944@@@
-
 DECRETO-LEI N. 6.355 – DE 20 DE MARÇO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.560.000,00, para despesas da Comissão de Contrôle dos Acordos de Washington

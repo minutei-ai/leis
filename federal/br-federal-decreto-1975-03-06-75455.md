@@ -1,5 +1,3 @@
-###DEC-075455-0-000-06-03-1975@@@
-
 decreto nº 75.455, de 06 de março de 1975.
 
 Declara a caducidade da concessão outorgada a José Feliciano Baptista Netto para lavrar mármore no Município de Corumbá, Estado de Mato Grosso.

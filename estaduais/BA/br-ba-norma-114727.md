@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir na Secretaria da Fazenda ao
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da rubrica 3.05.08 - 3.1.4.19-1 do orçamento vigente.
 
-Redação de acordo com a Lei nº 2.215, de 27 de setembro de 1965.<br>
+Redação de acordo com a Lei nº 2.215, de 27 de setembro de 1965.
+
 Redação original: "Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta dos recursos previstos na codificação 3.05.08 - Verba 1.6.21.1 do orçamento vigente."
 
 Art. 3º - Revogam-se as disposições em contrário.
@@ -23,4 +24,4 @@ Paulo Pereira de Almeida
 
 Ivo Braga
 
-* * *
+ *

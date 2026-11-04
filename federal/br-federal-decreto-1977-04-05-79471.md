@@ -1,5 +1,3 @@
-###DEC-079471-0-000-05-04-1977@@@
-
 DECRETO Nº 79.471, DE 5 DE ABRIL DE 1977.
 
 Concede a Mineração Paulista de Materiais Básicos Ltda. o direito de lavrar calcário no Município de Guapiara, Estado de São Paulo.

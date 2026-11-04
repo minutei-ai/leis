@@ -1,5 +1,3 @@
-###DEL-009862-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.862 – DE 13 DE SETEMBRO DE 1946
 
 Dispõe sôbre a aplicação de parte da contribuição do Brasil à UNRRA

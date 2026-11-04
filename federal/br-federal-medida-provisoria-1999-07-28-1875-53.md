@@ -1,5 +1,3 @@
-###MPV-001875-0-053-28-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.875-53, DE 28 DE JULHO DE 1999.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

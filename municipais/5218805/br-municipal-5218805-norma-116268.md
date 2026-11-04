@@ -1,6 +1,5 @@
 **REVOGADA PELA LEI 4711/2003**
 
-<br>
 ~~LEI Nº 4.061, DE 22 DE MARÇO DE 2001.~~ 
 
 ~~Altera a Lei n. 3.853/99.~~
@@ -15,13 +14,16 @@
 
 ~~**Classe de Vencimento:** VI a IX -R$500,00~~
 
-~~**Código: OP-038<br>
-Série de Classe:** Fiscal Insp Sanitária<br>
+~~**Código: OP-038
+
+Série de Classe:** Fiscal Insp Sanitária
+
 **Função:** Fiscal de Inspeção Sanitária~~
 
 ~~**Descrição da função:**~~
 
-~~**Sumário:**<br>
+~~**Sumário:**
+
 Atividade de fiscalização, controle e orientação de estabelecimentos e locais passíveis de atuação da vigilância sanitária.~~
 
 ~~**Tarefas:**~~
@@ -32,7 +34,8 @@ Atividade de fiscalização, controle e orientação de estabelecimentos e locai
 
 ~~• Recebimento, triagem e encaminhamento de denúncias relativas à área de vigilância sanitária;~~
 
-~~• Inspeção sanitária em:<br>
+~~• Inspeção sanitária em:
+
 a) estabelecimentos que comercializem gêneros alimentícios e que manipulem alimentos; mercados, feiras-livres e ambulantes;~~
 
 ~~b) estabelecimentos de serviços, tais como: barbearia, salões de beleza, casas de banho e saunas, pedicuro, manicure e congêneres, estabelecimentos esportivos e de recreação (ginástica, cultura física e natação);~~
@@ -55,7 +58,8 @@ a) estabelecimentos que comercializem gêneros alimentícios e que manipulem ali
 
 ~~• Desempenhar outras tarefas semelhantes.~~
 
-~~**Requisitos:**<br>
+~~**Requisitos:**
+
 • Comprovante de II Grau completo;~~
 
 ~~• Curriculum vitae;~~
@@ -64,18 +68,22 @@ a) estabelecimentos que comercializem gêneros alimentícios e que manipulem ali
 
 ~~• Entrevista.~~
 
-<br>
-~~**Cargo: Inspetor de Vigilância Sanitária<br>
-Categoria:** Operacional<br>
+~~**Cargo: Inspetor de Vigilância Sanitária
+
+Categoria:** Operacional
+
 **Classe de Vencimento:** X a XII - R$ 800,00~~
 
-~~**Código: OP-037<br>
-Série de Classe:** Inspetor Vigilância Sanitária<br>
+~~**Código: OP-037
+
+Série de Classe:** Inspetor Vigilância Sanitária
+
 **Função:** Inspetor de Vigilância Sanitária~~
 
 ~~**Descrição da Função**~~
 
-~~**Sumário:**<br>
+~~**Sumário:**
+
 Executar as ações de média e alta complexidade em Vigilância Sanitária, conforme definição em legislação própria.~~
 
 ~~**Tarefas:**~~
@@ -96,29 +104,36 @@ Executar as ações de média e alta complexidade em Vigilância Sanitária, con
 
 ~~• Promover a reciclagem de conhecimentos técnicos dos Fiscais de Vigilância Sanitária;~~
 
-~~• Exercer a fiscalização em:<br>
-a) consultórios médicos, odontológicos e similares;<br>
-b) clínicas, hospitais, laboratórios e similares;<br>
+~~• Exercer a fiscalização em:
+
+a) consultórios médicos, odontológicos e similares;
+
+b) clínicas, hospitais, laboratórios e similares;
+
 c) exercer atividade fiscalizadora e educativa junto a empresas no que se refere à saúde do trabalhador.~~
 
-<br>
 ~~**Requisitos:**~~
 
-~~• Possuir diploma em um destes cursos: Agronomia, Biomedicina, Biologia, Enfermagem, Farmácia, Bioquímica, Medicina, Medicina-Veterinária, Nutrição, Odontologia, Zootecnia, Engenharia Química ou Engenharia de Alimentos;<br>
+~~• Possuir diploma em um destes cursos: Agronomia, Biomedicina, Biologia, Enfermagem, Farmácia, Bioquímica, Medicina, Medicina-Veterinária, Nutrição, Odontologia, Zootecnia, Engenharia Química ou Engenharia de Alimentos;
+
 • Registro profissional;~~
 
-~~• Curriculum vitae;<br>
-• Concurso público;<br>
+~~• Curriculum vitae;
+
+• Concurso público;
+
 • Entrevista.~~
 
 ~~Art. 3º Fica também criado o cargo de Coordenador de Vigilância Sanitária, com quantitativo de 01 (uma) unidade e salário de R$ 1.000,00, de livre nomeação e exoneração.~~
 
 ~~**Descrição da Função**~~
 
-~~**Sumário:**<br>
+~~**Sumário:**
+
 Atividades de coordenação,  de ação sistemática, tendo como objetivo a verificação das condições sanitárias relativas a edificação, equipamentos, procedimentos e a correlação com o meio ambiente, nele inserido o de trabalho, referentes às atividades desenvolvidas.~~
 
-~~**Tarefas:**<br>
+~~**Tarefas:**
+
 • Formar e coordenar equipe mínima de apoio, para execução das ações de baixa, média e alta complexidade;~~
 
 ~~• Cadastrar todos os estabelecimentos sujeitos à fiscalização da Vigilância Sanitária;~~
@@ -129,7 +144,8 @@ Atividades de coordenação,  de ação sistemática, tendo como objetivo a ver
 
 ~~• Assumir o papel de multiplicador junto à equipe municipal dos processos de capacitação dos quais participar.~~
 
-~~**Requisitos:**<br>
+~~**Requisitos:**
+
 • Possuir diploma em um destes cursos: Agronomia, Biomedicina, Enfermagem, Farmácia, Farmácia-Bioquímica, Medicina, Medicina-Veterinária, Odontologia, Nutrição, Biologia, Zootecnia, Engenharia de Alimentos ou Engenheiro Químico.~~
 
 ~~**•** Registro profissional;~~

@@ -1,5 +1,3 @@
-###DEC-094132-0-000-23-03-1987@@@
-
 DECRETO Nº 94.132, DE 23 DE MARÇO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Boa Esperança", situado no Município de Bataiporã, no Estado de Mato Grosso do Sul, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.621, de 2 de maio de 1986 classificado no Cadastro de Imóveis Rurais do INCRA como "latifúndio por exploração", e dá outras providências.

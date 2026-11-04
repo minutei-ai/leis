@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208912)<br>
-
 # DECRETO N° 68.164, DE 09 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à implantação de ciclovia entre os km 329,2 e 335,9 da Rodovia Alexandre Balbo, SP-328, no Município de Ribeirão Preto, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEL-006191-0-000-10-01-1944@@@
-
 DECRETO-LEI N. 6.191 – DE 10 DE JANEIRO 1944
 
 Prorroga a vigência do crédito especial aberto pelo decreto-lei nº 3.411, de 10 de julho de 1941

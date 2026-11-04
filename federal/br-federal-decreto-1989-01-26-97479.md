@@ -1,5 +1,3 @@
-###DEC-097479-0-000-26-01-1989@@@
-
 DECRETO N° 97.479, DE 26 DE JANEIRO DE 1989
 
 Dispõe sobre os servidores em exercício na Secretaria Executiva do Programa Nacional de Irrigação.

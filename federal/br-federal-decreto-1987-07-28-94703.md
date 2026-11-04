@@ -1,5 +1,3 @@
-###DEC-094703-0-000-28-07-1987@@@
-
 DECRETO Nº 94.703, DE 28 DE JULHO DE 1987.
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Educação de Cacoal.

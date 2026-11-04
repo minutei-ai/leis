@@ -1,5 +1,3 @@
-###DEL-002096-0-000-27-12-1983@@@
-
 # Decreto nº 2.096, de 27 de dezembro de 1983
 
 Reajusta os atuais valores de vencimentos e proventos dos servidores da Secretaria-Geral do Tribunal de Contas da União e dá outras providências.

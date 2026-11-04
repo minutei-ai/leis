@@ -1,5 +1,3 @@
-###DEC-052298-0-000-24-07-1963@@@
-
 DECRETO Nº 52.298, DE 24 DE JULHO DE 1963.
 
 Abre, ao Tribunal de Contas, o crédito especial de Cr$826.200,00 (oitocentos e vinte e seis mil e duzentos cruzeiros) para o fim que especifica.

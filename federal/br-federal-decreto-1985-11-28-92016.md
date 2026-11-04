@@ -1,5 +1,3 @@
-###DEC-092016-0-000-28-11-1985@@@
-
 Decreto nº 92.016, de 28 de novembro de 1985.
 
 Revoga o Decreto nº 61.310, de 08 de setembro de 1967, que aprova o Regulamento de Uniformes para os Alunos das Escolas de Formação de Oficiais da Marinha Mercante.

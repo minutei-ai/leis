@@ -1,5 +1,3 @@
-###DEC-004321-0-000-05-08-2002@@@
-
 DECRETO Nº 4.321, DE 5 DE AGOSTO DE 2002
 
 Dispõe sobre a Carreira Finanças e Controle, criada pelo Decreto-Lei nº 2.346, de 23 de julho de 1987, e dá ourtras providências.

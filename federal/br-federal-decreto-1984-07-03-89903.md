@@ -1,5 +1,3 @@
-###DEC-089903-0-000-03-07-1984@@@
-
 Decreto nº 89.903, de 03 de julho de 1984
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído pelos Quinhões 7--G, 16-C e 24 da Fazenda Moraes, situado no Município de Clevelãndia, no Estado do Paraná, e compreendido na área prioritária, para fins de reforma agraria, fixada pelo Decreto nº 89.902, de 3 de julho de 1984.

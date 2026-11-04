@@ -1,5 +1,3 @@
-###DEC-053677-0-000-11-03-1964@@@
-
 DECRETO Nº 53.677, DE 11 DE MARÇO DE 1964.
 
 Autoriza o cidadão brasileiro Victor Belfort Arantes Filho a lavrar caulim no município de Pequeri, Estado de Minas Gerais.

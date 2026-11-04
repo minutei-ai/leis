@@ -1,5 +1,3 @@
-###DEC-007331-0-000-19-10-2010-PUB-01@@@
-
 DECRETO Nº 7.331, DE 19 DE OUTUBRO DE 2010.
 
 Altera o Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.648, DE 22 DE SETEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Marcha para Jesus e a Noite Gospel no calendário oficial do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a Marcha para Jesus e a Noite Gospel no calendário oficial do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

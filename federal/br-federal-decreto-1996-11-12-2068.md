@@ -1,5 +1,3 @@
-###DEC-002068-0-000-12-11-1996@@@
-
 DECRETO Nº 2.068, DE 12 DE NOVEMBRO DE 1996.
 
 Prorroga o prazo a que se refere o art. 2º do Decreto nº 2.027, de 11 de outubro de 1996.

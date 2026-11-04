@@ -1,5 +1,3 @@
-###DEC-090591-0-000-29-11-1984@@@
-
 Decreto nº 90.591 de 29 de novembro de 1984
 
 Dispõe sobre o montante do Capital Social da VALENORTE ALUMÍNIO LTDA.

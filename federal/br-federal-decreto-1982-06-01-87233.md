@@ -1,5 +1,3 @@
-###DEC-087233-0-000-01-06-1982@@@
-
 Decreto nº 87.233, de 01 de junho de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de trecho de linhas de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado de Rio de Janeiro.

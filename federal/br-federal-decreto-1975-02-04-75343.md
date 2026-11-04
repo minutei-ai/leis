@@ -1,5 +1,3 @@
-###DEC-075343-0-000-04-02-1975@@@
-
 DECRETO Nº 75.343, DE 4 DE JANEIRO DE 1975.
 
 Autoriza o funcionamento dos cursos de Ciências Contábeis e de Administração da Faculdade de Ciências Contábeis e Administrativas de Avaré, mantida pela Instituição de Ensino Superior de Avaré, Estado de São Paulo.

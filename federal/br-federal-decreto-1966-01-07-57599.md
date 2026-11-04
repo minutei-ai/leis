@@ -1,5 +1,3 @@
-###DEC-057599-0-000-07-01-1966@@@
-
 DECRETO Nº 57.599, DE 7 DE JANEIRO DE 1966.
 
 Fixa os preços mínimos básicos para o algodão, arroz, feijão, farinha de mandioca e milho, da Região Norte, da safra 1966-67.

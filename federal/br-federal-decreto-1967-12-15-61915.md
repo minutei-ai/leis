@@ -1,5 +1,3 @@
-###DEC-061915-0-000-15-12-1967@@@
-
 DECRETO nº 61.915, DE 15 DE DEZEMBRO DE 1967.
 
 Outorga concessão à Televisão Imembuí S.A., para estabelecer uma estação de radiodifusão de sons e imagens (televisão), na cidade de Santa Maria, Estado do Rio Grande do Sul.

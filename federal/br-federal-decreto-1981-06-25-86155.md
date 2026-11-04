@@ -1,5 +1,3 @@
-###DEC-086155-0-000-25-06-1981@@@
-
 DECRETO nº 86.155, de 25 de junho de 1981.
 
 Reduz alíquota do Imposto sobre Produtos Industrializados.

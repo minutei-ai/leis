@@ -1,5 +1,3 @@
-###DEC-047141-0-000-27-10-1959@@@
-
 decreto nº 47.141, de 27 de outubro de 1959.
 
 Autoriza o cidadão brasileiro Coralio Soares de Oliveira a pesquisar cassiterita no município de Picuí, Estado da Paraíba.

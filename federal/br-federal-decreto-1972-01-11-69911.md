@@ -1,5 +1,3 @@
-###DEC-069911-0-000-11-01-1972@@@
-
 DECRETO Nº 69.911, DE 11 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Casa São Vicente de Paulo, com sede em São Luís, Estado do Maranhão.

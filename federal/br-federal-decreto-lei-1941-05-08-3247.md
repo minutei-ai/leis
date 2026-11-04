@@ -1,5 +1,3 @@
-###DEL-003247-0-000-08-05-1941@@@
-
 DECRETO-LEI N. 3.247 – DE 8 DE MAIO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de 10:000$0 à verba que especifica

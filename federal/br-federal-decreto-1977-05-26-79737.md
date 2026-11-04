@@ -1,5 +1,3 @@
-###DEC-079737-0-000-26-05-1977@@@
-
 decreto nº 79.737, de 26 de maio de 1977.
 
 Concede reconhecimento ao curso de Psicologia, da Faculdade de Educação, Filosofia, Ciências e Letras "Senador Fláquer", com sede na cidade de Santo André, Estado de São Paulo.

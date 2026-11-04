@@ -1,6 +1,7 @@
 LEI Nº 7.941 DE 24 DE OUTUBRO DE 2001
 
-Ver também:<br>
+Ver também:
+
 Lei nº  [13.720](https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-14062013#_GoBack) , de 27 de abril de 2017. Atualiza, na forma da Lei 12.057/2011, os limites dos municípios de Acajutiba, Alagoinhas, Aporá, Araçás, Aramari, Cardeal da Silva, Catu, Conde, Crisópolis, Entre Rios, Esplanada, Inhambupe, Itanagra, Itapicuru, Jandaíra, Olindina, Ouriçangas, Pedrão, Pojuca e Rio Real.
 
 Corrige os limites do município de ARAÇAS, criado em 1989, através da [Lei nº 4.849](https://www.legislabahia.ba.gov.br/documentos/lei-no-4849-de-24-de-fevereiro-de-1989#LO_4_849) , desmembrado do município de Alagoinhas.
@@ -35,4 +36,4 @@ Heraldo Eduardo Rocha
 
 Secretário da Justiça e Direitos Humanos
 
-* * *
+ *

@@ -1,5 +1,3 @@
-###DEC-096707-0-000-15-09-1988@@@
-
 DECRETO N° 96.707, DE 15 DE SETEMBRO DE 1988
 
 Outorga concessão à PIRA SOM & IMAGEM LTDA. para explorar Serviço Especial de Televisão por Assinatura - TVA, na Cidade de São Paulo, Estado de São Paulo.

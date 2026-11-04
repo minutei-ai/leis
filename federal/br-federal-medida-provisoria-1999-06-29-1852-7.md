@@ -1,5 +1,3 @@
-###MPV-001852-0-007-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.852-7, DE 29 de JUNHO DE 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

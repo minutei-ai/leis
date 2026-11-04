@@ -1,5 +1,3 @@
-###DEC-062113-0-000-12-01-1968@@@
-
 DECRETO Nº 62.113, DE 12 DE JANEIRO DE 1968.
 
 Dispõe sôbre a estruturação da Comissão do Plano do Carvão Nacional, sôbre a importação, consumo e produção de carvão mineral e dá outras providências.

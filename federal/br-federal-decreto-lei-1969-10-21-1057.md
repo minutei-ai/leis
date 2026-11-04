@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/fca20afb-3e74-455e-8bdd-614d714f6123/texto#nowhere)
 
-###DEL-001057-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.057, DE 21 DE OUTUBRO DE 1969
 
 Transfere para o patrimônio da União o imóvel que especifica, de propriedade do INPS.

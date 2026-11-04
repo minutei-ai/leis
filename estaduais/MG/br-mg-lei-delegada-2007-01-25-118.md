@@ -217,7 +217,3 @@ AÉCIO NEVES
 Danilo de Castro
 
 Paulo de Tarso Almeida Paiva
-
-\======================================
-
-Data da última atualização: 29/7/2016.

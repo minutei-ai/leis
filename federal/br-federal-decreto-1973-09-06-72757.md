@@ -1,5 +1,3 @@
-###DEC-072757-0-000-06-09-1973@@@
-
 DECRETO Nº 72.757, DE 6 DE SETEMBRO DE 1973.
 
 Concede à Mineração Urandi S.A. o direito de lavrar minério de manganês no Município de Licínio de Almeida, Estado da Bahia.

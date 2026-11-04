@@ -1,5 +1,3 @@
-###DEC-060956-0-000-06-07-1967@@@
-
 DECRETO Nº 60.956, DE 6 DE JULHO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Companhia Força e Luz Evangelistana no município de São João Evangelista, Estado de Minas Gerais, e outorga concessão à Centrais Elétricas de Minas Gerais S.A. no município de São João Evangelista, Estado de Minas Gerais, e dá outras providências.

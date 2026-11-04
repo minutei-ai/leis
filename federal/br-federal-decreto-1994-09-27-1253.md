@@ -1,7 +1,3 @@
-1
-
-###DEC-001253-0-000-27-09-1994@@@
-
 # DECRETO Nº 1.253, DE 27 DE SETEMBRO DE 1994
 
 Promulga a Conversão nº 136, da Organização Internacional do Trabalho, sobre a Proteção contra os Riscos de Intoxicação Provocados pelo Benzeno, assinada em Genebra, em 30 de junho de 1971.

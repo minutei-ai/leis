@@ -1,5 +1,3 @@
-###DEC-058988-0-000-03-08-1966@@@
-
 decreto Nº 58.988, de 3 de agôsto de 1966.
 
 Declara luto oficial pelo falecimento do Presidente da República de Nicarágua.

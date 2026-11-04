@@ -1,5 +1,3 @@
-###DEC-081872-0-000-03-07-1978@@@
-
 Decreto n.º 81.872, de 03 de julho de 1978.
 
 Dá nova redação a dispositivo do Decreto n.º 77.184, de 19 de fevereiro de 1976, que autoriza o Ministro da Fazenda a conceder a garantia da União em operações de financiamento externo a serem contratadas pela Companhia do Metropolitano do Rio de Janeiro -  METRÔ.

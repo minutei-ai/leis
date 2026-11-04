@@ -1,5 +1,3 @@
-###DEC-077622-0-000-17-05-1976@@@
-
 Decreto nº 77.622, de 17 de maio de 1976
 
 Concede à Companhia Agro-Industrial de Monte Alegre - CAIMA, o direito de lavrar calcário no Município de Itaituba, Estado do Pará.

@@ -1,22 +1,20 @@
-###DEC-019351-0-000-06-08-1945@@@
+**DECRETO Nº 19.351, DE 6 DE AGÔSTO DE 1945.**
 
-<strong>DECRETO Nº 19.351, DE 6 DE AGÔSTO DE 1945.</strong>
+***Concede à sociedade “Lentheric S. A., Inc”, autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade “Lentheric S. A., Inc”, autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade anônima “Lentheric S.A. Inc”,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade anônima “Lentheric S.A. Inc”,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à sociedade Anônima “Lentheric S.A. Inc”., com sede na cidade de Wilmington, Condado de New Castle, Estado de Delaware. Estado s Unidos da America, autorização para funcionar na República, com o Capital de Cr$2.925.000,00 e com os estatutos que apresentou mediante as cláusulas que êste acompanham, assinadas pelo Ministério de Estado dos Negócios do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente a s leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objetivo da referida autorização.
 
 Rio de Janeiro, 6 de agôsto de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Alexandre Marcondes Filho
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 19.351, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 19.351, DESTA DATA**
 
 I
 
@@ -42,4 +40,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 6 de agôsto de 1945.
 
-<strong>ALEXANDRE MARCONDES FILHO</strong>
+**ALEXANDRE MARCONDES FILHO**

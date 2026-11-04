@@ -1,5 +1,3 @@
-###DEC-003207-0-000-13-10-1999@@@
-
 DECRETO Nº 3.027, DE 13 DE OUTUBRO DE 1999.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Tcheca sobre o Exercício de Emprego por Parte de Dependentes do Pessoal Diplomático, Consular, Administrativo e Técnico, celebrado em Praga, em 13 de junho de 1997.
@@ -82,4 +80,14 @@ Artigo IV
 
 Feito em Praga, em 13 de junho de 1997, em três exemplares originais, em português, tcheco e inglês, sendo todos os textos igualmente autênticos. Em caso de divergência de interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:42.55pt; border-collapse:collapse"><tbody><tr><td style="width:170.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo governo da República Federativa do Brasil</span></p></td><td style="width:191.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Tcheca</span></p></td></tr><tr><td style="width:170.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ivan Cannabrava</span></p></td><td style="width:191.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ladislav Marvec</span></p></td></tr><tr><td style="width:170.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Subsecretário-Geral de Assuntos Políticos do Ministério das Relações Exteriores</span></p></td><td style="width:191.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor-Geral da Seção Política do Ministério dos Negócios Estrangeiros</span></p></td></tr></tbody></table>
+Pelo governo da República Federativa do Brasil
+
+Pelo Governo da República Tcheca
+
+Ivan Cannabrava
+
+Ladislav Marvec
+
+Subsecretário-Geral de Assuntos Políticos do Ministério das Relações Exteriores
+
+Diretor-Geral da Seção Política do Ministério dos Negócios Estrangeiros

@@ -16,8 +16,6 @@ Art. 5º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 31 de maio de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -27,9 +25,9 @@ ANEXO ÚNICO
 | IMÓVEL DE PROPRIEDADE DO MUNICÍPIO DE BURITINÓPOLIS/GO AUTORIZADO A SER ADQUIRIDO, MEDIANTE DOAÇÃO ONEROSA, PELO ESTADO DE GOIÁS |
 | --- |
 | DENOMINAÇÃO | **Área APM I "A" da Quadra nº 65** |
-| LOCALIZAÇÃO | **Avenida Buriti, Loteamento Novo Buriti II, Município de** **Buritinópolis/GO** |
-| ÁREA | **2.000,00** **m²** |
-| MATRÍCULA | **Nº 1.372 –** **Cartório de Registro de Imóveis e Anexos de** **Buritinóplis/GO** |
+| LOCALIZAÇÃO | **Avenida Buriti, Loteamento Novo Buriti II, Município deBuritinópolis/GO** |
+| ÁREA | **2.000,00m²** |
+| MATRÍCULA | **Nº 1.372 –Cartório de Registro de Imóveis e Anexos deBuritinóplis/GO** |
 |
 LIMITES E CONFRONTAÇÕES DO IMÓVEL
 

@@ -1,5 +1,3 @@
-###DEC-068207-0-000-11-02-1971@@@
-
 DECRETO Nº 68.207, DE 11 DE FEVEREIRO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, para o Departamento Administrativo do Pessoal Civil e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-095364-0-000-04-12-1987@@@
-
 DECRETO Nº 95.364, DE 04 DE DEZEMBRO DE 1987
 
 Dá nova redação ao art. 2º do Decreto nº 94.444, de 12 de junho de 1987, cria o Comitê de Limites de Crédito, e dá outras providências.

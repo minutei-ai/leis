@@ -1,5 +1,3 @@
-###DEL-006204-0-000-17-01-1944@@@
-
 DECRETO-LEI N. 6.204 – DE 17 DE JANEIRO DE 1944
 
 Dispõe sôbre o registo de fornecedores do Govêrno e dá outras providências

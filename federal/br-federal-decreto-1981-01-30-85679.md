@@ -1,5 +1,3 @@
-###DEC-085679-0-000-30-01-1981@@@
-
 Decreto nº 85.679, de 30 de janeiro de 1981
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

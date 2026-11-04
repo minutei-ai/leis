@@ -1,5 +1,3 @@
-###DEC-053806-0-000-23-03-1964@@@
-
 DECRETO Nº 53.806, DE 23 DE MARÇO DE 1964.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.

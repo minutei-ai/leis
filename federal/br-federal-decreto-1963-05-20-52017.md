@@ -1,5 +1,3 @@
-###DEC-052017-0-000-20-05-1963@@@
-
 DECRETO Nº 52.017, DE 20 DE MAIO DE 1963.
 
 Aprova alterações introduzidas noas Estatutos da Companhia Excelsior de Seguros, inclusive aumento do capital social e transferência de sede.

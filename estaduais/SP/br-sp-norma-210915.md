@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210915)<br>
-
 # DECRETO N° 69.523, DE 06 DE MAIO DE 2025
 
 ### _Transfere, da Secretaria de Gestão e Governo Digital para a Secretaria de Desenvolvimento Social, a administração do imóvel que especifica, localizado no Município de São Paulo._

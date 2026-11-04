@@ -1,5 +1,3 @@
-###DEC-083686-0-000-04-07-1979@@@
-
 Decreto nº 83.686, de 04 julho de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

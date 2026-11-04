@@ -1,5 +1,3 @@
-###DEC-054215-0-000-27-08-1964@@@
-
 DECRETO Nº 54.215, DE 27 DE AGÔSTO DE 1964.
 
 Considera os Jogos Universitários Brasileiros como atividade universitária regular.

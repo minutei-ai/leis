@@ -1,5 +1,3 @@
-###DEC-060108-0-000-20-01-1967@@@
-
 decreto nº 60.108, de 20 de janeiro de 1967.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Aeronáutica.

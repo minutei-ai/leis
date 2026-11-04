@@ -1,5 +1,3 @@
-###DEC-065197-0-000-19-09-1969@@@
-
 DECRETO Nº 65.197 - DE 19 DE SETEMBRO DE 1969.
 
 Atualiza os valôres das multas previstas no Decreto-lei nº 538, de 7 de julho de 1938, e no Decreto número 4.071, de 12 de maio de 1939.

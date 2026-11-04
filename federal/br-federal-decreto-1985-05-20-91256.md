@@ -1,5 +1,3 @@
-###DEC-091256-0-000-20-05-1985@@@
-
 DECRETO nº 91.256, DE 20 DE MAIO DE 1985
 
 Altera dispositivo do Decreto nº 72.021, de 28 de março de 1973, que discrimina as missões permanentes no exterior

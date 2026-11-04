@@ -1,5 +1,3 @@
-###DEL-008941-0-000-26-01-1946@@@
-
 DECRETO-LEI  N.  8.941 – DE 26 DE JANEIRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar a Associação Protetora do Recolhimento de Desvalidos de Petrópolis do impôsto que menciona.

@@ -14,7 +14,8 @@ CONSIDERANDO, ainda, que constitui infração tributária a falta de recadastram
 
 Art. 1º Fica fixado o prazo para o Recadastramento Imobiliário Voluntário, a fim de que os proprietários, os titulares do domínio útil ou os possuidores a qualquer título, de bens imóveis urbanos localizados no território do Município de Aparecida de Goiânia, requeiram a atualização dos dados cadastrais das respectivas unidades imobiliárias, na forma, prazo e condições estabelecidas no Decreto “N” Nº 858/2024.
 
-Parágrafo único: o prazo de que trata o caput, para o exercício de 2024, ficará aberto de 11 de novembro à 13 de dezembro de 2024.<br>
+Parágrafo único: o prazo de que trata o caput, para o exercício de 2024, ficará aberto de 11 de novembro à 13 de dezembro de 2024.
+
 (Redação alterada pelo Decreto "N" Nº 908, de 30 de outubro de 2024).
 
 ~~Parágrafo único. O prazo de que trata o caput, para o exercício de 2024, ficará aberto de 04 de novembro a 13 de dezembro de 2024.~~
@@ -29,8 +30,10 @@ Art. 4º Este Decreto entrará em vigor na data de sua publicação, revogando s
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA/GO, aos 24 de outubro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Secretário da Fazenda

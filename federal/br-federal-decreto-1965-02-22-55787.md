@@ -1,5 +1,3 @@
-###DEC-055787-0-000-22-02-1965@@@
-
 DECRETO Nº 55.787, DE 22 DE FEVEREIRO DE 1965.
 
 Dá nova redação ao art. 32 do Regulamento do Banco Nacional de Crédito Cooperativo.

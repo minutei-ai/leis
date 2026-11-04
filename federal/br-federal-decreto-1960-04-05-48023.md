@@ -1,5 +1,3 @@
-###DEC-048023-0-000-05-04-1960@@@
-
 decreto nº 48.023, de 5 de abril de 1960.
 
 Autoriza o cidadão brasileiro Rafael Mayer a pesquisar minério de manganês no município de Tapiraí, Estado de São Paulo.

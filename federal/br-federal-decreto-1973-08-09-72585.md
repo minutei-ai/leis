@@ -1,5 +1,3 @@
-###DEC-072585-0-000-09-08-1973@@@
-
 DECRETO Nº 72.585, DE 9 DE AGOSTO DE 1973.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Contábeis e Administração de Uruguaiana, mantida pela Pontifícia Universidade Católica do Rio Grande do Sul, com sede na cidade de Uruguaiana, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-073305-0-000-13-12-1973@@@
-
 DECRETO Nº 73.305 - DE 13 DE DEZEMBRO DE 1973
 
 Concede à Canaan Material de Construção, Comércio, Indústria e Representações Limitada o direito de lavrar calcário, no Município de Sete Lagoas - Estado de Minas Gerais.

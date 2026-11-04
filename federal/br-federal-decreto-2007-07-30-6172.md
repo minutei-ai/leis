@@ -1,5 +1,3 @@
-###DEC-006172-0-000-30-07-2007@@@
-
 DECRETO Nº 6.172, DE 30 DE JULHO DE 2007.
 
 Autoriza o aumento do capital da Empresa Brasileira de Hemoderivados e Biotecnologia - HEMOBRÁS.
@@ -23,5 +21,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Jose Gomes Temporão
-
-Este texto não substitui o publicado no DOU de 31.7.2007

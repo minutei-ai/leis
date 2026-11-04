@@ -1,5 +1,3 @@
-###DEC-051913-A-000-25-04-1963@@@
-
 DECRETO Nº 51.913-a, DE 25 DE ABRIL dE 1963.
 
 Autoriza a Companhia Elétrica Caiuá a ampliar suas instalações.

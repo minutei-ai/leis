@@ -1,5 +1,3 @@
-###DEC-045015-0-000-04-12-1958@@@
-
 DECRETO Nº 45.015, DE 4 DE DEZEMBRO DE 1958.
 
 Autoriza a Companhia Viçosense de Fôrça e Luz a construir uma linha de transmissão entre a Usina da Brecha e cidade de Viçosa, passando pela de Teixeiras, Estado de Minas Gerais, e dá outras providências.

@@ -6,14 +6,16 @@ Altera dispositivos do Código de Posturas, Lei Complementar nº 3.635, de 03 de
 
 Art. 1º A Lei nº 3.635, de 03 de março de 1998, Código de Posturas do Município de Rio Verde-GO, passa a vigorar com as seguintes alterações:
 
-“Art.191. Para a apuração do valor final da multa será levado em conta se o infrator é reincidente, assim considerado quem cometeu duas ou mais infrações a este Código com interstício inferior a 01 (um) ano e, neste caso, o valor da multa será acrescido de 50% (cinquenta por cento) a cada reincidência.<br>
+“Art.191. Para a apuração do valor final da multa será levado em conta se o infrator é reincidente, assim considerado quem cometeu duas ou mais infrações a este Código com interstício inferior a 01 (um) ano e, neste caso, o valor da multa será acrescido de 50% (cinquenta por cento) a cada reincidência.
+
 Parágrafo único. O valor da multa aplicada será corrigido monetariamente pelo índice de correção que se aplica aos tributos municipais e acrescido de juros de mora a contar do vencimento.”
 
 “Art. 200. O auto de infração deverá, no prazo máximo de 05 (cinco) dias contados de sua lavratura, sob pena de apuração de responsabilidade, ser entregue e protocolado pelo agente autuante na Secretaria Municipal da Fazenda e será julgado, após regular processamento, pela autoridade fazendária julgadora de 1ª instância administrativa da Secretaria Municipal da Fazenda.
 
 § 1º Com a entrega e protocolo do auto de infração na forma do caput deste artigo, a competência para o processamento do auto passa a ser da Secretaria Municipal da Fazenda, inclusive no se refere à notificação, caso ela já não tenha sido feito pessoalmente pelo fiscal autuante, e, neste caso, a notificação se dará por via postal ou por edital.
 
-§ 2º A notificação por via postal deverá ser realizada com aviso de recebimento e será considerada efetivada pela entrega no endereço do domicílio tributário do infrator cadastrado junto à Secretaria Municipal da Fazenda. <br>
+§ 2º A notificação por via postal deverá ser realizada com aviso de recebimento e será considerada efetivada pela entrega no endereço do domicílio tributário do infrator cadastrado junto à Secretaria Municipal da Fazenda. 
+
 § 3º. Se o infrator não for encontrado no domicílio tributário cadastrado junto à Secretaria Municipal da Fazenda, ou, na hipótese de não possuir endereço cadastrado, a sua notificação se dará por edital.”
 
 “Art. 201. O auto de infração será lavrado e instruído com os elementos necessários à fundamentação da exigência, e, quando for o caso, com a anexação dos documentos próprios, e conterá obrigatoriamente:

@@ -1,5 +1,3 @@
-###DEL-003089-0-000-04-03-1941@@@
-
 DECRETO-LEI N. 3.089 – DE 4 DE MARÇO DE 1941
 
 Abre crédito especial, pelo Ministério da Justiça e Negócios Interiores

@@ -1,5 +1,3 @@
-###DEC-001792-0-000-15-01-1996@@@
-
 DECRETO N° 1.792, DE 15 DE JANEIRO DE 1996
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Ministério do Planejamento e Orçamento e dá outras providências.

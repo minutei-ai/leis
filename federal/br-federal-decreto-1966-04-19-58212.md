@@ -1,5 +1,3 @@
-###DEC-058212-0-000-19-04-1966@@@
-
 DECRETO Nº 58.212, DE 19 DE ABRIL DE 1966.
 
 Dispõe sôbre eleição suplementar na representação da lavoura do Estado do Espírito Santo à Junta Administrativa do Instituto Brasileiro do Café.

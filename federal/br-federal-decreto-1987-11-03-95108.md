@@ -1,5 +1,3 @@
-###DEC-095108-0-000-03-11-1987@@@
-
 DECRETO Nº 95.108, DE 3 DE NOVEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada no Município de Nazaré Paulista, Comarca de Atibaia, Estado de São Paulo, destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

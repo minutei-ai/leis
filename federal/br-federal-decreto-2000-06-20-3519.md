@@ -1,5 +1,3 @@
-###DEC-003519-0-000-20-06-2000@@@
-
 DECRETO Nº 3.519, DE 20 DE JUNHO DE 2000.
 
 Dá nova redação a dispositivos do regulamento da Ordem, do Mérito das Comunicações, aprovado pelo Decreto nº 87.479, de 16 de agosto de 1982.

@@ -1,5 +1,3 @@
-###DEC-076859-0-000-17-12-1975@@@
-
 DECRETO Nº 76.859, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Comunicação Social da Universidade Católica de Minas Gerais, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

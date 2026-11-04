@@ -1,7 +1,3 @@
-1
-
-###MPV-001159-0-000-26-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.159, DE 26 DE OUTUBRO DE 1995.
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e dá outras providências.

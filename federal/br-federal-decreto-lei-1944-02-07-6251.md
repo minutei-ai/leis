@@ -1,5 +1,3 @@
-###DEL-006251-0-000-07-02-1944@@@
-
 DECRETO-LEI N. 6.251 – DE 7 DE FEVEREIRO DE 1944
 
 Suprime cargos no Quadro Permanente do Ministério da Educação e Saúde

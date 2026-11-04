@@ -1,5 +1,3 @@
-###DEC-060306-0-000-07-03-1967@@@
-
 DECRETO Nº 60.306, DE 7 DE MARÇO DE 1967.
 
 Ministério da Fazenda Abre o crédito especial de NCr$3.556.780,93 autorizado pela Lei nº 5.193 de 20 de dezembro de 1966, para o fim que menciona.

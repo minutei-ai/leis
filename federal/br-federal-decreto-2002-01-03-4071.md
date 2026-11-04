@@ -1,5 +1,3 @@
-###DEC-004071-0-000-03-01-2002@@@
-
 DECRETO Nº 4.071, DE 3 DE JANEIRO DE 2002.
 
 Dá nova redação ao § 1o do art. 1o do Decreto no 3.035, de 27 de abril de 1999, que delega competência para a prática dos atos que menciona.

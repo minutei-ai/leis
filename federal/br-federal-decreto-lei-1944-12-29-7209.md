@@ -1,5 +1,3 @@
-###DEL-007209-0-000-29-12-1944@@@
-
 DECRETO-LEI N. 7.209 – DE 29 DE DEZEMBRO DE 1944
 
 Regula a aquisição de material para o serviço da Prefeitura do Distrito FederaI

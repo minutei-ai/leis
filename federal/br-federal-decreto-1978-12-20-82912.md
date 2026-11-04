@@ -1,5 +1,3 @@
-###DEC-082912-0-000-20-12-1978@@@
-
 DECRETO Nº 82 912, de 20 de dezembro de 1978
 
 Concede à REAGO - Indústria e Comércio S.A. o direito de lavrar granito no Município de Guarulhos , Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-049360-0-000-28-11-1960@@@
-
 decreto nº 49.360, de 28 de novembro de 1960.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação do equipamento ora especificado e a ser trazido do exterior pela emprêsa “Fosforita Olinda S.A. - FASA”, do Recife (Pe).

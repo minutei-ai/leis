@@ -1,5 +1,3 @@
-###MPV-000458-0-000-10-02-2009@@@
-
 MEDIDA PROVISÓRIA Nº 458, DE 10 DE FEVEREIRO DE 2009.
 
 Dispõe sobre a regularização fundiária das ocupações incidentes em terras situadas em áreas da União, no âmbito da Amazônia Legal, altera as Leis nos 8.666, de 21 de junho de 1993, 6.015, de 31 de dezembro de 1973, 6.383, de 7 de dezembro 1976, e 6.925, de 29 de junho de 1981, e dá outras providências.

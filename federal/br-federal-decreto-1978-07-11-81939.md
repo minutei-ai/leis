@@ -1,5 +1,3 @@
-###DEC-081939-0-000-11-07-1978@@@
-
 Decreto nº 81.939, de 11 de julho de 1978.
 
 Concede à Produtos Minerais do Piauí Ltda. o direito de lavrar talco no Município de São Raimundo Nonato, Estado do Piauí.

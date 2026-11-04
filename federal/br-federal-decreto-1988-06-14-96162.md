@@ -1,5 +1,3 @@
-###DEC-096162-0-000-14-06-1988@@@
-
 DECRETO N° 96.162, DE 14 DE JUNHO DE 1988
 
 Dispõe sobre a elevação do capital social da PETROBRÁS DISTRIBUIDORA S.A. - BR.

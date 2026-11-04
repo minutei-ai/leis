@@ -1,5 +1,3 @@
-###DEC-081998-0-000-19-07-1978@@@
-
 Decreto nº 81.998, de 19 de julho de 1978.
 
 Aprova o Regulamento da Diretoria de Eletrônica e Proteção ao Vôo e dá outras providências.

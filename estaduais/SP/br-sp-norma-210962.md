@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210962)<br>
-
 # DECRETO N° 69.542, DE 22 DE MAIO DE 2025
 
 ### _Institui a Medalha de "Mérito Fazendário Professor Antonio Delfim Netto", da Secretaria da Fazenda e Planejamento, e dá providências correlatas._
@@ -34,7 +32,8 @@ Arthur Luis Pinho de Lima
 
 Samuel Yoshiaki Oliveira Kinoshita
 
-#### REGULAMENTO DA MEDALHA de<br>
+#### REGULAMENTO DA MEDALHA de
+
 "Mérito Fazendário Professor Antonio Delfim Netto"
 
 **Artigo 1° -** A Medalha de que trata este decreto é composta de um escudo redondo de ouro, com 35mm (trinta e cinco milímetros) de diâmetro, tendo:

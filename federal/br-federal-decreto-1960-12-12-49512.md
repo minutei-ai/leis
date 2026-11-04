@@ -1,5 +1,3 @@
-###DEC-049512-0-000-12-12-1960@@@
-
 DECRETO Nº 49.512, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro, Edécio Bona a pesquisar areias ilmeniticas no município de Tutoia, Estado do Maranhão.

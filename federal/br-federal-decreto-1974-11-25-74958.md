@@ -1,5 +1,3 @@
-###DEC-074958-0-000-25-11-1974@@@
-
 DECRETO Nº 74.958, DE 25 DE NOVEMBRO DE 1974.
 
 Concede autorização à Companhia Industrial Belo Horizonte com sede na Capital do Estado de Minas Gerais, pelo prazo de doze meses, a partir desta data, para funcionar aos domingos e nos dias feriados civis e religiosos, nos estabelecimentos que menciona.

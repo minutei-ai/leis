@@ -1,5 +1,3 @@
-###DEC-083539-0-000-04-06-1979@@@
-
 DECRETO Nº 83.539, DE 04 DE JUNHO DE 1 979.
 
 Reorganiza o Sistema de Comunicação Social do Poder Executivo.

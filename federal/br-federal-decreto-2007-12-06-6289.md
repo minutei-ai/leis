@@ -1,5 +1,3 @@
-###DEC-006289-0-000-06-12-2007@@@
-
 DECRETO Nº 6.289, DE 6 DE DEZEMBRO DE 2007.
 
 Estabelece o Compromisso Nacional pela Erradicação do Sub-registro Civil de Nascimento e Ampliação do Acesso à Documentação Básica, institui o Comitê Gestor Nacional do Plano Social Registro Civil de Nascimento e Documentação Básica e a Semana Nacional de Mobilização para o Registro Civil de Nascimento e a Documentação Básica.
@@ -109,5 +107,3 @@ Brasília, 6 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 7.12.2007

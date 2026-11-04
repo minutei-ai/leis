@@ -1,5 +1,3 @@
-###DEC-079090-0-000-04-01-1977@@@
-
 Decreto nº 79.090, de 4 de janeiro de 1977.
 
 Concede reconhecimento aos cursos de Letras, de Estudos Sociais, e de Ciências, como extensão da Faculdade de Ciências Humanas, da Universidade Católica de Minas Gerais, com sede na Cidade de Belo Horizonte, Estado de Minas Gerais.

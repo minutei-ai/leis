@@ -1,5 +1,3 @@
-###DEC-072248-0-000-11-05-1973@@@
-
 DECRETO Nº 72.248, DE 11 DE MAIO DE 1973.
 
 Concede à Somine - Sociedade Mineradora do Nordeste Ltda., o direito de lavrar talco no Município de Casa Nova, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-058726-0-000-27-06-1966@@@
-
 DECRETO Nº 58.726, DE 27 DE JUNHO DE 1966.
 
 Outorga concessão para distribuir energia elétrica e dá outras providências.

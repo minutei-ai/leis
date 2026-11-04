@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208201)<br>
-
 # DECRETO N° 67.755, DE 20 DE JUNHO DE 2023
 
 ### _Acrescenta dispositivos aos decretos que especifica e dá providências correlatas._

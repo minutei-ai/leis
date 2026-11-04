@@ -1,7 +1,3 @@
-1
-
-###DEC-095688-0-000-29-01-1988@@@
-
 DECRETO N° 95.688, DE 29 DE JANEIRO DE 1988
 
 Dispõe sobre a transferência da Secretaria Especial de Ação Comunitária - SEAC, da Secretaria de Planejamento e Coordenação da Presidência da República - SEPLAN/PR, para o Gabinete Civil da Presidência da República, e dá outras providências.

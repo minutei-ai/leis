@@ -1,5 +1,3 @@
-###DEC-047307-0-000-01-12-1959@@@
-
 Decreto nº 47.307, de 1 de dezembro de 1959.
 
 Autoriza despesas excedentes.

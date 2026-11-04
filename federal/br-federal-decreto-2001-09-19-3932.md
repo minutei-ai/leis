@@ -1,5 +1,3 @@
-###DEC-003932-0-000-19-09-2001@@@
-
 DECRETO Nº 3.932, DE 19 DE SETEMBRO DE 2001
 
 Estabelece os requisitos básicos para a regulamentação da Gratificação de Incentivo à Docência.

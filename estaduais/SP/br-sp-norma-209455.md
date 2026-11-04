@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209455)<br>
-
 # DECRETO N° 68.525, DE 16 DE MAIO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Companhia do Metropolitano de São Paulo - METRÔ, os imóveis necessários à implantação de estação e ventilação/saída de emergência da Linha 2-Verde, no Município de São Paulo, e dá providências correlatas._

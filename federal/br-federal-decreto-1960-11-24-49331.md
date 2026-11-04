@@ -1,5 +1,3 @@
-###DEC-049331-0-000-24-11-1960@@@
-
 DECRETO Nº 49.331, DE 24 DE NOVEMBRO DE 1960.
 
 Regulamenta o abastecimento nacional de petróleo, de que trata o artigo 3º da Lei nº 2.004, de 3 de outubro de 1953, na que diz respeito a produção de óleos e de graxas lubrificantes, derivados de petróleo.
@@ -57,8 +55,6 @@ Brasília, 24 de novembro de 1960; 139º da Independência e 72º da República.
 JUSCELINO KUBITSCHEK
 
 Armando Ribeiro Falcão.
-
-###DEC-049331-0-000-24-11-1960@@@RET+++
 
 DECRETO Nº 49.331, DE 24 DE novembro DE 1960.
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-000989-0-000-22-11-1993@@@
-
 DECRETO N° 989, DE 22 DE NOVEMBRO DE 1993
 
 Aprova o Regulamento para o Conselho Superior de Economia e Finanças do Exército (R/8).

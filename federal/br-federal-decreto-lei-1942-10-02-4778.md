@@ -1,5 +1,3 @@
-###DEL-004778-0-000-02-10-1942@@@
-
 DECRETO-LEI N. 4.778 – DE 2 DE OUTUBRO DE 1942
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 10:000$0 para pagamento de gratificação por execução de trabalho técnico

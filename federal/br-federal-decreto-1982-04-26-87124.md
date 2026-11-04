@@ -1,5 +1,3 @@
-###DEC-087124-0-000-26-04-1982@@@
-
 Decreto nº 87.124, de 26 de abril de 1982
 
 Autoriza o INSTITUTO DE RADIODIFUSÃO EDUCATIVA DA BAHIA, vinculado à Secretaria da Educação e Cultura do Governo do Estado da Bahia, a instalar, na cidade de Salvador, Estado da Bahia, uma estação de radiodifusão de sons e imagens (televisão), mediante convênio a ser firmado com o Ministério das Comunicações.

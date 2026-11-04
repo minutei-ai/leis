@@ -1,5 +1,3 @@
-###DEC-059545-0-000-11-11-1966@@@
-
 DECRETO nº 59.545, de 11 de novembro de 1966.
 
 Transfere da Companhia de Eletrificação Centro-Norte do Ceará para a Campanha de Eletrificação Rural do Nordeste a concessão para distribuir energia elétrica.

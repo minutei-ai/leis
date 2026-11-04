@@ -1,5 +1,3 @@
-###DEL-004817-0-000-08-10-1942@@@
-
 DECRETO-LEI N. 4.817 – DE 8 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito suplementar de 75:000$0. à verba que especifica

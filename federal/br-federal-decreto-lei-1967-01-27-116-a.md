@@ -1,5 +1,3 @@
-###DEL-000116-A-000-27-01-1967@@@
-
 decreto-lei nº 116-A, DE 27 DE JANEIRO DE 1967
 
 Altera alíquotas do Impôsto sôbre Produtos Industrializados.

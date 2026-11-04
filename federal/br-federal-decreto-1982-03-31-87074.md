@@ -1,5 +1,3 @@
-###DEC-087074-0-000-31-03-1982@@@
-
 Decreto nº 87.074, de 31 de março de 1982
 
 Altera o Regulamento dos Serviços Especiais de Repetição e de Retransmissão de Televisão, aprovado pelo Decreto nº 81.600, de 25 de abril de 1978.

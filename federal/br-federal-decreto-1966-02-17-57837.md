@@ -1,5 +1,3 @@
-###DEC-057837-0-000-17-02-1966@@@
-
 Decreto nº 57.837, de 17 de Fevereiro de 1966.
 
 Retifica os Decretos ns. 54.015, de 13 de julho de 1964, e 55.004, de 13 de novembro de 1964.

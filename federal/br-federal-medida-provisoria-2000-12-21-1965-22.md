@@ -1,5 +1,3 @@
-###MPV-001965-0-022-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.965-22, DE 21 DE dezembro DE 2000.
 
 Estabelece a nulidade das disposições contratuais que menciona e inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração.

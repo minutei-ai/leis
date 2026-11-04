@@ -1,7 +1,3 @@
-1
-
-###DEC-095862-0-000-22-03-1988@@@
-
 DECRETO N° 95.862, DE 22 DE MARÇO DE 1988
 
 Acrescenta parágrafo ao artigo 1° do Decreto n° 93.186, de 29 de agosto de 1986.

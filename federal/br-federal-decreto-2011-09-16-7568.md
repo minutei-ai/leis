@@ -1,5 +1,3 @@
-###DEC-007568-0-000-16-09-2011-PUB-01@@@
-
 DECRETO Nº\- 7.568, DE 16 DE SETEMBRO DE 2011
 
 Altera o Decreto nº 6.170, de 25 de julho de 2007, que dispõe sobre as normas relativas às transferências de recursos da União mediante convênios e contratos de repasse, o Decreto nº 3.100, de 30 de junho de 1999, que regulamenta a Lei nº 9.790, de 23 de março de 1999, e dá outras providências.

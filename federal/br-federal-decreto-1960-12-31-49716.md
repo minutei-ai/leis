@@ -1,5 +1,3 @@
-###DEC-049716-0-000-31-12-1960@@@
-
 DECRETO Nº 49.716, DE 31 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos da “Segurança Industrial” Companhia Nacional de Seguros.

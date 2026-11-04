@@ -1,5 +1,3 @@
-###DEC-066516-0-000-30-04-1970@@@
-
 DECRETO Nº 66.516, DE 30 de ABRIL DE 1970.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Ponta Grossa, com sede em Ponta Grossa, Estado do Paraná.

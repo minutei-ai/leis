@@ -1,5 +1,3 @@
-###DEC-047751-0-000-03-02-1960@@@
-
 DECRETO Nº 47.751, DE 3 DE FEVEREIRO DE 1960.
 
 Autoriza Sender Naifeld a comprar pedras preciosas.

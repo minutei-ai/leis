@@ -1,5 +1,3 @@
-###DEC-058878-0-000-20-07-1966@@@
-
 DECRETO nº 58.878, DE 20 DE JULHO DE 1966.
 
 A nova redação ao art. 1° do Decreto nº 58.485, de 24 de maio de 1966.

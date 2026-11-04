@@ -1,5 +1,3 @@
-###DEC-000217-0-000-18-09-1991@@@
-
 DECRETO Nº 217, DE 18 DE SETEMBRO DE 1991
 
 Dispõe sobre o regulamento básico da promoção funcional do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA e dá outras providências.

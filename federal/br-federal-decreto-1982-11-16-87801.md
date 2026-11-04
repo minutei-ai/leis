@@ -1,5 +1,3 @@
-###DEC-087801-0-000-16-11-1982@@@
-
 Decreto nº 87.801, de 16 de novembro de 1982
 
 Altera o Decreto nº 68.065, de 14 de janeiro de 1971, que regulamenta o Decreto-lei nº 869, de 12 de setembro de 1969, e dá outras providências.

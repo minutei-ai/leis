@@ -1,10 +1,8 @@
-###DEC-039855-0-000-24-08-1956@@@
+**DECRETO Nº 39.855, DE 24 DE AGÔSTO DE 1956.**
 
-<strong>DECRETO Nº 39.855, DE 24 DE AGÔSTO DE 1956.</strong>
+***Cria a Comissão de Estudos e Projetos Administrativos.***
 
-<em><strong>Cria a Comissão de Estudos e Projetos Administrativos.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal,
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal,
 
 CONSIDERANDO que o programa do atual Govêrno exige grande intensidade de trabalho e para tanto é necessário acelerar a capacidade executiva da administração federal.
 
@@ -18,13 +16,13 @@ CONSIDERANDO que a reforma de estrutura e funcionamento da administração feder
 
 CONSIDERANDO que a complexidade, multiplicidade e importância dos problemas afetos do Govêrno Federal reclamam instrumentos de coordenação e controle mais eficazes do que os existentes e tornam inadiável a institucionalização da Chefia Executiva,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica criada junto à Presidência da República, a Comissão de Estudos e Projetos Administrativos (CEPA).
+**Art**. 1º Fica criada junto à Presidência da República, a Comissão de Estudos e Projetos Administrativos (CEPA).
 
 Parágrafo Único. Os serviços dos membros da CEPA serão prestados gratuitamente e considerados de relevante interêsse ao país.
 
-<strong>Art</strong>. 2º A CEPA terá as seguintes atribuições:
+**Art**. 2º A CEPA terá as seguintes atribuições:
 
 a) coletar dados, informações e promover a realização de análises especiais destinadas a identificar os problemas de urgência no que tange à melhoria da estrutura e funcionamento dos órgãos integrantes do Poder Executivo Federal.
 
@@ -36,13 +34,13 @@ d) reexaminar os projetos de reforma administrativa, a fim de habilitar o Presid
 
 e) manter o Presidente da República a par do progresso de seus trabalhos e apresentar relatório final sôbre os mesmos.
 
-<strong>Art</strong>. 3º À CEPA será prestada decisiva cooperação pelos Ministérios, autarquias, sociedades de economia mista e outros órgãos do serviço público federal.
+**Art**. 3º À CEPA será prestada decisiva cooperação pelos Ministérios, autarquias, sociedades de economia mista e outros órgãos do serviço público federal.
 
-<strong>Art</strong>. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 24 de agôsto de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 

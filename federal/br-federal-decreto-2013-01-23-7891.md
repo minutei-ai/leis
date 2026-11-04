@@ -1,5 +1,3 @@
-###DEC-007891-0-000-23-01-2013-PUB-01@@@
-
 DECRETO Nº\- 7.891, DE 23 DE JANEIRO DE 2013
 
 Regulamenta a Lei n° 12.783, de 11 de janeiro de 2013, que dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, sobre a redução dos encargos setoriais e sobre a modicidade tarifária, e a Medida Provisória nº 605, de 23 de janeiro de 2013, que altera a Lei nº 10.438, de 26 de abril de 2002, e dá outras providências.

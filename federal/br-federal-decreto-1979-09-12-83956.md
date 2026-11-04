@@ -1,5 +1,3 @@
-###DEC-083956-0-000-12-09-1979@@@
-
 Decreto nº 83.956, de 12 de setembro de 1979.
 
 Fixa o fator de reajustamento salarial relativo a setembro de 1979.

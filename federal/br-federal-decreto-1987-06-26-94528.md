@@ -1,5 +1,3 @@
-###DEC-094528-0-000-26-06-1987@@@
-
 DECRETO N° 94.528, DE 26 DE JUNHO DE 1987.
 
 Autoriza a transferência direta da concessão outorgada à REDE RIOGRANDENSE DE EMISSORAS LTDA., para a REDE NORTE SUL DE COMUNICAÇÃO LTDA.

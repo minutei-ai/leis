@@ -1,7 +1,3 @@
-1
-
-###DEC-001129-0-000-03-05-1994@@@
-
 DECRETO N° 1.129, DE 3 DE MAIO DE 1994
 
 Dispõe sobre a execução do Vigésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica n° 14, entre Brasil e Argentina, de 18 de novembro de 1 993.

@@ -1,5 +1,3 @@
-###DEC-007825-0-000-11-10-2012-PUB-01@@@
-
 DECRETO Nº  7.825, DE 11 DE OUTUBRO DE 2012
 
 Altera o Decreto nº 7.499, de 16 de junho de 2011, que regulamenta dispositivos da Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida.

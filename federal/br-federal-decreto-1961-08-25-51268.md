@@ -1,5 +1,3 @@
-###DEC-051268-0-000-25-08-1961@@@
-
 decreto nº 51.268, de 25 de agôsto de 1961.
 
 Outorga à Companhia Energia Elétrica da Bahia concessão para distribuir energia elétrica na sede do Município de São Félix, Estado da Bahia.

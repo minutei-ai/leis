@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6292c7dc-cd3c-4059-8a31-9477f9e69f7d/texto#nowhere)
 
-###DEL-000878-0-000-17-09-1969@@@
-
 DECRETO-LEI Nº 878, DE 17 DE SETEMBRO DE 1969
 
 Altera a redação do artigo 5º e seus parágrafos do Decreto-lei nº 5.697, de 22 de julho de 1943.

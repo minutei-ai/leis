@@ -1,5 +1,3 @@
-###DEC-070511-0-000-12-05-1972@@@
-
 DECRETO Nº 70.511, DE 12 DE MAIO DE 1972.
 
 Concede à Mineração Santa Mônica Ltda, o direito de lavrar minério de ferro no município de São Gonçalo do Rio Abaixo, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-004617-0-000-25-08-1942@@@
-
 DECRETO-LEI N. 4.617 – DE 25 DE AGOSTO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de 5:666$7, para atender a pagamento de ajudas de custo

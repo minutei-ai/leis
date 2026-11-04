@@ -1,5 +1,3 @@
-###DEC-005264-0-000-05-11-2004@@@
-
 DECRETO Nº 5.264 DE 5 DE NOVEMBRO DE 2004
 
 Institui o Sistema Brasileiro de Museus e dá outras providências.

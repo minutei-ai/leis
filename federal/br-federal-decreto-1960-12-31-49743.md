@@ -1,5 +1,3 @@
-###DEC-049743-0-000-31-12-1960@@@
-
 DECRETO Nº 49.743, DE 31 DE dezembro DE 1960.
 
 Autoriza a Emprêsa Hidro Elétrica Lutzow S.A. a constituir hipoteca a favor da Companhia Vale do Rio Doce S. A.

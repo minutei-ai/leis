@@ -1,5 +1,3 @@
-###DEC-074489-0-000-02-09-1974@@@
-
 DECRETO Nº 74.489, DE 2 DE SETEMBRO DE 1974.
 
 Altera o Regulamento da Diretoria de Serviço Militar, do Departamento Geral do Pessoal do Ministério do Exército, e dá outras providências.

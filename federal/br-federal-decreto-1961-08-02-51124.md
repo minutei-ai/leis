@@ -1,5 +1,3 @@
-###DEC-051124-0-000-02-08-1961@@@
-
 Decreto nº 51.124, de 2 de agôsto de 1961.
 
 Autoriza estrangeiros a adquirir o domínio pleno de terreno que menciona, situado no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-052349-0-000-12-08-1963@@@
-
 DECRETO Nº 52.349, DE 12 DE AGÔSTO DE 1963.
 
 Dispõe sôbre a organização do Gabinete do Ministro do Trabalho e Previdência Social.

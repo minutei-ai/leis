@@ -1,5 +1,3 @@
-###DEC-082261-0-000-13-09-1978@@@
-
 Decreto nº 82.261, de 13 de setembro de 1978.
 
 Concede à Mineração Satélite Ltda. o direito de lavrar fluorita no Município de Pedras Grandes, Estado de Santa Catarina.

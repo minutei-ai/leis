@@ -1,5 +1,3 @@
-###DEC-053972-0-000-19-06-1964@@@
-
 decreto nº 53.972, de 19 de junho de 1964.
 
 Autoriza o Ministério da Fazenda a dar garantia do Tesouro Nacional à operação de crédito que menciona.
@@ -17,8 +15,6 @@ Brasília, 17 de junho de 1964; 143º da Independência e 76º da República.
 h. castello branco
 
 Octávio Gouveia de Bulhões
-
-###DEC-053972-0-000-19-06-1964@@@RET01+++
 
 DECRETO Nº 53.972, DE 19 DE JUNHO DE 1964.
 

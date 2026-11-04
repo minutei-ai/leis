@@ -1,5 +1,3 @@
-###DEC-067269-0-000-24-09-1970@@@
-
 DECRETO Nº 67.269, DE 24 DE SETEMBRO de 1970.
 
 Dispõe sôbre a classificação dos cargos de Revisor dos Órgãos da Administração Federal Direta e das Autarquias e dá outras providências.

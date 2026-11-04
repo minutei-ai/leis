@@ -26,11 +26,14 @@ Art. 2º. Este Decreto entrará em vigor na data de sua publicação, revogando 
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 21 de março de 2023.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-EINSTEIN ALMEIDA FERREIRA PANIANO<br>
+EINSTEIN ALMEIDA FERREIRA PANIANO
+
 Presidente do APARECIDAPREV

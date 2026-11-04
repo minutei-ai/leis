@@ -1,5 +1,3 @@
-###DEC-061518-0-000-12-10-1967@@@
-
 decreto nº 61.518, de 12 de outubro de 1967.
 
 Declara de utilidade pública o “Centro de Assistência Social São Vicente de Paulo”, com sede em São Paulo, Estado de São Paulo.

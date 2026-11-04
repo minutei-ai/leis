@@ -1,7 +1,3 @@
-1
-
-###MPV-001194-0-000-24-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.194, DE 24 DE NOVEMBRO DE 1995.
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

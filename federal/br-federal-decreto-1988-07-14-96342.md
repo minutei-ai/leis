@@ -1,5 +1,3 @@
-###DEC-096342-0-000-14-07-1988@@@
-
 DECRETO N° 96.342, DE 14 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “Fazenda Boa Vista”, classificado como “latifúndio por exploração”, situado no Município de Abadiânia, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

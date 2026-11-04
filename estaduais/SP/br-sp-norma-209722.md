@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209722)<br>
-
 # LEI N° 17.987, DE 15 DE JULHO DE 2024
 
 ## (Projeto de lei n° 1471/2023, da Deputada Maria Lúcia Amary - PSDB)

@@ -1,5 +1,3 @@
-###DEL-001143-0-000-30-12-1970@@@
-
 # DECRETO-LEI Nº 1.143, DE 30 DE DEZEMBRO DE 1970
 
 Dispõe sôbre a marinha mercante e a construção naval.

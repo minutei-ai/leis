@@ -1,5 +1,3 @@
-###DEC-081270-0-000-27-01-1978@@@
-
 Decreto nº 81.270, de 27 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Desenho Industrial da Universidade Católica do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

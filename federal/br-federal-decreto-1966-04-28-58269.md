@@ -1,5 +1,3 @@
-###DEC-058269-0-000-28-04-1966@@@
-
 DECRETO Nº 58.269, DE 28 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro Vicente Antônio de Oliveira a pesquisar feldspato, quartzo e caulim no município de Socorro, Estado de São Paulo.

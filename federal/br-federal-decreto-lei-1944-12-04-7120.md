@@ -1,5 +1,3 @@
-###DEL-007120-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.120 – DE 4 DE DEZEMBRO DE 1944
 
 Cria função gratificada no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

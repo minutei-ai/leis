@@ -1,5 +1,3 @@
-###DEC-081611-0-000-27-04-1978@@@
-
 Decreto nº 81.611, de 27 de abril de 1978.
 
 Concede reconhecimento ao Curso de Estatística da Universidade do Estado do Rio de Janeiro.

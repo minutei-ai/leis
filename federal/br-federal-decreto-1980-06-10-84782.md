@@ -1,5 +1,3 @@
-###DEC-084782-0-000-11-06-1980@@@
-
 Decreto nº 84.782, de 10 de junho de 1980.
 
 Concede dispensa de ponto aos servidores civis da União que participarem das operações da Fundação Projeto Rondon e dá outras providências.

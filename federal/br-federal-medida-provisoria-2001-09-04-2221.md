@@ -1,5 +1,3 @@
-###MPV-002221-0-000-04-09-2001@@@
-
 MEDIDA PROVISÓRIA No 2.221, DE 4 DE SETEMBRO DE 2001.
 
  Altera a Lei nº 4.591, de 16 de dezembro de 1964, instituindo o patrimônio de afetação nas incorporações imobiliárias, e dá outras providências.

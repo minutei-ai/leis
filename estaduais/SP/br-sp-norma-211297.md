@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211297)<br>
-
 # DECRETO N° 69.776, DE 11 DE AGOSTO DE 2025
 
 ### _Institui a Medalha "Mérito das Ações Especiais de Polícia"._

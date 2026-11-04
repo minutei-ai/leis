@@ -1,5 +1,3 @@
-###DEC-093032-0-000-27-07-1986@@@
-
 DECRETO Nº 93.032, DE 27 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Nossa Senhora do Rosário - Ex-Corte Grande.", situado no Município de Prado, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, lixada pelo Decreto nº 92.689, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-069814-0-000-21-12-1971@@@
-
 decreto nº 69.814 - de 21 DE DEZEMBRO de 1971
 
 Declara de utilidade pública a Sociedade de Assistência à Velhice Desamparada, com sede em Vitória, Estado do Espírito Santo.

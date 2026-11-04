@@ -1,5 +1,3 @@
-###DEC-071097-0-000-14-09-1972@@@
-
 DECRETO Nº 71.097, DE 14 DE SETEMBRO DE 1972.
 
 Altera a composição do Conselho Monetário Nacional e dá outras providências.

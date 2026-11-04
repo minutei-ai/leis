@@ -1,5 +1,3 @@
-###DEC-077196-0-000-19-02-1976@@@
-
 DECRETO Nº 77.196, DE 19 DE FEVEREIRO DE 1976.
 
 Autoriza o registro em nome da União Federal, do imóvel que menciona, situado na Cidade de Porto Nacional, Estado de Goiás.

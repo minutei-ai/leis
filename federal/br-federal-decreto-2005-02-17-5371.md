@@ -1,5 +1,3 @@
-###DEC-005371-0-000-17-02-2005@@@
-
 DECRETO Nº 5.371 DE 17 DE FEVEREIRO DE 2005
 
 Aprova o Regulamento do Serviço de Retransmissão de Televisão e do Serviço de Repetição de Televisão, ancilares ao Serviço de Radiodifusão de Sons e Imagens.

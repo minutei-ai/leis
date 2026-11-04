@@ -1,5 +1,3 @@
-###DEL-001600-0-000-03-01-1978@@@
-
 # Decreto-lei nº 1.600, de 3 de janeiro de 1978
 
 Altera, para o exercício de 1978, a distribuição do produto da arrecadação dos impostos que menciona.

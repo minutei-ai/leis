@@ -1,6 +1,6 @@
 > **LEI Nº 3.923, DE 01 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 1.236, de 12 de agosto de 1997, que dispõe sobre a remuneração do pessoal da Polícia Militar do Estado do Acre e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+Altera dispositivos da Lei nº 1.236, de 12 de agosto de 1997, que dispõe sobre a remuneração do pessoal da Polícia Militar do Estado do Acre e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -46,6 +46,32 @@ Governador do Estado do Acre
 
 **Auxílio-Aptidão Militar**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>CÍRCULO</span></strong></span></p></td><td><p><span><strong><span>VALOR</span></strong></span></p></td></tr><tr><td><p><span><span>Oficiais Superiores</span></span></p></td><td><p><span><span>R$ 2.000,00</span></span></p></td></tr><tr><td><p><span><span>Oficiais Intermediários</span></span></p></td><td><p><span><span>R$ 1.750,00</span></span></p></td></tr><tr><td><p><span><span>Oficiais Subalternos</span></span></p></td><td><p><span><span>R$ 1.600,00</span></span></p></td></tr><tr><td><p><span><span>Suboficial/Subtenente</span></span></p></td><td><p><span><span>R$ 1.400,00</span></span></p></td></tr><tr><td><p><span><span>Sargentos</span></span></p></td><td><p><span><span>R$ 1.000,00</span></span></p></td></tr><tr><td><p><span><span>CB e SD</span></span></p></td><td><p><span><span>R$ 600,00</span></span></p></td></tr></tbody></table>
+**CÍRCULO**
+
+**VALOR**
+
+Oficiais Superiores
+
+R$ 2.000,00
+
+Oficiais Intermediários
+
+R$ 1.750,00
+
+Oficiais Subalternos
+
+R$ 1.600,00
+
+Suboficial/Subtenente
+
+R$ 1.400,00
+
+Sargentos
+
+R$ 1.000,00
+
+CB e SD
+
+R$ 600,00
 
 “

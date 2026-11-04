@@ -1,5 +1,3 @@
-###DEC-090379-0-000-29-10-1984@@@
-
 decreto nº 90.379, de 29 de outubro de 1984
 
 Dispõe sobre a implantação de área de proteção ambiental no Município de Acaraú, no Estado do Ceará, e dá outras providências.

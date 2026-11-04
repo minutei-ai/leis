@@ -1,5 +1,3 @@
-###DEC-087105-0-000-19-04-1982@@@
-
 DECRETO Nº 87.105, DE 19 DE ABRIL DE 1982
 
 Revoga o Decreto nº 8.616, de 28 de janeiro de 1942, que aprova as especificações e tabelas para a classificação e fiscalização da exportação do guaraná, visando a sua padronização.

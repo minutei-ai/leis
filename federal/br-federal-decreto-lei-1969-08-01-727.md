@@ -1,7 +1,3 @@
-1
-
-###DEL-000727-0-000-01-08-1969@@@
-
 (\*)DECRETO-LEI Nº 727, DE 1º DE AGôSTO DE 1969
 
 Estima a Receita e fixa a Despesa da União para o exercício financeiro de 1970
@@ -14,19 +10,347 @@ Art. 1º O Orçamento Geral da União, para o Exercício Financeiro de 1970, com
 
 Art. 2º A Receita será realizada mediante a arrecadação dos tributos, rendas e outras Receitas Correntes e de Capital, na forma da legislação em vigor, relacionada no Anexo I, com o seguinte desdobramento:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. RECEITA DO TESOURO</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.1 - RECEITAS CORRENTES ........................</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16.829.879.490,00</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Receita Tributária ..............................................</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16.151.800.100,00</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Receita Patrimonial ...........................................</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>43.035.000,00</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Receita Industrial ..............................................</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>18.044.090,00</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Transferências Correntes ..................................</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>300,00</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Receitas Diversas .............................................</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>617.000.000,00</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.2 - RECEITAS DE CAPITAL ..........................</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>821.104.510,00</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Operações de Crédito .......................................</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>820.000.000,00</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Outras Receitas de Capital ...............................</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.104.510,00</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL .............................................................</span></p></td><td style="width:88.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:91.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">17.650.984.000,00</span></p></td></tr></tbody></table>
+1. RECEITA DO TESOURO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:285.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>2. RECEITA DOS ÓRGÃOS DA ADMINISTRAÇÃO INDIRETA</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(exclusive transferências do Tesouro)</span></p></td><td style="width:119.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:285.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.1 - RECEITAS CORRENTES .................................................</span></p></td><td style="width:119.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.666.854.300,00</span></p></td></tr><tr><td style="width:285.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.2 - RECEITAS DE CAPITAL ..................................................</span></p></td><td style="width:119.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>385.529.700,00</span></p></td></tr><tr><td style="width:285.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ....................................................................................</span></p></td><td style="width:119.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">2.052.384.000,00</span></p></td></tr><tr><td style="width:285.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL GERAL ........................................................................</span></p></td><td style="width:119.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">19.703.368.000,00</span></p></td></tr></tbody></table>
+NCr$
+
+NCr$
+
+1.1 - RECEITAS CORRENTES ........................
+
+16.829.879.490,00
+
+Receita Tributária ..............................................
+
+16.151.800.100,00
+
+Receita Patrimonial ...........................................
+
+43.035.000,00
+
+Receita Industrial ..............................................
+
+18.044.090,00
+
+Transferências Correntes ..................................
+
+300,00
+
+Receitas Diversas .............................................
+
+617.000.000,00
+
+1.2 - RECEITAS DE CAPITAL ..........................
+
+821.104.510,00
+
+Operações de Crédito .......................................
+
+820.000.000,00
+
+Outras Receitas de Capital ...............................
+
+1.104.510,00
+
+TOTAL .............................................................
+
+17.650.984.000,00
+
+2. RECEITA DOS ÓRGÃOS DA ADMINISTRAÇÃO INDIRETA
+
+(exclusive transferências do Tesouro)
+
+2.1 - RECEITAS CORRENTES .................................................
+
+1.666.854.300,00
+
+2.2 - RECEITAS DE CAPITAL ..................................................
+
+385.529.700,00
+
+TOTAL ....................................................................................
+
+2.052.384.000,00
+
+TOTAL GERAL ........................................................................
+
+19.703.368.000,00
 
 Art. 3º A Despesa será realizada segundo a discriminação do Anexo II, que apresenta a sua composição por Programas e por Órgãos, conforme o seguinte desdobramento sintético:
 
 A - DESPESAS POR PROGRAMAS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:171.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. Programação à conta de Recursos Ordinários .........................................</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12.722.821.400,00</span></p></td></tr><tr><td style="width:171.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.1. Distribuída por setores .................</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.542.941.400,00</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:171.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.2. Fundo de Reserva Orçamentária ...</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.243.000.000,00</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:171.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.3. Fundo de Áreas Estratégicas .......</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>241.880.000,00</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:171.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.4. Dívida Pública e outros encargos ..</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">695.000.000,00</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:171.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. Programação à conta de Recursos Vinculados ........................................</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.928.162.600,00</span></p></td></tr><tr><td style="width:171.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.1. Execução a cargo do Govêrno Federal .............................................</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.195.016.800,00</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:171.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.2. Execução a cargo dos Estados, Distrito Federal e dos Municípios ........</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">2.733.145.800,00</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:171.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3. Programação à conta de Recursos Próprios dos Órgãos da administração indireta ........................</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">2.052.384.000,00</span></p></td></tr><tr><td style="width:171.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total da despesa por programas .........</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:111pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>19.703.368.000,00</span></p></td></tr></tbody></table>
+1. Programação à conta de Recursos Ordinários .........................................
+
+12.722.821.400,00
+
+1.1. Distribuída por setores .................
+
+10.542.941.400,00
+
+1.2. Fundo de Reserva Orçamentária ...
+
+1.243.000.000,00
+
+1.3. Fundo de Áreas Estratégicas .......
+
+241.880.000,00
+
+1.4. Dívida Pública e outros encargos ..
+
+695.000.000,00
+
+2. Programação à conta de Recursos Vinculados ........................................
+
+4.928.162.600,00
+
+2.1. Execução a cargo do Govêrno Federal .............................................
+
+2.195.016.800,00
+
+2.2. Execução a cargo dos Estados, Distrito Federal e dos Municípios ........
+
+2.733.145.800,00
+
+3. Programação à conta de Recursos Próprios dos Órgãos da administração indireta ........................
+
+2.052.384.000,00
+
+Total da despesa por programas .........
+
+19.703.368.000,00
 
 B - DESPESA POR ÕRGÃOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. À conta de Recursos Ordinários ............................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">12.722.821.400,00</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.1. Poder Legislativo ............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>182.414.100,00</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Câmara dos Deputados .........</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>94.129.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Senado Federal ....................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>68.287.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tribunal de Contas da União ...</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>19.998.100,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.2. Poder Judiciário ..............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>203.807.700,00</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Supremo Tribunal Federal ......</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12.662.300,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tribunal Federal de Recursos .</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12.654.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Justiça Militar .......................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14.848.400,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Justiça Eleitoral ....................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>58.930.600,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Justiça do Trabalho ...............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>78.926.600,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Justiça Federal de 1ª Instância</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.118.800,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Justiça do Distrito Federal e dos Territórios .......................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.667.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.3. Poder Executivo .............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12.336.599.600,00</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.3.1 Discriminadas por Órgãos:</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Presidência da República.......</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>103.213.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Aeronáutica ......</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>712.152.600,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Agricultura ........</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>330.000.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério das Comunicações .</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>292.691.100,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Educação e Cultura (inclusive recursos do Salário Educação ..................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.293.189.400,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério do Exército ............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.201.989.800,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Fazenda ...........</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>425.542.500,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Indústria e do Comércio .............................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>31.481.500,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério do Interior ..............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>557.860.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Justiça ..............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>119.341.700,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Marinha ............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>644.488.800,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério das Minas e Energia</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>151.900.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério do Planejamento e Coordenação Geral (inclusive Fundação IBGE) ...................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>110.062.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério das Relações Exteriores ............................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>192.200.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Saúde ..............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>316.709.100,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério do Trabalho e Previdência Social .................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>105.099.500,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério dos Transportes .....</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">1.094.400.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.3.2. Sob Coordenação Central:</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fundo de Reserva Orçamentária ........................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.243.000.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fundo de Áreas Estratégicas .</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>241.880.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fundo Nacional de Desenvolvimento Científico e Tecnológico ..........................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>60.000.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fundo Nacional de Desenvolvimento da Educação (previsão) .............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>74.200.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Consolidação da Capital Federal .................................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>45.700.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VIII Recenseamento Geral do Brasil</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100.000.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.3.3. Inativos e Pensionistas da administração direta, civis militares ...............................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.529.711.600,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.3.4. Banco Nacional do Desenvolvimento Econômico ..</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>300.000.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.3.5. Dívida Pública .............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>695.000.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.3.6. Transferências para o Distrito Federal, Estados da Guanabara e Acre .................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">364.787.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. A conta de Recursos Vinculados ...........................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.928.162.600,00</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.1. Poder Executivo:</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Aeronáutica</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>111.818.800,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Agricultura</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9.918.600,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério das Comunicações</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.800.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério das Minas e Energia (Gabinete) ................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.721.600,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Departamento Nacional de Águas e Energia Elétrica .......</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>166.400.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Comissão do Plano do Carvão Nacional ....................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>600.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Departamento Nacional da Produção Mineral ..................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12.682.400,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Conselho Nacional do Petróleo</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>343.296.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Departamento Nacional de Estradas de Rodagem ..........</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.311.915.400,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rêde Ferroviária Federal Sociedade Anônima ..............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>228.864.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Transferências para os Estados, Distrito Federal e Municípios (participação em impostos da União) ...............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.733.145.800,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total da Despesa com Recursos do Tesouro ............</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>17.650.984.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3. Despesas à conta de Recursos Próprios dos órgãos da administração indireta ..................................</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">2.052.384.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total da Despesa por Órgãos</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">19.703.368.000,00</span></p></td><td style="width:134.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+1. À conta de Recursos Ordinários ............................
+
+12.722.821.400,00
+
+1.1. Poder Legislativo ............
+
+182.414.100,00
+
+Câmara dos Deputados .........
+
+94.129.000,00
+
+Senado Federal ....................
+
+68.287.000,00
+
+Tribunal de Contas da União ...
+
+19.998.100,00
+
+1.2. Poder Judiciário ..............
+
+203.807.700,00
+
+Supremo Tribunal Federal ......
+
+12.662.300,00
+
+Tribunal Federal de Recursos .
+
+12.654.000,00
+
+Justiça Militar .......................
+
+14.848.400,00
+
+Justiça Eleitoral ....................
+
+58.930.600,00
+
+Justiça do Trabalho ...............
+
+78.926.600,00
+
+Justiça Federal de 1ª Instância
+
+15.118.800,00
+
+Justiça do Distrito Federal e dos Territórios .......................
+
+10.667.000,00
+
+1.3. Poder Executivo .............
+
+12.336.599.600,00
+
+1.3.1 Discriminadas por Órgãos:
+
+Presidência da República.......
+
+103.213.000,00
+
+Ministério da Aeronáutica ......
+
+712.152.600,00
+
+Ministério da Agricultura ........
+
+330.000.000,00
+
+Ministério das Comunicações .
+
+292.691.100,00
+
+Ministério da Educação e Cultura (inclusive recursos do Salário Educação ..................
+
+1.293.189.400,00
+
+Ministério do Exército ............
+
+1.201.989.800,00
+
+Ministério da Fazenda ...........
+
+425.542.500,00
+
+Ministério da Indústria e do Comércio .............................
+
+31.481.500,00
+
+Ministério do Interior ..............
+
+557.860.000,00
+
+Ministério da Justiça ..............
+
+119.341.700,00
+
+Ministério da Marinha ............
+
+644.488.800,00
+
+Ministério das Minas e Energia
+
+151.900.000,00
+
+Ministério do Planejamento e Coordenação Geral (inclusive Fundação IBGE) ...................
+
+110.062.000,00
+
+Ministério das Relações Exteriores ............................
+
+192.200.000,00
+
+Ministério da Saúde ..............
+
+316.709.100,00
+
+Ministério do Trabalho e Previdência Social .................
+
+105.099.500,00
+
+Ministério dos Transportes .....
+
+1.094.400.000,00
+
+1.3.2. Sob Coordenação Central:
+
+Fundo de Reserva Orçamentária ........................
+
+1.243.000.000,00
+
+Fundo de Áreas Estratégicas .
+
+241.880.000,00
+
+Fundo Nacional de Desenvolvimento Científico e Tecnológico ..........................
+
+60.000.000,00
+
+Fundo Nacional de Desenvolvimento da Educação (previsão) .............
+
+74.200.000,00
+
+Consolidação da Capital Federal .................................
+
+45.700.000,00
+
+VIII Recenseamento Geral do Brasil
+
+100.000.000,00
+
+1.3.3. Inativos e Pensionistas da administração direta, civis militares ...............................
+
+1.529.711.600,00
+
+1.3.4. Banco Nacional do Desenvolvimento Econômico ..
+
+300.000.000,00
+
+1.3.5. Dívida Pública .............
+
+695.000.000,00
+
+1.3.6. Transferências para o Distrito Federal, Estados da Guanabara e Acre .................
+
+364.787.000,00
+
+2. A conta de Recursos Vinculados ...........................
+
+4.928.162.600,00
+
+2.1. Poder Executivo:
+
+Ministério da Aeronáutica
+
+111.818.800,00
+
+Ministério da Agricultura
+
+9.918.600,00
+
+Ministério das Comunicações
+
+3.800.000,00
+
+Ministério das Minas e Energia (Gabinete) ................
+
+5.721.600,00
+
+Departamento Nacional de Águas e Energia Elétrica .......
+
+166.400.000,00
+
+Comissão do Plano do Carvão Nacional ....................
+
+600.000,00
+
+Departamento Nacional da Produção Mineral ..................
+
+12.682.400,00
+
+Conselho Nacional do Petróleo
+
+343.296.000,00
+
+Departamento Nacional de Estradas de Rodagem ..........
+
+1.311.915.400,00
+
+Rêde Ferroviária Federal Sociedade Anônima ..............
+
+228.864.000,00
+
+Transferências para os Estados, Distrito Federal e Municípios (participação em impostos da União) ...............
+
+2.733.145.800,00
+
+Total da Despesa com Recursos do Tesouro ............
+
+17.650.984.000,00
+
+3. Despesas à conta de Recursos Próprios dos órgãos da administração indireta ..................................
+
+2.052.384.000,00
+
+Total da Despesa por Órgãos
+
+19.703.368.000,00
 
 Parágrafo único. A despesa dos Órgãos da Administração Indireta realizada com recursos por êles diretamente arrecadados, será discriminada em seus orçamentos próprios aprovados em conformidade com a legislação vigente.
 
@@ -87,8 +411,6 @@ Hélio Beltrão
 José Costa Cavalcanti
 
 João Aristides Wiltgen
-
-###DEL-000727-0-000-01-08-1969@@@RET01+++
 
 Decreto-lei nº 727, de 1 de agôsto de 1969
 

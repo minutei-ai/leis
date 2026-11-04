@@ -1,5 +1,3 @@
-###DEC-091961-0-000-19-11-1985@@@
-
 Decreto nº 91.961, de 19 de novembro de 1985
 
 Dispõe sobre a diretoria do Banco Central do Brasil - BACEN.

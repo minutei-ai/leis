@@ -1,5 +1,3 @@
-###DEC-079056-0-000-30-12-1976@@@
-
 DECRETO Nº 79.056, DE 30 DE DEZEMBRO DE 1976.
 
 Dispõe sobre a organização do Ministério da Saúde e dá outras providências.

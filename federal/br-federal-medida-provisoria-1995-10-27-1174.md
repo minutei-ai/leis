@@ -1,7 +1,3 @@
-1
-
-###MPV-001174-0-000-27-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.174, DE 27 DE OUTUBRO DE 1995.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

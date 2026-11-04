@@ -1,5 +1,3 @@
-###DEC-071466-0-000-01-12-1972@@@
-
 DECRETO Nº 71.466 - DE 1º DE DEZEMBRO DE 1972
 
 Confisca bens dos senhores Mauro Villar Furtado e Samuel da Rocha Monteiro, domiciliados o primeiro no Estado do Pará e o segundo no Estado da Guanabara, para a reparação de danos causados ao patrimônio público, e dá outras providências.

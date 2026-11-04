@@ -1,5 +1,3 @@
-###DEC-080461-0-000-03-10-1977@@@
-
 DECRETO Nº 80.461, DE 3 DE OUTUBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra e benfeitorias necessárias à implantação da subestação de São Carlos II, da Centrais Elétricas de São Paulo S. A. - CESP, no Município de São Carlos, Estado de São Paulo

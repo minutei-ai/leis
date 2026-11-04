@@ -1,5 +1,3 @@
-###DEC-061118-0-000-31-07-1967@@@
-
 Decreto nº 61.118, de 31 de julho de 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado em Pôrto Alegre, no Estado do Rio Grande do Sul.

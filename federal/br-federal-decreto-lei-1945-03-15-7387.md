@@ -1,5 +1,3 @@
-###DEL-007387-0-000-15-03-1945@@@
-
 DECRETO-LEI N. 7.387 – DE 15 DE MARÇO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a vender, em concorrência pública, o imóvel que menciona

@@ -1,5 +1,3 @@
-###DEC-090745-0-000-20-12-1984@@@
-
 DECRETO Nº 90.745, DE 20 DE DEZEMBRO DE 1984
 
 Outorga ao Serviço Autônomo de Água e Esgoto de Sorocaba concessão para captação adicional de água do rio Sorocaba, para abastecimento público, no Estado de São Paulo.

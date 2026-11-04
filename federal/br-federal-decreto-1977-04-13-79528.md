@@ -1,5 +1,3 @@
-###DEC-079528-0-000-13-04-1977@@@
-
 DECRETO Nº 79.528, DE 13 DE ABRIL DE 1977.
 
 Altera a redação do artigo 19 do Estatuto da Empresa de Processamento de Dados da Previdência Social - DATAPREV aprovado pelo Decreto nº 75.463, de 10 de março de 1975.

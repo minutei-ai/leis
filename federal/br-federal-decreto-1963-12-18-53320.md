@@ -1,5 +1,3 @@
-###DEC-053320-0-000-18-12-1963@@@
-
 DECRETO Nº 53.320, DE 18 DE DEZEMBRO DE 1963.
 
 Exclui do Plano de Contenção de Despesas verba que específica, do patronato de Menores.

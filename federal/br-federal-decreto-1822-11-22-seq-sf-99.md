@@ -1,5 +1,3 @@
-###DEC-000000-0-099-22-11-1822@@@
-
 DECRETO - DE 22 DE NOVEMBRO DE 1822
 
 Crêa um Ajudante do Auditor das Tropas na Côrte e Província do Rio de Janeiro.

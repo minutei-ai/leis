@@ -1,5 +1,3 @@
-###MPV-000038-0-000-14-05-2002@@@
-
 MEDIDA PROVISÓRIA Nº 38, DE 14 DE MAIO DE 2002
 
 Dispõe sobre o parcelamento de débitos tributários de Estados, do Distrito Federal, de Municípios e de empresas públicas e privadas em processo de falência ou de liquidação, institui regime especial de parcelamento da contribuição para o Programa de Formação do Patrimônio do Servidor Público - PASEP, restabelece prazos para pagamento de débitos tributários, inclusive do imposto de renda incidente sobre lucro inflacionário, concede benefícios fiscais à instalação, ampliação ou modernização de unidades industriais e tratamento tributário isonômico entre produção nacional e a importação de papel-jornal, altera a legislação aduaneira e a relativa à cobrança de direitos antidumping e compensatórios, e dá outras providências.

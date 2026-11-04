@@ -1,5 +1,3 @@
-###DEC-083388-0-000-02-05-1979@@@
-
 DECRETO Nº 83.388, DE 02 DE MAIO DE 1979.
 
 Concede reconhecimento à habilitação em Educação Moral e Cívica do curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras, em Santa Cruz do Sul, Estado do Rio Grande do Sul.

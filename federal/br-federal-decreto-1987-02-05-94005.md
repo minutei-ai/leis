@@ -1,5 +1,3 @@
-###DEC-094005-0-000-05-02-1987@@@
-
 DECRETO Nº 94.005, DE 05 DE FEVEREIRO DE 1987
 
 Altera a redação do item II do artigo 12 do Decreto nº 89.253, de 28 de dezembro de 1983, alterado pelo Decreto nº 91.370, de 25 de junho de 1985, e dá outras providências.

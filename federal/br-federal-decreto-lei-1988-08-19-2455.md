@@ -1,7 +1,3 @@
-1
-
-###DEL-002455-0-000-19-08-1988@@@
-
 # DECRETO-LEI Nº 2.455, DE 19 DE AGOSTO DE 1988
 
 Autoriza a capitalização dos créditos da União, nas empresas que menciona, e dá outras providências.

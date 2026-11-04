@@ -1,5 +1,3 @@
-###DEL-006225-0-000-24-01-1944@@@
-
 DECRETO-LEI N. 6.225 – DE 24 DE JANEIRO DE 1944
 
 Institui os “Certificados de Equipamento” e os “Depósitos de Garantia”

@@ -1,5 +1,3 @@
-###DEC-064232-0-000-20-03-1969@@@
-
 DECRETO Nº 64.232, DE 20 DE MARÇO DE 1969.
 
 Autoriza o funcionamento da Escola de Engenharia.

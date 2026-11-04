@@ -1,5 +1,3 @@
-###DEC-050487-0-000-25-04-1961@@@
-
 Decreto nº 50.487, de 25 de abril de 1961.
 
 Declara luto oficial pelo falecimento do Senhor Antônio Augusto Borges de Medeiros e dispõe sôbre os seus funerais.

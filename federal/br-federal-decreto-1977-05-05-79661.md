@@ -1,5 +1,3 @@
-###DEC-079661-0-000-05-05-1977@@@
-
 Decreto nº 79.661, de 5 de maio de 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Iracema de Fortaleza S.A. para executar serviço de radiodifusão sonora em onda tropical, na Cidade de Fortaleza, Estado do Ceará.

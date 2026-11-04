@@ -1,5 +1,3 @@
-###MPV-002047-0-002-28-07-2000@@@
-
 MEDIDA PROVISÓRIA No 2.047-2, DE 28 DE JULHO DE 2000.
 
 Abre crédito extraordinário em favor da Presidência da República, do Ministério da Justiça, do Ministério do Esporte e Turismo e do Ministério da Defesa, no valor global de R$ 422.002.000,00, para os fins que especifica.

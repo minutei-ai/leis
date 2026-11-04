@@ -1,5 +1,3 @@
-###DEC-075280-0-000-23-01-1975@@@
-
 Decreto nº 75.280, de 23 de janeiro de 1975.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Céu Azul, Matelândia, Medianeira e São Miguel do Iguaçu, no Estado do Paraná, compreendidos na área prioritária de Reforma Agrária, de que trata o Decreto nº 69.411, de 22 de outubro de 1971.

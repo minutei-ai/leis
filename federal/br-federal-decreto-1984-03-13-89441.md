@@ -1,5 +1,3 @@
-###DEC-089441-0-000-13-03-1984@@@
-
 Decreto nº 89.441, de 13 de março de 1984.
 
 Dispõe sobre o limite do Capital Autorizado da COPESUL - Companhia Petroquímica do Sul.

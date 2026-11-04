@@ -1,5 +1,3 @@
-###DEC-045556-0-000-07-03-1959@@@
-
 DECRETO Nº 45.556, DE 7 DE MARÇO DE 1959.
 
 Concede o abono provisório ao pessoal ativo das emprêsa de navegação marítima, administradas pelo Govêrno Federal e dá outras providências.

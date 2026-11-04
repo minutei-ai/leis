@@ -1,5 +1,3 @@
-###DEC-088136-0-000-01-03-1983@@@
-
 DECRETO Nº 88.136, DE 01 DE MARÇO DE 1983
 
 Cria o Centro de Lançamento de Alcântara e dá outras providências.

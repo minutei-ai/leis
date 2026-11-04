@@ -1,5 +1,3 @@
-###DEC-070221-0-000-01-03-1972@@@
-
 DECRETO Nº 70.221, DE 1º DE MARÇO DE 1972.
 
 Autoriza a Caixa Geral de Depósitos a funcionar no País.

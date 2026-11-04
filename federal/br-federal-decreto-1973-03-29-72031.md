@@ -1,5 +1,3 @@
-###DEC-072031-0-000-29-03-1973@@@
-
 DECRETO Nº 72.031, DE 29 DE MARÇO DE 1973.
 
 Concede a Minérios Industriais do Sul S. A. o direito de lavrar caulim no Município de Treze de Maio, Estado de Santa Catarina.

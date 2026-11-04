@@ -1,5 +1,3 @@
-###DEC-066127-0-000-28-01-1970@@@
-
 DECRETO Nº 66.127 - DE 28 DE JANEIRO DE 1970
 
 Concede à Emprêsa Caisse Générale de Participations Fonciëres et Industrielles autorização para continuar a funcionar na República Federativa do Brasil.

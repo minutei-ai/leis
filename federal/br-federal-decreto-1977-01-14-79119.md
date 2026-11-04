@@ -1,5 +1,3 @@
-###DEC-079119-0-000-14-01-1977@@@
-
 DECRETO Nº 79.119, DE 14 DE JANEIRO DE 1977.
 
 Concede autorização à Companhia B.P. Petroleum Development Brazil Limited para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-091387-0-000-01-07-1985@@@
-
 DECRETO Nº 91.387, DE 01 DE JULHO DE 1985
 
 Autoriza a transferência direta da concessão outorgada a RÁDIO COROADO LTDA., para a FUNDAÇÃO FREI ROGÉRIO.

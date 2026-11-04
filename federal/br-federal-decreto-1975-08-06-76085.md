@@ -1,5 +1,3 @@
-###DEC-076085-0-000-06-08-1975@@@
-
 DECRETO Nº 76.085 - DE 6 DE AGOSTO DE 1975
 
 Dispõe sobre a Estrutura Básica do Ministério da fazenda e dá outras providências.

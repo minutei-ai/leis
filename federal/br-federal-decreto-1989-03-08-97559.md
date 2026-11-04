@@ -1,7 +1,3 @@
-1
-
-###DEC-097559-0-000-08-03-1989@@@
-
 # DECRETO N° 97.559, DE 8 DE MARÇO DE 1989
 
 Promulgação do Protocolo de Reforma da Carta da Organização dos Estados Americanos "Protocolo de Cartagena das Índias".

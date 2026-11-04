@@ -1,5 +1,3 @@
-###DEC-056953-0-000-01-10-1965@@@
-
 DECRETO Nº 56.953, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza a Mineração Catas Altas Limitada, a pesquisar minério de titânio no município de Itabira, Estado de Minas Gerais.

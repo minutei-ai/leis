@@ -1,5 +1,3 @@
-###DEC-064098-0-000-12-02-1969@@@
-
 Decreto nº 64.098, De 12 de Fevereiro de 1969.
 
 Concede à sociedade Agência EFE S. A. autorização para continuar a funcionar na República Federativa do Brasil.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e28ffc27-a576-4b55-b4d5-d8be1917f32b/texto#nowhere)
 
-###DEL-000896-0-000-26-09-1969@@@
-
 DECRETO-LEI Nº 896, DE 26 DE SETEMBRO DE 1969
 
 Autoriza o Poder Executivo a efetuar doação de terrenos do Departamento Nacional de Estradas de Rodagem.

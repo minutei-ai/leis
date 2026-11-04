@@ -1,5 +1,3 @@
-###DEC-060526-0-000-31-03-1967@@@
-
 decreto Nº 60.526, de 31 de março de 1967.
 
 Dispõe sôbre a divulgação legislativa.

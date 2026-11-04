@@ -1,5 +1,3 @@
-###DEC-077345-0-000-29-03-1976@@@
-
 DECRETO Nº 77.345, DE 29 DE MARÇO DE 1976.
 
 Concede reconhecimento ao curso de Música da Universidade de Brasília, com sede na Cidade de Brasília, Distrito Federal.

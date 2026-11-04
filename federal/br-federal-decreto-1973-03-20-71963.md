@@ -1,5 +1,3 @@
-###DEC-071963-0-000-20-03-1973@@@
-
 Decreto Nº 71.963, DE 20 DE MARÇO DE 1973.
 
 Declara de utilidade pública, para finis de desapropriação, área de terra situada no Estado do Espírito Santo.

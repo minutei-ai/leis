@@ -1,5 +1,3 @@
-###DEC-064384-0-000-22-04-1969@@@
-
 DECRETO Nº 64.384, DE 22 DE ABRIL DE 1969.
 
 Declara de utilidade pública para fins de desapropriação, áreas destinadas à construção da Subestação Bauru-Sul, no município de Bauru, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-082210-0-000-04-09-1978@@@
-
 Decreto nº 82.210, de 04 de setembro de 1978.
 
 Cria a Embaixada do Brasil em Nassau e dá outras providências.

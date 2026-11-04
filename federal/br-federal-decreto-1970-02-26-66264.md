@@ -1,5 +1,3 @@
-###DEC-066264-0-000-26-02-1970@@@
-
 DECRETO Nº 66.264 - DE 26 DE FEVEREIRO DE 1970
 
 Autoriza funcionamento de Faculdade.

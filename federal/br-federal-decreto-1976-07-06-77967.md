@@ -1,5 +1,3 @@
-###DEC-077967-0-000-06-07-1976@@@
-
 DECRETO Nº 77.967, DE 6 DE JULHO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão de passagem, imóveis constituídos de terras e benfeitorias, situados em Campos Elísios, no Município de Duque de Caxias, no Estado do Rio de Janeiro.

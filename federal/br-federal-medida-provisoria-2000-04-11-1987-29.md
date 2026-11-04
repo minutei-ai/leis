@@ -1,5 +1,3 @@
-###MPV-001987-0-029-11-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.987-29, DE 11 de abril de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

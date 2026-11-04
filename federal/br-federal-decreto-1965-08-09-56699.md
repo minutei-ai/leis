@@ -1,5 +1,3 @@
-###DEC-056699-0-000-09-08-1965@@@
-
 decreto nº 56.699, de 9 de agôsto de 1965.
 
 Altera, suprime e acrescenta dispositivos no RCPSA, aprovado pelo Decreto nº 205, de 23 de novembro de 1961.

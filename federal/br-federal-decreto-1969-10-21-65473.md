@@ -1,5 +1,3 @@
-###DEC-065473-0-000-21-10-1969@@@
-
 decreto nº 65.473, de 21 de outubro de 1969.
 
 Concede o prazo adicional de 90 (noventa) dias para a renovação das licenças de Radioamador, a que se refere o artigo 72 do Regulamento dos Serviços de Radioamador prorrogado pelo Decreto nº 60.130, de 25 de janeiro de 1967.

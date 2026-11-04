@@ -1,6 +1,7 @@
 LEI Nº 1.772 DE 30 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº  [12.608](javascript: openDoc\()  , de 27 de dezembro de 2012 - Atualiza os limites dos Municípios que integram o Território de Identidade do Sertão Produtivo, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Brumado, Caetité, Caculé, Candiba, Contendas do Sincorá, Dom Basílio, Guanambi, Ibiassucê, Ituaçu, Iuiu, Lagoa Real, Livramento de Nossa Senhora, Malhada de Pedras, Palmas de Monte Alto, Pindaí, Rio do Antônio, Sebastião Laranjeiras, Tanhaçu e Urandi.
 
 Cria o Município de SEBASTIÃO LARANJEIRAS, desmembrado do de Palmas do Monte Alto.
@@ -57,4 +58,4 @@ ADALÍCIO NOGUEIRA
 
 Ademar Martinelli Braga
 
-* * *
+ *

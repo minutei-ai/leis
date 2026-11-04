@@ -1,5 +1,3 @@
-###DEC-070130-0-000-07-02-1972@@@
-
 DECRETO Nº 70.130, DE 7 DE FEVEREIRO DE 1972.
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

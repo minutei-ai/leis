@@ -16,8 +16,6 @@ Art. 2º Este Decreto entra em vigor na data de sua publicação, porém seus ef
 
 Goiânia, 5 de janeiro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

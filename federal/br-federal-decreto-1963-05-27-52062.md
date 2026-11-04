@@ -1,5 +1,3 @@
-###DEC-052062-0-000-27-05-1963@@@
-
 Decreto nº 52.062, de 27 de maio de 1963.
 
 Declara de utilidade pública o Hospital de Caridade Senhor Bom Jesus dos Passos, de Laguna, Estado de Santa Catarina.

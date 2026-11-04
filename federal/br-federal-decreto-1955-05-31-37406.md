@@ -1,18 +1,16 @@
-###DEC-037406-0-000-31-05-1955@@@
+**DECRETO Nº 37.406, DE 31 DE MAIO DE 1955.**
 
-<strong>DECRETO Nº 37.406, DE 31 DE MAIO DE 1955.</strong>
+***Institui a “Medalha Marechal Hermes - Aplicação e Estudo” e dá outras providências.***
 
-<em><strong>Institui a “Medalha Marechal Hermes - Aplicação e Estudo” e dá outras providências.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e
 
 CONSIDERANDO que o Marechal Hermes Rodrigues da Fonseca pelas suas excelsas virtudes militares e notória capacidade estadista, merece uma consagração;
 
 CONSIDERANDO a oportunidade de torná-la efetiva na passagem de seu primeiro centenário de nascimento, objetivando incentivar os desvelos nos estudos e na instrução, premiar e dar relêvo ao mérito intelectual de oficiais e praças que hajam distinguido nas Escolas do Exército ou nos concursos para as funções do Magistério Militar,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica instituída a “Medalha Marechal Hermes - Aplicação e Estudo”, cujo o modêlo com êste baixa:
+**Art**. 1º Fica instituída a “Medalha Marechal Hermes - Aplicação e Estudo”, cujo o modêlo com êste baixa:
 
 I - Medalha circular, com as seguintes características:
 
@@ -30,13 +28,13 @@ A passadeira da medalha conferida às praças não terá corôa de louros.
 
 IV - A medalha será usada pendente de uma fita azul ultramar, tendo ao centro uma lista verde e outra amarela.
 
-<strong>Art</strong>. 2º A Medalha Marechal Hermes - Aplicação e Estudo - será acompanhada do respectivo diploma, assinado pelo Ministro da Guerra.
+**Art**. 2º A Medalha Marechal Hermes - Aplicação e Estudo - será acompanhada do respectivo diploma, assinado pelo Ministro da Guerra.
 
-<strong>Art</strong>. 3º As medalhas serão cunhadas à medida das necessidades correndo as despesas por conta do Ministério do Exército.
+**Art**. 3º As medalhas serão cunhadas à medida das necessidades correndo as despesas por conta do Ministério do Exército.
 
-<strong>Art</strong>. 4º O militar que, tendo recebido a medalha, vier à fazer jús a outra, devolverá a anterior, conservando em seu poder a que corresponder ao curso mas elevado.
+**Art**. 4º O militar que, tendo recebido a medalha, vier à fazer jús a outra, devolverá a anterior, conservando em seu poder a que corresponder ao curso mas elevado.
 
-<strong>Art</strong>. 5º A Medalha Marechal Hermes - Aplicação e Estudos - será conferida aos militares da ativa do Exécito que hajam concluído ou venham a concluir anualmente, em primeira época e nas condições abaixo, os cursos das seguintes Escolas:
+**Art**. 5º A Medalha Marechal Hermes - Aplicação e Estudos - será conferida aos militares da ativa do Exécito que hajam concluído ou venham a concluir anualmente, em primeira época e nas condições abaixo, os cursos das seguintes Escolas:
 
 a) Antiga Escola Militar e atual AMAN: primeiro lugar de sua turma, em cada Arma ou Serviço;
 
@@ -48,19 +46,19 @@ d) Escola Técnica do Exército: primeiro lugar no curso de sua especialidade, d
 
 e) Escola de Sargento das Armas: primeiro lugar de sua turma em cada Arma.
 
-<strong>Art</strong>. 6º A medalha também será conferida aos oficiais do Exército, professôres efetivos do Magistério Militar, que:
+**Art**. 6º A medalha também será conferida aos oficiais do Exército, professôres efetivos do Magistério Militar, que:
 
 a) concluíram ou vieram a concluir o curso de licenciado o curso de licenciado em Faculdade de Filosofia, relativo à matéria que lecionam em caráter efetivo, como primeiro lugar de sua turma;
 
 b) conseguiram ou vieram a conseguir aprovação em primeiro lugar em concursos de títulos ou de provas com defesa de tese realizado com o fim precípuo de efetivação ou nomeação para catedrático do Ministério do Exército.
 
-<strong>Art</strong>. 7º Terá direito ainda a medalha, de acôrdo com instruções a serem baixadas pelo Ministério da Guerra, a praça que, pertencente ao corpo de tropa efetivo mínimo de Batalhão ou equivalente que incorpore mais de cem (100) homens, fôr julgada a mais distinta dentre tôdas aquelas incorporações anualmente.
+**Art**. 7º Terá direito ainda a medalha, de acôrdo com instruções a serem baixadas pelo Ministério da Guerra, a praça que, pertencente ao corpo de tropa efetivo mínimo de Batalhão ou equivalente que incorpore mais de cem (100) homens, fôr julgada a mais distinta dentre tôdas aquelas incorporações anualmente.
 
-<strong>Art</strong>. 8º Os estabelecidos de Ensino do Exército remeterão à Secretaria Geral do Ministério da Guerra, dentro de 60 (sessenta) dias, as relações dos militares que já fizeram jús a medalha de que trata êste decreto.
+**Art**. 8º Os estabelecidos de Ensino do Exército remeterão à Secretaria Geral do Ministério da Guerra, dentro de 60 (sessenta) dias, as relações dos militares que já fizeram jús a medalha de que trata êste decreto.
 
-<strong>Art</strong>. 9º Os Comandantes interessados deverão propor, anualmente, os oficiais e praças que tiverem direitos à medalha.
+**Art**. 9º Os Comandantes interessados deverão propor, anualmente, os oficiais e praças que tiverem direitos à medalha.
 
-<strong>Art</strong>. 10. A medalha será entregue em solenidade:
+**Art**. 10. A medalha será entregue em solenidade:
 
 a) Aos que vierem a fazer jús:
 
@@ -74,16 +72,16 @@ b) Aos que a ela fizerem jús:
 
 \- em data a ser fixada pelos respectivos Comandantes - aos demais.
 
-<strong>Art</strong>. 11 O Ministério da Guerra regulará os casos omissos, baixando as instruções complementares que se fizerem necessárias.
+**Art**. 11 O Ministério da Guerra regulará os casos omissos, baixando as instruções complementares que se fizerem necessárias.
 
-<strong>Art</strong>. 12 A Secretaria Geral do Ministério da Guerra deverá providenciar a execução do presente decreto.
+**Art**. 12 A Secretaria Geral do Ministério da Guerra deverá providenciar a execução do presente decreto.
 
-<strong>Art</strong>. 13 O presente decreto entrará em vigor na data de sua publicação.
+**Art**. 13 O presente decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 14 Revogam-se as disposições em contrário.
+**Art**. 14 Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 31 de maio de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott

@@ -1,5 +1,3 @@
-###DEC-091100-0-000-12-03-1985@@@
-
 DECRETO Nº 91.100, DE 12 DE MARÇO DE 1985
 
 Inclui o comércio varejista em geral estabelecido nas Capitais dos Estados, dos Territórios Federais no Distrito Federal e nos Municípios, dentre as atividades com funcionamento permanente aos domingos, feriados civis e religiosos.

@@ -1,5 +1,3 @@
-###DEC-057937-0-000-10-03-1966@@@
-
 Decreto nº 57.937, de 10 de março de 1966.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, necessários ao Ministério da Guerra.

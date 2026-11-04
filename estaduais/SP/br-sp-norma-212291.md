@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212291)<br>
-
 # DECRETO N° 70.411, DE 02 DE MARÇO DE 2026
 
 ### _Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Monte Mor, que declarou Situação de Emergência em áreas do Município._

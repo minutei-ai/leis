@@ -1,5 +1,3 @@
-###DEC-050682-0-000-31-05-1961@@@
-
 DECRETO Nº 50.682, DE 31 DE MAIO DE 1961.
 
 Altera e acrescenta dispositivos no Regulamento da Ordem do Mérito Aeronáutico e dá outras providências.

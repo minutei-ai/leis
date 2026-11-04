@@ -1,5 +1,3 @@
-###DEL-002360-0-000-16-09-1987@@@
-
 # DECRETO-LEI Nº 2.360, DE 16 DE SETEMBRO DE 1987
 
 Altera o Decreto-lei nº 2.300, de 21 de novembro de 1986, que dispõe sobre licitações e contratos da Administração Federal.

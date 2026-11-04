@@ -1,5 +1,3 @@
-###DEC-051231-0-000-22-08-1961@@@
-
 Decreto nº 51.231, de 23 de agôsto de 1961.
 
 Abre, ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da Segunda Região, o crédito especial de Cr$20.000.000,00, para o fim que especifica.

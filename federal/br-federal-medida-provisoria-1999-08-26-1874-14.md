@@ -1,5 +1,3 @@
-###MPV-001874-0-014-26-08-1999@@@
-
 Medida provisória nº 1.874-14, de 26 de agosto de 1999.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

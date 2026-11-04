@@ -1,7 +1,3 @@
-1
-
-###DEC-085822-0-000-18-03-1981@@@
-
 Decreto nº 85.822, de 18 de março de 1981.
 
 Autoriza o funcionamento do curso de Ciências Atuarias, da Faculdade de Ciências Contábeis do Litoral Santista, de Santos, São Paulo.

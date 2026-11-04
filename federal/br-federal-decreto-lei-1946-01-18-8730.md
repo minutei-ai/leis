@@ -1,5 +1,3 @@
-###DEL-008730-0-000-18-01-1946@@@
-
 DECRETO-LEI N.  8.730 – DE 18 DE JANEIRO DE 1946
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$....135.000,00, para aparelhamento do Sanatório de Fortaleza.

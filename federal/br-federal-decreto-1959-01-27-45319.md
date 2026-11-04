@@ -1,5 +1,3 @@
-###DEC-045319-0-000-27-01-1959@@@
-
 DECRETO Nº 45.319, DE 27 DE JANEIRO DE 1959.
 
 Autoriza Indústrias Brasileiras de Artigos Refratários S.A. IBAR a lavrar argila no Município de Mogi das Cruzes, Estado de São Paulo.

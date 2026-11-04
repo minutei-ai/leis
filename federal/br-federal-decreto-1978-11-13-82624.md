@@ -1,5 +1,3 @@
-###DEC-082624-0-000-13-11-1978@@@
-
 Decreto nº 82.624, de 13 de novembro de 1978.
 
 Retifica a autorização de lavra conferida à J. Rabelo S.A. pelo Decreto nº40965, de 14 de fevereiro de 1957.

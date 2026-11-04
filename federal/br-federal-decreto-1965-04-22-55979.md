@@ -1,5 +1,3 @@
-###DEC-055979-0-000-22-04-1965@@@
-
 DECRETO Nº 55.979, DE 22 DE ABRIL DE 1965.
 
 Institui Grupo de Trabalho com o objetivo de estuda e de propor medidas para a instalação de fábricas de leite em pó.

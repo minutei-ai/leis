@@ -1,5 +1,3 @@
-###DEL-006925-0-000-04-10-1944@@@
-
 DECRETO-LEI N. 6.925 – DE 4 DE OUTUBRO DE 1944
 
 Altera as carreiras de Biologista e Tecnologista, dos Quadros Permanente e Único, dos Ministérios da Educação e Saúde e do Trabalho, Indústria e Comércio, e dá outras providências

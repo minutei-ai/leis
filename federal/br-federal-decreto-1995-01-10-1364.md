@@ -1,7 +1,3 @@
-1
-
-###DEC-001364-0-000-10-01-1995@@@
-
 DECRETO Nº 1.364, DE 10 DE JANEIRO DE 1995
 
 Fixa as proporções, referentes ao ano‑base de 1994, a serem observadas para promoção obrigatória de Oficiais das Armas, Quadros e Serviços do Exército.

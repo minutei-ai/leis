@@ -1,5 +1,3 @@
-###DEC-069132-0-000-27-08-1971@@@
-
 DECRETO Nº 69.132, DE 27 DE AGôSTO DE 1971.
 
 Reduz as alíquotas do Imposto Único sôbre Lubrificantes e Combustíveis Líquidos e Gasosos.

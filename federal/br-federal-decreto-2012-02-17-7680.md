@@ -1,5 +1,3 @@
-###DEC-007680-0-000-17-02-2012-PUB-01@@@
-
 DECRETO N°7.680, DE 17 DE FEVEREIRO DE 2012
 
 Dispõe sobre a programação orçamentária e financeira, estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2012 e dá outras providências.

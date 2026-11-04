@@ -1,5 +1,3 @@
-###DEL-004035-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.035 – DE 19 DE JANEIRO DE 1942
 
 Cria as funções gratificadas de Secretário e Chefe de Portaria da Inspetoria Federal de Obras Contra as Secas

@@ -1,5 +1,3 @@
-###DEC-066994-0-000-05-08-1970@@@
-
 DECRETO Nº 66.994, DE 5 DE AGÔSTO DE 1970.
 
 Redistribuição de servidor do Quadro de Pessoal - Parte Permanente do Ministério da Aeronáutica.

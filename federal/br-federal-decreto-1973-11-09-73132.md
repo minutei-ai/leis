@@ -1,5 +1,3 @@
-###DEC-073132-0-000-09-11-1973@@@
-
 decreto nº 73.132 - de 9 de novembro de 1973
 
 Concede reconhecimento ao curso de Matemática do Instituto de Ciências Exatas da Universidade de Caxias do Sul, com sede na cidade de Caxias do Sul, Estado do Rio Grande do Sul.

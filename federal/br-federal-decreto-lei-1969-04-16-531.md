@@ -1,7 +1,3 @@
-1
-
-###DEL-000531-0-000-16-04-1969@@@
-
 DECRETO-LEI Nº 531, DE 16 DE ABRIL DE 1969
 
 Altera dispositivos da Lei nº 1.649, de 19 de julho de 1952, que dispõe sôbre a constituição do Banco do Nordeste do Brasil S. A.

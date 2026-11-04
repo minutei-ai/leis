@@ -1,7 +1,3 @@
-1
-
-###DEC-098474-0-000-06-12-1989@@@
-
 DECRETO N° 98.474, DE 06 DE DEZEMBRO DE 1989
 
 Suspende a intervenção na Transbrasil, Linhas Aéreas, S.A.

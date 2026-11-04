@@ -1,5 +1,3 @@
-###MPV-001963-0-015-03-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.963-15, DE 3 DE Fevereiro DE 2000.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

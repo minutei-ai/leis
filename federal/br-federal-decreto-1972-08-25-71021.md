@@ -1,5 +1,3 @@
-###DEC-071021-0-000-25-08-1972@@@
-
 DECRETO Nº 71.021, DE 25 DE AGOSTO DE 1972.
 
 Torna sem efeito a redistribuição de servidor da extinta Fundação Brasil Central para as Secretárias do Ministério Público Federal, e dá outras providências.

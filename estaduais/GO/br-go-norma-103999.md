@@ -1,4 +1,5 @@
-DECRETO Nº 9.880, DE 08 DE JUNHO DE 2021<br>
+DECRETO Nº 9.880, DE 08 DE JUNHO DE 2021
+
 \- [Revogado pelo Decreto nº 10.752, de 7-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111137), art. 6º, III.
 
 ~~Autoriza a Secretaria de Estado de Esporte e Lazer a realizar e manter os contratos temporários que especifica, nos termos previstos no Convênio nº 898049/2020, celebrado junto à União, por intermédio do Ministério da Cidadania – MC .~~
@@ -7,7 +8,8 @@ DECRETO Nº 9.880, DE 08 DE JUNHO DE 2021<br>
 
 ~~**DECRETA:**~~
 
-~~Art. 1º Fica a Secretaria de Estado de Esporte e Lazer – SEL autorizada a celebrar, bem como manter, nos termos da Lei estadual nº [20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 2 (dois) contratos temporários, sendo 1 (um) contrato temporário para Professor de Educação Física de Karatê e 1 (um) para Professor de Artes Marciais de Judô, pelo prazo máximo de 11 (onze) meses, nos termos do inciso VI do art. 2º da referida lei, nos quantitativos que especifica.~~<br>
+~~Art. 1º Fica a Secretaria de Estado de Esporte e Lazer – SEL autorizada a celebrar, bem como manter, nos termos da Lei estadual nº [20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 2 (dois) contratos temporários, sendo 1 (um) contrato temporário para Professor de Educação Física de Karatê e 1 (um) para Professor de Artes Marciais de Judô, pelo prazo máximo de 11 (onze) meses, nos termos do inciso VI do art. 2º da referida lei, nos quantitativos que especifica.~~
+
 ~~[\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
 ~~Art. 1º Fica a Secretaria de Estado de Esporte e Lazer – SEL autorizada a celebrar, bem como manter, nos termos da Lei estadual nº 20.918, de 21 de dezembro de 2020, mediante processo seletivo simplificado, 2 (dois) contratos temporários de Professores de Educação Física de Judô e de Karatê, pelo prazo de 11 (onze) meses, podendo ser prorrogado nos termos do inciso VI do art. 2º da referida Lei, nos quantitativos que especifica.~~
@@ -18,7 +20,8 @@ DECRETO Nº 9.880, DE 08 DE JUNHO DE 2021<br>
 
 ~~§ 3º A contratação temporária ocorrerá à conta de recursos oriundos do Tesouro Nacional, Fonte de Recursos 188, Natureza das Despesas: 3.1.90.04.01.~~
 
-~~Art. 2º São atribuições do Professor de Educação Física de Karatê e do Professor de Artes Marciais de Judô:<br>
+~~Art. 2º São atribuições do Professor de Educação Física de Karatê e do Professor de Artes Marciais de Judô:
+
 [\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
 ~~Art. 2º São atribuições dos Professores de Educação Física de Judô e de Karatê:~~
@@ -43,32 +46,40 @@ DECRETO Nº 9.880, DE 08 DE JUNHO DE 2021<br>
 
 ~~Art. 3º São requisitos para a contratação:~~
 
-~~I – para o cargo de Professor de Educação Física de Karatê:~~<br>
+~~I – para o cargo de Professor de Educação Física de Karatê:~~
+
 [~~\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
 ~~I – certificado ou diploma de licenciatura plena ou bacharelado em Educação Física e Registro no Conselho Regional de Educação Física de Goiás e Tocantins – CREF14;~~
 
-~~a) certificado ou diploma de licenciatura plena ou bacharelado na área Educação Física e Registro no Conselho Regional de Educação Física de Goiás e Tocantins – CREF14;~~<br>
-[~~\- Acrescida pelo Decreto~~ ~~nº~~ ~~9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
+~~a) certificado ou diploma de licenciatura plena ou bacharelado na área Educação Física e Registro no Conselho Regional de Educação Física de Goiás e Tocantins – CREF14;~~
 
-~~b) certidão negativa de regularidade junto ao conselho da categoria; e~~<br>
+[~~\- Acrescida pelo Decretonº9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
+
+~~b) certidão negativa de regularidade junto ao conselho da categoria; e~~
+
 [~~\- Acrescida pelo Decreto nº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
-~~c) experiência profissional de 6 (seis) meses na modalidade; e~~<br>
+~~c) experiência profissional de 6 (seis) meses na modalidade; e~~
+
 [~~\- Acrescida pelo Decreto nº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
-~~II – para o cargo de Professor de Artes Marciais de Judô:~~<br>
-[~~\- Acrescido pelo~~ ~~Decreto~~ ~~nº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
+~~II – para o cargo de Professor de Artes Marciais de Judô:~~
 
-~~a) faixa preta registrada na federação da modalidade; e~~<br>
+[~~\- Acrescido peloDecretonº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
+
+~~a) faixa preta registrada na federação da modalidade; e~~
+
 [~~\- Acrescida pelo Decreto nº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
-~~b) experiência profissional de 6 (seis) meses na modalidade.~~ <br>
+~~b) experiência profissional de 6 (seis) meses na modalidade.~~ 
+
 ~~[\- Acrescida pelo Decreto nº 9.950, de 16-09-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
 ~~II – certidão negativa de regularidade junto ao conselho da categoria; e~~
 
-~~III – experiência profissional de 6 (seis) meses na modalidade.<br>
+~~III – experiência profissional de 6 (seis) meses na modalidade.
+
 [\- Revogado pelo Decreto nº 9.950, de 16-09-2021 art. 4º, I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950).~~
 
 ~~Art. 4º Além das contratações previstas neste Decreto, poderá ser formado banco de habilitados.~~

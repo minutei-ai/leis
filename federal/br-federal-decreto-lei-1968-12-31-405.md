@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a5ed46dc-1aeb-476b-a69b-82a8f7181b0c/texto#nowhere)
 
-###DEL-000405-0-000-31-12-1968@@@
-
 DECRETO-LEI Nº 405, DE 31 DE DeZEMbRO DE 1968
 
 Provê sôbre o incremento de matrículas em estabelecimentos de ensino superior, em 1969.

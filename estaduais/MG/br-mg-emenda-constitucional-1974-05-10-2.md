@@ -21,7 +21,3 @@ O 2º Secretário: Sebastião Alves do Nascimento
 O 3º Secretário: Haroldo Lopes da Costa
 
 O 4º Secretário: João Gomes Moreira
-
-\-------------------------------------------------------------------
-
-Data da última atualização: 22/2/2006.

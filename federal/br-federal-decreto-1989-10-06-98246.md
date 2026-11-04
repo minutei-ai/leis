@@ -1,7 +1,3 @@
-1
-
-###DEC-098246-0-000-06-10-1989@@@
-
 DECRETO N° 98.246, DE 6 DE OUTUBRO DE 1989
 
 Altera o art. 1º do Decreto n° 97.477, de 26 de janeiro de 1989, que fixa, para o exercício de 1989, o limite global de importações realizadas através da Zona Franca de Manaus.

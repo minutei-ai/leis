@@ -1,5 +1,3 @@
-###DEC-004765-0-000-24-06-2003@@@
-
 [DECRETO Nº 4.765, DE 24 DE JUNHO DE 2003.](http://legislacao.planalto.gov.br/legislacao.nsf/Viw_Identificacao/DEC%204.765-2003?OpenDocument)
 
 Altera o Decreto no 4.543, de 26 de dezembro de 2002, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.       
@@ -560,5 +558,6 @@ Parágrafo único.  A operação de comércio exterior realizada mediante uti
 
         Brasília, 24 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Bernard Appy

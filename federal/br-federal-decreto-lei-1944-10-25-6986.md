@@ -1,5 +1,3 @@
-###DEL-006986-0-000-25-10-1944@@@
-
 DECRETO-LEI N. 6.986 – DE 25 DE OUTUBRO DE 1944
 
 Torna sem aplicação dotação orçamentária de Cr$ 70.000,00 do Ministério da Educação e Saúde e abre crédito suplementar de idêntica importância

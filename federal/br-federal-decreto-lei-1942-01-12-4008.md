@@ -1,5 +1,3 @@
-###DEL-004008-0-000-12-01-1942@@@
-
 DECRETO-LEI N. 4.008 – DE 12 DE JANEIRO DE 1942
 
 Dispõe sobre requisição de bens destinados ao transporte aéreo

@@ -1,5 +1,3 @@
-###DEC-007109-0-000-18-02-2010@@@
-
 DECRETO Nº 7.109, DE 18 DE FEVEREIRO DE 2010.
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo de Granada, firmado em Saint George's, em 24 de abril de 2006.

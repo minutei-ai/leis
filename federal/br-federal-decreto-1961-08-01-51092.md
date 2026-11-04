@@ -1,5 +1,3 @@
-###DEC-051092-0-000-01-08-1961@@@
-
 DECRETO Nº 51.092, DE 1 DE AGÔSTO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Goiás, as águas do rio “Água Limpa”.

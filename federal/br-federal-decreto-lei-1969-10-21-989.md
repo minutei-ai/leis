@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d6e1866a-66a6-475c-8ee4-6f21b371eabe/texto#nowhere)
 
-###DEL-000989-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 989, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre a fixação de preços de petróleo bruto e seus derivados e a fixação de tarifa de energia elétrica.

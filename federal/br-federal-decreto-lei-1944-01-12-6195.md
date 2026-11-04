@@ -1,5 +1,3 @@
-###DEL-006195-0-000-12-01-1944@@@
-
 DECRETO-LEI N. 6.195 – DE 12 JANEIRO DE 1944
 
 Autoriza a Viação Férrea FederaI Leste Brasileiro a averbar consignações em fôlhas de pagamento de seus servidores, a favor de sociedades cooperativas de consumo

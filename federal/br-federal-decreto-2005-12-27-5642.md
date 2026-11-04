@@ -1,5 +1,3 @@
-###DEC-005642-0-000-27-12-2005@@@
-
 DECRETO Nº 5.642, DE 27 DE DEZEMBRO DE 2005.
 
  Dispõe sobre a tutoria na Universidade Federal do Recôncavo da Bahia pela Universidade Federal da Bahia e dá outras providências.
@@ -41,5 +39,3 @@ DECRETO Nº 5.642, DE 27 DE DEZEMBRO DE 2005.
 LUIZ INÁCIO LULA DA SILVA
 
 Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 28.12.2005

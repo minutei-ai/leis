@@ -1,5 +1,3 @@
-###DEC-060275-0-000-24-02-1967@@@
-
 DECRETO Nº 60.275, DE 24 DE FEVEREIRO DE 1967.
 
 Reduz o interstício de permanência no pôsto de Tenente-Coronel da Armas, dos Serviços de Veterinária e Intendência e dos Quadros de Oficiais Médicos e Farmacêuticos do Serviço de Saúde do Exército.

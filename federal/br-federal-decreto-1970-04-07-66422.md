@@ -1,5 +1,3 @@
-###DEC-066422-0-000-07-04-1970@@@
-
 DECRETO Nº 66.422, DE 7 DE ABRIL DE 1970.
 
 Autoriza Licenciaturas de 1º Ciclo em Regime Intensivo.

@@ -1,5 +1,3 @@
-###DEC-064787-0-000-07-07-1969@@@
-
 DECRETO Nº 64.787 -  DE 7 DE JULHO DE 1969.
 
 Altera redação do Artigo 36 e seu parágrafo único do Regulamento do Seguro de Acidentes do Trabalho, aprovado pelo Decreto nº 61.784, de 28 de novembro de 1967 e dá outras providências.

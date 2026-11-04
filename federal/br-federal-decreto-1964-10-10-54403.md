@@ -1,5 +1,3 @@
-###DEC-054403-0-000-10-10-1964@@@
-
 DECRETO Nº 54.403, DE 10 DE OUTUBRO DE 1964.
 
 Renova o Decreto nº 49.403, de 2 de dezembro de 1960.

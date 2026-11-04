@@ -1,14 +1,12 @@
-###DEC-042620-0-000-07-11-1957@@@
+**DECRETO Nº 42.620, DE 7 DE NOVEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.620, DE 7 DE NOVEMBRO DE 1957.</strong>
+***Modifica o regulamento do Estado-Maior da Aeronáutica.***
 
-<em><strong>Modifica o regulamento do Estado-Maior da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passa a ter a seguinte redação o nº 9 do Regulamento do Estado-Maior da Aeronáutica, aprovado pelo Decreto nº 22.429, de 2 de janeiro de 1947:
+**Art**. 1º Passa a ter a seguinte redação o nº 9 do Regulamento do Estado-Maior da Aeronáutica, aprovado pelo Decreto nº 22.429, de 2 de janeiro de 1947:
 
 “9. - A Inspetoria compreende:
 
@@ -24,7 +22,7 @@
 
 \- 4ª Divisão - Prevenção e Investigação de Acidentes Aeronáuticos (I-4)”.
 
-<strong>Art</strong>. 2º A 4ª Divisão - “Prevenção e Investigação de Acidentes Aeronáuticos” - compete:
+**Art**. 2º A 4ª Divisão - “Prevenção e Investigação de Acidentes Aeronáuticos” - compete:
 
 1\. - Assistir o Inspetor-Geral nas atividades do Serviço de Prevenção e Investigação de Acidentes Aeronáuticos e na elaboração de normas e planos para as inspeções relativas àquele Serviço;
 
@@ -38,10 +36,10 @@
 
 6\. - Registrar e arquivar os originais dos relatórios de investigação de acidentes aeronáuticos e proceder o levantamento estatístico dos mesmos.
 
-<strong>Art</strong>. 3º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 7 de novembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Mello

@@ -1,5 +1,3 @@
-###DEC-092831-0-000-26-06-1986@@@
-
 DECRETO Nº 92.831, DE 26 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado ''Lote 50'', situado no Município de Conceição do Araguaia, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.623, de 2 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045544-0-000-05-03-1959@@@
-
 DECRETO Nº 45.544, DE 5 DE MARÇO DE 1959.
 
 Autoriza o cidadão brasileiro Francisco Roberto dos Santos a pesquisar diamantes, no município de Diamantina, Estado de Minas Gerais.

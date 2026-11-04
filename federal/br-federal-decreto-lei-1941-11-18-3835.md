@@ -1,5 +1,3 @@
-###DEL-003835-0-000-18-11-1941@@@
-
 DECRETO-LEI N. 3.835 – DE 18 DE NOVEMBRO DE 1941
 
 Torna sem efeito o decreto-lei n. 3.579, de 1 de setembro de 1941.

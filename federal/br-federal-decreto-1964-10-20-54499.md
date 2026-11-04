@@ -1,5 +1,3 @@
-###DEC-054499-0-000-20-10-1964@@@
-
 DECRETO Nº 54.449, DE 20 DE OUTUBRO DE 1964.
 
 Autorização para operação da SAS em território brasileiro.

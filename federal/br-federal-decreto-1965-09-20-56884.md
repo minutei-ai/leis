@@ -1,5 +1,3 @@
-###DEC-056884-0-000-20-09-1965@@@
-
 DECRETO Nº 56.884, DE 20 DE SETEMBRO DE 1965.
 
 Concede à Emprêsa de Navegação Aliança S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

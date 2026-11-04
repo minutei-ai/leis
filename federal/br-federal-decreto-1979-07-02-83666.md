@@ -1,5 +1,3 @@
-###DEC-083666-0-000-02-07-1979@@@
-
 decreto nº 83.666, de 02 de julho de 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Maria da Fé, Estado de Minas Gerais.

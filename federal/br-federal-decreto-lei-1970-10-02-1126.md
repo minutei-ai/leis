@@ -1,5 +1,3 @@
-###DEL-001126-0-000-02-10-1970@@@
-
 # DECRETO-LEI Nº 1.126, DE 2 DE OUTUBRO DE 1970
 
 Fixa os vencimentos básicos do pessoal docente do ensino médio federal, e dá outras providências.

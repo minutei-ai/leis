@@ -1,5 +1,3 @@
-###DEC-056055-0-000-26-04-1965@@@
-
 DECRETO Nº 56.055, DE 26 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Jamil Jorge a pesquisar água-mineral, no município de Ribeirão Prêto, Estado de São Paulo.

@@ -1,4 +1,5 @@
-LEI Nº 21.032, DE 23 DE JUNHO DE 2021.<br>
+LEI Nº 21.032, DE 23 DE JUNHO DE 2021.
+
 \- [Revogada pela Lei nº 23.069, de 11-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109912/lei-23069), art. 15, X.
 
 ~~Altera a Lei nº [18.812](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/91346/lei-18812), de 16 de abril de 2015, que transforma em Batalhões da Polícia Militar as Companhias Independentes que menciona.~~

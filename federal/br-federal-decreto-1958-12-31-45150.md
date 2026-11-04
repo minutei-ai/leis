@@ -1,5 +1,3 @@
-###DEC-045150-0-000-31-12-1958@@@
-
 decreto nº 45.150, de 31 de dezembro de 1958.
 
 Dispõe sôbre a remuneração dos Agentes Fiscais do Impôsto de Renda e dá outras providências.

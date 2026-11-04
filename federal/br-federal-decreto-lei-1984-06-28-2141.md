@@ -1,5 +1,3 @@
-###DEL-002141-0-000-28-06-1984@@@
-
 # Decreto-lei nº 2.141, de 28 de junho de 1984
 
 Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências.

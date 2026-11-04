@@ -1,5 +1,3 @@
-###DEC-096693-0-000-14-09-1988@@@
-
 DECRETO N° 96.693, DE 14 DE SETEMBRO DE 1988
 
 Cria o Parque Nacional Marinho de Fernando de Noronha e dá outras providências.

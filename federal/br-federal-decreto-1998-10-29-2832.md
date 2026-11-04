@@ -1,5 +1,3 @@
-###DEC-002832-0-000-29-10-1998@@@
-
 DECRETO Nº 2.832, DE 29 DE OUTUBRO DE 1998
 
 Promulga a Emenda nº 3 ao Convênio Constitutivo do Fundo Monetário Internacional, assinada na Cidade do Panamá, República do Panamá, em 30 de janeiro de 1975.

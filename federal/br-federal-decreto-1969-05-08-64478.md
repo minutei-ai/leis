@@ -1,5 +1,3 @@
-###DEC-064478-0-000-08-05-1969@@@
-
 Decreto nº 64.478, de 8 de maio de 1969.
 
 Autorização a estrangeiro para adquirir o domínio útil do terreno nacional interior situado no Estado da Guanabara.

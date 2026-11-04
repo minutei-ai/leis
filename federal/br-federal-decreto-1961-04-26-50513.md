@@ -1,5 +1,3 @@
-###DEC-050513-0-000-26-04-1961@@@
-
 DECRETO Nº 50.513, DE 26 DE ABRIL DE 1961.
 
 Concede a L. Figueiredo Navegação S.A., autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

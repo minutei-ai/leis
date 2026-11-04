@@ -1,5 +1,3 @@
-###DEL-004252-0-000-13-04-1942@@@
-
 DECRETO-LEI N. 4.252 – DE 13 DE ABRIL DE 1942
 
 Dispõe sobre o provimento de cargos vagos na classe F da carreira de Detetive do Quadro Permanente do Ministério da Justiça e Negócios Interiores

@@ -1,5 +1,3 @@
-###DEC-048785-0-000-12-08-1960@@@
-
 DECRETO N. 48.785 – DE 12 DE AGÔSTO DE 1960
 
 Autoriza o cidadão brasileiro Henrique Nora Júnior a Lavrar feldspato e quartzo no município de Barra do Pirai, Estado do Rio de Janeiro.

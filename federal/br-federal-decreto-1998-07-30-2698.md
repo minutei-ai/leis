@@ -1,5 +1,3 @@
-###DEC-002698-0-000-30-07-1998@@@
-
 DECRETO Nº 2.698, DE 30 DE JULHO DE 1998
 
 Promulga o Acordo-Quadro sobre Cooperação em Aplicações Pacíficas de Ciência e Tecnologia do Espaço Exterior, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Popular da China.
@@ -116,4 +114,14 @@ Artigo VIII
 
 Feito em Beijing, em 08 de novembro de 1994, em seis exemplares, na línguas portuguesa, chinesa e inglesa, sendo todos os textos igualmente autênticos. Em caso de divergência de interpretação, prevalecerá o texto em língua inglesa.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:206.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Popular da China</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Israel Vargas</span></p></td><td style="width:206.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Liu Jiyuan</span></p></td></tr><tr><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Ciências e Tecnologia</span></p></td><td style="width:206.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Administrador da Administração Nacional de Espaço da China</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República Popular da China
+
+José Israel Vargas
+
+Liu Jiyuan
+
+Ministro de Estado das Ciências e Tecnologia
+
+Administrador da Administração Nacional de Espaço da China

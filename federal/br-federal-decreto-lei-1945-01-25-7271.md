@@ -1,5 +1,3 @@
-###DEL-007271-0-000-25-01-1945@@@
-
 DECRETO-LEI N. 7.271 – DE 25 DE JANEIRO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 24.000,00 para indenização de despesas efetuadas com exposição

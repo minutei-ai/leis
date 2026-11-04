@@ -1,5 +1,3 @@
-###DEL-007714-0-000-06-07-1945@@@
-
 DECRETO-LEI N. 7.714 – DE 6 DE JULHO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 1.299.160,10, para pagamento devido à Caixa de Aposentadoria e Pensões dos Ferroviários da Viação Férrea Federal Leste Brasileiro

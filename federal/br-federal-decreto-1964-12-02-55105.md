@@ -1,5 +1,3 @@
-###DEC-055105-0-000-02-12-1964@@@
-
 DECRETO Nº 55.105, DE 02 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Afonso Murilo Souto a pesquisar ouro no Município de Peixe - Estado de Goiás.

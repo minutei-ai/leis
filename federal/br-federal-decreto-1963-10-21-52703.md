@@ -1,5 +1,3 @@
-###DEC-052703-0-000-21-10-1963@@@
-
 DECRETO Nº 52.703, DE 21 de OUTUBRO DE 1963.
 
 Outorga à Comissão Estadual de Energia Elétrica do Rio Grande do Sul concessão para o aproveitamento progressivo de energia hidráulica dos rios Passo Fundo e Erechim, municípios de igual nome, Estado do Rio Grande do Sul.

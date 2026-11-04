@@ -1,5 +1,3 @@
-###DEC-068704-0-000-03-06-1971@@@
-
 DECRETO Nº 68.704 - DE 3 DE JUNHO DE 1971.
 
 Regulamenta a Lei nº 4.324, de 14 de abril de 1964.

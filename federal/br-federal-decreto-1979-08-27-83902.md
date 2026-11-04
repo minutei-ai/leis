@@ -1,5 +1,3 @@
-###DEC-083902-0-000-27-08-1979@@@
-
 Decreto nº 83.902, de 27 de agosto de 1979.
 
 Autoriza o funcionamento do curso de Engenharia Civil da Faculdade de Engenharia Conselheiro Algacyr Munhoz Maeder, com sede na cidade de Presidente Prudente, Estado de São Paulo.

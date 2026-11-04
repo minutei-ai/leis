@@ -1,14 +1,12 @@
-###DEC-026907-0-000-18-07-1949@@@
+**DECRETO Nº 26.907, DE 18 DE JULHO DE 1949.**
 
-<strong>DECRETO Nº 26.907, DE 18 DE JULHO DE 1949.</strong>
+***Define as diversas situações previstas nos arts. 1º e 6º da Lei nº 288, de 8 de junho de 1948, na forma da redação dada pela Lei nº 616, de 2 de fevereiro de 1949.***
 
-<em><strong>Define as diversas situações previstas nos arts. 1º e 6º da Lei nº 288, de 8 de junho de 1948, na forma da redação dada pela Lei nº 616, de 2 de fevereiro de 1949.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, nº I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, nº I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º - Consideram-se abrangidos pelo art. 1º da Lei nº 288, de 8 de junho de 1948, de acôrdo com a nova redação que lhe deu a Lei número 616, de 2 de fevereiro de 1949, os seguintes oficiais das Fôrças Armadas:
+**Art**. 1º - Consideram-se abrangidos pelo art. 1º da Lei nº 288, de 8 de junho de 1948, de acôrdo com a nova redação que lhe deu a Lei número 616, de 2 de fevereiro de 1949, os seguintes oficiais das Fôrças Armadas:
 
 I - No Exército:
 
@@ -58,17 +56,17 @@ e) - os que desempenharam missões de observação junto a comando ou força ali
 
 f) - os que serviram em guarnições das ilhas de Fernando de Noronha e Trindade, durante o estado de guerra.
 
-<strong>Art</strong>. 2º - Consideram-se abrangidos pelo art. 6º da Lei nº 288, de 8 de junho de 1948, alterado pela Lei nº 616, de 2 de fevereiro de 1949, os seguintes militares e civis, que prestaram serviços ao Exército ou na Marinha durante a guerra 1914-1918:
+**Art**. 2º - Consideram-se abrangidos pelo art. 6º da Lei nº 288, de 8 de junho de 1948, alterado pela Lei nº 616, de 2 de fevereiro de 1949, os seguintes militares e civis, que prestaram serviços ao Exército ou na Marinha durante a guerra 1914-1918:
 
 a) - os civis e os militares componentes da Missão Médica que o Brasil enviou à França, em caráter militar; os primeiros, ao se aposentarem ou já aposentados;
 
-b) - os oficiais e sargentos do Exército que tomaram parte, fôra do Brasil, na luta, ainda que somente na qualidade de observadores junto a comandos ou forças dos exércitos aliados; e os que, no Brasil, executaram qualquer das missões especificadas nas alíneas <em>b,c</em> e <em>d</em> do inciso I do artigo 1º;
+b) - os oficiais e sargentos do Exército que tomaram parte, fôra do Brasil, na luta, ainda que somente na qualidade de observadores junto a comandos ou forças dos exércitos aliados; e os que, no Brasil, executaram qualquer das missões especificadas nas alíneas *b,c* e *d* do inciso I do artigo 1º;
 
 c) - os oficiais, sub-oficiais e sargentos da Marinha de Guerra que executaram durante a vigência do estado de guerra qualquer das missões especificadas no inciso II, do artigo II, do artigo1º, e os que serviram na guarnição da fortaleza de Anhatomirim, então sob a jurisdição da Marinha.
 
 Rio de Janeiro, 18 de julho de 1949; 128º da Independência e 61º da República.
 
-<strong>EUR</strong><strong>I</strong><strong>CO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Sylvio de Noronha
 

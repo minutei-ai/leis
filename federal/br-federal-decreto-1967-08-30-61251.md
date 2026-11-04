@@ -1,5 +1,3 @@
-###DEC-061251-0-000-30-08-1967@@@
-
 decreto Nº 61.251, DE 30 DE AGôSTO DE 1967.
 
 Reconhece de utilidade pública o Instituto Histórico e Geográfico Brasileiro.

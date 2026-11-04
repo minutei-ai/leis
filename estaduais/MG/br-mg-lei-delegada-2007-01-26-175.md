@@ -1399,7 +1399,3 @@ Espécie/nível Quantitativo de Cargos FGI-7 1 FGI-13 1
 (Anexo acrescentado pelo Anexo I da Lei nº 25.663, de 22/12/2025.)
 
 (Vide § 2º do art. 15 da Lei nº 25.663, de 22/12/2025.)
-
-\============================================================
-
-Data da última atualização: 29/12/2025.

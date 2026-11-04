@@ -1,5 +1,3 @@
-###DEC-065083-0-000-29-08-1969@@@
-
 DECRETO Nº 65.083 - DE 29 DE AGôSTO DE 1969.
 
 Declara de utilidade pública a Sociedade "Maria Cristina" com sede em Curitiba, Estado do Paraná.

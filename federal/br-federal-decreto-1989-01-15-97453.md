@@ -1,5 +1,3 @@
-###DEC-097453-0-000-15-01-1989@@@
-
 DECRETO N° 97.453, DE 15 DE JANEIRO DE 1989
 
 Reajusta o valor do Piso Nacional de Salários.

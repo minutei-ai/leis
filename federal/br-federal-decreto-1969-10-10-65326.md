@@ -1,5 +1,3 @@
-###DEC-065326-0-000-10-10-1969@@@
-
 DECRETO Nº 65.326, DE 10 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública o "Centro Social da Menina", com sede em Bagé, Estado do Rio Grande do Sul.

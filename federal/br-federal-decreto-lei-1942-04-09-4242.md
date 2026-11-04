@@ -1,5 +1,3 @@
-###DEL-004242-0-000-09-04-1942@@@
-
 DECRETO-LEI N. 4.242 – DE 9 DE ABRIL DE 1942
 
 Autoriza o prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona

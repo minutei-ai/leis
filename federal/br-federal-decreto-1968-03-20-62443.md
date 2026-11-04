@@ -1,5 +1,3 @@
-###DEC-062443-0-000-20-03-1968@@@
-
 decreto nº 62.443, de 20 de março de 1968.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamentos novos, neste descritos e consignados à emprêsa “Industrias de Azulejos S.A.”, de Recife ( Pe).
@@ -14,7 +12,75 @@ decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamentos novos, a seguir descritos e consignados à emprêsa “Indústria de Azulejos S.A.“, de Recife (Pe):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:187.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>ITEM - ESPECIFICAÇÃO</span></p></td><td style="width:113.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:106.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:187.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1. Máquina Elétrica para trabalho em cerâmica, completa, mod. </span><span style="font-style:italic">Engmann</span><span> 140, de impacto, marca </span><span style="font-style:italic">Engmann</span><span>, para prensagem de azulejos cerâmicos a uma pressão de 150ton., com capacidade para 3.000 unidades por hora, de fabricação Felix </span><span style="font-style:italic">Engmann</span><span> - </span><span style="font-style:italic">Maschinenfabric</span><span> - </span><span style="font-style:italic">kohlscheid</span><span>/</span><span style="font-style:italic">Aachen</span><span> - Alemanha Ocidental, acoplada, com motor elétrico </span><span style="font-style:italic">Loher</span><span> &amp; </span><span style="font-style:italic">Sohne</span><span>, de 380 V, 13,5 A, 3,6Kw, 4,9 Ps 800rpm, 60Hz............................................</span></p></td><td style="width:113.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>2</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>57.536</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2. Eletro-imã marca </span><span style="font-style:italic">Frantz</span><span> Ferro </span><span style="font-style:italic">Filters</span><span>, completo, tipo de gravidade, mod. 61, 115 V, 1,5 A, destinado à extração de ferro contido em massa cerâmica, com capacidade de purificar 650/2.000 galões p/hora (2460,25/7.570 litros), fabricação D.G. </span><span style="font-style:italic">Frantz</span><span> </span><span style="font-style:italic">Co</span><span>. </span><span style="font-style:italic">Inc</span><span>; </span><span style="font-style:italic">New</span><span> </span><span style="font-style:italic">Jersey</span><span> - USA....</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>Peças Sobressalentes</span></p></td><td style="width:113.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>2</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>-</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3. Jôgo de grelhas para Eletro-Imã mod. 61</span></p></td><td style="width:113.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>-</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>4. Válvula flutuante p/ Eletro-Imã mod. 61</span></p></td><td style="width:113.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>-</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>5. Bóia p/ eletro-Imã mod. 61 ...................</span></p></td><td style="width:113.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>-</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>6. Jôgo de grelhas p/Eletro-Imã mod. 51...</span></p></td><td style="width:113.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>-</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>7. Bóia p/ Eletro-Imã mod. 31 ..................</span></p></td><td style="width:113.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>-</span></p></td></tr><tr><td style="width:187.9pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>8. Válvula flutuante p/ Eletro-Imã mod. 51</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>(preço p/ conjunto indicado sob números de ordem 2 a 8 acima) .............................</span></p></td><td style="width:113.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>-</span></p></td><td style="width:106.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>-</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>2.492</span></p></td></tr><tr><td style="width:187.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>TOTAL ......................................................</span></p></td><td style="width:113.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>-</span></p></td><td style="width:106.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>60.028</span></p></td></tr></tbody></table>
+ITEM - ESPECIFICAÇÃO
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+1. Máquina Elétrica para trabalho em cerâmica, completa, mod. Engmann 140, de impacto, marca Engmann, para prensagem de azulejos cerâmicos a uma pressão de 150ton., com capacidade para 3.000 unidades por hora, de fabricação Felix Engmann - Maschinenfabric - kohlscheid/Aachen - Alemanha Ocidental, acoplada, com motor elétrico Loher &amp; Sohne, de 380 V, 13,5 A, 3,6Kw, 4,9 Ps 800rpm, 60Hz............................................
+
+2
+
+57.536
+
+2. Eletro-imã marca Frantz Ferro Filters, completo, tipo de gravidade, mod. 61, 115 V, 1,5 A, destinado à extração de ferro contido em massa cerâmica, com capacidade de purificar 650/2.000 galões p/hora (2460,25/7.570 litros), fabricação D.G. Frantz Co. Inc; New Jersey - USA....
+
+Peças Sobressalentes
+
+2
+
+-
+
+3. Jôgo de grelhas para Eletro-Imã mod. 61
+
+3
+
+-
+
+4. Válvula flutuante p/ Eletro-Imã mod. 61
+
+1
+
+-
+
+5. Bóia p/ eletro-Imã mod. 61 ...................
+
+2
+
+-
+
+6. Jôgo de grelhas p/Eletro-Imã mod. 51...
+
+1
+
+-
+
+7. Bóia p/ Eletro-Imã mod. 31 ..................
+
+1
+
+-
+
+8. Válvula flutuante p/ Eletro-Imã mod. 51
+
+(preço p/ conjunto indicado sob números de ordem 2 a 8 acima) .............................
+
+1
+
+-
+
+-
+
+2.492
+
+TOTAL ......................................................
+
+-
+
+60.028
 
 Parágrafo único. Com respeito ao motor elétrico que acompanha a maquinaria, fica sua similaridade para efeito da isenção de que trata o presente Decreto, para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de o mesmo seguir regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

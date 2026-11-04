@@ -1,5 +1,3 @@
-###DEC-082913-0-000-20-12-1978@@@
-
 Decreto nº 82.913, de 20 de dezembro de 1978
 
 Concede à Minas Itatiaiuçu Ltda. o direito de lavrar minério de ferro nos Municípios de Itatiaiuçu e Mateus Leme, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-052093-0-000-04-06-1963@@@
-
 DECRETO Nº 52.093, de 4 de junho de 1963.
 
 Aprova o Regulamento do Banco Nacional de Crédito Cooperativo.

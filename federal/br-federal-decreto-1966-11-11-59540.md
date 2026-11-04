@@ -1,5 +1,3 @@
-###DEC-059540-0-000-11-11-1966@@@
-
 DECRETO Nº 59.540, DE 11 DE NOVEMBRO DE 1966.
 
 Concede à Minéria-Mineração Irmãos Associados Ltda., autorização para funcionar como emprêsa de mineração.

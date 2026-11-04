@@ -1,5 +1,3 @@
-###DEC-048291-0-000-15-06-1960@@@
-
 DECRETO Nº 48.291, DE 15 DE JUNHO DE 1960.
 
 Revoga permissão concedida à Fábrica de Papel Sta. Terezinha S.A., estabelecida na cidade de São Paulo, para funcionar aos domingos e feriados civis ou religiosos.

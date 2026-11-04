@@ -1,7 +1,3 @@
-1
-
-###DEC-099046-0-000-07-03-1990@@@
-
 DECRETO Nº 99.046, DE 7 DE MARÇO DE 1990
 
 Outorga concessão à RÁDIO JORNAL DE SÃO JOSÉ DOS QUATRO MARCOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de São José dos Quatro Marcos, Estado do Mato Grosso.

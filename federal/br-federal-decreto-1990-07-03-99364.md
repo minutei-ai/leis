@@ -1,7 +1,3 @@
-1
-
-###DEC-099364-0-000-03-07-1990@@@
-
 DECRETO N° 99.364, DE 3 DE JULHO DE 1990
 
 Dispõe sobre a Comissão Especial de Recursos (CER), e dá outras providencias.

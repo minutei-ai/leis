@@ -1,7 +1,3 @@
-1
-
-###MPV-000973-0-000-20-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 973, DE 20 DE ABRIL DE 1995
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/Pasep e Cofins nos casos que especifica, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095608-0-000-11-01-1988@@@
-
 DECRETO N° 95.608, DE 11 DE JANEIRO DE 1988
 
 Autoriza o aumento do capital autorizado da Companhia Siderúrgica da Amazônia - SIDERAMA.

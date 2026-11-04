@@ -1,5 +1,3 @@
-###DEL-006740-0-000-26-07-1944@@@
-
 DECRETO-LEI N. 6.740 – DE 26 DE JULHO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de  Cr$ 9.740.000,00, para despesas de material

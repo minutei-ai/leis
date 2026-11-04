@@ -1,5 +1,3 @@
-###DEC-076415-0-000-10-10-1975@@@
-
 DECRETO Nº 76.415, de 10 DE OUTUBRO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Elétrica do Instituto Nacional de Telecomunicações de Santa Rita do Sapucaí, com sede na cidade de Santa Rita do Sapucai, Estado de Minas Gerais.

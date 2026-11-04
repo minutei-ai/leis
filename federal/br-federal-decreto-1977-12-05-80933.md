@@ -1,5 +1,3 @@
-###DEC-080933-0-000-05-12-1977@@@
-
 Decreto nº 80.933, de 05 de dezembro de 1977.
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Televisão de Uberlândia Ltda. para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Uberlândia, Estado de Minas Gerais.

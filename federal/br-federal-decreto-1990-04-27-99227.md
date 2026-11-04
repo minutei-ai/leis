@@ -1,7 +1,3 @@
-1
-
-###DEC-099227-0-000-27-04-1990@@@
-
 DECRETO Nº 99.227, DE 27 DE ABRIL DE 1990
 
 Altera dispositivos do Decreto nº 86.325, de 1º de setembro de 1981, e dá outras providências.

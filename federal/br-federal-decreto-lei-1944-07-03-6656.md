@@ -1,5 +1,3 @@
-###DEL-006656-0-000-03-07-1944@@@
-
 DECRETO-LEI N. 6.656 – DE 3 DE JULHO DE 1944
 
 Dispõe sobre a função de despachante aduaneiro

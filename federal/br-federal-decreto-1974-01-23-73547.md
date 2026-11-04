@@ -1,5 +1,3 @@
-###DEC-073547-0-000-23-01-1974@@@
-
 DECRETO Nº 73.547, DE 23 DE JANEIRO DE 1974.
 
 Autoriza a transferência para o patrimônio da Prefeitura Municipal de Castro, no Estado do Paraná, ao imóvel que menciona.

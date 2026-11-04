@@ -1,5 +1,3 @@
-###DEL-005499-0-000-17-05-1943@@@
-
 DECRETO‑LEI N. 5.499 – DE 17 DE MAIO DE 1943
 
 Cria o 14º Batalhão de Engenhos, com sede em Natal

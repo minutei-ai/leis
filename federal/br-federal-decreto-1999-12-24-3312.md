@@ -1,5 +1,3 @@
-###DEC-003312-0-000-24-12-1999@@@
-
 DECRETO Nº 3.312, DE 24 DE DEZEMBRO DE 1999.
 
 Institui regime aduaneiro especial para a importação de petróleo bruto e seus derivados, para fins de exportação ou reexportação.

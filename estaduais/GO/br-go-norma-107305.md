@@ -1,6 +1,7 @@
 DECRETO Nº 10.276, DE 28 DE JUNHO DE 2023
 
-Dispõe sobre o Sistema Estruturador das Redes de Gestão – SIGES, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e regulamentado pelo [Decreto estadual nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023, na área de gestão do patrimônio e designa essa área como Rede de Patrimônio – REDEPAT no Poder Executivo estadual.<br>
+Dispõe sobre o Sistema Estruturador das Redes de Gestão – SIGES, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e regulamentado pelo [Decreto estadual nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023, na área de gestão do patrimônio e designa essa área como Rede de Patrimônio – REDEPAT no Poder Executivo estadual.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Dispõe sobre a área de gestão de patrimônio, designada Rede de Patrimônio – REDEPAT, integrante do Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e do Sistema de Gestão Estadual – SIGES, instituído pelo [Decreto nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023.~~   
@@ -9,7 +10,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 **DECRETA:**
 
-Art. 1º Este Decreto dispõe sobre o Sistema Estruturador das Redes de Gestão – SIGES, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão do patrimônio e designa essa área como Rede de Patrimônio – REDEPAT no Poder Executivo estadual.<br>
+Art. 1º Este Decreto dispõe sobre o Sistema Estruturador das Redes de Gestão – SIGES, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão do patrimônio e designa essa área como Rede de Patrimônio – REDEPAT no Poder Executivo estadual.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 1º Este Decreto dispõe sobre a área de gestão de patrimônio, designada Rede de Patrimônio – REDEPAT, integrante do Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e do Sistema de Gestão Estadual – SIGES, instituído pelo [Decreto nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023.~~
@@ -20,14 +22,16 @@ Art. 3º A REDEPAT tem o objetivo de aprimorar a efetividade da gestão pública
 
 I – diretrizes da unidade central para a eficiência da gestão do patrimônio mobiliário e imobiliário;
 
-II – desenvolvimento e melhoria da comunicação entre a unidade central e as unidades setoriais e correlatas;<br>
+II – desenvolvimento e melhoria da comunicação entre a unidade central e as unidades setoriais e correlatas;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~II – desenvolvimento e melhoria da comunicação entre a unidade central e as setoriais;~~
 
 III – padronização, simplificação e automação de rotinas;
 
-IV – capacitação das unidades setoriais e correlatas;<br>
+IV – capacitação das unidades setoriais e correlatas;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~IV – capacitação das unidades setoriais;~~
@@ -40,34 +44,40 @@ Art. 4º A Subsecretaria de Logística e Patrimônio, da SEAD, por ser a unidade
 
 Parágrafo único. São de responsabilidade da unidade central, conforme as normativas específicas de sua área de atuação:
 
-I – a formulação, a comunicação e a supervisão de políticas, normas e diretrizes gerais a serem seguidas pelas unidades setoriais e correlatas;<br>
+I – a formulação, a comunicação e a supervisão de políticas, normas e diretrizes gerais a serem seguidas pelas unidades setoriais e correlatas;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~I – a formulação, a comunicação e a supervisão de políticas, normas e diretrizes gerais a serem seguidas pelas unidades setoriais;~~
 
-II – a orientação técnica às unidades setoriais e correlatas vinculadas, para subsidiar o exercício das competências correspondentes ao sistema sob sua responsabilidade;<br>
+II – a orientação técnica às unidades setoriais e correlatas vinculadas, para subsidiar o exercício das competências correspondentes ao sistema sob sua responsabilidade;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~II – a orientação técnica às unidades setoriais vinculadas, para subsidiar o exercício das competências correspondentes ao sistema sob sua responsabilidade;~~
 
 III – o acompanhamento geral da execução das entregas e das atividades de sua área de atuação;
 
-IV – a especificação das funções e das entregas das unidades setoriais e correlatas relacionadas à temática;<br>
+IV – a especificação das funções e das entregas das unidades setoriais e correlatas relacionadas à temática;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~IV – a especificação das funções e das entregas das unidades setoriais relacionadas à temática;~~
 
-V – a identificação, o mapeamento e a divulgação dos serviços, dos processos de trabalho, das entregas, das atividades e das respectivas responsabilidades centrais, setoriais e correlatas, conforme as diretrizes da unidade central de gestão por processos;<br>
+V – a identificação, o mapeamento e a divulgação dos serviços, dos processos de trabalho, das entregas, das atividades e das respectivas responsabilidades centrais, setoriais e correlatas, conforme as diretrizes da unidade central de gestão por processos;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~V – a identificação, o mapeamento e a divulgação dos serviços, dos processos de trabalho, das entregas, das atividades e das respectivas responsabilidades centrais e setoriais, conforme as diretrizes da unidade central de gestão por processos;~~
 
-VI – a identificação, conforme suas diretrizes, do perfil técnico necessário aos servidores para a atuação na própria unidade central e nas unidades setoriais e correlatas da REDEPAT;<br>
+VI – a identificação, conforme suas diretrizes, do perfil técnico necessário aos servidores para a atuação na própria unidade central e nas unidades setoriais e correlatas da REDEPAT;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~VI – a identificação, conforme suas diretrizes, do perfil técnico necessário aos servidores para a atuação na própria unidade central e nas unidades setoriais da REDEPAT;~~
 
-VII – a capacitação das unidades setoriais e correlatas, com a possibilidade de parcerias com as escolas de governo estaduais, também com outros entes, Poderes, empresas e entidades especializadas, quando forem necessárias;<br>
+VII – a capacitação das unidades setoriais e correlatas, com a possibilidade de parcerias com as escolas de governo estaduais, também com outros entes, Poderes, empresas e entidades especializadas, quando forem necessárias;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~VII – a capacitação das unidades setoriais, com a possibilidade de parcerias com as escolas de governo estaduais, também com outros entes, Poderes, empresas e entidades especializadas, quando forem necessárias;~~
@@ -80,12 +90,14 @@ X – a definição de informações e indicadores centrais e setoriais que subs
 
 XI – a definição de critérios para a concessão e a manutenção das funções comissionadas referidas por este Decreto.
 
-Art. 5º As unidades setoriais e correlatas possuem as competências tática e operacional na execução das entregas e das atividades na área da gestão de patrimônio.<br>
+Art. 5º As unidades setoriais e correlatas possuem as competências tática e operacional na execução das entregas e das atividades na área da gestão de patrimônio.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 5º As unidades setoriais possuem as competências tática e operacional na execução das entregas e das atividades na área da gestão de patrimônio.~~
 
-Parágrafo único. As unidades setoriais e correlatas ficarão subordinadas técnica e normativamente às unidades centrais, sem prejuízo à subordinação administrativa vinculada à estrutura organizacional do órgão ou da entidade.<br>
+Parágrafo único. As unidades setoriais e correlatas ficarão subordinadas técnica e normativamente às unidades centrais, sem prejuízo à subordinação administrativa vinculada à estrutura organizacional do órgão ou da entidade.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Parágrafo único. As unidades setoriais ficarão subordinadas técnica e normativamente às unidades centrais, sem prejuízo da subordinação administrativa vinculada à estrutura organizacional do órgão ou da entidade.~~
@@ -126,47 +138,56 @@ XVI – garantir a entrega de todos os documentos necessários para a prestaçã
 
 Parágrafo único. As atribuições de que tratam os incisos I a XVI deste artigo poderão ser exercidas de forma conjunta ou isolada, de acordo com o porte da unidade de atuação, e serão de responsabilidade de suas respectivas coordenações.
 
-Art. 7º As unidades setoriais e correlatas da REDEPAT serão classificadas nos seguintes portes:<br>
+Art. 7º As unidades setoriais e correlatas da REDEPAT serão classificadas nos seguintes portes:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 7º As unidades setoriais da REDEPAT serão classificadas nos seguintes portes:~~
 
-I – Porte 1: unidades setoriais e correlatas que possuam mais de 500 (quinhentos) imóveis e mais de 500.000 (quinhentos mil) móveis em seu acervo;<br>
+I – Porte 1: unidades setoriais e correlatas que possuam mais de 500 (quinhentos) imóveis e mais de 500.000 (quinhentos mil) móveis em seu acervo;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~I – porte 1: unidades setoriais que possuam mais de 500 (quinhentos) imóveis e mais de 500.000 (quinhentos mil) móveis em seu acervo;~~
 
-II – Porte 2: unidades setoriais e correlatas que possuam mais de 50 (cinquenta) imóveis e mais de 100.000 (cem mil) móveis em seu acervo;<br>
+II – Porte 2: unidades setoriais e correlatas que possuam mais de 50 (cinquenta) imóveis e mais de 100.000 (cem mil) móveis em seu acervo;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~II – porte 2: unidades setoriais que possuam mais de 50 (cinquenta) imóveis e mais de 100.000 (cem mil) móveis em seu acervo;~~
 
-III – Porte 3: unidades setoriais e correlatas que possuam mais de 50 (cinquenta) imóveis e até 100.000 (cem mil) móveis em seu acervo;<br>
+III – Porte 3: unidades setoriais e correlatas que possuam mais de 50 (cinquenta) imóveis e até 100.000 (cem mil) móveis em seu acervo;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~III – porte 3: unidades setoriais que possuam mais de 50 (cinquenta) imóveis e até 100.000 (cem mil) móveis em seu acervo;~~
 
-IV – Porte 4: unidades setoriais e correlatas que possuam entre 10 (dez) e 50 (cinquenta) imóveis e mais de 20.000 (vinte mil) móveis em seu acervo;<br>
+IV – Porte 4: unidades setoriais e correlatas que possuam entre 10 (dez) e 50 (cinquenta) imóveis e mais de 20.000 (vinte mil) móveis em seu acervo;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~IV – porte 4: unidades setoriais que possuam entre 10 (dez) e 50 (cinquenta) imóveis e mais de 20.000 (vinte mil) móveis em seu acervo;~~
 
-V – Porte 5: unidades setoriais e correlatas que possuam entre 10 (dez) e 50 (cinquenta) imóveis e até 20.000 (vinte mil) móveis em seu acervo;<br>
+V – Porte 5: unidades setoriais e correlatas que possuam entre 10 (dez) e 50 (cinquenta) imóveis e até 20.000 (vinte mil) móveis em seu acervo;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~V – porte 5: unidades setoriais que possuam entre 10 (dez) e 50 (cinquenta) imóveis e até 20.000 (vinte mil) móveis em seu acervo;~~
 
-VI – Porte 6: unidades setoriais e correlatas que possuam menos de 10 (dez) imóveis e mais de 20.000 (vinte mil) móveis em seu acervo; e<br>
+VI – Porte 6: unidades setoriais e correlatas que possuam menos de 10 (dez) imóveis e mais de 20.000 (vinte mil) móveis em seu acervo; e
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~VI – porte 6: unidades setoriais que possuam menos de 10 (dez) imóveis e mais de 20.000 (vinte mil) móveis em seu acervo; e~~
 
-VII – Porte 7: unidades setoriais e correlatas que possuam menos de 10 (dez) imóveis e até 20.000 (vinte mil) móveis em seu acervo.<br>
+VII – Porte 7: unidades setoriais e correlatas que possuam menos de 10 (dez) imóveis e até 20.000 (vinte mil) móveis em seu acervo.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~VII – porte 7: unidades setoriais que possuam menos de 10 (dez) imóveis e até 20.000 (vinte mil) móveis em seu acervo.~~
 
-Art. 8º As unidades setoriais e correlatas serão compostas por coordenadores e supervisores, conforme a distribuição a ser definida em ato normativo do titular do órgão central de gestão de patrimônio.<br>
+Art. 8º As unidades setoriais e correlatas serão compostas por coordenadores e supervisores, conforme a distribuição a ser definida em ato normativo do titular do órgão central de gestão de patrimônio.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 8º As unidades setoriais serão compostas por coordenadores e supervisores, conforme distribuição a ser definida em ato normativo do Secretário de Estado da Administração.~~
@@ -175,12 +196,14 @@ Art. 8º As unidades setoriais e correlatas serão compostas por coordenadores e
 
 § 2º Nos órgãos e nas entidades que possuírem mais de 1 (um) coordenador, deverão ser selecionados 1 (um) para a coordenação do patrimônio imóvel e 1 (um) para a coordenação do patrimônio móvel.
 
-Art. 9º Para servidores que atuam na unidade central, nas unidades setoriais e nas unidades correlatas da REDEPAT em atribuições diferenciadas de assessoramento técnico especializado e que tenham experiência e/ou capacitação profissional na área de atuação, serão concedidas Funções Comissionadas do Sistema Estruturador das Redes de Gestão – FCRGs ou Gratificações do Sistema Estruturador das Redes de Gestão – GRGs, em observância aos arts. 103 e 110 a 113, respectivamente, da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, destinadas a incentivar o aprimoramento da qualidade das entregas e das atividades executadas por eles.<br>
+Art. 9º Para servidores que atuam na unidade central, nas unidades setoriais e nas unidades correlatas da REDEPAT em atribuições diferenciadas de assessoramento técnico especializado e que tenham experiência e/ou capacitação profissional na área de atuação, serão concedidas Funções Comissionadas do Sistema Estruturador das Redes de Gestão – FCRGs ou Gratificações do Sistema Estruturador das Redes de Gestão – GRGs, em observância aos arts. 103 e 110 a 113, respectivamente, da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, destinadas a incentivar o aprimoramento da qualidade das entregas e das atividades executadas por eles.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 9º Para servidores que atuam na unidade central e nas unidades setoriais da REDEPAT em atribuições diferenciadas de assessoramento técnico especializado e que tenham experiência e/ou capacitação profissional na área de atuação serão concedidas Funções Comissionadas do Sistema Estruturador de Organização e Inovação Institucional – FCSISTs, destinadas a incentivar o aprimoramento da qualidade das entregas e das atividades executadas por eles.~~
 
-Art. 10. Os critérios para a seleção dos servidores da unidade central e das unidades setoriais e correlatas da REDEPAT são:<br>
+Art. 10. Os critérios para a seleção dos servidores da unidade central e das unidades setoriais e correlatas da REDEPAT são:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 10. Os critérios para a seleção dos servidores da unidade central e das unidades setoriais da REDEPAT são:~~
@@ -195,25 +218,30 @@ II – a capacitação profissional de pelo menos 40 (quarenta) horas, aferida p
 
 Art. 11. A designação para o exercício das atribuições diferenciadas de assessoramento técnico especializado será efetivada por ato do titular:
 
-I – do órgão central de gestão de patrimônio, referentemente à unidade central da REDEPAT; e<br>
+I – do órgão central de gestão de patrimônio, referentemente à unidade central da REDEPAT; e
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~I – da SEAD, referente à unidade central da REDEPAT; e~~
 
-II – do respectivo órgão ou entidade de lotação, referentemente às unidades setoriais e correlatas da REDEPAT, após a validação prévia da Subsecretaria de Logística e Patrimônio, da SEAD.<br>
+II – do respectivo órgão ou entidade de lotação, referentemente às unidades setoriais e correlatas da REDEPAT, após a validação prévia da Subsecretaria de Logística e Patrimônio, da SEAD.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~II – do respectivo órgão ou entidade de lotação, referente às unidades setoriais da REDEPAT, após a validação prévia da Subsecretaria de Logística e Patrimônio, da SEAD.~~
 
-Art. 12. As FCRGs e as GRGs da REDEPAT poderão ser concedidas desde que sejam observados os arts. 103 e 110 a 113 da Lei nº 21.792, de 2023, respectivamente, e o servidor possua o perfil de gestão, capacidade técnica e intelectual para coordenar as atividades descritas nos incisos I a XVI do art. 6º deste Decreto.<br>
+Art. 12. As FCRGs e as GRGs da REDEPAT poderão ser concedidas desde que sejam observados os arts. 103 e 110 a 113 da Lei nº 21.792, de 2023, respectivamente, e o servidor possua o perfil de gestão, capacidade técnica e intelectual para coordenar as atividades descritas nos incisos I a XVI do art. 6º deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 12. As FCSISTs da REDEPAT serão concedidas aos servidores efetivos ou empregados públicos permanentes em exercício no âmbito da administração direta, autárquica e fundacional do Poder Executivo estadual que possuam o perfil de gestão, capacidade técnica e intelectual para coordenar as atividades descritas nos incisos I a XVI do art. 6º deste Decreto.~~
 
-Parágrafo único. Caso haja a necessidade de alteração de designação de FCRG por GRG ou vice-versa, de acordo com a necessidade, os processos devem chegar à unidade central responsável pelo Sistema de Recursos Humanos – RHNet até o dia 25 do mês para a parametrização e a disponibilização para designação a partir do dia 1º do mês seguinte.<br>
+Parágrafo único. Caso haja a necessidade de alteração de designação de FCRG por GRG ou vice-versa, de acordo com a necessidade, os processos devem chegar à unidade central responsável pelo Sistema de Recursos Humanos – RHNet até o dia 25 do mês para a parametrização e a disponibilização para designação a partir do dia 1º do mês seguinte.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-Art. 13. A concessão das FCRGs e das GRGs da REDEPAT está vinculada ao exercício das atribuições, conforme as competências das unidades do SIGES, observados, pelo menos, os seguintes critérios:<br>
+Art. 13. A concessão das FCRGs e das GRGs da REDEPAT está vinculada ao exercício das atribuições, conforme as competências das unidades do SIGES, observados, pelo menos, os seguintes critérios:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 13. A concessão das FCSISTs da REDEPAT está vinculada ao exercício das atribuições, conforme as competências das unidades do SIGES, observados, pelo menos, os seguintes critérios:~~
@@ -234,12 +262,14 @@ Parágrafo único. Poderão ser criados pela unidade central critérios específ
 
 Art. 14. A distribuição das coordenações e das supervisões da REDEPAT será disponibilizada à unidade central, conforme a necessidade, e às unidades setoriais, de acordo com o porte.
 
-§ 1º O valor das FCRGs e das GRGs por porte e tipo de atribuição será definido em ato do titular do órgão central de gestão de patrimônio.<br>
+§ 1º O valor das FCRGs e das GRGs por porte e tipo de atribuição será definido em ato do titular do órgão central de gestão de patrimônio.
+
 \- [Constituído § 1º com nova redação pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Parágrafo único. O valor das FCSISTs por porte e tipo de atribuição será definido em ato do Secretário de Estado da Administração.~~
 
-§ 2º Em caso de alteração na distribuição de que trata o § 1º deste artigo, o ato deverá ser encaminhado para a unidade central responsável pelo RHNet até o dia 25 do mês para que sejam processadas e disponibilizadas para designação a partir do dia 1º do mês seguinte.<br>
+§ 2º Em caso de alteração na distribuição de que trata o § 1º deste artigo, o ato deverá ser encaminhado para a unidade central responsável pelo RHNet até o dia 25 do mês para que sejam processadas e disponibilizadas para designação a partir do dia 1º do mês seguinte.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 Art. 15. A avaliação periódica de desempenho para as atividades de assessoramento técnico especializado considerará os seguintes aspectos, entre outros:
@@ -261,8 +291,6 @@ Parágrafo único. A avaliação anual do cumprimento dos requisitos previstos n
 Art. 16. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 28 de junho de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

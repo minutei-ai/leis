@@ -1,5 +1,3 @@
-###DEC-051365-0-000-05-12-1961@@@
-
 DECRETO Nº 51.365, DE 5 DE DEZEMBRO DE 1961.
 
 Cria funções na antiga Tabela Única de Extranumerários-mensalistas do Ministério da Educação e Cultura, em cumprimento de decisão judicial transitada em julgado.

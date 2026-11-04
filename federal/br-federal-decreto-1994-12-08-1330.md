@@ -1,5 +1,3 @@
-###DEC-001330-0-000-08-12-1994@@@
-
 DECRETO Nº 1.330, DE 8 DE DEZEMBRO DE 1994
 
 Dispõe sobre a concessão do benefício de prestação continuada, previsto no art. 20 da Lei nº 8.742, de 7 de dezembro de 1993, e dá outras providências.

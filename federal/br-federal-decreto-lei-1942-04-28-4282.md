@@ -1,5 +1,3 @@
-###DEL-004282-0-000-28-04-1942@@@
-
 DECRETO-LEI N. 4.282 – DE 28 DE ABRIL DE 1942
 
 Cria a função gratificada de diretor dos Cursos de Aperfeiçoamento e Especialização do Centro de Ensino e Pesquisas Agronômicas, no Ministério da Agricultura, e dá outras providências.

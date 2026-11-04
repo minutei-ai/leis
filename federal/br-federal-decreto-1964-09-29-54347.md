@@ -1,5 +1,3 @@
-###DEC-054347-0-000-29-09-1964@@@
-
 DECRETO Nº 54.347, DE 29 DE SETEMBRO DE 1964.
 
 Outorga a Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica no Município de Cianorte, Estado do Paraná.

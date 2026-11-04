@@ -1,5 +1,3 @@
-###DEC-058843-0-000-15-07-1966@@@
-
 DECRETO Nº 58.843, DE 15 DE JULHO DE 1966.
 
 Retifica o enquadramento do quadro de Extraordinário, Parte Especial da Universidade do Brasil.

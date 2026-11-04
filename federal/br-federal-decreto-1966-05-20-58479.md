@@ -1,5 +1,3 @@
-###DEC-058479-0-000-20-05-1966@@@
-
 DECRETO Nº 58.479, DE 20 DE MAIO DE 1966.
 
 Torna sem efeito o Decreto nº 53.076-63 na parte que menciona.

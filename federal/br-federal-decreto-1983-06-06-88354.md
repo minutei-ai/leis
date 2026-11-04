@@ -1,5 +1,3 @@
-###DEC-088354-0-000-06-06-1983@@@
-
 DECRETO Nº 88.354, de 06 de JUNHO de 1983
 
 Dispõe sobre delegação e subdelegação de competência.

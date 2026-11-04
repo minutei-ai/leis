@@ -1,5 +1,3 @@
-###DEC-051169-0-000-09-08-1961@@@
-
 DECRETO Nº 51.169, DE 9 DE AGÔSTO DE 1961.
 
 Institui a Seção de Terapêutica Ocupacional e de Reabilitação no Serviço Nacional de doenças Mentais do Ministério da Saúde, e dá outras providências.

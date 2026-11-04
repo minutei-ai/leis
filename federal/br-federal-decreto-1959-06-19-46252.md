@@ -1,5 +1,3 @@
-###DEC-046252-0-000-19-06-1959@@@
-
 DECRETO Nº 46.252, DE 19 DE JUNHO DE 1959.
 
 Autoriza estrangeira a adquirir em transferência de aforamento, frações ideais do domínio útil do terreno de marinha que menciona, no Distrito Federal.

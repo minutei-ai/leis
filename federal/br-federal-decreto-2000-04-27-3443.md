@@ -1,5 +1,3 @@
-###DEC-003443-0-000-27-04-2000@@@
-
 Decreto nº 3.443, de 27 de abril de 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.075, de 1º de junho de 1999.

@@ -1,5 +1,3 @@
-###DEC-002181-0-000-20-03-1997@@@
-
 DECRETO Nº 2.181, DE 20 DE MARÇO DE 1997
 
 Dispõe sobre a organização do Sistema Nacional de Defesa do Consumidor - SNDC, estabelece as normas gerais de aplicação das sanções administrativas previstas na Lei nº 8.078, de 11 de setembro de 1990, revoga o Decreto Nº 861, de 9 julho de 1993, e dá outras providências.

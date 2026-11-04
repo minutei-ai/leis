@@ -1,5 +1,3 @@
-###DEL-006170-0-000-05-01-1944@@@
-
 DECRETO-LEI N. 6.170 – DE 5 DE JANEIRO DE 1944
 
 Cria o Serviço de Expansão do Trigo no Ministério da Agricultura e dá outras providências

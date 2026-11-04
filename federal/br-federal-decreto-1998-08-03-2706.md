@@ -1,5 +1,3 @@
-###DEC-002706-0-000-03-08-1998@@@
-
 DECRETO Nº 2.706, DE 3 DE AGOSTO DE 1998
 
 Dispõe sobre a redução do Imposto sobre Produtos Industrializados sobre veículos automotores e dá outras providências.
@@ -44,12 +42,374 @@ Pedro Malan
 
 ANEXO I
 
-<table cellspacing="0" cellpadding="0" style="margin-left:27.98pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:258.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Cód. NCM</span></p></td><td style="width:67.15pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota % até 31.12.98</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.21.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.22.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.22.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.23.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.23.10 Ex 05, que passa a ser Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.23.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.23.90 Ex 05, que passa a ser Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.24.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.24.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.31.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">32</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.31.10 Ex 02</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.31.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">32</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.31.90 Ex 02</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">32</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.10 Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.10 Ex 05</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">55</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">32</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.90 Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.90 Ex 05</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">55</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.33.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">32</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.33.10 Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">55</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.33.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">32</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.33.90 Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">55</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.90.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">32</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.90.00 Ex 05</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">55</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.10.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">15</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.20.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.20.20</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.20.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.30.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.40.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.50.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.90.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr></tbody></table>
+Cód. NCM
+
+Alíquota % até 31.12.98
+
+8703.21.00
+
+8
+
+8703.22.10
+
+25
+
+8703.22.90
+
+25
+
+8703.23.10
+
+25
+
+8703.23.10 Ex 05, que passa a ser Ex 04
+
+30
+
+8703.23.90
+
+25
+
+8703.23.90 Ex 05, que passa a ser Ex 04
+
+30
+
+8703.24.10
+
+30
+
+8703.24.90
+
+30
+
+8703.31.10
+
+32
+
+8703.31.10 Ex 02
+
+50
+
+8703.31.90
+
+32
+
+8703.31.90 Ex 02
+
+50
+
+8703.32.10
+
+32
+
+8703.32.10 Ex 04
+
+50
+
+8703.32.10 Ex 05
+
+55
+
+8703.32.90
+
+32
+
+8703.32.90 Ex 04
+
+50
+
+8703.32.90 Ex 05
+
+55
+
+8703.33.10
+
+32
+
+8703.33.10 Ex 04
+
+55
+
+8703.33.90
+
+32
+
+8703.33.90 Ex 04
+
+55
+
+8703.90.00
+
+32
+
+8703.90.00 Ex 05
+
+55
+
+8711.10.00
+
+15
+
+8711.20.10
+
+25
+
+8711.20.20
+
+25
+
+8711.20.90
+
+25
+
+8711.30.00
+
+35
+
+8711.40.00
+
+35
+
+8711.50.00
+
+35
+
+8711.90.00
+
+35
 
 ANEXO II
 
-<table cellspacing="0" cellpadding="0" style="margin-left:27.98pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:258.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Cód. NCM</span></p></td><td style="width:67.15pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota % a partir de 01.01.99</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8702.10.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8702.90.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8702.90.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.21.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.22.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.22.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.23.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.23.10 Ex 05 que passa a ser Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.23.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.23.90 Ex 05 que passa a ser Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.24.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.24.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.31.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.31.10 Ex 02</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.31.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.31.90 Ex 02</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.10 Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.10 Ex 05</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.90 Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.32.90 Ex 05</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.33.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.33.10 Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.33.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.33.90 Ex 04</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.90.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.90.00 Ex 01</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.90.00 Ex 05</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.21.10 Ex 01</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.21.20 Ex 01</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.21.30 Ex 01</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.21.90 Ex 01</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.31.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.31.20</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.31.30</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.31.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.10.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">15</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.20.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.20.20</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.20.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.30.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.40.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.50.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.90.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr></tbody></table>
+Cód. NCM
+
+Alíquota % a partir de 01.01.99
+
+8702.10.00
+
+10
+
+8702.90.10
+
+10
+
+8702.90.90
+
+10
+
+8703.21.00
+
+10
+
+8703.22.10
+
+25
+
+8703.22.90
+
+25
+
+8703.23.10
+
+25
+
+8703.23.10 Ex 05 que passa a ser Ex 04
+
+35
+
+8703.23.90
+
+25
+
+8703.23.90 Ex 05 que passa a ser Ex 04
+
+35
+
+8703.24.10
+
+35
+
+8703.24.90
+
+35
+
+8703.31.10
+
+35
+
+8703.31.10 Ex 02
+
+50
+
+8703.31.90
+
+35
+
+8703.31.90 Ex 02
+
+50
+
+8703.32.10
+
+35
+
+8703.32.10 Ex 04
+
+50
+
+8703.32.10 Ex 05
+
+50
+
+8703.32.90
+
+35
+
+8703.32.90 Ex 04
+
+50
+
+8703.32.90 Ex 05
+
+50
+
+8703.33.10
+
+35
+
+8703.33.10 Ex 04
+
+50
+
+8703.33.90
+
+35
+
+8703.33.90 Ex 04
+
+50
+
+8703.90.00
+
+35
+
+8703.90.00 Ex 01
+
+10
+
+8703.90.00 Ex 05
+
+50
+
+8704.21.10 Ex 01
+
+10
+
+8704.21.20 Ex 01
+
+10
+
+8704.21.30 Ex 01
+
+10
+
+8704.21.90 Ex 01
+
+10
+
+8704.31.10
+
+10
+
+8704.31.20
+
+10
+
+8704.31.30
+
+10
+
+8704.31.90
+
+10
+
+8711.10.00
+
+15
+
+8711.20.10
+
+25
+
+8711.20.20
+
+25
+
+8711.20.90
+
+25
+
+8711.30.00
+
+35
+
+8711.40.00
+
+35
+
+8711.50.00
+
+35
+
+8711.90.00
+
+35
 
 ANEXO III
 
-<table cellspacing="0" cellpadding="0" style="margin-left:27.98pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:258.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Cód. NCM</span></p></td><td style="width:67.15pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ex</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.22.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">02</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.22.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">02</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.23.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">04</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.23.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">04</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.24.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">04</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8703.24.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">04</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.31.10</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">02</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.31.20</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">02</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.31.30</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">02</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8704.31.90</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">02</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8711.10.00</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01</span></p></td></tr></tbody></table>
+Cód. NCM
+
+Ex
+
+8703.22.10
+
+02
+
+8703.22.90
+
+02
+
+8703.23.10
+
+04
+
+8703.23.90
+
+04
+
+8703.24.10
+
+04
+
+8703.24.90
+
+04
+
+8704.31.10
+
+02
+
+8704.31.20
+
+02
+
+8704.31.30
+
+02
+
+8704.31.90
+
+02
+
+8711.10.00
+
+01

@@ -1,5 +1,3 @@
-###DEC-080436-0-000-28-09-1977@@@
-
 DECRETO Nº 80.436, DE 28 DE SETEMBRO DE 1977.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita no Município de Itanhandú, Estado de Minas Gerais.

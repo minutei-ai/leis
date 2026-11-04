@@ -1,5 +1,3 @@
-###DEC-045056-0-000-17-12-1958@@@
-
 DECRETO Nº 45.056, DE 17 DE DEZEMBRO DE 1958.
 
 Concede à sociedade anônima Shell Brazil Limited autorização para continuar a funcionar na República.

@@ -1,5 +1,3 @@
-###DEC-052484-0-000-19-09-1963@@@
-
 Decreto nº 52.484, de 19 de setembro de 1963.
 
 Aprova o Regulamento para a Escola de Guerra Naval.

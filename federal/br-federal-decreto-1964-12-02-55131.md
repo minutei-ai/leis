@@ -1,5 +1,3 @@
-###DEC-055131-0-000-02-12-1964@@@
-
 Decreto nº 55.131, de 2 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Daniel da Fonseca Junior a pesquisar minério de manganês, no município de Jequitaí, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-009556-0-000-08-08-1946@@@
-
 DECRETO-LEI N. 9.556 – DE 8 DE AGÔSTO  DE 1946
 
 Estende aos funcionários, especialmente designados pelo Diretor do Departamento de Abastecimento da Secretaria Geral de Agricultura, Indústria e Comércio, do Prefeitura do Distrito Federal, as atribuições constantes da Decreto-lei nº 9.125, de 4 de Abril de 1946, respeitadas as suas disposições.

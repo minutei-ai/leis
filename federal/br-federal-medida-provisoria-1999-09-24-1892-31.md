@@ -1,5 +1,3 @@
-###MPV-001892-0-031-24-09-1999@@@
-
 MEDIDa PROVISÓRIA Nº 1.892-31, DE 24 DE SETEMBRO DE 1999.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

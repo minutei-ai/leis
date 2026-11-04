@@ -1,5 +1,3 @@
-###DEC-002785-0-000-23-09-1998@@@
-
 DECRETO Nº 2.785, DE 23 DE SETEMBRO DE 1998
 
 Altera dispositivo do Decreto nº 107, de 29 de abril de 1991, que regulamenta, para a Marinha, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

@@ -1,5 +1,3 @@
-###DEL-005866-0-000-30-09-1943@@@
-
 DECRETO‑LEI n. 5.866 – de 30 de sETEMBRO DE 1943
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito especial de  Cr$ 45.000,00 que menciona

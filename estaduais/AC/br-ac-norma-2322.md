@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.807, de 22 de Novembro de 2021.](https://legis.ac.gov
 
 > **LEI Nº 3.161, DE 09 DE AGOSTO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação do sistema de inscrição, cobrança e parcelamento dos créditos de natureza não tributária, inscritos na Dívida Ativa, decorrentes de multa por infração ambiental, alterando Lei n. 1.117, de 26 de janeiro de 1994 e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação do sistema de inscrição, cobrança e parcelamento dos créditos de natureza não tributária, inscritos na Dívida Ativa, decorrentes de multa por infração ambiental, alterando Lei n. 1.117, de 26 de janeiro de 1994 e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

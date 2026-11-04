@@ -1,5 +1,3 @@
-###DEC-064959-0-000-07-08-1969@@@
-
 DECRETO Nº 64.959 - DE 7 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel urbano constituído dos lotes de terrenos ns. 17 e 18, situados em Pati do Alferes, 2º Distrito de Vassouras, Estado do Rio de Janeiro, destinado à instalação de Estação Telefônica da Companhia Telefônica Brasileira.

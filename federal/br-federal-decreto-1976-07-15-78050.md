@@ -1,5 +1,3 @@
-###DEC-078050-0-000-15-07-1976@@@
-
 DECRETO Nº 78.050, DE 15 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Matemática, da Faculdade de Filosofia, Ciências e Letras José Olímpio, com sede na Cidade de Batatais, Estado de São Paulo.

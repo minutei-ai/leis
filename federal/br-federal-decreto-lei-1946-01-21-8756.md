@@ -1,5 +1,3 @@
-###DEL-008756-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.756 – DE 21 DE JANEIRO DE 1946
 
 Prorroga a aplicação do crédito especial aberto pelo Decreto-lei nº 6.876, de 15 de Setembro de 1944.

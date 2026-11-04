@@ -1,7 +1,3 @@
-1
-
-###DEC-000982-0-000-12-11-1993@@@
-
 DECRETO N° 982, DE 12 DE NOVEMBRO DE 1993
 
 Dispõe sobre a comunicação, ao Ministério Público Federal, de crimes de natureza tributária e conexos, relacionados com as atividades de fiscalização e lançamento de tributos e contribuições, e dá outras providências.

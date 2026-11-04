@@ -1,5 +1,3 @@
-###DEC-096149-0-000-10-06-1988@@@
-
 DECRETO N° 96.149, DE 10 DE JUNHO DE 1988
 
 Outorga concessão a RÁDIO METROPOLITANA DE VESPASIANO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Vespasiano, Estado de Minas Gerais.

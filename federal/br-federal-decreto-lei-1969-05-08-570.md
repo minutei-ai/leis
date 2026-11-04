@@ -1,5 +1,3 @@
-###DEL-000570-0-000-08-05-1969@@@
-
 DECRETO-LEI Nº 570, DE 8 DE MAio DE 1969
 
 Institui sob forma de Fundação a Universidade Federal de Viçosa e dá outras providências.

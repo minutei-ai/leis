@@ -6,18 +6,20 @@ Declara de Utilidade Pública Estadual a Associação Recanto do Pequi de Agricu
 
 Publicada no Diário Oficial nº 8.170, de 12 de abril de 2012, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a <i>Associação Recanto do Pequi de Agricultura Familiar do Projeto de Assentamento Alambari (ARPA)</i>, com foro no Município de Sidrolândia-MS.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a *Associação Recanto do Pequi de Agricultura Familiar do Projeto de Assentamento Alambari (ARPA)*, com foro no Município de Sidrolândia-MS.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 11 de abril de 2012.
 
-<br>
-ANDRÉ PUCCINELLI<br>
-Governador do Estado<br>
-<br>
-TANIA MARA GARIB<br>
+ANDRÉ PUCCINELLI
+
+Governador do Estado
+
+TANIA MARA GARIB
+
 Secretária de Estado de Trabalho e Assistência Social

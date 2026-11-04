@@ -1,5 +1,3 @@
-###DEC-073508-0-000-18-01-1974@@@
-
 DECRETO Nº 73.508, DE 18 DE JANEIRO 1974.
 
 Retifica o artigo 1º, do Decreto número 56.555, de julho de 1965, através do qual foi concedido à Mineralurgia Limitada o direito de lavrar minérios de feroo e manganês, no Município de Mariana, Estado de Minas Gerais.

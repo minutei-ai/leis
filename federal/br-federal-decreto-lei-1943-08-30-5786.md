@@ -1,5 +1,3 @@
-###DEL-005786-0-000-30-08-1943@@@
-
 DECRETO‑LEI N. 5.786 – DE 30 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 10.000.000,00, à verba que especifica

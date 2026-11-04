@@ -1,5 +1,3 @@
-###DEC-004342-0-000-23-08-2002@@@
-
 DECRETO Nº 4.342, DE 23 DE AGOSTO DE 2002
 
 Altera dispositivos do Decreto nº 3.931, de 19 de setembro de 2001, que regulamenta o Sistema de Registro de Preços previsto no art. 15 da Lei nº 8.666, de 21 de junho de 1993, e dá outras providências.

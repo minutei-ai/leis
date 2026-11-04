@@ -1,5 +1,3 @@
-###DEC-052948-0-000-26-11-1963@@@
-
 DECRETO Nº 52.948, DE 26 DE NOVEMBRO DE 1963.
 
 Revoga o art. 3º do Decreto nº 166, de 17 de novembro de 1961.

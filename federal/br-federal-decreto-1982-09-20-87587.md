@@ -1,5 +1,3 @@
-###DEC-087587-0-000-20-09-1982@@@
-
 Decreto nº 87.587, de 20 de setembro de 1982
 
 Cria, no Estado de Rondônia, a Reserva Biológica do Guaporé.

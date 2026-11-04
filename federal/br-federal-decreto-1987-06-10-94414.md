@@ -1,5 +1,3 @@
-###DEC-094414-0-000-10-06-1987@@@
-
 DECRETO Nº 94.414, DE 10 DE JUNHO DE 1987
 
 Renova a concessão outorgada à FUNDAÇÃO CULTURAL PLANALTO DE PASSO FUNDO, para explorar serviço de radiodifusão sonora em onda média na cidade de Passo Fundo, Estado do Rio Grande do Sul.

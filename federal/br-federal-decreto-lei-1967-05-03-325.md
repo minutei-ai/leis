@@ -1,5 +1,3 @@
-###DEL-000325-0-000-03-05-1967@@@
-
 decreto-lei Nº 325, DE 3 dE MAIO DE 1967
 
 Dispõe sôbre os recursos da arrecadação da Taxa de Renovação da Marinha Mercante e do Fundo de Marinha Mercante.

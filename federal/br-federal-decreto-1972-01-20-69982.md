@@ -1,5 +1,3 @@
-###DEC-069982-0-000-20-01-1972@@@
-
 DECRETO Nº 69.982, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Sociedade Beneficente de Nossa Senhora das Dores, com sede em Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-089617-0-000-04-05-1984@@@
-
 DecretO nº 89.617, de 04 dE maio de 1984
 
 Autoriza o funcionamento do curso de Ciência da Computação da Fundação Educacional de Bauru, Estado de São Paulo.

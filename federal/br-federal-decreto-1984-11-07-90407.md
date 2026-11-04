@@ -1,5 +1,3 @@
-###DEC-090407-0-000-07-11-1984@@@
-
 DECRETO Nº 90.407, DE 07 DE NOVEMBRO DE 1984.
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Faculdade Canoense de Enfermagem.

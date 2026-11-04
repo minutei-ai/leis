@@ -1,5 +1,3 @@
-###DEC-065261-0-000-01-10-1969@@@
-
 DECRETO Nº 65.261 - DE 1 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Valinhos, com sede em Valinhos, Estado de São Paulo.

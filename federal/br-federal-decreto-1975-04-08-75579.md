@@ -1,5 +1,3 @@
-###DEC-075579-0-000-08-04-1975@@@
-
 DECRETO Nº 75.579, DE 8 DE ABRIL DE 1975.
 
 Autoriza o funcionamento dos cursos de Serviço Social e de Estudos Sociais da Faculdade de Ciências Humanas e Sociais, mantida pela Fundação de Cultura Espírita "Paraná Santa Catarina", com sede na Cidade de Curitiba, Estado do Paraná.

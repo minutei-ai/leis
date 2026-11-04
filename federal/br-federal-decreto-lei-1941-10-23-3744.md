@@ -1,5 +1,3 @@
-###DEL-003744-0-000-23-10-1941@@@
-
 DECRETO-LEI N. 3.744 – DE 23 DE OUTUBRO DE 1941
 
 Autoriza ao prefeito do Distrito Federal realizar a permuta dos terrenos que menciona

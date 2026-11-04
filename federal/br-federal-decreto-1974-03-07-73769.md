@@ -1,5 +1,3 @@
-###DEC-073769-0-000-07-03-1974@@@
-
 DECRETO Nº 73.769, DE 7 DE MARÇO DE 1974.
 
 Redistribui cargos com respectivos ocupantes, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001741-0-000-08-12-1995@@@
-
 DECRETO Nº 1.741, DE 8 DEZEMBRO DE 1995.
 
 Dispõe sobre a organização e o funcionamento da Câmara de Políticas Regionais.

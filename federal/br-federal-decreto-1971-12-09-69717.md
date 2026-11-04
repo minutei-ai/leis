@@ -1,5 +1,3 @@
-###DEC-069717-0-000-09-12-1971@@@
-
 decreto nº 69.717 - de 9 DE DEZEMBRO de 1971
 
 Redistribui, com a respectiva ocupante, cargo do Ministério da Agricultura para o Instituto Nacional de Colonização e Reforma Agrária, e dá outras providências.

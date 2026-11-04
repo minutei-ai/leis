@@ -1,5 +1,3 @@
-###DEC-050420-0-000-07-04-1961@@@
-
 DECRETO Nº 50.420, DE 7 DE ABRIL DE 1961.
 
 Dá redação nova ao Decreto nº 45.660, de 30 de março de 1959 e dá outras providências.

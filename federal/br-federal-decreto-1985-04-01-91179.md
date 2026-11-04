@@ -1,5 +1,3 @@
-###DEC-091179-0-000-01-04-1985@@@
-
 Decreto nº 91.179, de 1º de abril de 1985.
 
 Dispõe sobre a definição da estratégia de desenvolvimento rural para pequenos produtores, e a criação do Programa de Apoio ao Pequeno Produtor Rural, no âmbito do programa de Desenvolvimento da Região Nordeste - Projeto Nordeste.

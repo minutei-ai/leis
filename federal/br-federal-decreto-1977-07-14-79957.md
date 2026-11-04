@@ -1,5 +1,3 @@
-###DEC-079957-0-000-14-07-1977@@@
-
 ### DECRETO Nº 79.957, DE 14 DE JULHO DE 1977
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Brasileira de Energia Elétrica, no Estado do Rio de Janeiro.

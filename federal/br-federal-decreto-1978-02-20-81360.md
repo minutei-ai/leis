@@ -1,5 +1,3 @@
-###DEC-081360-0-000-20-02-1978@@@
-
 Decreto nº 81.360, de 20 de fevereiro de 1978.
 
 Concede à Mineração de Feldspato Andradense Ltda. o direito de lavrar argila no Município de Andradas, Estado de Minas Gerais.

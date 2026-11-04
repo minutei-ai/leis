@@ -1,5 +1,3 @@
-###DEC-062078-0-000-08-01-1968@@@
-
 Decreto nº 62.078, de 8 de janeiro de 1968.
 
 Autoriza o cidadão brasileiro José Capistrano de Souza a lavrar quartzito no município de Baependi, Estado de Minas Gerais.

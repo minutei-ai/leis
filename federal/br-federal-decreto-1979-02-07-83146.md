@@ -1,5 +1,3 @@
-###DEC-083146-0-000-07-02-1979@@@
-
 DECRETO Nº 83.146, DE 07 DE FEVEREIRO DE 1979
 
 Altera dispositivos do Decreto nº 60.521, de 31 de março de 1967, que estabelece a Estrutura Básica do Ministério da Aeronáutica.

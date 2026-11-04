@@ -1,5 +1,3 @@
-###DEC-048748-0-000-11-08-1960@@@
-
 DECRETO Nº 48.748, DE 11 DE AGôSTO DE 1960.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, o domínio útil dos terrenos de marinha que menciona, no Estado do Rio de Janeiro.

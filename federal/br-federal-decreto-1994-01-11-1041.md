@@ -1,5 +1,3 @@
-###DEC-001041-0-000-11-01-1994@@@
-
 DECRETO N° 1.041, DE 11 DE JANEIRO DE 1994
 
 Aprova o regulamento para a cobrança e fiscalização do imposto sobre a Renda e Proventos de Qualquer Natureza.
@@ -1366,13 +1364,29 @@ Apuração Anual do Imposto
 
 Art. 94. O imposto progressivo será calculado de acordo com a seguinte tabela (Lei n° 8.383/91, art. 16):
 
-<table>
-<tr><td>Base de Cálculo (Em Ufir)</td><td>Parcela a deduzir da Base de Cálculo (Em Ufir)</td><td>Alíquota %</td></tr>
-<tr><td>Até 12.000</td><td></td><td>isento</td></tr>
-<tr><td>Acima de 12.000 até</td><td></td><td></td></tr>
-<tr><td>23.400</td><td>12.000</td><td>15</td></tr>
-<tr><td>Acima de 23.400</td><td>16.500</td><td>25</td></tr>
-</table>
+Base de Cálculo (Em Ufir)
+
+Parcela a deduzir da Base de Cálculo (Em Ufir)
+
+Alíquota %
+
+Até 12.000
+
+isento
+
+Acima de 12.000 até
+
+23.400
+
+12.000
+
+15
+
+Acima de 23.400
+
+16.500
+
+25
 
 Art. 95. Do imposto apurado na forma do artigo anterior poderão ser deduzidos (Lei n° 8.383/91, art. 15):
 
@@ -1616,12 +1630,29 @@ Apuração do Imposto
 
 Art. 117. O Imposto de Renda incidente sobre os rendimentos de que trata este Título será calculado de acordo com a seguinte tabela progressiva (Lei n° 8.383/91, art. 5°):
 
-<table>
-<tr><td>Base de Cálculo Mensal (em Ufir)</td><td>Parcela a Deduzir da Base de Cálculo (em Ufir)</td><td>Alíquota %</td></tr>
-<tr><td>Até 1.000</td><td>-</td><td>isento</td></tr>
-<tr><td>Acima de 1.000 até 1.950</td><td>1.000</td><td>15</td></tr>
-<tr><td>Acima de 1.950</td><td>1.380</td><td>25</td></tr>
-</table>
+Base de Cálculo Mensal (em Ufir)
+
+Parcela a Deduzir da Base de Cálculo (em Ufir)
+
+Alíquota %
+
+Até 1.000
+
+-
+
+isento
+
+Acima de 1.000 até 1.950
+
+1.000
+
+15
+
+Acima de 1.950
+
+1.380
+
+25
 
 § 1° O valor do imposto apurado em Ufir será considerado até a segunda casa decimal, desprezando-se as demais.
 
@@ -4303,7 +4334,7 @@ Art. 381. Terá o tratamento de permuta a entrega, pelo licitante, vencedor, de 
 
 § 3° Quando se configurar, na aquisição, investimento relevante em coligada ou controlada, avaliáveis pelo valor do patrimônio líquido, a adquirente deverá registrar o valor da equivalência no patrimônio adquirido, em conta própria de investimentos, e o valor do ágio ou deságio na aquisição em subconta do mesmo investimento, que deverá ser computado na determinação do lucro real do período-base de realização do investimento, a qualquer título (Lei n° 8.383/91, art. 65, § 4°).
 
-<br> 
+ 
 
 Seção II
 
@@ -6753,12 +6784,29 @@ Incidência
 
 Art. 629. Os rendimentos de que trata este capítulo estão sujeitos à incidência do imposto na fonte, mediante aplicação de alíquotas progressivas, de acordo com a seguinte tabela (Leis n°s 7.713/88, art. 7°, e 8.383/91, art. 5°),
 
-<table>
-<tr><td>Base de Cálculo Mensal (em Ufir)</td><td>Parcela a Deduzir da Base de Cálculo (em Ufir)</td><td>Alíquota %</td></tr>
-<tr><td>Até 1.000</td><td>-</td><td>isento</td></tr>
-<tr><td>Acima de 1.000 até 1.950</td><td>1.000</td><td>15</td></tr>
-<tr><td>Acima de 1.950</td><td>1.380</td><td>25</td></tr>
-</table>
+Base de Cálculo Mensal (em Ufir)
+
+Parcela a Deduzir da Base de Cálculo (em Ufir)
+
+Alíquota %
+
+Até 1.000
+
+-
+
+isento
+
+Acima de 1.000 até 1.950
+
+1.000
+
+15
+
+Acima de 1.950
+
+1.380
+
+25
 
 § 1° O imposto será calculado sobre os rendimentos efetivamente pagos em cada mês, observado o disposto no art. 39 (Lei n° 8.383/91, art. 5°, parágrafo único).
 
@@ -6826,13 +6874,25 @@ Art. 634. O cálculo do imposto na fonte relativo a férias de empregados será 
 
 Art. 635. As pessoas físicas domiciliadas no Brasil que recebam rendimentos de trabalho assalariado, em moeda estrangeira, de autarquias ou repartições do governo brasileiro , situadas no exterior, sofrerão desconto do imposto na fonte, mediante a aplicação das seguintes alíquotas progressivas sobre o rendimento bruto auferido (Decreto-Lei n° 1.380/74, art. 8°, e Lei n°. 7.713/88, art. 27):
 
-<table>
-<tr><td>Classe de Rendimento Bruto US$$ 1.00</td><td>Alíquota %</td></tr>
-<tr><td>Até 600</td><td>Isento</td></tr>
-<tr><td>De 601 a 1.500</td><td>3</td></tr>
-<tr><td>De 1.501 a 3.000</td><td>5</td></tr>
-<tr><td>Acima de 3.000</td><td>8</td></tr>
-</table>
+Classe de Rendimento Bruto US$$ 1.00
+
+Alíquota %
+
+Até 600
+
+Isento
+
+De 601 a 1.500
+
+3
+
+De 1.501 a 3.000
+
+5
+
+Acima de 3.000
+
+8
 
 § 1° O imposto a que se refere este artigo incide também sobre os rendimentos do trabalho assalariado pagos em moeda estrangeira por autarquias e repartições do governo brasileiro, situadas no Brasil a beneficiários aqui domiciliados, ausentes no exterior, a serviço do País.
 
@@ -8136,12 +8196,21 @@ Art. 770. As normas previstas nesta subseção abrangem as operações compreend
 
 Art. 771. O imposto na fonte sobre dividendos e bonificações em dinheiro, distribuídos pelas sociedades de investimento de que trata o artigo 49 da Lei n° 4.728, de 1965, a acionista residente ou domiciliado no exterior, produzidos por investimentos ingressados no País até 29 de dezembro de 1982 e mantidos integralmente no País pelos prazos abaixo, contados da data do respectivo registro do investimento inicial, será devido, após completado o sexto ano de permanência do investimento, sem que tenha havido qualquer retorno do investimento, de acordo com a seguinte tabela (Decreto-Lei n° 1.986/82, art. 3°, e Lei n° 8.383/91, art. 34):
 
-<table>
-<tr><td>Prazo de Permanência</td><td>Alíquota</td></tr>
-<tr><td>Acima de 6 até 7 anos</td><td>12%</td></tr>
-<tr><td>Acima de 7 até 8 anos</td><td>10%</td></tr>
-<tr><td>Acima de 8 anos</td><td>8%</td></tr>
-</table>
+Prazo de Permanência
+
+Alíquota
+
+Acima de 6 até 7 anos
+
+12%
+
+Acima de 7 até 8 anos
+
+10%
+
+Acima de 8 anos
+
+8%
 
 Subseção IV
 
@@ -8597,19 +8666,93 @@ c) o ganho de capital será obtido aplicando-se o percentual encontrado, conform
 
 Art. 813. Na alienação de imóvel adquirido até 31 de dezembro de 1988, poderá ser aplicado um percentual fixo de redução sobre o ganho de capital apurado, segundo o ano de aquisição ou incorporação do bem, de acordo com a seguinte tabela (Lei n° 7.713/88, art. 18);
 
-<table>
-<tr><td>Ano de Aquisição ou Incorporação</td><td>Percentual</td><td>Ano de Aquisição ou Incorporação</td><td>Percentual</td></tr>
-<tr><td>1969</td><td>100%</td><td>1979</td><td>50%</td></tr>
-<tr><td>1970</td><td>95%</td><td>1980</td><td>45%</td></tr>
-<tr><td>1971</td><td>90%</td><td>1981</td><td>40%</td></tr>
-<tr><td>1972</td><td>85%</td><td>1982</td><td>35%</td></tr>
-<tr><td>1973</td><td>80%</td><td>1983</td><td>30%</td></tr>
-<tr><td>1974</td><td>75%</td><td>1984</td><td>25%</td></tr>
-<tr><td>1975</td><td>70%</td><td>1985</td><td>20%</td></tr>
-<tr><td>1976</td><td>65%</td><td>1986</td><td>15%</td></tr>
-<tr><td>1977</td><td>60%</td><td>1987</td><td>10%</td></tr>
-<tr><td>1978</td><td>55%</td><td>1988</td><td>5%</td></tr>
-</table>
+Ano de Aquisição ou Incorporação
+
+Percentual
+
+Ano de Aquisição ou Incorporação
+
+Percentual
+
+1969
+
+100%
+
+1979
+
+50%
+
+1970
+
+95%
+
+1980
+
+45%
+
+1971
+
+90%
+
+1981
+
+40%
+
+1972
+
+85%
+
+1982
+
+35%
+
+1973
+
+80%
+
+1983
+
+30%
+
+1974
+
+75%
+
+1984
+
+25%
+
+1975
+
+70%
+
+1985
+
+20%
+
+1976
+
+65%
+
+1986
+
+15%
+
+1977
+
+60%
+
+1987
+
+10%
+
+1978
+
+55%
+
+1988
+
+5%
 
 § 1° Não haverá redução, relativamente aos imóveis adquiridos a partir de 1° de janeiro de 1989 (Lei n° 7.713/88, art. 18, parágrafo único).
 

@@ -1,22 +1,20 @@
-###DEC-025067-0-000-07-06-1948@@@
+**DECRETO Nº 25.067, DE 7 DE JUNHO DE 1948.**
 
-<strong>DECRETO Nº 25.067, DE 7 DE JUNHO DE 1948.</strong>
+***Concede à “American Bureau of Shipping” autorização para funcionar na República.***
 
-<em><strong>Concede à “American Bureau of Shipping” autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade anônima *“American Bureau of Shipping”*,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade anônima <em>“American Bureau of Shipping”</em>,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único. É concedida à sociedade anônima “<em>American Bureau of Shipping</em>”, com sede na cidade de Nova York, Estados Unidos da América, autorização para funcionar na República, com os estatutos que apresentou e com o capital de Cr$20.000,00 (vinte mil cruzeiros) destinado às suas operações no Brasil, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
+Artigo único. É concedida à sociedade anônima “*American Bureau of Shipping*”, com sede na cidade de Nova York, Estados Unidos da América, autorização para funcionar na República, com os estatutos que apresentou e com o capital de Cr$20.000,00 (vinte mil cruzeiros) destinado às suas operações no Brasil, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 7 de junho de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 25.067, DESTA DATA.</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 25.067, DESTA DATA.**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada penha e
 
 Rio de Janeiro, 7 de junho de 1948
 
-<strong>MORVAN FIGUEIREDO</strong>
+**MORVAN FIGUEIREDO**

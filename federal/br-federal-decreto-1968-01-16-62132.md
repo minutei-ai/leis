@@ -1,5 +1,3 @@
-###DEC-062132-0-000-16-01-1968@@@
-
 DECRETO Nº 62.132, DE 16 DE JANEIRO DE 1968.
 
 Considera “Serviço Nacional Relevante” a missão atribuída ao Destacamento Brasileiro e as funções exercidas por militares das Fôrças Armadas Brasileiras que integraram a Fôrça Interamericana de Paz, na República Dominicana.

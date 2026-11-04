@@ -1,5 +1,3 @@
-###DEC-088041-0-000-19-01-1983@@@
-
 Decreto nº 88.041, de 19 de janeiro de 1983
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

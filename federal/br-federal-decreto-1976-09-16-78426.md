@@ -1,5 +1,3 @@
-###DEC-078426-0-000-16-09-1976@@@
-
 decreto nº 78.426, de 16 de setembro de 1976.
 
 Concede reconhecimento aos cursos de Artes Práticas, de Ciências e de Estudos Sociais ministrados pela Universidade Federal do Rio Grande do Sul, no campus avançado de Porto Velho, Rondônia.

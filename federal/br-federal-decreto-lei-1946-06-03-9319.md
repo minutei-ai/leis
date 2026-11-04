@@ -1,5 +1,3 @@
-###DEL-009319-0-000-03-06-1946@@@
-
 DECRETO-LEI N. 9.319 – DE 3 DE JUNHO DE 1946
 
  Revoga o Decreto-lei nº 8.865, de Janeiro de 1946

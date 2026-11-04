@@ -1,5 +1,3 @@
-###DEC-057554-0-000-29-12-1965@@@
-
 DECRETO Nº 57.554, DE 29 DE DEZEMBRO DE 1965.
 
 Abre ao Ministério da Educação e Cultura, o crédito especial de Cr$24.804.500 (vinte e quatro milhões, oitocentos e quatro mil e quinhentos cruzeiros) para atender às despesas com a desapropriação, pela União, do imóvel situado na Praia do Flamengo, 130-132, no Estado da Guanabara e que se destina a abrigar a Campanha de Assistência ao Estudante.

@@ -1,5 +1,3 @@
-###DEC-092529-0-000-09-04-1986@@@
-
 DECRETO Nº 92.529, DE 9 DE ABRIL DE 1986
 
 Autoriza a ACESITA ENERGÉTICA S.A. a proceder ao aumento do seu capital social.

@@ -1,5 +1,3 @@
-###DEC-003418-0-000-19-04-2000@@@
-
 DECRETO Nº 3.418, DE 19 DE ABRIL DE 2000.
 
 Promulga o Protocolo sobre o Texto Quadrilingue Autêntico da Convenção sobre Aviação Civil Internacional, concluído em Montreal, em 30 de setembro de 1977.

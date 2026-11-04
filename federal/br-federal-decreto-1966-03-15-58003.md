@@ -1,5 +1,3 @@
-###DEC-058003-0-000-15-03-1966@@@
-
 DECRETO Nº 58.003, DE 15 DE MARÇO DE 1966.
 
 Concede à Mineração Espírito Santo Ltda. autorização para funcionar como emprêsa de mineração.

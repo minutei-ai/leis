@@ -1,7 +1,3 @@
-1
-
-###DEC-000381-0-000-24-12-1991@@@
-
 DECRETO Nº 381, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Camicuã, no Estado do Amazonas.

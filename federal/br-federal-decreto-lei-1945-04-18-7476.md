@@ -1,5 +1,3 @@
-###DEL-007476-0-000-18-04-1945@@@
-
 DECRETO-LEI N. 7.476 – DE 18 DE ABRIL DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 27.900,00, para pagamento de indenizações decorrentes de desapropriação de terrenos no Território Nacional do Iguaçu

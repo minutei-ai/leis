@@ -1,5 +1,3 @@
-###DEC-059612-0-000-30-11-1966@@@
-
 DECRETO Nº 59.612, DE 30 DE NOVEMBRO DE 1966.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, a fração ideal de 75/10.000 do terreno de marinha que menciona, no Estado da Guanabara.

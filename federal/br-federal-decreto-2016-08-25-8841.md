@@ -56,5 +56,6 @@ Dyogo Henrique de Oliveira
 
 José Sarney Filho
 
-<<ANEXOS>><br>
+<<ANEXOS>>
+
 <<TABELAS>>

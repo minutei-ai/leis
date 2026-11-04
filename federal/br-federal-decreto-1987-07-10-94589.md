@@ -1,5 +1,3 @@
-###DEC-094589-0-000-10-07-1987@@@
-
 DECRETO N° 94.589, DE 10 DE JULHO DE 1987
 
 Autoriza a Casa da Moeda do Brasil - CMB a proceder ao aumento de seu capital social.

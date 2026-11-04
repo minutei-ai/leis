@@ -1,5 +1,3 @@
-###DEL-001988-0-000-28-12-1982@@@
-
 # Decreto-lei nº 1.988, DE 28 dE dezembro de 1982
 
 Altera legislação do Imposto sobre Produtos Industrializados.

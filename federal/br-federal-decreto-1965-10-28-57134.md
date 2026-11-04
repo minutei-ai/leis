@@ -1,5 +1,3 @@
-###DEC-057134-0-000-28-10-1965@@@
-
 DECRETO Nº 57.134, de 28 de outubro de 1965.
 
 Extingue as Escolas de Artilharia de Costa e de Defesa Antiaérea e cria a Escola de Defesa Antiaérea e Costa.

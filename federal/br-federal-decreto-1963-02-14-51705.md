@@ -1,5 +1,3 @@
-###DEC-051705-0-000-14-02-1963@@@
-
 Decreto Nº 51.705, DE 14 DE FEVEREIRO DE 1963.
 
 Dispõe sôbre o escôpo da reforma dos serviços públicos federais e as atribuições do Ministro Extraordinário para a Reforma Administrativa.

@@ -1,5 +1,3 @@
-###DEC-092775-0-000-12-06-1986@@@
-
 DECRETO Nº 92.775, DE 12 DE JUNHO DE 1986
 
 Renova a concessão outorgada à FUNDAÇÃO EMISSORA RURAL A VOZ DE SÃO FRANCISCO, para explorar serviço de radiodifusão sonora em onda média, na cidade de Petrolina, Estado de Pernambuco.

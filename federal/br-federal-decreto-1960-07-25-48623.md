@@ -1,5 +1,3 @@
-###DEC-048623-0-000-25-07-1960@@@
-
 DECRETO Nº 48.623, DE 25 DE JULHO DE 1960.
 
 Renova o Decreto nº 42.713, de 29 de novembro de 1957.

@@ -1,5 +1,3 @@
-###DEC-089404-0-000-24-02-1984@@@
-
 Decreto nº 89.404, de 24 de fevereiro de 1984
 
 Constitui Reserva Nacional de cobre e seus associados a área que menciona, no Estado do Pará e no Território Federal do Amapá, e dá outras providências.

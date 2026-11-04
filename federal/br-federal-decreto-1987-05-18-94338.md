@@ -1,5 +1,3 @@
-###DEC-094338-0-000-18-05-1987@@@
-
 DECRETO Nº 94.338, DE 18 DE MAIO DE 1987.
 
 Regulamenta o art. 4º do Decreto-lei nº 2.318, de 30 de dezembro de 1986, que dispõe sobre a iniciação ao trabalho do menor assistido e institui o Programa do Bom Menino.

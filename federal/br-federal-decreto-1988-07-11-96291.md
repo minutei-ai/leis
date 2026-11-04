@@ -1,5 +1,3 @@
-###DEC-096291-0-000-11-07-1988@@@
-
 DECRETO N° 96.291, DE 11 DE JULHO DE 1988
 
 Altera o Regulamento dos Serviços Especiais de Repetição e de Retransmissão de Televisão, aprovado pelo Decreto n° 81.600, de 25 de abril de 1978, modificado pelos Decretos n° 84.064, de 8 de outubro de 1979, e n° 87.074, de 31 de março de l982.

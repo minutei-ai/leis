@@ -1,5 +1,3 @@
-###DEC-072379-0-000-19-06-1973@@@
-
 DECRETO Nº 72.379, DE 19 DE JUNHO DE 1973
 
 Autoriza a cessão, sob o regime de aforamento, ao Município de Rio Grande, Estado do Rio Grande Sul, dos terrenos que menciona.

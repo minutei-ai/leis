@@ -1,5 +1,3 @@
-###DEL-009460-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.460 – DE 15 DE JULHO DE 1946
 
 Altera a redação do art. 8º da Lei nº 192, de 17 de Janeiro de 1936.

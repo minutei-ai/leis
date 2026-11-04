@@ -1,5 +1,3 @@
-###DEC-083434-0-000-09-05-1979@@@
-
 decreto nº 83.434, de 09 de maio de 1979.
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Filosofia, Ciências e Letras, de Ijuí, Rio Grande Do Sul.

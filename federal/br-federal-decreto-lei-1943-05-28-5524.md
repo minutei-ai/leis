@@ -1,5 +1,3 @@
-###DEL-005524-0-000-28-05-1943@@@
-
 DECRETO‑LEI N. 5.524 – DE  28 DE MAIO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 24.415,60 para a construção de um muro

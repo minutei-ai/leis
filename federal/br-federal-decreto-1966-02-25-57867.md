@@ -1,5 +1,3 @@
-###DEC-057867-0-000-25-02-1966@@@
-
 Decreto nº 57.867, de 25 de fevereiro de 1966.
 
 Autoriza Apolônio Bouret de Mello, a comprar pedras preciosas.

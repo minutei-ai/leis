@@ -1,5 +1,3 @@
-###DEC-060204-0-000-10-02-1967@@@
-
 DECRETO Nº 60.204, DE 10 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública a “Casa da Empregada Doméstica”, com sede em Niterói, Estado do Rio de Janeiro.

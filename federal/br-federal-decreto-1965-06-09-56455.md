@@ -1,5 +1,3 @@
-###DEC-056455-0-000-09-06-1965@@@
-
 DECRETO Nº 56.455, DE 9 DE JUNHO DE 1965.
 
 Autoriza Carmonita Ltda. a pesquisar argila, no município de Carmo do Paranaiba, no Estado de Minas Gerais.

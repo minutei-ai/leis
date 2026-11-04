@@ -1,38 +1,36 @@
-###DEC-058809-0-000-13-07-1966@@@
+**DECRETO Nº 58.809, DE 13 DE JULHO DE 1966.**
 
-<strong>DECRETO Nº 58.809, DE 13 DE JULHO DE 1966.</strong>
+***Cria a Confederação Brasileira de Culturismo.***
 
-<em><strong>Cria a Confederação Brasileira de Culturismo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, nº I, da Constituição Federal e nos têrmos do art. 16, § 3º do Decreto-lei nº 3.199, de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, nº I, da Constituição Federal e nos têrmos do art. 16, § 3º do Decreto-lei nº 3.199, de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica criada a Confederação Brasileira de Culturismo, cujos estatutos, aprovados pelo Conselho Nacional de Desportos, com êste baixam.
 
-<strong>Art</strong>. 1º Fica criada a Confederação Brasileira de Culturismo, cujos estatutos, aprovados pelo Conselho Nacional de Desportos, com êste baixam.
-
-<strong>Art</strong>. 2º Êste decreto entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Brasília, 13 de julho de 1966; 145º da Independência e 78º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Raymundo Moniz de Aragão
 
-<strong>ESTATUTO DA CONFEDERAÇÃO BRASILEIRA DE CULTURISMO</strong>
+**ESTATUTO DA CONFEDERAÇÃO BRASILEIRA DE CULTURISMO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Confederação e seus fins</em>
+*Da Confederação e seus fins*
 
-<strong>Art</strong>. 1º A Confederação Brasileira de Culturismo, neste Estatuto designada pela sigla CBC, filiada à Fedération Internationale Haltèrophile et Culturiste, dirigente internacional de culturismo, é uma sociedade civil, fundada em 2 de outubro de 1963, na cidade de São Paulo, Capital do Estado de São Paulo, da República dos Estados Unidos do Brasil, é constituída por tôdas as federações filiadas, que no território brasileiro dirijam ou venham a dirigir o culturismo, de fato e eficientemente.
+**Art**. 1º A Confederação Brasileira de Culturismo, neste Estatuto designada pela sigla CBC, filiada à Fedération Internationale Haltèrophile et Culturiste, dirigente internacional de culturismo, é uma sociedade civil, fundada em 2 de outubro de 1963, na cidade de São Paulo, Capital do Estado de São Paulo, da República dos Estados Unidos do Brasil, é constituída por tôdas as federações filiadas, que no território brasileiro dirijam ou venham a dirigir o culturismo, de fato e eficientemente.
 
 Parágrafo único. Vincular-se-ão à entidade, as classistas em todo o território nacional. As entidades estaduais que fundaram a CBC são as seguintes: Federação Paulista de Culturismo, Federação Desportiva Paranaense, Federação Paraibana de Halterofilismo e Federação Baiana de Halterofilismo. Serão ainda consideradas fundadoras as Federações que se filiarem à CBC dentro do seu primeiro ano de existência.
 
-<strong>Art</strong>. 2º A CBC terá sua sede na Cidade de São Paulo, sendo ai seu fôro, e sua, duração será de prazo limitado.
+**Art**. 2º A CBC terá sua sede na Cidade de São Paulo, sendo ai seu fôro, e sua, duração será de prazo limitado.
 
-<strong>Art</strong>. 3º A personalidade jurídica da CBC é distinta das Federações e entidades classistas que a compõe.
+**Art**. 3º A personalidade jurídica da CBC é distinta das Federações e entidades classistas que a compõe.
 
-<strong>Art</strong>. 4º A CBC tem por fim:
+**Art**. 4º A CBC tem por fim:
 
 a) difundir o culturismo em todo o território nacional, lutando pelo progresso de tôdas as entidades filiadas;
 
@@ -54,7 +52,7 @@ i) fiscalizar com o máximo rigor, através de suas filiadas, o funcionamento do
 
 j) os demais assuntos atinentes à sua função e existência.
 
-<strong>Art</strong>. 5º A CBC só intervirá numa filiada:
+**Art**. 5º A CBC só intervirá numa filiada:
 
 a) para manter a ordem despostiva e o respeito aos próprios podêres ou inerentes aos órgãos desportivos de hierarquia superior;
 
@@ -64,11 +62,11 @@ c) para fazer cumprir as deliberações e demais atos do Conselho Nacional de De
 
 Parágrafo único. A CBC substituíra o regime de intervenção pela suspensão de todos os direitos ou pela desfiliação da entidade infratora.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Dos podêres</em>
+*Dos podêres*
 
-<strong>Art</strong>. 6º São podêres da CBC:
+**Art**. 6º São podêres da CBC:
 
 a) a Assembléia Geral;
 
@@ -84,15 +82,15 @@ e) a Diretoria.
 
 § 2º Os mandatos dos membros aos podêres da CBC só poderão ser exercidos por pessoas que satisfaçam as condições de amadorismo no desporto, que não estejam cumprindo penalidade imposta pela Confederação ou entidade superior e que não sejam funcionários da mesma, de federações e liga ou associações vinculadas a Confederação.
 
-<strong>Art</strong>. 7º Sempre que ocorrer vaga de membro eleito para os podêres da CBC, o seu substituto completará o tempo restante do mandato, exceto o previsto no artigo.
+**Art**. 7º Sempre que ocorrer vaga de membro eleito para os podêres da CBC, o seu substituto completará o tempo restante do mandato, exceto o previsto no artigo.
 
-<strong>Art</strong>. 8º Compete à Assembléia Geral e ao Superior Tribunal de Justiça Desportiva, a elaboração dos regulamentos respectivos.
+**Art**. 8º Compete à Assembléia Geral e ao Superior Tribunal de Justiça Desportiva, a elaboração dos regulamentos respectivos.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da assembléia geral</em>
+*Da assembléia geral*
 
-<strong>Art</strong>. 9º A Assembléia Geral, poder máximo da CBC, é constituída por um representante de cada Federação, com direito a um voto cada um.
+**Art**. 9º A Assembléia Geral, poder máximo da CBC, é constituída por um representante de cada Federação, com direito a um voto cada um.
 
 § 1º Só poderão tomar parte nas Assembléias Gerais as Federações que estejam em pleno gôzo dos seus direitos e que tenham participado de Campeonato Brasileiro realizado nos dois anos anteriores;
 
@@ -102,7 +100,7 @@ e) a Diretoria.
 
 § 4º É vedado a qualquer dirigente de uma filiada representar na Assembléia, uma entidade que não seja aquela a que esteja vinculado, pelo cargo que exerce.
 
-<strong>Art</strong>. 10. Compete à Assembléia Geral:
+**Art**. 10. Compete à Assembléia Geral:
 
 a) reunir-se ordinàriamente, na segunda quizena de janeiro de cada ano, para conhecer e julgar o relatório da Diretoria do ano anterior e o parecer do Conselho Fiscal, sôbre as contas do último exercício;
 
@@ -126,7 +124,7 @@ g) autorizar ou não a aquisição de títulos de rendas ou de imóveis, bem com
 
 h) praticar outros atos de sua alçada, definidos nas leis despostivas ou não, do País.
 
-<strong>Art</strong>. 11. A Assembléia Geral, reunir-se-á extraordinàriamente:
+**Art**. 11. A Assembléia Geral, reunir-se-á extraordinàriamente:
 
 a) quando convocada pelo Presidente da CBC;
 
@@ -136,25 +134,25 @@ c) para proceder a eleições conseqüentes de vaga em qualquer Poder da CBC;
 
 d) para adaptar êste Estatuto à exigência de lei pública.
 
-<strong>Art</strong>. 12. As finalidades e a data da reunião de cada Assembléia serão comunicadas às filiadas, por intermédio de comunicação oficial da Diretoria da CBC e publicada em jornal de grande circulação, com a antecedência mínima de quinze dias.
+**Art**. 12. As finalidades e a data da reunião de cada Assembléia serão comunicadas às filiadas, por intermédio de comunicação oficial da Diretoria da CBC e publicada em jornal de grande circulação, com a antecedência mínima de quinze dias.
 
-<strong>Art</strong>. 13. As Assembléias Gerais se instalarão, em primeira convocação, com a presença mínima da maioria dos seus componentes e, em Segunda convocação, uma hora depois, com qualquer número.
+**Art**. 13. As Assembléias Gerais se instalarão, em primeira convocação, com a presença mínima da maioria dos seus componentes e, em Segunda convocação, uma hora depois, com qualquer número.
 
-<strong>Art</strong>. 14. Tôdas as deliberações da Assembléia Geral serão tomadas por maioria de votos, excetuados os casos previstos nas letras <em>d</em> e <em>f</em> do art. 10.
+**Art**. 14. Tôdas as deliberações da Assembléia Geral serão tomadas por maioria de votos, excetuados os casos previstos nas letras *d* e *f* do art. 10.
 
-<strong>Art</strong>. 15. A Assembléia Geral só poderá deliberar sôbre os assuntos constantes nos respectivos editais de convocação.
+**Art**. 15. A Assembléia Geral só poderá deliberar sôbre os assuntos constantes nos respectivos editais de convocação.
 
-<strong>Art</strong>. 16. As Assembléias Gerais serão presididas pelo Presidente da Confederação, e no seu impedimento por um Vice-Presidente por êle credenciado, exceto quando se tratar de julgar as contas de sua gestão ou em que tiver interêsse, casos em que serão presididas por representante por ela indicado o qual não perderá o seu direito de voto.
+**Art**. 16. As Assembléias Gerais serão presididas pelo Presidente da Confederação, e no seu impedimento por um Vice-Presidente por êle credenciado, exceto quando se tratar de julgar as contas de sua gestão ou em que tiver interêsse, casos em que serão presididas por representante por ela indicado o qual não perderá o seu direito de voto.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Tribunal Superior de Justiça Desportiva e do Tribunal Especial</em>
+*Do Tribunal Superior de Justiça Desportiva e do Tribunal Especial*
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Do Tribunal Superior de Justiça Desportiva</em>
+*Do Tribunal Superior de Justiça Desportiva*
 
-<strong>Art</strong>. 17. São órgãos judicantes na Confederação:
+**Art**. 17. São órgãos judicantes na Confederação:
 
 a) o Tribunal Superior de Justiça Desportiva;
 
@@ -162,7 +160,7 @@ b) O Tribunal Especial.
 
 Parágrafo único. Os orgãos judicantes da Confederação terão a colaboração de um Auditor e de seu Secretário.
 
-<strong>Art</strong>. 18. São condições essenciais para ser membro dos órgãos judicantes da Confederação:
+**Art**. 18. São condições essenciais para ser membro dos órgãos judicantes da Confederação:
 
 a) ser de maior idade;
 
@@ -170,31 +168,31 @@ b) possuir idoneidade e capacidade reconhecidas para o cabal desempenho da sua m
 
 c) satisfazer às condiçoes de amadorismo desportivos exigidas pela Confederação.
 
-<strong>Art</strong>. 19. O Tribunal Superior de Justiça Desportiva é o órgão supremo de justiça da Confederação e será constituído por sete (7) membros efetivos e cinco (5) suplentes, eleitos pela Assembléia Geral, de acôrdo com o item II, do art. 10, com mandato de dois (2) anos.
+**Art**. 19. O Tribunal Superior de Justiça Desportiva é o órgão supremo de justiça da Confederação e será constituído por sete (7) membros efetivos e cinco (5) suplentes, eleitos pela Assembléia Geral, de acôrdo com o item II, do art. 10, com mandato de dois (2) anos.
 
 Parágrafo único. Em caso de vaga de membro efetivo será convocado o membro suplente na ordem de votação ou, em caso de empate, o mais idoso.
 
-<strong>Art</strong>. 20. O Presidente e o Vice-Presidente do Tribunal Superior de Justiça Desportiva serão eleitos, pelo prazo de dois (2) anos, em votação após a eleição do Tribunal.
+**Art**. 20. O Presidente e o Vice-Presidente do Tribunal Superior de Justiça Desportiva serão eleitos, pelo prazo de dois (2) anos, em votação após a eleição do Tribunal.
 
 § 1º A eleição de que trata o presente artigo será realizada com a presença mínima de dois têrços dos membros efetivos.
 
 § 2º Considerar-se-á eleito o Juiz que obtiver mais da metade dos votos dos presentes; se nenhum obtiver essa votação haverá nôvo escrutínio entre os dois mais votados, considerando-se eleito, no caso de empate, e mais idoso.
 
-<strong>Art</strong>. 21. Ao Presidente do Tribunal Superior de Justiça Desportiva competirá substituir o Presidente da Confederação, no caso de renúncia ou ausência definita, de acôrdo com o previsto no art. 46.
+**Art**. 21. Ao Presidente do Tribunal Superior de Justiça Desportiva competirá substituir o Presidente da Confederação, no caso de renúncia ou ausência definita, de acôrdo com o previsto no art. 46.
 
-<strong>Art</strong>. 22. Ao Presidente do Tribunal Superior de Justiça Desportiva caberá a convocação dêsse Poder e a nomeação e posse do Auditor e de Secretário de Tribunal que deverão satisfazer às condições imposta pelo art. 18.
+**Art**. 22. Ao Presidente do Tribunal Superior de Justiça Desportiva caberá a convocação dêsse Poder e a nomeação e posse do Auditor e de Secretário de Tribunal que deverão satisfazer às condições imposta pelo art. 18.
 
-<strong>Art</strong>. 23. A posse dos Juízes eleitos para o Tribunal Superior de Justiça Desportiva é dado pelo Presidente da Confederação.
+**Art**. 23. A posse dos Juízes eleitos para o Tribunal Superior de Justiça Desportiva é dado pelo Presidente da Confederação.
 
-<strong>Art</strong>. 24. O Tribunal Superior de Justiça Desportiva é competente para conceder licença aos seus membros, a qual não poderá exceder de sessenta dias.
+**Art**. 24. O Tribunal Superior de Justiça Desportiva é competente para conceder licença aos seus membros, a qual não poderá exceder de sessenta dias.
 
 Parágrafo único. O Auditor, o Secretário e outros auxiliares do Tribunal são licenciáveis pelo seu Presidente.
 
-<strong>Art</strong>. 25. É obrigatória a presença dos Juízes, Auditor e Secretários às sessões e audiências, considerando-se vagos, automàticamente, o cargo ocupado pelo que faltar a três sessões ou audiências consecutivas ou durante um ano, a seis intercaladas sem causa justificada.
+**Art**. 25. É obrigatória a presença dos Juízes, Auditor e Secretários às sessões e audiências, considerando-se vagos, automàticamente, o cargo ocupado pelo que faltar a três sessões ou audiências consecutivas ou durante um ano, a seis intercaladas sem causa justificada.
 
 Parágrafo único. Na mesma sessão em que se verificar a perda do mandato, o Presidente do Tribunal fará constar da ata a ocorrência e expedirá imediato ofício de comunicação a quem couber preencher a vaga, sendo a substituição para completar o mandato sucedido.
 
-<strong>Art</strong>. 26. Verificar-se-á vaga de cargo de Juiz, quando ocorrer:
+**Art**. 26. Verificar-se-á vaga de cargo de Juiz, quando ocorrer:
 
 a) morte;
 
@@ -208,13 +206,13 @@ e) incompatibilidade, deliberada pelo Tribunal;
 
 f) incompatibilidade, decorrente de lei pública;
 
-<strong>Art</strong>. 27. O Tribunal Superior de Justiça Desportiva deliberará vàlidamente com a presença da maioria de seus membros.
+**Art**. 27. O Tribunal Superior de Justiça Desportiva deliberará vàlidamente com a presença da maioria de seus membros.
 
 Parágrafo único. No caso de empate na votação, o Presidente terá voto de qualidade.
 
-<strong>Art</strong>. 28. Os cargos de Juiz, Auditor e Secretários do Tribunal Superior de Justiça Desportiva são incompatíveis com qualquer outro cargo ou função na própria Confederação em Federações, Ligas ou Associações Vinculadas direta ou indiretamente à Confederação.
+**Art**. 28. Os cargos de Juiz, Auditor e Secretários do Tribunal Superior de Justiça Desportiva são incompatíveis com qualquer outro cargo ou função na própria Confederação em Federações, Ligas ou Associações Vinculadas direta ou indiretamente à Confederação.
 
-<strong>Art</strong>. 29. Ao Tribunal Superior de Justiça compete:
+**Art**. 29. Ao Tribunal Superior de Justiça compete:
 
 a) processar e julgar originàriamente:
 
@@ -258,19 +256,19 @@ i) deliberar os casos omissos e interpretar o Estatuto, as leis e os regulamento
 
 j) referendar os atos da Diretoria que decretam intervenção ou suspensão de direitos em entidades filiadas;
 
-Parágrafo único. Em caso algum poderá o Tribunal Superior de Justiça Desportiva deixar de se pronunciar sôbre o mérito das questões e submetidas a pretexto de obscuridade, indecisões ou omissão de Estatuto, das leis e regulamentos da Confederação devendo, por meio de interpretação, julgar o caso “<em>sub</em> <em>judice</em>”.
+Parágrafo único. Em caso algum poderá o Tribunal Superior de Justiça Desportiva deixar de se pronunciar sôbre o mérito das questões e submetidas a pretexto de obscuridade, indecisões ou omissão de Estatuto, das leis e regulamentos da Confederação devendo, por meio de interpretação, julgar o caso “*subjudice*”.
 
-<strong>Art</strong>. 30. O Tribunal Superior de Justiça Desportiva tem jurisdição em todo o território nacional para conhecer originàriamente ou em grau de recurso conforme o caso, das infrações disciplinares cometidas pelas pessoas físicas ou jurídicas direta ou indiretamente subordinadas à Confederação, ou a serviço de qualquer entidade e também quando das divergências contratuais havidas entre entidades filiadas e entre estas e seus jurisdicionados.
+**Art**. 30. O Tribunal Superior de Justiça Desportiva tem jurisdição em todo o território nacional para conhecer originàriamente ou em grau de recurso conforme o caso, das infrações disciplinares cometidas pelas pessoas físicas ou jurídicas direta ou indiretamente subordinadas à Confederação, ou a serviço de qualquer entidade e também quando das divergências contratuais havidas entre entidades filiadas e entre estas e seus jurisdicionados.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Do Tribunal Especial</em>
+*Do Tribunal Especial*
 
-<strong>Art</strong>. 31. O Tribunal Especial é o órgão de justiça, próprio aos campeonatos brasileiros ou de competição interestaduais promovidas ou autorizadas pela Confederação, incumbindo apreciar e julgar as infrações disciplinares praticadas na decorrência desses campeonatos ou competições por pessoas físicas ou jurídicas, direta ou indiretamente, vinculadas à Confederação ou a serviço de qualquer de suas filiadas.
+**Art**. 31. O Tribunal Especial é o órgão de justiça, próprio aos campeonatos brasileiros ou de competição interestaduais promovidas ou autorizadas pela Confederação, incumbindo apreciar e julgar as infrações disciplinares praticadas na decorrência desses campeonatos ou competições por pessoas físicas ou jurídicas, direta ou indiretamente, vinculadas à Confederação ou a serviço de qualquer de suas filiadas.
 
 Parágrafo único. Será facultativa a instituição do Tribunal Especial para as competições do Tribunal Especial para as competições amistosas de que trata o presente artigo. Na hipótese sua não instituição as funções previstas neste artigo, serão exercidas em sua plenitude pelo Conselho Superior de Justiça ao qual serão presentes os relatórios dos fatos ocorridos em detrimento da disciplina.
 
-<strong>Art</strong>. 32. O Tribunal Especial terá função no local onde se realizar o campeonato ou competição e será constituído por três membros a saber:
+**Art**. 32. O Tribunal Especial terá função no local onde se realizar o campeonato ou competição e será constituído por três membros a saber:
 
 a) O Presidente da Confederação ou pessoa por êle especialmente designada que será o Presidente do Tribunal;
 
@@ -278,27 +276,27 @@ b) um representante da entidade local;
 
 c) um membro designado pelos concorrentes ou campeonato ou à competição;
 
-<strong>Art</strong>. 33. As entidades confederadas, associações concorrentes, atletas, árbitros, auxiliares, treinadores, massagistas e pessoas, direta ou indiretamente, vinculadas a Confederação ou entidade superior, estarão sujeitas no decorrer do campeonato ou competições promovidas ou autorizadas pela Confederação, no que couber, às penas previstas no Código de Justiça e leis supletivas vigentes.
+**Art**. 33. As entidades confederadas, associações concorrentes, atletas, árbitros, auxiliares, treinadores, massagistas e pessoas, direta ou indiretamente, vinculadas a Confederação ou entidade superior, estarão sujeitas no decorrer do campeonato ou competições promovidas ou autorizadas pela Confederação, no que couber, às penas previstas no Código de Justiça e leis supletivas vigentes.
 
-<strong>Art</strong>. 34. As decisões do Tribunal Especial estarão sujeitas à apreciação do Conselho Superior, em grau de recurso.
+**Art**. 34. As decisões do Tribunal Especial estarão sujeitas à apreciação do Conselho Superior, em grau de recurso.
 
-<strong>Art</strong>. 35. O Presidente do Tribunal Especial requisitará à entidade local os funcionários e escolherá o Auditor e Secretário.
+**Art**. 35. O Presidente do Tribunal Especial requisitará à entidade local os funcionários e escolherá o Auditor e Secretário.
 
-<strong>Art</strong>. 36. O Tribunal Especial terá função legal a partir da data de sua instalação até três dias após o término do campeonato ou competição para que foi constituído.
+**Art**. 36. O Tribunal Especial terá função legal a partir da data de sua instalação até três dias após o término do campeonato ou competição para que foi constituído.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Conselho Fiscal</em>
+*Do Conselho Fiscal*
 
-<strong>Art</strong>. 37. O Conselho Fiscal se constituirá de três membros efetivos e três suplentes, eleitos bienalmente pela Assembléia, na forma da alínea <em>b</em> nº III, do artigo 10 dêste Estatuto.
+**Art**. 37. O Conselho Fiscal se constituirá de três membros efetivos e três suplentes, eleitos bienalmente pela Assembléia, na forma da alínea *b* nº III, do artigo 10 dêste Estatuto.
 
 § 1º Em caso de vaga de membro efetivo será convocado o suplente que tenha sido mais votado e, em caso de empate o mais idoso.
 
 § 2º A posse dos membros do Conselho Fiscal será dada pelo Presidente da Confederação.
 
-<strong>Art</strong>. 38. O Conselho Fiscal se reunirá, ordinàriamente, uma vez por trimestre e, extraordinàriamente, sempre que convocado pelo Presidente da Confederação.
+**Art**. 38. O Conselho Fiscal se reunirá, ordinàriamente, uma vez por trimestre e, extraordinàriamente, sempre que convocado pelo Presidente da Confederação.
 
-<strong>Art</strong>. 39. É da competência privativa do Conselho Fiscal:
+**Art**. 39. É da competência privativa do Conselho Fiscal:
 
 a) dar parecer sôbre os balancetes trimestrais e o balanço anual, levando em consideração os orçamentos e os créditos aprovados pela Assembeléia Geral;
 
@@ -308,25 +306,25 @@ c) examinar, quando julgar necessário, os livros e documentos da tesouraria;
 
 d) apresentar à Assembléia Geral denúncia fundamentada sôbre irregualaridades porventura havidas no que respeitar à administração financeira e patrimonial da Confederação.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Presidência</em>
+*Da Presidência*
 
-<strong>Art</strong>. 40. O Presidente da Confederação será eleito bienalmente pela Assembléia Geral de acôrdo com a alínea <em>b</em> nº I do artigo 10 dêste Estatuto.
+**Art**. 40. O Presidente da Confederação será eleito bienalmente pela Assembléia Geral de acôrdo com a alínea *b* nº I do artigo 10 dêste Estatuto.
 
 Parágrafo único. O Presidente em seus impedimentos legais de qualquer natureza, inclusive licença, será substituído por um dos Vice-Presidente por êle indicado.
 
-<strong>Art</strong>. 41. Sòmente poderão exercer as funções de Presidente da Confederação os brasileiros natos ou naturalizados, salvo a hipótese prescrita no parágrafo único do artigo 51 do Decreto-lei nº 3.199.
+**Art**. 41. Sòmente poderão exercer as funções de Presidente da Confederação os brasileiros natos ou naturalizados, salvo a hipótese prescrita no parágrafo único do artigo 51 do Decreto-lei nº 3.199.
 
-<strong>Art</strong>. 42. O mandato do Presidente durará da sua posse até à Assembléia Geral de que trata a alínea <em>b</em> do artigo 10, só cessando, porém, a sua responsabilidade após a passagem de Presidência ao seu substituto sem prejuízo do disposto na lei pública.
+**Art**. 42. O mandato do Presidente durará da sua posse até à Assembléia Geral de que trata a alínea *b* do artigo 10, só cessando, porém, a sua responsabilidade após a passagem de Presidência ao seu substituto sem prejuízo do disposto na lei pública.
 
-Parágrafo único. A transmissão de podêres será feita dentro de quinze dias após a eleição de que trata o presente artigo, de acôrdo com o disposto na alínea <em>c</em> do artigo 10.
+Parágrafo único. A transmissão de podêres será feita dentro de quinze dias após a eleição de que trata o presente artigo, de acôrdo com o disposto na alínea *c* do artigo 10.
 
-<strong>Art</strong>. 43. O Presidente dará assistência efetiva à Confederação, e será civil e solidàriamente, responsável pelo desempenho que der ao cargo, cabendo-lhe a iniciativa da divulgação dos atos administrativos.
+**Art**. 43. O Presidente dará assistência efetiva à Confederação, e será civil e solidàriamente, responsável pelo desempenho que der ao cargo, cabendo-lhe a iniciativa da divulgação dos atos administrativos.
 
-<strong>Art</strong>. 44. O Presidente é o representante legal da Confederação em Juízo ou fora dêle, podendo constituir procurador.
+**Art**. 44. O Presidente é o representante legal da Confederação em Juízo ou fora dêle, podendo constituir procurador.
 
-<strong>Art</strong>. 45. Ao Presidente compete:
+**Art**. 45. Ao Presidente compete:
 
 a) administrar a Confederção;
 
@@ -338,7 +336,7 @@ d) convocar o Conselho Fiscal;
 
 e) convocar e presidir as reuniões da Diretoria;
 
-f) designar, <em>ad</em> <em>referendum</em> da Assembléia Geral os Vice-Presidentes das relações interiores, dos interêsses patrimoniais e financeiros, dos interêsses técnicos e o das relações exteriores;
+f) designar, *adreferendum* da Assembléia Geral os Vice-Presidentes das relações interiores, dos interêsses patrimoniais e financeiros, dos interêsses técnicos e o das relações exteriores;
 
 g) dispensar os Vice-Presidentes citados na letra anterior;
 
@@ -386,35 +384,35 @@ ac) ceder, ocasionalmente, material da Confederação a título oneroso ou gratu
 
 Parágrafo único. Os atos do Presidente que afetarem direitos individuais ou das filiadas, ligas ou associações, direta ou indiretamente vinculá-las à Confederação serão apreciadas em grau de recurso, pelo Tribunal Superior de Justiça Desportiva.
 
-<strong>Art</strong>. 46. No caso previsto no artigo 22 o Presidente do Tribunal de Justiça Desportiva deverá convocar a Assembléia Geral dentro de quinze (15) dias para proceder à eleição do Presidente, salvo se a vaga se der nos três (3) últimos meses de mandato, caso em que o Presidente do Tribunal de Justiça Desportiva completará o tempo restante.
+**Art**. 46. No caso previsto no artigo 22 o Presidente do Tribunal de Justiça Desportiva deverá convocar a Assembléia Geral dentro de quinze (15) dias para proceder à eleição do Presidente, salvo se a vaga se der nos três (3) últimos meses de mandato, caso em que o Presidente do Tribunal de Justiça Desportiva completará o tempo restante.
 
-<strong>Art</strong>. 47. Vinculado, diretamente, à Presidência funcionará o Tribunal de Regras como órgão consultivo e tendo como finalidade traduzir e interpretar as Regras Oficiais de Culturismo, esclarecendo os casos duvidosos ou omissos, de modo a padronizá-las e a estabelecer no território nacional unidade na arbitragem das partidas, bem como promovendo a publicidade de conselhos e notas destinadas à propaganda dessa Regras.
+**Art**. 47. Vinculado, diretamente, à Presidência funcionará o Tribunal de Regras como órgão consultivo e tendo como finalidade traduzir e interpretar as Regras Oficiais de Culturismo, esclarecendo os casos duvidosos ou omissos, de modo a padronizá-las e a estabelecer no território nacional unidade na arbitragem das partidas, bem como promovendo a publicidade de conselhos e notas destinadas à propaganda dessa Regras.
 
 § 1º O Tribunal de Regras será presidido pelo Vice-Presidente dos Interêsses Técnicos ou pelo seu substituto legal e será constituído por cinco membros de nomeação do Presidente da Confederação sendo seu funcionamento regido por Regulamento próprio organizado e aprovado pela Diretoria.
 
 § 2º As decisões do Tribunal de Regras sôbre a interpretação das Regras firmarão doutrina e só poderão ser reformadas pelo próprio Tribunal.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Da Diretoria</em>
+*Da Diretoria*
 
-<strong>Art</strong>. 48. A Diretoria da Confederação será constituída pelo Presidente eleito na forma do item 1 alínea <em>b</em> do artigo 10, pelo Vice-Presidente das Relações Interiores dos Interêsses Patrimoniais e Financeiros dos Interêsses Técnicos e das Relações Exteriores, designados pelo Presidente <em>ad referendum</em> da Assembléia Geral e pelos, Diretores das Relações Interiores, Tesoureiro Técnico e das Relações Exteriores, designados pelo Presidente por indicação dos Vice-Presidentes respectivos.
+**Art**. 48. A Diretoria da Confederação será constituída pelo Presidente eleito na forma do item 1 alínea *b* do artigo 10, pelo Vice-Presidente das Relações Interiores dos Interêsses Patrimoniais e Financeiros dos Interêsses Técnicos e das Relações Exteriores, designados pelo Presidente *ad referendum* da Assembléia Geral e pelos, Diretores das Relações Interiores, Tesoureiro Técnico e das Relações Exteriores, designados pelo Presidente por indicação dos Vice-Presidentes respectivos.
 
 Parágrafo único. O Presidente, dentro do prazo de 15 dias a partir da data de sua Eleição, submeterá à Assembléia Geral as indicações dos Vice-Presidentes.
 
-<strong>Art</strong>. 49. Só poderão fazer parte da Diretoria, brasileiros natos ou naturalizados, salvo a hipótese do parágrafo único do artigo 51 do Decreto-lei número 3.199.
+**Art**. 49. Só poderão fazer parte da Diretoria, brasileiros natos ou naturalizados, salvo a hipótese do parágrafo único do artigo 51 do Decreto-lei número 3.199.
 
-<strong>Art</strong>. 50. O mandato da Diretoria é o mesmo do Presidente.
+**Art**. 50. O mandato da Diretoria é o mesmo do Presidente.
 
-<strong>Art</strong>. 51. As licenças de membros da Diretoria não poderão exceder de noventa dias salvo consentimento da Assembléia Geral.
+**Art**. 51. As licenças de membros da Diretoria não poderão exceder de noventa dias salvo consentimento da Assembléia Geral.
 
-<strong>Art</strong>. 52. Os Vice-Presidentes, em seus impedimentos de qualquer natureza, inclusive licença, serão substituídos pelos respectivos Diretores.
+**Art**. 52. Os Vice-Presidentes, em seus impedimentos de qualquer natureza, inclusive licença, serão substituídos pelos respectivos Diretores.
 
-<strong>Art</strong>. 53. À Diretoria, coletivamente compete:
+**Art**. 53. À Diretoria, coletivamente compete:
 
 a) reunir-se ordinàriamente, em dias determinados, pelo menos uma vez por quinzena e extraordinàriamente, quando convocada pelo Presidente;
 
-b) apresentar anualmente, à Assembléia Geral, de acôrdo com o artigo 10 letra <em>a</em> o Relatório dos seus trabalhos, bem como o Balanço do ano anterior, e o projeto do orçamento para o nôvo exercício;
+b) apresentar anualmente, à Assembléia Geral, de acôrdo com o artigo 10 letra *a* o Relatório dos seus trabalhos, bem como o Balanço do ano anterior, e o projeto do orçamento para o nôvo exercício;
 
 c) propor à Assembléia a reforma dêste Estatuto do Regimento Geral e do Código de Justiça.
 
@@ -424,9 +422,9 @@ e) submeter à Assembléia Geral proposta para compra ou venda de imóveis ou de
 
 f) submeter, trimestralmente, à apreciação do Conselho Fiscal os balancetes da Tesouraria;
 
-g) filiar federação e entidades classistas, após processo regular <em>ad referendum</em> da Assembléia;
+g) filiar federação e entidades classistas, após processo regular *ad referendum* da Assembléia;
 
-h) intervir em federação, liga ou associação direta ou indiretamente vinculada à Confederação, suspender todos os seus direitos caso ocorra qualquer das hipóteses previstas no artigo 5º dêste Estatuto, <em>ad referendum</em> do Tribunal Superior de Justiça Desportiva;
+h) intervir em federação, liga ou associação direta ou indiretamente vinculada à Confederação, suspender todos os seus direitos caso ocorra qualquer das hipóteses previstas no artigo 5º dêste Estatuto, *ad referendum* do Tribunal Superior de Justiça Desportiva;
 
 i) dar conhecimento circunstancial ao Tribunal de Justiça Desportiva das faltas ou irregularidades cometidas por Federações, Ligas ou Associações Desportivas ou ainda por pessoas vinculadas direta ou indiretamente a Confederação para apreciação e julgamento em face do Código de penalidades;
 
@@ -448,11 +446,11 @@ q) apreciar e julgar os relatórios apresentados pelos Chefes de delegações da
 
 r) regulamentar a Nota Oficial;
 
-<strong>Art</strong>. 54. As decisões coletivas da Diretoria serão tomadas por maioria de votos;
+**Art**. 54. As decisões coletivas da Diretoria serão tomadas por maioria de votos;
 
-<strong>Art</strong>. 55. Considerar-se á resignatário o membro da Diretoria que sem motivos justificável, faltar a mais de três sessões consecutivas da Diretoria, ou a mais de seis intercaladas.
+**Art**. 55. Considerar-se á resignatário o membro da Diretoria que sem motivos justificável, faltar a mais de três sessões consecutivas da Diretoria, ou a mais de seis intercaladas.
 
-<strong>Art</strong>. 56. Ao Vice-Presidente das Relações Interiores compete:
+**Art**. 56. Ao Vice-Presidente das Relações Interiores compete:
 
 a) zelar pela harmonia entre as filiadas em benefício do progresso e da unidade política do Culturismo brasileiro orientando-se na suas relações entre si com a Confederação e com as associações e suas filiadas;
 
@@ -476,7 +474,7 @@ j) assinar, isoladamente ou com o Presidente, a correspondência expedida pela C
 
 k) propor ao Presidente a nomeação do Diretor das Relações Interiores e de subdiretores que julgar necessários às atividades da sua Vice-Presidência.
 
-<strong>Art</strong>. 57. Ao Diretor das Relações Interiores compete:
+**Art**. 57. Ao Diretor das Relações Interiores compete:
 
 a) substituir o Vice-Presidente das Relações Interiores em suas faltas e impedimentos;
 
@@ -496,7 +494,7 @@ h) promover a qualificação de material necessário ao expediente da Confedera�
 
 i) desempenhar as funções e atividades que lhe forem determinadas pelo Vice-Presidente dos Interêsses Interiores dentro de suas atribuições;
 
-<strong>Art</strong>. 58. Ao Vice-Presidente dos Interêsses Patrimoniais e Financeiros compete:
+**Art**. 58. Ao Vice-Presidente dos Interêsses Patrimoniais e Financeiros compete:
 
 a) dirigir e orientar os serviços patrimoniais e financeiros da Confederação, incluídos os da tesouraria, contabilidade e almoxarifado;
 
@@ -530,7 +528,7 @@ o) opinar sôbre vencimentos e gratificação de funcionários;
 
 p) propor ao Presidente a nomeação do Diretor-Tesoureiro e do subdiretor que julgar necessários às atividades da sua Vice-Presidência.
 
-<strong>Art</strong>. 59. Ao Diretor-Tesoureiro compete:
+**Art**. 59. Ao Diretor-Tesoureiro compete:
 
 a) substituir o Vice-Presidente dos Interêsses Patrimoniais e Financeiros em suas faltas ou impedimentos;
 
@@ -562,7 +560,7 @@ n) manter atualizado o registro da posição financeira de cada filiada com a Co
 
 o) desempenhar as funções e atividades que lhe forem determinadas pelo Vice-Presidente dos Interêsses Patrimoniais e Financeiros dentro das suas atribuições.
 
-<strong>Art</strong>. 60. Ao Vice-Presidente dos Interêsses Técnicos compete:
+**Art**. 60. Ao Vice-Presidente dos Interêsses Técnicos compete:
 
 a) orientar e chefiar todos os serviços técnicos, incluidos nestes a supervisão dos campeonatos, torneios e jogos promovidos pela Confederação, bem como as atividades de arbitragem e de serviço médico;
 
@@ -596,7 +594,7 @@ o) propor ao Presidente da Confederação quando necessário a nomeação de Che
 
 p) propor ao Presidente a indicação do Diretor-Técnico, de subdiretores e de comissões que julgar necessários às atividades de sua Vice-Presidência.
 
-<strong>Art</strong>. 61. Ao Diretor-Técnico compete:
+**Art**. 61. Ao Diretor-Técnico compete:
 
 a) substituir o Vice-Presidente dos interêsses técnicos em suas faltas e impedimentos;
 
@@ -626,7 +624,7 @@ m) chefiar o departamento de árbitros e oficiais e a seção de serviço médic
 
 n) desempenhar as funções e atividades que lhe forem determinadas pelo Vice-Presidente dos Interêsses Técnicos dentro das suas atribuições.
 
-<strong>Art</strong>. 62. Ao Vice-Presidente dos Interêsses Exteriores compete:
+**Art**. 62. Ao Vice-Presidente dos Interêsses Exteriores compete:
 
 a) orientar as relações entre a Confederação, a Federação Internacional do Culturismo e as entidades congêneres do Exterior zelando pela harmonia da política Internacional da Confederação junto às mesmas;
 
@@ -652,7 +650,7 @@ k) propor ao Presidente a nomeação de representantes da Confederação junto �
 
 l) propor ao Presidente a nomeação do Diretor das Relações Exteriores à subdiretores que julgar necessárias aos serviços da sua Vice-Presidência.
 
-<strong>Art</strong>. 63. Ao Diretor das Realizações Exteriores compete:
+**Art**. 63. Ao Diretor das Realizações Exteriores compete:
 
 a) substituir o Vice-Presidente das Relações Exteriores nas suas faltas e impedimentos;
 
@@ -662,11 +660,11 @@ c) fornecer ao Diretor das relações interiores os dados para a nota Oficial re
 
 d) desempenhar as funções e atividades que lhe forem determinadas pelo Vice-Presidente das Relações Exteriores dentro das suas atribuições.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Do patrimônio social da receita e da despesa</em>
+*Do patrimônio social da receita e da despesa*
 
-<strong>Art</strong>. 64. Constituem patrimônio da Confederação:
+**Art**. 64. Constituem patrimônio da Confederação:
 
 a) seus bens móveis e imóveis;
 
@@ -674,7 +672,7 @@ b) os prêmios que receber em caráter definitivo;
 
 c) o fundo da reserva fixado, anualmente, pela Assembléia Geral, com base no saldo verificado no Balanço.
 
-<strong>Art</strong>. 65. Constituem a Receita da Confederação:
+**Art**. 65. Constituem a Receita da Confederação:
 
 a) as jóias de filiação;
 
@@ -696,7 +694,7 @@ i) os donativos em geral;
 
 j) as rendas eventuais.
 
-<strong>Art</strong>. 66. Constituem a Despesa da Confederação:
+**Art**. 66. Constituem a Despesa da Confederação:
 
 a) o pagamento das contribuições devidas as entidades a que estiver filiada a Confederação;
 
@@ -716,11 +714,11 @@ h) os gastos de publicidade da Confederação;
 
 i) despesas eventuais.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Da filiação</em>
+*Da filiação*
 
-<strong>Art</strong>. 67. Em cada Estado, no Distrito Federal e em cada Território, a Confederação só reconhecerá e dará filiação e uma entidade dirigente do culturismo.
+**Art**. 67. Em cada Estado, no Distrito Federal e em cada Território, a Confederação só reconhecerá e dará filiação e uma entidade dirigente do culturismo.
 
 § 1º Quando num Estado, no Distrito Federal ou em um Território existir mais de uma federação pretendendo dirigir e representar o culturismo, a Confederação, a requerimento de uma delas, poderá, se julgar necessário, mandar proceder a inquérito a fim de apurar a que tem direito a ser reconhecida e filiada de acôrdo com o que estipula o art. 1º dêste Estatuto.
 
@@ -728,9 +726,9 @@ i) despesas eventuais.
 
 § 3º Se uma federação solicitar um inquérito e o resultado lhe fôr contrário, só lhe será deferido direito a nôvo inquérito depois de decorrido um ano da data da terminação do anterior, salvo, se, nesse interregno o culturismo local ficar sem representação.
 
-<strong>Art</strong>. 68. A Confederação dará filiação nos têrmos dêste Estatuto, em qualquer época do ano, às federações dirigentes do culturismo, que a requererem.
+**Art**. 68. A Confederação dará filiação nos têrmos dêste Estatuto, em qualquer época do ano, às federações dirigentes do culturismo, que a requererem.
 
-<strong>Art</strong>. 69. São Condições essenciais para que uma federação obtenha filiação;
+**Art**. 69. São Condições essenciais para que uma federação obtenha filiação;
 
 a) ter personalidade jurídica;
 
@@ -752,43 +750,43 @@ i) pagar, adiantadamente as mensalidades a que estiver obrigado, e, pontualmente
 
 j) fornecer o cadastro das instalações regulamentares, para a prática do culturismo, existentes no território de sua jurisdição.
 
-<strong>Art</strong>. 70. Ficará sem representação na Confederação, mantendo-se-lhe, entretanto, as obrigações as entidades que durante dois anos consecutivos deixar de disputar campeonato brasileiro.
+**Art**. 70. Ficará sem representação na Confederação, mantendo-se-lhe, entretanto, as obrigações as entidades que durante dois anos consecutivos deixar de disputar campeonato brasileiro.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>Das atividades classistas nacionais</em>
+*Das atividades classistas nacionais*
 
-<em>Conselho Classista</em>
+*Conselho Classista*
 
-<strong>Art</strong>. 71. A Confederação manterá um Conselho Classista a qual se vincularão as entidades dirigentes dos desportos classistas (bancários, comerciários, industriários, de funcionalismo público, etc.) de âmbito nacional.
+**Art**. 71. A Confederação manterá um Conselho Classista a qual se vincularão as entidades dirigentes dos desportos classistas (bancários, comerciários, industriários, de funcionalismo público, etc.) de âmbito nacional.
 
-<strong>Art</strong>. 72. A filiação das entidades classistas nacionais processar-se-á na forma estabelecida no art. 69 e seus itens.
+**Art**. 72. A filiação das entidades classistas nacionais processar-se-á na forma estabelecida no art. 69 e seus itens.
 
-<strong>Art</strong>. 73. As entidades classistas não poderão disputar os campeonatos brasileiros promovidos pela Confederação.
+**Art**. 73. As entidades classistas não poderão disputar os campeonatos brasileiros promovidos pela Confederação.
 
-<strong>Art</strong>. 74. As entidades classistas, por intermédio de seu representante, terão assento nas Assembléias Gerais da Confederação, sem direito a voto, entretanto.
+**Art**. 74. As entidades classistas, por intermédio de seu representante, terão assento nas Assembléias Gerais da Confederação, sem direito a voto, entretanto.
 
 Parágrafo único. O representante das entidades classistas será designada pelo Presidente do seu conselho.
 
-<strong>Art</strong>. 75. Quando julgar oportuno a Confederação levará a efeito um campeonato entre as entidades classistas para disputa do título máximo do culturismo.
+**Art**. 75. Quando julgar oportuno a Confederação levará a efeito um campeonato entre as entidades classistas para disputa do título máximo do culturismo.
 
-<strong>Art</strong>. 76. São permitidas partidas entre as entidades classistas e as associações desportivas filiadas à Federações, mediante prévia licença concedida por estas últimas.
+**Art**. 76. São permitidas partidas entre as entidades classistas e as associações desportivas filiadas à Federações, mediante prévia licença concedida por estas últimas.
 
-<strong>Art</strong>. 77. As licenças para realização, pelas entidades classistas, de partidas internacionais, ou interestaduais, deverão ser solicitadas com a antecedência mínima de cinco (5) dias, reservando-se à Confederação o direito de negá-las desde que assim o exijam os seus interêsses.
+**Art**. 77. As licenças para realização, pelas entidades classistas, de partidas internacionais, ou interestaduais, deverão ser solicitadas com a antecedência mínima de cinco (5) dias, reservando-se à Confederação o direito de negá-las desde que assim o exijam os seus interêsses.
 
-<strong>Art</strong>. 78. Anualmente, terminadas as temporadas desportivas, deverão as entidades classistas, nacionais, submeter à apreciação da Confederação o relatório completo das suas atividades, bem como o calendário desportivo do ano seguinte.
+**Art**. 78. Anualmente, terminadas as temporadas desportivas, deverão as entidades classistas, nacionais, submeter à apreciação da Confederação o relatório completo das suas atividades, bem como o calendário desportivo do ano seguinte.
 
-<strong>Art</strong>. 79. O Conselho Classista será constituído por membros de nomeação do Presidente da Confederação que lhes determinará as atribuições.
+**Art**. 79. O Conselho Classista será constituído por membros de nomeação do Presidente da Confederação que lhes determinará as atribuições.
 
-<strong>Art</strong>. 80. A Confederação prestará ao Conselho Classista, tôda a assistência técnica e material que lhe fôr possível.
+**Art**. 80. A Confederação prestará ao Conselho Classista, tôda a assistência técnica e material que lhe fôr possível.
 
-<strong>Art</strong>. 81. As entidades vinculadas ao Conselho Classista, respeitarão tôdas as leis, regulamentos, códigos, regras e resoluções da Confederação, bem como as disposições dêste Estatuto, em tudo quanto não colidirem com os preceitos especiais articulados nêste Capítulo.
+**Art**. 81. As entidades vinculadas ao Conselho Classista, respeitarão tôdas as leis, regulamentos, códigos, regras e resoluções da Confederação, bem como as disposições dêste Estatuto, em tudo quanto não colidirem com os preceitos especiais articulados nêste Capítulo.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>Dos títulos honoríficos</em>
+*Dos títulos honoríficos*
 
-<strong>Art</strong>. 82. Como testemunho de reconhecimento especial àqueles que se salientarem nos serviços prestados ao culturismo brasileiro, a Confederação poderá conceder os seguintes títulos:
+**Art**. 82. Como testemunho de reconhecimento especial àqueles que se salientarem nos serviços prestados ao culturismo brasileiro, a Confederação poderá conceder os seguintes títulos:
 
 a) Grande benemérito, àquele, que, já sendo Benemérito, continua relevante e assinalados serviços ao culturismo;
 
@@ -800,27 +798,27 @@ c) honorário, àquele que se faça credor dessa homenagem por serviços de mont
 
 § 2º Ficará criada na Confederação a “Ordem de Culturismo”, cuja regulamentação especial será aprovada pela Diretoria.
 
-<strong>Art</strong>. 83. As propostas para concessão dos títulos constantes do presente capítulo e outras criadas em regulamentos especiais deverão ser encaminhadas à Assembléia Geral pela Diretoria, a devida exposição de motivos, por escrito.
+**Art**. 83. As propostas para concessão dos títulos constantes do presente capítulo e outras criadas em regulamentos especiais deverão ser encaminhadas à Assembléia Geral pela Diretoria, a devida exposição de motivos, por escrito.
 
-<strong>Art</strong>. 84. Além do diploma alusivo os títulos terão direitos a uma carteira especial que lhes dará livre ingresso nas tribunas de honra das Federações e Associações filiadas, em competições de culturismo do país.
+**Art**. 84. Além do diploma alusivo os títulos terão direitos a uma carteira especial que lhes dará livre ingresso nas tribunas de honra das Federações e Associações filiadas, em competições de culturismo do país.
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>Das personalidades</em>
+*Das personalidades*
 
-<strong>Art</strong>. 85. As Federações, ligas e entidades classistas filiadas, bem como as associações e pessoas físicas ou jurídicas forem vinculadas direta ou indiretamente à Confederação ficarão sujeitas por infração, dêste Estatuto, dos regulamentos, das decisões da Confederação e das leis desportivas em vigor, às penas previstas no código de justiça, as quais serão impostas pela autoridade competente no caso.
+**Art**. 85. As Federações, ligas e entidades classistas filiadas, bem como as associações e pessoas físicas ou jurídicas forem vinculadas direta ou indiretamente à Confederação ficarão sujeitas por infração, dêste Estatuto, dos regulamentos, das decisões da Confederação e das leis desportivas em vigor, às penas previstas no código de justiça, as quais serão impostas pela autoridade competente no caso.
 
-<strong>Art</strong>. 86. Excetuando-se os casos de interposição de recurso, as penalidades impostas por um dos podêres da Confederação, só poderão ser comutadas ou gozarem de anistia, por êsse mesmo poder.
+**Art**. 86. Excetuando-se os casos de interposição de recurso, as penalidades impostas por um dos podêres da Confederação, só poderão ser comutadas ou gozarem de anistia, por êsse mesmo poder.
 
-<strong>CAPÍTULO XIII</strong>
+**CAPÍTULO XIII**
 
-<em>Das disposições gerais</em>
+*Das disposições gerais*
 
-<strong>Art</strong>. 87. A bandeira da Confederação terá forma retangular, fundo verde, cortada por duas faixas centrais perpendiculares, correspondentes a um têrço da altura, de côr amarela, limitadas por frisos brancos, tendo ao centro e escudo de que trata o artigo 83.
+**Art**. 87. A bandeira da Confederação terá forma retangular, fundo verde, cortada por duas faixas centrais perpendiculares, correspondentes a um têrço da altura, de côr amarela, limitadas por frisos brancos, tendo ao centro e escudo de que trata o artigo 83.
 
-<strong>Art</strong>. 88. O estudo da Confederação, será formado por dois círculos concêntricos, sendo o primeiro de côr branca e o segundo por círculo de fundo azul-rei, tendo superposto o mapa do Brasil em azul-claro e as letras C.B.C. dispostas em forma triangular, de côr amarela, estando o “B” no vértice superior.
+**Art**. 88. O estudo da Confederação, será formado por dois círculos concêntricos, sendo o primeiro de côr branca e o segundo por círculo de fundo azul-rei, tendo superposto o mapa do Brasil em azul-claro e as letras C.B.C. dispostas em forma triangular, de côr amarela, estando o “B” no vértice superior.
 
-<strong>Art</strong>. 89. A equipe oficial da Confederação terá dois uniformes que serão usados de acôrdo com as conveniências e as exigências regulamentares das competições internacionais, e que serão:
+**Art**. 89. A equipe oficial da Confederação terá dois uniformes que serão usados de acôrdo com as conveniências e as exigências regulamentares das competições internacionais, e que serão:
 
 a) 1º Uniforme - Camisa amarela ouro-velho, com debruns verdes, tendo no peito, do lado esquerdo e escudo da Confederação e no centro e costas a numeração, calção verde, com frisos amarelos;
 
@@ -828,38 +826,38 @@ b) 2º Uniforme - Camisa verde com debruns amarelos, tendo no peito, do lado esq
 
 Parágrafo único. É vedado às filiadas usarem uniforme igual ou semelhantes aos da Confederação.
 
-<strong>Art</strong>. 90. A dissolução da Confederação é da competência da Assembléia Geral. Em caso de dissolução da Confederação os seus bens reverterão “<em>pro rata</em>”, em benefício das federações filiadas.
+**Art**. 90. A dissolução da Confederação é da competência da Assembléia Geral. Em caso de dissolução da Confederação os seus bens reverterão “*pro rata*”, em benefício das federações filiadas.
 
-<strong>Art</strong>. 91. As leis e resoluções da Confederação obrigam dentro de três dias para o Distrito Federal, de 5 dias para os Estados do Rio de Janeiro, São Paulo, Minas Gerais e Espírito Santo; 10 dias para os Estados da Bahia e Paraná; 15 dias para os Estados de Santa Catarina, Rio Grande do Sul, Sergipe, Alagoas, Pernambuco, Paraíba, Rio Grande do Norte e Ceará, e de 30 dias para os Estados do Pará, Maranhão, Amazonas, Goiás, Mato Grosso e os Territórios Federais.
+**Art**. 91. As leis e resoluções da Confederação obrigam dentro de três dias para o Distrito Federal, de 5 dias para os Estados do Rio de Janeiro, São Paulo, Minas Gerais e Espírito Santo; 10 dias para os Estados da Bahia e Paraná; 15 dias para os Estados de Santa Catarina, Rio Grande do Sul, Sergipe, Alagoas, Pernambuco, Paraíba, Rio Grande do Norte e Ceará, e de 30 dias para os Estados do Pará, Maranhão, Amazonas, Goiás, Mato Grosso e os Territórios Federais.
 
 Parágrafo único. A contagem do prazo dêste artigo será feita a partir da data da publicação da Nota Oficial respectiva, cuja remessa às filiadas, com exclusão do Distrito Federal, deverá ser feita por via aérea.
 
-<strong>Art</strong>. 92. Desde que não colidam com as disposições dêste Estatuto, vigorarão como se constituíssem matéria estatuária, os avisos que o presidente da Confederação expedir, seguidamente numerados.
+**Art**. 92. Desde que não colidam com as disposições dêste Estatuto, vigorarão como se constituíssem matéria estatuária, os avisos que o presidente da Confederação expedir, seguidamente numerados.
 
-<strong>Art</strong>. 93. Na data da aprovação dêste Estatuto, estavam filiadas à Confederação, as entidades: Federação Amazonense de Desportos Amadores, Federação Paraense de Desportos, Federação de Desportos do Amapá, Federação de Desportos do Guaporé, Federação Cearense de Desportos, Federação Pernambucana de Desportos, Federação Alagoana de Desportos, Federação Baiana de Desportos Terrestres, Federação Desportiva Espíritos-Santense, Federação Fluminense de Desportos, Federação Metropolitana de Culturismo, Federação Paulista de Culturismo, Federação Desportiva Paranaense, Federação Atlética Catarinense, Federação Gaúcha de Culturismo e Federação Goiana de Culturismo.
+**Art**. 93. Na data da aprovação dêste Estatuto, estavam filiadas à Confederação, as entidades: Federação Amazonense de Desportos Amadores, Federação Paraense de Desportos, Federação de Desportos do Amapá, Federação de Desportos do Guaporé, Federação Cearense de Desportos, Federação Pernambucana de Desportos, Federação Alagoana de Desportos, Federação Baiana de Desportos Terrestres, Federação Desportiva Espíritos-Santense, Federação Fluminense de Desportos, Federação Metropolitana de Culturismo, Federação Paulista de Culturismo, Federação Desportiva Paranaense, Federação Atlética Catarinense, Federação Gaúcha de Culturismo e Federação Goiana de Culturismo.
 
-<strong>Art</strong>. 94. Êste Estatuto, aprovado em Assembléia Geral de 15-1-55, entrará em vigor depois de apreciado pelo C.N.D. e homologado pelo Senhor Ministro da Educação, na forma da legislação em vigor, e dêle fazem parte integrante os atos daquele Conselho, expedidos no uso de suas atribuições legais.
+**Art**. 94. Êste Estatuto, aprovado em Assembléia Geral de 15-1-55, entrará em vigor depois de apreciado pelo C.N.D. e homologado pelo Senhor Ministro da Educação, na forma da legislação em vigor, e dêle fazem parte integrante os atos daquele Conselho, expedidos no uso de suas atribuições legais.
 
-<strong>CAPÍTULO XIV</strong>
+**CAPÍTULO XIV**
 
-<em>Do regimento geral</em>
+*Do regimento geral*
 
-<strong>Art</strong>. 95. A administração social e financeira da Confederação, bem como tôdas as suas demais atividades, subordinar-se-ão às disposições de um regimento geral, que é parte integrante dêste Estatuto, sendo da competência de sua elaboração, a Assembléia Geral, por proposta da diretoria.
+**Art**. 95. A administração social e financeira da Confederação, bem como tôdas as suas demais atividades, subordinar-se-ão às disposições de um regimento geral, que é parte integrante dêste Estatuto, sendo da competência de sua elaboração, a Assembléia Geral, por proposta da diretoria.
 
 Parágrafo único. Uma vez aprovado o regimento geral, seus têrmos só poderão ser modificados pela Assembléia Geral.
 
-<strong>CAPÍTULO XV</strong>
+**CAPÍTULO XV**
 
-<em>Das disposições transitórias</em>
+*Das disposições transitórias*
 
-<strong>Art</strong>. 96. Dentro de noventa dias, a partir da vigência dêste Estatuto, será elaborado pelo Tribunal Superior de Justiça Desportiva e apreciado, votado e aprovado pela Assembléia Geral, o Código de Justiça do Culturismo que regulamentará as normas gerais para a constituição dos órgãos judicantes das federações e ligas filiadas.
+**Art**. 96. Dentro de noventa dias, a partir da vigência dêste Estatuto, será elaborado pelo Tribunal Superior de Justiça Desportiva e apreciado, votado e aprovado pela Assembléia Geral, o Código de Justiça do Culturismo que regulamentará as normas gerais para a constituição dos órgãos judicantes das federações e ligas filiadas.
 
-<strong>Art</strong>. 97. Dentro do prazo de sessenta dias da entrada em vigor do código de justiça, as entidades filiadas reformarão as respectivas leis, a fim de adaptá-las a êsse Código.
+**Art**. 97. Dentro do prazo de sessenta dias da entrada em vigor do código de justiça, as entidades filiadas reformarão as respectivas leis, a fim de adaptá-las a êsse Código.
 
-<strong>Art</strong>. 98. Enquanto não fôr aprovado o regimento geral, a jóia de filiação das entidades e as mensalidades respectivas além das demais contribuições, serão fixadas pela diretoria e publicada em nota oficial.
+**Art**. 98. Enquanto não fôr aprovado o regimento geral, a jóia de filiação das entidades e as mensalidades respectivas além das demais contribuições, serão fixadas pela diretoria e publicada em nota oficial.
 
-<strong>Art</strong>. 99. O mandato do primeiro presidente vigorará, no máximo, até o dia.
+**Art**. 99. O mandato do primeiro presidente vigorará, no máximo, até o dia.
 
-<strong>Art</strong>. 100. As Federações filiadas à Confederação, os associados e diretores em geral não respondem solidária ou subsidiàriamente pelas obrigações sociais.
+**Art**. 100. As Federações filiadas à Confederação, os associados e diretores em geral não respondem solidária ou subsidiàriamente pelas obrigações sociais.
 
-<strong>RAIMUNDO DE BRITO</strong>
+**RAIMUNDO DE BRITO**

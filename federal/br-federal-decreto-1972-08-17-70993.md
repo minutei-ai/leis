@@ -1,5 +1,3 @@
-###DEC-070993-0-000-17-08-1972@@@
-
 DECRETO Nº 70.993, DE 17 DE AGOSTO DE 1972.
 
 Concede à Comércio de Mineração Itabirito Ltda, o direito de lavrar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

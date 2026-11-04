@@ -1,5 +1,3 @@
-###DEC-079276-0-000-15-02-1977@@@
-
 DECRETO Nº 79.276, de 15 de fevereiro de 1977
 
 Autoriza o funcionamento da Faculdade de Ciências Administrativas e Econômicas, com o curso de Administração, e da Faculdade de Serviço Social e de Saúde, com o curso Serviço Social, com sede na Cidade de Caçador, Estado de Santa Catarina.

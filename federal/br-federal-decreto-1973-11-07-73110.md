@@ -1,5 +1,3 @@
-###DEC-073110-0-000-07-11-1973@@@
-
 DECRETO Nº 73.110 - DE 7 DE NOVEMBRO DE 1973
 
 Aprova o Regulamento do Departamento-Geral de Serviços, do Ministério do Exército, e dá outras providências.

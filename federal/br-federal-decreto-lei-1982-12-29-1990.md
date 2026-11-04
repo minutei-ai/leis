@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1b045aaf-5685-4b47-beee-1a05dd7628ad/texto#nowhere)
 
-###DEL-001990-0-000-29-12-1982@@@
-
 # Decreto-lei nº 1.990, de 29 de dezembro de 1982
 
 Acrescenta parágrafo no artigo 2º do decreto-lei nº 1.400, de 22 de abril de 1975.

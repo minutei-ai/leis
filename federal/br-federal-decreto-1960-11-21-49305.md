@@ -1,5 +1,3 @@
-###DEC-049305-0-000-21-11-1960@@@
-
 DECRETO Nº 49.305, DE 21 DE NOVEMBRO DE 1960.
 
 Institui a Campanha de Formação de Meteorologistas (C.A.M.E.).

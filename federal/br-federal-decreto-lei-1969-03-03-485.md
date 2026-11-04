@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/8fb5469c-f75b-4d33-bf52-c3ef22007b12/texto#nowhere)
 
-###DEL-000485-0-000-03-03-1969@@@
-
 DECRETO-LEI Nº 485, DE 3 DE MARÇO DE 1969
 
 Autoriza o Ministro de Estado da Fazenda a conceder à Companhia Brasileira de Alimentos - COBAL - remissão de tributos federais.

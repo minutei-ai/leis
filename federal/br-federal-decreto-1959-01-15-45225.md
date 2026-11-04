@@ -1,5 +1,3 @@
-###DEC-045225-0-000-15-01-1959@@@
-
 DECRETO Nº 45.225, DE 15 DE JANEIRO DE 1959.
 
 Autoriza a construção de uma linha de transmissão entre Santo Amaro e Rio Fundo, no Estado da Bahia, e dá outras providências.

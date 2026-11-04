@@ -1,5 +1,3 @@
-###DEC-083556-0-000-07-06-1979@@@
-
 DECRETO Nº 83.556, DE 07 DE JUNHO DE 1979.
 
 Dispõe sobre a liberação e aplicação dos recursos do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios, do Fundo de Participação dos Municípios, do Fundo Especial e dá outras providências.

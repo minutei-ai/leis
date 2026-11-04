@@ -1,5 +1,3 @@
-###DEC-056917-0-000-01-10-1965@@@
-
 DECRETO Nº 56.917, DE 1º DE OUTUBRO DE 1965.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco concessão para distribuir energia elétrica.

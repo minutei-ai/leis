@@ -1,5 +1,3 @@
-###DEC-058991-0-000-04-08-1966@@@
-
 DECRETO Nº 58.991, DE 4 DE AGôSTO DE 1966.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$80.000.000.000, para ser utilizado pela Carteira de Comércio Exterior, em caráter de fundo rotativo.

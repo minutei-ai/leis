@@ -1,5 +1,3 @@
-###DEC-072353-0-000-11-06-1973@@@
-
 Decreto nº 72.353, de 11 de junho de 1973.
 
 Altera a redação dos parágrafos 1º e 2º do artigo 1º, do Decreto número 68.592, de 6 de maio de 1971, e dá outras providências.

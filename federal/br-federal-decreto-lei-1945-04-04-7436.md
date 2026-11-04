@@ -1,5 +1,3 @@
-###DEL-007436-0-000-04-04-1945@@@
-
 DECRETO-LEI N. 7.436 – DE 4 DE ABRIL DE 1945
 
 Dispõe sôbre o cargo de Auxiliar da Secretaria do extinto Senado Federal, do quadro do Congresso Nacional, do Ministério da Justiça e Negócios Interiores

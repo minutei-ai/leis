@@ -1,5 +1,3 @@
-###DEC-065437-0-000-13-10-1969@@@
-
 decreto nº 65.437 - de 13 de outubro de 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - da Universidade Federal Fluminense, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073141-0-000-12-11-1973@@@
-
 DECRETO Nº 73.141 - DE 12 DE NOVEMBRO DE 1973
 
 Concede reconhecimento ao curso de Estudos Sociais (Licenciatura de 1º Grau) da Universidade de Passo Fundo, com sede na cidade de Passo Fundo, Estado do Rio Grande do Sul.

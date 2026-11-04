@@ -1,5 +1,3 @@
-###DEC-060403-0-000-11-03-1967@@@
-
 DECRETO Nº 60.403, DE 11 DE MARÇO DE 1967.
 
 Declara aceita a doação pela Municipalidade de Pelotas, no Estado do Rio Grande do Sul, de uma área de terreno destinada à contração da Estação Fitossanitária do Sul, órgão do Serviço de Defesa e Inspeção Agropecuária do Ministério da Agricultura.

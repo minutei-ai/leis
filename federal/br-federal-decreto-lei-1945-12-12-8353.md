@@ -1,5 +1,3 @@
-###DEL-008353-0-000-12-12-1945@@@
-
 DECRETO-LEI N. 8.353 – DE 12 DE DEZEMBRO DE 1945
 
 Dá nova redação ao art. 3° do Decreto-lei nº 6.527, de 24 de maio de 1944.

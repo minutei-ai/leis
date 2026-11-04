@@ -1,5 +1,3 @@
-###DEC-000000-0-001-09-01-1823@@@
-
 DECRETO - DE 9 DE JANEIRO DE 1823
 
 Concedo aos Batalhões que pegaram em armas no Campo da Acclamação poderem trazer a insignia da Imperial Ordem do Cruzeiro nas suas bandeiras.

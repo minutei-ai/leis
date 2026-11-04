@@ -1,5 +1,3 @@
-###DEL-003406-0-000-10-07-1941@@@
-
 DECRETO-LEI N. 3.406 – DE 10 DE JULHO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 30:000$0, para aquisição de produtos destinados à confecção de preparados anti-lepródicos

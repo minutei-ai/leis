@@ -1,5 +1,3 @@
-###DEC-067993-0-000-30-12-1970@@@
-
 DECRETO Nº 67.993, DE 30 DE DEZEMBRO DE 1970.
 
 Retifica o Decreto nº 67.569, de 16 de novembro de 1970, que dispõe sôbre a reclassificação dos cargos de Revisor do Quadro de Pessoal do Estado-Maior das Fôrças Armadas.

@@ -1,5 +1,3 @@
-###DEC-065283-0-000-06-10-1969@@@
-
 DECRETO Nº 65.283 - DE 6 DE OUTUBRO DE 1969.
 
 Abre, ao Ministério dos Transportes, em favor da Superintendência Nacional de Marinha Mercante, o crédito especial de NCr$ 1.070.386,00, para o fim que especifica.
@@ -10,7 +8,33 @@ decretam:
 
 Art. 1º Fica aberto ao Ministério dos Transportes, em favor da Superintendência Nacional de Marinha Mercante, antiga Comissão de Marinha Mercante (Decreto nº 64.125, de 19 de fevereiro de 1969), o crédito especial de NCr$ 1.070.386,00 (hum milhão, setenta mil e trezentos e oitenta e seis cruzeiros novos), para atender as despesas a seguir descriminadas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:255.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NCr$</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.17.00</span></p></td><td style="width:255.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Ministério dos Transportes</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.17.03</span></p></td><td style="width:255.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Secretaria Geral (Órgãos Vinculados) Superitendência Nacional de Marinha Mercante</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.06.19.2.025</span></p></td><td style="width:255.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Subvenção à Companhia de Navegação do São Francisco para pagamento de atrasados ao pessoal.</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.0.0.0</span></p></td><td style="width:255.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Despesas Correntes</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.0.0</span></p></td><td style="width:255.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Trasnferências Correntes</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.2.0</span></p></td><td style="width:255.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Subevenções Economicas ...................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.070.386,00</span></p></td></tr></tbody></table>
+NCr$
+
+5.17.00
+
+- Ministério dos Transportes
+
+5.17.03
+
+- Secretaria Geral (Órgãos Vinculados) Superitendência Nacional de Marinha Mercante
+
+15.06.19.2.025
+
+- Subvenção à Companhia de Navegação do São Francisco para pagamento de atrasados ao pessoal.
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.2.0.0
+
+- Trasnferências Correntes
+
+3.2.2.0
+
+- Subevenções Economicas ...................................
+
+1.070.386,00
 
 Art. 2º Os recursos necessários à execução dêste Decreto decorrerão de anulação de dotações orçamentárias, constantes do Decreto-lei nº 786, de 25 de agôsto de 1969.
 

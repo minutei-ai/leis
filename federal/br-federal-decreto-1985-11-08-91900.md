@@ -1,5 +1,3 @@
-###DEC-091900-0-000-08-11-1985@@@
-
 Decreto nº 91.900, de 08 de novembro de 1985.
 
 Institui o "Dia Nacional do Urbanismo".

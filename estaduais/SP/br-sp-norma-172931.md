@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/172931)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2014/compilacao-lei-15426-22.05.2014.html)
 
 # LEI N° 15.426, DE 22 DE MAIO DE 2014

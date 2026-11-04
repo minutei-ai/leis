@@ -1,5 +1,3 @@
-###DEC-081134-0-000-27-12-1977@@@
-
 Decreto nº 81.134, de 27 de dezembro de 1977.
 
 Suspende a execução do Decreto Legislativo nº 31, de 23 de setembro de 1976, da Assembléia Legislativa do Estado do Rio de Janeiro.

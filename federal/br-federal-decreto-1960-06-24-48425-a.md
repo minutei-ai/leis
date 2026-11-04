@@ -1,5 +1,3 @@
-###DEC-048425-A-000-24-06-1960@@@
-
 Decreto nº 48.425-A, de 24 de junho de 1960.
 
 Transfere da Prefeitura Municipal de Cordisburgo para Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no município de Cordisburgo, Estado de Minas Gerais, e dá outras providências.
@@ -35,8 +33,6 @@ Rio de Janeiro, 24 de junho de 1960; 139º da Independência e 72º da Repúblic
 Juscelino Kubitschek
 
 Antônio Barros Carvalho
-
-###DEC-048425-A-000-24-06-1960@@@RET01+++
 
 DECRETO Nº 48.425, DE 24 DE JUNHO DE 1960.
 

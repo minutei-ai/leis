@@ -1,5 +1,3 @@
-###DEL-007173-0-000-19-12-1944@@@
-
 DECRETO-LEI N. 7.173 – DE 19 DE DEZEMBRO DE 1944
 
 Transfere a Estrada de Ferro Tocantins para a administração da Fundação Brasil Central e dá outras providências

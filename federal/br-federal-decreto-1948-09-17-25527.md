@@ -1,20 +1,18 @@
-###DEC-025527-0-000-17-09-1948@@@
+**DECRETO Nº 25.527, DE 17 DE SETEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.527, DE 17 DE SETEMBRO DE 1948.</strong>
+***Outorga à Companhia Açucareira Santo André do Rio Una concessão para o aproveitamento da energia hidráulica de uma queda dágua existente no Rio Una, município de Rio Formoso, Estado de Pernambuco.***
 
-<em><strong>Outorga à Companhia Açucareira Santo André do Rio Una concessão para o aproveitamento da energia hidráulica de uma queda dágua existente no Rio Una, município de Rio Formoso, Estado de Pernambuco.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra “a”, do Código de Águas,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra “a”, do Código de Águas,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Companhia Açucareira Santo André do Rio Una, concessão para o aproveitamento da energia hidráulica de uma queda dágua, situada no Rio Una, município de Rio Formoso, Estado de Pernambuco.
+**Art**. 1.º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Companhia Açucareira Santo André do Rio Una, concessão para o aproveitamento da energia hidráulica de uma queda dágua, situada no Rio Una, município de Rio Formoso, Estado de Pernambuco.
 
 § 1.º - Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga e a potência concedidas.
 
 § 2.º - O aproveitamento destina-se à produção e transmissão de energia elétrica para consumo exclusivo da concessionária que não poderá ceder qualquer parcela de energia a terceiros, mesmo a título gratuito, ficando, todavia, excluídas desta proibição, as vilas operárias e residências dos administradores da concessionária, desde que seja gratuito o fornecimento de energia que lhes fôr feito.
 
-<strong>Art</strong>. 2.º Sob pena de caducidade do presente título, a concessionária obriga-se a:
+**Art**. 2.º Sob pena de caducidade do presente título, a concessionária obriga-se a:
 
 I - Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, após a sua publicação;
 
@@ -64,26 +62,26 @@ V – Apresentar o mesmo contrato à Divisão de Águas, para os fins de registr
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3.º A concessionária fica obrigada a construir e manter, nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 3.º A concessionária fica obrigada a construir e manter, nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4.º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4.º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5.º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5.º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6.º Findo o prazo da concessão, tôda a propriedade de concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Pernambuco, em conformidade com o estipulado nos artigos 165 e 166, do Código de Águas, mediante indenização, na base do custo histórico, isto é, do capital efetivamente gasto, menos a depreciação.
+**Art**. 6.º Findo o prazo da concessão, tôda a propriedade de concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Pernambuco, em conformidade com o estipulado nos artigos 165 e 166, do Código de Águas, mediante indenização, na base do custo histórico, isto é, do capital efetivamente gasto, menos a depreciação.
 
 § 1.º Se o Estado de Pernambuco não fizer uso de seu direito a essa reversão, a concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2.º Para os efeitos do § 1.º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de Pernambuco e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 7.º A concessionária gozará, desde a data do registro de que trata o artigo 5.º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 7.º A concessionária gozará, desde a data do registro de que trata o artigo 5.º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 8.º O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 8.º O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 9.º Revogam-se as disposições em contrário.
+**Art**. 9.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 17 de setembro de 1948, 127.º da Independência e 60.º da República.
 
-<strong>EURICO G</strong>. <strong>DUTRA</strong>
+**EURICO G**. **DUTRA**
 
 Daniel de Carvalho

@@ -1,5 +1,3 @@
-###DEC-007128-0-000-11-03-2010@@@
-
 DECRETO Nº 7.128, DE 11 DE MARÇO DE 2010.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, inciso VI, alínea “a”, da Constituição,

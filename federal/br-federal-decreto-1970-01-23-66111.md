@@ -1,5 +1,3 @@
-###DEC-066111-0-000-23-01-1970@@@
-
 Decreto nº 66.111 - de 23 de janeiro de 1970
 
 Regulamenta o Capítulo III do Decreto-lei nº 239, de 28 de fevereiro de 1967, que cria o Fundo de Amparo à Tecnologia (FUNAT).

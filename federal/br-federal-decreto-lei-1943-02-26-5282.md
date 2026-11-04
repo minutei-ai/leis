@@ -1,5 +1,3 @@
-###DEL-005282-0-000-26-02-1943@@@
-
 DECRETO‑LEI N. 5.282 – DE 26 DE FEVEREIRO DE 1943
 
 Abre no Ministério do Aeronáutica crédito especial de Cr$ 4.486.775,40, para indenização ao Estado do Pará, e dá outras providências

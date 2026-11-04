@@ -1,5 +1,3 @@
-###DEC-083609-0-000-20-06-1979@@@
-
 Decreto nº 83.609, de 20 de junho de 1979.
 
 Dá nova redação a dispositivos do Decreto 71.727, de 17 de janeiro de 1973, alterado pelos Decretos 75.635, de 18 de abril de 1975, 75.689, de 2 de maio de 1975, 78.673, de 5 de novembro de 1976, 81.658, de 15 de maio de1978 e 81.960, de 11 de julho de 1978, que regulamenta, para a Marinha, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as Promoções dos Oficiais da Ativa das Forças Armadas.

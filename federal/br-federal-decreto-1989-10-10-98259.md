@@ -1,7 +1,3 @@
-1
-
-###DEC-098259-0-000-10-10-1989@@@
-
 DECRETO Nº 98.259, DE 10 DE OUTUBRO DE 1989
 
 Altera o Decreto nº 92.503, de 26 de março de 1986, que dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz.

@@ -1,5 +1,3 @@
-###DEC-045723-0-000-06-04-1959@@@
-
 DECRETO Nº 45.723, DE 6 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Adriano Seabra Fonseca a lavrar minério de chumbo nos municípios de Cerro Azul e Imbuial, Estado do Paraná.

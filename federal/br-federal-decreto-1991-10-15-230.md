@@ -1,7 +1,3 @@
-1
-
-###DEC-000230-0-000-15-10-1991@@@
-
 DECRETO Nº 230, DE 15 DE OUTUBRO DE 1991
 
 Dispõe sobre a transferência de bens, haveres e contencioso judicial da Empresa Brasileira dos Transportes Urbanos EBTU, em liquidação.

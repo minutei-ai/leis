@@ -1,5 +1,3 @@
-###DEC-058070-0-000-24-03-1966@@@
-
 DECRETO Nº 58.070, DE 24 DE MARÇO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Seguradora Brasileira, relativa ao aumento do capital social.

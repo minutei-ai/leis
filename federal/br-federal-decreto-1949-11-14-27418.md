@@ -1,14 +1,12 @@
-###DEC-027418-0-000-14-11-1949@@@
+**DECRETO Nº 27.418, DE 14 DE NOVEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.418, DE 14 DE NOVEMBRO DE 1949.</strong>
+***Cria o uniforme de parada para as bandas de música e marcial da Escola Naval.***
 
-<em><strong>Cria o uniforme de parada para as bandas de música e marcial da Escola Naval.</strong></em>
+**OPRESIDENTEDAREPÚBLLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE</strong> <strong>DA</strong> <strong>REPÚBLLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É criado o uniforme da parada para as bandas de música e marcial da Escola Naval, o qual obedecerá às seguintes especificações:
+**Art**. 1º É criado o uniforme da parada para as bandas de música e marcial da Escola Naval, o qual obedecerá às seguintes especificações:
 
 a) - Túnica de flanela azul com trespasse e duas carreiras de sete botões médios dourados, conforme Artigo 148 do R. U. P. M. G., sendo as costas lisas com uma única costura no centro. Na gola duas âncoras de metal, uma em cada lado, colocadas no sentido horizontal, com os anetes voltados para o centro. Divisas douradas do 3º uniforme no terço médio do braço. A manga leva um canhão igual ao previsto para a túnica garance no art. 154. O canhão será guarnecido com 3 botões pequenos, dourados, com gravura em relevo, junto à costura posterior do lado externo.
 
@@ -22,10 +20,10 @@ e) - Boné, com capa branca, igual ao previsto no 3º uniforme de acôrdo com o 
 
 f) - Polaínas brancas.
 
-<strong>Art</strong>. 2º - O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º - O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de janeiro, em 14 de novembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Sylvio de Noronha

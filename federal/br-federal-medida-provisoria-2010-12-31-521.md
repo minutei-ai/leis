@@ -1,5 +1,3 @@
-###MPV-000521-0-000-31-12-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 521, DE 31 DE DEZEMBRO DE 2010.
 
 Altera a Lei no 6.932, de 7 de julho de 1981, que dispõe sobre as atividades do médico-residente e prorroga o prazo de pagamento da Gratificação de Representação de Gabinete e da Gratificação Temporária para os servidores ou empregados requisitados pela Advocacia-Geral da União.

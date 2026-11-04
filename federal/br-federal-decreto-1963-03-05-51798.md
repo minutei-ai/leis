@@ -1,5 +1,3 @@
-###DEC-051798-0-000-05-03-1963@@@
-
 DECRETO Nº 51.798, DE 5 DE MARÇO DE 1963.
 
 Define a constituição do serviço Civil do Centro Técnico de Aeronáutica e regula a forma de admissão do pessoal temporáraio respectivo.

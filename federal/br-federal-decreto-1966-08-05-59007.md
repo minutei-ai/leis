@@ -1,5 +1,3 @@
-###DEC-059007-0-000-05-08-1966@@@
-
 DECRETO Nº 59.007, DE 5 DE AGÔSTO DE 1966.
 
 Suprime funções gratificadas do Quadro de Pessoal, Parte Permanente, do Ministério da Educação e Cultura.

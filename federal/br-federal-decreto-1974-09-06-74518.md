@@ -1,5 +1,3 @@
-###DEC-074518-0-000-06-09-1974@@@
-
 DECRETO Nº 74.518, DE 6 DE SETEMBRO DE 1974
 
 Aprova alteração introduzida nos Estatutos Sociais da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

@@ -1,5 +1,3 @@
-###DEC-087960-0-000-21-12-1982@@@
-
 decreto nº 87.960, de 21 de dezembro de 1982
 
 Homologa a demarcação da área indígena que menciona, no Estado do Maranhão.

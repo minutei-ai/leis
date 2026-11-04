@@ -1,5 +1,3 @@
-###DEC-006084-0-000-19-04-2007@@@
-
 DECRETO Nº 6.084, DE 19 DE ABRIL DE 2007.
 
 Promulga o Acordo Quadro de Cooperação em Matéria de Defesa entre a República Federativa do Brasil e a Argentina, celebrado em Puerto Iguazú, em 30 de novembro de 2005.
@@ -24,11 +22,7 @@ Brasília, 19 de abril de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 20.4.2007
-
-ACORDO QUADRO DE COOPERAÇÃO EM MATÉRIA DE DEFESA ENTRE A
+Celso Luiz Nunes AmorimACORDO QUADRO DE COOPERAÇÃO EM MATÉRIA DE DEFESA ENTRE A
 
 REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ARGENTINA
 

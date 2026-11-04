@@ -1,5 +1,3 @@
-###DEL-008298-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.298 – DE 5 DE DEZEMBRO DE 1945
 
 Cria cargo isolado no Quadro Permanente do Ministério da Fazenda e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-079893-0-000-29-06-1977@@@
-
 Decreto nº 79.893, de 29 de junho de 1977
 
 Fixa os valores dá contribuição para o desenvolvimento da indústria cinematográfica nacional.
@@ -12,7 +10,41 @@ Art. 1º - A contribuição para o desenvolvimento da indústria cinematográfic
 
 Art. 2º - Quando se tratar de exibição em cinema, aplicar-se-á, por título de filme, a seguinte tabela para valores da contribuição referida no artigo 1º:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:140.25pt; border-right-style:solid; border-right-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DURAÇÃO DO FILME</span></p></td><td style="width:96.25pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.5pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">BITOLA</span></p></td><td style="width:96.2pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:140.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:96.25pt; border-style:solid; border-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35mm/70mm</span></p></td><td style="width:96.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16mm/8mm/S.8</span></p></td></tr><tr><td style="width:140.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:96.25pt; border-style:solid; border-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$</span></p></td><td style="width:96.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$</span></p></td></tr><tr><td style="width:140.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 15 minutos</span></p></td><td style="width:96.25pt; border-style:solid; border-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6,800,00</span></p></td><td style="width:96.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.100,00</span></p></td></tr><tr><td style="width:140.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15 a 30 minutos</span></p></td><td style="width:96.25pt; border-style:solid; border-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11.700,00</span></p></td><td style="width:96.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.500,00</span></p></td></tr><tr><td style="width:140.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30 a 60 minutos</span></p></td><td style="width:96.25pt; border-style:solid; border-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.000,00</span></p></td><td style="width:96.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.000,00</span></p></td></tr><tr><td style="width:140.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Acima de 60 minutos</span></p></td><td style="width:96.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60.000,00</span></p></td><td style="width:96.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:1.12pt; padding-left:1.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16.000,00</span></p></td></tr></tbody></table>
+DURAÇÃO DO FILME
+
+BITOLA
+
+35mm/70mm
+
+16mm/8mm/S.8
+
+Cr$
+
+Cr$
+
+Até 15 minutos
+
+6,800,00
+
+3.100,00
+
+15 a 30 minutos
+
+11.700,00
+
+5.500,00
+
+30 a 60 minutos
+
+28.000,00
+
+10.000,00
+
+Acima de 60 minutos
+
+60.000,00
+
+16.000,00
 
 § 1º - Estão isentos da contribuição prevista neste artigo os filmes destinados à exibição exclusiva em cine-clubes e cinematecas, desde que sem finalidade lucrativa.
 
@@ -24,11 +56,59 @@ Art. 2º - Quando se tratar de exibição em cinema, aplicar-se-á, por título 
 
 Art. 3º - Quando de tratar de exibição em televisão, aplicar-se-á, por título de filme, a seguinte tabela de valores para a contribuição prevista no artigo 1º:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DURAÇÃO DO FILME</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VALOR</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Cr$)</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 5 minutos</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">300,00</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5 a 15 minutos</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">900,00</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15 a 30 minutos</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.800,00</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30 a 60 minutos</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.600,00</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Acima de 60 minutos</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.000,00</span></p></td></tr></tbody></table>
+DURAÇÃO DO FILME
+
+VALOR
+
+(Cr$)
+
+Até 5 minutos
+
+300,00
+
+5 a 15 minutos
+
+900,00
+
+15 a 30 minutos
+
+1.800,00
+
+30 a 60 minutos
+
+3.600,00
+
+Acima de 60 minutos
+
+5.000,00
 
 Art. 4º - Quando se tratar da exibição de filme publicitário, tanto em cinema como em televisão, aplicar-se-á, por título de filme, a seguinte tabela de valores para a contribuição referida no artigo 1º:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DURAÇÃO DO FILME</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VALOR</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Cr$)</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 15 segundos</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">770,00</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15 a 30 segundos</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.155,00</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30 a 45 segundos</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.540,00</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45 a 60 segundos</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.825,00</span></p></td></tr><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Acima de 60 segundos</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.310,00</span></p></td></tr></tbody></table>
+DURAÇÃO DO FILME
+
+VALOR
+
+(Cr$)
+
+Até 15 segundos
+
+770,00
+
+15 a 30 segundos
+
+1.155,00
+
+30 a 45 segundos
+
+1.540,00
+
+45 a 60 segundos
+
+1.825,00
+
+Acima de 60 segundos
+
+2.310,00
 
 Art. 5º - O produtor nacional poderá ser dispensado do recolhimento imediato da contribuição de que trata este Decreto, obrigando-se a fazê-lo por ocasião do recebimento das parcelas do incentivo a que se refere o item VI do artigo 6º da Lei nº 6.281, de 9 de Dezembro de 1975, na forma estabelecida pelo Conselho Nacional de Cinema - CONCINE.
 

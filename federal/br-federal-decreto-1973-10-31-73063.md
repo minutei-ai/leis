@@ -1,5 +1,3 @@
-###DEC-073063-0-000-31-10-1973@@@
-
 Decreto Nº 73.063, de 31 de outubro de 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio e TV Difusora Portoalegrense S.A. para executar serviço de radiodifusão sonora, em onda média de âmbito nacional, na cidade de Porto Alegre, Estado do Rio Grande do Sul.

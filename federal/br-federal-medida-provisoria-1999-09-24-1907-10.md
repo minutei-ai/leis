@@ -1,5 +1,3 @@
-###MPV-001907-0-010-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.907-10, DE 24 DE SETEMBRO DE 1999.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

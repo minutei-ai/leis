@@ -1,24 +1,22 @@
-###DEC-036219-0-000-23-09-1954@@@
+**DECRETO Nº 36.219, DE 23 DE SETEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.219, DE 23 DE SETEMBRO DE 1954.</strong>
+***Extingue a Comissão Executiva instituída pelo Decreto nº 32.702, de 4 de maio de 1953.***
 
-<em><strong>Extingue a Comissão Executiva instituída pelo Decreto nº 32.702, de 4 de maio de 1953.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica extinta a Comissão criada pelo Decreto nº 32.702 de 4 de maio de 1953.
 
-<strong>Art</strong>. 1º Fica extinta a Comissão criada pelo Decreto nº 32.702 de 4 de maio de 1953.
+**Art**. 2º As atribuições conferidas a comissão a que se refere o artigo anterior transferidas a Superintendência do Plano de Valorização Econômica da Amazônia.
 
-<strong>Art</strong>. 2º As atribuições conferidas a comissão a que se refere o artigo anterior transferidas a Superintendência do Plano de Valorização Econômica da Amazônia.
+**Art**. 3º A Comissão extinta nos têrmos dêste Decreto prestará contas ao Tribunal de Contas da aplicação dos recursos postos à sua disposição para socorro às populações atingidas pela enchente do Rio Amazonas e seus tributários.
 
-<strong>Art</strong>. 3º A Comissão extinta nos têrmos dêste Decreto prestará contas ao Tribunal de Contas da aplicação dos recursos postos à sua disposição para socorro às populações atingidas pela enchente do Rio Amazonas e seus tributários.
-
-<strong>Art</strong>. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 23 de setembro de 1954, 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Miguel Seabra Fagundes
 

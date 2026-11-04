@@ -1,5 +1,3 @@
-###DEC-062320-0-000-28-02-1968@@@
-
 DECRETO Nº 62.320, DE 28 DE FEVEREIRO DE 1968.
 
 Altera dispositivos do Regimento do Departamento do Impôosto de Renda, aprovado pelo Decreto nº 55.855, de 24 de março de 1965, e dá outras providências.

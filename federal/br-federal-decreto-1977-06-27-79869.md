@@ -1,5 +1,3 @@
-###DEC-079869-0-000-27-06-1977@@@
-
 DECRETO Nº 79.869, DE 27 DE JUNHO DE 1977
 
 Concede reconhecimento ao curso de Letras, da Faculdade de Filosofia, Ciências e Letras "Eugênio Pacelli", com sede na Cidade de Pouso Alegre, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-075410-0-000-25-02-1975@@@
-
 DECRETO Nº 75.410, DE 25 DE FEVEREIRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Contábeis e Administração de Empresas, mantida pela Fundação Técnico-Educacional Souza Marques, com sede na Cidade do Rio de Janeiro, Estado da Guanabara.

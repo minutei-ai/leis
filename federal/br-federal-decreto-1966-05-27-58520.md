@@ -1,5 +1,3 @@
-###DEC-058520-0-000-27-05-1966@@@
-
 DECRETO Nº 58.520, DE 27 DE MAIO DE 1966.
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$40.268.500 (quarenta milhões, duzentos e sessenta e oito mil e quinhentos cruzeiros), para atender a despesas dos exercícios de 1962, 1963 e 1964, decorrentes dos encargos previstos no Acórdão Básico de Assistência Técnica, celebrado em 1951, com a Organização de Alimentação e Agricultura da Nações Unidas (FAO) (E.M. 907, de 4-11-64, do M.F.).

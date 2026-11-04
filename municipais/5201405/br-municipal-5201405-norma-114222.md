@@ -24,8 +24,10 @@ Art. 4º Este Decreto entrará em vigor na data de sua publicação.
 
 Município de Aparecida de Goiânia-GO, 16 de setembro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-DANIEL MÁRCIO DE OLIVEIRA<br>
+DANIEL MÁRCIO DE OLIVEIRA
+
 Secretário de Habitação

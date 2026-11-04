@@ -1,5 +1,3 @@
-###DEC-058895-0-000-20-07-1966@@@
-
 Decreto nº 58.895, de 20 de julho de 1966.
 
 Regula a concessão do Prêmio “Marinha do Brasil” à Marinha de Guerra Argentina.

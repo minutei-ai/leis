@@ -1,5 +1,3 @@
-###DEC-056861-0-000-14-09-1965@@@
-
 DECRETO Nº 56.861, DE 14 DE SETEMBRO DE 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno, em Caico - RN destinado ao Ministério da Guerra.

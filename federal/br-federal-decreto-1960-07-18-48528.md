@@ -1,5 +1,3 @@
-###DEC-048528-0-000-18-07-1960@@@
-
 DECRETO Nº 48.528, DE 18 DE JULHO DE 1960.
 
 Declara Prioritária o desenvolvimento do Nordeste, para efeito isenção de impostos e taxas federais a importação dos equipamentos novos , cra descritos e a serem trazidos do exterior pela emprêsa Ron Bacardi S.A.

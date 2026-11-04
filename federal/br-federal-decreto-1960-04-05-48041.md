@@ -1,5 +1,3 @@
-###DEC-048041-0-000-05-04-1960@@@
-
 DECRETO Nº 48.041, de 5 DE abril de1960.
 
 Outorga à Prefeitura Municipal de Escada, Estado de Pernambuco, concessão para distribuir energia elétrica.

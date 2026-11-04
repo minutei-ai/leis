@@ -100,7 +100,33 @@ IV - pelo decurso do prazo de recebimento de pensão pelo cônjuge, companheiro 
 
 § 5º O tempo de duração da pensão por morte devida ao cônjuge, companheiro ou companheira, inclusive na hipótese de que trata o § 2º do art. 76, será calculado de acordo com sua expectativa de sobrevida no momento do óbito do instituidor segurado, conforme tabela abaixo:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-left:51.05pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:228.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span style="font-weight:bold">Expectativa de sobrevida à idade x do cônjuge, companheiro ou companheira, em anos (E(x))</span></p></td><td style="width:145.9pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span style="font-weight:bold">Duração do benefício de pensão por morte (em anos)</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>55 &lt; E(x)</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>3</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>50 &lt; E(x) £ 55</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>6</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>45 &lt; E(x) £ 50</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>9</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>40 &lt; E(x) £ 45</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>12</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>35 &lt; E(x) £ 40</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>15</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>E(x) £ 35</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>vitalícia</span></p></td></tr></tbody></table>
+Expectativa de sobrevida à idade x do cônjuge, companheiro ou companheira, em anos (E(x))
+
+Duração do benefício de pensão por morte (em anos)
+
+55 &lt; E(x)
+
+3
+
+50 &lt; E(x) £ 55
+
+6
+
+45 &lt; E(x) £ 50
+
+9
+
+40 &lt; E(x) £ 45
+
+12
+
+35 &lt; E(x) £ 40
+
+15
+
+E(x) £ 35
+
+vitalícia
 
 § 6º Para efeito do disposto no § 5º, a expectativa de sobrevida será obtida a partir da Tábua Completa de Mortalidade - ambos os sexos - construída pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, vigente no momento do óbito do segurado instituidor.
 
@@ -146,7 +172,33 @@ VI - o irmão, até vinte e um anos de idade, ou o inválido ou que tenha defici
 
 I - o tempo de duração da pensão por morte será calculado de acordo com a expectativa de sobrevida do beneficiário na data do óbito do servidor ou aposentado, conforme tabela abaixo:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-left:51.05pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:228.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span style="font-weight:bold">Expectativa de sobrevida à idade x do cônjuge, companheiro ou companheira, em anos (E(x))</span></p></td><td style="width:145.9pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span style="font-weight:bold">Duração do benefício de pensão por morte (em anos)</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>55 &lt; E(x)</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>3</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>50 &lt; E(x) £ 55</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>6</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>45 &lt; E(x) £ 50</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>9</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>40 &lt; E(x) £ 45</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>12</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>35 &lt; E(x) £ 40</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>15</span></p></td></tr><tr><td style="width:228.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>E(x) £ 35</span></p></td><td style="width:145.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt"><span>vitalícia</span></p></td></tr></tbody></table>
+Expectativa de sobrevida à idade x do cônjuge, companheiro ou companheira, em anos (E(x))
+
+Duração do benefício de pensão por morte (em anos)
+
+55 &lt; E(x)
+
+3
+
+50 &lt; E(x) £ 55
+
+6
+
+45 &lt; E(x) £ 50
+
+9
+
+40 &lt; E(x) £ 45
+
+12
+
+35 &lt; E(x) £ 40
+
+15
+
+E(x) £ 35
+
+vitalícia
 
 II - o cônjuge, companheiro ou companheira não terá direito ao benefício da pensão por morte se o casamento ou o início da união estável tiver ocorrido há menos de dois anos da data do óbito do instituidor do benefício, salvo nos casos em que:
 

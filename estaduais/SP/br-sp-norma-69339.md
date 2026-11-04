@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69339)
-
 # LEI Nº 12.450, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 114/2006, do Deputado Geraldo Vinholi)

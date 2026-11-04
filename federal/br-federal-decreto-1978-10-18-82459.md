@@ -1,5 +1,3 @@
-###DEC-082459-0-000-18-10-1978@@@
-
 Decreto nº 82.459, de 18 de outubro de 1978.
 
 Declara a caducidade da autorização de lavra que menciona.

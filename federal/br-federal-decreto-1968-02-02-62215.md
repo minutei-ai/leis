@@ -1,5 +1,3 @@
-###DEC-062215-0-000-02-02-1968@@@
-
 DECRETO Nº 62.215, DE 2 DE FEVEREIRO DE 1968.
 
 Transforma em Alfândega a Mesa de Rendas de Foz do Iguaçu, cria função gratificada de Inspetor e dá outras providências.

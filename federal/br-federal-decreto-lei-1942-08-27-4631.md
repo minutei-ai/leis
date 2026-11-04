@@ -1,5 +1,3 @@
-###DEL-004631-0-000-27-08-1942@@@
-
 DECRETO-LEI N. 4.631 – DE 27 DE AGOSTO DE 1942
 
 Autoriza a Estrada de Ferro Central do Brasil a explorar turfeiras

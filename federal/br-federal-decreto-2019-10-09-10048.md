@@ -22,4 +22,4 @@ JAIR MESSIAS BOLSONARO
 
 Ernesto Henrique Fraga Araújo
 
-Paulo Guedes<br>
+Paulo Guedes

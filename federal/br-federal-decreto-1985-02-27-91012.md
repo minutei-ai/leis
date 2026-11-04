@@ -1,5 +1,3 @@
-###DEC-091012-0-000-27-02-1985@@@
-
 DECRETO Nº 91.012, dE 27 de fevereiro dE 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

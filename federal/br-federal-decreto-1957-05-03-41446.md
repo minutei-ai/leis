@@ -1,28 +1,26 @@
-###DEC-041446-0-000-03-05-1957@@@
+**DECRETO Nº 41.446, DE 3 DE MAIO DE 1957.**
 
-<strong>DECRETO Nº 41.446, DE 3 DE MAIO DE 1957.</strong>
+***Regulamenta o art. 32 da Lei número 2.973, de 26 de novembro de 1956, e Lei nº 2.134, de 14 de dezembro de 1953, no que se refere ao financiamento dos serviços municipais de abastecimento d'água.***
 
-<em><strong>Regulamenta o art. 32 da Lei número 2.973, de 26 de novembro de 1956, e Lei nº 2.134, de 14 de dezembro de 1953, no que se refere ao financiamento dos serviços municipais de abastecimento d'água.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º O Banco Nacional do Desenvolvimento Econômico e as Caixas Econômicas Federais financiarão os projetos de instalação, nas cidades de Municípios do interior, dos serviços de abastecimento d'água essenciais ao seu desenvolvimento econômico-social e ao seu bem-estar de suas populações urbanas e suburbanas.
 
-<strong>Art</strong>. 1º O Banco Nacional do Desenvolvimento Econômico e as Caixas Econômicas Federais financiarão os projetos de instalação, nas cidades de Municípios do interior, dos serviços de abastecimento d'água essenciais ao seu desenvolvimento econômico-social e ao seu bem-estar de suas populações urbanas e suburbanas.
-
-§ 1º Caberá às Caixas Econômicas Federais, nos respectivos Estados, negociar e conceder os empréstimos, <em>ad referendum</em> do Conselho Superior das Caixas Econômicas.
+§ 1º Caberá às Caixas Econômicas Federais, nos respectivos Estados, negociar e conceder os empréstimos, *ad referendum* do Conselho Superior das Caixas Econômicas.
 
 § 2º O Banco Nacional do Desenvolvimento Econômico refinanciará as Caixas Econômicas nos empréstimos concedidos de acôrdo com êste decreto, até o limite de 80% (oitenta por cento) do montante de cada um.
 
 § 3º Ao Serviço Especial de Saúde Pública (SESP) do Ministério da Saúde, incube a aprovação técnica do projeto e do orçamento das obras projetadas.
 
-<strong>Art</strong>. 2º Sòmente serão financiados na forma dêste decreto os Municípios com renda anual inferior a Cr$15.000.000,00 (quinze milhões de cruzeiros).
+**Art**. 2º Sòmente serão financiados na forma dêste decreto os Municípios com renda anual inferior a Cr$15.000.000,00 (quinze milhões de cruzeiros).
 
 Do Limite dos Financiamentos
 
-<strong>Art</strong>. 3º As Caixas poderão financiar o custo total das obras, aquisições ou instalações necessárias a implantação do serviço, mas os encargos financeiros do empréstimo não deverão exceder a receita provável de 50% da quota municipal do impôsto de renda, salvo se o mutuário oferecer garantias adicionais suficientes.
+**Art**. 3º As Caixas poderão financiar o custo total das obras, aquisições ou instalações necessárias a implantação do serviço, mas os encargos financeiros do empréstimo não deverão exceder a receita provável de 50% da quota municipal do impôsto de renda, salvo se o mutuário oferecer garantias adicionais suficientes.
 
-<strong>Art</strong>. 4º Se o custo da instalação do serviço fôr maior que o limite do empréstimo referido no artigo anterior, o Município poderá ser financiado até aquêle limite, desde que prove dispor de recursos necessários para complementar o empréstimo, pela existência de:
+**Art**. 4º Se o custo da instalação do serviço fôr maior que o limite do empréstimo referido no artigo anterior, o Município poderá ser financiado até aquêle limite, desde que prove dispor de recursos necessários para complementar o empréstimo, pela existência de:
 
 a) verba no orçamento municipal;
 
@@ -36,7 +34,7 @@ Parágrafo único. No caso de o orçamento do projeto exceder as fôrças dos me
 
 Dos Projetos
 
-<strong>Art</strong>. 5º O Município interessado deverá promover o estudo, projeto e orçamento da instalação do serviço, por entidade pública ou privada ou especialista de reconhecida competência técnica.
+**Art**. 5º O Município interessado deverá promover o estudo, projeto e orçamento da instalação do serviço, por entidade pública ou privada ou especialista de reconhecida competência técnica.
 
 § 1º As entidades incumbidas do projetamento deverão elaborar, em colaboração com as autoridades municipais, planos de expansão, tendo em vista o desenvolvimento futuro da cidade, de modo a evitar a obsolência prematura dos sistemas a instalar.
 
@@ -44,13 +42,13 @@ Dos Projetos
 
 § 3º Ao fim de cada trimestre civil, o SESP remeterá ao Banco Nacional do Desenvolvimento Econômico a relação dos projetos aprovados no trimestre terminado, e o montante dos respectivos orçamentos.
 
-<strong>Art</strong>. 6º Os projetos que não forem elaborados pelo SESP deverão ser submetidos à aprovação dêste, acompanhados de memorial justificativo do serviço programado, e obedecerão às normas gerais de elaboração de projetos estabelecidas pelo SESP.
+**Art**. 6º Os projetos que não forem elaborados pelo SESP deverão ser submetidos à aprovação dêste, acompanhados de memorial justificativo do serviço programado, e obedecerão às normas gerais de elaboração de projetos estabelecidas pelo SESP.
 
-<strong>Art</strong>. 7º o orçamento deverá ter seus preços atualizados á época de apresentação do pedido de financiamento.
+**Art**. 7º o orçamento deverá ter seus preços atualizados á época de apresentação do pedido de financiamento.
 
 Dos Pedidos de Financiamento às Caixas Econômicas
 
-<strong>Art</strong>. 8º Os Municípios dirigirão seus pedidos de financiamento às Caixas Econômicas Federais dos respectivos Estados, instruídos com os seguintes documentos, devidamente autenticados:
+**Art**. 8º Os Municípios dirigirão seus pedidos de financiamento às Caixas Econômicas Federais dos respectivos Estados, instruídos com os seguintes documentos, devidamente autenticados:
 
 a) projeto e orçamento das obras a realizar, memorial justificativo do serviço programado e parecer aprobatório do SESP;
 
@@ -72,7 +70,7 @@ i) prova da existência de recursos suficiente para complementar o empréstimo (
 
 j) relação das garantias oferecidas.
 
-<strong>Art</strong>. 9º As Caixas Econômicas, na apreciação do pedido, verificarão:
+**Art**. 9º As Caixas Econômicas, na apreciação do pedido, verificarão:
 
 a) o preenchimento, pelo Município, das condições previstas neste decreto,
 
@@ -82,13 +80,13 @@ c) a situação econômico-financeira do Município e a sua capacidade de pagame
 
 d) o cumprimento das normas estabelecidas pelo Conselho Superior das Caixas Econômicas e pelo Ministério da Fazenda, quando fôr o caso.
 
-<strong>Art</strong>. 10. Aprovado o empréstimo, a Caixa Econômica assinará o contrato, sujeito à condição da obtenção do refinanciamento no Banco Nacional do Desenvolvimento Econômico.
+**Art**. 10. Aprovado o empréstimo, a Caixa Econômica assinará o contrato, sujeito à condição da obtenção do refinanciamento no Banco Nacional do Desenvolvimento Econômico.
 
-<strong>Art</strong>. 11. A Caixa Econômica remeterá ao Banco Nacional do Desenvolvimento Econômico o contrato celebrado, acompanhado dos documentos referidos no art. 8º e dos pareceres que serviram de base ao deferimento do pedido.
+**Art**. 11. A Caixa Econômica remeterá ao Banco Nacional do Desenvolvimento Econômico o contrato celebrado, acompanhado dos documentos referidos no art. 8º e dos pareceres que serviram de base ao deferimento do pedido.
 
 Das condições dos Empréstimos
 
-<strong>Art</strong>. 12. Ao mutuários dos empréstimos concedidos pelo Banco poderão ser:
+**Art**. 12. Ao mutuários dos empréstimos concedidos pelo Banco poderão ser:
 
 a) sociedade de economia mista constituídas pelo município ou por mais de um município para a exploração de seus serviços de água;
 
@@ -100,7 +98,7 @@ d) emprêsas privadas que venham explorando o serviços sob o regime de concess�
 
 Parágrafo único. Em qualquer hipótese, o serviço deverá ser explorado por entidade organizada de modo a permitir autonomia financeira do serviço e administração especializada, adaptada às características do mesmo, dispondo de assistência técnica suficiente, própria ou contratada. A administração poderá também ser contratada com entidade pública ou privada especializada.
 
-<strong>Art</strong>. 13. Os empréstimos serão concedidos mediante abertura de crédito fixo, para ser utilizado à medida das necessidades da realização das obras, e obedecerão às seguintes condições:
+**Art**. 13. Os empréstimos serão concedidos mediante abertura de crédito fixo, para ser utilizado à medida das necessidades da realização das obras, e obedecerão às seguintes condições:
 
 a) prazo de utilização: de acôrdo com o previsto para a realização das obras;
 
@@ -118,7 +116,7 @@ g) administração de serviço, segundo normas padronizadas do SESP;
 
 h) obrigação do Município de cobrar contribuição de melhoria sôbre a valorização imobiliária resultante da instalação do serviço e empregar o produto no pagamento do empréstimo.
 
-<strong>Art</strong>. 14. O Município e a autarquia ou sociedade mutuária destinarão ao pagamento do empréstimo:
+**Art**. 14. O Município e a autarquia ou sociedade mutuária destinarão ao pagamento do empréstimo:
 
 a) a renda líquida da exploração do serviço; e
 
@@ -154,23 +152,23 @@ c) pela caução de ações dos Municípios na Petrobrás, ou na Rêde Ferroviá
 
 Da realização das Obras
 
-<strong>Art</strong>. 15. A entidade financiada executará diretamente ou contratará a execução do projeto financiado com entidades públicas ou privadas de reconhecida capacidade técnica e de idoneidade financeira.
+**Art**. 15. A entidade financiada executará diretamente ou contratará a execução do projeto financiado com entidades públicas ou privadas de reconhecida capacidade técnica e de idoneidade financeira.
 
 § 1º A fiscalização da execução da obra, em qualquer caso, será exercida pelo SESP, por delegação da Caixa financiadora, e por outros fiscais designados pelos credores.
 
 § 2º A execução das obras será sujeita à aprovação da Caixa e obedecerá a normas prescritas pelo Banco Nacional do Desenvolvimento Econômico, ouvido o Conselho Superior das Caixas Econômicas.
 
-<strong>Art</strong>. 16. No caso de Execução direta, o mutuário submeterá à aprovação da Caixa e do SESP a entidade ou responsável técnico pelas obras.
+**Art**. 16. No caso de Execução direta, o mutuário submeterá à aprovação da Caixa e do SESP a entidade ou responsável técnico pelas obras.
 
 Parágrafo único. A entidade ou responsável técnico deverá obedecer às normas prescritas pelo Banco Nacional do Desenvolvimento Econômico, ouvido o Conselho Superior das Caixas Econômicas.
 
-<strong>Art</strong>. 17. O Banco Nacional do Desenvolvimento Econômico manterá uma relação das entidades com as quais os mutuários poderão contratar as obras. As entidades serão incluídas na relação, mediante pedido, ao Banco Nacional do Desenvolvimento Econômico, instruído por:
+**Art**. 17. O Banco Nacional do Desenvolvimento Econômico manterá uma relação das entidades com as quais os mutuários poderão contratar as obras. As entidades serão incluídas na relação, mediante pedido, ao Banco Nacional do Desenvolvimento Econômico, instruído por:
 
 a) cópia dos três últimos balanços e contas de lucros e perdas;
 
 b) contrato ou estatutos sociais, ou legislação reguladora, e relação dos sócios, acionistas ou dirigentes;
 
-c) <em>currícula</em> <em>vitae</em> dos principais responsáveis pela direção técnica;
+c) *currículavitae* dos principais responsáveis pela direção técnica;
 
 d) obras de engenharia sanitária já realizadas pela entidade ou pelo seu responsável técnico.
 
@@ -180,7 +178,7 @@ d) obras de engenharia sanitária já realizadas pela entidade ou pelo seu respo
 
 Da Administração dos Serviços
 
-<strong>Art</strong>. 18. Enquanto não fôr liquidado o empréstimo concedido nos têrmos dêste decreto, os credores terão o direito de fiscalizar a exploração e a administração dos serviços financiados.
+**Art**. 18. Enquanto não fôr liquidado o empréstimo concedido nos têrmos dêste decreto, os credores terão o direito de fiscalizar a exploração e a administração dos serviços financiados.
 
 § 1º Esta fiscalização será exercida em colaboração com o SESP, que estabelecerá normas para a administração, conservação, e operação do sistema financiado.
 
@@ -188,7 +186,7 @@ Da Administração dos Serviços
 
 Do Refinanciamento pelo B.N.D.E.
 
-<strong>Art</strong>. 19. O Banco Nacional do Desenvolvimento Econômico refinanciará às Caixas Econômicas até 80% do montante dos empréstimos por elas concedidos nos têrmos dêste decreto.
+**Art**. 19. O Banco Nacional do Desenvolvimento Econômico refinanciará às Caixas Econômicas até 80% do montante dos empréstimos por elas concedidos nos têrmos dêste decreto.
 
 § 1º O contrato entre o Banco e a Caixa terá a forma de abertura de crédito fixo, para ser sacado pela Caixa contra a apresentação do recibo das utilizações da entidade financiada.
 
@@ -202,7 +200,7 @@ Do Refinanciamento pelo B.N.D.E.
 
 Da Ordem de Atendimento dos Pedidos
 
-<strong>Art</strong>. 20. No caso de o montante total dos pedidos, em cada Estado, ultrapassar a capacidade financeira da respectiva Caixa, esta concederá os empréstimos segundo os seguintes critérios de prioridade:
+**Art**. 20. No caso de o montante total dos pedidos, em cada Estado, ultrapassar a capacidade financeira da respectiva Caixa, esta concederá os empréstimos segundo os seguintes critérios de prioridade:
 
 a) maior número de casas localizadas nas zonas urbanas e suburbanas segundo o lançamento feito pela Prefeitura;
 
@@ -242,7 +240,7 @@ g) interêsse especial, determinado pelas seguintes condições:
 
 § 2º A cada Município sòmente será concedido um empréstimo, até que tenham sido atendidos, em cada Estado, todos os Municípios com primeiro pedido pendente.
 
-<strong>Art</strong>. 21. O Conselho Superior fixará semestralmente o montante de aplicações das Caixas Econômicas destinadas aos financiamentos previstos neste decreto.
+**Art**. 21. O Conselho Superior fixará semestralmente o montante de aplicações das Caixas Econômicas destinadas aos financiamentos previstos neste decreto.
 
 § 1º Ao fim de cada semestre civil, as Caixas Econômicas enviarão por intermédio do Conselho Superior ao Banco Nacional do Desenvolvimento Econômico relação, segundo padrão estabelecido pelo Banco, indicando:
 
@@ -256,15 +254,15 @@ d) a previsão dos empréstimos que poderão atender no semestre seguinte;
 
 e) os Municípios que estejam estudando projetos ou tomando providências para a apresentação de pedidos de financiamento, e o seu montante estimado.
 
-<strong>Art</strong>. 22. O Conselho Superior, tendo em vista a situação econômico-financeira das Caixas Econômicas Federais, bem como as suas respectivas disponibilidades, deverá levar ao conhecimento do Ministro da Fazenda e do Banco Nacional do Desenvolvimento Econômico, fundamentalmente, as razões que impossibilitem as aplicações previstas neste decreto, por parte de qualquer Caixa Econômica.
+**Art**. 22. O Conselho Superior, tendo em vista a situação econômico-financeira das Caixas Econômicas Federais, bem como as suas respectivas disponibilidades, deverá levar ao conhecimento do Ministro da Fazenda e do Banco Nacional do Desenvolvimento Econômico, fundamentalmente, as razões que impossibilitem as aplicações previstas neste decreto, por parte de qualquer Caixa Econômica.
 
-<strong>Art</strong>. 23. O Banco Nacional do Desenvolvimento Econômico fixará semestralmente o montante de suas aplicações nos refinanciamentos previstos no art. 19 e dentro dêste limite atenderá aos pedidos na ordem de recebimento das Caixas, desde que satisfeitas as condições estabelecidas neste decreto.
+**Art**. 23. O Banco Nacional do Desenvolvimento Econômico fixará semestralmente o montante de suas aplicações nos refinanciamentos previstos no art. 19 e dentro dêste limite atenderá aos pedidos na ordem de recebimento das Caixas, desde que satisfeitas as condições estabelecidas neste decreto.
 
-<strong>Art</strong>. 24. O Banco Nacional do Desenvolvimento Econômico, com base nas relações referidas no artigo 21, orçará o montante dos recursos adicionais indispensáveis às Caixas e ao próprio Banco, para atender aos pedidos pendentes e previstos, e proporá ao Presidente da República, por intermédio do Ministro da Fazenda, as providências executivas ou a propositura ao Congresso Nacional das medidas legislativas que se fizerem necessárias para o atendimento de tôdas as solicitações de empréstimos na forma dêste decreto.
+**Art**. 24. O Banco Nacional do Desenvolvimento Econômico, com base nas relações referidas no artigo 21, orçará o montante dos recursos adicionais indispensáveis às Caixas e ao próprio Banco, para atender aos pedidos pendentes e previstos, e proporá ao Presidente da República, por intermédio do Ministro da Fazenda, as providências executivas ou a propositura ao Congresso Nacional das medidas legislativas que se fizerem necessárias para o atendimento de tôdas as solicitações de empréstimos na forma dêste decreto.
 
-<strong>Art</strong>. 25. O Banco Nacional do Desenvolvimento Econômico preparará minutas padronizadas dos atos legislativos; instrumentos contratuais, atos constitutivos de sociedade e estatutos sociais necessários para as operações previstas neste decreto, e as publicará, juntamente com instruções detalhadas que facilitem aos Municípios as providências para a instalação de serviços de água nos moldes previstos neste decreto.
+**Art**. 25. O Banco Nacional do Desenvolvimento Econômico preparará minutas padronizadas dos atos legislativos; instrumentos contratuais, atos constitutivos de sociedade e estatutos sociais necessários para as operações previstas neste decreto, e as publicará, juntamente com instruções detalhadas que facilitem aos Municípios as providências para a instalação de serviços de água nos moldes previstos neste decreto.
 
-<strong>Art</strong>. 26. Semestralmente, o Banco Nacional do Desenvolvimento Econômico publicará no <em>Diário Oficial</em>:
+**Art**. 26. Semestralmente, o Banco Nacional do Desenvolvimento Econômico publicará no *Diário Oficial*:
 
 a) o montante de suas disponibilidades para refinanciamento (artigo 23);
 
@@ -274,11 +272,11 @@ c) a relação dos pedidos de refinanciamento em seu poder e ainda não deferido
 
 d) a relação dos pedidos de financiamento em poder das Caixas Econômicas e ainda não deferidos.
 
-<strong>Art</strong>. 27. Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 27. Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 3 de maio de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim
 

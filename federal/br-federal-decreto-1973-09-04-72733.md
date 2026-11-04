@@ -1,5 +1,3 @@
-###DEC-072733-0-000-04-09-1973@@@
-
 DECRETO Nº 72.733, de 4 de Setembro de 1973.
 
 Concede à Júlio Bento da Silva, firma individual, o direito de lavrar diamante no Município de Diamantina, Estado de Minas Gerais.

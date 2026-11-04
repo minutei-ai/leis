@@ -1,5 +1,3 @@
-###DEC-090377-0-000-29-10-1984@@@
-
 Decreto nº 90.377, de 29 de outubro de 1984.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Roncador" situado no Município de São Félix do Araguaia, no Estado de Mato Grosso, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 90.376, de 29 de outubro de 1984.

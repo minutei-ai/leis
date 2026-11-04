@@ -76,7 +76,8 @@ I – envolva débitos não inscritos em dívida ativa;
 
 II – envolva débito integralmente garantido por depósito, seguro garantia ou fiança bancária quando a ação antiexacional ou os embargos à execução tenham transitado em julgado favoravelmente à Fazenda Pública Estadual; ou
 
-~~III – envolva o adicional do Imposto sobre Circulação de Mercadorias e Serviços de Transporte Intermunicipal e Interestadual e de Comunicação – ICMS destinado ao Fundo Estadual de Combate e Erradicação da Pobreza – PROTEGE.~~<br>
+~~III – envolva o adicional do Imposto sobre Circulação de Mercadorias e Serviços de Transporte Intermunicipal e Interestadual e de Comunicação – ICMS destinado ao Fundo Estadual de Combate e Erradicação da Pobreza – PROTEGE.~~
+
 \- [Revogado pela Lei Complementar nº 203, de 28-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110443/lei-complementar-203), art. 2º
 
 § 1º No caso de transação de devedor contumaz, a celebração do ato poderá ficar condicionada à assunção de compromissos adicionais pelo devedor, a critério da PGE, conforme for definido em ato específico dela.
@@ -231,7 +232,8 @@ Art. 21. A transação relativa a crédito de pequeno valor poderá ser realizad
 
 Art. 22. A transação de que trata esta Seção poderá contemplar, isolada ou cumulativamente:
 
-I – a concessão de descontos nas multas, nos juros e nos demais acréscimos legais, observado o limite máximo previsto nos §§ 3º, inciso II, 4º e 5º do art. 14;<br>
+I – a concessão de descontos nas multas, nos juros e nos demais acréscimos legais, observado o limite máximo previsto nos §§ 3º, inciso II, 4º e 5º do art. 14;
+
 \- [Redação dada pela Lei Complementar nº 203, de 28-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110443/lei-complementar-203).
 
 ~~I – a concessão de descontos nas multas, nos juros e nos demais acréscimos legais, observado o limite máximo de 50% (cinquenta por cento) do valor total do crédito;~~
@@ -240,7 +242,8 @@ II – o oferecimento de prazos e formas de pagamento especiais, incluídos o di
 
 III – o oferecimento, a substituição ou a alienação de garantias e de constrições.
 
-IV – o parcelamento do crédito, observados os prazos máximos previstos nos §§ 3º, inciso III, 4º e 5º do art. 14, conforme o caso.<br>
+IV – o parcelamento do crédito, observados os prazos máximos previstos nos §§ 3º, inciso III, 4º e 5º do art. 14, conforme o caso.
+
 \- [Acrescido pela Lei Complementar nº 203, de 28-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110443/lei-complementar-203).
 
 Art. 23. A proposta de transação poderá ser condicionada à homologação judicial do acordo para o disposto nos incisos II e III do art. 515 do CPC.

@@ -1,5 +1,3 @@
-###DEC-087125-0-000-26-04-1982@@@
-
 decreto nº 87.125, de 26 de abril de 1982
 
 Declara nulo o decreto que outorgou concessão à RÁDIO DIFUSORA PRINCESA DO SUL LTDA., para estabelecer, na cidade de Baixo Guandu, Estado do Espírito Santo, serviço de radiodifusão sonora em onda média de âmbito regional.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098917-0-000-01-02-1990@@@
-
 DECRETO Nº 98.917, DE 1º DE FEVEREIRO DE 1990
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado “FAZENDA BOCAINA, na DATA VELOSO”, situado no Município de São Mateus do Maranhão, Estado do Maranhão, e dá outras  providências.

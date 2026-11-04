@@ -1,14 +1,12 @@
-###DEC-021846-0-000-13-09-1946@@@
+**DECRETO Nº 21.846, DE 13 DE SETEMBRO DE 1946.**
 
-<strong>DECRETO Nº 21.846, DE 13 DE SETEMBRO DE 1946.</strong>
+***Acresce de mais um artigo a Ordenança Geral para o Serviço da Armada.***
 
-<em><strong>Acresce de mais um artigo a Ordenança Geral para o Serviço da Armada.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 74, letra a, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica acrescida a Ordenança Geral para o Serviço da Armada de mais um artigo, com a seguinte redação e número:
+**Art**. 1º Fica acrescida a Ordenança Geral para o Serviço da Armada de mais um artigo, com a seguinte redação e número:
 
 ARTIGO 1-1-7
 
@@ -24,10 +22,10 @@ PR - Em pequenos reparos.
 
 NR - Navio em reserva.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, 13 de setembro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Jorge Dodsworth Martins

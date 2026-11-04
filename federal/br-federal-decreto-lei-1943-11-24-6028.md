@@ -1,5 +1,3 @@
-###DEL-006028-0-000-24-11-1943@@@
-
 DECRETO‑LEI N. 6.028 – DE 24 DE NOVEMBRO DE 1943
 
 Prorroga o prazo previsto no art. 3º do decreto‑lei n. 5.219, de 22 de janeiro de 1943

@@ -1,5 +1,3 @@
-###DEC-087460-0-000-16-08-1982@@@
-
 Decreto nº 87.460, de 16 de agosto de 1982
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Lajeado Bonito", situado no Município de São Domingos, no Estado de Santa Catarina, compreendido na área prioritária para reforma agrária fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos ns. 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

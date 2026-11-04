@@ -1,5 +1,3 @@
-###DEC-006592-0-000-02-10-2008@@@
-
 DECRETO Nº 6.592, DE 2 DE OUTUBRO DE 2008.
 
 Regulamenta o disposto na Lei no 11.631, de 27 de dezembro de 2007, que dispõe sobre a Mobilização Nacional e cria o Sistema Nacional de Mobilização - SINAMOB.

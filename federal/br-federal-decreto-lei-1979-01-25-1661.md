@@ -1,7 +1,3 @@
-1
-
-###DEL-001661-0-000-25-01-1979@@@
-
 # Decreto-lei nº 1.661, de 25 de janeiro de 1979
 
 Estabelece alterações no regime de Benefícios Fiscais a Programas Especiais de Exportação e dá outras providências.

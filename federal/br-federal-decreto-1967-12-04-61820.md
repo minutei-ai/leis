@@ -1,5 +1,3 @@
-###DEC-061820-0-000-04-12-1967@@@
-
 DECRETO Nº 61.820, DE 4 DE DEZEMBRO DE 1967.
 
 Prorroga a validade da autorização constante do Decreto nº 59.819, de 20 de dezembro de 1966.

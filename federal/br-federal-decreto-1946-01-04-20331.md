@@ -1,18 +1,16 @@
-###DEC-020331-0-000-04-01-1946@@@
+**DECRETO N° 20.331, DE 4 DE JANEIRO DE 1946.**
 
-<strong>DECRETO N° 20.331, DE 4 DE JANEIRO DE 1946.</strong>
+***Aprova a discriminação-tipo da despensa do Departamento dos Correis e Telegráfico.***
 
-<em><strong>Aprova a discriminação-tipo da despensa do Departamento dos Correis e Telegráfico.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, e tendo em vista o disposto no artigo 31 do Decreto-lei n° 8.308, de 6 de dezembro de 1945, e os estudos feitos pela Comissão de Planejamento do Departamento dos Correios e Telégrafos, na conformidade do artigo 29, alínea e, do mesmo Decreto-lei,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, e tendo em vista o disposto no artigo 31 do Decreto-lei n° 8.308, de 6 de dezembro de 1945, e os estudos feitos pela Comissão de Planejamento do Departamento dos Correios e Telégrafos, na conformidade do artigo 29, alínea e, do mesmo Decreto-lei,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica aprovado a discriminação-tipo do orçamento da despesa do Departamento dos Correios e Telegráficos, que com êste baixa assinada pelo Diretor Geral do Departamento de Administração do Ministério da Viação e Obras Públicas.
 
 Rio de Janeiro, 4 de janeiro de 1946, 125° da Independência e 58° da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Maurício Joppert da Silva
 
@@ -132,6 +130,6 @@ Consignação 1
 
 Rio de Janeiro, 4 de janeiro de 1946.
 
-<strong>FERNANDO AUGUSTO DE ALMEIDA BRANDÃO</strong>
+**FERNANDO AUGUSTO DE ALMEIDA BRANDÃO**
 
 Director-geral do Departamento de Administração do Ministério da Viação e Obras Públicas.

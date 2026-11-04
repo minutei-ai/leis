@@ -1,5 +1,3 @@
-###DEC-054146-0-000-20-08-1964@@@
-
 DECRETO Nº 54.146, DE 20 DE AGÔSTO DE 1964.
 
 Autoriza a Emprêsa Fôrça e Luz Santa Catarina S.A. a construir hipoteca de bens.

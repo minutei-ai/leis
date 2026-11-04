@@ -1,5 +1,3 @@
-###DEC-058965-0-000-01-08-1966@@@
-
 DECRETO Nº 58.965, DE 1 DE AGôSTO DE 1966.
 
 Transfere do Govêrno do Estado do Paraná para a Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica.

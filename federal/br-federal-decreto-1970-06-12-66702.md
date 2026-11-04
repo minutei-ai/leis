@@ -1,5 +1,3 @@
-###DEC-066702-0-000-12-06-1970@@@
-
 DECRETO Nº 66.702, DE 12 DE JUNHO DE 1970.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de São João do Cariri até a subestação de Caraúbas, ambas no município de São João do Cariri, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEL-009844-0-000-12-09-1946@@@
-
 DECRETO-LEI N. 9.844 – DE 12 DE SETEMBRO DE 1946
 
 Altera a redação dos arts. 110 e 113 do Decreto nº 6.000, de 1 de Julho de 1937 (Código de Obras) e revoga a letra “b” do § 3º do art. 7º do Decreto-lei nº 157 de 31 de Dezembro de 1937.

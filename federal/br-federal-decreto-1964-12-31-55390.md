@@ -1,5 +1,3 @@
-###DEC-055390-0-000-31-12-1964@@@
-
 DECRETO Nº 55.390, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Rolf Mário Treuherz a pesquisar leucofilito, no município de Itapeva, Estado de São Paulo.

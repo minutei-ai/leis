@@ -1,5 +1,3 @@
-###DEC-052376-0-000-19-08-1963@@@
-
 Decreto Nº 52.376, DE 19 DE Agôsto DE 1963.
 
 Concede aos técnicos –especializados ou de pesquisa, da SUDENE, enquadrado por fôrça da Lei número 4.069, de 11 de junho de 1962, aumento de 70% sôbre a complementação integrantes dos respectivos vencimentos.

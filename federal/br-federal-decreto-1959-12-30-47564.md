@@ -1,5 +1,3 @@
-###DEC-047564-0-000-30-12-1959@@@
-
 Decreto nº 47.564, de 30 de dezembro de 1959.
 
 Altera o § 2º do art. 83, do Regulamento para os serviços da dívida federal interna fundada e do meio circulante.

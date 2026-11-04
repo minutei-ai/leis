@@ -1,5 +1,3 @@
-###DEL-009856-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.856 – DE 13 DE SETEMBRO DE 1946
 
 Dispõe sôbre a industrialização e exportação da erva mate por parte das sociedades cooperativas e dá outras providências.

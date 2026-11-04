@@ -1,5 +1,3 @@
-###DEC-062466-0-000-26-03-1968@@@
-
 DECRETO Nº 62.466, DE 26 DE MARÇO DE 1968.
 
 Inclui no Corpo de Oficiais da Aeronáutica, como Quadro de Serviço, o Quadro de Oficiais Dentistas.
@@ -69,8 +67,6 @@ Brasília, 26 de março de 1968; 147º da Independência e 80º da República.
 A. Costa e Silva
 
 Márcio de Souza e Mello
-
-###DEC-062466-0-000-26-03-1968@@@RET01+++
 
 DECRETO Nº 62.466, DE 26 DE MARÇO DE 1968.
 

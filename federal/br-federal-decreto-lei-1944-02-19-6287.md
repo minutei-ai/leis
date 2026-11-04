@@ -1,5 +1,3 @@
-###DEL-006287-0-000-19-02-1944@@@
-
 DECRETO-LEI N. 6.287 – DE 19 DE FEVEREIRO DE 1944
 
 Reduz interstício

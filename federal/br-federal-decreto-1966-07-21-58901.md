@@ -1,5 +1,3 @@
-###DEC-058901-0-000-21-07-1966@@@
-
 DECRETO Nº 58.901, DE 21 DE JULHO DE 1966.
 
 Autoriza a Mineração Cajury Ltda. a lavrar columbita e berilo no município de Galiléia, Estado de Minas Gerais.

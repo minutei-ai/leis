@@ -1,5 +1,3 @@
-###DEC-006720-0-000-29-12-2008@@@
-
 DECRETO Nº 6.720, DE 29 DE DEZEMBRO DE 2008.
 
 Inclui a localidade que menciona na Tabela de Fatores de Conversão de Índices de Representação no Exterior, a que se referem o art. 11 e o Anexo II do Decreto no 71.733, de 18 de janeiro de 1973, que regulamenta a Lei no 5.809, de 10 de outubro de 1972, que dispõe sobre a retribuição e direitos do pessoal civil e militar em serviço da União no exterior.

@@ -1,5 +1,3 @@
-###DEC-077636-0-000-19-05-1976@@@
-
 decreto nº 77.636, de 19 de maio de 1976
 
 Renova por 10 (dez) anos a concessão outorgada á Rádio Guanabara Sociedade Anônima para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Rio de Janeiro, Estado do Rio de Janeiro.

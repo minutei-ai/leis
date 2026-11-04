@@ -1,5 +1,3 @@
-###DEC-070151-0-000-17-02-1972@@@
-
 DECRETO Nº 70.151, DE 17 DE FEVEREIRO DE 1972.
 
 Exclui cargo do relacionamento de desnecessidade e aproveita servidor em disponibilidade.

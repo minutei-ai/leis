@@ -1,5 +1,3 @@
-###DEC-064853-0-000-21-07-1969@@@
-
 DECRETO Nº 64.853 - DE 21 DE JULHO DE 1969.
 
 Prorroga prazo estabelecido no § 2º do artigo 11 do Decreto nº 62.724, de 17 de maio de 1968.

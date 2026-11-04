@@ -1,5 +1,3 @@
-###DEC-092465-0-000-14-03-1986@@@
-
 DECRETO Nº 92.465, DE 14 DE MARÇO DE 1986
 
 Dispõe sobre a Substituição do Ministro do Exército.

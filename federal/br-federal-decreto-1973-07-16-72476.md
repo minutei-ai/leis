@@ -1,5 +1,3 @@
-###DEC-072476-0-000-16-07-1973@@@
-
 DECRETO Nº 72.476, DE 16 DE JULHO DE 1973.
 
 Altera o Decreto nº 72.161, de 30 de abril de 1973.

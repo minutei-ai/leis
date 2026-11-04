@@ -1,5 +1,3 @@
-###DEC-062041-0-000-03-01-1968@@@
-
 DECRETO Nº 62.041, DE 3 DE JANEIRO DE 1968.
 
 Concede reconhecimento à Faculdade Estadual de Ciências Econômicas de Apucarana - Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-075496-0-000-18-03-1975@@@
-
 decreto nº 75.496, de 18 de março de 1975.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Contábeis e Administrativas, mantida pelo Instituto Cultural Newton Paiva Ferreira, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

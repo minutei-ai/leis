@@ -1,5 +1,3 @@
-###DEL-004635-0-000-31-08-1942@@@
-
 DECRETO-LEI N. 4.635 – DE 31 DE AGOSTO DE 1942
 
 Prorroga os períodos de engajamento e locação de serviço nas forças policiais dos Estados

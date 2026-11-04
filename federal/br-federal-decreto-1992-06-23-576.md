@@ -1,5 +1,3 @@
-###DEC-000576-0-000-23-06-1992@@@
-
 DECRETO N° 576, DE 23 DE JUNHO DE 1992
 
 Dispõe sobre a transferência de bens, haveres e contencioso judicial da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB, em liquidação.

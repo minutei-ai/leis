@@ -1,5 +1,3 @@
-###DEC-068077-0-000-18-01-1971@@@
-
 DECRETO Nº 68.077, DE 18 DE JANEIRO DE 1971.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 1.834, de 5 de dezembro de 1962, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, da área de terreno necessária a construção do açude público "Jatobá II", no município de Princesa Isabel, Estado da Paraíba.

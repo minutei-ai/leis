@@ -1,5 +1,3 @@
-###DEC-079318-0-000-01-03-1977@@@
-
 DECRETO Nº 79.318, DE 1 DE MARÇO DE 1977.
 
 Convoca a VI Conferência Nacional de Saúde e dá outras providências.

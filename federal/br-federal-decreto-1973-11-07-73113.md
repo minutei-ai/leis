@@ -1,5 +1,3 @@
-###DEC-073113-0-000-07-11-1973@@@
-
 DECRETO Nº 73.113 - DE 7 DE NOVEMBRO DE 1973
 
 Aprova o Regulamento da Diretoria de Fabricação e Recuperação, do Departamento de Material Bélico do Ministério do Exército, e dá outras providências.

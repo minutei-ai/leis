@@ -1,5 +1,3 @@
-###DEC-093637-0-000-02-12-1986@@@
-
 DECRETO Nº 93.637, DE 2 DE DEZEMBRO DE 1986
 
 Outorga concessão à RÁDIO TERRA DE MONTES CLAROS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Montes Claros, Estado de Minas Gerais.

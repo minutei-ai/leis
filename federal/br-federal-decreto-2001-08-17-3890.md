@@ -1,5 +1,3 @@
-###DEC-003890-0-000-17-08-2001@@@
-
 DECRETO Nº 3.890, DE 17 DE AGOSTO 2001
 
 Regulamenta a administração dos recursos a que se refere o art. 13, inciso II, da Lei no 4.452, de 5 de novembro de 1964, dispõe sobre a gestão de programas e de operações relativos ao setor agro-industrial canavieiro, a administração dos recursos financeiros utilizados, altera o sistema de deliberação do Conselho Interministerial do Açúcar e do Álcool, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057145-0-000-01-11-1965@@@
-
 DECRETO Nº 57.145, DE 1º DE NOVEMBRO DE 1965.
 
 Dá nova redação ao item III do artigo 2º do decreto nº 705, de 15 de março de 1962, que criou o Uniforme Branco de Verão para a Marinha do Brasil.

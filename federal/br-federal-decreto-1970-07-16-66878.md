@@ -1,5 +1,3 @@
-###DEC-066878-0-000-16-07-1970@@@
-
 Decreto nº 66.878, de 16 de julho de 1970.
 
 Autoriza o funcionamento de Cursos na Faculdade de Filosofia, Ciências e Letras de Bebedouro, S. P.

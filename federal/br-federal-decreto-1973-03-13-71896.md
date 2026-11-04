@@ -1,5 +1,3 @@
-###DEC-071896-0-000-13-03-1973@@@
-
 DECRETO Nº 71.896, DE 13 DE MARÇO DE 1973.
 
 Concede reconhecimento à Faculdade de Educação Física da União da Associação de Ensino de Ribeirão Preto - SP.

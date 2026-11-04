@@ -1,5 +1,3 @@
-###DEC-052061-0-000-27-05-1963@@@
-
 Decreto nº 52.061, de 27 de maio de 1963.
 
 Declara de utilidade pública a Associação de Proteção à Maternidade e à Infância de Rio Verde, com sede em Rio Verde, Estado de Goiás.

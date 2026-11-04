@@ -1,5 +1,3 @@
-###DEC-081889-0-000-05-07-1978@@@
-
 Decreto nº 81.889, de 05 de julho de 1978.
 
 Outorga concessão, à Mineração Rio do Norte S/A., de construção, uso e gozo, sem ônus para a União, de uma estrada de ferro entre as minas de bauxita em Saracá, e o Porto Trombetas, nos Termos e Contrato a ser celebrado entre o Ministério dos Transportes e aquela empresa de mineração.

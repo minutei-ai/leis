@@ -1,5 +1,3 @@
-###DEC-060995-0-000-13-07-1967@@@
-
 DECRETO 60.995, DE 13 DE JULHO DE 1967.
 
 Aprova o enquadramento dos professôres fundadores da Universidade Federal de Pernambuco em cargos de Professor de Ensino Superior, do Quadro de Pessoal Parte Suplementar, do Ministério da Educação e Cultura e dá outras providências.

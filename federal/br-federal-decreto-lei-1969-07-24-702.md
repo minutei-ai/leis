@@ -1,5 +1,3 @@
-###DEL-000702-0-000-24-07-1969@@@
-
 DECRETO-LEI Nº 702, DE 24 DE JULHO DE 1969
 
 Dispõe sôbre a participação em multas fiscais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074741-0-000-22-10-1974@@@
-
 Decreto nº 74.741, de 22 de outubro de 1974
 
 Concede à Alcântara & Kampmann Ltda. o direito de lavrar mármore no Município de Castro, Estado do Paraná.

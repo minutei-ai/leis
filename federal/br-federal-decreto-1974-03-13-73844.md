@@ -1,5 +1,3 @@
-###DEC-073844-0-000-13-03-1974@@@
-
 DECRETO Nº 73.844, DE 13 DE MARÇO DE 1974.
 
 Torna sem efeito aproveitamentos de disponíveis do Departamento Nacional de Obras Contra as Secas em outros órgãos da Administração Federal, e dá outras providências.

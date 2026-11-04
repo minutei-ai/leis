@@ -1,5 +1,3 @@
-###DEC-092951-0-000-21-07-1986@@@
-
 DECRETO Nº 92.951, DE 21 DE JULHO DE 1986
 
 Outorga à Centrais Elétricas do Pará S.A. - CELPA, concessão para o aproveitamento da energia hidráulica de um trecho do rio Maicuru, no Município de Monte Alegre, Estado do Pará.

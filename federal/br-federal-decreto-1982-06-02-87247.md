@@ -1,5 +1,3 @@
-###DEC-087247-0-000-02-06-1982@@@
-
 Decreto 87.247, de 02 de junho de 1982
 
 Cria, no Ministério da Aeronáutica, o Instituto de Estudos Avançados do Centro Técnico Aeroespacial.

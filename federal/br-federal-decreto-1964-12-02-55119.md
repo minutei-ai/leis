@@ -1,5 +1,3 @@
-###DEC-055119-0-000-02-12-1964@@@
-
 DECRETO Nº 55.119, DE 2 DE DEZEMBRO DE 1964.
 
 Restringe a zona de concessão da Companhia Elétrica Caiuá e outorga à Bandeirante de Eletricidade S.A. concessão para distribuir energia elétrica no Município de Marabá Paulista, Estado de São Paulo.

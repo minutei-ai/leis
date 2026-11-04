@@ -1,5 +1,3 @@
-###DEC-085233-0-000-06-10-1980@@@
-
 DECRETO Nº 85.233, DE 06 DE OUTUBRO DE 1980.
 
 Dispõe sobre o Grupo-Atividades Específicas de Controle Interno, e dá outras providências.

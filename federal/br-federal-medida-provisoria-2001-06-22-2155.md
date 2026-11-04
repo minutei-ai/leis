@@ -1,5 +1,3 @@
-###MPV-002155-0-000-22-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.155, DE 22 DE JUNHO DE 2001
 
 Estabelece o Programa de Fortalecimento das Instituições Financeiras Federais e autoriza a criação da Empresa Gestora de Ativos - EMGEA.

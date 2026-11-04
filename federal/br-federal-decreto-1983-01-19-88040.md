@@ -1,5 +1,3 @@
-###DEC-088040-0-000-19-01-1983@@@
-
 DECRETO Nº 88.040, DE 19 DE JANEIRO DE 1983.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Sacado", composto pelos Seringais Olivença II e Barão do Rio Branco I e II, situado no Município de Canamari, desmembrado do Município de Ipixuna, no Estado do Amazonas, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos ns. 75.295, de 27 de janeiro de 1975, e 85.075, de 27 de agosto de 1980.

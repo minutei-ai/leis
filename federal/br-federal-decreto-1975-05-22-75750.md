@@ -1,5 +1,3 @@
-###DEC-075750-0-000-22-05-1975@@@
-
 DECRETO Nº 75.750, DE 22 DE MAIO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Taubaté, Estado de São Paulo.

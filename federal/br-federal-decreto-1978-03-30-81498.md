@@ -1,5 +1,3 @@
-###DEC-081498-0-000-30-03-1978@@@
-
 Decreto nº 81.498, de 30 de março de 1978.
 
 Concede reconhecimento ao curso de Engenharia de Operação, da Faculdade de Engenharia de Operação da Universidade de Mogi das Cruzes, Estado de São Paulo.

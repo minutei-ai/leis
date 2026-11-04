@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209488)<br>
-
 # DECRETO N° 68.541, DE 22 DE MAIO DE 2024
 
 ### _Coloca veículos da Administração direta e indireta do Estado à disposição do Tribunal Regional Eleitoral de São Paulo, e dá providências correlatas._

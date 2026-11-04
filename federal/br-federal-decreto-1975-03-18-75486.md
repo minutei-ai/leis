@@ -1,5 +1,3 @@
-###DEC-075486-0-000-18-03-1975@@@
-
 DECRETO Nº 75.486, DE 18 DE MARÇO DE 1975.
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Pedagogia, Ciências e Letras de Caçador, mantida pela Fundação Educacional do Alto Vale do Rio do Peixe, com sede na cidade de Caçador, Estado de Santa Catarina.

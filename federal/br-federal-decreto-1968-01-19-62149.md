@@ -1,5 +1,3 @@
-###DEC-062149-0-000-19-01-1968@@@
-
 DECRETO nº 62.149, DE 19 DE JANEIRO 1968.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas - DNOCS - a, área de terreno que especifica, para construção da bacia hidráulica do Açude Pública Pedras Brancas, no Município de Quixadá, Estado do Ceará.

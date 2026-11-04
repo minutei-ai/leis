@@ -1,5 +1,3 @@
-###DEC-087388-0-000-13-07-1982@@@
-
 Decreto nº 87.388 de 13 de julho de 1982
 
 Declara de utilidade pública, para fins de desapropriação, os terrenos sem benfeitorias que menciona, situados no Município de Petrópolis, no Estado do Rio de Janeiro.

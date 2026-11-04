@@ -1,7 +1,3 @@
-1
-
-###DEC-001301-0-000-04-11-1994@@@
-
 DECRETO Nº 1.301, DE 4 DE NOVEMBRO DE 1994
 
 Eleva à categoria de Consulado-Geral o Consulado em Sidney, Comunidade da Austrália.

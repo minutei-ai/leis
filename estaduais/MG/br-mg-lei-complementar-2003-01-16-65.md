@@ -2937,7 +2937,3 @@ Classe Número de vagas Símbolo Defensor Público de Classe Inicial 250 DP-I De
 (Anexo com redação dada pelo Anexo da Lei Complementar nº 164, de 4/8/2021.)
 
 (Vide art. 2º da Lei Complementar nº 164, de 4/8/2021.)
-
-\=======================================================================
-
-Data da última atualização: 5/8/2026.

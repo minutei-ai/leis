@@ -1,5 +1,3 @@
-###DEC-082795-0-000-06-12-1978@@@
-
 Decreto nº 82.795, de 06 de dezembro de 1978
 
 Alterar o Decreto nº 77.576, de 11 de maio de 1976 que concede reconhecimento ao curso de Pedagogia da Faculdade de Educação, Ciências e Letras Notre Dame, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

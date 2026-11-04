@@ -1,5 +1,3 @@
-###DEC-082776-0-000-30-11-1978@@@
-
 DECRETO Nº 82.776, DE 30 DE NOVEMBRO DE 1978.
 
 Concede reconhecimento a habilitação Supervisão Escolar do curso de Pedagogia, ministrado pelo Instituto Superior de Ciências, Letras e Artes, com sede na cidade de Três Corações, Estado de Minas Gerais.

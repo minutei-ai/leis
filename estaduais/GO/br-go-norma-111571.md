@@ -28,7 +28,8 @@ Goiânia, 12 de novembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 ANEXO I
@@ -51,10 +52,12 @@ ANEXO I
 
 "(NR)
 
-ANEXO II<br>
+ANEXO II
+
 (Alteração do [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023)
 
-“ANEXO III<br>
+“ANEXO III
+
 CARGOS DE PROVIMENTO EM COMISSÃO NÃO INTEGRANTES DAS ESTRUTURAS BÁSICA E COMPLEMENTAR
 
 | TIPO | SÍMBOLO | SUBSÍDIO | QUANTIDADE |

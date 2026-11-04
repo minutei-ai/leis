@@ -1,5 +1,3 @@
-###DEC-083154-0-000-12-02-1979@@@
-
 DECRETO Nº 83.154, DE 12 DE FEVEREIRO DE 1979
 
 Concede reconhecimento aos cursos de Comunicação Visual e Desenho Industrial, ministrados pela Universidade Federal do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-071917-0-000-15-03-1973@@@
-
 DECRETO Nº 71.917, DE 15 DE MARÇO DE 1973.
 
 Concede reconhecimento ao curso de Serviço Social da Faculdade de Serviço Social "Ministro Tarso Dutra".

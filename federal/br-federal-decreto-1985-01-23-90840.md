@@ -1,5 +1,3 @@
-###DEC-090840-0-000-23-01-1985@@@
-
 Decreto nº 90.840, de 23 de janeiro de 1985
 
 Autoriza o funcionamento dos cursos de Educação Artística e de Dança, da Sociedade Educacional da Cidade - Rio de Janeiro - RJ.

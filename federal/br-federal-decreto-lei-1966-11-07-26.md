@@ -1,5 +1,3 @@
-###DEL-000026-0-000-07-11-1966@@@
-
 DECRETO-LEI Nº 26, DE 7 DE NOVEMBRO DE 1966
 
 Cria a Auditoria da 11ª Região Militar e dá outras providências

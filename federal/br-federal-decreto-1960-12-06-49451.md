@@ -1,5 +1,3 @@
-###DEC-049451-0-000-06-12-1960@@@
-
 DECRETO Nº 49.451, DE 06 DE DEZEMBRO DE 1960.
 
 Autoriza a o cidadão brasileiro Eurico Marinato a pesquisar água potável de mesa, no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

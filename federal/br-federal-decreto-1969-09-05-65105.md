@@ -1,5 +1,3 @@
-###DEC-065105-0-000-05-09-1969@@@
-
 DECRETO Nº 65.105 - DE 5 DE SETEMBRO DE 1969.
 
 Ativa Núcleos de Subcomandos na estrutura do Comando Geral de Apoio, do Ministério da Aeronáutica e dá outras providências.

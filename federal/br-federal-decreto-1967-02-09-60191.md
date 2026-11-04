@@ -1,5 +1,3 @@
-###DEC-060191-0-000-09-02-1967@@@
-
 DECRETO Nº 60.191, DE 9 DE FEVEREIRO DE 1967.
 
 Autoriza a Companhia Brasileira de Xisto a funcionar como emprêsa de mineração de rochas betuminosas e pirobetuminosas.

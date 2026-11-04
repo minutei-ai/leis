@@ -1,5 +1,3 @@
-###DEC-080691-0-000-09-11-1977@@@
-
 Decreto nº 80.691, de 09 de novembro de 1977.
 
 Eleva o capital da empresa pública FINACIADORA DE ESTUDOS E PROJETOS - FINEP.

@@ -1,5 +1,3 @@
-###DEC-062020-0-000-29-12-1967@@@
-
 DECRETO Nº 62.020, DE 29 de DEZEMBRO DE 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamentos novos, sem similar nacional, neste descritos e consignados à emprêsa “Âncora do Nordeste S/A – Indústria e Comércio, de Jaboatão (Pe.).
@@ -14,7 +12,101 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, exceto a taxa prevista no Decreto-lei n° 83, de 26 de dezembro de 1966, Artigo 9º, a importação de equipamentos novos, sem similar nacional, a seguir descritos e consignados à emprêsa “Âncora do Nordeste S.A. – Indústria e Comércio”, de Jaboatão (Pe.):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ITEM – ESPECIFICAÇÃO</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1. Unidade de injeção e moldagem, de múltiplas finalidades, modêlo UNIPAK 420 D, fabricada pelos Estabelecimentos St. Marcel, Vernon – França, com capacidade de produzir 100 pares/hora de calçados plásticos compreendendo uma extrusora-injetora UP 90/20 D, mesa rotativa, prensa hidráulica......................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>106.300</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>2. Cabine de contrôle automático de tôdas as operações da unidade de injeção e moldagem provida de termo-reguladores para contrôle das 5 zonas de aquecimento, 5 relés de tempo para injeção de quantidade exata de PVC em cada par de molde ajustado na mesa rotativa e relé de contrôle do movimento da mesa, fabricada pelos Estabelecimentos St.. Marcel, Vernon – França..............................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9.681</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>3. Jôgo de carris para a mesa rotativa e extrusora UP 90/20 D, integrantes da unidade UNIPAK-400 D, fabricados pelos Estabelecimentos St. Marcel, Vernon – França ..........................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>684</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>4. Motor elétrico ASEA tipo A – 2506B – 12/45 CV, 480/1670rm, 380 V,.3 fases – 50/60 ciclos, de fabricação ASEA – França, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França ..........................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>6.684</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5. Grupo moto ventilador elétrico de 380 V, 50/60 ciclos, trifásico, 0.5 CV, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França..............................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>332</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>6. Servo-motor elétrico, tipo 4.286.003, trifásico, 50/60 ciclos, 1415 rpm, com comando à distância a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França...........................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>622</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>7. Motor elétrico de fabricação Drouard – França, tipo L 65M, trifásico, 50/60 ciclos, 380 V, 5 CV. 1150 rpm, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França..................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>207</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>8. Motor elétrico de fabricação UNELEC-JAPY – França, tipo GF 075-Bx BIS de 1,5 CV, 380 V, 60 ciclos,trifásico 1.3/100 CV, 700 rpm fornecido pelos Estabelecimentos St. Marcel, Vernon – França..........................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>249</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>9. Motor elétrico de fabricação ANTON Piller – França, tipo SVD I, de ¼ CV, 380 V, 50/60 ciclos, trifásico, 2.800 rpm, a ser fornecido pelos Estabelecimentos St. Marcel Vernon – França..........................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>249</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>10. Equipamento complementar para injeção automática de solas de PVC em sapatos de couro, segundo processo VERDIP, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França...........................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>11.920</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>11. Equipamento complementar para injeção automática de solas de PVC em sapatos lonados, segundo processo HITEX, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França..........................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>15.548</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>12. Equipamento complementar para a fabricação de solas micro-celulares, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França..............................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.524</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>13. Pares de molde de injeção em </span><span style="font-style:italic">Kayon</span><span>, para fabricação de sapatos plásticos, fabricados pelos Estabelecimentos St. Marcel, Vernon – França..............................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>30</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>42.600</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>14. Rebitadeira automática de fabricação C</span><span style="font-style:italic">onstantin Hang Goeppinger</span><span>, Alemanha, com mais 2 canais de alimentação para rebites tubulares, com garganta de 70 mm de profundidade, acionada por motor elétrico de 0,5 HP, inclusive jôgo de peças sobreassalentes para 1 ano de operação.......................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">1.875</span></p></td></tr><tr><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL..........................................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>200.475</span></p></td></tr></tbody></table>
+ITEM – ESPECIFICAÇÃO
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1. Unidade de injeção e moldagem, de múltiplas finalidades, modêlo UNIPAK 420 D, fabricada pelos Estabelecimentos St. Marcel, Vernon – França, com capacidade de produzir 100 pares/hora de calçados plásticos compreendendo uma extrusora-injetora UP 90/20 D, mesa rotativa, prensa hidráulica......................................................................................
+
+2
+
+106.300
+
+2. Cabine de contrôle automático de tôdas as operações da unidade de injeção e moldagem provida de termo-reguladores para contrôle das 5 zonas de aquecimento, 5 relés de tempo para injeção de quantidade exata de PVC em cada par de molde ajustado na mesa rotativa e relé de contrôle do movimento da mesa, fabricada pelos Estabelecimentos St.. Marcel, Vernon – França..............................................................
+
+2
+
+9.681
+
+3. Jôgo de carris para a mesa rotativa e extrusora UP 90/20 D, integrantes da unidade UNIPAK-400 D, fabricados pelos Estabelecimentos St. Marcel, Vernon – França ..........................
+
+4
+
+684
+
+4. Motor elétrico ASEA tipo A – 2506B – 12/45 CV, 480/1670rm, 380 V,.3 fases – 50/60 ciclos, de fabricação ASEA – França, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França ..........................................................................
+
+2
+
+6.684
+
+5. Grupo moto ventilador elétrico de 380 V, 50/60 ciclos, trifásico, 0.5 CV, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França..............................................................
+
+2
+
+332
+
+6. Servo-motor elétrico, tipo 4.286.003, trifásico, 50/60 ciclos, 1415 rpm, com comando à distância a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França...........................
+
+2
+
+622
+
+7. Motor elétrico de fabricação Drouard – França, tipo L 65M, trifásico, 50/60 ciclos, 380 V, 5 CV. 1150 rpm, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França..................
+
+2
+
+207
+
+8. Motor elétrico de fabricação UNELEC-JAPY – França, tipo GF 075-Bx BIS de 1,5 CV, 380 V, 60 ciclos,trifásico 1.3/100 CV, 700 rpm fornecido pelos Estabelecimentos St. Marcel, Vernon – França..........................................................................................
+
+2
+
+249
+
+9. Motor elétrico de fabricação ANTON Piller – França, tipo SVD I, de ¼ CV, 380 V, 50/60 ciclos, trifásico, 2.800 rpm, a ser fornecido pelos Estabelecimentos St. Marcel Vernon – França..........................................................................................
+
+8
+
+249
+
+10. Equipamento complementar para injeção automática de solas de PVC em sapatos de couro, segundo processo VERDIP, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França...........................................................................
+
+2
+
+11.920
+
+11. Equipamento complementar para injeção automática de solas de PVC em sapatos lonados, segundo processo HITEX, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França..........................................................................................
+
+2
+
+15.548
+
+12. Equipamento complementar para a fabricação de solas micro-celulares, a ser fornecido pelos Estabelecimentos St. Marcel, Vernon – França..............................................................
+
+2
+
+3.524
+
+13. Pares de molde de injeção em Kayon, para fabricação de sapatos plásticos, fabricados pelos Estabelecimentos St. Marcel, Vernon – França..............................................................
+
+30
+
+42.600
+
+14. Rebitadeira automática de fabricação Constantin Hang Goeppinger, Alemanha, com mais 2 canais de alimentação para rebites tubulares, com garganta de 70 mm de profundidade, acionada por motor elétrico de 0,5 HP, inclusive jôgo de peças sobreassalentes para 1 ano de operação.......................................................................................
+
+1
+
+1.875
+
+TOTAL..........................................................................................
+
+-
+
+200.475
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria, fica sua similaridade, para efeito da isenção de que trata o presente Decreto, para ser examinada pela Alfândega de destino, quando desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular n° 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

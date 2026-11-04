@@ -1,5 +1,3 @@
-###DEC-082901-0-000-19-12-1978@@@
-
 Decreto nº 82 901, de 19 de dezembro de 1978
 
 Renova por 10 (dez) anos a concessão outorgada à Empresa Jornal do Comércio S.A. para executar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de Recife, Estado do Pernambuco.

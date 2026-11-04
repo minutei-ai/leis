@@ -1,5 +1,3 @@
-###DEC-077587-0-000-11-05-1976@@@
-
 DECRETO Nº 77.587 - DE 11 DE MAIO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Bandeirantes S.A. para executar serviço de radiodifusão sonora em onda curta na cidade de São Paulo, Estado de São Paulo.

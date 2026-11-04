@@ -1,5 +1,3 @@
-###DEC-057840-0-000-18-02-1966@@@
-
 DECRETO Nº 57.840, DE 18 DE FEVEREIRO DE 1966.
 
 Concede autorização para funcionamento dos cursos de Matemática e Filosofia da Faculdade de Filosofia, Ciências e Letras “Santa Marcelina”, de Muriaé, Estado de Minas Gerais.

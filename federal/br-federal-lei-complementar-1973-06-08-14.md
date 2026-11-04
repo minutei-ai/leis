@@ -1,7 +1,3 @@
-1
-
-###LCP-000014-0-000-08-06-1973@@@
-
 # LEI COMPLEMENTAR Nº 14, DE 8 DE JUNHO DE 1973
 
 Estabelece as regiões metropolitanas de São Paulo, Belo Horizonte, Porto Alegre, Recife, Salvador, Curitiba, Belém e Fortaleza.

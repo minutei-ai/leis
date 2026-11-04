@@ -1,5 +1,3 @@
-###DEC-060092-0-000-19-01-1967@@@
-
 DECRETO Nº 60.092, DE 19 DE JANEIRO DE 1967.
 
 Modifica a denominação de estabelecimento de ensino.

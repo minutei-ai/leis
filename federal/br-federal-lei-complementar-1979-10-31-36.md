@@ -1,5 +1,3 @@
-###LCP-000036-0-000-31-10-1979@@@
-
 # LEI COMPLEMENTAR Nº 36, DE 31 DE OuTUBRO DE 1979
 
 Permite aposentadoria voluntária, com proventos proporcionais ao tempo de serviço, nas condições que indica, e dá outras providências.

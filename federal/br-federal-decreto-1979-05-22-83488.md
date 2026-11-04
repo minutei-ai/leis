@@ -1,5 +1,3 @@
-###DEC-083488-0-000-22-05-1979@@@
-
 Decreto nº 83.488, de 22 de maio de 1979.
 
 Dispõe sobre modelo-padrão para os diplomas e certificados relativos às habilitações profissionais do ensino de 2º grau.

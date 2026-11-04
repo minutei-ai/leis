@@ -1,5 +1,3 @@
-###DEC-002191-0-000-03-04-1997@@@
-
 DECRETO Nº 2.191, DE 3 DE ABRIL DE 1997
 
 Altera competências relativas a matérias objeto de julgamento pelos Primeiro e Segundo Conselhos de Contribuintes do Ministério da Fazenda.

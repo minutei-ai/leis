@@ -1,5 +1,3 @@
-###DEC-064800-0-000-10-07-1969@@@
-
 DECRETO Nº 64.800 - DE 10 DE JULHO DE 1969.
 
 Muda a denominação de Organizapão do Ministério da Aeronáutica e dá outras providências.

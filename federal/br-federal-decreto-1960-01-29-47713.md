@@ -1,5 +1,3 @@
-###DEC-047713-0-000-29-01-1960@@@
-
 DECRETO Nº 47.713, DE 29 DE JANEIRO DE 1960.
 
 Renova a declaração de utilidade pública, a que se refere o Decreto número 31.648, de 23 de outubro de 1952, para fins de desapropriação, pelo Departamento Nacional de Estradas de Ferro, de áreas de terreno no Estado de Goiás.

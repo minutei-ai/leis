@@ -1,5 +1,3 @@
-###DEC-056116-0-000-26-04-1965@@@
-
 DECRETO Nº 56.116, DE 26 DE ABRIL DE 1965.
 
 Concede à Massa - Mineradora Alterosa do Sul S.A. autorização para funcionar como emprêsa de mineração.

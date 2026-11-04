@@ -1,5 +1,3 @@
-###DEC-069984-0-000-20-01-1972@@@
-
 DECRETO Nº 69.984, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Sociedade Hospital de Caridade de São Francisco de Paula, com sede em São Francisco de Paula, Estado do Rio Grande do Sul.

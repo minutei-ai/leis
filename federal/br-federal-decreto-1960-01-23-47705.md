@@ -1,5 +1,3 @@
-###DEC-047705-0-000-23-01-1960@@@
-
 DECRETO Nº 47.705, DE 23 DE JANEIRO DE 1960.
 
 Inclui funções gratificadas no Ministério da Agricultura, e da outras providências.

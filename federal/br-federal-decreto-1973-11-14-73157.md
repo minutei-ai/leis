@@ -1,5 +1,3 @@
-###DEC-073157-0-000-14-11-1973@@@
-
 DECRETO N  73.157 - DE 14 DE NOVEMBRO DE 1973
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Rio Verde, Estado de Goiás.

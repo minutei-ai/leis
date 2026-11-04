@@ -1,5 +1,3 @@
-###DEC-050902-0-000-03-07-1961@@@
-
 DECRETO Nº 50.902, DE 3 DE JULHO DE 1961.
 
 Autoriza a Companhia Elétrica Caiuá, a instalar duas subestações transformadoras em Presidente Prudente, Estado de São Paulo, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073908-0-000-05-04-1974@@@
-
 DECRETO Nº 73.908, DE 5 DE ABRIL DE 1974.
 
 Outorga à Companhia Paulista de Ferro-Ligas concessão, para uso exclusivo, do aproveitamento hidráulico de um trecho do rio Bananal, no município de Passa Vinte, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-049480-0-000-09-12-1960@@@
-
 DECRETO Nº 49.480, DE 9 DE DEZEMBRO DE 1960.
 
 Autoriza a cidadã brasileira Raimunda Marques a pesquisar calcário no município de Lavras, Estado de Minas Gerais.

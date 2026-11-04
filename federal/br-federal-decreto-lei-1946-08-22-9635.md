@@ -1,5 +1,3 @@
-###DEL-009635-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.635 – DE 22 DE AGôSTO DE 1946
 
 Altera o art. 9 º do Decreto-lei número 3.100, de 7 de Março de 1941.

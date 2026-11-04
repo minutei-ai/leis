@@ -1,6 +1,10 @@
 > **LEI Nº 4.081, DE 16 DE FEVEREIRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o pagamento de indenização extraordinária a servidores contratados na forma do inciso X do art. 27 da Constituição do Estado do Acre, pelo Departamento Estadual de Trânsito - DETRAN e pelo Departamento Estadual de Águas e Saneamento - DEPASA, atual Serviço de Água e Esgoto do Estado do Acre - SANEACRE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o pagamento de indenização extraordinária a servidores contratados na forma do inciso X do art. 27 da Constituição do Estado do Acre, pelo Departamento Estadual de Trânsito - DETRAN e pelo Departamento Estadual de Águas e Saneamento - DEPASA, atual Serviço de Água e Esgoto do Estado do Acre - SANEACRE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

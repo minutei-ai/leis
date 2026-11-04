@@ -1,5 +1,3 @@
-###DEC-075877-0-000-18-06-1975@@@
-
 Decreto nº 75.877, de 18 de junho de 1975.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à construção da subestação de Tanabi, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

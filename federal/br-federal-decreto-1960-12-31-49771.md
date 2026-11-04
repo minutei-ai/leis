@@ -1,5 +1,3 @@
-###DEC-049771-0-000-31-12-1960@@@
-
 DECRETO Nº 49.771, DE 31 DE dezembro de 1960.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Aliança Brasileira.

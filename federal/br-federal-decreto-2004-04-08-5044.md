@@ -1,5 +1,3 @@
-###DEC-005044-0-000-08-04-2004@@@
-
 DECRETO Nº 5.044, DE 8 DE ABRIL DE 2004
 
 Acresce inciso ao § 1º do art. 6º do Decreto nº 4.766, de 26 de junho de 2003, que regulamenta a criação, as competências e o funcionamento da Câmara de Regulação do Mercado de Medicamentos - CMED.

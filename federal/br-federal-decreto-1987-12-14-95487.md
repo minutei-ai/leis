@@ -1,5 +1,3 @@
-###DEC-095487-0-000-14-12-1987@@@
-
 DECRETO Nº 95.487, DE 14 DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados do Instituto de Ensino de Engenharia Paulista.

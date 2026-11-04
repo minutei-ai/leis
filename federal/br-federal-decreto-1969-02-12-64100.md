@@ -1,5 +1,3 @@
-###DEC-064100-0-000-12-02-1969@@@
-
 DECRETO Nº 64.100, DE 12 DE FEVEREIRO DE 1969.
 
 Autoriza o funcionamento do Curso Superior de Piano do Instituto Musical Nossa Senhora do Rosário, de Cornélio Procópio - PR.

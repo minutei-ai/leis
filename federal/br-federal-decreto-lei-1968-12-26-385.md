@@ -1,5 +1,3 @@
-###DEL-000385-0-000-26-12-1968@@@
-
 DECRETO-Lei Nº 385, DE 26 DE DEzEMBRO DE 1968
 
 Dá nova redação ao artigo 281 do Código Penal

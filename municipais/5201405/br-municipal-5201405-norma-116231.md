@@ -44,5 +44,6 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 14 de
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal

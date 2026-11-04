@@ -1,5 +1,3 @@
-###DEC-057151-0-000-01-11-1965@@@
-
 decreto nº 57.151, de 01 de novembro de 1965.
 
 Institui um Grupo de Trabalho para o estudo das normas de execução do art. 18, da Lei nº 3.995, de 14 de dezembro de 1951.

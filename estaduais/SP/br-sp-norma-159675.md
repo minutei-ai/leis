@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/159675)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2010/compilacao-lei-14113-04.06.2010.html)
 
 # LEI N° 14.113, DE 04 DE JUNHO DE 2010

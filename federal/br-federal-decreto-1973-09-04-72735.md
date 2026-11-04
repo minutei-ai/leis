@@ -1,5 +1,3 @@
-###DEC-072735-0-000-04-09-1973@@@
-
 DECRETO Nº 72.735, DE 4 DE SETEMBRO DE 1973.
 
 Concede a Luiz Augusto Ribeiro do Valle firma individual, o direito de lavrar argila, no Município de São Simão, Estado de São Paulo.

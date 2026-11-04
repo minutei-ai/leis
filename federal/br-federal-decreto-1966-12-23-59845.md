@@ -1,5 +1,3 @@
-###DEC-059845-0-000-23-12-1966@@@
-
 DECRETO Nº 59.845, DE 23 DE DEZEMBRO DE 1966.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$560.000.000, para o fim que especifica.

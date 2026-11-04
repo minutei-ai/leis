@@ -1,5 +1,3 @@
-###DEC-068553-0-000-28-04-1971@@@
-
 DECRETO Nº 68.553, DE 28 DE ABRIL DE 1971.
 
 Extingue o Consulado do Brasil em Roma.

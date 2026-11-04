@@ -1,5 +1,3 @@
-###DEC-057033-0-000-11-10-1965@@@
-
 DECRETO Nº 57.033, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza Sinval Pereira Martins, a comprar pedras preciosas.

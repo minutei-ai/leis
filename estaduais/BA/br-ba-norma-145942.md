@@ -16,7 +16,8 @@ Disciplina a atividade de Instrutoria Interna nos órgãos e entidades do Poder 
 
 **III** - membros da sociedade civil integrantes de organizações vinculadas a programas e projetos estratégicos do Poder Executivo Estadual.
 
-Redação de acordo com o Art. 1º da Lei nº 15.010 de 28 de outubro de 2025.<br>
+Redação de acordo com o Art. 1º da Lei nº 15.010 de 28 de outubro de 2025.
+
 Redação Original: "II - servidores de outros Poderes do Estado, bem como servidores da União, de outros Estados e de Municípios, desde que a atuação institucional integre as competências do órgão ou seja vinculada a compromissos consignados no Plano Plurianual Participativo - PPA do Estado;"
 
 **III -** membros de organizações da sociedade civil, em regime de mútua cooperação, para consecução de finalidades de interesse público e recíproco inseridas em programas estratégicos do Estado.
@@ -157,7 +158,8 @@ Felipe da Silva Freitas
 
 Secretário de Justiça e Direitos Humanos
 
-Bruno Gomes Monteiro<br>
+Bruno Gomes Monteiro
+
 Secretário de Cultura
 
 Ângela Cristina Santos Guimarães
@@ -220,41 +222,4 @@ José Carlos Souto de Castro Filho
 
 Secretário de Administração Penitenciária e Ressocialização
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:316.5pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:15.1pt"><td colspan="2" style="width:316.5pt;border:solid black 1.0pt;
-  padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="422"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:1.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">ANEXO ÚNICO<br>TABELA DE PAGAMENTO DE INSTRUTORIA INTERNA</span></p></td></tr><tr style="height:15.1pt"><td style="width:141.55pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="189"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:1.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Nível de Escolaridade</span></p></td><td style="width:174.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="233"><p class="Tabela-Texto" style="margin-left:46.3pt;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-37.3pt;line-height:112%"><span style="color:black;font-weight:normal">Hora-Aula (valores em R$ 1,00)</span></p></td></tr><tr style="height:15.1pt"><td style="width:141.55pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="189"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:1.15pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:106%"><span style="color:black;font-weight:normal">Médio</span></p></td><td style="width:174.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="233"><p class="Tabela-Texto" style="margin-left:1.2pt;text-align:justify;text-justify:
-  inter-ideograph;line-height:106%"><span style="color:black;font-weight:normal">38,25</span></p></td></tr><tr style="height:15.1pt"><td style="width:141.55pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="189"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:1.15pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:106%"><span style="color:black;font-weight:normal">Superior</span></p></td><td style="width:174.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="233"><p class="Tabela-Texto" style="margin-left:1.2pt;text-align:justify;text-justify:
-  inter-ideograph;line-height:106%"><span style="color:black;font-weight:normal">63,75</span></p></td></tr><tr style="height:15.1pt"><td style="width:141.55pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="189"><p class="Tabela-Texto" style="margin-left:1.15pt;text-align:justify;
-  text-justify:inter-ideograph;line-height:106%"><span style="color:black;
-  font-weight:normal">Especialista (<i>lato sensu</i>)</span></p></td><td style="width:174.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="233"><p class="Tabela-Texto" style="margin-left:1.2pt;text-align:justify;text-justify:
-  inter-ideograph;line-height:106%"><span style="color:black;font-weight:normal">89,25</span></p></td></tr><tr style="height:15.1pt"><td style="width:141.55pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="189"><p class="Tabela-Texto" style="margin-left:1.15pt;text-align:justify;
-  text-justify:inter-ideograph;line-height:106%"><span style="color:black;
-  font-weight:normal">Mestrado <i>(stricto sensu)</i></span></p></td><td style="width:174.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="233"><p class="Tabela-Texto" style="margin-left:1.2pt;text-align:justify;text-justify:
-  inter-ideograph;line-height:106%"><span style="color:black;font-weight:normal">102,00</span></p></td></tr><tr style="height:15.1pt"><td style="width:141.55pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="189"><p class="Tabela-Texto" style="margin-left:1.15pt;text-align:justify;
-  text-justify:inter-ideograph;line-height:107%"><span style="color:black;
-  font-weight:normal">Doutorado <i>(stricto sensu)</i></span></p></td><td style="width:174.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 1.6pt 0cm 1.6pt;height:15.1pt" valign="top" width="233"><p class="Tabela-Texto" style="margin-left:1.2pt;text-align:justify;text-justify:
-  inter-ideograph;line-height:107%"><span style="color:black;font-weight:normal">127,25</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> ANEXO ÚNICO TABELA DE PAGAMENTO DE INSTRUTORIA INTERNA </td></tr><tr><td valign="top"> Nível de Escolaridade </td><td valign="top"> Hora-Aula (valores em R$ 1,00) </td></tr><tr><td valign="top"> Médio </td><td valign="top"> 38,25 </td></tr><tr><td valign="top"> Superior </td><td valign="top"> 63,75 </td></tr><tr><td valign="top"> Especialista (*lato sensu*) </td><td valign="top"> 89,25 </td></tr><tr><td valign="top"> Mestrado *(stricto sensu)* </td><td valign="top"> 102,00 </td></tr><tr><td valign="top"> Doutorado *(stricto sensu)* </td><td valign="top"> 127,25 </td></tr></tbody></table>

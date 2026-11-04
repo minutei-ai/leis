@@ -1,7 +1,3 @@
-1
-
-###DEC-098905-0-000-31-01-1990@@@
-
 DECRETO Nº 98.905, DE 31 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Pedagogia do Instituto de Ensino Superior do Alto Uruguai.

@@ -1,5 +1,3 @@
-###DEC-066292-0-000-02-03-1970@@@
-
 DECRETO Nº 66.292 - DE 2 DE MARÇO DE 1970
 
 Autoriza a cessão gratuita, sob o regime de aforamento, do terreno que menciona, situado no Rio de Janeiro - Estado da Guanabara.

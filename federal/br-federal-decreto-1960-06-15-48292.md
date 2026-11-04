@@ -1,5 +1,3 @@
-###DEC-048292-0-000-15-06-1960@@@
-
 DECRETO Nº 48.292, DE 15 DE JUNHO DE 1960.
 
 Autoriza o Govêrno do Estado de Sergipe a lavrar salgema no município de Nossa Senhora do Socorro, Estado de Sergipe.

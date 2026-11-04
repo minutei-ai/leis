@@ -1,5 +1,3 @@
-###DEC-048636-0-000-29-07-1960@@@
-
 DECRETO Nº 48.636, DE 29 DE JULHO DE 1960.
 
 Declara prioritária para o desenvolvimento do Nordeste, para efeito da isenção de impostos e taxas federais, a importação dos equipamentos novos, discriminados neste e destinados à firma J. Macedo S. A. , Comércio, Indústria e Agricultura, de Fortaleza (Ce).

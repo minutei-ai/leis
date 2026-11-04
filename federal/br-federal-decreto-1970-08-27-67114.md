@@ -1,5 +1,3 @@
-###DEC-067114-0-000-27-08-1970@@@
-
 DECRETO Nº 67.114, DE 27 DE AGôSTO DE 1970.
 
 Declara de utilidade pública a Escola Nossa Senhora da Esperança, com sede em Nova Esperança, Estado do Paraná.

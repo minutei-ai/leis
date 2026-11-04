@@ -1,5 +1,3 @@
-###DEC-079544-0-000-19-04-1977@@@
-
 DECRETO Nº 79.544, DE 19 DE ABRIL DE 1977.
 
 Concede à S.A. Indústria Votorantim o direito de lavrar calcário e calcário dolomítico no Município de Guapiara, Estado de São Paulo.

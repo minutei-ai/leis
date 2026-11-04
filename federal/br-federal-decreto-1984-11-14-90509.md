@@ -1,5 +1,3 @@
-###DEC-090509-0-000-14-11-1984@@@
-
 Decreto nº 90.509, de 14 de novembro de 1984
 
 Dispõe sobre o montante do Capital Social de FURNAS - Centrais Elétricas S.A.

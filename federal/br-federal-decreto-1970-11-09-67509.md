@@ -1,5 +1,3 @@
-###DEC-067509-0-000-09-11-1970@@@
-
 DECRETO Nº 67.509, DE 9 DE NOVEMBRO DE 1970.
 
 Declara sem efeito o Decreto número 46.677, de 18 de agôsto de 1959.

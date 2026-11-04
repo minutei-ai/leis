@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/84950695-f015-43cf-acde-306482504f69/texto#nowhere)
 
-###DEL-000743-0-000-06-08-1969@@@
-
 DECretO-LEI Nº 743, DE 6 DE AGÔSTO DE 1969
 
 Aprova as modificações, por troca de notas, introduzidas no Acôrdo de Comércio e Pagamentos, assinado em 20 de abril de 1963, entre o Govêrno da República Federativa do Brasil e o Govêrno da União das Repúblicas Socialistas Soviéticas.

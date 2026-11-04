@@ -1,5 +1,3 @@
-###DEC-065486-0-000-21-10-1969@@@
-
 DECRETO Nº 65.486 - DE 21 DE OUTUBRO DE 1969.
 
 Aplica à Comissão-Geral de Inquérito Policial Militar o disposto no item III do artigo 1º do Decreto nº 64.238, de 20 de março de 1969, e dá outras providências.

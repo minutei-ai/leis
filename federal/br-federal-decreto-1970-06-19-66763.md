@@ -1,5 +1,3 @@
-###DEC-066763-0-000-19-06-1970@@@
-
 DECRETO Nº 66.763 - DE 19 DE JUNHO DE 1970
 
 Declara de utilidade pública o Instituto Maria Imaculada, com sede em São Paulo, Estado de São Paulo.

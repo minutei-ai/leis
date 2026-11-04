@@ -1,5 +1,3 @@
-###DEC-076414-0-000-10-10-1975@@@
-
 DECRETO Nº 76.414, DE 10 DE OUTUBRO DE 1975.
 
 Autoriza o funcionamento do curso de Formação de Professores para as Disciplinas Profissionalizantes do Ensino de 2º grau, Esquema I, da Faculdade de Filosofia, Ciências e Letras "Camilo Castelo Branco", com sede na cidade de São Paulo, Estado de São Paulo.

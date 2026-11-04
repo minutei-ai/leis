@@ -1,5 +1,3 @@
-###DEL-000177-0-000-16-02-1967@@@
-
 DECRETO-LEI Nº 177, DE 16 DE FEVEREIRO DE 1967
 
 Altera o Decreto-lei nº 81 de 21 de dezembro de 1966.

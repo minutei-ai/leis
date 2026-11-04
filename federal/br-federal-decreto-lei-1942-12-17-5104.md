@@ -1,5 +1,3 @@
-###DEL-005104-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.104 – DE 17 DE DEZEMBRO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de cruzeiros 172.250,00 para pagamento de contribuição

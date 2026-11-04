@@ -1,5 +1,3 @@
-###MPV-001752-0-031-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.752-31, DE 14 DE DEZEMBRO DE 1998.
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito extraordinário até o limite de R$106.000.000,00 (cento e seis milhões de reais), para os fins que especifica.

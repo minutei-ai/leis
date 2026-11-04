@@ -1,5 +1,3 @@
-###DEC-056450-0-000-09-06-1965@@@
-
 DECRETO Nº 56.450, DE 9 DE JUNHO DE 1965.
 
 Restringe a zona de concessões da Prefeitura Municipal de Iporã e outorga à Centrais Elétricas de Goiás S. A. - CELG, concessão para distribuir energia elétrica no Município de Jaupaci, Estado de Goiás.

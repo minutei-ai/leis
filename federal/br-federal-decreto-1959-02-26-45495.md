@@ -1,5 +1,3 @@
-###DEC-045495-0-000-26-02-1959@@@
-
 DECRETO Nº 45.495, DE 26 DE FEVEREIRO DE 1959.
 
 Autoriza o cidadão brasileiro João de Deus Reis a pesquisar ouro e diamantes, no Município de Diamantina, Estado de Minas Gerais.

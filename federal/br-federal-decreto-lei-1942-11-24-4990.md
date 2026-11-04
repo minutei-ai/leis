@@ -1,5 +1,3 @@
-###DEL-004990-0-000-24-11-1942@@@
-
 DECRETO-LEI N. 4.990 – DE 24 DE NOVEMBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de Cr$ 40.000,00 à verba que especifica

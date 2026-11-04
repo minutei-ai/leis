@@ -1,5 +1,3 @@
-###DEC-070215-0-000-29-02-1972@@@
-
 DECRETO Nº 70.215, DE 29 DE FEVEREIRO DE 1972.
 
 Autoriza o funcionamento do Curso Especial de Ciências Contábeis da Fundação Getúlio Vargas, com sede no Estado da Guanabara.

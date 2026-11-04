@@ -1,5 +1,3 @@
-###DEC-092009-0-000-28-11-1985@@@
-
 DECRETO Nº 92.009, DE 28 DE novembro DE 1985
 
 Altera o item III e acrescenta item ao artigo 4º do Decreto nº 84.128, de 29 de outubro de 1979, que dispõe sobre o controle de recursos e dispêndios de empresas estatais, e dá outras providências.

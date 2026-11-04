@@ -1,5 +1,3 @@
-###DEC-044882-0-000-27-11-1958@@@
-
 DECRETO Nº 44.882, DE 27 DE NOVEMBRO DE 1958.
 
 Transfere função da Tabela Numérica Especial de Extranumerário Mensalista do Hospital de Aeronáutica dos Afonsos para a da Base Aérea dos Afonsos.

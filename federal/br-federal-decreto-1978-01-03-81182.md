@@ -1,5 +1,3 @@
-###DEC-081182-0-000-03-01-1978@@@
-
 Decreto nº81 182, de 3 de janeiro de 1978.
 
 Alterar o Decreto nº 77 542; de 4 de maio de 1976.

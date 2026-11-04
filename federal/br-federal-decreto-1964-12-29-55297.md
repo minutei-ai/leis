@@ -1,5 +1,3 @@
-###DEC-055297-0-000-29-12-1964@@@
-
 DECRETO Nº 55.297, DE 28 DE DEZEMBRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação, os terrenos edificados que menciona, em Belém, Estado do Pará.
@@ -23,8 +21,6 @@ Brasília, 29 de dezembro de 1964; 143º da Independência e 76º da República.
 h. castello branco
 
 Flávio Lacerda
-
-###DEC-055297-0-000-29-12-1964@@@RET01+++
 
 DECRETO Nº 55.297, de 29 de dezembro de 1964.
 

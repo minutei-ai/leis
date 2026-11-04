@@ -1,7 +1,3 @@
-1
-
-###DEC-001445-0-000-05-04-1995@@@
-
 DECRETO Nº 1.445, DE 5 DE ABRIL DE 1995
 
 Dispõe sobre a concessão de ajuda de custo e de transporte aos servidores públicos civis da União, das autarquias e das fundações públicas federais, e dá outras providências.

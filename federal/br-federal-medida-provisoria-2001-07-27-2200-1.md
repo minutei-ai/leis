@@ -1,5 +1,3 @@
-###MPV-002200-0-001-27-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.200-1, DE 27 DE JULHO DE 2001(\*)
 
 Institui  a Infra-­Estrutura de Chaves Públicas Brasileira ‑ ICP‑Brasil, e dá outras providências.
@@ -101,8 +99,6 @@ José Gregori
 Ronaldo Mota Sardenberg
 
 Silvano Gianni
-
-###MPV-002200-0-001-27-07-2001@@@REP01+++
 
 MEDIDA PROVISÓRIA Nº 2.200-1, DE 27 DE JULHO DE 2001(\*)
 

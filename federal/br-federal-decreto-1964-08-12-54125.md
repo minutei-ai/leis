@@ -1,5 +1,3 @@
-###DEC-054125-0-000-12-08-1964@@@
-
 DECRETo Nº 54.125, DE 12 DE AGÔSTO DE 1964.
 
 Concede reconhecimento à Faculdade de Ciências Políticas e Econômicas de Cruz Alta, Estado do Rio Grande do Sul.

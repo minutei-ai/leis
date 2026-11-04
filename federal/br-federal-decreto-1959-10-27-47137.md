@@ -1,5 +1,3 @@
-###DEC-047137-0-000-27-10-1959@@@
-
 decreto nº 47.137, de 27 de outubro de 1959.
 
 Autoriza a Companhia Paranaense de Energia Elétrica (COPEL) a ampliar suas instalações mediante a construção de uma linha de transmissão entre a Usina de Cotia e a cidade de Paranaguá passando pela localidade de Morretes, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEL-001481-0-000-09-09-1976@@@
-
 # DECRETO-LEI Nº 1.481, DE 9 DE SETEMBRO 1976
 
 Declara de interesse da Segurança Nacional, nos termos do parágrafo único do artigo 89 e artigo 15, § 1º, alínea b, da Constituição, os Municípios de Senador Guiomard, Plácido de Castro, Mâncio Lima Manoel Urbano e Assis Brasil no Estado do Acre, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004579-0-000-21-01-2003@@@
-
 DECRETO Nº 4.579, DE 21 DE JANEIRO DE 2003.
 
 Delega competência para a prática de atos de provimento no âmbito da Administração Pública Federal, e dá outras providências.
@@ -40,10 +38,16 @@ Delega competência para a prática de atos de provimento no âmbito da Administ
 
         Brasília, 21 de janeiro de 2003; 182o da Independência e 115o da República.
 
- LUIZ INÁCIO LULA DA SILVA<br>
-José Dirceu de Oliveira e Silva<br>
-Jorge Armando Felix<br>
-Luis Soares Dulci<br>
-Álvaro Augusto Ribeiro Costa<br>
-Waldir Pires<br>
+ LUIZ INÁCIO LULA DA SILVA
+
+José Dirceu de Oliveira e Silva
+
+Jorge Armando Felix
+
+Luis Soares Dulci
+
+Álvaro Augusto Ribeiro Costa
+
+Waldir Pires
+
 Luiz Gushiken

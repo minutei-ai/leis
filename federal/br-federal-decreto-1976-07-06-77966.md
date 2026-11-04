@@ -1,5 +1,3 @@
-###DEC-077966-0-000-06-07-1976@@@
-
 DECRETO Nº 77.966, DE 6 DE JULHO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétrica S.A., no Estado de Goiás.

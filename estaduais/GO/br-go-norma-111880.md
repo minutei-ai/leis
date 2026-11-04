@@ -22,7 +22,8 @@ Goiânia, 19 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 ANEXO I
@@ -31,7 +32,7 @@ ANEXO I
 
 “ANEXO I
 
-<table class="Table" style="border-collapse:collapse"><tbody><tr><td rowspan="2" style=" width:201px;    ">ÓRGÃO OU ENTIDADE</td><td rowspan="2" style=" width:111px;    ">ESTRUTURA</td><td colspan="3" style=" width:298px;    ">CARGOS EM COMISSÃO</td></tr><tr><td style=" width:120px;    ">DENOMINAÇÃO</td><td style=" width:102px;    ">QUANTIDADE</td><td style=" width:76px;    ">SÍMBOLO</td></tr><tr><td colspan="5" style=" width:609px;    ">I – Administração do Poder Executivo</td></tr><tr><td colspan="5" style=" width:609px;    ">............................................................</td></tr><tr><td colspan="5" style=" width:609px;    ">q.1.) Delegacia-Geral da Polícia Civil – DGPC</td></tr><tr><td colspan="5" style=" width:609px;    ">............................................................</td></tr><tr><td style=" width:201px;    ">2.12.2. Delegacia Regional de Polícia Civil</td><td style=" width:111px;    ">Complementar</td><td style=" width:120px;    ">Delegado Regional</td><td style=" width:102px;    ">22</td><td style=" width:76px;    ">DAID-2</td></tr><tr><td colspan="5" style=" width:609px;    ">............................................................</td></tr><tr><td colspan="5" style=" width:609px;    ">q.2.) Polícia Militar – PM</td></tr><tr><td colspan="5" style=" width:609px;    ">............................................................</td></tr><tr><td style=" width:201px;    ">1.1.7. Comando Regional da Polícia Militar</td><td style=" width:111px;    ">Complementar</td><td style=" width:120px;    ">Comandante Regional</td><td style=" width:102px;    ">22</td><td style=" width:76px;    ">DAID-2</td></tr><tr><td colspan="5" style=" width:609px;    ">............................................................</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">ÓRGÃO OU ENTIDADE</td><td rowspan="2">ESTRUTURA</td><td colspan="3">CARGOS EM COMISSÃO</td></tr><tr><td>DENOMINAÇÃO</td><td>QUANTIDADE</td><td>SÍMBOLO</td></tr><tr><td colspan="5">I – Administração do Poder Executivo</td></tr><tr><td colspan="5">............................................................</td></tr><tr><td colspan="5">q.1.) Delegacia-Geral da Polícia Civil – DGPC</td></tr><tr><td colspan="5">............................................................</td></tr><tr><td>2.12.2. Delegacia Regional de Polícia Civil</td><td>Complementar</td><td>Delegado Regional</td><td>22</td><td>DAID-2</td></tr><tr><td colspan="5">............................................................</td></tr><tr><td colspan="5">q.2.) Polícia Militar – PM</td></tr><tr><td colspan="5">............................................................</td></tr><tr><td>1.1.7. Comando Regional da Polícia Militar</td><td>Complementar</td><td>Comandante Regional</td><td>22</td><td>DAID-2</td></tr><tr><td colspan="5">............................................................</td></tr></tbody></table>
 
 ” (NR)
 
@@ -57,7 +58,8 @@ ANEXO II
 
 (Alteração do [Decreto nº 9.842](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103925 "Abrir Decreto Numerado nº 9842, de 2021 em nova aba"), de 30 de março de 2021)
 
-“ANEXO IV<br>
+“ANEXO IV
+
 POLÍCIA CIVIL
 
 | DELEGACIAS REGIONAIS – SEDES | JURISDIÇÃO/CIRCUNSCRIÇÃO |

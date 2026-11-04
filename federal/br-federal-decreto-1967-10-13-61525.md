@@ -1,5 +1,3 @@
-###DEC-061525-0-000-13-10-1967@@@
-
 decreto Nº 61.525, de 13 de outubro de 1967.
 
 Autoriza a Rêde Ferroviária Federal Sociedade Anônima a ceder bens de sua propriedade e dá outras providências.

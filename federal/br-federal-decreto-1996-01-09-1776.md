@@ -1,5 +1,3 @@
-###DEC-001776-0-000-09-01-1996@@@
-
 DECRETO Nº 1.776 ,DE 9 DE JANEIRO DE 1996.
 
 Dispõe sobre a incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF no resgate de aplicações destinadas à subscrição de quotas de Fundo de Investimento Imobiliário.

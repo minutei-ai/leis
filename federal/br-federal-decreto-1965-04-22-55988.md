@@ -1,5 +1,3 @@
-###DEC-055988-0-000-22-04-1965@@@
-
 Decreto nº 55.988, de 22 de abril de 1965.
 
 Autoriza o cidadão brasileiro Geralcimo Bernardi a pesquisar água mineral no município de Águas de Lindóia, Estado de São Paulo.

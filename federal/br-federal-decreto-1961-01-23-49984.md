@@ -1,5 +1,3 @@
-###DEC-049984-0-000-23-01-1961@@@
-
 DECRETO Nº 49.984, DE 23 DE JANEIRO DE 1961.
 
 Acrescenta Parágrafo único no artigo 2º do Decreto n° 48.656, de 3 de agôsto de 1960.

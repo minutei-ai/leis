@@ -1,5 +1,3 @@
-###DEC-088580-0-000-02-08-1983@@@
-
 Decreto nº 88.580, de 02 de agosto de 1983
 
 Renova por 10 (dez) anos, a concessão outorgada à RADIO SOCIEDADE OESTE CATARINENSE LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Chapecó, Estado de Santa Catarina.

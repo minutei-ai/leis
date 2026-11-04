@@ -1,5 +1,3 @@
-###DEC-075905-0-000-25-06-1975@@@
-
 DECRETO Nº 75.905, DE 25 DE JUNHO DE 1975.
 
 Concede à Mineração Vale do Jacurici S.A. o direito de lavrar cromita no Município de Senhor do Bonfim Estado da Bahia.

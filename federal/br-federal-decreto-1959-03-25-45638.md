@@ -1,5 +1,3 @@
-###DEC-045638-0-000-25-03-1959@@@
-
 DECRETO Nº 45.638, DE 25 DE MARÇO DE 1959.
 
 Revoga o Decreto nº 39.050, de 18 de abril de 1956.

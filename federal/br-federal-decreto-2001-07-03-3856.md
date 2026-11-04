@@ -1,5 +1,3 @@
-###DEC-003856-0-000-03-07-2001@@@
-
 DECRETO Nº 3.856, DE 3 DE JULHO DE 2001
 
 Promulga o Protocolo de São Luiz sobre Matéria de Responsabilidade Civil Emergente de Acidentes de Trânsito entre os Estados Partes do Mercosul, concluído em São Luiz, República Argentina, em 25 de junho de 1996, e a respectiva Errata, feita em Assunção, em 19 de junho de 1997.

@@ -1,5 +1,3 @@
-###DEC-054432-0-000-12-10-1964@@@
-
 DECRETO Nº 54.432, DE 12 DE OUTUBRO DE 1964.
 
 Torna sem efeito o Decreto nº 1.179, de 18 de junho de 1962 e restabelece o parágrafo único do art. 10 do Decreto nº 50.916, de 6 de julho de 1960.

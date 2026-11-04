@@ -1,5 +1,3 @@
-###DEL-000112-0-000-24-01-1967@@@
-
 DeCRETO-LEI Nº 112, DE 24 DE JANEIRO DE 1967
 
 Altera o art. 37 do Decreto-lei nº 81, de 21 de dezembro de 1966, que dispõe sôbre abertura, pelo Poder Executivo, do crédito especial de Cr$700.000.000.000, destinado a atender ao reajustamento dos servidores civis e militares da União.

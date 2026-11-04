@@ -1,5 +1,3 @@
-###DEC-085008-0-000-07-08-1980@@@
-
 Decreto nº 85.008, de 07 de agosto de 1980
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Tietê da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

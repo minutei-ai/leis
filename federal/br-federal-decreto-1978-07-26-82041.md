@@ -1,5 +1,3 @@
-###DEC-082041-0-000-26-07-1978@@@
-
 decreto nº 82.041, de 26 de julho de 1978
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Itajubá, com sede na cidade de Itajubá, Estado de Minas Gerais.

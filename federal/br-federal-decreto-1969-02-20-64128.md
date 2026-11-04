@@ -1,5 +1,3 @@
-###DEC-064128-0-000-20-02-1969@@@
-
 DECRETO Nº 64.128, DE 20 DE FEVEREIRO DE 1969.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado da Guanabara.

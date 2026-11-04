@@ -1,5 +1,3 @@
-###DEC-057629-0-000-13-01-1966@@@
-
 decreto nº 57.629, de 13 de janeiro de 1966.
 
 Regulamento os §§ 2º, 3º e 4º, do artigo 33, da Lei nº 4.863, de 29 de novembro de 1965, e dá outras providências.

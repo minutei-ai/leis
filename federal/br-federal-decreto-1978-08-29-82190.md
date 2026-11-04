@@ -1,5 +1,3 @@
-###DEC-082190-0-000-29-08-1978@@@
-
 Decreto nº 82.190, de 29 de agosto de 1978.
 
 Concede reconhecimento ao curso de Engenharia Civil da Fundação Universidade Estadual de Ponta Grossa, com sede em Ponta Grossa, Paraná.

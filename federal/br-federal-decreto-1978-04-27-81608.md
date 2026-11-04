@@ -1,5 +1,3 @@
-###DEC-081608-0-000-27-04-1978@@@
-
 Decreto nº 81.608, de 27 de abril de 1978.
 
 Concede reconhecimento ao curso de Engenharia de Operação, do Centro de Tecnologia de Indústria e Construção, com sede na cidade de Manaus, Estado do Amazonas.

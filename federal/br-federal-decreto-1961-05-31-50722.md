@@ -1,5 +1,3 @@
-###DEC-050722-0-000-31-05-1961@@@
-
 DECRETO Nº 50.722, DE 31 DE MAIO DE 1961.
 
 Autoriza a desvinculação da Companhia Mineira de Eletricidade de dois prédios situados na cidade de Juiz de Fora, de propriedade da referida emprêsa.

@@ -1,5 +1,3 @@
-###DEC-055781-0-000-19-02-1965@@@
-
 Decreto nº 55.781, de 19 de fevereiro de 1965.
 
 Aprova o aumento de capital e a reforma estatutária promovida pelo Banco do Estado de São Paulo S. A.

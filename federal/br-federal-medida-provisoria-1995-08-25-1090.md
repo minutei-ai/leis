@@ -1,5 +1,3 @@
-###MPV-001090-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.090, DE 25 DE AGOSTO 1995.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

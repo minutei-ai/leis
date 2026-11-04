@@ -1,6 +1,10 @@
 > **LEI Nº 3.979, DE 16 DE SETEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Título de Cidadão Acreano ao Sr. Pedro Henrique Resende Teixeira Campos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Título de Cidadão Acreano ao Sr. Pedro Henrique Resende Teixeira Campos.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual, c/c o art. 15, § 1º, X, do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 

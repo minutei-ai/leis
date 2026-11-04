@@ -2,10 +2,10 @@ LEI Nº 21.811, DE 14 DE MARÇO DE 2023
 
 Institui o Cofinanciamento Estadual da Assistência Social e altera a [Lei estadual nº 19.017](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/95806), de 22 de setembro de 2015.
 
-<br>
 \- [Vide Decreto nº 10.833](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111779/decreto-10833), de 10-12-2025 - Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2026.
 
-\- [Vide Decreto nº 10.5](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110116)95, de 10-12-2024 - Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2025.<br>
+\- [Vide Decreto nº 10.5](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110116)95, de 10-12-2024 - Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2025.
+
 \- [Vide Decreto nº 10.378](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108292/decreto-10378), de 27-12-2023 - Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2024.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
@@ -24,12 +24,14 @@ Art. 3º Os valores iniciais dos repasses aos municípios no ano de 2023, a sere
 
 Art. 4º Os recursos a que se refere o art. 3º desta Lei serão transferidos aos fundos municipais anualmente.
 
-§ 1º As transferências integrais serão condicionadas à comprovação da utilização de pelo menos 70% (setenta por cento) do último repasse.<br>
+§ 1º As transferências integrais serão condicionadas à comprovação da utilização de pelo menos 70% (setenta por cento) do último repasse.
+
 \- [Redação dada pela Lei nº 23.253, de 28-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110440/lei-23253).
 
 ~~§ 1º As transferências serão condicionadas à comprovação da utilização de pelo menos 70% (setenta por cento) do último repasse.~~
 
-§ 1º-A O município que comprovar utilização menor que 70% (setenta por cento) dos recursos de que trata o _caput_ deste artigo estará sujeito à reposição proporcional.<br>
+§ 1º-A O município que comprovar utilização menor que 70% (setenta por cento) dos recursos de que trata o _caput_ deste artigo estará sujeito à reposição proporcional.
+
 \- [Acrescido pela Lei nº 23.253, de 28-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110440/lei-23253).
 
 § 2º A não comprovação da utilização dos recursos de que trata o _caput_ deste artigo inviabilizará o pagamento do exercício correspondente.
@@ -64,9 +66,12 @@ Parágrafo único. O órgão estadual gestor do SUAS poderá contar com unidades
 
 Art. 9º Fica revogado o art. 40 da [Lei nº 19.017](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/95806), de 2015.
 
-Art. 10. A continuidade do Cofinanciamento Estadual da Assistência Social de que trata esta Lei dependerá de renovação anual por decreto do Chefe do Poder Executivo, que poderá rever os valores a que se refere o _caput_ do art. 3º, e condiciona-se à existência de dotação orçamentária e disponibilidade financeira.<br>
-\- [Vide Decreto nº 10.833](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111779/decreto-10833), de 10-12-2025 - Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2026.<br>
-\- [Vide Decreto nº 10.5](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110116)95, de 10-12-2024 - Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2025.<br>
+Art. 10. A continuidade do Cofinanciamento Estadual da Assistência Social de que trata esta Lei dependerá de renovação anual por decreto do Chefe do Poder Executivo, que poderá rever os valores a que se refere o _caput_ do art. 3º, e condiciona-se à existência de dotação orçamentária e disponibilidade financeira.
+
+\- [Vide Decreto nº 10.833](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111779/decreto-10833), de 10-12-2025 - Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2026.
+
+\- [Vide Decreto nº 10.5](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110116)95, de 10-12-2024 - Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2025.
+
 \- [Vide Decreto nº 10.378](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108292/decreto-10378), de 27-12-2023 - Prorroga a vigência do Cofinanciamento Estadual da Assistência Social para o exercício de 2024.
 
 Art. 11. Esta Lei entra em vigor na data de sua publicação.

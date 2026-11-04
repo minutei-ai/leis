@@ -1,5 +1,3 @@
-###DEC-057238-0-000-11-11-1965@@@
-
 DECRETO Nº 57.238, DE 11 DE NOVEMBRO DE 1965.
 
 Autoriza a Emprêsa de Caolim Ltda. A pesquisar argila, no município de Taguaraçu de Minas, Estado de Minas Gerais.

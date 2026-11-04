@@ -1,5 +1,3 @@
-###DEC-067264-0-000-24-09-1970@@@
-
 Decreto nº 67.264, de 24 de setembro de 1970.
 
 Cancela o Decreto nº 12.436, de 19 de maio de 1943.

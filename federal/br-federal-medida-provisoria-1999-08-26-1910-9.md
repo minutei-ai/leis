@@ -1,5 +1,3 @@
-###MPV-001910-0-009-26-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.910-9, DE 26 DE AGOSTO DE 1999.
 
 Estabelece prazo para as ratificações de concessões e alienações de terras feitas pelos Estados na Faixa de Fronteira, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-061127-0-000-02-08-1967@@@
-
 DECRETO Nº 61.127, DE 2 DE AGÔSTO DE 1967.
 
 Estabelece normas disciplinares da instalação da “Fundação IBGE”.

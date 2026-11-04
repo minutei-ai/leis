@@ -1,5 +1,3 @@
-###DEC-075709-0-000-09-05-1975@@@
-
 Decreto Nº 75.709, DE 9 DE MAIO DE 1975.
 
 Concede reconhecimento ao Curso de Geografia da Faculdade Dom Aquino de Filosofia, Ciências e Letras de Campo Grande, mantida pela Missão Salesiana de Mato Grosso, com sede na Cidade de Campo Grande, Estado de Mato Grosso.

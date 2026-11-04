@@ -1,5 +1,3 @@
-###DEC-068729-0-000-09-06-1971@@@
-
 DECRETO Nº 68.729 - DE 9 DE JUNHO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, para a Universidade Federal Fluminense, e dá outras providências.

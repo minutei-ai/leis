@@ -1,5 +1,3 @@
-###DEC-049903-0-000-12-01-1961@@@
-
 DECRETO Nº 49.903, DE 12 DE janeiro DE 1961.
 
 Retifica o Decreto nº 48.091, de 11 de abril de 1960, que dispõe sôbre a transformação de extranumerários-tarefeiros do Ministério da Aeronáutica em extranumerários-mensalistas.

@@ -1,5 +1,3 @@
-###DEL-007483-0-000-23-04-1945@@@
-
 DECRETO-LEI N. 7.483 – DE 23 DE ABRIL DE 1945
 
 Cria o Museu do Ouro

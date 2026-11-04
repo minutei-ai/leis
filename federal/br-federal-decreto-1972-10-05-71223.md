@@ -1,5 +1,3 @@
-###DEC-071223-0-000-05-10-1972@@@
-
 DECRETO Nº 71.223 - DE 5 DE OUTUBRO DE 1972.
 
 Abre ao Ministério da Educação e Cultura o crédito suplementar de Cr$ 4.677.900,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -10,11 +8,229 @@ decreta:
 
 Art. 1º Fica aberto ao Ministério da Educação e Cultura o crédito suplementar no valor de Cr$ 4.677.900,00 (quatro milhões, seiscentos e setenta e sete mil e novecentos cruzeiros), para reforço de dotações orçamentárias consignadas ao subanexo 15.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.00</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA EDUCAÇÃO E CULTURA</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.02</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Secretaria Geral</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1502.0108.2003</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Coordenação e Planejamento Setorial</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.2.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Material de Consumo ................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">50.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros ....................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">50.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.4.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Encargos Diversos ....................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">35.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1502.0912.2017</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Sistema de Informações sobre Educação e Cultura</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.2.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Material de Consumo.................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">40.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.1</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-Remuneração de Serviços Pessoais..........................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">200.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.4.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Encargos Diversos.....................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2.500</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4.1.3.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Equipamentos e Instalações .....................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.18</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Departamento de Assuntos Universitários</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1518.0906.1030</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Reequipamento de Universidades - Projeto Leste Europeu</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros ....................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.200.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.2.4.1</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Juros da Divida Pública</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Fundada Externa .......................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.050.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1518.0906.2094</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Administração e Manutenção do Ensino - Escola de Farmácia e Odontologia de Alfenas</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4.1.3.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Equipamentos e Instalações .....................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">30.400</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">TOTAL .........................................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4.677.900</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+15.00
+
+- MINISTÉRIO DA EDUCAÇÃO E CULTURA
+
+15.02
+
+- Secretaria Geral
+
+1502.0108.2003
+
+- Coordenação e Planejamento Setorial
+
+3.1.2.0
+
+- Material de Consumo ................................................................
+
+50.000
+
+3.1.3.2
+
+- Outros Serviços de Terceiros ....................................................
+
+50.000
+
+3.1.4.0
+
+- Encargos Diversos ....................................................................
+
+35.000
+
+1502.0912.2017
+
+- Sistema de Informações sobre Educação e Cultura
+
+3.1.2.0
+
+- Material de Consumo.................................................................
+
+40.000
+
+3.1.3.1
+
+-Remuneração de Serviços Pessoais..........................................
+
+200.000
+
+3.1.4.0
+
+- Encargos Diversos.....................................................................
+
+2.500
+
+4.1.3.0
+
+- Equipamentos e Instalações .....................................................
+
+20.000
+
+15.18
+
+- Departamento de Assuntos Universitários
+
+1518.0906.1030
+
+- Reequipamento de Universidades - Projeto Leste Europeu
+
+3.1.3.2
+
+- Outros Serviços de Terceiros ....................................................
+
+1.200.000
+
+3.2.4.1
+
+- Juros da Divida Pública
+
+02
+
+- Fundada Externa .......................................................................
+
+3.050.000
+
+1518.0906.2094
+
+- Administração e Manutenção do Ensino - Escola de Farmácia e Odontologia de Alfenas
+
+4.1.3.0
+
+- Equipamentos e Instalações .....................................................
+
+30.400
+
+TOTAL .........................................................................................
+
+4.677.900
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao subanexo 15.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.00</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA EDUCAÇÃO E CULTURA</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.02</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Secretaria Geral</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 1502.0108.2003</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.1</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Remuneração de Serviços Pessoais ........................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">135.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 1502.0902.2011</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.2.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Material de Consumo ................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">22.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.1</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Remuneração de Serviços Pessoais ........................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">10.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros ....................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">78.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.4.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Encargos Diversos ....................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">10.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 1502.0902.2012</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.2.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Material de Consumo ................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">10.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros ....................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">100.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.4.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Encargos Diversos ....................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2.500</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 1502.0912.2017</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros ....................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">30.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15.18</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Departamento de Assuntos Universitários</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 1518.0906.1030</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.1</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Remuneração de Serviços Pessoais ........................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">800.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.4.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Encargos Diversos ....................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">400.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4.3.1.1</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Amortização da Divina Pública</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Fundada Externa .......................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.050.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 1518.0906.2094</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4.1.4.0</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Material Permanente .................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">30.400</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">TOTAL .........................................................................................</span></p></td><td style="width:59.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4.677.900</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+15.00
+
+- MINISTÉRIO DA EDUCAÇÃO E CULTURA
+
+15.02
+
+- Secretaria Geral
+
+Atividade
+
+- 1502.0108.2003
+
+3.1.3.1
+
+- Remuneração de Serviços Pessoais ........................................
+
+135.000
+
+Atividade
+
+- 1502.0902.2011
+
+3.1.2.0
+
+- Material de Consumo ................................................................
+
+22.000
+
+3.1.3.1
+
+- Remuneração de Serviços Pessoais ........................................
+
+10.000
+
+3.1.3.2
+
+- Outros Serviços de Terceiros ....................................................
+
+78.000
+
+3.1.4.0
+
+- Encargos Diversos ....................................................................
+
+10.000
+
+Atividade
+
+- 1502.0902.2012
+
+3.1.2.0
+
+- Material de Consumo ................................................................
+
+10.000
+
+3.1.3.2
+
+- Outros Serviços de Terceiros ....................................................
+
+100.000
+
+3.1.4.0
+
+- Encargos Diversos ....................................................................
+
+2.500
+
+Atividade
+
+- 1502.0912.2017
+
+3.1.3.2
+
+- Outros Serviços de Terceiros ....................................................
+
+30.000
+
+15.18
+
+- Departamento de Assuntos Universitários
+
+Projeto
+
+- 1518.0906.1030
+
+3.1.3.1
+
+- Remuneração de Serviços Pessoais ........................................
+
+800.000
+
+3.1.4.0
+
+- Encargos Diversos ....................................................................
+
+400.000
+
+4.3.1.1
+
+- Amortização da Divina Pública
+
+02
+
+- Fundada Externa .......................................................................
+
+3.050.000
+
+Atividade
+
+- 1518.0906.2094
+
+4.1.4.0
+
+- Material Permanente .................................................................
+
+30.400
+
+TOTAL .........................................................................................
+
+4.677.900
 
 Art.3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

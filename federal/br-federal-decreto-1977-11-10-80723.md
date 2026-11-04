@@ -1,5 +1,3 @@
-###DEC-080723-0-000-10-11-1977@@@
-
 DECRETO Nº 80.723, DE 10 DE NOVEMBRO DE 1977.
 
 Outorga concessão à L & C - Rádio Emissoras Ltda. para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na cidade de São Roque, Estado de São Paulo.

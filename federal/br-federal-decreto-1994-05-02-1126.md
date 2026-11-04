@@ -1,5 +1,3 @@
-###DEC-001126-0-000-02-05-1994@@@
-
 DECRETO N° 1.126, DE 2 DE MAIO DE 1994
 
 Dá nova redação aos incisos III e V do art. 1° do Decreto n° 702, de 22 de dezembro de 1992, alterado pelo Decreto n° 1.113, de 19 de abril de 1994.

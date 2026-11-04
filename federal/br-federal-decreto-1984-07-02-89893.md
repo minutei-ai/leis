@@ -1,5 +1,3 @@
-###DEC-089893-0-000-02-07-1984@@@
-
 Decreto nº 89.893, de 02 de julho de 1984
 
 Altera dispositivo do Decreto nº 79.391, de 14 de março de 1977, que dispõe sobre requisição e compra de passagens aéreas por órgãos e entidades da Administração Federal e Fundações sob supervisão ministerial.

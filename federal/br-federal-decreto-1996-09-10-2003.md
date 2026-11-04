@@ -1,7 +1,3 @@
-1
-
-###DEC-002003-0-000-10-09-1996@@@
-
 DECRETO Nº 2.003, DE 10 DE SETEMBRO DE 1996.
 
 Regulamenta a produção de energia elétrica por Produtor Independente e por Autoprodutor e dá outras providências.

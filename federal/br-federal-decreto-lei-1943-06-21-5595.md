@@ -1,5 +1,3 @@
-###DEL-005595-0-000-21-06-1943@@@
-
 DECRETO‑LEI N. 5 595 – DE 21 DE JUNHO DE 1943
 
 Abre, ao Ministério da Educação e Saúde,  credito especial de Cr$ 906,40 para  pagamento de gratificação de magistério

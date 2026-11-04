@@ -1,5 +1,3 @@
-###DEL-003727-0-000-17-10-1941@@@
-
 DECRETO-LEI N. 3.727 – DE 17 DE OUTUBRO DE 1941
 
 Dá nova organização ao Corpo de Intendentes Navais

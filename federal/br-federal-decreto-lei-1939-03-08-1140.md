@@ -1,5 +1,3 @@
-###DEL-001140-0-000-08-03-1939@@@
-
 DECRETO-LEI N. 1.140 – DE 8 DE MARÇO DE 1939
 
 Extingue um (1) cargo na Secretaria da Câmara dos Deputados

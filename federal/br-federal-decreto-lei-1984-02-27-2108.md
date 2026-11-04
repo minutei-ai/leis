@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6ed915f7-c8a7-4ac9-b696-61b0c49efc34/texto#nowhere)
 
-###DEL-002108-0-000-27-02-1984@@@
-
 # Decreto-lei nº 2.108 de 27 de fevereiro de 1984.
 
 Concede isenção dos impostos de importação e sobre produtos industrializados nos casos que especifica.

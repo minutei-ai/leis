@@ -1,5 +1,3 @@
-###DEC-083323-0-000-11-04-1979@@@
-
 Decreto Nº 83.323, de 11 de abril de 1979.
 
 Dispõe sobre a composição do Conselho Monetário Nacional e dá outras providências.

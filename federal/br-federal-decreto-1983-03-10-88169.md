@@ -1,5 +1,3 @@
-###DEC-088169-0-000-10-03-1983@@@
-
 Decreto nº 88.169, de 10 de março de 1983.
 
 Declara de utilidade pública para fins de desapropriação, área de terra necessária à ampliação da estação de banco de capacitores da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

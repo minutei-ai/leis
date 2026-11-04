@@ -1,5 +1,3 @@
-###DEC-086722-0-000-14-12-1981@@@
-
 Decreto nº 86.722, de 14 de dezembro de 1981
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento (D.N.O.S.) uma faixa de terras com benfeitorias, situada no Município de Bagé, no Estado do Rio Grande do Sul, e dá outras providências.

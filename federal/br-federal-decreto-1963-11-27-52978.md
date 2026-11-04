@@ -1,5 +1,3 @@
-###DEC-052978-0-000-27-11-1963@@@
-
 DECRETO Nº 52.978, DE 27 DE NOVEMBRO DE 1963.
 
 Concede à Emprêsa Minério Gerais Ltda., autorização para funcionar como emprêsa de mineração.

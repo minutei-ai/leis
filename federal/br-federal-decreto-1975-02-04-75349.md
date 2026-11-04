@@ -1,5 +1,3 @@
-###DEC-075349-0-000-04-02-1975@@@
-
 DECRETO Nº 75.349, DE 4 DE FEVEREIRO DE 1975.
 
 Autoriza o funcionamento do curso de Psicologia da Faculdade de Biologia e Psicologia Maria Thereza, mantida pelo Instituto de Ciências e Tecnologia Maria Thereza, com sede na cidade de Niterói, Estado do Rio de Janeiro.

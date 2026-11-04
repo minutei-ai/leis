@@ -1,5 +1,3 @@
-###DEL-007137-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.137 – DE 7 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 1.000.000,00, para auxílio à Fundação Abrigo do Cristo Redentor

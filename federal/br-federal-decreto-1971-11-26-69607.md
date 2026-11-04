@@ -1,5 +1,3 @@
-###DEC-069607-0-000-26-11-1971@@@
-
 DECRETO Nº 69.607 - DE 26 DE NOVEMBRO DE 1971
 
 Cria Missão Diplomática em Barbados.

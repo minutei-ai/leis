@@ -1,5 +1,3 @@
-###DEC-052347-0-000-12-08-1963@@@
-
 Decreto nº 52.347, de 12 de agôsto de 1963.
 
 Aprova o regulamento para a concessão de subvenção às emprêsas de taxi-aéreo, prevista na Lei nº 4.200, de 5 de fevereiro de 1963.

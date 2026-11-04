@@ -1,5 +1,3 @@
-###DEC-001990-0-000-29-08-1996@@@
-
 DECRETO Nº 1.990, DE 29 DE AGOSTO DE 1996.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de oito empresas controladas pela União, responsáveis pela administração de portos marítimos e fluviais.

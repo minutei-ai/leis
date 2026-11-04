@@ -1,5 +1,3 @@
-###DEC-057961-0-000-10-03-1966@@@
-
 DECRETO Nº 57.961, de 10 DE MARÇO DE 1966.
 
 Autoriza Indústria e Comércio de Mineração Brasil Central “Incomibrac S.A.”, a pesquisar talco no município de Mairipotaba, Estado de Goiás.

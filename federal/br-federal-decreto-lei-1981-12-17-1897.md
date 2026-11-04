@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/381f424a-7de4-4a31-83bc-5c20e07d25dc/texto#nowhere)
 
-###DEL-001897-0-000-17-12-1981@@@
-
 # Decreto-lei nº 1.897, de 17 de dezembro de 1981
 
 Dispõe sobre a composição da Categoria Direção Superior do Grupo-Direção e Assessoramento Superiores, do Quadro Permanente do Ministério Público Federal, e dá outras providências.
@@ -25,8 +23,6 @@ Brasília, em 17de dezembro de 1981; 160º da Independência e 93º da Repúblic
 JOÃO FIGUEIREDO
 
 Ibrahim Abi-Ackel
-
-###DEL-001897-0-000-17-12-1981@@@RET01+++
 
 # DECRETO-LEI Nº 1.897, DE 17 DE DEZEMBRO DE 1981
 

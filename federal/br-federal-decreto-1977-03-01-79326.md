@@ -1,5 +1,3 @@
-###DEC-079326-0-000-01-03-1977@@@
-
 DECRETO Nº 79.326, DE 1º DE MARÇO DE 1977.
 
 Declara sem efeito o Decreto nº 58.208, de 18 de abril de 1966, que concedeu a José Emílio Rocha o direito de lavrar diamante e ouro.

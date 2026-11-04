@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211620)<br>
-
 # DECRETO N° 69.943, DE 10 DE OUTUBRO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, por doação, sem encargos, do Município de Bertioga, o imóvel que especifica._

@@ -1,5 +1,3 @@
-###DEC-075786-0-000-28-05-1975@@@
-
 DECRETO Nº 75.786, DE 28 DE MAIO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de servidão de passagem, imóvel, constituído de terreno e benfeitorias, situado em Campos Elísios, Distrito do Município de Duque de Caixas, no Estado do Rio de Janeiro.

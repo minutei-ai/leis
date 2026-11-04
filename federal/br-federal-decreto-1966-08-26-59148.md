@@ -1,5 +1,3 @@
-###DEC-059148-0-000-26-08-1966@@@
-
 DECRETO Nº 59.148, DE 26 DE AGôSTO DE 1966.
 
 Altera dispositivo do regimento da Consultoria-Geral da República, aprovado pelo Decreto nº 58.693, de 22 de junho de 1966.

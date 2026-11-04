@@ -1,5 +1,3 @@
-###DEC-059542-0-000-11-11-1966@@@
-
 DECRETO Nº 59.542, DE 11 DE NOVEMBRO DE 1966.
 
 Renova o Decreto nº 52.988, de 27 de novembro de 1963.

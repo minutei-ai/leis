@@ -1,7 +1,3 @@
-1
-
-###DEC-001734-0-000-07-12-1995@@@
-
 DECRETO Nº 1.734, DE 7 DE DEZEMBRO DE 1995.
 
 Regulamenta o art. 7º da Lei nº 9.131, de 24 de novembro de 1995, que altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961.

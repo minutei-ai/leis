@@ -1,5 +1,3 @@
-###DEC-049733-0-000-31-12-1960@@@
-
 DECRETO Nº 49.733, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o Estado da Bahia a ampliar as instalações mencionadas no Decreto nº 45.849, de 22 de abril de 1959.

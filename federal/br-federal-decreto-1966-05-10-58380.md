@@ -1,5 +1,3 @@
-###DEC-058380-0-000-10-05-1966@@@
-
 DECRETO Nº 58.380, DE 10 DE MAIO DE 1966.
 
 Aprova o Regulamento da Lei que Institucionaliza o Crédito Rural.

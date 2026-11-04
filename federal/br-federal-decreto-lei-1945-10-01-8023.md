@@ -1,5 +1,3 @@
-###DEL-008023-0-000-01-10-1945@@@
-
 DECRETO-LEI N. 8.023 – DE 1 DE OUTUBRO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 228.400,00, às verbas que especifica, e dá outras providências.

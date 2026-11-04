@@ -1,5 +1,3 @@
-###DEC-070352-0-000-03-04-1972@@@
-
 DECRETO Nº 70.352, DE 3 DE ABRIL DE 1972.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal das Secretarias do Ministério Público Federal, e dá outras providências.

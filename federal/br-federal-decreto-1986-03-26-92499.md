@@ -1,5 +1,3 @@
-###DEC-092499-0-000-26-03-1986@@@
-
 DECRETO Nº 92.499, DE 26 DE MARÇO DE 1986
 
 Autoriza o funcionamento do curso de História da Faculdade de Formação de Professores de Alagoinhas, Bahia.

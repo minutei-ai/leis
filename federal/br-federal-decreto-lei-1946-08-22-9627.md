@@ -1,5 +1,3 @@
-###DEL-009627-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.627 – DE 22 DE AGÔSTO DE 1946
 
 Extingue a Caixa Reguladora de Empréstimos da Prefeitura do Distrito Federal, e dá outras providências.

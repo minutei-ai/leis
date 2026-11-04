@@ -1,5 +1,3 @@
-###DEC-002161-0-000-20-02-1997@@@
-
 DECRETO Nº 2.161, DE 20 DE FEVEREIRO DE 1997
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Alcance Parcial de “Renegociação das concessões outorgadas no período 1962/1980” nº 10/Revisado (Protocolo de Adequação), entre Brasil e Colômbia, de 10 de dezembro de 1996.

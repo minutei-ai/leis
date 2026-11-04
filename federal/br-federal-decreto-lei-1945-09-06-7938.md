@@ -1,5 +1,3 @@
-###DEL-007938-0-000-06-09-1945@@@
-
 DECRETO-LEI N. 7.938 – DE 6 DE SETEMBRO DE 1945
 
 Novas disposições transitórias para a execução da lei orgânica do ensino comercial

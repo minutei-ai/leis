@@ -1,5 +1,3 @@
-###DEC-082999-0-000-09-01-1979@@@
-
 Decreto nº 82.999, de 09 de janeiro de 1979
 
 Concede à Patrocínio Calcário Agrícola Ltda. o direito de lavrar calcário no Município de Coromandel, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-071149-0-000-26-09-1972@@@
-
 DECRETO Nº 71.149, de 26 de Setembro 1972.
 
 Autoriza a distribuição de recursos do Fundo Especial ao Território de Fernando de Noronha.

@@ -1,5 +1,3 @@
-###DEC-059418-0-000-26-10-1966@@@
-
 DECRETO Nº 59.418, DE 26 DE OUTUBRO DE 1966.
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de Cr$1.956.750.000 (hum bilhão, novecentos e cinqüenta e seis milhões, setecentos e cinqüenta mil cruzeiros), para o fim que especifica.

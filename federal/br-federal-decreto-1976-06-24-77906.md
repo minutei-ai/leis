@@ -1,5 +1,3 @@
-###DEC-077906-0-000-24-06-1976@@@
-
 DECRETO Nº 77.906, DE 24 DE JUNHO DE 1976.
 
 Concede à Mineração Omega S.A o direito de lavrar areia quartzosa no Município de Lavras, Estado de Minas Gerais.

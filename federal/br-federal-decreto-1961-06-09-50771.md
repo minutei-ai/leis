@@ -1,5 +1,3 @@
-###DEC-050771-0-000-09-06-1961@@@
-
 DECRETO Nº 50.771, DE 9 DE JUNHO DE 1961.
 
 Autorizou a Companhia Paranaense de Energia Elétrica a ampliar suas instalações no Município de Apucarana, Estado do Paraná.

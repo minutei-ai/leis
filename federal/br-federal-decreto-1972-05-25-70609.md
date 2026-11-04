@@ -1,5 +1,3 @@
-###DEC-070609-0-000-25-05-1972@@@
-
 DECRETO Nº 70.609, DE 25 DE MAIO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado de São Paulo.

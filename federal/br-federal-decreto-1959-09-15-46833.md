@@ -1,5 +1,3 @@
-###DEC-046833-0-000-15-09-1959@@@
-
 DECRETO Nº 46.833,DE 15 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro João Soares Alvim a pesquisar dolomita no município de Ouro Prêto, Estado de Minas Gerais.

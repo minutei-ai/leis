@@ -1,5 +1,3 @@
-###DEC-052043-0-000-22-05-1963@@@
-
 DECRETO Nº 52.043, DE 22 DE MAIO DE 1963.
 
 Dispõe sôbre o aproveitamento dos servidores brasileiros da Comissão Mista Ferroviária Brasileiro-Boliviana no Serviço Público da União.

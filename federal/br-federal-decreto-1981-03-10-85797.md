@@ -1,7 +1,3 @@
-1
-
-###DEC-085797-0-000-10-03-1981@@@
-
 Decreto nº 85.797, de 10 de março de 1981.
 
 Altera dispositivo do Decreto nº 83.257, de 7 de março de 1979, que aprova o Regulamento do Almirantado.

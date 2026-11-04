@@ -1,5 +1,3 @@
-###DEL-005004-0-000-27-11-1942@@@
-
 DECRETO-LEI N. 5.004 – DE 27 DE NOVEMBRO DE 1942
 
 Cria a 1ª Companhia de Vigilância do Ar, com sede no Rio de Janeiro

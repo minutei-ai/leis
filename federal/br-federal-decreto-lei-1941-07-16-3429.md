@@ -1,5 +1,3 @@
-###DEL-003429-0-000-16-07-1941@@@
-
 DECRETO-LEI N. 3.429 – DE 16 DE JULHO DE 1941
 
 Autoriza a entrega do produto arrecadado da taxa suplementar a que se refere o decreto-lei n. 1.850, de 9 de dezembro de 1939, à instituição que indica.

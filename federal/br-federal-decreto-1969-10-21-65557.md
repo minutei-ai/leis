@@ -1,14 +1,12 @@
-###DEC-065557-0-000-21-10-1969@@@
+**DECRETO Nº 65.557, DE 21 DE OUTUBRO DE 1969.**
 
-<strong>DECRETO Nº 65.557, DE 21 DE OUTUBRO DE 1969.</strong>
+***Dá nova redação a dispositivos do Decreto nº 55.841, de 15-3-65, que aprova o Regulamento da Inspeção do Trabalho.***
 
-<em><strong>Dá nova redação a dispositivos do Decreto nº 55.841, de 15-3-65, que aprova o Regulamento da Inspeção do Trabalho.</strong></em>
+**OS MINISTÉRIOS DA MARINHA DE GUERRA, DO EXERCITO E DA AERONÁUTICA MILITAR**, usando das atribuições que lhes confere o artigo 3º, do Ato Institucional nº 16 de 14 de outubro de 1969, combinado com o artigo 83, item II, da Constituição,
 
-<strong>OS MINISTÉRIOS DA MARINHA DE GUERRA, DO EXERCITO E DA AERONÁUTICA MILITAR</strong>, usando das atribuições que lhes confere o artigo 3º, do Ato Institucional nº 16 de 14 de outubro de 1969, combinado com o artigo 83, item II, da Constituição,
+**DECRETAM:**
 
-<strong>DECRETAM:</strong>
-
-<strong>Art</strong>.1º Os artigos 27 e 28 do Regulamento da Inspeção do Trabalho aprovado pelo Decreto nº 55.841 de 15 de março de 1965, passam a vigorar com a seguinte redação:
+**Art**.1º Os artigos 27 e 28 do Regulamento da Inspeção do Trabalho aprovado pelo Decreto nº 55.841 de 15 de março de 1965, passam a vigorar com a seguinte redação:
 
 “Art. 27. As autoridades de direção intermediária, responsáveis pela inspeção do trabalho, elaborarão relatórios semestrais que deverão conter, dentre outros, os seguintes elementos:
 
@@ -62,11 +60,11 @@ Art. 28º Os relatórios de que trata o artigo anterior, quanto aos itens I a V,
 
 § 3º Compete a CPDS promover a remessa da 2ª via do relatório geral à Organização Internacional do Trabalho (OIT) e extrair, da 3ª via, os elementos necessários à elaboração dos expediente destinados à OIT, relativos ao cumprimento, por parte do Brasil, das Convenções ratificadas.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 21 de outubro de 1969; 148º da Independência e 81º da República.
 
-<strong>AUGUSTO HAMANN RADEMAKER</strong> <strong>GRÜNEWALD</strong>
+**AUGUSTO HAMANN RADEMAKERGRÜNEWALD**
 
 Aurélio de Lyra Tavares
 

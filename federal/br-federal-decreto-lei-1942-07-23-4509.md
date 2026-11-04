@@ -1,5 +1,3 @@
-###DEL-004509-0-000-23-07-1942@@@
-
 DECRETO-LEI N. 4.509 – DE 23 DE JULHO DE 1942
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de 7.736:190$0 para localização de trabalhadores no Vale do Amazonas, e dá outras providências

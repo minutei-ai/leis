@@ -1,5 +1,3 @@
-###DEC-096407-0-000-22-07-1988@@@
-
 DECRETO N° 96.407, DE 22 DE JULHO DE 1988
 
 Outorga concessão à REDE MS INTEGRAÇÃO DE RADIO E TELEVISÃO LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Campo Grande, Estado de Mato Grosso do Sul.

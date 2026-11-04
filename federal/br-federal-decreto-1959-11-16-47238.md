@@ -1,5 +1,3 @@
-###DEC-047238-0-000-16-11-1959@@@
-
 DECRETO Nº 47.238, DE 16 DE NOVEMBRO DE 1959.
 
 Outorga à Companhia Sul Sergipana de Eletricidade - Sulgipe - concessão para distribuir energia elétrica no município de Itabaianinha Estado de Sergipe, e dá outras providências.

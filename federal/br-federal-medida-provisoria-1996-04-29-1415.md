@@ -1,7 +1,3 @@
-1
-
-###MPV-001415-0-000-29-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.415, DE 29 DE ABRIL DE 1996.
 
 Dispõe sobre o reajuste do salário mínimo e dos benefícios da Previdência Social, altera alíquotas de contribuição para a Seguridade Social e institui contribuição para os servidores inativos da União.

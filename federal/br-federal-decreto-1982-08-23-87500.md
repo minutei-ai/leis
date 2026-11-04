@@ -1,5 +1,3 @@
-###DEC-087500-0-000-23-08-1982@@@
-
 Decreto nº 87.500, de 23 de agosto de 1982
 
 Altera a localização de sede de organização militar no Ministério do Exército e dá outras providências.

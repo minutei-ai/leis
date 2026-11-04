@@ -1,5 +1,3 @@
-###DEC-061771-0-000-23-11-1967@@@
-
 DECRETO Nº 61.771, DE 23 DE NOVEMBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Emprêsa Elétrica Siqueira, Meirelles Ltda. em diversos municípios do Estado de Minas Gerais, outorga à Centrais Elétricas de Minas Gerais S. A. concessão para distribuir energia elétrica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067005-0-000-06-08-1970@@@
-
 DECRETO Nº 67.005, DE 6 DE AGÔSTO DE 1970.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 52.199, de 28 de junho de 1963, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público "Pereira de Miranda" ex-Pentecoste, no Município de Pentecoste, Estado do Ceará.

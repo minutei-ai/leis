@@ -1,5 +1,3 @@
-###DEC-054149-0-000-20-08-1964@@@
-
 DECRETO Nº 54.149, DE 20 DE AGôSTO DE 1964.
 
 Outorga a Centrais Elétrica Brasileiras S.A. concessão para aproveitamento progressivo da energia hidráulica de um trecho do Rio Paraná.

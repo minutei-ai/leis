@@ -1,5 +1,3 @@
-###DEC-049348-0-000-26-11-1960@@@
-
 DECRETO N. 49.348 – DE 26 DE NOVEMBRO DE 1960
 
 Autoriza a Centrais Elétricas do Maranhão S. A. (C.E.M.A.R) a ampliar suas instalações mediante a construção de uma usina termetétrica em São Luís, Estado do Maranhão.

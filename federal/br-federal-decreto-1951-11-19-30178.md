@@ -1,20 +1,18 @@
-###DEC-030178-0-000-19-11-1951@@@
+**DECRETO N. 30.178 – DE 19 DE NOVEMBRO DE 1951**
 
-<strong>DECRETO N. 30.178 – DE 19 DE NOVEMBRO DE 1951</strong>
-
-<em><strong>Outorga ao Estado do Paraná concessão para o aproveitamento de energia hidráulica do saldo denominado Refitski, existente no rio Cavernoso, divisa dos municípios de Laranjeiras do Sul e Guarapuava.</strong></em>
+***Outorga ao Estado do Paraná concessão para o aproveitamento de energia hidráulica do saldo denominado Refitski, existente no rio Cavernoso, divisa dos municípios de Laranjeiras do Sul e Guarapuava.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150, do Código de Águas (Decreto n. 24.643, de 10 de julho de 1934),
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º E' outorgada ao Estado do Paraná concessão para o aproveitamento progressivo da energia hidráulica do saldo denominado Refitski, existente no rio Cavernoso, divisa dos municípios de Laranjeiras do Sul e Guarapuava, no mesmo Estado.
+**Art.** 1º E' outorgada ao Estado do Paraná concessão para o aproveitamento progressivo da energia hidráulica do saldo denominado Refitski, existente no rio Cavernoso, divisa dos municípios de Laranjeiras do Sul e Guarapuava, no mesmo Estado.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga da derivação e a potência da etapa inicial, bem como das subsequentes, à medida que forem sendo aprovados os projetos correspondentes.
 
 § 2º O aproveitamento destina-se à produção, transmissão e Distribuição de energia elétrica para serviço público e de utilidade pública, e para comércio de energia no município de Laranjeiras do Sul, Estado do Paraná.
 
-<strong>Art.</strong> 2º Caducará, o presente título, independente de ato declaratório, se o concessionário não satisfizer as condições seguintes:
+**Art.** 2º Caducará, o presente título, independente de ato declaratório, se o concessionário não satisfizer as condições seguintes:
 
 I – Registrá-lo na Divisão de Águas do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação;
 
@@ -100,26 +98,26 @@ V – Iniciar e concluir as obras nos prazos que forem determinados pelo Minist�
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art.</strong> 3º O concessionário fica obrigado a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art.** 3º O concessionário fica obrigado a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art.</strong> 4º O capital a remunerar será o efetivamento investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art.** 4º O capital a remunerar será o efetivamento investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art.</strong> 5º As tabelas de preço de energia serão fixadas pelo Ministério da Agricultura e trienalmente revistas de acôrdo com o disposto no artigo 180 do Código de Águas.
+**Art.** 5º As tabelas de preço de energia serão fixadas pelo Ministério da Agricultura e trienalmente revistas de acôrdo com o disposto no artigo 180 do Código de Águas.
 
-<strong>Art.</strong> 6º Para a manutenção da integridade do capital a que se refere o art. 4º será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art.** 6º Para a manutenção da integridade do capital a que se refere o art. 4º será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por quota especial, que incidira sôbre as tarifas, sob forma de porcentagem Esta quota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reserva terá, que atender, podendo se modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art.</strong> 7º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art.** 7º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
 
 Parágrafo único. Findo êste prazo, a concessão poderá ser renovada, a requerimento do Estado do Paraná.
 
-<strong>Art.</strong> 8º O presente Decreto entra em vigor na data de sua publicação.
+**Art.** 8º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art.</strong> 9º Revogam-se as disposições em contrário.
+**Art.** 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de novembro de 1951; 130º da Independência e 63º da República.
 
-<strong>GETÚLIO VAGAS.</strong>
+**GETÚLIO VAGAS.**
 
 João Cleofas.

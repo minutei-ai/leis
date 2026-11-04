@@ -1,5 +1,3 @@
-###DEC-071191-0-000-03-10-1972@@@
-
 DECRETO Nº 71.191 - de 3 de Outubro de 1972.
 
 Concede autorização à firma Astro Marine Incorporated, para operar no mar territorial do Brasil, com a embarcação especializada M/V "Dorado", de nacionalidade norte-americana.

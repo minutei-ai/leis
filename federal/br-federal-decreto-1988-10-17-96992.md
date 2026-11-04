@@ -1,5 +1,3 @@
-###DEC-096992-0-000-17-10-1988@@@
-
 DECRETO Nº 96.992, DE 17 DE OUTUBRO DE 1988
 
 Autoriza o aumento do capital social de BB Financeira S.A. - Crédito, Financiamento e Investimento.

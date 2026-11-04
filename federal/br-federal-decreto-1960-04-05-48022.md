@@ -1,5 +1,3 @@
-###DEC-048022-0-000-05-04-1960@@@
-
 DECRETO Nº 48.022, DE 04 DE abril DE 1960.
 
 Autoriza o cidadão brasileiro Arthur Herman Lundgren a lavrar calcário no município de Paulista, Estado de Pernambuco.

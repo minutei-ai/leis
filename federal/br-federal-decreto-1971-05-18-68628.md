@@ -1,5 +1,3 @@
-###DEC-068628-0-000-18-05-1971@@@
-
 DECRETO Nº 68.628 - de 18 DE MAIO DE 1971.
 
 Concede reconhecimento ao Curso de Estudos Sociais (Licenciatura de 1° ciclo) da Faculdade de Filosofia, Ciências e Letras " Imaculada Conceição", RS.

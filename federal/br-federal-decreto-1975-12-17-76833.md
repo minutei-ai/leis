@@ -1,5 +1,3 @@
-###DEC-076833-0-000-17-12-1975@@@
-
 DECRETO Nº 76.833, DE 17 DE DEZEMBRO DE 1975.
 
 Autoriza o funcionamento da Faculdade de Engenharia de Operação de Juazeiro do Norte, Estado do Ceará.

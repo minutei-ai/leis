@@ -1,5 +1,3 @@
-###DEC-067804-0-000-11-12-1970@@@
-
 DECRETO Nº 67.804, DE 11 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública a Sociedade de Auxílio à Maternidade e à Infância - SAMI, com sede em Passo Fundo, Estado do Rio Grande do Sul.

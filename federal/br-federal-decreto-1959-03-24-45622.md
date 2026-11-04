@@ -1,5 +1,3 @@
-###DEC-045622-0-000-24-03-1959@@@
-
 DECRETO Nº 45.622, DE 24 DE MARÇO DE 1959.
 
 Autoriza Carlos Antônio de Souza Ribeiro, a comprar pedras preciosas.

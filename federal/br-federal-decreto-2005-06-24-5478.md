@@ -1,5 +1,3 @@
-###DEC-005478-0-000-24-06-2005@@@
-
 DECRETO Nº 5.478, DE 24 DE JUNHO DE 2005
 
 Institui, no âmbito das instituições federais de educação tecnológica, o Programa de Integração da Educação Profissional ao Ensino Médio na Modalidade de Educação de Jovens e Adultos - PROEJA.

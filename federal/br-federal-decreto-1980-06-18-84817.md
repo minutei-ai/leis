@@ -1,5 +1,3 @@
-###DEC-084817-0-000-18-06-1980@@@
-
 DECRETO Nº 84.817, DE 18 DE JUNHO DE 1980.
 
 Dispõe sobre a realização de despesa de pessoal em órgãos e entidades da Administração Federal, bem como em Fundações instituídas e mantidas pela União.

@@ -1,5 +1,3 @@
-###DEC-004950-0-000-09-01-2004@@@
-
 DECRETO Nº 4.950,  DE 9 DE JANEIRO DE 2004.
 
 Dispõe sobre a arrecadação das receitas de órgãos, fundos, autarquias, fundações e demais entidades integrantes dos orçamentos fiscal e da seguridade social, e dá outras providências.

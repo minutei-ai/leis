@@ -1,5 +1,3 @@
-###DEC-069299-0-000-28-09-1971@@@
-
 DECRETO Nº 69.299, DE 28 DE SETEMBRO DE 1971.
 
 Declara de utilidade pública a Sociedade Beneficente Asilo São Vicente de Paulo, com sede em Lins, Estado de São Paulo.

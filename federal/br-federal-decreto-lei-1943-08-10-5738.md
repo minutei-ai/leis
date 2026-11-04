@@ -1,5 +1,3 @@
-###DEL-005738-0-000-10-08-1943@@@
-
 DECRETO–LEI N. 5738 – DE 10 DE AGOSTO DE 1943
 
 Autoriza a Comissão Executiva de Frutas a contratar operação de credito com o Banco do Brasil

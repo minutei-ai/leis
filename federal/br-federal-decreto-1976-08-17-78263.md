@@ -1,5 +1,3 @@
-###DEC-078263-0-000-17-08-1976@@@
-
 DECRETO Nº 78.263, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Faculdade de Ciências Contábeis do Litoral Santista.

@@ -1,5 +1,3 @@
-###MPV-001862-0-069-27-07-1999@@@
-
 Medida Provisória nº 1.862-69, de 27 de julho de 1999.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

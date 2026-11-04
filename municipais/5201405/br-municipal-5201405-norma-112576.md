@@ -16,7 +16,8 @@ Aparecida de Goiânia, 27 de junho de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
@@ -89,8 +90,8 @@ Lote 20 da Quadra 11, registrado sob matrícula n° 58.592; 
 
 Lote 21 da Quadra 11, registrado sob matrícula n° 58.593.
 
-<br>
-LIMITES E CONFRONTAÇÕES<br>
+LIMITES E CONFRONTAÇÕES
+
 LDAT 138 kV ANHANGUERA – RIVIERA
 
 Inicia-se no ponto P-01, com coordenadas UTM N=8.143.697,858 B=691.322,896, situado na faixa de servidão da LDAT, na divisa com a Estrada Rural e de Prefeitura Municipal de Goiânia; daí segue pela faixa de segurança da LDAT, dividindo com terras de Prefeitura Municipal de Goiânia, com o azimute de 42°59'23" e distância de 10,996m até o ponto P-02. com coordenadas UTM N=8.143.705,901 E=691.330,394; dai segue pela faixa de segurança da LDAT, na mesma divisa, com o azimute de 127°26'32" e distância de 5,024m até o ponto P-03, com coordenadas UTM N=8.143.702,847 E=691.334,382; dai segue pela faixa de segurança da LDAT, na mesma divisa, com o azimute de 31°53'42" e distância de 423,375m até o ponto P-04, com coordenadas UTM N=8.144.062,301 E=691.558,079; dai segue pela faixa de segurança da LDAT, na mesma divisa, com o azimute de 90°31'11 e distância de 21,408m até o ponto P-05,com coordenadas UTM N=8.144.062,107 E-691.579,485; dai segue pela faixa de segurança da LDAT, dividindo com a Estrada Rural, com o azimute de 191°14'57" e distância de 33,247m até o ponto P-06, com coordenadas UTM N=8.144.029,498 E-691.573,000; dai segue pela faixa de segurança da LDAT, dividindo com terras de Prefeitura Municipal de Goiânia, com o azimute de 211°53'42" e distância de 406,323m até o ponto P-07, com coordenadas UTM N=8.143.684,523 E=691.358,314; daí segue pela faixa de segurança da LDAT, na mesma divisa, com o azimute de 127°26'32" e distância de 5,024m até o ponto P-08, com coordenadas UTM N=8.143.681,469 B=691.362,302; dai segue pela faixa de segurança da LDAT, na mesma divisa, com o azimute de 222°59'23" e distância de 11,296m até o ponto P-09, com coordenadas UM N=8.143.673,206 E=691.354,599; dai segue pela faixa de segurança da LDAT, dividindo com a Estrada Rural, com o azimute de 307°52'06" e distância de 40,160m até o ponto P-01, onde se deu origem a esta descrição.

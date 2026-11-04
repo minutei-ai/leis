@@ -1,5 +1,3 @@
-###DEC-076277-0-000-16-09-1975@@@
-
 DECRETO Nº 76.277 - DE 16 DE SETEMBRO DE 1975
 
 Confisca bens da empresa denominada S.A. Central de Imóveis e Construções, com sede na Capital do Estado de São Paulo, para a reparação de danos causados ao patrimônio público e dá outras providências.

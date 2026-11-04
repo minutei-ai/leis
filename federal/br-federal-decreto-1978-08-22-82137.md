@@ -1,5 +1,3 @@
-###DEC-082137-0-000-22-08-1978@@@
-
 Decreto nº 82.137, de 22 de agosto de 1978.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados nos Municípios do Rio de Janeiro e Niterói, Estado do Rio de Janeiro e do Recife, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-052646-0-000-10-10-1963@@@
-
 DECRETO Nº 52.646, DE 10 DE OUTUBRO DE 1963.
 
 Concede à South América Indian Mission, Inc., autorização para funcionar no Brasil e aprova os seus estatutos.

@@ -1,5 +1,3 @@
-###DEC-072333-0-000-04-06-1973@@@
-
 DECRETO Nº 72.333, de 4 de junho de 1973.
 
 Concede reconhecimento aos cursos (licenciatura) de Educação Geral, Artes Práticas e Educação Física, ministrados pelo Programa de Expansão e Melhoria do Ensino Médio (PREMEM), em convênio com as Universidades Federais da Bahia, Espírito Santo, Minas Gerais, Rio Grande do Sul e Pernambuco.

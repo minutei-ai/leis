@@ -1,5 +1,3 @@
-###DEC-062366-0-000-08-03-1968@@@
-
 DECRETO Nº 62.366, DE 8 DE MARÇO DE 1968.
 
 Autoriza o cidadão Serafino Constantini a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-004057-0-000-18-12-2001@@@
-
 DECRETO Nº 4.057, DE 18 DE DEZEMBRO DE 2001.
 
 Prorroga, nas partes que menciona, a vigência das Notas Complementares NC (84-1) e NC (85-2) da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto n~~º~~ 3.777, de 23 de março de 2001.

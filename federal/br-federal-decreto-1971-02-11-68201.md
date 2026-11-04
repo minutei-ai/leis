@@ -1,5 +1,3 @@
-###DEC-068201-0-000-11-02-1971@@@
-
 DECRETO Nº 68.201, DE 11 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a derivação da LT Firminópolis - São Luis de Montes Belos até a cidade de Córrego do Ouro, no Estado e Goiás.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/253a7840-c410-4f22-a79e-84c86c33e77c/texto#nowhere)
 
-###DEC-091726-0-000-30-09-1985@@@
-
 # Decreto nº 91.726, de 30 de setembro de 1985
 
 Retira os Aeroportos de Bagé e Pelotas, situados no Estado do Rio Grande do sul, da relação dos aeroportos internacionais do Brasil, estabelecidos pelo Decreto nº 74.924, de 21 de novembro de 1974.

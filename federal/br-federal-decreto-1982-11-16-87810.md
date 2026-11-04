@@ -1,5 +1,3 @@
-###DEC-087810-0-000-16-11-1982@@@
-
 Decreto nº 87.810, de 16 de novembro de 1982.
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica nos Estados de Minas Gerais e Rio de Janeiro.

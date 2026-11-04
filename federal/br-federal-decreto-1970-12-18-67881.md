@@ -1,5 +1,3 @@
-###DEC-067881-0-000-18-12-1970@@@
-
 DECRETo Nº 67.881, DE 18 DE DEZEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente do Instituto Nacional de Previdência Social (INPS) cargo originário do Departamento Administrativo do Pessoal Civil (DASP).

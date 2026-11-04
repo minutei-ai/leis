@@ -1,5 +1,3 @@
-###DEC-051978-0-000-30-04-1963@@@
-
 DECRETO Nº 51.978, DE 30 DE ABRIL DE 1963.
 
 Cria Grupo de Trabalho com o fim de estudar o sistema de transporte de petróleo e derivados por vias terrestres.

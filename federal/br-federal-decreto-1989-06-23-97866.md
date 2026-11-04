@@ -1,7 +1,3 @@
-1
-
-###DEC-097866-0-000-23-06-1989@@@
-
 DECRETO Nº 97.866, DE 23 DE JUNHO DE 1989
 
 Declara de interesse social, para, fins de reforma agrária, o imóvel rural denominado “FAZENDA CEDRO”, classificado como “latifúndio por exploração”, situado no Município de Camocim, no Estado do Ceará, compreendido na zona prioritária fixada pelo Decreto nº 92.617, de 02 de maio de 1986, e dá outras providências.

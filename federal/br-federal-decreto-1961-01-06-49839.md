@@ -1,5 +1,3 @@
-###DEC-049839-0-000-06-01-1961@@@
-
 DECRETO Nº 49.839, DE 6 DE JANEIRO DE 1961.
 
 Autoriza a realização de Convênio entre o Ministério da Agricultura e o Govêrno do Rio Grande do Sul, para executar plano de experimentação e de fomento do trigo naquele Estado.

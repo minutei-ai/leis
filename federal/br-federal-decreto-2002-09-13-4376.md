@@ -1,5 +1,3 @@
-###DEC-004376-0-000-13-09-2002@@@
-
 DECRETO Nº 4.376, DE 13 DE SETEMBRO DE 2002
 
 Dispõe sobre a organização e o funcionamento do Sistema Brasileiro de Inteligência, instituído pela Lei nº 9.883, de 7 de dezembro de 1999, e dá outras providências.

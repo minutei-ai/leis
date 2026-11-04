@@ -1,5 +1,3 @@
-###DEC-091372-0-000-26-06-1985@@@
-
 DECRETO nº 91.372, de 26 dE junhO DE 1985.
 
 Institui Comissão Nacional visando ao estabelecimento de diretrizes que promovam o aperfeiçoamento do ensino-aprendizagem da língua materna.

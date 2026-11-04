@@ -1,5 +1,3 @@
-###DEC-083406-0-000-04-05-1979@@@
-
 DECRETO Nº 83.406, DE 04 DE MAIO DE 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação, da subestação abaixadora de Penápolis, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

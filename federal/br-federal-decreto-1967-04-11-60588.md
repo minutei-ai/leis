@@ -1,5 +1,3 @@
-###DEC-060588-0-000-11-04-1967@@@
-
 Decreto nº 60.588, de 11 de abril de 1967.
 
 Concede à Pearl Assurance Company, Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

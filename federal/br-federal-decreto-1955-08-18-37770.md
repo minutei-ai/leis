@@ -1,6 +1,4 @@
-###DEC-037770-0-000-18-08-1955@@@
-
-<strong>DECRETO Nº 37.770, DE 18 DE AGOSTO DE 1955.</strong>
+**DECRETO Nº 37.770, DE 18 DE AGOSTO DE 1955.**
 
 <!-- fac-simile-oficial:inicio -->
 

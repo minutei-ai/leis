@@ -1,5 +1,3 @@
-###DEC-002217-0-000-29-04-1997@@@
-
 DECRETO Nº 2.217 DE 29 DE ABRIL DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 1.958, de 15 de julho de 1996.

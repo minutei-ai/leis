@@ -1,5 +1,3 @@
-###DEC-059862-0-000-26-12-1966@@@
-
 DECRETO Nº 59.862, DE 26 de DEZEMBRO DE 1966.
 
 Declara de utilidade pública a “Inspetoria Salesiana do Nordeste do Brasil”, com sede em Recife, Estado de Pernambuco.

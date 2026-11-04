@@ -1,5 +1,3 @@
-###DEC-076964-0-000-31-12-1975@@@
-
 DECRETO Nº 76.964, DE 31 DE DEZEMBRO DE 1975.
 
 Cria o 34º Batalhão de Infantaria de Selva e dá outras providências

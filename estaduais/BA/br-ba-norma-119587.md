@@ -8,12 +8,14 @@ Art. 1º - Ficam instituídas, na forma desta Lei, as Gratificações por Aprese
 
 § 1º - A Gratificação por Apresentação Pública será devida em cada apresentação de espetáculo artístico, no percentual de até 32% (trinta e dois por cento), nas condições fixadas em Regulamento, e incidirá sobre o vencimento do respectivo cargo de provimento permanente, acumulando-se até o número mensal máximo de 10 (dez) apresentações.
 
-Redação do § 1º do art. 1º de acordo com o [art. 1º da Lei nº 7.820, de 18 de junho de 2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7820-de-18-de-junho-de-2001#LO_7_820_Art__1) .<br>
+Redação do § 1º do art. 1º de acordo com o [art. 1º da Lei nº 7.820, de 18 de junho de 2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7820-de-18-de-junho-de-2001#LO_7_820_Art__1) .
+
 Redação original: "§ 1º - A Gratificação por Apresentação Pública será devida em cada apresentação de espetáculo artístico, no percentual de até 15% (quinze por cento), nas condições fixadas em regulamento e incidirá sobre o vencimento do cargo de provimento permanente ocupado, acumulando-se até o número mensal máximo de 10 (dez) apresentações."
 
 § 2º - A Gratificação de Encargos Especiais, no percentual de até 50% (cinqüenta por cento), nas condições fixadas em Regulamento, e incidirá sobre o vencimento básico do respectivo cargo de provimento permanente, será paga com o objetivo de compensar gastos realizados pelo profissional com a manutenção de instrumentos e vestuários utilizados em apresentações.
 
-Redação do § 2º do art. 1º de acordo com o [art. 1º da Lei nº 7.820, de 18 de junho de 2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7820-de-18-de-junho-de-2001#LO_7_820_Art__1) .<br>
+Redação do § 2º do art. 1º de acordo com o [art. 1º da Lei nº 7.820, de 18 de junho de 2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7820-de-18-de-junho-de-2001#LO_7_820_Art__1) .
+
 Redação original: "§ 2º - A Gratificação de Encargos Especiais, no percentual de até 45% (quarenta e cinco por cento), nas condições fixadas em regulamento e incidirá sobre o vencimento básico do respectivo cargo de provimento permanente, será paga com o objetivo de compensar gastos realizados pelo profissional com a manutenção de instrumentos e vestuários utilizados em apresentações públicas."
 
 Art. 2º - Os ocupantes do cargo de Regente, também classificado no Grupo Ocupacional Artes e Cultura, farão jus, exclusivamente, à Gratificação por Apresentação Pública, nas mesmas bases e condições estabelecidas para os demais servidores referidos no artigo 1º desta Lei.

@@ -1,5 +1,3 @@
-###DEC-097149-0-000-30-11-1988@@@
-
 DECRETO Nº 97.149, DE 30 NOVEMBRO DE 1988
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade Anglo-Americano.

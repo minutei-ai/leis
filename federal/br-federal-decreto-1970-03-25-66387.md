@@ -1,5 +1,3 @@
-###DEC-066387-0-000-25-03-1970@@@
-
 DEcRETO Nº 66.387 - DE 25 DE MARÇO DE 1970
 
 Retifica nome de servidor da antiga Comissão do Vale do São Francisco.

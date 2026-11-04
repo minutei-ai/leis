@@ -1,5 +1,3 @@
-###DEC-072119-0-000-24-04-1973@@@
-
 DECRETO Nº 72.119, DE 24 DE ABRIL DE 1973.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Escola Superior de Estudos Sociais de Brusque, mantida pela Fundação Educacional de Brusque, SC.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209012)<br>
-
 # DECRETO N° 68.241, DE 22 DE DEZEMBRO DE 2023
 
 ### _Autoriza a outorga de uso, ao Município de São Roque, do imóvel que especifica, e dá providências correlatas._

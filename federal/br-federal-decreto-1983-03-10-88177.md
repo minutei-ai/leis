@@ -1,5 +1,3 @@
-###DEC-088177-0-000-10-03-1983@@@
-
 Decreto nº 88.177, de 10 de março de 1983
 
 Altera dispositivo do Decreto nº 72.493, de 19 de julho de 1973, que dispõe sobre o Grupo-Outras Atividades de Nível Superior.

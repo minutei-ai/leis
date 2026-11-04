@@ -1,5 +1,3 @@
-###DEC-003859-0-000-04-07-2001@@@
-
 DECRETO Nº 3.859, DE 4 DE JULHO DE 2001
 
 Estabelece as características dos Títulos da Dívida Pública Mobiliária Federal interna e dá outras providências.

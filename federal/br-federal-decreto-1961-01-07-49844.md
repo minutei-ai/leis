@@ -1,5 +1,3 @@
-###DEC-049844-0-000-07-01-1961@@@
-
 DECRETO Nº 49.844, DE 7 DE Janeiro DE 1961.
 
 Oficializa Congresso Científico.

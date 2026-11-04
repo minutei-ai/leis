@@ -1,5 +1,3 @@
-###DEC-081595-0-000-24-04-1978@@@
-
 Decreto nº 81.595, de 24 de abril de 1978.
 
 AUTORIZA o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro.

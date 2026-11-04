@@ -1,5 +1,3 @@
-###DEC-007469-0-000-04-05-2011-PUB-01@@@
-
 DECRETO Nº 7.469, DE 4 DE MAIO DE 2011
 
 Regulamenta a Lei Complementar nº 94, de 19 de fevereiro de 1998, que autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento do Distrito  Federal e Entorno - RIDE e instituir o Programa Especial de Desenvolvimento do Entorno do Distrito Federal.

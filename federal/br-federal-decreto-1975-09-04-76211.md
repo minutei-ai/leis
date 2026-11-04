@@ -1,5 +1,3 @@
-###DEC-076211-0-000-04-09-1975@@@
-
 DECRETO Nº 76.211 - de 4 de setembro de 1975
 
 Concede reconhecimento aos cursos de Administração, de Ciências Contábeis e de Ciências Atuariais da Faculdade Porto Alegrense de Ciências Contábeis e Administrativas, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

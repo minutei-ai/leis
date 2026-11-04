@@ -1,5 +1,3 @@
-###DEC-092861-0-000-27-06-1986@@@
-
 DECRETO Nº 92.861, DE 27 DE JUNHO DE 1986
 
 Classifica na área do Ministério da Educação os órgãos de deliberação coletiva que especifica e dá outras providências.

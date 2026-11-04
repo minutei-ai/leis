@@ -1,5 +1,3 @@
-###DEC-050696-0-000-31-05-1961@@@
-
 DECRETO Nº 50.696, DE 31 DE MAIO DE 1961.
 
 Outorga ao Govêrno do Estado de Pernambuco concessão para distribuir energia.

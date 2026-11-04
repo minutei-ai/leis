@@ -1,5 +1,3 @@
-###DEC-051240-0-000-23-08-1961@@@
-
 DECRETO Nº 51.240, DE 23 DE AGôSTO DE 1961.
 
 Dispõe sôbre a organização de uma Assessoria Administrativa do Departamento Nacional de Obras de Saneamento, com sede no Distrito Federal.

@@ -1,14 +1,12 @@
-###DEC-042851-0-000-19-12-1957@@@
+**DECRETO Nº 42.851, DE 19 DE DEZEMBRO DE 1957**
 
-<strong>DECRETO Nº 42.851, DE 19 DE DEZEMBRO DE 1957</strong>
+***Altera os período letivos estabelecidos no art. 9º do Regulamento dos cursos de aperfeiçoamento, especialização e extensão ( C.A.E. ) aprovado pelo Decreto nº 8.741, de 11 de fevereiro de 1942, relativamente aos cursos de Inspetor de Produtos de Origem Animal previsto no artigo 2º itens VI e XIII do mesmo regulamento.***
 
-<em><strong>Altera os período letivos estabelecidos no art. 9º do Regulamento dos cursos de aperfeiçoamento, especialização e extensão ( C.A.E. ) aprovado pelo Decreto nº 8.741, de 11 de fevereiro de 1942, relativamente aos cursos de Inspetor de Produtos de Origem Animal previsto no artigo 2º itens VI e XIII do mesmo regulamento.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº 1, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº 1, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os períodos letivos dos cursos regulares de agrônomo Fitos-sanitarista e de Inspetor de Produtos de Origem Animal, a que se refere o art. 9º do Regulamento dos cursos de aperfeiçoamento, Especialização e extensão (C.A.E.) aprovado pelo Decreto nº 8.742, obedecerão, no ano de 1958, à seguinte ordem de trabalhos:
+**Art**. 1º Os períodos letivos dos cursos regulares de agrônomo Fitos-sanitarista e de Inspetor de Produtos de Origem Animal, a que se refere o art. 9º do Regulamento dos cursos de aperfeiçoamento, Especialização e extensão (C.A.E.) aprovado pelo Decreto nº 8.742, obedecerão, no ano de 1958, à seguinte ordem de trabalhos:
 
 1 de abril a 19 de julho: 1º período de aulas;
 
@@ -32,6 +30,6 @@
 
 Rio de Janeiro, 19 de dezembro  de 1957; 136.º da Independência e 69.º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mario Meneghetti

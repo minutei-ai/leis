@@ -1,5 +1,3 @@
-###DEL-000623-0-000-11-06-1969@@@
-
 Decreto-lei nº 623, de 11 de Junho de 1969
 
 Altera o artigo 11 do Decreto-lei número 352, de 17 de junho de 1968 e dá outras providências.

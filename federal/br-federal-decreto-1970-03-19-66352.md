@@ -1,5 +1,3 @@
-###DEC-066352-0-000-19-03-1970@@@
-
 DECRETO Nº 66.352 - DE 19 DE MARÇO DE 1970
 
 Autoriza a cessão, sob a forma de utilização gratuita, do próprio nacional que menciona, situado no Estado de Sergipe.

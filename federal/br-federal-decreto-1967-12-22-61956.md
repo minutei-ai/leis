@@ -1,5 +1,3 @@
-###DEC-061956-0-000-22-12-1967@@@
-
 DECRETO Nº 61.956, DE 22 DE DEZEMBRO DE 1967.
 
 Abre ao Ministério do Interior o crédito extraordinário de NCr$5.000.000,00 (cinco milhões de cruzeiros novos) para o fim que específica.

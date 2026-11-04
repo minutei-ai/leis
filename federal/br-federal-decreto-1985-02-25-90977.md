@@ -1,5 +1,3 @@
-###DEC-090977-0-000-25-02-1985@@@
-
 DECRETO Nº 90.977, DE 25 DE FEVEREIRO DE 1985.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados nas cidades de Londrina, Apucarana, Cornélio Procópio e Curitiba, Estado do Paraná, destinados ao Tribunal Regional do Trabalho da 9a. Região.

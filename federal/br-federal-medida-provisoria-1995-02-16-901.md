@@ -1,7 +1,3 @@
-1
-
-###MPV-000901-0-000-16-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 901, DE 16 DE FEVEREIRO DE 1995
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

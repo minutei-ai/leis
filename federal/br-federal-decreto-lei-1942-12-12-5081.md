@@ -1,5 +1,3 @@
-###DEL-005081-0-000-12-12-1942@@@
-
 DECRETO-LEI N. 5.081 – DE 12 DE DEZEMBRO DE 1942
 
 Cria o cargo de Diretor, em comissão, padrão P, da Estrada de Ferro Maricá

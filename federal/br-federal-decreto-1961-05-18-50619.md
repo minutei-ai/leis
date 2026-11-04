@@ -1,5 +1,3 @@
-###DEC-050619-0-000-18-05-1961@@@
-
 DECRETO Nº 50.619, DE 18 DE MAIO DE 1961.
 
 Fixa gratificação para os membros do Conselho Administrativo da Caixa de Crédito da Pesca.

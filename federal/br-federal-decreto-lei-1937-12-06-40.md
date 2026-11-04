@@ -1,5 +1,3 @@
-###DEL-000040-0-000-06-12-1937@@@
-
 DECRETO-LEI N. 40 – DE 6 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Guerra, o crédito suplementar de 800:000$, à verba 6ª, reduzindo de igual quantia o Crédito aberto pelo decreto n. 1.912, à verba 1ª sub-consignação n. 11, do Título – I – Pessoal.

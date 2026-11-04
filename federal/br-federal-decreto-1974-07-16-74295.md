@@ -1,5 +1,3 @@
-###DEC-074295-0-000-16-07-1974@@@
-
 DECRETO Nº 74.295 - DE 16 DE JULHO DE 1974.
 
 Concede reconhecimento à Faculdade de Engenharia de Operação Santa Úrsula, mantida pela Associação Universitária Santa Úrsula, com sede na Cidade do Rio de Janeiro, Estado da Guanabara.

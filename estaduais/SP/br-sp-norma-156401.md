@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/156401)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2009/compilacao-lei-13552-02.06.2009.html)
 
 # LEI N° 13.552, DE 02 DE JUNHO DE 2009

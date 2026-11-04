@@ -1,5 +1,3 @@
-###DEL-002986-0-000-27-01-1941@@@
-
 DECRETO-LEI N. 2.986 – DE 27 DE JANEIRO DE 1941
 
 Dispõe sobre as normas que devem seguir os navios mercantes quando em águas jurisdicionais brasileiras.

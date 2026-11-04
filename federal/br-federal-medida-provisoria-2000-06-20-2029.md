@@ -1,5 +1,3 @@
-###MPV-002029-0-000-20-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.029, DE 20 DE JUNHO DE 2000.
 
 Institui o Fundo Nacional de Segurança Pública - FNSP, suspende temporariamente o registro de arma de fogo, e dá outras providências.

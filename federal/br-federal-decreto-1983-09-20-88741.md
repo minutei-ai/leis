@@ -1,5 +1,3 @@
-###DEC-088741-0-000-20-09-1983@@@
-
 Decreto nº 88.741, de 20 de setembro de 1983.
 
 Fixa a indenização de representação no exterior para os titulares de Consulados-Gerais de Primeira Classe.

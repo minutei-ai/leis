@@ -1,5 +1,3 @@
-###DEC-090822-0-000-18-01-1985@@@
-
 DECRETO Nº 90.822, DE 18 DE JANEIRO DE 1985.
 
 Autoriza o funcionamento do curso de Fisioterapia da Faculdade de Ciências Médicas e Paramédicas Fluminense.
@@ -17,8 +15,6 @@ Brasília, em 18 de janeiro de 1985; 164º da Independência e 97º da Repúblic
 JOÃO FIGUEIREDO
 
 Esther de Figueiredo Ferraz
-
-###DEC-090822-0-000-18-01-1985@@@REP01+++
 
 \* DECRETO Nº 90.822, DE 18 DE JANEIRO DE 1985.
 

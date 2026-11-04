@@ -1,6 +1,10 @@
 > **LEI Nº 3.960, DE 07 DE JULHO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede Título de Cidadão Acreano ao Sr. José Wagner Freitas Pedrosa Alcântra.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede Título de Cidadão Acreano ao Sr. José Wagner Freitas Pedrosa Alcântra.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

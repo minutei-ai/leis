@@ -1,5 +1,3 @@
-###DEC-091811-0-000-18-10-1985@@@
-
 Decreto nº 91.811, de 18 de outubro de 1985
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e de Cabo Frio, Estado do Rio de Janeiro; Salvador, Estado da Bahia; e Guarujá, Estado de São Paulo.

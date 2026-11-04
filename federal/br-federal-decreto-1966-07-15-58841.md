@@ -1,5 +1,3 @@
-###DEC-058841-0-000-15-07-1966@@@
-
 DECRETO Nº 58.841, DE 15 DE JULHO DE 1966.
 
 Inclui o Instituto Nacional do Mate e a Companhia Siderúrgica Nacional na relação das emprêsas mencionadas no Art. 1º do Dec. 57.835, de 17-2-66.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.668, DE 04 DE NOVEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de Utilidade Pública a Associação de Produtores Rurais Amigos do Campo no Ramal do Espinhara - APRACRE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de Utilidade Pública a Associação de Produtores Rurais Amigos do Campo no Ramal do Espinhara - APRACRE.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

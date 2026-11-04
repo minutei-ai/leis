@@ -1,5 +1,3 @@
-###DEC-075761-0-000-21-05-1975@@@
-
 DECRETO Nº 75.761, DE 21 DE MAIO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado da Bahia.

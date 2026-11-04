@@ -1,5 +1,3 @@
-###DEC-093148-0-000-20-08-1986@@@
-
 DECRETO Nº 93.148, DE 20 DE AGOSTO DE 1986
 
 Homologa a demarcação administrativa da área indígena que menciona, no Estado do Pará.

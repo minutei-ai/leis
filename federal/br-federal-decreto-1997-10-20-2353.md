@@ -1,5 +1,3 @@
-###DEC-002353-0-000-20-10-1997@@@
-
 DECRETO Nº 2.353, DE 20 DE OUTUBRO DE 1997
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona, e dá outras providências.

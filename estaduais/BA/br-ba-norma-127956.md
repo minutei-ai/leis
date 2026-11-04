@@ -166,643 +166,47 @@ Secretário da Saúde
 
 **Carreiras de Nível Superior**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:242.6pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="323"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo</span></b></p></td><td colspan="5" style="width:225.65pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="301"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Quantitativo por Classe</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:242.6pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="323"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:42.55pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:51.05pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="68"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td><td style="width:42.55pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">IV</span></p></td><td style="width:46.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">V</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:242.6pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="323"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Bailarino</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">7</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">7</span></p></td><td style="width:51.05pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="68"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:46.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:242.6pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="323"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Professor de Orquestra</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td><td style="width:51.05pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="68"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td><td style="width:46.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:242.6pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="323"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Professor de Orquestra Assistente</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:51.05pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="68"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:46.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:242.6pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="323"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Professor de Orquestra Chefe de Naipe</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:51.05pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="68"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:46.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:242.6pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="323"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Museólogo</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:51.05pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="68"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:46.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:242.6pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="323"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Restaurador</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">7</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">7</span></p></td><td style="width:51.05pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="68"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:42.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="57"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:46.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **Cargo** </td><td colspan="5" valign="top"> Quantitativo por Classe </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td><td valign="top"> IV </td><td valign="top"> V </td></tr><tr><td valign="top"> Bailarino </td><td valign="top"> 7 </td><td valign="top"> 7 </td><td valign="top"> 6 </td><td valign="top"> 6 </td><td valign="top"> 5 </td></tr><tr><td valign="top"> Professor de Orquestra </td><td valign="top"> 5 </td><td valign="top"> 5 </td><td valign="top"> 4 </td><td valign="top"> 4 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> Professor de Orquestra Assistente </td><td valign="top"> 3 </td><td valign="top"> 3 </td><td valign="top"> 2 </td><td valign="top"> 2 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Professor de Orquestra Chefe de Naipe </td><td valign="top"> 3 </td><td valign="top"> 3 </td><td valign="top"> 2 </td><td valign="top"> 2 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Museólogo </td><td valign="top"> 3 </td><td valign="top"> 3 </td><td valign="top"> 2 </td><td valign="top"> 2 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Restaurador </td><td valign="top"> 7 </td><td valign="top"> 7 </td><td valign="top"> 6 </td><td valign="top"> 6 </td><td valign="top"> 5 </td></tr></tbody></table>
 
 **Secretaria de Cultura do Estado da Bahia - SECULT**
 
 **Carreiras de Nível Médio**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo</span></b></p></td><td colspan="4" style="width:228.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="305"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Quantitativo por Classe</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:50.15pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:58.5pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">IV</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Técnico em Assuntos Culturais</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">40</span></p></td><td style="width:50.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">30</span></p></td><td style="width:58.5pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">10</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **Cargo** </td><td colspan="4" valign="top"> Quantitativo por Classe </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td><td valign="top"> IV </td></tr><tr><td valign="top"> Técnico em Assuntos Culturais </td><td valign="top"> 40 </td><td valign="top"> 30 </td><td valign="top"> 20 </td><td valign="top"> 10 </td></tr></tbody></table>
 
 **Carreiras de Nível Superior**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo</span></b></p></td><td colspan="5" style="width:228.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="305"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Quantitativo por Classe</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:41.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:50.2pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td><td style="width:41.75pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">IV</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">V</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Analista de Assuntos Culturais</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">70</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">50</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">30</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">10</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **Cargo** </td><td colspan="5" valign="top"> Quantitativo por Classe </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td><td valign="top"> IV </td><td valign="top"> V </td></tr><tr><td valign="top"> Analista de Assuntos Culturais </td><td valign="top"> 70 </td><td valign="top"> 50 </td><td valign="top"> 30 </td><td valign="top"> 10 </td><td valign="top"> 5 </td></tr></tbody></table>
 
 **Fundação Cultural do Estado da Bahia - FUNCEB**
 
 **Carreiras de Nível Médio**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo</span></b></p></td><td colspan="4" style="width:228.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="305"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Quantitativo por Classe</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:50.15pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:58.5pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">IV</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Técnico em Assuntos Culturais</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">45</span></p></td><td style="width:50.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">18</span></p></td><td style="width:58.5pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">7</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Técnico Cinematográfico</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">10</span></p></td><td style="width:50.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:58.5pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Técnico de Palco</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">60</span></p></td><td style="width:50.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">24</span></p></td><td style="width:58.5pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">10</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Técnico em Produção</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">50</span></p></td><td style="width:50.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td><td style="width:58.5pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">8</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **Cargo** </td><td colspan="4" valign="top"> Quantitativo por Classe </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td><td valign="top"> IV </td></tr><tr><td valign="top"> Técnico em Assuntos Culturais </td><td valign="top"> 45 </td><td valign="top"> 18 </td><td valign="top"> 7 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> Técnico Cinematográfico </td><td valign="top"> 10 </td><td valign="top"> 6 </td><td valign="top"> 3 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Técnico de Palco </td><td valign="top"> 60 </td><td valign="top"> 24 </td><td valign="top"> 10 </td><td valign="top"> 4 </td></tr><tr><td valign="top"> Técnico em Produção </td><td valign="top"> 50 </td><td valign="top"> 20 </td><td valign="top"> 8 </td><td valign="top"> 4 </td></tr></tbody></table>
 
 **Carreiras de Nível Superior**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo</span></b></p></td><td colspan="5" style="width:228.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="305"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Quantitativo por Classe</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:41.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:50.2pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td><td style="width:41.75pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">IV</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">V</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p class="MsoNormal" style="page-break-after:avoid"><span style="color:black">Analista de Assuntos Culturais</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">63</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">30</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">15</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">7</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Bailarino</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">45</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">38</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">30</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">25</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">19</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Diretor de Produção</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Pianista de Balé</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Professor de Orquestra</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">50</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">50</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">25</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">12</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">Professor de Orquestra Assistente</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">12</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">12</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">8</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">Professor de Orquestra Chefe de Naipe</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">12</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">12</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">8</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">Professor de Orquestra Consertino</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Professor de Orquestra Spalla</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Regente</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **Cargo** </td><td colspan="5" valign="top"> Quantitativo por Classe </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td><td valign="top"> IV </td><td valign="top"> V </td></tr><tr><td valign="top"> Analista de Assuntos Culturais </td><td valign="top"> 63 </td><td valign="top"> 30 </td><td valign="top"> 15 </td><td valign="top"> 7 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> Bailarino </td><td valign="top"> 45 </td><td valign="top"> 38 </td><td valign="top"> 30 </td><td valign="top"> 25 </td><td valign="top"> 19 </td></tr><tr><td valign="top"> Diretor de Produção </td><td valign="top"> 2 </td><td valign="top"> 2 </td><td valign="top"> 2 </td><td valign="top"> 1 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Pianista de Balé </td><td valign="top"> 2 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Professor de Orquestra </td><td valign="top"> 50 </td><td valign="top"> 50 </td><td valign="top"> 25 </td><td valign="top"> 12 </td><td valign="top"> 6 </td></tr><tr><td valign="top"> Professor de Orquestra Assistente </td><td valign="top"> 12 </td><td valign="top"> 12 </td><td valign="top"> 8 </td><td valign="top"> 5 </td><td valign="top"> 2 </td></tr><tr><td valign="top"> Professor de Orquestra Chefe de Naipe </td><td valign="top"> 12 </td><td valign="top"> 12 </td><td valign="top"> 8 </td><td valign="top"> 5 </td><td valign="top"> 2 </td></tr><tr><td valign="top"> Professor de Orquestra Consertino </td><td valign="top"> 3 </td><td valign="top"> 3 </td><td valign="top"> 2 </td><td valign="top"> 1 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Professor de Orquestra Spalla </td><td valign="top"> 3 </td><td valign="top"> 3 </td><td valign="top"> 2 </td><td valign="top"> 1 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Regente </td><td valign="top"> 2 </td><td valign="top"> 2 </td><td valign="top"> 2 </td><td valign="top"> 1 </td><td valign="top"> 1 </td></tr></tbody></table>
 
 **Instituto do Patrimônio Artístico e Cultural da Bahia - IPAC**
 
 **Carreiras de Nível Médio**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo</span></b></p></td><td colspan="4" style="width:228.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="305"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Quantitativo por Classe</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:50.15pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:58.5pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">IV</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Técnico em Assuntos Culturais</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td><td style="width:50.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">12</span></p></td><td style="width:58.5pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Técnico em Restauração</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td><td style="width:50.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">12</span></p></td><td style="width:58.5pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **Cargo** </td><td colspan="4" valign="top"> Quantitativo por Classe </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td><td valign="top"> IV </td></tr><tr><td valign="top"> Técnico em Assuntos Culturais </td><td valign="top"> 20 </td><td valign="top"> 12 </td><td valign="top"> 6 </td><td valign="top"> 2 </td></tr><tr><td valign="top"> Técnico em Restauração </td><td valign="top"> 20 </td><td valign="top"> 12 </td><td valign="top"> 6 </td><td valign="top"> 2 </td></tr></tbody></table>
 
 **Carreiras de Nível Superior**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo</span></b></p></td><td colspan="5" style="width:228.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="305"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Quantitativo por Classe</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:41.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:50.2pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td><td style="width:41.75pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">IV</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">V</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Analista de Assuntos Culturais</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">8</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Museólogo</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">35</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">30</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">25</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">15</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Restaurador</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">35</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">30</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">25</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">15</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **Cargo** </td><td colspan="5" valign="top"> Quantitativo por Classe </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td><td valign="top"> IV </td><td valign="top"> V </td></tr><tr><td valign="top"> Analista de Assuntos Culturais </td><td valign="top"> 20 </td><td valign="top"> 8 </td><td valign="top"> 4 </td><td valign="top"> 2 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Museólogo </td><td valign="top"> 35 </td><td valign="top"> 30 </td><td valign="top"> 25 </td><td valign="top"> 20 </td><td valign="top"> 15 </td></tr><tr><td valign="top"> Restaurador </td><td valign="top"> 35 </td><td valign="top"> 30 </td><td valign="top"> 25 </td><td valign="top"> 20 </td><td valign="top"> 15 </td></tr></tbody></table>
 
 **Fundação Pedro Calmon - FPC**
 
 **Carreiras de Nível Médio**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo</span></b></p></td><td colspan="4" style="width:228.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="305"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Quantitativo por Classe</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:50.15pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:58.5pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">IV</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Técnico em Assuntos Culturais</span></p></td><td style="width:66.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="89"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">50</span></p></td><td style="width:50.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td><td style="width:58.5pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="78"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">8</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **Cargo** </td><td colspan="4" valign="top"> Quantitativo por Classe </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td><td valign="top"> IV </td></tr><tr><td valign="top"> Técnico em Assuntos Culturais </td><td valign="top"> 50 </td><td valign="top"> 20 </td><td valign="top"> 8 </td><td valign="top"> 3 </td></tr></tbody></table>
 
 **Carreiras de Nível Superior**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo</span></b></p></td><td colspan="5" style="width:228.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="305"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Quantitativo por Classe</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:41.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:50.2pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td><td style="width:41.75pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">IV</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">V</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:239.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="320"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Analista de Assuntos Culturais</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">50</span></p></td><td style="width:41.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">23</span></p></td><td style="width:50.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="67"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">10</span></p></td><td style="width:41.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="56"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:52.95pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **Cargo** </td><td colspan="5" valign="top"> Quantitativo por Classe </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td><td valign="top"> IV </td><td valign="top"> V </td></tr><tr><td valign="top"> Analista de Assuntos Culturais </td><td valign="top"> 50 </td><td valign="top"> 23 </td><td valign="top"> 10 </td><td valign="top"> 6 </td><td valign="top"> 3 </td></tr></tbody></table>
 
 **ANEXO II**
 
@@ -816,66 +220,7 @@ Secretário da Saúde
 
 **VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2014**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">279,72</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">322,61</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">361,95</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">394,17</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">441,30</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">493,14</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">505,42</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">563,85</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">628,15</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">674,79</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">750,75</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">834,32</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **279,72** </td><td valign="top"> 322,61 </td><td valign="top"> 361,95 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **394,17** </td><td valign="top"> 441,30 </td><td valign="top"> 493,14 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **505,42** </td><td valign="top"> 563,85 </td><td valign="top"> 628,15 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **674,79** </td><td valign="top"> 750,75 </td><td valign="top"> 834,32 </td></tr></tbody></table>
 
 GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
@@ -883,66 +228,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2014
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">404,84</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">452,39</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">504,74</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">549,73</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">612,34</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">681,33</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">698,23</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">775,98</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">861,49</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">925,49</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.026,55</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.137,66</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **404,84** </td><td valign="top"> 452,39 </td><td valign="top"> 504,74 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **549,73** </td><td valign="top"> 612,34 </td><td valign="top"> 681,33 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **698,23** </td><td valign="top"> 775,98 </td><td valign="top"> 861,49 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **925,49** </td><td valign="top"> 1.026,55 </td><td valign="top"> 1.137,66 </td></tr></tbody></table>
 
 GRUPO OCUPACIONAL ARTES E CULTURA
 
@@ -954,77 +240,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2014
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">773,56</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">807,95</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">844,03</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">928,28</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.010,79</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.101,57</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.221,20</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.330,96</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.451,66</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.608,12</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.754,06</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.914,64</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">V</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">2.119,49</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.313,62</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.527,14</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **773,56** </td><td valign="top"> 807,95 </td><td valign="top"> 844,03 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **928,28** </td><td valign="top"> 1.010,79 </td><td valign="top"> 1.101,57 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **1.221,20** </td><td valign="top"> 1.330,96 </td><td valign="top"> 1.451,66 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **1.608,12** </td><td valign="top"> 1.754,06 </td><td valign="top"> 1.914,64 </td></tr><tr><td valign="top"> **V** </td><td valign="top"> **2.119,49** </td><td valign="top"> 2.313,62 </td><td valign="top"> 2.527,14 </td></tr></tbody></table>
 
 GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
@@ -1032,77 +248,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JANEIRO DE 2014
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.000,48</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.046,23</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.094,21</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.109,12</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.209,71</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.320,39</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.461,72</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.595,54</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.742,67</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.928,00</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.105,94</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.301,68</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">V</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">2.544,93</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.781,59</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3.041,91</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **1.000,48** </td><td valign="top"> 1.046,23 </td><td valign="top"> 1.094,21 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **1.109,12** </td><td valign="top"> 1.209,71 </td><td valign="top"> 1.320,39 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **1.461,72** </td><td valign="top"> 1.595,54 </td><td valign="top"> 1.742,67 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **1.928,00** </td><td valign="top"> 2.105,94 </td><td valign="top"> 2.301,68 </td></tr><tr><td valign="top"> **V** </td><td valign="top"> **2.544,93** </td><td valign="top"> 2.781,59 </td><td valign="top"> 3.041,91 </td></tr></tbody></table>
 
 CARREIRAS DE NÍVEL MÉDIO
 
@@ -1112,66 +258,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2014
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">366,06</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">410,97</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">452,15</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">492,40</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">541,74</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">596,01</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">610,86</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">672,03</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">739,35</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">794,25</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">873,77</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">961,26</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **366,06** </td><td valign="top"> 410,97 </td><td valign="top"> 452,15 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **492,40** </td><td valign="top"> 541,74 </td><td valign="top"> 596,01 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **610,86** </td><td valign="top"> 672,03 </td><td valign="top"> 739,35 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **794,25** </td><td valign="top"> 873,77 </td><td valign="top"> 961,26 </td></tr></tbody></table>
 
 GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
@@ -1179,66 +266,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2014
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">497,05</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">546,83</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">601,64</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">655,26</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">720,80</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">793,03</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">812,72</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">894,11</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">983,63</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.056,71</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.162,51</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.278,83</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **497,05** </td><td valign="top"> 546,83 </td><td valign="top"> 601,64 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **655,26** </td><td valign="top"> 720,80 </td><td valign="top"> 793,03 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **812,72** </td><td valign="top"> 894,11 </td><td valign="top"> 983,63 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **1.056,71** </td><td valign="top"> 1.162,51 </td><td valign="top"> 1.278,83 </td></tr></tbody></table>
 
 GRUPO OCUPACIONAL ARTES E CULTURA
 
@@ -1250,77 +278,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2014
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">892,51</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">928,22</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">965,69</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.071,05</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.156,71</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.250,98</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.396,61</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.510,59</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.635,92</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.824,10</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.975,64</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.142,39</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">V</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">2.385,94</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.587,53</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.809,25</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **892,51** </td><td valign="top"> 928,22 </td><td valign="top"> 965,69 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **1.071,05** </td><td valign="top"> 1.156,71 </td><td valign="top"> 1.250,98 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **1.396,61** </td><td valign="top"> 1.510,59 </td><td valign="top"> 1.635,92 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **1.824,10** </td><td valign="top"> 1.975,64 </td><td valign="top"> 2.142,39 </td></tr><tr><td valign="top"> **V** </td><td valign="top"> **2.385,94** </td><td valign="top"> 2.587,53 </td><td valign="top"> 2.809,25 </td></tr></tbody></table>
 
 GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
@@ -1328,77 +286,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2014
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.128,16</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.175,66</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.225,49</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.258,82</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.363,27</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.478,20</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.646,37</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.785,33</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.938,11</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">2.156,26</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.341,03</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.544,29</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">V</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">2.827,73</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3.073,48</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3.343,80</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **1.128,16** </td><td valign="top"> 1.175,66 </td><td valign="top"> 1.225,49 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **1.258,82** </td><td valign="top"> 1.363,27 </td><td valign="top"> 1.478,20 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **1.646,37** </td><td valign="top"> 1.785,33 </td><td valign="top"> 1.938,11 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **2.156,26** </td><td valign="top"> 2.341,03 </td><td valign="top"> 2.544,29 </td></tr><tr><td valign="top"> **V** </td><td valign="top"> **2.827,73** </td><td valign="top"> 3.073,48 </td><td valign="top"> 3.343,80 </td></tr></tbody></table>
 
 CARREIRAS DE NÍVEL MÉDIO
 
@@ -1408,66 +296,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2015
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">439,29</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">484,19</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">525,38</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">572,15</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">621,49</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">675,76</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">692,60</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">753,77</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">821,09</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">882,07</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">961,59</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.049,08</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **439,29** </td><td valign="top"> 484,19 </td><td valign="top"> 525,38 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **572,15** </td><td valign="top"> 621,49 </td><td valign="top"> 675,76 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **692,60** </td><td valign="top"> 753,77 </td><td valign="top"> 821,09 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **882,07** </td><td valign="top"> 961,59 </td><td valign="top"> 1.049,08 </td></tr></tbody></table>
 
 GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
@@ -1475,66 +304,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2015
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">570,28</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">620,06</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">674,87</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">735,01</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">800,55</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">872,78</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">894,45</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">975,85</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.065,37</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.144,52</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.250,32</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.366,64</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **570,28** </td><td valign="top"> 620,06 </td><td valign="top"> 674,87 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **735,01** </td><td valign="top"> 800,55 </td><td valign="top"> 872,78 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **894,45** </td><td valign="top"> 975,85 </td><td valign="top"> 1.065,37 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **1.144,52** </td><td valign="top"> 1.250,32 </td><td valign="top"> 1.366,64 </td></tr></tbody></table>
 
 GRUPO OCUPACIONAL ARTES E CULTURA
 
@@ -1546,77 +316,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2015
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">981,77</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.017,47</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.054,95</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.178,15</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.263,82</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.358,09</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.525,13</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.639,11</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.764,44</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.978,33</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.129,87</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.296,62</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">V</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">2.571,02</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.772,61</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.994,33</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **981,77** </td><td valign="top"> 1.017,47 </td><td valign="top"> 1.054,95 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **1.178,15** </td><td valign="top"> 1.263,82 </td><td valign="top"> 1.358,09 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **1.525,13** </td><td valign="top"> 1.639,11 </td><td valign="top"> 1.764,44 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **1.978,33** </td><td valign="top"> 2.129,87 </td><td valign="top"> 2.296,62 </td></tr><tr><td valign="top"> **V** </td><td valign="top"> **2.571,02** </td><td valign="top"> 2.772,61 </td><td valign="top"> 2.994,33 </td></tr></tbody></table>
 
 GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
@@ -1624,77 +324,7 @@ GRATIFICAÇÃO POR COMPETÊNCIA - GPC
 
 VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2015
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:120.85pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">CLASSE</span></p></td><td colspan="3" style="width:347.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="463"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">NÍVEL</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.217,41</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.264,91</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.314,74</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.365,92</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.470,37</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.585,30</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.774,90</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.913,86</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.066,64</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">2.310,48</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.495,25</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.698,51</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:120.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">V</span></b></p></td><td style="width:118.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="158"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">3.012,80</span></b></p></td><td style="width:114.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3.258,55</span></p></td><td style="width:114.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3.528,87</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CLASSE </td><td colspan="3" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> I </td><td valign="top"> **1.217,41** </td><td valign="top"> 1.264,91 </td><td valign="top"> 1.314,74 </td></tr><tr><td valign="top"> **II** </td><td valign="top"> **1.365,92** </td><td valign="top"> 1.470,37 </td><td valign="top"> 1.585,30 </td></tr><tr><td valign="top"> **III** </td><td valign="top"> **1.774,90** </td><td valign="top"> 1.913,86 </td><td valign="top"> 2.066,64 </td></tr><tr><td valign="top"> **IV** </td><td valign="top"> **2.310,48** </td><td valign="top"> 2.495,25 </td><td valign="top"> 2.698,51 </td></tr><tr><td valign="top"> **V** </td><td valign="top"> **3.012,80** </td><td valign="top"> 3.258,55 </td><td valign="top"> 3.528,87 </td></tr></tbody></table>
 
 **revogadoANEXO III  (Revogado pela Lei nº [14.165](https://www.legislabahia.ba.gov.br/documentos/lei-no-14165-de-24-de-setembro-de-2019) de 24 de setembro de 2019.)**
 
@@ -1702,447 +332,7 @@ VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2015
 
 **Analista Técnico**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:193.55pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="258"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">ADMINISTRAÇÃO</span></b></p></td><td colspan="5" style="width:274.7pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="366"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Classe</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td style="width:47.2pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="63"><p align="center" class="MsoNormal" style="margin-left:78.0pt;text-align:center;
-  text-indent:-78.0pt;page-break-after:avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:2.0cm;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="76"><p align="center" class="MsoNormal" style="margin-left:78.0pt;text-align:center;
-  text-indent:-78.0pt;page-break-after:avoid"><span style="font-size:12.0pt">III</span></p></td><td style="width:56.55pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="75"><p align="center" class="MsoNormal" style="margin-left:78.0pt;text-align:center;
-  text-indent:-78.0pt;page-break-after:avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="81"><p align="center" class="MsoNormal" style="margin-left:78.0pt;text-align:center;
-  text-indent:-78.0pt;page-break-after:avoid"><span style="font-size:12.0pt">V</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><b><span style="color:black">Direta Indireta</span></b></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">1.317</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="63"><p align="center" class="MsoNormal" style="margin-left:78.0pt;text-align:center;
-  text-indent:-78.0pt;page-break-after:avoid"><span style="font-size:12.0pt">1.079</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="76"><p align="center" class="MsoNormal" style="margin-left:78.0pt;text-align:center;
-  text-indent:-78.0pt;page-break-after:avoid"><span style="font-size:12.0pt">443</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="75"><p align="center" class="MsoNormal" style="margin-left:78.0pt;text-align:center;
-  text-indent:-78.0pt;page-break-after:avoid"><span style="font-size:12.0pt">185</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">80</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">ADAB</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">29</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">21</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">9</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">AGERBA</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">10</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">7</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">CIS</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">18</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">14</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">11</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">DERBA</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">15</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">41</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">17</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">14</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">DETRAN</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">31</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">27</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">11</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">IBAMETRO</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">35</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">28</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">12</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">IPAC</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">32</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">28</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">12</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">MAUÁ</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">17</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">13</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">JUCEB</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">7</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">SUCAB</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">53</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">39</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">16</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">11</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">SUDIC</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">71</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">64</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">26</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">17</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">SEI</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">65</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">58</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">23</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">INEMA</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">38</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">32</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">14</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">11</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">SUDESB</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">11</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">8</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">UNEB</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">16</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">12</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">9</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">UEFS</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">UESC</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">UESB</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">FAPESB</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">FUNDAC</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">79</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">56</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">22</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">9</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">FUNCEB</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">27</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">19</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">8</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">HEMOBA</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">11</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">8</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">PEDRO CALMON</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">38</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">25</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">10</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td></tr><tr style="page-break-inside:avoid;height:11.35pt"><td style="width:193.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="258"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:14.45pt;page-break-after:avoid"><span style="font-size:12.0pt">IRDEB</span></p></td><td style="width:53.6pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="71"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">11</span></p></td><td style="width:47.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="63"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">8</span></p></td><td style="width:2.0cm;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.35pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">4</span></p></td><td style="width:56.55pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="75"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2</span></p></td><td style="width:60.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **ADMINISTRAÇÃO** </td><td colspan="5" valign="top"> Classe </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> I </td><td valign="top"> II </td><td valign="top"> III </td><td valign="top"> **IV** </td><td valign="top"> V </td></tr><tr><td valign="top"> **Direta Indireta** </td><td valign="top"> 1.317 </td><td valign="top"> 1.079 </td><td valign="top"> 443 </td><td valign="top"> 185 </td><td valign="top"> 80 </td></tr><tr><td valign="top"> ADAB </td><td valign="top"> 29 </td><td valign="top"> 21 </td><td valign="top"> 9 </td><td valign="top"> 4 </td><td valign="top"> 2 </td></tr><tr><td valign="top"> AGERBA </td><td valign="top"> 10 </td><td valign="top"> 7 </td><td valign="top"> 3 </td><td valign="top"> 3 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> CIS </td><td valign="top"> 18 </td><td valign="top"> 14 </td><td valign="top"> 11 </td><td valign="top"> 3 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> DERBA </td><td valign="top"> 15 </td><td valign="top"> 41 </td><td valign="top"> 17 </td><td valign="top"> 14 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> DETRAN </td><td valign="top"> 31 </td><td valign="top"> 27 </td><td valign="top"> 11 </td><td valign="top"> 5 </td><td valign="top"> 2 </td></tr><tr><td valign="top"> IBAMETRO </td><td valign="top"> 35 </td><td valign="top"> 28 </td><td valign="top"> 12 </td><td valign="top"> 5 </td><td valign="top"> 2 </td></tr><tr><td valign="top"> IPAC </td><td valign="top"> 32 </td><td valign="top"> 28 </td><td valign="top"> 12 </td><td valign="top"> 6 </td><td valign="top"> 2 </td></tr><tr><td valign="top"> MAUÁ </td><td valign="top"> 17 </td><td valign="top"> 13 </td><td valign="top"> 6 </td><td valign="top"> 3 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> JUCEB </td><td valign="top"> 7 </td><td valign="top"> 4 </td><td valign="top"> 2 </td><td valign="top"> 1 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> SUCAB </td><td valign="top"> 53 </td><td valign="top"> 39 </td><td valign="top"> 16 </td><td valign="top"> 11 </td><td valign="top"> 6 </td></tr><tr><td valign="top"> SUDIC </td><td valign="top"> 71 </td><td valign="top"> 64 </td><td valign="top"> 26 </td><td valign="top"> 17 </td><td valign="top"> 5 </td></tr><tr><td valign="top"> SEI </td><td valign="top"> 65 </td><td valign="top"> 58 </td><td valign="top"> 23 </td><td valign="top"> 2 </td><td valign="top"> 4 </td></tr><tr><td valign="top"> INEMA </td><td valign="top"> 38 </td><td valign="top"> 32 </td><td valign="top"> 14 </td><td valign="top"> 11 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> SUDESB </td><td valign="top"> 11 </td><td valign="top"> 8 </td><td valign="top"> 4 </td><td valign="top"> 2 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> UNEB </td><td valign="top"> 16 </td><td valign="top"> 12 </td><td valign="top"> 9 </td><td valign="top"> 6 </td><td valign="top"> 4 </td></tr><tr><td valign="top"> UEFS </td><td valign="top"> 2 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> UESC </td><td valign="top"> 2 </td><td valign="top"> 2 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> UESB </td><td valign="top"> 2 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> FAPESB </td><td valign="top"> 3 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> FUNDAC </td><td valign="top"> 79 </td><td valign="top"> 56 </td><td valign="top"> 22 </td><td valign="top"> 9 </td><td valign="top"> 4 </td></tr><tr><td valign="top"> FUNCEB </td><td valign="top"> 27 </td><td valign="top"> 19 </td><td valign="top"> 8 </td><td valign="top"> 3 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> HEMOBA </td><td valign="top"> 11 </td><td valign="top"> 8 </td><td valign="top"> 4 </td><td valign="top"> 2 </td><td valign="top"> 1 </td></tr><tr><td valign="top"> PEDRO CALMON </td><td valign="top"> 38 </td><td valign="top"> 25 </td><td valign="top"> 10 </td><td valign="top"> 4 </td><td valign="top"> 2 </td></tr><tr><td valign="top"> IRDEB </td><td valign="top"> 11 </td><td valign="top"> 8 </td><td valign="top"> 4 </td><td valign="top"> 2 </td><td valign="top"> 1 </td></tr></tbody></table>
 
 ANEXO IV
 
@@ -2154,42 +344,37 @@ QUADRO ESPECIAL - 30 HORAS
 
 VIGÊNCIA A PARTIR DE 1º DE JUNHO DE 2014
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:277.95pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="371"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">CARGO</span></b></p></td><td style="width:190.3pt;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="254"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">VENCIMENTO (R$)</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:277.95pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="371"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Agente Auxiliar de Serviços de Saúde</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Agente de Banco de Sangue</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Agente de Saneamento</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Agente de Epidemiologia</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Atendente de Laboratório</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Atendente Rural</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Atendente de Enfermagem</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Visitador Sanitário</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Inspetor de Saneamento</span></p></td><td style="width:190.3pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="254"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">791,48</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:277.95pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="371"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Outros Técnicos de Nível Médio</span></p></td><td style="width:190.3pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="254"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">910,54</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:277.95pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="371"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Outros Técnicos de Nível Superior</span></p></td><td style="width:190.3pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="254"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.177,57</span></p></td></tr></tbody></table>
+**CARGO**
+
+VENCIMENTO (R$)
+
+Agente Auxiliar de Serviços de Saúde
+
+Agente de Banco de Sangue
+
+Agente de Saneamento
+
+Agente de Epidemiologia
+
+Atendente de Laboratório
+
+Atendente Rural
+
+Atendente de Enfermagem
+
+Visitador Sanitário
+
+Inspetor de Saneamento
+
+791,48
+
+Outros Técnicos de Nível Médio
+
+910,54
+
+Outros Técnicos de Nível Superior
+
+1.177,57
 
 **ANEXO V**
 
@@ -2203,128 +388,123 @@ VIGÊNCIA A PARTIR DE 1º DE JUNHO DE 2014
 
  **VIGÊNCIA A PARTIR DE 1º JULHO DE 2014**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:277.95pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="371"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">CARGO</span></b></p></td><td style="width:190.3pt;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="254"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">VENCIMENTO (R$)</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:277.95pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="371"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Agente Auxiliar de Serviços de Saúde</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Agente de Banco de Sangue</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Agente de Saneamento</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Agente de Epidemiologia</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Atendente de Laboratório</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Atendente Rural</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Atendente de Enfermagem</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Visitador Sanitário</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Inspetor de Saneamento</span></p></td><td style="width:190.3pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="254"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">821,87</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:277.95pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="371"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Outros Técnicos de Nível Médio</span></p></td><td style="width:190.3pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="254"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">945,50</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:277.95pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="371"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Outros Técnicos de Nível Superior</span></p></td><td style="width:190.3pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="254"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.222,79</span></p></td></tr></tbody></table>
+**CARGO**
+
+VENCIMENTO (R$)
+
+Agente Auxiliar de Serviços de Saúde
+
+Agente de Banco de Sangue
+
+Agente de Saneamento
+
+Agente de Epidemiologia
+
+Atendente de Laboratório
+
+Atendente Rural
+
+Atendente de Enfermagem
+
+Visitador Sanitário
+
+Inspetor de Saneamento
+
+821,87
+
+Outros Técnicos de Nível Médio
+
+945,50
+
+Outros Técnicos de Nível Superior
+
+1.222,79
 
 **ANEXO VI**
 
 **VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2014**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr><td style="width:194.5pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="259"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo / Categoria Funcional</span></b></p></td><td style="width:138.95pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="185"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">GID Mínima</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">(R$)</span></b></p></td><td style="width:134.8pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="180"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">GID Máxima</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">(R$)</span></p></td></tr><tr><td style="width:194.5pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="259"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Auditor em Saúde</span></b></p></td><td style="width:138.95pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="185"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">5.072,12</span></p></td><td style="width:134.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="180"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6.097,85</span></p></td></tr></tbody></table>
+**Cargo / Categoria Funcional**
+
+GID Mínima
+
+**(R$)**
+
+GID Máxima
+
+(R$)
+
+**Auditor em Saúde**
+
+5.072,12
+
+6.097,85
 
 **ANEXO VII**
 
 **VIGÊNCIA A PARTIR DE 1º DE JUNHO DE 2014**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:467.75pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td style="width:10.0cm;border:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="378"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo / Categoria Funcional</span></b></p></td><td style="width:99.2pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="132"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">GID Mínima</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">(R$)</span></p></td><td style="width:3.0cm;border:solid black 1.0pt;
-  border-left:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">GID Máxima</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">(R$)</span></p></td></tr><tr><td style="width:10.0cm;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="378"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Servidores integrantes das carreiras de escolaridade de nível fundamental do</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Grupo Ocupacional Técnico-Administrativo e demais carreiras lotadas na</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Secretaria da Saúde do Estado da Bahia - SESAB e HEMOBA</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="132"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">342,75</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.033,36</span></p></td></tr><tr><td style="width:10.0cm;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="378"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Servidores integrantes das carreiras de escolaridade de nível médio do Grupo</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Ocupacional Técnico-Administrativo e demais carreiras lotadas na Secretaria</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">da Saúde do Estado da Bahia - SESAB e HEMOBA</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="132"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">425,57</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.373,35</span></p></td></tr></tbody></table>
+**Cargo / Categoria Funcional**
+
+GID Mínima
+
+(R$)
+
+GID Máxima
+
+(R$)
+
+Servidores integrantes das carreiras de escolaridade de nível fundamental do
+
+Grupo Ocupacional Técnico-Administrativo e demais carreiras lotadas na
+
+Secretaria da Saúde do Estado da Bahia - SESAB e HEMOBA
+
+342,75
+
+1.033,36
+
+Servidores integrantes das carreiras de escolaridade de nível médio do Grupo
+
+Ocupacional Técnico-Administrativo e demais carreiras lotadas na Secretaria
+
+da Saúde do Estado da Bahia - SESAB e HEMOBA
+
+425,57
+
+1.373,35
 
 **VIGÊNCIA A PARTIR DE 1º DE JULHO DE 2014**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr><td style="width:283.75pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="378"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Cargo / Categoria Funcional</span></b></p></td><td style="width:99.25pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">GID Mínima</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">(R$)</span></b></p></td><td style="width:85.25pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">GID Máxima</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">(R$)</span></p></td></tr><tr><td style="width:283.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="378"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Servidores integrantes das carreiras de escolaridade de nível fundamental do</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Grupo Ocupacional Técnico-Administrativo e demais carreiras lotadas na</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Secretaria da Saúde do Estado da Bahia - SESAB e HEMOBA</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">355,90</span></p></td><td style="width:85.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.073,04</span></p></td></tr><tr><td style="width:283.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="378"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Servidores integrantes das carreiras de escolaridade de nível médio do Grupo</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Ocupacional Técnico-Administrativo e demais carreiras lotadas na Secretaria</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">da Saúde do Estado da Bahia - SESAB e HEMOBA</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">441,91</span></p></td><td style="width:85.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="114"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.426,09</span></p></td></tr></tbody></table>
+**Cargo / Categoria Funcional**
+
+GID Mínima
+
+**(R$)**
+
+GID Máxima
+
+(R$)
+
+Servidores integrantes das carreiras de escolaridade de nível fundamental do
+
+Grupo Ocupacional Técnico-Administrativo e demais carreiras lotadas na
+
+Secretaria da Saúde do Estado da Bahia - SESAB e HEMOBA
+
+355,90
+
+1.073,04
+
+Servidores integrantes das carreiras de escolaridade de nível médio do Grupo
+
+Ocupacional Técnico-Administrativo e demais carreiras lotadas na Secretaria
+
+da Saúde do Estado da Bahia - SESAB e HEMOBA
+
+441,91
+
+1.426,09
 
 **ANEXO VIII**
 
@@ -2338,19 +518,7 @@ VIGÊNCIA A PARTIR DE 1º DE JUNHO DE 2014
 
 ....................................................................................................................................
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="height:12.75pt"><td colspan="2" style="width:468.25pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" valign="top" width="624"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">GID REGIME DE PLANTÃO DE 12H</span></b></p></td></tr><tr style="height:12.75pt"><td style="width:256.5pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" valign="top" width="342"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Mínima</span></p></td><td style="width:211.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" valign="top" width="282"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">Máxima</span></p></td></tr><tr style="height:12.75pt"><td style="width:256.5pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" valign="top" width="342"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.578,48</span></p></td><td style="width:211.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" valign="top" width="282"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">2.985,57</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **GID REGIME DE PLANTÃO DE 12H** </td></tr><tr><td valign="top"> Mínima </td><td valign="top"> Máxima </td></tr><tr><td valign="top"> 1.578,48 </td><td valign="top"> 2.985,57 </td></tr></tbody></table>
 
  **<Revogado>** ANEXO IX (**Revogado pela Lei nº [14.098](https://www.legislabahia.ba.gov.br/documentos/lei-no-14098-de-10-de-junho-de-2019) de 10 de junho de 2019**.)
 
@@ -2358,216 +526,161 @@ ANALISTA UNIVERSITÁRIO
 
 QUANTITATIVO DE CARGOS POR CLASSE
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="height:16.5pt"><td style="width:87.8pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Grau</span></b></p></td><td style="width:79.0pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">UNEB</span></b></p></td><td style="width:102.75pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">UEFS</span></p></td><td style="width:94.8pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">UESC</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">UESB</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">I</span></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">277</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">170</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">73</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">110</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">II</span></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">194</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">119</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">51</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">77</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">III</span></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">135</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">83</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">36</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">54</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">IV</span></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">88</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">54</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">23</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">35</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">V</span></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">57</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">35</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">15</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">23</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">VI</span></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">37</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">23</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">10</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">15</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">VII</span></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">24</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">15</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">7</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">10</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">VIII</span></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">16</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">10</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">7</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">IX</span></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">10</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">6</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">3</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">5</span></p></td></tr></tbody></table>
+**Grau**
+
+**UNEB**
+
+UEFS
+
+UESC
+
+UESB
+
+I
+
+277
+
+170
+
+73
+
+110
+
+II
+
+194
+
+119
+
+51
+
+77
+
+III
+
+135
+
+83
+
+36
+
+54
+
+IV
+
+88
+
+54
+
+23
+
+35
+
+V
+
+57
+
+35
+
+15
+
+23
+
+VI
+
+37
+
+23
+
+10
+
+15
+
+VII
+
+24
+
+15
+
+7
+
+10
+
+VIII
+
+16
+
+10
+
+5
+
+7
+
+IX
+
+10
+
+6
+
+3
+
+5
 
 TÉCNICO UNIVERSITÁRIO
 
-QUANTITATIVO DE CARGOS POR CLASSE<br>
+QUANTITATIVO DE CARGOS POR CLASSE
+
  
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="height:16.5pt"><td style="width:87.8pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">Grau</span></b></p></td><td style="width:79.0pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">UNEB</span></b></p></td><td style="width:102.75pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">UEFS</span></p></td><td style="width:94.8pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">UESC</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">UESB</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">590</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">370</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">250</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">317</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">236</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">148</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">100</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">126</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">154</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">100</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">60</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">70</span></p></td></tr><tr style="height:16.5pt"><td style="width:87.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="117"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">IV</span></b></p></td><td style="width:79.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="105"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">81</span></p></td><td style="width:102.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">55</span></p></td><td style="width:94.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="126"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">35</span></p></td><td style="width:103.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="139"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">40</span></p></td></tr></tbody></table>
+**Grau**
+
+**UNEB**
+
+UEFS
+
+UESC
+
+UESB
+
+**I**
+
+590
+
+370
+
+250
+
+317
+
+**II**
+
+236
+
+148
+
+100
+
+126
+
+**III**
+
+154
+
+100
+
+60
+
+70
+
+**IV**
+
+81
+
+55
+
+35
+
+40
 
 ANEXO X
 
@@ -2577,34 +690,7 @@ AGENTE PENITENCIÁRIO
 
 QUANTITATIVO DE CARGOS POR CLASSE
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:262.75pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="350"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">CARGO</span></b></p></td><td colspan="3" style="width:205.5pt;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="274"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">CLASSE</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:262.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="350"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:68.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="91"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:68.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="91"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:69.05pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="92"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td></tr><tr style="page-break-inside:avoid;height:21.65pt"><td style="width:262.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="350"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">AGENTE PENITENCIÁRIO</span></b></p></td><td style="width:68.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="91"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">750</span></p></td><td style="width:68.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="91"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">580</span></p></td><td style="width:69.05pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="92"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">460</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **CARGO** </td><td colspan="3" valign="top"> CLASSE </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td></tr><tr><td valign="top"> **AGENTE PENITENCIÁRIO** </td><td valign="top"> 750 </td><td valign="top"> 580 </td><td valign="top"> 460 </td></tr></tbody></table>
 
 ANEXO XI
 
@@ -2614,34 +700,7 @@ VENCIMENTO BÁSICO POR CLASSE
 
 VIGÊNCIA A PARTIR DE 1º DE JUNHO DE 2014
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="0"><tbody><tr style="page-break-inside:avoid"><td style="width:262.75pt;border-top:solid black 1.0pt;
-  border-left:solid black 1.0pt;border-bottom:none;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="350"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">CARGO</span></b></p></td><td colspan="3" style="width:205.5pt;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="274"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">CLASSE</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:262.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="350"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:68.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="91"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">I</span></b></p></td><td style="width:68.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="91"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">II</span></p></td><td style="width:69.05pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="92"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">III</span></p></td></tr><tr style="page-break-inside:avoid;height:21.65pt"><td style="width:262.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="350"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">AGENTE PENITENCIÁRIO</span></b></p></td><td style="width:68.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="91"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">1.105,72</span></p></td><td style="width:68.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="91"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.111,19</span></p></td><td style="width:69.05pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="92"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">1.125,41</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **CARGO** </td><td colspan="3" valign="top"> CLASSE </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **I** </td><td valign="top"> II </td><td valign="top"> III </td></tr><tr><td valign="top"> **AGENTE PENITENCIÁRIO** </td><td valign="top"> 1.105,72 </td><td valign="top"> 1.111,19 </td><td valign="top"> 1.125,41 </td></tr></tbody></table>
 
 ANEXO XII
 
@@ -2653,23 +712,4 @@ AGENTE PENITENCIÁRIO
 
 VIGÊNCIA A PARTIR DE 1º JULHO DE 2014
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:463.25pt;border-collapse:collapse" width="0"><tbody><tr><td style="border:none;border-bottom:solid black 1.0pt" width="1"><p class="MsoNormal">&nbsp;</p></td><td colspan="2" style="width:217.9pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="290"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">CLASSE</span></b></p></td><td colspan="2" style="width:245.35pt;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="327"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">VENCIMENTO</span></p></td></tr><tr style="height:21.65pt"><td colspan="2" style="width:217.85pt;border-top:none;
-  border-left:solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:
-  none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="290"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">I</span></p></td><td colspan="2" style="width:245.45pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="327"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">1.148,18</span></b></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="1"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:21.65pt"><td colspan="2" style="width:217.85pt;border-top:none;
-  border-left:solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:
-  none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="290"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">II</span></b></p></td><td colspan="2" style="width:245.45pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="327"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">1.153,85</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="1"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:21.65pt"><td colspan="2" style="width:217.85pt;border-top:none;
-  border-left:solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:
-  none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="290"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">III</span></b></p></td><td colspan="2" style="width:245.45pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.65pt" valign="top" width="327"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">1.168,63</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="1"><p class="MsoNormal">&nbsp;</p></td></tr><tr height="0"></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> &nbsp; </td><td colspan="2" valign="top"> **CLASSE** </td><td colspan="2" valign="top"> VENCIMENTO </td></tr><tr><td colspan="2" valign="top"> I </td><td colspan="2" valign="top"> **1.148,18** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **II** </td><td colspan="2" valign="top"> 1.153,85 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **III** </td><td colspan="2" valign="top"> 1.168,63 </td><td> &nbsp; </td></tr><tr height="0"></tr></tbody></table>

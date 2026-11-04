@@ -1,5 +1,3 @@
-###DEC-053899-0-000-29-04-1964@@@
-
 DECRETO Nº 53.899, DE 29 DE ABRIL DE 1964.
 
 Dispõe sôbre a criação da Comissão de Comércio Exterior e dá outras providências.

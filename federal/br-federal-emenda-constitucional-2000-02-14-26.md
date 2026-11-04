@@ -1,24 +1,22 @@
-###EMC-000026-0-000-14-02-2000@@@
+**EMENDA CONSTITUCIONAL Nº 26, DE 2000**
 
-<strong>EMENDA CONSTITUCIONAL Nº 26, DE 2000</strong>
-
-<em><strong>Altera a redação do art. 6º da Constituição Federal.</strong></em>
+***Altera a redação do art. 6º da Constituição Federal.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-<strong>Art</strong>. 1º O art. 6º da Constituição Federal passa a vigorar com a seguinte redação:
+**Art**. 1º O art. 6º da Constituição Federal passa a vigorar com a seguinte redação:
 
 “Art. 6º São direitos sociais a educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.” (NR)
 
-<strong>Art</strong>. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+**Art**. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, 14 de fevereiro de 2000.
 
-<strong>Mesa da Câmara do Deputados</strong>
+**Mesa da Câmara do Deputados**
 
-<strong>Deputado Michel Temer</strong>
+**Deputado Michel Temer**
 
-<strong>Presidente</strong>
+**Presidente**
 
 Deputado Heráclito Fortes
 
@@ -42,11 +40,11 @@ Deputado Jaques Wagner
 
 Deputado Efraim Morais
 
-<strong>Mesa do Senado Federal</strong>
+**Mesa do Senado Federal**
 
-<strong>Senador Antonio Carlos Magalhães</strong>
+**Senador Antonio Carlos Magalhães**
 
-<strong>Presidente</strong>
+**Presidente**
 
 Senador Geraldo Melo
 

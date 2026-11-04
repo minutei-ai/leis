@@ -1,5 +1,3 @@
-###DEC-056312-0-000-21-05-1965@@@
-
 DECRETO Nº 56.312, DE 21 DE MAIO DE 1965.
 
 Autoriza Cerâmica Martini S.A. a pesquisar argila, no município de Mogi Guaçu, Estado de São Paulo.

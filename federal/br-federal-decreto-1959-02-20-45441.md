@@ -1,5 +1,3 @@
-###DEC-045441-0-000-20-02-1959@@@
-
 decreto nº 45.441, de 20 de fevereiro de 1959.
 
 Concede abono provisório aos servidores do Conselho Regional de Contabilidade do Distrito Federal.

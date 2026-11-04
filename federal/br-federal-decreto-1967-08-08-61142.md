@@ -1,5 +1,3 @@
-###DEC-061142-0-000-08-08-1967@@@
-
 decreto nº 61.142, de 8 de agôsto de 1967.
 
 Concede à Insurance Company of North America autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

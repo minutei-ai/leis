@@ -1,5 +1,3 @@
-###DEC-066686-0-000-10-06-1970@@@
-
 DECRETO Nº 66.686, DE 10 DE JUNHO DE 1970.
 
 Promulga o Convênio Cultural entre o Brasil e a Guiana.

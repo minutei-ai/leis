@@ -1,7 +1,3 @@
-1
-
-###DEC-097676-0-000-20-04-1989@@@
-
 DECRETO N° 97.676, DE 20 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Contábeis e Administrativas de Várzea Grande, Mato Grosso.

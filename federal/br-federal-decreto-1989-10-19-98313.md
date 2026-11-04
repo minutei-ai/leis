@@ -1,7 +1,3 @@
-1
-
-###DEC-098313-0-000-19-10-1989@@@
-
 DECRETO Nº 98.313, DE 19 DE OUTUBRO DE 1989
 
 Altera dispositivos do Regulamento da Ordem do Mérito Forças Armadas.

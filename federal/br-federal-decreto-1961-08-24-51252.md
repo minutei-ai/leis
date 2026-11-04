@@ -1,5 +1,3 @@
-###DEC-051252-0-000-24-08-1961@@@
-
 DECRETO Nº 51.252, DE 24 DE AGÔSTO DE 1961.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito extraordinário de Cr$140.000.000,00 para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-084416-0-000-23-01-1980@@@
-
 DECRETO Nº 84.416, DE 23 DE JANEIRO DE 1980
 
 Cassa a concessão outorgada à Radio Cultura Rio Grandense Ltda., para estabelecer, na cidade de Pau dos Ferros, Estado do Rio Grande do Norte, uma estação de radiodifusão sonora em onda média de âmbito regional.
@@ -17,8 +15,6 @@ Brasília 23, de janeiro de 1980; 159º da Independência e 92º da República.
 João Figueiredo
 
 H. C. Mattos
-
-###DEC-084416-0-000-23-01-1980@@@RET01+++
 
 DECRETO Nº 84.416, DE 23 DE JANEIRO DE 1980
 

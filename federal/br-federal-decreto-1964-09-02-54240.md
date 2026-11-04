@@ -1,5 +1,3 @@
-###DEC-054240-0-000-02-09-1964@@@
-
 decreto nº 54.240, de 2 de setembro de 1964.
 
 Inclui nas relações de que trata o Decreto nº 54.015, de 13 de julho de 1964, os cargos que especifica e dá outras providências.

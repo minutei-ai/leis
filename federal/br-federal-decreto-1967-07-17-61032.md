@@ -1,5 +1,3 @@
-###DEC-061032-0-000-17-07-1967@@@
-
 DECRETO Nº 61.032, DE 17 DE JULHO DE 1967.
 
 Regulamenta a aplicação da correção monetária aos débitos de natureza trabalhista, de que trata o Decreto-lei nº 75, de 21 de novembro de 1966.

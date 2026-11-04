@@ -1,5 +1,3 @@
-###DEC-080284-0-000-05-09-1977@@@
-
 DECRETO N° 80.284, DE 5 DE setembro de 1977.
 
 Retifica a concessão de lavra outorgada a João Batista do Vale e Martiniano Zuquim, pelo Decreto n° 40.911, de 13 de fevereiro de 1957.

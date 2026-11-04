@@ -1,5 +1,3 @@
-###MPV-002073-0-036-19-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.073-36, DE 19 DE ABRIL DE 2001
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

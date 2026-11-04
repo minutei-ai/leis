@@ -1,5 +1,3 @@
-###DEC-006588-0-000-01-10-2008@@@
-
 DECRETO Nº 6.588, DE 1º DE OUTUBRO DE 2008.
 
 Dá nova redação à Nota Complementar NC (22-3) da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto no 6.006, de 28 de dezembro de 2006.   
@@ -14,13 +12,237 @@ I - a partir da data de publicação deste Decreto:
 
                         “NC (22-3) ...............................................................................................................
 
-<table cellspacing="0" cellpadding="0" style="margin-left:42.52pt; border-collapse:collapse"><tbody><tr><td style="width:59.6pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Classes</span></p></td><td style="width:55.78pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">IPI R$</span></p></td><td style="width:59.92pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Classes</span></p></td><td style="width:55.78pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">IPI R$</span></p></td><td style="width:59.92pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Classes</span></p></td><td style="width:57.48pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">IPI R$</span></p></td><td style="width:35.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">A</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,11</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">I</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,47</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Q</span></p></td><td style="width:57.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2,23</span></p></td><td style="width:35.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">B</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,12</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">J</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,56</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">R</span></p></td><td style="width:57.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2,74</span></p></td><td style="width:35.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">C</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,14</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">K</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,68</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">S</span></p></td><td style="width:57.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3,34</span></p></td><td style="width:35.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">D</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,18</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">L</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,83</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">T</span></p></td><td style="width:57.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4,07</span></p></td><td style="width:35.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">E</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,23</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">M</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1,01</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">U</span></p></td><td style="width:57.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4,97</span></p></td><td style="width:35.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">F</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,26</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">N</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1,26</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">V</span></p></td><td style="width:57.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">6,06</span></p></td><td style="width:35.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">G</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,30</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">O</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1,50</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">X</span></p></td><td style="width:57.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">7,38</span></p></td><td style="width:35.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">H</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,38</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">P</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1,84</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Y</span></p></td><td style="width:57.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">9,00</span></p></td><td style="width:35.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td><td style="width:55.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td><td style="width:59.92pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Z</span></p></td><td style="width:57.48pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">13,38</span></p></td><td style="width:35.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">” (NR)</span></p></td></tr></tbody></table>
+Classes
+
+IPI R$
+
+Classes
+
+IPI R$
+
+Classes
+
+IPI R$
+
+A
+
+0,11
+
+I
+
+0,47
+
+Q
+
+2,23
+
+B
+
+0,12
+
+J
+
+0,56
+
+R
+
+2,74
+
+C
+
+0,14
+
+K
+
+0,68
+
+S
+
+3,34
+
+D
+
+0,18
+
+L
+
+0,83
+
+T
+
+4,07
+
+E
+
+0,23
+
+M
+
+1,01
+
+U
+
+4,97
+
+F
+
+0,26
+
+N
+
+1,26
+
+V
+
+6,06
+
+G
+
+0,30
+
+O
+
+1,50
+
+X
+
+7,38
+
+H
+
+0,38
+
+P
+
+1,84
+
+Y
+
+9,00
+
+Z
+
+13,38
+
+” (NR)
 
 II - a partir de 1o de janeiro de 2009:
 
                         “NC (22-3) ...............................................................................................................
 
-<table cellspacing="0" cellpadding="0" style="margin-left:42.22pt; border-collapse:collapse"><tbody><tr><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Classes</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">IPI R$</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Classes</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">IPI R$</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Classes</span></p></td><td style="width:59.62pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">IPI R$</span></p></td><td style="width:30.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">A</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,14</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">I</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,61</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Q</span></p></td><td style="width:59.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2,90</span></p></td><td style="width:30.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">B</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,16</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">J</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,73</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">R</span></p></td><td style="width:59.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3,56</span></p></td><td style="width:30.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">C</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,18</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">K</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,88</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">S</span></p></td><td style="width:59.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4,34</span></p></td><td style="width:30.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">D</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,23</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">L</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1,08</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">T</span></p></td><td style="width:59.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">5,29</span></p></td><td style="width:30.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">E</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,30</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">M</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1,31</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">U</span></p></td><td style="width:59.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">6,46</span></p></td><td style="width:30.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">F</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,34</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">N</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1,64</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">V</span></p></td><td style="width:59.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">7,88</span></p></td><td style="width:30.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">G</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,39</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">O</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1,95</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">X</span></p></td><td style="width:59.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">9,59</span></p></td><td style="width:30.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">H</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0,49</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">P</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2,39</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Y</span></p></td><td style="width:59.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">11,70</span></p></td><td style="width:30.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td></tr><tr><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Times New Roman'">&nbsp;</span></p></td><td style="width:59.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Z</span></p></td><td style="width:59.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">17,39</span></p></td><td style="width:30.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; text-transform:uppercase">” (NR)</span></p></td></tr></tbody></table>
+Classes
+
+IPI R$
+
+Classes
+
+IPI R$
+
+Classes
+
+IPI R$
+
+A
+
+0,14
+
+I
+
+0,61
+
+Q
+
+2,90
+
+B
+
+0,16
+
+J
+
+0,73
+
+R
+
+3,56
+
+C
+
+0,18
+
+K
+
+0,88
+
+S
+
+4,34
+
+D
+
+0,23
+
+L
+
+1,08
+
+T
+
+5,29
+
+E
+
+0,30
+
+M
+
+1,31
+
+U
+
+6,46
+
+F
+
+0,34
+
+N
+
+1,64
+
+V
+
+7,88
+
+G
+
+0,39
+
+O
+
+1,95
+
+X
+
+9,59
+
+H
+
+0,49
+
+P
+
+2,39
+
+Y
+
+11,70
+
+Z
+
+17,39
+
+” (NR)
 
 Art. 2o  Os atos de enquadramento e reenquadramento de bebidas, com base na tabela do inciso II do art. 1o, publicados pela Secretaria da Receita Federal do Brasil no período de outubro a dezembro de 2008, produzirão efeitos a partir de 1o de janeiro de 2009.
 

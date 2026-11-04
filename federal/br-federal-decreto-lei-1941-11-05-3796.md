@@ -1,5 +1,3 @@
-###DEL-003796-0-000-05-11-1941@@@
-
 DECRETO-LEI N. 3.796 – DE 5 DE NOVEMBRO DE 1941
 
 Estende, com alterações, ás empresas que só revendem energia elétrica, as prescrições constantes do decreto-lei n 3.128, de 19 de março do corrente ano.

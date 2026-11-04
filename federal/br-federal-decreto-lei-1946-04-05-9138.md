@@ -1,5 +1,3 @@
-###DEL-009138-0-000-05-04-1946@@@
-
 DECRETO-LEI N. 9.138 – DE 5 DE ABRIL DE 1946
 
 Suspende a subscrição compulsória de “Obrigações de Guerra”, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002379-0-000-12-11-1997@@@
-
 DECRETO Nº 2.379, DE 12 DE NOVEMBRO DE 1997
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 9 (Protocolo de Adequação), entre Brasil e México, de 26 de setembro de 1997.

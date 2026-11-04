@@ -1,5 +1,3 @@
-###DEL-004952-0-000-13-11-1942@@@
-
 DECRETO-LEI N. 4.952 – DE 13 DE NOVEMBRO DE 1942
 
 Autoriza o Ministério da Guerra a efetuar o pagamento de indenização relativa a benfeitorias, que menciona, situadas em Recife, Estado de Pernambuco, em terreno acrescido de marinha necessário à ampliação do Estabelecimento de Subsistência da 7ª Região Militar

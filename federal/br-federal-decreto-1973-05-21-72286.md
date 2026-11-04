@@ -1,5 +1,3 @@
-###DEC-072286-0-000-21-05-1973@@@
-
 DECRETO Nº 72.286, DE 21 DE MAIO DE 1973.
 
 Revoga o Decreto que concedeu à Sociedade ITALCABLE - Servizi Cablografici Radiotelegrafici e Radioelettrici Società Per Azioni autorização para funcionar na República Federativa do Brasil.

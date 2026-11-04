@@ -1,5 +1,3 @@
-###DEC-064612-0-000-30-05-1969@@@
-
 DECRETO Nº 64.612, DE 30 DE MAIO DE 1969.
 
 Extingue funções gratificada do Quadro de Pessoal do Ministério da Fazenda.

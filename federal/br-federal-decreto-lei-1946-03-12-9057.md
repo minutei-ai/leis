@@ -1,5 +1,3 @@
-###DEL-009057-0-000-12-03-1946@@@
-
 DECRETO-LEI N. 9.057 – DE 12 DE MARÇO DE 1946
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 3.840,00 à verba que especifica.

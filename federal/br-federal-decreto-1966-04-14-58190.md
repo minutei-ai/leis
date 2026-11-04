@@ -1,5 +1,3 @@
-###DEC-058190-0-000-14-04-1966@@@
-
 DECRETO Nº 58.190, DE 14 DE ABRIL DE 1966.
 
 Aprovada alterações introduzidas nos Estatutos da Companhia Anglo Americana de Seguros Gerais, inclusive o aumento da capital social.

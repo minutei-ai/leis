@@ -1,5 +1,3 @@
-###DEC-060901-0-000-26-06-1967@@@
-
 DECRETO Nº 60.901, DE 26 DE JUNHO DE 1967.
 
 Dispõe sôbre a redistribuição dos órgãos da Administração Direta, subordinados a Presidência da República, e dá outras providências.

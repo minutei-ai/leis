@@ -1,5 +1,3 @@
-###DEC-053112-0-000-10-12-1963@@@
-
 DECRETO Nº 53.112, DE 10 DE DEZEMBRO DE 1963.
 
 Renova o Decreto nº 47.637, de 15 de janeiro de 1960.

@@ -1,7 +1,3 @@
-1
-
-###DEL-001207-0-000-07-02-1972@@@
-
 # DECRETO-LEI Nº 1.207, DE 7 DE FEVEREIRO DE 1972
 
 Cria Programa Especial para o Vale do São Francisco (PROVALE) e dá outras providências.
@@ -88,9 +84,37 @@ Art. 5º Sem prejuízo das verbas orçamentárias devidamente autorizadas, o PRO
 
 Art. 6º Os recursos previstos no artigo anterior terão as seguintes aplicações:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>a) implantação e pavimentação da rede de rodovias básicas ....................................................................</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>350.000.000,00</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>b) serviços de dragagem, balizamento, derrocamento, melhoramentos das condições de navegabilidade e aquisição de equipamentos ........................................</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>20.000.000,00</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>c) reaparelhamento da frota fluvial ...............................</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>5.000.000,00</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>d) construção do sistema de estradas vicinais .............</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>15.000.000,00</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>e) apoio aos programas de colonização e reflorestamento .........................................................</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>50.000.000,00</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>f) financiamento de projetos de desenvolvimento agrícola e agro-industrial .........................................................</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>200.000.000,00</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>g) realização de obras de urbanização, infraestrutura social, saneamento e irrigação ...................................</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>100.000.000,00</span></p></td></tr></tbody></table>
+Cr$
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="3" style="width:415.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>h) reservatório de Sobradinho:</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Cr$</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>I - Construção de eclusas na barragem ........................</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>70.000.000,00</span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>II - Reurbanização ou relocação de cidades e vilas .......</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>30.000.000,00</span></p></td><td style="vertical-align:top"></td></tr><tr style="height:0pt"><td style="width:253.5pt"></td><td style="width:172.6pt"></td><td style="width:0.05pt"></td></tr></tbody></table>
+a) implantação e pavimentação da rede de rodovias básicas ....................................................................
+
+350.000.000,00
+
+b) serviços de dragagem, balizamento, derrocamento, melhoramentos das condições de navegabilidade e aquisição de equipamentos ........................................
+
+20.000.000,00
+
+c) reaparelhamento da frota fluvial ...............................
+
+5.000.000,00
+
+d) construção do sistema de estradas vicinais .............
+
+15.000.000,00
+
+e) apoio aos programas de colonização e reflorestamento .........................................................
+
+50.000.000,00
+
+f) financiamento de projetos de desenvolvimento agrícola e agro-industrial .........................................................
+
+200.000.000,00
+
+g) realização de obras de urbanização, infraestrutura social, saneamento e irrigação ...................................
+
+100.000.000,00
+
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> h) reservatório de Sobradinho: </td></tr><tr><td> &nbsp; </td><td> Cr$ </td><td></td></tr><tr><td> I - Construção de eclusas na barragem ........................ </td><td> 70.000.000,00 </td><td></td></tr><tr><td> II - Reurbanização ou relocação de cidades e vilas ....... </td><td> 30.000.000,00 </td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 § 1º As importâncias destinadas a órgãos públicos, liberadas mediante utilização de fundos provenientes de transferências do PIN e do PROTERRA, não terão caráter reembolsável.
 

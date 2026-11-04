@@ -1,5 +1,3 @@
-###DEC-071199-0-000-04-10-1972@@@
-
 DECRETO Nº 71.199, de 4 de Outubro de 1972.
 
 Autoriza o funcionamento da Faculdade de Turismo do Litoral Santista de Cubatão - SP.

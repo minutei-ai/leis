@@ -1,6 +1,10 @@
 > **LEI Nº 3.935, DE 07 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão de crédito fiscal presumido do Imposto sobre Operações Relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, incidente nas operações de contribuintes que possuam como atividade econômica principal o comércio atacadista.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão de crédito fiscal presumido do Imposto sobre Operações Relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, incidente nas operações de contribuintes que possuam como atividade econômica principal o comércio atacadista.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

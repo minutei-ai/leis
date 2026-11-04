@@ -1,5 +1,3 @@
-###DEC-065123-0-000-10-09-1969@@@
-
 DECRETO Nº 65.123, DE 10 DE SETEMBRO DE 1969.
 
 Concede à S.A. Mineração da Trindade a concessão para lavrar minério de ferro, no município de Mariana Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-055140-0-000-04-12-1964@@@
-
 DECRETO Nº 55.140, DE 4 DE DEZEMBRO DE 1964.
 
 Concede á Sociedade de Mineração e empreendimentos Rurais Limitada autorização para funcionar como emprêsa de mineração.

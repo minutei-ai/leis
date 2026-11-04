@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69293)
-
 # LEI Nº 12.418, DE 21 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 75/2006, do Deputado Giba Marson - PV)

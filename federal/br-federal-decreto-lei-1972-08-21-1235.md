@@ -1,5 +1,3 @@
-###DEL-001235-0-000-21-08-1972@@@
-
 # DECRETO-LEI Nº 1.235, DE 21 DE AGOSTO DE 1972
 
 Concede isenção da taxa de armazenagem e dá outras providências

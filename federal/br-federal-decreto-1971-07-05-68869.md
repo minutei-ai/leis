@@ -1,5 +1,3 @@
-###DEC-068869-0-000-05-07-1971@@@
-
 DECRETO Nº 68.869, DE 5 DE JULHO DE 1971.
 
 Retifica o artigo 1º do Decreto número 37.829, de 31 de agôsto de 1955.

@@ -1,5 +1,3 @@
-###DEC-047825-0-000-04-03-1960@@@
-
 decreto nº 47.825, de 4 de março de 1960.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$84.130,00, destinado a indenizar o Oficial Administrativo Fernando Guaraná de Menezes.

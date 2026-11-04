@@ -1,5 +1,3 @@
-###DEC-003712-0-000-27-12-2000@@@
-
 DECRETO Nº 3.712, DE 27 DE DEZEMBRO DE 2000
 
 Dispõe sobre o Programa de Recuperação Fiscal REFIS.

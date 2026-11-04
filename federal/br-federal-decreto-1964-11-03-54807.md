@@ -1,5 +1,3 @@
-###DEC-054807-0-000-03-11-1964@@@
-
 Decreto nº 54.807, de 3 de novembro de 1964.
 
 Autoriza Metais de Goiás S.A. METAGO a Pesquisar quartzo, no município de Xambioá, Estado de Goiás.

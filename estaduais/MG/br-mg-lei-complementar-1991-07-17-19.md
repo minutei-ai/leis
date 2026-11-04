@@ -239,7 +239,3 @@ Dada no Palácio da Liberdade, em Belo Horizonte, aos 17 de julho de 1991.
 HÉLIO CARVALHO GARCIA
 
 Evandro de Pádua Abreu
-
-\===================
-
-Data da última atualização: 23/7/2004.

@@ -1,5 +1,3 @@
-###DEC-061592-0-000-23-10-1967@@@
-
 DECRETO Nº 61.592, DE 23 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública a “Associação de Proteção à Maternidade e à Infância”, com sede em Sant’Ana do Livramento, Estado do Rio Grande do Sul.

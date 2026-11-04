@@ -6,15 +6,16 @@ Denomina “Olga Castoldi Parizotto” o Hospital Regional de Dourados/MS, em co
 
 Publicada no Diário Oficial nº 10.118, de 18 de março de 2020, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominado “Olga Castoldi Parizotto” o Hospital Regional de Dourados/MS, em construção às margens da BR-463, região do Bairro Bonanza, saída para Ponta Porã, Dourados/MS.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominado “Olga Castoldi Parizotto” o Hospital Regional de Dourados/MS, em construção às margens da BR-463, região do Bairro Bonanza, saída para Ponta Porã, Dourados/MS.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 17 de março de 2020.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

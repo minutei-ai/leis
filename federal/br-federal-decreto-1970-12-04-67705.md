@@ -1,5 +1,3 @@
-###DEC-067705-0-000-04-12-1970@@@
-
 DECRETO Nº 67.705, DE 4 DE DEZEMBRO DE 1970.
 
 Decreta intervenção federal no Município de São João Batista no Estado de Santa Catarina e dá outras providências.

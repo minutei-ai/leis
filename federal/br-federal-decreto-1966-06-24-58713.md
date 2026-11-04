@@ -1,5 +1,3 @@
-###DEC-058713-0-000-24-06-1966@@@
-
 DECRETO Nº 58.713, DE 24 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Cícero de Castro Guimarães a pesquisar minério de cromo no município de Sêrro, Estado de Minas Gerais.

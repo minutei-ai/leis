@@ -1,5 +1,3 @@
-###DEC-075634-0-000-18-04-1975@@@
-
 DECRETO Nº 75.634, DE 18 DE ABRIL DE 1975.
 
 Revoga o Decreto nº 72.683 de 23 de agosto de 1973, que altera o posto do cargo de Chefe do Estado-Maior do Comando do 1º Distrito Naval e dá outras providências.

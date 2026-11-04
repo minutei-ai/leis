@@ -1,5 +1,3 @@
-###DEC-093950-0-000-21-01-1987@@@
-
 DECRETO Nº 93.950, DE 21 DE JANEIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Jarinu, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica o Poder Executivo autorizado a organizar, com a participação dos Municípios baianos, de entidades federais e estaduais, empresas privadas e outras pessoas jurídicas e físicas interessadas, uma sociedade anônima de economia mista, sob a denominação de CONSÓRCIO RODOVIÁRIO INTERMU-NICIPAL DA BAHIA S/A - CONSÓRCIO RODOVIÁRIO - com o objetivo de realizar estudos, projetos, construção, reconstrução, conservação e pavimentação de estradas municipais e rurais e as obras d'arte, podendo, para esse fim, celebrar quaisquer atos jurídicos inclusive de comércio.
 
-Redação de acordo com a Lei 2.697, de 27 de maio de 1969.<br>
+Redação de acordo com a Lei 2.697, de 27 de maio de 1969.
+
 Redação original: "Art. 1º - Fica o Poder Executivo autorizado a organizar, com os municípios baianos, com o Departamento de Estradas de Rodagem da Bahia e com orgãos, entidades, instituições, autarquias, sociedades de economia mista tanto federais como estaduais, uma empresa pública por ações, sob a denominação de CONSÓRCIO RODOVIÁRIO INTERMUNICIPAL DA BAHIA S. A. - CONSÓRCIO - com o objetivo de realizar estudos, projetos, construções, reconstruções, conservação e pavimentação de estradas e obras d'arte municipais bem como celebrar atos de comércio decorrentes dessas atividades."
 
 Parágrafo único - Terá o CONSORCIO, como encargo fundamental, a execução dos Planos Rodoviários Municipais, para o que manterá a mais estrita cooperação com o Departamento de Estradas de Rodagem da Secretaria dos Transportes e Comunicações, com o Departamento Nacional de Estradas de Rodagem - (DNER), com qualquer outro órgão similar sob controle da União, dos demais Estados e dos Municípios baianos.
@@ -23,7 +24,8 @@ b) Participar ou financiar entidades que tenham como objetivos os constantes da 
 
 Parágrafo único - Para os efeitos deste artigo, ao Poder Executivo é facultado alienar, à União, aos Estados e Municípios, e respectivas autarquias, outras sociedades de economia mista, empresas privadas e pessoas físicas, ações de sua propriedade no capital do CONSÓRCIO RODOVIÁRIO INTERMUNICIPAL DA BAHIA S/A - CONSÓRCIO RODOVIÁRIO - observadas, porem em qualquer hipótese, o limite mínimo previsto no parágrafo único do artigo 2º desta lei.
 
-Redação de acordo com a Lei 2.697, de 27 de maio de 1969.<br>
+Redação de acordo com a Lei 2.697, de 27 de maio de 1969.
+
 Redação original: "Parágrafo único - Visando os objetivos especificados neste artigo, o Poder Executivo poderá vender à União, aos Estados e Municípios, e respectivas autarquias, por preço nunca inferior ao seu valor nominal, ações do CONSÓRCIO RODOVIÁRIO INTERMUNICIPAL DA BAHIA S.A. , de propriedade do Estado, assegurado, no entanto, em qualquer hipótese, o mínimo previsto no art. 2º parágrafo único desta Lei."
 
 Art. 4º - Os dividendos que couberem ao Estado da Bahia, e a qualquer órgão ou sociedade controlada pelo Estado serão aplicados, inicialmente:
@@ -72,4 +74,4 @@ Flaviano Guimarães
 
 (\*) Republicada por haver saído com incorreções.
 
-* * *
+ *

@@ -1,5 +1,3 @@
-###DEC-083357-0-000-23-04-1979@@@
-
 Decreto nº 83.357, de 23 de abril de 1979.
 
 Concede autorização a CELANESE DO BRASIL FIBRAS QUÍMICAS LTDA, com sede no Estado de São Paulo, para o funcionamento aos domingos e feriados civis e religiosos nos setores que menciona, do seu estabelecimento fabril situado em Poços de Caldas, Estado de Minas Gerais.

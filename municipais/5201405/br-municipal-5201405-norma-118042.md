@@ -162,7 +162,8 @@ II.    Encaminhar ao NDB correspondências da Prefeitura Municipal de Apareci
 
 III.    Controlar os gastos relacionados à execução do Programa, conforme previsão orçamentária, e encaminhar os processos respectivos à Coordenação-Geral para aprovação e providências de pagamentos;
 
-IV.    Preparar os pedidos de desembolso e as prestações de contas do Programa e<br>
+IV.    Preparar os pedidos de desembolso e as prestações de contas do Programa e
+
 encaminhá-los à Coordenação-Geral;
 
 V.    Gerenciar, em articulação com a Coordenação-Geral da PIU, a execução do Programa no que tange aos aspectos legais e financeiros sob sua responsabilidade;
@@ -213,8 +214,10 @@ MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 17 de abril de 2023
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-FÁBIO CAMARGO FERREIRA<br>
+FÁBIO CAMARGO FERREIRA
+
 Coordenador Geral Da PIU

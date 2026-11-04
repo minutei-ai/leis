@@ -1,7 +1,3 @@
-1
-
-###MPV-001460-0-000-23-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.460, DE 23 DE MAIO DE 1996.
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

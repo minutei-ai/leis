@@ -1,7 +1,3 @@
-1
-
-###DEC-095677-0-000-28-01-1988@@@
-
 DECRETO N° 95.677, DE 28 DE JANEIRO DE 1988
 
 Autoriza o funcionamento do curso de Farmácia da Faculdade de Farmácia e Bioquímica "Camilo Castelo Branco", em São Paulo.

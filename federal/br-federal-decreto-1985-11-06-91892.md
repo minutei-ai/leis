@@ -1,5 +1,3 @@
-###DEC-091892-0-000-06-11-1985@@@
-
 Decreto nº 91.892, de 06 de novembro de 1985.
 
 Acresce áreas aos limites da Área de Proteção Ambiental - APA de Cananéia-Iguape e Peruíbe, declarada pelo Decreto nº 90.347 de 23 de outubro de 1.984, e dá outras providências.

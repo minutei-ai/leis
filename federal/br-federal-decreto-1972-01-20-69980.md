@@ -1,5 +1,3 @@
-###DEC-069980-0-000-20-01-1972@@@
-
 Decreto Nº 69.980, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Ginásio Jesus Maria José, com sede em Duque de Caxias, Estado do Rio de Janeiro.

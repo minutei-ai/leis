@@ -1,7 +1,3 @@
-1
-
-###DEC-099347-0-000-26-06-1990@@@
-
 DECRETO Nº 99.347, DE 26 DE JUNHO DE 1990
 
 Modifica o art. 6º do Decreto nº 79.099, de 6 de janeiro de 1977, relativo à Salvaguarda de Assuntos Sigilosos.
@@ -41,8 +37,6 @@ Brasília, 26 de junho de 1990; 169º da Independência e 102º da República.
 FERNANDO COLLOR
 
 Bernardo Cabral
-
-###DEC-099347-0-000-26-06-1990@@@RET01+++
 
 DECRETO N° 99.347, DE 26 DE JUNHO DE 1990
 

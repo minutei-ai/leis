@@ -1,5 +1,3 @@
-###DEC-069524-0-000-09-11-1971@@@
-
 DECRETO Nº 69.524 - DE 9 DE NOVEMBRO DE 1971
 
 Torna sem efeito redistribuição de cargo, com a respectiva ocupante, para o Quadro de Pessoal do Ministério da Fazenda, e dá outras providências.

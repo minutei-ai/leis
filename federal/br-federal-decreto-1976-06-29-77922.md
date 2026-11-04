@@ -1,5 +1,3 @@
-###DEC-077922-0-000-29-06-1976@@@
-
 DECRETO Nº 77.922, DE 29 JUNHO DE 1976.
 
 Cassa concessão outorgada à Telefônica de Goianésia Ltda. para executar serviços públicos de telefonia, no Município de Goianésia, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-093617-0-000-21-11-1986@@@
-
 DECRETO Nº 93.617, DE 21 DE NOVEMBRO DE 1986.
 
 Exime de supervisão ministerial as entidades incumbidas da fiscalização do exercício de profissões liberais.

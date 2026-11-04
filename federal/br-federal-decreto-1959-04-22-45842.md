@@ -1,5 +1,3 @@
-###DEC-045842-0-000-22-04-1959@@@
-
 DECRETO Nº 45.842, DE 22 DE ABRIL DE 1959.
 
 Outorga à Prefeitura Municipal de Campos Gerais, Estado de Minas Gerais, concessão para distribuir energia elétrica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074240-0-000-27-06-1974@@@
-
 DECRETO Nº 74.240, DE 27 DE JUNHO DE 1974.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Econômicas e Contábeis de Santana do Livramento, mantida pela Associação Santanense Pró Ensino Superior, com sede na cidade de Santana do Livramento, Estado do Rio Grande do Sul.

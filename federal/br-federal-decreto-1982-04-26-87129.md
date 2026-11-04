@@ -1,5 +1,3 @@
-###DEC-087129-0-000-26-04-1982@@@
-
 DECRETO Nº 87.129, DE 26 DE ABRIL DE 1982
 
 Altera o Decreto nº 77.919, de 25 de junho de 1976, que regulamenta a Lei nº 6.265, de 19 de novembro de 1975, Lei do Ensino no Exército, e dá outras providências.

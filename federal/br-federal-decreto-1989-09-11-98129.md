@@ -1,7 +1,3 @@
-1
-
-###DEC-098129-0-000-11-09-1989@@@
-
 DECRETO N° 98.129, DE 11 DE SETEMBRO DE 1989
 
 Autoriza o funcionamento do Curso de Comunicação Social da Faculdade Riopretense de Comunicação Social.

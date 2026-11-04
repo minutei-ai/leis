@@ -1,5 +1,3 @@
-###DEL-007075-0-000-24-11-1944@@@
-
 DECRETO-LEI N. 7.075 – DE 24 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 3. 000,00 à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-049851-0-000-09-01-1961@@@
-
 DECRETO Nº 49.851, DE 9 JANEIRO DE 1961.
 
 Cria funções na Parte Permanente da Tabela Única de Extranumerário-mensalista do Ministério da Educação e cultura, inclui funções gratificadas no Quadro de Pessoal do mesmo Ministério, e dá outras providências.

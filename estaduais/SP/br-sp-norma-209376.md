@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209376)<br>
-
 # DECRETO N° 68.491, DE 28 DE ABRIL DE 2024
 
 ### _Dispõe sobre o Plano Estadual de Irrigação Sustentável -Irriga + SP, e dá providências correlatas._

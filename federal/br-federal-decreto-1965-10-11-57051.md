@@ -1,5 +1,3 @@
-###DEC-057051-0-000-11-10-1965@@@
-
 Decreto nº 57.051, de 11 de Outubro de 1965.
 
 Concede à Tonetti S.A. - Mármores e Granitos autorização para funcionar como emprêsa de mineração.

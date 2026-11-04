@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211997)<br>
-
 # LEI N° 18.356, DE 15 DE DEZEMBRO DE 2025
 
 ## (Projeto de lei n° 147/2024, do Deputado Agente Federal Danilo Balas - PL)

@@ -1,5 +1,3 @@
-###DEC-048068-0-000-07-04-1960@@@
-
 DECRETO Nº 48.068, DE 7 DE ABRIL DE 1960.
 
 Concede à Federação Nacional dos Trabalhadores em Emprêsas Telefônicas autorização para filiar-se a uma organização internacional.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098444-0-000-24-11-1989@@@
-
 DECRETO Nº 98.444, DE 24 DE NOVEMBRO DE 1989
 
 Autoriza a doação da área que menciona, e dá outras providências.

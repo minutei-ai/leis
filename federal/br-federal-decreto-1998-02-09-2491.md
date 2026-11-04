@@ -1,5 +1,3 @@
-###DEC-002491-0-000-09-02-1998@@@
-
 DECRETO Nº 2.491, DE 9 DE FEVEREIRO DE 1998
 
 Altera dispositivos do Decreto nº’ 1.712, de 22 de novembro de 1995, que prorroga a concessão outorgada pelo Decreto nº 88.015, de 3 de janeiro de 1983.

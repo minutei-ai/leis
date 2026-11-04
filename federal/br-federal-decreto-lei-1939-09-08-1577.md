@@ -1,5 +1,3 @@
-###DEL-001577-0-000-08-09-1939@@@
-
 DECRETO-LEI N. 1.577 – DE 8 DE SETEMBRO DE 1939
 
 Abre, pelo Ministério da Justiça, o crédito suplementar de 30:000$0 à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-069043-0-000-10-08-1971@@@
-
 DECRETO Nº 69.043, DE 10 DE AGÔSTO DE 1971.
 
 Altera dispositivos do Regulamento para o Comando de Operações Navais aprovado pelo Decreto número 66.051, de 12 de janeiro de 1970.

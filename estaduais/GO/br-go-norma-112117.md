@@ -16,56 +16,694 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 657.499,83</td><td style=" width:85px;    ">R$ 1.016.115,29</td><td style=" width:85px;    ">R$ 1.673.615,12</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1702 - ENCARGOS FINANCEIROS DO ESTADO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - CELG D</td><td style=" width:85px;    ">28 843 0100 7122</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">6 - AMORTIZAÇÃO DA DÍVIDA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 16.180.000,00</td><td style=" width:85px;    ">R$ 16.180.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - CELG D</td><td style=" width:85px;    ">28 843 0100 7122</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">2 - JUROS E ENCARGOS DA DÍVIDA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 858.791,91</td><td style=" width:85px;    ">R$ 858.791,91</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - CELGPAR</td><td style=" width:85px;    ">28 843 0100 7123</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">6 - AMORTIZAÇÃO DA DÍVIDA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 7.666.734,33</td><td style=" width:85px;    ">R$ 7.666.734,33</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - CELGPAR</td><td style=" width:85px;    ">28 843 0100 7123</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">6 - AMORTIZAÇÃO DA DÍVIDA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.228.913,30</td><td style=" width:85px;    ">R$ 2.228.913,30</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - CEF PROINVEST</td><td style=" width:85px;    ">28 843 0100 7124</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">6 - AMORTIZAÇÃO DA DÍVIDA</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 1.901.000,00</td><td style=" width:85px;    ">R$ 1.921.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - BNDES PROINVEST</td><td style=" width:85px;    ">28 843 0100 7125</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">6 - AMORTIZAÇÃO DA DÍVIDA</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 1.298.000,00</td><td style=" width:85px;    ">R$ 1.318.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - BNDES PROPAE</td><td style=" width:85px;    ">28 843 0100 7126</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">6 - AMORTIZAÇÃO DA DÍVIDA</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 8.900.000,00</td><td style=" width:85px;    ">R$ 8.920.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - BNDES PROINVEST</td><td style=" width:85px;    ">28 843 0100 7125</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">2 - JUROS E ENCARGOS DA DÍVIDA</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 678.000,00</td><td style=" width:85px;    ">R$ 698.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - CELG D</td><td style=" width:85px;    ">28 843 0100 7122</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">2 - JUROS E ENCARGOS DA DÍVIDA</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 4.220.662,71</td><td style=" width:85px;    ">R$ 4.240.662,71</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - BNDES PROPAE</td><td style=" width:85px;    ">28 843 0100 7126</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">2 - JUROS E ENCARGOS DA DÍVIDA</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 5.426.000,00</td><td style=" width:85px;    ">R$ 5.446.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - PROPAG</td><td style=" width:85px;    ">28 843 0100 7149</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">2 - JUROS E ENCARGOS DA DÍVIDA</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 380.000,00</td><td style=" width:85px;    ">R$ 400.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - CEF PROINVEST</td><td style=" width:85px;    ">28 843 0100 7124</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">2 - JUROS E ENCARGOS DA DÍVIDA</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 926.000,00</td><td style=" width:85px;    ">R$ 946.000,00</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - CELGPAR</td><td style=" width:85px;    ">28 843 0100 7123</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">2 - JUROS E ENCARGOS DA DÍVIDA</td><td style=" width:85px;    ">R$ 20.000,00</td><td style=" width:85px;    ">R$ 4.193.000,00</td><td style=" width:85px;    ">R$ 4.213.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 18.054.907,20</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;    ">R$ 27.922.662,71</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 7.666.734,33</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 2.228.913,30</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 55.873.217,54</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 657.499,83
+
+R$ 1.016.115,29
+
+R$ 1.673.615,12
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1702 - ENCARGOS FINANCEIROS DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ENCARGOS DA DÍVIDA PÚBLICA - CELG D
+
+28 843 0100 7122
+
+15000100
+
+90
+
+6 - AMORTIZAÇÃO DA DÍVIDA
+
+R$ 0,00
+
+R$ 16.180.000,00
+
+R$ 16.180.000,00
+
+ENCARGOS DA DÍVIDA PÚBLICA - CELG D
+
+28 843 0100 7122
+
+15000100
+
+90
+
+2 - JUROS E ENCARGOS DA DÍVIDA
+
+R$ 0,00
+
+R$ 858.791,91
+
+R$ 858.791,91
+
+ENCARGOS DA DÍVIDA PÚBLICA - CELGPAR
+
+28 843 0100 7123
+
+25000100
+
+90
+
+6 - AMORTIZAÇÃO DA DÍVIDA
+
+R$ 0,00
+
+R$ 7.666.734,33
+
+R$ 7.666.734,33
+
+ENCARGOS DA DÍVIDA PÚBLICA - CELGPAR
+
+28 843 0100 7123
+
+25010100
+
+90
+
+6 - AMORTIZAÇÃO DA DÍVIDA
+
+R$ 0,00
+
+R$ 2.228.913,30
+
+R$ 2.228.913,30
+
+ENCARGOS DA DÍVIDA PÚBLICA - CEF PROINVEST
+
+28 843 0100 7124
+
+15010100
+
+90
+
+6 - AMORTIZAÇÃO DA DÍVIDA
+
+R$ 20.000,00
+
+R$ 1.901.000,00
+
+R$ 1.921.000,00
+
+ENCARGOS DA DÍVIDA PÚBLICA - BNDES PROINVEST
+
+28 843 0100 7125
+
+15010100
+
+90
+
+6 - AMORTIZAÇÃO DA DÍVIDA
+
+R$ 20.000,00
+
+R$ 1.298.000,00
+
+R$ 1.318.000,00
+
+ENCARGOS DA DÍVIDA PÚBLICA - BNDES PROPAE
+
+28 843 0100 7126
+
+15010100
+
+90
+
+6 - AMORTIZAÇÃO DA DÍVIDA
+
+R$ 20.000,00
+
+R$ 8.900.000,00
+
+R$ 8.920.000,00
+
+ENCARGOS DA DÍVIDA PÚBLICA - BNDES PROINVEST
+
+28 843 0100 7125
+
+15010100
+
+90
+
+2 - JUROS E ENCARGOS DA DÍVIDA
+
+R$ 20.000,00
+
+R$ 678.000,00
+
+R$ 698.000,00
+
+ENCARGOS DA DÍVIDA PÚBLICA - CELG D
+
+28 843 0100 7122
+
+15010100
+
+90
+
+2 - JUROS E ENCARGOS DA DÍVIDA
+
+R$ 20.000,00
+
+R$ 4.220.662,71
+
+R$ 4.240.662,71
+
+ENCARGOS DA DÍVIDA PÚBLICA - BNDES PROPAE
+
+28 843 0100 7126
+
+15010100
+
+90
+
+2 - JUROS E ENCARGOS DA DÍVIDA
+
+R$ 20.000,00
+
+R$ 5.426.000,00
+
+R$ 5.446.000,00
+
+ENCARGOS DA DÍVIDA PÚBLICA - PROPAG
+
+28 843 0100 7149
+
+15010100
+
+90
+
+2 - JUROS E ENCARGOS DA DÍVIDA
+
+R$ 20.000,00
+
+R$ 380.000,00
+
+R$ 400.000,00
+
+ENCARGOS DA DÍVIDA PÚBLICA - CEF PROINVEST
+
+28 843 0100 7124
+
+15010100
+
+90
+
+2 - JUROS E ENCARGOS DA DÍVIDA
+
+R$ 20.000,00
+
+R$ 926.000,00
+
+R$ 946.000,00
+
+ENCARGOS DA DÍVIDA PÚBLICA - CELGPAR
+
+28 843 0100 7123
+
+15010100
+
+90
+
+2 - JUROS E ENCARGOS DA DÍVIDA
+
+R$ 20.000,00
+
+R$ 4.193.000,00
+
+R$ 4.213.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 18.054.907,20
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 27.922.662,71
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 7.666.734,33
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 2.228.913,30
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 55.873.217,54
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3178</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.174,66</td><td style=" width:85px;    ">R$ 106.918,64</td><td style=" width:85px;    ">R$ 106.918,64</td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 11.330,10</td><td style=" width:85px;    ">R$ 909.196,65</td><td style=" width:85px;    ">R$ 909.196,65</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PLANO DE FORTALECIMENTO - &nbsp;DISPONIBILIZAÇÃO DE LEITOS DE UTI</td><td style=" width:85px;    ">10 302 1043 2518</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 17.459.531,30</td><td style=" width:85px;    ">R$ 128.878,53</td><td style=" width:85px;    ">R$ 128.878,53</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DO COMPLEXO ONCOLÓGICO DE REFERÊNCIA - CORA</td><td style=" width:85px;    ">10 302 1043 3284</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 13.451.586,38</td><td style=" width:85px;    ">R$ 6.365.360,43</td><td style=" width:85px;    ">R$ 6.365.360,43</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA</b><br>4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ELABORAÇÃO DE ESTUDOS DE VIABILIDADE TÉCNICA, ECONÔMICA E AMBIENTAL - EVTEA PARA INFRAESTRUTURA DE TRANSPORTES</td><td style=" width:85px;    ">26 782 1055 3296</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.982,42</td><td style=" width:85px;    ">R$ 1.982,41</td><td style=" width:85px;    ">R$ 1.982,41</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MOZARLÂNDIA</td><td style=" width:85px;    ">10 302 1043 3348</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 17.238.773,98</td><td style=" width:85px;    ">R$ 10.542.570,54</td><td style=" width:85px;    ">R$ 10.542.570,54</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 7.813.593,03</td><td style=" width:85px;    ">R$ 6.206.450,04</td><td style=" width:85px;    ">R$ 6.206.450,04</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.460.284,29</td><td style=" width:85px;    ">R$ 1.460.284,29</td><td style=" width:85px;    ">R$ 1.460.284,29</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 85.812,78</td><td style=" width:85px;    ">R$ 80.247,33</td><td style=" width:85px;    ">R$ 80.247,33</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3300 - SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS</b><br>3301 - GAB. SEC. DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS</td></tr></tbody></table>
+ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA DE POLÍTICAS PÚBLICAS DE DESENVOLVIMENTO ECONÔMICO E SOCIAL REGIONALIZADO</td><td style=" width:85px;    ">23 691 1054 2441</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.054.427,97</td><td style=" width:85px;    ">R$ 2.054.427,97</td><td style=" width:85px;    ">R$ 2.054.427,97</td></tr></tbody></table>
+06 181 1051 3178
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 94.238,00</td><td style=" width:85px;    ">R$ 94.238,00</td><td style=" width:85px;    ">R$ 94.238,00</td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1702 - ENCARGOS FINANCEIROS DO ESTADO</td></tr></tbody></table>
+4 - INVESTIMENTOS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - REESTRUTURAÇÃO BIRD (DÍVIDA EXTERNA)</td><td style=" width:85px;    ">28 844 0100 7129</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">2 - JUROS E ENCARGOS DA DÍVIDA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 20.164.507,61</td><td style=" width:85px;    ">R$ 20.164.507,61</td></tr><tr><td style=" width:85px;    ">ENCARGOS DA DÍVIDA PÚBLICA - REESTRUTURAÇÃO BIRD (DÍVIDA EXTERNA)</td><td style=" width:85px;    ">28 844 0100 7129</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">6 - AMORTIZAÇÃO DA DÍVIDA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 7.758.155,10</td><td style=" width:85px;    ">R$ 7.758.155,10</td></tr></tbody></table>
+R$ 1.174,66
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+R$ 106.918,64
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 18.054.907,20</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;    ">R$ 27.922.662,71</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 7.666.734,33</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 2.228.913,30</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 55.873.217,54</td></tr></tbody></table>
+R$ 106.918,64
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 18.054.907,20</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style=" width:340px;    ">R$ 27.922.662,71</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 7.666.734,33</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 2.228.913,30</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 55.873.217,54</td></tr></tbody></table>
+06 181 1051 2352
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 11.330,10
+
+R$ 909.196,65
+
+R$ 909.196,65
+
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PLANO DE FORTALECIMENTO -  DISPONIBILIZAÇÃO DE LEITOS DE UTI
+
+10 302 1043 2518
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 17.459.531,30
+
+R$ 128.878,53
+
+R$ 128.878,53
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DO COMPLEXO ONCOLÓGICO DE REFERÊNCIA - CORA
+
+10 302 1043 3284
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 13.451.586,38
+
+R$ 6.365.360,43
+
+R$ 6.365.360,43
+
+**4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA**
+4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+ELABORAÇÃO DE ESTUDOS DE VIABILIDADE TÉCNICA, ECONÔMICA E AMBIENTAL - EVTEA PARA INFRAESTRUTURA DE TRANSPORTES
+
+26 782 1055 3296
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.982,42
+
+R$ 1.982,41
+
+R$ 1.982,41
+
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MOZARLÂNDIA
+
+10 302 1043 3348
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 17.238.773,98
+
+R$ 10.542.570,54
+
+R$ 10.542.570,54
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+25000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 7.813.593,03
+
+R$ 6.206.450,04
+
+R$ 6.206.450,04
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.460.284,29
+
+R$ 1.460.284,29
+
+R$ 1.460.284,29
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+25010100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 85.812,78
+
+R$ 80.247,33
+
+R$ 80.247,33
+
+**3300 - SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS**
+3301 - GAB. SEC. DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO DA INICIATIVA DE POLÍTICAS PÚBLICAS DE DESENVOLVIMENTO ECONÔMICO E SOCIAL REGIONALIZADO
+
+23 691 1054 2441
+
+25010100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.054.427,97
+
+R$ 2.054.427,97
+
+R$ 2.054.427,97
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+25010100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 94.238,00
+
+R$ 94.238,00
+
+R$ 94.238,00
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1702 - ENCARGOS FINANCEIROS DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+ENCARGOS DA DÍVIDA PÚBLICA - REESTRUTURAÇÃO BIRD (DÍVIDA EXTERNA)
+
+28 844 0100 7129
+
+15010100
+
+90
+
+2 - JUROS E ENCARGOS DA DÍVIDA
+
+R$ 0,00
+
+R$ 20.164.507,61
+
+R$ 20.164.507,61
+
+ENCARGOS DA DÍVIDA PÚBLICA - REESTRUTURAÇÃO BIRD (DÍVIDA EXTERNA)
+
+28 844 0100 7129
+
+15010100
+
+90
+
+6 - AMORTIZAÇÃO DA DÍVIDA
+
+R$ 0,00
+
+R$ 7.758.155,10
+
+R$ 7.758.155,10
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 18.054.907,20
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 27.922.662,71
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 7.666.734,33
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 2.228.913,30
+
+**TOTAL**
+
+R$ 55.873.217,54
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 18.054.907,20
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 27.922.662,71
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 7.666.734,33
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 2.228.913,30
+
+**TOTAL**
+
+R$ 55.873.217,54

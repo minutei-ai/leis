@@ -1,4 +1,5 @@
-LEI Nº 23.291, DE 24 DE MARÇO DE 2025<br>
+LEI Nº 23.291, DE 24 DE MARÇO DE 2025
+
 \- [Lei com Eficácia suspensa (liminarmente), nos termos da ADI nº 7885-STF](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18647).
 
 Autoriza o Estado de Goiás a celebrar parceria com o Instituto para o Fortalecimento da Agropecuária de Goiás – IFAG, independentemente de chamamento público.

@@ -1,5 +1,3 @@
-###DEL-006471-0-000-04-05-1944@@@
-
 DECRETO-LEI N. 6.471 – DE 4 DE MAIO DE 1944
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 180. 000,00, para despesas de gratificação de representação a funcionários designados para prestar serviços em país estrangeiro

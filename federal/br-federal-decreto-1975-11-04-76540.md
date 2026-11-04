@@ -1,5 +1,3 @@
-###DEC-076540-0-000-04-11-1975@@@
-
 DECRETO Nº 76.540, DE 4 DE NOVEMBRO DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação de doação de terreno que menciona, situado no Município de São Gonçalo de Sapucaí, Estado de Minas Gerais.

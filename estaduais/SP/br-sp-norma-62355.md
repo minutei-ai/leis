@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62355)
-
 # LEI Nº 12.394, DE 13 DE JUNHO DE 2006
 
 ## (Projeto de lei nº 13/2006, do Deputado Baleia Rossi - PMDB)

@@ -1,5 +1,3 @@
-###DEC-093239-0-000-08-09-1986@@@
-
 DECRETO Nº 93.239, DE 08 DE SETEMBRO DE 1986
 
 Altera o Decreto nº 87.091, de 12 de abril de 1982, que dispõe sobre planos de benefícios em entidades fechadas de previdência privada, e dá outras providências.

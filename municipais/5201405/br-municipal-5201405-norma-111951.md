@@ -22,5 +22,6 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 12 de fevereiro de 2025.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

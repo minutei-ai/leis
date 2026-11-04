@@ -1,5 +1,3 @@
-###DEC-069413-0-000-22-10-1971@@@
-
 DECRETO Nº 69.413 - de 22 DE OUTUBRO DE 1971
 
 Confisca bem de João José Ferreira e dá outras providências.

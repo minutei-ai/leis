@@ -1,5 +1,3 @@
-###DEC-072698-0-000-27-08-1973@@@
-
 DECRETO Nº 72.698, DE 27 DE AGOSTO DE 1973.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de 1 (um) lote de terras pretencentes ao Patrimônio Municipal, localizado na Estrada de Campos Sales, em Manaus, Estado do Amazonas.

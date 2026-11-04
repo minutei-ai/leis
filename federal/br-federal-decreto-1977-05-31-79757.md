@@ -1,5 +1,3 @@
-###DEC-079757-0-000-31-05-1977@@@
-
 DECRETO Nº 79.757, DE 31 de maio DE 1977.
 
 Declara de utilidade pública, para fins de constituição de sevidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, nos Estados do Rio Grande do Sul e Santa Catarina.

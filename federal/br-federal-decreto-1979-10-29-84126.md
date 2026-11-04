@@ -1,5 +1,3 @@
-###DEC-084126-0-000-29-10-1979@@@
-
 Decreto nº 84.126, de 29 de outubro de 1979.
 
 Outorga a Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL concessão para o aproveitamento da energia hidráulica de um trecho do rio Paraná, nos Estados de São Paulo, Mato Grosso do Sul e Paraná, e dá outras providências.

@@ -1,6 +1,5 @@
 LEI N° 7.222, DE 30 DE NOVEMBRO DE 2021
 
-<br>
 “Institui a campanha “Setembro Dourado” no município de Rio Verde visando conscientizar profissionais da saúde, pais e sociedade em geral sobre os sinais e sintomas para a detecção do câncer infanto-juvenil”.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

@@ -1,5 +1,3 @@
-###DEC-049435-0-000-06-12-1960@@@0
-
 DECRETO Nº 49.435, DE 6 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Francisco Giraldes Filho a pesquisar água, mineral, no município de Piraju, Estado de São Paulo.

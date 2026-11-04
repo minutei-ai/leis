@@ -1,5 +1,3 @@
-###DEC-065152-0-000-15-09-1969@@@
-
 DECRETO Nº 65.152 - DE 15 DE SETEMBRO DE 1969.
 
 Declara caduco o Decreto nº 20.659, de 26 de fevereiro de 1946.

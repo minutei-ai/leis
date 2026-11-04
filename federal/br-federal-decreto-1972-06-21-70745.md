@@ -1,5 +1,3 @@
-###DEC-070745-0-000-21-06-1972@@@
-
 Decreto nº 70.745, de 21 de junho de 1972.
 
 Concede reconhecimento à Faculdade Estadual de Filosofia, Ciências e Letras de Cornélio Procópio - PR.

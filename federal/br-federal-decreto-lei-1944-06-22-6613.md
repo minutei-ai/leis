@@ -1,5 +1,3 @@
-###DEL-006613-0-000-22-06-1944@@@
-
 DECRETO-LEI N. 6.613 – DE 22 DE JUNHO DE 1944
 
 Dispõe sôbre as remessas de valores pertencentes à União, por intermédio do Departamento dos Correios e Telégrafos

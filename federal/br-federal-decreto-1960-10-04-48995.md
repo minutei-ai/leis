@@ -1,5 +1,3 @@
-###DEC-048995-0-000-04-10-1960@@@
-
 DECRETO Nº 48.995, DE 4 DE OUTUBRO DE 1960.
 
 Transfere, sem aumento de Despesa, função de Tabela Numérica Especial de Extranumerário Mensalista do Ministério da Agricultura, que menciona.

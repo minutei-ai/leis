@@ -1,5 +1,3 @@
-###DEC-056936-0-000-01-10-1965@@@
-
 DECRETO Nº 56.936, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro José Biondi Sobrinho a pesquisar bauxita no município de Lavrinhas, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-005886-0-000-19-10-1943@@@
-
 DECRETO‑LEI N. 5.886 – DE 19 DE OUTUBRO DE 1943
 
 Prorroga a vigência do crédito especial aberto ao Ministério da Educação e Saúde pelo decreto‑lei n. 4.989, de 24 de novembro de 1942

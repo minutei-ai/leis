@@ -1,5 +1,3 @@
-###DEC-058802-0-000-13-07-1966@@@
-
 DECRETO Nº 58.802, DE 13 DE JULHO DE 1966.
 
 Retifica o Decreto nº 53.719, de 18 de março de 1964, que aprovou o Quadro de Pessoal da Escola Industrial “Deodoro da Fonseca” e deu outras providências.

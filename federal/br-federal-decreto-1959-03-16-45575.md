@@ -1,5 +1,3 @@
-###DEC-045575-0-000-16-03-1959@@@
-
 DECRETO Nº 45.575, DE 16 DE março DE 1959.
 
 Institui junto ao CODENO Grupo Coordenador sôbre questões de câmbio e comércio exterior.

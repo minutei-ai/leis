@@ -1,5 +1,3 @@
-###DEC-003121-0-000-23-07-1999@@@
-
 DECRETO Nº 3.121, DE 23 DE JULHO DE 1999
 
 Revoga o Decreto nº 69.393, de 21 de outubro de 1971, que dispõe sobre a execução da Convenção para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento celebrada com a República Portuguesa.

@@ -1,5 +1,3 @@
-###DEL-003459-0-000-24-07-1941@@@
-
 DECRETO-LEI N. 3.459 – DE 24 DE JULHO DE 1941
 
 Cria uma Base Aérea com sede em Recife, abre o crédito especial de 100 :000$0 para atender às primeiras despesas, e dá outras providências

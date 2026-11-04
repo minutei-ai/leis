@@ -1,5 +1,3 @@
-###DEC-007363-0-000-22-11-2010-PUB-01@@@
-
 DECRETO Nº 7.363, DE 22 DE NOVEMBRO DE 2010.
 
 Institui a Medalha de Reconhecimento ao Conselho de Desenvolvimento Econômico e Social - CDES.

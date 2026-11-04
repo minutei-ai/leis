@@ -1,5 +1,3 @@
-###DEC-090606-0-000-04-12-1984@@@
-
 Decreto nº 90.606, de 04 de dezembro de 1984
 
 Concede à SIDERURGIA BRASILEIRA S.A. SIDERBRÁS (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital autorizado, bem como do capital social.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000834-0-000-07-06-1993@@@
-
 DECRETO N° 834, DE 7 DE JUNHO DE 1993
 
 Altera a composição do Conselho Nacional de Política Cultural.

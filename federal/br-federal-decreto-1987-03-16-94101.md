@@ -1,5 +1,3 @@
-###DEC-094101-0-000-16-03-1987@@@
-
 DECRETO N° 94.101, DE 16 DE MARÇO DE 1987
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra abrangida pelo Projeto de Irrigação "Transição Sul  Morada Nova", no Município de Morada Nova, Estado do Ceará, para execução do Programa de Irrigação do Nordeste - PROINE, e dá outras providências.

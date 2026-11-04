@@ -1,6 +1,10 @@
 > **LEI Nº 4.638, DE 07 DE AGOSTO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de utilidade pública a Escola Presbiteriana João Calvino.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de utilidade pública a Escola Presbiteriana João Calvino.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

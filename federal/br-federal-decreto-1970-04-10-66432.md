@@ -1,5 +1,3 @@
-###DEC-066432-0-000-10-04-1970@@@
-
 DECRETO Nº 66.432, DE 10 DE ABRIL DE 1970.
 
 Cria Grupo de Trabalho para estudar a programação da indústria de construção naval.

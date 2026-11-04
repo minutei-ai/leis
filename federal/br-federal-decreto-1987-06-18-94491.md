@@ -1,7 +1,3 @@
-1
-
-###DEC-094491-0-000-18-06-1987@@@
-
 # DECRETO N° 94.491, DE 18 DE JUNHO DE 1987
 
 Inclui a Sibra  Eletrosiderúrgica Brasileira S.A. no Programa de Privatização.

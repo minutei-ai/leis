@@ -1,5 +1,3 @@
-###DEC-058766-0-000-28-06-1966@@@
-
 decreto nº 58.766, de 28 de junho de 1966.
 
 Concede à sociedade anônima The Sydney Ross Co. autorização para continuar a funcionar na República.

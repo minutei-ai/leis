@@ -1,5 +1,3 @@
-###DEC-094024-0-000-13-02-1987@@@
-
 DECRETO Nº 94.024, DE 13 DE FEVEREIRO DE 1987.
 
 Autoriza o aumento do Capital Social das Empresas que menciona.

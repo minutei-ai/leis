@@ -1,5 +1,3 @@
-###DEC-094328-0-000-14-05-1987@@@
-
 DECRETO Nº 94.328, DE 14 DE MAIO DE 1987
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no período de 1962/1980, subscrito entre o Brasil e a Venezuela (Acordo nº 13).

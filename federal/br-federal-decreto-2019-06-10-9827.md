@@ -16,4 +16,4 @@ Brasília, 10 de junho de 2019; 198º da Independência e 131º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Tarcisio Gomes de Freitas<br>
+Tarcisio Gomes de Freitas

@@ -1,5 +1,3 @@
-###DEC-096354-0-000-18-07-1988@@@
-
 DECRETO N° 96.354, DE 18 DE JULHO DE 1988
 
 Altera o Decreto n° 73.267, de 6 de dezembro de 1973.

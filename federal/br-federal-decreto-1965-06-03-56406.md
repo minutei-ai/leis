@@ -1,5 +1,3 @@
-###DEC-056406-0-000-03-06-1965@@@
-
 decreto nº 56.406, de 3 de junho de 1965.
 
 Concede à Pedreira Copacabana Limitada autorização para funcionar como empresa de mineração.

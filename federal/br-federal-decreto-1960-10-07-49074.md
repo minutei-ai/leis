@@ -1,5 +1,3 @@
-###DEC-049074-0-000-07-10-1960@@@
-
 DECRETO Nº 49.074, DE 7 DE OUTUBRO DE 1960.
 
 Autoriza o Estado do Rio Grande do Sul a ampliar suas instalações de energia elétrica.

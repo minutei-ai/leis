@@ -1,5 +1,3 @@
-###DEC-095907-0-000-08-04-1988@@@
-
 DECRETO N.° 95.907, DE 08 DE ABRIL DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados “LOTE RONDÔNIA”, “VALE DA REDENÇÃO”, “GLEBA REDENÇÃO”, “GLEBA REDENÇÃO C,” “GLEBA BOA ESPERANÇA” e “PARTE DO TITULO BOA ESPERANÇA”, incluídos no imóvel rural denominado “BOA ESPERANÇA”, classificado como “latifúndio por exploração”, situados nos Municípios de Porto Velho e Guajará-Mirim, no Estado de Rondônia, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.684, de 19 de maio de 1986, e dá outras providencias.

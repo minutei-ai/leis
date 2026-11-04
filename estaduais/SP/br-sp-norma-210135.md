@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210135)<br>
-
 # DECRETO N° 68.988, DE 21 DE OUTUBRO DE 2024
 
 ### _Prorroga o prazo para usufruir as férias que foram indeferidas em decorrência dos decretos que especifica, para os integrantes das carreiras policiais civis em exercício na Secretaria da Segurança Pública._

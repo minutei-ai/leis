@@ -1,5 +1,3 @@
-###DEC-051458-0-000-18-04-1962@@@
-
 DECRETO Nº 51.458, DE 18 DE ABRIL DE 1962.
 
 Dispõe sôbre a admissão de pessoal para os acôrdos entre a União, Estados e Municípios e dá outras providências.
@@ -27,8 +25,6 @@ João Goulart
 Tancredo Neves
 
 Armando Monteiro
-
-###DEC-051458-0-000-18-04-1962@@@RET01+++
 
 DECRETO Nº 51.458, DE 18 DE ABRIL DE 1962.
 

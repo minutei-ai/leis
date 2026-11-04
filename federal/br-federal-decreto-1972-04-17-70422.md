@@ -1,5 +1,3 @@
-###DEC-070422-0-000-17-04-1972@@@
-
 DECRETO 70.422, DE 17 DE ABRIL DE 1972.
 
 Concede à Mineração Níquel Santa Maria Ltda. o direito de lavrar minério de níquel, no município de Ipanema, Estado de Minas Gerais.

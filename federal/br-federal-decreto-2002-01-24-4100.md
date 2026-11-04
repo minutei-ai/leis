@@ -1,5 +1,3 @@
-###DEC-004100-0-000-24-01-2002@@@
-
 DECRETO Nº 4.100, DE 24 DE JANEIRO DE 2002.
 
 Dispõe sobre a execução do Protocolo de Adesão da República de Cuba ao Acordo-Quadro para a Promoção do Comércio mediante a Superação das Barreiras Técnicas ao Comércio, de 8 de agosto de 2001, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Chile, da República da Colômbia, da República do Equador, dos Estados Unidos Mexicanos, da República do Paraguai, da República do Peru, da República Bolivariana da Venezuela, da República Oriental do Uruguai, por um lado, e da República de Cuba, por outro, em conformidade com o Tratado de Montevidéu de 1980.
@@ -50,4 +48,50 @@ A Secretaria-Geral da ALADI será depositária do presente Protocolo, do qual en
 
 Em fé do que, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos oito dias do mês de agosto de dois mil e um, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Argentina</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Carlos Onis Vigil</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República da Bolívia</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Willy Vargas Vacaflor</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República do Chile</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Héctor Casanueva Ojeda</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República da Colômbia</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Arturo Sarabia Better</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República de Cuba</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Miguel Ramirez Ramil</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República do Equador</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Juan Carlos Faidutti Estrada</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo dos Estados Unidos Mexicanos</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">José Luis Solís González</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República do Paraguai</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">José María Casal</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República do Peru</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Carlos Higueras Ramos</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Oriental do Uruguai</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Elbio Rosselli Frieri</span></p></td></tr><tr><td style="width:249.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Bolivariana da Venezuela</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Rodrigo Arcaya Smith</span></p></td></tr></tbody></table>
+Pelo Governo da República Argentina
+
+Carlos Onis Vigil
+
+Pelo Governo da República da Bolívia
+
+Willy Vargas Vacaflor
+
+Pelo Governo da República Federativa do Brasil
+
+José Artur Denot Medeiros
+
+Pelo Governo da República do Chile
+
+Héctor Casanueva Ojeda
+
+Pelo Governo da República da Colômbia
+
+Arturo Sarabia Better
+
+Pelo Governo da República de Cuba
+
+Miguel Ramirez Ramil
+
+Pelo Governo da República do Equador
+
+Juan Carlos Faidutti Estrada
+
+Pelo Governo dos Estados Unidos Mexicanos
+
+José Luis Solís González
+
+Pelo Governo da República do Paraguai
+
+José María Casal
+
+Pelo Governo da República do Peru
+
+Carlos Higueras Ramos
+
+Pelo Governo da República Oriental do Uruguai
+
+Elbio Rosselli Frieri
+
+Pelo Governo da República Bolivariana da Venezuela
+
+Rodrigo Arcaya Smith

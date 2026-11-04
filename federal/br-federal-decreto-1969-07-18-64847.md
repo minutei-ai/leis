@@ -1,5 +1,3 @@
-###DEC-064847-0-000-18-07-1969@@@
-
 DECRETO Nº 64.847 - DE 18 DE JULHO DE 1969.
 
 Autoriza estrangeira a adquirir domínio útil de fração ideal de terreno de acrescido de marinha, no Estado da Guanabara.

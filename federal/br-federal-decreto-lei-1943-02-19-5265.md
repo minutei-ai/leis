@@ -1,5 +1,3 @@
-###DEL-005265-0-000-19-02-1943@@@
-
 DECRETO‑LEI N. 5.265 – DE 19 DE FEVEREIRO DE 1943
 
 Eleva o padrão de vencimento do cargo de Diretor do Museu Nacional de              Belas Artes a dá outras Providências

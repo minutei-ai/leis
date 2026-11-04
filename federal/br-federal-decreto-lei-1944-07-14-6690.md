@@ -1,5 +1,3 @@
-###DEL-006690-0-000-14-07-1944@@@
-
 DECRETO-LEI N. 6.690 – DE 14 DE JULHO DE 1944
 
 Cria uma coletoria federal no município de Espírito Santo, no Estado do Espírito Santo, e dá outras providências

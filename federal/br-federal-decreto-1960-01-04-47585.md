@@ -1,5 +1,3 @@
-###DEC-047585-0-000-04-01-1960@@@
-
 DECRETO Nº 47.585, DE 4 DE JANEIRO DE 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista da Base Aérea dos Afonsos para a do Hospital de Aeronáutica dos Afonsos.

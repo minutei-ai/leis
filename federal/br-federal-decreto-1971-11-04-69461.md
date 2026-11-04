@@ -1,5 +1,3 @@
-###DEC-069461-0-000-04-11-1971@@@
-
 DECRETO Nº 69.461 - de 4 de novembro de 1971
 
 Reconhece o Curso de Ciências (Licenciatura de 1° Ciclo) da Faculdade Dom Bosco de Filosofia, Ciências e Letras, sediada em São João Del Rei, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-077161-0-000-12-02-1976@@@
-
 DECRETO Nº 77.161, DE 12 DE FEVEREIRO DE 1976
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Administração das Faculdades Integradas de Marília, com sede na Cidade de Marília, Estado de São Paulo.

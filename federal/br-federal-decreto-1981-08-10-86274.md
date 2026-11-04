@@ -1,5 +1,3 @@
-###DEC-086274-0-000-10-08-1981@@@
-
 Decreto nº 86.274, de 10 de agosto de 1981
 
 Cassa a concessão outorgada à RÁDIO ALVORADA LTDA., para estabelecer, na cidade de Prata, Estado de Minas Gerais, uma estação de radiodifusão sonora em onda tropical.

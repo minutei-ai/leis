@@ -1,5 +1,3 @@
-###DEC-087606-0-000-21-09-1982@@@
-
 Decreto nº 87.606, de 21 de setembro de 1982
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO AMÉRICA S.A., para a RÁDIO JORNAL DA  CIDADE LTDA., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Salvador, Estado da Bahia.

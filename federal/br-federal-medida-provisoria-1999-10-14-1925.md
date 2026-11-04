@@ -1,5 +1,3 @@
-###MPV-001925-0-000-14-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.925, DE 14 DE OUTUBRO DE 1999.
 
 Dispõe sobre a Cédula de Crédito Bancário.

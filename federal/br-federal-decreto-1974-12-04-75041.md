@@ -1,5 +1,3 @@
-###DEC-075041-0-000-04-12-1974@@@
-
 Decreto nº 75.041, de 4 de dezembro de 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Atalaia de Belo Horizonte Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Belo Horizonte, Estado de Minas Gerais.

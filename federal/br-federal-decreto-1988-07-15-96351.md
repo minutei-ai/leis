@@ -1,5 +1,3 @@
-###DEC-096351-0-000-15-07-1988@@@
-
 DECRETO N° 96.351, DE 15 DE JULHO DE 1988
 
 Altera constituição do Conselho de Desenvolvimento Industrial - CDI.

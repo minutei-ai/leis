@@ -1,5 +1,7 @@
-DECRETO Nº 9.976, DE 28 DE OUTUBRO DE 2021<br>
-\- [Revogado pelo Decreto nº 10.760, de 15-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111148), art. 1º.<br>
+DECRETO Nº 9.976, DE 28 DE OUTUBRO DE 2021
+
+\- [Revogado pelo Decreto nº 10.760, de 15-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111148), art. 1º.
+
 [\- Vide Portaria n º 1165/2021 - DETRAN](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17552) 
 
 ~~Dispõe sobre as diretrizes para o credenciamento pelo Departamento Estadual de Trânsito – DETRAN/GO _de entidades, médicos e psicólogos para a finalidade que especifica._~~

@@ -1,5 +1,3 @@
-###DEC-072554-0-000-31-07-1973@@@
-
 Decreto nº 72.554, de 31 de julho de 1973.
 
 Outorga concessão para aproveitamento de energia hidráulica para uso exclusivo, no Estado de Minas Gerais.

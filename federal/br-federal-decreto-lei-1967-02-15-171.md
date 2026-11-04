@@ -1,5 +1,3 @@
-###DEL-000171-0-000-15-02-1967@@@
-
 DECRETO-LEI Nº 171, DE 15 DE FEVEREIRO DE 1967
 
 Altera, sem aumento de despesas, a Lei nº 5.189, de 8 de dezembro de 1966, que estima a Receita e fixa a Despesa da União para o exercício financeiro de 1967.
@@ -10,15 +8,115 @@ Decreto-Lei:
 
 Art. 1º Fica alterada sem aumento de despesa a Lei nº 5.189, de 8 de dezembro de 1966 na forma a seguir discriminada:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.06.60</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Ministério da Educação e Cultura</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.06.17</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Diretoria do Ensino Superior (Órgãos Dependentes)</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$1.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.0.0.0</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas de Capital</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.1.0.0</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Investimentos</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+4.06.60
+
+- Ministério da Educação e Cultura
+
+4.06.17
+
+- Diretoria do Ensino Superior (Órgãos Dependentes)
+
+Cr$1.000
+
+4.0.0.0
+
+- Despesas de Capital
+
+4.1.0.0
+
+- Investimentos
 
 ONDE SE LÊ:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.1.2.0</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Serviços em Regime de Programação Especial ...............</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.309.000</span></p></td></tr></tbody></table>
+4.1.2.0
+
+- Serviços em Regime de Programação Especial ...............
+
+2.309.000
 
 LEIA\-SE:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$1.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.1.2.0</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Serviços em Regime de Programação Especial</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y.05</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Fundo Nacional do Ensino Superior</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.03</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal do Rio de Janeiro ...........................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>775.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.06</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal de Goiás .......................................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>52.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.07</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal Fluminense ...................................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.09</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal de Juiz de Fora ..............................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.10</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal de Minas Gerais ............................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>90.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.12</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal da Paraíba ....................................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>22.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.14</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal de Pernambuco .............................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>650.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.16</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal do Rio Grande do Sul .....................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>200.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.20</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal de Santa Catarina ..........................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.45</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola de Minas de Ouro Prêto .....................................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>400.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.22</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal de São Paulo, com sede em São Carlos ............................................................................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>40.000</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL</span></p></td><td style="width:258.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>......................................................................................</span></p></td><td style="width:72.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.309.000</span></p></td></tr></tbody></table>
+Cr$1.000
+
+4.1.2.0
+
+- Serviços em Regime de Programação Especial
+
+Y.05
+
+- Fundo Nacional do Ensino Superior
+
+W.03
+
+- Universidade Federal do Rio de Janeiro ...........................
+
+775.000
+
+W.06
+
+- Universidade Federal de Goiás .......................................
+
+52.000
+
+W.07
+
+- Universidade Federal Fluminense ...................................
+
+20.000
+
+W.09
+
+- Universidade Federal de Juiz de Fora ..............................
+
+10.000
+
+W.10
+
+- Universidade Federal de Minas Gerais ............................
+
+90.000
+
+W.12
+
+- Universidade Federal da Paraíba ....................................
+
+22.000
+
+W.14
+
+- Universidade Federal de Pernambuco .............................
+
+650.000
+
+W.16
+
+- Universidade Federal do Rio Grande do Sul .....................
+
+200.000
+
+W.20
+
+- Universidade Federal de Santa Catarina ..........................
+
+50.000
+
+W.45
+
+- Escola de Minas de Ouro Prêto .....................................
+
+400.000
+
+W.22
+
+- Universidade Federal de São Paulo, com sede em São Carlos ............................................................................
+
+40.000
+
+TOTAL
+
+......................................................................................
+
+2.309.000
 
 Art. 2º O presente Decreto-Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

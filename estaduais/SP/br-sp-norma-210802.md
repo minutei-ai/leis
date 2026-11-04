@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210802)<br>
-
 # DECRETO N° 69.443, DE 26 DE MARÇO DE 2025
 
 ### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Hospital Regional do Circuito da Fé e Vale Histórico._

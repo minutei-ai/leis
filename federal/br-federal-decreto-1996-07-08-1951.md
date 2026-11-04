@@ -1,5 +1,3 @@
-###DEC-001951-0-000-08-07-1996@@@
-
 DECRETO Nº 1.951, DE 8 DE JULHO DE 1996
 
 Dispõe sobre o levantamento completo, em território nacional, do embargo à exportação de armas e equipamento militar aos Estados que integravam a antiga Iugoslávia, nos termos da Resolução nº 1021 (1995) do Conselho de Segurança das Nações Unidas.

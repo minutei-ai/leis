@@ -1,5 +1,3 @@
-###DEL-007424-0-000-27-03-1945@@@
-
 DECRETO-LEI N. 7.424 – DE 27 DE MARÇO DE 1945
 
 Extingue a Comissão Reorganizadora do I.A.P.C. e dá outras providências

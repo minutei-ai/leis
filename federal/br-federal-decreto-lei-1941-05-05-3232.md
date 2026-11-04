@@ -1,5 +1,3 @@
-###DEL-003232-0-000-05-05-1941@@@
-
 DECRETO-LEI N. 3.232 – DE 5 DE MAIO DE 1941
 
 Cria o Departamento de Administração do Ministério da Viação e Obras Públicas e dá outras providências

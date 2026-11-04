@@ -1,5 +1,3 @@
-###DEC-096756-0-000-22-09-1988@@@
-
 DECRETO N° 96.756, DE 22 DE SETEMBRO DE 1988
 
 Transforma em linhas, no regime de permissão, os serviços de que tratam os incisos I, IV, V e VI do art. 46 do Regulamento aprovado pelo Decreto nº 92.353, de 31 de janeiro de 1986.

@@ -1,5 +1,3 @@
-###DEC-057096-0-000-19-10-1965@@@
-
 DECRETO Nº 57.096, DE 19 DE OUTUBRO DE 1965.
 
 Dispõe sôbre o Regulamento para a eleição dos Representantes da Lavoura, na Junta Administrativa do IBC, a que se refere o art. 5º da Lei nº 1.179, de 22 de dezembro de 1952.

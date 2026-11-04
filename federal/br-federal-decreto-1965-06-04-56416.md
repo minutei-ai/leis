@@ -1,5 +1,3 @@
-###DEC-056416-0-000-04-06-1965@@@
-
 DECRETO Nº 56.416, DE 4 DE JUNHO DE 1965.
 
 Autoriza o cidadão brasileiro José Pinto dos Santos a pesquisar quartzo e mica, no município de São José da Safira, Estado de Minas Gerais.

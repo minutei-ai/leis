@@ -30,8 +30,10 @@ MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 17 de janeiro de 2022.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

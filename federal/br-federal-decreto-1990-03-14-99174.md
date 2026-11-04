@@ -1,7 +1,3 @@
-1
-
-###DEC-099174-0-000-14-03-1990@@@
-
 DECRETO N° 99.174, DE 14 DE MARÇO DE 1990
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de Furnas Centrais Elétricas S.A., nos Estados do Paraná e São Paulo.

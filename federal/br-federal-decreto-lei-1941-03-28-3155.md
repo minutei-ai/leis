@@ -1,5 +1,3 @@
-###DEL-003155-0-000-28-03-1941@@@
-
 DECRETO-LEI n. 3.355 – DE 28 DE MARÇO DE 1941
 
 Altera, o enunciado do item 14)/03) da subconsignação n. 02 – Consignação I, da Verba 5 do orçamento vigente do Ministério da Viação e Obras Públicas

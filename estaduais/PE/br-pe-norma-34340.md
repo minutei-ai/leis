@@ -34,11 +34,16 @@ ANTÔNIO CÉSAR CAÚLA REIS
 
 **“ANEXO ÚNICO (NR)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td valign="top" style="border:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">CANDIDATOS À POLÍCIA MILITAR E AO CORPO DE BOMBEIROS MILITAR DE PERNAMBUCO</p></td><td valign="top" style="border:solid windowtext 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">VALOR DA BOLSA-AUXÍLIO DE FORMAÇÃO PROFISSIONAL R$</p></td></tr><tr><td valign="top" style="border:solid windowtext 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">Curso de Formação de Oficiais</p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">2.200,00</p></td></tr><tr><td valign="top" style="border:solid windowtext 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">Curso de Formação e Habilitação de Praças</p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">1.100,00</p></td></tr></tbody></table>
+CANDIDATOS À POLÍCIA MILITAR E AO CORPO DE BOMBEIROS MILITAR DE PERNAMBUCO
+
+VALOR DA BOLSA-AUXÍLIO DE FORMAÇÃO PROFISSIONAL R$
+
+Curso de Formação de Oficiais
+
+2.200,00
+
+Curso de Formação e Habilitação de Praças
+
+1.100,00
 
 ”.

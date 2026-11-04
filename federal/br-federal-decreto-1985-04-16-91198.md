@@ -1,5 +1,3 @@
-###DEC-091198-0-000-16-04-1985@@@
-
 Decreto nº 91.198, de 16 de abril de 1985.
 
 Altera a redação da alínea "a", do artigo 12, do Decreto nº 66.204, de 13 de fevereiro de 1970, que regulamentou o Fundo Especial para Calamidades Públicas-FUNCAP.

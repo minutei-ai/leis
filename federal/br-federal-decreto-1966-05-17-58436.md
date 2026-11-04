@@ -1,5 +1,3 @@
-###DEC-058436-0-000-17-05-1966@@@
-
 DECRETO Nº 58.436, DE 17 DE MAIO DE 1966.
 
 Outorga à Centrais Elétricas do Amazonas S.A. concessão para distribuir energia elétrica.
@@ -39,8 +37,6 @@ Brasília, 17 de maio de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-058436-0-000-17-05-1966@@@RET01+++
 
 DECRETO Nº 58.436, DE 17 DE MAIO DE 1966.
 

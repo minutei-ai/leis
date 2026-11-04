@@ -1,5 +1,3 @@
-###DEC-051940-C-000-26-04-1963@@@
-
 DECRETO Nº 51.940, 26 DE ABRIL DE 1963.
 
 Retifica o Decreto nº 41.245, de 4 de abril de 1957.
@@ -19,8 +17,6 @@ Brasília, 26 de abril de 1963; 142º da Independência e 75º da República.
 Ranieri mazzilli
 
 Eliezer Batista da Silva
-
-###DEC-051940-C-000-26-04-1963@@@RET01+++
 
 DECRETO Nº 51.940-C, DE 26 DE ABRIL DE 1963.
 

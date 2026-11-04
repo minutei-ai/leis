@@ -1,5 +1,3 @@
-###DEC-078675-0-000-08-11-1976@@@
-
 DECRETO Nº 78.675, DE 8 DE NOVEMBRO DE 1976
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis de Curitibanos, com sede na cidade de Curitibanos, Estado de Santa Catarina.

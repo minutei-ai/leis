@@ -4,12 +4,14 @@ Institui o Programa Bolsa Atleta Aparecidense e dá outras providências.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA INSTITUIÇÃO E DOS OBJETIVOS
 
 Art. 1º Fica instituído o PROGRAMA BOLSA ATLETA APARECIDENSE com o objetivo de realizar projetos esportivos visando valorizar e beneficiar atletas amadores e atletas de alto rendimento representantes do Município de Aparecida de Goiânia em competições regionais, estaduais, nacionais e internacionais.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA COMPETÊNCIA, DOS VALORES, DA PERIODICIDADE, DA DURAÇÃO E DAS MODALIDADES
 
 Art. 2º Compete ao PROGRAMA BOLSA ATLETA APARECIDENSE conceder aos atletas amadores e de alto rendimento incentivos em dinheiro, cujos valores serão fixados por meio de Decreto expedido pelo chefe do Executivo.
@@ -18,17 +20,20 @@ Art. 3º A BOLSA ATLETA APARECIDENSE será concedida pelo prazo máximo de 10 (d
 
 Art. 4º As Modalidades de BOLSA ATLETA serão regulamentadas.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA NÃO EXISTÊNCIA DE VÍNCULO TRABALHISTA
 
 Art. 5º A concessão da BOLSA ATLETA APARECIDENSE não gera qualquer vínculo trabalhista entre os beneficiados e a administração pública municipal.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DOS REQUISITOS
 
 Art. 6º Os requisitos para pleitear a Bolsa Atleta Aparecidense serão regulamentados.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA ESTRUTURA, DO PROCEDIMENTO, DOS RECURSOS FINANCEIROS, DO NÚMERO DE BOLSAS ATLETAS
 
 Art. 7º Incumbe à Secretaria Municipal de Esportes, Lazer e Juventude coordenar e operacionalizar a concessão da Bolsa Atleta
@@ -41,7 +46,8 @@ Art. 10 As despesas decorrentes da concessão da Bolsa Atleta correrão por cont
 
 Art. 11 Os recursos do Programa Bolsa Atleta Aparecidense somente poderão ser utilizados para cobrir gastos com educação, alimentação, saúde, inscrições, passagens para eventos esportivos, transporte urbano e aquisição de material esportivo, devendo o beneficiado em contrapartida prestar serviços voltados ao Esporte, junto a Secretaria Municipal de Esporte, Lazer e Juventude.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO DESLIGAMENTO DO PROGRAMA
 
 Art. 12 Serão desligados do Programa os atletas que: Não apresentarem a documentação comprovando suas participações nas competições previstas no projeto; Quando convocados, não participarem das competições sem justificativa convincente;
@@ -64,11 +70,14 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 11 de
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil
 
-GERFESON ARAGÃO<br>
+GERFESON ARAGÃO
+
 Secretário de Esporte, Lazer e Juventude

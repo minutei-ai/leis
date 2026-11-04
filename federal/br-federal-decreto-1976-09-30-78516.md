@@ -1,5 +1,3 @@
-###DEC-078516-0-000-30-09-1976@@@
-
 DECRETO Nº 78.516, DE 30 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Matemática, de Letras, de Estudos Sociais e de Pedagogia, ministrados pela Faculdade de Filosofia, Ciências e Letras Nove de Julho, com sede na Cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-009445-0-000-11-07-1946@@@
-
 DECRETO-LEI N. 9.445 – DE 11 DE JULHO DE 1946
 
 Autoriza o Ministério da Fazenda a entregar títulos da Dívida Pública Federal à Prefeitura do Distrito Federal, para o fim que menciona.

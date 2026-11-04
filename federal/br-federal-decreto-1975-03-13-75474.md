@@ -1,5 +1,3 @@
-###DEC-075474-0-000-13-03-1975@@@
-
 DECRETO Nº 75.474, DE 13 DE MARÇO DE 1975.
 
 Altera a denominação da Comissão Interministerial para Facilitação do Transporte Aéreo Internacional para Comissão Nacional para a Facilitação do Transporte Aéreo Internacional e dá outras providências.

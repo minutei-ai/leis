@@ -1,5 +1,3 @@
-###DEC-046549-0-000-07-08-1959@@@
-
 DECRETO Nº 46.549, DE 7 DE AGÔSTO DE 1959.
 
 Concede à Companhia Paranaense de Seguros Gerais autorização para funcionar e aprova os seus Estatutos.

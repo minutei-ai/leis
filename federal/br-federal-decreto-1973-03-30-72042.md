@@ -1,5 +1,3 @@
-###DEC-072042-0-000-30-03-1973@@@
-
 Decreto nº 72.042, de 30 de março de 1973
 
 Concede à Mineração Indústria e Comércio Barni Limitada, o direito de lavrar calcário no Município de Vidal Ramos, Estado de Santa Catarina.

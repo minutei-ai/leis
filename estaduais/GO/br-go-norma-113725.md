@@ -16,18 +16,126 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO</b><br>3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DOS SERVIÇOS DO PRONATEC</td><td style=" width:85px;    ">19 363 1054 2392</td><td style=" width:85px;    ">25690115</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.126.000,00</td><td style=" width:85px;    ">R$ 318.933,50</td><td style=" width:85px;    ">R$ 1.444.933,50</td></tr></tbody></table>
+**3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO**
+3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2500 - SECRETARIA DE ESTADO DE CULTURA</b><br>2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOMENTO E INCENTIVO À&nbsp; CULTURA GOIANA</td><td style=" width:85px;    ">13 392 1026 2098</td><td style=" width:85px;    ">27190001</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.372.234,65</td><td style=" width:85px;    ">R$ 39.996.381,15</td><td style=" width:85px;    ">R$ 42.368.615,80</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4250-FUNDO ESTADUAL DO TRABALHO</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONTRIBUIÇÕES AO PASEP</td><td style=" width:85px;    ">28 846 0100 7102</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 5.000,00</td><td style=" width:85px;    ">R$ 5.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 5.000,00</td></tr><tr><td style=" width:340px;    ">25690115 - OUTRAS TRANSFERÊNCIAS DE RECURSOS DO FNDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 318.933,50</td></tr><tr><td style=" width:340px;    ">27190001 - TRANSFERÊNCIAS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À&nbsp; CULTURA - LEI Nº&nbsp; 14.399/2022 - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 39.996.381,15</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 40.320.314,65</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO DOS SERVIÇOS DO PRONATEC
+
+19 363 1054 2392
+
+25690115
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.126.000,00
+
+R$ 318.933,50
+
+R$ 1.444.933,50
+
+**2500 - SECRETARIA DE ESTADO DE CULTURA**
+2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOMENTO E INCENTIVO À  CULTURA GOIANA
+
+13 392 1026 2098
+
+27190001
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.372.234,65
+
+R$ 39.996.381,15
+
+R$ 42.368.615,80
+
+**4250-FUNDO ESTADUAL DO TRABALHO**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONTRIBUIÇÕES AO PASEP
+
+28 846 0100 7102
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 5.000,00
+
+R$ 5.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 5.000,00
+
+25690115 - OUTRAS TRANSFERÊNCIAS DE RECURSOS DO FNDE - EXERCÍCIOS ANTERIORES
+
+R$ 318.933,50
+
+27190001 - TRANSFERÊNCIAS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À  CULTURA - LEI Nº  14.399/2022 - EXERCÍCIOS ANTERIORES
+
+R$ 39.996.381,15
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 40.320.314,65

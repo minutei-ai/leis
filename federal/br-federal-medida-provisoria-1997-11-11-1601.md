@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a1d3163e-0140-4c3c-9e81-3582d22aaaf8/texto#nowhere)
 
-###MPV-001601-0-000-11-11-1997@@@
-
 # medida provisória nº 1.601, de 11 de novembro de 1997
 
 Cria o Fundo de Garantia para Promoção da Competitividade - FGPC, e dá outras providências.

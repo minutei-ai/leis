@@ -1,5 +1,3 @@
-###DEC-078069-0-000-15-07-1976@@@
-
 DECRETO Nº 78.069, DE 15 DE JULHO DE 1976.
 
 Concede reconhecimento à Escola Superior de Enfermagem da Universidade de Mogi das Cruzes, com sede na Cidade de Mogi das Cruzes - Estado de São Paulo.

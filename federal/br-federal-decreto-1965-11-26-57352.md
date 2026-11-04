@@ -1,5 +1,3 @@
-###DEC-057352-0-000-26-11-1965@@@
-
 decreto nº 57.352, de 26 de novembro de 1965.
 
 Concede nacionalização à sociedade anônima Refinações de Milho, Brazil, sob a nova forma social de Refinações de milho, Brasil Ltda.

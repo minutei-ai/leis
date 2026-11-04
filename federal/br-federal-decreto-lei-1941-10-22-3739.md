@@ -1,5 +1,3 @@
-###DEL-003739-0-000-22-10-1941@@@
-
 DECRETO-LEI N. 3.739 – DE 22 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 24.000:000$0 para obras e aquisições de material na Estrada de Ferro Dona Teresa Cristina

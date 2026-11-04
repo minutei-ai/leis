@@ -1,5 +1,3 @@
-###DEC-050962-0-000-17-07-1961@@@
-
 decreto nº 50.962, de 17 de julho de 1961.
 
 Autoriza o Ministério das Relações Exteriores a promover a adesão da Diretoria de Hidrografia e Navegação à Association Inernacionale de Signalisation Marítime.

@@ -1,5 +1,3 @@
-###DEC-065173-0-000-16-09-1969@@@
-
 DECRETO Nº 65.173 - DE 16 DE SETEMBRO DE 1969.
 
 Decreta a intervenção federal no Município de Salgadinho, no Estado de Pernambuco, e dá outras providências.

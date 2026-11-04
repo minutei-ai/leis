@@ -1,5 +1,3 @@
-###DEC-084684-0-000-05-05-1980@@@
-
 Decreto nº 84.684, de 05 de maio de 1980
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais de propriedade particular, situados na área prioritária de reforma agrária, de que trata o Decreto nº 84.523 de 3 de março de 1980.

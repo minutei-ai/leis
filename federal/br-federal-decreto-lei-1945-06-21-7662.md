@@ -1,5 +1,3 @@
-###DEL-007662-0-000-21-06-1945@@@
-
 DECRETO-LEI N. 7.662 – DE 21 DE JUNHO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 340.000,00, para o serviço de assinatura das “Obrigações de Guerra”

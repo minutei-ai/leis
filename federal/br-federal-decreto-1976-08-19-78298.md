@@ -1,5 +1,3 @@
-###DEC-078298-0-000-19-08-1976@@@
-
 Decreto nº 78.298, de 19 de Agosto de 1976.
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplinas Especializadas para o ensino de 2º grau, Esquema I, com sede na cidade de Teresina, Estado do Piauí.

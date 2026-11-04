@@ -1,5 +1,3 @@
-###DEL-006672-0-000-10-07-1944@@@
-
 DECRETO-LEI N. 6.672 – DE 10 DE JULHO DE 1944
 
 Abre o crédito suplementar de Cr$ 100.000,00 à dotação que especifica

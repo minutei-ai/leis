@@ -1,5 +1,3 @@
-###DEC-062248-0-000-09-02-1968@@@
-
 DECRETO Nº 62.248, DE 9 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública o “Centro Social Stella Maris”, com sede em Florianópolis, Estado de Santa Catarina.

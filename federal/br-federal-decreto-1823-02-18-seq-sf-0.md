@@ -1,5 +1,3 @@
-###DEC-000000-0-000-18-02-1823@@@
-
 DECRETO - DE 18 DE FEVEREIRO DE 1823
 
 Declara que os brazileiros que estiverem estudando na Universidade de Coimbra não estão comprehendidos na proclamação de 8 de Janeiro ultimo.

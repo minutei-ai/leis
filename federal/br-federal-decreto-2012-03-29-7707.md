@@ -1,5 +1,3 @@
-###DEC-007707-0-000-29-03-2012-PUB-01@@@
-
 DECRETO N° 7.707, DE 29 DE MARÇO DE 2012
 
 Altera os Anexos VII, VIII e X ao Decreto n° 7.680, de 17 de fevereiro de 2012, que dispõe sobre a programação orçamentária e financeira, estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2012 e dá outras providências.

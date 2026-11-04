@@ -1,5 +1,3 @@
-###DEL-003661-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.661 – DE 25 DE SETEMBRO DE 1941
 
 Transfere ao Montepio dos Empregados Municipais, o domínio util do terreno situado à rua São Pedro n. 350, na Capital Federal

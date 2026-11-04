@@ -1,16 +1,14 @@
-###DEC-043120-0-000-28-01-1958@@@
+**DECRETO Nº 43.120, DE 28 DE JANEIRO DE 1959.**
 
-<strong>DECRETO Nº 43.120, DE 28 DE JANEIRO DE 1959.</strong>
+***Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão da Companhia Hidro Elétrica do São Francisco, de13.8kV, a operar futuramente em 66 kV, de Pesqueira a Arcoverde, no Estado de Pernambuco.***
 
-<em><strong>Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão da Companhia Hidro Elétrica do São Francisco, de13.8kV, a operar futuramente em 66 kV, de Pesqueira a Arcoverde, no Estado de Pernambuco.</strong></em>
+**O PRESIDENTE DA RUPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista do disposto no art. 151, letras *b* e *c*, do Código de Águas e no Decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidro Elétrica do São Francisco,
 
-<strong>O PRESIDENTE DA RUPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista do disposto no art. 151, letras <em>b</em> e <em>c</em>, do Código de Águas e no Decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidro Elétrica do São Francisco,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É declarada de utilidade pública a faixa de terra destinada à passagem aérea ou subterrânea, da linha de transmissão de energia elétrica de 13.8 kV, a operar futuramente em 66 kV, da Companhia Hidro Elétrica do São Francisco, com 50 metros de largura, de Pesqueira, no km 0, a Arcoverde, no km 37, no Estado de Pernambuco.
 
-<strong>Art</strong>. 1º É declarada de utilidade pública a faixa de terra destinada à passagem aérea ou subterrânea, da linha de transmissão de energia elétrica de 13.8 kV, a operar futuramente em 66 kV, da Companhia Hidro Elétrica do São Francisco, com 50 metros de largura, de Pesqueira, no km 0, a Arcoverde, no km 37, no Estado de Pernambuco.
-
-<strong>Art</strong>. 2º A faixa de terra descrita no artigo anterior compreende as áreas constantes da planta aprovada pelo Ministério da Agricultura, no Processo D. Ag. nº 3.384-57 situadas no Estado de Pernambuco de propriedade atribuída às pessoas abaixo relacionadas na ordem em que se encontram ao longo do traçado da linha.
+**Art**. 2º A faixa de terra descrita no artigo anterior compreende as áreas constantes da planta aprovada pelo Ministério da Agricultura, no Processo D. Ag. nº 3.384-57 situadas no Estado de Pernambuco de propriedade atribuída às pessoas abaixo relacionadas na ordem em que se encontram ao longo do traçado da linha.
 
 Município de Pesqueira
 
@@ -144,22 +142,22 @@ Município de Arcoverde
 
 73 - Área de 116.850 (cento e dezesseis mil, oitocentos e cinqüenta) m² de Milton do Rêgo Barros Didier.
 
-<strong>Art</strong>. 3º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal o fizer necessário para a passagem da linha de transmissão referida no art. 1º.
+**Art**. 3º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal o fizer necessário para a passagem da linha de transmissão referida no art. 1º.
 
-<strong>Art</strong>. 4º Quando não fôr necessário proceder-se à desapropriação do domínio pleno, fica reconhecida a conveniência da constituição de servidão necessária em favor da Companhia e para o fim indicado, a qual compreende o direito atribuído à emprêsa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções, sendo-lhe assegurado ainda o acesso à área da servidão através do prédio serviente, desde que não haja outra via praticável.
+**Art**. 4º Quando não fôr necessário proceder-se à desapropriação do domínio pleno, fica reconhecida a conveniência da constituição de servidão necessária em favor da Companhia e para o fim indicado, a qual compreende o direito atribuído à emprêsa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções, sendo-lhe assegurado ainda o acesso à área da servidão através do prédio serviente, desde que não haja outra via praticável.
 
 § 1º Os proprietários das áreas de terras atingidas pelo ônus limitarão o uso e gôzo das mesmas ao que fôr compatível com a existência da servidão, obstendo-se, em conseqüência, de praticar, dentro das mesmas quaisquer atos que embaracem ou lhe causem dano, incluídos entre êles os de erguer construções ou de fazer plantações de elevado porte.
 
 § 2º A Companhia Hidro Elétrica fica autorizada a promover, no caso de embaraço oposto pelos proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento, podendo utilizar-se inclusive do processo de desapropriação, nos têrmos do art. 40 do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 5º Nos têrmos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.736, de 21 de maio de 1956, a promoção da servidão ou da desapropriação das áreas de terra constantes dêste decreto, é declarada de caráter urgente.
+**Art**. 5º Nos têrmos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.736, de 21 de maio de 1956, a promoção da servidão ou da desapropriação das áreas de terra constantes dêste decreto, é declarada de caráter urgente.
 
-<strong>Art</strong>. 6º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 28 de janeiro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

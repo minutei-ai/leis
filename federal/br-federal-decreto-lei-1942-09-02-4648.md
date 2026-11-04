@@ -1,5 +1,3 @@
-###DEL-004648-0-000-02-09-1942@@@
-
 DECRETO-LEI N. 4.648 – DE 2 DE SETEMBRO DE 1942
 
 Incorpora ao patrimônio nacional os bens e direitos das empresas da chamada “Organização Lage” e do espólio de Henrique Lage, a dá outras providências.

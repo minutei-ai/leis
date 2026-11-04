@@ -1,5 +1,3 @@
-###DEL-008394-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.394 – DE 17 DE DEZEMBRO DE 1945
 
 Altera disposições do Decreto-lei número 6.141, de 28 de dezembro de 1943.

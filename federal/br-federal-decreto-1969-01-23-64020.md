@@ -1,5 +1,3 @@
-###DEC-064020-0-000-23-01-1969@@@
-
 DECRETO Nº 64.020, DE 23 DE JANEIRO DE 1969.
 
 Concede à Mineração Mato Grosso Ltda. o direito de lavrar minérios de ferro e de manganês, no município de Ladário, Estado de Mato Grosso.

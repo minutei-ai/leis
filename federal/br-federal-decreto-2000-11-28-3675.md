@@ -1,5 +1,3 @@
-###DEC-003675-0-000-28-11-2000@@@
-
 Decreto nº 3675, de 28 de novembro de 2000
 
 Dispõe sobre medidas especiais relacionadas com o registro de medicamentos genéricos, de que trata o art. 4º da Lei n.º 9.787, de 10 de fevereiro de 1999.

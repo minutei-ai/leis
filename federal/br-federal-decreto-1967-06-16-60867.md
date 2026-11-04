@@ -1,5 +1,3 @@
-###DEC-060867-0-000-16-06-1967@@@
-
 DECRETO Nº 60.867, DE 16 DE JUNHO DE 1967.
 
 Cria um cargo em comissão de Diretor no Colégio Pedro II, unidade Externato.

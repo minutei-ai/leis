@@ -1,5 +1,3 @@
-###DEC-094433-0-000-11-06-1987@@@
-
 DECRETO Nº 94.433, DE 11 DE JUNHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra de benfeitorias, necessárias à implantação do canteiro de obras, bem como do trecho inicial do reservatório da usina hidrelétrica de Itá, da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, nos Estados de Santa Catarina e Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-007814-0-000-01-08-1945@@@
-
 DECRETO-LEI  N. 7.814 – DE 1 DE AGÔSTO DE 1945
 
 Dispõe sôbre as carreiras de Engenheiro, Engenheiro de Minas e Tecnologista do Ministério da Agricultura e dá outras providências.

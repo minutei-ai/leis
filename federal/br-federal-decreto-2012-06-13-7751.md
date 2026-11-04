@@ -1,5 +1,3 @@
-###DEC-007751-0-000-13-06-2012-PUB-01@@@
-
 DECRETO N°\- 7.751, DE 13 DE JUNHO DE 2012
 
 Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

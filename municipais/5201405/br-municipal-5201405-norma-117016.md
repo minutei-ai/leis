@@ -10,11 +10,14 @@ Art. 2º - Esta entrara em vigor na data de sua publicação, revogando-se as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos três dias do mês de julho de um mil novecentos e noventa e um.
 
-SEBATIÃO LEMES VIANA<br>
+SEBATIÃO LEMES VIANA
+
 PREFEITO MUNICIPAL
 
-PAULO REGIS MATOS VALADARES<br>
+PAULO REGIS MATOS VALADARES
+
 SEC.DE GOVERNO MUNICIPAL
 
-DIVA DALVA ALVES<br>
+DIVA DALVA ALVES
+
 SEC.DE EDUCAÇÃO

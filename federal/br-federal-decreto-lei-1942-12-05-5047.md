@@ -1,5 +1,3 @@
-###DEL-005047-0-000-05-12-1942@@@
-
 DECRETO-LEI N. 5.047 – DE 5 DE DEZEMBRO DE 1942
 
 Dispõe sobre concessão de licença a ocupante de cargo em comissão

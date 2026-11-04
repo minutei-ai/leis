@@ -1,5 +1,3 @@
-###DEC-003317-0-000-30-12-1999@@@
-
 DECRETO Nº 3.317, DE 30 DE DEZEMBRO DE 1999.
 
 Altera a Lista Básica de Exceções Tarifa Externa Comum (TEC), do MERCOSUL.

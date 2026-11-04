@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212082)<br>
-
 # LEI N° 18.373, DE 23 DE DEZEMBRO DE 2025
 
 ### _Dispõe sobre a extinção de cargos do Quadro do Tribunal de Justiça do Estado de São Paulo._

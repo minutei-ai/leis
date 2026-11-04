@@ -1,5 +1,3 @@
-###DEC-005865-0-000-01-08-2006@@@
-
 DECRETO Nº 5.865, DE 1º DE AGOSTO DE 2006.
 
 Promulga o Acordo de Cooperação para a Conservação e o Uso Sustentável da Flora e da Fauna Silvestres dos Territórios Amazônicos da República Federativa do Brasil e da República do Peru, celebrado em Lima, em 25 de agosto de 2003.
@@ -24,11 +22,7 @@ Brasília, 1º de agosto de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 2.8.2006
-
-ACORDO DE COOPERAÇÃO PARA A CONSERVAÇÃO E O USO SUSTENTÁVEL
+        Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO PARA A CONSERVAÇÃO E O USO SUSTENTÁVEL
 
 DA FLORA E DA FAUNA SILVESTRES DOS TERRITÓRIOS AMAZÔNICOS DA
 

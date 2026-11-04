@@ -1,5 +1,3 @@
-###DEC-064071-0-000-07-02-1969@@@
-
 DECRETO Nº 64.071, DE 7 DE FEVEREIRO DE 1969.
 
 Transfere da Prefeitura Municipal de Lage para a Companhia de Eletricidade do Estado da Bahia a concessão para produzir, transmitir e distribuir energia elétrica no Município de Lage, Estado da Bahia.

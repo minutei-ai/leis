@@ -1,5 +1,3 @@
-###MPV-001811-0-002-22-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.811-2, DE 22 DE ABRIL DE 1999.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliaria e outras que específica, de responsabilidade dos Municípios.

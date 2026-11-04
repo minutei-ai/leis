@@ -1,5 +1,3 @@
-###DEC-047567-A-000-31-12-1959@@@
-
 Decreto nº 47.567-A, de 31 de dezembro de 1959.
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$28.500.000,00 (vinte e oito milhões e quinhentos mil cruzeiros), para atender ao pagamento de juros e ao resgate de que trata o Decreto nº 33.712, de 1º de setembro de 1953 e juros de que trata o Decreto nº 34.451, de 4 de novembro de 1953.

@@ -1,5 +1,3 @@
-###DEL-002316-0-000-23-12-1986@@@
-
 # DECRETO-LEI Nº 2.316, DE 23 DE DEZEMBRO DE 1986
 
 Introduz alterações no Código Tributário do Distrito Federal, instituído pelo Decreto-lei nº 82, de 26 de dezembro de 1966.
@@ -88,7 +86,37 @@ V - O valor da operação de que decorrer o fornecimento, na hipótese prevista 
 
 I - o valor da operação promovida pelo responsável, acrescido da margem estimada de lucro do comerciante varejista, obtida mediante aplicação dos percentuais abaixo sobre aquele valor:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>a) material de construção</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- 20%</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>b) cosméticos</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- 30%</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>c) gêneros alimentícios</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- 15%</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>d) bebidas em geral</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- 50%</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>e) medicamentos</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- 30%</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>f) vestuário</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- 35%</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>g) móveis</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- 40%</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>h) outras mercadorias ou produtos</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- 20%</span></p></td></tr></tbody></table>
+a) material de construção
+
+- 20%
+
+b) cosméticos
+
+- 30%
+
+c) gêneros alimentícios
+
+- 15%
+
+d) bebidas em geral
+
+- 50%
+
+e) medicamentos
+
+- 30%
+
+f) vestuário
+
+- 35%
+
+g) móveis
+
+- 40%
+
+h) outras mercadorias ou produtos
+
+- 20%
 
 II - o valor da operação promovida pelo responsável acrescido da margem de lucro atribuída ao revendedor, no caso de mercadoria com preço de venda, máximo ou único, marcado pelo fabricante ou fixado pela autoridade competente.
 

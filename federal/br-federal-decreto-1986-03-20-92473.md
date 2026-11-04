@@ -1,5 +1,3 @@
-###DEC-092473-0-000-20-03-1986@@@
-
 DECRETO Nº 92.473, DE 20 DE MARÇO DE 1986
 
 Concede autorização à LINEA AEREA NACIONAL-CHILE SOCIEDAD ANONIMA, LAN CHILE S.A. para continuar a funcionar no Brasil e altera a cláusula "g" que acompanhou o Decreto nº 63.088, de 06 de agosto de 1968.

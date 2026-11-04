@@ -1,5 +1,3 @@
-###DEC-080109-0-000-09-08-1977@@@
-
 DECRETO Nº 80.109, DE 9 DE AGOSTO DE 1977.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nas Cidades de Belém, Estado do Pará e Rio de Janeiro, Estado do Rio de Janeiro.

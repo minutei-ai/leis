@@ -1,5 +1,3 @@
-###DEC-047944-0-000-17-03-1960@@@
-
 DECRETO Nº 47.944, DE 17 DE MARÇO DE 1960.
 
 Cria o Consulado Honorário do Brasil em Arequipa, Peru.

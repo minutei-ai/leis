@@ -1,5 +1,3 @@
-###DEC-073423-0-000-07-01-1974@@@
-
 decreto nº 73.423, de 7 de janeiro de 1974.
 
 Dispõe sobre o cumprimento da Lei nº 5.958, de 10 de dezembro de 1973.

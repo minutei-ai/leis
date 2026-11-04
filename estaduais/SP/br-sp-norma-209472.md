@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209472)<br>
-
 # DECRETO N° 68.553, DE 22 DE MAIO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 468 da Rodovia SP-284, no Município de Paraguaçu Paulista, e dá providências correlatas._

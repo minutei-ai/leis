@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209796)<br>
-
 # DECRETO N° 68.738, DE 01 DE AGOSTO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação e instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área e as faixas de terra necessárias à instalação de estação elevatória de esgoto e coletor tronco, integrantes do Sistema de Esgotamento Sanitário - S.E.S., na Vila Paulista/Cidade Tiradentes, no Município de São Paulo, e dá providências correlatas._

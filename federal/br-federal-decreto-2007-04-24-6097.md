@@ -1,5 +1,3 @@
-###DEC-006097-0-000-24-04-2007@@@
-
 DECRETO Nº 6.097, DE 24 DE ABRIL DE 2007.
 
 Acresce dispositivos aos Decretos nos 3.035, de 27 de abril de 1999, e 4.175, de 27 de março de 2002.
@@ -25,5 +23,3 @@ LUIZ INÁCIO LULA DA SILVA
 Fernando Haddad
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 25.4.2007

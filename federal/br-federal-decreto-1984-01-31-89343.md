@@ -1,5 +1,3 @@
-###DEC-089343-0-000-31-01-1984@@@
-
 Decreto nº 89.343 de 31 de janeiro de 1984
 
 Outorgada Revoga a concessão RÁDIO CLUBE DE TERESINA S.A. para executar serviço de radiodifusão sonora em onda tropical, na cidade de resina, Estado do Piauí.

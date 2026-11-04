@@ -1,7 +1,3 @@
-1
-
-###MPV-001478-0-000-05-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.478, DE 5 DE JUNHO DE 1996.
 
 Dá nova redação aos arts. 9º da Lei nº 8.036, de 11 de maio de 1990, e 2º da Lei nº 8.844, de 20 de janeiro de 1994.

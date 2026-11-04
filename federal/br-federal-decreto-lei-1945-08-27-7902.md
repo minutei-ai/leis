@@ -1,5 +1,3 @@
-###DEL-007902-0-000-27-08-1945@@@
-
 DECRETO-LEI N. 7.902 – DE 27 DE AGÔSTO DE 1945
 
 Dispõe sôbre a aposentadoria Valdir Santana

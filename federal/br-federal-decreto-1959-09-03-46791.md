@@ -1,5 +1,3 @@
-###DEC-046791-0-000-03-09-1959@@@
-
 Decreto nº 46.791, de 3 de setembro de 1959.
 
 Cria, nos Quadros do Instituto Brasileiro de Geografia e Estatística, o cargo isolado, de provimento efetivo, de Analista Econômico.

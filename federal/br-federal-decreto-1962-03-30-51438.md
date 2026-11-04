@@ -1,5 +1,3 @@
-###DEC-051438-0-000-30-03-1962@@@
-
 DECRETO Nº 51.438, DE 30 DE MARÇO DE 1962.
 
 Aprova o aumento de capital e a reforma estatutaria promovida pelo Banco do Estado de São Paulo S. A ., bem como prorroga o prazo da concessão para funcionar.

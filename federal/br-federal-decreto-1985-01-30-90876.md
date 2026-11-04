@@ -1,5 +1,3 @@
-###DEC-090876-0-000-30-01-1985@@@
-
 DECReTo Nº 90.876, de 30 de janeiro dE 1985
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Ciências Sociais Aplicadas de Foz do Iguaçu - Paraná.

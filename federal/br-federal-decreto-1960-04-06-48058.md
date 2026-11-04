@@ -1,5 +1,3 @@
-###DEC-048058-0-000-06-04-1960@@@
-
 Decreto nº 48.058, de 6 de abril de 1960.
 
 Cria o 1º Batalhão de Guardas.

@@ -1,5 +1,3 @@
-###DEC-093656-0-000-05-12-1986@@@
-
 DECRETO Nº 93.656, DE 5 DE DEZEMBRO DE 1986
 
 Declara de utilidade pública para fins de desapropriação, os imóveis que menciona, situados em Alcântara, Estado do Maranhão.

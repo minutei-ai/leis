@@ -1,5 +1,3 @@
-###DEL-000124-0-000-31-01-1967@@@
-
 DECRETO-LEI Nº 124, DE 31 DE jANEiRo DE 1967
 
 Altera a redação do art. 22 do Decreto-lei nº 79, de 19 de dezembro de 1966.

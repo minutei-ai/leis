@@ -1,5 +1,3 @@
-###LEI-000000-0-000-18-09-1828@@@
-
 LEI - DE 18 DE SETEMBRO DE 1828
 
 Crêa o Supremo Tribunal de Justiça e declara suas attribuições.

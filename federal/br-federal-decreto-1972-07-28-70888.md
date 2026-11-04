@@ -1,5 +1,3 @@
-###DEC-070888-0-000-28-07-1972@@@
-
 DECRETO Nº 70.888, DE 28 DE JULHO DE 1972.
 
 Concede reconhecimento ao Curso de Engenharia de Operações da Faculdade de Engenharia - Rio - GB.

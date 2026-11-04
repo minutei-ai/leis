@@ -1,5 +1,3 @@
-###DEC-048486-0-000-09-07-1960@@@
-
 DECRETO Nº 48.486, DE 9 DE JULHO DE 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista do Instituto de Fermentação do Ministério da Agricultura, para a Tabela Única de Extranumerário-mensalista do Ministério da Fazenda.

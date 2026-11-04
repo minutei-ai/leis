@@ -1,5 +1,3 @@
-###DEC-045498-0-000-26-02-1959@@@
-
 decreto nº 45.498, de 26 de fevereiro de 1959.
 
 Autoriza o cidadão brasileiro Lourival Cardoso Gomes a pesquisar areias ilmeníticas e associados no município de Primeira Cruz, Estado do Maranhão.

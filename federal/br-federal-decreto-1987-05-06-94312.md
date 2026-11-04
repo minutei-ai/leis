@@ -1,5 +1,3 @@
-###DEC-094312-0-000-06-05-1987@@@
-
 DECRETO Nº 94.312, DE 6 DE MAIO DE 1987
 
 Outorga concessão à TELEVISÃO JOAÇABA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Joaçaba, Estado de Santa Catarina.

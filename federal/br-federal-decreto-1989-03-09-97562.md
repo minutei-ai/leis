@@ -1,5 +1,3 @@
-###DEC-097562-0-000-09-03-1989@@@
-
 DECRETO N° 97.562, DE 9 DE MARÇO DE 1989
 
 Altera o Regulamento da Medalha Militar.

@@ -1,5 +1,3 @@
-###DEC-094712-0-000-31-07-1987@@@
-
 DECRETO Nº 94.712, DE 31 DE JULHO DE 1987.
 
 Fixa cargos privativos de Oficial-General da Aeronáutica, em tempo de paz, e dá outras providências.

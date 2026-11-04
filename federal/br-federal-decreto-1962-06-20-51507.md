@@ -1,5 +1,3 @@
-###DEC-051507-0-000-20-06-1962@@@
-
 DECRETO Nº 51.507, DE 20 DE JUNHO DE 1962.
 
 Retifica o Decreto nº 50.953, de 14 de junho de 1961.

@@ -1,5 +1,3 @@
-###DEL-007741-0-000-13-07-1945@@@
-
 DECRETO-LEI N. 7.741 – DE 13 DE JULHO DE 1945
 
 Dispõe sôbre a carreira de Oficial Administrativo do Ministério da Educação e Saúde.

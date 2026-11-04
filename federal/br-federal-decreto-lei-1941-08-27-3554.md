@@ -1,5 +1,3 @@
-###DEL-003554-0-000-27-08-1941@@@
-
 DECRETO-LEI N. 3.554 – DE 27 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de 300 :000$0, à verba que especifica

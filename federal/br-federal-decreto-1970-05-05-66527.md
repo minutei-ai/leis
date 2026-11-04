@@ -1,5 +1,3 @@
-###DEC-066527-0-000-05-05-1970@@@
-
 decreto nº 66.527, de 5 de maio de 1970.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a Usina de Salto Grande, no município de Salto Grande, Estado de São Paulo, até a subestação de Londrina, no município do mesmo nome, Estado do Paraná.

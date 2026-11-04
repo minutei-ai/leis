@@ -1,5 +1,3 @@
-###DEC-073752-0-000-06-03-1974@@@
-
 DECRETO Nº 73.752, DE 6 DE MARÇO DE 1974
 
 Declara a cessação de aproveitamento hidroelétrico, revoga decreto e outorga concessão.

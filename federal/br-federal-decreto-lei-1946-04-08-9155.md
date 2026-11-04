@@ -1,5 +1,3 @@
-###DEL-009155-0-000-08-04-1946@@@
-
 DECRETO-LEI N. 9.155 – DE 8 DE ABRIL DE 1946
 
 Cria a Universidade da Bahia e dá outras providências

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/48545ef9-9b34-4ea3-898e-31e013272c07/texto#nowhere)
 
-###DEL-000082-0-000-26-12-1966@@@
-
 decreto-lei nº 82, de 26 de dezembro DE 1966
 
 Regula o Sistema Tributário do Distrito Federal e dá outras providências.
@@ -706,7 +704,301 @@ Art. 93. O impôsto sôbre serviços referentes às atividades compreendidas no 
 
 I - Emprêsa comercial ou civil, individual ou coletiva que explore negócio de:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>fornecimento de trabalho:</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.2</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>alfaiatarias, "</span><span style="font-style:italic">ateliers</span><span>" de moda e costura e de confecção sob encomenda..................................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.2</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de engenharia, arquitetura, construção, projeto reforma, pintura e decoração de móveis e de planejamento ou execução de obras congêneres, por adminstração ou empreitada....................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.3</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>escritório de advocacia.................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.4</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>oficinas mecânicas ou de colocação, substituição ou reparo de peças, pintura, estofamento ou acessórios em veículos.........................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.5</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>oficinas de reparos, consêrto, pintura, estofamento ou reforma de quaisquer objetos........................................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.6</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas funerárias.....................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.7</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>serviços óticos em geral...............................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.8</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>barbearias e institutos de beleza...................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.9</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de turismo e de viagens.................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.10</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de loteamento, venda, cessão ou locação de imóveis, quando operarem como intermediários entre as partes contratantes.............................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.11</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de publicidade e de propaganda.....................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>4%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.12</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>laboratórios de análises médicas, raio X, eletrocardiografia e serviços similares.....................................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.13</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>lavagem e lubrificação de veículos, excetuado o preço dos combustíveis e lubrificantes fornecidos ................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>5%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.14</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>oficinas de vulcanização e recapagem de pneumáticos ...................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.15</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>estabelecimentos de fisioterapia, de educação física e de saunas ...................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.16</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>serviços gerais de manutenção e conservação de máquinas e aparelhos ..........</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.17</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>"</span><span style="font-style:italic">ateliers</span><span>” fotográficos e emprêsas de gravação em fita magnética ou disco fonográfico, para efeitos comerciais ou de interêsse de particulares, inclusive coberturas fotográficas cinematográficas de festas, solenidades e outros eventos, ainda que o prestador de serviços seja profissional autônomo.............</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.18</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>lavanderias e tinturarias................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.19</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>tipografias, serviços gráficos e de encadernação.............................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.20</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsa de administração e conservação de imóveis......................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.21</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas concessionárias de serviços de utilidade pública..............................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.22</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>escritórios de comissões e representações inclusive despachante junto aos órgãos públicos............................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.23</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>restaurantes, bares e cafés...........................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>6%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.24</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>fornecimento de alimentação a domicílio........................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.25</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>colégios e escolas de música, idiomas, datilografia, motorista e quaisquer outros cursos preparatórios ou particulares.....................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>1%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>locação de bens móveis:</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.1</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de locação, cessão ou distribuição de filmes cinematográficos, com ou sem participação nas rendas de exibições.................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>4%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.2</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de locação de máquinas, aparelhos, objetos diversos ou quaisquer outros bens móveis......................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.3</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de locação de veículos..................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Locação de espaços em imóveis:</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>hotéis, pensões, hospedarias, motéis e casas de cômodos.............................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.2</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>armazéns-gerais, depósitos e frigoríficos de aluguel........................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.3</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>cofres fortes de aluguel.................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.4</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>guarda móveis..............................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.5</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>outros tipos de locação de espaço em imóveis a qualquer título.......................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>jogos e diversões públicas:</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.1</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>bilhares, boliches, bochas e demais jogos permitidos......................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>5%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.2</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>hipódromos..................................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>15%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.3</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>parques de diversões....................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>15%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.4</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>cabarés, “</span><span style="font-style:italic">nights-clubs</span><span>", "boites" e “</span><span style="font-style:italic">dancing</span><span>"..................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>15%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.5</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>cinemas......................................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>10%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.6</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>espetáculos eventuais ao ar livre ou em recinto fechado...................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>10%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.7</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>outras formas de jogos ou diversões públicas que não se enquadrem nas acima relacionadas......................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>10%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>transporte em geral:</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.1</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de ônibus.....................................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.2</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de taxi e lotações.........................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.3</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de caminhões a frete.....................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.4</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de mudanças urbanas...................................................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.5</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>emprêsas de outras modalidades de transportes urbanos................................</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.</span></p></td><td style="width:344.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>comunicações em geral</span></p></td><td style="width:24.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2%</span></p></td></tr></tbody></table>
+1
+
+fornecimento de trabalho:
+
+1.2
+
+alfaiatarias, "ateliers" de moda e costura e de confecção sob encomenda..................................................................................................
+
+2%
+
+1.2
+
+emprêsas de engenharia, arquitetura, construção, projeto reforma, pintura e decoração de móveis e de planejamento ou execução de obras congêneres, por adminstração ou empreitada....................................................................
+
+3%
+
+1.3
+
+escritório de advocacia.................................................................................
+
+3%
+
+1.4
+
+oficinas mecânicas ou de colocação, substituição ou reparo de peças, pintura, estofamento ou acessórios em veículos.........................................................
+
+2%
+
+1.5
+
+oficinas de reparos, consêrto, pintura, estofamento ou reforma de quaisquer objetos........................................................................................................
+
+2%
+
+1.6
+
+emprêsas funerárias.....................................................................................
+
+2%
+
+1.7
+
+serviços óticos em geral...............................................................................
+
+2%
+
+1.8
+
+barbearias e institutos de beleza...................................................................
+
+2%
+
+1.9
+
+emprêsas de turismo e de viagens.................................................................
+
+2%
+
+1.10
+
+emprêsas de loteamento, venda, cessão ou locação de imóveis, quando operarem como intermediários entre as partes contratantes.............................
+
+2%
+
+1.11
+
+emprêsas de publicidade e de propaganda.....................................................
+
+4%
+
+1.12
+
+laboratórios de análises médicas, raio X, eletrocardiografia e serviços similares.....................................................................................................
+
+2%
+
+1.13
+
+lavagem e lubrificação de veículos, excetuado o preço dos combustíveis e lubrificantes fornecidos ................................................................................
+
+5%
+
+1.14
+
+oficinas de vulcanização e recapagem de pneumáticos ...................................
+
+2%
+
+1.15
+
+estabelecimentos de fisioterapia, de educação física e de saunas ...................
+
+3%
+
+1.16
+
+serviços gerais de manutenção e conservação de máquinas e aparelhos ..........
+
+2%
+
+1.17
+
+"ateliers” fotográficos e emprêsas de gravação em fita magnética ou disco fonográfico, para efeitos comerciais ou de interêsse de particulares, inclusive coberturas fotográficas cinematográficas de festas, solenidades e outros eventos, ainda que o prestador de serviços seja profissional autônomo.............
+
+2%
+
+1.18
+
+lavanderias e tinturarias................................................................................
+
+2%
+
+1.19
+
+tipografias, serviços gráficos e de encadernação.............................................
+
+2%
+
+1.20
+
+emprêsa de administração e conservação de imóveis......................................
+
+2%
+
+1.21
+
+emprêsas concessionárias de serviços de utilidade pública..............................
+
+2%
+
+1.22
+
+escritórios de comissões e representações inclusive despachante junto aos órgãos públicos............................................................................................
+
+2%
+
+1.23
+
+restaurantes, bares e cafés...........................................................................
+
+6%
+
+1.24
+
+fornecimento de alimentação a domicílio........................................................
+
+3%
+
+1.25
+
+colégios e escolas de música, idiomas, datilografia, motorista e quaisquer outros cursos preparatórios ou particulares.....................................................
+
+1%
+
+2.
+
+locação de bens móveis:
+
+2.1
+
+emprêsas de locação, cessão ou distribuição de filmes cinematográficos, com ou sem participação nas rendas de exibições.................................................
+
+4%
+
+2.2
+
+emprêsas de locação de máquinas, aparelhos, objetos diversos ou quaisquer outros bens móveis......................................................................................
+
+3%
+
+2.3
+
+emprêsas de locação de veículos..................................................................
+
+3%
+
+3.
+
+Locação de espaços em imóveis:
+
+3.1
+
+hotéis, pensões, hospedarias, motéis e casas de cômodos.............................
+
+3%
+
+3.2
+
+armazéns-gerais, depósitos e frigoríficos de aluguel........................................
+
+1%
+
+3.3
+
+cofres fortes de aluguel.................................................................................
+
+3%
+
+3.4
+
+guarda móveis..............................................................................................
+
+1%
+
+3.5
+
+outros tipos de locação de espaço em imóveis a qualquer título.......................
+
+2%
+
+4.
+
+jogos e diversões públicas:
+
+4.1
+
+bilhares, boliches, bochas e demais jogos permitidos......................................
+
+5%
+
+4.2
+
+hipódromos..................................................................................................
+
+15%
+
+4.3
+
+parques de diversões....................................................................................
+
+15%
+
+4.4
+
+cabarés, “nights-clubs", "boites" e “dancing"..................................................
+
+15%
+
+4.5
+
+cinemas......................................................................................................
+
+10%
+
+4.6
+
+espetáculos eventuais ao ar livre ou em recinto fechado...................................
+
+10%
+
+4.7
+
+outras formas de jogos ou diversões públicas que não se enquadrem nas acima relacionadas......................................................................................
+
+10%
+
+5.
+
+transporte em geral:
+
+5.1
+
+emprêsas de ônibus.....................................................................................
+
+1%
+
+5.2
+
+emprêsas de taxi e lotações.........................................................................
+
+2%
+
+5.3
+
+emprêsas de caminhões a frete.....................................................................
+
+2%
+
+5.4
+
+emprêsas de mudanças urbanas...................................................................
+
+2%
+
+5.5
+
+emprêsas de outras modalidades de transportes urbanos................................
+
+2%
+
+6.
+
+comunicações em geral
+
+2%
 
 § 1º A prestação de serviços decorrente de atividade não individualizada neste artigo, será tributada mediante a aplicação da alíquota estabelecida para a atividade com a qual mais identifique ou assemelhe.
 
@@ -716,7 +1008,17 @@ I - Emprêsa comercial ou civil, individual ou coletiva que explore negócio de:
 
 Art. 94. O trabalhador autônomo, com ou sem estabelecimento fixo, pagará o impôsto de acôrdo com os coeficientes seguintes aplicados sôbre o valor do salário-mínimo mensal vigente no Distrito Federal:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) profissionais liberais ..............................................................................................</span></p></td><td style="width:20.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3,00</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) artífices e artesães ................................................................................................</span></p></td><td style="width:20.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1,00</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) demais profissionais ..............................................................................................</span></p></td><td style="width:20.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2,00</span></p></td></tr></tbody></table>
+a) profissionais liberais ..............................................................................................
+
+3,00
+
+b) artífices e artesães ................................................................................................
+
+1,00
+
+c) demais profissionais ..............................................................................................
+
+2,00
 
 Parágrafo único. O enquadramento das profissões dos trabalhadores autônomos e seus respectivos coeficientes, serão estabelecidos no Regulamento, observados os limites fixados neste artigo.
 
@@ -796,31 +1098,99 @@ Art. 107. A taxa será cobrada pela aplicação dos seguintes coeficientes:
 
 I - Veículos de tração a motor:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) automóvel com motor até 40 HP ........................................................................</span></p></td><td colspan="2" style="width:34.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,15</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) automóvel com motor de mais de 40 HP, até 70 HP ............................................</span></p></td><td colspan="2" style="width:34.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,20</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) automóvel com motor de mais de 70 até 100 HP .................................................</span></p></td><td colspan="2" style="width:34.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,25</span></p></td></tr><tr><td colspan="2" style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d) automóvel com motor, acima de 100 HP ...............................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,35</span></p></td></tr><tr><td colspan="2" style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) táxis ..................................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,35</span></p></td></tr><tr style="height:0pt"><td style="width:381.05pt"></td><td style="width:7.1pt"></td><td style="width:38.25pt"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> a) automóvel com motor até 40 HP ........................................................................ </td><td colspan="2"> 0,15 </td></tr><tr><td> b) automóvel com motor de mais de 40 HP, até 70 HP ............................................ </td><td colspan="2"> 0,20 </td></tr><tr><td> c) automóvel com motor de mais de 70 até 100 HP ................................................. </td><td colspan="2"> 0,25 </td></tr><tr><td colspan="2"> d) automóvel com motor, acima de 100 HP ............................................................... </td><td> 0,35 </td></tr><tr><td colspan="2"> e) táxis .................................................................................................................. </td><td> 0,35 </td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 Veículos de transporte coletivo:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) até 18 passageiros .............................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,40</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) de mais de 18 passageiros ..................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,60</span></p></td></tr></tbody></table>
+a) até 18 passageiros .............................................................................................
+
+0,40
+
+b) de mais de 18 passageiros ..................................................................................
+
+0,60
 
 Veículos de carga:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) com capacidade até 1.500 quilos .........................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,25</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) com capacidade de mais de 1.500 até 3.500 quilos ...............................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,35</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) com capacidade de mais de 3.500 até 7.500 quilos ...............................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,45</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d) com capacidade de mais de 7.500 até 12.500 quilos .............................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,55</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) com capacidade de mais de 12.500 até 20.000 quilos ...........................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,65</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>f) com capacidade de mais de 20.000 quilos .............................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,80</span></p></td></tr></tbody></table>
+a) com capacidade até 1.500 quilos .........................................................................
+
+0,25
+
+b) com capacidade de mais de 1.500 até 3.500 quilos ...............................................
+
+0,35
+
+c) com capacidade de mais de 3.500 até 7.500 quilos ...............................................
+
+0,45
+
+d) com capacidade de mais de 7.500 até 12.500 quilos .............................................
+
+0,55
+
+e) com capacidade de mais de 12.500 até 20.000 quilos ...........................................
+
+0,65
+
+f) com capacidade de mais de 20.000 quilos .............................................................
+
+0,80
 
 II - Veículos diversos:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Motocicletas e congêneres .....................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Motonetas e congêneres .........................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,08</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tricíclos a frete ou para venda ou entrega de mercadorias ..........................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,15</span></p></td></tr></tbody></table>
+Motocicletas e congêneres .....................................................................................
+
+0,10
+
+Motonetas e congêneres .........................................................................................
+
+0,08
+
+Tricíclos a frete ou para venda ou entrega de mercadorias ..........................................
+
+0,15
 
 Reboque de veículos de carga ou passageiros:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) com capacidade até 1.000 quilos .........................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) com capacidade de mais de 1.000 até 10.000 quilos .............................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,35</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) com capacidade acima de 10.000 quilos ..............................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,55</span></p></td></tr></tbody></table>
+a) com capacidade até 1.000 quilos .........................................................................
+
+0,10
+
+b) com capacidade de mais de 1.000 até 10.000 quilos .............................................
+
+0,35
+
+c) com capacidade acima de 10.000 quilos ..............................................................
+
+0,55
 
 Tratores e máquinas de terraplenagem sôbre pneumáticos, guindastes e máquinas similares:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) até 110 HP ........................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,40</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) com mais de 110 até 195 HP ..............................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,45</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Lanchas e similares ...............................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,20</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Carrinho de mão a frete ou para venda ou entrega de mercadorias ..............................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,30</span></p></td></tr></tbody></table>
+a) até 110 HP ........................................................................................................
+
+0,40
+
+b) com mais de 110 até 195 HP ..............................................................................
+
+0,45
+
+Lanchas e similares ...............................................................................................
+
+0,20
+
+Carrinho de mão a frete ou para venda ou entrega de mercadorias ..............................
+
+0,30
 
 III - Veículos de tração animal:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) carros, charretes e outros veículos para condução de passageiros ..........................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,06</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) carroças e outros veículos de transporte de carga .................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,03</span></p></td></tr></tbody></table>
+a) carros, charretes e outros veículos para condução de passageiros ..........................
+
+0,06
+
+b) carroças e outros veículos de transporte de carga .................................................
+
+0,03
 
 Parágrafo único. Na licença concedida será observado o limite de tonelagem por eixo, fixado no Regulamento.
 
@@ -870,11 +1240,63 @@ I - Inumação
 
 em sepultura rasa:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) de adulto ...........................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,02</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) de criança ..........................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,01</span></p></td></tr></tbody></table>
+a) de adulto ...........................................................................................................
+
+0,02
+
+b) de criança ..........................................................................................................
+
+0,01
 
 Em carneiro:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) de adulto ...........................................................................................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,03</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) de criança ..........................................................................................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,02</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - exumação, antes de decorridos os prazos regulamentares ....................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - ocupação de ossário por 5 (cinco) anos ..............................................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,02</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV - remoção de despojos do cemitério .....................................................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,02</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V - licença para colocação de lápides e emblemas ...................................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VI - Concessão de sepultara perpétua:</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) concessão em terrenos marginais das aléias principais .........................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2,00</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) outros locais ......................................................................................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1,00</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VII - Sepulturas temporárias:</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) arrendamento por 10 anos ...................................................................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,25</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) arrendamento por 15 anos ...................................................................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,30</span></p></td></tr><tr><td style="width:378.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) arrendamento por 20 anos ...................................................................................</span></p></td><td style="width:27.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,50</span></p></td></tr></tbody></table>
+a) de adulto ...........................................................................................................
+
+0,03
+
+b) de criança ..........................................................................................................
+
+0,02
+
+II - exumação, antes de decorridos os prazos regulamentares ....................................
+
+0,10
+
+III - ocupação de ossário por 5 (cinco) anos ..............................................................
+
+0,02
+
+IV - remoção de despojos do cemitério .....................................................................
+
+0,02
+
+V - licença para colocação de lápides e emblemas ...................................................
+
+0,05
+
+VI - Concessão de sepultara perpétua:
+
+a) concessão em terrenos marginais das aléias principais .........................................
+
+2,00
+
+b) outros locais ......................................................................................................
+
+1,00
+
+VII - Sepulturas temporárias:
+
+a) arrendamento por 10 anos ...................................................................................
+
+0,25
+
+b) arrendamento por 15 anos ...................................................................................
+
+0,30
+
+c) arrendamento por 20 anos ...................................................................................
+
+0,50
 
 Parágrafo único. Nas Cidades-Satélites a taxa será cobrada pela metade.
 
@@ -896,7 +1318,71 @@ Art. 117. A taxa será cobrada pela aplicação dos seguintes coeficientes:
 
 I - Alvará de construção e modificação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coeficientes</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) na zona urbana de Brasília:</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. até 200 metros quadrados .......................................................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. acima de 200 metros quadrados, por m2 que exceder ................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,005</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) nas demais zonas urbanas:</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. até 200 metros quadrados .......................................................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,01</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. acima de 200 metros quadrados, por m2 que exceder ................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,001</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Alinhamentos ou nivelamentos de lotes:</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) até 1.500 metros quadrados, por lote ........................................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) acima de 1.500 metros quadrados, por lote ...............................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Habite-se:</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) até 200 metros quadrados .......................................................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) acima de 200 metros quadrados ..............................................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV - vistoria e perícias para fins gerais requeridas pelas partes ........................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,50</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V - registro de profissionais legalmente habilitados ........................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VI - Autenticação de plantas ........................................................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VII - Parques de diversões e congêneres ......................................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VIII - Vistoria em elevadores ........................................................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IX - Vistoria técnica anual em teatros, cinemas e outros estabelecimentos de diversões ...................................................................................................</span></p></td><td style="width:62.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,10</span></p></td></tr></tbody></table>
+Coeficientes
+
+a) na zona urbana de Brasília:
+
+1. até 200 metros quadrados .......................................................................
+
+0,05
+
+2. acima de 200 metros quadrados, por m2 que exceder ................................
+
+0,005
+
+b) nas demais zonas urbanas:
+
+1. até 200 metros quadrados .......................................................................
+
+0,01
+
+2. acima de 200 metros quadrados, por m2 que exceder ................................
+
+0,001
+
+II - Alinhamentos ou nivelamentos de lotes:
+
+a) até 1.500 metros quadrados, por lote ........................................................
+
+0,05
+
+b) acima de 1.500 metros quadrados, por lote ...............................................
+
+0,10
+
+III - Habite-se:
+
+a) até 200 metros quadrados .......................................................................
+
+0,05
+
+b) acima de 200 metros quadrados ..............................................................
+
+0,10
+
+IV - vistoria e perícias para fins gerais requeridas pelas partes ........................
+
+0,50
+
+V - registro de profissionais legalmente habilitados ........................................
+
+0,10
+
+VI - Autenticação de plantas ........................................................................
+
+0,05
+
+VII - Parques de diversões e congêneres ......................................................
+
+0,10
+
+VIII - Vistoria em elevadores ........................................................................
+
+0,10
+
+IX - Vistoria técnica anual em teatros, cinemas e outros estabelecimentos de diversões ...................................................................................................
+
+0,10
 
 § 1º Os prédios cujos pavimentos apresentem área de construção superior a 200 metros quadrados pagarão a taxa a que se refere o inciso I com a redução de 50% (cinqüenta por cento) para o primeiro pavimento e 25% (vinte e cinco por cento) para cada um dos pavimentos superiores.
 
@@ -948,7 +1434,229 @@ Art. 124. A taxa será cobrada pela aplicação dos seguintes coeficientes:
 
 I - Atos relacionados com a saúde pública e a fiscalização sanitária animal:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. assentimento sanitário ........................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. laudo de vistoria de qualquer natureza ..................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3. Inspeção de carnes em matadouro - por animal abatido:</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1. bovinos ...........................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.2. suinos ............................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,03</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.3. ovinos e caprinos .............................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,01</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4. registro de habilitação profissional ........................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,20</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Atos relacionados aos serviços de trânsito:</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. licença especial para circulação de veículos até 8 (oito) dias ................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>isenta</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. renovação de licença especial para circulação de veículos até 15 (quinze) dias ....</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3. Segunda via de placa de veículos .........................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4. relacração de placa de veículos ...........................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,03</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5. liberação de reserva de domínio de veículos ..........................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6. transferência de placas de veículos ......................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,20</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7. placa de experiência de veículos ..........................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,40</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9. vistoria, selagem e resselagem de taxímetros .......................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10. segunda via de certificado de propriedade ...........................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>11. licença para aprendizagem ou licença temporária para dirigir .............................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12. licença anual para escola de aprendizagem ........................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,20</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>13. carteira de habilitação .......................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14. averbação de carteira de habilitação ...................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,03</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15. segunda via de carteira de habilitação .................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16. certidão de prontuário ........................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,01</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>17. reboque de veículo:</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>17.1 até 15 quilômetros ..........................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>17.2 mais de 15 quilômetros ...................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,25</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>18. registro de livro de auto-escola e de oficina mecânica e de reparos de veículos ...</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>19. vistoria .............................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,01</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20. exame médico ..................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>21. inscrição para exame de motorista profissional:</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>21.1 primeiro exame ...............................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,03</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>21.2 segundo exame ..............................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,02</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>22. inscrição para exame de motorista amador:</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>22.1 primeiro exame ..............................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,04</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>22.2 segundo exame ..............................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,02</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>23. estada de veículo em depósito, por dia ...............................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,005</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>24. perícia em acidente ...........................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,20</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Atos relativos com a prestação de serviços administrativos:</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.certidões negativas de tributos:</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>por imóvel ou por tributo ..........................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,01</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. Outras certidões e atestados:</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) pela primeira lauda até 33 linhas ..........................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,01</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por lauda que execeder .......................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,003</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) busca por exercício ............................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,003</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3. Laudo circunstanciado de avaliação, por imóvel ...................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,20</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4. Recursos ou pedidos de reconsideração ...............................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,005</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5. Concessões de privilégio ou permissão para exploração de serviço público concedido ..............................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3,00</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6. Alvará de funcionamento:</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.1 Anual ...............................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.2 Temporário .......................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.3 Em horário especial ..........................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV - Atos relacionados com os serviços de segurança pública:</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. Guia de aquisição, entrega, retirada, trânsito, embarque ou desembarque de explosivos, armas e munições .................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. Licença anual para fabrico, comércio, depósito, trânsito ou emprêgo de explosivos, inclusive fogos de artifício, armas e munições ...................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,20</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3. Licença anual para fabrico, comércio ou depósito de inflamáveis, petrolíferos e derivados ...............................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,20</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4. Licença anual para portar arma ou conduzi-la em veículo, exceto quando solicitada por autoridade e servidor público em razão do exercício de suas funções ..</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,10</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5. Registro de arma para outros fins .........................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6. Registro de transferência de arma ........................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7. Guia de remoção de cadáver para fora do Distrito Federal ....................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,05</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8. Embalsamento ...................................................................................................</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2,00</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9. Perícia que não constitua obrigação específica da polícia técnica - por fôlha .........</span></p></td><td style="width:27.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>0,10</span></p></td></tr></tbody></table>
+1. assentimento sanitário ........................................................................................
+
+0,10
+
+2. laudo de vistoria de qualquer natureza ..................................................................
+
+0,10
+
+3. Inspeção de carnes em matadouro - por animal abatido:
+
+3.1. bovinos ...........................................................................................................
+
+0,05
+
+3.2. suinos ............................................................................................................
+
+0,03
+
+3.3. ovinos e caprinos .............................................................................................
+
+0,01
+
+4. registro de habilitação profissional ........................................................................
+
+0,20
+
+II - Atos relacionados aos serviços de trânsito:
+
+1. licença especial para circulação de veículos até 8 (oito) dias ................................
+
+isenta
+
+2. renovação de licença especial para circulação de veículos até 15 (quinze) dias ....
+
+0,10
+
+3. Segunda via de placa de veículos .........................................................................
+
+0,05
+
+4. relacração de placa de veículos ...........................................................................
+
+0,03
+
+5. liberação de reserva de domínio de veículos ..........................................................
+
+0,05
+
+6. transferência de placas de veículos ......................................................................
+
+0,20
+
+7. placa de experiência de veículos ..........................................................................
+
+0,40
+
+9. vistoria, selagem e resselagem de taxímetros .......................................................
+
+0,05
+
+10. segunda via de certificado de propriedade ...........................................................
+
+0,05
+
+11. licença para aprendizagem ou licença temporária para dirigir .............................
+
+0,05
+
+12. licença anual para escola de aprendizagem ........................................................
+
+0,20
+
+13. carteira de habilitação .......................................................................................
+
+0,05
+
+14. averbação de carteira de habilitação ...................................................................
+
+0,03
+
+15. segunda via de carteira de habilitação .................................................................
+
+0,05
+
+16. certidão de prontuário ........................................................................................
+
+0,01
+
+17. reboque de veículo:
+
+17.1 até 15 quilômetros ..........................................................................................
+
+0,10
+
+17.2 mais de 15 quilômetros ...................................................................................
+
+0,25
+
+18. registro de livro de auto-escola e de oficina mecânica e de reparos de veículos ...
+
+0,05
+
+19. vistoria .............................................................................................................
+
+0,01
+
+20. exame médico ..................................................................................................
+
+0,05
+
+21. inscrição para exame de motorista profissional:
+
+21.1 primeiro exame ...............................................................................................
+
+0,03
+
+21.2 segundo exame ..............................................................................................
+
+0,02
+
+22. inscrição para exame de motorista amador:
+
+22.1 primeiro exame ..............................................................................................
+
+0,04
+
+22.2 segundo exame ..............................................................................................
+
+0,02
+
+23. estada de veículo em depósito, por dia ...............................................................
+
+0,005
+
+24. perícia em acidente ...........................................................................................
+
+0,20
+
+III - Atos relativos com a prestação de serviços administrativos:
+
+1.certidões negativas de tributos:
+
+por imóvel ou por tributo ..........................................................................................
+
+0,01
+
+2. Outras certidões e atestados:
+
+a) pela primeira lauda até 33 linhas ..........................................................................
+
+0,01
+
+b) por lauda que execeder .......................................................................................
+
+0,003
+
+c) busca por exercício ............................................................................................
+
+0,003
+
+3. Laudo circunstanciado de avaliação, por imóvel ...................................................
+
+0,20
+
+4. Recursos ou pedidos de reconsideração ...............................................................
+
+0,005
+
+5. Concessões de privilégio ou permissão para exploração de serviço público concedido ..............................................................................................................
+
+3,00
+
+6. Alvará de funcionamento:
+
+6.1 Anual ...............................................................................................................
+
+0,10
+
+6.2 Temporário .......................................................................................................
+
+0,05
+
+6.3 Em horário especial ..........................................................................................
+
+0,10
+
+IV - Atos relacionados com os serviços de segurança pública:
+
+1. Guia de aquisição, entrega, retirada, trânsito, embarque ou desembarque de explosivos, armas e munições .................................................................................
+
+0,10
+
+2. Licença anual para fabrico, comércio, depósito, trânsito ou emprêgo de explosivos, inclusive fogos de artifício, armas e munições ...................................
+
+0,20
+
+3. Licença anual para fabrico, comércio ou depósito de inflamáveis, petrolíferos e derivados ...............................................................................................................
+
+0,20
+
+4. Licença anual para portar arma ou conduzi-la em veículo, exceto quando solicitada por autoridade e servidor público em razão do exercício de suas funções ..
+
+0,10
+
+5. Registro de arma para outros fins .........................................................................
+
+0,05
+
+6. Registro de transferência de arma ........................................................................
+
+0,05
+
+7. Guia de remoção de cadáver para fora do Distrito Federal ....................................
+
+0,05
+
+8. Embalsamento ...................................................................................................
+
+2,00
+
+9. Perícia que não constitua obrigação específica da polícia técnica - por fôlha .........
+
+0,10
 
 Art. 125. As formas e prazos de pagamento das taxas serão fixadas no Regulamento.
 
@@ -1595,8 +2303,6 @@ H. CASTELLO BRANco
 Carlos Medeiros Silva
 
 Octávio Bulhões
-
-###DEL-000082-0-000-26-12-1966@@@RET01+++
 
 DECRETO-LEI Nº 82, DE 26 DE DEZEMBRO DE 1966
 

@@ -1,5 +1,3 @@
-###DEL-000567-0-000-07-05-1969@@@
-
 DECRETO-LEI Nº 567, DE 7 DE MAIO DE 1969
 
 Dispõe sôbre a isenção dos tributos incidentes na importação de bens destinados à construção da Ponte Rio-Niterói.

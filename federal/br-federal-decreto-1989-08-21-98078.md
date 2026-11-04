@@ -1,7 +1,3 @@
-1
-
-###DEC-098078-0-000-21-08-1989@@@
-
 DECRETO N° 98.078, DE 21 DE AGOSTO DE 1989
 
 Autoriza o funcionamento do curso de Administração da Faculdade Anglo‑Americana da Amazônia.

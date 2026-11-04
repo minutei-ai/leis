@@ -10,15 +10,14 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 16 de agosto de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-"ANEXO III<br>
+"ANEXO III
+
 ([Lei nº 21.527, de 26 de julho de 2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105974/lei-21527))
 
 | ITEM | DESCRIÇÃO | ÓRGÃOS | TOTAL ANUAL |

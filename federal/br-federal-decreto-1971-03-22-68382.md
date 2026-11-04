@@ -1,5 +1,3 @@
-###DEC-068382-0-000-22-03-1971@@@
-
 DECERTO Nº 68.382, DE 22 DE MARÇO DE 1971.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Marinha cargos originários dos extintos Serviço de Navegação da Bacia do Prata e Lloyd Brasileiro - Patrimônio Nacional.

@@ -1,5 +1,3 @@
-###DEC-056392-0-000-02-06-1965@@@
-
 decreto nº 56.392, de 2 de junho de 1965.
 
 Dispõe sôbre a “Semana do Fazendeiro” e dá outras providências.

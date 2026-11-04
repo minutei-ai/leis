@@ -1,5 +1,3 @@
-###DEC-050472-0-000-18-04-1961@@@
-
 DECRETO Nº 50.472, DE 18 DE ABRIL DE 1961.
 
 Concede reconhecimento a cursos.

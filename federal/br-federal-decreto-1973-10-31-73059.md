@@ -1,5 +1,3 @@
-###DEC-073059-0-000-31-10-1973@@@
-
 decreto nº 73.059, de 31 de outubro de 1973.
 
 Declara perempta a concessão outorgada à Rádio Operária de Araxá Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Araxá, Estado de Minas Gerais.

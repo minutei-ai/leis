@@ -1,5 +1,3 @@
-###DEC-052241-0-000-09-07-1963@@@
-
 DECRETO Nº 52.241, DE 9 DE JULHO DE 1963.
 
 Autoriza a Companhia Paulista de Mineração a pesquisar argila, caulim e quartzo, no município de Tapirai, Estado de São Paulo.

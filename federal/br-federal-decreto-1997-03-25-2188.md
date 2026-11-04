@@ -1,5 +1,3 @@
-###DEC-002188-0-000-25-03-1997@@@
-
 DECRETO Nº 2.188, DE 25 DE MARÇO DE 1997
 
 Dispõe sobre a execução do Acordo de Alcance Parcial de Complementação Econômica entre Brasil, Argentina, Paraguai ,Uruguai, “Estados Partes do MERCOSUL”, e Bolívia, de 07 de dezembro de 1995.

@@ -1,5 +1,3 @@
-###DEC-075493-0-000-18-03-1975@@@
-
 Decreto N° 75.493, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Letras do Centro de Ensino Superior de Juiz de Fora, mantido pela Sociedade Propagadora Esdeva, com sede na Cidade de Juiz de Fora, Estado de Minas Gerais.

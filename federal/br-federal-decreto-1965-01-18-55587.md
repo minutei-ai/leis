@@ -1,5 +1,3 @@
-###DEC-055587-0-000-18-01-1965@@@
-
 DECRETO Nº 55.587, DE 18 DE JANEIRO DE 1965.
 
 Cede ao govêrno do Estado do Rio Grande do Norte, pelo prazo de cinco anos os imóveis e instalações dos Ginásios Agrícolas de Pau dos Ferros, Martins, Canguaretama, Santa Cruz e Angicos para o fim que especifica.

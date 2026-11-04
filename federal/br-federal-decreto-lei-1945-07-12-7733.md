@@ -1,5 +1,3 @@
-###DEL-007733-0-000-12-07-1945@@@
-
 DECRETO-LEI N. 7.733 – DE 12 DE JULHO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 4.030,00 para pagamento de gratificação de representação

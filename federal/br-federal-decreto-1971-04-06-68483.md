@@ -1,5 +1,3 @@
-###DEC-068483-0-000-06-04-1971@@@
-
 DECRETO Nº 68.483 - DE 6 DE ABRIL DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de Cepaigo até Senador Canedo, no município de Goiânia, Estado de Goiás.

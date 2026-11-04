@@ -1,5 +1,3 @@
-###DEL-007482-0-000-20-04-1945@@@
-
 DECRETO-LEI N. 7.482 – DE 20 DE ABRIL DE 1945
 
 Altera o Decreto nº 754, de 31 de dezembro de 1900, para atualizar a dotação concedida às filhas do Barão do Rio Branco

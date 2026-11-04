@@ -1,5 +1,3 @@
-###DEC-057197-0-000-08-11-1965@@@
-
 DECRETO Nº 57.197, DE 8 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Giacomo Perini a pesquisar mica e quartzo, no município de Divino das Laranjeiras, Estado de Minas Gerais.

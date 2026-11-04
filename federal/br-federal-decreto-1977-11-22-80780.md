@@ -1,5 +1,3 @@
-###DEC-080780-0-000-22-11-1977@@@
-
 Decreto nº 80.780, de 22 de novembro de 1977.
 
 Concede reconhecimento aos cursos de Administração e Ciências Contábeis, da Faculdade de Administração e Ciências Contábeis "Campos Salles", com sede na cidade de São Paulo, Estado de São Paulo.

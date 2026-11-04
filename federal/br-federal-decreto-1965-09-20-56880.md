@@ -1,5 +1,3 @@
-###DEC-056880-0-000-20-09-1965@@@
-
 DECRETO Nº 56.880, DE 20 DE SETEMBRO DE 1965.
 
 Concede à sociedade Navegação Progresso Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

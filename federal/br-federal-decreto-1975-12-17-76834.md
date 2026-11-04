@@ -1,5 +1,3 @@
-###DEC-076834-0-000-17-12-1975@@@
-
 DECRETO Nº 76.834, DE 17 DE DEZEMBRO DE 1975.
 
 Autoriza o funcionamento do curso de Letras, da Faculdade de Ciências e Letras de Bragança Paulista, com sede na cidade de Bragança Paulista, Estado de São Paulo.

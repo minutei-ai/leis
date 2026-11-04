@@ -1,5 +1,3 @@
-###DEL-006911-0-000-28-09-1944@@@
-
 DECRETO-LEI n. 6.911 – DE 28 DE SETEMBRO DE 1944
 
 Cria função gratificada no Quadro I – Parte Permanente, do Ministério da Viação e Obras Públicas, e dá outras providências

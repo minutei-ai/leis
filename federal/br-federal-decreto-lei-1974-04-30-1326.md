@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0823329f-aec9-4737-a904-49035498011c/texto#nowhere)
 
-###DEL-001326-0-000-30-04-1974@@@
-
 # DECRETO-LEI Nº 1.326, DE 30 DE ABRIL DE 1974
 
 Reajusta os vencimentos, proventos e salários dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências.
@@ -45,8 +43,6 @@ Mário Henrique Simonsen
 João Paulo dos Reis Velloso
 
 O anexo mencionado no art. 1º foi republicado no D.O. de 10-5-74.
-
-###DEL-001326-0-000-30-04-1974@@@REP01+++
 
 # (\*) DECRETO Nº 1.326, DE 30 DE ABRIL DE 1974
 

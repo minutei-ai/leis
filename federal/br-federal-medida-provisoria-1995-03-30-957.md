@@ -1,7 +1,3 @@
-1
-
-###MPV-000957-0-000-30-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 957, DE 30 DE MARÇO DE 1995
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

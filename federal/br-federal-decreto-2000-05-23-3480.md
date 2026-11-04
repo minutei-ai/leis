@@ -1,5 +1,3 @@
-###DEC-003480-0-000-23-05-2000@@@
-
 DECRETO 3.480, DE 23 DE MAIO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.916, de 30 de dezembro de 1998.

@@ -1,5 +1,3 @@
-###DEL-000180-0-000-16-02-1967@@@
-
 DECRETO-LEI Nº 180, DE 16 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial que menciona, e dá outras providências.

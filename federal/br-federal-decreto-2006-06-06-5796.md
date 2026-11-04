@@ -1,5 +1,3 @@
-###DEC-005796-0-000-06-06-2006@@@
-
 DECRETO Nº 5.796, DE 6 DE JUNHO DE 2006.
 
      Regulamenta a Lei no 11.124, de 16 de junho de 2005, que dispõe sobre o Sistema Nacional de Habitação de Interesse Social - SNHIS, cria o Fundo Nacional de Habitação de Interesse Social - FNHIS e institui o Conselho Gestor do FNHIS.  
@@ -237,5 +235,3 @@ Guido Mantega
 Paulo Bernardo Silva
 
 Marcio Fortes de Almeida
-
-Este texto não substitui o publicado no D.O.U. de 7.6.2006.

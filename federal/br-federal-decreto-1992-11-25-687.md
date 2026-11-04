@@ -1,7 +1,3 @@
-1
-
-###DEC-000687-0-000-25-11-1992@@@
-
 DECRETO Nº 687, DE 25 DE NOVEMBRO DE 1992
 
 Dispõe sobre o procedimento do reajuste dos preços administrados e das tarifas públicas.

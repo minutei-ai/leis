@@ -1,5 +1,3 @@
-###DEC-084626-0-000-09-04-1980@@@
-
 decreto Nº 84.626, de 09 de abril de 1980.
 
 Cria, no Ministério da Aeronáutica, a Diretoria de Material Bélico da Aeronáutica, altera dispositivos do Decreto nº 81.199, de 09 de janeiro de 1978 e dá outras providências.

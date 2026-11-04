@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51217)
-
 # LEI Nº 11.752, DE 01 DE JULHO DE 2004
 
 ## (PL 549/2000 - Luiz Carlos Gondim)

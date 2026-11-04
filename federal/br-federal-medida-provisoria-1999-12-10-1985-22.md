@@ -1,5 +1,3 @@
-###MPV-001985-0-022-10-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-22, DE 10 DE DEZEMBRO DE 1999.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

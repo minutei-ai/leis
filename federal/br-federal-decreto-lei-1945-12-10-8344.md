@@ -1,5 +1,3 @@
-###DEL-008344-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.344 – DE 10 DE DEZEMBRO DE 1945
 
 Declara sem efeito o Decreto-lei número 7.122, de 4 de dezembro de 1944.

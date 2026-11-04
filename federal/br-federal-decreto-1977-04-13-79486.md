@@ -1,5 +1,3 @@
-###DEC-079486-0-000-13-04-1977@@@
-
 Decreto nº 79.486, de 13 de abril de 1977.
 
 Concede reconhecimento ao curso de Ciências Agrícolas da Universidade Federal Rural do Rio de Janeiro, com sede na cidade de Itaguaí, Estado do Rio de Janeiro.

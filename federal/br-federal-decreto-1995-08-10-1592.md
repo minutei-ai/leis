@@ -1,7 +1,3 @@
-1
-
-###DEC-001592-0-000-10-08-1995@@@
-
 DECRETO Nº 1.592, de 10 de Agosto de 1995.
 
 Altera dispositivos do Decreto nº 89.056, de 24 de novembro de 1983, que regulamenta a Lei nº 7.102, de 20 de junho de 1983, que dispõe sobre segurança para estabelecimentos financeiros, estabelece normas para constituição e funcionamento das empresas particulares que exploram serviços de vigilância e de transporte de valores, e dá outras providências.

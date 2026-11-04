@@ -1,5 +1,3 @@
-###DEC-052724-0-000-22-10-1963@@@
-
 DECRETO Nº 52.724, DE 22 DE OUTUBRO DE 1963.
 
 Altera o Regulamento do Colégio Naval.

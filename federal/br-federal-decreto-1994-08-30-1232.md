@@ -1,7 +1,3 @@
-1
-
-###DEC-001232-0-000-30-08-1994@@@
-
 DECRETO Nº 1.232, DE 30 DE AGOSTO DE 1994
 
 Dispõe sobre as condições e a forma de repasse regular e automático de recursos do Fundo Nacional de Saúde para os fundos de saúde estaduais, municipais e do Distrito Federal, e dá outras providências.

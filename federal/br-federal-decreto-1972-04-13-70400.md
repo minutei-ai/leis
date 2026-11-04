@@ -1,5 +1,3 @@
-###DEC-070400-0-000-13-04-1972@@@
-
 DECRETO Nº 70.400, DE 13 de ABRIL DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, um terreno urbano, sem benfeitorias, situado na cidade de Fortaleza Estado do Ceará, destinado à ampliação da estação terminal de microondas daquela cidade, integrante do Sistema Nacional de Telecomunicações.

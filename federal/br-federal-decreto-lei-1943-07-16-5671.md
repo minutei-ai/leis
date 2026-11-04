@@ -1,5 +1,3 @@
-###DEL-005671-0-000-16-07-1943@@@
-
 DECRETO‑LEI N. 5.671 – DE 16 DE JULHO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 500.000,00, à verba que específica

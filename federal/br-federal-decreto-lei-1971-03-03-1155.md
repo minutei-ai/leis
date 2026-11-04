@@ -1,5 +1,3 @@
-###DEL-001155-0-000-03-03-1971@@@
-
 # decreto-lei nº 1.155, de 3 de março de 1971
 
 Dispõe sôbre a entrega das parcelas pertencentes aos Municípios do produto da arrecadação do impôsto sôbre circulação de mercadorias.

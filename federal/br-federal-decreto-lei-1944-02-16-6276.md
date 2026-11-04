@@ -1,5 +1,3 @@
-###DEL-006276-0-000-16-02-1944@@@
-
 DECRETO-LEI N. 6.276 – DE 16 DE fevereiro DE 1944
 
 Amplia o limite de apólices do reajustamento econômico, para atender a compromissos assumidos para com a lavoura nacional, e dá outras providências

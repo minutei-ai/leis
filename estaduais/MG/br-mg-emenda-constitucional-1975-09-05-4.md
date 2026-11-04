@@ -27,7 +27,3 @@ O 2º Secretário: Said Paulo Arges
 O 3º Secretário: Júnia Marize Azeredo Coutinho
 
 O 4º Secretário: João Pedro Gustin
-
-\----------------------------------------------------------
-
-Data da última atualização: 21/2/2006.

@@ -1,5 +1,3 @@
-###DEL-004962-0-000-16-11-1942@@@
-
 DECRETO-LEI N. 4.962 – DE 16 DE NOVEMBRO DE 1942
 
 Abre, pelo Ministério da Agricultura, o crédito suplementar de Cr$ 1.290.400,00 às verbas que específica

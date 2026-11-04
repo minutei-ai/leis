@@ -1,5 +1,3 @@
-###DEC-047863-0-000-07-03-1960@@@
-
 DECRETO Nº 47.863, de 7 de março de 1960.
 
 Autoriza o cidadão brasileiro Adriano Seabra Fonseca a pesquisar minério de chumbo no município Brusque, Estado de Santa Catarina.

@@ -18,5 +18,6 @@ Art. 5º Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 13 de maio de 2025.
 
-JOÃO CAMPOS DE ARAUJO<br>
+JOÃO CAMPOS DE ARAUJO
+
 Prefeito de Aparecida de Goiânia em exercício

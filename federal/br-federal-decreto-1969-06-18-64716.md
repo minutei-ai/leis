@@ -1,5 +1,3 @@
-###DEC-064716-0-000-18-06-1969@@@
-
 DECRETO Nº 64.716, DE 18 DE JUnHO DE 1969.
 
 Cria a Diretoria-Geral de Economia e Finanças do Exército e dá outras providências.

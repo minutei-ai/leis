@@ -1,5 +1,3 @@
-###DEC-061526-0-000-13-10-1967@@@
-
 DECRETO Nº 61.526, DE 13 DE OUTUBRO DE 1967.
 
 Concede a Crédit Foncier du Brésil et de L’Amerique du Sud S.A. autorização para continuar a funcionar na República do Brasil.

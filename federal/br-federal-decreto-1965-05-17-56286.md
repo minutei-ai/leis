@@ -1,5 +1,3 @@
-###DEC-056286-0-000-17-05-1965@@@
-
 Decreto nº 56.286, de 17 de maio de 1965.
 
 Dispõe sôbre o Dia Nacional do Milho e dá outras providências.

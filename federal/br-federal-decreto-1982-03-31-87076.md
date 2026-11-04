@@ -1,5 +1,3 @@
-###DEC-087076-0-000-31-03-1982@@@
-
 DECRETO Nº 87.076, DE 31 DE MARÇO DE 1982
 
 Autoriza o aumento de potência da SOCIEDADE RÁDIO RURAL DE MUZAMBINHO LTDA., na cidade de Muzambinho, Estado de Minas Gerais.

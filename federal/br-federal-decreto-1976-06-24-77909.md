@@ -1,5 +1,3 @@
-###DEC-077909-0-000-24-06-1976@@@
-
 DECRETO Nº 77.909, DE 24 DE JUNHO DE 1976.
 
 Concede à Mineração e Cal Ribeirão Sete Ltda., o direito de lavrar calcário no Município de Vidal Ramos, Estado de Santa Catarina.

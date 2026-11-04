@@ -1,5 +1,3 @@
-###DEC-056157-0-000-27-04-1965@@@
-
 DECRETO Nº 56.157, DE 27 DE ABRIL DE 1965.
 
 Concede à Companhia Abastecedora de Minérios “CIAMI” autorização para funcionar com emprêsa de mineração.

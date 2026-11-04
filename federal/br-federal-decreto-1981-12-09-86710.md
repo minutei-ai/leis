@@ -1,5 +1,3 @@
-###DEC-086710-0-000-09-12-1981@@@
-
 Decreto nº 86.710, de 09 de dezembro de 1981.
 
 Promulga a Convenção entre o Governo da República Federativa do Brasil e o Governo do Reino da Noruega Destinada a Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre a Renda e o Capital.
@@ -522,7 +520,13 @@ EM TESTEMUNHO DO QUE os Plenipotenciários dos Estados firmaram a presente Conve
 
 Feita na cidade de Brasília, no dia de agosto de 1980, em duplicata, nas línguas portuguesa, norueguesa e inglesa, sendo os três textos igualmente autênticos. Em caso de qualquer divergência de interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:212.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DO REINO DA NORUEGA:</span></p></td></tr><tr><td style="width:212.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Ramiro Saraiva Guerreiro</span></p></td><td style="width:212.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Per Martin Olberg:</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+PELO GOVERNO DO REINO DA NORUEGA:
+
+Ramiro Saraiva Guerreiro
+
+Per Martin Olberg:
 
 PROTOCOLO
 
@@ -584,4 +588,10 @@ b) na eventualidade de o Brasil, após a assinatura da presente Convenção, que
 
 FEITO na cidade de Brasília, no dia 21 de agosto de 1980, em duplicata, nas línguas portuguesa, norueguesa e inglesa, sendo os três textos igualmente autênticos. Em caso de qualquer divergência de interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:212.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DO REINO DA NORUEGA:</span></p></td></tr><tr><td style="width:212.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">a) Ramiro Saraiva Guerreiro</span></p></td><td style="width:212.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">a) Per Martin Olberg:</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+PELO GOVERNO DO REINO DA NORUEGA:
+
+a) Ramiro Saraiva Guerreiro
+
+a) Per Martin Olberg:

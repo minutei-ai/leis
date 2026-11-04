@@ -1,5 +1,3 @@
-###DEL-005219-0-000-22-01-1943@@@
-
 DECRETO‑LEI N. 5.219 – DE 22 DE JANEIRO DE 1943
 
 Autoriza a Companhia Rádio internacional do Brasil a executar os serviços radiotelefônico público interior e radiotelefônico Público restrito interior e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074078-0-000-16-05-1974@@@
-
 DECRETO Nº 74.078, DE 16 DE MAIO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação e constituição de servidão, uma área de terra rural, sem benfeitorias, com a respectiva faixa de acesso, situada nos Municípios de Carmo e Sapucaia, Estado do Rio de Janeiro, destinada à construção de uma estação repetidora de microondas, pela Telecomunicações de Minas Gerais S.A. - TELEMIG.

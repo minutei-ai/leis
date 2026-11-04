@@ -1,5 +1,3 @@
-###DEC-007161-0-000-29-04-2010@@@
-
 DECRETO Nº 7.161, DE 29 DE ABRIL DE 2010.
 
 Autoriza a permuta de ações entre a União e entidades da administração federal indireta e dá outras providências

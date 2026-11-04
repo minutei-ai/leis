@@ -1,5 +1,3 @@
-###DEC-002186-0-000-25-03-1997@@@
-
 DECRETO Nº 2.186, DE 25 DE MARÇO DE 1997
 
 Dispõe sobre a execução do Protocolo de Prorrogação dos Acordos de Alcance Parcial de Natureza Comercial, entre Brasil e México, de 27 de janeiro de 1997.

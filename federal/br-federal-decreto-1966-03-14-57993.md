@@ -1,5 +1,3 @@
-###DEC-057993-0-000-14-03-1966@@@
-
 DECRETO Nº 57.993, DE 14 DE MARÇO DE 1966.
 
 Autoriza a cidadã brasileira Maria Cândida Pereira a pesquisar caulim e quartzo no município de Embu-guaçu, Estado de São Paulo.

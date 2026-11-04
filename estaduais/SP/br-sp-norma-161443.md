@@ -1,1216 +1,2301 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=161443)
-
 # LEI Nº 14.460, DE 16 DE MAIO DE 2011
 
 ### _Dispõe sobre a criação e extinção de cargos no Quadro do Tribunal de Justiça do Estado de São Paulo._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>
-Artigo 1º - Ficam criados, no Subquadro de Cargos Públicos do Quadro do Tribunal de Justiça, 605 (seiscentos e cinco) cargos de Escrevente Técnico Judiciário, SQC III, enquadrados na Referência 5 da Escala de Vencimentos - Cargos Efetivos, jornada de trabalho de 40 (quarenta) horas semanais, de que trata a [Lei Complementar nº 1.111, de 25 de maio de 2010](http://www.al.sp.gov.br/norma?id=159606), destinados à Comarca da Capital.<br>
-Parágrafo único - Em decorrência, ficam extintos 709 (setecentos e nove) cargos vagos de Agente de Serviços Judiciário, 215 (duzentos e quinze) cargos vagos de Agente Operacional Judiciário e 236 (duzentos e trinta e seis) cargos vagos de Agente Administrativo Judiciário, enquadrados, respectivamente, nas Referências 1, 2 e 3 da Escala de Vencimentos - Cargos Efetivos, fixados no Anexo I desta lei, das Comarcas da Capital e do Interior.<br>
-Artigo 2º - As despesas resultantes da aplicação desta lei correrão à conta de dotações orçamentárias consignadas no Orçamento-Programa vigente, suplementadas se necessário.<br>
-Artigo 3º - Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 16 de maio de 2011<br>
-GERALDO ALCKMIN<br>
-Andrea Sandro Calabi<br>
-Secretário da Fazenda<br>
-Emanuel Fernandes<br>
-Secretário de Planejamento e Desenvolvimento Regional<br>
-Sidney Estanislau Beraldo<br>
-Secretário-Chefe da Casa Civil<br>
-<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
+
+Artigo 1º - Ficam criados, no Subquadro de Cargos Públicos do Quadro do Tribunal de Justiça, 605 (seiscentos e cinco) cargos de Escrevente Técnico Judiciário, SQC III, enquadrados na Referência 5 da Escala de Vencimentos - Cargos Efetivos, jornada de trabalho de 40 (quarenta) horas semanais, de que trata a [Lei Complementar nº 1.111, de 25 de maio de 2010](http://www.al.sp.gov.br/norma?id=159606), destinados à Comarca da Capital.
+
+Parágrafo único - Em decorrência, ficam extintos 709 (setecentos e nove) cargos vagos de Agente de Serviços Judiciário, 215 (duzentos e quinze) cargos vagos de Agente Operacional Judiciário e 236 (duzentos e trinta e seis) cargos vagos de Agente Administrativo Judiciário, enquadrados, respectivamente, nas Referências 1, 2 e 3 da Escala de Vencimentos - Cargos Efetivos, fixados no Anexo I desta lei, das Comarcas da Capital e do Interior.
+
+Artigo 2º - As despesas resultantes da aplicação desta lei correrão à conta de dotações orçamentárias consignadas no Orçamento-Programa vigente, suplementadas se necessário.
+
+Artigo 3º - Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 16 de maio de 2011
+
+GERALDO ALCKMIN
+
+Andrea Sandro Calabi
+
+Secretário da Fazenda
+
+Emanuel Fernandes
+
+Secretário de Planejamento e Desenvolvimento Regional
+
+Sidney Estanislau Beraldo
+
+Secretário-Chefe da Casa Civil
+
  
 
-ANEXO I<br>
+ANEXO I
+
 A que se refere o artigo 1º da [Lei nº 14.460 de 16 de maio de 2011](http://www.al.sp.gov.br/norma?id=161443)
 
-<br>
-294 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, decorrentes da aposentadoria dos servidores relacionados a seguir:<br>
-<br>
-1\. Abimael Ribeiro Silva<br>
-2\. Adalgisa Pedro Chaves<br>
-3\. Aduir Belmiro<br>
-4\. Albertina Teresa Correia<br>
-5\. Alcides Roxo<br>
-6\. Alice da Anunciação Silva<br>
-7\. Alice de Paula Teixeira<br>
-8\. Aliete Figueiredo de França<br>
-9\. Alzira Rodrigues<br>
-10\. Amada da Hora Santos<br>
-11\. Ana Luisa da Silva<br>
-12\. Ana Maria das Neves Maia<br>
-13\. Ana Oniski Pinho<br>
-14\. Analia Pereira de Almeida Reis<br>
-15\. Anaura Baptista Savoia<br>
-16\. Anesio Julião<br>
-17\. Angelina Baptista Ciniello<br>
-18\. Angelina Jorge Pires<br>
-19\. Antonia Capelli Rugeri<br>
-20\. Antonia Pereira dos Reis<br>
-21\. Antonietta Garcia Pace<br>
-22\. Antonio Carvalho de Araújo<br>
-23\. Antonio Pereira Viana<br>
-24\. Aparecida Alves de Freitas Inácio<br>
-25\. Aparecida Luiz Jorge<br>
-26\. Aparecida Madalena Batista Ferreira<br>
-27\. Aparecida Regina dos Santos<br>
-28\. Apparecida Loberto Monastero<br>
-29\. Arminda Cândida de Jesus Rossigalli<br>
-30\. Arminda Medrado Reis<br>
-31\. Armindo Pereira<br>
-32\. Baptistina Custodio Nogueira<br>
-33\. Baptistinha Galhardo<br>
-34\. Benedicta Barbosa Augusto<br>
-35\. Benedicta Luiza Picaia<br>
-36\. Benedita Maria Gregório da Silva<br>
-37\. Benedita dos Santos<br>
-38\. Benedito Ramos da Silva<br>
-39\. Benedito Soares<br>
-40\. Benicio Costa<br>
-41\. Braulino Silva de Cerqueira<br>
-42\. Candido Borges de Almeida<br>
-43\. Celina Pedro de Moura<br>
-44\. Cinira da Silva<br>
-45\. Clarice Lourdes dos Santos<br>
-46\. Claudete Machado de Oliveira<br>
-47\. Clayton Pires Domingos<br>
-48\. Cleusa Aurora Bispo<br>
-49\. Conceição Aparecida da Penha Abrante<br>
-50\. Dagmar de Freitas Maximiano<br>
-51\. Dalva de Jesus Cardoso<br>
-52\. Dejanira de Souza Assis<br>
-53\. Dirce Martins Braga<br>
-54\. Diva Cardoso Moura Machado<br>
-55\. Divina da Silva Maia<br>
-56\. Domingas Maria de Jesus Luiz<br>
-57\. Doracy Anacleto<br>
-58\. Dulce Cruz Vilella<br>
-59\. Dulcinéa Coelho da Silva<br>
-60\. Durcelina Cardoso de Paula<br>
-61\. Durvalina Maria de Almeida<br>
-62\. Edinólia Alves dos Santos<br>
-63\. Edite Maria da Conceição Souza<br>
-64\. Edméia Aparecida Nascimento<br>
-65\. Edna Cardoso de Mello<br>
-66\. Edna Maria do Nascimento<br>
-67\. Edson Rogério Assunção<br>
-68\. Elcelina Moraes dos Santos<br>
-69\. Elisabete Manzieri<br>
-70\. Elizabete Clara Ferreira<br>
-71\. Elizabeth da Silva Deamo<br>
-72\. Elza Maia da Costa<br>
-73\. Elza Oliveira Simplicio<br>
-74\. Emilia Siciliano<br>
-75\. Enedina Ferreira da Silva<br>
-76\. Esmeraldo Dias de Figueiredo<br>
-77\. Esther Maria Molina<br>
-78\. Esther Silva Marchi<br>
-79\. Etelvina Gomes<br>
-80\. Euda Francisca Rocha da Silva<br>
-81\. Eunice Godeiro<br>
-82\. Eva Bernardo Correia<br>
-83\. Eva Mele<br>
-84\. Evania Santos da Anunciação<br>
-85\. Everaldo José Rodrigues Pimentel<br>
-86\. Fatima de Carvalho<br>
-87\. Fausto Voni<br>
-88\. Fernando Vaz de Oliveira<br>
-89\. Firmino Cirillo<br>
-90\. Florentina Maia Almeida<br>
-91\. Florinda Pereira Thomaz<br>
-92\. Florinda Sardinha Querido<br>
-93\. Florinda Savino<br>
-94\. Floripes Fagundes<br>
-95\. Florita Francisca Xavier<br>
-96\. Florita Santos Varuzzi<br>
-97\. Francina Santos Ormond<br>
-98\. Francisca Alves dos Santos<br>
-99\. Francisca Mercês Pineres<br>
-100\. Francisca Ottoni dos Santos<br>
-101\. Genoveva Cesario Thiele<br>
-102\. Geralda Eustáquio<br>
-103\. Geraldo Dias Fernandes<br>
-104\. Gilda Cecília dos Santos<br>
-105\. Guiomar da Silva Santos<br>
-106\. Helena dos Santos Martins<br>
-107\. Hilda Cerqueira Rocha<br>
-108\. Hilda Emilia de Jesus<br>
-109\. Hilda Maria Rodrigues<br>
-110\. Hozana Ferreira dos Santos<br>
-111\. Ieda Geraldo<br>
-112\. Ignez de Freitas Gomes<br>
-113\. Ignez dos Santos Luiz<br>
-114\. Ilda Bernardina<br>
-115\. Ilma Costa dos Santos<br>
-116\. Inês Aguiar Dias<br>
-117\. Iracema Ignocencio de Oliveira<br>
-118\. Irene Delmira Ortega<br>
-119\. Irene Inacio<br>
-120\. Irinéa Dias<br>
-121\. Irma Costa Marins<br>
-122\. Isaura das Dores de Souza<br>
-123\. Izabel Dias<br>
-124\. Izabel Parra Furtado<br>
-125\. Jacira Ribeiro dos Santos<br>
-126\. Jacira Salgado da Luz<br>
-127\. Jairo Escarcela de Almeida<br>
-128\. Jayme Miquelino de Almeida<br>
-129\. Joana Manoel da Silva<br>
-130\. Joana Pereira da Silva<br>
-131\. Joana do Rego Pereira<br>
-132\. Joana dos Reis e Silva<br>
-133\. Joanna Dirce Neute Bonfim<br>
-134\. João Alfredo da Silva Moraes<br>
-135\. José Benedito Mossolino<br>
-136\. José Cesar de Andrade<br>
-137\. José Cristiano Nogueira<br>
-138\. José Joaquim Ferreira<br>
-139\. José dos Santos<br>
-140\. Josefa Inês Ferreira Leão<br>
-141\. Josefa Medeiros dos Santos<br>
-142\. Josefina Archilla<br>
-143\. Josefina Ferreira Cesarino<br>
-144\. Josemari dos Santos Toledo<br>
-145\. Josephina Chankine Moreno<br>
-146\. Josephina Sant’Anna Alves Pereira<br>
-147\. Jurema da Silva Irapuan<br>
-148\. Kasuko Figueiredo<br>
-149\. Lafayette de Castro<br>
-150\. Laurinda Quadrado Guimarães<br>
-151\. Lazinha Pereira Alves<br>
-152\. Léa Noemia de Freitas<br>
-153\. Lenice Santana Spaulonci<br>
-154\. Leonilde Bettoni Esse<br>
-155\. Lorival Machado de Oliveira<br>
-156\. Lourdes Vinha Marques<br>
-157\. Lúcia Araújo de Sá<br>
-158\. Lucia Caetano Ferreira<br>
-159\. Lucia da Conceição Baptista<br>
-160\. Lucia Marcolina Pereira<br>
-161\. Lucia Silvia Carvalho Rosa<br>
-162\. Luiz Alves Filho<br>
-163\. Luiz Carlos Cunha<br>
-164\. Luiz Carlos de Oliveira<br>
-165\. Luzia Ramos dos Santos<br>
-166\. Luzia Therezinha da Silva<br>
-167\. Magda Silva<br>
-168\. Margarida Cancio Galdino<br>
-169\. Margarida Domingues Santana<br>
-170\. Maria Afonsina Pereira Vilar<br>
-171\. Maria Alice de Moura Machado<br>
-172\. Maria Antonietta Voni<br>
-173\. Maria Aparecida de Almeida<br>
-174\. Maria Aparecida Alves<br>
-175\. Maria Aparecida Callipo Schirato<br>
-176\. Maria Aparecida Fermiano<br>
-177\. Maria Aparecida Lucas<br>
-178\. Maria Aparecida Maciel<br>
-179\. Maria Aparecida de Morais Adriano<br>
-180\. Maria Aparecida Poppi<br>
-181\. Maria Aparecida dos Santos<br>
-182\. Maria Aparecida dos Santos<br>
-183\. Maria Apparecida Pietro Pignatari<br>
-184\. Maria de Araújo Lima<br>
-185\. Maria Beatriz Gonçalves<br>
-186\. Maria Benedita Osmar<br>
-187\. Maria Bernardo da Silva Oliveira<br>
-188\. Maria Cleuza de Souza<br>
-189\. Maria Concebida de Oliveira Cruz Felipe<br>
-190\. Maria da Conceição dos Santos<br>
-191\. Maria da Conceição Segunda<br>
-192\. Maria Cristina de Souza Moreira<br>
-193\. Maria das Dores Gonçalves<br>
-194\. Maria das Dores Nunes de Castro<br>
-195\. Maria Edileuza de Lima<br>
-196\. Maria Escolastica Michelette de Souza<br>
-197\. Maria Felícia Gomes Melges<br>
-198\. Maria Geralda dos Santos<br>
-199\. Maria da Gloria Silva<br>
-200\. Maria das Graças Madeira Santos<br>
-201\. Maria das Graças Silva<br>
-202\. Maria Irene de Lima<br>
-203\. Maria de Jesus Peres<br>
-204\. Maria Joaquina dos Santos<br>
-205\. Maria Jose de Andrade<br>
-206\. Maria Jose de Sales Dias<br>
-207\. Maria José Sanches Rocha<br>
-208\. Maria de Lourdes Campos<br>
-209\. Maria Luiza Alves Rocha<br>
-210\. Maria Luiza Bergantin<br>
-211\. Maria Magdalena Perretti Brancacio<br>
-212\. Maria Margarida Benevides dos Santos<br>
-213\. Maria Margarida Gomes<br>
-214\. Maria das Neves Silva<br>
-215\. Maria Sebastião Assumpção<br>
-216\. Maria Soares da Silva<br>
-217\. Maria Teresa Barreto Mariano<br>
-218\. Maria Victu do Carmo<br>
-219\. Marina Bueno<br>
-220\. Marilene de Oliveira Vicente<br>
-221\. Marisa da Silva<br>
-222\. Maura da Conceição Amaral<br>
-223\. Maura Rezende da Silva<br>
-224\. Mauro Alves de Moraes<br>
-225\. Mercedes Benedita de Souza<br>
-226\. Miquelina Gomes Candeleiro<br>
-227\. Miriam de Melo Penha<br>
-228\. Murilo Augusto Fernandes de Souza<br>
-229\. Nailor Carvalho<br>
-230\. Nair Rocha Gonçalves<br>
-231\. Nair Santos Raimundo<br>
-232\. Nair Toffeti Thame<br>
-233\. Neusa de Assis Cortez<br>
-234\. Nilcéia da Costa Guimarães<br>
-235\. Norma Torres Fernandes<br>
-236\. Odair Mario Martinelli<br>
-237\. Odete Cirino<br>
-238\. Odete de Oliveira<br>
-239\. Odila da Silva Clementino<br>
-240\. Olga Belfort Viana de Jesus<br>
-241\. Olinda Bonifácio<br>
-242\. Onofre Pereira Vianna<br>
-243\. Ophelia da Silva<br>
-244\. Orazil Barbosa da Silva<br>
-245\. Orlando Coppola<br>
-246\. Orlando de Paula<br>
-247\. Paulo Alves de Oliveira<br>
-248\. Pedro Cavasa<br>
-249\. Pedro José do Bomfim<br>
-250\. Raimunda Rabelo Cezar<br>
-251\. Raymundo Manoel de Jesus<br>
-252\. Regina Célia Conte<br>
-253\. Rejane Ribeiro do Nascimento<br>
-254\. Roly Ferreira Magalhães<br>
-255\. Rosa Pereira da Silva Sortanji<br>
-256\. Rosa de Souza Galvez<br>
-257\. Roseli de Carvalho Naszradi<br>
-258\. Rosina Azaneu Natal<br>
-259\. Rubens Barbosa<br>
-260\. Ruth Manzieri<br>
-261\. Sabina Ribeiro de Souza<br>
-262\. Salete de Oliveira<br>
-263\. Salma Francisca<br>
-264\. Sandra dos Reis Vieira Antonio<br>
-265\. Sebastiana Alípio de Oliveira<br>
-266\. Sebastiana Barbosa de Oliveira Buzzo<br>
-267\. Sebastiana Rodrigues de Aguiar<br>
-268\. Sebastião Firmino<br>
-269\. Severina Ramos de Queiroz<br>
-270\. Silvia Evangelista dos Santos<br>
-271\. Sonia Maria Aparecida Monteiro<br>
-272\. Suely Izilda Dias Rocha<br>
-273\. Tamára Eneida Dionisio<br>
-274\. Teresa Amélia Martins<br>
-275\. Teresa Francisca de Souza<br>
-276\. Teresa Maria de Lima Leone<br>
-277\. Therezinha Benedita Candido<br>
-278\. Therezinha do Carmo Oliveira<br>
-279\. Tora Steiwandt<br>
-280\. Valdir Matias Ferreira<br>
-281\. Vanderlei Lopes Sanches<br>
-282\. Vera Vieira Rodrigues Barbosa<br>
-283\. Veronica Batista da Silva<br>
-284\. Vicentina Gonçalves da Silva<br>
-285\. Vilma Lurial Gomes<br>
-286\. Vilma Nazaré Diniz<br>
-287\. Waldemar Theodoro Gonçalves<br>
-288\. Wanda Ribeiro das Dores<br>
-289\. Wanderley Bonno<br>
-290\. Zaina de Lourdes Rocha Costa<br>
-291\. Zelia Queiroz de Souza<br>
-292\. Zenilde Rita<br>
-293\. Zilda Sabino Tamoyo<br>
-294\. Zulmira Nalio Ribeiro<br>
-<br>
-133 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, decorrentes da exoneração dos servidores relacionados a seguir:<br>
-<br>
-1\. Agenor Tadeu Silva<br>
-2\. Alzerina Vilela de Paula<br>
-3\. Alzira Silva Joaquim<br>
-4\. Ana Aparecida Rodrigues de Albuquerque<br>
-5\. Ana Maria Albuquerque Gomes<br>
-6\. Ana Maria Prado Fernandes<br>
-7\. Ana Vieira da Silva<br>
-8\. Angela de Moraes Martins<br>
-9\. Antonia Ferreira Silva<br>
-10\. Antonia Ferreira da Silva<br>
-11\. Antonia Lopes Sanches<br>
-12\. Antonio Celso dos Santos<br>
-13\. Antonio Costenaro<br>
-14\. Antonio Isidorio da Silva<br>
-15\. Auxiliadora de Fátima Sousa<br>
-16\. Camila Godoi Hampariam<br>
-17\. Carlos Affonso Infantozzi<br>
-18\. Carlos Olimpio Felix Camargo<br>
-19\. Carmen Dolores de Sales<br>
-20\. Celma de Melo Barchi<br>
-21\. Clarisse Therezinha Soares Gomes Pinto<br>
-22\. Claudia Keiko Inafuco<br>
-23\. Cleria Miranda<br>
-24\. Cleunira Aparecida de Oliveira Pinheiro<br>
-25\. Clotilde Corrêa Lopes<br>
-26\. Conceição Maria de Jesus Souza<br>
-27\. Creusa Soares da Rocha<br>
-28\. Dalila D’Assumpção<br>
-29\. Decio Gouveia Luis<br>
-30\. Deonizio Candido Rodrigues<br>
-31\. Dilemar Pinho da Silva<br>
-32\. Divina Francisco Marques<br>
-33\. Durvalina Mendonça<br>
-34\. Durvalino de Oliveira<br>
-35\. Edinalva Oliveira de Sousa Araújo<br>
-36\. Eliane Diodato da Silva<br>
-37\. Eliane Martins<br>
-38\. Elita Gomes Soares<br>
-39\. Esmenia Monteiro Fidelis<br>
-40\. Esmeria Ferreira da Silva<br>
-41\. Ezequias Rosalvo Antonio<br>
-42\. Fátima Aparecida Pinheiro Barbosa<br>
-43\. Fidelis Soares de Souza Neto<br>
-44\. Francisco Ferreira da Silva<br>
-45\. Francisco Gomes de Abreu<br>
-46\. Francisco Trindade<br>
-47\. Guilherme Barreto da Costa Junior<br>
-48\. Hélcio Rogério Ferreira<br>
-49\. Irma de Godoy<br>
-50\. Isaac Cabrerisso<br>
-51\. Ivanildes Rosa Marques<br>
-52\. Ivany Carmona Machado<br>
-53\. Izaura Siqueira da Silva<br>
-54\. Jandyra Fernandes Sebastião<br>
-55\. Janet Aparecida Arrais Lopes<br>
-56\. João Braz da Silva<br>
-57\. João Carlos Lopes Pinho<br>
-58\. José Donizeti Barbosa da Silva<br>
-59\. José Everardo Gomes Souza<br>
-60\. José Henrique Baptista<br>
-61\. José Oswaldo Cursino de Moura Junior<br>
-62\. Juana Alcaide Llovio<br>
-63\. Jurandina Fortes Avila<br>
-64\. Laudicéa Tavares da Silva Xavier<br>
-65\. Lidia Maria Logullo dos Passos<br>
-66\. Lourdes do Carmo Oliveira Barros<br>
-67\. Lucia Fatima de Souza<br>
-68\. Luis Antonio Damasceno da Silva<br>
-69\. Luzia Zacarias Nascimento<br>
-70\. Manoel Nonato da Silva<br>
-71\. Márcio Ferreira da Silva<br>
-72\. Margarida Maria Silva<br>
-73\. Maria Alves de Souza Marques<br>
-74\. Maria da Anunciação da Silva Melo<br>
-75\. Maria Aparecida Cabral de Jesus<br>
-76\. Maria Cecilia Martins<br>
-77\. Maria Celia Passe Silva<br>
-78\. Maria de Fátima Leotério de Jesus<br>
-79\. Maria Francolino Ferreira<br>
-80\. Maria das Graças Costa dos Santos<br>
-81\. Maria Helena Rodrigues<br>
-82\. Maria Ignêz da Silva<br>
-83\. Maria Inacia Machado<br>
-84\. Maria José Amaral Melo<br>
-85\. Maria José Basilio Jeronimo<br>
-86\. Maria Lenilda Soares Ferreira das Dores<br>
-87\. Maria Luiza Nunes de Souza<br>
-88\. Maria Regina Francisco<br>
-89\. Maria Rita de Oliveira Carvalho<br>
-90\. Maria Sueli de Andrade do Vale<br>
-91\. Mauricio Gonçalves do Rego<br>
-92\. Mauricio Pereira Gomes<br>
-93\. Mauro Aparecido Bezerra de Menezes<br>
-94\. Misáo Yida<br>
-95\. Nair Inácia dos Santos<br>
-96\. Narciso Rizola<br>
-97\. Neide Duarte Grande<br>
-98\. Nelson Murilho Sanches<br>
-99\. Nelson de Oliveira Filho<br>
-100\. Neusa Tomé de Almeida<br>
-101\. Odair Ferreira<br>
-102\. Olga Cardoso Menezes<br>
-103\. Oseas Gonçalves de Oliveira<br>
-104\. Paulo César Cavalcante Darben<br>
-105\. Paulo Roberto Thomé da Silva<br>
-106\. Pedro Carneiro de Lima<br>
-107\. Pedro Luís Corrêa Pinto<br>
-108\. Raul de Souza<br>
-109\. Reinaldo de Carvalho Rodrigues<br>
-110\. Renato Valim de Melo<br>
-111\. Ricardo Velkis<br>
-112\. Rosa Lazara Gutierrez<br>
-113\. Rosa Maria Baptista<br>
-114\. Roseli de Oliveira<br>
-115\. Rosemary Aparecida de Souza Silva<br>
-116\. Sebastião Carlos da Silva<br>
-117\. Servilio Bento<br>
-118\. Silvio Eduardo Ferreira dos Santos<br>
-119\. Simone Belém<br>
-120\. Sônia Regina Vinholo da Silva<br>
-121\. Tereza Abrahão Lopes<br>
-122\. Tereza Cristina Mendes Rocha<br>
-123\. Tereza de Jesus Silva<br>
-124\. Therezinha Alves Spadaro<br>
-125\. Valdemir Cardoso Filho<br>
-126\. Vera Lucia Antonio dos Santos<br>
-127\. Vera Lúcia de Menezes<br>
-128\. William Rocha<br>
-129\. Wilma Christovam<br>
-130\. Wilma Garrido Silvestre<br>
-131\. Wilma Martins da Fonseca<br>
-132\. Wilson Roberto de Oliveira<br>
-133\. Zenalia de Sena Barros da Conceição<br>
-<br>
-27 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, decorrentes do falecimento dos servidores relacionados a seguir:<br>
-<br>
-1\. Antonia Bezerra<br>
-2\. Antonio Cardoso<br>
-3\. Antonio da Conceição Siqueira<br>
-4\. Aparecida Basilio<br>
-5\. Aparecida Carlos<br>
-6\. Aparecida da Conceição Ferreira Pacheco<br>
-7\. Arita Irani Casemiro<br>
-8\. Arnaldo Manzieri<br>
-9\. Aurora Siqueira dos Anjos<br>
-10\. Benedicto Ferreira da Cunha<br>
-11\. Carlos Roberto Pereira<br>
-12\. Elid Barbosa Viana<br>
-13\. Elza Rita dos Santos Ribeiro<br>
-14\. Erasmo de Souza<br>
-15\. Eunice Gabriel<br>
-16\. Eunice Irene da Silva Ferreira<br>
-17\. Eurico Francisco Chaves<br>
-18\. Evani Quadrado Guimarães<br>
-19\. Georgina Farah Police<br>
-20\. Guiomar da Silva Santos<br>
-21\. Jandira Maria da Silva Langer<br>
-22\. Marco Antonio Gonçalves<br>
-23\. Maria Helena Nogueira Toledo<br>
-24\. Maria Raimunda de Almeida Silva<br>
-25\. Noemia Rocha da Silva<br>
-26\. Odete Severiano de Almeida<br>
-27\. Orildes Luiz de Campos<br>
-<br>
-06 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, decorrentes da pena de demissão dos servidores relacionados a seguir:<br>
-<br>
-1\. Antonio Vitor Esmeraldino Costa<br>
-2\. Iraci Elias de Jesus<br>
-3\. Luzia Pereira<br>
-4\. Marcio Luiz Paniguel<br>
-5\. Terezinha Gonçalves Coletti<br>
-6\. Walter Mariano<br>
-<br>
-04 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, decorrentes da transposição dos servidores relacionados a seguir:<br>
-<br>
-1\. Dirce Pereira Benguella<br>
-2\. Elza Sabino Francisco<br>
-3\. Ines Rosaria Xavier<br>
-4\. Orlando Francisco de Souza Junior<br>
-<br>
+294 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, decorrentes da aposentadoria dos servidores relacionados a seguir:
+
+1\. Abimael Ribeiro Silva
+
+2\. Adalgisa Pedro Chaves
+
+3\. Aduir Belmiro
+
+4\. Albertina Teresa Correia
+
+5\. Alcides Roxo
+
+6\. Alice da Anunciação Silva
+
+7\. Alice de Paula Teixeira
+
+8\. Aliete Figueiredo de França
+
+9\. Alzira Rodrigues
+
+10\. Amada da Hora Santos
+
+11\. Ana Luisa da Silva
+
+12\. Ana Maria das Neves Maia
+
+13\. Ana Oniski Pinho
+
+14\. Analia Pereira de Almeida Reis
+
+15\. Anaura Baptista Savoia
+
+16\. Anesio Julião
+
+17\. Angelina Baptista Ciniello
+
+18\. Angelina Jorge Pires
+
+19\. Antonia Capelli Rugeri
+
+20\. Antonia Pereira dos Reis
+
+21\. Antonietta Garcia Pace
+
+22\. Antonio Carvalho de Araújo
+
+23\. Antonio Pereira Viana
+
+24\. Aparecida Alves de Freitas Inácio
+
+25\. Aparecida Luiz Jorge
+
+26\. Aparecida Madalena Batista Ferreira
+
+27\. Aparecida Regina dos Santos
+
+28\. Apparecida Loberto Monastero
+
+29\. Arminda Cândida de Jesus Rossigalli
+
+30\. Arminda Medrado Reis
+
+31\. Armindo Pereira
+
+32\. Baptistina Custodio Nogueira
+
+33\. Baptistinha Galhardo
+
+34\. Benedicta Barbosa Augusto
+
+35\. Benedicta Luiza Picaia
+
+36\. Benedita Maria Gregório da Silva
+
+37\. Benedita dos Santos
+
+38\. Benedito Ramos da Silva
+
+39\. Benedito Soares
+
+40\. Benicio Costa
+
+41\. Braulino Silva de Cerqueira
+
+42\. Candido Borges de Almeida
+
+43\. Celina Pedro de Moura
+
+44\. Cinira da Silva
+
+45\. Clarice Lourdes dos Santos
+
+46\. Claudete Machado de Oliveira
+
+47\. Clayton Pires Domingos
+
+48\. Cleusa Aurora Bispo
+
+49\. Conceição Aparecida da Penha Abrante
+
+50\. Dagmar de Freitas Maximiano
+
+51\. Dalva de Jesus Cardoso
+
+52\. Dejanira de Souza Assis
+
+53\. Dirce Martins Braga
+
+54\. Diva Cardoso Moura Machado
+
+55\. Divina da Silva Maia
+
+56\. Domingas Maria de Jesus Luiz
+
+57\. Doracy Anacleto
+
+58\. Dulce Cruz Vilella
+
+59\. Dulcinéa Coelho da Silva
+
+60\. Durcelina Cardoso de Paula
+
+61\. Durvalina Maria de Almeida
+
+62\. Edinólia Alves dos Santos
+
+63\. Edite Maria da Conceição Souza
+
+64\. Edméia Aparecida Nascimento
+
+65\. Edna Cardoso de Mello
+
+66\. Edna Maria do Nascimento
+
+67\. Edson Rogério Assunção
+
+68\. Elcelina Moraes dos Santos
+
+69\. Elisabete Manzieri
+
+70\. Elizabete Clara Ferreira
+
+71\. Elizabeth da Silva Deamo
+
+72\. Elza Maia da Costa
+
+73\. Elza Oliveira Simplicio
+
+74\. Emilia Siciliano
+
+75\. Enedina Ferreira da Silva
+
+76\. Esmeraldo Dias de Figueiredo
+
+77\. Esther Maria Molina
+
+78\. Esther Silva Marchi
+
+79\. Etelvina Gomes
+
+80\. Euda Francisca Rocha da Silva
+
+81\. Eunice Godeiro
+
+82\. Eva Bernardo Correia
+
+83\. Eva Mele
+
+84\. Evania Santos da Anunciação
+
+85\. Everaldo José Rodrigues Pimentel
+
+86\. Fatima de Carvalho
+
+87\. Fausto Voni
+
+88\. Fernando Vaz de Oliveira
+
+89\. Firmino Cirillo
+
+90\. Florentina Maia Almeida
+
+91\. Florinda Pereira Thomaz
+
+92\. Florinda Sardinha Querido
+
+93\. Florinda Savino
+
+94\. Floripes Fagundes
+
+95\. Florita Francisca Xavier
+
+96\. Florita Santos Varuzzi
+
+97\. Francina Santos Ormond
+
+98\. Francisca Alves dos Santos
+
+99\. Francisca Mercês Pineres
+
+100\. Francisca Ottoni dos Santos
+
+101\. Genoveva Cesario Thiele
+
+102\. Geralda Eustáquio
+
+103\. Geraldo Dias Fernandes
+
+104\. Gilda Cecília dos Santos
+
+105\. Guiomar da Silva Santos
+
+106\. Helena dos Santos Martins
+
+107\. Hilda Cerqueira Rocha
+
+108\. Hilda Emilia de Jesus
+
+109\. Hilda Maria Rodrigues
+
+110\. Hozana Ferreira dos Santos
+
+111\. Ieda Geraldo
+
+112\. Ignez de Freitas Gomes
+
+113\. Ignez dos Santos Luiz
+
+114\. Ilda Bernardina
+
+115\. Ilma Costa dos Santos
+
+116\. Inês Aguiar Dias
+
+117\. Iracema Ignocencio de Oliveira
+
+118\. Irene Delmira Ortega
+
+119\. Irene Inacio
+
+120\. Irinéa Dias
+
+121\. Irma Costa Marins
+
+122\. Isaura das Dores de Souza
+
+123\. Izabel Dias
+
+124\. Izabel Parra Furtado
+
+125\. Jacira Ribeiro dos Santos
+
+126\. Jacira Salgado da Luz
+
+127\. Jairo Escarcela de Almeida
+
+128\. Jayme Miquelino de Almeida
+
+129\. Joana Manoel da Silva
+
+130\. Joana Pereira da Silva
+
+131\. Joana do Rego Pereira
+
+132\. Joana dos Reis e Silva
+
+133\. Joanna Dirce Neute Bonfim
+
+134\. João Alfredo da Silva Moraes
+
+135\. José Benedito Mossolino
+
+136\. José Cesar de Andrade
+
+137\. José Cristiano Nogueira
+
+138\. José Joaquim Ferreira
+
+139\. José dos Santos
+
+140\. Josefa Inês Ferreira Leão
+
+141\. Josefa Medeiros dos Santos
+
+142\. Josefina Archilla
+
+143\. Josefina Ferreira Cesarino
+
+144\. Josemari dos Santos Toledo
+
+145\. Josephina Chankine Moreno
+
+146\. Josephina Sant’Anna Alves Pereira
+
+147\. Jurema da Silva Irapuan
+
+148\. Kasuko Figueiredo
+
+149\. Lafayette de Castro
+
+150\. Laurinda Quadrado Guimarães
+
+151\. Lazinha Pereira Alves
+
+152\. Léa Noemia de Freitas
+
+153\. Lenice Santana Spaulonci
+
+154\. Leonilde Bettoni Esse
+
+155\. Lorival Machado de Oliveira
+
+156\. Lourdes Vinha Marques
+
+157\. Lúcia Araújo de Sá
+
+158\. Lucia Caetano Ferreira
+
+159\. Lucia da Conceição Baptista
+
+160\. Lucia Marcolina Pereira
+
+161\. Lucia Silvia Carvalho Rosa
+
+162\. Luiz Alves Filho
+
+163\. Luiz Carlos Cunha
+
+164\. Luiz Carlos de Oliveira
+
+165\. Luzia Ramos dos Santos
+
+166\. Luzia Therezinha da Silva
+
+167\. Magda Silva
+
+168\. Margarida Cancio Galdino
+
+169\. Margarida Domingues Santana
+
+170\. Maria Afonsina Pereira Vilar
+
+171\. Maria Alice de Moura Machado
+
+172\. Maria Antonietta Voni
+
+173\. Maria Aparecida de Almeida
+
+174\. Maria Aparecida Alves
+
+175\. Maria Aparecida Callipo Schirato
+
+176\. Maria Aparecida Fermiano
+
+177\. Maria Aparecida Lucas
+
+178\. Maria Aparecida Maciel
+
+179\. Maria Aparecida de Morais Adriano
+
+180\. Maria Aparecida Poppi
+
+181\. Maria Aparecida dos Santos
+
+182\. Maria Aparecida dos Santos
+
+183\. Maria Apparecida Pietro Pignatari
+
+184\. Maria de Araújo Lima
+
+185\. Maria Beatriz Gonçalves
+
+186\. Maria Benedita Osmar
+
+187\. Maria Bernardo da Silva Oliveira
+
+188\. Maria Cleuza de Souza
+
+189\. Maria Concebida de Oliveira Cruz Felipe
+
+190\. Maria da Conceição dos Santos
+
+191\. Maria da Conceição Segunda
+
+192\. Maria Cristina de Souza Moreira
+
+193\. Maria das Dores Gonçalves
+
+194\. Maria das Dores Nunes de Castro
+
+195\. Maria Edileuza de Lima
+
+196\. Maria Escolastica Michelette de Souza
+
+197\. Maria Felícia Gomes Melges
+
+198\. Maria Geralda dos Santos
+
+199\. Maria da Gloria Silva
+
+200\. Maria das Graças Madeira Santos
+
+201\. Maria das Graças Silva
+
+202\. Maria Irene de Lima
+
+203\. Maria de Jesus Peres
+
+204\. Maria Joaquina dos Santos
+
+205\. Maria Jose de Andrade
+
+206\. Maria Jose de Sales Dias
+
+207\. Maria José Sanches Rocha
+
+208\. Maria de Lourdes Campos
+
+209\. Maria Luiza Alves Rocha
+
+210\. Maria Luiza Bergantin
+
+211\. Maria Magdalena Perretti Brancacio
+
+212\. Maria Margarida Benevides dos Santos
+
+213\. Maria Margarida Gomes
+
+214\. Maria das Neves Silva
+
+215\. Maria Sebastião Assumpção
+
+216\. Maria Soares da Silva
+
+217\. Maria Teresa Barreto Mariano
+
+218\. Maria Victu do Carmo
+
+219\. Marina Bueno
+
+220\. Marilene de Oliveira Vicente
+
+221\. Marisa da Silva
+
+222\. Maura da Conceição Amaral
+
+223\. Maura Rezende da Silva
+
+224\. Mauro Alves de Moraes
+
+225\. Mercedes Benedita de Souza
+
+226\. Miquelina Gomes Candeleiro
+
+227\. Miriam de Melo Penha
+
+228\. Murilo Augusto Fernandes de Souza
+
+229\. Nailor Carvalho
+
+230\. Nair Rocha Gonçalves
+
+231\. Nair Santos Raimundo
+
+232\. Nair Toffeti Thame
+
+233\. Neusa de Assis Cortez
+
+234\. Nilcéia da Costa Guimarães
+
+235\. Norma Torres Fernandes
+
+236\. Odair Mario Martinelli
+
+237\. Odete Cirino
+
+238\. Odete de Oliveira
+
+239\. Odila da Silva Clementino
+
+240\. Olga Belfort Viana de Jesus
+
+241\. Olinda Bonifácio
+
+242\. Onofre Pereira Vianna
+
+243\. Ophelia da Silva
+
+244\. Orazil Barbosa da Silva
+
+245\. Orlando Coppola
+
+246\. Orlando de Paula
+
+247\. Paulo Alves de Oliveira
+
+248\. Pedro Cavasa
+
+249\. Pedro José do Bomfim
+
+250\. Raimunda Rabelo Cezar
+
+251\. Raymundo Manoel de Jesus
+
+252\. Regina Célia Conte
+
+253\. Rejane Ribeiro do Nascimento
+
+254\. Roly Ferreira Magalhães
+
+255\. Rosa Pereira da Silva Sortanji
+
+256\. Rosa de Souza Galvez
+
+257\. Roseli de Carvalho Naszradi
+
+258\. Rosina Azaneu Natal
+
+259\. Rubens Barbosa
+
+260\. Ruth Manzieri
+
+261\. Sabina Ribeiro de Souza
+
+262\. Salete de Oliveira
+
+263\. Salma Francisca
+
+264\. Sandra dos Reis Vieira Antonio
+
+265\. Sebastiana Alípio de Oliveira
+
+266\. Sebastiana Barbosa de Oliveira Buzzo
+
+267\. Sebastiana Rodrigues de Aguiar
+
+268\. Sebastião Firmino
+
+269\. Severina Ramos de Queiroz
+
+270\. Silvia Evangelista dos Santos
+
+271\. Sonia Maria Aparecida Monteiro
+
+272\. Suely Izilda Dias Rocha
+
+273\. Tamára Eneida Dionisio
+
+274\. Teresa Amélia Martins
+
+275\. Teresa Francisca de Souza
+
+276\. Teresa Maria de Lima Leone
+
+277\. Therezinha Benedita Candido
+
+278\. Therezinha do Carmo Oliveira
+
+279\. Tora Steiwandt
+
+280\. Valdir Matias Ferreira
+
+281\. Vanderlei Lopes Sanches
+
+282\. Vera Vieira Rodrigues Barbosa
+
+283\. Veronica Batista da Silva
+
+284\. Vicentina Gonçalves da Silva
+
+285\. Vilma Lurial Gomes
+
+286\. Vilma Nazaré Diniz
+
+287\. Waldemar Theodoro Gonçalves
+
+288\. Wanda Ribeiro das Dores
+
+289\. Wanderley Bonno
+
+290\. Zaina de Lourdes Rocha Costa
+
+291\. Zelia Queiroz de Souza
+
+292\. Zenilde Rita
+
+293\. Zilda Sabino Tamoyo
+
+294\. Zulmira Nalio Ribeiro
+
+133 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, decorrentes da exoneração dos servidores relacionados a seguir:
+
+1\. Agenor Tadeu Silva
+
+2\. Alzerina Vilela de Paula
+
+3\. Alzira Silva Joaquim
+
+4\. Ana Aparecida Rodrigues de Albuquerque
+
+5\. Ana Maria Albuquerque Gomes
+
+6\. Ana Maria Prado Fernandes
+
+7\. Ana Vieira da Silva
+
+8\. Angela de Moraes Martins
+
+9\. Antonia Ferreira Silva
+
+10\. Antonia Ferreira da Silva
+
+11\. Antonia Lopes Sanches
+
+12\. Antonio Celso dos Santos
+
+13\. Antonio Costenaro
+
+14\. Antonio Isidorio da Silva
+
+15\. Auxiliadora de Fátima Sousa
+
+16\. Camila Godoi Hampariam
+
+17\. Carlos Affonso Infantozzi
+
+18\. Carlos Olimpio Felix Camargo
+
+19\. Carmen Dolores de Sales
+
+20\. Celma de Melo Barchi
+
+21\. Clarisse Therezinha Soares Gomes Pinto
+
+22\. Claudia Keiko Inafuco
+
+23\. Cleria Miranda
+
+24\. Cleunira Aparecida de Oliveira Pinheiro
+
+25\. Clotilde Corrêa Lopes
+
+26\. Conceição Maria de Jesus Souza
+
+27\. Creusa Soares da Rocha
+
+28\. Dalila D’Assumpção
+
+29\. Decio Gouveia Luis
+
+30\. Deonizio Candido Rodrigues
+
+31\. Dilemar Pinho da Silva
+
+32\. Divina Francisco Marques
+
+33\. Durvalina Mendonça
+
+34\. Durvalino de Oliveira
+
+35\. Edinalva Oliveira de Sousa Araújo
+
+36\. Eliane Diodato da Silva
+
+37\. Eliane Martins
+
+38\. Elita Gomes Soares
+
+39\. Esmenia Monteiro Fidelis
+
+40\. Esmeria Ferreira da Silva
+
+41\. Ezequias Rosalvo Antonio
+
+42\. Fátima Aparecida Pinheiro Barbosa
+
+43\. Fidelis Soares de Souza Neto
+
+44\. Francisco Ferreira da Silva
+
+45\. Francisco Gomes de Abreu
+
+46\. Francisco Trindade
+
+47\. Guilherme Barreto da Costa Junior
+
+48\. Hélcio Rogério Ferreira
+
+49\. Irma de Godoy
+
+50\. Isaac Cabrerisso
+
+51\. Ivanildes Rosa Marques
+
+52\. Ivany Carmona Machado
+
+53\. Izaura Siqueira da Silva
+
+54\. Jandyra Fernandes Sebastião
+
+55\. Janet Aparecida Arrais Lopes
+
+56\. João Braz da Silva
+
+57\. João Carlos Lopes Pinho
+
+58\. José Donizeti Barbosa da Silva
+
+59\. José Everardo Gomes Souza
+
+60\. José Henrique Baptista
+
+61\. José Oswaldo Cursino de Moura Junior
+
+62\. Juana Alcaide Llovio
+
+63\. Jurandina Fortes Avila
+
+64\. Laudicéa Tavares da Silva Xavier
+
+65\. Lidia Maria Logullo dos Passos
+
+66\. Lourdes do Carmo Oliveira Barros
+
+67\. Lucia Fatima de Souza
+
+68\. Luis Antonio Damasceno da Silva
+
+69\. Luzia Zacarias Nascimento
+
+70\. Manoel Nonato da Silva
+
+71\. Márcio Ferreira da Silva
+
+72\. Margarida Maria Silva
+
+73\. Maria Alves de Souza Marques
+
+74\. Maria da Anunciação da Silva Melo
+
+75\. Maria Aparecida Cabral de Jesus
+
+76\. Maria Cecilia Martins
+
+77\. Maria Celia Passe Silva
+
+78\. Maria de Fátima Leotério de Jesus
+
+79\. Maria Francolino Ferreira
+
+80\. Maria das Graças Costa dos Santos
+
+81\. Maria Helena Rodrigues
+
+82\. Maria Ignêz da Silva
+
+83\. Maria Inacia Machado
+
+84\. Maria José Amaral Melo
+
+85\. Maria José Basilio Jeronimo
+
+86\. Maria Lenilda Soares Ferreira das Dores
+
+87\. Maria Luiza Nunes de Souza
+
+88\. Maria Regina Francisco
+
+89\. Maria Rita de Oliveira Carvalho
+
+90\. Maria Sueli de Andrade do Vale
+
+91\. Mauricio Gonçalves do Rego
+
+92\. Mauricio Pereira Gomes
+
+93\. Mauro Aparecido Bezerra de Menezes
+
+94\. Misáo Yida
+
+95\. Nair Inácia dos Santos
+
+96\. Narciso Rizola
+
+97\. Neide Duarte Grande
+
+98\. Nelson Murilho Sanches
+
+99\. Nelson de Oliveira Filho
+
+100\. Neusa Tomé de Almeida
+
+101\. Odair Ferreira
+
+102\. Olga Cardoso Menezes
+
+103\. Oseas Gonçalves de Oliveira
+
+104\. Paulo César Cavalcante Darben
+
+105\. Paulo Roberto Thomé da Silva
+
+106\. Pedro Carneiro de Lima
+
+107\. Pedro Luís Corrêa Pinto
+
+108\. Raul de Souza
+
+109\. Reinaldo de Carvalho Rodrigues
+
+110\. Renato Valim de Melo
+
+111\. Ricardo Velkis
+
+112\. Rosa Lazara Gutierrez
+
+113\. Rosa Maria Baptista
+
+114\. Roseli de Oliveira
+
+115\. Rosemary Aparecida de Souza Silva
+
+116\. Sebastião Carlos da Silva
+
+117\. Servilio Bento
+
+118\. Silvio Eduardo Ferreira dos Santos
+
+119\. Simone Belém
+
+120\. Sônia Regina Vinholo da Silva
+
+121\. Tereza Abrahão Lopes
+
+122\. Tereza Cristina Mendes Rocha
+
+123\. Tereza de Jesus Silva
+
+124\. Therezinha Alves Spadaro
+
+125\. Valdemir Cardoso Filho
+
+126\. Vera Lucia Antonio dos Santos
+
+127\. Vera Lúcia de Menezes
+
+128\. William Rocha
+
+129\. Wilma Christovam
+
+130\. Wilma Garrido Silvestre
+
+131\. Wilma Martins da Fonseca
+
+132\. Wilson Roberto de Oliveira
+
+133\. Zenalia de Sena Barros da Conceição
+
+27 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, decorrentes do falecimento dos servidores relacionados a seguir:
+
+1\. Antonia Bezerra
+
+2\. Antonio Cardoso
+
+3\. Antonio da Conceição Siqueira
+
+4\. Aparecida Basilio
+
+5\. Aparecida Carlos
+
+6\. Aparecida da Conceição Ferreira Pacheco
+
+7\. Arita Irani Casemiro
+
+8\. Arnaldo Manzieri
+
+9\. Aurora Siqueira dos Anjos
+
+10\. Benedicto Ferreira da Cunha
+
+11\. Carlos Roberto Pereira
+
+12\. Elid Barbosa Viana
+
+13\. Elza Rita dos Santos Ribeiro
+
+14\. Erasmo de Souza
+
+15\. Eunice Gabriel
+
+16\. Eunice Irene da Silva Ferreira
+
+17\. Eurico Francisco Chaves
+
+18\. Evani Quadrado Guimarães
+
+19\. Georgina Farah Police
+
+20\. Guiomar da Silva Santos
+
+21\. Jandira Maria da Silva Langer
+
+22\. Marco Antonio Gonçalves
+
+23\. Maria Helena Nogueira Toledo
+
+24\. Maria Raimunda de Almeida Silva
+
+25\. Noemia Rocha da Silva
+
+26\. Odete Severiano de Almeida
+
+27\. Orildes Luiz de Campos
+
+06 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, decorrentes da pena de demissão dos servidores relacionados a seguir:
+
+1\. Antonio Vitor Esmeraldino Costa
+
+2\. Iraci Elias de Jesus
+
+3\. Luzia Pereira
+
+4\. Marcio Luiz Paniguel
+
+5\. Terezinha Gonçalves Coletti
+
+6\. Walter Mariano
+
+04 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, decorrentes da transposição dos servidores relacionados a seguir:
+
+1\. Dirce Pereira Benguella
+
+2\. Elza Sabino Francisco
+
+3\. Ines Rosaria Xavier
+
+4\. Orlando Francisco de Souza Junior
+
 40 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca da Capital, criados pelas Leis relacionadas a seguir:
 
-<br>
-20 criados pela L.C. nº 886/2000<br>
+20 criados pela L.C. nº 886/2000
+
 20 criados pela [Lei nº 11.542/2003](http://www.al.sp.gov.br/norma?id=48969)
 
-<br>
-123 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO das Comarcas do Interior, decorrentes da aposentadoria dos servidores relacionados a seguir:<br>
-<br>
-1\. Alair Pereira<br>
-2\. Alcides de Souza Neves<br>
-3\. Alvaro Manuel Cazeiro<br>
-4\. Anastacio Cyrillo Pereira<br>
-5\. Antonia Neusa de Freitas Oliveira<br>
-6\. Antonia Souza de Oliveira<br>
-7\. Antonio Dias de Souza<br>
-8\. Antonio Ferreira de Lima<br>
-9\. Antonio Silva<br>
-10\. Aparecida Cavalcante<br>
-11\. Aparecida de Sá Pelege<br>
-12\. Aparecido Ramires Correia<br>
-13\. Apparecida da Silva Malatesta<br>
-14\. Apparecida Ferreira Mesquita Buck<br>
-15\. Arlinda Marques de Oliveira Ferreira<br>
-16\. Carmelita Santiago<br>
-17\. Célia de Oliveira Almeida<br>
-18\. Celina Mercia Modes<br>
-19\. Clarice Montanari<br>
-20\. Cleusa Semeão Pavilanis<br>
-21\. Cornélio da Silva Carneiro<br>
-22\. Darcy de Souza Franco<br>
-23\. Diocelaine Aparecida Moraes<br>
-24\. Dolores Barros Souza de Brito<br>
-25\. Edvaldo Ferreira do Nascimento<br>
-26\. Elenice Vieira<br>
-27\. Elmo da Fonseca Crescêncio<br>
-28\. Elvide Michelin Monteiro<br>
-29\. Eulalia Souza Pedroso Farias<br>
-30\. Eunice Felipe de Araújo Herszkqwicz<br>
-31\. Eunice Maria de Oliveira Toledo<br>
-32\. Flora de Andrade Melo<br>
-33\. Francisca Irene Limeira Custodio<br>
-34\. Francisco Santana e Silva<br>
-35\. Geralda Pereira Frias<br>
-36\. Gilda da Conceição Alves Camargo<br>
-37\. Gilda Faria de Sousa<br>
-38\. Giselda Vieira Santos<br>
-39\. Hedwig Bruchmann<br>
-40\. Helena Marroque Oliveira<br>
-41\. Hilda Antonio Morato<br>
-42\. Ida de Oliveira Toledo<br>
-43\. Idalina Gonçalves dos Santos<br>
-44\. Ignez Moreira de Faria<br>
-45\. Iracema Landin<br>
-46\. Iraci Alves de Sousa Barbosa<br>
-47\. Iraci Honorio Canezin<br>
-48\. Irene Rosa de Souza de Oliveira<br>
-49\. Israel de Souza Meira<br>
-50\. Ivone Pereira do Nascimento<br>
-51\. Izabel Nicolao Fernandes<br>
-52\. Izaura Deana do Carmo Lopes<br>
-53\. Izilda Aparecida Barbosa da Silva<br>
-54\. Izonete dos Santos Machado<br>
-55\. João Batista Duarte<br>
-56\. José Germano Correa<br>
-57\. José Nascimento Pereira<br>
-58\. José Pessoa de Brito Filho<br>
-59\. José Ribeiro<br>
-60\. Lauderina Garcia Natal<br>
-61\. Laura Maria de Jesus<br>
-62\. Layde Rodrigues de Faria<br>
-63\. Leoni Araujo<br>
-64\. Luiz Carlos de Oliveira<br>
-65\. Luiza Braga Zarbietti<br>
-66\. Luiza Tamiko Seto Pedroso<br>
-67\. Luzia Aparecida Bernardes<br>
-68\. Luzinete Custódia da Silva<br>
-69\. Maria Alves Vaz<br>
-70\. Maria Aparecida Afonso de Oliveira<br>
-71\. Maria Aparecida Catalani Oliveira<br>
-72\. Maria Aparecida da Silva Vitória<br>
-73\. Maria Aparecida Mafra<br>
-74\. Maria Benedita de Almeida Mello<br>
-75\. Maria da Salete Ramalho de Mendonça Souza<br>
-76\. Maria das Dores Miranda<br>
-77\. Maria das Graças Camargo da Silva<br>
-78\. Maria de Lourdes Bandeira Novais<br>
-79\. Maria de Lourdes Ruiz Veroneze<br>
-80\. Maria Faria Costa Romão<br>
-81\. Maria Madalena Gonçalves<br>
-82\. Maria Niuza Aparecida Pelegrine Maravelli<br>
-83\. Maria Pereira Medina<br>
-84\. Maria Rosa da Cruz Pereira<br>
-85\. Maria Tereza Freire Diniz<br>
-86\. Maria Terezinha Bernardes<br>
-87\. Marilene Franco<br>
-88\. Marinez Dela Valle<br>
-89\. Marisa Callil Abdala<br>
-90\. Marli Farias de Souza<br>
-91\. Mary Lima<br>
-92\. Maura Bernardina Lopes<br>
-93\. Mercedes Maturana da Silva<br>
-94\. Nair Capalbo Silva<br>
-95\. Nair Grella<br>
-96\. Nelza Maria de Souza Rodrigues<br>
-97\. Neusa de Aguirra Sarria<br>
-98\. Neyde de Souza<br>
-99\. Noemia Joana Caldiron de Campos<br>
-100\. Odair Ramos da Silva<br>
-101\. Olinda Maria Jesus de Paula<br>
-102\. Osvaldo Fareleira<br>
-103\. Paulita dos Santos Antonio<br>
-104\. Regina Cely Tibiriça<br>
-105\. Rita Geraldina de Asevedo<br>
-106\. Ronaldo Sotrate<br>
-107\. Rosa Rodrigues Andrioza<br>
-108\. Roséte Pereira Novais<br>
-109\. Rute Vieira do Nascimento<br>
-110\. Sarah Steiner Delasta<br>
-111\. Sebastiana de Souza Verardi<br>
-112\. Sidinei Carlos Forti<br>
-113\. Silvia de Jesus da Silva da Costa<br>
-114\. Sirlei Tessari dos Santos<br>
-115\. Solangela Aparecida Alexandre dos Santos<br>
-116\. Sueli Alves Zamperini<br>
-117\. Sueli Aparecida Sampaio<br>
-118\. Sueli Pedrina Rodrigues<br>
-119\. Terêsinha Milhoci Fioroni<br>
-120\. Terezinha Vieira de Araujo<br>
-121\. Vanilda de Lima Ferreira<br>
-122\. Vladnilson Costa Martins<br>
-123\. Wilson Rosseto Dalonso<br>
-<br>
-64 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO das Comarcas do Interior, decorrentes da exoneração dos servidores relacionados a seguir:<br>
-<br>
-1\. Abrahão Borges Rodrigues<br>
-2\. Antonio Aparecido Alonso<br>
-3\. Antonio de Castro Melo<br>
-4\. Antonio Donizetti Martins<br>
-5\. Aparecido Bartolomei<br>
-6\. Ari Izidoro da Silva<br>
-7\. Aureo da Silva<br>
-8\. Aylton Conceição dos Santos<br>
-9\. Carlos de Souza<br>
-10\. Catarina Stehlick Marcondes<br>
-11\. Cidalva Maria Calegari<br>
-12\. Clarice Setsuko Sinozuke<br>
-13\. Claudio Galdeano Lopes<br>
-14\. Cleodon Dantas Ferreira<br>
-15\. Creuza Aparecida da Silva Rôa<br>
-16\. Desidério Mercês da Cruz<br>
-17\. Devair Santo Fantini<br>
-18\. Eliana Aparecida da Silva<br>
-19\. Francisco Lamunier Fernandes da Silva<br>
-20\. Geni Aparecida Tangerina<br>
-21\. Gerardo Nunes Acacio<br>
-22\. Gercilia Honorio de Alcântara<br>
-23\. Gervazio José de Souza<br>
-24\. Gilberto Gomes Aguiar<br>
-25\. Herni da Silva Pereira<br>
-26\. Ilda da Silva Olfermann Ribeiro<br>
-27\. João Antonio Monteiro Freire<br>
-28\. Joaquim Laércio da Silva<br>
-29\. Joaquim Pinto Ferreira Neto<br>
-30\. José Carlos Pedro<br>
-31\. José Valter Cardoso de Barros<br>
-32\. Lucas Ferreira Barbosa<br>
-33\. Lucio Franco Romano<br>
-34\. Luis Carlos França Correia<br>
-35\. Luiz Heitor Avila<br>
-36\. Marco Antonio Piton<br>
-37\. Marco Antonio Teixeira<br>
-38\. Marcos Balduino<br>
-39\. Maria Apparecida Racoci<br>
-40\. Maria Helena Pancieri Lourenço<br>
-41\. Maria José Nogueira<br>
-42\. Mario Benedito de Souza<br>
-43\. Mario Montani Junior<br>
-44\. Mauricio de Oliveira<br>
-45\. Mineo Masago<br>
-46\. Nilcléia Rodrigues Groxco<br>
-47\. Otilia Rodrigues da Motta<br>
-48\. Paulo José Leardine<br>
-49\. Pedro Pires Barbosa<br>
-50\. Regina Célia Carniato Luiz Neves<br>
-51\. Rita de Cassia Oliveira de Lara<br>
-52\. Ronaldo Cavalcante Darben<br>
-53\. Rosely Santiago Lucindo<br>
-54\. Rubens Biscaino Moreno<br>
-55\. Sandra Maria Canato<br>
-56\. Sebastião Vieira dos Santos<br>
-57\. Selma Aparecida Alves dos Santos<br>
-58\. Sérgio Antonio de Almeida<br>
-59\. Silvana Maria Simões<br>
-60\. Teresinha de Jesus Amaral<br>
-61\. Thereza Felicetti<br>
-62\. Valdomiro Claro da Rosa<br>
-63\. Wagner Alexandre<br>
-64\. Wilson Roberto de Moura Machado<br>
-<br>
-08 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO das Comarcas do Interior, decorrentes do falecimento dos servidores relacionados a seguir:<br>
-<br>
-1\. Anália Marcelino Gomides<br>
-2\. Aparecida do Carmo de Morais Oliveira<br>
-3\. Benedita Custódio<br>
-4\. Iolanda Benitz de Oliveira<br>
-5\. Irani de Souza Oliveira<br>
-6\. Maria Aparecida Rigolin<br>
-7\. Neide Garson Ferreira<br>
-8\. Rosa Faraguti Amadeu<br>
-<br>
-01 cargo vago de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca do Interior, decorrente da pena de demissão do servidor relacionado a seguir:<br>
-<br>
-1\. Jarbas Pinto<br>
-<br>
+123 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO das Comarcas do Interior, decorrentes da aposentadoria dos servidores relacionados a seguir:
+
+1\. Alair Pereira
+
+2\. Alcides de Souza Neves
+
+3\. Alvaro Manuel Cazeiro
+
+4\. Anastacio Cyrillo Pereira
+
+5\. Antonia Neusa de Freitas Oliveira
+
+6\. Antonia Souza de Oliveira
+
+7\. Antonio Dias de Souza
+
+8\. Antonio Ferreira de Lima
+
+9\. Antonio Silva
+
+10\. Aparecida Cavalcante
+
+11\. Aparecida de Sá Pelege
+
+12\. Aparecido Ramires Correia
+
+13\. Apparecida da Silva Malatesta
+
+14\. Apparecida Ferreira Mesquita Buck
+
+15\. Arlinda Marques de Oliveira Ferreira
+
+16\. Carmelita Santiago
+
+17\. Célia de Oliveira Almeida
+
+18\. Celina Mercia Modes
+
+19\. Clarice Montanari
+
+20\. Cleusa Semeão Pavilanis
+
+21\. Cornélio da Silva Carneiro
+
+22\. Darcy de Souza Franco
+
+23\. Diocelaine Aparecida Moraes
+
+24\. Dolores Barros Souza de Brito
+
+25\. Edvaldo Ferreira do Nascimento
+
+26\. Elenice Vieira
+
+27\. Elmo da Fonseca Crescêncio
+
+28\. Elvide Michelin Monteiro
+
+29\. Eulalia Souza Pedroso Farias
+
+30\. Eunice Felipe de Araújo Herszkqwicz
+
+31\. Eunice Maria de Oliveira Toledo
+
+32\. Flora de Andrade Melo
+
+33\. Francisca Irene Limeira Custodio
+
+34\. Francisco Santana e Silva
+
+35\. Geralda Pereira Frias
+
+36\. Gilda da Conceição Alves Camargo
+
+37\. Gilda Faria de Sousa
+
+38\. Giselda Vieira Santos
+
+39\. Hedwig Bruchmann
+
+40\. Helena Marroque Oliveira
+
+41\. Hilda Antonio Morato
+
+42\. Ida de Oliveira Toledo
+
+43\. Idalina Gonçalves dos Santos
+
+44\. Ignez Moreira de Faria
+
+45\. Iracema Landin
+
+46\. Iraci Alves de Sousa Barbosa
+
+47\. Iraci Honorio Canezin
+
+48\. Irene Rosa de Souza de Oliveira
+
+49\. Israel de Souza Meira
+
+50\. Ivone Pereira do Nascimento
+
+51\. Izabel Nicolao Fernandes
+
+52\. Izaura Deana do Carmo Lopes
+
+53\. Izilda Aparecida Barbosa da Silva
+
+54\. Izonete dos Santos Machado
+
+55\. João Batista Duarte
+
+56\. José Germano Correa
+
+57\. José Nascimento Pereira
+
+58\. José Pessoa de Brito Filho
+
+59\. José Ribeiro
+
+60\. Lauderina Garcia Natal
+
+61\. Laura Maria de Jesus
+
+62\. Layde Rodrigues de Faria
+
+63\. Leoni Araujo
+
+64\. Luiz Carlos de Oliveira
+
+65\. Luiza Braga Zarbietti
+
+66\. Luiza Tamiko Seto Pedroso
+
+67\. Luzia Aparecida Bernardes
+
+68\. Luzinete Custódia da Silva
+
+69\. Maria Alves Vaz
+
+70\. Maria Aparecida Afonso de Oliveira
+
+71\. Maria Aparecida Catalani Oliveira
+
+72\. Maria Aparecida da Silva Vitória
+
+73\. Maria Aparecida Mafra
+
+74\. Maria Benedita de Almeida Mello
+
+75\. Maria da Salete Ramalho de Mendonça Souza
+
+76\. Maria das Dores Miranda
+
+77\. Maria das Graças Camargo da Silva
+
+78\. Maria de Lourdes Bandeira Novais
+
+79\. Maria de Lourdes Ruiz Veroneze
+
+80\. Maria Faria Costa Romão
+
+81\. Maria Madalena Gonçalves
+
+82\. Maria Niuza Aparecida Pelegrine Maravelli
+
+83\. Maria Pereira Medina
+
+84\. Maria Rosa da Cruz Pereira
+
+85\. Maria Tereza Freire Diniz
+
+86\. Maria Terezinha Bernardes
+
+87\. Marilene Franco
+
+88\. Marinez Dela Valle
+
+89\. Marisa Callil Abdala
+
+90\. Marli Farias de Souza
+
+91\. Mary Lima
+
+92\. Maura Bernardina Lopes
+
+93\. Mercedes Maturana da Silva
+
+94\. Nair Capalbo Silva
+
+95\. Nair Grella
+
+96\. Nelza Maria de Souza Rodrigues
+
+97\. Neusa de Aguirra Sarria
+
+98\. Neyde de Souza
+
+99\. Noemia Joana Caldiron de Campos
+
+100\. Odair Ramos da Silva
+
+101\. Olinda Maria Jesus de Paula
+
+102\. Osvaldo Fareleira
+
+103\. Paulita dos Santos Antonio
+
+104\. Regina Cely Tibiriça
+
+105\. Rita Geraldina de Asevedo
+
+106\. Ronaldo Sotrate
+
+107\. Rosa Rodrigues Andrioza
+
+108\. Roséte Pereira Novais
+
+109\. Rute Vieira do Nascimento
+
+110\. Sarah Steiner Delasta
+
+111\. Sebastiana de Souza Verardi
+
+112\. Sidinei Carlos Forti
+
+113\. Silvia de Jesus da Silva da Costa
+
+114\. Sirlei Tessari dos Santos
+
+115\. Solangela Aparecida Alexandre dos Santos
+
+116\. Sueli Alves Zamperini
+
+117\. Sueli Aparecida Sampaio
+
+118\. Sueli Pedrina Rodrigues
+
+119\. Terêsinha Milhoci Fioroni
+
+120\. Terezinha Vieira de Araujo
+
+121\. Vanilda de Lima Ferreira
+
+122\. Vladnilson Costa Martins
+
+123\. Wilson Rosseto Dalonso
+
+64 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO das Comarcas do Interior, decorrentes da exoneração dos servidores relacionados a seguir:
+
+1\. Abrahão Borges Rodrigues
+
+2\. Antonio Aparecido Alonso
+
+3\. Antonio de Castro Melo
+
+4\. Antonio Donizetti Martins
+
+5\. Aparecido Bartolomei
+
+6\. Ari Izidoro da Silva
+
+7\. Aureo da Silva
+
+8\. Aylton Conceição dos Santos
+
+9\. Carlos de Souza
+
+10\. Catarina Stehlick Marcondes
+
+11\. Cidalva Maria Calegari
+
+12\. Clarice Setsuko Sinozuke
+
+13\. Claudio Galdeano Lopes
+
+14\. Cleodon Dantas Ferreira
+
+15\. Creuza Aparecida da Silva Rôa
+
+16\. Desidério Mercês da Cruz
+
+17\. Devair Santo Fantini
+
+18\. Eliana Aparecida da Silva
+
+19\. Francisco Lamunier Fernandes da Silva
+
+20\. Geni Aparecida Tangerina
+
+21\. Gerardo Nunes Acacio
+
+22\. Gercilia Honorio de Alcântara
+
+23\. Gervazio José de Souza
+
+24\. Gilberto Gomes Aguiar
+
+25\. Herni da Silva Pereira
+
+26\. Ilda da Silva Olfermann Ribeiro
+
+27\. João Antonio Monteiro Freire
+
+28\. Joaquim Laércio da Silva
+
+29\. Joaquim Pinto Ferreira Neto
+
+30\. José Carlos Pedro
+
+31\. José Valter Cardoso de Barros
+
+32\. Lucas Ferreira Barbosa
+
+33\. Lucio Franco Romano
+
+34\. Luis Carlos França Correia
+
+35\. Luiz Heitor Avila
+
+36\. Marco Antonio Piton
+
+37\. Marco Antonio Teixeira
+
+38\. Marcos Balduino
+
+39\. Maria Apparecida Racoci
+
+40\. Maria Helena Pancieri Lourenço
+
+41\. Maria José Nogueira
+
+42\. Mario Benedito de Souza
+
+43\. Mario Montani Junior
+
+44\. Mauricio de Oliveira
+
+45\. Mineo Masago
+
+46\. Nilcléia Rodrigues Groxco
+
+47\. Otilia Rodrigues da Motta
+
+48\. Paulo José Leardine
+
+49\. Pedro Pires Barbosa
+
+50\. Regina Célia Carniato Luiz Neves
+
+51\. Rita de Cassia Oliveira de Lara
+
+52\. Ronaldo Cavalcante Darben
+
+53\. Rosely Santiago Lucindo
+
+54\. Rubens Biscaino Moreno
+
+55\. Sandra Maria Canato
+
+56\. Sebastião Vieira dos Santos
+
+57\. Selma Aparecida Alves dos Santos
+
+58\. Sérgio Antonio de Almeida
+
+59\. Silvana Maria Simões
+
+60\. Teresinha de Jesus Amaral
+
+61\. Thereza Felicetti
+
+62\. Valdomiro Claro da Rosa
+
+63\. Wagner Alexandre
+
+64\. Wilson Roberto de Moura Machado
+
+08 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO das Comarcas do Interior, decorrentes do falecimento dos servidores relacionados a seguir:
+
+1\. Anália Marcelino Gomides
+
+2\. Aparecida do Carmo de Morais Oliveira
+
+3\. Benedita Custódio
+
+4\. Iolanda Benitz de Oliveira
+
+5\. Irani de Souza Oliveira
+
+6\. Maria Aparecida Rigolin
+
+7\. Neide Garson Ferreira
+
+8\. Rosa Faraguti Amadeu
+
+01 cargo vago de AGENTE DE SERVIÇOS JUDICIÁRIO da Comarca do Interior, decorrente da pena de demissão do servidor relacionado a seguir:
+
+1\. Jarbas Pinto
+
 09 cargos vagos de AGENTE DE SERVIÇOS JUDICIÁRIO das Comarcas do Interior, criados pelas Leis relacionadas a seguir:
 
-<br>
-04 criados pela L.C. 967/2005<br>
+04 criados pela L.C. 967/2005
+
 05 criados pela [Lei nº 11.542/2003](http://www.al.sp.gov.br/norma?id=48969)
 
-<br>
-148 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO da Comarca da Capital, decorrentes da aposentadoria dos servidores relacionados a seguir:<br>
-<br>
-1\. Adão Eugenio da Silva<br>
-2\. Adilson de Oliveira<br>
-3\. Alberto Pereira Xavier<br>
-4\. Alcides Neri<br>
-5\. Alda Aparecida dos Santos<br>
-6\. Alexandre Gyaraki Filho<br>
-7\. Alexandre Kirilauskas<br>
-8\. Antenor Campos Gonsalez<br>
-9\. Antonia da Cruz Munhão<br>
-10\. Antonio Alves da Rocha<br>
-11\. Antonio Carlos da Conceição<br>
-12\. Antonio da Silveira<br>
-13\. Antonio de Castro Melo<br>
-14\. Antonio Jose Alves<br>
-15\. Antonio Lima<br>
-16\. Antonio Lopes de Oliveira<br>
-17\. Antonio Molero Lopes<br>
-18\. Antonio Nunes de Lara<br>
-19\. Antonio Rossi Pifer<br>
-20\. Antonio Vicente de Amorim<br>
-21\. Arivaldo Batista da Conceição<br>
-22\. Aroldo Amâncio de Oliveira<br>
-23\. Arzemiro José da Silva<br>
-24\. Aureo Manoel Valez Gamboa<br>
-25\. Baccin Bruno<br>
-26\. Bartolomeu da Silva Ribeiro<br>
-27\. Benedita Edna Batista<br>
-28\. Bento Joaquim de Souza Filho<br>
-29\. Carlos Chavez<br>
-30\. Carlos Real<br>
-31\. Celso Amaro de Oliveira<br>
-32\. Christovam Domingos da Silva<br>
-33\. Claudete Santos da Silva<br>
-34\. Claudete Serrano Bueno<br>
-35\. Claudine Galvão<br>
-36\. Dalva Vieira Diniz<br>
-37\. Delson Mendes Camilo<br>
-38\. Deonildo Luzetti<br>
-39\. Dimas de Castro Melo<br>
-40\. Eden Gonçalves Angelo<br>
-41\. Elpidio Baraldi<br>
-42\. Etelvino de Oliveira<br>
-43\. Expedito Faustino da Silva<br>
-44\. Fábio Octavio Leão<br>
-45\. Feliciano Fernandes<br>
-46\. Francisca Diniz do Nascimento<br>
-47\. Francisco Alves<br>
-48\. Francisco das Graças<br>
-49\. Francisco de Matos Sobrinho<br>
-50\. Francisco Guedes<br>
-51\. Francisco Manoel dos Santos<br>
-52\. Francisco Martins de Oliveira Filho<br>
-53\. Francisco Sakalauskas<br>
-54\. Gerson Alves Santos<br>
-55\. Gerson Machado<br>
-56\. Gumercindo Sebastião de Paula<br>
-57\. Gustavo Sebastião de Oliveira<br>
-58\. Herberto Siegfried Arndt<br>
-59\. Ilo Pereira Tavares<br>
-60\. Irineu Gonçalves<br>
-61\. Irineu Romeiro<br>
-62\. Ítalo Bruno Toreli<br>
-63\. Jair Celso de Moraes<br>
-64\. João Alberto Cucato<br>
-65\. João Antonio Flauzino<br>
-66\. João Candido Nogueira Neto<br>
-67\. João Celso dos Santos<br>
-68\. João Corigliano<br>
-69\. João Masahiro Maruyama<br>
-70\. João Munhão<br>
-71\. João Origenes Nunes<br>
-72\. João Rodrigues<br>
-73\. Joel Roberto Bartolomeu<br>
-74\. Jonas José de Lima<br>
-75\. Jorge Soares da Rocha<br>
-76\. José Augusto Gabriel<br>
-77\. José Christino da Silva<br>
-78\. José Cirillo<br>
-79\. José Cláudio de Almeida<br>
-80\. José Conrado Sobrinho<br>
-81\. Jose Domingos de Oliveira<br>
-82\. José Eustáquio Martins<br>
-83\. José Garcia<br>
-84\. José Geraldo dos Santos Neves<br>
-85\. José Izaltino de Almeida<br>
-86\. José Noel Moreira<br>
-87\. José Raimundo Crisóstomo da Luz<br>
-88\. José Sebastião<br>
-89\. Jose Sergio Lafiandra<br>
-90\. José Soares de Albuquerque<br>
-91\. José Vitor da Silva<br>
-92\. Joselita Oliveira Porto<br>
-93\. Kazuo Suzuki<br>
-94\. Laercio de Oliveira Rodrigues<br>
-95\. Lair Ferreira<br>
-96\. Lourdes Mendes de Oliveira<br>
-97\. Luiz Cesar Egydio<br>
-98\. Luiz Raimundo Gomes<br>
-99\. Manoel Pereira<br>
-100\. Manuel Messias de Araujo<br>
-101\. Maria Cecilia Martins<br>
-102\. Maria de Lourdes da Silva<br>
-103\. Mariano Sabino da Silva<br>
-104\. Marina Rodrigues Barreto<br>
-105\. Marli Salles Peixoto<br>
-106\. Martha dos Santos Minas<br>
-107\. Mauril Bonifácio Ramos<br>
-108\. Miguel Rodrigues Molina<br>
-109\. Neide Pereira Marton Moreira<br>
-110\. Nelson Luiz Ferreira<br>
-111\. Nelson Pierreti<br>
-112\. Nerval Armani<br>
-113\. Nilza Maria da Conceição Albernaz<br>
-114\. Norma Fiori<br>
-115\. Odair Miguel Basile<br>
-116\. Olavo de Ramos<br>
-117\. Olindo Gonçalves Angelo<br>
-118\. Otto Benedicto Nilso Kruger<br>
-119\. Ovidio Borducchi<br>
-120\. Ozana Maria Flauzina<br>
-121\. Pantaleão Nicolau<br>
-122\. Paulo Correia<br>
-123\. Paulo José Santana<br>
-124\. Paulo Manoel de Lima<br>
-125\. Paulo Pedreira Hayne<br>
-126\. Reinaldo dos Santos Costa<br>
-127\. Rodenei dos Anjos<br>
-128\. Rogério Casado<br>
-129\. Romeu Batista de Oliveira<br>
-130\. Romeu Marçal<br>
-131\. Roner Hudson Sibov<br>
-132\. Ronovaldo Rodovalho<br>
-133\. Rosa Oishi<br>
-134\. Rubens Ribeiro<br>
-135\. Ruth Correa Lourenço<br>
-136\. Salvador Orlando Mafra<br>
-137\. Saturnino Zacharias Motta<br>
-138\. Sebastião Gimenes Crus<br>
-139\. Sebastião Lopes<br>
-140\. Sebastião Sabino de Lima<br>
-141\. Sebastião Viteritto<br>
-142\. Sergio Morelli<br>
-143\. Sérgio Zorato<br>
-144\. Sonia Cid de Lima<br>
-145\. Tácito Fernandes Barros<br>
-146\. Valter Giron<br>
-147\. Vicente Sabino Gonçalves<br>
-148\. Wladimir Ramon<br>
-<br>
-29 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO da Comarca da Capital, decorrentes do falecimento dos servidores relacionados a seguir:<br>
-<br>
-1\. Antonio de Alcantara<br>
-2\. Antonio Luiz Pereira<br>
-3\. Aristeu Mendes<br>
-4\. Augusto Freire<br>
-5\. Claudio Benedito de Santana<br>
-6\. David Vieira de Camargo<br>
-7\. Fábio Jorge<br>
-8\. Fernandes Barbosa<br>
-9\. Genivaldo da Costa Freitas<br>
-10\. Jesuel Alves<br>
-11\. João Candido Rodrigues<br>
-12\. João Kuchta<br>
-13\. José Luiz de Oliveira<br>
-14\. José Roberto do Nascimento<br>
-15\. Joseval de Jesus Souza<br>
-16\. Luiz Carlos Gaya Lopes dos Santos<br>
-17\. Marcos Fernando Morais<br>
-18\. Mário Ferreira da Cunha<br>
-19\. Messias Gabriel de Almeida<br>
-20\. Milton Carvalho<br>
-21\. Oilton Alexandre<br>
-22\. Otacilio Ferreira de Morais<br>
-23\. Rogério Louis de Araújo<br>
-24\. Romildo Daniel<br>
-25\. Ruy Estrella da Gama Machado<br>
-26\. Sebastião Alves<br>
-27\. Simeão Mariano dos Santos<br>
-28\. Waldemar Fernandes<br>
-29\. Walter Criscolo<br>
-<br>
-16 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO da Comarca da Capital, decorrentes da exoneração dos servidores relacionados a seguir:<br>
-<br>
-1\. Carolino Inácio Pereira<br>
-2\. Cristhian Marques Nogueira<br>
-3\. Dorival Dizeró Renzo<br>
-4\. João Arnaldo Melo<br>
-5\. José Dalmo Vieira Duarte<br>
-6\. José Rocha Reis Filho<br>
-7\. Mario Aparecido Herculano<br>
-8\. Nelson Pimentel Filho<br>
-9\. Oros Fernandes Camacho<br>
-10\. Osmar Luciano<br>
-11\. Rogério Habib<br>
-12\. Samuel da Graça da Anunciação<br>
-13\. Sebastião Francisco Rodrigues<br>
-14\. Valmirá Matos Amaral<br>
-15\. Waldir da Silva<br>
-16\. Wanderley Bezerra de Souza<br>
-<br>
-09 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO da Comarca da Capital, decorrentes da pena de demissão dos servidores relacionados a seguir:<br>
-<br>
-1\. Ailton Camilo Lima<br>
-2\. Denir Alves Damasio<br>
-3\. Edson dos Santos Fontes<br>
-4\. Geraldo do Carmo Silva<br>
-5\. Jorge Antonio Aparecido dos Reis<br>
-6\. Jorge de Oliveira Filho<br>
-7\. Luiz Carlos de Almeida<br>
-8\. Luiz de Castro Pires<br>
-9\. Mauro Aguiar Braga<br>
-<br>
+148 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO da Comarca da Capital, decorrentes da aposentadoria dos servidores relacionados a seguir:
+
+1\. Adão Eugenio da Silva
+
+2\. Adilson de Oliveira
+
+3\. Alberto Pereira Xavier
+
+4\. Alcides Neri
+
+5\. Alda Aparecida dos Santos
+
+6\. Alexandre Gyaraki Filho
+
+7\. Alexandre Kirilauskas
+
+8\. Antenor Campos Gonsalez
+
+9\. Antonia da Cruz Munhão
+
+10\. Antonio Alves da Rocha
+
+11\. Antonio Carlos da Conceição
+
+12\. Antonio da Silveira
+
+13\. Antonio de Castro Melo
+
+14\. Antonio Jose Alves
+
+15\. Antonio Lima
+
+16\. Antonio Lopes de Oliveira
+
+17\. Antonio Molero Lopes
+
+18\. Antonio Nunes de Lara
+
+19\. Antonio Rossi Pifer
+
+20\. Antonio Vicente de Amorim
+
+21\. Arivaldo Batista da Conceição
+
+22\. Aroldo Amâncio de Oliveira
+
+23\. Arzemiro José da Silva
+
+24\. Aureo Manoel Valez Gamboa
+
+25\. Baccin Bruno
+
+26\. Bartolomeu da Silva Ribeiro
+
+27\. Benedita Edna Batista
+
+28\. Bento Joaquim de Souza Filho
+
+29\. Carlos Chavez
+
+30\. Carlos Real
+
+31\. Celso Amaro de Oliveira
+
+32\. Christovam Domingos da Silva
+
+33\. Claudete Santos da Silva
+
+34\. Claudete Serrano Bueno
+
+35\. Claudine Galvão
+
+36\. Dalva Vieira Diniz
+
+37\. Delson Mendes Camilo
+
+38\. Deonildo Luzetti
+
+39\. Dimas de Castro Melo
+
+40\. Eden Gonçalves Angelo
+
+41\. Elpidio Baraldi
+
+42\. Etelvino de Oliveira
+
+43\. Expedito Faustino da Silva
+
+44\. Fábio Octavio Leão
+
+45\. Feliciano Fernandes
+
+46\. Francisca Diniz do Nascimento
+
+47\. Francisco Alves
+
+48\. Francisco das Graças
+
+49\. Francisco de Matos Sobrinho
+
+50\. Francisco Guedes
+
+51\. Francisco Manoel dos Santos
+
+52\. Francisco Martins de Oliveira Filho
+
+53\. Francisco Sakalauskas
+
+54\. Gerson Alves Santos
+
+55\. Gerson Machado
+
+56\. Gumercindo Sebastião de Paula
+
+57\. Gustavo Sebastião de Oliveira
+
+58\. Herberto Siegfried Arndt
+
+59\. Ilo Pereira Tavares
+
+60\. Irineu Gonçalves
+
+61\. Irineu Romeiro
+
+62\. Ítalo Bruno Toreli
+
+63\. Jair Celso de Moraes
+
+64\. João Alberto Cucato
+
+65\. João Antonio Flauzino
+
+66\. João Candido Nogueira Neto
+
+67\. João Celso dos Santos
+
+68\. João Corigliano
+
+69\. João Masahiro Maruyama
+
+70\. João Munhão
+
+71\. João Origenes Nunes
+
+72\. João Rodrigues
+
+73\. Joel Roberto Bartolomeu
+
+74\. Jonas José de Lima
+
+75\. Jorge Soares da Rocha
+
+76\. José Augusto Gabriel
+
+77\. José Christino da Silva
+
+78\. José Cirillo
+
+79\. José Cláudio de Almeida
+
+80\. José Conrado Sobrinho
+
+81\. Jose Domingos de Oliveira
+
+82\. José Eustáquio Martins
+
+83\. José Garcia
+
+84\. José Geraldo dos Santos Neves
+
+85\. José Izaltino de Almeida
+
+86\. José Noel Moreira
+
+87\. José Raimundo Crisóstomo da Luz
+
+88\. José Sebastião
+
+89\. Jose Sergio Lafiandra
+
+90\. José Soares de Albuquerque
+
+91\. José Vitor da Silva
+
+92\. Joselita Oliveira Porto
+
+93\. Kazuo Suzuki
+
+94\. Laercio de Oliveira Rodrigues
+
+95\. Lair Ferreira
+
+96\. Lourdes Mendes de Oliveira
+
+97\. Luiz Cesar Egydio
+
+98\. Luiz Raimundo Gomes
+
+99\. Manoel Pereira
+
+100\. Manuel Messias de Araujo
+
+101\. Maria Cecilia Martins
+
+102\. Maria de Lourdes da Silva
+
+103\. Mariano Sabino da Silva
+
+104\. Marina Rodrigues Barreto
+
+105\. Marli Salles Peixoto
+
+106\. Martha dos Santos Minas
+
+107\. Mauril Bonifácio Ramos
+
+108\. Miguel Rodrigues Molina
+
+109\. Neide Pereira Marton Moreira
+
+110\. Nelson Luiz Ferreira
+
+111\. Nelson Pierreti
+
+112\. Nerval Armani
+
+113\. Nilza Maria da Conceição Albernaz
+
+114\. Norma Fiori
+
+115\. Odair Miguel Basile
+
+116\. Olavo de Ramos
+
+117\. Olindo Gonçalves Angelo
+
+118\. Otto Benedicto Nilso Kruger
+
+119\. Ovidio Borducchi
+
+120\. Ozana Maria Flauzina
+
+121\. Pantaleão Nicolau
+
+122\. Paulo Correia
+
+123\. Paulo José Santana
+
+124\. Paulo Manoel de Lima
+
+125\. Paulo Pedreira Hayne
+
+126\. Reinaldo dos Santos Costa
+
+127\. Rodenei dos Anjos
+
+128\. Rogério Casado
+
+129\. Romeu Batista de Oliveira
+
+130\. Romeu Marçal
+
+131\. Roner Hudson Sibov
+
+132\. Ronovaldo Rodovalho
+
+133\. Rosa Oishi
+
+134\. Rubens Ribeiro
+
+135\. Ruth Correa Lourenço
+
+136\. Salvador Orlando Mafra
+
+137\. Saturnino Zacharias Motta
+
+138\. Sebastião Gimenes Crus
+
+139\. Sebastião Lopes
+
+140\. Sebastião Sabino de Lima
+
+141\. Sebastião Viteritto
+
+142\. Sergio Morelli
+
+143\. Sérgio Zorato
+
+144\. Sonia Cid de Lima
+
+145\. Tácito Fernandes Barros
+
+146\. Valter Giron
+
+147\. Vicente Sabino Gonçalves
+
+148\. Wladimir Ramon
+
+29 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO da Comarca da Capital, decorrentes do falecimento dos servidores relacionados a seguir:
+
+1\. Antonio de Alcantara
+
+2\. Antonio Luiz Pereira
+
+3\. Aristeu Mendes
+
+4\. Augusto Freire
+
+5\. Claudio Benedito de Santana
+
+6\. David Vieira de Camargo
+
+7\. Fábio Jorge
+
+8\. Fernandes Barbosa
+
+9\. Genivaldo da Costa Freitas
+
+10\. Jesuel Alves
+
+11\. João Candido Rodrigues
+
+12\. João Kuchta
+
+13\. José Luiz de Oliveira
+
+14\. José Roberto do Nascimento
+
+15\. Joseval de Jesus Souza
+
+16\. Luiz Carlos Gaya Lopes dos Santos
+
+17\. Marcos Fernando Morais
+
+18\. Mário Ferreira da Cunha
+
+19\. Messias Gabriel de Almeida
+
+20\. Milton Carvalho
+
+21\. Oilton Alexandre
+
+22\. Otacilio Ferreira de Morais
+
+23\. Rogério Louis de Araújo
+
+24\. Romildo Daniel
+
+25\. Ruy Estrella da Gama Machado
+
+26\. Sebastião Alves
+
+27\. Simeão Mariano dos Santos
+
+28\. Waldemar Fernandes
+
+29\. Walter Criscolo
+
+16 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO da Comarca da Capital, decorrentes da exoneração dos servidores relacionados a seguir:
+
+1\. Carolino Inácio Pereira
+
+2\. Cristhian Marques Nogueira
+
+3\. Dorival Dizeró Renzo
+
+4\. João Arnaldo Melo
+
+5\. José Dalmo Vieira Duarte
+
+6\. José Rocha Reis Filho
+
+7\. Mario Aparecido Herculano
+
+8\. Nelson Pimentel Filho
+
+9\. Oros Fernandes Camacho
+
+10\. Osmar Luciano
+
+11\. Rogério Habib
+
+12\. Samuel da Graça da Anunciação
+
+13\. Sebastião Francisco Rodrigues
+
+14\. Valmirá Matos Amaral
+
+15\. Waldir da Silva
+
+16\. Wanderley Bezerra de Souza
+
+09 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO da Comarca da Capital, decorrentes da pena de demissão dos servidores relacionados a seguir:
+
+1\. Ailton Camilo Lima
+
+2\. Denir Alves Damasio
+
+3\. Edson dos Santos Fontes
+
+4\. Geraldo do Carmo Silva
+
+5\. Jorge Antonio Aparecido dos Reis
+
+6\. Jorge de Oliveira Filho
+
+7\. Luiz Carlos de Almeida
+
+8\. Luiz de Castro Pires
+
+9\. Mauro Aguiar Braga
+
 11 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO da Comarca da Capital, criados pelas Leis relacionadas a seguir:
 
-<br>
-03 criados pela L.C. 485/1986<br>
-07 criados pela L.C. 886/2000<br>
+03 criados pela L.C. 485/1986
+
+07 criados pela L.C. 886/2000
+
 01 criado pela [Lei nº 11.542/2003](http://www.al.sp.gov.br/norma?id=48969)
 
-<br>
-02 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO das Comarcas do Interior, decorrentes da aposentadoria dos servidores relacionados a seguir:<br>
-<br>
-1\. Antenor Justo Fernandes<br>
-2\. José Bastos Siqueira<br>
-<br>
-03 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO da Comarca da Capital, decorrentes da exoneração dos servidores relacionados a seguir:<br>
-<br>
-1\. Gabriela Maria Ribeiro Amorim<br>
-2\. Janaina Sene da Silva<br>
-3\. Robson Garcia de Souza<br>
-<br>
-12 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO da Comarca da Capital, decorrentes da pena de demissão dos servidores relacionados a seguir:<br>
-<br>
-1\. Cibele Berbel Fagundes<br>
-2\. Claricinda Pedrina de Souza<br>
-3\. Claudia de Oliveira Cruz<br>
-4\. Cláudio Diniz da Silva<br>
-5\. Dircelene Aparecida Jozsa<br>
-6\. Elbete Aparecida da Silva Boa Morte<br>
-7\. Elisabete Belmiro<br>
-8\. Elizabete Gonçalves Coelho<br>
-9\. Elizabete dos Reis<br>
-10\. Francisco Antonio dos Santos<br>
-11\. Jaime Daniel Leandro R. Cancela<br>
-12\. Jurema Ferreira Fernandes<br>
-<br>
-18 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO da Comarca da Capital, decorrentes da aposentadoria dos servidores relacionados a seguir:<br>
-<br>
-1\. Celina Maria Santiago<br>
-2\. Claudete Goveia Luis<br>
-3\. Edna Rosa Nobre<br>
-4\. Gloria Aparecida Medeiros<br>
-5\. Ioly Teixeira Mourão<br>
-6\. Irene Assumpção<br>
-7\. José Geraldo Barbosa Campos<br>
-8\. Júlia Maria Marques<br>
-9\. Maria Angelica Andrade<br>
-10\. Maria Aparecida Rodrigues da Silva<br>
-11\. Maria de Lourdes Hermogenes Julio<br>
-12\. Maria de Lourdes Quintela<br>
-13\. Maria de Lourdes da Silva<br>
-14\. Maria de Lourdes Souza<br>
-15\. Maria Rita de Oliveira Carvalho<br>
-16\. Maria Theodoro dos Santos<br>
-17\. Paulo Roberto Pereira<br>
-18\. Rosa Carrion Fernandes<br>
-<br>
-93 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO das Comarcas do Interior, decorrentes da aposentadoria dos servidores relacionados a seguir:<br>
-<br>
-1\. Adarci Terezinha Lourenço Rocha<br>
-2\. Alzira Gomes Mano<br>
-3\. Ana Heloisa Silva Maciel<br>
-4\. Ana Maria Borges dos Santos Conceição<br>
-5\. Ana Maria de Andrade<br>
-6\. Ana Maria de Campos Prado<br>
-7\. Ana Rosa da Silva Vinhola<br>
-8\. Anna Maria dos Santos<br>
-9\. Antonio Bento Ferreira<br>
-10\. Antonio Carlos da Silva<br>
-11\. Aparecida Miranda da Silva<br>
-12\. Aparecida Tavares de Souza<br>
-13\. Brasilina de Oliveira Gonçalves<br>
-14\. Carmen das Dores Matheus<br>
-15\. Catarina das Dores Santos<br>
-16\. Cecilia Villas Bôas Pescatori<br>
-17\. Celia Moraes de Freitas<br>
-18\. Darci Yasuco Itoyama<br>
-19\. Delmira de Oliveira Cunha<br>
-20\. Deniza Aparecida Custódio de Souza<br>
-21\. Diva Nunes Alves<br>
-22\. Diva Rodrigues Ferreira<br>
-23\. Dorca Lisboa<br>
-24\. Erika Vitor<br>
-25\. Esdras Vieira da Silva Pinto<br>
-26\. Euricles de Biscaro Lino<br>
-27\. Evani Garcia Costa Lira<br>
-28\. Fatima Regina Chiachio<br>
-29\. Francisco Reinaldo de Souza<br>
-30\. Haydée de Farias Trigo<br>
-31\. Irene Marta da Silva<br>
-32\. Irene Pereira da Silva<br>
-33\. Irene Prudenciatto<br>
-34\. Jorge Alith<br>
-35\. José Alves do Amaral<br>
-36\. José Honorio de Oliveira<br>
-37\. Lázara Maria de Lima Veronezi<br>
-38\. Lourdes Soares Santos<br>
-39\. Luiz Antonio Guedes<br>
-40\. Magna Márcia Martins<br>
-41\. Manuel Francisco da Silva<br>
-42\. Marcia Villalobos<br>
-43\. Maria Aparecida Baptista dos Santos<br>
-44\. Maria Apparecida Racoci<br>
-45\. Maria Aparecida Teixeira de Oliveira<br>
-46\. Maria Batista de Santana<br>
-47\. Maria da Conceição Oliveira Silva<br>
-48\. Maria Darcy Avanzi Franco<br>
-49\. Maria de Fátima Barbosa de Araújo Alves<br>
-50\. Maria Déia Gomes<br>
-51\. Maria do Carmo Lima Araújo<br>
-52\. Maria do Socorro Saboia de Araujo<br>
-53\. Maria Eunice de Almeida Silva<br>
-54\. Maria Helena Jorge de Mattos<br>
-55\. Maria Izabel do Nascimento Francisco<br>
-56\. Maria Luiza Costa Aires<br>
-57\. Maria Luiza dos Santos Andrade Fabricio<br>
-58\. Maria Pereira de Andrade Nascimento<br>
-59\. Maria Regina Camargo Paiva<br>
-60\. Maria Salete Miranda<br>
-61\. Maria Stéla Jubelin<br>
-62\. Maria Terezinha de Almeida<br>
-63\. Mariana Cunha de Souza<br>
-64\. Marilise de Andrade Seixas Leite Ribeiro<br>
-65\. Marlet Mirian Pantaleão<br>
-66\. Maura Valeria de Oliveira Paes<br>
-67\. Miyoko Toy<br>
-68\. Nancy Germiniani de Vassimon<br>
-69\. Navilia Marcelina Galante<br>
-70\. Nelci Molina Moreno<br>
-71\. Nêusa Trindade Barreto<br>
-72\. Olga Aparecida Anuncio Gonçalves<br>
-73\. Osvaldo Botti<br>
-74\. Paulo Geraldo Alves Leite<br>
-75\. Paulo Roberto Gonçalves<br>
-76\. Raquel de Siqueira Manoel<br>
-77\. Rosemary Cardoso Mota<br>
-78\. Rosemary Péres Lopes<br>
-79\. Rubens Milanezzi<br>
-80\. Ruth Piovesani Mazo<br>
-81\. Salete Yolanda Del Santo<br>
-82\. Sandra Maria de Oliveira<br>
-83\. Senildes Alves Moreira<br>
-84\. Silvia Ferreira Mendes Goulart Paiva<br>
-85\. Sonia Marisa Valverde Santana<br>
-86\. Sophia de Castro Tarrone<br>
-87\. Sueli Aparecida de Andrade<br>
-88\. Tereza Teixeira da Silva Nunes<br>
-89\. Terezinha Izaias de Sousa<br>
-90\. Tufa Salomão Franchini<br>
-91\. Valdir Alves da Silva<br>
-92\. Vera Helena dos Santos Malachias<br>
-93\. Vicentina Coelho de Almeida<br>
-<br>
-100 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO das Comarcas do Interior, decorrentes da exoneração dos servidores relacionados a seguir:<br>
-<br>
-1\. Adriano de Moraes<br>
-2\. Edina Borges Silva<br>
-3\. Eliana Marques Figueiredo Luna<br>
-4\. Elza da Silva Stessuk<br>
-5\. Érica Ferreira Batista<br>
-6\. Flávia Rosana Casotti de La Bandeira<br>
-7\. Francisco Aiello Neto<br>
-8\. Francisco de Assis Vieira Cordeiro<br>
-9\. George Luis Cassoto<br>
-10\. Gislaine Valente Oliveira Crepaldi<br>
-11\. Gustavo Ferreira Gomes<br>
-12\. Henrique Rosa Senra Soares<br>
-13\. Ireno Ricardo Pereira Lima<br>
-14\. Isabel Banar Cunha<br>
-15\. Isabel Cristina Alves Barreto<br>
-16\. Jander Damasio Alves<br>
-17\. Jesueli Solange Hartung Ventura<br>
-18\. José Alexandre Souza Vaz<br>
-19\. José Renato Margarido Galvão<br>
-20\. Juliana Kazue Domitsu<br>
-21\. Kély Cristina Corrêa dos Santos<br>
-22\. Laura Jane de Freitas Nunes Timoteo<br>
-23\. Leandro Suarez Rodriguez<br>
-24\. Leila Cristina Lopes dos Santos<br>
-25\. Lilian Ramos<br>
-26\. Lourdes de Fátima Varsoni Salomão<br>
-27\. Lúcia Helena Ferreira Basile<br>
-28\. Luciana Aparecida Gomes de Oliveira<br>
-29\. Luciana do Carmo Alves Tavares<br>
-30\. Luciano Gonçalves dos Santos<br>
-31\. Luciene Ferreira Prazeres Lamboia<br>
-32\. Luiz Augusto Pinto Prado<br>
-33\. Luiz Carlos Ferreira<br>
-34\. Luiz Carlos Romanelli Lins<br>
-35\. Magali Vergílio Menezes Santana<br>
-36\. Mara Filgueiras Cintra<br>
-37\. Marcelo Aparecido Berto<br>
-38\. Marcelo Flaborea<br>
-39\. Marcelo Paulino<br>
-40\. Marcelo Porto Lopes<br>
-41\. Marcia Aparecida Nogueira da Silva<br>
-42\. Marcia Augusta Andrade Silva Garcia<br>
-43\. Marcos Camara Pereira<br>
-44\. Maria Ângela Branco de Almeida<br>
-45\. Maria Bethania Junqueira Forlini Godoy<br>
-46\. Maria de Lourdes Clemente Ferreira Simões<br>
-47\. Maria Helena Rodrigues Lordello<br>
-48\. Maria José Oliveira da Silva<br>
-49\. Maria Lúcia Duarte Gavião<br>
-50\. Maria Tereza de Oliveira Barbosa<br>
-51\. Maridalva Gonzaga Reis<br>
-52\. Marilena Marques Figueira<br>
-53\. Marines Soares de Campos<br>
-54\. Marly Zenaide Lopes Lorençoni<br>
-55\. Maurício Kiyoshi Naka<br>
-56\. Neide Maria da Silva<br>
-57\. Neide Silvestre Tempesta<br>
-58\. Neli Gomes<br>
-59\. Nelson da Silva<br>
-60\. Neuma de Cássia Bezerra Mançano<br>
-61\. Nevil Ramos Verri<br>
-62\. Nilson Antonio Sant’Ana<br>
-63\. Olga Maria Antunes Santana Vieira<br>
-64\. Olga Moroz Gomes<br>
-65\. Osvaldo Mateus da Conceição<br>
-66\. Patrícia Freire de Souza<br>
-67\. Paulo Antonio Silva<br>
-68\. Raquel Cimeire Galbieri<br>
-69\. Regina José da Silva Sena<br>
-70\. Reinaldo da Silva<br>
-71\. Ricardo de Oliveira Mascarenhas<br>
-72\. Rita de Cassia Domingues<br>
-73\. Rivail Augusto da Costa<br>
-74\. Rosangela da Rocha Madureira<br>
-75\. Rosangela Ines de Souza Miranda<br>
-76\. Rosangela Maria de Araujo<br>
-77\. Roseli Rodrigues Bassi<br>
-78\. Rosemary da Silva Sampaio<br>
-79\. Rozane Valentini Carneiro<br>
-80\. Samira Maximiano Schiavon<br>
-81\. Sandra Antonini de Oliveira<br>
-82\. Sandro Rodrigo Rodrigues<br>
-83\. Sérgio Henrique Lima Viana<br>
-84\. Sérgio Mairowsky<br>
-85\. Sergio Ricardo Ramalho<br>
-86\. Silvana Aparecida Alves Mathias<br>
-87\. Silvia Helena Thomé<br>
-88\. Silvia Helena Thomé<br>
-89\. Silvio Ricardo Rodrigues Sanches<br>
-90\. Sueli Bernardino da Silva<br>
-91\. Sueli Caldeira Brant<br>
-92\. Sueli de Souza Pereira<br>
-93\. Sueli Regina Fanceli Gonçalves<br>
-94\. Valdirene Ghiraldi<br>
-95\. Valéria Banin da Silva<br>
-96\. Valeria Marchesoni<br>
-97\. Vanderlei de Paula Machuco<br>
-98\. Vera Lúcia Ortolani de Menezes<br>
-99\. Vilma Costa Amorim<br>
-100\. Wilson Carlos Mariano Cruvinel<br>
-<br>
-03 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO das Comarcas do Interior, decorrentes da pena de demissão dos servidores relacionados a seguir:<br>
-<br>
-1\. Clemencia Antunes Lemos<br>
-2\. Isabel Dias Caputo<br>
-3\. Maria Valéria de Oliveira Figueiredo<br>
-<br>
-01 cargo vago de AGENTE ADMINISTRATIVO JUDICIÁRIO da Comarca do Interior, decorrente do falecimento do servidor relacionado a seguir:<br>
-<br>
-1\. Sônia Aparecida Castaldelli Cheab<br>
-<br>
+02 cargos vagos de AGENTE OPERACIONAL JUDICIÁRIO das Comarcas do Interior, decorrentes da aposentadoria dos servidores relacionados a seguir:
+
+1\. Antenor Justo Fernandes
+
+2\. José Bastos Siqueira
+
+03 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO da Comarca da Capital, decorrentes da exoneração dos servidores relacionados a seguir:
+
+1\. Gabriela Maria Ribeiro Amorim
+
+2\. Janaina Sene da Silva
+
+3\. Robson Garcia de Souza
+
+12 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO da Comarca da Capital, decorrentes da pena de demissão dos servidores relacionados a seguir:
+
+1\. Cibele Berbel Fagundes
+
+2\. Claricinda Pedrina de Souza
+
+3\. Claudia de Oliveira Cruz
+
+4\. Cláudio Diniz da Silva
+
+5\. Dircelene Aparecida Jozsa
+
+6\. Elbete Aparecida da Silva Boa Morte
+
+7\. Elisabete Belmiro
+
+8\. Elizabete Gonçalves Coelho
+
+9\. Elizabete dos Reis
+
+10\. Francisco Antonio dos Santos
+
+11\. Jaime Daniel Leandro R. Cancela
+
+12\. Jurema Ferreira Fernandes
+
+18 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO da Comarca da Capital, decorrentes da aposentadoria dos servidores relacionados a seguir:
+
+1\. Celina Maria Santiago
+
+2\. Claudete Goveia Luis
+
+3\. Edna Rosa Nobre
+
+4\. Gloria Aparecida Medeiros
+
+5\. Ioly Teixeira Mourão
+
+6\. Irene Assumpção
+
+7\. José Geraldo Barbosa Campos
+
+8\. Júlia Maria Marques
+
+9\. Maria Angelica Andrade
+
+10\. Maria Aparecida Rodrigues da Silva
+
+11\. Maria de Lourdes Hermogenes Julio
+
+12\. Maria de Lourdes Quintela
+
+13\. Maria de Lourdes da Silva
+
+14\. Maria de Lourdes Souza
+
+15\. Maria Rita de Oliveira Carvalho
+
+16\. Maria Theodoro dos Santos
+
+17\. Paulo Roberto Pereira
+
+18\. Rosa Carrion Fernandes
+
+93 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO das Comarcas do Interior, decorrentes da aposentadoria dos servidores relacionados a seguir:
+
+1\. Adarci Terezinha Lourenço Rocha
+
+2\. Alzira Gomes Mano
+
+3\. Ana Heloisa Silva Maciel
+
+4\. Ana Maria Borges dos Santos Conceição
+
+5\. Ana Maria de Andrade
+
+6\. Ana Maria de Campos Prado
+
+7\. Ana Rosa da Silva Vinhola
+
+8\. Anna Maria dos Santos
+
+9\. Antonio Bento Ferreira
+
+10\. Antonio Carlos da Silva
+
+11\. Aparecida Miranda da Silva
+
+12\. Aparecida Tavares de Souza
+
+13\. Brasilina de Oliveira Gonçalves
+
+14\. Carmen das Dores Matheus
+
+15\. Catarina das Dores Santos
+
+16\. Cecilia Villas Bôas Pescatori
+
+17\. Celia Moraes de Freitas
+
+18\. Darci Yasuco Itoyama
+
+19\. Delmira de Oliveira Cunha
+
+20\. Deniza Aparecida Custódio de Souza
+
+21\. Diva Nunes Alves
+
+22\. Diva Rodrigues Ferreira
+
+23\. Dorca Lisboa
+
+24\. Erika Vitor
+
+25\. Esdras Vieira da Silva Pinto
+
+26\. Euricles de Biscaro Lino
+
+27\. Evani Garcia Costa Lira
+
+28\. Fatima Regina Chiachio
+
+29\. Francisco Reinaldo de Souza
+
+30\. Haydée de Farias Trigo
+
+31\. Irene Marta da Silva
+
+32\. Irene Pereira da Silva
+
+33\. Irene Prudenciatto
+
+34\. Jorge Alith
+
+35\. José Alves do Amaral
+
+36\. José Honorio de Oliveira
+
+37\. Lázara Maria de Lima Veronezi
+
+38\. Lourdes Soares Santos
+
+39\. Luiz Antonio Guedes
+
+40\. Magna Márcia Martins
+
+41\. Manuel Francisco da Silva
+
+42\. Marcia Villalobos
+
+43\. Maria Aparecida Baptista dos Santos
+
+44\. Maria Apparecida Racoci
+
+45\. Maria Aparecida Teixeira de Oliveira
+
+46\. Maria Batista de Santana
+
+47\. Maria da Conceição Oliveira Silva
+
+48\. Maria Darcy Avanzi Franco
+
+49\. Maria de Fátima Barbosa de Araújo Alves
+
+50\. Maria Déia Gomes
+
+51\. Maria do Carmo Lima Araújo
+
+52\. Maria do Socorro Saboia de Araujo
+
+53\. Maria Eunice de Almeida Silva
+
+54\. Maria Helena Jorge de Mattos
+
+55\. Maria Izabel do Nascimento Francisco
+
+56\. Maria Luiza Costa Aires
+
+57\. Maria Luiza dos Santos Andrade Fabricio
+
+58\. Maria Pereira de Andrade Nascimento
+
+59\. Maria Regina Camargo Paiva
+
+60\. Maria Salete Miranda
+
+61\. Maria Stéla Jubelin
+
+62\. Maria Terezinha de Almeida
+
+63\. Mariana Cunha de Souza
+
+64\. Marilise de Andrade Seixas Leite Ribeiro
+
+65\. Marlet Mirian Pantaleão
+
+66\. Maura Valeria de Oliveira Paes
+
+67\. Miyoko Toy
+
+68\. Nancy Germiniani de Vassimon
+
+69\. Navilia Marcelina Galante
+
+70\. Nelci Molina Moreno
+
+71\. Nêusa Trindade Barreto
+
+72\. Olga Aparecida Anuncio Gonçalves
+
+73\. Osvaldo Botti
+
+74\. Paulo Geraldo Alves Leite
+
+75\. Paulo Roberto Gonçalves
+
+76\. Raquel de Siqueira Manoel
+
+77\. Rosemary Cardoso Mota
+
+78\. Rosemary Péres Lopes
+
+79\. Rubens Milanezzi
+
+80\. Ruth Piovesani Mazo
+
+81\. Salete Yolanda Del Santo
+
+82\. Sandra Maria de Oliveira
+
+83\. Senildes Alves Moreira
+
+84\. Silvia Ferreira Mendes Goulart Paiva
+
+85\. Sonia Marisa Valverde Santana
+
+86\. Sophia de Castro Tarrone
+
+87\. Sueli Aparecida de Andrade
+
+88\. Tereza Teixeira da Silva Nunes
+
+89\. Terezinha Izaias de Sousa
+
+90\. Tufa Salomão Franchini
+
+91\. Valdir Alves da Silva
+
+92\. Vera Helena dos Santos Malachias
+
+93\. Vicentina Coelho de Almeida
+
+100 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO das Comarcas do Interior, decorrentes da exoneração dos servidores relacionados a seguir:
+
+1\. Adriano de Moraes
+
+2\. Edina Borges Silva
+
+3\. Eliana Marques Figueiredo Luna
+
+4\. Elza da Silva Stessuk
+
+5\. Érica Ferreira Batista
+
+6\. Flávia Rosana Casotti de La Bandeira
+
+7\. Francisco Aiello Neto
+
+8\. Francisco de Assis Vieira Cordeiro
+
+9\. George Luis Cassoto
+
+10\. Gislaine Valente Oliveira Crepaldi
+
+11\. Gustavo Ferreira Gomes
+
+12\. Henrique Rosa Senra Soares
+
+13\. Ireno Ricardo Pereira Lima
+
+14\. Isabel Banar Cunha
+
+15\. Isabel Cristina Alves Barreto
+
+16\. Jander Damasio Alves
+
+17\. Jesueli Solange Hartung Ventura
+
+18\. José Alexandre Souza Vaz
+
+19\. José Renato Margarido Galvão
+
+20\. Juliana Kazue Domitsu
+
+21\. Kély Cristina Corrêa dos Santos
+
+22\. Laura Jane de Freitas Nunes Timoteo
+
+23\. Leandro Suarez Rodriguez
+
+24\. Leila Cristina Lopes dos Santos
+
+25\. Lilian Ramos
+
+26\. Lourdes de Fátima Varsoni Salomão
+
+27\. Lúcia Helena Ferreira Basile
+
+28\. Luciana Aparecida Gomes de Oliveira
+
+29\. Luciana do Carmo Alves Tavares
+
+30\. Luciano Gonçalves dos Santos
+
+31\. Luciene Ferreira Prazeres Lamboia
+
+32\. Luiz Augusto Pinto Prado
+
+33\. Luiz Carlos Ferreira
+
+34\. Luiz Carlos Romanelli Lins
+
+35\. Magali Vergílio Menezes Santana
+
+36\. Mara Filgueiras Cintra
+
+37\. Marcelo Aparecido Berto
+
+38\. Marcelo Flaborea
+
+39\. Marcelo Paulino
+
+40\. Marcelo Porto Lopes
+
+41\. Marcia Aparecida Nogueira da Silva
+
+42\. Marcia Augusta Andrade Silva Garcia
+
+43\. Marcos Camara Pereira
+
+44\. Maria Ângela Branco de Almeida
+
+45\. Maria Bethania Junqueira Forlini Godoy
+
+46\. Maria de Lourdes Clemente Ferreira Simões
+
+47\. Maria Helena Rodrigues Lordello
+
+48\. Maria José Oliveira da Silva
+
+49\. Maria Lúcia Duarte Gavião
+
+50\. Maria Tereza de Oliveira Barbosa
+
+51\. Maridalva Gonzaga Reis
+
+52\. Marilena Marques Figueira
+
+53\. Marines Soares de Campos
+
+54\. Marly Zenaide Lopes Lorençoni
+
+55\. Maurício Kiyoshi Naka
+
+56\. Neide Maria da Silva
+
+57\. Neide Silvestre Tempesta
+
+58\. Neli Gomes
+
+59\. Nelson da Silva
+
+60\. Neuma de Cássia Bezerra Mançano
+
+61\. Nevil Ramos Verri
+
+62\. Nilson Antonio Sant’Ana
+
+63\. Olga Maria Antunes Santana Vieira
+
+64\. Olga Moroz Gomes
+
+65\. Osvaldo Mateus da Conceição
+
+66\. Patrícia Freire de Souza
+
+67\. Paulo Antonio Silva
+
+68\. Raquel Cimeire Galbieri
+
+69\. Regina José da Silva Sena
+
+70\. Reinaldo da Silva
+
+71\. Ricardo de Oliveira Mascarenhas
+
+72\. Rita de Cassia Domingues
+
+73\. Rivail Augusto da Costa
+
+74\. Rosangela da Rocha Madureira
+
+75\. Rosangela Ines de Souza Miranda
+
+76\. Rosangela Maria de Araujo
+
+77\. Roseli Rodrigues Bassi
+
+78\. Rosemary da Silva Sampaio
+
+79\. Rozane Valentini Carneiro
+
+80\. Samira Maximiano Schiavon
+
+81\. Sandra Antonini de Oliveira
+
+82\. Sandro Rodrigo Rodrigues
+
+83\. Sérgio Henrique Lima Viana
+
+84\. Sérgio Mairowsky
+
+85\. Sergio Ricardo Ramalho
+
+86\. Silvana Aparecida Alves Mathias
+
+87\. Silvia Helena Thomé
+
+88\. Silvia Helena Thomé
+
+89\. Silvio Ricardo Rodrigues Sanches
+
+90\. Sueli Bernardino da Silva
+
+91\. Sueli Caldeira Brant
+
+92\. Sueli de Souza Pereira
+
+93\. Sueli Regina Fanceli Gonçalves
+
+94\. Valdirene Ghiraldi
+
+95\. Valéria Banin da Silva
+
+96\. Valeria Marchesoni
+
+97\. Vanderlei de Paula Machuco
+
+98\. Vera Lúcia Ortolani de Menezes
+
+99\. Vilma Costa Amorim
+
+100\. Wilson Carlos Mariano Cruvinel
+
+03 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO das Comarcas do Interior, decorrentes da pena de demissão dos servidores relacionados a seguir:
+
+1\. Clemencia Antunes Lemos
+
+2\. Isabel Dias Caputo
+
+3\. Maria Valéria de Oliveira Figueiredo
+
+01 cargo vago de AGENTE ADMINISTRATIVO JUDICIÁRIO da Comarca do Interior, decorrente do falecimento do servidor relacionado a seguir:
+
+1\. Sônia Aparecida Castaldelli Cheab
+
 06 cargos vagos de AGENTE ADMINISTRATIVO JUDICIÁRIO das Comarcas do Interior, criados pelas Leis relacionadas a seguir:
 
-<br>
-04 criados pela L.C. 967/2005<br>
-01 criado pela L.C. 991/2006<br>
-01 criado pela [Lei nº 11.542/2003](http://www.al.sp.gov.br/norma?id=48969)<br>
+04 criados pela L.C. 967/2005
+
+01 criado pela L.C. 991/2006
+
+01 criado pela [Lei nº 11.542/2003](http://www.al.sp.gov.br/norma?id=48969)
+
  
 
-(Republicada por ter saído com incorreções.)<br>
+(Republicada por ter saído com incorreções.)
+
 Publicada na Assessoria Técnico-Legislativa, aos 24 de maio de 2011.

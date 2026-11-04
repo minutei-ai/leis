@@ -1,5 +1,3 @@
-###DEC-006196-0-000-22-08-2007@@@
-
 DECRETO Nº 6.196, DE 22 DE AGOSTO DE 2007.
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 55, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai, da República Oriental do Uruguai (Estados Partes do MERCOSUL) e dos Estados Unidos Mexicanos, de 10 de julho de 2007.
@@ -22,11 +20,7 @@ Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Compleme
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 23.8.2007
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 55
+Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 55
 
 CELEBRADO ENTRE O MERCOSUL E OS ESTADOS UNIDOS MEXICANOS
 

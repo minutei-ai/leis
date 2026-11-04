@@ -1,5 +1,3 @@
-###DEC-003039-0-000-28-04-1999@@@
-
 DECRETO Nº 3.039, DE 28 DE ABRIL DE 1999.
 
 Altera os arts. 30 a 33 do Regulamento da Organização e do Custeio da Seguridade Social, aprovado pelo Decreto nº 2.173, de 5 de março de 1997, e dá outras providências.

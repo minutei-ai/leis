@@ -1,5 +1,3 @@
-###DEC-051609-0-000-30-11-1962@@@
-
 DECRETO Nº 51.609, DE 30 DE Novembro DE 1962.
 
 Acrescenta, um parágrafo único ao artigo 6º do Decreto nº 51.386, de 4 de janeiro de 1962, que dispõe sôbre o Quadro de Pessoal da Universidade da Paraíba e dá outras providências.

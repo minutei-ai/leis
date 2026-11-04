@@ -1,5 +1,3 @@
-###DEC-076179-0-000-01-09-1975@@@
-
 DECRETO Nº 76.179 - DE 1º DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Letras, da Faculdade de Filosofia, Ciências e Letras de Moema, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-056377-0-000-31-05-1965@@@
-
 DECRETO Nº 56.377, DE 31 DE MAIO DE 1965.
 
 Autoriza a cessão, sob a forma de utilização gratuita, de terreno de marinha e acrescido que menciona, situado em Vitória, no Estado do Espirito Santo.

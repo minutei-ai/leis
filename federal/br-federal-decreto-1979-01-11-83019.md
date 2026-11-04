@@ -1,5 +1,3 @@
-###DEC-083019-0-000-11-01-1979@@@
-
 decreto nº 83.019, de 11 de janeiro de 1979
 
 Declara sem efeito Decreto nº 37.697, de 05 de agosto de 1955, que autorizou a Orquima, Indústrias Químicas Reunidas S.A. a lavrar ilmenita, zirconita, monazita e associados no Município de Serra, Estado do Espírito Santo.

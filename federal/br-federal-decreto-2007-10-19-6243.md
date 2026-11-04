@@ -1,5 +1,3 @@
-###DEC-006243-0-000-19-10-2007@@@
-
 DECRETO Nº 6.243, DE 19 DE OUTUBRO DE 2007.
 
 Dá nova redação ao caput do art. 3º do Anexo III ao Decreto nº 5.184, de 16 de agosto de 2004, que aprova o Estatuto Social da Empresa de Pesquisa Energética - EPE.
@@ -21,5 +19,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Nelson José Hubner Moreira
-
-Este texto não substitui o publicado no DOU de 22.10.2007.

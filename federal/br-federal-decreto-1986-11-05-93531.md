@@ -1,5 +1,3 @@
-###DEC-093531-0-000-05-11-1986@@@
-
 DECRETO Nº 93.531, DE 5 DE NOVEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Trabalhadores, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

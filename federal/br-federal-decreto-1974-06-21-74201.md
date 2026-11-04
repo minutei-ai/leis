@@ -1,5 +1,3 @@
-###DEC-074201-0-000-21-06-1974@@@
-
 decreto nº 74.201, de 21 de junho de 1974.
 
 Concede reconhecimento ao curso de Química da Universidade Regional do Nordeste, com sede na Cidade de Campina Grande, Estado da Paraíba.

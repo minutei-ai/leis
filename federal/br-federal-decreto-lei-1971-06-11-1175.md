@@ -1,5 +1,3 @@
-###DEL-001175-0-000-11-06-1971@@@
-
 # DECRETO-LEI Nº 1.175, DE 11 DE JUNHO DE 1971
 
 Dispõe sôbre o recolhimento da contribuição sindical e dá outras providências.

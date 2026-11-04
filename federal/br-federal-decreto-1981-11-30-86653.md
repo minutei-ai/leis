@@ -1,5 +1,3 @@
-###DEC-086653-0-000-30-11-1981@@@
-
 Decreto nº 86.653, de 30 de novembro de 1981
 
 Estabelece o limite do Capital Autorizado da Companhia Rio-Grandense de Nitrogenados - CRN.

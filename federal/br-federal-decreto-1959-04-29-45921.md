@@ -1,5 +1,3 @@
-###DEC-045921-0-000-29-04-1959@@@b
-
 DECRETO Nº 45.921, DE 29 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Joaquim Antunes Ribeiro a pesquisar minério de cobre no município de Moeda, Estado de Minas Gerais.

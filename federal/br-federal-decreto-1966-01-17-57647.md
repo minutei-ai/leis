@@ -1,5 +1,3 @@
-###DEC-057647-0-000-17-01-1966@@@
-
 DECRETO Nº 57.647, DE 17 DE JANEIRO 1966.
 
 Estabelece normas para a utilização do crédito especial aberto pelo Decreto nº 57.584, de 6-1-1966.

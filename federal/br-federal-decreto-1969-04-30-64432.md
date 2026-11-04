@@ -1,5 +1,3 @@
-###DEC-064432-0-000-30-04-1969@@@
-
 DECRETO nº 64.432, DE 30 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Instituto ''Madre Savina Petrilli", com sede em Itapetinga, Estado da Bahia.

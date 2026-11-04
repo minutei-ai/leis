@@ -1,6 +1,10 @@
 > **LEI Nº 3.457, DE 04 DE DEZEMBRO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.123, de 3 de março de 2016, que “Autoriza o Poder Executivo a alienar através de venda ou permuta, imóveis de sua propriedade localizados na Cidade do Povo.”</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.123, de 3 de março de 2016, que “Autoriza o Poder Executivo a alienar através de venda ou permuta, imóveis de sua propriedade localizados na Cidade do Povo.”
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

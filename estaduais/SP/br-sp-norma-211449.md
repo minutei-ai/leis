@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211449)<br>
-
 # DECRETO N° 69.870, DE 15 DE SETEMBRO DE 2025
 
 ### _Transfere os cargos e as funções-atividades que especifica e dá providências correlatas._
@@ -36,8 +34,268 @@ Eleuses Vieira de Paiva
 
 #### A N E X O I
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARGO/FUNÇÃO-ATIVIDADE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">REF.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">E.V.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC/SQF-II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">OCUPANTE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">RG</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">DO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">PARA</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.I.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Davidson Goes da Cruz</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">18.867.804-9</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSEMIL</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAA</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.I.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">André Miguel Baracho</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">22.616.536-X</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAA</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSFP</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Executivo Público</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.U.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Jaciara Aparecida Bertasi</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9.901.133-5</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAA</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSFP</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.I.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQF-II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Gilberto Souza Matos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">14.061.243-9</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSFP</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Executivo Público</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.U.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Cezar Augusto Fogagnolo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">29.131.251-2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSFP</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.I.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">William Diego Vasconcelos Serra</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">42.338.606-2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAP</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSFP</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Médico I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">M-I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.U.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Maria Socorro Silva Rosário</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">60.947.232-X</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSGGD</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.I.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Carlos Alberto da Silva</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">18.376.649-0</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSSP</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Enfermeiro</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.U.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Cássia Marques da Rocha Hoelz</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">23.274.989-9</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSSP</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.I.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Marcel André de Souza</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">24.887.165-1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSSP</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Operacional (Motorista)</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.I.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQF-II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rosivaldo de Jesus Costa</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">19.590.984</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSSP</td></tr></tbody></table>
+CARGO/FUNÇÃO-ATIVIDADE
+
+REF.
+
+E.V.
+
+SQC/SQF-II
+
+OCUPANTE
+
+RG
+
+DO
+
+PARA
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Davidson Goes da Cruz
+
+18.867.804-9
+
+QSEMIL
+
+QSAA
+
+Oficial Administrativo
+
+3
+
+N.I.
+
+SQC-III
+
+André Miguel Baracho
+
+22.616.536-X
+
+QSAA
+
+QSFP
+
+Executivo Público
+
+1
+
+N.U.
+
+SQC-III
+
+Jaciara Aparecida Bertasi
+
+9.901.133-5
+
+QSAA
+
+QSFP
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQF-II
+
+Gilberto Souza Matos
+
+14.061.243-9
+
+QSS
+
+QSFP
+
+Executivo Público
+
+1
+
+N.U.
+
+SQC-III
+
+Cezar Augusto Fogagnolo
+
+29.131.251-2
+
+QSS
+
+QSFP
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+William Diego Vasconcelos Serra
+
+42.338.606-2
+
+QSAP
+
+QSFP
+
+Médico I
+
+M-I
+
+N.U.
+
+SQC-III
+
+Maria Socorro Silva Rosário
+
+60.947.232-X
+
+QSS
+
+QSGGD
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Carlos Alberto da Silva
+
+18.376.649-0
+
+QSE
+
+QSSP
+
+Enfermeiro
+
+1
+
+N.U.
+
+SQC-III
+
+Cássia Marques da Rocha Hoelz
+
+23.274.989-9
+
+QSS
+
+QSSP
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Marcel André de Souza
+
+24.887.165-1
+
+QSS
+
+QSSP
+
+Oficial Operacional (Motorista)
+
+1
+
+N.I.
+
+SQF-II
+
+Rosivaldo de Jesus Costa
+
+19.590.984
+
+QSS
+
+QSSP
 
 #### A N E X O II
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARGO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">REF.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">E.V.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">EX-OCUPANTE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">RG</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">MOTIVO DA VACÂNCIA</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">DO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">PARA</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.I.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Lucia Aparecida Silva Gualberto</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17.636.837</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Aposentadoria</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAA</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSEMIL</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.I.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Odmir Isaac Ribeiro</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">16.859.489-4</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Exoneração</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSFP</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAP</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">N.I.</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Ana Paula Mecucci Zen</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17.242.692</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Aposentadoria</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSSP</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSE</td></tr></tbody></table>
+CARGO
+
+REF.
+
+E.V.
+
+SQC
+
+EX-OCUPANTE
+
+RG
+
+MOTIVO DA VACÂNCIA
+
+DO
+
+PARA
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Lucia Aparecida Silva Gualberto
+
+17.636.837
+
+Aposentadoria
+
+QSAA
+
+QSEMIL
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Odmir Isaac Ribeiro
+
+16.859.489-4
+
+Exoneração
+
+QSFP
+
+QSAP
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Ana Paula Mecucci Zen
+
+17.242.692
+
+Aposentadoria
+
+QSSP
+
+QSE

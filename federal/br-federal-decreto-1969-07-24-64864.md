@@ -1,5 +1,3 @@
-###DEC-064864-0-000-24-07-1969@@@
-
 Decreto Nº 64.864 - DE 24 DE JULHO DE 1969.
 
 Altera o Decreto nº 57.825, de 16 de janeiro de 1966.

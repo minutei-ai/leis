@@ -1,5 +1,3 @@
-###DEC-075526-0-000-24-03-1975@@@
-
 decreto nº 75.526, de 24 de março de 1975.
 
 Autoriza a Universidade Federal de Minas Gerais a alienar os imóveis que específica.

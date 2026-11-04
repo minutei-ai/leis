@@ -1,5 +1,3 @@
-###DEC-074204-0-000-21-06-1974@@@
-
 DECRETO Nº 74.204, DE 21 DE JUNHO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 57.355, de 26 de novembro de 1965, através do qual foi concedido à Mineração Caolinita Limitada o direito de lavrar caulim, no Município de Ubá, Estado de Minas Gerais.

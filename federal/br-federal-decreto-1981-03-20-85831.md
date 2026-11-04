@@ -1,7 +1,3 @@
-1
-
-###DEC-085831-0-000-20-03-1981@@@
-
 Decreto nº 85.831, de 20 Março de 1981.
 
 Renova por 15 (quinze) anos a concessão outorgada à TELEVISÃO ITAPOAN S.A., para executar serviço de radiodifusão de sons e imagens ( televisão), na cidade de Salvador, Estado da Bahia.

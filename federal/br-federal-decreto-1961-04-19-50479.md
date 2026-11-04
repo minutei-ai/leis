@@ -1,5 +1,3 @@
-###DEC-050479-0-000-19-04-1961@@@
-
 DECRETO Nº 50.479, DE 19 DE ABRIL DE 1961.
 
 Dá nova redação ao art. 176 do Decreto nº 41.019, de 26 de fevereiro de 1957, e dá outras providências.

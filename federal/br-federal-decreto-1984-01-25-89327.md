@@ -1,5 +1,3 @@
-###DEC-089327-0-000-25-01-1984@@@
-
 DECRETO nº 89.327 de 25 de janeiro dE 1984.
 
 Promulga o Convênio sobre Transporte Terrestre Fronteiriço de Carga entre o Governo da República Federativa do Brasil e o Governo da República da Venezuela.
@@ -112,4 +110,14 @@ O presente Convênio poderá ser modificado por mútuo acordo das Partes. As mod
 
 Feito em Caracas, aos 19 dias do mês de fevereiro de 1982, em dois exemplares originais, em português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPUBLICA</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">DA VENEZUELA:</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(José Alberto Zambrano Velasco)</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPUBLICA
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL:
+
+DA VENEZUELA:
+
+(Ramiro Saraiva Guerreiro)
+
+(José Alberto Zambrano Velasco)

@@ -1,5 +1,3 @@
-###DEC-070314-0-000-22-03-1972@@@
-
 DECRETO Nº 70.314, DE 22 DE MARÇO DE 1972.
 
 Revoga o Decreto nº 60.962, de 7 de junho de 1967.

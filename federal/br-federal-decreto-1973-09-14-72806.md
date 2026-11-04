@@ -1,5 +1,3 @@
-###DEC-072806-0-000-14-09-1973@@@
-
 DECRETO Nº 72.806, DE 14 DE SETEMBRO DE 1973.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno de acrescido de marinha que menciona, situado em Aracaju, Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-077533-0-000-30-04-1976@@@
-
 decreto nº 77.533 - de 30 de abril de 1976
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado em Manaus, Estado do Amazonas.

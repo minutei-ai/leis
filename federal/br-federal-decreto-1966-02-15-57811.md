@@ -1,5 +1,3 @@
-###DEC-057811-0-000-15-02-1966@@@
-
 DECRETO Nº 57.811, DE 15 DE FEVEREIRO DE 1966.
 
 Revoga o Decreto nº 34.948, de 18 de janeiro de 1954, e dá outras providências.

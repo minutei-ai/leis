@@ -1,14 +1,12 @@
-###DEC-062703-0-000-15-05-1968@@@
+**DECRETO Nº 62.703, DE 15 DE MAIO DE 1968.**
 
-<strong>DECRETO Nº 62.703, DE 15 DE MAIO DE 1968.</strong>
+***Constitui o Quadro de Oficiais Dentistas do Corpo de Oficiais da Aeronáutica.***
 
-<em><strong>Constitui o Quadro de Oficiais Dentistas do Corpo de Oficiais da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, inciso II, da Constituição Federal e tendo em vista o disposto no artigo 4º da Lei nº 5.376, de 7 de dezembro de 1967, e artigos 5º e 7º do Decreto nº 62.466, de 26 de março de 1968,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, inciso II, da Constituição Federal e tendo em vista o disposto no artigo 4º da Lei nº 5.376, de 7 de dezembro de 1967, e artigos 5º e 7º do Decreto nº 62.466, de 26 de março de 1968,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Quadro de Oficiais Dentistas é constituído, inicialmente, pelos seguintes oficiais, obedecida a precedência hierárquica existente a 27 de março de 1968:
+**Art**. 1º O Quadro de Oficiais Dentistas é constituído, inicialmente, pelos seguintes oficiais, obedecida a precedência hierárquica existente a 27 de março de 1968:
 
 Primeiros Tenente Dentistas
 
@@ -120,12 +118,12 @@ Primeiros Tenente Dentistas
 
 54\. João Fabrício da Silva.
 
-<strong>Art</strong>. 2º Os oficiais de que trata o artigo anterior ficam considerados desagregados do Quadro de Oficiais Médicos, a partir da publicação dêste decreto.
+**Art**. 2º Os oficiais de que trata o artigo anterior ficam considerados desagregados do Quadro de Oficiais Médicos, a partir da publicação dêste decreto.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 15 de maio de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Márcio de Souza e Mello

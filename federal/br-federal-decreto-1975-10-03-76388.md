@@ -1,5 +1,3 @@
-###DEC-076388-0-000-03-10-1975@@@
-
 DECRETO Nº 76.388, DE 3 DE OUTUBRO DE 1975.
 
 Cria a Embaixada do Brasil na República da Irlanda.

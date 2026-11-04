@@ -1,5 +1,3 @@
-###DEC-046634-0-000-17-08-1959@@@
-
 DECRETO Nº 46.634, de 17 de agôsto de 1959.
 
 Outorga à Prefeitura Municipal de Mamanguape, Estado da Paraíba, concessão para distribuir energia elétrica.

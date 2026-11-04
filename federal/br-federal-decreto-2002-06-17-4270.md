@@ -1,5 +1,3 @@
-###DEC-004270-0-000-17-06-2002@@@
-
 DECRETO Nº 4.270, DE 17 DE JUNHO DE 2002
 
 Extingue o Conselho Coordenador das Ações Federais no Estado do Rio de Janeiro e revoga os Decretos que menciona.

@@ -1,5 +1,3 @@
-###DEC-087548-0-000-09-09-1982@@@
-
 Decreto nº 87.548, de 09 de setembro de 1982
 
 Classifica órgão de deliberação coletiva na área do Ministério da Fazenda.

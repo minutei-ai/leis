@@ -1,5 +1,3 @@
-###DEC-096228-0-000-27-06-1988@@@
-
 DECRETO N° 96.228, DE 27 DE JUNHO DE 1988
 
 Autoriza o aumento do Capital Social da Companhia de Eletricidade do Amapá - CEA.

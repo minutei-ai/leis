@@ -1,5 +1,3 @@
-###DEC-053881-0-000-10-04-1964@@@
-
 DECRETO Nº 53.881, DE 10 DE ABRIL DE 1964.
 
 Revoga o Decreto nº 51.861, de 22 de março de 1963.

@@ -1,5 +1,3 @@
-###DEC-005266-0-000-08-11-2004@@@
-
 DECRETO Nº 5.266 DE 8 DE NOVEMBRO DE 2004
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Ucrânia sobre Salvaguardas Tecnológicas Relacionadas à Participação da Ucrânia em Lançamentos a partir do Centro de Lançamento de Alcântara, concluído em Kiev, em 16 de janeiro de 2002.
@@ -26,10 +24,14 @@ LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
 
-# ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA<br>
-DO BRASIL E O GOVERNO DA UCRÂNIA SOBRE<br>
-SALVAGUARDAS TECNOLÓGICAS RELACIONADAS<br>
-À PARTICIPAÇÃO DA UCRÂNIA EM LANÇAMENTOS<br>
+# ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA
+
+DO BRASIL E O GOVERNO DA UCRÂNIA SOBRE
+
+SALVAGUARDAS TECNOLÓGICAS RELACIONADAS
+
+À PARTICIPAÇÃO DA UCRÂNIA EM LANÇAMENTOS
+
 A PARTIR DO CENTRO DE LANÇAMENTO DE ALCÂNTARA
 
         O Governo da República Federativa do Brasil
@@ -50,12 +52,14 @@ A PARTIR DO CENTRO DE LANÇAMENTO DE ALCÂNTARA
 
         Acordam o seguinte:
 
-ARTIGO I<br>
+ARTIGO I
+
 Objetivo
 
         Este Acordo tem como objetivo evitar o acesso não autorizado de tecnologias relacionadas com o lançamento de Veículos de Lançamento, de Espaçonaves, por meio de Veículos de Lançamento Espaciais ou Veículos de Lançamento, e Cargas Úteis por meio de Veículos de Lançamento a partir do Centro de Lançamento de Alcântara e a transferência não autorizada dessas tecnologias.
 
-ARTIGO II<br>
+ARTIGO II
+
 Definições
 
         Para fins deste Acordo se aplicarão as seguintes definições:
@@ -88,7 +92,8 @@ Definições
 
         14. "Licença de Exportação" – licença para exportar bens sujeitos ao controle de exportação estatal.
 
-ARTIGO III<br>
+ARTIGO III
+
 Dispositivos Gerais
 
         1. A República Federativa do Brasil deverá:
@@ -105,9 +110,12 @@ Dispositivos Gerais
 
         2. Será a intenção do Governo da Ucrânia, atuando em consonância com as leis e os dispositivos deste Acordo, aprovar as licenças de exportação necessárias à condução das Atividades de Lançamento. Entretanto, nada neste Acordo restringirá a autoridade do Governo da Ucrânia para tomar qualquer iniciativa em relação ao licenciamento de exportação que esteja em conformidade com a legislação nacional da Ucrânia.
 
-ARTIGO IV<br>
-Controle de Veículos de Lançamento, Equipamentos da<br>
-Plataforma de Lançamentos, Espaçonaves, Equipamentos<br>
+ARTIGO IV
+
+Controle de Veículos de Lançamento, Equipamentos da
+
+Plataforma de Lançamentos, Espaçonaves, Equipamentos
+
 Afins e Dados Técnicos
 
         1. Este Acordo especifica os procedimentos de salvaguardas tecnológicas a serem seguidos para Atividades de Lançamento, inclusive os procedimentos para controlar o acesso a Veículos de Lançamento, Equipamentos da Plataforma de Lançamentos, Espaçonaves, Equipamentos Afins, Dados Técnicos e às áreas em que se encontrem tais itens no Centro de Lançamento de Alcântara. Este Acordo se aplicará a todas as fases das Atividades de Lançamento, inclusive as atividades desenvolvidas em todas as instalações de qualquer Licenciado Ucraniano, as atividades em todas as instalações sob jurisdição e/ou controle da República Federativa do Brasil, bem como as atividades dos Representantes Brasileiros e de qualquer Participante Ucraniano. Este Acordo também se aplicará a todas as fases de transporte de Veículos de Lançamento, Equipamentos da Plataforma de Lançamentos, Espaçonaves, Equipamentos Afins e Dados Técnicos.
@@ -126,7 +134,8 @@ Afins e Dados Técnicos
 
         b) Caso uma licença de exportação seja revogada pelo Governo da Ucrânia, o Governo da República Federativa do Brasil não se poderá opor à decisão e, se necessário, deverá facilitar o retorno expedito à Ucrânia, ou a outro local aprovado pelo Governo da Ucrânia, de conformidade com o estabelecido na licença de exportação emitida pelo Governo da Ucrânia, de um Veículo de Lançamento, Equipamentos da Plataforma de Lançamentos, Espaçonaves, Equipamentos Afins e/ou Dados Técnicos que tenham sido trazidos para o território da República Federativa do Brasil.
 
-ARTIGO V<br>
+ARTIGO V
+
 Dados Técnicos Autorizados para Repasse
 
         1. Este Acordo não permite e o Governo da Ucrânia proibirá que os Participantes Ucranianos prestem qualquer assistência aos Representantes Brasileiros no concernente ao projeto e desenvolvimento de Veículos de Lançamento, Equipamentos da Plataforma de Lançamentos, Espaçonaves e/ou Equipamentos Afins, a menos que tal assistência seja autorizada pelo Governo da Ucrânia.
@@ -135,7 +144,8 @@ Dados Técnicos Autorizados para Repasse
 
         3. O Governo da Ucrânia envidará seus melhores esforços para assegurar que os Licenciados Ucranianos forneçam aos Licenciados Brasileiros a informação necessária relacionada à licença ucraniana e/ou à autorização de repasse, inclusive informação sobre os itens repassados de acordo com tal licença ou autorização. O Governo da República Federativa do Brasil envidará seus melhores esforços para assegurar que os Licenciados Brasileiros forneçam ao Governo da República Federativa do Brasil a informação acima mencionada.
 
-ARTIGO VI<br>
+ARTIGO VI
+
 Controles de Acesso
 
         1. Para qualquer lançamento regulado por este Acordo, o Governo da Ucrânia e o Governo da República Federativa do Brasil supervisionarão e acompanharão a implementação dos Planos de Controle de Tecnologias apropriados. O Governo da República Federativa do Brasil permitirá e facilitará a supervisão e o acompanhamento de todas as Atividades de Lançamento pelo Governo da Ucrânia.
@@ -148,7 +158,8 @@ Controles de Acesso
 
         5. Será solicitado a todas as pessoas portarem, de forma visível, crachás de identificação, enquanto estiverem executando atribuições relacionadas com Atividades de Lançamento. O acesso às instalações e às áreas que tenham sido especialmente reservadas para o trabalho com Veículos de Lançamento e Espaçonaves previsto neste Acordo, será controlado, exclusivamente, pelo Governo da Ucrânia ou pelos Licenciados Ucranianos, devidamente autorizados pela(s) Licença(s) de Exportação. Tais crachás que exibirão, nos idiomas português e inglês, o nome e a fotografia do portador e a autorização para entrada nas instalações, serão emitidos unicamente pelo Governo da Ucrânia ou pelo Licenciado Ucraniano, se autorizado pelo Governo da Ucrânia.
 
-ARTIGO VII<br>
+ARTIGO VII
+
 Procedimentos para Processamento
 
         1. Transporte de Veículos de Lançamento, Equipamentos da Plataforma de Lançamentos, Espaçonaves, Equipamentos Afins, Dados Técnicos, inclusive procedimentos alfandegários:
@@ -169,7 +180,8 @@ Procedimentos para Processamento
 
         As Partes assegurarão que os Equipamentos da Plataforma de Lançamentos, Equipamentos Afins, juntamente com os Dados Técnicos, retornarão a locais aprovados pelo Governo da Ucrânia, a menos que, de outra maneira, venha a ser acordado pelas Partes.
 
-ARTIGO VIII<br>
+ARTIGO VIII
+
 Atraso, Cancelamento ou Falha de Lançamento
 
         1. Atraso de Lançamento
@@ -186,14 +198,16 @@ Atraso, Cancelamento ou Falha de Lançamento
 
         b) O Governo da República Federativa do Brasil e o Governo da Ucrânia acordam em autorizar os Licenciados Brasileiros e Ucranianos, respectivamente, por meio de licenças ou permissões, a proporcionar, na medida em que os interesses nacionais de segurança e de política externa dos respectivos Estados o permitam, as informações necessárias para determinar a causa do acidente.
 
-ARTIGO IX<br>
+ARTIGO IX
+
 Implementação
 
         1. As Partes, anualmente, realizarão consultas para avaliar a implementação deste Acordo, com particular ênfase na identificação de qualquer ajuste que possa ser necessário para manter a efetividade dos controles sobre transferência de tecnologia.
 
         2. Qualquer controvérsia entre as Partes, concernente à interpretação e à implementação deste Acordo, será dirimida por consultas por meio dos canais diplomáticos.
 
-ARTIGO X<br>
+ARTIGO X
+
 Dispositivos Finais
 
         1. Este Acordo entrará em vigor mediante troca de notas entre as Partes, confirmando que todos os procedimentos e requisitos internos pertinentes para que este Acordo entre em vigor tenham sido cumpridos.
@@ -210,13 +224,20 @@ Dispositivos Finais
 
         Feito em Kiev, em 16 de janeiro de 2002, em três exemplares originais, respectivamente nos idiomas português, ucraniano e inglês, sendo os três textos igualmente autênticos. Em caso de qualquer divergência de interpretação, a versão em inglês prevalecerá.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-PELO GOVERNO DA REPÚBLICA<br>
-FEDERATIVA DO BRASIL<br>
-Ronaldo Mota Sardenberg<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL
+
+Ronaldo Mota Sardenberg
+
 Ministro de Estado da Ciência e Tecnologia
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-PELO GOVERNO DA UCRÂNIA<br>
-Dr. Oleksandr Negoda<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PELO GOVERNO DA UCRÂNIA
+
+Dr. Oleksandr Negoda
+
 Diretor-Geral da Agência Espacial

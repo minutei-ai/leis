@@ -1,5 +1,3 @@
-###DEC-057683-0-000-28-01-1966@@@
-
 DECRETO Nº 57.683, DE 28 DE JANEIRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, em favor da União Federal, bens pertencentes à Massa Falida da Panair do Brasil S.A.

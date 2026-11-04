@@ -1,5 +1,3 @@
-###DEC-071800-0-000-01-02-1973@@@
-
 DECRETO Nº 71.800, DE 01 de FEVEREIRO DE 1973.
 
 Concede à S.A. de Cimento Mineração e cabotagem \- CIMIMAR o direito de lavrar argila no município de Arujá \- Estado de São Paulo.

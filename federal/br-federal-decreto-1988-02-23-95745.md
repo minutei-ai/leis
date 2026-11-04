@@ -1,7 +1,3 @@
-1
-
-###DEC-095745-0-000-23-02-1988@@@
-
 DECRETO N° 95.745, DE 23 DE FEVEREIRO DE 1988
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado "Fazenda São Jorge", classificado como latifúndio por exploração, situado nos Municípios de Conceição do Araguaia e Rio Maria, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária fixada pelo Decreto n° 92.623, de 2 de maio de 1986, e dá outras providências.

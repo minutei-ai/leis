@@ -1,5 +1,3 @@
-###DEC-084019-0-000-21-09-1979@@@
-
 decreto nº 84.019, de 21 de setembro de 1979.
 
 Cria no Território Federal de Rondônia, o Parque Nacional de Pacaás Novos, com os limites que especifica, e dá outras providências.

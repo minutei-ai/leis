@@ -1,5 +1,3 @@
-###DEC-045283-0-000-26-01-1959@@@
-
 decreto nº 45.283, de 26 de janeiro de 1959.
 
 Outorga concessão à fundação Casper Líbero para estabelecer uma estação de radio-televisão na cidade de São Paulo, Estado de São Paulo.

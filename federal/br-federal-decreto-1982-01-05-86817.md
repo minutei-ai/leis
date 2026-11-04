@@ -1,5 +1,3 @@
-###DEC-086817-0-000-05-01-1982@@@
-
 decreto nº 86.817, de 05 DE JANEIRO DE 1982
 
 Outorga à Centrais Elétricas do Sul do Brasil S.A.-ELETROSUL concessão para o aproveitamento da energia hidráulica do rio Pelotas, no local denominado Machadinho, nos Estados do Rio Grande do Sul e Santa Catarina.

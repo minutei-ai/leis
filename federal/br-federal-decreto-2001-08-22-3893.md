@@ -1,5 +1,3 @@
-###DEC-003893-0-000-22-08-2001@@@
-
 DECRETO no 3.893, DE 22 DE AGOSTO DE 2001
 
 Dispõe sobre a concessão de incentivo fiscal para o desenvolvimento regional, nos termos do art. 11 da Lei nº 9.440, de 14 de março de 1997.

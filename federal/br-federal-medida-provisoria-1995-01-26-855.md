@@ -1,5 +1,3 @@
-###MPV-000855-0-000-26-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 855, DE 26 DE JANEIRO DE 1995
 
 Dispõe sobre a venda de veículos populares.

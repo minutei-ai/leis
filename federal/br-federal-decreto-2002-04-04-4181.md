@@ -1,5 +1,3 @@
-###DEC-004181-0-000-04-04-2002@@@
-
 DECRETO Nº 4.181, DE 4 DE ABRIL DE 2002
 
 Dispõe sobre a execução do Vigésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, como Estados Partes do Mercosul, e o Governo da República do Chile, de 31 de dezembro de 2001.

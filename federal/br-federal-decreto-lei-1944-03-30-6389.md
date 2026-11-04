@@ -1,5 +1,3 @@
-###DEL-006389-0-000-30-03-1944@@@
-
 DECRETO-LEI N. 6.389 – DE 30 DE MARÇO DE 1944
 
 Declara isenta de limitação a produção de rapaduras e dá outras providências

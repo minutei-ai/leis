@@ -1,5 +1,3 @@
-###DEL-003811-0-000-10-11-1941@@@
-
 DECRETO-LEI N. 3.811 – DE 10 DE NOVEMBRO DE 1941
 
 Aumenta os quadros e efetivos de oficiais da Organização Provisória
@@ -14,7 +12,65 @@ a) Oficiais Generais – mais três Generais de Brigada;
 
 b) Oficiais das Armas e Serviços (Médicos):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:173.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Postos </span><span style="font-size:10pt">–</span><span style="font-size:10pt"> Armas</span></p></td><td style="width:70.95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Infantaria</span></p></td><td style="width:71pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Artilharia</span></p></td><td style="width:70.95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cavalaria</span></p></td><td style="width:67.15pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Médicos</span></p></td></tr><tr><td style="width:173.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Coronéis...................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Tenentes-coronéis ...................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Majores ....................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Capitães ...................................</span></p></td><td style="width:70.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">10</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">13</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">–</span></p></td><td style="width:71pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">11</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">–</span></p></td><td style="width:70.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">–</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">18</span></p></td></tr><tr><td style="width:173.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Totais ........................</span></p></td><td style="width:70.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">25</span></p></td><td style="width:71pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">22</span></p></td><td style="width:70.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">9</span></p></td><td style="width:67.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">26</span></p></td></tr></tbody></table>
+Postos – Armas
+
+Infantaria
+
+Artilharia
+
+Cavalaria
+
+Médicos
+
+Coronéis...................................
+
+Tenentes-coronéis ...................
+
+Majores ....................................
+
+Capitães ...................................
+
+2
+
+10
+
+13
+
+–
+
+4
+
+11
+
+7
+
+–
+
+1
+
+2
+
+6
+
+–
+
+1
+
+2
+
+5
+
+18
+
+Totais ........................
+
+25
+
+22
+
+9
+
+26
 
 Art. 2º Revogam-se as disposições em contrário.
 

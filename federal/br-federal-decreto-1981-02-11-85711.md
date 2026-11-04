@@ -1,5 +1,3 @@
-###DEC-085711-0-000-11-02-1981@@@
-
 DECRETO Nº 85.711, de 11 de fevereiro de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Goitacazes, da Companhia de Eletricidade do Estado do Rio de Janeiro-CERJ, no Estado do Rio Janeiro.

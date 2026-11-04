@@ -1,5 +1,3 @@
-###DEC-099185-0-000-15-03-1990@@@
-
 DECRETO N° 99.185, DE 15 DE MARÇO DE 1990
 
 Aprova o Regimento Interno Consolidado da Secretaria-Geral do Gabinete Militar da Presidência da República e do Gabinete pessoal do Presidente da República.

@@ -1,5 +1,3 @@
-###DEC-005752-0-000-12-04-2006@@@
-
 DECRETO Nº 5.752, DE 12 DE ABRIL DE 2006.
 
 Promulga o Memorando de Entendimento entre os Governos da República Federativa do Brasil e da República do Peru sobre Cooperação em Matéria de Proteção e Vigilância da Amazônia, celebrado em Lima, em 25 de agosto de 2003.

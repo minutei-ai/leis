@@ -1,5 +1,3 @@
-###DEC-049521-0-000-12-12-1960@@@
-
 DECRETO Nº 49.521, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza a o cidadão brasileiro Antonio Pio Cardoso Filho a pesquisar águas minerais no município de Betim, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-059151-0-000-26-08-1966@@@
-
 DECRETO Nº 59.151, DE 26 DE AGôSTO DE 1966.
 
 Declara de utilidade pública o “Instituto Histórico e Geográfico de São Paulo”, com sede em S. Paulo, Estado de São Paulo.

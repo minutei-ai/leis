@@ -1,5 +1,3 @@
-###DEC-079399-0-000-16-03-1977@@@
-
 DECRETO Nº 79.399, DE 16 DE MARÇO DE 1977.
 
 Dispõe sobre a classificação e o uso de veículos terrestres automotores destinados ao transporte de servidores civis da Administração Federal direta e autárquica, e dá outras providências.

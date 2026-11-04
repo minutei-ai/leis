@@ -1,5 +1,3 @@
-###MPV-001721-0-000-28-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.721, DE 28 DE OUTUBRO DE 1998
 
 Dispõe sobre os depósitos judiciais e extrajudiciais de tributos e contribuições federais.

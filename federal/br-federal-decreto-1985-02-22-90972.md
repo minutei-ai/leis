@@ -1,5 +1,3 @@
-###DEC-090972-0-000-22-02-1985@@@
-
 Decreto nº 90.972, de 22 de fevereiro de 1985
 
 Suspende a execução da Emenda Constitucional nº 29, de 26 de agosto de 1983, do Estado do Rio Grande do Sul.

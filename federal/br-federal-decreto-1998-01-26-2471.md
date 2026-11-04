@@ -1,5 +1,3 @@
-###DEC-002471-0-000-26-01-1998@@@
-
 DECRETO N 2.471, DE 26 DE JANEIRO DE 1998
 
 Dispõe sobre alterações ao Estatuto da Financiadora de Estudos e Projetos - FINEP.

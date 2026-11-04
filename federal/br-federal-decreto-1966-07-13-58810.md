@@ -1,5 +1,3 @@
-###DEC-058810-0-000-13-07-1966@@@
-
 decreto nº 58.810, de 13 de julho de 1966.
 
 Concede autorização para o funcionamento da Faculdade de Ciências Contábeis de Itapetininga, Estado de São Paulo.

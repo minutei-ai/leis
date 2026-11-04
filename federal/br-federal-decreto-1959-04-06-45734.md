@@ -1,5 +1,3 @@
-###DEC-045734-0-000-06-04-1959@@@
-
 DECRETO Nº 45.734, DE 06 DE abril DE 1959.
 
 Autoriza Th. Badin de Minérios Ltda., a pesquisar ouro no município de Rio de Contas, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-064771-0-000-02-07-1969@@@
-
 DECRETO Nº 64.771 - DE 2 DE JULHO DE 1969.
 
 Dispõe em caráter transitório, sôbre apuração de merecimento para os fins de promoção dos funcionários policiais civis da União, altera o Decreto n° 59.310 de 23 de setembro de 1968, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-007324-0-000-05-10-2010-PUB-01@@@
-
 DECRETO Nº 7.324, DE 5 DE OUTUBRO DE 2010.
 
 Dá nova redação ao art. 1o do Decreto no 4.873, de 11 de novembro de 2003, que institui o Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica - “LUZ PARA TODOS”.

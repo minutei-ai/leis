@@ -1,5 +1,3 @@
-###DEC-091085-0-000-12-03-1985@@@
-
 DECRETO Nº 91.085, de 12 DE março de 1985
 
 Outorga concessão à RÁDIO NOVA BEBEDOURO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Bebedouro, Estado de São Paulo.

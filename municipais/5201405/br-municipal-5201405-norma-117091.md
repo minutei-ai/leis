@@ -122,13 +122,16 @@ Art. 15 Esta Lei entrará em vigor 60 (sessenta) dias após sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 15 dias do mês de agosto do ano de 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-VALDEMIR SOUTO<br>
+VALDEMIR SOUTO
+
 Presidente da Superintendência Municipal de Trânsito de Aparecida de Goiânia-SMTA
 
 [ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19125)

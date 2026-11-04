@@ -1,5 +1,3 @@
-###DEC-047495-0-000-26-12-1959@@@
-
 DECRETO N.º 47.495, DE 26 DE DEZEMBRO DE 1959.
 
 Outorga concessão à Superintendência das Emprêsas Incorporadas ao Patrimônio Nacional para instalar uma estação de radiotelevisão em Brasília.

@@ -1,5 +1,3 @@
-###DEC-069049-0-000-11-08-1971@@@
-
 DECRETO Nº 69.049, DE 11 DE AGÔSTO DE 1971.
 
 Redistribui, com o respectivo ocupante, para a Universidade Federal Rural do Rio de Janeiro, cargo do Ministério das Minas e Energia, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001829-0-000-08-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.829, DE 8 DE JUNHO DE 1999
 
 Acresce parágrafo ao art. 12 da Lei nº 7.738, de 9 de março de 1989, que baixa normas complementares para execução da Lei nº 7.730, de 31 de janeiro de 1989.

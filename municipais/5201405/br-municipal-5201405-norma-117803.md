@@ -20,8 +20,10 @@ Art. 5º Este Decreto entra em vigor na da data de sua publicação, tendo efeit
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 06 DE Fevereiro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

@@ -6,16 +6,18 @@ Atribui o nome de SONIA MARIA ERNICA DA SILVA à quadra de esportes da Escola Es
 
 Publicada no Diário Oficial nº 6.875, de 26 de dezembro de 2006.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º É atribuído o nome de <i>Sonia Maria Ernica da Silva</i> à quadra de esportes da Escola Estadual Senador Saldanha Derzi, Distrito de Monetesi, Município de Itaporã.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
-Art. 3º Revogam-se as disposições em contrário.<br>
-<br>
-Campo Grande, 22 de dezembro de 2006.<br>
-<br>
-JOSÉ ORCÍRIO MIRANDA DOS SANTOS<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º É atribuído o nome de *Sonia Maria Ernica da Silva* à quadra de esportes da Escola Estadual Senador Saldanha Derzi, Distrito de Monetesi, Município de Itaporã.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Campo Grande, 22 de dezembro de 2006.
+
+JOSÉ ORCÍRIO MIRANDA DOS SANTOS
+
 Governador

@@ -1,5 +1,3 @@
-###DEC-073983-0-000-24-04-1974@@@
-
 DECRETO Nº 73.983, DE 24 DE ABRIL DE 1974.
 
 Declara perempta a concessão outorgada à Rádio Rio Preto S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São José do Rio Preto, Estado de São Paulo.

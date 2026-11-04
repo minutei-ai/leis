@@ -1,8 +1,6 @@
-###DEC-024194-0-000-12-12-1947@@@
+**DECRETO N. 24.194 – DE 12 DE DEZEMBRO DE 1947**
 
-<strong>DECRETO N. 24.194 – DE 12 DE DEZEMBRO DE 1947</strong>
-
-<em><strong>Modifica em parte, o Decreto número 10142,</strong></em>  <em><strong>de 4 da agôsto de 1942</strong></em>
+***Modifica em parte, o Decreto número 10142,***  ***de 4 da agôsto de 1942***
 
 O Presidente da República usando da atribuição que lhe confere o artigo 87, inciso I da Constituição e tendo em vista o Decreto nº 10.142, de 4 de agôsto de 1942,
 
@@ -18,9 +16,9 @@ Considerando que a solicitação das interessadas, no sentido de ser estendido a
 
 Considerando, entretanto, que a nova tarifa não importará, em nenhum aumento de preço para qualquer consumidor :
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º O inciso III do art. 1º do Decreto nº 10.142, de 4 de agôsto de 1942, passa a ter a seguinte redação:
+**Art.** 1º O inciso III do art. 1º do Decreto nº 10.142, de 4 de agôsto de 1942, passa a ter a seguinte redação:
 
 III) A Companhia Brasileira de Energia Elétrica pagará à, Companhia supridora de energia, as seguintes quantias mensais:
 
@@ -32,14 +30,14 @@ c) pelo aluguel dos aparelhos de medição, trinta cruzeiros (Cr$ 30,00).
 
 Parágrafo único. As modificações futuras na tarifa de que trata êste artigo, serão fixadas pela Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério da Agricultura.
 
-<strong>Art.</strong> 2º Ficam revogados os artigos 3.º e 4.º do Decreto nº 10.142, de  agôsto de 1942.
+**Art.** 2º Ficam revogados os artigos 3.º e 4.º do Decreto nº 10.142, de  agôsto de 1942.
 
-<strong>Art.</strong> 3º Êste Decreto entrará vigor no dia 1 de janeiro de 1948.
+**Art.** 3º Êste Decreto entrará vigor no dia 1 de janeiro de 1948.
 
-<strong>Art.</strong> 4º Revogam-se as disposições  em contrário.
+**Art.** 4º Revogam-se as disposições  em contrário.
 
 Rio de Janeiro, 12 de Dezembro de 1947, 126º da Independência e 59º República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Daniel de Carvalho.

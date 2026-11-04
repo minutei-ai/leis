@@ -1,5 +1,3 @@
-###DEC-045683-0-000-01-04-1959@@@
-
 DECRETO Nº 45.683, DE 1 DE ABRIL DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-088158-0-000-09-03-1983@@@
-
 # Decreto nº 88.158, de 09 de março de 1983.
 
 Cria Comissão Interministerial destinada a estudar e propor medidas para a criação da Guarda Costeira.

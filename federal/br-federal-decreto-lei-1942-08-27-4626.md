@@ -1,5 +1,3 @@
-###DEL-004626-0-000-27-08-1942@@@
-
 DECRETO-LEI N. 4.626 – DE 27 DE AGOSTO DE 1942
 
 Abre, pelo Ministério da Fazenda o crédito especial de 820:000$0 (oitocentos e vinte contos de réis) para as comemorações da Semana da Independência

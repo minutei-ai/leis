@@ -1,5 +1,3 @@
-###DEC-064076-0-000-10-02-1969@@@
-
 Decreto Nº 64.076, DE 10 DE FEVEREIRO DE 1969.
 
 Retifica o art. 1º do decreto número 59.623 de 30 de novembro de 1966.

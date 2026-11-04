@@ -1,5 +1,3 @@
-###DEC-007640-0-000-09-12-2011-PUB-01@@@
-
 DECRETO Nº 7.640, DE 9 DE DEZEMBRO DE 2011
 
 Altera o art. 152 do Decreto nº 6.514, de 22 de julho de 2008, que dispõe sobre as infrações e sanções administrativas ao meio ambiente e estabelece o processo administrativo federal para apuração destas infrações.

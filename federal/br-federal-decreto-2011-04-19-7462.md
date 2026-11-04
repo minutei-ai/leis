@@ -1,5 +1,3 @@
-###DEC-007462-0-000-19-04-2011-PUB-01@@@
-
 DECRETO Nº 7.462, DE 19 DE ABRIL DE 2011
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério das Comunicações, dispõe sobre o remanejamento de cargos em comissão, altera os Anexos I e II do Decreto nº 7.063, de 13 de janeiro de 2010, os Anexos I e II do Decreto nº 6.188, de 17 de agosto de 2007, o Anexo II do Decreto nº 4.597, de 17 de fevereiro de 2003, o Anexo II do Decreto nº 5.135, de 7 de julho de 2004, o Anexo II do Decreto nº 6.378, de 19 de fevereiro de 2008, o Anexo II do Decreto nº 6.207, de 18 de setembro de 2007, os Anexos I e II do Decreto nº 6.835, de 30 de abril de 2009, e dá outras providências.

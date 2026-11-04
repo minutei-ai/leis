@@ -1,5 +1,3 @@
-###DEC-094803-0-000-26-08-1987@@@
-
 DECRETO N° 94.803, DE 26 DE AGOSTO DE 1987
 
 Outorga concessão À RÁDIO TELEVISÃO VANGUARDA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Maringá, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEL-000274-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 274, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre o sistema de Classificação de Cargos do Distrito Federal, aprova os respectivos Quadros de Pessoal e dá outras providências.
@@ -206,7 +204,25 @@ Art. 48. Os valôres dos níveis dos cargos efetivos e dos símbolos dos cargos 
 
 Art. 49. Para ingresso no Quadro Permanente os candidatos deverão possuir, além das condições específicas exigíveis em cada caso, conhecimentos correspondentes aos seguintes níveis de instrução:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Instrução</span></p></td><td style="width:102.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cargos e níveis</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Superior ......................................................................</span></p></td><td style="width:102.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>19 a 22</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Média (2º ciclo) ...........................................................</span></p></td><td style="width:102.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15 a 18</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Média (1º ciclo) ...........................................................</span></p></td><td style="width:102.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10 a 14</span></p></td></tr><tr><td style="width:249.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Elementar ...................................................................</span></p></td><td style="width:102.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 a 9</span></p></td></tr></tbody></table>
+Instrução
+
+Cargos e níveis
+
+Superior ......................................................................
+
+19 a 22
+
+Média (2º ciclo) ...........................................................
+
+15 a 18
+
+Média (1º ciclo) ...........................................................
+
+10 a 14
+
+Elementar ...................................................................
+
+1 a 9
 
 CAPÍTULO X
 

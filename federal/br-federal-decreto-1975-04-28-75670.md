@@ -1,5 +1,3 @@
-###DEC-075670-0-000-28-04-1975@@@
-
 DECRETO Nº 75.670, DE 28 DE ABRIL DE 1975.
 
 Altera dispositivos do Decreto número 60.521, de 31 de março de 1967, que estabelece a Estrutura Básica de Organização do Ministério da Aeronáutica.

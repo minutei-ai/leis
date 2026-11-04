@@ -1,7 +1,3 @@
-1
-
-###DEC-000366-0-000-17-12-1991@@@
-
 DECRETO N° 366, DE 17 DE DEZEMBRO DE 1991
 
 Dispõe sobre a transferência de bens, haveres e contencioso judicial do Banco Nacional de Crédito Cooperativo S.A. - BNCC, em liquidação.

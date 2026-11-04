@@ -1,5 +1,3 @@
-###DEL-003276-0-000-16-05-1941@@@
-
 DECRETO-LEI N. 3.276 – DE 16 DE MAIO DE 1941
 
 Altera o pagamento 5º do artigo 2º do decreto n. 16.665. de 6 de novembro de 1924.

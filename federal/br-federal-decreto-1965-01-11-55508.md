@@ -1,5 +1,3 @@
-###DEC-055508-0-000-11-01-1965@@@
-
 DECRETO Nº 55.508, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Mário Minamoto a pesquisar calcário no município de Jacupirnaga, Estado de São Paulo.

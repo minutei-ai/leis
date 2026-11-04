@@ -1,5 +1,3 @@
-###DEC-058046-0-000-23-03-1966@@@
-
 DECRETO nº 58.046, DE 23 DE MARÇO DE 1966.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a construir linha de transmissão e dá outras providências.

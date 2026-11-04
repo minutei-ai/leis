@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209262)<br>
-
 # DECRETO N° 68.425, DE 02 DE ABRIL DE 2024
 
 ### _Autoriza a outorga de uso, à Associação Pró-Hope Apoio à Criança com Câncer, de parte do imóvel que especifica, e dá providências correlatas._

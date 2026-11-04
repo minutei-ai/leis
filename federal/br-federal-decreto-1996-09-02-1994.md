@@ -1,7 +1,3 @@
-1
-
-###DEC-001994-0-000-02-09-1996@@@
-
 DECRETO Nº 1.994, DE 2 DE SETEMBRO DE 1996.
 
 Dispõe sobre a execução do Décimo Oitavo Protocolo Adicional ao Acordo de Alcance Parcial de "Renegociação das Concessões Outorgadas no Período 1962/1980" Nº 3, entre Brasil e Chile, de 28 de junho de 1996.

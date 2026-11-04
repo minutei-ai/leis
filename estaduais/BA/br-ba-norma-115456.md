@@ -40,7 +40,8 @@ Art. 9º - É obrigatória a apresentação do certificado de vacinação do gad
 
 Art. 10 - Pela emissão de certificado de vacinação anti-brucélica a Secretaria da Agricultura cobrará, por animal, a taxa correspondente a 0,4% (quatro décimos por cento) do valor de referência fixado para a 1ª Sub-Região do Estado.
 
-Redação de acordo com a Lei nº 3.573, de 31 de maio de 1977.<br>
+Redação de acordo com a Lei nº 3.573, de 31 de maio de 1977.
+
 Redação original: "Art. 10 - A emissão do certificado de vacinação anti-brucélica far-se-á mediante a cobrança pela Secretaria da Agricultura, da quantia correspondente a 0,4 (quatro décimo por cento ) do maior salário mínimo vigente do Estado, aplicado este valor a cada animal."
 
 Parágrafo único - A receita de que trata este artigo será recolhida a conta do Instituto Biológico da Bahia, no Banco do Estado da Bahia S/A, conforme dispuser a regulamentação.
@@ -63,4 +64,4 @@ Governador
 
 Jayme Ramos Queiroz
 
-* * *
+ *

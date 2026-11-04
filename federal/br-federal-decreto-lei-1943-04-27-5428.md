@@ -1,5 +1,3 @@
-###DEL-005428-0-000-27-04-1943@@@
-
 DECRETO‑LEI N. 5.428 – DE 27 DE ABRIL DE 1943
 
 Estabelece o controle da indústria nacional de artefatos de borracha, e dá outras providências

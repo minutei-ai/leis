@@ -1,5 +1,3 @@
-###DEC-046920-0-000-30-09-1959@@@
-
 DECRETO Nº 46.920, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Benito de Aguiar Costa a pesquisar caulim no município de Paraíba do Sul, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-078657-0-000-01-11-1976@@@
-
 DECRETO Nº 78.657, DE 1 DE NOVEMBRO DE 1976.
 
 Exclui cargos, que indica, do Quadro de Pessoal - Parte Permanente - do Ministério da Saúde.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000436-0-000-28-01-1992@@@
-
 DECRETO N° 436, DE 28 DE JANEIRO DE 1992
 
 Altera o Decreto n° 347, de 21 de novembro de 1991, que determina a utilização dos Sistemas SIAFI e SIAPE, no âmbito do Poder Executivo Federal.

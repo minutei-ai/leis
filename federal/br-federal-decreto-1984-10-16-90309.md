@@ -1,5 +1,3 @@
-###DEC-090309-0-000-16-10-1984@@@
-
 Decreto nº 90.309, de 16 de outubro de 1984.
 
 Dá nova redação ao artigo 14 e ao artigo 16, § 3º, do Decreto nº 89.496, de 29 de março de 1984, que dispõe sobre a Política Nacional de Irrigação.

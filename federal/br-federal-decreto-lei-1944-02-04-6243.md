@@ -1,5 +1,3 @@
-###DEL-006243-0-000-04-02-1944@@@
-
 DECRETO-LEI N. 6.243 – DE 4 DE FEVEREIRO DE 1944
 
 Autoriza a aquisição de terrenos em Salvador, Estado da Bahia

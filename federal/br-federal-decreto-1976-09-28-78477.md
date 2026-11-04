@@ -1,5 +1,3 @@
-###DEC-078477-0-000-28-09-1976@@@
-
 DECRETO Nº 78.477, DE 28 DE SETEMBRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Emissora de Educação Rural Santarém Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Santarém, Estado do Pará.

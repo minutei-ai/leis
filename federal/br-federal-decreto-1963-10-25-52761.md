@@ -1,5 +1,3 @@
-###DEC-052761-0-000-25-10-1963@@@
-
 DECRETO Nº 52.761, DE 25 DE OUTUBRO DE 1963.
 
 Autoriza “MAM” - Mineração, Comércio e Indústria de Minério Ltda. a funcionar como emprêsa de Mineração.

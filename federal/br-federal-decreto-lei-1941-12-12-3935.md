@@ -1,5 +1,3 @@
-###DEL-003935-0-000-12-12-1941@@@
-
 DECRETO-LEI N. 3.935 – DE 12 DE DEZEMBRO DE 1941
 
 Orça a Receita e fixa a Despesa do Distrito Federal para o exercício de 1942

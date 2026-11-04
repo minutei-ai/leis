@@ -1,5 +1,3 @@
-###DEL-009589-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.589- DE 16 DE AGÔSTO DE 1946
 
 Retifica o § 2º do art. 22 do Decreto-lei n.º 9.202, de 26 de Abril de 1946

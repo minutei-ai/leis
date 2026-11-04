@@ -1,5 +1,3 @@
-###DEL-000593-0-000-27-05-1969@@@
-
 DECRETO-LEI Nº 593, DE 27 DE MAIO DE 1969
 
 Autoriza o Poder Executivo a instituir uma fundação destinada a prestar assistência à maternidade, à infância e à adolescência.

@@ -1,5 +1,3 @@
-###DEC-002668-0-000-13-07-1998@@@
-
 DECRETO Nº 2.668, DE 13 DE JULHO DE 1998
 
 Dispõe sobre critérios para pagamento da Gratificação de Estímulo à Docência no Magistério Superior.

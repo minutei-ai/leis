@@ -1,5 +1,3 @@
-###DEC-083195-0-000-23-02-1979@@@
-
 Decreto nº 83.195, de 23 de fevereiro de 1979
 
 Declara de utilidade pública, para fins de constituição servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Força e Luz Cataguazes - Leopoldina, nos Estados do Rio de Janeiro e Minas Gerais.

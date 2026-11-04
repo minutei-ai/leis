@@ -1,5 +1,3 @@
-###DEC-005854-0-000-19-07-2006@@@
-
 DECRETO Nº 5.854, DE 19 DE JULHO DE 2006.
 
 Dá nova redação ao § 1o do art. 1o do Decreto no 5.743, de 4 de abril de 2006, que dispõe sobre o remanejamento, em caráter temporário, de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona.
@@ -19,5 +17,3 @@ Brasília, 19 de julho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
           Paulo Bernardo Silva
-
-Este texto não substitui o publicado no D.O.U. de 20.7.2006

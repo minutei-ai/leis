@@ -1,5 +1,3 @@
-###DEC-092880-0-000-01-07-1986@@@
-
 DECRETO Nº 92.880, DE 1 DE JULHO DE 1986
 
 Eleva o capital da Empresa Pública Financiadora de Estudos e Projetos  \- FINEP.

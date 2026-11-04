@@ -1,5 +1,3 @@
-###DEC-004619-0-000-20-03-2003@@@
-
 DECRETO Nº 4.619, DE 20 DE MARÇO DE 2003.
 
 Altera o art. 5o do Decreto no 2.153, de 20 de fevereiro de 1997, que estabelece e organiza as Forças Navais, Aeronavais e de Fuzileiros Navais da Marinha, dispõe sobre as áreas de jurisdição dos Comandos de Distritos Navais e dá outras providências.

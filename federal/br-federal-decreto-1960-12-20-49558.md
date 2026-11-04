@@ -1,5 +1,3 @@
-###DEC-049558-0-000-20-12-1960@@@
-
 DECRETO Nº 49.558, de 20 de dezembro de 1960.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$3.000.000,00 como auxilio ao Educandário Espirita e Escola Doméstica de Araguari.

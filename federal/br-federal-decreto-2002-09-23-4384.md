@@ -1,5 +1,3 @@
-###DEC-004384-0-000-23-09-2002@@@
-
 DECRETO Nº 4.384, DE 23 DE SETEMBRO DE 2002
 
 Extingue o Programa de Apoio à Capacitação Tecnológica da Indústria - PACTI e a Comissão Nacional de Capacitação Tecnológica da Indústria, de que trata o Decreto de 27 de abril de 1993.

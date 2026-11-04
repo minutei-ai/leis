@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f0870074-a4b2-430b-8c23-4a0b9b0126fa/texto#nowhere)
 
-###DEL-000419-0-000-10-01-1969@@@
-
 DECRETO-LEI Nº 419, DE 10 DE JANEIRO DE 1969
 
 Dispõe sôbre as unidades do Colégio Pedro II e dá outras providências.

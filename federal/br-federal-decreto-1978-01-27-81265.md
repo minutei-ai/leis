@@ -1,5 +1,3 @@
-###DEC-081265-0-000-27-01-1978@@@
-
 Decreto nº 81.265, de 27 de janeiro de 1978.
 
 Concede reconhecimento aos cursos de Ciências, de Ciências Biológicas, de Química, e de Matemática, ministrados pela Universidade Federal de Viçosa, com sede na cidade de Viçosa, Estado de Minas Gerais.

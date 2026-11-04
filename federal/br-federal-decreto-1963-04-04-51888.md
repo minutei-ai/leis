@@ -1,5 +1,3 @@
-###DEC-051888-0-000-04-04-1963@@@
-
 DECRETO Nº 51.888, DE 4 DE ABRIL DE 1963.
 
 Subordina a Superintendência Nacional do Abastecimento à Presidência da República, revoga o Decreto n.º 2.054, de 16 de janeiro de 1963, e dá outras providências.

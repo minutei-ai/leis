@@ -1,5 +1,3 @@
-###DEC-061203-0-000-22-08-1967@@@
-
 DECRETO Nº 61.203, DE 22 DE AGÔSTO DE 1967.
 
 Dispõe sôbre a liquidação de dívidas das extintas autarquias federais de navegações e dá outras providências.

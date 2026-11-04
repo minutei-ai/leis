@@ -1,30 +1,28 @@
-###DEC-044063-0-000-23-07-1958@@@
+**DECRETO Nº 44.063, DE 23 DE JULHO DE 1958.**
 
-<strong>DECRETO Nº 44.063, DE 23 DE JULHO DE 1958.</strong>
+***Aprova o Regulamento para a Imprensa Naval.***
 
-<em><strong>Aprova o Regulamento para a Imprensa Naval.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para a Imprensa Naval, que com êste baixa assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para a Imprensa Naval, que com êste baixa assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 23 de julho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Antônio Alves Câmara
 
-<strong>REGULAMENTO PARA A IMPRENSA NAVAL</strong>
+**REGULAMENTO PARA A IMPRENSA NAVAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS FINS</em>
+*DOS FINS*
 
-<strong>Art</strong>. 1º A Imprensa Naval (IN) é o estabelecimento da MB que tem por finalidade:
+**Art**. 1º A Imprensa Naval (IN) é o estabelecimento da MB que tem por finalidade:
 
 I - suprir a MB de material de expediente e de escritório;
 
@@ -32,7 +30,7 @@ II - executar todos os trabalhos de impressão da MB;
 
 III - fornecer máquinas de escrever, de somar, de calcular e mimeógrafos à MB.
 
-<strong>Art</strong>. 2º Para a consecução de sua finalidade, cabe especìficamente à IN:
+**Art**. 2º Para a consecução de sua finalidade, cabe especìficamente à IN:
 
 I - adquirir material de expediente e de escritório através de concorrências realizadas pela Diretoria de Intendência da Marinha;
 
@@ -42,17 +40,17 @@ III - adquirir máquinas de escrever, de somar, de calcular e mimeógrafos, de a
 
 Parágrafo único. A IN realizará os seus trabalhos de acôrdo com os programas estabelecidos pela Secretaria-Geral da Marinha.
 
-<strong>Art</strong>. 3º A IN esta subordinada:
+**Art**. 3º A IN esta subordinada:
 
 I - Ao Comando do 1º Distrito Naval quanto ao Comando Militar e Contrôle de Coordenação;
 
 II - À Secretaria-Geral da Marinha quanto ao Contrôle de Administração.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 4º A IN, sob a direção de um Diretor auxiliado pelo Vice-Diretor, compreende quatro Divisões a saber:
+**Art**. 4º A IN, sob a direção de um Diretor auxiliado pelo Vice-Diretor, compreende quatro Divisões a saber:
 
 I - Divisão de Serviços Gerais (IN-10)
 
@@ -64,13 +62,13 @@ IV - Divisão de Revisão (IN-40)
 
 Parágrafo único. A IN disporá ainda de uma Secretaria, subordinada ao Vice-Diretor.
 
-<strong>Art</strong>. 5º As Divisões e a Secretaria terão sua constituição previstas do Regimento Interno.
+**Art**. 5º As Divisões e a Secretaria terão sua constituição previstas do Regimento Interno.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 6º A IN dispõe do seguinte pessoal:
+**Art**. 6º A IN dispõe do seguinte pessoal:
 
 I - Diretor - Capitão-de-Mar-e-Guerra, da Ativa, ou da Reserva Remunerada, do Corpo da Armada;
 
@@ -90,27 +88,27 @@ IV - Tantos oficiais dos diversos Corpos e Quadros de Oficiais da Marinha quanto
 
 V - Tantas praças do CPSA e CPSCFN quantas forem necessárias aos serviços, de conformidade com o previsto no Regimento Interno.
 
-<strong>Art</strong>. 7º A nomeação do Diretor é feita por Decreto do Presidente da República, a do Vice-Diretor por Portaria do Ministro da Marinha; os demais oficiais e pessoal subalterno são designados pelo Diretor-Geral do Pessoal para servir na IN.
+**Art**. 7º A nomeação do Diretor é feita por Decreto do Presidente da República, a do Vice-Diretor por Portaria do Ministro da Marinha; os demais oficiais e pessoal subalterno são designados pelo Diretor-Geral do Pessoal para servir na IN.
 
-<strong>Art</strong>. 8º A nomeação, designação ou contrato de servidores civis é feita de acôrdo com a legislação e normas vigentes.
+**Art**. 8º A nomeação, designação ou contrato de servidores civis é feita de acôrdo com a legislação e normas vigentes.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 9º Êste Regulamento será completado por um Regimento Interno elaborado e aprovado de acôrdo com as normas em vigor.
+**Art**. 9º Êste Regulamento será completado por um Regimento Interno elaborado e aprovado de acôrdo com as normas em vigor.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 10 No prazo de cento e vinte (120) dias a partir da publicação do presente Regulamento em Boletim do Ministério da Marinha, o Secretário-Geral da Marinha submeterá à aprovação do Ministro da Marinha o projeto de Regimento Interno para a IN, elaborado de acôrdo com as normas em vigor.
+**Art**. 10 No prazo de cento e vinte (120) dias a partir da publicação do presente Regulamento em Boletim do Ministério da Marinha, o Secretário-Geral da Marinha submeterá à aprovação do Ministro da Marinha o projeto de Regimento Interno para a IN, elaborado de acôrdo com as normas em vigor.
 
-<strong>Art</strong>. 11 O Diretor da IN fica autorizado a baixar os atos necessários à adoção das disposições do presente Regulamento, até a aprovação do Regimento Interno.
+**Art**. 11 O Diretor da IN fica autorizado a baixar os atos necessários à adoção das disposições do presente Regulamento, até a aprovação do Regimento Interno.
 
 Rio de Janeiro, em 23 de julho de 1958.
 
-<strong>ANTONIO ALVES CÂMARA JÚNIOR</strong>
+**ANTONIO ALVES CÂMARA JÚNIOR**
 
 Almirante R. R.m
 

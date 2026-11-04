@@ -1,5 +1,3 @@
-###DEC-068527-0-000-19-04-1971@@@
-
 DECRETO Nº 68.527 - DE 19 DE ABRil DE 1971.
 
 Cria o Parque Histórico Nacional dos Guararapes e dá outras providências.

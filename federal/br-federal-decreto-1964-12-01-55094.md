@@ -1,5 +1,3 @@
-###DEC-055094-0-000-01-12-1964@@@
-
 DECRETO Nº 55.094, DE 1º DE DEZEMBRO DE 1964.
 
 Outorga a concessão à Rádio Canoinhas limitada para estabelecer uma estação radiodifusora, na cidade de Florianópolis, Estado de Santa Catarina, onde operará com a denominação de Rádio Santa Catarina.

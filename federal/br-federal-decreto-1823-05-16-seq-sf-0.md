@@ -1,5 +1,3 @@
-###DEC-000000-0-000-16-05-1823@@@
-
 DECRETO - DE 16 DE MAIO DE 1823
 
 Marca o vencimento do Governador do Bispado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-055661-0-000-30-01-1965@@@
-
 decreto nº 55.661, de 30 de janeiro de 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no município de Belo Jardim - Estado de Pernambuco.

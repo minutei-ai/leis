@@ -1,5 +1,3 @@
-###DEC-088788-0-000-04-10-1983@@@
-
 DECRETO Nº 88.788, DE 04 DE OUTUBRO DE 1983
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Parati, Estado do Rio de Janeiro.

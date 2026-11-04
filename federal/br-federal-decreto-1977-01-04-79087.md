@@ -1,5 +1,3 @@
-###DEC-079087-0-000-04-01-1977@@@
-
 Decreto nº 79.087, de 4 de janeiro de 1977.
 
 Acrescenta parágrafo único ao artigo 5º do Decreto nº 74.143, de 4 de junho de 1974, que dispõe sobre viagens ao exterior, sem nomeação ou designação.

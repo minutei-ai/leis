@@ -1,5 +1,3 @@
-###DEC-049993-0-000-24-01-1961@@@
-
 DECRETO Nº 49.993, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Moacyr Motta a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

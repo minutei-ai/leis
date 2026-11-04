@@ -1,5 +1,3 @@
-###DEC-096163-0-000-14-06-1988@@@
-
 DECRETO N° 96.163, DE 14 DE JUNHO DE 1988
 
 Dispõe sobre a elevação do capital autorizado da PETROBRÁS MINERAÇÃO S.A.- PETROMISA.

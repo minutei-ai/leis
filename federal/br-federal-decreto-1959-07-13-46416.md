@@ -1,5 +1,3 @@
-###DEC-046416-0-000-13-07-1959@@@
-
 DECRETO Nº 46.416, DE 13 DE JULHO DE 1959.
 
 Transfere sem aumento de despesas função da Tabela Única de Extranumerário Mensalista do Ministério da Justiça e Negócios Interiores, para idêntica tabela do Ministério da Fazenda.

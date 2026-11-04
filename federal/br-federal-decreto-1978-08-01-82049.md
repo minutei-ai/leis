@@ -1,5 +1,3 @@
-###DEC-082049-0-000-01-08-1978@@@
-
 Decreto nº 82.049, de 01 de agosto de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situada no Município de União dos Palmares, Estado de Alagoas.

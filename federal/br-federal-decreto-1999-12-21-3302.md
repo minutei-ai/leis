@@ -1,5 +1,3 @@
-###DEC-003302-0-000-21-12-1999@@@
-
 DECRETO Nº 3.302, DE 21 DE DEZEMBRO DE 1999.
 
 Dá nova redação ao art. 3º do Decreto nº 2.891, de 22 de dezembro de 1998.

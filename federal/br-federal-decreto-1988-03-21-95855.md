@@ -1,7 +1,3 @@
-1
-
-###DEC-095855-0-000-21-03-1988@@@
-
 DECRETO Nº 95.855, DE 21 DE MARÇO DE 1988
 
 Declara Monumento Nacional a Serra da Barriga, em União dos Palmares, Estado de Alagoas, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005207-0-000-19-01-1943@@@
-
 DECRETO‑LEI N. 5.207 – DE 19 DE JANEIRO DE 1943
 
 Cria um cargo de diretor, padrão J, em comissão, da Escola Técnica de Pelotas, Ministério da Educação e Saude

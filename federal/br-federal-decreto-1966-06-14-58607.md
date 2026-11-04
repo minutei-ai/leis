@@ -1,5 +1,3 @@
-###DEC-058607-0-000-14-06-1966@@@
-
 DECRETO Nº 58.607, de 14 de junho de 1966.
 
 Autoriza a Mineração da Amazônia, Comércio e Indústria S.A. MACISA a lavra cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

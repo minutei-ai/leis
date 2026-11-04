@@ -34,6 +34,6 @@ CUMPRA-SE e PUBLIQUE-SE.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em GOIÂNIA, aos 26 dias do mês de junho de 2023.
 
-<br>
-SELENE PERES PERES NUNES<br>
+SELENE PERES PERES NUNES
+
 Secretária de Estado da Economia, interina

@@ -1,5 +1,3 @@
-###LEI-000000-0-000-28-08-1830@@@
-
 LEI - DE 28 DE AGOSTO DE 1830
 
 Concede privilegio ao que descobrir, inventar ou melhorar uma industria util e um premio ao que introduzir uma industria estrangeira, e regula sua concessão.

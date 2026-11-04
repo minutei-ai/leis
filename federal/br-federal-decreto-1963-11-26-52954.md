@@ -1,5 +1,3 @@
-###DEC-052954-0-000-26-11-1963@@@
-
 DECRETO Nº 52.954, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a prefeitura Municipal de Abre Campo, Estado de Minas Gerais, a ampliar, progressivamente, as instalações hidroelétrica da Usina de Sant’Ana.

@@ -1,5 +1,3 @@
-###DEL-004700-0-000-17-09-1942@@@
-
 DECRETO-LEI N. 4.700 – DE 17 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 30:000$0, para auxílio ao I Congresso Inter-Americano de Prevenção da Cegueira

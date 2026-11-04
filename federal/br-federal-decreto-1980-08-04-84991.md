@@ -1,5 +1,3 @@
-###DEC-084991-0-000-04-08-1980@@@
-
 DECRETO Nº 84.991, DE 04 DE AGOSTO DE 1980
 
 Dispõe sobre a composição do Conselho de Desenvolvimento Social - CDS.

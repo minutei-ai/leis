@@ -1,5 +1,3 @@
-###DEC-096858-0-000-29-09-1988@@@
-
 DECRETO Nº 96.858, DE 29 DE SETEMBRO DE 1988
 
 Reajusta o valor do Salário Mínimo de Referência.

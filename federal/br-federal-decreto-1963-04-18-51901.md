@@ -1,5 +1,3 @@
-###DEC-051901-0-000-18-04-1963@@@
-
 Decreto nº 51.901, de 18 de abril de 1963.
 
 Aprova o aumento de capital e conseqüente alteração do artigo 7º dos Estatutos Sociais da Rêde Ferroviária Federal S.A.

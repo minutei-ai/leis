@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3380dcec-7161-416f-8971-4e864acbd6b9/texto#nowhere)
 
-###DEL-000517-0-000-07-04-1969@@@
-
 DEcRETO-LEI Nº 517, DE 7 De ABRIL DE 1969
 
 Estabelece normas para o desembaraço aduaneiro de mercadorias.

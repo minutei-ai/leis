@@ -1,5 +1,3 @@
-###DEC-045561-0-000-10-03-1959@@@
-
 DECRETO Nº 45.561, DE 10 DE MARÇO DE 1959.
 
 Dispõe sôbre Grupos de Trabalho na Comissão Nacional de Energia Nuclear e dá outras providências.

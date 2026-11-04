@@ -1,5 +1,3 @@
-###DEC-004480-0-000-22-11-2002@@@
-
 DECRETO Nº 4.480, DE 22 DE NOVEMBRO DE 2002
 
 Desvincula ações do Fundo Nacional de Desestatização - FND, de que trata o art. 9º da Lei nº 9.491, de 9 de setembro de 1997, e autoriza o aumento do capital social da Companhia Docas do Rio de Janeiro - CDRJ.

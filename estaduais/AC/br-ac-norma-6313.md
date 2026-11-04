@@ -1,6 +1,10 @@
 > **LEI Nº 4.519, DE 15 DE JANEIRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a isenção da taxa de licenciamento anual sobre veículos da categoria de aluguel mototaxistas.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a isenção da taxa de licenciamento anual sobre veículos da categoria de aluguel mototaxistas.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

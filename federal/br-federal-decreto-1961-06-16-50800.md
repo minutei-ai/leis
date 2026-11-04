@@ -1,5 +1,3 @@
-###DEC-050800-0-000-16-06-1961@@@
-
 DECRETO Nº 50.800, DE 16 DE JUNHO DE 1961.
 
 Transfere da Prefeitura Municipal de Cláudio para as Centrais Elétricas de Minas Gerais S.A. (CEMIG) a concessão para a distribuição de energia elétrica ao município de Cláudio, Estado de Minas Gerais.

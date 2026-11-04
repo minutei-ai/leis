@@ -1,5 +1,3 @@
-###DEC-068507-0-000-14-04-1971@@@
-
 Decreto nº 68.507 - de 14 de abril de 1971.
 
 Concede autorização à Federação dos Trabalhadores nas Indústrias Químicas e Farmacêuticas do Estado de São Paulo para filiar-se à Federação Internacional dos Trabalhadores Petroleiros e Químicos (F.I.T.P.Q.).

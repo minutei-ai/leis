@@ -1,5 +1,3 @@
-###DEC-075971-0-000-15-07-1975@@@
-
 DECRETO Nº 75.971 - DE 15 DE JULHO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Tamoio S.A., para que a S.A. Rádio Verdes Mares passe a executar serviço de radiodifusão sonora em onda média, de âmbito regional, na cidade de Fortaleza, Estado do Ceará.

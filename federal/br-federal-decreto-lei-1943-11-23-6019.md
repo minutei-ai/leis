@@ -1,5 +1,3 @@
-###DEL-006019-0-000-23-11-1943@@@
-
 DECRETO‑LEI N. 6.019 – DE 23 DE NOVEMBRO DE 1943
 
 Fixa normas definitivas Para o pagamento e serviço dos empréstimos externos realizados em libras e dólares pelos Governos da União, Estados e Municípios, Instituto de Café do Estado de São Paulo e Banco do Estado de São Paulo e dá outras providências.

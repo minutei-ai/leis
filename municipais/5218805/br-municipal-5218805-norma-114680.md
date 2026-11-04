@@ -60,7 +60,8 @@ XIII– .......................................................................
 
 NL (1) – NL (2) : 2 = contrapartida a ser depositada em espécie, a título de caução,  junto ao Fundo Municipal de Habitação de Interesse Social, enquanto não ocorrer a transferência do domínio dos lotes dados em pagamento da outorga onerosa do direito de parcelar:
 
-NL (1) = Número de lotes estimados na metragem proposta, abaixo de 360,00 m2 (trezentos e sessenta metros quadrados), porém, com metragem mínima de 250,00 m2 (duzentos e cinquenta metros quadrados)<br>
+NL (1) = Número de lotes estimados na metragem proposta, abaixo de 360,00 m2 (trezentos e sessenta metros quadrados), porém, com metragem mínima de 250,00 m2 (duzentos e cinquenta metros quadrados)
+
 NL (2) = Número de lotes possíveis na metragem de 360 m2 (trezentos e sessenta metros quadrados)
 
 § 5º Os recursos auferidos com a contrapartida a que se refere o § 40 deste artigo serão administrados pelo Município, através do Fundo Municipal de Habitação de Interesse Social, com prévia aprovação de seu Conselho Gestor.

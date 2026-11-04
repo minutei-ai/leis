@@ -1,5 +1,3 @@
-###DEC-077357-0-000-01-04-1976@@@
-
 DECRETO Nº 77.357 - DE 1º DE ABRIL DE 1976
 
 Adiciona às contas vinculadas do Fundo de Garantia do Tempo de Serviço - FGTS, juros e correção monetária sobre do depósitos efetuados em 1975 e dá outras previdências.

@@ -1,5 +1,3 @@
-###DEC-083591-0-000-18-06-1979@@@
-
 Decreto nº 83.591, de 18 de junho de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão das Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

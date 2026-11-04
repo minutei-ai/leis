@@ -1,5 +1,3 @@
-###DEC-047994-0-000-04-04-1960@@@
-
 decreto nº 47.994, de 4 de abril de 1960.
 
 Autoriza o Serviço do Patrimônio da União a fazer cessão de uma faixa de terreno.

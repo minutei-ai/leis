@@ -1,5 +1,3 @@
-###DEC-050234-0-000-28-01-1961@@@
-
 DECRETO Nº 50.234, DE 28 DE JANEIRO DE 1961.
 
 Outorga concessão à D C T V Rádio S.A. estabelecer uma estação de radiotelevisão.

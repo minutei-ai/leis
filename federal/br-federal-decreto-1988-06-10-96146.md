@@ -1,5 +1,3 @@
-###DEC-096146-0-000-10-06-1988@@@
-
 DECRETO N° 96.146, DE 10 DE JUNHO DE 1988
 
 Outorga concessão à RÁDIO ABAIS DE ESTÂNCIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Estância, Estado de Sergipe.

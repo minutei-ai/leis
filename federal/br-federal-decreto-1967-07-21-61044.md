@@ -1,5 +1,3 @@
-###DEC-061044-0-000-21-07-1967@@@
-
 DECRETO Nº 61.044, DE 21 DE JULHO DE 1967.
 
 Extingue Grupo de Trabalho e dá outras providências.

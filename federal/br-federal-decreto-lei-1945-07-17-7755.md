@@ -1,5 +1,3 @@
-###DEL-007755-0-000-17-07-1945@@@
-
 DECRETO-LEI N. 7.755 – DE 17 DE JULHO DE 1945
 
 Altera e transfere para o Quadro Permanente a carreira de Mestre de Oficina de Material Bélico, ao Quadro Suplementar do Ministério da Guerra; altera a carreira de Motorista, do mesmo Quadro, e da outras providências.

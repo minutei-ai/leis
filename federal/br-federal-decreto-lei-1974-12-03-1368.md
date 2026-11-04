@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ac1df45c-1786-4ef1-a1a5-bb57761aecc2/texto#nowhere)
 
-###DEL-001368-0-000-03-12-1974@@@
-
 # DECRETO-LEI Nº 1.368, DE 3 DE DEZEMBRO DE 1974
 
 Altera a redação do § 2º do artigo 2º do Decreto-lei nº 1.348, de 24 de outubro de 1974, e dá outras providências.

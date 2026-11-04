@@ -1,5 +1,3 @@
-###DEC-055756-0-000-12-02-1965@@@
-
 Decreto nº 55.756, de 12 de Fevereiro de 1965.
 
 Dispõe sôbre o horário de trabalho nas Fábricas e Unidades de Engenharia e Construção, do Ministério da Guerra.

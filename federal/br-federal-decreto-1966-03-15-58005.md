@@ -1,5 +1,3 @@
-###DEC-058005-0-000-15-03-1966@@@
-
 DECRETO Nº 58.005, DE 15 DE MARÇO DE 1966.
 
 Transfere da Companhia Industrial Paraense para “Centrais Elétricas de Minas Gerais S.A.” a concessão para distribuir energia elétrica nos distritos de Pará de Minas Ascenção e Córrego do Barro no Município de Pará de Minas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-070594-0-000-23-05-1972@@@
-
 DECRETO Nº 70.594, DE 23 DE MAIO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras "Eugênio Pacelli", da Fundação Universidade do Vale do Sapucaí, com sede em Pouso Alegre, Estado de Minas Gerias.

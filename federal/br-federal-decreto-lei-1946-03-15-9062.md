@@ -1,5 +1,3 @@
-###DEL-009062-0-000-15-03-1946@@@
-
 DECRETO-LEI N. 9.062 – DE 15 DE MARÇO DE 1946
 
 Prorroga por mais 120 dias o prazo concedido pelo Decreto–lei número 7.990, de 24 de Setembro de 1945.

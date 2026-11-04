@@ -1,5 +1,3 @@
-###DEC-065286-0-000-07-10-1969@@@
-
 DECRETO Nº 65.286 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto número 20.240 de 19 de dezembro de 1945.

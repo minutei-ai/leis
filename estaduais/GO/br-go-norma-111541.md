@@ -18,6 +18,8 @@ Goiânia, 6 de novembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
-Governador do Estado<br>
+RONALDO CAIADO
+
+Governador do Estado
+
 Deputado

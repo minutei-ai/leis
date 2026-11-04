@@ -1,5 +1,3 @@
-###DEC-051611-0-000-03-12-1962@@@
-
 DECRETO Nº 51.611, DE 3 DE DEZEMBRO DE 1962.
 
 Dá nova redação à letra c do art. 2º do Regulamento dos Órgãos da Presidência da República, aprovado pelo Decreto nº 23.822, de 10 de outubro de 1947, modificado pelos Decretos ns. 36.225, de 24 de setembro de 1954, 45.057, de 17 de dezembro de 1958, 50.262 de 3 de fevereiro de 1961 e 51.399, de 1 de fevereiro de 1962.

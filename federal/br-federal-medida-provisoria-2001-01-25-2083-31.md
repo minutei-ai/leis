@@ -1,5 +1,3 @@
-###MPV-002083-0-031-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.083-31, DE 25 DE JANEIRO DE 2001
 
 Altera dispositivos da Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento.

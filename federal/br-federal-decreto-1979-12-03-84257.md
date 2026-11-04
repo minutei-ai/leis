@@ -1,5 +1,3 @@
-###DEC-084257-0-000-03-12-1979@@@
-
 Decreto nº 84.257, de 03 de dezembro de 1979.
 
 Autoriza a incorporação ao patrimônio da Companhia Brasileira de Armazenamento - CIBRAZÉM, de terreno que menciona, situado no Município de Portel, Estado do Pará.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.141, DE 22 DE JULHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a gestão democrática das unidades escolares da rede pública estadual de educação básica do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a gestão democrática das unidades escolares da rede pública estadual de educação básica do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -148,7 +152,7 @@ Do Provimento da Função de Diretor das Unidades Escolares
 
 **I –** curso de formação direcionado aos candidatos ao exercício da função de diretor, em caráter presencial ou na modalidade à distância, com carga horária a ser definida em edital e com abordagem direcionada à realidade do Estado; e
 
-**II** **–** exame final de certificação, envolvendo, no mínimo, as seguintes temáticas:
+**II–** exame final de certificação, envolvendo, no mínimo, as seguintes temáticas:
 
 **a)** gestão de pessoas, processos e recursos financeiros;
 
@@ -189,8 +193,6 @@ Do Provimento da Função de Diretor das Unidades Escolares
 **Art. 14.** Os candidatos aprovados terão que renovar suas certificações na primeira etapa ao término integral de cada mandato, para poderem participar de novo processo de eleição.
 
 **Parágrafo único.** No caso de recondução, o candidato a diretor participará da escolha direta pela comunidade, não sendo necessária a participação no curso de formação com exame final de certificação, desde que tenha participado da formação continuada, de que trata o art. 10, inciso IV, desta lei e cumpra os requisitos estabelecidos em instrução normativa a ser elaborada por setor competente da SEE.
-
-<br>
 
 **Art. 15.** Os candidatos aprovados no processo de certificação serão submetidos a eleição pela comunidade escolar nas unidades escolares.
 
@@ -396,11 +398,11 @@ Das Atribuições dos Coordenadores Pedagógicos
 
 **III –** coordenar todo o trabalho pedagógico da escola, incluindo o planejamento pedagógico, vertical e horizontal das séries e turnos pelos quais estiver responsável, auxiliando os professores na elaboração de seus planos de curso e respectivos planos de aula;
 
-**IV** **–** elaborar estudos avaliativos de aspectos como reprovação e evasão escolar e submetê-los à apreciação dos demais membros da direção; 
+**IV–** elaborar estudos avaliativos de aspectos como reprovação e evasão escolar e submetê-los à apreciação dos demais membros da direção; 
 
-**V** **–** coordenar, acompanhar e avaliar a implantação e implementação da base nacional curricular comum, Diretrizes Curriculares Nacionais - DCN, orientações curriculares locais, do PPP, apontando ações de melhoria no desenvolvimento do ensino, concernentes ao desempenho escolar; e
+**V–** coordenar, acompanhar e avaliar a implantação e implementação da base nacional curricular comum, Diretrizes Curriculares Nacionais - DCN, orientações curriculares locais, do PPP, apontando ações de melhoria no desenvolvimento do ensino, concernentes ao desempenho escolar; e
 
-**VI** **–** cumprir com as demais funções definidas em instrução normativa elaborada pela SEE e nos documentos da escola.
+**VI–** cumprir com as demais funções definidas em instrução normativa elaborada pela SEE e nos documentos da escola.
 
 **Subseção V**
 
@@ -412,7 +414,7 @@ Das Atribuições do Secretário Escolar
 
 **II –** inserir, obrigatoriamente, no SIMAEd, as informações referentes à gestão escolar, necessárias ao funcionamento do sistema, mantendo atualizados os dados do censo escolar, em conformidade com a portaria do Instituto Nacional de Estudos e Pesquisas Educacionais - INEP, nas duas etapas do processo censitário; 
 
-**III** **–** manter organizado o arquivo geral, físico e virtual, o histórico escolar dos alunos, o registro da história e dos acontecimentos relevantes da escola, bem como as atas das reuniões; e 
+**III–** manter organizado o arquivo geral, físico e virtual, o histórico escolar dos alunos, o registro da história e dos acontecimentos relevantes da escola, bem como as atas das reuniões; e 
 
 **IV –** cumprir com as demais funções definidas em instrução normativa elaborada pela SEE e nos documentos da escola.
 
@@ -446,7 +448,7 @@ Do Conselho Escolar
 
 **§ 4º** O secretário do conselho escolar assumirá a suplência do presidente, em caso de impedimento e de vacância, para completar o mandato. 
 
-**Art.** **40.** As reuniões ordinárias do conselho escolar devem ocorrer bimestralmente, com apresentação da pauta por escrito, aos conselheiros, com quarenta e oito horas de antecedência.
+**Art.40.** As reuniões ordinárias do conselho escolar devem ocorrer bimestralmente, com apresentação da pauta por escrito, aos conselheiros, com quarenta e oito horas de antecedência.
 
 **§ 1º** As convocações para as reuniões extraordinárias devem ser feitas com antecedência de quarenta e oito horas, mediante documento escrito que contenha a pauta a ser debatida.
 
@@ -478,7 +480,7 @@ Do Conselho Escolar
 
 Do Provimento da Função de Conselheiro Escolar
 
-**Art.** **44****.** Para efeito da eleição dos membros dos conselhos escolares, somente terão direito a voto:
+**Art.** **44.** Para efeito da eleição dos membros dos conselhos escolares, somente terão direito a voto:
 
 **I –** os professores efetivos, com vínculo temporário ou atuando em regime de permuta;
 
@@ -508,7 +510,7 @@ Do Provimento da Função de Conselheiro Escolar
 
 **§ 2º** Os que pertencerem a mais de um segmento, só poderão votar e se candidatar por um deles, a seu critério.
 
-**Art.** **46****.** O mandato dos conselheiros terá duração de quatro anos, permitindo-se uma reeleição. 
+**Art.** **46.** O mandato dos conselheiros terá duração de quatro anos, permitindo-se uma reeleição. 
 
 **§ 1º** Para cada titular, o segmento escolherá um suplente, que assumirá em suas faltas e vacâncias. 
 
@@ -520,19 +522,19 @@ Do Provimento da Função de Conselheiro Escolar
 
 **§ 3º** As funções vagas deverão ser preenchidas, no máximo, em trinta dias.
 
-**Art.** **47****.** As eleições dos conselhos escolares ocorrerão sempre no mês de março, em todas as unidades escolares.
+**Art.** **47.** As eleições dos conselhos escolares ocorrerão sempre no mês de março, em todas as unidades escolares.
 
 **§ 1º** A coordenação geral das eleições ficará a cargo de uma comissão nomeada pela SEE.
 
 **§ 2º** Cada unidade escolar terá uma comissão com representatividade de todos os segmentos da comunidade escolar.
 
-**Art.** **48****.** A posse dos membros do conselho escolar ocorrerá imediatamente após a eleição.
+**Art.** **48.** A posse dos membros do conselho escolar ocorrerá imediatamente após a eleição.
 
 **Seção II**
 
 Das Atribuições do Conselho Escolar
 
-**Art.** **49****.** São atribuições do conselho escolar:
+**Art.** **49.** São atribuições do conselho escolar:
 
 **I –** elaborar seu regimento interno;
 
@@ -550,7 +552,7 @@ Das Atribuições do Conselho Escolar
 
 Do Comitê Executivo
 
-**Art.** **50****.** Em todas as unidades escolares da rede pública estadual de educação básica poderá funcionar um comitê executivo, instituído no âmbito da entidade de direito privado, sem fins lucrativos, constituída por profissionais da educação, pais e alunos, que atuará na condição de unidade executora e de apoio à direção e ao conselho escolar, com a finalidade exclusiva de receber, executar e prestar contas dos recursos destinados às referidas escolas.
+**Art.** **50.** Em todas as unidades escolares da rede pública estadual de educação básica poderá funcionar um comitê executivo, instituído no âmbito da entidade de direito privado, sem fins lucrativos, constituída por profissionais da educação, pais e alunos, que atuará na condição de unidade executora e de apoio à direção e ao conselho escolar, com a finalidade exclusiva de receber, executar e prestar contas dos recursos destinados às referidas escolas.
 
 **Parágrafo único.** Os procedimentos de adesão e habilitação e as formas de recebimento, execução e prestação de contas referentes a recursos financeiros oriundos dos programas de descentralização de recursos para as escolas seguirá o disposto em lei específica e, subsidiariamente, o disposto na legislação federal aplicável a esse fim, bem como nas resoluções do conselho deliberativo do Fundo Nacional de Desenvolvimento da Educação – FNDE.
 
@@ -558,7 +560,7 @@ Do Comitê Executivo
 
 Do Provimento da Função de Membro do Comitê Executivo
 
-**Art.** **51****.** Tomarão assento no comitê executivo:
+**Art.** **51.** Tomarão assento no comitê executivo:
 
 **I –** o diretor da unidade escolar;
 
@@ -584,7 +586,7 @@ Do Provimento da Função de Membro do Comitê Executivo
 
 Das Atribuições do Comitê Executivo
 
-**Art.** **52****.** Compete ao comitê executivo:
+**Art.** **52.** Compete ao comitê executivo:
 
 **I –** receber os recursos destinados à escola;
 
@@ -602,7 +604,7 @@ Das Atribuições do Comitê Executivo
 
 Da Classificação das Unidades Escolares e da Gratificação dos Diretores
 
-**Art.** **53****.** As unidades escolares do sistema estadual de educação serão constituídas na forma da lei e classificadas, anualmente, de acordo com número de alunos efetivamente matriculados, tendo como base os dados do censo escolar do MEC, referente ao ano anterior:
+**Art.** **53.** As unidades escolares do sistema estadual de educação serão constituídas na forma da lei e classificadas, anualmente, de acordo com número de alunos efetivamente matriculados, tendo como base os dados do censo escolar do MEC, referente ao ano anterior:
 
 **I –** Tipo A – até 100 alunos;
 
@@ -614,7 +616,7 @@ Da Classificação das Unidades Escolares e da Gratificação dos Diretores
 
 **V –** Tipo E – 1.001 a 1.500 alunos;
 
-**VI** **–** Tipo F – 1.501 a 2.000 alunos; e
+**VI–** Tipo F – 1.501 a 2.000 alunos; e
 
 **VII –** Tipo G – Acima de 2.000 alunos.
 
@@ -624,17 +626,17 @@ Da Classificação das Unidades Escolares e da Gratificação dos Diretores
 
 Das Disposições Finais
 
-**Art.** **55****.** Fica autorizada a constituição de conselhos escolares e comitês executivos, mediante consórcio das unidades escolares da rede pública estadual e municipal de educação básica do Acre que, em virtude da quantidade de alunos, não dispuserem de diretor, conselho escolar e comitê executivo próprios.
+**Art.** **55.** Fica autorizada a constituição de conselhos escolares e comitês executivos, mediante consórcio das unidades escolares da rede pública estadual e municipal de educação básica do Acre que, em virtude da quantidade de alunos, não dispuserem de diretor, conselho escolar e comitê executivo próprios.
 
 **Parágrafo único.** Fica autorizado o repasse direto de recursos para os comitês executivos das escolas públicas, constituídos mediante consórcio de unidades escolares, na forma da lei.
 
-**Art.** **56****.** Os consórcios de que trata o art. 55 poderão contemplar até cinco unidades escolares, desde que essas atendam, no mínimo, os seguintes requisitos:
+**Art.** **56.** Os consórcios de que trata o art. 55 poderão contemplar até cinco unidades escolares, desde que essas atendam, no mínimo, os seguintes requisitos:
 
 **I –** possuir menos de cem alunos; ou
 
 **II –** não possuir servidor do quadro efetivo lotado na unidade.
 
-**Art.** **57****.** O consórcio das unidades escolares será representado por um conselho escolar, eleito pelas consorciadas e auxiliado por um comitê executivo, ao qual competirá a execução dos recursos financeiros destinados às escolas públicas.
+**Art.** **57.** O consórcio das unidades escolares será representado por um conselho escolar, eleito pelas consorciadas e auxiliado por um comitê executivo, ao qual competirá a execução dos recursos financeiros destinados às escolas públicas.
 
 **§ 1º** Os conselhos escolares das unidades consorciadas serão compostos por, no máximo, treze membros, não podendo o número de membros ser inferior ao número de unidades escolares consorciadas.
 
@@ -646,9 +648,9 @@ Das Disposições Finais
 
 **§ 5º** A SEE regulamentará os critérios de composição do conselho escolar dos consórcios, a forma de eleição dos membros e os requisitos para acesso aos recursos observando o disposto nesta lei.
 
-**Art.** **58****.** Nos comitês executivos constituídos mediante consórcio de unidades escolares, bem como nos comitês executivos próprios das unidades escolares, cuja quantidade de matrículas seja superior a noventa e nove alunos, mas que não possuir lotação de servidor do quadro efetivo, a função de tesoureiro será exercida por servidor do quadro efetivo da SEE, eleito pelo conselho escolar e, na ausência do conselho, designado pela SEE, dentre os servidores lotados nas suas respectivas representações.
+**Art.** **58.** Nos comitês executivos constituídos mediante consórcio de unidades escolares, bem como nos comitês executivos próprios das unidades escolares, cuja quantidade de matrículas seja superior a noventa e nove alunos, mas que não possuir lotação de servidor do quadro efetivo, a função de tesoureiro será exercida por servidor do quadro efetivo da SEE, eleito pelo conselho escolar e, na ausência do conselho, designado pela SEE, dentre os servidores lotados nas suas respectivas representações.
 
-**Art.** **59****.** As unidades escolares com menos de cem alunos, ou com mais de cem, mas que não possuam diretor, e também no caso de consórcios, serão administradas pela SEE, que designará um servidor do seu quadro efetivo como responsável pela unidade escolar e, na ausência deste, um servidor temporário, lotado nas unidades escolares ou nos núcleos de educação da SEE.
+**Art.** **59.** As unidades escolares com menos de cem alunos, ou com mais de cem, mas que não possuam diretor, e também no caso de consórcios, serão administradas pela SEE, que designará um servidor do seu quadro efetivo como responsável pela unidade escolar e, na ausência deste, um servidor temporário, lotado nas unidades escolares ou nos núcleos de educação da SEE.
 
 **§ 1º** Compete ao responsável pela unidade escolar:
 
@@ -658,7 +660,7 @@ Das Disposições Finais
 
 **III –** ser responsável pela manutenção e conservação do espaço físico da unidade escolar; e
 
-**IV** **–** estabelecer e pactuar com a SEE, a cada ano, as metas de rendimento e desempenho escolar a serem atingidas, bem como responsabilizar-se, bimestralmente, pelo cumprimento das mesmas.
+**IV–** estabelecer e pactuar com a SEE, a cada ano, as metas de rendimento e desempenho escolar a serem atingidas, bem como responsabilizar-se, bimestralmente, pelo cumprimento das mesmas.
 
 **§ 2º** O responsável designado para responder pela escola, será, automaticamente, presidente do comitê executivo.
 
@@ -666,23 +668,23 @@ Das Disposições Finais
 
 **Parágrafo único.** Entende-se por centros educacionais e de aperfeiçoamento, para efeito desta lei, as unidades destinadas à formação continuada ou aperfeiçoamento de alunos e de profissionais da educação, bem como aquelas destinadas ao público da educação especial, nos termos de seus respectivos atos de criação.  
 
-**Art.** **61****.** No caso de cometimento de alguma infração funcional, por parte de algum dos membros da gestão escolar ou descumprimento das atribuições previstas nesta lei, deverão ser aplicadas as sanções previstas na Lei Complementar n. 39, de 29 de dezembro de 1993. 
+**Art.** **61.** No caso de cometimento de alguma infração funcional, por parte de algum dos membros da gestão escolar ou descumprimento das atribuições previstas nesta lei, deverão ser aplicadas as sanções previstas na Lei Complementar n. 39, de 29 de dezembro de 1993. 
 
 **§ 1º** A suspensão e/ou destituição da função dar-se-á através de portaria do secretário da SEE ou dos secretários adjuntos, após processo de sindicância que comprove a existência de infração funcional prevista na Lei Complementar n. 39 de 1993, ou o descumprimento das atribuições presentes nesta lei.
 
 **§ 2º** O secretário da SEE poderá determinar o afastamento do indiciado, durante a realização de sindicância, ficando assegurado o retorno às suas funções, caso a decisão final seja pela não destituição.
 
-**Art.** **62****.** Além das hipóteses previstas no artigo anterior, a destituição do coordenador de ensino, coordenador administrativo, coordenadores pedagógicos e do secretário escolar, dar-se-á por solicitação do diretor da unidade escolar.
+**Art.** **62.** Além das hipóteses previstas no artigo anterior, a destituição do coordenador de ensino, coordenador administrativo, coordenadores pedagógicos e do secretário escolar, dar-se-á por solicitação do diretor da unidade escolar.
 
-**Art.** **63****.** Fica vedada a devolução de servidores, de que trata o art. 32, IX, aos órgãos hierarquicamente superiores à unidade escolar, no decorrer do ano letivo, sem o devido registro da advertência escrita e relatório contendo justificativa.
+**Art.** **63.** Fica vedada a devolução de servidores, de que trata o art. 32, IX, aos órgãos hierarquicamente superiores à unidade escolar, no decorrer do ano letivo, sem o devido registro da advertência escrita e relatório contendo justificativa.
 
 **Parágrafo único.** À deliberação sobre a devolução de servidores será atribuído rito sumário, após esgotadas as medidas previstas no _caput_ e na legislação em vigor.
 
-**Art.** **64****.** O processo de escolha de diretores e membros da gestão escolar das unidades escolares indígenas será objeto de legislação específica.
+**Art.** **64.** O processo de escolha de diretores e membros da gestão escolar das unidades escolares indígenas será objeto de legislação específica.
 
-**Art.** **65****.** Ficam revogadas as Leis ns. 1.201, de 23 de julho de 1996; 1.513, de 11 de novembro de 2003 e suas alterações posteriores; 2.139, de 23 de julho de 2009 e 2.529, de 29 de dezembro de 2011.
+**Art.** **65.** Ficam revogadas as Leis ns. 1.201, de 23 de julho de 1996; 1.513, de 11 de novembro de 2003 e suas alterações posteriores; 2.139, de 23 de julho de 2009 e 2.529, de 29 de dezembro de 2011.
 
-**Art.** **66****.** Esta Lei entra em vigor na data de sua publicação.
+**Art.** **66.** Esta Lei entra em vigor na data de sua publicação.
 
 Rio Branco-Acre, 22 de julho de 2016, 128º da República, 114º do Tratado de Petrópolis e 55º do Estado do Acre.
 

@@ -1,5 +1,3 @@
-###DEL-000370-0-000-20-12-1968@@@
-
 DECReTO-LEI Nº 370, DE 20 DE DEZEMBRO DE 1968
 
 Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial de NCr$150.000.000,00, para os fins que especifica.

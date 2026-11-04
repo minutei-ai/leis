@@ -1,5 +1,3 @@
-###DEC-096542-0-000-22-08-1988@@@
-
 DECRETO N° 96.542, DE 22 DE AGOSTO DE 1988
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Contábeis de Jequié.

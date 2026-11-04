@@ -1,5 +1,3 @@
-###DEC-060266-0-000-24-02-1967@@@
-
 DECRETO Nº 60.266, DE 24 DE FEVEREIRO DE 1967.
 
 Abre ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Ceará a crédito especial de Cr$2.961.376, para o fim que especifica.

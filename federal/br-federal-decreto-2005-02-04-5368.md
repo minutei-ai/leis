@@ -1,5 +1,3 @@
-###DEC-005368-0-000-04-02-2005@@@
-
 DECRETO Nº 5.368 DE 4 DE FEVEREIRO DE 2005
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1.572, de 15 de novembro de 2004, do Conselho de Segurança das Nações Unidas, que estabelece embargo de armas, com vigência imediata, e possíveis sanções dirigidas a pessoas e entidades, com vigência a partir de 15 de dezembro de 2004.

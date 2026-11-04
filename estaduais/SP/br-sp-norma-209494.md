@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209494)<br>
-
 # LEI COMPLEMENTAR N° 1.398, DE 28 DE MAIO DE 2024
 
 ### _Institui o Programa Escola Cívico-Militar no Estado de São Paulo e dá providências correlatas._

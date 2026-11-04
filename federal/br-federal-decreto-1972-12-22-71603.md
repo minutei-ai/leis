@@ -1,5 +1,3 @@
-###DEC-071603-0-000-22-12-1972@@@
-
 DECRETO Nº 71.603 - DE 22 DE DEZEMBRO DE 1972
 
 Concede reconhecimento da Faculdade de Educação Física de Batatais, da Sociedade Civil Colégio São José, São Paulo, com os cursos de Licenciatura em Educação Física e Técnica Desportiva.

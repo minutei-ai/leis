@@ -1,5 +1,3 @@
-###DEC-051921-A-000-26-04-1963@@@
-
 DECRETO Nº 51.921-a, DE 26 DE ABRIL DE 1963.
 
 Concede à Sociedade de Fluorita Urussanga Ltda. autorização para funcionar como emprêsa de mineração.

@@ -28,7 +28,8 @@ e) retorno proveniente de suas aplicações e suas rendas.
 
 § 2º - Os recursos anuais do Fundo Especial de que trata este artigo serão aplicados exclusivamente em estudos, projetos e obras, vedada sua utilização para despesas de pessoal ou outras de custeio, salvo a parcela de três por cento (3%) para atender às despesas de sua administração.
 
-Redação de acordo com o art. 3º da Lei nº 2.773, de 26 de dezembro de 1969.<br>
+Redação de acordo com o art. 3º da Lei nº 2.773, de 26 de dezembro de 1969.
+
 Redação original: "§ 2º - Os recursos do Fundo Especial de que trata este artigo serão aplicados exclusivamente em estudos, projetos e obras, vedada sua utilização para despesas de pessoal ou outras de custeio salvo a parcela de 1% (um por cento) para atender às despesas de sua administração."
 
 Art. 3º - O FUNDO ESPECIAL DE RODOVIAS MUNICIPAIS será administrada pelo CONSÓRCIO RODOVIÁRIO, que dele prestará contas anualmente, de forma específica e independentemente das contas gerais da empresa, à Secretaria dos Transportes e Comunicações e por intermédio desta, ao Tribunal de Contas do Estado, na conformidade da legislação em vigor.

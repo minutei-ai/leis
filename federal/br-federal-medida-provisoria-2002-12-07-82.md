@@ -1,5 +1,3 @@
-###MPV-000082-0-000-07-12-2002@@@
-
 MEDIDA PROVISÓRIA N. 82 – DE 7 DE DEZEMBRO DE 2002
 
 Dispõe sobre a transferência da União para os Estados e o Distrito Federal de parte da malha rodoviária sob jurisdição federal, nos casos que especifica, e dá outras providências.

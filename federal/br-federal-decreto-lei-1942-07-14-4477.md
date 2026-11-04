@@ -1,5 +1,3 @@
-###DEL-004477-0-000-14-07-1942@@@
-
 DECRETO-LEI N. 4.477 – DE 14 DE JULHO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de 1.113:000$0, para pagamento de despesas com o contrato de técnicos norte-americanos

@@ -1,5 +1,3 @@
-###MPV-001974-0-083-28-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.974-83, DE 28 de agosto DE 2000.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

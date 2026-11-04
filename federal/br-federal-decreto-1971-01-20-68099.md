@@ -1,5 +1,3 @@
-###DEC-068099-0-000-20-01-1971@@@
-
 DECRETO Nº 68.099, DE 20 DE JANEIRO DE 1971.
 
 Cria a Comissão Brasileira de Atividades Espaciais (COBAE) e dá outras providências.

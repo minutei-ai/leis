@@ -1,5 +1,3 @@
-###DEC-082283-0-000-19-09-1978@@@
-
 Decreto nº 82.283, de 19 de setembro de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo; no Estado de São Paulo.

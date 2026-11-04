@@ -1,5 +1,3 @@
-###DEC-088119-0-000-23-02-1983@@@
-
 Decreto nº 88.119, de 23 de fevereiro de 1983.
 
 Concede autorização ao navio de pesquisa norte-americano ''COLUMBUS ISELIN" para realizar em águas brasileiras os serviços que especifica.

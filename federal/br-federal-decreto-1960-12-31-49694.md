@@ -1,5 +1,3 @@
-###DEC-049694-0-000-31-12-1960@@@
-
 DECRETO Nº 49.694, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza Manganoferrea Minerado Ltda., a pesquisar quartzo e minério de ferro ao município de Nova Lima, Estado de Minas Gerais.

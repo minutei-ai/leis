@@ -1,5 +1,3 @@
-###DEC-055548-0-000-11-01-1965@@@
-
 DECRETO Nº 55.548, DE 11 DE JANEIRO DE 1965.
 
 Autoriza Sociedade Carbonífera Próspera S. A. a pesquisar minérios de ferro e de manganês no município de Belo Vale, Estado de Minas Gerais.

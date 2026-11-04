@@ -1,5 +1,3 @@
-###DEC-094184-0-000-06-04-1987@@@
-
 DECRETO Nº 94.184, DE 6 DE ABRIL DE 1987
 
 Renova a concessão outorgada à RÁDIO MINEIRA DO SUL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Passa Quatro, Estado de Minas Gerais.

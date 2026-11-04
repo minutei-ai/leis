@@ -1,5 +1,3 @@
-###DEC-002331-0-000-01-10-1997@@@
-
 DECRETO Nº 2.331, DE 1º DE OUTUBRO DE 1997
 
 Dispõe sobre a Corregedoria-Geral da Secretaria da Receita Federal do Ministério da Fazenda, e dá outras providências.

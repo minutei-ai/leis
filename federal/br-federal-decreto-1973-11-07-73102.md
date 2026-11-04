@@ -1,5 +1,3 @@
-###DEC-073102-0-000-07-11-1973@@@
-
 DECRETO Nº 73.102 - DE 7 DE NOVEMBRO DE 1973
 
 Regulamenta os artigos 12 e 13 da Lei nº 5.899, de 5 de julho de 1973, que dispõem sobre a coordenação operacional dos sistemas elétricos interligados das Regiões Sudeste e Sul.

@@ -1,5 +1,3 @@
-###MPV-000149-0-000-16-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 149, DE 16 DE DEZEMBRO 2003.
 
 Autoriza o Poder Executivo a doar à República da Bolívia vacinas contra a febre aftosa.

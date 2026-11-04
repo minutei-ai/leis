@@ -1,5 +1,3 @@
-###DEC-050920-0-000-06-07-1961@@@
-
 DECRETO Nº 50.920, DE 6 DE JULHO DE 1961
 
 Acrescenta parágrafo ao Art. 1º do Decreto nº 50.268 de 8 de fevereiro de 1961, que dispõe sôbre depósitos bancários de entidades governamentais.

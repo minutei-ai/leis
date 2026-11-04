@@ -1,5 +1,3 @@
-###MPV-002070-0-028-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.070-28, DE 25 DE JANEIRO DE 2001
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

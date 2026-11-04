@@ -1,5 +1,3 @@
-###DEC-002675-0-000-16-07-1998@@@
-
 DECRETO Nº 2.675, DE 16 DE JULHO DE 1998
 
 Promulga o Acordo, por troca de Notas, que Incorpora os Parágrafos 4, 5 e 6 ao Artigo V do Acordo para a Construção da Ponte São Tomé e São Borja, de 22 de agosto de 1989, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Argentina, em Buenos Aires, em 17 de novembro de 1995.

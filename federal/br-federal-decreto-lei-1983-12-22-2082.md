@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0a4b1979-0b61-49dc-b313-92afd09c92d9/texto#nowhere)
 
-###DEL-002082-0-000-22-12-1983@@@
-
 # Decreto-lei nº 2.082, de 22 de dezembro de 1983
 
 Reajusta os valores de vencimentos e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências.

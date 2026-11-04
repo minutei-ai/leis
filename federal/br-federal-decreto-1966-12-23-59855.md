@@ -1,5 +1,3 @@
-###DEC-059855-0-000-23-12-1966@@@
-
 DECRETO Nº 59.855, DE 23 DE DEZEMBRO DE 1966.
 
 Renova o decreto nº 1.672, de 26 de novembro de 1962.

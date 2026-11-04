@@ -1,5 +1,3 @@
-###DEC-059219-0-000-16-09-1966@@@
-
 DECRETO Nº 59.219, DE 16 DE SETEMBRO DE 1966.
 
 Autoriza estrangeiros a adquirir, em revigoração de aforamento, o terreno de acrescidos de marinha que menciona, no Estado da Guanabara.

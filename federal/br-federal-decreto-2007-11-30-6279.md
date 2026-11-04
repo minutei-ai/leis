@@ -1,5 +1,3 @@
-###DEC-006279-0-000-30-11-2007@@@
-
 DECRETO Nº 6.279, DE 30 DE NOVEMBRO DE 2007.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Romênia sobre Isenção Parcial de Vistos, celebrado em Bucareste, em 16 de outubro de 2004.
@@ -22,11 +20,7 @@ Brasília, 30 de novembro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 3.12.2007
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
+Samuel Pinheiro Guimarães NetoACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
 
 GOVERNO DA ROMÊNIA SOBRE ISENÇÃO PARCIAL DE VISTOS
 

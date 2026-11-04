@@ -1,5 +1,3 @@
-###DEC-054301-0-000-24-09-1964@@@
-
 DECRETO Nº 54.301, DE 24 DE SETEMBRO DE 1964.
 
 Regulamenta o artigo 175 da Lei nº 4.328, de 30 de abril de 1964 (Código de Vencimentos dos Militares).

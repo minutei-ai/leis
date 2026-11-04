@@ -1,5 +1,3 @@
-###MPV-000195-0-000-29-06-2004@@@
-
 MEDIDA PROVISÓRIA Nº 195, DE 29 DE JUNHO 2004
 
 Dispõe sobre a obrigatoriedade de os novos aparelhos de televisão conterem dispositivo para bloqueio temporário da recepção de programação inadequada, e dá outras providências.

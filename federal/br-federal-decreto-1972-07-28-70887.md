@@ -1,5 +1,3 @@
-###DEC-070887-0-000-28-07-1972@@@
-
 DECRETO Nº 70.887, DE 28 DE JULHO DE 1972.
 
 Retifica o Decreto nº 69.781-71, referente a aproveitamento de servidores no Quadro de Pessoal do Ministério da Fazenda.

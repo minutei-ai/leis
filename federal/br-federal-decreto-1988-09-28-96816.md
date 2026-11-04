@@ -1,5 +1,3 @@
-###DEC-096816-0-000-28-09-1988@@@
-
 DECRETO N° 96.816, DE 28 DE SETEMBRO DE 1988
 
 Altera o Decreto n° 96.759, de 22 de setembro de 1988.

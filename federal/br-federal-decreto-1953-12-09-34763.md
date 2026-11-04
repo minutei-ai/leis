@@ -1,30 +1,28 @@
-###DEC-034763-0-000-09-12-1953@@@
+**DECRETO N. 34.763, DE 9 DE DEZEMBRO DE 1953.**
 
-<strong>DECRETO N. 34.763, DE 9 DE DEZEMBRO DE 1953.</strong>
+***Aprova o Regulamento da Comissão Nacional de Assistência Técnica.***
 
-<em><strong>Aprova o Regulamento da Comissão Nacional de Assistência Técnica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando de atribuição que lhe confere o artigo 87, I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando de atribuição que lhe confere o artigo 87, I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º fica aprovado o Regulamento da Comissão Nacional de Assistência Técnica (CNAT) que, assinado pelo Ministro das Relações Exteriores, com êste baixa.
 
-<strong>Art</strong>. 1º fica aprovado o Regulamento da Comissão Nacional de Assistência Técnica (CNAT) que, assinado pelo Ministro das Relações Exteriores, com êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas a disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas a disposições em contrário.
 
 Rio de Janeiro, em 9 de dezembro de 1953; 132.º da Independência e 65.º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Vicente Ráo
 
-<strong>REGULAMENTO DA COMISSÂO NACIONAL DE ASSISTÊNCIA TÉCNICA.</strong>
+**REGULAMENTO DA COMISSÂO NACIONAL DE ASSISTÊNCIA TÉCNICA.**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E CONSTITUIÇÃO</em>
+*DA FINALIDADE E CONSTITUIÇÃO*
 
-<strong>Art</strong>. 1.º A Comissão Nacional de Assistência Técnica, criada pelo decreto n.º 28.799 de 27 de outubro de 1950, tem por fim:
+**Art**. 1.º A Comissão Nacional de Assistência Técnica, criada pelo decreto n.º 28.799 de 27 de outubro de 1950, tem por fim:
 
 a) estudar assuntos relativos à participação do Brasil em programas de assistência técnica organizados pelas Nações Unidas e Organização dos Estados Americanos;
 
@@ -36,27 +34,27 @@ d) estabelecer normas para contratos de prestação de serviços de assistência
 
 e) estabelecer critérios para intercâmbio de bolsistas e técnicos dentro dos programas internacionais de assistência técnica.
 
-<strong>Art</strong>. 2.º A Comissão compro-se-á de onze membros, nomeados pelo Presidente da República.
+**Art**. 2.º A Comissão compro-se-á de onze membros, nomeados pelo Presidente da República.
 
 Parágrafo único. A Comissão é subordinada diretamente ao Ministro de Estado das Relações Exteriores, que será o seu Presidente.
 
-<strong>Art</strong>. 3.º O Presidente da Comissão escolherá, dentre seus membros, um Vice-Presidente, que o substituirá em seus impedimentos.
+**Art**. 3.º O Presidente da Comissão escolherá, dentre seus membros, um Vice-Presidente, que o substituirá em seus impedimentos.
 
-<strong>Art</strong>. 4.º A Comissão terá um Secretariado para os seus trabalhos técnico administrativos, superintendido por um Diretor Executivo.
+**Art**. 4.º A Comissão terá um Secretariado para os seus trabalhos técnico administrativos, superintendido por um Diretor Executivo.
 
 § 1.º O Diretor Executivo da Comissão será designado por Decreto, dentre funcionários da carreira de Diplomata.
 
 § 2.§ O Secretariado da Comissão será constituído de preferência por servidores do Ministério das Relações Exteriores ou de outros órgãos da administração pública, devidamente requisitados, ou de instituições que participem do Programa de Assistência Técnica.
 
-<strong>Art</strong>. 5.º Nos casos de impedimentos por licença, férias ou outro qualquer afastamento, os membros da Comissão serão substituídos por proposta da mesma Comissão.
+**Art**. 5.º Nos casos de impedimentos por licença, férias ou outro qualquer afastamento, os membros da Comissão serão substituídos por proposta da mesma Comissão.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Competência</em>
+*Da Competência*
 
 Da Comissão
 
-<strong>Art</strong>. 6.º Compete à Comissão:
+**Art**. 6.º Compete à Comissão:
 
 a) elaborar, anualmente, a estimativa de suas despesas e preparar a Seção correspondente da proposta orçamentária do Ministério das Relações Exteriores a ser encaminhada ao Departamento Administrativo do Serviço Público;
 
@@ -70,7 +68,7 @@ e) executar diretamente ou em cooperação com entidades públicas ou privadas, 
 
 Do Presidente:
 
-<strong>Art</strong>. 7.º compete ao Presidente:
+**Art**. 7.º compete ao Presidente:
 
 a) dar instruções de ordem geral para o desempenho das finalidades da Comissão e para a organização de seus serviços;
 
@@ -82,17 +80,17 @@ d) propor a conclusão de acôrdos e convênios;
 
 e) promover os meios legais e administrativos para o funcionamento da Comissão.
 
-<em>Do</em> <em>Vice</em>\-<em>Presidente</em>:
+*DoVice*\-*Presidente*:
 
-<strong>Art</strong>. 8.º Ao Vice-Presidente, assistido pelo Diretor Executivo, compete, além das funções que lhe forem delegadas pelo Presidente:
+**Art**. 8.º Ao Vice-Presidente, assistido pelo Diretor Executivo, compete, além das funções que lhe forem delegadas pelo Presidente:
 
 coordenar as atividades da Comissão e orientar seus trabalhos;
 
 a) executar as decisões tomadas.
 
-<em>Do</em> <em>Diretor</em>\-<em>Executivo</em>:
+*DoDiretor*\-*Executivo*:
 
-<strong>Art</strong>. 9.º Compete ao Diretor Executivo:
+**Art**. 9.º Compete ao Diretor Executivo:
 
 a) superintender o serviço do Secretariado:
 
@@ -114,15 +112,15 @@ i) admitir o pessoal auxiliar do Secretariado, tendo em vista as necessidades do
 
 j) responder o expediente de rotina da Comissão, bem como conhecer e decidir os assuntos que não sejam da competência privativa da Comissão, prevista no art. 6.º.
 
-<em>Das</em> <em>Sessões</em>:
+*DasSessões*:
 
-<strong>Art</strong>. 10. As sessões serão realizadas ordinàriamente no curso da primeira semana de cada mês, em dia e hora fixadas pelo Diretor Executivo, com antecedência mínima de 5 dias.
+**Art**. 10. As sessões serão realizadas ordinàriamente no curso da primeira semana de cada mês, em dia e hora fixadas pelo Diretor Executivo, com antecedência mínima de 5 dias.
 
-<strong>Art</strong>.11. O Presidente, ou o Vice-Presidente em exercício, poderá convocar sessões extraordionárias desde que justificadas por motivo relevante, mediante comunicação do Diretor Executivo.
+**Art**.11. O Presidente, ou o Vice-Presidente em exercício, poderá convocar sessões extraordionárias desde que justificadas por motivo relevante, mediante comunicação do Diretor Executivo.
 
 Parágrafo único. Qualquer membro poderá propor ao Presidente ou ao Vice-Presidente em exercício a convocação de reuniões extraordinárias da Comissão.
 
-<strong>Art</strong>. 12. A Presidência das sessões caberá:
+**Art**. 12. A Presidência das sessões caberá:
 
 1.ª Ao Presidente;
 
@@ -130,26 +128,26 @@ Parágrafo único. Qualquer membro poderá propor ao Presidente ou ao Vice-Presi
 
 3.ª Ao membro mais antigo, no impedimento do Presidente e do Vice Presidente.
 
-<strong>Art</strong>. 13. No início de cada sessão será lida e submetida à aprovação a Ata da sessão anterior.
+**Art**. 13. No início de cada sessão será lida e submetida à aprovação a Ata da sessão anterior.
 
-<strong>Art</strong>. 14. Os assuntos dependentes de parecer da Comissão serão distribuídos rotativamente entre seus membros, com exclusão do Vice-Presidente.
+**Art**. 14. Os assuntos dependentes de parecer da Comissão serão distribuídos rotativamente entre seus membros, com exclusão do Vice-Presidente.
 
 Parágrafo único. Os pareceres serão apresentados em duas vias, uma das quais previamente encaminhada ao Secretariado.
 
-<strong>Art</strong>. 15. As deliberações serão tomadas por maioria de votos dos membros presente à Sessão.
+**Art**. 15. As deliberações serão tomadas por maioria de votos dos membros presente à Sessão.
 
-<strong>Art</strong>. 16. As sessões da Comissão não serão públicas.
+**Art**. 16. As sessões da Comissão não serão públicas.
 
 Parágrafo único. Mediante proposta do Presidente ou de um dos membros, poderão ter acesso às sessões pessoas especialmente convidadas.
 
-<em>Disposições</em> <em>Gerais</em>;
+*DisposiçõesGerais*;
 
-<strong>Art</strong>. 17. Os membros da Comissão não perceberão remuneração especial pelos seus trabalhos, sendo êstes, porém, considerados como relevantes serviços prestados ao País.
+**Art**. 17. Os membros da Comissão não perceberão remuneração especial pelos seus trabalhos, sendo êstes, porém, considerados como relevantes serviços prestados ao País.
 
-<strong>Art</strong>. 18. A conta da dotação própria do orçamento serão pagas as gratificações de serviço de pessoal do Secretariado, além de outros encargos, inclusive os gastos decorrentes de aquisião de material necessário ao funcionamento, assim como outras despesas relativas às atividades da Comissão.
+**Art**. 18. A conta da dotação própria do orçamento serão pagas as gratificações de serviço de pessoal do Secretariado, além de outros encargos, inclusive os gastos decorrentes de aquisião de material necessário ao funcionamento, assim como outras despesas relativas às atividades da Comissão.
 
-<strong>Art</strong>. 19. A movimentação das dotações do Secretariado será feita mediante adiantamento, devidamente autorizada na forma da legislação em vigor
+**Art**. 19. A movimentação das dotações do Secretariado será feita mediante adiantamento, devidamente autorizada na forma da legislação em vigor
 
 Rio de Janeiro, em 9 de dezembro de 1953.
 
-<strong>VICENTE RÁO</strong>
+**VICENTE RÁO**

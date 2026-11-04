@@ -1,5 +1,3 @@
-###DEC-006912-0-000-23-07-2009@@@
-
 DECRETO Nº 6.912, DE 23 DE JULHO DE 2009.
 
 Altera o Decreto no 6.187, de 14 de agosto de 2007, que regulamenta a Lei no 11.345, de 14 de setembro de 2006, que institui o concurso de prognóstico denominado Timemania, estabelece os critérios de participação e adesão das entidades de prática desportiva da modalidade de futebol profissional e dispõe sobre o parcelamento de débitos tributários e não-tributários e para com o Fundo de Garantia do Tempo de Serviço - FGTS.

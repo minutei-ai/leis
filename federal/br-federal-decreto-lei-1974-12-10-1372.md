@@ -1,5 +1,3 @@
-###DEL-001372-0-000-10-12-1974@@@
-
 # DECRETO-LEI Nº 1.372, DE 10 DE DEZEMbRO DE 1974
 
 Reajusta os vencimentos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal, e dá outras providências.

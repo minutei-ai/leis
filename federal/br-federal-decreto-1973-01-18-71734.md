@@ -1,5 +1,3 @@
-###DEC-071734-0-000-18-01-1973@@@
-
 DECRETO Nº 71.734, DE 18 DE JANEIRO DE 1973.
 
 Revoga o Decreto nº 10.536, de 29 de outubro de 1913, que concedeu à empresa Continental Products Company, autorização para funcionar na República Federativa do Brasil.

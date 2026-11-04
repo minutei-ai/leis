@@ -1,5 +1,3 @@
-###DEC-053470-0-000-22-01-1964@@@
-
 DECRETO Nº 53.470, DE 22 DE JANEIRO DE 1964.
 
 Dispõe sôbre a suplementação de vencimentos de professôres primários estaduais e municipais.

@@ -1,5 +1,3 @@
-###DEC-058556-0-000-31-05-1966@@@
-
 DECRETO Nº 58.556, DE 31 DE MAIO DE 1966.
 
 Cria funções gratificadas na Diretoria Regional dos Correios e Telégrafos de São José do Rio Prêto.

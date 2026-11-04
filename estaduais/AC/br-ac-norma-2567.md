@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.658, de 11 de Dezembro de 2020.](https://legis.ac.gov
 
 > **LEI Nº 3.589, DE 19 DE DEZEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o Plano Plurianual do Estado do Acre para o quadriênio 2020 - 2023.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o Plano Plurianual do Estado do Acre para o quadriênio 2020 - 2023.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -117,8 +121,6 @@ Modificada pela Lei nº [3.658, de 11 de Dezembro de 2020.](https://legis.ac.gov
 **§ 1º** A revisão de que trata o _caput_, ressalvado o disposto no parágrafo 4° deste artigo, será proposta pelo Poder Executivo por meio de projeto de lei, sempre que necessário. 
 
 **§ 2º** Os projetos de lei de revisão do Plano Plurianual que incluam programas deverão conter todos os respectivos atributos.
-
-<br>
 
 **§ 3º** Considera-se alteração de programa a inclusão, exclusão ou alteração de iniciativas e produtos principais, com respectivas metas, bem como readequação de seu objetivo.
 

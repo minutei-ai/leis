@@ -1,5 +1,3 @@
-###DEC-090807-0-000-11-01-1985@@@
-
 Decreto nº 90.807, de 11 de janeiro de 1985
 
 Renova a concessão outorgada à RÁDIO JORNAL DA CIDADE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Salvador, Estado da Bahia.

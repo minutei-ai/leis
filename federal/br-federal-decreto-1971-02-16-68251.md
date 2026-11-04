@@ -1,5 +1,3 @@
-###DEC-068251-0-000-16-02-1971@@@
-
 DECRETO Nº 68.251, DE 16 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, as faixas de terra necessárias à passagem das variantes que interligarão a SE de Sabará com as linhas que partem da SE de BONSUCESSO, no município de Belo Horizonte, e da Usina de Peti, no município de Belo Horizonte, e da Usina de Peti, no Município de Santa Bárbara, Estado de Minas Gerais.

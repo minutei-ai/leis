@@ -1,5 +1,3 @@
-###DEC-077543-0-000-04-05-1976@@@
-
 DECRETO Nº 77.543, DE 4 DE MAIO DE 1976
 
 Concede reconhecimento ao curso de Estatística da Universidade de Brasília com sede na cidade de Brasília, Distrito Federal.

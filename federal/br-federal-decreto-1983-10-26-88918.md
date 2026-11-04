@@ -1,5 +1,3 @@
-###DEC-088918-0-000-26-10-1983@@@
-
 Decreto nº 88.918, de 26 de outubro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra com benfeitorias necessárias à reforma da estação de transformadora de transmissão Norte da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

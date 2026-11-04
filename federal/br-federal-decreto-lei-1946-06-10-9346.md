@@ -1,5 +1,3 @@
-###DEL-009346-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.346 – DE 10 DE JUNHO DE 1946
 
 Completa disposições do Decreto-lei nº 9.228, de 3 de Maio de 1946, aprova o respectivo Regulamento, e dá outras providências.

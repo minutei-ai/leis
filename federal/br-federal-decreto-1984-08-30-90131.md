@@ -1,5 +1,3 @@
-###DEC-090131-0-000-30-08-1984@@@
-
 DECRETO Nº 90.131, DE 30 DE AGOSTO DE 1984
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Contábeis e de Administração de Varginha.

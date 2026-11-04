@@ -1,5 +1,3 @@
-###DEC-000000-0-000-24-02-1823@@@
-
 DECRETO - DE 24 DE FEVEREIRO DE 1823
 
 Eleva a 240$000 o ordenado de um Professor de primeiras lettras da Côrte.

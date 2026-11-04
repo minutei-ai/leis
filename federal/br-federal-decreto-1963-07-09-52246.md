@@ -1,5 +1,3 @@
-###DEC-052246-0-000-09-07-1963@@@
-
 DECRETO Nº 52.246, DE 9 DE JUNHO DE 1963.
 
 Autoriza a Emprêsa de Caolim Ltda., a pesquisar caulim no município de Mar de Espanha, Estado de Minas Gerais.

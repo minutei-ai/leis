@@ -1,5 +1,3 @@
-###DEC-097054-0-000-07-11-1988@@@
-
 DECRETO Nº 97.054, DE 7 DE NOVEMBRO DE 1988
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em processamento de Dados do Instituto de Ciências Exatas, em Brasília, Distrito Federal.

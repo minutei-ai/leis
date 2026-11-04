@@ -1,5 +1,3 @@
-###DEC-057495-0-000-28-12-1965@@@
-
 Decreto nº 57.495, de 28 de dezembro de 1965.
 
 Aprova as alterações introduzidas nos Estatutos da Transatlântica Companhia Nacional de Seguros, inclusive aumento do capital social.

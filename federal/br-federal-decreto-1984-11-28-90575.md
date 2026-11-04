@@ -1,5 +1,3 @@
-###DEC-090575-0-000-28-11-1984@@@
-
 Decreto nº 90.575, de 28 de novembro de 1984
 
 Outorga concessão ao SISTEMA SÃO PAULO DE COMUNICAÇÃO E EMPREENDIMENTOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cotia, Estado de São Paulo.

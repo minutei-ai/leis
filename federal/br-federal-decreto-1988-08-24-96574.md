@@ -1,5 +1,3 @@
-###DEC-096574-0-000-24-08-1988@@@
-
 DECRETO N° 96.574, DE 24 DE AGOSTO DE 1988
 
 Autoriza o funcionamento do curso superior de graduação em Engenharia Civil, em Manaus, Estado do Amazonas.

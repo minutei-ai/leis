@@ -1,5 +1,3 @@
-###DEC-049892-0-000-12-01-1961@@@
-
 DECRETO Nº 49.892, DE 12 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro José Maria de Almeida a pesquisar quartzo e mica, município de Coroaci, Estado de Minas Gerais.

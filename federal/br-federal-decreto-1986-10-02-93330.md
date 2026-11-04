@@ -1,5 +1,3 @@
-###DEC-093330-0-000-02-10-1986@@@
-
 DECRETO Nº 93.330, DE 2 DE OUTUBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO CLUBE DE VERA CRUZ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Vera Cruz, Estado de São Paulo.

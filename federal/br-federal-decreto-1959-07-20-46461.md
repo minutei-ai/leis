@@ -1,5 +1,3 @@
-###DEC-046461-0-000-20-07-1959@@@
-
 DECRETO Nº 46.461, DE 20 DE JULHO DE 1959.
 
 Altera os artigos 37, 42, 54, 56, 70 e parágrafo único do artigo 64, tudo do Regulamento Disciplinar do Exército aprovado pelo Decreto número 8.835, de 23 de fevereiro de 1942.

@@ -1,5 +1,3 @@
-###DEC-005118-0-000-28-06-2004@@@
-
 DECRETO N o 5.118, DE 28 DE JUNHO DE 2004
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Argentina para o Provimento de Capacidade Espacial, celebrado no Rio de Janeiro, em 8 de maio de 2001.

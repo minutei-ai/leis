@@ -1,5 +1,3 @@
-###DEC-065003-0-000-18-08-1969@@@
-
 DECRETO Nº 65.003, de 18 de Agôsto de 1969.
 
 Declara de utilidade pública a Escola de Música Santa Cecília com sede em Petrópolis, Estado do Rio de Janeiro.

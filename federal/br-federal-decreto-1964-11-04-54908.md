@@ -1,5 +1,3 @@
-###DEC-054908-0-000-04-11-1964@@@
-
 DECRETO Nº 54.908, DE 4 DE NOVEMBRO DE 1964.
 
 Concede reconhecimento à Faculdade Católica de Ciências Econômicas.

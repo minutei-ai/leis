@@ -1,5 +1,3 @@
-###DEC-092129-0-000-11-12-1985@@@
-
 Decreto nº 92.129, de 11 de dezembro de 1985
 
 Autoriza o  a funcionamento de habilitações do curso de Psicologia da Faculdade de Psicologia de Marília.

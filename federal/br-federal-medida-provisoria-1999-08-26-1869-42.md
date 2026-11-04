@@ -1,5 +1,3 @@
-###MPV-001869-0-042-26-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.869-42, de 26 de Agosto de 1999.
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1996 a 30 de abril de 1997.

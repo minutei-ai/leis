@@ -1,5 +1,3 @@
-###DEC-066560-0-000-12-05-1970@@@
-
 DECRETO Nº 66.560, DE 12 DE MAIO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

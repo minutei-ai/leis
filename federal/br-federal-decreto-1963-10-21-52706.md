@@ -1,5 +1,3 @@
-###DEC-052706-0-000-21-10-1963@@@
-
 DECRETO Nº 52.706, DE 21 DE OUTUBRO DE 1963.
 
 Transfere para Centrais Elétricas de Minas Gerais S. A. a concessão para distribuir energia elétrica no Município de Coqueiral.

@@ -1,5 +1,3 @@
-###DEC-069617-0-000-30-11-1971@@@
-
 DECRETO Nº 69.617 - DE 30 DE novembro DE 1971
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado do Rio Grande do Sul.

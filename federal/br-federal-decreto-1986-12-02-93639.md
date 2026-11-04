@@ -1,5 +1,3 @@
-###DEC-093639-0-000-02-12-1986@@@
-
 DECRETO Nº 93.639, DE 2 DE DEZEMBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DO MARANHÃO S.A., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Luís, Estado do Maranhão.

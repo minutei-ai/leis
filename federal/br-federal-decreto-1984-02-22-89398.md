@@ -1,5 +1,3 @@
-###DEC-089398-0-000-22-02-1984@@@
-
 Decreto nº 89.398, de 22 de fevereiro de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da companhia Hidro Elétrica do São Francisco-CHESF, nos Estados de Alagoas e Sergipe.

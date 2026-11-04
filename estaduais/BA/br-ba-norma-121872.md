@@ -1,14 +1,17 @@
 LEI Nº 12.056 DE 07 DE JANEIRO DE 2011
 
-Regulamentada pelo Decreto nº [19.083](https://www.legislabahia.ba.gov.br/documentos/decreto-no-19083-de-06-de-junho-de-2019) de 06 de junho de 2019.<br>
-Ver também:<br>
+Regulamentada pelo Decreto nº [19.083](https://www.legislabahia.ba.gov.br/documentos/decreto-no-19083-de-06-de-junho-de-2019) de 06 de junho de 2019.
+
+Ver também:
+
 Decreto nº [13.746](https://www.legislabahia.ba.gov.br/documentos/decreto-no-13746-de-08-de-marco-de-2012#DEC%2013.746) , de 08 de março de 2012 - Regulamenta o art. 33 da Lei nº 12.056, de 07 de janeiro de 2011, que institui a Política Estadual de Educação Ambiental.
 
 Institui a Política de Educação Ambiental do Estado da Bahia, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 1º - Fica instituída a Política Estadual de Educação Ambiental que se regerá pelos objetivos, princípios, diretrizes e instrumentos estabelecidos por esta Lei.
@@ -17,7 +20,8 @@ Parágrafo único - A Política Estadual de Educação Ambiental norteará a ela
 
 Art. 2º - Para os fins previstos nessa Lei, entende-se por Educação Ambiental o conjunto de processos permanentes e continuados de formação individual e coletiva para a sensibilização, reflexão e construção de valores, saberes, conhecimentos, atitudes e hábitos, visando uma relação sustentável da sociedade humana com o ambiente que integra.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS PRINCÍPIOS, OBJETIVOS E DIRETRIZES
 
 Art. 3º - A Política Estadual de Educação Ambiental será conduzida pelos seguintes princípios:
@@ -108,7 +112,8 @@ V - o apoio às iniciativas e experiências locais e regionais, incluindo a prod
 
 VI - a identificação dos problemas e possibilidades de construção coletiva de alternativas para sociedades sustentáveis.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS INSTRUMENTOS
 
 Art. 7º - São instrumentos da Política Estadual de Educação Ambiental:
@@ -119,7 +124,8 @@ II - o Diagnóstico Estadual de Educação Ambiental;
 
 III - o Sistema Estadual de Informações sobre Educação Ambiental.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Do Programa Estadual de Educação Ambiental
 
 Art. 8º - O Programa Estadual de Educação Ambiental - PEA é o conjunto de diretrizes e estratégias que deverão orientar a implementação da Política Estadual de Educação Ambiental, e servirá como referência para a elaboração de programas setoriais e projetos em todo o território estadual, estabelecendo as bases para captação de recursos financeiros nacionais, internacionais e estrangeiros, destinados à implementação da Educação Ambiental.
@@ -154,7 +160,8 @@ d) Educação Ambiental no Licenciamento Ambiental.
 
 Parágrafo único - O PEA deverá estimular a formação crítica para o exercício da cidadania.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Do Diagnóstico Estadual de Educação Ambiental
 
 Art. 11 - O Diagnóstico Estadual de Educação Ambiental é o resultado da análise da situação atual da Educação Ambiental no Estado da Bahia, a partir das informações obtidas através do mapeamento das ações e experiências em todo o território baiano.
@@ -173,7 +180,8 @@ Parágrafo único - A elaboração e a atualização do termo de referência do 
 
 Art. 14 - Qualquer programa setorial, projeto ou ação deve ter como recomendação a realização de um diagnóstico local, regional e territorial, antes de iniciar a parte operacional das atividades, além da alimentação do banco de dados.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Do Sistema Estadual de Informações sobre Educação Ambiental
 
 Art. 15 - O Sistema Estadual de Informações sobre Educação Ambiental visa organizar a coleta, o tratamento, o armazenamento, a recuperação e a divulgação de informações sobre Educação Ambiental e fatores intervenientes em sua gestão, em todo Estado da Bahia.
@@ -186,7 +194,8 @@ II - a coordenação unificada do Sistema;
 
 III - o acesso da sociedade às informações socioambientais.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA EDUCAÇÃO AMBIENTAL NO ENSINO FORMAL
 
 Art. 17 - A Educação Ambiental no Ensino Formal é aquela desenvolvida no âmbito das instituições públicas, privadas e comunitárias de ensino, englobando:
@@ -233,7 +242,8 @@ II - na Extensão Universitária;
 
 III - nas áreas voltadas para aspectos metodológicos da Educação Ambiental.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA EDUCAÇÃO AMBIENTAL NÃO FORMAL
 
 Art. 19 - A Educação Ambiental Não-Formal se constitui de processos educativos voltados à mobilização, sensibilização, capacitação, organização e participação individual e coletiva, na construção de sociedades sustentáveis.
@@ -270,7 +280,8 @@ XIV - a inserção e o fomento da Educação Ambiental, de forma contínua e per
 
 XV - a inserção de programas de Educação Ambiental nos serviços de coleta de resíduos sólidos nos espaços urbanos e rurais, atribuindo aos municípios a responsabilidade pela fiscalização e monitoramento.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA EDUCOMUNICAÇÃO SOCIOAMBIENTAL
 
 Art. 21 - A Educomunicação Socioambiental é a inter-relação da comunicação e da educação com a utilização de práticas comprometidas com a ética da sustentabilidade, através da construção participativa, da democratização dos meios e processos de comunicação e informação, da articulação entre setores e saberes, e da difusão do conhecimento, promovendo o pleno desenvolvimento da cidadania.
@@ -297,10 +308,12 @@ IX - fomentar a criação de núcleos de Educomunicação Socioambiental;
 
 X - promover a formação continuada de educomunicadores socioambientais.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DA EDUCAÇÃO AMBIENTAL NAS POLÍTICAS PÚBLICAS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Das Disposições Gerais
 
 Art. 23 - Para os fins previstos nesta Lei, entende-se por Educação Ambiental nas Políticas Públicas a inserção de práticas educativas nos processos de planejamento e gestão, em todas as suas etapas, fortalecendo e incentivando a participação e o controle social.
@@ -323,7 +336,8 @@ II - garantir, no planejamento estratégico e orçamentário do Estado da Bahia,
 
 III - incluir, nos programas e projetos estaduais, os indicadores de resultados das ações de Educação Ambiental, bem como a análise da sustentabilidade dessas ações.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Da Educação Ambiental na Gestão das Águas
 
 Art. 26 - São objetivos fundamentais das ações de Educação Ambiental na Gestão das Águas:
@@ -342,7 +356,8 @@ VI - incentivar a integração de ações para a conservação e o consumo suste
 
 VII - utilizar, como referência na elaboração e execução de programas e projetos de Educação Ambiental, as Políticas e Planos de Recursos Hídricos.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Da Educação Ambiental na Gestão das Unidades de Conservação
 
 Art. 27 - São objetivos fundamentais das ações de Educação Ambiental nas Unidades de Conservação:
@@ -355,7 +370,8 @@ III - incentivar, elaborar e implementar programas setoriais e projetos de Educa
 
 IV - incentivar a elaboração de editais que visem a distribuição de recursos para o fortalecimento da Educação Ambiental nas Unidades de Conservação.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Da Educação Ambiental no Saneamento Ambiental
 
 Art. 28 - São objetivos fundamentais das ações de Educação Ambiental na área do Saneamento Ambiental:
@@ -368,7 +384,8 @@ III - utilizar, nas ações de Educação Ambiental, uma abordagem político-ped
 
 IV - elaborar, fomentar e executar programas setoriais e projetos de Educação Ambiental e mobilização social em saneamento ambiental com controle social.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 Da Educação Ambiental no Licenciamento Ambiental
 
 Art. 29 - No licenciamento ambiental de empreendimentos e atividades onde sejam exigidos programas de Educação Ambiental como condicionantes de licença, o órgão ambiental competente elaborará Termo de Referência específico, em consonância com a Política e o Programa Estadual de Educação Ambiental.
@@ -387,7 +404,8 @@ V - definir os programas de educação ambiental dos empreendimentos, com base n
 
 VI - assegurar que os recursos financeiros provenientes das compensações ambientais e multas por infrações, quando couber, sejam canalizados para programas de educação ambiental nas áreas de influência dos empreendimentos, com o acompanhamento do órgão ambiental competente e controle social.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DA EXECUÇÃO DA POLÍTICA ESTADUAL DE EDUCAÇÃO AMBIENTAL
 
 Art. 31 - A Política Estadual de Educação Ambiental será executada pelos órgãos e entidades integrantes do Sistema Estadual do Meio Ambiente - SISEMA, pelas instituições educacionais públicas e privadas dos sistemas de ensino, pelos órgãos e entidades públicos do Estado da Bahia, envolvendo entidades não-governamentais, entidades de classe, meios de comunicação e demais segmentos da sociedade.
@@ -450,7 +468,8 @@ Art. 37 - Cabe ao Órgão Gestor e à CIEA estabelecer mecanismos de incentivo �
 
 Art. 38 - O Órgão Gestor e a CIEA deverão estimular a aplicação dos recursos públicos, inclusive de Fundo Especiais, em projetos de Educação Ambiental.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 39 - Os municípios, na esfera de sua competência e na área de sua jurisdição, definirão diretrizes, normas e critérios para a Educação Ambiental, respeitados os princípios e objetivos das Políticas Nacional e Estadual de Educação Ambiental.

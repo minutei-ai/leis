@@ -1,5 +1,3 @@
-###DEC-064305-0-000-02-04-1969@@@
-
 DECRETO Nº 64.305, DE 2 DE ABRIL DE 1969.
 
 Suspende o funcionamento da Federação dos Estudantes da Universidade de Brasília (FEUB), com sede no Distrito Federal.

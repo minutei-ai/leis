@@ -1,5 +1,3 @@
-###MPV-002142-0-001-26-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.142-1, DE 26 DE ABRIL DE 2001
 
 Dispõe sobre o salário mínimo a partir de 1º de abril de 2001, e dá outras providências.

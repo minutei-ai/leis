@@ -1,5 +1,3 @@
-###DEL-008644-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.644 – DE 11 DE JANEIRO DE 1946
 
 Dispõe sôbre a concessão de favores às emprêsas jornalísticas e dá outras providências

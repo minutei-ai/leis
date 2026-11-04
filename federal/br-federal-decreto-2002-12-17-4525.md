@@ -1,5 +1,3 @@
-###DEC-004525-0-000-17-12-2002@@@
-
 DECRETO N. 4.525 – DE 17 DE DEZEMBRO DE 2002
 
 Dispõe sobre a execução no Território Nacional da Resolução 1.446, de 4 de dezembro de 2002, do Conselho de Segurança das Nações Unidas, que mantém a proibição de importação direta ou indireta de diamantes em estado bruto originários de Serra Leoa.

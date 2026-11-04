@@ -1,5 +1,3 @@
-###DEL-009157-0-000-09-04-1946@@@
-
 DECRETO-LEI N. 9.157 – DE 9 DE ABRIL DE 1946
 
 Restabelece as Seções de Fomento Agrícola, do Ministério da Agricultura, nos Territórios Federais do Amapá, Rio Branco, Guaporé, Ponta Porâ e Iguaçú.

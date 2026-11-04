@@ -1,5 +1,3 @@
-###DEC-092354-0-000-31-01-1986@@@
-
 DECRETO Nº 92.354, DE 31 DE JANEIRO DE 1986
 
 Altera o Regulamento de Movimentação para oficiais e praças do Exército (R-50).

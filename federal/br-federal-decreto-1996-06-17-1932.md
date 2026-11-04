@@ -1,5 +1,3 @@
-###DEC-001932-0-000-17-06-1996@@@
-
 DECRETO N°1.932, DE 17 DE JUNHO DE 1996.
 
 Revoga o Decreto n° 68.708, de 3 de junho de 1971, e o inciso III do art. 17 do Decreto n° 91.800, de 18 de outubro de 1985.

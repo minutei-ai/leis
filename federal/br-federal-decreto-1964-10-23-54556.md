@@ -1,5 +1,3 @@
-###DEC-054556-0-000-23-10-1964@@@
-
 Decreto nº 54.556 de 23 de outubro de 1964.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil de fração ideal ao terreno de marinha que menciona, no Estado da Guanabara.

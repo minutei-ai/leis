@@ -1,5 +1,3 @@
-###DEC-053045-0-000-29-11-1963@@@
-
 DECRETO Nº 53.045, DE 29 DE NOVEMBRO DE 1963.
 
 Fixa o número de Procuradores que integrarão a Procuradoria do Conselho Administrativo de Defesa Econômica.

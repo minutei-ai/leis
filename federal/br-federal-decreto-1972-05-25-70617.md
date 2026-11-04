@@ -1,5 +1,3 @@
-###DEC-070617-0-000-25-05-1972@@@
-
 DECRETO Nº 70.617, de 25 de maio de 1972.
 
 Declara de utilidades pública, para fins de constituições de servidão, faixas de terra destinadas à passagem de linhas de transmissão no estado de Goiás.

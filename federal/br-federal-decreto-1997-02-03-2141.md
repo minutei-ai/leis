@@ -1,5 +1,3 @@
-###DEC-002141-0-000-03-02-1997@@@
-
 DECRETO N.º 2.141, DE 3 DE FEVEREIRO DE 1997
 
 Reduz a alíquota do Imposto sobre Operações de  Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF, nas operações que menciona.

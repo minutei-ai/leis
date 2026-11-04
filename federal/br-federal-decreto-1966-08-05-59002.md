@@ -1,5 +1,3 @@
-###DEC-059002-0-000-05-08-1966@@@
-
 decreto nº 59.002, de 5 de agÔsto de 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no município de Cuiabá, Estado de Mato Grosso.

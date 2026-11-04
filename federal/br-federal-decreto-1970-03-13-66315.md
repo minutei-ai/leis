@@ -1,5 +1,3 @@
-###DEC-066315-0-000-13-03-1970@@@
-
 DECRETO Nº 66.315 - DE 13 DE MARÇO DE 1970
 
 Dispõe sôbre programa de participação do estudante em trabalhos de magistério e em outras atividades dos estabelecimentos de ensino superior federal.

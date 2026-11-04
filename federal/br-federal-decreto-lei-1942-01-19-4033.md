@@ -1,5 +1,3 @@
-###DEL-004033-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.033 – DE 19 DE JANEIRO DE 1942
 
 Cria o Depósito Regional de Material Sanitário na 8ª Região Militar

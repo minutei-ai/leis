@@ -1,5 +1,3 @@
-###DEC-080649-0-000-01-11-1977@@@
-
 DECRETO Nº 80.649, DE 01 DE NOVEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Administração da Faculdade Superior do Nordeste, com sede na cidade de Taquara, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-095811-0-000-10-03-1988@@@
-
 DECRETO N.° 95.811, DE 10 DE MARÇO DE 1988
 
 Inclui a Companhia Siderúrgica do Nordeste -   COSINOR no Programa de Privatização.

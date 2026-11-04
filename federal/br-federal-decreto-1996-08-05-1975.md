@@ -1,5 +1,3 @@
-###DEC-001975-0-000-05-08-1996@@@
-
 DECRETO Nº 1.975, DE 5 DE AGOSTO DE 1996.
 
 Prorroga o prazo estabelecido no § 2º do art. 1º do Decreto nº 1.778, de 9 de janeiro de 1996.

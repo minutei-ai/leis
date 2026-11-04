@@ -1,5 +1,3 @@
-###DEC-068798-0-000-23-06-1971@@@
-
 DECRETO Nº 68.798 - DE 23 DE JUNHO DE 1971.
 
 Altera denominação do "Conservatório de Música de Bonsucesso" para Faculdade de Música Augusta de Souza França".

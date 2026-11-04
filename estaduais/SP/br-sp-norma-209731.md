@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209731)<br>
-
 # LEI COMPLEMENTAR N° 1.405, DE 22 DE JULHO DE 2024
 
 ### _Altera a Lei Complementar n° 939, de 3 de abril de 2003, que institui o código de direitos, garantias e obrigações do contribuinte no Estado de São Paulo._

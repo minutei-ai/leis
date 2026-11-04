@@ -16,28 +16,142 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</b><br>3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE MÁQUINA / EQUIPAMENTO AGRÍCOLA</td><td style=" width:85px;    ">20 608 1035 3210</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 73.200,45</td><td style=" width:85px;    ">R$ 73.200,45</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE MÁQUINA / EQUIPAMENTO AGRÍCOLA</td><td style=" width:85px;    ">20 608 1035 3210</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 26,98</td><td style=" width:85px;    ">R$ 26,98</td></tr></tbody></table>
+**3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO**
+3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 26,98</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 73.200,45</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 73.227,43</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+AQUISIÇÃO DE MÁQUINA / EQUIPAMENTO AGRÍCOLA
+
+20 608 1035 3210
+
+17000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 73.200,45
+
+R$ 73.200,45
+
+AQUISIÇÃO DE MÁQUINA / EQUIPAMENTO AGRÍCOLA
+
+20 608 1035 3210
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 26,98
+
+R$ 26,98
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 26,98
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 73.200,45
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 73.227,43
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</b><br>3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">20 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 4.470.238,99</td><td style=" width:85px;    ">R$ 26,98</td><td style=" width:85px;    ">R$ 26,98</td></tr></tbody></table>
+**3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO**
+3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL UTILIZADO DE EXCESSO DE ARRECADAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso II</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;  height:19px;   ">R$ 73.200,45</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 73.200,45</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 26,98</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 26,98</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 26,98</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 73.200,45</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 73.227,43</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+20 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 4.470.238,99
+
+R$ 26,98
+
+R$ 26,98
+
+**TOTAL UTILIZADO DE EXCESSO DE ARRECADAÇÃO POR FONTE - Art 43 §  1º  Inciso II**
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 73.200,45
+
+**TOTAL**
+
+R$ 73.200,45
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 26,98
+
+**TOTAL**
+
+R$ 26,98
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 26,98
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 73.200,45
+
+**TOTAL**
+
+R$ 73.227,43

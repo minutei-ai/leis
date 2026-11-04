@@ -1,5 +1,3 @@
-###DEC-075715-0-000-12-05-1975@@@
-
 DECRETO Nº 75.715, DE 12 DE MAIO DE 1975.
 
 Concede reconhecimento ao curso de Matemática da Faculdade Salesiana de Fisiologia, Ciências e Letras de Lorena, com sede na cidade de Lorena, Estado de São Paulo, mantida pela Inspetoria Salesiana do Sul do Brasil.

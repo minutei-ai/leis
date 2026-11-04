@@ -1,5 +1,3 @@
-###DEC-082549-0-000-01-11-1978@@@
-
 Decreto nº 82.549, de 01 de novembro de 1978.
 
 Concede á Siderurgia São Sebastião de Itatiaiuçu S.A. direito de lavrar minério de ferro no Município de Itatiaiuçu, estado de Minas Gerais.

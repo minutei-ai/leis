@@ -1,5 +1,3 @@
-###DEC-068723-0-000-09-06-1971@@@
-
 DECRETO Nº 68.723 - de 9 DE JUNHO DE 1971.
 
 Declara de utilidade pública a Câmara de Comércio dos Países Latino-americanos, com sede no Estado da Guanabara.

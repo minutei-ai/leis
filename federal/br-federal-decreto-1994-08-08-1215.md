@@ -1,7 +1,3 @@
-1
-
-###DEC-001215-0-000-08-08-1994@@@
-
 DECRETO Nº 1.215, DE 8 DE AGOSTO DE 1994
 
 Dá nova redação ao caput do art. 34 do Decreto nº 455, de 26 de fevereiro de 1992, e dá outras providências.

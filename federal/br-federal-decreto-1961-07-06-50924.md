@@ -1,5 +1,3 @@
-###DEC-050924-0-000-06-07-1961@@@
-
 DECRETO Nº 50.924, de 6 de julho de 1961.
 
 Autoriza o contrato de profissionais para a reforma da legislação do País.

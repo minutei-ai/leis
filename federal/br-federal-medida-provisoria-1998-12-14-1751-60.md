@@ -1,5 +1,3 @@
-###MPV-001751-0-060-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.751-60, DE 14 DE DEZEMBRO DE 1998.
 
 Organiza e disciplina os Sistemas de Planejamento e Orçamento Federal e de Controle Interno do Poder Executivo e dá outras providências.

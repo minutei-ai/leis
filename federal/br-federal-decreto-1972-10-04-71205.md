@@ -1,5 +1,3 @@
-###DEC-071205-0-000-04-10-1972@@@
-
 DECRETO Nº 71.205, DE 4 DE OUTUBRO DE 1972.
 
 Consolida as disposições dos Decretos ns. 68.806, de 25 de junho de 1971, e 69.451, de 1 de novembro de 1971, referentes à Central de Medicamentos e dá outras providência.

@@ -1,5 +1,3 @@
-###DEC-004622-0-000-21-03-2003@@@
-
 DECRETO Nº 4.622, DE 21 DE MARÇO DE 2003.
 
 Dispõe sobre a Medalha de Serviço Amazônico e dá outras providências.

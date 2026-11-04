@@ -1,5 +1,3 @@
-###DEC-062050-0-000-05-01-1968@@@
-
 DECRETO Nº 62.050, DE 5 DE JANEIRO DE 1968.
 
 Transfere da Prefeitura Municipal de Pôrto Firme para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no município de Pôrto Firme, Estado de Minas Gerais e dá outras providências.

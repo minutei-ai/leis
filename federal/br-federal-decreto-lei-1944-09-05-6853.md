@@ -1,5 +1,3 @@
-###DEL-006853-0-000-05-09-1944@@@
-
 DECRETO-LEI N. 6.853 – DE 5 DE SETEMBRO DE 1944
 
 Dispensa exigências para promoção de Oficiais de Infantaria de Guarda do Corpo de Oficiais da Aeronáutica e regula o recrutamento

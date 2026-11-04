@@ -1,5 +1,3 @@
-###DEC-048765-0-000-11-08-1960@@@
-
 DECRETO Nº 48.765, DE 11 DE AGÔSTO DE 1960.
 
 Acrescenta dois parágrafos ao artigo 58 do Decreto nº 42.820, de 16 de dezembro de 1957, que dispõe sôbre operações de câmbio e de intercâmbio comercial com o exterior.

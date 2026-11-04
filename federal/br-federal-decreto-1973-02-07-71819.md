@@ -1,5 +1,3 @@
-###DEC-071819-0-000-07-02-1973@@@
-
 DECRETO Nº 71.819, DE 7 DE FEVEREIRO DE 1973.
 
 Autoriza o Serviço do Patrimônio da União a receber em doação terreno que menciona e dá outras providências.

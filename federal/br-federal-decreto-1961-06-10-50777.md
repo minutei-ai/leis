@@ -1,5 +1,3 @@
-###DEC-050777-0-000-10-06-1961@@@
-
 DECRETO Nº 50.777, DE 10 DE JUNHO DE 1961.
 
 Outorga ao Govêrno do Estado de Minas Gerais concessão para o aproveitamento progressivo de energia hidráulica da cachoeira da Fumaça no rio Suassui Grande, distrito de Nelson de Sena, município de São João Evangelista, Estado de Minas Gerais.

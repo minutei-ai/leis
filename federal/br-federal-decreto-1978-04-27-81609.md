@@ -1,5 +1,3 @@
-###DEC-081609-0-000-27-04-1978@@@
-
 Decreto nº 81.609, de 27 de abril de 1978.
 
 Concede reconhecimento ao curso de Física, licenciatura, da Universidade Estadual de Londrina, Estado do Paraná.

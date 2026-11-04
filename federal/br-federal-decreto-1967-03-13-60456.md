@@ -1,5 +1,3 @@
-###DEC-060456-0-000-13-03-1967@@@
-
 Decreto nº 60.456, de 13 de março de 1967.
 
 Cria a 1ª Companhia Especial de Engenharia de Construção.

@@ -1,5 +1,3 @@
-###DEC-078307-0-000-24-08-1976@@@
-
 DECRETO Nº 78.307, DE 24 DE AGOSTO DE 1976.
 
 Aprova o Programa de Interiorização das Ações de Saúde e Saneamento no Nordeste e dá outras providências.

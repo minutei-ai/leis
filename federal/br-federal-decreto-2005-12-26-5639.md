@@ -1,5 +1,3 @@
-###DEC-005639-0-000-26-12-2005@@@
-
 DECRETO Nº 5.639, DE 26 DE DEZEMBRO DE 2005.
 
        Promulga a Convenção Interamericana contra o Terrorismo, assinada em Barbados, em 3 de junho de 2002.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 27.12.2005
-
-CONVENÇÃO INTERAMERICANA CONTRA O TERRORISMO
+       Celso Luiz Nunes AmorimCONVENÇÃO INTERAMERICANA CONTRA O TERRORISMO
 
         Os Estados Partes nesta Convenção,
 

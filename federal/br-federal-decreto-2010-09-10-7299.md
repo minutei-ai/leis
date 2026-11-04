@@ -1,5 +1,3 @@
-###DEC-007299-0-000-10-09-2010-PUB-01@@@
-
 DECRETO Nº 7.299, DE 10 DE SETEMBRO DE 2010
 
 Altera o Anexo I ao Decreto no 5.751, de 12 de abril de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS e das Funções Gratificadas do Comando do Exército, do Ministério da Defesa.

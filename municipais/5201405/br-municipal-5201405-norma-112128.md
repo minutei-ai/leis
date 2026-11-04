@@ -12,15 +12,32 @@ Art. 2° Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, aos 13 dias do mês de dezembro do ano de dois mil e treze.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário de Governo e Integração Institucional
 
-GEOLIANO LIMA<br>
+GEOLIANO LIMA
+
 Sec. de Administração e Recursos Humanos
 
 ANEXO I
 
-<table><tbody><tr><td style=" width:83px;    "><b>N° DE VAGAS</b></td><td style=" width:113px;    "><b>CARGA HORÁRIA</b></td><td style=" width:132px;    "><b>VENCIMENTO</b></td><td style=" width:248px;    "><b>DESCRIÇÃO SUMÁRIA</b></td></tr><tr><td style=" width:83px;    ">&nbsp; 20 &nbsp; &nbsp; &nbsp;</td><td style=" width:113px;    ">&nbsp; 40 h semanais</td><td style=" width:132px;    ">&nbsp; R$ 2.093,80</td><td style=" width:248px;    ">Cabe ao Analista em Organização e Finanças: Exercer atividades de administração de Recursos Humanos, Administração Financeira, Contabilidade, Auditoria, Estatística, Organização e Sistemas, Planejamento Econômico Financeiro, Administração Orçamentária e outros necessários ao bom desenvolvimento do serviço público.</td></tr></tbody></table>
+**N° DE VAGAS**
+
+**CARGA HORÁRIA**
+
+**VENCIMENTO**
+
+**DESCRIÇÃO SUMÁRIA**
+
+20
+
+40 h semanais
+
+R$ 2.093,80
+
+Cabe ao Analista em Organização e Finanças: Exercer atividades de administração de Recursos Humanos, Administração Financeira, Contabilidade, Auditoria, Estatística, Organização e Sistemas, Planejamento Econômico Financeiro, Administração Orçamentária e outros necessários ao bom desenvolvimento do serviço público.

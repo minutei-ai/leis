@@ -1,5 +1,3 @@
-###DEC-082538-0-000-01-11-1978@@@
-
 Decreto nº 82.538, de 01 de novembro de 1978
 
 Concede reconhecimento ao curso de Tecnológo em Mecânica, da Universidade Federal de Alagoas, com sede em Maceió, Estado de Alagoas.

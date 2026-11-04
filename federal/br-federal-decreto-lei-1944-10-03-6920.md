@@ -1,5 +1,3 @@
-###DEL-006920-0-000-03-10-1944@@@
-
 DECRETO-LEI N. 6.920 – DE 3 DE OUTUBRO DE 1944
 
 Dispõe sôbre o pessoal do Instituto Nacional do Pinho

@@ -1,7 +1,3 @@
-1
-
-###LCP-000015-0-000-13-08-1973@@@
-
 # LEI COmplementar Nº 15, DE 13 dE AGOSTO DE 1973
 
 Regula a composição e o funcionamento do Colégio que elegerá o Presidente da República, e dá outras providências.

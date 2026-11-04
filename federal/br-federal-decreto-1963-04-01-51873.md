@@ -1,5 +1,3 @@
-###DEC-051873-0-000-01-04-1963@@@
-
 DECRETO Nº 51.873, DE 1 DE ABRIL DE 1963.
 
 Revoga os Decretos ns. 26.029, 36.060 e 41.605, respectivamente de 14 de dezembro de 1948, 16 de agôsto de 1954 e 29 de maio de 1957, e outorga à Companhia Paranaense de Energia Elétrica, concessão para o aproveitamento progressivo da energia hidráulica existente no rio Capivari.

@@ -1,7 +1,3 @@
-1
-
-###DEC-002029-0-000-11-10-1996@@@
-
 DECRETO Nº 2.029, DE 11 de OUTUBRO DE 1996.
 
 Dispõe sobre a participação de servidores públicos federais em conferências, congressos, treinamentos ou outros eventos similares, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080892-0-000-30-11-1977@@@
-
 Decreto nº 80.892, de 30 de novembro de 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

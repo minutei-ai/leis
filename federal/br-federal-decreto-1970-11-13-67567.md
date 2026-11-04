@@ -1,5 +1,3 @@
-###DEC-067567-0-000-13-11-1970@@@
-
 decreto nº 67.567, de 13 de novembro de 1970.
 
 Redistribui, com o respectivo ocupante , para o Quadro de Pessoal do Departamento Nacional de Estradas de Rodagem cargo originado da Administração do Pôrto de Rio de Janeiro.

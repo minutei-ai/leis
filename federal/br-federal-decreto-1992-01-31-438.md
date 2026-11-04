@@ -1,7 +1,3 @@
-1
-
-###DEC-000438-0-000-31-01-1992@@@
-
 DECRETO N° 438, DE 31 DE JANEIRO DE 1992
 
 Fixa a lotação dos Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior, e dá outras providências.

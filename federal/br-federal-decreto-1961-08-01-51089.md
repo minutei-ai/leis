@@ -1,5 +1,3 @@
-###DEC-051089-0-000-01-08-1961@@@
-
 DECRETO Nº 51.089, DE 1 DE AGÔSTO DE 1961.
 
 Altera os Estatutos da Companhia Nacional de Seguro Agrícola.

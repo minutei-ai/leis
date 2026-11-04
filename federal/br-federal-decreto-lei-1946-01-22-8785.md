@@ -1,5 +1,3 @@
-###DEL-008785-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.785 – DE 22 DE JANEIRO DE 1946
 
 Cria a Policlínica de Aeronáutica de São Paulo

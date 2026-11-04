@@ -1,6 +1,6 @@
 > **LEI Nº 4.641, DE 07 DE AGOSTO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.065, de 15 de dezembro de 2022, que dispõe sobre a criação da Política Estadual de Proteção e Atenção Integral aos Órfãos e Órfãs de Feminicídio.</span></span></span></p></td></tr></tbody></table>
+Altera a Lei nº 4.065, de 15 de dezembro de 2022, que dispõe sobre a criação da Política Estadual de Proteção e Atenção Integral aos Órfãos e Órfãs de Feminicídio.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -30,7 +30,33 @@
 
 **§ 7º** Fica o Poder Executivo autorizado a abrir crédito adicional especial no valor de R$ 100.000,00 (cem mil reais) para atender as despesas criadas por lei conforme descriminação a seguir:
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>762.000.00.000.0000.0000.0000</span></strong></span></p></td><td><p><span><span>SECRETARIA DE ESTADO DA MULHER - SEMULHER</span></span></p></td></tr><tr><td><p><span><strong><span>762.001.00.000.0000.0000.0000</span></strong></span></p></td><td><p><span><span>UNIDADE GESTORA&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>762.001.08.000.0000.0000.0000</span></strong></span></p></td><td><p><span><span>ASSISTÊNCIA SOCIAL&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>762.001.08.243.0000.0000.0000</span></strong></span></p></td><td><p><span><span>ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>762.001.08.243.1461.0000.0000</span></strong></span></p></td><td><p><span><span>PROGRAMA MULHER, TRANVERSALIDADE E FORÇA</span></span></p></td></tr><tr><td><p><span><strong><span>762.001.08.243.1461.2302.0000</span></strong></span></p></td><td><p><span><span>PROGRAMA DE PROTEÇÃO E ATENÇÃO INTEGRAL AOS ÓRFÃOS E ORFÃS DE FEMINÍCIDIO&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>ELEMENTO DE DESPESA - 33.90.59 - PENSÕES ESPECIAIS</span></strong></span></p></td><td><p><span><span>R$ 100.000,00 (Cem mil reais) FONTE 1.500.0100&nbsp;</span></span></p></td></tr></tbody></table>
+**762.000.00.000.0000.0000.0000**
+
+SECRETARIA DE ESTADO DA MULHER - SEMULHER
+
+**762.001.00.000.0000.0000.0000**
+
+UNIDADE GESTORA
+
+**762.001.08.000.0000.0000.0000**
+
+ASSISTÊNCIA SOCIAL
+
+**762.001.08.243.0000.0000.0000**
+
+ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE
+
+**762.001.08.243.1461.0000.0000**
+
+PROGRAMA MULHER, TRANVERSALIDADE E FORÇA
+
+**762.001.08.243.1461.2302.0000**
+
+PROGRAMA DE PROTEÇÃO E ATENÇÃO INTEGRAL AOS ÓRFÃOS E ORFÃS DE FEMINÍCIDIO
+
+**ELEMENTO DE DESPESA - 33.90.59 - PENSÕES ESPECIAIS**
+
+R$ 100.000,00 (Cem mil reais) FONTE 1.500.0100
 
 ...” **(NR)**
 

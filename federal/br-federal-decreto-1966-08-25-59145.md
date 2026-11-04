@@ -1,5 +1,3 @@
-###DEC-059145-0-000-25-08-1966@@@
-
 DECRETO Nº 59.145, DE 25 DE AGôSTO DE 1966.
 
 Autoriza o funcionamento do Curso de Licenciatura de Ciências para o 1º ciclo , na Faculdade de Filosofia do Recife.

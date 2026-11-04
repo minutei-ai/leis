@@ -1,6 +1,10 @@
 > **LEI Nº 3.475, DE 24 DE MAIO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a ceder imóvel público ao Município de Plácido de Castro.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a ceder imóvel público ao Município de Plácido de Castro.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

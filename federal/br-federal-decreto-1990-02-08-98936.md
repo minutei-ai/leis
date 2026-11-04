@@ -1,7 +1,3 @@
-1
-
-###DEC-098936-0-000-08-02-1990@@@
-
 DECRETO Nº 98.936, DE 8 DE FEVEREIRO DE 1990
 
 Aprova o Protocolo de Intenções que institucionalizou o Conselho Nacional de Segurança Pública CONASP, e dá outras providências.

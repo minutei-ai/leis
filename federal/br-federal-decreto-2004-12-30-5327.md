@@ -1,5 +1,3 @@
-###DEC-005327-0-000-30-12-2004@@@
-
 DECRETO Nº 5.327 DE 30 DE DEZEMBRO DE 2004
 
 Amplia a reserva constante do Anexo I do Decreto nº 4.992, de 18 de fevereiro de 2004, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2004.

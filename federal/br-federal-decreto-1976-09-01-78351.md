@@ -1,5 +1,3 @@
-###DEC-078351-0-000-01-09-1976@@@
-
 decreto nº 78.351, de 1º de setembro de 1976.
 
 Abre ao Ministério da Justiça em favor de diversas Unidades ou Crédito suplementar de Cr$ 18.346.600.00, para reforço de dotações consignadas no vigente orçamento.
@@ -10,11 +8,377 @@ decreta:
 
 Art. 1º Fica aberto ao Ministério da Justiça, em favor de Diversas Unidades, o crédito suplementar no valor de Cr$ 18.346.600.00 (dezoito milhões, trezentos e quarenta e seis mil e seiscentos cruzeiros), para reforço de dotações orçamentárias consignadas ao subanexo 2000, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Cr$ 1,00</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2000</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- MINISTÉRIO DA JUSTIÇA</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2001</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Gabinete do Ministro</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2001.03070202.001</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Assessoramento Superior</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.3.2</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Outros Serviços de Terceiros</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">533.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.4.0</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Encargos Diversos</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">400.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2001.03070212.026</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Manutenção de Residências Oficiais</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.4.0</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Encargos Diversos</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">20.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2005</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Ministério Público da Justiça Militar</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2005.02040142.153</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Defesa dos Interesses da União em Juízo</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.1.1</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Pessoal Civil</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">01</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Vencimentos e Vantagens Fixas</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2.666.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2007</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Ministério Público da Justiça do Trabalho</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">200702040142.153</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Defesa dos Interesses da União em Juízo</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.1.1</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Pessoal Civil</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">01</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Vencimentos e Vantagens Fixas</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4.740.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">02</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Despesas Variáveis</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2.150.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.2.5.0</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Contribuição de Previdência Social</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">105.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2009</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Conselho Administrativo de Defesa Economica</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2009.03090422.155</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Repressão ao Abuso do Poder Economico</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.1.1</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Pessoal Civil</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">01</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Vencimentos e Vantagens Fixas</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">294.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">02</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Despesas Variáveis</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">561.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.2.5.0</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Contribuições de Previdência Social</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">25.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2012</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Arquivo Nacional</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2012.03070222.158</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Guarda e Conservação de Documentos Históricos</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.1.1</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Pessoal Civil</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">02</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Despesas Variáveis</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">70.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2013</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Departamento de Administração</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2013.03070212.013</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Coordenação dos Serviços Administrativos</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.2.0</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Material de Consumo</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">250.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.3.2</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Outros Serviços de Terceiros</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1.900.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2014</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Departamento de Polícia Federal</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2014.06300212.159</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Administração e Coordenação de Atividades Policiais</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.5.0</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Despesas de Exercícios Anteriores</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">532.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2014.06300241.309</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Centro de Processamentos de Dados e Informações</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4.1.3.0</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Equipamentos e Instalações</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">14.100</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4.1.4.0</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Material Permanente</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">352.500</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">0214.06301741.093</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Reequipamento do Departamento de Polícia Federal</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4.1.4.0</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Material Permanente</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1.300.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2014.06301743.378</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Construção e Instalação de Unidades Regionais</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4.1.1.0</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Obras Públicas</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">444.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2014.06302172.160</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Formação de Policiais</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.3.2</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Outros Serviços de Terceiros</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1.990.000</span></p></td></tr><tr><td style="width:94.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:230.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">TOTAL</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">18.346.600</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+2000
+
+- MINISTÉRIO DA JUSTIÇA
+
+2001
+
+- Gabinete do Ministro
+
+2001.03070202.001
+
+- Assessoramento Superior
+
+3.1.3.2
+
+- Outros Serviços de Terceiros
+
+533.000
+
+3.1.4.0
+
+- Encargos Diversos
+
+400.000
+
+2001.03070212.026
+
+- Manutenção de Residências Oficiais
+
+3.1.4.0
+
+- Encargos Diversos
+
+20.000
+
+2005
+
+- Ministério Público da Justiça Militar
+
+2005.02040142.153
+
+- Defesa dos Interesses da União em Juízo
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas
+
+2.666.000
+
+2007
+
+- Ministério Público da Justiça do Trabalho
+
+200702040142.153
+
+- Defesa dos Interesses da União em Juízo
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas
+
+4.740.000
+
+02
+
+- Despesas Variáveis
+
+2.150.000
+
+3.2.5.0
+
+- Contribuição de Previdência Social
+
+105.000
+
+2009
+
+- Conselho Administrativo de Defesa Economica
+
+2009.03090422.155
+
+- Repressão ao Abuso do Poder Economico
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas
+
+294.000
+
+02
+
+- Despesas Variáveis
+
+561.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social
+
+25.000
+
+2012
+
+- Arquivo Nacional
+
+2012.03070222.158
+
+- Guarda e Conservação de Documentos Históricos
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis
+
+70.000
+
+2013
+
+- Departamento de Administração
+
+2013.03070212.013
+
+- Coordenação dos Serviços Administrativos
+
+3.1.2.0
+
+- Material de Consumo
+
+250.000
+
+3.1.3.2
+
+- Outros Serviços de Terceiros
+
+1.900.000
+
+2014
+
+- Departamento de Polícia Federal
+
+2014.06300212.159
+
+- Administração e Coordenação de Atividades Policiais
+
+3.1.5.0
+
+- Despesas de Exercícios Anteriores
+
+532.000
+
+2014.06300241.309
+
+- Centro de Processamentos de Dados e Informações
+
+4.1.3.0
+
+- Equipamentos e Instalações
+
+14.100
+
+4.1.4.0
+
+- Material Permanente
+
+352.500
+
+0214.06301741.093
+
+- Reequipamento do Departamento de Polícia Federal
+
+4.1.4.0
+
+Material Permanente
+
+1.300.000
+
+2014.06301743.378
+
+- Construção e Instalação de Unidades Regionais
+
+4.1.1.0
+
+- Obras Públicas
+
+444.000
+
+2014.06302172.160
+
+- Formação de Policiais
+
+3.1.3.2
+
+Outros Serviços de Terceiros
+
+1.990.000
+
+TOTAL
+
+18.346.600
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao subanexo 2000 e 3900, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Cr$ 1,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2000</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- MINISTÉRIO DA JUSTIÇA</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2001</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Gabinete do Minstro</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Atividade</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 2001.03070202.001</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.2.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Material de Consumo</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">133.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4.1.3.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Equipamentos e Instalações</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">150.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4.1.4.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Material Permanente</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">70.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2011</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Conselho Penitenciário Federal</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Atividade</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 2011.02040152.157</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.2.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Material de Consumo</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">140.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.3.1</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Remuneração de Serviços Pessoais</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">40.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.3.2</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Outros Serviços de Terceiros</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">420.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2013</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Departamento de Administração</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Atividade</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 2013.03070212.013</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.5.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Despesas de Exercícios Anteriores</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">360.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4.1.3.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Equipamentos e Instalações</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1.350.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">4.1.4.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Material Permantente</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">440.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2014</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Departamento de Polícia Federal</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Atividade</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 2014.06300212.159</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.2.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Material de Consumo</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">2.047.800</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.3.2</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Outros Serviços de Terceiros</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">190.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.4.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Encargos Diversos</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">1.049.100</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Projeto</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 2014.06300241.309</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.2.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Material de Consumo</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">444.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.3.2</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Outros Serviços de Terceiros</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">366.600</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">Atividade</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- 2014.06301742.162</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.1.3.2</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Outros Serviços de Terceiros</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">535.100</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3900</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- RESERVA DE CONTINGÊNCIA</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3900.99999999.999</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Reserva de Contingência</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">3.2.6.0</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">- Reserva de Contingência</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">10.611.000</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:183.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">TOTAL</span></p></td><td style="width:94.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'">18.346.600</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+2000
+
+- MINISTÉRIO DA JUSTIÇA
+
+2001
+
+- Gabinete do Minstro
+
+Atividade
+
+- 2001.03070202.001
+
+3.1.2.0
+
+- Material de Consumo
+
+133.000
+
+4.1.3.0
+
+- Equipamentos e Instalações
+
+150.000
+
+4.1.4.0
+
+- Material Permanente
+
+70.000
+
+2011
+
+- Conselho Penitenciário Federal
+
+Atividade
+
+- 2011.02040152.157
+
+3.1.2.0
+
+- Material de Consumo
+
+140.000
+
+3.1.3.1
+
+- Remuneração de Serviços Pessoais
+
+40.000
+
+3.1.3.2
+
+- Outros Serviços de Terceiros
+
+420.000
+
+2013
+
+- Departamento de Administração
+
+Atividade
+
+- 2013.03070212.013
+
+3.1.5.0
+
+- Despesas de Exercícios Anteriores
+
+360.000
+
+4.1.3.0
+
+- Equipamentos e Instalações
+
+1.350.000
+
+4.1.4.0
+
+- Material Permantente
+
+440.000
+
+2014
+
+- Departamento de Polícia Federal
+
+Atividade
+
+- 2014.06300212.159
+
+3.1.2.0
+
+- Material de Consumo
+
+2.047.800
+
+3.1.3.2
+
+- Outros Serviços de Terceiros
+
+190.000
+
+3.1.4.0
+
+- Encargos Diversos
+
+1.049.100
+
+Projeto
+
+- 2014.06300241.309
+
+3.1.2.0
+
+- Material de Consumo
+
+444.000
+
+3.1.3.2
+
+- Outros Serviços de Terceiros
+
+366.600
+
+Atividade
+
+- 2014.06301742.162
+
+3.1.3.2
+
+- Outros Serviços de Terceiros
+
+535.100
+
+3900
+
+- RESERVA DE CONTINGÊNCIA
+
+3900.99999999.999
+
+- Reserva de Contingência
+
+3.2.6.0
+
+- Reserva de Contingência
+
+10.611.000
+
+TOTAL
+
+18.346.600
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 

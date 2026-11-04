@@ -1,5 +1,3 @@
-###DEC-051282-0-000-25-08-1961@@@
-
 Decreto Nº 51.282, DE 25 DE AGôSTO DE 1961.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona, em Barbacena, Estado de MInas Gerais, necessários ao Ministério da Aeronáutica.

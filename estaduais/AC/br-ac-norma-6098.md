@@ -1,6 +1,10 @@
 > **LEI Nº 4.368, DE 11 DE JULHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o bônus de desempenho por atividade delegada pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o bônus de desempenho por atividade delegada pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

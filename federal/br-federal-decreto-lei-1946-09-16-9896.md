@@ -1,5 +1,3 @@
-###DEL-009896-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.896 – DE 16 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ ....... 1.065.000,00 para despesas com o fomento da produção animal e dá outras providências.

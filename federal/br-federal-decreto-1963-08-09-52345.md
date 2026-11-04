@@ -1,5 +1,3 @@
-###DEC-052345-0-000-09-08-1963@@@
-
 DECRETO Nº 52.345, DE 9 DE AGôSTO DE 1963.
 
 Decreta a incorporação do acêrvo do Pôrto de Maceió, Estado de Alagoas e dá outras providência.

@@ -1,5 +1,3 @@
-###DEC-085147-0-000-15-09-1980@@@
-
 Decreto nº 85.147, de 15 de setembro de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

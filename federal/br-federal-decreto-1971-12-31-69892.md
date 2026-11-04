@@ -1,5 +1,3 @@
-###DEC-069892-0-000-31-12-1971@@@
-
 DECRETO Nº 69.892 - DE 31 DE DEZEMBRO DE 1971
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Agricultura, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

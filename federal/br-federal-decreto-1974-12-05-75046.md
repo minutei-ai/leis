@@ -1,5 +1,3 @@
-###DEC-075046-0-000-05-12-1974@@@
-
 DECRETO Nº 75.046, DE 5 DE DEZEMBRO De 1974.
 
 Altera o Decreto nº 64.126, de 19 de fevereiro de 1969, que aprovou, em caráter definitivo, o enquadramento do pessoal do Ministério da Educação e Cultura, beneficiado pelo disposto no parágrafo único do artigo 23 da Lei nº 4.069, de 11 de junho de 1962, e dá outras providências.

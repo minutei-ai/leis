@@ -1,5 +1,3 @@
-###DEL-007721-0-000-09-07-1945@@@
-
 DECRETO-LEI N. 7.721 – DE 9 DE JULHO DE 1945
 
 Prorroga o prazo para conclusão das obras do pôrto de Mucuripe

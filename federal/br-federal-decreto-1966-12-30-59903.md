@@ -1,5 +1,3 @@
-###DEC-059903-0-000-30-12-1966@@@
-
 decreto nº 59.903, de 30 de dezembro de 1966.
 
 Renova o decreto nº 1.671, de 26 de novembro de 1962.

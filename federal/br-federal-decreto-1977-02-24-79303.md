@@ -1,5 +1,3 @@
-###DEC-079303-0-000-24-02-1977@@@
-
 DECRETO Nº 79.303, DE 24 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Pedagogia, do Centro de Relações Humanas e Sociais, com  sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

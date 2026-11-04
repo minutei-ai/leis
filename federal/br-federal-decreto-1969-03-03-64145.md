@@ -1,5 +1,3 @@
-###DEC-064145-0-000-03-03-1969@@@
-
 DECRETO Nº 64.145, DE 3 DE MARÇO DE 1969.
 
 Acrescenta dispositivos ao Decreto nº 59.905, de 30 de dezembro de 1966, que regulamenta a Lei número 4.822, de 29 de outubro de 1965, alterada pela Lei nº 5.141, de 14 de outubro de 1966, que estabelece princípios, condições e critérios básicos para promoções de oficiais da Marinha do Brasil.

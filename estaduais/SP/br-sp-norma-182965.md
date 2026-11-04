@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=182965)
-
 # DECRETO Nº 62.810, DE 25 DE AGOSTO DE 2017
 
 ### _Dispõe sobre a oficialização do Colar "Soldado Bento Soares" evocativo ao representante do Município de Atibaia, combatente da Revolução Constitucionalista de 1932_
@@ -16,13 +14,18 @@ Palácio dos Bandeirantes, 25 de agosto de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 25 de agosto de 2017.
 
-#### “REGULAMENTO GERAL DO COLAR “SOLDADO BENTO SOARES””<br>
+#### “REGULAMENTO GERAL DO COLAR “SOLDADO BENTO SOARES””
+
 a que se refere o artigo 1º do [Decreto nº 62.810, de 25 de agosto de 2017](http://www.al.sp.gov.br/norma?id=182965)
 
 **Artigo 1º -** O Colar “Soldado Bento Soares” evocativo ao representante do Município de Atibaia, morto em combate na Revolução Constitucionalista de 1932 instituído pelo Núcleo M.M.D.C - Atibaia “Soldado Bento Soares”, tem por objetivo galardoar personalidades civis, eclesiásticas e militares, instituições públicas e privadas, nacionais e estrangeiras, que contribuam para o engrandecimento deste Núcleo, ou prestem relevantes serviços à gente de Atibaia, de São Paulo e do Brasil e que sejam merecedores de especial distinção. 

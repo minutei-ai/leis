@@ -1,5 +1,3 @@
-###DEC-067774-0-000-09-12-1970@@@
-
 DECRETO Nº 67.774, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto número 25.003, de 26 de maio de 1948.

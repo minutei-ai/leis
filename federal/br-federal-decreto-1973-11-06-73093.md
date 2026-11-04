@@ -1,5 +1,3 @@
-###DEC-073093-0-000-06-11-1973@@@
-
 DECRETO Nº 73.093 - DE 6 DE NOVEMBRO De 1973
 
 Torna sem efeito aproveitamento de disponível do Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro.

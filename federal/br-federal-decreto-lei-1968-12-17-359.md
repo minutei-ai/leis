@@ -1,5 +1,3 @@
-###DEL-000359-0-000-17-12-1968@@@
-
 DecRETO-LEI Nº 359, DE 17 DE DEZEMBRO DE 1968
 
 Cria a Comissão Geral de Investigações e dá outras providências.

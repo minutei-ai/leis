@@ -916,2220 +916,1508 @@ ANEXO I
 
 QUADRO DE CARGOS EM COMISSÃO DO INSTITUTO DE RADIODIFUSÃO EDUCATIVA DA BAHIA - IRDEB
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador I<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">09<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Procurador Chefe<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Gerente<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">14<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente III<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">23<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Secretário Administrativo II<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">09<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:15"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente RA e TV I<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">FC-3<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">10<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:16"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente RA e TV II<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">FC-2<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">10<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:17;mso-yfti-lastrow:yes"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente RA e TV III<quebra></quebra></p></td><td width="100" valign="top" style="width:75.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">FC-1<quebra></quebra></p></td><td width="176" valign="top" style="width:131.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">10<i><quebra></quebra></i></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Diretor Geral<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+03<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador I<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+09<quebra></quebra>
+
+Procurador Chefe<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+05<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+05<quebra></quebra>
+
+Gerente<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+14<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+05<quebra></quebra>
+
+Assistente III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+03<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+23<quebra></quebra>
+
+Secretário Administrativo II<quebra></quebra>
+
+DAI-6<quebra></quebra>
+
+09<quebra></quebra>
+
+Assistente RA e TV I<quebra></quebra>
+
+FC-3<quebra></quebra>
+
+10<quebra></quebra>
+
+Assistente RA e TV II<quebra></quebra>
+
+FC-2<quebra></quebra>
+
+10<quebra></quebra>
+
+Assistente RA e TV III<quebra></quebra>
+
+FC-1<quebra></quebra>
+
+10*<quebra></quebra>*
 
 ANEXO II
 
 QUADRO ESPECIAL DE CARGOS EM COMISSÃO DA CASA CIVIL
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente II<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">08<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente III<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">13<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente IV<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">21<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Assistente II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+08<quebra></quebra>
+
+Assistente III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+13<quebra></quebra>
+
+Assistente IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+21<quebra></quebra>
 
 ANEXO III
 
 QUADRO DE CARGOS EM COMISSÃO DA SECRETARIA DE POLÍTICAS PARA AS MULHERES - SPM
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador Executivo<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador I<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Secretário de Gabinete<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente II<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente Orçamentário<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Oficial de Gabinete<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13;mso-yfti-lastrow:yes"><td width="281" valign="top" style="width:210.95pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador Executivo<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+02<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+02<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador I<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+02<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+02<quebra></quebra>
+
+Secretário de Gabinete<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assistente II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+05<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+03<quebra></quebra>
+
+Assistente Orçamentário<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+01<quebra></quebra>
+
+Oficial de Gabinete<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+01<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+03<quebra></quebra>
 
 ANEXO IV
 
 QUADRO DE CARGOS EM COMISSÃO DA SECRETARIA DE ADMINISTRAÇÃO PENITENCIÁRIA E RESSOCIALIZAÇÃO - SEAP
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 3.5pt 0cm 3.5pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Superintendente<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">28<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Coordenador I<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Coordenador Técnico<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2D<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">10<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2D<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">09<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Diretor Adjunto<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2D<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Diretor Adjunto<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">28<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assistente de Conselho I<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">35<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Secretário de Gabinete<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:15"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">20<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:16"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">12<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:17"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">28<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:18"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assistente Orçamentário<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:19"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Coordenador IV<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">112<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:20"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Oficial de Gabinete<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:21"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">10<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:22"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Coordenador V<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">131<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:23;mso-yfti-lastrow:yes"><td width="244" valign="top" style="width:182.8pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Secretário Administrativo II<quebra></quebra></p></td><td width="180" valign="top" style="width:135.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="141" valign="top" style="width:105.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">22<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Superintendente<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+02<quebra></quebra>
+
+Diretor Geral<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+03<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+28<quebra></quebra>
+
+Coordenador I<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+06<quebra></quebra>
+
+Coordenador Técnico<quebra></quebra>
+
+DAS-2D<quebra></quebra>
+
+10<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2D<quebra></quebra>
+
+09<quebra></quebra>
+
+Diretor Adjunto<quebra></quebra>
+
+DAS-2D<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Diretor Adjunto<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+28<quebra></quebra>
+
+Assistente de Conselho I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+35<quebra></quebra>
+
+Secretário de Gabinete<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+20<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+12<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+28<quebra></quebra>
+
+Assistente Orçamentário<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+02<quebra></quebra>
+
+Coordenador IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+112<quebra></quebra>
+
+Oficial de Gabinete<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+02<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+10<quebra></quebra>
+
+Coordenador V<quebra></quebra>
+
+DAI-6<quebra></quebra>
+
+131<quebra></quebra>
+
+Secretário Administrativo II<quebra></quebra>
+
+DAI-6<quebra></quebra>
+
+22<quebra></quebra>
 
 ANEXO V
 
 QUADRO DE CARGOS EM COMISSÃO DA SECRETARIA DE COMUNICAÇÃO SOCIAL - SECOM
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 3.5pt 0cm 3.5pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor de Imprensa do Governador<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Coordenador Executivo<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Coordenador I<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">09<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">17<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Secretário de Gabinete<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor de Comunicação Social II<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">19<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">07<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:15"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assistente Orçamentário<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:16"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Assessor de Comunicação Social III<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">07<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:17"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Oficial de Gabinete<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:18;mso-yfti-lastrow:yes"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto">08<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor de Imprensa do Governador<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Diretor Geral<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador Executivo<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+02<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+04<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+03<quebra></quebra>
+
+Coordenador I<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+09<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+04<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+17<quebra></quebra>
+
+Secretário de Gabinete<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor de Comunicação Social II<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+19<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+06<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+07<quebra></quebra>
+
+Assistente Orçamentário<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+02<quebra></quebra>
+
+Assessor de Comunicação Social III<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+07<quebra></quebra>
+
+Oficial de Gabinete<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+02<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+08<quebra></quebra>
 
 ANEXO VI
 
 QUADRO DE CARGOS EM COMISSÃO DA SECRETARIA ESTADUAL PARA ASSUNTOS DA COPA DO MUNDO DA FIFA BRASIL 2014 - SECOPA
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 3.5pt 0cm 3.5pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador Executivo<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador<span style="mso-spacerun:yes">&nbsp; </span>Técnico<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2D<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Secretário de Gabinete<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assistente Orçamentário<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Oficial de Gabinete<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13;mso-yfti-lastrow:yes;height:34.0pt"><td width="266" valign="top" style="width:199.6pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="118" valign="top" style="width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="148" valign="top" style="width:111.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador Executivo<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+02<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+02<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador  Técnico<quebra></quebra>
+
+DAS-2D<quebra></quebra>
+
+04<quebra></quebra>
+
+Secretário de Gabinete<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+03<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+01<quebra></quebra>
+
+Assistente Orçamentário<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+01<quebra></quebra>
+
+Oficial de Gabinete<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+01<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+04<quebra></quebra>
 
 ANEXO VII
 
 QUADRO DE CARGOS EM COMISSÃO DA SECRETARIA DA INDÚSTRIA COMÉRCIO E MINERAÇÃO - SICM
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 3.5pt 0cm 3.5pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Superintendente<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador I<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">14<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">08<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">33<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Secretário de Gabinete<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assistente Orçamentário<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">14<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:15;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador IV<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:16;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Oficial de Gabinete<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:17;mso-yfti-lastrow:yes;height:34.0pt"><td width="302" valign="top" style="width:226.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="121" valign="top" style="width:90.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Superintendente<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+03<quebra></quebra>
+
+Diretor Geral<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+01<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+06<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+06<quebra></quebra>
+
+Coordenador I<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+14<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+03<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+08<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+33<quebra></quebra>
+
+Secretário de Gabinete<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+06<quebra></quebra>
+
+Assistente Orçamentário<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+02<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+14<quebra></quebra>
+
+Coordenador IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+03<quebra></quebra>
+
+Oficial de Gabinete<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+02<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+03<quebra></quebra>
 
 ANEXO VIII
 
 QUADRO DE CARGOS EM COMISSÃO DO GABINETE DO GOVERNADOR - GABGOV
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 3.5pt 0cm 3.5pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Chefe<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Especial do Governador<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador de Escritório<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Chefe de Cerimonial<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Ouvidor Geral do Estado<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Secretário Particular do Governador<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">09<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador Executivo<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">09<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador I<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">08<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Secretário de Gabinete do Governador<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador Técnico<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-2D<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">14<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:15;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">11<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:16;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assistente II<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:17;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenação II<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:18;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Oficial de Gabinete do Governador<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:19;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Secretário de Gabinete<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:20;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:21;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assistente III<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">10<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:22;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assistente Orçamentário<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:23;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">08<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:24;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assistente IV<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">22<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:25;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">14<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:26;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Assistente V<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:27;mso-yfti-lastrow:yes;height:34.0pt"><td width="324" valign="top" style="width:243.15pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">Secretário Administrativo II<quebra></quebra></p></td><td width="125" valign="top" style="width:93.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="132" valign="top" style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Assessor Chefe<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Especial do Governador<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+03<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador de Escritório<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Chefe de Cerimonial<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Ouvidor Geral do Estado<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Secretário Particular do Governador<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+09<quebra></quebra>
+
+Coordenador Executivo<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+09<quebra></quebra>
+
+Coordenador I<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+08<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Secretário de Gabinete do Governador<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+02<quebra></quebra>
+
+Coordenador Técnico<quebra></quebra>
+
+DAS-2D<quebra></quebra>
+
+14<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+11<quebra></quebra>
+
+Assistente II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+04<quebra></quebra>
+
+Coordenação II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+05<quebra></quebra>
+
+Oficial de Gabinete do Governador<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+04<quebra></quebra>
+
+Secretário de Gabinete<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+04<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+03<quebra></quebra>
+
+Assistente III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+10<quebra></quebra>
+
+Assistente Orçamentário<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+02<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+08<quebra></quebra>
+
+Assistente IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+22<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+14<quebra></quebra>
+
+Assistente V<quebra></quebra>
+
+DAI-6<quebra></quebra>
+
+02<quebra></quebra>
+
+Secretário Administrativo II<quebra></quebra>
+
+DAI-6<quebra></quebra>
+
+01<quebra></quebra>
 
 ANEXO IX
 
 QUADRO DE CARGOS EM COMISSÃO DA SECRETARIA DE CULTURA - SECULT
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Superintendente<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Coordenador I<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">09<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assistente de Conselho I<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">35<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Secretário de Gabinete<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assistente Orçamentário<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Secretário de Câmara<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:15;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Coordenador de Centro de Cultura<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">17<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:16;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">11<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:17;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assistente IV<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:18;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Coordenador IV<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">08<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:19;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Oficial de Gabinete<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:20;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:21;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Secretário de Câmara<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:22;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Secretário de Comissão<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:23;mso-yfti-lastrow:yes;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Secretário Administrativo II<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">28<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Superintendente<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+02<quebra></quebra>
+
+Diretor Geral<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+03<quebra></quebra>
+
+Coordenador I<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+03<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+09<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+05<quebra></quebra>
+
+Assistente de Conselho I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+35<quebra></quebra>
+
+Secretário de Gabinete<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+05<quebra></quebra>
+
+Assistente Orçamentário<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+04<quebra></quebra>
+
+Secretário de Câmara<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+04<quebra></quebra>
+
+Coordenador de Centro de Cultura<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+17<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+11<quebra></quebra>
+
+Assistente IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+08<quebra></quebra>
+
+Oficial de Gabinete<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+02<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+04<quebra></quebra>
+
+Secretário de Câmara<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+04<quebra></quebra>
+
+Secretário de Comissão<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+01<quebra></quebra>
+
+Secretário Administrativo II<quebra></quebra>
+
+DAI-6<quebra></quebra>
+
+28<quebra></quebra>
 
 ANEXO X
 
 QUADRO DE CARGOS EM COMISSÃO DA FUNDAÇÃO PEDRO CALMON - CENTRO DE MEMÓRIA E ARQUIVO PÚBLICO DA BAHIA - FPC
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assessor Chefe<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Procurador Chefe<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">13<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Diretor de Biblioteca I<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">08<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Gerente<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">08<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assistente III<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:15;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Subgerente<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">18<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:16;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assistente de Apoio Técnico<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:17;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assistente IV<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:18;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Coordenador IV<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">18<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:19;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:20;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Supervisor<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">11<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:21;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Assistente V<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">12<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:22;mso-yfti-lastrow:yes;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">Secretário Administrativo II<quebra></quebra></p></td><td width="120" valign="top" style="width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">22<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Diretor Geral<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+02<quebra></quebra>
+
+Assessor Chefe<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+04<quebra></quebra>
+
+Procurador Chefe<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+02<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+13<quebra></quebra>
+
+Diretor de Biblioteca I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+08<quebra></quebra>
+
+Gerente<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+05<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+08<quebra></quebra>
+
+Assistente III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+04<quebra></quebra>
+
+Subgerente<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+18<quebra></quebra>
+
+Assistente de Apoio Técnico<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+04<quebra></quebra>
+
+Assistente IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+02<quebra></quebra>
+
+Coordenador IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+18<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+03<quebra></quebra>
+
+Supervisor<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+11<quebra></quebra>
+
+Assistente V<quebra></quebra>
+
+DAI-6<quebra></quebra>
+
+12<quebra></quebra>
+
+Secretário Administrativo II<quebra></quebra>
+
+DAI-6<quebra></quebra>
+
+22<quebra></quebra>
 
 ANEXO XI
 
 QUADRO DE CARGOS EM COMISSÃO DO INSTITUTO DO PATRIMÔNIO ARTÍSTICO E CULTURAL DA BAHIA - IPAC
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Assessor Chefe<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">07<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Procurador Chefe<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Coordenador Técnico<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAS-2D<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">07<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Gerente<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Diretor de Museu<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Subgerente<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">21<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:15;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Assistente Administrativo e Financeiro<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:16;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Coordenador IV<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:17;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Coordenador Municipal<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:18;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:19;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Supervisor<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">20<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:20;mso-yfti-lastrow:yes;height:34.0pt"><td width="322" valign="top" style="width:241.55pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">Secretário Administrativo II<quebra></quebra></p></td><td width="141" valign="top" style="width:105.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="155" valign="top" style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:34.0pt"><p class="Tabela-Texto">18<i><quebra></quebra></i></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Diretor Geral<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Chefe<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+07<quebra></quebra>
+
+Procurador Chefe<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador Técnico<quebra></quebra>
+
+DAS-2D<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+04<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+07<quebra></quebra>
+
+Gerente<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+06<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+06<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+05<quebra></quebra>
+
+Diretor de Museu<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+06<quebra></quebra>
+
+Subgerente<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+21<quebra></quebra>
+
+Assistente Administrativo e Financeiro<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+04<quebra></quebra>
+
+Coordenador IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+04<quebra></quebra>
+
+Coordenador Municipal<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+02<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+02<quebra></quebra>
+
+Supervisor<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+20<quebra></quebra>
+
+Secretário Administrativo II<quebra></quebra>
+
+DAI-6<quebra></quebra>
+
+18*<quebra></quebra>*
 
 ANEXO XII
 
 QUADRO DE CARGOS EM COMISSÃO DA FUNDAÇÃO CULTURAL DO ESTADO DA BAHIA - FUNCEB
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.0pt"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="120" colspan="2" valign="top" style="width:90.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="156" valign="top" style="width:117.0pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:34.0pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor Chefe<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador I<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Procurador Chefe<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador Técnico<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-2D<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">07<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Gerente<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Administrador de Espaço Cultural<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">04<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:15"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assessor de Comunicação Social II<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:16"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente III<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">09<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:17"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">21<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:18"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Subgerente<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">12<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:19"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente de Execução Orçamentária<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:20"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente Administrativo-Financeiro<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:21"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Assistente de Apoio Técnico<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:22"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador IV<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">15<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:23"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:24"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Supervisor<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">19<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:25"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Coordenador V<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:26;mso-yfti-lastrow:yes"><td width="300" valign="top" style="width:225.0pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Secretário Administrativo II<quebra></quebra></p></td><td width="109" valign="top" style="width:81.9pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">DAI-6<quebra></quebra></p></td><td width="167" colspan="2" valign="top" style="width:125.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">22<quebra></quebra></p></td></tr><tr></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> CARGO<quebra></quebra> </td><td colspan="2" valign="top"> SÍMBOLO<quebra></quebra> </td><td valign="top"> QUANTIDADE<quebra></quebra> </td></tr><tr><td valign="top"> Diretor Geral<quebra></quebra> </td><td valign="top"> DAS-2A<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Diretor<quebra></quebra> </td><td valign="top"> DAS-2B<quebra></quebra> </td><td colspan="2" valign="top"> 02<quebra></quebra> </td></tr><tr><td valign="top"> Assessor Chefe<quebra></quebra> </td><td valign="top"> DAS-2C<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Chefe de Gabinete<quebra></quebra> </td><td valign="top"> DAS-2C<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Coordenador I<quebra></quebra> </td><td valign="top"> DAS-2C<quebra></quebra> </td><td colspan="2" valign="top"> 06<quebra></quebra> </td></tr><tr><td valign="top"> Diretor<quebra></quebra> </td><td valign="top"> DAS-2C<quebra></quebra> </td><td colspan="2" valign="top"> 04<quebra></quebra> </td></tr><tr><td valign="top"> Procurador Chefe<quebra></quebra> </td><td valign="top"> DAS-2C<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Coordenador Técnico<quebra></quebra> </td><td valign="top"> DAS-2D<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Assessor de Comunicação Social I<quebra></quebra> </td><td valign="top"> DAS-3<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Assessor Técnico<quebra></quebra> </td><td valign="top"> DAS-3<quebra></quebra> </td><td colspan="2" valign="top"> 05<quebra></quebra> </td></tr><tr><td valign="top"> Coordenador II<quebra></quebra> </td><td valign="top"> DAS-3<quebra></quebra> </td><td colspan="2" valign="top"> 07<quebra></quebra> </td></tr><tr><td valign="top"> Gerente<quebra></quebra> </td><td valign="top"> DAS-3<quebra></quebra> </td><td colspan="2" valign="top"> 04<quebra></quebra> </td></tr><tr><td valign="top"> Administrador de Espaço Cultural<quebra></quebra> </td><td valign="top"> DAI-4<quebra></quebra> </td><td colspan="2" valign="top"> 04<quebra></quebra> </td></tr><tr><td valign="top"> Assessor Administrativo<quebra></quebra> </td><td valign="top"> DAI-4<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Assessor de Comunicação Social II<quebra></quebra> </td><td valign="top"> DAI-4<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Assistente III<quebra></quebra> </td><td valign="top"> DAI-4<quebra></quebra> </td><td colspan="2" valign="top"> 09<quebra></quebra> </td></tr><tr><td valign="top"> Coordenador III<quebra></quebra> </td><td valign="top"> DAI-4<quebra></quebra> </td><td colspan="2" valign="top"> 21<quebra></quebra> </td></tr><tr><td valign="top"> Subgerente<quebra></quebra> </td><td valign="top"> DAI-4<quebra></quebra> </td><td colspan="2" valign="top"> 12<quebra></quebra> </td></tr><tr><td valign="top"> Assistente de Execução Orçamentária<quebra></quebra> </td><td valign="top"> DAI-5<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Assistente Administrativo-Financeiro<quebra></quebra> </td><td valign="top"> DAI-5<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Assistente de Apoio Técnico<quebra></quebra> </td><td valign="top"> DAI-5<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Coordenador IV<quebra></quebra> </td><td valign="top"> DAI-5<quebra></quebra> </td><td colspan="2" valign="top"> 15<quebra></quebra> </td></tr><tr><td valign="top"> Secretário Administrativo I<quebra></quebra> </td><td valign="top"> DAI-5<quebra></quebra> </td><td colspan="2" valign="top"> 01<quebra></quebra> </td></tr><tr><td valign="top"> Supervisor<quebra></quebra> </td><td valign="top"> DAI-5<quebra></quebra> </td><td colspan="2" valign="top"> 19<quebra></quebra> </td></tr><tr><td valign="top"> Coordenador V<quebra></quebra> </td><td valign="top"> DAI-6<quebra></quebra> </td><td colspan="2" valign="top"> 02<quebra></quebra> </td></tr><tr><td valign="top"> Secretário Administrativo II<quebra></quebra> </td><td valign="top"> DAI-6<quebra></quebra> </td><td colspan="2" valign="top"> 22<quebra></quebra> </td></tr><tr></tr></tbody></table>
 
 ANEXO XIII
 
 QUADRO DE CARGOS EM COMISSÃO DOINSTITUTO DO MEIO AMBIENTE E RECURSOS HÍDRICOS ? INEMA
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Procurador Chefe<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Coordenador I<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">28<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Coordenador Técnico<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2D<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">25<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">57<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">07<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">27<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Coordenador IV<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">10<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14;mso-yfti-lastrow:yes;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">18<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Diretor Geral<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+01<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+06<quebra></quebra>
+
+Procurador Chefe<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+02<quebra></quebra>
+
+Coordenador I<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+28<quebra></quebra>
+
+Coordenador Técnico<quebra></quebra>
+
+DAS-2D<quebra></quebra>
+
+25<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+57<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+07<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+27<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+06<quebra></quebra>
+
+Coordenador IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+10<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+18<quebra></quebra>
 
 ANEXO XIV
 
 QUADRO DE CARGOS EM COMISSÃO DA SECRETARIA DO MEIO AMBIENTE ? SEMA
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Chefe de Gabinete<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Superintendente<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2A<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Coordenador Executivo<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2B<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:6;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Assessor Especial<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:7;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:8;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Coordenador I<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2C<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">11<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:9;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Coordenador Técnico<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-2D<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">05<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:10;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Coordenador II<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">23<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:11;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Assessor Técnico<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">09<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:12;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Assessor de Comunicação Social I<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:13;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Secretário de Gabinete<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAS-3<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:14;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Coordenador III<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">07<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:15;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Assessor Administrativo<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">06<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:16;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Assistente Orçamentário<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAI-4<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:17;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Oficial Gabinete<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:18;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Secretário Administrativo I<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">10<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:19;mso-yfti-lastrow:yes;height:30.4pt"><td width="336" valign="top" style="width:252.35pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">Assistente IV<quebra></quebra></p></td><td width="118" valign="top" style="width:88.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">DAI-5<quebra></quebra></p></td><td width="148" valign="top" style="width:111.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:30.4pt"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Chefe de Gabinete<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+01<quebra></quebra>
+
+Superintendente<quebra></quebra>
+
+DAS-2A<quebra></quebra>
+
+02<quebra></quebra>
+
+Diretor Geral<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+01<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+05<quebra></quebra>
+
+Coordenador Executivo<quebra></quebra>
+
+DAS-2B<quebra></quebra>
+
+01<quebra></quebra>
+
+Assessor Especial<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+05<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+03<quebra></quebra>
+
+Coordenador I<quebra></quebra>
+
+DAS-2C<quebra></quebra>
+
+11<quebra></quebra>
+
+Coordenador Técnico<quebra></quebra>
+
+DAS-2D<quebra></quebra>
+
+05<quebra></quebra>
+
+Coordenador II<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+23<quebra></quebra>
+
+Assessor Técnico<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+09<quebra></quebra>
+
+Assessor de Comunicação Social I<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Secretário de Gabinete<quebra></quebra>
+
+DAS-3<quebra></quebra>
+
+01<quebra></quebra>
+
+Coordenador III<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+07<quebra></quebra>
+
+Assessor Administrativo<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+06<quebra></quebra>
+
+Assistente Orçamentário<quebra></quebra>
+
+DAI-4<quebra></quebra>
+
+02<quebra></quebra>
+
+Oficial Gabinete<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+02<quebra></quebra>
+
+Secretário Administrativo I<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+10<quebra></quebra>
+
+Assistente IV<quebra></quebra>
+
+DAI-5<quebra></quebra>
+
+01<quebra></quebra>

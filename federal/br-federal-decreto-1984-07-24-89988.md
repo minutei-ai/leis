@@ -1,5 +1,3 @@
-###DEC-089988-0-000-24-07-1984@@@
-
 Decreto nº 89.988, de 24 de julho de 1984
 
 Outorga concessão à FUNDAÇÃO APERIPÊ DE SERGIPE, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Aracaju, Estado de Sergipe.

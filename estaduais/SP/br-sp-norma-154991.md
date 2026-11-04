@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=154991)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/emenda.constitucional/1982/compilacao-emenda.constitucional-33-30.06.1982.html)
 
 # EMENDA CONSTITUCIONAL Nº 33, DE 30 DE JUNHO DE 1982
@@ -11,14 +10,22 @@ A MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, nos termos do inciso 
 
 “Artigo 46 - O Ministério Público, instituição permanente e essencial à função jurisdicional do Estado, é responsável, perante o Judiciário, pela defesa da ordem jurídica e dos interesses indisponíveis da sociedade, pela fiel observância da Constituição e das leis, e será organizado em carreira de acordo com Lei Orgânica, observados os seguintes princípios:
 
-I - Ingresso no cargo inicial, mediante concurso público de títulos e provas realizado perante comissão presidida pelo Procurador-Geral da Justiça, composta de quatro membros, indicados pelo Conselho Superior do Ministério Público, com a participação de um representante do Conselho Seccional da Ordem dos Advogados do Brasil;<br>
-II - garantias de irredutibilidade de vencimentos, de inamovibilidade, ressalvando o disposto no inciso seguinte, e de estabilidade, dependendo a demissão, após dois anos de exercício, de sentença judiciária ou processo administrativo, assegurada ampla defesa;<br>
-III - remoção compulsória para igual entrância, somente com fundamento em conveniência do serviço, mediante representação do Procurador-Geral da Justiça, ouvido o Conselho Superior do Ministério Público e assegurada ampla defesa;<br>
-IV - promoção de entrância a entrância segundo o critério de merecimento e antigüidade, alternadamente, observando-se o mesmo critério para promoção à segunda instância;<br>
-V - vencimentos fixados com diferença não excedente a vinte por cento de uma para outra entrância, atribuindo-se aos de entrância mais elevada não menos de dois terços dos vencimentos do Procurador-Geral da Justiça;<br>
-VI - proibição do exercício da advocacia;<br>
-VII - aposentadoria voluntária após 30 (trinta) anos de serviço, com vencimentos integrais;<br>
-VIII - autonomia administrativa e financeira, dispondo de dotação orçamentária;<br>
+I - Ingresso no cargo inicial, mediante concurso público de títulos e provas realizado perante comissão presidida pelo Procurador-Geral da Justiça, composta de quatro membros, indicados pelo Conselho Superior do Ministério Público, com a participação de um representante do Conselho Seccional da Ordem dos Advogados do Brasil;
+
+II - garantias de irredutibilidade de vencimentos, de inamovibilidade, ressalvando o disposto no inciso seguinte, e de estabilidade, dependendo a demissão, após dois anos de exercício, de sentença judiciária ou processo administrativo, assegurada ampla defesa;
+
+III - remoção compulsória para igual entrância, somente com fundamento em conveniência do serviço, mediante representação do Procurador-Geral da Justiça, ouvido o Conselho Superior do Ministério Público e assegurada ampla defesa;
+
+IV - promoção de entrância a entrância segundo o critério de merecimento e antigüidade, alternadamente, observando-se o mesmo critério para promoção à segunda instância;
+
+V - vencimentos fixados com diferença não excedente a vinte por cento de uma para outra entrância, atribuindo-se aos de entrância mais elevada não menos de dois terços dos vencimentos do Procurador-Geral da Justiça;
+
+VI - proibição do exercício da advocacia;
+
+VII - aposentadoria voluntária após 30 (trinta) anos de serviço, com vencimentos integrais;
+
+VIII - autonomia administrativa e financeira, dispondo de dotação orçamentária;
+
 IX - serviço administrativo com quadro próprio e cargos que atendam às peculiaridades do Ministério Público.
 
 Artigo 47 - A administração superior do Ministério Público competirá, na forma da lei, à Procuradoria-Geral da Justiça, ao Colégio de Procuradores, ao Conselho Superior do Ministério Público e à Corregedoria Geral do Ministério Público.
@@ -29,8 +36,10 @@ Artigo 47 - A administração superior do Ministério Público competirá, na fo
 
 ~~§ 3.° - O Colégio de Procuradores, na forma a ser disciplinada em lei e pelo voto de dois terços dos seus membros, poderá destituir o Procurador-Geral da Justiça que, no curso do mandato, agir com abuso de poder, assegurada ampla defesa.”~~
 
-§ 1.º - O Procurador Geral de Justiça, Chefe do Ministério Público, com prerrogativas e representação de Secretário de Estado, será nomeado pelo Governador do Estado, com mandato de dois anos, dentre os Procuradores de Justiça indicados, por votação plurinominal, em lista tríplice elaborada por todos os Procuradores de Justiça, ressalvado o mandato do atual titular do cargo de Procurador Geral da Justiça. (NR)<br>
-§ 2.º - O Conselho Superior do Ministério Público é constituído pelo Procurador Geral de Justiça, que o preside, pelo Corregedor Geral do Ministério Público e por Procuradores de Justiça eleitos, por votação plurinominal, em escrutínio secreto, por todos os membros do Ministério Público. (NR)<br>
+§ 1.º - O Procurador Geral de Justiça, Chefe do Ministério Público, com prerrogativas e representação de Secretário de Estado, será nomeado pelo Governador do Estado, com mandato de dois anos, dentre os Procuradores de Justiça indicados, por votação plurinominal, em lista tríplice elaborada por todos os Procuradores de Justiça, ressalvado o mandato do atual titular do cargo de Procurador Geral da Justiça. (NR)
+
+§ 2.º - O Conselho Superior do Ministério Público é constituído pelo Procurador Geral de Justiça, que o preside, pelo Corregedor Geral do Ministério Público e por Procuradores de Justiça eleitos, por votação plurinominal, em escrutínio secreto, por todos os membros do Ministério Público. (NR)
+
 § 3.º - Os Procuradores de Justiça, na forma a ser disciplinada em lei, e pelo voto de 2/3 (dois terços) da totalidade dos titulares desses cargos, poderão destituir o Procurador Geral de Justiça que, no curso do mandato, agir com abuso de poder, assegurada ampla defesa." (NR)
 
 _\- §§ 1º ao 3º com redação dada pela [Emenda Constitucional nº 54, de 20/05/1986](https://www.al.sp.gov.br/norma/155031)._
@@ -43,11 +52,12 @@ _\- §§ 1º ao 3º com redação dada pela [Emenda Constitucional nº 54, de 20
 
 “Artigo - A aposentadoria voluntária após 30 (trinta) anos de serviço, com vencimentos integrais, para os membros do Ministério Público do Estado, na forma do artigo 46, inciso VII, desta Constituição, será concedida a partir de 1º de janeiro de 1983.”
 
-Assembléia Legislativa do Estado de São Paulo, aos 30 de junho de 1982.<br>
-a) JANUÁRIO MANTELLI NETO, Presidente<br>
-a) Sylvio Martini, 1.° Secretário<br>
-a) Vicente Botta, 2.° Secretário
+Assembléia Legislativa do Estado de São Paulo, aos 30 de junho de 1982.
 
-<br>
+a) JANUÁRIO MANTELLI NETO, Presidente
+
+a) Sylvio Martini, 1.° Secretário
+
+a) Vicente Botta, 2.° Secretário
 
 _\- Texto retificado no [Diário Oficial Executivo I de 02/07/1982.](http://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=19820702&Caderno=DOE-I&NumeroPagina=40)_

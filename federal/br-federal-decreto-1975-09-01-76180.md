@@ -1,5 +1,3 @@
-###DEC-076180-0-000-01-09-1975@@@
-
 DECRETO Nº 76.180 - DE 1º DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras , integrante das Faculdades da Zona Leste de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

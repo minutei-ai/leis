@@ -1,5 +1,3 @@
-###DEC-050969-0-000-17-07-1961@@@
-
 DECRETO Nº 50.969, DE 17 DE JULHO DE 1961.
 
 Revoga o Decreto nº 50.122, de 26 de janeiro de 1961, que autorizou a Prefeitura Municipal de Tatuí, Estado de São Paulo, a encampar os serviços de energia elétrica de que é concessionária a Companhia luz e Fôrça Tatuí, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092750-0-000-05-06-1986@@@
-
 DECRETO Nº 92.750, DE 5 DE JUNHO DE 1986
 
 Autoriza estrangeiro a adquirir direitos sobre terreno que menciona, situado no Município de Cabo Frio, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-065300-0-000-07-10-1969@@@
-
 DECRETO Nº 65.300 - DE 7 DE OUTUBRO DE 1969.
 
 Retifica o artigo 1º do Decreto número 49.510, de 12 de dezembro de 1960.

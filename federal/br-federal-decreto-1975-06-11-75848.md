@@ -1,5 +1,3 @@
-###DEC-075848-0-000-11-06-1975@@@
-
 DECRETO Nº 75.848, DE 11 DE JUNHO DE 1975.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

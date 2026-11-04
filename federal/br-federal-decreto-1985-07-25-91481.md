@@ -1,5 +1,3 @@
-###DEC-091481-0-000-25-07-1985@@@
-
 DECRETO Nº 91.481, DE 25 DE JULHO DE 1985
 
 Prorroga por cento e oitenta dias o prazo estabelecido no artigo 12 do Decreto nº 90.802, de 11 de janeiro de 1985.

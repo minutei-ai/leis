@@ -1,5 +1,3 @@
-###DEC-065001-0-000-15-08-1969@@@
-
 DECRETO Nº 65.001 - de 15 de Agôsto de 1969.
 
 Declara de utilidade pública a Missão Anchieta, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEL-007980-0-000-20-09-1945@@@
-
 DECRETO-LEI N. 7.980 – DE 20 DE SETEMBRO DE 1945
 
 Modifica o critério da contagem de tempo de serviço para promoção dos funcionários da, Prefeitura do Distrito Federal e dá outras providências

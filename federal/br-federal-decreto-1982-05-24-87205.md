@@ -1,5 +1,3 @@
-###DEC-087205-0-000-24-05-1982@@@
-
 Decreto nº 87.205, de 24 de maio de 1982
 
 Concede à Caraíba Metais S.A. Indústria e Comércio autorização para proceder a aumento do seu capital autorizado.

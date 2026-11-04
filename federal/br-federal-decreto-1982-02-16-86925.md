@@ -1,5 +1,3 @@
-###DEC-086925-0-000-16-02-1982@@@
-
 Decreto nº 86.925, de 16 de feVereiro de 1982
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação de áreas adicionais contíguas ao Canteiro de Obras, às de Preservação da Usina Hidrelétrica de Porto Primavera e às destinadas à construção de vilas Residenciais para posterior revenda da CESP-Companhia Energética de São Paulo, nos Estados de Mato Grosso do Sul e São Paulo.

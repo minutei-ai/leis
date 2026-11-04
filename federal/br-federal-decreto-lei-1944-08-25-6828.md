@@ -1,5 +1,3 @@
-###DEL-006828-0-000-25-08-1944@@@
-
 DECRETO-LEI N. 6.828 – DE 25 DE AGÔSTO DE 1944
 
 Cria o Serviço de Geografia e Cartografia no Instituto Brasileiro de Geografia e Estatística e dá outras providências

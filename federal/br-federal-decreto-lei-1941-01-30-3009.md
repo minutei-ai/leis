@@ -1,5 +1,3 @@
-###DEL-003009-0-000-30-01-1941@@@
-
 DECRETO-LEI N. 3.009 – DE 30 DE JANEIRO DE 1941
 
 Transfere gratuitamente à Associação Comercial do Maranhão o domínio pleno de terreno na cidade de São Luiz, Estado do Maranhão, e dá outras providências.

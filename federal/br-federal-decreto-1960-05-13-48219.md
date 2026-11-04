@@ -1,5 +1,3 @@
-###DEC-048219-0-000-13-05-1960@@@
-
 decreto nº 48.219, de 13 de maio de 1960.
 
 Autoriza a S.A. Mineração da Trindade a pesquisar minérios de ferro e manganês no município de Mariana, Estado de Minas Gerais.

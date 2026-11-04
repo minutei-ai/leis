@@ -1,5 +1,3 @@
-###DEC-049272-0-000-17-11-1960@@@
-
 decreto nº 49.272, de 17 de novembro de 1960.
 
 Autoriza o cidadão brasileiro Manoel de Matos Júnior a pesquisar calcário e mármore no município de Arcos, Estado de Minas Gerais.

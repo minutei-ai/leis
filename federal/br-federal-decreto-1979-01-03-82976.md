@@ -1,5 +1,3 @@
-###DEC-082976-0-000-03-01-1979@@@
-
 DECRETO Nº 82.976, DE 03 DE JANEIRO DE 1979
 
 Concede à Mineração Curimbaba Ltda. o direito de lavrar bauxita e argila no Município de Poços de Caldas, Estado de Minas Gerais.

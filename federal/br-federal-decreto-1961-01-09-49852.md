@@ -1,5 +1,3 @@
-###DEC-049852-0-000-09-01-1961@@@
-
 DECRETO Nº 49.852, DE 9 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio rio Limitada para estabelecer uma estação de radiotelevisão.

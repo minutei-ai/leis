@@ -1,5 +1,3 @@
-###DEC-057347-0-000-25-11-1965@@@
-
 DECRETO Nº 57.347, DE 25 DE NOVEMBRO DE 1965.
 
 Altera a redação do Artigo 2º do Decreto nº 54.999, de 13 de Novembro de 1964.

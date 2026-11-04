@@ -1,5 +1,3 @@
-###DEC-049523-0-000-12-12-1960@@@
-
 DECRETO Nº 49.523, DE 12 DE DEZEMBRO DE 1960.
 
 Retifica o art. 1º do Decreto número 47.598, de 6 de janeiro de 1960.

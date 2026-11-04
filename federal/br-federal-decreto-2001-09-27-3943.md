@@ -1,5 +1,3 @@
-###DEC-003943-0-000-27-09-2001@@@
-
 DECRETO Nº 3.943, DE 27 DE SETEMBRO DE 2001
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

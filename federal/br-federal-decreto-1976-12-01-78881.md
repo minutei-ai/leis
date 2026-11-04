@@ -1,5 +1,3 @@
-###DEC-078881-0-000-01-12-1976@@@
-
 DECRETO Nº 78.881, de 1º de Dezembro de 1976.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão de passagem em favor de a Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, situados no Município de Canoas, no Estado do Rio Grande do Sul.

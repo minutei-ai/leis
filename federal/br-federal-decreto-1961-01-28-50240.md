@@ -1,5 +1,3 @@
-###DEC-050240-0-000-28-01-1961@@@
-
 DECRETO Nº 50.240, DE 28 DE JANEIRO DE 1961.
 
 Concede indulto a sentenciados pela forma que especifica.

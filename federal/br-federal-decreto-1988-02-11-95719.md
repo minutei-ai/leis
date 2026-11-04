@@ -1,7 +1,3 @@
-1
-
-###DEC-095719-0-000-11-02-1988@@@
-
 DECRETO Nº 95.719, DE 11 DE FEVEREIRO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Estrela do Pará", também conhecido por "Flor do Pará", classificado como latifúndio por exploração, situado no Município de Rio Maria, Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.623, de 2 de maio de 1986, e dá outras providências.

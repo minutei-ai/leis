@@ -1,5 +1,3 @@
-###DEC-091109-0-000-12-03-1985@@@
-
 DECRETO nº 91.109, dE 12 de MARÇO DE 1985
 
 Outorga concessão à RÁDIO E TELEVISÃO BANDEIRANTES S/A, para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Brasília, Distrito Federal.

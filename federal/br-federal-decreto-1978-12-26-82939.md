@@ -1,5 +1,3 @@
-###DEC-082939-0-000-26-12-1978@@@
-
 Decreto nº 82 939, de 26 de dezembro de 1978
 
 Concede reconhecimento ao curso de Enfermagem, ministrado pela Escola Superior de Enfermagem de Mossoró, com sede na cidade de Mossoró, Estado do Rio Grande do Norte.

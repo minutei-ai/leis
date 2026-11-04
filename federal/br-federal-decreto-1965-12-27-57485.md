@@ -1,5 +1,3 @@
-###DEC-057485-0-000-27-12-1965@@@
-
 DECRETO Nº 57.485, DE 27 DE DEZEMBRO DE 1965.
 
 Declara de utilidade pública para fins de desapropriação em favor do Banco Nacional de Crédito Cooperativo, imóveis situados nas Cidades do Rio de Janeiro - Estado da Guanabara, Belém - Estado do Pará e Curitiba - Estado do Paraná.
@@ -21,8 +19,6 @@ Brasília, 27 de dezembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Ney Braga
-
-###DEC-057485-0-000-27-12-1965@@@RET01+++
 
 DECRETO Nº 57.485, DE 27 DE Dezembro DE 1965.
 

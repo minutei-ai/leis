@@ -1,5 +1,3 @@
-###DEC-044991-0-000-02-12-1958@@@
-
 DECRETO Nº 44.991, DE 2 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro José Lopes da Silva a lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

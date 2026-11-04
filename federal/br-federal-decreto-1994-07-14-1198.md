@@ -1,5 +1,3 @@
-###DEC-001198-0-000-14-07-1994@@@
-
 DECRETO N° 1.198, DE 14 DE JULHO DE 1994
 
 Altera a redação do art. 6° do Decreto n ° 172, de 8 de julho de l991.

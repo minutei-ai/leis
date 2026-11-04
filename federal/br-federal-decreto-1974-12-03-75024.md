@@ -1,5 +1,3 @@
-###DEC-075024-0-000-03-12-1974@@@
-
 DECRETO Nº 75.024, DE 3 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Administração da Universidade Católica de Pelotas, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-087083-0-000-05-04-1982@@@
-
 Decreto nº 87.083, de 05 de abril de 1982
 
 Suspende, por inconstitucionalidade, a execução da Emenda Constitucional nº 17, de 24 de junho de 1980, do Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001401-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.401, DE 11 DE ABRIL DE 1996
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

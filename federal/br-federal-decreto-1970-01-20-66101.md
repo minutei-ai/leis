@@ -1,5 +1,3 @@
-###DEC-066101-0-000-20-01-1970@@@
-
 DECRETO Nº 66.101 - DE 20 DE JANEIRO DE 1970
 
 Fixa para o ano de 1969, as proporções para o cálculo de vagas para a cota compulsória, no Ministério da Aeronáutica.

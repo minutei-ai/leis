@@ -1,5 +1,3 @@
-###DEC-094594-0-000-10-07-1987@@@
-
 DECRETO N° 94.594, DE 10 DE JULHO DE 1987
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no período 1962/1980, subscrito entre o Brasil e o México (Acordo n° 9).

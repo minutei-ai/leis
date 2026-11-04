@@ -1,5 +1,3 @@
-###DEC-068991-0-000-28-07-1971@@@
-
 DECRETO Nº 68.991, DE 28 DE JULHO DE 1971.
 
 Dispõe sôbre a elaboração e o registro da lotação de cargos e empregos dos órgãos da Administração Federal direta e das Autarquias e dá outras providências.

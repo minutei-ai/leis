@@ -1,5 +1,3 @@
-###DEL-006478-0-000-09-05-1944@@@
-
 DECRETO-LEI N. 6.478 – DE 9 DE MAIO DE 1944
 
 Eleva o vencimento mensal do Diretor da Rêde de Viação Paraná-Santa Catarina

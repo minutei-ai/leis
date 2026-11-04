@@ -1,5 +1,3 @@
-###DEC-064242-0-000-21-03-1969@@@
-
 DECRETO Nº 64.242, DE 21 DE MARÇO DE 1969.
 
 Altera a estrutura administrativa do Departamento Nacional de Estradas e Rodagem, e dá outras providências.

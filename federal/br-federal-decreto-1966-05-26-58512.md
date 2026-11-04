@@ -1,5 +1,3 @@
-###DEC-058512-0-000-26-05-1966@@@
-
 Decreto nº 58.512, de 26 de maio de 1966.
 
 Altera o Regulamento do Serviço Social da Indústria (SESI).

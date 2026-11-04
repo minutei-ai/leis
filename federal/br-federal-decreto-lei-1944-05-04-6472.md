@@ -1,5 +1,3 @@
-###DEL-006472-0-000-04-05-1944@@@
-
 DECRETO-LEI N. 6.472 – DE 4 DE MAIO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar o Real Gabinete Português de Leitura de 50% (cinqüenta por cento) do pagamento do impôsto predial relativo ao imóvel sito na Rua Luiz de Camões nº 30, na forma que menciona

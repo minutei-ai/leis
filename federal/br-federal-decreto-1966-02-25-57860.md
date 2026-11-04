@@ -1,5 +1,3 @@
-###DEC-057860-0-000-25-02-1966@@@
-
 DECRETO Nº 57.860, DE 25 DE FEVEREIRO DE 1966.
 
 Transfere concessão.

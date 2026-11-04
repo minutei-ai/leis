@@ -1,5 +1,3 @@
-###DEC-075959-0-000-10-07-1975@@@
-
 DECRETO Nº 75.959 - DE 10 DE JULHO DE 1975.
 
 Abre à Presidência da República, em favor da Escola Superior de Guerra, o Crédito suplementar de Cr$ 953.900,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -10,11 +8,65 @@ DECRETA:
 
 Art. 1º Fica aberto à Presidência da República, em favor da Escola Superior de Guerra, o crédito suplementar no valor de Cr$ 953.900,00 (novecentos e cinqüenta e três mil e novecentos cruzeiros), para reforço de dotações orçamentárias consignadas ao subanexo 1100, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$ 1,00</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>1100</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- PRESIDÊ</span><span>NCIA DA REPÚ</span><span>BLIC</span><span>A</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>1106</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Escola Superior de Guerra</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>1106.06092062.482</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Estudos Relacionados à</span><span> Seguranç</span><span>a Nacional</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.1.1</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Pessoal Civil</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>01</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Vencimentos e Vantagens Fixas ..........................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>893.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.5.0</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Despesas de Exercí</span><span>cios Anteriores .....................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>60.900</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>TOTAL ....................................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>953.9000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+1100
+
+- PRESIDÊNCIA DA REPÚBLICA
+
+1106
+
+- Escola Superior de Guerra
+
+1106.06092062.482
+
+- Estudos Relacionados à Segurança Nacional
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas ..........................................
+
+893.000
+
+3.1.5.0
+
+- Despesas de Exercícios Anteriores .....................................
+
+60.900
+
+TOTAL ....................................................................................
+
+953.9000
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotação orçamentária consignada no vigente Orçamento ao subanexo 2800, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:340.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$ 1,00</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2800</span></p></td><td style="width:340.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- ENCARGOS GERAIS DA UNIÃ</span><span>O</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2802</span></p></td><td style="width:340.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Recursos sob Supervisã</span><span>o da Secretaria de Planejamento da Presidê</span><span>ncia da Repú</span><span>blica</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Projeto</span></p></td><td style="width:340.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- 2802.03070213.100</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.1.1.1</span></p></td><td style="width:340.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Pessoal Civil</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>01</span></p></td><td style="width:340.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Vencimentos e Vantagens Fixas ...................................................................</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>893.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+2800
+
+- ENCARGOS GERAIS DA UNIÃO
+
+2802
+
+- Recursos sob Supervisão da Secretaria de Planejamento da Presidência da República
+
+Projeto
+
+- 2802.03070213.100
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas ...................................................................
+
+893.000
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

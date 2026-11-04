@@ -1,5 +1,3 @@
-###DEC-073043-0-000-30-10-1973@@@
-
 DECRETO Nº 73.043, DE 30 DE OUTUBRO DE 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Difusora Ouro Verde Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Curitiba, Estado do Paraná.

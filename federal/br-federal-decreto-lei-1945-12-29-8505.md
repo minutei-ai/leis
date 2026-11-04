@@ -1,5 +1,3 @@
-###DEL-008505-0-000-29-12-1945@@@
-
 DECRETO-LEI N. 8.505 – DE 29 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 369.099,90, à verba que especifica.

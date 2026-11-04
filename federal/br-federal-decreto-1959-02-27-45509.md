@@ -1,5 +1,3 @@
-###DEC-045509-0-000-27-02-1959@@@
-
 DECRETO Nº 45.509, DE 27 DE FEVEREIRO DE 1959.
 
 Concede à Sociedade Pousada & Cia. Ltda, autorização para continuar a funcionar com a denominação de “Navegação e Comércio São Paulo Rio Grande Limitada”.

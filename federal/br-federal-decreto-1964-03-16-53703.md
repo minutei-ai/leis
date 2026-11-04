@@ -1,5 +1,3 @@
-###DEC-053703-0-000-16-03-1964@@@
-
 DECRETO Nº 53.703, DE 16 DE MARÇO DE 1964.
 
 Autoriza o Ministério da Marinha a complementar os vencimentos dos servidores que exerçam categorias congêneres às pertencentes às autarquias.

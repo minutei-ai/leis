@@ -1,7 +1,3 @@
-1
-
-###DEC-001414-0-000-08-03-1995@@@
-
 DECRETO Nº 1.414, DE 8 DE MARÇO DE 1995
 
 Altera dispositivos do Decreto nº 41.639, de 31 de maio de 1957, que cria, no Ministério da Aeronáutica, a Medalha-Prêmio Força Aérea Brasileira.

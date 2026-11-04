@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2c1570ed-3b80-4e1d-af19-eccb1932bcd5/texto#nowhere)
 
-###DEL-002062-0-000-04-10-1983@@@
-
 # Decreto-lei nº 2.062, de 04 de Outubro de 1983
 
 Autoriza a dispensa de obrigações tributárias acessórias, consideradas desnecessárias ao interesse da arrecadação ou fiscalização de tributos federais.

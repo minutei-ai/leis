@@ -1,5 +1,3 @@
-###DEC-061305-0-000-08-09-1967@@@
-
 DECRETO Nº 61.305, DE 8 DE SETEMBRO DE 1967.
 
 Abre ao Ministério da Justiça o crédito suplementar de NCr$186.054,77 (cento e oitenta e seis mil, cinqüenta e quatro cruzeiros novos e setenta e sete centavos), para refôrço de dotação orçamentária.
@@ -10,11 +8,49 @@ Decreta:
 
 Art. 1º Fica aberto ao Ministério da Justiça o crédito suplementar de NCr$186.054,77 (cento e oitenta e seis mil, cinqüenta e quatro cruzeiros novos e setenta e sete centavos), para refôrço de dotação consignada no Orçamento Geral da União para o exercício de 1967 ao Subanexo 4.10.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.10.00</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Ministério da Justiça</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.10.01</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Gabinete do Ministro</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.0.0.0</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Despesas Correntes</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.0.0</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Despesas de Custeio</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.1.0</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Pessoal</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.1.1</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Pessoal Civil</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>02.00</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Despesas variáveis com pessoal civil</span></p></td></tr></tbody></table>
+4.10.00
+
+- Ministério da Justiça
+
+4.10.01
+
+- Gabinete do Ministro
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.1.0.0
+
+- Despesas de Custeio
+
+3.1.1.0
+
+- Pessoal
+
+3.1.1.1
+
+- Pessoal Civil
+
+02.00
+
+- Despesas variáveis com pessoal civil
 
 Art. 2º Para atender as despesas decorrentes do presente decreto deverá ser anulada igual quantia de dotações orçamentárias consignadas ao Subanexo 4.10.13 - Departamento de Administração (Órgãos Dependentes), assim discriminada:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:38.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.0.0.0</span></p></td><td style="width:305.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Despesas Correntes</span></p></td><td style="width:73.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:38.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.0.0</span></p></td><td style="width:305.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Despesas de Custeio</span></p></td><td style="width:73.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:38.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.4.0</span></p></td><td style="width:305.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Encargos Diversos ............................................................................</span></p></td><td style="width:73.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$186.054,77</span></p></td></tr></tbody></table>
+3.0.0.0
+
+- Despesas Correntes
+
+3.1.0.0
+
+- Despesas de Custeio
+
+3.1.4.0
+
+- Encargos Diversos ............................................................................
+
+NCr$186.054,77
 
 Art. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

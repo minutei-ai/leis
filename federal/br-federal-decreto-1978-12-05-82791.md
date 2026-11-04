@@ -1,5 +1,3 @@
-###DEC-082791-0-000-05-12-1978@@@
-
 Decreto nº 82.791, de 05 de dezembro de 1978.
 
 Altera o Decreto nº 80.782, de 22 de novembro de 1977, que concedeu reconhecimento aos cursos de Pedagogia, Letras e de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Ouro Fino, com sede na cidade de Ouro Fino, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-000574-0-000-23-06-1992@@@
-
 DECRETO Nº 574, DE 23 DE JUNHO DE 1992
 
 Regulamenta o art. 7º da Lei n° 8.248, de 23 de outubro de 1991, que dispõe sobre dedução do Imposto de Renda para subscrição de ações novas de empresas brasileiras de capital nacional, produtoras de bens e serviços de informática, nas condições que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008694-0-000-16-01-1946@@@
-
 DECRETO-LEI N. 8.694 – DE 16 DE JANEIRO DE 1946
 
 Abre créditos adicionais ao Ministério da Agricultura, na importância total de Cr$ 2.600.000,00, destinados a acôrdos para o fomento da produção animal com os Estados do Piauí, Ceará e Maranhão.

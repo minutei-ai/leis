@@ -1,5 +1,3 @@
-###DEC-059443-0-000-01-11-1966@@@
-
 DECRETO Nº 59.443, DE 1º DE NOVEMBRO DE 1966.
 
 Regulamenta a emissão dos títulos da dívida agrária, autorizados pelo artigo 105 da Lei nº 4.504, de 30 de novembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-079141-0-000-18-01-1977@@@
-
 DECRETO Nº 79.141, DE 18 DE JANEIRO DE 1977.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Administração, com sede na cidade de São Paulo, Estado de São Paulo.

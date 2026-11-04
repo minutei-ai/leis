@@ -1,5 +1,3 @@
-###DEC-048018-0-000-05-04-1960@@@
-
 decreto nº 48.018, de 5 de abril de 1960.
 
 Concede à Mineração Ipê Ltda. autorização para funcionar como emprêsa de mineração.

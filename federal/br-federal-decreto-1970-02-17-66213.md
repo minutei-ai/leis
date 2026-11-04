@@ -1,5 +1,3 @@
-###DEC-066213-0-000-17-02-1970@@@
-
 Decreto nº 66.213 - de 17 de fevereiro de 1970
 
 Declara de utilidade pública o Instituto Sagrado Coração de Jesus, com sede na Cidade Industrial, Contagem, Estado de Minas Gerais.

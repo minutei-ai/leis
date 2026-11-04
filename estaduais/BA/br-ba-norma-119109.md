@@ -2,8 +2,10 @@ LEI Nº 6.445 DE 07 DE DEZEMBRO DE 1992
 
 Dispõe sobre o Fundo de Desenvolvimento Social e Econômico - FUNDESE e dá outras providências.
 
-Ver também:<br>
-[Lei nº 7.599, de 07 de fevereiro de 2000](https://www.legislabahia.ba.gov.br/documentos/lei-no-7599-de-07-de-fevereiro-de-2000#LO_7_599) \- Dispõe sobre o Fundo de Desenvolvimento Social e Econômico - FUNDESE e dá outras providências. [Art. 1º da Lei nº 7.537, de 28 de outubro de 1999](https://www.legislabahia.ba.gov.br/documentos/lei-no-7537-de-28-de-outubro-de-1999#LO_7_537_Art__1) : "Fica criado o Programa Especial de Incentivo ao Setor Automotivo da Bahia - PROAUTO, vinculado ao Fundo de Desenvolvimento Social e Econômico - FUNDESE, regulado pela Lei nº 6.445, de 7 de dezembro de 1992, alterada pela Lei nº 7.503, de 13 de agosto de 1999, com a finalidade de estimular a implantação e o desenvolvimento de empreendimentos industriais desse setor, de relevante interesse para a economia do Estado."<br>
+Ver também:
+
+[Lei nº 7.599, de 07 de fevereiro de 2000](https://www.legislabahia.ba.gov.br/documentos/lei-no-7599-de-07-de-fevereiro-de-2000#LO_7_599) \- Dispõe sobre o Fundo de Desenvolvimento Social e Econômico - FUNDESE e dá outras providências. [Art. 1º da Lei nº 7.537, de 28 de outubro de 1999](https://www.legislabahia.ba.gov.br/documentos/lei-no-7537-de-28-de-outubro-de-1999#LO_7_537_Art__1) : "Fica criado o Programa Especial de Incentivo ao Setor Automotivo da Bahia - PROAUTO, vinculado ao Fundo de Desenvolvimento Social e Econômico - FUNDESE, regulado pela Lei nº 6.445, de 7 de dezembro de 1992, alterada pela Lei nº 7.503, de 13 de agosto de 1999, com a finalidade de estimular a implantação e o desenvolvimento de empreendimentos industriais desse setor, de relevante interesse para a economia do Estado."
+
 [Lei nº 7.503, de 13 de agosto de 1999](https://www.legislabahia.ba.gov.br/documentos/lei-no-7503-de-13-de-agosto-de-1999#LO_7_503) \- Incorpora ao Fundo de Desenvolvimento Social e Econômico - FUNDESE o patrimônio dos fundos que indica e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -18,7 +20,8 @@ I - a proposta deverá ser encaminhada à Secretaria da Indústria, Comércio e 
 
 II - a análise de viabilidade e compatibilidade do projeto caberá ao Conselho Deliberativo do PROCOMEX, conforme dispuser o regulamento.
 
-Redação do parágrafo único do art. 2º de acordo com o [art. 7º da Lei nº 7.024, de 23 de janeiro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7024-de-23-de-janeiro-de-1997#LO_7_024_Art__7_art__2) .<br>
+Redação do parágrafo único do art. 2º de acordo com o [art. 7º da Lei nº 7.024, de 23 de janeiro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7024-de-23-de-janeiro-de-1997#LO_7_024_Art__7_art__2) .
+
 Redação original: "Parágrafo único - Para fins de financiamento, as propostas de programas serão previamente encaminhadas à Secretaria do Planejamento, Ciência e Tecnologia, para análise quanto à viabilidade e compatibilidade com as diretrizes do Plano Plurianual, e posterior aprovação do Chefe do Poder Executivo ."
 
 Art. 3º- Os financiamentos com recursos do FUNDESE destinam-se, única e exclusivamente, ao setor privado da economia e estão sujeitos, obrigatoriamente, ao pagamento de encargos financeiros.
@@ -49,14 +52,16 @@ Art. 5º - O gestor financeiro do FUNDESE será o Banco de Desenvolvimento do Es
 
 § 3º - Do valor dos financiamentos concedidos através do PROCOMEX, serão destinados 3,5% (três inteiros e cinco décimos por cento) à constituição de reserva do Programa para incentivo exclusivamente às exportações.
 
-Redação do art. 5º de acordo com o [art. 7º da Lei nº 7.024, de 23 de janeiro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7024-de-23-de-janeiro-de-1997#LO_7_024_Art__7_art__5) .<br>
+Redação do art. 5º de acordo com o [art. 7º da Lei nº 7.024, de 23 de janeiro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7024-de-23-de-janeiro-de-1997#LO_7_024_Art__7_art__5) .
+
 Redação original: "Art. 5º - O gestor financeiro do FUNDESE será o Banco de Desenvolvimento do Estado da Bahia S/A - DESENBANCO, que estabelecerá as respectivas linhas operacionais de financiamento, ouvida a Secretaria do Planejamento, Ciência e Tecnologia. Parágrafo único - O DESENBANCO fará jus a uma taxa de administração de 3% (três por cento) ao ano, calculada sobre o patrimônio líquido do Fundo e apropriada mensalmente."
 
 Art. 6º- O FUNDESE terá contabilidade própria, compatível com o sistema adotado pelo DESENBANCO.
 
 Art. 7º - O DESENBANCO remeterá à Secretaria do Planejamento, Ciência e Tecnologia, para fins de acompanhamento, relatórios trimestrais e anuais sobre as aplicações do Fundo, e à Secretaria da Indústria, Comércio e Mineração, quando se tratar do PROCOMEX.
 
-Redação do art. 7º de acordo com o [art. 7º da Lei nº 7.024, de 23 de janeiro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7024-de-23-de-janeiro-de-1997#LO_7_024_Art__7_art__7) .<br>
+Redação do art. 7º de acordo com o [art. 7º da Lei nº 7.024, de 23 de janeiro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7024-de-23-de-janeiro-de-1997#LO_7_024_Art__7_art__7) .
+
 Redação original: "Art. 7º - O DESENBANCO remeterá à Secretaria do Planejamento, Ciência e Tecnologia, para fins de acompanhamento, relatórios trimestrais e anuais sobre as aplicações do Fundo."
 
 Art. 8º - Além dos requisitos e condições estabelecidos em regulamento, não será concedido financiamento com recursos do FUNDESE às empresas que apresentem restrições cadastrais ou estejam inadimplentes em suas obrigações com o Fisco ou em relação à legislação e normas ambientais do Estado.

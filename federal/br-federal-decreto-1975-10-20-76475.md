@@ -1,5 +1,3 @@
-###DEC-076475-0-000-20-10-1975@@@
-
 DECRETO Nº 76.475, DE 20 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, as áreas de terra e respectivas benfeitorias, necessárias à instalação do canteiro de obras e demais unidades de serviço, vinculadas e necessárias à construção da Usina Hidroelétrica de Salto Santiago, da Centrais Elétricas do Sul do Brasil S.A..- ELETROSUL, nos Municípios de Chopinzinho e de Laranjeiras do Sul, no Estado do Paraná.
@@ -14,29 +12,2351 @@ Art. 2º - As áreas de terra e respectivas benfeitorias, referidas no artigo pr
 
 Propriedade 01 (1ª parte) - Parte-se da Cidade de Chopinzinho pela estrada estadual que liga com Laranjeiras do Sul, até o Distrito de São Luiz, onde toma-se a estrada Municipal São Luiz-Saudade-Laranjeiras do Sul (via balsa), até 320 metros além da ponte (bueiro) sobre o córrego Água Branca. A propriedade, atribuída à Marsonave Giacomet Indústria de Madeiras S/A, situa-se entre o ponto acima mencionado e o porto da balsa do Rio Iguaçú, com os seguintes limites e confrontações: partindo do RN2 situado à margem esquerda do Rio Iguaçú; deste ponto inflete para estaca 1 com o rumo 30º15' NW e distância de 24,60m; deste ponto inflete de estaca a estaca com rumo e distância entre si, sempre margeando o lado esquerdo do Rio Iguaçú, até a estaca G-10 como segue:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1 - 2</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16º36' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53,49</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2 - 3</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03º33' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,18</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3 - 4</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º51' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52,49</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4 - 5</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24º41' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29,24</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5 - 6</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08º54' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">74,53</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6 - 7</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04º55' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44,60</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7 - RN3</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21º26' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">70,06</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN3 - 8</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">00º49' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">149,42</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8 - 9</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º38' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,95</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9 - 10</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01º15' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,68</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10 - 11</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07º48' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73,23</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11 - 12</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">05º01' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76,62</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12 - 13</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26º34' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,48</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13 - 14</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01º57' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,85</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14 - 15</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31º30' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">51,01</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15 - 16</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37º41' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">95,93</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16 - 17</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32º58' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26,46</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17 - 18</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23º58' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">49,28</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18 - 19</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04º28' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,21</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19 - 20</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º54' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75,32</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20 - 21</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º37' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,18</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21 - 22</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20º41' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26,95</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22 - 23</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02º27' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47,63</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23 - RN5</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º53' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">148,34</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN5 - 24</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22º57' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">49,98</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24 - 25</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19º51' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67,64</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25 - RN Azul</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20º40' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">51,08</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN Azul - 101</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15º19, NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">70,13</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101 - 102</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26º12' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,43</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102 - 103</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12º20' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,22</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">103 - 104</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25º51' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">98,53</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">104 - 105</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42º23' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">98,48</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">105 - 106</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58º00' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">110,26</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">106 - 107</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38º00' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">121,83</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">107 - 108</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">59º46' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">127,44</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">108 - 109</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55º14' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">72,78</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">109 - 110</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58º07' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">78,63</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">110 - 111</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42º40' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56,67</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111 - 112</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24º36' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,97</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">112 - 113</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38º21' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40,97</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">113 - 114</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53º59' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31,60</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">114 - 115</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">84º30' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76,38</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">115 - 116</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">74º52' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35,85</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">116 - 117</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52º10' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54,29</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">117 - 118</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37º07' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">118 - 119</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07º10' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">57,28</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">119 - 120</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18º44' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38,06</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120 - 121</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04º49' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77,32</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">121 - 122</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º01' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,98</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">122 - 123</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23º39' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67,61</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">123 - 124</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º41' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,16</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">124 - 125</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01º08' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">62,98</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">125 - 126</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20º01' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">123,92</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">126 - 127</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11º51' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56,09</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">127 - 128</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">57º36' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">64,18</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">128 - 129</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44º28' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32,24</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">129 - RN33</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38º46' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47,22</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN33 - 130</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42º38' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39,34</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">130 - J17</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24º06' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76,30</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J17 - J16</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24º49' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52,09</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J16 - J15</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45º40' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55,67</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J15 - J14</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02º30' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37,17</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J14 - J13</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07º32' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6,82</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J13 - J12</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47º08' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,16</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J12 - J11</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41º58' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19,55</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J11 - J10</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34º13' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47,98</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J10 - J9</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">85º31' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">80,49</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J9 - J8</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42º38' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29,12</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J8 - J7</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52º35' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29,94</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J7 - J6</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52º51' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76,23</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J6 - J5</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36º04' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45,60</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J5 - J4</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08º19' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,03</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J4 - J3</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º22' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73,20</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J3 - J2</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21º10' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39,82</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J2 - J1</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38º27' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43,48</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">J1 - 139</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35º04' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24,59</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">139 - 140</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24º31' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66,56</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">140 - RN368</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">85º17' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66,53</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN368 - 141</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20º41' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">197,84</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">141 - 142</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">00º15' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">133,35</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">142 - 143</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53º45' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">93,79</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">143 - 144</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43º28' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60,83</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">144 - 145</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21º32' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39,23</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">145 - 146</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01º58' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40,27</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">146 - 147</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22º18' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111,24</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">147 - 148</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16º54' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">68,91</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">148 - 149</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26º39' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">146,14</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">149 - 150</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07º23' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">108,42</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">150 - 151</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32º25' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">140,30</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">151 - 152</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27º09' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47,48</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">152 - 153</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24º18' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44,78</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">153 - 154</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04º42' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">68,37</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">154 - G10</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14º16' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">62,39</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+1 - 2
+
+16º36' NW
+
+53,49
+
+2 - 3
+
+03º33' NW
+
+50,18
+
+3 - 4
+
+13º51' NW
+
+52,49
+
+4 - 5
+
+24º41' NW
+
+29,24
+
+5 - 6
+
+08º54' NW
+
+74,53
+
+6 - 7
+
+04º55' NW
+
+44,60
+
+7 - RN3
+
+21º26' NW
+
+70,06
+
+RN3 - 8
+
+00º49' NE
+
+149,42
+
+8 - 9
+
+06º38' NE
+
+50,95
+
+9 - 10
+
+01º15' NE
+
+50,68
+
+10 - 11
+
+07º48' NE
+
+73,23
+
+11 - 12
+
+05º01' NE
+
+76,62
+
+12 - 13
+
+26º34' NE
+
+50,48
+
+13 - 14
+
+01º57' NE
+
+25,85
+
+14 - 15
+
+31º30' NE
+
+51,01
+
+15 - 16
+
+37º41' NE
+
+95,93
+
+16 - 17
+
+32º58' NE
+
+26,46
+
+17 - 18
+
+23º58' NE
+
+49,28
+
+18 - 19
+
+04º28' NW
+
+50,21
+
+19 - 20
+
+13º54' NE
+
+75,32
+
+20 - 21
+
+13º37' NW
+
+25,18
+
+21 - 22
+
+20º41' NE
+
+26,95
+
+22 - 23
+
+02º27' NW
+
+47,63
+
+23 - RN5
+
+06º53' NW
+
+148,34
+
+RN5 - 24
+
+22º57' NW
+
+49,98
+
+24 - 25
+
+19º51' NW
+
+67,64
+
+25 - RN Azul
+
+20º40' NW
+
+51,08
+
+RN Azul - 101
+
+15º19, NW
+
+70,13
+
+101 - 102
+
+26º12' NW
+
+41,43
+
+102 - 103
+
+12º20' NW
+
+41,22
+
+103 - 104
+
+25º51' NW
+
+98,53
+
+104 - 105
+
+42º23' NW
+
+98,48
+
+105 - 106
+
+58º00' NW
+
+110,26
+
+106 - 107
+
+38º00' NW
+
+121,83
+
+107 - 108
+
+59º46' NW
+
+127,44
+
+108 - 109
+
+55º14' NW
+
+72,78
+
+109 - 110
+
+58º07' NW
+
+78,63
+
+110 - 111
+
+42º40' NW
+
+56,67
+
+111 - 112
+
+24º36' NW
+
+50,97
+
+112 - 113
+
+38º21' NW
+
+40,97
+
+113 - 114
+
+53º59' NW
+
+31,60
+
+114 - 115
+
+84º30' NW
+
+76,38
+
+115 - 116
+
+74º52' SW
+
+35,85
+
+116 - 117
+
+52º10' SW
+
+54,29
+
+117 - 118
+
+37º07' SW
+
+55,00
+
+118 - 119
+
+07º10' SW
+
+57,28
+
+119 - 120
+
+18º44' SW
+
+38,06
+
+120 - 121
+
+04º49' SW
+
+77,32
+
+121 - 122
+
+06º01' SW
+
+50,98
+
+122 - 123
+
+23º39' SW
+
+67,61
+
+123 - 124
+
+06º41' SW
+
+50,16
+
+124 - 125
+
+01º08' SW
+
+62,98
+
+125 - 126
+
+20º01' SW
+
+123,92
+
+126 - 127
+
+11º51' SW
+
+56,09
+
+127 - 128
+
+57º36' SW
+
+64,18
+
+128 - 129
+
+44º28' SW
+
+32,24
+
+129 - RN33
+
+38º46' SW
+
+47,22
+
+RN33 - 130
+
+42º38' SW
+
+39,34
+
+130 - J17
+
+24º06' SW
+
+76,30
+
+J17 - J16
+
+24º49' SW
+
+52,09
+
+J16 - J15
+
+45º40' SE
+
+55,67
+
+J15 - J14
+
+02º30' SE
+
+37,17
+
+J14 - J13
+
+07º32' SW
+
+6,82
+
+J13 - J12
+
+47º08' SW
+
+25,16
+
+J12 - J11
+
+41º58' SW
+
+19,55
+
+J11 - J10
+
+34º13' SW
+
+47,98
+
+J10 - J9
+
+85º31' SW
+
+80,49
+
+J9 - J8
+
+42º38' SW
+
+29,12
+
+J8 - J7
+
+52º35' SW
+
+29,94
+
+J7 - J6
+
+52º51' SW
+
+76,23
+
+J6 - J5
+
+36º04' SW
+
+45,60
+
+J5 - J4
+
+08º19' SE
+
+42,03
+
+J4 - J3
+
+13º22' SE
+
+73,20
+
+J3 - J2
+
+21º10' SE
+
+39,82
+
+J2 - J1
+
+38º27' SE
+
+43,48
+
+J1 - 139
+
+35º04' SW
+
+24,59
+
+139 - 140
+
+24º31' SW
+
+66,56
+
+140 - RN368
+
+85º17' SE
+
+66,53
+
+RN368 - 141
+
+20º41' SW
+
+197,84
+
+141 - 142
+
+00º15' SE
+
+133,35
+
+142 - 143
+
+53º45' SE
+
+93,79
+
+143 - 144
+
+43º28' SE
+
+60,83
+
+144 - 145
+
+21º32' SE
+
+39,23
+
+145 - 146
+
+01º58' SW
+
+40,27
+
+146 - 147
+
+22º18' SE
+
+111,24
+
+147 - 148
+
+16º54' SE
+
+68,91
+
+148 - 149
+
+26º39' SW
+
+146,14
+
+149 - 150
+
+07º23' SW
+
+108,42
+
+150 - 151
+
+32º25' SW
+
+140,30
+
+151 - 152
+
+27º09' SE
+
+47,48
+
+152 - 153
+
+24º18' SE
+
+44,78
+
+153 - 154
+
+04º42' SE
+
+68,37
+
+154 - G10
+
+14º16' SW
+
+62,39
 
 e deste ponto (G10) inflete para a estaca G4=HO, com o rumo de 53º11' SE e distância de 762,14m, confrontando-se com Antônio e Virgínio Bordignon; deste ponto inflete para a estaca 34 com o rumo 59º48' NE e distância de 911,48m, confrontando-se com Luiz Giacomini; deste ponto inflete de estaca a estaca com rumo e distância entre si, sempre margeando o lado esquerdo do Rio Iguaçú até o RN2 onde teve início esta descrição, como segue:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34 - 35</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15º17' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44,38</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35 - 36</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39º25' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">59,79</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36 - 37</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21º32' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34,40</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37 - 38</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16º10' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">124,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38 - RN2</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03º02' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">114,85</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+34 - 35
+
+15º17' NW
+
+44,38
+
+35 - 36
+
+39º25' NW
+
+59,79
+
+36 - 37
+
+21º32' NW
+
+34,40
+
+37 - 38
+
+16º10' NW
+
+124,00
+
+38 - RN2
+
+03º02' NW
+
+114,85
 
 ÁREA \- A propriedade descrita tem a área de 322,5773 hectares.
 
 Propriedade 01 (2ª parte) - Também atribuída à Marsonave Giacomet. Indústria de Madeiras S/A - parte-se da Cidade de Laranjeiras do Sul pela estrada Municipal que liga Laranjeiras do Sul - Tamanduá-Barra Mansa-Saudade, até o porto da balsa do Rio Iguaçú, descendo pela margem direita do mesmo rio, até a confluência com o Rio Xagú. A propriedade situa-se à margem direita dos rios acima citados, com os seguintes limites e confrontações: partindo da estaca 411 do poligonal levantada pela GEO-TOPO, margeando o lado direito do Rio Iguaçú, (deste ponto inflete para a estaca 412, com rumo de 47º08' NW e distância de 26,84m; deste ponto inflete de estaca a estaca com rumo e distância entre si, sempre margeando o lado direito do rio Iguaçú), até a estaca B1A, como segue:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">412 - 413</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32º28' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,29</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">413 - 414</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26º25' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">51,34</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">414 - 415</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29º11' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,90</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">415 - RN22</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47º53' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48,33</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN22 - 416</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30º44' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">416 - 417</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37º59' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52,01</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">417 - 418</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32º58' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33,37</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">418 - 419</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">49º52' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52,31</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">419 - 420</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46º04' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100,53</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">420 - 421</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">59º16' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,41</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">421 - 422</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">51º54' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">152,58</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">422 - 423</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">71º09' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77,56</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">423 - RN23</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73º51' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76,48</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN23 - 424</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">86º20' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102,74</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">424 - 425</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73º37' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">51,02</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">425 - 426</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55º43' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28,05</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">426 - 427</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75º48' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">127,88</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">427 - 428</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">68º07' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">51,24</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">428 - 429</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">78º32' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101,21</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">429 - 430</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">79º14' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">74,94</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">430 - 431</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67º12' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,81</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">431 - 432</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52º18' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">152,65</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">432 - 433</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32º12' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76,12</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">433 - 434</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19º53' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77,11</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">434 - 435</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26º39' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,98</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">435 - 436</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41º41' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75,85</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">436 - 437</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16º03' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46,55</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">437 - 438</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39º26' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101,36</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">438 - 439</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41º35' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76,66</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">439 - 440</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46º37' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">49,70</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">440 - RN25</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42º23' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">51,68</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN25 - 939</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43º15' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">64,71</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">939 - 938</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47º28' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">139,69</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">938 - 937</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46º23' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67,05</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">937 - 936</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º01' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,45</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">396 - 935</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28º04' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">49,81</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">935 - 934</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02º58' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30,85</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">934 - 940</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12º15' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">83,96</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">940 - 941</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º40' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37,53</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">941 - 942</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15º17' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">122,87</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">942 - 943</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19º12' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">74,56</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">943 - 944</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04º23' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">89,62</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">944 - 945</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01º10' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15,33</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">945 - RN73</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º14' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35,82</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN73 - 946</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º41' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60,65</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">946 - 947</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º51' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">109,61</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">947 - 948</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º28' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">92,17</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">948 - 949</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03º59' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24,45</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">949 - 950</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40º31' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31,58</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">950 - 951</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">64º57' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46,48</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">951 - 952</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75º26' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34,63</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">952 - 953</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">64º55' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24,77</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">953 - 954</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47º22' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20,97</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">954 - 955</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76º30' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39,32</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">955 - 956</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31º31'NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28,45</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">956 - 957</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47º25' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20,90</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">957 - 958</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47º29' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,07</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">958 - 959</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01º53' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28,97</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">959 - 960</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">85º10' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36,44</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">960 - 961</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25º34' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">84,15</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">961 - 962</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02º01' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48,10</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">962 - 963</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">05º23' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20,24</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">963 - 964</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01º44' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24,84</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">964 - 965</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56º32' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30,99</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">965 - 966</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04º11' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58,99</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">966 - 967</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25º00' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">70,09</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">967 - 968</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31º47 SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">88,01</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">968 - RN369</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38º39' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,01</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN369 - 1901</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56º15' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8,51</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1901 - 2571</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46º51' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37,14</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2571 - 2572</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53º13' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">86,63</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2572 - 2573</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º24' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">87,66</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2573 - 2574</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77º56' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48,46</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2574 - 2575</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21º54' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">81,33</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2575 - 2576</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30º10' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">101,66</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2576 - RN79</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">80º09 SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">106,97</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN79 - 2577</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">81º51' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31,60</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2577 - 2578</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45º00' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76,07</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2578 - 2579</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25º39' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">123,10</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2579 - 2580</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º49' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76,07</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2580 - 2581</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10º35' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">93,10</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2581 - 2582</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º41' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">78,64</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2582 - 2583</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22º44' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55,60</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2583 - 2888</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03º49' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56,84</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2889 - RN80</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02º59' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">125,86</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN80 - 2584</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12º30' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">128,26</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2584 - 2585</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º31' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">61,57</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2585 - 2586</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18º49' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43,58</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2586 - 2801</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31º22' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55,02</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2801 - 2802</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44º52' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,14</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2802 - 2803</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48º39' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46,80</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2803 - 2804</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22º44' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35,27</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2804 - 2805</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36º14 SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32,41</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2805 - 2806</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21º55 SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">65,45</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2806 - 2807</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11º59' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32,19</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2807 - 7080</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45º28' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53,14</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7089 - 2808</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">59º12' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18,22</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2808 - RN29</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66º30' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19,76</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN29 - 2809</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53º30' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28,62</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2809 - 7087</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">74º00' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16,29</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7087 - 7086</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">86º51' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19,05</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7086 - 7085</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">64º14' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,76</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7085 - 7084</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33º41' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30,92</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7084 - 7083</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53º44' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50,11</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7083 - 7082</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">70º54' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33,53</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7082 - 7081</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75º44' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36,52</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7081- 7080</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50º00' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,29</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7080 - 2810</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48º20' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,06</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2810 - 2811</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35º43' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15,38</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2811 - 7077</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">57º02' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17,77</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7077 - 7076</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30º10' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30,07</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7076 - 7075</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º07' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40,70</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7075 - 7074</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">89º29' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67,32</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7074 - 7073</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">59º44' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44,76</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7073 - 7072</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41º12' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47,08</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7072 - 7071</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33º58' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36,49</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7071 - 7070</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15º41' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77,54</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7070 - 7069</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08º56' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32,78</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7069 - RN361</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02º45' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29,43</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN361 - 2812</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02º50' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30,18</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2812 - 2813</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15º01' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,79</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2813 - 7097</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10º11' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36,67</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7097 - 2814</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">00º22' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">61,55</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2814 - 7098</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º11' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19,80</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7098 - 2815</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42º52' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14,82</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2815 - 7099</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50º08' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14,15</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7099 - 7100</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">65º46' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14,18</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7100 - 6952</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">71º49' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,08</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6952 - 6953</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45º10' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35,95</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6953 - 6954</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20º51' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31,27</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6954 - 6955</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">09º04' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53,61</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6955 - 6956</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">00º02' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6956 - 6957</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11º33' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30,76</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6957 - 6958</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02º16' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34,98</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6958 - 6959</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03º49' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60,01</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6959 - 6960</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01º08' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56,72</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6960 - BLA</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">09º08' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29,33</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+412 - 413
+
+32º28' NW
+
+50,29
+
+413 - 414
+
+26º25' NW
+
+51,34
+
+414 - 415
+
+29º11' NW
+
+25,90
+
+415 - RN22
+
+47º53' NW
+
+48,33
+
+RN22 - 416
+
+30º44' NW
+
+77,00
+
+416 - 417
+
+37º59' NW
+
+52,01
+
+417 - 418
+
+32º58' NW
+
+33,37
+
+418 - 419
+
+49º52' NW
+
+52,31
+
+419 - 420
+
+46º04' NW
+
+100,53
+
+420 - 421
+
+59º16' NW
+
+50,41
+
+421 - 422
+
+51º54' NW
+
+152,58
+
+422 - 423
+
+71º09' NW
+
+77,56
+
+423 - RN23
+
+73º51' NW
+
+76,48
+
+RN23 - 424
+
+86º20' NW
+
+102,74
+
+424 - 425
+
+73º37' SW
+
+51,02
+
+425 - 426
+
+55º43' SW
+
+28,05
+
+426 - 427
+
+75º48' SW
+
+127,88
+
+427 - 428
+
+68º07' SW
+
+51,24
+
+428 - 429
+
+78º32' SW
+
+101,21
+
+429 - 430
+
+79º14' SW
+
+74,94
+
+430 - 431
+
+67º12' SW
+
+50,81
+
+431 - 432
+
+52º18' SW
+
+152,65
+
+432 - 433
+
+32º12' SW
+
+76,12
+
+433 - 434
+
+19º53' SW
+
+77,11
+
+434 - 435
+
+26º39' SW
+
+50,98
+
+435 - 436
+
+41º41' SW
+
+75,85
+
+436 - 437
+
+16º03' SW
+
+46,55
+
+437 - 438
+
+39º26' SW
+
+101,36
+
+438 - 439
+
+41º35' SW
+
+76,66
+
+439 - 440
+
+46º37' SW
+
+49,70
+
+440 - RN25
+
+42º23' SW
+
+51,68
+
+RN25 - 939
+
+43º15' SW
+
+64,71
+
+939 - 938
+
+47º28' SW
+
+139,69
+
+938 - 937
+
+46º23' SW
+
+67,05
+
+937 - 936
+
+06º01' SW
+
+50,45
+
+396 - 935
+
+28º04' SW
+
+49,81
+
+935 - 934
+
+02º58' SW
+
+30,85
+
+934 - 940
+
+12º15' SW
+
+83,96
+
+940 - 941
+
+13º40' SW
+
+37,53
+
+941 - 942
+
+15º17' SE
+
+122,87
+
+942 - 943
+
+19º12' SE
+
+74,56
+
+943 - 944
+
+04º23' SE
+
+89,62
+
+944 - 945
+
+01º10' SE
+
+15,33
+
+945 - RN73
+
+06º14' SE
+
+35,82
+
+RN73 - 946
+
+13º41' SE
+
+60,65
+
+946 - 947
+
+06º51' SE
+
+109,61
+
+947 - 948
+
+13º28' SW
+
+92,17
+
+948 - 949
+
+03º59' SW
+
+24,45
+
+949 - 950
+
+40º31' SW
+
+31,58
+
+950 - 951
+
+64º57' SE
+
+46,48
+
+951 - 952
+
+75º26' NE
+
+34,63
+
+952 - 953
+
+64º55' NE
+
+24,77
+
+953 - 954
+
+47º22' NE
+
+20,97
+
+954 - 955
+
+76º30' NE
+
+39,32
+
+955 - 956
+
+31º31'NE
+
+28,45
+
+956 - 957
+
+47º25' SE
+
+20,90
+
+957 - 958
+
+47º29' NE
+
+42,07
+
+958 - 959
+
+01º53' SE
+
+28,97
+
+959 - 960
+
+85º10' SE
+
+36,44
+
+960 - 961
+
+25º34' SE
+
+84,15
+
+961 - 962
+
+02º01' SW
+
+48,10
+
+962 - 963
+
+05º23' SE
+
+20,24
+
+963 - 964
+
+01º44' SW
+
+24,84
+
+964 - 965
+
+56º32' SE
+
+30,99
+
+965 - 966
+
+04º11' SW
+
+58,99
+
+966 - 967
+
+25º00' SW
+
+70,09
+
+967 - 968
+
+31º47 SW
+
+88,01
+
+968 - RN369
+
+38º39' SW
+
+25,01
+
+RN369 - 1901
+
+56º15' NW
+
+8,51
+
+1901 - 2571
+
+46º51' SW
+
+37,14
+
+2571 - 2572
+
+53º13' SW
+
+86,63
+
+2572 - 2573
+
+13º24' SE
+
+87,66
+
+2573 - 2574
+
+77º56' NE
+
+48,46
+
+2574 - 2575
+
+21º54' SE
+
+81,33
+
+2575 - 2576
+
+30º10' SW
+
+101,66
+
+2576 - RN79
+
+80º09 SE
+
+106,97
+
+RN79 - 2577
+
+81º51' SE
+
+31,60
+
+2577 - 2578
+
+45º00' SE
+
+76,07
+
+2578 - 2579
+
+25º39' SE
+
+123,10
+
+2579 - 2580
+
+06º49' SW
+
+76,07
+
+2580 - 2581
+
+10º35' SW
+
+93,10
+
+2581 - 2582
+
+13º41' SW
+
+78,64
+
+2582 - 2583
+
+22º44' SW
+
+55,60
+
+2583 - 2888
+
+03º49' SW
+
+56,84
+
+2889 - RN80
+
+02º59' SW
+
+125,86
+
+RN80 - 2584
+
+12º30' SW
+
+128,26
+
+2584 - 2585
+
+06º31' SW
+
+61,57
+
+2585 - 2586
+
+18º49' SW
+
+43,58
+
+2586 - 2801
+
+31º22' SW
+
+55,02
+
+2801 - 2802
+
+44º52' SW
+
+21,14
+
+2802 - 2803
+
+48º39' SW
+
+46,80
+
+2803 - 2804
+
+22º44' SW
+
+35,27
+
+2804 - 2805
+
+36º14 SW
+
+32,41
+
+2805 - 2806
+
+21º55 SW
+
+65,45
+
+2806 - 2807
+
+11º59' SW
+
+32,19
+
+2807 - 7080
+
+45º28' SW
+
+53,14
+
+7089 - 2808
+
+59º12' SW
+
+18,22
+
+2808 - RN29
+
+66º30' SW
+
+19,76
+
+RN29 - 2809
+
+53º30' SW
+
+28,62
+
+2809 - 7087
+
+74º00' SW
+
+16,29
+
+7087 - 7086
+
+86º51' NW
+
+19,05
+
+7086 - 7085
+
+64º14' SW
+
+25,76
+
+7085 - 7084
+
+33º41' SW
+
+30,92
+
+7084 - 7083
+
+53º44' SW
+
+50,11
+
+7083 - 7082
+
+70º54' SW
+
+33,53
+
+7082 - 7081
+
+75º44' SW
+
+36,52
+
+7081- 7080
+
+50º00' SW
+
+41,29
+
+7080 - 2810
+
+48º20' SW
+
+41,06
+
+2810 - 2811
+
+35º43' SW
+
+15,38
+
+2811 - 7077
+
+57º02' SW
+
+17,77
+
+7077 - 7076
+
+30º10' SW
+
+30,07
+
+7076 - 7075
+
+13º07' SW
+
+40,70
+
+7075 - 7074
+
+89º29' SE
+
+67,32
+
+7074 - 7073
+
+59º44' SE
+
+44,76
+
+7073 - 7072
+
+41º12' SE
+
+47,08
+
+7072 - 7071
+
+33º58' SE
+
+36,49
+
+7071 - 7070
+
+15º41' SE
+
+77,54
+
+7070 - 7069
+
+08º56' SE
+
+32,78
+
+7069 - RN361
+
+02º45' SE
+
+29,43
+
+RN361 - 2812
+
+02º50' SE
+
+30,18
+
+2812 - 2813
+
+15º01' SW
+
+25,79
+
+2813 - 7097
+
+10º11' SE
+
+36,67
+
+7097 - 2814
+
+00º22' SE
+
+61,55
+
+2814 - 7098
+
+06º11' SE
+
+19,80
+
+7098 - 2815
+
+42º52' SW
+
+14,82
+
+2815 - 7099
+
+50º08' SW
+
+14,15
+
+7099 - 7100
+
+65º46' SW
+
+14,18
+
+7100 - 6952
+
+71º49' SW
+
+41,08
+
+6952 - 6953
+
+45º10' SW
+
+35,95
+
+6953 - 6954
+
+20º51' SW
+
+31,27
+
+6954 - 6955
+
+09º04' SE
+
+53,61
+
+6955 - 6956
+
+00º02' SE
+
+33,00
+
+6956 - 6957
+
+11º33' SW
+
+30,76
+
+6957 - 6958
+
+02º16' SW
+
+34,98
+
+6958 - 6959
+
+03º49' SE
+
+60,01
+
+6959 - 6960
+
+01º08' SW
+
+56,72
+
+6960 - BLA
+
+09º08' SW
+
+29,33
 
 deste ponto B1A inflete para a Estaca B16, com o rumo de 90º00' NW e distância de 902,43m, confrontando-se com Marsonave Giacomet Indústria de Madeiras S/A; deste ponto inflete para a Estaca B52, com o rumo de 00º02' NE e distância de 3.969,22m., segue-se confrontando com Marsonave Giacomet Indústria de Madeiras S/A. até a Estaca A70; deste ponto inflete para a Estaca B53, com o rumo de 57º53'NW e distância de 92,28m., deste ponto inflete de Estaca B54, com rumo de 66º11'NW e distância de 30,08m; deste ponto inflete de Estaca com rumo e distância entre si, sempre margeando a estrada projetada Laranjeiras do Sul-Salto Santiago, a 20,00m do eixo da mesma até a Estaca B185, como segue:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B54 - B56</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">89º18' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">211,84</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B56 - B57</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">89º52' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37,63</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B57 - B58</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">86º32' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,56</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B58 - B59</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">81º31' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,55</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B59 - B60</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77º11' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,23</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B60 - B61</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73º24' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,50</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B61 - B62</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">69º25' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,22</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B62 - B63</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">65º25' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,65</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B63 - B64</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60º04' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,85</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B64 - B65</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55º22' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43,96</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B65 - B67</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54º42' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">267,20</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B67 - B68</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54º24' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28,44</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B68 - B69</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52º19' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22,53</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B69 - B70</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48º53' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,77</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B70 - B71</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43º07' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,73</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B71 - B72</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38º57' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,40</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B72 - B73</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33º03' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,85</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B73 - B74</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28º07' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,84</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B74 - B75</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22º32' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,78</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B75 - B76</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17º40' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,81</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B76 - B77</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11º55' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,90</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B77 - B78</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º42' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22,21</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B78 - B79</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">00º54' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,69</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B79 - B80</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">09º21' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22,74</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B80 - B81</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17º19' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,59</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B81 - B82</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24º18' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18,18</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B82 - B83</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30º25' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,75</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B83 - B84</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35º00' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,12</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B84 - B85</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37º17' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16,45</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B85 - B91</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37º33' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">595,13</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B91 - B92</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35º31' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46,10</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B92 - B93</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25º49' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36,70</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B93 - B94</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17º01' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16,85</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B94 - B95</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07º59' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36,33</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B95 - B96</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03º58' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32,03</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B96 - B97</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15º02' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39,47</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B97 - B98</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27º46' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37,07</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B98 - B99</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33º30' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29,59</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B99 - B100</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34º23' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">49,43</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B100 - B101</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32º50' BW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,10</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B101 - B102</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27º59' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,87</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B102 - B103</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22º27' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22,06</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B103 - B104</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16°13' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B104 - B105</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10º23' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22,08</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B105 - B106</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04º32' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22,53</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B106 - B107</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04º32' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43,14</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B107 - B108</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º08' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45,49</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B108 - B109</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14º27' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26,01</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B109 - B110</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º02' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48,51</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B110 - B111</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01º05' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">63,58</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B111 - B112</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12º08' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27,39</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B112 - B113</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18º44' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17,47</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B113 - B114</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26º22' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37,65</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B114 - B115</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32º16' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19,56</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B115 - B116</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33º35' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21,68</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B116 - B118</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34º12' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">195,12</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B118 - B119</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33º14' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43,03</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B119 - B120</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29º16' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,89</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B120 - B121</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22º04' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,50</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B121 - B122</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º50' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,46</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B122 - B123</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08º00' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22,09</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B123 - B124</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01º45' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,50</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B124 - B125</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º19' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,57</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B125 - B126</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º30' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,96</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B126 - B127</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17º43' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40,91</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B127 - B129</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18º15' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">216,27</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B129 - B130</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15º56' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,26</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B130 - B131</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12º30' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31,39</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B131 - B133</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11º17' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">128,75</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+B54 - B56
+
+89º18' SW
+
+211,84
+
+B56 - B57
+
+89º52' NW
+
+37,63
+
+B57 - B58
+
+86º32' NW
+
+41,56
+
+B58 - B59
+
+81º31' NW
+
+21,55
+
+B59 - B60
+
+77º11' NW
+
+21,23
+
+B60 - B61
+
+73º24' NW
+
+21,50
+
+B61 - B62
+
+69º25' NW
+
+21,22
+
+B62 - B63
+
+65º25' NW
+
+21,65
+
+B63 - B64
+
+60º04' NW
+
+41,85
+
+B64 - B65
+
+55º22' NW
+
+43,96
+
+B65 - B67
+
+54º42' NW
+
+267,20
+
+B67 - B68
+
+54º24' NW
+
+28,44
+
+B68 - B69
+
+52º19' NW
+
+22,53
+
+B69 - B70
+
+48º53' NW
+
+21,77
+
+B70 - B71
+
+43º07' NW
+
+21,73
+
+B71 - B72
+
+38º57' NW
+
+21,40
+
+B72 - B73
+
+33º03' NW
+
+21,85
+
+B73 - B74
+
+28º07' NW
+
+21,84
+
+B74 - B75
+
+22º32' NW
+
+21,78
+
+B75 - B76
+
+17º40' NW
+
+21,81
+
+B76 - B77
+
+11º55' NW
+
+21,90
+
+B77 - B78
+
+06º42' NW
+
+22,21
+
+B78 - B79
+
+00º54' NE
+
+42,69
+
+B79 - B80
+
+09º21' NE
+
+22,74
+
+B80 - B81
+
+17º19' NE
+
+42,59
+
+B81 - B82
+
+24º18' NE
+
+18,18
+
+B82 - B83
+
+30º25' NE
+
+25,75
+
+B83 - B84
+
+35º00' NE
+
+41,12
+
+B84 - B85
+
+37º17' NE
+
+16,45
+
+B85 - B91
+
+37º33' NE
+
+595,13
+
+B91 - B92
+
+35º31' NE
+
+46,10
+
+B92 - B93
+
+25º49' NE
+
+36,70
+
+B93 - B94
+
+17º01' NE
+
+16,85
+
+B94 - B95
+
+07º59' NE
+
+36,33
+
+B95 - B96
+
+03º58' NW
+
+32,03
+
+B96 - B97
+
+15º02' NW
+
+39,47
+
+B97 - B98
+
+27º46' NW
+
+37,07
+
+B98 - B99
+
+33º30' NW
+
+29,59
+
+B99 - B100
+
+34º23' NW
+
+49,43
+
+B100 - B101
+
+32º50' BW
+
+41,10
+
+B101 - B102
+
+27º59' NW
+
+21,87
+
+B102 - B103
+
+22º27' NW
+
+22,06
+
+B103 - B104
+
+16°13' NW
+
+22,00
+
+B104 - B105
+
+10º23' NW
+
+22,08
+
+B105 - B106
+
+04º32' NE
+
+22,53
+
+B106 - B107
+
+04º32' NE
+
+43,14
+
+B107 - B108
+
+13º08' NE
+
+45,49
+
+B108 - B109
+
+14º27' NE
+
+26,01
+
+B109 - B110
+
+13º02' NE
+
+48,51
+
+B110 - B111
+
+01º05' NE
+
+63,58
+
+B111 - B112
+
+12º08' NW
+
+27,39
+
+B112 - B113
+
+18º44' NW
+
+17,47
+
+B113 - B114
+
+26º22' NW
+
+37,65
+
+B114 - B115
+
+32º16' NW
+
+19,56
+
+B115 - B116
+
+33º35' NW
+
+21,68
+
+B116 - B118
+
+34º12' NW
+
+195,12
+
+B118 - B119
+
+33º14' NW
+
+43,03
+
+B119 - B120
+
+29º16' NW
+
+41,89
+
+B120 - B121
+
+22º04' NW
+
+42,50
+
+B121 - B122
+
+13º50' NW
+
+42,46
+
+B122 - B123
+
+08º00' NW
+
+22,09
+
+B123 - B124
+
+01º45' NW
+
+42,50
+
+B124 - B125
+
+06º19' NE
+
+42,57
+
+B125 - B126
+
+13º30' NE
+
+41,96
+
+B126 - B127
+
+17º43' NE
+
+40,91
+
+B127 - B129
+
+18º15' NE
+
+216,27
+
+B129 - B130
+
+15º56' NE
+
+42,26
+
+B130 - B131
+
+12º30' NE
+
+31,39
+
+B131 - B133
+
+11º17' NE
+
+128,75
 
 Deste ponto (B133) inflete para a estaca B140, com rumo de 80º15' NE e distância de 382,29m; deste ponto inflete de estaca a estaca com rumo e distância entre si, sempre margeando o lado direito do córrego Água Verde até a estaca B155, como segue:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B140 - B141</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53º14' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">71,82</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B141 - B142</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58º51' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23,82</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B142 - B143</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48º06 NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31,46</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B143 - B145</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53º41' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">129,52</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B145 - B146</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30º07' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43,50</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B146 - B147</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41º53' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">63,74</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B147 - B 148</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44º53' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53,62</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B148 - B149</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50º00' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">80,47</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B149 - B 150</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67º46 NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">63,61</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B150 - B151</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">59º07' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31,54</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B151 - B152</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">89º41' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67,54</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B152 - B153</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17º35' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46,51</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B153 - B154</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75º45' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">70,54</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B154 - B155</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">79º22' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20,26</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+B140 - B141
+
+53º14' NE
+
+71,82
+
+B141 - B142
+
+58º51' NE
+
+23,82
+
+B142 - B143
+
+48º06 NE
+
+31,46
+
+B143 - B145
+
+53º41' NE
+
+129,52
+
+B145 - B146
+
+30º07' NE
+
+43,50
+
+B146 - B147
+
+41º53' NE
+
+63,74
+
+B147 - B 148
+
+44º53' NE
+
+53,62
+
+B148 - B149
+
+50º00' NE
+
+80,47
+
+B149 - B 150
+
+67º46 NE
+
+63,61
+
+B150 - B151
+
+59º07' NE
+
+31,54
+
+B151 - B152
+
+89º41' SE
+
+67,54
+
+B152 - B153
+
+17º35' NE
+
+46,51
+
+B153 - B154
+
+75º45' SE
+
+70,54
+
+B154 - B155
+
+79º22' NE
+
+20,26
 
 Deste ponto (B155) inflete para a estaca B183, com rumo de 80º53' SE e distância de 2.124,78m. deste ponto inflete para a estaca B185, localizada a margem direita do córrego Água Verde, com rumo de 54º41' SE e distância de 265,79m; deste ponto inflete para a estaca A70 localizada na confluência do córrego Água Verde com o rio Xagu, com o rumo de 47º41' NE e distância de 54,97m; deste ponto inflete de estaca a estaca com rumo e distância entre si, sempre margeando o lado direito do rio Xagu, até a confluência com o ri Iguaçú, onde localiza-se a estaca A1, como segue:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A70 - A69</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45º57' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32,17</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A69 - A68</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18º53' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34,13</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A68 - A67</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46º01' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">91,91</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A67 - A66</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46,20' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">48,20</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A66 - A65</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">57º35' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52,21</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A65 - A64</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50º13' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">57,29</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A64 - A63</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47º29' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54,85</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A63 - A62</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16º54' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47,21</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A62 - A61</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">69º35' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13,22</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A61 - A60</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19º26' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25,58</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A60 - A59</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02º51' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24,65</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A59 - A58</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31º47' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32,16</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A58 - A57</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º37' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26,90</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A57 - A56</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22º59' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">83,44</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A56 - A55</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28º04' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23,76</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A55 - A53</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54º18' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">141,52</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A53 - A52</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60º41' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">88,69</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A52 - A51</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">72º04' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56,45</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A51 - A50</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">59º04'SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33,57</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A50 - A49</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55º38' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A49 - A47</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66º18' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">228,08</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A47 - A46</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">57º05' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46,55</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A46 - A45</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43º32' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33,97</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A45 - A44</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06º33' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A44 - A43</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54º00' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">61,05</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A43 - A42</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">72º12' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66,10</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A42 - A41</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">81º40' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66,33</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A41 - A40</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">87º57' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58,25</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A40 - A39</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">82º25' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111,20</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A39 - A38</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">78º43' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">86,58</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A38 - A37</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">89º24' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">114,50</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A37 - A36</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">57º34' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">129,10</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A36 - A35</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46º22' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">182,10</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A35 - A34</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54º43' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">44,60</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A34 - A33</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">61º22' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">83,53</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A33 - A32</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">65º22' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60,15</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A32 - A31</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75º17' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">65,70</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A31 - A30</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66º36'SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40,65</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A30 - A29</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77º45' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">102,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A29 - A28</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66º27' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">46,60</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A28 - A27</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38º08' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">79,09</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A27 - A26</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º42' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">49,51</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A26 - A25</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18º03' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">62,30</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A25 - A24</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27º46' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A24 - A23</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56º47' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">79,45</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A23 - A22</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76º38' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">157,15</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A22 - A21</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">80º45' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">59,04</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A21 - A19</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73º09 SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">143,06</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A19 - A18</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66º09' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">98,21</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A18 - A16</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">56º32' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">126,52</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A16 - A15</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">49º56'SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">81,14</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A15 - A14</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">57º00' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">51,88</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A14 - A13</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">51º05' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52,21</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A13 - A 12</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42º39' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">68,61</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A12 - A11</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25º29' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A11 - A10</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25º30' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A10 - A9</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">05º05' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34,40</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A9 - A8</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">09º05' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39,75</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A8 - A7</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12º10' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">81,70</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A7 - A6</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18º52' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">65,73</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A6</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">A5</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39º56' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">121,51</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A5 - A4</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47º06' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A4 - A3</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31º06' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">65,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A3 - A2</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39º05' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">61,23</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A2 - A1</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47º17' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">64,72</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+A70 - A69
+
+45º57' SE
+
+32,17
+
+A69 - A68
+
+18º53' SE
+
+34,13
+
+A68 - A67
+
+46º01' SE
+
+91,91
+
+A67 - A66
+
+46,20' SE
+
+48,20
+
+A66 - A65
+
+57º35' SE
+
+52,21
+
+A65 - A64
+
+50º13' SE
+
+57,29
+
+A64 - A63
+
+47º29' SE
+
+54,85
+
+A63 - A62
+
+16º54' SE
+
+47,21
+
+A62 - A61
+
+69º35' SE
+
+13,22
+
+A61 - A60
+
+19º26' SE
+
+25,58
+
+A60 - A59
+
+02º51' SW
+
+24,65
+
+A59 - A58
+
+31º47' SW
+
+32,16
+
+A58 - A57
+
+06º37' SW
+
+26,90
+
+A57 - A56
+
+22º59' SE
+
+83,44
+
+A56 - A55
+
+28º04' SW
+
+23,76
+
+A55 - A53
+
+54º18' SE
+
+141,52
+
+A53 - A52
+
+60º41' SE
+
+88,69
+
+A52 - A51
+
+72º04' SE
+
+56,45
+
+A51 - A50
+
+59º04'SE
+
+33,57
+
+A50 - A49
+
+55º38' SE
+
+12,00
+
+A49 - A47
+
+66º18' SE
+
+228,08
+
+A47 - A46
+
+57º05' SE
+
+46,55
+
+A46 - A45
+
+43º32' SE
+
+33,97
+
+A45 - A44
+
+06º33' SE
+
+20,00
+
+A44 - A43
+
+54º00' SW
+
+61,05
+
+A43 - A42
+
+72º12' SW
+
+66,10
+
+A42 - A41
+
+81º40' SW
+
+66,33
+
+A41 - A40
+
+87º57' SW
+
+58,25
+
+A40 - A39
+
+82º25' SW
+
+111,20
+
+A39 - A38
+
+78º43' SW
+
+86,58
+
+A38 - A37
+
+89º24' NW
+
+114,50
+
+A37 - A36
+
+57º34' SW
+
+129,10
+
+A36 - A35
+
+46º22' SW
+
+182,10
+
+A35 - A34
+
+54º43' SW
+
+44,60
+
+A34 - A33
+
+61º22' SW
+
+83,53
+
+A33 - A32
+
+65º22' SW
+
+60,15
+
+A32 - A31
+
+75º17' SW
+
+65,70
+
+A31 - A30
+
+66º36'SW
+
+40,65
+
+A30 - A29
+
+77º45' SW
+
+102,00
+
+A29 - A28
+
+66º27' SW
+
+46,60
+
+A28 - A27
+
+38º08' SW
+
+79,09
+
+A27 - A26
+
+13º42' SW
+
+49,51
+
+A26 - A25
+
+18º03' SW
+
+62,30
+
+A25 - A24
+
+27º46' SE
+
+43,00
+
+A24 - A23
+
+56º47' SE
+
+79,45
+
+A23 - A22
+
+76º38' SE
+
+157,15
+
+A22 - A21
+
+80º45' SE
+
+59,04
+
+A21 - A19
+
+73º09 SE
+
+143,06
+
+A19 - A18
+
+66º09' SE
+
+98,21
+
+A18 - A16
+
+56º32' SE
+
+126,52
+
+A16 - A15
+
+49º56'SE
+
+81,14
+
+A15 - A14
+
+57º00' SE
+
+51,88
+
+A14 - A13
+
+51º05' SE
+
+52,21
+
+A13 - A 12
+
+42º39' SE
+
+68,61
+
+A12 - A11
+
+25º29' SE
+
+36,00
+
+A11 - A10
+
+25º30' SE
+
+27,00
+
+A10 - A9
+
+05º05' SE
+
+34,40
+
+A9 - A8
+
+09º05' SW
+
+39,75
+
+A8 - A7
+
+12º10' SW
+
+81,70
+
+A7 - A6
+
+18º52' SW
+
+65,73
+
+A6  A5
+
+39º56' SW
+
+121,51
+
+A5 - A4
+
+47º06' SW
+
+58,00
+
+A4 - A3
+
+31º06' SW
+
+65,00
+
+A3 - A2
+
+39º05' SW
+
+61,23
+
+A2 - A1
+
+47º17' SW
+
+64,72
 
 e deste ponto (A1) inflete para a estaca 411, com rumo 70º29' SW e distância de 30,85m, onde teve início esta descrição.
 
@@ -44,11 +2364,175 @@ e deste ponto (A1) inflete para a estaca 411, com rumo 70º29' SW e distância d
 
 Propriedade  02 (atribuída a Sebastião Wilmom de Souza) - Parte-se da cidade de Chopinzinho pela estrada estadual que a liga com Laranjeiras do Sul, até o Distrito de São Luiz, onde toma-se a estrada Municipal São Luiz-Saudade-Laranjeiras do Sul (via balsa), até a ponte sobre o córrego Água Branca. A propriedade situa-se a 900m da ponte córrego abaixo, com os seguintes limites e confrontações: partindo da Estaca 164 da poligonal levantada pela GEO-TOPO, margeando o lado esquerdo do rio Iguaçú, deste ponto inflete para a Estaca 165, com o rumo 07º21' SW e distância de 65,82m; deste ponto inflete de estaca a estaca com rumos e distâncias entre si, sempre margeando o lado esquerdo do rio Iguaçú, até a confluência com o rio Urutu, onde localiza-se o RN36, como segue:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">165 - 166</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28º55' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42,87</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">166 - 167</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13º26' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40,51</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">167 - 168</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04º16' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75,80</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">168 - 169</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17º28' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38,90</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">169 - 170</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">05º42' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">87,82</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">170 - 7057</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34º11' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36,48</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7057 - 171</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23º02' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40,33</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">171 - 172</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08º38' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47,59</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">172 - 173</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">05º13' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">57,88</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">173 - 174</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">05º51' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53,47</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">174 - 175</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28º46' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66,62</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">175 - 176</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">05º05' SW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55,80</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">176 - RN36</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14º29'SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23,43</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+165 - 166
+
+28º55' SE
+
+42,87
+
+166 - 167
+
+13º26' SE
+
+40,51
+
+167 - 168
+
+04º16' SW
+
+75,80
+
+168 - 169
+
+17º28' SW
+
+38,90
+
+169 - 170
+
+05º42' SW
+
+87,82
+
+170 - 7057
+
+34º11' SW
+
+36,48
+
+7057 - 171
+
+23º02' SW
+
+40,33
+
+171 - 172
+
+08º38' SW
+
+47,59
+
+172 - 173
+
+05º13' SE
+
+57,88
+
+173 - 174
+
+05º51' SE
+
+53,47
+
+174 - 175
+
+28º46' SW
+
+66,62
+
+175 - 176
+
+05º05' SW
+
+55,80
+
+176 - RN36
+
+14º29'SE
+
+23,43
 
 e deste ponto (RN36) inflete para a Estaca 178, com o rumo 83º34'SE e distância de 76,63m, margeando o lado direito do rio Urutu; deste ponto inflete de estaca a estaca com rumo e distâncias entre si, sempre margeando o rio Urutu, até a confluência com o córrego Água Branca, onde localiza-se a Estaca 12, como segue:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">178 - 179</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">52º01' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">68,91</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">179 - 2</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">76º32' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">95,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2 - 3</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25º49' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3 - 4</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16º24' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">53,26</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4 - 5</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">57º54' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39,25</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5 - 6</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">72º16' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">108,20</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6 - 7</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16º09' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">145,56</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7 - 8</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">84º32' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">98,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8 - 9</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">82º08' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39,30</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9 - 9A</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18º55' NW</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">62,24</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9A - 10</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50º42' NE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33,42</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10 - 11</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73º06' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23,00</span></p></td></tr><tr><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11 - 12</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26º21' SE</span></p></td><td style="width:139.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39,00</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+178 - 179
+
+52º01' NE
+
+68,91
+
+179 - 2
+
+76º32' NE
+
+95,00
+
+2 - 3
+
+25º49' NE
+
+23,00
+
+3 - 4
+
+16º24' NW
+
+53,26
+
+4 - 5
+
+57º54' NE
+
+39,25
+
+5 - 6
+
+72º16' SE
+
+108,20
+
+6 - 7
+
+16º09' NE
+
+145,56
+
+7 - 8
+
+84º32' SE
+
+98,00
+
+8 - 9
+
+82º08' NE
+
+39,30
+
+9 - 9A
+
+18º55' NW
+
+62,24
+
+9A - 10
+
+50º42' NE
+
+33,42
+
+10 - 11
+
+73º06' SE
+
+23,00
+
+11 - 12
+
+26º21' SE
+
+39,00
 
 e deste ponto (12) inflete para a Estaca c6, com o rumo 53º05' NW e distância de 624,78m, confrontando-se com Raimundo Tezza Vieiro; deste ponto inflete para a Estaca 164, com o rumo 52º56' NW e distância de 34,30m, confrontando-se com Raimundo Tezza Vieiro, onde teve início esta descrição.
 
@@ -60,11 +2544,85 @@ Propriedade 03 (atribuída a Raimundo Tezza Vieiro) - Parte-se da Cidade de Chop
 
 Propriedade 04 (atribuída a Valdoino Aimi) - Parte-se da Cidade de Chopinzinho pela estrada estadual que a liga a Laranjeiras do Sul, até o Distrito de São Luís onde toma-se a estrada Municipal São Luís-Saudade-Laranjeiras do Sul (via balsa), até a ponte sobre o córrego Água Branca. A propriedade situa-se 150m da ponte, córrego abaixo, com os seguintes limites e confrontações: partindo da Estaca 17A, localizada a 6m da margem direita do córrego Água Branca e a 400m, em linha reta, abaixo da ponte da estrada Municipal Saudade - Laranjeiras do Sul (via balsa), sobre o mesmo córrego; este ponto inflete para a Estaca 18, com o rumo 86º55' SE e distância de 26,62m, margeando o córrego  Água Branca; deste ponto inflete de estaca a estaca, com rumos e distâncias entre si, sempre margeando o córrego Água Branca, até a Estaca 24A, como segue:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:138.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:141.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18 - 19</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">79º06' SE</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">47,00</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">19 - 20</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">39º45' NE</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54,30</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20 - 21</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03º40' NW</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">88,50</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21 - 22</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">66º54' NE</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43,70</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22 - 23</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">33º18' SE</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41,00</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">23 - 24</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">89º48' SE</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">81,00</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24 - 24A-EO</span></p></td><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77º56' NE</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40,18</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+18 - 19
+
+79º06' SE
+
+47,00
+
+19 - 20
+
+39º45' NE
+
+54,30
+
+20 - 21
+
+03º40' NW
+
+88,50
+
+21 - 22
+
+66º54' NE
+
+43,70
+
+22 - 23
+
+33º18' SE
+
+41,00
+
+23 - 24
+
+89º48' SE
+
+81,00
+
+24 - 24A-EO
+
+77º56' NE
+
+40,18
 
 e deste ponto inflete para a Estaca B5, com o rumo 53º32' NW e distância de 855,41m confrontando-se com  Antonio e Virgínio Bordignon; deste ponto inflete para o Marco RN421, com o rumo 54º31' NW e distância de 63,24m, confrontando-se com Antonio e Virginio Bordignon; deste ponto, sempre margeando o rio Iguaçú, inflete de estaca a estaca, com rumos e distâncias entre si, até a Estaca D5, como segue:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:138.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:141.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RN421 - 158</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21º03' SW</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58,56</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">158 - 159</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15º21' SW</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">43,98</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">159 - 160</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">38º12' SW</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">59,59</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">160 - D5</span></p></td><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30º01' SW</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">95,76</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+RN421 - 158
+
+21º03' SW
+
+58,56
+
+158 - 159
+
+15º21' SW
+
+43,98
+
+159 - 160
+
+38º12' SW
+
+59,59
+
+160 - D5
+
+30º01' SW
+
+95,76
 
 e deste ponto inflete para a Estaca 17A, com o rumo 53º03' SE e distância de 712, 80m, confrontando-se com Raimundo Tezza Vieiro, onde teve início esta descrição.
 
@@ -72,7 +2630,35 @@ e deste ponto inflete para a Estaca 17A, com o rumo 53º03' SE e distância de 7
 
 Propriedade 05 (atribuída a Antonio e Virginio Bordignon) - Parte-se da Cidade de Chopinzinho pela estrada estadual que a liga com Laranjeiras do Sul, até o Distrito de São Luíz, onde toma-se a estrada Municipal São Luiz-Saudade-Laranjeiras do Sul (via balsa), até à ponte sobre o córrego Água Branca, onde se inicia a propriedade, com os seguintes limites e confrontações: partindo da Estaca 24A, localizada na margem direita do córrego Água Branca, distando 95m, em linha reta, abaixo da ponte da estrada Municipal Saudade-laranjeiras do Sul (via balsa), sobre o mesmo córrego; deste ponto inflete para a Estaca 25, com o rumo 80º55' NE e distância de 88,90m, margeando o córrego Água Branca e confrontando-se com Antonio e Virginio Bordignon; deste ponto inflete a Estaca 26, com o rumo 72º35' NE e distância de 117,50m, margeando o córrego Água Branca e confrontando-se com Antonio e Virginio Bordignon; deste ponto inflete para a Estaca GO, com o rumo 80º25' NE e distância de 36,33m, margeando o córrego Água Branca e confrontando-se com Antonio e Virginio Bordignon; deste ponto inflete para a Estaca G1, com o rumo 41º09' NE e distância de 54,44m, confrontando-se Honorino Gabrielli; deste ponto inflete para a Estaca G10, com o rumo 53º11' NW e distância de 1.147,58m, confrontando-se com Luis Giacomini e Marsonave Giacomet Indústria e Madeiras S.A. ; deste ponto, sempre margeando o rio Iguaçú, inflete de estaca a estaca, com rumos e distâncias entre si, até o Marco RN421, como segue:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:145.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Estaca a Estaca</span></p></td><td style="width:127.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rumos</span></p></td><td style="width:141.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Distâncias (m)</span></p></td></tr><tr><td style="width:145.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">G10 - 155</span></p></td><td style="width:127.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14º30' SW</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16,39</span></p></td></tr><tr><td style="width:145.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">155 - 156</span></p></td><td style="width:127.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12º31' SW</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">70,21</span></p></td></tr><tr><td style="width:145.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">156 - 157</span></p></td><td style="width:127.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20º57' SW</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">107,41</span></p></td></tr><tr><td style="width:145.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">157 - RN421</span></p></td><td style="width:127.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32º47' SW</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">62,70</span></p></td></tr></tbody></table>
+Estaca a Estaca
+
+Rumos
+
+Distâncias (m)
+
+G10 - 155
+
+14º30' SW
+
+16,39
+
+155 - 156
+
+12º31' SW
+
+70,21
+
+156 - 157
+
+20º57' SW
+
+107,41
+
+157 - RN421
+
+32º47' SW
+
+62,70
 
 e deste ponto (RN421) inflete para a Estaca E5, com o rumo 54º31' SE e distância de 63,24m, confrontando-se com Valdoino Aimi; deste ponto inflete para a Estaca 24A -EO, com o rumo 53º32' SE e com distância de 855,41m, confrontando-se com Valdoino Aimi, onde teve início esta descrição.
 

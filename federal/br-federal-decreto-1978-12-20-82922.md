@@ -1,5 +1,3 @@
-###DEC-082922-0-000-20-12-1978@@@
-
 Decreto nº 82.922, de 20 de dezembro de 1978
 
 Concede à José Vitti & Irmãos o direito de lavrar calcário dolomítico no Município de Rio Claro, Estado de São Paulo.

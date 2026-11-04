@@ -1,5 +1,3 @@
-###DEC-055710-0-000-02-02-1965@@@
-
 DECRETO Nº 55.710, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Benjamim Camargos a pesquisar quartzo e caulim, no Município de Contagem, Estado de Minas Gerais.

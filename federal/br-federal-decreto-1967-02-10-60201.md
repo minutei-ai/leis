@@ -1,5 +1,3 @@
-###DEC-060201-0-000-10-02-1967@@@
-
 DECRETO Nº 60.201, de 10 DE FEVEREIRO DE 1967.
 
 Aprova o Regulamento para realização de concurso para provimento dos cargos de Procurador da República de 3ª Categoria, grau inicial da carreira do Ministério Público Federal junto à Justiça Comum.

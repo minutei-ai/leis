@@ -1,5 +1,3 @@
-###DEC-064080-0-000-11-02-1969@@@
-
 decreto nº 64.080, de 11 de fevereiro de 1969.
 
 Aprova o Regulamento do Comando do Contrôle Naval do Tráfego Marítimo.

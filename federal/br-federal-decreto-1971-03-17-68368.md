@@ -1,5 +1,3 @@
-###DEC-068368-0-000-17-03-1971@@@
-
 DECRETO Nº 68.368, DE 17 DE MARÇO DE 1971.
 
 Confisca bens de Expedito Rodrigues de Holanda e dá outras providências.

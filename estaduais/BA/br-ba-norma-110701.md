@@ -100,4 +100,80 @@ QUADRO DE CARGOS EM COMISSÃO DA SUPERINTENDÊNCIA
 
 DE ESTUDOS ECONÔMICOS E SOCIAIS DA BAHIA - SEI
 
-<table style="width: 403.1pt; margin-left: 57.5pt; border-collapse: collapse; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="537" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 207.0pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>CARGO</span></p></td><td style="width: 99.0pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>SÍMBOLO</span></p></td><td style="width: 97.1pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>QUANTIDADE</span></p></td></tr><tr><td style="width: 207.0pt; border: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Diretor Geral</span></p></td><td style="width: 99.0pt; border: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAS-2A</span></p></td><td style="width: 97.1pt; border: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 207.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Diretor</span></p></td><td style="width: 99.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAS-2B</span></p></td><td style="width: 97.1pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>04</span></p></td></tr><tr><td style="width: 207.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Coordenador I</span></p></td><td style="width: 99.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAS-2C</span></p></td><td style="width: 97.1pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>02</span></p></td></tr><tr><td style="width: 207.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Procurador Chefe</span></p></td><td style="width: 99.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAS-2C</span></p></td><td style="width: 97.1pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 207.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Coordenador Técnico</span></p></td><td style="width: 99.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAS-2D</span></p></td><td style="width: 97.1pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>12</span></p></td></tr><tr><td style="width: 207.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Assessor Técnico</span></p></td><td style="width: 99.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAS-3</span></p></td><td style="width: 97.1pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>05</span></p></td></tr><tr><td style="width: 207.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Coordenador II</span></p></td><td style="width: 99.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAS-3</span></p></td><td style="width: 97.1pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>26</span></p></td></tr><tr><td style="width: 207.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Coordenador III</span></p></td><td style="width: 99.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAI-4</span></p></td><td style="width: 97.1pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>18</span></p></td></tr><tr><td style="width: 207.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Assistente III</span></p></td><td style="width: 99.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAI-4</span></p></td><td style="width: 97.1pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>03</span></p></td></tr><tr><td style="width: 207.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Coordenador IV</span></p></td><td style="width: 99.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 97.1pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>07</span></p></td></tr><tr><td style="width: 207.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Secretário Administrativo I</span></p></td><td style="width: 99.0pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 97.1pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>07</span></p></td></tr><tr><td style="width: 207.0pt; border: none; border-bottom: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="276"><p class="Tabela-Texto"><span>Assistente V</span></p></td><td style="width: 99.0pt; border: none; border-bottom: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>DAI-6</span></p></td><td style="width: 97.1pt; border: none; border-bottom: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="129"><p class="Tabela-Texto"><span>12</span></p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Diretor Geral
+
+DAS-2A
+
+01
+
+Diretor
+
+DAS-2B
+
+04
+
+Coordenador I
+
+DAS-2C
+
+02
+
+Procurador Chefe
+
+DAS-2C
+
+01
+
+Coordenador Técnico
+
+DAS-2D
+
+12
+
+Assessor Técnico
+
+DAS-3
+
+05
+
+Coordenador II
+
+DAS-3
+
+26
+
+Coordenador III
+
+DAI-4
+
+18
+
+Assistente III
+
+DAI-4
+
+03
+
+Coordenador IV
+
+DAI-5
+
+07
+
+Secretário Administrativo I
+
+DAI-5
+
+07
+
+Assistente V
+
+DAI-6
+
+12

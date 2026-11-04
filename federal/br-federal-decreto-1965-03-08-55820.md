@@ -1,5 +1,3 @@
-###DEC-055820-0-000-08-03-1965@@@
-
 DECRETO Nº 55.820, DE 8 DE MARCO DE 1965.
 
 Cria o “Fundo de Financiamento de Estudos de Projetos e Programas - FINEP” e da outras providências.

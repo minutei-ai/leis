@@ -1,5 +1,3 @@
-###DEC-090387-0-000-30-10-1984@@@
-
 Decreto nº 90.387, de 30 de outubro de 1984
 
 Autoriza a constituição de comissão Interministerial para o fim que especifica.

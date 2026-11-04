@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209451)<br>
-
 # DECRETO N° 68.510, DE 14 DE MAIO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Registro, o imóvel que especifica._

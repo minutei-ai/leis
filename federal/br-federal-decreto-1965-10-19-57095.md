@@ -1,5 +1,3 @@
-###DEC-057095-0-000-19-10-1965@@@
-
 DECRETO Nº 57.095, DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Ario Dantas Messora a pesquisar areia quartzosa no município de Analândia, Estado de São Paulo.

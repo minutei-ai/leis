@@ -1,7 +1,3 @@
-1
-
-###DEC-098016-0-000-02-08-1989@@@
-
 DECRETO N° 98.016, DE 2 DE AGOSTO DE 1989
 
 Declara de interesse social, para fins de reforma agrária o imóvel rural denominado “FAZENDA CRUZEIRO DO SUL”, situado no Município de Moju, Estado do Pará, e dá outras providências.

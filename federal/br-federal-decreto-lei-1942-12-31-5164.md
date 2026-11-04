@@ -1,5 +1,3 @@
-###DEL-005164-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.164 – DE 31 DE DEZEMBRO DE 1942
 
 Regula o ingresso no Quadro de Médicos do Serviço de Saude do Exército dos médicos civís que terminaram ou vierem a terminar os Cursos especiais de Adaptação ou de Emergência de Medicina Militar e dá outras providências

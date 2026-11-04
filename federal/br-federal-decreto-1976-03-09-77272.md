@@ -1,5 +1,3 @@
-###DEC-077272-0-000-09-03-1976@@@
-
 DECRETO Nº 77.272, DE 9 DE MARÇO DE 1976.
 
 Reorganiza as Forças Navais, Aeronavais e de Fuzileiros Navais e dá outras providências.

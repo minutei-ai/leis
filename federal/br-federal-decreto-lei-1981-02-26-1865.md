@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/93e5e5de-0b43-4db3-90a5-bfc6004686bd/texto#nowhere)
 
-###DEL-001865-0-000-26-02-1981@@@
-
 # Decreto-lei nº 1.865, de 26 de fevereiro de 1981.
 
 Dispõe sobre a ocupação provisória de imóveis para pesquisa e lavra de substâncias minerais que contenham elementos nucleares.

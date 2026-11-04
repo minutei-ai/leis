@@ -1,7 +1,3 @@
-1
-
-###LCP-000060-0-000-06-10-1989@@@
-
 # LEI COMPLEMENTAR N° 60, DE 6 DE OUTUBRO DE 1989
 
 Possibilita afastamento de magistrados dirigentes de classe.

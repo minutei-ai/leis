@@ -1,5 +1,3 @@
-###DEL-003909-0-000-08-12-1941@@@
-
 DECRETO-LEI N. 3.909 – DE 8 de DEZEMBRO DE 1941
 
 Altera o padrão de vencimento dos cargos de censor do Departamento de Imprensa e Propaganda e dá outras providências

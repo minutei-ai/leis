@@ -1,5 +1,3 @@
-###DEC-055174-0-000-10-12-1964@@@
-
 DECRETO Nº 55.174, DE 10 DE DEZEMBRO DE 1964.
 
 Concede à emprêsa de Mineração América “Ema Ltda.”, autorização para funcionar como emprêsa de mineração.

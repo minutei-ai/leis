@@ -1,6 +1,6 @@
 > **LEI Nº 4.626, DE 24 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC.</span></span></span></p></td></tr></tbody></table>
+Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -12,7 +12,73 @@
 
 **REMUNERAÇÃO DOS CARGOS DE DIREÇÃO E ASSESSORAMENTO ESPECIAL**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>DENOMINAÇÃO DO CARGO</span></strong></span></p></td><td><p><span><strong><span>VALOR</span></strong></span></p></td></tr><tr><td><p><span><span>Secretário Executivo</span></span></p></td><td><p><span><span>R$ 26.000,00</span></span></p></td></tr><tr><td><p><span><span>Secretário Executivo Adjunto Administrativo</span></span></p><p><span><span>Secretário Executivo Adjunto de Relações Institucionais</span></span></p><p><span><span>Consultor-Geral da Mesa Diretora</span></span></p><p><span><span>Consultor Legislativo-Chefe</span></span></p><p><span><span>Subsecretário de Atividades Legislativas</span></span></p><p><span><span>Subsecretário de Planejamento, Orçamento e Finanças</span></span></p><p><span><span>Subsecretário de Recursos Humanos</span></span></p><p><span><span>Controlador-Geral</span></span></p></td><td><p><span><span>R$ 23.400,00</span></span></p></td></tr><tr><td><p><span><span>Subsecretário de Publicidade e Comunicação Social</span></span></p><p><span><span>Subsecretário de Patrimônio e Serviços</span></span></p><p><span><span>Subsecretário de Tecnologia da Informação</span></span></p><p><span><span>Consultor Jurídico-Administrativo Chefe</span></span></p><p><span><span>Consultor Técnico-Chefe</span></span></p><p><span><span>Presidente da Comissão Permanente de Contratação</span></span></p><p><span><span>Diretor de Folha de Pagamento e Vantagens Funcionais</span></span></p><p><span><span>Diretor de Núcleo da TV e Rádio da Assembleia Legislativa</span></span></p><p><span><span>Diretor da Escola do Legislativo</span></span></p><p><span><span>Diretor de Contabilidade</span></span></p></td><td><p><span><span>R$ 19.500,00</span></span></p></td></tr><tr><td><p><span><span>Assessores Especiais da Mesa Diretora</span></span></p></td><td><p><span><span>R$ 15.000.00</span></span></p></td></tr><tr><td><p><span><span>Coordenador Especial de Atas e Anais</span></span></p><p><span><span>Coordenador Especial de Taquigrafia</span></span></p><p><span><span>Coordenador de Patrimônio e Material</span></span></p><p><span><span>Coordenador de Cerimonial</span></span></p><p><span><span>Coordenador de Polícia Legislativa</span></span></p></td><td><p><span><span>R$ 13.000,00</span></span></p></td></tr><tr><td><p><span><span>Assessores Especiais das Comissões Permanentes</span></span></p></td><td><p><span><span>12.000,00</span></span></p></td></tr></tbody></table>
+**DENOMINAÇÃO DO CARGO**
+
+**VALOR**
+
+Secretário Executivo
+
+R$ 26.000,00
+
+Secretário Executivo Adjunto Administrativo
+
+Secretário Executivo Adjunto de Relações Institucionais
+
+Consultor-Geral da Mesa Diretora
+
+Consultor Legislativo-Chefe
+
+Subsecretário de Atividades Legislativas
+
+Subsecretário de Planejamento, Orçamento e Finanças
+
+Subsecretário de Recursos Humanos
+
+Controlador-Geral
+
+R$ 23.400,00
+
+Subsecretário de Publicidade e Comunicação Social
+
+Subsecretário de Patrimônio e Serviços
+
+Subsecretário de Tecnologia da Informação
+
+Consultor Jurídico-Administrativo Chefe
+
+Consultor Técnico-Chefe
+
+Presidente da Comissão Permanente de Contratação
+
+Diretor de Folha de Pagamento e Vantagens Funcionais
+
+Diretor de Núcleo da TV e Rádio da Assembleia Legislativa
+
+Diretor da Escola do Legislativo
+
+Diretor de Contabilidade
+
+R$ 19.500,00
+
+Assessores Especiais da Mesa Diretora
+
+R$ 15.000.00
+
+Coordenador Especial de Atas e Anais
+
+Coordenador Especial de Taquigrafia
+
+Coordenador de Patrimônio e Material
+
+Coordenador de Cerimonial
+
+Coordenador de Polícia Legislativa
+
+R$ 13.000,00
+
+Assessores Especiais das Comissões Permanentes
+
+12.000,00
 
 ” **(NR)**
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-097874-0-000-26-06-1989@@@
-
 DECRETO N° 97.874, DE 26 DE JUNHO DE 1989
 
 Dispõe sobre a Comissão de Aeropor­tos da Região Amazônica  COMARA e dá outras providências.

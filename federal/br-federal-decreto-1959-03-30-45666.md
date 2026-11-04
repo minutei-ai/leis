@@ -1,5 +1,3 @@
-###DEC-045666-0-000-30-03-1959@@@
-
 decreto nº 45.666, de 30 de março de 1959.
 
 Outorga concessão à Rádio Clube Paranaense Limitada para instalar uma estação radiodifusora.

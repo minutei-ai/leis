@@ -1,5 +1,3 @@
-###DEC-006263-0-000-21-11-2007@@@
-
 DECRETO Nº 6.263, DE 21 DE NOVEMBRO DE 2007.
 
 Institui o Comitê Interministerial sobre Mudança do Clima - CIM, orienta a elaboração do Plano Nacional sobre Mudança do Clima, e dá outras providências.
@@ -164,11 +162,7 @@ Sérgio Machado Rezende
 
 João Paulo Ribeiro Rezende
 
-Erenice Guerra
-
-Este texto não substitui o publicado no DOU de 22.11.2007
-
-ANEXO
+Erenice GuerraANEXO
 
 Definição de verbetes e expressões segundo as disposições constantes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima e no Painel Intergovernamental sobre Mudança do Clima - IPCC.
 

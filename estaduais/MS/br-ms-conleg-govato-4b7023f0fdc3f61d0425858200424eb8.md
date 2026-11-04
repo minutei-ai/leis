@@ -6,23 +6,24 @@ Altera a redação do § 2º do art. 11 da Lei nº 4.490, de 3 abril de 2014, qu
 
 Publicada no Diário Oficial nº 10.192, de 9 de junho de 2020, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Altera a redação do § 2º do art. 11 da [Lei n<del>º</del> 4.490, de 3 de abril de 2014](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/b723c3cb94b6cf0804257cb30066db50?OpenDocument), com a seguinte redação:<br>
-<br>
-<i>“Art. 11. ...........................................</i><br>
-<br>
-<i>........................................................</i><br>
-<br>
-<i>§ 2º Serão consideradas como idades mínima e máxima, para fins do disposto nos incisos IV e V deste artigo, aquelas que o candidato possuir na data da inscrição para o concurso público.</i><br>
-<br>
-<i>................................................” (NR)</i><br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Altera a redação do § 2º do art. 11 da [Lei n~~º~~ 4.490, de 3 de abril de 2014](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/b723c3cb94b6cf0804257cb30066db50?OpenDocument), com a seguinte redação:
+
+*“Art. 11. ...........................................*
+
+*........................................................*
+
+*§ 2º Serão consideradas como idades mínima e máxima, para fins do disposto nos incisos IV e V deste artigo, aquelas que o candidato possuir na data da inscrição para o concurso público.*
+
+*................................................” (NR)*
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 8 de junho de 2020.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-096516-0-000-15-08-1988@@@
-
 # DECRETO N° 96.516, DE 15 DE AGOSTO DE 1988
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado “FAZENDA TAPUIO”, classificado como latifúndio por exploração, situado nos Municípios de Miguel Alves e Porto, no Estado do Piauí, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.680, de 19 de maio de 1986, e dá outras providências.

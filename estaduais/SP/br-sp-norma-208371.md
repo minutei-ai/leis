@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208371)<br>
-
 # DECRETO N° 67.861, DE 04 DE AGOSTO DE 2023
 
 ### _Ratifica convênio celebrado nos termos da Lei Complementar federal n°24, de 7 de janeiro de 1975._

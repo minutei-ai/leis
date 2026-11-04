@@ -1,5 +1,3 @@
-###DEC-061291-0-000-06-09-1967@@@
-
 DECRETO Nº 61.291, DE 6 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública a “Associação Berço de Belém” com sede em Belém, Estado do Pará.

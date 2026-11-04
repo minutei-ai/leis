@@ -1,5 +1,3 @@
-###DEC-094114-0-000-19-03-1987@@@
-
 DECRETO N° 94.114, DE 19 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba dos Orlandos" classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Alto Paraguai, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.620, de 2 de maio de 1986, e dá outras providências.

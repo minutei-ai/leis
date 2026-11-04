@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208406)<br>
-
 # DECRETO LEGISLATIVO N° 2.545, DE 15 DE AGOSTO DE 2023
 
 ### _Manifesta concordância com a implementação do Convênio ICMS 83/23, ratificado pelo Decreto n° 67.861, de 4 de agosto de 2023._

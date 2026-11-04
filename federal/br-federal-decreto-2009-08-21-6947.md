@@ -1,5 +1,3 @@
-###DEC-006947-0-000-21-08-2009@@@
-
 DECRETO Nº 6.947, DE 21 DE AGOSTO DE 2009.
 
 Acresce e altera dispositivos do art. 4~~º~~ do Decreto n~~º~~ 5.269, de 10 de novembro de 2004, que dispõe sobre a competência, composição e funcionamento do Conselho Diretor do Fundo da Marinha Mercante-CDFMM.

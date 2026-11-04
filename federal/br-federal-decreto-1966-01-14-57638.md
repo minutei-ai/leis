@@ -1,5 +1,3 @@
-###DEC-057638-0-000-14-01-1966@@@
-
 decreto nº 57.638, de 14 de janeiro de 1966.
 
 Autoriza o serviço do Patrimônio da União a aceitar doações de imóveis, em Amambaí-MT, destinados ao Ministério da Guerra.

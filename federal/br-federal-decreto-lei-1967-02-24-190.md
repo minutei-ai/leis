@@ -1,5 +1,3 @@
-###DEL-000190-0-000-24-02-1967@@@
-
 DECRETO-LEI Nº 190, DE 24 DE FEVEREIRO DE 1967
 
 Dispõe sôbre o despacho de embarcações e dá outras providências.

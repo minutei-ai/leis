@@ -1,5 +1,3 @@
-###DEL-004289-0-000-04-05-1942@@@
-
 DECRETO-LEI N. 4.289 – DE 4 DE MAIO DE 1942
 
 Autoriza a aquisição de imoveis em Niterói, Estado do Rio de Janeiro

@@ -1,5 +1,3 @@
-###DEC-087442-0-000-03-08-1982@@@
-
 Decreto nº 87.442, de 03 de agosto de 1982
 
 Altera dispositivo do Decreto nº 76.373 de 2 de outubro de 1975 que cria a Comissão Naval em São Paulo, e revoga o Decreto nº 78.938 de 10 de dezembro de 1976 que aprova o seu Regulamento.

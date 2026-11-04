@@ -1,5 +1,3 @@
-###DEC-002703-0-000-03-08-1998@@@
-
 DECRETO Nº 2.703, DE 3 DE AGOSTO DE 1998
 
 Dispõe sobre a concessão de indenização de transportes aos servidores públicos da administração direta, autárquica e fundacional do Poder Executivo da União.

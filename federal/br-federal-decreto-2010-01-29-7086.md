@@ -1,5 +1,3 @@
-###DEC-007086-0-000-29-01-2010@@@
-
 DECRETO Nº 7.086, DE 29 DE JANEIRO DE 2010.
 
 Altera e acresce dispositivos ao Estatuto da Caixa Econômica Federal - CEF, aprovado pelo Decreto nº 6.473, de 5 de junho de 2008.

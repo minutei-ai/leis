@@ -1,5 +1,3 @@
-###DEC-091146-0-000-15-03-1985@@@
-
 DECRETO Nº 91.146, DE 15 DE MARÇO DE 1985
 
 Cria o Ministério da Ciência e Tecnologia e dispõe sobre sua estrutura, transferindo-lhe os órgãos que menciona, e dá outras providências.

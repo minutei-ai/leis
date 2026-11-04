@@ -1,5 +1,3 @@
-###DEC-045996-0-000-15-05-1959@@@
-
 Decreto nº 45.996, de 15 de maio de 1959.
 
 Dispõe sôbre as funções de Diretor-Geral do Pessoal da Aeronáutica e do Centro Técnico da Aeronáutica.

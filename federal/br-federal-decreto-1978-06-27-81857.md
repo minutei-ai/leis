@@ -1,5 +1,3 @@
-###DEC-081857-0-000-27-06-1978@@@
-
 Decreto nº 81.857, de 27 de junho de 1978.
 
 Concede a Roberto Brambilla de Maria - Firma Individual, o direito de lavrar calcário no Município de Arcos, Estado de Minas Gerais.

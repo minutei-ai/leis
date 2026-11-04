@@ -1,5 +1,3 @@
-###DEC-074320-0-000-24-07-1974@@@
-
 DECRETO Nº 74.320 - DE 24 DE JULHO DE 1974.
 
 Abre ao Ministério da Justiça, em favor de diversas unidades, o crédito suplementar de Cr$ 7.346.200,00 para reforço de dotações consignadas no vigente Orçamento.
@@ -10,11 +8,139 @@ DECRETA:
 
 Art. 1º Fica aberto ao Ministério da Justiça, em favor de diversas unidades, o crédito suplementar no valor de Cr$ 7.346.200,00 (sete milhões, trezentos e quarenta e seis mil e duzentos cruzeiros) para reforço de dotações orçamentárias consignadas ao subanexo 20, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.00</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA JUSTIÇA</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.05</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Procuradoria Geral da Justiça Militar</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">104.2062</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Defesa dos Interesses da União em Juízo</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Junto à Justiça Militar</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas .................................................</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.990.600</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis .....................................................................</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">149.600</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Contribuições de Previdência Social ...........................................</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">6.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.06</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Ministério Público do Distrito Federal e Territórios</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2006.0104.2062</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Defesa dos Interesses da União em Juízo</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">002</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Junto à Justiça do Distrito Federal e dos Territórios</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Outros Serviços de Terceiros ......................................................</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">150.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Ministério Público Junto à Justiça do Trabalho</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2007.0104.2062</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Defesa dos Interesses da União em Juízo</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">003</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Junto à Justiça do Trabalho</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas .................................................</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.441.600</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Despesa Variáveis .......................................................................</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.608.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">TOTAL ............................................................................................</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.346.200</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+20.00
+
+- MINISTÉRIO DA JUSTIÇA
+
+20.05
+
+- Procuradoria Geral da Justiça Militar
+
+104.2062
+
+- Defesa dos Interesses da União em Juízo
+
+001
+
+- Junto à Justiça Militar
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas .................................................
+
+1.990.600
+
+02
+
+- Despesas Variáveis .....................................................................
+
+149.600
+
+3.2.5.0
+
+- Contribuições de Previdência Social ...........................................
+
+6.000
+
+20.06
+
+- Ministério Público do Distrito Federal e Territórios
+
+2006.0104.2062
+
+- Defesa dos Interesses da União em Juízo
+
+002
+
+- Junto à Justiça do Distrito Federal e dos Territórios
+
+3.1.3.2
+
+- Outros Serviços de Terceiros ......................................................
+
+150.000
+
+20.07
+
+- Ministério Público Junto à Justiça do Trabalho
+
+2007.0104.2062
+
+- Defesa dos Interesses da União em Juízo
+
+003
+
+- Junto à Justiça do Trabalho
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas .................................................
+
+3.441.600
+
+02
+
+- Despesa Variáveis .......................................................................
+
+1.608.400
+
+TOTAL ............................................................................................
+
+7.346.200
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento aos subanexos 20.00 e 28.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.00</span></p></td><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DA JUSTIÇA</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.06</span></p></td><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Ministério Público do Distrito Federal e Territórios</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 2006.0104.2062.002</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.3.1</span></p></td><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Remuneração de Serviços Pessoais .....................................................</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">150.000</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">28.00</span></p></td><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- ENCARGOS GERAIS DA UNIÃO</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">28.02</span></p></td><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Recursos Sob Supervisão do Ministério do Planejamento e Coordenação Geral</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 2802.18.00.2029</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.2.6.0</span></p></td><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Reserva de Contingência .......................................................................</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.196.200</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">TOTAL ......................................................................................................</span></p></td><td style="width:46.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.346.200</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+20.00
+
+- MINISTÉRIO DA JUSTIÇA
+
+20.06
+
+- Ministério Público do Distrito Federal e Territórios
+
+Atividade
+
+- 2006.0104.2062.002
+
+3.1.3.1
+
+- Remuneração de Serviços Pessoais .....................................................
+
+150.000
+
+28.00
+
+- ENCARGOS GERAIS DA UNIÃO
+
+28.02
+
+- Recursos Sob Supervisão do Ministério do Planejamento e Coordenação Geral
+
+Atividade
+
+- 2802.18.00.2029
+
+3.2.6.0
+
+- Reserva de Contingência .......................................................................
+
+7.196.200
+
+TOTAL ......................................................................................................
+
+7.346.200
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

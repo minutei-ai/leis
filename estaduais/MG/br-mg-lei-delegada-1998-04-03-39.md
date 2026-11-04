@@ -939,7 +939,3 @@ Cargo Código Valor da gratificação (reais por hora-voo) Comandante de Avião 
 (Anexo com redação dada pelo anexo I da Lei nº 21.334, de 26/6/2014.)
 
 (Vide art. 5º da Lei nº 20.591, de 28/12/2012.)
-
-\=====================
-
-Data da última atualização: 29/7/2016.

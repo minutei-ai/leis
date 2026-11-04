@@ -1,5 +1,3 @@
-###DEL-008435-0-000-24-12-1945@@@
-
 DECRETO-LEI N. 8.435 – DE 24 DE DEZEMBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona.

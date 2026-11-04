@@ -1,5 +1,3 @@
-###DEL-003234-0-000-06-05-1941@@@
-
 DECRETO-LEI N. 3.234 – DE 6 DE MAIO DE 1941
 
 Prorroga o mandato dos membros das Juntas ou Conselhos Administrativos ou Fiscais dos Institutos de Aposentadoria e Pensões dos Bancários, dos Empregados em Transportes e Cargas, dos Industriários e dos Marítimos, e dá outras providências

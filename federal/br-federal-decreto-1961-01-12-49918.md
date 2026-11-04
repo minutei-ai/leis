@@ -1,5 +1,3 @@
-###DEC-049918-0-000-12-01-1961@@@
-
 DECRETO Nº 49.918, DE 12 DE JANEIRO DE 1961.
 
 Altera a redação dos arts. 1º e 2º do Decreto nº 48.288, de 13 de junho de 1960.

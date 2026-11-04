@@ -1,5 +1,3 @@
-###MPV-001904-0-018-26-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.904-18, DE 26 DE OUTUBRO DE 1999.
 
 Estende aos servidores públicos civis do Poder Executivo a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089933-0-000-10-07-1984@@@
-
 DECRETO nº 89.933, de 10 de julho de 1984
 
 Autoriza o funcionamento da habilitação em Administração Hospitalar da Faculdade de Ciências Econômicas e Administrativas de Botucatu.

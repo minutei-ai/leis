@@ -1,5 +1,3 @@
-###DEC-006384-0-000-27-02-2008@@@
-
 DECRETO Nº 6.384, DE 27 DE FEVEREIRO DE 2008.
 
 Dá nova redação ao § 6º do art. 16 do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999.
@@ -19,5 +17,3 @@ Brasília, 27 de fevereiro de 2008; 187º da Independência e 120º da Repúblic
 LUIZ INÁCIO LULA DA SILVA
 
 Carlos Eduardo Gabas
-
-Este texto não substitui o publicado no DOU de 28.2.2008

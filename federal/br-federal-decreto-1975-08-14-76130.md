@@ -1,5 +1,3 @@
-###DEC-076130-0-000-14-08-1975@@@
-
 DECRETO Nº 76.130 - DE 14 DE AGOSTO DE 1975
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Ciências e Letras Plínio Augusto do Amaral, com sede na cidade de Amparo, Estado de São Paulo.

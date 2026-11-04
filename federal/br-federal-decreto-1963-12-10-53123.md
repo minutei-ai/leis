@@ -1,5 +1,3 @@
-###DEC-053123-0-000-10-12-1963@@@
-
 decreto nº 53.123, de 10 de dezembro de 1963
 
 Concede à Cal-Química-Mineração, Indústria e Comércio Ltda. autorização para funcionar como empresa de Mineração.

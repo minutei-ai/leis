@@ -1,5 +1,3 @@
-###DEC-006392-0-000-12-03-2008@@@
-
 DECRETO Nº 6.392, DE 12 DE MARÇO DE 2008.
 
 Altera o Decreto no 5.209, de 17 de setembro de 2004, que regulamenta a Lei no 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família.
@@ -79,5 +77,3 @@ Brasília, 12 de março de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Patrus Ananias
-
-Este texto não substitui o publicado no DOU de 13.3.2008

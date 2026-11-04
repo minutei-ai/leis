@@ -1,5 +1,3 @@
-###DEC-056068-0-000-26-04-1965@@@
-
 decreto nº 56.068, de 26 de abril de 1965.
 
 Autoriza a Sociedade Termoelétrica de Capivari a construir usina termoelétrica.

@@ -1,5 +1,3 @@
-###DEL-007182-0-000-21-12-1944@@@
-
 DECRETO-LEI N. 7.182 – DE 21 DE DEZEMBRO DE 1944
 
 Transfere do Ministério da Agricultura para a Prefeitura do Distrito Federal a administração, fiscalização e conservação da Floresta da Tijuca

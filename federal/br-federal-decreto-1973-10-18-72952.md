@@ -1,5 +1,3 @@
-###DEC-072952-0-000-18-10-1973@@@
-
 Decreto nº 72.952, de 18 de outubro de 1973.
 
 Declara sem efeito o Decreto número 25.162, de 30 de junho de 1948.

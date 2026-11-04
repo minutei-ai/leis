@@ -1,5 +1,3 @@
-###DEC-003988-0-000-29-10-2001@@@
-
 DECRETO Nº 3.988, DE 29 DE OUTUBRO DE 2001 - 1ª PARTE
 
 Promulga o Acordo de Assistência Jurídica em Matéria Penal entre o Governo da República Federativa do Brasil e o Governo da República do Peru, celebrado em Lima, em 21 de julho de 1999.

@@ -1,5 +1,3 @@
-###DEC-091775-0-000-15-10-1985@@@
-
 Decreto nº 91.775, DE 15 de outubro de 1985.
 
 Regulamenta a Lei nº 7.287, de 18 de dezembro de 1984, que dispões sobre a profissão de Museólogo e autoriza a criação do Conselho Federal e dos Conselhos Regionais de Museologia.

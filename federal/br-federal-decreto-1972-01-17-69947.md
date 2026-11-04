@@ -1,5 +1,3 @@
-###DEC-069947-0-000-17-01-1972@@@
-
 DECRETO Nº 69.947, DE 17 DE JANEIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras do Instituto de Ensino Superior de Cruzeiro, Estado de São Paulo.

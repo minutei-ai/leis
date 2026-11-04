@@ -1,5 +1,3 @@
-###DEC-096720-0-000-19-09-1988@@@
-
 DECRETO N° 96.720, DE 19 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO JOÃO DE PAIVA LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Altos, Estado do Piauí.

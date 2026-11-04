@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212605)<br>
-
 # DECRETO N° 70.611, DE 13 DE MAIO DE 2026
 
 ### _Autoriza a outorga de uso do imóvel que especifica em favor da União, por intermédio do Tribunal Regional Eleitoral de São Paulo, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-061675-0-000-13-11-1967@@@
-
 DECRETO Nº 61.675, DE 13 DE NOVEMBRO DE 1967.
 
 Abre, ao Ministério da Educação e Cultura o crédito suplementar de NCr$24.000,00, para reforço de dotações orçamentárias, consignadas para o corrente exercício, pela Lei 5.189, de 8 de dezembro de 1966.

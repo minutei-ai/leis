@@ -1,5 +1,3 @@
-###DEC-007765-0-000-25-06-2012-PUB-01@@@
-
 DECRETO Nº 7.765, DE 25 DE JUNHO DE 2012
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Secretaria de Políticas para as Mulheres da Presidência da República e remaneja cargos em comissão.

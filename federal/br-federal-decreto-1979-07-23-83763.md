@@ -1,5 +1,3 @@
-###DEC-083763-0-000-23-07-1979@@@
-
 decreto nº 83.763, de 23 de julho de 1979.
 
 Concede reconhecimento à habilitação em Engenharia Elétrica do curso de Engenharia da Universidade Católica de Pelotas, Estado do Rio Grande do Sul.

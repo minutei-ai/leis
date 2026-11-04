@@ -1,5 +1,3 @@
-###DEC-078877-0-000-30-11-1976@@@
-
 DECRETO Nº 78.877, DE 30 DE NOVEMBRO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade do Recife, Estado de Pernambuco.

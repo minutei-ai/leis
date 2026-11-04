@@ -1,5 +1,3 @@
-###DEC-091226-0-000-02-05-1985@@@
-
 DECRETO nº 91.226, de 02 de maio de 1985
 
 Altera a redação do Decreto número 89.785; de 13 de junho de 1984, que instituiu a Comissão Nacional do Ano Internacional da Juventude.

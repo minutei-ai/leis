@@ -1,5 +1,3 @@
-###DEL-004925-0-000-06-11-1942@@@
-
 DECRETO-LEI N. 4.925 – DE 6 DE NOVEMBRO DE 1942
 
 Abre ao Ministério das Relações Exteriores, o crédito especial de Cr$ 200.000,00 para despesas com a Comissão Técnica Americana

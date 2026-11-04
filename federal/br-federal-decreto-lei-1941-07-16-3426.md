@@ -1,5 +1,3 @@
-###DEL-003426-0-000-16-07-1941@@@
-
 DECRETO-LEI N. 3.426 – DE 16 DE JULHO DE 1941
 
 Substitue a tabela para a cobrança da "taxa fitossanitária", a que se refere o decreto-lei n. 3.255, de 12 de maio de 1941

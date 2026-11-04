@@ -1,5 +1,3 @@
-###DEC-054128-0-000-13-08-1964@@@
-
 DECRETO Nº 54.128, DE 13 DE AGÔsTO DE 1964.
 
 Dispõe sôbre a Chefia da Delegação do Brasil junto à Associação Latino-Americana de Livre Comércio (ALALC).

@@ -1,5 +1,3 @@
-###DEC-003773-0-000-14-03-2001@@@
-
 DECRETO Nº 3.773, DE 14 DE MARÇO DE 2001
 
 Dispõe sobre a execução do Vigésimo Quinto Protocolo Adicional ao Acordo de Alcance Parcial de Complementação Econômica nº 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 4 de dezembro de 2000.
@@ -23,8 +21,6 @@ Brasília, 14 de março de 2001; 180º da Independência e 113º da República.
 FERNANDO HENRIQUE CARDOSO
 
 Celso Lafer
-
-<br>
 
 ANEXO
 

@@ -1,5 +1,3 @@
-###DEC-073146-0-000-12-11-1973@@@
-
 DECRETO Nº 73.146 - DE 12 DE NOVEMBRO DE 1973
 
 Concede reconhecimento à Escola Superior de Educação Física da Alta Paulista, mantida pela Instituição Paulista de Ensino e Cultura, com sede na cidade de Tupã, Estado de São Paulo.

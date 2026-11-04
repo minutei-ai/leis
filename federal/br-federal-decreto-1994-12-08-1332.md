@@ -1,7 +1,3 @@
-1
-
-###DEC-001332-0-000-08-12-1994@@@
-
 DECRET0 N° 1.332, DE 8 DE DEZEMBR0 DE 1994
 
 Aprova a atualização da Política de Desenvolvimento das Atividades Espaciais - PNDAE.

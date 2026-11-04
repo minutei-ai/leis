@@ -1,5 +1,3 @@
-###DEC-054019-0-000-14-07-1964@@@
-
 DECRETO Nº 54.019, DE 14 DE JULHO DE 1964.
 
 Cria a Coordenação Nacional de Crédito Rural - CNCR - e o Fundo Nacional de Refinamento Rural e dá outras providências.

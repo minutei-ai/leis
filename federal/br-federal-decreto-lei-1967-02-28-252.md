@@ -1,5 +1,3 @@
-###DEL-000252-0-000-28-02-1967@@@
-
 DEcRETO-LEI Nº 252, DE 28 DE FEVEREIRO DE 1967
 
 Estabelece normas complementares ao Decreto-Lei nº 53, de 18 de novembro de 1966, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055065-0-000-24-11-1964@@@
-
 DECRETO Nº 55.065, DE 24 DE NOVEMBRO DE 1964.
 
 Concede à Navegação Antônio Ramos S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-074664-0-000-09-10-1974@@@
-
 DECRETO Nº 74.664, DE 9 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio A Voz da Araguarense Limitada, para, com a nova denominação de Rádio Morada do Sol Limitada, executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Araraguara, Estado de São Paulo.

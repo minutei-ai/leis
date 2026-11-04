@@ -1,5 +1,3 @@
-###DEC-068847-0-000-02-07-1971@@@
-
 DECRETO Nº 68.847, DE 2 DE JULHO DE 1971.
 
 Declara de utilidade pública a Associação das Damas de Caridade, com sede em Imbituva, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-045426-0-000-14-02-1959@@@
-
 (\*) DECRETO Nº 45.426, DE 14 DE Fevereiro DE 1959.
 
 Reajusta a representação por serviço no exterior concedida aos Cônsules Privativos, padrão M, e aos Auxiliares de Consulados Padrão N.

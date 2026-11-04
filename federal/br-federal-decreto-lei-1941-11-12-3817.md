@@ -1,5 +1,3 @@
-###DEL-003817-0-000-12-11-1941@@@
-
 DECRETO-LEI N. 3.817 – DE 12 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 64:602$9, para pagamento de pessoal adido e em disponibilidade.

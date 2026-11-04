@@ -1,5 +1,3 @@
-###DEC-052025-A-000-20-05-1963@@@
-
 DECRETO Nº 52.025-A, DE 20 DE MAIO DE 1963.
 
 Dispõe sôbre a coordenação provisória do programa de crédito rural para o triênio 1963-1965, e dá outras providências.

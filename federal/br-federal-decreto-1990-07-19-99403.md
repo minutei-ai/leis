@@ -1,7 +1,3 @@
-1
-
-###DEC-099403-0-000-19-07-1990@@@
-
 DECRETO Nº 99.403, DE 19 DE JULHO DE 1990
 
 Altera o Decreto nº 92 503, de 26 de março de 1986, que dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz.

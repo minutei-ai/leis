@@ -1,5 +1,3 @@
-###DEC-056238-0-000-03-05-1965@@@
-
 DECRETO Nº 56.238, DE 3 DE MAIO DE 1965.
 
 Fixa efetivo das turmas de 1965 da Escola de Comando e Estado-Maior da Aeronáutica.

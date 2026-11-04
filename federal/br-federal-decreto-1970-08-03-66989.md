@@ -1,5 +1,3 @@
-###DEC-066989-0-000-03-08-1970@@@
-
 DECRETO Nº 66.989, DE 3 DE AGÔSTO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - da Procuradoria Geral da República, cargo originário da extinta Fundação Brasil Central.

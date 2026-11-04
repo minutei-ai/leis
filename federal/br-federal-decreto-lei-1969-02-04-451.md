@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1de79681-241d-41e2-93b6-dc8c9f102404/texto#nowhere)
 
-###DEL-000451-0-000-04-02-1969@@@
-
 DECRETO-LEI Nº 451, de 4 de fevereiro de 1969
 
 Inclui no Plano Nacional de Viação o trecho rodoviário Assis Brasil (Fronteira com o Peru) - Brasiléia.

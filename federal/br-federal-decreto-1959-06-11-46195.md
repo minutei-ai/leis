@@ -1,5 +1,3 @@
-###DEC-046195-0-000-11-06-1959@@@
-
 DECRETO Nº 46.195, DE 11 DE JUNHO DE 1959.
 
 Autoriza o cidadão brasileiro Nicolau Priolli a pesquisar tripoli no município de Tatui, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-087000-0-000-09-03-1982@@@
-
 # Decreto nº 87.000, de 9 de março de 1982.
 
 Cria Comissão Interministerial com vistas à recuperação, controle e preservação da qualidade ambiental em Cubatão e dá outras providências.

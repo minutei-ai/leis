@@ -1,5 +1,3 @@
-###DEC-056666-0-000-06-08-1965@@@
-
 DECRETO Nº 56.666, DE 6 DE AGÔSTO DE 1965.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a instalar subestação transformadora em Tatuí.

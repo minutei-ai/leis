@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208667)<br>
-
 # DECRETO N° 68.023, DE 11 DE OUTUBRO DE 2023
 
 ### _Suspende, no corrente exercício, a aplicação do disposto no artigo 5° do Decreto n° 25.013, de 16 de abril de 1986, aos servidores em exercício na Secretaria da Administração Penitenciária que especifica e dá providências correlatas._

@@ -24,60 +24,6 @@ TABELA
 
 A QUE SE REFERE O ARTIGO 3º DESTA LEI
 
-<table border="0" cellspacing="0" cellpadding="0" width="454" style="width:12.0cm;
- margin-left:49.65pt;border-collapse:collapse;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="189" colspan="2" valign="top" style="width:5.0cm;border:solid black .75pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Estipêndios Mensais<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.1pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Valor da pensão<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.35pt;border:solid black .75pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Pensão Mínima<quebra></quebra></span></p></td></tr><tr><td width="85" valign="top" style="width:63.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Até<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$8.000,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>80%<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>........................<quebra></quebra></span></p></td></tr><tr><td width="85" valign="top" style="width:63.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>De<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$8.001,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="85" valign="top" style="width:63.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Até<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$15.000,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>60%<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$6.450,00<quebra></quebra></span></p></td></tr><tr><td width="85" valign="top" style="width:63.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>De<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$15.001,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="85" valign="top" style="width:63.75pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Acima<quebra></quebra></span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>......................<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>50%<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$9.050,00<quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> Estipêndios Mensais<quebra></quebra> </td><td valign="top"> Valor da pensão<quebra></quebra> </td><td valign="top"> Pensão Mínima<quebra></quebra> </td></tr><tr><td valign="top"> Até<quebra></quebra> </td><td valign="top"> Cr$8.000,00<quebra></quebra> </td><td valign="top"> 80%<quebra></quebra> </td><td valign="top"> ........................<quebra></quebra> </td></tr><tr><td valign="top"> De<quebra></quebra> </td><td valign="top"> Cr$8.001,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Até<quebra></quebra> </td><td valign="top"> Cr$15.000,00<quebra></quebra> </td><td valign="top"> 60%<quebra></quebra> </td><td valign="top"> Cr$6.450,00<quebra></quebra> </td></tr><tr><td valign="top"> De<quebra></quebra> </td><td valign="top"> Cr$15.001,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Acima<quebra></quebra> </td><td valign="top"> ......................<quebra></quebra> </td><td valign="top"> 50%<quebra></quebra> </td><td valign="top"> Cr$9.050,00<quebra></quebra> </td></tr></tbody></table>
 
 * * *

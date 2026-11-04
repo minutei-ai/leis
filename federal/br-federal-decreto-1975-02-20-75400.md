@@ -1,5 +1,3 @@
-###DEC-075400-0-000-20-02-1975@@@
-
 DECRETO Nº 75.400, DE 20 DE FEVEREIRO DE 1975.
 
 Concede à "ALIA - The Royal Jordanian Airline" autorização para instalar uma Agência Geral de venda de transporte aéreo no Brasil.

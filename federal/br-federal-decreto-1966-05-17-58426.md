@@ -1,5 +1,3 @@
-###DEC-058426-0-000-17-05-1966@@@
-
 DECRETO Nº 58.426, DE 17 DE MAIO DE 1966.
 
 Autoriza o Condomínio do imóvel Pró-Indiviso “Pasto Grande” representado por seu administrador a pesquisar calcáreo e minério de manganês, no município de Ouro Prêto, Estado de Minas Gerais.

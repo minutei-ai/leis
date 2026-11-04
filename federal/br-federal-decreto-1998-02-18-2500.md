@@ -1,5 +1,3 @@
-###DEC-002500-0-000-18-02-1998@@@
-
 DECRETO Nº 2.500, DE 18 DE FEVEREIRO DE 1998
 
 Dispõe sobre o adiantamento de remuneração aos militares e aos servidores públicos do Poder Executivo Federal.

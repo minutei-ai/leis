@@ -1,5 +1,3 @@
-###DEC-062407-0-000-15-03-1968@@@
-
 DECRETO Nº 62.407, DE 15 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Associação de Proteção à Maternidade e à Infância de São Miguel dos Campos”, com sede em São Miguel dos Campos, Estados de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-007126-0-000-03-03-2010@@@
-
 DECRETO Nº 7.126, DE 3 DE MARÇO DE 2010.
 
 Altera o Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999, no tocante ao procedimento de contestação do Fator Acidentário de Prevenção.

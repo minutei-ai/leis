@@ -1,5 +1,3 @@
-###DEC-068179-0-000-08-02-1971@@@
-
 DECRETO Nº 68.179, DE 8 DE FEVEREIRO DE 1971.
 
 Concede reconhecimento à Faculdade de Direito da Fundação Educacional de Varginha, M.G.

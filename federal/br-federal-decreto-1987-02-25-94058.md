@@ -1,5 +1,3 @@
-###DEC-094058-0-000-25-02-1987@@@
-
 DECRETO N° 94.058, DE 25 DE FEVEREIRO DE 1987
 
 Cria a Embaixada do Brasil em Mogadíscio, República Democrática da Somália.

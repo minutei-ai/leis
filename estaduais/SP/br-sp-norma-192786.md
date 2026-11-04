@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/192786)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2020/compilacao-lei-17239-03.01.2020.html)
 
 # LEI N° 17.239, DE 03 DE JANEIRO DE 2020

@@ -26,9 +26,12 @@ I -  aumentar em 20 (vinte) unidades o quantitativo do cargo Auxiliar Administr
 
 II - aumentar em 2 (duas) unidades o quantitativo do cargo Assistente Administrativo que, com o acréscimo, passa a contar com um total de 08 (oito) vagas.
 
-Parágrafo único. Em razão da alteração disposta no caput deste artigo, a tabela constante no art. 1º, inciso IV, da Lei Complementar nº 4.904, de 28 de fevereiro de 2005, passará a viger com a seguinte redação:<br>
-“Art. 1º. ...................................................................................................<br>
-.................................................................................................................<br>
+Parágrafo único. Em razão da alteração disposta no caput deste artigo, a tabela constante no art. 1º, inciso IV, da Lei Complementar nº 4.904, de 28 de fevereiro de 2005, passará a viger com a seguinte redação:
+
+“Art. 1º. ...................................................................................................
+
+.................................................................................................................
+
 IV - Categoria Operacional Administrativa:
 
 | Cargo/Área de Atuação | Quantitativo |

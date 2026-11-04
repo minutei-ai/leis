@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211303)<br>
-
 # DECRETO N° 69.778, DE 11 DE AGOSTO DE 2025
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha do Mérito "Pela Vida", instituída pelo Instituto Brasileiro de Abordagem Humanizada a Tentativas de Suicídio e dá providências correlatas._
@@ -18,7 +16,8 @@ Arthur Luis Pinho de Lima
 
 #### REGULAMENTO DA CONDECORAÇÃO
 
-#### Capítulo I<br>
+#### Capítulo I
+
 Da honraria
 
 **Artigo 1° -** A Medalha do Mérito "Pela Vida" tem por objetivo reconhecer e galardoar personalidades, físicas ou jurídicas, civis ou militares, nacionais ou estrangeiras, pelos relevantes serviços prestados ao Estado de São Paulo e a seu povo, em especial aquelas personalidades que tenham contribuído de forma significativa para a promoção da abordagem técnica e humanizada em situações de tentativa de suicídio.
@@ -53,7 +52,8 @@ a) anverso: nome da honraria; nome completo do(a) agraciado(a); nome da institui
 
 b) verso: dados de registro do diploma na Instituição (Livro e Página/Sequência); chancela de registro do diploma junto ao Conselho Estadual da Ordem do Ipiranga.
 
-#### Capítulo II<br>
+#### Capítulo II
+
 Da Chancelaria e do Conselho de Outorgas
 
 **Artigo 3° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pelo Conselho de Outorgas.
@@ -70,7 +70,8 @@ Da Chancelaria e do Conselho de Outorgas
 
 **Parágrafo único -** O total de membros da Chancelaria ou Conselho de Outorgas, incluindo seu Presidente, deve ser em número ímpar para evitar empates nas votações.
 
-#### Capítulo III<br>
+#### Capítulo III
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 5° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler, e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual da Ordem do Ipiranga.
@@ -101,7 +102,8 @@ V- Chanceler para os demais membros e suplentes.
 
 **Artigo 8° -** Caso a honraria permaneça por muito tempo sem ser outorgada e/ou nos casos em que o Conselho de Outorga seja dissolvido, será necessário acender novamente a Fonte de Honra (Fons Honorum), conforme previsto no Artigo 6°.
 
-#### Capítulo IV<br>
+#### Capítulo IV
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 9° -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas ao Conselho de Outorgas em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -140,7 +142,8 @@ Do Direito de Honra (Jus Honorum)
 
 **Artigo 16 -** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-#### Capítulo V<br>
+#### Capítulo V
+
 Do registro e das chancelas oficiais dos diplomas
 
 **Artigo 17 -** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
@@ -161,7 +164,8 @@ Do registro e das chancelas oficiais dos diplomas
 
 **§3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual da Ordem do Ipiranga.
 
-#### Capítulo VI<br>
+#### Capítulo VI
+
 Das cerimônias de outorga
 
 **Artigo 20 -** A Chancelaria da instituição estabelecerá uma data magna para que seja realizada uma cerimônia de outorga oficial anual, preferencialmente pública.
@@ -186,7 +190,8 @@ Das cerimônias de outorga
 
 **§3° -** Os membros da Chancelaria devem ostentar ao menos a roseta (botão de lapela) da honraria a ser outorgada.
 
-#### Capítulo VII<br>
+#### Capítulo VII
+
 Das disposições finais
 
 **Artigo 23 -** É vedada a comercialização da honraria, sob pena de revogação do decreto de oficialização.

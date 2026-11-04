@@ -1,5 +1,3 @@
-###DEL-004601-0-000-20-08-1942@@@
-
 DECRETO-LEI N. 4.601 – DE 20 DE AGOSTO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de 1.500:000$0, à conta do “Plano Especial de Obras Públicas e Aparelhamento da Defesa Nacional, e dá outras providências.

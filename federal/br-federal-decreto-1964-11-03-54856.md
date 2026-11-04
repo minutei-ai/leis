@@ -1,5 +1,3 @@
-###DEC-054856-0-000-03-11-1964@@@
-
 DECRETO Nº 54.856, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Peres de Moura e pesquisar grafite no município de Arcos, Estado de Minas Gerais.

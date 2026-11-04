@@ -1,5 +1,3 @@
-###DEC-045806-0-000-15-04-1959@@@
-
 DECRETO Nº 45.806, de 15 de abril de 1959.
 
 Altera artigo do Decreto nº 36.320, de 9 de outubro de 1954.

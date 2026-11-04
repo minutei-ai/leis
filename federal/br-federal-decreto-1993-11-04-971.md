@@ -1,7 +1,3 @@
-1
-
-###DEC-000971-0-000-04-11-1993@@@
-
 DECRETO N° 971, DE 4 DE NOVEMBRO DE 1993
 
 Dispõe sobre o cumprimento, no território nacional, da execução das Resoluções MRE/Res.1/91, MRE/Res.2/91, e MRE/Res.3/92, MRE/Res.4/92 e MRE/Res.5/93, adotadas pela Reunião “ad hoc” de Ministros das Relações Exteriores dos países-membros da Organização dos Estados Americanos.

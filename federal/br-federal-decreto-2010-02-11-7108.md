@@ -1,5 +1,3 @@
-###DEC-007108-0-000-11-02-2010@@@
-
 DECRETO Nº 7.108, DE 11 DE FEVEREIRO DE 2010.
 
 Promulga o texto da Medida 1 (2003) - Secretariado do Tratado da Antártida, adotado durante a 26ª Reunião Consultiva do Tratado da Antártida (ATCM), realizada em Madri, em 2003.

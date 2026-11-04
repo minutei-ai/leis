@@ -28,7 +28,8 @@ Art. 4º O sujeito passivo da Contribuição para Custeio do Serviço de Ilumina
 
 Art. 5º A base de cálculo da Contribuição para Custeio do Serviço de Iluminação Pública-COSIP, será obtida em função da planilha de custo, em razão do universo de contribuintes representado pelas unidades imobiliárias autônomas, edificadas ou não, e não imobiliárias, localizadas na zona urbana e de expansão deste Município e ligadas à rede de energia elétrica, obedecendo a seguinte fórmula:
 
-                            Vc=CTS x Ci UIA<br>
+                            Vc=CTS x Ci UIA
+
                                                                               Σ Ct UIA                                   
 
                                     Onde:
@@ -55,16 +56,20 @@ Art. 7º Fica criado o Fundo Municipal de Iluminação Pública, de natureza con
 
 Parágrafo único. Para o Fundo serão destinados todos os recursos arrecadados com a Contribuição para Custeio de Serviços de Iluminação Pública-COSIP, que será destinado exclusivamente para o custeio do serviço de iluminação pública de que trata  esta Lei.
 
-Art. 7º-A Ficam desvinculados do Fundo Municipal de Iluminação Pública – FMIP 50% (cinquenta por cento), até 31 de dezembro de 2026, e 30% (trinta por cento), no período de 1º de janeiro de 2027 a 31 de dezembro de 2032, das receitas relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, por força do disposto no art. 76-B do Ato das Disposições Constitucionais Transitórias.<br>
+Art. 7º-A Ficam desvinculados do Fundo Municipal de Iluminação Pública – FMIP 50% (cinquenta por cento), até 31 de dezembro de 2026, e 30% (trinta por cento), no período de 1º de janeiro de 2027 a 31 de dezembro de 2032, das receitas relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, por força do disposto no art. 76-B do Ato das Disposições Constitucionais Transitórias.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-§ 1º Os recursos desvinculados na forma do _caput_ deste artigo serão transferidos para o Tesouro Municipal, ressalvadas as transferências obrigatórias e voluntárias entre entes da Federação com destinação específica em lei.<br>
+§ 1º Os recursos desvinculados na forma do _caput_ deste artigo serão transferidos para o Tesouro Municipal, ressalvadas as transferências obrigatórias e voluntárias entre entes da Federação com destinação específica em lei.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-§ 2º A cada exercício financeiro, até a data de que trata o _caput_ deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os _superávits_ financeiros, verificados no exercício financeiro imediatamente anterior, do fundo público de que trata esta Lei.<br>
+§ 2º A cada exercício financeiro, até a data de que trata o _caput_ deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os _superávits_ financeiros, verificados no exercício financeiro imediatamente anterior, do fundo público de que trata esta Lei.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-Art. 7º-B O saldo financeiro apurado ao final de cada exercício, não comprometido com o pagamento de restos a pagar e com as despesas liquidadas e não pagas no exercício corrente, relativamente ao Fundo de que trata esta Lei, será automaticamente transferido à conta do Tesouro Municipal como Recurso Ordinário do Tesouro, observadas as disposições constitucionais.<br>
+Art. 7º-B O saldo financeiro apurado ao final de cada exercício, não comprometido com o pagamento de restos a pagar e com as despesas liquidadas e não pagas no exercício corrente, relativamente ao Fundo de que trata esta Lei, será automaticamente transferido à conta do Tesouro Municipal como Recurso Ordinário do Tesouro, observadas as disposições constitucionais.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
 Art. 8º Ficam isentos do pagamento da Contribuição para Custeio de Serviços de Iluminação Pública-COSIP, as unidades imobiliárias autônomas com ligações monofásicas residenciais, cujo consumo seja igual ou inferior a 50 (cinquenta) Kw/h, os aposentados e pensionistas que ganham até  um (01) salário mínimo, os beneficiários nos programas Sociais do governo, Templos Religiosos e entidades filantrópicas.
@@ -75,10 +80,8 @@ Art. 10. Esta Lei entrará em vigor no dia 1º de janeiro de 2003.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 30 dias do mês de Dezembro de dois mil e dois.
 
-<br>
  
 
-ADEMIR MENEZES<br>
-PREFEITO MUNICIPAL<br>
-<br>
-<br>
+ADEMIR MENEZES
+
+PREFEITO MUNICIPAL

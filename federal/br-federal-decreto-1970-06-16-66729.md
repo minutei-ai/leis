@@ -1,5 +1,3 @@
-###DEC-066729-0-000-16-06-1970@@@
-
 DECRETO Nº 66.729, DE 16 DE JUNHO DE 1970.
 
 Declara de utilidade pública, a Associação de Pais e Amigos dos Excepcionais, com sede em Maceió, Estado de Alagoas.

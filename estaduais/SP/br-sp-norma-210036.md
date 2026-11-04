@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210036)<br>
-
 # DECRETO N° 68.903, DE 23 DE SETEMBRO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à implantação de uma estação elevatória de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., na Chácara Maria Trindade, no Município de São Paulo, e dá providências correlatas._

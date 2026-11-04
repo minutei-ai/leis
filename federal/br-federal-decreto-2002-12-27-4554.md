@@ -1,5 +1,3 @@
-###DEC-004554-0-000-27-12-2002@@@
-
 DECRETO N. 4.554 – DE 27 DE DEZEMBRO DE 2002
 
 Dispõe sobre a delimitação da Área do Porto Organizado do Rio de Janeiro - RJ.

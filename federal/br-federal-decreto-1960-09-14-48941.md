@@ -1,5 +1,3 @@
-###DEC-048941-0-000-14-09-1960@@@
-
 Decreto nº 48.941, de 14 de setembro de 1960.
 
 Prorroga a vigência do Decreto nº 45.216, de 14 de janeiro de 1959.

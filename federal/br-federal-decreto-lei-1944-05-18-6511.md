@@ -1,5 +1,3 @@
-###DEL-006511-0-000-18-05-1944@@@
-
 DECRETO-LEI N. 6.511 – DE 18 DE MAIO DE 1944
 
 Altera, sem aumento de despesa, carreiras do Quadro II (extinto) do Ministério da Viação e Obras Públicas e dá outras providências

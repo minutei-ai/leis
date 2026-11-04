@@ -1,5 +1,3 @@
-###DEC-068282-0-000-25-02-1971@@@
-
 decreto nº 68.282, de 25 de fevereiro de 1971.
 
 Autorização para funcionamento de Cursos da Faculdade de Ciências e Letras "Tereza Martin" - SP.

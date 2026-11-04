@@ -1,5 +1,3 @@
-###DEC-075604-0-000-14-04-1975@@@
-
 DECRETO Nº 75.604, DE 14 DE ABRIL DE 1975.
 
 Concede à Mineração Morro Agudo S.A. o direito de lavrar minérios de zinco e chumbo no Município de Paracatu, Estado de Minas Gerais.

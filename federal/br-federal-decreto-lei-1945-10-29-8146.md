@@ -1,5 +1,3 @@
-###DEL-008146-0-000-29-10-1945@@@
-
 DECRETO-LEI N. 8.146 – DE 29 DE OUTUBRO DE 1945
 
 Altera dispositivos dos Estatutos anexos ao Decreto-lei n. 7.825, de 4 de agôsto de 1945

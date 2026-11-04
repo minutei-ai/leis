@@ -1,5 +1,3 @@
-###DEC-049630-0-000-30-12-1960@@@
-
 DECRETO Nº 49.630, DE 30 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Borborema - Companhia de Seguros Gerais.

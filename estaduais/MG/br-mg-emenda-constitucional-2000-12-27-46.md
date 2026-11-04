@@ -27,7 +27,3 @@ Deputado Durval Ângelo - 2º-Vice-Presidente
 Deputado Dilzon Melo - 1º-Secretário
 
 Deputado Gil Pereira - 2º-Secretário
-
-\--------------------------------------------------------
-
-Data da última atualização: 17/3/2004.

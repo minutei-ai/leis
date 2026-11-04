@@ -1,5 +1,3 @@
-###DEC-054251-0-000-02-09-1964@@@
-
 DECReTO Nº 54.251, DE 2 DE SETEMBRO DE 1964.
 
 Reestrutura a Comissão Nacional de Assistência Técnica.

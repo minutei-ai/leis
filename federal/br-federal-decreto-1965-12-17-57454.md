@@ -1,5 +1,3 @@
-###DEC-057454-0-000-17-12-1965@@@
-
 DECRETO Nº 57.454, DE 17 DE DEZEMBRO DE 1965.
 
 Autoriza o Ministério da Fazenda a dar a garantia do Tesouro Nacional à operação de crédito que menciona.
@@ -17,8 +15,6 @@ Brasília, 17 de dezembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Octávio Gouveia de Bulhões
-
-###DEC-057454-0-000-17-12-1965@@@RET01+++
 
 decreto nº 57.454, de 17 de dezembro de 1965.
 

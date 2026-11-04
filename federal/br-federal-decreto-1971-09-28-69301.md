@@ -1,5 +1,3 @@
-###DEC-069301-0-000-28-09-1971@@@
-
 DECRETO Nº 69.301, DE 28 DE SETEMBRO DE 1971.
 
 Autorização para funcionamento do Curso de Ciências Físicas e Biológicas (licenciatura de 1º ciclo) da Faculdade de Filosofia, Ciências e Letras de Guaxupé, M.G.

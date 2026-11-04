@@ -1,5 +1,3 @@
-###DEC-083435-0-000-10-05-1979@@@
-
 decreto nº 83.435, de 10 de maio de 1979.
 
 Altera a composição da Comissão Nacional do Ano Internacional da Criança, instituída pelo Decreto nº 82.831, de 11 de dezembro de 1978.

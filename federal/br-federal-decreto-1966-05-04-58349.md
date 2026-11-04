@@ -1,5 +1,3 @@
-###DEC-058349-0-000-04-05-1966@@@
-
 Decreto nº 58.349, de 4 de maio de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Santa Cruz Companhia de Seguros Gerais, relativa ao aumento do capital social.

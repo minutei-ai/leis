@@ -1,5 +1,3 @@
-###DEC-073686-0-000-20-02-1974@@@
-
 DECRETO N° 73.686, DE 20 DE FEVEREIRO DE 1974.
 
 Regulamenta a Lei n° 5.876, de 11 de maio de 1973, e o Decreto-lei número 1.288, de 1º de novembro de 1973, e dá outras providências.

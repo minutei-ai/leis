@@ -1,5 +1,3 @@
-###DEC-074340-0-000-30-07-1974@@@
-
 DECRETO Nº 74.340, DE 30 DE JULHO DE 1974.
 
 Torna sem efeito aproveitamento de disponíveis do IPASE e dá outras providências.

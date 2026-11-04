@@ -1,5 +1,3 @@
-###DEL-005804-0-000-09-09-1943@@@
-
 DECRETO‑LEI N. 5.804 – DE 9 DE SETEMBRO DE 1943
 
 Abre ao Conselho Federal de Comércio Exterior o crédito suplementar de Cr$ 20.000,00, à verba que especifica, e dá outras providencias

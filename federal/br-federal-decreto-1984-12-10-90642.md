@@ -1,5 +1,3 @@
-###DEC-090642-0-000-10-12-1984@@@
-
 Decreto nº 90.642, de 10 de dezembro de 1984
 
 Outorga concessão à TELEVISÃO ATALAIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Propriá, Estado de Sergipe.

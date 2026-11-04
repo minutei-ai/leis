@@ -1,5 +1,3 @@
-###DEC-057074-0-000-15-10-1965@@@
-
 DECRETO Nº 57.074, DE 15 DE OUTUBRO DE 1965.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$36.221.047 para o fim que especifica.

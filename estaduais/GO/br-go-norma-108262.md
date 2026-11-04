@@ -110,7 +110,8 @@ IV – promover, entre os servidores, os órgãos e as entidades, a cultura orie
 
 § 5º A concessão da evolução funcional será efetivada por ato do titular do órgão de origem, após a validação pela comissão de que trata o § 4º deste artigo.
 
-§ 6º Os critérios para aferição dos requisitos estabelecidos no _caput_ deste artigo, a metodologia do sistema de pontos, a composição da comissão e as demais condições para a efetivação das evoluções funcionais serão definidos no prazo de até 180 (cento e oitenta) dias da publicação desta Lei por meio de decreto do Chefe do Poder Executivo, após a manifestação técnica do órgão central de gestão de pessoal, inclusive suas alterações.<br>
+§ 6º Os critérios para aferição dos requisitos estabelecidos no _caput_ deste artigo, a metodologia do sistema de pontos, a composição da comissão e as demais condições para a efetivação das evoluções funcionais serão definidos no prazo de até 180 (cento e oitenta) dias da publicação desta Lei por meio de decreto do Chefe do Poder Executivo, após a manifestação técnica do órgão central de gestão de pessoal, inclusive suas alterações.
+
 **\- [Vide Lei nº 23.241, de 21-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110405), Art. 1º, I, a** - Dispõe sobre a prorrogação de prazos indicados nas Leis que especifica. 
 
 CAPÍTULO IV

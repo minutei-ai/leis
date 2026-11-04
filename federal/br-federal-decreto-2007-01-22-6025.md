@@ -1,5 +1,3 @@
-###DEC-006025-0-000-22-01-2007@@@
-
 DECRETO Nº 6.025, DE 22 DE JANEIRO DE 2007.
 
 Institui o Programa de Aceleração do Crescimento - PAC, o seu Comitê Gestor, e dá outras providências.
@@ -55,5 +53,3 @@ Guido Mantega
 Paulo Bernardo
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

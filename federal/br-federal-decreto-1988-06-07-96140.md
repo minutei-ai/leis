@@ -1,5 +1,3 @@
-###DEC-096140-0-000-07-06-1988@@@
-
 DECRETO N° 96.140, DE 07 DE JUNHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

@@ -182,5 +182,6 @@ Parágrafo único. A concessão de licença com preservação remuneratória res
 
 Goiânia, 3 de julho de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado

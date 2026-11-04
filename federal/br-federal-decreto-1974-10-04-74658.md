@@ -1,5 +1,3 @@
-###DEC-074658-0-000-04-10-1974@@@
-
 DECRETO Nº 74.658, DE 4 DE OUTUBRO DE 1974.
 
 Altera a denominação das Delegacias Estaduais do Ministério da Fazenda.

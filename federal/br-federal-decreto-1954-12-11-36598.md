@@ -1,16 +1,14 @@
-###DEC-036598-0-000-11-12-1954@@@
+**DECRETO Nº 36.598, DE 11 DE DEZEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.598, DE 11 DE DEZEMBRO DE 1954.</strong>
+***Dispõe sôbre a Comissão de Localização de Nova Capital Federal, e dá outras providências.***
 
-<em><strong>Dispõe sôbre a Comissão de Localização de Nova Capital Federal, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e tendo em vista a autorização constante do art. 1. da Lei n.º 1.803, de 5 de janeiro de 1953,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e tendo em vista a autorização constante do art. 1. da Lei n.º 1.803, de 5 de janeiro de 1953,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º A Comissão de Localização da Nova Capital Federal (CLNCF), criada pelo Decreto n.º 32.976, de 8 de junho de 1953, alterada pelo de n.º 32.976, de 8 de junho de 1953, alterada pelo de nº 33.769, de 5 de setembro do mesmo ano, tem por finalidade proceder os estudos definitivos destinados a escolha do sítio e da área da nova Capital, dentro do perímetro delimitado pela Lei nº 1.803 de 5 de janeiro de 1953, e satisfeitas as condições mencionadas no § 1º do art. 1º, e no art. 1º, e no art.2.º dessa mesma lei.
 
-<strong>Art</strong>. 1º A Comissão de Localização da Nova Capital Federal (CLNCF), criada pelo Decreto n.º 32.976, de 8 de junho de 1953, alterada pelo de n.º 32.976, de 8 de junho de 1953, alterada pelo de nº 33.769, de 5 de setembro do mesmo ano, tem por finalidade proceder os estudos definitivos destinados a escolha do sítio e da área da nova Capital, dentro do perímetro delimitado pela Lei nº 1.803 de 5 de janeiro de 1953, e satisfeitas as condições mencionadas no § 1º do art. 1º, e no art. 1º, e no art.2.º dessa mesma lei.
-
-<strong>Art</strong>. 2º Compete, também, a CLNCF, realizar ou mandar realizar:
+**Art**. 2º Compete, também, a CLNCF, realizar ou mandar realizar:
 
 a) Estudos definitivos sôbre as condições do abastecimento de água e energia elétrica à nova Capital;
 
@@ -22,7 +20,7 @@ d) Plano de desapropriação da área do Distrito Federal e de outras necessári
 
 e) Os levantamentos e estudos preliminares exigidos pela mudança do Gôverno Federal e pela transferência e instalação do funcionalismo federal na futura Capital.
 
-<strong>Art</strong>. 3<strong>º</strong> A CLNCF será constituída de:
+**Art**. 3**º** A CLNCF será constituída de:
 
 a) órgão deliberativo;
 
@@ -32,7 +30,7 @@ b) órgão executivos e constitutivos.
 
 § 2º São órgãos executivos e consultivos da CLNCF, diretamente subordinados ao seu Presidente, o Serviço de Administração e Assessoria Jurídica, cujos membros são livre escolha do Presidente da CLNCF e requisitados na forma da legislação em vigor.
 
-<strong>Art</strong>. 4º A CLNCF é diretamente subordinada ao Presidente da República e será integrada por:
+**Art**. 4º A CLNCF é diretamente subordinada ao Presidente da República e será integrada por:
 
 a) um presidente, de livre escolha do Presidente da República;
 
@@ -56,19 +54,19 @@ h) um representante da Fundação Brasil Central indicado pelo respectivo Presid
 
 § 3.º O Presidente da CLNCF indicará, dentre os membros da mesma, aquele que o deva substituir nos impedimentos ocasionais, não excedentes de 30 dias.
 
-<strong>Art</strong>. 5.º O exercício da função de Presidente e de membro da CLNCF constitui serviço público relevante e será gratuito, assegurado, porém e unicamente, quando em serviço da CLNCF, o pagamento de passagens e diárias de viagens, nas bases fixadas pelo Estatuto dos funcionários Públicos Civis da União ou pelo Código de Vencimentos e Vantagens dos Militares, conforme se trate de civil ou militar.
+**Art**. 5.º O exercício da função de Presidente e de membro da CLNCF constitui serviço público relevante e será gratuito, assegurado, porém e unicamente, quando em serviço da CLNCF, o pagamento de passagens e diárias de viagens, nas bases fixadas pelo Estatuto dos funcionários Públicos Civis da União ou pelo Código de Vencimentos e Vantagens dos Militares, conforme se trate de civil ou militar.
 
-<strong>Art</strong>. 6º O Presidente da CLNCF poderá criar e compor subcomissões técnicas e solicitar o concurso de pessoas ou de entidades especializadas, que se tornarem necessárias, assim como requisitar pessoal civil ou militar técnico ou não sem prejuízo de vencimentos, direitos e vantagens a que façam jus em suas repartições de origem.
+**Art**. 6º O Presidente da CLNCF poderá criar e compor subcomissões técnicas e solicitar o concurso de pessoas ou de entidades especializadas, que se tornarem necessárias, assim como requisitar pessoal civil ou militar técnico ou não sem prejuízo de vencimentos, direitos e vantagens a que façam jus em suas repartições de origem.
 
-<strong>Art</strong>. 7º Todas as repartições federais, autárquicas e órgãos para-estatais colaboração com a CLNCF, à requisição do Presidente da mesma, fornecendo-lhe a cooperação necessária, inclusive no que concerne à realização de trabalhos técnicos.
+**Art**. 7º Todas as repartições federais, autárquicas e órgãos para-estatais colaboração com a CLNCF, à requisição do Presidente da mesma, fornecendo-lhe a cooperação necessária, inclusive no que concerne à realização de trabalhos técnicos.
 
-<strong>Art</strong>. 8º A CLNCF examinará e coordenará os trabalhos apresentados pelas subcomissões, pelos técnicos ou entidades a cujos serviços recorrer, elaborando, ao final o trabalho definitivo, que deverá ser apresentado ao Presidente da República, até 31 de dezembro de 1955.
+**Art**. 8º A CLNCF examinará e coordenará os trabalhos apresentados pelas subcomissões, pelos técnicos ou entidades a cujos serviços recorrer, elaborando, ao final o trabalho definitivo, que deverá ser apresentado ao Presidente da República, até 31 de dezembro de 1955.
 
 Parágrafo único. Os trabalhos da CLNCF poderão ser parcelada ou conjuntamente encaminhados à Presidência da República, para efeito do art. 6º da Lei nº 1.803, de 1953.
 
-<strong>Art</strong>. 9º Todas as despesas da CLNCF, inclusive as decorrentes do pagamento de passagens e diárias a seus componentes correrão a conta do crédito especial aberto em virtude da autorização constante do art. 3º da Lei nº 1.803, de 5 de janeiro de 1953, ou outros que venham a ser aberto cabendo ao Presidente da CLNCF a movimentação desses cursos.
+**Art**. 9º Todas as despesas da CLNCF, inclusive as decorrentes do pagamento de passagens e diárias a seus componentes correrão a conta do crédito especial aberto em virtude da autorização constante do art. 3º da Lei nº 1.803, de 5 de janeiro de 1953, ou outros que venham a ser aberto cabendo ao Presidente da CLNCF a movimentação desses cursos.
 
-<strong>Art</strong>. 10. A CLNCF elabora e aprovará seu Regimento Interno, no qual, entre outras disposições consideradas convenientes, estabelecerá as seguintes:
+**Art**. 10. A CLNCF elabora e aprovará seu Regimento Interno, no qual, entre outras disposições consideradas convenientes, estabelecerá as seguintes:
 
 a) A CLNCF funcionará com presença de, pelo menos, metade mais um de seus membros:
 
@@ -78,13 +76,13 @@ c) Os votos em branco não alterarão o quorum para deliberações;
 
 d) O Presidente enviará, anualmente, ao Presidente da República, um relatório dos trabalhos da CLNCF.
 
-<strong>Art</strong>. 11º Ficam revogados o Decreto nº 33.769, de 5 de setembro de 1953, e o Decreto nº 32.976, de 8 de junho de 1953.
+**Art**. 11º Ficam revogados o Decreto nº 33.769, de 5 de setembro de 1953, e o Decreto nº 32.976, de 8 de junho de 1953.
 
-<strong>Art</strong>. 12. Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 12. Êste Decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, em 11 de dezembro de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Miguel Seabra Fagundes
 

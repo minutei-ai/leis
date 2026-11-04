@@ -1,5 +1,3 @@
-###DEC-091367-0-000-24-06-1985@@@
-
 DECRETO nº 91.367, de 24 de junho dE 1985
 
 Reduz alíquota do Imposto sobre Produtos Industrializados para os táxis com motor a álcool.

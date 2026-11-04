@@ -1,5 +1,3 @@
-###DEC-054697-0-000-29-10-1964@@@
-
 DECRETO Nº 54.697, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia de Cimento Portland Maringá a lavrar minério de ferro no município de Ribeira, Estado de São Paulo.

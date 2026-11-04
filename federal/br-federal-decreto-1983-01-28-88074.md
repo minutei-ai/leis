@@ -1,5 +1,3 @@
-###DEC-088074-0-000-28-01-1983@@@
-
 DECRETO Nº 88.074, DE 28 DE JANEIRO DE 1983.
 
 Cria o Grupamento de Fuzileiros Navais de Rio Grande (GptFNRG) e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072846-0-000-26-09-1973@@@
-
 decreto nº 72.846, de 26 de setembro de 1973.
 
 Regulamenta a Lei nº 5.564, de 21 de dezembro de 1968, que provê sobre o exercício da profissão de orientador educacional.

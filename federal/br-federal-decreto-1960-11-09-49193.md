@@ -1,5 +1,3 @@
-###DEC-049193-0-000-09-11-1960@@@
-
 DECRETO Nº 49.193, DE 9 DE Novembro DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Niquelândia, Estado de Goiás.

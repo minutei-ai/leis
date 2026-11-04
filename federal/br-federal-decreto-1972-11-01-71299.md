@@ -1,5 +1,3 @@
-###DEC-071299-0-000-01-11-1972@@@
-
 DECRETO Nº 71.299, DE 1 DE NOVEMBRO DE 1972.
 
 Abre à Presidência da República, em favor da Consultoria Geral da República, o crédito suplementar de Cr$ 66.700,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -10,11 +8,67 @@ decreta:
 
 Art. 1º Fica aberto à Presidência da República, em favor da Consultoria Geral da República, o crédito suplementar no valor de Cr$ 66.700,00 (sessenta e seis mil e setecentos cruzeiros), para reforço de dotações orçamentárias consignadas ao subanexo 11.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11.00</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- PRESIDÊNCIA DA REPÚBLICA</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11.09</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Consultoria Geral da República</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1109.0104.2001</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Assessoria Jurídica à Presidência da República</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas..................................................</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">46.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Despesas Variáveis......................................................................</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Salário-Família..............................................................................</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">700</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">TOTAL..........................................................................................</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">66.700</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+11.00
+
+- PRESIDÊNCIA DA REPÚBLICA
+
+11.09
+
+- Consultoria Geral da República
+
+1109.0104.2001
+
+- Assessoria Jurídica à Presidência da República
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas..................................................
+
+46.000
+
+02
+
+- Despesas Variáveis......................................................................
+
+20.000
+
+3.2.3.3
+
+- Salário-Família..............................................................................
+
+700
+
+TOTAL..........................................................................................
+
+66.700
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotação orçamentária consignada no vigente Orçamento ao subanexo 28.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">28.00</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">ENCARGOS GERAIS DA UNIÃO</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2802</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Recursos sob Supervisão do Ministério do Planejamento e Coordenação Geral</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2802.1800.2003</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3.2.6.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Reserva de Contingência................................................................</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">66.700</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+28.00
+
+ENCARGOS GERAIS DA UNIÃO
+
+2802
+
+Recursos sob Supervisão do Ministério do Planejamento e Coordenação Geral
+
+Atividade
+
+2802.1800.2003
+
+3.2.6.0
+
+Reserva de Contingência................................................................
+
+66.700
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,5 +1,3 @@
-###DEC-049259-0-000-17-11-1960@@@
-
 DECRETO Nº 49.259, DE 17 DE NOVEMBRO DE 1960.
 
 Institui a Campanha de Radiodifusão Educativa.

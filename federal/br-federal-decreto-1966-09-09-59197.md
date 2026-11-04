@@ -1,5 +1,3 @@
-###DEC-059197-0-000-09-09-1966@@@
-
 DECRETO Nº 59.197, DE 9 DE SETEMBRO DE 1966.
 
 Altera o Decreto nº 52.439, de 3 de setembro de 1963 revoga o Decreto nº 50.133, de 1 de janeiro de 1961 e dá outras providências.

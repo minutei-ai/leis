@@ -1,5 +1,3 @@
-###DEC-045028-0-000-04-12-1958@@@
-
 DECRETO Nº 45.028, DE 4 DE DEZEMBRO DE 1958.
 
 Modifica o art. 1º e parágrafos do Decreto nº 24.420, de 30 de janeiro de 1948, que outorgou à Alumínio Minas Gerais S.A. (antiga Eletro Química Brasileira S.A.) concessão para aproveitamento de energia hidráulica de diversas quedas existentes no Rio Piranga, distrito de Guaraciaba, Município de Piranga, Estado de Minas Gerais.

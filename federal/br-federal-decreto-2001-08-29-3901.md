@@ -1,5 +1,3 @@
-###DEC-003901-0-000-29-08-2001@@@
-
 DECRETO Nº 3.901, DE 29 DE AGOSTO 2001
 
 Dispõe sobre a execução do Quadragésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica no 2 (prorrogação do ACE-2), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 31 de maio de 200l.

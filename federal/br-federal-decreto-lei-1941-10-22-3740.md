@@ -1,5 +1,3 @@
-###DEL-003740-0-000-22-10-1941@@@
-
 DECRETO-LEI N. 3.740 – DE 22 DE OUTUBRO DE 1941
 
 Altera a redação do art. 1º do decreto-lei n. 3.715, de 15 de outubro de 1941

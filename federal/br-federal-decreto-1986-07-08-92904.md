@@ -1,5 +1,3 @@
-###DEC-092904-0-000-08-07-1986@@@
-
 DECRETO Nº 92.904, DE 8 DE JULHO DE 1986
 
 Dispõe sobre o aumento do Capital Social da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL.

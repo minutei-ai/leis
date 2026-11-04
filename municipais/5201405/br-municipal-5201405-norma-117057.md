@@ -38,5 +38,6 @@ Art. 8º - Esta Lei entrará em vigor na data de sua publicação, revogando-se 
 
 GABINETE DA PRESIDENCIA DA CÂMARA MUNICIPAL DE APARECIDA DE GOIANIA , AOS 12 DIAS DO MÊS DE MARÇO DO ANO DE 2014.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Presidente da Câmara

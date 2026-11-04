@@ -1,5 +1,3 @@
-###DEC-054476-0-000-14-10-1964@@@
-
 DECRETO Nº 54.476, DE 14 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Nagib Jafet a pesquisar minério de cobre, no município de Bom Jesus da Lapa, Estado da Bahia.

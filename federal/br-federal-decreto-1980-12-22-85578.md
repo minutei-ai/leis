@@ -1,5 +1,3 @@
-###DEC-085578-0-000-22-12-1980@@@
-
 Decreto nº 85.578, de 22 de dezembro de 1980
 
 Autoriza RUSSELL LEE.GARBER, de nacionalidade norte-americana, a adquirir imóvel rural.

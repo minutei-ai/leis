@@ -1,5 +1,3 @@
-###DEC-092807-0-000-23-06-1986@@@
-
 DECRETO N º 92.807, DE 23 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Fazenda Canaã, constituído do lote 157, localizado na Gleba Divisa e Rio Maria, situados nos Municípios de Marabá e Xinguara, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.623, de 2 de maio de 1986, e dá outras providências.

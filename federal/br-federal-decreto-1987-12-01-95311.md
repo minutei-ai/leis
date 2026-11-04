@@ -1,5 +1,3 @@
-###DEC-095311-0-000-01-12-1987@@@
-
 DECRETO Nº 95.311, DE 1º DE DEZEMBRO DE 1987
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS) áreas de terras abrangidas pelo Projeto de Irrigação Pau dos Ferros, nos municípios de Pau dos Ferros, São Francisco do Oeste e Francisco Dantas, Estado do Rio Grande do Norte para execução do Programa de Irrigação do Nordeste (PROINE), e dá outras providências.
@@ -21,8 +19,6 @@ Brasília, 1º de dezembro de 1987; 166º da Independência e 99º da República
 JOSÉ SARNEY
 
 Vicente Cavalcante Fialho
-
-###DEC-095311-0-000-01-12-1987@@@RET01+++
 
 DECRETO Nº 95.311, DE 1º DE DEZEMBRO DE 1987
 

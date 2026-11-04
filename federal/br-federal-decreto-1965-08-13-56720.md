@@ -1,5 +1,3 @@
-###DEC-056720-0-000-13-08-1965@@@
-
 DECRETO nº 56.720, DE 13 DE AGôSTO DE 1965.
 
 Altera dispositivos do Regulamento aprovado pelo Decreto nº 55.866, de 25 de março de 1965.

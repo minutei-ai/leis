@@ -1,7 +1,3 @@
-1
-
-###MPV-001439-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.439, DE 10 DE MAIO DE 1996.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

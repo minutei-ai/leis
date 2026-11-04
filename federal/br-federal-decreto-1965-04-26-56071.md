@@ -1,5 +1,3 @@
-###DEC-056071-0-000-26-04-1965@@@
-
 DECRETO Nº 56.071, DE 26 DE ABRIL DE 1965.
 
 Transfere, da Prefeitura Municipal de São João Del-Rei para a Companhia Industrial Fluminense, concessão para produzir energia elétrica na Usina Hidroelétrica do Carandaí.

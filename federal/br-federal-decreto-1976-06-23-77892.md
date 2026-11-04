@@ -1,5 +1,3 @@
-###DEC-077892-0-000-23-06-1976@@@
-
 DECRETO Nº 77892, DE 23 DE JUNHO DE 1976.
 
 Declara a caducidade da concessão outorgada à Fosforita Olinda S.A - FASA, para lavrar fosforita no Município de Olinda, Estado de Pernambuco.

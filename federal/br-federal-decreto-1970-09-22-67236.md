@@ -1,5 +1,3 @@
-###DEC-067236-0-000-22-09-1970@@@
-
 DECRETO Nº 67.236, DE 22 DE Setembro DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Permanente - do Instituto Brasileiro de Desenvolvimento Florestal, cargos originários do Ministério da Agricultura.

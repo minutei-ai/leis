@@ -1,5 +1,3 @@
-###DEC-097002-0-000-24-10-1988@@@
-
 DECRETO Nº 97.002, DE 24 DE OUTUBRO DE 1988
 
 Revoga o Decreto nº 96.910, de 03 de outubro de 1988, e dá outras providências.

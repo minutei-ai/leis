@@ -1,5 +1,3 @@
-###DEC-058180-0-000-13-04-1966@@@
-
 decreto nº 58.180, de 13 de abril de 1966.
 
 Autoriza estrangeiros a adquirirem em transferência de aforamento o domínio útil da fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

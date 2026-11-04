@@ -1,5 +1,3 @@
-###DEC-061066-0-000-26-07-1967@@@
-
 DECRETO Nº 61.066, DE 26 DE JULHO DE 1967.
 
 Outorga à Companhia Central Brasileira de Fôrça Elétrica, concessão para distribuir energia elétrica no município de Serra, Estado do Espírito Santo.

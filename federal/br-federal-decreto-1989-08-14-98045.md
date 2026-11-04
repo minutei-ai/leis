@@ -1,7 +1,3 @@
-1
-
-###DEC-098045-0-000-14-08-1989@@@
-
 DECRETO Nº 98.045, de 14 de AGOSTO DE 1989
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Saúde Nossa Senhora do Patrocínio.

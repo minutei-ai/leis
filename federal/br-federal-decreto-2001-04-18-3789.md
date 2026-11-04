@@ -1,5 +1,3 @@
-###DEC-003789-0-000-18-04-2001@@@
-
 DECRETO N°  3.789, DE 18 DE ABRIL DE 2001
 
 Dispõe sobre medidas emergênciais de racionalização visando a redução de consumo e aumento da oferta de energia elétrica, e dá outras providências.

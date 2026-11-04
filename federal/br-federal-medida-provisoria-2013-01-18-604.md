@@ -1,5 +1,3 @@
-###MPV-000604-0-000-18-01-2013-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº\- 604, DE 18 DE JANEIRO DE 2013
 
 Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e da Integração Nacional, no valor de R$ 361.368.057,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-###DEL-009014-0-000-22-02-1946@@@
-
 DECRETO-LEI N. 9.014 – DE 22 DE FEVEREIRO DE 1946
 
 Autoriza a aquisição da casa em que nasceu Vítor Meireles e dá outras providências

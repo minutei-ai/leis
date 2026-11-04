@@ -1,7 +1,3 @@
-1
-
-###DEC-098979-0-000-21-02-1990@@@
-
 DECRETO Nº 98.979, DE 21 DE FEVEREIRO DE 1990
 
 Autoriza a Escola Agrotécnica Federal “Presidente Juscelino Kubitscheck”, de Bento Gonçalves - RS, a organizar e manter curso de nível superior de ensino, na área agrotécnica.

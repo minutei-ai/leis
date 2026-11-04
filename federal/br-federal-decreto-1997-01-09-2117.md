@@ -1,5 +1,3 @@
-###DEC-002117-0-000-09-01-1997@@@
-
 DECRETO Nº 2.117, DE 9 DE JANEIRO DE 1997
 
 Dá nova redação a dispositivos do Regulamento para o Tráfego Marítimo e do Regulamento Geral dos Serviços de Praticagem.

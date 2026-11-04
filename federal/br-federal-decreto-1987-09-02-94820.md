@@ -1,5 +1,3 @@
-###DEC-094820-0-000-02-09-1987@@@
-
 DECRETO Nº 94.820, DE 2 DE SETEMBRO DE 1987.
 
 Autoriza o funcionamento do Curso de Geografia da Faculdade de Ciências e Letras de Araras.

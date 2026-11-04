@@ -1,7 +1,3 @@
-1
-
-###DEL-001789-0-000-28-05-1980@@@
-
 # DECRETO-LEI nº 1789, de 28 de maio de 1980.
 
 Dispõe sobre a renuncia, pela União, do domínio útil de área situada no município de Guarulhos, Estado de São Paulo, necessária à ampliação da Base Aérea e a implantação do Aeroporto de Guarulhos.

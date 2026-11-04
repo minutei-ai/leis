@@ -1,5 +1,3 @@
-###DEC-081323-0-000-09-02-1978@@@
-
 Decreto nº 81 323, de 9 de fevereiro de 1978.
 
 Concede reconhecimento aos cursos de Estudos Sociais e de Letras da Faculdade de Educação Ciências e Letras das Faculdades Integradas Princesa Isabel, com sede na capital do Estado de São Paulo.

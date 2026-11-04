@@ -1,5 +1,3 @@
-###DEC-006358-0-000-18-01-2008@@@
-
 DECRETO Nº 6.358, DE 18 DE JANEIRO DE 2008.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.771, de 10 de agosto de 2007, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República Democrática do Congo.
@@ -20,11 +18,7 @@ Brasília, 18 de janeiro de 2008; 187o da Independência e 120o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 21.1.2008
-
-ANEXO
+Samuel Pinheiro Guimarães NetoANEXO
 
 O Conselho de Segurança,
 

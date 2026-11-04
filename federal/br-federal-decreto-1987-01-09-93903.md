@@ -1,5 +1,3 @@
-###DEC-093903-0-000-09-01-1987@@@
-
 # DECRETO Nº 93.903, DE 09 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Santa Rita", situado no Município de Santiago, no Estado do Rio Grande do Sul, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.692, de 19 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.

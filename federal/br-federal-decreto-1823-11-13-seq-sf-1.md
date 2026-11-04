@@ -1,5 +1,3 @@
-###DEC-000000-0-001-13-11-1823@@@
-
 DECRETO - DE 13 DE NOVEMBRO DE 1823
 
 Crêa um Conselho de Estado e nomeia os respectivos membros.

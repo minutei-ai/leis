@@ -1,5 +1,3 @@
-###DEC-056144-0-000-27-04-1965@@@
-
 decreto nº 56.144, de 27 de abril de 1965
 
 Concede à Companhia Tutelar de Seguros autorização para funcionar e aprova os seus Estatutos.

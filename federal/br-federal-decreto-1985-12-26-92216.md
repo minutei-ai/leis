@@ -1,5 +1,3 @@
-###DEC-092216-0-000-26-12-1985@@@
-
 Decreto nº 92.216, de 26 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Baixio", compreendido na referida área, no Município de Araruna, no Estado da Paraíba, e dá outras providências.

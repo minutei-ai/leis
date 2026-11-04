@@ -1,5 +1,3 @@
-###DEC-005654-0-000-29-12-2005@@@
-
 DECRETO Nº 5.654, DE 29 DE DEZEMBRO DE 2005.
 
        Revoga o Decreto no 76.988, de 6 de janeiro de 1976, que dispõe sobre a execução do Acordo entre a República Federativa do Brasil e a República Federal da Alemanha para Evitar a Dupla Tributação em Matéria de Impostos sobre a Renda e o Capital, celebrado em Bonn, em 27 de junho de 1975.

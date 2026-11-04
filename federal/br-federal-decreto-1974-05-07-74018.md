@@ -1,5 +1,3 @@
-###DEC-074018-0-000-07-05-1974@@@
-
 DECRETO Nº 74.018, DE 7 DE MAIO DE 1974.
 
 Concede reconhecimento aos cursos de Administração, Farmácia, Ciências Biológicas e Matemática da Universidade Estadual de Londrina, mantida pela Fundação Universidade Estadual de Londrina, com sede na cidade de Londrina, Estado do Paraná.

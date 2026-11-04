@@ -1,5 +1,3 @@
-###DEC-045688-0-000-02-04-1959@@@
-
 DECRETO Nº 45.688, DE 2 DE ABRIL DE 1959.
 
 Cria o Núcleo Colonial Bernardo Sayão, em terra situadas no Município de Aguacema, no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-074894-0-000-14-11-1974@@@
-
 DECRETO Nº 74.894, DE 14 DE NOVEMBRO DE 1974.
 
 Altera a autorização concedida pelo Decreto n.º 73.083, de 5 de novembro de 1973, à Companhia Societé de Forages En Mer Nepture.

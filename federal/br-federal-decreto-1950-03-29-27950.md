@@ -1,10 +1,8 @@
-###DEC-027950-0-000-29-03-1950@@@
+**DECRETO Nº 27.950, DE 29 DE MARÇO DE 1950.**
 
-<strong>DECRETO Nº 27.950, DE 29 DE MARÇO DE 1950.</strong>
+***Promulga o acôrdo sôbre Transportes Aéreos Regulares entre o Brasil e a Suíça, firmando em Berna, a 10 de agôsto de 1948.***
 
-<em><strong>Promulga o acôrdo sôbre Transportes Aéreos Regulares entre o Brasil e a Suíça, firmando em Berna, a 10 de agôsto de 1948.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL:</strong>
+**O PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL:**
 
 Tendo o Congresso Nacional aprovado, por Decreto Legislativo nº 13, de 25 de maio de 1949, o Acôrdo sôbre Transportes Aéreos Regulares entre os Estados Unidos do Brasil e a Suíça, os Anexos e as Notas Adicionais ao mesmo, firmados em Berna, a 10 de agôsto de 1948; e tendo sido trocados, em Berna, notas datas de 23 e 25 agôsto de 1949, destinadas a promover a sua entrada em vigor:
 
@@ -12,11 +10,11 @@ Decreta que o referido Acôrdo, seus Anexos e as Notas Adicionais ao mesmo, apen
 
 Rio de Janeiro, em 29 de março de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Raul Fernandes
 
-<strong>ACÔRDO SÔBRE TRANSPORTES AÉREOS REGULARES ENTRE OS ESTADOS UNIDOS DO BRASIL E A SUÍÇA</strong>
+**ACÔRDO SÔBRE TRANSPORTES AÉREOS REGULARES ENTRE OS ESTADOS UNIDOS DO BRASIL E A SUÍÇA**
 
 O Presidente da República dos Estados Unidos do Brasil e o Conselho Federal Suíço,
 
@@ -222,7 +220,7 @@ O Departamento aproveita esta oportunidade para renovar à Legação os protesto
 
 Berna, em 10 de agôsto de 1948.
 
-<strong>NOTA DE LEGAÇÃO DO BRASIL EM BERNA</strong>
+**NOTA DE LEGAÇÃO DO BRASIL EM BERNA**
 
 Legação do Brasil
 
@@ -252,7 +250,7 @@ A Legação aproveita esta ocasião para renovar ao Departamento os protestos de
 
 Berna, em 10 de agôsto de 1948.
 
-<strong>Accord Relatif Aux Transports Aériens Réguliers Entre Les Estats-Unis Du Brésil Et La Suisse</strong>
+**Accord Relatif Aux Transports Aériens Réguliers Entre Les Estats-Unis Du Brésil Et La Suisse**
 
 Le président de la Republique des Estats-Unis du Brésil et le Conseil Fedéral Suisse.
 
@@ -454,7 +452,7 @@ Berne, le 10 août, 1948.
 
 A la Légation des Etats-Unis du Brésil - Berne.
 
-<strong>NOTE DE LA LÉGATION DU BRÉSIL A BERNE</strong>
+**NOTE DE LA LÉGATION DU BRÉSIL A BERNE**
 
 Légation du brésil
 
@@ -486,7 +484,7 @@ Berne, le 10 août, 1948.
 
 Au Département Politique Fédéral - Berne.
 
-<strong>NOTA DA LEGAÇAO DO BRASIL EM BERNA AO CONSELHO FEDERAL SUIÇO</strong>
+**NOTA DA LEGAÇAO DO BRASIL EM BERNA AO CONSELHO FEDERAL SUIÇO**
 
 (Tradução oficial)
 
@@ -496,7 +494,7 @@ Nº 32.
 
 Berna, 23 de agôsto de 1949.
 
-<strong>SENHOR CONSELHEIRO FEDERAL,</strong>
+**SENHOR CONSELHEIRO FEDERAL,**
 
 Seguindo instruções de meu Govêrno, tenho a honra de comunicar a Vossa Excelência que o Congresso Nacional Brasileiro aprovou por Decreto Legislativo nº 13, de 25 de maio de 1949, o Acôrdo sôbre os Transportes Aéreos Regulares entre o Brasil e a Suíça, firmado em Berna, a 10 de agôsto de 1948.
 
@@ -510,7 +508,7 @@ Com meus agradecimentos antecipados, aproveito esta oportunidade para renovar a 
 
 A Sua Excelência o Senhor Max Petitpierre, Conselheiro Federal, Chefe do Departamento Político Federal - Berna.
 
-<strong>NOTA DO CONSELHO FEDERAL SUÍÇO A LEGAÇÃO DO BRASIL EM BERNA</strong>
+**NOTA DO CONSELHO FEDERAL SUÍÇO A LEGAÇÃO DO BRASIL EM BERNA**
 
 (Tradução Oficial)
 
@@ -518,7 +516,7 @@ O Chefe do Departamento Político Federal.
 
 Berna, 25 de agôsto de 1949.
 
-<strong>SENHOR MINISTRO,</strong>
+**SENHOR MINISTRO,**
 
 Por nota de 23 do corrente mês, Vossa Excelência teve a gentileza de me comunicar que o Congresso Nacional brasileiro aprovou, por Decreto Legislativo nº 13, de 25 de maio de 1949, o Acôrdo relativo aos Transportes Aéreos Regulares entre a Suíça e os Estados Unidos do Brasil, firmado em Berna, a 10 de agôsto de 1948.
 

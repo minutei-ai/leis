@@ -1,5 +1,3 @@
-###DEC-083845-0-000-14-08-1979@@@
-
 DECRETO Nº 83.845, DE 14 DE AGOSTO DE 1979.
 
 Cria a Embaixada do Brasil na República Unida da Tanzânia com sede na cidade de Dar-Es-Salaam.

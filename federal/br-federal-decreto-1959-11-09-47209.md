@@ -1,5 +1,3 @@
-###DEC-047209-0-000-09-11-1959@@@
-
 DECRETO Nº 47.209, DE 9 DE NOVEMBRO DE 1959.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona, em Nova Iguaçu, Estado do Rio de Janeiro, Necessários ao Ministério da Aeronáutica.

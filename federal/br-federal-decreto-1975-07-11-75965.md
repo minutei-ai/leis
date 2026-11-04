@@ -1,5 +1,3 @@
-###DEC-075965-0-000-11-07-1975@@@
-
 DECRETO Nº 75.965 - DE 11 DE JULHO De 1975
 
 Autoriza o funcionamento da habilitação em Artes Cênicas no curso de Licenciatura em Educação Artística, da Faculdade de Belas Artes, mantida pela "FEBASP- sociedade Civil", com sede na cidade de São Paulo, Estado de São Paulo.

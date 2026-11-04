@@ -1,5 +1,3 @@
-###DEC-070035-0-000-24-01-1972@@@
-
 decreto nº 70.035, de 24 de janeiro de 1972.
 
 Declara de utilidade pública a Associação de Proteção e Assistência à Maternidade a à Infância de Nioaque, com sede em Nioaque, Estado de Mato Grosso.

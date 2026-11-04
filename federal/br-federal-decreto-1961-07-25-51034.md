@@ -1,5 +1,3 @@
-###DEC-051034-0-000-25-07-1961@@@
-
 DECRETO Nº 51.034, DE 25 DE JULHO DE 1961.
 
 Declara de utilidade pública, para fins de desapropriação e destinada à construção da linha de transmissão de energia elétrica entre a usina de Três Maria no município de Corinto, e a subestação localizada na cidade de Montes Claros, no Estado de Minas Gerais a área de terreno que menciona e dá outras providências.

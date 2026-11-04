@@ -1,5 +1,3 @@
-###DEC-069659-0-000-03-12-1971@@@
-
 DECRETO Nº 69.659 - DE 3 DE DEZEMBRO DE 1971
 
 Retifica o Decreto nº 68.846, de 2 de julho de 1971, relativo a aproveitamento de disponíveis no Departamento Nacional de Estradas de Ferro.

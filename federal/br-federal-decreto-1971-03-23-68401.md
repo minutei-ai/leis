@@ -1,5 +1,3 @@
-###DEC-068401-0-000-23-03-1971@@@
-
 DECRETO Nº 68.401, DE 23 DE MARÇO de 1971.
 
 Autoriza o funcionamento do Curso de Administração de Emprêsas da Faculdade de Ciências Econômicas de São José do Rio Prêto, alterando a denominação da mesma Faculdade.

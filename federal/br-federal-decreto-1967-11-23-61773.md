@@ -1,5 +1,3 @@
-###DEC-061773-0-000-23-11-1967@@@
-
 DECRETO Nº 61.773, DE 23 DE NOVEMBRO DE 1967.
 
 Autoriza Violet Cora Weyland Vieira a adquirir fração de terreno de marinha que menciona.

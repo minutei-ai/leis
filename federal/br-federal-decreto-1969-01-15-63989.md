@@ -1,5 +1,3 @@
-###DEC-063989-0-000-15-01-1969@@@
-
 DECRETO nº 63.989, DE 15 DE JANEIRO DE 1969.
 
 Autoriza o funcionamento de Cursos de instrumento do Conservatório de música  de Bonsucesso - GB.

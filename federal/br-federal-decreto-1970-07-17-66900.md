@@ -1,5 +1,3 @@
-###DEC-066900-0-000-17-07-1970@@@
-
 Decreto nº 66.900, de 17 de julho de 1970.
 
 Declara caduco o decreto nº 26.800 de 21-6-49.

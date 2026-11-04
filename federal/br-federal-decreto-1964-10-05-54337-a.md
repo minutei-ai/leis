@@ -1,5 +1,3 @@
-###DEC-054337-A-000-05-10-1964@@@
-
 DECRETO Nº 54.337, DE 5 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação, em favor da Petróleo Brasileiro S.A - PETROBÁS, terras situadas no município de Canoas no Estado do Rio Grande do Sul.

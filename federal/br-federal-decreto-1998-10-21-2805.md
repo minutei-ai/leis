@@ -1,5 +1,3 @@
-###DEC-002805-0-000-21-10-1998@@@
-
 DECRETO Nº 2.805, DE 21 DE OUTUBRO DE 1998
 
 Dá nova redação ao art. 66 do Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre a promoção dos oficiais da ativa das Forças Armadas, e dá outras providências.

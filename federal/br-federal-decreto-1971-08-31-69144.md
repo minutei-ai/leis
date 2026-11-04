@@ -1,5 +1,3 @@
-###DEC-069144-0-000-31-08-1971@@@
-
 DECRETO Nº 69.144, de 31 de agosto de 1971.
 
 Declara de utilidade pública o Ambulatório Evangélico, com sede em Coronel Fabriciano, Estado de Minas Gerais.

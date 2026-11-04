@@ -1,5 +1,3 @@
-###DEC-075233-0-000-16-01-1975@@@
-
 Decreto nº 75.233, de 16 de janeiro de 1975.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Contábeis de Sobral mantida pela Fundação Vale do Acaraú - UVA, Com sede na cidade de Sobral, Estado do Ceará.

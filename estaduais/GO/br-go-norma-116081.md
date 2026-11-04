@@ -26,11 +26,34 @@ Goiânia, 3 de julho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO ÚNICO
 
 IMÓVEL OBJETO DE DOAÇÃO AO MUNICÍPIO DE CROMÍNIA/GO, DESTINADO À IMPLANTAÇÃO DE EQUIPAMENTO PÚBLICO VOLTADO À PROMOÇÃO DO ESPORTE, DO LAZER E DA INCLUSÃO SOCIAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">DENOMINAÇÃO</td><td style="text-align:justify">Terreno urbano</td></tr><tr><td style="text-align:center">LOCALIZAÇÃO</td><td style="text-align:justify">Entre as Ruas João Nogueira, Rio de Janeiro, João Barbosa e Minas Gerais, Centro, Cromínia/GO</td></tr><tr><td style="text-align:center">ÁREA</td><td style="text-align:justify">8.400 m²</td></tr><tr><td style="text-align:center">PROPRIETÁRIO</td><td style="text-align:justify">Estado de Goiás</td></tr><tr><td style="text-align:center">MATRÍCULA</td><td style="text-align:justify">nº 466 – Cartório de Registro de Imóveis da Comarca de Hidrolândia/GO, Distrito Judiciário de Cromínia/GO</td></tr><tr><td style="text-align:center">MEMORIAL DESCRITIVO</td><td style="text-align:justify">Assim se descreve: “Uma área de terras com 8.400,00 (oito mil e quatrocentos) metros quadrados de terrenos, nesta cidade, sem benfeitorias e com as seguintes medidas e confrontações: começa na esquina da Rua João Barbosa, com a futura Avenida; daí, na direção Norte-Sul, até a distância em reta de 100,00 metros, confrontando com a Rua João Nogueira em seu lado esquerdo; daí, virando à esquerda, na direção Oeste-Leste, até a distância de 84,00 metros, confrontando com Janot de Oliveira e outros; daí, virando novamente à esquerda, na direção Sul-Norte, até a distância de 100,00 metros em linha reta, confrontando com a Rua João Barbosa em seu lado esquerdo; daí, ainda virando à esquerda, em direção Leste-Oeste, até a distância de 84,00 metros em linha reta, confrontando com a futura Avenida, até o ponto de partida, na esquina da Rua João Barbosa, com a futura Avenida”.</td></tr></tbody></table>
+DENOMINAÇÃO
+
+Terreno urbano
+
+LOCALIZAÇÃO
+
+Entre as Ruas João Nogueira, Rio de Janeiro, João Barbosa e Minas Gerais, Centro, Cromínia/GO
+
+ÁREA
+
+8.400 m²
+
+PROPRIETÁRIO
+
+Estado de Goiás
+
+MATRÍCULA
+
+nº 466 – Cartório de Registro de Imóveis da Comarca de Hidrolândia/GO, Distrito Judiciário de Cromínia/GO
+
+MEMORIAL DESCRITIVO
+
+Assim se descreve: “Uma área de terras com 8.400,00 (oito mil e quatrocentos) metros quadrados de terrenos, nesta cidade, sem benfeitorias e com as seguintes medidas e confrontações: começa na esquina da Rua João Barbosa, com a futura Avenida; daí, na direção Norte-Sul, até a distância em reta de 100,00 metros, confrontando com a Rua João Nogueira em seu lado esquerdo; daí, virando à esquerda, na direção Oeste-Leste, até a distância de 84,00 metros, confrontando com Janot de Oliveira e outros; daí, virando novamente à esquerda, na direção Sul-Norte, até a distância de 100,00 metros em linha reta, confrontando com a Rua João Barbosa em seu lado esquerdo; daí, ainda virando à esquerda, em direção Leste-Oeste, até a distância de 84,00 metros em linha reta, confrontando com a futura Avenida, até o ponto de partida, na esquina da Rua João Barbosa, com a futura Avenida”.

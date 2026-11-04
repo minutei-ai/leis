@@ -1,5 +1,3 @@
-###DEL-003427-0-000-16-07-1941@@@
-
 DECRETO-LEI N. 3.427 – DE 16 DE JULHO DE 1941
 
 Altera o art. 31 do Regulamento a que se refere o decreto n. 2.630, de 5 de maio de 1938

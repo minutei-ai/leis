@@ -1,5 +1,3 @@
-###DEC-054822-0-000-03-11-1964@@@
-
 DECRETA Nº 54.822, de 3 de novembro de 1964.
 
 Renova o Decreto nº 50.029, de 24 de janeiro de 1961.

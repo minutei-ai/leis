@@ -1,5 +1,3 @@
-###DEC-070744-0-000-21-06-1972@@@
-
 DECRETO Nº 70.744, DE 21 DE JUNHO DE 1972.
 
 Autoriza o funcionamento do Curso de Administração da Faculdade de Ciências Econômicas de Colatina - ES.

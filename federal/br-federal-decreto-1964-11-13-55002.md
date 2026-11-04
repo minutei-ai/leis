@@ -1,5 +1,3 @@
-###DEC-055002-0-000-13-11-1964@@@
-
 DECRETO Nº 55.002, DE 13 DE NOVEMBRO DE 1964.
 
 Concede à Bras-Humus S.A. - Adubos Orgânicos e Químicos - Emprêsa de Mineração - autorização para funcionar como emprêsa de mineração.

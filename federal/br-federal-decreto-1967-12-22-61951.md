@@ -1,5 +1,3 @@
-###DEC-061951-0-000-22-12-1967@@@
-
 DECRETO Nº 61.951, DE 22 DE DEZEMBRO DE 1967.
 
 Abre ao Ministério da Educação e Cultura o crédito suplementar de NCr$101.952,48, para refôrço de dotações consignadas no vigente orçamento.
@@ -10,7 +8,73 @@ Decreta:
 
 Art. 1º Fica aberto ao Ministério da Educação e Cultura o crédito suplementar de NCr$101.952,48 (cento e um mil, novecentos e cinqüenta e dois cruzeiros novos e quarenta e oito centavos), para refôrço de dotação orçamentária consignada ao Subanexo 4.06.00 a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.06.00</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Ministério da Educação e Cultura</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.06.17</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Diretoria de Ensino Superior (Órgãos Dependentes)</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>04.04.2.1138</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Administração, Planejamento e Manutenção do Ensino</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.0.0.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.0.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Transferências Correntes</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.9.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Diversas Transferências Correntes</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.9.2</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Entidades Federais</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>03.00</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Demais Despesas de Custeio dos Órgãos da Administração Descentralizada</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>W.13)</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Universidade Federal do Paraná</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2)</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Serviços de Terceiros .......................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>60.000,00</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.06.33</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Superior de Agricultura de Lavras</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.0.0.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.0.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas de Custeio</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.2.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Material de Consumo ........................................................................</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>39.952,48</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.1.3.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Serviços de Terceiros .......................................................................</span></p></td><td style="width:53.2pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.000,00</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>101.952,48</span></p></td></tr></tbody></table>
+4.06.00
+
+- Ministério da Educação e Cultura
+
+4.06.17
+
+- Diretoria de Ensino Superior (Órgãos Dependentes)
+
+04.04.2.1138
+
+- Administração, Planejamento e Manutenção do Ensino
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.2.0.0
+
+- Transferências Correntes
+
+3.2.9.0
+
+- Diversas Transferências Correntes
+
+3.2.9.2
+
+- Entidades Federais
+
+03.00
+
+- Demais Despesas de Custeio dos Órgãos da Administração Descentralizada
+
+W.13)
+
+- Universidade Federal do Paraná
+
+2)
+
+- Serviços de Terceiros .......................................................................
+
+60.000,00
+
+4.06.33
+
+- Escola Superior de Agricultura de Lavras
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.1.0.0
+
+- Despesas de Custeio
+
+3.1.2.0
+
+- Material de Consumo ........................................................................
+
+39.952,48
+
+3.1.3.0
+
+- Serviços de Terceiros .......................................................................
+
+2.000,00
+
+101.952,48
 
 Art. 2º A despesa decorrente do presente decerto será atendida com os recursos de que trata o artigo 19 do Decreto nº 61.005, de 13 de julho de 1967.
 

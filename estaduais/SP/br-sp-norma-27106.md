@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/27106)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1985/compilacao-lei-4958-30.12.1985.html)
 
 # LEI N° 4.958, DE 30 DE DEZEMBRO DE 1985

@@ -1,5 +1,3 @@
-###DEC-072947-0-000-17-10-1973@@@
-
 Decreto nº 72.947, de 17 de outubro de 1973.
 
 Concede permissão, em caráter permanente, à empresa CAULISA - Indústria de Caulim S.A., para funcionar, aos domingos e nos dias feriados civis e religiosos, no seu estabelecimento fabril, situado no Distrito Industrial, de Campina Grande, Estado da Paraíba.

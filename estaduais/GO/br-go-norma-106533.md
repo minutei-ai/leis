@@ -60,7 +60,8 @@ VIII – supermercados, açougues, padarias, farmácias e drogarias;
 
 IX – repartições públicas;
 
-X – veículos públicos ou privados de transporte coletivo, inclusive de transporte por aplicativos;<br>
+X – veículos públicos ou privados de transporte coletivo, inclusive de transporte por aplicativos;
+
 \- [Redação dada pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
 ~~X – veículos públicos ou privados de transporte coletivo, inclusive veículos sobre trilhos;~~
@@ -89,15 +90,18 @@ II – transmitir notícia à autoridade policial competente, para a elucidaçã
 
 § 2º A denúncia será rejeitada preliminarmente, dispensada a instauração de processo administrativo, se não houver minimamente a descrição de fatos que violem esta Lei nem indicação de onde obter as provas necessárias.
 
-§ 3º A ausência de todas as informações previstas na alínea “b” do inciso I do art. 4º não implicará a rejeição preliminar da denúncia, cabendo ao órgão administrativo competente, pelos elementos fornecidos e outros de que dispuser, apurar as informações pertinentes à identificação do autor do fato, em cooperação com os demais órgãos estaduais competentes.<br>
+§ 3º A ausência de todas as informações previstas na alínea “b” do inciso I do art. 4º não implicará a rejeição preliminar da denúncia, cabendo ao órgão administrativo competente, pelos elementos fornecidos e outros de que dispuser, apurar as informações pertinentes à identificação do autor do fato, em cooperação com os demais órgãos estaduais competentes.
+
 \- [Acrescido pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
-§ 4º A denúncia prevista neste artigo pode ser apresentada em meio físico ou eletrônico, com a documentação correspondente, cabendo ao órgão que receber a demanda redirecioná-la de ofício ao órgão competente caso não o seja, com comunicação imediata ao denunciante, eletronicamente, caso este tenha declinado o respectivo endereço eletrônico ou telefone para contato.<br>
+§ 4º A denúncia prevista neste artigo pode ser apresentada em meio físico ou eletrônico, com a documentação correspondente, cabendo ao órgão que receber a demanda redirecioná-la de ofício ao órgão competente caso não o seja, com comunicação imediata ao denunciante, eletronicamente, caso este tenha declinado o respectivo endereço eletrônico ou telefone para contato.
+
 \- [Acrescido pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
 Art. 5º (VETADO).
 
-§ 1º A prática dos atos discriminatórios a que se refere esta Lei enseja as penalidades de multa e/ou suspensão temporária da atividade, isolada ou cumulativamente.<br>
+§ 1º A prática dos atos discriminatórios a que se refere esta Lei enseja as penalidades de multa e/ou suspensão temporária da atividade, isolada ou cumulativamente.
+
 \- [Redação dada pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
 ~~§ 1º Previamente à aplicação das penalidades previstas no _caput_, poderá ser imposta a de advertência, que ocorrerá apenas uma vez a cada 5 (cinco) anos.~~
@@ -112,46 +116,58 @@ II – suspensão temporária da atividade, para pessoas jurídicas, desde que c
 
 § 4º O valor da multa:
 
-I – será fixado entre R$ 1.000,00 (mil reais) e R$ 10.000,00 (dez mil reais);<br>
+I – será fixado entre R$ 1.000,00 (mil reais) e R$ 10.000,00 (dez mil reais);
+
 \- [Redação dada pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
 ~~I – será fixado considerando as condições pessoais e econômicas do infrator e não poderá ser inferior a R$ 1.000,00 (mil reais);~~
 
-II – poderá ser elevado até o triplo do valor máximo:<br>
+II – poderá ser elevado até o triplo do valor máximo:
+
 \- [Redação dada pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
 ~~II – poderá ser elevado até o triplo do valor máximo quando se verificar que, em virtude da situação econômica do infrator, sua fixação em quantia inferior seria ineficaz.~~
 
-a) se a vítima for criança, adolescente, pessoa com deficiência ou idosa;<br>
+a) se a vítima for criança, adolescente, pessoa com deficiência ou idosa;
+
 \- [Acrescida pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
-b) se a situação financeira do infrator revelar que o limite máximo previsto no caput deste artigo se afigura insuficiente para admoestar o infrator.<br>
+b) se a situação financeira do infrator revelar que o limite máximo previsto no caput deste artigo se afigura insuficiente para admoestar o infrator.
+
 \- [Acrescida pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
 § 5º (VETADO).
 
-§ 6º Na aplicação das sanções previstas neste artigo, devem ser levados em consideração os seguintes fatores:<br>
+§ 6º Na aplicação das sanções previstas neste artigo, devem ser levados em consideração os seguintes fatores:
+
 \- [Acrescido pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
-I – em relação à infração propriamente dita: a duração, a intensidade e a gravidade desta, os motivos que levaram à sua prática e as consequências dela decorrentes;<br>
+I – em relação à infração propriamente dita: a duração, a intensidade e a gravidade desta, os motivos que levaram à sua prática e as consequências dela decorrentes;
+
 \- [Acrescido pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
-II – em relação ao infrator: sua situação econômica, a vantagem auferida, bem como eventuais antecedentes e reincidência.<br>
+II – em relação ao infrator: sua situação econômica, a vantagem auferida, bem como eventuais antecedentes e reincidência.
+
 \- [Acrescido pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
-§ 7º Para os fins do inciso II do § 6º deste artigo, consideram-se:<br>
+§ 7º Para os fins do inciso II do § 6º deste artigo, consideram-se:
+
 \- [Acrescido pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
-I – reincidência: a prática de nova infração antes de decorridos 60 (sessenta) meses do cometimento da anterior, independentemente de quando esta se tornou definitiva na esfera administrativa;<br>
+I – reincidência: a prática de nova infração antes de decorridos 60 (sessenta) meses do cometimento da anterior, independentemente de quando esta se tornou definitiva na esfera administrativa;
+
 \- [Acrescido pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
-II – antecedentes: a prática de nova infração depois de decorrido o prazo previsto no inciso I deste parágrafo, independentemente de quando esta se tornou definitiva na esfera administrativa, salvo se configurada reincidência.<br>
+II – antecedentes: a prática de nova infração depois de decorrido o prazo previsto no inciso I deste parágrafo, independentemente de quando esta se tornou definitiva na esfera administrativa, salvo se configurada reincidência.
+
 \- [Acrescido pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
-§ 8º As multas devem ser destinadas ao Fundo Estadual de Segurança Pública do Estado de Goiás – FUNESP-GO, instituído pela Lei nº 14.750, de 22 de abril de 2004.<br>
+§ 8º As multas devem ser destinadas ao Fundo Estadual de Segurança Pública do Estado de Goiás – FUNESP-GO, instituído pela Lei nº 14.750, de 22 de abril de 2004.
+
 \- [Acrescido pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
-§ 9º Faculta-se ao Chefe do Poder Executivo, por ato próprio, estabelecer para as multas destinação diversa da prevista no § 8º deste artigo.<br>
+§ 9º Faculta-se ao Chefe do Poder Executivo, por ato próprio, estabelecer para as multas destinação diversa da prevista no § 8º deste artigo.
+
 \- [Acrescido pela Lei nº 22.466, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108227/lei-22466).
 
 Art. 6º Na apuração dos atos discriminatórios a que se refere esta Lei, deve ser observado o disposto na Lei nº 13.800, de 18 de janeiro de 2001.
@@ -159,8 +175,6 @@ Art. 6º Na apuração dos atos discriminatórios a que se refere esta Lei, deve
 Art. 7º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 29 de dezembro de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

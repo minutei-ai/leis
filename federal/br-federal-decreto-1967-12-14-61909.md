@@ -1,5 +1,3 @@
-###DEC-061909-0-000-14-12-1967@@@
-
 DECRETO Nº 61.909, DE 14 DE DEZEMBRO DE 1967.
 
 Abre ao Ministério das Minas e Energia o crédito suplementar de NCr$10.000.000,00 (dez milhões de cruzeiros novos), para o fim que especifica.

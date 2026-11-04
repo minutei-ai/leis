@@ -1,5 +1,3 @@
-###DEC-072381-0-000-19-06-1973@@@
-
 DECRETO Nº 72.381, DE 19 DE JUNHO DE 1973.
 
 Amplia a Área Prioritária de emergência para fins de Reforma Agrária, assim declarada pelo Decreto nº 56.795, de 27 de agosto de 1965, com as alterações previstas nos Decretos nºs 58.717, de 24 de junho de 1966, e 66.034, de 31 de dezembro de 1969.
@@ -19,8 +17,6 @@ Brasília, 19 de junho de 1973; 152º da Independência e 85º da República.
 Emílio G. Médici
 
 Moura Cavalcanti
-
-###DEC-072381-0-000-19-06-1973@@@RET01+++
 
 DECRETO Nº 72.381, DE 19 DE JUNHO DE 1973.
 

@@ -1,5 +1,3 @@
-###DEC-007221-0-000-29-06-2010@@@
-
 DECRETO Nº 7.221, DE 29 DE JUNHO DE 2010.
 
 Dispõe sobre a atuação dos órgãos e entidades da administração pública federal durante o processo de transição governamental.

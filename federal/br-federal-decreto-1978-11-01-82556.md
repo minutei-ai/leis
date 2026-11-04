@@ -1,5 +1,3 @@
-###DEC-082556-0-000-01-11-1978@@@
-
 Decreto nº 82.556, de 01 de novembro de 1978.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita nos Municípios de Itamonte e Itanhandu, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-068056-0-000-14-01-1971@@@
-
 DECRETO Nº 68.056, DE 14 DE JANEIRO DE 1971.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Presidente Venceslau, com sede em Presidente Venceslau, Estado do São Paulo.

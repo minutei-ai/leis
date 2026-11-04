@@ -1,5 +1,3 @@
-###DEC-055895-0-000-02-04-1965@@@
-
 DECRETO Nº 55.895, DE 2 DE ABRIL DE 1965.
 
 Concede autorização para o funcionamento da Faculdade de Ciências Econômicas do Maranhão, com sede em São Luis, Estado do Maranhão.

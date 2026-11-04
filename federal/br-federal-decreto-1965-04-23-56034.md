@@ -1,5 +1,3 @@
-###DEC-056034-0-000-23-04-1965@@@
-
 DECRETO Nº 56.034, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro José da Silva Gomes a pesquisar bauxita, no município de Lages, Estado de Santa Catarina.

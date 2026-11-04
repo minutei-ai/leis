@@ -1,5 +1,3 @@
-###DEC-056924-0-000-01-10-1965@@@
-
 DECRETO Nº 56.924, DE 1 DE OUTUBRO DE 1965.
 
 Abre, pelo Ministério da Aeronáutica o crédito especial de Cr$950.000.000 para o fim que específica.

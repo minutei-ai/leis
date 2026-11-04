@@ -1,5 +1,3 @@
-###DEC-054046-0-000-23-07-1964@@@
-
 DECRETO Nº 54.406, DE 23 DE JULHO DE 1964.
 
 Estabelece diretrizes para a reorganização do Sistema Portuário Nacional.

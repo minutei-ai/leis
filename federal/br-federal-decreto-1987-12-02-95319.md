@@ -1,5 +1,3 @@
-###DEC-095319-0-000-02-12-1987@@@
-
 DECRETO Nº 95.319, DE 02 DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento dos cursos de História e Geografia e habilitações do curso de Ciências da Faculdade de Ciências de Avaré, São Paulo.

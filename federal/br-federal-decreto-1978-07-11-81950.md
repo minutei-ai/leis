@@ -1,5 +1,3 @@
-###DEC-081950-0-000-11-07-1978@@@
-
 Decreto nº 81.950, de11 de julho de 1978.
 
 Concede à Cerâmica Martini S.A. o direito de lavrar argila e folhelho no Município de Teodoro Sampaio, Estado da Bahia.

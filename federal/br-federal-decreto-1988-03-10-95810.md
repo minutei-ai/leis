@@ -1,5 +1,3 @@
-###DEC-095810-0-000-10-03-1988@@@
-
 DECRETO Nº 95.810, DE 10 DE MARÇO DE 1988
 
 Dispõe sobre a autorização para realização de planos de distribuição gratuita de prêmios, a título de propaganda, mediante sorteio, organizados e administrados por associações de classe.

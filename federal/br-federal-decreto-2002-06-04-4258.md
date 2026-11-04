@@ -1,5 +1,3 @@
-###DEC-004258-0-000-04-06-2002@@@
-
 DECRETO Nº 4.258, DE 4 DE JUNHO DE 2002
 
 Aprova o Regimento Interno da Seção Brasileira da Comissão Mista Brasileiro-Uruguaia para o Desenvolvimento da Bacia da Lagoa Mirim (SB/CLM), vinculando-a ao Ministério da Integração Nacional, e dá outras providências.

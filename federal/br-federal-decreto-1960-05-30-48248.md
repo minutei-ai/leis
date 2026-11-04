@@ -1,5 +1,3 @@
-###DEC-048248-0-000-30-05-1960@@@
-
 decreto nº 48.248, de 30 de maio de 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Educação e Cultura.

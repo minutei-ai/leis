@@ -1,5 +1,3 @@
-###DEC-050052-0-000-24-01-1961@@@
-
 DECRETO Nº 50.052, DE 24 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Alvorada de Luziânia Limitada para instalar uma estação radiodifusora.

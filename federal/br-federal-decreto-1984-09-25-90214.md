@@ -1,5 +1,3 @@
-###DEC-090214-0-000-25-09-1984@@@
-
 decreto nº 90.214, de 25 de setembro de 1984
 
 Autoriza o funcionamento do curso superior de Tecnologia Mecânica a ser ministrado pela Faculdade de Tecnologia da Federação das Faculdades "Braz Cubas" de Mogi das Cruzes.

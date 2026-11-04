@@ -1,5 +1,3 @@
-###DEL-005935-0-000-27-10-1943@@@
-
 DECRETO‑LEI N. 5.935 – DE 27 DE  OUTUBRO DE 1943
 
 Altera a redação dos arts. 12, 22, § 2º, 26 e 38 do decreto n. 24.697, de 12 de julho de 1934

@@ -1,5 +1,3 @@
-###DEC-004401-0-000-01-10-2002@@@
-
 DECRETO Nº 4.401, DE 1º DE OUTUBRO DE 2002
 
 Regulamenta o § 6ºdo art. 7º do Decreto-Lei nº 288, de 28 de fevereiro de 1967, o art. 2º da Lei nº 8.387, de 30 de dezembro de 1991, e o art. 8º da Lei nº 10.176, de 11 de janeiro de 2001, que tratam do benefício fiscal concedido às empresas que produzam bens e serviços de informática na Zona Franca de Manaus que investirem em atividades de pesquisa e desenvolvimento na Amazônia, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068649-0-000-24-05-1971@@@
-
 DECRETO Nº 68.649 - DE 24 DE MAIO DE 1971.
 
 Retificar o artigo 1º do Decreto número 59.743, de 15 de dezembro de 1966.

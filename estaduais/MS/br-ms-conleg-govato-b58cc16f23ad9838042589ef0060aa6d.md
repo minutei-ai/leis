@@ -6,15 +6,16 @@ Declara de Utilidade Pública Estadual o Costa Rica Esporte Clube, com sede no M
 
 Publicada no Diário Oficial nº 11.214, de 17 de julho de 2023, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarado de Utilidade Pública Estadual o Costa Rica Esporte Clube, com sede no Município de Costa Rica, em Mato Grosso do Sul.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarado de Utilidade Pública Estadual o Costa Rica Esporte Clube, com sede no Município de Costa Rica, em Mato Grosso do Sul.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 14 de julho de 2023.
 
-<br>
-JOSÉ CARLOS BARBOSA<br>
+JOSÉ CARLOS BARBOSA
+
 Governado do Estado, em exercício

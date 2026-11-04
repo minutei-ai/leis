@@ -1,5 +1,3 @@
-###DEC-071949-0-000-20-03-1973@@@
-
 DECRETO Nº 71.949, DE 20 DE março DE 1973.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado da Bahia.

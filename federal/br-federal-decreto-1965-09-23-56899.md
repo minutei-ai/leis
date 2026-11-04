@@ -1,5 +1,3 @@
-###DEC-056899-0-000-23-09-1965@@@
-
 DECRETO Nº 56.899, DE 23 DE SETEMBRO DE 1965.
 
 Baixa Normas Técnicas Especiais para a Profilaxia da Doença de Chagas e dá outras providências.

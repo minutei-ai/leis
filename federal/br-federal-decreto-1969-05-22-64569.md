@@ -1,5 +1,3 @@
-###DEC-064569-0-000-22-05-1969@@@
-
 DECRETO Nº 64.569, DE 22 DE MAIO DE 1969.
 
 Dispõe sôbre recolhimento de diferença de preços sôbre preços estoques de trigo e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077672-0-000-24-05-1976@@@
-
 DECRETO Nº 77.672, DE 24 DE MAIO DE 1976
 
 Altera dispositivos do Regulamento para o Comando de Operações Navais, aprovado pelo Decreto número 66.051, de 12 de janeiro de 1970 e modificado pelo Decreto nº 69.043, de 10 de agosto de 1971.

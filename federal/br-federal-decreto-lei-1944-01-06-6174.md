@@ -1,5 +1,3 @@
-###DEL-006174-0-000-06-01-1944@@@
-
 DECRETO-LEI N. 6.174 – DE 6 DE JANEIRO DE 1944
 
 Extingue a 7a Divisão de Infantaria da 7ª Região Militar

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/32e1b83c-4785-44c5-9d26-730d2367dca3/texto#nowhere)
 
-###DEL-000922-0-000-10-10-1969@@@
-
 DECRETO-LEI Nº 922, DE 10 DE OUTUBRO DE 1969
 
 Altera a redação do § 2º do artigo 8º, da Lei nº 4.024, de 20 de dezembro de 1961.

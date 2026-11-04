@@ -1,7 +1,3 @@
-1
-
-###DEC-099956-0-000-28-12-1990@@@
-
 # DECRETO Nº 99.956, DE 28 DE DEZEMBRO DE 1990
 
 Altera o Programa de Apoio Social Especial Integrado (Pasei), prorroga sua vigência e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-051229-0-000-22-08-1961@@@
-
 Decreto Nº 51.229, DE 22 DE AGÔSTO DE 1961.
 
 Autoriza a cessão, sob a forma de utilização gratuita, ao Estado da Guanabara, do imóvel que menciona.

@@ -1,5 +1,3 @@
-###DEC-079103-0-000-10-01-1977@@@
-
 Decreto nº 79.103, de 10 de janeiro de 1977.
 
 Cria a Embaixada do Brasil na Jamaica.

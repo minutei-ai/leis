@@ -1,7 +1,3 @@
-1
-
-###DEC-098391-0-000-13-11-1989@@@
-
 DECRETO Nº 98.391, DE 13 DE NOVEMBRO DE 1989
 
 Dispõe sobre a criação ou reconhecimento de novos cursos jurídicos em nível de graduação.

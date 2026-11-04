@@ -1,12 +1,10 @@
-###EMC-000046-0-000-05-05-2005@@@
+**EMENDA CONSTITUCIONAL Nº 46, DE 5 DE MAIO DE 2005**
 
-<strong>EMENDA CONSTITUCIONAL Nº 46, DE 5 DE MAIO DE 2005</strong>
-
-<em><strong>Altera o inciso IV do art. 20 da Constituição Federal.</strong></em>
+***Altera o inciso IV do art. 20 da Constituição Federal.***
 
         AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-        <strong>Art</strong>. 1º O inciso IV do art. 20 da Constituição Federal passa a vigorar com a seguinte redação:
+        **Art**. 1º O inciso IV do art. 20 da Constituição Federal passa a vigorar com a seguinte redação:
 
 "Art. 20. ..........................................................
 
@@ -16,66 +14,66 @@ IV as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as pr
 
 ......................................................................................."(NR)
 
-        <strong>Art</strong>. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+        **Art**. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
         Brasília, em 5 de maio de 2005
 
-<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>
+**MESA DA CÂMARA DOS DEPUTADOS**
 
-<strong>DEPUTADO SEVERINO CAVALCANT</strong>
+**DEPUTADO SEVERINO CAVALCANT**
 
 Presidente
 
-<strong>DEPUTADO JOSÉ THOMAZ NONÔ 1º</strong>
+**DEPUTADO JOSÉ THOMAZ NONÔ 1º**
 
 Vice-Presidente
 
-<strong>DEPUTADO CIRO NOGUEIRA</strong>
+**DEPUTADO CIRO NOGUEIRA**
 
 2º Vice-Presidente
 
-<strong>DEPUTADO INOCÊNCIO OLIVEIRA</strong>
+**DEPUTADO INOCÊNCIO OLIVEIRA**
 
 1º Secretário
 
-<strong>DEPUTADO NILTON CAPIXABA</strong>
+**DEPUTADO NILTON CAPIXABA**
 
 2º Secretário
 
-<strong>DEPUTADO EDUARDO GOMES</strong>
+**DEPUTADO EDUARDO GOMES**
 
 3º Secretário
 
-<strong>DEPUTADO JOÃO CALDAS</strong>
+**DEPUTADO JOÃO CALDAS**
 
 4º Secretário
 
-<strong>MESA DO SENADO FEDERAL</strong>
+**MESA DO SENADO FEDERAL**
 
-<strong>SENADOR RENAN CALHEIROS</strong>
+**SENADOR RENAN CALHEIROS**
 
 Presidente
 
-<strong>SENADOR TIÃO VIANA</strong>
+**SENADOR TIÃO VIANA**
 
 1º Vice-Presidente
 
-<strong>SENADOR ANTERO PAES DE BARROS</strong>
+**SENADOR ANTERO PAES DE BARROS**
 
 2º Vice-Presidente
 
-<strong>SENADOR EFRAIM MORAIS</strong>
+**SENADOR EFRAIM MORAIS**
 
 1º Secretário
 
-<strong>SENADOR JOÃO ALBERTO SOUZA</strong>
+**SENADOR JOÃO ALBERTO SOUZA**
 
 2º Secretário
 
-<strong>SENADOR PAULO OCTÁVIO</strong>
+**SENADOR PAULO OCTÁVIO**
 
 3º Secretário
 
-<strong>SENADOREDUARDOSIQUEIRACAMPOS</strong>
+**SENADOREDUARDOSIQUEIRACAMPOS**
 
 4º Secretário

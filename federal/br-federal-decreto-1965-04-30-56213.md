@@ -1,5 +1,3 @@
-###DEC-056213-0-000-30-04-1965@@@
-
 DECRETO Nº 56.213, DE 30 DE ABRIL DE 1965.
 
 Concede a Emprêsa de Navegação Vieira Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem, sob a nova forma social de Emprêsa de Navegação Vieira S.A.

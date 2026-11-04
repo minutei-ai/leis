@@ -1,5 +1,3 @@
-###DEC-082975-0-000-03-01-1979@@@
-
 Decreto nº 82.975, de 03 de janeiro de 1979
 
 Concede à Gélio da Cunha - Firma Individual, o direito de lavrar mármore e calcita no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

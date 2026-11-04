@@ -1,5 +1,3 @@
-###DEC-093491-0-000-03-11-1986@@@
-
 DECRETO Nº 93.491, DE 3 DE NOVEMBRO DE 1986.
 
 Revoga os Decretos nº 68.447, de 30 de março de 1971 e nº 79.030, de 23 de dezembro de 1976.

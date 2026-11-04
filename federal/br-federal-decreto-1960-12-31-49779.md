@@ -1,5 +1,3 @@
-###DEC-049779-0-000-31-12-1960@@@
-
 DECRETO Nº 49.779, DE 31 DE dezembro DE 1960.
 
 Autoriza a cidadã brasileira Lúcia de Mendonça Clark a pesquisar areis ilmeníticas no município de Araioses, Estado do Maranhão.

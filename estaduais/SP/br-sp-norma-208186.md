@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208186)<br>
-
 # LEI N° 17.693, DE 14 DE JUNHO DE 2023
 
 ## (Projeto de lei n° 1151, de 2019, do Deputado Roque Barbiere - PTB)

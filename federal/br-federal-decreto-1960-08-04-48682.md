@@ -1,5 +1,3 @@
-###DEC-048682-0-000-04-08-1960@@@
-
 DECRETO Nº 48.682, DE 4 DE AGÔSTO DE 1960.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, fração ideal do domínio útil do terreno de marinha e de acrescido que menciona; no Estado da Guanabara.

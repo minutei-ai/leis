@@ -1,5 +1,3 @@
-###DEC-047335-0-000-02-12-1959@@@
-
 decreto nº 47.335, de 2 de dezembro de 1959.
 
 Autoriza o cidadão brasileiro Adonias Martins de Carvalho a pesquisar minérios de ferro no município de Independência, Estado do Ceará.

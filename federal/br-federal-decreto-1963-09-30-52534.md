@@ -1,5 +1,3 @@
-###DEC-052534-0-000-30-09-1963@@@
-
 DECRETO Nº 52.534, DE 30 DE SETEMBRO DE 1963.
 
 Outorga a Prefeitura Municipal de Camanducaia concessão para o aproveitamento da energia hidráulica do desnível existente no rio Camanducaia, situado no distrito-sede do município de igual nome, Estado de Minas Gerais.

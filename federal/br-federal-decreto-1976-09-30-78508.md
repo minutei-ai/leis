@@ -1,5 +1,3 @@
-###DEC-078508-0-000-30-09-1976@@@
-
 DECRETO Nº 78.508, DE 30 DE SETEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação pela FUNABEM, o imóvel rural denominado Chácara da Conceição, com as benfeitorias nele existentes, situado em Carmo de Minas, no Estado de Minas Gerais.

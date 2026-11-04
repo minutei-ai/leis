@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212499)<br>
-
 # DECRETO N° 70.552, DE 17 DE ABRIL DE 2026
 
 ### _Institui a Medalha "Professor Eduardo de Oliveira", do Conselho Estadual de Participação e Desenvolvimento da Comunidade Negra de São Paulo - CPDCN, da Secretaria da Justiça e Cidadania, e dá providências correlatas._
@@ -20,10 +18,12 @@ Nerylson Lima da Silva
 
 Arthur Luis Pinho de Lima
 
-#### REGULAMENTO<br>
+#### REGULAMENTO
+
 Medalha "Professor Eduardo de Oliveira"
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Da Honraria
 
 **Artigo 1° -** A Medalha "Professor Eduardo de Oliveira", do Conselho Estadual de Participação e Desenvolvimento da Comunidade Negra de São Paulo - CPDCN, da Secretaria da Justiça e Cidadania, tem por objetivo agraciar personalidades civis e militares, nacionais ou estrangeiras, que, por seus méritos, tenham dedicado suas vidas, talentos e esforços ao fortalecimento da comunidade negra e à promoção da justiça social, bem como para reconhecer os relevantes serviços prestados ao Estado de São Paulo e à população brasileira.
@@ -58,7 +58,8 @@ a) anverso: nome da honraria; nome completo do(a) agraciado(a); nome da institui
 
 b) verso: dados de registro do diploma na Instituição (Livro e Página/Sequência); chancela de registro do diploma junto ao Conselho Estadual de Honrarias e Mérito - CEHM.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Chancelaria e do Conselho de Outorgas
 
 **Artigo 3° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pelo Conselho de Outorgas.
@@ -75,7 +76,8 @@ Da Chancelaria e do Conselho de Outorgas
 
 **Parágrafo único -** O total de membros da Chancelaria ou Conselho de Outorgas do CPDCN, incluindo seu Presidente, deve ser em número ímpar para evitar empates nas votações.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 5° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria do CPDCN, sendo composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler, e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual de Honrarias e Mérito - CEHM.
@@ -104,7 +106,8 @@ V - Presidente do CPDCN, Chanceler, para os demais membros e suplentes.
 
 **Artigo 8° -** Caso a honraria permaneça por muito tempo sem ser outorgada e/ou nos casos em que o Conselho de Outorga do CPDCN seja dissolvido, será necessário acender novamente a Fonte de Honra (Fons Honorum), conforme previsto no artigo 6°.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 9° -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas ao Conselho de Outorgas do CPDCN em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -149,7 +152,8 @@ IV - certidão de quitação do serviço militar obrigatório, para pessoas fís
 
 **Artigo 16 -** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Do Registro e das Chancelas Oficiais dos Diplomas
 
 **Artigo 17 -** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
@@ -170,7 +174,8 @@ Do Registro e das Chancelas Oficiais dos Diplomas
 
 **§ 3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual de Honrarias e Mérito - CEHM.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Das Cerimônias de Outorga
 
 **Artigo 20 -** A Chancelaria do CPDCN estabelecerá uma data magna para que seja realizada uma cerimônia de outorga oficial anual, preferencialmente pública.
@@ -195,7 +200,8 @@ Das Cerimônias de Outorga
 
 **§ 3° -** Os membros da Chancelaria do CPDCN devem ostentar ao menos a roseta (botão de lapela) da honraria a ser outorgada.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Das Disposições Finais
 
 **Artigo 23 -** Na hipótese da extinção dessa condecoração no todo ou em parte, seus cunhos, exemplares e complementos remanescentes, serão recolhidos ao Conselho Estadual de Honrarias e Mérito - CEHM, sem ônus para os cofres públicos.

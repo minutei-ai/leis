@@ -1,6 +1,10 @@
 > **LEI Nº 3.398, DE 26 DE JULHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece a obrigatoriedade de exigência da carteira de vacinação da criança, ou documento similar no ato da matrícula dos alunos da educação infantil e da primeira etapa do ensino fundamental.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece a obrigatoriedade de exigência da carteira de vacinação da criança, ou documento similar no ato da matrícula dos alunos da educação infantil e da primeira etapa do ensino fundamental.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

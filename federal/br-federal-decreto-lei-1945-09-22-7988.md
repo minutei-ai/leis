@@ -1,5 +1,3 @@
-###DEL-007988-0-000-22-09-1945@@@
-
 DECRETO-LEI N. 7.988 – DE 22 SETEMBRO DE 1945
 
 Dispõe sôbre o ensino superior de ciências econômicas e de ciências contábeis e atuariais

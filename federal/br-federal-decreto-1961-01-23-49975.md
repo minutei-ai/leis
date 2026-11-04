@@ -1,5 +1,3 @@
-###DEC-049975-0-000-23-01-1961@@@
-
 DECRETO Nº 49.975, DE 23 DE JANEIRO DE 1961.
 
 Concede autorização ao Banco Militar Brasileiro Sociedade Cooperativa de Responsabilidade Limitada com sede em Pôrto Alegre, para modificar seu estatuto social.

@@ -1,5 +1,3 @@
-###DEL-006109-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.109 – DE 16 DE DEZEMBRO DE 1943
 
 Modifica o artigo 712 do Código do Processo Penal

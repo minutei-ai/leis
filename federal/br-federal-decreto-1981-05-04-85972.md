@@ -1,5 +1,3 @@
-###DEC-085972-0-000-04-05-1981@@@
-
 Decreto Nº 85.972, de 04 de MAIO de 1981
 
 Renova por 10 (dez) anos a concessão outorgada a CEARÁ RÁDIO CLUBE S.A., autoriza a transferência direta para a RÁDIO TV DO MARANHÃO LTDA. - RÁDIO SÃO LUIS que passará a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Luis, Estado do Maranhão.

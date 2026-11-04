@@ -1,5 +1,3 @@
-###DEC-062199-0-000-31-01-1968@@@
-
 DECRETO Nº 62.199, DE 31 DE JANEIRO DE 1968.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamentos novos, sem similar nacional, neste descritos e consignados à empresa “Hidromecânica de Vettori S.A.”, de Recife - Pernambuco.
@@ -14,7 +12,29 @@ decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, exceto a taxa prevista no Decreto-lei nº 83, de 26.12.66, Artigo 9º, a importação de equipamentos novos, sem similar nacional, a seguir descritos e consignados à empresa “Hidromecânica de Vettori S.A. de Recife (PE):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:255.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:255.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Broqueadeira Horizontal, marca Tos, Modêlo H-100</span><span style="font-size:0.67em; vertical-align:super">A</span><span>, com equipamento ótico, de procedência Tcheca, diâmetro da placa 600mm, mesa de 1.250 x 1.250mm, com acessórios standard e mais dispositivo ótico de medir e refrigeração equipada com motor de 10,5 HP......................................................................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>22.447,90</span></p></td></tr><tr><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:255.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL................................................................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>22.447,90</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+1
+
+Broqueadeira Horizontal, marca Tos, Modêlo H-100A, com equipamento ótico, de procedência Tcheca, diâmetro da placa 600mm, mesa de 1.250 x 1.250mm, com acessórios standard e mais dispositivo ótico de medir e refrigeração equipada com motor de 10,5 HP......................................................................................
+
+1
+
+22.447,90
+
+TOTAL................................................................................
+
+-
+
+22.447,90
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria, fica sua similaridade, para efeito da isenção de que trata o presente Decreto, para ser examinada pela Alfândega de destino quando do desembaraço aduaneiro, na hipótese de os, mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

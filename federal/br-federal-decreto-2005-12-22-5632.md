@@ -1,5 +1,3 @@
-###DEC-005632-0-000-22-12-2005@@@
-
 DECRETO Nº 5.632, DE 22 DE DEZEMBRO DE 2005.
 
        Cria a Embaixada do Brasil na República Democrática Socialista de Sri Lanka.
@@ -19,5 +17,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 23.12.2005

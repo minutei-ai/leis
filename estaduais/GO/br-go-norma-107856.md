@@ -16,8 +16,6 @@ Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, retro
 
 Goiânia, 17 de outubro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

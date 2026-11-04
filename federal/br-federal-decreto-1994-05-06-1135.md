@@ -1,7 +1,3 @@
-1
-
-###DEC-001135-0-000-06-05-1994@@@
-
 DECRETO N° 1.135, DE 6 DE MAIO DE 1994
 
 Transfere a cumulatividade da Embaixada do Brasil na República Popular da Mongólia para a Embaixada do Brasil em Pequim.

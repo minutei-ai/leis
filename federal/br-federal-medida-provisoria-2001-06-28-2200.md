@@ -1,5 +1,3 @@
-###MPV-002200-0-000-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.200, DE 28 DE JUNHO DE 2001
 
 Institui a Infra‑Estrutura de Chaves Públicas Brasileira ‑ ICP‑Brasil, e dá outras providências.
@@ -61,8 +59,6 @@ Parágrafo único. É vedado à AC Raiz emitir certificados para o usuário fina
 Art. 7º O Instituto Nacional de Tecnologia da Informação do Ministério da Ciência e Tecnologia é a AC Raiz da ICP‑Brasil.
 
 Parágrafo único. Para a consecução de seus objetivos, o Instituto Nacional de Tecnologia da Informação poderá, na forma da lei, contratar serviços de terceiros.
-
-<br>
 
 Art. 8º Às AC, entidades autorizadas a emitir certificados digitais vinculando determinado código criptográfico ao respectivo titular, compete emitir, expedir, distribuir, revogar e gerenciar os certificados e as correspondentes chaves criptográficas, colocar à disposição dos usuários listas de certificados revogados e outras informações pertinentes e manter registro de suas operações.
 

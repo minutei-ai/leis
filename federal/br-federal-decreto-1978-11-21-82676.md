@@ -1,5 +1,3 @@
-###DEC-082676-0-000-21-11-1978@@@
-
 Decreto nº 82.676, de 21 de novembro de 1978
 
 Retifica a autorização de lavra conferida à Companhia de Cimento Portland Itaú pelo Decreto nº 19 007, de 27 de junho de 1945.

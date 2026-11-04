@@ -1,5 +1,3 @@
-###DEC-003134-0-000-10-08-1999@@@
-
 DECRETO Nº 3.134, DE 10 DE AGOSTO DE 1999.
 
 Estabelece diretrizes e metas relativas à revisão das estruturas dos Ministérios, e dá outras providências.

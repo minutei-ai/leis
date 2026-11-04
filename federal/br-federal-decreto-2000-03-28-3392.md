@@ -1,5 +1,3 @@
-###DEC-003392-0-000-28-03-2000@@@
-
 DECRETO Nº 3.392, DE 28 DE MARÇO DE 2000.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Comissão de Valores Mobiliários, e dá outras providências.

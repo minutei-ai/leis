@@ -1,5 +1,3 @@
-###DEC-061353-0-000-15-09-1967@@@
-
 DECRETO Nº 61.353, DE 15 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública a “Sociedade Feminina de Instrução e Caridade”, com sede em Campinas, Estado de São Paulo.

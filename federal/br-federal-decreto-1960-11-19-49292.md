@@ -1,5 +1,3 @@
-###DEC-049292-0-000-19-11-1960@@@
-
 Decreto nº 49.292, de 19 de novembro de 1960.
 
 Autoriza o cidadão brasileiro Alcides Francisco de Castro Junqueira a pesquisar mica no município de Bom Jesus do Galho, Estado de Minas Gerais.

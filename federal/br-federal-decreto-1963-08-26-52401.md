@@ -1,5 +1,3 @@
-###DEC-052401-0-000-26-08-1963@@@
-
 DECRETO Nº 52.401, DE 26 AGÔSTO DE 1963.
 
 Declara o interêsse social, para fins de desapropriação, os imóveis que constituem o conjunto residencial de cem casas em fase final de construção, e seus respectivos terrenos, situados na Estação de Senador Câmara, no Estado da Guanabara.

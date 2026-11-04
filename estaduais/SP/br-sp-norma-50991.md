@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=50991)
-
 # LEI Nº 11.708, DE 24 DE MAIO DE 2004
 
 ## (PL 184/2002 - Ary Fossen)
@@ -28,18 +26,12 @@ Secretário-Chefe da Casa Civil
 
 Publicada na Assessoria Técnico-Legislativa, aos 24 de maio de 2004.
 
-<br>
-<br>
-
 #### [LEI Nº 11.708, DE 24 DE MAIO DE 2004](https://www.al.sp.gov.br/norma/50991)
 
 (Projeto de lei nº 184/2002, do deputado Ary Fossen - PSDB)
 
-<br>
-
 Retificação do D.O. de 25-5-2004
 
-<br>
+Na ementa, leia-se como segue e não como constou:
 
-Na ementa, leia-se como segue e não como constou:<br>
 Dá denominação a área pública situada em Jundiaí.

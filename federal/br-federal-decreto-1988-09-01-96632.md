@@ -1,5 +1,3 @@
-###DEC-096632-0-000-01-09-1988@@@
-
 DECRETO N° 96.632, DE 1° DE SETEMBRO DE 1988
 
 Outorga concessão à Paulista METRO-TVA Ltda. para explorar Serviço Especial de Televisão por Assinatura  TVA na Cidade de São Paulo, Estado de São Paulo.

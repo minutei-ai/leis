@@ -1,7 +1,3 @@
-1
-
-###MPV-001457-0-000-16-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.457, DE 16 DE MAIO DE 1996.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

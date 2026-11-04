@@ -1,5 +1,3 @@
-###MPV-001913-0-008-26-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.913-8, DE 26 DE OUTUBRO DE 1999.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

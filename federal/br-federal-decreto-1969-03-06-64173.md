@@ -1,5 +1,3 @@
-###DEC-064173-0-000-06-03-1969@@@
-
 DECRETO Nº 64.173, DE 6 DE MArÇO DE 1969.
 
 Retifica o Decreto n.º 50.953, de 14 de julho de 1961, a fim de alterar o aproveitamento de servidores do extinto Território Federal de Ponta Porã em cargos existentes no Ministério da Agricultura.

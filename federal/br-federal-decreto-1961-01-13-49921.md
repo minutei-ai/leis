@@ -1,5 +1,3 @@
-###DEC-049921-0-000-13-01-1961@@@
-
 DECRETO Nº 49.921, DE 13 DE JANEIRO DE 1961.
 
 Autoriza o “Banco de Crédito da Capital Sociedade Cooperativa de Responsabilidade Limitada” a modificar seu estatuto social.

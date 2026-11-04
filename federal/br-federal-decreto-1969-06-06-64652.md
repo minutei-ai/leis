@@ -1,5 +1,3 @@
-###DEC-064652-0-000-06-06-1969@@@
-
 DECRETO Nº 64.652, DE 6 DE JUNHO DE 1969.
 
 Concede permissão, Em caráter permanente, A J. Bresler S.A.- Indústria de Papelão, com sede no Estado de São Paulo, para funcionar aos domingos e nos feriados civis e religiosos.

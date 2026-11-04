@@ -1,5 +1,3 @@
-###DEC-069957-0-000-18-01-1972@@@
-
 DECRETO Nº 69.957, DE18 DE JANEIRO DE 1972.
 
 Decreta intervenção federal no município de Araçatuba, Estado de São Paulo, e dá outras providências.

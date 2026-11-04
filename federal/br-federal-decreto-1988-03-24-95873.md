@@ -1,7 +1,3 @@
-1
-
-###DEC-095873-0-000-24-03-1988@@@
-
 DECRETO N° 95.873, DE 24 DE MARÇO DE 1988
 
 Altera os incisos “e” e “f” do artigo 1° do Decreto n° 92 503, de 26 de março de 1986, que fixa os cargos privativos de Oficial‑General do Exército em Tempo de Paz.

@@ -1,5 +1,3 @@
-###DEC-087052-0-000-23-03-1982@@@
-
 DECRETO Nº 87.052, DE 23 DE MARÇO DE 1982.
 
 Cria o Vice-Consulado do Brasil em Puerto Iguazu, na Argentina.

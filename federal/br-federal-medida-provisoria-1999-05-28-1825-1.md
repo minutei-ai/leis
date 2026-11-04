@@ -1,5 +1,3 @@
-###MPV-001825-0-001-28-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.825-1, DE 28 DE MAIO DE 1999.
 
 Altera a Lei nº 4.229, de 1º de junho de 1963, autoriza a doação de bens e dá outras providências.

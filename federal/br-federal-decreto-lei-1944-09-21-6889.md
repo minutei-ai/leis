@@ -1,5 +1,3 @@
-###DEL-006889-0-000-21-09-1944@@@
-
 DECRETO-LEI N. 6.889 – DE 21 DE SETEMBRO DE 1944
 
 Dá nova redação aos arts. 14, 15, 16, 17, 18, 19 e 20 do Decreto-lei n. 5.698, de 22 de julho de 1943

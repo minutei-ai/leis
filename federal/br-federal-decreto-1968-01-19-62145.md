@@ -1,5 +1,3 @@
-###DEC-062145-0-000-19-01-1968@@@
-
 DECRETO Nº 62.145, de 19 de Janeiro de 1968.
 
 Autorização para funcionamento da Escola de Engenharia Industrial de São José dos Campos – São Paulo.

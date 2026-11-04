@@ -1,5 +1,3 @@
-###DEL-009815-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.815 – DE 9 DE SETEMBRO DE 1946
 
 Altera o Decreto-lei nº 6.155, de 30 de Dezembro de 1945.

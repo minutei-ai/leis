@@ -1,5 +1,3 @@
-###DEL-005189-0-000-14-01-1943@@@
-
 DECRETO‑LEI N. 5.189 – DE 14 DE JANEIRO DE 1943
 
 Abre ao Ministério da Viação o Obras Públicas o crêdito especial de cruzeiros 7. 125.599,00 para pagamento de despesas cara a eletrificação da Estrada de Ferro Central do Brasil

@@ -1,5 +1,3 @@
-###DEC-079838-0-000-22-06-1977@@@
-
 DECRETO Nº 79.838, DE 22 DE JUNHO DE 1977.
 
 Concede reconhecimento ao curso de Educação Física, da Escola Superior de Educação Física e Técnicas Desportivas de Andradina, com sede na Cidade de Andradina, Estado de São Paulo.

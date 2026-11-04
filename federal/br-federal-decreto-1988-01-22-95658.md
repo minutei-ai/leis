@@ -1,7 +1,3 @@
-1
-
-###DEC-095658-0-000-22-01-1988@@@
-
 DECRETO N° 95.658, DE 22 DE JANEIRO DE 1988
 
 Dispõe sobre a composição do Conselho de Desenvolvimento Social  CDS

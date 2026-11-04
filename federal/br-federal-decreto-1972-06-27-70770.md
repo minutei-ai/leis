@@ -1,5 +1,3 @@
-###DEC-070770-0-000-27-06-1972@@@
-
 DECRETO Nº 70.770, DE 27 DE JUNHO DE 1972.
 
 Autoriza o Ministro da Fazenda a contratar, em nome da União, crédito externo que especifica.

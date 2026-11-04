@@ -1,5 +1,3 @@
-###DEC-068060-0-000-14-01-1971@@@
-
 DECRETO Nº 68.060, DE 14 DE JANEIRO DE 1971.
 
 Altera a redação dos artigos 5º, 19 e 20 do Regulamento aprovado pelo Decreto nº 67.325, de 2 de outubro de 1970.

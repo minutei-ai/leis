@@ -1,40 +1,38 @@
-###DEC-037573-0-000-05-07-1955@@@
+**DECRETO Nº 37.573, DE 5 DE JULHO DE 1955.**
 
-<strong>DECRETO Nº 37.573, DE 5 DE JULHO DE 1955.</strong>
+***Aprova as Instruções para concursos no Magistério do Exército.***
 
-<em><strong>Aprova as Instruções para concursos no Magistério do Exército.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere os incisos I e XI do art. 87, e em face do art. 168, Inciso VI, e art. 174, tudo da Constituição Federal, e de acôrdo com o § 1º do art. 2º do Decreto lei nº 103, de 23 de dezembro de 1937, combinado com os arts. 1º e 3º do Decreto-lei nº 8.922, de 26 de janeiro de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere os incisos I e XI do art. 87, e em face do art. 168, Inciso VI, e art. 174, tudo da Constituição Federal, e de acôrdo com o § 1º do art. 2º do Decreto lei nº 103, de 23 de dezembro de 1937, combinado com os arts. 1º e 3º do Decreto-lei nº 8.922, de 26 de janeiro de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as Instruções para concursos no Magistério do Exército, baixadas com o presente Decreto, a que se refere o § 1º do art. 1º do Decreto nº 37.396, de 26 de maio de 1955, elaboradas pelo Ministro de Estado dos Negócios da Guerra, em face das atribuições que lhe confere o art. 59 da Lei do Ensino Militar (Decreto-lei nº 4.130, de 26 de fevereiro de 1942).
 
-<strong>Art</strong>. 1º Ficam aprovadas as Instruções para concursos no Magistério do Exército, baixadas com o presente Decreto, a que se refere o § 1º do art. 1º do Decreto nº 37.396, de 26 de maio de 1955, elaboradas pelo Ministro de Estado dos Negócios da Guerra, em face das atribuições que lhe confere o art. 59 da Lei do Ensino Militar (Decreto-lei nº 4.130, de 26 de fevereiro de 1942).
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 5 de julho de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott
 
-<strong>INSTRUÇÕES PARA CONCURSOS NO 0MAGISTÉRIO DO EXÉRCITO</strong>
+**INSTRUÇÕES PARA CONCURSOS NO 0MAGISTÉRIO DO EXÉRCITO**
 
 A que se refere o § 1º do Art. 1º do Decreto número 37.396, de 26 de maio de 1955.
 
 PRELIMINARES
 
-<strong>Art</strong>. 1º As presentes Instruções são baixadas em cumprimento ao § 1º do Decreto 37.396, de 26 de maio de 1955 e lhe servem de complementação.
+**Art**. 1º As presentes Instruções são baixadas em cumprimento ao § 1º do Decreto 37.396, de 26 de maio de 1955 e lhe servem de complementação.
 
 Parágrafo único. Instruções não se referem à disciplina de Canto Orfeônico
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Dos adjuntos de catedráticos</em>
+*Dos adjuntos de catedráticos*
 
 A) Inscrições
 
-<strong>Art</strong>. 2º Nomeação de adjunto de catedrático em caráter efetivo, de disciplina não essencialmente militar, para a Academia Militar das Agulhas Negras, Colégio Militar e Escolas Preparatórias do Exército, ou estabelecimentos congêneres do Exército, que venham a ser criados,- ou transferência de uma disciplina para outra, no mesmo estabelecimento, ou para a mesma disciplina, ou para outra, de estabelecimento doutra sede, - far-se-á mediante concurso de títulos e de provas e na conformidade do Decreto nº 37.396, de 26 de maio de 1955, e das presentes Instruções.
+**Art**. 2º Nomeação de adjunto de catedrático em caráter efetivo, de disciplina não essencialmente militar, para a Academia Militar das Agulhas Negras, Colégio Militar e Escolas Preparatórias do Exército, ou estabelecimentos congêneres do Exército, que venham a ser criados,- ou transferência de uma disciplina para outra, no mesmo estabelecimento, ou para a mesma disciplina, ou para outra, de estabelecimento doutra sede, - far-se-á mediante concurso de títulos e de provas e na conformidade do Decreto nº 37.396, de 26 de maio de 1955, e das presentes Instruções.
 
 § 1º O edital de abertura do concurso contará os programas das matérias relativas às vagas e tôdas as disposições particulares que se tornem necessárias ao fiel cumprimento do Decreto 37.396, de 26 de maio de 1955, e das presentes Instruções.
 
@@ -44,27 +42,27 @@ A) Inscrições
 
 § 4º Os candidatos que não satisfizeram aos requisitos para inscrição no concurso, estabelecidos nas presentes Inscrições e no Decreto nº 37.396, de 26 de maio de 1955, serão eliminados do concurso pelo Ministro da Guerra, mediante proposta do Diretor Geral do Ensino do Exército; as eliminações irão sendo feitas à medida que se for verificado que os candidatos não satisfazem às exigências.
 
-§ 5º Desde a abertura da vaga, ou vagas, até que se completem 60 (sessenta) dias a contar da primeira publicação no <em>Diário Oficial</em> do edital de abertura do concurso, a Diretoria Geral do Ensino do Exército receberá os requerimentos de inscrição; tais requerimentos serão dirigidos ao Ministro da Guerra e virão acompanhados documentos que as presentes Instruções exigem sejam a êles anexados.
+§ 5º Desde a abertura da vaga, ou vagas, até que se completem 60 (sessenta) dias a contar da primeira publicação no *Diário Oficial* do edital de abertura do concurso, a Diretoria Geral do Ensino do Exército receberá os requerimentos de inscrição; tais requerimentos serão dirigidos ao Ministro da Guerra e virão acompanhados documentos que as presentes Instruções exigem sejam a êles anexados.
 
-§ 6º Decorridos 60 (sessenta) dias, a contar da primeira publicação, no <em>Diário Oficial</em>, do edital de abertura do concurso, os candidatos deverão ser submetidos à inspeção de saúde para os fins do disposto nas presentes inscrições.
+§ 6º Decorridos 60 (sessenta) dias, a contar da primeira publicação, no *Diário Oficial*, do edital de abertura do concurso, os candidatos deverão ser submetidos à inspeção de saúde para os fins do disposto nas presentes inscrições.
 
-§ 7ºA inspeção de saúde a que se refere o § 6º dêste artigo será realizada nas sedes de Regiões Militares ou nas sedes dos estabelecimentos de ensino a que se refere estas Instruções. As atas de inspeção de saúde serão remetidas à Diretoria Geral do Ensino do Exército, de forma a permitir a publicação do resultado antes que se completem 90 (noventa) dias a contar da primeira publicação, no <em>Diário Oficial</em>, do edital de abertura do concurso.
+§ 7ºA inspeção de saúde a que se refere o § 6º dêste artigo será realizada nas sedes de Regiões Militares ou nas sedes dos estabelecimentos de ensino a que se refere estas Instruções. As atas de inspeção de saúde serão remetidas à Diretoria Geral do Ensino do Exército, de forma a permitir a publicação do resultado antes que se completem 90 (noventa) dias a contar da primeira publicação, no *Diário Oficial*, do edital de abertura do concurso.
 
-§ 8º O Diretor Geral do Ensino do Exército de modo que, no prazo compreendido entre 90 (noventa) e 150 (cento e cinqüenta) dias,  a contar da primeira publicação, no <em>Diário Oficial</em>, do edital de abertura do concurso, se realize a prova de suficiência, escrita, de caráter objetivo, para os candidatos que a ela se devam submeter, tudo conforme o § 5º do Art. 3º e Art. 5º destas Inscrições e ainda de maneira que, dentro dêsse prazo, seja publicado o resultado da prova.
+§ 8º O Diretor Geral do Ensino do Exército de modo que, no prazo compreendido entre 90 (noventa) e 150 (cento e cinqüenta) dias,  a contar da primeira publicação, no *Diário Oficial*, do edital de abertura do concurso, se realize a prova de suficiência, escrita, de caráter objetivo, para os candidatos que a ela se devam submeter, tudo conforme o § 5º do Art. 3º e Art. 5º destas Inscrições e ainda de maneira que, dentro dêsse prazo, seja publicado o resultado da prova.
 
-§ 9º No prazo compreendido entre150 (cento e cinqüenta) e 180 (cento e oitenta) dias,  a contar da primeira publicação, no <em>Diário Oficial</em>, do edital de abertura do concurso, a Diretoria Geral do Ensino de Exército receberá, qual dos candidatos militares, quer dos civis, não eliminados do concurso na conformidade do § 4º dêste artigo:
+§ 9º No prazo compreendido entre150 (cento e cinqüenta) e 180 (cento e oitenta) dias,  a contar da primeira publicação, no *Diário Oficial*, do edital de abertura do concurso, a Diretoria Geral do Ensino de Exército receberá, qual dos candidatos militares, quer dos civis, não eliminados do concurso na conformidade do § 4º dêste artigo:
 
 a) Os títulos que poderão ser aceitados, em rigorosa consonância com o que estabelecem as presentes Instruções se o Decreto 37.396-55;
 
 b) 50 (cinqüenta) exemplares da tese (que deverá ser defendida conforme estas Instruções preceituam), trabalho pessoal do candidato - datilografo, mimeografado ou impresso - , não editado e ainda não defendido publicamente noutro concurso, diante de Comissão Julgadora.
 
-§ 10. Relativamente aos trabalhos que poderão ser aceitos como títulos, a que se refere a letra <em>a</em>) do § 9º dêste artigo, de cada um devem os candidatos apresentar 5 (cinco) exemplares.
+§ 10. Relativamente aos trabalhos que poderão ser aceitos como títulos, a que se refere a letra *a*) do § 9º dêste artigo, de cada um devem os candidatos apresentar 5 (cinco) exemplares.
 
 § 11. O conjunto dos títulos apresentados pelo candidato, de acôrdo com as presentes Instruções, deverá acompanhar-se de duas relações não assinadas cada uma em 5 (cinco) vias. Da primeira relação simplesmente constará uma lista que numere cada documento, trabalho e tese, apresentado pelo candidato. Na Segunda relação especificará o candidato os títulos que julga possuir e, para cada titulo, indicará o número do documento comprovante, e trabalho correspondente, referido na primeira relação. A Diretoria Geral do Ensino do Exército fornecerá modêlos de tais relações, para serem preenchidos pelos candidatos. A tese não é titulo para o concurso em questão.
 
 § 12. Numa das vias da primeira relação, a que se refere o § 11 dêste artigo, o oficial credenciado pela Diretoria Geral do Ensino do Exército passará recibo do que lhe fôr entregue, e devolverá essa via da relação ao candidato.
 
-§ 13. Imediatamente depois de completados os 180 (cento e oitenta) dias, a contar da primeira publicação, no <em>Diário</em> <em>Oficial</em>, do edital de abertura do concurso, o Diretor Geral do Ensino do Exército remeterá ao Ministro da Guerra, para aprovar e publicar, a lista dos candidatos inscritos no concurso.
+§ 13. Imediatamente depois de completados os 180 (cento e oitenta) dias, a contar da primeira publicação, no *DiárioOficial*, do edital de abertura do concurso, o Diretor Geral do Ensino do Exército remeterá ao Ministro da Guerra, para aprovar e publicar, a lista dos candidatos inscritos no concurso.
 
 § 14. Publicada a relação dos candidatos inscritos no concurso, cada candidato, militar ou civil, receberá na Diretoria Geral do Ensino do Exército um cartão de inscrição, que especificará a disciplina ou disciplinas para as quais o candidato está inscrito.
 
@@ -72,7 +70,7 @@ b) 50 (cinqüenta) exemplares da tese (que deverá ser defendida conforme estas 
 
 § 16. Logo que pelos candidatos forem entregues os exemplares das teses e dos trabalhos apresentados como títulos, serão distribuídos, mediante recibo a cada membro da comissão julgadora a que se referem as presentes Instruções, 3 (três) exemplares de cada tese 1 (um) de cada trabalho entregue como titulo; qualquer membro da Comissão Julgadora apenas serão brigado a devolver os três exemplares da tese se, antes de o resultado do concurso torna-se público, fôr substituído na Comissão.
 
-<strong>Art</strong>. 3º Ao concurso a que se refere o Art. 2º, acima, poderão candidatar-se militares e civis, deste que satisfaçam ás respectivas exigências do Decreto 37.396-55 e ao que é estabelecido nas presentes Instruções.
+**Art**. 3º Ao concurso a que se refere o Art. 2º, acima, poderão candidatar-se militares e civis, deste que satisfaçam ás respectivas exigências do Decreto 37.396-55 e ao que é estabelecido nas presentes Instruções.
 
 § 1º O militar candidato ao concurso que não fôr professor efetivo do Magistério do Exército, deverá:
 
@@ -104,9 +102,9 @@ f) possuir condições físicas compatíveis com o exército do Magistério do E
 
 g) pagar a taxa de CR$200,00 (duzentos cruzeiros), que não será devolvida ao candidato, em hipótese alguma.
 
-§ 3º O tempo de serviço e o limite de idade a que se referem as letras <em>b</em>) e <em>c</em>) do § 1º e a letra <em>b</em>) do § 2º tudo dêste artigo são referidos à data da primeira publicação, no <em>Diário</em> <em>Oficial</em>, do edital de abertura do concurso. Uma tolerância de 30 (trinta) dias aquém e 30 (trinta) dias além dessa data poderá ser concedida, pelo Ministro da Guerra.
+§ 3º O tempo de serviço e o limite de idade a que se referem as letras *b*) e *c*) do § 1º e a letra *b*) do § 2º tudo dêste artigo são referidos à data da primeira publicação, no *DiárioOficial*, do edital de abertura do concurso. Uma tolerância de 30 (trinta) dias aquém e 30 (trinta) dias além dessa data poderá ser concedida, pelo Ministro da Guerra.
 
-§ 4º O pagamento da taxa a que se referem as letras <em>f</em>) do § 1º e <em>g</em>) do § 2º dêste artigo. Será realizado juntamente com a entrada do requerimento de inscrição.
+§ 4º O pagamento da taxa a que se referem as letras *f*) do § 1º e *g*) do § 2º dêste artigo. Será realizado juntamente com a entrada do requerimento de inscrição.
 
 § 5º Os candidatos que na data do requerimento de inscrição no concurso não forem professôres (efetivados ou não) do Magistério do Exército, em estabelecimento de ensino Exército a que se refere estas instruções, serão ainda, para fins de inscrição no concurso, submetidos, para a matéria de cada vaga a que pretendem concorrer, a uma prova de suficiência, escrita, de caráter objetivo, e deverão ficar compreendidos entre os candidatos considerados habitados nessa prova tudo na conformidade do Art. 5º e seus parágrafos, das presentes Instruções.
 
@@ -120,7 +118,7 @@ b) todos os documentos necessários a prova que o candidato satisfaz às condiç
 
 § 8º Além dos documentos a que se referem o § 7º dêsse artigo, o candidato civil que não fôr membro efetivado do Magistério do Exército, deverá anexar, ainda,  ao requerimento de instrução, folha corrida da polícia.
 
-§ 9º Os documentos a que se referem a letra <em>b</em>) do § 7º dêste artigo serão especificado no edital de abertura do concurso, não devendo entretanto, lá ser feita nenhuma outra exigência para inscrição, além das estabelecidas nas presentes instruções e no Decreto nº 37.396-55.
+§ 9º Os documentos a que se referem a letra *b*) do § 7º dêste artigo serão especificado no edital de abertura do concurso, não devendo entretanto, lá ser feita nenhuma outra exigência para inscrição, além das estabelecidas nas presentes instruções e no Decreto nº 37.396-55.
 
 § 10. Qualquer candidato ao concurso anexará também ao requerimento de inscrição 2 (dois) retratos seus tamanho 3x 4.
 
@@ -128,7 +126,7 @@ b) todos os documentos necessários a prova que o candidato satisfaz às condiç
 
 § 12. A inscrição em concurso (a que se refere o presente artigo) para a Academia Militar das Agulhas Negras, ou estabelecimento que venha a ser criado com fins idênticos aos dessa Academia, - o candidato anexará, ainda ao requerimento de inscrição, o diploma a que se refere o § 3º do art. 3º, ou o § 2º do artigo § 4º tudo do Decreto 37.396, de 1955, relativo a cada disciplina a que pretende concorrer.
 
-<strong>Art</strong>. 4º A Comissão de Sindicância para Inscrição a que se refere a letra <em>c</em>) do § 1º do Art. 3º do Decreto 37.396-55, será nomeada pelo Diretor Geral do Ensino do Exército e constará de 5 (cinco) membros, sendo, em principio, 3 (três) professôres efetivos do Magistério do Exército, um dos quais será o Presidente da Comissão, - e 2 (dois) oficiais superiores da Diretoria Geral do Ensino do Exército devendo possuir um dêles, pelo menos, o curso de Estado Maior.
+**Art**. 4º A Comissão de Sindicância para Inscrição a que se refere a letra *c*) do § 1º do Art. 3º do Decreto 37.396-55, será nomeada pelo Diretor Geral do Ensino do Exército e constará de 5 (cinco) membros, sendo, em principio, 3 (três) professôres efetivos do Magistério do Exército, um dos quais será o Presidente da Comissão, - e 2 (dois) oficiais superiores da Diretoria Geral do Ensino do Exército devendo possuir um dêles, pelo menos, o curso de Estado Maior.
 
 § 1º A Comissão a que se refere êste artigo dará parecer sôbre os candidatos que não forem professôres efetivos do Magistério do Exército, e que ao concurso de que trata o artigo 2º, acima, pretendam concorrer.
 
@@ -144,7 +142,7 @@ b) todos os documentos necessários a prova que o candidato satisfaz às condiç
 
 B) Prova de Suficiência
 
-<strong>Art</strong>. 5º As provas escritas de suficiência de caráter objetivo, serão realizadas, para efeito do previsto no § 5º do Art. 3º, acima, nas sedes das Regiões Militares e nas sedes dos estabelecimentos de ensino a que se refere estas instruções.
+**Art**. 5º As provas escritas de suficiência de caráter objetivo, serão realizadas, para efeito do previsto no § 5º do Art. 3º, acima, nas sedes das Regiões Militares e nas sedes dos estabelecimentos de ensino a que se refere estas instruções.
 
 § 1º A prova de Suficiência, restringindo o número de candidatos ao concurso, visa principalmente a tornar exeqüível a realização do concurso nos moldes estabelecidos no Decreto nº 37.396-55, e nas presentes Instruções.
 
@@ -182,7 +180,7 @@ B) Prova de Suficiência
 
 § 18. Na Diretoria Geral do Ensino do Exército será confeccionadas uma relação, em ordem alfabética, dos candidatos, que contenha as respectivas notas a eles atribuídas.
 
-§ 19. Elaborada a relação dos candidatos com as respectivas notas, pelo <em>Diário</em> <em>Oficial</em> serão os candidatos chamados à Diretoria Geral do Ensino do Exército, onde pessoalmente, ou pelos seus representantes legalmente capacitados, tomarão conhecimento das notas que lhes foram atribuídas. Vistas as provas poderão ser concedidas, mas revisão, apenas mediante requerimento dos candidatos (ou de seus representantes) ao Diretor Geral do Ensino do Exército; os requerimentos deverão entrar na Diretoria Geral do Ensino do Exército no prazo de 2 (dois) dias, a contar do aviso de chamada dos candidatos no <em>Diário</em> <em>Oficial</em>. Na revisão de provas, cuja concessão ficará ao critério do Diretor Geral do Ensino do Exército, poderão graus ser mantidos, aumentados ou diminuídos; revista a prova do grau nela definitivamente exarado.
+§ 19. Elaborada a relação dos candidatos com as respectivas notas, pelo *DiárioOficial* serão os candidatos chamados à Diretoria Geral do Ensino do Exército, onde pessoalmente, ou pelos seus representantes legalmente capacitados, tomarão conhecimento das notas que lhes foram atribuídas. Vistas as provas poderão ser concedidas, mas revisão, apenas mediante requerimento dos candidatos (ou de seus representantes) ao Diretor Geral do Ensino do Exército; os requerimentos deverão entrar na Diretoria Geral do Ensino do Exército no prazo de 2 (dois) dias, a contar do aviso de chamada dos candidatos no *DiárioOficial*. Na revisão de provas, cuja concessão ficará ao critério do Diretor Geral do Ensino do Exército, poderão graus ser mantidos, aumentados ou diminuídos; revista a prova do grau nela definitivamente exarado.
 
 § 20. Depois de conhecidos os resultados das revisões de provas, acaso concedidas, é de que se fará a eliminação e classificação dos candidatos.
 
@@ -206,13 +204,13 @@ onde v é o número total de vagas publicado no edital de abertura do concurso, 
 
 § 28. Serão eliminados do concurso todos os candidatos que não se incluírem entre os julgados habilitados na forma do § 27 deste artigo.
 
-§ 29. A relação dos candidatos julgados habilitados na prova de suficiência, na conformidade do § 27 deste artigo, será publicada antes que se completem 150 (cento e cinqüenta) dias a contar da primeira publicação, no <em>Diário</em> <em>Oficial</em>, do edital de abertura do concurso.
+§ 29. A relação dos candidatos julgados habilitados na prova de suficiência, na conformidade do § 27 deste artigo, será publicada antes que se completem 150 (cento e cinqüenta) dias a contar da primeira publicação, no *DiárioOficial*, do edital de abertura do concurso.
 
 § 30. A prova de suficiência não faz parte do concurso de títulos e provas a que se refere o art. 2º destas Instruções. Constitui apenas uma exigência que o candidato ao concurso, que não seja professor do Magistério do Exército, deve submeter-se. A prova de suficiência a que se refere este artigo não vale com título para concurso e apenas serve como meio de facilitar a realização dêle.
 
 C) Comissão Julgadora
 
-<strong>Art</strong>. 6º O julgamento do concurso relativo à cada matéria (abrangidas as subdivisões didáticas) a que se refere o art. 2º destas Instruções, caberá a um a Comissão Julgadora constituída, em princípio, de 5 (cinco) membros, os quais deverão possuir conhecimentos aprofundados da matéria correspondente. Três dêles serão professores efetivos do Magistério do Exército, lentes da matéria, ou disciplina a fim, no Magistério do Exército. Os dois outros membros poderão ser civis (brasileiros ou estrangeiros), que sejam professores da matéria, ou disciplina afim, em qualquer estabelecimento de ensino, nacional ou estrangeiro, ou que sejam membros de instituições científicas nacionais ou estrangeiras, e nas quais se dediquem ao estudo da matéria relativa ao concurso, ou disciplina, afim. A escolha dos membros da Comissão Julgadora é atribuição exclusiva do Ministro da Guerra.
+**Art**. 6º O julgamento do concurso relativo à cada matéria (abrangidas as subdivisões didáticas) a que se refere o art. 2º destas Instruções, caberá a um a Comissão Julgadora constituída, em princípio, de 5 (cinco) membros, os quais deverão possuir conhecimentos aprofundados da matéria correspondente. Três dêles serão professores efetivos do Magistério do Exército, lentes da matéria, ou disciplina a fim, no Magistério do Exército. Os dois outros membros poderão ser civis (brasileiros ou estrangeiros), que sejam professores da matéria, ou disciplina afim, em qualquer estabelecimento de ensino, nacional ou estrangeiro, ou que sejam membros de instituições científicas nacionais ou estrangeiras, e nas quais se dediquem ao estudo da matéria relativa ao concurso, ou disciplina, afim. A escolha dos membros da Comissão Julgadora é atribuição exclusiva do Ministro da Guerra.
 
 § 1º Logo depois de publicada a relação dos candidatos inscritos no concurso, conforme estabelecem a Comissão Julgadora do concurso.
 
@@ -220,7 +218,7 @@ C) Comissão Julgadora
 
 § 3º O Diretor Geral do Ensino nomeará secretários para os diferentes concursos das matérias, função que poderá ser desempenhada por oficiais da Diretoria Geral do Ensino, ou funcionários civis.
 
-§ 4º A composição definitiva da Comissão Julgadora e o dia da sua instalação para o início das provas do concurso serão publicados, com a antecedência mínima de 30 (trinta) dias, do <em>Diário</em> <em>Oficial</em>.
+§ 4º A composição definitiva da Comissão Julgadora e o dia da sua instalação para o início das provas do concurso serão publicados, com a antecedência mínima de 30 (trinta) dias, do *DiárioOficial*.
 
 § 5º De cada uma das reuniões da Comissão Julgadora, quer para apreciar os títulos, quer para organizar os pontos, seja ainda para realizar as provas, seja para fazer as correções e os julgamentos, de tudo lavrar-se-á competente ata.
 
@@ -228,7 +226,7 @@ D) Realização do Concurso
 
 1 - Generalidades
 
-<strong>Art</strong>. 7º O concurso a que se refere o Art. 2º, acima, será de títulos e de provas.
+**Art**. 7º O concurso a que se refere o Art. 2º, acima, será de títulos e de provas.
 
 § 1º As provas relativas ao concurso serão:
 
@@ -268,7 +266,7 @@ d) prova de defesa de tese.
 
 2 - Títulos
 
-<strong>Art</strong>. 8º Os títulos que poderão ser aceitos no concurso a que se refere o Art. 2º, acima na conformidade do que preceitua o § 2º do Art. 2º do Decreto 37.396-55, são os especificados nas letras abaixo deste artigo.
+**Art**. 8º Os títulos que poderão ser aceitos no concurso a que se refere o Art. 2º, acima na conformidade do que preceitua o § 2º do Art. 2º do Decreto 37.396-55, são os especificados nas letras abaixo deste artigo.
 
 a) Para os candidatos ao Colégio Militar, Escolas Preparatórias do Exército que venham a ser criados: Diploma de licenciado por
 
@@ -330,7 +328,7 @@ i) “Distinções“, prêmios ou dignidades desde que tenham sido conferidos a
 
 3 - Prova Teórico-escrita
 
-<strong>Art</strong>. 9º A prova teórico-escrita relativa ao concurso a que se refere o art. 2º, acima, buscará apreciar a solidez e a profundidade dos conhecimentos básicos do candidato na matéria da vaga a que concorre.
+**Art**. 9º A prova teórico-escrita relativa ao concurso a que se refere o art. 2º, acima, buscará apreciar a solidez e a profundidade dos conhecimentos básicos do candidato na matéria da vaga a que concorre.
 
 § 1º A prova teórico-escrita será realizada em conjunto para todos os candidatos à vaga da mesma matéria (abrangidas as suas subdivisões didáticas), em todos os estabelecimentos de ensino do Exército a que se referem estas Instruções; as questões serão as mesmas para todos os candidatos.
 
@@ -404,11 +402,11 @@ i) “Distinções“, prêmios ou dignidades desde que tenham sido conferidos a
 
 4 - Prova Prática ou Experimental
 
-<strong>Art</strong>. 10. A prova prática ou experimental do concurso a que se refere o art. 2º, acima, buscará apreciar a capacidade do candidato em aplicar os conhecimentos básicos que possui da matéria e o conhecimento que tem da bibliografia respectiva, seja analisando e comentando textos, mapas ou legislação, se assim fôr exigido, seja fazendo estudos críticos sôbre mapas, legislação, ou obras nacionais ou estrangeiras, quaisquer que sejam os aspectos que lhe forem determinados, seja resolvendo exercícios ou problemas teóricos ou práticos (preferentemente práticos) que lhe forem apresentados, seja realizando experiências para responder ou solucionar as questões que lhe forem propostas, seja por qualquer outro modo que a Comissão Julgadora achar adequado, dando-se-lhe, para tudo isso plena liberdade de consulta de bibliografia correspondente, de uso de notas, tábuas e tabelas, que lhe tenha sido fornecido, conforme determinada a Comissão Julgadora.
+**Art**. 10. A prova prática ou experimental do concurso a que se refere o art. 2º, acima, buscará apreciar a capacidade do candidato em aplicar os conhecimentos básicos que possui da matéria e o conhecimento que tem da bibliografia respectiva, seja analisando e comentando textos, mapas ou legislação, se assim fôr exigido, seja fazendo estudos críticos sôbre mapas, legislação, ou obras nacionais ou estrangeiras, quaisquer que sejam os aspectos que lhe forem determinados, seja resolvendo exercícios ou problemas teóricos ou práticos (preferentemente práticos) que lhe forem apresentados, seja realizando experiências para responder ou solucionar as questões que lhe forem propostas, seja por qualquer outro modo que a Comissão Julgadora achar adequado, dando-se-lhe, para tudo isso plena liberdade de consulta de bibliografia correspondente, de uso de notas, tábuas e tabelas, que lhe tenha sido fornecido, conforme determinada a Comissão Julgadora.
 
 Parágrafo único. Os pontos da prova prática ou experimental serão elaborados pela Comissão Julgadora segundo o programa relativo à matéria respectiva, publicado no edital de abertura do concurso.
 
-<strong>Art</strong>. 11. Para as provas a que se refere o art. 10 destas Instruções, em que não se deve realizar experiência (como, por exemplo, Línguas, Matemática, e outras), que deverão ser escritas, obedecer-se-á ao que estabelecem as letras abaixo dêste artigo.
+**Art**. 11. Para as provas a que se refere o art. 10 destas Instruções, em que não se deve realizar experiência (como, por exemplo, Línguas, Matemática, e outras), que deverão ser escritas, obedecer-se-á ao que estabelecem as letras abaixo dêste artigo.
 
 a) A prova prática será realizada em conjunto para todos os candidatos à vaga da mesma matéria (e suas subdivisões didáticas), em todos os estabelecimentos de ensino do Exército; as questões serão as mesmas para todos os candidatos.
 
@@ -424,7 +422,7 @@ f) Terminado o julgamento, as provas práticas e o envelope com cédula, a que s
 
 g) No dia da apuração final a que se referem estas Instruções é que se fará a identificação das provas práticas.
 
-<strong>Art</strong>. 12. Para as provas a que se refere o art. 10 destas Instruções, em que se realizarão experiências (como por exemplo, Física, Química, e outras), obedecer-se-ão ao que estabelecem as letras abaixo, dêste artigo.
+**Art**. 12. Para as provas a que se refere o art. 10 destas Instruções, em que se realizarão experiências (como por exemplo, Física, Química, e outras), obedecer-se-ão ao que estabelecem as letras abaixo, dêste artigo.
 
 a) A prova experimental não terá como finalidade precípua apreciar a realização das próprias experiências feitas pelos candidatos; apenas as questões serão propostas de modo que, para as respostas ou soluções pedidas, pelo menos de uma delas, obrigatóriamente o candidato tenha de realizar experiências.
 
@@ -432,7 +430,7 @@ b) Para a prova experimental será cumprido o que prescrevem tôdas as letras do
 
 c) Cada membro da Comissão Julgadora, obrigatòriamente, preparará com antecedência, para cada ponto, 6 (seis) questões, de modo que a cada item de qualquer ponto correspondam duas questões. Uma das questões relativas a um dado item deve ser tal que satisfaça às características estabelecidas no art. 10 destas Instruções, não devendo, entretanto, para sua solução, ser necessário se realize experiência, a outra questão referente ao mesmo item deve ser elaborada de modo que seja necessário a realização de experiência, ou de experiências, para sua solução; mas tal questão deve ser organizada de modo que a experiência, ou experiências necessárias possam ser relatadas por escrito, pelos candidatos, ao menos nos seus pontos essenciais, e de modo que a correção e atribuição de graus às questões e nota à prova possam fazer-se pelos examinadores, pelo simples exame das respostas (ou soluções) escritas dos candidatos.
 
-d) Se nenhum dos membros da Comissão Julgadora - (escolhidos por sorteio para propor as questões na conformidade da letra <em>b</em>), dêste artigo) - tiver proposto quesito para solução do qual se deva realizar experiência, ou experiências, então, imediatamente, será escolhido por sorteio um dêsses membros proponentes, que deverá substituir a questão proposta por outra relativa ao mesmo item, que terá preparado de acôrdo com a letra <strong>c</strong>), dêste artigo, e para solução da qual será necessária a realização de experiência, ou experiências.
+d) Se nenhum dos membros da Comissão Julgadora - (escolhidos por sorteio para propor as questões na conformidade da letra *b*), dêste artigo) - tiver proposto quesito para solução do qual se deva realizar experiência, ou experiências, então, imediatamente, será escolhido por sorteio um dêsses membros proponentes, que deverá substituir a questão proposta por outra relativa ao mesmo item, que terá preparado de acôrdo com a letra **c**), dêste artigo, e para solução da qual será necessária a realização de experiência, ou experiências.
 
 e) Será pôsto à disposição exclusiva de cada candidato todo o material que a Comissão Julgadora entender necessário à realização das experiências indispensáveis para responder ou solucionar as questões que forem propostas; também será colocado material de que o candidato não deverá necessitar. Os materiais postos à disposição dos candidatos devem ser os mesmos para todos. Um candidato não usará material que outro tenha recebido.
 
@@ -440,7 +438,7 @@ f) haverá reserva de material, que poderá ser fornecido aos candidatos, a crit
 
 5 - Prova didática
 
-<strong>Art</strong>. 13. A prova didática do concurso a que se refere o art. 2º, acima, buscará apreciar a capacidade de o candidato expôr e transmitir os conhecimentos que possui da matéria da vaga a que concorre.
+**Art**. 13. A prova didática do concurso a que se refere o art. 2º, acima, buscará apreciar a capacidade de o candidato expôr e transmitir os conhecimentos que possui da matéria da vaga a que concorre.
 
 § 1º A prova didática constará de uma aula dada pelo candidato perante a Comissão Julgadora, que versará sôbre assunto sorteado com 24 (vinte e quatro) horas de antecedência, duma lista de 20 (vinte) a 30 (trinta) pontos, elaborada pela Comissão Julgadora, segundo o programa da matéria publicado no edital de abertura do concurso. No momento do sorteio do ponto também será sorteado o nível da turma para a qual se supõe vá ser ministrada a aula.
 
@@ -482,7 +480,7 @@ f) haverá reserva de material, que poderá ser fornecido aos candidatos, a crit
 
 6 - Prova de defesa de tese
 
-<strong>Art</strong>. 14. A prova de defesa de tese buscará verificar a cultura e erudição do candidato na matéria da vaga a que se candidata, assim como suas qualidades de argumentar; será realizada em sessão pública, perante a Comissão Julgadora, sendo chamados os candidatos pela ordem alfabética. A tese terá no máximo 100 (cem) páginas.
+**Art**. 14. A prova de defesa de tese buscará verificar a cultura e erudição do candidato na matéria da vaga a que se candidata, assim como suas qualidades de argumentar; será realizada em sessão pública, perante a Comissão Julgadora, sendo chamados os candidatos pela ordem alfabética. A tese terá no máximo 100 (cem) páginas.
 
 § 1º A tese se desenvolverá sôbre um tema escolhido dentre os assuntos do programa, publicado no edital de abertura do concurso, relativo à matéria da vaga a que concorre o candidato.
 
@@ -518,7 +516,7 @@ f) haverá reserva de material, que poderá ser fornecido aos candidatos, a crit
 
 E) Classificação e provimento dos cargos
 
-<strong>Art</strong>. 15. Terminadas tôdas as provas do concurso, a que se refere o Art. 2º, destas Instruções, inclusive a defesa de tese, o Presidente da Comissão Julgadora marcará dia, hora e local, para, em sessão pública, presentes todos os membros da Comissão, serem identificadas as provas teórico-escritas, práticas ou experimentais, relativas à matéria correspondente, - e fazer-se a apuração final do concurso. Para isso se obedecerão às letras do presente artigo.
+**Art**. 15. Terminadas tôdas as provas do concurso, a que se refere o Art. 2º, destas Instruções, inclusive a defesa de tese, o Presidente da Comissão Julgadora marcará dia, hora e local, para, em sessão pública, presentes todos os membros da Comissão, serem identificadas as provas teórico-escritas, práticas ou experimentais, relativas à matéria correspondente, - e fazer-se a apuração final do concurso. Para isso se obedecerão às letras do presente artigo.
 
 a) Os diversos envelope serão sucessivamente abertos de modos a que se faça a identificação das provas e fiquem determinados os graus e notas pelos diversos examinadores atribuídos aos candidatos, seja no conjunto dos títulos, seja nas diversas provas, - tudo minuciosamente especificado.
 
@@ -526,15 +524,15 @@ b) Cada examinador calculará a nota da prova teórico-escrita de cada candidato
 
 c) Em cada uma das provas teórico-escritas, e prática ou experimentais, se escreverá, em local apropriado, os nomes dos respectivos autores e examinadores, e os diversos graus e notas atribuídos pelos mesmos examinadores, especificando também os graus atribuídos a cada uma das questões e à dissertação.
 
-d) os graus e notas referidos na letra <em>c</em>, acima, dêste artigo, serão pelo secretário do concurso registrados no livro de atas.
+d) os graus e notas referidos na letra *c*, acima, dêste artigo, serão pelo secretário do concurso registrados no livro de atas.
 
 e) Depois de cumprido o que estabelecem as letras acima, dêste artigo, as provas teórico-escritas, e práticas ou experimentais, serão afixadas em um quadro apropriado, de modo que qualquer pessoa possa tomar pleno conhecimento das provas de qualquer candidato; as provas assim permanecerão por 1 (uma) semana, e serão exibidas ao público dentro do horário que pelo Diretor Geral do Ensino do Exército fôr estipulado. Uma prova sòmente será retirada do quadro por tempo limitado e para que os membros da Comissão Julgadora possam fazer revisão dela.
 
-f) Ao lado das provas exibidas na conformidade da letra <em>e</em>) dêste artigo, estará afixada a relação das vagas existentes nos diversos estabelecimentos de ensino do Exército, relativas à matéria em questão, conforme o que ao Presidente da Comissão Julgadora tiver por escrito, comunicado o Diretor Geral do Ensino do Exército - obedecido o que dispõe a respeito o Decreto 37.306-55 e as presentes Instruções.
+f) Ao lado das provas exibidas na conformidade da letra *e*) dêste artigo, estará afixada a relação das vagas existentes nos diversos estabelecimentos de ensino do Exército, relativas à matéria em questão, conforme o que ao Presidente da Comissão Julgadora tiver por escrito, comunicado o Diretor Geral do Ensino do Exército - obedecido o que dispõe a respeito o Decreto 37.306-55 e as presentes Instruções.
 
 Parágrafo único. Dentro de 24 (vinte e quatro) horas a partir do momento da exibição das provas, previstas neste artigo, os candidatos poderão pedir revisão, mediante requerimento ao Diretor Geral do Ensino do Exército, seja da dissertação, seja de 1 (uma) ou mais questões, - de qualquer das suas provas teórico-escritas e práticas ou experimentais. Tal pedido será cuidadosamente justificado. A revisão será concedida se o Diretor Geral do Ensino do Exército julgar estar o pedido feito em têrmos. Concedida a revisão, os membros da Comissão Julgadora reverão o que tiver sido requerido no prazo de 48 ( quarenta e oito ) horas. Os graus dos examinadores naquilo que tiver sido requerido revisão poderá ser mantido, aumentado ou diminuído; em qualquer caso, entretanto, cada membro da Comissão Julgadora circunstanciadamente justificará os graus atribuídos na revisão. A nota da revisão é definitivo e inapelável.
 
-<strong>Art</strong>. 16. Depois de feitas as revisões acaso concedidas, a que se refere o parágrafo único do Art. 15 destas Instruções, e no prazo mínimo de 48 (quarenta e oito) horas, e máximo de 1 (uma) semana, a contar do dia da reunião realizada para a apuração final e identificação das provas, previstas nas presentes Instruções, a Comissão Julgadora do concurso de que trata o Art. 2º, acima, se reunirá em sessão pública, com a totalidade dos seus membros a fim de que sejam determinados os candidatos habilitados no concurso a que se refere o Art. 2º destas Instruções. Nessa ocasião se obedecerá ao que estabelecem os parágrafos abaixo, do presente artigo.
+**Art**. 16. Depois de feitas as revisões acaso concedidas, a que se refere o parágrafo único do Art. 15 destas Instruções, e no prazo mínimo de 48 (quarenta e oito) horas, e máximo de 1 (uma) semana, a contar do dia da reunião realizada para a apuração final e identificação das provas, previstas nas presentes Instruções, a Comissão Julgadora do concurso de que trata o Art. 2º, acima, se reunirá em sessão pública, com a totalidade dos seus membros a fim de que sejam determinados os candidatos habilitados no concurso a que se refere o Art. 2º destas Instruções. Nessa ocasião se obedecerá ao que estabelecem os parágrafos abaixo, do presente artigo.
 
 § 1º Inicialmente serão feitos no livro de atas os registros de graus e notas e os demais registros que forem necessários, - tudo em consequência das revisões acaso concedidas.
 
@@ -546,7 +544,7 @@ Parágrafo único. Dentro de 24 (vinte e quatro) horas a partir do momento da ex
 
 § 5º No livro de atas o secretário registrará a relação dos candidatos habilitados no concurso na forma do § 3º dêste artigo, e, separadamente, a relação dos candidatos restantes, que serão considerados não habilitados, - tudo com as respectivas indicações parciais dos diversos examinadores, conforme ao secretário do concurso tenham-nas os examinadores apresentado, de acôrdo com os parágrafos 2º e 4º dêste artigo, - quer relativamente aos candidatos que obtiveram as maiores médias com os diferentes examinadores, quer relativamente aos outros candidatos.
 
-<strong>Art</strong>. 17. Ainda na mesma reunião realizada para que sejam determinados os candidatos habilitados e os não habilitados no concurso a que se refere o Art. 2º, acima, na conformidade destas Instruções, o presidente da Comissão Julgadora fará, auxiliado pelos demais membros, a classificação final do concurso dos candidatos habilitados, de acôrdo com os parágrafos abaixo, dêste artigo.
+**Art**. 17. Ainda na mesma reunião realizada para que sejam determinados os candidatos habilitados e os não habilitados no concurso a que se refere o Art. 2º, acima, na conformidade destas Instruções, o presidente da Comissão Julgadora fará, auxiliado pelos demais membros, a classificação final do concurso dos candidatos habilitados, de acôrdo com os parágrafos abaixo, dêste artigo.
 
 § 1º Primeiramente se calculará a soma das “indicações parciais” dos diversos examinadores, definidas em o § 4º do Art. 16, acima, - relativamente a cada candidato.
 
@@ -554,7 +552,7 @@ Parágrafo único. Dentro de 24 (vinte e quatro) horas a partir do momento da ex
 
 § 3º Será considerado classificado em 1º lugar no concurso o candidato que obtiver o maior úmero (ou pêso) de indicações parciais, definido em o § 2º dêste artigo. Os restantes candidatos habilitados ocuparão os seus respectivos lugares na classificação final do concurso, obedecendo-se rigorosamente ao merecimento intelectual, de acôrdo com a ordem decrescente dos números (ou pêso) de indicações parciais, a que se refere o mesmo § 2º, deste artigo.
 
-<strong>Art</strong>. 18. No caso de igualdade de número (ou pêso) de indicações parciais, definido em o § 2º do Art. 17, acima, a preferência entre os candidatos empatados será decidida - na conformidade dos parágrafos, abaixo, dêste artigo, - por todos os professôres efetivos do Magistério do Exército, presentes à reunião realizada para fazer-se a classificação final dos candidatos habilitados no concurso de que trata o Art. 2º destas Instruções (exclusive os membros da Comissão Julgadora). Estará necessàriamente presente à reunião uma comissão de professôres efetivos do Magistério do Exército, nomeada pelo Diretor Geral do Ensino. O desempate será feito de modo que, depois de tudo, fique correspondendo a cada número de ordem de classificação final um único candidato.
+**Art**. 18. No caso de igualdade de número (ou pêso) de indicações parciais, definido em o § 2º do Art. 17, acima, a preferência entre os candidatos empatados será decidida - na conformidade dos parágrafos, abaixo, dêste artigo, - por todos os professôres efetivos do Magistério do Exército, presentes à reunião realizada para fazer-se a classificação final dos candidatos habilitados no concurso de que trata o Art. 2º destas Instruções (exclusive os membros da Comissão Julgadora). Estará necessàriamente presente à reunião uma comissão de professôres efetivos do Magistério do Exército, nomeada pelo Diretor Geral do Ensino. O desempate será feito de modo que, depois de tudo, fique correspondendo a cada número de ordem de classificação final um único candidato.
 
 § 1º Entre os candidatos igualados com o mesmo número (ou pêso) de indicações parciais, definido em o § 2º do Art. 17, acima, terão preferência os que forem professôres efetivos do Magistério do Exército, dando-se prioridade, entre êstes, aos militares; depois dos professôres efetivos do Magistério do Exército dar-se-á preferência aos que forem professôres não efetivos do Magistério do Exército, entre êstes cabendo prioridade aos militares.
 
@@ -562,7 +560,7 @@ Parágrafo único. Dentro de 24 (vinte e quatro) horas a partir do momento da ex
 
 § 3º No caso de permanecer igualdade de classificação entre candidatos, depois de se ter obedecido ao que estabelecem os parágrafos 1º e 2º dêste artigo, a preferência entre os candidatos ainda empatados será decidida, por maioria de votos, pelos professôres efetivos do Magistério do Exército presentes à reunião (exclusive os membros da Comissão Julgadora), referidos no presente artigo; se o número dêsses professôres presentes fôr par, os membros da Comissão Julgadora, que forem professôres efetivos do Magistério do Exército, participação da votação.
 
-<strong>Art</strong>. 19. Terminada a feitura da classificação final do concurso, a que se refere o Art 2º acima, será realizado o correspondente registro no livro de atas, assinando todos os membros da Comissão Julgadora, bem como o presidente da comissão de professôres efetivos nomeados pelo Diretor Geral do Ensino para, com os demais professôres efetivos do Magistério do Exército presentes à reunião respectiva, decidir da preferência entre os candidatos empatados. Em seguida se dará conhecimento da classificação a todos os assistentes da reunião, e os candidatos escolherão as vagas que pretendem preencher, na forma estabelecida em os parágrafos abaixo, do presente artigo.
+**Art**. 19. Terminada a feitura da classificação final do concurso, a que se refere o Art 2º acima, será realizado o correspondente registro no livro de atas, assinando todos os membros da Comissão Julgadora, bem como o presidente da comissão de professôres efetivos nomeados pelo Diretor Geral do Ensino para, com os demais professôres efetivos do Magistério do Exército presentes à reunião respectiva, decidir da preferência entre os candidatos empatados. Em seguida se dará conhecimento da classificação a todos os assistentes da reunião, e os candidatos escolherão as vagas que pretendem preencher, na forma estabelecida em os parágrafos abaixo, do presente artigo.
 
 § 1º O presidente da Comissão Julgadora começará a chamar na ordem de classificação final, a partir do 1º classificado, os habilitados no concurso; o chamado escolherá então a vaga que pretende preencher, o que será imediatamente registrado no livro de atas.
 
@@ -586,7 +584,7 @@ Parágrafo único. Dentro de 24 (vinte e quatro) horas a partir do momento da ex
 
 “Em nome do Excelentíssimo Senhor Ministro da Guerra e do Excelentíssimo Senhor General Diretor Geral do Ensino do Exército declaro encerrado o (ordem do concurso) concurso de títulos e de provas para o provimento de vagas de (cargo) relativas à (matéria), no Magistério do Exército”.
 
-<strong>Art</strong>. 20. Encerrado o concurso a que se refere o Art. 2º, acima, na forma destas Instruções, a Comissão Julgadora fará dêle um relatório circunstanciando, que remeterá ao Diretor Geral do Ensino do Exército; serão anexadas ao relatório as provas escritas e práticas ou experimentais dos candidatos, os pareceres dados pelos examinadores aos trabalhos apresentados como títulos e às teses dos candidatos, assim como as cédulas a que se referem estas Instruções e o livro de atas e outros documentos que se relacionarem com o concurso.
+**Art**. 20. Encerrado o concurso a que se refere o Art. 2º, acima, na forma destas Instruções, a Comissão Julgadora fará dêle um relatório circunstanciando, que remeterá ao Diretor Geral do Ensino do Exército; serão anexadas ao relatório as provas escritas e práticas ou experimentais dos candidatos, os pareceres dados pelos examinadores aos trabalhos apresentados como títulos e às teses dos candidatos, assim como as cédulas a que se referem estas Instruções e o livro de atas e outros documentos que se relacionarem com o concurso.
 
 § 1º O Diretor Geral do Ensino do Exército, consoante os resultados do concurso e as propostas da Comissão Julgadora, feitas na conformidade destas Instruções, proporá ao Ministro da Guerra as nomeações ou transferências respectivas.
 
@@ -594,17 +592,17 @@ Parágrafo único. Dentro de 24 (vinte e quatro) horas a partir do momento da ex
 
 § 3º As nomeações ou transferências serão feitas por Decreto do Presidente da República, obedecendo-se rigorosamente ao resultado do concurso e ao que a respeito dispõe o Decreto  37.396-55.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>DOS CATEDRÁTICOS</em>
+*DOS CATEDRÁTICOS*
 
 A) Inscrições
 
-<strong>Art</strong>. 21. Nomeação de catedrático em caráter efetivo, de disciplinas não essencialmente militares, para a Academia Militar das Agulhas Negras, Colégio Militar e Escolas Preparatórias do Exército, ou estabelecimentos congêneres do Exército que venham a ser criados, - ou transferências de uma disciplina para outra, no mesmo estabelecimento, ou para a mesma disciplina, ou para outra, de estabelecimento doutra sede - far-se-á mediante concurso de títulos e de provas e na conformidade do Decreto nº 37.396-55 e das presentes Instruções.
+**Art**. 21. Nomeação de catedrático em caráter efetivo, de disciplinas não essencialmente militares, para a Academia Militar das Agulhas Negras, Colégio Militar e Escolas Preparatórias do Exército, ou estabelecimentos congêneres do Exército que venham a ser criados, - ou transferências de uma disciplina para outra, no mesmo estabelecimento, ou para a mesma disciplina, ou para outra, de estabelecimento doutra sede - far-se-á mediante concurso de títulos e de provas e na conformidade do Decreto nº 37.396-55 e das presentes Instruções.
 
 Parágrafo único. Realizar-se-á o concurso para catedrático obedecendo-se aos preceitos dos parágrafos 1º a 7º, e 9º a 16º, do Art. 2º destas Instruções.
 
-<strong>Art</strong>. 22. Ao concurso a que se refere o Art. 21, acima poderão candidatar-se militares e civis, desde que satisfaçam às respectivas exigências do Decreto 37.396-55, e ao que é estabelecido nas presentes Instruções.
+**Art**. 22. Ao concurso a que se refere o Art. 21, acima poderão candidatar-se militares e civis, desde que satisfaçam às respectivas exigências do Decreto 37.396-55, e ao que é estabelecido nas presentes Instruções.
 
 § 1º Os requerimentos de inscrições no concurso dos candidatos que não forem catedráticos efetivos do Magistério do Exército, devem ser dirigidas ao Ministro da Guerra, de acôrdo com o modêlo fornecido pela Diretoria Geral do Ensino do Exército, e dar entrada nessa Diretoria dentro do prazo estabelecido nas presentes Instruções; nesse requerimento o candidato declarará, precisamente, a disciplina, ou disciplinas, a que pretender concorrer. A êsses requerimentos deverão vir anexados os seguintes documentos:
 
@@ -632,7 +630,7 @@ c) - 2 (dois) retratos do candidato, tamanho 3 x 4.
 
 B) Comissão Julgadora
 
-<strong>Art</strong>. 23. O julgamento de cada concurso, a que se refere o Art. 21, destas Instruções caberá a uma Comissão Julgadora constituída, em princípio, de 5 (cinco) membros.
+**Art**. 23. O julgamento de cada concurso, a que se refere o Art. 21, destas Instruções caberá a uma Comissão Julgadora constituída, em princípio, de 5 (cinco) membros.
 
 Parágrafo único. Obedecer-se-á no que diz respeito à Comissão Julgadora ao Art. 6º, e seus parágrafos, destas Instruções. Entretanto, os membros da Comissão, que forem professôres, deverão ser, de preferência, catedráticos efetivos de estabelecimentos oficiais de ensino, - ficando a obediência dessa condição, contudo, a critério do Ministro da Guerra, em face das injunções do momento.
 
@@ -640,11 +638,11 @@ C - Realização do Concurso
 
 1 - Generalidades
 
-<strong>Art</strong>. 24. No que diz respeito ao concurso a que se refere o Art. 21, acima, obedecer-se-ão aos parágrafos do Art. 7º das presentes Instruções.
+**Art**. 24. No que diz respeito ao concurso a que se refere o Art. 21, acima, obedecer-se-ão aos parágrafos do Art. 7º das presentes Instruções.
 
 2 - Títulos
 
-<strong>Art</strong>. 25. Os títulos que poderão ser aceitos no concurso a que se refere o Art. 21, na conformidade de que preceitua o § 2º do Art. 2º, combinado com o § 1º do Art. 7º, tudo do Decreto nº 37.396-55, são os especificados nas letras abaixo, dêste artigo.
+**Art**. 25. Os títulos que poderão ser aceitos no concurso a que se refere o Art. 21, na conformidade de que preceitua o § 2º do Art. 2º, combinado com o § 1º do Art. 7º, tudo do Decreto nº 37.396-55, são os especificados nas letras abaixo, dêste artigo.
 
 a) - Para os candidatos ao Colégio Militar, Escolas Preparatórias do Exército, ou estabelecimentos congêneres do Exército que venham a ser criados: Diploma de licenciado por Faculdade de Filosofia, obtido por conclusão do curso correspondente à disciplina em concurso.
 
@@ -702,11 +700,11 @@ m) - “Distinções”, prêmios ou dignidades, desde que tenham sido conferido
 
 \- Total máximo de pontos que pode ser alcançado por um candidato com o conjunto dêsses títulos: 60 pontos.
 
-§ 1º Para os candidatos que o Decreto nº 37.396-55 e as presentes Instruções dispensam da apresentação de diploma do curso correspondente a que se refere a letra <em>a</em> do presente artigo, aceitar-se-ão como título para o concurso de cada série valerá tantos pontos quanto seja o quociente de 120 (valor total do curso) pelo número de séries do curso.
+§ 1º Para os candidatos que o Decreto nº 37.396-55 e as presentes Instruções dispensam da apresentação de diploma do curso correspondente a que se refere a letra *a* do presente artigo, aceitar-se-ão como título para o concurso de cada série valerá tantos pontos quanto seja o quociente de 120 (valor total do curso) pelo número de séries do curso.
 
 § 2º Um título já contado numa letra dêste artigo, não devará também ser contado noutra letra dêste artigo.
 
-§ 3º Para cada concurso a que se refere o Art. 21 destas Instruções, relativo a determinada matéria, e para cada candidato, sòmente um curso único será computado na letra <em>a</em>, e sòmente um único será computado na letra <em>c</em>, tudo dêste artigo.
+§ 3º Para cada concurso a que se refere o Art. 21 destas Instruções, relativo a determinada matéria, e para cada candidato, sòmente um curso único será computado na letra *a*, e sòmente um único será computado na letra *c*, tudo dêste artigo.
 
 § 4º Relativamente a cada letra dêste artigo, cada examinador atribuirá o total máximo de pontos previsto, ao candidato que pelo examinador fôr considerado como portador de títulos cujo todo tenha maior valor intrínseco para o concurso; aos outros candidatos cada examinador atribuirá um número de pontos de modo tal que haja proporcionalidade entre os valores intrínsecos, para o concurso, dos títulos apresentados por todos os candidatos e os pontos atribuíBdos. Proceder-se-á assim, separadamente, para cada letra dêste artigo.
 
@@ -718,27 +716,27 @@ m) - “Distinções”, prêmios ou dignidades, desde que tenham sido conferido
 
 3- Prova Teórico-escrita
 
-<strong>Art</strong>. 26. A prova teórico-escrita do concurso a que se refere o Art. 21 destas Instruções, terá por fim cooperar na rigorosa seleção dos candidatos à cátedra do Magistério do Exército, procurando apreciar a solidez e profundidade atual dos conhecimentos básicos do candidato, na matéria da vaga a que concorre.
+**Art**. 26. A prova teórico-escrita do concurso a que se refere o Art. 21 destas Instruções, terá por fim cooperar na rigorosa seleção dos candidatos à cátedra do Magistério do Exército, procurando apreciar a solidez e profundidade atual dos conhecimentos básicos do candidato, na matéria da vaga a que concorre.
 
 Parágrafo único. Serão obedecidos os parágrafos do Art. .9º destas Instruções.
 
 4 - Prova Prática ou Experimental
 
-<strong>Art</strong>. 27 A prova prática ou experimental do concurso a que se refere o Art. 21 destas Instruções, terá por fim cooperar na rigorosa seleção dos candidatos à cátedra do magistério do Exército, procurando apreciar a capacidade atual do candidato em aplicar o cabedal de conhecimentos básicos que acumulou da matéria, assim como a experiência e a familiaridade que chegou a adquirir da bibliografia correspondente, verificação essa realizada na forma estabelecida no Art. 10 e seu parágrafo único, obedecendo-se, conforme a natureza da prova, seja às letras do Art. 11, seja ao que prescrevem as letras do Art. 12, tudo das presentes Instruções.
+**Art**. 27 A prova prática ou experimental do concurso a que se refere o Art. 21 destas Instruções, terá por fim cooperar na rigorosa seleção dos candidatos à cátedra do magistério do Exército, procurando apreciar a capacidade atual do candidato em aplicar o cabedal de conhecimentos básicos que acumulou da matéria, assim como a experiência e a familiaridade que chegou a adquirir da bibliografia correspondente, verificação essa realizada na forma estabelecida no Art. 10 e seu parágrafo único, obedecendo-se, conforme a natureza da prova, seja às letras do Art. 11, seja ao que prescrevem as letras do Art. 12, tudo das presentes Instruções.
 
 5 - Prova Didática
 
-<strong>Art</strong>. 28. A prova didática do concurso a que se refere o Art. 21 destas Instruções, também cooperando na seleção dos candidatos à cátedra do Magistério do Exército, apreciará a capacidade atual do candidato em expor e transmitir os conhecimentos que acumulou da matéria da vaga a que concorre, - e se processará na conformidade dos parágrafos do Art. 13 da presentes Instruções.
+**Art**. 28. A prova didática do concurso a que se refere o Art. 21 destas Instruções, também cooperando na seleção dos candidatos à cátedra do Magistério do Exército, apreciará a capacidade atual do candidato em expor e transmitir os conhecimentos que acumulou da matéria da vaga a que concorre, - e se processará na conformidade dos parágrafos do Art. 13 da presentes Instruções.
 
 6 - Prova de Defesa de Tese
 
-<strong>Art</strong>. 29. A prova de defesa de tese do concurso a que se refere o Art. 21 destas Instruções, cooperando na rigorosa seleção dos candidatos à cátedra do Magistério do Exército, procurará verificar até que ponto chegou a cultura e erudição atual do candidato, na matéria da vaga que concorre, assim como suas atuais qualidades de argumentar; essa prova se processará em sessão pública, perante a Comissão Julgadora, sendo chamados os candidatos pela ordem alfabética dos respectivos nomes, obedecendo-se ao que prescrevem os parágrafos do art. 14 destas Instruções. A tese terá no máximo 200 (duzentas) páginas.
+**Art**. 29. A prova de defesa de tese do concurso a que se refere o Art. 21 destas Instruções, cooperando na rigorosa seleção dos candidatos à cátedra do Magistério do Exército, procurará verificar até que ponto chegou a cultura e erudição atual do candidato, na matéria da vaga que concorre, assim como suas atuais qualidades de argumentar; essa prova se processará em sessão pública, perante a Comissão Julgadora, sendo chamados os candidatos pela ordem alfabética dos respectivos nomes, obedecendo-se ao que prescrevem os parágrafos do art. 14 destas Instruções. A tese terá no máximo 200 (duzentas) páginas.
 
 D)Classificação e provimentos dos cargos
 
-<strong>Art</strong>. 30 Com respeito ao concurso a que se refere o art. 21, acima, se obedecerá ao que prescrevem o art. 15, suas letras e parágrafos. - Art.16 e seus parágrafos, - Art. 17 e seus parágrafos, - Art. 19 e seus parágrafos, - e Art. 20 e seus parágrafos, - tudo das presentes Instruções.
+**Art**. 30 Com respeito ao concurso a que se refere o art. 21, acima, se obedecerá ao que prescrevem o art. 15, suas letras e parágrafos. - Art.16 e seus parágrafos, - Art. 17 e seus parágrafos, - Art. 19 e seus parágrafos, - e Art. 20 e seus parágrafos, - tudo das presentes Instruções.
 
-<strong>Art</strong>. 31 No caso de igualdade do “número (ou pêso) de indicações parciais”, definido em o § 2º do Art. 17, combinado com o art. 30, tudo destas Instruções, entre dois ou mais candidatos, a preferência entre os candidatos empatados será decidida, - na conformidade dos parágrafos abaixo, dêste artigo, - por tôdos os professôres efetivos do Magistério do Exército, presentes à reunião realizada para fazer-se a classificação final dos candidatos habilitados no concurso de  que trata o Art. 21 destas Instruções (exclusive os membros da Comissão Julgadora). Estará necessàriamente presente à reunião uma comissão de Professsôres efetivos do Magistério do Exército, nomeada pelo Diretor Geral do Ensino do Exército. O desempate será feito de moda que, depois de tudo, fique correspondendo a cada número de ordem de classificação final, um único candidato.
+**Art**. 31 No caso de igualdade do “número (ou pêso) de indicações parciais”, definido em o § 2º do Art. 17, combinado com o art. 30, tudo destas Instruções, entre dois ou mais candidatos, a preferência entre os candidatos empatados será decidida, - na conformidade dos parágrafos abaixo, dêste artigo, - por tôdos os professôres efetivos do Magistério do Exército, presentes à reunião realizada para fazer-se a classificação final dos candidatos habilitados no concurso de  que trata o Art. 21 destas Instruções (exclusive os membros da Comissão Julgadora). Estará necessàriamente presente à reunião uma comissão de Professsôres efetivos do Magistério do Exército, nomeada pelo Diretor Geral do Ensino do Exército. O desempate será feito de moda que, depois de tudo, fique correspondendo a cada número de ordem de classificação final, um único candidato.
 
 § 1º Entre os candidatos igualados com o mesmo número (ou pêso) de indicações parciais, definido em o § 2º do art. 17, combinado com o art. 30, tudo destas Instruções, terão preferência os que forem catedráticos efetivos do Magistério do Exército, dando-se prioridade, entre êstes, aos militares; depois dos catedráticos efetivos do Magistério do Exército dar-se-á preferência aos que forem adjuntos de catedráticos efetivos do Magistério do Exército, dando-se, entre êstes, prioridade aos militares.
 
@@ -746,13 +744,13 @@ D)Classificação e provimentos dos cargos
 
 § 3º No caso de permanecer igualdade de classificação entre candidatos, depois de se ter obedecido ao que estabelecem os §§1º e 2º dêste artigo, a preferência entre os candidatos ainda empatados será decidida, por maioria de votos, pelos professôres efetivos do Magistério do Exército presentes à reunião (exclusive os membros da Comissão Julgadora), referidos em o presente artigo; se o número dêsses professôres fôr par, os membros das Comissão Julgadora, que forem professôres do Magistério do Exército, participarão da votação.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
 A) Disposição diversas
 
-<strong>Art</strong>. 32. No que se relacionar a qualquer dos concursos previstos nestas Instruções, os candidatos deverão apresentar-se munidos sempre de carteira de identidade e também do respectivo cartão de inscrição no concurso, depois que o tenham recebido.
+**Art**. 32. No que se relacionar a qualquer dos concursos previstos nestas Instruções, os candidatos deverão apresentar-se munidos sempre de carteira de identidade e também do respectivo cartão de inscrição no concurso, depois que o tenham recebido.
 
-<strong>Art</strong>. 33. São consideradas funções de ensino para o efeito da letra <em>b</em> do § 2º do art. 8º do Decreto nº 37.396, de 1955:
+**Art**. 33. São consideradas funções de ensino para o efeito da letra *b* do § 2º do art. 8º do Decreto nº 37.396, de 1955:
 
 a) função de subdiretor do ensino em estabelecimento de ensino do Exército a que se referem estas instruções, desempenhada pelo candidato enquanto professor efetivo do Magistério do Exército;
 
@@ -760,15 +758,15 @@ b) tempo passado, enquanto professor efetivo do Magistério do Exército, em cur
 
 c) função de ensino no Gabinete do Ministro da Guerra desempenhada pelo candidato enquanto professor efetivo do Magistério do Exército;
 
-d) outras funções de ensino desempenhadas pelo candidato, enquanto professor efetivo do Magistério do Exército, e que, em leis, decretos, ou atos do Ministro da Guerra, explicitamente se estabeleça devam ser consideradas funções de ensino para os efeitos do previsto na letra <em>b</em> do § 2º do art. 8º do Decreto nº 37.396-55.
+d) outras funções de ensino desempenhadas pelo candidato, enquanto professor efetivo do Magistério do Exército, e que, em leis, decretos, ou atos do Ministro da Guerra, explicitamente se estabeleça devam ser consideradas funções de ensino para os efeitos do previsto na letra *b* do § 2º do art. 8º do Decreto nº 37.396-55.
 
-<strong>Art</strong>. 34. Serão considerados de valor excepcional em concurso para catedrático do magistério do Exército os seguintes títulos:
+**Art**. 34. Serão considerados de valor excepcional em concurso para catedrático do magistério do Exército os seguintes títulos:
 
 1\) participação em comissão julgadora de concurso de títulos e de provas para candidatos a cargo de adjunto de catedrático em caráter efetivo, ou para catedrático, tudo do Magistério do Exército.
 
-2\) exercício eficiente das funções de ensino a que se refere a letra <em>a</em> do art. 33 destas Instruções.
+2\) exercício eficiente das funções de ensino a que se refere a letra *a* do art. 33 destas Instruções.
 
-<strong>Art</strong>. 35. A soma do número previsto de adjuntos de catedráticos efetivos com o número previsto de catedrático efetivos (relativos a uma mesma matéria - abrangidas sempre as suas subdivisões didáticas - computando-se tôdos os estabelecimentos de ensino do Exército a que se referem estas Instruções), constituirá o efetivo previsto de professôres efetivos do magistério do Exército, na matéria considerada. Na abertura de concursos para “adjuntos de catedráticos” computar-se-á como número de vagas a diferença entre o efetivo previsto de professôres efetivos do Magistério do Exército, na matéria considera, e o número de professôres efetivos realmente existentes na matéria; entretanto, realizado o referido concurso para adjunto de catedrático, os candidatos consequentemente propostos para preencher as vagas de professôres efetivos serão tôdos nomeados ou transferidos como “adjuntos de catedráticos”.
+**Art**. 35. A soma do número previsto de adjuntos de catedráticos efetivos com o número previsto de catedrático efetivos (relativos a uma mesma matéria - abrangidas sempre as suas subdivisões didáticas - computando-se tôdos os estabelecimentos de ensino do Exército a que se referem estas Instruções), constituirá o efetivo previsto de professôres efetivos do magistério do Exército, na matéria considerada. Na abertura de concursos para “adjuntos de catedráticos” computar-se-á como número de vagas a diferença entre o efetivo previsto de professôres efetivos do Magistério do Exército, na matéria considera, e o número de professôres efetivos realmente existentes na matéria; entretanto, realizado o referido concurso para adjunto de catedrático, os candidatos consequentemente propostos para preencher as vagas de professôres efetivos serão tôdos nomeados ou transferidos como “adjuntos de catedráticos”.
 
 § 1º Nos concursos para catedrático computar-se-á como número de vagas a diferença entre o efetivo previsto de catedráticos efetivos do Magistério do Exército, na matéria em questão (abrangidas sempre as suas subdivisões didáticas), e o número de catedráticos efetivos realmente existentes na matéria, - incluindo-se tôdos os estabelecimentos de ensino do Exército de que tratam estas Instruções.
 
@@ -780,19 +778,19 @@ d) outras funções de ensino desempenhadas pelo candidato, enquanto professor e
 
 § 5º No caso de concurso para adjuntos de catedráticos, - se encerrado o concurso não tiver sido ainda criado o cargo respectivo, - o civil habilitado no concurso correspondeste que tiver direito à nomeação na conformidade do Decreto nº 37.396-55 e das presentes instruções, e não puder ser  nomeado, aguardará a criação do cargo (e a conseqüente nomeação) como professor contratado, admitido de acôrdo com a legislação vigente.
 
-<strong>Art</strong>. 36. O grupamento de disciplinas numa matéria única. Como subdivisões didáticas dela, para efeitos de prova de suficiência e de concurso, e demais efeitos destas Instruções e do Decreto nº 37.396-55, - fica a critério do Ministro da Guerra. No curso secundário (1º e 2º ciclos, num só conjunto) grupar-se-ão, por exemplo, as subdivisões didáticas da Matemática; as subdivisões didáticas da História Natural (aí incluindo-se Ciências Naturais e Biologia);as subdivisões didáticas da História; as subdivisões didáticas da Geografia. A não ser em casos de todo em todo necessários não se gruparão, entretanto, subdivisões didáticas de uma matéria de nível secundário com subdivisões didáticas de matéria correspondente de nível superior; tais compartimentações, em níveis diferentes, poderão ser consideradas, para efeito do Decreto nº 37.396-55 e das presentes Instruções, como constituindo matérias distintas.
+**Art**. 36. O grupamento de disciplinas numa matéria única. Como subdivisões didáticas dela, para efeitos de prova de suficiência e de concurso, e demais efeitos destas Instruções e do Decreto nº 37.396-55, - fica a critério do Ministro da Guerra. No curso secundário (1º e 2º ciclos, num só conjunto) grupar-se-ão, por exemplo, as subdivisões didáticas da Matemática; as subdivisões didáticas da História Natural (aí incluindo-se Ciências Naturais e Biologia);as subdivisões didáticas da História; as subdivisões didáticas da Geografia. A não ser em casos de todo em todo necessários não se gruparão, entretanto, subdivisões didáticas de uma matéria de nível secundário com subdivisões didáticas de matéria correspondente de nível superior; tais compartimentações, em níveis diferentes, poderão ser consideradas, para efeito do Decreto nº 37.396-55 e das presentes Instruções, como constituindo matérias distintas.
 
 Parágrafo único. No edital de abertura do concurso se especificarão as disciplinas que serão grupadas numa matéria única, como subdivisões didáticas dela, para efeitos de prova de suficiência e para os efeitos do concurso em questão.
 
-<strong>Art</strong>. 37. O Ministro da Guerra poderá permitir, dentro das atribuições que lhe confere a lei do Ensino Militar (Decreto-lei nº 4.130, de 26 de fevereiro de 1942) - e a fim de permitir aos candidatos militares satisfazerem as exigências que no Decreto nº 37.396.-55 e nas presentes Instruções se fazem no interêsse do ensino, para inscrição em concurso, - que os oficiais do Exército (da ativa, da reserva de 1º classe ou reformados), que não forem professôres efetivos do Magistério do Exército, se inscrevam em concurso de títulos e provas para nomeação de adjuntos desde que tenham menos de 46 (quarenta e seis) anos de idade e satisfaçam às outras exigências que para êles são respectivamente feitas, - quer no Decreto nº 37.396-55, quer nas presentes Instruções.
+**Art**. 37. O Ministro da Guerra poderá permitir, dentro das atribuições que lhe confere a lei do Ensino Militar (Decreto-lei nº 4.130, de 26 de fevereiro de 1942) - e a fim de permitir aos candidatos militares satisfazerem as exigências que no Decreto nº 37.396.-55 e nas presentes Instruções se fazem no interêsse do ensino, para inscrição em concurso, - que os oficiais do Exército (da ativa, da reserva de 1º classe ou reformados), que não forem professôres efetivos do Magistério do Exército, se inscrevam em concurso de títulos e provas para nomeação de adjuntos desde que tenham menos de 46 (quarenta e seis) anos de idade e satisfaçam às outras exigências que para êles são respectivamente feitas, - quer no Decreto nº 37.396-55, quer nas presentes Instruções.
 
-<strong>Art</strong>. 38. Se um militar adjunto de catedrático, em caráter provisório, em qualquer estabelecimento de ensino dos que se referem estas Instruções, completar mais de 5 (cinco) anos de serviço eficiente como adjunto de catedrático em caráter provisório, no Magistério do Exército, e satisfizer às exigências de inscrição em concurso que para êle são feitas nestas Instruções e no Decreto nº 37.396-55 - então poderá ser nomeado adjunto de catedrático em caráter efetivo, bastando que seja habilitado na respectivo concurso de títulos e de provas, para adjunto de catedrático em caráter efetivo, que seja aberto e realizado na conformidade destas Instruções, - desde que tenha ingressado como professor não-efetivo do Magistério do Exército mediante prova escrita de suficiência com grau mínimo de aprovação 6 (seis) ou antes da publicação do Decreto nº 37.396-55. A nomeação nessas condições ficará, entretanto, a critério do Ministro da Guerra, e acarretará a nomeação, ou transferência, dos demais candidatos, militares ou civis, que no concurso tiverem sido mais bem classificados, conforme prescreve o § 3º do art. 2º do Decreto nº 37.396-55.
+**Art**. 38. Se um militar adjunto de catedrático, em caráter provisório, em qualquer estabelecimento de ensino dos que se referem estas Instruções, completar mais de 5 (cinco) anos de serviço eficiente como adjunto de catedrático em caráter provisório, no Magistério do Exército, e satisfizer às exigências de inscrição em concurso que para êle são feitas nestas Instruções e no Decreto nº 37.396-55 - então poderá ser nomeado adjunto de catedrático em caráter efetivo, bastando que seja habilitado na respectivo concurso de títulos e de provas, para adjunto de catedrático em caráter efetivo, que seja aberto e realizado na conformidade destas Instruções, - desde que tenha ingressado como professor não-efetivo do Magistério do Exército mediante prova escrita de suficiência com grau mínimo de aprovação 6 (seis) ou antes da publicação do Decreto nº 37.396-55. A nomeação nessas condições ficará, entretanto, a critério do Ministro da Guerra, e acarretará a nomeação, ou transferência, dos demais candidatos, militares ou civis, que no concurso tiverem sido mais bem classificados, conforme prescreve o § 3º do art. 2º do Decreto nº 37.396-55.
 
 Parágrafo único. Se um adjunto de catedrático em caráter efetivo do Magistério do Exército servir com eficiência, enquanto adjunto efetivo, por mais de 3 (três) anos, como excedente, num determinado estabelecimento de ensino, na conformidade do art. 6º e seus parágrafos do Decreto número 37.396-55, e satisfizer às exigências de inscrição em concurso que para êle são feitas nestas instruções e no Decreto nº 37.396-55 - então poderá ser transferido para êsse estabelecimento, na qualidade de adjunto de catedrático em caráter efetivo, desde que seja habilitado no respectivo concurso de títulos e provas para adjunto de catedrático, em caráter efetivo, que seja aberto e realizado na conformidade destas instruções. A transferência nessas condições ficará, entretanto, a critério do Ministro da Guerra, e acarretará a nomeação, ou transferência, dos demais candidatos, militares ou civis, que no concurso forem amais bem classificados, conforme prescreve o § 3º do art. 4º do Decreto nº 37.396-55.
 
-<strong>Art</strong>. 39. Os títulos serão devolvidos aos candidatos depois de publicados o resultado do concurso com exceção dos trabalhos apresentados. Os exemplares de tese não serão devolvidos aos candidatos.
+**Art**. 39. Os títulos serão devolvidos aos candidatos depois de publicados o resultado do concurso com exceção dos trabalhos apresentados. Os exemplares de tese não serão devolvidos aos candidatos.
 
-<strong>Art</strong>. 40. Com respeito a cada concurso, - cópias dos pareceres dos diversos examinadores, dados às teses e aos trabalhos apresentados, serão anexadas aos respectivos trabalhos e teses; o conjunto será convenientemente dividido em volumes que serão encadernados e passarão a constituir exemplares, de consulta pública, da Biblioteca da Diretoria Geral do Ensino do Exército.
+**Art**. 40. Com respeito a cada concurso, - cópias dos pareceres dos diversos examinadores, dados às teses e aos trabalhos apresentados, serão anexadas aos respectivos trabalhos e teses; o conjunto será convenientemente dividido em volumes que serão encadernados e passarão a constituir exemplares, de consulta pública, da Biblioteca da Diretoria Geral do Ensino do Exército.
 
 § 1º Far-se-á um livro de resumo histórico do concurso que também constituirá exemplar de consulta pública da Biblioteca da Diretoria Geral do Ensino do Exército; nesse livro de resumo histórico ficará registrado tudo quanto se relaciona com o concurso, desde os primeiros acontecimentos ligados à abertura, até as nomeações, ou transferências, conseqüentes do concurso, incluindo-se os graus e notas relativos aos títulos e às diversas provas e teses, o resultado final, a escolha e a classificação dos candidatos, - tudo devidamente especificado.
 
@@ -802,11 +800,11 @@ Parágrafo único. Se um adjunto de catedrático em caráter efetivo do Magisté
 
 “......(nº de ordem)......concurso de título e de provas para provimento de vagas de (cargos) relativas à (matéria) no Magistério do Exército”.
 
-<strong>Art</strong>. 41. Se do concurso realizado, seja para adjunto de catedrático em caráter efetivo, seja para catedrático, - não sobrevier o preenchimento de tôdas as respectivas vagas, na conformidade das presentes Instruções e do Decreto nº 37.396-55, então, 1 (um) mês depois de encerrado o referido concurso, publicar-se-á edital de abertura de novo concurso; proceder-se-á, para tôdos os fins previstos em o Decreto nº 37.396-55 e nas presentes Instruções, como se tendo  dado a abertura da vaga, ou vagas, na data em que fôr proferido o encerramento do concurso na conformidade destas Instruções.
+**Art**. 41. Se do concurso realizado, seja para adjunto de catedrático em caráter efetivo, seja para catedrático, - não sobrevier o preenchimento de tôdas as respectivas vagas, na conformidade das presentes Instruções e do Decreto nº 37.396-55, então, 1 (um) mês depois de encerrado o referido concurso, publicar-se-á edital de abertura de novo concurso; proceder-se-á, para tôdos os fins previstos em o Decreto nº 37.396-55 e nas presentes Instruções, como se tendo  dado a abertura da vaga, ou vagas, na data em que fôr proferido o encerramento do concurso na conformidade destas Instruções.
 
 B) Disposições transitórias
 
-<strong>Art</strong>. 42. Os militares que são ou que vierem a ser admitidos, por ato ministerial, como professôres não efetivos do Magistério do Exército, e que possuírem o curso de formação de oficial da ativa do Exército, poderão inscrever-se nos concursos de que trata o art. 2º destas Instruções, enquanto forem professôres não efetivos do Magistério do Exército, até o ano de 1960 (mil novecentos e sessenta), - desde que sejam adjuntos de catedráticos em caráter provisório  do Magistério do Exército na data do requerimento de inscrição no concurso e satisfaçam aos requisitos das letras abaixo, - ficando dispensados das demais exigências que estas Instruções fazem para inscrição no concurso:
+**Art**. 42. Os militares que são ou que vierem a ser admitidos, por ato ministerial, como professôres não efetivos do Magistério do Exército, e que possuírem o curso de formação de oficial da ativa do Exército, poderão inscrever-se nos concursos de que trata o art. 2º destas Instruções, enquanto forem professôres não efetivos do Magistério do Exército, até o ano de 1960 (mil novecentos e sessenta), - desde que sejam adjuntos de catedráticos em caráter provisório  do Magistério do Exército na data do requerimento de inscrição no concurso e satisfaçam aos requisitos das letras abaixo, - ficando dispensados das demais exigências que estas Instruções fazem para inscrição no concurso:
 
 a) sejam oficiais do Exército (da ativa, da reserva de 1º classe, ou reformados), com o curso de formação de oficial da ativa;
 
@@ -818,7 +816,7 @@ d) obtenham parecer favorável da Comissão de Sindicância para Inscrição
 
 e) sejam julgados aptos para o exercício do Magistério, em inspeção de saúde mandada realizar pelo comandante ou diretor do estabelecimento onde estiverem servindo.
 
-§ 1º O tempo de serviço a que se refere a letra <em>c</em>) do presente artigo é referido à data do requerimento de inscrição do candidato no concurso.
+§ 1º O tempo de serviço a que se refere a letra *c*) do presente artigo é referido à data do requerimento de inscrição do candidato no concurso.
 
 § 2º Os requerimentos do inscrição no concurso, dos candidatos a que se refere o presente artigo, devem ser dirigidos ao Ministro da Guerra, de acôrdo com modêlo fornecido pela Diretoria Geral de Ensino do Exército, e dar entrada nessa Diretoria dentro do prazo estabelecido nas presentes Instruções; nêsse requerimento o candidato declarará, precisamente, a disciplina, ou disciplinas, a que pretende concorrer. A êsses requerimentos deverão vir anexados os documentos que são especificados abaixo.
 
@@ -838,7 +836,7 @@ e) sejam julgados aptos para o exercício do Magistério, em inspeção de saúd
 
 § 3º Os militares a que se refere o presente artigo, depois de efetivados no Magistério do Exército, somente poderão candidatar-se a qualquer concurso a que se referem estas Instruções, se satisfizerem a tôdas as condições nelas respectivamente estabelecidas.
 
-<strong>Art</strong>. 43. O primeiro concurso para provimento de cargos no Magistério do Exército, a abrir-se na conformidade do Art. 20 e seus parágrafos do Decreto nº 37.396-55, - será realizado mais para efeitos de regularizar situações já existentes no Magistério do Exército. Êsse concurso se fará como prevê o citado Art. 20 e seus parágrafos do Decreto número 37.396-55; obedecer-se-á também ao que prescrevem as presentes Instruções, com as modificações conseqüentes das letras abaixo, do presente artigo.
+**Art**. 43. O primeiro concurso para provimento de cargos no Magistério do Exército, a abrir-se na conformidade do Art. 20 e seus parágrafos do Decreto nº 37.396-55, - será realizado mais para efeitos de regularizar situações já existentes no Magistério do Exército. Êsse concurso se fará como prevê o citado Art. 20 e seus parágrafos do Decreto número 37.396-55; obedecer-se-á também ao que prescrevem as presentes Instruções, com as modificações conseqüentes das letras abaixo, do presente artigo.
 
 a) Os prazos previstos nestas Instruções, e que devem ser diminuídos, o serão mediante proposta do Diretos Geral do Ensino do Exército. No edital de abertura do concurso serão publicadas as alterações de prazo que devem imediatamente ser conhecidas dos candidatos.
 
@@ -846,7 +844,7 @@ b) Do trabalho apresentado como título poderá ser aceito apenas um único exem
 
 c) A feitura do calendário da prova de suficiência não precisa satisfazer ao que prescreve o § 3º do Art. 5º, destas Instruções. No caso de serem realizadas num mesmo dias provas de suficiência relativas a matérias diferentes, os candidatos que, porventura, tenham de a elas submeter-se escolherão qual preferem.
 
-d) O número de candidatos da lista de merecimento intelectual na prova de suficiência a que se refere o § 23 do Art. 5º, destas Instruções, que deverão ser separados na conformidade do § 26, do Art. 5º, destas Instruções, será <em>v</em>, em que v é o número de vagas publicado no edital de abertura, relativo à matéria em aprêço (abrangidas as subdivisões didáticas respectivas) em todos os estabelecimentos a que se referem estas Instruções.
+d) O número de candidatos da lista de merecimento intelectual na prova de suficiência a que se refere o § 23 do Art. 5º, destas Instruções, que deverão ser separados na conformidade do § 26, do Art. 5º, destas Instruções, será *v*, em que v é o número de vagas publicado no edital de abertura, relativo à matéria em aprêço (abrangidas as subdivisões didáticas respectivas) em todos os estabelecimentos a que se referem estas Instruções.
 
 e) As provas teórico-escrita e prática ou experimental serão realizadas em conjunto, dentro de um mesmo período de 4 (quatro) horas. A prova teórico-escrita constará apenas de 2 (duas) questões; não será exigida a dissertação; a prova prática ou experimental constará também de 2 (duas) questões. O prazo único de 4 (quatro) horas para a realização conjunta das duas provas pode ser prorrogado por mais 2 (duas) horas, se algum candidato solicitar tal prorrogação durante a realização das provas.
 
@@ -856,20 +854,20 @@ g) A tese terá apenas 20 páginas (mínimo) a 30 páginas (mínimo); a sua defe
 
 h) Na impossibilidade do cumprimento, para o primeiro concurso em questão, do que prescrevem os §§ 2º e 3º, do Artigo 35, acima, a Diretoria Geral do Ensino apenas apresentará ao Ministro da Guerra as necessidades reais em docentes, nas respectivas disciplinas, e nós diversos estabelecimentos a que se referem estas Instruções.
 
-<strong>Art</strong>. 44. As adjuntos de catedráticos do Magistério do Exército, em caráter provisório, que se inscreverem no concurso a que se refere o Art. 43, satisfazendo as condições do Art. 42 e suas letras, - tudo destas Instruções, - poderão ser efetivados no Magistério do Exército, desde que sejam habilitados no concurso referido, relativo à disciplina, ou correlata, para a qual foram admitidos como adjuntos. A nomeação nessas condições ficará, entretanto, a critério do Ministro da Guerra, e acarretará a nomeação, ou transferência, dos demais candidatos, militares ou civis, que no concurso tiverem sido mais bem classificados que êsses adjuntos, conforme prescreve o § 3º do Art. 2º, do Decreto 37.396-55.
+**Art**. 44. As adjuntos de catedráticos do Magistério do Exército, em caráter provisório, que se inscreverem no concurso a que se refere o Art. 43, satisfazendo as condições do Art. 42 e suas letras, - tudo destas Instruções, - poderão ser efetivados no Magistério do Exército, desde que sejam habilitados no concurso referido, relativo à disciplina, ou correlata, para a qual foram admitidos como adjuntos. A nomeação nessas condições ficará, entretanto, a critério do Ministro da Guerra, e acarretará a nomeação, ou transferência, dos demais candidatos, militares ou civis, que no concurso tiverem sido mais bem classificados que êsses adjuntos, conforme prescreve o § 3º do Art. 2º, do Decreto 37.396-55.
 
 Parágrafo único. Os professôres efetivos do Magistério do Exército que, na data da publicação do Decreto 37.398-55 eram adjuntos de catedráticos em caráter efetivo, e que se inscreverem no concurso a que se refere o Art. 43 destas Instruções, - poderão ser transferidos de estabelecimento, independentemente do número de vagas publicado no edital de abertura do concurso, - desde que sejam habilitados no concurso referido, relativo à disciplina, ou correlata, para onde pretendem transferência. A transferência nessas condições ficará, entretanto, a critério do Ministro da Guerra e acarretará a nomeação ou transferência dos demais candidatos, militares ou civis, que no concurso tiverem sido mais bem classificados que êsses adjuntos, conforme prescreve o § 3º do Art. 4º do Decreto 37.396-55.
 
-<strong>Art</strong>. 45. Será sempre considerado título excepcional para efeitos do § 2º do Art. 18 e do § 2º do Art. 31, tudo destas Instruções, - ter completado, na data da publicação do Decreto 37.396-55, mais de 19um) ano como professor efetivo do Magistério do Exército.
+**Art**. 45. Será sempre considerado título excepcional para efeitos do § 2º do Art. 18 e do § 2º do Art. 31, tudo destas Instruções, - ter completado, na data da publicação do Decreto 37.396-55, mais de 19um) ano como professor efetivo do Magistério do Exército.
 
-<strong>Art</strong>. 46. Será sempre considerado como título a ser enquadrado na letra <em>h</em>) do Art. 8º ou na letra <em>k</em>) do Art. 25, tudo destas Instruções, a aprovação em concurso de títulos para afetivação no Magistério do Exército, realizado em face de ato ministerial Decreto ou Lei, anterior à publicação do Decreto 37.396-55; também a participação em banca examinadora de tais concursos será considerada como título a ser enquadrado na letra <em>g</em>) do Art. 25, destas Instruções.
+**Art**. 46. Será sempre considerado como título a ser enquadrado na letra *h*) do Art. 8º ou na letra *k*) do Art. 25, tudo destas Instruções, a aprovação em concurso de títulos para afetivação no Magistério do Exército, realizado em face de ato ministerial Decreto ou Lei, anterior à publicação do Decreto 37.396-55; também a participação em banca examinadora de tais concursos será considerada como título a ser enquadrado na letra *g*) do Art. 25, destas Instruções.
 
-Parágrafo único. Será sempre considerado como título a ser enquadrado na letra <em>h</em>) do Art. 8º, ou na letra <em>k</em>) do Art. 25, tudo destas Instruções, a aprovação em prova didática a que se refere a Portaria 404, de 30 de Setembro de 1953, do Ministro da Guerra, - realizada antes da publicação do Decreto 37.396-55; também a participação em banca examinadora de tais provas será considerada como título a ser enquadrado na letra g) do Art. 25, destas Instruções.
+Parágrafo único. Será sempre considerado como título a ser enquadrado na letra *h*) do Art. 8º, ou na letra *k*) do Art. 25, tudo destas Instruções, a aprovação em prova didática a que se refere a Portaria 404, de 30 de Setembro de 1953, do Ministro da Guerra, - realizada antes da publicação do Decreto 37.396-55; também a participação em banca examinadora de tais provas será considerada como título a ser enquadrado na letra g) do Art. 25, destas Instruções.
 
-<strong>Art</strong>. 47. Militar ou civil, que à data da publicação do Decreto número 37.396-55 era do professor efetivo do Magistério do Exército e que ficará sempre dispensado de qualquer exigência para inscrição em concurso, - na forma do que prescrevem o Art. 19 e seus parágrafos do mesmo Decreto nº 37.396-55 -, nenhum documento ou diploma precisará apresentar para inscrever-se em concurso, a não ser o requerimento de inscrição e 2 (dois) retratos seus, tamanho 3 x 4, que deverão dar entrada na Diretoria Geral do Ensino do Exército no prazo estabelecido nas presentes Instruções.
+**Art**. 47. Militar ou civil, que à data da publicação do Decreto número 37.396-55 era do professor efetivo do Magistério do Exército e que ficará sempre dispensado de qualquer exigência para inscrição em concurso, - na forma do que prescrevem o Art. 19 e seus parágrafos do mesmo Decreto nº 37.396-55 -, nenhum documento ou diploma precisará apresentar para inscrever-se em concurso, a não ser o requerimento de inscrição e 2 (dois) retratos seus, tamanho 3 x 4, que deverão dar entrada na Diretoria Geral do Ensino do Exército no prazo estabelecido nas presentes Instruções.
 
-<strong>Art</strong>. 48. O Ministro da Guerra, até o fim de 1955, para regularizar  as situações de adjuntos de catedráticos a que se refere o item 6 do Despacho Ministerial de 16 de Junho de 1954, do seu antecessor, dado ao ofício 508-Div-Téc-1, de 4 de Junho de 1954, da Diretoria Geral do Ensino do Exército, despacho anterior à sua gestão e que, administrativamente, antes do Decreto nº 37.395-55, teria assegurado direito aos que figuram no despacho, - poderá mandas submeter somente a concurso de títulos, nós moldes da Portaria 47, de 22 de Junho de 1954, para efeito de efetivação de 1954, para efeito de efetivação no Magistério do Exército, os militares adjuntos de catedráticos que figuram no referido item 6 do despacho; - ao mesmo tempo, entretanto, fará cumprir o Decreto número 37.396-55 e as presentes Instruções, que vigerão para regular os concursos de títulos e de provas, já a partir da publicação delas no <em>Diário Oficial</em>.
+**Art**. 48. O Ministro da Guerra, até o fim de 1955, para regularizar  as situações de adjuntos de catedráticos a que se refere o item 6 do Despacho Ministerial de 16 de Junho de 1954, do seu antecessor, dado ao ofício 508-Div-Téc-1, de 4 de Junho de 1954, da Diretoria Geral do Ensino do Exército, despacho anterior à sua gestão e que, administrativamente, antes do Decreto nº 37.395-55, teria assegurado direito aos que figuram no despacho, - poderá mandas submeter somente a concurso de títulos, nós moldes da Portaria 47, de 22 de Junho de 1954, para efeito de efetivação de 1954, para efeito de efetivação no Magistério do Exército, os militares adjuntos de catedráticos que figuram no referido item 6 do despacho; - ao mesmo tempo, entretanto, fará cumprir o Decreto número 37.396-55 e as presentes Instruções, que vigerão para regular os concursos de títulos e de provas, já a partir da publicação delas no *Diário Oficial*.
 
 C Disposições Finais
 
-<strong>Art</strong>. 49. Requerer inscrição em concurso de títulos e de provas para provimento efetivo de cargos no Magistério do Exército importa em submeter-se integralmente o candidato ao que se estabelece nestas Instruções e no Decreto nº 37.396-55.
+**Art**. 49. Requerer inscrição em concurso de títulos e de provas para provimento efetivo de cargos no Magistério do Exército importa em submeter-se integralmente o candidato ao que se estabelece nestas Instruções e no Decreto nº 37.396-55.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208846)<br>
-
 # DECRETO N° 68.113, DE 28 DE NOVEMBRO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Castilho, o imóvel que especifica._

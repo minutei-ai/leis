@@ -1,5 +1,3 @@
-###DEC-074272-0-000-09-07-1974@@@
-
 DECRETO Nº 74.272 - DE 9 DE JULHO DE 1974
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Assunção de Jales Sociedade Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Jales, Estado de São Paulo.

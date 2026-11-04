@@ -1,5 +1,3 @@
-###DEC-090155-0-000-05-09-1984@@@
-
 Decreto nº 90.155, de 05 de setembro de 1984
 
 Renova prazo de concessão outorgada à Companhia Nacional de Grafite Ltda. para o aproveitamento da energia hidráulica de um desnível, existente no rio Sant'Ana, para uso exclusivo, no Município de Camacho, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-059203-0-000-12-09-1966@@@
-
 Decreto nº 59.203, de 12 de setembro de 1966.
 
 Regulamenta a Lei de Promoções dos Oficiais da Ativa da Aeronáutica (Lei nº 5.020, de 7 de junho de 1966).
@@ -737,8 +735,6 @@ Brasília, 12 de setembro de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Eduardo Gomes
-
-###DEC-059203-0-000-12-09-1966@@@RET01+++
 
 DECRETO Nº 59.203, de 12 de setembro de 1966.
 

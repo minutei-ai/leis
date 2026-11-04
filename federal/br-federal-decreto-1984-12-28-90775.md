@@ -1,5 +1,3 @@
-###DEC-090775-0-000-28-12-1984@@@
-
 Decreto nº 90.775, de 28 de dezembro de 1984.
 
 Autoriza o funcionamento dos cursos de Letras e Ciências, da Fundação de Ensino Superior de Pato Branco.

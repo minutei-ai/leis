@@ -1,5 +1,3 @@
-###DEC-050806-0-000-16-06-1961@@@
-
 DECRETO Nº 50.806, DE 16 DE JUNHO DE 1961.
 
 Transfere de Antônio Mathias Brentano para a Prefeitura Municipal de Estrêla a concessão para a produção e o fornecimento de energia elétrica à cidade de Roca Sales, Estado do Rio Grande do Sul.

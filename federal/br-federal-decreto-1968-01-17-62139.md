@@ -1,5 +1,3 @@
-###DEC-062139-0-000-17-01-1968@@@
-
 DECRETO Nº 62.139, DE 17 DE JANEIRO DE 1968.
 
 Reconhecimento dos Cursos de Psicologia e de Jornalismo da Faculdade de Filosofia da Universidade Católica de Pernambuco.

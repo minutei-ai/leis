@@ -1,5 +1,3 @@
-###DEC-055181-0-000-10-12-1964@@@
-
 DECRETO Nº 55.181, DE 10 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Luiz Rodrigues dos Santos a pesquisar calcário no município  de Matosinhos, Estado de Minas Gerais.

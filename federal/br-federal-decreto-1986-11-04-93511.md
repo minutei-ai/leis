@@ -1,5 +1,3 @@
-###DEC-093511-0-000-04-11-1986@@@
-
 DECRETO Nº 93.511, DE 4 DE NOVEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada no Município e Comarca de São José dos Campos, Estado de São Paulo, destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A - TELESP, e dá outras providências.

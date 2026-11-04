@@ -1,5 +1,3 @@
-###MPV-000455-0-000-28-01-2009@@@
-
 MEDIDA PROVISÓRIA Nº 455, DE 28 DE JANEIRO DE 2009.
 
 Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica, altera a Lei no 10.880, de 9 de junho de 2004, e dá outras providências.

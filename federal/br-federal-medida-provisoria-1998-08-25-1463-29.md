@@ -1,5 +1,3 @@
-###MPV-001463-0-029-25-08-1998@@@
-
 medida provisória nº 1.463-29, de 25 de agosto de 1998
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1996 a 30 de abril de 1997.

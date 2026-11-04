@@ -1,5 +1,3 @@
-###DEC-053640-0-000-28-02-1964@@@
-
 DECRETO Nº 53.640, DE 28 DE FEVEREIRO DE 1964.
 
 Institui a Comissão Executiva de Auxílio às vítimas das Enchentes no Estado de Goiás.

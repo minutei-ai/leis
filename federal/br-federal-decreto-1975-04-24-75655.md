@@ -1,5 +1,3 @@
-###DEC-075655-0-000-24-04-1975@@@
-
 DECRETO Nº 75.655, DE 24 DE ABRIL DE 1975.
 
 Outorga à Prefeitura Municipal de Guararema, concessão para derivar as águas do Rio Paraíba do Sul, no Município de Guararema, no Estado de São Paulo.

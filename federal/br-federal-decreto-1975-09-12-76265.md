@@ -1,5 +1,3 @@
-###DEC-076265-0-000-12-09-1975@@@
-
 decreto nº 76.265 - de 12 de setembro de 1975
 
 Concede á Empresa Rada de Mineração LTDA. o direito de lavrar cromita no Município de Serro, Estado de Minas Gerais.

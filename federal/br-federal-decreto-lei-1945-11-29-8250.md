@@ -1,5 +1,3 @@
-###DEL-008250-0-000-29-11-1945@@@
-
 DECRETO-LEI N. 8.250 – DE 29 DE NOVEMBRO  DE 1945
 
 Suspende por noventa dias a cobrança dos direitos de importação e demais taxas aduaneiras que incidem sôbre a farinha de trigo.

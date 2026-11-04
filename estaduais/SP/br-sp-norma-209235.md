@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209235)<br>
-
 # LEI N° 17.885, DE 21 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 454/2022, da Deputada Maria Lúcia Amary - PSDB)

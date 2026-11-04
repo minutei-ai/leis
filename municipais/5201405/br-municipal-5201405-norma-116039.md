@@ -1,4 +1,5 @@
-LEI MUNICIPAL N° 3.596, DE 21 DE DEZEMBRO DE 2020.<br>
+LEI MUNICIPAL N° 3.596, DE 21 DE DEZEMBRO DE 2020.
+
 (Revogada pela Lei Ordinária nº 3.610, de 21 de dezembro de 2021)
 
 ~~Dispõe sobre denominação da Praça DR. ONÉSIO DE OLIVEIRA, na Vila Brasília, neste Município e dá outras providências.~~
@@ -15,5 +16,6 @@ LEI MUNICIPAL N° 3.596, DE 21 DE DEZEMBRO DE 2020.<br>
 
  
 
-~~GUSTAVO MENDANHA~~<br>
+~~GUSTAVO MENDANHA~~
+
 ~~Prefeito Municipal~~

@@ -1,5 +1,3 @@
-###DEC-092276-0-000-07-01-1986@@@
-
 DECRETO Nº 92.276, DE 07 DE JANEIRO DE 1986
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado Fazenda Juarina, compreendida nas referidas áreas, nos Municípios de Colméia e Couto Magalhães, do Estado de Goiás, e dá outras providências.

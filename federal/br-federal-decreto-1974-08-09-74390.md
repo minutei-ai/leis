@@ -1,5 +1,3 @@
-###DEC-074390-0-000-09-08-1974@@@
-
 DECRETO Nº 74.390 - DE 9 DE AGOSTO DE 1974.
 
 Cria a Embaixada do Brasil em Maurício.

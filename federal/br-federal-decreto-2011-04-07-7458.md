@@ -1,5 +1,3 @@
-###DEC-007458-0-000-07-04-2011-PUB-01@@@
-
 DECRETO Nº 7.458, DE 7 DE ABRIL DE 2011
 
 Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

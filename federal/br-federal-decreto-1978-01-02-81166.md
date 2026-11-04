@@ -1,5 +1,3 @@
-###DEC-081166-0-000-02-01-1978@@@
-
 Decreto nº 81.166 de 02 de janeiro de 1978.
 
 Concede à Italmagnésio Nordeste S/A o direito de lavrar quartzo no Município de Curvelo, Estado de Minas Gerais.

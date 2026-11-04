@@ -1,5 +1,3 @@
-###DEC-061146-0-000-09-08-1967@@@
-
 DECRETO Nº 61.146, DE 9 DE AGÔSTO DE 1967.
 
 Inclui a Companhia de Petróleo da Amazônia entre as emprêsas autorizadas a funcionar permanentemente aos domingos e feriados civis e religiosos.

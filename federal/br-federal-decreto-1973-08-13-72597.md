@@ -1,5 +1,3 @@
-###DEC-072597-0-000-13-08-1973@@@
-
 DECRETO Nº 72.597, DE 13 DE AGOSTO DE 1973.
 
 Concede à Mineração Taboca S.A. o direito de lavrar cassiterita no Município de Porto Velho, Território Federal de Rondônia.

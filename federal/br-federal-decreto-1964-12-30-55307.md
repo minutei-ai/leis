@@ -1,5 +1,3 @@
-###DEC-055307-0-000-30-12-1964@@@
-
 Decreto nº 55.307, de 30 de dezembro de 1964.
 
 Permite a prorrogação do estágio de serviço aos 2º Tenentes R-2 das Armas.

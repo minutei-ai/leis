@@ -1,5 +1,3 @@
-###DEC-070002-0-000-20-01-1972@@@
-
 DECRETO Nº 70.002, de 20 de Janeiro de 1972.
 
 Declara de utilidade pública o Hospital e Maternidade Amaral Carvalho, com sede em Jaú, Estado de São Paulo.

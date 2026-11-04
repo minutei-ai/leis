@@ -1,5 +1,3 @@
-###DEL-007239-0-000-10-01-1945@@@
-
 DECRETO-LEI N. 7.239 – DE 10 DE JANEIRO DE 1945
 
 Dispõe sôbre o pessoal do Serviço de Navegação da Amazônia e Administração do Pôrto do Pará

@@ -1,5 +1,3 @@
-###DEC-074384-0-000-09-08-1974@@@
-
 DECRETO Nº 74.384 - DE 9 DE agosto DE 1974.
 
 Concede reconhecimento à Faculdade de Comunicação Social Anhembi, com o curso de Comunicação Social, mantida pelo Instituto Superior de Comunicação Publicitária, com sede na Cidade de São Paulo, Estado de São Paulo.

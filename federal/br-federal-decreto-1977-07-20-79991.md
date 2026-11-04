@@ -1,5 +1,3 @@
-###DEC-079991-0-000-20-07-1977@@@
-
 DECRETO Nº 79.991, DE 20 DE JULHO DE 1977
 
 Fixa o fator de reajustamento salarial relativo a julho de 1977.

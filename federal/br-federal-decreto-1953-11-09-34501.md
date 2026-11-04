@@ -1,14 +1,12 @@
-###DEC-034501-0-000-09-11-1953@@@
+**DECRETO Nº 34.501, DE 9 DE NOVEMBRO DE 1953.**
 
-<strong>DECRETO Nº 34.501, DE 9 DE NOVEMBRO DE 1953.</strong>
+***Altera o Decreto número 33.711, de 1 de setembro de 1953.***
 
-<em><strong>Altera o Decreto número 33.711, de 1 de setembro de 1953.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O artigo 1º, do Decreto número 33.711, de 1 de setembro de 1953, passa a vigorar com a seguinte redação:
+**Art**. 1º O artigo 1º, do Decreto número 33.711, de 1 de setembro de 1953, passa a vigorar com a seguinte redação:
 
 “Art.1º As alíneas do parágrafo único acrescentado pelo Decreto número 26.216, de 17 de Janeiro de 1949, ao artigo 320, do Regulamento para as Capitanias de Portos, aprovado pelo Decreto número 5.798, de 11 de junho de 1940, passam a ter a seguinte redação:
 
@@ -38,10 +36,10 @@ j) Moço - Carvoeiro - Cozinheiro de 3ª Classe;
 
 l) Taifeiro - Ajudante de Cozinheiro.”
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 9 de novembro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel

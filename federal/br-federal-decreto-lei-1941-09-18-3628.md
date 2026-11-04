@@ -1,5 +1,3 @@
-###DEL-003628-0-000-18-09-1941@@@
-
 DECRETO-LEI N. 3.628 – DE 18 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de 1:448$3, para indenização de funcionário

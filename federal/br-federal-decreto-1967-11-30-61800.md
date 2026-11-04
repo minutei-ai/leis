@@ -1,5 +1,3 @@
-###DEC-061800-0-000-30-11-1967@@@
-
 decreto nº 61.800, de 30 de novembro de 1967.
 
 Funções privativas dos postos de General-de-Divisão ou General-de-Brigada, Técnicos. Altera o Decreto nº 43.190, de 12 de fevereiro de 1958.

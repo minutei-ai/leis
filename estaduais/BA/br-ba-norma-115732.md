@@ -20,10 +20,62 @@ Luiz Antonio Sande de Oliveira
 
 TABELA DE VENCIMENTOS DOS TITULARES DOS CARGOS TÉCNICO-JURÍDICOS DA PROCURADORIA GERAL DO ESTADO
 
-<table style="width: 411.1pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt;" width="548" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 326.05pt; border: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="435"><p class="Tabela-Texto"><span>GARGO</span></p></td><td style="width: 85.05pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>VENCIMENTO</span></p></td></tr><tr><td style="width: 326.05pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="435"><p class="Tabela-Texto"><span>Subprocurador Geral do Estado, Subprocurador da Fazenda, Advogado do Estado e da Fazenda</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto"><span>3.100,00</span></p></td></tr><tr><td style="width: 326.05pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="435"><p class="Tabela-Texto"><span>Procurador do Estado de 1ª Classe</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.750,00</span></p></td></tr><tr><td style="width: 326.05pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="435"><p class="Tabela-Texto"><span>Procurador do Estado de 2ª Classe</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.400,00</span></p></td></tr><tr><td style="width: 326.05pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="435"><p class="Tabela-Texto"><span>Procurador do Estado de 3ª Classe</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.050,00</span></p></td></tr></tbody></table>
+GARGO
+
+VENCIMENTO
+
+Subprocurador Geral do Estado, Subprocurador da Fazenda, Advogado do Estado e da Fazenda
+
+3.100,00
+
+Procurador do Estado de 1ª Classe
+
+2.750,00
+
+Procurador do Estado de 2ª Classe
+
+2.400,00
+
+Procurador do Estado de 3ª Classe
+
+2.050,00
 
 QUADRO COMPARATIVO
 
-<table style="width: 411.1pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt;" width="548" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 241.0pt; border: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="321"><p class="Tabela-Texto"><span>CLASSES</span></p></td><td style="width: 85.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>VENCIMENTOS</span></p></td><td style="width: 85.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>VENCIMENTOS</span></p></td></tr><tr><td style="width: 241.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="321">&nbsp;</td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>ATUAIS</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>PROPOSTOS</span></p></td></tr><tr><td style="width: 241.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="321"><p class="Tabela-Texto"><span>Subprocurador Geral do Estado, Subprocurador Fazenda,</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113">&nbsp;</td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113">&nbsp;</td></tr><tr><td style="width: 241.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="321"><p class="Tabela-Texto"><span>Advogado do Estado e da Fazenda</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.592,00</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>3.100,00</span></p></td></tr><tr><td style="width: 241.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="321"><p class="Tabela-Texto"><span>Procurador do Estado de 1ª Classe</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.304,00</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.750,00</span></p></td></tr><tr><td style="width: 241.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="321"><p class="Tabela-Texto"><span>Procurador do Estado de 2ª Classe</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.016,00</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.400,00</span></p></td></tr><tr><td style="width: 241.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="321"><p class="Tabela-Texto"><span>Procurador do Estado de 3ª Classe</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1.728,00</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.050,00</span></p></td></tr></tbody></table>
+CLASSES
+
+VENCIMENTOS
+
+VENCIMENTOS
+
+ATUAIS
+
+PROPOSTOS
+
+Subprocurador Geral do Estado, Subprocurador Fazenda,
+
+Advogado do Estado e da Fazenda
+
+2.592,00
+
+3.100,00
+
+Procurador do Estado de 1ª Classe
+
+2.304,00
+
+2.750,00
+
+Procurador do Estado de 2ª Classe
+
+2.016,00
+
+2.400,00
+
+Procurador do Estado de 3ª Classe
+
+1.728,00
+
+2.050,00
 
 RETIFICAÇÃO

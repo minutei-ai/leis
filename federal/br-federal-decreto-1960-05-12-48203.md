@@ -1,5 +1,3 @@
-###DEC-048203-0-000-12-05-1960@@@
-
 decreto nº 48.203, de 12 de maio de 1960.
 
 Autoriza o cidadão brasileiro Santos dos Santos Fonseca Júnior a lavrar ouro e diamante no município de Diamantina, Estado de Minas Gerais.

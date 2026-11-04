@@ -1,5 +1,3 @@
-###DEL-008789-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.789 – DE 22 DE JANEIRO DE 1946
 
 Cria cargo no Quadro Permanente do Ministério da Aeronáutica e dá outras providências

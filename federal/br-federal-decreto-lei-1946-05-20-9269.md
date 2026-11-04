@@ -1,5 +1,3 @@
-###DEL-009269-0-000-20-05-1946@@@
-
 DECRETO-LEI N. 9.269 – DE 20 DE MAIO DE 1946
 
 Dispõe sôbre a vigência do Decreto-lei nº 7.211, de 29 de Dezembro de 1944.

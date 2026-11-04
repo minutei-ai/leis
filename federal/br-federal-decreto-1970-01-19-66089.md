@@ -1,5 +1,3 @@
-###DEC-066089-0-000-19-01-1970@@@
-
 decreto nº 66.089 - de 19 de janeiro de 1970
 
 Concede à Companhia Paulista de Mineração o direito de lavrar talco, no município de Castro, Estado do Paraná.

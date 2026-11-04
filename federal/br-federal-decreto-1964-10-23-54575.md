@@ -1,5 +1,3 @@
-###DEC-054575-0-000-23-10-1964@@@
-
 DECRETO Nº 54.575, DE 23 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Lino Córdova de Liz a pesquisar calcário, no município de Lajes, Estado de Santa Catarina.

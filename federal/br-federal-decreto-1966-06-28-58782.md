@@ -1,5 +1,3 @@
-###DEC-058782-0-000-28-06-1966@@@
-
 DECRETO Nº 58.782, DE 28 DE JUNHO DE 1966.
 
 Autoriza a Centro Fluminense de Eletricidade S. A. a ampliar suas instalações.

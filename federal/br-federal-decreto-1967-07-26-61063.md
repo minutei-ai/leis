@@ -1,5 +1,3 @@
-###DEC-061063-0-000-26-07-1967@@@
-
 DECRETO Nº 61.063, DE 26 DE JULHO DE 1967.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a construir estação de manobras.

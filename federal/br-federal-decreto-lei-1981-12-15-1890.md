@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e385917a-097b-4c45-bb5e-e9d7e7fdc6d7/texto#nowhere)
 
-###DEL-001890-0-000-15-12-1981@@@
-
 # Decreto-lei nº 1.890, de 15 de dezembro de 1981
 
 Autoriza o Poder Executivo a abrir, em favor do Ministério da Educação e Cultura, de Ministério dos Transportes, dos Encargos Gerais da União, do Fundo Nacional de Desenvolvimento e do Fundo Nacional de Apoio ao Desenvolvimento Urbano, créditos adicionais até o limite de Cr$10.952.872.000,00, para o fim que especifica.
@@ -14,11 +12,67 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir ao Ministério da Educaçã
 
 I - crédito suplementar até o limite de Cr$10.222.572.000,00 (dez bilhões, duzentos e vinte e dois milhões, quinhentos e setenta e dois mil cruzeiros):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span style="text-decoration:underline">Cr$1.000,00</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>MINISTÉRIO DA EDUCAÇÃO E CULTURA</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span style="text-decoration:underline">1.006.421</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Secretaria Geral</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>324.917</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Secretaria Geral - Entidades Supervisionadas</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>678.711</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Departamento do Pessoal</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>2.793</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>MINISTÉRIO DOS TRANSPORTES</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span style="text-decoration:underline">6.653.322</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Secretaria Geral - Entidades Supervisionadas</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>6.653.322</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>ENCARGOS GERAIS DA UNIÃO</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span style="text-decoration:underline">1.834.000</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Programas Especiais - Recursos sob Supervisão da Secretaria de Planejamento/PR</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>1.834.000</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>FUNDO NACIONAL DE DESENVOLVIMENTO</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span style="text-decoration:underline">636.329</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Recursos sob Supervisão do Ministério dos Transportes</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>636.329</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>FUNDO NACIONAL DE APOIO AO DESENVOLVIMENTO URBANO</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span style="text-decoration:underline">92.500</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Recursos sob Supervisão da Secretaria de Planejamento/PR</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>92.500</span></p></td></tr></tbody></table>
+Cr$1.000,00
+
+MINISTÉRIO DA EDUCAÇÃO E CULTURA
+
+1.006.421
+
+Secretaria Geral
+
+324.917
+
+Secretaria Geral - Entidades Supervisionadas
+
+678.711
+
+Departamento do Pessoal
+
+2.793
+
+MINISTÉRIO DOS TRANSPORTES
+
+6.653.322
+
+Secretaria Geral - Entidades Supervisionadas
+
+6.653.322
+
+ENCARGOS GERAIS DA UNIÃO
+
+1.834.000
+
+Programas Especiais - Recursos sob Supervisão da Secretaria de Planejamento/PR
+
+1.834.000
+
+FUNDO NACIONAL DE DESENVOLVIMENTO
+
+636.329
+
+Recursos sob Supervisão do Ministério dos Transportes
+
+636.329
+
+FUNDO NACIONAL DE APOIO AO DESENVOLVIMENTO URBANO
+
+92.500
+
+Recursos sob Supervisão da Secretaria de Planejamento/PR
+
+92.500
 
 Il - crédito especial até o limite de Cr$730.300.000,00 (setecentos e trinta milhões e trezentos mil cruzeiros):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span style="text-decoration:underline">Cr$1.000,00</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>FUNDO NACIONAL DE APOIO AO DESENVOLVIMENTO URBANO</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span style="text-decoration:underline">730.300</span></p></td></tr><tr><td style="width:263.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Recursos sob Supervisão da Secretaria de planejamento/PR</span></p></td><td style="width:140.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>730.300</span></p></td></tr></tbody></table>
+Cr$1.000,00
+
+FUNDO NACIONAL DE APOIO AO DESENVOLVIMENTO URBANO
+
+730.300
+
+Recursos sob Supervisão da Secretaria de planejamento/PR
+
+730.300
 
 Art. 2º Os recursos necessários à execução do disposto no artigo anterior decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente orçamento, aos Órgãos 1500 - Ministério da Educação e Cultura, 2700 - Ministério dos Transportes, 2800 - Encargos Gerais da União, 2900 - Fundo Nacional de Desenvolvimento e, 3100 - Fundo Nacional de Apoio ao desenvolvimento Urbano.
 

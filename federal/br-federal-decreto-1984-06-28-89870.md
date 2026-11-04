@@ -1,5 +1,3 @@
-###DEC-089870-0-000-28-06-1984@@@
-
 Decreto nº 89.870, de 28 de junho de 19
 
 Institui representação das Forças Armadas junto à Secretaria-Geral do Conselho Internacional do Desporto Militar e dá outras providências.

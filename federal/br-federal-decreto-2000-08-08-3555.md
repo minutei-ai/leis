@@ -1,5 +1,3 @@
-###DEC-003555-0-000-08-08-2000@@@
-
 DECRETO Nº 3.555, DE 8 DE AGOSTO DE 2000.
 
 Aprova o Regulamento para a modalidade de licitação denominada pregão, para aquisição de bens e serviços comuns.

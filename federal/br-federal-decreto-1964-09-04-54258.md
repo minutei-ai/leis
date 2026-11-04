@@ -1,5 +1,3 @@
-###DEC-054258-0-000-04-09-1964@@@
-
 DECRETO Nº 54.258, DE 4 DE SETEMBRO DE 1954.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Aliança do Pará, inclusive aumento do capital social.

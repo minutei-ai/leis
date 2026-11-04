@@ -1,5 +1,3 @@
-###DEC-085736-0-000-17-02-1981@@@
-
 Decreto nº 85.736, de 17 de fevereiro de 1981.
 
 Declara luto oficial.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097901-0-000-04-07-1989@@@
-
 DECRETO Nº 97.901, DE 4 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais DENOMINADOS MONTE SANTO I/GITIRANA, MONTE SANTO II, PLANALTO, SANTO ANDRÉ E MONTES CLAROS, conhecidos pela denominação de FAZENDA MONTE SANTO, classificados como latifúndio por exploração, situados no Município de Gararu, Estado de Sergipe, compreendidos na zona prioritária fixada pelo Decreto nº 92.687, de 19 de maio de 1986, e dá outras providências.

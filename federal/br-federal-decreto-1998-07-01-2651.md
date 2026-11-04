@@ -1,5 +1,3 @@
-###DEC-002651-0-000-01-07-1998@@@
-
 DECRETO Nº 2.651, DE 1º DE JULHO DE 1998
 
 Dispõe sobre a execução do Oitavo Protocolo Adicional ao Acordo Comercial nº 17B, Setor da Indústria de Aparelhos Elétricos, Mecânicos e Térmicos de Uso Doméstico, entre Brasil e Argentina de 30 de dezembro de 1994.

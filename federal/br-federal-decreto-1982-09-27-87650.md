@@ -1,5 +1,3 @@
-###DEC-087650-0-000-27-09-1982@@@
-
 Decreto nº 87.650, de 27 de setembro 1982
 
 Declara de utilidade pública, para fins da constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

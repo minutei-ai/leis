@@ -1,5 +1,3 @@
-###DEC-073445-0-000-11-01-1974@@@
-
 DECRETO Nº 73.445, DE 11 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 53.299, de 16 de dezembro de 1963, através do qual foi concedido ao cidadão brasileiro Pedro Larocca o direito de lavrar xisto argiloso, no Município de Pirapora do Bom Jesus, Estado de São Paulo.

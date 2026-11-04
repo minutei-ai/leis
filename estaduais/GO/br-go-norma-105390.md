@@ -20,8 +20,6 @@ Art. 4º Esta Lei entra em vigor da data de sua publicação.
 
 Goiânia, 12 de abril de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-091885-0-000-05-11-1985@@@
-
 Decreto nº 91.885, de 05 de novembro de 1985
 
 Declara como Área de Relevante Interesse Ecológico - ARIE a Mata de Santa Genebra, no Estado de São Paulo, e dá outras providências.
@@ -31,8 +29,6 @@ Brasília, 05 de novembro de 1985; 164º da Independência e 97º da República.
 JOSÉ SARNEY
 
 Attila Carvalho de Godoy
-
-###DEC-091885-0-000-05-11-1985@@@RET01+++
 
 # DECRETO Nº 91.885, DE 05 DE NOVEMBRO DE 1985
 

@@ -1,5 +1,3 @@
-###DEC-062499-0-000-01-04-1968@@@
-
 DECRETO Nº 62.499, DE 1º DE ABRIL DE 1968.
 
 Declara de utilidade pública a “Obra de Assistência Social São João Francisco Regis’’, com sede em Belo Horizonte, Estado de Minas Gerais.

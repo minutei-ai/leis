@@ -1,5 +1,3 @@
-###DEC-086755-0-000-18-12-1981@@@
-
 Decreto nº 86.755, de 18 de dezembro de 1981
 
 Transfere para a Centrais Elétricas de Minas Gerais S.A. - CEMIG os direitos conferidos ao Departamento de Águas e Energia Elétrica do Estado de Minas Gerais - DAE, por força do Decreto nº 81.146, de 02 de janeiro de 1978.

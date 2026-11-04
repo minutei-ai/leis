@@ -1,5 +1,3 @@
-###DEC-059226-0-000-19-09-1966@@@
-
 DECRETO Nº 59.226, DE 19 DE SETEMBRO DE 1966.
 
 Concede reconhecimento à Faculdade de Medicina de Sergipe.

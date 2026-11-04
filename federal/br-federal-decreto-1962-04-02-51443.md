@@ -1,5 +1,3 @@
-###DEC-051443-0-000-02-04-1962@@@
-
 DECRETO Nº 51.443, DE 2 DE ABRIL DE 1962.
 
 Prorroga, por mais 10 anos, o prazo de autorização para funcionar no país, do Banco Ítalo-Belga S.A., com sede em Antuérpia (Bélgica).

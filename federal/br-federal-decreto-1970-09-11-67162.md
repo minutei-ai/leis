@@ -1,5 +1,3 @@
-###DEC-067162-0-000-11-09-1970@@@
-
 DECRETO Nº 67.162, DE 11 DE SETEMBRO DE 1970.
 
 Aprova incorporação de empresas de energia elétrica no Estado de São Paulo e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-061342-0-000-13-09-1967@@@
-
 Decreto nº 61.342, de 13 de setembro de 1967.
 
 Extingue o 3º Batalhão do 2º Regimento de Infantaria.

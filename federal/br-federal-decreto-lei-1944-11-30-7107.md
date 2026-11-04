@@ -1,5 +1,3 @@
-###DEL-007107-0-000-30-11-1944@@@
-
 DECRETO-LEI N. 7.107 – DE 30 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$1.600,00 à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-055883-0-000-31-03-1965@@@
-
 DECRETO Nº 55.883, DE 31 DE MARÇO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno situada entre a estação de Bento Ribeiro e o Campo dos Afonsos, na cidade do Rio de Janeiro, Estado da Guanabara.

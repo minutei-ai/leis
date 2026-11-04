@@ -1,5 +1,3 @@
-###DEC-064534-0-000-19-05-1969@@@
-
 DECRETO Nº 64.534, DE 19 DE MAIO DE 1969.
 
 Declara de utilidade pública a Fundação Waldomiro Lôbo - Assistência ao Tuberculoso Pobre, com sede em Belo Horizonte, Estado de Minas Gerais.

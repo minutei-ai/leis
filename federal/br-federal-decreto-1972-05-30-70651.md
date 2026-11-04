@@ -1,5 +1,3 @@
-###DEC-070651-0-000-30-05-1972@@@
-
 decreto nº 70.651, de 30 de maio de 1972.
 
 Redistribui, com os respectivos ocupantes, para a Universidade Federal do Rio Grande do Norte, cargos do Ministério do Trabalho e Previdência Social, e dá outras providências.

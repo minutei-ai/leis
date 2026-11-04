@@ -1,6 +1,10 @@
 > **LEI Nº 3.290, DE 04 DE OUTUBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui, no âmbito do Estado, o Plano Estadual de Cirurgias Eletivas composto pelo Programa de Estímulo à Produtividade por Alcance de Metas – PRÓ-ATIVIDADE e Programa Permanente de Mutirões de Procedimentos Cirúrgicos Eletivos – PRÓ-MUTIRÃO.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui, no âmbito do Estado, o Plano Estadual de Cirurgias Eletivas composto pelo Programa de Estímulo à Produtividade por Alcance de Metas – PRÓ-ATIVIDADE e Programa Permanente de Mutirões de Procedimentos Cirúrgicos Eletivos – PRÓ-MUTIRÃO.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

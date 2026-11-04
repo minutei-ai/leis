@@ -1,5 +1,3 @@
-###DEC-096090-0-000-25-05-1988@@@
-
 DECRETO N° 96.090, DE 25 DE MAIO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou constituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

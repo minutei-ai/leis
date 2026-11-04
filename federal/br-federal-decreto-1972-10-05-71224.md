@@ -1,5 +1,3 @@
-###DEC-071224-0-000-05-10-1972@@@
-
 Decreto nº 71.224 - de 5 de outubro de 1972.
 
 Autoriza o Ministério da Aeronáutica a aplicar saldos de receitas apuradas de quantitativos de subsistência e de rações operacionais.

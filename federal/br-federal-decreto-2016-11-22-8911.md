@@ -52,5 +52,6 @@ José Serra
 
 Dyogo Henrique de Oliveira
 
-<<ANEXOS>><br>
+<<ANEXOS>>
+
 <<TABELAS>>

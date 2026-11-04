@@ -1,5 +1,3 @@
-###DEC-005586-0-000-19-11-2005@@@
-
 DECRETO Nº 5.586, DE 19 DE NOVEMBRO DE 2005.
 
 Dispõe sobre a prova de regularidade fiscal perante a Fazenda Nacional, a Secretaria da Receita Previdenciária, inclusive em relação à dívida ativa do Instituto Nacional do Seguro Social - INSS, altera o Decreto no 3.048, de 6 de maio de 1999, que aprova o Regulamento da Previdência Social, e dá outras providências.

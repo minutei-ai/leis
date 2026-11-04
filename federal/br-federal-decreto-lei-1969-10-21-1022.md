@@ -1,7 +1,3 @@
-1
-
-###DEL-001022-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.022, de 21 de outubro de 1969
 
 Considera em exercício de cargo militar militares nomeados para o Gabinete Pessoal do Marechal Arthur da Costa e Silva, e dá outras providências.
@@ -25,8 +21,6 @@ Augusto hamann rademaker grunewald
 Aurélio de lyra tavares
 
 Márcio de Souza e Mello
-
-###DEL-001022-0-000-21-10-1969@@@REP01+++
 
 (\*) DECREIO-LEI Nº 1.022, DE 21 DE OUTUBRO DE 1969
 

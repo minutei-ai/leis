@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58672)
-
 # LEI Nº 12.137, DE 24 DE OUTUBRO DE 2005
 
 ## ( PL 164/2005 - Célia Leão)

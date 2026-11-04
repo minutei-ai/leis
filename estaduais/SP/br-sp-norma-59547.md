@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59547)
-
 # LEI Nº 12.177, DE 21 DE DEZEMBRO DE 2005
 
 ### _Dispõe sobre a revisão anual dos vencimentos e proventos dos servidores públicos do Poder Judiciário._

@@ -1,5 +1,3 @@
-###DEC-064272-0-000-21-03-1969@@@
-
 DECRETO Nº 64.272, DE 21 DE MARÇO DE 1969.
 
 Altera dispositivos do Decreto nº 62.414-68.

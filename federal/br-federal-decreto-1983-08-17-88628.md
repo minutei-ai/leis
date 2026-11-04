@@ -1,5 +1,3 @@
-###DEC-088628-0-000-17-08-1983@@@
-
 Decreto nº 88.628, de 17 de agosto de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa adicional de terra destina da à instalação de chaves de abertura sob carga em estruturas especiais de linha de transmissão da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

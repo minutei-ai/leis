@@ -1,5 +1,3 @@
-###DEC-079278-0-000-15-02-1977@@@
-
 DECRETO Nº 79.278, DE 15 DE FEVEREIRO DE 1977.
 
 Declara da utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia de Eletricidade de Pernambuco - CELPE, no Estado de Pernambuco.

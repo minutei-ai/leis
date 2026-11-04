@@ -1,10 +1,7 @@
-<br>
 LEI complementar Nº  5.595, DE 26 DE MAIO DE 2009.
 
-<br>
 Altera a [Lei 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170).
 
-<br>
  
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

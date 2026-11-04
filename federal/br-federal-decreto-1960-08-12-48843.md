@@ -1,5 +1,3 @@
-###DEC-048843-0-000-12-08-1960@@@
-
 DECRETO Nº 48.843, de 12 de Agôsto de 1960.
 
 Autoriza a Companhia Industrial Ouropretana a construir uma linha de transmissão de energia elétrica no Estado de Minas Gerais.

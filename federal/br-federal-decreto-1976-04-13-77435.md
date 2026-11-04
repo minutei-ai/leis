@@ -1,5 +1,3 @@
-###DEC-077435-0-000-13-04-1976@@@
-
 DECRETO Nº 77.435 - DE 13 DE ABRIL DE 1976
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da dotação dos terrenos que menciona, situados, no Município de Humaitá, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEL-008722-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.722 – DE 18 DE JANEIRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a criar a Secretaria Geral de Agricultura e dá outras providências.

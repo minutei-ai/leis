@@ -1,7 +1,3 @@
-1
-
-###MPV-001330-0-000-07-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.330, DE 7 DE MARÇO DE 1996.
 
 Acrescenta parágrafo ao art. 75 da Lei nº 4.728, de 14 de julho de 1965.

@@ -1,5 +1,3 @@
-###DEC-047950-0-000-18-03-1960@@@
-
 DECRETO Nº 47.950, DE 18 DE MARÇO DE 1960.
 
 Declara de utilidade pública, para efeito de desapropriação, de natureza urgente, áreas de terras situadas nos municípios de Petrópolis e Duque de Caxias, Estado do Rio de Janeiro, destinadas às obras de açudagem, adução e proteção dos mananciais para o abastecimento de água da Refinaria Duque de Caxias, da Petróleo Brasileiro S.A. Petrobrás e demais indústrias petroquímicas.

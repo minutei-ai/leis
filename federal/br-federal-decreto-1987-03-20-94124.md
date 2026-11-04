@@ -1,5 +1,3 @@
-###DEC-094124-0-000-20-03-1987@@@
-
 DECRETO Nº 94.124, DE 20 DE MARÇO DE 1987.
 
 Outorga concessão à TELEVISÃO CAPIXABA LTA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Vitória, Estado do Espírito Santo.

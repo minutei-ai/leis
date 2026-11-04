@@ -1,5 +1,3 @@
-###DEL-003566-0-000-29-08-1941@@@
-
 DECRETO-LEI N. 3.566 – DE 29 DE AGOSTO DE 1941
 
 Abre á Comissão de Defesa da Economia Nacional o crédito suplementar de 40:000$0 e torna sem aplicação quantia idêntica na verba que especifica

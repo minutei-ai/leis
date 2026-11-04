@@ -1,5 +1,3 @@
-###DEC-082725-0-000-23-11-1978@@@
-
 Decreto nº 82.725, de 23 de novembro de 1978.
 
 Aprova o Regulamento do Laboratório Químico-Farmacêutico da Aeronáutica e dá outras providências.

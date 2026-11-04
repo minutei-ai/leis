@@ -1,5 +1,3 @@
-###DEC-046327-0-000-30-06-1959@@@
-
 DECRETO Nº 46.327, DE 30 DE JUNHO DE 1959.
 
 Autoriza a Empresa Sul Brasileira de Eletricidade S.A. a ampliar o seu sistema de transmissão de energia elétrica no Estado de Santa Catarina.

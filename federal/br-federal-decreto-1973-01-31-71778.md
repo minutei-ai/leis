@@ -1,5 +1,3 @@
-###DEC-071778-0-000-31-01-1973@@@
-
 Decreto nº 71.778, de 31 de janeiro de 1973.
 
 Concede à Empresa de Mineração Nelson Guimarães Barros o direito de lavrar granito no município de Peruíbe, Estado de São Paulo.

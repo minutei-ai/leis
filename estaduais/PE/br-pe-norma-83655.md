@@ -404,97 +404,59 @@ BIANCA FERREIRA TEIXEIRA
 
 **(art. 5º, I)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="281" style="width:210.95pt;border:solid windowtext 1.0pt;padding:
-  0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PERCENTUAL DE REDUÇÃO DO TOTAL DO CRÉDITO TRIBUTÁRIO</span></p></td><td width="293" style="width:219.7pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FORMA DE PAGAMENTO</span></p></td></tr><tr><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">90%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Integral e à vista</span></p></td></tr><tr><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">80%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Até 12 parcelas</span></p></td></tr><tr><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">70%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 13 a 36 parcelas</span></p></td></tr><tr><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">60%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 37 a 60 parcelas</span></p></td></tr><tr><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">50%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 61 a 120 parcelas</span></p></td></tr></tbody></table>
+PERCENTUAL DE REDUÇÃO DO TOTAL DO CRÉDITO TRIBUTÁRIO
+
+FORMA DE PAGAMENTO
+
+90%
+
+Integral e à vista
+
+80%
+
+Até 12 parcelas
+
+70%
+
+De 13 a 36 parcelas
+
+60%
+
+De 37 a 60 parcelas
+
+50%
+
+De 61 a 120 parcelas
 
 **TABELA B - CRÉDITO TRIBUTÁRIO decorrente da prática DE infrações à legislação tributária estadual distintaS daquela prevista na tabela a**
 
 **(art. 5º, II)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:19.55pt;border-collapse:collapse;border:none"><tbody><tr><td width="269" valign="top" style="width:201.45pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PERCENTUAL DE REDUÇÃO</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;DE MULTA E JUROS</span></p></td><td width="287" style="width:215.0pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FORMA DE PAGAMENTO</span></p></td></tr><tr><td width="269" valign="top" style="width:201.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">95%</span></p></td><td width="287" valign="top" style="width:215.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Integral e à vista</span></p></td></tr><tr><td width="269" valign="top" style="width:201.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">85%</span></p></td><td width="287" valign="top" style="width:215.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Até 12 parcelas</span></p></td></tr><tr><td width="269" valign="top" style="width:201.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">75%</span></p></td><td width="287" valign="top" style="width:215.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 13 a 36 parcelas</span></p></td></tr><tr><td width="269" valign="top" style="width:201.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">65%</span></p></td><td width="287" valign="top" style="width:215.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 37 a 60 parcelas</span></p></td></tr><tr><td width="269" valign="top" style="width:201.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">50%</span></p></td><td width="287" valign="top" style="width:215.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 61 a 120 parcelas</span></p></td></tr></tbody></table>
+PERCENTUAL DE REDUÇÃO
+
+ DE MULTA E JUROS
+
+FORMA DE PAGAMENTO
+
+95%
+
+Integral e à vista
+
+85%
+
+Até 12 parcelas
+
+75%
+
+De 13 a 36 parcelas
+
+65%
+
+De 37 a 60 parcelas
+
+50%
+
+De 61 a 120 parcelas
 
 **ANEXO 2**
 
@@ -502,122 +464,75 @@ BIANCA FERREIRA TEIXEIRA
 
 **(art. 6º)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:19.55pt;border-collapse:collapse;border:none"><tbody><tr><td width="269" style="width:201.45pt;border:solid windowtext 1.0pt;padding:
-  0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PERCENTUAL DE REDUÇÃO DO TOTAL DO CRÉDITO TRIBUTÁRIO</span></p></td><td width="287" style="width:215.0pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FORMA DE PAGAMENTO</span></p></td></tr><tr><td width="269" valign="top" style="width:201.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">70%</span></p></td><td width="287" valign="top" style="width:215.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Integral e à vista</span></p></td></tr><tr><td width="269" valign="top" style="width:201.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">50%</span></p></td><td width="287" valign="top" style="width:215.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Até 36 parcelas</span></p></td></tr></tbody></table>
+PERCENTUAL DE REDUÇÃO DO TOTAL DO CRÉDITO TRIBUTÁRIO
+
+FORMA DE PAGAMENTO
+
+70%
+
+Integral e à vista
+
+50%
+
+Até 36 parcelas
 
 **ANEXO 3**
 
-**PERCENTUAIS DE REDUÇÃO DO crédito tributário DO IMPOSTO SOBRE TRANSMISSÃO _CAUSA MORTIS_ E** **DOAÇÃO DE QUAISQUER BENS OU DIREITOS**
+**PERCENTUAIS DE REDUÇÃO DO crédito tributário DO IMPOSTO SOBRE TRANSMISSÃO _CAUSA MORTIS_ EDOAÇÃO DE QUAISQUER BENS OU DIREITOS**
 
 **(art. 7º)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="192" valign="top" style="width:144.05pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PERCENTUAL DE REDUÇÃO DE MULTA</span></p></td><td width="192" valign="top" style="width:144.05pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PERCENTUAL DE REDUÇÃO DE JUROS</span></p></td><td width="192" valign="top" style="width:144.1pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FORMA DE PAGAMENTO</span></p></td></tr><tr><td width="192" valign="top" style="width:144.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">100%</span></p></td><td width="192" valign="top" style="width:144.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">100%</span></p></td><td width="192" valign="top" style="width:144.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Integral e à vista</span></p></td></tr><tr><td width="192" valign="top" style="width:144.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">50%</span></p></td><td width="192" valign="top" style="width:144.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">80%</span></p></td><td width="192" valign="top" style="width:144.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Até 36 parcelas</span></p></td></tr></tbody></table>
+PERCENTUAL DE REDUÇÃO DE MULTA
+
+PERCENTUAL DE REDUÇÃO DE JUROS
+
+FORMA DE PAGAMENTO
+
+100%
+
+100%
+
+Integral e à vista
+
+50%
+
+80%
+
+Até 36 parcelas
 
 **ANEXO 4**
 
-**PERCENTUAIS DE REDUÇÃO DO CRÉDITO TRIBUTÁRIO DO ICMS, IPVA E** **IMPOSTO SOBRE TRANSMISSÃO _CAUSA MORTIS_ E** **E DOAÇÃO DE QUAISQUER BENS OU DIREITOS - EMPRESAS EM PROCESSO DE RECUPERAÇÃO JUDICIAL OU EM LIQUIDAÇÃO**
+**PERCENTUAIS DE REDUÇÃO DO CRÉDITO TRIBUTÁRIO DO ICMS, IPVA EIMPOSTO SOBRE TRANSMISSÃO _CAUSA MORTIS_ EE DOAÇÃO DE QUAISQUER BENS OU DIREITOS - EMPRESAS EM PROCESSO DE RECUPERAÇÃO JUDICIAL OU EM LIQUIDAÇÃO**
 
 **(art. 8º)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="281" style="width:210.95pt;border:solid windowtext 1.0pt;padding:
-  0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PERCENTUAL DE REDUÇÃO DE MULTA E JUROS</span></p></td><td width="293" style="width:219.7pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FORMA DE PAGAMENTO</span></p></td></tr><tr><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">95%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Até 48 parcelas</span></p></td></tr><tr style="height:2.35pt"><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:2.35pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">90%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:2.35pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 49 a 72 parcelas</span></p></td></tr><tr><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">85%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 73 a 96 parcelas</span></p></td></tr><tr><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">80%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 97 a 120 parcelas</span></p></td></tr><tr><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">75%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 121 a 144 parcelas</span></p></td></tr><tr><td width="281" valign="top" style="width:210.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">70%</span></p></td><td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">De 145 a 180 parcelas</span></p></td></tr></tbody></table>
+PERCENTUAL DE REDUÇÃO DE MULTA E JUROS
+
+FORMA DE PAGAMENTO
+
+95%
+
+Até 48 parcelas
+
+90%
+
+De 49 a 72 parcelas
+
+85%
+
+De 73 a 96 parcelas
+
+80%
+
+De 97 a 120 parcelas
+
+75%
+
+De 121 a 144 parcelas
+
+70%
+
+De 145 a 180 parcelas
 
 **ANEXO 5**
 
@@ -625,34 +540,21 @@ BIANCA FERREIRA TEIXEIRA
 
 **DOS PERCENTUAIS DE REDUÇÃO DO CRÉDITO NÃO TRIBUTÁRIO E DO CRÉDITO TRIBUTÁRIO NÃO CONTEMPLADO NOS ANEXOS 1 A 4**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="288" valign="top" style="width:216.1pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">PERCENTUAL DE REDUÇÃO DE MULTA E JUROS</span></p></td><td width="288" valign="top" style="width:216.1pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">FORMA DE PAGAMENTO</span></p></td></tr><tr><td width="288" valign="top" style="width:216.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">100%</span></p></td><td width="288" valign="top" style="width:216.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Integral e à vista</span></p></td></tr><tr><td width="288" valign="top" style="width:216.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">70%</span></p></td><td width="288" valign="top" style="width:216.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Até 12 parcelas</span></p></td></tr><tr><td width="288" valign="top" style="width:216.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">50%</span></p></td><td width="288" valign="top" style="width:216.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Até 36 parcelas</span></p></td></tr></tbody></table>
+PERCENTUAL DE REDUÇÃO DE MULTA E JUROS
+
+FORMA DE PAGAMENTO
+
+100%
+
+Integral e à vista
+
+70%
+
+Até 12 parcelas
+
+50%
+
+Até 36 parcelas
 
 **ANEXO 6**
 
@@ -1164,69 +1066,40 @@ Art. 32. As regras previstas neste Anexo, relativas aos procedimentos de constit
 
 **ALÍQUOTAS DO ITCMD**
 
-<strong>(</strong><strong>Anexo 2,</strong> **art. 11)**
+**(Anexo 2,art. 11)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="584" style="border-collapse:collapse;border:none"><tbody><tr><td width="300" style="width:225.15pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">VALOR DO QUINHÃO, LEGADO OU DOAÇÃO</span></p></td><td width="104" style="width:77.95pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">ALÍQUOTA</span></p></td><td width="180" style="width:134.65pt;border:solid black 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">PARCELA A DEDUZIR</span></p></td></tr><tr><td width="300" valign="top" style="width:225.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">até R$ 80.000,00</span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">ISENÇÃO</span></p></td><td width="180" valign="top" style="width:134.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">--</span></p></td></tr><tr><td width="300" valign="top" style="width:225.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">de R$ 80.000,01 até R$ 350.000,00</span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">2%</span></p></td><td width="180" valign="top" style="width:134.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 1.600,00</span></p></td></tr><tr><td width="300" valign="top" style="width:225.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">de R$ 350.000,01 até R$ 550.000,00</span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">4%</span></p></td><td width="180" valign="top" style="width:134.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 8.600,00</span></p></td></tr><tr><td width="300" valign="top" style="width:225.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">de R$ 550.000,01 até R$ 750.000,00</span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">6%</span></p></td><td width="180" valign="top" style="width:134.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 19.600,00</span></p></td></tr><tr><td width="300" valign="top" style="width:225.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:black">acima de R$ 750.000,00</span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">8%</span></p></td><td width="180" valign="top" style="width:134.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:black">R$ 34.600,00</span></p></td></tr></tbody></table>
+VALOR DO QUINHÃO, LEGADO OU DOAÇÃO
+
+ALÍQUOTA
+
+PARCELA A DEDUZIR
+
+até R$ 80.000,00
+
+ISENÇÃO
+
+--
+
+de R$ 80.000,01 até R$ 350.000,00
+
+2%
+
+R$ 1.600,00
+
+de R$ 350.000,01 até R$ 550.000,00
+
+4%
+
+R$ 8.600,00
+
+de R$ 550.000,01 até R$ 750.000,00
+
+6%
+
+R$ 19.600,00
+
+acima de R$ 750.000,00
+
+8%
+
+R$ 34.600,00

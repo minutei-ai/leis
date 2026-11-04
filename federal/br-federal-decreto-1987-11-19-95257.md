@@ -1,5 +1,3 @@
-###DEC-095257-0-000-19-11-1987@@@
-
 DECRETO N° 95.257, DE 19 DE NOVEMBRO DE 1987
 
 Renova a concessão outorgada à RÁDIO CENTRO OESTE DE PINHALZINHO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Pinhalzinho, Estado de Santa Catarina.

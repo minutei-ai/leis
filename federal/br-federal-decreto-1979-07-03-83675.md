@@ -1,5 +1,3 @@
-###DEC-083675-0-000-03-07-1979@@@
-
 Decreto nº 83.675, de 03 de julho de 1979.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Porto Nacional, Estado de Goiás.

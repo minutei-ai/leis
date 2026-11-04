@@ -1,5 +1,3 @@
-###DEL-008352-0-000-12-12-1945@@@
-
 DECRETO-LEI N. 8.352 – DE 12 DE DEZEMBRO DE 1945
 
 Prorroga prazo estabelecido no Decreto-lei n° 6. 622, de 22 de junho de 1944.

@@ -1,7 +1,3 @@
-1
-
-###LCP-000067-0-000-13-06-1991@@@
-
 # LEI COMPLEMENTAR N° 67, DE 13 DE JUNHO DE 1991
 
 Dispõe sobre a composição do Conselho Deliberativo da Superintendência do Desenvolvimento da Amazônia (Sudam).

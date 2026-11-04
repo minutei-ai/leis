@@ -1,5 +1,3 @@
-###DEC-001874-0-000-22-04-1996@@@
-
 DECRETO Nº 1.874, DE 22 DE ABRIL DE 1996
 
 Define e delimita a área correspondente à primeira descrição geográfica do Brasil, e dá outras providências.

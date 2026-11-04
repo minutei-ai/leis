@@ -1,5 +1,3 @@
-###DEC-047143-0-000-27-10-1959@@@
-
 decreto nº 47.143, de 27 de outubro de 1959.
 
 Autoriza o cidadão brasileiro Antônio Alves da Rocha a pesquisar mica e pedras coradas no município de Galiléia, Estado de Minas Gerais.

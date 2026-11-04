@@ -1,7 +1,3 @@
-1
-
-###DEC-098437-0-000-23-11-1989@@@
-
 DECRETO Nº 98.437, DE 23 DE NOVEMBRO DE 1989
 
 Homologa a demarcação administrativa da Área Indígena Parí-Cachoeira I, no Estado do Amazonas.

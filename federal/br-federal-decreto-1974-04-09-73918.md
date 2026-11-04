@@ -1,5 +1,3 @@
-###DEC-073918-0-000-09-04-1974@@@
-
 DECRETO Nº 73.918, DE 9 DE ABRIL DE 1974.
 
 Transfere, com os respectivos cargos, funcionários de Quadro em extinção da antiga autarquia Instituto Brasileiro de Geografia e Estatística, atual Fundação IBGE.

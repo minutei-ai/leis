@@ -1,6 +1,10 @@
 > **LEI Nº 3.821, DE 03 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Disponibiliza interprete de Língua Brasileira de Sinais – LIBRAS, para atendimento nos órgãos e entidades da administração pública que presta atendimento à população.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Disponibiliza interprete de Língua Brasileira de Sinais – LIBRAS, para atendimento nos órgãos e entidades da administração pública que presta atendimento à população.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

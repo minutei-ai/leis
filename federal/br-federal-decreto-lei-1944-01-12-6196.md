@@ -1,5 +1,3 @@
-###DEL-006196-0-000-12-01-1944@@@
-
 DECRETO-LEI N. 6.196 – DE 12 JANEIRO DE 1944
 
 Cria função gratificada no Ministério da Educação e Saúde, e dá outras providências

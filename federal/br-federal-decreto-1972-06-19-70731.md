@@ -1,5 +1,3 @@
-###DEC-070731-0-000-19-06-1972@@@
-
 DECRETO Nº 70.731, DE 19 DE JUNHO DE 1972.
 
 Dispõe sobre a vinculação de entidades da Administração Indireta do Ministério da Aeronáutica.

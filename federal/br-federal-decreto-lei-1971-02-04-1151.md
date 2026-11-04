@@ -1,5 +1,3 @@
-###DEL-001151-0-000-04-02-1971@@@
-
 # DECRETO-LEI Nº 1.151, DE 4 DE FEVEREIRO DE 1971
 
 Autoriza o Poder Executivo a desapropriar área de terra que menciona, de propriedade da Prefeitura Municipal de Teresina, Estado do Piauí.

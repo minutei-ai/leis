@@ -1,5 +1,3 @@
-###DEL-003028-0-000-06-02-1941@@@
-
 DECRETO-LEI N. 3.028 - DE 6 DE FEVEREIRO DE 1941
 
 Eleva as pensões deixadas pelo Tenente-coronel do Exército Antônio Basílio da Fonseca

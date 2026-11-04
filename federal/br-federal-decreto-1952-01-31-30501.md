@@ -1,22 +1,20 @@
-###DEC-030501-0-000-31-01-1952@@@
+**DECRETO Nº 30.501, 31 DE JANEIRO DE 1952.**
 
-<strong>DECRETO Nº 30.501, 31 DE JANEIRO DE 1952.</strong>
+***Outorga à Prefeitura Municipal de Juiz de Fora concessão para aproveitamento de energia hidráulica de um desnível no ribeirão do Espirito Santo, distrito de Ibitiguaia, município de Juiz de Fora, Estado de Minas Gerais.***
 
-<em><strong>Outorga à Prefeitura Municipal de Juiz de Fora concessão para aproveitamento de energia hidráulica de um desnível no ribeirão do Espirito Santo, distrito de Ibitiguaia, município de Juiz de Fora, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de junho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de junho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É outorgada à Prefeitura Municipal de Juiz de Fora concessão para o aproveitamento de energia hidráulica de um desnível existente no ribeirão do Espírito Santo, distrito de Ibitiguaia, município de Juiz de Fora, Estado de Minas Gerais.
+**Art**. 1º É outorgada à Prefeitura Municipal de Juiz de Fora concessão para o aproveitamento de energia hidráulica de um desnível existente no ribeirão do Espírito Santo, distrito de Ibitiguaia, município de Juiz de Fora, Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, no ato de aprovação dos projetos, serão determinadas a altura de quéda a aproveitar, a descarga de derivação e a potência.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviço público, de utilidade pública e para comércio de energia no distrito de Ibitiguaia, município de Juiz de Fora, Estado de Minas Gerais.
 
-<strong>Art</strong>. 2º Fica excluído da zona de concessão da Companhia Mineira de Eletricidade o distrito de Ibitiguaia, município de Juiz de Fora, Estado de Minas Gerais.
+**Art**. 2º Fica excluído da zona de concessão da Companhia Mineira de Eletricidade o distrito de Ibitiguaia, município de Juiz de Fora, Estado de Minas Gerais.
 
-<strong>Art</strong>. 3º Caducará o presente título, independente de ato declaratório se a concessionária não satisfazer as condições seguintes:
+**Art**. 3º Caducará o presente título, independente de ato declaratório se a concessionária não satisfazer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -98,30 +96,30 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas as instalações necessárias às observações fluviométricas e medições de descarga do curso d'água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 4º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas as instalações necessárias às observações fluviométricas e medições de descarga do curso d'água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 5º O capital a remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 5º O capital a remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 6º As tarifas do fornecimento de energia serão fixadas e treinalmente revistas pelo Ministério da Agricultura.
+**Art**. 6º As tarifas do fornecimento de energia serão fixadas e treinalmente revistas pelo Ministério da Agricultura.
 
-<strong>Art</strong>. 7º Para a manutenção da integridade do capital a que se refere o art. 5º será criado um fundo de reserva que poderá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 7º Para a manutenção da integridade do capital a que se refere o art. 5º será criado um fundo de reserva que poderá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por cota especial, que incidirá sôbre as tarifas, sob forma de percentagem. Esta cota será determinada tendo-se em vista a duração a dita reserva terá que atender, podendo ser modificada, treinalmente, na época de revisão das tarifas.
 
-<strong>Art</strong>. 8º Ficando o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente de produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado de Minas Gerais, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 7º.
+**Art**. 8º Ficando o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente de produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado de Minas Gerais, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 7º.
 
 § 1º A concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipuladas, desde que faça a prova de que o Estado de Minas Gerais não se opõe à utilização dos bens objeto da reversão.
 
 § 2º A concessionária deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendendo-se, o não fazer, que não pretende a renovação.
 
-<strong>Art</strong>. 9º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 9º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 10. O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 10. O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 11. Revogam-se as disposições em contrário.
+**Art**. 11. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 31 de janeiro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

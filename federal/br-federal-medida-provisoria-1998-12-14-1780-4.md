@@ -1,5 +1,3 @@
-###MPV-001780-0-004-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.780-4, DE 14 DE DEZEMBRO DE 1998.
 
 Altera a redação do art. 34 da Lei nº 6.368, de 21 de outubro de 1976, que dispõe sobre medidas de prevenção e repressão ao tráfico ilícito e uso indevido de substâncias entorpecentes ou que determinem dependência física ou psíquica.

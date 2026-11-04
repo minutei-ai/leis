@@ -1,5 +1,3 @@
-###DEC-046714-0-000-25-08-1959@@@
-
 DECRETO Nº 46.714, de 25 de agôsto de 1959.
 
 Concede reconhecimento a cursos de escola de ensino industrial.

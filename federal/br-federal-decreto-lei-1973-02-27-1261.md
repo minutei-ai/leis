@@ -1,5 +1,3 @@
-###DEL-001261-0-000-27-02-1973@@@
-
 DECRETO-LEI N. 1.261 – DE 27 DE FEVEREIRO DE 1973
 
 Concede aumento de vencimentos aos funcionários dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal e dá outras providências.

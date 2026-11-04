@@ -1,5 +1,3 @@
-###DEL-005295-0-000-02-03-1943@@@
-
 DECRETO‑LEI N. 5.295 – De 2 DE MARÇO DE 1943
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de Cr$ 23.212,00, para pagamento das vantagens (Pessoal) que indica

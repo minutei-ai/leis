@@ -1,5 +1,3 @@
-###DEC-092427-0-000-25-02-1986@@@
-
 DECRETO Nº 92.427, DE 25 DE FEVEREIRO DE 1986
 
 Autoriza o THE FIRST NATIONAL BANK OF BOSTON a instalar mais cinco filiais no País.

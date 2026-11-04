@@ -1,5 +1,3 @@
-###DEL-008052-0-000-08-10-1945@@@
-
 DECRETO-LEI N. 8.052 – DE 8 DE OUTUBRO DE 1945
 
 Altera um . dispositivo do Decreto-lei nº 7.709, de 5 de julho de 1945.

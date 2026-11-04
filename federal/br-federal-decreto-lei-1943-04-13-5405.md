@@ -1,5 +1,3 @@
-###DEL-005405-0-000-13-04-1943@@@
-
 DECRETO‑LEI N. 5.405 – DE 13 DE ABRIL DE 1943
 
 Regulamenta, o decreto‑lei n. 3.326, de 3 de junho de 1941, consolida as dispo­sições regulamentares relativas ao transporte de correspondência e malas postais e dá outras providências.

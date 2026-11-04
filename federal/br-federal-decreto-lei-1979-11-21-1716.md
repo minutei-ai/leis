@@ -1,5 +1,3 @@
-###DEL-001716-0-000-22-11-1979@@@
-
 # DECRETO-LEI Nº 1.716, DE 21 DE NOVEMBRO DE 1979
 
 Dá nova redação a dispositivos da Lei nº 5.619, de 03 de novembro de 1970 e Lei nº 5.906, de 23 de julho de 1973, alteradas pelo Decreto-Lei nº 1.618, de 03 de março de 1978.

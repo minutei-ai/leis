@@ -1,5 +1,3 @@
-###DEC-054079-0-000-31-07-1964@@@
-
 DECRETO Nº 54.079, DE 31 DE JULHO DE 1964.
 
 Aprova a revisão dos Quadros do Instituto Brasileiro do Sal e do Hospital Francisco Menescal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004686-0-000-12-09-1942@@@
-
 DECRETO-LEI N. 4.686 – DE 12 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Guerra o crédito suplementar de 8.500:000$0, à verba que especifica

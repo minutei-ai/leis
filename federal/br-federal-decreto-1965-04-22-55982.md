@@ -1,5 +1,3 @@
-###DEC-055982-0-000-22-04-1965@@@
-
 DECRETO Nº 55.982, DE 22 DE ABRIL DE 1965.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 40.535, de 11 de dezembro de 1956, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do açude público “Coração de Jesus”, no Município de Coração de Jesus, Estado de Minas Gerais.

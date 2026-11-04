@@ -1,5 +1,3 @@
-###DEL-004092-0-000-05-02-1942@@@
-
 DECRETO-LEI N. 4.092 – DE 5 DE FEVEREIRO DE 1942
 
 Autoriza a reunião, na cidade de Goiânia, em julho do corrente ano, das Assembléias Gerais dos Conselhos Nacionais de Geografia e de Estatística

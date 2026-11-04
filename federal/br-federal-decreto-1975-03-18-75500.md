@@ -1,5 +1,3 @@
-###DEC-075500-0-000-18-03-1975@@@
-
 DECRETO Nº 75.500, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Econômicas do Instituto Superior de Ciências Aplicadas, com sede na Cidade de Limeira, Estado de São Paulo.

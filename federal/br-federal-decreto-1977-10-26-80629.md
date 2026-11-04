@@ -1,5 +1,3 @@
-###DEC-080629-0-000-26-10-1977@@@
-
 DECRETO Nº 80.629, DE 26 DE OUTUBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou instituição de servidão de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis, constituídos de terras e benfeitorias, necessários à pesquisa e lavra de petróleo, situados na Bacia Sedimentar, no Estado de Alagoas.

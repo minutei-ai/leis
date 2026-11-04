@@ -1,5 +1,3 @@
-###DEL-006114-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.114 – DE 16 DE DEZEMBRO DE 1943
 
 Determina a incorporação ao Fundo de Indenizações dos bens que menciona, e dá outras providências

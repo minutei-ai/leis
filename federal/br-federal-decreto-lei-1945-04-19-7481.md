@@ -1,5 +1,3 @@
-###DEL-007481-0-000-19-04-1945@@@
-
 DECRETO-LEI N. 7.481 – DE 19 DE ABRIL DE 1945
 
 Manda aplicar ao Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas dispositivos constantes do Regulamento aprovado pelo Decreto nº 5.493, de 9 de abril de 1940

@@ -1,5 +1,3 @@
-###DEC-052860-0-000-18-11-1963@@@
-
 Decreto nº 52.860, de 18 de novembro de 1963.
 
 Declara públicas, de uso comum, as águas de diversos cursos dágua.
@@ -55,8 +53,6 @@ Brasília, 18 de novembro de 1963, 142º da Independência e 15º da República.
 João Goulart
 
 Antonio de Oliveira Brito
-
-###DEC-052860-0-000-18-11-1963@@@RET01+++
 
 DECRETO Nº 52.860, DE 18 DE NOVEMBRO DE 1963.
 

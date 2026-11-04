@@ -1,5 +1,3 @@
-###DEC-006250-0-000-06-11-2007@@@
-
 DECRETO Nº 6.250, DE 6 DE NOVEMBRO DE 2007.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Francesa, relativo à Construção de uma Ponte Rodoviária sobre o Rio Oiapoque ligando a Guiana Francesa e o Estado do Amapá, celebrado em Paris, em 15 de julho de 2005, e sua Emenda de 21 de outubro de 2005.
@@ -24,11 +22,7 @@ Brasília, 6 de novembro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 7.11.2007
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA FRANCESA,
+Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA FRANCESA,
 
 RELATIVO À CONSTRUÇÃO DE UMA PONTE RODOVIÁRIA SOBRE O RIO OIAPOQUE LIGANDO A GUIANA FRANCESA E O ESTADO DO AMAPÁ
 

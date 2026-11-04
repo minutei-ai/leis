@@ -1,5 +1,3 @@
-###DEC-052886-0-000-20-11-1963@@@
-
 DECRETO nº 52.886, DE 20 DE NOVEMBRO DE 1963.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$826.200,00 (oitocentos e vinte e seis mil e duzentos cruzeiros), para o fim que especifica e torna sem efeito o Decreto nº 52.298, de 1963.

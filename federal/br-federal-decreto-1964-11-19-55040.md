@@ -1,5 +1,3 @@
-###DEC-055040-0-000-19-11-1964@@@
-
 DECRETO 55.040, DE 19 DE NOVEMBRO DE 1964.
 
 Autoriza o Serviço do patrimônio da União a aceitar a doação do terreno que menciona, no Estado do Paraná.

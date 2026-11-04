@@ -1,5 +1,3 @@
-###DEC-005387-0-000-07-03-2005@@@
-
 DECRETO Nº 5.387 DE 7 DE MARÇO DE 2005
 
 Acrescenta dispositivo ao art. 3º do Decreto nº 5.244, de 14 de outubro de 2004, que dispõe sobre a composição e funcionamento do Conselho Nacional de Combate à Pirataria e Delitos contra a Propriedade Intelectual.

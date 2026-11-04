@@ -1,7 +1,3 @@
-1
-
-###DEC-099183-0-000-15-03-1990@@@
-
 DECRETO N° 99.183, DE 15 DE MARÇO DE 1990
 
 Dispõe sobre a legislação relativa à contenção de despesas na Administração Pública Federal, e dá outras providências.

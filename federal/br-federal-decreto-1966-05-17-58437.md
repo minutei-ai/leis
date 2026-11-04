@@ -1,5 +1,3 @@
-###DEC-058437-0-000-17-05-1966@@@
-
 DECRETO Nº 58.437, DE 17 DE MAIO DE 1966.
 
 Declara caduco o Decreto nº 15.048, de 15 de março de 1944.

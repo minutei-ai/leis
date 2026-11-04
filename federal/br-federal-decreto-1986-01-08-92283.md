@@ -1,5 +1,3 @@
-###DEC-092283-0-000-08-01-1986@@@
-
 DECRETO Nº 92.283, DE 08 DE JANEIRO DE 1986
 
 Autoriza a Empresa Champion Papel e Celulose S/A com sede no Município de Mogi Guaçu, Estado de São Paulo, a utilizar o trabalho noturno da mulher maior de dezoito anos, e dá outras providências.

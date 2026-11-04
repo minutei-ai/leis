@@ -1,5 +1,3 @@
-###DEC-083786-0-000-30-07-1979@@@
-
 decreto nº 83.786, de 30 de julho de 1979
 
 Dá nova redação ao artigo 2º do Decreto nº 83.355, de 20 de abril de 1979.

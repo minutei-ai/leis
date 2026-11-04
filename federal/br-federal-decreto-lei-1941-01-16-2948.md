@@ -1,5 +1,3 @@
-###DEL-002948-0-000-16-01-1941@@@
-
 DECRETO-LEI N. 2.948 – DE 16 DE JANEIRO DE 1941
 
 Concede uma pensão especial à filha do Capitão do Exército José Teotônio de Macedo

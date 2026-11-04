@@ -1,5 +1,3 @@
-###DEC-055367-0-000-31-12-1964@@@
-
 DECRETO Nº 55.367, DE 31 DE DEZEMBRO DE 1964.
 
 Concede à sociedade anônima Banc Of London & South América Limited autorização para aumentar o seu capital no País.

@@ -1,5 +1,3 @@
-###DEC-082951-0-000-27-12-1978@@@
-
 DECRETO Nº 82.951, DE 27 DE DEZEMBRO DE 1978
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

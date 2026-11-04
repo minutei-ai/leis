@@ -1,7 +1,3 @@
-1
-
-###DEC-099463-0-000-16-08-1990@@@
-
 DECRETO Nº 99.463, DE 16 DE AGOSTO DE 1990
 
 Regulamenta a Lei nº 8.031, de 12 de abril de 1990, que cria o Programa Nacional de Desestatização e dá outras providencias.

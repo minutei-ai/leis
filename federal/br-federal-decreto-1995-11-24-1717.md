@@ -1,7 +1,3 @@
-1
-
-###DEC-001717-0-000-24-11-1995@@@
-
 DECRETO N° 1.717, DE 24 DE NOVEMBRO DE 1995.
 
 Estabelece procedimentos para prorrogação das concessões dos serviços públicos de energia elétrica de que trata a Lei n° 9.074, de 7 de julho de 1995, e dá outras providências.

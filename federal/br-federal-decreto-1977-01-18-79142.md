@@ -1,5 +1,3 @@
-###DEC-079142-0-000-18-01-1977@@@
-
 DECRETO Nº 79.142, DE 18 DE JANEIRO DE 1977.
 
 Concede reconhecimento aos cursos de Engenharia Civil e de Engenharia de Operação da Faculdade de Engenharia Civil e Industrial de Itatiba, com sede na cidade de Itatiba, Estado de São Paulo.

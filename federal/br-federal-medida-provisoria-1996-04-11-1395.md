@@ -1,7 +1,3 @@
-1
-
-###MPV-001395-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.395, DE 11 DE ABRIL DE 1996.
 
 Dispõe sobre a base de cálculo da Contribuição para o Programa de Integração Social - PIS devida pelas pessoas jurídicas a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, e dá outras providências.

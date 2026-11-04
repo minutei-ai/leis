@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/196302)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2020/compilacao-lei-17301-01.12.2020.html)
 
 # LEI N° 17.301, DE 01 DE DEZEMBRO DE 2020

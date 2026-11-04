@@ -1,20 +1,18 @@
-###DEC-045360-0-000-28-01-1959@@@
+**DECRETO Nº 45.360, DE 28 DE JANEIRO DE 1959.**
 
-<strong>DECRETO Nº 45.360, DE 28 DE JANEIRO DE 1959.</strong>
+***Dispõe sôbre a aplicação da Lei nº 3.483, de 8 de dezembro de 1958, que equiparou pessoal da União e das autarquias Federais à categoria de extranumerários-mensalistas, e dá outras providências.***
 
-<em><strong>Dispõe sôbre a aplicação da Lei nº 3.483, de 8 de dezembro de 1958, que equiparou pessoal da União e das autarquias Federais à categoria de extranumerários-mensalistas, e dá outras providências.</strong></em>
+**PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I da Constituição,
 
-<strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os empregados admitidos à conta de dotações constantes das verbas 1.0.00 - Custeio, consignação 1.6.00 - Encargos Diversos, 3.0.00 - Desenvolvimento Econômico e Social, consignação 3.1.00 - Serviços em Regime Especial de Financiamento, 4.0.00 - Investimentos, consignação 4.1.00 - Obras ficam equiparados aos extranumerários mensalistas da União, desde que contem ou venham a contar 5 (cinco) anos de efetivo exercício.
+**Art**. 1º Os empregados admitidos à conta de dotações constantes das verbas 1.0.00 - Custeio, consignação 1.6.00 - Encargos Diversos, 3.0.00 - Desenvolvimento Econômico e Social, consignação 3.1.00 - Serviços em Regime Especial de Financiamento, 4.0.00 - Investimentos, consignação 4.1.00 - Obras ficam equiparados aos extranumerários mensalistas da União, desde que contem ou venham a contar 5 (cinco) anos de efetivo exercício.
 
 § 1º para os efeitos dêste artigo, considera-se exercício o tempo de serviço contínuo prestado ao mesmo emprêgo retribuído por quaisquer das dotações discriminadas neste artigo.
 
 § 2º Na aplicação dêste artigo, quanto às autarquias, será observado o disposto no artigo 6º do Decreto nº 43.925, de 26 de junho de 1958.
 
-<strong>Art</strong>. 2º O disposto no artigo anterior não se aplica:
+**Art**. 2º O disposto no artigo anterior não se aplica:
 
 I - aos empregados admitidos em organismos mistos de cooperação internacional;
 
@@ -60,23 +58,23 @@ IV - ao que prestam serviços contra pagamento mediante recibo.
 
 § 3º Caberá ao Departamento Administrativo do Serviço Público determinar em cada caso os demais fundos especiais e organismos de cooperação internacional, mediante iniciativa do órgão interessado.
 
-<strong>Art</strong>. 3º Compete, sob pena de responsabilidade, aos órgãos de pessoal dos Ministérios, órgãos diretamente subordinados ao Presidente da República e das autarquias apurar o tempo de exercício, na forma do art. 1º, dos amparados por êste decreto.
+**Art**. 3º Compete, sob pena de responsabilidade, aos órgãos de pessoal dos Ministérios, órgãos diretamente subordinados ao Presidente da República e das autarquias apurar o tempo de exercício, na forma do art. 1º, dos amparados por êste decreto.
 
 § 1º Preenchidos os requisitos estabelecidos no art. 1º dêste decreto, serão expedidas, pelos dirigentes dos órgãos de pessoal referido neste artigo, portarias declaratórias da nova situação aos empregados equiparados, conforme môdelo aprovado.
 
-§ 2º As portarias dos empregados equiparados, com os respectivos salários e denominação do emprêgo, serão publicadas no <em>Diário Oficial</em> ou, em se tratando de autarquia, no respectivo Boletim do Pessoal, instituído no art. 1º do Decreto nº 48.925, de 26 de junho de 1958.
+§ 2º As portarias dos empregados equiparados, com os respectivos salários e denominação do emprêgo, serão publicadas no *Diário Oficial* ou, em se tratando de autarquia, no respectivo Boletim do Pessoal, instituído no art. 1º do Decreto nº 48.925, de 26 de junho de 1958.
 
 § 3º Os empregados equiparados, ficam obrigados a apresentar, no prazo de 30 (trinta) dias, a contar da publicação da respectiva portaria, declaração de acumulação de cargos, nos têrmos do Decreto nº 35.956, de 2 de agôsto de 1954.
 
-<strong>Art</strong>. 4º É vedado admitir empregados à conta de dotação global, recurso próprio de obra ou serviço, ou fundo especial, sob pena de nulidade de pleno direito de ato e de responsabilidade de administrador que o praticar.
+**Art**. 4º É vedado admitir empregados à conta de dotação global, recurso próprio de obra ou serviço, ou fundo especial, sob pena de nulidade de pleno direito de ato e de responsabilidade de administrador que o praticar.
 
 Parágrafo único. Não se inclui nessa proibição o pagamento de salário de mão-de-obra, honorários de professôres e examinadores, retribuições por serviços diversos pagos mediante recibo, bem como outros de caráter eventual, todos de natureza temporária ou esporádica e que não justifica a criação de emprêgo.
 
-<strong>Art</strong>. 5º O pessoal de obras, destinado à execução de trabalho de natureza caracterìsticamente temporária, ficará sujeito ao regime previsto na Consolidação das Leis do Trabalho, inclusive para efeito de estabilidade no respectivo emprêgo.
+**Art**. 5º O pessoal de obras, destinado à execução de trabalho de natureza caracterìsticamente temporária, ficará sujeito ao regime previsto na Consolidação das Leis do Trabalho, inclusive para efeito de estabilidade no respectivo emprêgo.
 
 Parágrafo único. Será competente a Justiça do Trabalho para conhecer dos litígios, suscitados entre a União e o pessoal de que trata êste artigo.
 
-<strong>Art</strong>. 6º Poderão ser preenchidas, por admissão, mediante a prévia habilitação em prova pública realizada pelo Departamento Administrativo de Serviço Público, as vagas de referência inicial ou única de extranumerário-mensalista de natureza permanente, vedadas as admissões em caráter provisório.
+**Art**. 6º Poderão ser preenchidas, por admissão, mediante a prévia habilitação em prova pública realizada pelo Departamento Administrativo de Serviço Público, as vagas de referência inicial ou única de extranumerário-mensalista de natureza permanente, vedadas as admissões em caráter provisório.
 
 § 1º As propostas relativas a essas admissões serão examinadas pelo Departamento Administrativo do Serviço Público, que as submeterá, em seguida, com parecer, à apreciação do Presidente da República.
 
@@ -88,9 +86,9 @@ Parágrafo único. Será competente a Justiça do Trabalho para conhecer dos lit
 
 § 5º Respeitadas a inscrição específica e a classificação própria, poderão ser realizadas, a critério da Divisão de Seleção e Aperfeiçoamento do Departamento Administrativo do Serviço Público, provas e exames conjuntos na hipótese de realização simultânea de prova de habilitação para preenchimento de funções de denominação idêntica pertencentes à administração centralizada ou descentralizada.
 
-<strong>Art</strong>. 7º Os extranumerários-contratados e tarefeiros, cujas funções forem declaradas permanentes na forma do disposto no § 2º do art. 2º da Lei nº 2.284, de 9 de agôsto de 1954, uma vez equiparados a funcionários, passarão à categoria de extranumerário-mensalista.
+**Art**. 7º Os extranumerários-contratados e tarefeiros, cujas funções forem declaradas permanentes na forma do disposto no § 2º do art. 2º da Lei nº 2.284, de 9 de agôsto de 1954, uma vez equiparados a funcionários, passarão à categoria de extranumerário-mensalista.
 
-<strong>Art</strong>. 8º Os órgãos de administração direta ou autárquica, no prazo de 30 (trinta) dias, a contar da vigência dêste Decreto, ou da publicação da respectiva portaria declaratória, encaminharão ao Departamento Administrativo do Serviço Público a proposta da criação de funções de extranumerário-mensalista a fim de atender ao estabelecido no artigo anterior.
+**Art**. 8º Os órgãos de administração direta ou autárquica, no prazo de 30 (trinta) dias, a contar da vigência dêste Decreto, ou da publicação da respectiva portaria declaratória, encaminharão ao Departamento Administrativo do Serviço Público a proposta da criação de funções de extranumerário-mensalista a fim de atender ao estabelecido no artigo anterior.
 
 Parágrafo único. A criação de funções de extranumerário-mensalista, para a transformação dos contratados e tarefeiros equiparados obedecerá às seguintes normas:
 
@@ -104,19 +102,19 @@ d) quando o salário atualmente percebido pelo servidor não corresponder exatam
 
 e) as funções de natureza braçal ou sulbaterna serão, de preferência, incluídas em tabelas especiais.
 
-<strong>Art</strong>. 9º Compete ao Departamento Administrativo do Serviço Público (DASP) orientar e controlar a execução dêste decreto.
+**Art**. 9º Compete ao Departamento Administrativo do Serviço Público (DASP) orientar e controlar a execução dêste decreto.
 
-<strong>Art</strong>. 10. O pessoal beneficiado pela Lei nº 3.483, de 1958, ressalvados os segurados das próprias autarquias, passará à condição de contribuinte obrigatório do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE), ao qual competirá providenciar, <em>ex-offício</em>, a transferências das reservas das contribuições respectivas.
+**Art**. 10. O pessoal beneficiado pela Lei nº 3.483, de 1958, ressalvados os segurados das próprias autarquias, passará à condição de contribuinte obrigatório do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE), ao qual competirá providenciar, *ex-offício*, a transferências das reservas das contribuições respectivas.
 
-<strong>Art</strong>. 11. Aplica-se o disposto neste Decreto ao pessoal da autarquias federais.
+**Art**. 11. Aplica-se o disposto neste Decreto ao pessoal da autarquias federais.
 
-<strong>Art</strong>. 12. Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 12. Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 13. Revogam-se as disposições em contrário.
+**Art**. 13. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 28 de janeiro de 1959; 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Cyrillo Júnior
 

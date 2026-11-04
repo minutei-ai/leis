@@ -1,5 +1,3 @@
-###DEC-070401-0-000-13-04-1972@@@
-
 DECRETO Nº 70.401, DE 13 DE ABRIL DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra, sem benfeitorias, destinada à ampliação do Almoxarifado da Companhia Telefônica Brasileira, na Vila São Bernardo, Cidade de Campinas, Estado de São Paulo.

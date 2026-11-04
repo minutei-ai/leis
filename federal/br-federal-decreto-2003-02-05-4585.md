@@ -1,5 +1,3 @@
-###DEC-004585-0-000-05-02-2003@@@
-
 DECRETO Nº 4.585, DE 5 DE FEVEREIRO DE 2003.
 
        Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Complementação Econômica no 43, entre os Governos da República Federativa do Brasil e da República de Cuba, de 16 de dezembro de 2002.
@@ -20,11 +18,14 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 5 de fevereiro de 2003; 182~~º~~ da Independência e 115~~º~~ da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim
 
-  ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 43<br>
-CELEBRADO ENTRE A REPÚBLICA DE CUBA E<br>
+  ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 43
+
+CELEBRADO ENTRE A REPÚBLICA DE CUBA E
+
 A REPÚBLICA FEDERATIVA DO BRASIL
 
 Segundo Protocolo Adicional
@@ -45,8 +46,10 @@ A Secretaria-Geral da ALADI será depositária do presente Protocolo, do qual en
 
 EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos dezesseis dias do mês de dezembro de dois mil e dois, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-Pelo Governo da República Federativa do Brasil<br>
+Pelo Governo da República Federativa do Brasil
+
 Bernardo Pericás Neto
 
-Pelo Governo da República de Cuba<br>
+Pelo Governo da República de Cuba
+
 José Felipe Chaple

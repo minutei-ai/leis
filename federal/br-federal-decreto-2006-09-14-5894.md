@@ -1,5 +1,3 @@
-###DEC-005894-0-000-14-09-2006@@@
-
 DECRETO Nº 5.894, DE 14 DE SETEMBRO DE 2006.
 
 Promulga o Acordo-Quadro entre o Governo da República Federativa do Brasil e o Governo da Ucrânia sobre Cooperação nos Usos Pacíficos do Espaço Exterior, celebrado em Kiev, 18 de novembro de 1999.
@@ -24,11 +22,7 @@ Brasília, 14 de setembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-      Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 15.9.2006.
-
-ACORDO-QUADRO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO
+      Celso Luiz Nunes AmorimACORDO-QUADRO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO
 
 BRASIL E O GOVERNO DA UCRÂNIA SOBRE A COOPERAÇÃO
 

@@ -1,5 +1,3 @@
-###DEL-008784-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.784 – DE 22 DE JANEIRO DE 1946
 
 Cria função gratificada no Quadro Permanente do Ministério da Aeronáutica, e dá outras providências.

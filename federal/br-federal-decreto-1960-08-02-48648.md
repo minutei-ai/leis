@@ -1,5 +1,3 @@
-###DEC-048648-0-000-02-08-1960@@@
-
 Decreto nº 48.648, de 2 de agôsto de 1960.
 
 Autoriza a cessão gratuita do terreno que menciona, situado no Estado da Guanabara.

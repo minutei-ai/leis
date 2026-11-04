@@ -1,5 +1,3 @@
-###DEC-077808-0-000-10-06-1976@@@
-
 DECRETO Nº 77.808, DE 10 DE JUNHO DE 1976.
 
 Concede autorização à empresa Western Geophisical of America para operar no mar territorial do Brasil a embarcação "M/V Bayou Chico", de nacionalidade norte-americana, a serviço da Petróleo Brasileiro S.A - PETROBRÁS.

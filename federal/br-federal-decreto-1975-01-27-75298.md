@@ -1,5 +1,3 @@
-###DEC-075298-0-000-27-01-1975@@@
-
 DECRETO Nº 75.298, DE 27 DE JANEIRO DE 1975.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Econômicas, Contábeis e Administrativas de Visconde do Rio Branco, Minas Gerais, mantida pela Fundação "Presidente Antônio Carlos", com sede na cidade de Barbacena, Estado de Minas Gerais.

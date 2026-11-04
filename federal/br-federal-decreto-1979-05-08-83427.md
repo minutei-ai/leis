@@ -1,5 +1,3 @@
-###DEC-083427-0-000-08-05-1979@@@
-
 Decreto nº 83.427, de 08 de maio de 1979.
 
 Autoriza a contratação de operação de crédito externo complementar, para os projetos de Água Vermelha e Ilha Solteira.

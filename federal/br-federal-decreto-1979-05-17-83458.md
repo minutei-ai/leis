@@ -1,5 +1,3 @@
-###DEC-083458-0-000-17-05-1979@@@
-
 Decreto nº 83.458, de 17 de maio de1979.
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Formação de Professores de Vitória da Conquista, com sede na cidade de Vitória da Conquista, Estado da Bahia.

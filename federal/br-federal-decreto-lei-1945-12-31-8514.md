@@ -1,5 +1,3 @@
-###DEL-008514-0-000-31-12-1945@@@
-
 DECRETO-LEI n. 8.514 – DE 31 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a vigência do Decreto-lei 8.397, de 18 de dezembro de 1945, e dá outras providências.

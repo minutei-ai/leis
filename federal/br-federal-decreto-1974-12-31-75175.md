@@ -1,5 +1,3 @@
-###DEC-075175-0-000-31-12-1974@@@
-
 Decreto nº 75.175, de 31 de dezembro de 1974.
 
 Concede à Indústria de Calcáreo Itá Ltda. o direito de lavrar calcário dolomítico no Município de Tietê, Estado de São Paulo.

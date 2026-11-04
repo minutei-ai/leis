@@ -1,5 +1,3 @@
-###DEL-002156-0-000-13-08-1984@@@
-
 # DECRETO-LEI nº 2.156, DE 13 AGOSTO DE 1984.
 
 Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências.

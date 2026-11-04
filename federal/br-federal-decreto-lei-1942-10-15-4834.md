@@ -1,5 +1,3 @@
-###DEL-004834-0-000-15-10-1942@@@
-
 DECRETO-LEI N. 4.834 – DE 15 de OUTUBRO DE 1942
 
 Corrige a redação da nota de. 51 ao artigo 245, da Tarifa em vigor

@@ -1,7 +1,3 @@
-1
-
-###LCP-000018-0-000-10-05-1974@@@
-
 # LEI COMPlementar Nº 18, De 10 DE MAIO DE 1974
 
 Estabelece prazo de desincompatibilização para as eleições fixadas na Emenda Constitucional nº 2 e altera dispositivo da Lei Complementar nº 5.

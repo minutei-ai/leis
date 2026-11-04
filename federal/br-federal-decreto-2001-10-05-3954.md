@@ -1,5 +1,3 @@
-###DEC-003954-0-000-05-10-2001@@@
-
 DECRETO Nº 3.954, DE 5 DE OUTUBRO DE 2001
 
 Altera dispositivo do Decreto nº 60.521, de 31 de março de 1967, que estabelece a Estrutura Básica da Organização do Comando da Aeronáutica, e dá outras providências.

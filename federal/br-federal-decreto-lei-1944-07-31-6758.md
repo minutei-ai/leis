@@ -1,5 +1,3 @@
-###DEL-006758-0-000-31-07-1944@@@
-
 dECRETO-LEI N. 6.758 – DE 31 DE JULHO DE 1944
 
 Dispõe sôbre a chefia das Delegações da Contrôle junto às entidades autárquicas

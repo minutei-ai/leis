@@ -1,5 +1,3 @@
-###DEC-005723-0-000-16-03-2006@@@
-
 DECRETO Nº 5.723, DE 16 DE MARÇO DE 2006.
 
 Dá nova redação ao art. 6o do Estatuto Social da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS, aprovado pelo Decreto nº 4.559, de 30 de dezembro de 2002.

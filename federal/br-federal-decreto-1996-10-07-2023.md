@@ -1,7 +1,3 @@
-1
-
-###DEC-002023-0-000-07-10-1996@@@
-
 DECRETO Nº 2.023, DE 7 DE OUTUBRO DE 1996.
 
 Dispõe sobre a execução do Décimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica Nº 18, entre Brasil, Argentina, Paraguai e Uruguai, de 2 de agosto de 1996.

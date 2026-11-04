@@ -112,8 +112,6 @@ TÚLIO FREDERICO TENÓRIO VILAÇA RODRIGUES
 
 BIANCA FERREIRA TEIXEIRA
 
-<br>
-
 **ANEXO I**
 
 **Orçamento Fiscal 2025**
@@ -122,300 +120,163 @@ BIANCA FERREIRA TEIXEIRA
 
 RESUMO GERAL DA RECEITA                                                                                                                   Valores em R$ 1,00
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">E&nbsp;S&nbsp;P&nbsp;E&nbsp;C&nbsp;I&nbsp;F&nbsp;I&nbsp;C&nbsp;A&nbsp;Ç&nbsp;Ã&nbsp;O</span></p></td><td width="48%" valign="top" style="width:48.08%;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">VALOR</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="13%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">I&nbsp;-&nbsp;SOMA&nbsp;DAS&nbsp;RECEITAS&nbsp;CORRENTES</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">65.242.703.722</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt" width="13%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1.0.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">RECEITAS CORRENTES</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">62.379.446.200</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1.1.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Impostos, Taxas e Contribuições de Melhoria</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">34.660.330.500</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1.2.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Contribuições</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.573.337.000</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1.3.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Receita Patrimonial</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.054.220.000</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1.4.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Receita Agropecuária</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">789.100</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1.5.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Receita Industrial</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">402.200</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1.6.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Receita de Serviços</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">206.105.900</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1.7.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Transferências Correntes</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">22.599.158.400</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1.9.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Outras Receitas Correntes</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.285.103.100</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">7.0.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">RECEITAS CORRENTES - INTRAORÇAMENTÁRIAS</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.863.257.522</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">7.2.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Contribuições</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.061.944.600</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">7.6.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Receita de Serviços</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">801.312.922</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">II&nbsp;-&nbsp;SOMA&nbsp;DAS&nbsp;RECEITAS&nbsp;DE&nbsp;CAPITAL</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">4.983.531.600</span></p></td><td width="13%" style="width:13.6%;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">2.0.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">RECEITAS DE CAPITAL</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">4.983.531.600</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">2.1.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Operações de Crédito</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">3.474.909.000</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">2.2.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Alienação de Bens</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">22.327.600</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">2.3.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Amortização de Empréstimos</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">172.200</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">2.4.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Transferências de Capital</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.333.433.700</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">2.9.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Outras Receitas de Capital</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">150.684.100</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">8.0.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">RECEITAS DE CAPITAL - INTRAORÇAMENTÁRIAS</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.005.000</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">8.9.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Outras Receitas de Capital</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.005.000</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">III&nbsp;-&nbsp;DEDUÇÕES</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">-15.095.648.400</span></p></td><td width="13%" style="width:13.6%;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">9.0.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">RECEITAS CORRENTES - DEDUÇÃO</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">-15.095.648.400</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">9.1.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Impostos, Taxas e Contribuições de Melhoria</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">-12.315.584.600</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">9.7.0.0.00.0.0</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Transferências Correntes</span></p></td><td width="13%" valign="top" style="width:13.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">-2.780.063.800</span></p></td></tr><tr><td width="38%" valign="top" style="width:38.32%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">T&nbsp;O&nbsp;T&nbsp;A&nbsp;L</span></p></td><td width="48%" valign="top" style="width:48.08%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"></td><td width="13%" style="width:13.6%;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">55.130.586.922</span></p></td></tr></tbody></table>
+E S P E C I F I C A Ç Ã O
+
+VALOR
+
+I - SOMA DAS RECEITAS CORRENTES
+
+65.242.703.722
+
+1.0.0.0.00.0.0
+
+RECEITAS CORRENTES
+
+62.379.446.200
+
+1.1.0.0.00.0.0
+
+Impostos, Taxas e Contribuições de Melhoria
+
+34.660.330.500
+
+1.2.0.0.00.0.0
+
+Contribuições
+
+2.573.337.000
+
+1.3.0.0.00.0.0
+
+Receita Patrimonial
+
+1.054.220.000
+
+1.4.0.0.00.0.0
+
+Receita Agropecuária
+
+789.100
+
+1.5.0.0.00.0.0
+
+Receita Industrial
+
+402.200
+
+1.6.0.0.00.0.0
+
+Receita de Serviços
+
+206.105.900
+
+1.7.0.0.00.0.0
+
+Transferências Correntes
+
+22.599.158.400
+
+1.9.0.0.00.0.0
+
+Outras Receitas Correntes
+
+1.285.103.100
+
+7.0.0.0.00.0.0
+
+RECEITAS CORRENTES - INTRAORÇAMENTÁRIAS
+
+2.863.257.522
+
+7.2.0.0.00.0.0
+
+Contribuições
+
+2.061.944.600
+
+7.6.0.0.00.0.0
+
+Receita de Serviços
+
+801.312.922
+
+II - SOMA DAS RECEITAS DE CAPITAL
+
+4.983.531.600
+
+2.0.0.0.00.0.0
+
+RECEITAS DE CAPITAL
+
+4.983.531.600
+
+2.1.0.0.00.0.0
+
+Operações de Crédito
+
+3.474.909.000
+
+2.2.0.0.00.0.0
+
+Alienação de Bens
+
+22.327.600
+
+2.3.0.0.00.0.0
+
+Amortização de Empréstimos
+
+172.200
+
+2.4.0.0.00.0.0
+
+Transferências de Capital
+
+1.333.433.700
+
+2.9.0.0.00.0.0
+
+Outras Receitas de Capital
+
+150.684.100
+
+8.0.0.0.00.0.0
+
+RECEITAS DE CAPITAL - INTRAORÇAMENTÁRIAS
+
+2.005.000
+
+8.9.0.0.00.0.0
+
+Outras Receitas de Capital
+
+2.005.000
+
+III - DEDUÇÕES
+
+-15.095.648.400
+
+9.0.0.0.00.0.0
+
+RECEITAS CORRENTES - DEDUÇÃO
+
+-15.095.648.400
+
+9.1.0.0.00.0.0
+
+Impostos, Taxas e Contribuições de Melhoria
+
+-12.315.584.600
+
+9.7.0.0.00.0.0
+
+Transferências Correntes
+
+-2.780.063.800
+
+T O T A L
+
+55.130.586.922
 
 **ANEXO II**
 
@@ -423,653 +284,7 @@ RESUMO GERAL DA RECEITA                             
 
 **Recursos de Todas as Fontes**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="71%" colspan="7" style="width:71.88%;border:none;border-bottom:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DEMONSTRATIVO&nbsp;DA&nbsp;DESPESA&nbsp;SEGUNDO&nbsp;AS&nbsp;CATEGORIAS&nbsp;ECONÔMICAS&nbsp;POR&nbsp;FUNÇÃO</span></p></td><td width="20%" colspan="3" valign="top" style="width:20.24%;border:none;
-  border-bottom:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Valores&nbsp;em&nbsp;R$&nbsp;1,00</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="7%" colspan="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="33%" colspan="3" valign="top" style="width:33.4%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">E&nbsp;S&nbsp;P&nbsp;E&nbsp;C&nbsp;I&nbsp;F&nbsp;I&nbsp;C&nbsp;A&nbsp;Ç&nbsp;Ã&nbsp;O</span></p></td><td width="16%" valign="top" style="width:16.2%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">CORRENTE</span></p></td><td width="17%" colspan="2" valign="top" style="width:17.22%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">CAPITAL</span></p></td><td width="16%" colspan="2" style="width:16.18%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">RESERVA&nbsp;DE&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">CONTINGÊNCIA</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.22%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">T&nbsp;O&nbsp;T&nbsp;A&nbsp;L</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">01</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">LEGISLATIVA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.646.944.700</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">81.714.100</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.728.658.800</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">02</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">JUDICIÁRIA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">3.547.416.000</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">152.379.100</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">3.699.795.100</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">04</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">ADMINISTRAÇÃO</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.975.519.900</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">160.875.000</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.136.394.900</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">06</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SEGURANÇA PÚBLICA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">4.230.766.600</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">359.464.105</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">4.590.230.705</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">08</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">ASSISTÊNCIA SOCIAL</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">641.683.025</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">30.274.000</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">671.957.025</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">09</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">PREVIDÊNCIA SOCIAL</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">9.485.281.500</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">20.000</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">273.491.000</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">9.758.792.500</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">10</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SAÚDE</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">11.368.020.361</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">885.710.054</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">12.253.730.415</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">11</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TRABALHO</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">43.481.900</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">6.799.700</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">50.281.600</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">12</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">EDUCAÇÃO</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">7.596.455.700</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">909.887.000</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">8.506.342.700</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">13</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">CULTURA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">260.732.072</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">34.215.400</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">294.947.472</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">14</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DIREITOS DA CIDADANIA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.071.377.941</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">257.573.244</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.328.951.185</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">15</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">URBANISMO</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">528.471.300</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">468.177.900</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">996.649.200</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">16</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">HABITAÇÃO</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">87.899.100</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">497.198.100</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">585.097.200</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">17</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SANEAMENTO</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">82.300</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">404.366.400</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">404.448.700</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">18</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">GESTÃO AMBIENTAL</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">171.807.700</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">363.814.500</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">535.622.200</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">19</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">CIÊNCIA E TECNOLOGIA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">55.865.000</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">137.718.100</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">193.583.100</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">20</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">AGRICULTURA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">334.379.600</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">305.229.822</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">639.609.422</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">21</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">ORGANIZAÇÃO AGRÁRIA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">20.959.200</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">926.700</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">21.885.900</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">22</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">INDÚSTRIA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">14.387.600</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">3.000.000</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">17.387.600</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">23</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">COMÉRCIO E SERVIÇOS</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">187.404.400</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">34.096.700</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">221.501.100</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">24</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">COMUNICAÇÕES</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">9.004.900</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">197.200</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">9.202.100</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">25</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">ENERGIA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.750.000</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.750.000</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">26</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TRANSPORTE</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">826.166.800</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.148.134.700</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.974.301.500</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">27</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DESPORTO E LAZER</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">37.881.600</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">17.203.000</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">55.084.600</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">28</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">ENCARGOS ESPECIAIS</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.746.773.280</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.657.608.618</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">3.404.381.898</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">99</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">RESERVA DE CONTINGÊNCIA</span></p></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">50.000.000</span></p></td><td width="16%" colspan="3" valign="top" style="width:16.7%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">50.000.000</span></p></td></tr><tr><td width="16%" valign="top" style="width:16.66%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">T&nbsp;O&nbsp;T&nbsp;A&nbsp;L</span></p></td><td width="16%" valign="top" style="width:16.66%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"></td><td width="16%" colspan="2" valign="top" style="width:16.28%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">46.890.512.479</span></p></td><td width="17%" valign="top" style="width:17.04%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">7.916.583.443</span></p></td><td width="16%" colspan="4" valign="top" style="width:16.66%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">323.491.000</span></p></td><td width="16%" colspan="3" style="width:16.7%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">55.130.586.922</span></p></td></tr><tr height="0"><td width="154" style="border:none"></td><td width="154" style="border:none"></td><td width="1" style="border:none"></td><td width="149" style="border:none"></td><td width="157" style="border:none"></td><td width="2" style="border:none"></td><td width="47" style="border:none"></td><td width="83" style="border:none"></td><td width="2" style="border:none"></td><td width="56" style="border:none"></td><td width="43" style="border:none"></td><td width="5" style="border:none"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="7"> DEMONSTRATIVO&nbsp;DA&nbsp;DESPESA&nbsp;SEGUNDO&nbsp;AS&nbsp;CATEGORIAS&nbsp;ECONÔMICAS&nbsp;POR&nbsp;FUNÇÃO </td><td colspan="3" valign="top"> Valores&nbsp;em&nbsp;R$&nbsp;1,00 </td><td colspan="2"> &nbsp; </td></tr><tr><td colspan="3" valign="top"> E&nbsp;S&nbsp;P&nbsp;E&nbsp;C&nbsp;I&nbsp;F&nbsp;I&nbsp;C&nbsp;A&nbsp;Ç&nbsp;Ã&nbsp;O </td><td valign="top"> CORRENTE </td><td colspan="2" valign="top"> CAPITAL </td><td colspan="2"> RESERVA&nbsp;DE&nbsp; CONTINGÊNCIA </td><td colspan="3" valign="top"> T&nbsp;O&nbsp;T&nbsp;A&nbsp;L </td><td> &nbsp; </td></tr><tr><td valign="top"> 01 </td><td valign="top"> LEGISLATIVA </td><td colspan="2" valign="top"> 1.646.944.700 </td><td valign="top"> 81.714.100 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 1.728.658.800 </td></tr><tr><td valign="top"> 02 </td><td valign="top"> JUDICIÁRIA </td><td colspan="2" valign="top"> 3.547.416.000 </td><td valign="top"> 152.379.100 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 3.699.795.100 </td></tr><tr><td valign="top"> 04 </td><td valign="top"> ADMINISTRAÇÃO </td><td colspan="2" valign="top"> 1.975.519.900 </td><td valign="top"> 160.875.000 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 2.136.394.900 </td></tr><tr><td valign="top"> 06 </td><td valign="top"> SEGURANÇA PÚBLICA </td><td colspan="2" valign="top"> 4.230.766.600 </td><td valign="top"> 359.464.105 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 4.590.230.705 </td></tr><tr><td valign="top"> 08 </td><td valign="top"> ASSISTÊNCIA SOCIAL </td><td colspan="2" valign="top"> 641.683.025 </td><td valign="top"> 30.274.000 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 671.957.025 </td></tr><tr><td valign="top"> 09 </td><td valign="top"> PREVIDÊNCIA SOCIAL </td><td colspan="2" valign="top"> 9.485.281.500 </td><td valign="top"> 20.000 </td><td colspan="4" valign="top"> 273.491.000 </td><td colspan="3" valign="top"> 9.758.792.500 </td></tr><tr><td valign="top"> 10 </td><td valign="top"> SAÚDE </td><td colspan="2" valign="top"> 11.368.020.361 </td><td valign="top"> 885.710.054 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 12.253.730.415 </td></tr><tr><td valign="top"> 11 </td><td valign="top"> TRABALHO </td><td colspan="2" valign="top"> 43.481.900 </td><td valign="top"> 6.799.700 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 50.281.600 </td></tr><tr><td valign="top"> 12 </td><td valign="top"> EDUCAÇÃO </td><td colspan="2" valign="top"> 7.596.455.700 </td><td valign="top"> 909.887.000 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 8.506.342.700 </td></tr><tr><td valign="top"> 13 </td><td valign="top"> CULTURA </td><td colspan="2" valign="top"> 260.732.072 </td><td valign="top"> 34.215.400 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 294.947.472 </td></tr><tr><td valign="top"> 14 </td><td valign="top"> DIREITOS DA CIDADANIA </td><td colspan="2" valign="top"> 2.071.377.941 </td><td valign="top"> 257.573.244 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 2.328.951.185 </td></tr><tr><td valign="top"> 15 </td><td valign="top"> URBANISMO </td><td colspan="2" valign="top"> 528.471.300 </td><td valign="top"> 468.177.900 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 996.649.200 </td></tr><tr><td valign="top"> 16 </td><td valign="top"> HABITAÇÃO </td><td colspan="2" valign="top"> 87.899.100 </td><td valign="top"> 497.198.100 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 585.097.200 </td></tr><tr><td valign="top"> 17 </td><td valign="top"> SANEAMENTO </td><td colspan="2" valign="top"> 82.300 </td><td valign="top"> 404.366.400 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 404.448.700 </td></tr><tr><td valign="top"> 18 </td><td valign="top"> GESTÃO AMBIENTAL </td><td colspan="2" valign="top"> 171.807.700 </td><td valign="top"> 363.814.500 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 535.622.200 </td></tr><tr><td valign="top"> 19 </td><td valign="top"> CIÊNCIA E TECNOLOGIA </td><td colspan="2" valign="top"> 55.865.000 </td><td valign="top"> 137.718.100 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 193.583.100 </td></tr><tr><td valign="top"> 20 </td><td valign="top"> AGRICULTURA </td><td colspan="2" valign="top"> 334.379.600 </td><td valign="top"> 305.229.822 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 639.609.422 </td></tr><tr><td valign="top"> 21 </td><td valign="top"> ORGANIZAÇÃO AGRÁRIA </td><td colspan="2" valign="top"> 20.959.200 </td><td valign="top"> 926.700 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 21.885.900 </td></tr><tr><td valign="top"> 22 </td><td valign="top"> INDÚSTRIA </td><td colspan="2" valign="top"> 14.387.600 </td><td valign="top"> 3.000.000 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 17.387.600 </td></tr><tr><td valign="top"> 23 </td><td valign="top"> COMÉRCIO E SERVIÇOS </td><td colspan="2" valign="top"> 187.404.400 </td><td valign="top"> 34.096.700 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 221.501.100 </td></tr><tr><td valign="top"> 24 </td><td valign="top"> COMUNICAÇÕES </td><td colspan="2" valign="top"> 9.004.900 </td><td valign="top"> 197.200 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 9.202.100 </td></tr><tr><td valign="top"> 25 </td><td valign="top"> ENERGIA </td><td colspan="2" valign="top"> 1.750.000 </td><td valign="top"> 0 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 1.750.000 </td></tr><tr><td valign="top"> 26 </td><td valign="top"> TRANSPORTE </td><td colspan="2" valign="top"> 826.166.800 </td><td valign="top"> 1.148.134.700 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 1.974.301.500 </td></tr><tr><td valign="top"> 27 </td><td valign="top"> DESPORTO E LAZER </td><td colspan="2" valign="top"> 37.881.600 </td><td valign="top"> 17.203.000 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 55.084.600 </td></tr><tr><td valign="top"> 28 </td><td valign="top"> ENCARGOS ESPECIAIS </td><td colspan="2" valign="top"> 1.746.773.280 </td><td valign="top"> 1.657.608.618 </td><td colspan="4" valign="top"> 0 </td><td colspan="3" valign="top"> 3.404.381.898 </td></tr><tr><td valign="top"> 99 </td><td valign="top"> RESERVA DE CONTINGÊNCIA </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 0 </td><td colspan="4" valign="top"> 50.000.000 </td><td colspan="3" valign="top"> 50.000.000 </td></tr><tr><td valign="top"> T&nbsp;O&nbsp;T&nbsp;A&nbsp;L </td><td valign="top"></td><td colspan="2" valign="top"> 46.890.512.479 </td><td valign="top"> 7.916.583.443 </td><td colspan="4" valign="top"> 323.491.000 </td><td colspan="3"> 55.130.586.922 </td></tr><tr height="0"><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 **ANEXO III**
 
@@ -1077,1072 +292,7 @@ RESUMO GERAL DA RECEITA                             
 
 **Recursos de Todas as Fontes**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="82%" colspan="5" style="width:82.84%;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DEMONSTRATIVO&nbsp;DA&nbsp;DESPESA&nbsp;SEGUNDO&nbsp;AS&nbsp;CATEGORIAS&nbsp;ECONÔMICAS&nbsp;POR&nbsp;ÓRGÃO</span></p></td><td width="17%" colspan="3" style="width:17.16%;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Valores&nbsp;em&nbsp;R$&nbsp;1,00</span></p></td></tr><tr><td width="39%" colspan="2" valign="top" style="width:39.42%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">E&nbsp;S&nbsp;P&nbsp;E&nbsp;C&nbsp;I&nbsp;F&nbsp;I&nbsp;C&nbsp;A&nbsp;Ç&nbsp;Ã&nbsp;O</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">CORRENTE</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">CAPITAL</span></p></td><td width="14%" valign="top" style="width:14.14%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">RESERVA&nbsp;DE&nbsp;</span></p></td><td width="17%" colspan="3" valign="top" style="width:17.16%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">T&nbsp;O&nbsp;T&nbsp;A&nbsp;L</span></p></td></tr><tr style="height:41.4pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">01000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">ASSEMBLÉIA LEGISLATIVA DO ESTADO DE</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">PERNAMBUCO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.010.387.700</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">14.898.100</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.025.285.800</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:41.4pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">02000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TRIBUNAL DE CONTAS DO ESTADO DE</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">PERNAMBUCO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">697.022.400</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">66.816.000</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">763.838.400</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">07000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TRIBUNAL DE JUSTIÇA DE PERNAMBUCO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.935.523.500</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">147.046.100</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">3.082.569.600</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">11000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">GOVERNADORIA DO ESTADO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">64.989.200</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">470.600</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">65.459.800</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">12000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE ADMINISTRAÇÃO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.508.555.900</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">46.212.700</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.554.768.600</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:69.0pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">13000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE ASSISTÊNCIA SOCIAL, COMBATE</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">À FOME E POLÍTICAS SOBRE DROGAS</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">648.994.414</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">18.882.900</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">667.877.314</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">14000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE EDUCAÇÃO E ESPORTES</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">7.107.150.600</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">896.338.200</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">8.003.488.800</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">15000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DA FAZENDA</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">781.014.500</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">40.478.200</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">821.492.700</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">16000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE COMUNICAÇÃO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">118.382.400</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">213.200</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">118.595.600</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">17000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DA CASA CIVIL</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">14.727.100</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">20.000</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">14.747.100</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:41.4pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">19000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE JUSTIÇA, DIREITOS HUMANOS E</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">PREVENÇÃO À VIOLÊNCIA</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">97.775.205</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">9.564.900</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">107.340.105</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">20000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE CULTURA</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">248.115.472</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">33.812.100</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">281.927.572</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">21000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE TURISMO E LAZER</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">135.712.000</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">40.561.900</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">176.273.900</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:69.0pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">22000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE DESENVOLVIMENTO AGRÁRIO,</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">AGRICULTURA, PECUÁRIA E PESCA</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">358.336.400</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">308.422.522</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:69.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">666.758.922</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">23000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE SAÚDE</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">9.719.521.639</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">793.134.932</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">10.512.656.571</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:41.4pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">24000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE RECURSOS HÍDRICOS E</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SANEAMENTO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">33.207.600</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">751.735.700</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">784.943.300</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">25000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DEFENSORIA PÚBLICA DO ESTADO DE</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">265.745.200</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">6.119.922</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">271.865.122</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">PERNAMBUCO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:41.4pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">26000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE DESENVOLVIMENTO</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">ECONÔMICO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">16.239.700</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">5.500.000</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">21.739.700</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">29000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">ENCARGOS GERAIS DO ESTADO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">11.044.748.500</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.573.762.800</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">273.491.000</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">12.892.002.300</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:55.2pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">30000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE PLANEJAMENTO, GESTÃO E</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DESENVOLVIMENTO REGIONAL</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">134.387.580</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">100.171.718</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">234.559.298</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:41.4pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">31000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE CIÊNCIA, TECNOLOGIA E</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">INOVAÇÃO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.122.250.722</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">278.187.300</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.400.438.022</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">32000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">MINISTÉRIO PÚBLICO DE PERNAMBUCO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">911.479.300</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">61.316.322</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">972.795.622</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:55.2pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">36000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE MEIO AMBIENTE,</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SUSTENTABILIDADE E FERNANDO DE NORONHA</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">234.223.700</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">27.380.700</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">261.604.400</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">37000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">PROCURADORIA GERAL DO ESTADO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">611.897.500</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">5.333.000</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">617.230.500</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:55.2pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">38000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE DESENVOLVIMENTO URBANO E</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">HABITAÇÃO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">282.362.900</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">968.387.600</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.250.750.500</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">39000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE DEFESA SOCIAL</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">4.388.069.200</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">362.149.127</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">4.750.218.327</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">40000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DA CRIANÇA E DA JUVENTUDE</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">161.624.000</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">40.643.200</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">202.267.200</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">43000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE DESENVOLVIMENTO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">92.520.100</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">10.492.700</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">103.012.800</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">PROFISSIONAL E EMPREENDEDORISMO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">44000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DA MULHER</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">58.082.247</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">26.930.000</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">85.012.247</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:55.2pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">46000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DA CONTROLADORIA GERAL DO</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">ESTADO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">57.755.400</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">203.000</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">57.958.400</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">51000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE PROJETOS ESTRATÉGICOS</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">42.937.500</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">10.370.500</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">53.308.000</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">52000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE MOBILIDADE E INFRAESTRUTURA</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.440.941.500</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.146.627.500</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.587.569.000</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:41.4pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">56000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Secretaria da Assessoria Especial à Governadora e</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Relações Internacionais</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">3.437.600</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">3.437.600</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:55.2pt"><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">57000</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SECRETARIA DE ADMINISTRAÇÃO PENITENCIARIA</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">E RESSOCIALIZAÇÃO</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">542.393.800</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">124.400.000</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:55.2pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">666.793.800</span></p><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">99000</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">RESERVA DE CONTINGÊNCIA</span></p></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">0</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">50.000.000</span></p></td><td width="16%" valign="top" style="width:16.62%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">50.000.000</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td width="16%" valign="top" style="width:16.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">T&nbsp;O&nbsp;T&nbsp;A&nbsp;L</span></p></td><td width="22%" valign="top" style="width:22.8%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"></td><td width="13%" valign="top" style="width:13.12%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">46.890.512.479</span></p></td><td width="16%" valign="top" style="width:16.16%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">7.916.583.443</span></p></td><td width="14%" colspan="2" valign="top" style="width:14.5%;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">323.491.000</span></p></td><td width="16%" style="width:16.62%;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">55.130.586.922</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0%"><p class="MsoNormal">&nbsp;</p></td></tr><tr height="0"><td width="131" style="border:none"></td><td width="180" style="border:none"></td><td width="104" style="border:none"></td><td width="128" style="border:none"></td><td width="112" style="border:none"></td><td width="3" style="border:none"></td><td width="125" style="border:none"></td><td width="1" style="border:none"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5"> DEMONSTRATIVO&nbsp;DA&nbsp;DESPESA&nbsp;SEGUNDO&nbsp;AS&nbsp;CATEGORIAS&nbsp;ECONÔMICAS&nbsp;POR&nbsp;ÓRGÃO </td><td colspan="3"> Valores&nbsp;em&nbsp;R$&nbsp;1,00 </td></tr><tr><td colspan="2" valign="top"> E&nbsp;S&nbsp;P&nbsp;E&nbsp;C&nbsp;I&nbsp;F&nbsp;I&nbsp;C&nbsp;A&nbsp;Ç&nbsp;Ã&nbsp;O </td><td valign="top"> CORRENTE </td><td valign="top"> CAPITAL </td><td valign="top"> RESERVA&nbsp;DE&nbsp; </td><td colspan="3" valign="top"> T&nbsp;O&nbsp;T&nbsp;A&nbsp;L </td></tr><tr><td valign="top"> 01000 &nbsp; </td><td valign="top"> ASSEMBLÉIA LEGISLATIVA DO ESTADO DE PERNAMBUCO </td><td valign="top"> 1.010.387.700 &nbsp; </td><td valign="top"> 14.898.100 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 1.025.285.800 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 02000 &nbsp; </td><td valign="top"> TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO </td><td valign="top"> 697.022.400 &nbsp; </td><td valign="top"> 66.816.000 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 763.838.400 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 07000 </td><td valign="top"> TRIBUNAL DE JUSTIÇA DE PERNAMBUCO </td><td valign="top"> 2.935.523.500 </td><td valign="top"> 147.046.100 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 3.082.569.600 </td><td> &nbsp; </td></tr><tr><td valign="top"> 11000 </td><td valign="top"> GOVERNADORIA DO ESTADO </td><td valign="top"> 64.989.200 </td><td valign="top"> 470.600 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 65.459.800 </td><td> &nbsp; </td></tr><tr><td valign="top"> 12000 </td><td valign="top"> SECRETARIA DE ADMINISTRAÇÃO </td><td valign="top"> 1.508.555.900 </td><td valign="top"> 46.212.700 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 1.554.768.600 </td><td> &nbsp; </td></tr><tr><td valign="top"> 13000 &nbsp; </td><td valign="top"> SECRETARIA DE ASSISTÊNCIA SOCIAL, COMBATE À FOME E POLÍTICAS SOBRE DROGAS </td><td valign="top"> 648.994.414 &nbsp; </td><td valign="top"> 18.882.900 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 667.877.314 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 14000 </td><td valign="top"> SECRETARIA DE EDUCAÇÃO E ESPORTES </td><td valign="top"> 7.107.150.600 </td><td valign="top"> 896.338.200 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 8.003.488.800 </td><td> &nbsp; </td></tr><tr><td valign="top"> 15000 </td><td valign="top"> SECRETARIA DA FAZENDA </td><td valign="top"> 781.014.500 </td><td valign="top"> 40.478.200 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 821.492.700 </td><td> &nbsp; </td></tr><tr><td valign="top"> 16000 </td><td valign="top"> SECRETARIA DE COMUNICAÇÃO </td><td valign="top"> 118.382.400 </td><td valign="top"> 213.200 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 118.595.600 </td><td> &nbsp; </td></tr><tr><td valign="top"> 17000 </td><td valign="top"> SECRETARIA DA CASA CIVIL </td><td valign="top"> 14.727.100 </td><td valign="top"> 20.000 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 14.747.100 </td><td> &nbsp; </td></tr><tr><td valign="top"> 19000 &nbsp; </td><td valign="top"> SECRETARIA DE JUSTIÇA, DIREITOS HUMANOS E PREVENÇÃO À VIOLÊNCIA </td><td valign="top"> 97.775.205 &nbsp; </td><td valign="top"> 9.564.900 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 107.340.105 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 20000 </td><td valign="top"> SECRETARIA DE CULTURA </td><td valign="top"> 248.115.472 </td><td valign="top"> 33.812.100 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 281.927.572 </td><td> &nbsp; </td></tr><tr><td valign="top"> 21000 </td><td valign="top"> SECRETARIA DE TURISMO E LAZER </td><td valign="top"> 135.712.000 </td><td valign="top"> 40.561.900 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 176.273.900 </td><td> &nbsp; </td></tr><tr><td valign="top"> 22000 &nbsp; </td><td valign="top"> SECRETARIA DE DESENVOLVIMENTO AGRÁRIO, AGRICULTURA, PECUÁRIA E PESCA </td><td valign="top"> 358.336.400 &nbsp; </td><td valign="top"> 308.422.522 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 666.758.922 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 23000 </td><td valign="top"> SECRETARIA DE SAÚDE </td><td valign="top"> 9.719.521.639 </td><td valign="top"> 793.134.932 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 10.512.656.571 </td><td> &nbsp; </td></tr><tr><td valign="top"> 24000 &nbsp; </td><td valign="top"> SECRETARIA DE RECURSOS HÍDRICOS E SANEAMENTO </td><td valign="top"> 33.207.600 &nbsp; </td><td valign="top"> 751.735.700 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 784.943.300 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 25000 </td><td valign="top"> DEFENSORIA PÚBLICA DO ESTADO DE </td><td valign="top"> 265.745.200 </td><td valign="top"> 6.119.922 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 271.865.122 </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> PERNAMBUCO </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 26000 &nbsp; </td><td valign="top"> SECRETARIA DE DESENVOLVIMENTO ECONÔMICO </td><td valign="top"> 16.239.700 &nbsp; </td><td valign="top"> 5.500.000 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 21.739.700 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 29000 </td><td valign="top"> ENCARGOS GERAIS DO ESTADO </td><td valign="top"> 11.044.748.500 </td><td valign="top"> 1.573.762.800 </td><td colspan="2" valign="top"> 273.491.000 </td><td valign="top"> 12.892.002.300 </td><td> &nbsp; </td></tr><tr><td valign="top"> 30000 &nbsp; </td><td valign="top"> SECRETARIA DE PLANEJAMENTO, GESTÃO E DESENVOLVIMENTO REGIONAL </td><td valign="top"> 134.387.580 &nbsp; </td><td valign="top"> 100.171.718 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 234.559.298 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 31000 &nbsp; </td><td valign="top"> SECRETARIA DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO </td><td valign="top"> 1.122.250.722 &nbsp; </td><td valign="top"> 278.187.300 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 1.400.438.022 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 32000 </td><td valign="top"> MINISTÉRIO PÚBLICO DE PERNAMBUCO </td><td valign="top"> 911.479.300 </td><td valign="top"> 61.316.322 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 972.795.622 </td><td> &nbsp; </td></tr><tr><td valign="top"> 36000 &nbsp; </td><td valign="top"> SECRETARIA DE MEIO AMBIENTE, SUSTENTABILIDADE E FERNANDO DE NORONHA </td><td valign="top"> 234.223.700 &nbsp; </td><td valign="top"> 27.380.700 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 261.604.400 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 37000 </td><td valign="top"> PROCURADORIA GERAL DO ESTADO </td><td valign="top"> 611.897.500 </td><td valign="top"> 5.333.000 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 617.230.500 </td><td> &nbsp; </td></tr><tr><td valign="top"> 38000 &nbsp; </td><td valign="top"> SECRETARIA DE DESENVOLVIMENTO URBANO E HABITAÇÃO </td><td valign="top"> 282.362.900 &nbsp; </td><td valign="top"> 968.387.600 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 1.250.750.500 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 39000 </td><td valign="top"> SECRETARIA DE DEFESA SOCIAL </td><td valign="top"> 4.388.069.200 </td><td valign="top"> 362.149.127 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 4.750.218.327 </td><td> &nbsp; </td></tr><tr><td valign="top"> 40000 </td><td valign="top"> SECRETARIA DA CRIANÇA E DA JUVENTUDE </td><td valign="top"> 161.624.000 </td><td valign="top"> 40.643.200 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 202.267.200 </td><td> &nbsp; </td></tr><tr><td valign="top"> 43000 </td><td valign="top"> SECRETARIA DE DESENVOLVIMENTO </td><td valign="top"> 92.520.100 </td><td valign="top"> 10.492.700 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 103.012.800 </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> PROFISSIONAL E EMPREENDEDORISMO </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 44000 </td><td valign="top"> SECRETARIA DA MULHER </td><td valign="top"> 58.082.247 </td><td valign="top"> 26.930.000 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 85.012.247 </td><td> &nbsp; </td></tr><tr><td valign="top"> 46000 &nbsp; </td><td valign="top"> SECRETARIA DA CONTROLADORIA GERAL DO ESTADO </td><td valign="top"> 57.755.400 &nbsp; </td><td valign="top"> 203.000 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 57.958.400 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 51000 </td><td valign="top"> SECRETARIA DE PROJETOS ESTRATÉGICOS </td><td valign="top"> 42.937.500 </td><td valign="top"> 10.370.500 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 53.308.000 </td><td> &nbsp; </td></tr><tr><td valign="top"> 52000 </td><td valign="top"> SECRETARIA DE MOBILIDADE E INFRAESTRUTURA </td><td valign="top"> 1.440.941.500 </td><td valign="top"> 1.146.627.500 </td><td colspan="2" valign="top"> 0 </td><td valign="top"> 2.587.569.000 </td><td> &nbsp; </td></tr><tr><td valign="top"> 56000 &nbsp; </td><td valign="top"> Secretaria da Assessoria Especial à Governadora e Relações Internacionais </td><td valign="top"> 3.437.600 &nbsp; </td><td valign="top"> 0 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 3.437.600 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 57000 &nbsp; </td><td valign="top"> SECRETARIA DE ADMINISTRAÇÃO PENITENCIARIA E RESSOCIALIZAÇÃO </td><td valign="top"> 542.393.800 &nbsp; </td><td valign="top"> 124.400.000 &nbsp; </td><td colspan="2" valign="top"> 0 &nbsp; </td><td valign="top"> 666.793.800 &nbsp; </td><td> &nbsp; </td></tr><tr><td valign="top"> 99000 </td><td valign="top"> RESERVA DE CONTINGÊNCIA </td><td valign="top"> 0 </td><td valign="top"> 0 </td><td colspan="2" valign="top"> 50.000.000 </td><td valign="top"> 50.000.000 </td><td> &nbsp; </td></tr><tr><td valign="top"> T&nbsp;O&nbsp;T&nbsp;A&nbsp;L </td><td valign="top"></td><td valign="top"> 46.890.512.479 </td><td valign="top"> 7.916.583.443 </td><td colspan="2" valign="top"> 323.491.000 </td><td> 55.130.586.922 </td><td> &nbsp; </td></tr><tr height="0"><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 **ANEXO IV**
 
@@ -2150,53 +300,29 @@ RESUMO GERAL DA RECEITA                             
 
 **Recursos de Todas as Fontes**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="81%" valign="top" style="width:81.62%;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-top:1.0pt;
-  padding-bottom:1.0pt;border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">DEMONSTRATIVO&nbsp;DOS&nbsp;INVESTIMENTOS&nbsp;POR&nbsp;FONTE&nbsp;DE&nbsp;FINANCIAMENTO</span></p></div></td><td width="18%" valign="top" style="width:18.38%;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-top:1.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">Valores&nbsp;em&nbsp;R$&nbsp;1,00</span></p></div></td></tr><tr><td width="81%" valign="top" style="width:81.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">E&nbsp;S&nbsp;P&nbsp;E&nbsp;C&nbsp;I&nbsp;F&nbsp;I&nbsp;C&nbsp;A&nbsp;Ç&nbsp;Ã&nbsp;O</span></p></div></td><td width="18%" valign="top" style="width:18.38%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">VALOR</span></p></div></td></tr><tr><td width="81%" valign="top" style="width:81.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">GERAÇÃO PRÓPRIA / OUTROS RECURSOS DE LONGO PRAZO</span></p></div></td><td width="18%" valign="top" style="width:18.38%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">436.511.400</span></p></div></td></tr><tr><td width="81%" valign="top" style="width:81.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">RECURSOS PARA AUMENTO DE CAPITAL</span></p></div></td><td width="18%" valign="top" style="width:18.38%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">287.390.100</span></p></div></td></tr><tr><td width="81%" valign="top" style="width:81.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">OPERAÇÕES DE CRÉDITO</span></p></div></td><td width="18%" valign="top" style="width:18.38%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">842.153.800</span></p></div></td></tr><tr><td width="81%" valign="top" style="width:81.62%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">T&nbsp;O&nbsp;T&nbsp;A&nbsp;L</span></p></div></td><td width="18%" valign="top" style="width:18.38%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.566.055.300</span></p></div></td></tr></tbody></table>
+DEMONSTRATIVO DOS INVESTIMENTOS POR FONTE DE FINANCIAMENTO
+
+Valores em R$ 1,00
+
+E S P E C I F I C A Ç Ã O
+
+VALOR
+
+GERAÇÃO PRÓPRIA / OUTROS RECURSOS DE LONGO PRAZO
+
+436.511.400
+
+RECURSOS PARA AUMENTO DE CAPITAL
+
+287.390.100
+
+OPERAÇÕES DE CRÉDITO
+
+842.153.800
+
+T O T A L
+
+1.566.055.300
 
 **ANEXO V**
 
@@ -2204,85 +330,45 @@ RESUMO GERAL DA RECEITA                             
 
 **Recursos de Todas as Fontes**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="76%" style="width:76.5%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-top:1.0pt;
-  padding-bottom:1.0pt;border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-top:1.0pt;
-  padding-bottom:1.0pt;border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">DEMONSTRATIVO&nbsp;DOS&nbsp;INVESTIMENTOS&nbsp;POR&nbsp;FUNÇÃO</span></p></div></td><td width="23%" valign="top" style="width:23.5%;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-top:1.0pt;
-  padding-bottom:1.0pt;border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-top:1.0pt"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">Valores&nbsp;em&nbsp;R$&nbsp;1,00</span></p></div></td></tr><tr><td width="76%" valign="top" style="width:76.5%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">E&nbsp;S&nbsp;P&nbsp;E&nbsp;C&nbsp;I&nbsp;F&nbsp;I&nbsp;C&nbsp;A&nbsp;Ç&nbsp;Ã&nbsp;O</span></p></div></td><td width="23%" valign="top" style="width:23.5%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">VALOR</span></p></div></td></tr><tr><td width="76%" valign="top" style="width:76.5%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">ADMINISTRAÇÃO</span></p></div></td><td width="23%" valign="top" style="width:23.5%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.200.000</span></p></div></td></tr><tr><td width="76%" valign="top" style="width:76.5%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">SAÚDE</span></p></div></td><td width="23%" valign="top" style="width:23.5%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">30.000.000</span></p></div></td></tr><tr><td width="76%" valign="top" style="width:76.5%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">SANEAMENTO</span></p></div></td><td width="23%" valign="top" style="width:23.5%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.052.617.700</span></p></div></td></tr><tr><td width="76%" valign="top" style="width:76.5%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">INDÚSTRIA</span></p></div></td><td width="23%" valign="top" style="width:23.5%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">253.726.600</span></p></div></td></tr><tr><td width="76%" valign="top" style="width:76.5%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">COMÉRCIO E SERVIÇOS</span></p></div></td><td width="23%" valign="top" style="width:23.5%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">19.600.000</span></p></div></td></tr><tr><td width="76%" valign="top" style="width:76.5%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">ENERGIA</span></p></div></td><td width="23%" valign="top" style="width:23.5%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">153.511.000</span></p></div></td></tr><tr><td width="76%" valign="top" style="width:76.5%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">TRANSPORTE</span></p></div></td><td width="23%" valign="top" style="width:23.5%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">55.400.000</span></p></div></td></tr><tr><td width="76%" valign="top" style="width:76.5%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">T&nbsp;O&nbsp;T&nbsp;A&nbsp;L</span></p></div></td><td width="23%" valign="top" style="width:23.5%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal;border:none;padding:0cm"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.566.055.300</span></p></div></td></tr></tbody></table>
+DEMONSTRATIVO DOS INVESTIMENTOS POR FUNÇÃO
+
+Valores em R$ 1,00
+
+E S P E C I F I C A Ç Ã O
+
+VALOR
+
+ADMINISTRAÇÃO
+
+1.200.000
+
+SAÚDE
+
+30.000.000
+
+SANEAMENTO
+
+1.052.617.700
+
+INDÚSTRIA
+
+253.726.600
+
+COMÉRCIO E SERVIÇOS
+
+19.600.000
+
+ENERGIA
+
+153.511.000
+
+TRANSPORTE
+
+55.400.000
+
+T O T A L
+
+1.566.055.300
 
 **ANEXO VI**
 
@@ -2290,80 +376,46 @@ RESUMO GERAL DA RECEITA                             
 
 **Recursos de Todas as Fontes**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DEMONSTRATIVO&nbsp;DOS&nbsp;INVESTIMENTOS&nbsp;POR&nbsp;UNIDADE&nbsp;ORÇAMENTÁRIA</span></p></td><td width="17%" valign="top" style="width:17.78%;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Valores&nbsp;em&nbsp;R$&nbsp;1,00</span></p></td></tr><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">E&nbsp;S&nbsp;P&nbsp;E&nbsp;C&nbsp;I&nbsp;F&nbsp;I&nbsp;C&nbsp;A&nbsp;Ç&nbsp;Ã&nbsp;O</span></p></td><td width="17%" valign="top" style="width:17.78%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">VALOR</span></p></td></tr><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SUAPE - Complexo Industrial Portuário Governador Eraldo Gueiros</span></p></td><td width="17%" valign="top" style="width:17.78%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">190.963.800</span></p></td></tr><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Companhia Editora de Pernambuco - CEPE</span></p></td><td width="17%" valign="top" style="width:17.78%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.200.000</span></p></td></tr><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Laboratório Farmacêutico do Estado de Pernambuco Governador Miguel Arraes S/A - LAFEPE</span></p></td><td width="17%" valign="top" style="width:17.78%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">30.000.000</span></p></td></tr><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Companhia Pernambucana de Saneamento - COMPESA</span></p></td><td width="17%" valign="top" style="width:17.78%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.052.617.700</span></p></td></tr><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Agência de Desenvolvimento Econômico de Pernambuco S.A. - ADEPE</span></p></td><td width="17%" valign="top" style="width:17.78%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">90.662.800</span></p></td></tr><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Companhia Pernambucana de Gás - COPERGÁS</span></p></td><td width="17%" valign="top" style="width:17.78%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">143.011.000</span></p></td></tr><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Porto do Recife S/A</span></p></td><td width="17%" valign="top" style="width:17.78%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">55.400.000</span></p></td></tr><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Agência de Fomento do Estado de Pernambuco S/A</span></p></td><td width="17%" valign="top" style="width:17.78%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.200.000</span></p></td></tr><tr><td width="82%" valign="top" style="width:82.22%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">T&nbsp;O&nbsp;T&nbsp;A&nbsp;L</span></p></td><td width="17%" valign="top" style="width:17.78%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.566.055.300</span></p></td></tr></tbody></table>
+DEMONSTRATIVO DOS INVESTIMENTOS POR UNIDADE ORÇAMENTÁRIA
+
+Valores em R$ 1,00
+
+E S P E C I F I C A Ç Ã O
+
+VALOR
+
+SUAPE - Complexo Industrial Portuário Governador Eraldo Gueiros
+
+190.963.800
+
+Companhia Editora de Pernambuco - CEPE
+
+1.200.000
+
+Laboratório Farmacêutico do Estado de Pernambuco Governador Miguel Arraes S/A - LAFEPE
+
+30.000.000
+
+Companhia Pernambucana de Saneamento - COMPESA
+
+1.052.617.700
+
+Agência de Desenvolvimento Econômico de Pernambuco S.A. - ADEPE
+
+90.662.800
+
+Companhia Pernambucana de Gás - COPERGÁS
+
+143.011.000
+
+Porto do Recife S/A
+
+55.400.000
+
+Agência de Fomento do Estado de Pernambuco S/A
+
+2.200.000
+
+T O T A L
+
+1.566.055.300

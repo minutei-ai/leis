@@ -1,5 +1,3 @@
-###DEC-003183-0-000-23-09-1999@@@
-
 DECRETO Nº 3.183, DE 23 DE SETEMBRO DE 1999.
 
 Fixa o valor absoluto do limite glogal das deduções do Imposto sobre a Renda devido, relativas a doações e a patrocínios em favor de projetos culturais e a incentivos à atividade audiovisual.

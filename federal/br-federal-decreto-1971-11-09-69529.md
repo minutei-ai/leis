@@ -1,5 +1,3 @@
-###DEC-069529-0-000-09-11-1971@@@
-
 DECRETO Nº 69.529 - DE 9 DE NOVEMBRO DE 1971
 
 Autoriza o funcionamento do Curso de Ciências - Licenciatura de 1º ciclo, da Faculdade de Filosofia, Ciências e Letras "Santa Marcelina", em Muriaé - Estado de Minas Gerais.

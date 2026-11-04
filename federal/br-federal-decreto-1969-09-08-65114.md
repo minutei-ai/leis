@@ -1,5 +1,3 @@
-###DEC-065114-0-000-08-09-1969@@@
-
 DECRETO Nº 65.114 - DE 8 DE SETEMBRO DE 1969.
 
 Revoga o Decreto nº 60.684, de 5 de maio de 1967.

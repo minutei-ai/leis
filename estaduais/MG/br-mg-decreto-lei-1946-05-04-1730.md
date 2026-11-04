@@ -25,7 +25,3 @@ JOÃO TAVARES CORRÊA BERALDO
 Luiz Martins Soares
 
 Jair Negrão de Lima
-
-\============================
-
-Data da última atualização: 04/09/2006.

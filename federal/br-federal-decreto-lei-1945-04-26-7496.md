@@ -1,5 +1,3 @@
-###DEL-007496-0-000-26-04-1945@@@
-
 DECRETO-LEI N. 7.496 – DE 26 DE ABRIL DE 1945
 
 Exclui das disposições do Decreto-lei nº 2.803, de 21 de novembro de 1940, o terreno acrescido de marinha que menciona, situado no Distrito Federal; concede o aforamento condicional à Sociedade Brasileira de Química, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-071233-0-000-10-10-1972@@@
-
 decreto nº 71.233, de 10 de outubro de 1972.
 
 Concede autorização as empresas Penrod Drilling Company e Penrod Drilling Service Company para operarem no mar territorial do Brasil, com as embarcações especializadas Penrod Rig 59, Hippo, Penrod Rig 55, Rhino e Ginsbock, de nacionalidade norte-americana.

@@ -1,5 +1,3 @@
-###DEC-053127-0-000-10-12-1963@@@
-
 DECRETO Nº 53.127, DE 10 DE DEZEMBRO DE 1963.
 
 Outorga à Companhia de Eletrificação Centro-Norte ao Ceará concessão para distribuir energia elétrica.
@@ -37,8 +35,6 @@ Art. 7º Êste Decreto entra em vigor na data de sua publicação, revogadas as 
 JOÃO GOULART
 
 Antônio de Oliveira Brito
-
-###DEC-053127-0-000-10-12-1963@@@RET01+++
 
 decreto nº 53.127, de 10 de dezembro de 1963.
 

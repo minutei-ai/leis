@@ -1,5 +1,3 @@
-###DEC-049334-0-000-24-11-1960@@@
-
 DECRETO N.º 49.334, DE 24 DE NOVEMBRO DE 1960.
 
 Altera o Decreto n.º 47.099, de 26 de outubro de 1959, que abriu o Poder Judiciário - Justiça Eleitoral, Tribunal Superior Eleitoral - o crédito especial de Cr$82.000.000,00, para atender as despesas eleitorais.

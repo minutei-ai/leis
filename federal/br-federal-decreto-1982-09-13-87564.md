@@ -1,5 +1,3 @@
-###DEC-087564-0-000-13-09-1982@@@
-
 decreto nº 87.564, de 13 de setembro de 1982
 
 Revoga o Decreto nº 70.085, de 01 de fevereiro de 1972.

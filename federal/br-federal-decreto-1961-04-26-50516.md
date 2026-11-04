@@ -1,5 +1,3 @@
-###DEC-050516-0-000-26-04-1961@@@
-
 DECRETO Nº 50.516, DE 26 DE ABRIL DE 1961.
 
 Transfere à competência político-administrativa do Ministério das Minas e Energia atribuições conferidas ao Serviço de Navegação da Bacia do Prata e dá outras providências.

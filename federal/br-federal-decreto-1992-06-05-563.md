@@ -1,5 +1,3 @@
-###DEC-000563-0-000-05-06-1992@@@
-
 DECRETO Nº 563, DE 5 DE JUNHO DE 1992
 
 Institui o Programa Piloto para a Proteção das Florestas Tropicais do Brasil e cria a Comissão de Coordenação.

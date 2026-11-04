@@ -1,7 +1,3 @@
-1
-
-###DEC-095641-0-000-13-01-1988@@@
-
 DECRETO N° 95.641, DE 13 DE JANEIRO DE 1988
 
 Renova a concessão outorgada à RÁDIO CARAJÁ DE ANÁPOLIS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Anápolis, Estado de Goiás.

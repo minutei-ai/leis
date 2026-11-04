@@ -1,5 +1,3 @@
-###DEC-059669-0-000-05-12-1966@@@
-
 DECRETO Nº 69.669, DE 5 DE DEZEMBRO DE 1966
 
 Aprova o aumento de Capital Social e alteração do artigo 7º dos Estatutos Sociais da Rede Ferroviária Federal S. A.

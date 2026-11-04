@@ -1,6 +1,10 @@
 > **LEI Nº 3.278, DE 20 DE JULHO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Acresce e altera dispositivos das Leis nºs 1.373, de 2 de março de 2001; 2.840 de 8 de janeiro de 2014 e 1.693, de 21 de dezembro de 2015.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Acresce e altera dispositivos das Leis nºs 1.373, de 2 de março de 2001; 2.840 de 8 de janeiro de 2014 e 1.693, de 21 de dezembro de 2015.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

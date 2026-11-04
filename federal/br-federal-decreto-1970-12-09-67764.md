@@ -1,5 +1,3 @@
-###DEC-067764-0-000-09-12-1970@@@
-
 DECRETO Nº 67.764, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 43.742, de 21 de maio de 1958.

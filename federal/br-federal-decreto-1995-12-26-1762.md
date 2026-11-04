@@ -1,7 +1,3 @@
-1
-
-###DEC-001762-0-000-26-12-1995@@@
-
 DECRETO nº 1.762, de 26 de dezembro de 1995.
 
 Dispõe sobre a inscrição dos restos a pagar do exercício de 1995, no âmbito do Poder Executivo.

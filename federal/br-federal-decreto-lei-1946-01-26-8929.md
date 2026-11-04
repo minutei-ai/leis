@@ -1,5 +1,3 @@
-###DEL-008929-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.929 – DE 26 DE JANEIRO DE 1946
 
 Dispõe  sôbre o montepio militar de um Lente da Escola Naval

@@ -1,5 +1,3 @@
-###DEC-002829-0-000-29-10-1998@@@
-
 DECRETO Nº 2.829, DE 29 DE OUTUBRO DE 1998
 
 Estabelece normas para a elaboração e execução do Plano Plurianual e dos Orçamentos da União, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053905-0-000-04-05-1964@@@
-
 DECRETO Nº 53.905, DE 4 DE MAIO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona necessário ao Ministério da Guerra.

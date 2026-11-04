@@ -1,6 +1,10 @@
 > **LEI Nº 4.623, DE 24 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade da capacitação de primeiros socorros de, no mínimo, um servidor por cada unidade escolar da Rede Estadual de Ensino do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade da capacitação de primeiros socorros de, no mínimo, um servidor por cada unidade escolar da Rede Estadual de Ensino do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

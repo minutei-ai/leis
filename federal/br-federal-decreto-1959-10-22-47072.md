@@ -1,5 +1,3 @@
-###DEC-047072-0-000-22-10-1959@@@
-
 DECRETO Nº 47.072, DE 22 DE OUTUBRO DE 1959.
 
 Autoriza João José de Faria, a comprar pedras preciosas.

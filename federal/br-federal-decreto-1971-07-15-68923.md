@@ -1,5 +1,3 @@
-###DEC-068923-0-000-15-07-1971@@@
-
 Decreto nº 68.923, de 15 de julho de 1971.
 
 Autorização para funcionamento da Faculdade de Educação Física, com os cursos de Licenciatura e Técnico de Desportos - SP.

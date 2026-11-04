@@ -1,5 +1,3 @@
-###DEC-061106-0-000-28-07-1967@@@
-
 DECRETO Nº 61.106, DE 28 DE JULHO DE 1967.
 
 Retifica o Decreto 60.465, de 14 de março de 1967 e dá outras providências.

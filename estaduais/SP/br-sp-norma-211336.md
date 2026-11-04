@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211336)<br>
-
 # DECRETO N° 69.812, DE 21 DE AGOSTO DE 2025
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Ubatuba, que declarou Situação de Emergência em áreas do Município._

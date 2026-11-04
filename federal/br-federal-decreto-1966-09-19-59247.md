@@ -1,5 +1,3 @@
-###DEC-059247-0-000-19-09-1966@@@
-
 DECRETO Nº 59.247, DE 19 DE SETEMBRO DE 1966.
 
 Concede à sociedade Italcable Servizi Cablografici Radiotelegrafici e Radioelettrici - Societá Per Azioni autorização para continuar a funcionar na República dos Estado Unidos do Brasil.

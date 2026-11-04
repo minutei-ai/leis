@@ -1,5 +1,3 @@
-###DEC-092536-0-000-10-04-1986@@@
-
 DECRETO Nº 92.536, DE 10 DE ABRIL DE 1986
 
 Outorga concessão à TELEVISÃO SANTA CRUZ LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Itabuna, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-055888-0-000-31-03-1965@@@
-
 DECRETO Nº 55.888, DE 31 DE MARÇO DE 1965.
 
 Dá nova redação ao item III do art. 5º do Decreto nº 55.286, de 24 de dezembro de 1964.

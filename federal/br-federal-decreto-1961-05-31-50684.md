@@ -1,5 +1,3 @@
-###DEC-050684-0-000-31-05-1961@@@
-
 DECRETO Nº 50.684, DE 31 DE MAIO DE 1961
 
 Revigora a concessão outorgada à Rádio Clube de Fronteira Ltda. pelo Decreto nº 50.188-61, para instalar uma estação radiodifusora.

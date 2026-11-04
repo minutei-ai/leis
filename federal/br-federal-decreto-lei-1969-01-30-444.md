@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/62ab56aa-6d06-4be7-9f6b-d9df39838511/texto#nowhere)
 
-###DEL-000444-0-000-30-01-1969@@@
-
 DECRETO-LEI Nº 444, DE 30 DE JANEIRO DE 1969
 
 Reajusta os vencimentos dos servidores do Poder Judiciário da União, e dá outras providências.

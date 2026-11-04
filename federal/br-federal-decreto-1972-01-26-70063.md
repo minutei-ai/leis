@@ -1,5 +1,3 @@
-###DEC-070063-0-000-26-01-1972@@@
-
 DECRETO Nº 70.063, DE 26 DE JANEIRO DE 1972
 
 Concede autorização à empresa Americana Texas Instruments Inc, de Dallas, Texas, Estados Unidos da América, para operar no território nacional.

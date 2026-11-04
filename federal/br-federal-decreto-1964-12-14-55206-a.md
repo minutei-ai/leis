@@ -1,5 +1,3 @@
-###DEC-055206-A-000-14-12-1964@@@
-
 DECRETO Nº 55.206-A, DE 14 DE DEZEMBRO DE 1964.
 
 Homologa escritura e autoriza o Ministério da Aeronáutica a aceitar doação dos terrenos do aeropôrto de Divinópolis (MG).

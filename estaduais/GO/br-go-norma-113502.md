@@ -16,7 +16,8 @@ Goiânia, 9 de março de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 ANEXO ÚNICO
@@ -119,7 +120,8 @@ c) Gerência de Melhoramentos Rodoviários;
 
 d) Gerência de Monitoramento de Contratos e Informações de Manutenção Viária;
 
-e) Gerência de Estudos, Propostas e Orçamento de Manutenção Viária; e <br>
+e) Gerência de Estudos, Propostas e Orçamento de Manutenção Viária; e 
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~e) Gerência de Supervisão de Manutenção Viária; e~~
@@ -134,7 +136,8 @@ b) Gerência de Medição de Obras Rodoviárias;
 
 c) Gerência de Monitoramento de Contratos e Informações de Obras Rodoviárias;
 
-d) Gerência de Execução e Recuperação de Obras de Arte Especiais<br>
+d) Gerência de Execução e Recuperação de Obras de Arte Especiais
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~d) Gerência de Obras de Artes Especiais; e~~
@@ -167,20 +170,24 @@ e) Gerência de Monitoramento de Contratos e Informações de Segurança Viária
 
 XII – Vice-Presidente, com o Escritório de Projetos Setorial;
 
-~~XIII – Assessoria de Gestão Ambiental;~~<br>
+~~XIII – Assessoria de Gestão Ambiental;~~
+
 \- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-XIV – Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais, com a:<br>
+XIV – Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais, com a:
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~XIV – Assessoria de Acompanhamento do Fundo Estadual de Infraestrutura, com a:~~
 
-a) Gerência de Planejamento Operacional dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais; e<br>
+a) Gerência de Planejamento Operacional dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais; e
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~a) Gerência de Acompanhamento de Projetos do FUNDEINFRA; e~~
 
-b) Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais;<br>
+b) Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~b) Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA;~~
@@ -193,7 +200,8 @@ a) Gerência de Projetos de Construção de Rodovias;
 
 b) Gerência de Projetos de Restauração de Rodovias;
 
-c) Gerência de Validação e Inovação em Projetos Rodoviários<br>
+c) Gerência de Validação e Inovação em Projetos Rodoviários
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~c) Gerência de Validação e Aprovação de Projetos Rodoviários;~~
@@ -204,10 +212,12 @@ e) Gerência de Custos de Obras Rodoviárias;
 
 f) Gerência de Desapropriação;
 
-g) Gerência de Contratações Integradas; e<br>
+g) Gerência de Contratações Integradas; e
+
 \- [Acrescido pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-h) Gerência de Projetos de Obras de Arte Especiais;<br>
+h) Gerência de Projetos de Obras de Arte Especiais;
+
 \- [Acrescido pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 XVII – Diretoria de Controle Interno da Gestão, com a:
@@ -1456,7 +1466,8 @@ III – da Gerência de Melhoramentos Rodoviários;
 
 IV – da Gerência de Monitoramento de Contratos e Informações de Manutenção Viária;
 
-V – da Gerência de Estudos, Propostas e Orçamento de Manutenção Viária; e<br>
+V – da Gerência de Estudos, Propostas e Orçamento de Manutenção Viária; e
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~V - Gerência de Supervisão de Manutenção Viária; e~~
@@ -1603,58 +1614,70 @@ IX – encarregar-se de competências correlatas.
 
 Parágrafo único. A Gerência de Monitoramento de Contratos e Informações de Manutenção Viária fica subordinada administrativamente à Diretoria de Manutenção.
 
-**Seção V<br>
-Gerência de Estudos, Propostas e Orçamento de Manutenção Viária<br>
+**Seção V
+
+Gerência de Estudos, Propostas e Orçamento de Manutenção Viária
+
 **\- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~Seção V~~
 
 ~~Gerência de Supervisão de Manutenção Viária~~
 
-Art. 34. Compete à Gerência de Estudos, Propostas e Orçamento de Manutenção Viária:<br>
+Art. 34. Compete à Gerência de Estudos, Propostas e Orçamento de Manutenção Viária:
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~Art. 34 Gerência de Supervisão de Manutenção Viária:~~
 
-I – auxiliar as gerências técnicas na realização de análises pertinentes aos processos de licitação;<br>
+I – auxiliar as gerências técnicas na realização de análises pertinentes aos processos de licitação;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~I – supervisionar o controle tecnológico realizado pela Gerência de Projetos e Controle Tecnológico de Manutenção Viária, para garantir que materiais, técnicas e procedimentos utilizados nos projetos de engenharia de obras rodoviárias sob a responsabilidade da Diretoria de Manutenção estejam de acordo com as especificações do projeto e as normas técnicas, também para assegurar a qualidade e a durabilidade da obra desde a fase de projeto até a execução;~~
 
-II – realizar a qualificação técnica das empresas participantes das licitações no âmbito da Diretoria de Manutenção;<br>
+II – realizar a qualificação técnica das empresas participantes das licitações no âmbito da Diretoria de Manutenção;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~II – supervisionar o processamento e a conferência das medições dos contratos geridos pela Diretoria de Manutenção, com a verificação de documentos, serviços, quantidades e conformidade com critérios de medição, normativos e contratuais, bem como dos cadastros realizados em sistema;~~
 
-III – analisar as propostas apresentadas pelas empresas participantes das licitações no âmbito da Diretoria de Manutenção;<br>
+III – analisar as propostas apresentadas pelas empresas participantes das licitações no âmbito da Diretoria de Manutenção;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~III – supervisionar o controle orçamentário dos contratos e das obras sob a responsabilidade da Diretoria de Manutenção, para garantir que os gastos estejam de acordo com os valores previstos, que os recursos sejam aplicados corretamente e que relatórios financeiros subsidiem a tomada de decisão;~~
 
-IV – elaborar e atualizar os orçamentos, com base em referências orçamentárias previamente estabelecidas, destinados a subsidiar os certames licitatórios no âmbito da Diretoria de Manutenção;<br>
+IV – elaborar e atualizar os orçamentos, com base em referências orçamentárias previamente estabelecidas, destinados a subsidiar os certames licitatórios no âmbito da Diretoria de Manutenção;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IV – elaborar orçamentos que subsidiem os certames licitatórios de obras de pequeno porte e baixa complexidade cuja execução será gerida pela Gerência de Manutenção Viária e pela Gerência de Melhoramentos Rodoviários;~~
 
-V – realizar a retroanálise dos aditivos contratuais celebrados nos contratos no âmbito da Diretoria de Manutenção;<br>
+V – realizar a retroanálise dos aditivos contratuais celebrados nos contratos no âmbito da Diretoria de Manutenção;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~V – receber e acompanhar o planejamento mensal de manutenção e os recursos previstos para cada trecho ou serviço;~~
 
-VI – acompanhar a execução orçamentária das medições relativas aos contratos sob responsabilidade da Diretoria de Manutenção especialmente nas etapas de empenho, liquidação e pagamento;<br>
+VI – acompanhar a execução orçamentária das medições relativas aos contratos sob responsabilidade da Diretoria de Manutenção especialmente nas etapas de empenho, liquidação e pagamento;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VI – apoiar a Diretoria de Manutenção em decisões sobre aditivos, ajustes de cronograma ou priorização de serviços, com base em análises técnicas e financeiras; e~~
 
-VII – acompanhar a aplicação das práticas de gestão de risco nas gerências vinculadas à Diretoria de Manutenção; e<br>
+VII – acompanhar a aplicação das práticas de gestão de risco nas gerências vinculadas à Diretoria de Manutenção; e
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VII – encarregar-se de atividades correlatas relacionadas à supervisão de medições, controle tecnológico e controle orçamentário das obras sob a responsabilidade da Diretoria de Manutenção.~~
 
-VIII – encarregar-se de competências correlatas.<br>
+VIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
-Parágrafo único. A Gerência de Estudos, Propostas e Orçamento de Manutenção Viária fica subordinada administrativamente à Diretoria de Manutenção.<br>
+Parágrafo único. A Gerência de Estudos, Propostas e Orçamento de Manutenção Viária fica subordinada administrativamente à Diretoria de Manutenção.
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~Parágrafo único. A Gerência de Supervisão de Manutenção Viária fica subordinada administrativamente à Diretoria de Manutenção.~~
@@ -1745,7 +1768,8 @@ II – da Gerência de Medição de Obras Rodoviárias;
 
 III – da Gerência de Monitoramento de Contratos e Informações de Obras Rodoviárias;
 
-IV – da Gerência de Execução e Recuperação de Obras de Arte Especiais; e<br>
+IV – da Gerência de Execução e Recuperação de Obras de Arte Especiais; e
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~IV - Gerência de Obras de Artes Especiais; e~~
@@ -1860,117 +1884,146 @@ X – encarregar-se de competências correlatas.
 
 Parágrafo único. A Gerência de Monitoramento de Contratos e Informações de Obras Rodoviárias fica subordinada administrativamente à Diretoria de Obras Rodoviárias.
 
-**Seção IV<br>
-Gerência de Execução e Recuperação de Obras de Arte Especiais**<br>
+**Seção IV
+
+Gerência de Execução e Recuperação de Obras de Arte Especiais**
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127). 
 
 ~~Seção IV~~
 
 ~~Gerência de Obras de Artes Especiais~~
 
-Art. 40. Compete à Gerência de Execução e Recuperação de Obras de Arte Especiais:<br>
+Art. 40. Compete à Gerência de Execução e Recuperação de Obras de Arte Especiais:
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~Art. 40. Compete à Gerência de Obras de Artes Especiais:~~
 
-I – planejar, coordenar e supervisionar as atividades de execução e recuperação de obras de arte especiais no âmbito da Agência;<br>
+I – planejar, coordenar e supervisionar as atividades de execução e recuperação de obras de arte especiais no âmbito da Agência;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~I – gerenciar as atividades relacionadas a OAEs de maior complexidade ou com intervenções extensivas que requeiram cálculos estruturais detalhados e envolvam projetos definitivos no âmbito da GOINFRA, conforme for regulamentado em norma interna específica para esse fim;~~
 
-II – indicar servidores para a designação de fiscal e gestor de contratos de obras de arte especiais e para o acompanhamento técnico da execução dos serviços;<br>
+II – indicar servidores para a designação de fiscal e gestor de contratos de obras de arte especiais e para o acompanhamento técnico da execução dos serviços;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~II – instaurar o processo de licitação e elaborar o DOD referente às obras de sua competência;~~
 
-III – coordenar e supervisionar a fiscalização da execução dos serviços de obras de arte especiais em andamento ou com previsão de retomada;<br>
+III – coordenar e supervisionar a fiscalização da execução dos serviços de obras de arte especiais em andamento ou com previsão de retomada;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~III – elaborar anteprojeto de engenharia para a utilização em contratações integradas;~~
 
-IV – padronizar critérios e orientar os gestores de contrato e a equipe de fiscalização durante a elaboração das medições dos serviços executados em campo;<br>
+IV – padronizar critérios e orientar os gestores de contrato e a equipe de fiscalização durante a elaboração das medições dos serviços executados em campo;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IV – elaborar projeto básico de engenharia para a utilização em contratações semi-integradas;~~
 
-V – orientar os gestores de contrato e a equipe de fiscalização quanto à elaboração, à conferência e ao encaminhamento das medições dos serviços executados;<br>
+V – orientar os gestores de contrato e a equipe de fiscalização quanto à elaboração, à conferência e ao encaminhamento das medições dos serviços executados;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~V – fornecer dados para auxiliar na elaboração dos termos de referência ou na instrução dos processos licitatórios das obras relacionadas às OAEs de maior complexidade ou com intervenções extensivas, referenciadas conforme o inciso I deste artigo;~~
 
-VI – acompanhar a evolução física das obras de arte especiais e analisar a qualidade e os custos dos serviços executados por meio da fiscalização;<br>
+VI – acompanhar a evolução física das obras de arte especiais e analisar a qualidade e os custos dos serviços executados por meio da fiscalização;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VI – elaborar programas para a gestão de contratos de OAEs, conforme a tipologia indicada no inciso I deste artigo, em andamento ou com previsão de retomada;~~
 
-VII – elaborar relatórios de acompanhamento das obras de arte especiais contratadas, em andamento ou com previsão de retomada;<br>
+VII – elaborar relatórios de acompanhamento das obras de arte especiais contratadas, em andamento ou com previsão de retomada;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VII – coordenar e monitorar o cumprimento das condicionantes ambientais referente às obras de sua competência;~~
 
-VIII – gerenciar as atividades de obras de arte especiais conveniadas, no que se refere à execução e à recuperação;<br>
+VIII – gerenciar as atividades de obras de arte especiais conveniadas, no que se refere à execução e à recuperação;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VIII – analisar estudos e projetos de OAEs com base nas instruções de projetos da GOINFRA e nas demais normas suplementares;~~
 
-IX – analisar processos contratuais de obras de arte especiais quanto à própria execução contratual;<br>
+IX – analisar processos contratuais de obras de arte especiais quanto à própria execução contratual;
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IX – acompanhar e gerir contratos, bem como fiscalizar e aceitar projetos de engenharia de OAEs;~~
 
-X – auxiliar na elaboração e na implantação de manuais de serviços, normas de procedimentos, rotinas, formulários e padrões operacionais relacionados à execução e à recuperação de obras de arte especiais; e<br>
+X – auxiliar na elaboração e na implantação de manuais de serviços, normas de procedimentos, rotinas, formulários e padrões operacionais relacionados à execução e à recuperação de obras de arte especiais; e
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~X – gerenciar as atividades de fiscalização da execução dos serviços de OAEs em andamento ou com a previsão de retomada;~~
 
-~~XI – analisar processos contratuais de OAEs em andamento ou com a previsão de retomada;~~<br>
+~~XI – analisar processos contratuais de OAEs em andamento ou com a previsão de retomada;~~
+
 \- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XII – solicitar à diretoria a expedição de notificações extrajudiciais para assegurar o cumprimento de regras legais e contratuais, subsidiando-a de forma técnica e justificada;~~<br>
+~~XII – solicitar à diretoria a expedição de notificações extrajudiciais para assegurar o cumprimento de regras legais e contratuais, subsidiando-a de forma técnica e justificada;~~
+
 \- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XIII – realizar vistorias de campo como parte da fiscalização de projetos, obras e serviços referentes às OAEs;~~<br>
+~~XIII – realizar vistorias de campo como parte da fiscalização de projetos, obras e serviços referentes às OAEs;~~
+
 \- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XIV – elaborar laudos, notas técnicas, especificações e respostas a órgãos de controle interno e externo relativos a estudos, projetos e obras relacionadas às suas atribuições e suas competências;<br>
+~~XIV – elaborar laudos, notas técnicas, especificações e respostas a órgãos de controle interno e externo relativos a estudos, projetos e obras relacionadas às suas atribuições e suas competências;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XV – analisar e emitir pareceres em projetos de OAEs elaborados por terceiros que exerçam influência no sistema viário sob a tutela do Estado de Goiás;<br>
+~~XV – analisar e emitir pareceres em projetos de OAEs elaborados por terceiros que exerçam influência no sistema viário sob a tutela do Estado de Goiás;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XVI – analisar e emitir pareceres em projetos de OAEs elaborados por terceiros e provenientes de convênios ou parcerias público-privadas entre o Estado de Goiás e outras entidades públicas ou privadas;<br>
+~~XVI – analisar e emitir pareceres em projetos de OAEs elaborados por terceiros e provenientes de convênios ou parcerias público-privadas entre o Estado de Goiás e outras entidades públicas ou privadas;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XVII – analisar e aceitar projetos de OAEs elaborados por terceiros referentes a obras conveniadas;<br>
+~~XVII – analisar e aceitar projetos de OAEs elaborados por terceiros referentes a obras conveniadas;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XVIII – cadastrar e arquivar os projetos de engenharia de OAEs originais no âmbito de sua competência e os projetos finais As built, devidamente atestados pelo fiscal ou pela equipe de fiscalização responsável pela execução da obra, bem como disponibilizá-los às gerências e às demais unidades administrativas da GOINFRA, mediante solicitação;<br>
+~~XVIII – cadastrar e arquivar os projetos de engenharia de OAEs originais no âmbito de sua competência e os projetos finais As built, devidamente atestados pelo fiscal ou pela equipe de fiscalização responsável pela execução da obra, bem como disponibilizá-los às gerências e às demais unidades administrativas da GOINFRA, mediante solicitação;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XIX – orientar os gestores de contrato e a equipe de fiscalização durante o encaminhamento das medições para processamento;<br>
+~~XIX – orientar os gestores de contrato e a equipe de fiscalização durante o encaminhamento das medições para processamento;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XX – acompanhar o andamento físico das obras de OAEs, bem como analisar a qualidade dos serviços das obras por meio da fiscalização;<br>
+~~XX – acompanhar o andamento físico das obras de OAEs, bem como analisar a qualidade dos serviços das obras por meio da fiscalização;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XXI – elaborar relatórios de acompanhamento das obras de OAEs contratadas pela GOINFRA em andamento ou com previsão de retomada;<br>
+~~XXI – elaborar relatórios de acompanhamento das obras de OAEs contratadas pela GOINFRA em andamento ou com previsão de retomada;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XXII – revisar, elaborar e implementar instruções, manuais de serviços, normas de procedimentos, especificações, rotinas, formulários e padrões operacionais para projetos e obras de OAEs em colaboração com os setores pertinentes da GOINFRA;<br>
+~~XXII – revisar, elaborar e implementar instruções, manuais de serviços, normas de procedimentos, especificações, rotinas, formulários e padrões operacionais para projetos e obras de OAEs em colaboração com os setores pertinentes da GOINFRA;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XXIII – analisar adequações de projetos em fase de obras referentes a OAEs;<br>
+~~XXIII – analisar adequações de projetos em fase de obras referentes a OAEs;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XXIV – elaborar, a critério da Diretoria de Obras Rodoviárias, os orçamentos estimativos para os certames licitatórios de OAEs e de serviços pertinentes à área, em busca de maior celeridade no procedimento;<br>
+~~XXIV – elaborar, a critério da Diretoria de Obras Rodoviárias, os orçamentos estimativos para os certames licitatórios de OAEs e de serviços pertinentes à área, em busca de maior celeridade no procedimento;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XXV – implementar e executar, conjuntamente à Diretoria de Obras Rodoviárias, mecanismos de controle que possibilitem, a qualquer tempo, a realização de verificação ou auditoria em indicadores de desempenho referente a contratos de levantamentos, estudos, projetos, consultorias e obras relacionadas às OAEs; e<br>
+~~XXV – implementar e executar, conjuntamente à Diretoria de Obras Rodoviárias, mecanismos de controle que possibilitem, a qualquer tempo, a realização de verificação ou auditoria em indicadores de desempenho referente a contratos de levantamentos, estudos, projetos, consultorias e obras relacionadas às OAEs; e
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
 XXVI – encarregar-se de competências correlatas.
 
-Parágrafo único. A Gerência de Execução e Recuperação de Obras de Arte Especiais fica subordinada administrativamente à Diretoria de Obras Rodoviárias.<br>
+Parágrafo único. A Gerência de Execução e Recuperação de Obras de Arte Especiais fica subordinada administrativamente à Diretoria de Obras Rodoviárias.
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~Parágrafo único. A Gerência de Obras de Artes Especiais fica subordinada administrativamente à Diretoria de Obras Rodoviárias.~~
@@ -2615,89 +2668,110 @@ XXIII – encarregar-se de competências correlatas.
 
 ~~CAPÍTULO XIII~~
 
-~~ASSESSORIA DE GESTÃO AMBIENTAL<br>
+~~ASSESSORIA DE GESTÃO AMBIENTAL
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~Art. 55. Compete à Assessoria de Gestão Ambiental:<br>
+~~Art. 55. Compete à Assessoria de Gestão Ambiental:
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~I – assessorar a Presidência da GOINFRA na formulação, na implementação e no monitoramento de políticas e diretrizes voltadas para a sustentabilidade e a gestão ambiental;<br>
+~~I – assessorar a Presidência da GOINFRA na formulação, na implementação e no monitoramento de políticas e diretrizes voltadas para a sustentabilidade e a gestão ambiental;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~II – monitorar a conformidade das ações da GOINFRA com as normas ambientais vigentes;<br>
+~~II – monitorar a conformidade das ações da GOINFRA com as normas ambientais vigentes;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~III – auxiliar a integração entre a GOINFRA e os órgãos ambientais competentes, para a articulação de ações conjuntas e a obtenção das licenças e das autorizações necessárias à execução de obras e serviços;<br>
+~~III – auxiliar a integração entre a GOINFRA e os órgãos ambientais competentes, para a articulação de ações conjuntas e a obtenção das licenças e das autorizações necessárias à execução de obras e serviços;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~IV – desenvolver e implementar programas de educação ambiental para os servidores da GOINFRA, com o fomento à conscientização sobre boas práticas sustentáveis;<br>
+~~IV – desenvolver e implementar programas de educação ambiental para os servidores da GOINFRA, com o fomento à conscientização sobre boas práticas sustentáveis;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~V – apoiar a implementação de políticas de gestão de resíduos sólidos, de uso eficiente de recursos hídricos e energéticos e de redução da emissão de poluentes nas atividades da GOINFRA;<br>
+~~V – apoiar a implementação de políticas de gestão de resíduos sólidos, de uso eficiente de recursos hídricos e energéticos e de redução da emissão de poluentes nas atividades da GOINFRA;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~VI – fomentar o uso de tecnologias inovadoras e sustentáveis nos projetos e nas obras executados ou supervisionados pela GOINFRA;<br>
+~~VI – fomentar o uso de tecnologias inovadoras e sustentáveis nos projetos e nas obras executados ou supervisionados pela GOINFRA;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~VII – encarregar-se de competências correlatas e das que lhe forem atribuídas pelo Presidente e pelo Vice-Presidente.<br>
+~~VII – encarregar-se de competências correlatas e das que lhe forem atribuídas pelo Presidente e pelo Vice-Presidente.
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~Parágrafo único. A Assessoria de Gestão Ambiental fica subordinada administrativamente ao Gabinete do Presidente.~~<br>
+~~Parágrafo único. A Assessoria de Gestão Ambiental fica subordinada administrativamente ao Gabinete do Presidente.~~
+
 \- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
 CAPÍTULO XIV
 
-ASSESSORIA DE ACOMPANHAMENTO DO FUNDEINFRA E DE TERMOS DE ACORDO DE REGIMES ESPECIAIS<br>
+ASSESSORIA DE ACOMPANHAMENTO DO FUNDEINFRA E DE TERMOS DE ACORDO DE REGIMES ESPECIAIS
+
 \- [Redação dada pelo Decreto 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-~~CAPÍTULO XIV<br>
+~~CAPÍTULO XIV
+
 ASSESSORIA DE ACOMPANHAMENTO DO FUNDO ESTADUAL DE INFRAESTRUTURA~~
 
-Art. 56. Compete à Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais:<br>
+Art. 56. Compete à Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais:
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~Art. 56. Compete à Assessoria de Acompanhamento do Fundo Estadual de Infraestrutura:~~
 
-I – orientar as iniciativas e as práticas de gestão nos projetos e nas obras de que trata o caput deste artigo, em conformidade com a legislação vigente;<br>
+I – orientar as iniciativas e as práticas de gestão nos projetos e nas obras de que trata o caput deste artigo, em conformidade com a legislação vigente;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~I – orientar as iniciativas e as práticas de gestão no âmbito dos projetos e das obras financiados pelo Fundo Estadual de Infraestrutura – FUNDEINFRA, em conformidade com a legislação vigente;~~
 
 II – elaborar, conjuntamente às suas unidades subordinadas, o Plano Anual de Trabalho, com base nas diretrizes e nas definições do planejamento estratégico, contemplados as ações, as iniciativas, os projetos e a estrutura de monitoramento e avaliação dos resultados sob sua supervisão;
 
-III – coordenar a integração das atividades das gerências subordinadas, para o alinhamento das ações delas e o cumprimento dos objetivos estratégicos da GOINFRA, no âmbito do acompanhamento dos projetos e das obras de que trata o caput deste artigo;<br>
+III – coordenar a integração das atividades das gerências subordinadas, para o alinhamento das ações delas e o cumprimento dos objetivos estratégicos da GOINFRA, no âmbito do acompanhamento dos projetos e das obras de que trata o caput deste artigo;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~III – coordenar a integração das atividades das gerências subordinadas, para o alinhamento das ações e o cumprimento dos objetivos estratégicos da GOINFRA, no âmbito do acompanhamento dos projetos e das obras financiados pelo FUNDEINFRA;~~
 
-IV – promover a articulação e a integração das responsabilidades de todos os partícipes das atividades relacionadas ao Fundo Estadual de Infraestrutura – FUNDEINFRA e aos Termos de Acordo de Regimes Especiais – TAREs, em busca de sinergia e eficiência na implementação das ações;<br>
+IV – promover a articulação e a integração das responsabilidades de todos os partícipes das atividades relacionadas ao Fundo Estadual de Infraestrutura – FUNDEINFRA e aos Termos de Acordo de Regimes Especiais – TAREs, em busca de sinergia e eficiência na implementação das ações;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IV – promover a articulação e a integração das responsabilidades de todos os partícipes das atividades relacionadas ao FUNDEINFRA, em busca de sinergia e eficiência na implementação das ações;~~
 
-V – articular, coordenar, supervisionar e monitorar a elaboração, a implantação e a atualização dos planos de ação das gerências subordinadas e alinhá-los às diretrizes da GOINFRA e ao cumprimento dos objetivos e das metas estabelecidos para os projetos e as obras financiados pelo FUNDEINFRA e dos créditos outorgados pelos TAREs;<br>
+V – articular, coordenar, supervisionar e monitorar a elaboração, a implantação e a atualização dos planos de ação das gerências subordinadas e alinhá-los às diretrizes da GOINFRA e ao cumprimento dos objetivos e das metas estabelecidos para os projetos e as obras financiados pelo FUNDEINFRA e dos créditos outorgados pelos TAREs;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~V – articular, coordenar, supervisionar e monitorar a elaboração, a implantação e a atualização dos planos de ação das gerências subordinadas e alinhá-los às diretrizes da GOINFRA e ao cumprimento dos objetivos e das metas estabelecidos para os projetos e as obras financiados pelo FUNDEINFRA;~~
 
-VI – acompanhar e avaliar os projetos e as obras em andamento de que trata o caput deste artigo, para garantir a conformidade com as diretrizes estabelecidas e a efetividade na utilização dos recursos;<br>
+VI – acompanhar e avaliar os projetos e as obras em andamento de que trata o caput deste artigo, para garantir a conformidade com as diretrizes estabelecidas e a efetividade na utilização dos recursos;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VI – acompanhar e avaliar os projetos e as obras em andamento financiados pelo FUNDEINFRA, a fim de garantir a conformidade com as diretrizes estabelecidas e a efetividade na utilização dos recursos;~~
 
 VII – propor e promover ações de capacitação e treinamento para os servidores das gerências subordinadas, para o aprimoramento técnico e o desenvolvimento profissional;
 
-VIII – fornecer subsídios técnicos e informações à alta gestão, com a elaboração de relatórios técnicos relacionados às ações do FUNDEINFRA e dos TAREs, como contribuição ao aperfeiçoamento do arcabouço institucional;<br>
+VIII – fornecer subsídios técnicos e informações à alta gestão, com a elaboração de relatórios técnicos relacionados às ações do FUNDEINFRA e dos TAREs, como contribuição ao aperfeiçoamento do arcabouço institucional;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VIII – fornecer subsídios técnicos e informações à alta gestão, por meio da elaboração de relatórios técnicos relacionados às ações do FUNDEINFRA, com contribuição para o aperfeiçoamento do arcabouço institucional;~~
 
-IX – monitorar as estratégias e os mecanismos de governança e gestão de projetos e obras públicas de que trata o caput deste artigo, em busca de eficiência e transparência;<br>
+IX – monitorar as estratégias e os mecanismos de governança e gestão de projetos e obras públicas de que trata o caput deste artigo, em busca de eficiência e transparência;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IX – monitorar as estratégias e os mecanismos de governança e gestão de projetos e obras públicas financiados pelo FUNDEINFRA, em busca de eficiência e transparência;~~
 
-X – subsidiar a GOINFRA no planejamento estratégico relativo aos empreendimentos de que trata o caput deste artigo;<br>
+X – subsidiar a GOINFRA no planejamento estratégico relativo aos empreendimentos de que trata o caput deste artigo;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~X – subsidiar a GOINFRA no planejamento estratégico relativo aos empreendimentos financiados pelo FUNDEINFRA;~~
@@ -2706,96 +2780,114 @@ XI – subsidiar a Presidência, para representação no Conselho Gestor do FUND
 
 XII – encarregar-se de outras competências decorrentes do pleno exercício do cargo e das que lhe forem atribuídas pelo Presidente e pelo Vice-Presidente.
 
-§ 1º A Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais fica subordinada administrativamente ao Gabinete do Presidente.<br>
+§ 1º A Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais fica subordinada administrativamente ao Gabinete do Presidente.
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~§ 1º A Assessoria de Acompanhamento do Fundo Estadual de Infraestrutura fica subordinada administrativamente ao Gabinete do Presidente.~~
 
-§ 2º Além das competências constantes do caput deste artigo, compete à Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais exercer as funções de organização, coordenação e supervisão:<br>
+§ 2º Além das competências constantes do caput deste artigo, compete à Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais exercer as funções de organização, coordenação e supervisão:
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~§ 2º Além das competências constantes do caput deste artigo, compete à Assessoria de Acompanhamento do Fundo Estadual de Infraestrutura exercer as funções de organização, coordenação e supervisão técnica:~~
 
-I – da Gerência de Planejamento Operacional dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais; e<br>
+I – da Gerência de Planejamento Operacional dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais; e
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~I – da Gerência de Acompanhamento de Projetos do FUNDEINFRA; e~~
 
-II – da Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais.<br>
+II – da Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais.
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~II – da Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA.~~
 
 Seção I
 
-Gerência de Planejamento Operacional dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais <br>
+Gerência de Planejamento Operacional dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais 
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~Seção I~~
 
 ~~Gerência de Acompanhamento de Projetos do FUNDEINFRA~~
 
-Art. 57. Compete à Gerência de Planejamento Operacional dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais:<br>
+Art. 57. Compete à Gerência de Planejamento Operacional dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais:
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~Art. 57. Compete à Gerência de Acompanhamento de Projetos do FUNDEINFRA:~~
 
-I – elaborar o Plano Anual de Trabalho, com base nas diretrizes e nas definições do planejamento estratégico e com a abrangência de ações, iniciativas, projetos e a estrutura de monitoramento e avaliação dos resultados técnicos sob sua supervisão;<br>
+I – elaborar o Plano Anual de Trabalho, com base nas diretrizes e nas definições do planejamento estratégico e com a abrangência de ações, iniciativas, projetos e a estrutura de monitoramento e avaliação dos resultados técnicos sob sua supervisão;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~I – acompanhar, coordenar, analisar e supervisionar anteprojetos, projetos e orçamentos de obras custeadas pelo FUNDEINFRA, inclusive a verificação da conformidade dos anteprojetos e dos projetos executivos com a Norma IP nº 20/2024/GOINFRA;~~
 
-II – elaborar, implantar e atualizar os planos de ação alinhados às diretrizes da GOINFRA e ao cumprimento dos objetivos e das metas estabelecidos para os projetos e as obras de que trata o caput deste artigo;<br>
+II – elaborar, implantar e atualizar os planos de ação alinhados às diretrizes da GOINFRA e ao cumprimento dos objetivos e das metas estabelecidos para os projetos e as obras de que trata o caput deste artigo;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~II – realizar o recebimento e a verificação formal da conformidade dos projetos, quando forem certificados pela estruturadora, nos limites de sua competência, bem como a análise dos demais estudos e documentações complementares, sem prejuízo às responsabilidades atribuídas à certificadora;~~
 
-III – analisar e aprovar os planos de trabalho das obras custeadas pelo FUNDEINFRA e Créditos Outorgados dos TAREs, mediante a solicitação;<br>
+III – analisar e aprovar os planos de trabalho das obras custeadas pelo FUNDEINFRA e Créditos Outorgados dos TAREs, mediante a solicitação;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~III – analisar e aprovar os planos de trabalho das obras custeadas pelo FUNDEINFRA e apresentados pela associação parceira, mediante a solicitação dela;~~
 
-IV – acompanhar e monitorar o cumprimento dos prazos e dos custos associados à implementação dos anteprojetos e dos projetos de que trata o caput deste artigo;<br>
+IV – acompanhar e monitorar o cumprimento dos prazos e dos custos associados à implementação dos anteprojetos e dos projetos de que trata o caput deste artigo;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IV – acompanhar e monitorar o cumprimento dos prazos e dos custos associados à implementação dos anteprojetos e dos projetos custeados pelo FUNDEINFRA;~~
 
-V – desenhar as matrizes de risco do programa do FUNDEINFRA e dos empreendimentos dos TAREs;<br>
+V – desenhar as matrizes de risco do programa do FUNDEINFRA e dos empreendimentos dos TAREs;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~V – realizar a gestão técnica e administrativa dos contratos de execução de anteprojetos e projetos custeados pelo FUNDEINFRA;~~
 
-VI – elaborar indicadores de desempenho dos empreendimentos de que trata o caput deste artigo, com a criação de painéis gerenciais para seu acompanhamento;<br>
+VI – elaborar indicadores de desempenho dos empreendimentos de que trata o caput deste artigo, com a criação de painéis gerenciais para seu acompanhamento;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VI – gerenciar os contratos de anteprojetos e projetos custeados pelo FUNDEINFRA, bem como indicar a designação de servidores para a atuação nesses contratos, entre outras atribuições;~~
 
-VII – elaborar fluxos e mecanismos de governança e gestão de projetos e obras públicas de que trata o caput deste artigo, em busca de eficiência e transparência;<br>
+VII – elaborar fluxos e mecanismos de governança e gestão de projetos e obras públicas de que trata o caput deste artigo, em busca de eficiência e transparência;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VII – coordenar a emissão dos termos de recebimento de anteprojetos e projetos certificados custeados pelo FUNDEINFRA, quando isso for necessário;~~
 
-VIII – acompanhar os empreendimentos de que trata o caput deste artigo, com a observação do cumprimento das metas estabelecidas no Plano Plurianual e dos limites fixados na Lei Orçamentária Anual;<br>
+VIII – acompanhar os empreendimentos de que trata o caput deste artigo, com a observação do cumprimento das metas estabelecidas no Plano Plurianual e dos limites fixados na Lei Orçamentária Anual;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VIII – arquivar, em formato digital, em servidor da GOINFRA, os anteprojetos, os projetos, os estudos, os laudos e os levantamentos custeados pelo FUNDEINFRA;~~
 
-IX – monitorar os Termos de Parceria do FUNDEINFRA e dos Créditos Outorgados dos TAREs;<br>
+IX – monitorar os Termos de Parceria do FUNDEINFRA e dos Créditos Outorgados dos TAREs;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IX – monitorar os projetos aprovados pelo FUNDEINFRA para o início das obras, bem como o dossiê técnico de projetos e orçamentos para as licitações e as contratações;~~
 
-X – participar da elaboração de relatórios de prestação de contas dos empreendimentos de que trata o caput deste artigo, para assegurar sua conformidade com as normas e os regulamentos aplicáveis, no âmbito da GOINFRA;<br>
+X – participar da elaboração de relatórios de prestação de contas dos empreendimentos de que trata o caput deste artigo, para assegurar sua conformidade com as normas e os regulamentos aplicáveis, no âmbito da GOINFRA;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~X – verificar a aplicação e o cumprimento das normas técnicas e dos regulamentos aplicáveis a todos os serviços técnicos realizados em sua área de atuação;~~
 
-XI – monitorar os processos de aprovação, licenciamento e regularização nos órgãos competentes, quando isso for necessário, relativos aos anteprojetos, projetos e obras de que trata o caput deste artigo;<br>
+XI – monitorar os processos de aprovação, licenciamento e regularização nos órgãos competentes, quando isso for necessário, relativos aos anteprojetos, projetos e obras de que trata o caput deste artigo;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~XI – monitorar os processos de aprovação, licenciamento e regularização nos órgãos competentes, quando isso for necessário;~~
 
-XII – elaborar relatórios periódicos sobre o andamento dos empreendimentos de que trata o caput deste artigo;<br>
+XII – elaborar relatórios periódicos sobre o andamento dos empreendimentos de que trata o caput deste artigo;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~XII – elaborar relatórios periódicos sobre o andamento e o status dos projetos e dos anteprojetos sob sua responsabilidade;~~
@@ -2804,76 +2896,92 @@ XIII – participar da elaboração dos relatórios de prestação de contas e d
 
 XIV – encarregar-se de competências correlatas.
 
-Parágrafo único. A Gerência de Planejamento Operacional dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais fica subordinada administrativamente à Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais.<br>
+Parágrafo único. A Gerência de Planejamento Operacional dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais fica subordinada administrativamente à Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais.
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~Parágrafo único. A Gerência de Acompanhamento de Projetos do FUNDEINFRA fica subordinada administrativamente à Assessoria de Acompanhamento do Fundo Estadual de Infraestrutura.~~
 
 Seção II
 
-Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais<br>
+Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-~~Seção II<br>
+~~Seção II
+
 Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA~~
 
-Art. 58. Compete à Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais:<br>
+Art. 58. Compete à Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais:
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~Art. 58. Compete à Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA:~~
 
-I – desenvolver atividades de acompanhamento e monitoramento técnico da execução dos contratos, dos convênios e dos instrumentos congêneres para obras públicas e de infraestrutura de que trata o caput deste artigo;<br>
+I – desenvolver atividades de acompanhamento e monitoramento técnico da execução dos contratos, dos convênios e dos instrumentos congêneres para obras públicas e de infraestrutura de que trata o caput deste artigo;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~I – desenvolver atividades de acompanhamento e monitoramento técnico da execução dos contratos, dos convênios e dos instrumentos congêneres para obras públicas e de infraestrutura custeadas pelo FUNDEINFRA;~~
 
-II – desenvolver atividades de monitoramento físico-financeiro dos empreendimentos de que trata o caput deste artigo, sob a administração da GOINFRA, e elaborar relatórios gerenciais de atividades e avanço físico-financeiro;<br>
+II – desenvolver atividades de monitoramento físico-financeiro dos empreendimentos de que trata o caput deste artigo, sob a administração da GOINFRA, e elaborar relatórios gerenciais de atividades e avanço físico-financeiro;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~II – desenvolver atividades de monitoramento físico-financeiro dos empreendimentos custeados pelo FUNDEINFRA, sob a administração da GOINFRA, e elaborar relatórios gerenciais de atividades e desempenho;~~
 
-III – monitorar indicadores de desempenho dos empreendimentos de que trata o caput deste artigo, com a criação de painéis gerenciais para seu acompanhamento;<br>
+III – monitorar indicadores de desempenho dos empreendimentos de que trata o caput deste artigo, com a criação de painéis gerenciais para seu acompanhamento;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~III – elaborar e monitorar indicadores de desempenho dos empreendimentos custeados pelo FUNDEINFRA, com a criação de painéis gerenciais para seu acompanhamento;~~
 
-IV – subsidiar a Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais no monitoramento de interferências e riscos dos empreendimentos de que trata o caput deste artigo, para propor ações mitigadoras;<br>
+IV – subsidiar a Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais no monitoramento de interferências e riscos dos empreendimentos de que trata o caput deste artigo, para propor ações mitigadoras;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IV – subsidiar a Assessoria de Acompanhamento do Fundo Estadual da Infraestrutura no monitoramento de interferências e riscos dos empreendimentos custeados pelo FUNDEINFRA, com o objetivo de propor ações mitigadoras;~~
 
-V – elaborar, implantar e atualizar os planos de ação da Gerência e alinhá-los às diretrizes da GOINFRA e ao cumprimento dos objetivos e das metas estabelecidos para os projetos e as obras de que trata o caput deste artigo;<br>
+V – elaborar, implantar e atualizar os planos de ação da Gerência e alinhá-los às diretrizes da GOINFRA e ao cumprimento dos objetivos e das metas estabelecidos para os projetos e as obras de que trata o caput deste artigo;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~V – desenhar as matrizes de risco do programa e dos empreendimentos sob a responsabilidade da Assessoria de Acompanhamento do Fundo Estadual de Infraestrutura;~~
 
-VI – manter cadastro e registro atualizados com dados e informações dos empreendimentos de que trata o caput deste artigo,inclusive das informações das medições;<br>
+VI – manter cadastro e registro atualizados com dados e informações dos empreendimentos de que trata o caput deste artigo,inclusive das informações das medições;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VI – manter cadastro e registro atualizados com dados e informações dos empreendimentos custeados pelo FUNDEINFRA, inclusive das medições;~~
 
-VII – elaborar o Plano Anual de Trabalho, com base nas diretrizes e nas definições do planejamento estratégico e com a abrangência de ações, iniciativas, projetos e a estrutura de monitoramento e avaliação dos resultados técnicos sob sua supervisão;<br>
+VII – elaborar o Plano Anual de Trabalho, com base nas diretrizes e nas definições do planejamento estratégico e com a abrangência de ações, iniciativas, projetos e a estrutura de monitoramento e avaliação dos resultados técnicos sob sua supervisão;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VII – organizar, manter e divulgar informações estatísticas do setor de infraestrutura de transportes, especificamente das custeadas pelo FUNDEINFRA;~~
 
-VIII – participar da elaboração de relatórios de prestação de contas e demonstrativos financeiros do FUNDEINFRA, para assegurar sua conformidade com as normas e os regulamentos aplicáveis, no âmbito da GOINFRA; e<br>
+VIII – participar da elaboração de relatórios de prestação de contas e demonstrativos financeiros do FUNDEINFRA, para assegurar sua conformidade com as normas e os regulamentos aplicáveis, no âmbito da GOINFRA; e
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VIII – acompanhar os empreendimentos executados pelo FUNDEINFRA, com a observação do cumprimento das metas estabelecidas no Plano Plurianual e dos limites fixados na Lei Orçamentária Anual;~~
 
-~~IX – verificar a aplicação e o cumprimento das normas técnicas e dos regulamentos aplicáveis a todos os serviços técnicos realizados em sua área de atuação;<br>
+~~IX – verificar a aplicação e o cumprimento das normas técnicas e dos regulamentos aplicáveis a todos os serviços técnicos realizados em sua área de atuação;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~X – participar da elaboração de relatórios de prestação de contas e demonstrativos financeiros do FUNDEINFRA, para assegurar sua conformidade com as normas e os regulamentos aplicáveis, no âmbito da GOINFRA;<br>
+~~X – participar da elaboração de relatórios de prestação de contas e demonstrativos financeiros do FUNDEINFRA, para assegurar sua conformidade com as normas e os regulamentos aplicáveis, no âmbito da GOINFRA;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~XI – verificar a execução dos serviços relativos aos quantitativos apresentados nas medições dos empreendimentos custeados pelo FUNDEINFRA, a fim de subsidiar a validade dos pagamentos à empresa executora pela associação parceira; e<br>
+~~XI – verificar a execução dos serviços relativos aos quantitativos apresentados nas medições dos empreendimentos custeados pelo FUNDEINFRA, a fim de subsidiar a validade dos pagamentos à empresa executora pela associação parceira; e
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
 XII – encarregar-se de competências correlatas.
 
-Parágrafo único. A Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais fica subordinada administrativamente à Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais.<br>
+Parágrafo único. A Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA e dos Termos de Acordo de Regimes Especiais fica subordinada administrativamente à Assessoria de Acompanhamento do FUNDEINFRA e de Termos de Acordo de Regimes Especiais.
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~Parágrafo único. A Gerência de Acompanhamento e Monitoramento dos Empreendimentos do FUNDEINFRA fica subordinada administrativamente à Assessoria de Acompanhamento do Fundo Estadual de Infraestrutura.~~
@@ -2962,7 +3070,8 @@ VIII – emitir termos de recebimento e atestados dos projetos rodoviários de c
 
 IX – editar normas e regulamentos sobre matérias de competência da Diretoria de Projetos de Obras Rodoviárias;
 
-X – promover, coordenar e normatizar a aplicação de tecnologias inovadoras, inclusive ferramentas de inteligência artificial, na Diretoria de Projetos de Obras Rodoviárias, para o aprimoramento da análise, da validação, da compatibilização e do monitoramento de projetos rodoviários, também para a automatização de processos e à melhoria da qualidade das soluções técnicas adotadas;<br>
+X – promover, coordenar e normatizar a aplicação de tecnologias inovadoras, inclusive ferramentas de inteligência artificial, na Diretoria de Projetos de Obras Rodoviárias, para o aprimoramento da análise, da validação, da compatibilização e do monitoramento de projetos rodoviários, também para a automatização de processos e à melhoria da qualidade das soluções técnicas adotadas;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~X – prover, diretamente ou por meio de contratação, projetos de engenharia relacionados a questões ambientais a serem executados pela Diretoria de Obras Rodoviárias e pela Diretoria de Obras Civis;~~
@@ -2983,7 +3092,8 @@ I – da Gerência de Projetos de Construção de Rodovias;
 
 II – da Gerência de Projetos de Restauração de Rodovias;
 
-III – da Gerência de Validação e Inovação em Projetos Rodoviários;<br>
+III – da Gerência de Validação e Inovação em Projetos Rodoviários;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~III – da Gerência de Validação e Aprovação de Projetos Rodoviários;~~
@@ -2994,10 +3104,12 @@ V – da Gerência de Custos de Obras Rodoviárias;
 
 VI – da Gerência de Desapropriação.
 
-VII – da Gerência de Contratações Integradas; e<br>
+VII – da Gerência de Contratações Integradas; e
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-VIII – da Gerência de Projetos de Obras de Arte Especiais.<br>
+VIII – da Gerência de Projetos de Obras de Arte Especiais.
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 Seção I
@@ -3006,65 +3118,78 @@ Gerência de Projetos de Construção de Rodovias
 
 Art. 61. Compete à Gerência de Projetos de Construção de Rodovias:
 
-I – realizar a gestão e a fiscalização dos contratos relacionados a anteprojetos e projetos rodoviários de construção e duplicação sob sua responsabilidade;<br>
+I – realizar a gestão e a fiscalização dos contratos relacionados a anteprojetos e projetos rodoviários de construção e duplicação sob sua responsabilidade;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~I – realizar a gestão e a fiscalização dos contratos relacionados a projetos rodoviários de construção sob sua responsabilidade;~~
 
-II – promover a análise e a aceitação dos anteprojetos e dos projetos rodoviários de construção e duplicação desenvolvidos por terceiros conforme as Instruções de Projetos da GOINFRA e as normas complementares;<br>
+II – promover a análise e a aceitação dos anteprojetos e dos projetos rodoviários de construção e duplicação desenvolvidos por terceiros conforme as Instruções de Projetos da GOINFRA e as normas complementares;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~II – promover a análise e a aceitação dos projetos rodoviários de construção desenvolvidos por terceiros conforme as Instruções de Projetos da GOINFRA e as normas complementares;~~
 
-III – fiscalizar, nos termos dos atos normativos internos da Diretoria de Projetos de Obras Rodoviárias:<br>
+III – fiscalizar, nos termos dos atos normativos internos da Diretoria de Projetos de Obras Rodoviárias:
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~III – fiscalizar a regularidade do fluxo no processo de elaboração e aceitação do projeto de construção, a efetiva conclusão de todas as etapas, a entrega de toda a documentação nos formatos estabelecidos, bem como a conclusão de análises nos termos dos atos normativos internos da Diretoria de Projetos de Obras Rodoviárias;~~
 
-a) a regularidade do fluxo no processo de elaboração e aceitação dos anteprojetos e dos projetos de construção e duplicação;<br>
+a) a regularidade do fluxo no processo de elaboração e aceitação dos anteprojetos e dos projetos de construção e duplicação;
+
 \- [Acrescida pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127),.
 
-b) a efetiva conclusão de todas as etapas dos anteprojetos e dos projetos;<br>
+b) a efetiva conclusão de todas as etapas dos anteprojetos e dos projetos;
+
 \- [Acrescida pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-c) a entrega de toda a documentação nos formatos estabelecidos; e<br>
+c) a entrega de toda a documentação nos formatos estabelecidos; e
+
 \- [Acrescida pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-d) a conclusão das análises sob sua responsabilidade;<br>
+d) a conclusão das análises sob sua responsabilidade;
+
 \- [Acrescida pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-IV – indicar servidores para o exercício das funções de gestor e fiscal de anteprojetos e projetos rodoviários de construção e duplicação;<br>
+IV – indicar servidores para o exercício das funções de gestor e fiscal de anteprojetos e projetos rodoviários de construção e duplicação;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IV – indicar servidores para o exercício das funções de gestor e fiscal de projetos rodoviários de construção;~~
 
-V – orientar os fornecedores projetistas na execução de atividades referentes à elaboração de anteprojetos e projetos rodoviários de construção e duplicação;<br>
+V – orientar os fornecedores projetistas na execução de atividades referentes à elaboração de anteprojetos e projetos rodoviários de construção e duplicação;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~V – orientar os fornecedores projetistas na execução de atividades referentes à elaboração de projetos rodoviários de construção;~~
 
 VI – estabelecer a adequada condução de procedimentos administrativos para a emissão de termos de recebimento e atestados dos projetos rodoviários de construção pela diretoria;
 
-VII – cadastrar, arquivar e disponibilizar os anteprojetos e os projetos rodoviários de construção e duplicação originais e os projetos finais _As Built_, devidamente atestados, às demais unidades da GOINFRA, mediante solicitação;<br>
+VII – cadastrar, arquivar e disponibilizar os anteprojetos e os projetos rodoviários de construção e duplicação originais e os projetos finais _As Built_, devidamente atestados, às demais unidades da GOINFRA, mediante solicitação;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VII – cadastrar, arquivar e disponibilizar os projetos rodoviários de construção originais e os projetos finais As Built, devidamente atestados, às demais unidades da GOINFRA, mediante solicitação;~~
 
-VIII – solicitar as ordens de serviço (início, reinício e paralisação) e as designações de fiscalização e gestão de contratos;<br>
+VIII – solicitar as ordens de serviço (início, reinício e paralisação) e as designações de fiscalização e gestão de contratos;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VIII – cadastrar as ordens de serviço (início, reinício e paralisação) e as designações de fiscalização e gestão de contratos;~~
 
 IX – emitir relatórios gerenciais de não conformidade relacionados à qualidade e ao desempenho físico-financeiro das empresas contratadas, para subsidiar a Diretoria de Projetos de Obras Rodoviárias em processos de responsabilização de fornecedores;
 
-X – emitir o Termo de Aceitação de Projeto de Construção e Duplicação, após a análise e a verificação, conforme procedimentos estabelecidos nos atos normativos vigentes;<br>
+X – emitir o Termo de Aceitação de Projeto de Construção e Duplicação, após a análise e a verificação, conforme procedimentos estabelecidos nos atos normativos vigentes;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~X – emitir o Termo de Aceitação de Projeto de Construção, após a análise e a verificação, conforme procedimentos estabelecidos nos atos normativos vigentes;~~
 
 XI – subsidiar a Diretoria de Projetos de Obras Rodoviárias na elaboração de especificações técnicas e termos de referência para procedimentos licitatórios relacionados a projetos rodoviários de construção;
 
-XII – propor e auxiliar a elaboração ou a revisão de normas técnicas, instruções e especificações aplicáveis ao desenvolvimento e ao controle de anteprojetos e projetos rodoviários de construção e duplicação;<br>
+XII – propor e auxiliar a elaboração ou a revisão de normas técnicas, instruções e especificações aplicáveis ao desenvolvimento e ao controle de anteprojetos e projetos rodoviários de construção e duplicação;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~XII –  propor e auxiliar na elaboração ou na revisão de normas técnicas, instruções e especificações aplicáveis ao desenvolvimento e ao controle de projetos rodoviários de construção;~~
@@ -3095,7 +3220,8 @@ VI – estabelecer a adequada condução de procedimentos administrativos para a
 
 VII – cadastrar, arquivar e disponibilizar os projetos rodoviários de restauração originais e os projetos finais As Built, devidamente atestados, às demais unidades da GOINFRA, mediante solicitação;
 
-VIII – solicitar as ordens de serviço (início, reinício e paralisação) e as designações de fiscalização e gestão de contratos;<br>
+VIII – solicitar as ordens de serviço (início, reinício e paralisação) e as designações de fiscalização e gestão de contratos;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VIII – cadastrar as ordens de serviço (início, reinício e paralisação) e as designações de fiscalização e gestão de contratos;~~
@@ -3116,13 +3242,16 @@ Parágrafo único. A Gerência de Projetos de Restauração de Rodovias fica sub
 
 Seção III
 
-Gerência de Validação e Inovação em Projetos Rodoviários<br>
+Gerência de Validação e Inovação em Projetos Rodoviários
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-~~Seção III<br>
+~~Seção III
+
 Gerência de Validação e Aprovação de Projetos Rodoviários~~
 
-Art. 63. Compete à Gerência de Validação e Inovação em Projetos Rodoviários:<br>
+Art. 63. Compete à Gerência de Validação e Inovação em Projetos Rodoviários:
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~Art. 63. Compete à Gerência de Validação e Aprovação de Projetos Rodoviários:~~
@@ -3143,83 +3272,102 @@ IV – realizar visitas técnicas de campo para a análise e a validação dos e
 
 V – emitir termo de validação de dados de entrada de disciplinas de projetos rodoviários em atendimento às normas internas da diretoria relacionadas à análise de projetos rodoviários da GOINFRA;
 
-VI – implementar plano periódico de capacitação para servidores, focado em gestão e desenvolvimento de projetos rodoviários;<br>
+VI – implementar plano periódico de capacitação para servidores, focado em gestão e desenvolvimento de projetos rodoviários;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VI – gerir o Laboratório de Topografia, Asfalto, Solos e Concreto, com as seguintes ações:~~
 
-~~a) realizar estudos, ensaios tecnológicos, levantamentos topográficos e análises físicas do concreto, das misturas betuminosas e dos demais materiais correlatos, inclusive subsidiar os ensaios necessários à validação de projetos rodoviários da GOINFRA;<br>
+~~a) realizar estudos, ensaios tecnológicos, levantamentos topográficos e análises físicas do concreto, das misturas betuminosas e dos demais materiais correlatos, inclusive subsidiar os ensaios necessários à validação de projetos rodoviários da GOINFRA;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~b) colaborar na elaboração de normas referentes aos métodos de ensaios de sua especialidade;<br>
+~~b) colaborar na elaboração de normas referentes aos métodos de ensaios de sua especialidade;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~c) promover, quando for solicitado pela Diretoria de Projetos de Obras Rodoviárias, o acompanhamento do controle tecnológico dos materiais e das técnicas utilizados nas obras sob a tutela da GOINFRA; e<br>
+~~c) promover, quando for solicitado pela Diretoria de Projetos de Obras Rodoviárias, o acompanhamento do controle tecnológico dos materiais e das técnicas utilizados nas obras sob a tutela da GOINFRA; e
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-~~d) atuar na elaboração e no desenvolvimento de estudos de engenharia rodoviária atinentes às áreas tecnológicas, científicas e gerenciais relacionadas ao controle, ao acompanhamento, ao desenvolvimento tecnológico ou às inovações de obras, projetos e serviços rodoviários;<br>
+~~d) atuar na elaboração e no desenvolvimento de estudos de engenharia rodoviária atinentes às áreas tecnológicas, científicas e gerenciais relacionadas ao controle, ao acompanhamento, ao desenvolvimento tecnológico ou às inovações de obras, projetos e serviços rodoviários;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
-VII – gerir adequadamente os contratos sob sua supervisão, para garantir o cumprimento dos prazos, das condições contratuais e das normas aplicáveis;<br>
+VII – gerir adequadamente os contratos sob sua supervisão, para garantir o cumprimento dos prazos, das condições contratuais e das normas aplicáveis;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VII – implementar plano periódico de capacitação para servidores, focado em gestão e desenvolvimento de projetos rodoviários;~~
 
-VIII – gerir o pessoal sob sua supervisão, para assegurar o planejamento, o acompanhamento e o desenvolvimento adequados das atividades;<br>
+VIII – gerir o pessoal sob sua supervisão, para assegurar o planejamento, o acompanhamento e o desenvolvimento adequados das atividades;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VIII – gerir adequadamente os contratos sob sua supervisão, para garantir o cumprimento dos prazos, das condições contratuais e das normas aplicáveis;~~
 
-IX – analisar e emitir a devida aprovação das solicitações de revisão de projetos de construção e restauração em fase de obras, nos termos da norma interna conjunta da Diretoria de Projetos de Obras Rodoviárias e da Diretoria de Obras Rodoviárias;<br>
+IX – analisar e emitir a devida aprovação das solicitações de revisão de projetos de construção e restauração em fase de obras, nos termos da norma interna conjunta da Diretoria de Projetos de Obras Rodoviárias e da Diretoria de Obras Rodoviárias;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IX – gerir o pessoal sob sua supervisão, para assegurar o planejamento, o acompanhamento e o desenvolvimento adequados das atividades;~~
 
-X – monitorar e avaliar o desempenho dos projetos rodoviários, com o subsídio das análises a que se refere o inciso IX deste artigo referentes à revisão de projetos em fase de obras, com o desenvolvimento de:<br>
+X – monitorar e avaliar o desempenho dos projetos rodoviários, com o subsídio das análises a que se refere o inciso IX deste artigo referentes à revisão de projetos em fase de obras, com o desenvolvimento de:
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~X – analisar e emitir a devida aprovação das solicitações de revisão de projetos de construção e restauração em fase de obras, nos termos da norma interna conjunta da Diretoria de Projetos de Obras Rodoviárias e da Diretoria de Obras Rodoviárias;~~
 
-a) métricas de desempenho para avaliar a qualidade dos projetos, com base na variação dos valores contratuais e nas razões técnicas durante a execução das obras; e<br>
+a) métricas de desempenho para avaliar a qualidade dos projetos, com base na variação dos valores contratuais e nas razões técnicas durante a execução das obras; e
+
 \- [Acrescida pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-b) acompanhamento contínuo para identificar pontos de melhoria nas rotinas de análise e validação de projetos, para subsidiar a Diretoria de Projetos de Obras Rodoviárias no desenvolvimento de normas internas dela relacionadas a todo o procedimento de aprovação de projetos rodoviários da GOINFRA;<br>
+b) acompanhamento contínuo para identificar pontos de melhoria nas rotinas de análise e validação de projetos, para subsidiar a Diretoria de Projetos de Obras Rodoviárias no desenvolvimento de normas internas dela relacionadas a todo o procedimento de aprovação de projetos rodoviários da GOINFRA;
+
 \- [Acrescida pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XI – desenvolver, coordenar e normatizar a aplicação de ferramentas de inteligência artificial e novas tecnologias na Diretoria de Projetos de Obras Rodoviárias, para o suporte à análise, à validação e ao monitoramento de projetos, e isso compreende:<br>
+XI – desenvolver, coordenar e normatizar a aplicação de ferramentas de inteligência artificial e novas tecnologias na Diretoria de Projetos de Obras Rodoviárias, para o suporte à análise, à validação e ao monitoramento de projetos, e isso compreende:
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~XI – monitorar e avaliar o desempenho dos projetos rodoviários, subsidiada pelas análises a que se refere o inciso X deste artigo referentes à revisão de projetos em fase de obras, com o desenvolvimento de:~~
 
-a) a identificação técnica: detecção de inconsistências, incompatibilidades entre disciplinas e desvios de quantitativos ou orçamentos por processamento inteligente de dados e novas metodologias de conferência;<br>
+a) a identificação técnica: detecção de inconsistências, incompatibilidades entre disciplinas e desvios de quantitativos ou orçamentos por processamento inteligente de dados e novas metodologias de conferência;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~a) métricas de desempenho para avaliar a qualidade dos projetos, com base na variação dos valores contratuais e nas razões técnicas durante a execução das obras; e~~
 
-b) a automatização de processos: apoio à digitalização e à automação de rotinas de análise e verificação documental, para otimizar o fluxo de aprovação de projetos;<br>
+b) a automatização de processos: apoio à digitalização e à automação de rotinas de análise e verificação documental, para otimizar o fluxo de aprovação de projetos;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~b) acompanhamento contínuo para identificar pontos de melhoria nas rotinas de análise e validação de projetos, para subsidiar a Diretoria de Projetos de Obras Rodoviárias no desenvolvimento de normas internas da diretoria relacionadas a todo o procedimento de aprovação de projetos rodoviários da GOINFRA; e~~
 
-c) a inteligência de dados: desenvolvimento de bases de dados e modelos analíticos para a avaliação contínua do desempenho e da qualidade dos projetos rodoviários;<br>
+c) a inteligência de dados: desenvolvimento de bases de dados e modelos analíticos para a avaliação contínua do desempenho e da qualidade dos projetos rodoviários;
+
 \- [Acrescida pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-d) a governança normativa: proposição de atos normativos, instruções técnicas e diretrizes que garantam a padronização e a aderência das novas tecnologias aos critérios de validação da Diretoria de Projetos de Obras Rodoviárias; e<br>
+d) a governança normativa: proposição de atos normativos, instruções técnicas e diretrizes que garantam a padronização e a aderência das novas tecnologias aos critérios de validação da Diretoria de Projetos de Obras Rodoviárias; e
+
 \- [Acrescida pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-e) a gestão de contratações: prospectar, especificar tecnicamente e acompanhar a contratação de novas tecnologias, softwares e serviços especializados em inteligência artificial, para assegurar que as soluções adquiridas atendam às necessidades constantes de revisão e atualização dos projetos rodoviários.<br>
+e) a gestão de contratações: prospectar, especificar tecnicamente e acompanhar a contratação de novas tecnologias, softwares e serviços especializados em inteligência artificial, para assegurar que as soluções adquiridas atendam às necessidades constantes de revisão e atualização dos projetos rodoviários.
+
 \- [Acrescida pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 XII – encarregar-se de competências correlatas.
 
 § 1º A execução das atividades previstas no inciso II do caput deste artigo poderá contar com o apoio de empresa especializada em gerenciamento.
 
-§ 2º A elaboração de projetos internos de engenharia rodoviária a que se refere o inciso III do caput deste artigo é da responsabilidade da Gerência de Validação e Inovação em Projetos Rodoviários, que poderá contar com o apoio de outras unidades da Diretoria de Projetos de Obras Rodoviárias, conforme a necessidade técnica e sob a coordenação dessa Diretoria.<br>
+§ 2º A elaboração de projetos internos de engenharia rodoviária a que se refere o inciso III do caput deste artigo é da responsabilidade da Gerência de Validação e Inovação em Projetos Rodoviários, que poderá contar com o apoio de outras unidades da Diretoria de Projetos de Obras Rodoviárias, conforme a necessidade técnica e sob a coordenação dessa Diretoria.
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~§ 2º A elaboração de projetos internos de engenharia rodoviária a que se refere o inciso III do caput deste artigo é da responsabilidade da Gerência de Validação e Aprovação de Projetos Rodoviários, que poderá contar com o apoio de outras unidades da Diretoria de Projetos de Obras Rodoviárias, conforme a necessidade técnica e sob a coordenação dessa Diretoria.~~
 
-§ 3º A Gerência de Validação e Inovação em Projetos Rodoviários fica subordinada administrativamente à Diretoria de Projetos de Obras Rodoviárias.<br>
+§ 3º A Gerência de Validação e Inovação em Projetos Rodoviários fica subordinada administrativamente à Diretoria de Projetos de Obras Rodoviárias.
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 ~~§ 3º A Gerência de Validação e Aprovação de Projetos Rodoviários fica subordinada administrativamente à Diretoria de Projetos de Obras Rodoviárias.~~
@@ -3236,67 +3384,80 @@ II – coordenar, supervisionar, elaborar e contratar estudos, consultorias e pr
 
 III – gerenciar, diretamente ou por meio de contratação, projetos relacionados a questões ambientais a serem executados pela Diretoria de Obras Rodoviárias e pela Diretoria de Obras Civis;
 
-IV – contribuir com a articulação para a elaboração e a integração de propostas de regulamentação das questões relativas ao meio ambiente no âmbito da GOINFRA, conforme o interesse da autarquia;<br>
+IV – contribuir com a articulação para a elaboração e a integração de propostas de regulamentação das questões relativas ao meio ambiente no âmbito da GOINFRA, conforme o interesse da autarquia;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IV – analisar e emitir considerações sobre assuntos relacionados a questões ambientais que lhe forem submetidos;~~
 
-V – articular-se com órgãos ambientais federais, estaduais e demais instituições competentes para a obtenção de licenças, autorizações e outorgas ambientais e para a celebração de acordos, convênios e ações conjuntas relacionadas às questões socioambientais dos empreendimentos sob a responsabilidade da GOINFRA;<br>
+V – articular-se com órgãos ambientais federais, estaduais e demais instituições competentes para a obtenção de licenças, autorizações e outorgas ambientais e para a celebração de acordos, convênios e ações conjuntas relacionadas às questões socioambientais dos empreendimentos sob a responsabilidade da GOINFRA;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~V – contribuir com articulação para a elaboração e a integração de propostas de regulamentação das questões relativas ao meio ambiente no âmbito da GOINFRA, conforme o interesse da autarquia;~~
 
-VI – auxiliar a GOINFRA e promover a unidade de atuação de seus representantes em órgãos colegiados relacionados ao setor do meio ambiente;<br>
+VI – auxiliar a GOINFRA e promover a unidade de atuação de seus representantes em órgãos colegiados relacionados ao setor do meio ambiente;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VI – articular-se com os órgãos do Governo Federal e do Governo Estadual para proposições de acordos ou convênios relativos a questões socioambientais associadas a empreendimentos setoriais;~~
 
-VII – oferecer orientação técnica às diretorias da GOINFRA quanto às questões ambientais relacionadas aos empreendimentos sob sua tutela, inclusive para o atendimento às condicionantes ambientais durante a execução de obras e serviços de engenharia;<br>
+VII – oferecer orientação técnica às diretorias da GOINFRA quanto às questões ambientais relacionadas aos empreendimentos sob sua tutela, inclusive para o atendimento às condicionantes ambientais durante a execução de obras e serviços de engenharia;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VII – auxiliar a GOINFRA e promover a unidade de atuação de seus representantes em órgãos colegiados relacionados ao setor do meio ambiente;~~
 
-VIII – atender às normas internas da Diretoria de Projetos de Obras Rodoviárias relacionadas à análise de projetos rodoviários da GOINFRA;<br>
+VIII – atender às normas internas da Diretoria de Projetos de Obras Rodoviárias relacionadas à análise de projetos rodoviários da GOINFRA;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VIII – oferecer orientação técnica necessária para ações do meio ambiente relacionadas a obras públicas sob a tutela da GOINFRA;~~
 
-IX – representar o setor de meio ambiente nas comissões de recebimento de obra quando houver designação;<br>
+IX – representar o setor de meio ambiente nas comissões de recebimento de obra quando houver designação;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~IX – oferecer orientação técnica às diretorias para apoiar o cumprimento das condicionantes ambientais durante a fase de execução de obras ou de serviços de engenharia;~~
 
-X – formular normas e planos destinados a orientar a ação da GOINFRA quanto à preservação da qualidade ambiental e à manutenção do equilíbrio ecológico, observados os princípios estabelecidos nas legislações ambientais vigentes;<br>
+X – formular normas e planos destinados a orientar a ação da GOINFRA quanto à preservação da qualidade ambiental e à manutenção do equilíbrio ecológico, observados os princípios estabelecidos nas legislações ambientais vigentes;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~X – atender às normas internas da Diretoria de Projetos de Obras Rodoviárias relacionadas à análise de projetos rodoviários da GOINFRA;~~
 
-XI – gerir adequadamente os contratos sob sua supervisão e garantir o cumprimento dos prazos, das condições contratuais edas normas aplicáveis;<br>
+XI – gerir adequadamente os contratos sob sua supervisão e garantir o cumprimento dos prazos, das condições contratuais edas normas aplicáveis;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~XI – representar o setor de meio ambiente nas comissões de recebimento de obra quando houver designação;~~
 
-XII – gerir o pessoal sob sua supervisão e assegurar o planejamento, o acompanhamento e o desenvolvimento adequados das atividades;<br>
+XII – gerir o pessoal sob sua supervisão e assegurar o planejamento, o acompanhamento e o desenvolvimento adequados das atividades;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~XII – formular normas e planos destinados a orientar a ação da GOINFRA quanto à preservação da qualidade ambiental e à manutenção do equilíbrio ecológico, observados os princípios estabelecidos nas legislações ambientais vigentes;~~
 
-XIII – acompanhar a conformidade das ações de governança ambiental das diretorias da GOINFRA com as diretrizes institucionais e com a legislação ambiental aplicável, no âmbito de suas competências;<br>
+XIII – acompanhar a conformidade das ações de governança ambiental das diretorias da GOINFRA com as diretrizes institucionais e com a legislação ambiental aplicável, no âmbito de suas competências;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~XIII – gerir adequadamente os contratos sob sua supervisão e garantir o cumprimento dos prazos, das condições contratuais e das normas aplicáveis;~~
 
-XIV – apoiar a implementação de políticas de gestão de resíduos sólidos, de uso eficiente de recursos hídricos e energéticos e de redução da emissão de poluentes nas atividades da GOINFRA;<br>
+XIV – apoiar a implementação de políticas de gestão de resíduos sólidos, de uso eficiente de recursos hídricos e energéticos e de redução da emissão de poluentes nas atividades da GOINFRA;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~XIV – gerir o pessoal sob sua supervisão e assegurar o planejamento, o acompanhamento e o desenvolvimento adequados das atividades; e~~
 
-XV – fomentar o uso de tecnologias inovadoras e sustentáveis nos projetos e nas obras executados ou supervisionados pela GOINFRA; e<br>
+XV – fomentar o uso de tecnologias inovadoras e sustentáveis nos projetos e nas obras executados ou supervisionados pela GOINFRA; e
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~XV – encarregar-se de competências correlatas.~~
 
-XVI – encarregar-se de competências correlatas.<br>
+XVI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 3º.
 
 Parágrafo único. A Gerência de Estudos Ambientais fica subordinada administrativamente à Diretoria de Projetos de Obras Rodoviárias.
@@ -3339,12 +3500,14 @@ Gerência de Desapropriação
 
 Art. 66. Compete à Gerência de Desapropriação:
 
-I – executar as atividades de desapropriação necessárias à realização de obras públicas da responsabilidade da GOINFRA;<br>
+I – executar as atividades de desapropriação necessárias à realização de obras públicas da responsabilidade da GOINFRA;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~I – executar as atividades de desapropriação e reassentamento necessárias à realização de obras públicas da responsabilidade da GOINFRA;~~
 
-~~II – prestar suporte técnico à Procuradoria Setorial da GOINFRA na execução de ações judiciais de desapropriação e reassentamento;<br>
+~~II – prestar suporte técnico à Procuradoria Setorial da GOINFRA na execução de ações judiciais de desapropriação e reassentamento;
+
 ~~\- [Revogado pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127), art. 7º.
 
 III – orientar as unidades técnicas na elaboração de termos de referência para a contratação de empresas especializadas ou para a celebração de convênios e instrumentos congêneres relacionados aos atos de desapropriação, bem como executá-los, quando isso for necessário;
@@ -3355,12 +3518,14 @@ V – instruir os processos que objetivem a solicitação de declaração de uti
 
 VI – prestar suporte técnico e operacional à Procuradoria Setorial da GOINFRA na instrução de processos judiciais relacionados a desapropriação, imissão na posse, reintegração de posse e usucapião, com o fornecimento de documentos, subsídios técnicos, informações sobre imóveis e a indicação de assistentes técnicos, quando isso for necessário;
 
-VII – acompanhar os processos individuais de desapropriação até seu encerramento e instruí-los com as informações necessárias que estejam sob sua responsabilidade;<br>
+VII – acompanhar os processos individuais de desapropriação até seu encerramento e instruí-los com as informações necessárias que estejam sob sua responsabilidade;
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VII – acompanhar, no SEI, os processos individuais de desapropriação até seu encerramento e instruí-los com as informações necessárias que estejam sob sua responsabilidade;~~
 
-VIII – executar e fiscalizar os serviços de desapropriação; e<br>
+VIII – executar e fiscalizar os serviços de desapropriação; e
+
 \- [Redação dada pelo Decreto nº 10.898, de 28-4-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127)
 
 ~~VIII – executar e fiscalizar os serviços de desapropriação e reassentamento; e~~
@@ -3371,117 +3536,154 @@ Parágrafo único. A Gerência de Desapropriação fica subordinada administrati
 
 Seção VII
 
-Gerência de Contratações Integradas<br>
+Gerência de Contratações Integradas
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-Art. 66-A. Compete à Gerência de Contratações Integradas:<br>
+Art. 66-A. Compete à Gerência de Contratações Integradas:
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-I – realizar a fiscalização dos contratos relacionados à análise e ao acompanhamento técnico de projetos de engenhariarodoviária desenvolvidos no âmbito de contratações integradas;<br>
+I – realizar a fiscalização dos contratos relacionados à análise e ao acompanhamento técnico de projetos de engenhariarodoviária desenvolvidos no âmbito de contratações integradas;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-II – promover a análise e a aceitação dos projetos de engenharia rodoviária elaborados pela contratada no contexto da contratação integrada, inclusive o Projeto Básico de Integradas – PBI e o Projeto Executivo de Engenharia – PEE, conforme as normas técnicas da GOINFRA;<br>
+II – promover a análise e a aceitação dos projetos de engenharia rodoviária elaborados pela contratada no contexto da contratação integrada, inclusive o Projeto Básico de Integradas – PBI e o Projeto Executivo de Engenharia – PEE, conforme as normas técnicas da GOINFRA;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-III – verificar a conformidade dos projetos apresentados pela contratada com os elementos estruturantes da solução técnica definida no anteprojeto aprovado e a compatibilização técnica entre as diferentes disciplinas do projeto;<br>
+III – verificar a conformidade dos projetos apresentados pela contratada com os elementos estruturantes da solução técnica definida no anteprojeto aprovado e a compatibilização técnica entre as diferentes disciplinas do projeto;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-IV – coordenar e consolidar as análises técnicas multidisciplinares realizadas no âmbito da Diretoria de Projetos de Obras Rodoviárias relativas aos projetos apresentados nas contratações integradas;<br>
+IV – coordenar e consolidar as análises técnicas multidisciplinares realizadas no âmbito da Diretoria de Projetos de Obras Rodoviárias relativas aos projetos apresentados nas contratações integradas;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-V – fiscalizar a regularidade do fluxo de elaboração, apresentação, versionamento e análise dos projetos apresentados pela contratada, e assegurar a rastreabilidade das manifestações técnicas e das decisões administrativas;<br>
+V – fiscalizar a regularidade do fluxo de elaboração, apresentação, versionamento e análise dos projetos apresentados pela contratada, e assegurar a rastreabilidade das manifestações técnicas e das decisões administrativas;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-VI – indicar servidores para o exercício das funções de gestor e fiscal de contratos relacionados à análise de projetos no âmbito das contratações integradas;<br>
+VI – indicar servidores para o exercício das funções de gestor e fiscal de contratos relacionados à análise de projetos no âmbito das contratações integradas;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-VII – orientar tecnicamente os fiscais de projeto e as equipes envolvidas quanto aos procedimentos de análise, verificação e acompanhamento dos projetos apresentados no âmbito das contratações integradas;<br>
+VII – orientar tecnicamente os fiscais de projeto e as equipes envolvidas quanto aos procedimentos de análise, verificação e acompanhamento dos projetos apresentados no âmbito das contratações integradas;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-VIII – registrar inconformidades técnicas identificadas nos projetos apresentados e promover o encaminhamento de solicitações de correção, complementação ou ajuste à contratada, quando isso for necessário;<br>
+VIII – registrar inconformidades técnicas identificadas nos projetos apresentados e promover o encaminhamento de solicitações de correção, complementação ou ajuste à contratada, quando isso for necessário;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-IX – elaborar relatórios técnicos e relatórios consolidados de análise dos projetos apresentados pela contratada, para subsidiar a tomada de decisões administrativas quanto à aceitação, à aprovação ou à necessidade de revisão dos produtos técnicos da contratação integrada;<br>
+IX – elaborar relatórios técnicos e relatórios consolidados de análise dos projetos apresentados pela contratada, para subsidiar a tomada de decisões administrativas quanto à aceitação, à aprovação ou à necessidade de revisão dos produtos técnicos da contratação integrada;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-X – subsidiar a Diretoria de Projetos de Obras Rodoviárias na emissão de termos de aceitação, termos de aprovação ou demais atos administrativos relacionados à análise e à validação institucional dos projetos desenvolvidos no âmbito das contratações integradas;<br>
+X – subsidiar a Diretoria de Projetos de Obras Rodoviárias na emissão de termos de aceitação, termos de aprovação ou demais atos administrativos relacionados à análise e à validação institucional dos projetos desenvolvidos no âmbito das contratações integradas;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XI – subsidiar a Diretoria de Obras Rodoviárias na elaboração de especificações técnicas, estudos preliminares e termos de referência relacionados à adoção do regime de contratação integrada;<br>
+XI – subsidiar a Diretoria de Obras Rodoviárias na elaboração de especificações técnicas, estudos preliminares e termos de referência relacionados à adoção do regime de contratação integrada;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XII – propor e auxiliar a elaboração, a revisão e a atualização de normas técnicas, manuais, instruções e procedimentos institucionais aplicáveis à análise de projetos de engenharia rodoviária em contratações integradas;<br>
+XII – propor e auxiliar a elaboração, a revisão e a atualização de normas técnicas, manuais, instruções e procedimentos institucionais aplicáveis à análise de projetos de engenharia rodoviária em contratações integradas;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XIII – acompanhar a evolução técnica e metodológica dos projetos desenvolvidos no âmbito das contratações integradas, para o aprimoramento dos procedimentos de análise e controle adotados pela GOINFRA;<br>
+XIII – acompanhar a evolução técnica e metodológica dos projetos desenvolvidos no âmbito das contratações integradas, para o aprimoramento dos procedimentos de análise e controle adotados pela GOINFRA;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XIV – gerir o pessoal sob sua supervisão, para assegurar o adequado planejamento, acompanhamento e desenvolvimento das atividades da Gerência de Contratações Integradas; e<br>
+XIV – gerir o pessoal sob sua supervisão, para assegurar o adequado planejamento, acompanhamento e desenvolvimento das atividades da Gerência de Contratações Integradas; e
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XV – encarregar-se de competências correlatas.<br>
+XV – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-Parágrafo único. Gerência de Contratações Integradas fica subordinada administrativamente à Diretoria de Projetos de Obras Rodoviárias.<br>
+Parágrafo único. Gerência de Contratações Integradas fica subordinada administrativamente à Diretoria de Projetos de Obras Rodoviárias.
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 Seção VIII
 
-Gerência de Projetos de Obras de Arte Especiais<br>
+Gerência de Projetos de Obras de Arte Especiais
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-Art. 66-B. Compete à Gerência de Projetos de Obras de Arte Especiais:<br>
+Art. 66-B. Compete à Gerência de Projetos de Obras de Arte Especiais:
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-I – realizar a gestão e a fiscalização dos contratos relacionados à elaboração de projetos de obras de arte especiais sob sua responsabilidade;<br>
+I – realizar a gestão e a fiscalização dos contratos relacionados à elaboração de projetos de obras de arte especiais sob sua responsabilidade;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-II – promover a análise, a emissão de parecer técnico e a aceitação dos projetos de obras de arte especiais desenvolvidos por terceiros, inclusive aqueles provenientes de convênios, parcerias institucionais ou outras formas de cooperação celebradas pelo Estado de Goiás, em conformidade com as Instruções de Projetos da GOINFRA, normas técnicas aplicáveis e demais atos normativos da Diretoria de Projetos de Obras Rodoviárias;<br>
+II – promover a análise, a emissão de parecer técnico e a aceitação dos projetos de obras de arte especiais desenvolvidos por terceiros, inclusive aqueles provenientes de convênios, parcerias institucionais ou outras formas de cooperação celebradas pelo Estado de Goiás, em conformidade com as Instruções de Projetos da GOINFRA, normas técnicas aplicáveis e demais atos normativos da Diretoria de Projetos de Obras Rodoviárias;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-III – fiscalizar a regularidade do fluxo no processo de elaboração e aceitação dos projetos de obras de arte especiais, a efetiva conclusão de todas as etapas, a entrega da documentação técnica nos formatos estabelecidos e a realização das análises técnicas nos termos das normas vigentes;<br>
+III – fiscalizar a regularidade do fluxo no processo de elaboração e aceitação dos projetos de obras de arte especiais, a efetiva conclusão de todas as etapas, a entrega da documentação técnica nos formatos estabelecidos e a realização das análises técnicas nos termos das normas vigentes;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-IV – indicar servidores para o exercício das funções de gestor e fiscal de contratos de projetos de obras de arte especiais;<br>
+IV – indicar servidores para o exercício das funções de gestor e fiscal de contratos de projetos de obras de arte especiais;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-V – orientar os fornecedores projetistas na execução das atividades referentes à elaboração de projetos de obras de arte especiais, inclusive pontes, viadutos, pontilhões, passagens estruturais e demais estruturas associadas à infraestrutura rodoviária;<br>
+V – orientar os fornecedores projetistas na execução das atividades referentes à elaboração de projetos de obras de arte especiais, inclusive pontes, viadutos, pontilhões, passagens estruturais e demais estruturas associadas à infraestrutura rodoviária;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-VI – elaborar, quando for necessário e a critério da Diretoria de Projetos de Obras Rodoviárias, anteprojetos ou projetos de obras de arte especiais de pequeno porte, como bueiros celulares, pontilhões e estruturas equivalentes, bem como seus projetos de reabilitação funcional de estruturas existentes em caráter emergencial;<br>
+VI – elaborar, quando for necessário e a critério da Diretoria de Projetos de Obras Rodoviárias, anteprojetos ou projetos de obras de arte especiais de pequeno porte, como bueiros celulares, pontilhões e estruturas equivalentes, bem como seus projetos de reabilitação funcional de estruturas existentes em caráter emergencial;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-VII – analisar e emitir parecer técnico sobre projetos de obras de arte especiais elaborados por terceiros que exerçam influência sobre o sistema viário sob a tutela do Estado de Goiás;<br>
+VII – analisar e emitir parecer técnico sobre projetos de obras de arte especiais elaborados por terceiros que exerçam influência sobre o sistema viário sob a tutela do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-VIII – estabelecer a adequada condução dos procedimentos administrativos destinados à emissão de termos de recebimento e atestados de projetos de obras de arte especiais pela Diretoria de Projetos de Obras Rodoviárias;<br>
+VIII – estabelecer a adequada condução dos procedimentos administrativos destinados à emissão de termos de recebimento e atestados de projetos de obras de arte especiais pela Diretoria de Projetos de Obras Rodoviárias;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-IX – emitir o Termo de Aceitação de Projeto de Obras de Arte Especiais, após a verificação da conformidade técnica e documental, de acordo com os procedimentos estabelecidos nas normas vigentes;<br>
+IX – emitir o Termo de Aceitação de Projeto de Obras de Arte Especiais, após a verificação da conformidade técnica e documental, de acordo com os procedimentos estabelecidos nas normas vigentes;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-X – cadastrar, arquivar e disponibilizar os projetos de obras de arte especiais originais e os projetos finais As Built devidamente atestados às demais unidades da GOINFRA, mediante solicitação;<br>
+X – cadastrar, arquivar e disponibilizar os projetos de obras de arte especiais originais e os projetos finais As Built devidamente atestados às demais unidades da GOINFRA, mediante solicitação;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XI – solicitar as ordens de serviço (início, reinício e paralisação) e as designações de fiscalização e gestão relacionadas aos contratos de projetos de obras de arte especiais;<br>
+XI – solicitar as ordens de serviço (início, reinício e paralisação) e as designações de fiscalização e gestão relacionadas aos contratos de projetos de obras de arte especiais;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XII – emitir relatórios gerenciais de não conformidade relacionados à qualidade e ao desempenho das empresas contratadas para a elaboração de projetos de obras de arte especiais, para subsidiar a Diretoria de Projetos de Obras Rodoviárias em processos de responsabilização de fornecedores;<br>
+XII – emitir relatórios gerenciais de não conformidade relacionados à qualidade e ao desempenho das empresas contratadas para a elaboração de projetos de obras de arte especiais, para subsidiar a Diretoria de Projetos de Obras Rodoviárias em processos de responsabilização de fornecedores;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XIII – subsidiar a Diretoria de Projetos de Obras Rodoviárias na elaboração de especificações técnicas, estudos preliminares e termos de referência destinados à contratação de projetos de obras de arte especiais;<br>
+XIII – subsidiar a Diretoria de Projetos de Obras Rodoviárias na elaboração de especificações técnicas, estudos preliminares e termos de referência destinados à contratação de projetos de obras de arte especiais;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XIV – propor e auxiliar a elaboração, a atualização ou a revisão de normas técnicas, instruções e especificações aplicáveis ao desenvolvimento e ao controle de projetos de obras de arte especiais;<br>
+XIV – propor e auxiliar a elaboração, a atualização ou a revisão de normas técnicas, instruções e especificações aplicáveis ao desenvolvimento e ao controle de projetos de obras de arte especiais;
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XV – gerir o pessoal sob sua supervisão, para assegurar o adequado planejamento, acompanhamento e desenvolvimento das atividades da Gerência de Projetos de Obras de Arte Especiais; e<br>
+XV – gerir o pessoal sob sua supervisão, para assegurar o adequado planejamento, acompanhamento e desenvolvimento das atividades da Gerência de Projetos de Obras de Arte Especiais; e
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-XVI – encarregar-se de competências correlatas.<br>
+XVI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
-Parágrafo único. A Gerência de Projetos de Obras de Arte Especiais fica subordinada administrativamente à Diretoria de Projetos de Obras Rodoviárias.<br>
+Parágrafo único. A Gerência de Projetos de Obras de Arte Especiais fica subordinada administrativamente à Diretoria de Projetos de Obras Rodoviárias.
+
 \- [Acrescido pelo Decreto nº 10.898, de 28-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114127).
 
 CAPÍTULO XVII

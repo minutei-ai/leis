@@ -1,5 +1,3 @@
-###DEC-050636-0-000-20-05-1961@@@
-
 DECRETO Nº 50.636, DE 20 DE MAIO DE 1961.
 
 Autoriza o Ministro da Marinha a contratar, em nome do Tesouro Nacional, com o Banco Nacional do Desenvolvimento Econômico, operações a crédito com garantia de parcelas do Fundo Naval para a realização de serviços e obras ligados a implantação de Centros de Docagens e de Reparos Navais ligados ao desenvolvimento dos Serviços de Transporte do País.

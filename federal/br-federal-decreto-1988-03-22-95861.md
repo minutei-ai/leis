@@ -1,7 +1,3 @@
-1
-
-###DEC-095861-0-000-22-03-1988@@@
-
 DECRETO N° 95.861, DE 22 DE MARÇO DE 1988
 
 Dispõe sobre o Programa de Desenvolvimento de Sistemas Unificados e Descentralizados de Saúde nos Estados - SUDS, na área de competência do Ministério da Previdência e Assistência Social, e dá outras providências.

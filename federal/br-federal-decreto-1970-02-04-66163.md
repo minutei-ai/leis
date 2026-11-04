@@ -1,5 +1,3 @@
-###DEC-066163-0-000-04-02-1970@@@
-
 Decreto nº 66.163 - de 4 de fevereiro de 1970
 
 Autoriza funcionamento de Faculdade.

@@ -1,5 +1,3 @@
-###DEC-056976-0-000-01-10-1965@@@
-
 DECRETO Nº 56.976, DE 1º DE OUTUBRO DE 1965.
 
 Outorga concessão à Televisão Centro América Ltda. para instalar uma emissora de radiodifusão de sons e imagens (televisão).

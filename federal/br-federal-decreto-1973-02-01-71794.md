@@ -1,5 +1,3 @@
-###DEC-071794-0-000-01-02-1973@@@
-
 DECRETO Nº 71.794, DE 1 DE FEVEREIRO DE 1973.
 
 Concede à S.A. Indústrias Votorantim o direito de lavrar dolomita no município de Itararé, Estado de São Paulo.

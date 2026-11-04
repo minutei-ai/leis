@@ -1,5 +1,3 @@
-###DEC-077223-0-000-24-02-1976@@@
-
 DECRETO Nº 77.223, DE 24 DE FEVEREIRO DE 1976
 
 Renova por 10(dez) anos concessão outorgada à Emissoras Reunidas Rádio Cultura Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Caxias do Sul, Estado do Rio Grande do Sul.

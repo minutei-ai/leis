@@ -1,5 +1,3 @@
-###DEC-007121-0-000-03-03-2010@@@
-
 DECRETO Nº 7.121, DE 3 DE MARÇO DE 2010.
 
 Dá nova redação ao art. 5o do Decreto nº 6.833, de 29 de abril de 2009, para incluir o Ministério da Justiça na composição do Comitê Gestor de Atenção à Saúde do Servidor.

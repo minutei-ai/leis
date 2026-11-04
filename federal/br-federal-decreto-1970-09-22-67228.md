@@ -1,5 +1,3 @@
-###DEC-067228-0-000-22-09-1970@@@
-
 DECRETO Nº 67.228, DE 22 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

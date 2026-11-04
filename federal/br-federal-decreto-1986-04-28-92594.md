@@ -1,5 +1,3 @@
-###DEC-092594-0-000-28-04-1986@@@
-
 DECRETO Nº 92.594, DE 28 DE ABRIL DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitoria, situada no Município e Comarca de São Paulo, destinado à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

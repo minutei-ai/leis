@@ -1,7 +1,3 @@
-1
-
-###DEC-095786-0-000-07-03-1988@@@
-
 DECRETO N° 95.786, DE 7 DE MARÇO DE 1988
 
 Altera os arts. 3°, 5° e 6° do Decreto n° 91.248, de 15 de maio de 1985, que dispõe sobre a finalidade, estrutura e competência do Conselho Nacional de Desenvolvimento Urbano CNDU.

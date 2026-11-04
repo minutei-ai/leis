@@ -1,5 +1,3 @@
-###DEC-068462-0-000-02-04-1971@@@
-
 DECRETO Nº 68.462 - DE 2 de abril DE 1971.
 
 Reconhecimento da Faculdade de Direito de Pinhal e do Curso de Graduação em Ciências Jurídicas, em Pinhal - S.P.

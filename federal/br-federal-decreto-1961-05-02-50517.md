@@ -1,5 +1,3 @@
-###DEC-050517-0-000-02-05-1961@@@
-
 Decreto nº 50.517, de 2 de maio de 1961.
 
 Regulamenta a Lei nº 91, de 28 de agôsto de 1935, que dispõe sôbre a declaração de utilidade pública.

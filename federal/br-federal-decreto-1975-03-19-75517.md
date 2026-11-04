@@ -1,5 +1,3 @@
-###DEC-075517-0-000-19-03-1975@@@
-
 DECRETO Nº 75.517, DE 19 DE MARÇO DE 1975.
 
 Altera a autorização concedida pelo Decreto nº 73.709, de 01 de março de 1974, à Companhia Marlin Brazil INC.

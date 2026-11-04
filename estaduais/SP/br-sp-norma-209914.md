@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209914)<br>
-
 # DECRETO N° 68.823, DE 04 DE SETEMBRO DE 2024
 
 ### _Altera o Decreto n° 53.980, de 29 de janeiro de 2009, que regulamenta o regime de adiantamento previsto nos artigos 38 a 45 da Lei n° 10.320, de 16 de dezembro de 1968._

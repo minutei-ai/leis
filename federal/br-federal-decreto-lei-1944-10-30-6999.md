@@ -1,5 +1,3 @@
-###DEL-006999-0-000-30-10-1944@@@
-
 DECRETO-LEI N. 6.999 – DE 30 DE OUTUBRO DE 1944
 
 Regula o pagamento da indenização resultante da incorporação do acervo de bens e direitos da Adutora Ribeirão das Lages S.A. ao Patrimônio Nacional, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-007073-0-000-26-01-2010@@@
-
 DECRETO Nº 7.073, DE 26 DE JANEIRO DE 2010.
 
 Dispõe sobre a criação da Embaixada do Brasil em Tirana, na República da Albânia

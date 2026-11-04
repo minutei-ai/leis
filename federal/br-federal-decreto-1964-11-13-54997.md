@@ -1,5 +1,3 @@
-###DEC-054997-0-000-13-11-1964@@@
-
 DECRETO Nº 54.997, DE 13 DE NOVEMBRO DE 1964.
 
 Aprova alteração introduzida nos Estatutos da A Equitativa dos Estados Unidos do Brasil.

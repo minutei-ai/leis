@@ -1,4 +1,5 @@
-DECRETO Nº 9.984, DE 19 DE NOVEMBRO DE 2021<br>
+DECRETO Nº 9.984, DE 19 DE NOVEMBRO DE 2021
+
 [\- (vide legislação contrato por prazo determinado)](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17368)
 
 Autoriza a Delegacia-Geral da Polícia Civil a celebrar e manter os contratos temporários que especifica, também altera o Decreto nº [8.407](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67487/decreto-8407), de 8 de julho de 2015.
@@ -22,8 +23,6 @@ I – nível médio – R$ 246.583,64 (duzentos e quarenta e seis mil, quinhento
 Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 19 de novembro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

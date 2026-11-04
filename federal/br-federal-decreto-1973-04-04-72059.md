@@ -1,5 +1,3 @@
-###DEC-072059-0-000-04-04-1973@@@
-
 Decreto Nº 72.059, DE 4 DE ABRIL DE 1973.
 
 Dispõe sobre cargos privativos de Oficiais-Generais do Quadro de Oficiais Aviadores da Ativa.

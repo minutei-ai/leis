@@ -1,5 +1,3 @@
-###DEC-006989-0-000-23-10-2009@@@
-
 DECRETO Nº 6.989, DE 23 DE OUTUBRO DE 2009.
 
 Dispõe sobre a criação do Consulado-Geral do Brasil em Istambul, na República da Turquia.

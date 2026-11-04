@@ -1,5 +1,3 @@
-###DEC-071977-0-000-21-03-1973@@@
-
 DECRETO Nº 71.977, DE 21 DE MARÇO DE 1973.
 
 Dá nova redação ao artigo 1º e seus parágrafos, do Decreto nº 37.584, de 11 de julho de 1955.

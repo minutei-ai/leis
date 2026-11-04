@@ -1,5 +1,3 @@
-###DEL-001425-0-000-03-11-1975@@@
-
 # DECRETO-LEI Nº 1.425, DE 3 DE NOVEMBRO DE 1975
 
 Autoriza restituição do Imposto sobre Produtos Industrializados à Telecomunicações Brasileiras S.A. - TELEBRÁS, suas subsidiárias, associadas e demais concessionárias dos serviços de telefonia, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052857-0-000-18-11-1963@@@
-
 DECRETO nº 52.857, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza a Companhia Luz e Fôrça Santa Cruz a alienar os bens imóveis que especifica.

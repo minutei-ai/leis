@@ -1,6 +1,10 @@
 > **LEI Nº 3.705, DE 07 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Título de Cidadão Acreano ao Sr. Lívio Silva Vieira.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Título de Cidadão Acreano ao Sr. Lívio Silva Vieira.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

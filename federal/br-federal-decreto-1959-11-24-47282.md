@@ -1,5 +1,3 @@
-###DEC-047282-0-000-24-11-1959@@@
-
 Decreto nº 47.282, de 24 de novembro de 1959.
 
 Outorga à Ricardo Lunardelli S.A. concessão para o aproveitamento de energia hidráulica de um desnível existente no rio Vermelho, município de Porecatu, Estado do Paraná, para uso exclusivo.

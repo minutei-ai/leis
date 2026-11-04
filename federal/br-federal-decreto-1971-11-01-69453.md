@@ -1,5 +1,3 @@
-###DEC-069453-0-000-01-11-1971@@@
-
 DECRETO Nº 69.453 - DE 1 DE NOVEMBRO DE 1971
 
 Prorroga o prazo a que se refere o § 1º do artigo 1º do Decreto nº 69.134, de 27 de agosto de 1971.

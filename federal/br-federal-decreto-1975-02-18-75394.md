@@ -1,5 +1,3 @@
-###DEC-075394-0-000-18-02-1975@@@
-
 DECRETO Nº 75.394, DE 18 DE FEVEREIRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Rio Mar Ltda., para executar serviço de radiodifusão sonora em onda curta, na Cidade de Manaus, Estado do Amazonas.

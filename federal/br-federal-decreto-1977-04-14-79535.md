@@ -1,5 +1,3 @@
-###DEC-079535-0-000-14-04-1977@@@
-
 DECRETO Nº 79.535, DE 14 DE ABRIL DE 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Emissora Rural de Rio do Sul Ltda., cuja denominação foi, posteriormente, alterada para Rádio Difusora Alto Vale Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Rio do Sul, Estado de Santa Catarina.

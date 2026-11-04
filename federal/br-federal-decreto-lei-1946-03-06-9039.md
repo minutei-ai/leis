@@ -1,5 +1,3 @@
-###DEL-009039-0-000-06-03-1946@@@
-
 DECRETO-LEI N. 9.039 – DE 6 DE MARÇO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 500.000,00, para despesas com a Delegação Brasileira Integrante do Conselho Aliado de Contrôle na Alemanha.

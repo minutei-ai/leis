@@ -1,5 +1,3 @@
-###DEC-077341-0-000-25-03-1976@@@
-
 DECRETO Nº 77.341, DE 25 DE MARÇO DE 1976.
 
 Retifica o Decreto nº 76.744, de 4 de dezembro de 1975, que abre aos Ministérios da Saúde, do Trabalho e da Previdência e Assistência Social, o crédito suplementar de Cr$239.427.800,00.

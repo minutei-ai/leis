@@ -1,6 +1,7 @@
 LEI Nº 7.422, DE 02 DE OUTUBRO DE 2023.
 
-                     <br>
+                     
+
 Altera a Lei 6.939/2019.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE APROVA E EU SANCIONO A SEGUINTE LEI:**

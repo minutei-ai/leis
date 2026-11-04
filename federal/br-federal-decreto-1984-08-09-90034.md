@@ -1,5 +1,3 @@
-###DEC-090034-0-000-09-08-1984@@@
-
 Decreto nº 90.034, de 09 de agosto de 1984
 
 Autoriza a Telecomunicações de Rio de Janeiro S.A. TELERJ a instalar uma torreta de duas antenas para o seu sistema transmissor no Parque Nacional da Tijuca, Estado do Rio de Janeiro, e dá outras providências.

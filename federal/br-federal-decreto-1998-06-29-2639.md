@@ -1,5 +1,3 @@
-###DEC-002639-0-000-29-06-1998@@@
-
 DECRETO Nº 2.639, DE 29 DE JUNHO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 1.958, de 15 de julho de 1996.

@@ -1,22 +1,20 @@
-###DEC-019738-0-000-05-10-1945@@@
+**DECRETO Nº 19.738, DE 5 DE OUTUBRO DE 1945.**
 
-<strong>DECRETO Nº 19.738, DE 5 DE OUTUBRO DE 1945.</strong>
+***Concede à Companhia Buda do Brasil autorização para funcionar na República.***
 
-<em><strong>Concede à Companhia Buda do Brasil autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a Companhia Buda do Brasil, sociedade anônima norte americana,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a Companhia Buda do Brasil, sociedade anônima norte americana,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único. É concedida à Companhia Buda do Brasil, com sede na cidade de <em>Wilmington</em>, condado de <em>New Castle</em>, Estado de <em>Delaware</em>, Estados Unidos da América, autorização para funcionar na República com o capital de Cr$500.000,00 e os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, ficando a mesma companhia obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
+Artigo único. É concedida à Companhia Buda do Brasil, com sede na cidade de *Wilmington*, condado de *New Castle*, Estado de *Delaware*, Estados Unidos da América, autorização para funcionar na República com o capital de Cr$500.000,00 e os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, ficando a mesma companhia obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 5 de outubro de 1945; 124º da Independência e 57º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Alexandre Marcondes Filho
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 19.738, DESTA DATA.</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 19.738, DESTA DATA.**
 
 I - A Companhia Buda do Brasil é obrigada a ter permanentemente um representante geral no Brasil, com plenos e ilimitados poderes para tratar e definitivamente resolver as questões que se suscitarem, quer com o Govêrno, que com particulares, podendo ser demandado e receber citação inicial pela Sociedade.
 

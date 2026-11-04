@@ -1,5 +1,3 @@
-###DEC-074069-0-000-15-05-1974@@@
-
 DECRETO Nº 74.069, DE 15 DE MAIO DE 1974.
 
 Concede reconhecimento à Faculdade de Enfermagem da Universidade Católica de Salvador, mantida pela Associação Universitária e Cultural da Bahia, com sede na cidade de Salvador, Estado da Bahia.

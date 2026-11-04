@@ -1,5 +1,3 @@
-###DEC-084136-0-000-31-10-1979@@@
-
 DECRETO Nº 84.136, DE 31 de outubro de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, destinados ao Ministério do Exército.

@@ -1,5 +1,3 @@
-###DEC-060241-0-000-17-02-1967@@@
-
 DECRETO Nº 60.241, DE 17 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

@@ -1,5 +1,3 @@
-###DEC-076800-0-000-15-12-1975@@@
-
 DECRETO Nº 76.800, DE 15 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Letras da Universidade Federal do Acre, com sede na cidade de Rio Branco, Estado do Acre.

@@ -1,5 +1,3 @@
-###DEC-045401-0-000-06-02-1959@@@
-
 DECRETO Nº 45.401, DE 6 DE FEVEREIRO DE 1959.
 
 Regulamenta a Lei nº 3.471, de 28 de novembro de 1958, que institui o crédito de emergência aos agricultores e criadores do polígono das sêcas.

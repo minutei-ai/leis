@@ -1,5 +1,3 @@
-###DEC-062424-0-000-18-03-1968@@@
-
 DECRETO Nº 62.424, DE 18 DE MARÇO DE 1968.
 
 Cria função na antiga Tabela Única de Extranumerários-Mensalistas do Ministério da Educação e Cultura, e dá outras providências.

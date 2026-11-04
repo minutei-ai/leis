@@ -1,5 +1,3 @@
-###DEC-094783-0-000-18-08-1987@@@
-
 DECRETO N° 94.783, DE 18 DE AGOSTO DE 1987
 
 Cria o "Salão de Exposições Carlos Drummond de Andrade", na cidade do Rio de Janeiro.

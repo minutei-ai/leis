@@ -1,5 +1,3 @@
-###DEC-068219-0-000-11-02-1971@@@
-
 DECRETO nº 68.219, de 11 de Fevereiro de 1971.
 
 Concede autorização para funcionamento da Faculdade de Formação de Professôres de Vitória da Conquista, Estado da Bahia.

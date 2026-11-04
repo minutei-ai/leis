@@ -1,5 +1,3 @@
-###DEC-060112-0-000-23-01-1967@@@
-
 DECRETO Nº 60.112, DE 23 DE JANEIRO DE 1967.
 
 Concede a Chaves S.A. Mineração e Indústria, autorização para continuar a funcionar como emprêsa de mineração.

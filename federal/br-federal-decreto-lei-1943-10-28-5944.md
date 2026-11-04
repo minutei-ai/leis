@@ -1,5 +1,3 @@
-###DEL-005944-0-000-28-10-1943@@@
-
 DECRETO‑LEI N. 5.944 – DE 28 DE OUTUBRO DE 1943
 
 Abre ao Ministério da justiça e Negócios Interiores o crédito suplementar de Cr$ 514.000,00, à verba que especifica
@@ -22,19 +20,27 @@ material para conservação de instalações de má­quinas e de aparêlhos; sob
 
 e de viaturas; artigos de iluminação
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:421.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>29 – Polícia Civil do Distrito Federal...................................................................................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>400.000,00</span></p></td></tr></tbody></table>
+29 – Polícia Civil do Distrito Federal...................................................................................
+
+400.000,00
 
 Consignação III – Diversas Despesas
 
 S/c. nº 37– Iluminação, fôrça motriz e gás
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:418.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>29 – Polícia Civil do Distrito Federal....................................................................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>74.000,00</span></p></td></tr></tbody></table>
+29 – Polícia Civil do Distrito Federal....................................................................................
+
+74.000,00
 
 S/c. nº 40 – Ligeiros reparos, conserto e conservação de bens imóveis e móveis
 
   02 – Consertos e conservação de bens móveis
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:414.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>29 – Polícia Civil do Distrito Federal..................................................................................</span><span style="text-decoration:underline; -aw-import:spaces">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">40.000,00</span></p></td></tr><tr><td style="width:414.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">514.000,00</span></p></td></tr></tbody></table>
+29 – Polícia Civil do Distrito Federal..................................................................................
+
+40.000,00
+
+514.000,00
 
 Art. 2º Êste decreto‑lei entra em vigor na data da sua publicação.
 

@@ -1,5 +1,3 @@
-###DEL-005123-0-000-21-12-1942@@@
-
 DECRETO-LEI N. 5.123 – DE 21 DE DEZEMBRO DE 1942
 
 Transfere gratuitamente à Sociedade Brasileira de Educação, para o fim de construção da “Casa de Anchieta”, o domínio pleno do terreno nacional interior que menciona, situado na Capital Federal, e dá outras providências

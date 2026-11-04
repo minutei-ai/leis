@@ -1,5 +1,3 @@
-###DEC-074032-0-000-09-05-1974@@@
-
 DECRETO Nº 74.032, DE 9 DE MAIO DE 1974.
 
 Transfere para a Companhia Hidro Elétrica do São Francisco - CHESF, concessão outorgada à Companhia Hidro Elétrica da Boa Esperança - COHEBE, para aproveitamento hidráulico de um trecho do Rio  Parnaíba, no Município de Guadalupe, Estado do Piauí.

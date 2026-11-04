@@ -1,5 +1,3 @@
-###DEC-082412-0-000-16-10-1978@@@
-
 Decreto n.º 82 412, de 16 de outubro de 1978
 
 Concede reconhecimento ao curso de Tecnólogo em Ortóptica, ministrado pela Escola Paulista de Medicina, com sede na cidade de São Paulo, Estado de São Paulo.

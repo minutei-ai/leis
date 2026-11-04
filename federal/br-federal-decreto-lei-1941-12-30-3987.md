@@ -1,5 +1,3 @@
-###DEL-003987-0-000-30-12-1941@@@
-
 DECRETO-LEI N. 3.987 – DE 30 DE DEZEMBRO DE 1941
 
 Abre ao Ministério da Educação e Saude o crédito especial de 720$0, para pagamento de gratificação adicional

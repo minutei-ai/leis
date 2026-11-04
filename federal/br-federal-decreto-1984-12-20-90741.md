@@ -1,5 +1,3 @@
-###DEC-090741-0-000-20-12-1984@@@
-
 Decreto nº 90.741, de 20 de dezembro de 1984
 
 Delega competência ao Ministro da Aeronáutica para aprovar o Regulamento Interno dos Serviços da Aeronáutica (RISAER).

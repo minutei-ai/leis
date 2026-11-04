@@ -1,7 +1,3 @@
-1
-
-###DEC-099279-0-000-06-06-1990@@@
-
 DECRETO 99.279, DE 6 DE JUNHO DE 1990
 
 Declara de utilidade pública, para efeito de desapropriação, as terras delimitadas na área do Parque Nacional da Chapada dos Veadeiros, no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-072843-0-000-26-09-1973@@@
-
 decreto nº 72.843, de 26 de setembro de 1973.
 
 Retifica o Decreto nº 71.372, de 14 de novembro de 1972, que redistribuiu cargos do Quadro de Pessoal do Ministério da Agricultura para o do Ministério da Educação e Cultura, e da outras Providências.

@@ -1,5 +1,3 @@
-###DEC-068782-0-000-21-06-1971@@@
-
 DECRETO Nº 68.782 - DE 21 DE JUNHO DE 1971.
 
 Extingue o Grupo Executivo da Indústria do Livro (GEIL) e dá outras providências.

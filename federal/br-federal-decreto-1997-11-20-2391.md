@@ -1,5 +1,3 @@
-###DEC-002391-0-000-20-11-1997@@@
-
 DECRETO Nº 2.391, DE 20 DE NOVEMBRO DE 1997
 
 Acresce Notas Complementares ao Capítulo 87 da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 2.092, de 10 de dezembro de 1996, e dá outras providências.

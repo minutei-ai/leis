@@ -1,5 +1,3 @@
-###DEC-068354-0-000-16-03-1971@@@
-
 Decreto nº 68.354, de 16 de março de 1971.
 
 Aproveita, o Quadro de Pessoal do Estado-Maior das Fôrças Armadas, servidor em disponibilidades, e dá outra providências.

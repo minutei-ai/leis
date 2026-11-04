@@ -1,5 +1,3 @@
-###DEC-083569-0-000-12-06-1979@@@
-
 Decreto nº 83.569, de 12 de junho de 1979
 
 Revoga o Decreto que aprova o Regulamento do Laboratório Farmacêutico da Marinha .

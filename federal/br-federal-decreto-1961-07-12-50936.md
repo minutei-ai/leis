@@ -1,5 +1,3 @@
-###DEC-050936-0-000-12-07-1961@@@
-
 DECRETO Nº 50.936, DE 12 DE JULHO DE 1961.
 
 Restabelece o funcionamento do plenário da Comissão do Impôsto Sindical e dá outras providências.

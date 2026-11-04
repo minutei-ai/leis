@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185172)
-
 # DECRETO Nº 63.202, DE 06 DE FEVEREIRO DE 2018
 
 ### _Dá nova redação ao artigo 1º do Decreto nº 45.299, de 2000, que transferiu do Tribunal de Justiça do Estado de São Paulo para a Secretaria de Assistência e Desenvolvimento Social a administração do imóvel que especifica, situado no Município de Duartina, e insere dispositivos, na forma que especifica_
@@ -26,10 +24,16 @@ Palácio dos Bandeirantes, 6 de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-Antonio Floriano Pereira Pesaro<br>
-Secretário de Desenvolvimento Social<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Antonio Floriano Pereira Pesaro
+
+Secretário de Desenvolvimento Social
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 6 de fevereiro de 2018.

@@ -1,5 +1,3 @@
-###DEL-008863-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.863 – DE 24 DE JANEIRO DE 1946
 
 Abre crédito especial para aquisição de mobiliário para dependências do Supremo Tribunal Federal.

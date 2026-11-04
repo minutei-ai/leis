@@ -1,7 +1,3 @@
-1
-
-###DEC-002078-0-000-22-11-1996@@@
-
 DECRETO N° 2.078, DE 22 DE NOVEMBRO DE 1996.
 
 Dispõe sobre a centralização obrigatória de recolhimento de tributos e contribuições federais.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001157-0-000-26-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.157, DE 26 DE OUTUBRO DE 1995.
 
 Dá nova redação ao art. 2º da Lei nº 8.844, de 20 de janeiro de 1994.

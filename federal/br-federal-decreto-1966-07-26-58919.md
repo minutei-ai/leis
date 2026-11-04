@@ -1,5 +1,3 @@
-###DEC-058919-0-000-26-07-1966@@@
-
 DECRETO Nº 58.919, DE 26 DE JULHO DE 1966.
 
 Cria o Esdantarte-Distintivo para o 9º Regimento de Infantaria (Regimento Tuiutí).

@@ -1,5 +1,3 @@
-###DEC-079084-0-000-03-01-1977@@@
-
 Decreto nº 79.084, de 3 de janeiro de 1977.
 
 Concede à Mineração Geral do Nordeste S.A. o direito de lavrar caulim no Município de Irituia, Estado do Pará.

@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:18:42.000Z"
 sha256_fonte: "0f95c116aaa290c561b0e6bedbb6b4eee1293aecc6db84f32bfc9347dc0ee626"
 sha256_markdown: "18d182e88a36faff602027e5da0fc52346cdbde8b2bbc413e589f58039f16450"
 ---
-
 # LEI Nº 1.372, DE 17 DE MAIO DE 1993.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,16 +20,18 @@ Dispõe sobre o atendimento prioritário a idosos, portadores de deficiência e 
 
 Publicada no Diário Oficial nº 3.545, de 18 de maio de 1993, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Os Órgãos de Administração Estadual Direta, Indireta, Fundacional e Autárquica e os estabelecimentos conveniados ou beneficiados com verbas públicas estaduais ficam obrigados a instituir no âmbito de suas repartições, setor especial, que priorize o atendimento a idosos, portadores de deficiência e gestantes.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação.<br>
-<br>
-Art. 3º Revogam-se as disposições em contrário.<br>
-<br>
-Campo Grande, 17 de maio de 1993.<br>
-<br>
-PEDRO PEDROSSIAN<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Os Órgãos de Administração Estadual Direta, Indireta, Fundacional e Autárquica e os estabelecimentos conveniados ou beneficiados com verbas públicas estaduais ficam obrigados a instituir no âmbito de suas repartições, setor especial, que priorize o atendimento a idosos, portadores de deficiência e gestantes.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Campo Grande, 17 de maio de 1993.
+
+PEDRO PEDROSSIAN
+
 Governador

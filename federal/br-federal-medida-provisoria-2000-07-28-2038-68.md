@@ -1,5 +1,3 @@
-###MPV-002038-0-068-28-07-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.038-68, DE 28 DE JUlHO DE 2000.
 
 Dá nova redação aos atos 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996.

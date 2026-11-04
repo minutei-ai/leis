@@ -1,5 +1,3 @@
-###DEC-052738-0-000-23-10-1963@@@
-
 DECRETO Nº 52.738, DE 23 DE OUTUBRO DE 1963.
 
 Aprova o Regulamento para a Escola de Submarinos.

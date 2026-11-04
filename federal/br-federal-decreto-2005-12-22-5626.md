@@ -1,5 +1,3 @@
-###DEC-005626-0-000-22-12-2005@@@
-
 DECRETO Nº 5.626, DE 22 DE DEZEMBRO DE 2005.
 
 Regulamenta a Lei no 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei no 10.098, de 19 de dezembro de 2000.       
@@ -289,5 +287,3 @@ DAS DISPOSIÇÕES FINAIS
 LUIZ INÁCIO LULA DA SILVA
 
     Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 23.12.2005

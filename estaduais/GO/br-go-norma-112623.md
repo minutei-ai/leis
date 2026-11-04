@@ -126,5 +126,6 @@ III – 4 de maio de 2026, quanto ao § 11-B do art. 167-C do Decreto nº 4.852,
 
 Goiânia, 30 de janeiro de 2026; 138º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

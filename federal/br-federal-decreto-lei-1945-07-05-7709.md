@@ -1,5 +1,3 @@
-###DEL-007709-0-000-05-07-1945@@@
-
 DECRETO-LEI N. 7.709 – DE 5 DE JULHO DE 1945
 
 Cria, no Exército, a medalha “Sangue do Brasil”

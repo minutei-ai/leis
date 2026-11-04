@@ -1,5 +1,3 @@
-###DEC-093871-0-000-23-12-1986@@@
-
 DECRETO Nº 93.871, DE 23 DE DEZEMBRO DE 1986
 
 Altera o Regulamento aprovado pelo Decreto nº 60.459, de 13-3-67, dando nova redação aos artigos 7º e 16.

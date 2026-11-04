@@ -6,7 +6,8 @@ O PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, no uso de suas atribuições lega
 
 **DECRETA:**
 
-DECRETA:<br>
+DECRETA:
+
     Art. 1º Ficam nomeados os membros componentes do CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL DE APARECIDA DE GOIÃNIA para o biênio 2024-2025, na forma seguinte:
 
 MESA DIRETORA
@@ -15,7 +16,8 @@ Presidente: Gilmar Pacheco Rodovalho –                        CPF:
 
 Vice-Presidente: Ronny Marcos Gomes Almeida Vargas – CPF: 879. \*\*\*.\*\*\*-\*\*
 
-Secretário – Silvestre Linhares da Silva -                             CPF: 727. \*\*\*.\*\*\*-\*\*<br>
+Secretário – Silvestre Linhares da Silva -                             CPF: 727. \*\*\*.\*\*\*-\*\*
+
                            
 
 REPRESENTANTES GOVERNAMENTAIS:
@@ -74,7 +76,8 @@ Secretaria Municipal de Segurança Pública  
 
 Titular: Paulo da Cruz Alves de Lima -                                  CPF 341. \*\*\*.\*\*\*-\*\*
 
-Suplente: Rosicler de Souza Alves Ferro -                           CPF – 995. \*\*\*.\*\*\*-\*\*     <br>
+Suplente: Rosicler de Souza Alves Ferro -                           CPF – 995. \*\*\*.\*\*\*-\*\*     
+
                    
 
 REPRESENTANTES NÃO GOVERNAMENTAIS:
@@ -107,7 +110,8 @@ ENTIDADE: Instituto Esperança - IES
 
 Titular: Ronny Marco Gomes de Almeida Vargas –               CPF 879. \*\*\*.\*\*\*-\*\*
 
-Suplente: Jânio Pereira Ramos-                                             CPF 251. \*\*\*.\*\*\*-\*\*<br>
+Suplente: Jânio Pereira Ramos-                                             CPF 251. \*\*\*.\*\*\*-\*\*
+
     
 
 ENTIDADE: Conselho das Associações de Moradores de Aparecida de Aparecida – CAMAP
@@ -138,18 +142,22 @@ ENTIDADE: Recanto Reviver
 
 Titular: Sonis Henrique Rezende Batista -                                 CPF 882. \*\*\*.\*\*\*-\*\*
 
-Suplente: Cejana Teixeira Arantes -                                           CPF 716. \*\*\*.\*\*\*-\*\*<br>
+Suplente: Cejana Teixeira Arantes -                                           CPF 716. \*\*\*.\*\*\*-\*\*
+
  
 
 Art. 2º. Este Decreto entra em vigor na data de sua publicação, revogando disposições contrárias.
 
 PREFEITURA MUNICIPAL DE APARECIDA DE GOIÂNIA-GO, 26, de fevereiro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-SULNARA SANTANA<br>
+SULNARA SANTANA
+
 Secretária de Assistência Social

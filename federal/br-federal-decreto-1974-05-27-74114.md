@@ -1,5 +1,3 @@
-###DEC-074114-0-000-27-05-1974@@@
-
 DECRETO Nº 74.114, DE 27 DE MAIO DE 1974.
 
 Inclui nome de servidora omitido no Decreto nº 73.826, de 13 de março de 1974.

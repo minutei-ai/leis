@@ -1,5 +1,3 @@
-###DEC-068876-0-000-06-07-1971@@@
-
 DECRETO Nº 68.876, DE 6 DE JULHO DE 1971.
 
 Concede autorização à Companhia Ingram Marine Inc. para operar em águas brasileiras, com o barco especializado "Ingram Derrick nº 2" - Barcaça com Guindaste - de nacionalidade norte-americana, nos serviços que especifica.

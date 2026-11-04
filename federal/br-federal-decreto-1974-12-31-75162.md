@@ -1,5 +1,3 @@
-###DEC-075162-0-000-31-12-1974@@@
-
 DECRETO Nº 75.162, DE 31 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Ciências Sociais do Instituto Superior de Ciências Aplicadas, mantido pela Associação Limeirense de Educação, com sede na cidade de Limeira, Estado de São Paulo.

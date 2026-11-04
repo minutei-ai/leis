@@ -1,5 +1,3 @@
-###DEC-061797-0-000-29-11-1967@@@
-
 DECRETO Nº 61.797, DE 29 DE NOVEMBRO DE 1967.
 
 Dispõe sôbre a subordinação da Comissão Coordenadora da Criação do Cavalo Nacional e dá outras providências.

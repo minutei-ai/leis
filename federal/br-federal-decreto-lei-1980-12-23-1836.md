@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f689fb69-7fd7-41a8-9590-8815a1f741be/texto#nowhere)
 
-###DEL-001836-0-000-23-12-1980@@@
-
 # Decreto-lei nº 1.836, de 23 de dezembro dE 1980.
 
 Dá nova redação ao parágrafo único do artigo 24 do Decreto-lei nº 37, de 18 de novembro de 1966.

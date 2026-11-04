@@ -1,5 +1,3 @@
-###DEL-009293-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.293 – DE 27 DE MAIO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o Crédito suplementar de Cr$ 700.000,00, à verba que especifica.

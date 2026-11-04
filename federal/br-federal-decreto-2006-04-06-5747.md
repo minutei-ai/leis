@@ -1,5 +1,3 @@
-###DEC-005747-0-000-06-04-2006@@@
-
 DECRETO Nº 5.747, DE 6 DE ABRIL DE 2006.
 
 Promulga o Memorando de Entendimento entre o Governo da República Federativa do Brasil e o Governo da República do Peru sobre a Promoção do Setor Pesqueiro, celebrado em Lima, em 26 de agosto de 2003.

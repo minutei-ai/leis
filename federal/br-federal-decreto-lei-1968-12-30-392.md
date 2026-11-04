@@ -1,5 +1,3 @@
-###DEL-000392-0-000-30-12-1968@@@
-
 DECRETO-LEI Nº 392, DE 30 DE DEZEMBRO De 1968
 
 Acrescenta o parágrafo único ao artigo 1º da Lei nº 5.552, de 4 de dezembro de 1968.

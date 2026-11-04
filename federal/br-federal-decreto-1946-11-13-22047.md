@@ -1,30 +1,28 @@
-###DEC-022047-0-000-13-11-1946@@@
+**DECRETO Nº 22.047, DE 13 DE NOVEMBRO DE 1946.**
 
-<strong>DECRETO Nº 22.047, DE 13 DE NOVEMBRO DE 1946.</strong>
+***Aprova o Regimento da Secretaria Geral do Conselho de Segurança Nacional.***
 
-<em><strong>Aprova o Regimento da Secretaria Geral do Conselho de Segurança Nacional.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e, na conformidade do que dispõe o Decreto-lei nº 9.775, de 6 de setembro de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e, na conformidade do que dispõe o Decreto-lei nº 9.775, de 6 de setembro de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - Fica aprovado o Regimento da Secretaria Geral do Conselho de Segurança Nacional que acompanha o presente Decreto, assinado pelo General de Divisão Álcio Souto, Secretário Geral do Conselho de Segurança Nacional.
 
-<strong>Art</strong>. 1º - Fica aprovado o Regimento da Secretaria Geral do Conselho de Segurança Nacional que acompanha o presente Decreto, assinado pelo General de Divisão Álcio Souto, Secretário Geral do Conselho de Segurança Nacional.
-
-<strong>Art</strong>. 2º - Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º - Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 13 de novembro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Benedicto Costa Netto
 
-<strong>REGIMENTO DA SECRETARIA GERAL DO CONSELHO DE SEGURANÇA NACIONAL</strong>
+**REGIMENTO DA SECRETARIA GERAL DO CONSELHO DE SEGURANÇA NACIONAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO SECRETÁRIO GERAL</em>
+*DO SECRETÁRIO GERAL*
 
-<strong>Art</strong>. 1º - Compete ao Secretário Geral do Conselho de Segurança Nacional:
+**Art**. 1º - Compete ao Secretário Geral do Conselho de Segurança Nacional:
 
 a) Orientar e fiscalizar os trabalhos da Secretaria Geral;
 
@@ -58,11 +56,11 @@ p) Enviar às repartições competentes dos respectivos ministérios as alteraç
 
 q) Propor ao Presidente da República o orçamento do Conselho de Segurança Nacional, inclusive de sua Secretaria Geral.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DO GABINETE</em>
+*DO GABINETE*
 
-<strong>Art</strong>. 2º - Incubem ao Chefe Gabinete:
+**Art**. 2º - Incubem ao Chefe Gabinete:
 
 a) Orientar e fiscalizar os trabalhos inerentes a cada seção da Secretaria Geral, de acordo com as diretivas do Secretário Geral;
 
@@ -86,9 +84,9 @@ j) Notificar, em nome do Secretário Geral, os membros da Comissão de Estudos d
 
 l) Substituir o Secretário Geral em seus impedimentos temporários.
 
-<strong>Art</strong>. 3º Incubem aos Adjuntos do Gabinete estudar os processos de que tenham sido encarregados, sugerir os pareceres da Secretaria Geral ou Redigí –los de acordo com as diretrizes do Secretário Geral.
+**Art**. 3º Incubem aos Adjuntos do Gabinete estudar os processos de que tenham sido encarregados, sugerir os pareceres da Secretaria Geral ou Redigí –los de acordo com as diretrizes do Secretário Geral.
 
-<strong>Art</strong>. 4º Incubem ao Assistente:
+**Art**. 4º Incubem ao Assistente:
 
 a) Funcionar como Fiscal Administrativo da Secretaria Geral;
 
@@ -106,13 +104,13 @@ g) Velar pela escrituração das ‘’alterações’’ ocorridas com os ofici
 
 h) Zelar pela disciplina de todo o pessoal auxiliar da Secretaria Geral.
 
-<strong>Art</strong>. 5º Ao Tenente Tesoureiro-Almoxarifado incubem a chefia da Seção Administrativa e, no desempenho dessas funções deve:
+**Art**. 5º Ao Tenente Tesoureiro-Almoxarifado incubem a chefia da Seção Administrativa e, no desempenho dessas funções deve:
 
 a) Providênciar a requisção e o pagamento dos vencimentos, processando as folhas junto aos órgãos competentes dos Ministérios a que perteçam os diferentes elemntos da Secretaria Geral, conforme as normas dos ditos Ministérios.
 
 b) Adquirir o material necessário ao funcionamento da Secretaria Geral e zelar pela sua guarda, tudo conforme as instruções e ordens do Chefe do Gabinete e do Assistente e na forma da legislação em vigor.
 
-<strong>Art</strong>. 6º À Seção de Documentação e Comunicações compete:
+**Art**. 6º À Seção de Documentação e Comunicações compete:
 
 a) O serviço de protocolo geral, controlando a entrada, distribuindo interna e expedição da documentação;
 
@@ -120,11 +118,11 @@ b) O serviço de arquivo geral, inclusive mapoteca e cartografia;
 
 c) Os serviços de dactilografia, mecanografia e estenografia necessários ao Gabinete e às 1ª 2ª e 3ª seções da Secretaria Geral.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS SEÇÕES</em>
+*DAS SEÇÕES*
 
-<strong>Art</strong>. 7º Aos chefes de seção incumbe:
+**Art**. 7º Aos chefes de seção incumbe:
 
 a) Orientar os trabalhos da Seção;
 
@@ -132,13 +130,13 @@ b) Propor ao Secretário Gera, por intermédio do Chefe do Gabinete, o que julga
 
 c) Organizar pessoalmente ou determinar que seus adjuntos organizem o expediente da Seção.
 
-<strong>Art</strong>. 8º Aos adjuntos de seção incumbe cooperar com os respectivos chefes no desempenho de suas obrigações.
+**Art**. 8º Aos adjuntos de seção incumbe cooperar com os respectivos chefes no desempenho de suas obrigações.
 
-<strong>CAPÍTULO</strong>
+**CAPÍTULO**
 
-<em>DO PESSOAL AUXILIAR</em>
+*DO PESSOAL AUXILIAR*
 
-<strong>Art</strong>. 9.° Em princípio, a Secretaria Geral disporá do seguinte quadro de auxiliares obtidos mediante requisição:
+**Art**. 9.° Em princípio, a Secretaria Geral disporá do seguinte quadro de auxiliares obtidos mediante requisição:
 
 1 encarregado do protocolo e arquivo;
 
@@ -152,30 +150,30 @@ c) Organizar pessoalmente ou determinar que seus adjuntos organizem o expediente
 
 Parágrafo único. A Secretaria Geral requisirá desenhistas e estenógrafos quando se tornarem necessários.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 10. As substituições entre os oficiais, do Quadro  de Estado Maior das diferentes fôrças armadas, realizem-se obedecendo às respectivas antiguidades, independente de pertecerem ao Gabinete ou às Seções.
+**Art**. 10. As substituições entre os oficiais, do Quadro  de Estado Maior das diferentes fôrças armadas, realizem-se obedecendo às respectivas antiguidades, independente de pertecerem ao Gabinete ou às Seções.
 
-<strong>Art</strong>. 11. O Assistente e o Tesoureiro-Almoxarife substituem-se, acumulando as respectivas funções, exceto para os casos em que, pela legislação vigente, haja inteira incompatibilidade.
+**Art**. 11. O Assistente e o Tesoureiro-Almoxarife substituem-se, acumulando as respectivas funções, exceto para os casos em que, pela legislação vigente, haja inteira incompatibilidade.
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 12. A critério do secretário Geral do Conselho de segurança Nacional de oficiais e o Assessor Técnico civil disporão de transporte por conta do Estado, quando em serviço.
+**Art**. 12. A critério do secretário Geral do Conselho de segurança Nacional de oficiais e o Assessor Técnico civil disporão de transporte por conta do Estado, quando em serviço.
 
-<strong>Art</strong>. 13. As licenças, férias e aposentadorias do pessoal em serviço na Secretária Geral serão reguladas pela legislação vigente.
+**Art**. 13. As licenças, férias e aposentadorias do pessoal em serviço na Secretária Geral serão reguladas pela legislação vigente.
 
 Parágrafo único. As f´érias e licenças serão concedidas pelo Secretário Geral ouvidos os chefes de gabinete e de Seções.
 
-<strong>Art</strong>. 14. O horário do expediente obedecerá às necessidades do serviço e será determinado pelo Secretário Geral do Conselho de segurança Nacional.
+**Art**. 14. O horário do expediente obedecerá às necessidades do serviço e será determinado pelo Secretário Geral do Conselho de segurança Nacional.
 
-<strong>Art</strong>. 15. A todos os funcionários e empregados, cabe guardar a maior reserva sôbre o assunto de serviço e absoluto segredo sôbre os de caráter reservado.
+**Art**. 15. A todos os funcionários e empregados, cabe guardar a maior reserva sôbre o assunto de serviço e absoluto segredo sôbre os de caráter reservado.
 
-<strong>Art</strong>. 16. Os casos omissos neste Regimento serão resolvidos pelo Secretário Geral do Conselho de Segurança Nacional.
+**Art**. 16. Os casos omissos neste Regimento serão resolvidos pelo Secretário Geral do Conselho de Segurança Nacional.
 
 Rio de Janeiro, em 13 de novembro de 1946.
 
-<strong>GENERAL ALCIO SOUTO</strong>
+**GENERAL ALCIO SOUTO**
 
 Secretário Geral

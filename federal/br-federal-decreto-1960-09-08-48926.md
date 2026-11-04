@@ -1,5 +1,3 @@
-###DEC-048926-0-000-08-09-1960@@@
-
 Decreto nº 48.926, de 8 de setembro de 1960.
 
 Cria na Prefeitura do Distrito Federal parques botânicos e zoológicos.

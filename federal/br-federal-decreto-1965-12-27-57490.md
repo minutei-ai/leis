@@ -1,5 +1,3 @@
-###DEC-057490-0-000-27-12-1965@@@
-
 DECRETO Nº 57.490, DE 27 DE DEZEMBRO DE 1965.
 
 Extingue as Escolas de Artilharia de Costa e de Defesa antiaérea e cria a Escola de Artilharia de Costa e Antiaérea.

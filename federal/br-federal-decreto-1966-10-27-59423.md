@@ -1,5 +1,3 @@
-###DEC-059423-0-000-27-10-1966@@@
-
 Decreto nº 59.423, de 27 de outubro de 1966.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$1.300.000.000 para o fim que especifica.

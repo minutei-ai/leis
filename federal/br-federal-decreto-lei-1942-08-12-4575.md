@@ -1,5 +1,3 @@
-###DEL-004575-0-000-12-08-1942@@@
-
 DECRETO-LEI N. 4.575 – DE 12 DE AGOSTO DE 1942
 
 Cria cargos na carreira de Oficial Administrativo do Quadro Permanente do Ministério da Guerra e dá outras providências

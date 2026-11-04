@@ -1,5 +1,3 @@
-###DEC-053186-0-000-11-12-1963@@@
-
 Decreto nº 53.186, de 11 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Athos Fontes Ferreira a lavrar dolomita no município de Itararé, Estado de São Paulo.

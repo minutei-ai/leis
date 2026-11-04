@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/773e261f-580f-459d-af97-a1f4a6e94f8f/texto#nowhere)
 
-###DEL-000357-0-000-23-09-1968@@@
-
 DECReto-LEI Nº 357, DE 23 de SETEMBRO DE 1968
 
 Prorroga o prazo previsto no artigo 1º do Decreto-lei nº 7, de 3 de maio de 1966, e dá outras providências.

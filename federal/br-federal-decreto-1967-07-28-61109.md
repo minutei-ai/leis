@@ -1,5 +1,3 @@
-###DEC-061109-0-000-28-07-1967@@@
-
 DECRETO Nº 61.109, DE 28 DE JULHO DE 1967.
 
 Dispõe sôbre a liquidação do Conselho Nacional de Economia, extinto pelo artigo 181 da nova Constituição do Brasil, e dá outras providências.

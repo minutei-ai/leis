@@ -1,5 +1,3 @@
-###DEC-047515-0-000-28-12-1959@@@
-
 DECRETO Nº 47.515, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Kurt Walter Dreher a lavrar ametista e citrino, no município de Caetité, Estado da Bahia.

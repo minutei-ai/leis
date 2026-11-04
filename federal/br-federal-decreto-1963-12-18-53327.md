@@ -1,5 +1,3 @@
-###DEC-053327-0-000-18-12-1963@@@
-
 DECRETO Nº 53.327, DE 18 DE DEZEMBRO DE 1963.
 
 Cria, em caráter supletivo, as escolas primárias de fronteira.

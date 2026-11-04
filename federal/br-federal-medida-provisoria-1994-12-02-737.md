@@ -1,7 +1,3 @@
-1
-
-###MPV-000737-0-000-02-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 737, DE 2 DE DEZEMBRO DE 1994.
 
 Dispõe sobre o prazo previsto no § 4º do art. 2º da Lei nº 8.352, de 28 de dezembro de 1991.

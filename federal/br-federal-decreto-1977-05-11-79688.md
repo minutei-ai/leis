@@ -1,5 +1,3 @@
-###DEC-079688-0-000-11-05-1977@@@
-
 DECRETO Nº 79.688, DE 11 DE MAIO DE 1977.
 
 Fixa o fator de reajustamento salarial relativo a maio de 1977.

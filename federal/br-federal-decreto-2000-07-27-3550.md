@@ -1,5 +1,3 @@
-###DEC-003550-0-000-27-07-2000@@@
-
 DECRETO Nº 3.550, DE 27 DE JULHO DE 2000.
 
 Dá nova redação a dispositivos do Decreto nº 98.816, de 11 de janeiro de 1990, que dispõe sobre a pesquisa, a experimentação, a produção, a embalagem e rotulagem, o transporte, o armazenamento, a comercialização, a propaganda comercial, a utilização, a  importação, a exportação, o destino final dos resíduos e embalagens, o registro, a classificação, o controle, a inspeção e a fiscalização de agrotóxicos, seus componentes e afins.

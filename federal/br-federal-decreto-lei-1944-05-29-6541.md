@@ -1,5 +1,3 @@
-###DEL-006541-0-000-29-05-1944@@@
-
 DECRETO-LEI N. 6.541 – DE 29 DE MAIO DE 1944
 
 Altera o art. 5º do Decreto-lei nº 6.419, de 13 de abril de 1944

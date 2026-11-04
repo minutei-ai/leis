@@ -1,5 +1,3 @@
-###DEC-068343-0-000-11-03-1971@@@
-
 DECRETO Nº 68.343, DE 11 DE MARÇO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra e respectiva faixa de acesso, destinadas à instalação, pela Companhia Telefônica Brasileira, de uma estação repetidora de microondas, no Município de Pirassununga, Estado de São Paulo.

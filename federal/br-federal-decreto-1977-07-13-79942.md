@@ -1,5 +1,3 @@
-###DEC-079942-0-000-13-07-1977@@@
-
 Decreto nº 79.942, de 13 de julho de 1977
 
 Concede reconhecimento ao Curso de Psicologia, do Centro de Filosofia e Ciências Humanas da Universidade Federal de Pernambuco, com sede na cidade do Recife, Estado do Pernambuco.

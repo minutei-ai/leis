@@ -1,5 +1,3 @@
-###DEC-062168-0-000-24-01-1968@@@
-
 DECRETO Nº 62.168, DE 24 DE JANEIRO DE 1968.
 
 Declara de interêsse social, para fins de desapropriação, imóveis rurais situados no Município de Cabo, no Estado de Pernambuco.

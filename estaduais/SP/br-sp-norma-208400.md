@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208400)<br>
-
 # DECRETO N° 67.874, DE 13 DE AGOSTO DE 2023
 
 ### _Dispõe sobre a oficialização da VI Conferência Estadual de Segurança Alimentar e Nutricional e dá providências correlatas._

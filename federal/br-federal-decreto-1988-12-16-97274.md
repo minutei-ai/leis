@@ -1,5 +1,3 @@
-###DEC-097274-0-000-16-12-1988@@@
-
 DECRETO Nº 97.274, DE 16 DE DEZEMBRO DE 1988
 
 Dispõe sobre a organização do Sistema Nacional de Defesa Civil - SINDEC e dá outras providências.

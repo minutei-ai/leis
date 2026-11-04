@@ -1,5 +1,3 @@
-###DEC-007377-0-000-01-12-2010-PUB-01@@@
-
 DECRETO Nº  7.377, DE 1º  DE DEZEMBRO DE 2010
 
 Promulga o Acordo-Quadro sobre Complementação Energética Regional entre os Estados Partes do Mercosul e Estados Associados, protocolizado ao amparo do Tratado de Montevidéu de 1980 como Acordo de Alcance Parcial de Promoção do Comércio nº 19 (AAP.PC nº  19), celebrado em Montevidéu, em 9 de dezembro de 2005, entre a República Federativa do Brasil, a República Argentina, a República do Paraguai, a República Oriental do Uruguai, a República da Colômbia, a República do Chile, a República do Equador e a República Bolivariana da Venezuela.

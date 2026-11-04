@@ -1,7 +1,3 @@
-1
-
-###MPV-001504-0-000-13-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.504, de 13 de JUNHO DE 1996.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

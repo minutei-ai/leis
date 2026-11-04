@@ -1,7 +1,3 @@
-1
-
-###DEC-095728-0-000-12-02-1988@@@
-
 DECRETO N° 95.728, DE 12 DE FEVEREIRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação pela Empresa de Portos do Brasil S.A. - PORTOBRÁS, área de terras, com benfeitorias, localizadas na Ilha de Caratateua, Distrito de Icoaraci, cidade de Belém, Estado do Pará.

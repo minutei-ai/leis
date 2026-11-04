@@ -1,5 +1,3 @@
-###DEC-080157-0-000-15-08-1977@@@
-
 Decreto Nº 80.157, DE 15 DE AGOSTO DE 1977.
 
 Concede reconhecimento ao curso de Comunicação  Social, da Faculdade de Comunicação Social "Braz Cubas", com sede na cidade de Mogi das Cruzes, Estado de São Paulo.

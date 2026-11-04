@@ -1,5 +1,3 @@
-###DEC-051779-0-000-04-03-1963@@@
-
 DECRETO nº 51.779, DE 4 DE MARÇO DE 1963.
 
 Autoriza a Companhia Siderúrgica Cruzeiro do Sul - Crusul a lavrar minério de ferro em município de Santa Barbara, - Estado de Minas Gerais.

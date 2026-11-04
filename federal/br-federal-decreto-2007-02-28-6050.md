@@ -1,5 +1,3 @@
-###DEC-006050-0-000-28-02-2007@@@
-
 DECRETO Nº 6.050, DE 28 DE FEVEREIRO DE 2007.
 
 Dá nova redação ao art. 1o do Decreto no 6.007, de 29 de dezembro de 2006, que prorroga a validade dos restos a pagar, inscritos no exercício financeiro de 2005.
@@ -21,5 +19,3 @@ Brasília, 28 de fevereiro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 28.2.2007 Ed. extra.

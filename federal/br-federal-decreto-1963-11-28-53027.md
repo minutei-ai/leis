@@ -1,5 +1,3 @@
-###DEC-053027-0-000-28-11-1963@@@
-
 DECRETO Nº 53.027, DE 28 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro José Schwerber a lavrar bauxita e minério de ferro, no município de Ouro Prêto, Estado de Minas Gerais.

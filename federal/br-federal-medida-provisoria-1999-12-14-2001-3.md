@@ -1,5 +1,3 @@
-###MPV-002001-0-003-14-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 2.001-3, DE 14 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a realização de contratos de financiamento de projetos de estruturação dos assentados e colonos nos programas oficiais de assentamento, colonização e reforma agrária, aprovados pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA, com risco para o Tesouro Nacional ou para os Fundos Constitucionais das Regiões Norte, Nordeste e Centro-Oeste.

@@ -96,7 +96,25 @@ Vigência a partir de 01/02/2009
 
 Tabela de Vencimentos
 
-<table style="border-collapse: collapse; mso-padding-alt: 0cm 0cm 0cm 0cm;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 174.55pt; border: solid black 1.0pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 14.25pt;" valign="top" width="233"><p class="Tabela-Texto">Classe</p></td><td style="width: 200.6pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 14.25pt;" valign="top" width="267"><p class="Tabela-Texto">Vencimento (R$)</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">3ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">1.607,77</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">2ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">1.988,46</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">1ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">2.209,42</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">Especial</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">2.454,90</p></td></tr></tbody></table>
+Classe
+
+Vencimento (R$)
+
+3ª
+
+1.607,77
+
+2ª
+
+1.988,46
+
+1ª
+
+2.209,42
+
+Especial
+
+2.454,90
 
 Procurador Jurídico
 
@@ -104,7 +122,25 @@ Vigência a partir de 01/02/2010
 
 Tabela de Vencimentos
 
-<table style="border-collapse: collapse; mso-padding-alt: 0cm 0cm 0cm 0cm;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 174.55pt; border: solid black 1.0pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 14.25pt;" valign="top" width="233"><p class="Tabela-Texto">Classe</p></td><td style="width: 200.6pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 14.25pt;" valign="top" width="267"><p class="Tabela-Texto">Vencimento (R$)</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">3ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">1.816,78</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">2ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">2.246,96</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">1ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">2.496,64</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">Especial</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">2.774,04</p></td></tr></tbody></table>
+Classe
+
+Vencimento (R$)
+
+3ª
+
+1.816,78
+
+2ª
+
+2.246,96
+
+1ª
+
+2.496,64
+
+Especial
+
+2.774,04
 
 Procurador Jurídico
 
@@ -112,7 +148,25 @@ Vigência a partir de 01/02/2011
 
 Tabela de Vencimentos
 
-<table style="border-collapse: collapse; mso-padding-alt: 0cm 0cm 0cm 0cm;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 174.55pt; border: solid black 1.0pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 14.25pt;" valign="top" width="233"><p class="Tabela-Texto">Classe</p></td><td style="width: 200.6pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 14.25pt;" valign="top" width="267"><p class="Tabela-Texto">Vencimento (R$)</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">3ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">2.046,42</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">2ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">2.530,97</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">1ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">2.812,22</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">Especial</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">3.124,68</p></td></tr></tbody></table>
+Classe
+
+Vencimento (R$)
+
+3ª
+
+2.046,42
+
+2ª
+
+2.530,97
+
+1ª
+
+2.812,22
+
+Especial
+
+3.124,68
 
 Procurador Jurídico
 
@@ -120,4 +174,22 @@ Vigência a partir de 01/10/2011
 
 Tabela de Vencimentos
 
-<table style="border-collapse: collapse; mso-padding-alt: 0cm 0cm 0cm 0cm;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 174.55pt; border: solid black 1.0pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 14.25pt;" valign="top" width="233"><p class="Tabela-Texto">Classe</p></td><td style="width: 200.6pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 14.25pt;" valign="top" width="267"><p class="Tabela-Texto">Vencimento (R$)</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">3ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">2.550,99</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">2ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">2.834,69</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">1ª</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">3.149,68</p></td></tr><tr><td style="width: 174.55pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="233"><p class="Tabela-Texto">Especial</p></td><td style="width: 200.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 0cm 0cm 0cm; height: 15.0pt;" valign="top" width="267"><p class="Tabela-Texto">3.499,64</p></td></tr></tbody></table>
+Classe
+
+Vencimento (R$)
+
+3ª
+
+2.550,99
+
+2ª
+
+2.834,69
+
+1ª
+
+3.149,68
+
+Especial
+
+3.499,64

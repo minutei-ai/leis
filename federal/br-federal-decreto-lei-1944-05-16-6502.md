@@ -1,5 +1,3 @@
-###DEL-006502-0-000-16-05-1944@@@
-
 DECRETO-LEI N. 6.502 – DE 16 DE MAIO DE 1944
 
 Reorganiza o Corpo do Pessoal  Subalterno da Armada, fixa novo efetivo e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-071289-0-000-31-10-1972@@@
-
 DECRETO Nº 71.289 - DE 31 DE OUTUBRO DE 1972.
 
 Prorroga o prazo a que se refere o artigo 6º do Decreto nº 65.237, de 26 de setembro de 1969.

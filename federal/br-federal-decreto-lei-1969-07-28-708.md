@@ -1,5 +1,3 @@
-###DEL-000708-0-000-28-07-1969@@@
-
 DECRETO-LEI Nº 708, DE 28 DE JULHO DE 1969
 
 Dispõe sôbre o mandato dos membros do Conselho Superior e dos Conselhos Administrativos das Caixas Econômicas Federais.

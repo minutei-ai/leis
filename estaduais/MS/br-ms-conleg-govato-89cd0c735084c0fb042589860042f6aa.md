@@ -6,15 +6,16 @@ Declara de Utilidade Pública Estadual a Associação Beneficente Lar Cristo Red
 
 Publicada no Diário Oficial nº 11.121, de 3 de abril de 2023, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a Associação Beneficente Lar Cristo Redentor, no Município de Coronel Sapucaia, no Estado de Mato Grosso do Sul.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a Associação Beneficente Lar Cristo Redentor, no Município de Coronel Sapucaia, no Estado de Mato Grosso do Sul.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 31 de março de 2023.
 
-<br>
-EDUARDO CORREA RIEDEL<br>
+EDUARDO CORREA RIEDEL
+
 Governador do Estado

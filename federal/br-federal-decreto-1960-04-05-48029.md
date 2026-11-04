@@ -1,5 +1,3 @@
-###DEC-048029-0-000-05-04-1960@@@
-
 DECRETO Nº 48.029, DE 5 DE ABRIL DE 1960.
 
 Autoriza o cidadão brasileiro Paulo Corrêa a pesquisar calcário, no município de Capão Bonito, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-069797-0-000-15-12-1971@@@
-
 Decreto 69.797 - de 15 de dezembro de 1971
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Cataguases, no Estado de Minas Gerais.

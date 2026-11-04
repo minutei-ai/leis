@@ -1,8 +1,6 @@
-###DEC-023940-0-000-27-10-1947@@@
+**DECRETO N. 23.940 – DE 27 DE OUTUBRO DE 1947**
 
-<strong>DECRETO N. 23.940 – DE 27 DE OUTUBRO DE 1947</strong>
-
-<em><strong>Outorga a José Cambraia ou emprêsa que organizar, concessão para aproveitamento da energia hidráulica de um desnível existente no ribeirão Jaguarete, município de Iepê, comarca de Rancharia, Estado de São Paulo</strong></em>
+***Outorga a José Cambraia ou emprêsa que organizar, concessão para aproveitamento da energia hidráulica de um desnível existente no ribeirão Jaguarete, município de Iepê, comarca de Rancharia, Estado de São Paulo***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de Julho de 1.934) :
 
@@ -10,13 +8,13 @@ Considerando que a Emprêsa José Giorgi de Eletricidade do Vale do Paranapanema
 
 Considerando, entretanto, que a outorga de concessão de que trata êste Decreto atenderá aos justos anseios da coletividade daquele próspero município, Decreta:
 
-<strong>Art.</strong> 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada a José Cambraia, ou emprêsa que organizar, concessão para aproveitamento da energia hidráulica, de um desnível existente no ribeirão Jaguarete, município de Iepê, comarca de Rancharia, Estado de São Paulo.
+**Art.** 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada a José Cambraia, ou emprêsa que organizar, concessão para aproveitamento da energia hidráulica, de um desnível existente no ribeirão Jaguarete, município de Iepê, comarca de Rancharia, Estado de São Paulo.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação do projeto, serão determinadas a altura de queda a aproveitar, a descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à produção, transmissão, transformação e distribuição de energia elétrica, para serviços públicos, para serviços de utilidade pública e para comércio de energia elétrica no município de Iepê, comarca de Rancharia, Estado de São Paulo.
 
-<strong>Art.</strong> 2º Sob pena de caducidade do presente título, o concessionário obriga-se a:
+**Art.** 2º Sob pena de caducidade do presente título, o concessionário obriga-se a:
 
 I – Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, após a sua publicação.
 
@@ -70,36 +68,36 @@ V –  Obedecer, em todos os projetos, às prescrições de ordem técnica dete
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art.</strong> 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art.** 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art.</strong> 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
+**Art.** 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art.</strong> 5º O concessionário fica obrigado a construir e manter, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso d’água que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art.** 5º O concessionário fica obrigado a construir e manter, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso d’água que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art.</strong> 6º Para efeito do disposto no art. 1º, § 2º, dêste Decreto, e com fundamento na letra b do art. 3º do Decreto-lei nº 5.764, de 19 de agôsto de 1943, fica o atual município de Iepê, no Estado de São Paulo, excluído da zona de fornecimento da Emprêsa José Giorgi de Eletricidade do Vale do Paranapanema.
+**Art.** 6º Para efeito do disposto no art. 1º, § 2º, dêste Decreto, e com fundamento na letra b do art. 3º do Decreto-lei nº 5.764, de 19 de agôsto de 1943, fica o atual município de Iepê, no Estado de São Paulo, excluído da zona de fornecimento da Emprêsa José Giorgi de Eletricidade do Vale do Paranapanema.
 
-<strong>Art.</strong> 7º O capital a ser remunerado será o efetivamente invertido nas instalações do concessionário, em função exclusivo de sua indústria, concorrendo de forma permanente, para a produção, transmissão, transformação e distribuição de energia elétrica.
+**Art.** 7º O capital a ser remunerado será o efetivamente invertido nas instalações do concessionário, em função exclusivo de sua indústria, concorrendo de forma permanente, para a produção, transmissão, transformação e distribuição de energia elétrica.
 
-<strong>Art.</strong> 8º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienaImente revistas de acôrdo com o disposto no art. 180 do Código de Águas, de maneira que seja sempre proporcionada ao capital uma justa remuneração (ítem III do citado art. 180). dentro de limites que deverão ser estipulados no contrato disciplinar presente concessão.
+**Art.** 8º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienaImente revistas de acôrdo com o disposto no art. 180 do Código de Águas, de maneira que seja sempre proporcionada ao capital uma justa remuneração (ítem III do citado art. 180). dentro de limites que deverão ser estipulados no contrato disciplinar presente concessão.
 
-<strong>Art.</strong> 9º Para a manutenção da integridade de capital a que se refere o art. 7º do presente Decreto será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art.** 9º Para a manutenção da integridade de capital a que se refere o art. 7º do presente Decreto será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dessa reserva, que se denominará “reserva de renovação”, será realizada por cotas especiais, que incidirão sôbre as tarifas, sob forma de percentagem. Estas cotas serão determinadas tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art.</strong> 10. Findo o prazo da concessão, toda a propriedade do concessionário que o (ILEGÍVEL)to existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de São Paulo, de conformidade com o estipulado nos arts. 165 e 166 do Código de Água, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 9º dêste Decreto.
+**Art.** 10. Findo o prazo da concessão, toda a propriedade do concessionário que o (ILEGÍVEL)to existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de São Paulo, de conformidade com o estipulado nos arts. 165 e 166 do Código de Água, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 9º dêste Decreto.
 
 § 1º Se o Estado de São Paulo não fizer uso do seu direito a essa reversão, o concessionário poderá requerer ao Govêrno Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do § 1º dêste artigo, fica, o concessionário obrigado a dar conhecimento ao Govêrno Federal da decisão do Estado de São Paulo e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art.</strong> 11. O concessionário gozará, desde a data do registro de que trata o art. 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art.** 11. O concessionário gozará, desde a data do registro de que trata o art. 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art.</strong> 12. O presente Decreto entrará em vigor na data de sua publicação.
+**Art.** 12. O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art.</strong> 13. Revogam-se as disposições em contrário.
+**Art.** 13. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 27 de outubro de 1947, 126º da lndependência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Daniel de Carvalho.

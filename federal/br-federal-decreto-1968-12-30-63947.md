@@ -1,5 +1,3 @@
-###DEC-063947-0-000-30-12-1968@@@
-
 decreto nº 63.947, de 30 de dezembro de 1968.
 
 Altera o Decreto nº 61.324, de 11 de setembro de 1967.

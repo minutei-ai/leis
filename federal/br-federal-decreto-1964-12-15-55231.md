@@ -1,5 +1,3 @@
-###DEC-055231-0-000-15-12-1964@@@
-
 DECRETO Nº 55.231, DE 15 DE DEZEMBRO DE 1964.
 
 Manda observar as regras do Decreto nº 47.225, de 12 de novembro de 1959, nos casos que menciona.
@@ -29,8 +27,6 @@ Brasília, 15 de dezembro de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 José Chrysantho Seabra Fagundes
-
-###DEC-055231-0-000-15-12-1964@@@RET01+++
 
 Decreto Nº 55.231, DE 15 DE DEZEMBRO DE 1964.
 

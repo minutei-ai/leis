@@ -1,5 +1,3 @@
-###MPV-001891-0-009-22-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.891-9, DE 22 DE OUTUBRO DE 1999.
 
 Estabelece critérios para a consolidação, a assunção e o refinamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

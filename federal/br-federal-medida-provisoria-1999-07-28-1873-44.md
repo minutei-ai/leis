@@ -1,5 +1,3 @@
-###MPV-001873-0-044-28-07-1999@@@
-
 MEDIDA PROVISORIA Nº 1.873-44, DE 28 DE JULHO DE 1999.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outra providencias.

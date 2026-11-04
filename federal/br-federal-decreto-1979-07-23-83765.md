@@ -1,5 +1,3 @@
-###DEC-083765-0-000-23-07-1979@@@
-
 DECRETO Nº 83.765 DE 23 DE JULHO DE 1979.
 
 Autoriza o funcionamento da Faculdade de Ciências Agrárias, com os cursos de Medicina Veterinária, Engenharia Florestal e Engenharia Agrícola, com sede na cidade de Alfenas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-046372-0-000-07-07-1959@@@
-
 DECRETO Nº 46.372, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre o aproveitamento de vales úmidos do Estado do Rio Grande do Norte e dá outras providências.

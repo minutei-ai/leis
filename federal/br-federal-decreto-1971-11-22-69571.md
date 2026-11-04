@@ -1,5 +1,3 @@
-###DEC-069571-0-000-22-11-1971@@@
-
 DECRETO Nº 69.571 - DE 22 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão Nôvo Brasil - Itapirapuã, no Estado de Goiás.

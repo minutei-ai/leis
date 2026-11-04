@@ -1,5 +1,3 @@
-###DEL-007219-0-000-30-12-1944@@@
-
 DECRETO-LEI N. 7.219 – DE 30 DE DEZEMBRO DE 1944
 
 Prorroga, até 31-12-1946, a vigência do Decreto-lei nº 5.542, De 3-6-1943, que abriu, ao Ministério da Agricultura, o crédito especial de Cr$ 2.480,500.00 para atender às despesas com obras e instalações no Instituto Nacional de Óleos, atual Instituto de Óleos

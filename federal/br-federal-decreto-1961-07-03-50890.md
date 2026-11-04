@@ -1,5 +1,3 @@
-###DEC-050890-0-000-03-07-1961@@@
-
 DECRETO Nº 50.890, de 3 de julho de 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 36.676, de 28 de dezembro de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra Sêcas, de área de terreno necessária à construção do açude público “Barra”, no município de Canhobas, no Estado de Sergipe.

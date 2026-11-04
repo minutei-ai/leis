@@ -1,5 +1,3 @@
-###DEC-090500-0-000-13-11-1984@@@
-
 Decreto nº 90.500, de 13 de novembro de 1984
 
 Altera dispositivo do Decreto nº 70.303, de 20 de março de 1972, que institui a comissão Aeronáutica Brasileira na Europa.

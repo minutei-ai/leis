@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62146)
-
 # LEI Nº 12.369, DE 27 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 423/2005, do Deputado Edmir Chedid - PFL)

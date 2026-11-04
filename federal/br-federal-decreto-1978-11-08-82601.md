@@ -1,5 +1,3 @@
-###DEC-082601-0-000-08-11-1978@@@
-
 Decreto nº 82.601, de 08 de novembro de 1978.
 
 Autoriza o Banco Union C.A. a funcionar no País.

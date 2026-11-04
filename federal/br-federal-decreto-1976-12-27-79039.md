@@ -1,5 +1,3 @@
-###DEC-079039-0-000-27-12-1976@@@
-
 DECRETO Nº 79.039, DE 27 DE DEZEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem, de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado de Alagoas.

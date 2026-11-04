@@ -1,5 +1,3 @@
-###DEC-050739-0-000-07-06-1961@@@
-
 DECRETO Nº 50.739, DE 7 DE JUNHO DE 1961.
 
 Regulamenta o art. 16 da Lei número 3.115, de 16 de março de 1957.

@@ -4,19 +4,22 @@ Reestrutura a Caixa de Previdência dos Parlamentares e dá outras providências
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA NATUREZA, DURAÇÃO E FORO
 
 Art. 1º - A Caixa de Previdência dos Parlamentares, criada pela [lei nº 2.436, de 29 de março de 1967](https://www.legislabahia.ba.gov.br/documentos/lei-no-2436-de-29-de-marco-de-1967#LO_2_436) , com tempo de duração indeterminado, dotada de personalidade jurídica própria e autonomia financeira e administrativa, com sede e foro na Capital do Estado, reger-se-á pelo disposto na presente lei e pelos regulamentos que vieram a ser adotados.
 
 Parágrafo único - À Caixa são conferidos os privilégios, imunidades e isenções deferidos, às autarquias estaduais.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS FINS
 
 Art. 2º - A Caixa tem por objetivo a prestação de atividade assistencial e previdenciária aos seus segurados, através dos benefícios expressamente consignados nesta lei.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS SEGURADOS
 
 Art. 3º - São segurados obrigatórios os Deputados Estaduais, cuja inscrição é feita de ofício a partir do exercício do mandato.
@@ -33,7 +36,8 @@ II - Os pais.
 
 III - A pessoa nomeada pelo segurado solteiro, separado judicialmente, divorciado ou viúvo, que viva sob sua dependência.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOS BENEFÍCIOS
 
 Art. 6º - A filiação à Caixa assegura os seguintes benefícios:
@@ -62,10 +66,12 @@ Art. 8º - O auxílio financeiro será concedido sob a forma de empréstimo aos 
 
 Art. 9º - O auxílio funeral consistirá no pagamento de 15 valores de referência destinado a quem tenha arcado com as despesas funerárias do filiado, sendo o seu custo rateado igualitariamente entre todos os contribuintes.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO REGIME FINANCEIRO E PATRIMONIAL
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DO CUSTEIO
 
 Art. 10 - O custeio da Caixa de Previdência será provido ordinariamente através das seguintes fontes de receita:
@@ -80,7 +86,8 @@ IV - Contribuição dos associados na situação prevista no [§ 1º do art. 7º
 
 V - Contribuição da Assembléia Legislativa, a ser recolhida no valor do dobro das contribuições totais arrecadadas por força dos incisos I e II.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS DEMAIS FONTES DE RECEITA
 
 Art. 11 - Constituem ainda fontes de receita da Caixa:
@@ -93,14 +100,16 @@ III - a decorrente de descontos provenientes de falta dos Deputados.
 
 Parágrafo único - A Assembléia transferirá ainda à Caixa, ao final de cada exercício, o excesso, porventura remanescente na sua dotação orçamentária, ressalvada a verba vinculada à rubrica de pessoal.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO PATRIMÔNIO
 
 Art. 12 - O patrimônio da Caixa é constituído dos bens móveis, imóveis e direitos por ela adquiridos ou que resultem de doação de entidades de direito público ou privado nacionais ou estrangeiras.
 
 Parágrafo único - A aquisição, a título oneroso, de bens, pela Caixa, dependerá de aprovação da Comissão Deliberativa e reger-se-á pelas normas gerais adotados no Estado para as licitações.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA ESTRUTURA ADMINISTRATIVA
 
 Art. 13 - A Caixa de Previdência dos Parlamentares está assim organizada:
@@ -111,7 +120,8 @@ II - Presidência
 
 III - Junta de Controle
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DA COMISSÃO DELIBERATIVA
 
 Art. 14 - A Comissão Deliberativa será composta de 5 membros, 3 dos quais Deputados, um servidor lotado na Secretaria da Assembléia e um pensionista, todos com mandato de 2 anos, permitida a recondução.
@@ -128,7 +138,8 @@ III - Julgar recursos interpostos contra atos e decisões do seu Presidente; e
 
 IV - Expedir as normas e instruções necessárias ao cumprimento desta lei e decidir nos casos omissos.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA PRESIDÊNCIA
 
 Art. 16 - Compete ao Presidente:
@@ -187,14 +198,16 @@ VI - Receber, registrar e guardar os títulos e valores e numerários da Caixa; 
 
 VII - Executar atividades afins.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DA JUNTA DE CONTROLE
 
 Art. 20 - A Junta de Controle tem por finalidade o exercício da fiscalização contábil e financeira e será composta de 03 membros designados pelo Presidente da Assembléia, preferencialmente especializados em contabilidade e finanças.
 
 Parágrafo único - O mandato dos membros da Junta de Controle é de 02 anos, podendo ser renovado.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DO REGIME DE PESSOAL
 
 Art. 21 - A Assembléia colocará à disposição da Caixa os servidores que se façam necessários ao desempenho da administração, inclusive mediante contratação de pessoal especializado, quando se tornar indispensável para a execução de cometimentos técnicos.
@@ -203,7 +216,8 @@ Parágrafo único - Em qualquer hipótese é vedado à Caixa dispêndio com pess
 
 Art. 22 - Aos servidores da Assembléia à disposição da Caixa são deferidas todas as vantagens asseguradas àqueles em exercício efetivo nos serviços do Poder Legislativo.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 23 - O benefíciário da Caixa de Previdência dos Parlamentares que estiver ou vier a ser investido em mandato eletivo remunerado ou em cargo de Ministro, Secretário de Estado, Presidente ou Diretor de Entidade da Administração Descentralizada, inclusive Fundações, terá a sua pensão reduzida em 50%.

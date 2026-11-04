@@ -1,5 +1,3 @@
-###DEC-096657-0-000-06-09-1988@@@
-
 DECRETO N° 96.657, DE 6 DE SETEMBRO DE 1988
 
 Torna insubsistente o Decreto nº 96.614, de 30 de agosto de 1988.

@@ -1,5 +1,3 @@
-###DEL-004151-0-000-06-03-1942@@@
-
 DECRETO-LEI N. 4.151 – DE 6 DE MARÇO DE 1942
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção do imposto predial ao prédio de propriedade do Clube de Engenharia, situado à avenida Rio Branco ns. 124 e 126, nas condições que estipula

@@ -1,5 +1,3 @@
-###DEC-070239-0-000-06-03-1972@@@
-
 Decreto nº 70.239, de 6 de março de 1972.
 
 Altera dispositivo do Decreto nº 57.814, de 15 de fevereiro de 1966, que fixa a composição de Delegação Brasileira na Comissão Mista Executora do Acordo Brasil - Estados Unidos sobre Serviços Cartográficos, define sua vinculação com órgãos do Governo Brasileiro e dá outras providências.

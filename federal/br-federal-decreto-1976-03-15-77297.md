@@ -1,5 +1,3 @@
-###DEC-077297-0-000-15-03-1976@@@
-
 DECRETO Nº 77.297, DE 15 DE MARÇO DE 1976
 
 Dispõe sobre a encampação do Porto de Salvador, no Estado da Bahia, e dá outras providências.

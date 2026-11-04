@@ -1,5 +1,3 @@
-###DEC-058336-0-000-03-05-1966@@@
-
 DECRETO Nº 58.336, DE 3 DE MAIO DE 1966.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco concessão para distribuir energia elétrica.

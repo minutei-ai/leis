@@ -1,5 +1,3 @@
-###DEC-066511-0-000-28-04-1970@@@
-
 DECRETO Nº 66.511, DE 28 DE ABRIL DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

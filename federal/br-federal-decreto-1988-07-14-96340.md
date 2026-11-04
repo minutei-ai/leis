@@ -1,5 +1,3 @@
-###DEC-096340-0-000-14-07-1988@@@
-
 DECRETO N° 96.340, DE 14 DE JULHO DE 1988
 
 Outorga concessão à RÁDIO AM DE PARELHAS LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Parelhas, Estado do RIO Grande do Norte.

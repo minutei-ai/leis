@@ -1,5 +1,3 @@
-###DEC-068631-0-000-19-05-1971@@@
-
 DECRETO Nº 68.631 - de 19 DE MAIO DE 1971.
 
 Aprova o Estatuto da Fundação Universidade Federal do Piauí.

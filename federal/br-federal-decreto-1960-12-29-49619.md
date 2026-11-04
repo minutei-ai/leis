@@ -1,5 +1,3 @@
-###DEC-049619-0-000-29-12-1960@@@
-
 DECRETO N. 49.619 – DE 29 DE DEZEMBRO DE 1960
 
 Abre ao Ministério da Saúde o crédito especial de Cr$ 20.000.000,00 como auxilio à Associação de Assistência à Criança Defeituosa, com sede em São Paulo, capital do Estado de São Paulo.

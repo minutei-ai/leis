@@ -1,6 +1,10 @@
 > **LEI Nº 4.352, DE 09 DE MAIO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre princípios e diretrizes para criação de programas reflexivos e responsabilizantes para autores de violência doméstica e familiar contra a mulher no Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre princípios e diretrizes para criação de programas reflexivos e responsabilizantes para autores de violência doméstica e familiar contra a mulher no Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

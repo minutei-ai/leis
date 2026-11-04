@@ -1,5 +1,3 @@
-###DEL-008549-0-000-03-01-1946@@@
-
 DECRETO-LEI N. 8.549 – DE 3 DE JANEIRO DE 1946
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.670.000,00, para ocorrer às despesas com o lançamento às Obrigações de Guerra.              O Presidente da República, usando das atribuições que lhe confere o artigo 180 da Constituição,

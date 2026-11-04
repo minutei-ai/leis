@@ -1,5 +1,3 @@
-###DEL-007129-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.129 – DE 7 DE DEZEMBRO DE 1944
 
 Autoriza a garantia do Tesouro Nacional a uma operação de crédito em favor da Estrada de Ferro Central do Brasil

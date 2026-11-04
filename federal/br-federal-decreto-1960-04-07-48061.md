@@ -1,5 +1,3 @@
-###DEC-048061-0-000-07-04-1960@@@
-
 decreto nº 48.061, de 7 de abril de 1960.
 
 Concede autorização para o funcionamento de curso.

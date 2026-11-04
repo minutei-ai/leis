@@ -1,5 +1,3 @@
-###DEC-056472-0-000-16-06-1965@@@
-
 Decreto nº 56.472, de 16 de junho de 1965.
 
 Autoriza o Ministério da Fazenda a emitir, até Cr$100.000.000,00 em títulos da Dívida Pública Interna Fundada, para indenizações a súditos do Eixo.

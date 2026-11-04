@@ -1,5 +1,3 @@
-###DEL-008125-0-000-23-10-1945@@@
-
 DECRETO-LEI N. 8.125 – DE 23 DE OUTUBRO DE 1945
 
 Filia ao Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas os condutores profissionais de veículos de serviços oficiais e de instituições paraestatais ou autárquicas e dá outras providências.

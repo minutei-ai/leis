@@ -1,5 +1,3 @@
-###DEC-084708-0-000-13-05-1980@@@
-
 Decreto nº 84.708, de 13 de maio de 1980.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Educadora Palmares de Alagoas Limitada, e autoriza transferência direta para a Fundação Rádio Educadora Palmares de Alagoas que passará a executar Serviço de Radiodifusão Sonora em Onda Média de âmbito regional, na cidade de Maceió, Estado de Alagoas.

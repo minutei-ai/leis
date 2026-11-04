@@ -1,5 +1,3 @@
-###DEC-091056-0-000-07-03-1985@@@
-
 Decreto nº 91.056, de 07 de março de 1985
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra com benfeitorias necessárias à implantação do canal de desvio à ponte Campos Salles da CESP-Companhia Energética de São Paulo, no Estado de são Paulo.

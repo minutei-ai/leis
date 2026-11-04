@@ -1,5 +1,3 @@
-###DEC-044934-0-000-01-12-1958@@@
-
 DECRETO Nº 44.934, DE 1 DE dezembro DE 1958.
 
 Autoriza o cidadão brasileiro Felicio Félix de Abreu a pesquisar quartzo e mica no município de Santa Maria do Suaçui, Estado de Minas Gerais.

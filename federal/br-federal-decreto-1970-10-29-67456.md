@@ -1,5 +1,3 @@
-###DEC-067456-0-000-29-10-1970@@@
-
 decreto nº 67.456 - de 29 de outubro de 1970
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à construção, pela Companhia Telefônica Brasileira, da estação telefônica de Ibicuí, Município de Mangaratiba, Estado do Rio de Janeiro.

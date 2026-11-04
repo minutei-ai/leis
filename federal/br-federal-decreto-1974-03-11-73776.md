@@ -1,5 +1,3 @@
-###DEC-073776-0-000-11-03-1974@@@
-
 decreto nº 73.776, de 11 de março de 1974.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal da Superintendência do Vale do São Francisco, antiga Comissão do Vale do São Francisco, e dá outras providências.

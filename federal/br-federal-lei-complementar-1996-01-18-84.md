@@ -1,7 +1,3 @@
-1
-
-###LCP-000084-0-000-18-01-1996@@@
-
 LEI COMPLEMENTAR Nº 84, DE 18 DE JANEIRO DE 1996.
 
 Institui fonte de custeio para a manutenção da Seguridade Social, na forma do § 4º do art. 195 da Constituição Federal, e dá outras providências.

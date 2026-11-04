@@ -1,5 +1,3 @@
-###DEC-070912-0-000-31-07-1972@@@
-
 DECRETO Nº 70.912, DE 31 DE JULHO DE 1972
 
 Autoriza a Petróleo Brasileiro S.A - PETROBRÁS a realizar levantamento geológicos e geofísicos no mar territorial do Brasil em conjunto com cientistas da Woods Hole Oceanographic Institution, dando cumprimento ao Programa de Reconhecimento Global da Margem Continental Brasileira - Projeto REMAC.

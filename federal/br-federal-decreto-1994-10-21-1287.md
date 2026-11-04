@@ -1,7 +1,3 @@
-1
-
-###DEC-001287-0-000-21-10-1994@@@
-
 DECRETO N° 1.287, DE 21 DE OUTUBRO DE 1994
 
 Altera o Regulamento Consolidado do Fundo de Garantia do Tempo de Serviço, aprovado pelo Decreto n° 99.684, de 8 de novembro de 1990.

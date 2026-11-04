@@ -1,5 +1,3 @@
-###DEC-047674-0-000-20-01-1960@@@
-
 DECRETO Nº 47.674, DE 20 DE JANEIRO DE 1960.
 
 Altera a redação do art. 220 do Regulamento para as Capitanias de Portos.

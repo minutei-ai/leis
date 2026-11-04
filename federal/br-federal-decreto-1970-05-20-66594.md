@@ -1,5 +1,3 @@
-###DEC-066594-0-000-20-05-1970@@@
-
 Decreto nº 66.594, de 20 de maio de 1970.
 
 Declara de utilidade pública para fins de desapropriação, o imóvel necessário à construção de uma subestação e para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de Bonsucesso até a subestação de Sion, ambas localizadas no município de Belo Horizonte, Estado de Minas Gerais.

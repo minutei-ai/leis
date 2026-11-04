@@ -1,5 +1,3 @@
-###DEC-005223-0-000-01-10-2004@@@
-
 DECRETO Nº 5.223 DE 1º DE OUTUBRO DE 2004
 
 Institui a hora de verão, em parte do território nacional, no período que indica.

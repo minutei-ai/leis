@@ -1,5 +1,3 @@
-###DEC-062296-0-000-22-02-1968@@@
-
 Decreto nº 62.296, de 22 de fevereiro de 1968.
 
 Concede autorização para funcionar como emprêsa de energia elétrica, à Companhia de Eletricidade da Borborema.

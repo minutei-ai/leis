@@ -1,5 +1,3 @@
-###DEC-054532-0-000-21-10-1964@@@
-
 DECRETO Nº 54.532, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Maria Aguiar a pesquisar cassiterita, no município de Labrea, Estado do Amazonas.

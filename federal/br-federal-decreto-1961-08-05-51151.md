@@ -1,5 +1,3 @@
-###DEC-051151-0-000-05-08-1961@@@
-
 DECRETO Nº 51.151, DE 5 DE AGÔSTO DE 1961.
 
 Interdita a pesca no local denominado “Baia Grande”, situado no Rio Paraná, junto à Barra do Rio Samabaia, no Estado de Mato Grosso.

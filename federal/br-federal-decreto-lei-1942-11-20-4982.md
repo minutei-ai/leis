@@ -1,5 +1,3 @@
-###DEL-004982-0-000-20-11-1942@@@
-
 DECRETO-LEI N. 4.982 – DE 20 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 2.505.000,00 para atender a despesas do Instituto Agronômico do Norte e torna sem aplicação os saldos de créditos orçamentários consignados ao mesmo Instituto.

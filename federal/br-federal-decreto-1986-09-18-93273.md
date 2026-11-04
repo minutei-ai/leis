@@ -1,5 +1,3 @@
-###DEC-093273-0-000-18-09-1986@@@
-
 DECRETO Nº 93.273, DE 18 DE SETEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de São João da Boa Vista II, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

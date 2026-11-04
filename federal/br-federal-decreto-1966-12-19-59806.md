@@ -1,5 +1,3 @@
-###DEC-059806-0-000-19-12-1966@@@
-
 DECRETO Nº 59.806, DE 19 DE DEZEMBRO DE 1966.
 
 Amplia a zona de concessão da Companhia Nacional de Energia Elétrica.

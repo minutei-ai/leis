@@ -1,14 +1,12 @@
-###DEC-041730-0-000-28-06-1957@@@
+**DECRETO Nº 41.730, DE 28 DE JUNHO DE 1957.**
 
-<strong>DECRETO Nº 41.730, DE 28 DE JUNHO DE 1957.</strong>
+***Altera o Regulamento da Diretoria de Aeronáutica Civil.***
 
-<em><strong>Altera o Regulamento da Diretoria de Aeronáutica Civil.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O regulamento da Diretoria de Aeronáutica Civil, aprovado pelo Decreto nº 8.535, de 15 de janeiro de 1942, fica alterado para o fim de:
+**Art**. 1º O regulamento da Diretoria de Aeronáutica Civil, aprovado pelo Decreto nº 8.535, de 15 de janeiro de 1942, fica alterado para o fim de:
 
 1º) Substituir o art. 2º pelo seguinte:
 
@@ -26,7 +24,7 @@ Assessoria de Assuntos Econômicos - D.C.A.E.
 
 Seção Auxiliar - D.C.S.A”
 
-2º) Suprimir a alínea <em>a</em> do ar. 4º
+2º) Suprimir a alínea *a* do ar. 4º
 
 3º) Acrescentar um artigo após o atual 6º, sob a denominação de 7º e devidamente modificada a numeração dos que lhe seguirem com a seguinte redação:
 
@@ -54,10 +52,10 @@ f) de modo geral, opinar sôbre problemas de natureza econômico-financeira que 
 
 § 3º O Setor de Análises será chefiado por Capitão Intendente de Aeronáutica ou Economista contratado, e o de Pesquisas por Contabilista do Quadro do Ministério da Aeronáutica ou outro elemento funcional adequado”
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 28 de junho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Fleuiss

@@ -1,5 +1,3 @@
-###DEC-091227-0-000-06-05-1985@@@
-
 Decreto nº 91.227, de 06 de maio de 1985
 
 Constitui Comissão Especial Incumbida de elaborar anteprojeto de lei que cria o CONSELHO NACIONAL DE DEFESA DOS DIREITOS DA MULHER.

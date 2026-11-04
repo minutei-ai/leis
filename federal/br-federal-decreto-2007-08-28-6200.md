@@ -1,5 +1,3 @@
-###DEC-006200-0-000-28-08-2007@@@
-
 DECRETO Nº 6.200, DE 28 DE AGOSTO DE 2007.
 
 Dispõe sobre a concessão de rebate sobre as parcelas com vencimento em 2007 de financiamentos de investimento rural e de custeio agropecuário de safras anteriores, contratados ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF.                       
@@ -10,7 +8,41 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
                         Art. 1o  Fica autorizada a concessão de rebate sobre as parcelas com vencimento em 2007 de financiamentos de custeio agropecuário prorrogados das safras 2003/2004, 2004/2005 e 2005/2006, contratados direta ou indiretamente por bancos oficiais federais e bancos cooperativos, ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, com recursos orçamentários repassados ou equalizados pelo Tesouro Nacional ou dos Fundos Constitucionais de Financiamento do Norte (FNO), do Nordeste (FNE) e do Centro-Oeste (FCO), ou ainda com recursos controlados do crédito rural provenientes dos depósitos à vista ou da poupança rural, quando os mutuários quitarem as obrigações até a data do respectivo vencimento, e desde que estejam com as parcelas vencidas até 31 de dezembro de 2006 em situação de adimplência, da forma a seguir discriminada:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:117.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Safra</span></p></td><td style="width:123.18pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-weight:bold; text-transform:uppercase">PRONAF - Grupos</span></p></td><td style="width:180.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rebate sobre as parcelas com vencimento em 2007</span></p></td></tr><tr><td style="width:117.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">2003/2004</span></p></td><td style="width:123.18pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">A/C, C ou D</span></p></td><td style="width:180.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">trinta e cinco por cento</span></p></td></tr><tr><td style="width:117.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:123.18pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:180.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">vinte por cento</span></p></td></tr><tr><td style="width:117.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">2004/2005</span></p></td><td style="width:123.18pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A/C, C ou D</span></p></td><td style="width:180.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">trinta por cento</span></p></td></tr><tr><td style="width:117.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:123.18pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:180.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">vinte por cento</span></p></td></tr><tr><td style="width:117.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">2005/2006</span></p></td><td style="width:123.18pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A/C, C ou D</span></p></td><td style="width:180.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">vinte por cento</span></p></td></tr><tr><td style="width:117.85pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:123.18pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:180.22pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">quinze por cento</span></p></td></tr></tbody></table>
+Safra
+
+PRONAF - Grupos
+
+Rebate sobre as parcelas com vencimento em 2007
+
+2003/2004
+
+A/C, C ou D
+
+trinta e cinco por cento
+
+E
+
+vinte por cento
+
+2004/2005
+
+A/C, C ou D
+
+trinta por cento
+
+E
+
+vinte por cento
+
+2005/2006
+
+A/C, C ou D
+
+vinte por cento
+
+E
+
+quinze por cento
 
                         § 1o  Na hipótese de pagamento de, no mínimo, cinqüenta por cento das obrigações até a data do vencimento, e prorrogado o saldo remanescente, aplica-se sobre o valor pago o respectivo percentual de rebate.
 
@@ -53,5 +85,3 @@ Guido Mantega
 Geddel Vieira Lima
 
 Guilherme Cassel
-
-Este texto não substitui o publicado no DOU de 29.8.2007

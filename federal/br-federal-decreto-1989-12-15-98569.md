@@ -1,7 +1,3 @@
-1
-
-###DEC-098569-0-000-15-12-1989@@@
-
 DECRETO Nº 98.569, DE 15 DE DEZEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado Bom Retiro-Quinhão I-A, situado no Município de Inácio Martins, Estado do Paraná, e dá outras providências.

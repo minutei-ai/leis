@@ -6,20 +6,26 @@ Declara de Utilidade Pública Estadual o Centro Espírita Nosso Lar, com sede e 
 
 Publicada no Diário Oficial nº 3.659, de 4 de novembro de 1993, página 1.
 
-O Governador do Estado de Mato Grosso do Sul, faço saber que a<br>
-Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarado de Utilidade Pública Estadual o Centro<br>
-Espírita Nosso Lar, com sede provisória na cidade de Campo Grande,<br>
-Estado de Mato Grosso do Sul.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 3 de novembro de 1993.<br>
-<br>
-PEDRO PEDROSSIAN<br>
-Governador<br>
-<br>
-NEWLEY ALEXANDRE DA SILVA AMARILLA<br>
+O Governador do Estado de Mato Grosso do Sul, faço saber que a
+
+Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarado de Utilidade Pública Estadual o Centro
+
+Espírita Nosso Lar, com sede provisória na cidade de Campo Grande,
+
+Estado de Mato Grosso do Sul.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 3 de novembro de 1993.
+
+PEDRO PEDROSSIAN
+
+Governador
+
+NEWLEY ALEXANDRE DA SILVA AMARILLA
+
 Secretário de Estado de Justiça e Trabalho

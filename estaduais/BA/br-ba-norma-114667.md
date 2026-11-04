@@ -12,7 +12,8 @@ Art. 1º - Fica concedida à D. Margarida Habib, esposa do Dr. Durval José Habi
 
 Art. 2º - Para atender às despesas de quarenta e nove mil trezentos e trinta e três cruzeiros (Cr$49.333), no exercício de 1963, decorrentes desta lei fica o Poder Executivo autorizado a abrir o respectivo crédito à conta da codificação 3.05.08 - Verba 3.1.4.19-1 do orçamento de 1965.
 
-Redação de acordo com a Lei nº 2.157, de 08 de junho de 1965.<br>
+Redação de acordo com a Lei nº 2.157, de 08 de junho de 1965.
+
 Redação original: "Art. 2º - Para fazer face às despesas decorrentes da presente Lei, fica o Poder Executivo autorizado a abrir o crédito necessário à conta de qualquer dos recursos previstos no artigo 6º da Lei nº 75, de 27 de julho de 1948 no valor de Cr$200.000,00, para o corrente exercício."
 
 Art. 3º - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
@@ -31,4 +32,4 @@ Oswaldo Teixeira
 
 2º Secretário
 
-* * *
+ *

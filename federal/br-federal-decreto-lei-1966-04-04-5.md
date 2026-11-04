@@ -1,5 +1,3 @@
-###DEL-000005-0-000-04-04-1966@@@
-
 DECRETO-LEI Nº 5, DE 4 DE ABRIL DE 1966
 
 Estabelece normas para a recuperação econômica das atividades da Marinha-Mercante, dos Portos Nacionais e da Rêde Ferroviária Federal S.A. e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052481-0-000-19-09-1963@@@
-
 DECRETO Nº 52.481, DE 19 DE SETEMBRO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da “Lloyd Atlântico” Sociedade Anônima de Seguros.

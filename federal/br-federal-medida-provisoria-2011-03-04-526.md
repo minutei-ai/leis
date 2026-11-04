@@ -1,5 +1,3 @@
-###MPV-000526-0-000-04-03-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 526, DE 4 DE MARÇO DE 2011
 
 Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, altera o art. 1º a Lei nº 12.096, de 24 de novembro de 2009, dispõe sobre medidas de suspensão temporária de exigências de regularidade fiscal, e dá outras providências.

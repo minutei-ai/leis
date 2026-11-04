@@ -1,5 +1,3 @@
-###DEC-050111-0-000-26-01-1961@@@
-
 decreto nº 50.111, de 26 de janeiro de 1961.
 
 Autoriza o Estado da Bahia a construir uma linha de transmissão de energia elétrica.

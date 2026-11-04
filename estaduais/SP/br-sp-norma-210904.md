@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210904)<br>
-
 # DECRETO N° 69.512, DE 30 DE ABRIL DE 2025
 
 ### _Transfere, da Secretaria de Gestão e Governo Digital para a Secretaria de Desenvolvimento Social, a administração do imóvel que especifica, localizado no Município de Pereira Barreto._

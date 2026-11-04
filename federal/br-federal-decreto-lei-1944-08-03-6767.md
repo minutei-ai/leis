@@ -1,5 +1,3 @@
-###DEL-006767-0-000-03-08-1944@@@
-
 DECRETO-LEI N. 6.767 –DE 3 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.582.666,80, para pagamento de indenizações decorrentes de requisições

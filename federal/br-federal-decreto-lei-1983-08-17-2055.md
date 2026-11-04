@@ -1,5 +1,3 @@
-###DEL-002055-0-000-17-08-1983@@@
-
 # Decreto-lei nº 2.055, de 17 de agosto de 1983
 
 Altera os Decretos-leis nºs 1.801, de 18 de agosto de 1980, e 2.035, de 21 de junho de 1983, dispõe sobre a sucessão da autarquia federal Superintendência Nacional da Marinha Mercante - SUNAMAM e da outras providências.

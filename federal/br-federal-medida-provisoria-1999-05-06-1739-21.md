@@ -1,5 +1,3 @@
-###MPV-001739-0-021-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.739-21, DE 06 DE MAIO DE 1999.
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

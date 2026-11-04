@@ -1,5 +1,3 @@
-###DEC-050460-0-000-14-04-1961@@@
-
 DECRETO Nº 50.460, DE 14 DE ABRIL DE 1961.
 
 Revoga os Decretos que concederam a sociedade anônima Bennet do Brasil Limitada autorização para funcionar na República.

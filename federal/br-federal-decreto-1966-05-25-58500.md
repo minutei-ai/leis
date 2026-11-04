@@ -1,5 +1,3 @@
-###DEC-058500-0-000-25-05-1966@@@
-
 DECRETO Nº 58.500, DE 25 DE MAIO DE 1966.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Minas Brasil, inclusive aumento do capital social.

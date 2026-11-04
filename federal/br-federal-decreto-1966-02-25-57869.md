@@ -1,5 +1,3 @@
-###DEC-057869-0-000-25-02-1966@@@
-
 DECRETO Nº 57.869, DE 25 DE FEVEREIRO DE 1966.
 
 Retifica os Decretos ns. 54.015, de 13 de julho de 1964, e 55.204, de 11 de dezembro de 1964.

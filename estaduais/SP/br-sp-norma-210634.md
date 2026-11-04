@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210634)<br>
-
 # DECRETO N° 69.359, DE 19 DE FEVEREIRO DE 2025
 
 ### _Declara situação de emergência em saúde pública no Estado de São Paulo em razão de epidemia de Dengue, e dá outras providências._

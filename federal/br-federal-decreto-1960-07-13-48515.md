@@ -1,5 +1,3 @@
-###DEC-048515-0-000-13-07-1960@@@
-
 DECRETO Nº 48.515, DE 13 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro José Pedro da Fonseca Filho a lavra calcário no município de Motozinhos, Estado de Minas Gerais.

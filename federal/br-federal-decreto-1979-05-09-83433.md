@@ -1,5 +1,3 @@
-###DEC-083433-0-000-09-05-1979@@@
-
 decreto nº 83.433, de 09 de maio de 1979.
 
 Outorga à Madeireira Santa Maria S.A . concessão para o aproveitamento da energia hidráulica de um trecho do rio Jordão, no local denominado Salto Curucaca, no Estado do Paraná, para uso exclusivo.

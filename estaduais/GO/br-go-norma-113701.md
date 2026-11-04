@@ -16,8 +16,14 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td colspan="8" style=" width:100%;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:100%;    "><b>4250-FUNDO ESTADUAL DO TRABALHO</b></td></tr><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">OFERTA DE VAGAS DE EMPREGO - MAIS EMPREGO</td><td style=" width:12%;    ">11 333 1054 2450</td><td style=" width:12%;    ">27140236</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 10.000,00</td><td style=" width:12%;    ">R$ 32.000,00</td><td style=" width:12%;    ">R$ 42.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**4250-FUNDO ESTADUAL DO TRABALHO**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>OFERTA DE VAGAS DE EMPREGO - MAIS EMPREGO</td><td>11 333 1054 2450</td><td>27140236</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 10.000,00</td><td>R$ 32.000,00</td><td>R$ 42.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">27140236 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE AMPARO AO TRABALHADOR - FAT - CORRENTES - EXERCÍCIOS ANTERIORES</td><td style=" width:50%;  height:19px;   ">R$ 32.000,00</td></tr><tr><td style=" width:50%;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:50%;    ">R$ 32.000,00</td></tr></tbody></table>
+27140236 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE AMPARO AO TRABALHADOR - FAT - CORRENTES - EXERCÍCIOS ANTERIORES
+
+R$ 32.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 32.000,00

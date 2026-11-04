@@ -1,5 +1,3 @@
-###DEC-003645-0-000-30-10-2000@@@
-
 DECRETO Nº 3.645, DE 30 DE OUTUBRO DE 2000.
 
 Altera alíquotas do Imposto sobre Produtos Industrializados - IPI incidente sobre os produtos que menciona.

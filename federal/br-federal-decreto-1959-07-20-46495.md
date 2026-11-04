@@ -1,5 +1,3 @@
-###DEC-046495-0-000-20-07-1959@@@
-
 DECRETO Nº 46.495, DE 20 DE JULHO DE 1959.
 
 Concede à Minérios São Pedro Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-049911-0-000-12-01-1961@@@
-
 Decreto nº 49.911, de 12 de janeiro de 1961.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério do Trabalho, Indústria e Comércio.

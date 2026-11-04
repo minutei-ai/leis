@@ -1,5 +1,3 @@
-###DEL-004580-0-000-13-08-1942@@@
-
 DECRETO-LEI N. 4.580 – DE 13 DE AGOSTO DE 1942
 
 Obriga os estabelecimentos industriais de abatimento de gado para exportação, a atender às requisições de carne que forem feitas pelas prefeituras, para consumo local

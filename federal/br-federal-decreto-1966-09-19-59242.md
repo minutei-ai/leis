@@ -1,5 +1,3 @@
-###DEC-059242-0-000-19-09-1966@@@
-
 decreto nº 59.242, de 19 de setembro de 1966.
 
 Declara públicas, de uso comum, as águas curso dágua que especifica.

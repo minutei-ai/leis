@@ -1,5 +1,3 @@
-###DEC-083057-0-000-18-01-1979@@@
-
 Decreto nº 83.057, de 18 de janeiro de 1979
 
 Promulga o Tratado de Amizade e Cooperação entre o Governo da República Federativa do Brasil e o Governo da República da Venezuela.

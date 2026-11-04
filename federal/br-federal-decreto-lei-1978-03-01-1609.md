@@ -1,5 +1,3 @@
-###DEL-001609-0-000-01-03-1978@@@
-
 # Decreto-lei nº 1.609, de 1º de março de 1978
 
 Altera o artigo 3º da Lei nº 6.441, de 1º de setembro de 1977, que dispõe sobre a abertura de crédito especial para indenização à Companhia Docas da Bahia.

@@ -1,5 +1,3 @@
-###DEC-058616-0-000-14-06-1966@@@
-
 DECRETO Nº 58.616, DE 14 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Antônio Antiqueira a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

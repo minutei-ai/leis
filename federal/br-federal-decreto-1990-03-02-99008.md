@@ -1,7 +1,3 @@
-1
-
-###DEC-099008-0-000-02-03-1990@@@
-
 DECRETO Nº 99.008, DE 2 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Ciências Econômicas das Faculdades Integradas de Uberlândia.

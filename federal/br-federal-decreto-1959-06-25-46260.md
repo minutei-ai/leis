@@ -1,5 +1,3 @@
-###DEC-046260-0-000-25-06-1959@@@
-
 DECRETO Nº 46.260, DE 25 DE JUNHO DE 1959.
 
 Cria, no Conselho do desenvolvimento, Grupo Executivo a fim de estabelecer, propor ou promover normas e meios para a integrada situação do Gôverno e da iniciativa privada no incremento e reestruturação do sistema de ensino técnico-cientifico-profissional, de natureza particular ou de jurisdição governamental.

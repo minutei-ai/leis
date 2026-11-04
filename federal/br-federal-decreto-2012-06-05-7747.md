@@ -1,5 +1,3 @@
-###DEC-007747-0-000-05-06-2012-PUB-01@@@
-
 DECRETO N° 7.747, DE 5 DE JUNHO DE 2012
 
 Institui a Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas - PNGATI, e dá outras providências.

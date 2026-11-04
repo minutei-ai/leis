@@ -1,5 +1,3 @@
-###DEC-057546-0-000-29-12-1965@@@
-
 Decreto nº 57.546, de 29 de dezembro de 1965.
 
 Autoriza a Indústria Sul Americana de Metais S.A. a instalar grupo gerador Diesel, para uso exclusivo.

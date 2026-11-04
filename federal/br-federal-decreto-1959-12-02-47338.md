@@ -1,5 +1,3 @@
-###DEC-047338-0-000-02-12-1959@@@
-
 DECRETO Nº 47.338, DE 02 DE Dezembro DE 1959.
 
 Autoriza a Emprêsa de Mineração Irmãos Dani & Cia. Ltda., a pesquisar granito no município de Barbacena , Estado de Minas Gerais.

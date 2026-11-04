@@ -1,5 +1,3 @@
-###DEC-048793-0-000-12-08-1960@@@
-
 DECRETO Nº 48.793, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza o cidadão brasileiro João Paulo Evangelista a pesquisar mica, no município de Governador Valadares, Estado de Minas Gerais.

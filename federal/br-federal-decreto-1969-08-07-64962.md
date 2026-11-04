@@ -1,5 +1,3 @@
-###DEC-064962-0-000-07-08-1969@@@
-
 DECRETO Nº 64.962 - DE 7 DE AGÔSTO DE 1969.
 
 Prorroga o prazo da concessão outorgada à Cia. de Nickel do Brasil.

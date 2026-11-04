@@ -1,5 +1,3 @@
-###DEC-056620-0-000-29-07-1965@@@
-
 decreto nº 56.620, de 29 de julho de 1965.
 
 Autoriza a Comissão do Vale do São Francisco a aceitar a doação do terreno de propriedade da Prefeitura Municipal de Irecê, no Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-056159-0-000-27-04-1965@@@
-
 Decreto nº 56.159, de 27 de abril de 1965.
 
 Autoriza o cidadão brasileiro Avelino da Silva Oliveira a pesquisar argila e diatomita, no Município de Pôrto Ferreira, Estado de São Paulo.

@@ -4,7 +4,8 @@ Dispõe sobre o Plano de Cargos, Carreira e Remuneração dos Servidores da Fisc
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º Esta Lei institui o Plano de Cargos, Carreira e Remuneração dos Servidores - PCCR e os Cargos de Provimento Efetivo dos servidores da Fiscalização de Trânsito e Transporte do Município de Aparecida de Goiânia.
@@ -37,7 +38,8 @@ XI - Tabela de Vencimentos - é a tabela que estabelece os valores financeiros d
 
 XII - Vencimento - é a retribuição pecuniária pelo exercício de cargo público, com valor fixado nesta Lei.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ESTRUTURA E ATRIBUIÇÕES DOS CARGOS
 
 Art. 3º A Carreira da Fiscalização de Trânsito e Transporte é constituída pelo cargo de Agente de Trânsito e Transporte.
@@ -48,7 +50,8 @@ Art. 4°. O quantitativo de cargos fica definido no Anexo II desta Lei.
 
 Art. 5° Os cargos de provimento efetivo são estruturados em classes e padrões representados na Tabela de Vencimentos dos Cargos Efetivos, constantes do Anexo III desta Lei:
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO INGRESSO E PROVIMENTO
 
 Art. 6º O ingresso nos cargos efetivos de que trata esta Lei dar-se-á mediante concurso público de provas ou de provas e títulos, observados os requisitos dos cargos e aqueles estabelecidos no Edital de Concurso Público.
@@ -59,7 +62,8 @@ Art. 7º. O enquadramento do novo servidor será efetuado no primeiro nível de 
 
 Art. 8º. Os cargos serão providos por nomeação, em caráter efetivo, dos aprovados em concurso público;
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA JORNADA DE TRABALHO
 
 Art. 9º. A duração da jornada de trabalho será de 30 (trinta) horas semanais ou 135 (cento e trinta e cinco) horas mensais.
@@ -110,7 +114,8 @@ Parágrafo único. Nas hipóteses contidas no caput, o servidor poderá utilizar
 
 Art. 14. As horas excedentes contabilizadas no Banco de Horas, em nenhuma hipótese, serão caracterizadas como serviço extraordinário ou convertidas em pecúnia.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO DESENVOLVIMENTO NA CARREIRA
 
 Art. 15.O desenvolvimento funcional do servidor estável na carreira dar-se-á pela Progressão Funcional Horizontal e pela Progressão Funcional Vertical.
@@ -197,7 +202,8 @@ Art. 19. Perderá o direito de concorrer as progressões funcionais o servidor q
 
 § 2º. Para efeito da progressão somente serão aceitas as atividades de treinamento ou desenvolvimento e cursos com duração mínima de 15 (quinze) horas, a fim de totalizar o mínimo de 360 (trezentas e sessenta) horas para a obtenção da promoção.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA COMISSÃO PERMANENTE E DOS RECURSOS
 
 Art. 20. As avaliações dos servidores desta carreira serão procedidas por Comissão Permanente da Secretaria Municipal de Administração e Recursos Humanos do Município, conforme prevista no artigo 17, §3º desta Lei, à qual incumbirá:
@@ -218,7 +224,8 @@ Parágrafo único. O prazo do recurso previsto neste artigo é de 30 (trinta) di
 
 Art. 23. O agente de trânsito e transporte que compuser a Comissão deverá ser substituído quando da análise de requerimento próprio.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA AVALIAÇÃO DE DESEMPENHO
 
 Art.24. A Avaliação de Desempenho realizar-se-á anualmente e se caracterizará pela atribuição de pontos na comparação de fatores previamente estabelecidos em regulamento, e tem por finalidade:
@@ -239,7 +246,8 @@ IV - Informar ao servidor o resultado de seu desempenho;
 
 § 4°. O Sistema de Avaliação de Desempenho deverá prever a avaliação das chefias e do próprio servidor avaliado na forma de auto avaliação.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA ESTRUTURA DE REMUNERAÇÃO
 
 Art. 25. A estrutura de remuneração dos servidores ocupantes de cargos efetivos estabelecidos por esta Lei é composta pelas seguintes parcelas:
@@ -284,7 +292,8 @@ III.Gratificação de Incentivo a Produtividade Fiscal de Trânsito - GIPFT,
 
 IV. Demais vantagens previstas no Estatuto do Servidor Público do Município.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 29. O enquadramento dos atuais servidores nas vagas existentes nas Classes Vencimentais I, II, III e IV deverá ocorrer de forma imediata após a aprovação desta Lei.
@@ -317,7 +326,8 @@ Art.39. Esta lei entra em vigor na data de sua publicação, revogando-se dispos
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, 11 de Abril de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
 ANEXO I
@@ -360,7 +370,8 @@ VII.    Atestar a regularidade de identificação e conformidade veicular às
 
 VIII.    Representar, perante a Autoridade Policial competente, contra infracções criminais estabelecidas na Legislação de trânsito, dentro de sua competência especifica e apresentando-lhes os infratores, quando for o caso; 
 
-IX. Preservar os locais de acidentes com vítimas e com danos ao patrimônio público;<br>
+IX. Preservar os locais de acidentes com vítimas e com danos ao patrimônio público;
+
  Apreender materiais, equipamentos, objetos ou documentos que comprovem a prática de irregularidades ou ilícitos definidos na Legislação de trânsito; 
 
 X.    Orientar a comunidade na interpretação da legislação de trânsito; 
@@ -389,8 +400,24 @@ XXIII    Fiscalizar o transporte de pessoas, cargas e produtos perigosos, rem
 
 XXIV    Fiscalizar, vistoriar e inspecionar veículos, incluindo transporte escolar, taxi, moto táxi, moto frete, Ônibus e transportes coletivos 
 
-ANEXO II <br>
-QUANTITATIVO DE CARGOS EFETIVOS <br>
+ANEXO II 
+
+QUANTITATIVO DE CARGOS EFETIVOS 
+
  
 
-<table class="TableGrid" style="width:645px; border-collapse:collapse" width="645"><tbody><tr><td style=" width:81px;  height:56px;   ">&nbsp;</td><td style=" width:144px;  height:56px;   ">Cargos</td><td style=" width:139px;  height:56px;   ">Código</td><td style=" width:141px;  height:56px;   ">Cargos Existentes</td><td style=" width:140px;  height:56px;   ">Cargos Criados Nesta Lei</td></tr><tr><td style=" width:81px;  height:37px;   ">I.</td><td style=" width:144px;  height:37px;   ">Agente de Trânsito e transporte</td><td style=" width:139px;  height:37px;   ">&nbsp;</td><td style=" width:141px;  height:37px;   ">60</td><td style=" width:140px;  height:37px;   ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0</td></tr></tbody></table>
+Cargos
+
+Código
+
+Cargos Existentes
+
+Cargos Criados Nesta Lei
+
+I.
+
+Agente de Trânsito e transporte
+
+60
+
+0

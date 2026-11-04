@@ -1,5 +1,3 @@
-###DEC-074727-0-000-18-10-1974@@@
-
 DECRETO Nº 74.727, DE 18 DE OUTUBRO DE 1974.
 
 Confisca bens da empresa denominada Companhia Brasileira de Produção e Empreendimento "CIBRAPE" com sede na capital do Estado de São Paulo, para a reparação de danos causados ao patrimônio público, e dá outras providências.

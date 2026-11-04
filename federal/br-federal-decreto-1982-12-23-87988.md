@@ -1,5 +1,3 @@
-###DEC-087988-0-000-23-12-1982@@@
-
 decreto nº 87.988, de 23 de dezembro de 1982
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento (DNOS) uma faixa de terras, sem benfeitorias, nos municípios de São Leopoldo e Novo Hamburgo, no Estado do Rio Grande do Sul, e dá outras providências.

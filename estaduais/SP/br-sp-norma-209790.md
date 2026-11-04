@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209790)<br>
-
 # LEI N° 18.010, DE 31 DE JULHO DE 2024
 
 ## (Projeto de lei n° 956/2023, do Deputado Vitão do Cachorrão - REPUBLICANOS)

@@ -1,7 +1,3 @@
-1
-
-###MPV-001283-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.283, DE 12 DE JANEIRO DE 1996.
 
 Cria a Gratificação de Condição Especial de Trabalho - GCET para os servidores militares federais das Forças Armadas, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008128-0-000-25-10-1945@@@
-
 DECRETO-LEI N. 8.128 – DE 25 DE OUTUBRO DE 1945
 
 Dispõe sôbre a isenção de que cogita. o Decreto-lei nº 7.974, de 20 de setembro de 1945, e da outras providências.

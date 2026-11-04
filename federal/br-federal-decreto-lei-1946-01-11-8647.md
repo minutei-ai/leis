@@ -1,5 +1,3 @@
-###DEL-008647-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.647 – DE 11 DE JANEIRO DE 1946
 
 Dá nova redação ao § 2º do artigo 1º do Decreto-lei nº 3.114, de 13 de março de 1941, que dispõe sôbre a fiscalização de entorpecentes.

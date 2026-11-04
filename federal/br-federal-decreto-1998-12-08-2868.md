@@ -1,5 +1,3 @@
-###DEC-002868-0-000-08-12-1998@@@
-
 DECRETO Nº 2.868, DE 8 DEZEMBRO DE 1998.
 
 Excepciona a aplicação do Decreto nº 2.368, de 10 de novembro de 1997.

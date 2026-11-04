@@ -1,5 +1,3 @@
-###DEC-045906-0-000-28-04-1959@@@
-
 DECRETO N. 45.906 – de 28 DE ABRIL 1959
 
 Autoriza a S.A. Mineração da Trindade a pesquisar calcário no Município de Ouro Preto, Estada de Minas Gerais.

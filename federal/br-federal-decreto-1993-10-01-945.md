@@ -1,7 +1,3 @@
-1
-
-###DEC-000945-0-000-01-10-1993@@@
-
 # DECRETO Nº 945, DE 1º DE OUTUBRO DE 1993
 
 Dispõe sobre a liberação de recursos financeiros para pagamento de pessoal dos órgãos da Administração Pública Federal e dá outras providências.

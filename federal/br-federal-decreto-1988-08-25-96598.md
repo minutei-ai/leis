@@ -1,5 +1,3 @@
-###DEC-096598-0-000-25-08-1988@@@
-
 DECRETO Nº 96.598, DE 25 DE AGOSTO DE 1988
 
 Cria a Escola Agrotécnica Federal “Dom Avelar Brandão Vilela”, em Petrolina, Estado de Pernambuco, e dá outras providências.

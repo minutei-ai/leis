@@ -1,5 +1,3 @@
-###DEC-053103-0-000-10-12-1963@@@
-
 DECRETO Nº 53.103, DE 10 DE DEZEMBRO DE 1963.
 
 Renova o Decreto nº 47.716, de 29 de janeiro de 1960.

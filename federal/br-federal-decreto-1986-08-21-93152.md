@@ -1,5 +1,3 @@
-###DEC-093152-0-000-21-08-1986@@@
-
 DECRETO Nº 93.152, DE 21 DE AGOSTO DE 1986
 
 Dispõe sobre a criação de função de Confiança na Tabela Permanente do Ministério da Justiça e dá outras providências.

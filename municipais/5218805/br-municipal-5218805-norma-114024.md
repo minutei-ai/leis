@@ -16,16 +16,18 @@ Art. 3º Esta Lei Complementar entrará em vigor na data de sua publicação. 
 
 Gabinete do Prefeito de Rio Verde, aos 15 de dezembro de 2025.
 
-WELLINGTON SOARES CARRIJO FILHO<br>
+WELLINGTON SOARES CARRIJO FILHO
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
+VINÍCIUS FONSÊCA CAMPOS
+
 Procurador-Geral
 
-<br>
-ÁLVARO CÉSAR DE SOUZA COSTA<br>
-Secretário de Planejamento e Gestão<br>
+ÁLVARO CÉSAR DE SOUZA COSTA
+
+Secretário de Planejamento e Gestão
+
  
 
 **ANEXO ÚNICO**

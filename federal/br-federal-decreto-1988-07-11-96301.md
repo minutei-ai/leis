@@ -1,5 +1,3 @@
-###DEC-096301-0-000-11-07-1988@@@
-
 DECRETO N° 96.301, DE 11 DE JULHO DE 1988
 
 Outorga concessão à RÁDIO LAGOA DO BURITI DOS LOPES LTDA. para explorar servi­ço de radiodifusão sonora em onda média na Cidade de Buriti dos Lopes, Estado do Piauí.

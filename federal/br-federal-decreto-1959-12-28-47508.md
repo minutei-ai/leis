@@ -1,5 +1,3 @@
-###DEC-047508-0-000-28-12-1959@@@
-
 DECRETO Nº 47.508, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza a cidadã brasileira Maria Celina Lobato a pesquisar areias ilmeníticas nos municípios de Japaratuba e Japoatã, Estado de Sergipe.

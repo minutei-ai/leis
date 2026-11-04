@@ -1,5 +1,3 @@
-###DEC-049058-0-000-05-10-1960@@@
-
 Decreto nº 49.058, de 5 de outubro de 1960.
 
 Concede autorização para o funcionamento de cursos.

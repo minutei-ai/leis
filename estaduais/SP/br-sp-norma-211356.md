@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211356)<br>
-
 # DECRETO N° 69.822, DE 26 DE AGOSTO DE 2025
 
 ### _Autoriza a outorga de uso, à Associação Desportiva e Cultural de Capoeira de Pariquera-Açu, de parte do imóvel que especifica, e dá providências correlatas._

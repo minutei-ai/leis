@@ -1,5 +1,3 @@
-###DEC-079223-0-000-08-02-1977@@@
-
 DECRETO Nº 79.223, DE 8 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Administração, da Faculdade Olindense de Administração, com sede na cidade de Olinda, Estado de Pernambuco.

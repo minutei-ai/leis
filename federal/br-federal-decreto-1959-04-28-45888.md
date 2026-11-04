@@ -1,5 +1,3 @@
-###DEC-045888-0-000-28-04-1959@@@
-
 DECRETO Nº 45.888, DE 28 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Rodolpho Pôrto D' Ave a pesquisar diamante e minério de ouro, no município de Itupiranga Estado do Pará.

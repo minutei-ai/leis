@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 2.950, DE 08 DE ABRIL DE 2011.<br>
+LEI MUNICIPAL Nº 2.950, DE 08 DE ABRIL DE 2011.
+
 (Revogada pela Lei Ordinária nº 3.761, de 11 de dezembro de 2023).
 
 ~~Autoriza doação de imóvel desafetado no loteamento denominado Residencial Maria Luiza, nesta cidade, ao MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS.~~
@@ -9,15 +10,18 @@ LEI MUNICIPAL Nº 2.950, DE 08 DE ABRIL DE 2011.<br>
 
 ~~Parágrafo Único – A doação autorizada por esta lei, tem por objetivo atender a edificação da sede das Promotorias de Justiça de Aparecida de Goiânia.~~
 
-~~Art. 2º A edificação da obra deverá ser iniciada ainda no exercício de 2011 e concluída até o encerramento do exercício de 2013.~~<br>
+~~Art. 2º A edificação da obra deverá ser iniciada ainda no exercício de 2011 e concluída até o encerramento do exercício de 2013.~~
+
 ~~(Revogado pela Lei Ordinária nº 3.379, de 13 de setembro de 2017).~~
 
 ~~Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogando as disposições em contrário.~~
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 08 dias do mês de abril de 2011.~~
 
-~~Luiz Alberto Maguito Vilela<br>
+~~Luiz Alberto Maguito Vilela
+
 Prefeito Municipal~~
 
-~~Eli de Faria<br>
+~~Eli de Faria
+
 Secretário Executivo~~

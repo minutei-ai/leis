@@ -1,5 +1,3 @@
-###DEC-075514-0-000-19-03-1975@@@
-
 DECRETO Nº 75.514, DE 19 DE MARÇO DE 1975.
 
 Concede reconhecimento aos cursos de Letras, de Matemática, de Ciências Sociais, de Pedagogia e de Estudos Sociais da Faculdade de Filosofia de Itaperuna, mantida pela Fundação Educacional e Cultural São José, com sede na cidade de Itaperuna, Estado do Rio de Janeiro

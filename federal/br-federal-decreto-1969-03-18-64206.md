@@ -1,5 +1,3 @@
-###DEC-064206-0-000-18-03-1969@@@
-
 DECRETO Nº 64.206, DE 18 DE MARÇO DE 1969.
 
 Declara de utilidade pública a Fundação Nhá Chica, com sede em Baependi, Estado de Minas Gerais.

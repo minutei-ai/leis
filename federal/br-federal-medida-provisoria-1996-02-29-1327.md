@@ -1,7 +1,3 @@
-1
-
-###MPV-001327-0-000-29-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.327, DE 29 DE FEVEREIRO DE 1996.
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

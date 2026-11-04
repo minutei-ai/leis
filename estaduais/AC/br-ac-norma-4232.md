@@ -1,6 +1,10 @@
 > **LEI Nº 3.709, DE 07 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de Utilidade Pública a Escolinha de Futebol, Esporte Saúde e Lazer – EFESL.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de Utilidade Pública a Escolinha de Futebol, Esporte Saúde e Lazer – EFESL.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

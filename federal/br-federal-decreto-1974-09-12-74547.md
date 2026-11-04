@@ -1,5 +1,3 @@
-###DEC-074547-0-000-12-09-1974@@@
-
 Decreto nº 74.547, de 12 de setembro de 1974.
 
 Torna sem efeito disponibilidade de servidor do Departamento Nacional de Obras de Saneamento.

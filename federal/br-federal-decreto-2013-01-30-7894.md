@@ -1,5 +1,3 @@
-###DEC-007894-0-000-30-01-2013-PUB-01@@@
-
 DECRETO Nº\- 7.894, DE 30 DE JANEIRO DE 2013
 
 Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

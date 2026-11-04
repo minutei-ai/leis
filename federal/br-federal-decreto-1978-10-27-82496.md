@@ -1,5 +1,3 @@
-###DEC-082496-0-000-27-10-1978@@@
-
 Decreto nº 82 496, de 27 de outubro de 1978.
 
 Estabelece área de proteção para a fonte de água termal.

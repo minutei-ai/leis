@@ -1,26 +1,24 @@
-###DEC-035925-0-000-29-07-1954@@@
+**DECRETO Nº 35.925, DE 29 DE JULHO DE 1954.**
 
-<strong>DECRETO Nº 35.925, DE 29 DE JULHO DE 1954.</strong>
+***Aprova as “Regras para visitas de navios de guerra estrangeiros aos portos e águas do Brasil em tempo de paz”.***
 
-<em><strong>Aprova as “Regras para visitas de navios de guerra estrangeiros aos portos e águas do Brasil em tempo de paz”.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovados as “Regras para visitas de navios de guerra estrangeiros aos portos e águas do Brasil em tempo de paz” que com êste baixam, assinadas pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Ficam aprovados as “Regras para visitas de navios de guerra estrangeiros aos portos e águas do Brasil em tempo de paz” que com êste baixam, assinadas pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 29 de julho de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel
 
 Vicente Ráo
 
-<strong>REGRAS PARA VISITAS DE NAVIOS DE GUERRA ESTRANGEIROS AOS PORTOS E ÁGUAS TERRITORIAIS DO BRASIL EM TEMPO DE PAZ.</strong>
+**REGRAS PARA VISITAS DE NAVIOS DE GUERRA ESTRANGEIROS AOS PORTOS E ÁGUAS TERRITORIAIS DO BRASIL EM TEMPO DE PAZ.**
 
 Classificação das visitas:
 
@@ -152,7 +150,7 @@ Navios beligerantes:
 
 Rio de Janeiro, em 29 de julho de 1954.
 
-<strong>RENATO DE ALMEIDA GUILLOBEL</strong>
+**RENATO DE ALMEIDA GUILLOBEL**
 
 Almirante de Esquadra Grad
 

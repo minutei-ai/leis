@@ -1,5 +1,3 @@
-###DEC-064614-0-000-30-05-1969@@@
-
 DECRETO Nº 64.614, DE 30 DE MAIO DE 1969.
 
 Declara caduco o Decreto nº 24.709, de 29 de março de 1948.

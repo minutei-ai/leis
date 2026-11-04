@@ -1,5 +1,3 @@
-###DEL-003461-0-000-25-07-1941@@@
-
 DECRETO-LEI N. 3.461 – DE 25 DE JULHO DE 1941
 
 Dispõe sobre a execução das leis e regulamento fiscais e dá outras providências

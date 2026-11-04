@@ -34,48 +34,62 @@ GERALDO JÚLIO DE MELLO FILHO
 
 FRANCISCO TADEU BARBOSA DE ALENCAR
 
-<br>
-
 **ANEXO ÚNICO**
 
 (Redação alterada pelo art. 3º e Anexo II da [Lei Complementar nº 322, de 3 de março de 2016.)](https://legis.alepe.pe.gov.br/?lc3222016)
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td width="152" style="width:113.65pt;border-top:inset;border-left:inset;
-  border-bottom:solid;border-right:solid;border-color:black;border-width:1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">POSTO / GRADUAÇÃO</span></p></td><td width="145" style="width:108.7pt;border-top:inset black 1.0pt;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">QUANTITATIVO</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Coronel</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">7 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">&nbsp;</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-left:.75pt"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Tenente coronel</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">9</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">&nbsp;</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-left:.75pt"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">&nbsp;</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Major</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">19 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Capitão</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">27 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1º tenente</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">5</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">2º tenente</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">5</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Subtenente</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">11</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1º sargento</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">28 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">2º sargento</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">24 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">3º sargento</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">11 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Cabo</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">33 (NR)</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Soldado</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">161</span></p></td></tr><tr><td width="152" style="width:113.65pt;border-top:none;border-left:inset black 1.0pt;
-  border-bottom:inset black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Total</span></p></td><td width="145" style="width:108.7pt;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-left:.75pt;text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">340 (NR)</span></p></td></tr></tbody></table>
+POSTO / GRADUAÇÃO
+
+QUANTITATIVO
+
+Coronel
+
+7 (NR)
+
+Tenente coronel
+
+9
+
+Major
+
+19 (NR)
+
+Capitão
+
+27 (NR)
+
+1º tenente
+
+5
+
+2º tenente
+
+5
+
+Subtenente
+
+11
+
+1º sargento
+
+28 (NR)
+
+2º sargento
+
+24 (NR)
+
+3º sargento
+
+11 (NR)
+
+Cabo
+
+33 (NR)
+
+Soldado
+
+161
+
+Total
+
+340 (NR)

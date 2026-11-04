@@ -1,5 +1,3 @@
-###DEC-088391-0-000-14-06-1983@@@
-
 Decreto nº 88.391, de 14 de junho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área do terreno situada no Município de Peruíbe, Estado de São Paulo, destinada à instalação de Central Telefônica, a cargo da Telecomunicações de São Paulo S.A. - TELESP.

@@ -1,20 +1,18 @@
-###DEC-025175-A-000-03-07-1948@@@
+**DECRETO Nº 25.175-A, DE 3 DE JULHO DE 1948.**
 
-<strong>DECRETO Nº 25.175-A, DE 3 DE JULHO DE 1948.</strong>
+***Altera disposições do Regulamento aprovado pelo Decreto nº 1.749, de 28 de junho de 1937, sôbre a aquisição de prédios destinados a moradia dos associados e a sede dos Instituto e Caixas de Aposentadoria e Pensões.***
 
-<em><strong>Altera disposições do Regulamento aprovado pelo Decreto nº 1.749, de 28 de junho de 1937, sôbre a aquisição de prédios destinados a moradia dos associados e a sede dos Instituto e Caixas de Aposentadoria e Pensões.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuições que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuições que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Os artigos 1º, 2º, 4º, § 2º, 5º, 6º, 7º, 11º, 13º, 14º § 9º, 21 e 22 do Regulamento aprovado pelo Decreto nº1.749, de 28 de junho de 1937, passam a vigorar com a redação seguinte:
 
-<strong>Art</strong>. 1º Os artigos 1º, 2º, 4º, § 2º, 5º, 6º, 7º, 11º, 13º, 14º § 9º, 21 e 22 do Regulamento aprovado pelo Decreto nº1.749, de 28 de junho de 1937, passam a vigorar com a redação seguinte:
-
-<strong>Art</strong>. 2º Os Institutos e Caixas de Aposentadoria e Pensões, cujo ativo realizado seja superior a Cr$500.000,00 (quinhentos mil cruzeiros), empregarão até 50% (cinqüenta por cento), dêsse ativo no financiamento, pro intermédio de suas carteiras imobiliárias, na aquisição, construção, reforma ou liberação de casas ou apartamentos para moradia dos associados, bem como na aquisição ou construção de edifícios para a instalação de sua rede ou serviços.
+**Art**. 2º Os Institutos e Caixas de Aposentadoria e Pensões, cujo ativo realizado seja superior a Cr$500.000,00 (quinhentos mil cruzeiros), empregarão até 50% (cinqüenta por cento), dêsse ativo no financiamento, pro intermédio de suas carteiras imobiliárias, na aquisição, construção, reforma ou liberação de casas ou apartamentos para moradia dos associados, bem como na aquisição ou construção de edifícios para a instalação de sua rede ou serviços.
 
 Parágrafo único. Onde fôr conveniente, poderão ser instaladas carteiras imobiliárias regionais, abrangendo tôdas ou algumas das instituições, em determinada base territorial.
 
-<strong>Art</strong>. 3º A dívida, ou responsabilidade, que o associado contrair pro efeito de financiamento compreenderá, conforme o caso custo total das obras e o do terreno, se êste não lhe pertencer, as despesas de seguros, impostos e taxas, bem como as quotas de fiscalização e administração que forem estabelecidas.
+**Art**. 3º A dívida, ou responsabilidade, que o associado contrair pro efeito de financiamento compreenderá, conforme o caso custo total das obras e o do terreno, se êste não lhe pertencer, as despesas de seguros, impostos e taxas, bem como as quotas de fiscalização e administração que forem estabelecidas.
 
 § 1º O pagamento da dívida de que trata esse artigo será feito em mensalidades constituídas da prestação de juros e amortização, conforme o plano que para esta for estabelecido; da duodécima parte dos impostos e taxas anuais; e, nos casos exigidos, dos prêmios de seguro contra fogo e de vida, nas modalidades que forem adotadas, além das quotas mensais de fiscalização e administração.
 
@@ -32,7 +30,7 @@ Parágrafo único. Onde fôr conveniente, poderão ser instaladas carteiras imob
 
 § 8º Trantando-se de terreno adquirido por iniciativa da instituição e datando a compra de mais de três anos antes de celebrar-se o contrato com o associado, proceder-se-á à determinação do valor atual, para o que dever-se-á levar em conta a capitalização dos juros sôbre o custo originário e ainda a valorização razoavelmente verificada.
 
-<strong>Art</strong>. 4º......................................................................................................................................
+**Art**. 4º......................................................................................................................................
 
 § 2º Como filhos a cargo do associado, para os efeitos dêste regulamento compreendem-se:
 
@@ -40,7 +38,7 @@ I - os filhos até 18 anos;
 
 II - os filhos maiores de 18 anos, se incapazes de prover a própria subsistência, ou em freqüência de estudos.
 
-<strong>Art</strong>. 5º O financiamento de que êste regulamento cogita obedecerá a três planos distintos:
+**Art**. 5º O financiamento de que êste regulamento cogita obedecerá a três planos distintos:
 
 I - Plano A - Iniciativa da instituição, para venda ou locação aos associados: - compra de terreno e construção de casas ou de edifícios de apartamentos; compra de edifícios de apartamentos ou de casas já construídas; ou, de acôrdo com as instruções especiais que forem expedidas, compra de terrenos para a venda imediata de lotes aos associados, ficando a cargo dêstes a construção das respectivas casas.
 
@@ -50,9 +48,9 @@ III - Plano C - Empréstimo hipotecário a associado, até o limite de 80% do va
 
 Parágrafo único. A aquisição de casas ou apartamentos já construídos só se permitirá mediante contrato pro prazo compatível com o estado de conservação, ou o tempo de construção, a juízo do perito avaliador, até o máximo de 20 anos.”
 
-<strong>Art</strong>. 6º Cada associado poderá adquirir apenas um único imóvel pelo plano A ou B, e aquêle que já houver adquirido ou esteja adquirindo, ou seja propriétario, ou promitente comprador, de qualquer imóvel, na localidade em que trabalhar não será admitido a fazer outra operação, a não ser pelo Plano C (item III do art. 5º), no qual os juro serão sempre superiores em 2% aos estipulados no § 2º do art. 2º
+**Art**. 6º Cada associado poderá adquirir apenas um único imóvel pelo plano A ou B, e aquêle que já houver adquirido ou esteja adquirindo, ou seja propriétario, ou promitente comprador, de qualquer imóvel, na localidade em que trabalhar não será admitido a fazer outra operação, a não ser pelo Plano C (item III do art. 5º), no qual os juro serão sempre superiores em 2% aos estipulados no § 2º do art. 2º
 
-<strong>Art</strong>. 7º Ficam dependendo de prévia autroização (art. 2º item XI, do Decreto-lei nº 8.742, de 19-1-46), conforme o número de associados com que contar a instituição em causa:
+**Art**. 7º Ficam dependendo de prévia autroização (art. 2º item XI, do Decreto-lei nº 8.742, de 19-1-46), conforme o número de associados com que contar a instituição em causa:
 
 I - até 20.000 associados - as operações de compra ou construção de prédios cujo valor exceder de Cr$900.000,00 ou de Cr$300.000,00, quando o caso for apenas de compra de terreno;
 
@@ -86,10 +84,10 @@ Art. 13º As construção de iniciativa da instituição far-se-ão por meio de 
 
 “Art. 22. Os casos omissos neste Regulamento serão resolvidos pelo Ministro do Trabalho, Indústria e Comércio, cabendo ao Departamento Nacional da Previdência Social expedir as instruções que se fizerem necessárias para a sua fiel execução.”
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Recife, em 3 de julho de 1948, 127º da Independência e 60º da República.
 
-<strong>MORVAN DE FIGUEIREDO</strong>
+**MORVAN DE FIGUEIREDO**
 
 Eurico G. Dutra

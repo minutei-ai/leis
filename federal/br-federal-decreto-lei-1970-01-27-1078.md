@@ -1,7 +1,3 @@
-1
-
-###DEL-001078-0-000-27-01-1970@@@
-
 # DECRETO-LEI Nº 1.078, DE 27 DE JANEIRO DE 1970
 
 Revoga a letra a do artigo 85 do Decreto-lei nº 1.029, de 21 de outubro de 1969 (Estatuto dos Militares).

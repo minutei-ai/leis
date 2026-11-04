@@ -1,5 +1,3 @@
-###DEL-005613-0-000-24-06-1943@@@
-
 DECRETO–LEI N. 5.613 – DE 24 DE JUNHO DE 1943
 
 Abre, pelo Ministério da Agricultura, o crédito suplementar de Cr$ 20.000,00 à verba que especifica

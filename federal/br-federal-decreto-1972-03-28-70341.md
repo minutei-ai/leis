@@ -1,5 +1,3 @@
-###DEC-070341-0-000-28-03-1972@@@
-
 DECRETO Nº 70.341, DE 28 DE MARÇO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão no município de Conceição da Barra, no Estado do Espírito Santo.

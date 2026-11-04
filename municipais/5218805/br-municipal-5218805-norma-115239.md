@@ -1,4 +1,5 @@
-LEI N° 7.426, DE O2 DE OUTUBRO DE 2023.<br>
+LEI N° 7.426, DE O2 DE OUTUBRO DE 2023.
+
       
 
 Dispõe sobre a instalação de guarda-volumes em estabelecimentos bancários equipados com porta detectora de metal, situados no Município de Rio Verde - GO, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-002133-0-000-26-06-1984@@@
-
 # Decreto-lei nº 2.133, de 26 de junho de 1984
 
 Dispõe sobre a tributação, pelo imposto de renda, de rendimento e ganho de capital produzidos por debêntures escriturais e nominativas não endossáveis, e dá outras providências.

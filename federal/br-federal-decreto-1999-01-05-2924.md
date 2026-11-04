@@ -1,5 +1,3 @@
-###DEC-002924-0-000-05-01-1999@@@
-
 DECRETO Nº 2.924, DE 5 DE JANEIRO DE 1999.
 
 Disciplina os procedimentos pertinentes aos depósitos judiciais e extrajudiciais, de que trata a Lei nº 9.703, de 17 de novembro de 1998, referentes a contribuições sociais e outras importâncias arrecadadas pelo Instituto Nacional do Seguro Social – INSS.

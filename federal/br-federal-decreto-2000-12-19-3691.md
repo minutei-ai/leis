@@ -1,5 +1,3 @@
-###DEC-003691-0-000-19-12-2000@@@.
-
 DECRETO Nº 3.691, DE 19 DE DEZEMBRO DE 2000.
 
 Regulamenta a Lei nº 8.899, de 29 de junho de 1994, que dispõe sobre o transporte de pessoas portadoras de deficiência no sistema de transporte coletivo interestadual.

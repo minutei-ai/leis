@@ -1,5 +1,3 @@
-###DEL-009874-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.874 – DE 16 DE SETEMBRO DE 1946
 
 Concede isenção de direitos de importação para consumo e taxa de expediente ao combustível, óleo e acessórios importados por “The Leopoldina Railway Company, Limited”.

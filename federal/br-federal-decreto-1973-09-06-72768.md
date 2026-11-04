@@ -1,5 +1,3 @@
-###DEC-072768-0-000-06-09-1973@@@
-
 DECRETO Nº 72.768, DE 6 DE SETEMBRO DE 1973.
 
 Concede à Pedra Bela de Sacramento Limitada o direito de lavrar serpentinito no Município de Sacramento, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-066666-0-000-08-06-1970@@@
-
 DECRETO Nº 66.666, DE 8 DE JUNHO DE 1970.
 
 Declara de utilidade pública a Escola Doméstica de Nossa Senhora do Amparo, com sede em Petrópolis, Estado do Rio de Janeiro.

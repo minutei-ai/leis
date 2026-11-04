@@ -1,5 +1,3 @@
-###DEC-079130-0-000-17-01-1977@@@
-
 DECREto n.º 79.130, de 17 de janeiro de 1977.
 
 Autoriza o funcionamento da Faculdade de Formação de Professores de Jequié, com sede na cidade de Jequié, Estado da Bahia.

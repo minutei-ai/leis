@@ -1,5 +1,3 @@
-###DEC-094148-0-000-26-03-1987@@@
-
 DECRETO Nº 94.148, DE 26 DE MARÇO DE 1987.
 
 Altera o Decreto nº 89.874, de 28 de junho de 1984, que regulamenta o Registro Nacional dos Transportadores Rodoviários de Bens (RTB), e dá outras providências.

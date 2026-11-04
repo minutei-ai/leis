@@ -1,5 +1,3 @@
-###DEC-082671-0-000-20-11-1978@@@
-
 Decreto nº 82.671, de 20 de novembro de 1978.
 
 Autoriza a cessão sob o regime de aforamento, do terreno que menciona, situado no Município de Olinda, Estado de Pernambuco.

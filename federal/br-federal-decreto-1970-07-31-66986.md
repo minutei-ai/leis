@@ -1,5 +1,3 @@
-###DEC-066986-0-000-31-07-1970@@@
-
 Decreto nº 66.986, de 31 de julho de 1970.
 
 Autoriza funcionamento da Faculdade Municipal de Engenharia Química de Lorena, Estado de São Paulo.

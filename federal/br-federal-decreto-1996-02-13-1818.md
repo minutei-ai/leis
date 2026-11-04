@@ -1,5 +1,3 @@
-###DEC-001818-0-000-13-02-1996@@@
-
 DECRETO Nº 1.818, DE 13 DE FEVEREIRO DE 1996.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de aproveitamentos hidrelétricos.

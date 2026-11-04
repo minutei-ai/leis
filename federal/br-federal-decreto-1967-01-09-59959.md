@@ -1,5 +1,3 @@
-###DEC-059959-0-000-09-01-1967@@@
-
 DECRETO Nº 59.959, DE 9 DE JANEIRO DE 1967.
 
 Declara sem efeito o decreto número 54.828, de 3 de novembro de 1964.

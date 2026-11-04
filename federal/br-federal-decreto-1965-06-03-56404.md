@@ -1,5 +1,3 @@
-###DEC-056404-0-000-03-06-1965@@@
-
 DECRETO Nº 56.404, DE 3 DE JUNHO DE 1965.
 
 Concede à Violani & Cia. Ltda, autorização para funcionar como emprêsa de mineração.

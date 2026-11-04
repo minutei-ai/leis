@@ -1,7 +1,3 @@
-1
-
-###DEC-000818-0-000-07-05-1993@@@
-
 DECRETO N° 818, DE 7 DE MAIO DE 1993
 
 Dá nova redação a dispositivos do Decreto n° 88.513, de 13 de julho de 1983, que dispõe sobre o Regulamento de Continências, Honras, Sinais de Respeito e Cerimonial Militar das Forças Armadas.

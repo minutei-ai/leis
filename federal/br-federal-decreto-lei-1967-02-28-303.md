@@ -1,5 +1,3 @@
-###DEL-000303-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 303, DE 23 DE FEVEREIRO DE 1967
 
 Cria o Conselho Nacional de Contrôle da Poluição Ambiental e dá outras providências.

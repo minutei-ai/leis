@@ -1,5 +1,3 @@
-###DEC-003865-0-000-13-07-2001@@@
-
 DECRETO Nº 3.865, DE 13 DE JULHO DE 2001
 
 Estabelece requisito para contratação de serviços de certificação digital pelos órgãos públicos federais, e dá outras providências.

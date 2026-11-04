@@ -1,5 +1,3 @@
-###DEC-082859-0-000-18-12-1978@@@
-
 DECRETO Nº 82 859, DE 18 DE DEZEMBRO DE 1978
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-089898-0-000-03-07-1984@@@
-
 decreto nº 89.898, de 3 de julho de 1984
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Corumbá, no Estado de Mato Grosso do Sul.

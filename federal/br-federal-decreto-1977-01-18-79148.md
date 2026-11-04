@@ -1,5 +1,3 @@
-###DEC-079148-0-000-18-01-1977@@@
-
 DEcreto nº 79.148, de 18 de janeiro de 1977.
 
 Dispõe sobre medidas especiais de racionalização do consumo de derivados do petróleo e dá outras providências.

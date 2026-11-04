@@ -1,5 +1,3 @@
-###DEC-046798-0-000-08-09-1959@@@
-
 DECRETO Nº 46.798, de 8 de setembro de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terreno que menciona, situado no Setor Universitário da Capital do Estado de Goiás.

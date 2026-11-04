@@ -1,5 +1,3 @@
-###DEC-096215-0-000-23-06-1988@@@
-
 DECRETO N° 96.215, DE 23 DE JUNHO DE 1988
 
 Outorga concessão ao CANAL E TRANSMISSÕES INTERTV LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Nova Friburgo, Estado do Rio de Janeiro.

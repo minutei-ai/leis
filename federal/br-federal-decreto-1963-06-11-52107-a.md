@@ -1,5 +1,3 @@
-###DEC-052107-A-000-11-06-1963@@@
-
 DECRETO Nº 52.107-A, DE 11 DE JUNHO DE 1963.
 
 Restabelece a promoção de ano com dependência na Escola Naval.

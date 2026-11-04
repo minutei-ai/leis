@@ -1,5 +1,3 @@
-###DEL-002975-0-000-23-01-1941@@@
-
 DECRETO-LEI N. 2.975 – DE 23 DE JANEIRO DE 1941
 
 Prorroga os prazos estabelecidos nos arts. 38 e 48 do decreto-lei nº 1.212, de 17 de abril de 1939.

@@ -1,5 +1,3 @@
-###DEC-006632-0-000-05-11-2008@@@
-
 DECRETO Nº 6.632, DE 5 DE NOVEMBRO DE 2008.
 
 Altera e acresce dispositivos ao Regulamento do Serviço Social do Comércio - SESC, aprovado pelo Decreto no 61.836, de 5 de dezembro de 1967.

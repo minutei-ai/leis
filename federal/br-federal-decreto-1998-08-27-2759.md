@@ -1,5 +1,3 @@
-###DEC-002759-0-000-27-08-1998@@@
-
 DECRETO Nº 2.759, DE 27 DE AGOSTO DE 1998
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo de Complementação Econômica nº 25, entre o Brasil e o Peru, de 24 de junho de 1998.
@@ -42,4 +40,10 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 Em fé do que, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos vinte e quatro dias do mês de junho de mil novecentos e noventa e oito, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Peru:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Júlio Balbuena López-Alfaro</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil:
+
+José Artur Denot Medeiros
+
+Pelo Governo da República do Peru:
+
+Júlio Balbuena López-Alfaro

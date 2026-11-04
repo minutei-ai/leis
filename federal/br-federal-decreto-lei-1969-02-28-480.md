@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3f7bc455-c371-4759-842a-0a7e66b9eb07/texto#nowhere)
 
-###DEL-000480-0-000-28-02-1969@@@
-
 DECRETO-LEI Nº 480, DE 28 DE FEVEREIRO DE 1969
 
 Dispõe sôbre a isenção do impôsto incidente na importação de bens destinados à emissoras de televisão e de rádio e revoga a Lei número 5.560, de 12 de dezembro de 1968.

@@ -1,5 +1,3 @@
-###DEC-072817-0-000-21-09-1973@@@
-
 Decreto nº 72.817, de 21 de setembro de 1973.
 
 Concede reconhecimento à Faculdade de Direito da Alta Paulista, mantida pela Instituição "Dom Bosco" de Ensino e Cultura, com sede na cidade de Tupã, Estado de São Paulo.

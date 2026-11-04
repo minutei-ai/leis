@@ -1,5 +1,3 @@
-###DEC-000159-0-000-02-07-1991@@@
-
 DECRETO Nº 159, DE 2 DE JULHO DE 1991
 
 Promulga o Acordo de Cooperação Cultural, entre o Governo da Republica Federativa do Brasil e o Governo da República Popular de Moçambique.

@@ -1,5 +1,3 @@
-###DEL-005954-0-000-01-11-1943@@@
-
 DECRETO‑LEI N. 5.954 – DE 1 DE NOVEMBRO DE 1943
 
 Cria cargo de Ajudante de Tesoureiro no Quadro Permanente do Ministério da justiça e Negócios Interiores, e dá outras providências

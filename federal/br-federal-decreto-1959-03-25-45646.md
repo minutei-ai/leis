@@ -1,5 +1,3 @@
-###DEC-045646-0-000-25-03-1959@@@
-
 decreto nº 45.646, de 25 de março de 1959.
 
 Transfere da Companhia Salícola Fluminense S.A. para o Govêrno do Estado do Rio de Janeiro a concessão para a produção e fornecimento de energia elétrica em todo o município de Araruama, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-002318-0-000-30-12-1986@@@
-
 # DECRETO-LEI Nº 2.318, DE 30 DE DEZEMBRO DE 1986
 
 Dispõe sobre fontes de custeio da Previdência Social e sobre a admissão de menores nas empresas.

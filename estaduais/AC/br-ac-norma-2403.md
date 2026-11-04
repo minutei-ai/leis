@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.296, de 01 de Novembro de 2017.](https://legis.ac.gov
 
 > **LEI Nº 3.226, DE 15 DE MARÇO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Transforma em analista da Procuradoria Geral do Estado - PGE os cargos vagos de provimento efetivo de advogado, advogado autárquico, procurador autárquico e procurador jurídico atualmente existentes nos quadros da administração indireta do Poder Executivo e cria Quadro Especial em Extinção - QEE de assistentes jurídicos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Transforma em analista da Procuradoria Geral do Estado - PGE os cargos vagos de provimento efetivo de advogado, advogado autárquico, procurador autárquico e procurador jurídico atualmente existentes nos quadros da administração indireta do Poder Executivo e cria Quadro Especial em Extinção - QEE de assistentes jurídicos.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -26,11 +30,7 @@ Modificada pela Lei nº [3.296, de 01 de Novembro de 2017.](https://legis.ac.gov
 
 **§ 2º** Na data de publicação desta lei, os servidores pertencentes ao QEE serão enquadrados em uma das classes constantes do Anexo II desta lei, observado o disposto no art. 27 da Lei Complementar n. 275, de 2014.
 
-<br>
-
 **§ 3º** No enquadramento de que trata o § 2º deste artigo, o período de investidura em cargo em comissão ou função de confiança no âmbito da administração pública estadual direta ou indireta, após a admissão no cargo efetivo, será considerado como de efetivo exercício no cargo de origem, nos termos do Anexo II desta Lei. (Incluído pela Lei nº 3.296, de 01/11/2017)
-
-<br>
 
 **§ 4º** Aos servidores do QEE aplica-se o regramento do art. 24, § 1º e § 2º da Lei Complementar nº 275, de 9 de Janeiro de 2014. (Incluído pela Lei nº 3.296, de 01/11/2017) 
 
@@ -204,26 +204,16 @@ Rio Branco – Acre, 15 de março de 2017, 129º da República, 115º do Tratado
 
 Governador do Estado do Acre
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 **ANEXO I**
 Tabelas de Vencimentos
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong><span>&nbsp;</span></strong></p><p><strong><span>Classe</span></strong></p></td><td colspan="3" valign="top"><p><strong><span>Referência</span></strong></p></td></tr><tr><td><p><strong><span>&nbsp;</span></strong></p></td><td><p><strong><span>1</span></strong></p></td><td><p><strong><span>2</span></strong></p></td><td><p><strong><span>3</span></strong></p></td></tr><tr><td><p><span>Classe Especial</span></p></td><td><p><span>R$ 6.166,92</span></p></td><td><p><span>R$ 6.475,26</span></p></td><td><p><span>R$ 6.783,60</span></p></td></tr><tr><td><p><span>Classe IV</span></p></td><td><p><span>R$ 5.396,05</span></p></td><td><p><span>R$ 5.665,85</span></p></td><td><p><span>R$ 5.935,66</span></p></td></tr><tr><td><p><span>Classe III</span></p></td><td><p><span>R$ 4.625,20</span></p></td><td><p><span>R$ 4.856,45</span></p></td><td><p><span>R$ 5.087,72</span></p></td></tr><tr><td><p><span>Classe II</span></p></td><td><p><span>R$ 3.854,33</span></p></td><td><p><span>R$ 4.047,03</span></p></td><td><p><span>R$ 4.239,74</span></p></td></tr><tr><td><p><span>Classe I</span></p></td><td><p><span>R$ 3.083,46</span></p></td><td><p><span>R$ 3.237,65</span></p></td><td><p><span>R$ 3.391,80</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **&nbsp;Classe** </td><td colspan="3" valign="top"> **Referência** </td></tr><tr><td> **&nbsp;** </td><td> **1** </td><td> **2** </td><td> **3** </td></tr><tr><td> Classe Especial </td><td> R$ 6.166,92 </td><td> R$ 6.475,26 </td><td> R$ 6.783,60 </td></tr><tr><td> Classe IV </td><td> R$ 5.396,05 </td><td> R$ 5.665,85 </td><td> R$ 5.935,66 </td></tr><tr><td> Classe III </td><td> R$ 4.625,20 </td><td> R$ 4.856,45 </td><td> R$ 5.087,72 </td></tr><tr><td> Classe II </td><td> R$ 3.854,33 </td><td> R$ 4.047,03 </td><td> R$ 4.239,74 </td></tr><tr><td> Classe I </td><td> R$ 3.083,46 </td><td> R$ 3.237,65 </td><td> R$ 3.391,80 </td></tr></tbody></table>
 
 **ANEXO II**
 Enquadramento dos servidores
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><strong><span>TEMPO DE EFETIVO EXERCÍCIO NO CARGO DE ORIGEM</span></strong></p></td><td colspan="2"><p><strong><span>ENQUADRAMENTO NA NOVA TABELA</span></strong></p></td></tr><tr><td><p><span>&nbsp;</span></p></td><td><p><strong><span>CLASSE</span></strong></p></td><td><p><strong><span>REFERÊNCIA</span></strong></p></td></tr><tr><td><p><span>1 a 36 meses</span></p></td><td><p><span>I</span></p></td><td><p><span>1</span></p></td></tr><tr><td><p><span>37 a 72 meses</span></p></td><td><p><span>II</span></p></td><td><p><span>1</span></p></td></tr><tr><td><p><span>73 a 108 meses</span></p></td><td><p><span>III</span></p></td><td><p><span>1</span></p></td></tr><tr><td><p><span>109 a 144 meses</span></p></td><td><p><span>IV</span></p></td><td><p><span>1</span></p></td></tr><tr><td><p><span>145 a 180 meses</span></p></td><td><p><span>Especial</span></p></td><td><p><span>1</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **TEMPO DE EFETIVO EXERCÍCIO NO CARGO DE ORIGEM** </td><td colspan="2"> **ENQUADRAMENTO NA NOVA TABELA** </td></tr><tr><td> &nbsp; </td><td> **CLASSE** </td><td> **REFERÊNCIA** </td></tr><tr><td> 1 a 36 meses </td><td> I </td><td> 1 </td></tr><tr><td> 37 a 72 meses </td><td> II </td><td> 1 </td></tr><tr><td> 73 a 108 meses </td><td> III </td><td> 1 </td></tr><tr><td> 109 a 144 meses </td><td> IV </td><td> 1 </td></tr><tr><td> 145 a 180 meses </td><td> Especial </td><td> 1 </td></tr></tbody></table>
 
 **ANEXO III**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"><p><strong><span>TITULAÇÃO</span></strong></p></td></tr><tr><td><p><strong><span>CARGO E PERCENTUAL MÁXIMO</span></strong></p></td><td><p><strong><span>ESCOLARIDADE</span></strong></p></td></tr><tr><td><p><span>&nbsp;</span></p><p><span>Assistente Jurídico</span></p><p><span>Máximo 20%</span></p></td><td><p><span>Pós-Graduação <em>Lato Sensu =&nbsp;</em>7,5%</span></p><p><span>Mestrado = 15%</span></p><p><span>Doutorado = 20%</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"> **TITULAÇÃO** </td></tr><tr><td> **CARGO E PERCENTUAL MÁXIMO** </td><td> **ESCOLARIDADE** </td></tr><tr><td> &nbsp; Assistente Jurídico Máximo 20% </td><td> Pós-Graduação *Lato Sensu =&nbsp;*7,5% Mestrado = 15% Doutorado = 20% </td></tr></tbody></table>

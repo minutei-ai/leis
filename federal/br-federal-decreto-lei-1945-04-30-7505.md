@@ -1,5 +1,3 @@
-###DEL-007505-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.505 – DE 30 DE ABRIL DE 1945
 
 lntroduz alterações ao Quadro Permanente do Ministério da Fazenda e dá outras providências

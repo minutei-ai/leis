@@ -1,7 +1,3 @@
-1
-
-###DEC-000658-0-000-24-09-1992@@@
-
 DECRETO N° 658, DE 24 DE SETEMBRO DE 1992
 
 Dispõe sobre a execução da Ata de Retificação do Acordo de Complementação Econômica n° 14, entre Brasil e Argentina.

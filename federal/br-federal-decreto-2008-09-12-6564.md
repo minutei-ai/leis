@@ -1,5 +1,3 @@
-###DEC-006564-0-000-12-09-2008@@@
-
 DECRETO Nº 6.564, DE 12 DE SETEMBRO DE 2008.
 
 Altera o Regulamento do Benefício de Prestação Continuada, aprovado pelo Decreto no 6.214, de 26 de setembro de 2007, e dá outras providências.

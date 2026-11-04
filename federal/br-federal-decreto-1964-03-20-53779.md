@@ -1,5 +1,3 @@
-###DEC-053779-0-000-20-03-1964@@@
-
 DECRETO Nº 53.779, DE 20 DE MARÇO DE 1964.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, para uso da Diretoria do Patrimônio Histórico e Artístico Nacional.
@@ -23,8 +21,6 @@ JOÃO GOULART
 Waldyr Ramos Borges
 
 Júlio Furquim Sambaquy
-
-###DEC-053779-0-000-20-03-1964@@@RET01+++
 
 DECRETO Nº 53.779, DE 20 DE MARÇO DE 1964.
 

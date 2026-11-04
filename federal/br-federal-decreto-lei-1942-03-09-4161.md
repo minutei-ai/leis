@@ -1,5 +1,3 @@
-###DEL-004161-0-000-09-03-1942@@@
-
 DECRETO-LEI N. 4.161 – DE 9 DE MARÇO DE 1942
 
 Concede uma pensão especial á viuva e filhos menores de Fernando Coelho, vítima de acidente em serviço

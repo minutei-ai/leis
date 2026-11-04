@@ -1,5 +1,3 @@
-###DEC-060151-0-000-27-01-1967@@@
-
 DECRETO Nº 60.151, DE 27 DE JANEIRO DE 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos sem similar nacional registrado, neste descritos e consignados à empresa “Assucareira Cearense S.A.”, de Redenção (Ce).
@@ -14,7 +12,43 @@ decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à empresa “Assucareira Cearense S.A.”, de Redenção, Ceará:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:46.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:233.95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIFICAÇÃO</span></p></td><td style="width:63.9pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:67.4pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor total CIF US$</span></p></td></tr><tr><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:233.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Gerador trifásico, marca “Atlas”, de 600Kw, completo com excitador e reostato.............................................</span></p></td><td style="width:63.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:67.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9.523</span></p></td></tr><tr><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:233.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Turbina a vapor “Atlas”, tipo C-600-T completa, com caixa de engrenagem e acessórios usuais.................</span></p></td><td style="width:63.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:67.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>22.870</span></p></td></tr><tr><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:233.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Painel de comando completo,, marca “Atlas” para corrente de 380/220 volts até 1.500 amperes.............</span></p></td><td style="width:63.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:67.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.013</span></p></td></tr><tr><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:233.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total............................................................................</span></p></td><td style="width:63.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:67.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>36.406</span></p></td></tr></tbody></table>
+Item
+
+ESPECIFICAÇÃO
+
+Quantidade a ser importada
+
+Valor total CIF US$
+
+1
+
+Gerador trifásico, marca “Atlas”, de 600Kw, completo com excitador e reostato.............................................
+
+1
+
+9.523
+
+2
+
+Turbina a vapor “Atlas”, tipo C-600-T completa, com caixa de engrenagem e acessórios usuais.................
+
+1
+
+22.870
+
+3
+
+Painel de comando completo,, marca “Atlas” para corrente de 380/220 volts até 1.500 amperes.............
+
+1
+
+4.013
+
+Total............................................................................
+
+-
+
+36.406
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

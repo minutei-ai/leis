@@ -1,5 +1,3 @@
-###MPV-001803-0-003-25-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.803-3, DE 25 DE MARÇO DE 1999
 
 Estabelece prazo para as ratificações de concessões e alienações de terras feitas pelos Estados na Faixa de Fronteira, e dá outras Providências.

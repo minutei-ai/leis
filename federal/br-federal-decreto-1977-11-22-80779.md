@@ -1,5 +1,3 @@
-###DEC-080779-0-000-22-11-1977@@@
-
 Decreto nº 80.779, de 22 de novembro de 1977.
 
 Autoriza a transformação do curso do Desenho e Plástica em curso de Educação Artística, da Faculdade de Filosofia, Ciências e Letras de Jales, com sede na cidade de Jales, Estado de São Paulo.

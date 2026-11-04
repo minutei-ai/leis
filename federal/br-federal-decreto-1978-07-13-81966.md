@@ -1,5 +1,3 @@
-###DEC-081966-0-000-13-07-1978@@@
-
 Decreto nº 81.966, de 13 de julho de 1978
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da primeira etapa da subestação de Ivaiporã de Furnas - Centrais Elétricas S.A., no Estado do Paraná.

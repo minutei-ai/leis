@@ -1,5 +1,3 @@
-###DEC-057974-0-000-11-03-1966@@@
-
 DECRETO Nº 57.974, DE 11 DE MARÇO DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 45.097, de 22 de dezembro de 1958, para fins de desapropriação pelo Departamento Nacional de Obras Contra Às Secas, da área de terreno necessária à construção do açude público “Cruz de Pocinhos”, Estado da Paraíba.

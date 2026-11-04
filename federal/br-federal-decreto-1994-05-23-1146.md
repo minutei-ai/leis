@@ -1,7 +1,3 @@
-1
-
-###DEC-001146-0-000-23-05-1994@@@
-
 DECRETO N° 1.146, DE 23 DE MAIO DE 1994
 
 Dispõe sobre a execução de Ata de Retificação do Décimo Quarto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação n° 35, entre Brasil e Uruguai, de 22 de setembro de 1993.

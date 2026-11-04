@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58202)
-
 # LEI Nº 12.083, DE 04 DE OUTUBRO DE 2005
 
 ## (PL 767/2004 - Edson Gomes)

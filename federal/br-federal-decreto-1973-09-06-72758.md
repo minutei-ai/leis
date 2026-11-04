@@ -1,5 +1,3 @@
-###DEC-072758-0-000-06-09-1973@@@
-
 decreto nº 72.758, de 6 de setembro de 1973.
 
 Concede a Lázaro Gago, firma individual, o direito de lavrar folhelho argiloso, no Município de Campo Limpo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-083170-0-000-13-02-1979@@@
-
 DECRETO Nº 83.170, DE 13 DE FEVEREIRO DE 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

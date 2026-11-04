@@ -1,5 +1,3 @@
-###DEL-005682-0-000-20-07-1943@@@
-
 DECRETO‑LEI N. 5.682 – DE 20 JULHO DE 1943
 
 Torna sem aplicação a dotação orçamentária de Cr$ 500.000,00 do Ministério da Educação e Saúde, e abre crédito suplementar de idêntica importância

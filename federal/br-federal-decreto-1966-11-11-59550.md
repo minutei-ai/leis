@@ -1,5 +1,3 @@
-###DEC-059550-0-000-11-11-1966@@@
-
 DECRETO Nº 59.550, DE 11 DE NOVEMBRO DE 1966.
 
 Autoriza Mineração Lajeado Limitada a pesquisar mínério de chumbo, no município de Bocaiúva do sul, Estado do Paraná.

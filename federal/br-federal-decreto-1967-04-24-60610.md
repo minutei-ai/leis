@@ -1,5 +1,3 @@
-###DEC-060610-0-000-24-04-1967@@@
-
 decreto nº 60.610, de 24 de abril de 1967.
 
 Dispõe sôbre a elaboração dos documentos básicos para fixação dos Planos Nacionais de Educação e Cultura.

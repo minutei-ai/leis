@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica dispensado o pagamento de multas por infração, de acréscimos moratórios e correção monetária relacionados a débitos fiscais do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, decorrentes da prestação dos serviços de comunicação, tais como, serviços de valor adicionado, serviços de meios de telecomunicação, utilização de segmento espacial satelital, disponibilização de equipamentos ou de componentes que sirvam de meio necessário para a prestação de serviços de transmissão de dados, voz, imagem e Internet, independentemente da denominação que lhes seja dada, realizadas até 24 de agosto de 2006, desde que o pagamento do imposto seja efetuado integralmente, em moeda corrente, até o dia 30 de novembro de 2006.
 
-Ver também:<br>
+Ver também:
+
 Art. [3](https://www.legislabahia.ba.gov.br/documentos/lei-no-10429-de-19-de-dezembro-de-2006#art3)º da Lei nº 10.429, de 19 de dezembro de 2006: "Os prazos de pagamento previstos nos arts. 1º e 2º da Lei nº [10.404](https://www.legislabahia.ba.gov.br/documentos/lei-no-10404-de-08-de-novembro-de-2006) , de 08 de novembro de 2006, ficam revigorados até 21 de dezembro de 2006."
 
 Art. 2º - Fica concedida remissão parcial do ICMS incidente sobre a prestação de serviços de comunicações de que trata o art. 1º, realizadas até 31 de dezembro de 2005, desde que o pagamento seja efetuado integralmente, em moeda corrente, até o dia 30 de novembro de 2006 e que o valor a ser recolhido seja o equivalente à aplicação das seguintes alíquotas, relativamente a fatos geradores ocorridos:
@@ -17,7 +18,8 @@ II - no período de 1º de janeiro a 31 de dezembro de 2004, 12 % (doze por cent
 
 III - no período de 1º de janeiro a 31 de dezembro de 2005, 15 % (quinze por cento).
 
-Ver também:<br>
+Ver também:
+
 Art. [3](https://www.legislabahia.ba.gov.br/documentos/lei-no-10429-de-19-de-dezembro-de-2006#art3)º da Lei nº 10.429, de 19 de dezembro de 2006: "Os prazos de pagamento previstos nos arts. 1º e 2º da Lei nº [10.404](https://www.legislabahia.ba.gov.br/documentos/lei-no-10404-de-08-de-novembro-de-2006) , de 08 de novembro de 2006, ficam revigorados até 21 de dezembro de 2006."
 
 Art. 3º - O disposto nesta Lei não se aplica a débitos fiscais decorrentes da prestação de serviços de comunicações na modalidade de contratação de porta.

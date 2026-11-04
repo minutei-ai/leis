@@ -1,5 +1,3 @@
-###DEC-068578-0-000-03-05-1971@@@
-
 DECRETO Nº 68.578 - DE 3 DE MAIO DE 1971.
 
 Reconhecimento do Curso de Administração de Emprêsas da Faculdade de Ciências Econômicas, GO.

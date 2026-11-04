@@ -1,5 +1,3 @@
-###DEL-002006-0-000-06-01-1983@@@
-
 # Decreto-Lei nº 2.006, de 06 de janeiro de 1983.
 
 Revigora, até 31 de dezembro de 1983, as disposições do Decreto-lei nº 1627, de 1978.

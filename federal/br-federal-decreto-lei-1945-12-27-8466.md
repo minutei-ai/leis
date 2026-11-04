@@ -1,5 +1,3 @@
-###DEL-008466-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.466 – DE 27 DE DEZEMBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar a Associação das Filhas de Maria lmaculada para o Serviço Doméstico, do impôsto que menciona.

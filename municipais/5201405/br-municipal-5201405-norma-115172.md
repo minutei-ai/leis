@@ -104,5 +104,6 @@ Art. 11 Esta Lei entrará em vigor na data de sua aprovação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 07 de Fevereiro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

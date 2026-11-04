@@ -1,5 +1,3 @@
-###DEC-079851-0-000-23-06-1977@@@
-
 DECRETO Nº 79.851, DE 23 DE JUNHO DE 1977
 
 Concede reconhecimento ao curso de Medicina Veterinária, da Escola Superior de Medicina Veterinária, com sede na cidade de Lages, Estado de Santa Catarina.

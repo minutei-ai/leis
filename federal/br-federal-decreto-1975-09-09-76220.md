@@ -1,5 +1,3 @@
-###DEC-076220-0-000-09-09-1975@@@
-
 DECRETO Nº 76.220 - DE 9 DE SETEMBRO DE 1975
 
 Transfere da Hidroelétrica Melhoramentos Paracatu S.A. para a Centrais Elétricas de Minas Gerais S.A. - CEMIG a concessão para produzir, transmitir e distribuir energia elétrica no Município de Paracatu, Estado de Minas Gerais.

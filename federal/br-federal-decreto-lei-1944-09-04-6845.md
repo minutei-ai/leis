@@ -1,5 +1,3 @@
-###DEL-006845-0-000-04-09-1944@@@
-
 DECRETO-LEI N. 6.845 – DE 4 DE SETEMBRO DE 1944
 
 Assegura ao apreensor da borracha ou seus artefatos 50% do produto da apreensão

@@ -1,5 +1,3 @@
-###DEC-082168-0-000-24-08-1978@@@
-
 Decreto nº 82.168, de 24 de agosto de 1978.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Construção Civil - Edifícios, ministrado pela Universidade Federal do Piauí, com sede na cidade de Teresina, Estado do Piauí.

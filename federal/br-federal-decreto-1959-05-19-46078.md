@@ -1,5 +1,3 @@
-###DEC-046078-0-000-19-05-1959@@@
-
 DECRETO Nº 46.078, DE 19 DE maio DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

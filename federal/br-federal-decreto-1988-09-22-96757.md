@@ -1,5 +1,3 @@
-###DEC-096757-0-000-22-09-1988@@@
-
 DECRETO N° 96.757, DE 22 DE SETEMBRO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Fazenda Aruega, classificado como latifúndio por exploração situado no Município de Novo Cruzeiro, no Estado de Minas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.694, de 19 de maio de 1986 e dá outras providências.

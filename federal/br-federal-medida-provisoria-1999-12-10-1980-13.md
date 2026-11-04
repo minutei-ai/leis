@@ -1,5 +1,3 @@
-###MPV-001980-0-013-10-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-13, DE 10 DE DEZEMBRO DE 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

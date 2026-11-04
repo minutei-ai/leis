@@ -1,5 +1,3 @@
-###DEL-003136-0-000-24-03-1941@@@
-
 DECRETO-LEI N. 3.136 – DE 24 DE MARÇO DE 1941
 
 Modifica um dispositivo do Código de Vencimentos e Vantagens dos Militares do Exército

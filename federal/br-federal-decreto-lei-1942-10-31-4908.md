@@ -1,5 +1,3 @@
-###DEL-004908-0-000-31-10-1942@@@
-
 DECRETO-LEI N. 4.908 – DE 31 DE OUTUBRO DE 1942
 
 Transfere para João Pessoa a sede do Comando da 14ª Divisão de Infantaria

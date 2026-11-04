@@ -1,5 +1,3 @@
-###DEC-083554-0-000-05-06-1979@@@
-
 DECRETO Nº 83.554, DE 05 DE JUNHO DE 1979.
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileiro S.A. - PETROBRÁS.

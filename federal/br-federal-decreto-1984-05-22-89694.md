@@ -1,5 +1,3 @@
-###DEC-089694-0-000-22-05-1984@@@
-
 DECRETO Nº 89.694, DE 22 DE MAIO DE 1984
 
 Modifica a redação dos arts. 1º, 2º e 3º, do Decreto nº 87.956, de 21 de dezembro de 1982, que autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

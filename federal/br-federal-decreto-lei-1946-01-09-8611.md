@@ -1,5 +1,3 @@
-###DEL-008611-0-000-09-01-1946@@@
-
 DECRETO-LEI N. 8.611 – DE 9 DE JANEIRO DE 1946
 
 Dispõe sôbre a situação profissional de farmacêuticos diplomados por faculdades, que funcionaram com autorização dos govêrnos estaduais, e dos práticos de farmácia habilitados pelos Departamentos de Saúde.

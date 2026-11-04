@@ -1,5 +1,3 @@
-###DEC-050418-0-000-07-04-1961@@@
-
 DECRETO Nº 50.418, DE 7 DE ABRIL DE 1961.
 
 Extingue cargos no Quadro de Pessoal do Instituto do Açúcar e do Álcool.

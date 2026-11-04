@@ -1,5 +1,3 @@
-###DEC-081095-0-000-21-12-1977@@@
-
 decreto nº 81.095, de 21 de dezembro de 1977.
 
 Concede reconhecimento ao curso de Matemática, da Fundação Universidade de Passo Fundo, com sede na cidade de Passo Fundo, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-048123-0-000-16-04-1960@@@
-
 DECRETO Nº 48.123, DE 16 DE ABRIL DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de 10 lotes de terreno, situados na cidade de São Gabriel no Estado do Rio Grande do Sul, necessários ao Ministério da Guerra.

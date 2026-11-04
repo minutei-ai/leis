@@ -1,5 +1,3 @@
-###DEL-008899-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8. 899 – DE 24 DE JANEIRO DE 1946
 
 Regulamenta a aplicação e a contabilização das duas taxas de  10% , criadas pelo Decreto-lei nº 7.632, de 12 de junho de 1945,  na Estrada de Ferro Central do Brasil.

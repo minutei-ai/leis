@@ -1,5 +1,3 @@
-###DEC-051492-0-000-08-06-1962@@@
-
 DECRETO Nº 51.492, DE 8 DE JUNHO DE 1962.
 
 Retifica o enquadramento provisório de servidor do Ministério da Saúde.

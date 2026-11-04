@@ -1,5 +1,3 @@
-###DEC-082246-0-000-11-09-1978@@@
-
 Decreto nº 82.246, de 11 de setembro de 1978.
 
 Altera a denominação de Organizações Militares e dá outras providências.

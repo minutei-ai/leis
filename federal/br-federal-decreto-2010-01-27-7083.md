@@ -1,5 +1,3 @@
-###DEC-007083-0-000-27-01-2010@@@
-
 DECRETO Nº 7.083, DE 27 DE JANEIRO DE 2010.
 
 Dispõe sobre o Programa Mais Educação

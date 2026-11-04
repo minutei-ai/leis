@@ -1,7 +1,3 @@
-1
-
-###MPV-001060-0-000-27-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.060, DE 27 DE JULHO DE 1995.
 
 Dispõe sobre a fixação das mensalidades escolares e dá outras providências.

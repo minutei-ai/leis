@@ -1,5 +1,3 @@
-###DEL-002989-0-000-27-01-1941@@@
-
 DECRETO-LEI N. 2.989 – DE 27 DE JANEIRO DE 1941
 
 Organiza a 5ª Formação Sanitária Regional e o Depósito de Material da 5ª Região Militar

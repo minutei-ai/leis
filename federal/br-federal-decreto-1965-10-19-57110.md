@@ -1,5 +1,3 @@
-###DEC-057110-0-000-19-10-1965@@@
-
 DECRETO Nº 57.110, DE 19 DE OUTUBRO DE 1965.
 
 Autoriza a Cia. Cearense de Cimento Portland a lavrar calcário nos municípios de Coreaú e Sobral no Estado do Ceará.

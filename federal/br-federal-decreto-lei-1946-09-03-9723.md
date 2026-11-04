@@ -1,5 +1,3 @@
-###DEL-009723-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.723 – DE 3 DE SETEMBRO DE 1946
 
 Dispõe sôbre a aposentadoria de Francisco José dos Santos Werneck, ex-Engenheiro de 1ª classe da extinta Diretoria do Domínio da União.

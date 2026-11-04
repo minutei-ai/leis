@@ -1,5 +1,3 @@
-###DEC-048004-0-000-05-04-1960@@@
-
 DECRETO Nº 48.004, DE 05 DE ABRIL DE 1960.
 
 Concede à Usinas Siderúrgicas de Minas Gerais S.A. - Usiminas autorização para funcionar como emprêsa de mineração.

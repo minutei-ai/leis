@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/61441)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2006/compilacao-lei-12281-22.02.2006.html)
 
 # LEI N° 12.281, DE 22 DE FEVEREIRO DE 2006

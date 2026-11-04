@@ -1,5 +1,3 @@
-###DEC-070726-0-000-19-06-1972@@@
-
 DECRETO Nº 70.726, DE 19 DE JUNHO DE 1972.
 
 Extingue a Comissão de Promoções do Corpo de Oficiais da Reserva do Exército.

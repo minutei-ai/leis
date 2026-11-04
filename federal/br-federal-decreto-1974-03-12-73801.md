@@ -1,5 +1,3 @@
-###DEC-073801-0-000-12-03-1974@@@
-
 DECRETO Nº 73.801, DE 12 DE MARÇO DE 1974.
 
 Altera dispositivo do Decreto número 48.715, de 4 de agosto de 1960 que autoriza a cessão, sob o regime de aforamento, de terreno situado em Natal, Estado do Rio Grande do Norte.

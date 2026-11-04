@@ -1,5 +1,3 @@
-###DEC-091042-0-000-05-03-1985@@@
-
 DeCRETO Nº 91.042, de 05 de março dE 1985
 
 Autoriza a transferência direta da concessão outorgada à TV STÚDIOS DO RIO DE JANEIRO LTDA., para a TVS - CANAL 3 DE NOVA FRIBURGO LTDA.

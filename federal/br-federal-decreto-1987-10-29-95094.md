@@ -1,5 +1,3 @@
-###DEC-095094-0-000-29-10-1987@@@
-
 DECRETO Nº 95.094, DE 29 DE OUTUBRO DE 1987
 
 Autoriza o funcionamento do curso de Direito do Centro de Ensino Superior de Catalão.

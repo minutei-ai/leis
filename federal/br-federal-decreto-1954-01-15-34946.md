@@ -1,16 +1,14 @@
-###DEC-034946-0-000-15-01-1954@@@
+**DECRETO Nº 34.946, DE 15 DE JANEIRO DE 1.954.**
 
-<strong>DECRETO Nº 34.946, DE 15 DE JANEIRO DE 1.954.</strong>
+***Dá a denominação de “Esquadrão Anhanquera” ao atual 2° Esquadrão de reconhecimento mecanizado e cria o respectivo estandarte.***
 
-<em><strong>Dá a denominação de “Esquadrão Anhanquera” ao atual 2° Esquadrão de reconhecimento mecanizado e cria o respectivo estandarte.</strong></em>
+**O PRESIDENTE DA REPUBLICA** usando da atribuição que lhe confere o artigo 87, inciso I da Constituição,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong> usando da atribuição que lhe confere o artigo 87, inciso I da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art** 1**°** passa a denominar-se “Esquadrão Anhanquera” o atual 2° Esquadrão de reconhecimento mecanizado com sede na cidade de São Paulo, Estado de São Paulo
 
-<strong>Art</strong> 1<strong>°</strong> passa a denominar-se “Esquadrão Anhanquera” o atual 2° Esquadrão de reconhecimento mecanizado com sede na cidade de São Paulo, Estado de São Paulo
-
-<strong>Art</strong>. 2<strong>°</strong> fica criado o estandarte - distintivo para o Esquadrão Anhanquera, de acôrdo com o modelo que acompanha êste decreto e com as seguintes características:
+**Art**. 2**°** fica criado o estandarte - distintivo para o Esquadrão Anhanquera, de acôrdo com o modelo que acompanha êste decreto e com as seguintes características:
 
 a).Campo de três palas, a do meio de vermelho, com duas burelas de azul nas linhas superior e inferior de largura igual a duas das palas laterais; estas cortadas de quinze burolas alternadas de negro e branco;
 
@@ -28,11 +26,11 @@ g).Laço militares das côres nacionais; com a inscrição - 2º Esquadrão de R
 
 h).Dimensões - 1,10 x 080.
 
-<strong>A</strong>r<strong>t</strong>. 3<strong>º</strong> Êste decreto entrara em vigor na data de sua publicação ,revogadas as disposição em contrário.
+**A**r**t**. 3**º** Êste decreto entrara em vigor na data de sua publicação ,revogadas as disposição em contrário.
 
 Rio de Janeiro 15 de janeiro de 1954; 133º da independência e 66º da Republica .
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Ciro do Espirito Santo Cardoso
 

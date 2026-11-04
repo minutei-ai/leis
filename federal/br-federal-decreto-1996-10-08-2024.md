@@ -1,7 +1,3 @@
-1
-
-###DEC-002024-0-000-08-10-1996@@@
-
 DECRETO N° 2.024, DE 8 DE OUTUBRO DE 1996.
 
 Remaneja cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS e dá outras providências.

@@ -32,32 +32,30 @@ ANEXO III DA LEI Nº 7.251, DE 21.01.1998
 
 Quadro de Oficiais Auxiliares da Polícia Militar (QOAPM):
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- border:none;mso-border-alt:solid black 1.5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="198" valign="top" style="width:148.85pt;border:solid black 1.5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Posto<quebra></quebra></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black 1.5pt;
-  border-left:none;mso-border-left-alt:solid black 1.5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Quantidade<quebra></quebra></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black 1.5pt;
-  border-top:none;mso-border-top-alt:solid black 1.5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Capitão<quebra></quebra></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black 1.5pt;mso-border-left-alt:solid black 1.5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">72<quebra></quebra></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black 1.5pt;
-  border-top:none;mso-border-top-alt:solid black 1.5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">1º Tenente<quebra></quebra></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black 1.5pt;mso-border-left-alt:solid black 1.5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">408<quebra></quebra></p></td></tr></tbody></table>
+Posto<quebra></quebra>
+
+Quantidade<quebra></quebra>
+
+Capitão<quebra></quebra>
+
+72<quebra></quebra>
+
+1º Tenente<quebra></quebra>
+
+408<quebra></quebra>
 
 ANEXO IV DA LEI Nº 7.251, DE 21.01.1998
 
 Quadro de Praças da Polícia Militar
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;
- border:none;mso-border-alt:solid black 1.5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="198" valign="top" style="width:148.85pt;border:solid black 1.5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Graduação<quebra></quebra></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black 1.5pt;
-  border-left:none;mso-border-left-alt:solid black 1.5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Quantidade<quebra></quebra></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black 1.5pt;
-  border-top:none;mso-border-top-alt:solid black 1.5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">1º Sargento<quebra></quebra></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black 1.5pt;mso-border-left-alt:solid black 1.5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">8.311<quebra></quebra></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black 1.5pt;
-  border-top:none;mso-border-top-alt:solid black 1.5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Soldado de 1ª Classe<quebra></quebra></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;
-  mso-border-top-alt:solid black 1.5pt;mso-border-left-alt:solid black 1.5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">32.810<quebra></quebra></p></td></tr></tbody></table>
+Graduação<quebra></quebra>
+
+Quantidade<quebra></quebra>
+
+1º Sargento<quebra></quebra>
+
+8.311<quebra></quebra>
+
+Soldado de 1ª Classe<quebra></quebra>
+
+32.810<quebra></quebra>

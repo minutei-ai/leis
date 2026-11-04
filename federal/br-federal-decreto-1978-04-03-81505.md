@@ -1,5 +1,3 @@
-###DEC-081505-0-000-03-04-1978@@@
-
 Decreto nº 81 505, de 3 de abril de 1978.
 
 Declara a caducidade do Manifesto de Mina que menciona.

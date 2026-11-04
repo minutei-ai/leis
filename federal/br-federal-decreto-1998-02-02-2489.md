@@ -1,5 +1,3 @@
-###DEC-002489-0-000-02-02-1998@@@
-
 DECRETO Nº 2.489, DE 2 DE FEVEREIRO DE 1998
 
 Encerra os trabalhos de inventariança da extinta Autarquia Instituto Nacional de Alimentação e Nutrição - INAN.

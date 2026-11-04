@@ -1,5 +1,3 @@
-###DEC-051993-B-000-08-05-1963@@@
-
 DECRETO Nº 51.993, DE 08 DE MAIO DE 1963.
 
 Outorga concessão à Rádio Gazeta de Alagoas S.A., para estabelecer uma estação radifusora de onda tropical, na cidade de Maceió, Estado de Alagoas.

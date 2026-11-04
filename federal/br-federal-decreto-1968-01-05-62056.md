@@ -1,5 +1,3 @@
-###DEC-062056-0-000-05-01-1968@@@
-
 DECRETO Nº 62.056, DE 5 DE JANEIRO DE 1968.
 
 Retifica o art. 1º do decreto nº 55.109, de 2 de dezembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-072729-0-000-03-09-1973@@@
-
 DECRETO Nº 72.729, de 3 de setembro de 1973.
 
 Concede à Cia. Catarinense de Cimento Portland o direito de lavrar argila nos Municípios de Piçarras e Penha, Estado de Santa Catarina.

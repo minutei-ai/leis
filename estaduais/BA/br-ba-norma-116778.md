@@ -8,27 +8,21 @@ Art. 1º - Fica criado o Distrito Administrativo de OURO BRANCO, no Município d
 
 Art. 2º - O Distrito de OURO BRANCO terá os seguintes limites:
 
-<table class="border=1" cellspacing="0" cellpadding="0" width="546" style="border-collapse:collapse;border:none"><tbody><tr><td width="83" valign="top" style="width:62.1pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">LESTE:</p></td><td width="463" valign="top" style="width:347.3pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">- Linha partindo do Morro da Canção, pela Estrada de José Gracindo até o Morrinho.</p></td></tr><tr><td width="83" valign="top" style="width:62.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">&nbsp;</p></td><td width="463" valign="top" style="width:347.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">&nbsp;</p></td></tr><tr><td width="83" valign="top" style="width:62.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">NORTE:</p></td><td width="463" valign="top" style="width:347.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">- Do Morrinho&nbsp; em linha reta até a Pedra Vermelha; daí pela Serra de São Maurício até encontrar a Serra Batista.</p></td></tr><tr><td width="83" valign="top" style="width:62.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">&nbsp;</p></td><td width="463" valign="top" style="width:347.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">&nbsp;</p></td></tr><tr><td width="83" valign="top" style="width:62.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">OESTE:</p></td><td width="463" valign="top" style="width:347.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">- Pela estrada D. Joana até a Serra da Babilônia.</p></td></tr><tr><td width="83" valign="top" style="width:62.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">&nbsp;</p></td><td width="463" valign="top" style="width:347.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">&nbsp;</p></td></tr><tr><td width="83" valign="top" style="width:62.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">SUL:</p></td><td width="463" valign="top" style="width:347.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">- Do Posto chamado Pirajá, do Posto de Tábua, até a Fazenda Arrecife até o Morro da Canção.</p></td></tr></tbody></table>
+LESTE:
+
+- Linha partindo do Morro da Canção, pela Estrada de José Gracindo até o Morrinho.
+
+NORTE:
+
+- Do Morrinho  em linha reta até a Pedra Vermelha; daí pela Serra de São Maurício até encontrar a Serra Batista.
+
+OESTE:
+
+- Pela estrada D. Joana até a Serra da Babilônia.
+
+SUL:
+
+- Do Posto chamado Pirajá, do Posto de Tábua, até a Fazenda Arrecife até o Morro da Canção.
 
 Art. 3º - O Distrito de OURO BRANCO terá a sua respectiva sede no atual Povoado de OURO BRANCO, o qual, por força de Lei, fica elevado à Categoria de Vila.
 

@@ -1,5 +1,3 @@
-###DEC-054812-0-000-03-11-1964@@@
-
 Decreto nº 54.812, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Oiama Macedo a pesquisar cassiterita no município de Lábrea, Estado do Amazonas.

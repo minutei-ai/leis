@@ -1,5 +1,3 @@
-###DEC-076332-0-000-24-09-1975@@@
-
 DECRETO Nº 76.332 - DE 24 DE SETEMBRO DE 1975
 
 Concede autorização à firma construtora Noberto Odebrecht S.A., sediada em Salvador, Estado da Bahia, para operar no mar terrritorial brasileiro com o Navio Sonda "M.S.Ferder", de nacionalidade Norueguesa e guarnição estrangeira, nos serviços que especifica.

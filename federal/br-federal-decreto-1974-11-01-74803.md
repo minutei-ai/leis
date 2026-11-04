@@ -1,5 +1,3 @@
-###DEC-074803-0-000-01-11-1974@@@
-
 DECRETO Nº 74.803, DE 1 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra destinada à construção de uma subestação da Companhia Paulista de Força e Luz, no município de São Simão, Estado de São Paulo.

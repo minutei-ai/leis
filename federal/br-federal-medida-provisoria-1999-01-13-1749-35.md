@@ -1,5 +1,3 @@
-###MPV-001749-0-035-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.749-35, DE 13 DE JANEIRO DE 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

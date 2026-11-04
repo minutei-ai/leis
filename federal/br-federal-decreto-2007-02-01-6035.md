@@ -1,5 +1,3 @@
-###DEC-006035-0-000-01-02-2007@@@
-
 DECRETO Nº 6.035, DE 1º DE FEVEREIRO DE 2007.
 
 Altera o Decreto no 40.556, de 17 de dezembro de 1956, que regula o uso das condecorações nos uniformes militares e dá outras providências.
@@ -21,5 +19,3 @@ Brasília, 1º de fevereiro de 2007; 186º da Independência e 119º da Repúbli
 LUIZ INÁCIO LULA DA SILVA
 
      Waldir Pires
-
-Este texto não substitui o publicado no DOU de 2.2.2007.

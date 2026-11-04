@@ -1,5 +1,3 @@
-###DEC-060439-0-000-13-03-1967@@@
-
 DECRETO Nº 60.439, DE 13 DE MARÇO DE 1967.
 
 Regulamenta o disposto no art. 57, da Lei nº 3.470, de 1958 e no  Decreto-lei nº 188, de 23 de fevereiro de 1967.

@@ -1,5 +1,3 @@
-###DEC-074797-0-000-01-11-1974@@@
-
 DECRETO nº 74.797, DE 1 DE NOVEMBRO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Estado do Rio Grande do Sul.

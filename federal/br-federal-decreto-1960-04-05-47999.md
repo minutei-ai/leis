@@ -1,5 +1,3 @@
-###DEC-047999-0-000-05-04-1960@@@
-
 DECRETO Nº 47.999, DE 5 DE ABRIL DE 1960.
 
 Declara de utilidade pública a Junta de Missões Nacional da Convenção Batista Brasileira, com sede no Distrito Federal.

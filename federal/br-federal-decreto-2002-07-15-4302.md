@@ -1,5 +1,3 @@
-###DEC-004302-0-000-15-07-2002@@@
-
 DECRETO Nº 4.302, DE 15 DE JULHO DE 2002
 
 Dispõe sobre a redução do tempo do Serviço Militar Inicial dos conscritos incorporados no ano de 2002 e dá outras providências.

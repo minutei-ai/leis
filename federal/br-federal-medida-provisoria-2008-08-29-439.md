@@ -1,5 +1,3 @@
-###MPV-000439-0-000-29-08-2008@@@
-
 MEDIDA PROVISÓRIA Nº 439, DE 29 DE AGOSTO DE 2008.
 
 Constitui fonte de recursos adicional para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

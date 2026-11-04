@@ -1,5 +1,3 @@
-###DEL-008820-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.820 – DE 24 DE JANEIRO DE 1946
 
 Modifica o parágrafo único do artigo 1º do Decreto-lei nº 4.292, de 7 de Maio de 1942.

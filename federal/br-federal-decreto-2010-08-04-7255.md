@@ -1,5 +1,3 @@
-###DEC-007255-0-000-04-08-2010@@@
-
 DECRETO Nº 7.255, DE 4 DE AGOSTO DE 2010.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Desenvolvimento Agrário, e dá outras providências

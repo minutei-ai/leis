@@ -1,5 +1,3 @@
-###DEC-088192-0-000-21-03-1983@@@
-
 Decreto nº 88.192, de 21 de março de 1983
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento-DNOS, áreas de terras rurais, e respectivas benfeitorias, necessárias à complementação da Barragem de Chapéu D´Uvas, nos municípios de Ewbarck da Câmara e Santos Dumont, no Estado de Minas Gerais.

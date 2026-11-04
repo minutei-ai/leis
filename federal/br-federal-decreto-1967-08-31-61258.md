@@ -1,5 +1,3 @@
-###DEC-061258-0-000-31-08-1967@@@
-
 DECRETO Nº 61.258, DE 31 DE AGÔSTO DE 1967.
 
 Dispõe sôbre implantação, operação e funcionamento da Rádio Congresso Nacional e dá outras providências.

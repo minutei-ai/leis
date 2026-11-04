@@ -1,5 +1,3 @@
-###DEC-007920-0-000-15-02-2013-PUB-01@@@
-
 DECRETO N° 7.920, DE 15 DE FEVEREIRO DE 2013
 
 Cria o Conselho Interministerial de Estoques Públicos de Alimentos - CIEP, com objetivo de definir as condições para aquisição e liberação de estoques públicos de alimentos.

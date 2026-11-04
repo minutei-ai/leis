@@ -1,14 +1,12 @@
-###DEC-024828-0-000-19-04-1948@@@
+**DECRETO Nº 24.828, DE 19 DE ABRIL DE 1948.**
 
-<strong>DECRETO Nº 24.828, DE 19 DE ABRIL DE 1948.</strong>
+***Suprime cargos extintos***
 
-<em><strong>Suprime cargos extintos</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando go 87, item I, da Constituição, e nos da atribuição que lhe confere o arti- termos do artigo 1º, alínea n, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando go 87, item I, da Constituição, e nos da atribuição que lhe confere o arti- termos do artigo 1º, alínea n, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos os cargos das seguintes carreiras do Quadro Especial do Ministério da Educação e Saúde:
+**Art**. 1º Ficam suprimidos os cargos das seguintes carreiras do Quadro Especial do Ministério da Educação e Saúde:
 
 Dactilógrafo – 1 cargo da classe E, vago em virtude da promoção de Manuel da Costa Guimarães;
 
@@ -26,10 +24,10 @@ Trabalhador – 1 cargo da classe C, vago em virtude do falecimento de Ernestina
 
 Zelador – 1 cargo da classe F, vago em virtude da promoção de Antônio Baltazar, devendo a dotação correspondente ser levada a crédito da conta-corrente do mesmo Quadro do referido Ministério.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de abril de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani

@@ -1,5 +1,3 @@
-###DEL-001497-0-000-20-12-1976@@@
-
 # DECRETO-LEI Nº 1.497, DE 20 DE DEZEMBRO DE 1976
 
 Reformula critérios de distribuição das quotas do Imposto Único sobre Energia Elétrica.

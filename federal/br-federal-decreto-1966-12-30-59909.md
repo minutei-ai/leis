@@ -1,5 +1,3 @@
-###DEC-059909-0-000-30-12-1966@@@
-
 DECRETO Nº 59.909, DE 30 DE DEZEMBRO DE 1966.
 
 Altera o Regulamento para o Colégio Naval, aprovado pelo Decreto número 50.056, de 25 de janeiro de 1961.

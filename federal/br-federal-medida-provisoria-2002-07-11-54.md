@@ -1,5 +1,3 @@
-###MPV-000054-0-000-11-07-2002@@@
-
 MEDIDA PROVISÓRIA Nº 54, DE 11 DE JULHO DE 2002
 
 Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 36.365.000,00, para os fins que especifica.

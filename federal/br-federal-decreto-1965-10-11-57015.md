@@ -1,5 +1,3 @@
-###DEC-057015-0-000-11-10-1965@@@
-
 DECRETO Nº 57.015, DE 11 DE OUTUBRO DE 1965.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$25.100.078, para o fim que especifica.

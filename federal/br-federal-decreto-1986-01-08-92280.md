@@ -1,5 +1,3 @@
-###DEC-092280-0-000-08-01-1986@@@
-
 DECRETO Nº 92.280, DE 08 DE JANEIRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem em favor de Petróleo Brasileiro S.A. - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situados nos Municípios de Guamaré, Alto do Rodrigues, Pendências e Carnaubais, no Estado do Rio Grande do Norte, necessários à ampliação e acesso ao Pólo Industrial de Guamaré, faixa de dutos terrestres, leito de anodos e área de arraste, faixa de adutora do Poço nº 1 - VCR - 1 - RN, Estação Coletora - Fazenda Pocinhos, Estação Coletora Estreito "A", Estação Coletora - Estreito "B", Estação Coletora Alto do Rodrigues.

@@ -1,5 +1,3 @@
-###DEC-049125-0-000-19-10-1960@@@
-
 DECRETO Nº 49.125, DE 19 DE OUTUBRO DE 1960.
 
 Dispõe sôbre o plano coordenado de educação alimentar e atividades correlacionadas, a ser realizado no Estado do Rio Grande do Norte.

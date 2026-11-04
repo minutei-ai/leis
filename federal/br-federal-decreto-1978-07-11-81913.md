@@ -1,5 +1,3 @@
-###DEC-081913-0-000-11-07-1978@@@
-
 Decreto nº 81.913, de 11 de julho de 1978
 
 Concede à Topázio Imperial, Mineração, Comércio e Indústria Ltda. o direito de lavrar topázio no Município de Ouro Preto, Estado de Minas Gerais.

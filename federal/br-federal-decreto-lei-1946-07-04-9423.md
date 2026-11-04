@@ -1,5 +1,3 @@
-###DEL-009423-0-000-04-07-1946@@@
-
 DECRETO-LEI N. 9.423 – DE 4 DE JULHO DE 1946
 
 Dispõe sôbre convocação para o serviço militar no Exército, Marinha e Aeronáutica, em 1947.

@@ -1,5 +1,3 @@
-###DEC-072453-0-000-11-07-1973@@@
-
 DECRETO Nº 72.453, DE 11 DE JULHO DE 1973.
 
 Declara de utilidade pública as instituições que menciona.

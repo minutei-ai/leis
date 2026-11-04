@@ -1,5 +1,3 @@
-###DEC-088585-0-000-02-08-1983@@@
-
 Decreto nº 88.585, de 02 de agosto de 1983
 
 Concede à Empresa Brasileira de Correios e Telégrafos - ECT, autorização para promover aumento do seu capital social.

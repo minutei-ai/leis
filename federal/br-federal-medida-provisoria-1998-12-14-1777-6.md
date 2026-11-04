@@ -1,5 +1,3 @@
-###MPV-001777-0-006-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.777-6, DE 14 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e determina outras providências.

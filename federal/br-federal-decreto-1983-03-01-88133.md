@@ -1,5 +1,3 @@
-###DEC-088133-0-000-01-03-1983@@@
-
 Decreto nº 88.133, de 01 de março de 1983
 
 Dispõe sobre a divisão do território nacional em Zonas Aéreas e dá outras providências.

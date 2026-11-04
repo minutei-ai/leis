@@ -1,5 +1,3 @@
-###DEC-049045-0-000-05-10-1960@@@
-
 DECRETO Nº 49.045, DE 5 DE OUTUBRO DE 1960
 
 Autoriza o cidadão brasileiro Gheorghe Popescu a pesquisar areia quartzosa no município de Itanhanhém, Estado de São Paulo.

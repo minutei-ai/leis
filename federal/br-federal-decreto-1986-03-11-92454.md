@@ -1,5 +1,3 @@
-###DEC-092454-0-000-11-03-1986@@@
-
 DECRETO Nº 92.454, DE 11 DE MARÇO DE 1986
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Filosofia, Ciências e Letras de Guarabira, Paraíba.

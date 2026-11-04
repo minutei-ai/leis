@@ -1,5 +1,3 @@
-###DEC-066795-0-000-29-06-1970@@@
-
 DECRETO Nº 66.795 - DE 29 DE JUNHO DE 1970
 
 Autoriza funcionamento da Escola de Educação Física de Assis, São Paulo.

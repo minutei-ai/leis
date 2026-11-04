@@ -1,5 +1,3 @@
-###DEC-004987-0-000-12-02-2004@@@
-
 DECRETO Nº 4.987,  DE 12 DE FEVEREIRO DE 2004.
 
 Dá nova redação ao art. 7o do Decreto no 4.703, de 21 de maio de 2003, que dispõe sobre o Programa Nacional da Diversidade Biológica - PRONABIO e a Comissão Nacional de Biodiversidade.

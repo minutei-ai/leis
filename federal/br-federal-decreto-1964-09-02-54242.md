@@ -1,5 +1,3 @@
-###DEC-054242-0-000-02-09-1964@@@
-
 decreto nº 54.242, de 2 de setembro de 1964.
 
 Aprova a revisão do Quadro de Pessoal da Companhia Nacional de Seguro Agrícola e dá outras providências.

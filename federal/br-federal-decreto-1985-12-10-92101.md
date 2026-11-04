@@ -1,5 +1,3 @@
-###DEC-092101-0-000-10-12-1985@@@
-
 DeCREto nº 92.101, de 10 de dezembro de 1985
 
 Outorga concessão À RÁDIO RIO CORRENTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santa Maria da Vitória, Estado da Bahia.

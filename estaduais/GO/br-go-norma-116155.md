@@ -106,5 +106,6 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação e produz efeitos at
 
 Goiânia, 10 de julho de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado

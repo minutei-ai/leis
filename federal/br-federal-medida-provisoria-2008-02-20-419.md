@@ -1,5 +1,3 @@
-###MPV-000419-0-000-20-02-2008@@@
-
 MEDIDA PROVISÓRIA Nº 419, DE 20 DE FEVEREIRO DE 2008.
 
 Altera as Leis nos 10.683, de 28 de maio de 2003, e 10.678, de 23 de maio de 2003, transformando o cargo de Secretário Especial de Políticas de Promoção da Igualdade Racial em Ministro de Estado Chefe da Secretaria Especial de Políticas de Promoção da Igualdade Racial.
@@ -25,5 +23,3 @@ Brasília, 20 de fevereiro de 2008. 187o da Independência e 120 da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 20.2.2008 - Edição extra

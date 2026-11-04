@@ -1,5 +1,3 @@
-###DEC-007773-0-000-04-07-2012-PUB-01@@@,
-
 DECRETO N°\- 7.773, DE 4 DE JULHO DE 2012
 
 Dispõe sobre a execução no território nacional da Resolução 2040 (2012), de 12 de março de 2012, do Conselho de Segurança das Nações Unidas que, entre outras disposições, altera o regime de sanções aplicadas à República Árabe da Líbia.

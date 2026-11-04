@@ -1,5 +1,3 @@
-###DEC-074682-0-000-10-10-1974@@@
-
 DECRETO Nº 74.682, DE 10 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Econômicas e Comerciais de Santos, mantida pela Sociedade Visconde de São Leopoldo, com sede na cidade de Santos Estado de São Paulo.

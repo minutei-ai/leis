@@ -1,7 +1,3 @@
-1
-
-###DEC-097993-0-000-26-07-1989@@@
-
 DECRETO N° 97.993, DE 26 DE JULHO DE 1989
 
 Institui Comissão Interministerial, com a finalidade de apresentar anteprojetos de lei reestruturando a Polícia Rodoviária Federal e criando a Polícia Ferroviária Federal.

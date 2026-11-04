@@ -1,5 +1,3 @@
-###DEC-067694-0-000-03-12-1970@@@
-
 DECRETO Nº 67.694, DE 3 DE DEZEMBRO DE 1970.
 
 Dispõe sôbre Prêmio Literário.

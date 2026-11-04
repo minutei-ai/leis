@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1e4ebba2-a2bb-48fc-80fc-af5794b3febb/texto#nowhere)
 
-###DEL-000522-0-000-07-04-1969@@@
-
 DECRETO-LEI Nº 522, DE 3 DE ABRIL DE 1941
 
 Revoga o Decreto-lei nº 3.172, de 3 de abril de 1941.

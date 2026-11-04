@@ -1,5 +1,3 @@
-###DEC-086582-0-000-17-11-1981@@@
-
 Decreto nº 86.582, de 17 de novembro de 1981.
 
 Promulga o Convênio de CO-Produção Cinematográfica entre o Governo da República Federativa do Brasil e o Governo da República Argentina.
@@ -116,4 +114,20 @@ Em fé do que, os plenipotenciários acima nomeados assinam e selam o presente C
 
 Feito na cidade do Rio de Janeiro aos vinte e cinco dias do mês de janeiro de mil novecentos e sessenta e oito
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:185.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA ARGENTINA:</span></p></td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">José de Magalhães Pinto</span></p></td><td style="width:185.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nicanor Costa Mendes</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:185.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA ARGENTINA:
+
+</td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+José de Magalhães Pinto
+
+</td><td style="width:185.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Nicanor Costa Mendes
+
+</td></tr></tbody></table>

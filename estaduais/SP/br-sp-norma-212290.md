@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212290)<br>
-
 # LEI N° 18.412, DE 26 DE FEVEREIRO DE 2026
 
 ## (Projeto de lei n° 252/2025, do Deputado Danilo Campetti - REPUBLICANOS)

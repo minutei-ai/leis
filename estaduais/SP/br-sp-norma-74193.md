@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74193)
-
 # LEI Nº 12.703, DE 04 DE OUTUBRO DE 2007
 
 ### _Autoriza o Departamento de Estradas de Rodagem - DER a transmitir, por cessão gratuita, ao Município de Presidente Epitácio, direitos possessórios sobre as áreas que especifica._

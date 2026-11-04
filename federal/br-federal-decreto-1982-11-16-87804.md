@@ -1,5 +1,3 @@
-###DEC-087804-0-000-16-11-1982@@@
-
 Decreto nº 87.804, de 16 de novembro dE 1982
 
 Declara perempta a concessão outorgada à FUNDAÇÃO PAZ NA TERRA, para executar serviço de radiodifusão sonora em onda tropical, na cidade de Natal, Estado do Rio Grande do Norte.

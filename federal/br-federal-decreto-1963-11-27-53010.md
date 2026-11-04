@@ -1,5 +1,3 @@
-###DEC-053010-0-000-27-11-1963@@@
-
 DECRETO Nº 53.010, DE 27 DE NOVEMBRO DE 1963.
 
 Acrescenta dispositivos ao Decreto número 52.275, de 17 de julho de 1963, que institui o Conselho Nacional de Política Salarial e dá outras providências.

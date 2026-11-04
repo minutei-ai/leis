@@ -1,5 +1,3 @@
-###DEC-048322-0-000-20-06-1960@@@
-
 Decreto nº 48.322, de 20 de junho de 1960.
 
 Altera a Lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

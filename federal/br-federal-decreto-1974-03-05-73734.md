@@ -1,5 +1,3 @@
-###DEC-073734-0-000-05-03-1974@@@
-
 DECRETO N.º 73.734, DE 5 DE MARÇO DE 1974.
 
 Autoriza o funcionamento da Escola Superior de Educação Física e Desportos, com o curso de Licenciatura em Educação Física, mantida pela Fundação Universitária de Criciúma, com sede na cidade de Criciúma, Estado de Santa Catarina.

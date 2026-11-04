@@ -1,5 +1,3 @@
-###MPV-000103-0-000-01-01-2003@@@
-
 MEDIDA PROVISÓRIA N. 103 – DE 1° DE JANEIRO DE 2003
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências
@@ -384,7 +382,95 @@ b) proteção do patrimônio histórico e cultural;
 
 c) aprovar a delimitação das terras dos remanescentes das comunidades dos quilombos, bem como determinar as suas demarcações, que serão homologadas mediante decreto;
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; vertical-align:top"><p class="Normal0" style="text-align:justify; line-height:12pt"><span style="font-size:10pt">VII – Ministério da Defesa:</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">a) política de defesa nacional;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">b) política e estratégia militares;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">c) doutrina e planejamento de emprego das Forças Armadas;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">d) projetos especiais de interesse da defesa nacional;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">e) inteligência estratégica e operacional no interesse da defesa;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">f) operações militares das Forças Armadas;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">g) relacionamento internacional das Forças Armadas;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">h) orçamento de defesa;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">i) legislação militar;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">j) política de mobilização nacional;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">I) política de ciência e tecnologia nas Forças Armadas;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">m) política de comunicação social nas Forças Armadas;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">n) política de remuneração dos militares e pensionistas;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">o) política nacional de exportação de material de emprego militar, bem como fomento as atividades de pesquisa e desenvolvimento, produção e exportação em áreas de interesse da defesa e controle da exportação de material bélico de natureza convencional;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">p) atuação das Forças Armadas, quando couber, na garantia da lei e da ordem, visando a preservação da ordem publica e da incolumidade das pessoas e do patrimônio, bem como sua cooperação com o desenvolvimento nacional e a defesa civil e ao apoio ao combate a delitos transfronteiriços e ambientais;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">q) logística militar;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">r) serviço militar;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">s) assistência à saúde, social e religiosa das Forças Armadas;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">t) constituição, organização, efetivos, adestramento e aprestamento das forças navais, terrestres e aéreas;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">u) política marítima nacional;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">v) segurança da navegação aérea e do tráfego aquaviário e salvaguarda da vida humana no mar;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">x) política aeronáutica nacional e atuação na política nacional de desenvolvimento das atividades aeroespaciais;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">z) infra-estrutura aeroespacial, aeronáutica e aeroportuária;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">VIII – Ministério do Desenvolvimento Agrário:</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">a) reforma agrária;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">b) promoção do desenvolvimento sustentável do segmento rural constituído pelos agricultores familiares;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">IX – Ministério do Desenvolvimento, Industria e Comércio Exterior:</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">a) política de desenvolvimento da indústria, do comércio e dos serviços;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">b) propriedade intelectual e transferencia de tecnologia;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">c) metrologia, normalização e qualidade industrial;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">d) políticas de comércio exterior;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">e) regulamentação e execução dos programas e atividades relativas ao comércio exterior;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">f) aplicação dos mecanismos de defesa comercial;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">g) participação em negociações internacionais relativas ao comércio exterior;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">h) formulação da política de apoio a micro empresa, empresa de pequeno porte e artesanato;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">i) execução das atividades de registro do comércio;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">X – Ministério da Educação:</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">a) política nacional de educação;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">b) educação infantil</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">c) educação em geral, compreendendo ensino fundamental, ensino médio, ensino superior, educação de jovens e adultos, educação profissional, educação especial e educação à distância, exceto ensino militar:</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">d) avaliação, informação e pesquisa educacional;</span></p><p class="Normal0" style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">e) pesquisa e extensão universitária;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:481.95pt; vertical-align:top">
+
+VII – Ministério da Defesa:
+
+a) política de defesa nacional;
+
+b) política e estratégia militares;
+
+c) doutrina e planejamento de emprego das Forças Armadas;
+
+d) projetos especiais de interesse da defesa nacional;
+
+e) inteligência estratégica e operacional no interesse da defesa;
+
+f) operações militares das Forças Armadas;
+
+g) relacionamento internacional das Forças Armadas;
+
+h) orçamento de defesa;
+
+i) legislação militar;
+
+j) política de mobilização nacional;
+
+I) política de ciência e tecnologia nas Forças Armadas;
+
+m) política de comunicação social nas Forças Armadas;
+
+n) política de remuneração dos militares e pensionistas;
+
+o) política nacional de exportação de material de emprego militar, bem como fomento as atividades de pesquisa e desenvolvimento, produção e exportação em áreas de interesse da defesa e controle da exportação de material bélico de natureza convencional;
+
+p) atuação das Forças Armadas, quando couber, na garantia da lei e da ordem, visando a preservação da ordem publica e da incolumidade das pessoas e do patrimônio, bem como sua cooperação com o desenvolvimento nacional e a defesa civil e ao apoio ao combate a delitos transfronteiriços e ambientais;
+
+q) logística militar;
+
+r) serviço militar;
+
+s) assistência à saúde, social e religiosa das Forças Armadas;
+
+t) constituição, organização, efetivos, adestramento e aprestamento das forças navais, terrestres e aéreas;
+
+u) política marítima nacional;
+
+v) segurança da navegação aérea e do tráfego aquaviário e salvaguarda da vida humana no mar;
+
+x) política aeronáutica nacional e atuação na política nacional de desenvolvimento das atividades aeroespaciais;
+
+z) infra-estrutura aeroespacial, aeronáutica e aeroportuária;
+
+VIII – Ministério do Desenvolvimento Agrário:
+
+a) reforma agrária;
+
+b) promoção do desenvolvimento sustentável do segmento rural constituído pelos agricultores familiares;
+
+IX – Ministério do Desenvolvimento, Industria e Comércio Exterior:
+
+a) política de desenvolvimento da indústria, do comércio e dos serviços;
+
+b) propriedade intelectual e transferencia de tecnologia;
+
+c) metrologia, normalização e qualidade industrial;
+
+d) políticas de comércio exterior;
+
+e) regulamentação e execução dos programas e atividades relativas ao comércio exterior;
+
+f) aplicação dos mecanismos de defesa comercial;
+
+g) participação em negociações internacionais relativas ao comércio exterior;
+
+h) formulação da política de apoio a micro empresa, empresa de pequeno porte e artesanato;
+
+i) execução das atividades de registro do comércio;
+
+X – Ministério da Educação:
+
+a) política nacional de educação;
+
+b) educação infantil
+
+c) educação em geral, compreendendo ensino fundamental, ensino médio, ensino superior, educação de jovens e adultos, educação profissional, educação especial e educação à distância, exceto ensino militar:
+
+d) avaliação, informação e pesquisa educacional;
+
+e) pesquisa e extensão universitária;
+
+</td></tr></tbody></table>
 
 f) magistério;
 

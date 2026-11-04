@@ -1,5 +1,3 @@
-###DEC-078465-0-000-27-09-1976@@@
-
 DECRETO Nº 78.465, DE 27 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Biológicas, da Pontificia Universidade Católica de Campinas, com sede na cidade de Campinas, Estado de São Paulo.

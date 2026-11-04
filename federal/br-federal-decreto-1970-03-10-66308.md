@@ -1,5 +1,3 @@
-###DEC-066308-0-000-10-03-1970@@@
-
 DECRETO Nº 66.308 - DE 10 DE MARÇO DE 1970
 
 Autoriza o funcionamento no Brasil da Federação Internacional dos Sindicatos de Trabalhadores nas Indústrias Químicas e Diversos ("ICF" Internacional Federation of Chemical and General Workers' Unions), sediada em Genebra, na Suíça.

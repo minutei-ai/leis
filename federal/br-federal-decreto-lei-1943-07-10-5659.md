@@ -1,5 +1,3 @@
-###DEL-005659-0-000-10-07-1943@@@
-
 DECRETO‑LEI N. 5.659 – DE 10 DE JULHO DE 1943
 
 Dá a garantia do Tesouro Nacional para um empréstimo de financiamento da usina siderúrgica em construção em Volta Redonda, nas condições esta­belecidas no contrato de 4 de junho de 1943 com o Export‑Import Bank de Washington

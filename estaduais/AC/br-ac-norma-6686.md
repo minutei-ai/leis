@@ -1,6 +1,10 @@
 > **LEI Nº 4.666, DE 04 DE NOVEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Selo da Agricultura Familiar no Estado e estabelece diretrizes para sua concessão e uso.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Selo da Agricultura Familiar no Estado e estabelece diretrizes para sua concessão e uso.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

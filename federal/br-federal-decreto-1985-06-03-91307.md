@@ -1,5 +1,3 @@
-###DEC-091307-0-000-03-06-1985@@@
-
 DecretO nº 91.307, DE 03 DE junho DE 1985.
 
 Cria a Estação Ecológica Juami-Japurá, em área de terra que indica, e dá outras providências.

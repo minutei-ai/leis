@@ -1,5 +1,3 @@
-###DEL-003451-0-000-23-07-1941@@@
-
 DECRETO-LEI N. 3.451 – DE 23 DE JULHO DE 1941
 
 Incorpora ao Instituto de Experimentação Agrícola, do Centro Nacional de Ensino e Pesquisas Agronômicas, do Ministério da Agricultura, a Estação Experimental de Entre-Rios, no Estado da Baía

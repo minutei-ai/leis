@@ -1,5 +1,3 @@
-###DEL-009493-0-000-19-07-1946@@@
-
 DECRETO-LEI N. 9.493 – DE 19 DE JULHO DE 1946
 
 Restabelece o serviço de inspeção permanente das Coletorias Federais e Mesas de Rendas não Alfandegadas, e dá outras providências.

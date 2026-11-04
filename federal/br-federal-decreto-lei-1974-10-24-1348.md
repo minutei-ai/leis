@@ -1,5 +1,3 @@
-###DEL-001348-0-000-24-10-1974@@@
-
 # DECRETO-LEI Nº 1.348, DE 24 DE OUTUBRO DE 1974
 
 Reajusta os vencimentos e salários dos servidores do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas da União, e dá outras providências.

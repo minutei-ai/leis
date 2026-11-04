@@ -1,5 +1,3 @@
-###DEC-006868-0-000-04-06-2009@@@
-
 DECRETO Nº 6.868, DE 4 DE JUNHO DE 2009.
 
 Institui o Programa de Apoio à Pesquisa, Desenvolvimento e Inovação em Tecnologias Digitais de Informação e Comunicação (ProTIC) e dispõe sobre a composição de seu Comitê Gestor.

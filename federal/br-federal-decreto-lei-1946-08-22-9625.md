@@ -1,5 +1,3 @@
-###DEL-009625-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.625 – DE 22 DE AGÔSTO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar o P.E.N. Clube do Brasil do pagamento do impôsto que menciona.

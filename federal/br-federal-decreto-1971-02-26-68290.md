@@ -1,5 +1,3 @@
-###DEC-068290-0-000-26-02-1971@@@
-
 DECRETO Nº 68.290, DE 26 DE FEVEREIRO DE 1971.
 
 Declara caduco o Decreto n  2.214, de 22 de janeiro de 1963.

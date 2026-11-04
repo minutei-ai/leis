@@ -1,5 +1,3 @@
-###DEC-068410-0-000-23-03-1971@@@
-
 DECRETO Nº 68.410, DE 23 DE MARÇO DE 1971.
 
 Declarada caduco o Decreto nº 39.012 de 11 de abril de 1956.

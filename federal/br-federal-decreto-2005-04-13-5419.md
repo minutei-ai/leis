@@ -1,5 +1,3 @@
-###DEC-005419-0-000-13-04-2005@@@
-
 DECRETO Nº 5.419 DE 13 DE ABRIL DE 2005
 
 Altera dispositivo do Decreto nº 3.564, de 17 de agosto de 2000, que dispõe sobre a estrutura e o funcionamento do Conselho de Aviação Civil - CONAC e dá outras providências.

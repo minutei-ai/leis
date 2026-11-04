@@ -1,5 +1,3 @@
-###DEC-088279-0-000-04-05-1983@@@
-
 DECRETO Nº 88.279, DE 04 DE MAIO DE 1983
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Pontes e Lacerda, no Estado de Mato Grosso, e dá outras providências.

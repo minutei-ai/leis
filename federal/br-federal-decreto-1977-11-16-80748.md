@@ -1,5 +1,3 @@
-###DEC-080748-0-000-16-11-1977@@@
-
 Decreto nº 80.748, de 16 de novembro de 1977.
 
 Declara sem efeito o Decreto nº 52.967, de 26 de novembro de 1963, que concedeu a David Paulo Dana o direito de lavrar diamante e minério de ouro no Município de Itupiranga, Estado do Pará.

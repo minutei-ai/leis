@@ -1,38 +1,36 @@
-###DEC-041904-0-000-29-07-1957@@@
+**DECRETO Nº 41.904, DE 29 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41.904, DE 29 DE JULHO DE 1957.</strong>
+***Aprova o Regimento de Serviço Nacional de Fiscalização da Medicina e Farmácia, do Ministério da Saúde.***
 
-<em><strong>Aprova o Regimento de Serviço Nacional de Fiscalização da Medicina e Farmácia, do Ministério da Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço Nacional de Fiscalização da Medicina e Farmácia, que com êste baixa, assinado pelo respectivo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço Nacional de Fiscalização da Medicina e Farmácia, que com êste baixa, assinado pelo respectivo Ministro de Estado.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 29 de julho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Maurício de Medeiros
 
-<strong>REGIMENTO DO SERVIÇO NACIONAL DE FISCALIZAÇÃO DA MEDICINA E FARMÁCIA</strong>
+**REGIMENTO DO SERVIÇO NACIONAL DE FISCALIZAÇÃO DA MEDICINA E FARMÁCIA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Serviço Nacional de Fiscalização da Medicina e Farmácia (S.N.F.M.F.), órgão integrante do Departamento Nacional de Saúde (D.N.S.), tem por finalidade superintender, coordenar e fiscalizar, em todo território nacional, diretamente ou por intermédio das autoridades federais ou estaduais competentes, tudo quanto se relacionar com o exercício da medicina e das atividades afins, nas suas várias modalidades, promovendo, para isso, as necessárias medidas executivas.
+**Art**. 1º O Serviço Nacional de Fiscalização da Medicina e Farmácia (S.N.F.M.F.), órgão integrante do Departamento Nacional de Saúde (D.N.S.), tem por finalidade superintender, coordenar e fiscalizar, em todo território nacional, diretamente ou por intermédio das autoridades federais ou estaduais competentes, tudo quanto se relacionar com o exercício da medicina e das atividades afins, nas suas várias modalidades, promovendo, para isso, as necessárias medidas executivas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O S.N.F.M.F. compõe-se de:
+**Art**. 2º O S.N.F.M.F. compõe-se de:
 
 I - Comissão de Biofarmácia (C.B.)
 
@@ -60,21 +58,21 @@ VII - Seção de Produtos Farmacêuticos (S.P.F.)
 
 VIII - Seção de Administração (S.A.)
 
-<strong>Art</strong>. 3º Os órgãos que integram o S.N.F.M.F. funcionarão harmônicamente articulados, em regime de mútua colaboração, sob a orientação do Diretor do Serviço.
+**Art**. 3º Os órgãos que integram o S.N.F.M.F. funcionarão harmônicamente articulados, em regime de mútua colaboração, sob a orientação do Diretor do Serviço.
 
-<strong>Art</strong>. 4º O S.N.F.M.F. terá um Diretor, nomeado em comissão pelo Presidente da República.
+**Art**. 4º O S.N.F.M.F. terá um Diretor, nomeado em comissão pelo Presidente da República.
 
 Parágrafo único. O Diretor do S.N.F.M.F. terá um secretário, por Êle designado dentre os servidores do Ministério.
 
-<strong>Art</strong>. 5º O L.C.C.D.M. terá um Diretor nomeado em comissão pelo Presidente da República e escolhido dentre profissionais legalmente habilitados, de comprovada competência e idoneidade, possuidores de diploma de médico, químico ou farmacêutico.
+**Art**. 5º O L.C.C.D.M. terá um Diretor nomeado em comissão pelo Presidente da República e escolhido dentre profissionais legalmente habilitados, de comprovada competência e idoneidade, possuidores de diploma de médico, químico ou farmacêutico.
 
 Parágrafo único. O Diretor do L.C.C.D.M. terá um Secretário, por êle designado dentre os servidores do Ministério.
 
-<strong>Art</strong>. 6º As Seções do S.N.F.M.F. e do L.C.C.D.M. terão chefes, escolhidos dentre os servidores pertencentes ao Quadro do Ministério da Saúde e designados respectivamente pelo Diretor do Serviço e pelo Diretor do Laboratório.
+**Art**. 6º As Seções do S.N.F.M.F. e do L.C.C.D.M. terão chefes, escolhidos dentre os servidores pertencentes ao Quadro do Ministério da Saúde e designados respectivamente pelo Diretor do Serviço e pelo Diretor do Laboratório.
 
-<strong>Art</strong>. 7º As funções de chefia das Seções técnicas só poderão ser exercidas por profissionais legalmente habilitados, possuidores de diploma de médico, químico, ou farmacêutico.
+**Art**. 7º As funções de chefia das Seções técnicas só poderão ser exercidas por profissionais legalmente habilitados, possuidores de diploma de médico, químico, ou farmacêutico.
 
-<strong>Art</strong>. 8º A C.B. será constituída dos seguintes membros:
+**Art**. 8º A C.B. será constituída dos seguintes membros:
 
 a) o Diretor do S.N.F.M.F.;
 
@@ -92,7 +90,7 @@ g) um médico clínico;
 
 h) dois representantes técnicos da indústria farmacêutica.
 
-<strong>Art</strong>. 9º A C.R.F. será constituída dos seguintes membros:
+**Art**. 9º A C.R.F. será constituída dos seguintes membros:
 
 a) o Diretor do S.N.F.M.F.;
 
@@ -108,41 +106,41 @@ f) dois técnicos da indústria farmacêutica;
 
 g) um farmacêutico de Seção de Produtos Farmacêuticos do S.N.F.M.F.
 
-<strong>Art</strong>. 10. O Diretor do S.N.F.M.F. será Presidente das Comissões de que tratam os arts. 8º e 9º dêste Regimento e o membro farmacêutico do S.N.F.M.F. será o Secretário.
+**Art**. 10. O Diretor do S.N.F.M.F. será Presidente das Comissões de que tratam os arts. 8º e 9º dêste Regimento e o membro farmacêutico do S.N.F.M.F. será o Secretário.
 
 Parágrafo único. Na falta ou impedimento do Diretor do S.N.F.M.F. as sessões das Comissões serão presididas pelo seu substituto legal, na forma dêste Regimento.
 
-<strong>Art</strong>. 11. Os membros da C.B. e da C.R.F serão escolhidos pelo Diretor-Geral do D.N.S., dentre pessoas de comprovada competência e idoneidade, cujos nomes constarão de listas tríplices apresentadas pelo Diretor do S.N.F.M.F., sendo renovada de dois em dois anos e de cinco em cinco anos, respectivamente.
+**Art**. 11. Os membros da C.B. e da C.R.F serão escolhidos pelo Diretor-Geral do D.N.S., dentre pessoas de comprovada competência e idoneidade, cujos nomes constarão de listas tríplices apresentadas pelo Diretor do S.N.F.M.F., sendo renovada de dois em dois anos e de cinco em cinco anos, respectivamente.
 
 Parágrafo único. Os médicos clínicos que integrarão a C.B. e a C.R.F. serão escolhidos dentre nomes constantes de listas tríplices apresentadas ao S.N.F.M.F. pela Academia Nacional de Medicina, Sindicato dos Médicos e Associação Brasileira de Medicina.
 
-<strong>Art</strong>. 12. Os representantes da indústria farmacêutica na C.B. e C.R.F. serão escolhidos pelo Diretor do D.N.S. dentre nomes constantes de listas tríplices organizadas pelos sindicatos da indústria de produtos farmacêuticos e apresentados pelo Diretor do S.N. F.M.F.
+**Art**. 12. Os representantes da indústria farmacêutica na C.B. e C.R.F. serão escolhidos pelo Diretor do D.N.S. dentre nomes constantes de listas tríplices organizadas pelos sindicatos da indústria de produtos farmacêuticos e apresentados pelo Diretor do S.N. F.M.F.
 
-<strong>Art</strong>. 13. Os membros da C.B. e C.R.F. perceberão a gratificação prevista em lei, não podendo o total de reuniões remuneradas exceder de quatro (4) por mês.
+**Art**. 13. Os membros da C.B. e C.R.F. perceberão a gratificação prevista em lei, não podendo o total de reuniões remuneradas exceder de quatro (4) por mês.
 
-<strong>Art</strong>. 14. As deliberações das C.B. e C.R.F. serão tomadas por maioria de votos, tendo o Presidente, além do voto próprio, o de desempate.
+**Art**. 14. As deliberações das C.B. e C.R.F. serão tomadas por maioria de votos, tendo o Presidente, além do voto próprio, o de desempate.
 
-<strong>Art</strong>. 15. As C.B. e C.R.F. funcionarão com a presença de, no mínimo cinco (5) membros, inclusive seu Presidente.
+**Art**. 15. As C.B. e C.R.F. funcionarão com a presença de, no mínimo cinco (5) membros, inclusive seu Presidente.
 
-<strong>Art</strong>. 16. As consultas formuladas pelo Presidente da C.B. e C.R.F. poderão ser apresentadas e relatadas durante as sessões, verbalmente ou por escrito, segundo a natureza da matéria.
+**Art**. 16. As consultas formuladas pelo Presidente da C.B. e C.R.F. poderão ser apresentadas e relatadas durante as sessões, verbalmente ou por escrito, segundo a natureza da matéria.
 
 Parágrafo único. Se a Comissão não se achar suficientemente instruída, poderá deliberar o adiamento da votação, a fim de que seus membros possam tomar conhecimento dos elementos julgados necessários ao exame do assunto.
 
-<strong>Art</strong>. 17. De cada sessão lavrará o Secretário da Comissão uma ata, com o relato suscinto dos trabalhas, a qual, depois de lida e aprovada, será assinada pelo Presidente e membros presentes.
+**Art**. 17. De cada sessão lavrará o Secretário da Comissão uma ata, com o relato suscinto dos trabalhas, a qual, depois de lida e aprovada, será assinada pelo Presidente e membros presentes.
 
-<strong>Art</strong>. 18. Não havendo número em 3 sessões consecutivas para apreciação dos assuntos trazidos à Comissão, o Diretor do S.N.F.M.F. decidirá independentemente de parecer do aludido órgão e promoverá a substituição dos membros faltosos.
+**Art**. 18. Não havendo número em 3 sessões consecutivas para apreciação dos assuntos trazidos à Comissão, o Diretor do S.N.F.M.F. decidirá independentemente de parecer do aludido órgão e promoverá a substituição dos membros faltosos.
 
-<strong>Art</strong>. 19. O Conselho Técnico (C.T.) do L.C.C.D.M. será constituído pelos chefes das seções de Química, Farmacologia e Padronagem reunidos sob a presidência do Diretor ou seu substituto legal.
+**Art**. 19. O Conselho Técnico (C.T.) do L.C.C.D.M. será constituído pelos chefes das seções de Química, Farmacologia e Padronagem reunidos sob a presidência do Diretor ou seu substituto legal.
 
 § 1º O Secretário do Diretor do L.C.C.D.M. será o secretário do C.T., a cujas reuniões comparecerá, sem direito a voto, e das quais lavrará as atas respectivas a serem assinadas pelo Diretor e demais membros que a elas hajam comparecido.
 
 § 2º O comparecimento às reuniões do C.T. pretere qualquer outra obrigação funcional.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 20. À C.B. compete:
+**Art**. 20. À C.B. compete:
 
 I - Dar parecer sôbre a introdução de substâncias novas ou métodos novos, após estudá-los sob os vários aspectos: químico, farmacêutico, farmacológico, terapêutico e profilático;
 
@@ -152,7 +150,7 @@ III - emitir parecer sôbre as exigências e padrões relativos a indústria fra
 
 IV - colaborar na feitura das instruções a serem baixadas pelo Diretor do S.N.F.M.F. relativas a matéria de sua competência.
 
-<strong>Art</strong>. 21. À C.R.F. compete:
+**Art**. 21. À C.R.F. compete:
 
 I - estudar os assuntos concernentes às modificações que devam ser introduzidas na Farmacopéia Brasileira;
 
@@ -164,7 +162,7 @@ IV - preparar as edições periódicas do Formulário Nacional e da Farmacopéia
 
 V - emitir parecer sôbre processos de industrialização de fórmulas oficinais ou produtos que lhe são equiparados, atendendo às vantagens terapêuticas ou de industrialização.
 
-<strong>Art</strong>. 22. Ao L.C.C.D.M. compete:
+**Art**. 22. Ao L.C.C.D.M. compete:
 
 I - examinar e analisar drogas, plantas medicinais, especialidades farmacêuticas, antisséticos, desinfetantes biológicos e químicos e quaisquer outras substâncias que interêssem à saúde pública;
 
@@ -188,7 +186,7 @@ X - editar publicações em que se ministrem a fabricantes de produtos bio-farma
 
 XI - manter intercâmbio com as instituições congêneres nacionais e estrangeiras, estabelecendo os entendimentos necessários à uniformização dos padrões e normas técnicas e serem observados na indústria biofarmacêutica.
 
-<strong>Art</strong>. 23. No âmbito das atribuições do L.C.C.D.M. compete:
+**Art**. 23. No âmbito das atribuições do L.C.C.D.M. compete:
 
 A) Ao Conselho Técnico
 
@@ -280,7 +278,7 @@ XI - organizar e manter atualizados a coleção de leis, decretos, ordens de ser
 
 XII - providenciar e fiscalizar a execução dos serviços de limpeza e conservação das dependências do L.C.C.D.M.
 
-<strong>Art</strong>. 24. À S.M. compete:
+**Art**. 24. À S.M. compete:
 
 I - fiscalizar o exercício das profissões de médico, veterinário, enfermeiro, obstetriz, ótico, massagista, pedicuro e outros afins, exceto as profissões odontológica e farmacêutica;
 
@@ -288,7 +286,7 @@ II - colaborar com S.E., no contrôle de entorpecentes, fiscalizando o uso dos m
 
 III - providenciar, em caso de dúvida quanto ao emprêgo de entorpecentes, conferências médicas entre um representante do S.N.F.M.F., e o médico assistente do doente, a fim de impedir o uso indevido de entorpecentes no tratamento de estados mórbidos suscetíveis de outros tratamentos:
 
-IV - fiscalizar os laboratórios de análise e pesquisas clínicas, Raios X e <em>radium</em>; os gabinetes de fisio e psicoterapia, ortopedia, beleza e massagens, os estabelecimentos de balneoterapia, de ótica e de artigos de uso médico; os consultórios e ambulatórios médicos;
+IV - fiscalizar os laboratórios de análise e pesquisas clínicas, Raios X e *radium*; os gabinetes de fisio e psicoterapia, ortopedia, beleza e massagens, os estabelecimentos de balneoterapia, de ótica e de artigos de uso médico; os consultórios e ambulatórios médicos;
 
 V - exercer o contrôle dos anúncios das profissões referidas no item I dêste artigo e dos anúncios dos produtos de uso médico, qaulquer que seja o meio de divulgação usado;
 
@@ -316,13 +314,13 @@ b) - dos estabelecimentos referidos no item IV dêste artigo;
 
 XV - organizar e manter atualizado o registro, referente ao Distrito Federal, dos médicos e veterinários que se utilizam dos blocos de receituários de entorpecentes e das pessoas em cujo proveito são extraídas as receitas;
 
-XVI - promover a publicação, no <em>Diário Oficial,</em> da relação dos médicos, enfermeiros, parteiras, óticos, massagistas, pedicuros, etc. registra dos ou inscritos no S.N.F.M.F. e os que tiverem os registros de licença cassados pelo mesmo Serviço;
+XVI - promover a publicação, no *Diário Oficial,* da relação dos médicos, enfermeiros, parteiras, óticos, massagistas, pedicuros, etc. registra dos ou inscritos no S.N.F.M.F. e os que tiverem os registros de licença cassados pelo mesmo Serviço;
 
 XVII - apreciar os processos relativos aos acôrdos, ajustes, contratos e convênios a serem firmados pelo S.N.F.M.F. com as Unidades Federativas, colaborando, no que lhe competir, na elaboração de instruções e na orientação dos setores empenhados na fiscalização do exercício da medicina;
 
 XVIII - examinar as comprovações de aplicação de dotações concedidas pela União a entidades oficiais para realização de serviços de fiscalização da medicina, controlando, no que lhe competir, o enquadramento das despesas realizadas no plano aprovado.
 
-<strong>Art</strong>. 25. À S.E. compete:
+**Art**. 25. À S.E. compete:
 
 I - inspecionar qualquer local onde se pratique a cultura de plantas entorpecentes para extração e exploração de seus princípios ativos com finalidade terapêutica, bem como a indústria, transformação ou purificação dêsses princípios ativos, sua utilização, acondicionamento e comércio;
 
@@ -374,7 +372,7 @@ XXI - estudar todo expediente referente a entorpecentes enviado pela Organizaç�
 
 XXII - elaborar instruções especiais, de caráter geral, sôbre o uso e comércio de entorpecentes e opinar sôbre os projetos idênticos que devam ter aplicação nos Estados e Territórios.
 
-<strong>Art</strong>. 26. À S.F. compete:
+**Art**. 26. À S.F. compete:
 
 I - fiscalizar o exercício da profissão farmacêutica e das atividades afins;
 
@@ -406,7 +404,7 @@ XIV - coletar, quando necessário, amostras dos produtos oficinais manipulados n
 
 XV - colaborar na orientação e na fiscalização da profissão de farmacêutico nos Estados e Territórios, participando de convênios, acôrdo, contratos ou ajustes com êsse objetivo estabelecidas.
 
-<strong>Art</strong>. 27. A S.P.F. compete:
+**Art**. 27. A S.P.F. compete:
 
 I - fiscalizar a fabricação de drogas, especialidades farmacêuticas, antisséticos, desinfetantes, produtos biológicos e químicos e quaisquer outras substâncias que interessem a saúde pública, verificando se as mesmas obedecem as normas técnicas preconizadas pelos órgãos técnicos da S.N.F.;
 
@@ -436,9 +434,9 @@ XIII - fazer publicar semestralmente o nome dos laboratórios industriais licenc
 
 XIV - apreender e inutilizar, em colaboração com a S.F., o estoque das drogas, plantas, medicinais, antisséticos, desinfetantes, produtos biológicos e químico-farmacêuticos, de higiene e toucador ou quaisquer outras substancias que interessem a saúde pública e cuja venda não tenha sido licenciada ou tenha sido cancelada pelo ENFMF ou das substâncias que se apresentarem em estado de imprestabilidade para o consumo, ou em desacôrdo com o licenciamento;
 
-XV - promover a publicação, no <em>Diário</em> <em>Oficial</em>, da relação dos médicos impedidos de exercer a clínica por serem responsáveis pela fabricação de produtos biológicos;
+XV - promover a publicação, no *DiárioOficial*, da relação dos médicos impedidos de exercer a clínica por serem responsáveis pela fabricação de produtos biológicos;
 
-<strong>Art</strong>. 28. A S.A . compete:
+**Art**. 28. A S.A . compete:
 
 I - executar as atividades de administração geral do S.N.F.M.F., devendo, para isso, manter-se perfeitamente articulada com o Serviço de Administração do D.N.S., observando e fazendo observar normas e métodos de trabalho pelo mesmo prescritos;
 
@@ -482,11 +480,11 @@ XX - organizar e manter atualizada a coleção de leis, decretos, ordens de serv
 
 XXI - providenciar e fiscalizar a execução dos serviços de portaria, limpeza e conservação das dependências do S.N.F.M.F.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 29. Ao Diretor incumbe:
+**Art**. 29. Ao Diretor incumbe:
 
 I - dirigir, orientar, coordenar e supervisionar as atividades do S.N.F.M.F.;
 
@@ -558,7 +556,7 @@ XXXIV - constituir as subcomissões de especialistas nas matérias relacionadas 
 
 XXXV - delegar atribuições ao Diretor do LCCDM e aos Chefes de Seção, quando o exigirem os interêsses do serviço;
 
-<strong>Art</strong>. 30. Ao Diretor do L.C.C.D.M. incumbe:
+**Art**. 30. Ao Diretor do L.C.C.D.M. incumbe:
 
 I - dirigir, coordenar e supervisionar os trabalhos do L.C.C.D.M.;
 
@@ -620,7 +618,7 @@ XXIX - responder, por intermédio do Diretor, as consultas que lhe fôrem dirigi
 
 XXX - atribuir a membros do C.T. a editoração das publicações do L.C.C.D.M. e a orientação da aquisição de obras, revistas e periódicos para o Laboratório.
 
-<strong>Art</strong>. 31. Aos Chefes das Seções do S.N.F.M.F. do L.C.C.D.M. incumbe, além das atribuições a que se referem os itens I a III, V, XIII, XIV, XVII, do artigo anterior:
+**Art**. 31. Aos Chefes das Seções do S.N.F.M.F. do L.C.C.D.M. incumbe, além das atribuições a que se referem os itens I a III, V, XIII, XIV, XVII, do artigo anterior:
 
 I - fazer exigências nos processos distribuídos à Seção, quando autorizadas pelo Diretor;
 
@@ -628,7 +626,7 @@ II - zelar para que não sejam realizados quaisquer trabalhos, mesmo científico
 
 III - apresentar ao Diretor, quando solicitada, relação dos trabalhos executados pela Seção, anexando relações das amostras e processos recebidos para exames, análises ou pareceres, em que se consignem as datas de entrada e saída respectivas.
 
-<strong>Art</strong>. 32. Aos Secretários dos Diretores dos S.N.F.M.F. e L.C.C.D.M. incumbe:
+**Art**. 32. Aos Secretários dos Diretores dos S.N.F.M.F. e L.C.C.D.M. incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -636,23 +634,23 @@ II - redigir a correspondência pessoal do Diretor;
 
 III - encarregar-se de outras tarefas que lhe sejam cometidas pelo Diretor.
 
-<strong>Art</strong>. 33. Aos demais servidores sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 33. Aos demais servidores sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 34. O horário normal de trabalho do S.N.F.M.F. será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 34. O horário normal de trabalho do S.N.F.M.F. será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 35. O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de horas semanais estabelecido para o Serviço Público Civil, sendo a freqüência apurada por meio de boletins diários de produção.
+**Art**. 35. O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de horas semanais estabelecido para o Serviço Público Civil, sendo a freqüência apurada por meio de boletins diários de produção.
 
-<strong>Art</strong>. 36. Os Diretores do S.N.F.M.F. e do L.C.C.D.M. não estão sujeitos a ponto, devendo, porém, observar o disposto no art. 5º da Lei nº 2.188, de 3 de março de 1953.
+**Art**. 36. Os Diretores do S.N.F.M.F. e do L.C.C.D.M. não estão sujeitos a ponto, devendo, porém, observar o disposto no art. 5º da Lei nº 2.188, de 3 de março de 1953.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 37. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 37. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - O Diretor do S.N.F.M.F., pelo Diretor do L.C.C.D.M. ou por um dos chefes de Seção por êle designado prèviamente;
 
@@ -660,36 +658,36 @@ II - os Chefes de Seção por servidores designados pelo Diretor do S.N.F.M.F.;
 
 III - o Diretor do L.C.C.D.M. por um dos chefes de Seção do Laboratório por êle designado prèviamente.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 38. No cumprimento de suas finalidades, o S.N.F.M.F. poderá articular-se com os Estados e Territórios, mediante acôrdos, convênios, ajustes e contratos firmados pelo Ministro de Estado.
+**Art**. 38. No cumprimento de suas finalidades, o S.N.F.M.F. poderá articular-se com os Estados e Territórios, mediante acôrdos, convênios, ajustes e contratos firmados pelo Ministro de Estado.
 
-<strong>Art</strong>. 39. O pessoal do S.N.F.M.F. é obrigado a trabalhar em qualquer ponto do território nacional para onde fôr designado, quando assim o exigirem as necessidades do serviço, a critério do Diretor o S.N.F.M.F.
+**Art**. 39. O pessoal do S.N.F.M.F. é obrigado a trabalhar em qualquer ponto do território nacional para onde fôr designado, quando assim o exigirem as necessidades do serviço, a critério do Diretor o S.N.F.M.F.
 
-<strong>Art</strong>. 40. Os servidores que desempenhem atribuições de natureza técnica, quando em serviço fora da sede, serão obrigados a relatar, resumidamente, as suas atividades e, bem assim as ocorrências de interêsse do serviço, enviando-as, periòdicamente, aos seus respectivos chefes que as submeterão, quando julgarem convenientes, à apreciação do Diretor do S.N.F.M.F.
+**Art**. 40. Os servidores que desempenhem atribuições de natureza técnica, quando em serviço fora da sede, serão obrigados a relatar, resumidamente, as suas atividades e, bem assim as ocorrências de interêsse do serviço, enviando-as, periòdicamente, aos seus respectivos chefes que as submeterão, quando julgarem convenientes, à apreciação do Diretor do S.N.F.M.F.
 
-<strong>Art</strong>. 41. As análises e os exames de drogas, de plantas medicinais de especialidades farmacêuticas, de produtos biológicos, químicos e farmacêuticos, de higiene e toucador, antisséticos e quaisquer outras substâncias que interessem a saúde pública poderão ficar, nos Estados a cargo das seções regionais de análise e, enquanto estas não forem criadas, a cargo dos laboratórios oficiais, em virtude de convênios celebrados com a União.
+**Art**. 41. As análises e os exames de drogas, de plantas medicinais de especialidades farmacêuticas, de produtos biológicos, químicos e farmacêuticos, de higiene e toucador, antisséticos e quaisquer outras substâncias que interessem a saúde pública poderão ficar, nos Estados a cargo das seções regionais de análise e, enquanto estas não forem criadas, a cargo dos laboratórios oficiais, em virtude de convênios celebrados com a União.
 
 Parágrafo Único. Os serviços estaduais incumbidos da execução do disposto no artigo acima enviarão ao Diretor do S.N.F.M.F. uma relação mensal dos seus trabalhos, da qual constarão a data da apresentação das respectivas amostras para análise, assim como a data em que esta foi concluída e entregue.
 
-<strong>Art</strong>. 42. Das decisões do Diretor do L.C.C.D.M. e dos Chefes de Seção caberá recurso ao Diretor do S.N.F.M.F., dentro do prazo de 15 (quinze) dias da decisão recorrida.
+**Art**. 42. Das decisões do Diretor do L.C.C.D.M. e dos Chefes de Seção caberá recurso ao Diretor do S.N.F.M.F., dentro do prazo de 15 (quinze) dias da decisão recorrida.
 
-<strong>Art</strong>. 43. Das decisões do Diretor do S.N.F.M.F. é facultado o recurso ao Diretor do D.N.S., dentro do prazo de 60 (sessenta) dias da data do despacho.
+**Art**. 43. Das decisões do Diretor do S.N.F.M.F. é facultado o recurso ao Diretor do D.N.S., dentro do prazo de 60 (sessenta) dias da data do despacho.
 
-<strong>Art</strong>. 44. Os trabalhos realizados nas seções do S.N.F.M.F. ou no L.C.C.D.M. poderão destinar-se a revistas científicas nacionais ou estrangeiras, mediante autorização prévia do Diretor do S.N.F.M.F. ou do L.C.C.D.M., respectivamente, e indicação da origem.
+**Art**. 44. Os trabalhos realizados nas seções do S.N.F.M.F. ou no L.C.C.D.M. poderão destinar-se a revistas científicas nacionais ou estrangeiras, mediante autorização prévia do Diretor do S.N.F.M.F. ou do L.C.C.D.M., respectivamente, e indicação da origem.
 
-<strong>Art</strong>. 45. Os técnicos do S.N.F.M.F. colaborarão nas publicações do Serviço com trabalhos selecionados, de sua autoria os quais expressem os resultados das atividades do setor onde trabalham ou traduzam comunicações, estudos, observações ou contribuições.
+**Art**. 45. Os técnicos do S.N.F.M.F. colaborarão nas publicações do Serviço com trabalhos selecionados, de sua autoria os quais expressem os resultados das atividades do setor onde trabalham ou traduzam comunicações, estudos, observações ou contribuições.
 
-<strong>Art</strong>. 46. Os servidores do S.N.F.M.F. não poderão fazer publicações, conferências ou dar entrevistas sôbre assuntos que se relacionem com a orientação técnica ou administrativa do Serviço, sem autorização do Diretor.
+**Art**. 46. Os servidores do S.N.F.M.F. não poderão fazer publicações, conferências ou dar entrevistas sôbre assuntos que se relacionem com a orientação técnica ou administrativa do Serviço, sem autorização do Diretor.
 
-<strong>Art</strong>. 47. O S.N.F.M.F. opinará quando consultado pelas autoridades competentes, nas questões relativas à importação de medicamentos e matérias-primas indispensáveis à indústria farmacêutica nacional.
+**Art**. 47. O S.N.F.M.F. opinará quando consultado pelas autoridades competentes, nas questões relativas à importação de medicamentos e matérias-primas indispensáveis à indústria farmacêutica nacional.
 
-<strong>Art</strong>. 48. Com a aprovação do Diretor do S.N.F.M.F., o L.C.C.D.M. poderá, também, efetuar exames e análises de sua competência, quando requeridos por entidades privadas, satisfeitas as exigências da legislação em vigor.
+**Art**. 48. Com a aprovação do Diretor do S.N.F.M.F., o L.C.C.D.M. poderá, também, efetuar exames e análises de sua competência, quando requeridos por entidades privadas, satisfeitas as exigências da legislação em vigor.
 
-<strong>Art</strong>. 49. Com a finalidade de favorecer à indústria farmacêutica nacional, poderão ser admitidos nas seções técnicas do L.C.C.D.M. estagiários já portadores de diplomas de curso de nível superior, devendo ser fixadas pelo Diretor do Laboratório as normas a serem observadas pelos mesmos.
+**Art**. 49. Com a finalidade de favorecer à indústria farmacêutica nacional, poderão ser admitidos nas seções técnicas do L.C.C.D.M. estagiários já portadores de diplomas de curso de nível superior, devendo ser fixadas pelo Diretor do Laboratório as normas a serem observadas pelos mesmos.
 
 Rio de Janeiro, em 29 de julho de 1957.
 
-<strong>MAURÍCIO DE MEDEIROS</strong>
+**MAURÍCIO DE MEDEIROS**

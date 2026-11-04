@@ -1,5 +1,3 @@
-###DEC-059212-0-000-15-09-1966@@@
-
 Decreto nº 59.212, de 15 de setembro de 1966.
 
 Cria funções gratificadas no Quadro do Pessoal do Departamento Administrativo do Serviço Público.

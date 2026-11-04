@@ -1,5 +1,3 @@
-###DEC-052991-0-000-27-11-1963@@@
-
 Decreto nº 52.991, de 27 de novembro de 1963.
 
 Outorga ao Município de Carlos Chagas, Estado de Minas Gerais, concessão para distribuir energia elétrica.

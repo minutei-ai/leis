@@ -1,5 +1,3 @@
-###DEC-067921-0-000-22-12-1970@@@
-
 DECRETO Nº 67.921, DE 22 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas ao estabelecimento de linhas de transmissão no Estado de Goiás.

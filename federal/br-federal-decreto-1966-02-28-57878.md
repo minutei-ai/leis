@@ -1,5 +1,3 @@
-###DEC-057878-0-000-28-02-1966@@@
-
 DECRETO Nº 57.878, DE 28 DE FEVEREIRO DE 1966.
 
 Altera a taxa de conversão para as operações de receita e despesa realizadas no Exterior e dá outras providências.

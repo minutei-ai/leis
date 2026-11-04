@@ -1,5 +1,3 @@
-###DEL-003387-0-000-03-07-1941@@@
-
 DECRETO-LEI N. 3.387 – DE 3 DE JULHO DE 1941
 
 Cria funções gratificadas no Quadro Permanente (Q. P.) do Ministério da Fazenda e dá outras providências.

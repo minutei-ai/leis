@@ -1,5 +1,3 @@
-###DEC-091692-0-000-26-09-1985@@@
-
 DecrEtO nº 91.692, de 26 de SETEMBRO dE 1985.
 
 Revoga o Decreto nº 66.069, de 14 de janeiro de 1970, que aprova o Regulamento da Diretoria de Ensino da Marinha.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098073-0-000-21-08-1989@@@
-
 DECRETO N° 98.073, DE 21 DE AGOSTO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem do ramal de linha de transmissão da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

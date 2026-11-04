@@ -1,5 +1,3 @@
-###DEC-049128-0-000-20-10-1960@@@
-
 DECRETO Nº 49.128, DE 20 DE OUTUBRO DE 1960.
 
 Cria cargos e funções gratificadas no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargos e dá outras providências.

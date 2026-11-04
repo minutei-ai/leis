@@ -1,42 +1,40 @@
-###DEC-038661-0-000-26-01-1956@@@
+**DECRETO Nº 38.661, DE 26 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.661, DE 26 DE JANEIRO DE 1956.</strong>
+***Aprova o Regimento do Serviço de Estatística da Educação e Cultura.***
 
-<em><strong>Aprova o Regimento do Serviço de Estatística da Educação e Cultura.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL,** no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL,</strong> no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço de Estatística da Educação e Cultura (S. E. E. C. ) que com êste baixa, assinado pelo Ministro de Estado da Educação e Cultura.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço de Estatística da Educação e Cultura (S. E. E. C. ) que com êste baixa, assinado pelo Ministro de Estado da Educação e Cultura.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de janeiro de 1956, 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Abgar Renault
 
-<strong>REGIMENTO DO SERVIÇO DE ESTATÍSTICA DA EDUCAÇÃO E CULTURA.</strong>
+**REGIMENTO DO SERVIÇO DE ESTATÍSTICA DA EDUCAÇÃO E CULTURA.**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Serviço de Estatística da Educação e Cultura (S.E.E.C.), criado pela Lei nº 378, de 13 de janeiro de 1937, órgão integrante do Ministério da Educação e Cultura (M.E.C.), diretamente subordinado ao Ministro de Estado, sob orientação técnica do Conselho Nacional de Estatística (C.N.E.), um dos órgãos executivos centrais do Instituto Brasileiro de Geografia e Estatística (I.B.G.E.), tem por finalidade:
+**Art**. 1º O Serviço de Estatística da Educação e Cultura (S.E.E.C.), criado pela Lei nº 378, de 13 de janeiro de 1937, órgão integrante do Ministério da Educação e Cultura (M.E.C.), diretamente subordinado ao Ministro de Estado, sob orientação técnica do Conselho Nacional de Estatística (C.N.E.), um dos órgãos executivos centrais do Instituto Brasileiro de Geografia e Estatística (I.B.G.E.), tem por finalidade:
 
 I - levantar as estatísticas referentes às atividades educacionais e culturais do país;
 
 II - promover-lhes a divulgação, em publicações próprias ou por intermédio do S.D. e I.B.G.E.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 2º O S. E. E. C. compõe-se dos seguintes órgãos:
+**Art**. 2º O S. E. E. C. compõe-se dos seguintes órgãos:
 
 I - Seção de Ensino Primário (S. E. P.)
 
@@ -54,21 +52,21 @@ VII - Seção de Administração (S.A.)
 
 VIII - Portaria (P.)
 
-<strong>Art</strong>. 3º O S. E. E. C. terá um Diretor nomeado em comissão, pelo Presidente da República.
+**Art**. 3º O S. E. E. C. terá um Diretor nomeado em comissão, pelo Presidente da República.
 
-<strong>Art</strong>. 4º O Diretor terá um Secretário, por ele designado dentre servidores públicos federais.
+**Art**. 4º O Diretor terá um Secretário, por ele designado dentre servidores públicos federais.
 
-<strong>Art</strong>. 5º A S. E. P. a S. E. E., a S. E. A., A S.A. e a P. terão Chefes, designados pelo Diretor do S. E. E. C. dentre servidores públicos federais.
+**Art**. 5º A S. E. P. a S. E. E., a S. E. A., A S.A. e a P. terão Chefes, designados pelo Diretor do S. E. E. C. dentre servidores públicos federais.
 
-<strong>Art</strong>. 6º Serão gratificadas as funções indicadas nos arts 4º e 5º.
+**Art**. 6º Serão gratificadas as funções indicadas nos arts 4º e 5º.
 
-<strong>Art</strong>. 7º Os órgãos que integram o S. E. E. C. funcionarão perfeitamente coordenados em regime de colaboração, sob a orientação e supervisão do Diretor.
+**Art**. 7º Os órgãos que integram o S. E. E. C. funcionarão perfeitamente coordenados em regime de colaboração, sob a orientação e supervisão do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência e estrutura dos órgãos</em>
+*Da competência e estrutura dos órgãos*
 
-<strong>Art</strong>. 8º À S. E. P. compete:
+**Art**. 8º À S. E. P. compete:
 
 I - cooperar com as repartições regionais, participantes do Convênio de Estatísticas Educacionais e conexas, para a execução dos trabalhos de estatística do ensino primário em geral;
 
@@ -78,7 +76,7 @@ III - criticar as contribuições enviadas pelas repartições regionais, prepar
 
 IV - colaborar nos trabalhos que visem o aperfeiçoamento a uniformização dos registros escolares relacionados com a estatística a seu cargo.
 
-<strong>Art</strong>. 9º À S. E. E. compete:
+**Art**. 9º À S. E. E. compete:
 
 I - proceder à coleta de dados e criticá-los, com o fim de apurar e elaborar as estatísticas referentes a:
 
@@ -92,7 +90,7 @@ III - cooperar com os estabelecimentos de ensino na organização, no aperfeiço
 
 IV - fazer a fusão das estatísticas que elabora com as do ensino primário em geral, seguindo plano aprovado pelo Diretor.
 
-<strong>Art</strong>. 10. À S. E. C. compete proceder à coleta de dados e criticá-los, com o fim de apurar e elaborar as estatísticas referentes a:
+**Art**. 10. À S. E. C. compete proceder à coleta de dados e criticá-los, com o fim de apurar e elaborar as estatísticas referentes a:
 
 I - bibliotecas e museus não privativos de educandários;
 
@@ -140,15 +138,15 @@ XXII - excursionismo;
 
 XXIII - escotismo.
 
-<strong>Art</strong>. 11. À A. S. D. C. compete proceder à coleta de dados e criticá-los, com o fim de apurar e elaborar as estatísticas referentes às despesas públicas com o ensino e a cultura.
+**Art**. 11. À A. S. D. C. compete proceder à coleta de dados e criticá-los, com o fim de apurar e elaborar as estatísticas referentes às despesas públicas com o ensino e a cultura.
 
 Parágrafo único. À S. D. C. compete, ainda realizar pesquisas estatísticas relativas aos demais fatos concernentes ao custeio das atividades culturais no país, respeitadas, porém, as atribuições das outras Seções do S. E. E. C. e das demais repartições centrais do sistema estatístico federal.
 
-<strong>Art</strong>. 12. À S. A. M. compete promover, em cooperação com as outras Seções do S. E. E. C., os trabalhos de codificação e os de perfuração e apuração mecânica de cadastros e computos estatísticos da competência das demais Seções.
+**Art**. 12. À S. A. M. compete promover, em cooperação com as outras Seções do S. E. E. C., os trabalhos de codificação e os de perfuração e apuração mecânica de cadastros e computos estatísticos da competência das demais Seções.
 
 Parágrafo único. A chefia da S. A. M. será exercida, obrigatoriamente, por funcionário especializado em apuração mecânica, dos quadros de serviço estatístico federal.
 
-<strong>Art</strong>. 13. À A. E. A. compete:
+**Art**. 13. À A. E. A. compete:
 
 I - proceder à análise dos trabalhos estatísticos realizados pelas outras Seções;
 
@@ -174,7 +172,7 @@ XI - organizar registrar e conservar a documentação gráfica do S. E. E. C.;
 
 XII - organizar e manter em dia a documentação informativa de natureza doutrinária, técnica ou científica e colecionar cópias dos trabalhos elaborados pelo S. E. E. C., recortes de jornais, publicações e quaisquer informações necessárias aos interêsses da repartição.
 
-<strong>Art</strong>. 14. À S. A. compete:
+**Art**. 14. À S. A. compete:
 
 I - elaborar o expediente, a escrituração e os registros, de interêsse imediato do S. E. E. C., relativos à administração de pessoal, material e orçamento, em harmonia com os órgãos de administração geral do M. E. C., cujas normas e métodos de trabalho deverá observar;
 
@@ -184,7 +182,7 @@ III - reunir os elementos necessários ao preparo do relatório anual do S. E. E
 
 IV - organizar e submeter à aprovação do Diretor a escala de férias dos servidores em exercício no S. E. E. C. ouvidos os respectivos chefes imediatos.
 
-<strong>Art</strong>. 15, À P. compete:
+**Art**. 15, À P. compete:
 
 I - diligenciar o bom estado de conservação e limpeza das instalações e dependências do S. E. E. C;
 
@@ -194,11 +192,11 @@ III - prestar informações às pessoas que se dirigirem ao S. E. E. C.;
 
 IV - executar serviços de entrega e distribuição de expediente.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 16. Ao Diretor do S. E. E. C, incumbe:
+**Art**. 16. Ao Diretor do S. E. E. C, incumbe:
 
 I - dirigir as atividades do S. E. E. C., incentivando e coordenando o trabalho dos seus vários órgãos, com o objetivo de conduzi-lo à plena realização de suas finalidades;
 
@@ -246,7 +244,7 @@ XXII - autorizar a expedição de certidões;
 
 XXIII - determinar a publicação dos trabalhos elaborados pelo S. E. E. C.;
 
-<strong>Art</strong>. 17. Aos Chefes de Seção incumbe:
+**Art**. 17. Aos Chefes de Seção incumbe:
 
 I - dirigir, distribuir, coordenar e fiscalizar a execução dos trabalhos das suas respectivas Seções, propondo ao Diretor as medidas conveniente ao seu desenvolvimento;
 
@@ -262,7 +260,7 @@ VI - despachar, pessoalmente, com o Diretor;
 
 VII - apresentar, mensalmente, ao Diretor, um boletim dos trabalhos da Seção e, anualmente, um relatório dos trabalhos planejados, em andamento e realizados.
 
-<strong>Art</strong>. 18. Aos Chefes das S. E. P., S. E. E., S. E. C., D. C., S. A. M. e S. E. A, além do enumerado no artigo anterior, incumbe:
+**Art**. 18. Aos Chefes das S. E. P., S. E. E., S. E. C., D. C., S. A. M. e S. E. A, além do enumerado no artigo anterior, incumbe:
 
 I - organizar, anualmente, o plano de trabalho da seção e submetê-lo à aprovação do Diretor;
 
@@ -276,7 +274,7 @@ V - organizar os originais da série especial de tabelas sistemáticas destinada
 
 VI - propor ao Diretor os servidores que poderão ser designados para executar, fora da repartição, serviços de colheita e outros de interêsse de Seção.
 
-<strong>Art</strong>. 19. Ao Chefe da P. incumbe:
+**Art**. 19. Ao Chefe da P. incumbe:
 
 I - dirigir, distribuir, coordenar e fiscalizar os trabalhos;
 
@@ -290,7 +288,7 @@ V - elaborar e submeter à aprovação do Diretor a escala de férias do pessoal
 
 VI - propor ao Diretor a escala de serviço do pessoal subordinado à Portaria;
 
-<strong>Art</strong>. 20. Ao Secretário do Diretor incumbe:
+**Art**. 20. Ao Secretário do Diretor incumbe:
 
 I - atender as pessoas que se dirigirem ao Gabinete do Diretor;
 
@@ -300,52 +298,52 @@ III - redigir a correspondência do Diretor;
 
 IV - auxiliar o Diretor na elaboração dos seus trabalhos.
 
-<strong>Art</strong>. 21. Aos servidores com exercício no S. E. E. C., que não tenham atribuições especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelo Chefe imediato.
+**Art**. 21. Aos servidores com exercício no S. E. E. C., que não tenham atribuições especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelo Chefe imediato.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 22. O S. E. E. C. terá lotação aprovada em ato especial.
+**Art**. 22. O S. E. E. C. terá lotação aprovada em ato especial.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 23. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o serviço público.
+**Art**. 23. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o serviço público.
 
-<strong>Art</strong>. 24. O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de horas semanais ou mensais, fixado para o serviço público civil, sendo a freqüência apurada por meio de boletins diários de produção.
+**Art**. 24. O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de horas semanais ou mensais, fixado para o serviço público civil, sendo a freqüência apurada por meio de boletins diários de produção.
 
-<strong>Art</strong>. 25. O Diretor não está sujeito a ponto.
+**Art**. 25. O Diretor não está sujeito a ponto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 26. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 26. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - O Diretor, mediante indicação sua e designação do Ministro, por um dos Chefes de Seção;
 
 II - Os Chefes de Seção e o Chefe da P. por servidores designados pelo Diretor.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 27. Mediante instruções de serviço do respectivo Chefe, as Seções poderão desdobrar-se em turmas.
+**Art**. 27. Mediante instruções de serviço do respectivo Chefe, as Seções poderão desdobrar-se em turmas.
 
 Parágrafo único. - Na S. A. haverá um encarregado da freqüência e um encarregado do protocolo.
 
-<strong>Art</strong>. 28. Nenhum servidor poderá, sem autorização escrita do Diretor, publicar trabalho ou conferência nem dar entrevista sôbre assunto que se relacione com a organização e as atividades do S. E. E. C.
+**Art**. 28. Nenhum servidor poderá, sem autorização escrita do Diretor, publicar trabalho ou conferência nem dar entrevista sôbre assunto que se relacione com a organização e as atividades do S. E. E. C.
 
-<strong>Art</strong>. 29. Os trabalhos realizados no S. E. E. C. poderão ser publicados em revistas científicas nacionais ou estrangeiras, desde que haja autorização do Diretor e neles figure, como subtítulo, a expressão “Trabalho do Serviço de Estatística da Educação e Cultura”.
+**Art**. 29. Os trabalhos realizados no S. E. E. C. poderão ser publicados em revistas científicas nacionais ou estrangeiras, desde que haja autorização do Diretor e neles figure, como subtítulo, a expressão “Trabalho do Serviço de Estatística da Educação e Cultura”.
 
-<strong>Art</strong>. 30. A juízo do Diretor, poderão ser incluídos, em publicações do S. E. E. C., trabalhos relevantes de técnicos a êle estranhos desde que versem assuntos relacionados com as suas finalidades.
+**Art**. 30. A juízo do Diretor, poderão ser incluídos, em publicações do S. E. E. C., trabalhos relevantes de técnicos a êle estranhos desde que versem assuntos relacionados com as suas finalidades.
 
-<strong>Art</strong>. 31. Os casos omissos, que envolvam matéria regimental, serão resolvidos pelo Ministro.
+**Art**. 31. Os casos omissos, que envolvam matéria regimental, serão resolvidos pelo Ministro.
 
-<strong>Art</strong>. 32. Êste Regimento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 32. Êste Regimento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 26 de janeiro de 1956.
 
-<strong>ABGAR RENAULT</strong>
+**ABGAR RENAULT**

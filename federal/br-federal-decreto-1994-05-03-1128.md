@@ -1,7 +1,3 @@
-1
-
-###DEC-001128-0-000-03-05-1994@@@
-
 DECRETO N° 1.128, DE 3 DE MAIO DE 1994
 
 Dispõe sobre a execução do Vigésimo Protocolo Adicional ao Acordo de Complementação Econômica n° 14, entre Brasil e Argentina, de 20 de setembro de 1993.

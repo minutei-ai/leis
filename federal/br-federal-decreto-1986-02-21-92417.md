@@ -1,5 +1,3 @@
-###DEC-092417-0-000-21-02-1986@@@
-
 DECRETO Nº 92.417, DE 21 DE FEVEREIRO DE 1986
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DA CAMPANHA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Campanha, Estado de Minas Gerais.

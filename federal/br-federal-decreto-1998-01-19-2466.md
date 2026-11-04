@@ -1,5 +1,3 @@
-###DEC-002466-0-000-19-01-1998@@@
-
 DECRETO Nº 2.466, DE 19 DE JANEIRO DE 1998
 
 Promulga o Acordo de Cooperação para o Combate ao Narcotráfico e à Farmacodependência, celebrado entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos Mexicanos.
@@ -136,4 +134,18 @@ Em fé do que, os abaixo assinados, devidamente autorizados por seus respectivos
 
 Feito na Cidade do México, em 18 de novembro de 1996, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:24.48pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:197.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td><td style="width:199.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo dos Estados</span></p></td></tr><tr><td style="width:197.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p></td><td style="width:199.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Unidos Amexicanos</span></p></td></tr><tr><td style="width:197.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Sebastião do Rego Barros</span></p></td><td style="width:199.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Rafael Estrada Sámano</span></p></td></tr><tr><td style="width:197.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Secretário-Geral das Relações Exteriores</span></p></td><td style="width:199.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Subprocurador jurídico da Procuradoria Geral da República</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo dos Estados
+
+Federativa do Brasil
+
+Unidos Amexicanos
+
+Sebastião do Rego Barros
+
+Rafael Estrada Sámano
+
+Secretário-Geral das Relações Exteriores
+
+Subprocurador jurídico da Procuradoria Geral da República

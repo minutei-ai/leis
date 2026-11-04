@@ -1,7 +1,3 @@
-1
-
-###DEC-099021-0-000-05-03-1990@@@
-
 DECRETO Nº 99.021, DE 5 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Decoração da Faculdade de Educação Artística das Faculdades Integradas Teresa D'Avila, em Lorena, Estado de São Paulo.

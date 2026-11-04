@@ -1,5 +1,3 @@
-###DEC-088934-0-000-31-10-1983@@@
-
 DECRETO Nº 88.934, DE 31 DE OUTUBRO DE 1983.
 
 Altera a cumulatividade da Missão diplomática do Brasil no Estado de Bareine.

@@ -1,5 +1,3 @@
-###DEC-069470-0-000-05-11-1971@@@
-
 DECRETO Nº 69.470 - DE 5 DE NOVEMBRO DE 1971
 
 Outorga à Companhia Brasileira de Alumínio concessão para o aproveitamento hidráulico de um trecho do rio Assungui, no Estado de São Paulo.

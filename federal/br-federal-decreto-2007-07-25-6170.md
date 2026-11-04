@@ -1,5 +1,3 @@
-###DEC-006170-0-000-25-07-2007@@@
-
 DECRETO Nº 6.170, DE 25 DE JULHO DE 2007.
 
 Dispõe sobre as normas relativas às transferências de recursos da União mediante convênios e contratos de repasse, e dá outras providências.
@@ -183,5 +181,3 @@ Brasília, 25 de julho de 2007; 186º da Independência e 119º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 26.7.2007

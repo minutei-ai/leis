@@ -1,7 +1,3 @@
-1
-
-###DEC-000531-0-000-20-05-1992@@@
-
 DECRETO Nº 531, DE 20 DE MAIO DE 1992
 
 Cria, nos Estados do Rio Grande do Sul e Santa Catarina, o Parque Nacional da Serra Geral.

@@ -1,5 +1,3 @@
-###DEC-089078-0-000-29-11-1983@@@
-
 DECRETO Nº 89.078, DE 29 DE NOVEMBRO DE 1983
 
 Outorga concessão à RÁDIO DIFUSÃO EBENEZER LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

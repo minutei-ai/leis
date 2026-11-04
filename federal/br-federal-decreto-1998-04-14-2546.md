@@ -1,5 +1,3 @@
-###DEC-002546-0-000-14-04-1998@@@
-
 DECRETO Nº 2.546, DE 14 DE ABRIL DE 1998
 
 Aprova o modelo de reestruturação e desestatização das empresas federais de telecomunicações supervisionadas pelo Ministério das Comunicações.

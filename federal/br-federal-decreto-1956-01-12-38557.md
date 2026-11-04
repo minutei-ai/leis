@@ -1,14 +1,12 @@
-###DEC-038557-0-000-12-01-1956@@@
+**DECRETO Nº 38.557, DE 12 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.557, DE 12 DE JANEIRO DE 1956.</strong>
+***Altera o Decreto de nº 37.514, de 22 de junho 1955 que criou a Comissão Executiva da Rede Nacional de Armazéns e Silos.***
 
-<em><strong>Altera o Decreto de nº 37.514, de 22 de junho 1955 que criou a Comissão Executiva da Rede Nacional de Armazéns e Silos.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo do PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o art. 87, nº I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo do PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o art. 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Decreto nº 37.514, de 22 de junho de 1955, que criou a Comissão Executiva da Rede Nacional de Armazéns e Silos, passa a vigorar com a seguinte redação e alterações que a seguir se especificam.
+**Art**. 1º O Decreto nº 37.514, de 22 de junho de 1955, que criou a Comissão Executiva da Rede Nacional de Armazéns e Silos, passa a vigorar com a seguinte redação e alterações que a seguir se especificam.
 
 “Art. 1º Fica criada a Comissão Executiva da Rede Nacional de Armazéns e Silos (CERNAS), diretamente subordinada ao Presidente da República e integrada por uma Diretoria Executiva e um Conselho Consultivo.’
 
@@ -56,11 +54,11 @@ c) tomar conhecimento e aprovar previamente os planos que se relacionem com os p
 
 “Art. 12. Os trabalhos da Comissão Executiva da Rêde Nacional de Armazéns e Silos constituem relevante serviço prestado ao país.”
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio da Janeiro, 12 de janeiro de 1956; 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 F. de Menezes Pimentel
 

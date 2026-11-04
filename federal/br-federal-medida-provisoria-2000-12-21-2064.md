@@ -1,5 +1,3 @@
-###MPV-002064-0-000-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.064, DE 21 DE dezembro DE 2000.
 
 Dispõe sobre a especialização das sociedades seguradoras em planos privados de assistência à saúde e dá outras providências.

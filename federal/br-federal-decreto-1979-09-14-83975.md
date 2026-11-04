@@ -1,5 +1,3 @@
-###DEC-083975-0-000-14-09-1979@@@
-
 Decreto nº 83.975, de 14 de setembro de 1979.
 
 Outorga à Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE concessão para o aproveitamento da energia hidráulica de um trecho do rio Jamari, no Município de Porto Velho, Território Federal de Rondônia.

@@ -1,5 +1,3 @@
-###DEL-004139-0-000-27-02-1942@@@
-
 DECRETO-LEI N. 4.139 – DE 27 DE FEVEREIRO DE 1942
 
 Concede uma pensão especial à genitora de um oficial do Exército

@@ -1,5 +1,3 @@
-###DEC-047334-0-000-02-12-1959@@@
-
 DECRETO Nº 47.334, DE 2 DE dezembro DE 1959.
 
 Autoriza o cidadão brasileiro Agenor Cândido da Silva a pesquisar mica no município de Virgolândia, Estado de Minas Gerais.

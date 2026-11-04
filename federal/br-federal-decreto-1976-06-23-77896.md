@@ -1,5 +1,3 @@
-###DEC-077896-0-000-23-06-1976@@@
-
 DECRETO Nº 77.896, DE 23 DE JUNHO DE 1976.
 
 Declara a caducidade da concessão outorgada à Fosforita Olinda S.A. - FASA, para lavrar fosfato no Município de Igarassu, Estado de Pernambuco.

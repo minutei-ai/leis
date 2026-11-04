@@ -1,5 +1,3 @@
-###DEC-049235-0-000-16-11-1960@@@
-
 DECRETO Nº 49.235, DE 16 DE NOVEMBRO DE 1960.
 
 abre ao Tribunal Federal de Recursos o crédito especial de Cr$87.000.000,00 para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-091262-0-000-22-05-1985@@@
-
 Decreto nº 91.262, de 22 de maio de 1985
 
 Autoriza o funcionamento do curso de Desenho Industrial da Faculdade de Desenho de Tatuí.

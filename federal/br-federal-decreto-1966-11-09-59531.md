@@ -1,5 +1,3 @@
-###DEC-059531-0-000-09-11-1966@@@
-
 DECRETO Nº 59.531, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Olympio Carneiro Viana a pesquisar galena e fluorita no município de Manga, Estado de Minas Gerais.

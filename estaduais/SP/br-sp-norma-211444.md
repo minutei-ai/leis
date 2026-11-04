@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211444)<br>
-
 # DECRETO N° 69.865, DE 15 DE SETEMBRO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante concessão de uso, a título gratuito e por prazo determinado, do Município de Franco da Rocha, o imóvel que especifica._

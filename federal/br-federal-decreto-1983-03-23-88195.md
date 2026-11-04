@@ -1,5 +1,3 @@
-###DEC-088195-0-000-23-03-1983@@@
-
 Decreto nº 88.195, De 23 de março de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A.-ELETROSUL, nos Estados do Paraná e Santa Catarina.

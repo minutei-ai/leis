@@ -1,5 +1,3 @@
-###DEC-054884-0-000-04-11-1964@@@
-
 Decreto nº 54.884, de 4 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Zacki Curi a pesquisar cassiterita no município de Pôrto Grande, Território Federal do Amapá.

@@ -1,14 +1,12 @@
-###DEC-042656-0-000-18-11-1957@@@
+**DECRETO Nº 42.656, DE 18 DE NOVEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.656, DE 18 DE NOVEMBRO DE 1957.</strong>
+***Transfere, sem aumento de despesas, funções de Tabelas Numéricas Especiais de Extranumerário-mensalistas do Ministério da Agricultura, que menciona, e dá outras providências.***
 
-<em><strong>Transfere, sem aumento de despesas, funções de Tabelas Numéricas Especiais de Extranumerário-mensalistas do Ministério da Agricultura, que menciona, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista, do Ministério da Agricultura, abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista, do Ministério da Agricultura, abaixo indicadas:
 
 I - uma (1) função de Trabalhador Rural, referência 19, ocupada por Antonio de Alencar Rangel, da Tabela Numérica Especial de Extranumerário-mensalista da Estação Experimental de Belém, no Estado do Pará, do Instituto Agronômico do Norte, para idêntica tabela do Instituto de Ecologia e Experimentação Agrícola, ambas do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas;
 
@@ -20,12 +18,12 @@ IV - uma (1) função de Auxiliar de Apicultor, referência 19, ocupada por Dioc
 
 V - uma (1) função do Artífice, referência 17, ocupada por Irakena Nunes Weber, da Tabela Numérica Especial de Extranumerário-mensalista da Divisão de Fomento da Produção Mineral - Turma da Diretoria - do Departamento Nacional da Produção Mineral, para idêntica tabela da Divisão de Geologia e Mineralogia, do mesmo Departamento.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 18 de novembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

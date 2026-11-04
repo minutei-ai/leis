@@ -1,5 +1,3 @@
-###DEC-060015-0-000-10-01-1967@@@
-
 DECRETO Nº 60.015, DE 10 DE JANEIRO DE 1967.
 
 Concede a Tozzo & Companhia Ltda., autorização para funcionar como emprêsa de mineração.

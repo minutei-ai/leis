@@ -1,5 +1,3 @@
-###DEC-082978-0-000-03-01-1979@@@
-
 Decreto nº 82.978, de 03 de janeiro de 1979
 
 Concede à Mineração Jundu S.A. o direito de lavrar areia quartzosa no Município de Descalvado, Estado de São Paulo.

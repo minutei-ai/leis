@@ -1,14 +1,12 @@
-###DEC-026084-0-000-27-12-1948@@@
+**DECRETO Nº 26.084, DE 27 DE DEZEMBRO DE 1948.**
 
-<strong>DECRETO Nº 26.084, DE 27 DE DEZEMBRO DE 1948.</strong>
+***Altera o Título II do Regulamento para os Grande Comandos.***
 
-<em><strong>Altera o Título II do Regulamento para os Grande Comandos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º O título II do Regulamento para os Grande Comandos, aprovado pelo Decreto n.º 21.816, de 4 de setembro de 1946, passa a ter a seguinte redação:
+**Art**. 1.º O título II do Regulamento para os Grande Comandos, aprovado pelo Decreto n.º 21.816, de 4 de setembro de 1946, passa a ter a seguinte redação:
 
 “DAS SUBSTITUIÇÕES TEMPORÁRIAS
 
@@ -38,8 +36,8 @@ Parágrafo único. Se o Sub-comandante de Divisão estiver justapôsto ao comand
 
 Art. 23. Sempre que, da execução das disposições anteriores, resultar ficarem algumas autoridades subordinadas a comando ou repartição a cargo de oficial sobre o qual tenham precedência hierárquica, as relações entre eles se limitarão ao encaminhamento de documentos que serão resolvidos pela autoridade superior” .
 
-<strong>Art</strong>. 2.º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário
+**Art**. 2.º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário
 
 Rio de Janeiro, em 27 de dezembro de 1948, 127.º da Independência e 60.º da República
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**

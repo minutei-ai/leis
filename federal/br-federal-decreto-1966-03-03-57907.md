@@ -1,5 +1,3 @@
-###DEC-057907-0-000-03-03-1966@@@
-
 DECRETO Nº 57.907, DE 3 DE MARÇO DE 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Estado de Santa Catarina.

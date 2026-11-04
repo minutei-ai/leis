@@ -1,8 +1,6 @@
-###EMC-000002-0-000-25-08-1992@@@
+**EMENDA CONSTITUCIONAL Nº 2, DE 1992**
 
-<strong>EMENDA CONSTITUCIONAL Nº 2, DE 1992</strong>
-
-<em><strong>Dispõe sobre o plebiscito previsto no art. 2º do Ato das Disposições Constitucionais Transitórias.</strong></em>
+***Dispõe sobre o plebiscito previsto no art. 2º do Ato das Disposições Constitucionais Transitórias.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
@@ -16,7 +14,7 @@ Artigo único.  O plebiscito de que trata o art. 2º do Ato das Disposições C
 
 Brasília, 25 de agosto de 1992.
 
-<strong>A MESA DA CÂMARA DOS DEPUTADOS</strong>
+**A MESA DA CÂMARA DOS DEPUTADOS**
 
 Deputado Ibsen Pinheiro
 
@@ -46,9 +44,9 @@ Deputado MAX ROSENMANN
 
 Quarto Secretário
 
-<strong>A MESA DO SENADO FEDERAL</strong>
+**A MESA DO SENADO FEDERAL**
 
-<strong>SENADOR MAURO BENEVIDES</strong>
+**SENADOR MAURO BENEVIDES**
 
 Presidente
 

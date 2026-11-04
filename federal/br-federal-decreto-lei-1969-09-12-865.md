@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a3781911-9dd5-4391-8490-323c61502e09/texto#nowhere)
 
-###DEL-000865-0-000-12-09-1969@@@
-
 DECRETO-LEI Nº 865, DE 12 DE SETEMBRO DE 1969
 
 Declara de interêsse da Segurança Nacional, nos têrmos do art. 16, § 1º, alínea b, da Constituição, o Município que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-003394-0-000-29-03-2000@@@
-
 DECRETO Nº 3.394, DE 29 DE MARÇO DE 2000.
 
 Altera o Estatuto Social da Casa da Moeda do Brasil - CMB.

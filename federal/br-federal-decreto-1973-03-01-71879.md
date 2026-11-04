@@ -1,5 +1,3 @@
-###DEC-071879-0-000-01-03-1973@@@
-
 DECRETO Nº 71.879, DE 1º DE MARÇO DE 1973.
 
 Retifica o Decreto nº 68.873, de 5 de julho de 1971, que altera a área e estabelece os limites do Parque Nacional do Araguaia.

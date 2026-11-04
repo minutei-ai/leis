@@ -1,7 +1,3 @@
-1
-
-###DEL-002379-0-000-04-12-1987@@@
-
 # DECRETO-LEI Nº 2.379, DE 4 DE DEZEMBRO DE 1987.
 
 Altera o Decreto lei n° 2.367, de 5 de novembro de 1987, e dá outras providências.

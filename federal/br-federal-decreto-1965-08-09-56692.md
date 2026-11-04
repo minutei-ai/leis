@@ -1,5 +1,3 @@
-###DEC-056692-0-000-09-08-1965@@@
-
 DECRETO Nº 56.692, DE 9 DE AGÔSTO DE 1965.
 
 Outorga ao Município de Tarauacá, Estado do Acre, Concessão para distribui energia elétrica.

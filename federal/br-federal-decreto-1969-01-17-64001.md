@@ -1,5 +1,3 @@
-###DEC-064001-0-000-17-01-1969@@@
-
 DECRETO Nº 64.001, DE 17 DE JANEIRO DE 1969.
 
 Autoriza a cessão gratuita do imóvel que menciona, situação no Estado da Guanabara.

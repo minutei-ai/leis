@@ -1,5 +1,3 @@
-###DEC-054799-0-000-03-11-1964@@@
-
 DECRETO Nº 54.799, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza a Companhia Brasileira de Minério e Metais, Comércio e Indústria a pesquisar minério de ouro no município de Jacobina, Estado da Bahia.

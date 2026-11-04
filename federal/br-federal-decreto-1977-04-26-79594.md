@@ -1,5 +1,3 @@
-###DEC-079594-0-000-26-04-1977@@@
-
 DECRETO Nº 79.594, DE 26 DE ABRIL DE 1977.
 
 Concede à Magnesita S.A. o direito de lavrar agalmatolito no Município de Onça do Pitangui, Estado de Minhas Gerais.

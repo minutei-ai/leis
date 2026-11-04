@@ -1,6 +1,10 @@
 > **LEI Nº 4.813, DE 09 DE JUNHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.744, de 18 de dezembro de 2025, que dispõe sobre o Quadro de Pessoal e o Plano de Cargos, Carreiras e Remunerações dos servidores efetivos do Tribunal de Contas do Estado do Acre - TCE – AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 4.744, de 18 de dezembro de 2025, que dispõe sobre o Quadro de Pessoal e o Plano de Cargos, Carreiras e Remunerações dos servidores efetivos do Tribunal de Contas do Estado do Acre - TCE – AC.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

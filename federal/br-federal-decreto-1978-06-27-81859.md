@@ -1,5 +1,3 @@
-###DEC-081859-0-000-27-06-1978@@@
-
 Decreto nº 81.859, de 27 de junho de 1978
 
 Concede à Provale - Indústria e Comércio S.A. o direito de lavrar mármore no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

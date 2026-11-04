@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210739)<br>
-
 # LEI N° 18.119, DE 12 DE MARÇO DE 2025
 
 ## (Projeto de lei n° 554/2024, do Deputado Ricardo Madalena - PL)

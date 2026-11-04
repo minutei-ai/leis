@@ -1,5 +1,3 @@
-###DEC-057163-0-000-04-11-1965@@@
-
 DECRETO Nº 57.163, DE 4 DE NOVEMBRO DE 1965.
 
 Autoriza estrangeira a adquirir, em regularização de aforamento, o domínio útil do terreno de marinha que menciona no Estado da Guanabara.

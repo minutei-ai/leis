@@ -1,5 +1,3 @@
-###DEC-005714-0-000-03-03-2006@@@
-
 DECRETO Nº 5.714, DE 3 DE MARÇO DE 2006.
 
 Dispõe sobre a execução do Sexagésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica no 2, entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 23 de dezembro de 2005.
@@ -114,17 +112,51 @@ CONVÊM EM:
 
 (US$ milhões)
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:60.95pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ano</span></p></td><td style="width:65.45pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2005</span></p></td><td style="width:65.45pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2006</span></p></td><td style="width:248.4pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2007 e seguintes</span></p></td></tr><tr><td style="width:60.95pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quota</span></p></td><td style="width:65.45pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td><td style="width:65.45pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">65</span></p></td><td style="width:248.4pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ano anterior x 1.05</span></p></td></tr></tbody></table>
+Ano
+
+2005
+
+2006
+
+2007 e seguintes
+
+Quota
+
+60
+
+65
+
+Ano anterior x 1.05
 
               Artigo 6. - Acesso de automóveis e veículos comerciais leves, produzidos na República Federativa do Brasil, ao mercado da República Oriental do Uruguai
 
         As empresas automotivas produtoras dos bens listados na alínea "a" do Artigo 3, instaladas no território da República Federativa do Brasil, terão o acesso ao mercado da República Oriental do Uruguai com a margem de preferência estabelecida no Artigo 1, limitada às seguintes quantidades anuais:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:154.85pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ano</span></p></td><td style="width:146.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2005</span></p></td><td style="width:141.6pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2006</span></p></td></tr><tr><td style="width:154.85pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Unidades</span></p></td><td style="width:146.05pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.000</span></p></td><td style="width:141.6pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.500</span></p></td></tr></tbody></table>
+Ano
+
+2005
+
+2006
+
+Unidades
+
+6.000
+
+6.500
 
         À importação de unidades que não se contabilizarem nas quotas definidas acima, a República Oriental do Uruguai aplicará margens de preferência sobre a tarifa nacional de importação vigente, conforme o seguinte cronograma:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:185.8pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ano</span></p></td><td style="width:128.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2005</span></p></td><td style="width:128.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2006</span></p></td></tr><tr><td style="width:185.8pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Margem de Preferência (%)</span></p></td><td style="width:128.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">70</span></p></td><td style="width:128.35pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">70</span></p></td></tr></tbody></table>
+Ano
+
+2005
+
+2006
+
+Margem de Preferência (%)
+
+70
+
+70
 
         A partir de 1° de janeiro de 2007 os produtos referidos neste artigo, produzidos por fabricantes instalados na República Federativa do Brasil, terão livre acesso ao mercado da República Oriental do Uruguai nas condições estabelecidas no Artigo 1.
 

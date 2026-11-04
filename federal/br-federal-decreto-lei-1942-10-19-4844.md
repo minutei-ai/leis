@@ -1,5 +1,3 @@
-###DEL-004844-0-000-19-10-1942@@@
-
 DECRETO-LEI N. 4.844 – DE 19 DE OUTUBRO DE 1942
 
 Cria a 9ª Bateria Independente de Artilharia de Costa

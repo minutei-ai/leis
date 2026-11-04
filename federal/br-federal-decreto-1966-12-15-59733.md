@@ -1,5 +1,3 @@
-###DEC-059733-0-000-15-12-1966@@@
-
 DECRETO Nº 59.733, DE 15 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Alfredo Marinho Ravasco a pesquisar mármore e calcário, no município de Barra do Turvo, Estado de São Paulo.

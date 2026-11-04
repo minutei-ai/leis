@@ -1,5 +1,3 @@
-###DEC-057967-0-000-10-03-1966@@@
-
 decreto nº 57.967, de 10 de março de 1966.
 
 Concede á Industria de Madeira e Minérios do Tapajós Limitada autorização para funcionar como empresa de Mineração.

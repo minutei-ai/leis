@@ -1,5 +1,3 @@
-###DEL-009621-0-000-21-08-1946@@@
-
 DECRETO-LEI N. 9.621 – DE 21 DE AGÔSTO DE 1946
 
 Dispõe sôbre a execução dos serviços da Fundação da Casa Popular, e dá outras providências.

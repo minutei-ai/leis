@@ -1,5 +1,3 @@
-###DEC-078259-0-000-17-08-1976@@@
-
 DECRETO Nº 78.259, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento aos cursos de Ciências Biológicas e de Ciências da Faculdade de Ciências de Ourinhos, com sede em Ourinhos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-069923-0-000-13-01-1972@@@
-
 DECRETO Nº 69.923, DE 13 DE JANEIRO DE 1972.
 
 Modifica o Regimento Interno do Conselho de Defesa dos Direitos da Pessoa Humana, e dá outras providências.

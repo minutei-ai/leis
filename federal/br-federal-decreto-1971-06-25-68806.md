@@ -1,5 +1,3 @@
-###DEC-068806-0-000-25-06-1971@@@
-
 DECRETO Nº 68.806 - DE 25 DE JUNHO DE 1971.
 
 Institui a Central de Medicamentos (CEME).

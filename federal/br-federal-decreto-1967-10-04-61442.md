@@ -1,5 +1,3 @@
-###DEC-061442-0-000-04-10-1967@@@
-
 DECRETO Nº 61.442, DE 4 DE OUTUBRO DE 1967.
 
 Autoriza Mineração Bandeirante Ltda. a lavrar caulim, no município de Itabirito, Estado de Minas Gerais.

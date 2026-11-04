@@ -14,7 +14,8 @@ CONSIDERANDO a manifestação da Procuradoria Geral do Município no processo ad
 
 Art. 1º A Regularização Fundiária Urbana dos imóveis relacionados a seguir, do loteamento denominado Aeroporto Sul, em Aparecida de Goiânia, objeto de procedimento administrativo, fica classificada como REGULARIZAÇÃO FUNDIÁRIA URBANA DE INTERESSE SOCIAL – REURB “S”.
 
-I.     Quadra 48, Lote 09;<br>
+I.     Quadra 48, Lote 09;
+
 (Redação alterada pelo Decreto "N" Nº 507, de 25 de junho de 2024).
 
 ~~Art. 1º A Regularização Fundiária Urbana dos imóveis relacionados a seguir, do loteamento denominado Aeroporto Sul, em Aparecida de Goiânia, objeto de procedimento administrativo, fica classificada como REGULARIZAÇÃO FUNDIÁRIA URBANA DE INTERESSE SOCIAL – REURB “S”.~~
@@ -37,11 +38,14 @@ Município de Aparecida de Goiânia, 11 de fevereiro de 2022.
 
  
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário
 
-UBIRACI SILVA SANTOS<br>
+UBIRACI SILVA SANTOS
+
 Secretário

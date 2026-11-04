@@ -6,15 +6,16 @@ Denomina Vereador Moacir Djalma Barros a Escola Estadual em construção no Resi
 
 Publicada no Diário Oficial nº 9.632, de 10 de abril de 2018, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominada <i>Vereador Moacir Djalma Barros</i> a Escola Estadual em construção no Residencial Harrison de Figueiredo, no Município de Dourados-MS.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominada *Vereador Moacir Djalma Barros* a Escola Estadual em construção no Residencial Harrison de Figueiredo, no Município de Dourados-MS.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 9 de abril de 2018.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

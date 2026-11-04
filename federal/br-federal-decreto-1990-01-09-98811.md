@@ -1,5 +1,3 @@
-###DEC-098811-0-000-09-01-1990@@@
-
 DECRETO Nº 98.811, DE 9 DE JANEIRO DE 1990
 
 Dispõe sobre a execução do Vigésimo Quinto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/80, entre o Brasil e a Argentina (Acordo nº 1).

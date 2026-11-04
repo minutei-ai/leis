@@ -1,5 +1,3 @@
-###DEC-052732-0-000-23-10-1963@@@
-
 DECRETO Nº 52.732, DE 23 DE Outubro DE 1963.
 
 Cria, no Ministério da Indústria e do Comércio, o Grupo Executivo de Indústria de Fertilizantes e Corretivos do Solo (GEIFERC), e dá outras providências.

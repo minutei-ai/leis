@@ -1,5 +1,3 @@
-###MPV-002042-0-008-25-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.042-8, DE 25 DE agosto DE 2000.
 
 Acresce e altera dispositivos da Lei nº 8.929, de 22 de agosto de 1994, que institui a Cédula de Produto Rural, e dá outra providências.

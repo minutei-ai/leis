@@ -1,5 +1,3 @@
-###DEC-077441-0-000-14-04-1976@@@
-
 DECRETO Nº 77.441 - DE 14 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo de Santos, com sede na cidade de Santos, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099192-0-000-21-03-1990@@@
-
 DECRETO Nº 99.192, DE 21 DE MARÇO DE 1990
 
 Dispõe sobre a extinção e dissolução de entidades da Administração Pública Federal, e dá outras providências.

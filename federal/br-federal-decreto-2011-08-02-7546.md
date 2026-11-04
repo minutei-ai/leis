@@ -1,5 +1,3 @@
-###DEC-007546-0-000-02-08-2011-PUB-01@@@
-
 DECRETO Nº 7.546, DE 2 DE AGOSTO DE 2011
 
 Regulamenta o disposto nos §§ 5º a 12 do art. 3º da Lei nº 8.666, de 21 de junho de 1993, e institui a Comissão Interministerial de Compras Públicas.

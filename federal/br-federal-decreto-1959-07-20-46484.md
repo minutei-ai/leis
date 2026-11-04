@@ -1,5 +1,3 @@
-###DEC-046484-0-000-20-07-1959@@@
-
 DECRETO Nº 46.484, DE 20 DE JULHO DE 1959.
 
 Renova o Decreto nº 40.036, de 26 de setembro de 1956.

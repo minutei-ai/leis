@@ -1,5 +1,3 @@
-###MPV-001900-0-041-27-08-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.900-41, DE 27 de agosto DE 1999.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

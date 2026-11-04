@@ -1,5 +1,3 @@
-###DEC-006891-0-000-02-07-2009@@@
-
 DECRETO Nº 6.891, DE 2 DE JULHO DE 2009.
 
 Promulga o Acordo de Cooperação e Assistência Jurisdicional em Matéria Civil, Comercial, Trabalhista e Administrativa entre os Estados Partes do Mercosul, a República da Bolívia e a República do Chile.

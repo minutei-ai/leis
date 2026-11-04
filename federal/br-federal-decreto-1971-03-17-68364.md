@@ -1,5 +1,3 @@
-###DEC-068364-0-000-17-03-1971@@@
-
 Decreto nº 68.364, de 17 de março de 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada a passagem da linha de transmissão que se estenderá entre os municípios de Firminópolis e Iporá, no Estado de Goiás.

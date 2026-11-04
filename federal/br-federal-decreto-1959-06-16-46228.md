@@ -1,5 +1,3 @@
-###DEC-046228-0-000-16-06-1959@@@
-
 DECRETO Nº 46.228, DE 16 DE JUNHO DE 1959.
 
 Outorga à Prefeitura Municipal de Palmas concessão para o aproveitamento progressivo de energia hidráulica do Salto Pinhal, no Rio Chopin, no distrito e município de Palmas, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-060253-0-000-21-02-1967@@@
-
 DECRETO Nº 60.253, DE 21 DE FEVEREIRO DE 1967.
 
 Constitui Grupo de trabalho Interministerial, para o fim que menciona.

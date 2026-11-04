@@ -14,7 +14,8 @@ Art. 1º - Fica o Poder Executivo autorizado a instituir o Fundo de Aval, vincul
 
 § 3º - O Fundo de que trata o caput deste artigo será gerido pelo Banco do Nordeste do Brasil S/A, e patrocinará unicamente financiamentos a projetos que contemplem a recuperação da lavoura do cacau, de acordo com as normas do Fundo Constitucional de Financiamento do Nordeste - FNE e dos Programas de repasses do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
 
-Redação do § 3º do art. 1º de acordo com o art. [5](https://www.legislabahia.ba.gov.br/documentos/lei-no-8881-de-04-de-novembro-de-2003#art5) da , de 04 de novembro de 2003.<br>
+Redação do § 3º do art. 1º de acordo com o art. [5](https://www.legislabahia.ba.gov.br/documentos/lei-no-8881-de-04-de-novembro-de-2003#art5) da , de 04 de novembro de 2003.
+
 Redação original: "O Fundo de que trata o caput deste artigo será gerido pela instituição financeira referida no § 1º e patrocinará unicamente financiamentos a projetos que contemplem novas práticas para controle da "Vassoura de Bruxa", conforme previsto no Programa de Recuperação da Lavoura Cacaueira Baiana, aprovado pelo Conselho Monetário Nacional."
 
 § 4º - O Fundo referido no parágrafo anterior será constituído mediante a transferência de recursos originários da dotação orçamentária 3.80.200.20.123.009.3259.45.15.41.00.
@@ -27,7 +28,8 @@ Art. 3º - O acompanhamento das aplicações e utilização dos recursos destina
 
 § 2º - Os procedimentos relativos à gestão do Fundo de Aval, o montante correspondente à participação do Banco do Nordeste do Brasil S/A na linha de financiamento, o percentual relativo à comissão a ser cobrada em cada uma das operações, a contragarantia exigida dos mutuários e demais medidas que se fizerem necessárias serão estabelecidas através de instrumentos formais, observadas as normas do Fundo de Financiamento do Nordeste - FNE e dos Programas de repasses do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
 
-Redação do § 2º do art. 3º de acordo com o art. [5](https://www.legislabahia.ba.gov.br/documentos/lei-no-8881-de-04-de-novembro-de-2003#art5) da , de 04 de novembro de 2003.<br>
+Redação do § 2º do art. 3º de acordo com o art. [5](https://www.legislabahia.ba.gov.br/documentos/lei-no-8881-de-04-de-novembro-de-2003#art5) da , de 04 de novembro de 2003.
+
 Redação original: "Os procedimentos relativos à gestão do Fundo de Aval, o montante correspondente à participação da instituição financeira na linha de financiamento, o percentual relativo à comissão a ser cobrada em cada uma das operações, a contragarantia exigida dos mutuários, e demais medidas que se fizerem necessárias, serão estabelecidas através de instrumentos formais, observadas as normas do Banco Central do Brasil."
 
 § 3º - A contragarantia a ser prestada pelo mutuário consistirá em penhor agrícola.
@@ -52,7 +54,8 @@ Art. 6º - Sem prejuízo do disposto nesta Lei, devem ser observadas as exigênc
 
 Parágrafo único - A concretização de financiamento amparado com os recursos do Fundo de Aval ficará subordinada à apresentação, pelo mutuário, de prévio projeto técnico elaborado pela Comissão Executiva do Plano da Lavoura Cacaueira - CEPLAC e/ou pela Empresa Baiana de Desenvolvimento Agrícola S/A - EBDA.
 
-Redação do Parágrafo único do art. 6º de acordo com o art. [5](https://www.legislabahia.ba.gov.br/documentos/lei-no-8881-de-04-de-novembro-de-2003#art5) da , de 04 de novembro de 2003.<br>
+Redação do Parágrafo único do art. 6º de acordo com o art. [5](https://www.legislabahia.ba.gov.br/documentos/lei-no-8881-de-04-de-novembro-de-2003#art5) da , de 04 de novembro de 2003.
+
 Redação original: "A concretização de financiamento amparado com o Fundo de Aval ficará subordinada à apresentação, pelo mutuário, de prévia Proposta Técnica elaborada pela Comissão Executiva do Plano da Lavoura Cacaueira - CEPLAC, e aprovada através de Súmula pelo Comitê Executivo do Programa de Recuperação da Lavoura Cacaueira Baiana."
 
 Art. 7º - As operações celebradas pela instituição financeira e anteriormente garantidas por depósitos da DESENBAHIA, no âmbito do Programa de Recuperação da Lavoura Cacaueira, passarão a integrar o Fundo de Aval instituído pela presente Lei, desde que compatíveis com as suas finalidades, seus dispositivos e os conceitos nela estabelecidos.

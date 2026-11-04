@@ -1,7 +1,3 @@
-1
-
-###DEC-000705-0-000-22-12-1992@@@
-
 DECRETO Nº 705, DE 22 DE DEZEMBRO DE 1992
 
 Dispõe sobre a nomeação e contratação de pessoal docente e técnico-administrativo das Instituições Federais de Ensino.

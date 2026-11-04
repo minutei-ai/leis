@@ -1,5 +1,3 @@
-###DEC-056271-0-000-07-05-1965@@@
-
 DECRETO Nº 56.271, DE 7 DE MAIO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, faixa de terra e benfeitorias na mesma existentes, ao longo da rodovia BR-13.

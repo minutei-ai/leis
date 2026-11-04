@@ -2,7 +2,8 @@ LEI Nº 4.819 DE 28 DE DEZEMBRO DE 1988
 
 Cria o Centro de Processamento de Dados e Auditoria de Sistemas Computadorizados - CEDASC, vinculado ao Tribunal de Contas do Estado da Bahia, e dá outras providências.
 
-Ver também:<br>
+Ver também:
+
 [Art. 20](javascript: openDoc\() da Lei nº 13.192, de 06 de novembro de 2014: "Ficará extinta, em 31 de dezembro de 2014, a autarquia Centro de Estudos e Desenvolvimento de Tecnologias para Auditoria - CEDASC, vinculada ao Tribunal de Contas do Estado da Bahia, criada pela Lei Estadual nº 4.819, de 28 de dezembro de 1988, com as alterações promovidas pelas Leis nº 7.879, de 29 de junho de 2001, e Complementar nº 27, de 28 de junho de 2006."
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:

@@ -1,7 +1,3 @@
-1
-
-###MPV-001300-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.300, DE 9 DE FEVEREIRO DE 1996.
 
 Altera as Leis nºs 8.019, de 11 de abril de 1990, e 8.212, de 24 de julho de 1991, e dá outras providências.

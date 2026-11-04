@@ -1,5 +1,3 @@
-###DEC-074705-0-000-17-10-1974@@@
-
 DECRETO Nº 74.705, DE 17 DE OUTUBRO DE 1974.
 
 Autoriza o registro, em nome da União Federal, do imóvel, que discrimina, de acordo com a Lei nº 5.972, de 11 de dezembro de 1973.

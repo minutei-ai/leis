@@ -1,5 +1,3 @@
-###DEC-067649-0-000-23-11-1970@@@
-
 DECRETO Nº 67.649, DE 23 DE NOVEMBRO DE 1970.
 
 Concede a A. Sammarone Junior Emprêsa de Mineração o direito de lavrar argila no município de Jundiaí, Estado de São Paulo.

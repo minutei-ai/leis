@@ -1,5 +1,3 @@
-###MPV-001741-0-038-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.741-38, DE 11 DE FEVEREIRO DE 1999.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional-NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

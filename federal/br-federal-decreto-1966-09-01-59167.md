@@ -1,5 +1,3 @@
-###DEC-059167-0-000-01-09-1966@@@
-
 DECRETO Nº 59.167, DE 1º DE SETEMBRO DE 1966.
 
 Altera o Regulamento do Instituto Rio-Branco, aprovado pelo Decreto nº 54.130, de 13 de agôsto de 1964.

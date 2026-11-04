@@ -1,5 +1,3 @@
-###DEC-082187-0-000-28-08-1978@@@
-
 Decreto nº 82.187, de 28 de agosto de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro.

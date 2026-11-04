@@ -1,5 +1,3 @@
-###DEL-001482-0-000-05-10-1976@@@
-
 # DECRETO-LEI Nº 1.482, DE 5 DE OUTUBRO DE 1976
 
 Concede isenção de impostos na importação de eletrodos próprios para marca-passo cardíaco

@@ -1,5 +1,3 @@
-###DEC-097215-0-000-13-12-1988@@@
-
 DECRETO Nº 97.215, DE 13 DE DEZEMBRO DE 1988
 
 Designa a Capital provisória do Estado do Tocantins.

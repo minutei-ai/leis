@@ -1,5 +1,3 @@
-###DEC-072082-0-000-12-04-1973@@@
-
 Decreto nº 72.082, de 12 de abril de 1973.
 
 Torna sem efeito o aproveitamento de disponíveis no Quadro Único de Pessoal da Universidade Federal da Bahia e dá outras providências.
@@ -29,8 +27,6 @@ Jarbas G. Passarinho
 Mário Lemos
 
 José Costa Cavalcanti
-
-###DEC-072082-0-000-12-04-1973@@@
 
 Decreto nº 72.082, de 12 de abril de 1973.
 

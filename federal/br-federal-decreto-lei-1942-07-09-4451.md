@@ -1,5 +1,3 @@
-###DEL-004451-0-000-09-07-1942@@@
-
 DECRETO-LEI N. 4.451 – DE 9 DE JULHO DE 1942
 
 Autoriza a constituição do Banco de Crédito da Borracha, e dá outras providências

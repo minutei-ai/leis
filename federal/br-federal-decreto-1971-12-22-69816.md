@@ -1,5 +1,3 @@
-###DEC-069816-0-000-22-12-1971@@@
-
 decreto nº 69.816 - de 22 DE DEZEMBRO de 1971
 
 Autoriza o funcionamento da Faculdade de Engenharia Civil - Nova Iguaçu - RJ.

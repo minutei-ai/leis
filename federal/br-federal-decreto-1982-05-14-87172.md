@@ -1,5 +1,3 @@
-###DEC-087172-0-000-14-05-1982@@@
-
 Decreto nº 87.172, de 14 de maio de 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

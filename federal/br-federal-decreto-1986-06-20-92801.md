@@ -1,5 +1,3 @@
-###DEC-092801-0-000-20-06-1986@@@
-
 DECRETO Nº 92.801, DE 20 DE JUNHO DE 1986
 
 Altera dispositivo do Regulamento do Registro Aeronáutico Brasileiro.

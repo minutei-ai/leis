@@ -1,5 +1,3 @@
-###DEC-085321-0-000-05-11-1980@@@
-
 Decreto nº 85.321, de 05 de novembro de 1980
 
 Altera o Regulamento aprovado pelo Decreto nº 68.419, de 25 de março de 1971, e dá outras providências.

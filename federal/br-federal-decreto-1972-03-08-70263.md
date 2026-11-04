@@ -1,5 +1,3 @@
-###DEC-070263-0-000-08-03-1972@@@
-
 Decreto nº 70.263, de 8 de março de 1972.
 
 Exclui cargos do Ministério das Minas e Energia da declaração de desnecessidade e dá outras providências.

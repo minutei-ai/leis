@@ -1,7 +1,3 @@
-1
-
-###MPV-001146-0-000-11-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.146, DE 11 DE OUTUBRO DE 1995.
 
 Acrescenta parágrafo ao art. 75 da Lei nº 4.728, de 14 de julho de 1965.

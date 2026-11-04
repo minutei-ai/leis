@@ -1,5 +1,3 @@
-###DEL-008012-0-000-29-09-1945@@@
-
 DECRETO-LEI N. 8.012 – DE 29 DE SETEMBRO DE 1945
 
 Estabelece as bases de organização para as atividades sociais e desportivas dos servidores públicos.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57469)
-
 # LEI Nº 12.008, DE 09 DE SETEMBRO DE 2005
 
 ## (PL 454/2004 - Edson Gomes)

@@ -1,5 +1,3 @@
-###DEL-008710-0-000-17-01-1946@@@
-
 DECRETO-LEI N. 8.710 – DE 17 DE JANEIRO DE 1946
 
 Abre ao Ministério da Marinha o crédito especial de Cr$ 3.800.000,00.

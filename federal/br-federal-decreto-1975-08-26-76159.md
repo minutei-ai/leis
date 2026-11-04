@@ -1,5 +1,3 @@
-###DEC-076159-0-000-26-08-1975@@@
-
 Decreto Nº 76.159 - DE 26 DE AGOSTO DE 1975
 
 Concede reconhecimento ao curso de Administração da Escola de Administração de Empresas de Ituiutaba, com sede na Cidade de Ituiutaba, Estado de Minas Gerais.

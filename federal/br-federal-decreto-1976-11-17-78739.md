@@ -1,5 +1,3 @@
-###DEC-078739-0-000-17-11-1976@@@
-
 decreto nº 78.739, de 17 de novembro de 1976.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Rio de Janeiro.

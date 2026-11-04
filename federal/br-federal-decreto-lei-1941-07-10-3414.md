@@ -1,5 +1,3 @@
-###DEL-003414-0-000-10-07-1941@@@
-
 DECRETO-LEI N. 3.414 – DE 10 DE JULHO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de 172:000$0. à verba que especifica

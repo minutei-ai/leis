@@ -1,5 +1,3 @@
-###DEC-000101-0-000-17-04-1991@@@
-
 DECRETO Nº 101, DE 17 DE ABRIL DE 1991
 
 Regulamenta a Lei nº 8.167 de 16 de janeiro de 1991, que altera a legislação do Imposto sobre a Renda relativa a incentivos fiscais, estabelece novas condições operacionais dos Fundos de Investimentos Regionais e dá outras providências.

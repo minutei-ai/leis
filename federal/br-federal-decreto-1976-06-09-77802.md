@@ -1,5 +1,3 @@
-###DEC-077802-0-000-09-06-1976@@@
-
 DECRETO Nº 77.802, DE 9 DE JUNHO DE 1976.
 
 Altera a redação dos nºs 8 e 18, da letra "g", do artigo 1º, do Decreto nº 77.247, de 27 de fevereiro de 1976, que designa os cargos privativos de Oficial-General em tempo de paz.

@@ -1,5 +1,3 @@
-###DEC-046066-0-000-19-05-1959@@@
-
 Decreto nº 46.066, de 19 de maio de 1959.
 
 Autoriza estrangeiro a adquirir o domínio útil do terreno de marinha que menciona, situado no “Distrito Federal.

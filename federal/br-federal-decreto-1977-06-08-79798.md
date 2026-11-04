@@ -1,5 +1,3 @@
-###DEC-079798-0-000-08-06-1977@@@
-
 DECRETO Nº 79.798, DE 8 DE JUNHO DE 1977
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

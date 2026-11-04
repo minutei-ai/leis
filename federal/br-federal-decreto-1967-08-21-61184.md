@@ -1,5 +1,3 @@
-###DEC-061184-0-000-21-08-1967@@@
-
 DECRETO Nº 61.184, DE 21 DE AGÔSTO DE 1967.
 
 Altera a redação de dispositivos do Regulamento do Concurso para Procurador da República de Terceira Categoria, aprovado pelo Decreto nº 60.201, de 10 de fevereiro de 1967.

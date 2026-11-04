@@ -1,5 +1,3 @@
-###DEL-008438-0-000-24-12-1945@@@
-
 DECRETO-LEL N. 8.438 – DE 24 DE DEZEMBRO DE 1945
 
 Altera, sem aumento de despesa, o Orçamento Geral da República

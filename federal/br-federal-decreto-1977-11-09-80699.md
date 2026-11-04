@@ -1,5 +1,3 @@
-###DEC-080699-0-000-09-11-1977@@@
-
 decreto nº 80.699, de 09 de novembro de 1977.
 
 Fixa alíquota do Imposto sobre Produtos Industrializados, para as mercadorias que menciona.

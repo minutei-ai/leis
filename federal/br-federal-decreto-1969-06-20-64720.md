@@ -1,5 +1,3 @@
-###DEC-064720-0-000-20-06-1969@@@
-
 DECRETO Nº 64.720, DE 20 de JUNHO DE 1969.
 
 Concede à Mineração Geral do Nordeste S. A. o direito de lavrar caulim, no município de Parêlhas, Estado do Rio Grande do Norte.

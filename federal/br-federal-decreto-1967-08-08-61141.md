@@ -1,5 +1,3 @@
-###DEC-061141-0-000-08-08-1967@@@
-
 DECRETO Nº 61.141, DE 8 DE AGÔSTO DE 1967.
 
 Aprova a alteração introduzida nos Estatutos da São Paulo Companhia Nacional de Seguros.

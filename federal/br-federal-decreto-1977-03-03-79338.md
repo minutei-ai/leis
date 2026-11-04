@@ -1,5 +1,3 @@
-###DEC-079338-0-000-03-03-1977@@@
-
 Decreto nº 79.338, de 3 de março de 1977.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de João Pessoa, Estado da Paraíba.

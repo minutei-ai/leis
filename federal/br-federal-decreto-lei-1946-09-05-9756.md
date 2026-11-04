@@ -1,5 +1,3 @@
-###DEL-009756-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.756 – DE 5 DE SETEMBRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a conceder à Mitra Arquiepiscopal do Rio de Janeiro a isenção do impôsto que menciona.

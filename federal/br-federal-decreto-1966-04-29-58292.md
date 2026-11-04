@@ -1,5 +1,3 @@
-###DEC-058292-0-000-29-04-1966@@@
-
 Decreto nº 58.292, de 29 de abril de 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

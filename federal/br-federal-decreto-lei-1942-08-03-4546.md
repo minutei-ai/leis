@@ -1,5 +1,3 @@
-###DEL-004546-0-000-03-08-1942@@@
-
 DECRETO-LEI N. 4.546 – DE 3 DE AGOSTO DE 1942
 
 Cria o uniforme de gala para parada, destinado aos músicos da Força Aérea Brasileira

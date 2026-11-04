@@ -1,5 +1,3 @@
-###DEC-004473-0-000-18-11-2002@@@
-
 DECRETO Nº 4.473, DE 18 DE NOVEMBRO DE 2002
 
 Dispõe sobre a execução do Trigésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai, da República Oriental do Uruguai e da República do Chile, de 9 de setembro de 2002.

@@ -1,5 +1,3 @@
-###DEC-087089-0-000-07-04-1982@@@
-
 Decreto nº 87.089, de 7 de abril de 1982.
 
 Concede à USINAS SIDERÚRGICAS DE MINAS GERAIS S.A. - USIMINAS autorização para proceder a aumento do seu capital social.

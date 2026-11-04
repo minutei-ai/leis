@@ -1,5 +1,3 @@
-###DEC-054509-0-000-21-10-1964@@@
-
 DECRETO Nº 54.509, DE 21 DE OUTUBRO DE 1964.
 
 Outorga à Transbrasil S.A. de Comércio, Exportação e Importação concessão para aproveitamento de um desnível no rio São Francisco Falso existente no município de Marechal Rondon, Estado do Paraná.

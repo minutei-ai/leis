@@ -1,5 +1,3 @@
-###DEC-052677-0-000-14-10-1963@@@
-
 DECRETO Nº 52.677, DE 14 DE OUTUBRO DE 1963.
 
 Aprova o Regimento da Faculdade de Direito do Amazonas.

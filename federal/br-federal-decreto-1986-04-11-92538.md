@@ -1,5 +1,3 @@
-###DEC-092538-0-000-11-04-1986@@@
-
 DECRETO Nº 92.538, DE 11 DE ABRIL DE 1986
 
 Revoga o Decreto nº 59.459, de 07 de novembro de 1966.

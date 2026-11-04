@@ -1,6 +1,10 @@
 > **LEI Nº 3.807, DE 22 DE NOVEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera e revoga dispositivos da Lei nº 3.161, de 9 de agosto de 2016, que dispõe sobre a criação do sistema de inscrição, cobrança e parcelamento dos créditos de natureza não tributária, inscritos na dívida ativa, decorrentes de multa por infração ambiental.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera e revoga dispositivos da Lei nº 3.161, de 9 de agosto de 2016, que dispõe sobre a criação do sistema de inscrição, cobrança e parcelamento dos créditos de natureza não tributária, inscritos na dívida ativa, decorrentes de multa por infração ambiental.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

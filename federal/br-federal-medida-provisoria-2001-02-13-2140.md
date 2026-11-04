@@ -1,5 +1,3 @@
-###MPV-002140-0-000-13-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.140, DE 13 DE FEVEREIRO DE 2001
 
 Cria o Programa Nacional de Renda Mínima vinculada à educação - "Bolsa Escola", e dá outras providências.

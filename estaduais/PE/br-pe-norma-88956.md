@@ -40,1199 +40,826 @@ Bacia Hidrográfica: Rio São Francisco
 
 Área de supressão: 0,6968 há
 
-<br>
+Nome
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.15pt"><td width="19%" style="width:19.86%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Nome</span></p></td><td width="6%" style="width:6.54%;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Vértice</span></p></td><td width="11%" style="width:11.54%;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">X</span></p></td><td width="11%" style="width:11.54%;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Y</span></p></td><td width="20%" style="width:20.94%;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Nome</span></p></td><td width="6%" style="width:6.54%;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Vértice</span></p></td><td width="11%" style="width:11.54%;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">X</span></p></td><td width="11%" style="width:11.54%;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Y</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 1</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346939,7223</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965529,799</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 6</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">52</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346850,2457</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965453,168</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 1</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346947,9752</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965516,977</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 6</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">53</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346843,5213</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965466,638</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 1</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346935,6485</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965505,479</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 6</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">54</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346852,2716</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965454,406</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 1</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346939,7223</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965529,799</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 6</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">55</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346850,2457</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965453,168</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 1</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346924,4907</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965515,537</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 6</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">56</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346841,7646</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965465,565</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 1</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">6</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346927,4078</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965518,268</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 7</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">57</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346605,4278</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965157,423</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 1</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">7</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346929,4911</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965499,736</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 7</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">58</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346607,0492</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965156,153</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 1</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346920,2465</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965511,862</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 7</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">59</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346595,4362</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965146,195</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">9</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346567,9446</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965344,461</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 7</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">60</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346598,115</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965144,097</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">10</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346548,6116</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965352,288</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 7</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">61</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346595,4362</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965146,195</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">11</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346552,9895</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965367,384</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 8</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">62</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347254,4745</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964967,64</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">12</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346567,4435</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965360,745</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 8</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">63</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347269,1164</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964964,064</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">13</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346539,9323</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965353,512</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 8</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">64</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347254,2381</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964965,982</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">14</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346506,6131</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965358,208</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 8</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">65</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347254,4745</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964967,64</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">15</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346506,8401</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965359,729</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 8</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">66</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347269,3613</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964965,782</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">16</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346507,8107</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965361,955</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 9</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">67</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347060,9213</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964985,805</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">17</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346506,6131</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965358,208</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 9</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">68</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347064,3106</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964971,186</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">18</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346514,8373</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965372,314</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 9</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">69</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347060,9213</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964985,805</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">19</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346541,229</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965368,904</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 9</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">70</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347062,694</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964986,158</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">20</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346507,0885</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965362,803</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 9</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">71</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347065,5487</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964971,432</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 2</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">21</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346508,222</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965363,955</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 10</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">72</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347042,7162</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964951,162</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">22</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346442,2136</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964521,646</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 10</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">73</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347037,6841</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964946,27</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">23</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346410,7324</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964546,745</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 10</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">74</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347027,5866</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964957,374</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">24</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346487,89</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964504,756</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 10</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">75</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347032,8767</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964962,516</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">25</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346572,9561</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964479,807</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 10</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">76</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347027,5866</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964957,374</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">26</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346448,0891</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964536,428</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 11</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">77</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347004,0251</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964774,709</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">27</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346451,4121</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964533,783</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 11</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">78</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347003,4399</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964775,72</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">28</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346566,9029</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964465,922</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 11</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">79</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347016,4007</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964783,271</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">29</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346479,1112</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964492,228</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 11</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">80</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347017,0748</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964782,106</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">30</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346617,76</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964459,262</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 11</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">81</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347003,4399</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964775,72</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">31</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346622,7674</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964440,984</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 12</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">82</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347040,1602</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964735,712</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">32</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346410,7324</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964546,745</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 12</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">83</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347048,3625</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964748,29</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 3</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">33</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346420,0009</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964558,586</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 12</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">84</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347040,1602</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964735,712</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">34</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347689,6229</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964784,447</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 12</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">85</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347049,5553</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964747,429</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">35</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347701,9949</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964770,797</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 12</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">86</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347041,2597</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964734,918</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">36</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347688,8926</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964771,787</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 13</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">87</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347582,8087</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964589,576</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">37</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347679,7296</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964795,424</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 13</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">88</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347581,7604</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964588,357</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">38</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347695,8794</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964721,061</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 13</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">89</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347570,3056</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964598,042</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">39</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347719,5341</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964749,376</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 13</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">90</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347571,4254</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964599,344</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">40</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347706,9869</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964734,357</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 13</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">91</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347581,7604</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964588,357</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">41</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347695,8794</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964721,061</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 14</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">92</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346656,5302</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965254,629</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">42</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347661,9024</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964681,551</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 14</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">93</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346671,7203</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965253,841</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">43</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347699,674</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964748,651</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 14</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">94</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346656,8175</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965252,136</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">44</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347690,2464</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964760,344</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 14</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">95</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346656,5302</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965254,629</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">45</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347651,6877</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964692,678</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 14</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">96</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346671,4762</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965255,959</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 4</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">46</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347693,7141</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8964741,699</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 15</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">97</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346770,3461</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965204,417</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 5</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">47</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347241,1277</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965786,463</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 15</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">98</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346756,5985</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965198,351</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 5</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">48</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347231,0741</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965797,596</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 15</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">99</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346769,4918</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965206,079</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 5</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">49</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347233,8202</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965800,12</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 15</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">100</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346755,6103</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965200,273</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 5</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">50</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347243,9171</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965789,027</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 15</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">101</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">346769,4918</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965206,079</span></p></td></tr><tr style="height:1.15pt"><td width="19%" valign="top" style="width:19.86%;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trecho de Supressão 5</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">51</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">347231,0741</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-3.75pt;
-  margin-bottom:7.5pt;margin-left:-6.0pt;text-align:center;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8965797,596</span></p></td><td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-3.75pt;margin-bottom:
-  7.5pt;margin-left:-6.0pt;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="6%" valign="top" style="width:6.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-3.75pt;margin-bottom:
-  7.5pt;margin-left:-6.0pt;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-3.75pt;margin-bottom:
-  7.5pt;margin-left:-6.0pt;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="11%" valign="top" style="width:11.54%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-3.75pt;margin-bottom:
-  7.5pt;margin-left:-6.0pt;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr></tbody></table>
+Vértice
+
+X
+
+Y
+
+Nome
+
+Vértice
+
+X
+
+Y
+
+Trecho de Supressão 1
+
+1
+
+346939,7223
+
+8965529,799
+
+Trecho de Supressão 6
+
+52
+
+346850,2457
+
+8965453,168
+
+Trecho de Supressão 1
+
+2
+
+346947,9752
+
+8965516,977
+
+Trecho de Supressão 6
+
+53
+
+346843,5213
+
+8965466,638
+
+Trecho de Supressão 1
+
+3
+
+346935,6485
+
+8965505,479
+
+Trecho de Supressão 6
+
+54
+
+346852,2716
+
+8965454,406
+
+Trecho de Supressão 1
+
+4
+
+346939,7223
+
+8965529,799
+
+Trecho de Supressão 6
+
+55
+
+346850,2457
+
+8965453,168
+
+Trecho de Supressão 1
+
+5
+
+346924,4907
+
+8965515,537
+
+Trecho de Supressão 6
+
+56
+
+346841,7646
+
+8965465,565
+
+Trecho de Supressão 1
+
+6
+
+346927,4078
+
+8965518,268
+
+Trecho de Supressão 7
+
+57
+
+346605,4278
+
+8965157,423
+
+Trecho de Supressão 1
+
+7
+
+346929,4911
+
+8965499,736
+
+Trecho de Supressão 7
+
+58
+
+346607,0492
+
+8965156,153
+
+Trecho de Supressão 1
+
+8
+
+346920,2465
+
+8965511,862
+
+Trecho de Supressão 7
+
+59
+
+346595,4362
+
+8965146,195
+
+Trecho de Supressão 2
+
+9
+
+346567,9446
+
+8965344,461
+
+Trecho de Supressão 7
+
+60
+
+346598,115
+
+8965144,097
+
+Trecho de Supressão 2
+
+10
+
+346548,6116
+
+8965352,288
+
+Trecho de Supressão 7
+
+61
+
+346595,4362
+
+8965146,195
+
+Trecho de Supressão 2
+
+11
+
+346552,9895
+
+8965367,384
+
+Trecho de Supressão 8
+
+62
+
+347254,4745
+
+8964967,64
+
+Trecho de Supressão 2
+
+12
+
+346567,4435
+
+8965360,745
+
+Trecho de Supressão 8
+
+63
+
+347269,1164
+
+8964964,064
+
+Trecho de Supressão 2
+
+13
+
+346539,9323
+
+8965353,512
+
+Trecho de Supressão 8
+
+64
+
+347254,2381
+
+8964965,982
+
+Trecho de Supressão 2
+
+14
+
+346506,6131
+
+8965358,208
+
+Trecho de Supressão 8
+
+65
+
+347254,4745
+
+8964967,64
+
+Trecho de Supressão 2
+
+15
+
+346506,8401
+
+8965359,729
+
+Trecho de Supressão 8
+
+66
+
+347269,3613
+
+8964965,782
+
+Trecho de Supressão 2
+
+16
+
+346507,8107
+
+8965361,955
+
+Trecho de Supressão 9
+
+67
+
+347060,9213
+
+8964985,805
+
+Trecho de Supressão 2
+
+17
+
+346506,6131
+
+8965358,208
+
+Trecho de Supressão 9
+
+68
+
+347064,3106
+
+8964971,186
+
+Trecho de Supressão 2
+
+18
+
+346514,8373
+
+8965372,314
+
+Trecho de Supressão 9
+
+69
+
+347060,9213
+
+8964985,805
+
+Trecho de Supressão 2
+
+19
+
+346541,229
+
+8965368,904
+
+Trecho de Supressão 9
+
+70
+
+347062,694
+
+8964986,158
+
+Trecho de Supressão 2
+
+20
+
+346507,0885
+
+8965362,803
+
+Trecho de Supressão 9
+
+71
+
+347065,5487
+
+8964971,432
+
+Trecho de Supressão 2
+
+21
+
+346508,222
+
+8965363,955
+
+Trecho de Supressão 10
+
+72
+
+347042,7162
+
+8964951,162
+
+Trecho de Supressão 3
+
+22
+
+346442,2136
+
+8964521,646
+
+Trecho de Supressão 10
+
+73
+
+347037,6841
+
+8964946,27
+
+Trecho de Supressão 3
+
+23
+
+346410,7324
+
+8964546,745
+
+Trecho de Supressão 10
+
+74
+
+347027,5866
+
+8964957,374
+
+Trecho de Supressão 3
+
+24
+
+346487,89
+
+8964504,756
+
+Trecho de Supressão 10
+
+75
+
+347032,8767
+
+8964962,516
+
+Trecho de Supressão 3
+
+25
+
+346572,9561
+
+8964479,807
+
+Trecho de Supressão 10
+
+76
+
+347027,5866
+
+8964957,374
+
+Trecho de Supressão 3
+
+26
+
+346448,0891
+
+8964536,428
+
+Trecho de Supressão 11
+
+77
+
+347004,0251
+
+8964774,709
+
+Trecho de Supressão 3
+
+27
+
+346451,4121
+
+8964533,783
+
+Trecho de Supressão 11
+
+78
+
+347003,4399
+
+8964775,72
+
+Trecho de Supressão 3
+
+28
+
+346566,9029
+
+8964465,922
+
+Trecho de Supressão 11
+
+79
+
+347016,4007
+
+8964783,271
+
+Trecho de Supressão 3
+
+29
+
+346479,1112
+
+8964492,228
+
+Trecho de Supressão 11
+
+80
+
+347017,0748
+
+8964782,106
+
+Trecho de Supressão 3
+
+30
+
+346617,76
+
+8964459,262
+
+Trecho de Supressão 11
+
+81
+
+347003,4399
+
+8964775,72
+
+Trecho de Supressão 3
+
+31
+
+346622,7674
+
+8964440,984
+
+Trecho de Supressão 12
+
+82
+
+347040,1602
+
+8964735,712
+
+Trecho de Supressão 3
+
+32
+
+346410,7324
+
+8964546,745
+
+Trecho de Supressão 12
+
+83
+
+347048,3625
+
+8964748,29
+
+Trecho de Supressão 3
+
+33
+
+346420,0009
+
+8964558,586
+
+Trecho de Supressão 12
+
+84
+
+347040,1602
+
+8964735,712
+
+Trecho de Supressão 4
+
+34
+
+347689,6229
+
+8964784,447
+
+Trecho de Supressão 12
+
+85
+
+347049,5553
+
+8964747,429
+
+Trecho de Supressão 4
+
+35
+
+347701,9949
+
+8964770,797
+
+Trecho de Supressão 12
+
+86
+
+347041,2597
+
+8964734,918
+
+Trecho de Supressão 4
+
+36
+
+347688,8926
+
+8964771,787
+
+Trecho de Supressão 13
+
+87
+
+347582,8087
+
+8964589,576
+
+Trecho de Supressão 4
+
+37
+
+347679,7296
+
+8964795,424
+
+Trecho de Supressão 13
+
+88
+
+347581,7604
+
+8964588,357
+
+Trecho de Supressão 4
+
+38
+
+347695,8794
+
+8964721,061
+
+Trecho de Supressão 13
+
+89
+
+347570,3056
+
+8964598,042
+
+Trecho de Supressão 4
+
+39
+
+347719,5341
+
+8964749,376
+
+Trecho de Supressão 13
+
+90
+
+347571,4254
+
+8964599,344
+
+Trecho de Supressão 4
+
+40
+
+347706,9869
+
+8964734,357
+
+Trecho de Supressão 13
+
+91
+
+347581,7604
+
+8964588,357
+
+Trecho de Supressão 4
+
+41
+
+347695,8794
+
+8964721,061
+
+Trecho de Supressão 14
+
+92
+
+346656,5302
+
+8965254,629
+
+Trecho de Supressão 4
+
+42
+
+347661,9024
+
+8964681,551
+
+Trecho de Supressão 14
+
+93
+
+346671,7203
+
+8965253,841
+
+Trecho de Supressão 4
+
+43
+
+347699,674
+
+8964748,651
+
+Trecho de Supressão 14
+
+94
+
+346656,8175
+
+8965252,136
+
+Trecho de Supressão 4
+
+44
+
+347690,2464
+
+8964760,344
+
+Trecho de Supressão 14
+
+95
+
+346656,5302
+
+8965254,629
+
+Trecho de Supressão 4
+
+45
+
+347651,6877
+
+8964692,678
+
+Trecho de Supressão 14
+
+96
+
+346671,4762
+
+8965255,959
+
+Trecho de Supressão 4
+
+46
+
+347693,7141
+
+8964741,699
+
+Trecho de Supressão 15
+
+97
+
+346770,3461
+
+8965204,417
+
+Trecho de Supressão 5
+
+47
+
+347241,1277
+
+8965786,463
+
+Trecho de Supressão 15
+
+98
+
+346756,5985
+
+8965198,351
+
+Trecho de Supressão 5
+
+48
+
+347231,0741
+
+8965797,596
+
+Trecho de Supressão 15
+
+99
+
+346769,4918
+
+8965206,079
+
+Trecho de Supressão 5
+
+49
+
+347233,8202
+
+8965800,12
+
+Trecho de Supressão 15
+
+100
+
+346755,6103
+
+8965200,273
+
+Trecho de Supressão 5
+
+50
+
+347243,9171
+
+8965789,027
+
+Trecho de Supressão 15
+
+101
+
+346769,4918
+
+8965206,079
+
+Trecho de Supressão 5
+
+51
+
+347231,0741
+
+8965797,596

@@ -1,5 +1,3 @@
-###DEL-005211-0-000-20-01-1943@@@
-
 DECRETO‑LEI N. 5.211 – DE 20 DE JANEIRO DE 1943
 
 Dispõe sobre a administração e instalação do Hospital dos Servidores do Estado

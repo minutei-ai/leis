@@ -1,5 +1,3 @@
-###DEC-055491-A-000-08-01-1965@@@
-
 decreto nº 55.491-A, de 8 de janeiro de 1965.
 
 Concede à “Aerolíneas Peruanas Sociedad Anonima”(A.P.S.A.) autorização para funcionar no Brasil.

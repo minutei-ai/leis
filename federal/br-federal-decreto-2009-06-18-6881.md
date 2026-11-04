@@ -1,5 +1,3 @@
-###DEC-006881-0-000-18-06-2009@@@
-
 DECRETO Nº 6.881, DE 18 DE JUNHO DE 2009.
 
 Dispõe sobre a autorização de operações de exportação de bens de uso na área nuclear e serviços relacionados para a República da Índia.

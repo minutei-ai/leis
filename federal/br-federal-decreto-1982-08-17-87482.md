@@ -1,5 +1,3 @@
-###DEC-087482-0-000-17-08-1982@@@
-
 DECRETO Nº 87.482, DE 17 DE AGOSTO DE 1982
 
 Concede à SIDERURGIA BRASILEIRA S/A - SIDERBRÁS autorização para proceder a aumento do seu capital autorizado.

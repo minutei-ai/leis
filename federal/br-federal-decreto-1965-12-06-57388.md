@@ -1,5 +1,3 @@
-###DEC-057388-0-000-06-12-1965@@@
-
 DECRETO Nº 57.388, DE 6 DE DEZEMBRO DE 1965.
 
 Concede à Óxima - óxidos, Minérios de Associados Ltda. autorização para funcionar como emprêsa de mineração.

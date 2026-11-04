@@ -1,5 +1,3 @@
-###DEC-051823-0-000-12-03-1963@@@
-
 DECRETO Nº 51.823, DE 12 DE MARÇO DE 1963.
 
 Concede à Mineração Pirangi S.A. autorização para continuar a funcionar como emprêsa de mineração.

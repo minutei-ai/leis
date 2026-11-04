@@ -1,5 +1,3 @@
-###DEC-073311-0-000-13-12-1973@@@
-
 DECRETO Nº 73.311 - DE 13 DE DEZEMBRO DE 1973
 
 Concede a Arthur Sanches e Cia. limitada o direito de lavrar feldspato, quartzo e argila, no Município de Vargem Grande - Estado de São Paulo.

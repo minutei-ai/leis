@@ -10,12 +10,10 @@ Art. 2º Revogadas disposições em contrário, esta lei entrará em vigor na da
 
 Gabinete do Prefeito de Rio Verde, aos 12 de novembro de 2025.
 
-WELLINGTON SOARES CARRIJO FILHO<br>
+WELLINGTON SOARES CARRIJO FILHO
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
-Procurador-Geral
+VINÍCIUS FONSÊCA CAMPOS
 
-<br>
-<br>
+Procurador-Geral

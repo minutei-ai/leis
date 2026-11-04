@@ -1,7 +1,3 @@
-1
-
-###DEC-085824-0-000-18-03-1981@@@
-
 Decreto nº 85.824, de 18 de março de 1981.
 
 Autoriza o funcionamento do curso de Ciências Econômicas, da Faculdade de Ciências Administrativas, Contábeis e Econômicas de Umuarama, Estado do Paraná.

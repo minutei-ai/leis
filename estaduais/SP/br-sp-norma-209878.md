@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209878)<br>
-
 # DECRETO N° 68.797, DE 23 DE AGOSTO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Itapetininga, o imóvel que especifica._

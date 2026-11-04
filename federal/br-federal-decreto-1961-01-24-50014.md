@@ -1,5 +1,3 @@
-###DEC-050014-0-000-24-01-1961@@@
-
 DECRETO Nº 50.014, DE 24 DE JANEIRO DE 1961.
 
 Autoriza a cidadã brasileira Izabel Rodrigues da Silva a pesquisar minério de ouro no município de Jacobina, Estado da Bahia.

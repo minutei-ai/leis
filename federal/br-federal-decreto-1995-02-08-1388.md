@@ -1,7 +1,3 @@
-1
-
-###DEC-001388-0-000-08-02-1995@@@
-
 DECRETO Nº 1.388, DE 8 DE FEVEREIRO DE 1995
 
 Altera o art. 3º do Decreto nº 74.557, de 12 de setembro de 1974, que cria a Comissão Interministerial para os Recursos do Mar (CIRM).

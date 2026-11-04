@@ -1,5 +1,3 @@
-###DEC-086250-0-000-30-07-1981@@@
-
 Decreto nº 86.250, de 30 de julho de 1981.
 
 Dispõe sobre o fornecimento de usinas nucleoelétricas e dá outras providências.

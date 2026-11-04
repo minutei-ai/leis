@@ -1,5 +1,3 @@
-###DEC-003185-0-000-30-09-1999@@@
-
 Decreto N.º 3.185, DE 30 SETEMBRO DE 1999.
 
 Prorroga o prazo de alocação, em caráter temporário, dos cargos em comissão e funções gratificadas, estabelecido nos Decretos que menciona.

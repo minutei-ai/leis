@@ -1,5 +1,3 @@
-###DEC-094599-0-000-13-07-1987@@@
-
 DECRETO N° 94.599, DE 13 DE JULHO DE 1987
 
 Altera dispositivos do Decreto n° 87.179, de 18 de maio de 1982, que aprovou o Regulamento para o Corpo de Praças da Armada.

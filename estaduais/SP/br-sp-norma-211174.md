@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211174)<br>
-
 # DECRETO N° 69.687, DE 08 DE JULHO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito, por prazo determinado, do Serviço Autônomo de Água e Esgoto de Sorocaba, o imóvel que especifica._

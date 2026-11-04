@@ -1,5 +1,3 @@
-###DEC-060396-0-000-11-03-1967@@@
-
 Decreto nº 60.396, de 11 de março de 1967.
 
 Autoriza o cidadão brasileiro Benvindo Ponciano dos Santos a lavrar cassiterita e minério de tântalo, no município de Cassiterita, Estado de Minas Gerais.

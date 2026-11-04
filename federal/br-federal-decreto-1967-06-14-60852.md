@@ -1,5 +1,3 @@
-###DEC-060852-0-000-14-06-1967@@@
-
 DECRETO Nº 60.852, DE 14 DE JUNHO DE 1967.
 
 Dispõe sôbre normas e recomendações hidrológicas e dá outras providências.

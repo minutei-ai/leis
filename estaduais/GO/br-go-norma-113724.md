@@ -16,34 +16,220 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 3.075,48</td><td style=" width:85px;    ">R$ 13.398,38</td><td style=" width:85px;    ">R$ 16.473,86</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3177</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 43.241,58</td><td style=" width:85px;    ">R$ 116.694,09</td><td style=" width:85px;    ">R$ 159.935,67</td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3178</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 2.400,00</td><td style=" width:85px;    ">R$ 12.785,00</td><td style=" width:85px;    ">R$ 15.185,00</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2351</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 163.767.098,72</td><td style=" width:85px;    ">R$ 1.259.439,97</td><td style=" width:85px;    ">R$ 165.026.538,69</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 142.877,47</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 1.259.439,97</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 1.402.317,44</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 3.075,48
+
+R$ 13.398,38
+
+R$ 16.473,86
+
+CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3177
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 43.241,58
+
+R$ 116.694,09
+
+R$ 159.935,67
+
+ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3178
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 2.400,00
+
+R$ 12.785,00
+
+R$ 15.185,00
+
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 163.767.098,72
+
+R$ 1.259.439,97
+
+R$ 165.026.538,69
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 142.877,47
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 1.259.439,97
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 1.402.317,44
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 10.952.801,25</td><td style=" width:85px;    ">R$ 142.877,47</td><td style=" width:85px;    ">R$ 142.877,47</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 31.076.179,41</td><td style=" width:85px;    ">R$ 1.259.439,97</td><td style=" width:85px;    ">R$ 1.259.439,97</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 142.877,47</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 1.259.439,97</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   "><b>TOTAL</b></td><td style=" width:340px;  height:19px;   ">R$ 1.402.317,44</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 142.877,47</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 1.259.439,97</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 1.402.317,44</td></tr></tbody></table>
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 10.952.801,25
+
+R$ 142.877,47
+
+R$ 142.877,47
+
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 31.076.179,41
+
+R$ 1.259.439,97
+
+R$ 1.259.439,97
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 142.877,47
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 1.259.439,97
+
+**TOTAL**
+
+R$ 1.402.317,44
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 142.877,47
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 1.259.439,97
+
+**TOTAL**
+
+R$ 1.402.317,44

@@ -1,7 +1,3 @@
-1
-
-###DEC-000969-0-000-03-11-1993@@@
-
 DECRETO Nº 969, DE 3 DE NOVEMBRO DE 1993
 
 Regulamenta o art. 22 da Lei nº 8.460, de 17 de setembro de 1992, que dispõe sobre o benefício-alimentação destinado aos servidores civis dos órgãos das Administração Pública Federal direta, autárquica e fundacional.

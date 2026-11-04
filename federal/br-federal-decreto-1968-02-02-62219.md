@@ -1,5 +1,3 @@
-###DEC-062219-0-000-02-02-1968@@@
-
 Decreto Nº 62.219, DE 2 DE FEVEREIRO DE 1968.
 
 Regulamenta o Decreto-Lei nº 313, de 7 de março de 1967, alterado pela Lei nº 5.343, de 28 de outubro de 1967, que criou o Quadro de Oficiais Engenheiros, no Corpo de Oficiais da Aeronáutica.

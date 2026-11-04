@@ -1,5 +1,3 @@
-###DEC-001835-0-000-14-03-1996@@@
-
 DECRETO Nº 1.835, DE 14 DE MARÇO DE 1996.
 
 Revoga o art. 40 do Regulamento para o Corpo Auxiliar Feminino da Reserva da Marinha, aprovado pelo Decreto nº 95.660, de 25 de janeiro de 1988.

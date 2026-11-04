@@ -1,5 +1,3 @@
-###DEL-008450-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.450 – DE 26 DE DEZEMBRO DE 1945
 
 Institui o regime de assistência médica e hospitalar dos servidores federais e dá outras providências

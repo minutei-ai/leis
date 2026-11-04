@@ -1,5 +1,3 @@
-###DEC-053993-0-000-02-07-1964@@@
-
 DECRETO Nº 53.993, DE 2 DE JULHO DE 1964.
 
 Concede reconhecimento a cursos do Instituto Municipal de Belas Artes de Bagé, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###MPV-001893-0-069-27-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.893-69, DE 27 DE agosto DE 1999.
 
 Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo Federal, e dá outras providências.

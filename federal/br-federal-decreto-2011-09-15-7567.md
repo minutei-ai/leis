@@ -1,5 +1,3 @@
-###DEC-007567-0-000-15-09-2011-PUB-01@@@
-
 DECRETO N°\- 7.567, DE 15 DE SETEMBRO DE 2011
 
 Regulamenta os arts. 5° e 6° da Medida Provisória n° 540, de 2 de agosto de 2011, os quais dispõem sobre a redução do Imposto sobre Produtos Industrializados - IPI em favor da indústria automotiva, e altera a Tabela de Incidência do IPI - TIPI, aprovada pelo Decreto n° 6.006, de 28 de dezembro de 2006.

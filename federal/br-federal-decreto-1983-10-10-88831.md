@@ -1,5 +1,3 @@
-###DEC-088831-0-000-10-10-1983@@@
-
 Decreto nº 88.831, de 10 de outubro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à FUNDAÇÃO EDUCACIONAL UNIÃO DA SERRA - RÁDIO ALVORADA DE MARAU, para explorar serviço de radiodifusão sonora em onda média, na cidade de Marau, Estado do Rio Grande do Sul.

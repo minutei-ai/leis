@@ -1,5 +1,3 @@
-###DEC-091538-0-000-16-08-1985@@@
-
 Decreto nº 91.538, de 16 de agosto de 1985.
 
 Cria o Programa Ruas em Paz e dá outras providências

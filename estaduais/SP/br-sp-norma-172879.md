@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/172879)<br>
 [Texto com alterações](https://www.al.sp.gov.br/repositorio/legislacao/decreto/2014/decreto-60435-13.05.2014.html)
 
 # DECRETO N° 60.435, DE 13 DE MAIO DE 2014

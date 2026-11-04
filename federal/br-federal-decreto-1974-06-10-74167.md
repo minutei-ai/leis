@@ -1,5 +1,3 @@
-###DEC-074167-0-000-10-06-1974@@@
-
 DECRETO nº 74.167, de 10 de junho de 1974.
 
 Concede reconhecimento ao curso de Artes Plásticas do Instituto Municipal de Belas Artes "Professora Rita Jobim de Vasconcelos", mantido pela Prefeitura Municipal de Bagé, com sede na cidade de Bagé, Estado do Rio Grande do Sul.

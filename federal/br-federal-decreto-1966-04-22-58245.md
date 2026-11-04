@@ -1,5 +1,3 @@
-###DEC-058245-0-000-22-04-1966@@@
-
 decreto nº 58.245, de 22 de abril de 1966.
 
 Concede autorização, em caráter permanente, à Sociedade Algodoeira do Nordeste Brasileiro S.A. “Sanbra” para trabalho contínuo nas fábricas de extração e tratamento de óleos vegetais e subprodutos.

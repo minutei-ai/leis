@@ -1,6 +1,10 @@
 > **LEI Nº 3.637, DE 02 DE JULHO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.248, de 4 de dezembro de 1997, que criou o Departamento Estadual de Água e Saneamento - DEAS.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.248, de 4 de dezembro de 1997, que criou o Departamento Estadual de Água e Saneamento - DEAS.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -22,7 +26,6 @@
 
 Rio Branco-Acre, 02 de julho de 2020, 132º da República, 118º do Tratado de Petrópolis e 59º do Estado do Acre.
 
-<br>
+**Gladson de Lima Cameli
 
-**Gladson de Lima Cameli<br>
 **Governador do Estado do Acre

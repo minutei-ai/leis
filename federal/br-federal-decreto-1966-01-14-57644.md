@@ -1,5 +1,3 @@
-###DEC-057644-0-000-14-01-1966@@@
-
 DECRETO Nº 57.644, de 14 de janeiro de 1966.
 
 Retifica o Decreto nº 55.443, de 5 de janeiro de 1965, do Ministério do Trabalho e Previdência Social.

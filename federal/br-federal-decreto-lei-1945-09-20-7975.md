@@ -1,5 +1,3 @@
-###DEL-007975-0-000-20-09-1945@@@
-
 DECRETO-LEI N. 7.975 – DE 20 DE SETEMBRO DE 1945
 
 Altera, em parte, o artigo 35 do Decreto-lei nº 5.388-A, de 12 de abril de 1943.

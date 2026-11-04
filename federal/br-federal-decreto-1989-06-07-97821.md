@@ -1,7 +1,3 @@
-1
-
-###DEC-097821-0-000-07-06-1989@@@
-
 DECRETO N° 97.821, DE 07 DE JUNHO DE 1989
 
 Altera as alíquotas do IPI incidentes nas aquisições de veículos destinados ao patrulhamento policial.

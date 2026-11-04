@@ -1,5 +1,3 @@
-###DEC-073071-0-000-01-11-1973@@@
-
 DECRETO Nº 73.071 - DE 1 DE NOVEMBRO DE 1973
 
 Torna sem efeito redistribuição de cargo, com o respectivo ocupante, do Quadro de Pessoal do extinto Departamento de Correios e Telégrafos para o Ministério da Aeronáutica.

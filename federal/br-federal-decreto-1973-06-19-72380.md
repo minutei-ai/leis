@@ -1,5 +1,3 @@
-###DEC-072380-0-000-19-06-1973@@@
-
 DECRETO Nº 72.380, DE 19 DE JUNHO DE 1973.
 
 Modifica a denominação do Centro Regional de Pesquisas Educacionais João Pinheiro.

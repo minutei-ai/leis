@@ -1,5 +1,3 @@
-###DEC-071669-0-000-08-01-1973@@@
-
 DECRETO Nº 71.669, DE 8 DE JANEIRO DE 1973.
 
 Concede à Mineração Santa Mônica Ltda. o direito de lavrar bauxita no município de Oriximiná, Estado do Pará.

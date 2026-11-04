@@ -1,5 +1,3 @@
-###DEC-001774-0-000-04-01-1996@@@
-
 DECRETO Nº 1.774, DE 04 DE JANEIRO DE 1996
 
 Altera, no Ministério do Exército, a sede da Diretoria de Recuperação de Barueri-SP para Brasília-DF e dá outras providências.

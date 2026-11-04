@@ -1,5 +1,3 @@
-###DEC-078160-0-000-02-08-1976@@@
-
 decreto nº 78.160, de 2 de agosto de 1976.
 
 Revoga os Decretos nºs 39.635 e 47.889, de 19 de julho de 1956 e 8 de março de 1960, respectivamente, e dá outras providências.

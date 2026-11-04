@@ -1,5 +1,3 @@
-###DEC-095991-0-000-02-05-1988@@@
-
 DECRETO N° 95.991, DE 02 DE MAIO DE 1988
 
 Outorga concessão à RÁDIO AM CIDADE DE CASTELO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Castelo do Piauí, Estado do Piauí.

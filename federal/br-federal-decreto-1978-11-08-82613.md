@@ -1,5 +1,3 @@
-###DEC-082613-0-000-08-11-1978@@@
-
 Decreto nº 82.613, de 08 de novembro de 1978.
 
 Fixa o fator de reajustamento salarial relativo a novembro de 1978.

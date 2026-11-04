@@ -1,7 +1,3 @@
-1
-
-###DEC-098949-0-000-15-02-1990@@@
-
 DECRETO Nº 98.949, DE 15 DE FEVEREIRO DE 1990
 
 Outorga concessão à REDE NORDESTE DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão) na Cidade de Caruaru, Estado de Pernambuco.

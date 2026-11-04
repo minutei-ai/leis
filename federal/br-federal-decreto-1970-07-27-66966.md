@@ -1,5 +1,3 @@
-###DEC-066966-0-000-27-07-1970@@@
-
 DECRETO Nº 66.966, DE 27 DE JULHO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - da Universidade Federal de Goiás, cargo originário da extinta Fundação Brasil Central.

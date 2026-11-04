@@ -1,5 +1,3 @@
-###DEC-054164-0-000-21-08-1964@@@
-
 DECRETO Nº 54.164, DE 21 DE AGôSTO DE 1964.
 
 Autoriza o cidadão brasileiro Aquilino Peres de Moura a pesquisar caulim no município de Arcos, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-001778-0-000-09-01-1996@@@
-
 DECRETO Nº 1.778, DE 9 DE JANEIRO DE 1996.
 
 Remaneja os cargos em comissão que menciona e dá outras providências.

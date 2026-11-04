@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57642)
-
 # LEI Nº 12.039, DE 16 DE SETEMBRO DE 2005
 
 ## ( PL 376/2004 - João Caramez)

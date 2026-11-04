@@ -1,5 +1,3 @@
-###DEC-049137-0-000-24-10-1960@@@
-
 DECRETO Nº 49.137, DE 24 DE OUTUBRO DE 1960.
 
 Torna sem efeito o Decreto nº 48.457, de 1 de julho de 1960.

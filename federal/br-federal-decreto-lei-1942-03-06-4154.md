@@ -1,5 +1,3 @@
-###DEL-004154-0-000-06-03-1942@@@
-
 DECRETO-LEI N. 4.154 – DE 6 DE MARÇO DE 1942
 
 Dispõe sobre aplicação de crédito orçamentário, e dá outras providências

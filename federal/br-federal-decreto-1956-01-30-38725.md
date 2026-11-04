@@ -1,38 +1,36 @@
-###DEC-038725-0-000-30-01-1956@@@
+**DECRETO Nº 38.725, DE 30 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.725, DE 30 DE JANEIRO DE 1956.</strong>
+***Aprova o Regimento do Serviço de Documentação do Ministério da Educação e Cultura.***
 
-<em><strong>Aprova o Regimento do Serviço de Documentação do Ministério da Educação e Cultura.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço de Documentação do Ministério da Educação e Cultura (S.D.), que com êste baixa, assinado pelo titulor da referida pasta.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço de Documentação do Ministério da Educação e Cultura (S.D.), que com êste baixa, assinado pelo titulor da referida pasta.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 30 de janeiro de 1956; 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Abgar Renault
 
-<strong>REGIMENTO DO SERVIÇO DE DOCUMENTAÇAO DO MINISTÉRIO DA EDUCAÇÃO E CULTURA</strong>
+**REGIMENTO DO SERVIÇO DE DOCUMENTAÇAO DO MINISTÉRIO DA EDUCAÇÃO E CULTURA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da finalidade e competência</em>
+*Da finalidade e competência*
 
-<strong>Art</strong>. 1º O Serviço de Documentação do Ministério da Educação e Cultura (S.D.), diretamente subordinado ao Ministro de Estado, tem por finalidade reunir, classificar e catalogar todo elemento que interesse direta e indiretamente às questões educacionais e culturais ligadas a êste Ministério, com o objetivo de criar “meios” coligidos e ordenados que facilitem amplo serviço de informações, estudos, pesquisas e divulgação; promover exposições e conferências sôbre temas culturais e artísticos; fazer publicações de interêsse cultural, artístico, científico e educacional; estabelecer intercâmbio, no país e no estrangeiro, com entidades oficiais e particulares interessadas nos mesmos problemas e realizar outros trabalhos, além de documentar a história cultural e educacional do país e, de forma particular, as atividades do Ministério.
+**Art**. 1º O Serviço de Documentação do Ministério da Educação e Cultura (S.D.), diretamente subordinado ao Ministro de Estado, tem por finalidade reunir, classificar e catalogar todo elemento que interesse direta e indiretamente às questões educacionais e culturais ligadas a êste Ministério, com o objetivo de criar “meios” coligidos e ordenados que facilitem amplo serviço de informações, estudos, pesquisas e divulgação; promover exposições e conferências sôbre temas culturais e artísticos; fazer publicações de interêsse cultural, artístico, científico e educacional; estabelecer intercâmbio, no país e no estrangeiro, com entidades oficiais e particulares interessadas nos mesmos problemas e realizar outros trabalhos, além de documentar a história cultural e educacional do país e, de forma particular, as atividades do Ministério.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 2º - O S. D. compõe-se de:
+**Art**. 2º - O S. D. compõe-se de:
 
 Seção de Administração (S.A.).
 
@@ -44,19 +42,19 @@ Seção de Pesquisa (S.P.).
 
 Biblioteca - (B).
 
-<strong>Art</strong>. 3º O S.D. terá um Diretor.
+**Art**. 3º O S.D. terá um Diretor.
 
-<strong>Art</strong>. 4º O Diretor terá um Secretário escolhido dentre os servidores públicos federais.
+**Art**. 4º O Diretor terá um Secretário escolhido dentre os servidores públicos federais.
 
-<strong>Art</strong>. 5º As Seções e a Biblioteca terão Chefes designados pelo Diretor.
+**Art**. 5º As Seções e a Biblioteca terão Chefes designados pelo Diretor.
 
-<strong>Art</strong>. 6º O Setor de Divulgação do Gabinete do Ministro receberá colaboração do S.D.
+**Art**. 6º O Setor de Divulgação do Gabinete do Ministro receberá colaboração do S.D.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência dos órgãos</em>
+*Da Competência dos órgãos*
 
-<strong>Art</strong>. 7º Compete à S.A.:
+**Art**. 7º Compete à S.A.:
 
 I - executar todos os serviços de datilografia do S.D.;
 
@@ -70,7 +68,7 @@ V - manter sob seu contrôle e fiscalização o Salão de Exposições do edifí
 
 VI - dirigir a revisão e a impressão dos trabalhos feitos pelo S.D., determinando a tiragem, o formato, a qualidade do papel e outros indicações.
 
-<strong>Art</strong>. 8º Compete à S.D.:
+**Art**. 8º Compete à S.D.:
 
 I - divulgar, por meio da revista “Arquivos”, as atividades do Ministério;
 
@@ -96,7 +94,7 @@ XI - coordenar todos os elementos necessários à elaboração dos relatórios d
 
 XII - coligir os dados necessários à elaboração dos relatórios do S.D.
 
-<strong>Art</strong>. 9º Compete à S. F. D.:
+**Art**. 9º Compete à S. F. D.:
 
 I - organizar arquivo especializado ou bibliofilmoteca que inclua microfilmes de texto, mapas, gráficos, manuscritos, obras raras ou esgotadas, etc.;
 
@@ -118,7 +116,7 @@ IX - facilitar a formação técnica de estagiários nos serviços de laboratór
 
 X - estudar e propôr às autoridades competentes auxílios técnicos para instalção de serviços de mivrofilmes nas instituições subordinadas ao Ministério.
 
-<strong>Art</strong>. 10. Compete à S. P.:
+**Art**. 10. Compete à S. P.:
 
 I - realizar investigações em todos os campos culturais e educacionais para atender e facilitar o trabalho dos órgãos especializados do Ministério, investigar quais as necessidades imediatas que devem ser atendidas a fim de favorecer o progresso educacional no país, estudar e propôr soluções para melhoria e atualização dos sistemas de divulgação e vulgarização de conhecimentos;
 
@@ -144,7 +142,7 @@ XI - coligir informes e elementos necessários ao estudo e à divulgação da ar
 
 XII - coligir os dados, relativos à Seção, necessários à elaboração dos relatórios do S. D.
 
-<strong>Art</strong>. 11. Compete à B.:
+**Art**. 11. Compete à B.:
 
 I - registrar, classificar, catalogar, guardar, conservar e permutar obras e direitos autorais, nacionais e estrangeiros, de propriedade do S. D;
 
@@ -182,11 +180,11 @@ XVII - manter aparelhagem de gravação, que constituirá o arquivo da palavra, 
 
 XVIII - coligir os dados necessários à elaboração dos relatórios do S. D.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 12. Ao Diretor incumbe:
+**Art**. 12. Ao Diretor incumbe:
 
 I - dirigir os trabalhos do S. D.;
 
@@ -240,7 +238,7 @@ XXV - promover e estimular iniciativas que favoreçam o movimento cultural e edu
 
 XXIV - promover e organizar espectáculos de arte e cooperar nas iniciativas que visem o desenvolvimento da arte em geral.
 
-<strong>Art</strong>. 13. Aos Chefes de Seções e da B. incumbe:
+**Art**. 13. Aos Chefes de Seções e da B. incumbe:
 
 I - dirigir e fiscalizar os trabalhos dos seus respectivos setores;
 
@@ -266,7 +264,7 @@ XI - expedir boletins de merecimento dos funcionários que lhe forem diretamente
 
 XII - velar pela disciplina nos recintos de trabalhos.
 
-<strong>Art</strong>. 14. Ao Secretário incumbe:
+**Art**. 14. Ao Secretário incumbe:
 
 I - antender as pessoas que desejarem comunicar-se com o Diretor, encaminhando-se a êle ou dando-lhe conhecimento do assunto que constituir, objeto da audiência;
 
@@ -274,25 +272,25 @@ II - representar o Diretor, quando designado;
 
 III - redigir a correspondência do Diretor.
 
-<strong>Art</strong>. 15. Aos demais servidores sem funções especificadas neste Regimento compete executar os trabalhos de que foram incumbidos por seus superiores.
+**Art**. 15. Aos demais servidores sem funções especificadas neste Regimento compete executar os trabalhos de que foram incumbidos por seus superiores.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 16. O S. D. terá lotação aprovada por decreto.
+**Art**. 16. O S. D. terá lotação aprovada por decreto.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 17. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o serviço público.
+**Art**. 17. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o serviço público.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 18. Serão substituídos, automàticamente, em seus impedimentos eventuais, até 30 dias:
+**Art**. 18. Serão substituídos, automàticamente, em seus impedimentos eventuais, até 30 dias:
 
 I - O Diretor, mediante indicação sua e designição do Ministro, por um dos Chefes de Seção ou da B.
 
@@ -300,14 +298,14 @@ II - os Chefes de Seção e da B., por servidores designados pelo Diretor, media
 
 Parágrafo único - Haverá sempre servidores prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 19. Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias, ordens e instruções de serviço que digam respeito às suas atividades específicas.
+**Art**. 19. Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias, ordens e instruções de serviço que digam respeito às suas atividades específicas.
 
-<strong>Art</strong>. 20. Mediante instruções de serviço dos respectivos Chefes. As Seções poderão desdobrar-se em turmas.
+**Art**. 20. Mediante instruções de serviço dos respectivos Chefes. As Seções poderão desdobrar-se em turmas.
 
 Rio de Janeiro, 30 de janeiro de 1956.
 
-<strong>ABGAR RENAULT</strong>
+**ABGAR RENAULT**

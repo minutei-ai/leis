@@ -1,5 +1,3 @@
-###DEC-078428-0-000-16-09-1976@@@
-
 decreto nº 78.428, de 16 de setembro de 1976.
 
 Concede reconhecimento ao curso de Tecnologia Sanitária, da Faculdade de Engenharia de Limeira, integrante da Universidade Estadual de Campinas, com sede na cidade de Campinas, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-053272-0-000-13-12-1963@@@
-
 DECRETO Nº 53.272, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro José Magalhães Lima a lavrar minério de ferro, no município de Nova Lima, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-047974-0-000-02-04-1960@@@
-
 DECRETO nº 47.974, DE 2 DE ABRIL DE 1960.
 
 Altera, em caráter temporário, o Regulamento de Promoções para Oficiais da Marinha.

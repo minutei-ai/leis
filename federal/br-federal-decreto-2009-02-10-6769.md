@@ -1,5 +1,3 @@
-###DEC-006769-0-000-10-02-2009@@@
-
 DECRETO Nº 6.769, DE 10 DE FEVEREIRO DE 2009.
 
 Dá nova redação aos arts. 5o, 6o e 7o do Decreto no 6.018, de 22 de janeiro de 2007, que regulamenta a Medida Provisória no 353, de 22 de janeiro de 2007, convertida na Lei no 11.483, de 31 de maio de 2007, que dispõe sobre a revitalização do setor ferroviário e dá outras providências.

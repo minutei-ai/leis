@@ -1,5 +1,3 @@
-###MPV-001963-0-013-09-12-1999@@@
-
 mEDIDA PROVISÓRIA nº 1.963-13, de 9 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

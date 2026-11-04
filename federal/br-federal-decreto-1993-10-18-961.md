@@ -1,7 +1,3 @@
-1
-
-###DEC-000961-0-000-18-10-1993@@@
-
 DECRETO N° 961, DE 18 DE OUTUBRO DE 1993
 
 Dá nova redação ao art. 8° dos Estatutos da Indústria de Material Bélico do Brasil - IMBEL, aprovados pelo Decreto n ° 97.752, de 16 de maio de l989.

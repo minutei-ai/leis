@@ -1,5 +1,3 @@
-###DEC-004033-0-000-26-11-2001@@@
-
 DECRETO Nº 4.033, DE 26 DE NOVEMBRO DE 2001
 
 Altera o Decreto no 3.457, de 12 de maio de 2000, que aprova o Estatuto Social da Empresa de Processamento de Dados da Previdência Social - DATAPREV, para adequar a denominação da Empresa ao disposto na Medida Provisória no 2.216-37, de 31 de agosto de 2001.

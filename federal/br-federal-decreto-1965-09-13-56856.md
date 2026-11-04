@@ -1,5 +1,3 @@
-###DEC-056856-0-000-13-09-1965@@@
-
 DECRETO Nº 56.856, DE 13 DE SETEMBRO DE 1965.
 
 Abre, ao Ministério das Relações Exteriores, o crédito especial de Cr$65.000.000, para atender às despesas decorrentes da visita ao Brasil do Presidente da República Francesa.

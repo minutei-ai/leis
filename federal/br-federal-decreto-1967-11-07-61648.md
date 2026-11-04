@@ -1,5 +1,3 @@
-###DEC-061648-0-000-07-11-1967@@@
-
 Decreto nº 61.648, de 7 de novembro de 1967
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamentos novos, sem similar nacional, neste descritos e consignados a emprêsa “Artefatos Técnicos Olinda S. A. - ARTOL”, de Olinda (PE).
@@ -14,7 +12,35 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, exceto a taxa prevista no Decreto-lei nº 83, de 26-12-66, artigo 9º, a importação de equipamentos novos sem similar nacional, a seguir descritos e consignados à emprêsa “Artefatos Técnicos Olinda S. A. - ARTOL”, de Olinda (PE):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:262.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:262.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Prensa automática Universal, marca John A. Chappuis, tipo PAU 2 x 2,20 ton., equipada, procedente da Suíça, com 3 jogos de ferramentas para fabricação de fechaduras de 60, 70 e 80 mm. respectivamente. Pêso 2.400 kg..........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>145.168</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:262.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Máquina de fundir sob pressão, marca Oskar Frech, tipo DA 10, de fabricação alemã, totalmente equipada para fundição de chaves...............................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.450</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:262.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total......................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:50.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>155.618</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1
+
+Prensa automática Universal, marca John A. Chappuis, tipo PAU 2 x 2,20 ton., equipada, procedente da Suíça, com 3 jogos de ferramentas para fabricação de fechaduras de 60, 70 e 80 mm. respectivamente. Pêso 2.400 kg..........................................................................................
+
+1
+
+145.168
+
+2
+
+Máquina de fundir sob pressão, marca Oskar Frech, tipo DA 10, de fabricação alemã, totalmente equipada para fundição de chaves...............................................................
+
+1
+
+10.450
+
+Total......................................................................................
+
+-
+
+155.618
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

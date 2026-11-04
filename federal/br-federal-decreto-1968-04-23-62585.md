@@ -1,5 +1,3 @@
-###DEC-062585-0-000-23-04-1968@@@
-
 DECRETO Nº 62.585, DE 23 DE ABRIL DE 1968.
 
 Dispõe sôbre gratificação aos membros do Conselho Deliberativo da Superintendência do Desenvolvimento da Região Centro-Oeste (SUDECO).

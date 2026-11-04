@@ -1,5 +1,3 @@
-###DEC-050736-0-000-07-06-1961@@@
-
 DECRETO Nº 50.736, DE 7 DE JUNHO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Distrito de Amanarí, Município de Maranguape, no Estado do Ceará.

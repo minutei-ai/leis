@@ -1,5 +1,3 @@
-###DEC-068708-0-000-03-06-1971@@@
-
 DECRETO Nº 68.708 - de 3 de junho de 1971.
 
 Dispõe sôbre a concessão de diárias aos funcionários civis estagiários da Escola Superior de Guerra ou integrantes de seu Corpo Permanente, em viagem de estudos no exterior.

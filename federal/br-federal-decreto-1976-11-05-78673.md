@@ -1,5 +1,3 @@
-###DEC-078673-0-000-05-11-1976@@@
-
 DECRETO Nº 78.673, DE 5 NOVEMBRO DE 1976.
 
 Dá nova redação a dispositivos do Decreto nº 71.727, de 17 de janeiro de 1973, alterado pelos de nºs 75.635, de 18 de abril de 1975 e 75.689, de 2 de maio de 1975, que regulamenta, para a Marinha, a Lei 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

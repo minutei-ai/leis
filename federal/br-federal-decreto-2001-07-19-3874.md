@@ -1,5 +1,3 @@
-###DEC-003874-0-000-19-07-2001@@@
-
 DECRETO Nº 3.874, DE 19 DE JULHO DE 2001
 
 Regulamenta o inciso V do art. 1º da Lei nº 8.001, de 13 de março de 1990, e a Lei nº 9.993, de 24 de julho de 2000, no que destinam ao setor de ciência e tecnologia recursos da compensação financeira pela utilização de recursos hídricos para fins de geração de energia elétrica.

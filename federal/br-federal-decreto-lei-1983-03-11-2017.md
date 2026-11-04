@@ -1,5 +1,3 @@
-###DEL-002017-0-000-11-03-1983@@@
-
 # Decreto-lei nº 2.017, de 11 de março de 1983
 
 Dispõe sobre a renúncia, pela União ao domínio direto de áreas situadas no Município de Guarulhos, Estado de São Paulo, necessárias à ampliação da Base Aérea e à implantação do Aeroporto de Guarulhos.

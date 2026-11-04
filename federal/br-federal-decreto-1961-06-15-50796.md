@@ -1,5 +1,3 @@
-###DEC-050796-0-000-15-06-1961@@@
-
 decreto nº 50.796, de 15 de junho de 1961.
 
 Transfere de José Amâncio Ramalho para a Companhia Distribuidora de Eletricidade do Brejo Paraibano a concessão para produção e fornecimento de energia elétrica dos municípios de Bananeiras, Borborema, Pilões, Serraria e Solânea, Estado da Paraíba.

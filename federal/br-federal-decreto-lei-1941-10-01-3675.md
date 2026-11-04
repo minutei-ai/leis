@@ -1,5 +1,3 @@
-###DEL-003675-0-000-01-10-1941@@@
-
 DECRETO-LEI N. 3.675 – DE 1 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito suplementar de réis 3:300$0 (três contos e trezentos mil réis), à verba que especifica.

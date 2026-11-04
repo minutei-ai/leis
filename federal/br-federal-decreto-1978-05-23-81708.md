@@ -1,5 +1,3 @@
-###DEC-081708-0-000-23-05-1978@@@
-
 Decreto nº 81.708, de 23 de maio de 1978
 
 Modifica o Regulamento de Passaportes, aprovado pelo Decreto nº 3.345, de 30 de novembro de 1938.

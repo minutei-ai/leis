@@ -1,5 +1,3 @@
-###DEL-009274-0-000-23-05-1946@@@
-
 DECRETO-LEI N. 9.274 – DE 23 DE MAIO DE 1946
 
 Modifica o Decreto de 27 de Maio de 1931, que concedeu reforma ao cabo corneteiro da Policia Militar do Distrito Federal, Modesto Elias Apolinário.

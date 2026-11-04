@@ -1,5 +1,3 @@
-###DEC-080618-0-000-26-10-1977@@@
-
 DECRETO Nº 80.618, DE 26 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Educação Artística, da Faculdade de Educação Artística “Teresa D’Ávila”, com sede na cidade de Lorena, Estado de São Paulo.

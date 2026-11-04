@@ -1,6 +1,10 @@
 > **LEI Nº 3.616, DE 16 DE MARÇO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Fundo Estadual sobre Drogas no Acre – FUNESD/AC e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Fundo Estadual sobre Drogas no Acre – FUNESD/AC e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**, no uso de sua atribuição conferida pelo art. 78, inciso IV da Constituição Estadual, e com fundamento no art. 16 da Lei nº 3.214, de 29 de dezembro de 2016,
 

@@ -1,5 +1,3 @@
-###DEC-083252-0-000-07-03-1979@@@
-
 Decreto nº 83.252, de 07 de março de 1979
 
 Concede à Comércio e Indústria de Concreto Cachoeiro Ltda. o direito de lavrar granito no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

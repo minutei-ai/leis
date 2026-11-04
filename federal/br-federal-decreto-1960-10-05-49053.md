@@ -1,5 +1,3 @@
-###DEC-049053-0-000-05-10-1960@@@
-
 DECRETO Nº 49.053, DE 5 DE OUTUBRO DE 1960.
 
 Declara caduco o Decreto nº 25.422, de 1 de setembro de 1948.

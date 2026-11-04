@@ -1,5 +1,3 @@
-###DEC-087943-0-000-20-12-1982@@@
-
 DECRETO Nº 87.943, DE 20 DE DEZEMBRO DE 1982.
 
 Estabelece o limite do Capital Autorizado da Empresas Nucleares Brasileiras S.A. - NUCLEBRÁS.

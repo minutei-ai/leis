@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208238)<br>
-
 # LEI COMPLEMENTAR N° 1.386, DE 03 DE JULHO DE 2023
 
 ### _Dispõe sobre a revalorização das Escalas de Classes e Vencimentos do Quadro da Secretaria da Assembleia Legislativa do Estado de São Paulo_

@@ -1,5 +1,3 @@
-###DEL-002893-0-000-20-12-1940@@@
-
 DECRETO-LEI N. 2.893 – DE 20 DE DEZEMBRO DE 1940
 
 Considera o Coronel Médico Dr. João Muniz Barreto de Aragão “Patrono do Serviço de Veterinária do Exército”

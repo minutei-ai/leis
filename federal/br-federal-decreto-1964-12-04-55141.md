@@ -1,5 +1,3 @@
-###DEC-055141-0-000-04-12-1964@@@
-
 DECRETO Nº 55.141, DE 4 DE DEZEMBRO DE 1964.
 
 Autoriza a Emprêsa de Caolim Ltda. a pesquisar caolim e mica, no município de Belmiro Braga, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-005779-0-000-18-05-2006@@@
-
 DECRETO Nº 5.779, DE 18 DE MAIO DE 2006
 
 Dá nova redação aos incisos I e II do art. 1º do Decreto nº 5.435, de 26 de abril de 2005, que define os limites de que tratam o inciso II e o § 5º do art. 3º da Lei nº 10.188, de 12 de fevereiro de 2001.

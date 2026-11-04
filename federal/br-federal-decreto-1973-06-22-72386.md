@@ -1,5 +1,3 @@
-###DEC-072386-0-000-22-06-1973@@@
-
 DECRETO Nº 72.386, DE 22 DE JUNHO DE 1973.
 
 Autoriza o funcionamento de curso de Música, na modalidade de Instrumento (Violão e Acordeão), da Faculdade de Música Augusta de Souza França, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

@@ -2,11 +2,15 @@ Modificada pela Lei nº [4.521, de 24 de Fevereiro de 2025.](https://legis.ac.go
 
 > **LEI Nº 4.334, DE 27 DE FEVEREIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria ajuda de custo complementar aos integrantes do Corpo Voluntário de Militares do Estado do Acre, conforme disposto na Lei Complementar n° 305, de 8 de outubro de 2015, e o Decreto n° 11.094, de 26 de julho de 2022, para atuar a serviço do Ministério Público do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria ajuda de custo complementar aos integrantes do Corpo Voluntário de Militares do Estado do Acre, conforme disposto na Lei Complementar n° 305, de 8 de outubro de 2015, e o Decreto n° 11.094, de 26 de julho de 2022, para atuar a serviço do Ministério Público do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 
-**F****AÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
+**FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
 
 **~~Art. 1º~~** ~~Fica criada ajuda de custo complementar aos integrantes do Corpo Voluntário de Militares da Reserva Remunerada da Polícia Militar do Estado do Acre, convocados para o serviço ativo, de forma temporária e em caráter excepcional, para atuar nas atividades enumeradas no art. 4º, parágrafo único, inciso VIII, da Lei Complementar nº 305, de 8 de outubro de 2015, e no art. 3º, inciso VII, do Decreto nº 11.094, de 26 de julho de 2022, e que estejam a serviço do Ministério Público do Estado do Acre.~~
 
@@ -31,5 +35,3 @@ Rio Branco - Acre, 27 de fevereiro de 2024, 136º da República, 122º do Tratad
 **Mailza Assis da Silva**
 
 Governadora do Estado do Acre, em exercício
-
-<br>

@@ -1,5 +1,3 @@
-###DEC-054897-0-000-04-11-1964@@@DECRETO Nº 54.897, DE 4 DE Novembro DE 1964.
-
 Restringe a zona de concessão da Companhia Sul Mineira de Eletricidade e outorga ao Município de Bom Jardim de Minas concessão para o aproveitamento e energia hidráulica de um desnível no ribeirão da Estiva, distrito de Taboão, Município de Bom Jardim de Minas, Estado de Minas GeraisO PRESIDENTE DA REPÚBLICA, usdo das atribuições que lhe confere o artigo 87, inciso I, da Constituição, de acôrdo com o artigo 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
 decreta:

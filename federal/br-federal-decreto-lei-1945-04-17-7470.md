@@ -1,5 +1,3 @@
-###DEL-007470-0-000-17-04-1945@@@
-
 DECRETO-LEI N. 7.470 – DE 17 DE ABRIL DE 1945
 
 Fixa a divisão administrativa e judiciária do Território Federal do Guaporé

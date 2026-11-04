@@ -1,5 +1,3 @@
-###DEC-004099-0-000-23-01-2002@@@
-
 DECRETO Nº 4.099, DE 23 DE JANEIRO DE 2002.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e a União Latina Relativo ao Estabelecimento, no Rio de Janeiro, de um Escritório e de seus Privilégios e Imunidades no Território Brasileiro, celebrado em Paris, em 15 de abril de 1999.

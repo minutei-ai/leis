@@ -1,5 +1,3 @@
-###DEC-057804-0-000-14-02-1966@@@
-
 decreto nº 57.804, de 14 de fevereiro de 1966.
 
 Autoriza Arlindo Giovanella, a comprar pedras preciosas.

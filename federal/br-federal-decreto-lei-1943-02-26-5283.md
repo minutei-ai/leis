@@ -1,5 +1,3 @@
-###DEL-005283-0-000-26-02-1943@@@
-
 DECRETO‑LEI N. 5.283 – DE 26 DE FEVEREIRO DE 1943
 
 Modifica a incidência do imposto de consumo sobre fumo e dá outras providências

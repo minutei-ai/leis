@@ -1,5 +1,3 @@
-###DEC-046265-0-000-25-06-1959@@@
-
 DECRETO Nº 46.265, DE 25 DE junho DE 1959.
 
 Prorroga, por 90 dias, o prazo a que se refere o Art. 5º do Decreto numero 45.401, de 6 de fevereiro de 1959.

@@ -1,5 +1,3 @@
-###DEL-006166-0-000-31-12-1943@@@
-
 DECRETO-LEI N. 6.166 – DE 31 DE DEZEMBRO DE 1943
 
 Dispõe sôbre a reorganização do Departamento Nacional de Portos e Navegação (D.N.P.N. ), que passa a denominar-se Departamento Nacional de Portos, Rios e Canais (D.N.P.R.C.), e dá outras providências

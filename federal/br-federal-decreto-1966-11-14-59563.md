@@ -1,5 +1,3 @@
-###DEC-059563-0-000-14-11-1966@@@
-
 DECRETO Nº 59.563, DE 14 DE NOVEMBRO DE 1966.
 
 Retifica o Decreto nº 57.841, de 18 de fevereiro de 1966, para o fim que especifica.

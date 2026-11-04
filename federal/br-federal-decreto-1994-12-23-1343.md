@@ -1,7 +1,3 @@
-1
-
-###DEC-001343-0-000-23-12-1994@@@
-
 # DECRETO Nº 1.343, DE 23 DE DEZEMBRO DE 1994
 
 Altera a Tarifa Aduaneira do Brasil (TAB), para o fim da aplicação da Tarifa Exter Comum (TEC), aprovada no âmbito do Conselho do Mercado Comum do Mercosul, e dá outras providencias.

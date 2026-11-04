@@ -1,7 +1,3 @@
-1
-
-###DEC-098284-0-000-12-10-1989@@@
-
 DECRETO N° 98.284, DE 12 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Tecnologia Agronômica da Faculdade de Administração Rural de Colatina.

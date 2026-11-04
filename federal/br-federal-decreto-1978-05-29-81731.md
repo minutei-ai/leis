@@ -1,5 +1,3 @@
-###DEC-081731-0-000-29-05-1978@@@
-
 decreto nº 81.731, de 29 de maio de 1978.
 
 Autorizo o Ministro da Fazenda a conceder a garantia da República Federativa do Brasil a operações de crédito externo a serem celebradas pela Centras Elétricas do Sul do Brasil S. A - ELETROSUL.

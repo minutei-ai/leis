@@ -1,5 +1,3 @@
-###DEC-075887-0-000-20-06-1975@@@
-
 DECRETO Nº 75.887, DE 20 DE JUNHO DE 1975.
 
 Altera dispositivos dos Decretos números 41.019, de 26 de fevereiro de 1957, 62.724, de 17 de maio de 1968, e do Regulamento aprovado pelo Decreto nº 68.419, de 25 de março de 1971, relativos a tarifação e serviços de energia elétrica.

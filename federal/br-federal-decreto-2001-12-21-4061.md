@@ -1,5 +1,3 @@
-###DEC-004061-0-000-21-12-2001@@@
-
 DECRETO Nº 4.061, DE 21 DE DEZEMBRO DE 2001
 
 Altera os Anexos I, II, IV, V, VI e VII do Decreto no 3.746, de 6 de fevereiro de 2001, e dá outras providências.

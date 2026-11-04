@@ -1,5 +1,3 @@
-###DEC-057810-0-000-14-02-1966@@@
-
 DECRETO Nº 57.810, DE 14 DE FEVEREIRO DE 1966.
 
 Aprova o Regulamento do Ministério das Minas e Energia.

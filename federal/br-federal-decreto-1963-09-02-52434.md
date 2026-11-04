@@ -1,5 +1,3 @@
-###DEC-052434-0-000-02-09-1963@@@
-
 DECRETO Nº 52.434, DE 2 DE SETEMBRO DE 1963.
 
 Altera redação do Decreto nº 43.031, de 13 de janeiro de 1958, que instituiu a Campanha de Assistência ao Estudante (CASES).

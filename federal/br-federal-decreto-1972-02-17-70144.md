@@ -1,5 +1,3 @@
-###DEC-070144-0-000-17-02-1972@@@
-
 DECRETO Nº 70.144, DE 17 DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão Barro Alto - Uruaçu, no Estado de Goiás.

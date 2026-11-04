@@ -1,7 +1,3 @@
-1
-
-###DEC-000335-0-000-11-11-1991@@@
-
 DECRETO N° 335, DE 11 DE NOVEMBRO DE 1991
 
 Dá nova redação ao Anexo I ao Decreto n° 99.602, de 13 de outubro de 1990, que aprova a Estrutura Regimental do Instituto Brasileiro do Patrimônio Cultural IBPC.

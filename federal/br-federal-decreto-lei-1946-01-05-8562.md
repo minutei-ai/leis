@@ -1,5 +1,3 @@
-###DEL-008562-0-000-05-01-1946@@@
-
 DECRETO-LEI N. 8.562 – DE 5 DE JANEIRO DE 1946
 
 Restabelece os quadros de funcionários do Congresso Nacional e dá outras providências.

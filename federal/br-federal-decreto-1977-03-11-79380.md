@@ -1,5 +1,3 @@
-###DEC-079380-0-000-11-03-1977@@@
-
 DECRETO Nº 79.380, DE 11 DE MARÇO DE 1977.
 
 Outorga concessão à Rádio Goiatuba Limitada para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na Cidade de Goiatuba, Estado de Goiás.

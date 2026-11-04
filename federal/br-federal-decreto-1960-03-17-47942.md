@@ -1,5 +1,3 @@
-###DEC-047942-0-000-17-03-1960@@@
-
 DECRETO Nº 47.942, DE 17 DE MARÇO DE 1960.
 
 Dá nova redação ao art. 8º e Parágrafo único do Decreto nº 37.614, de 19 de julho de 1955.

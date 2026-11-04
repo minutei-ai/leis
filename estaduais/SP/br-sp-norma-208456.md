@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208456)<br>
-
 # DECRETO N° 67.909, DE 29 DE AGOSTO DE 2023
 
 ### _Transfere, da Secretaria da Segurança Pública para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Araraquara._

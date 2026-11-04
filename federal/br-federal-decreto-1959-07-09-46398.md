@@ -1,5 +1,3 @@
-###DEC-046398-0-000-09-07-1959@@@
-
 DECRETO Nº 46.398, DE 9 DE JULHO DE 1959.
 
 Declara de utilidade pública a “Santa Casa de Misericórdia de Barbacena”, com sede em Barbacena, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-062102-0-000-11-01-1968@@@
-
 DECRETO Nº 62.102, DE 11 DE JANEIRO DE 1968.
 
 Dispõe sôbre a execução orçamentária e a programa financeira da União, regula a liberação das cotas Trimestrais e dá outras providências.

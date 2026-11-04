@@ -1,14 +1,12 @@
-###DEC-025348-0-000-10-08-1948@@@
+**DECRETO Nº 25.348, DE 10 DE AGÔSTO DE 1948.**
 
-<strong>DECRETO Nº 25.348, DE 10 DE AGÔSTO DE 1948.</strong>
+***Declara de utilidade pública diversas áreas de terra entre a cidade de Machado e o local da cachoeira de Poço Fundo, município de Gimirim, Estado de Minas Gerais, necessárias ao estabelecimento da linha***  ***de transmissão a que se refere o Decreto n.º 23.296, de 8 de julho de 1947, e autoriza a Companhia Sul Mineira de Eletricidade a promover a desapropriação.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra entre a cidade de Machado e o local da cachoeira de Poço Fundo, município de Gimirim, Estado de Minas Gerais, necessárias ao estabelecimento da linha</strong></em>  <em><strong>de transmissão a que se refere o Decreto n.º 23.296, de 8 de julho de 1947, e autoriza a Companhia Sul Mineira de Eletricidade a promover a desapropriação.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, n.º I, da Constituição, e tendo em vista o requerido pela emprêsa interessada, assim como  o disposto no art. 151, alíneas *a* e *b*  do Código de Águas, e nos artigos 3.º, 5.º alínea *h* e 15 do Decreto-lei número 3.365, de 21 de junho de 1941, modificado pelo de n.º 4.152, de 6 de março de 1942,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, n.º I, da Constituição, e tendo em vista o requerido pela emprêsa interessada, assim como  o disposto no art. 151, alíneas <em>a</em> e <em>b</em>  do Código de Águas, e nos artigos 3.º, 5.º alínea <em>h</em> e 15 do Decreto-lei número 3.365, de 21 de junho de 1941, modificado pelo de n.º 4.152, de 6 de março de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declaradas de utilidade pública as áreas de terra situadas entre a cidade de Machado e o local da cachoeira de Poço Fundo, no rio Machado município de Gimirim, Estado de Minas Gerais, necessárias ao estabelecimento da linha  de transmissão autorizada pelo  Decreto n.º 23.296, de 8 de julho de 1947, a saber:
+**Art**. 1º São declaradas de utilidade pública as áreas de terra situadas entre a cidade de Machado e o local da cachoeira de Poço Fundo, no rio Machado município de Gimirim, Estado de Minas Gerais, necessárias ao estabelecimento da linha  de transmissão autorizada pelo  Decreto n.º 23.296, de 8 de julho de 1947, a saber:
 
 1\) área de 5.037,0 m2 (cinco mil e trinta e sete metros quadrados), de propriedade atribuida à Companhia Sul Mineira de Eletricidade;
 
@@ -130,14 +128,14 @@
 
 Parágrafo único. As áreas a que alude êste artigo, estão devidamente representadas nas plantas aprovadas pelo Ministro da Agricultura.
 
-<strong>Art</strong>. 2.º Fica a Companhia Sul Mineira de Eletricidade autorizada a desapropriar as referidas áreas, na forma da legislação vigente, usando, inclusive da faculdade prevista no artigo 15, do Decreto-lei n.º3.365,d e 21 e junho de 1941, modificado pelo de n.º 4.152, de 6 de março de 1942.
+**Art**. 2.º Fica a Companhia Sul Mineira de Eletricidade autorizada a desapropriar as referidas áreas, na forma da legislação vigente, usando, inclusive da faculdade prevista no artigo 15, do Decreto-lei n.º3.365,d e 21 e junho de 1941, modificado pelo de n.º 4.152, de 6 de março de 1942.
 
-<strong>Art</strong>. 3.º O presente decreto entrará em vigor na data de sua publicação.
+**Art**. 3.º O presente decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4.º Revogam-se as disposições em contrário.
+**Art**. 4.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 10 de agôsto de 1948, 127.º da Independência e 60.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

@@ -1,5 +1,3 @@
-###DEC-052809-0-000-07-11-1963@@@
-
 DECRETO Nº 52.809, DE 7 DE NOVEMBRO DE 1963.
 
 Torna privativo do pôsto de General-de-Brigada Intendente os cargos de Diretor de Finanças, Diretor de Material de Intendência e Diretor de Subsistência.

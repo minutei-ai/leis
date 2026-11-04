@@ -1,5 +1,3 @@
-###DEC-003417-0-000-19-04-2000@@@
-
 DECRETO Nº 3.417, DE 19 DE ABRIL DE 2000.
 
 Dispõe sobre a execução do Regulamento 8 (Borda Livre e Estabilidade para as Embarcações da Hidrovia Paraguai-Paraná) do Acordo de Alcance Parcial nº 5, assinado ao amparo do art. 14 do Tratado de Montevidéu de 1980, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Paraguai e da República Oriental do Uruguai, em 2 de fevereiro de 2000.

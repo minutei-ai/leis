@@ -1,5 +1,3 @@
-###DEC-086456-0-000-09-10-1981@@@
-
 Decreto nº 86.456, de 09 de outubro de 1981.
 
 Promulga o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo do Reino dos Países Baixos sobre Cooperação Econômica e Industrial.
@@ -78,7 +76,13 @@ EM FÉ DO QUÉ, os abaixo assinados, devidamente autorizados para esse fim, assi
 
 FEITO em Brasília, aos 23 dias do mês de julho de 1980, em dois exemplares originais, nos idiomas português, neerlandês e inglês, sendo todos os textos igualmente autênticos. E caso de divergência quanto à interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo do Reino dos Países Baixos:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ramiro Saraiva Guerreiro</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Hein Theo Schaapved</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil:
+
+Pelo Governo do Reino dos Países Baixos:
+
+Ramiro Saraiva Guerreiro
+
+Hein Theo Schaapved
 
 PROTOCOLO
 
@@ -88,4 +92,10 @@ As autoridades competentes do Brasil e das Antilhas Neerlandesas poderão manter
 
 Feito em Brasília, aos 23 dias do mês de julho de 1980, em dois exemplares originais, nos idiomas português, neerlandês e inglês, sendo todos os textos igualmente autênticos. Em caso de divergência quanto à interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo do Reino dos Países Baixos:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ramiro Saraiva Guerreiro</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Hein Theo Schaapved</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil:
+
+Pelo Governo do Reino dos Países Baixos:
+
+Ramiro Saraiva Guerreiro
+
+Hein Theo Schaapved

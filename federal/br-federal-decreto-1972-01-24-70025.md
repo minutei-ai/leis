@@ -1,5 +1,3 @@
-###DEC-070025-0-000-24-01-1972@@@
-
 DECRETO Nº 70.025, de 24 de janeiro de 1972.
 
 Classifica os órgãos de deliberação coletiva existentes na área do Ministério da Educação e Cultura.

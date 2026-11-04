@@ -18,10 +18,65 @@ RENATA LACERDA NOLETO
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE EVENTOS DE PROMOÇÃO DA ECONOMIA</td><td style=" width:85px;    ">11 691 1054 3254</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">40</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 5.262.897,97</td><td style=" width:85px;    ">R$ 1.308.890,00</td><td style=" width:85px;    ">R$ 6.571.787,97</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE EVENTOS DE PROMOÇÃO DA ECONOMIA</td><td style=" width:85px;    ">11 691 1054 3254</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 7.245.047,66</td><td style=" width:85px;    ">R$ 750.000,00</td><td style=" width:85px;    ">R$ 7.995.047,66</td></tr></tbody></table>
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 2.058.890,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 2.058.890,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+REALIZAÇÃO DE EVENTOS DE PROMOÇÃO DA ECONOMIA
+
+11 691 1054 3254
+
+25000100
+
+40
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 5.262.897,97
+
+R$ 1.308.890,00
+
+R$ 6.571.787,97
+
+REALIZAÇÃO DE EVENTOS DE PROMOÇÃO DA ECONOMIA
+
+11 691 1054 3254
+
+25000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 7.245.047,66
+
+R$ 750.000,00
+
+R$ 7.995.047,66
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 2.058.890,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 2.058.890,00

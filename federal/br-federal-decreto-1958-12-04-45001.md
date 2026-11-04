@@ -1,5 +1,3 @@
-###DEC-045001-0-000-04-12-1958@@@
-
 DECRETO Nº 45.001, DE 4 DE DEZEMBRO DE 1958.
 
 Transfere na forma do art. 15, § 4º, da Lei nº 3.115, de 16 de março de 1957, cargo de Tesoureiro-Auxiliar para o Quadro Suplementar do Ministério da Fazenda.

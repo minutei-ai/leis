@@ -1,5 +1,3 @@
-###DEC-059517-0-000-09-11-1966@@@
-
 DECRETO Nº 59.517, DE 9 DE NOVEMBRO DE1966.
 
 Autoriza o cidadão brasileiro Raymundo Bôaventura Leite a pesquisar magnesita no Município de Casa Nova, Estado da Bahia.

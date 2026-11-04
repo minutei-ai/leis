@@ -1,5 +1,3 @@
-###DEL-003627-0-000-18-09-1941@@@
-
 DECRETO-LEI N. 3.627 – DE 18 DE SETEMBRO DE 1941
 
 Desdobra a Divisão de seleção e Aperfeiçoamento do Departamento Administrativo do Serviço Público e dá outras providências

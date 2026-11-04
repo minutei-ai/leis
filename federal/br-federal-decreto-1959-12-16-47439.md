@@ -1,5 +1,3 @@
-###DEC-047439-0-000-16-12-1959@@@
-
 Decreto nº 47.439, de 16 de dezembro de 1959.
 
 Dá nova redação ao art. 16 das Instruções para a elaboração do programa anual de emissão de selos comemorativos.

@@ -1,5 +1,3 @@
-###DEC-091216-0-000-30-04-1985@@@
-
 DECRETO Nº 91.216, dE 30 DE ABRIL DE 1985
 
 Dispõe sobre a prorrogação do prazo concedido à Comissão Especial de Desestatização pelo Decreto nº 86.215, de 15 de julho de 1981, e dá outras providências.

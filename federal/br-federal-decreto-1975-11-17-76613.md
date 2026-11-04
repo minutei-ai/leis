@@ -1,5 +1,3 @@
-###DEC-076613-0-000-17-11-1975@@@
-
 DECRETO Nº 76.613, DE 17 DE NOVEMBRO DE 1975.
 
 Autoriza o funcionamento do curso de Artes Práticas da Faculdade de Filosofia Ciências e Letras de Jales, com sede na cidade de Jales, Estado de São Paulo.

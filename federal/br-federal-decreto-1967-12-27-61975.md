@@ -1,5 +1,3 @@
-###DEC-061975-0-000-27-12-1967@@@
-
 DECRETO Nº 61.975, DE 27 DE DEZEMBRO DE 1967.
 
 Declara extinto o Serviço de Alimentação da Previdência Social (S.A.P.S.), cria Comissão Liqüidante do órgão e dá outras providências.
@@ -81,8 +79,6 @@ Brasília, 27 de dezembro de 1967; 146º da Independência e 79º da República.
 A. Costa e Silva
 
 Jarbas G. Passarinho
-
-###DEC-061975-0-000-27-12-1967@@@RET01+++
 
 Decreto nº 61.975, de 27 de dezembro de 1967.
 

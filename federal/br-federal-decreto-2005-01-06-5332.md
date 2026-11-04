@@ -1,5 +1,3 @@
-###DEC-005332-0-000-06-01-2005@@@
-
 DECRETO Nº 5.332 DE 6 DE JANEIRO DE 2005
 
 Dá nova redação aos arts. 5º, 25 e 28 do Anexo I do Decreto nº 4.632, de 21 de março de 2003, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Desenvolvimento, Indústria e Comércio Exterior.

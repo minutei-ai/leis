@@ -1,5 +1,3 @@
-###DEC-086454-0-000-09-10-1981@@@
-
 Decreto nº 86.454, de 09 de outubro de 1981.
 
 Concede à COMPANHIA BRASILEIRA DO COBRE - CBC autorização para proceder a aumento do seu capital autorizado.

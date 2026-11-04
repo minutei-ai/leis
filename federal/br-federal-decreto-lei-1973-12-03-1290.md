@@ -1,5 +1,3 @@
-###DEL-001290-0-000-03-12-1973@@@
-
 # DECRETO-lei Nº 1.290, DE 3 DE DEzembRO DE 1973
 
 Dispõe sobre a aplicação financeira de disponibilidades pelas entidades da Administração Federal Indireta, bem como pelas Fundações supervisionadas pela União e dá outras providências

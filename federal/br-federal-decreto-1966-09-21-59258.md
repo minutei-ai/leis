@@ -1,5 +1,3 @@
-###DEC-059258-0-000-21-09-1966@@@
-
 DECRETO Nº 59.258, DE 21 DE SETEMBRO DE 1966.
 
 Cria o consulado Honorário do Brasil em Monróvia, Libéria.

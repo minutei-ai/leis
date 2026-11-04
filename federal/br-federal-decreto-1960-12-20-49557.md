@@ -1,5 +1,3 @@
-###DEC-049557-0-000-20-12-1960@@@
-
 decreto nº 49.557, de 20 de dezembro de 1960.
 
 Autoriza a cidadã brasileira Lúcia de Mendonça Clark a pesquisar areias ilmentícias no Município de Araiose, Estado do Maranhão.

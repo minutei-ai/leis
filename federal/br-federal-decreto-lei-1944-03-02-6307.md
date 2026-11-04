@@ -1,5 +1,3 @@
-###DEL-006307-0-000-02-03-1944@@@
-
 DECRETO-LEI N. 6.307 – DE 2 DE MARÇO DE 1944
 
 Suspende, até 31 de dezembro de 1945, a execução do Decreto-lei n. 5.121, de 21 de dezembro de 1942

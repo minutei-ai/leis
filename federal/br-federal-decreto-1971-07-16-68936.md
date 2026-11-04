@@ -1,5 +1,3 @@
-###DEC-068936-0-000-16-07-1971@@@
-
 DECRETO Nº 68.936, DE 16 DE JULHO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão ou desapropriação, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis, terras e benfeitorias necessários à pesquisa e lavra de petróleo, situados no Estado de Alagoas.

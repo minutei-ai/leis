@@ -1,5 +1,3 @@
-###DEC-058168-0-000-11-04-1966@@@
-
 DECRETO Nº 58.168, DE 11 DE ABRIL DE 1966.
 
 Estabelece, como modêlo para reprodução da figura de Tiradentes, a efígie de Joaquim José da Silva Xavier existente em frente ao Palácio Tiradentes, na cidade do Rio de Janeiro.

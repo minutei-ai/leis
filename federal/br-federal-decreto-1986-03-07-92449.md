@@ -1,5 +1,3 @@
-###DEC-092449-0-000-07-03-1986@@@
-
 DECRETO Nº 92.449, DE 07 DE MARÇO DE 1986
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Boa Esperança", situado no Município de Nova Iguaçu, Estado do Rio de Janeiro, e dá outras providências.

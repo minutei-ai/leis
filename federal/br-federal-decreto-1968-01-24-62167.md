@@ -1,5 +1,3 @@
-###DEC-062167-0-000-24-01-1968@@@
-
 DECRETO Nº 62.167, DE 24 DE JANEIRO DE 1968.
 
 Outorga concessão ao Govêrno do Estado do Amazonas, através de sua Secretaria de Educação e Cultura, para estabelecer, na cidade de Manaus, uma estação de radiodifusão de sons e imagens (televisão), para fins educativos.

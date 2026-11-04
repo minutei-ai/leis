@@ -1,5 +1,3 @@
-###DEC-001885-0-000-26-04-1996@@@
-
 DECRETO N° 1.885, DE 26 DE ABRIL DE 1996
 
 Regulamenta o § 3° do art. 2° da Lei n° 8.387, de 30 de dezembro de 1991, e o § 5° do art. 7° do Decreto-Lei n° 288, de 28 de fevereiro de 1967, com a redação dada pela Lei n° 8.387, de 1991, nas condições que especifica, e dá outras providências.

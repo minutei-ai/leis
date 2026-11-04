@@ -1,5 +1,3 @@
-###DEC-096747-0-000-21-09-1988@@@
-
 DECRETO N° 96.747, DE 21 DE DEZEMBRO DE 1988
 
 Declara de utilidade pública as instituições que menciona.

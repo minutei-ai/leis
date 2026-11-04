@@ -1,5 +1,3 @@
-###DEC-083046-0-000-16-01-1979@@@
-
 DECRETO Nº 83.046, DE 16 DE JANEIRO DE 1979
 
 Fixa o fator de reajustamento salarial relativo a janeiro de 1979.

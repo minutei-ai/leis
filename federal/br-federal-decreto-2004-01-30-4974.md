@@ -1,5 +1,3 @@
-###DEC-004974-0-000-30-01-2004@@@
-
 DECRETO Nº 4.974,  DE 30 DE JANEIRO DE 2004.
 
 Dispõe sobre a execução do Trigésimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, na condição de Estados Partes do MERCOSUL, e da República do Chile, de 9 de julho de 2003.

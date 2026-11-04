@@ -1,5 +1,3 @@
-###DEC-045111-0-000-26-12-1958@@@
-
 decreto nº 45.111, de 26 de dezembro de 1958
 
 Dispõe sôbre a Universidade do Rio de Janeiro.

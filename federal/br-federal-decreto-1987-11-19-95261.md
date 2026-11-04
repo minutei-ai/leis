@@ -1,5 +1,3 @@
-###DEC-095261-0-000-19-11-1987@@@
-
 DECRETO N° 95.261, DE 19 DE NOVEMBRO DE 1987
 
 Renova a concessão outorgada à RÁDIO EDUCADORA MARECHAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Marechal Cândido Rondon, Estado do Paraná.

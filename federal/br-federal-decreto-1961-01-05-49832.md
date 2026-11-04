@@ -1,5 +1,3 @@
-###DEC-049832-0-000-05-01-1961@@@
-
 DECRETO Nº 49.832, DE 5 DE JANEIRO DE 1961.
 
 Renova o decreto nº 43.786, de 22 de maio de 1958.

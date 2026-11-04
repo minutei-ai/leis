@@ -1,5 +1,3 @@
-###DEC-089545-0-000-11-04-1984@@@
-
 Decreto nº 89.545, de 11 de abril de 1984
 
 Renova por 10 (dez) anos, as concessões outorgadas às entidades mencionadas para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

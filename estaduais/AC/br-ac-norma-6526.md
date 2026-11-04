@@ -1,6 +1,10 @@
 > **LEI Nº 4.630, DE 31 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.259, de 20 de junho de 2017, que transforma em Motorista Penitenciário os cargos de Técnico Administrativo e Operacional cujo provimento originário se deu no cargo de Motorista, para dispor sobre o quadro da carreira.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.259, de 20 de junho de 2017, que transforma em Motorista Penitenciário os cargos de Técnico Administrativo e Operacional cujo provimento originário se deu no cargo de Motorista, para dispor sobre o quadro da carreira.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

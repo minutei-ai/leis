@@ -1,7 +1,3 @@
-1
-
-###DEC-000854-0-000-02-07-1993@@@
-
 DECRETO N° 854, DE 2 DE JULHO DE 1993
 
 Altera o art. 130 do Regulamento dos Benefícios da Previdência Social, aprovado pelo Decreto n° 611, de 21 de julho de l992.

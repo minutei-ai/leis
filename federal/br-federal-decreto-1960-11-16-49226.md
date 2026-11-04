@@ -1,5 +1,3 @@
-###DEC-049226-0-000-16-11-1960@@@
-
 DECRETO Nº 49.226, DE 16 DE NOVEMBRO DE 1960.
 
 Outorga à Industrial Papelão Xapecozinho Ltda., concessão para aproveitamento de energia hidráulica da queda Passo Velho, existente no Rio Xapecozinho, distrito de Xanxerê município do mesmo nome, estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-084503-0-000-25-02-1980@@@
-
 DECRETO Nº 84.503, DE 25 DE FEVEREIRO DE 1980.
 
 Concede à indústria Carboquímica Catarinense S.A. - ICC, autorização para proceder ao aumento do limite de seu capital social.

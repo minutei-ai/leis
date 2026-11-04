@@ -1,5 +1,3 @@
-###DEC-047382-0-000-10-12-1959@@@
-
 DECRETO Nº 47.382, de 10 DE dezembro DE 1959.
 
 Renova o Decreto nº 41.710, de 24 de junho de 1957.

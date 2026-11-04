@@ -1,5 +1,3 @@
-###DEL-007393-0-000-16-03-1945@@@
-
 DECRETO-LEI N. 7.393 – DE 16 DE MARÇO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de CR$ 263.955.735,40, para pagamento a Institutos de Aposentadoria e Pensões, e dá outras providências

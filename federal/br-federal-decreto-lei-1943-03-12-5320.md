@@ -1,5 +1,3 @@
-###DEL-005320-0-000-12-03-1943@@@
-
 DECRETO‑LEI N. 5.320 – DE 12 DE MARÇO DE 1943
 
 Transfere a sede do 21º Batalhão de Caçadores

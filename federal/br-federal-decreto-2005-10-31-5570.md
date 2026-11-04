@@ -1,5 +1,3 @@
-###DEC-005570-0-000-31-10-2005@@@
-
 DECRETO Nº 5.570, DE 31 DE OUTUBRO DE 2005.
 
 Dá nova redação a dispositivos do Decreto no 4.449, de 30 de outubro de 2002, e dá outras providências.

@@ -116,8 +116,10 @@ XIV -       exercer, quanto às matérias de sua especialidade, as competê
 
 **VI** \-      realização de despesas institucionais, inclusive a título de ressarcimento e em caráter complementar, exclusivamente para o desempenho de funções inerentes às atividades do Órgão.
 
-Redação de acordo com o art. 8º da Lei Complementar nº [43](https://www.legislabahia.ba.gov.br/index.php/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
-Redação original: "Art. 7º - Fica criado o Fundo de Modernização da Procuradoria Geral do Estado, com a finalidade de prover recursos para o aperfeiçoamento  do pessoal e dos serviços prestados pelo Órgão."<br>
+Redação de acordo com o art. 8º da Lei Complementar nº [43](https://www.legislabahia.ba.gov.br/index.php/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
+Redação original: "Art. 7º - Fica criado o Fundo de Modernização da Procuradoria Geral do Estado, com a finalidade de prover recursos para o aperfeiçoamento  do pessoal e dos serviços prestados pelo Órgão."
+
 Art. 7º regulamentado pelo Decreto nº 10.008, de 24 de maio de 2006.
 
 **VII** -    distribuição aos integrantes da carreira de Procurador do Estado, no percentual de 80% dos recursos previstos no inciso I do § 1º deste artigo.
@@ -132,12 +134,18 @@ Inciso VII acrescido de acordo com o art.1º da Lei Complementar nº [49](https:
 
 **III** -     de recursos transferidos por entidades públicas ou particulares, bem como de dotações orçamentárias que lhe venham a ser atribuídas.
 
-Redação de acordo com o art. 1º da Lei Complementar nº 49 de 15 de maio de 2020.<br>
-Redação anterior :"§ 1º - O FMPGE é vinculado à Procuradoria Geral do Estado, sendo constituído:<br>
-I - de recursos provenientes do repasse de 20% (vinte por cento) dos honorários advocatícios decorrentes de feitos judiciais e administrativos que envolvam o Estado da Bahia, suas autarquias e fundações representadas pela Procuradoria Geral do Estado;"<br>
-Redação de acordo com o art. 8º da Lei Complementar nº 43 de 25 de outubro de 2017.<br>
-Redação original: "§ 1º - O Fundo de que trata o caput deste artigo é vinculado à Procuradoria Geral do Estado, sendo constituído dos seguintes recursos:<br>
-I - recursos decorrentes de honorários advocatícios de sucumbência e pela cobrança amigável ou judicial da dívida ativa tributária do Estado;<br>
+Redação de acordo com o art. 1º da Lei Complementar nº 49 de 15 de maio de 2020.
+
+Redação anterior :"§ 1º - O FMPGE é vinculado à Procuradoria Geral do Estado, sendo constituído:
+
+I - de recursos provenientes do repasse de 20% (vinte por cento) dos honorários advocatícios decorrentes de feitos judiciais e administrativos que envolvam o Estado da Bahia, suas autarquias e fundações representadas pela Procuradoria Geral do Estado;"
+
+Redação de acordo com o art. 8º da Lei Complementar nº 43 de 25 de outubro de 2017.
+
+Redação original: "§ 1º - O Fundo de que trata o caput deste artigo é vinculado à Procuradoria Geral do Estado, sendo constituído dos seguintes recursos:
+
+I - recursos decorrentes de honorários advocatícios de sucumbência e pela cobrança amigável ou judicial da dívida ativa tributária do Estado;
+
 II - recursos transferidos por entidades públicas ou particulares e dotações orçamentárias que lhe venham a ser atribuídos."
 
 **revogado § 2º** - Dos recursos de que trata o inciso I deste artigo será deduzida a parcela de honorários devida aos servidores que atuem na cobrança da dívida ativa tributária do Estado e aos Procuradores que optarem em continuar percebendo a remuneração que lhes vinha sendo atribuída com base na legislação então vigente.
@@ -146,7 +154,8 @@ Revogado pelo art. 25 da Lei Complementar nº 43 de 25 de outubro de 2017.
 
 **§ 3º** - O FMPGE será administrado por um Comitê Gestor, integrado pelo Procurador Geral do Estado, que o presidirá, por 03 (três) Procuradores do Estado, indicados pelo Conselho Superior da Procuradoria Geral do Estado, por 01 (um) Procurador representante do Centro de Estudos e Aperfeiçoamento, por um representante da Secretaria da Fazenda e outro da Secretaria da Administração.
 
-Redação de acordo com o art. 8º da Lei Complementar nº 43 de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 8º da Lei Complementar nº 43 de 25 de outubro de 2017.
+
 Redação original: "§ 3º - O Fundo será administrado por um Comitê Gestor, integrado pelo Procurador Geral do Estado, que o presidirá, por dois Procuradores do Estado indicados pelo Conselho Superior da Procuradoria Geral do Estado, por um representante da Secretaria da Fazenda e outro da Secretaria da Administração."
 
 **§ 4º** - O saldo de honorários advocatícios que resultar apurado até a data de entrada em vigor desta Lei será transferido a crédito do Fundo de Modernização da Procuradoria Geral do Estado.

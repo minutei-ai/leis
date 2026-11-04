@@ -1,5 +1,3 @@
-###DEC-085505-0-000-15-12-1980@@@
-
 Decreto nº 85.505, de 15 de dezembro de 1980.
 
 Autoriza o aumento do Capital Social da empresa que menciona.

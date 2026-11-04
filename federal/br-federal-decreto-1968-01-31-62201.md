@@ -1,5 +1,3 @@
-###DEC-062201-0-000-31-01-1968@@@
-
 DECRETO Nº 62.201, DE 31 DE JANEIRO DE 1968.
 
 Cria o Consulado honorário do Brasil em Toulouse, França.

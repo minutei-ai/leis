@@ -1,5 +1,3 @@
-###DEC-003122-0-000-23-07-1999@@@
-
 decreto nº 3.122, de 23 de julho de 1999
 
 Promulga o Acordo Relativo a Isenção Parcial de Exigência de Vistos, celebrado entre o Governo da República Federativa do Brasil e o Governo da Malásia, em Kuala Lumpur, em 26 de abril de 1996.
@@ -94,10 +92,20 @@ Artigo 11
 
 Feito em Kuala Lumpur, aos 26 dias do mês de abril de 1996, em seis originais: dois em português, dois em malásio e dois em inglês, sendo todos dos textos igualmente autênticos. Em caso de qualquer divergência em qualquer dos textos, prevalecerá a versão em inglês.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr style="height:18.45pt"><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da República </span><span>Federativa do Brasil</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da Malásia</span></p></td></tr><tr style="height:18.45pt"><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Luiz Felipe Lampreia</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Abdullah Badawi</span></p></td></tr><tr style="height:18.45pt"><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro de Estado das Relações Exteriores</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro das RelaçõesExteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da Malásia
+
+Luiz Felipe Lampreia
+
+Abdullah Badawi
+
+Ministro de Estado das Relações Exteriores
+
+Ministro das RelaçõesExteriores
 
 Apêndice
 
 Propósito e períodos de permanência mencionados no parágrafo 1.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="2" style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Propósito da Permanência</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Período de permanência</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.</span></p></td><td style="width:187.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Férias</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>90 dias</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.</span></p></td><td style="width:187.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Missão Oficial</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>90 dias</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.</span></p></td><td style="width:187.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Visita a parentes</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>90 dias</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> Propósito da Permanência </td><td> Período de permanência </td></tr><tr><td> 1. </td><td> Férias </td><td> 90 dias </td></tr><tr><td> 2. </td><td> Missão Oficial </td><td> 90 dias </td></tr><tr><td> 3. </td><td> Visita a parentes </td><td> 90 dias </td></tr></tbody></table>

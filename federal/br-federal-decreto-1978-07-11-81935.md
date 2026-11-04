@@ -1,5 +1,3 @@
-###DEC-081935-0-000-11-07-1978@@@
-
 Decreto nº 81.935, de 11 de julho de 1978.
 
 Concede reconhecimento aos cursos de Pedagogia, Artes Práticas e Estudos Sociais da Universidade Federal do Piauí, com sede na cidade de Teresina, Estado do Piauí.

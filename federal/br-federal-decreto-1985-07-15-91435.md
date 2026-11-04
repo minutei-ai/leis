@@ -1,5 +1,3 @@
-###DEC-091435-0-000-15-07-1985@@@
-
 Decreto Nº 91.435, de 15 de julho de 1985
 
 Renova a concessão outorgada à RÁDIO TUPINAMBÁ DE SOBRAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Sobral, Estado do Ceará.

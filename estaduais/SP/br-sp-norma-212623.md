@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212623)<br>
-
 # DECRETO N° 70.624, DE 19 DE MAIO DE 2026
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha do Mérito "General de Divisão Matheus Monte Serrat", instituída pela Sociedade Amigos da Segunda Divisão de Exército - SASDE e dá providências correlatas._
@@ -18,7 +16,8 @@ Nerylson Lima da Silva
 
 #### REGULAMENTO DA CONDECORAÇÃO
 
-#### Capítulo 1<br>
+#### Capítulo 1
+
 Da honraria
 
 **Artigo 1° -** A Medalha do Mérito "General de Divisão Matheus Monte Serrat", da Sociedade Amigos da Segunda Divisão de Exército SASDE, tem por objetivo reconhecer e galardoar personalidades, físicas ou jurídicas, civis ou militares, nacionais ou estrangeiras, pelos relevantes serviços prestados ao Estado de São Paulo e a seu povo, com destaque especial para contribuições na disseminação dos valores e princípios do Exército Brasileiro; no fortalecimento da soberania nacional e dos valores patrióticos, e nas ações da Sociedade Amigos da Segunda Divisão de Exército SASDE.
@@ -67,7 +66,8 @@ a) Anverso: Nome da honraria; nome completo do(a) agraciado(a); nome da institui
 
 b) Verso: Dados de registro do diploma na Instituição (Livro e Página/Sequência); chancela de registro do diploma junto ao Conselho Estadual de Honrarias e Mérito.
 
-#### Capítulo 2<br>
+#### Capítulo 2
+
 Da Chancelaria e da Comissão de Outorgas
 
 **Artigo 4° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pela Conselho de Outorgas.
@@ -80,7 +80,8 @@ Da Chancelaria e da Comissão de Outorgas
 
 **Parágrafo único -** O total de membros da Comissão de Outorgas, incluindo seu presidente, deve ser em número ímpar para evitar empates nas votações.
 
-#### Capítulo 3<br>
+#### Capítulo 3
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 6° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual de Honrarias e Mérito.
@@ -109,7 +110,8 @@ IV - Presidente da Sociedade Amigos da Segunda Divisão de Exército SASDE, Grã
 
 **Artigo 9° -** Caso a honraria permaneça por muito tempo sem ser outorgada e/ou nos casos em que a Comissão de Outorgas seja dissolvida, será necessário acender novamente a Fonte de Honra (Fons Honorum), conforme previsto no Artigo 7°.
 
-#### Capítulo 4<br>
+#### Capítulo 4
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 10 -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas a Comissão de Outorgas em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -144,7 +146,8 @@ Do Direito de Honra (Jus Honorum)
 
 **Artigo 17 -** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-#### Capítulo 5<br>
+#### Capítulo 5
+
 Do registro e das chancelas oficiais dos diplomas
 
 **Artigo 18 -** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
@@ -165,7 +168,8 @@ Do registro e das chancelas oficiais dos diplomas
 
 **§ 3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual de Honrarias e Mérito.
 
-#### Capítulo 6<br>
+#### Capítulo 6
+
 Das cerimônias de outorga
 
 **Artigo 21 -** A entrega das medalhas será feita, anualmente, em solenidade pública, de preferência na cerimônia de aniversário da Sociedade Amigos da Segunda Divisão de Exército SASDE ou em outra data magna relevante, na presença do Grão-Mestre.
@@ -186,7 +190,8 @@ Das cerimônias de outorga
 
 **Parágrafo único -** Os agraciados devem ser orientados a comparecer ao evento sem outras condecorações (heraldicamente nus).
 
-#### Capítulo 7<br>
+#### Capítulo 7
+
 Das disposições finais
 
 **Artigo 24 -** Na hipótese da extinção dessa condecoração no todo ou em parte, seus cunhos, exemplares e complementos remanescentes serão recolhidos ao Conselho Estadual de Honrarias e Mérito sem ônus para os cofres públicos.

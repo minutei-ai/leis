@@ -1,5 +1,3 @@
-###DEC-058677-0-000-21-06-1966@@@
-
 DECRETO Nº 58.677, DE 21 DE JUNHO DE 1966.
 
 Ministério da Marinha - Abre o crédito especial de Cr$400.000.000, para atender às despesas com a construção do Quartel do Corpo de Fuzileiros Navais em Brasília.

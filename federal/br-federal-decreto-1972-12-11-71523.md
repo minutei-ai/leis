@@ -1,5 +1,3 @@
-###DEC-071523-0-000-11-12-1972@@@
-
 DECRETO Nº 71.523 - DE 11 DE DEZEMBRO DE 1972
 
 Prorroga o prazo a execução dos serviços concernentes aos registros públicos regulados pelo Decreto-lei nº 1.000, de 21 de outubro de 1969.

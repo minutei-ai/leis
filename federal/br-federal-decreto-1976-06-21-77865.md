@@ -1,5 +1,3 @@
-###DEC-077865-0-000-21-06-1976@@@
-
 DECRETO Nº 77.865, DE 21 DE JUNHO DE 1976.
 
 Outorga a Centrais Elétricas de São Pulo S.A. - CESPE concessão para aproveitamento da energia hidráulica de trecho do rio Tietê, denominado Rui Barbosa, no Estado de São Paulo e dá outras providências.

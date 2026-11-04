@@ -1,5 +1,3 @@
-###DEC-005563-0-000-11-10-2005@@@
-
 DECRETO Nº 5.563, DE 11 DE OUTUBRO DE 2005.
 
 Regulamenta a Lei no 10.973, de 2 de dezembro de 2004, que dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo, e dá outras providências.

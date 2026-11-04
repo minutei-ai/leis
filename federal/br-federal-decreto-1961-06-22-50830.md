@@ -1,5 +1,3 @@
-###DEC-050830-0-000-22-06-1961@@@
-
 DECRETO Nº 50.830, DE 22 DE JUNHO DE 1961.
 
 Dispõe sôbre o treinamento dos funcionários civis do Poder Executivo.

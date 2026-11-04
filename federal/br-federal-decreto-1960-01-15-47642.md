@@ -1,5 +1,3 @@
-###DEC-047642-0-000-15-01-1960@@@
-
 DECRETO Nº 47.642, DE 15 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Jacy Forattini a lavrar mica no município de Capelinha, Estado de Minas Gerais.

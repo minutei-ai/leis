@@ -1,5 +1,3 @@
-###DEC-090399-0-000-07-11-1984@@@
-
 Decreto nº 90.399, de 07 de novembro de 1984
 
 Altera a redação dos artigos 116 e 129 do Regulamento aprovado pelo Decreto nº 20.493, de 24 de janeiro de 1946, e dá outras providências.

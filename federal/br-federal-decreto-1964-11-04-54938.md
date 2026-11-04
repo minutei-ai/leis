@@ -1,5 +1,3 @@
-###DEC-054938-0-000-04-11-1964@@@
-
 DECRETO Nº 54.938, DE 4 DE Novembro DE 1964.
 
 Altera dispositivos do Decreto número 41.019, de 26 de Fevereiro de 1957, e dá outras providências

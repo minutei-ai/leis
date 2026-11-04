@@ -1,7 +1,3 @@
-1
-
-###MPV-001089-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.089, DE 25 DE AGOSTO DE 1995.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

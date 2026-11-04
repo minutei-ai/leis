@@ -1,5 +1,3 @@
-###DEC-085317-0-000-04-11-1980@@@
-
 DECRETO DE 85.317, DE 04 DE NOVEMBRO DE 1980
 
 Fixa os percentuais de que trata o § 3º do artigo 15 da Lei nº 5821, de 10 de novembro de 1972.

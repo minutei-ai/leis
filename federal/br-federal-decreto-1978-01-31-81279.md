@@ -1,5 +1,3 @@
-###DEC-081279-0-000-31-01-1978@@@
-
 Decreto nº 81 279, de 31 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Artes Práticas da Faculdade de Educação e Artes Dom Bosco de Monte Aprazível, com sede na cidade de Monte Aprazível, Estado de são Paulo.

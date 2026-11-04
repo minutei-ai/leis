@@ -1,5 +1,3 @@
-###DEC-075454-0-000-06-03-1975@@@
-
 Decreta nº 75.454, de 06 de março de 1975.
 
 Declara sem efeito o Decreto nº 43.863, de 09 junho de 1958, que concedeu à Empresa de Caolim Limitada o Direito de Lavrar argila.

@@ -1,5 +1,3 @@
-###DEC-059882-0-000-27-12-1966@@@
-
 DECRETO Nº 59.882, DE 27 DE DEZEMBRO DE 1966.
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 30.000.000, em refôrço à dotação orçamentária que especifica.

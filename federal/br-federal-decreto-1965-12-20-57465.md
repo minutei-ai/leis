@@ -1,5 +1,3 @@
-###DEC-057465-0-000-20-12-1965@@@
-
 DECRETO Nº 57.465, DE 20 DE DEZEMBRO DE 1965.
 
 Concede à The Liverpool & London & Globe Insurance Company Limited autorização para aumentar o capital destinado às sua operações de seguros no Brasil.

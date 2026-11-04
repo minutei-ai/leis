@@ -1,5 +1,3 @@
-###DEC-075582-0-000-09-04-1975@@@
-
 DECRETO Nº 75.582, DE 9 DE ABRIL DE 1975.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.C.S., área de terra abrangida pelo Projeto de Irrigação "Vale do Gurguéia", no Município de Cristino Castro, no Estado do Piauí.

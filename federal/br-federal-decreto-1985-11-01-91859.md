@@ -1,5 +1,3 @@
-###DEC-091859-0-000-01-11-1985@@@
-
 Decreto nº 91.859, de 1º de novembro de 1985
 
 Dispõe sobre imóvel da União no Distrito Federal.

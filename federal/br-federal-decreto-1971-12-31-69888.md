@@ -1,5 +1,3 @@
-###DEC-069888-0-000-31-12-1971@@@
-
 DECRETO Nº 69.888 - DE 31 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública o Asilo de Mendicidade de Araraquara, com sede em Araraquara, Estado de São Paulo.

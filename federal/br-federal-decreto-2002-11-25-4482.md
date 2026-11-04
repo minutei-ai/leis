@@ -1,5 +1,3 @@
-###DEC-004482-0-000-25-11-2002@@@
-
 DECRETO Nº 4.482, DE 25 DE NOVEMBRO DE 2002
 
 Acresce e altera dispositivos do Decreto nº 4.294, de 3 de julho de 2002, que dispõe sobre a destinação dos bens utilizados nas atividades desenvolvidas na Imprensa Nacional.

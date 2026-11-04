@@ -1,5 +1,3 @@
-###DEL-007811-0-000-01-08-1945@@@
-
 DECRETO-LEI N. 7.811 – DE 1 DE AGÔSTO DE 1945
 
 Altera a redação do parágrafo do do art. 6º do Decreto-lei nº 754, de 30 de setembro de   1938, e dá outras providências.                                                                         

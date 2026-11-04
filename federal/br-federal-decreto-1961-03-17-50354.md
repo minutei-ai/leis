@@ -1,5 +1,3 @@
-###DEC-050354-0-000-17-03-1961@@@
-
 DECRETO Nº 50.354, DE 17 DE MARÇO DE 1961.
 
 Regula a aplicação dos preços resultantes da Instrução nº 204, de 13 de março de 1961, da Superintendência da Moeda e do crédito, incidentes sôbre os estoques do petróleo e derivados, e bem assim as quantidades em trânsito anteriormente adquiridos e dá outras providências.

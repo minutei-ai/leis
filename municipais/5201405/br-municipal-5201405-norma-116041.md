@@ -14,5 +14,6 @@ Art. 2º . Esta Lei entrará em vigor na data de sua publicação revogando as d
 
 MUNICIPIO DE APARECIDA DE GOIÂNIA-GO, 15 DIAS DO MÊS DE JUNHO DO ANO DE 2021.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal

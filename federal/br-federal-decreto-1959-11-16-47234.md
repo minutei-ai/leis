@@ -1,5 +1,3 @@
-###DEC-047234-0-000-16-11-1959@@@
-
 DECRETO Nº 47.234, DE 16 DE novembro DE 1959.
 
 Autoriza o cidadão brasileiro Afonso Rossi a pesquisar argila em terrenos de sua propriedade no município de Itatiba, Estado de São Paulo.

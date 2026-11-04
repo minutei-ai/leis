@@ -1,5 +1,3 @@
-###DEC-065461-0-000-21-10-1969@@@
-
 decreta nº 65.461 - de 21 de outubro 1969.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, no Estado da Guanabara, necessário ao Ministério da Marinha.

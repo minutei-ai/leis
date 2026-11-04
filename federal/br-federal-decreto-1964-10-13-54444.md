@@ -1,5 +1,3 @@
-###DEC-054444-0-000-13-10-1964@@@
-
 DECRETO Nº 54.444, DE 13 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Ottomar Dietrich a pesquisar feldspato e pedras coradas no município de Resplendor, Estado de Minas Gerais.

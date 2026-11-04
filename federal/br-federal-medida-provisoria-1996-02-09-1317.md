@@ -1,7 +1,3 @@
-1
-
-###MPV-001317-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.317, DE 9 DE FEVEREIRO DE 1996.
 
 Dá nova redação ao § 3º do art. 52 da Lei nº 8.931, de 22 de setembro de 1994, que dispõe sobre a amortização, juros e outros encargos decorrentes da extinção ou dissolução de entidades da Administração Pública Federal, e dá outras providências.

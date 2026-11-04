@@ -1,5 +1,3 @@
-###DEC-072610-0-000-14-08-1973@@@
-
 DECRETO Nº 72.610, DE 14 DE AGOSTO DE 1973.
 
 Autoriza o funcionamento da Faculdade Adventista de Educação, mantida pelo Instituto Adventista de Ensino, em Santo Amaro, na Cidade de São Paulo, Estado de São Paulo.

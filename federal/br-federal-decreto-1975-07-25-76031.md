@@ -1,5 +1,3 @@
-###DEC-076031-0-000-25-07-1975@@@
-
 DECRETO Nº 76.031 - DE 25 DE JULHO DE 1975.
 
 Concede reconhecimento aos cursos de Ciências, de Estudos Sociais e de Letras, mantidos pela Universidade Católica de Minas Gerais, em convênio com a Fundação Itabirana Difusora de Ensino, com sede na cidade de Itabira, Estado de Minas Gerais.

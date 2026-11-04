@@ -1,5 +1,3 @@
-###DEC-090225-0-000-25-09-1984@@@
-
 Decreto nº 90.225, de 25 dE setembro dE1984
 
 Dispõe sobre a implantação da Área de Proteção Ambiental de Guapi-Mirim, no Estado do Rio de Janeiro, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-079031-0-000-23-12-1976@@@
-
 DECRETO Nº 79.031, DE 23 DE DEZEMBRO DE 1976.
 
 Dispõe sobre o Regulamento do Estado-Maior das Forças Armadas, e dá outras providências.

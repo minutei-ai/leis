@@ -1,5 +1,3 @@
-###DEC-070126-0-000-04-02-1972@@@
-
 Decreto Nº 70.126, DE 4 DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão Bauru (SUL) - Agudos, no Estado de São Paulo.

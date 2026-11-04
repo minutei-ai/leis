@@ -1,5 +1,3 @@
-###DEC-090755-0-000-27-12-1984@@@
-
 Decreto nº 90.755, de 27 de dezembro de 1984.
 
 Dispõe sobre a Secretaria Especial de Informática - SEI e dá outras providências.

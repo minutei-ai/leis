@@ -120,34 +120,21 @@ TABELA 11 - UTILIZAÇÃO DE RECURSOS HÍDRICOS
 
 Vazão em metros cúbicos por hora
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:42.55pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">até 5</span></p></td><td width="154" valign="top" style="width:115.15pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:42.55pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">de 5,1 a 20</span></p></td><td width="156" valign="top" style="width:115.15pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:42.55pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">de 20,1 a 40</span></p></td><td width="166" valign="top" style="width:115.15pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:42.55pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">acima de 40</span></p></td></tr><tr><td width="153" valign="top" style="width:115.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:42.55pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">C</span></p></td><td width="154" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:42.55pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">D</span></p></td><td width="156" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:42.55pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">E</span></p></td><td width="166" valign="top" style="width:115.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:42.55pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">F</span></p></td></tr></tbody></table>
+até 5
+
+de 5,1 a 20
+
+de 20,1 a 40
+
+acima de 40
+
+C
+
+D
+
+E
+
+F
 
 ” (AC)
 

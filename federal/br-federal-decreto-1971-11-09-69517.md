@@ -1,5 +1,3 @@
-###DEC-069517-0-000-09-11-1971@@@
-
 DECRETO Nº 69.517 - de 9 de Novembro de 1971
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação do imóvel que menciona, situado no Estado de Goiás, e a promover a cessão de parte do mesmo à Universidade Federal de Goiás.

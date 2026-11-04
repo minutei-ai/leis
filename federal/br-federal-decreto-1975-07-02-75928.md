@@ -1,5 +1,3 @@
-###DEC-075928-0-000-02-07-1975@@@
-
 DECRETO Nº 75.928, DE 2 DE JULHO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado em Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-002908-0-000-29-12-1998@@@
-
 DECRETO Nº 2.908, DE 29 DE DEZEMBRO DE 1998.
 
 Regulamenta a distribuição dos cargos da Carreira de Analista de Comércio Exterior por órgão do Poder Executivo Federal, e dá outras providências.

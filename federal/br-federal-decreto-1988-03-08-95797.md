@@ -1,7 +1,3 @@
-1
-
-###DEC-095797-0-000-08-03-1988@@@
-
 DECRETO N° 95.797, DE 8 DE MARÇO DE 1988
 
 Renova a concessão outorgada à RÁDIO INDEPENDÊNCIA DE MEDIANEIRA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Medianeira, Estado do Paraná.

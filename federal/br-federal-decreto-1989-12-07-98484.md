@@ -1,5 +1,3 @@
-###DEC-098484-0-000-07-12-1989@@@
-
 DECRETO N° 98.484, DE 07 DE DEZEMBRO DE 1989
 
 Renova a concessão outorgada à RÁDIO EMISSORA ARUANÃ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Barra do Garças, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEL-007154-0-000-14-12-1944@@@
-
 DECRETO-LEI N. 7.154 – DE 14 DE DEZEMBRO DE 1944
 
 Dispôe sôbre o regime de previdência dos servidores públicos dos Estados, Municípios e Territórios e da Prefeitura do Distrito Federal

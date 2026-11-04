@@ -1,5 +1,3 @@
-###DEC-073483-0-000-17-01-1974@@@
-
 DECRETO Nº 73.483, DE 17 DE JANEIRO DE 1974.
 
 Autoriza o funcionamento do Curso de Direito das Faculdades Integradas "Augusto Motta", mantidas pela Sociedade Universitária "Augusto Motta", com sede na cidade do Rio de Janeiro, Estado da Guanabara.

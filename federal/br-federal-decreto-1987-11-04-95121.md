@@ -1,5 +1,3 @@
-###DEC-095121-0-000-04-11-1987@@@
-
 DECRETO Nº 95.121, DE 4 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Contábeis de Fátima do Sul.

@@ -1,5 +1,3 @@
-###DEL-003885-0-000-04-12-1941@@@
-
 DECRETO-LEI N. 3.885 – DE 4 DE DEZEMBRO DE 1941
 
 Autoriza o Prefeito do Distrito Federal a isentar a “Congregação de Nossa. Senhora de Caridade do Bom Pastor d’Angers” de pagamento do imposto que menciona

@@ -1,5 +1,3 @@
-###DEC-080759-0-000-17-11-1977@@@
-
 Decreto nº 80.759, de 17 de novembro de 1977.
 
 Fixa o fator de reajustamento salarial relativo a novembro de 1977.

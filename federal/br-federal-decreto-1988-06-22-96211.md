@@ -1,5 +1,3 @@
-###DEC-096211-0-000-22-06-1988@@@
-
 DECRETO N° 96.211, DE 22 DE JUNHO DE 1988
 
 Altera a redação do caput e do § 2° do artigo 4° do Decreto n° 79.966, de 14 de julho de 1977, que regulamenta a Indenização de Transporte.

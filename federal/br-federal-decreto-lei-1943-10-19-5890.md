@@ -1,5 +1,3 @@
-###DEL-005890-0-000-19-10-1943@@@
-
 DECRETO‑LEI N. 5.890 – DE 19 DE OUTUBRO DE 1943
 
 Permite que funcionário público, designado membro e assistente das co­missões de reorganização dos Institutos de Aposentadoria e Pensões dos Comerciários e da Estiva, possa perceber a gratificação respectiva, e dá outras providências

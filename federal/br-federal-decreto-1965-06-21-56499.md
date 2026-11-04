@@ -1,5 +1,3 @@
-###DEC-056499-0-000-21-06-1965@@@
-
 DECRETO Nº 56.499, DE 21 DE JUNHO DE 1965.
 
 Dispõe sôbre a obrigatoriedade da exibição de filmes brasileiros a que se refere o Decreto nº 52.745, de 24 de outubro de 1963.

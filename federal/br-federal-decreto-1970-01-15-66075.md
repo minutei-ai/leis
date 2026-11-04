@@ -1,5 +1,3 @@
-###DEC-066075-0-000-15-01-1970@@@
-
 DECRETO Nº 66.075 - DE 15 DE JANEIRO DE 1970
 
 Concede permissão, em caráter permanente, aos revendedores credenciados das empresas associadas, que indica, do Sindicato Nacional da Indústria de Tratores, Caminhões, Automóveis e Veículos Similares, para funcionarem aos domingos e feriados civis e religiosos.

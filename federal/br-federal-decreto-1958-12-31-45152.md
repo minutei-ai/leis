@@ -1,5 +1,3 @@
-###DEC-045152-0-000-31-12-1958@@@
-
 Decreto nº 45.152, de 31 de dezembro de 1958.
 
 Aprova o aumento de capital do Banco do Rio Grande do Sul S.A., com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

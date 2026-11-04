@@ -1,5 +1,3 @@
-###DEL-003515-0-000-18-08-1941@@@
-
 DECRETO-LEI N. 3.515 – DE 18 DE AGOSTO DE 1941
 
 Concede uma pensão especial à viuva do Capitão Tenente Honorário Jacó Nogueira, instrutor de esgrima da Escola Naval.

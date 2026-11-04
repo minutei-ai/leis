@@ -1,7 +1,3 @@
-1
-
-###MPV-000910-0-000-21-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 910, DE 21 DE FEVEREIRO DE 1995
 
 Altera o art. 60 da Lei nº 8.694, de 12 de agosto de 1993, que dispõe sobre as diretrizes para a elaboração e execução da lei orçamentária anual de 1994

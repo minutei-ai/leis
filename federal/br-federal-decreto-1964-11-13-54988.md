@@ -1,5 +1,3 @@
-###DEC-054988-0-000-13-11-1964@@@
-
 DECRETO Nº 54.988, DE 13 DE NOVEMBRO DE 1964.
 
 Autoriza a emprêsa de mineração Porcelana e Steatita S.A. a pesquisar feldspato e quartzito no Município de Ponta Grossa, Estado do Paraná.

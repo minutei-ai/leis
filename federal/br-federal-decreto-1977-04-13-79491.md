@@ -1,5 +1,3 @@
-###DEC-079491-0-000-13-04-1977@@@
-
 Decreto Nº 79.491, de 13 de abril de 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

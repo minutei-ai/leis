@@ -1,5 +1,3 @@
-###DEC-066344-0-000-18-03-1970@@@
-
 DECRETO Nº 66.344 - DE 18 DE MARÇO DE 1970
 
 Autoriza  funcionamento de curso.

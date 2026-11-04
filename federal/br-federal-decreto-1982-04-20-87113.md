@@ -1,5 +1,3 @@
-###DEC-087113-0-000-20-04-1982@@@
-
 DECRETO Nº 87.113, DE 20 DE ABRIL DE 1982
 
 Autoriza o aumento de Capital Social da COMPANHIA VALE DO RIO DOCE - CVRD.

@@ -1,20 +1,18 @@
-###DEC-042744-0-000-04-12-1957@@@
+**DECRETO Nº 42.744 DE 4 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.744 DE 4 DE DEZEMBRO DE 1957.</strong>
+***Regulamenta a Lei 3.283, de 14 de outubro de 1957, que criou o Quadro de Subtenentes da Policia Militar do Distrito Federal e aumentou o efetivo de motoristas da mesma Corporação.***
 
-<em><strong>Regulamenta a Lei 3.283, de 14 de outubro de 1957, que criou o Quadro de Subtenentes da Policia Militar do Distrito Federal e aumentou o efetivo de motoristas da mesma Corporação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Quadro de Subtenentes da Policia Militar do Distrito Federal (Q.ST), criado pela Lei 3.283, de 14 de outubro de 1957, será constituído de subtenentes combatentes e subtenentes-músicos.
+**Art**. 1º O Quadro de Subtenentes da Policia Militar do Distrito Federal (Q.ST), criado pela Lei 3.283, de 14 de outubro de 1957, será constituído de subtenentes combatentes e subtenentes-músicos.
 
 § 1º Os subtenente combatentes, em número de 47 (quarenta e sete), serão distribuídos pelas subunidades dos diversos Corpos, na Companhia de Metralhadoras Motorizadas, na Escola de Fôrmação de Oficiais, na Seção Complementar da Diretoria de Saúde e no Contingente Especial da Escola de Recrutas.
 
 § 2º Os subtenentes músicos, em número de 8 (oito) serão distribuídos da proporção de um para cada Batalhão de Infantaria e um para o Regimento de Cavalaria.
 
-<strong>Art</strong>. 2º A função normal do subtenente combatente é a de almoxarife de sua subunidade ou organização onde fôr lotado, competindo-lhe:
+**Art**. 2º A função normal do subtenente combatente é a de almoxarife de sua subunidade ou organização onde fôr lotado, competindo-lhe:
 
 1 - auxiliar a administração da subunidade ou organização onde fôr lotado, confôrme ordens do respectivo comandante ou chefe imediato;
 
@@ -76,7 +74,7 @@
 
 30 - concorrer quando necessário ao comandante ou chefe imediato, logo que êste chegue ao quartel, infôrmando-lhe sôbre o andamento das ordens recebidas.
 
-<strong>Art</strong>. 3º A função normal do subtenente-músico é de mestre da banda de música ou fanfarra do Batalhão de Infantaria ou Regimento de Cavalaria, competindo-lhe:
+**Art**. 3º A função normal do subtenente-músico é de mestre da banda de música ou fanfarra do Batalhão de Infantaria ou Regimento de Cavalaria, competindo-lhe:
 
 1 - dirigir a banda de música nos ensaios, tocatas e fôrmaturas, velando constantemente pela conduta do pessoal e dele exigindo cabal disciplina;
 
@@ -110,11 +108,11 @@
 
 16 - dar parte ao ajudante de tôdas as faltas e irregularidades que verificar ou lhe constar terem sido praticadas pelos músicos, cujo comportamento vigiará cuidadosamente.
 
-<strong>Art</strong>. 4º Nos impedimentos temporários, os subtenentes serão substituídos pelo sargento mais graduado ou mais antigo de sua subunidade ou organização onde fôr lotado.
+**Art**. 4º Nos impedimentos temporários, os subtenentes serão substituídos pelo sargento mais graduado ou mais antigo de sua subunidade ou organização onde fôr lotado.
 
-<strong>Art</strong>. 5º O ingresso dos 1ºs sargentos combatentes e músicos no Quadro de Subtenentes (Q.St.) ficará condicionado às disposições previstas no Regulamento de Promoções de Praças aprovado pelo Ministro de Estado da Justiça e Negócios Interiores.
+**Art**. 5º O ingresso dos 1ºs sargentos combatentes e músicos no Quadro de Subtenentes (Q.St.) ficará condicionado às disposições previstas no Regulamento de Promoções de Praças aprovado pelo Ministro de Estado da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 6º Independentemente de outras condições, os atuais sargentos-ajudantes, sargentos-intendentes e sargentos-ajudantes-músicos serão promovidos a subtenente, se satisfazerem as seguintes exigências:
+**Art**. 6º Independentemente de outras condições, os atuais sargentos-ajudantes, sargentos-intendentes e sargentos-ajudantes-músicos serão promovidos a subtenente, se satisfazerem as seguintes exigências:
 
 a) ter capacidade física indispensável ao exercício de suas funções, comprovada em inspeção de saúde;
 
@@ -126,14 +124,14 @@ d) não estar cumprindo sentença; e,
 
 e) não estar respondendo a processo perante a justiça civil ou militar.
 
-<strong>Art</strong>. 7º O sargento-ajudante, o sargento-intendente ou o sargento-ajudante-músico, não promovidos à graduação de subtenente por um dos motivos do artigo anterior, só atingirão a essa graduação quando houver vaga no respectivo quadro, desde que satisfaçam, na época, as condições previstas naquele artigo.
+**Art**. 7º O sargento-ajudante, o sargento-intendente ou o sargento-ajudante-músico, não promovidos à graduação de subtenente por um dos motivos do artigo anterior, só atingirão a essa graduação quando houver vaga no respectivo quadro, desde que satisfaçam, na época, as condições previstas naquele artigo.
 
-<strong>Art</strong>. 8º Enquanto permanecerem na graduação, os sargento-ajudante, sargento-intenente e sargento-ajudante-músico ficarão nos respectivos quadros (em extinção) permanecendo em suas funções com exceção deste último, que ficará, nas mesmas condições, na unidade a que pertencer, porém com função no Grande Conjunto Musical.
+**Art**. 8º Enquanto permanecerem na graduação, os sargento-ajudante, sargento-intenente e sargento-ajudante-músico ficarão nos respectivos quadros (em extinção) permanecendo em suas funções com exceção deste último, que ficará, nas mesmas condições, na unidade a que pertencer, porém com função no Grande Conjunto Musical.
 
-<strong>Art</strong>. 9º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 9º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 4 de dezembro de 1957, 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Eurico de Aguiar Salles

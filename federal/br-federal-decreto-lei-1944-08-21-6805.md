@@ -1,5 +1,3 @@
-###DEL-006805-0-000-21-08-1944@@@
-
 DECRETO-LEI N. 6.805 – DE 21 DE AGÔSTO DE 1944
 
 Altera a redação do art. 2º do Decreto-lei nº 6.710, de 19 de julho de 1944

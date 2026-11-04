@@ -1,8 +1,19 @@
 Lei Ordinária n° 20.954 / 2020           Lei Ordinária n° 20.913 / 2020
 
-<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%"><p style="TEXT-ALIGN: right" align="right"><font size="2" face="Arial">&nbsp;</font></p></td></tr><tr><td width="100%"><p style="TEXT-ALIGN: center" align="center"><font size="2" color="#808000" face="Arial"><img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif"><br><strong>GOVERNO DO ESTADO DE GOIÁS</strong></font><font size="2" face="Arial"><br></font><strong><font size="2" color="#808000" face="Arial">Secretaria de Estado da Casa Civil</font></strong></p></td></tr></tbody></table>
+<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
 
-**LEI Nº 20.954, DE 30 DE DEZEMBRO DE 2020<br>
+&nbsp;
+
+</td></tr><tr><td width="100%">
+
+<img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
+**GOVERNO DO ESTADO DE GOIÁS**
+**Secretaria de Estado da Casa Civil**
+
+</td></tr></tbody></table>
+
+**LEI Nº 20.954, DE 30 DE DEZEMBRO DE 2020
+
 \- [Vide Decreto nº 10.6.41, de 6-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110427/decreto-10641) (Regulamenta esta Lei).**
 
 Dispõe sobre a regularização fundiária de ocupação de imóveis urbanos de domínio do Estado de Goiás e dá outras providências.
@@ -69,7 +80,8 @@ X — uso não residencial: assim considerada a ocupação não enquadrada nos i
 
 XI — baixa renda: assim considerado o núcleo familiar com renda mensal per capita de até 1 (um) salário-mínimo ou renda familiar não superior a 5 (cinco) salários-mínimos; 
 
-XI – baixa renda: assim considerado o núcleo familiar com renda mensal  _per capita_  de até 1 (um) salário– mínimo ou renda familiar não superior a 6 (seis) salários– mínimos.<br>\- [Acrescido pela Lei nº 21.254, de 21-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105159/lei-21254).
+XI – baixa renda: assim considerado o núcleo familiar com renda mensal  _per capita_  de até 1 (um) salário– mínimo ou renda familiar não superior a 6 (seis) salários– mínimos.
+\- [Acrescido pela Lei nº 21.254, de 21-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105159/lei-21254).
 
 Art. 4º  Poderão ser empregados, no âmbito da regularização fundiária de imóveis urbanos de propriedade do Estado de Goiás, sem prejuízo de outros que se apresentem adequados, os seguintes instrumentos:
 
@@ -221,7 +233,8 @@ Art. 20.  Caberá ao órgão estadual de administração patrimonial, em qualqu
 
 § 3º  Em qualquer caso, a regularização fundiária deverá ser autorizada por ato do Chefe do Executivo. 
 
-§ 4º Nos casos de ocupações não caracterizadas como loteamentos, a regularização fundiária por doação também poderá ser realizada pelo órgão estadual de administração patrimonial, após a aprovação do cadastro do solicitante realizado pelo órgão estadual responsável pelas políticas públicas de habitação de interesse social.<br>
+§ 4º Nos casos de ocupações não caracterizadas como loteamentos, a regularização fundiária por doação também poderá ser realizada pelo órgão estadual de administração patrimonial, após a aprovação do cadastro do solicitante realizado pelo órgão estadual responsável pelas políticas públicas de habitação de interesse social.
+
 \- [Acrescido pela Lei nº 21.254, de 21-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105159/lei-21254).
 
 Art. 21.  O órgão estadual de administração patrimonial poderá notificar os interessados ou fazer publicar editais dirigidos àqueles que, a qualquer título, utilizem imóveis urbanos de domínio do Estado para, no prazo de 60 (sessenta) dias, regularizarem a ocupação na forma desta Lei. 
@@ -230,7 +243,8 @@ Art. 22.  As receitas provenientes da regularização de ocupações em áreas 
 
 I — 97% (noventa e sete por cento) ao Tesouro Estadual; e
 
-II — 3% (três por cento) ao Fundo de Capacitação do Servidor e de Modernização do Estado de Goiás — FUNCAM, instituído pela Lei estadual nº [16.384](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87103/lei-16384), de 27 de novembro de 2008.<br>
+II — 3% (três por cento) ao Fundo de Capacitação do Servidor e de Modernização do Estado de Goiás — FUNCAM, instituído pela Lei estadual nº [16.384](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87103/lei-16384), de 27 de novembro de 2008.
+
 \- [Vide Lei nº 20.937, de 29-12-2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103658/lei-20937), Art. 28, IV, que revoga o FUNCAM, e Art. 23 que destina a receita à SEAD.
 
 Parágrafo único.  As receitas provenientes da regularização fundiária por venda para atendimento de interesse específico em processos de legitimação fundiária, nos termos do § 2º do art. 5º desta Lei, deverão ser destinadas a programas de regularização fundiária de áreas do Estado. 
@@ -261,7 +275,8 @@ Art. 30.  Fica revogada a Lei estadual nº [17.545](https://legisla.casacivil.g
 
 Goiânia, 30 de dezembro de 2020; 132º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado  
 
 _Este texto não substitui o publicado no Suplemento do D.O. de 30-12-2020_ _._

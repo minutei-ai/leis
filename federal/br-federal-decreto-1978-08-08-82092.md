@@ -1,5 +1,3 @@
-###DEC-082092-0-000-08-08-1978@@@
-
 Decreto nº 82 092, de 08 de agosto de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à captação, para o sistema de abastecimento, de água das Vilas Operárias e de Operatórias e de Operadores da Central Nuclear Almirante Álvaro Alberto, de FURNAS - Centrais Elétricas S.A., no Estado do Rio de Janeiro.

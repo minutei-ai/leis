@@ -1,5 +1,3 @@
-###DEC-077537-0-000-30-04-1976@@@
-
 Decreto nº 77.537 - de 30 de abril de 1976
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado na Baía Norte de Florianópolis, Estado de Santa Catarina.

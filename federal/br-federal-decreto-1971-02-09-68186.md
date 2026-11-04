@@ -1,5 +1,3 @@
-###DEC-068186-0-000-09-02-1971@@@
-
 decreto nº 68.186, de 9 de Fevereiro de 1971.
 
 Transforma o Batalhão Escola de Engenharia do 7º Batalhão de Engenharia de Combate e dá outras providências.

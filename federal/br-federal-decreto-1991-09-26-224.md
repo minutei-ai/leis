@@ -1,5 +1,3 @@
-###DEC-000224-0-000-26-09-1991@@@
-
 DECRETO N° 224, DE 26 DE SETEMBRO DE 1991
 
 Altera dispositivo do Cerimonial da Marinha, aprovado pelo Decreto n° 87.427, de 27 de julho de 1982.

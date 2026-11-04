@@ -1,5 +1,3 @@
-###DEC-089417-0-000-01-03-1984@@@
-
 Decreto nº 89.417, de 01 de março de 1984
 
 Dispõe sobro o limite do Capital Autorizado da Petrobrás Distribuidora S/A - BR.

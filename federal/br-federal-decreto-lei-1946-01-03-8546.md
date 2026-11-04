@@ -1,5 +1,3 @@
-###DEL-008546-0-000-03-01-1946@@@
-
 DECRETO-LEI N. 8.546 – DE 3 DE JANEIRO DE 1946
 
 Esclarece o Decreto-lei nº 8.121, de 22 de Outubro de 1945, e dá outras providêndias.

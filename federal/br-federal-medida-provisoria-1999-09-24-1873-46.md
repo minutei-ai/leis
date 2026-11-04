@@ -1,5 +1,3 @@
-###MPV-001873-0-046-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.873-46, de 24 DE SETEMBRO DE 1999.
 
 Dispões sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Branco do Brasil S.A., e dá outras providências.

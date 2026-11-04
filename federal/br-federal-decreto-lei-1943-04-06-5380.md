@@ -1,5 +1,3 @@
-###DEL-005380-0-000-06-04-1943@@@
-
 DECRETO‑LEI N. 5.380 – DE 6 DE ABRIL DE 1943
 
 Autoriza a Fundação Osório a ceder à Prefeitura do Distrito Federal a área de terreno necessária ao alinhamento da rua Paula Ramos

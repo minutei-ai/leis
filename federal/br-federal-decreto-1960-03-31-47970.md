@@ -1,5 +1,3 @@
-###DEC-047970-0-000-31-03-1960@@@
-
 DECRETO Nº 47.970, DE 31 DE MARçO DE 1960.
 
 Inclui funções gratificadas no Quadro Permanente do Ministério da Saúde e dá outras providências.
@@ -47,8 +45,6 @@ Rio de Janeiro, em 31 de março de 1960; 139º da Independência e 72º da Repú
 Juscelino KubItschek
 
 Mário Pinotti
-
-###DEC-047970-0-000-31-03-1960@@@RET01+++
 
 DECRETO Nº 47.970, DE 31 DE MARÇO DE 1960
 

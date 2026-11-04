@@ -1,5 +1,3 @@
-###DEC-090993-0-000-26-02-1985@@@
-
 DECRETO Nº 90.993, dE 26 dE fevereiro dE 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, a ser desmembrada de maior porção, situada no Município e Comarca de São Sebastião, Estado de São Paulo, destinada à instalação de Estação telefônica da Telecomunicações de São Paulo S.A. - TELESP.

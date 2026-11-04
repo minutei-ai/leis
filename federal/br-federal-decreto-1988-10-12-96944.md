@@ -1,5 +1,3 @@
-###DEC-096944-0-000-12-10-1988@@@
-
 DECRETO Nº 96.944, DE 12 DE OUTUBRO DE 1988
 
 Cria o Programa de Defesa do Complexo de Ecossistemas da Amazônia Legal e dá outras providências.

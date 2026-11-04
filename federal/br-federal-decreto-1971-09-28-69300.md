@@ -1,5 +1,3 @@
-###DEC-069300-0-000-28-09-1971@@@
-
 decreto nº 69.300, de 28 de setembro de 1971.
 
 Declara de utilidade pública a Assistência Social Dom José Gaspar, com sede em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-006273-0-000-14-02-1944@@@
-
 DECRETO-LEI N. 6.273 – DE 14 DE FEVEREIRO DE 1944
 
 Dispõe sôbre a matéria do Decreto-lei n. 5.545, de 4 de junho de 1943

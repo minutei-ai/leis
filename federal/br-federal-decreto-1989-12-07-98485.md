@@ -1,5 +1,3 @@
-###DEC-098485-0-000-07-12-1989@@@
-
 DECRETO N° 98.485, DE 07 DE DEZEMBRO DE 1989
 
 Renova a concessão outorgada à RÁDIO MONÓLITOS DE QUIXADÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Quixadá, Estado do Ceará.

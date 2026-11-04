@@ -1,5 +1,3 @@
-###DEC-050988-0-000-18-07-1961@@@
-
 DECRETO Nº 50.988, DE 18 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado da Bahia, as águas do rio denominado “Mutuca”, “Água Suja” e “Água Suja”, respectivamente nos seus trechos superior, médio e inferior.

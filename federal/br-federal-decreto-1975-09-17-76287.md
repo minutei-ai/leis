@@ -1,5 +1,3 @@
-###DEC-076287-0-000-17-09-1975@@@
-
 DECRETO Nº 76.287 - DE 17 DE SETEMBRO DE 1975
 
 Exclui cargo, que indica, do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura.

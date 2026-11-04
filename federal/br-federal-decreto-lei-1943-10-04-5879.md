@@ -1,5 +1,3 @@
-###DEL-005879-0-000-04-10-1943@@@
-
 DECRETO‑LEI Nº 5.879 – DE 4 DE OUTUBRO DE 1943
 
 Reversão ao serviço ativo do Segundo Tenente reformado da Aeronáutica – Setembrino de Oliveira Palma

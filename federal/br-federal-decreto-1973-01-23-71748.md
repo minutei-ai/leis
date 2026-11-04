@@ -1,5 +1,3 @@
-###DEC-071748-0-000-23-01-1973@@@
-
 DECRETO Nº 71.748, DE 23 DE JANEIRO DE 1973.
 
 Retifica o artigo 1º do Decreto número 19.574, de 5 de setembro de 1945.

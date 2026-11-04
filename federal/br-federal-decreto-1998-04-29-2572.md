@@ -20,8 +20,6 @@ FERNANDO HENRIQUE CARDOSO
 
 Clovis de Barros Carvalho
 
-###DEC-002572-0-000-29-04-1998@@@RET01+++
-
 DECRETO Nº 2.572, DE 29 DE ABRIL DE 1998
 
 Inclui dispositivo ao Anexo do Decreto nº 1.361, de 1º de janeiro de 1995, que dispõe sobre a vinculação das entidades integrantes da Administração Pública Federal indireta aos órgãos da Presidência da República e aos Ministérios.

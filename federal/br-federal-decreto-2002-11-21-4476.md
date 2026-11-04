@@ -1,5 +1,3 @@
-###DEC-004476-0-000-21-11-2002@@@
-
 DECRETO Nº 4.476, DE 21 DE NOVEMBRO DE 2002
 
 Promulga o Acordo de Cooperação Cultural e Educacional entre o Governo da República Federativa do Brasil e o Governo da República Libanesa, celebrado em Beirute, em 4 de fevereiro de 1997.

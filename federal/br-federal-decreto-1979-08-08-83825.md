@@ -1,5 +1,3 @@
-###DEC-083825-0-000-08-08-1979@@@
-
 Decreto nº 83.825, de 08 de agosto de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

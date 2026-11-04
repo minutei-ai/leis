@@ -1,5 +1,3 @@
-###DEC-048252-0-000-31-05-1960@@@
-
 DECRETO Nº 48.252, DE 31 DE MAIO DE 1960.
 
 Altera dispositivos do Decreto nº 44.236, de 1 de agôsto de 1958.

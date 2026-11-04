@@ -1,5 +1,3 @@
-###DEC-077354-0-000-31-03-1976@@@
-
 DECRETO Nº 77.354, DE 31 DE MARÇO DE 1976.
 
 Dispõe sobre a criação, no Ministério do Trabalho, do Serviço Nacional de Formação Profissional Rural - SENAR, assegurando-lhe autonomia técnica, administrativa e financeira, e dá outras providências.

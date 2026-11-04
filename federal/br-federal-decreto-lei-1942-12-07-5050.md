@@ -1,5 +1,3 @@
-###DEL-005050-0-000-07-12-1942@@@
-
 DECRETO-LEI N. 5.050 – DE 7 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Justiça e Negócios anteriores, o crédito suplementar de Cr$ 12.000,00 à verba que especifica

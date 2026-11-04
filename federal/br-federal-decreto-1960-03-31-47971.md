@@ -1,5 +1,3 @@
-###DEC-047971-0-000-31-03-1960@@@
-
 DECRETO Nº 47.971, DE 31 DE MARÇO DE 1960.
 
 Inclui novos cargos em organização militar, que dão direito à Diária Industrial, prevista no art. 64, do Código de Vencimentos e Vantagens dos Militares.

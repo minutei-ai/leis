@@ -1,5 +1,3 @@
-###MPV-001823-0-000-29-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.823, DE 29 DE ABRIL DE 1999.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra e dá outras providências.

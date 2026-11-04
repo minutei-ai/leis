@@ -1,5 +1,3 @@
-###DEC-078984-0-000-21-12-1976@@@
-
 Decreto Nº 78.984, DE 21 DE DEZEMBRO DE 1976.
 
 Prorroga prazo estabelecido no Decreto nº 77.336, de 25 de março de 1976, que reestrutura o Grupo-Direção e Assessoramento Superiores.

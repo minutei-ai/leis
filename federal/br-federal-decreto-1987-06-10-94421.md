@@ -1,5 +1,3 @@
-###DEC-094421-0-000-10-06-1987@@@
-
 DECRETO Nº 94.421, DE 10 DE JUNHO DE 1987
 
 Autoriza o aumento do capital social de FURNAS - Centrais Elétricas S.A.

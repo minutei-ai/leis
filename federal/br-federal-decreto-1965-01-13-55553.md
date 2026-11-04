@@ -1,5 +1,3 @@
-###DEC-055553-0-000-13-01-1965@@@
-
 DECRETO Nº 55.553, DE 13 DE JANEIRO DE 1965.
 
 Inclui na letra “b” do Art. 1º do Decreto 51.891,, de 8-4-1963, como junções privativas de Tenente-Brigadeiro-do-Ar, as funções de Diretor do Pessoal.

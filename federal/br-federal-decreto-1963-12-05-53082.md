@@ -1,5 +1,3 @@
-###DEC-053082-0-000-05-12-1963@@@
-
 DECRETO Nº 53.082, DE 5 DE DEZEMBRO DE 1963.
 
 Aprova alterações no Regimento do Departamento de Administração do Ministério da Justiça e Negócios Interiores.

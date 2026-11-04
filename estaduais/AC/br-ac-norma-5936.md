@@ -1,6 +1,10 @@
 > **LEI Nº 4.305, DE 03 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação do selo e da certificação às empresas que cumprirem o percentual exigido por lei para a contratação de pessoas com deficiência.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação do selo e da certificação às empresas que cumprirem o percentual exigido por lei para a contratação de pessoas com deficiência.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

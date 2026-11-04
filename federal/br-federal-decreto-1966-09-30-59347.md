@@ -1,5 +1,3 @@
-###DEC-059347-0-000-30-09-1966@@@
-
 Decreto nº 59.347, de 30 de setembro de 1966.
 
 Dispõe sobre o Feriado nacional do dia 3 de outubro de 1966.

@@ -1,5 +1,3 @@
-###DEC-094647-0-000-14-07-1987@@@
-
 DECRETO Nº 94.647, DE 14 DE JULHO DE 1987.
 
 Altera o art. 1º do Decreto nº 85.387, de 24 de novembro de 1980, que dispõe sobre a composição, competência e funcionamento do Conselho Interministerial do Programa Grande Carajás.

@@ -1,5 +1,3 @@
-###DEC-057343-0-000-25-11-1965@@@
-
 DECRETO Nº 57.343, DE 25 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro João Bosco de Carvalho a pesquisar mica no município de Santa Maria do Suacuí, Estado de Minas Gerais.

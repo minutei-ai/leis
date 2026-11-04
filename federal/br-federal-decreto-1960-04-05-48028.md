@@ -1,5 +1,3 @@
-###DEC-048028-0-000-05-04-1960@@@
-
 DECRETO Nº 48.028, DE 5 DE ABRIL DE 1960.
 
 Autoriza o cidadão brasileiro Manoel de Matos Júnior a pesquisar calcário no município de Arcos, Estado de Minas Gerais.

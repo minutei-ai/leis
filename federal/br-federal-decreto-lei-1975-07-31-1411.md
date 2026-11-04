@@ -1,5 +1,3 @@
-###DEL-001411-0-000-31-07-1975@@@
-
 # decreTO-lei Nº 1.411, DE 31 DE julho DE 1975
 
 Dá nova redação ao artigo 9º do Decreto-lei nº 1.351 de 24 de outubro de 1974.

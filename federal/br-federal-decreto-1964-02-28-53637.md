@@ -1,5 +1,3 @@
-###DEC-053637-0-000-28-02-1964@@@
-
 DECRETO Nº 53.637, DE 28 DE FEVEREIRO DE 1964.
 
 Declara de utilidade pública, para efeitos de desapropriação, o prédio residencial, sito na Avenida Epitácio Pessoa nº 2.447, na cidade de João Pessoa, Estado da Paraíba.

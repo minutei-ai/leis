@@ -1,5 +1,3 @@
-###DEC-072509-0-000-23-07-1973@@@
-
 DECRETO N° 72.509, DE 23 DE JULHO DE 1973.
 
 Declara de utilidade pública para fins de desapropriação, uma área de terra rural e respectiva faixa de acesso, sem benfeitorias, situadas no município de São Fidélis, Estado do Rio de Janeiro, destinadas à instalação de uma estação repetidora de microondas, torre e serviços afins, pela Companhia Telefônica Brasileira - CTB.

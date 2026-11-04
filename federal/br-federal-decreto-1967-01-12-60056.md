@@ -1,5 +1,3 @@
-###DEC-060056-0-000-12-01-1967@@@
-
 Decreto nº 60.056, de 12 de janeiro de 1967.
 
 Estabelece diretrizes para o desenvolvimento da indústria de máquinas e implementos agrícolas e fixa normas para a fabricação de colhedeiras autonotrizes ou combinadas.

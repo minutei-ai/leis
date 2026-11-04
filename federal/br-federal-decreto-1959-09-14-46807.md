@@ -1,5 +1,3 @@
-###DEC-046807-0-000-14-09-1959@@@
-
 decreto nº 46.807, de 14 de setembro de 1959
 
 Declara de utilidade pública a Sociedade Paranaense de Cultura, com sede em Curitiba, Estado do Paraná.

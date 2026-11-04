@@ -1,5 +1,3 @@
-###DEL-007344-0-000-27-02-1945@@@
-
 DECRETO-LEI N. 7.344 – DE 27 DE FEVEREIRO DE 1945
 
 Dispõe sobre a atividade funcional dos Despachantes da prefeitura do Distrito Federal

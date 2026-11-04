@@ -1,5 +1,3 @@
-###DEC-057756-0-000-08-02-1966@@@
-
 DECRETO Nº 57.756, DE 8 DE FEVEREIRO DE 1966.
 
 Autoriza a filiação de entidade sindical à Federacion Interamericana de Organizaciones de Periodistas Profissionales.

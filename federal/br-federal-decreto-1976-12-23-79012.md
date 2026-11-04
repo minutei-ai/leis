@@ -1,5 +1,3 @@
-###DEC-079012-0-000-23-12-1976@@@
-
 DECRETO Nº 79.012, DE 23 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Formação de Executivos das Faculdades Integradas Estácio de Sá, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

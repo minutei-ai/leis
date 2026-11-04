@@ -1,5 +1,3 @@
-###DEC-002465-0-000-19-01-1998@@@
-
 DECRETO Nº 2.465, DE 19 DE JANEIRO DE 1998
 
 Promulga o Acordo para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre a Renda, celebrado entre o Governo da República Federativa do Brasil e o Governo da República da Finlândia, em Brasília, em 2 de abril de 1996.
@@ -484,7 +482,17 @@ Em testemunho do que, os abaixo-assinados, para isso devidamente autorizados, as
 
 Feito em Brasília, em 02 de abril de 1996, em dois exemplares originais, nos idiomas português, finlandês e inglês, sendo todos os textos igualmente autênticos. No caso de qualquer divergência de interpretação, prevalecerá o texto na sua versão inglesa.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p></td><td style="width:200.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">da Finlândia</span></p></td></tr><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:200.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ole Norrback</span></p></td></tr><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:200.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro p/Europa e Comércio Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República  Federativa do Brasil
+
+Pelo Governo da República  da Finlândia
+
+Luiz Felipe Lampreia
+
+Ole Norrback
+
+Ministro de Estado das Relações Exteriores
+
+Ministro p/Europa e Comércio Exteriores
 
 Protocolo
 
@@ -506,4 +514,14 @@ Em testemunho do que, os abaixo-assinados, para isso devidamente autorizados, as
 
 Feito em Brasília, em 02 de abril de 1996, em dois exemplares originais, nos idiomas português, finlandês e inglês, sendo todos os textos igualmente autênticos. No caso de divergência de interpretação, prevalecerá o texto na sua versão inglesa.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Finlândia</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ole Norrback</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro p/ Europa e Comércio Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República da Finlândia
+
+Luiz Felipe Lampreia
+
+Ole Norrback
+
+Ministro de Estado das Relações Exteriores
+
+Ministro p/ Europa e Comércio Exteriores

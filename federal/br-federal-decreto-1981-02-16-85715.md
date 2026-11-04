@@ -1,5 +1,3 @@
-###DEC-085715-0-000-16-02-1981@@@
-
 Decreto nº 85.715, de 16 de fevereiro de 1981.
 
 Dispõe sobre fixação de área prioritária, para fins de reforma agrária, no Município de Camamu, no Estado da Bahia e dá outras providências.

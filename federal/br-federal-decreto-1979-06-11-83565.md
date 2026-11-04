@@ -1,5 +1,3 @@
-###DEC-083565-0-000-11-06-1979@@@
-
 Decreto nº 83.565, de 11 de junho de 1979.
 
 Concede reconhecimento ao curso de Ciências das Faculdades Integradas Princesa Isabel, com sede na cidade de São Paulo, Estado de São Paulo.

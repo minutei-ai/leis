@@ -1,5 +1,3 @@
-###DEL-003650-0-000-24-09-1941@@@
-
 DECRETO-LEI N. 3.650 – de 24 DE SETEMBRO DE 1941
 
 Suprime função gratificada, no Quadro Permanente do Ministério da Fazenda

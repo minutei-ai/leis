@@ -1,5 +1,3 @@
-###DEC-067772-0-000-09-12-1970@@@
-
 DECRETO Nº 67.772, de 9 de dezembro de 1970.
 
 Declara caduco o Decreto número 35.923 de 28 de julho de 1954.

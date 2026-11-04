@@ -1,6 +1,10 @@
 > **LEI Nº 4.398, DE 19 DE AGOSTO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Inclui no calendário de eventos e festas do Estado a Exposena Rural Show.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Inclui no calendário de eventos e festas do Estado a Exposena Rural Show.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual, c/c o art. 15, § 1º, X, do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 

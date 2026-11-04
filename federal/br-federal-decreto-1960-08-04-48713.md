@@ -1,5 +1,3 @@
-###DEC-048713-0-000-04-08-1960@@@
-
 DECRETO Nº 48.713, DE 4 DE AGÔSTO DE 1960.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel destinado a aplicação das instalações da Faculdade de Odontologia de Pelotas, da Universidade do Rio Grande do Sul.

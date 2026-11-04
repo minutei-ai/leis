@@ -1,5 +1,3 @@
-###DEC-064433-0-000-30-04-1969@@@
-
 DECRETO nº 64.433, DE 30 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Ginásio Salesiano Domingos Sávio, com sede em Lucélia, Estado de São Paulo.

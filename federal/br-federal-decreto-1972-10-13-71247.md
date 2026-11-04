@@ -1,5 +1,3 @@
-###DEC-071247-0-000-13-10-1972@@@
-
 DECRETO nº 71.247, DE 13 DE OUTUBRO DE 1972.
 
 Publica os índices de atualização monetária dos salários dos últimos 24 (vinte e quatro) meses, na forma estabelecida na Lei n° 5.451 de 12 de junho de 1968, e dá outras providências.
@@ -12,7 +10,101 @@ Art. 1º Para reconstituição dos salários reais médios dos últimos 24 - (vi
 
 # MÊS - COEFICIENTE
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Outubro de 1970.................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,41</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Novembro de 1970.............................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,40</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dezembro de 1970.............................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,38</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Janeiro de 1971..................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,37</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Fevereiro de 1971...............................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,34</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Março de 1971....................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,32</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Abril de 1971.......................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,30</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Maio de 1971......................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,29</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Junho de 1971....................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,27</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Julho de 1971.....................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,24</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Agosto de 1971...................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,22</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Setembro de 1971..............................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,20</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Outubro de 1971.................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,19</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Novembro de 1971.............................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,17</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dezembro de 1971.............................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,15</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Janeiro de 1972..................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,14</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Fevereiro de 1972...............................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,11</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Março de 1972....................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,09</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Abril de 1972.......................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,07</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Maio de 1972......................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,06</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Junho de 1972....................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,06</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Julho de 1972.....................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,05</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Agosto de 1972...................................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,03</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Setembro de 1972..............................................</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,02</span></p></td></tr></tbody></table>
+Outubro de 1970.................................................
+
+1,41
+
+Novembro de 1970.............................................
+
+1,40
+
+Dezembro de 1970.............................................
+
+1,38
+
+Janeiro de 1971..................................................
+
+1,37
+
+Fevereiro de 1971...............................................
+
+1,34
+
+Março de 1971....................................................
+
+1,32
+
+Abril de 1971.......................................................
+
+1,30
+
+Maio de 1971......................................................
+
+1,29
+
+Junho de 1971....................................................
+
+1,27
+
+Julho de 1971.....................................................
+
+1,24
+
+Agosto de 1971...................................................
+
+1,22
+
+Setembro de 1971..............................................
+
+1,20
+
+Outubro de 1971.................................................
+
+1,19
+
+Novembro de 1971.............................................
+
+1,17
+
+Dezembro de 1971.............................................
+
+1,15
+
+Janeiro de 1972..................................................
+
+1,14
+
+Fevereiro de 1972...............................................
+
+1,11
+
+Março de 1972....................................................
+
+1,09
+
+Abril de 1972.......................................................
+
+1,07
+
+Maio de 1972......................................................
+
+1,06
+
+Junho de 1972....................................................
+
+1,06
+
+Julho de 1972.....................................................
+
+1,05
+
+Agosto de 1972...................................................
+
+1,03
+
+Setembro de 1972..............................................
+
+1,02
 
 Parágrafo único. O salário real médio a ser reconstituído será a média aritmética dos valores obtidos pela aplicação dos coeficientes acima aos salários dos meses correspondentes.
 

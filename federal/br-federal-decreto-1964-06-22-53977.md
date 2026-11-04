@@ -1,5 +1,3 @@
-###DEC-053977-0-000-22-06-1964@@@
-
 decreto nº 53.977, de 22 de junho de 1964.
 
 Declara de utilidade pública, para fins de desapropriação, conjunto residencial, edificado em terreno da União, situado no Estado da Guanabara, na antiga “Chácara do Algodão”.
@@ -21,8 +19,6 @@ Brasília, 22 de junho de 1964; 143º da Independência e 76º da República.
 h. castello branco
 
 Octávio Gouveia de Bulhões
-
-###DEC-053977-0-000-22-06-1964@@@RET01+++
 
 DECRETO Nº 53.977, DE 22 DE JUNHO DE 1964.
 

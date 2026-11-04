@@ -1,5 +1,3 @@
-###DEC-052660-0-000-10-10-1963@@@
-
 Decreto nº 52.660, de 10 de outubro de 1963.
 
 Altera o Decreto nº 51.893, de 8 de abril de 1963.

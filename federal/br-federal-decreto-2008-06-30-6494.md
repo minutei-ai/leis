@@ -1,5 +1,3 @@
-###DEC-006494-0-000-30-06-2008@@@
-
 DECRETO Nº 6.494, DE 30 DE JUNHO DE 2008.
 
 Dispõe sobre o Programa Nacional de Reestruturação e Aquisição de Equipamentos para a Rede Escolar Pública de Educação Infantil - Pro-Infância.

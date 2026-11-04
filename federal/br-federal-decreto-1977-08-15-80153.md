@@ -1,5 +1,3 @@
-###DEC-080153-0-000-15-08-1977@@@
-
 DECRETO Nº 80.153, DE 15 DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias necessárias à implantação da subestação de Barro Preto, da Centrais Elétricas de Minas Gerais S. A. - CEMIG no Estado de Minas Gerais.
@@ -25,8 +23,6 @@ Brasília, 15 de agosto de 1977; 156º da Independência e 89º da República.
 ERNESTO GEISEL
 
 Shigeaki Ueki
-
-###DEC-080153-0-000-15-08-1977@@@
 
 DECRETO Nº 80.153, DE 15 DE AGOSTO DE 1977.
 

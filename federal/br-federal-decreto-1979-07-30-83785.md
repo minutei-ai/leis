@@ -1,5 +1,3 @@
-###DEC-083785-0-000-30-07-1979@@@
-
 Decreto nº 83.785, de 30 de julho de 1979.
 
 Dispõe sobre a adoção de medidas iniciais na execução do PROGRAMA NACIONAL DE DESBUROCRATIZAÇÃO.

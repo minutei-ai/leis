@@ -1,7 +1,3 @@
-1
-
-###DEC-099509-0-000-05-09-1990@@@
-
 DECRETO Nº 99.509, DE 5 DE SETEMBRO DE 1990
 
 Veda contribuições com recursos públicos, em favor de clubes e associações de servidores ou empregados de órgãos e entidades da Administração Pública Federal, e dá outras providências.

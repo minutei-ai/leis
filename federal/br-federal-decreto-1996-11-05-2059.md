@@ -1,5 +1,3 @@
-###DEC-002059-0-000-05-11-1996@@@
-
 DECRETO Nº 2.059, DE 5 DE NOVEMBRO DE 1996.
 
 Dispõe sobre a transferência para o Ministério da Justiça do acervo patrimonial mobiliário da extinta Fundação Centro Brasileiro para a Infância e Adolescência - FCBIA, e dá outras providências.

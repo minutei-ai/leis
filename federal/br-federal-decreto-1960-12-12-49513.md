@@ -1,5 +1,3 @@
-###DEC-049513-0-000-12-12-1960@@@
-
 DECRETO Nº 49.513, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro, João Gomieri Sobrinho a pesquisar água mineral rádio-ativa no município de Ariranha, Estado de São Paulo.

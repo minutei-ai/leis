@@ -1,5 +1,3 @@
-###DEL-009837-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.837 – DE 11 DE SETEMBRO DE 1946
 
  Extingue Contadoria Secional e dá outras providências

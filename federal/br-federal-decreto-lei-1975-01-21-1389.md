@@ -1,5 +1,3 @@
-###DEL-001389-0-000-21-01-1975@@@
-
 # DECRETO-LEI Nº 1.389, DE 21 DE JANEIRO DE 1975
 
 Isenta do imposto de importação e do imposto sobre produtos industrializados os aparelhos tipo “Neurostimulator” (“Pacemaker”).

@@ -1,6 +1,6 @@
 Portaria Orçamentária nº 31/2025 - Economia
 
-**O** **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de Janeiro de 2025, conforme processo 202500004012626.
+**OSECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de Janeiro de 2025, conforme processo 202500004012626.
 
 **RESOLVE:**
 
@@ -20,7 +20,8 @@ QUADRO 1
 
 SUPLEMENTAÇÃO
 
-| **2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER**<br>
+| **2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER**
+
 **2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER** |
 | --- |
 |   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |

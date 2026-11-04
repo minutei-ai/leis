@@ -1,5 +1,3 @@
-###DEC-074479-0-000-30-08-1974@@@
-
 decreto nº 74.479, de 30 de agosto de 1974.
 
 Cria a Secretaria Executiva da Comissão de Coordenação da Política de Compras no Exterior (CCPCE), de que trata o Decreto nº 65.527, de 21 de outubro de 1969, e dá outras providências.

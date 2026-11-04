@@ -1,5 +1,3 @@
-###DEC-070336-0-000-28-03-1972@@@
-
 DECRETO Nº 70.336, DE 28 DE MARÇO DE 1972.
 
 Declara de interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à implantação do Projeto de Irrigação do Açude Público Forquilha, no município de Sobral, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-055422-0-000-31-12-1964@@@
-
 DECRETO Nº 55.422, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Luiz Gasparetti Junior a lavrar argila, no município de Taubaté, Estado de São Paulo.

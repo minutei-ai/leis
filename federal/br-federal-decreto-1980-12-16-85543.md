@@ -1,5 +1,3 @@
-###DEC-085543-0-000-16-12-1980@@@
-
 DECRETO Nº 85.543, de 16 de dezembro de 1980.
 
 Altera a subordinação do 18º Batalhão de Infantaria Motorizado no Ministério do Exército.

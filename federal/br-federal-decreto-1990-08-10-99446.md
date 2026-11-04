@@ -1,5 +1,3 @@
-###DEC-099446-0-000-10-08-1990@@@
-
 DECRETO N° 99.446, DE 10 DE AGOSTO DE 1990
 
 Altera alíquota da tabela de Incidência do Imposto sobre Produtos Industrializados (IPI).

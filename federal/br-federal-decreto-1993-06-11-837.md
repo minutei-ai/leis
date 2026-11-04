@@ -1,7 +1,3 @@
-1
-
-###DEC-000837-0-000-11-06-1993@@@
-
 DECRETO N° 837, DE 11 DE JUNHO DE 1993
 
 Acresce parágrafo único ao art. 3° do Decreto n° 807, de 24 de abril de 1993, que instituiu o Conselho Nacional de Segurança Alimentar -CONSEA.

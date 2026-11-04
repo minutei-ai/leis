@@ -1,5 +1,3 @@
-###MPV-001614-0-024-22-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.614-24, DE 22 DE OUTUBRO DE 1998
 
 Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências.

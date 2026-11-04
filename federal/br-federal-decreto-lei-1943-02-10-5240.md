@@ -1,5 +1,3 @@
-###DEL-005240-0-000-10-02-1943@@@
-
 DECRETO‑LEI N. 5.240 – DE 10 DE FEVEREIRO DE 1943
 
 Encorpora à Colônia Agrícola Nacional do Pará as terras cedidas à União no município de Monte Alegre, Estado do Pará

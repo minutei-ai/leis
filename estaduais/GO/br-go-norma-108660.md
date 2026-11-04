@@ -16,8 +16,6 @@ Art. 2º Esta Lei entra em vigor na data da sua publicação.
 
 Goiânia, 9 de abril de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

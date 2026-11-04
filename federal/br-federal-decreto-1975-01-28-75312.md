@@ -1,5 +1,3 @@
-###DEC-075312-0-000-28-01-1975@@@
-
 DECRETO Nº 75.312, DE 28 DE JANEIRO DE 1975.
 
 Outorga concessão à Rede Mineira de Rádio e Televisão Ltda. para estabelecer uma estação de radiodifusão de sons e imagens (televisão), na cidade de Uberlândia Estado de Minas Gerais.

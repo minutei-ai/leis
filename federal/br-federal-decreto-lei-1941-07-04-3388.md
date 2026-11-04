@@ -1,5 +1,3 @@
-###DEL-003388-0-000-04-07-1941@@@
-
 DECRETO-LEI N. 3.388 – DE 4 DE JULHO DE 1941
 
 Modifica um artigo do Estatuto dos Militares

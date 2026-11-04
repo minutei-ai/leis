@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208231)<br>
-
 # DECRETO N° 67.779, DE 29 DE JUNHO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de Mauá, parte do imóvel que especifica._

@@ -1,5 +1,3 @@
-###DEC-000132-0-000-22-05-1991@@@
-
 DECRETO N° 132, DE 22 DE MAIO DE 1991
 
 Dispõe sobre a execução do Protocolo de Adesão da República de Cuba ao Acordo de Alcance Parcial de Cooperação e Intercâmbio de Bens nas Áreas Cultural, Educacional e Cientifica, subscrito entre o Brasil, a Argentina, a Colômbia, o México, o Paraguai, o Peru, o Uruguai e a Venezuela.

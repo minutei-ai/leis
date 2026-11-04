@@ -1,5 +1,3 @@
-###DEC-086332-0-000-02-09-1981@@@
-
 Decreto nº 86.332, de 02 de setembro de 1981
 
 Autoriza a transferência direta para a RÁDIO INCONFIDÊNCIA LTDA., das concessões outorgadas à FUNDAÇÃO PANDIÁ CALÓGERAS, para execução de serviços de radiodifusão sonora em onda média de âmbito nacional e ondas curtas, na cidade de Belo Horizonte, Estado de Minas Gerais.

@@ -154,7 +154,8 @@ Altera a Lei nº [11.370](https://www.legislabahia.ba.gov.br/documentos/lei-no-1
 
 .................................................................................................................
 
-**SEÇÃO IV<br>
+**SEÇÃO IV
+
 Do Departamento de Gestão Tecnológica, Telecomunicações e Inovação**
 
 **Art. 27-**A - Ao Departamento de Gestão Tecnológica, Telecomunicações e Inovação, que tem por finalidade a integração das diversas unidades da Polícia Civil e o Sistema Estadual de Segurança Pública, no que se refere à tecnologia da informação, telecomunicações e inovação, compete:
@@ -181,7 +182,8 @@ Do Departamento de Gestão Tecnológica, Telecomunicações e Inovação**
 
 **Parágrafo único -** O Departamento de Gestão Tecnológica, Telecomunicações e Inovação será dirigido, preferencialmente, por integrante da carreira de Delegado de Polícia Civil e demais carreiras da Polícia Civil do Estado da Bahia, da ativa, com especialização na área de tecnologia da informação.
 
-**SEÇÃO V<br>
+**SEÇÃO V
+
 Do Departamento de Gestão de Pessoas, Saúde e Valorização**
 
 Profissional da Polícia Civil
@@ -218,7 +220,8 @@ Profissional da Polícia Civil
 
 .................................................................................................................
 
-**SEÇÃO II<br>
+**SEÇÃO II
+
 Do Departamento Especializado de Investigações Criminais**
 
 **Art. 30** - Ao Departamento Especializado de Investigações Criminais, que tem por finalidade dirigir, supervisionar, monitorar e orientar ações, investigações e apurações de infrações penais de natureza especializada, em todo o território do Estado, compete:
@@ -243,7 +246,8 @@ Do Departamento Especializado de Investigações Criminais**
 
 **Parágrafo único -** O Departamento Especializado de Investigações Criminais será dirigido por Delegado de Polícia Civil, da ativa, no mínimo, classe II.
 
-**SEÇÃO III<br>
+**SEÇÃO III
+
 Do Departamento de Homicídios e Proteção à Pessoa**
 
 **Art. 31** - Ao Departamento de Homicídios e Proteção à Pessoa, que tem por finalidade dirigir, supervisionar, monitorar e orientar ações, investigações e operações especializadas de combate a homicídios e localização de pessoas desaparecidas em todo território do Estado, compete:
@@ -254,7 +258,8 @@ Do Departamento de Homicídios e Proteção à Pessoa**
 
 **Parágrafo único -** O Departamento de Homicídios e Proteção à Pessoa será dirigido por Delegado de Polícia Civil, da ativa, classe Especial ou classe I.
 
-**SEÇÃO III-A<br>
+**SEÇÃO III-A
+
 Do Departamento de Repressão e Combate à Corrupção, ao**
 
 Crime Organizado e à Lavagem de Dinheiro
@@ -275,7 +280,8 @@ Crime Organizado e à Lavagem de Dinheiro
 
 **Parágrafo único -** O Departamento de Repressão e Combate à Corrupção, ao Crime Organizado e à Lavagem de Dinheiro será dirigido por Delegado de Polícia Civil, da ativa, no mínimo, classe II.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Do Departamento Especializado de Investigação e Repressão ao Narcotráfico
 
 **Art. 32** - O Departamento Especializado de Investigação e Repressão ao Narcotráfico, que tem por finalidade planejar, coordenar, dirigir, controlar, avaliar e executar as atividades de investigação e repressão aos crimes de tráfico ilícito de substâncias entorpecentes e drogas afins, de competência da Polícia Civil do Estado, compete:
@@ -292,7 +298,8 @@ Do Departamento Especializado de Investigação e Repressão ao Narcotráfico
 
 **Parágrafo único -** O Departamento Especializado de Investigação e Repressão ao Narcotráfico será dirigido por Delegado de Polícia Civil, da ativa, no mínimo, classe II.
 
-**SEÇÃO V<br>
+**SEÇÃO V
+
 Do Departamento de Polícia Metropolitana**
 
 **Art. 33** - Ao Departamento de Polícia Metropolitana, que tem por finalidade exercer as funções de polícia judiciária e apuração de infrações penais nos municípios que integram a Cidade de Salvador e Região Metropolitana, compete:
@@ -305,7 +312,8 @@ Do Departamento de Polícia Metropolitana**
 
 **Parágrafo único -** O Departamento de Polícia Metropolitana será dirigido por Delegado de Polícia Civil, da ativa, classe Especial ou classe I.
 
-**SEÇÃO V-A<br>
+**SEÇÃO V-A
+
 Do Departamento de Polícia do Interior**
 
 **Art. 33-**A - Ao Departamento de Polícia do Interior, que tem por finalidade exercer as funções de polícia judiciária e apuração de infrações penais nos territórios específicos integrados por municípios no interior do Estado, compete:
@@ -318,7 +326,8 @@ Do Departamento de Polícia do Interior**
 
 **Parágrafo único -** O Departamento de Polícia do Interior será dirigido por Delegado de Polícia Civil, da ativa, classe Especial ou classe I.
 
-**SEÇÃO VI<br>
+**SEÇÃO VI
+
 Da Coordenação de Operações e Recursos Especiais**
 
 **Art. 34** - À Coordenação de Operações e Recursos Especiais, integrada por servidores das carreiras profissionais policiais civis de formação técnico-profissional específica, treinados no uso de armas, equipamentos e técnicas específicas, que tem por finalidade intervir e atuar em situações de alto risco e ocorrências de alta complexidade, nas quais intervenha a Polícia Civil, compete:
@@ -327,7 +336,8 @@ Da Coordenação de Operações e Recursos Especiais**
 
 **Parágrafo único -** A Coordenação de Operações e Recursos Especiais será dirigida por Delegado de Polícia Civil, da ativa, no mínimo, classe II.
 
-**SEÇÃO VII<br>
+**SEÇÃO VII
+
 Do Departamento de Proteção a Mulher, Cidadania e Pessoas**
 
 Vulneráveis
@@ -336,14 +346,16 @@ Vulneráveis
 
 **Parágrafo único -** O Departamento de Proteção a Mulher, Cidadania e Pessoas Vulneráveis será dirigido por Delegado de Polícia Civil, da ativa, no mínimo, classe II, preferencialmente com curso de Gestão de Políticas Públicas e em áreas afins.
 
-**SEÇÃO VIII<br>
+**SEÇÃO VIII
+
 Da Coordenação de Conflitos Fundiários**
 
 **Art. 34-**B - A Coordenação de Conflitos Fundiários tem por finalidade planejar, coordenar e executar as ações de prevenção, monitoramento e investigação das infrações penais caracterizadas como decorrentes de conflitos fundiários, em todo o Estado.
 
 **Parágrafo único -** A Coordenação de Conflitos Fundiários será dirigida por Delegado de Polícia Civil, da ativa, no mínimo, classe II.
 
-**SEÇÃO IX<br>
+**SEÇÃO IX
+
 Da Coordenação de Operações de Polícia Judiciária**
 
 **Art. 34-**C - A Coordenação de Operações de Polícia Judiciária tem a finalidade de planejar, coordenar, controlar e avaliar ações específicas de apoio operacional às atividades finalísticas de segurança institucional, de segurança de dignitários, com atuação em grandes eventos, operações policiais integradas e em ações que envolvam depoentes especiais.
@@ -354,7 +366,8 @@ Da Coordenação de Operações de Polícia Judiciária**
 
 .................................................................................................................
 
-**SEÇÃO III<br>
+**SEÇÃO III
+
 Do Instituto de Segurança Pública, Estatística e Pesquisa Criminal**
 
 **Art. 38** - Ao Instituto de Segurança Pública, Estatística e Pesquisa Criminal, que tem por finalidade reunir, organizar e manter registros e arquivos policiais de interesse da investigação criminal e organizacional, bem como produzir conhecimento sobre problemas da violência e criminalidade, compete:
@@ -365,21 +378,24 @@ Do Instituto de Segurança Pública, Estatística e Pesquisa Criminal**
 
 **Parágrafo único -** O Instituto de Segurança Pública, Estatística e Pesquisa Criminal será dirigido por integrante da carreira de Delegado de Polícia Civil e demais carreiras da Polícia Civil do Estado da Bahia, da ativa, no mínimo, classe II, preferencialmente graduado ou especializado em áreas afins.
 
-**SEÇÃO III-A<br>
+**SEÇÃO III-A
+
 Da Coordenação de Controle Interno**
 
 **Art. 38-**A - A Coordenação de Controle Interno tem por finalidade desempenhar as funções de acompanhamento, controle e fiscalização da execução orçamentária, financeira e patrimonial, em estreita articulação com o órgão estadual de controle interno.
 
 **Parágrafo único -** A Coordenação de Controle Interno terá atuação setorial, observado o disposto em regulamentação específica.
 
-**SEÇÃO III-B<br>
+**SEÇÃO III-B
+
 Da Ouvidoria**
 
 **Art. 38-**B - A Ouvidoria tem por finalidade receber denúncias, reclamações e representações de atos desabonadores, bem como proceder ao registro de atos abonadores referentes à conduta dos integrantes da Polícia Civil do Estado da Bahia e críticas ao seu regular desempenho na prestação de serviços, funcionando em estreita
 
 articulação com a Ouvidoria Geral do Estado.
 
-**SEÇÃO III-C<br>
+**SEÇÃO III-C
+
 Do Departamento de Infraestrutura e Logística**
 
 **Art. 38-**C - Ao Departamento de Infraestrutura e Logística, que tem por finalidade executar as atividades de administração geral da infraestrutura e apoio logístico às unidades da Polícia Civil, compete:
@@ -404,7 +420,8 @@ Do Departamento de Infraestrutura e Logística**
 
 **Parágrafo único -** O Departamento de Infraestrutura e Logística será dirigido, preferencialmente, por profissional portador de diploma de nível superior em Administração ou áreas afins ou especialização na área.
 
-**SEÇÃO III-D<br>
+**SEÇÃO III-D
+
 Do Escritório de Gestão de Projetos e Processos**
 
 **Art. 38-**D - Ao Escritório de Gestão de Projetos e Processos, que tem por finalidade assessorar a administração superior nas atividades de planejamento, monitoramento e controle das estratégias institucionais e ações de interesse da Polícia Civil, compete:
@@ -485,302 +502,4 @@ Marcelo Werner Derschum Filho
 
 Secretário da Segurança Pública
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:435.5pt;border-collapse:collapse" width="581"><tbody><tr style="height:22.75pt"><td colspan="3" style="width:435.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="581"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">ANEXO ÚNICO</span></p><p class="Tabela-Texto" style="margin-top:3.45pt;margin-right:187.1pt;
-  margin-bottom:3.0pt;margin-left:186.85pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">ANEXO IV</span></p><p class="Tabela-Texto" style="margin-top:3.45pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">QUADRO DE CARGOS EM COMISSÃO DA POLÍCIA CIVIL DO ESTADO DA BAHIA</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:87.8pt;margin-bottom:
-  3.0pt;margin-left:88.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">CARGO</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:25.05pt;
-  margin-bottom:3.0pt;margin-left:25.8pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">SÍMBOLO</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:9.1pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">QUANTIDADE</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph;line-height:106%"><span style="color:black;
-  font-weight:normal">Delegado-Geral da Polícia Civil</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:25.05pt;
-  margin-bottom:3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:106%"><span style="color:black;font-weight:normal">DAS-1</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:106%"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Delegado-Geral Adjunto da Polícia Civil</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.75pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2A</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Chefe de Gabinete</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Corregedor-Chefe</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Diretor</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">12</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Assessor de Comunicação Social</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Coordenador I</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">10</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Diretor Adjunto</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">06</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Diretor</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Ouvidor</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Coordenador de Controle Interno II</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.75pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Coordenador Regional</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.75pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">26</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Coordenador Técnico</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.75pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">27</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Assessor de Comunicação Social I</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">02</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Assessor Técnico</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">18</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Coordenador II</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">48</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Delegado Titular I</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:25.05pt;margin-bottom:
-  3.0pt;margin-left:25.7pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">214</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Assessor Administrativo</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:24.95pt;margin-bottom:
-  3.0pt;margin-left:25.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Assessor de Comunicação Social II</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:24.95pt;margin-bottom:
-  3.0pt;margin-left:25.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Assistente III</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:24.95pt;margin-bottom:
-  3.0pt;margin-left:25.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">07</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Coordenador III</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:24.95pt;margin-bottom:
-  3.0pt;margin-left:25.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">635</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Delegado Titular II</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:24.95pt;margin-bottom:
-  3.0pt;margin-left:25.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">169</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Assistente de Execução Orçamentária</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:24.95pt;margin-bottom:
-  3.0pt;margin-left:25.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAI-5</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">32</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Coordenador IV</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:24.95pt;margin-bottom:
-  3.0pt;margin-left:25.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAI-5</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">462</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Oficial de Gabinete</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:24.95pt;margin-bottom:
-  3.0pt;margin-left:25.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAI-5</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:22.75pt"><td style="width:223.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="297"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">Secretário Administrativo I</span></p></td><td style="width:110.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="147"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:24.95pt;margin-bottom:
-  3.0pt;margin-left:25.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">DAI-5</span></p></td><td style="width:102.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt" valign="top" width="137"><p class="Tabela-Texto" style="margin-top:.6pt;margin-right:9.0pt;margin-bottom:
-  3.0pt;margin-left:9.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:112%"><span style="color:black;font-weight:normal">30</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> ANEXO ÚNICO ANEXO IV QUADRO DE CARGOS EM COMISSÃO DA POLÍCIA CIVIL DO ESTADO DA BAHIA </td></tr><tr><td valign="top"> CARGO </td><td valign="top"> SÍMBOLO </td><td valign="top"> QUANTIDADE </td></tr><tr><td valign="top"> Delegado-Geral da Polícia Civil </td><td valign="top"> DAS-1 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Delegado-Geral Adjunto da Polícia Civil </td><td valign="top"> DAS-2A </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Chefe de Gabinete </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Corregedor-Chefe </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor </td><td valign="top"> DAS-2B </td><td valign="top"> 12 </td></tr><tr><td valign="top"> Assessor de Comunicação Social </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador I </td><td valign="top"> DAS-2C </td><td valign="top"> 10 </td></tr><tr><td valign="top"> Diretor Adjunto </td><td valign="top"> DAS-2C </td><td valign="top"> 06 </td></tr><tr><td valign="top"> Diretor </td><td valign="top"> DAS-2C </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Ouvidor </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Controle Interno II </td><td valign="top"> DAS-2D </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador Regional </td><td valign="top"> DAS-2D </td><td valign="top"> 26 </td></tr><tr><td valign="top"> Coordenador Técnico </td><td valign="top"> DAS-2D </td><td valign="top"> 27 </td></tr><tr><td valign="top"> Assessor de Comunicação Social I </td><td valign="top"> DAS-3 </td><td valign="top"> 02 </td></tr><tr><td valign="top"> Assessor Técnico </td><td valign="top"> DAS-3 </td><td valign="top"> 18 </td></tr><tr><td valign="top"> Coordenador II </td><td valign="top"> DAS-3 </td><td valign="top"> 48 </td></tr><tr><td valign="top"> Delegado Titular I </td><td valign="top"> DAS-3 </td><td valign="top"> 214 </td></tr><tr><td valign="top"> Assessor Administrativo </td><td valign="top"> DAI-4 </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Assessor de Comunicação Social II </td><td valign="top"> DAI-4 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assistente III </td><td valign="top"> DAI-4 </td><td valign="top"> 07 </td></tr><tr><td valign="top"> Coordenador III </td><td valign="top"> DAI-4 </td><td valign="top"> 635 </td></tr><tr><td valign="top"> Delegado Titular II </td><td valign="top"> DAI-4 </td><td valign="top"> 169 </td></tr><tr><td valign="top"> Assistente de Execução Orçamentária </td><td valign="top"> DAI-5 </td><td valign="top"> 32 </td></tr><tr><td valign="top"> Coordenador IV </td><td valign="top"> DAI-5 </td><td valign="top"> 462 </td></tr><tr><td valign="top"> Oficial de Gabinete </td><td valign="top"> DAI-5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Secretário Administrativo I </td><td valign="top"> DAI-5 </td><td valign="top"> 30 </td></tr></tbody></table>

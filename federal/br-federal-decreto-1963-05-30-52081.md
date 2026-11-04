@@ -1,5 +1,3 @@
-###DEC-052081-0-000-30-05-1963@@@
-
 DECRETO Nº 52.081, DE 30 DE MAIO DE 1963.
 
 Declara de utilidade pública a “Irmandade da Santa Casa de Misericórdia de Ouro Prêto” Estado de Minas Gerais.

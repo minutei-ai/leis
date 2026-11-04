@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208839)<br>
-
 # DECRETO N° 68.111, DE 27 DE NOVEMBRO DE 2023
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Araçoiaba da Serra, que declarou Situação de Emergência em áreas do Município._

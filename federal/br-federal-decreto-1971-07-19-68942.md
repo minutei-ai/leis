@@ -1,5 +1,3 @@
-###DEC-068942-0-000-19-07-1971@@@
-
 DECRETO nº 68.942, DE 19 de julho de 1971.
 
 Revoga o Decreto n° 40.092, de 9 de outubro de 1956.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.758, DE 16 DE JULHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a majoração do adicional de insalubridade destinado aos servidores da saúde, como medida excepcional e temporária de enfrentamento da doença Covid-19; revoga a Lei nº 3.627, de 12 de maio de 2020.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a majoração do adicional de insalubridade destinado aos servidores da saúde, como medida excepcional e temporária de enfrentamento da doença Covid-19; revoga a Lei nº 3.627, de 12 de maio de 2020.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -20,15 +20,32 @@ Aparecida de Goiânia, 26 de junho de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 25</td><td style="text-align:center">521,25</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 25
+
+521,25
 
 SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 25 A</td><td style="text-align:center">260,625</td></tr><tr><td>LOTE 25 B</td><td style="text-align:center">260,625</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 25 A
+
+260,625
+
+LOTE 25 B
+
+260,625

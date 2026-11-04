@@ -1,5 +1,3 @@
-###DEC-055812-0-000-05-03-1965@@@
-
 DECRETO Nº 55.812, DE 5 DE MARÇO DE 1965.
 
 Dispõe sôbre o pessoal - mão-de-obra dos Estabelecimentos e Seções Comerciais de Serviços Industrializados do Ministério da Guerra.

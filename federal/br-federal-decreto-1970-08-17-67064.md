@@ -1,5 +1,3 @@
-###DEC-067064-0-000-17-08-1970@@@
-
 Decreto nº 67.064, de 17 de agôsto de 1970.
 
 Altera dispositivo do Decreto nº 56.600, de 22 de julho de 1965, que autorizou o Serviço do Patrimônio da União a fazer a cessão de uma área de terreno da Fazenda Militar de Barueri ao Estado de São Paulo.

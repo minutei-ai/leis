@@ -1,6 +1,10 @@
 > **LEI Nº 4.563, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 2.976, de 22 de julho de 2015, que institui a política estadual de proteção dos direitos da pessoa com Transtorno do Espectro Autista - TEA, e estabelece diretrizes para sua consecução.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 2.976, de 22 de julho de 2015, que institui a política estadual de proteção dos direitos da pessoa com Transtorno do Espectro Autista - TEA, e estabelece diretrizes para sua consecução.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

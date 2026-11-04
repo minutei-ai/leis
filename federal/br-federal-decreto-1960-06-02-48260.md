@@ -1,5 +1,3 @@
-###DEC-048260-0-000-02-06-1960@@@
-
 DECRETO Nº 48.260, DE 2 DE JUNHO DE 1960.
 
 Transfere, do Estado do Maranhão para a Centrais Elétricas do Maranhão S. A. (C.E.M.A.R.) a concessão para a produção e fornecimento de energia elétrica ao município de São Luiz, Estado do Maranhão.

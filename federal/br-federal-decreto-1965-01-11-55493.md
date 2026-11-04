@@ -1,5 +1,3 @@
-###DEC-055493-0-000-11-01-1965@@@
-
 Decreto nº 55.493, de 11 de janeiro de 1965.
 
 Autoriza a Siderúrgica Itaunense S.A. a pesquisar minério de ferro, no município de Itaúna, Estado de Minas Gerais.

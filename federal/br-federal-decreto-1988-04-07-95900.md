@@ -1,5 +1,3 @@
-###DEC-095900-0-000-07-04-1988@@@
-
 DECRETO N° 95.900, DE 07 DE ABRIL DE 1988
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO PIONEIRA DE TERESINA LTDA. para a FUNDAÇÃO DOM AVELAR BRANDÃO VILELA.

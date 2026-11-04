@@ -1,5 +1,3 @@
-###DEC-054025-0-000-16-07-1964@@@
-
 DECRETO Nº 54.025, de 16 de julho de 1964.
 
 Dispõe sôbre o funcionamento das repartições.

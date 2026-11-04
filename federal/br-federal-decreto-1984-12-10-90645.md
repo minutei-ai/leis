@@ -1,5 +1,3 @@
-###DEC-090645-0-000-10-12-1984@@@
-
 Decreto nº 90.645, de 10 de dezembro de 1984
 
 Declara de ocupação dos silvícolas, área de terras no Município de Tarauacá, no Estado do Acre, e dá outras providências.

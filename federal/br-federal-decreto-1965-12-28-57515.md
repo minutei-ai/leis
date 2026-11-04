@@ -1,5 +1,3 @@
-###DEC-057515-0-000-28-12-1965@@@
-
 DECRETO Nº 57.515, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Rogaciano da Silva Rocha a pesquisar feldespato, no município de Porciúncula, Estado do Rio de Janeiro.

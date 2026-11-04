@@ -1,5 +1,3 @@
-###DEL-006122-0-000-18-12-1943@@@
-
 DECRETO‑LEI N. 6.122 – DE 18 DE DEZEMBRO DE 1943
 
 Estabelece o contrôle da distribuição e consuma dos artefatos de borracha no país, e dá outras providências

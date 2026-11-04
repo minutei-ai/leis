@@ -1,5 +1,3 @@
-###DEL-005599-0-000-21-06-1943@@@
-
 DECRETO‑LEI 5.599 – DE 21 DE JUNHO DE 1943
 
 Cria uma Contadoria Seccional junto ao Departamento de Imprensa e Propaganda e uma função gratificada no Quadro Permanente (Q. P.) do Ministério da Fazenda.

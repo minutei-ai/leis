@@ -1,5 +1,3 @@
-###DEC-083492-0-000-23-05-1979@@@
-
 Decreto nº 83.492, de 23 de maio de 1979.
 
 Autoriza a alienação de bem imóvel pertencente ao patrimônio da Universidade Federal de Santa Maria

@@ -1,5 +1,3 @@
-###DEL-007761-0-000-20-07-1945@@@
-
 DECRETO-LEI N. 7.761 – DE 20 DE JULHO DE 1945
 
 Revoga o Decreto nº 23.535, de 4 de dezembro de 1933

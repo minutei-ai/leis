@@ -1,7 +1,3 @@
-1
-
-###MPV-001279-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.279, DE 12 DE JANEIRO DE 1996.
 
 Acresce parágrafo ao art. 57 da Lei nº 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitação e contratos da Administração Pública e dá outras providências.

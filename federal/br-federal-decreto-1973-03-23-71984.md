@@ -1,5 +1,3 @@
-###DEC-071984-0-000-23-03-1973@@@
-
 DECRETO Nº 71.984, DE 23 DE MARÇO DE 1973.
 
 Altera o Regulamento dos Serviços Rodoviários Interestaduais e Internacionais de Transporte Coletivo de Passageiros, aprovado pelo Decreto nº 68.961, de 20 de junho de 1971.

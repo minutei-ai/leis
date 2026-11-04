@@ -1,5 +1,3 @@
-###DEC-075083-0-000-12-12-1974@@@
-
 DECRETO Nº 75.083, DE 12 DE DEZEMBRO DE 1974.
 
 Autoriza a prorrogação dos estágios de serviços dos oficiais da Reserva do Exército atualmente convocados e dá outras providências.

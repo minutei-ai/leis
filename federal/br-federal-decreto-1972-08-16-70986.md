@@ -1,5 +1,3 @@
-###DEC-070986-0-000-16-08-1972@@@
-
 Decerto nº 70.986, de 16 de agosto de 1972.
 
 Declara zonas prioritárias, nos Estados de São Paulo, Rio de Janeiro e Guanabara, para fins de reforma agrária, e dá outras providências.

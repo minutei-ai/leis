@@ -58,5 +58,6 @@ ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 11 de dezembro de 2025.
 
  
 
-Deputado BRUNO PEIXOTO<br>
+Deputado BRUNO PEIXOTO
+
 – PRESIDENTE –

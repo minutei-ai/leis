@@ -1,5 +1,3 @@
-###DEC-086399-0-000-28-09-1981@@@
-
 Decreto nº 86.399, de 28 de setembro de 1981.
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

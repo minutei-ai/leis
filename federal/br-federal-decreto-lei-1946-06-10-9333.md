@@ -1,5 +1,3 @@
-###DEL-009333-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.333 – DE 10 DE JUNHO DE 1946
 
 Extingue os Comandos de Infantaria Divisionária das 1ª, 2ª, 3ª, 4ª e 5ª Divisões de Infantaria.

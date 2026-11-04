@@ -1,5 +1,3 @@
-###DEC-077991-0-000-08-07-1976@@@
-
 DECRETO Nº 77.991, DE 8 DE JULHO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóveis em Cruzeiro do Sul - AC, destinado ao Ministério do Exército.

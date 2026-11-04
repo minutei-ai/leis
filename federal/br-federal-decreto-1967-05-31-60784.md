@@ -1,5 +1,3 @@
-###DEC-060784-0-000-31-05-1967@@@
-
 decreto nº 60.784, de 31 de maio de 1967
 
 Transfere, provisòriamente, a Sede 5ª Companhia Independente de Saúde, de Curitiba para a Cidade de Castro, Paraná.
@@ -19,8 +17,6 @@ Brasília, 31 de maio de 1967; 146º da Independência e 79º da República.
 a. costa e silva
 
 Orlando Geisel
-
-###DEC-060784-0-000-31-05-1967@@@RET01+++
 
 DECRETO Nº 60.784, DE 31 DE MAIO DE 1967.
 

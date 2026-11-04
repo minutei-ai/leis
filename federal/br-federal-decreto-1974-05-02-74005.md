@@ -1,5 +1,3 @@
-###DEC-074005-0-000-02-05-1974@@@
-
 decreto nº 74.005, de 2 de maio de 1974
 
 Concede reconhecimento ao curso de Ciências Sociais da Faculdade de Ciências Econômicas de Campina Grande, da Universidade Federal da Paraíba.

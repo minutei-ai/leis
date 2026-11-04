@@ -1,5 +1,3 @@
-###DEC-068505-0-000-14-04-1971@@@
-
 DECRETO Nº 68.505 - DE 14 DE ABRIL DE 1971.
 
 Publica os índices de atualização monetária dos salários dos últimos 24 (vinte e quatro) meses, na forma estabelecida na Lei nº 5.451, de 12 de junho de 1968, e dá outras providências.

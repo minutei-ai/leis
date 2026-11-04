@@ -1,5 +1,3 @@
-###DEC-049735-0-000-31-12-1960@@@
-
 DECRETO Nº 49.735, DE 31 DE DEZEMBRO DE 1960.
 
 Outorga ao Departamento de Águas e Energia Elétrica do Estado de S. Paulo concessão para distribuir energia elétrica em diversos municípios do Estado de São Paulo e autoriza a instalação de uma usina termelétrica e das rêdes de transmissão e distribuição necessárias ao serviço.

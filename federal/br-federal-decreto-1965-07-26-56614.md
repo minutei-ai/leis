@@ -1,5 +1,3 @@
-###DEC-056614-0-000-26-07-1965@@@
-
 Decreto nº 56.614, de 26 de julho de 1965.
 
 Declara a caducidade de concessões outorgadas à Rádio S.A. Mayrink Veiga pelo Decreto nº 1.285, de 23 de dezembro de 1936, prorrogado pelo Decreto nº 28.595, de 2 de setembro de 1950, e Decretos nºs 30.432, de 22 de janeiro de 1952 e 37.769, de 18 de maio de 1955.

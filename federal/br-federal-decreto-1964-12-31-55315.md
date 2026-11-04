@@ -1,5 +1,3 @@
-###DEC-055315-0-000-31-12-1964@@@
-
 DECRETO Nº 55.315, DE 31 DE DEZEMBRO DE 1964.
 
 Retifica o art. 1º do Decreto 9.330, de 29 de abril de 1942, referente a autorização de lavra, de jazida de calcário, concedida a Sociedade Anônima Indústrias Votorantim, no município de Igarassu, Estado de Pernambuco.

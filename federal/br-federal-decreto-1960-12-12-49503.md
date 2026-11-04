@@ -1,5 +1,3 @@
-###DEC-049503-0-000-12-12-1960@@@
-
 DECRETO Nº 49.503, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Martinho Arruda Botelho do Pinhal a lavrar areia quartzosa, no município de São Carlos, Estado de São Paulo.

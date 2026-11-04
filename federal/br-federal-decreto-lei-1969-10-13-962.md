@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d7a15d46-cad9-4615-a6ab-e26fdd21b385/texto#nowhere)
 
-###DEL-000962-0-000-13-10-1969@@@
-
 DecREto-lei nº 962, de 13 de Outubro de 1969
 
 Aprova a aposentadoria de Manoel Alves Mendes Júnior, no cargo de Assessor para Assuntos Legislativos do Quadro de Pessoal do Departamento Administrativo do Pessoal Civil.

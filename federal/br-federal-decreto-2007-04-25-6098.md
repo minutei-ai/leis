@@ -1,5 +1,3 @@
-###DEC-006098-0-000-25-04-2007@@@
-
 DECRETO Nº 6.098, DE 25 DE ABRIL DE 2007.
 
 Acrescenta § 6o ao art. 3o do Decreto no 6.046, de 22 de fevereiro de 2007, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2007.
@@ -21,5 +19,3 @@ LUIZ INÁCIO LULA DA SILVA
 Bernard Appy
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 26.4.2007

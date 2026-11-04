@@ -1,5 +1,3 @@
-###DEC-084034-0-000-27-09-1979@@@
-
 decreto nº 84.034, de 27 de setembro de 1979.
 
 Autoriza o funcionamento do curso de Agronomia, com sede na cidade de Lages, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-064044-0-000-31-01-1969@@@
-
 DECRETO Nº 64.044, DE 31 DE JANEIRO DE 1969.
 
 Regulamenta o artigo 15, inciso IX, do Decreto-lei nº 37, de 18 de novembro de 1966.

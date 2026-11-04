@@ -1,5 +1,3 @@
-###DEC-070055-0-000-26-01-1972@@@
-
 DECRETO Nº 70.055, DE 26 DE JANEIRO DE 1972.
 
 Concede à Firma Individual José Lino Córdova de Liz o direito de lavrar calcário no município de Lages, Estado de Santa Catarina.

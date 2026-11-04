@@ -1,5 +1,3 @@
-###DEC-007702-0-000-15-03-2012-PUB-01@@@
-
 DECRETO Nº 7.702, DE 15 DE MARÇO DE 2012
 
 Promulga o Acordo de Previdência Social entre a República Federativa do Brasil e o Japão.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095722-0-000-11-02-1988@@@
-
 DECRETO N° 95.722, DE 11 DE FEVEREIRO DE 1988
 
 Outorga concessão à TELEVISÃO RIVIERA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Rio Verde, Estado de Goiás.

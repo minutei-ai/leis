@@ -1,5 +1,3 @@
-###DEC-079895-0-000-29-06-1977@@@
-
 DECRETO Nº 79.895, DE 29 DE JUnHO DE 1977
 
 Prorroga prazo estabelecido no Decreto nº 77.336, de 25 de março de 1976, que reestrutura o Grupo - Direção e Assessoramento Superiores.

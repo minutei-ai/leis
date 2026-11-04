@@ -1,5 +1,3 @@
-###DEC-046411-0-000-13-07-1959@@@
-
 DECRETO Nº 46.411, de 13 de julho de 1959.
 
 Revoga o Decreto que concedeu à sociedade Lentheric, Incorporated autorização para funcionar na República.

@@ -1,5 +1,3 @@
-###DEL-000123-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 123 – DE 29 DE DEZEMBRO DE 1937
 
 Abre o crédito suplementar de 145 :450$000 para refôrço de subcodígnação da verba 20 – Secretaria Geral de Finanças – Do vigente orçamento dc Prefeitura do Distrito Federal

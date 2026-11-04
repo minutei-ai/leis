@@ -1,5 +1,3 @@
-###DEC-059999-0-000-10-01-1967@@@
-
 DECRETO Nº 59.999, DE 10 DE JANEIRO DE 1967.
 
 Autoriza a cidadã brasileira Ivone Pupo Felicíssimo a lavrar leocofilito e quartzito no município de Santana de Parnaíba, Estado de São Paulo.

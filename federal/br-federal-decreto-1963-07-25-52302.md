@@ -1,5 +1,3 @@
-###DEC-052302-0-000-25-07-1963@@@
-
 DECRETO Nº 52.302, DE 25 DE JULHO DE 1963
 
 Retifica o número de cargos da carreira de Fiscal de Previdência do Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Marítimos – Parte Permanente – aprovado pelo Decreto nº 51.509, de 20 de junho de 1962.

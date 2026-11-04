@@ -1,5 +1,3 @@
-###DEC-050482-0-000-20-04-1961@@@
-
 Decreto nº 50.482, de 20 de abril de 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de uma área de terreno situada na cidade de Baurú, Estado de São Paulo, necessária ao Ministério da Guerra.

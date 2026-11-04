@@ -1,5 +1,3 @@
-###DEL-005553-0-000-07-06-1943@@@
-
 DECRETO‑LEI N. 5.553 – DE 7 DE JUNHO DE 1943
 
 Cria na Comissão de Marinha Mercante subcomissões e dá outras providencias

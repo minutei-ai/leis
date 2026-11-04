@@ -1,7 +1,3 @@
-1
-
-###DEC-099396-0-000-18-07-1990@@@
-
 DECRETO Nº 99.396, DE 18 DE JULHO DE 1990
 
 Altera a composição do Conselho Deliberativo do Instituto Nacional de Alimentação e Nutrição - INAN, dando nova redação ao parágrafo único do artigo 5º do Decreto nº 77.116, de 6 de fevereiro de 1976.

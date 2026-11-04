@@ -1,5 +1,3 @@
-###MPV-000083-0-000-12-12-2002@@@
-
 MEDIDA PROVISÓRIA N. 83 – DE 12 DE DEZEMBRO DE 2002
 
 Dispõe sobre a concessão da aposentadoria especial ao cooperado de cooperativa de trabalho ou de produção e dá outras providências.

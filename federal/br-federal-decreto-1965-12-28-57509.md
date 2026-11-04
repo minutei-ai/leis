@@ -1,5 +1,3 @@
-###DEC-057509-0-000-28-12-1965@@@
-
 DECRETO Nº 57.509, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Jesuino Felicissimo Júnior a lavrar micaxisto no município de Santana do Parnaíba, Estado de São Paulo.

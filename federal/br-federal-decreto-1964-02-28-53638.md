@@ -1,5 +1,3 @@
-###DEC-053638-0-000-28-02-1964@@@
-
 DECRETO Nº 53.638, DE 28 DE FEVEREIRO DE 1964.
 
 Extingue a Estação Rádio Salinas de Margarida.

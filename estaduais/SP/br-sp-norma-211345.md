@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211345)<br>
-
 # LEI N° 18.182, DE 21 DE AGOSTO DE 2025
 
 ## (Projeto de lei n° 1000/2023, dos Deputados Andréa Werner - PSB e Guilherme Cortez - PSOL)

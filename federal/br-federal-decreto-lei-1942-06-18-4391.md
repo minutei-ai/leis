@@ -1,5 +1,3 @@
-###DEL-004391-0-000-18-06-1942@@@
-
 DECRETO-LEI N. 4.391 – DE 18 DE Junho DE 1942
 
 Aprova e manda executar as Regras de admissão de Agentes consulares estrangeiros no Brasil e de suas relações com as autoridades brasileiras

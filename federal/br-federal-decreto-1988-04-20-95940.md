@@ -1,5 +1,3 @@
-###DEC-095940-0-000-20-04-1988@@@
-
 DECRETO N° 95.940, DE 20 DE ABRIL DE 1988
 
 Autoriza a Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF - a implantar, administrar e operar projetos públicos de irrigação, na Região Nordeste, e dá outras providências.

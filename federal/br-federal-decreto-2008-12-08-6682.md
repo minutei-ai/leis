@@ -1,5 +1,3 @@
-###DEC-006682-0-000-08-12-2008@@@
-
 DECRETO Nº 6.682, DE 8 DE DEZEMBRO DE 2008.
 
 Inclui a cidade de Baku, República do Azerbaijão, na Tabela de Fatores de Conversão de Índices de Indenização de Representação no Exterior, com o Fator de Conversão 16, a que se refere o Anexo II do Decreto no 71.733, de 18 de janeiro de 1973, que regulamenta a Lei no 5.809, de 10 de outubro de 1972.

@@ -1,5 +1,3 @@
-###DEC-083568-0-000-12-06-1979@@@
-
 Decreto nº 83.568, de 12 de junho de 1979.
 
 Acrescenta parágrafos ao artigo 2º, do Decreto nº 83.287, de 13 de março de 1979, e estabelece novo prazo para sua vigência.

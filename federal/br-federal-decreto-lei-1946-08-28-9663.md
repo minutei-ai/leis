@@ -1,5 +1,3 @@
-###DEL-009663-0-000-28-08-1946@@@
-
 DECRETO-LEI N. 9.663 – DE 28 DE AGôSTO DE 1946
 
 Dá nova redação ao art. 3º do Decreto-lei nº 9.527, de 27 de Julho de 1946.

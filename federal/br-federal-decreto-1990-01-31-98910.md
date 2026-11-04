@@ -1,7 +1,3 @@
-1
-
-###DEC-098910-0-000-31-01-1990@@@
-
 DECRETO Nº 98.910, DE 31 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Administração da Fundação Educacional Nordeste Mineiro.

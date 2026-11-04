@@ -1,5 +1,3 @@
-###DEC-067660-0-000-25-11-1970@@@
-
 DECRETO Nº 67.660, de 25 de Novembro de 1970.
 
 Autoriza o funcionamento da Faculdade de Ciência Administrativa da UNA, MG.

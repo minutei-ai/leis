@@ -1,7 +1,3 @@
-1
-
-###DEC-097621-0-000-10-04-1989@@@
-
 DECRETO N° 97.621, DE 10 ABRIL DE 1989
 
 Retifica a Lista III (Brasil) do Acordo Geral sobre Tarifas Aduaneiras e Comércio – (GATT),  anexa aos Decretos n°s 75.772, de 26 de maio de 1975, e 83.070, de 23 de janeiro de 1979.

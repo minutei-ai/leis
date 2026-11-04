@@ -1,16 +1,14 @@
-###DEC-032493-0-000-30-03-1953@@@
+**DECRETO Nº 32.493, DE 30 DE MARÇO DE 1953.**
 
-<strong>DECRETO Nº 32.493, DE 30 DE MARÇO DE 1953.</strong>
+***Regula a aplicação à Polícia Militar do Distrito Federal das disposições da Lei nº 1.252, de 2 de dezembro de 1950 e dá outras providências.***
 
-<em><strong>Regula a aplicação à Polícia Militar do Distrito Federal das disposições da Lei nº 1.252, de 2 de dezembro de 1950 e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º A Lei nº 1.252, de 2 de dezembro de 1950 será aplicada à Polícia Militar sem prejudicar a quaisquer dos oficiais em condições de conocorrerem aos dois princípios de promoção - antigüidade e merecimento - na forma estabelecida pelo respectivo Regulamento Geral (Decreto nº 3.273, de 16 de novembro de 1938).
 
-<strong>Art</strong>. 1º A Lei nº 1.252, de 2 de dezembro de 1950 será aplicada à Polícia Militar sem prejudicar a quaisquer dos oficiais em condições de conocorrerem aos dois princípios de promoção - antigüidade e merecimento - na forma estabelecida pelo respectivo Regulamento Geral (Decreto nº 3.273, de 16 de novembro de 1938).
-
-<strong>Art</strong>. 2º Quando não houver vaga ficarão agregados os oficiais que forem promovidos por fôrça da Lei número 1.252, de 2 de dezembro de 1950.
+**Art**. 2º Quando não houver vaga ficarão agregados os oficiais que forem promovidos por fôrça da Lei número 1.252, de 2 de dezembro de 1950.
 
 § 1º Os oficiais agregados não contarão antigüidade do seu novo pôsto, até que em nova data de promoção sejam incluídos no respectivo quadro e nele tomem número, respeitados os princípios estabelecidos neste Decreto.
 
@@ -22,11 +20,11 @@
 
 § 5º A disciplina dos parágrafos 3º e 4º dêste artigo será observada quanto aos oficiais dos quadros paralelos, em relação aos seus homólogos no Quadro Ordinário.
 
-<strong>Art</strong>. 3º Os segundos tenentes amparados pela Lei nº 1.252, de 2 de dezembro de 1950, serão promovidos a primeiro tenente e uma vez completado o interstício de dois anos neste pôsto, terão acesso a capitão, observadas as mesmas regras do artigo anterior quanto à agregação e ao reingresso nos Quadros respectivos.
+**Art**. 3º Os segundos tenentes amparados pela Lei nº 1.252, de 2 de dezembro de 1950, serão promovidos a primeiro tenente e uma vez completado o interstício de dois anos neste pôsto, terão acesso a capitão, observadas as mesmas regras do artigo anterior quanto à agregação e ao reingresso nos Quadros respectivos.
 
-<strong>Art</strong>. 4º Os primeiros tenentes que completarem dez anos de oficiais subalternos poderão ser promovidos mesmo que não tenham no pôsto o interstício regulamentar.
+**Art**. 4º Os primeiros tenentes que completarem dez anos de oficiais subalternos poderão ser promovidos mesmo que não tenham no pôsto o interstício regulamentar.
 
-<strong>Art</strong>. 5º Poderão ser desempenhadas também por capitães, de acôrdo com as necessidades do serviço, as seguintes funções:
+**Art**. 5º Poderão ser desempenhadas também por capitães, de acôrdo com as necessidades do serviço, as seguintes funções:
 
 a) chefes das 2ª, 3ª e 4ª Seções do Estado Maior;
 
@@ -40,10 +38,10 @@ e) ajudante-secretário do Corpo de Serviços Auxiliares;
 
 f) comandantes de companhias do Corpo de Serviços Auxiliares.
 
-<strong>Art</strong>. 6º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 6º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 30 de março de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Francisco Negrão de Lima

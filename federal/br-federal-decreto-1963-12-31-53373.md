@@ -1,5 +1,3 @@
-###DEC-053373-0-000-31-12-1963@@@
-
 DECRETO Nº 53.373, DE 31 DE DEZEMBRO DE 1963.
 
 Designa os membros que devem integrar o Conselho Consultivo e Deliberativo da Universidade Federal de São Paulo e dá outras providências.
@@ -29,8 +27,6 @@ Brasília, D.F., em 31 de dezembro de 1963; 142º da Independência e 75º da Re
 João Goulart
 
 Júlio Furquim Sambaquy
-
-###DEC-053373-0-000-31-12-1963@@@RET01+++
 
 DECRETO Nº 53.373, DE 31 DE DEZEMBRO DE 1963
 

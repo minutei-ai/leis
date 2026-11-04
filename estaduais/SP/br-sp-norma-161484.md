@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/161484)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2011/compilacao-lei-14463-25.05.2011.html)
 
 # LEI N° 14.463, DE 25 DE MAIO DE 2011

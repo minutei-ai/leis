@@ -1,7 +1,3 @@
-1
-
-###DEL-000841-0-000-09-09-1969@@@
-
 DECRETO-LEI Nº 841, DE 9 DE SETEMBRO DE 1969
 
 Altera o disposto no Decreto-lei nº 773, de 20 de agôsto de 1969, e dá outras providências.
@@ -29,8 +25,6 @@ Aurélio de Lyra Tavares
 Márcio de Souza e Mello
 
 Tarso Dutra
-
-###DEL-000841-0-000-09-09-1969@@@RET01+++
 
 DECRETO-LEI Nº 841, DE 9 DE SETEMBRO DE 1969
 

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212920)<br>
-
 # DECRETO N° 70.822, DE 26 DE AGOSTO DE 2026
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e por prazo determinado, do Município de Araçatuba, o imóvel que especifica._

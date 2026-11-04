@@ -1,5 +1,3 @@
-###DEC-006738-0-000-12-01-2009@@@
-
 DECRETO Nº 6.738, DE 12 DE JANEIRO DE 2009.
 
 Promulga o Tratado de Extradição entre o Governo da República Federativa do Brasil e o Governo da República Dominicana, celebrado em Brasília, em 17 de novembro de 2003.

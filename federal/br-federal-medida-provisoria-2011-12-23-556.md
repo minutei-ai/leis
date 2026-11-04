@@ -1,5 +1,3 @@
-###MPV-000556-0-000-23-12-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 556, DE 23 DE DEZEMBRO DE 2011
 
 Altera a Lei nº 10.887, de 18 de junho de 2004, relativa à contribuição do Plano de Seguridade do Servidor Público, prorroga a vigência do Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária, de que trata a Lei nº 11.033, de 21 de dezembro de 2004, e dá outras providências.

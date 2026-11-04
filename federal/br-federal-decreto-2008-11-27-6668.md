@@ -1,5 +1,3 @@
-###DEC-006668-0-000-27-11-2008@@@
-
 DECRETO Nº 6.668, DE 27 DE NOVEMBRO DE 2008.
 
 Promulga o Ajuste Complementar ao Acordo de Cooperação Científica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da República Argentina, na Área de Tecnologia Militar, celebrado em Puerto Iguazú, em 30 de novembro de 2005.

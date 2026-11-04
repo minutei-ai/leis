@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74652)
-
 # LEI Nº 12.776, DE 28 DE NOVEMBRO DE 2007
 
 ### _Autoriza a Fazenda do Estado a indenizar vítima de discriminação racial institucional._

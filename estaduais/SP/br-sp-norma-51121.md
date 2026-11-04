@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51121)
-
 # LEI Nº 11.741, DE 03 DE JUNHO DE 2004
 
 ## ( PL 1156/2003 - Ary Fossen)

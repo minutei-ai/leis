@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59545)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2005/compilacao-lei.complementar-980-21.12.2005.html)
 
 # LEI COMPLEMENTAR Nº 980, DE 21 DE DEZEMBRO DE 2005

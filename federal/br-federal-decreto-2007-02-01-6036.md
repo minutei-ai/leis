@@ -1,5 +1,3 @@
-###DEC-006036-0-000-01-02-2007@@@
-
 DECRETO Nº 6.036, DE 1º DE FEVEREIRO DE 2007.
 
 Dá nova redação ao art. 3o do Decreto no 5.966, de 14 de novembro de 2006, que institui a composição da Comissão Nacional Organizadora das Comemorações do Centenário da Imigração Japonesa no Brasil.
@@ -71,5 +69,3 @@ Brasília, 1º de fevereiro de 2007; 186o da Independência e 119o da República
 LUIZ INÁCIO LULA DA SILVA
 
         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 2.2.2007.

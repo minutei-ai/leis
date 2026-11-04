@@ -1,5 +1,3 @@
-###DEL-008944-0-000-26-01-1946@@@
-
 DECRETO-LEI  N.  8.944 – DE 26 DE JANEIRO DE 1946
 
 Revoga os artigos e seus parágrafos; 31 e 32 e seu parágrafo único, do Decreto-lei nº 157, de 31 de Dezembro de 1987, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-093971-0-000-23-01-1987@@@
-
 DECRETO Nº 93.971, DE 23 DE JANEIRO DE 1987
 
 Dispõe sobre a incorporação à União de estabelecimento de ensino e dá outras providências.

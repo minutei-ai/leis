@@ -1,5 +1,3 @@
-###DEC-064605-0-000-29-05-1969@@@
-
 DECRETO Nº 64.605, DE 29 DE MAIO DE 1969.
 
 Declara de utilidade pública, para efeito de desapropriação, os imóveis constitutivos da área que menciona, no município de Santos, Estado de São Paulo, e dá outras providências.

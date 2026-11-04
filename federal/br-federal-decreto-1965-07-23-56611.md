@@ -1,5 +1,3 @@
-###DEC-056611-0-000-23-07-1965@@@
-
 decreto nº 56.611, de 23 de julho de 1965.
 
 Aprova as alterações introduzidas nos Estatutos da A Fortaleza Companhia Nacional de Seguros, relativas à extensão das operações de seguros ao Ramo Vida e ao aumento do capital social.

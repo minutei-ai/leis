@@ -1,5 +1,3 @@
-###DEC-076255-0-000-12-09-1975@@@
-
 DECRETO Nº 76.255 - DE 12 DE SETEMBRO DE 1975
 
 Concede à Itapicuru Agro-Industrial S.A. o direito de lavrar calcário no Município de Codó, Estado do Maranhão.

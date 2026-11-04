@@ -1,5 +1,3 @@
-###DEC-049036-0-000-05-10-1960@@@
-
 DECRETO Nº 49.036, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Daniel Chaim a lavrar areia quartzosa no município de Delfim Moreira, Estado de Minas Gerias.

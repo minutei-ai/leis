@@ -1,5 +1,3 @@
-###DEC-077903-0-000-24-06-1976@@@
-
 DECRETO Nº 77.903, DE 24 DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Técnico de Nível Superior em Mecânica, Modalidade Oficinas, da Faculdade de Tecnologia de Sorocaba, com sede na cidade de Sorocaba, Estado de São Paulo.

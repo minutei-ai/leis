@@ -1,5 +1,3 @@
-###DEC-003757-0-000-21-02-2001@@@
-
 DECRETO Nº 3.757, DE 21 DE FEVEREIRO DE 2001
 
 Dispõe sobre a execução do Vigésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre a República Federativa do Brasil, a República Argentina, a República do Paraguai e a República Oriental do Uruguai, de 20 de novembro de 2000.

@@ -1,5 +1,3 @@
-###DEC-094390-0-000-29-05-1987@@@
-
 DECRETO Nº 94.390, DE 29 DE MAIO DE 1987.
 
 Autoriza a Meridional - Companhia de Seguros Gerais, a proceder ao aumento do capital social.

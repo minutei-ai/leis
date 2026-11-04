@@ -1,5 +1,3 @@
-###DEC-064488-0-000-12-05-1969@@@
-
 DECRETO Nº 64.488, DE 12 DE MAIO DE 1969.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona situado Município de Umuarama, Estado do Paraná.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209233)<br>
-
 # LEI N° 17.883, DE 21 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 867/2021, do Deputado Frederico d’Ávila - PSL)

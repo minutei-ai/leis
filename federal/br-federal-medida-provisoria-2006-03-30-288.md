@@ -1,5 +1,3 @@
-###MPV-000288-0-000-30-03-2006@@@
-
 MEDIDA PROVISÓRIA Nº 288, DE 30 DE MARÇO DE 2006.
 
 Dispõe sobre o salário mínimo a partir de 1o de abril de 2006.

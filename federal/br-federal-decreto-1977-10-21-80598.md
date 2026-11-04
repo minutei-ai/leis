@@ -1,5 +1,3 @@
-###DEC-080598-0-000-21-10-1977@@@
-
 DECRETO Nº 80.598, DE 21 DE OUTUBRO DE 1977.
 
 Aprova o Regulamento da Diretoria de Obras Civis da Marinha.
@@ -108,6 +106,62 @@ MINISTÉRIO DA MARINHA
 
 DIRETORIA DE OBRAS CIVIS DA MARINHA
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:106.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:106.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>DIRETOR</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-01</span></p></td><td style="width:99.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:106.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>CONSELHO</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>TÉCNICO</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-04</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>GABINETE</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-03</span></p></td></tr><tr><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>CONSELHO</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>ECONÔMICO</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-05</span></p></td><td style="width:106.4pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VICE</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>DIRETOR</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-02</span></p></td><td style="width:99.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:106.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>DIVISÃO DE</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>SERVIÇOS GERAIS</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-07</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>SECRETARIA</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-06</span></p></td></tr></tbody></table>
+DIRETOR
 
-<table cellspacing="0" cellpadding="0" style="margin-left:35.2pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:78.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>DEP. DE PLANEJ. E</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>CONTROLE</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-10</span></p></td><td style="width:85.15pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>DEPARTAMENTO</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>DE PROJETOS</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-20</span></p></td><td style="width:85.15pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>DEPARTAMENTO</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>DE OBRAS</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-30</span></p></td><td style="width:70.95pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>DEPARTAMENTO</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>DE INTENDENCIA</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DOCM-40</span></p></td></tr></tbody></table>
+DOCM-01
+
+CONSELHO
+
+TÉCNICO
+
+DOCM-04
+
+GABINETE
+
+DOCM-03
+
+CONSELHO
+
+ECONÔMICO
+
+DOCM-05
+
+VICE
+
+DIRETOR
+
+DOCM-02
+
+DIVISÃO DE
+
+SERVIÇOS GERAIS
+
+DOCM-07
+
+SECRETARIA
+
+DOCM-06
+
+DEP. DE PLANEJ. E
+
+CONTROLE
+
+DOCM-10
+
+DEPARTAMENTO
+
+DE PROJETOS
+
+DOCM-20
+
+DEPARTAMENTO
+
+DE OBRAS
+
+DOCM-30
+
+DEPARTAMENTO
+
+DE INTENDENCIA
+
+DOCM-40

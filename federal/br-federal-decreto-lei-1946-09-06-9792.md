@@ -1,5 +1,3 @@
-###DEL-009792-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.792 – DE 6 DE SETEMBRO DE 1946
 
 Regula a utilização dos aeroportos e define os serviços e taxas correspondentes.

@@ -1,5 +1,3 @@
-###DEC-062490-0-000-01-04-1968@@@
-
 Decreto nº 62.490, de 1º de abril de 1968.
 
 Declara de utilidade pública a “Associação de Proteção à Maternidade e à Infância” com sede em Antonina, Estado do Paraná.

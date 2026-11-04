@@ -1,5 +1,3 @@
-###DEL-007053-0-000-16-11-1944@@@
-
 DECRETO-LEI N. 7.053 – DE 16 DE NOVEMBRO DE 1944
 
 Abre ao instituto Brasileiro de Geografia e Estatística o crédito suplementar de Cr$ 1. 000.000,00, à verba que especifica

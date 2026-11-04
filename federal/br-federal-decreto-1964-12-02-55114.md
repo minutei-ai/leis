@@ -1,5 +1,3 @@
-###DEC-055114-0-000-02-12-1964@@@
-
 DECRETO Nº 55.114, DE 2 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Quaresma de Oliveira a pesquisar pedras coradas no Município de Carlos Chagas, Estado de Minas Gerais.

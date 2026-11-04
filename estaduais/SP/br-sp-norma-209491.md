@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209491)<br>
-
 # DECRETO N° 68.556, DE 23 DE MAIO DE 2024
 
 ### _Transfere o cargo que especifica e dá providências correlatas._

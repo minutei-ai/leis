@@ -1,5 +1,3 @@
-###DEL-006357-0-000-21-03-1944@@@
-
 DECRETO-LEI N. 6.357 – DE 21 DE MARÇO DE 1944
 
 Dispõe sôbre a obtenção de licenças e prioridades para a importação da materiais destinados às repartições civis federais, autarquias e entidades para estatais

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/42505f7b-09b5-4706-a29d-027678ddbeb1/texto#nowhere)
 
-###DEL-000551-0-000-24-04-1969@@@
-
 DECRETO-LEI Nº 551, DE 24 DE ABRIL DE 1969
 
 Decreta intervenção em instituição do ensino superior.

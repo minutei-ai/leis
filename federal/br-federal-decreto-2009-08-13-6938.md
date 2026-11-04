@@ -1,5 +1,3 @@
-###DEC-006938-0-000-13-08-2009@@@
-
 DECRETO Nº 6.938, DE 13 DE AGOSTO DE 2009.
 
 Regulamenta a Lei no 11.540, de 12 de novembro de 2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT, e dá outras providências.

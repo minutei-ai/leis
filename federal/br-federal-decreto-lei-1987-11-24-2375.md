@@ -1,7 +1,3 @@
-1
-
-###DEL-002375-0-000-24-11-1987@@@
-
 # DECRETO-LEI Nº 2.375, DE 24 DE NOVEMBRO DE 1987.
 
 Revoga o Decreto-lei nº 1.164, de 1º de abril de 1971, dispõe sobre terras públicas, e dá outras providências.

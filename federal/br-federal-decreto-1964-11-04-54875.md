@@ -1,5 +1,3 @@
-###DEC-054875-0-000-04-11-1964@@@
-
 DECRETO Nº 54.875, DE 4 DE Novembro DE 1964.
 
 Renova o Decreto nº 48.544, de 21 de julho de 1960.

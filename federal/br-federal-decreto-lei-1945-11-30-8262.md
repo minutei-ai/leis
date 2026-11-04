@@ -1,5 +1,3 @@
-###DEL-008262-0-000-30-11-1945@@@
-
 DECRETO-LEI N. 8.262 – DE 30 DE NOVEMBRO DE 1945
 
 Altera a carreira de Comissário de Polícia  do Ministério da Justiça e Negócios Interiores.

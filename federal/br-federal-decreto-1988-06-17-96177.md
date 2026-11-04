@@ -1,5 +1,3 @@
-###DEC-096177-0-000-17-06-1988@@@
-
 DECRETO N° 96.177, DE 17 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “Fazenda Botão de Ouro” ou “Santa Tecla”, classificado como “latifúndio por exploração”, situado no Município de Jóia, no Estado do Rio Grande do Sul, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.692, de 19 de maio de 1986, e dá outras providências.

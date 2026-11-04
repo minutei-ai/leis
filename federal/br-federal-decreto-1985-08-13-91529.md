@@ -1,5 +1,3 @@
-###DEC-091529-0-000-13-08-1985@@@
-
 Decreto nº 91.529, de 13 de agosto de 1985.
 
 Aprova alteração introduzia no Estatuto da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

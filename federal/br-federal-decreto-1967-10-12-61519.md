@@ -1,5 +1,3 @@
-###DEC-061519-0-000-12-10-1967@@@
-
 DECRETO Nº 61.519, DE 12 DE OUTUBRO DE 1967.
 
 Modifica o Decreto nº 55.041, de 19 de novembro de 1964, e dá outras providências.

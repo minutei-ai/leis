@@ -1,5 +1,3 @@
-###DEC-059652-0-000-02-12-1966@@@
-
 DECRETO Nº 59.652, DE 2 DE DEZEMBRO DE 1966.
 
 Abre ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Piauí, os créditos especiais de Cr$140.000 e Cr$15.833, para o fim que especifica.

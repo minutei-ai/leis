@@ -1,5 +1,3 @@
-###DEC-061054-0-000-24-07-1967@@@
-
 DECRETO Nº 61.054, DE 24 DE JULHO DE 1967.
 
 Dá nova redação aos Estatutos da Fundação Instituto de Pesquisa Econômico-Social Aplicada.

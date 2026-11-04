@@ -1,5 +1,3 @@
-###DEC-003554-0-000-07-08-2000@@@
-
 DECRETO Nº 3.554, DE 7 DE AGOSTO DE 2000.
 
 Dá nova redação ao § 2º do art. 3º do Decreto n.º 3.276, de 6 de dezembro de 1999, que dispõe sobre a formação em nível superior de professores para atuar na educação básica, e dá outras providências.

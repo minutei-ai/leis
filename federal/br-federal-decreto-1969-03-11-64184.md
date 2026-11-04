@@ -1,5 +1,3 @@
-###DEC-064184-0-000-11-03-1969@@@
-
 DECRETO Nº 64.184, DE 11 DE MARÇO DE 1969.
 
 Torna sem efeito o Decreto número 63.554, de 6 de novembro de 1968, na parte que redistribui dois servidores dos extintos Lloyd Brasileiro Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal - para o Quadro de Pessoal - Parte Especial da Caixa Econômica Federal do Rio de Janeiro, e dá outras providências.

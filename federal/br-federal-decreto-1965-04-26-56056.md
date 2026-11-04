@@ -1,5 +1,3 @@
-###DEC-056056-0-000-26-04-1965@@@
-
 DECRETO Nº 56.056, DE 26 DE ABRIL DE 1965.
 
 Autoriza a Companhia aços Especiais Itabira - ACEISITA - a pesquisar minério de manganês, no município de Dom Silvério, Estado de Minas Gerais.

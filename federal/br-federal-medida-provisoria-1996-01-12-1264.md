@@ -1,7 +1,3 @@
-1
-
-###MPV-001264-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.264, DE 12 DE JANEIRO DE 1996.
 
 Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro.

@@ -1,5 +1,3 @@
-###DEC-082124-0-000-17-08-1978@@@
-
 Decreto nº 82.124, de 17 de agosto de 1978.
 
 Concede à Companhia Miribo de Mineração o direito de lavrar fluorita no Município de Itaboraí, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-046457-0-000-18-07-1959@@@
-
 DECRETO Nº 46.457 DE 18 DE JULHO DE 1959.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Educação e Cultura.

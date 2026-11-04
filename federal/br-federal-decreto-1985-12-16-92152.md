@@ -1,5 +1,3 @@
-###DEC-092152-0-000-16-12-1985@@@
-
 DECRETO Nº 92.152, DE 16 DE DEZEMBRO DE 1985.
 
 Cria o Conselho Nacional de Vitivinicultura - CONAVIN, e dá outras providências.

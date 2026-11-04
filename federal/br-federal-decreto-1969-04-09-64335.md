@@ -1,5 +1,3 @@
-###DEC-064335-0-000-09-04-1969@@@
-
 DECRETO Nº 64.335, DE 9 DE ABRIL DE 1969.
 
 Dispõe sôbre a elaboração de Plano de Classificação de Cargos e de Novo Estatuto do Servidor Federal; cria a Comissão de Reforma Administrativa do Pessoal Civil; determina a reorganização do DASP e dá outras providências.

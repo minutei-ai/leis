@@ -1,5 +1,3 @@
-###DEC-075737-0-000-19-05-1975@@@
-
 DECRETO Nº 75.737, DE 19 DE MAIO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, terrenos e benfeitorias necessários à construção da subestação denominada "Água Grande II", da Light - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

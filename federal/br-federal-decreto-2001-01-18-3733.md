@@ -1,5 +1,3 @@
-###DEC-003733-0-000-18-01-2001@@@
-
 DECRETO Nº 3.733, DE 18 DE JANEIRO DE 2001
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.
@@ -24,7 +22,7 @@ ANEXO I
 
 REMANEJAMENTO DE CARGOS
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="vertical-align:top"></td><td colspan="2" rowspan="2" style="width:106.5pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0.7pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0.7pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">CÓDIGO</span><span style="font-size:10pt"></span></p></td><td rowspan="2" style="width:105.3pt; border-style:solid; border-width:0.75pt; vertical-align:top"><h3 style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></h3><h3 style="margin-top:6pt; text-indent:0pt"><span>DAS-UNITÁRIO</span></h3></td><td colspan="5" style="width:218.6pt; border-style:solid; border-width:0.75pt; vertical-align:top"><h4 style="margin-left:0.55pt"><span>DA SEGES/MP P/ O IBGE</span></h4></td><td style="vertical-align:top"></td></tr><tr><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td colspan="2" style="width:112.55pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">QTDE.</span></p></td><td colspan="2" style="width:104.15pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">VALOR TOTAL</span></p></td><td style="border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td colspan="2" style="width:117.4pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0.7pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DAS 101.5</span></p></td><td colspan="3" style="width:116.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4,94</span></p></td><td colspan="2" style="width:116.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td colspan="3" style="width:116.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4,94</span></p></td></tr><tr><td colspan="2" style="width:117.4pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0.7pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DAS 101.4</span></p></td><td colspan="3" style="width:116.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3,08</span></p></td><td colspan="2" style="width:116.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td colspan="3" style="width:116.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6,16</span></p></td></tr><tr><td colspan="5" style="width:117.4pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0.7pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">TOTAL</span></p></td><td colspan="2" style="width:116.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">3</span></p></td><td colspan="3" style="width:116.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p class="Dec"><span style="text-transform:none">11,10</span></p></td></tr><tr style="height:0pt"><td style="width:16.3pt"></td><td style="width:101.85pt"></td><td style="width:5.4pt"></td><td style="width:106.05pt"></td><td style="width:5.55pt"></td><td style="width:107.75pt"></td><td style="width:9.25pt"></td><td style="width:95.65pt"></td><td style="width:1.15pt"></td><td style="width:20.2pt"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td></td><td colspan="2" rowspan="2"> &nbsp; CÓDIGO </td><td rowspan="2"><h3>&nbsp;</h3><h3>DAS-UNITÁRIO</h3></td><td colspan="5"><h4>DA SEGES/MP P/ O IBGE</h4></td><td></td></tr><tr><td></td><td colspan="2"> QTDE. </td><td colspan="2"> VALOR TOTAL </td><td></td><td></td></tr><tr><td colspan="2"> DAS 101.5 </td><td colspan="3"> 4,94 </td><td colspan="2"> 1 </td><td colspan="3"> 4,94 </td></tr><tr><td colspan="2"> DAS 101.4 </td><td colspan="3"> 3,08 </td><td colspan="2"> 2 </td><td colspan="3"> 6,16 </td></tr><tr><td colspan="5"> TOTAL </td><td colspan="2"> 3 </td><td colspan="3"> 11,10 </td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ANEXO II
 
@@ -34,8 +32,530 @@ ANEXO II
 
 a) QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS DA FUNDAÇÃO INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA - IBGE
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:116.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">UNIDADE</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">CARGO/</span><span style="font-size:10pt"> </span><span style="font-size:10pt; font-weight:bold">FUNÇÃO/ Nº</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">DENOMINAÇÃO CARGO/FUNÇÃO</span><span style="font-size:10pt"></span><br><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><h3 style="text-indent:0pt"><span>DAS/FG</span></h3></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Presidente</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.6</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Assistente</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">102.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Programa</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto I</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto II</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Gerente de Projeto III</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">GABINETE</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Auxiliar</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">102.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto I</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto III</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">PROCURADORIA-GERAL</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Procurador-Geral</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.5</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Procurador-Geral Adjunto</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Auxiliar</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">102.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Divisão</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Serviço</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">AUDITORIA INTERNA</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Auxiliar</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">102.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">DIRETORIA-EXECUTIVA</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Diretor</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.5</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Diretor-Adjunto</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Assistente</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">102.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">20</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto II</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">43</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto III</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Coordenação</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Coordenador</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">36</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">37</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; font-weight:bold">DIRETORIA DE PESQUISAS</span><span style="font-size:10pt"></span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Diretor</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.5</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Diretor-Adjunto</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Assistente</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">102.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Programa</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto I</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">30</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto II</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">44</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto III</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Departamento</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">8</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">37</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">129</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">153</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; font-weight:bold">DIRETORIA DE GEOCIÊNCIAS</span><span style="font-size:10pt"></span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Diretor</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.5</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Diretor-Adjunto</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Assistente</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">102.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto I</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">13</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto II</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">32</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto III</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Departamento</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">21</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">40</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">50</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; font-weight:bold">DIRETORIA DE INFORMÁTICA</span><span style="font-size:10pt"></span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Diretor</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.5</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:middle"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:middle"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:middle"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:middle"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Diretor-Adjunto</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:middle"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:middle"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:middle"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:middle"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Assistente</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">102.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:middle"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:middle"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:middle"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:middle"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto I</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">17</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto II</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">44</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto III</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Departamento</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">26</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">22</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">34</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; font-weight:bold">CENTRO DE DOCUMENTAÇÃO E DISSEMINAÇÃO DE INFORMAÇÕES</span><span style="font-size:10pt"></span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><br><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><br><span style="font-size:10pt">Superintendente</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><br><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Superintendente-Adjunto</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Assistente</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">102.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto I</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto II</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto III</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Departamento</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">23</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">17</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; font-weight:bold">ESCOLA NACIONAL DE CIÊNCIAS ESTATÍSTICAS</span><span style="font-size:10pt"></span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><br><span style="font-size:10pt">1</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><br><span style="font-size:10pt">Superintendente</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><br><span style="font-size:10pt">101.4</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Assistente</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">102.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto II</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto III</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Departamento</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; font-weight:bold">UNIDADES REGIONAIS</span><span style="font-size:10pt"></span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Departamento</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">8</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.3</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Divisão</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">41</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">57</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Gerente de Projeto III</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">101.1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">142</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">263</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td></tr><tr><td style="width:116.62pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">413</span></p></td><td style="width:116.62pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:116.25pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-3</span></p></td></tr></tbody></table>
+UNIDADE
+
+CARGO/ FUNÇÃO/ Nº
+
+DENOMINAÇÃO CARGO/FUNÇÃO
+
+### DAS/FG
+
+1
+
+Presidente
+
+101.6
+
+4
+
+Assistente
+
+102.2
+
+4
+
+Gerente de Programa
+
+101.4
+
+1
+
+Gerente de Projeto I
+
+101.3
+
+1
+
+Gerente de Projeto II
+
+101.2
+
+1
+
+Gerente de Projeto III
+
+101.1
+
+2
+
+FG-1
+
+GABINETE
+
+1
+
+Chefe
+
+101.4
+
+2
+
+Auxiliar
+
+102.1
+
+1
+
+Gerente de Projeto I
+
+101.3
+
+4
+
+Gerente de Projeto III
+
+101.1
+
+2
+
+FG-1
+
+5
+
+FG-2
+
+2
+
+FG-3
+
+PROCURADORIA-GERAL
+
+1
+
+Procurador-Geral
+
+101.5
+
+1
+
+Procurador-Geral Adjunto
+
+101.4
+
+2
+
+Auxiliar
+
+102.1
+
+Divisão
+
+1
+
+Chefe
+
+101.2
+
+Serviço
+
+6
+
+Chefe
+
+101.1
+
+2
+
+FG-1
+
+2
+
+FG-2
+
+3
+
+FG-3
+
+AUDITORIA INTERNA
+
+1
+
+Chefe
+
+101.4
+
+1
+
+Auxiliar
+
+102.1
+
+1
+
+FG-2
+
+DIRETORIA-EXECUTIVA
+
+1
+
+Diretor
+
+101.5
+
+1
+
+Diretor-Adjunto
+
+101.4
+
+2
+
+Assistente
+
+102.2
+
+20
+
+Gerente de Projeto II
+
+101.2
+
+43
+
+Gerente de Projeto III
+
+101.1
+
+Coordenação
+
+4
+
+Coordenador
+
+101.3
+
+5
+
+FG-1
+
+36
+
+FG-2
+
+37
+
+FG-3
+
+DIRETORIA DE PESQUISAS
+
+1
+
+Diretor
+
+101.5
+
+1
+
+Diretor-Adjunto
+
+101.4
+
+2
+
+Assistente
+
+102.2
+
+1
+
+Gerente de Programa
+
+101.4
+
+3
+
+Gerente de Projeto I
+
+101.3
+
+30
+
+Gerente de Projeto II
+
+101.2
+
+44
+
+Gerente de Projeto III
+
+101.1
+
+Departamento
+
+8
+
+Chefe
+
+101.3
+
+37
+
+FG-1
+
+129
+
+FG-2
+
+153
+
+FG-3
+
+DIRETORIA DE GEOCIÊNCIAS
+
+1
+
+Diretor
+
+101.5
+
+1
+
+Diretor-Adjunto
+
+101.4
+
+2
+
+Assistente
+
+102.2
+
+1
+
+Gerente de Projeto I
+
+101.3
+
+13
+
+Gerente de Projeto II
+
+101.2
+
+32
+
+Gerente de Projeto III
+
+101.1
+
+Departamento
+
+5
+
+Chefe
+
+101.3
+
+21
+
+FG-1
+
+40
+
+FG-2
+
+50
+
+FG-3
+
+DIRETORIA DE INFORMÁTICA
+
+1
+
+Diretor
+
+101.5
+
+1
+
+Diretor-Adjunto
+
+101.4
+
+2
+
+Assistente
+
+102.2
+
+3
+
+Gerente de Projeto I
+
+101.3
+
+17
+
+Gerente de Projeto II
+
+101.2
+
+44
+
+Gerente de Projeto III
+
+101.1
+
+Departamento
+
+3
+
+Chefe
+
+101.3
+
+26
+
+FG-1
+
+22
+
+FG-2
+
+34
+
+FG-3
+
+CENTRO DE DOCUMENTAÇÃO E DISSEMINAÇÃO DE INFORMAÇÕES
+
+1
+
+Superintendente
+
+101.4
+
+1
+
+Superintendente-Adjunto
+
+101.3
+
+2
+
+Assistente
+
+102.2
+
+1
+
+Gerente de Projeto I
+
+101.3
+
+12
+
+Gerente de Projeto II
+
+101.2
+
+6
+
+Gerente de Projeto III
+
+101.1
+
+Departamento
+
+2
+
+Chefe
+
+101.3
+
+2
+
+FG-1
+
+23
+
+FG-2
+
+17
+
+FG-3
+
+ESCOLA NACIONAL DE CIÊNCIAS ESTATÍSTICAS
+
+1
+
+Superintendente
+
+101.4
+
+2
+
+Assistente
+
+102.2
+
+4
+
+Gerente de Projeto II
+
+101.2
+
+4
+
+Gerente de Projeto III
+
+101.1
+
+Departamento
+
+2
+
+Chefe
+
+101.3
+
+2
+
+FG-1
+
+5
+
+FG-2
+
+5
+
+FG-3
+
+UNIDADES REGIONAIS
+
+Departamento
+
+8
+
+Chefe
+
+101.3
+
+Divisão
+
+41
+
+Chefe
+
+101.2
+
+57
+
+Gerente de Projeto III
+
+101.1
+
+142
+
+FG-1
+
+263
+
+FG-2
+
+413
+
+FG-3
 
 b) QUADRO RESUMO DOS CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS DA FUNDAÇÃO INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA – IBGE
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td rowspan="2" style="width:74.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">CÓDIGO</span></p></td><td rowspan="2" style="width:74.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">DAS -</span><span style="font-size:10pt"> </span><span style="font-size:10pt; font-weight:bold">UNITÁRIO</span></p></td><td colspan="2" style="width:148.95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">SITUAÇÃO ATUAL</span></p></td><td colspan="2" style="width:167.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">SITUAÇÃO NOVA</span></p></td></tr><tr><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">QTDE.</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">VALOR TOTAL</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">QTDE.</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">VALOR TOTAL</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DAS 101.6</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6,52</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6,52</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6,52</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DAS 101.5</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4,94</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">19,76</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">24,70</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DAS 101.4</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3,08</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">36,96</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">14</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">43,12</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DAS 101.3</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1,24</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">43</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">53,32</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">43</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">53,32</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DAS 101.2</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1,11</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">139</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">154,29</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">139</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">154,29</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DAS 101.1</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1,00</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">241</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">241,00</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">241</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">241,00</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DAS 102.2</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1,11</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">16</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">17,76</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">16</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">17,76</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">DAS 102.1</span></p></td><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1,00</span></p></td><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5,00</span></p></td><td style="width:74.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5,00</span></p></td></tr><tr><td colspan="2" style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">SUBTOTAL 1</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">461</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">534,61</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">464</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">545,71</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-1</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">0,31</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">241</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">74,71</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">241</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">74,71</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-2</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">0,24</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">526</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">126,24</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">526</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">126,24</span></p></td></tr><tr><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FG-3</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">0,19</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">714</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">135,66</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">714</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">135,66</span></p></td></tr><tr><td colspan="2" style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">SUBTOTAL 2</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">1.481</span></p></td><td style="width:74.1pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">336,61</span></p></td><td style="width:74.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">1.481</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">336,61</span></p></td></tr><tr><td colspan="2" style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">TOTAL (1+2)</span></p></td><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">1.942</span></p></td><td style="width:74.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">871,22</span></p></td><td style="width:74.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">1.945</span></p></td><td style="width:92.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">882,32</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"> CÓDIGO </td><td rowspan="2"> DAS - UNITÁRIO </td><td colspan="2"> SITUAÇÃO ATUAL </td><td colspan="2"> SITUAÇÃO NOVA </td></tr><tr><td> QTDE. </td><td> VALOR TOTAL </td><td> QTDE. </td><td> VALOR TOTAL </td></tr><tr><td> DAS 101.6 </td><td> 6,52 </td><td> 1 </td><td> 6,52 </td><td> 1 </td><td> 6,52 </td></tr><tr><td> DAS 101.5 </td><td> 4,94 </td><td> 4 </td><td> 19,76 </td><td> 5 </td><td> 24,70 </td></tr><tr><td> DAS 101.4 </td><td> 3,08 </td><td> 12 </td><td> 36,96 </td><td> 14 </td><td> 43,12 </td></tr><tr><td> DAS 101.3 </td><td> 1,24 </td><td> 43 </td><td> 53,32 </td><td> 43 </td><td> 53,32 </td></tr><tr><td> DAS 101.2 </td><td> 1,11 </td><td> 139 </td><td> 154,29 </td><td> 139 </td><td> 154,29 </td></tr><tr><td> DAS 101.1 </td><td> 1,00 </td><td> 241 </td><td> 241,00 </td><td> 241 </td><td> 241,00 </td></tr><tr><td> DAS 102.2 </td><td> 1,11 </td><td> 16 </td><td> 17,76 </td><td> 16 </td><td> 17,76 </td></tr><tr><td> DAS 102.1 </td><td> 1,00 </td><td> 5 </td><td> 5,00 </td><td> 5 </td><td> 5,00 </td></tr><tr><td colspan="2"> SUBTOTAL 1 </td><td> 461 </td><td> 534,61 </td><td> 464 </td><td> 545,71 </td></tr><tr><td> FG-1 </td><td> 0,31 </td><td> 241 </td><td> 74,71 </td><td> 241 </td><td> 74,71 </td></tr><tr><td> FG-2 </td><td> 0,24 </td><td> 526 </td><td> 126,24 </td><td> 526 </td><td> 126,24 </td></tr><tr><td> FG-3 </td><td> 0,19 </td><td> 714 </td><td> 135,66 </td><td> 714 </td><td> 135,66 </td></tr><tr><td colspan="2"> SUBTOTAL 2 </td><td> 1.481 </td><td> 336,61 </td><td> 1.481 </td><td> 336,61 </td></tr><tr><td colspan="2"> TOTAL (1+2) </td><td> 1.942 </td><td> 871,22 </td><td> 1.945 </td><td> 882,32 </td></tr></tbody></table>

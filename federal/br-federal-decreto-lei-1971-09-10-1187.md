@@ -1,5 +1,3 @@
-###DEL-001187-0-000-10-09-1971@@@
-
 # DECRETO-LEI Nº 1.187, DE 10 DE SETEmbro DE 1971
 
 Dispõe sôbre os vencimentos básicos do pessoal civil docente e coadjuvante do Magistério do Exército.
@@ -12,29 +10,75 @@ Art. 1º Os vencimentos básicos correspondentes ao regime de trabalho previsto 
 
 I - no ensino superior
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>a) Professor Titular ............................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>2.960,00</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>b) Professor Adjunto ..........................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>2.640,00</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>c) Professor Assistente .....................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>2.320,00</span></p></td></tr></tbody></table>
+Cr$
+
+a) Professor Titular ............................................................................
+
+2.960,00
+
+b) Professor Adjunto ..........................................................................
+
+2.640,00
+
+c) Professor Assistente .....................................................................
+
+2.320,00
 
 II - no ensino médio
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>Professor .........................................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>1.584,00</span></p></td></tr></tbody></table>
+Professor .........................................................................................
+
+1.584,00
 
 Art. 2º Os vencimentos básicos correspondentes ao regime de trabalho de 40 (quarenta) horas semanais, dos coadjuvantes civis do Magistério do Exército, são:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>I - Tecnologista .................................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>1.520,00</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>II - Preparador ...................................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>1.280,00</span></p></td></tr></tbody></table>
+Cr$
+
+I - Tecnologista .................................................................................
+
+1.520,00
+
+II - Preparador ...................................................................................
+
+1.280,00
 
 Art. 3º Os vencimentos dos professôres e coadjuvantes civis são calculados considerando o mês de 4 (quatro) semanas e os seguintes valôres básicos da hora de trabalho:
 
 I - no ensino superior
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>a) Professor Titular ............................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>18,50</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>b) Professor Adjunto ..........................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>16,50</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>c) Professor Assistente .....................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>14,50</span></p></td></tr></tbody></table>
+Cr$
+
+a) Professor Titular ............................................................................
+
+18,50
+
+b) Professor Adjunto ..........................................................................
+
+16,50
+
+c) Professor Assistente .....................................................................
+
+14,50
 
 II - no ensino médio
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>a) Professor Permanente ...................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>16,50</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>b) Professor contratado .....................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>14,50</span></p></td></tr></tbody></table>
+a) Professor Permanente ...................................................................
+
+16,50
+
+b) Professor contratado .....................................................................
+
+14,50
 
 III - coadjuvantes
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>a) Tecnologista .................................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>9,50</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo"><span>b) Preparador ....................................................................................</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:center"><span>8,00</span></p></td></tr></tbody></table>
+a) Tecnologista .................................................................................
+
+9,50
+
+b) Preparador ....................................................................................
+
+8,00
 
 Art. 4º As despesas decorrentes do disposto no presente Decreto-lei serão atendidas pelas dotações orçamentárias próprias.
 

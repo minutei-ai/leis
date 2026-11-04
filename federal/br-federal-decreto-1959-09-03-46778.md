@@ -1,5 +1,3 @@
-###DEC-046778-0-000-03-09-1959@@@
-
 decreto nº 46.778, de 3 de setembro de 1959.
 
 Autoriza o cidadão brasileiro Elpídio Trovão Filho a pesquisar diamante no Município de Bocaiuva, Estado de Minas Gerais.

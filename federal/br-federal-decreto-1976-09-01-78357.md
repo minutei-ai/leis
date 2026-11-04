@@ -1,5 +1,3 @@
-###DEC-078357-0-000-01-09-1976@@@
-
 DECRETO Nº 78.357, DE 1 DE SETEMBRO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado em Cristalina, Estado de Goiás.

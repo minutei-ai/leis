@@ -1,5 +1,3 @@
-###DEC-050818-0-000-22-06-1961@@@
-
 DECRETO Nº 50.818, de 22 de junho de 1961.
 
 Cria no Instituto do Açúcar e do Álcool a Divisão de Exportação (D. Ex.) e dá outras providências.

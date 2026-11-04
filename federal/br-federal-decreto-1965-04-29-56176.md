@@ -1,5 +1,3 @@
-###DEC-056176-0-000-29-04-1965@@@
-
 Decreto nº 56.176, de 29 de abril de 1965.
 
 Outorga ao Município de Luiz Correia, Estado do Piauí, concessão para distribuir energia elétrica.

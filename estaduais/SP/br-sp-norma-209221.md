@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209221)<br>
-
 # DECRETO N° 68.404, DE 20 DE MARÇO DE 2024
 
 ### _Dá nova redação a dispositivo do Decreto n° 60.397, de 25 de abril de 2014, que dispõe sobre o Conselho Estadual de Alimentação Escolar de São Paulo - CEAE/SP._

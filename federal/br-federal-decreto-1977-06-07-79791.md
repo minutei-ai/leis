@@ -1,5 +1,3 @@
-###DEC-079791-0-000-07-06-1977@@@
-
 DECRETO Nº 79.791, DE 7 DE junho DE 1977
 
 Autoriza a registro, em nome da União Federal, do imóvel que menciona, situado na Cidade de Belém, Estado do Pará.

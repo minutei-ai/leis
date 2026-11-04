@@ -1,5 +1,3 @@
-###DEC-071593-0-000-21-12-1972@@@
-
 decreto nº 71.593 - de 21 de dezembro de 1972
 
 Retifica o Decreto nº 53.987, de 26 de junho de 1964, que outorga concessão ao Governo do Estado de Goiás para estabelecer uma estação de radiodifusão.

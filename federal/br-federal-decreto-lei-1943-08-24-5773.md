@@ -1,5 +1,3 @@
-###DEL-005773-0-000-24-08-1943@@@
-
 DECRETO‑LEI N. 5.773 – DE 24 DE AGOSTO DE 1943
 
 Modifica dispositivos do decreto‑lei n. 4.352, de 1 de julho de 1942, e  dá outras providências

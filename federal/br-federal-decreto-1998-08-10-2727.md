@@ -1,5 +1,3 @@
-###DEC-002727-0-000-10-08-1998@@@
-
 DECRETO Nº 2.727, DE 10 DE AGOSTO DE 1998.
 
 Dispõe sobre a execução do Protocolo de Prorrogação dos Acordos de Alcance Parcial de Natureza Comercial, entre Brasil, Argentina e Uruguai, de 23 de dezembro de 1996.
@@ -30,7 +28,41 @@ CONVÊM EM:
 
 Artigo único. - Prorrogar de 1º de janeiro de 1997 até 30 de setembro de 1997 a vigência dos Acordos Comerciais consignados no presente Protocolo e das preferências outorgadas pela Argentina, Brasil e Uruguai, nos termos e condições registrados nos seguinte Protocolos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:106.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">AAP.C/7A</span></p></td><td style="width:304.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Terceiro Protocolo Adicional.</span></p></td></tr><tr><td style="width:106.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">AAP.C/7B</span></p></td><td style="width:304.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Oitavo Protocolo Adicional.</span></p></td></tr><tr><td style="width:106.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">AAP.C/10</span></p></td><td style="width:304.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Décimo Terceiro Protocolo Adicional.</span></p></td></tr><tr><td style="width:106.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">AAP.C/15</span></p></td><td style="width:304.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Décimo Quinto Protocolo Adicional.</span></p></td></tr><tr><td style="width:106.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">AAP.C/16</span></p></td><td style="width:304.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Trigésimo Quarto Protocolo Adicional.</span></p></td></tr><tr><td style="width:106.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">AAP.C/19</span></p></td><td style="width:304.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Décimo Primeiro Protocolo Adicional.</span></p></td></tr><tr><td style="width:106.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">AAP.C/21</span></p></td><td style="width:304.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Vigésimo Quinto Protocolo Adicional.</span></p></td></tr><tr><td style="width:106.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">AAP.C/22</span></p></td><td style="width:304.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Décimo Quarto Protocolo Adicional.</span></p></td></tr><tr><td style="width:106.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">AAP.C/26</span></p></td><td style="width:304.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">- Décimo Segundo Protocolo Adicional.</span></p></td></tr></tbody></table>
+AAP.C/7A
+
+- Terceiro Protocolo Adicional.
+
+AAP.C/7B
+
+- Oitavo Protocolo Adicional.
+
+AAP.C/10
+
+- Décimo Terceiro Protocolo Adicional.
+
+AAP.C/15
+
+- Décimo Quinto Protocolo Adicional.
+
+AAP.C/16
+
+- Trigésimo Quarto Protocolo Adicional.
+
+AAP.C/19
+
+- Décimo Primeiro Protocolo Adicional.
+
+AAP.C/21
+
+- Vigésimo Quinto Protocolo Adicional.
+
+AAP.C/22
+
+- Décimo Quarto Protocolo Adicional.
+
+AAP.C/26
+
+- Décimo Segundo Protocolo Adicional.
 
 A Secretaria-Geral fará constar em cada um dos Acordos Comerciais mencionados a prorrogação outorgada em virtude do presente Protocolo.
 
@@ -38,4 +70,14 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE Os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos vinte e três dias do mês de dezembro de mil novecentos e noventa e seis, em um original dos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da Argentina:</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Jesús Sabra</span></p></td></tr><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Oriental do Uruguai:</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Adolfo Castells</span></p></td></tr></tbody></table>
+Pelo Governo da Argentina:
+
+Jesús Sabra
+
+Pelo Governo da República Federativa do Brasil:
+
+José Artur Denot Medeiros
+
+Pelo Governo da República Oriental do Uruguai:
+
+Adolfo Castells

@@ -1,5 +1,3 @@
-###DEC-047315-0-000-02-12-1959@@@
-
 DECRETO Nº 47.315, DE 2 DE DEZEMBRO DE 1959.
 
 Revoga o Decreto nº 41.613, de 29 de maio de 1957.

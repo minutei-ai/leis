@@ -1,5 +1,3 @@
-###DEL-006100-0-000-14-12-1943@@@
-
 DECRETO‑LEI N. 6.100 – DE 14 DE DEZEMBRO DE 1943
 
 Cria a função gratificada de Administrador do Hôrto Florestal de Santa Cruz

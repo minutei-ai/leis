@@ -1,5 +1,3 @@
-###DEC-002613-0-000-03-06-1998@@@
-
 DECRETO Nº 2.613, DE 3 DE JUNHO DE 1998
 
 Regulamenta o art. 4º da Lei nº 9.602, de 21 de janeiro de 1998, que trata do Fundo Nacional de Segurança e Educação de Trânsito - FUNSET, e dá outras providências.

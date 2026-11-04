@@ -1,5 +1,3 @@
-###DEC-007306-0-000-22-09-2010-PUB-01@@@
-
 DECRETO Nº 7.306, DE 22 DE SETEMBRO DE 2010.
 
 Revoga o Decreto n~~º~~ 35.823, de 14 de julho de 1954, que cria o estandarte distintivo para o 5~~º~~ Regimento de Infantaria - “Regimento Itororó”.

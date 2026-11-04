@@ -1,5 +1,3 @@
-###DEC-007828-0-000-16-10-2012-PUB-01@@@
-
 DECRETO No- 7.828, DE 16 DE OUTUBRO DE 2012
 
 Regulamenta a incidência da contribuição previdenciária sobre a receita devida pelas empresas de que tratam os arts. 7º a 9º da Lei nº 12.546, de 14 de dezembro de 2011.

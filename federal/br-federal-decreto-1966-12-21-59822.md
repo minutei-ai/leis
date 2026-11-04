@@ -1,5 +1,3 @@
-###DEC-059822-0-000-21-12-1966@@@
-
 DECRETO Nº 59.822, DE 21 DE DEZEMBRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Transatlântica Companhia Nacional de Seguros, inclusive aumento do capital social.

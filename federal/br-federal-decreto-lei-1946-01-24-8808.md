@@ -1,5 +1,3 @@
-###DEL-008808-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.808 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre a Presidência do Tribunal Superior Eleitoral

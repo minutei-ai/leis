@@ -1,5 +1,3 @@
-###DEL-004221-0-000-01-04-1942@@@
-
 DECRETO-LEI N. 4.221 – DE 1 DE ABRIL DE 1942
 
 Dispõe sobre as operações da compra e venda de borracha e dá outras providências

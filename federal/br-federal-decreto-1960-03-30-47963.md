@@ -1,5 +1,3 @@
-###DEC-047963-0-000-30-03-1960@@@
-
 DECRETO Nº 47.963, DE 30 DE MARÇO DE 1960.
 
 Concede à Emprêsa de Navegação Transoceânica Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

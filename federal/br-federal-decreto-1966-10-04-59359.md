@@ -1,5 +1,3 @@
-###DEC-059359-0-000-04-10-1966@@@
-
 decreto nº 59.359, de 4 de outubro de 1966.
 
 Abre, pelo Ministério da Aviação e Obras Públicas, o crédito suplementar de Cr$165.000.000, para o fim que menciona.

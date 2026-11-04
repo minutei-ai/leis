@@ -1,5 +1,3 @@
-###DEC-080617-0-000-26-10-1977@@@
-
 DECRETO Nº 80.617, DE 26 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Educação Artística da Faculdade de Música Santa Cecília, com sede na cidade de Pindamonhangaba, Estado de São Paulo.

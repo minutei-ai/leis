@@ -1,5 +1,3 @@
-###DEC-073899-0-000-05-04-1974@@@
-
 DECRETO Nº 73.899, DE 5 DE ABRIL DE 1974.
 
 Altera o artigo 23, do Regulamento do Comando do Comando Geral do Pessoal, aprovado pelo Decreto número 64.451, de 2 de maio de 1969.

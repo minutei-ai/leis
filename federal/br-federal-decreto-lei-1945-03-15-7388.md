@@ -1,5 +1,3 @@
-###DEL-007388-0-000-15-03-1945@@@
-
 DECRETO-LEI N. 7.388 – DE 15 DE MARÇO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar dos impostos que menciona o PEN Clube do Brasil

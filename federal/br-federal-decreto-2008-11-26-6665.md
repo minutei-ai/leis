@@ -1,5 +1,3 @@
-###DEC-006665-0-000-26-11-2008@@@
-
 DECRETO Nº 6.665, DE 26 DE NOVEMBRO DE 2008.
 
 Promulga o Acordo de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República Argelina Democrática e Popular no Campo da Proteção dos Vegetais e da Quarentena Vegetal, firmado em Brasília, em 12 de maio de 2005.       

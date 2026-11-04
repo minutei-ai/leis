@@ -1,5 +1,3 @@
-###DEC-006391-0-000-12-03-2008@@@
-
 DECRETO Nº 6.391, DE 12 DE MARÇO DE 2008.
 
 Altera o Decreto no 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.
@@ -73,5 +71,3 @@ Brasília, 12 de março de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 13.3.2008

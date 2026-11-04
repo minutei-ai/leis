@@ -1,5 +1,3 @@
-###DEC-093645-0-000-03-12-1986@@@
-
 DECRETO Nº 93.645, DE 3 DE DEZEMBRO DE 1986
 
 Define o Imposto sobre Produtos Industrializados relativo a bebidas importadas.

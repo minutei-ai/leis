@@ -1,5 +1,3 @@
-###DEC-046381-0-000-07-07-1959@@@
-
 DECRETO Nº 46.381, DE 7 DE JULHO DE 1959.
 
 Modifica e amplia o decreto nº 39.292, de 1º de junho de 1956, que dispõe sôbre a instalação de Postos de Migração nos Estados de Pernambuco, Sergipe e Bahia.

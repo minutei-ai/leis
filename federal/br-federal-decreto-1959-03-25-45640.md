@@ -1,5 +1,3 @@
-###DEC-045640-0-000-25-03-1959@@@
-
 DECRETO Nº 45.640, DE 25 DE março DE 1959.
 
 Autoriza a cidadão brasileiro Ruy Nunes de Campos Rosa a pesquisar ouro no município de Maués, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEL-008606-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.606 – DE 8 DE JANEIRO DE 1946
 
 Altera a redação do art. 76 do Decreto-lei nº 4.162, de 9 de março de 1942

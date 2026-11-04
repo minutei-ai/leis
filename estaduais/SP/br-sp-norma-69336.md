@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69336)
-
 # LEI Nº 12.447, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 91/2006, do Deputado Valdomiro Lopes)

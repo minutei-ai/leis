@@ -1,5 +1,3 @@
-###DEC-051513-0-000-25-06-1962@@@
-
 DECRETO Nº 51.513, DE 25 DE JUNHO DE 1962.
 
 Dispõe sôbre a Delegação do Brasil junto à Comunidade Ecônomica Européia.

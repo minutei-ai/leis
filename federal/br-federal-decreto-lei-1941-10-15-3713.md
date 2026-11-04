@@ -1,5 +1,3 @@
-###DEL-003713-0-000-15-10-1941@@@
-
 DECRETO-LEI N. 3.713 – DE 15 DE OUTUBRO DE 1941
 
 Determina o recolhimento ao Tesouro Nacional de taxas terminais cobradas pelas empresas concessionárias e permissionárias de telegrafia e radiotelegrafia, de telefonia e radiotelefonia e dá outras providências

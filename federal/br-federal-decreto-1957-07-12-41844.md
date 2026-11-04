@@ -1,26 +1,24 @@
-###DEC-041844-0-000-12-07-1957@@@
+**DECRETO Nº 41.844, DE 12 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41.844, DE 12 DE JULHO DE 1957.</strong>
+***Autoriza ao Ministério da Guerra a celebrar com o Estado de Minas Gerais convênio, com o fim da instalação de um Colégio Militar, em Belo Horizonte.***
 
-<em><strong>Autoriza ao Ministério da Guerra a celebrar com o Estado de Minas Gerais convênio, com o fim da instalação de um Colégio Militar, em Belo Horizonte.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica o Ministério da Guerra autorizado a celebrar, nos têrmos da minuta que com êste baixa devidamente rubricada, convênio com o Estado de Minas Gerais para a instalação de um Colégio Militar em Belo Horizonte.
 
-<strong>Art</strong>. 1º Fica o Ministério da Guerra autorizado a celebrar, nos têrmos da minuta que com êste baixa devidamente rubricada, convênio com o Estado de Minas Gerais para a instalação de um Colégio Militar em Belo Horizonte.
-
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 12 de julho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott
 
-<strong>TÊRMO DE CONVÊNIO CELEBRADO ENTRE O ESTADO DE MINAS GERAIS E O MINISTÉRIO DA GUERRA, PARA O FIM DA INSTALAÇÃO DE UM COLÉGIO MILITAR, EM BELO HORIZONTE.</strong>
+**TÊRMO DE CONVÊNIO CELEBRADO ENTRE O ESTADO DE MINAS GERAIS E O MINISTÉRIO DA GUERRA, PARA O FIM DA INSTALAÇÃO DE UM COLÉGIO MILITAR, EM BELO HORIZONTE.**
 
-Aos ........ (...........) dias do mês de ....................., do ano de 1957 (um mil novecentos e cinqüenta e sete), no Palácio da Liberdade, em Belo Horizonte, presentes o Exmo. Senhor Governador José Francisco Bias Fortes, pelo Estado de Minas Gerais, em cumprimento do disposto na Resolução nº 188, de 14 de maio de 1956, da egrégia Assembléia Legislativa do Estado de Minas Gerais, publicada no “Diário da Assembléia” do Estado, de 16 de maio de 1956, e o ..............................................., representante do Exmo. Senhor Ministro da Guerra, conforme Portaria ...................... com autorização do Exmo. Senhor Presidente da República, conforme ...................... publicado no “<em>Diário Oficial</em>” da República, de ......................... de 1957, é celebrado o presente Convênio, para o fim especial da instalação de um Colégio Militar em Belo Horizonte, observadas as cláusulas seguintes:
+Aos ........ (...........) dias do mês de ....................., do ano de 1957 (um mil novecentos e cinqüenta e sete), no Palácio da Liberdade, em Belo Horizonte, presentes o Exmo. Senhor Governador José Francisco Bias Fortes, pelo Estado de Minas Gerais, em cumprimento do disposto na Resolução nº 188, de 14 de maio de 1956, da egrégia Assembléia Legislativa do Estado de Minas Gerais, publicada no “Diário da Assembléia” do Estado, de 16 de maio de 1956, e o ..............................................., representante do Exmo. Senhor Ministro da Guerra, conforme Portaria ...................... com autorização do Exmo. Senhor Presidente da República, conforme ...................... publicado no “*Diário Oficial*” da República, de ......................... de 1957, é celebrado o presente Convênio, para o fim especial da instalação de um Colégio Militar em Belo Horizonte, observadas as cláusulas seguintes:
 
 Primeira - O Colégio Militar de Belo Horizonte será construído no terreno doado pelo Govêrno do Estado de Minas Gerais ao Govêrno da União com a área de 827.255,00m² (oitocentos e vinte e sete mil duzentos e cinqüenta e cinco metros quadrados), situado no bairro da Pampulha, nesta Cidade, destinado igualmente à construção e instalação do Centro de Preparação de Oficiais da Reserva.
 
@@ -30,7 +28,7 @@ Terceira - As obras serão executadas pelo Ministério da Guerra, através de su
 
 Quarta - Considerando que as obras relativas ao Colégio Militar já foram iniciadas pelo Ministério da Guerra, é que o custo total atualizado da construção, referente à primeira etapa, monta a Cr$64.600.000,00 (sessenta e quatro milhões e seiscentos mil cruzeiros), o Govêrno do Estado de Minas Gerais contribuirá, no exercício financeiro de 1957 (mil novecentos e cinqüenta e sete), com a quantia de Cr$30.000.000,00 (trinta milhões de cruzeiros) para a construção do citado Colégio.
 
-Quinta - A contribuição do Govêrno do Estado de Minas Gerais de que trata a cláusula quarta, será entregue à Comissão Especial de Obras nº 10 (dez), cujo Chefe será o executor do presente Convênio, em três parcelas: primeira parcela \- Cr$10.000.000,00 (dez milhões de cruzeiros) dentro de vinte (20) dias a contar desta data; a segunda parcela - Cr$15.000.000,00 (quinze milhões de cruzeiros) até o dia 31 (trinta e um) de agôsto de 1957 (mil novecentos e cinqüenta e sete<em>); terceira parcela -</em> Cr$5.000.000,00 (cinco milhões de cruzeiros) até o 31 (trinta e um) de outubro de 1957 (mil novecenttos e cinqüenta e sete).
+Quinta - A contribuição do Govêrno do Estado de Minas Gerais de que trata a cláusula quarta, será entregue à Comissão Especial de Obras nº 10 (dez), cujo Chefe será o executor do presente Convênio, em três parcelas: primeira parcela \- Cr$10.000.000,00 (dez milhões de cruzeiros) dentro de vinte (20) dias a contar desta data; a segunda parcela - Cr$15.000.000,00 (quinze milhões de cruzeiros) até o dia 31 (trinta e um) de agôsto de 1957 (mil novecentos e cinqüenta e sete*); terceira parcela -* Cr$5.000.000,00 (cinco milhões de cruzeiros) até o 31 (trinta e um) de outubro de 1957 (mil novecenttos e cinqüenta e sete).
 
 Sexta - A Comissão Especial de Obras nº 10 (dez) prestará conta das importâncias recebidas dos cofres do Estado de Minas Gerais, em cumprimento ao presente Convênio, ao órgão competente do Govêrno do Estado, obedecendo, a êsse respeito às normas estipuladas pelo referido órgão e às instruções para a execução das obras afetas ao Ministério da Guerra. Dessa prestação de contas, uma via será encaminhada ao Ministério da Guerra, por intermédio da Diretoria de Obras e Fortificações.
 

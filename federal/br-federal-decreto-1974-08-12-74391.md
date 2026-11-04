@@ -1,5 +1,3 @@
-###DEC-074391-0-000-12-08-1974@@@
-
 DECRETO Nº 74.391 - DE 12 DE AGOSTO DE 1974.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado nos municípios de Mondaí e Descanso, Estado de Santa Catarina.

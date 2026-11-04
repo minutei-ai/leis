@@ -1,5 +1,3 @@
-###DEC-003656-0-000-07-11-2000@@@
-
 DECRETO Nº 3.656, DE 7 DE NOVEMBRO DE 2000.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, do Banco do Estado do Piauí S.A.- BEP.

@@ -1,5 +1,3 @@
-###DEC-060144-0-000-27-01-1967@@@
-
 decreto nº 60.144, de 27 de janeiro de 1967.
 
 Autoriza o cidadão brasileiro Antônio Teixeira de Lima a pesquisar calcário no município de Iporanga, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-087352-0-000-01-07-1982@@@
-
 Decreto nº 87.352, de 01 de julho de 1982
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

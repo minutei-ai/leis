@@ -1,5 +1,3 @@
-###DEC-064730-0-000-23-06-1969@@@
-
 Decreto nº 64.730, de 23 de junho de 1969.
 
 Declara de utilidade pública a Sociedade Civil "Pio Lanteri", com sede em Curitiba, Estado do Paraná.

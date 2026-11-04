@@ -1,5 +1,3 @@
-###DEC-061697-0-000-13-11-1967@@@
-
 DECRETO Nº 61.697, DE 13 DE NOVEMBRO DE 1967.
 
 Autoriza a cidadã brasileira Filomena Teixeira de Matos a lavrar calcário no município de Matosinhos, Estado de Minas Gerais.

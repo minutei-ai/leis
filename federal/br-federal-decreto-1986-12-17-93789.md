@@ -1,5 +1,3 @@
-###DEC-093789-0-000-17-12-1986@@@
-
 DECRETO Nº 93.789, DE 17 DE DEZEMBRO DE 1986
 
 Cassa a concessão outorgada à RÁDIO PALMEIRA D'OESTE LIMITADA, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Palmeira D'Oeste, Estado de São Paulo.

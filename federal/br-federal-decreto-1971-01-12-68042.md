@@ -1,5 +1,3 @@
-###DEC-068042-0-000-12-01-1971@@@
-
 DECRETO Nº 68.042, de 12 de Janeiro de 1971.
 
 Cria, no Ministério da Marinha, o Centro de Instrução "Almirante Graça Aranha".

@@ -1,5 +1,3 @@
-###DEC-049174-0-000-01-11-1960@@@
-
 DECRETO Nº 49.174, DE 1º DE NOVEMBRO DE 1960.
 
 Dispõe sôbre o pagamento de proventos de inativos ou pensionistas, civil ou militar, atacados de alienação mental e dá outras providências.

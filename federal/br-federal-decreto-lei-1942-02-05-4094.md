@@ -1,5 +1,3 @@
-###DEL-004094-0-000-05-02-1942@@@
-
 DECRETO-LEI N. 4.094 – DE 5 DE FEVEREIRO DE 1942
 
 Cria uma coletoria federal no município de Nova Ponte, no Estado de Minas Gerais, e dá outras providências

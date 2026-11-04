@@ -1,5 +1,3 @@
-###DEC-003994-0-000-31-10-2001@@@
-
 DECRETO Nº 3.994, DE 31 DE OUTUBRO DE 2001
 
 Delega competência ao Ministro de Estado do Planejamento, Orçamento e Gestão para a prática do ato que menciona.

@@ -1,5 +1,3 @@
-###MPV-002094-0-024-22-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.094-24, DE 22 DE FEVEREIRO DE 2001
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

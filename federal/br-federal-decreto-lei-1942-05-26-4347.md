@@ -1,5 +1,3 @@
-###DEL-004347-0-000-26-05-1942@@@
-
 DeCRETO-LEI N. 4.347 - DE 26 DE MAIO DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 3:000$0, para atender ao pagamento da diferença de gratificarão adicional

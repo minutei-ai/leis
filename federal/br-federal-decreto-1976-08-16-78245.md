@@ -1,5 +1,3 @@
-###DEC-078245-0-000-16-08-1976@@@
-
 DECRETO Nº 78.245, DE 16 DE AGOSTO DE 1976
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Duque de Caxias, Estado do Rio de Janeiro.

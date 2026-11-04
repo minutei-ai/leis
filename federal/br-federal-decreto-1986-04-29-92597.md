@@ -1,5 +1,3 @@
-###DEC-092597-0-000-28-04-1986@@@
-
 DECRETO Nº 92.597, DE 28 DE ABRIL DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias, a ser desmembrada de maior porção, situada no Município e Comarca de Osasco, Estado de São Paulo, destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

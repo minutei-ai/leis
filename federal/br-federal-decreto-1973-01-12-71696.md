@@ -1,5 +1,3 @@
-###DEC-071696-0-000-12-01-1973@@@
-
 DECRETO Nº 71.696, DE 12 DE JANEIRO DE 1973.
 
 Confisca bens do cidadão Irineu Batista Câmara, domiciliado no Município de Altônia, Patrimônio São Jorge, no Estado do Paraná, para a reparação de danos causados ao patrimônio público, e dá outras providências.

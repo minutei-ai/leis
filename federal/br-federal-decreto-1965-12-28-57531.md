@@ -1,5 +1,3 @@
-###DEC-057531-0-000-28-12-1965@@@
-
 DECRETO Nº 57.531, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza a Companhia de Eletrificação Centro-Norte do Ceará a construir linhas de transmissão.

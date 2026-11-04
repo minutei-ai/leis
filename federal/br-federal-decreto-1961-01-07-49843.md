@@ -1,5 +1,3 @@
-###DEC-049843-0-000-07-01-1961@@@
-
 DECRETO Nº 49.843, DE 7 DE JANEIRO DE 1961.
 
 Autoriza Robert Halsey Johnston, a comprar pedras preciosas.

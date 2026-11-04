@@ -1,5 +1,3 @@
-###DEC-002648-0-000-01-07-1998@@@
-
 DECRETO Nº 2.648, DE 1º DE JULHO DE 1998
 
 Promulga o Protocolo da Convenção de Segurança Nuclear, assinada em Viena, em 20 de setembro de 1994.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001002-0-000-19-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.002, DE 19 DE MAIO DE 1995
 
 Dispõe sobre o valor do salário mínimo, altera disposições das Leis nº 8.212 e nº 8.213, ambas de 24 de julho de 1991, e dá outras providências.

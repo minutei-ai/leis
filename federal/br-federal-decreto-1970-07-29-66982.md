@@ -1,5 +1,3 @@
-###DEC-066982-0-000-29-07-1970@@@
-
 DECRETO Nº 66.982, DE 29 DE JULHO DE 1970.
 
 Declara de utilidade pública a Associação Mantenedora do Asilo de Nossa Senhora do Carmo, com sede em Campos, Estado do Rio de Janeiro.

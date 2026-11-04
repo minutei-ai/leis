@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/27422)<br>
-
 # LEI COMPLEMENTAR N° 411, DE 09 DE SETEMBRO DE 1985
 
 ### _Regulamenta o disposto no parágrafo único do artigo 84 da Constituição do Estado de São Paulo, para definir os recursos que deverão compor o Orçamento-Programa de cada órgão ou Tribunal dos Poderes Legislativo e Judiciário_

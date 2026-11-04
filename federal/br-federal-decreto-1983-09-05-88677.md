@@ -1,5 +1,3 @@
-###DEC-088677-0-000-05-09-1983@@@
-
 # Decreto nº 88.677, de 05 de setembro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão, administrativa, faixa de terra destinada à passagem do trecho de linha de transmissão de Furnas - Centrais Elétricas S.A., no Estado do Rio de Janeiro.

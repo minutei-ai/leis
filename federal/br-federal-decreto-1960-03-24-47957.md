@@ -1,5 +1,3 @@
-###DEC-047957-0-000-24-03-1960@@@
-
 DECRETO Nº 47.957, DE 24 DE MARÇO DE 1960.
 
 Cria cargos e função gratificada no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

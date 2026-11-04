@@ -1,5 +1,3 @@
-###DEC-092646-0-000-13-05-1986@@@
-
 DECRETO Nº 92.646, DE 13 DE MAIO DE 1986
 
 Altera a composição do Conselho DeIiberativo da Superintendência do Desenvolvimento da Amazônia /SUDAM.

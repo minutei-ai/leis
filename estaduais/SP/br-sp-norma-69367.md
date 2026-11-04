@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69367)
-
 # LEI Nº 12.471, DE 26 DE DEZEMBRO DE 2006
 
 ### _Dispõe sobre o subsídio do Governador, do Vice-Governador e dos Secretários de Estado no exercício financeiro de 2006_

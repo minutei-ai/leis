@@ -1,5 +1,3 @@
-###DEC-057799-0-000-14-02-1966@@@
-
 decreto nº 57.799, de 14 de fevereiro de 1966.
 
 Abre, pelo Ministério da Viação e obras Públicas, o crédito especial de Cr$6.998.000.000, para fim que especifica.

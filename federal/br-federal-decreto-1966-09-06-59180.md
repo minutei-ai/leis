@@ -1,5 +1,3 @@
-###DEC-059180-0-000-06-09-1966@@@
-
 DECRETO Nº 59.180, DE 6 de setembro de 1966.
 
 Autoriza MIBRACO - Mineração Brasileira Comercial Limitada a pesquisar diamante e ouro no Município de Diamantina, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-092902-0-000-08-07-1986@@@
-
 DECRETO Nº 92.902, DE 8 DE JULHO DE 1986
 
 Dispõe sobre o aumento do Capital Social da Companhia Hidro Elétrica do São Francisco - CHESF.

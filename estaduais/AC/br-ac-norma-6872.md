@@ -1,6 +1,10 @@
 > **LEI Nº 4.825, DE 28 DE JULHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre diretrizes para o incentivo à vacinação de animais domésticos e à promoção da saúde animal no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre diretrizes para o incentivo à vacinação de animais domésticos e à promoção da saúde animal no Estado.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

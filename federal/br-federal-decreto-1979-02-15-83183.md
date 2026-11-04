@@ -1,5 +1,3 @@
-###DEC-083183-0-000-15-02-1979@@@
-
 DECRETO Nº 83.183, DE 15 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Odontologia, da Faculdade de Odontologia da Federação de Escolas Superiores do A. B. C., com sede na cidade de São Bernardo do Campo, Estado de São Paulo.

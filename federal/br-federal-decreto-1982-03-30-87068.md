@@ -1,5 +1,3 @@
-###DEC-087068-0-000-30-03-1982@@@
-
 Decreto nº 87.068, de 30 de março de 1982
 
 Autoriza o aumento do Capital Social da Companhia de Navegação Lloyd Brasileiro - LLOYDBRÁS.

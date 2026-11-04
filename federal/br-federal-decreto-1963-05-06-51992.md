@@ -1,5 +1,3 @@
-###DEC-051992-0-000-06-05-1963@@@
-
 DECRETO Nº 51.992, DE 6 DE MAIO DE 1963.
 
 Autoriza o Ministro da Fazenda e o Superintendente do Plano de Valorização Econômica da Amazônia (SPVEA) a dar garantia do Tesouro Nacional a títulos de crédito relativos à aquisição, no exterior do País, de equipamentos e materiais destinados à ampliação do sistema gerador de energia elétrica da emprêsa Fôrça e Luz do Pará S.A.

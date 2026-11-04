@@ -1,5 +1,3 @@
-###DEC-088323-0-000-23-05-1983@@@
-
 Decreto nº 88.323, de 23 de maio de 1983
 
 Dispõe sobre a representação do Tesouro Nacional em assembléias gerais de empresas estatais.

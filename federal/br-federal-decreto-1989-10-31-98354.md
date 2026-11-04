@@ -1,7 +1,3 @@
-1
-
-###DEC-098354-0-000-31-10-1989@@@
-
 DECRETO Nº 98.354, DE 31 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Bacharelado em Ciências Sociais da Faculdade de Filosofia “Bernardo Sayão”, em Anápolis, Estado de Goiás

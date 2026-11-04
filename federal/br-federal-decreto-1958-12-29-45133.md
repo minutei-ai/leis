@@ -1,5 +1,3 @@
-###DEC-045133-0-000-29-12-1958@@@
-
 DECRETO Nº 45.133, DE 29 DE DEZEMBRO DE 1958.
 
 Renova o Decreto nº 39.551, de 12 de julho de 1956.

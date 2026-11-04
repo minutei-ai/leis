@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/350801a6-6ed6-47d0-82c0-58b2fc08a13f/texto#nowhere)
 
-###DEL-001021-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.021, de 21 de Outubro de 1969
 
 Altera o Decreto-lei nº 794, de 27 de agôsto de 1969 e dá outras providências.

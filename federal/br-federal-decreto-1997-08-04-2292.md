@@ -1,5 +1,3 @@
-###DEC-002292-0-000-04-08-1997@@@
-
 DECRETO Nº 2.292, DE 4 DE AGOSTO DE 1997
 
 Incorpora à Tabela de Incidência do Imposto sobre Produtos Industrializados, aprovada pelo Decreto nº 2.092, de 10 de dezembro de 1996, as alterações introduzidas na Nomenclatura Comum do MERCOSUL, pelos Decretos nº 2.135, de 24 de janeiro de 1997, e nº 2.215, de 25 de abril de 1997.

@@ -1,5 +1,3 @@
-###DEC-076143-0-000-21-08-1975@@@
-
 DECRETO Nº 76.143 - DE 21 DE AGOSTO DE 1975
 
 Autoriza o funcionamento da Faculdade de Música "Maestro Julião", com sede na cidade de São Paulo, Estado de São Paulo.

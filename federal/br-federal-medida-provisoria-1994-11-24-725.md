@@ -1,7 +1,3 @@
-1
-
-###MPV-000725-0-000-24-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 725, DE 24 DE NOVEMBRO DE 1994
 
 Dispõe sobre a instituição de crédito fiscal, mediante ressarcimento do valor de contribuições sociais (Pis/ Pasep e Confins) nos casos que especifica, e dá outras providências.

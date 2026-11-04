@@ -1,5 +1,3 @@
-###DEC-076066-0-000-31-07-1975@@@
-
 DECRETO Nº 76.066, DE 31 DE JULHO DE 1975.
 
 Autoriza o funcionamento do curso de Engenharia Civil do Instituto de Engenharia Paulista, mantido pela Sociedade Unificada Paulista de Ensino Renovado Objetivo (SUPERO), com sede na Cidade de São Paulo, Estado de São Paulo.

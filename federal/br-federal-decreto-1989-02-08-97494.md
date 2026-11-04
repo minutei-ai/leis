@@ -1,5 +1,3 @@
-###DEC-097494-0-000-08-02-1989@@@
-
 DECRETO N° 97.494, DE 8 DE FEVEREIRO DE 1989
 
 Autoriza a transferência direta da concessão outorgada à RÁDIODIFUSORA DE JATAÍ LTDA.,  para a FUNDAÇÃO CULTURAL DIVINO ESPÍRITO SANTO DE JATAÍ.

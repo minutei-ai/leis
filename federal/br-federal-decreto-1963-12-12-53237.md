@@ -1,5 +1,3 @@
-###DEC-053237-0-000-12-12-1963@@@
-
 DECRETO Nº 53.237, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Delfino Schenkel Alves a pesquisar água mineral no município de Garça, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001603-0-000-24-08-1995@@@
-
 DECRETO Nº 1.603, DE 24 DE AGOSTO DE 1995.
 
 Delega competência ao Ministro de Estado Chefe do Estado-Maior das Forças Armadas para a prática de ato que menciona.

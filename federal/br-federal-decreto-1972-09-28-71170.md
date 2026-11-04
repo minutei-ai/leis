@@ -1,5 +1,3 @@
-###DEC-071170-0-000-28-09-1972@@@
-
 DECRETO Nº 71.170, DE 28 DE SETEMBRO DE 1972.
 
 Autoriza a Companhia Paulista de Força e Luz a construir subestação, linha de transmissão e dá outras providências.

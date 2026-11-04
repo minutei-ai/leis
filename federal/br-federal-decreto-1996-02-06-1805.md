@@ -1,5 +1,3 @@
-###DEC-001805-0-000-06-02-1996@@@
-
 DECRETO N° 1.805, DE 6 DE FEVEREIRO DE 1996
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica n° 18, entre Brasil, Argentina, Paraguai e Uruguai, de 30 de dezembro de 1994.

@@ -1,5 +1,3 @@
-###DEC-058985-0-000-03-08-1966@@@
-
 DECRETO Nº 58.985, DE 3 DE AGÔSTO DE 1966.
 
 Concede à Ford Motor do Brasil S.A. autorização para continuar a funcionar na República dos Estados Unidos do Brasil.

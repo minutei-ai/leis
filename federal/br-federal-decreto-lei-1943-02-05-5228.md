@@ -1,5 +1,3 @@
-###DEL-005228-0-000-05-02-1943@@@
-
 DECRETO‑LEI N. 5.228 – DE 5 DE FEVEREIRO DE 1943
 
 Regula a arrecadação da Taxa Adicional de 10% sobre as tarifas de transporte das estradas de ferro da União e o serviço de juros e amortização das obrigações ferroviárias

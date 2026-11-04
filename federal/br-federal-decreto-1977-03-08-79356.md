@@ -1,5 +1,3 @@
-###DEC-079356-0-000-08-03-1977@@@
-
 DECRETO Nº 79.356, DE 8 DE MARÇO DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado na cidade de Várzea Grande, Estado de Mato Grosso.

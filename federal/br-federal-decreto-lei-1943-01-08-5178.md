@@ -1,5 +1,3 @@
-###DEL-005178-0-000-08-01-1943@@@
-
 DECRETO‑LEI N. 5.178 – DE 8 DE JANEIRO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 80.645,50 para pagamento de contribuição ao Comité Consultivo Econômico Financeiro Interamericano.

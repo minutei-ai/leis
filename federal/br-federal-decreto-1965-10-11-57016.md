@@ -1,5 +1,3 @@
-###DEC-057016-0-000-11-10-1965@@@
-
 DECRETO Nº 57.016, DE 11 DE OUTUBRO DE 1965.
 
 Outorga à Companhia Hidro Elétrica da Boa Esperança (COHEBE) concessão para o aproveitamento de energia hidráulica e dá outras providências.

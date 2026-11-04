@@ -1,5 +1,3 @@
-###DEC-056814-0-000-31-08-1965@@@
-
 DECRETO Nº 56.814, DE 31 DE AGôSTO DE 1965.
 
 Estabelece providências para que sejam estudadas e propostas as bases para a concessão, no exercício financeiro de 1966, do reajustamento da remuneração dos servidores públicos civis e militares da União.

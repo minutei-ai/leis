@@ -1,5 +1,3 @@
-###DEL-003903-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.903 – DE 5 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de 456:390$0, para pagamento de subvenção

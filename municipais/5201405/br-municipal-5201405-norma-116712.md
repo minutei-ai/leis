@@ -50,7 +50,8 @@ I – Secretário(a) Municipal de Assistência Social, com um respectivo suplent
 
 II – Secretário(a) Municipal de Saúde, com um respectivo suplente;
 
-III – Secretário(a) Municipal de Educação e Cultura, com um respectivo suplente.<br>
+III – Secretário(a) Municipal de Educação e Cultura, com um respectivo suplente.
+
 (Redação alterada pela Lei Ordinária nº 3.350, de 13 de março de 2017).
 
 ~~Art. 4° CAISAN/ Aparecida de Goiânia-GO, será integrada pelos mesmos representantes governamentais titulares e suplentes no COMSAN, das Seguintes Secretarias Municipais:~~
@@ -75,8 +76,10 @@ Art. 7° Este Decreto entra em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA GOIÂNIA, AOS 26 DIAS DO MÊS DE MAIO DO ANO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional

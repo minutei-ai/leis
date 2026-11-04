@@ -1,5 +1,3 @@
-###DEC-054948-0-000-06-11-1964@@@
-
 DECRETO Nº 54.948, DE 6 DE NOVEMBRO DE 1964.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona situado no Município de Cordeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-065169-0-000-16-09-1969@@@
-
 decreto nº 65.169 - de 16 de setembro de 1969.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do propósito nacional que menciona, situado no Estado de Minas Gerais.

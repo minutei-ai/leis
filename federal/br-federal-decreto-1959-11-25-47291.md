@@ -1,5 +1,3 @@
-###DEC-047291-0-000-25-11-1959@@@
-
 DECRETO Nº 47.291, DE 25 DE Novembro DE 1959.
 
 Autoriza o Ministério da Aeronáutica a aceitar a doação de terrenos em Pirapora (MG).

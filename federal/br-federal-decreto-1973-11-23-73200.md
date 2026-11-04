@@ -1,5 +1,3 @@
-###DEC-073200-0-000-23-11-1973@@@
-
 DECRETO Nº 73.200 - DE 23 DE NOVEMBRO DE 1973
 
 Concede à Companhia Agrícola de Minas Gerais - CAMIG, o direito de lavrar calcário no Município de Santa Luzia, Estado de Minas Gerais.

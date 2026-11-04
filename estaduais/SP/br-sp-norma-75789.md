@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/75789)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2008/compilacao-lei-12803-24.01.2008.html)
 
 # LEI N° 12.803, DE 24 DE JANEIRO DE 2008
@@ -9,13 +8,20 @@
 
 ### _Cria 94 cargos de Jornalistas no Quadro da Secretaria da Assembléia Legislativa._
 
-O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 4°, da Constituição do Estado, a seguinte lei:**<br>
-Artigo 1° -** O Quadro da Secretaria da Assembléia Legislativa fica acrescido de 94 (noventa e quatro) cargos de Jornalista, no Subquadro de Cargos em Comissão SQC-I, Escala de Vencimentos Cargos em Comissão.<br>
-**§ 1° -** Os cargos referidos no "caput" serão lotados nos Gabinetes de Deputados na razão de um por Gabinete.<br>
-**§ 2° -** Para provimento nos cargos de que trata esta lei será exigido registro de jornalista profissional no Ministério do Trabalho e Emprego.<br>
-**§ 3° -** As atribuições dos cargos ora criados são aquelas estabelecidas pela legislação federal pertinente.<br>
-**§ 4° -** O Anexo IV - Sub Anexo II - Subquadro de Cargos em Comissão SQC-I, de que trata o artigo 43 da [Resolução n° 776/96](https://www.al.sp.gov.br/norma/10009), fica acrescido dos cargos a que se refere o "caput".<br>
+O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 4°, da Constituição do Estado, a seguinte lei:**
+
+Artigo 1° -** O Quadro da Secretaria da Assembléia Legislativa fica acrescido de 94 (noventa e quatro) cargos de Jornalista, no Subquadro de Cargos em Comissão SQC-I, Escala de Vencimentos Cargos em Comissão.
+
+**§ 1° -** Os cargos referidos no "caput" serão lotados nos Gabinetes de Deputados na razão de um por Gabinete.
+
+**§ 2° -** Para provimento nos cargos de que trata esta lei será exigido registro de jornalista profissional no Ministério do Trabalho e Emprego.
+
+**§ 3° -** As atribuições dos cargos ora criados são aquelas estabelecidas pela legislação federal pertinente.
+
+**§ 4° -** O Anexo IV - Sub Anexo II - Subquadro de Cargos em Comissão SQC-I, de que trata o artigo 43 da [Resolução n° 776/96](https://www.al.sp.gov.br/norma/10009), fica acrescido dos cargos a que se refere o "caput".
+
 **§ 5° -** A remuneração global dos cargos criados por esta lei é de R$ 5.754,79 (cinco mil, setecentos e cinqüenta e quatro reais e setenta e nove centavos), sendo o vencimento de R$ 2.914,96 (dois mil, novecentos e quatorze reais e noventa e seis centavos); a gratificação legislativa de R$ 1.736,70 (um mil, setecentos e trinta e seis reais e setenta centavos) e a gratificação de representação de R$ 1.103,13 (um mil, cento e três reais e treze centavos).
 
 _~~\- Vide [Lei Complementar n° 1.057, de 23/07/2008](https://www.al.sp.gov.br/norma/98599), que determinou reajuste de 5% (cinco por cento), com efeitos a partir de 01/03/2008.~~_
@@ -58,8 +64,12 @@ _\- Vide [Lei Complementar n° 1.431, de 16/07/2025](https://www.al.sp.gov.br/no
 
 **Artigo 2° -** As despesas resultantes da aplicação desta lei correrão à conta da dotação orçamentária própria, suplementada, se necessário.
 
-**Artigo 3° -** Esta lei entra em vigor na data de sua publicação.<br>
-Assembléia Legislativa do Estado de São Paulo, aos 24 de janeiro de 2008.<br>
-**a)** VAZ DE LIMA - Presidente<br>
-Publicada na Secretaria da Assembléia Legislativa do Estado de São Paulo, aos 24 de janeiro de 2008.<br>
+**Artigo 3° -** Esta lei entra em vigor na data de sua publicação.
+
+Assembléia Legislativa do Estado de São Paulo, aos 24 de janeiro de 2008.
+
+**a)** VAZ DE LIMA - Presidente
+
+Publicada na Secretaria da Assembléia Legislativa do Estado de São Paulo, aos 24 de janeiro de 2008.
+
 **a)** Auro Augusto Calimam - Secretário Geral Parlamentar

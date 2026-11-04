@@ -1,5 +1,3 @@
-###DEC-094991-0-000-30-09-1987@@@
-
 DECRETO Nº 94.991, DE 30 DE SETEMBRO DE 1987
 
 Aprova o Programa de Ação Governamental para o período de 1987 a 1991, e dá outras providências.

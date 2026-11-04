@@ -1,5 +1,3 @@
-###DEC-081851-0-000-27-06-1978@@@
-
 Decreto nº 81.851, de 27 de junho de 1978.
 
 Concede à CIPLAN - Indústria e Comércio de Produtos Calcários e de Mármore S.A. o direito de lavrar calcário no Distrito Federal.

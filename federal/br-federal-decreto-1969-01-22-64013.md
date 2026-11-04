@@ -1,5 +1,3 @@
-###DEC-064013-0-000-22-01-1969@@@
-
 DECRETO Nº 64.013, DE 22 DE JANEIRO DE 1969.
 
 Institui, na estrutura do Ministério do Trabalho e Previdência Social, a Coordenação de Relações Públicas.

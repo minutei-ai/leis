@@ -1,5 +1,3 @@
-###DEC-055392-0-000-31-12-1964@@@
-
 DECRETO Nº 55.392, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Companhia de Serviços Elétricos do Rio Grande do Norte a construir linha de transmissão.

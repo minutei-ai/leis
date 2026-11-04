@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208661)<br>
-
 # DECRETO N° 68.004, DE 10 DE OUTUBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, pavimentação de acostamentos, bem como melhoria e implantação de dispositivos de acesso e retorno, no trecho entre os km 94,76m e 124,00m da Rodovia Péricles Bellini, SP-461, nos Municípios de Nhandeara e Votuporanga, e dá providências correlatas._

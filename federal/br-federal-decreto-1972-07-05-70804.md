@@ -1,5 +1,3 @@
-###DEC-070804-0-000-05-07-1972@@@
-
 decreto nº 70.804, de 5 de julho de 1972.
 
 Dispõe sobre a concessão de diárias aos servidores civis em exercício nos Gabinetes Militar e Civil da Presidência da República.
@@ -18,7 +16,25 @@ Art. 4º O ato de concessão das diárias será publicado no Boletim Interno da 
 
 Art. 5º O valor de uma diária completa (alimentação e pousada), será a importância resultante da incidência dos seguintes percentuais sobre o maior salário-mínimo vigente no país, para o servidor no exercício de um dos encargos abaixo:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">I - Suchefe de Gabinete, Assessor-Chefe de Assessoria Especial, Secretário Particular, Secretário de Imprensa, Chefe do Cerimonial, Diretor de Serviços Gerais e Diretor do Expediente até ..................................................................................................</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75%</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">II - Oficiais de Gabinete, Adjuntos, Chefes da Secretária do Gabinete Militar e Chefe da Secretária Administrativa do Gabinete Civil até ..................................................</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60%</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">III - Assessor, Contador, Assistente, Tesoureiro, Secretário de Chefia e Almoxarife até .....................................................................................................................</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50%</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">IV - Secretário, Encarregado, Zelador, Especialista-qualificado, Motorista, Auxiliar e Especialista até</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">...............................................................................................................</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">45%</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">V - Executante até ....................................................................................................</span></p></td><td style="width:31.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40%</span></p></td></tr></tbody></table>
+I - Suchefe de Gabinete, Assessor-Chefe de Assessoria Especial, Secretário Particular, Secretário de Imprensa, Chefe do Cerimonial, Diretor de Serviços Gerais e Diretor do Expediente até ..................................................................................................
+
+75%
+
+II - Oficiais de Gabinete, Adjuntos, Chefes da Secretária do Gabinete Militar e Chefe da Secretária Administrativa do Gabinete Civil até ..................................................
+
+60%
+
+III - Assessor, Contador, Assistente, Tesoureiro, Secretário de Chefia e Almoxarife até .....................................................................................................................
+
+50%
+
+IV - Secretário, Encarregado, Zelador, Especialista-qualificado, Motorista, Auxiliar e Especialista até  ...............................................................................................................
+
+45%
+
+V - Executante até ....................................................................................................
+
+40%
 
 Parágrafo único. Nos cálculos decorrentes da aplicação deste decreto serão desprezadas as frações de cruzeiros.
 

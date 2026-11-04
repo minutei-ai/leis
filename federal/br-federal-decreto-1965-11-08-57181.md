@@ -1,5 +1,3 @@
-###DEC-057181-0-000-08-11-1965@@@
-
 DECRETO Nº 57.181, DE 8 DE NOVEMBRO DE 1965.
 
 Autoriza o Ministério da Fazenda a dar garantia do Tesouro Nacional, diretamente ou por intermédio do Banco Nacional do Desenvolvimento Econômico, à operação de crédito que menciona.

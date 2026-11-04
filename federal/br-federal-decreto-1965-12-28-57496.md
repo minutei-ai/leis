@@ -1,5 +1,3 @@
-###DEC-057496-0-000-28-12-1965@@@
-
 Decreto nº 57.496, de 28 de dezembro de 1965.
 
 Autoriza o cidadão brasileiro João Corrêa a pesquisar calcário, no município de Iporanga, Estado de São Paulo.

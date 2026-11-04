@@ -1,5 +1,3 @@
-###DEC-054114-0-000-12-08-1964@@@
-
 decreto nº 54.114, de 12 de agôsto de 1964.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento, área de terreno situada no Município de Itaporanga, no Estado de Santa Catarina.

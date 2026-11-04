@@ -1,5 +1,3 @@
-###DEC-064417-0-000-28-04-1969@@@
-
 DECRETO Nº 64.417, DE 28 DE ABRIL DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra destinada à construção da subestação de Itapira, no distrito de Itapira, município de Itapira, no Estado de São Paulo.

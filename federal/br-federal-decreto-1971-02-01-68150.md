@@ -1,5 +1,3 @@
-###DEC-068150-0-000-01-02-1971@@@
-
 DECRETO nº 68.150, de 1 de fevereiro de 1971.
 
 Declara caducos os Decretos nº 18.698 de 23 de maio de 1945 e 33.501 de 5 de agosto de 1953.

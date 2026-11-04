@@ -1,5 +1,3 @@
-###DEC-054425-0-000-12-10-1964@@@
-
 Decreto Nº 54.425, DE 12 DE outubro de 1964.
 
 Autoriza o cidadão brasileiro Adonias Martins de Carvalho a pesquisar quartzito no município de Boquira - Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-085830-0-000-20-03-1981@@@
-
 Decreto nº 85.830, de 20 de março de 1981.
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO SOCIEDADE DA BAHlA S.A., para executar serviço de radiodifusão sonora em onda curta na cidade de Salvador, Estado da Bahia.

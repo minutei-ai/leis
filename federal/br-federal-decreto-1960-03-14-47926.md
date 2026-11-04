@@ -1,5 +1,3 @@
-###DEC-047926-0-000-14-03-1960@@@
-
 DECRETO Nº 47.926, DE 14 DE MARÇO DE 1960.
 
 Autoriza a São Paulo Light S.A. Serviços de Eletricidade a ampliar suas instalações.

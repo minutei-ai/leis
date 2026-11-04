@@ -1,5 +1,3 @@
-###DEC-001862-0-000-15-04-1996@@@
-
 DECRETO Nº 1.862, DE 15 DE ABRIL DE 1996
 
 Dispõe sobre a execução, em território nacional, da Resolução nº 1021 (1995) do Conselho de Segurança das Nações Unidas, que trata do levantamento parcial do embargo à exportação de armas e equipamento militar aos Estados que integravam a antiga Iugoslávia.

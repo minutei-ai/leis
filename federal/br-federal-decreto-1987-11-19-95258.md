@@ -1,5 +1,3 @@
-###DEC-095258-0-000-19-11-1987@@@
-
 DECRETO N° 95.258, DE 19 DE NOVEMBRO DE 1987
 
 Renova a concessão outorgada à RÁDIO DIFUSORA SERRA DOS CRISTAIS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cristalina, Estado de Goiás.

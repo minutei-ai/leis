@@ -1,5 +1,3 @@
-###DEL-005419-0-000-22-04-1943@@@
-
 DECRETO‑LEI N. 5.419 – DE 22 DE ABRIL DE 1943
 
 Altera a redacão do artigo 165 do Código de Vencimentos e Vantagens dos Militares da Armada

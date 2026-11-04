@@ -1,5 +1,3 @@
-###DEL-009567-0-000-10-08-1946@@@
-
 DECRETO-LEI N. 9.567 – DE 10 DE AGÔSTO DE 1946
 
 Dispõe sôbre aposentadoria do funcionário que menciona

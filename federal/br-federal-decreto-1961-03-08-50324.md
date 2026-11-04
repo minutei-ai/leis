@@ -1,5 +1,3 @@
-###DEC-050324-0-000-08-03-1961@@@
-
 DECRETO Nº 50.324, DE 8 DE MARÇO DE 1961.
 
 Institui Grupo de Trabalho para o fim que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-061561-0-000-18-10-1967@@@
-
 DECRETO Nº 61.561, DE 18 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, necessários ao Ministério do Exército.

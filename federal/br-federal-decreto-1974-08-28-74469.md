@@ -1,5 +1,3 @@
-###DEC-074469-0-000-28-08-1974@@@
-
 DECRETO Nº 74.469, DE 28 DE AGOSTO DE 1974.
 
 Concede reconhecimento à Faculdade de Ciências Jurídicas e Sociais "Vianna Júnior" , mantida pelo Instituto "Vianna Júnior", com sede na cidade de Juiz de Fora, Estado de Minas Gerais.

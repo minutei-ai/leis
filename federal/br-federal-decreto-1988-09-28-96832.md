@@ -1,5 +1,3 @@
-###DEC-096832-0-000-28-09-1988@@@
-
 # DECRETO Nº 96.832, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à Rádio 710 de Bauru Ltda. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Bauru, Estado de São Paulo.

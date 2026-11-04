@@ -1,5 +1,3 @@
-###DEL-008050-0-000-18-10-1945@@@
-
 DECRETO-LEI N. 8.050 – DE 18 DE OUTUBRO DE 1945
 
 Extingue as Coletorias Federais em Mossoró e Canguaretama, no Estado do Rio Grande do Norte; cria em substituição, as Mesas de Rendas de 1ª Ordem  em Mossoró e de 2ª' Ordem em Canguaretama, e dá outras  providências.

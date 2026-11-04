@@ -1,5 +1,3 @@
-###DEC-094105-0-000-17-03-1987@@@
-
 DECRETO N° 94.105, DE 17 DE MARÇO DE 1987
 
 Altera o Decreto n° 93.881 de 23 de dezembro de 1986, que dispõe sobre o Conselho Nacional de Cinema - CONCINE.

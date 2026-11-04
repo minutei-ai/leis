@@ -1,5 +1,3 @@
-###DEC-007587-0-000-21-10-2011-PUB-01@@@
-
 DECRETO Nº 7.587, DE 21 DE OUTUBRO DE 2011
 
 Altera o Anexo ao Decreto nº 7.467, de 28 de abril de 2011, que distribui os efetivos de oficiais da Marinha em tempo de paz para o ano de 2011.

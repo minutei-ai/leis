@@ -1,5 +1,3 @@
-###DEC-054930-0-000-04-11-1964@@@
-
 DECRETO Nº 54.930, DE 4 DE NOVEMBRO DE 1964.
 
 Concede reconhecimento à Escola de Enfermagem “Lauriston Job Lane”, da Sociedade Hospital Samaritano de São Paulo.

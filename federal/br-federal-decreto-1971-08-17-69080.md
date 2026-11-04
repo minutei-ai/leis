@@ -1,5 +1,3 @@
-###DEC-069080-0-000-17-08-1971@@@
-
 DECRETO Nº 69.080, DE 17 DE AGôSTO DE 1971.
 
 Declara de utilidade pública a Associação do Instituto Vocacional e Assistencial Rui Barbosa, com sede em Marechal Cândido Rondon, Estado do Paraná.

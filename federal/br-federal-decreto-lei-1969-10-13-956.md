@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/579b8c22-cf19-4d44-9131-6a179062fa31/texto#nowhere)
 
-###DEL-000956-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 956, DE 13 DE OUTUBRO DE 1969
 
 Dispõe sôbre aposentadoria dos servidores públicos e autárquicos cedidos à Rede Ferroviária Federal S.A., bem como dos seus empregados em regime especial e dá outras providências.

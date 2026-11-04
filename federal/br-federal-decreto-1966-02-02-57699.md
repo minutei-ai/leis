@@ -1,5 +1,3 @@
-###DEC-057699-0-000-02-02-1966@@@
-
 Decreto nº 57.699, de 2 de fevereiro de 1966.
 
 Abre ao Poder Judiciário - Tribunal Superior Eleitoral, o crédito especial de Cr$5.422.893,50, para o fim que especifica.
@@ -17,8 +15,6 @@ Brasília, 2 de fevereiro de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Octávio Gouveia de Bulhões
-
-###DEC-057699-0-000-02-02-1966@@@RET01+++
 
 DECRETO Nº 57.699, de 2 de fevereiro de 1966.
 

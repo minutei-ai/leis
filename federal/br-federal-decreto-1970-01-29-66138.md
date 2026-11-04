@@ -1,5 +1,3 @@
-###DEC-066138-0-000-29-01-1970@@@
-
 DECRETO Nº 66.138 - DE 29 DE JANEIRO DE 1970
 
 Transfere as concessões cutorgadas à Companhia Telefônica do Carmo do Paranaíba, Companhia Telefônico de Franca e Companhia Telefônica ou Intermunicipal para a Companhia Telefônica Brasil Central.

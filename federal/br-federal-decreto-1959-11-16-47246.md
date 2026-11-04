@@ -1,5 +1,3 @@
-###DEC-047246-0-000-16-11-1959@@@
-
 DECRETO Nº 47.246, DE 16 DE NOVEMBRO DE 1959.
 
 Concede reconhecimento ao Curso de Enfermagem da Escola de Enfermagem “Madre Justina Inês”.

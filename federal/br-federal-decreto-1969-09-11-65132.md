@@ -1,5 +1,3 @@
-###DEC-065132-0-000-11-09-1969@@@
-
 DECRETO Nº 65.132 - DE 11 DE SETEMBRO DE 1969.
 
 Acrescenta a letra "e" ao art. 1º, do Decreto nº 57.814, de 15 de fevereiro de 1966, que fixa a composição da Delegação Brasileira na Comissão Mista Executora do Acôrdo Brasil-Estados Unidos sôbre Serviços Cartográficos.

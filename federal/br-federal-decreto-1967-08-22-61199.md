@@ -1,5 +1,3 @@
-###DEC-061199-0-000-22-08-1967@@@
-
 DECRETO Nº 61.199, DE 22 DE AGÔSTO DE 1967.
 
 Dá nova redação à alínea 2 do art. 6º do Decreto nº 1966, que regulamentou a Lei de Promoções dos Oficiais da Ativa da Aeronáutica.

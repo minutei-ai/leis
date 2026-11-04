@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 2.982, DE 12 DE SETEMBRO DE 2011.<br>
+LEI MUNICIPAL Nº 2.982, DE 12 DE SETEMBRO DE 2011.
+
 (Revogada Pela Lei Ordinária nº 3.576, de 18 de setembro de 2020).
 
 ~~Desafeta e autoriza doar imóvel situado no loteamento Jardim Maranata, neste Município, para a ASSOCIAÇÃO COMUNIDADE LUZ DA VIDA e dá outras providências.~~
@@ -23,8 +24,10 @@ LEI MUNICIPAL Nº 2.982, DE 12 DE SETEMBRO DE 2011.<br>
 
  
 
-~~Luiz Alberto Maguito Vilela~~<br>
+~~Luiz Alberto Maguito Vilela~~
+
 ~~Prefeito Municipal~~
 
-~~Eli de Faria~~<br>
+~~Eli de Faria~~
+
 ~~Secretário Executivo~~

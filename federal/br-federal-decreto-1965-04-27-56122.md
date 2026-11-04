@@ -1,5 +1,3 @@
-###DEC-056122-0-000-27-04-1965@@@
-
 DECRETO Nº 56.122, DE 27 DE ABRIL DE 1965.
 
 Aprova o Regulamento do Conselho Nacional de Pesquisas.

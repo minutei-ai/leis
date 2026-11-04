@@ -1,5 +1,3 @@
-###DEC-045122-0-000-29-12-1958@@@
-
 DECRETO Nº 45.122, 29 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Theophilo Badin, a pesquisar outro aluvionar e associados, no município de Rio das Contas, Estados da Bahia.

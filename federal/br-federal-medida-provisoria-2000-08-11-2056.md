@@ -1,5 +1,3 @@
-###MPV-002056-0-000-11-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.056, DE 11 DE AGOSTO DE 2000.
 
 Altera o art. 10 da Lei nº 9.478, de 6 de agosto de 1997, que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo, e acresce dispositivos ao art. 10 da Lei nº 9.847, de 26 de outubro de 1999, que dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional de combustíveis e estabelece sanções administrativas.

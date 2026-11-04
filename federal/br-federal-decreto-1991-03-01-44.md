@@ -1,5 +1,3 @@
-###DEC-000044-0-000-01-03-1991@@@
-
 DECRETO Nº 44, DE 1º DE MARÇO DE 1991.
 
 Dá nova redação aos arts. 6º, 9º e 15 do Estatuto da Fundação Habitacional do Exército - FHE, aprovado pelo Decreto nº 98.044, de 14 de agosto de 1989.

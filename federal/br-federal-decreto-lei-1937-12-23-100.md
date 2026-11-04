@@ -1,5 +1,3 @@
-###DEL-000100-0-000-23-12-1937@@@
-
 DECRETO-LEI N. 100 – DE 23 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de 61.256:272$500 às verbas que especifíca

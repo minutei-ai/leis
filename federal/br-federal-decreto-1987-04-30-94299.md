@@ -1,5 +1,3 @@
-###DEC-094299-0-000-30-04-1987@@@
-
 DECRETO Nº 94.299, DE 30 DE ABRIL DE 1987.
 
 Renova a concessão outorgada a RÁDIO EDUCADORA DE UBERLÂNDIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Uberlândia, estado de Minas Gerais.

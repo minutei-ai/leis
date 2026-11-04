@@ -1,14 +1,12 @@
-###DEC-038843-0-000-12-03-1956@@@
+**DECRETO Nº 38.843, DE 12 DE MARÇO DE 1956.**
 
-<strong>DECRETO Nº 38.843, DE 12 DE MARÇO DE 1956.</strong>
+***Dá nova redação ao art. 17 do Regimento do Departamento Nacional do Trabalho.***
 
-<em><strong>Dá nova redação ao art. 17 do Regimento do Departamento Nacional do Trabalho.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 17 do Regimento do Departamento Nacional do Trabalho aprovado pelo Decreto nº 13.001 de 27 julho de 1943, passa ater a seguinte redação:
+**Art**. 1º O art. 17 do Regimento do Departamento Nacional do Trabalho aprovado pelo Decreto nº 13.001 de 27 julho de 1943, passa ater a seguinte redação:
 
 “Art. 17.À.S.A S., compete:
 
@@ -38,10 +36,10 @@ XII - Dar conhecimento ao órgão de classe do resuldado das fiscalizações esp
 
 XIII - São considerados agentes fiscalizadores para aplicação da presente competência da S.A.S. os Assistentes Sindicais, Inspetores do Trabalho e Fiscais do Trabalho, lotados na Divisão de Organização e Assistência Sindical".
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 12 de março de 1956; 135º da Independência e 38º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Parsifal Barroso

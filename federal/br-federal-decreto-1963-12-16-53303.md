@@ -1,5 +1,3 @@
-###DEC-053303-0-000-16-12-1963@@@
-
 DECRETO nº 53.303, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Ildeu Van Der Maas a pesquisar pedras coradas, no município de Carlos Chagas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183208)
-
 # DECRETO Nº 62.829, DE 15 DE SETEMBRO DE 2017
 
 ### _Declara de utilidade pública para fins de desapropriação pela Concessionária RODOVIAS DO TIETÊ S.A., os imóveis necessários às obras de implantação da marginal na Rodovia Jornalista Francisco Aguirre Proença, SP-101, do km 13+000m ao km 13+500m, oeste, Município de Hortolândia, Comarca de Sumaré, no trecho que especifica e dá providências correlatas_
@@ -36,8 +34,12 @@ Palácio dos Bandeirantes, 15 de setembro de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 15 de setembro de 2017.

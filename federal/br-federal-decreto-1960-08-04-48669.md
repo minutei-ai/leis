@@ -1,5 +1,3 @@
-###DEC-048669-0-000-04-08-1960@@@
-
 DECRETO N. 48.669 – DE 4 DE AGÔSTO  DE 1960
 
 Autoriza a Walter Rocha Cardoso a comprar pedras preciosas.

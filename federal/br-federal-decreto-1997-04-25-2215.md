@@ -1,5 +1,3 @@
-###DEC-002215-0-000-25-04-1997@@@
-
 DECRETO Nº 2.215, DE 25 DE ABRIL DE 1997
 
 Altera a Nomenclatura Comum do MERCOSUL e as alíquotas do imposto de importação da Tarifa Externa Comum - TEC, anexa ao Decreto nº 1.767, de 28 de dezembro de 1995, e inclui código tarifário na Lista Básica de Exceções à TEC.

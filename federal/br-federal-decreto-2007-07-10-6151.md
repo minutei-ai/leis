@@ -1,5 +1,3 @@
-###DEC-006151-0-000-10-07-2007@@@
-
 DECRETO Nº 6.151, DE 10 DE JULHO DE 2007.
 
 Dá nova redação ao art. 5º do Decreto nº 6.041, de 8 de fevereiro de 2007, que institui a Política de Desenvolvimento da Biotecnologia e cria o Comitê Nacional de Biotecnologia.
@@ -31,5 +29,3 @@ Brasília, 10 de julho de 2007; 186º da Independência e 119º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 11.7.2007

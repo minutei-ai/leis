@@ -1,5 +1,3 @@
-###DEL-009345-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.345 – DE 10 DE JUNHO DE 1946
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 3.733.809,20 para pagamento de notas de papel-moeda

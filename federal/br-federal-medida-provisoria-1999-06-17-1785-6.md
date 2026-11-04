@@ -1,5 +1,3 @@
-###MPV-001785-0-006-17-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.785-6, DE 17 DE JUNHO DE 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Previdência e Assistência Social, crédito extraordinário no valor de R$2.932.395.868,00, para os fins que especifica.

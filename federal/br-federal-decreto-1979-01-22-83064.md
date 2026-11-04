@@ -1,5 +1,3 @@
-###DEC-083064-0-000-22-01-1979@@@
-
 DECRETO Nº 83.064, DE 22 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Pedagogia, ministrado pela Faculdade de Estudos Sociais Aplicados de Aracaju, com sede na cidade de Aracaju, Estado do Sergipe.

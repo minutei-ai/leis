@@ -1,7 +1,3 @@
-1
-
-###DEC-002031-0-000-11-10-1996@@@
-
 DECRETO Nº 2.031, DE 11 DE OUTUBRO DE 1996.
 
 Dispõe sobre a contratação dos serviços de vigilância e de limpeza e conservação no âmbito da Administração Pública Federal direta, autárquica e fundacional.

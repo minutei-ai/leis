@@ -1,5 +1,3 @@
-###DEC-099556-0-000-01-10-1990@@@
-
 DECRETO N° 99.556, DE 1° DE OUTUBRO DE 1990
 
 Dispõe sobre a proteção das cavidades naturais subterrâneas existentes no território nacional, e dá outras providências.

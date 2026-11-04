@@ -1,5 +1,3 @@
-###MPV-002137-0-005-24-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.137‑5, DE 24 DE MAIO DE 2001.
 
 Acresce e altera dispositivos da Lei nº 8.974, de 5 de janeiro de 1995, e dá outras providências.

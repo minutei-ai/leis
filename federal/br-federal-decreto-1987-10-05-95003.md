@@ -1,5 +1,3 @@
-###DEC-095003-0-000-05-10-1987@@@
-
 DECRETO Nº 95.003, DE 5 DE OUTUBRO DE 1987
 
 Prorroga a vigência do Decreto nº 93.594, de 19 de novembro de 1986, e dá outras providências.

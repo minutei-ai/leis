@@ -1,5 +1,3 @@
-###DEC-085994-0-000-13-05-1981@@@
-
 Decreto nº 85.994, de 13 de maio de 1981.
 
 Concede à Caraíba Metais S/A Indústria e Comércio autorização para proceder a aumento do seu capital autorizado.

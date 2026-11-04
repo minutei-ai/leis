@@ -1,7 +1,3 @@
-1
-
-###DEC-095897-0-000-05-04-1988@@@
-
 # DECRETO N° 95.897, DE 5 DE ABRIL DE 1988
 
 Autoriza o funcionamento da habilitação Comércio Exterior do curso de Administração das Faculdades Integradas Ibirapuera, São Paulo.

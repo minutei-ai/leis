@@ -1,5 +1,3 @@
-###DEC-004079-0-000-09-01-2002@@@
-
 DECRETO Nº 4.079, DE 9 DE JANEIRO DE 2002.
 
 Altera dispositivos do Regulamento da Previdência Social, aprovado pelo Decreto n~~º~~ 3.048, de 6 de maio de 1999.

@@ -1,5 +1,3 @@
-###DEC-081707-0-000-22-05-1978@@@
-
 Decreto nº 81 707, de 22 de maio de 1978.
 
 Autoriza o Serviço de Patrimônio da União a transferir para a Empresa Brasileira de Radiodifusão - RADIOBRÁS imóvel que menciona.

@@ -1,5 +1,3 @@
-###DEC-078531-0-000-04-10-1976@@@
-
 Decreto nº 78.531, de 4 de outubro de 1976.
 
 Concede reconhecimento à Universidade Estadual de Campinas, com sede na cidade de Campinas, Estado de São Paulo.

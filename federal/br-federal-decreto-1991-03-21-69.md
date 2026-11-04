@@ -1,5 +1,3 @@
-###DEC-000069-0-000-21-03-1991@@@
-
 DECRETO N° 69, DE 21 DE MARÇO DE 1991
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo Comercial n° 5, no Setor da Indústria Química, entre o Brasil, a Argentina e o México.

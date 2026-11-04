@@ -1,5 +1,3 @@
-###DEC-064955-0-000-07-08-1969@@@
-
 DECRETO Nº 64.955 - DE 7 DE AGôSTO DE 1969.
 
 Dispõe sobre a aplicação a servidores da extinta Comissão do Imposto Sindical, do disposto nas Leis nºs 4.491, de 21 de novembro de 1964 e no Decreto nº 55.244, de 21 de dezembro de 1964.

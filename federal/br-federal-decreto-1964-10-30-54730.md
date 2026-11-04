@@ -1,5 +1,3 @@
-###DEC-054730-0-000-30-10-1964@@@
-
 DECRETO Nº 54.730, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro David Paulo Dana a lavrar diamante e ouro no município de Itupiranga, Estado do Pará.
@@ -29,8 +27,6 @@ Brasília, 30 de outubro de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-054730-0-000-30-10-1964@@@RET01+++
 
 DECRETO Nº 54.730, DE 30 DE OUTUBRO DE 1964.
 

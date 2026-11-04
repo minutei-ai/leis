@@ -1,5 +1,3 @@
-###DEC-053428-0-000-20-01-1964@@@
-
 DECRETO Nº 53.428, de 20 de janeiro de 1964.
 
 Autoriza São Carlos Minérios S. A. a pesquisar minérios de ferro, de manganês, dolomita e ouro no município de Barão de Cocais, Estado de Minas Gerais.

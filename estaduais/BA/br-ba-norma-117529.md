@@ -1,7 +1,9 @@
 LEI Nº 4.852 DE 05 DE ABRIL DE 1989
 
-Ver também:<br>
-Lei nº [12.629](https://www.legislabahia.ba.gov.br/documentos/lei-no-12629-de-04-de-janeiro-de-2013#LO%2012.629) de 04 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade do Velho Chico, na forma da Lei 12.057/2011, a saber: Barra, Bom Jesus da Lapa, Carinhanha, Feira da Mata, Ibotirama, Igaporã, Malhada, Matina, Morpará, Muquém do São Francisco, Oliveira dos Brejinhos, Paratinga, Riacho de Santana, Serra do Ramalho e Sítio do Mato.<br>
+Ver também:
+
+Lei nº [12.629](https://www.legislabahia.ba.gov.br/documentos/lei-no-12629-de-04-de-janeiro-de-2013#LO%2012.629) de 04 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade do Velho Chico, na forma da Lei 12.057/2011, a saber: Barra, Bom Jesus da Lapa, Carinhanha, Feira da Mata, Ibotirama, Igaporã, Malhada, Matina, Morpará, Muquém do São Francisco, Oliveira dos Brejinhos, Paratinga, Riacho de Santana, Serra do Ramalho e Sítio do Mato.
+
 [Lei nº 6.323, de 19 de setembro de 1991](https://www.legislabahia.ba.gov.br/documentos/lei-no-6323-de-19-de-setembro-de-1991#LO_6_323) \- Define os limites do Município de Igaporã com o Município de Matina, e redefine os limites do Município de Igaporã com o Município de Riacho de Santana, por força da criação do Município de Matina, pela Lei nº 4.852, de 05 de abril de 1989, desmembrado, exclusivamente, do Município de Riacho de Santana.
 
 Cria o Município de Matina, desmembrado do Município de Riacho de Santana.

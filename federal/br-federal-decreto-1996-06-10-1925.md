@@ -1,5 +1,3 @@
-###DEC-001925-0-000-10-06-1996@@@
-
 DECRETO Nº 1.925, DE 10 DE JUNHO DE 1996
 
 Promulga a Convenção Interamericana sobre Prova de Informação acerca do Direito Estrangeiro, concluída em Montevidéu, Uruguai, em 8 de maio de 1979.

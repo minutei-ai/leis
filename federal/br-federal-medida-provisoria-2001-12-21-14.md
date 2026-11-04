@@ -1,5 +1,3 @@
-###MPV-000014-0-000-21-12-2001@@@
-
 MEDIDA PROVISÓRIA Nº 14, DE 21 DE DEZEMBRO DE 2001.
 
 Dispõe sobre a expansão da oferta de energia emergencial e dá outras providências.
@@ -94,10 +92,8 @@ VIII - a homologação da recomposição tarifária extraordinária estará cond
 
 Art. 5o Não se aplicam as vedações constantes do art. 39 da Lei no 4.131, de 3 de setembro de 1962, às entidades oficiais de crédito público da União na concessão de financiamentos destinados, conforme as regras a serem fixadas pela GCE, a suprir a insuficiência de recursos, objeto da recomposição tarifária extraordinária de que trata o art. 4o desta Medida Provisória, das concessionárias de serviços públicos de distribuição de energia elétrica e das empresas signatárias de contratos iniciais e equivalentes, assim reconhecidos em resolução da ANEEL.
 
-<br>
 § 1o O Banco Nacional de Desenvolvimento Econômico e Social - BNDES, por solicitação da GCE, instituirá programa, com caráter emergencial e excepcional, de apoio a concessionárias de serviços públicos de distribuição, geração e produtores independentes de energia elétrica, signatários dos contratos iniciais e equivalentes, assim reconhecidos em resolução da ANEEL.
 
-<br>
 § 2o Caso instituído, o programa a que se refere o § 1o observará as diretrizes fixadas pela GCE, sendo as demais condições estabelecidas pelo BNDES.
 
 § 3o Fica autorizada a instituição de programa de financiamento destinado a suprir insuficiência de recursos a ser recuperada por meio do disposto no art. 6o, de acordo com diretrizes fixadas em ato da GCE.
@@ -148,10 +144,14 @@ Art. 14. Esta Medida Provisória entra em vigor na data de sua publicação.
 
 Brasília, 21 de dezembro de 2001; 180o da Independência e 113o da República.
 
-FERNANDO HENRIQUE CARDOSO<br>
-Amaury Guilherme Bier<br>
-Sérgio Silva do Amaral<br>
-José Jorge<br>
+FERNANDO HENRIQUE CARDOSO
+
+Amaury Guilherme Bier
+
+Sérgio Silva do Amaral
+
+José Jorge
+
 Pedro Parente
 
 # retificação

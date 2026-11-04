@@ -1,5 +1,3 @@
-###DEC-003741-0-000-31-01-2001@@@
-
 DECRETO Nº 3.741, DE 31 DE JANEIRO DE 2001
 
 Altera a redação do art. 5º do Decreto nº 2.406, de 27 de novembro de 1997, que regulamenta a Lei nº 8.948, de 8 de dezembro de 1994.

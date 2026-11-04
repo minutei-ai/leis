@@ -1,5 +1,3 @@
-###DEL-006708-0-000-18-07-1944@@@
-
 DECRETO-LEI N. 6.708 – DE 18 DE JULHO DE 1944
 
 Regula a situação de praças desertoras das fileiras do Exército

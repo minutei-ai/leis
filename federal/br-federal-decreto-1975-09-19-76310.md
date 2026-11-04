@@ -1,5 +1,3 @@
-###DEC-076310-0-000-19-09-1975@@@
-
 DECRETO Nº 76.310 - DE 19 DE SETEMBRO DE 1975
 
 Altera a redação do artigo 2º do Decreto nº 75.737, de 19 de maio de 1975, que declara de utilidade pública, para fins de desapropriação, terrenos e benfeitorias necessárias, à construção da subestação denominada "Água Grande II", no Bairro de Cordovil, Cidade do Rio de Janeiro.

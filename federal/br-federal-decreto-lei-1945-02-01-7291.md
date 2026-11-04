@@ -1,5 +1,3 @@
-###DEL-007291-0-000-01-02-1945@@@
-
 DECRETO-LEI N. 7.291 – DE 1 DE FEVEREIRO DE 1945
 
 Dá nova redação ao art. 3º do Decreto-lei nº 4.937, de 9 de novembro de 1942

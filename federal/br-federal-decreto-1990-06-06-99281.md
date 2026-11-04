@@ -1,7 +1,3 @@
-1
-
-###DEC-099281-0-000-06-06-1990@@@
-
 DECRETO N° 99.281, DE 6 DE JUNHO DE 1990
 
 Altera dispositivos do Decreto n° 93.303 de 26 de setembro de 1986, que regulamenta, para a Marinha, a Lei n° 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da ativa das Forças Armadas.

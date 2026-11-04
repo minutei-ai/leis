@@ -1,5 +1,3 @@
-###DEC-097220-0-000-14-12-1988@@@
-
 DECRETO Nº 97.220, DE 14 DE DEZEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Educação de Taquara, Estado do Rio Grande do Sul.

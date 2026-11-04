@@ -1,5 +1,3 @@
-###DEC-005180-0-000-13-08-2004@@@
-
 DECRETO Nº 5.180 DE 13 DE AGOSTO DE 2004
 
 Altera dispositivo do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999, e dá outras providências.        

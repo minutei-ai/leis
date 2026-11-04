@@ -1,5 +1,3 @@
-###DEC-004923-0-000-18-12-2003@@@
-
 DECRETO Nº 4.923 DE 18 DE DEZEMBRO DE 2003.
 
 Dispõe sobre o Conselho de Transparência Pública e Combate à Corrupção, e dá outras providências.

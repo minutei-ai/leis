@@ -1,5 +1,3 @@
-###DEC-070439-0-000-19-04-1972@@@
-
 DECRETO Nº 70.439, DE 19 DE ABRIL DE 1972.
 
 Declara de utilidade pública o Instituto São Vicente de Paulo, com sede no Estado da Guanabara.

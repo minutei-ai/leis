@@ -1,14 +1,12 @@
-###LEI-000587-0-000-23-12-1948@@@
+**LEI N. 587 – DE 23 DE DEZEMBRO DE 1948**
 
-<strong>LEI N. 587 – DE 23 DE DEZEMBRO DE 1948</strong>
-
-<em><strong>Autoriza a abertura pelo Ministério da Educação e Saúde, de crédito especial para ocorrer Cs despesas que menciona.</strong></em>
+***Autoriza a abertura pelo Ministério da Educação e Saúde, de crédito especial para ocorrer Cs despesas que menciona.***
 
 O Presidente da Republica:
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-<strong>Art.</strong> 1º É o Poder Executivo autorizado a abrir  pelo Ministério da Educação e Saúde o credito especial de oito milhões , trezentos e oitenta e dois mil , quinhentos e quatorze cruzeiros sessenta centavos (Cr$...8.382.514,60) para atender ao pagamento de despesas realizadas em 1947 na conformidade da discriminação abaixo :
+**Art.** 1º É o Poder Executivo autorizado a abrir  pelo Ministério da Educação e Saúde o credito especial de oito milhões , trezentos e oitenta e dois mil , quinhentos e quatorze cruzeiros sessenta centavos (Cr$...8.382.514,60) para atender ao pagamento de despesas realizadas em 1947 na conformidade da discriminação abaixo :
 
 Material                                                                                                                                            Cr$
 
@@ -44,11 +42,11 @@ f) Cotas da União para prosseguimento dos serviços de pesquisas e outros sôbr
 
   Total......................................................................................................................................382.514,60
 
-<strong>Art.</strong> 2º Revogam-se as disposições em contrário.
+**Art.** 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de dezembro de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani
 

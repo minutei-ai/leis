@@ -1,5 +1,3 @@
-###DEC-047763-0-000-05-02-1960@@@
-
 DECRETO N. 47.763 – DE 5 DE FEVEREIRO DE 1960
 
 Dá denominação à Rodovia Belém-Brasília

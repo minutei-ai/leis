@@ -1,7 +1,3 @@
-1
-
-###DEC-001431-0-000-30-03-1995@@@
-
 DECRETO Nº 1.431, DE 30 DE AGOSTO DE 1995
 
 Dispõe sobre a transformação de Grande Comando no Ministério do Exército e dá outras providências.

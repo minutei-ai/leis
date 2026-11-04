@@ -1,5 +1,3 @@
-###DEC-083365-0-000-23-04-1979@@@
-
 decreto nº 83.365, de 23 de abril de 1979.
 
 Concede reconhecimento à habilitação em Português-Francês, do curso de Letras, da Faculdade de Filosofia, Ciências e Letras de Governador Valadares, em Governador Valadares, Minas Gerais.

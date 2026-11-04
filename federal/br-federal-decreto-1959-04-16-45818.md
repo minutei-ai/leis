@@ -1,5 +1,3 @@
-###DEC-045818-0-000-16-04-1959@@@
-
 DECRETO Nº 45.818, DE 16 DE ABRIL DE 1959.
 
 Autoriza a Rádio Difusora de Cuiabá Limitada a alterar seu contrato social.
@@ -12,11 +10,19 @@ Art. 1º Fica a Rádio Difusora de Cuiabá Limitada autorizada a alterar seu con
 
 a) transferir de:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Iraci Pereira ...................................................................................................................... 395 cotas</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Omar Pereira Barbosa .......................................................................................................... 5 cotas</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Total ............................................................................................................................. 400 cotas</span></p></td></tr></tbody></table>
+Iraci Pereira ...................................................................................................................... 395 cotas
+
+Omar Pereira Barbosa .......................................................................................................... 5 cotas
+
+Total ............................................................................................................................. 400 cotas
 
 Para:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dom Fernando Gomes ..................................................................................................... 395 cotas</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Monsenhor Antônio Ribeiro de Oliveira ................................................................................ 5 cotas</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Total ............................................................................................................................ 400 cotas</span></p></td></tr></tbody></table>
+Dom Fernando Gomes ..................................................................................................... 395 cotas
+
+Monsenhor Antônio Ribeiro de Oliveira ................................................................................ 5 cotas
+
+Total ............................................................................................................................ 400 cotas
 
 b) alterar sua razão social, passando a denominar-se Rádio Difusora de Goiânia Limitada; e
 

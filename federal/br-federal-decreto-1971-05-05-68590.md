@@ -1,5 +1,3 @@
-###DEC-068590-0-000-05-05-1971@@@
-
 DECRETO Nº 68.590 - DE 5 DE MAIO DE 1971.
 
 Altera a redação do artigo 1º do Decreto nº 64.288, de 31 de março de 1969.

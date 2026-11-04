@@ -1,5 +1,3 @@
-###DEL-005709-0-000-29-07-1943@@@
-
 DECRETO‑LEI N. 5.709 – DE 29 DE JULHO DE 1943
 
 Dispõe sôbre o recolhimento ao Banco do Brasil S.A. da renda de explo­ração da Administração do Pôrto do Rio de Janeiro

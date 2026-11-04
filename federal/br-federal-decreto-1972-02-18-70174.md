@@ -1,5 +1,3 @@
-###DEC-070174-0-000-18-02-1972@@@
-
 DECRETO Nº 70.174, DE 18 DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública a Obra Social Leste-Um "O Sol'', com sede no Estado da Guanabara.

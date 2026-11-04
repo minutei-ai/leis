@@ -1,5 +1,3 @@
-###DEC-073947-0-000-16-04-1974@@@
-
 DECRETO Nº 73.947, DE 16 DE ABRIL DE 1974.
 
 Retifica aproveitamento de disponível no Quadro de Pessoal do Ministério da Fazenda.

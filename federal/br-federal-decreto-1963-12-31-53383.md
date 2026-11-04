@@ -1,5 +1,3 @@
-###DEC-053383-0-000-31-12-1963@@@
-
 DECRETO Nº 53.383, DE 31 DE DEZEMBRO DE 1963.
 
 Altera o art. 58 do Regulamento para o Corpo do Pessoal Subalterno da Armada.

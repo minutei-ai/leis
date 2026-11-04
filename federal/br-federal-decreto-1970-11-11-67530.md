@@ -1,5 +1,3 @@
-###DEC-067530-0-000-11-11-1970@@@
-
 Decreto nº 67.530, de 11 de novembro de 1970.
 
 Concede reconhecimento ao Curso de Agronomia da Faculdade de Medicina Veterinária e Agronomia de Jaboticabal, no Estado de São Paulo.

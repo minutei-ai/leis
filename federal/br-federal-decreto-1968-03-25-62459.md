@@ -1,5 +1,3 @@
-###DEC-062459-0-000-25-03-1968@@@
-
 DECRETO Nº 62.459, DE 25 DE MARÇO DE 1968.
 
 Delega competência para aprovação dos Regimentos Internos dos órgãos da Administração Direta.

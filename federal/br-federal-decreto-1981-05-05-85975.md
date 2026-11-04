@@ -1,5 +1,3 @@
-###DEC-085975-0-000-05-05-1981@@@
-
 Decreto nº 85.975, de 05 de maio de 1981
 
 Autoriza o funcionamento do curso Emergencial para Graduação de Professores da Parte de Formação Especial do Currículo do Ensino de 2º Grau, da Universidade Federal de Mato Grosso, com sede na cidade de Cuiabá, Estado de Mato Grosso.

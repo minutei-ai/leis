@@ -1,5 +1,3 @@
-###DEC-069606-0-000-25-11-1971@@@
-
 decreto nº 69.606 - de 25 de novembro de 1971
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Aeronáutica.

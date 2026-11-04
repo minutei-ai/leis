@@ -1,5 +1,3 @@
-###DEC-069216-0-000-17-09-1971@@@
-
 DECRETO Nº 69.216, DE 17 DE SETEMBRO DE 1971.
 
 Concede permissão, em caráter permanente, à Cia. Indústrias Brasileiras Portela, para funcionar aos domingos e nos dias feriados civis e religiosos.

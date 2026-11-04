@@ -1,5 +1,3 @@
-###DEC-049508-0-000-12-12-1960@@@
-
 DECRETO Nº 49.508, DE 12 DE Dezembro DE 1960.
 
 Vincula recursos do Fundo Federal de Eletrificação e dá outras providências.
@@ -14,7 +12,27 @@ Art. 2º Fica o Banco Nacional do Desenvolvimento Econômico autorizado, como ag
 
 Parágrafo único. O esquema de integralização das ações a serem subscritas na forma dêste artigo será:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:18.5pt"><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr style="height:18.4pt"><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1961 - .............................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>130.000.000,00</span></p></td></tr><tr style="height:18.4pt"><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1962 - .............................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>200.000.000,00</span></p></td></tr><tr style="height:18.4pt"><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1963 - .............................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>500.000.000,00</span></p></td></tr><tr style="height:18.4pt"><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1964 - .............................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>500.000.000,00</span></p></td></tr><tr style="height:18.4pt"><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1965 - .............................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>200.000.000,00</span></p></td></tr></tbody></table>
+Cr$
+
+1961 - .............................................................................................................
+
+130.000.000,00
+
+1962 - .............................................................................................................
+
+200.000.000,00
+
+1963 - .............................................................................................................
+
+500.000.000,00
+
+1964 - .............................................................................................................
+
+500.000.000,00
+
+1965 - .............................................................................................................
+
+200.000.000,00
 
 Art. 3º Até a constituição da CELNA, fica a superintendia do Projeto Mambucaba, criada na Comissão Nacional de Energia Nuclear, pelo Decreto nº 47.574, de 31 de dezembro de 1954, autorizado a obter a conta dos recursos orçamentários distribuídos à Comissão Nacional de Energia Nuclear para a instalação de centrais elétricas nucleares, os fundos de que necessitar para os estudos, levantamentos e demais providências preliminares, indispensáveis à construção da central nuclear projetada.
 

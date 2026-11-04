@@ -1,5 +1,3 @@
-###DEC-096472-0-000-04-08-1988@@@
-
 DECRETO N° 96.472, DE 4 DE AGOSTO DE 1988
 
 Declara de utilidade pública para fins de desapropriação, imóveis situados nas Cidades de Cascavel e Foz do Iguaçu, Estado do Paraná, destinados ao Tribunal Regional do Trabalho da 9ª Região.

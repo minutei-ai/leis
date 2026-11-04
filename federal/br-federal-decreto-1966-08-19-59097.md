@@ -1,5 +1,3 @@
-###DEC-059097-0-000-19-08-1966@@@
-
 DECRETO Nº 59.097, DE 19 DE AGÔSTO DE 1966.
 
 Extingue a Consulado Honorário do Brasil em Murcia, Espanha.

@@ -118,4 +118,26 @@ Lauro da Silva Correia
 
 CARGOS EM COMISSÃO
 
-<table border="1" cellpadding="0" cellspacing="0" style="margin-left: 74.4pt; border-collapse: collapse;"><tbody><tr><td style="width: 127.55pt; border: 1pt solid windowtext; padding: 0cm 3.5pt;" valign="top" width="170"><p align="center">DENOMINAÇÃO</p></td><td style="width: 87.3pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="116"><p align="center">SÍMBOLO</p></td><td style="width: 97pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="129"><p align="center">QUANTIDADE</p></td></tr><tr><td style="width: 127.55pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="170"><p>Diretor Executivo</p></td><td style="width: 87.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="116"><p align="center" style="text-align: center;">DAS-6</p></td><td style="width: 97pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="129"><p align="center" style="text-align: center;">01</p></td></tr><tr><td style="width: 127.55pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="170"><p>Coordenador</p></td><td style="width: 87.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="116"><p align="center" style="text-align: center;">DAS-5</p></td><td style="width: 97pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="129"><p align="center" style="text-align: center;">05</p></td></tr><tr><td style="width: 127.55pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="170"><p>Assessor</p></td><td style="width: 87.3pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="116"><p align="center" style="text-align: center;">DAS-4</p></td><td style="width: 97pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="129"><p align="center" style="text-align: center;">05</p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Diretor Executivo
+
+DAS-6
+
+01
+
+Coordenador
+
+DAS-5
+
+05
+
+Assessor
+
+DAS-4
+
+05

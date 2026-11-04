@@ -1,5 +1,3 @@
-###DEC-047650-0-000-15-01-1960@@@
-
 DECRETO Nº 47.650, DE 15 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Randolfo de Barros Drumond a pesquisar águas marinhas no município de Guanhães, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-093512-0-000-04-11-1986@@@
-
 DECRETO Nº 93.512, DE 4 DE NOVEMBRO DE 1986.
 
 Regulamenta a Lei n.º 7.397, de 1º de novembro de 1985, que dispõe sobre a validação de cursos superiores não reconhecidos.

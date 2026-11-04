@@ -1,5 +1,3 @@
-###DEC-072828-0-000-24-09-1973@@@
-
 DECRETO Nº 72.828, de 24 de Setembro de 1973.
 
 Retifica o Decreto nº 72.211, de 11 de maio de 1973, e dá outras providências.

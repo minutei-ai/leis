@@ -1,5 +1,3 @@
-###DEC-067206-0-000-16-09-1970@@@
-
 DECRETO nº 67.206, de 16 de setembro de 1970.
 
 Dispõe sôbre a contabilidade analítica das operações realizadas pelas Unidades Orçamentárias e Administrativas da União.

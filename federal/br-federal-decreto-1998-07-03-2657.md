@@ -1,5 +1,3 @@
-###DEC-002657-0-000-03-07-1998@@@
-
 DECRETO Nº 2.657, DE 3 DE JULHO DE 1998
 
 Promulga a Convenção nº 170 da OIT, relativa à Segurança na Utilização de Produtos Químicos no Trabalho, assinada em Genebra, em 25 de junho de 1990.

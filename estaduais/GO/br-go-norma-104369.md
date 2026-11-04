@@ -22,15 +22,12 @@ Art. 5º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 29 de setembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 |
-ANEXO I<br>
-<br>
+ANEXO I
 
 IMÓVEL AUTORIZADO A SER DOADO AO ESTADO DE GOIÁS PELO MUNICÍPIO DE MINEIROS/GO
 
@@ -108,8 +105,7 @@ LOTE 20
  |
 
 |
-ANEXO II<br>
-<br>
+ANEXO II
 
 IMÓVEL AUTORIZADO A SER DOADO AO ESTADO DE GOIÁS PELO MUNICÍPIO DE MINEIROS/GO
 

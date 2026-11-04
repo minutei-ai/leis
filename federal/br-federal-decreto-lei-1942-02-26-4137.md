@@ -1,5 +1,3 @@
-###DEL-004137-0-000-26-02-1942@@@
-
 DECRETO-LEI n. 4.137 – DE 26 DE FEVEREIRO DE 1942
 
 Prorroga até 31 de julho de 1942 o prazo para prestação de contas de um adiantamento recebido na Delegacia do Tesouro Brasileiro em Nova York.

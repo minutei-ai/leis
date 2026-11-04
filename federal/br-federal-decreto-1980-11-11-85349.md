@@ -1,5 +1,3 @@
-###DEC-085349-0-000-11-11-1980@@@
-
 DECRETO Nº 85.349, DE 11 DE NOVEMBRO DE 1980
 
 Autoriza o funcionamento do curso de Formação de Professores da Parte de Formação Especial do Currículo do Ensino de 2º Grau, da Faculdade de Educação de Sant\`Ana do Livramento, Estado do Rio Grande do Sul.

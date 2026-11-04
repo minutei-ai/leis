@@ -1,5 +1,3 @@
-###DEC-069598-0-000-23-11-1971@@@
-
 DECRETO Nº 69.598 - de 23 DE NOVEMBRO de 1971
 
 Declara de utilidade pública o Sodalício da Sacra Família, com sede no Estado da Guanabara.

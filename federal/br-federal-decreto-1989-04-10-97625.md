@@ -1,7 +1,3 @@
-1
-
-###DEC-097625-0-000-10-04-1989@@@
-
 DECRETO N° 97.625, DE 10 DE ABRIL DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “FAZENDA CABIXI”; “FAZENDA BREJÃO”, “LOTE 06 DA CLEBA GUAPORÉ - PF – CORUMBIARA”, constituídos dos lotes 11 a 20, e parte dos lotes 02, 03, 04, 05, 06, 08, 09 e 10 da “GLEBA GUAPORÉ”, classificados como “latifúndio por exploração”, situados no Município de Vilhena, no Estado de Rondônia, compreendidos na zona prioritária, fixada pelo Decreto n° 92.684, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050579-0-000-12-05-1961@@@
-
 Decreto nº 50.579, de 12 de maio de 1961.
 
 Concede autorização para o funcionamento de curso que indica.

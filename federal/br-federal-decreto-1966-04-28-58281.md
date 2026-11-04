@@ -1,5 +1,3 @@
-###DEC-058281-0-000-28-04-1966@@@
-
 decreto nº 58.281, de 28 de abril de 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 46.227, de 16 de junho de 1959, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Vira Beiju”, no município de Petrolina, Estado de Pernambuco.

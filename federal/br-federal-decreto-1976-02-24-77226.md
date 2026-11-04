@@ -1,5 +1,3 @@
-###DEC-077226-0-000-24-02-1976@@@
-
 DECRETO Nº 77.226, DE 24 DE FEVEREIRO DE 1976
 
 Concede reconhecimento ao curso de Educação Física da Escola Superior de Educação Física de São Caetano do Sul, com sede na cidade de São Caetano do Sul, Estado de São Paulo.

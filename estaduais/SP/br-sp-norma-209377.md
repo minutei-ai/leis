@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209377)<br>
-
 # LEI N° 17.920, DE 26 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 10/2020, da Deputada Dra. Damaris Moura - PSDB)

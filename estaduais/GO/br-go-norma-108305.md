@@ -10,7 +10,8 @@ Art. 1º Ficam estabelecidos os critérios para a fixação da Política de Remu
 
 Art. 2º A Assembleia-Geral de cada empresa estatal fixará anualmente o montante global da remuneração, das gratificações, dos benefícios e das vantagens dos membros da Diretoria-Executiva e dos Conselhos de Administração e Fiscal, conforme dispuser seu estatuto social e a legislação aplicável.
 
-Parágrafo único. Após a aprovação da proposta pela secretaria de Estado jurisdicionante, caberão à Secretaria de Estado da Administração a verificação do atendimento dos critérios estabelecidos pelo art. 3º deste Decreto e o retorno do processo administrativo à companhia solicitante.<br>
+Parágrafo único. Após a aprovação da proposta pela secretaria de Estado jurisdicionante, caberão à Secretaria de Estado da Administração a verificação do atendimento dos critérios estabelecidos pelo art. 3º deste Decreto e o retorno do processo administrativo à companhia solicitante.
+
 \- [Redação dada pelo Decreto nº 10.553, de 16-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109474).
 
 ~~Parágrafo único. Após a aprovação da proposta pela Secretaria de Estado jurisdicionante, caberão à Secretaria de Estado da Administração a verificação do atendimento dos critérios estabelecidos pelo art. 3º deste Decreto, o encaminhamento da proposta ao acionista majoritário e o retorno do processo administrativo à companhia solicitante.~~
@@ -40,8 +41,6 @@ Art. 5º Caberá aos representantes do Governo do Estado, nas Assembleias-Gerais
 Art. 6º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 28 de dezembro de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

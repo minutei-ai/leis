@@ -1,5 +1,3 @@
-###DEL-005446-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.446 – DE 30 DE ABRIL DE 1943
 
 Cria a 4ª Companhia Regional no Corpo de Fuzileiros Navais

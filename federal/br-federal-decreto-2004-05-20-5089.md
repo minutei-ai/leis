@@ -1,5 +1,3 @@
-###DEC-005089-0-000-20-05-2004@@@
-
 DECRETO Nº 5.089, DE 20 DE MAIO DE 2004
 
 Dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional dos Direitos da Criança e do Adolescente - CONANDA, e dá outras providências.

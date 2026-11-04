@@ -1,5 +1,3 @@
-###DEC-088265-0-000-28-04-1983@@@
-
 Decreto Nº 88.265, de 28 de abril de 1983
 
 Revoga o Decreto nº 921, de 26 de junho de 1936, que outorgou concessão à FUNDAÇÃO PANDIÁ CALÓGERAS - Universidade Mineira de Rádio e TV Educativos - Rádio Inconfidência, posteriormente transferida à RÁDIO INCONFIDÊNCIA LTDA, através do Decreto nº 86.332, de 02 de setembro de 1981, para explorar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de Belo Horizonte, Estado de Minas Gerais.

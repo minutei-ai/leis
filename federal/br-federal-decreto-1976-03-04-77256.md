@@ -1,5 +1,3 @@
-###DEC-077256-0-000-04-03-1976@@@
-
 DECRETO Nº 77.256, DE 4 DE março DE 1976.
 
 Extingue Consulado-Geral e cria Vice-Consulado em Iocoama, Japão.

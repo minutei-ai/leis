@@ -1,7 +1,3 @@
-1
-
-###DEC-098865-0-000-23-01-1990@@@
-
 DECRETO Nº 98.865, DE 23 DE JANEIRO DE 1990
 
 Dispõe sobre a interdição de área indígena, no Estado do Pará, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007567-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.567 – DE 21 DE MAIO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 90.000,00 à verba que especifica

@@ -32,11 +32,14 @@ Art. 6º - Estalei entrará em vigor na data de sua publicação, regovando-se a
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia, Estado de Goiás, aos 16 dias do mês de setembro do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-LUZIANO DA COSTA VALE<br>
+LUZIANO DA COSTA VALE
+
 Superintendente da SMTA

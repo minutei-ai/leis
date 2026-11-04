@@ -1,5 +1,3 @@
-###DEC-091684-0-000-24-09-1985@@@
-
 Decreto nº 91.684, de 24 de setembro de 1985
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado Fazenda "Xagú", compreendida nas referidas áreas, no Município de Laranjeiras do Sul, Estado do Paraná.

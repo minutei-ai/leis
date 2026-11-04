@@ -1,5 +1,3 @@
-###DEC-057792-0-000-11-02-1966@@@
-
 DECRETO Nº 57.792, DE 11 DE FEVEREIRO DE 1966.
 
 Inclui curso na letra e, do art. 1º, do Decreto nº 57.624, de 13 de janeiro de 1966, que fixa valores das Gratificações da Categoria “B” e da Indenizações de Representação estabelecidas no Código de Vencimentos dos Militares.

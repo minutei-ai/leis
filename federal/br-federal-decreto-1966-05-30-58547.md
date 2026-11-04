@@ -1,5 +1,3 @@
-###DEC-058547-0-000-30-05-1966@@@
-
 DECRETO Nº 58.547, de 30 de maio de 1966.
 
 Autoriza a Companhia de Mineração a Agricultura do São Francisco “Cominag” a lavrar magnesita no município de Santo Sé, no Estado da Bahia.

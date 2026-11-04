@@ -1,5 +1,3 @@
-###DEC-075403-0-000-20-02-1975@@@
-
 decreto nº 75.403, de 20 de fevereiro de 1975.
 
 Declara de utilidade pública, para fins de desapropriação, as ações constitutivas do capital da sociedades anônimas denominadas Hospital Nossa Senhora da Conceição S.A., Hospital Nossa Senhora da Conceição S.A., Hospital Fêmina S.A., e Hospital Cristo Redentor S.A., e as quotas constitutivas do capital da sociedade Serviços Aéreos Especializados Médico-Hospitalar Limitada.

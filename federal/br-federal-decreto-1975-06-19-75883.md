@@ -1,5 +1,3 @@
-###DEC-075883-0-000-19-06-1975@@@
-
 DECRETO Nº 75.883, DE 19 DE JUNHO DE 1975.
 
 Concede à Caieira Nossa Senhora da Guia Ltda., o direito de lavrar calcário no Município de Cuiabá, Estado de Mato Grosso.

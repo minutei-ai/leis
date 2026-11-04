@@ -1,5 +1,3 @@
-###DEC-081014-0-000-12-12-1977@@@
-
 DECRETO Nº 81.014, DE 12 DE DEZEMBRO DE 1977.
 
 Retifica a concessão de lavra outorgada a Sylvio Dias Lopes pelo Decreto nº 43.390, de 12 de março de 1958.

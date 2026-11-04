@@ -1,5 +1,3 @@
-###DEC-001679-0-000-18-10-1995@@@
-
 DECRETO Nº 1.679, DE 18 DE OUTUBRO DE 1995.
 
 Dispõe sobre o processo administrativo de declaração de caducidade da concessão de Zonas de Processamento de Exportação - ZPE.

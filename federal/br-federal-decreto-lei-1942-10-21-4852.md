@@ -1,5 +1,3 @@
-###DEL-004852-0-000-21-10-1942@@@
-
 DECRETO-LEI N. 4.852 – DE 21 DE OUTUBRO DE 1942
 
 Cria e inclue um cargo da classe 5 da carreira de Patrão no Quadro Suplementar do Ministério da Fazenda

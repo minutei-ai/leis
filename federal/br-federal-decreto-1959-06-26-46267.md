@@ -1,5 +1,3 @@
-###DEC-046267-0-000-26-06-1959@@@
-
 DECRETO Nº 46.267, DE 26 DE JUNHO DE 1959.
 
 Retifica a redação do artigo 1º do Decreto nº 40.119, de 15 de outubro de 1956, que regulamentou a Lei número 2.573, de 15 de agôsto de 1955.

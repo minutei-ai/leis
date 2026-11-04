@@ -1,5 +1,3 @@
-###DEC-059438-0-000-27-10-1966@@@
-
 Decreto nº 59.438, de 27 de outubro de 1966.
 
 Autoriza a Companhia Brasileira de Energia Elétrica a construir linha de transmissão e subestação na localidade de Alcântara, município de São Gonçalo, no Estado do Rio de Janeiro.

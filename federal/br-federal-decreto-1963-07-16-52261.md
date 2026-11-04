@@ -1,5 +1,3 @@
-###DEC-052261-0-000-16-07-1963@@@
-
 DECRETO Nº 52.261, DE 16 DE JULHO DE 1963.
 
 Concede à Carbonífera Barão do Rio Branco S.A. autorização para funcionar como emprêsa de mineração.

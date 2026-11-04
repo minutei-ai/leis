@@ -1,5 +1,3 @@
-###MPV-001953-0-013-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.953-13, DE 9 DE DEZEMBRO DE 1999.
 
 Institui o Auxilio-Transporte aos militares, servidores e empregados públicos da Administração Federal direta, autárquica e fundacional da União, e revoga o § 1º do art. 1º da Lei nº 7.418, de 16 de dezembro de 1985.

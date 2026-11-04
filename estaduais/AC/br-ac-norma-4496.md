@@ -1,6 +1,10 @@
 > **LEI Nº 3.731, DE 20 DE ABRIL DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a inspeção sanitária e industrial dos produtos de origem animal, e regulamenta o Serviço de Inspeção Estadual - SIE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a inspeção sanitária e industrial dos produtos de origem animal, e regulamenta o Serviço de Inspeção Estadual - SIE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

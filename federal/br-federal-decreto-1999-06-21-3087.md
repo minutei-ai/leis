@@ -1,5 +1,3 @@
-###DEC-003087-0-000-21-06-1999@@@
-
 DECRETO Nº 3.087, DE 21 DE JUNHO DE 1999
 
 Promulga a Convenção Relativa à Proteção das Crianças e à Cooperação em Matéria de Adoção Internacional, concluída na Haia, em 29 de maio de 1993.

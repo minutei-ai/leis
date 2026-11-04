@@ -1,5 +1,3 @@
-###DEL-004742-0-000-25-09-1942@@@
-
 DECRETO-LEI N. 4.742 – DE 25 DE SETEMBRO DE 1942
 
 Prorroga o prazo de que trata o art. 4º do decreto-lei n. 4.612, de 24 de agosto de 1942

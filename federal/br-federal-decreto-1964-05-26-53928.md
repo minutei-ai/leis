@@ -1,5 +1,3 @@
-###DEC-053928-0-000-26-05-1964@@@
-
 DECRETO Nº 53.928, DE 26 DE MAIO DE 1964.
 
 Extingue comissões especiais no Departamento Nacional de Estradas de Rodagem e dá outras providências.

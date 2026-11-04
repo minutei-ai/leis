@@ -1,5 +1,3 @@
-###DEC-087984-0-000-23-12-1982@@@
-
 Decreto nº 87.984, de 23 de dezembro de 1982
 
 Concede à COMPANHIA FERRO E AÇO DE VITÓRIA - COFAVI autorização para proceder a aumento de seu capital social.

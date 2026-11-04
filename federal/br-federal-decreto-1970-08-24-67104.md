@@ -1,5 +1,3 @@
-###DEC-067104-0-000-24-08-1970@@@
-
 decreto nº 67.104, de 24 de agôsto de 1970.
 
 Estabelece as Entidades consideradas consignatárias para efeito do Decreto-Lei nº 728, de 4 de agôsto de 1969, e dá outras providências.

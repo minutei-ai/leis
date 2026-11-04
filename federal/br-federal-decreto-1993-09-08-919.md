@@ -1,7 +1,3 @@
-1
-
-###DEC-000919-0-000-08-09-1993@@@
-
 DECRETO Nº 919, DE 8 DE SETEMBRO DE 1993
 
 Aprova o Estatuto da Companhia de Pesquisa de Recursos Minerais - CPRM.

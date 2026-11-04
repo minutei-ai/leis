@@ -1,5 +1,3 @@
-###DEC-053875-0-000-31-03-1964@@@
-
 DECRETO Nº 53.875, DE 31 DE MARÇO DE 1964.
 
 Dispõe sôbre feriado bancário.

@@ -1,5 +1,3 @@
-###DEC-081038-0-000-15-12-1977@@@
-
 decreto nº 81.038, de 15 de dezembro de 1977
 
 Concede reconhecimento à habilitação Formação de Professores para o Pré-Primário, do curso de Pedagogia da Pontifícia Universidade Católica de Campinas, Estado de São Paulo.

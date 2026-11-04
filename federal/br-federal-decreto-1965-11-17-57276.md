@@ -1,5 +1,3 @@
-###DEC-057276-0-000-17-11-1965@@@
-
 DECRETO Nº 57.276, de 17 DE NOVEMBRO DE 1965.
 
 Modifica o Decreto nº 57.003, de 11 de outubro de1965, e dá outras providências.

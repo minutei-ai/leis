@@ -1,5 +1,3 @@
-###DEC-055770-0-000-19-02-1965@@@
-
 DECRETO Nº 55.770, DE 19 DE FEVEREIRO DE 1965.
 
 Estabelece a jurisdição e sede das Regiões Fiscais.

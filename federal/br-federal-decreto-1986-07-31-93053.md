@@ -1,5 +1,3 @@
-###DEC-093053-0-000-31-07-1986@@@
-
 DECRETO Nº 93.053, DE 31 DE JULHO DE 1986
 
 Acresce área aos limites da Estação Ecológica de Guaraqueçaba, no Estado do Paraná, criada pelo Decreto nº 87.222, de 31 de maio de 1982, e dá outras providências.

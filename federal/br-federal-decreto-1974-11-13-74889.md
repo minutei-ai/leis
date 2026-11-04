@@ -1,5 +1,3 @@
-###DEC-074889-0-000-13-11-1974@@@
-
 DECRETO Nº 74.889 DE 13 DE NOVEMBRO DE 1974.
 
 Cria o Grupo de Trabalho Interministerial para negociar as operações externas necessárias à execução de Programa Ferroviário Federal, na parte executada pela Rede Ferroviária Federal S.A.

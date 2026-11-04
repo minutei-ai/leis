@@ -1,5 +1,3 @@
-###MPV-001697-0-059-26-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.697-59, DE 26 DE OUTUBRO DE 1998
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

@@ -1,5 +1,3 @@
-###DEL-007134-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.134 – DE 7 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 245.841,50, para pagamento de serviços e fornecimentos feitos ao Ministério da Agricultura em 1943

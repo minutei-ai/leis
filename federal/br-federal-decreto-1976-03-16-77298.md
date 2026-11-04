@@ -1,5 +1,3 @@
-###DEC-077298-0-000-16-03-1976@@@
-
 DECRETO Nº 77.298, DE 16 DE MARÇO DE 1976.
 
 Extingue o Consulado Honorário do Brasil New-Castle-on-Tyne, Reino Unido da Grã-Bretanha e Irlanda do Norte.

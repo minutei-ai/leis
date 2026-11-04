@@ -1,5 +1,3 @@
-###DEC-088168-0-000-10-03-1983@@@
-
 Decreto nº 88.168, de 10 de março de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Empresa de Energia Elétrica de Mato Grosso do Sul S.A.-ENERSUL, no Estado de Mato Grosso do Sul.

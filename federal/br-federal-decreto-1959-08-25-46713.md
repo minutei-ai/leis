@@ -1,5 +1,3 @@
-###DEC-046713-0-000-25-08-1959@@@
-
 DECRETO Nº 46.713, DE 25 DE AGÔSTO DE 1959.
 
 Autoriza o funcionamento dos Cursos de Pedagogia e de Didática da Faculdade de Filosofia da Universidade do Rio Grande do Norte.

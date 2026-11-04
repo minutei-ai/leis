@@ -1,5 +1,3 @@
-###DEC-073594-0-000-08-02-1974@@@
-
 DECRETO Nº 73.594, DE 8 DE FEVEREIRO DE 1974.
 
 Regulamenta a Lei nº 5.833, de 1 de dezembro de 1972, que instituiu no Ministério das Minas e Energia - MME o Plano de Formação e Aperfeiçoamento do Pessoal de Nível Superior - PLANFAP, e dá outras providências.

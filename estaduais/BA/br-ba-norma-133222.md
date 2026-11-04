@@ -14,7 +14,8 @@ Art. 2º - A transação poderá ser celebrada até 29.12.2017 e resultará em c
 
 I - 70% (setenta por cento), na hipótese de pagamento em parcela única até o dia 28.12.2017;
 
-Redação de acordo com a Lei nº [13.818](javascript: openDoc\() de 21 de dezembro de  2017.<br>
+Redação de acordo com a Lei nº [13.818](javascript: openDoc\() de 21 de dezembro de  2017.
+
 Redação original: "I - 70% (setenta por cento), na hipótese de pagamento em parcela única até o dia 22.12.2017;"
 
 II - 50% (cinquenta por cento), na hipótese do pagamento em até 12 (doze) parcelas mensais e consecutivas, com o pagamento da parcela inicial até o dia 29.12.2017 e as seguintes até o dia 22 (vinte e dois) de cada mês subsequente ao do pagamento da parcela inicial.Art. 3º - O pagamento do débito tributário transacionado somente será admitido em moeda corrente.

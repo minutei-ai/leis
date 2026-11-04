@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208189)<br>
-
 # LEI N° 17.696, DE 13 DE JUNHO DE 2023
 
 ## (Projeto de lei n° 796, de 2021, do Deputado Cezar - PSDB)

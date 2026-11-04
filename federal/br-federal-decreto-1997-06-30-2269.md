@@ -1,5 +1,3 @@
-###DEC-002269-0-000-30-06-1997@@@
-
 DECRETO Nº 2.269, DE 30 DE JUNHO DE 1997
 
 Prorroga o prazo de remanejamento dos cargos que menciona e dá outras providências.

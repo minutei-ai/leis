@@ -1,5 +1,3 @@
-###DEC-052410-0-000-27-08-1963@@@
-
 decreto nº 52.410, de 27 de agôsto de 1963.
 
 Inclui na composição do Grupo de Trabalho criado pelo Decreto número 52.343, de 9-8-63, os representantes do Ministério da Fazenda e da Confederação Rural Brasileira.

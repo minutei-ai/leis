@@ -1,5 +1,3 @@
-###DEC-050809-0-000-17-06-1961@@@
-
 DECRETO Nº 50.809, DE 17 DE JUNHO DE 1961.
 
 Cria no Ministério da Educação e Cultura o Grupo de Trabalho de Expansão do Ensino Industrial.

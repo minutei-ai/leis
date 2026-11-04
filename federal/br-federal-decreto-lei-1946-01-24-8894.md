@@ -1,5 +1,3 @@
-###DEL-008894-0-000-24-01-1946@@@
-
 DECRETO–LEI N. 8.894 – DE 24 DE JANEIRO DE 1946
 
 Aprova o Plano Geral de Reaparelhamento Ferroviário e as bases do respectivo financiamento e dá outras providências.

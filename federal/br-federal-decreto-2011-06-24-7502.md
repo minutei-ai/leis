@@ -1,5 +1,3 @@
-###DEC-007502-0-000-24-06-2011-PUB-01@@@
-
 DECRETO Nº 7.502, DE 24 DE JUNHO DE 2011
 
 Dispõe sobre a execução do Octogésimo Protocolo  Adicional ao Acordo de Complementação Econômica nº 18 (80PA-ACE18), assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, de 18 de fevereiro de 2011.

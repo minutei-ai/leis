@@ -27,7 +27,6 @@ sha256_markdown: "6238760eea0b1e674feb89866ad145e2b3f15d450237137b18ba29a4393d3f
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 124, DE 14 DE JULHO DE 2022
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
-> Este texto não substitui o publicado no DOU de 15.7.2022
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-07-14-124.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -80,8 +78,4 @@ Brasília, em 14 de julho de 2022
 | Deputado LUCIANO BIVAR 1º Secretário | Senador IRAJÁ 1º Secretário |
 | Deputado ODAIR CUNHA 2º Secretário | Senador ELMANO FÉRRER 2º Secretário |
 | Deputada GEOVANIA DE SÁ 3ª Secretária | Senador ROGÉRIO CARVALHO 3º Secretário |
-| Deputada ROSANGELA GOMES 4ª Secretária |  |
-
-Este texto não substitui o publicado no DOU 15.7.2022
-
-\*
+| Deputada ROSANGELA GOMES 4ª Secretária |  |\*

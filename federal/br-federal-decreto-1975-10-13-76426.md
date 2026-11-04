@@ -1,5 +1,3 @@
-###DEC-076426-0-000-13-10-1975@@@
-
 DECRETO Nº 76.426, DE 13 DE OUTUBRO DE 1975.
 
 Revoga o artigo 1º do Decreto número 74.847, de 6 de novembro de 1974.

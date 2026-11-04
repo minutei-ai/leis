@@ -1,5 +1,3 @@
-###DEL-004994-0-000-26-11-1942@@@
-
 DECRETO-LEI N. 4.994 – DE 26 DE NOVEMBRO DE 1942
 
 Prorroga, por cento e vinte dias, o prazo para a arrecadação do imposto de exportação interestadual

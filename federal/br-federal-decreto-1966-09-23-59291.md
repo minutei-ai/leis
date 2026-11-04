@@ -1,5 +1,3 @@
-###DEC-059291-0-000-23-09-1966@@@
-
 DECRETO Nº 59.291, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza a Mineração Catas Altas Limitada a pesquisar minério de ferro no município de Sabará, Estado de Minas Gerais.

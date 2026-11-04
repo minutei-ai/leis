@@ -1,7 +1,3 @@
-1
-
-###MPV-000891-0-000-14-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº  891, DE 14 DE FEVEREIRO DE 1995
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961 e dá outras providências.

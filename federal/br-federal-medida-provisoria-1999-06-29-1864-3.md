@@ -1,5 +1,3 @@
-###MPV-001864-0-003-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.864-3, DE 29 DE JUNHO DE 1999.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra e dá outras providências.

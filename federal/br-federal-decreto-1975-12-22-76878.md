@@ -1,5 +1,3 @@
-###DEC-076878-0-000-22-12-1975@@@
-
 DECRETO Nº 76.878, DE 22 DE DEZEMBRO DE 1975.
 
 Concede à Minérios Industriais do Sul S.A. o direito de lavrar argila no Município de Urussanga, Estado de Santa Catarina.

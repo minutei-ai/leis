@@ -1,5 +1,3 @@
-###DEC-003510-0-000-16-06-2000@@@
-
 DECRETO Nº 3.510, DE 16 DE JUNHO DE 2000.
 
 Altera dispositivos do Regulamento aprovado pelo Decreto 2.314, de 4 de setembro de 1997, que dispõe sobre a padronização, a classificação, o registro, a inspeção, a produção e a fiscalização de bebidas.

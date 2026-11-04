@@ -1,5 +1,3 @@
-###DEC-097003-0-000-25-10-1988@@@
-
 DECRETO Nº 97.003, DE 25 DE OUTUBRO DE 1988
 
 Revoga o Decreto nº 75.360, de 07 de fevereiro de 1975, que aprova o Regulamento do Instituto de Processamento de Dados e Informática da Marinha - IPDIM.

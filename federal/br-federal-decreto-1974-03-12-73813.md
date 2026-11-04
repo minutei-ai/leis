@@ -1,5 +1,3 @@
-###DEC-073813-0-000-12-03-1974@@@
-
 DECRETO Nº 73.813, DE 12 MARÇO DE 1974.
 
 Autoriza o funcionamento da Faculdade Católica de Ciências Humanas, sediada na cidade satélite de Taguatinga, mantida pela União Brasiliense de Educação e Cultura, com sede na cidade de Brasília, Distrito Federal.

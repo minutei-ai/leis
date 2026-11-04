@@ -1,5 +1,3 @@
-###DEC-069856-0-000-29-12-1971@@@
-
 Decreto nº 69.856 - de 29 de dezembro de 1971
 
 Concede à Indústria de Mármores Italva Ltda. o direito de lavrar mármore e calcário, no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

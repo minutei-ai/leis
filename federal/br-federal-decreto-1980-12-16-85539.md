@@ -1,5 +1,3 @@
-###DEC-085539-0-000-16-12-1980@@@
-
 DECRETO Nº 85.539, DE 16 DE DEZEMBRO DE 1980.
 
 Altera a denominação da 9ª Região Militar e de seu respectivo Comando no Ministério do Exército e dá outras providências.

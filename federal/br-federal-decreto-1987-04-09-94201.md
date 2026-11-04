@@ -1,5 +1,3 @@
-###DEC-094201-0-000-09-04-1987@@@
-
 DECRETO Nº 94.201, DE 9 DE ABRIL DE 1987
 
 Dispõe sobre a Embaixada do Brasil em Kingstown, São Vicente e Granadinas, e dá outras providências.

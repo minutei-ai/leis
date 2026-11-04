@@ -1,5 +1,3 @@
-###DEC-075778-0-000-26-05-1975@@@
-
 DECRETO Nº 75.778, DE 26 DE MAIO DE 1975
 
 Dispõe sobre o estágio de estudantes de estabelecimento de ensino superior e de ensino profissionalizante de 2º grau, no Serviço Público Federal, e dá outras providências.

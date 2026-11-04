@@ -1,5 +1,3 @@
-###DEL-003267-0-000-13-05-1941@@@
-
 DECRETO-LEI N. 3.267 – DE 13 DE MAIO DE 1941
 
 Cria no Quadro Permanente do Ministério das Relações Exteriores três cargos da classe M da carreira de Diplomata e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-097945-0-000-11-07-1989@@@
-
 DECRETO N° 97.945, DE 11 DE JULHO DE 1989
 
 Dispõe sobre a dispensa de pagamento de preço de serviços prestados pelo Ministério dos Transportes e a isenção do Adicional ao Frete para Renovação da Marinha Mercante, e dá outras providências.

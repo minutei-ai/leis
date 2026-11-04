@@ -1,5 +1,3 @@
-###DEC-002137-0-000-29-01-1997@@@
-
 DECRETO Nº 2.137, DE 29 DE JANEIRO DE 1997
 
 Prorroga o prazo de remanejamento dos cargos que menciona.

@@ -1,5 +1,3 @@
-###DEC-065179-0-000-17-09-1969@@@
-
 DECRETO Nº 65.179 - DE 17 de SETEMBRO DE 1969.
 
 Declara a cessação da exploração dos serviços de energia elétrica no município de Socorro, Estado de São Paulo e outorga concessão no mencionado município à Companhia Paulista de Fôrça e Luz.

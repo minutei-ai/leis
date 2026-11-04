@@ -1,5 +1,3 @@
-###DEC-002144-0-000-07-02-1997@@@
-
 DECRETO Nº 2.144, DE 7 DE FEVEREIRO DE 1997
 
 Aprova as normas para a lavratura e a assinatura de Cartas Patentes de Oficiais das Forças Armadas.

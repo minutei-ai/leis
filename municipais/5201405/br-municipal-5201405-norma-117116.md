@@ -1,4 +1,5 @@
-LEI MUNICIPAL N° 3.232, DE 08 DE DEZEMBRO DE 2014.<br>
+LEI MUNICIPAL N° 3.232, DE 08 DE DEZEMBRO DE 2014.
+
 (Efeitos suspensos pela Liminar anexada).
 
 ~~Dispõe sobre o horário de funcionamento das agências bancárias no Município de Aparecida de Goiânia e dá outras providências.~~
@@ -17,10 +18,12 @@ LEI MUNICIPAL N° 3.232, DE 08 DE DEZEMBRO DE 2014.<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 08 dias do mês de dezembro do ano de 2014.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~
 
  [Liminar de efeito suspensivo da Lei Ordinária nº 3.232, de 8 de dezembro de 2014.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19130)

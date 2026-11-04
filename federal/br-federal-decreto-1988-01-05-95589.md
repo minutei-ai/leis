@@ -1,7 +1,3 @@
-1
-
-###DEC-095589-0-000-05-01-1988@@@
-
 DECRETO N° 95.589, DE 5 DE JANEIRO DE 1988
 
 Altera dispositivo do decreto n° 89.588, de 26 de abril de 1984, que criou o Instituto de Estudos do Mar Almirante Paulo Moreira (IEAPM).

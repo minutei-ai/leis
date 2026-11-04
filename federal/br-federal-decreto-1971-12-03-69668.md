@@ -1,5 +1,3 @@
-###DEC-069668-0-000-03-12-1971@@@
-
 DECRETO Nº 69.668 - DE 3 DE DEZEMBRO DE 1971
 
 Concede à Emprêsa de Desenvolvimento de Recursos Minerais CODEMIN S.A. o direito de lavrar minério de níquel, no município de Niquelândia, Estado de Goiás.

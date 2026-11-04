@@ -1,5 +1,3 @@
-###DEC-064412-0-000-28-04-1969@@@
-
 DECRETO Nº 64.412, DE 28 DE ABRIL DE 1969.
 
 Declara de utilidade pública a Sociedade "Pobres Servos da Divina Providência", com sede em Porto Alegre, Estado do Rio grande do Sul.

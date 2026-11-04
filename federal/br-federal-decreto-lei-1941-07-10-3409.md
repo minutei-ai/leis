@@ -1,5 +1,3 @@
-###DEL-003409-0-000-10-07-1941@@@
-
 DECRETO-LEI N. 3.409 – DE 10 DE JULHO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial da 160:000$0, para representação do Brasil nas comemorações da Independência da Argentina

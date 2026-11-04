@@ -1,5 +1,3 @@
-###DEC-003771-0-000-13-03-2001@@@
-
 DECRETO Nº 3.771, DE 13 DE MARÇO DE 2001
 
 Altera o Decreto nº 99.658, de 30 de outubro de 1990, que regulamenta, no âmbito da Administração Pública Federal, o reaproveitamento, a movimentação, a alienação e outras formas de desfazimento de material.

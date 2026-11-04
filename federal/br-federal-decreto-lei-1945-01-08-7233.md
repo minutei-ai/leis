@@ -1,5 +1,3 @@
-###DEL-007233-0-000-08-01-1945@@@
-
 DECRETO-LEI N. 7.233 – DE 8 DE JANEIRO DE 1945
 
 Dá nova redação ao art. 2º do Decreto-lei nº 6.708 – de 18 de julho de 1944

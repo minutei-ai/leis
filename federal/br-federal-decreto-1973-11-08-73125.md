@@ -1,5 +1,3 @@
-###DEC-073125-0-000-08-11-1973@@@
-
 DECRETO Nº 73.125 - DE 8 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública, para desapropriação, uma faixa de terra para a construção de uma estrada de acesso a uma área destinada a instalação de equipamentos de uma Unidades de Detenção do Sistema DACTA, situada no Município de Petrópolis, Estado do Rio de Janeiro.

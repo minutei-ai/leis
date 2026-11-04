@@ -1,5 +1,3 @@
-###DEC-067698-0-000-03-12-1970@@@
-
 DECRETO Nº 67.698, DE 3 DE DEZEMBRO de 1970.
 
 Declara prioritária o desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamento novo, sem similar no país, neste descrito e consignado à emprêsa "Irmãos Coutinho, Indústria de Couros S.A.", de Caruaru (Pe).
@@ -14,7 +12,29 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamento novo, sem similar no país, a seguir descrito e consignado à empresa "Irmãos Coutinho, Indústria de Couros S.A.", de Caruaru (Pe):
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Item</span></p></td><td style="width:276.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Especificação</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quantidade a ser importada</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Valor total CIF US$</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:276.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Prensa hidraulica para prensar e estampar couros; com a potência de 1.000 toneladas, acionada por bomba de pistões de baixa rotação, automática, circuito interno de baixa pressão construída em aço especial laminado, marca "Mostardini", tipo e referência de catálogos: MTB 1.000m completa, com acessórios ........................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25.415</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:276.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Total ................................................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25.415</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor total CIF US$
+
+01
+
+Prensa hidraulica para prensar e estampar couros; com a potência de 1.000 toneladas, acionada por bomba de pistões de baixa rotação, automática, circuito interno de baixa pressão construída em aço especial laminado, marca "Mostardini", tipo e referência de catálogos: MTB 1.000m completa, com acessórios ........................................................
+
+1
+
+25.415
+
+-
+
+Total ................................................................................
+
+-
+
+25.415
 
 1.1 - Com respeito ao motor elétrico que acompanha a maquinaria, fica sua similaridade para efeito de isenção de que trata o presente Decreto para ser examinada pela Delegacia Fiscal competente, quando do desembaraço aduaneiro, na hipótese de o mesmo seguir regime tarifário próprio, observando-se o disposto na Resolução nº 467, de 6 de abril de 1967, do Conselho de Política Aduaneira.
 

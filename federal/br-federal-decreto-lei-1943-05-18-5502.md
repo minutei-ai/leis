@@ -1,5 +1,3 @@
-###DEL-005502-0-000-18-05-1943@@@
-
 DECRETO‑LEI N. 5.502 – DE 18 DE MAIO DE 1943
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de Cr$ 515.000,00 para atender a despesas com o contrato de técnicos norte‑americanos

@@ -1,5 +1,3 @@
-###DEC-059549-0-000-11-11-1966@@@
-
 DECRETO Nº 59.549, DE 11 DE NOVEMBRO DE 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à emprêsa “Protecto S.A. Tintas e Vernizes”, de Fortaleza (Ce).
@@ -14,7 +12,75 @@ decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Protecto S.A. - Tintas e Vernizes”, de Fortaleza (CE):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item - Especificação</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Procedência: U.S.A.</span></p><p class="Tabela" style="text-indent:0pt"><span>1.1 Micro Atomizador, nº 6, Pulverizing Machinery, rotor em aço inoxidável tipo 304, com corpo em fundição de níquel resistente, equipado com:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) instalação elétrica, entrada de 380 volt. 3 fases, 60 ciclos;</span></p><p class="Tabela" style="text-indent:0pt"><span>b) motor elétrico de 20 HP, 3.450 Rpm; </span></p><p class="Tabela" style="text-indent:0pt"><span>c) chaves e comados, botões de partida; </span></p><p class="Tabela" style="text-indent:0pt"><span>d) amperímetro no circuito principal;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>e) coletor em tubo “Y” de aço inoxidável 304, e 1 Coletor Micro Pulsador nº 37-6-100, Pulverizing Machinery, cilíndrico-vertical, soldado, tendo área de filtro de 262 ft2, equipado com:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) instalação elétrica toda embutida;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>b) superfícies de contacto em aço carbono;</span></p><p class="Tabela" style="text-indent:0pt"><span>c) coleção completa de feltro de lã (meio filtrada);</span></p><p class="Tabela" style="text-indent:0pt"><span>d) solenóides, ligação e conjunto de tempo;</span></p><p class="Tabela" style="text-indent:0pt"><span>e) micro rotatório, conjunto de passagem a prova de ar, nº 6022, completo, com corpo de válvula em</span><span style="-aw-import:spaces">&nbsp; </span><span>fo.fo., rotor em aço carbono equipado de lâminas de plástico, motor 1/4 HP, 1725 Rpm, redução e partida; </span></p><p class="Tabela" style="text-indent:0pt"><span>f)) motor de 5 HP, 3450 Rpm, 380 volts. 60 ciclos, resfriado por ventilador, totalmente embutido;</span></p><p class="Tabela" style="text-indent:0pt"><span>g) rotor próprio do ventilador;</span></p><p class="Tabela" style="text-indent:0pt"><span>h) janela de inspecção;</span></p><p class="Tabela" style="text-indent:0pt"><span>i) todos os contactos e partidas;</span></p><p class="Tabela" style="text-indent:0pt"><span>j) compressor de ar para suprir os solenóides.</span></p><p class="Tabela" style="text-indent:0pt"><span>2. Moinho Morehouse, modêlo 800, equipado com motor selado a pó, de 20 HP, para 400 volts., 50 ciclos, trifásico, incluindo um jogo de pedras moentes e um funil, 5 coleções extras de pedras e peças para reposição......................................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>3. Misturador de alta velocidade, Cowles, modêlo 515 VHV, equipado com motor de 15 HP, selado a pó, para 380 volts., 60 ciclos, trifásico, incluindo sistema de transmissão MPD, tôdas as ferramentas necessárias e o disco agitador (13”), tipo B-1513. Também incluindo ar sobretanque de óleo, válvulas de contrôle, caixas, acessórios, amperímetro e tacômetro.....................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4. Moinho de 3 rolos 9” x 24”, Kent, mod. Super 3, incluindo motor de 10-5 HP.................................................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>11.348</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.384</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.016</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7.095</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total...............................................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>26.843</span></p></td></tr></tbody></table>
+Item - Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+Procedência: U.S.A.
+
+1.1 Micro Atomizador, nº 6, Pulverizing Machinery, rotor em aço inoxidável tipo 304, com corpo em fundição de níquel resistente, equipado com:
+
+a) instalação elétrica, entrada de 380 volt. 3 fases, 60 ciclos;
+
+b) motor elétrico de 20 HP, 3.450 Rpm;
+
+c) chaves e comados, botões de partida;
+
+d) amperímetro no circuito principal;
+
+ e) coletor em tubo “Y” de aço inoxidável 304, e 1 Coletor Micro Pulsador nº 37-6-100, Pulverizing Machinery, cilíndrico-vertical, soldado, tendo área de filtro de 262 ft2, equipado com:
+
+a) instalação elétrica toda embutida;
+
+ b) superfícies de contacto em aço carbono;
+
+c) coleção completa de feltro de lã (meio filtrada);
+
+d) solenóides, ligação e conjunto de tempo;
+
+e) micro rotatório, conjunto de passagem a prova de ar, nº 6022, completo, com corpo de válvula em  fo.fo., rotor em aço carbono equipado de lâminas de plástico, motor 1/4 HP, 1725 Rpm, redução e partida;
+
+f)) motor de 5 HP, 3450 Rpm, 380 volts. 60 ciclos, resfriado por ventilador, totalmente embutido;
+
+g) rotor próprio do ventilador;
+
+h) janela de inspecção;
+
+i) todos os contactos e partidas;
+
+j) compressor de ar para suprir os solenóides.
+
+2. Moinho Morehouse, modêlo 800, equipado com motor selado a pó, de 20 HP, para 400 volts., 50 ciclos, trifásico, incluindo um jogo de pedras moentes e um funil, 5 coleções extras de pedras e peças para reposição......................................................................................
+
+3. Misturador de alta velocidade, Cowles, modêlo 515 VHV, equipado com motor de 15 HP, selado a pó, para 380 volts., 60 ciclos, trifásico, incluindo sistema de transmissão MPD, tôdas as ferramentas necessárias e o disco agitador (13”), tipo B-1513. Também incluindo ar sobretanque de óleo, válvulas de contrôle, caixas, acessórios, amperímetro e tacômetro.....................................................................
+
+4. Moinho de 3 rolos 9” x 24”, Kent, mod. Super 3, incluindo motor de 10-5 HP.................................................................................................
+
+1
+
+1
+
+1
+
+1
+
+1
+
+11.348
+
+4.384
+
+4.016
+
+7.095
+
+Total...............................................................................
+
+26.843
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria, fica sua similaridade, para efeito da isenção de que lhe trata o presente Decreto, para ser examinada pela alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

@@ -1,7 +1,3 @@
-1
-
-###MPV-001364-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.364, DE 12 DE MARÇO DE 1996.
 
 Dispõe sobre a alocação, em depósitos especiais, remunerados, de recursos das disponibilidades financeiras do Fundo de Amparo ao Trabalhador - FAT.

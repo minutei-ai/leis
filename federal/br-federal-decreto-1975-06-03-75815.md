@@ -1,5 +1,3 @@
-###DEC-075815-0-000-03-06-1975@@@
-
 DECRETO Nº 75.815, DE 3 DE JUNHO DE 1975.
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica nos Municípios de Coronel Pacheco e Piau e no Distrito de Goianá, pertencente ao Município de Rio Novo, Estado de Minas Gerais.

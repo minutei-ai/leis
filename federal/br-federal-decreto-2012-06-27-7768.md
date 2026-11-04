@@ -1,5 +1,3 @@
-###DEC-007768-0-000-27-06-2012-PUB-01@@@
-
 DECRETO N°\- 7.768, DE 27 DE JUNHO DE 2012
 
 Altera o Decreto nº 5.297, de 6 de dezembro de 2004, que dispõe sobre os coeficientes de redução das alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes na produção e na comercialização de biodiesel, e sobre os termos e as condições para a utilização das alíquotas diferenciadas.

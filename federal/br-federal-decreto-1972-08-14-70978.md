@@ -1,5 +1,3 @@
-###DEC-070978-0-000-14-08-1972@@@
-
 DECRETO Nº 70.978, DE 14 DE AGOSTO DE 1972.
 
 Concede à Mineração Boquira S.A. o direito de lavrar minério de chumbo no município de Boquira, Estado da Bahia.

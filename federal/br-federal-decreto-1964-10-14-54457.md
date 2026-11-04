@@ -1,5 +1,3 @@
-###DEC-054457-0-000-14-10-1964@@@
-
 Decreto nº 54.457, de 14 de outubro de 1964.
 
 Autoriza o cidadão brasileiro João Julio de Oliveira a pesquisar mica e quartzo, no município de Santa Maria do Suassuí, Estado de Minas Gerais.

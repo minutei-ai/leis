@@ -1,5 +1,3 @@
-###DEL-005449-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.449 – DE 30 DE ABRIL DE 1943
 
 Prorroga o mandato dos atuais membros da Justiça do Trabalho, até a posse dos novos designados

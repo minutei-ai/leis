@@ -1,5 +1,3 @@
-###DEC-048720-0-000-04-08-1960@@@
-
 DECRETO Nº 48.720, DE 4 DE AGÔSTO DE 1960.
 
 Concede à Sociedade Brasileira de Mineração Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

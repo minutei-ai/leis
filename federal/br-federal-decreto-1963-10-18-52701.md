@@ -1,5 +1,3 @@
-###DEC-052701-0-000-18-10-1963@@@
-
 DECRETO Nº 52.701, DE 18 DE OUTUBRO DE 1963.
 
 Manda aplicar ao pessoal de marítimo da Frota Nacional de Petroleiros - FRONAPE - Petróleo Brasileiro S.A - PETROBRÁS  e Companhia Siderúrgica Nacional, o contrato coletivo de trabalho a que se reporta.

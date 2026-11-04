@@ -1,5 +1,3 @@
-###DEC-080693-0-000-09-11-1977@@@
-
 DECRETO Nº 80.693, DE 09 DE NOVEMBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil de áreas de terrenos situadas no Município de Niterói - Estado do Rio de Janeiro, necessárias à instalação do Campus da Universidade Federal Fluminense.

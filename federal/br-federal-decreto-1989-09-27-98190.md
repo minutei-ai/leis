@@ -1,7 +1,3 @@
-1
-
-###DEC-098190-0-000-27-09-1989@@@
-
 DECRETO Nº 98.190, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “SÃO JOÃO, ou SÃO JOÃO DOS CARNEIROS, situado no Município de Quixadá, Estado do Ceará, e dá outras providências.

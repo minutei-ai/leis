@@ -1,5 +1,3 @@
-###DEC-094745-0-000-06-08-1987@@@
-
 DECRETO Nº 94.745, DE 6 DE AGOSTO DE 1987.
 
 Cria o Pólo Petroquímico do Rio de Janeiro, estabelece normas para a sua implantação e dá outras providências.

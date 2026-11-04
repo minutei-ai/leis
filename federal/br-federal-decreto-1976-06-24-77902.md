@@ -1,5 +1,3 @@
-###DEC-077902-0-000-24-06-1976@@@
-
 DECRETO Nº 77.902, DE 24 DE JUNHO DE 1976.
 
 Abre ao Ministério da Fazenda em favor da Procuradoria Geral da Fazenda Nacional, o crédito suplementar de Cr$350.000,00, para reforço de dotação consignada no vigente Orçamento.
@@ -10,11 +8,55 @@ decreta:
 
 Art. 1º Fica aberto ao Ministério da Fazenda, em favor da Procuradoria Geral da Fazenda Nacional, o crédito suplementar no valor de Cr$350.000,00 (trezentos e cinquenta mil cruzeiros), para reforço de dotação orçamentária consignada ao subanexo 1700, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:93.35pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:249pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:69.25pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:93.35pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1700</span></p></td><td style="width:249pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- MINISTÉRIO DA FAZENDA</span></p></td><td style="width:69.25pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:93.35pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1707</span></p></td><td style="width:249pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Procuradoria Geral da Fazenda Nacional</span></p></td><td style="width:69.25pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:93.35pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1707.03080304.032</span></p></td><td style="width:249pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Serviço Jurídico e da Dívida Ativa da União</span></p></td><td style="width:69.25pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:93.35pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.3.2</span></p></td><td style="width:249pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Outros Serviços de Terceiros.......................................</span></p></td><td style="width:69.25pt; padding-right:3.4pt; padding-left:3.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">350.000</span></p></td></tr><tr><td style="vertical-align:top"></td><td style="width:248.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL............................................................................</span></p></td><td style="width:69.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">350.000</span></p></td></tr><tr style="height:0pt"><td style="width:100.15pt"></td><td style="width:255.8pt"></td><td style="width:76.05pt"></td></tr></tbody></table>
+Cr$1,00
+
+1700
+
+- MINISTÉRIO DA FAZENDA
+
+1707
+
+- Procuradoria Geral da Fazenda Nacional
+
+1707.03080304.032
+
+- Serviço Jurídico e da Dívida Ativa da União
+
+3.1.3.2
+
+- Outros Serviços de Terceiros.......................................
+
+350.000
+
+TOTAL............................................................................
+
+350.000
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotação orçamentária consignada no vigente Orçamento ao subanexo 1700, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:74pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1700</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- MINISTÉRIO DA FAZENDA</span></p></td><td style="width:74pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1702</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Secretaria Geral</span></p></td><td style="width:74pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- 1702.03070212.122</span></p></td><td style="width:74pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.1.3.0</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">- Equipamentos e Instalações........................................</span></p></td><td style="width:74pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">350.000</span></p></td></tr><tr><td style="vertical-align:top"></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL</span></p></td><td style="width:74pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">350.000</span></p></td></tr><tr style="height:0pt"><td style="width:102.75pt"></td><td style="width:255.15pt"></td><td style="width:81pt"></td></tr></tbody></table>
+Cr$1,00
+
+1700
+
+- MINISTÉRIO DA FAZENDA
+
+1702
+
+- Secretaria Geral
+
+Atividade
+
+- 1702.03070212.122
+
+4.1.3.0
+
+- Equipamentos e Instalações........................................
+
+350.000
+
+TOTAL
+
+350.000
 
 Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

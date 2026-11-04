@@ -1,7 +1,3 @@
-1
-
-###DEC-002028-0-000-11-10-1996@@@
-
 DECRETO Nº 2.028, DE 11 DE OUTUBRO DE 1996.
 
 Dispõe sobre os procedimentos relativos à execução financeira da folha de pagamento de pessoal do Governo Federal e dá outras providências.

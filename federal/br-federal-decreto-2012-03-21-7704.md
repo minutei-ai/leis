@@ -1,5 +1,3 @@
-###DEC-007704-0-000-21-03-2012-PUB-01@@@
-
 DECRETO N° 7.704, DE 21 DE MARÇO DE 2012
 
 Dispõe sobre a distribuição do efetivo de oficiais dos Quadros do Corpo de Oficiais da Ativa da Aeronáutica em tempo de paz, para 2012.

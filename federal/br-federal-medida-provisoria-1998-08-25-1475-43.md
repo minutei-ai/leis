@@ -1,5 +1,3 @@
-###MPV-001475-0-043-25-08-1998@@@
-
 Medida Provisória nº 1.475-43, de 25 de agosto de 1998
 
 Dá nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, que altera a legislação do Fundo de Amparo ao Trabalhador.

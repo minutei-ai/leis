@@ -1,7 +1,3 @@
-1
-
-###DEC-099239-0-000-07-05-1990@@@
-
 DECRETO N° 99.239, DE 7 DE MAIO DE 1990
 
 Altera dispositivos do Regulamento Interno dos Serviços da Aeronáutica (RISAER).

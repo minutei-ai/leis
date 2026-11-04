@@ -1,5 +1,3 @@
-###DEC-079866-0-000-27-06-1977@@@
-
 DECRETO Nº 79.866, DE 27 DE JUNHO DE 1977
 
 Concede reconhecimento aos cursos de Ciências de Estudos Sociais e de Letras, Faculdade de Formação de Professores de 1º grau de Arapiraca, com sede na Cidade de Arapiraca, Estado de Alagoas.

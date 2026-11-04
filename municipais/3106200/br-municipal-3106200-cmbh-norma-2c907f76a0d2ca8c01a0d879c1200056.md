@@ -4,25 +4,15 @@
 
 O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sanciono a seguinte lei:
 
-Art. 1º - Fica acrescentado à <u>**Lei nº 11.821, de 17 de janeiro de 2025**</u>, o seguinte <u>**art. 1º-B**</u>:
-
-<br>
+Art. 1º - Fica acrescentado à **Lei nº 11.821, de 17 de janeiro de 2025**, o seguinte **art. 1º-B**:
 
 “Art. 1º-B - A reprodução e a comercialização de animal doméstico no Município somente poderão ser realizadas por canil, gatil e criadouro devidamente cadastrado e licenciado pelo poder público municipal, nos termos de regulamento próprio.
 
-<br>
-
 § 1º - Considera-se animal doméstico, para os fins desta lei, cão, gato, coelho, roedor, psitacídeo, passeriforme, galiforme, anseriforme e demais espécies exóticas permitidas pelas normas federais e estaduais pertinentes, respeitadas as instruções normativas do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama.
-
-<br>
 
 § 2º - Os estabelecimentos mencionados no _caput_ deste artigo deverão possuir Alvará de Localização e Funcionamento - ALF- expedido pela Prefeitura de Belo Horizonte - PBH - e contar com responsável técnico regularmente inscrito no conselho profissional competente.”.
 
-<br>
-
-Art. 2º - Ficam acrescentados ao <u>**art. 5º da Lei nº 11.821/25**</u> os seguintes <u>**incisos VII a IX**</u>:
-
-<br>
+Art. 2º - Ficam acrescentados ao **art. 5º da Lei nº 11.821/25** os seguintes **incisos VII a IX**:
 
 “Art. 5º - \[...\]
 
@@ -32,19 +22,11 @@ VIII - garantir que o animal seja entregue vacinado e vermifugado, conforme prot
 
 IX - entregar ao adquirente fôlder informativo oficial sobre adoção e guarda responsável, contendo orientações básicas referentes a alimentação, higiene, saúde e bem-estar animal.”.
 
-<br>
-
-Art. 3º - Fica acrescentado à <u>**Lei nº 11.821/25**</u> o seguinte <u>**art. 9º-A**</u>:
-
-<br>
+Art. 3º - Fica acrescentado à **Lei nº 11.821/25** o seguinte **art. 9º-A**:
 
 “Art. 9º-A - A comercialização de animal doméstico em estabelecimento comercial somente será permitida quando observadas as normas sanitárias, ambientais e de bem-estar animal expedidas pelo Município, podendo ser gradualmente substituída por feira de adoção promovida ou autorizada pelo poder público.
 
-<br>
-
 Parágrafo único - É vedado o comércio de animal vivo em via pública, logradouro, espaço aberto, local de grande fluxo turístico ou espaço tradicionalmente destinado à exposição cultural e gastronômica.”.
-
-<br>
 
 Art. 4º - Esta lei entra em vigor 120 (cento e vinte) dias após a data de sua publicação.
 

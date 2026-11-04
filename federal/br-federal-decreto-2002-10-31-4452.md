@@ -1,5 +1,3 @@
-###DEC-004452-0-000-31-10-2002@@@
-
 DECRETO Nº 4.452, DE 31 DE OUTUBRO DE 2002
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Gabinete do Presidente da República, e dá outras providências.

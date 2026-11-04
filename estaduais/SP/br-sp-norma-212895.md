@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212895)<br>
-
 # DECRETO N° 70.798, DE 20 DE AGOSTO DE 2026
 
 ### _Transfere, do Tribunal de Justiça do Estado de São Paulo para o Ministério Público do Estado de São Paulo, a administração de parte do imóvel que especifica, localizado no Município de São Paulo._

@@ -1,5 +1,3 @@
-###DEC-089927-0-000-06-07-1984@@@
-
 Decreto nº 89.927, de O6 de julho dE 1984
 
 Renova, por 10 (dez) anos, as concessões outorgadas às entidades que menciona, para explorarem serviços de radiodifusão sonora em onda tropical, nas cidades e unidades da Federação indicadas.

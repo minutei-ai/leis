@@ -1,5 +1,3 @@
-###DEC-060120-0-000-23-01-1967@@@
-
 DECRETO Nº 60.120, DE 23 DE JANEIRO DE 1967.
 
 Aprova o Regulamento do Conselho de Recursos da Previdência Social e dá outras providências.

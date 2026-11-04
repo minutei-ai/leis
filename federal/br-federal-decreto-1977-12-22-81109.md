@@ -1,5 +1,3 @@
-###DEC-081109-0-000-22-12-1977@@@
-
 Decreto nº 81.109, de 22 de dezembro de 1977.
 
 Autoriza o Ministro da  Fazenda a conceder garantia a operação externa.

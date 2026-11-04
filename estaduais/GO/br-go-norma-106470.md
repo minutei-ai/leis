@@ -24,15 +24,14 @@ Art. 7º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 15 de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS A SER ALIENADO,<br>
+| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS A SER ALIENADO,
+
 MEDIANTE DOAÇÃO ONEROSA, AO MUNICÍPIO DE CUMARI/GO |
 | --- |
 | DENOMINAÇÃO | **Terreno urbano** |

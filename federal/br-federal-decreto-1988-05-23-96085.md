@@ -1,5 +1,3 @@
-###DEC-096085-0-000-23-05-1988@@@
-
 DECRETO N° 96.085, DE 23 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA PARAÍSO”, classificado como “latifúndio por exploração” situado no Município de Viseu, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 02 de maio de 1986, e dá outras providências.

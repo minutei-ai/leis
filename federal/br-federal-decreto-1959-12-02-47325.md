@@ -1,5 +1,3 @@
-###DEC-047325-0-000-02-12-1959@@@
-
 decreto nº 47.325, de 2 de dezembro de 1959.
 
 Retifica o art. 1º do Decreto número 44.825, de 7 de novembro de 1958.

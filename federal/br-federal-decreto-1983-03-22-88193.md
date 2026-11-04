@@ -1,5 +1,3 @@
-###DEC-088193-0-000-22-03-1983@@@
-
 Decreto nº 88.193, de 22 de março de 1983.
 
 Dispõe sobre o limite do Capital Autorizado da Goiás Fertilizantes S.A. - GOIASFÉRTIL.

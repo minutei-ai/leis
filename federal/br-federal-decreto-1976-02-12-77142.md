@@ -1,5 +1,3 @@
-###DEC-077142-0-000-12-02-1976@@@
-
 DECRETO Nº 77.142, DE 12 DE FEVEREIRO DE 1976
 
 Concede reconhecimento ao curso de Comunicação Social, das Faculdades Integradas de São Bernardo do Campo, Estado de São Paulo.

@@ -1,4 +1,5 @@
-MUNICÍPIO DE APARECIDA DE GOIÂNIA<br>
+MUNICÍPIO DE APARECIDA DE GOIÂNIA
+
 CÂMARA MUNICIPAL
 
 Projeto de Emenda à Lei Orgânica do Município de Aparecida de Goiânia Nº 002 de 05 de Setembro de 2012.

@@ -1,5 +1,3 @@
-###DEC-061053-0-000-24-07-1967@@@
-
 Decreto nº 61.053, de 24 de julho de 1967.
 
 Cria na Secretaria-Geral do Conselho Nacional de Estatística, do Instituto Brasileiro de Geografia e Estatística, o Grupo Executivo de Pesquisas Domiciliares (GEPD), e dá outras providências.

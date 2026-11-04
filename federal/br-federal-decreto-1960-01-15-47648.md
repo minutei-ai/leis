@@ -1,5 +1,3 @@
-###DEC-047648-0-000-15-01-1960@@@
-
 decreto nº47.648, de 15 de janeiro de 1960.
 
 Autorizo o cidadão brasileiro Luiz Benine a lavrar calcário no município de Itararé, Estado de São Paulo.

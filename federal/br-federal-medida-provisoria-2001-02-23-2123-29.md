@@ -1,5 +1,3 @@
-###MPV-002123-0-029-23-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.123-29, DE 23 DE FEVEREIRO DE 2001
 
 Altera dispositivos da Lei nº 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-001413-0-000-14-08-1975@@@
-
 # DECRETO-LEI Nº 1.413, DE 14 DE AGOSTO DE 1975
 
 Dispõe sobre o controle da poluição do meio ambiente provocada por atividades industriais.

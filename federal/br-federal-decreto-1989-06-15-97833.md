@@ -1,7 +1,3 @@
-1
-
-###DEC-097833-0-000-15-06-1989@@@
-
 DECRETO N° 97.833, DE 15 DE JUNHO DE 1989
 
 Altera disposições do Decreto n° 68.459, de 1° de abril de 1971, e dá outras providências.

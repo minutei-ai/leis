@@ -1,5 +1,3 @@
-###DEC-068337-0-000-10-03-1971@@@
-
 DECRETO Nº 68.337, DE 10 DE MARÇO DE 1971.
 
 Declara a condição de Militar ao Corpo de Bombeiro do Estado da Guanabara e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006675-0-000-03-12-2008@@@
-
 DECRETO Nº 6.675, DE 3 DE DEZEMBRO DE 2008.
 
 Promulga o Acordo sobre Cooperação Financeira (2000/2001) entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha, firmado em Brasília, em 27 de novembro de 2003.

@@ -1,5 +1,3 @@
-###DEC-083418-0-000-04-05-1979@@@
-
 Decreto nº 83.418, de 04 de maio de 1979.
 
 Concede à Mineração Matheus Leme Ltda. o direito de lavrar calcário no Município de Barra do Piraí, Estado do Rio de Janeiro.

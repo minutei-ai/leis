@@ -1,5 +1,3 @@
-###DEC-053419-0-000-20-01-1964@@@
-
 DECRETO Nº 53.419, DE 20 DE JANEIRO DE 1964.
 
 Outorga à Companhia Paranaense de Energia Elétrica concessão para o aproveitamento de energia hidráulica.

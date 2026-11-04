@@ -1,7 +1,3 @@
-1
-
-###DEC-099223-0-000-25-04-1990@@@
-
 DECRETO Nº 99.223, DE 25 DE ABRIL DE 1990
 
 Dispõe sobre a execução da Ata de Retificação do Nono Protocolo Adicional ao Acordo Comercial nº 21, entre o Brasil, a Argentina, o Chile, o México e o Uruguai.

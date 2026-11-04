@@ -1,5 +1,3 @@
-###DEC-075467-0-000-11-03-1975@@@
-
 DECRETO Nº 75.467, DE 11 DE MARÇO DE 1975.
 
 Concede à Empresa de Minérios Alto Gironda Ltda. O direito de lavrar mármore no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

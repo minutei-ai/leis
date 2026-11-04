@@ -1,5 +1,3 @@
-###DEC-068047-0-000-13-01-1971@@@
-
 DECRETO Nº 68.047, DE 13 DE JANEIRO DE 1971.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério das Minas e Energia, cargos originários dos extintos Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará e dá outras providências.

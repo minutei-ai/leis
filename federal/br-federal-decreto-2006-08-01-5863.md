@@ -1,5 +1,3 @@
-###DEC-005863-0-000-01-08-2006@@@
-
 DECRETO Nº 5.863, DE 1º DE AGOSTO DE 2006.
 
 Promulga o Acordo Constitutivo da Organização Internacional da Vinha e do Vinho, celebrado em Paris, em 3 de abril de 2001.
@@ -24,11 +22,7 @@ Brasília, 1º de agosto de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 2.8.2006
-
-Acordo Constitutivo da Organização Internacional da Vinha e do Vinho
+        Celso Luiz Nunes AmorimAcordo Constitutivo da Organização Internacional da Vinha e do Vinho
 
 Preâmbulo
 

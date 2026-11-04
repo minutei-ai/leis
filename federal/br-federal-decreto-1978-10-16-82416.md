@@ -1,5 +1,3 @@
-###DEC-082416-0-000-16-10-1978@@@
-
 Decreto n.º 82 416, de 16 de outubro de 1978
 
 Concede à Joaquim José Bernardo Flora - Firma Individual, o direito de lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

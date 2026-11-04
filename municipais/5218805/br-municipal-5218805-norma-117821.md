@@ -6,11 +6,39 @@ Altera a Lei nº 4.904/2005 e Lei Complementar nº 87/2017.
 
 Art. 1º Fica aumentado no Quadro de Pessoal efetivo da FESURV - Universidade de Rio Verde o quantitativo de 75 vagas do cargo de Auxiliar Administrativo/Geral, constante do inciso IV, art. 1º, da Lei nº 4.904/2005, de provimento efetivo, com descrição abaixo:
 
-<table style="width: 500px;"><tbody><tr><td style="text-align: center;"><strong>Cargo/Área de Atuação</strong></td><td style="text-align: center;"><strong>Aumento do Quantitativo</strong></td><td style="text-align: center;"><strong>Quantitativo Total</strong></td><td style="text-align: center;"><strong>Vencimento</strong></td></tr><tr><td style="text-align: center;">Auxiliar Administrativo/Geral</td><td style="text-align: center;">20</td><td style="text-align: center;">95</td><td style="text-align: center;">R$ 1.225,43</td></tr></tbody></table>
+**Cargo/Área de Atuação**
+
+**Aumento do Quantitativo**
+
+**Quantitativo Total**
+
+**Vencimento**
+
+Auxiliar Administrativo/Geral
+
+20
+
+95
+
+R$ 1.225,43
 
 Art. 2º Fica aumentado no Quadro do Pessoal efetivo da FESURV - Universidade de Rio Verde, o quantitativo de 60 vagas do cargo de Auxiliar de Serviços Gerais, constantes do artigo 1º, inciso IV, da Lei Complementar nº 87/2017, de provimento efetivo:
 
-<table style="width: 500px;"><tbody><tr><td style="text-align: center;"><strong>Cargo</strong></td><td style="text-align: center;"><strong>Aumento do Quantitativo</strong></td><td style="text-align: center;"><strong>Quantitativo Total</strong></td><td style="text-align: center;"><strong>Vencimento</strong></td></tr><tr><td style="text-align: center;">Auxiliar de Serviços Gerais</td><td style="text-align: center;">60</td><td style="text-align: center;">130</td><td style="text-align: center;">R$ 1.222,44</td></tr></tbody></table>
+**Cargo**
+
+**Aumento do Quantitativo**
+
+**Quantitativo Total**
+
+**Vencimento**
+
+Auxiliar de Serviços Gerais
+
+60
+
+130
+
+R$ 1.222,44
 
 Art. 3º Revogadas disposições em contrário, esta Lei entrará em vigor na data de sua publicação.
 

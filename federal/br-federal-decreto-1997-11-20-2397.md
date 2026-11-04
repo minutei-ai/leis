@@ -1,5 +1,3 @@
-###DEC-002397-0-000-20-11-1997@@@
-
 DECRETO Nº 2.397, DE 20 DE NOVEMBRO DE 1997
 
 Dá nova redação ao art. 47 do Decreto nº 93.872, de 23 de dezembro de 1986, e ao art. 2º do Decreto nº 941, de 27 de setembro de 1993.

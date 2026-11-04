@@ -1,5 +1,3 @@
-###DEC-088446-0-000-29-06-1983@@@
-
 # Decreto nº 88.446, de 29 de junho de 1983
 
 Outorga concessão à RÁDIO PALMEIRA D’OESTE LIMITADA, para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Palmeira D’Oeste, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-006580-0-000-12-06-1944@@@
-
 DECRETO-LEI N. 6.580 – DE 12 DE JUNHO DE 1944
 
 Altera a carreira de Contador do Quadro Permanente do Ministério da Fazenda

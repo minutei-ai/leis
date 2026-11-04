@@ -1,5 +1,3 @@
-###DEC-064799-0-000-09-07-1969@@@
-
 DECRETO Nº 64.799 - DE 9 DE JULHO DE 1969.
 
 Transfere concessão para o aproveitamento hidrelétrico do rio Jacutinga, em Minas Gerais e dá outras providências.

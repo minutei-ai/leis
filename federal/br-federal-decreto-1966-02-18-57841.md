@@ -1,5 +1,3 @@
-###DEC-057841-0-000-18-02-1966@@@
-
 DECRETO Nº 57.841, DE 18 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública o Instituto de Reabilitação, com sede em Salvador, Estado da Bahia.

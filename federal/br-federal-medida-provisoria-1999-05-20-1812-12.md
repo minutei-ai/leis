@@ -1,5 +1,3 @@
-###MPV-001812-0-012-20-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.812-12, DE 20 DE MAIO DE 1999.
 
 Estende aos serviços públicos civis do Poder Executivo Federal e vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

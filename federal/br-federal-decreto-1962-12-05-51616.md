@@ -1,5 +1,3 @@
-###DEC-051616-0-000-05-12-1962@@@
-
 DECRETO Nº 51.616, DE 5 DE DEZEMBRO DE 1962.
 
 Dá nova redação aos artigos 40 e 47 do Regulamento da Escola Superior de Guerra, aprovado e mandado executar pelo Decreto nº 50.352, de 17 de março de 1961.

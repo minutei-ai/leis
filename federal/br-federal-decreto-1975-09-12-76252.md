@@ -1,5 +1,3 @@
-###DEC-076252-0-000-12-09-1975@@@
-
 Decreto nº 76.252 - de 12 de setembro de 1975
 
 Transfere a sede do 56º Batalhão de Infantaria, extingue a 6º Companhia de Infantaria e dá outras providências.

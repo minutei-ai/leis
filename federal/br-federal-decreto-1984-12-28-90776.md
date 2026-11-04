@@ -1,5 +1,3 @@
-###DEC-090776-0-000-28-12-1984@@@
-
 Decreto nº 90.776, de 28 de dezembro de 1984.
 
 Autoriza o funcionamento dos cursos de Fonoaudiologia, de Fisioterapia e Terapia Ocupacional da Sociedade Pestalozi do Estado do Rio de Janeiro.

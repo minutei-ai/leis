@@ -1,5 +1,3 @@
-###DEC-056609-0-000-23-07-1965@@@
-
 Decreto nº 56.609, de 23 de julho de 1965.
 
 Concede à sociedade anônima Refinações de Milho, Brazil autorização para continuar a funcionar na República.

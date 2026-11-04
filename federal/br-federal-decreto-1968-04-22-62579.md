@@ -1,5 +1,3 @@
-###DEC-062579-0-000-22-04-1968@@@
-
 Decreto nº 62.579, de 22 de abril de 1968.
 
 Transfere funções gratificadas.

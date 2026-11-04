@@ -1,5 +1,3 @@
-###DEL-007746-0-000-16-07-1945@@@
-
 DECRETO-LEI N. 7.746 – DE 16 DE JULHO DE 1945
 
 Autoriza a aquisição de terrenos em Belém, Estado do Pará, destinados ao Ministério  da Aeronáutica.

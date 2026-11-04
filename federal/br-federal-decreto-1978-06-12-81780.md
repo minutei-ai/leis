@@ -1,5 +1,3 @@
-###DEC-081780-0-000-12-06-1978@@@
-
 Decreto nº 81.780, de 12 de junho de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

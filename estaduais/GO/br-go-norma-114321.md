@@ -46,5 +46,6 @@ Goiânia, 7 de maio de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado

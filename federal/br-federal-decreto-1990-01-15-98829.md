@@ -1,7 +1,3 @@
-1
-
-###DEC-098829-0-000-15-01-1990@@@
-
 DECRETO Nº 98.829, DE 16 DE JANEIRO DE 1990
 
 Dispõe sobre a Comissão Coordenadora Regional de Pesquisas na Amazônia, CORPAM  criada pela Lei nº 7.796, de 10 de julho de 1989.

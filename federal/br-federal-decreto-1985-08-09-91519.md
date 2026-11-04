@@ -1,5 +1,3 @@
-###DEC-091519-0-000-09-08-1985@@@
-
 DECRETO Nº 91.519, DE 09 DE AGOSTO DE 1985.
 
 Revoga o Decreto nº 91.120, de 13 de março de 1985, que abriu ao Subanexo Encargos Gerais da União - Recursos sob Supervisão da Secretaria de Planejamento/PR crédito suplementar para reforço de dotação orçamentária e dá outras providências.

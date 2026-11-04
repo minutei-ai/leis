@@ -1,7 +1,3 @@
-1
-
-###DEC-095678-0-000-28-01-1988@@@
-
 DECRETO N° 95.678, DE 28 DE JANEIRO DE 1988
 
 Autoriza o funcionamento do curso de Análise de Sistemas Contábeis da Faculdade de Informática de Osasco.

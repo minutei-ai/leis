@@ -1,7 +1,3 @@
-1
-
-###DEC-000408-0-000-27-12-1991@@@
-
 DECRETO Nº 408, DE 27 DE DEZEMBRO DE 1991
 
 Regulamenta o art. 3º da Lei nº 8.242, de 12 de outubro de l991, que cria o Conselho Nacional dos Direitos da Criança e do Adolescente CONANDA, e dá outras providências.

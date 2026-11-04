@@ -1,5 +1,3 @@
-###DEC-067437-0-000-23-10-1970@@@
-
 DECRETO Nº 67.437, DE 23 DE OUTUBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Instituto Brasileiro do Desenvolvimento Florestal cargos originários dos extintos Lloyd Brasileiro Patrimônio Nacional - e Companhia Nacional de Navegação Costeira.
@@ -12,11 +10,19 @@ Art. 1º Ficam redistribuídos para o Quadro de Pessoal - Parte Especial - do In
 
 I - Originários do extinto Lloyd Brasileiro - Patrimônio Nacional.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:315.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Oficial de Administração</span></p></td><td style="width:315.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Cid de Carvalho Muniz ............................................................. 432,00</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Oficial de Administração</span></p></td><td style="width:315.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Alfredo Sartorato ....................................................................... 371,52</span></p></td></tr></tbody></table>
+Cr$
+
+Oficial de Administração
+
+- Cid de Carvalho Muniz ............................................................. 432,00
+
+Oficial de Administração
+
+- Alfredo Sartorato ....................................................................... 371,52
 
 II-Originários da estinta Companhia Nacional de Navegação Costeira - Autarquia Federal
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Oficial de Administração- Luiz Carlos de Andradre ........................................................... 371,52</span></p></td><td style="width:315.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Oficial de Administração- Luiz Carlos de Andradre ........................................................... 371,52
 
 Art. 2º O Ministério dos Transportes remeterá ao órgão de Pessoal de Instituto Brasileiro do Desenvolvimento Florestal, no prazo de 30 de (trinta) dias, a contar da publicação dêsse Decreto, os assentamentos individuais dos funcionários movimentado por fôrça do disposto neste ato.
 

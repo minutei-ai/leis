@@ -1,5 +1,3 @@
-###MPV-001131-0-000-26-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.131, DE 26 DE SETEMBRO DE 1995.
 
 Dispõe sobre crédito rural, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058013-0-000-17-03-1966@@@
-
 DECRETO Nº 58.013, DE 17 DE MARÇO DE 1966.
 
 Revoga o Decreto nº 52.443, de 3 de setembro de 1963, e dá outras providências.

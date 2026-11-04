@@ -1,5 +1,3 @@
-###DEC-092368-0-000-05-02-1986@@@
-
 DECRETO Nº 92.368, DE 05 DE FEVEREIRO DE 1986
 
 Declara de Utilidade Pública as instituições que menciona.

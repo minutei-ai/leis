@@ -1,5 +1,3 @@
-###DEC-061839-0-000-05-12-1967@@@
-
 DECRETO Nº 61.839, DE 5 DE DEZEMBRO DE 1967.
 
 Autoriza o cidadão brasileiro Mario de Souza Ferraz a lavrar gipsita no município de Ouricuri, no Estado de Pernambuco.

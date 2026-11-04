@@ -1,7 +1,3 @@
-1
-
-###DEC-099078-0-000-08-03-1990@@@
-
 DECRETO Nº 99.078, DE 8 DE MARÇO DE 1990
 
 Outorga concessão à RÁDIO SOCIEDADE DE SOLEDADE LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Soledade, Estado da Paraíba.

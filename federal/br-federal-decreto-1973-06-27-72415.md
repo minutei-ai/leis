@@ -1,5 +1,3 @@
-###DEC-072415-0-000-27-06-1973@@@
-
 Decreto nº 72.415, de 27 de junho de 1973.
 
 Concede à Indústria de Refrigerantes Real Ltda. o direito de lavrar água potável de mesa no Município de Domingos Martins, Estado do Espírito Santo.

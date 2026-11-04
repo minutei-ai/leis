@@ -1,5 +1,3 @@
-###DEC-076136-0-000-15-08-1975@@@
-
 DECRETO Nº 76.136 - de 15 DE AGOSTO DE 1975
 
 Declara de utilidade pública, para fins de Constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

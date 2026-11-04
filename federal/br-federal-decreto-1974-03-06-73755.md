@@ -1,5 +1,3 @@
-###DEC-073755-0-000-06-03-1974@@@
-
 DECRETO Nº 73.755, DE 6 DE março DE 1974.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade Filosofia, Ciências e Letras de Jales, mantida pela Associação Educacional de Jales, com sede na cidade de Jales, Estado de São Paulo.

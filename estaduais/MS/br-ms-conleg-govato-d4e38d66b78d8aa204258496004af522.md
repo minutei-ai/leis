@@ -6,17 +6,18 @@ Modifica o Anexo da Lei nº 3.945, de 4 de agosto de 2010, que institui o Calend
 
 Publicada no Diário Oficial nº 10.008, de 17 de outubro de 2019, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Modifica o Anexo referente ao dia 11 de outubro, especificamente o quadro “Divisão do Estado de Mato Grosso”, passando a ter a seguinte redação:<br>
-<br>
-<i>“Criação do Estado de Mato Grosso do Sul.” (NR)</i><br>
-<br>
-Art. 2º Esta Lei entra em vigor na data da sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Modifica o Anexo referente ao dia 11 de outubro, especificamente o quadro “Divisão do Estado de Mato Grosso”, passando a ter a seguinte redação:
+
+*“Criação do Estado de Mato Grosso do Sul.” (NR)*
+
+Art. 2º Esta Lei entra em vigor na data da sua publicação.
+
 Campo Grande, 16 de outubro de 2019.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

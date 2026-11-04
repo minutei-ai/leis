@@ -1,5 +1,3 @@
-###DEC-085053-0-000-19-08-1980@@@
-
 Decreto nº 85.053, de 19 de agosto de 1980.
 
 Autoriza o funcionamento do curso de Ciências Econômicas, da Faculdade de Ciências Humanas Arnaldo Busato, em Toledo, Estado do Paraná.

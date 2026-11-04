@@ -1,5 +1,3 @@
-###DEC-074190-0-000-19-06-1974@@@
-
 DECRETO Nº 74.190, DE 19 DE JUNHO DE 1974.
 
 Concede permissão em caráter permanente, à empresa PRITEFISA - Tecelagem de Fios Sintéticos da Amazônia S.A., com sede em Manaus, Estado do Amazonas, para funcionar aos domingos e nos dias feriados civis e religiosos, nas seções que menciona.

@@ -1,5 +1,3 @@
-###DEC-087976-0-000-22-12-1982@@@
-
 Decreto nº 87.976, dE 22 de dezembro de 1982
 
 Promulga a Convenção entre a República Federativa do Brasil e a República Argentina destinada a Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre a Renda.
@@ -458,7 +456,13 @@ Em testemunho do quê, os Plenipotenciários dos dois Estados Contratantes assin
 
 Feita em duplicata, em Buenos Aires, no dia dezessete de maio de 1980, nas línguas portuguesa e espanhola, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial">ARGENTINA:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ramiro Saraiva Guerreiro</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Carlos W. Pastor</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA                    FEDERATIVA DO BRASIL:
+
+PELO GOVERNO DA REPÚBLICA         ARGENTINA:
+
+Ramiro Saraiva Guerreiro
+
+Carlos W. Pastor
 
 PROTOCOLO
 
@@ -534,4 +538,10 @@ Em testemunho do quê, os Plenipotenciários dos dois Estados Contratantes assin
 
 Feito em duplicata em Buenos Aires, em dezessete de maio de 1980, nas línguas portuguesa e espanhola, sendo ambos os texto igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA ARGENTINA:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ramiro Saraiva Guerreiro</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Carlos W. Pastor</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+PELO GOVERNO DA REPÚBLICA ARGENTINA:
+
+Ramiro Saraiva Guerreiro
+
+Carlos W. Pastor

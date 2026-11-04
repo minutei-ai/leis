@@ -1,5 +1,3 @@
-###DEC-090921-0-000-06-02-1985@@@
-
 Decreto nº 90.921, de 06 de fevereiro de 1985
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e de ara dos Reis, Estado do Rio de Janeiro e de Guarujá, Estado de São Paulo.

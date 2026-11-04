@@ -1,6 +1,10 @@
 > **LEI Nº 3.789, DE 20 DE OUTUBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fica declarada de Utilidade Pública a Entidade Civil Casa das Oportunidades – OSCO.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fica declarada de Utilidade Pública a Entidade Civil Casa das Oportunidades – OSCO.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

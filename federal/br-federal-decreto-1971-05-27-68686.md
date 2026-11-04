@@ -1,5 +1,3 @@
-###DEC-068686-0-000-27-05-1971@@@
-
 DECRETO Nº 68.686 - DE 27 DE MAIO DE 1971.
 
 Dispõe sôbre o pagamento de despesa por ordem bancária e dá outras providências.

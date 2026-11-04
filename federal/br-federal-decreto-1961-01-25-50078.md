@@ -1,5 +1,3 @@
-###DEC-050078-0-000-25-01-1961@@@
-
 DECRETO Nº 50.078, DE 25 DE JANEIRO DE 1961.
 
 Cria em Brasília, Distrito Federal, uma Estação de Enologia, Subordinada ao Instituto de Fermentação, do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas, do Ministério da Agricultura.

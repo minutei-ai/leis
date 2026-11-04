@@ -1,5 +1,3 @@
-###DEL-004586-0-000-14-08-1942@@@
-
 DECRETO-LEI N. 4.586 – DE 14 DE AGOSTO DE 1942
 
 Modifica o parágrafo único do art. 1º do decreto-lei n. 4. 509, de 23 de julho de 1942

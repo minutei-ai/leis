@@ -1,5 +1,3 @@
-###MPV-002087-0-028-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.087-28, DE 25 DE JANEIRO DE 2001
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000450-0-000-09-12-2008@@@
-
 MEDIDA PROVISÓRIA Nº 450, DE 9 DE DEZEMBRO DE 2008.
 
 Autoriza a União a participar de Fundo de Garantia a Empreendimentos de Energia Elétrica - FGEE; altera o § 4o do art. 1o da Lei no 11.805, de 6 de novembro de 2008; dispõe sobre a utilização do excesso de arrecadação e do superávit financeiro das fontes de recursos existentes no Tesouro Nacional; altera o art. 1o da Lei no 10.841, de 18 de fevereiro de 2004; e autoriza a União a repassar ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES recursos captados junto ao Banco Internacional para a Reconstrução e o Desenvolvimento - BIRD.       

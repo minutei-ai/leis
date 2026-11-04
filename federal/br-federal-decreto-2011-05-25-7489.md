@@ -1,5 +1,3 @@
-###DEC-007489-0-000-25-05-2011-PUB-01@@@
-
 DECRETO Nº 7.489, DE 25 DE MAIO DE 2011
 
 Altera o item 8 do art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares - R-200, aprovado pelo Decreto nº 88.777, de 30 de setembro de 1983, para caracterizar como exercício de função de natureza policial-militar ou de interesse policial-militar ou de bombeiro-militar o exercício de cargo ou função na Secretaria Nacional de Políticas sobre Drogas.

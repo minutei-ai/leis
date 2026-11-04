@@ -1,5 +1,3 @@
-###DEC-072507-0-000-23-07-1973@@@
-
 DECRETO Nº 72.507, DE 23 DE JULHO DE 1973.
 
 Estabelece normas de controle das atividades relativas à extensão rural no País e dá outras providências.

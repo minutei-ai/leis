@@ -1,5 +1,3 @@
-###DEC-078032-0-000-12-07-1976@@@
-
 DECRETO Nº 78.032, DE 12 DE JULHO DE 1976.
 
 Concede à Cerâmica Togni S.A. o direito de lavrar argila no Município de Sacramento, Estado de Minas Gerais.

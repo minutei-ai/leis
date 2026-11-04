@@ -1,5 +1,3 @@
-###DEC-053119-0-000-10-12-1963@@@
-
 DECRETO Nº 53.119, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à Companhia Termas do Quilombo autorização para funcionar com emprêsa de mineração.

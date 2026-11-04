@@ -1,14 +1,12 @@
-###DEC-028552-0-000-28-08-1950@@@
+**DECRETO Nº 28.552, DE 28 AGÔSTO DE 1950.**
 
-<strong>DECRETO Nº 28.552, DE 28 AGÔSTO DE 1950.</strong>
+***Altera a redação do art. 9º do Regimento do Departamento Federal de Segurança Pública, aprovado pelo Decreto nº 19.476, de 21 de agôsto de 1945.***
 
-<em><strong>Altera a redação do art. 9º do Regimento do Departamento Federal de Segurança Pública, aprovado pelo Decreto nº 19.476, de 21 de agôsto de 1945.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 9º do Regimento do Departamento Federal de Segurança Pública, aprovado pelo Decreto nº 19.476, de 21 de agôsto de 1945, passa a vigorar com a seguinte redação:
+**Art**. 1º O art. 9º do Regimento do Departamento Federal de Segurança Pública, aprovado pelo Decreto nº 19.476, de 21 de agôsto de 1945, passa a vigorar com a seguinte redação:
 
 “Art. 9º A.D.P.T. compreende:
 
@@ -40,12 +38,12 @@ Seção Técnica (S.T.ª).
 
 Seção Histórica (S. H.).”
 
-<strong>Art</strong>. 2º - Ao Cartório da D.P.T., sob a direção de um Delegado de Polícia, compete a instauração dos inquéritos e processamento das contravenções, quando as infrações penais forem cometidas por autor desconhecido, ou nêles prosseguir, até o final, se já iniciados por outra autoridade.
+**Art**. 2º - Ao Cartório da D.P.T., sob a direção de um Delegado de Polícia, compete a instauração dos inquéritos e processamento das contravenções, quando as infrações penais forem cometidas por autor desconhecido, ou nêles prosseguir, até o final, se já iniciados por outra autoridade.
 
-<strong>Art</strong>. 3º - O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 3º - O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 28 de agôsto de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 José Francisco Bias Fortes

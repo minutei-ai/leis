@@ -1,5 +1,3 @@
-###DEC-087834-0-000-18-11-1982@@@
-
 Decreto nº 87.834, de 18 de novembro de 1982
 
 Amplia a zona prioritária fixada pelo Decreto nº 87.095, de 16 de abril de 1982.

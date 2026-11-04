@@ -1,5 +1,3 @@
-###DEC-081234-0-000-19-01-1978@@@
-
 Decreto nº 81.234, de 19 de janeiro de 1978.
 
 Altera o Regimento Interno dos Gabinetes da Presidência da República, aprovado pelo Decreto nº 75.200, de 9 de janeiro de 1975, e alterado pelos Decretos nºs 77.000, de 9 de janeiro de 1976 e 79.152, de 21 de janeiro de 1977.

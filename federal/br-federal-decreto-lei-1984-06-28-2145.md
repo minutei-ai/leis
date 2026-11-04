@@ -1,7 +1,3 @@
-1
-
-###DEL-002145-0-000-28-06-1984@@@
-
 # Decreto nº 89.871, de 28 de junho de 1984
 
 Cancela créditos e reabre prazo relativo ao Imposto sobre a Propriedade Territorial Rural, à Contribuição dos que exercem atividades rurais e à Taxa de Serviços Cadastrais.
@@ -37,8 +33,6 @@ Brasília, 28 de junho de 1984; 163º da Independência e 96º da República.
 JOãO FIGUEIREDO
 
 Danilo Venturini
-
-###DEL-002145-0-000-28-06-1984@@@RET01+++
 
 # DECRETO-LEI Nº 2.145, DE 28 DE JUnHO DE 1984
 

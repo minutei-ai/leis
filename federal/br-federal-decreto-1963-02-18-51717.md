@@ -1,5 +1,3 @@
-###DEC-051717-0-000-18-02-1963@@@
-
 DECRETO Nº 51.717, DE 18 DE FEVEREIRO DE 1963.
 
 Dá nova redação à Seção I do Capítulo 1º do Regimento dos Órgãos da Presidência da República, aprovado pelo Decreto nº 23.822, de 10 de outubro de 1947.

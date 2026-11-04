@@ -1,5 +1,3 @@
-###DEC-047110-0-000-27-10-1959@@@
-
 Decreto nº 47.110, de 27 de outubro de 1959.
 
 Autoriza o cidadão brasileiro Vilmar Freitas a pesquisar fluorita no município de Orledes, Estado de Santa Catarina.

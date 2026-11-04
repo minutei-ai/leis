@@ -1,5 +1,3 @@
-###DEC-091604-0-000-02-09-1985@@@
-
 Decreto nº 91.604, de 02 de setembro de 1985
 
 Regulamenta a Lei nº 7.320, de 11 de junho de 1985, que dispõe sobre antecipação de comemoração de feriados e dá outras providências.

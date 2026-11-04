@@ -1,5 +1,3 @@
-###DEC-006556-0-000-08-09-2008@@@
-
 DECRETO Nº 6.556, DE 8 DE SETEMBRO DE 2008.
 
 Altera o art. 6o do Decreto no 2.179, de 18 de março de 1997, que dispõe sobre a concessão de incentivos fiscais para o desenvolvimento regional para os produtos que especifica, e dá outras providências.

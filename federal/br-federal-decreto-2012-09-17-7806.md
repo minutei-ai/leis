@@ -1,5 +1,3 @@
-###DEC-007806-0-000-17-09-2012-PUB-01@@@
-
 DECRETO N°\- 7.806, DE 17 DE SETEMBRO DE 2012
 
 Regulamenta os critérios e procedimentos para a progressão dos servidores da carreira do Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a Lei n° 11.784, de 22 de setembro de 2008, e dispõe sobre as Comissões Permanentes de Pessoal Docente das Instituições Federais de Ensino.

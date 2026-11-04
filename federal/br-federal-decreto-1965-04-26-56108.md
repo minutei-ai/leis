@@ -1,5 +1,3 @@
-###DEC-056108-0-000-26-04-1965@@@
-
 Decreto nº 59.108, de 26 de abril de 1965.
 
 Autoriza o cidadão brasileiro Tuffy Miguel Habib a pesquisar quartzo, pedras coradas e mica, no município de Governador Valadares, Estado de Minas Gerais.

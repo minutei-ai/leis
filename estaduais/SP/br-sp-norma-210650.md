@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210650)<br>
-
 # DECRETO N° 69.375, DE 21 DE FEVEREIRO DE 2025
 
 ### _Dispõe sobre a apresentação do Plano de Desmobilização da Empresa Metropolitana de Transportes Urbanos de São Paulo S.A. - EMTU contendo as medidas que serão adotadas para sua dissolução, liquidação e extinção autorizada pela Lei n° 17.293, de 15 de outubro de 2020, e dá providências correlatas._

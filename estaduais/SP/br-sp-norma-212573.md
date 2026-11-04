@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212573)<br>
-
 # LEI N° 18.455, DE 11 DE MAIO DE 2026
 
 ## (Projeto de lei n° 719/2025, do Deputado Marcos Damasio - PL)

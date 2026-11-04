@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=130357)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/emenda.constitucional/2008/compilacao-emenda.constitucional-24-23.01.2008.html)
 
 # EMENDA CONSTITUCIONAL Nº 24, DE 23 DE JANEIRO DE 2008
@@ -43,7 +42,7 @@ _\- Expressão "__reputando-se não praticado o ato de seu ofício sempre que a 
 
 _\- § 2º declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal nos autos da [ADI nº 4052](https://portal.stf.jus.br/)._
 
-~~§ 3º - Aos diretores de Agência Reguladora aplica-se o disposto no § 1º deste artigo.~~~~" (NR)~~
+~~§ 3º - Aos diretores de Agência Reguladora aplica-se o disposto no § 1º deste artigo." (NR)~~
 
 § 3º - Declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal."
 

@@ -1,5 +1,3 @@
-###DEC-050186-0-000-28-01-1961@@@
-
 DECRETO Nº 50.186, DE 28 DE janeiro DE 1961.
 
 Transfere cargo do Ministério da Agricultura para o Ministério da Fazenda.

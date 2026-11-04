@@ -1,5 +1,3 @@
-###DEC-089506-0-000-03-04-1984@@@
-
 Decreto nº 89.506, de 03 de abril de 1984
 
 Altera os Decretos nºs 65.878, de 16 de dezembro de 1969, 69.309, de 05 de outubro de 1971, e 70.474, de 04 de maio de 1972, e dá outras providências.

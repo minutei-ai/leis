@@ -1,5 +1,3 @@
-###DEC-046835-0-000-15-09-1959@@@
-
 DECRETO Nº 46.835, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Vitório Bertin a lavrar água mineral no município de São Fidelis, Estado do Rio de Janeiro.

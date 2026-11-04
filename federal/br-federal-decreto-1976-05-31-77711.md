@@ -1,5 +1,3 @@
-###DEC-077711-0-000-31-05-1976@@@
-
 DECRETO Nº 77.711, 31 DE MAIO DE 1976
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia Bernardo Sayão, com sede na cidade de Anápolis, Estado de Goiás.

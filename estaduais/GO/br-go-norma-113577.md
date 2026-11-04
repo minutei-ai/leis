@@ -22,7 +22,8 @@ Goiânia, 16 de março de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 ANEXO ÚNICO
@@ -36,7 +37,8 @@ ANEXO ÚNICO
 | QUADRO PERMANENTE DO MAGISTÉRIO |
 | CARGO | NÍVEL | VENCIMENTO |
 | CLASSE I | CLASSE II | CLASSE III | CLASSE IV |
-| <br>
+|
+
 PROFESSOR | A | 5.180,15 | 5.180,15 | 5.439,16 | 5.840,61 |
 | B | 5.180,15 | 5.180,15 | 5.547,94 | 5.957,43 |
 | C | 5.180,15 | 5.180,15 | 5.658,89 | 6.076,57 |

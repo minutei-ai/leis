@@ -1,5 +1,3 @@
-###DEC-069181-0-000-09-09-1971@@@
-
 DECRETO Nº 69.181, DE 9 DE SETEMBRO DE 1971.
 
 Redistribui cargo, com a respectiva ocupante, para a Universidade Federal de Pernambuco, e dá outras providências.

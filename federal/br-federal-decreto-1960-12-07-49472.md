@@ -1,5 +1,3 @@
-###DEC-049472-0-000-07-12-1960@@@
-
 DECRETO Nº 49.472, DE 7 DE DEZEMBRO DE 1960.
 
 Transfere função da Tabela Única de Extranumerário-mensalista do Ministério da Educação e Cultura para a Tabela Única de Extranumerário-mensalista do Ministério da Fazenda.

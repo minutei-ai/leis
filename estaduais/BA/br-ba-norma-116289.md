@@ -18,7 +18,8 @@ Art. 2º - Durante o gozo de licença prêmio, o funcionário fará jus à metad
 
 Art. 3º - A gratificação por condições especiais de trabalho, pelo regime de tempo integral e de função policial será incorporada ao provento da aposentadoria tomando-se por base o maior percentual mensal percebido pelo funcionário nos últimos 12 (doze) meses anteriores à aposentadoria.
 
-Redação de acordo com o art. 13 da Lei nº [4.613](javascript: openDoc\() , de 27 de novembro de 1985.<br>
+Redação de acordo com o art. 13 da Lei nº [4.613](javascript: openDoc\() , de 27 de novembro de 1985.
+
 Redação original: "Art. 3º - A gratificação por condições especiais de trabalho, pelo regime de tempo integral e função policial será incorporada ao provento da aposentadoria, tomando-se por base o percentual médio fixado para o funcionário nos 24 (vinte e quatro) meses imediatamente anteriores à data da aposentadoria."
 
 § 1º - O percentual médio da gratificação de produção será obtido, para os efeitos do [§ 1º do artigo 1º desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-3627-de-28-de-dezembro-de-1977#LO_3_627_Art__1_P_1) e do "caput" do presente artigo, tomando-se a relação de percentagem entre a média do valor dos pontos percebidos e o valor do vencimento base do cargo ocupado pelo funcionário.

@@ -1,5 +1,3 @@
-###DEL-007323-0-000-15-02-1945@@@
-
 DECRETO-LEI N. 7.323 – DE 15 DE FEVEREIRO DE 1945
 
 Faz doação à Prefeitura do Distrito Federal do terreno que menciona

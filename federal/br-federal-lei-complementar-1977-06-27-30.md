@@ -1,7 +1,3 @@
-1
-
-###LCP-000030-0-000-27-06-1977@@@
-
 # LEI COMPLEMENTAR Nº 30, DE 27 DE JUNHO DE 1977
 
 Permite aposentadoria voluntária, nas condições que especifica, aos funcionários públicos do Distrito Federal, incluídos em Quadro Suplementar ou postos em disponibilidade.

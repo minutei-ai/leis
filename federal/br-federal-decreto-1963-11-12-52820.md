@@ -1,5 +1,3 @@
-###DEC-052820-0-000-12-11-1963@@@
-
 decreto nº 52.820, de 12 de novembro de 1963.
 
 Autoriza o cidadão brasileiro Orlando Moreira Torres a lavrar calcário, no município de Matozinhos, Estado de Minas Gerais.

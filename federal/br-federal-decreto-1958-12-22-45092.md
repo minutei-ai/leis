@@ -1,5 +1,3 @@
-###DEC-045092-0-000-22-12-1958@@@
-
 DECRETO Nº 45.092, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza estrangeiro a adquirir, em regulamentação de aforamento, o domínio útil dos terrenos de acrescidos de marinha que menciona, no Distrito Federal.

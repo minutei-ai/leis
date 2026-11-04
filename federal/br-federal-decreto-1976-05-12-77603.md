@@ -1,5 +1,3 @@
-###DEC-077603-0-000-12-05-1976@@@
-
 decreto nº 77.603, de 12 de maio de 1976
 
 Autoriza a Rádio Cultura de Foz do Iguaçu Limitada, a aumentar a potência diurna e noturna de sua estação de radiodifusão sonora em onda média, na cidade de Foz do Iguaçu, Estado do Paraná, de 0,25/0,25 KW para 10,0/5,0 KW, permanecendo na atual frequência de 820 KHz.

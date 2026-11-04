@@ -1,5 +1,3 @@
-###DEC-083175-0-000-15-02-1979@@@
-
 DECRETO Nº 83.175, DE 15 DE FEVEREIRO DE 1979
 
 Autoriza cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Nova Iguaçu, Estado do Rio de Janeiro.

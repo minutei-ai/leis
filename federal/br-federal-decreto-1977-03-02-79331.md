@@ -1,5 +1,3 @@
-###DEC-079331-0-000-02-03-1977@@@
-
 DECRETO Nº 79.331, DE 2 DE MARÇO DE 1977.
 
 Declara perempta a concessão outorgada à Rádio Rio Ltda. para executar serviço de radiodifusão sonora em onda curta, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

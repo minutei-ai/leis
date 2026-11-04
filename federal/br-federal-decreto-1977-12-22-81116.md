@@ -1,5 +1,3 @@
-###DEC-081116-0-000-22-12-1977@@@
-
 Decreto nº 81.116, de 22 de dezembro de 1977.
 
 Dispõe sobre os recursos da União destinados ao custeio de encargos decorrentes da desapropriação de ações do capital do Hospital N.S. da Conceição S.A., Hospital Cristo Redentor S.A. e Hospitalar Fêmina S.A. e dá outras providências.

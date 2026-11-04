@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.879, de 17 de Dezembro de 2021.](https://legis.ac.gov
 
 > **LEI Nº 3.785, DE 14 DE OUTUBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Regula a convalidação de requisições de exames, por médicos da rede privada, para realização pelo Sistema Único de Saúde - SUS, no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Regula a convalidação de requisições de exames, por médicos da rede privada, para realização pelo Sistema Único de Saúde - SUS, no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-075993-0-000-22-07-1975@@@
-
 DECRETO Nº 75.993 - DE 22 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas e Administrativas de Presidente Prudente, Estado de São Paulo, mantida pela Instituição Toledo de Ensino, com sede na cidade de Bauru, no mesmo Estado.

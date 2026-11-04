@@ -1,5 +1,3 @@
-###MPV-001940-0-025-23-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.940-25, de 23 de agosto de 2000.
 
 Altera dispositivos do Decreto-Lei nº 73, de 21 de novembro de 1966, da Lei nº 6.435, de 15 de julho de 1977, da Lei nº 5.627, de 1º de dezembro de 1970, e dá outras providências.

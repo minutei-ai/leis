@@ -1,5 +1,3 @@
-###DEC-059996-0-000-10-01-1967@@@
-
 DECRETO Nº 59.996, DE 10 DE JANEIRO DE 1967.
 
 Renova o decreto nº 53.447, de 20 de janeiro de 1964.

@@ -1,5 +1,3 @@
-###DEC-081003-0-000-12-12-1977@@@
-
 Decreto nº 81.003, de 12 de dezembro de 1977.
 
 Declara sem efeito o Decreto nº 68.653, de 24 de maio de 1971, que concedeu à Companhia Nacional de Cimento Portland o direito de lavrar gipsita nos Municípios de Camumu e Maraú, Estado da Bahia.

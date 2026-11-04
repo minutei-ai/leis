@@ -1,5 +1,3 @@
-###DEC-072737-0-000-04-09-1973@@@
-
 DECRETO Nº 72.737, de 4 de setembro de 1973.
 
 Concede à Cia. Estanífera do Brasil o direito de lavrar cassiterita, columbita, tantalita e espodumênio, no Município de Itinga, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-045214-0-000-13-01-1959@@@
-
 DECRETO Nº 45.214, DE 13 DE JANEIRO DE 1959.
 
 Altera o Regulamento de Promoções para Oficiais da Marinha.

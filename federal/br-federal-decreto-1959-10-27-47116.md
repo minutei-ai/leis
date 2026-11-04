@@ -1,5 +1,3 @@
-###DEC-047116-0-000-27-10-1959@@@
-
 DECRETO Nº 47.116, DE 27 DE OUTUBRO DE 1959.
 
 Autoriza a Mineração Caeté-Mirim S. A. a pesquisar diamante e ouro no município de Itupiranga, Estado do Pará.

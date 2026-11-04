@@ -1,5 +1,3 @@
-###DEC-092639-0-000-12-05-1986@@@
-
 DECRETO Nº 92.639, DE 12 DE MAIO DE 1986
 
 Revoga o Decreto nº 79.968, de 14 de julho de 1977.

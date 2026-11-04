@@ -1,5 +1,3 @@
-###DEC-078844-0-000-26-11-1976@@@
-
 DECRETO Nº 78.844, DE 26 DE NOVEMBRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Liberal Limitada para executar serviço de radiodifusão sonora em onda média de âmbito regional na cidade de Belém, Estado do Pará.

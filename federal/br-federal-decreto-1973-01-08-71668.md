@@ -1,5 +1,3 @@
-###DEC-071668-0-000-08-01-1973@@@
-
 DECRETO Nº 71.668, DE 8 DE JANEIRO DE 1973.
 
 Concede a Cerâmica de Guarulhos S.A. o direito de lavrar magnesita, no Município de Brumado, Estado da Bahia.

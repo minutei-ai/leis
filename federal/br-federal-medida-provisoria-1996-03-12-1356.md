@@ -1,7 +1,3 @@
-1
-
-###MPV-001356-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.356, DE 12 DE MARÇO DE 1996.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

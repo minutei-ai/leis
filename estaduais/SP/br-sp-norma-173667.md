@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=173667)
-
 # DECRETO Nº 60.894, DE 14 DE NOVEMBRO DE 2014
 
 ### _Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando o levantamento do Balanço Geral do Estado do exercício de 2014, e dá providências correlatas_
@@ -26,7 +24,7 @@ Decreta:
 
 **SEÇÃO II**
 
-**Do Encerramento das Execuções Orçamentária e** **Financeira**
+**Do Encerramento das Execuções Orçamentária eFinanceira**
 
 **Artigo 2º -** Os pedidos de confirmação do excesso de arrecadação de receitas próprias, vinculadas ou operações de crédito deverão ser formalizados mediante a utilização do Sistema Integrado da Receita - SIR, disponibilizado no endereço eletrônico WWW.fazenda.sp.gov.br, em Acesso Restrito, Opção: Integrado da Receita, até 19 de novembro de 2014.
 
@@ -194,9 +192,14 @@ Publicado na Casa Civil, aos 14 de novembro de 2014.
 
 Retificação do D.O. de 15-11-2014
 
-No referendo, onde se lê:<br>
-David Everson Uip<br>
-Secretário da Saúde<br>
-Leia-se:<br>
-Wilson Modesto Pollara<br>
+No referendo, onde se lê:
+
+David Everson Uip
+
+Secretário da Saúde
+
+Leia-se:
+
+Wilson Modesto Pollara
+
 Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Saúde

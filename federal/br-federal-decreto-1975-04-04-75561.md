@@ -1,5 +1,3 @@
-###DEC-075561-0-000-04-04-1975@@@
-
 DECRETO Nº 75.561, DE 4 DE ABRIL DE 1975.
 
 Dispõe sobre competência para promoção e coordenação de Políticas e Diretrizes do Plano Diretor de Medicamentos e dá outras providências.

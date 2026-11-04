@@ -1,5 +1,3 @@
-###DEC-080415-0-000-27-09-1977@@@
-
 DECRETO Nº 80.415, DE 27 DE SETEMBRO DE 1977.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Município de Niterói, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-049026-0-000-04-10-1960@@@
-
 DECRETO Nº 49.026, DE 4 DE OUTUBRO DE 1960.
 
 Concede nacionalização à sociedade anônima The Timken Roller Bearing Company of South America, sob a denominação de Timken do Brasil S.A. - Comércio e Indústria.

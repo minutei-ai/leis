@@ -1,5 +1,3 @@
-###DEL-001456-0-000-07-04-1976@@@
-
 # DECRETO-LEI Nº 1.456, DE 7 ABRIL DE 1976
 
 Concede estímulos fiscais às empresas comerciais exportadoras constituídas na forma prevista pelo Decreto-lei nº 1.248, de 29 novembro de 1972.

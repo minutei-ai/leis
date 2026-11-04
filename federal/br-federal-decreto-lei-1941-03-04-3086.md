@@ -1,5 +1,3 @@
-###DEL-003086-0-000-04-03-1941@@@
-
 DECRETO-LEI N. 3.086 – DE 4 DE MARÇO DE 1941
 
 Cria uma Estação Experimental, de Arroz no Estado do Rio Grande do Sul, subordinada ao Centro Nacional de Ensino e Pesquisas Agronômicas do Ministério da Agricultura.

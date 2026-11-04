@@ -1,5 +1,3 @@
-###DEL-005666-0-000-15-07-1943@@@
-
 DECRETO‑LEI N. 5.666 – DE 15 DE JULHO DE 1943
 
 Esclarece e amplia o decreto‑lei n. 4.120, de 21 fevereiro de 1942, e dá outras providências

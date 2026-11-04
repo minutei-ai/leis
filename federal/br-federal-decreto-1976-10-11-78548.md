@@ -1,5 +1,3 @@
-###DEC-078548-0-000-11-10-1976@@@
-
 Decreto nº 78.548, de 11 de outubro de 1976.
 
 Concede à Mineração Indústria e Comércio Ltda. o direito de lavrar diatomita no Município de Ibicoara, Estado da Bahia.

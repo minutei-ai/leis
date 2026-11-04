@@ -1,5 +1,3 @@
-###DEC-081379-0-000-21-02-1978@@@
-
 Decreto nº 81.379, de 21 de fevereiro de 1978.
 
 Retifica o Decreto nº 80.017, de 26 de julho de 1977.

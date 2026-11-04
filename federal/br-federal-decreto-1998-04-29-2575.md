@@ -1,5 +1,3 @@
-###DEC-002575-0-000-29-04-1998@@@
-
 DECRETO Nº 2.575, DE 29 DE ABRIL DE 1998
 
 Dispõe sobre a execução, em território nacional, da Resolução 1160 (1998) do Conselho de Segurança das Nações Unidas, que estabelece embargo de armamento e material correlato contra a República Federal da Iugoslávia.

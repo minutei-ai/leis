@@ -1,5 +1,3 @@
-###DEC-061575-0-000-20-10-1967@@@
-
 DECRETO Nº 61.575, DE 20 DE OUTUBRO DE 1967.
 
 Provê sôbre a utilização de prédio situado no Estado da Guanabara.

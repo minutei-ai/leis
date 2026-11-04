@@ -1,5 +1,3 @@
-###DEC-007435-0-000-28-01-2011-PUB-01@@@
-
 DECRETO Nº 7.435, DE 28 DE JANEIRO DE 2011
 
 Dá nova redação ao art. 305 do Decreto nº 7.212, de 15 de junho de 2010, que regulamenta a cobrança, fiscalização, arrecadação e administração do Imposto sobre Produtos Industrializados - IPI.

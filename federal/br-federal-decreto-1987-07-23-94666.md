@@ -1,5 +1,3 @@
-###DEC-094666-0-000-23-07-1987@@@
-
 DECRETO Nº 94.666, DE 23 DE JULHO DE 1987.
 
 Dispõe sobre a redução de dispêndios com pessoal e serviços de terceiros nas entidades que menciona, e dá outras providências.

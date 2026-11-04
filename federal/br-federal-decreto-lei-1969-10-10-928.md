@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b649b1bc-c407-48f5-a8dd-633f54847595/texto#nowhere)
 
-###DEL-000928-0-000-10-10-1969@@@
-
 DECRETO-LEI Nº 928, DE 10 DE OUTUBRO DE 1969
 
 Autoriza o Govêrno do Estado do Rio Grande do Sul a contrair um empréstimo a ser concedido pela Union de Banques Suisses, Genebra-Suíça, com o aval do Banco do Estado do Rio Grande do Sul S.A.

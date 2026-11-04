@@ -75,11 +75,14 @@ Art. 6º Este Decreto entrará em vigor na data de sua publicação, revogando e
 
 Município de Aparecida de Goiânia, aos 27 de Julho de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-JULIO CÉSAR CHAGAS MENDES<br>
+JULIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61443)
-
 # LEI Nº 12.283, DE 22 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 312/2004, do Deputado Simão Pedro - PT)

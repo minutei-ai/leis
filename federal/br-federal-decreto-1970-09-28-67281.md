@@ -1,5 +1,3 @@
-###DEC-067281-0-000-28-09-1970@@@
-
 Decreto nº 67.281, de 28 de setembro de 1970.
 
 Declara de utilidade pública a Associação de País e Amigos dos Excepcionais de Ribeirão Prêto, com sede em Ribeirão Prêto, Estado de São Paulo.

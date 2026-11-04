@@ -1,5 +1,3 @@
-###DEC-082371-0-000-04-10-1978@@@
-
 Decreto nº 82 371, de 04 de outubro de 1978.
 
 Autoriza a conversação do curso de Matemática em curso de Ciências de Faculdade de Filosofia, Ciências e Letras de Montes Claros, Estado de Minas Gerais.

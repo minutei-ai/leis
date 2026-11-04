@@ -1,5 +1,3 @@
-###DEC-084942-0-000-22-07-1980@@@
-
 Decreto nº 84.942, de 22 de julho de 1980.
 
 Fixa período bienal para a realização do Congresso Nacional de Prevenção de Acidentes do Trabalho.

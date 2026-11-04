@@ -1,5 +1,3 @@
-###MPV-002011-0-008-26-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.011-8, DE 26 DE maio de 2000.
 
 Altera dispositivos da Lei nº 9.615, de 24 de março de 1998, e dá outras providências.

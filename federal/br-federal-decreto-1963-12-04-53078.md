@@ -1,5 +1,3 @@
-###DEC-053078-0-000-04-12-1963@@@
-
 DECRETO Nº 53.078, DE 4 DE DEZEMBRO DE 1963.
 
 Dispõe sôbre a organização inicial da 6ª Zona Aérea.

@@ -1,5 +1,3 @@
-###DEL-005433-0-000-29-04-1943@@@
-
 DECRETO-LEI N. 5.433 – DE 29 DE ABRIL DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas a crédito suplementar de  Cr$ 40.827,40, à verba que especifica

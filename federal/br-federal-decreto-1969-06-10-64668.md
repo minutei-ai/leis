@@ -1,5 +1,3 @@
-###DEC-064668-0-000-10-06-1969@@@
-
 DECRETO Nº 64.668, DE 10 DE JUNHO DE 1969.
 
 Dispõe sôbre redistribuição do servidor do extinto Serviço de Alimentação da Previdência Social (SAPS).

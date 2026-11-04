@@ -1,5 +1,3 @@
-###DEL-001588-0-000-19-12-1977@@@
-
 # Decreto-Lei nº 1.588, de 19 de dezembro de 1977
 
 Fixa alíquotas do imposto de importação nos códigos da Nomenclatura Brasileira de Mercadorias que enumera, e dá outras providências.
@@ -10,7 +8,49 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o artigo 55, 
 
 Art. 1º - São fixadas as seguintes alíquotas “ad-valorem” do imposto de importação para as mercadorias classificadas nos códigos da Nomenclatura Brasileira de Mercadorias a seguir relacionados:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>87.02.01.00</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Automóveis de passageiros, inclusive os de esporte; camionetas de passageiros; camionetas de uso misto tipos “Sedan”, utilitário veraneio, furgão e outras camionetas de uso misto</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>87.02.01.01</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Com motor até 100 cv (cavalos vapor) de potência bruta (SAE)</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>85%</span></p></td></tr><tr><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>87.02.01.02</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Com motor de mais de 100 cv (cavalos vapor) de potência bruta (SAE)</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>105%</span></p></td></tr><tr><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>87.02.02.00</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Automóveis especiais para corrida</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>85%</span></p></td></tr><tr><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>87.02.05.00</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Veículos da sobposição 01.00, CKD (“</span><span style="font-style:italic">completely knocked down</span><span>”), mesmo incompletos</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>87.02.05.01</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Do item 87.02.01.01</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>85%</span></p></td></tr><tr><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>87.02.05.02</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Do item 87.02.01.02</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>105%</span></p></td></tr><tr><td style="width:72.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>87.02.06.00</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Veículos da subposição 02.00, CKD (“</span><span style="font-style:italic">completely knocked down</span><span>”), mesmo incompletos</span></p></td><td style="width:41.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>85%</span></p></td></tr></tbody></table>
+87.02.01.00
+
+Automóveis de passageiros, inclusive os de esporte; camionetas de passageiros; camionetas de uso misto tipos “Sedan”, utilitário veraneio, furgão e outras camionetas de uso misto
+
+87.02.01.01
+
+Com motor até 100 cv (cavalos vapor) de potência bruta (SAE)
+
+85%
+
+87.02.01.02
+
+Com motor de mais de 100 cv (cavalos vapor) de potência bruta (SAE)
+
+105%
+
+87.02.02.00
+
+Automóveis especiais para corrida
+
+85%
+
+87.02.05.00
+
+Veículos da sobposição 01.00, CKD (“completely knocked down”), mesmo incompletos
+
+87.02.05.01
+
+Do item 87.02.01.01
+
+85%
+
+87.02.05.02
+
+Do item 87.02.01.02
+
+105%
+
+87.02.06.00
+
+Veículos da subposição 02.00, CKD (“completely knocked down”), mesmo incompletos
+
+85%
 
 Art. 2º - Sobre as alíquotas correspondentes às mercadorias classificadas nos códigos 87.02.01.01, 87.02.01.02, 87.02.05.01 e 87.02.05.02, de que trata o artigo 1º, aplicam-se os acréscimos estabelecidos no Decreto-lei nº 1.364, de 28 de novembro de 1974, enquanto vigorarem.
 

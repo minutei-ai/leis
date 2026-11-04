@@ -1,5 +1,3 @@
-###DEC-047082-0-000-22-10-1959@@@
-
 DECRETO Nº 47.082, DE 22 DE OUTUBRO DE 1959.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Emprêsa Luz e Fôrça Santa Maria Sociedade Anônima.

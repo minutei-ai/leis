@@ -1,5 +1,3 @@
-###DEC-088108-0-000-10-02-1983@@@
-
 decreto nº 88.108, de 10 de fevereiro de 1983
 
 Restaura a vigência de dispositivos do Regulamento aprovado pelo Decreto nº 66.513, de 29 de abril de 1970, e dá outras providências.

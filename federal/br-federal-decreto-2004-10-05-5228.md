@@ -1,5 +1,3 @@
-###DEC-005228-0-000-05-10-2004@@@
-
 DECRETO Nº 5.228, DE 5 DE OUTUBRO DE 2004
 
 Dispõe sobre a área do Porto Organizado de Vila do Conde - PA.

@@ -1,6 +1,7 @@
 LEI Nº 863 DE 14 DE NOVEMBRO DE 1956
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.360 de 29 de junho de 2015 -  Atualiza na forma da Lei 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: Araci, Barrocas, Biritinga, Candeal, Cansanção, Conceição do Coité, Ichu, Itiúba, Lamarão, Monte Santo, Nordestina, Queimadas, Quijingue, Retirolândia, Santaluz, São Domingos, Serrinha, Teofilândia, Tucano e Valente.
 
 Restaura o município de Arací, desmembrado do de Serrinha, fixa os seus limites e dispõe sobre a aplicação das rendas do atual distrito e sobre a dívida pública a que ficar obrigado após a emancipação.
@@ -49,4 +50,4 @@ Governador
 
 Carlos Souza Dantas
 
-* * *
+ *

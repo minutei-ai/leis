@@ -1,5 +1,3 @@
-###DEC-081839-0-000-26-06-1978@@@
-
 Decreto nº 81.839, de 26 de junho de 1978.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Indústria Têxtil da Universidade Federal do Rio Grande do Norte, com sede em Natal, Estado do Rio Grande do Norte.

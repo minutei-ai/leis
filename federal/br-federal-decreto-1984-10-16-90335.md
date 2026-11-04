@@ -1,5 +1,3 @@
-###DEC-090335-0-000-16-10-1984@@@
-
 Decreto nº 90.335, de 16 de outubro de 1984.
 
 Aprova o Regulamento para o Corpo de Praças do Corpo de Fuzileiros Navais.
@@ -28,7 +26,289 @@ Alfredo Karam
 
 Artigos
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Da Organização...............................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1º ao 4º</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">II</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Da Inclusão.....................................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5º</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">III</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Da Carreira......................................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">6º ao 9º</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">IV</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Do Comportamento..........................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">10 ao 20</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">V</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Da Aptidão para a Carreira................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">21 ao 28</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">VI</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Da Habilitação Profissional...............................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">29 ao 31</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">VII</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Cursos</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Cursos em Geral.......................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">32 e 33</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">II</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Da Matrícula em Curso.....................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">34 ao 38</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">III</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Cursos de Especialização.........................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">39 ao 42</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">IV</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Cursos de Subespecialização....................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">43 ao 45</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">V</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Cursos de Formação de Sargentos............................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">46 ao 50</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">VI</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Cursos de Aperfeiçoamento.......................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">51 ao 54</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">VII</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Cursos de Qualificação para Funções Técnicas...........</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">55 ao 56</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">VIII</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Demais Cursos.........................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">57 ao 60</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">VIII</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Estágios</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Estágios de Avaliação...............................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">61 e 62</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">II</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Da Habilitação nos Estágios de Avaliação..........................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">63 ao 66</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">IX</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Do Desenvolvimento da Carreira</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Das Fases da Carreira.....................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">67 ao 70</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">II</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Das Promoções...............................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">71 ao 81</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">III</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Requisitos para Promoção.........................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">82 ao 90</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">IV</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Das Escalas de Promoção...............................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">91 ao 95</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">V</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dos Compromissos de Tempo de Serviço..........................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">96 ao 101</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SEÇÃO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">VI</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Do Desligamento.............................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">102 ao 107</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">X</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Da Aplicação da Quota Compulsória.................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">108 ao 113</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">XI</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Da Agregação, da Reversão e da Reinclusão.....................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">114 ao 116</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">XII</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Das Disposições Gerais...................................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">117 ao 123</span></p></td></tr><tr><td style="width:58.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO</span></p></td><td style="width:17.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">XIII</span></p></td><td style="width:3.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:258.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Das Disposições Transitórias............................................</span></p></td><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">124 ao 129</span></p></td></tr></tbody></table>
+CAPÍTULO
+
+I
+
+-
+
+Da Organização...............................................................
+
+1º ao 4º
+
+CAPÍTULO
+
+II
+
+-
+
+Da Inclusão.....................................................................
+
+5º
+
+CAPÍTULO
+
+III
+
+-
+
+Da Carreira......................................................................
+
+6º ao 9º
+
+CAPÍTULO
+
+IV
+
+-
+
+Do Comportamento..........................................................
+
+10 ao 20
+
+CAPÍTULO
+
+V
+
+-
+
+Da Aptidão para a Carreira................................................
+
+21 ao 28
+
+CAPÍTULO
+
+VI
+
+-
+
+Da Habilitação Profissional...............................................
+
+29 ao 31
+
+CAPÍTULO
+
+VII
+
+-
+
+Dos Cursos
+
+SEÇÃO
+
+I
+
+-
+
+Dos Cursos em Geral.......................................................
+
+32 e 33
+
+SEÇÃO
+
+II
+
+-
+
+Da Matrícula em Curso.....................................................
+
+34 ao 38
+
+SEÇÃO
+
+III
+
+-
+
+Dos Cursos de Especialização.........................................
+
+39 ao 42
+
+SEÇÃO
+
+IV
+
+-
+
+Dos Cursos de Subespecialização....................................
+
+43 ao 45
+
+SEÇÃO
+
+V
+
+-
+
+Dos Cursos de Formação de Sargentos............................
+
+46 ao 50
+
+SEÇÃO
+
+VI
+
+-
+
+Dos Cursos de Aperfeiçoamento.......................................
+
+51 ao 54
+
+SEÇÃO
+
+VII
+
+-
+
+Dos Cursos de Qualificação para Funções Técnicas...........
+
+55 ao 56
+
+SEÇÃO
+
+VIII
+
+-
+
+Dos Demais Cursos.........................................................
+
+57 ao 60
+
+CAPÍTULO
+
+VIII
+
+-
+
+Dos Estágios
+
+SEÇÃO
+
+I
+
+-
+
+Dos Estágios de Avaliação...............................................
+
+61 e 62
+
+SEÇÃO
+
+II
+
+-
+
+Da Habilitação nos Estágios de Avaliação..........................
+
+63 ao 66
+
+CAPÍTULO
+
+IX
+
+-
+
+Do Desenvolvimento da Carreira
+
+SEÇÃO
+
+I
+
+-
+
+Das Fases da Carreira.....................................................
+
+67 ao 70
+
+SEÇÃO
+
+II
+
+-
+
+Das Promoções...............................................................
+
+71 ao 81
+
+SEÇÃO
+
+III
+
+-
+
+Dos Requisitos para Promoção.........................................
+
+82 ao 90
+
+SEÇÃO
+
+IV
+
+-
+
+Das Escalas de Promoção...............................................
+
+91 ao 95
+
+SEÇÃO
+
+V
+
+-
+
+Dos Compromissos de Tempo de Serviço..........................
+
+96 ao 101
+
+SEÇÃO
+
+VI
+
+-
+
+Do Desligamento.............................................................
+
+102 ao 107
+
+CAPÍTULO
+
+X
+
+-
+
+Da Aplicação da Quota Compulsória.................................
+
+108 ao 113
+
+CAPÍTULO
+
+XI
+
+-
+
+Da Agregação, da Reversão e da Reinclusão.....................
+
+114 ao 116
+
+CAPÍTULO
+
+XII
+
+-
+
+Das Disposições Gerais...................................................
+
+117 ao 123
+
+CAPÍTULO
+
+XIII
+
+-
+
+Das Disposições Transitórias............................................
+
+124 ao 129
 
 # REGULAMENTO PARA O CORPO DE PRAÇAS
 

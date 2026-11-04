@@ -1,5 +1,3 @@
-###DEC-052238-0-000-09-07-1963@@@
-
 DECRETO Nº 52.238, DE 9 DE JULHO DE 1963.
 
 Autoriza a Termas Nova Friburgo S.A. a lavrar água mineral, no município de Nova Friburgo, Estado do Rio de Janeiro.

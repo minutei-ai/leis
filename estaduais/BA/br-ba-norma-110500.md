@@ -42,10 +42,14 @@ II - que tenham se beneficiado da redução do valor da multa de que trata este 
 
 revogadoArt. 4º - Em substituição ao incentivo previsto na [Lei nº 7.024, de 23 de janeiro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7024-de-23-de-janeiro-de-1997#LO_7_024) , o Chefe do Poder Executivo poderá autorizar que os contribuintes habilitados ao referido programa, até 12 de dezembro de 2001, efetuem lançamento de crédito fiscal em valor equivalente, observados os limites e condições estabelecidos em decreto regulamentar.
 
-Ver também:<br>
-Arts. 10 e 14 do [Decreto nº 9.426, de 17 de maio de 2005](https://www.legislabahia.ba.gov.br/documentos/decreto-no-9426-de-17-de-maio-de-2005#DEC_9_426) :<br>
-"[Art. 10](https://www.legislabahia.ba.gov.br/documentos/decreto-no-9426-de-17-de-maio-de-2005#DEC_9_426_Art__10) \- Ficam autorizados os contribuintes beneficiários do incentivo instituído pela Lei n. 7.024, de 23 de janeiro de 1997, nos termos do art. 4º da Lei 9.430, de 10 de fevereiro de 2005, a utilizar crédito fiscal em valor equivalente ao resultante da aplicação dos percentuais fixados em resolução do Conselho Deliberativo do FUNDESE."<br>
-"[Art. 14](https://www.legislabahia.ba.gov.br/documentos/decreto-no-9426-de-17-de-maio-de-2005#DEC_9_426_Art__14) \- O uso de crédito fiscal nos termos do art. 4º da Lei nº 9.430, de 10 de fevereiro de 2005, abrangerá todo o período aquisitivo relativo ao direito ao benefício fiscal instituído pela Lei nº 7.024, de 23 de janeiro de 1997."<br>
+Ver também:
+
+Arts. 10 e 14 do [Decreto nº 9.426, de 17 de maio de 2005](https://www.legislabahia.ba.gov.br/documentos/decreto-no-9426-de-17-de-maio-de-2005#DEC_9_426) :
+
+"[Art. 10](https://www.legislabahia.ba.gov.br/documentos/decreto-no-9426-de-17-de-maio-de-2005#DEC_9_426_Art__10) \- Ficam autorizados os contribuintes beneficiários do incentivo instituído pela Lei n. 7.024, de 23 de janeiro de 1997, nos termos do art. 4º da Lei 9.430, de 10 de fevereiro de 2005, a utilizar crédito fiscal em valor equivalente ao resultante da aplicação dos percentuais fixados em resolução do Conselho Deliberativo do FUNDESE."
+
+"[Art. 14](https://www.legislabahia.ba.gov.br/documentos/decreto-no-9426-de-17-de-maio-de-2005#DEC_9_426_Art__14) \- O uso de crédito fiscal nos termos do art. 4º da Lei nº 9.430, de 10 de fevereiro de 2005, abrangerá todo o período aquisitivo relativo ao direito ao benefício fiscal instituído pela Lei nº 7.024, de 23 de janeiro de 1997."
+
 Revogado pelo art. 10º, Lei 14.037 de 20 de dezembro de 2018.
 
 Art. 5º - Esta Lei entrará em vigor na data de sua publicação.
@@ -66,4 +70,4 @@ Albérico Mascarenhas
 
 Secretário da Fazenda
 
-* * *
+ *

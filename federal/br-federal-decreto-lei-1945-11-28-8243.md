@@ -1,5 +1,3 @@
-###DEL-008243-0-000-28-11-1945@@@
-
 DECRETO-LEI N. 8.243 – DE 28 DE NOVEMBRO DE 1945
 
 Cria cargos no Quadro Permanente do Ministério das Relações Exteriores e dá outras providências.

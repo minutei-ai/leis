@@ -1,5 +1,3 @@
-###DEC-054561-0-000-23-10-1964@@@
-
 DECRETO Nº 54.561, DE 23 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Centrais Elétricas Fluminenses S.A. CELF, terreno situado no município de Teresópolis - Estado do Rio de Janeiro.

@@ -1,8 +1,7 @@
-###MPV-001880-0-010-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.880-10, DE 24 DE SETEMBRO DE 1999
 
-Institui o Auxílio-Transporte aos militares, servidores e empregados públicos da Administração<br>
+Institui o Auxílio-Transporte aos militares, servidores e empregados públicos da Administração
+
 Federal direta, autárquica e fundacional da União, e revoga o § 1º do art. 1º da Lei nº 7.418, de 16 de fevereiro de 1985.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:

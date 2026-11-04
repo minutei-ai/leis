@@ -1,5 +1,3 @@
-###DEC-094051-0-000-23-02-1987@@@
-
 DECRETO Nº 94.051, DE 23 DE FEVEREIRO DE 1987.
 
 Prorroga o prazo fixado no § 2º do artigo 1º do Decreto nº 92.559, de 16 de abril de 1986, que dispõe sobre a requisição de servidores para a Superintendência Nacional do Abastecimento.

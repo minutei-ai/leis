@@ -2,12 +2,12 @@ LEI Nº 23.246, DE 25 DE JANEIRO DE 2025
 
 Estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2025.
 
-\- [Vide Lei nº 24.019, de 6-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043/lei-24019) - Estima a receita e ﬁxa a despesa do Estado de Goiás para o exercício de 2026. <br>
-<br>
-\- [Vide Lei nº 22.536, de 9-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392) - Estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2024.<br>
-<br>
-\- [Vide Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111667/decreto-10823) - Altera o Decreto nº 10.634, de 31 de janeiro de 2025, que dispõe sobre os procedimentos relativos às emendas individuais impositivas no Estado de Goiás e revoga o Decreto nº 10.098, de 14 de junho de 2022.<br>
-<br>
+\- [Vide Lei nº 24.019, de 6-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112043/lei-24019) - Estima a receita e ﬁxa a despesa do Estado de Goiás para o exercício de 2026. 
+
+\- [Vide Lei nº 22.536, de 9-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392) - Estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2024.
+
+\- [Vide Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111667/decreto-10823) - Altera o Decreto nº 10.634, de 31 de janeiro de 2025, que dispõe sobre os procedimentos relativos às emendas individuais impositivas no Estado de Goiás e revoga o Decreto nº 10.098, de 14 de junho de 2022.
+
 \- [Vide Decreto nº 10.634, de 31-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110418/decreto-10634) - Dispõe sobre os procedimentos relativos às emendas individuais impositivas no Estado de Goiás e revoga o Decreto nº 10.098, de 14 de junho de 2022.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
@@ -220,12 +220,14 @@ II – o Fundo Constitucional de Transporte – FCT.
 
 § 1º A distribuição dos recursos obedecerá aos seguintes percentuais:
 
-I – 20% (vinte por cento) para o FUNESP; e<br>
+I – 20% (vinte por cento) para o FUNESP; e
+
 \- [Redação dada pela Lei nº 23.796, de 6-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111529).
 
 ~~I – 14% (quatorze por cento) para o FUNESP; e~~
 
-II – 45% (quarenta e cinco por cento) para o FCT.<br>
+II – 45% (quarenta e cinco por cento) para o FCT.
+
 \- [Redação dada pela Lei nº 23.796, de 6-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111529).
 
 ~~II – 20% (vinte por cento) para o FCT.~~

@@ -1,5 +1,3 @@
-###DEC-090037-0-000-09-08-1984@@@
-
 Decreto nº 90.037, de 09 de agosto de 1984
 
 Dispõe sobre a concessão de garantias pela União e pelas entidades da Administração Pública Federal indireta.

@@ -1,5 +1,3 @@
-###DEL-008683-0-000-15-01-1946@@@
-
 DECRETO-LEI N. 8.683 – DE 15 DE JANEIRO DE 1946
 
 Cria e inclui cargos na lotação permanente da Caixa de Amortização.

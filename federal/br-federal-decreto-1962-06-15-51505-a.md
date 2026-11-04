@@ -1,5 +1,3 @@
-###DEC-051505-A-000-15-06-1962@@@
-
 DECRETO Nº 51.505-A, DE 15 DE JUNHO DE 1962.
 
 Altera a redação do artigo 2º do Decreto nº 51.484, de 5 de junho de 1962.

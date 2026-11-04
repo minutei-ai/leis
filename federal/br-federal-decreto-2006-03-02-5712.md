@@ -1,5 +1,3 @@
-###DEC-005712-0-000-02-03-2006@@@
-
 DECRETO Nº 5.712, DE 2 DE MARÇO DE 2006.
 
        Regulamenta o Regime Especial de Tributação para a Plataforma de Exportação de Serviços de Tecnologia da Informação - REPES, instituído pelos arts. 1o a 11 da Lei no 11.196, de 21 de novembro de 2005.
@@ -185,5 +183,3 @@ DAS DISPOSIÇÕES FINAIS
 LUIZ INÁCIO LULA DA SILVA
 
         Antonio Palocci Filho
-
-Este texto não substitui o publicado no DOU de 3.3.2006

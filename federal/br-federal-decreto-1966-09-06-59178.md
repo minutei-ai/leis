@@ -1,5 +1,3 @@
-###DEC-059178-0-000-06-09-1966@@@
-
 Decreto nº 59.178, de 6 de setembro de 1966.
 
 Autoriza o funcionamento de cursos na Faculdade de Filosofia de Passo Fundo.

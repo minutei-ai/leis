@@ -1,5 +1,3 @@
-###DEC-056361-0-000-27-05-1965@@@
-
 DECRETO Nº 56.361, DE 27 DE MAIO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis destinados à Universidade do Ceará.

@@ -1,7 +1,3 @@
-1
-
-###DEL-000574-0-000-08-05-1969@@@
-
 DECRETO-LEI Nº 574, DE 8 DE MAIO DE 1969
 
 Dispõe sôbre o aumento de matrículas em estabelecimentos de ensino superior.

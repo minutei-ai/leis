@@ -1,5 +1,3 @@
-###DEC-069474-0-000-05-11-1971@@@
-
 DECRETO Nº 69.474 - DE 5 DE NOVEMBRO DE 1971
 
 Torna sem efeito o Decreto nº 12.803 de 7 de julho de 1943.

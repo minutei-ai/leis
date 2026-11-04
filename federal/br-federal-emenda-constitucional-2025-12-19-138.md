@@ -27,7 +27,6 @@ sha256_markdown: "ca89459cea56a1ee2218fc07f20f12d5d3632a1099dfa0be0f462096737c95
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 138, DE 19 DE DEZEMBRO DE 2025
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídic
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
-> Este texto não substitui o publicado no DOU de 22.12.2025
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2025-12-19-138.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -91,8 +89,4 @@ Brasília, 19 de dezembro de 2025.
 |  |  |  |
 | Deputada DELEGADA KATARINA 3ª Secretária |  | Senadora ANA PAULA LOBATO 3ª Secretária |
 |  |  |  |
-| Deputado SERGIO SOUZA 4º Secretário |  | Senador LAÉRCIO OLIVEIRA 4º Secretário |
-
-Este texto não substitui o publicado no DOU 22.12.2025
-
-\*
+| Deputado SERGIO SOUZA 4º Secretário |  | Senador LAÉRCIO OLIVEIRA 4º Secretário |\*

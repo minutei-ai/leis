@@ -1,5 +1,3 @@
-###DEL-009687-0-000-30-08-1946@@@
-
 DECRETO-LEI N. 9.687 – DE 30 AGÔSTO DE 1946
 
 Altera os Decretos-leis ns. 1.713, de 28 de Outubro de 1939, e 8.542, de 2 de Janeiro de 1946, e dá outras providências.

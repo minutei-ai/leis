@@ -1,5 +1,3 @@
-###DEC-094227-0-000-15-04-1987@@@
-
 DECRETO Nº 94.227, DE 15 DE ABRIL DE 1987.
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Teimozia, São Roque, Santo Antônio, Gaião, Retiro, Vida, Mariosa, Nova Vida, Veiga, Dio, Wavnak II, São Phelite, Boa Esperança, Vigo, Liberdade, Marirosa e Angico do Pajeú", classificados no Cadastro de Imóveis Rurais do INCRA, como latifúndios por exploração e minifúndios, situados no Município de Caldeirão Grande, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.689, de 19 de maio de 1986, e dá outras providências.

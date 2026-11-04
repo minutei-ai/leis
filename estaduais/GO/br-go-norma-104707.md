@@ -138,8 +138,6 @@ II – 1º de abril de 2022, em relação aos demais dispositivos do Anexo IX do
 
 Goiânia, 22 de dezembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

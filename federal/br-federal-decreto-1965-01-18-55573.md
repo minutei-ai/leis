@@ -1,5 +1,3 @@
-###DEC-055573-0-000-18-01-1965@@@
-
 DECRETO Nº 55.573, DE 18 DE JANEIRO DE 1965.
 
 Concede à Emprêsa Yaramar de Navegação Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

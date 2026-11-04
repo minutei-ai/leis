@@ -1,5 +1,3 @@
-###DEC-064224-0-000-19-03-1969@@@
-
 DECRETO Nº 64.224, DE 19 DE MARÇO DE 1969.
 
 Concede à SACOMEX - Sociedade Extrativa de Calcáreos Ltda, o direito de lavrar calcário, no município de Pedro Leopoldo, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-006562-0-000-07-06-1944@@@
-
 DECRETO-LEI N. 6.562 – DE 7 DE JUNHO DE 1944
 
 Revoga o Decreto-lei  nº 3.773, de 29 de outubro de 1941, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-050502-0-000-26-04-1961@@@
-
 DECRETO Nº 50.502, DE 26 DE ABRIL DE 1961.
 
 Altera a constituição de sub-regiões de salário mínimo constante do Decreto nº 49.119-A, de 15 de outubro de 1960.
@@ -20,4 +18,348 @@ Castro Neves
 
 Tabela das alterações a que se refere o Art. 1º do Decreto nº 50.502 de 26 de abril de 1961.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>MUNICÍPIOS</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Sub-região anterior (Decreto número 49.119-A, de 15 de outubro de 1960)</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Sub-região a que passa a pertencer</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7</span><span style="font-size:0.67em; vertical-align:super">a</span><span> Região: Paraíba</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cabedelo ...............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Campina Grande ...................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Tinto ................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Santa Rita .............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8</span><span style="font-size:0.67em; vertical-align:super">a</span><span> Região: Pernambuco</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-style:italic; -aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-style:italic; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cabo ......................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Moreno ..................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Palmares ...............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Petrolina ................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Lourenço da Mata ..........................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Timbaúba ..............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vitória de Santo Antão ..........................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>11</span><span style="font-size:0.67em; vertical-align:super">a</span><span> Região: Bahia</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Uruçuca .................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14</span><span style="font-size:0.67em; vertical-align:super">a</span><span> Região: São Paulo</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cubatão .................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maúa .....................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mogi das Cruzes ...................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pindamonhangaba ................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ribeirão Prêto .......................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ribeirão Pires ........................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Claro ...............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Santos ...................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Carlos ............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São José dos Campos ..........................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15</span><span style="font-size:0.67em; vertical-align:super">a</span><span> Região: Paraná</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Arapoti ...................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16</span><span style="font-size:0.67em; vertical-align:super">a</span><span> Região: Santa Catarina</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ilhota .....................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Lauro Müller ..........................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>17</span><span style="font-size:0.67em; vertical-align:super">a</span><span> Região: Rio Grande do Sul</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Erechim .................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1ª</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>18</span><span style="font-size:0.67em; vertical-align:super">a</span><span> Região: Minas Gerais</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Além Paraíba ........................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Araxá .....................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Barão de Cocais ...................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Caeté .....................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cataguases ...........................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coronel Fabriciano ................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Curvelo ..................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3ª</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2ª</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Divinópolis .............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Governador Valadares ..........................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Itabira ....................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Itabirito ..................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Itaúna ....................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Leopoldina ............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Montes Claros .......................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Muriaé ...................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ouro Prêto ............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pitangui .................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Poços de Caldas ...................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ponte Nova ...........................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Acima ..............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Piracicaba .......................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Sabará ...................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Santo Antônio do Monte ........................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3ª</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2ª</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São João del Rei ..................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Julião .............................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Sete Lagoas ..........................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Teófilo Otoni ..........................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr><tr><td style="width:265.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Varginha ................................................................................</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span><span style="font-size:0.67em; vertical-align:super">a</span></p></td></tr></tbody></table>
+MUNICÍPIOS
+
+Sub-região anterior (Decreto número 49.119-A, de 15 de outubro de 1960)
+
+Sub-região a que passa a pertencer
+
+7a Região: Paraíba
+
+Cabedelo ...............................................................................
+
+3a
+
+2a
+
+Campina Grande ...................................................................
+
+2a
+
+1a
+
+Rio Tinto ................................................................................
+
+3a
+
+2a
+
+Santa Rita .............................................................................
+
+3a
+
+2a
+
+8a Região: Pernambuco
+
+Cabo ......................................................................................
+
+3a
+
+2a
+
+Moreno ..................................................................................
+
+2a
+
+1a
+
+Palmares ...............................................................................
+
+3a
+
+2a
+
+Petrolina ................................................................................
+
+3a
+
+2a
+
+São Lourenço da Mata ..........................................................
+
+3a
+
+2a
+
+Timbaúba ..............................................................................
+
+3a
+
+2a
+
+Vitória de Santo Antão ..........................................................
+
+3a
+
+2a
+
+11a Região: Bahia
+
+Uruçuca .................................................................................
+
+4a
+
+3a
+
+14a Região: São Paulo
+
+Cubatão .................................................................................
+
+5a
+
+3a
+
+Maúa .....................................................................................
+
+5a
+
+1a
+
+Mogi das Cruzes ...................................................................
+
+5a
+
+3a
+
+Pindamonhangaba ................................................................
+
+5a
+
+4a
+
+Ribeirão Prêto .......................................................................
+
+4a
+
+2a
+
+Ribeirão Pires ........................................................................
+
+5a
+
+1a
+
+Rio Claro ...............................................................................
+
+5a
+
+4a
+
+Santos ...................................................................................
+
+2a
+
+1a
+
+São Carlos ............................................................................
+
+4a
+
+2a
+
+São José dos Campos ..........................................................
+
+5a
+
+4a
+
+15a Região: Paraná
+
+Arapoti ...................................................................................
+
+3a
+
+2a
+
+16a Região: Santa Catarina
+
+Ilhota .....................................................................................
+
+3a
+
+1a
+
+Lauro Müller ..........................................................................
+
+3a
+
+1a
+
+17a Região: Rio Grande do Sul
+
+Erechim .................................................................................
+
+2a
+
+1ª
+
+18a Região: Minas Gerais
+
+Além Paraíba ........................................................................
+
+3a
+
+2a
+
+Araxá .....................................................................................
+
+3a
+
+2a
+
+Barão de Cocais ...................................................................
+
+3a
+
+2a
+
+Caeté .....................................................................................
+
+3a
+
+2a
+
+Cataguases ...........................................................................
+
+3a
+
+2a
+
+Coronel Fabriciano ................................................................
+
+2a
+
+1a
+
+Curvelo ..................................................................................
+
+3ª
+
+2ª
+
+Divinópolis .............................................................................
+
+3a
+
+2a
+
+Governador Valadares ..........................................................
+
+3a
+
+2a
+
+Itabira ....................................................................................
+
+2a
+
+1a
+
+Itabirito ..................................................................................
+
+2a
+
+1a
+
+Itaúna ....................................................................................
+
+2a
+
+1a
+
+Leopoldina ............................................................................
+
+3a
+
+2a
+
+Montes Claros .......................................................................
+
+3a
+
+2a
+
+Muriaé ...................................................................................
+
+3a
+
+2a
+
+Ouro Prêto ............................................................................
+
+3a
+
+2a
+
+Pitangui .................................................................................
+
+3a
+
+2a
+
+Poços de Caldas ...................................................................
+
+3a
+
+2a
+
+Ponte Nova ...........................................................................
+
+3a
+
+2a
+
+Rio Acima ..............................................................................
+
+2a
+
+1a
+
+Rio Piracicaba .......................................................................
+
+3a
+
+2a
+
+Sabará ...................................................................................
+
+2a
+
+1a
+
+Santo Antônio do Monte ........................................................
+
+3ª
+
+2ª
+
+São João del Rei ..................................................................
+
+3a
+
+2a
+
+São Julião .............................................................................
+
+3a
+
+2a
+
+Sete Lagoas ..........................................................................
+
+3a
+
+2a
+
+Teófilo Otoni ..........................................................................
+
+3a
+
+2a
+
+Varginha ................................................................................
+
+3a
+
+2a

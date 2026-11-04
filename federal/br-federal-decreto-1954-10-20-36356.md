@@ -1,14 +1,12 @@
-###DEC-036356-0-000-20-10-1954@@@
+**DECRETO Nº 36.356, DE 20 DE OUTUBRO DE1954.**
 
-<strong>DECRETO Nº 36.356, DE 20 DE OUTUBRO DE1954.</strong>
+***Altera os artigos 3º e 4º, do Regulamento da Escola Preparatória de Cadetes do Ar, aprovado pelo Decreto n. 30.976, de 10 de junho de 1952.***
 
-<em><strong>Altera os artigos 3º e 4º, do Regulamento da Escola Preparatória de Cadetes do Ar, aprovado pelo Decreto n. 30.976, de 10 de junho de 1952.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º A letra “<em>b</em>” do artigo 3º e o número 1, do parágrafo 1º do artigo 4º do Regulamento da Escola Preparatória de Cadetes do Ar, aprovado pelo Decreto n. 30.976, de 10 de junho de 1952, passam a vigorar com a seguinte redação:
+**Art**. 1º A letra “*b*” do artigo 3º e o número 1, do parágrafo 1º do artigo 4º do Regulamento da Escola Preparatória de Cadetes do Ar, aprovado pelo Decreto n. 30.976, de 10 de junho de 1952, passam a vigorar com a seguinte redação:
 
 “Art. 3º .....................................................................................................................................
 
@@ -26,10 +24,10 @@ Art. 4º .......………………………………………………………�
 
 Êstes limites serão acrescidos de 2 anos para as praças da Aeronáutica, Exército e Marinha.”
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 20 de outubro de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes

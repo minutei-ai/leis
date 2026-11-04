@@ -1,5 +1,3 @@
-###DEC-052063-0-000-27-05-1963@@@
-
 Decreto nº 52.063, de 27 de maio de 1963.
 
 Declara de utilidade pública o Centro Espírita Joaquim Murtinho, com sede no Estado da Guanabara.

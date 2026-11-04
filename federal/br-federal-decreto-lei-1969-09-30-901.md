@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a255e531-9c16-4599-bc5e-38a04b2b9014/texto#nowhere)
 
-###DEL-000901-0-000-30-09-1969@@@
-
 Decreto-lei nº 901, de 30 Setembro de 1969
 
 Provê sôbre a transferência de Colégio Industrial.

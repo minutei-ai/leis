@@ -1,5 +1,3 @@
-###DEC-051434-0-000-21-03-1962@@@
-
 DECRETO Nº 51.434, DE 21 DE MARÇO DE 1962.
 
 Torna sem efeito o Decreto nº 50.576, de 10 de maio de 1961.

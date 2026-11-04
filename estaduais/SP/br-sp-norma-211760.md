@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211760)<br>
-
 # LEI N° 18.311, DE 31 DE OUTUBRO DE 2025
 
 ## (Projeto de lei n° 862/2025, da Deputada Letícia Aguiar - PL)

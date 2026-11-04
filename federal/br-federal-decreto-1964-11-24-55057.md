@@ -1,5 +1,3 @@
-###DEC-055057-0-000-24-11-1964@@@
-
 DECRETO Nº 55.057, DE 24 DE NOVEMBRO DE 1964.
 
 Dispõe sôbre as dotações orçamentárias destinadas às entidades Estudantis e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048552-0-000-21-07-1960@@@
-
 DECRETO Nº 48.552, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Renato de Carvalho Loures a pesquisar quartzo, mica e caulim, no município de Matias Barbosa, Estado de Minas Gerais.

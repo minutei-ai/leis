@@ -1,5 +1,3 @@
-###DEC-069787-0-000-14-12-1971@@@
-
 DECRETO Nº 69.787 - DE 14 DE DEZEMBRO DE 1971
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Agricultura, cargo originário do extinto Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará e dá outras providências.

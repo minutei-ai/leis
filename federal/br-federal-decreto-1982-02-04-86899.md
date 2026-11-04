@@ -1,5 +1,3 @@
-###DEC-086899-0-000-04-02-1982@@@
-
 Decreto nº 86.899, de 04 de fevereiro de 1982
 
 Altera dispositivo do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior, alterado pelo Decreto nº 80.722 de 10 de novembro de 1977.

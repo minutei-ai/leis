@@ -1,5 +1,3 @@
-###DEL-005397-0-000-12-04-1943@@@
-
 DECRETO‑LEI N. 5.397 – DE 12 DE ABRIL DE 1943
 
 Altera o Quadro VIII – Estrada de Ferro São Luiz‑Teresina, do Ministério da Viação e Obras Públicas e dá outras providências

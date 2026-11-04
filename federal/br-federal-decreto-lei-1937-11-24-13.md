@@ -1,5 +1,3 @@
-###DEL-000013-0-000-24-11-1937@@@
-
 DECRETO-LEI N. 13 – DE 24 DE NOVEMBRO DE 1937
 
  Revoga os arts. 1º e 3º da lei n. 583, de 9 de novembro de 1937

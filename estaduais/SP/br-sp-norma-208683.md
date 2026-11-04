@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208683)<br>
-
 # LEI N° 17.804, DE 17 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 217/2023, do Deputado Carlos Giannazi - PSOL)

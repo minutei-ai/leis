@@ -1,5 +1,3 @@
-###DEC-062061-0-000-05-01-1968@@@
-
 DECRETO Nº 62.061, DE 5 DE JANEIRO DE 1968.
 
 Outorga à Companhia Melhoramentos de Mossoró S.A., concessão para distribuir energia elétrica no distrito de Tibau, município de Grossos, Estado do Rio Grande do Norte.

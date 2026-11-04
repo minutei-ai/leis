@@ -1,7 +1,3 @@
-1
-
-###DEC-001174-0-000-29-06-1994@@@
-
 DECRETO Nº 1.174, DE 29 DE JUNHO DE 1994
 
 Dispõe sobre o encerramento dos trabalhos de liquidação da extinta Estrada de Ferro Tocantins.

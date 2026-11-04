@@ -1,5 +1,3 @@
-###DEC-080684-0-000-09-11-1977@@@
-
 DECRETO Nº 80.684, DE 09 DE NOVEMBRO DE 1977.
 
 Abre ao Ministério da Fazenda, em favor do Serviço do Patrimônio da União, o crédito suplementar de Cr$ 300.000,00, para reforço de dotação consignada no vigente Orçamento.

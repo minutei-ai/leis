@@ -1,5 +1,3 @@
-###DEC-061082-0-000-27-07-1967@@@
-
 DECRETO Nº 61.082, DE 27 DE JULHO DE 1967.
 
 Aprova o nôvo Regulamento para o Alto Comando do Exército. (R. 189/67)

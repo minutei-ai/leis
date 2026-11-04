@@ -1,5 +1,3 @@
-###DEC-058854-0-000-15-07-1966@@@
-
 DECRETO Nº 58.854, DE 15 DE JULHO DE 1966.
 
 Autoriza o cidadão brasileiro José Bento Nogueira Junqueira a pesquisar agalmatolito no município de Betim, Estado de Minas Gerais.

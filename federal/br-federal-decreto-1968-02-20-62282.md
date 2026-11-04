@@ -1,5 +1,3 @@
-###DEC-062282-0-000-20-02-1968@@@
-
 DECRETO Nº 62.282, DE 20 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, à área de terreno necessária à construção de um poço profundo para Serviço de Abastecimento d’água da Cidade de Ubajara, Estado do Ceará.

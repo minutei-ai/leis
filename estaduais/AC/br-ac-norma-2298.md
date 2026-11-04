@@ -1,6 +1,10 @@
 > **LEI Nº 3.516, DE 29 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Gabinete da Primeira-Dama, vinculado diretamente ao Gabinete do Governador.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Gabinete da Primeira-Dama, vinculado diretamente ao Gabinete do Governador.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

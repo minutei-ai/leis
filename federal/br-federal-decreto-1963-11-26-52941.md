@@ -1,5 +1,3 @@
-###DEC-052941-0-000-26-11-1963@@@
-
 Decreto nº 52.941, de 26 de novembro de 1963.
 
 Renova o Decreto nº 47.553, de 30 de dezembro de 1959.

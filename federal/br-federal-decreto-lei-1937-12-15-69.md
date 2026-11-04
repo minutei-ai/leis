@@ -1,5 +1,3 @@
-###DEL-000069-0-000-15-12-1937@@@
-
 DECRETO-LEI N. 69 – DE 15 DE DEZEMBRO DE 1937
 
 Transfere, do Ministério da Guerra para o da Agricultura, a gestão da antiga Fábrica de Ferro de Ipanema, no Estado de São Paulo, com todas as benfeitorias existentes, casas, barracões, linhas férreas, etc., e dá outras providências

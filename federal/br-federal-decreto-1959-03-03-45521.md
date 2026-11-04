@@ -1,5 +1,3 @@
-###DEC-045521-0-000-03-03-1959@@@
-
 Decreto nº 45.521, de 3 de março de 1959.
 
 Aprova o aumento de capital e reforma dos estatutos sociais do Banco de Crédito Real do Rio Grande do Sul S.A.

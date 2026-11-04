@@ -1,5 +1,3 @@
-###DEC-082520-0-000-30-10-1978@@@
-
 Decreto nº 82. 520, de 30 de outubro de 1978.
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplinas Especializadas do Ensino de 2º Grau do Centro de Ensino Superior "Plínio Mendes dos Santos", com sede em Campo Grande, Estado de Mato Grosso.

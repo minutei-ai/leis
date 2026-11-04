@@ -1,5 +1,3 @@
-###DEC-059094-0-000-18-08-1966@@@
-
 decreto nº 59.094, de 18 de agôsto de 1966.
 
 Autoriza o cidadão brasileiro Ângelo Bortolotti a pesquisar quartzito no município de Rifâina de S. Paulo.

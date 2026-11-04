@@ -1,5 +1,3 @@
-###DEC-007214-0-000-15-06-2010@@@
-
 DECRETO Nº 7.214, DE 15 DE JUNHO DE 2010.
 
 Estabelece princípios e diretrizes da política governamental para as comunidades brasileiras no exterior, institui as Conferências Brasileiros no Mundo - CBM, cria o Conselho de Representantes de Brasileiros no Exterior - CRBE, e dá outras providências.

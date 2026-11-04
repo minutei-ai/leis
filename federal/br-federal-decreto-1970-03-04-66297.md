@@ -1,5 +1,3 @@
-###DEC-066297-0-000-04-03-1970@@@
-
 DECRETO Nº 66.297 - DE 4 DE MARÇO DE 1970
 
 Concede reconhecimento de Curso.

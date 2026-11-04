@@ -1,5 +1,3 @@
-###DEC-057206-0-000-09-11-1965@@@
-
 DECRETO Nº 57.206, DE 9 DE NOVEMBRO DE 1965.
 
 Declara de utilidade pública uma faixa de terra destinada à passagem de linha de transmissão.

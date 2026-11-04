@@ -1,5 +1,3 @@
-###DEC-078938-0-000-10-12-1976@@@
-
 Decreto N° 78.938, DE 10 DE DEZEMBRO 1976.
 
 Aprova o Regulamento para a Comissão Naval em São Paulo, e dá outras providências.

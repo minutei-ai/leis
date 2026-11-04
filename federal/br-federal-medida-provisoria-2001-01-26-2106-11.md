@@ -1,5 +1,3 @@
-###MPV-002106-0-011-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.106-11, DE 26 DE JANEIRO DE 2001
 
 Acresce dispositivos ao Decreto-Lei nº 719, de 31 de julho de 1969, para dispor sobre o financiamento a projetos de implantação e recuperação de infra-estrutura de pesquisa nas instituições públicas de ensino superior e de pesquisa, e dá outras providências.

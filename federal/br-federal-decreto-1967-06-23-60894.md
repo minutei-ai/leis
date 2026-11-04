@@ -1,5 +1,3 @@
-###DEC-060894-0-000-23-06-1967@@@
-
 DECRETO Nº 60.894, DE 23 DE JUNHO DE 1967.
 
 Dá nova redação ao art. 3º do Decreto número 58.358, de 5 de maio de 1966, alterado pelo Decreto número 59.871, de 26 de dezembro de 1966, que fixa a composição da Delegação Brasileira da Comissão Militar Mista Brasil-Estados Unidos.
@@ -23,8 +21,6 @@ Augusto Hamann Rademaker Grünewald
 Aurélio de Lyra Tavares
 
 Márcio de Souza e Mello
-
-###DEC-060894-0-000-23-06-1967@@@RET01+++
 
 DECRETO Nº 60.894, DE 23 DE JUNHO DE 1967.
 

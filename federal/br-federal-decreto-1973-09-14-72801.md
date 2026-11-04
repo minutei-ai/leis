@@ -1,5 +1,3 @@
-###DEC-072801-0-000-14-09-1973@@@
-
 DECRETO Nº 72.801, DE 14 DE SETEMBRO DE 1973.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras "Nossa Senhora do Patrocínio", mantida pela Sociedade de Educação "Nossa Senhora do Patrocínio", com sede na cidade de Itu, Estado de São Paulo.

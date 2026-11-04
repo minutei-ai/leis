@@ -1,5 +1,3 @@
-###DEC-004424-0-000-14-10-2002@@@
-
 DECRETO Nº 4.424, DE 14 DE OUTUBRO DE 2002
 
 Altera o art. 6º do Decreto nº 4.263, de 10 de junho de 2002, que dispõe sobre a criação da Ordem do Mérito da Defesa.

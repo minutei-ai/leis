@@ -1,5 +1,3 @@
-###DEC-078376-0-000-03-09-1976@@@
-
 DECRETO Nº 78.376, DE 3 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Administração, do Instituto Superior de Estudos Sociais Clóvis Bevilacqua com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,48 +1,46 @@
-###DEC-035771-0-000-01-07-1954@@@
+**DECRETO Nº 35.771, 01 DE JULHO DE 1954.**
 
-<strong>DECRETO Nº 35.771, 01 DE JULHO DE 1954.</strong>
+***Aprova plano de uniformes para o Corpo de Bombeiros do Distrito Federal.***
 
-<em><strong>Aprova plano de uniformes para o Corpo de Bombeiros do Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É aprovado o Regulamento de Uniformes do Pessoal do Corpo de Bombeiros do Distrito Federal que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º É aprovado o Regulamento de Uniformes do Pessoal do Corpo de Bombeiros do Distrito Federal que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
-
-<strong>Art</strong>. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 1 de julho de 1954, 133º da Independência e 66º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Tancredo de Almeida Neves
 
-<strong>REGULAMENTO DE UNIFORMES DO PESSOAL DO CORPO DE BOMBEIRO DO DISTRITO FEDERAL</strong>
+**REGULAMENTO DE UNIFORMES DO PESSOAL DO CORPO DE BOMBEIRO DO DISTRITO FEDERAL**
 
 (R.U.B.)
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Seção primeira - Generalidades</em>
+*Seção primeira - Generalidades*
 
-<strong>Art</strong>. 1º Êste regulamento é de uso exclusivo do Corpo de Bombeiros do Distrito Federal, em suas características principais, sendo expressamente vedado a particulares ou instituições usar ou adotar uniformes que se assemelhem aos fixados nêle.
+**Art**. 1º Êste regulamento é de uso exclusivo do Corpo de Bombeiros do Distrito Federal, em suas características principais, sendo expressamente vedado a particulares ou instituições usar ou adotar uniformes que se assemelhem aos fixados nêle.
 
 Parágrafo único. Estão excetuados desta medida os Corpos de Bombeiros Estaduais, assemelhados ao Corpo de Bombeiros do Distrito Federal.
 
-<strong>Art</strong>. 2º Os militares do Corpo de Bombeiros do Distrito Federal, em serviço ativo, são obrigados a possuir os uniformes referidos neste regulamento e usá-los de acôrdo com as disposições aqui estabelecidas.
+**Art**. 2º Os militares do Corpo de Bombeiros do Distrito Federal, em serviço ativo, são obrigados a possuir os uniformes referidos neste regulamento e usá-los de acôrdo com as disposições aqui estabelecidas.
 
 Parágrafo único. Os uniformes ou peças de uniformes com a designação facultativo serão de posse facultativa e o seu uso só e permitido quando o militar estiver isolado.
 
-<strong>Art</strong>. 3º As peças de uniformes terão as especificações, confecções e feitios determinados no presente regulamento.
+**Art**. 3º As peças de uniformes terão as especificações, confecções e feitios determinados no presente regulamento.
 
-<strong>Art</strong>. 4º A Intendência do Corpo de Bombeiros disporá de um mostruário com tôdas as peças de uniformes, que servirão de padrão.
+**Art**. 4º A Intendência do Corpo de Bombeiros disporá de um mostruário com tôdas as peças de uniformes, que servirão de padrão.
 
-<strong>SEÇÃO SEGUNDA</strong>
+**SEÇÃO SEGUNDA**
 
-<em>Das denominações dos uniformes</em>
+*Das denominações dos uniformes*
 
-<strong>Art</strong>. 5º Os uniformes com os respectivos símbolo, insígnias e distintivos, em suas várias composições terão as seguintes denominações:
+**Art**. 5º Os uniformes com os respectivos símbolo, insígnias e distintivos, em suas várias composições terão as seguintes denominações:
 
 I - Para oficiais:
 
@@ -112,11 +110,11 @@ III - Para cabos e soldados:
 
 11\. Serviço - Serviço de oficina.
 
-<strong>SEÇÃO TERCEIRA</strong>
+**SEÇÃO TERCEIRA**
 
-<em>Da composição dos uniformes</em>
+*Da composição dos uniformes*
 
-<strong>Art</strong>. 6º Os uniformes de que trata o artigo anterior, serão compostos das seguintes peças:
+**Art**. 6º Os uniformes de que trata o artigo anterior, serão compostos das seguintes peças:
 
 I - Para oficiais:
 
@@ -126,11 +124,11 @@ I - Para oficiais:
 
 3º Uniforme - combinação (figura 3) - boné com capa de gabardine cinza pérola escuro; túnica de brim lona de linho branco; calça de pano cinza pérola escuro; platinas de pano azul-ferrete; camisa tricoline branca lisa; colarinho branco, duplo, flexível; gravata preta de laço vertical; luvas de pelica branca; sapatos pretos de cromo; meias pretas, lisas.
 
-4º Uniforme - folga e serviços externos (figura 4-A) capacete preto; túnica de brim caqui, fechada, gola dupla; platinas de pano azul-ferrete; calça de pano cinza pérola escuro; cinto ginástico ou equipamento “<em>mill’s</em>”; meias pretas, lisas, sapatos pretos de cromo.
+4º Uniforme - folga e serviços externos (figura 4-A) capacete preto; túnica de brim caqui, fechada, gola dupla; platinas de pano azul-ferrete; calça de pano cinza pérola escuro; cinto ginástico ou equipamento “*mill’s*”; meias pretas, lisas, sapatos pretos de cromo.
 
-5º Uniforme - Oficial de Dia (figura 5); gôrro sem pala; camisa de tricoline ou brim caqui; platinas de pano azul-ferrete; calça de brim caqui; equipamento “<em>mill’s</em>”, meias; botinas inteiriças pretas.
+5º Uniforme - Oficial de Dia (figura 5); gôrro sem pala; camisa de tricoline ou brim caqui; platinas de pano azul-ferrete; calça de brim caqui; equipamento “*mill’s*”, meias; botinas inteiriças pretas.
 
-6º Uniforme - prontidão para os socorros e guardas (figura 6-A) - capacete preto; camisa de tricoline ou brim caqui; platinas de pano azul ferrete; calça de brim caqui; cinto ginástico ou equipamento “<em>mill’s</em>”; meias botinas inteiriças pretas.
+6º Uniforme - prontidão para os socorros e guardas (figura 6-A) - capacete preto; camisa de tricoline ou brim caqui; platinas de pano azul ferrete; calça de brim caqui; cinto ginástico ou equipamento “*mill’s*”; meias botinas inteiriças pretas.
 
 7º Uniforme expediente e serviços diversos (figura 7-A) - idêntico ao 6º uniforme, suprimindo o cinto ginástico e substituindo o capacete preto pelo gorro sem pala; cinto de lona grenat.
 
@@ -174,7 +172,7 @@ III - Para cabo e soldados:
 
 4º Uniforme - folga e serviços externos (figura 4-C) - capacete preto; túnica de brim caqui, fechada, gola dupla; platinas de pano azul ferrete; distintivo de graduação ou quadro, nas mangas; calça de gabardine cinza pérola escuro; cinto ginástico; meias; botinas inteiriças pretas.
 
-6º Uniforme - Prontidão para socorros e guarda (figura 6-B) - capacete preto; camisa e calça de brim caqui; platinas de pano azul-ferrete; cinto ginástico ou equipamento “”<em>mills</em>” distintivo de graduação ou quadro, nas mangas; meias; botinas inteiriças pretas.
+6º Uniforme - Prontidão para socorros e guarda (figura 6-B) - capacete preto; camisa e calça de brim caqui; platinas de pano azul-ferrete; cinto ginástico ou equipamento “”*mills*” distintivo de graduação ou quadro, nas mangas; meias; botinas inteiriças pretas.
 
 7º Uniforme - expediente e serviço diversos - (figura 7-C) - idêntico ao 6º uniforme, suprimindo o cinto ginástico e substituindo o capacete pelo gôrro sem pala; cinto de lona vermelho.
 
@@ -212,7 +210,7 @@ VI - Peças de abrigo
 
 Capa de matéria plástica cinza pérola escura (facultativa), para oficiais e sargentos (fig. 13); cabos e soldados (figura 15);
 
-Capa de <em>shantung</em>, impermeável, côr caqui, para Oficiais e sargentos (figura 13);
+Capa de *shantung*, impermeável, côr caqui, para Oficiais e sargentos (figura 13);
 
 Capa impermeável de tecido de côr caqui para cabos e soldados (figura 15);
 
@@ -222,11 +220,11 @@ Capa de matéria plástica, incolor, para boné, para Oficiais e praças (facult
 
 Galochas pretas, para Oficiais e praças (facultativa).
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Seção primeira - Do uso dos uniformes</em>
+*Seção primeira - Do uso dos uniformes*
 
-<strong>Art</strong>. 7º As composições enumeradas no art. anterior, serão usadas:
+**Art**. 7º As composições enumeradas no art. anterior, serão usadas:
 
 I - Para oficiais
 
@@ -338,13 +336,13 @@ Idêntico aos dos sargentos.
 
 2\) Limpêsa e conservação de hidrantes.
 
-<strong>SEÇÃO SEGUNDA</strong>
+**SEÇÃO SEGUNDA**
 
-<em>Do uso de Medalhas, Passadeiras e Distintivos.</em>
+*Do uso de Medalhas, Passadeiras e Distintivos.*
 
 a) Medalhas e passadeiras:
 
-<strong>Art</strong>. 8º Os Oficiais e praças usarão suas medalhas no peito, do lado esquerdo, quando determinado.
+**Art**. 8º Os Oficiais e praças usarão suas medalhas no peito, do lado esquerdo, quando determinado.
 
 § 1º As condecorações só serão usadas nos 1º, 2º, 3º e 4º uniformes, no de parada e nos de gala.
 
@@ -352,7 +350,7 @@ a) Medalhas e passadeiras:
 
 b) Distintivos:
 
-<strong>Art</strong>. 9º Os distintivos destinam-se a identificar os quadros, cursos e especialidades.
+**Art**. 9º Os distintivos destinam-se a identificar os quadros, cursos e especialidades.
 
 § 1º Os distintivos para oficiais são os seguintes:
 
@@ -364,25 +362,25 @@ Combatentes (fig.28-A); Motoristas (fig.29-C) Hidrantes (fig. 28-D); Enfermeiros
 
 § 3º Os distintivos dos cursos, são os seguintes: Escola de Aperfeiçoamento para Oficiais (fig. 26-A); Escola de Formação de Oficiais (fig. 26-B).
 
-<strong>Art</strong>. 10. Os distintivos de que trata o parágrafo 1º do artigo anterior, serão usados pêlos oficiais e aspirantes a Oficial, em simetria, na gola das túnicas e das blusas.
+**Art**. 10. Os distintivos de que trata o parágrafo 1º do artigo anterior, serão usados pêlos oficiais e aspirantes a Oficial, em simetria, na gola das túnicas e das blusas.
 
-<strong>Art</strong>. 11. Os distintivos de que trata o parágrafo 2º do artigo 9º, serão usados pelos sargentos e cabos no interior dos ângulos das divisas e pelos soldados, nos braços.
+**Art**. 11. Os distintivos de que trata o parágrafo 2º do artigo 9º, serão usados pelos sargentos e cabos no interior dos ângulos das divisas e pelos soldados, nos braços.
 
-<strong>Art</strong>. 12. Os distintivos de que trata o parágrafo 3º do artigo 9º, são usados acima do bôlso superior direito, nos 1º, 2º, 3º e 4º uniformes e nos de parada e galas.
+**Art**. 12. Os distintivos de que trata o parágrafo 3º do artigo 9º, são usados acima do bôlso superior direito, nos 1º, 2º, 3º e 4º uniformes e nos de parada e galas.
 
-<strong>Art</strong>. 13. Os distintivos de Cursos de Escolas Militares estranhas à Corporação, são usados pelos seus possuidores, nas condições prescritas no artigo 9º.
+**Art**. 13. Os distintivos de Cursos de Escolas Militares estranhas à Corporação, são usados pelos seus possuidores, nas condições prescritas no artigo 9º.
 
-<em>Secção terceira - Do uso das peças de abrigo</em>
+*Secção terceira - Do uso das peças de abrigo*
 
-<strong>Art</strong>. 14. As capas de shantung a de matéria plástica e a impermeável são usadas  nos 1º, 2º, 3º e 4º uniformes.
+**Art**. 14. As capas de shantung a de matéria plástica e a impermeável são usadas  nos 1º, 2º, 3º e 4º uniformes.
 
-<strong>Art</strong>. 15. A japona azul ferrete (fig. 14), para oficiais e praças, é usada exclusivamente quando de serviço, interno ou externo.
+**Art**. 15. A japona azul ferrete (fig. 14), para oficiais e praças, é usada exclusivamente quando de serviço, interno ou externo.
 
 Parágrafo único. A camisa de lã (fig. 16) poderá ser usada como peça de abrigo, nos uniformes 9º e 10º quando determinado; nos demais é usada como roupa suplementar.
 
-<em>Secção Quarta - Do uso das roupas civis</em>
+*Secção Quarta - Do uso das roupas civis*
 
-<strong>Art</strong>. 16. Fora do serviço é permitido aos oficiais e praças vestirem trajes civis.
+**Art**. 16. Fora do serviço é permitido aos oficiais e praças vestirem trajes civis.
 
 § 1º Os oficiais podem, assim, entrarem nos quartéis e estabelecimentos onde sirvam e dêles sair, não se demorando, porém, nêsses trajes, ao entrar ou sair.
 
@@ -394,13 +392,13 @@ Parágrafo único. A camisa de lã (fig. 16) poderá ser usada como peça de abr
 
 § 5º As praças é permitido o uso de trajes civís, quando de folga e fora dos quartéis ou estabelecimentos militares, nêles não podendo entrar ou sair nêsses trajes.
 
-<strong>Art</strong>. 17. É proibido o uso de peças de uniforme com roupas civís e vice-versa, exceto roupas de agasalho, porém, sem distintivos, insígnias ou botões de uniforme.
+**Art**. 17. É proibido o uso de peças de uniforme com roupas civís e vice-versa, exceto roupas de agasalho, porém, sem distintivos, insígnias ou botões de uniforme.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Das confecções de peças de uniforme</em>
+*Das confecções de peças de uniforme*
 
-<strong>Art</strong>. 18. A confecção de peças dos uniformes peculiares aos oficiais e praças obedece às descrições abaixo:
+**Art**. 18. A confecção de peças dos uniformes peculiares aos oficiais e praças obedece às descrições abaixo:
 
 I - Para Oficiais
 
@@ -608,11 +606,11 @@ Capa impermeável: (fig. 15), de tecido de côr caqui; gola dupla; mangas simple
 
 Capa da Matéria Plástica: (Facultativa), para oficiais e sargentos (fig. 31) - cinza pérola escuro; gola conversível (figs 13-A e 13-B), fechamento com 10 botões cinzas grandes, lisos; dois bolsos laterais; cinto destacável, de 0,05m de largura, fivela de matéria plástica; presilhas nos punhos.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Secção primeira - Especificação de peças de uniformes</em>
+*Secção primeira - Especificação de peças de uniformes*
 
-<strong>Art</strong>. 19 As peças de uniformes obedecem às seguintes especificações:
+**Art**. 19 As peças de uniformes obedecem às seguintes especificações:
 
 I - Emblemas para boné e capacete
 
@@ -678,9 +676,9 @@ d) Boné: igual ao comum (fig.18), porém, com a capa de tecido de lã de côr a
 
 e) Botões (fig. 35-A e B): convexos ligeiramente abaulados, em metal dourado, em relêvo o símbolo do Corpo de Bombeiros; em duas dimensões, tendo os grande - 0,022m e os pequenos 0,018m de diâmetro.
 
-<strong>SECÇAO SEGUNDA</strong>
+**SECÇAO SEGUNDA**
 
-<em>Especificações dos símbolos, insígnias e distintivos</em>
+*Especificações dos símbolos, insígnias e distintivos*
 
 I - Símbolo do Corpo de Bombeiros do Distrito Federal (fig. na capa): compõe-se de duas machadinhas de prata com cabo de ouro, um facho também de ouro, aceso de vermelho, cruzados e enlaçados por duas mangueiras de prata, com esguichos de ouro; o escudo da Cidade de São Sebastião do Rio de Janeiro brocante sobretudo. O qual é de vermelho orlado de prata, tendo ao centro uma esfera armilar de ouro e um barrete frígio de vermelho sôbre três setas de prata;
 
@@ -768,15 +766,15 @@ a) Da E. A. O., é de metal dourado e constituído de um resplendor de barras ho
 
 b) Da Escola, para Sargentos, é de metal cromado, tendo 2 barras horizontais para cada lado, sendo os demais detalhes iguais ao da E. A. O.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das infrações</em>
+*Das infrações*
 
-<strong>Art</strong>. 20. As infrações das disposições desta lei serão punidas com a multa de Cr$1.000,00 (hum mil cruzeiros) a Cr$10.000,00 (dez mil cruzeiros) e com pena de prisão simples, de um a seis meses, para casos individuais, e Cr$10.000,00 (dez mil cruzeiros) a Cr$100.000,00 (cem mil cruzeiros) para coletividades. Em caso de reincidência, as penas poderão ser aumentadas até o dobro.
+**Art**. 20. As infrações das disposições desta lei serão punidas com a multa de Cr$1.000,00 (hum mil cruzeiros) a Cr$10.000,00 (dez mil cruzeiros) e com pena de prisão simples, de um a seis meses, para casos individuais, e Cr$10.000,00 (dez mil cruzeiros) a Cr$100.000,00 (cem mil cruzeiros) para coletividades. Em caso de reincidência, as penas poderão ser aumentadas até o dobro.
 
 Parágrafo único - É da competência da Justiça Federal processar ou julgar essas infrações.
 
-<strong>Art</strong>. 21. São considerados infratores:
+**Art**. 21. São considerados infratores:
 
 § 1º - Os que forem encontrados vestindo indevidamente uniformes ou peças de uniformes adotados neste plano, ou que possam causar confusão ou semelhança.
 
@@ -784,13 +782,13 @@ Parágrafo único - É da competência da Justiça Federal processar ou julgar e
 
 Disposições Gerais
 
-<strong>Art</strong>. 22. Os oficiais que servirem em gabinetes usarão os uniformes que lhes competir, de acôrdo com cerimonial adotado nos respectivos lugares em que servirem.
+**Art**. 22. Os oficiais que servirem em gabinetes usarão os uniformes que lhes competir, de acôrdo com cerimonial adotado nos respectivos lugares em que servirem.
 
-<strong>Art</strong>. 23. A apresentação individual de oficiais e praças será feita, obrigatoriamente, com o uniforme nº 4.
+**Art**. 23. A apresentação individual de oficiais e praças será feita, obrigatoriamente, com o uniforme nº 4.
 
-<strong>Art</strong>. 24. Para comparecimento em conjunto, a qualquer ato ou solenidade, o Comando determinará o uniforme.
+**Art**. 24. Para comparecimento em conjunto, a qualquer ato ou solenidade, o Comando determinará o uniforme.
 
-<strong>Art</strong>. 25. O uso da espada é obrigatório para os oficiais:
+**Art**. 25. O uso da espada é obrigatório para os oficiais:
 
 1\) Em todos os atos em que comparecer o Presidente da República;
 
@@ -798,9 +796,9 @@ Disposições Gerais
 
 3\) Quando determinado pelo Comando.
 
-<strong>Art</strong>. 26. A espada será sempre usada com o fiador preso à guarda do punho.
+**Art**. 26. A espada será sempre usada com o fiador preso à guarda do punho.
 
-<strong>Art</strong>. 27. Os alamares serão usados pelos oficiais no exercício das funções de Oficiais de Gabinete, Ajudante de Ordens e Assistentes Militares.
+**Art**. 27. Os alamares serão usados pelos oficiais no exercício das funções de Oficiais de Gabinete, Ajudante de Ordens e Assistentes Militares.
 
 § 1º Só serão usados, e em caráter obrigatório, em serviço.
 
@@ -808,44 +806,44 @@ Disposições Gerais
 
 § 3º Os alamares dourados são usados nos 1º, 2º e 3º uniformes, no de parada, e no de gala e o azul ferrete no 4º uniforme.
 
-<strong>Art</strong>. 28. As luvas estarão sempre calçadas quando o militar estiver armado ou em formatura, nos demais casos quando determinado, devendo descalçar a mão direita para o aperto de mão.
+**Art**. 28. As luvas estarão sempre calçadas quando o militar estiver armado ou em formatura, nos demais casos quando determinado, devendo descalçar a mão direita para o aperto de mão.
 
 Parágrafo único - Fora do serviço, o uso das luvas é facultativo.
 
-<strong>Art</strong>. 29. As luvas serão seguras pela mão esquerda, quando descalçadas, com as pontas voltadas para trás.
+**Art**. 29. As luvas serão seguras pela mão esquerda, quando descalçadas, com as pontas voltadas para trás.
 
-<strong>Art</strong>. 30. É proibido o uso de uniformes incompletos e peças combinadas por forma não previstas neste regulamento.
+**Art**. 30. É proibido o uso de uniformes incompletos e peças combinadas por forma não previstas neste regulamento.
 
-<strong>Art</strong>. 31. Aos reformados é permitido o uso dos uniformes constantes do pressente regulamento, com suas platinas contornadas nas costuras por um vivo grenat.
+**Art**. 31. Aos reformados é permitido o uso dos uniformes constantes do pressente regulamento, com suas platinas contornadas nas costuras por um vivo grenat.
 
 Parágrafo único - O Comandante do Corpo de Bombeiros poderá vedar o uso dêsses uniformes aos reformados que se apresentarem com os mesmos em desalinho ou alterados e aos que não possuírem conduta condizente com a farda.
 
-<strong>Art</strong>. 32. Os uniformes de gala são exclusivamente para oficiais e a sua posse é facultativa.
+**Art**. 32. Os uniformes de gala são exclusivamente para oficiais e a sua posse é facultativa.
 
-<strong>Art</strong>. 33. É facultado aos militares da tropa, o uso do cordão marron, traçado, com apito, nos uniformes 4º, 6º e 7º.
+**Art**. 33. É facultado aos militares da tropa, o uso do cordão marron, traçado, com apito, nos uniformes 4º, 6º e 7º.
 
 Parágrafo único - O cordão será colocado no ombro esquerdo, sob a platina, e o apito no bolso superior do mesmo lado.
 
-<strong>Art</strong>. 34. Os uniformes das praças só podem ser marcados na parte interna.
+**Art**. 34. Os uniformes das praças só podem ser marcados na parte interna.
 
-<strong>Art</strong>. 35. Os sargentos ajudantes usarão os uniformes previstos para os sargentos, cujo distintivo de posto será um globo metálico no meio dos antebraços (fig. 24).
+**Art**. 35. Os sargentos ajudantes usarão os uniformes previstos para os sargentos, cujo distintivo de posto será um globo metálico no meio dos antebraços (fig. 24).
 
-<strong>Art</strong>. 36. Os uniformes de parada para os oficiais e praças serão fornecidos pelo Estado e constituirão carga de Intendência.
+**Art**. 36. Os uniformes de parada para os oficiais e praças serão fornecidos pelo Estado e constituirão carga de Intendência.
 
-<strong>Art</strong>. 37. Dentro do prazo de 10 anos não será feita nenhuma alteração nesse plano de uniformes, salvo as de pormenores, cuja importância e natureza não exija a substituição das peças principais dos uniformes e que poderão ser introduzidas no fim do 1º ano de uso, se a experiência o indicar.
+**Art**. 37. Dentro do prazo de 10 anos não será feita nenhuma alteração nesse plano de uniformes, salvo as de pormenores, cuja importância e natureza não exija a substituição das peças principais dos uniformes e que poderão ser introduzidas no fim do 1º ano de uso, se a experiência o indicar.
 
-<strong>Art</strong>. 38. Não são consideradas peças de uniforme, e sim petrechos, o equipamento individual destinado a facilitar e proteger os bombeiros no desempenho de sua missão.
+**Art**. 38. Não são consideradas peças de uniforme, e sim petrechos, o equipamento individual destinado a facilitar e proteger os bombeiros no desempenho de sua missão.
 
-<strong>Art</strong>. 39. Todo militar que tenha conhecimento de desrespeito às disposições estabelecidas neste regulamento deverá fazer a devida comunicação ao seu chefe.
+**Art**. 39. Todo militar que tenha conhecimento de desrespeito às disposições estabelecidas neste regulamento deverá fazer a devida comunicação ao seu chefe.
 
-<strong>Art</strong>. 40. Não é permitido sobrepor ao uniforme sinal de luto, peça, artigo, insígnias ou distintivos, de qualquer natureza, não previsto neste regulamento ou em ato ministerial.
+**Art**. 40. Não é permitido sobrepor ao uniforme sinal de luto, peça, artigo, insígnias ou distintivos, de qualquer natureza, não previsto neste regulamento ou em ato ministerial.
 
-<strong>Art</strong>. 41. Aos cabos e soldados os uniformes de pose obrigatória são fornecidos gratuitamente. A distribuição dêsses uniformes, e a sua duração, serão especificados em “Instrução de Distribuição de Fardamento”, aprovadas pelo Ministério da Justiça.
+**Art**. 41. Aos cabos e soldados os uniformes de pose obrigatória são fornecidos gratuitamente. A distribuição dêsses uniformes, e a sua duração, serão especificados em “Instrução de Distribuição de Fardamento”, aprovadas pelo Ministério da Justiça.
 
-<strong>Art</strong>. 42. É permitido aos oficiais e sargentos adquirirem na Intendência, para pagamento em prestações, peças de uniformes existentes nesta repartição, para uso individual.
+**Art**. 42. É permitido aos oficiais e sargentos adquirirem na Intendência, para pagamento em prestações, peças de uniformes existentes nesta repartição, para uso individual.
 
-<strong>Art</strong>. 43. As disposições do presente plano, entram em vigôr a partir da data de sua publicação, sendo entretanto, concedido o prazo de 2 anos de tolerância, para uso das peças de uniformes de oficiais e praças, modificadas, suprimidas ou substituídas pelo presente plano.
+**Art**. 43. As disposições do presente plano, entram em vigôr a partir da data de sua publicação, sendo entretanto, concedido o prazo de 2 anos de tolerância, para uso das peças de uniformes de oficiais e praças, modificadas, suprimidas ou substituídas pelo presente plano.
 
 Rio de Janeiro, em 1 de julho de 1954.
 
-<strong>TANCREDO DE ALMEIDA NEVES</strong>
+**TANCREDO DE ALMEIDA NEVES**

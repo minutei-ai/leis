@@ -1,5 +1,3 @@
-###DEC-045386-0-000-03-02-1959@@@
-
 DECRETO Nº 45.386, DE 3 DE FEVEREIRO DE 1959.
 
 Suprime cargo extinto.

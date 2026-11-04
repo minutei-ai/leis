@@ -1,5 +1,3 @@
-###MPV-000147-0-000-15-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 147, DE 15 DE DEZEMBRO 2003.
 
  Institui o Sistema Nacional de Avaliação e Progresso do Ensino Superior e dispõe sobre a avaliação do ensino superior.

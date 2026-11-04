@@ -1,5 +1,3 @@
-###DEC-087940-0-000-20-12-1982@@@
-
 DECRETO Nº 87.940, DE 20 DE DEZEMBRO DE 1982
 
 Autoriza o aumento de Capital Social da Rede Ferroviária Federal S/A. - RFFSA.

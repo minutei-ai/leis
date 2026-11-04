@@ -1,5 +1,3 @@
-###DEC-078088-0-000-19-07-1976@@@
-
 DECRETO Nº 78.088, DE 19 DE JULHO DE 1976.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

@@ -1,6 +1,7 @@
 LEI Nº 10.623 DE 06 DE JUNHO DE 2007
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [10.374](https://www.legislabahia.ba.gov.br/documentos/decreto-no-10374-de-06-de-junho-de-2007) , de 06 de junho de 2007 - Regulamenta os critérios e condições para operacionalização, no âmbito do Poder Executivo Estadual, da Lei nº [10.623](https://www.legislabahia.ba.gov.br/documentos/lei-no-10623-de-06-de-junho-de-2007) , de 06 de junho de 2007, que proíbe a contratação ou nomeação de parentes de membro de Poder, do Ministério Público ou da Defensoria Pública, Conselheiro de Tribunal de Contas e presidente, ou equivalente, de fundação, autarquia ou empresa, para cargos em comissão e funções de confiança na Administração Direta, Indireta, Autárquica e Fundacional do Estado, na forma que indica, e dá outras providências.
 
 Proíbe a contratação ou nomeação de parentes de membro de Poder, do Ministério Público ou da Defensoria Pública, Conselheiro de Tribunal de Contas e presidente, ou equivalente, de fundação, autarquia ou empresa, para cargos em comissão e funções de confiança na Administração Direta, Indireta, Autárquica e Fundacional do Estado, na forma que indica, e dá outras providências.

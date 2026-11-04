@@ -1,5 +1,3 @@
-###DEC-048012-0-000-05-04-1960@@@
-
 DECRETO Nº 48.012, DE 5 DE ABRIL DE 1960.
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito extraordinário de Cr$200.000.000,00, destinado a custear as despesas com a execução de serviços de emergência no Nordeste, inclusive reconstrução da Barragem de Orós, no Vale do Rio Jaguaribe.

@@ -1,5 +1,3 @@
-###DEC-007692-0-000-02-03-2012-PUB-01@@@
-
 DECRETO Nº 7.692, DE 2 DE MARÇO DE 2012
 
 Aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES, e remaneja cargos em comissão.

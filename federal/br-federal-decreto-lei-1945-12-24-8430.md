@@ -1,5 +1,3 @@
-###DEL-008430-0-000-24-12-1945@@@
-
 DECRETO-LEI N. 8.430 – DE 24 DE DEZEMBRO DE 1945
 
 Dá nova redação a dispositivos do Decreto-lei nº 5.844, de 23 de setembro de 1943, que regula a cobrança e fiscalização do impôsto de renda.

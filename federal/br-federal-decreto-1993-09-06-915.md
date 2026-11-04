@@ -1,7 +1,3 @@
-1
-
-###DEC-000915-0-000-06-09-1993@@@
-
 DECRETO Nº 915, DE 6 DE SETEMBRO DE 1993
 
 Autoriza a formação de consórcios para geração de energia elétrica.

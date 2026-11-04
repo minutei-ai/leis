@@ -1,5 +1,3 @@
-###DEC-070798-0-000-05-07-1972@@@
-
 Decreto nº 70.798, de 5 de julho de 1972.
 
 Concede à S.A. de Cimento, Mineração e Cabotagem "CIMIMAR" o direito de lavrar calcário, no município de Pinheiro Machado, Estado do Rio Grande do Sul.

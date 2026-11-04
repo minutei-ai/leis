@@ -1,5 +1,3 @@
-###DEC-068657-0-000-24-05-1971@@@
-
 Decreto nº 68.657 - de 24 de maio de 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada a passagem de linha de transmissão, no Estado de Goiás.

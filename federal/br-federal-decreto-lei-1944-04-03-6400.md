@@ -1,5 +1,3 @@
-###DEL-006400-0-000-03-04-1944@@@
-
 DECRETO-LEI N. 6.400 – DE 3 DE ABRIL 1944
 
 Autoriza o Instituto de Resseguros do Brasil a  Bôlsa  Brasileira de Seguros

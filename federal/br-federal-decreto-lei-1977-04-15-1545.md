@@ -1,5 +1,3 @@
-###DEL-001545-0-000-15-04-1977@@@
-
 # DECRETO-LEI Nº 1.545, DE 15 DE ABRIL DE 1977
 
 Fixa o valor do soldo dos postos de Coronel PM da Polícia Militar e de Coronel BM do Corpo de Bombeiros do Distrito Federal, e dá outras providências.

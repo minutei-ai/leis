@@ -1,5 +1,3 @@
-###DEC-050294-0-000-23-02-1961@@@
-
 DECRETO Nº 50.294, DE 23 DE FEVEREIRO DE 1961.
 
 Dispõe sôbre o cálculo das diárias, de que trata o Decreto nº 49.544, de 16 de dezembro de 1960.

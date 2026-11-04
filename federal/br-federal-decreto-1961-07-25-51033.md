@@ -1,5 +1,3 @@
-###DEC-051033-0-000-25-07-1961@@@
-
 DECRETO Nº 51.033, DE 25 DE JULHO DE 1961.
 
 Declara de utilidade pública, para fins de desapropriação e destinada à ampliação do Colégio Pedro II - Externato - Seção Sul, os imóveis que indica, na cidade do Rio de Janeiro Estado da Guanabara.

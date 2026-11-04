@@ -1,5 +1,3 @@
-###DEL-000284-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 284, DE 28 DE FEVEREIRO DE 1967
 
 Institui o impôsto sôbre transporte rodoviário de passageiros e dá outras providências.

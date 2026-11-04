@@ -1,5 +1,3 @@
-###DEC-064655-0-000-06-06-1969@@@
-
 DECRETO Nº 64.655, DE 6 DE JUNHO DE 1969.
 
 Cria Grupo de Trabalho Interministerial para estudar e propor regulamento sôbre a cobrança da Contribuição de Melhoria.

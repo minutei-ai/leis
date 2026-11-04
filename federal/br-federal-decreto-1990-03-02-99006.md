@@ -1,7 +1,3 @@
-1
-
-###DEC-099006-0-000-02-03-1990@@@
-
 DECRETO Nº 99.006, DE 2 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Contábeis e Econômicas de São Luís.

@@ -1,5 +1,3 @@
-###DEC-069436-0-000-27-10-1971@@@
-
 DECRETO Nº 69.436 - DE 27 DE OUTUBRO DE 197.
 
 Torna sem efeito aproveitamento de disponíveis no Ministério dos Transportes e dá outras providências.

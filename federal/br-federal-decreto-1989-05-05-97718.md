@@ -1,7 +1,3 @@
-1
-
-###DEC-097718-0-000-05-05-1989@@@
-
 DECRETO Nº 97.718, DE 05 DE MAIO DE 1989
 
 Dispõe sobre a criação da Área de Proteção Ambiental do Igarapé Gelado, no Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-072357-0-000-14-06-1973@@@
-
 DECRETO Nº 72.357, DE 14 JUNHO DE 1973.
 
 Retifica o Decreto nº 71.970, de 21 de março de 1973, que alterou o Quadro de Pessoal de Universidade Federal do Ceará.

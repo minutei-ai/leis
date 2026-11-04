@@ -1,5 +1,3 @@
-###DEC-090414-0-000-07-11-1984@@@
-
 Decreto nº 90.414, de 07 de novembro de 1984
 
 Dispõe sobre a criação e funcionamento do Conselho de Desenvolvimento das Micro, Pequena e Média Empresas, e dá outras providências.

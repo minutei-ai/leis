@@ -1,5 +1,3 @@
-###DEC-090979-0-000-25-02-1985@@@
-
 Decreto nº 90.979, de 25 DE fevereiro de 1985
 
 Dá nova redação ao artigo 4º do Decreto nº 60.521, de 31 de março de 1967, que dispõe sobre a estrutura do Ministério da Aeronáutica.

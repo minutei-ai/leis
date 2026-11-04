@@ -1,5 +1,3 @@
-###DEC-057559-0-000-29-12-1965@@@
-
 DECRETO Nº 57.559, DE 29 DE DEZEMBRO DE 1965.
 
 Autoriza a Cia. Carbonífera Minas Butiá a pesquisar carvão mineral no município de Triunfo, Estado do Rio Grande do Sul.

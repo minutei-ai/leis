@@ -1,5 +1,3 @@
-###DEC-054334-0-000-28-09-1964@@@
-
 DECRETO Nº 54.334, DE 28 DE SETEMBRO DE 1964.
 
 Aprova o Regulamento para a cobrança do empréstimo compulsório instituído pelo art. 72 da Lei número 4.242, de 17 de julho de 1963, e alterado pelos arts. 19 e 21 da Lei nº 4.357, de 16 de julho de 1964.
@@ -78,7 +76,45 @@ Art. 5º Em relação aos beneficiários dos rendimentos classificados nas cédu
 
 Soma dos rendimentos cedulares líquidos - Contribuição - Ano - Cr$
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Até Cr$1.768.000,00</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Isento</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Cr$1.768.000,00 a Cr$1.963.000,00</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cr$88.000,00</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Cr$1.969.000,00 a Cr$2.268.000,00</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cr$112.000,00</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Cr$2.269.000,00 a Cr$2.568.000,00</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cr$140.000,00</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Cr$2.569.000,00 a Cr$2.968.000,00</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cr$180.000,00</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Cr$2.969.000,00 a Cr$3.368.000,00</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cr$232.000,00</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Cr$3.369.000,00 a Cr$3.768.000,00</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cr$292.000,00</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Cr$3.769.000,00 a Cr$4.168.000,00</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cr$356.000,00</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Cr$4.169.000,00 a Cr$4.568.000,00</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cr$436.000,00</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De Cr$4.569.000,00 em diante</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10% - (proporcional)</span></p></td></tr></tbody></table>
+Até Cr$1.768.000,00
+
+- Isento
+
+De Cr$1.768.000,00 a Cr$1.963.000,00
+
+- Cr$88.000,00
+
+De Cr$1.969.000,00 a Cr$2.268.000,00
+
+- Cr$112.000,00
+
+De Cr$2.269.000,00 a Cr$2.568.000,00
+
+- Cr$140.000,00
+
+De Cr$2.569.000,00 a Cr$2.968.000,00
+
+- Cr$180.000,00
+
+De Cr$2.969.000,00 a Cr$3.368.000,00
+
+- Cr$232.000,00
+
+De Cr$3.369.000,00 a Cr$3.768.000,00
+
+- Cr$292.000,00
+
+De Cr$3.769.000,00 a Cr$4.168.000,00
+
+- Cr$356.000,00
+
+De Cr$4.169.000,00 a Cr$4.568.000,00
+
+- Cr$436.000,00
+
+De Cr$4.569.000,00 em diante
+
+10% - (proporcional)
 
 Parágrafo único. para fins de cálculo da contribuição em cada ano, na soma do rendimento das cédulas, serão desprezadas as frações inferiores a Cr$1.000,00 (mil cruzeiros).
 
@@ -111,8 +147,6 @@ Art. 15. Êste Regulamento entrará em vigor na data da sua publicação.
 Brasília, 28 de setembro de 1964.
 
 Octávio Gouveia de Bulhões.
-
-###DEC-054334-0-000-28-09-1964@@@RET01+++
 
 Decreto nº 54.334, de 28 de setembro de 1964.
 

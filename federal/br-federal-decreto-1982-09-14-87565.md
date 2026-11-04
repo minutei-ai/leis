@@ -1,5 +1,3 @@
-###DEC-087565-0-000-14-09-1982@@@
-
 decreto nº 87.565, de 14 de setembro de 1982
 
 Revoga o Decreto nº 39.333, de 08 de junho de 1956.

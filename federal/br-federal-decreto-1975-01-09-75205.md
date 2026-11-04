@@ -1,5 +1,3 @@
-###DEC-075205-0-000-09-01-1975@@@
-
 DECRETO Nº 75.205, DE 9 DE JANEIRO DE 1975
 
 Fixa o fator de reajustamento Salarial relativo a janeiro de 1975.

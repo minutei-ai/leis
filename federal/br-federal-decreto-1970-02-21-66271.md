@@ -1,5 +1,3 @@
-###DEC-066271-0-000-21-02-1970@@@
-
 DECRETO Nº 66.271 - DE 21 DE FEVEREIRO DE 1970
 
 Concede à Sociedade Machine Cottons, Limited, autorização para continuar a funcionar na República Federativa do Brasil.

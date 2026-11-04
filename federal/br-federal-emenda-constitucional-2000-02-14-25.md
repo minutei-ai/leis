@@ -1,12 +1,10 @@
-###EMC-000025-0-000-14-02-2000@@@
+**EMENDA CONSTITUCIONAL Nº 25, DE 2000**
 
-<strong>EMENDA CONSTITUCIONAL Nº 25, DE 2000</strong>
-
-<em><strong>Altera o inciso VI do art. 29 e acrescenta o art. 29-A à Constituição Federal, que dispõem sobre limites de despesas com o Poder Legislativo Municipal.</strong></em>
+***Altera o inciso VI do art. 29 e acrescenta o art. 29-A à Constituição Federal, que dispõem sobre limites de despesas com o Poder Legislativo Municipal.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-<strong>Art</strong>. 1º O inciso VI do art. 29 da Constituição Federal passa a vigorar com a seguinte redação:
+**Art**. 1º O inciso VI do art. 29 da Constituição Federal passa a vigorar com a seguinte redação:
 
 “Art. 29 ..............................................................................................................................
 
@@ -28,7 +26,7 @@ As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do a
 
 “....................................................................................................................................”
 
-<strong>Art</strong>. 2º A Constituição Federal passa a vigorar acrescida do seguinte art. 29-A:
+**Art**. 2º A Constituição Federal passa a vigorar acrescida do seguinte art. 29-A:
 
 “Art. 29-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5º do art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício anterior:” (AC)
 
@@ -52,15 +50,15 @@ As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do a
 
 “§ 3º Constitui crime de responsabilidade do Presidente da Câmara Municipal o desrespeito ao § 1º deste artigo.” (AC)
 
-<strong>Art</strong>. 3º Esta Emenda Constitucional entra em vigor em 1º de janeiro de 2001.
+**Art**. 3º Esta Emenda Constitucional entra em vigor em 1º de janeiro de 2001.
 
 Brasília, 14 de fevereiro de 2000
 
-<strong>Mesa da Câmara do Deputados</strong>
+**Mesa da Câmara do Deputados**
 
-<strong>Deputado Michel Temer</strong>
+**Deputado Michel Temer**
 
-<strong>Presidente</strong>
+**Presidente**
 
 Deputado Heráclito Fortes
 
@@ -86,11 +84,11 @@ Deputado Efraim Morais
 
 4° Secretario
 
-<strong>Mesa do Senado Federal</strong>
+**Mesa do Senado Federal**
 
-<strong>Senador Antonio Carlos Magalhães</strong>
+**Senador Antonio Carlos Magalhães**
 
-<strong>Presidente</strong>
+**Presidente**
 
 Senador Geraldo Melo
 

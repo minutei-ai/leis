@@ -1,5 +1,3 @@
-###DEL-004428-0-000-02-07-1942@@@
-
 DECRETO-LEI N. 4.428 – DE 2 DE JULHO DE 1942
 
 Isenta de quaisquer onus os interessados em certidões e demais papéis destinados à concessão do abono familiar

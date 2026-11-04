@@ -1,5 +1,3 @@
-###DEL-005552-0-000-07-06-1943@@@
-
 DECRETO‑LEI N. 5.552 – DE 7 DE JUNHO DE 1943
 
 Autoriza nova prorrogação do contrato de exploração do serviço da loteria federal

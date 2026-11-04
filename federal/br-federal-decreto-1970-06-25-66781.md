@@ -1,5 +1,3 @@
-###DEC-066781-0-000-25-06-1970@@@
-
 DECRETO Nº 66.781 - DE 25 DE JUNHO DE 1970
 
 Regulamenta os artigos 3º e 4º do Decreto-lei nº 788, de 26 de agôsto de 1969.

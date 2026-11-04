@@ -1,5 +1,3 @@
-###DEC-058462-0-000-17-05-1966@@@
-
 DECRETO Nº 58.462, DE 17 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro João Felisberto dos Reis a pesquisar argila no Município de Andradas, Estados de Minas Gerais.

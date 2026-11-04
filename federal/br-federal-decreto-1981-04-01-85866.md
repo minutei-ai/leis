@@ -1,5 +1,3 @@
-###DEC-085866-0-000-01-04-1981@@@
-
 DECRETO Nº 85.866, DE 1º DE ABRIL DE 1981.
 
 Aprova o Regulamento para o Quadro de Oficiais Temporários do Ministério da Aeronáutica e dá outras providências.

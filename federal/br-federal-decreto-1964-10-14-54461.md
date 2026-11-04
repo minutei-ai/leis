@@ -1,5 +1,3 @@
-###DEC-054461-0-000-14-10-1964@@@
-
 DECRETO Nº 54.461, DE 14 DE OUTUBRO DE 1964.
 
 Autoriza a Usina Queiroz Júnior S.A. - Indústria Siderúrgica a pesquisar minério de ferro, no Município de Itabirito, Estado de Minas Gerais.

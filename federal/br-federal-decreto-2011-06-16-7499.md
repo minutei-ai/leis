@@ -1,5 +1,3 @@
-###DEC-007499-0-000-16-06-2011-PUB-01@@@
-
 DECRETO Nº 7.499, DE 16 DE JUNHO DE 2011
 
 Regulamenta dispositivos da Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida, e dá outras providências.

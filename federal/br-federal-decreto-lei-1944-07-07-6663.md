@@ -1,5 +1,3 @@
-###DEL-006663-0-000-07-07-1944@@@
-
 DECRETO-LEI N. 6.663 – DE 7 DE JULHO DE 1944
 
 Cria o Quadro de Enfermeiras da Reserva da Aeronáutica

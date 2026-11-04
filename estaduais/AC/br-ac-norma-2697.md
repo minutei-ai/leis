@@ -1,6 +1,10 @@
 > **LEI Nº 3.271, DE 18 DE JULHO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.094, de 23 de dezembro de 2015, que dispõe sobre o repasse de pagamentos das empresas terceirizadas que prestam serviços para o Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.094, de 23 de dezembro de 2015, que dispõe sobre o repasse de pagamentos das empresas terceirizadas que prestam serviços para o Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

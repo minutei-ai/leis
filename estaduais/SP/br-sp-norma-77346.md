@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/77346)<br>
-
 # LEI COMPLEMENTAR N° 1.043, DE 09 DE MAIO DE 2008
 
 ### _Altera a Lei n° 10.261, de 28 de outubro de 1968, que dispõe sobre o Estatuto dos Funcionários Públicos Civis do Estado de São Paulo, e dá providências correlatas_

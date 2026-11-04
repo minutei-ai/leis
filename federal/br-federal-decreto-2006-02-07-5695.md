@@ -1,5 +1,3 @@
-###DEC-005695-0-000-07-02-2006@@@
-
 DECRETO Nº 5.695, DE 7 DE FEVEREIRO DE 2006.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.636, do Conselho de Segurança das Nações Unidas, de 31 de outubro de 2005, que, entre outras providências, estabelece restrições de viagem, congelamento de fundos, ativos financeiros e recursos econômicos de indivíduos e entidades suspeitas de envolvimento com o ato terrorista que vitimou o ex-Primeiro-Ministro do Líbano, Rafiq Hariri.

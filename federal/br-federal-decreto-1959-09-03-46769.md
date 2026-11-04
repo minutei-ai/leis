@@ -1,5 +1,3 @@
-###DEC-046769-0-000-03-09-1959@@@
-
 decreto nº 46.769, de 3 de setembro de 1959.
 
 Altera o Regulamento para a Base “Almirante Castro e Silva”.

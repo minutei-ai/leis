@@ -1,7 +1,3 @@
-1
-
-###DEC-001384-0-000-01-02-1995@@@
-
 DECRETO Nº 1.384, DE 1º DE FEVEREIRO DE 1995
 
 Dispõe sobre levantamento parcial, em território nacional, do regime de sanções contra a República Federal da Iugoslávia, conforme determinado pela Resolução  970 (1995) do Conselho de Segurança das Nações Unidas.

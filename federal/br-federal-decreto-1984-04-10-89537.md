@@ -1,5 +1,3 @@
-###DEC-089537-0-000-10-04-1984@@@
-
 Decreto nº 89.537, de 10 de abril de 1984.
 
 Declara de utilidade pública, para efeito de desapropriação, a área que menciona, necessária ao Ministério da Marinha.

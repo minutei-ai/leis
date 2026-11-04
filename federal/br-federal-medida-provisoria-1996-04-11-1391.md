@@ -1,7 +1,3 @@
-1
-
-###MPV-001391-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.391, DE 11 DE ABRIL DE 1996.
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

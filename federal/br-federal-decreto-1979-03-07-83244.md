@@ -1,5 +1,3 @@
-###DEC-083244-0-000-07-03-1979@@@
-
 decreto nº 83.244, de 07 de março de 1979
 
 Retifica a autorização de lavra conferida à Cia. Siderúrgica Cruzeiro do Sul - CRUZSUL pelo Decreto nº 62.073, de 05 de janeiro de 1968.

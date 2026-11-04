@@ -1,5 +1,3 @@
-###DEL-000974-0-000-20-10-1969@@@
-
 DECreto-LEI Nº 974, De 20 De OUTUBRO DE 1969
 
 Autoriza o Poder Executivo a emitir apólice da Dívida Pública da Unido.

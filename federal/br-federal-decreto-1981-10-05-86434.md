@@ -1,5 +1,3 @@
-###DEC-086434-0-000-05-10-1981@@@
-
 DECRETO Nº 86.434, DE 05 DE OUTUBRO DE 1981.
 
 Revoga o Decreto nº 9.603, de 5 de junho de 1912, que concedeu à empresa CAISSE GÉNÉRALE DE PARTICIPATIONS FONCIÉRES ET INDUSTRIELLES, autorização para funcionar na República Federativa do Brasil.
@@ -19,8 +17,6 @@ Brasília, 05 de outubro de 1981; 160º da Independência e 93º da República.
 AURELIANO CHAVES
 
 João Camilo Penna
-
-###DEC-086434-0-000-05-10-1981@@@RET01+++
 
 DECRETO Nº 86.434, DE 05 DE OUTUBRO DE 1981.
 

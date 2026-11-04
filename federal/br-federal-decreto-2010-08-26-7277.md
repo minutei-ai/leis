@@ -1,5 +1,3 @@
-###DEC-007277-0-000-26-08-2010-PUB-01@@@
-
 DECRETO Nº 7.277, DE 26 DE AGOSTO DE 2010.
 
 Dá nova redação aos arts. 2o, 3o, 4o e 6o do Regimento Interno do Conselho de Recursos do Sistema Financeiro Nacional, anexo ao Decreto no 1.935, de 20 de junho de 1996, e dá outras providências

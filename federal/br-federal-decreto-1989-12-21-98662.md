@@ -1,7 +1,3 @@
-1
-
-###DEC-098662-0-000-21-12-1989@@@
-
 DECRETO N° 98.662, DE 21 DE DEZEMBRO DE 1989
 
 Delega competência ao Ministro do Planejamento, para prática do ato que menciona, e dá outras providências.

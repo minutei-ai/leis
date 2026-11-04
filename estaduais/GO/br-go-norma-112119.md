@@ -16,32 +16,285 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE REFEIÇÕES PARA REEDUCANDOS</td><td style=" width:85px;    ">14 421 1007 2565</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 12.000.000,00</td><td style=" width:85px;    ">R$ 12.000.000,00</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 368 1008 2547</td><td style=" width:85px;    ">15430108</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.929.104,97</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 2.929.104,97</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 368 1008 2547</td><td style=" width:85px;    ">15430108</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 784,67</td><td style=" width:85px;    ">R$ 2.577.000,00</td><td style=" width:85px;    ">R$ 2.577.784,67</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 12.000.000,00</td></tr><tr><td style=" width:340px;    ">15430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR</td><td style=" width:340px;    ">R$ 3.577.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 15.577.000,00</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FORNECIMENTO DE REFEIÇÕES PARA REEDUCANDOS
+
+14 421 1007 2565
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 12.000.000,00
+
+R$ 12.000.000,00
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 368 1008 2547
+
+15430108
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 1.929.104,97
+
+R$ 1.000.000,00
+
+R$ 2.929.104,97
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 368 1008 2547
+
+15430108
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 784,67
+
+R$ 2.577.000,00
+
+R$ 2.577.784,67
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 12.000.000,00
+
+15430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR
+
+R$ 3.577.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 15.577.000,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 3.455.169,96</td><td style=" width:85px;    ">R$ 3.455.169,96</td></tr><tr><td style=" width:85px;    ">ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI</td><td style=" width:85px;    ">10 126 1043 2499</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 687.008,80</td><td style=" width:85px;    ">R$ 687.008,80</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DO COMPLEXO ONCOLÓGICO DE REFERÊNCIA - CORA</td><td style=" width:85px;    ">10 302 1043 3284</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 558.314,00</td><td style=" width:85px;    ">R$ 558.314,00</td></tr><tr><td style=" width:85px;    ">ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI</td><td style=" width:85px;    ">10 126 1043 2499</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 3.683.178,46</td><td style=" width:85px;    ">R$ 3.683.178,46</td></tr><tr><td style=" width:85px;    ">CONTRAPARTIDA DO SERVIÇO DE ATENDIMENTO MÓVEL DE URGÊNCIA / SAMU 192</td><td style=" width:85px;    ">10 302 1043 2510</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.517.315,99</td><td style=" width:85px;    ">R$ 2.517.315,99</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MOZARLÂNDIA</td><td style=" width:85px;    ">10 302 1043 3348</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.099.012,79</td><td style=" width:85px;    ">R$ 1.099.012,79</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE PRÉDIO PÚBLICO</td><td style=" width:85px;    ">12 122 1008 3131</td><td style=" width:85px;    ">15430108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 3.577.857,15</td><td style=" width:85px;    ">R$ 3.577.000,00</td><td style=" width:85px;    ">R$ 3.577.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 12.000.000,00</td></tr><tr><td style=" width:340px;    ">15430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR</td><td style=" width:340px;    ">R$ 3.577.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 15.577.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 12.000.000,00</td></tr><tr><td style=" width:340px;    ">15430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR</td><td style=" width:340px;    ">R$ 3.577.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 15.577.000,00</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 3.455.169,96
+
+R$ 3.455.169,96
+
+ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI
+
+10 126 1043 2499
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 687.008,80
+
+R$ 687.008,80
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DO COMPLEXO ONCOLÓGICO DE REFERÊNCIA - CORA
+
+10 302 1043 3284
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 558.314,00
+
+R$ 558.314,00
+
+ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI
+
+10 126 1043 2499
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 3.683.178,46
+
+R$ 3.683.178,46
+
+CONTRAPARTIDA DO SERVIÇO DE ATENDIMENTO MÓVEL DE URGÊNCIA / SAMU 192
+
+10 302 1043 2510
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 2.517.315,99
+
+R$ 2.517.315,99
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MOZARLÂNDIA
+
+10 302 1043 3348
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 1.099.012,79
+
+R$ 1.099.012,79
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSTRUÇÃO DE PRÉDIO PÚBLICO
+
+12 122 1008 3131
+
+15430108
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 3.577.857,15
+
+R$ 3.577.000,00
+
+R$ 3.577.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 12.000.000,00
+
+15430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR
+
+R$ 3.577.000,00
+
+**TOTAL**
+
+R$ 15.577.000,00
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 12.000.000,00
+
+15430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR
+
+R$ 3.577.000,00
+
+**TOTAL**
+
+R$ 15.577.000,00

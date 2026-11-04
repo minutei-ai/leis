@@ -1,5 +1,3 @@
-###DEC-074392-0-000-12-08-1974@@@
-
 decreto nº 74.392 - de 12 de agosto de 1974.
 
 Concede à Companhia Nacional de Álcalis o direito de lavrar calcário conchífero no Município de Cabo Frio, Estado do Rio de Janeiro.

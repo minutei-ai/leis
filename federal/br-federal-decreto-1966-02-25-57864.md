@@ -1,5 +1,3 @@
-###DEC-057864-0-000-25-02-1966@@@
-
 DECRETO Nº 57.864, DE 25 DE FEVEREIRO DE 1966.
 
 Autoriza o cidadão brasileiro Sebastião Vitor Addário a pesquisar mica e quartzo no município de Galiléia, Estado de Minas Gerais.

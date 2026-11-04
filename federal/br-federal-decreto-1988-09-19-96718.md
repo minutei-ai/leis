@@ -1,5 +1,3 @@
-###DEC-096718-0-000-19-09-1988@@@
-
 DECRETO N° 96.718, DE 19 DE SETEMBRO DE 1988
 
 Outorga concessão à Rádio Rio Vale Ltda. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Juazeiro, Estado da Bahia.

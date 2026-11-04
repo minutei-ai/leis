@@ -1,5 +1,3 @@
-###DEC-078861-0-000-30-11-1976@@@
-
 DECRETO Nº 78.861, DE 30 DE NOVEMBRO DE 1976
 
 Concede à Mineração Indústria e Comércio Vaz & Vieira Ltda. o direito de lavrar calcário no Município de Pains, Estado de Minas Gerais.

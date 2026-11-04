@@ -1,5 +1,3 @@
-###DEC-052600-0-000-01-10-1963@@@
-
 DECRETO Nº 52.600, DE 1 DE OUTUBRO DE 1963.
 
 Transfere da Emprêsa Fôrça e Luz Candeense S.A. para o município de Candeias a concessão, para produzir e distribuir energia elétrica em seu território.
@@ -23,8 +21,6 @@ Brasília, 1 de outubro de 1963; 142º da Independência e 75º da República.
 JOÃO GOULART
 
 Antônio de Oliveira Brito
-
-###DEC-052600-0-000-01-10-1963@@@RET01+++
 
 DECRETO Nº 52.600, DE 1 de OUTUBRO DE 1963.
 

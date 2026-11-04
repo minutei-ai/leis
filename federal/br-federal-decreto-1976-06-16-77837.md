@@ -1,5 +1,3 @@
-###DEC-077837-0-000-16-06-1976@@@
-
 DECRETO Nº 77.837, DE 16 DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Nova Iguaçu, com sede na cidade de Nova Iguaçu, Estado do Rio de Janeiro.

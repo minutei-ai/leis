@@ -1,5 +1,3 @@
-###DEL-008616-0-000-10-01-1946@@@
-
 DECRETO-LEI N. 8.616 – DE 10 DE JANEIRO DE 1946
 
 Dispõe sôbre o pessoal das autarquias e órgãos paraestatais

@@ -1,5 +1,3 @@
-###DEC-085178-0-000-22-09-1980@@@
-
 Decreto nº 85.178, de 22 de setembro de 1980.
 
 Declara de Interesse social, para fins de desapropriação, o imóvel rural que menciona, situado no Município de Rio Branco, no Estado do Acre, compreendido na área prioritária de reforma agrária, de que trata o Decreto nº 67.557,de 12 de novembro de 1970, alterado pelo Decreto nº 75.295, de 27 de Janeiro de 1975.

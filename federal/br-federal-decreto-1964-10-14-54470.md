@@ -1,5 +1,3 @@
-###DEC-054470-0-000-14-10-1964@@@
-
 DECRETO Nº 54.470, DE 14 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia Estadual de Energia Elétrica a ampliar suas instalações no Município de Rosário do Sul.

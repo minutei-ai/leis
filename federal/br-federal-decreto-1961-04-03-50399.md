@@ -1,5 +1,3 @@
-###DEC-050399-0-000-03-04-1961@@@
-
 DECRETO Nº 50.399, DE 3 DE ABRIL DE 1961.
 
 Torna sem efeito o Decreto número 43.096, de 23 de janeiro de 1958.

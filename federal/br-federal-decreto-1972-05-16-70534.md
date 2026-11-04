@@ -1,5 +1,3 @@
-###DEC-070534-0-000-16-05-1972@@@
-
 DECRETO Nº 70.534, DE 16 DE MAIO DE 1972.
 
 Declara de utilidade pública a Irmandade de Misericórdia de Atibaia, com sede em Atibaia, Estado de São Paulo.

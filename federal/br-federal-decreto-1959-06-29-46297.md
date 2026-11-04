@@ -1,5 +1,3 @@
-###DEC-046297-0-000-29-06-1959@@@
-
 DECRETO Nº 46.297, DE 29 DE JUNHO DE 1959.
 
 Autoriza o cidadão brasileiro Carlos Eduardo Corrêa da Costa a pesquisar areia quartzosa a argila no município de Caraguatatuba, Estado de São Paulo.

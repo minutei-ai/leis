@@ -1,5 +1,3 @@
-###DEC-081771-0-000-07-06-1978@@@
-
 Decreto nº 81.771, de 07 de junho de 1978.
 
 Regulamenta a Lei nº 6.507, de 19 de dezembro de 1977, que dispõe sobre a inspeção e a fiscalização da produção e do comércio de sementes e mudas e dá outras providências.

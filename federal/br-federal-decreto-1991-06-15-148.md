@@ -1,5 +1,3 @@
-###DEC-000148-0-000-15-06-1991@@@
-
 DECRETO N° 148, DE 15 DE JUNHO DE 1991
 
 Promulga as Emendas à Convenção e ao Acordo Operacional da Organização Internacional de Telecomunicações Marítimas por Satélite (INMARSAT).

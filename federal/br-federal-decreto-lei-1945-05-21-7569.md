@@ -1,5 +1,3 @@
-###DEL-007569-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.569 – DE 21 DE MAIO DE 1945
 
 Dispõe sôbre o pessoal da Caixa Econômica Federal da Bahia

@@ -1,5 +1,3 @@
-###DEC-085925-0-000-22-04-1981@@@
-
 Decreto nº 85.925, de 22 de abril de 1981.
 
 Altera dispositivos do Decreto nº 77.272 de 9 de março de 1976, que reorganiza as Forças Navais, Aeronavais e de Fuzileiros Navais

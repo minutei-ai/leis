@@ -1,5 +1,3 @@
-###DEC-049175-0-000-01-11-1960@@@
-
 DECRETO Nº 49.175, DE 1 DE NOVEMBRO DE 1960.
 
 Cria cargos e funções no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos e dá outras providências.

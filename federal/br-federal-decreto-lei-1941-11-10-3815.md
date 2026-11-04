@@ -1,5 +1,3 @@
-###DEL-003815-0-000-10-11-1941@@@
-
 DECRETO-LEI N. 3.815 – DE 10 DE NOVEMBRO DE 1941
 
 Dispõe sobre a substituição dos procuradores regionais da Justiça do Trabalho

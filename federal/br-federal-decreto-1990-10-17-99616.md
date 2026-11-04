@@ -1,5 +1,3 @@
-###DEC-099616-0-000-17-10-1990@@@
-
 DECRETO Nº 99.616, DE 17 DE OUTUBRO DE 1990
 
 Dispõe sobre a destinação das atribuições e do acervo técnico e patrimonial da Empresa Brasileira de Assistência Técnica e Extensão Rural EMBRATER, em liquidação, e dá outras providências.
@@ -31,8 +29,6 @@ FERNANDO COLLOR
 Zélia M. Cardoso de Mello
 
 Antônio Cabrera Mano Filho
-
-###DEC-099616-0-000-17-10-1990@@@RET01+++
 
 DECRETO N° 99.616, DE 17 DE OUTUBRO DE 1990
 

@@ -1,5 +1,3 @@
-###DEC-076225-0-000-09-09-1975@@@
-
 DECRETO Nº 76.225 - DE 9 DE SETEMBRO DE 1975
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Educação, Ciências e Letras, mantida pela União Pioneira de Integração Social - UPIS, com sede na cidade de Brasília, Distrito Federal.

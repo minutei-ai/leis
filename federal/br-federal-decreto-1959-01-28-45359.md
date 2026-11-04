@@ -1,5 +1,3 @@
-###DEC-045359-0-000-28-01-1959@@@
-
 DECRETO Nº 45.359, DE 28 DE JANEIRO DE 1959.
 
 Dispõe sôbre a aplicação da Lei número 3.351, de 19 de janeiro de 1959, que concede abono provisório aos servidores civis e militares do Poder Executivo dos Territórios, e dá outras providências.

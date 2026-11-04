@@ -1,5 +1,3 @@
-###DEC-066783-0-000-26-06-1970@@@
-
 DECRETO Nº 66.783 - DE 26 DE JUNHO DE 1970
 
 Declara de utilidade pública a Venerável Ordem Terceira de São Francisco da Penitência e Hospital de Caridade, com sede em São Francisco do Sul, Estado de Santa Catarina.

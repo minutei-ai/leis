@@ -1,5 +1,3 @@
-###DEC-056554-0-000-08-07-1965@@@
-
 DECRETO Nº 56.554, DE 8 DE JULHO DE 1965.
 
 Autoriza o cidadão brasileiro Nery Adolfo de Souza Merello a pesquisar carvão mineral no município de São Jerônimo, Estado do Rio Grande do Sul.

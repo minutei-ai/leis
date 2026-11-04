@@ -1,5 +1,3 @@
-###DEL-008636-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.636 – DE 11 DE JANEIRO DE 1946
 
 Cria a carreira de Contador no Quadro Permanente Ministério da Justiça e Negócios Interiores, e dá outras providências.

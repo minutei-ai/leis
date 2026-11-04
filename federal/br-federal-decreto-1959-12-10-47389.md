@@ -1,5 +1,3 @@
-###DEC-047389-0-000-10-12-1959@@@
-
 DECRETO Nº 47.389, DE 10 DE DEZEBRo DE 1959.
 
 Autoriza o cidadão brasileiro Alberto Herman Theodor Lundgren a lavrar calcário no município de Pedra de Fogo, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-064038-0-000-30-01-1969@@@
-
 DECRETO Nº 64.038, DE 30 DE JANEIRO DE 1969.
 
 Dispõe sôbre o ano letivo de 1969.

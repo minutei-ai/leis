@@ -1,7 +1,3 @@
-1
-
-###DEC-001039-0-000-10-01-1994@@@
-
 DECRETO Nº 1.039, DE 10 DE JANEIRO DE 1994
 
 Dispõe sobre o Sistema de Organização e Modernização Administrativa - SOMAD.

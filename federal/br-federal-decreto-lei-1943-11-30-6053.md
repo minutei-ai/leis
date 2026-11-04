@@ -1,5 +1,3 @@
-###DEL-006053-0-000-30-11-1943@@@
-
 DECRETO‑LEI N. 6.053 – DE 30 DE NOVEMBRO DE 1943
 
 Dá nova redação ao art. 738 da Consolidação das Leis do Trabalho, apro­vada pelo decreto‑lei n. 5.452, de 1 de maio de 1943

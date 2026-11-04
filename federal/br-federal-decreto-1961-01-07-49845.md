@@ -1,5 +1,3 @@
-###DEC-049845-0-000-07-01-1961@@@
-
 DECRETO N.º 49.845, DE 7 DE janeiro DE 1961.
 
 Declara de utilidade pública, para desapropriação, o imóvel que menciona, situado na cidade de Manaus, Estado do Amazonas.

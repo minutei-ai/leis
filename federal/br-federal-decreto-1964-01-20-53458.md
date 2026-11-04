@@ -1,5 +1,3 @@
-###DEC-053458-0-000-20-01-1964@@@
-
 DECRETO Nº 53.458, DE 20 DE JANEIRO DE 1964.
 
 Autoriza o cidadão brasileiro Martin Francisco Braz Neto a pesquisar conchas calcárias no município de Maricá, Estado do Rio de Janeiro.

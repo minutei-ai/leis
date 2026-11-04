@@ -1,5 +1,3 @@
-###DEC-070427-0-000-17-04-1972@@@
-
 DECRETO Nº 70.427, DE 17 DE ABRIL DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação Física de Cruz Alta - Estado do Rio Grande do Sul.

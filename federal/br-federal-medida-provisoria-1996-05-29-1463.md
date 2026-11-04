@@ -1,7 +1,3 @@
-1
-
-###MPV-001463-0-000-29-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.463, DE 29 DE MAIO DE 1996.
 
 Dispõe sobre o reajuste do salário mínimo e dos benefícios da Previdência Social, altera alíquotas de contribuição para a Seguridade Social e institui contribuição para os servidores inativos da União.

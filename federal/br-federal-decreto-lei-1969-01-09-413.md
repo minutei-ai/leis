@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3d3b6357-f910-4b45-b935-174b8561d4ee/texto#nowhere)
 
-###DEL-000413-0-000-09-01-1969@@@
-
 DECRETO-LEI Nº 413, DE 9 DE JANEIRO DE 1969
 
 Dispõe sôbre títulos de crédito industrial e dá outras providências.
@@ -382,7 +380,11 @@ Edmundo de Macedo Soares
 
 NOTAS DE CRÉDITO INDUSTRIAL
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:193.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nº.........</span></p></td><td style="width:211.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vencimento em..........de...............de 19...........</span></p></td></tr><tr><td style="width:193.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:211.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$________________________________</span></p></td></tr></tbody></table>
+Nº.........
+
+Vencimento em..........de...............de 19...........
+
+NCr$________________________________
 
 A .................................de...........................de 19.................pagar......................................
 
@@ -430,7 +432,11 @@ O pagamento será efetuado na praça de ........................................
 
 CÉDULA DE CRÉDITO INDUSTRIAL
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nº............</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vencimento em ...........de...............de 19......</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$_______________________________</span></p></td></tr></tbody></table>
+Nº............
+
+Vencimento em ...........de...............de 19......
+
+NCr$_______________________________
 
 A .......................de....................................de 19..........................pagar..............................
 

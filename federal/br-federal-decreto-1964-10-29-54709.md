@@ -1,5 +1,3 @@
-###DEC-054709-0-000-29-10-1964@@@
-
 DECRETO Nº 54.709, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza Pirelli S.A. Companhia Industrial Brasileira a instalar uma usina termoelétrica para uso exclusivo.

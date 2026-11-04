@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209394)<br>
-
 # LEI N° 17.937, DE 30 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 757/2023, dos Deputados Capitão Telhada - PP, Marina Helou - REDE e Letícia Aguiar - PP)

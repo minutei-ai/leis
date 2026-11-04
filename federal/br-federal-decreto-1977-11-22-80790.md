@@ -1,5 +1,3 @@
-###DEC-080790-0-000-22-11-1977@@@
-
 Decreto nº 80.790, de 22 de novembro de 1977
 
 Declara sem efeito o Decreto número 43.345, de 12 de março de 1958, que autorizou a S.A. Fazenda da Floresta a lavrar caulim e associados no Município de Juiz de Fora, Estado de Minas Gerais.

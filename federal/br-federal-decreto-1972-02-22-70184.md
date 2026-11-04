@@ -1,5 +1,3 @@
-###DEC-070184-0-000-22-02-1972@@@
-
 Decreto Nº 70.184, DE 22 DE FEVEREIRO DE 1972.
 
 Dispõe sobre provimento de cargo em comissão do Ministério da Aeronáutica.

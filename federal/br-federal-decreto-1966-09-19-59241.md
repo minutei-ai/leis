@@ -1,5 +1,3 @@
-###DEC-059241-0-000-19-09-1966@@@
-
 DECRETO Nº 59.241, DE 19 DE SETEMBRO DE 1966.
 
 Declara públicas, de uso comum, as águas do curso dágua que especifica.

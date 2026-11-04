@@ -1,5 +1,3 @@
-###DEC-082885-0-000-19-12-1978@@@
-
 Decreto nº 82 885, de 19 de dezembro de 1978
 
 Autoriza o serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Mossoró, Estado do Rio Grande do Norte.

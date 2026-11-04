@@ -1,5 +1,3 @@
-###DEC-053549-0-000-06-02-1964@@@
-
 DECRETO Nº 53.549, de 6 de Fevereiro de 1964.
 
 Concede à Companhia de Navegação santos (NASA) autorização para funcionar como emprêsa de navegação de cabotagem.

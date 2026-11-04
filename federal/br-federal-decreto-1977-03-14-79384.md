@@ -1,5 +1,3 @@
-###DEC-079384-0-000-14-03-1977@@@
-
 DECRETO Nº 79.384, DE 14 DE MARÇO DE 1977.
 
 Declara sem efeito o Decreto número 58.211, de 18 de abril de 1966.

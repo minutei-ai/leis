@@ -1,7 +1,3 @@
-1
-
-###DEC-097836-0-000-16-06-1989@@@
-
 DECRETO Nº 97.836, DE 16 DE JUNHO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, o terreno situado na Avenida Dantas Barreto, s/nº, esquina com a Rua Passo da Pátria, na cidade de Recife, Estado de Pernambuco, e dá outras providências.

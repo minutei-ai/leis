@@ -10,11 +10,31 @@ Art. 1º Ficam remembrados os Lotes 09, 10 e 11 da Quadra 60 do Loteamento VILA 
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEIS</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 09</td><td style="text-align:center">360,00</td></tr><tr><td style="text-align:center">LOTE 10</td><td style="text-align:center">356,38</td></tr><tr><td style="text-align:center">LOTE 11</td><td style="text-align:center">365,10</td></tr></tbody></table>
+**IMÓVEIS**
+
+(m²)
+
+LOTE 09
+
+360,00
+
+LOTE 10
+
+356,38
+
+LOTE 11
+
+365,10
 
 SITUAÇÃO PROPOSTA
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEL</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 09-11</td><td style="text-align:center">1.081,48</td></tr></tbody></table>
+**IMÓVEL**
+
+(m²)
+
+LOTE 09-11
+
+1.081,48
 
 Parágrafo único. O remembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2021.433.574/2023.197.385, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -22,8 +42,10 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 01 de novembro de 2023.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

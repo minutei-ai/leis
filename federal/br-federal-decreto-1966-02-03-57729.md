@@ -1,5 +1,3 @@
-###DEC-057729-0-000-03-02-1966@@@
-
 DECRETO Nº 57.729, DE 3 DE FEVEREIRO DE 1966.
 
 Autoriza estrangeiros a adquirir, em regime de ocupação, fração ideal do terreno de marinha e acrescido que menciona, no Estado de São Paulo

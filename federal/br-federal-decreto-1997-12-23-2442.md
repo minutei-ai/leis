@@ -1,5 +1,3 @@
-###DEC-002442-0-000-23-12-1997@@@
-
 DECRETO Nº 2.442, DE 23 DE DEZEMBRO DE 1997
 
 Qualifica como organização social a Associação de Comunicação Educativa Roquette Pinto - ACERP e autoriza a absorção das atividades da extinta Fundação Roquette Pinto.

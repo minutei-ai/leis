@@ -1,5 +1,3 @@
-###DEC-088572-0-000-02-08-1983@@@
-
 Decreto nº 88.572, de 02 de agosto de 1983
 
 Renova por 15 (quinze) anos a concessão outorgada à TELEVISÃO IMEMBUÍ S/A, para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Santa Maria, Estado do Rio Grande do Sul.

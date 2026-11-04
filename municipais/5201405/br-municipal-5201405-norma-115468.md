@@ -18,19 +18,66 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 17 de junho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 12</td><td style="text-align:center">423,59</td></tr><tr><td style="text-align:center">LOTE 13</td><td style="text-align:center">381,69</td></tr><tr><td style="text-align:center">LOTE 14</td><td style="text-align:center">379,44</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 12
+
+423,59
+
+LOTE 13
+
+381,69
+
+LOTE 14
+
+379,44
 
 SITUAÇÃO INTERMEDIÁRIA REMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 12-14</td><td style="text-align:center">1.184,72</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 12-14
+
+1.184,72
 
 SITUAÇÃO PROPOSTA DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 12 A</td><td style="text-align:center">256,66</td></tr><tr><td style="text-align:center">LOTE 12 B</td><td style="text-align:center">185,22</td></tr><tr><td style="text-align:center">LOTE 13 A</td><td style="text-align:center">187,26</td></tr><tr><td style="text-align:center">LOTE 13 B</td><td style="text-align:center">188,77</td></tr><tr><td style="text-align:center">LOTE 14 A</td><td style="text-align:center">182,04</td></tr><tr><td style="text-align:center">LOTE 14 B</td><td style="text-align:center">184,77</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 12 A
+
+256,66
+
+LOTE 12 B
+
+185,22
+
+LOTE 13 A
+
+187,26
+
+LOTE 13 B
+
+188,77
+
+LOTE 14 A
+
+182,04
+
+LOTE 14 B
+
+184,77

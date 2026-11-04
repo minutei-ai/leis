@@ -1,5 +1,3 @@
-###DEC-088546-0-000-26-07-1983@@@
-
 Decreto nº 88.546, de 26 de julho de 1983
 
 Dispõe sobre a composição dos Quadros Complementares da Marinha, criados pelo Decreto-lei nº 610, de 4 de junho de 1969, alterado pela lei nº 5.983 de 12 de dezembro de 1973, e dá outras providências.

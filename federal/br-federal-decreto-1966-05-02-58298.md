@@ -1,5 +1,3 @@
-###DEC-058298-0-000-02-05-1966@@@
-
 DECRETO Nº 58.298, DE 2 DE MAIO DE 1966.
 
 Renova o Decreto nº 874, de 9 de abril de 1962.

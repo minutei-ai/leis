@@ -1,5 +1,3 @@
-###DEC-054952-0-000-06-11-1964@@@
-
 DECRETO Nº 54.952, DE 6 DE NOVEMBRO DE 1964.
 
 Abre ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$980.000.000,00, para o fim que especifica.

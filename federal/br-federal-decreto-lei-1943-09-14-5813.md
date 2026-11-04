@@ -1,5 +1,3 @@
-###DEL-005813-0-000-14-09-1943@@@
-
 DECRETO‑LEI N. 5. 813 – DE 14 DE SETEMBRO DE 1943
 
 Aprova o Acôrdo relativo ao recrutamento, encaminhamento e colocação de trabalhadores para a Amazônia, e dá outras providências

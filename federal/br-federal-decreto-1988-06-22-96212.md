@@ -1,5 +1,3 @@
-###DEC-096212-0-000-22-06-1988@@@
-
 DECRETO N° 96.212, DE 22 DE JUNHO DE 1988
 
 Dispõe sobre a incorporação da Empresa Brasileira de Noticias - EBN à Empresa Brasileira de Radiodifusão RADIOBRÁS e dá outras providências.

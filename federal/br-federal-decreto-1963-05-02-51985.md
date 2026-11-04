@@ -1,5 +1,3 @@
-###DEC-051985-0-000-02-05-1963@@@
-
 DECRETO Nº 51.985, DE 2 DE MAIO DE 1963.
 
 Extingue o 1º Grupo de Artilharia de Costa Ferroviário.

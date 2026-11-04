@@ -6,9 +6,12 @@ Altera a Lei nº [7.990](https://www.legislabahia.ba.gov.br/documentos/lei-no-79
 
 **Art. 1º** \- A Lei nº 7.990, de 27 de dezembro de 2001, passa a vigorar com a seguinte modificação:
 
-“Art. 18 - .............................................................................................<br>
-..............................................................................................................<br>
-§ 5º - A convocação de que trata este artigo possui caráter excepcional e terá a duração de até 36 (trinta e seis) meses, admitida 01 (uma) única prorrogação por igual período, vedado o exercício de cargo ou função de comando, direção e chefia.<br>
+“Art. 18 - .............................................................................................
+
+..............................................................................................................
+
+§ 5º - A convocação de que trata este artigo possui caráter excepcional e terá a duração de até 36 (trinta e seis) meses, admitida 01 (uma) única prorrogação por igual período, vedado o exercício de cargo ou função de comando, direção e chefia.
+
 .....................................................................................................” (NR)
 
 **Art. 2º** - Esta Lei entra em vigor na data da sua publicação.

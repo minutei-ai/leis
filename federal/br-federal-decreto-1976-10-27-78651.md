@@ -1,5 +1,3 @@
-###DEC-078651-0-000-27-10-1976@@@
-
 DECRETO Nº 78.651, de 27 de outubro de 1976.
 
 Concede reconhecimento ao curso de Educação Física, do Centro de Ciências da Saúde, da Universidade de Fortaleza, com sede na cidade de Fortaleza, Estado do Ceará.

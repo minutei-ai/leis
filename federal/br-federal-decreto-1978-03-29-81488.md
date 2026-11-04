@@ -1,5 +1,3 @@
-###DEC-081488-0-000-29-03-1978@@@
-
 decreto nº 81.488, de 29 de março de 1978.
 
 Retifica a concessão de lavra outorgada à José Schwerber pelo Decreto nº 53.027, de 28 de novembro de 1963.

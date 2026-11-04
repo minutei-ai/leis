@@ -1,28 +1,26 @@
-###DEC-041193-0-000-26-03-1957@@@
+**DECRETO Nº 41.193, DE 26 DE MARÇO DE 1957.**
 
-<strong>DECRETO Nº 41.193, DE 26 DE MARÇO DE 1957.</strong>
+***Atribui a Companhia Urbanizadora da nova Capital do Brasil os estudos e construção de linhas férreas de interêsse do futuro Distrito Federal.***
 
-<em><strong>Atribui a Companhia Urbanizadora da nova Capital do Brasil os estudos e construção de linhas férreas de interêsse do futuro Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos da autorização conferida pelo item d), do artigo 2º da Lei número 2.874, de 19 de setembro de 1956,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos da autorização conferida pelo item d), do artigo 2º da Lei número 2.874, de 19 de setembro de 1956,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam atribuídos a Companhia Urbanizadora da Nova Capital de Brasil os estudos e construção das linhas férreas de interêsse do futuro Distrito Federal.
 
-<strong>Art</strong>. 1º Ficam atribuídos a Companhia Urbanizadora da Nova Capital de Brasil os estudos e construção das linhas férreas de interêsse do futuro Distrito Federal.
+**Art**. 2º As obrigações da Companhia Urbanizadora da Nova Capital do Brasil, na execução dos serviços delegados, serão especificados em convênio que assinara com o Ministério da Viação e Obras Públicas, de acôrdo com as cláusulas que com êste baixam, assinadas pelo respectivo Ministro de Estado.
 
-<strong>Art</strong>. 2º As obrigações da Companhia Urbanizadora da Nova Capital do Brasil, na execução dos serviços delegados, serão especificados em convênio que assinara com o Ministério da Viação e Obras Públicas, de acôrdo com as cláusulas que com êste baixam, assinadas pelo respectivo Ministro de Estado.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de março de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lucio Meira
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 41.193, DESTA DATA.</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 41.193, DESTA DATA.**
 
 Cláusula Primeira. O Ministério da Viação e Obras Públicas delegará a Companhia Urbanizadora da Nova Capital do Brasil a execução dos estudos e obras das ferrovias de interêsse do no novo Distrito Federal:
 
@@ -66,4 +64,4 @@ Cláusula Décima Sétima. O D.N.E.F., usando da concessão prevista no parágra
 
 Rio de Janeiro, 26 de março de 1957.
 
-<strong>LUCIO MEIRA</strong>
+**LUCIO MEIRA**

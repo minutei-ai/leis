@@ -1,5 +1,3 @@
-###DEC-049210-0-000-11-11-1960@@@
-
 DECRETO N. 49.210 – DE 11 DE NOVEMBRO DE 1960
 
 Declara de utilidade pública a Associação Brasileira do Rio de Janeiro dos Cavaleiros da Soberana e Militar Ordem de Malta com sede no Estado da Guanabara.

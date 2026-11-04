@@ -1,5 +1,3 @@
-###DEC-072938-0-000-17-10-1973@@@
-
 DECRETO Nº 72.938, de 17 de outubro de 1973.
 
 Concede reconhecimento à Escola de Ciências à Escola de Ciências Médicas de Volta Redonda, com sede na Cidade de Volta Redonda, Estado do Rio de Janeiro.

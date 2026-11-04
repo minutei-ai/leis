@@ -16,5 +16,6 @@ Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogando-se di
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 27 de março de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito

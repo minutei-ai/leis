@@ -1,5 +1,3 @@
-###DEC-070577-0-000-22-05-1972@@@
-
 DECRETO Nº 70.577, DE 22 DE MAIO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Administração de Empresas de Osasco - São Paulo.

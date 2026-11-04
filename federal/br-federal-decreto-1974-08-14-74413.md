@@ -1,5 +1,3 @@
-###DEC-074413-0-000-14-08-1974@@@
-
 DECRETO Nº 74.413, DE 14 DE AGOSTO DE 1974.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas, Contábeis, Administrativas e Atuarias, mantida pelo Instituto de Ensino Superior da Região Bragantina com sede na cidade de Bragança Paulista, Estado de São Paulo.

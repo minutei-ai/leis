@@ -1,5 +1,3 @@
-###DEC-076772-0-000-11-12-1975@@@
-
 DECRETO Nº 76.772, DE 11 DE DEZEMBRO DE 1975.
 
 Retifica o Decreto nº 75.280, de 23 de janeiro de 1975, que declarou de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Céu Azul, Matelândia, Medianeira e São Miguel do Iguaçu, no Estado do Paraná, compreendidos na área prioritária de que trata o Decreto nº 69.411, de 22 de outubro de 1971.

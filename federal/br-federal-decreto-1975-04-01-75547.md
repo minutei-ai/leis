@@ -1,5 +1,3 @@
-###DEC-075547-0-000-01-04-1975@@@
-
 DECRETO Nº 75.547, de 1 de abril de 1975.
 
 Dispõe sobre a Embaixada do Brasil no Emirado do Coveite.

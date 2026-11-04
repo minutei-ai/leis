@@ -1,5 +1,3 @@
-###DEL-009160-0-000-11-04-1946@@@
-
 DECRETO-LEI N. 9.160 – DE 11 DE ABRIL DE 1946
 
 Considera "data festiva do Exército” o dia 14 de Abril de 1946

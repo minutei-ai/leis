@@ -1,5 +1,3 @@
-###DEC-064644-0-000-03-06-1969@@@
-
 DECRETO Nº 64.644, DE 3 DE JUNHO DE 1969.
 
 Declara de utilidade pública a Associação das Filhas de Maria Imaculada, com sede em Santos, Estado de São Paulo.

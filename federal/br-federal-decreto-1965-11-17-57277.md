@@ -1,5 +1,3 @@
-###DEC-057277-0-000-17-11-1965@@@
-
 DECReTO Nº 57.277, DE 17 DE NOVEMBRO DE 1965.
 
 Autoriza a firma Panbrasil Importadora e Exportadora Ltda. a comprar pedras preciosas.

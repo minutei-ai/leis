@@ -1,5 +1,3 @@
-###DEC-050824-0-000-22-06-1961@@@
-
 Decreto nº 50.824, de 22 de junho de 1961.
 
 Torna sem efeito o Decreto nº 44.779, de 6 de novembro de 1958.

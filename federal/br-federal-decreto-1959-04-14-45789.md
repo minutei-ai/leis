@@ -1,5 +1,3 @@
-###DEC-045789-0-000-14-04-1959@@@
-
 DECRETO Nº 45.789, DE 14 DE ABRIL DE 1959.
 
 Autoriza a Companhia de Mineração Novalimense a pesquisar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

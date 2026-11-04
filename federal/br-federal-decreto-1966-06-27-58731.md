@@ -1,5 +1,3 @@
-###DEC-058731-0-000-27-06-1966@@@
-
 Decreto nº 58.731, de 27 de junho de 1966.
 
 Renova o Decreto nº 2.154, de 22 de janeiro de 1963.

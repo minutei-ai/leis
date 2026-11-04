@@ -1,5 +1,3 @@
-###DEL-004341-0-000-26-05-1942@@@
-
 DECRETO-LEI N. 4.341 – DE 26 DE MAIO DE 1942
 
 Cria o 9º Grupo de Artilharia Auto-Transportado na 7ª Região Militar

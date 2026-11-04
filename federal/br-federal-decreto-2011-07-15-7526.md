@@ -1,5 +1,3 @@
-###DEC-007526-0-000-15-07-2011-PUB-01@@@
-
 DECRETO Nº 7.526, DE 15 DE JULHO DE 2011
 
 Altera o Decreto nº 7.392, de 13 de dezembro de 2010, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Advocacia-Geral da União, aprova o Quadro Demonstrativo dos Cargos em Comissão da Procuradoria-Geral Federal e remaneja cargos em comissão.

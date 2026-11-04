@@ -1,5 +1,3 @@
-###DEL-001580-0-000-17-10-1977@@@
-
 # DECRETo-LEI Nº 1.580, DE 17 DE OUTUBRO DE 1977
 
 Altera o inciso XIV do artigo 4º da Lei nº 4.595, de 31 de dezembro de 1964

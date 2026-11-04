@@ -14,8 +14,6 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação, surtindo efeitos f
 
 Goiânia, 15 de maio de 2024; 136º da República.
 
-<br>
-
 DANIEL VILELA
 
 Governador do Estado em exercício

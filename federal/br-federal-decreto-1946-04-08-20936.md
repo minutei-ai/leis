@@ -1,20 +1,18 @@
-###DEC-020936-0-000-08-04-1946@@@
+**DECRETO N° 20.936, DE 8 DE ABRIL DE 1946.**
 
-<strong>DECRETO N° 20.936, DE 8 DE ABRIL DE 1946.</strong>
+***Outorga à S.A. Comercial de Fósforos, com sede em São Paulo, concessão de energia hidráulica de Lima queda d’água no rio Apiaí Mirim, distrito e município de Capão Bonito, Estado de São Paulo.***
 
-<em><strong>Outorga à S.A. Comercial de Fósforos, com sede em São Paulo, concessão de energia hidráulica de Lima queda d’água no rio Apiaí Mirim, distrito e município de Capão Bonito, Estado de São Paulo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 74, alínea a , da constituição, e nos têrmos do art. 150 do Código de Águas (Decreto n° 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 74, alínea a , da constituição, e nos têrmos do art. 150 do Código de Águas (Decreto n° 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1° - Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à S.A. Comercial de Fósforos, com sede em São Paulo, concessão para aproveitamento da energia hidráulica de uma queda dágua no rio Apiaí Mirim, distrito e município de Capão Bonito, Estado de S. Paulo.
+**Art**. 1° - Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à S.A. Comercial de Fósforos, com sede em São Paulo, concessão para aproveitamento da energia hidráulica de uma queda dágua no rio Apiaí Mirim, distrito e município de Capão Bonito, Estado de S. Paulo.
 
 § 1º - Por portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga e a potência concedida.
 
 § 2º - O aproveitamento destina-se à produção de energia elétrica para uso exclusivo da concessionária, que não a poderá da concessionária, que não a poderá suprir a terceiros, mesmos a título gratuito, excluídas, todavia proibição as vilas operárias da concessionária, desde que seja gratuito o fornecimento de energia que lhes fôr feito.
 
-<strong>Art</strong>. 2<strong>°</strong> - Sob pena de caducidade do presente título, a concessionária obriga-se a:
+**Art**. 2**°** - Sob pena de caducidade do presente título, a concessionária obriga-se a:
 
 I - Registra-lo na Divisão de Águas do Ministério da Agricultura, dento de trinta (30) dias após a sua publicação.
 
@@ -38,26 +36,26 @@ V - Obedecer, em todos os projetos, as prescrição de ordem técnica que forem 
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º - A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 3º - A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º - A presente concessão vigorará pelo prazo de trinta (30) anos contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 4º - A presente concessão vigorará pelo prazo de trinta (30) anos contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 5º - Findo o prazo da concessão, toda a propriedade da concessionária que, no momento existir em função exclusiva e permanente da produção da energia hidráulica reverterá ao Estado de São Paulo, mediante indenização do custo histórico, isto é, do capital efetivamente gasto  menos a depreciação.
+**Art**. 5º - Findo o prazo da concessão, toda a propriedade da concessionária que, no momento existir em função exclusiva e permanente da produção da energia hidráulica reverterá ao Estado de São Paulo, mediante indenização do custo histórico, isto é, do capital efetivamente gasto  menos a depreciação.
 
-<strong>Art</strong>. 6º - A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento onde e desde quando for determinado pela Divisão de Águas as instalações necessárias a observações linimetricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 6º - A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento onde e desde quando for determinado pela Divisão de Águas as instalações necessárias a observações linimetricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 7º - Se o governo do Estado de São Paulo não fizer uso do direito que lhe concede o artigo precedente caberá à concessionária a alternativa de requerer ao Govêrno Federal  que a concessão seja renovada pela forma que no respectivo contrato deverá estar prevista ou de restabelecer, às suas expensas, a situação do curso dágua anterior ao aproveitamento concedido.
+**Art**. 7º - Se o governo do Estado de São Paulo não fizer uso do direito que lhe concede o artigo precedente caberá à concessionária a alternativa de requerer ao Govêrno Federal  que a concessão seja renovada pela forma que no respectivo contrato deverá estar prevista ou de restabelecer, às suas expensas, a situação do curso dágua anterior ao aproveitamento concedido.
 
 Parágrafo único. Para os efeitos dêste artigo fica a concessionária obrigada a dar conhecimento ao Govêrno Federal decisão do Estado de São Paulo e a entrar com o requerimento da prorrogação da concessão ou o de desistência, desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 8º - A concessionária, dadas as condições peculiares do aproveitamento, fica dispensada da reserva de energia de que trata o artigo 153, alínea <em>e</em>, do código de Águas.
+**Art**. 8º - A concessionária, dadas as condições peculiares do aproveitamento, fica dispensada da reserva de energia de que trata o artigo 153, alínea *e*, do código de Águas.
 
-<strong>Art</strong>. 9º - A concessionária gozará desde data do registro de que se trata o artigo 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das lei especiais sôbre a matéria.
+**Art**. 9º - A concessionária gozará desde data do registro de que se trata o artigo 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das lei especiais sôbre a matéria.
 
-<strong>Art</strong>. 10 - O presente Decreto entra em vigor na data de sua publicação revogadas as disposições em contrário.
+**Art**. 10 - O presente Decreto entra em vigor na data de sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, 8 de abril de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior

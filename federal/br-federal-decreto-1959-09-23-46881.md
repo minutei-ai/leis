@@ -1,5 +1,3 @@
-###DEC-046881-0-000-23-09-1959@@@
-
 Decreto nº 46.881, de 23 de setembro de 1959.
 
 Cria o Consulado Honorário do Brasil em Madras, Índia.

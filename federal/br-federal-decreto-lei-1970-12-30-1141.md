@@ -1,5 +1,3 @@
-###DEL-001141-0-000-30-12-1970@@@
-
 # DeCRETO-LEI Nº 1.141, DE 30 DE DEZEMBRO DE 1970
 
 Estende até 1975 os efeitos do artigo 1º do Decreto-lei nº 498, de 13 de março de 1969, e dá outras providências.

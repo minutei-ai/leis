@@ -1,5 +1,3 @@
-###DEC-001822-0-000-29-02-1996@@@
-
 DECRETO Nº 1.822, DE 29 DE FEVEREIRO DE 1996
 
 Transfere ao Ministério da Administração Federal e Reforma do Estado competência para a análise e aprovação das prestações de contas decorrentes dos convênios, contratos e outros instrumentos similares firmados pelos extintos Ministérios do Bem-Estar Social e da Integração Regional, e dá outras providências.

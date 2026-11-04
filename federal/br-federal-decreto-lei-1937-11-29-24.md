@@ -1,5 +1,3 @@
-###DEL-000024-0-000-29-11-1937@@@
-
 DECRETO-LEI N. 24 - DE 29 DE NOVEMBRO DE 1937
 
 Dispõe sôbre a acumulação de funções e cargos públicos remunerados e dá outras providências

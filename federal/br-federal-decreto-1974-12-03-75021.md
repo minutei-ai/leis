@@ -1,5 +1,3 @@
-###DEC-075021-0-000-03-12-1974@@@
-
 Decreto nº 75.021, de 3 de dezembro de 1974.
 
 Concede a Cimento Aratu S.A. o direito de lavrar folhelho no Município de Simões Filho, Estado da Bahia.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.616, DE 24 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a institucionalização da CNH Social, especificamente para as mulheres vítimas de violência doméstica ou familiar, dentro do Programa de Habilitação Social do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a institucionalização da CNH Social, especificamente para as mulheres vítimas de violência doméstica ou familiar, dentro do Programa de Habilitação Social do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

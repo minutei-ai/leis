@@ -1,5 +1,3 @@
-###DEC-051856-0-000-20-03-1963@@@
-
 Decreto Nº 51.856, DE 20 DE MARÇO DE 1963.
 
 Autoriza a Companhia Paulista de Fôrça e Luz S.A. a construir linha de transmissão.

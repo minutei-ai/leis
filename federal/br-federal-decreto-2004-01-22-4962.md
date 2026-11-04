@@ -1,5 +1,3 @@
-###DEC-004962-0-000-22-01-2004@@@
-
 DECRETO Nº 4.962,  DE 22 DE JANEIRO DE 2004.
 
 Regulamenta a Lei no 10.420, de 10 abril de 2002, que cria o Garantia-Safra, dispõe sobre o Comitê Gestor do Garantia-Safra, e dá outras providências.

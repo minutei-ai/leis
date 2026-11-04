@@ -1,5 +1,3 @@
-###DEC-066107-0-000-23-01-1970@@@
-
 DECRETO Nº 66.107 - DE 23 DE JANEIRO DE 1970
 
 Dispõe sôbre a subordinação de órgãos fazendários à Secretaria-Geral do Ministério da Fazenda.

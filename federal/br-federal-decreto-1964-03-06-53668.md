@@ -1,5 +1,3 @@
-###DEC-053668-0-000-06-03-1964@@@
-
 DECRETO Nº 53.668, de 6 DE MARÇO DE 1964.
 
 Regulamenta o disposto no art. 3º da Lei nº 4.291, de 12 de dezembro de 1963.

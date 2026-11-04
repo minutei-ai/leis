@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208563)<br>
-
 # DECRETO N° 67.980, DE 25 DE SETEMBRO DE 2023
 
 ### _Institui o Comitê Estadual para Simplificação de Registro e Legalização de Empresas e Negócios do Estado de São Paulo - Comitê Facilita SP_

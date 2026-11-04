@@ -1,5 +1,3 @@
-###DEC-059161-0-000-01-09-1966@@@
-
 DECRETO Nº 59.161, DE 1º DE SETEMBRTO DE 1966.
 
 Concede autorização de funcionamento ao Curso de Professor de Educação Musical do Conservatório Musical Santa Marcelina, Botucatu, Estado de São Paulo.

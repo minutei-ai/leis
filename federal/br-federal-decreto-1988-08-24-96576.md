@@ -1,5 +1,3 @@
-###DEC-096576-0-000-24-08-1988@@@
-
 DECRETO N° 96.576, DE 24 DE AGOSTO DE 1988
 
 Autoriza o funcionamento do curso de Ciências e do Curso Superior de Tecnologia em Processamento de Dados do Instituto Municipal de Ensino Superior de Assis.

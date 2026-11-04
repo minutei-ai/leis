@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.363, de 10 de Junho de 2024.](https://legis.ac.gov.br
 
 > **LEI Nº 4.084, DE 16 DE FEVEREIRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa de Fomento à Instalação de Estabelecimentos Comerciais e de Serviços na “Cidade do Povo”, autoriza o Poder Executivo a alienar imóveis de uso comercial e de serviços na “Cidade do Povo”, e revoga a Lei nº 2.740, de 25 de setembro de 2013.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa de Fomento à Instalação de Estabelecimentos Comerciais e de Serviços na “Cidade do Povo”, autoriza o Poder Executivo a alienar imóveis de uso comercial e de serviços na “Cidade do Povo”, e revoga a Lei nº 2.740, de 25 de setembro de 2013.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -101,8 +105,6 @@ Modificada pela Lei nº [4.363, de 10 de Junho de 2024.](https://legis.ac.gov.br
 **VIII -** editar normas técnicas dispondo sobre a forma de recebimento e processamento dos projetos de viabilidade técnica e econômico-financeiro;
 
 **IX -** renegociar contratos já firmados no âmbito da Lei nº 2.740, de 25 de setembro de 2013.
-
-<br>
 
 **Art. 8º-A** Fica o órgão central do sistema estadual de habitação autorizado a instituir programa para a renegociação de dívidas, de acordo com as regras, obrigações e percentuais de descontos aprovadas pelo Conselho Estadual de Habitação. (Incluído pela Lei nº 4.363, de 10/06/2024)
 

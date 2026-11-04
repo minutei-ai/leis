@@ -1,5 +1,3 @@
-###DEC-089534-0-000-09-04-1984@@@
-
 Decreto nº 89.534, de 09 de abril de 1984
 
 Renova, por 10 (dez) anos, as concessões outorgadas às entidades mencionadas, para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

@@ -1,5 +1,3 @@
-###DEC-093069-0-000-06-08-1986@@@
-
 # DECRETO Nº 93.069, DE 6 DE AGOSTO DE 1986
 
 Homologa a demarcação da área indígena que menciona nos Estados do Amazonas e Pará.

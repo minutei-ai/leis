@@ -1,5 +1,3 @@
-###DEC-094865-0-000-09-09-1987@@@
-
 DECRETO N° 94.865, DE 9 DE SETEMBRO DE 1987
 
 Cria, no âmbito da Comissão Brasileira de Atividades Espaciais, o Grupo de Gerenciamento e Acompanhamento do Projeto da Missão Espacial Completa Brasileira, e dá outras providências.

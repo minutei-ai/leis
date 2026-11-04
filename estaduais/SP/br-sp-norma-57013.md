@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57013)
-
 # LEI Nº 11.972, DE 25 DE AGOSTO DE 2005
 
 ## (PL 108/2000 - Maria Lúcia Prandi)

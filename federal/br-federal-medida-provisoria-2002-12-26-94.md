@@ -1,5 +1,3 @@
-###MPV-000094-0-000-26-12-2002@@@
-
 MEDIDA PROVISÓRIA N. 94 – DE 26 DE DEZEMBRO DE 2002
 
 Reabre o prazo para que os Municípios que refinanciaram suas dívidas junto à União possam contratar empréstimos ou financiamentos e dá nova redação ao art. 2º da Lei nº 8.989, de 24 de fevereiro de 1995.

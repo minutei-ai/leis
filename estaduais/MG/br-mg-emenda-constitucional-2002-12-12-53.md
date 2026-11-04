@@ -27,7 +27,3 @@ Deputado Mauri Torres - 1º-Secretário
 Deputado Wanderley Ávila - 2º-Secretário
 
 Deputado Álvaro Antônio - 3º-Secretário
-
-\========================================================
-
-Data da última atualização: 16/04/2004.

@@ -1,5 +1,3 @@
-###DEC-056745-0-000-17-08-1965@@@
-
 DECRETO Nº 56.745, DE 17 DE AGÔSTO DE 1965.
 
 Concede à Empresa de Mineração Rochedo Ltda, autorização para funcionar como emprêsa de mineração.

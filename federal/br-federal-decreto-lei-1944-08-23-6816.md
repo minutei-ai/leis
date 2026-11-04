@@ -1,5 +1,3 @@
-###DEL-006816-0-000-23-08-1944@@@
-
 DECRETO-LEI N. 6.816 – DE 23 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 60.000,00, à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-066216-0-000-17-02-1970@@@
-
 DECRETO Nº 66.216 - DE 17 DE FEVEREIRO DE 1970
 
 Rearticula as organizações de ensino do Exército, e dá outras providências.

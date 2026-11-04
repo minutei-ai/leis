@@ -1,5 +1,3 @@
-###DEL-004749-0-000-28-09-1942@@@
-
 DECRETO-LEI N. 4.749 – DE 28 DE SETEMBRO DE 1942
 
 Autoriza a Companhia Rádio Internacional do Brasil a ampliar seus serviços de radiotelegrafia e radiotelefonia

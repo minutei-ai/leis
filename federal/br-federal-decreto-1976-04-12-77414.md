@@ -1,5 +1,3 @@
-###DEC-077414-0-000-12-04-1976@@@
-
 DECRETO Nº 77.414 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento às habilitações em supervisão Escolar e Inspeção Escolar do curso de Pedagogia da Faculdade de Educação, Ciências e Letras "Princesa Isabel", com sede na cidade de São Paulo, Estado de São Paulo.

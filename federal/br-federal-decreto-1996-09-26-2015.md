@@ -1,7 +1,3 @@
-1
-
-###DEC-002015-0-000-26-09-1996@@@
-
 DECRETO N° 2.015, DE 26 DE SETEMBRO DE 1996.
 
 Remaneja cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e dá outras providências.

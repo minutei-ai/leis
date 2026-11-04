@@ -18,16 +18,17 @@ QUADRO 1 
 
 | SUPLEMENTAÇÃO  |
 | --- |
-| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA <br>
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA 
+
 2903 - CORPO DE BOMBEIROS MILITAR**  |
 | **ESPECIFICAÇÃO**  | **AÇÃO**  | **FONTE**  | **MODALIDADE**  | **GRUPO**  | **SALDO ORÇAMENTÁRIO**  | **VALOR A SUPLEMENTAR**  | **SALDO ATUALIZADO**  |
 | ESTRUTURAÇÃO DE POSTOS AVANÇADOS REGIONAIS - PROJETO CAPILARIDADE  | 06 182 1051 3183  | 15000100  | 90  | 4 - INVESTIMENTOS  | R$ 0,00  | R$ 750.299,00  | R$ 750.299,00  |
 | FORMAÇÃO DE BOMBEIRO MIRIM - PROEBOM  | 06 243 1052 2364  | 17610156  | 90  | 3 - OUTRAS DESPESAS CORRENTES  | R$ 625.999,11  | R$ 10.000,00  | R$ 635.999,11  |
 | FORMAÇÃO DE BOMBEIRO MIRIM - PROEBOM  | 06 243 1052 2364  | 27610156  | 90  | 3 - OUTRAS DESPESAS CORRENTES  | R$ 263.755,00  | R$ 42.800,00  | R$ 306.555,00  |
 
-<table aria-rowcount="3" border="1" data-tablelook="0" data-tablestyle="MsoNormalTable" dir="ltr"><tbody><tr><td colspan="8"><strong>1261-AGÊNCIA BRASIL CENTRAL - ABC&nbsp;</strong></td></tr><tr><td><strong>ESPECIFICAÇÃO&nbsp;</strong></td><td><strong>AÇÃO&nbsp;</strong></td><td><strong>FONTE&nbsp;</strong></td><td><strong>MODALIDADE&nbsp;</strong></td><td><strong>GRUPO&nbsp;</strong></td><td><strong>SALDO ORÇAMENTÁRIO&nbsp;</strong></td><td><strong>VALOR A SUPLEMENTAR&nbsp;</strong></td><td><strong>SALDO ATUALIZADO&nbsp;</strong></td></tr><tr><td>AMPLIAÇÃO DA DIVULGAÇÃO DE INFORMAÇÕES CULTURAIS E INSTITUCIONAIS DO ESTADO DE GOIÁS&nbsp;</td><td>04 131 1047 2470&nbsp;</td><td>15010220&nbsp;</td><td>90&nbsp;</td><td>3 - OUTRAS DESPESAS CORRENTES&nbsp;</td><td>R$ 324.335,09&nbsp;</td><td>R$ 200.000,00&nbsp;</td><td>R$ 524.335,09&nbsp;</td></tr></tbody></table>
+<table aria-rowcount="3" data-tablelook="0" data-tablestyle="MsoNormalTable" dir="ltr"><tbody><tr><td colspan="8">**1261-AGÊNCIA BRASIL CENTRAL - ABC&nbsp;**</td></tr><tr><td>**ESPECIFICAÇÃO&nbsp;**</td><td>**AÇÃO&nbsp;**</td><td>**FONTE&nbsp;**</td><td>**MODALIDADE&nbsp;**</td><td>**GRUPO&nbsp;**</td><td>**SALDO ORÇAMENTÁRIO&nbsp;**</td><td>**VALOR A SUPLEMENTAR&nbsp;**</td><td>**SALDO ATUALIZADO&nbsp;**</td></tr><tr><td>AMPLIAÇÃO DA DIVULGAÇÃO DE INFORMAÇÕES CULTURAIS E INSTITUCIONAIS DO ESTADO DE GOIÁS&nbsp;</td><td>04 131 1047 2470&nbsp;</td><td>15010220&nbsp;</td><td>90&nbsp;</td><td>3 - OUTRAS DESPESAS CORRENTES&nbsp;</td><td>R$ 324.335,09&nbsp;</td><td>R$ 200.000,00&nbsp;</td><td>R$ 524.335,09&nbsp;</td></tr></tbody></table>
 
-<table aria-rowcount="3" border="1" data-tablelook="0" data-tablestyle="MsoNormalTable" dir="ltr"><tbody><tr><td colspan="8"><strong>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG&nbsp;</strong></td></tr><tr><td><strong>ESPECIFICAÇÃO&nbsp;</strong></td><td><strong>AÇÃO&nbsp;</strong></td><td><strong>FONTE&nbsp;</strong></td><td><strong>MODALIDADE&nbsp;</strong></td><td><strong>GRUPO&nbsp;</strong></td><td><strong>SALDO ORÇAMENTÁRIO&nbsp;</strong></td><td><strong>VALOR A SUPLEMENTAR&nbsp;</strong></td><td><strong>SALDO ATUALIZADO&nbsp;</strong></td></tr><tr><td>FOMENTO A PROJETO DE PESQUISA / INOVAÇÃO&nbsp;</td><td>12 364 1008 2401&nbsp;</td><td>15000100&nbsp;</td><td>90&nbsp;</td><td>3 - OUTRAS DESPESAS CORRENTES&nbsp;</td><td>R$ 0,00&nbsp;</td><td>R$ 6.050.000,00&nbsp;</td><td>R$ 6.050.000,00&nbsp;</td></tr></tbody></table>
+<table aria-rowcount="3" data-tablelook="0" data-tablestyle="MsoNormalTable" dir="ltr"><tbody><tr><td colspan="8">**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG&nbsp;**</td></tr><tr><td>**ESPECIFICAÇÃO&nbsp;**</td><td>**AÇÃO&nbsp;**</td><td>**FONTE&nbsp;**</td><td>**MODALIDADE&nbsp;**</td><td>**GRUPO&nbsp;**</td><td>**SALDO ORÇAMENTÁRIO&nbsp;**</td><td>**VALOR A SUPLEMENTAR&nbsp;**</td><td>**SALDO ATUALIZADO&nbsp;**</td></tr><tr><td>FOMENTO A PROJETO DE PESQUISA / INOVAÇÃO&nbsp;</td><td>12 364 1008 2401&nbsp;</td><td>15000100&nbsp;</td><td>90&nbsp;</td><td>3 - OUTRAS DESPESAS CORRENTES&nbsp;</td><td>R$ 0,00&nbsp;</td><td>R$ 6.050.000,00&nbsp;</td><td>R$ 6.050.000,00&nbsp;</td></tr></tbody></table>
 
 | TOTAL A SUPLEMENTAR POR FONTE  |
 | --- |
@@ -41,16 +42,17 @@ QUADRO 2 
 
 | REDUÇÃO |
 | --- |
-| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA <br>
+| **2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA 
+
 2903 - CORPO DE BOMBEIROS MILITAR**  |
 | **ESPECIFICAÇÃO**  | **AÇÃO**  | **FONTE**  | **MODALIDADE**  | **GRUPO**  | **SALDO A PROGRAMAR**  | **VALOR BLOQUEADO**  | **VALOR A REDUZIR**  |
 | GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO  | 06 182 1051 2368  | 15000100  | 90  | 4 - INVESTIMENTOS  | R$ 3.250.299,00  | R$ 750.299,00  | R$ 750.299,00  |
 | FORMAÇÃO DE BOMBEIRO MIRIM - PROEBOM  | 06 243 1052 2364  | 17610156  | 90  | 4 - INVESTIMENTOS  | R$ 10.000,00  | R$ 10.000,00  | R$ 10.000,00  |
 | FORMAÇÃO DE BOMBEIRO MIRIM - PROEBOM  | 06 243 1052 2364  | 27610156  | 90  | 4 - INVESTIMENTOS  | R$ 42.800,00  | R$ 42.800,00  | R$ 42.800,00  |
 
-<table aria-rowcount="3" border="1" data-tablelook="0" data-tablestyle="MsoNormalTable" dir="ltr"><tbody><tr><td colspan="8"><strong>1261-AGÊNCIA BRASIL CENTRAL - ABC&nbsp;</strong></td></tr><tr><td><strong>ESPECIFICAÇÃO&nbsp;</strong></td><td><strong>AÇÃO&nbsp;</strong></td><td><strong>FONTE&nbsp;</strong></td><td><strong>MODALIDADE&nbsp;</strong></td><td><strong>GRUPO&nbsp;</strong></td><td><strong>SALDO A PROGRAMAR&nbsp;</strong></td><td><strong>VALOR BLOQUEADO&nbsp;</strong></td><td><strong>VALOR A REDUZIR&nbsp;</strong></td></tr><tr><td>DESENVOLVIMENTO E IMPLEMENTAÇÃO DE RECURSOS EM PLATAFORMA DIGITAL DE COMUNICAÇÃO PÚBLICA&nbsp;</td><td>04 131 1047 2471&nbsp;</td><td>15010220&nbsp;</td><td>90&nbsp;</td><td>4 - INVESTIMENTOS&nbsp;</td><td>R$ 200.000,00&nbsp;</td><td>R$ 200.000,00&nbsp;</td><td>R$ 200.000,00&nbsp;</td></tr></tbody></table>
+<table aria-rowcount="3" data-tablelook="0" data-tablestyle="MsoNormalTable" dir="ltr"><tbody><tr><td colspan="8">**1261-AGÊNCIA BRASIL CENTRAL - ABC&nbsp;**</td></tr><tr><td>**ESPECIFICAÇÃO&nbsp;**</td><td>**AÇÃO&nbsp;**</td><td>**FONTE&nbsp;**</td><td>**MODALIDADE&nbsp;**</td><td>**GRUPO&nbsp;**</td><td>**SALDO A PROGRAMAR&nbsp;**</td><td>**VALOR BLOQUEADO&nbsp;**</td><td>**VALOR A REDUZIR&nbsp;**</td></tr><tr><td>DESENVOLVIMENTO E IMPLEMENTAÇÃO DE RECURSOS EM PLATAFORMA DIGITAL DE COMUNICAÇÃO PÚBLICA&nbsp;</td><td>04 131 1047 2471&nbsp;</td><td>15010220&nbsp;</td><td>90&nbsp;</td><td>4 - INVESTIMENTOS&nbsp;</td><td>R$ 200.000,00&nbsp;</td><td>R$ 200.000,00&nbsp;</td><td>R$ 200.000,00&nbsp;</td></tr></tbody></table>
 
-<table aria-rowcount="3" border="1" data-tablelook="0" data-tablestyle="MsoNormalTable" dir="ltr"><tbody><tr><td colspan="8"><strong>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG&nbsp;</strong></td></tr><tr><td>ESPECIFICAÇÃO&nbsp;</td><td>AÇÃO&nbsp;</td><td>FONTE&nbsp;</td><td>MODALIDADE&nbsp;</td><td>GRUPO&nbsp;</td><td>SALDO A PROGRAMAR&nbsp;</td><td>VALOR BLOQUEADO&nbsp;</td><td>VALOR A REDUZIR&nbsp;</td></tr><tr><td>CONSTRUÇÃO OU REFORMA DE INSTALAÇÃO FÍSICA DA UEG&nbsp;</td><td>12 364 1008 3206&nbsp;</td><td>15000100&nbsp;</td><td>90&nbsp;</td><td>4 - INVESTIMENTOS&nbsp;</td><td>R$ 9.109.640,45&nbsp;</td><td>R$ 6.050.000,00&nbsp;</td><td>R$ 6.050.000,00&nbsp;</td></tr></tbody></table>
+<table aria-rowcount="3" data-tablelook="0" data-tablestyle="MsoNormalTable" dir="ltr"><tbody><tr><td colspan="8">**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG&nbsp;**</td></tr><tr><td>ESPECIFICAÇÃO&nbsp;</td><td>AÇÃO&nbsp;</td><td>FONTE&nbsp;</td><td>MODALIDADE&nbsp;</td><td>GRUPO&nbsp;</td><td>SALDO A PROGRAMAR&nbsp;</td><td>VALOR BLOQUEADO&nbsp;</td><td>VALOR A REDUZIR&nbsp;</td></tr><tr><td>CONSTRUÇÃO OU REFORMA DE INSTALAÇÃO FÍSICA DA UEG&nbsp;</td><td>12 364 1008 3206&nbsp;</td><td>15000100&nbsp;</td><td>90&nbsp;</td><td>4 - INVESTIMENTOS&nbsp;</td><td>R$ 9.109.640,45&nbsp;</td><td>R$ 6.050.000,00&nbsp;</td><td>R$ 6.050.000,00&nbsp;</td></tr></tbody></table>
 
 | TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III  |
 | --- |

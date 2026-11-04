@@ -1,5 +1,3 @@
-###DEC-066454-0-000-15-04-1970@@@
-
 DECRETO Nº 66.454, de 15 de abrIL DE 1970.
 
 Dispõe sôbre os cargos de Conferente da Ex-Comissão de Marinha Mercante e de Conferente de Carga do Departamento Nacional de Portos e Vias Navegáveis, Serviço de Navegação da Bacia do Prata e dos extintos Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará e dá outras providências.

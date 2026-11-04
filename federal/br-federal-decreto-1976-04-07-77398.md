@@ -1,5 +1,3 @@
-###DEC-077398-0-000-07-04-1976@@@
-
 Decreto nº 77.398 - de 7 de abril de 1976
 
 Modifica a rede consular na América do Sul

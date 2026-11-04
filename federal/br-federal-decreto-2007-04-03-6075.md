@@ -1,5 +1,3 @@
-###DEC-006075-0-000-03-04-2007@@@
-
 DECRETO Nº 6.075, DE 3 DE ABRIL DE 2007.
 
 Altera os arts. 3o e 5o do Decreto no 4.923, de 18 de dezembro de 2003, que dispõe sobre o Conselho de Transparência Pública e Combate à Corrupção.
@@ -33,5 +31,3 @@ Brasília,  3 de  abril  de 2007; 186o da Independência e 119o da República
 LUIZ INÁCIO LULA DA SILVA
 
 Jorge Hage Sobrinho
-
-Este texto não substitui o publicado no DOU de 4.4.2007

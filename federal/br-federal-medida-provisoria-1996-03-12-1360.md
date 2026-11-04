@@ -1,7 +1,3 @@
-1
-
-###MPV-001360-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.360, DE 12 DE MARÇO DE 1996.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-086163-0-000-29-06-1981@@@
-
 Decreto nº 86.163, de 29 de junho de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

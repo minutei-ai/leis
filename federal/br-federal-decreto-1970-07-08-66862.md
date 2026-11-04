@@ -1,5 +1,3 @@
-###DEC-066862-0-000-08-07-1970@@@
-
 Decreto nº 66.862, de 8 de julho de 1970.
 
 Aprova o Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200).

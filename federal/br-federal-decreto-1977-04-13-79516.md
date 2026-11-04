@@ -1,5 +1,3 @@
-###DEC-079516-0-000-13-04-1977@@@
-
 DECRETO Nº 79.516, DE 13 DE ABRIL DE 1977.
 
 Concede à Paladium Mineração S.A o direito de lavrar argila no Município de Alhandra, no Estado da Paraíba.

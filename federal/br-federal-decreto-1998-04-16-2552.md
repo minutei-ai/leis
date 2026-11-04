@@ -1,5 +1,3 @@
-###DEC-002552-0-000-16-04-1998@@@
-
 DECRETO Nº 2.552, DE 16 DE ABRIL DE 1998
 
 Dá nova redação ao § 1º do art. 5º do Decreto nº 2.264, de 27 de junho de 1997, que regulamenta a Lei nº 9.424, de 24 de dezembro de 1996, no âmbito federal.

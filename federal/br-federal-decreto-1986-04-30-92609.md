@@ -1,5 +1,3 @@
-###DEC-092609-0-000-30-04-1986@@@
-
 DECRETO Nº 92.609, DE 30 DE ABRIL DE 1986
 
 Outorga concessão à RÁDIO JACARANDÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santa Cruz Cabrália (Eunápolis), Estado da Bahia.

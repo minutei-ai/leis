@@ -14,7 +14,8 @@ Art. 4° Esta Lei entra em vigor na data de sua publicação, revogando disposi�
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 28 de janeiro de 2025.
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito Municipal
 
 [ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18714)

@@ -1,5 +1,3 @@
-###DEC-053408-0-000-16-01-1964@@@
-
 DECRETO Nº 53.408, de 16 de janeiro de 1964.
 
 Aprova alterações introduzidas nos Estatutos da Sul América Companhia Nacional de Seguros de Vida, inclusive aumento do capital social.

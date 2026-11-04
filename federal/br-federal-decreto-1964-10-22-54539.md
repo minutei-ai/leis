@@ -1,5 +1,3 @@
-###DEC-054539-0-000-22-10-1964@@@
-
 DECRETO Nº 54.539, DE 22 DE OUTUBRO DE 1964.
 
 Retifica o art. 1º do decreto 2.139, de 22 de janeiro de 1963, referente à autorização de pesquisa de mica e pedras coradas no município de Galiléia, Estado de Minas Gerais, concedida a Adão Batista de Andrade.

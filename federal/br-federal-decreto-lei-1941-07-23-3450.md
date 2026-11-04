@@ -1,5 +1,3 @@
-###DEL-003450-0-000-23-07-1941@@@
-
 DECRETO-LEI N. 3.450 – DE 23 DE JULHO DE 1941
 
 Concede auxílio, a título de funeral, à viuva do extranumerário contratado do Serviço Público, Aurino Morais

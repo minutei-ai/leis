@@ -1,5 +1,3 @@
-###DEC-086058-0-000-02-06-1981@@@
-
 DECRETO Nº 86.058, de 02 DE junho de 1981.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Paudalho, Estado de Pernambuco, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 56.583, de 19.07.65, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 68.085, de 19.01.71, 75.147, de 27.12.74, e 82.884, de 19.12.78.

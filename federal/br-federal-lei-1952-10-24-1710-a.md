@@ -1,14 +1,12 @@
-###LEI-001710-A-000-24-10-1952@@@
+**LEI N. 1.710 - "A" – DE 24 DE OUTUBRO DE 1952**
 
-<strong>LEI N. 1.710 - "A" – DE 24 DE OUTUBRO DE 1952</strong>
-
-<em><strong>Abre, ao Poder Judiciário – Justiça do Trabalho – o crédito suplementar de Cr$ 7.207.810,00, em refôrço de dotações para o exercício de 1952.</strong></em>
+***Abre, ao Poder Judiciário – Justiça do Trabalho – o crédito suplementar de Cr$ 7.207.810,00, em refôrço de dotações para o exercício de 1952.***
 
 O Congresso Nacional decreta e eu promulgo, nos têrmos do artigo 70, § 4º, da Constituição Federal, a seguinte Lei:
 
-<strong>Art.</strong> 1º E’ aberto ao Poder Judiciário – Justiça do Trabalho – o crédito suplementar de Cr$ 7.207.810,00 – (sete milhões, duzentos e sete mil oitocentos e dez cruzeiros) – em refôrço das seguintes dotações do Anexo nº 26 – Poder Judiciário – do Orçamento para 1952 – (Lei número 1.487, de 6 de dezembro de 1951):
+**Art.** 1º E’ aberto ao Poder Judiciário – Justiça do Trabalho – o crédito suplementar de Cr$ 7.207.810,00 – (sete milhões, duzentos e sete mil oitocentos e dez cruzeiros) – em refôrço das seguintes dotações do Anexo nº 26 – Poder Judiciário – do Orçamento para 1952 – (Lei número 1.487, de 6 de dezembro de 1951):
 
-<strong>VERBA 1 – PESSOAL</strong>
+**VERBA 1 – PESSOAL**
 
 Consignação I – Pessoal Permanente
 
@@ -30,7 +28,7 @@ Consignação I – Pessoal Permanente
 
 07 – 7ª Região ................................................................... 97.800,00
 
-08 – 8ª Região.....................................................................<u>76.164,00</u>    4.411.418,60
+08 – 8ª Região.....................................................................76.164,00    4.411.418,60
 
 Consignação III – Vantagens
 
@@ -40,7 +38,7 @@ Consignação III – Vantagens
 
 02 – Tribunais Regionais do Trabalho e Juntas de Conciliação e Julgamento:
 
-01 – 1ª Região .......................................................................... <u>26.400,00</u>          26.400,00
+01 – 1ª Região .......................................................................... 26.400,00          26.400,00
 
 13 – Gratificação de Representação
 
@@ -58,7 +56,7 @@ Consignação III – Vantagens
 
 06 – 6ª Região ........................................................................ 134.304,00
 
-08 – 8ª Região .........................................................................  <u>53.740,00</u>     1.202.002,40
+08 – 8ª Região .........................................................................  53.740,00     1.202.002,40
 
 Consignação VI – Diversos
 
@@ -82,9 +80,9 @@ Consignação VI – Diversos
 
 07ª Região .............................................................................. 137.200,00
 
-08 – 8ª Região ........................................................................ <u>161.969,00</u>      1.461.639,00
+08 – 8ª Região ........................................................................ 161.969,00      1.461.639,00
 
-<strong>VERBA 3 – SERVIÇOS E ENCARGOS</strong>
+**VERBA 3 – SERVIÇOS E ENCARGOS**
 
 Consignação IV – Assistência e Previdência Social
 
@@ -128,7 +126,7 @@ Consignação IV – Assistência e Previdência Social
 
 05 – 5ª Região ................................................................................. 5.400,00
 
-07 – 7ª Região ...............................................................................   <u>6.000,00</u>           60.750,00 
+07 – 7ª Região ...............................................................................   6.000,00           60.750,00 
 
 Consignação X – Diversos
 
@@ -144,12 +142,12 @@ Consignação X – Diversos
 
 08 – 8ª Região
 
-03 – Junta de Manáus .............................................................. <u>24.000,00</u>        <u>45.600,00</u>
+03 – Junta de Manáus .............................................................. 24.000,00        45.600,00
 
-Total ..............................................................................................................<u>7.207.810,00</u>
+Total ..............................................................................................................7.207.810,00
 
-<strong>Art.</strong> 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art.** 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Senado Federal, em 24 de outubro de 1952.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**

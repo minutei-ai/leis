@@ -1,5 +1,3 @@
-###DEC-073909-0-000-05-04-1974@@@
-
 DECRETO Nº 73.909, DE 5 DE ABRIL DE 1974.
 
 Transfere concessão para o uso exclusivo do aproveitamento hidráulico de um trecho do Ribeirão da Vargem, no distrito sede do Município de Taió, Estado de Santa Catarina.

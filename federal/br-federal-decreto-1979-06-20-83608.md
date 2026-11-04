@@ -1,5 +1,3 @@
-###DEC-083608-0-000-20-06-1979@@@
-
 Decreto nº 83.608, de 20 de junho de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagens de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

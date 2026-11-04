@@ -1,5 +1,3 @@
-###DEC-046570-0-000-13-08-1959@@@
-
 DECRETO Nº 46.570, DE 13 DE AGÔSTO DE 1959.
 
 Autoriza o Patrimônio da União, a aceitar a doação de um terreno, na Cidade de Ouro Prêto, Estado de Minas Gerais, que faz a Municipalidade daquela Cidade ao Ministério da Guerra.

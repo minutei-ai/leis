@@ -1,5 +1,3 @@
-###DEC-061022-0-000-17-07-1967@@@
-
 DECRETO Nº 61.022, DE 17 DE JULHO DE 1967.
 
 Concede a Ford Motor do Brasil S.A. autorização para continuar a funcionar na República dos Estados Unidos do Brasil.

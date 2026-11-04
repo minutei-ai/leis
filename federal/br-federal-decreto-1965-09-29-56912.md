@@ -1,5 +1,3 @@
-###DEC-056912-0-000-29-09-1965@@@
-
 DECRETO Nº 56.912, DE 29 DE SETEMBRO de 1965.
 
 Autoriza Sociedade Anônima Mineração de Amianto, a pesquisar amianto, no município de Uruaçu, Estado de Goiás.

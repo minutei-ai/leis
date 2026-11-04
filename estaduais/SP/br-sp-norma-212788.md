@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212788)<br>
-
 # DECRETO N° 70.713, DE 26 DE JUNHO DE 2026
 
 ### _Oficializa, sem ônus para os cofres públicos, a Ordem Honorífica "Ordem do Mérito Veterano Heber de Mello Valente - Herói Constitucionalista", instituída pela Sociedade Veteranos de 32 - MMDC e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Honraria
 
 **Artigo 1° -** Fica oficializada, sem ônus aos cofres públicos, a Ordem Honorífica "Ordem do Mérito Veterano Heber de Mello Valente - Herói Constitucionalista", que tem por objetivo agraciar personalidades civis e militares que tenham prestado relevantes serviços em prol das causas defendidas pela "Sociedade Veteranos de 32 - MMDC", na defesa dos ideais de justiça, civismo, compromisso com o Estado de Direito e perpetuação do legado da Revolução Constitucional de 1932, ou que, de algum modo, tenham prestado relevantes serviços ao Estado de São Paulo, bem como à população paulista.
@@ -17,7 +16,8 @@ Da Honraria
 
 **§ 2° -** A Ordem Honorífica "Ordem do Mérito Veterano Heber de Mello Valente - Herói Constitucionalista" poderá ser conferida a título póstumo.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Dos Graus e Insígnias
 
 **Artigo 2° -** A Ordem Honorífica "Ordem do Mérito Veterano Heber de Mello Valente - Herói Constitucionalista" constará dos seguintes graus:
@@ -118,7 +118,8 @@ VI - Cavaleiro / Dama: 40% (quarenta por cento).
 
 **Parágrafo único –** As admissões extraordinárias realizadas por indicação direta do Grão-Mestre serão consideradas não mobilizáveis e, por esse motivo, não serão computadas nos quantitativos deste artigo.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Chancelaria e do Conselho de Outorgas
 
 **Artigo 6° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pelo Conselho de Outorgas.
@@ -135,7 +136,8 @@ Da Chancelaria e do Conselho de Outorgas
 
 **Parágrafo único -** O número total de membros do Conselho de Outorgas, incluindo seu Presidente, deverá ser ímpar, a fim de evitar empates nas votações.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 8° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler, pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual de Honrarias e Mérito - CEHM.
@@ -168,7 +170,8 @@ V - do Chanceler aos demais membros e suplentes (Grã-Cruz).
 
 **Artigo 11 -** Caso a Ordem Honorífica permaneça por muito tempo sem ser conferida e/ou nos casos em que o Conselho de Outorgas seja dissolvido, será necessário reacender a Fonte de Honra (Fons Honorum), conforme previsto no artigo 9° deste decreto.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 12 -** As indicações ordinárias para a admissão e promoção na Ordem serão dirigidas ao Conselho de Outorgas, em formulário próprio, e deverão ser acompanhadas do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -227,7 +230,8 @@ II - os condecorados, nacionais ou estrangeiros, que tenham praticado atos atent
 
 **§ 3° -** O descumprimento do dever de que trata o § 2° do artigo 19 deste decreto sujeitará o excluído às medidas judiciais cabíveis para a busca e apreensão do diploma e das insígnias.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Das Admissões e Promoções
 
 **Artigo 20 -** As admissões ordinárias e extraordinárias à Ordem, bem como as promoções de seus integrantes, serão efetivadas por ofício do Grão-Mestre.
@@ -252,7 +256,8 @@ Das Admissões e Promoções
 
 **Artigo 27 -** Não poderão ser agraciadas as pessoas impedidas de usar as insígnias da Ordem.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Do Registro e das Chancelas Oficiais dos Diplomas
 
 **Artigo 28 -** O agraciamento por meio de admissão ou promoção na Ordem é de caráter personalíssimo e intransferível, sendo o diploma o documento formal e oficial que atesta sua autenticidade.
@@ -273,7 +278,8 @@ Do Registro e das Chancelas Oficiais dos Diplomas
 
 **§ 3° -** A realização de cerimônia de agraciamento sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual de Honrarias e Mérito - CEHM.
 
-#### SEÇÃO VIII<br>
+#### SEÇÃO VIII
+
 Das Cerimônias de Agraciamento
 
 **Artigo 31 -** A Chancelaria da instituição estabelecerá ao menos uma data magna, conforme artigo 25 deste decreto, para a realização de uma cerimônia de agraciamento oficial anual de agraciamento, preferencialmente pública.
@@ -298,7 +304,8 @@ Das Cerimônias de Agraciamento
 
 **§ 3° -** Os membros da Chancelaria deverão ostentar ao menos a roseta (botão de lapela) da honraria a ser outorgada.
 
-#### SEÇÃO IX<br>
+#### SEÇÃO IX
+
 Disposições Finais
 
 **Artigo 34 -** É vedada a comercialização da honraria, sob pena de revogação do decreto de oficialização.

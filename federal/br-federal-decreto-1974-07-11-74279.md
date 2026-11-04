@@ -1,5 +1,3 @@
-###DEC-074279-0-000-11-07-1974@@@
-
 DECRETO Nº 74.279 - DE 11 DE JULHO DE 1974
 
 Outorga à Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, concessão para o aproveitamento progressivo da energia hidráulica do Rio Tocantins.

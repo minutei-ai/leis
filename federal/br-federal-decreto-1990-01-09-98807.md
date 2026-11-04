@@ -1,7 +1,3 @@
-1
-
-###DEC-098807-0-000-09-01-1990@@@
-
 DECRETO Nº 98.807, DE 9 DE JANEIRO DE 1990
 
 Dispõe sobre a execução do Sexto protocolo Adicional ao Acordo Comercial nº 15, no Setor da Industria Químico-Farmacêutica, entre o Brasil, a Argentina e o México.

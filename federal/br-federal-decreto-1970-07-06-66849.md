@@ -1,5 +1,3 @@
-###DEC-066849-0-000-06-07-1970@@@
-
 DECRETO Nº 66.849, DE 6 DE JULHO DE 1970.
 
 Autoriza o funcionamento da Faculdade de Ciências e Pedagogia, em Lages, SC.

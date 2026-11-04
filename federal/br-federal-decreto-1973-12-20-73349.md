@@ -1,5 +1,3 @@
-###DEC-073349-0-000-20-12-1973@@@
-
 DECRETO Nº 73.349 - DE 20 DE DEZEMBRO DE 1973
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

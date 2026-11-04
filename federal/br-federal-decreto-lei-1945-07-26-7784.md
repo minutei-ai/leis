@@ -1,5 +1,3 @@
-###DEL-007784-0-000-26-07-1945@@@
-
 DECRETO-LEI N. 7.784 – DE 26 DE JULHO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 700.000,00, para despesas com mudança e novas instalações, e dá outras providências.

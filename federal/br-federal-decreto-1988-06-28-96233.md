@@ -1,5 +1,3 @@
-###DEC-096233-0-000-28-06-1988@@@
-
 DECRETO N° 96.233, DE 28 DE JUNHO DE 1988
 
 Dispõe sobre a aplicação dos incentivos fiscais para o desenvolvimento florestal do País.

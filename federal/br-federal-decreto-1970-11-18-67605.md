@@ -1,5 +1,3 @@
-###DEC-067605-0-000-18-11-1970@@@
-
 DECRETO Nº 67.605, DE 18 DE NOVEMBRO DE 1970.
 
 Declara caduco o Decreto nº 27.148 de 6-9-1949.

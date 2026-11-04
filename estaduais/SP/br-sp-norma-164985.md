@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/164985)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2011/compilacao-lei-14677-29.12.2011.html)
 
 # LEI N° 14.677, DE 29 DE DEZEMBRO DE 2011

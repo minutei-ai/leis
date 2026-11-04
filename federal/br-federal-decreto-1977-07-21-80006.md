@@ -1,5 +1,3 @@
-###DEC-080006-0-000-21-07-1977@@@
-
 DECRETO Nº 80.006, DE 21 DE JULHO DE 1977
 
 Concede à Comércio e Indústrias Rurais F. Bezerra S.A. o direito de lavrar gipsita no Município de Ipubi, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-077343-0-000-29-03-1976@@@
-
 DECRETO Nº 77.343, DE 29 DE MARÇO DE 1976.
 
 Concede reconhecimento ao curso de Educação Física e Técnica Desportiva, da Universidade Estadual de Londrina, com sede na Cidade de Londrina, Estado do Paraná.

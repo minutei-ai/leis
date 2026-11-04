@@ -1,5 +1,3 @@
-###DEC-064913-0-000-30-07-1969@@@
-
 DECRETO Nº 64.913 - DE 30 DE JULHO DE 1969.
 
 Cria os Centros de Instrução de Infantaria, de Artilharia, de Cavalaria e de Engenharia e dá outras providências.

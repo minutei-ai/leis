@@ -1,5 +1,3 @@
-###DEC-003928-0-000-19-09-2001@@@
-
 DECRETO Nº 3.928, DE 19 DE SETEMBRO DE 2001
 
  Dispõe sobre a execução do Quadragésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 31 de maio de 2001.

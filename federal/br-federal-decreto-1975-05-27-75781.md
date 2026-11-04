@@ -1,5 +1,3 @@
-###DEC-075781-0-000-27-05-1975@@@
-
 DECRETO Nº 75.781, DE 27 DE MAIO DE 1975
 
 Altera a denominação Programa Especial de Bolsas de Estudo (PEBE), concede autonomia administrativa e dá outras providências.

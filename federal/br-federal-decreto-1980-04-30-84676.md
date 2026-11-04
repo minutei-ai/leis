@@ -1,5 +1,3 @@
-###DEC-084676-0-000-30-04-1980@@@
-
 Decreto nº 84.676, de 30 de abril de 1980.
 
 Dispõe sobre o cargo de Presidente da Comissão de Desportos da Marinha.

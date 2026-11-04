@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:28:04.000Z"
 sha256_fonte: "d961cb7eb28dee866226fd04305f4c40f8c09d9a9be5cf8c9308b2a9516dea13"
 sha256_markdown: "9fab827f1289222d3d4f64d773e47e88ccda49d67062a70fd4a04f2e494cab02"
 ---
-
 # LEI Nº 915, DE 11 DE ABRIL DE 1989.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,23 +20,32 @@ Autoriza o Poder Executivo a abrir crédito especial ao Orçamento do Estado.
 
 Publicada no Diário Oficial nº 2.536, de 12 de abril de 1989, página 1.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a<br>
-Assembléia legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º - Fica o Poder Executivo autorizado a abrir, no Orçamento-<br>
-Programa de 1989, crédito especial até o limite de<br>
-NCZ$ 2.182.000,00 (dois milhões, cento e oitenta e dois mil<br>
-cruzados novos), destinado ao atendimento de despesas do Fundo de<br>
-Planejamento e Desenvolvimento Industrial.<br>
-<br>
-Art. 2º - O crédito especial, de que trata a presente Lei, será<br>
-coberto na forma dos incisos I a IV do § 1º, do artigo 43, da Lei<br>
-Federal nº 4.320, de 17 de março de 1964.<br>
-<br>
-Art. 3º - Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 11 de abril de 1989.<br>
-<br>
-MARCELO MIRANDA SOARES<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a
+
+Assembléia legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º - Fica o Poder Executivo autorizado a abrir, no Orçamento-
+
+Programa de 1989, crédito especial até o limite de
+
+NCZ$ 2.182.000,00 (dois milhões, cento e oitenta e dois mil
+
+cruzados novos), destinado ao atendimento de despesas do Fundo de
+
+Planejamento e Desenvolvimento Industrial.
+
+Art. 2º - O crédito especial, de que trata a presente Lei, será
+
+coberto na forma dos incisos I a IV do § 1º, do artigo 43, da Lei
+
+Federal nº 4.320, de 17 de março de 1964.
+
+Art. 3º - Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 11 de abril de 1989.
+
+MARCELO MIRANDA SOARES
+
 Governador

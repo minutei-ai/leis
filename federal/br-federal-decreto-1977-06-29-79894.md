@@ -1,5 +1,3 @@
-###DEC-079894-0-000-29-06-1977@@@
-
 Decreto nº 79.894, 29 de junho de 1977
 
 Declara de utilidade pública, para fins de desapropriação pela Telecomunicações de São Paulo S.A. - TELESP, o imóvel que menciona, localizado na Avenida Washington Luiz, sem número. Município e Comarca de Itanhém, Estado de São Paulo, destinado a abrigar a Estação Telefônica local.

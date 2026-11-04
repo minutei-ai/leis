@@ -46,33 +46,42 @@ THIAGO ARRAES DE ALENCAR NORÕES
 
 **ANEXO ÚNICO**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">POSTO/GRADUAÇÃO</p></td><td width="307" valign="top" style="width:230.3pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">QUANTITATIVO</p><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">Coronel</p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">1</p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">Tenente coronel</p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">1</p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">Major</p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">4</p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">Capitão</p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">4</p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">Subtenente</p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">1</p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">1º Sargento</p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">5</p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">Cabo</p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">2</p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">Soldado</p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">11</p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">TOTAL</p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">29</p></td></tr></tbody></table>
+POSTO/GRADUAÇÃO
+
+QUANTITATIVO
+
+Coronel
+
+1
+
+Tenente coronel
+
+1
+
+Major
+
+4
+
+Capitão
+
+4
+
+Subtenente
+
+1
+
+1º Sargento
+
+5
+
+Cabo
+
+2
+
+Soldado
+
+11
+
+TOTAL
+
+29

@@ -1,5 +1,3 @@
-###DEC-060564-0-000-10-04-1967@@@
-
 Decreto nº 60.564, de 10 de abril de 1967.
 
 Declara estado de calamidade pública na área que especifica, e abe crédito extraordinário de NCr$2.000.000 (dois milhões de cruzeiros novos), e dá outras providências.

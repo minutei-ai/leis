@@ -1,21 +1,19 @@
-**LEI COMPLEMENTAR Nº 81, DE 28 DE DEZEMBRO DE 2000**<br>
-<br>
-**.** **REVOGADA** pela LC [111/02.](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/0988c5946037a9c804256beb006b4f51?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20111%2F02)
+**LEI COMPLEMENTAR Nº 81, DE 28 DE DEZEMBRO DE 2000**
+
+**.REVOGADA** pela LC [111/02.](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/0988c5946037a9c804256beb006b4f51?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20111%2F02)
 
 **Dispõe sobre a Lei Orgânica da Procuradoria-Geral do Estado.**
 
-<br>
-
 **O GOVERNADOR DO ESTADO DE MATO GROSSO**, tendo em vista o que dispõe o art. _45_ de Constituição Estadual, sanciona a seguinte lei complementar:
 
-<br>
-**TÍTULO I**<br>
+**TÍTULO I**
+
 **Da Competência e da Organização de Procuradoria-Geral do Estado**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Da Competência**
 
-<br>
 **Art. 1º** Esta lei complementar define a competência da Procuradoria-Geral do Estado de Mato Grosso, dos órgãos que a compõem e dispõem sobre o regime jurídico dos Procuradores do Estado.
 
 **Art. 2º** À Procuradoria-Geral do Estado compete:
@@ -48,11 +46,10 @@ XIII - propor ação civil pública;
 
 XIV - exercer as demais atribuições definidas nas Constituições Estadual e Federal e demais leis, desde que compatíveis com a natureza da Instituição.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Da Organização**
 
-<br>
 **Art. 3º** A Procuradoria-Geral do Estado é integrada pelos seguintes órgãos:
 
 I - Superiores:
@@ -79,14 +76,14 @@ b) de Protocolo;
 
 c) de Apoio Finalístico.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Dos Órgãos Superiores**
 
-**Seção I**<br>
+**Seção I**
+
 **Do Conselho Superior da Procuradoria-Geral do Estado**
 
-<br>
 **Art. 4º** Conselho Superior é órgão incumbido de superintender a atuação da Procuradoria-Geral do Estado, cabendo-lhe, ainda, velar pelos princípios institucionais.
 
 § 1º O Conselho Superior, integrado pelo Procurador-Geral que o presidirá, pelos Subprocuradores, pelo Corregedor-Geral e pelo Presidente da Associação dos Procuradores, funcionará de acordo com o Regimento interno da Procuradoria-Geral do Estado.
@@ -135,11 +132,10 @@ XVI - elaborar o regimento interno da Procuradoria-Geral do Estado;
 
 XVI - exercer quaisquer outras atribuições que lhe sejam conferidas em lei, regulamento ou regimento.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **De Procurador-Geral de Estado**
 
-<br>
 **Art. 6º** O Procurador-Geral, com prerrogativas, subsídio e representação de Secretário de Estado, será nomeado pelo Governador do Estado, dentre os Procuradores em atividade.
 
 **Art.7º** O Procurador-Geral do Estado tomará posse perante o Governador do Estado, entrando em exercício em sessão solene do Conselho Superior de Procuradores e será substituído nas suas faltas, impedimentos ou afastamentos pelo Subprocurador de Orientação Legal.
@@ -176,11 +172,10 @@ Parágrafo único. O Procurador-Geral poderá delegar as atribuições previstas
 
 **Art. 9º** O Procurador-Geral do Estado contará com um Gabinete incumbido de assessorá-lo no exercício de suas funções.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Da Corregedoria-Geral da Procuradoria-Geral do Estado**
 
-<br>
 **Art. 10** A Corregedoria-Geral, constituída por um Procurador do Estado Corregedor-Geral e por Procuradores do Estado Corregedores Auxiliares, compete:
 
 I - fiscalizar as atividades dos órgãos da Procuradoria – Geral do Estado;
@@ -201,14 +196,14 @@ VII - encaminhar mensalmente ao Conselho Superior, relatório circunstanciado da
 
 Parágrafo único. O Procurador do Estado Corregedor-Geral será substituído em seus afastamentos e impedimentos por um Procurador Corregedor Auxiliar.
 
-<br>
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **Dos Órgãos de Execução**
 
-**Seção I**<br>
+**Seção I**
+
 **Das Subprocuradorias-Gerais**
 
-<br>
 **Art. 12** Os Subprocuradores-Gerais, nomeados pelo Governador do Estado dentre os Procuradores em atividade, atuarão junto ao Procurador-Geral do Estado.
 
 Parágrafo único. As Subprocuradorias contarão com um Gabinete incumbido de assessorar os Subprocuradores no exercício de suas atribuições.
@@ -225,11 +220,10 @@ III - subscrever em conjunto com o Procurador responsável, todos os trabalhos j
 
 § 2º Os Subprocuradores-Gerais serão substituídos em seus impedimentos e afastamentos por Procuradores do Estado designados pelo Procurador-Geral.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Da Subprocuradoria de Orientação Legal**
 
-<br>
 **Art. 14** São atribuições da Subprocuradoria de Orientação Legal:
 
 I - emitir pareceres jurídicos de interesse dos órgãos da Administração Pública Direta ou supervisionar os trabalhos de suas assessorias jurídicas, quando existentes;
@@ -258,11 +252,10 @@ XII - promover ações discriminatórias administrativas;
 
 XIII - realizar e desenvolver outras atividades de apoio ao Procurador-Geral do Estado.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Da Subprocuradoria Judicial**
 
-<br>
 **Art. 15** São atribuições da Subprocuradoria Judicial:
 
 I - representar o Estado em qualquer instância ou juízo, como autor, réu, litisconsorte, assistente ou oponente, exceto nos feitos de competência da Subprocuradoria Fiscal;
@@ -277,11 +270,10 @@ V - promover ações discriminatórias judiciais de terras devolutas do Estado, 
 
 VI - promover ação anulatória dos atos de arrendamento e locação em desacordo com o art. 329 de Constituição Estadual.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Da Subprocuradoria Fiscal**
 
-<br>
 **Art. 16** São atribuições da Subprocuradoria Fiscal:
 
 I - promover a inscrição e a cobrança amigável ou judicial da Dívida Ativa do Estado;
@@ -308,11 +300,10 @@ Xl - determinar a exclusão, após homologação pelo Procurador-Geral, de débi
 
 Parágrafo único. Para o desempenho de suas atribuições, a Procuradoria Fiscal manterá entendimento direto e estreita cooperação com a Secretaria de Estado da Fazenda.
 
-<br>
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
+
 **Da Superintendência Geral**
 
-<br>
 **Art. 17** À Superintendência Geral da Procuradoria-Geral do Estado compete:
 
 I - coordenar as áreas administrativa, financeira e orçamentária, que compreende o controle de pessoal, compra de materiais, manutenção das instalações da Procuradoria-Geral do Estado, serviços gerais, programação e execução orçamentária financeira;
@@ -325,11 +316,10 @@ III - coordenar as atividades de apoio finalístico, que compreende cadastro imo
 
 Parágrafo único. Os demais cargos do quadro administrativo de Procuradoria-Geral do Estado serão estabelecidos por lei específica.
 
-<br>
-**TÍTULO II**<br>
+**TÍTULO II**
+
 **Dos Procuradores do Estado**
 
-<br>
 **Art. 19** Os atuais cargos de provimento efetivo de Procuradores do Estado, organizados em classes escalonadas, que constituem a carreira, passam a ser estruturados da seguinte forma:
 
 I - Estágio Probatório - inicial, com 48 cargos;
@@ -364,13 +354,12 @@ I - os atuais cargos de Subprocurador-Geral e Corregedor-Geral, símbolos DGA-2,
 
 II -08 cargos de Procurador-Chefe — DAS-4.
 
-<br>
 **TÍTULO III**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Do Concurso de Ingresso**
 
-<br>
 **Art. 24** O ingresso na carreira de Procurador do Estado dar-se-á através de concurso público de provas escritas e avaliação de títulos.
 
 § 1º O concurso de ingresso será realizado a critério do Conselho Superior da Procuradoria-Geral do Estado.
@@ -379,40 +368,36 @@ II -08 cargos de Procurador-Chefe — DAS-4.
 
 § 3º As demais normas e requisitos para o concurso público de ingresso na carreira de Procurador do Estado serão fixados mediante resolução do Conselho Superior.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Da Nomeação**
 
-<br>
 **Art. 25** Os candidatos aprovados no concurso de ingresso serão nomeados pelo Governador do Estado, obedecida a ordem de classificação, e serão denominados Procuradores em estágio probatório.
 
 Parágrafo único. Após a homologação e a publicação resultado do concurso público, o Procurador-Geral do Estado enviará Governador do Estado, para nomeação, a lista dos candidatos aprovados.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Da Posse e do Compromisso**
 
-<br>
 **Art. 26** Os Procuradores do Estado nomeados serão empossados pelo Procurador-Geral do Estado, em Sessão Solene do Conselho Superior da Procuradoria Geral do Estado, mediante assinatura do Termo Compromisso.
 
 Parágrafo único. É de 30 (trinta) dias, contados publicação do ato de nomeação no Diário Oficial do Estado, o prazo para a posse do Procurador do Estado.
 
-<br>
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **Do Exercício**
 
-<br>
 **Art. 27** O Procurador do Estado empossado deverá entrar exercício no prazo de 10 (dez) dias, a contar da data da posse, sob pena exoneração.
 
 § lº O prazo de que trata este artigo poderá ser prorrogado por igual período, a critério do Procurador-Geral.
 
 § 2º O Procurador-Geral, se exigir o interesse do serviço público, poderá determinar que o Procurador do Estado entre em exercício imediatamente após a posse.
 
-<br>
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
+
 **Do Estágio Probatório**
 
-<br>
 **Art. 28** A confirmação do Procurador e o respectiva enquadramento na 3ª classe da carreira serão efetivados após habilitação no estágio probatório.
 
 **Art. 29** Além dos relatórios mensais, a Corregedoria-Geral remeterá ao Conselho Superior da Procuradoria-Geral do Estado, até 04 (quatro) meses antes do término do estágio, relatório circunstanciado sobre a conduta profissional do Procurador do Estado durante todo o período do estágio probatório, opinando pelo seu enquadramento ou não nos cargos de 3ª classe.
@@ -421,11 +406,10 @@ Parágrafo único. O Conselho Superior, se necessário abrirá o prazo de 10 (de
 
 **Art. 30** O Procurador-Geral do Estado, no prazo de 10 (dez dias após o recebimento da conclusão do Conselho Superior, encaminhará expediente ao Governador do Estado para efeito de exoneração do Procurado do Estado considerado inabilitado no estágio probatório.
 
-<br>
-**CAPÍTULO VI**<br>
+**CAPÍTULO VI**
+
 **Das Promoções**
 
-<br>
 **Art. 31** A promoção consiste na elevação do Procurador do Estado de uma classe para outra imediatamente superior da carreira.
 
 **Art. 32** As promoções, em havendo vagas, serão processadas pelo Conselho Superior da Procuradoria-Geral do Estado, obedecidos os seguintes requisitos:
@@ -444,11 +428,10 @@ II - comprovar maior número de horas em cursos de capacitação.
 
 Parágrafo único. No caso de empate entre pretendentes à promoção, o Conselho Superior decidirá, ficando automaticamente assegurada a habilitação dos candidatos remanescentes para as primeiras vagas subseqüentes.
 
-<br>
-**CAPÍTULO VII**<br>
+**CAPÍTULO VII**
+
 **Do Reingresso**
 
-<br>
 **Art. 34** O reingresso dar-se-á somente por reintegração, reversão ou aproveitamento.
 
 **Art. 35** A reintegração, decorrente da anulação da demissão por decisão judicial, importa no retomo do Procurador do Estado ao cargo que ocupava anteriormente, restabelecendo-se todos os direitos e vantagens, observadas as seguintes normas:
@@ -461,11 +444,10 @@ II - se o cargo estiver ocupado por outro integrante da carreira de Procurador d
 
 **Art. 37** O aproveitamento, retomo à ativa do Procurador posto em disponibilidade, será sempre obrigatório na primeira vaga que ocorrer em cargo de igual classe.
 
-<br>
-**CAPÍTULO VIII**<br>
+**CAPÍTULO VIII**
+
 **Da Exoneração e da Aposentadoria**
 
-<br>
 **Art. 38 A** exoneração do Procurador do Estado dar-se-á:
 
 I - a pedido do Procurador;
@@ -476,23 +458,22 @@ III - quando, após a posse, o Procurador não entrar em exercício no prazo leg
 
 **Art. 39** A aposentadoria é a passagem do Procurador do Estado para a inatividade e será concedida nos termos do art. 40 da Constituição da República.
 
-<br>
-**TÍTULO IV**<br>
+**TÍTULO IV**
+
 **Dos Direitos, das Garantias e das Prerrogativas do Procurador do Estado**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Da Retribuição Pecuniária**
 
-<br>
 **Art. 40** A concessão dos direitos inerentes ao cargo de Procurador do Estado dar-se-á por ato do Procurador-Geral do Estado, após decisão do Conselho Superior, ressalvados os atos de competência do Governador do Estado, nos termos da Constituição Estadual.
 
 **Art. 41** Os cargos de provimento efetivo da carreira de Procurador do Estado e os cargos de provimento em comissão privativos de Procurador do Estado serão remunerados por subsídios fixados nos termos de lei especifica.
 
-<br>
-**Seção I**<br>
+**Seção I**
+
 **Dos Direitos**
 
-<br>
 **Art. 42** Além do subsídio, o Procurador do Estado faz jus:
 
 I - gozo de férias anuais remuneradas com acréscimo de um terço calculado sobre os subsídios;
@@ -513,11 +494,10 @@ VIII - responsabilidade disciplinar apurada através de processo administrativo 
 
 IX - promoção, nos termos desta lei.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Das lndenizações**
 
-<br>
 **Art. 43** Aos Procuradores do Estado são devidas as seguintes indenizações:
 
 I - ajuda de custo, para despesas de transporte e mudança ao Procurador que, no interesse do serviço, passar a ter domicílio em nova sede, correspondente ao subsídio de um mês;
@@ -530,23 +510,22 @@ III - indenização de transporte ao Procurador do Estado que realizar despesas 
 
 **Art. 45** Os ocupantes dos cargos de Chefe de Gabinete, em já sendo servidores públicos, poderão optar pela percepção integral do subsídio do respectivo cargo em comissão, ou o subsídio do cargo efetivo acrescido de 50% e (cinqüenta por cento) do cargo comissionado.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Das Férias, Licenças e Afastamentos**
 
-**Seção I**<br>
+**Seção I**
+
 **Das Férias**
 
-<br>
 **Art. 46** Os Procuradores do Estado serão direito a férias de 30 (trinta) dias por ano, contínuos ou divididos em dois períodos iguais, salvo acúmulo por necessidade de serviço e pelo máximo de 02 (dois) anos.
 
 **Art. 47** Por necessidade do serviço, o Procurador-Geral do Estado poderá indeferir o gozo de um determinado período de férias ou exigir que o Procurador do Estado em férias reassuma imediatamente o exercício do seu cargo.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Das licenças**
 
-<br>
 **Art. 48** O Procurador do Estado poderá ser licenciado:
 
 I - para tratamento de saúde;
@@ -565,11 +544,10 @@ VII - para exercício de mandato eletivo dos Poderes Executivo e Legislativo.
 
 Parágrafo único. O pagamento do subsídio no caso de licença para tratamento de saúde superior a 10 (dez) dias será efetuado pelo Instituto de Previdência do Estado de Mato Grosso - IPEMAT.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Dos Afastamentos**
 
-<br>
 **Art. 49** O Procurador do Estado poderá afastar-se sem prejuízo do vencimento, em virtude de:
 
 I - férias;
@@ -592,11 +570,10 @@ IX - disponibilidade.
 
 Parágrafo único. O afastamento de que trata o inciso VII só será concedido após o período de estágio probatório e com prévia anuência do Conselho Superior.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Das Prerrogativas**
 
-<br>
 **Art. 50** São prerrogativas do Procurador do Estado:
 
 I - usar distintivos, de acordo com os modelos oficiais;
@@ -615,23 +592,22 @@ Parágrafo único. A prisão ou a detenção de Procurador do Estado, em qualque
 
 **Art. 51** Em caso de infração penal imputada a Procurador do Estado, a autoridade policial, dela tomando conhecimento, comunicará imediatamente o fato ao Procurador-Geral do Estado.
 
-<br>
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **Dos Proventos da Inatividade**
 
-<br>
 **Art. 52** Os proventos de aposentadoria dos Procuradores do Estado e as pensões dos seus beneficiários corresponderão aos subsídios do cargo efetivo, sem acréscimos de qualquer natureza.
 
 **Art. 53** Os proventos da inatividade e as pensões de beneficiários de Procurador do Estado serão revistos automaticamente sempre que houver revisão dos subsídios do cargo em que se deu a aposentadoria ou a concessão do benefício.
 
-<br>
-**TÍTULO V**<br>
+**TÍTULO V**
+
 **Dos Deveres, Proibições e Impedimentos do Procurador do Estado**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Dos Deveres e das Proibições**
 
-<br>
 **Art. 54** São deveres do Procurador do Estado:
 
 I - desincumbir-se diariamente de seus encargos funcionais, no foro ou repartição, só podendo residir fora da sede onde tiver exercício com autorização do Procurador-Geral do Estado;
@@ -668,11 +644,10 @@ IV - valer-se da qualidade de Procurador do Estado para obter vantagem indevida;
 
 V - manifestar-se, por qualquer meio de divulgação, sobre assunto pertinente às suas funções, salvo quando autorizado pelo Procurador-Geral.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Dos Impedimentos**
 
-<br>
 **Art. 56** É defeso ao Procurador do Estado exercer as suas funções em processo ou procedimento:
 
 I - em que seja parte ou, de qualquer forma interessado;
@@ -695,14 +670,14 @@ II - ocorrer qualquer dos casos previstos na legislação processual.
 
 **Art. 60** Nas hipóteses previstas nos incisos I e II do artigo anterior, o Procurador do Estado comunicará ao Subprocurador responsável por sua área de atuação, em expediente reservado, os motivos da suspeição, para que este os acolha ou rejeite.
 
-<br>
-**TÍTULO VI**<br>
+**TÍTULO VI**
+
 **Do Regime Disciplinar**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Das Correições**
 
-<br>
 **Art. 61** A atividade funcional dos integrantes da carreira de Procurador do Estado está sujeita a:
 
 I - inspeção permanente;
@@ -719,11 +694,10 @@ III - correição extraordinária.
 
 **Art. 65** Concluída a correição, o Procurador do Estado Corregedor-Geral apresentará ao Procurador-Geral relatório circunstanciado, mencionando os fatos observados, as providências adotadas e propondo as que excedam suas atribuições.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Das Faltas e Penalidades**
 
-<br>
 **Art. 66** Constituem sanções disciplinares aplicáveis aos Procuradores:
 
 I - advertência;
@@ -786,14 +760,14 @@ III - em 180 (cento e oitenta) dias, quanto à advertência.
 
 § 3º Interrompido o curso da prescrição, o prazo começará a correr a partir do dia em que cessar a interrupção.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Do Procedimento Disciplinar**
 
-**Seção I**<br>
+**Seção I**
+
 **Das Disposições Preliminares**
 
-<br>
 **Art. 74** As infrações disciplinares serão apuradas mediante processo administrativo disciplinar, garantida a ampla defesa.
 
 **Art. 75** O processo administrativo será precedido de sindicância, esta de caráter meramente investigatório, se não houver elementos suficientes para a caracterização da falta ou autoria.
@@ -804,11 +778,10 @@ III - em 180 (cento e oitenta) dias, quanto à advertência.
 
 **Art. 78** Aplicam-se, subsidiariamente, ao processo disciplinar e à sindicância, as normas do Estatuto dos Funcionários Públicos Civis do Estado.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Da Sindicância**
 
-<br>
 **Art. 79** A sindicância, sempre de caráter reservado, será processada na Corregedoria e terá como sindicante o Procurador do Estado Corregedor-Geral.
 
 Parágrafo único. O prazo para a conclusão da sindicância é de 30 (trinta) dias, podendo ser prorrogado por igual período, mediante justificativa fundamentada do sindicante.
@@ -817,11 +790,10 @@ Parágrafo único. O prazo para a conclusão da sindicância é de 30 (trinta) d
 
 **Art. 81** O Procurador-Geral, após homologação do relatório, expedirá portaria de instauração de processo administrativo ou determinará o arquivamento, dando ciência da decisão ao Conselho Superior.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **De Processo Administrativo Disciplinar**
 
-<br>
 **Art. 82** O Processo Administrativo Disciplinar será instaurado mediante portaria interna do Procurador-Geral para apuração de infrações funcionais imputadas a Procuradores do Estado, e mediante portaria interna daquele ou do Corregedor-Geral, para apuração das infrações funcionais imputadas a servidores da Instituição.
 
 Parágrafo único. A portaria de instauração conterá a qualificação do indiciado, a exposição sucinta dos fatos e a previsão legal sancionadora, e será instruída com a sindicância, se houver, ou com os elementos de prova existentes.
@@ -904,11 +876,10 @@ Parágrafo único, No prazo de defesa prévia, os autos poderão ser fotocopiado
 
 **Art. 98** Os prazos contidos nesta seção não serão, em hipótese alguma, contados em dobro.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Da Revisão do Procedimento Administrativo**
 
-<br>
 **Art. 99** A revisão será admitida a qualquer tempo, a pedido, sempre que fundada em circunstâncias ou finos ainda não apreciados ou em vícios insanáveis do procedimento administrativo.
 
 § 1º O pedido será instruído, desde logo, com as provas que o requerente possuir ou com a indicação precisa das que pretenda produzir.
@@ -927,11 +898,10 @@ Parágrafo único. O processo revisional será julgado pelo Conselho Superior ou
 
 **Art. 102** É vedado, em qualquer caso, o agravamento da pena.
 
-<br>
-**TÍTULO VII**<br>
+**TÍTULO VII**
+
 **Disposições Finais**
 
-<br>
 **Art. 103** Esta lei complementar aplica-se, no que couber, aos Procuradores inativos.
 
 **Art. 104** O Fundo de Aperfeiçoamento dos Serviços Jurídicos da Procuradoria-Geral do Estado - FUNJUS é constituído pelos seguintes recursos:
@@ -970,27 +940,48 @@ Parágrafo único. O prêmio a que se refere o inciso IV deste artigo não poder
 
 Palácio Paiaguás, em Cuiabá, 28 de dezembro de 2000, 179º da Independência e 112º da República.
 
-**DANTE MARTINS DE OLIVEIRA**<br>
-HERMES GOMES DE ABREU<br>
-MAURÍCIO MAGALHÃES FARIA<br>
-JOSÉ RENATO MARTINS DA SILVA<br>
-BENEDITO XAVIER DE SOUZA COBERLINO<br>
-GUILHERME FREDERICO DE MOURA MULLER<br>
-JOSÉ GONÇALVES BOTELHO DO PRADO<br>
-VALTER ALBANO DA SILVA<br>
-FRANCISCO TARQUÍNIO DALTRO<br>
-CARLOS AVALONE JÚNIOR<br>
-EZEQUIEL JOSÉ ROBERTO<br>
-VITOR CANDIA<br>
-CARLOS CARLÃO PEREIRA DO NASCIMENTO<br>
-JÚLIO STRUBING MULLER NETO<br>
-FAUSTO DE SOUZA FARIA<br>
-PEDRO PINTO DE OLIVEIRA<br>
-SUELI SOLANGE CAPITULA<br>
-ROBERTO TADEU VAZ CURVO<br>
-JOSÉ ANTÕNIO ROSA<br>
-JEVERSON MISSIAS DE OLIVEIRA<br>
-FREDERICO GUILHERME DE MOURA MULLER<br>
-SABINO ALBERTÃO FILHO<br>
-JURANDIR ANTÕNIO FRANCISCO<br>
-<br>
+**DANTE MARTINS DE OLIVEIRA**
+
+HERMES GOMES DE ABREU
+
+MAURÍCIO MAGALHÃES FARIA
+
+JOSÉ RENATO MARTINS DA SILVA
+
+BENEDITO XAVIER DE SOUZA COBERLINO
+
+GUILHERME FREDERICO DE MOURA MULLER
+
+JOSÉ GONÇALVES BOTELHO DO PRADO
+
+VALTER ALBANO DA SILVA
+
+FRANCISCO TARQUÍNIO DALTRO
+
+CARLOS AVALONE JÚNIOR
+
+EZEQUIEL JOSÉ ROBERTO
+
+VITOR CANDIA
+
+CARLOS CARLÃO PEREIRA DO NASCIMENTO
+
+JÚLIO STRUBING MULLER NETO
+
+FAUSTO DE SOUZA FARIA
+
+PEDRO PINTO DE OLIVEIRA
+
+SUELI SOLANGE CAPITULA
+
+ROBERTO TADEU VAZ CURVO
+
+JOSÉ ANTÕNIO ROSA
+
+JEVERSON MISSIAS DE OLIVEIRA
+
+FREDERICO GUILHERME DE MOURA MULLER
+
+SABINO ALBERTÃO FILHO
+
+JURANDIR ANTÕNIO FRANCISCO

@@ -1,5 +1,3 @@
-###DEL-007310-0-000-08-02-1945@@@
-
 DECRETO-LEI N. 7.310 – DE 8 DE FEVEREIRO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 3.718.645,20, para despesas a cargo do Território Federal do Guaporé

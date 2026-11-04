@@ -1,5 +1,3 @@
-###MPV-001749-0-034-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.749-34, DE 14 DE DEZEMBRO DE 1998.
 
 Altera a legislação do imposto de renda e dá outras providências.

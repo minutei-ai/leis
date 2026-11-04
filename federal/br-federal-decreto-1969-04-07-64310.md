@@ -1,5 +1,3 @@
-###DEC-064310-0-000-07-04-1969@@@
-
 Decreto Nº 64.310, DE 7 DE ABRIL DE 1969.
 
 Declara de utilidade pública a Associação "Obras Sociais  Paróquia de São Paulo", com sede em Belo Horizonte, Estado de Minas Gerais.

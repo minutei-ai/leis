@@ -1,5 +1,3 @@
-###DEC-051095-0-000-01-08-1961@@@
-
 DECRETO Nº 51.095, DE 1º DE AGÔSTO DE 1961.
 
 Declara públicas, de uso comum, do domínio da União, as águas do rio Sarapui.

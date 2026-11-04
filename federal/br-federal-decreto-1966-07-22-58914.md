@@ -1,5 +1,3 @@
-###DEC-058914-0-000-22-07-1966@@@
-
 DECRETO Nº 58.914, DE 22 DE JULHO DE 1966.
 
 Constitui Comissão Promotora de Organização e Execução do Plano de Comemoração do Sesquicentenário do Nascimento do Jurisconsulto Brasileiro Augusto Teixeira de Freitas.

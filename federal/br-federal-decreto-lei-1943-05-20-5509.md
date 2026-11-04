@@ -1,5 +1,3 @@
-###DEL-005509-0-000-20-05-1943@@@
-
 DECRETO‑LEI N. 5.509 – DE 20 DE MAIO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 46.100,00, para pagamento da vantagem que especifica

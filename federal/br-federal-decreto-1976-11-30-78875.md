@@ -1,5 +1,3 @@
-###DEC-078875-0-000-30-11-1976@@@
-
 decreto nº 78.875, de 30 de novembro de 1976.
 
 Extingue e cria Organizações Militares no Ministério do Exército e dá outras providências.

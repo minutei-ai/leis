@@ -1,6 +1,10 @@
 > **LEI Nº 3.241, DE 15 DE MARÇO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade de instalação ou adaptação de provadores de roupas, calçados, similares e demais artigos que integram o vestuário feminino e masculino, acessíveis às populações com deficiência e/ou mobilidade reduzida, nos locais que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade de instalação ou adaptação de provadores de roupas, calçados, similares e demais artigos que integram o vestuário feminino e masculino, acessíveis às populações com deficiência e/ou mobilidade reduzida, nos locais que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

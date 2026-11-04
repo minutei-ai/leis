@@ -1,5 +1,3 @@
-###DEC-000195-0-000-21-08-1991@@@
-
 DECRETO Nº 195, DE 21 DE AGOSTO DE 1991
 
 Regulamenta o art. 80 do Decreto-Lei nº 2.300, de 21 de novembro de 1986, quanto a serviços de publicidade.

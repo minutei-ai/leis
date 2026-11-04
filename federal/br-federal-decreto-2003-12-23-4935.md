@@ -1,5 +1,3 @@
-###DEC-004935-0-000-23-12-2003@@@
-
 DECRETO Nº 4.935 DE 23 DE DEZEMBRO DE 2003.
 
 Prorroga o prazo de que trata o § 1o do art. 8o do Decreto no 4.465, de 13 de novembro de 2002, que dispõe sobre a organização administrativa da Fundação Universidade do Vale do São Francisco, e dá outras providências.

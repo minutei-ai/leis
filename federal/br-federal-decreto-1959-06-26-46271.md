@@ -1,5 +1,3 @@
-###DEC-046271-0-000-26-06-1959@@@
-
 DECRETO Nº 46.271, DE 26 DE JUNHO DE 1959.
 
 Concede à sociedade anônima Gillette Safety Razor Comp\[any Of Brazil autorizar para continuar a funcionar na República

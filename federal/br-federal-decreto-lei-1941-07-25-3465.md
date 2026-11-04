@@ -1,5 +1,3 @@
-###DEL-003465-0-000-25-07-1941@@@
-
 DECRETO-LEI N. 3.465 – DE 25 DE JULHO DE 1941
 
  Retifica o decreto n. 3.350, de 16 de junho de 1941

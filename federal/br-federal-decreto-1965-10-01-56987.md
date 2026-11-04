@@ -1,5 +1,3 @@
-###DEC-056987-0-000-01-10-1965@@@
-
 DECRETO Nº 56.987, DE 1º DE OUTUBRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Esperança Companhia de Seguros Gerais inclusive aumento do capital social.

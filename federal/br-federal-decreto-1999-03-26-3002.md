@@ -1,5 +1,3 @@
-###DEC-003002-0-000-26-03-1999@@@
-
 DECRETO Nº.3.002, DE 26 DE MARÇO DE 1999.
 
 Promulga o Tratado sobre Transferência de Presos Condenados, celebrado entre o Governo da República Federativa do Brasil e o Governo da República do Chile.
@@ -138,4 +136,16 @@ Artigo 10
 
 Feito em Brasília, em 29 de abril de 1998, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pela República Federativa</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pela República do Chile</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>do Brasil</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Heraldo Munoz Valenzuela</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Renan Calheiros</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Embaixador</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Estado da Justiça</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Pela República Federativa
+
+Pela República do Chile
+
+do Brasil
+
+Heraldo Munoz Valenzuela
+
+Renan Calheiros
+
+Embaixador
+
+Ministro de Estado da Justiça

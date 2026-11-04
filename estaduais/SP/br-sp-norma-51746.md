@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51746)
-
 # LEI Nº 11.800, DE 09 DE SETEMBRO DE 2004
 
 ## (PL 29/2004 - Roque Barbiere)

@@ -1,5 +1,3 @@
-###MPV-001937-0-013-02-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.937-13, de 2 de março de 2000.
 
 Altera dispositivos da Lei nº 9.692, de 27 de julho de 1998, que dispõe sobre as diretrizes para a elaboração da Lei Orçamentária de 1999.

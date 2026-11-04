@@ -1,5 +1,3 @@
-###DEC-080356-0-000-19-09-1977@@@
-
 DECRETO Nº 80.356, DE 19 DE SETEMBRO DE 1977
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Registro, Estado de São Paulo.

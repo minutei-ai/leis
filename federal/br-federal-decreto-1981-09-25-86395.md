@@ -1,5 +1,3 @@
-###DEC-086395-0-000-25-09-1981@@@
-
 Decreto nº 86.395, de 25 de setembro de 1981
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

@@ -1,5 +1,3 @@
-###DEC-057149-0-000-01-11-1965@@@
-
 DECRETO Nº 57.149, DE 1 DE NOVEMBRO DE 1965.
 
 Autoriza a Rêde Ferroviária Federal S.A. a transferir para o Departamento dos Correios e Telégrafos as linhas telegráficas situadas em trechos ferroviários considerados anti-econômicos e dá outras providências.

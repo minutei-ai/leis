@@ -1,5 +1,3 @@
-###DEC-050519-0-000-02-05-1961@@@
-
 Decreto nº 50.519, de 2 de maio de 1961.
 
 Cria o Grupo Executivo da Indústria de Máquinas Agrícolas e Rodoviárias (GEIMAR).

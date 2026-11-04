@@ -1,20 +1,18 @@
-###DEC-035690-0-000-18-06-1954@@@
+**DECRETO Nº 35.690, DE 18 DE JUNHO DE 1954.**
 
-<strong>DECRETO Nº 35.690, DE 18 DE JUNHO DE 1954.</strong>
+***Altera os Decretos ns. 31.922, de 15 de dezembro de 1952 e 33.704, de 31 de agôsto de 1953, e dá outras providências***
 
-<em><strong>Altera os Decretos ns. 31.922, de 15 de dezembro de 1952 e 33.704, de 31 de agôsto de 1953, e dá outras providências</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA**
 
-<strong>DECRETA</strong>
-
-<strong>Art</strong>.1º O art.4º do Decreto número 31.922 de 15 de dezembro de 1952 passa a vigorar com a redação seguinte:
+**Art**.1º O art.4º do Decreto número 31.922 de 15 de dezembro de 1952 passa a vigorar com a redação seguinte:
 
 “Art.4º O funcionário investido em cargo em comissão, no serviço público federal, passará a perceber a gratificação adicional por tempo de serviço na base do vencimento de cargo em comissão
 
 Parágrafo único .A gratificação adicional será reajustada ao vencimento do cargo afetivo quando o funcionário deixar de perceber o vencimento do cargo em comissão”.
 
-<strong>Art</strong>. 2º O art. 5º do Decreto número 3.1922, de 15 de dezembro de 1952 alterado pelo o número 33.704, de 31 de agôsto de 1953, passará a ter a seguinte redação:
+**Art**. 2º O art. 5º do Decreto número 3.1922, de 15 de dezembro de 1952 alterado pelo o número 33.704, de 31 de agôsto de 1953, passará a ter a seguinte redação:
 
 Art. 5º a gratificação adicional por tempo de serviço é devida ao funcioário ou em comissão.
 
@@ -32,13 +30,13 @@ Art. 5º a gratificação adicional por tempo de serviço é devida ao funcioár
 
 & 7º Se o funcionário foi aposentado com gratificação adicional por tempo de serviço não incorporada em virtude de lei, ao vencimento ou renumeração, terá direito à diferença entre essa gratificação e a vantagem prevista neste regulamento
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 18 de junho de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Tancredo de Almeida Neves
 

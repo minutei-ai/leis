@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que, nos termos do [artigo 26 § 3�
 
 Art. 1º - Fica instituída a Fundação Pedro Calmon - Centro de Memória e Arquivo Público da Bahia - FPC, vinculada à Secretaria da Cultura e Turismo, com personalidade jurídica de direito público, com a finalidade de recolher, organizar, preservar e divulgar o acervo documental proveniente de arquivos públicos e privados, que evidencie a memória histórica, geográfica, administrativa, técnica, legislativa e judiciária da Bahia, e estimular e promover as atividades relacionadas com bibliotecas, organizando, atualizando e difundindo seus acervos.
 
-Redação do art. 1º de acordo com o [art. 1º da Lei nº 9.582, de 12 de julho de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9582-de-12-de-julho-de-2005#LO_9_582_Art__1) .<br>
+Redação do art. 1º de acordo com o [art. 1º da Lei nº 9.582, de 12 de julho de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9582-de-12-de-julho-de-2005#LO_9_582_Art__1) .
+
 Redação original: " Art. 1º -Fica o Poder Executivo autorizado a instituir, supervisionada pela Secretaria da Educação e Cultura, a Fundação Pedro Calmon, com personalidade jurídica de direito privado, destinado a recolher, organizar, preservar e divulgar o acervo histórico e documental, proveniente de arquivos privados, que constituirá o Centro de Memória da Bahia. "
 
 § 1º - A Fundação terá duração indeterminada e adquirirá personalidade jurídica com a inscrição, no Registro Civil de Pessoas Jurídicas, dos seus atos constitutivos.
@@ -23,7 +24,8 @@ Art. 3º - No caso de extinguir-se a Fundação, seus bens e direitos serão inc
 
 Art. 4º - A Fundação Pedro Calmon - Centro de Memória e Arquivo Público da Bahia terá um Conselho Curador composto por 05 (cinco) membros titulares e igual número de suplentes, escolhidos e nomeados pelo Governador do Estado, com mandatos cuja duração será de 04 (quatro) anos, permitida a recondução para o período imediatamente subseqüente apenas uma vez.
 
-Redação do art. 4º de acordo com o [art. 1º da Lei nº 9.582, de 12 de julho de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9582-de-12-de-julho-de-2005#LO_9_582_Art__1) .<br>
+Redação do art. 4º de acordo com o [art. 1º da Lei nº 9.582, de 12 de julho de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9582-de-12-de-julho-de-2005#LO_9_582_Art__1) .
+
 Redação original: " Art. 4º - A Fundação terá um Conselho Curador composto de 5 (cinco) membros, escolhidos e nomeados pelo Governador do Estado dentre pessoas de reconhecida competência, com mandato de 03 (três) anos, permitida a recondução, na forma que for estabelecida pelo o Estatuto da entidade."
 
 Parágrafo único - O exercício da função de membro do Conselho Curador é considerado serviço relevante, não implicando remuneração.
@@ -56,7 +58,8 @@ Parágrafo único - O orçamento da Fundação será aprovado pelo Conselho Cura
 
 Art. 8º - A Fundação Pedro Calmon - Centro de Memória e Arquivo Público da Bahia terá Quadro de Pessoal regido pelo Estatuto dos Servidores Públicos Civis do Estado da Bahia, com Plano de Cargos e Vencimentos aprovados em lei.
 
-Redação do art. 8º de acordo com o [art. 1º da Lei nº 9.582, de 12 de julho de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9582-de-12-de-julho-de-2005#LO_9_582_Art__1) .<br>
+Redação do art. 8º de acordo com o [art. 1º da Lei nº 9.582, de 12 de julho de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9582-de-12-de-julho-de-2005#LO_9_582_Art__1) .
+
 Redação original: " Art. 8º - A Fundação a ser criada na forma desta Lei terá Quadro de Pessoal regido pela legislação trabalhista, aprovado pelo Conselho Curador e submetido à decisão final do Governador do Estado."
 
 Art. 9º - A Fundação submeterá a aprovação do Governador do Estado os financiamentos, empréstimos ou operações de crédito quando seja necessária a garantia do Tesouro Estadual. Nas demais hipóteses, a aprovação caberá ao Secretário de Educação e Cultura.

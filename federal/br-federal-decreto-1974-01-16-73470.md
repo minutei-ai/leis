@@ -1,5 +1,3 @@
-###DEC-073470-0-000-16-01-1974@@@
-
 DECRETO Nº 73.470, DE 16 DE JANEIRO DE 1974.
 
 Concede reconhecimento à Faculdade de Medicina de Valença, mantida pela Fundação Dom André Arcorverde, com sede na cidade de Valença, Estado do Rio de Janeiro.

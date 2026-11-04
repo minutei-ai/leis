@@ -1,5 +1,3 @@
-###DEC-092769-0-000-10-06-1986@@@
-
 DECRETO Nº 92.769, DE 10 DE JUNHO DE 1986
 
 Acrescenta parágrafo ao art. 319 do Regulamento dos Benefícios da Previdência Social (Benefícios por Acidente do Trabalho Rural).

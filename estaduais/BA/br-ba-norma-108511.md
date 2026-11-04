@@ -6,7 +6,8 @@ Cria a Secretaria da Administração do Estado e dá outras providências.
 
 **Art. 1º** - Fica criada a Secretaria da Administração, na forma indicada na presente Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA FINALIDADE E COMPETÊNCIA DA SECRETARIA
 
 **Art. 2º** - A Secretaria da Administração tem por finalidade planejar, coordenar e controlar as atividades de administração geral, bem como formular e executar as políticas de previdência social e assistência aos servidores da administração pública estadual e de edificações públicas, competindo-lhe:
@@ -31,7 +32,8 @@ DA FINALIDADE E COMPETÊNCIA DA SECRETARIA
 
 **X -**       exercer outras atividades correlatas.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ESTRUTURA DA SECRETARIA
 
 **Art. 3º** - A Secretaria da Administração tem a seguinte estrutura:
@@ -82,7 +84,8 @@ DA ESTRUTURA DA SECRETARIA
 
 **Art. 4º** - O assessoramento jurídico dos órgãos da administração centralizada da Secretaria cabe à Procuradoria Geral do Estado, na forma da legislação em vigor.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA COMPETÊNCIA E ESTRUTURA DOS ÓRGÃOS E ENTIDADES DA SECRETARIA
 
 **Art. 5º** - Ao Gabinete do Secretário, que presta assistência ao titular da pasta no desempenho das suas atribuições, compete:
@@ -311,7 +314,8 @@ DA COMPETÊNCIA E ESTRUTURA DOS ÓRGÃOS E ENTIDADES DA SECRETARIA
 
 **Art. 18** - As entidades da administração centralizada, vinculadas à Secretaria da Administração, têm a finalidade, organização e competência estabelecidas na legislação específica e sua supervisão e controle far-se-ão nos termos do § 2º do artigo 8º da Lei nº 2.321, de 1966.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO SISTEMA ESTADUAL DE ADMINISTRAÇÃO
 
 **Art. 19** - O Sistema Estadual de Administração tem por finalidade básica a definição, planejamento, coordenação e execução das ações de administração no âmbito estadual.
@@ -370,7 +374,8 @@ DO SISTEMA ESTADUAL DE ADMINISTRAÇÃO
 
 **Parágrafo único -** O Secretário da Administração integrará os colegiados de que participava o Diretor Geral do extinto Departamento de Administração Geral.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 26** - Fica extinto o Departamento de Administração Geral - DAG criado pela Lei nº 2.321, de 11 de abril de 1966, modificada pela Lei Delegada nº 22, de 07 de abril de 1981, bem como o respectivo cargo de Diretor Geral, passando seu pessoal a integrar o quadro da Secretaria da Administração, respeitados os respectivos regimes jurídicos.
@@ -429,7 +434,102 @@ Alberval Raimundo Razoni Figueiredo
 
 CARGOS EM COMISSÃO DA SECRETARIA DA ADMINISTRAÇÃO
 
-            <br>
+            
+
  
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;"><tbody><tr><td style="width: 263.65pt; border-width: 1pt 1pt medium; border-style: solid solid none; border-color: windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="margin: 12pt 0cm 6pt; text-align: left; text-indent: 0cm;">DENOMINAÇÃO</p></td><td style="width: 77.95pt; border-width: 1pt 1pt medium medium; border-style: solid solid none none; border-color: windowtext windowtext -moz-use-text-color -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="margin: 12pt 0cm 6pt; text-align: center; text-indent: 0cm;">SÍMBOLO</p></td><td style="width: 92.15pt; border-width: 1pt 1pt medium medium; border-style: solid solid none none; border-color: windowtext windowtext -moz-use-text-color -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="margin: 12pt 0cm 6pt; text-align: center; text-indent: 0cm;">QUANTIDADE</p></td></tr><tr><td style="width: 263.65pt; border: 1pt solid windowtext; padding: 0cm 1.4pt;" valign="top" width="352"></td><td style="width: 77.95pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="104"></td><td style="width: 92.15pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="123"></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Chefe de Gabinete</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-5</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">01</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Assessor Especial</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-5</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">02</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Assessor Chefe</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-5</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">01</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Diretor da Inspetoria Setorial de Finanças</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-5</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">01</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Diretor do Serviço da Administração</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-5</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">01</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Coordenador para o Desenvolvimento de Atividades Especiais</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-5</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">01</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Diretor de Departamento</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-5</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">04</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Diretor do Centro de Prevenção, Perícia e Acompanhamento Médico</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-5</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">01</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Diretor do Centro de Processamento de Dados</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-5</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">01</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Coordenador Adjunto</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-4</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">02</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Assessor</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-4</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">16</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Diretor de Unidade de Apoio Técnico</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-4</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">06</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Diretor de Divisão</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-4</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">18</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Assistente de Direção</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-4</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">06</p></td></tr><tr><td style="width: 263.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 1.4pt;" valign="top" width="352"><p align="left" class="ARTIGO" style="text-align: left; text-indent: 0cm;">Oficial de Gabinete</p></td><td style="width: 77.95pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="104"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">DAS-2</p></td><td style="width: 92.15pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 1.4pt;" valign="top" width="123"><p align="center" class="ARTIGO" style="text-align: center; text-indent: 0cm;">02</p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Chefe de Gabinete
+
+DAS-5
+
+01
+
+Assessor Especial
+
+DAS-5
+
+02
+
+Assessor Chefe
+
+DAS-5
+
+01
+
+Diretor da Inspetoria Setorial de Finanças
+
+DAS-5
+
+01
+
+Diretor do Serviço da Administração
+
+DAS-5
+
+01
+
+Coordenador para o Desenvolvimento de Atividades Especiais
+
+DAS-5
+
+01
+
+Diretor de Departamento
+
+DAS-5
+
+04
+
+Diretor do Centro de Prevenção, Perícia e Acompanhamento Médico
+
+DAS-5
+
+01
+
+Diretor do Centro de Processamento de Dados
+
+DAS-5
+
+01
+
+Coordenador Adjunto
+
+DAS-4
+
+02
+
+Assessor
+
+DAS-4
+
+16
+
+Diretor de Unidade de Apoio Técnico
+
+DAS-4
+
+06
+
+Diretor de Divisão
+
+DAS-4
+
+18
+
+Assistente de Direção
+
+DAS-4
+
+06
+
+Oficial de Gabinete
+
+DAS-2
+
+02

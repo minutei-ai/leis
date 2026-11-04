@@ -1,5 +1,3 @@
-###DEC-051872-0-000-01-04-1963@@@
-
 DECRETO Nº 51.872, DE 1 DE ABRIL DE 1963.
 
 Estabelece nôvo regimento para o Gabinete Civil da Presidência da República.

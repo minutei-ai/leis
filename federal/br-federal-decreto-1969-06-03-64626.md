@@ -1,5 +1,3 @@
-###DEC-064626-0-000-03-06-1969@@@
-
 DECRETO Nº 64.626, DE 3 DE JUNHO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão, uma faixa de terra destinada a passagem de linha de transmissão.

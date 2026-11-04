@@ -1,5 +1,3 @@
-###DEC-057882-0-000-28-02-1966@@@
-
 Decreto nº 57.882, de 28 de fevereiro de 1966.
 
 Outorga ao Município de Peri-Mirim, Estado do Maranhão, concessão para distribuir energia elétrica.

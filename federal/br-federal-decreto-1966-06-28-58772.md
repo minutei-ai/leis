@@ -1,5 +1,3 @@
-###DEC-058772-0-000-28-06-1966@@@
-
 decreto nº 58.772, de 28 de junho de 1966.
 
 Reorganiza a Comissão de Estudos Relativos à Navegação Aérea Internacional, criada pelo Decreto número 27.353, de 20 de outubro de 1949, e dá outras providências.

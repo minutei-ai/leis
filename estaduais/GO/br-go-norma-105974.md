@@ -2,11 +2,12 @@ LEI Nº 21.527, DE 26 DE JULHO DE 2022
 
 Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2023 e dá outras providências.
 
-<table style="width: 99.372%; margin-left: auto; margin-right: auto; height: 152px;"><tbody><tr style="height: 19px;"><td style="width: 99.967%; height: 19px;" colspan="2"><vide>Vide Leis:</vide></td></tr><tr style="height: 19px;"><td style="width: 28.6849%; height: 19px;"><vide><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106538/lei-21760">Lei nº 21.760, de 29-12-2022</a>.</vide></td><td style="width: 71.2821%; height: 19px;"><vide>Estima a receita e fixa a despesa do Estado para o exercício de 2023.</vide></td></tr><tr style="height: 38px;"><td style="width: 28.6849%; height: 38px;"><vide><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107266/lei-complementar-183">Lei Complementar nº 183, de 22-6-2023</a>.</vide></td><td style="width: 71.2821%; height: 38px;"><vide><span>Autoriza a administração pública do Estado de Goiás a abrir créditos adicionais com a utilização, como origem de recursos, da disponibilidade descomprometida com o cancelamento de restos a pagar no exercício.</span></vide></td></tr><tr style="height: 57px;"><td style="width: 28.6849%; height: 57px;"><vide><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107464/decreto-10284">Decreto nº 10.284, de 10-7-2023.</a></vide></td><td style="width: 71.2821%; height: 57px;"><vide>Dispõe sobre os procedimentos e os prazos para a operacionalização das emendas parlamentares individuais no exercício de 2023 e sobre os requisitos de tramitação, adesão e celebração de convênios e instrumentos congêneres, em atendimento ao disposto nos §§ 8º a 12 do art. 111 da&nbsp;Constituição estadual.</vide></td></tr><tr style="height: 19px;"><td style="width: 28.6849%; height: 19px;"><vide><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107465/decreto-10285">Decreto nº 10.284, de 10-7-2023.</a></vide></td><td style="width: 71.2821%; height: 19px;"><vide>Estabelece medidas de limitação de empenho no âmbito do Poder Executivo do Estado de Goiás.</vide></td></tr></tbody></table>
+<table><tbody><tr><td colspan="2"><vide>Vide Leis:</vide></td></tr><tr><td><vide><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106538/lei-21760">Lei nº 21.760, de 29-12-2022</a>.</vide></td><td><vide>Estima a receita e fixa a despesa do Estado para o exercício de 2023.</vide></td></tr><tr><td><vide><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107266/lei-complementar-183">Lei Complementar nº 183, de 22-6-2023</a>.</vide></td><td><vide>Autoriza a administração pública do Estado de Goiás a abrir créditos adicionais com a utilização, como origem de recursos, da disponibilidade descomprometida com o cancelamento de restos a pagar no exercício.</vide></td></tr><tr><td><vide><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107464/decreto-10284">Decreto nº 10.284, de 10-7-2023.</a></vide></td><td><vide>Dispõe sobre os procedimentos e os prazos para a operacionalização das emendas parlamentares individuais no exercício de 2023 e sobre os requisitos de tramitação, adesão e celebração de convênios e instrumentos congêneres, em atendimento ao disposto nos §§ 8º a 12 do art. 111 da&nbsp;Constituição estadual.</vide></td></tr><tr><td><vide><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107465/decreto-10285">Decreto nº 10.284, de 10-7-2023.</a></vide></td><td><vide>Estabelece medidas de limitação de empenho no âmbito do Poder Executivo do Estado de Goiás.</vide></td></tr></tbody></table>
 
 A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Ficam estabelecidas, em conformidade com o § 2º do art. 110 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual) e a Lei Complementar federal nº 101, de 4 de maio de 2000, as diretrizes orçamentárias para o exercício financeiro de 2023, que compreendem:
@@ -27,7 +28,8 @@ VII - a política de aplicação dos recursos da agência financeira oficial de 
 
 VIII - as disposições sobre alterações na legislação, inclusive tributária, e sua adequação orçamentária;
 
-IX - a indicação dos limites estabelecidos no art. 41 do Ato das Disposições Constitucionais Transitórias - ADCT da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), ~~na Lei Complementar federal nº 156, de 28 de dezembro de 2016,~~ na Lei Complementar federal nº 159, de 19 de maio de 2017, na Lei Complementar federal nº 178, de 13 de janeiro de 2021, e na Emenda Constitucional federal nº 109, de 15 de março de 2021;<br>
+IX - a indicação dos limites estabelecidos no art. 41 do Ato das Disposições Constitucionais Transitórias - ADCT da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), ~~na Lei Complementar federal nº 156, de 28 de dezembro de 2016,~~ na Lei Complementar federal nº 159, de 19 de maio de 2017, na Lei Complementar federal nº 178, de 13 de janeiro de 2021, e na Emenda Constitucional federal nº 109, de 15 de março de 2021;
+
 \- [Suprimido pela Lei nº 22.492, de 22-12-2023, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108266/lei-22492).
 
 X - as diretrizes sobre a política de transparência pública relativas ao orçamento e ao Plano Plurianual - PPA;
@@ -304,7 +306,8 @@ CAPÍTULO IV
 
 DAS DIRETRIZES PARA A ELABORAÇÃO E A EXECUÇÃO DOS ORÇAMENTOS DO ESTADO
 
-Art. 19. A elaboração do projeto, a aprovação e a execução da Lei Orçamentária para o exercício de 2023 deverão ser realizadas com o objetivo de possibilitar a obtenção dos resultados previstos no Anexo de Metas Fiscais, que integra esta Lei, no Programa de Reestruturação e Ajuste Fiscal previsto na Lei Complementar federal nº 178, de 2021, e nos demais programas federais a que o Estado de Goiás venha a aderir, com a observância do disposto nas Leis Complementares federais nº 101, de 4 de maio de 2000~~, nº 156, de 28 de dezembro de 2016,~~ e nº 159, de 2017, também na legislação de referência.<br>
+Art. 19. A elaboração do projeto, a aprovação e a execução da Lei Orçamentária para o exercício de 2023 deverão ser realizadas com o objetivo de possibilitar a obtenção dos resultados previstos no Anexo de Metas Fiscais, que integra esta Lei, no Programa de Reestruturação e Ajuste Fiscal previsto na Lei Complementar federal nº 178, de 2021, e nos demais programas federais a que o Estado de Goiás venha a aderir, com a observância do disposto nas Leis Complementares federais nº 101, de 4 de maio de 2000~~, nº 156, de 28 de dezembro de 2016,~~ e nº 159, de 2017, também na legislação de referência.
+
 \- [Suprimido pela Lei nº 22.492, de 22-12-2023, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108266/lei-22492).
 
 § 1º O Poder Executivo, por meio da Secretaria de Estado da Economia, o Poder Legislativo, incluídos o Tribunal de Contas do Estado e o Tribunal de Contas dos Municípios, o Poder Judiciário, o Ministério Público estadual e a Defensoria Pública deverão promover, respeitada a autonomia dos Poderes e dos órgãos autônomos, a harmonização da metodologia, conforme o Manual de Demonstrativos Fiscais - MDF, dos Relatórios de Gestão Fiscal - RGF, para a consolidação pelo Poder Executivo no último quadrimestre do exercício.
@@ -359,19 +362,22 @@ Art. 23. O cadastro das propostas iniciais do Poder Legislativo, incluídos o Tr
 
 § 2º As propostas setoriais que estiverem em desacordo com as normas estabelecidas por esta Lei e com os limites monetários fixados poderão ser devolvidas à origem para correção.
 
-Art. 24. No Projeto de Lei Orçamentária para o exercício de 2023, a soma das despesas classificadas nos Grupos de Natureza de Despesa GND 1, GND 3, GND 4 e GND 5 não poderá exceder os seus valores nominais consignados nos respectivos orçamentos iniciais do exercício de 2022, respectivamente, para os Poderes Executivo (administração direta, autárquica e fundacional, fundos especiais e empresas estatais dependentes), Legislativo e Judiciário, bem como para os órgãos governamentais autônomos (Tribunal de Contas do Estado e Tribunal de Contas dos Municípios, Defensoria Pública e Ministério Público), corrigidos pela variação do Índice Nacional de Preços ao Consumidor Amplo – IPCA previsto para 2022 e 2023.<br>
+Art. 24. No Projeto de Lei Orçamentária para o exercício de 2023, a soma das despesas classificadas nos Grupos de Natureza de Despesa GND 1, GND 3, GND 4 e GND 5 não poderá exceder os seus valores nominais consignados nos respectivos orçamentos iniciais do exercício de 2022, respectivamente, para os Poderes Executivo (administração direta, autárquica e fundacional, fundos especiais e empresas estatais dependentes), Legislativo e Judiciário, bem como para os órgãos governamentais autônomos (Tribunal de Contas do Estado e Tribunal de Contas dos Municípios, Defensoria Pública e Ministério Público), corrigidos pela variação do Índice Nacional de Preços ao Consumidor Amplo – IPCA previsto para 2022 e 2023.
+
 \- [Redação dada pela Lei nº 21.633, de 17-11-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106335/lei-21633).
 
 ~~Art. 24. No Projeto de Lei Orçamentária para o exercício de 2023, a soma das despesas classificadas nos Grupos de Natureza de Despesa GND 1, GND 3, GND 4 e GND 5 não poderá exceder os seus valores nominais consignados nos respectivos orçamentos iniciais do exercício de 2022, respectivamente, para os Poderes Executivo (administração direta, autárquica e fundacional, fundos especiais e empresas estatais dependentes), Legislativo e Judiciário, bem como para os órgãos governamentais autônomos (Tribunais de Contas do Estado e dos Municípios, Defensoria Pública e Ministério Público), corrigidos pela variação do Índice de Preços ao Consumidor Amplo - IPCA previsto para 2023.~~
 
-§ 1º Não serão consideradas para efeito dos limites de que trata o _caput_ deste artigo as exclusões previstas na Lei Complementar federal nº 159, de 19 de maio de 2017, e na Portaria STN nº 1.487, de 12 de julho de 2022.<br>
+§ 1º Não serão consideradas para efeito dos limites de que trata o _caput_ deste artigo as exclusões previstas na Lei Complementar federal nº 159, de 19 de maio de 2017, e na Portaria STN nº 1.487, de 12 de julho de 2022.
+
 \- [Redação dada pela Lei nº 21.633, de 17-11-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106335/lei-21633).
 
 ~~§ 1º Não serão considerados para efeito dos limites de que trata o _caput_ deste artigo as exclusões previstas nas Leis Complementares federais nº 178, de 2021, e nº 189, de 4 de janeiro de 2022, também na Portaria STN nº 1.114, de 26 de outubro de 2021, e na Portaria STN nº 931, de 14 de julho de 2021.~~
 
 § 2º No exercício de 2023, a despesa primária empenhada não poderá exceder o montante da despesa primária empenhada no exercício de 2021, observadas as deduções legais, acrescido da variação do Índice Nacional de Preços ao Consumidor Amplo - IPCA, aferida anualmente de forma acumulada conforme o art. 2º, § 1º, inciso V, da Lei Complementar federal nº 159, de 2017, e o art. 41 do Ato das Disposições Constitucionais Transitórias da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual).
 
-§ 3º No exercício de 2023, a despesa primária corrente empenhada não poderá exceder o limite previsto no ~~art. 4º e no inciso III do art. 4º-A da Lei Complementar federal nº 156, de 2016, bem como no~~ parágrafo único do art. 40 do Ato das Disposições Constitucionais Transitórias da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), considerado o somatório das despesas dos exercícios de 2021 a 2023~~, conforme o disposto no § 1º do art. 4º-A da Lei Complementar nº 156, de 2016~~.<br>
+§ 3º No exercício de 2023, a despesa primária corrente empenhada não poderá exceder o limite previsto no ~~art. 4º e no inciso III do art. 4º-A da Lei Complementar federal nº 156, de 2016, bem como no~~ parágrafo único do art. 40 do Ato das Disposições Constitucionais Transitórias da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), considerado o somatório das despesas dos exercícios de 2021 a 2023~~, conforme o disposto no § 1º do art. 4º-A da Lei Complementar nº 156, de 2016~~.
+
 \- [Suprimido pela Lei nº 22.492, de 22-12-2023, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108266/lei-22492).
 
 § 4º As dotações orçamentárias do Poder Legislativo, incluídos o Tribunal de Contas do Estado e o Tribunal de Contas dos Municípios, do Poder Judiciário, do Ministério Público estadual e da Defensoria Pública constituirão seus orçamentos setoriais para efeito dos duodécimos.
@@ -420,7 +426,8 @@ Art. 33. O Poder Executivo, o Poder Legislativo, incluídos o Tribunal de Contas
 
 I - da obtenção da meta de resultado primário estabelecida nesta Lei e na Lei Orçamentária Anual;
 
-II - do limite das despesas primárias correntes empenhadas~~, conforme o previsto no art. 4º e no inciso III do art. 4º-A da Lei Complementar federal nº 156, de 2016~~;<br>
+II - do limite das despesas primárias correntes empenhadas~~, conforme o previsto no art. 4º e no inciso III do art. 4º-A da Lei Complementar federal nº 156, de 2016~~;
+
 \- [Suprimido pela Lei nº 22.492, de 22-12-2023, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108266/lei-22492).
 
 III - do limite das despesas primárias empenhadas, conforme o previsto no inciso V do § 1º do art. 2º da Lei Complementar federal nº 159, de 2017; e
@@ -459,7 +466,8 @@ II - adequação orçamentária e financeira com a Lei Orçamentária Anual, bem
 
 III - adequação aos limites previstos na Lei Complementar federal nº 101, de 2000;
 
-IV - adequação ao limite para o crescimento das despesas, previsto na~~s~~ Lei~~s~~ Complementar~~es~~ federal~~is~~ ~~nº 156, de 2016, e~~ nº 159, de 2017, e em outras legislações pertinentes;<br>
+IV - adequação ao limite para o crescimento das despesas, previsto na~~s~~ Lei~~s~~ Complementar~~es~~ federal~~is~~ ~~nº 156, de 2016, e~~ nº 159, de 2017, e em outras legislações pertinentes;
+
 \- [Suprimido pela Lei nº 22.492, de 22-12-2023, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108266/lei-22492).
 
 V - demonstrativo da fonte de recursos para o custeio e de compensação, caso exigida; e
@@ -484,7 +492,8 @@ Art. 37. No exercício de 2023, a abertura de créditos suplementares à Lei Or�
 
 § 5º Os créditos adicionais encaminhados pelo Poder Legislativo, incluídos o Tribunal de Contas do Estado e o Tribunal de Contas dos Municípios, pelo Poder Judiciário, pelo Ministério Público estadual e pela Defensoria Pública serão, quando houver a solicitação dos respectivos órgãos, operacionalizados pela Secretaria de Estado da Economia independentemente das datas estipuladas no _caput_ e no § 1º deste artigo.
 
-§ 6º A abertura de créditos adicionais deverá ser compatível com a obtenção das metas de resultado primário e nominal fixadas nesta Lei, bem como com o disposto na~~s~~ Lei~~s~~ Complementar~~es~~ federal~~is nº 156, de 2016 e~~ nº 159, de 2017.<br>
+§ 6º A abertura de créditos adicionais deverá ser compatível com a obtenção das metas de resultado primário e nominal fixadas nesta Lei, bem como com o disposto na~~s~~ Lei~~s~~ Complementar~~es~~ federal~~is nº 156, de 2016 e~~ nº 159, de 2017.
+
 \- [Suprimido pela Lei nº 22.492, de 22-12-2023, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108266/lei-22492).
 
 § 7º Os créditos especiais aprovados pela Assembleia Legislativa serão considerados automaticamente abertos com a sanção e a publicação da respectiva Lei.
@@ -597,7 +606,8 @@ I - previstos no Anexo III desta Lei;
 
 II - em conformidade com a Lei Complementar federal nº 159, de 2017, especialmente quanto à limitação do crescimento anual das despesas primárias à variação do Índice Nacional de Preços ao Consumidor Amplo - IPCA, prevista no inciso V do § 1º do art. 2º e no art. 8º da referida Lei; e
 
-III - em conformidade com a limitação prevista ~~no inciso III do art. 4-A da Lei Complementar federal nº 156, de 2016~~.<br>
+III - em conformidade com a limitação prevista ~~no inciso III do art. 4-A da Lei Complementar federal nº 156, de 2016~~.
+
 \- [Suprimido pela Lei nº 22.492, de 22-12-2023, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108266/lei-22492).
 
 § 1º Desde que sejam respeitadas as condições previstas nos incisos I, II e III do _caput_ deste artigo, ficam autorizados ainda:
@@ -662,7 +672,8 @@ VI - estimular e fomentar a cultura exportadora nas micro e pequenas empresas.
 
 CAPÍTULO IX
 
-DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO, INCLUSIVE TRIBUTÁRIA,<br>
+DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO, INCLUSIVE TRIBUTÁRIA,
+
 E SUA ADEQUAÇÃO ORÇAMENTÁRIA
 
 Art. 56. As proposições legislativas e as suas emendas que, direta ou indiretamente, importarem ou autorizarem diminuição de receita ou aumento de despesa do Estado deverão estar acompanhadas de estimativas desses efeitos no exercício em que entrarem em vigor e nos 2 (dois) exercícios subsequentes, com o detalhamento da respectiva memória de cálculo e da correspondente compensação para efeito de adequação orçamentária e financeira, além da compatibilidade com as disposições constitucionais e legais que regem a matéria.
@@ -815,7 +826,8 @@ b) remanejar recursos da saúde ou educação.
 
 § 2º A vedação prevista na alínea “b” do inciso II do _caput_ não impede o remanejamento de recursos entre as áreas de saúde e educação.
 
-§ 3º Salvo em relação ao município beneficiário, que pode ser alterado até duas vezes a qualquer momento antes do pagamento da emenda, a alteração autorizada no _caput_ deste artigo poderá ser realizada uma única vez, desde que a solicitação tenha ocorrido antes da execução do ato que formaliza o repasse dos recursos da emenda original.<br>\- [Redação dada pela Lei nº 21.739, de 27-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106517/lei-21739).
+§ 3º Salvo em relação ao município beneficiário, que pode ser alterado até duas vezes a qualquer momento antes do pagamento da emenda, a alteração autorizada no _caput_ deste artigo poderá ser realizada uma única vez, desde que a solicitação tenha ocorrido antes da execução do ato que formaliza o repasse dos recursos da emenda original.
+\- [Redação dada pela Lei nº 21.739, de 27-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106517/lei-21739).
 
 ~~§ 3º A alteração autorizada no _caput_ deste artigo poderá ser realizada uma única vez, desde que a solicitação tenha ocorrido antes da execução do ato que formaliza o repasse dos recursos da emenda original.~~
 
@@ -829,7 +841,8 @@ Art. 70. Para o cumprimento do art. 33 desta Lei, caso sejam necessárias as lim
 
 § 1º Para o alcance da meta de resultado primário prevista no Anexo de Metas Fiscais desta Lei, o Chefe do Poder Executivo comunicará ao Poder Legislativo, incluídos o Tribunal de Contas do Estado e o Tribunal de Contas dos Municípios, ao Poder Judiciário, ao Ministério Público estadual e à Defensoria Pública o montante que caberá a cada um tornar indisponível para empenho e movimentação financeira, respeitada a proporcionalidade dos recursos consignados inicialmente na Lei Orçamentária Anual para o atendimento de “outras despesas correntes”, “investimentos” e “inversões financeiras”.
 
-§ 2º Para o cumprimento da limitação do empenho das despesas primárias correntes, na forma do ~~art. 4º da Lei Complementar federal nº 156, de 2016, e do~~ inciso V do § 1º do art. 2º da Lei Complementar federal nº 159, de 2017, o Chefe do Poder Executivo comunicará ao Poder Legislativo, incluídos o Tribunal de Contas do Estado e o Tribunal de Contas dos Municípios, ao Poder Judiciário, ao Ministério Público estadual e à Defensoria Pública o montante das despesas primárias correntes e totais empenhadas até o dia 31 de dezembro de 2022 e o IPCA previsto para o exercício de 2023.<br>
+§ 2º Para o cumprimento da limitação do empenho das despesas primárias correntes, na forma do ~~art. 4º da Lei Complementar federal nº 156, de 2016, e do~~ inciso V do § 1º do art. 2º da Lei Complementar federal nº 159, de 2017, o Chefe do Poder Executivo comunicará ao Poder Legislativo, incluídos o Tribunal de Contas do Estado e o Tribunal de Contas dos Municípios, ao Poder Judiciário, ao Ministério Público estadual e à Defensoria Pública o montante das despesas primárias correntes e totais empenhadas até o dia 31 de dezembro de 2022 e o IPCA previsto para o exercício de 2023.
+
 \- [Suprimido pela Lei nº 22.492, de 22-12-2023, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108266/lei-22492).
 
 § 3º O Poder Executivo estadual divulgará em sítio eletrônico e encaminhará à Assembleia Legislativa e aos demais órgãos referidos no _caput_ deste artigo, a cada bimestre, no prazo nele previsto, o relatório que será apreciado pela Comissão de Tributação, Finanças e Orçamento da Assembleia Legislativa, que conterá:
@@ -1042,4 +1055,24 @@ Governador do Estado
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17731) ([1](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106335/lei-21633)) ([2](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672)) ([3](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106517/lei-21739)) ([4](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106539/lei-21761)) ([5](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106702/lei-21785)) ([6](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749/lei-21792)) ([7](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106872/lei-21839)) ([8](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107127/lei-21922)) ([9](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107444/lei-22087)) ([10](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107654/lei-22212)) ([11](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108133/lei-22427))
 
-<table style="width: 80.0221%; height: 252.265px;"><tbody><tr style="height: 42.3125px;"><td style="width: 100%; height: 42.3125px;"><sup style="text-align: center;">1&nbsp;</sup><span>Vide&nbsp;</span><span><a href="https://legisla.casacivil.go.gov.br/api/v1/arquivos/17826">Demonstrativo 7</a>&nbsp;</span><span>– Estimativa e Compensação da Renúncia de Receita, </span><span>do Anexo I – Metas Fiscais&nbsp;</span><span>Alterada pela&nbsp;<a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106335/lei-21633">Lei nº&nbsp; 21.633/2022</a></span></td></tr><tr style="height: 23.3281px;"><td style="width: 100%; height: 23.3281px;"><sup style="text-align: center;">2&nbsp;</sup><span>Vide Anexo II da&nbsp;</span><a style="text-align: center;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672">Lei nº 21.672</a><span>, de 09-12-2022 - Altera o Anexo III desta Lei.&nbsp;</span></td></tr><tr style="height: 23.3281px;"><td style="width: 100%; height: 23.3281px;"><sup style="text-align: center;">3&nbsp;</sup><span>Vide Anexo Único da&nbsp;</span><a style="text-align: center;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106517/lei-21739">Lei nº 21.739</a><span>, de 27-12-2022 - Altera o Anexo III desta Lei.&nbsp;</span></td></tr><tr style="height: 23.3281px;"><td style="width: 100%; height: 23.3281px;"><sup style="text-align: center;">4&nbsp;</sup><span>Vide Anexo Único da&nbsp;</span><a style="text-align: center;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106539/lei-21761">Lei nº 21.761</a><span>, de 29-12-2022 - Altera o Anexo III desta Lei.&nbsp;</span></td></tr><tr style="height: 23.3281px;"><td style="width: 100%; height: 23.3281px;"><sup style="text-align: center;">5&nbsp;</sup><span>Vide Anexo Único da&nbsp;</span><a style="text-align: center;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106702/lei-21785">Lei nº 21.785</a><span>, de 19-1-2023 - Altera o Anexo III desta Lei.&nbsp;</span></td></tr><tr style="height: 23.3281px;"><td style="width: 100%; height: 23.3281px;"><sup style="text-align: center;">6&nbsp;</sup><span>Vide Anexo VII da&nbsp;</span><a style="text-align: center;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749/lei-21792">Lei nº 21.792</a><span>, de 16-2-2023 - Altera o Anexo III desta Lei.&nbsp;</span></td></tr><tr style="height: 23.3281px;"><td style="width: 100%; height: 23.3281px;"><sup style="text-align: center;">7&nbsp;</sup><span>Vide Anexo Único da&nbsp;</span><a style="text-align: center;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106872/lei-21839">Lei nº 21.839</a><span>, de 29-3-2023 - Altera o Anexo III desta Lei.&nbsp;</span></td></tr><tr style="height: 23.3281px;"><td style="width: 100%; height: 23.3281px;"><sup style="text-align: center;">8&nbsp;</sup><span>Vide Anexo Único da&nbsp;</span><a style="text-align: center;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107127/lei-21922">Lei nº 21.922</a><span>, de 12-5-2023 - Altera o Anexo III desta Lei.&nbsp;</span></td></tr><tr style="height: 23.3281px;"><td style="width: 100%; height: 23.3281px;"><sup style="text-align: center;">9 </sup><span>Vide Anexo III da&nbsp;</span><a style="text-align: center;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107444/lei-22087">Lei nº 22.087</a><span>, de 5-7-2023 - Altera o Anexo III desta Lei.&nbsp;</span></td></tr><tr style="height: 23.3281px;"><td style="width: 100%; height: 23.3281px;"><sup style="text-align: center;">10 </sup>Vide Anexo Único da <a style="text-align: center;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107654/lei-22212">Lei nº 22.212</a>, de 16-8-2023 - Altera o Anexo III desta Lei.&nbsp;</td></tr><tr><td style="width: 100%;"><sup style="text-align: center;">11 </sup>Vide Anexo Único da <a style="text-align: center;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108133/lei-22427">Lei nº 22.427</a>, de 1º-12-2023 - Altera o Anexo III desta Lei.&nbsp;</td></tr></tbody></table>
+<sup style="text-align: center;">1 </sup>Vide [Demonstrativo 7](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17826) – Estimativa e Compensação da Renúncia de Receita, do Anexo I – Metas Fiscais Alterada pela [Lei nº  21.633/2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106335/lei-21633)
+
+<sup style="text-align: center;">2 </sup>Vide Anexo II da [Lei nº 21.672](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672), de 09-12-2022 - Altera o Anexo III desta Lei.
+
+<sup style="text-align: center;">3 </sup>Vide Anexo Único da [Lei nº 21.739](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106517/lei-21739), de 27-12-2022 - Altera o Anexo III desta Lei.
+
+<sup style="text-align: center;">4 </sup>Vide Anexo Único da [Lei nº 21.761](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106539/lei-21761), de 29-12-2022 - Altera o Anexo III desta Lei.
+
+<sup style="text-align: center;">5 </sup>Vide Anexo Único da [Lei nº 21.785](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106702/lei-21785), de 19-1-2023 - Altera o Anexo III desta Lei.
+
+<sup style="text-align: center;">6 </sup>Vide Anexo VII da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749/lei-21792), de 16-2-2023 - Altera o Anexo III desta Lei.
+
+<sup style="text-align: center;">7 </sup>Vide Anexo Único da [Lei nº 21.839](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106872/lei-21839), de 29-3-2023 - Altera o Anexo III desta Lei.
+
+<sup style="text-align: center;">8 </sup>Vide Anexo Único da [Lei nº 21.922](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107127/lei-21922), de 12-5-2023 - Altera o Anexo III desta Lei.
+
+<sup style="text-align: center;">9 </sup>Vide Anexo III da [Lei nº 22.087](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107444/lei-22087), de 5-7-2023 - Altera o Anexo III desta Lei.
+
+<sup style="text-align: center;">10 </sup>Vide Anexo Único da [Lei nº 22.212](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107654/lei-22212), de 16-8-2023 - Altera o Anexo III desta Lei.
+
+<sup style="text-align: center;">11 </sup>Vide Anexo Único da [Lei nº 22.427](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108133/lei-22427), de 1º-12-2023 - Altera o Anexo III desta Lei.

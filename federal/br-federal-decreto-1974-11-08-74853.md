@@ -1,5 +1,3 @@
-###DEC-074853-0-000-08-11-1974@@@
-
 DECREtO Nº 74.853, DE 8 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Educação, Ciências e Letras "Dom Domênico", mantida pela Sociedade Amparo aos Praianos do Guarujá, com sede na Cidade de Guarujá, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-006620-0-000-29-10-2008@@@
-
 DECRETO Nº 6.620, DE 29 DE OUTUBRO DE 2008.
 
 Dispõe sobre políticas e diretrizes para o desenvolvimento e o fomento do setor de portos e terminais portuários de competência da Secretaria Especial de Portos da Presidência da República, disciplina a concessão de portos, o arrendamento e a autorização de instalações portuárias marítimas, e dá outras providências.

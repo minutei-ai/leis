@@ -1,5 +1,3 @@
-###DEL-000222-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 222, DE 28 DE FEVEREIRO DE 1967
 
 Revigora o crédito especial aberto pelo art. 55 da Lei nº 4.242, de 17 de julho de 1963.

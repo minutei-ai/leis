@@ -1,7 +1,3 @@
-1
-
-###DEL-000900-0-000-29-09-1969@@@
-
 DECRETO-LEI Nº 900, DE 29 DE SETEMBRO DE 1969
 
 Altera disposições do Decreto-lei número 200, de 25 de fevereiro de 1967, e dá outras providências.
@@ -259,8 +255,6 @@ Hélio Beltrão
 José Costa Cavalcanti
 
 Carlos F. de Simas
-
-###DEL-000900-0-000-29-09-1969@@@RET01+++
 
 DECRETO-LEI Nº 900, DE 29 DE SETEMBRO DE 1969
 

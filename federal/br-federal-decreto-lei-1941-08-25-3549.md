@@ -1,5 +1,3 @@
-###DEL-003549-0-000-25-08-1941@@@
-
 DECRETO-LEI N. 3.549 – DE 25 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 10:000$0 à verba que especifica e dá outras providências.

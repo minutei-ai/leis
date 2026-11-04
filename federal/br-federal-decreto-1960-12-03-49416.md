@@ -1,5 +1,3 @@
-###DEC-049416-0-000-03-12-1960@@@
-
 DECRETO Nº 49.416, DE 3 DE DEZEMBRO DE 1960.
 
 Autoriza Hermes Carloni a comprar pedras preciosas.

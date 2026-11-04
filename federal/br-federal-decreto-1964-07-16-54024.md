@@ -1,5 +1,3 @@
-###DEC-054024-0-000-16-07-1964@@@
-
 Decreto nº 54.024, de 16 de julho de 1964.
 
 Designa no Ministério das Relações Exteriores Comissão para examinar a questão das chamadas “Northern Utilities”.

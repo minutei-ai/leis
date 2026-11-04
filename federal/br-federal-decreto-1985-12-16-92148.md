@@ -1,5 +1,3 @@
-###DEC-092148-0-000-16-12-1985@@@
-
 Decreto nº 92.148, de 16 de dezembro de 1985.
 
 Dispõe sobre o aumento do Capital Social da ELETROSUL - Centrais Elétricas do Sul do Brasil S.A.

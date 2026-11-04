@@ -1,5 +1,3 @@
-###DEL-006821-0-000-24-08-1944@@@
-
 DECRETO-LEI N. 6.821 – DE 24 DE AGÔSTO DE 1944
 
 Altera a carreira de Almoxarife do Quadro Permanente do Ministério da Aeronáutica

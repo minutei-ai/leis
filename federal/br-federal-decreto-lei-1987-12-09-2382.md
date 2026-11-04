@@ -1,7 +1,3 @@
-1
-
-###DEL-002382-0-000-09-12-1987@@@
-
 # DECRETO-LEI Nº 2.382, DE 9 DE DEZEMBRO DE 1987.
 
 Dispõe sobre a aplicação do Plano Único de Classificação e Retribuição de Cargos e Empregos aos estabelecimentos de ensino das Forças Armadas, e dá outras providências.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/78d4f70f-6905-43b0-98b8-d0a46dccb347/texto#nowhere)
 
-###DEL-000848-0-000-09-09-1969@@@
-
 DECRETO-LEI Nº 848, DE 9 de SETEMBRO De 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério da Fazenda em favor da Diretoria da Despesa Pública (Encargos Gerais) o crédito especial de NCr$140.000.000,00 (cento e quarenta milhões de cruzeiros novos), para o fim que especifica.

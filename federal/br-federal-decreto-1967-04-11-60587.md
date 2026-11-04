@@ -1,5 +1,3 @@
-###DEC-060587-0-000-11-04-1967@@@
-
 Decreto nº 60.587, de 11 de abril de 1967.
 
 Concede à Sociedade Anônima W. M. Jackson, Inc. autorização para continuar a funcionar na República dos Estados Unidos do Brasil.

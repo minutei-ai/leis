@@ -1,5 +1,3 @@
-###DEC-047379-0-000-09-12-1959@@@
-
 DECRETO Nº 47.379, DE 09 DE DEZEMBRO DE 1959.
 
 Transfere da Prefeitura Municipal de Tarumirim para a Prefeitura Municipal de Itanhomi a concessão para a produção de fornecimento de energia elétrica ao município de Itanhomi, Estado de Minas Gerais.

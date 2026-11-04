@@ -1,5 +1,3 @@
-###DEL-008068-0-000-10-10-1945@@@
-
 DECRETO-LEI N. 8.068 – DE 10 DE OUTUBRO DE 1945
 
 Abre ao Conselho de Imigração e Colonização o crédito de Cr$ 8.000,00, suplementar à verba que especifica.

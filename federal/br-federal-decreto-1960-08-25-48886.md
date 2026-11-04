@@ -1,5 +1,3 @@
-###DEC-048886-0-000-25-08-1960@@@
-
 dercreto nº 48.886, de 25 de agôsto de 1960.
 
 Concede à sociedade “Transmarga” - Transportes Marítimos de Gado Ltda. autorização para continuar como emprêsa de navegação de cabotagem.

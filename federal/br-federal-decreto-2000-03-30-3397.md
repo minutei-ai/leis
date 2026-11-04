@@ -1,5 +1,3 @@
-###DEC-003397-0-000-30-03-2000@@@
-
 DECRETO Nº 3.397, DE 30 DE MARÇO DE 2000.
 
 Fixa a lotação dos Adidos, Adjuntos e Auxiliares de Adidos Militares junto às representações diplomáticas no exterior, e dá providências.

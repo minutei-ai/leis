@@ -1,5 +1,3 @@
-###DEC-049220-0-000-16-11-1960@@@
-
 DECRETO Nº 49.220, DE 16 DE NOVEMBRO DE 1960.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio de Janeiro a ampliar o seu sistema  de transmissão de energia elétrica mediante a construção de uma linha entre a Usina de Macabu e a cidade de Teresópolis.

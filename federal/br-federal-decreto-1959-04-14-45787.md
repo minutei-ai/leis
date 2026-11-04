@@ -1,5 +1,3 @@
-###DEC-045787-0-000-14-04-1959@@@
-
 DECRETO Nº 45.787, DE 14 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Venino Fernandes Moreira a pesquisar feldspato no município de São Sebastião, Estado de São Paulo.

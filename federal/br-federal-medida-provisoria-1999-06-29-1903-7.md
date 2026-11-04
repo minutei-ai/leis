@@ -1,5 +1,3 @@
-###MPV-001903-0-007-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.903-7, DE 29 DE JUNHO DE 1999.
 
 Dispõe sobre o recolhimento ao Tesouro Nacional de parcela da Tarifa de Embarque Internacional, e dá outras providências.

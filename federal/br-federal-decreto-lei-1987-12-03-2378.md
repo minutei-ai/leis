@@ -1,7 +1,3 @@
-1
-
-###DEL-002378-0-000-03-12-1987@@@
-
 # DECRETO-LEI Nº 2.378, DE 3 DE DEZEMBRO DE 1987.
 
 Concede aos integrantes do Grupo Serviços Jurídicos e da Carreira de Procurador do Distrito Federal as vantagens que menciona, e dá outras providências.

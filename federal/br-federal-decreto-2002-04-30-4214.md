@@ -1,5 +1,3 @@
-###DEC-004214-0-000-30-04-2002@@@
-
 DECRETO Nº 4.214, DE 30 DE ABRIL DE 2002
 
 Define a competência da Comissão Interministerial de Controle de Exportação de Bens Sensíveis, de que trata a Lei no 9.112, de 10 de outubro de 1995, e dá outras providências.
@@ -14,7 +12,6 @@ Art. 1o A Comissão Interministerial de Controle de Exportação de Bens Sensív
 
 § 2o A Comissão deverá cooperar com as demais comissões interministeriais no que se refere ao controle de exportação de substâncias químicas de uso duplo, de material nuclear e de agentes biológicos controlados.
 
-<br>
 Art. 2o A Comissão, composta de membros titulares e suplentes, será integrada por representantes de cada um dos seguintes Ministérios:
 
 I - da Ciência e Tecnologia, que a presidirá;
@@ -81,7 +78,10 @@ Art. 8o Este Decreto entra em vigor na data de sua publicação.
 
 Brasília, 30 de abril de 2002; 181~~º~~ da Independência e 114~~º~~ da República.
 
-FERNANDO HENRIQUE CARDOSO<br>
-Osmar Vladimir Chohfi<br>
-Sérgio Silva do Amaral<br>
+FERNANDO HENRIQUE CARDOSO
+
+Osmar Vladimir Chohfi
+
+Sérgio Silva do Amaral
+
 Ronaldo Mota Sardenberg

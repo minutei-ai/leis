@@ -1,5 +1,3 @@
-###DEC-075751-0-000-22-05-1975@@@
-
 decreto nº 75.751, de 22 de maio de 1975
 
 Concede reconhecimento aos cursos de Letras, de Estudos Sociais e de Ciências da Universidade Católica de Minas Gerais, extensão de Mariana, Estado de Minas Gerais.

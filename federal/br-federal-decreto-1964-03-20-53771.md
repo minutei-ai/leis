@@ -1,5 +1,3 @@
-###DEC-053771-0-000-20-03-1964@@@
-
 DECRETO Nº 53.771, DE 20 DE MARÇO DE 1964.
 
 Amplia a zona de concessão da Companhia de Serviços Elétricos do Rio Grande do Norte, pela inclusão de vários municípios do Estado.

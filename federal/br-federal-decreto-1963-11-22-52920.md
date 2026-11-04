@@ -1,5 +1,3 @@
-###DEC-052920-0-000-22-11-1963@@@
-
 DECRETO Nº 52.920, DE 22 DE NOVEMBRO DE 1963.
 
 Promulga o Acôrdo de Migração e Colonização Brasil-Japão.

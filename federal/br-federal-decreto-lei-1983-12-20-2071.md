@@ -1,5 +1,3 @@
-###DEL-002071-0-000-20-12-1983@@@
-
 # Decreto-lei nº 2.071, de 20 de dezembro de 1983
 
 Prorroga prazos de vigência de Decretos-leis que dispõem sobre acréscimos às alíquotas do imposto de importação e dá outras providências.

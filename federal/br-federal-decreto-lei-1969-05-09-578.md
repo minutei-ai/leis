@@ -1,5 +1,3 @@
-###DEL-000578-0-000-09-05-1969@@@
-
 DECRETO-LEI Nº 578, DE 9 DE MAIO DE 1969
 
 Autoriza a contratação de operação externa no valor de US$ - Yug 2.272.500,00 e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000118-0-000-03-04-2003@@@
-
 MEDIDA PROVISÓRIA N° 118, DE 3 DE ABRIL 2003.
 
 Altera a Lei n° 9.294, de 15 de julho de 1996, que dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4o do art. 220 da Constituição Federal.

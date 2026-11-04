@@ -1,5 +1,3 @@
-###DEL-007954-0-000-13-09-1945@@@
-
 DECRETO-LEI N. 7.954 – DE 13 DE SETEMBRO DE 1945
 
 Altera o art. 74 do Decreto-lei número 3.940, de 16 de dezembro de 1941

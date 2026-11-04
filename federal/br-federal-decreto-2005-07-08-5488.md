@@ -1,5 +1,3 @@
-###DEC-005488-0-000-08-07-2005@@@
-
 DECRETO Nº  5.488, DE 8 DE JULHO DE 2005
 
 Dá nova redação ao parágrafo único do art. 3o do Decreto no 4.939, de 29 de dezembro de 2003, que dispõe sobre a execução de atividades de administração de pessoal, material, patrimônio, serviços gerais e de orçamento e finanças.

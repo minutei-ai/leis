@@ -1,5 +1,3 @@
-###DEC-046593-0-000-14-08-1959@@@
-
 DECRETO Nº 46.593, DE 14 DE AGÔSTO DE 1959.
 
 Revoga o Decreto que concedeu à Companhia Buda do Brasil autorização para funcionar na República.

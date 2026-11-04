@@ -1,5 +1,3 @@
-###DEC-070691-0-000-08-06-1972@@@
-
 DECRETO Nº 70.691, DE 8 DE JUNHO DE 1972.
 
 Revoga dispositivos do Decreto número 48.298, de 17 de junho de 1960, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055361-0-000-31-12-1964@@@
-
 DECRETO Nº 55.361, DE 31 DE DEZEMBRO DE 1964.
 
 Amplia a zona de concessão da Companhia Estadual de Energia Elétrica, do Estado do Rio Grande do Sul.

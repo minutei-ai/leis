@@ -1,5 +1,3 @@
-###DEC-077997-0-000-08-07-1976@@@
-
 DECRETO Nº 77.997, de 8 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Ciências, Letras e Educação de Presidente Prudente, com sede na cidade de Presidente Prudente, Estado de São Paulo.

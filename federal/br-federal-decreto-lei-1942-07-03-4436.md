@@ -1,5 +1,3 @@
-###DEL-004436-0-000-03-07-1942@@@
-
 DECRETO-LEI N. 4.436 – DE 3 DE JULHO DE 1942
 
 Abre, pelo Ministério da justiça e Negócios Interiores, o crédito especial de 60:000$0 (sessenta contos de réis), para representação na inauguração de Goiânia

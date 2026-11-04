@@ -1,7 +1,3 @@
-1
-
-###DEC-001702-0-000-16-11-1995@@@
-
 DECRETO Nº 1.702, DE 16 DE NOVEMBRO DE 1995
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados incidente sobre os produtos que enumera.

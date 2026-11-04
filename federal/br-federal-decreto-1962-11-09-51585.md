@@ -1,5 +1,3 @@
-###DEC-051585-0-000-09-11-1962@@@
-
 DECRETO Nº 51.585, DE 9 DE NOVEMBRO DE 1962.
 
 Corrige enquadramento provisório.

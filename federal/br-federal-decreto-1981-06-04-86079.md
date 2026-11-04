@@ -1,5 +1,3 @@
-###DEC-086079-0-000-04-06-1981@@@
-
 Decreto nº 86.079, de 04 de junho de 1981.
 
 Altera o Decreto nº 77.920, de 28 de junho de 1976, que aprova o Regulamento de Promoções de Graduados do Exército e dá outras providências.

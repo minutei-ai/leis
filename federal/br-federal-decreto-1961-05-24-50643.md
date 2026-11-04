@@ -1,5 +1,3 @@
-###DEC-050643-0-000-24-05-1961@@@
-
 DECRETO Nº 50.643, de 24 de Maio de 1961.
 
 Assegura ao algodão em pluma da região setentrional do País da safra de 1961-1962, a garantia de preços mínimos.

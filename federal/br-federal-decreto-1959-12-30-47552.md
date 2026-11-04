@@ -1,5 +1,3 @@
-###DEC-047552-0-000-30-12-1959@@@
-
 DECRETO Nº 47.552, DE 30 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro José Trento a pesquisar fluorita no município de Tubarão, Estado de Santa Catarina.

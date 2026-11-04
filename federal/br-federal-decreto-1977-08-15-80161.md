@@ -1,5 +1,3 @@
-###DEC-080161-0-000-15-08-1977@@@
-
 Decreto nº 80.161, de 15 de Agosto de 1997.
 
 Autoriza transformação dos cursos de Desenho e de Educação Musical em cursos de Educação Artística, do Instituto de Artes da Universidade de Passo Fundo, com sede na cidade de Passo Fundo, Estado do Rio Grade do Sul.

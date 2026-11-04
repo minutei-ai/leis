@@ -1,5 +1,3 @@
-###DEC-080528-0-000-10-10-1977@@@
-
 DECRETO Nº 80.528, DE 10 de Outubro de 1977.
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Faculdade Administração e Finanças, com sede na Cidade de Montes Claros, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-057435-0-000-16-12-1965@@@
-
 DECRETO Nº 57.435, de 16 de dezembro de 1965.
 
 Concede a Brasil Mineração Indústria e Comércio S.A. - (BRASIMIC) autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEL-000101-0-000-11-01-1967@@@
-
 DECRETO-LEI Nº 101, DE 11 DE JANEIRO DE 1967
 
 Modifica dispositivo da Lei nº 5.159, de 21 de outubro de 1966, que autoriza a abertura, pelo Ministério da Indústria e do Comércio, do crédito especial de Cr$1.500.000.000 (um bilhão e quinhentos milhões de cruzeiros), a favor do Instituto de Resseguros do Brasil, destinado a garantir as responsabilidades a serem assumidas pelo Govêrno Federal, no tocante ao seguro de crédito à exportação, objeto da Lei número 4.678, de 16 de junho de 1965.

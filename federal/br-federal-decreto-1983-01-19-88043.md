@@ -1,5 +1,3 @@
-###DEC-088043-0-000-19-01-1983@@@
-
 Decreto nº 88.043, de 19 de janeiro 1983.
 
 Renova prazo de concessão outorgada à Companhia Lupo Agrícola Comercial e Industrial sucedida por Henrique Lupo S.A. para aproveitamento da energia hidráulica do desnível denominado Salto Grande, existente no Ribeirão das Cruzes, no Município de Araraquara, Estado de são Paulo.

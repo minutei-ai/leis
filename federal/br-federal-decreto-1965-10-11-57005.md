@@ -1,5 +1,3 @@
-###DEC-057005-0-000-11-10-1965@@@
-
 DECRETO Nº 57.005, DE 11 DE OUTUBRO DE 1965.
 
 Torna sem efeito o Decreto nº51.103, de 1º de agôsto de 1961.

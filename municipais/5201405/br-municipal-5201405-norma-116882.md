@@ -32,11 +32,14 @@ Art. 9° - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, Estado de Goiás, aos 22 dias do mês de julho do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-MARINHO RESENDE<br>
+MARINHO RESENDE
+
 Presidente do PROCON

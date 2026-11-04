@@ -1,5 +1,3 @@
-###DEC-047341-0-000-04-12-1959@@@
-
 DECRETO Nº 47.431, DE 04 DE Dezembro DE 1959.
 
 Concede o reconhecimento ao Curso de Enfermagem da Escola de Enfermagem de Santos.

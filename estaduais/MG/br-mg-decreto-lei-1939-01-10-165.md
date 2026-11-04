@@ -99,7 +99,3 @@ Palácio da Liberdade, em Belo Horizonte, aos 10 de janeiro de 1939.
 BENEDITO VALADARES RIBEIRO
 
 Ovídio Xavier de Abreu
-
-\=======================================================================
-
-Data da última atualização: 17/8/2026.

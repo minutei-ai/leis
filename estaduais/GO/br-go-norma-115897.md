@@ -18,7 +18,23 @@ XX – o equivalente à aplicação de 80% (oitenta por cento) sobre o valor do 
 
 § 4º ......................................................
 
-<table style="width: 70%;"><thead></thead><tbody><tr><td style="text-align:center">INCISO</td><td style="text-align:center">ATO</td><td style="text-align:center">DATA LIMITE</td></tr><tr><td style="text-align:center">.............</td><td style="text-align:center">.............</td><td style="text-align:center">.................................</td></tr><tr><td style="text-align:center">XX</td><td style="text-align:center"><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115709">Lei nº 24.363</a>, de 2026</td><td style="text-align:center">21/6/2031</td></tr></tbody></table>
+INCISO
+
+ATO
+
+DATA LIMITE
+
+.............
+
+.............
+
+.................................
+
+XX
+
+[Lei nº 24.363](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115709), de 2026
+
+21/6/2031
 
 ...................................................................................................................................
 
@@ -30,5 +46,6 @@ Goiânia, 25 de junho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado

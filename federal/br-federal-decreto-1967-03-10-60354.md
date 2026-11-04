@@ -1,5 +1,3 @@
-###DEC-060354-0-000-10-03-1967@@@
-
 DECRETO Nº 60.354, DE 10 DE MARÇO DE 1967.
 
 Estabelece condições especiais para a conclusão de hospitais da previdência social.

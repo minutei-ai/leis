@@ -1,5 +1,3 @@
-###DEL-004346-0-000-26-05-1942@@@
-
 DECRETO-LEI N. 4.346 – DE 26 DE MAIO DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito de 8:850$0, suplementar à verba que especifica

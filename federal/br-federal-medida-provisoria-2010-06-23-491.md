@@ -1,5 +1,3 @@
-###MPV-000491-0-000-23-06-2010@@@
-
 MEDIDA PROVISÓRIA Nº 491, DE 23 DE JUNHO DE 2010.
 
 Institui o Programa Cinema Perto de Você e dá outras providências

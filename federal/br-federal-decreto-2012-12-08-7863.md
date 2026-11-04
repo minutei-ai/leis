@@ -1,5 +1,3 @@
-###DEC-007863-0-000-08-12-2012-PUB-01@@@
-
 DECRETO Nº 7.863, DE 8 DE DEZEMBRO DE 2012
 
 Altera o Decreto nº 4.122, de 13 de fevereiro de 2002, que aprova o Regulamento e o Quadro Demonstrativo dos Cargos Comissionados e dos Cargos Comissionados Técnicos da Agência Nacional de Transportes Aquaviários - ANTAQ.

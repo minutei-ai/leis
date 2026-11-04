@@ -1,5 +1,3 @@
-###DEL-005492-0-000-17-05-1943@@@
-
 DECRETO-LEI N.  5.492 – DE 17 DE MAIO DE 1943
 
 Cria o 2º Regimento Moto‑Mecanizado, com sede em Uraguaiana

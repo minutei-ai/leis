@@ -1,5 +1,3 @@
-###DEC-059858-0-000-23-12-1966@@@
-
 DECRETO Nº 59.858, DE 23 DE DEZEMBRO DE 1966.
 
 Outorga concessão.

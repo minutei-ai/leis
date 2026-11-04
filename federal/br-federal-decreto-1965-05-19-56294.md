@@ -1,5 +1,3 @@
-###DEC-056294-0-000-19-05-1965@@@
-
 DECRETO Nº 56.294, DE 19 DE maio DE 1965.
 
 Declara de utilidade pública o “Hospital Nossa Senhora da Conceição de Pará de Minas”, com sede em Pará de Minas, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095850-0-000-21-03-1988@@@
-
 DECRETO N° 95.850, DE 21 DE MARÇO DE 1988
 
 Renova a concessão outorgada à RÁDIO CIDADE DE CASCAVEL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cascavel, Estado do Paraná.

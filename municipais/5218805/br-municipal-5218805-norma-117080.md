@@ -28,7 +28,7 @@ Gabinete do Prefeito de Rio Verde, aos 30 dias do mês de março de 2023.
 
 "
 
-<table style="width: 70%;"><tbody><tr><td rowspan="6" style="text-align: left; width: 353px;"><strong>CARGOS DE PROVIMENTO EM COMISSÃO (DAS)</strong> <strong>Grupo de Cargos de Chefia, Direção e Assessoramento Superior</strong></td><td style="text-align: left; width: 260px;"><strong>ESPÉCIE</strong> <strong>/ NÍVEL</strong></td><td style="text-align: left; width: 389px;"><strong>CARGO DE REFERÊNCIA</strong></td><td style="text-align: left;"><strong>QUANTITATIVO</strong></td></tr><tr><td style="text-align: left; width: 237px;">.................</td><td style="text-align: left; width: 389px;">.................</td><td style="text-align: center;">.................</td></tr><tr><td style="text-align: left; width: 237px;">DAS - 5</td><td style="text-align: left; width: 389px;">Gestor</td><td style="text-align: center;">30</td></tr><tr><td style="width: 237px;">DAS - 6</td><td style="width: 389px;">Supervisor</td><td style="text-align: center;">35</td></tr><tr><td style="width: 237px;">DAS - 7</td><td style="width: 389px;">Chefe de Equipe ou Setor</td><td style="text-align: center;">45</td></tr><tr><td style="text-align: left; width: 237px;">.................</td><td style="text-align: left; width: 389px;">.................</td><td style="text-align: center;">...................</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="6">**CARGOS DE PROVIMENTO EM COMISSÃO (DAS)Grupo de Cargos de Chefia, Direção e Assessoramento Superior**</td><td>**ESPÉCIE/ NÍVEL**</td><td>**CARGO DE REFERÊNCIA**</td><td>**QUANTITATIVO**</td></tr><tr><td>.................</td><td>.................</td><td>.................</td></tr><tr><td>DAS - 5</td><td>Gestor</td><td>30</td></tr><tr><td>DAS - 6</td><td>Supervisor</td><td>35</td></tr><tr><td>DAS - 7</td><td>Chefe de Equipe ou Setor</td><td>45</td></tr><tr><td>.................</td><td>.................</td><td>...................</td></tr></tbody></table>
 
 "
 
@@ -40,7 +40,7 @@ Gabinete do Prefeito de Rio Verde, aos 30 dias do mês de março de 2023.
 
 1\. Tabela 1 - Consolidada
 
-| **ESPÉCIE /** **NÍVEL** | **QUANTITATIVO** | **REMUNERAÇÃO** |
+| **ESPÉCIE /NÍVEL** | **QUANTITATIVO** | **REMUNERAÇÃO** |
 | --- | --- | --- |
 | FG-1 | 34 | ........................... |
 | FG-2 | 69 | ........................... |
@@ -55,7 +55,7 @@ Gabinete do Prefeito de Rio Verde, aos 30 dias do mês de março de 2023.
 
 3\. Tabela 4 - Secretaria Municipal de Saúde - SMS
 
-| **ESPÉCIE /** **NÍVEL** | **QUANTITATIVO** | **REMUNERAÇÃO** |
+| **ESPÉCIE /NÍVEL** | **QUANTITATIVO** | **REMUNERAÇÃO** |
 | --- | --- | --- |
 | FG-1 | 14 | ........................... |
 | FG-2 | 10 | ........................... |
@@ -94,10 +94,70 @@ Gabinete do Prefeito de Rio Verde, aos 30 dias do mês de março de 2023.
 
 06\. Tabela 6 - Controladoria-Geral do Município - CGM
 
-<table style="width: 70%;"><tbody><tr><td><strong>ESPÉCIE/ NÍVEL</strong></td><td><strong>FUNÇÃO</strong></td><td><strong>DESCRIÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr><tr><td>......................</td><td>......................</td><td>......................</td><td>......................</td></tr><tr><td>FG-2</td><td>Agente de Controle Interno Nível II</td><td>......................</td><td>06</td></tr><tr><td>FG-3</td><td>Agente de Controle Interno Nível III</td><td>......................</td><td>03</td></tr><tr><td>FG-4</td><td>Gestor de Dados e Informações</td><td style="text-align: justify;">Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a gestão do processo de informatização da Secretaria. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de 03 desempenho. Atua conforme as diretrizes técnicas da Controladoria-Geral do Município. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.</td><td>03</td></tr></tbody></table>
+**ESPÉCIE/ NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+**QUANTIDADE**
+
+......................
+
+......................
+
+......................
+
+......................
+
+FG-2
+
+Agente de Controle Interno Nível II
+
+......................
+
+06
+
+FG-3
+
+Agente de Controle Interno Nível III
+
+......................
+
+03
+
+FG-4
+
+Gestor de Dados e Informações
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a gestão do processo de informatização da Secretaria. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de 03 desempenho. Atua conforme as diretrizes técnicas da Controladoria-Geral do Município. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+03
 
 ..................................................................................................................................................
 
 10\. Tabela 10 - Guarda Civil Municipal - 
 
-<table style="width: 70%;"><tbody><tr><td><strong>ESPÉCIE/ NÍVEL</strong></td><td><strong>FUNÇÃO</strong></td><td><strong>DESCRIÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr><tr><td>......................</td><td>......................</td><td>......................</td><td>......................</td></tr><tr><td>FG-2</td><td>Guarda Civil Municipal</td><td>......................</td><td>........................</td></tr></tbody></table>
+**ESPÉCIE/ NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+**QUANTIDADE**
+
+......................
+
+......................
+
+......................
+
+......................
+
+FG-2
+
+Guarda Civil Municipal
+
+......................
+
+........................

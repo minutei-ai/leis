@@ -1,5 +1,3 @@
-###DEC-052833-0-000-18-11-1963@@@
-
 DECRETO Nº 52.833, DE 18 DE NOVEMBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Itaporanga D’Ajuda concessão para distribuir energia elétrica no município.

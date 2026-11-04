@@ -1,7 +1,3 @@
-1
-
-###DEC-002101-0-000-23-12-1996@@@
-
 DECRETO Nº 2.101, DE 23 DE DEZEMBRO DE 1996.
 
 Dá nova redação ao caput do art. 4º do Decreto nº 5, de 14 de janeiro de 1991, que dispõe sobre o Programa de Alimentação do Trabalhador.

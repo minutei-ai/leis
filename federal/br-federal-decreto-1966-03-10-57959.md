@@ -1,5 +1,3 @@
-###DEC-057959-0-000-10-03-1966@@@
-
 DECRETO Nº 57.959, DE 10 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro João Sattim a pesquisar feldspato, quartzo e caulim, no município de Monte Sião, Estado de Minas Gerais.

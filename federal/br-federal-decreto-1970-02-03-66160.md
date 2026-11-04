@@ -1,5 +1,3 @@
-###DEC-066160-0-000-03-02-1970@@@
-
 DECRETO Nº 66.160 - DE 3 DE FEVEREIRO DE 1970
 
 Revoga o Decreto nº 64.174, de 6 de março de 1969.

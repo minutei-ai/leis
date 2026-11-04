@@ -1,5 +1,3 @@
-###DEC-045013-0-000-04-12-1958@@@
-
 DECRETO Nº 45.013, DE 4 DE DEZEMBRO DE 1958.
 
 Autoriza a Companhia Fôrça e Luz Juiz de Fora S.A. a ampliar a potência da Usina Hidroelétrica de Coronel Pacheco, Estado de Minas Gerais.

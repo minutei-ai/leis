@@ -1,5 +1,3 @@
-###DEC-061272-0-000-04-09-1967@@@
-
 DECRETO Nº 61.272, DE 4 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação área destinada à bacia de acumulação, do aproveitamento da energia hidráulica de um trecho do rio Paranapanema nos municípios de Carlópolis e Salto Itararé, do Estado do Paraná.
@@ -229,8 +227,6 @@ Brasília, 4 de setembro de 1967; 146º da Independência e 79º da República.
 A. Costa e Silva
 
 José Costa Cavalcanti
-
-###DEC-061272-0-000-04-09-1967@@@RET01+++
 
 decreto nº 61.272, de 4 de setembro de 1967.
 

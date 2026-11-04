@@ -1,14 +1,12 @@
-###DEC-038204-0-000-03-11-1955@@@
+**DECRETO Nº 38.204, DE 3 DE NOVEMBRO DE 1955.**
 
-<strong>DECRETO Nº 38.204, DE 3 DE NOVEMBRO DE 1955.</strong>
+***Dispõe sôbre a concessão da licença especial prevista no artigo 116 da Lei número 1.711, de 28 de outubro de 1952.***
 
-<em><strong>Dispõe sôbre a concessão da licença especial prevista no artigo 116 da Lei número 1.711, de 28 de outubro de 1952.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Após casa decênio de efetivo exercício, ao funcionário que a requer, conceder-se-à licença especial de seis meses com todos os direitos e vantagens de seu cargo efetivo, de carreira ou isolado.
+**Art**. 1º Após casa decênio de efetivo exercício, ao funcionário que a requer, conceder-se-à licença especial de seis meses com todos os direitos e vantagens de seu cargo efetivo, de carreira ou isolado.
 
 § 1º O funcionário efetivo, que ocupar cargo em comissão ou função gratificada, ficará afastado durante o gôzo da licença especial, percebendo o vencimento ou remuneração do cargo de que seja ocupante efetivo.
 
@@ -16,13 +14,13 @@
 
 § 3º É vedada a conversão da licença em vantagem pecuniária.
 
-<strong>Art</strong>. 2º em caso de acumulação de cargo, a licença especial será concedida em relação a cada um dêles, simutância ou separadamente.
+**Art**. 2º em caso de acumulação de cargo, a licença especial será concedida em relação a cada um dêles, simutância ou separadamente.
 
 § 1º Será independente o cômputo do decênio em relação a cada um dos cargos acumuláveis.
 
 § 2º O tempo de serviço prestado anteriormente à acumulação somente podera ser computado para contagem de decênio referente ao cargo em que o requerente contar maior tempo de serviço.
 
-<strong>Art</strong>. 3º Não se concederá licença especial se houver o funcionário em cada decênio:
+**Art**. 3º Não se concederá licença especial se houver o funcionário em cada decênio:
 
 I - Sofrido pena de suspensão, mesmo se convertida em multa;
 
@@ -40,7 +38,7 @@ d) por motivo de afastamento do cônjuge, quando funcionário ou militar, por ma
 
 Parágrafo único. Cessada a interrupção prevista neste artigo, começará a correr nova contagem do decênio a partir da data em que o funcionário reassumir o exercício do cargo ou do dia seguinte em que faltar ao serviço.
 
-<strong>Art</strong>. 4º São competentes para conceder a licença especial:
+**Art**. 4º São competentes para conceder a licença especial:
 
 I - nos Ministérios civis, os diferentes das respectivas Divisões os serviços do Pessoal;
 
@@ -50,17 +48,17 @@ III - nos órgãos subordinados à Presidência da República, o respectivo diri
 
 Parágrafo único. As autoridades a que se refere êste artigo poderão delegar essa competência a chefes de repartição ou serviço que possua órgão de pessoal, promovendo obrigatóriamente o contrôle posterior das concessões realizadas.
 
-<strong>Art</strong>. 5º A licença especial poderá ser gozada de uma só vez ou parceladamente em períodos de dois ou três meses.
+**Art**. 5º A licença especial poderá ser gozada de uma só vez ou parceladamente em períodos de dois ou três meses.
 
 Parágrafo único. Quando se tratar de mais de uma licença especial, o funcionário poderá goza-las em períodos semestrais consecutivos ou isolados em um ou mais períodos semestrais em concorrência com períodos parcelados, e em períodos parcelados.
 
-<strong>Art</strong>. 6º O funcionário requererá a concessão da licença especial à autoridade competente indicando a forma por que deseja goza-la.
+**Art**. 6º O funcionário requererá a concessão da licença especial à autoridade competente indicando a forma por que deseja goza-la.
 
 § 1º O órgão de pessoal instruirá o pedido, esclarecendo, à vista dos elementos indicados no item I do artigo 9º , se o funcionário preenche os requisitos legais para a concessão da licença.
 
 § 2º Deferido o requerimento, o órgão de pessoal promoverá a publicação oficial do ato e respectiva anotação no assentamento individual do funcionário, remetendo, em seguida, o processo ao chefe da repartição ou serviço para o fim de ser organizada a escala respectiva.
 
-<strong>Art</strong>. 7º A escala será organizada por determinação do chefe de repartição ou serviço e obedecerá a ordem cronológica de entrada dos requerimentos dos interessados.
+**Art**. 7º A escala será organizada por determinação do chefe de repartição ou serviço e obedecerá a ordem cronológica de entrada dos requerimentos dos interessados.
 
 § 1º Poderá ser revista a escala quando:
 
@@ -72,7 +70,7 @@ c) o chefe de repartição ou serviço determinar outro período atendendo aos i
 
 § 2º quando houver requerimento na mesma data, terá preferência contar maior tempo de serviço público federal.
 
-<strong>Art</strong>. 8º Na organização da escala serão observados os seguintes requisitos:
+**Art**. 8º Na organização da escala serão observados os seguintes requisitos:
 
 a) quando requerida para um período de seis meses, a licença especial poderá ter inicio em qualquer mês do ano civil;
 
@@ -84,11 +82,11 @@ d) na mesma repartição, não poderão ser licenciados, simultaneamente, funcio
 
 e) se houver menos de seis funcionários em exercício, somente um dêles poderá ser licenciado;
 
-f) ressalvado o disposto nas alíneas <em>d</em> e <em>e</em> dêste artigo e na alínea <em>b</em> do artigo 7º, o período a ser determinado pelo chefe da repartição ou serviço, deverá iniciar-se dentro do prazo máximo de um ano, a contar da data do deferimento da licença;
+f) ressalvado o disposto nas alíneas *d* e *e* dêste artigo e na alínea *b* do artigo 7º, o período a ser determinado pelo chefe da repartição ou serviço, deverá iniciar-se dentro do prazo máximo de um ano, a contar da data do deferimento da licença;
 
 g) deverão ser mencionadas as datas de início e termino dos períodos relativos à licença especial.
 
-<strong>Art</strong>. 9º No cômputo do decênio de efetivo exercício serão observadas as seguintes normas:
+**Art**. 9º No cômputo do decênio de efetivo exercício serão observadas as seguintes normas:
 
 I - entende-se como o tempo de efetivo exercício o que tenha sido prestado à União, em cargo ou função civil ou militar, ininterrupta ou consecutivamente, em órgãos de administração direta, apurado à vista dos registros de freqüência, fôlhas de pagamento ou dos elementos regularmente averbados no assentamento individual de funcionário;
 
@@ -130,19 +128,19 @@ V - não interromperão o curso do decênio os dias intermediários entre o exer
 
 Parágrafo único. O tempo de efetivo exercício prestado às entidades a que se refere a Lei nº 1.278, de 16 de dezembro de 1950, será computado para os fins da concessão prevista neste regulamento, sempre que não haja ocorrido interrupção.
 
-<strong>Art</strong>. 10. Para efeito de aposentadoria, será contado, em dôbro, o tempo de licença especial que o funcionário não houver gozado.
+**Art**. 10. Para efeito de aposentadoria, será contado, em dôbro, o tempo de licença especial que o funcionário não houver gozado.
 
-<strong>Art</strong>. 11. É permitido ao funcionário interromper a licença especial, sem perder o direito ao gôzo do restante do período, desde que, mediante requerimento à autoridade que concedeu a licença, obtenha autorização para reassumir o exercício de seu cargo.
+**Art**. 11. É permitido ao funcionário interromper a licença especial, sem perder o direito ao gôzo do restante do período, desde que, mediante requerimento à autoridade que concedeu a licença, obtenha autorização para reassumir o exercício de seu cargo.
 
-<strong>Art</strong>. 12. O chefe da repartição ou serviço comunicará ao órgão de pessoal as datas em que o funcionário entrar em gôzo de licença especial e voltar ao exercício do cargo.
+**Art**. 12. O chefe da repartição ou serviço comunicará ao órgão de pessoal as datas em que o funcionário entrar em gôzo de licença especial e voltar ao exercício do cargo.
 
-<strong>Art</strong>. 13. As disposições dêste regulamento aplicam-se aos funcionários dos Territórios e aos extranumerários da União e dos Territórios em gôzo de estabilidade, bem como ao pessoal a que se refere a Lei número 1.278, de 16 de dezembro de 1950.
+**Art**. 13. As disposições dêste regulamento aplicam-se aos funcionários dos Territórios e aos extranumerários da União e dos Territórios em gôzo de estabilidade, bem como ao pessoal a que se refere a Lei número 1.278, de 16 de dezembro de 1950.
 
-<strong>Art</strong>. 14. Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 14. Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 3 de novembro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Prado Kelly
 

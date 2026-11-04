@@ -1,5 +1,3 @@
-###DEC-006208-0-000-18-09-2007@@@
-
 DECRETO Nº 6.208, DE 18 DE SETEMBRO DE 2007.
 
 Dá nova redação ao parágrafo único do art. 181-B do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999.
@@ -23,5 +21,3 @@ Brasília, 18 de setembro de 2007;186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 19.9.2007

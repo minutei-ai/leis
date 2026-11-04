@@ -1,5 +1,3 @@
-###DEC-054639-0-000-28-10-1964@@@
-
 DECRETO Nº 54.639, DE 28 DE OUTUBRO DE 1964.
 
 Transfere da Emprêsa de Eletricidade Divinópolis - Cajuru S.A. para o Consórcio constituído pela Companhia Fiação e Tecelagem Divinópolis e Companhia Siderúrgica São Marcos concessão para aproveitamento de energia hidráulica.

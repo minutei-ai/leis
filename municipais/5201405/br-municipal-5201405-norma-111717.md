@@ -266,7 +266,8 @@ Art. 37 - As decisões do Conselho deverão estar articuladas com os outros cons
 
 Parágrafo único. Havendo conflito entre as decisões dos conselhos o Chefe do Poder Executivo decidirá a controvérsia.
 
-Art. 38. O Conselho será composto por 15 (quinze) membros titulares com direito a voto e por 15 (quinze) membros suplentes, respeitando a seguinte representação: <br>
+Art. 38. O Conselho será composto por 15 (quinze) membros titulares com direito a voto e por 15 (quinze) membros suplentes, respeitando a seguinte representação: 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Art. 38 - O Conselho será composto por 14 (quatorze) membros titulares com direito a voto e por 14 (quatorze) membros suplentes, respeitando a seguinte representação:~~ 
@@ -279,7 +280,8 @@ III - 2 (dois) representantes titulares e 2 (dois) suplentes de Movimentos Socia
 
 IV - 2 (dois) representantes titulares e 2 (dois) suplentes do mercado imobiliário ou do empresariado local;
 
-V - 02 (dois) representantes titular e 02 (dois) suplentes de Organizações Não Governamentais e entidadades religiosas com atuação no Município; <br>
+V - 02 (dois) representantes titular e 02 (dois) suplentes de Organizações Não Governamentais e entidadades religiosas com atuação no Município; 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~V - 1 (um) representante titular e 1 (um) suplente de Organizações Não Governamentais com atuação no Município;~~  
@@ -330,13 +332,16 @@ X - zelar pela integração das políticas setoriais urbanísticas;
 
 XI - emitir parecer sobre medidas que possam comprometer a mobilidade em virtude de ocupação ou uso de imóveis urbanos ou rurais.
 
-~~XII – Deliberar sobre a delimitação de Áreas de Especial Interesse Social.~~ <br>
-~~**(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**~~ <br>
+~~XII – Deliberar sobre a delimitação de Áreas de Especial Interesse Social.~~ 
+
+~~**(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**~~ 
+
 **(REVOGADO PELA [Lei Complementar nº 241](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111732 "Abrir Lei Complementar nº 241, de 2025 em nova aba"), DE 27 DE JUNHO DE 2025)**
 
 Parágrafo único. Em consonância com as resoluções a serem emitidas pelo CONCIAG, o Chefe do Poder Executivo disciplinará, no âmbito de suas competências, as matérias relativas à aplicação do Plano Diretor e dos demais atos normativos relacionados ao desenvolvimento urbano.
 
-Art. 48-A. Fica revogado o inciso III do  Art.6º da Lei Municipal nº 2.707/07. <br>
+Art. 48-A. Fica revogado o inciso III do  Art.6º da Lei Municipal nº 2.707/07. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Art. 49 - O Conselho da Cidade poderá convocar debates públicos de caráter excepcional quando for necessário a emissão de parecer em projetos de grande impacto urbano econômico e/ou social para o Município.
@@ -555,7 +560,8 @@ IV - Vias Locais (VL) vias responsáveis prioritariamente para o acesso às ativ
 
 Art. 66 - A hierarquização das vias urbanas de Aparecida de Goiânia está indicada no Mapa de Sistema Viário anexo a esta Lei.
 
-Art. 67. As larguras das faixas a serem preservadas para implantação ou ampliação das vias indicadas no Mapa de Sistema Viário e demais parâmetros em anexo, com detalhamento do nome das vias, deverão respeitar a especificidade de cada tipologia de via, sendo que suas seções serão definidas no Projeto Geométrico, afim de garantir sua largura final.<br>
+Art. 67. As larguras das faixas a serem preservadas para implantação ou ampliação das vias indicadas no Mapa de Sistema Viário e demais parâmetros em anexo, com detalhamento do nome das vias, deverão respeitar a especificidade de cada tipologia de via, sendo que suas seções serão definidas no Projeto Geométrico, afim de garantir sua largura final.
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Art. 67 - As larguras das faixas a serem preservadas para implantação ou ampliação das vias indicadas no Mapa de Sistema Viário e demais parâmetros em anexo, com detalhamento do nome das vias, deverão respeitar a especificidade de cada tipologia de via, sendo que suas seções serão definidas no Projeto Geométrico.~~
@@ -570,7 +576,8 @@ II - vias arteriais: largura total (pista de rolamento e calçada) de no mínimo
 
 III - vias coletoras: largura total (pista de rolamento e calçada) de no mínimo 20m, com calçadas laterais (nos dois lados) com largura mínima de 3m;
 
-IV – vias locais: largura total (pista de rolamento e calçada) de no mínimo 12m, com calçadas laterais (nos dois lados) com largura mínima de 2,5m. <br>
+IV – vias locais: largura total (pista de rolamento e calçada) de no mínimo 12m, com calçadas laterais (nos dois lados) com largura mínima de 2,5m. 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~IV - vias locais: largura total (pista de rolamento e calçada) de no mínimo 11m, com calçadas laterais (nos dois lados) com largura mínima de 2,5m.~~ 
@@ -595,7 +602,8 @@ II - nos casos em que o lote ocupado for atingido pela diretriz viária, a área
 
 III - nos casos em que a diretriz viária atingir porção do lote que o reduza para aquém dos 130m², o lote se tornará inviável para uso e ocupação, devendo haver permuta ou desapropriação total do lote.
 
-IV – para os lotes atingidos por alinhamento viário mantem-se os parâmetros urbanísticos do terreno original para fins de cálculo do número de unidades, desde que a fração no terreno remanescente nunca seja inferior a 130,00m².  <br>
+IV – para os lotes atingidos por alinhamento viário mantem-se os parâmetros urbanísticos do terreno original para fins de cálculo do número de unidades, desde que a fração no terreno remanescente nunca seja inferior a 130,00m².  
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Art. 76 - Para efeito desta Lei, a via urbana é composta de:
@@ -624,13 +632,16 @@ IV - laudo geológico.
 
 Art. 79 - A definição de novas vias, bem como suas funções serão estabelecidas conforme necessidade, justificadas tecnicamente, com parecer emitido pelo órgão de planejamento e normatizadas por meio de Decreto Municipal.
 
-Art. 79-A. As vias arteriais e coletoras que faceiam a Zona Parque poderão sofrer alargamento progressivo de maneira a atingir a largura final prevista em lei, inclusive sobre a área da Zona Parque, em áreas já consolidadas. <br>
+Art. 79-A. As vias arteriais e coletoras que faceiam a Zona Parque poderão sofrer alargamento progressivo de maneira a atingir a largura final prevista em lei, inclusive sobre a área da Zona Parque, em áreas já consolidadas. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-Art. 79-B. A regularização do imóvel atingido por alinhamento viário se fará através de processo de desmembramento com projeto podendo ser desenvolvido pelo Município e/ou gravame de restrição de ocupação no projeto aprovado. <br>
+Art. 79-B. A regularização do imóvel atingido por alinhamento viário se fará através de processo de desmembramento com projeto podendo ser desenvolvido pelo Município e/ou gravame de restrição de ocupação no projeto aprovado. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-Parágafo único. Não incidirão taxas sobre o desmembramento que tiver a finalidade exclusiva para abertura do sistema viário definido no Plano Diretor como hierarquia viária mas incidirão as devidas taxas sobre as alterações no remanescente do imóvel. <br>
+Parágafo único. Não incidirão taxas sobre o desmembramento que tiver a finalidade exclusiva para abertura do sistema viário definido no Plano Diretor como hierarquia viária mas incidirão as devidas taxas sobre as alterações no remanescente do imóvel. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Seção II
@@ -755,7 +766,8 @@ DOS USOS DO SOLO
 
 Art. 100 - Os usos do solo são classificados em categorias e subcategorias em função da natureza, do porte e do impacto da atividade.
 
-Art. 101 - Os usos do solo são classificados em categorias e subcategorias em função da natureza, do porte e do impacto da atividade e localidade. <br>
+Art. 101 - Os usos do solo são classificados em categorias e subcategorias em função da natureza, do porte e do impacto da atividade e localidade. 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Art. 101 - Os usos são classificados em:~~
@@ -922,7 +934,8 @@ II - a área máxima para remembramento dos lotes é restrita;
 
 III - em que há atendimento do cadastro de habitação de interesse social do Município.
 
-Parágrafo único. Quando a produção habitacional não atender ao cadastro municipal os parâmetros urbanísticos devem ser de ZUM I, ZUM II e /ou ZEPAs, de acordo com a localização dos terrenos. <br>
+Parágrafo único. Quando a produção habitacional não atender ao cadastro municipal os parâmetros urbanísticos devem ser de ZUM I, ZUM II e /ou ZEPAs, de acordo com a localização dos terrenos. 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Parágrafo único. Quando a produção habitacional não atender ao cadastro municipal os parâmetros urbanísticos devem ser de ZUM I e/ou ZEPA, de acordo com a localização dos terrenos.~~
@@ -961,45 +974,58 @@ Art. 137 - Vetado
 
 § 2º - Vetado.
 
-Art. 137-A. A Zona Especial de Proteção Ambiental I – ZEPA I corresponde às áreas de preservação permanente - APP ao longo dos cursos d'água superficiais, estabelecidas da seguinte forma: <br>
+Art. 137-A. A Zona Especial de Proteção Ambiental I – ZEPA I corresponde às áreas de preservação permanente - APP ao longo dos cursos d'água superficiais, estabelecidas da seguinte forma: 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-I – as faixas bilaterais, com largura mínima de 100 m (cem metros), contíguas ao     Ribeirão Lajes, Rio Meia Ponte e Ribeirão Dourados, a partir de suas margens; <br>
+I – as faixas bilaterais, com largura mínima de 100 m (cem metros), contíguas ao     Ribeirão Lajes, Rio Meia Ponte e Ribeirão Dourados, a partir de suas margens; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-II – as faixas bilaterais, com largura mínima de 30 m (trinta metros), contíguas aos     córregos e demais cursos d’água não mencionados no inciso I deste artigo,     temporários ou permanentes,  a  partir  de  suas  margens,  para  unidades      imobiliárias  situadas  em  áreas  de loteamentos aprovados até a publicação da Lei     Complementar nº 2.250, de 30 de janeiro de 2002, desde que obedecido os critérios     da Lei Federal Lei Federal nº 12.651, de 25 de maio de 2012, ou sucedânea. <br>
+II – as faixas bilaterais, com largura mínima de 30 m (trinta metros), contíguas aos     córregos e demais cursos d’água não mencionados no inciso I deste artigo,     temporários ou permanentes,  a  partir  de  suas  margens,  para  unidades      imobiliárias  situadas  em  áreas  de loteamentos aprovados até a publicação da Lei     Complementar nº 2.250, de 30 de janeiro de 2002, desde que obedecido os critérios     da Lei Federal Lei Federal nº 12.651, de 25 de maio de 2012, ou sucedânea. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-III - as  faixas  bilaterais,  com  largura  mínima  de  50  m  (cinquenta  metros),     contíguas  aos  córregos  e  demais  cursos  d’água  não  mencionados  no  inciso  I      deste  artigo, temporários ou permanentes, a partir de suas margens para  unidades      imobiliárias e/ ou glebas situadas  em  áreas  de loteamentos aprovados ou a serem     aprovados após a publicação da Lei Complementar nº 2.250, de 30 de janeiro de     2002, desde que obedecido os critérios da Lei Federal Lei Federal nº 12.651, de 25     de maio de 2012, ou sucedânea. <br>
+III - as  faixas  bilaterais,  com  largura  mínima  de  50  m  (cinquenta  metros),     contíguas  aos  córregos  e  demais  cursos  d’água  não  mencionados  no  inciso  I      deste  artigo, temporários ou permanentes, a partir de suas margens para  unidades      imobiliárias e/ ou glebas situadas  em  áreas  de loteamentos aprovados ou a serem     aprovados após a publicação da Lei Complementar nº 2.250, de 30 de janeiro de     2002, desde que obedecido os critérios da Lei Federal Lei Federal nº 12.651, de 25     de maio de 2012, ou sucedânea. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-IV  -  as áreas circundantes das nascentes ou olhos d’águas permanentes, com um     raio de no mínimo 50 m (cinquenta metros) situadas  em  áreas  de loteamentos     aprovados até a publicação da Lei Complementar nº 2.250, de 30 de janeiro de     2002,     desde que obedecido os critérios da Lei Federal Lei Federal nº 12.651, de 25     de     maio de 2012, ou sucedânea.; <br>
+IV  -  as áreas circundantes das nascentes ou olhos d’águas permanentes, com um     raio de no mínimo 50 m (cinquenta metros) situadas  em  áreas  de loteamentos     aprovados até a publicação da Lei Complementar nº 2.250, de 30 de janeiro de     2002,     desde que obedecido os critérios da Lei Federal Lei Federal nº 12.651, de 25     de     maio de 2012, ou sucedânea.; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-V  -  as áreas circundantes das nascentes ou olhos d’águas permanentes, com um     raio de no mínimo 100 m (cem metros) em parcelamentos aprovados ou a serem     aprovados após a publicação da Lei Complementar nº 2.250, de 30 de janeiro de     2002, desde que obedecido os critérios da Lei Federal nº 12.651, de 25 de maio de     2012, ou sucedânea.; <br>
+V  -  as áreas circundantes das nascentes ou olhos d’águas permanentes, com um     raio de no mínimo 100 m (cem metros) em parcelamentos aprovados ou a serem     aprovados após a publicação da Lei Complementar nº 2.250, de 30 de janeiro de     2002, desde que obedecido os critérios da Lei Federal nº 12.651, de 25 de maio de     2012, ou sucedânea.; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-VI -  o  topo  de  morros,  montes,  montanhas  e  serras,  com  altura  mínima  de      100 (cem) metros e inclinação média maior que 25° (vinte e cinco graus),  conforme     delimitação estabelecida em legislação federal; <br>
+VI -  o  topo  de  morros,  montes,  montanhas  e  serras,  com  altura  mínima  de      100 (cem) metros e inclinação média maior que 25° (vinte e cinco graus),  conforme     delimitação estabelecida em legislação federal; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-VII- as encostas ou partes destas com declividade superior a 45° (quarenta e cinco     graus), equivalente a 100% (cem por cento) na linha de maior declive; <br>
+VII- as encostas ou partes destas com declividade superior a 45° (quarenta e cinco     graus), equivalente a 100% (cem por cento) na linha de maior declive; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-VIII  -  as  faixas  de  50  m  (cinquenta  metros)  circundantes  aos  lagos,  lagoas      e reservatórios d’água naturais, a partir de suas margens; <br>
+VIII  -  as  faixas  de  50  m  (cinquenta  metros)  circundantes  aos  lagos,  lagoas      e reservatórios d’água naturais, a partir de suas margens; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-IX  -  as  faixas  circundantes  aos  lagos,  lagoas  e  represas  artificiais,   na  faixa     definida na licença ambiental do empreendimento, observados os termos da Lei     Federal nº 12.651, de 25 de maio de 2012, ou sucedânea; <br>
+IX  -  as  faixas  circundantes  aos  lagos,  lagoas  e  represas  artificiais,   na  faixa     definida na licença ambiental do empreendimento, observados os termos da Lei     Federal nº 12.651, de 25 de maio de 2012, ou sucedânea; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-~~Parágrafo único. Nos locais de captação de água para abastecimento da cidade deverão ser observados os padrões da concessionária de saneamento, com parecer favorável dos órgãos ambientais competentes.~~ <br>
+~~Parágrafo único. Nos locais de captação de água para abastecimento da cidade deverão ser observados os padrões da concessionária de saneamento, com parecer favorável dos órgãos ambientais competentes.~~ 
+
 ~~**(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**~~
 
-Parágrafo Único. Nos locais de capitação de água para abastecimento da cidade, deverá ser precedidos de parecer do órgão municipal o qual definirá as diretrizes ambientais mitigadoras. <br>
+Parágrafo Único. Nos locais de capitação de água para abastecimento da cidade, deverá ser precedidos de parecer do órgão municipal o qual definirá as diretrizes ambientais mitigadoras. 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
 Art. 138 - Nas Áreas de Preservação Permanente - APPs fica proibida qualquer edificação, exceto àquelas que viabilizarem a urbanização da Zona Parque.
 
-Parágrafo único: considera-se para efeitos do caput deste artigo, estruturas que viabilizem parque urbano tais como: pista de caminhada, academia aberta, pavimentação com piso drenante, pergolado, desde que descoberto, sede de policiamento municipal.<br>
+Parágrafo único: considera-se para efeitos do caput deste artigo, estruturas que viabilizem parque urbano tais como: pista de caminhada, academia aberta, pavimentação com piso drenante, pergolado, desde que descoberto, sede de policiamento municipal.
+
 (Redação acrescentada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 Art. 139 - A comprovação da existência ou não de nascentes, olhos d’água e/ou outros elementos geradores de APP’s será feita via cadastro oficial do Município e/ou apresentação de levantamento georreferenciado validado pela Secretaria de Meio Ambiente.
@@ -1008,16 +1034,20 @@ Art. 140 – Vetado.
 
 Parágrafo único. Vetado.
 
-Art. 140-A. A Zona Especial de Proteção Ambiental II - ZEPA II corresponde a uma faixa de amortecimento contígua à Zona Especial de Proteção Ambiental I - ZEPA I, com largura de 50 m (cinquenta metros), sobre as quais a ocupação é restrita a usos não poluentes e os parâmetros urbanísticos são voltados a: <br>
+Art. 140-A. A Zona Especial de Proteção Ambiental II - ZEPA II corresponde a uma faixa de amortecimento contígua à Zona Especial de Proteção Ambiental I - ZEPA I, com largura de 50 m (cinquenta metros), sobre as quais a ocupação é restrita a usos não poluentes e os parâmetros urbanísticos são voltados a: 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-I - tipologias construtivas horizontais; <br>
+I - tipologias construtivas horizontais; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-II - baixas taxas de ocupação e densidade; <br>
+II - baixas taxas de ocupação e densidade; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-III - preservação do solo e das áreas permeáveis. <br>
+III - preservação do solo e das áreas permeáveis. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Art. 141 – A Zona Parque – ZP é a zona urbana correspondente:
@@ -1074,12 +1104,14 @@ II - de instrumentos como a outorga onerosa e a transferência do direito de con
 
 Art. 150 - Os parâmetros urbanísticos permitem utilização integral do lote nos pavimentos térreo e imediatamente superior quando da aprovação e instalação de atividades públicas e/ou econômicas no embasamento das edificações do Eixo de Integração II, além do incremento do potencial construtivo.
 
-Art.151 - Os critérios estabelecidos de uso e ocupação do solo são válidos somente para os imóveis que fazem frente para as vias classificadas como Eixo de Integração II, garantida sua largura final.<br>
+Art.151 - Os critérios estabelecidos de uso e ocupação do solo são válidos somente para os imóveis que fazem frente para as vias classificadas como Eixo de Integração II, garantida sua largura final.
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Art. 151 - Os critérios estabelecidos de uso e ocupação do solo são válidos somente para os imóveis que fazem frente para as vias classificadas como Eixo de Integração II, considerada sua largura final consolidada, numa extensão de até 50m (cinquenta metros) ao longo da quadra.~~ 
 
-Art. 152 - Excepcionalmente os parâmetros de Eixo de Integração II podem se estender ao longo da quadra lindeira ao Eixo desde que o mesmo já esteja com a largura final garantida e a via de acesso aos imóveis tenha largura mínima de 15m (quinze metros). <br>
+Art. 152 - Excepcionalmente os parâmetros de Eixo de Integração II podem se estender ao longo da quadra lindeira ao Eixo desde que o mesmo já esteja com a largura final garantida e a via de acesso aos imóveis tenha largura mínima de 15m (quinze metros). 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Art. 152 - Excepcionalmente os parâmetros de Eixo de Integração II podem se estender até 100m (cem metros) ao longo da quadra, desde que o Eixo já esteja com a largura final consolidada e a via de acesso tenha largura mínima de 15m (quinze metros).~~ 
@@ -1094,19 +1126,22 @@ I - contrapartidas obrigatórias e incentivos voltados à otimização e integra
 
 II - de instrumentos como a outorga onerosa e a transferência do direito de construir.
 
-Art.156 - Os critérios estabelecidos de uso e ocupação do solo são válidos somente para os imóveis que fazem frente para as vias classificadas como Eixo de Integração III, garantida sua largura final. <br>
+Art.156 - Os critérios estabelecidos de uso e ocupação do solo são válidos somente para os imóveis que fazem frente para as vias classificadas como Eixo de Integração III, garantida sua largura final. 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Art. 156 - Os critérios estabelecidos de uso e ocupação do solo são válidos somente para os imóveis que fazem frente para as vias classificadas como Eixo de Integração III, numa extensão de até 50m (cinquenta metros) ao longo da quadra.~~ 
 
 Art. 157 – Vetado.
 
-Art. 157-A Excepcionalmente os parâmetros de Eixo de Integração III podem se estender ao longo da quadra lindeira ao Eixo desde que o mesmo já esteja com a largura final garantida e a via de acesso aos imóveis tenha largura mínima de 15m (quinze metros). <br>
+Art. 157-A Excepcionalmente os parâmetros de Eixo de Integração III podem se estender ao longo da quadra lindeira ao Eixo desde que o mesmo já esteja com a largura final garantida e a via de acesso aos imóveis tenha largura mínima de 15m (quinze metros). 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Parágrafo único. As glebas de uma mesma matrícula no Registro Imobiliário, que contiverem área de mais de 50% (cinquenta por cento) dentro do Perímetro Urbano de extensão do Eixo de Integração deverão ser consideradas como se estivessem integralmente dentro dele para todos os fins previstos em lei.
 
-Art. 157 A - Excepcionalmente os parâmetros de Eixo de Integração III deverão se estender ao longo da quadra lindeira à ele, limitada a extensão de 250m (duzentos e cinquenta metros). A aprovação de empreendimentos nas ruas que possuam zoneamento de Eixo de Integração III, mas com largura inferior a 15,00m (quinze metros), não enquadrados em residencial unifamiliar ou com graus de incomodidade III e IV, ficam condicionados a um Parecer específico para aprovação da atividade considerando a largura da via emitido pela secretaria responsável pela mobilidade e trânsito.<br>
+Art. 157 A - Excepcionalmente os parâmetros de Eixo de Integração III deverão se estender ao longo da quadra lindeira à ele, limitada a extensão de 250m (duzentos e cinquenta metros). A aprovação de empreendimentos nas ruas que possuam zoneamento de Eixo de Integração III, mas com largura inferior a 15,00m (quinze metros), não enquadrados em residencial unifamiliar ou com graus de incomodidade III e IV, ficam condicionados a um Parecer específico para aprovação da atividade considerando a largura da via emitido pela secretaria responsável pela mobilidade e trânsito.
+
 (Redação acrescentada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 Art. 158 - Nem todas as vias arteriais ou coletoras são classificadas como eixos de integração.
@@ -1129,15 +1164,18 @@ Art. 163 - Os estabelecimentos industriais devem se responsabilizar pela coleta 
 
 Art. 164 - A aprovação, implantação, reforma e alteração de uso dos estabelecimentos situados do Eixo de Desenvolvimento Econômico deve obrigatoriamente considerar impactos gerados em eventuais vizinhanças residenciais.
 
-Art. 165 – Os critérios estabelecidos de uso e ocupação de solo são validos somente para imóveis que fazem frente para as vias classificadas como eixo de desenvolvimento econômico, garantida sua largura final. <br>
+Art. 165 – Os critérios estabelecidos de uso e ocupação de solo são validos somente para imóveis que fazem frente para as vias classificadas como eixo de desenvolvimento econômico, garantida sua largura final. 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
 ~~Art. 165 - Os critérios estabelecidos de uso e ocupação do solo são válidos somente para as quadras que fazem frente para as vias classificadas como Eixo de Desenvolvimento Econômico.~~ 
 
-Art. 165 A – Os parâmetros do eixo de desenvolvimento econômico se estenderão ao longo da quadra lindeira a ele, limitada a extensão de 250m (duzentos e cinquenta metros), desde que este eixo já esteja com a largura final garantida e a via de acesso aos imóveis tenha largura mínima de 15 (quinze) metros. <br>
+Art. 165 A – Os parâmetros do eixo de desenvolvimento econômico se estenderão ao longo da quadra lindeira a ele, limitada a extensão de 250m (duzentos e cinquenta metros), desde que este eixo já esteja com a largura final garantida e a via de acesso aos imóveis tenha largura mínima de 15 (quinze) metros. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
-Art. 165-B -  No trecho do anel Viário compreendido entre a Rodovia BR-153 e a Rodovia GO-040 somente serão classificados como Eixo de Desenvolvimento Econômico os imóveis que fazem frente para o Anel Viário. **<br>
+Art. 165-B -  No trecho do anel Viário compreendido entre a Rodovia BR-153 e a Rodovia GO-040 somente serão classificados como Eixo de Desenvolvimento Econômico os imóveis que fazem frente para o Anel Viário. **
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
 Art. 166 - Devem ser observadas e respeitadas as faixas de domínio exigidas por legislação específica quando a classificação dos Eixos recaírem sobre vias que comportam linhas de alta tensão, rodovias estaduais e federais.
@@ -1156,10 +1194,12 @@ Art. 170 - Lotes aprovados anteriormente a esta Lei com área de até 180m² pod
 
 Art. 171 - A exceção da área mínima de 180m² para o lote ocorre na ZEIS, cujo valor mínimo exigido é de 125m².
 
-Art. 171-A As frações ideais para fim de habitação unifamiliar correspondem ao tamanho mínimo do terreno estabelecido para cada zoneamento, com exceção dos Eixos de Integração I, II e III, que deverão obedecer à fração ideal de 180,00m² e ZUM I que passa a ter fração ideal de 150,00m².  <br>
+Art. 171-A As frações ideais para fim de habitação unifamiliar correspondem ao tamanho mínimo do terreno estabelecido para cada zoneamento, com exceção dos Eixos de Integração I, II e III, que deverão obedecer à fração ideal de 180,00m² e ZUM I que passa a ter fração ideal de 150,00m².  
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-Parágrafo único. Para cálculo das frações ideais, assim como para os demais parâmetros urbanísticos, será considerada a área urbanizável do terreno. <br>
+Parágrafo único. Para cálculo das frações ideais, assim como para os demais parâmetros urbanísticos, será considerada a área urbanizável do terreno. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Art. 172 - Os únicos usos de aprovação permitida em áreas de urbanização precária são:
@@ -1210,10 +1250,12 @@ XIV - Rua Benedito Batista de Toledo.
 
 Parágrafo único. Vetado.
 
-Art. 178-A Os imóveis atingidos por alargamento/melhoramento viário, assim como lotes lindeiros aos eixos de integração ficam isentos do cumprimento do recuo frontal obrigatório estabelecido na tabela de recuos e afastamentos, desde obedecido afastamento de no mínimo 5m (cinco metros), a partir do meio fio, garantindo a largura final da via.<br>
+Art. 178-A Os imóveis atingidos por alargamento/melhoramento viário, assim como lotes lindeiros aos eixos de integração ficam isentos do cumprimento do recuo frontal obrigatório estabelecido na tabela de recuos e afastamentos, desde obedecido afastamento de no mínimo 5m (cinco metros), a partir do meio fio, garantindo a largura final da via.
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-Art. 178-B Não é permitido qualquer tipo de edificação sobre área do terreno atingida por alinhamento/melhoramento viário. <br>
+Art. 178-B Não é permitido qualquer tipo de edificação sobre área do terreno atingida por alinhamento/melhoramento viário. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Art. 179 - Serão consideradas áreas impróprias para a ocupação e implantação de loteamentos, loteamentos de acesso restrito ou condomínios edilícios aquelas que apresentem uma ou mais características a seguir listadas:
@@ -1304,7 +1346,8 @@ VI - galpões e usinas de reciclagem;
 
 VII - terminais de transporte;
 
-VIII- transportadoras, garagens de veículos de transporte de passageiros, concessionárias com área superior a 360,00m² (trezendo e sessenta metros quadrados);<br>
+VIII- transportadoras, garagens de veículos de transporte de passageiros, concessionárias com área superior a 360,00m² (trezendo e sessenta metros quadrados);
+
 (Redação alterada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 ~~VIII - transportadoras, garagens de veículos de transporte de passageiros, concessionárias;~~
@@ -1315,7 +1358,8 @@ X - cemitérios;
 
 XI - presídios;
 
-XII - Atacadista de combustível; <br>
+XII - Atacadista de combustível; 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~XII - atacadistas e varejistas de combustível;~~ 
@@ -1344,10 +1388,12 @@ XXIII - escolas com área superior de 2.000m²;
 
 XXIV - aeroporto e aeródromo.
 
-§1º  Todas as atividades listadas nesta Lei, independentemente do porte, precisam de uso do solo específico para a construção e funcionamento. <br>
+§1º  Todas as atividades listadas nesta Lei, independentemente do porte, precisam de uso do solo específico para a construção e funcionamento. 
+
 **(ALTERADO PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-§2° As atividades já previstas pelo licenciamento ambiental para instalação do loteamento ficam isentas de apresentação de EIV por estarem instaladas em zoneamento compatível com sua atividade. <br>
+§2° As atividades já previstas pelo licenciamento ambiental para instalação do loteamento ficam isentas de apresentação de EIV por estarem instaladas em zoneamento compatível com sua atividade. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Parágrafo único. Todas as atividades listadas nesta Lei, independentemente do porte, precisam de uso do solo específico para a construção e funcionamento.~~
@@ -1490,7 +1536,8 @@ XI - Quadra industrial é o conjunto de lotes contíguos e lindeiros à via, res
 
 XII - Lote é o terreno lindeiro à via de circulação destinado à edificação, servido de infraestrutura básica, sujeito a parâmetros como área mínima, área máxima e largura mínima da testada voltada para a via pública de acordo com as definições do Zoneamento, Uso e Ocupação do Solo para cada zona ou eixo de integração;
 
-XIII - Infraestrutura Básica corresponde à rede pública de distribuição de energia elétrica, esgotamento sanitário, rede de abastecimento de água potável, redes coletoras de esgoto sanitário, sistema de escoamento das águas pluviais, pavimentação das vias de circulação e iluminação pública, conforme previsto em legislação municipal, todos de obrigação do loteador; <br>
+XIII - Infraestrutura Básica corresponde à rede pública de distribuição de energia elétrica, esgotamento sanitário, rede de abastecimento de água potável, redes coletoras de esgoto sanitário, sistema de escoamento das águas pluviais, pavimentação das vias de circulação e iluminação pública, conforme previsto em legislação municipal, todos de obrigação do loteador; 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~XIII - Infraestrutura Básica corresponde à rede pública de distribuição de energia elétrica, esgotamento sanitário, rede de abastecimento de água potável, redes coletoras de esgoto sanitário, sistema de escoamento das águas pluviais, pavimentação das vias de circulação, iluminação pública e calçadas, conforme previsto em legislação municipal, todos de obrigação do loteador;~~ 
@@ -1513,7 +1560,8 @@ XXI - Referência de Nível - RN é a cota de altitude oficial do Instituto Bras
 
 Art. 219 - É facultado, mediante aprovação prévia do Município, a edificação em Área Verde limitada a 10% (dez por cento) da área do terreno, com limite máximo de 250m² (duzentos e cinqüenta metros quadrados) de área construída.
 
-Parágrafo único: Admite-se, conforme legislação específica, a contratação de parcerias junto ao setor público e privado para exploração comercial de Áreas Verdes em loteamentos existentes ou a serem aprovados conforme regulamento a ser estabelecido pelo Poder Executivo.<br>
+Parágrafo único: Admite-se, conforme legislação específica, a contratação de parcerias junto ao setor público e privado para exploração comercial de Áreas Verdes em loteamentos existentes ou a serem aprovados conforme regulamento a ser estabelecido pelo Poder Executivo.
+
 (Redação acrescentada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 Art. 220 - Mesmo em área urbana, não será permitido o parcelamento do solo:
@@ -1570,7 +1618,8 @@ IV - o condomínio edilício deverá apresentar acesso consolidado com via míni
 
 V - toda área a ser destinada a equipamento público não poderá ser inferior a 1.000m² (hum mil metros quadrados), exceto quando tratar-se de projetos de parcelamento com dimensões inferiores a 10.000m² (dez mil metros quadrados) sujeito à análise prévia do órgão de planejamento;
 
-~~VI - os parcelamentos de área igual ou superior a 48.400m² (quarenta e oito mil e quatrocentos metros quadrados) devem reservar 5% (cinco por cento) da área urbanizável para a área institucional para habitação de interesse social;~~ <br>
+~~VI - os parcelamentos de área igual ou superior a 48.400m² (quarenta e oito mil e quatrocentos metros quadrados) devem reservar 5% (cinco por cento) da área urbanizável para a área institucional para habitação de interesse social;~~ 
+
 **(REVOGADO PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 VII - Vetado.
@@ -1589,7 +1638,8 @@ e) dutos (adutoras, gasodutos, oleodutos): conforme determinação do órgão co
 
 f) linhas de transmissão de energia elétrica: conforme determinação do órgão competente.
 
-~~§ 1º - É facultado ao Poder Público, mediante análise de conveniência e interesse público, receber área institucional prevista no inciso VII deste artigo em outro local, desde que sejam de valor equivalente, mediante Laudo de Avaliação elaborado pela Prefeitura, conforme o empreendimento finalizado, urbanização e acessibilidade.~~  **<br>
+~~§ 1º - É facultado ao Poder Público, mediante análise de conveniência e interesse público, receber área institucional prevista no inciso VII deste artigo em outro local, desde que sejam de valor equivalente, mediante Laudo de Avaliação elaborado pela Prefeitura, conforme o empreendimento finalizado, urbanização e acessibilidade.~~  **
+
 (REVOGADO PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
 § 2º - Vetado.
@@ -1602,37 +1652,48 @@ I - Vetado;
 
 II - Vetado.
 
-~~Art. 224-A. Os projetos de parcelamentos do solo deverão reservar no mínimo 15% (quinze por cento) da área urbanizável para as áreas institucionais e 5% (cinco por cento) para as áreas verdes.~~ <br>
+~~Art. 224-A. Os projetos de parcelamentos do solo deverão reservar no mínimo 15% (quinze por cento) da área urbanizável para as áreas institucionais e 5% (cinco por cento) para as áreas verdes.~~ 
+
 ~~**(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**~~
 
-Artigo 224 A - Os projetos de parcelamento de solo, nas modalidades de loteamento, loteamento de acesso restrito, PUE e remanejamento para fins de novo loteamento deverão reservar, no mínimo 15% (quinze por cento) da área urbanizável para áreas públicas municipais, sendo no mínimo 10% (dez por cento) de área institucional e 5% (cinco por cento) para áreas verdes.<br>
+Artigo 224 A - Os projetos de parcelamento de solo, nas modalidades de loteamento, loteamento de acesso restrito, PUE e remanejamento para fins de novo loteamento deverão reservar, no mínimo 15% (quinze por cento) da área urbanizável para áreas públicas municipais, sendo no mínimo 10% (dez por cento) de área institucional e 5% (cinco por cento) para áreas verdes.
+
  (Redação alterada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
-~~Art. 224 A – Os projetos de parcelamento de solo deverão reservar, no mínimo 15% (quinze por cento) da área urbanizável para áreas publicas municipais, sendo no mínimo 10% (dez por cento) de área institucional e 5% (cinco por cento) para áreas verdes.~~<br>
+~~Art. 224 A – Os projetos de parcelamento de solo deverão reservar, no mínimo 15% (quinze por cento) da área urbanizável para áreas publicas municipais, sendo no mínimo 10% (dez por cento) de área institucional e 5% (cinco por cento) para áreas verdes.~~
+
 **~~(REDAÇÃO ALTERADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)~~**
 
-Parágrafo único. Os parcelamento com área inferior a 48.400 m2 (quarenta e oito mil e quatrocentos metros quadrados) deverão reservar no mínimo 10% (dez por cento) da área urbanizável para as áreas institucionais e 5% (cinco por cento) para as áreas verdes. <br>
+Parágrafo único. Os parcelamento com área inferior a 48.400 m2 (quarenta e oito mil e quatrocentos metros quadrados) deverão reservar no mínimo 10% (dez por cento) da área urbanizável para as áreas institucionais e 5% (cinco por cento) para as áreas verdes. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)** 
 
-Art. 224-B. É facultado ao poder público, mediante análise de conveniência e interesse público, receber área institucional, assim como área institucional de interesse social em outro local, desde que sejam de valor equivalente, mediante laudo de avaliação elaborado pela Prefeitura conforme o empreendimento finalizado, urbanização e acessibilidade. <br>
+Art. 224-B. É facultado ao poder público, mediante análise de conveniência e interesse público, receber área institucional, assim como área institucional de interesse social em outro local, desde que sejam de valor equivalente, mediante laudo de avaliação elaborado pela Prefeitura conforme o empreendimento finalizado, urbanização e acessibilidade. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-Art. 224-C. A reserva da área urbanizável destinada para área institucional prevista no art. 224-A, a critério da administração municipal e mediante análise de conveniência, poderá ser substituída, no todo ou em parte, em contrapartida por obras civis e de infraestrutura urbana, atendida a demanda da região e do novo projeto de parcelamento por equipamentos públicos comunitários. <br>
+Art. 224-C. A reserva da área urbanizável destinada para área institucional prevista no art. 224-A, a critério da administração municipal e mediante análise de conveniência, poderá ser substituída, no todo ou em parte, em contrapartida por obras civis e de infraestrutura urbana, atendida a demanda da região e do novo projeto de parcelamento por equipamentos públicos comunitários. 
+
 **(REDAÇÃO ACRESCENTADA PELA LEI COMPLEMENTAR Nº 241 DE 27 DE JUNHO DE 2025)**
 
-§ 1º A contrapartida de que trata o caput deverá garantir a equivalência em relação ao valor de mercado área urbanizável do parcelamento. <br>
+§ 1º A contrapartida de que trata o caput deverá garantir a equivalência em relação ao valor de mercado área urbanizável do parcelamento. 
+
 **(REDAÇÃO ACRESCENTADA PELA LEI COMPLEMENTAR Nº 241 DE 27 DE JUNHO DE 2025)**
 
-§ 2º A contrapartida de que trata o caput deverá atender às áreas da educação, da saúde, da assistência social, da segurança pública, do esporte, do lazer, da cultura, da mobilidade urbana, da infraestrutura e outras atividades de interesse coletivo ou atividades públicas Estaduais e Federais de interesse do Município, devendo sua localização atender os critérios de acessibilidade fundados na abrangência do atendimento social em relação à moradia. <br>
+§ 2º A contrapartida de que trata o caput deverá atender às áreas da educação, da saúde, da assistência social, da segurança pública, do esporte, do lazer, da cultura, da mobilidade urbana, da infraestrutura e outras atividades de interesse coletivo ou atividades públicas Estaduais e Federais de interesse do Município, devendo sua localização atender os critérios de acessibilidade fundados na abrangência do atendimento social em relação à moradia. 
+
 **(REDAÇÃO ACRESCENTADA PELA LEI COMPLEMENTAR Nº 241 DE 27 DE JUNHO DE 2025)**
 
-§ 3º A contrapartida em obras civis e de infraestrutura urbana, formalizada por meio de Termo de Compromisso firmado entre o interessado e a Administração Pública estabelecendo as obrigações e os prazos para implementação das contrapartidas, deverá ser cumprida em um prazo máximo de 2 (dois) anos contados a partir da emissão do decreto de aprovação do projeto de parcelamento. <br>
+§ 3º A contrapartida em obras civis e de infraestrutura urbana, formalizada por meio de Termo de Compromisso firmado entre o interessado e a Administração Pública estabelecendo as obrigações e os prazos para implementação das contrapartidas, deverá ser cumprida em um prazo máximo de 2 (dois) anos contados a partir da emissão do decreto de aprovação do projeto de parcelamento. 
+
 **(REDAÇÃO ACRESCENTADA PELA LEI COMPLEMENTAR Nº 241 DE 27 DE JUNHO DE 2025)**
 
-§ 4º O Poder Executivo regulamentará os requisitos mínimos relativos às obras civis e de infraestrutura urbana, os critérios de recebimento e da prestação de contas da contrapartida. <br>
+§ 4º O Poder Executivo regulamentará os requisitos mínimos relativos às obras civis e de infraestrutura urbana, os critérios de recebimento e da prestação de contas da contrapartida. 
+
 **(REDAÇÃO ACRESCENTADA PELA LEI COMPLEMENTAR Nº 241 DE 27 DE JUNHO DE 2025)**
 
-Art. 225 - As áreas classificadas pelo Zoneamento, Uso e Ocupação do Solo como Zona Parque, além do limite da APP, poderão ser parte das áreas institucionais e áreas verdes doadas ao Município na ocasião do parcelamento do solo, desde que limitada a 3% (três por cento) da área urbanizada total da gleba, mediante análise de conveniência e interesse público com parecer do Comitê Técnico de Análise de Uso e Ocupação do Solo e Diretrizes Viárias.<br>
+Art. 225 - As áreas classificadas pelo Zoneamento, Uso e Ocupação do Solo como Zona Parque, além do limite da APP, poderão ser parte das áreas institucionais e áreas verdes doadas ao Município na ocasião do parcelamento do solo, desde que limitada a 3% (três por cento) da área urbanizada total da gleba, mediante análise de conveniência e interesse público com parecer do Comitê Técnico de Análise de Uso e Ocupação do Solo e Diretrizes Viárias.
+
 (Redação alterada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 ~~Art. 225 - As áreas classificadas pelo Zoneamento, Uso e Ocupação do Solo como Zona Parque poderão ser parte das áreas institucionais e áreas verdes doadas ao Município na ocasião do parcelamento do solo.~~
@@ -1645,41 +1706,52 @@ Art. 228 - Os parcelamentos deverão obedecer as diretrizes viárias e a localiz
 
 Art. 229 - Vetado.
 
-~~Art. 229-A. O fracionamento ou a urbanização de glebas com área superior a 5.000m² (cinco mil metros quadrados) obrigará a doação de áreas institucionais ao Município, respeitando no mínimo 10% (dez por cento) da área urbanizável.~~ <br>
-~~**(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**~~<br>
+~~Art. 229-A. O fracionamento ou a urbanização de glebas com área superior a 5.000m² (cinco mil metros quadrados) obrigará a doação de áreas institucionais ao Município, respeitando no mínimo 10% (dez por cento) da área urbanizável.~~ 
+
+~~**(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**~~
+
 **(Revogado pela Lei Complementar 176, de 5 de agosto de 2020).**
 
 Art. 229-B. O fracionamento ou a urbanização de glebas com área inferior a 20.000,00m² (vinte mil metros quadrados) obrigará a doação de áreas institucionais ao Município, respeitando no mínimo 10% (dez por cento) da área urbanizável.
 
-Art. 230-B. A aprovação e funcionamento de empresas destinadas a produção, geração e distribuição de energia renovável, poderá ocorer em glebas não parceladas, desde que respeitadas as Diretrizes de Ocupação e apresentado Estudo de Impacto de Vizinhança, conforme previso nesta lei.<br>
+Art. 230-B. A aprovação e funcionamento de empresas destinadas a produção, geração e distribuição de energia renovável, poderá ocorer em glebas não parceladas, desde que respeitadas as Diretrizes de Ocupação e apresentado Estudo de Impacto de Vizinhança, conforme previso nesta lei.
+
 (Redação acrescentada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
-Art. 229-C. Glebas com área urbanizável inferior a 5.000,00m² (cinco mil metros quadrados) ficam isentas de doação de áreas públicas, desde que respeitem as Diretrizes de Parcelamento emitidas pela secretaria responsável.<br>
+Art. 229-C. Glebas com área urbanizável inferior a 5.000,00m² (cinco mil metros quadrados) ficam isentas de doação de áreas públicas, desde que respeitem as Diretrizes de Parcelamento emitidas pela secretaria responsável.
+
 (Redação acrescentada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 Art. 230 - As glebas com área igual ou superior a 20.000m² (vinte mil metros quadrados) e face superior a 200m (duzentos metros) estão sujeitas à obrigatoriedade do parcelamento prévio, nos termos estabelecidos por esta Lei.
 
-Art. 230-A. Fica permitido o funcionamento e instalações de pessoas jurídicas de direito privado em glebas ainda não parceladas, sem a necessidade de parcelamento prévio, desde no imóvel já exista pessoal jurídica em funcionamento em 14/12/2016. <br>
+Art. 230-A. Fica permitido o funcionamento e instalações de pessoas jurídicas de direito privado em glebas ainda não parceladas, sem a necessidade de parcelamento prévio, desde no imóvel já exista pessoal jurídica em funcionamento em 14/12/2016. 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 188](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111731 "Abrir Lei Complementar nº 188, de 2021 em nova aba"), DE 15 DE OUTUBRO DE 2021)**
 
-§ 1º. As novas construções e reformas serão permitidas nas glebas mencionadas no caput deste artigo desde que para atender a instalação e funcionamento de pessoas jurídicas. <br>
+§ 1º. As novas construções e reformas serão permitidas nas glebas mencionadas no caput deste artigo desde que para atender a instalação e funcionamento de pessoas jurídicas. 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 188](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111731 "Abrir Lei Complementar nº 188, de 2021 em nova aba"), DE 15 DE OUTUBRO DE 2021)**
 
-§ 2º. Os proprietários das glebas mencionadas no caput deste artigo que pretendam alterar a destinação do imóvel deverão atender aos requisitos de parcelamento constante desta lei, inclusive a transferência de áreas públicas. <br>
+§ 2º. Os proprietários das glebas mencionadas no caput deste artigo que pretendam alterar a destinação do imóvel deverão atender aos requisitos de parcelamento constante desta lei, inclusive a transferência de áreas públicas. 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 188](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111731 "Abrir Lei Complementar nº 188, de 2021 em nova aba"), DE 15 DE OUTUBRO DE 2021)**
 
-~~Art. 230 A – As pessoas jurídicas de direito privado que estejam em funcionamento até 14 de dezembro de 2016 em glebas poderão continuar funcionando e poderão realizar edificações com as devidas autorizações, sendo dispensável a obrigatoriedade de parcelamento.~~ <br>
+~~Art. 230 A – As pessoas jurídicas de direito privado que estejam em funcionamento até 14 de dezembro de 2016 em glebas poderão continuar funcionando e poderão realizar edificações com as devidas autorizações, sendo dispensável a obrigatoriedade de parcelamento.~~ 
+
 ~~**(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**~~
 
-~~§ 1º As pessoas jurídicas de direito privado que estejam em funcionamento nas glebas mencionadas no caput deste artigo e que encerrarem ou modificarem suas atividades estarão sujeitas ao parcelamento obrigatório.~~ <br>
+~~§ 1º As pessoas jurídicas de direito privado que estejam em funcionamento nas glebas mencionadas no caput deste artigo e que encerrarem ou modificarem suas atividades estarão sujeitas ao parcelamento obrigatório.~~ 
+
 ~~**(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**~~
 
-~~§ 2º Os proprietários das glebas mencionadas no caput deste artigo que pretendem alterar a destinação do imóvel deverão atender aos requisitos de parcelamento constante desta lei, inclusive a transferência de áreas públicas.~~<br>
+~~§ 2º Os proprietários das glebas mencionadas no caput deste artigo que pretendem alterar a destinação do imóvel deverão atender aos requisitos de parcelamento constante desta lei, inclusive a transferência de áreas públicas.~~
+
 ~~**(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**~~
 
 Art. 231 - As glebas com área de até 10.000 m2 (dez mil metros quadrados) estão isentas da obrigatoriedade do parcelamento prévio e as acima de 10.000 m2 (dez mil metros quadrados) até 20.000 m2 (vinte mil metros quadrados) também estão isentas da obrigatoriedade do parcelamento prévio, desde que garantida a destinação de, no mínimo, 15% (quinze por cento) da área urbanizável como área pública municipal.
 
-~~Art. 232 - Os loteamentos industriais também estão adstritos à doação de área institucional de habitação de interesse social. <br>~~ **(REVOGADO PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
+~~Art. 232 - Os loteamentos industriais também estão adstritos à doação de área institucional de habitação de interesse social. 
+~~ **(REVOGADO PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
 Art. 233 - Todas as glebas deverão obedecer as diretrizes viárias do Município, independentemente da doação de áreas institucionais.
 
@@ -1719,12 +1791,14 @@ Das Quadras
 
 Art. 242 - As faces das quadras resultantes de parcelamentos com fins residenciais e comerciais, de equipamentos de atendimento coletivo e serviços urbanos deverão ser igual ou menor a 250m (duzentos e cinquenta metros).
 
-Parágrafo único - Excepcionalmente é facultada a extensão máxima de quadra para até 500,00m (quinhentos metros) de face, desde que entrecortada por via de pedestres, respeitada a limitação de área de 24.000,00m².<br>
+Parágrafo único - Excepcionalmente é facultada a extensão máxima de quadra para até 500,00m (quinhentos metros) de face, desde que entrecortada por via de pedestres, respeitada a limitação de área de 24.000,00m².
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Parágrafo único. Excepcionalmente, é facultada a extensão máxima de quadra para até 400 m (quatrocentos metros) de face, desde que entrecortada por via de pedestres, respeitada a limitação de área de 20.000 m2 (vinte mil metros quadrados).~~ 
 
-Art. 243 - A área das quadras residenciais deverá ser igual ou menor a 18.000,00m² (dezoito mil metros quadrados), independente da forma de seu polígono.<br>
+Art. 243 - A área das quadras residenciais deverá ser igual ou menor a 18.000,00m² (dezoito mil metros quadrados), independente da forma de seu polígono.
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Art. 243 - A área das quadras residenciais deverá ser igual ou menor a 12.500m² (doze mil e quinhentos metros quadrados), independente da forma de seu polígono.~~ 
@@ -1751,22 +1825,28 @@ I – 12,00m (doze) nos lotes de esquina e no seu remanescente de meio de quadra
 
 II – 15,00m (quinze) para os lotes de meio de quadra;
 
-III – Em todos os casos os terrenos deverão apresentar área final 10% (dez por cento) superior à área mínima estabelecida para aquele zoneamento. <br>
+III – Em todos os casos os terrenos deverão apresentar área final 10% (dez por cento) superior à área mínima estabelecida para aquele zoneamento. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-Parágrafo Único. Excepcionalmente para loteamentos aprovados anteriormente a janeiro de 2002, fica permitido o desmembramento de lotes, localizados em zona de uso misto I, que apresentarem testada inferior a 12,00m, desde que os novos terrenos garantam, no mínimo: <br>
+Parágrafo Único. Excepcionalmente para loteamentos aprovados anteriormente a janeiro de 2002, fica permitido o desmembramento de lotes, localizados em zona de uso misto I, que apresentarem testada inferior a 12,00m, desde que os novos terrenos garantam, no mínimo: 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
-I.    Frente de 5,00 metros; <br>
+I.    Frente de 5,00 metros; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
-II.    Profundidade de 20,00 metros; <br>
+II.    Profundidade de 20,00 metros; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
-III.    Área de 150,00m²; <br>
+III.    Área de 150,00m²; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
-IV.    Comprovação que o Lote resultante consegue atender os parâmetros urbanísticos do zoneamento em vigor. <br>
+IV.    Comprovação que o Lote resultante consegue atender os parâmetros urbanísticos do zoneamento em vigor. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 176](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111730 "Abrir Lei Complementar nº 176, de 2020 em nova aba"), DE 5 DE AGOSTO DE 2020)**
 
 Art. 249-B. Admitir-se-á desmembramento de terrenos em Eixo de Integração III, em loteamentos aprovados anteriormente à vigência da Lei Complementar nº 124, de14 de dezembro de 2016, desde que atendam no mínimo:
@@ -1775,7 +1855,8 @@ Art. 249-B. Admitir-se-á desmembramento de terrenos em Eixo de Integração III
 
 •    Testada mínima de 6,00m (seis metros)
 
-•    Profundidade mínima de 20,00m (vinte metros). <br>
+•    Profundidade mínima de 20,00m (vinte metros). 
+
 (Redação acrescentada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 Art. 250 - Os lotes de esquina deverão apresentar largura/profundidade mínima de 13m (treze metros) e a aresta em chanfro ou arco.
@@ -1804,20 +1885,24 @@ IV - às demais disposições relativas a esta Lei quanto a todos os parâmetros
 
 Art. 256 - Nos Eixos de Integração I, II,e III os loteamentos de acesso restrito deverão respeitar uma faixa de 30 metros de afastamento para cada lado considerada a largura final do mesmo, não sendo permitido arruamento nesta faixa.
 
-Parágrafo único: É facultado ao empreendedor a substituição de até 50% (cinquenta por cento) da extensão de que trata o caput deste artigo por área intra-muro, desde que garanta permeabilidade visual.<br>
+Parágrafo único: É facultado ao empreendedor a substituição de até 50% (cinquenta por cento) da extensão de que trata o caput deste artigo por área intra-muro, desde que garanta permeabilidade visual.
+
 (Redação acrescentada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
-Art. 257. É facultada a execução de portaria de acesso ao parcelamento de acesso     restrito, junto aos eixos e vias arteriais, desde que apresente faixa de desaceleração     e extensão máxima de 100m (cem metros).<br>
+Art. 257. É facultada a execução de portaria de acesso ao parcelamento de acesso     restrito, junto aos eixos e vias arteriais, desde que apresente faixa de desaceleração     e extensão máxima de 100m (cem metros).
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018).**
 
 ~~Art. 257 - É facultada a execução de portaria de acesso ao parcelamento de acesso restrito, junto aos eixos e vias arteriais, desde que apresente faixa de desaceleração e extensão máxima de 20m (vinte metros).~~ 
 
-§ 1º. Admitir-se-á construção de guarita de segurança sobre ilha de no máximo 10,00m² (dez metros quadrados), associada ou não à cobertura de proteção sobre via pública de até 400,00m² (quatrocentros metros quadrados).<br>
+§ 1º. Admitir-se-á construção de guarita de segurança sobre ilha de no máximo 10,00m² (dez metros quadrados), associada ou não à cobertura de proteção sobre via pública de até 400,00m² (quatrocentros metros quadrados).
+
 (Redação alterada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 ~~Parágrafo único. Admiter-se-á construção de guarita de segurança sobre ilha de no     máximo 10,00m² (dez metros quadrados), associada ou não à cobertura de proteção     sobre via pública de até 300,00m² (trezentos metros quadrados).~~ 
 
-§ 2º. Os lotes destinados/ocupados exclusivamente por complexo de portaria e administração terão parâmetros urbanísticos flexibilizados exceto quanto à atividade, índice de ocupação, coeficiente de aproveitamento, permeabilidade e, desde que a estrutura seja executada integralmente dentro dos limites dos lotes.<br>
+§ 2º. Os lotes destinados/ocupados exclusivamente por complexo de portaria e administração terão parâmetros urbanísticos flexibilizados exceto quanto à atividade, índice de ocupação, coeficiente de aproveitamento, permeabilidade e, desde que a estrutura seja executada integralmente dentro dos limites dos lotes.
+
 (Redação acrescentada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 Art. 258 - Todos os loteamentos de acesso restrito deverão satisfazer as seguintes exigências:
@@ -1854,12 +1939,14 @@ VII - entre dois ou mais loteamentos de acesso restrito horizontais vizinhos, o 
 
 VIII - não poderão conflitar com o interesse de proteção dos aspectos paisagísticos e culturais.
 
-Art. 258-A Os loteamentos de acesso restrito devem fazer a reserva de, ao menos, 50% (cinquenta por cento) do seu perímetro ocupado por edificações de uso público ou particular, porém, fazendo às vezes de um loteamento urbano convencional, excluídos os acidentes naturais e áreas de preservação permanente, preferencialmente com a quadra contígua ao limite do fechamento. <br>
+Art. 258-A Os loteamentos de acesso restrito devem fazer a reserva de, ao menos, 50% (cinquenta por cento) do seu perímetro ocupado por edificações de uso público ou particular, porém, fazendo às vezes de um loteamento urbano convencional, excluídos os acidentes naturais e áreas de preservação permanente, preferencialmente com a quadra contígua ao limite do fechamento. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Art. 259 - Vetado.
 
-Art. 259-A Os loteamentos de acesso restrito devem observar os parâmetros e condicionantes estabelecidos para os Eixos de Integração I, II, III e de Desenvolvimento Econômico, considerada a obrigatoriedade de lotes voltados para a via pública. <br>
+Art. 259-A Os loteamentos de acesso restrito devem observar os parâmetros e condicionantes estabelecidos para os Eixos de Integração I, II, III e de Desenvolvimento Econômico, considerada a obrigatoriedade de lotes voltados para a via pública. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Art. 260 - As redes de infraestrutura devem estar próximas à gleba para sua expansão aos lotes do loteamento de acesso restrito.
@@ -1888,17 +1975,20 @@ Seção IV
 
 Do Condomínio Edilício
 
-Art. 271 - Os condomínios edilícios horizontais, em loteamento aprovados anteriormente à vigência da Lei Complementar nº 124, de14 de dezembro de 2016, estão adstritos à construção de habitação seriada e não ultrapassarão o tamanho de 40.000m² (quarenta mil metros quadrados) de área urbanizável.<br>
+Art. 271 - Os condomínios edilícios horizontais, em loteamento aprovados anteriormente à vigência da Lei Complementar nº 124, de14 de dezembro de 2016, estão adstritos à construção de habitação seriada e não ultrapassarão o tamanho de 40.000m² (quarenta mil metros quadrados) de área urbanizável.
+
 (Redação alterada pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 ~~Art. 271 - Os condomínios edilícios horizontais estão adstritos à construção de habitação seriada e não ultrapassarão o tamanho de 20.000m² (vinte mil metros quadrados) de área urbanizável.~~
 
 Art. 272 - Vetado.
 
-~~Art. 272-A Nos Eixos de Integração I, II, III e de Desenvolvimento Econômico, os Condomínios Edilícios deverão respeitar uma faixa de 30m (trinta metros) de afastamento para cada lado considerada a largura final do mesmo, não sendo permitido arruamento nesta faixa. **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**~~ <br>
+~~Art. 272-A Nos Eixos de Integração I, II, III e de Desenvolvimento Econômico, os Condomínios Edilícios deverão respeitar uma faixa de 30m (trinta metros) de afastamento para cada lado considerada a largura final do mesmo, não sendo permitido arruamento nesta faixa. **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**~~ 
+
 **(REVOGADO PELA [Lei Complementar nº 241](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111732 "Abrir Lei Complementar nº 241, de 2025 em nova aba"), DE 27 DE JUNHO DE 2025)**
 
-Art. 273. É facultada a execução de portaria de acesso aos condomínios edilícios horizontais, junto aos eixos de integração, desde que apresente faixa de desaceleração e extensão máxima de 100 m (cem metros).<br>
+Art. 273. É facultada a execução de portaria de acesso aos condomínios edilícios horizontais, junto aos eixos de integração, desde que apresente faixa de desaceleração e extensão máxima de 100 m (cem metros).
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Art. 273 - É facultada a execução de portaria de acesso aos condomínios edilícios horizontais, junto aos Eixos de Integração, desde que apresente faixa de desaceleração e extensão máxima de 20m (vinte metros).~~ 
@@ -1991,7 +2081,8 @@ d) quando for o caso, demonstração do impacto no sistema de coleta e destinaç
 
 II - laudo de viabilidade técnica de implantação de rede de distribuição de energia elétrica e comunicações.
 
-~~Art. 285 - Fica vedado o loteamento de parte de uma gleba sem antes proceder ao desmembramento da parte que será parcelada.~~<br>
+~~Art. 285 - Fica vedado o loteamento de parte de uma gleba sem antes proceder ao desmembramento da parte que será parcelada.~~
+
 (Revogado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 Art. 286 - O poder público pode solicitar complementação de informações e/ou pareceres de outros órgãos de acordo com a localização e características do loteamento proposto.
@@ -2046,13 +2137,16 @@ VI - ensaio de sondagem geotécnica;
 
 VII - laudos/atestados de viabilidade técnica para execução das redes de saneamento ambiental:
 
-VIII - Laudos de Engenharia conforme Lei Federal nº 6.766 de 31 de dezembro de 1979, acompanhados do registro no Conselho de Arquitetura e Urbanismo e/ou Conselho Regional e Engenharia e Agronomia do Estado de Goiás; <br>
+VIII - Laudos de Engenharia conforme Lei Federal nº 6.766 de 31 de dezembro de 1979, acompanhados do registro no Conselho de Arquitetura e Urbanismo e/ou Conselho Regional e Engenharia e Agronomia do Estado de Goiás; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-IX – Licenciamento Ambiental; <br>
+IX – Licenciamento Ambiental; 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)** 
 
-X – Laudos de Viabilidade Técnica de água, esgotamento sanitário e energia elétrica emitidos pelas concessionárias. <br>
+X – Laudos de Viabilidade Técnica de água, esgotamento sanitário e energia elétrica emitidos pelas concessionárias. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Art. 293 - Todas as plantas conterão informações de topografia, curvas de nível de metro em metro, indicação e perfis das declividades, das áreas não parceláveis e de toda as linhas de escoamento das águas pluviais.
@@ -2125,7 +2219,8 @@ Art. 299 A. Fica permitido o descaucionamento parcial de lotes para sua comercia
 
  § 2º. Após compatibilização das informações, será emitido Decreto com o descaucionamento dos referidos lotes.
 
-§ 3º.  O descaucionamento parcial será previsto para os casos de garantia de imóvel por escritura pública, carta fiança, seguro garantia ou qualquer outro meio permitido por Lei.<br>
+§ 3º.  O descaucionamento parcial será previsto para os casos de garantia de imóvel por escritura pública, carta fiança, seguro garantia ou qualquer outro meio permitido por Lei.
+
 (Artigo acrescentado pela Lei Complementar nº 226, de 14 de dezembro de 2023).
 
 Art. 300 - Tendo sido cumpridas todas as exigências, o Poder Executivo expedirá Decreto de Criação do Loteamento, o qual deverá conter:
@@ -2158,7 +2253,8 @@ VI - do sistema de coleta e destinação de esgotos sanitários, indicando o loc
 
 Art. 304 - O alvará de implantação do loteamento será concedido ao interessado acompanhado de uma cópia do projeto devidamente autenticada.
 
-Art. 304-A É proibida a comercialização de terrenos antes do registro do decreto de aprovação  do loteamento, sob pena de aplicação de multa e revogação do decreto de aprovação do mesmo.<br>
+Art. 304-A É proibida a comercialização de terrenos antes do registro do decreto de aprovação  do loteamento, sob pena de aplicação de multa e revogação do decreto de aprovação do mesmo.
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Art. 305 - O alvará de Implantação do loteamento referente a todas as obras de implantação e de infraestrutura terá validade de 2 (dois) anos e vencido esse prazo, sem que tenham sido iniciadas as obras, será revogada a licença para implantação do mesmo.
@@ -2225,7 +2321,8 @@ X – Anotação de Responsabilidade Técnica (ART) ou Registro de Responsabilid
 
 XI – comprovante de pagamento da taxa administrativa prevista na legislação tributária municipal.
 
-Parágrafo único. Poderão ser exigidos outros documentos técnicos complementares, mediante justificativa expressa do órgão municipal de planejamento urbano, quando necessários à adequada análise do pedido.<br>
+Parágrafo único. Poderão ser exigidos outros documentos técnicos complementares, mediante justificativa expressa do órgão municipal de planejamento urbano, quando necessários à adequada análise do pedido.
+
 (Redação alterada pela Lei Complementar nº 249, de 18 de junho de 2026).
 
 ~~Art. 312 - O procedimento de aprovação dos desmembramentos e remembramentos consiste das seguintes etapas:~~
@@ -2234,7 +2331,8 @@ Parágrafo único. Poderão ser exigidos outros documentos técnicos complementa
 
 ~~II - aprovação do desmembramento e remembramentos.~~
 
-Art. 313. O órgão municipal de planejamento urbano procederá à análise do pedido, verificando a conformidade com os parâmetros urbanísticos, ambientais e cadastrais estabelecidos nesta Lei Complementar e na legislação correlata, emitindo, ao final, Parecer Técnico de Avaliação do Projeto de Desmembramento ou Remembramento.<br>
+Art. 313. O órgão municipal de planejamento urbano procederá à análise do pedido, verificando a conformidade com os parâmetros urbanísticos, ambientais e cadastrais estabelecidos nesta Lei Complementar e na legislação correlata, emitindo, ao final, Parecer Técnico de Avaliação do Projeto de Desmembramento ou Remembramento.
+
 (Redação alterada pela Lei Complementar nº 249, de 18 de junho de 2026).
 
 ~~Art. 313 - A solicitação do Parecer Técnico de Avaliação do Projeto de Desmembramento/Remembramento ocorre por meio de requerimento específico e dos seguintes documentos, em duas vias assinadas pelo proprietário e pelo responsável técnico.~~
@@ -2251,7 +2349,8 @@ IV - quadro comparativo de áreas do imóvel antes e após a aprovação.
 
 § 1º A certidão de que trata o _caput_ deverá ser apresentada pelo interessado ao Cartório de Registro de Imóveis competente no prazo de 180 (cento e oitenta) dias, contados da data de sua emissão, sob pena de caducidade.
 
-§ 2º Decorrido o prazo previsto no § 1º sem o devido registro, o interessado deverá protocolizar novo pedido, observadas as exigências legais vigentes à época, inclusive quanto ao recolhimento das taxas pertinentes.<br>
+§ 2º Decorrido o prazo previsto no § 1º sem o devido registro, o interessado deverá protocolizar novo pedido, observadas as exigências legais vigentes à época, inclusive quanto ao recolhimento das taxas pertinentes.
+
 (Redação alterada pela Lei Complementar nº 249, de 18 de junho de 2026).
 
 ~~Art. 314 - Projeto de Desmembramento/Remembramento, em 4 (quatro) vias, contendo:~~
@@ -2280,18 +2379,22 @@ IV - quadro comparativo de áreas do imóvel antes e após a aprovação.
 
 ~~XII - Anotação de Responsabilidade Técnica dos profissionais responsáveis pelo Projeto de Desmembramento/Remembramento, junto ao CREA do Estado de Goiás ou ao CAU.~~
 
-~~Art. 315 - O desmembramento de faixa ou porção de terreno, para incorporação a outro lote somente será aceito quando todos os novos lotes gerados respeitarem os dispositivos do Zoneamento, Uso e Ocupação do Solo quanto aos parâmetros urbanísticos estabelecidos para a zona ou eixo de adensamento onde se encontra a área.<br>
+~~Art. 315 - O desmembramento de faixa ou porção de terreno, para incorporação a outro lote somente será aceito quando todos os novos lotes gerados respeitarem os dispositivos do Zoneamento, Uso e Ocupação do Solo quanto aos parâmetros urbanísticos estabelecidos para a zona ou eixo de adensamento onde se encontra a área.
+
 ~~(Revogado pela Lei Complementar nº 249, de 18 de junho de 2026).
 
 Art. 316 - Vetado.
 
-~~Art. 317 - Consideram-se indivisíveis em novos lotes as porções de terra inferiores a 180m² (cento e oitenta metros quadrados), consideradas as exceções estabelecidas nesta Lei.~~<br>
+~~Art. 317 - Consideram-se indivisíveis em novos lotes as porções de terra inferiores a 180m² (cento e oitenta metros quadrados), consideradas as exceções estabelecidas nesta Lei.~~
+
 (Revogado pela Lei Complementar nº 249, de 18 de junho de 2026).
 
-~~Art. 318 - Nas áreas classificadas como Zonas Especiais de Interesse Social, os lotes podem ser desmembrados até a área mínima de 125m² (cento e vinte e cinco metros quadrados), devendo ser respeitados todos os parâmetros urbanísticos previstos para esta zona.~~<br>
+~~Art. 318 - Nas áreas classificadas como Zonas Especiais de Interesse Social, os lotes podem ser desmembrados até a área mínima de 125m² (cento e vinte e cinco metros quadrados), devendo ser respeitados todos os parâmetros urbanísticos previstos para esta zona.~~
+
 (Revogado pela Lei Complementar nº 249, de 18 de junho de 2026).
 
-~~Art. 319 - Tendo sido executado de acordo com o “Parecer Técnico de Avaliação de Desmembramento/Remembramento”, o órgão público competente emitirá, num prazo máximo de 60 (sessenta) dias, o Decreto de Desmembramento/Remembramento.~~<br>
+~~Art. 319 - Tendo sido executado de acordo com o “Parecer Técnico de Avaliação de Desmembramento/Remembramento”, o órgão público competente emitirá, num prazo máximo de 60 (sessenta) dias, o Decreto de Desmembramento/Remembramento.~~
+
 (Revogado pela Lei Complementar nº 249, de 18 de junho de 2026).
 
 ~~Art. 320 - O Decreto de Desmembramento/Remembramento deverá conter:~~
@@ -2300,14 +2403,16 @@ Art. 316 - Vetado.
 
 ~~II - localização - bairro, rua, quadra e lote - e planta de situação - mapa;~~
 
-~~III - tabela de áreas do terreno anteriormente e após o Desmembramento/Remembramento.~~<br>
+~~III - tabela de áreas do terreno anteriormente e após o Desmembramento/Remembramento.~~
+
 (Revogado pela Lei Complementar nº 249, de 18 de junho de 2026).
 
 ~~Art. 321 - Embora satisfazendo as exigências desta Lei, qualquer projeto de parcelamento pode ser recusado ou alterado, total ou parcialmente, pelo Município, tendo em vista:~~
 
 ~~I - as diretrizes para o Uso do Solo Municipal, estabelecidas em eventual revisão do Zoneamento e de Uso e Ocupação do Solo ou de projetos urbanísticos específicos;~~
 
-~~II - a defesa dos recursos naturais ou paisagísticos e do Patrimônio Natural do Município.<br>
+~~II - a defesa dos recursos naturais ou paisagísticos e do Patrimônio Natural do Município.
+
 ~~(Revogado pela Lei Complementar nº 249, de 18 de junho de 2026).
 
 Subseção III
@@ -3012,19 +3117,24 @@ Art. 427 – A TDC terá seu cálculo segundo a localização do imóvel a ser d
 
 Art. 428 – As restrições de potencial construtivo, resultantes da transferência total ou parcial de potencial construtivo, deverão constar na certidão de registro do imóvel.
 
-Art. 428-A. Para que os imóveis receptores estejam aptos a atingir o coeficiente do Eixo de Integração III, a transferência do direito de construir oriundo da Zona Parque deve corresponder a, no mínimo, 50% da área receptora e nunca inferior a 1.000 m² (hum mil metros quadrados). <br>
+Art. 428-A. Para que os imóveis receptores estejam aptos a atingir o coeficiente do Eixo de Integração III, a transferência do direito de construir oriundo da Zona Parque deve corresponder a, no mínimo, 50% da área receptora e nunca inferior a 1.000 m² (hum mil metros quadrados). 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-Art. 428-B. O proprietário pode complementar o índice através do pagamento de Licença Onerosa para Construir. <br>
+Art. 428-B. O proprietário pode complementar o índice através do pagamento de Licença Onerosa para Construir. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-Art. 428-C. A TDC isenta o pagamento de licença onerosa. <br>
+Art. 428-C. A TDC isenta o pagamento de licença onerosa. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-Art. 428-D. O controle e autorização da aplicação da transferência de direito de construir será feita pelo órgão de planejamento em consonância com os princípios do Plano Diretor, conforme normatização específica. <br>
+Art. 428-D. O controle e autorização da aplicação da transferência de direito de construir será feita pelo órgão de planejamento em consonância com os princípios do Plano Diretor, conforme normatização específica. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
-Art. 428-E. Os imóveis arrecadados através de TDC que passarem à propriedade do Município poderão ser empregados diretamente pela Administração ou serem objeto de concessão de direito real de uso especialmente para fins de programas habitacionais ou para permuta para a manutenção de áreas verdes. <br>
+Art. 428-E. Os imóveis arrecadados através de TDC que passarem à propriedade do Município poderão ser empregados diretamente pela Administração ou serem objeto de concessão de direito real de uso especialmente para fins de programas habitacionais ou para permuta para a manutenção de áreas verdes. 
+
 **(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 Seção V
@@ -3187,7 +3297,8 @@ Art. 469 – As modificações em projetos licenciados, dentro da validade do al
 
 Art. 470 – Ficam garantidas as condições, obrigatoriedades e coeficiente de aproveitamento da Lei 3.247, de 23 de dezembro de 2014, para o loteamento Recanto do Cerrado, com exceção da exigência de instalação de atividades públicas e/ou econômicas no embasamento das edificações ao longo dos eixos de integração.
 
-Art. 471 – Fica concedido o prazo de até 180 (cento e oitenta dias) dias após a aprovação desta Lei de Plano Diretor para protocolo de projetos na legislação anterior, desde que o mesmo não comprometa a instalação dos Eixos e Zona Parque. <br>
+Art. 471 – Fica concedido o prazo de até 180 (cento e oitenta dias) dias após a aprovação desta Lei de Plano Diretor para protocolo de projetos na legislação anterior, desde que o mesmo não comprometa a instalação dos Eixos e Zona Parque. 
+
 **(REDAÇÃO ALTERADA PELA [Lei Complementar nº 152](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111720 "Abrir Lei Complementar nº 152, de 2018 em nova aba"), DE 9 DE OUTUBRO DE 2018)**
 
 ~~Art. 471 – Fica concedido o prazo de até 30 (trinta) dias após a aprovação desta Lei de Plano Diretor para protocolo de projetos na legislação anterior, desde que o mesmo não comprometa a instalação dos Eixos e Zona Parque.~~ 
@@ -3238,13 +3349,16 @@ Art. 486 – Revogam-se todas as disposições contrárias a esta Lei a partir d
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 15 dias do mês de dezembro do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Secretario Municipal de Planejamento
 
 ANEXO

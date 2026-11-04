@@ -1,5 +1,3 @@
-###DEC-006165-0-000-23-07-2007@@@
-
 DECRETO Nº 6.165, DE 23 DE JULHO DE 2007.
 
 Acresce inciso ao art. 3o do Decreto no 3.564, de 17 de agosto de 2000, que dispõe sobre a estrutura e o funcionamento do Conselho de Aviação Civil - CONAC.

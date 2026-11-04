@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6a110400-3f69-4975-893e-3db7d88c214d/texto#nowhere)
 
-###DEL-001312-0-000-15-02-1974@@@
-
 # DECRETO-LEI Nº 1.312, DE 15 DE FEVEREIRO DE 1974
 
 Autoriza o Poder Executivo a dar a garantia do Tesouro Nacional a operações de créditos obtidos no exterior, bem como, a contratar créditos em moeda estrangeira nos limites que específica, consolida inteiramente a legislação em vigor sobre a matéria e dá outras providências.

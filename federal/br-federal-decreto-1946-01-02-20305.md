@@ -1,32 +1,30 @@
-###DEC-020305-0-000-02-01-1946@@@
+**DECRETO Nº 20.305, DE 2 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.305, DE 2 DE JANEIRO DE 1946.</strong>
+***Aprova o Regimento da Biblioteca da Secretaria de Estado da Educação e Saúde.***
 
-<em><strong>Aprova o Regimento da Biblioteca da Secretaria de Estado da Educação e Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, alínea *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, alínea <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Biblioteca da Secretaria de Estado de Educação e Saúde, que assinado pelo Ministro da Educação e Saúde, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Biblioteca da Secretaria de Estado de Educação e Saúde, que assinado pelo Ministro da Educação e Saúde, com êste baixa.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 2 de janeiro de 1946, 125.º da Independência e 58.º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Raul Leitão da Cunha.
 
-<strong>REGIMENTO DA BIBLIOTECA DA SECRETARIA DE ESTADO DE EDUCAÇÃO E SAÚDE</strong>
+**REGIMENTO DA BIBLIOTECA DA SECRETARIA DE ESTADO DE EDUCAÇÃO E SAÚDE**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E COMPETÊNCIA</em>
+*DA FINALIDADE E COMPETÊNCIA*
 
-<strong>Art</strong>. 1º A Biblioteca da Secretaria de Estado da Educação e Saúde, subordinado ao Ministro, tem por finalidade manter organizadas as coleções de publicações nacionais e estrangeiras sôbre assuntos relacionados com o Ministério da Educação e Saúde, competindo-lhe:
+**Art**. 1º A Biblioteca da Secretaria de Estado da Educação e Saúde, subordinado ao Ministro, tem por finalidade manter organizadas as coleções de publicações nacionais e estrangeiras sôbre assuntos relacionados com o Ministério da Educação e Saúde, competindo-lhe:
 
 I - manter franqueado ao público o acesso às estantes de livros e revistas e facilitar-lhe o uso dos mesmos;
 
@@ -36,23 +34,23 @@ III - cobrar integralmente indenização de quem cometer dano ou extravio de mat
 
 IV - impedir que consulte livro ou revista do seu acervo o consulente que se negar ao pagamento de indenização devida, ou desrespeitar disposições reguladoras dos seus serviços.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2.º A Biblioteca compõe-se de:
+**Art**. 2.º A Biblioteca compõe-se de:
 
 Seção de classificação e Catalogação;
 
 Seção de Referencia;
 
-<strong>Art</strong>. 3.º A Biblioteca terá um diretor subordinado imediatamente ao Ministro; as seções terão chefes subordinados imediatamente ao diretor.
+**Art**. 3.º A Biblioteca terá um diretor subordinado imediatamente ao Ministro; as seções terão chefes subordinados imediatamente ao diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 4º À Seção de Classificação Catalogação compete:
+**Art**. 4º À Seção de Classificação Catalogação compete:
 
 I - providenciar sôbre aquisição de publicações;
 
@@ -72,7 +70,7 @@ VI - preparar as publicações para empréstimos;
 
 VII - coligir os dados estatísticos relativos aos trabalhos realizados na seção.
 
-<strong>Art</strong>. 5º À Seção de referência compete:
+**Art**. 5º À Seção de referência compete:
 
 I - selecionar as publicações a serem adiquiridas;
 
@@ -86,13 +84,13 @@ V - fazer publicidade das coleções  e atividades da Biblioteca;
 
 VI - preparar bibliografias para serem distribuídas entre as pessoas a queem possa interessar o conhecimento do material bibliográfico existente.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<em>Do diretor</em>
+*Do diretor*
 
-<strong>Art</strong>. 6º Ao diretor incube:
+**Art**. 6º Ao diretor incube:
 
 I - dirigir a Biblioteca;
 
@@ -130,9 +128,9 @@ XVI - providenciar sôbre a organização da sinopse e do índice de leis, regul
 
 XVII - autenticar documentos e respectivas cópias, que tenha de ser submetidos a deliberação do Ministro.
 
-<em>Dos Chefes de Seção</em>
+*Dos Chefes de Seção*
 
-<strong>Art</strong>. 7º Aos chefes de seção incumbe:
+**Art**. 7º Aos chefes de seção incumbe:
 
 I - dirigir os trabalhos dos órgãos a seu cargo;
 
@@ -152,31 +150,31 @@ VIII - autenticar documentos e respectivas cópias, que tenham de ser submetidos
 
 IX - impedir, no recinto do ógão que dirige, a presença de pessoas estranhas ao mesmo e que os servidores se entretenham com o assunto não referente ao serviço.
 
-<em>Dos demais servidores</em>
+*Dos demais servidores*
 
-<strong>Art</strong>. 8º Aos servidores que não têm atribuições especificada neste regimento cabe a execução dos trabalhos próprios dos seus cargos ou das suas funções que forem determinados pelos seus chefes respectivos.
+**Art**. 8º Aos servidores que não têm atribuições especificada neste regimento cabe a execução dos trabalhos próprios dos seus cargos ou das suas funções que forem determinados pelos seus chefes respectivos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 9º A Biblioteca terá lotação fixada em decreto.
+**Art**. 9º A Biblioteca terá lotação fixada em decreto.
 
 Parágrafo único. Além dos funcionários lotados, a Biblioteca poderá ter pessoal extraordinário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 10. O horário normal de trabalho da Biblioteca será estabelecido pelo Ministro, respeitado o número de horas semanais fixado para o serviço público.
+**Art**. 10. O horário normal de trabalho da Biblioteca será estabelecido pelo Ministro, respeitado o número de horas semanais fixado para o serviço público.
 
 Parágrafo único. O diretor está isento de assinatura de ponto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 11.Serão substituídas nas faltas ocasionais e nos impedimentos transitórios:
+**Art**. 11.Serão substituídas nas faltas ocasionais e nos impedimentos transitórios:
 
 a) o diretor, pelo chefe de seção previamente designado pelo Ministro;
 
@@ -184,4 +182,4 @@ b) o chefe de seção, por um dos respectivos subordinados, prèviamente designa
 
 Rio de Janeiro, 29 de dezembro de 1945.
 
-<strong>RAUL LEITÃO DA CUNHA</strong>
+**RAUL LEITÃO DA CUNHA**

@@ -2,8 +2,7 @@
 
 > **Anexo recuperado — Presidência da República — Planalto.** Fonte do anexo: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12807.htm (capturada em 2026-11-03T17:50:53Z, SHA-256 da fonte `d57a1fd604ff5e2a2c09113a18072882d637ad9fbb9b58fdfd9e898cc43aa95d`, SHA-256 do conteúdo sem script de proteção `0c756ee548fe8556fe69e5b34f2d4521f1123fa363aa0d9ff945fbc04098ed7b`). Snapshot: `provas/decretos-atualizacao-14133/fontes/planalto-d12807.htm.xz`. Prova de cobertura de todas as linhas: `provas/decretos-atualizacao-14133/cobertura-anexos.json`.
 >
-> Este texto não substitui o publicado no DOU de 30.12.2025.
->
+>>
 > Na captura, a página do Planalto não aplica riscado de revogação a este ato. O acervo não certifica vigência.
 >
 > O corpo dos artigos e assinaturas abaixo preserva a redação já publicada neste acervo (originalmente proveniente de normas.leg.br / Senado). O anexo de valores foi recuperado da página HTML do Planalto (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12807.htm). Diferenças editoriais da página do Planalto em relação a esse corpo — faixas de Vigência/Revogado, brasão e links internos do Planalto — não foram incorporadas ao corpo já publicado. O aviso de que o texto não substitui o DOU, presente na fonte, foi colocado entre as assinaturas e o anexo, como na página oficial, e também consta nesta nota.
@@ -36,11 +35,7 @@ Brasília, 29 de dezembro de 2025; 204º da Independência e 137º da República
 
 LUIZ INÁCIO LULA DA SILVA
 
-Cilair Rodrigues de Abreu
-
-Este texto não substitui o publicado no DOU de 30.12.2025.
-
-ANEXO
+Cilair Rodrigues de AbreuANEXO
 
 ATUALIZAÇÃO DOS VALORES ESTABELECIDOS NA LEI Nº 14.133, DE 1º DE ABRIL DE 2021
 

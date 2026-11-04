@@ -1,5 +1,3 @@
-###DEC-073521-0-000-21-01-1974@@@
-
 DECRETO Nº 73.521, DE 21 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 64.958, de 7 de agosto de 1969, através do qual foi concedido à Magnesita S.A. o direito de lavrar areia quartzosa, no Município de Bom Jesus do Amparo, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-000781-0-000-22-08-1969@@@
-
 DECreto-LEI Nº 781, DE 22 DE AGÔSTO DE 1969
 
 Provê sôbre o funcionamento, como fundação de direito privado, da Faculdade Católica de Medicina de Pôrto Alegre, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082710-0-000-23-11-1978@@@
-
 Decreto nº 82.710, de 23 de novembro de 1978.
 
 Altera dispositivos do Decreto nº 72.336, de 5 de junho de 1973, que dispõe sobre o Grupo-Artesanato.

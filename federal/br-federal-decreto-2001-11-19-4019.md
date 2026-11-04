@@ -1,5 +1,3 @@
-###DEC-004019-0-000-19-11-2001@@@
-
 DECRETO Nº 4.019, DE 19 DE NOVEMBRO DE 2001
 
 Transfere a Unidade de Ensino Descentralizada de Petrolina, do Centro Federal de Educação Tecnológica de Pernambuco, para o Centro Federal de Educação Tecnológica de Petrolina, e dá outras providências.

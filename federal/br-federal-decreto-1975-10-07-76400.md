@@ -1,5 +1,3 @@
-###DEC-076400-0-000-07-10-1975@@@
-
 DECRETO Nº 76.400, DE 7 DE OUTUBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora de Goiânia Ltda., para que a Fundação Padre Pelágio passe a executar na Cidade de Goiânia, Estado de Goiás, serviço de radiodifusão sonora em onda média de âmbito regional

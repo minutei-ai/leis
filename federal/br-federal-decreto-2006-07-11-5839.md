@@ -1,5 +1,3 @@
-###DEC-005839-0-000-11-07-2006@@@
-
 DECRETO Nº 5.839, DE 11 DE JULHO DE 2006.
 
 Dispõe sobre a organização, as atribuições e o processo eleitoral do Conselho Nacional de Saúde - CNS e dá outras providências.
@@ -117,5 +115,3 @@ Brasília, 11 de julho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
            Jose Agenor Álvares da Silva
-
-Este texto não substitui o publicado no D.O.U. de 12.7.2006

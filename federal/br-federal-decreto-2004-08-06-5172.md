@@ -1,5 +1,3 @@
-###DEC-005172-0-000-06-08-2004@@@
-
 DECRETO Nº 5.172 DE 6 DE AGOSTO DE 2004
 
 Altera o § 1º do art. 22 do Decreto nº 4.494, de 3 de dezembro de 2002, para fixar alíquota de incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF, nas hipóteses que menciona.

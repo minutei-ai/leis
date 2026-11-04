@@ -1,5 +1,3 @@
-###DEC-052325-0-000-07-08-1963@@@
-
 DECRETO Nº 52.325, DE 7 DE AGôSTO DE 1963.
 
 Regulamenta o 2º do art. 34 da Lei nº 4.239, de 27 de junho de 1963 e dá outras providências.

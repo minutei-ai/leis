@@ -1,7 +1,3 @@
-1
-
-###DEC-098443-0-000-24-11-1989@@@
-
 DECRETO N° 98.443, DE 24 DE NOVEMBRO DE 1989
 
 Dispõe sobre a fixação e o reajustamento das tarifas de transporte ferroviário de carga.

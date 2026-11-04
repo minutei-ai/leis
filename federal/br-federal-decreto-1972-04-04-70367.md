@@ -1,5 +1,3 @@
-###DEC-070367-0-000-04-04-1972@@@
-
 DECRETO Nº 70.367, DE 4 DE ABRIL DE 1972.
 
 Autoriza o funcionamento da Faculdade de Formação de Professores de 1º grau, de Penedo, Alagoas.

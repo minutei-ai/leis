@@ -1,5 +1,3 @@
-###DEC-005167-0-000-03-08-2004@@@
-
 DECRETO Nº 5.167 DE 3 DE AGOSTO DE 2004
 
 Estende o prazo previsto no art. 3º do Decreto nº 5.030, de 31 de março de 2004, que institui o Grupo de Trabalho Interministerial para elaborar proposta de medida legislativa e outros instrumentos para coibir a violência doméstica contra a mulher.

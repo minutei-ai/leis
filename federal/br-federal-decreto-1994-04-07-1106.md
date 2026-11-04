@@ -1,7 +1,3 @@
-1
-
-###DEC-001106-0-000-07-04-1994@@@
-
 DECRET0 N° 1.106, DE 7 DE ABRIL DE 1994
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados incidente sobre os produtos classificados nas posições que menciona.

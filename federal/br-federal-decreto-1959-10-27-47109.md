@@ -1,5 +1,3 @@
-###DEC-047109-0-000-27-10-1959@@@
-
 DECRETO Nº 47.109, DE 27 DE outubro DE 1959.
 
 Autoriza o cidadão brasileiro José da Cunha Vale a pesquisar mica e pedras semi-preciosas no município de Jequintinhonha, Estado de Minas Gerais.

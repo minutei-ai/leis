@@ -1,5 +1,3 @@
-###DEC-083237-0-000-06-03-1979@@@
-
 Decreto nº 83.237, de 06 de março de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Brasileira de Energia Elétrica - CBEE, no Estado do Rio de Janeiro.

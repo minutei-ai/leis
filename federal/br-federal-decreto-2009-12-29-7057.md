@@ -1,5 +1,3 @@
-###DEC-007057-0-000-29-12-2009@@@
-
 DECRETO Nº 7.057 DE 29 DE DEZEMBRO DE 2009.
 
 Prorroga a validade dos restos a pagar não processados inscritos nos exercícios financeiros de 2007 e 2008.

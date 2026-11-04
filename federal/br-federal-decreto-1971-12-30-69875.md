@@ -1,5 +1,3 @@
-###DEC-069875-0-000-30-12-1971@@@
-
 decreto nº 69.875 - de 30 de dezembro de 1971
 
 Redistribui, com a respectiva ocupante cargo do Ministério da Agricultura para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

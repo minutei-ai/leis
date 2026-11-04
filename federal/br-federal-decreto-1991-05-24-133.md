@@ -1,5 +1,3 @@
-###DEC-000133-0-000-24-05-1991@@@
-
 DECRETO N° 133, DE 24 DE MAIO DE 1991
 
 Promulga a Emenda à alínea a, do parágrafo 3 do Artigo XI, da Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção, de 3 de março de 1973.

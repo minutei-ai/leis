@@ -1,7 +1,3 @@
-1
-
-###DEC-001049-0-000-25-01-1994@@@
-
 DECRETO N° 1.049, DE 25 DE JANEIRO DE 1994
 
 Define normas para a implantação do Sistema de Proteção da Amazônia SIPAM.

@@ -1,5 +1,3 @@
-###DEC-057027-0-000-11-10-1965@@@
-
 DECRETO Nº 57.027, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro José Pereira de Queiroz a pesquisar diamantes e ouro, nos municípios de Itamarandiba e Bocaiúva, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-069329-0-000-07-10-1971@@@
-
 DECRETO Nº 69.329, DE 7 DE OUTUBRO DE 1971.
 
 Renova a autorização prevista nos Decretos números 64.399, de 24 de abril de 1969, 65.822, de 8 de dezembro de 1969 e 66.077, de 15 de janeiro de 1970.

@@ -1,5 +1,3 @@
-###DEC-045908-0-000-28-04-1959@@@
-
 DECRETO Nº 45.908, DE 28 DE ABRIL DE 1959.
 
 Autoriza a S. A. Mineração da Trindade a pesquisar bauxita no município de Mariana, Estado de Minas Gerais.

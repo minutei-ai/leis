@@ -1,5 +1,3 @@
-###DEL-004439-0-000-06-07-1942@@@
-
 DECRETO-LEI N. 4.439 – DE 6 JULHO DE 1942
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de 900:000$0, para despesas com material destinado ao Território do Acre

@@ -10,7 +10,8 @@ Art. 1º - Fica instituída a Região Metropolitana de Feira de Santana - RMFS, 
 
 § 2º - Incluem-se como Área de Expansão Metropolitana de Feira de Santana os municípios de Anguera, Antônio Cardoso, Candeal, Coração de Maria, Ipecaetá, Santa Bárbara, Santanópolis, Serra Preta e Riachão do Jacuípe.
 
-Redação de acordo a Lei complementar 45 de 05 de julho de 2018.<br>
+Redação de acordo a Lei complementar 45 de 05 de julho de 2018.
+
 Redação original § 2º - "Incluem-se como Área de Expansão Metropolitana de Feira de Santana os Municípios de Anguera, Antônio Cardoso, Candeal, Coração de Maria, Ipecaetá, Irará, Santa Bárbara, Santanópolis, Serra Preta e Riachão do Jacuípe."
 
 Art. 2º - A organização, o planejamento e a gestão da Região Metropolitana de Feira de Santana têm como finalidades precípuas a promoção do desenvolvimento socioeconômico integrado, equilibrado e sustentável no âmbito metropolitano e a redução das desigualdades entre os Municípios que a compõem.

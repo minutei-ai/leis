@@ -1,5 +1,3 @@
-###DEC-068078-0-000-18-01-1971@@@
-
 DECRETO Nº 68.078, de 18 de Janeiro de 1971.
 
 Autoriza cessão de imóvel à Prefeitura Municipal de Bom Jardim (GM) e dá outras providências.

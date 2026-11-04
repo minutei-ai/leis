@@ -1,5 +1,3 @@
-###DEC-059428-0-000-27-10-1966@@@
-
 DECRETO Nº 59.428, DE 27 DE OUTUBRO DE 1966.
 
 Regulamenta os Capítulos I e II do Título II, o Capítulo II do Título III, e os arts. 81 - 82 - 83 - 91 - 109 - 111 - 114 - 115 e 126 da Lei nº 4.504, de 30 de novembro de 1964, o art. 22 do Decreto-lei nº 22.239, de 19 de dezembro de 1932, e os arts. 9 - 10 - 11 - 12 - 22 e 23 da Lei nº 4.947, de 6 de abril de 1966.

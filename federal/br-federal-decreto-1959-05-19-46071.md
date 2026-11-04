@@ -1,5 +1,3 @@
-###DEC-046071-0-000-19-05-1959@@@
-
 DECRETO Nº 46.071, DE 19 DE MAIO DE 1959.
 
 Renova o Decreto nº 40.964, de 14 de fevereiro de 1957.

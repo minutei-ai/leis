@@ -1,5 +1,3 @@
-###DEC-050080-0-000-25-01-1961@@@
-
 DECRETO Nº 50.080, DE 25 de janeiro DE 1961.
 
 Retifica, em parte, o decreto número 48.269, de 3 de junho de 1960.

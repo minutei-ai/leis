@@ -1,7 +1,3 @@
-1
-
-###DEC-002107-0-000-24-12-1996@@@
-
 DECRETO Nº 2.107, DE 24 DE DEZEMBRO DE 1996.
 
 Aprova o Regimento Interno do Conselho Nacional de Ciência de Tecnologia - CCT.

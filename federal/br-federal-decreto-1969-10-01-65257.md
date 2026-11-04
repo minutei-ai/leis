@@ -1,5 +1,3 @@
-###DEC-065257-0-000-01-10-1969@@@
-
 DECRETO Nº 65.257 - DE 1 DE OUTUBRO DE 1969.
 
 Prorroga o prazo de validade do financiamento concedido para a aquisição de equipamentos de telecomunicações destinados à Empresa Brasileira de Correios e Telégrafos.

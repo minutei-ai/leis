@@ -1,5 +1,3 @@
-###DEC-004558-0-000-30-12-2002@@@
-
 DECRETO N. 4.558 – DE 30 DE DEZEMBRO DE 2002
 
 Dispõe sobre a delimitação das áreas dos Portos Organizados de Paranaguá e Antonina, no Estado do Paraná.

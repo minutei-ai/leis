@@ -1,30 +1,28 @@
-###DEC-040296-0-000-06-11-1956@@@
+**DECRETO Nº 40.296, DE 6 DE NOVEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.296, DE 6 DE NOVEMBRO DE 1956.</strong>
+***Aprova o Regimento da Divisão de Educação Física, do Ministério da Educação.***
 
-<em><strong>Aprova o Regimento da Divisão de Educação Física, do Ministério da Educação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Divisão de Educação Física (D.E.F.), do Departamento Nacional de Educação, que, assinado pelo Ministro de Estado de Negócios da Educação e Cultura, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Divisão de Educação Física (D.E.F.), do Departamento Nacional de Educação, que, assinado pelo Ministro de Estado de Negócios da Educação e Cultura, com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 6 de novembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Clovis Salgado
 
-<strong>REGIMENTO DA DIVISÃO DE EDUCAÇÃO FÍSICA</strong>
+**REGIMENTO DA DIVISÃO DE EDUCAÇÃO FÍSICA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º. A Divisão de Educação Física (D.E.F.), órgão do Departamento Nacional de Educação, de Ministério da Educação e Cultura, tem por finalidade:
+**Art**. 1º. A Divisão de Educação Física (D.E.F.), órgão do Departamento Nacional de Educação, de Ministério da Educação e Cultura, tem por finalidade:
 
 I - difundir e aperfeiçoar a educação física e os desportos, a fim de contribuir para a melhoria das condições de saúde e de educação do povo;
 
@@ -38,11 +36,11 @@ V - promover a criação dos centros de educação física, oritentar e fiscaliz
 
 VI - incentivar a formação e promover o aperfeiçoamento de profissionais especializados em educação física e desportos.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º A Divisão de Educação Física compõe-se dos seguintes órgãos:
+**Art**. 2º A Divisão de Educação Física compõe-se dos seguintes órgãos:
 
 I - Seção de Estudos e Aperfeiçoamento (S.E.A.);
 
@@ -54,17 +52,17 @@ IV - Seção de Desportos e Recreação (S.D.R.);
 
 V - Seção Administrativa (S.A.).
 
-<strong>Art</strong>. 3º A D.E.F. terá um Diretor nomeado, em comissão, pelo Presidente da República, devendo a escolha recair em profissional especializado em educação física ou em pessoa de reconhecida competência no assunto.
+**Art**. 3º A D.E.F. terá um Diretor nomeado, em comissão, pelo Presidente da República, devendo a escolha recair em profissional especializado em educação física ou em pessoa de reconhecida competência no assunto.
 
-<strong>Art</strong>. 4º O Diretor terá um Secretário e dois assistentes, devendo um dêstes últimos ser médico especializado em Educação Física.
+**Art**. 4º O Diretor terá um Secretário e dois assistentes, devendo um dêstes últimos ser médico especializado em Educação Física.
 
-<strong>Art</strong>. 5º As seções terão chefes designados pelo Diretor.
+**Art**. 5º As seções terão chefes designados pelo Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência dos órgãos</em>
+*Da Competência dos órgãos*
 
-<strong>Art</strong>. 6º A S.E.A. compete:
+**Art**. 6º A S.E.A. compete:
 
 I - realizar estudos e pesquisas sôbre educação física;
 
@@ -96,7 +94,7 @@ XIV - manter Biblioteca, Filmoteca, e Discoteca especializadas;
 
 XV - manter coleções de leis, decretos, regulamentos, circulares, portarias, ordem de serviço, instruções e documentação em geral referentes à educação e à recreação fisica.
 
-<strong>Art</strong>. 7º A S.E.F.G.M. compete:
+**Art**. 7º A S.E.F.G.M. compete:
 
 I - promover verificações, revisões e outras diligências em estabelecimentos de ensnio de grau médio e centros de educação fisica;
 
@@ -126,7 +124,7 @@ IX - examinar os projetos de regimentos dos centros de educação física;
 
 X - fornecer elementos relativos a instalações de educação física dos estabelecimentos de ensino e centros de educação física para o cadastro mantido na S.E.D.
 
-<strong>Art</strong>. 8º À S.E.F.S. compete:
+**Art**. 8º À S.E.F.S. compete:
 
 I - promover verificações e outras diligências em escolas de educação física;
 
@@ -154,7 +152,7 @@ XII - extrair guias, para pagamento de taxas de registro;
 
 XIII - manter fichário dos profissionais especializados registrados na D.E.F.
 
-<strong>Art</strong>. 9º À S.D.R. compete:
+**Art**. 9º À S.D.R. compete:
 
 I - incentivar a prática desportica e a recreação nos estabelecimentos de ensino sob a jurisdição do Ministério da Educação e Cultura;
 
@@ -170,7 +168,7 @@ VI - elaborar programas de atividades físicas recreativas para os estabelecimen
 
 VII - promover a realização de excursões e acampamentos e de competições desportivas.
 
-<strong>Art</strong>. 10. À S.A. compete:
+**Art**. 10. À S.A. compete:
 
 I - exercer as atividades relativas à administração de pessoal, material, orçamento, comunicações e mecanografia, mantendo a indispensável harmonia com os órgãos do D.A. do Ministério, cujas normas e métodos de trabalho deverá observar;
 
@@ -178,11 +176,11 @@ II - providenciar a publicação oficial dos atos emanados da D.E.F.;
 
 III - extrair certidões e documentos.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 11. Ao Diretor incumbe;
+**Art**. 11. Ao Diretor incumbe;
 
 I - dirigir as atividades da D.E.F, incentivando e coordenando o travalho de seus vários órgaõs;
 
@@ -228,7 +226,7 @@ XXI - elaborar a proposta de orçamento da Divisão e fiscalizar a aplicação d
 
 XXII - apresentar, anualmente, ao Diretor-Geral do D.N.E. relatório das atividades da D.E.F.;
 
-<strong>Art</strong>. 12. Aos Chefes de Seção incumbe:
+**Art**. 12. Aos Chefes de Seção incumbe:
 
 I - dirigir, orientar, coordenar e fiscalizar os trabalhos afetos à Seção, propondo ao Diretor as medidas convenientes ao seu aperfeiçoamento;
 
@@ -244,7 +242,7 @@ VI - organizar ou alterar a escala de férias dos servidores da Seção a submet
 
 VII - sugerir ao Diretor o plano anual dos trabalhos da Seção.
 
-<strong>Art</strong>. 13. Aos Assistentes do Diretor incumbe:
+**Art**. 13. Aos Assistentes do Diretor incumbe:
 
 I - Auxiliar o Diretor no exame dos assuntos que lhe forem submetidos para estudo e decisão;
 
@@ -252,31 +250,31 @@ II - Cooperar na preparação do relatório anual das atividades de Divisão;
 
 III - representar o Diretor, quando para isso designados.
 
-<strong>Art</strong>. 14. Aos servidores com exercício na Divisão de Educação Física, que não tenham atribuições especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelo chefe imediato.
+**Art**. 14. Aos servidores com exercício na Divisão de Educação Física, que não tenham atribuições especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelo chefe imediato.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 15. O horário normal de trabalho da D.E.F. será fixado pelo Diretor, respeitando o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 15. O horário normal de trabalho da D.E.F. será fixado pelo Diretor, respeitando o número de horas semanais estabelecido para o Serviço Público Civil.
 
 § 1º O Diretor e os ocupantes de funções gratificadas não ficam sujeitos a ponto, devendo porém, observar o número de horas semanais de trabalho, prescrito pela Lei nº 2.188, de 3 de março de 1954.
 
 § 2º Os Inspetores no exercício de atividades externas, ficam isentos de assinatura de ponto, devendo, porém, comprovar a realização dos seus trabalhos, por meio de relatórios e têrmos de visita.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 16. A Divisão terá a lotação que lhe fôr fixada em decreto.
+**Art**. 16. A Divisão terá a lotação que lhe fôr fixada em decreto.
 
 Parágrafo único. Além dos funcionários e extranumerários constantes de sua lotação, poderá ter a Divisão colaboradores eventuais que forem autorizados pelo Ministro, mediante proposta do Diretor.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 17. Serão substituídas, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 17. Serão substituídas, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - o Diretor por um chefe de Seção, por êle indicado;
 
@@ -284,18 +282,18 @@ II - os Chefes de Seção por servidores designados pelo Diretor;
 
 Parágrafo único. Haverá, sempre, servidores prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 18. A D.E.F. manterá uma publicação periódica, intitulada “Boletim da D.E.F.” destinada à divulgação de assuntos relativos à educação física.
+**Art**. 18. A D.E.F. manterá uma publicação periódica, intitulada “Boletim da D.E.F.” destinada à divulgação de assuntos relativos à educação física.
 
-<strong>Art</strong>. 19. Os pareceres, informações, relatórios, representações e demais atos oficiais da Divisão só poderão ser divulgados com autorização do Diretor.
+**Art**. 19. Os pareceres, informações, relatórios, representações e demais atos oficiais da Divisão só poderão ser divulgados com autorização do Diretor.
 
-<strong>Art</strong>. 20. A D.E.F. poderá valer-se da colaboração de outros órgãos do Ministério para a fiscalização de estabelecimentos de ensino, mediante entendimento dos respectivos diretores.
+**Art**. 20. A D.E.F. poderá valer-se da colaboração de outros órgãos do Ministério para a fiscalização de estabelecimentos de ensino, mediante entendimento dos respectivos diretores.
 
-<strong>Art</strong>. 21. Enquanto não dispuser de pessoal especializado suficiente para orientar e fiscalizar a educação física em todo território nacional a D.E.F. poderá promover convênios destinados a delegar essa atribuição a governos estaduais.
+**Art**. 21. Enquanto não dispuser de pessoal especializado suficiente para orientar e fiscalizar a educação física em todo território nacional a D.E.F. poderá promover convênios destinados a delegar essa atribuição a governos estaduais.
 
 Rio de Janeiro, 6 de novembro de 1956.
 
-<strong>CLÓVIS SALGADO</strong>
+**CLÓVIS SALGADO**

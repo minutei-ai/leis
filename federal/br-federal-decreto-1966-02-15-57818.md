@@ -1,5 +1,3 @@
-###DEC-057818-0-000-15-02-1966@@@
-
 DECRETO Nº 57.818, DE 15 DE FEVEREIRO DE 1966.
 
 Concede autorização para o funcionamento da Faculdade de Direito Braz Cubas de Mogi das Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-052426-0-000-02-09-1963@@@
-
 DECRETO Nº 52.426, DE 2 DE SETEMBRO DE 1963.
 
 Concede à Construções e Comércio Camargo Corrêa S.A, autorização para funcionar como emprêsa de mineração.

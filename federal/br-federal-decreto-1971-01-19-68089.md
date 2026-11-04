@@ -1,5 +1,3 @@
-###DEC-068089-0-000-19-01-1971@@@
-
 DECRETO Nº 68.089, de 19 de Janeiro de 1971.
 
 Redistribui cargo, com a respectiva ocupante, para o Ministério da Aeronáutica e dá outras providências.

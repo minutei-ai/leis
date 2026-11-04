@@ -1,5 +1,3 @@
-###DEC-054891-0-000-04-11-1964@@@
-
 decreto nº 54.891, de 4 de novembro de 1964.
 
 Declara caduco o Decreto nº 21.322 de 18 de junho de 1946.

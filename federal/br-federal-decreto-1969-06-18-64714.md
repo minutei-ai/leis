@@ -1,5 +1,3 @@
-###DEC-064714-0-000-18-06-1969@@@
-
 DECRETO Nº 64.714, de 18 DE JUNHO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, área de terras e respectivas benfeitorias que menciona e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEL-004423-0-000-30-06-1942@@@
-
 DECRETO-LEI N. 4.423 – DE 30 DE JUNHO DE 1942
 
 Dispõe sobre o pagamento do prêmio conferido ao pintor José Pancetti

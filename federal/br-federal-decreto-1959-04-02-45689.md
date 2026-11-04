@@ -1,5 +1,3 @@
-###DEC-045689-0-000-02-04-1959@@@
-
 Decreto nº 45.689, de 2 de abril de 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Agricultura.

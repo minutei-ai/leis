@@ -1,5 +1,3 @@
-###DEL-004710-0-000-18-09-1942@@@
-
 DECRETO-LEI N. 4.710 – DE 18 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 100:000$0, para atender, no corrente exercício, ao pagamento da quota da União em “acordo” a ser celebrado com o Estado de Santa Catarina

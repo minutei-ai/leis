@@ -1,5 +1,3 @@
-###DEC-092442-0-000-06-03-1986@@@
-
 DECRETO Nº 92.442, DE 06 DE MARÇO DE 1986
 
 Outorga concessão à PROGRESSO DO ACRE COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Rio Branco, Estado do Acre.

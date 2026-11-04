@@ -1,5 +1,3 @@
-###DEC-071718-0-000-16-01-1973@@@
-
 DECRETO Nº 71.718, DE 16 DE JANEIRO DE 1973.
 
 Transforma a Escola de Marinha Mercante do Pará em Centro de Instrução, com a denominação "Centro de Instrução Almirante Braz de Aguiar" e dá outras providências,

@@ -1,5 +1,3 @@
-###DEC-068617-0-000-14-05-1971@@@
-
 Decreto nº 68.617, de 14 de maio de 1971.
 
 Redistribui funcionário agregado para o Quadro de Pessoal do Departamento de Polícia Federal e dá outras providências.

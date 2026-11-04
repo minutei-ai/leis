@@ -1,5 +1,3 @@
-###DEC-003440-0-000-25-04-2000@@@
-
 DECRETO Nº 3.440, DE 25 DE ABRIL DE 2000.
 
 Altera competências relativas a matérias objeto de julgamento pelos Segundo e Terceiro Conselhos de Contribuintes do Ministério d Fazenda.

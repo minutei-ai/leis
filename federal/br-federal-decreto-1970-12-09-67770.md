@@ -1,5 +1,3 @@
-###DEC-067770-0-000-09-12-1970@@@
-
 DECRETO Nº 67.770, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto número 45.541, de 5 de março de 1959.

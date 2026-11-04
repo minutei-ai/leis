@@ -1,5 +1,3 @@
-###DEC-095915-0-000-11-04-1988@@@
-
 DECRETO N° 95.915, DE 11 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO CIDADE DE ALTO ARAGUAIA LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Alto Araguaia, Estado do Mato Grosso

@@ -1,5 +1,3 @@
-###DEC-044875-0-000-26-11-1958@@@@
-
 decreto nº 44.875, de 26 de novembro de 1958.
 
 Concede à sociedade anônima Wagner Internacional Corporation, autorização para continuar a funcionar na República.

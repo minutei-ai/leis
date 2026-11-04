@@ -1,5 +1,3 @@
-###DEC-076289-0-000-17-09-1975@@@
-
 DECRETO Nº 76.289 - DE 17 DE SETEMBRO DE 1975
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - (DNOCS), área de terra abrangida pelo Projeto de Irrigação "Ayres de Souza", no Município de Sobral, Estado do Ceará.

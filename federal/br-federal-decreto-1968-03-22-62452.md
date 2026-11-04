@@ -1,5 +1,3 @@
-###DEC-062452-0-000-22-03-1968@@@
-
 Decreto nº 62.452, de 22 de março de 1968.
 
 Declara de utilidade pública a “Unificação Kardecista”, com sede em Ribeirão Prêto, Estado de São Paulo.

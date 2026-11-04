@@ -1,5 +1,3 @@
-###DEC-066643-0-000-29-05-1970@@@
-
 DECRETO Nº 66.643, DE 29 DE MAIO DE 1970.
 
 Autoriza funcionamento da Faculdade de Direito de Araraquara, no Estado de São Paulo.

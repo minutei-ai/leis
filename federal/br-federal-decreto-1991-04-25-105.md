@@ -1,5 +1,3 @@
-###DEC-000105-0-000-25-04-1991@@@
-
 DECRETO Nº 105, DE 25 DE ABRIL DE 1991.
 
 Regulamenta o art. 47 da Lei nº 5.540 de 28 de novembro de 1968, e dá outras providências.

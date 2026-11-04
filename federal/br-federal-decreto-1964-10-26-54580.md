@@ -1,5 +1,3 @@
-###DEC-054580-0-000-26-10-1964@@@
-
 DECRETO Nº 54.580, DE 26 DE OUTUBRO DE 1964.
 
 Transforma o Consultado Privativo do Brasil em Barranquila (Colômbia) em Consulado Honorário.

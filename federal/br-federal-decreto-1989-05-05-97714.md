@@ -1,7 +1,3 @@
-1
-
-###DEC-097714-0-000-05-05-1989@@@
-
 DECRETO Nº 97.714, DE 05 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Fundação Educacional Araçatuba.

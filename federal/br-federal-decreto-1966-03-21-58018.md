@@ -1,5 +1,3 @@
-###DEC-058018-0-000-21-03-1966@@@
-
 DECRETO Nº 58.018, DE 21 DE MARÇO DE 1966.
 
 Dispõe sôbre a responsabilidade dos chefes imediatos na apreciação das aptidões e habilitação dos funcionários readaptados e dá outras providências.

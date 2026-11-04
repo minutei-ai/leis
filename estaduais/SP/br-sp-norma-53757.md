@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53757)
-
 # LEI Nº 11.932, DE 07 DE JUNHO DE 2005
 
 ## ( PL 415/2004 - Edson Ferrarini)

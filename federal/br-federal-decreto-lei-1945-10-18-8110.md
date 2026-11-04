@@ -1,5 +1,3 @@
-###DEL-008110-0-000-18-10-1945@@@
-
 DECRETO-LEI N. 8.110 – DE 18 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Agricultura o  crédito suplementar de Cr$ 30.000,00 à Verba que especifica

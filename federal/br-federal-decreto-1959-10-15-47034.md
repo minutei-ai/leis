@@ -1,5 +1,3 @@
-###DEC-047034-0-000-15-10-1959@@@
-
 DECRETO Nº 47.034, DE 15 DE OUTUBRO DE 1959.
 
 Modifica o art. 5º do Decreto número 46.753, de 26 de agôsto de 1959, e dá outras providências.

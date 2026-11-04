@@ -1,5 +1,3 @@
-###DEC-082580-0-000-01-11-1978@@@
-
 Decreto Nº 82.580, DE 1º DE novembro DE 1978.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Rio Grande do Sul.

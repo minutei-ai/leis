@@ -1,5 +1,3 @@
-###DEL-007553-0-000-17-05-1945@@@
-
 DECRETO-LEI N. 7.553 – DE 17 DE MAIO DE 1945
 
 Transfere à Comissão de Contrôle dos Acordos de Washington as atribuições conferidas pelo Decreto-lei nº 5.428, de 27 de abril de 1943, ao Setor da Produção Industrial da Coordenação da Mobilização Econômica

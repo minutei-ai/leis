@@ -14,7 +14,8 @@ Disciplina o abono de permanência dos militares estaduais e servidores público
 
 **Art. 3º** -  A partir de 1º de janeiro de 2022, poderá ser concedido abono de permanência, no valor equivalente ao da contribuição previdenciária ou para o respectivo sistema de proteção social, aos servidores públicos civis e aos militares que tenham preenchido os requisitos para a aposentadoria e reserva remunerada voluntárias e que contem com, no mínimo, 25 (vinte e cinco) anos de contribuição.
 
-Redação de acordo com a Lei 14.725 de 28 de maio de 2024.<br>
+Redação de acordo com a Lei 14.725 de 28 de maio de 2024.
+
 Redação original: "Art.3º - A partir de 1º de janeiro de 2022, poderá ser concedido abono de permanência, no valor equivalente ao da contribuição previdenciária ou para o respectivo sistema de proteção social, aos servidores públicos civis e aos militares que tenham preenchido os requisitos para a aposentadoria e reserva remunerada voluntárias, desde que observado o disposto neste artigo."
 
 **<REVOGADO>§ 1**º - As concessões do abono de permanência, no âmbito de cada Poder e do Ministério Público, não poderão ultrapassar, em nenhuma hipótese, o limite de 10% (dez por cento) em relação ao número de servidores efetivos em atividade, sob pena de apuração de responsabilidade.

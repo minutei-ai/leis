@@ -1,7 +1,3 @@
-1
-
-###DEL-001855-0-000-10-02-1981@@@
-
 # Decreto-lei nº 1855, de 10 de fevereiro de 1981
 
 Dispõe sobre a retribuição dos professores civis do Magistério do Exército e dá outras providências.

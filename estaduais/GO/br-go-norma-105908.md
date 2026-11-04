@@ -1,4 +1,5 @@
-Portaria Orçamentária nº 346/2022 - Economia<br>
+Portaria Orçamentária nº 346/2022 - Economia
+
 [Anulada pela Portaria nº 741/2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106648/portaria-orcamentaria-741)
 
 ~~A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 11 da [Lei nº 21.232](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104764/lei-21232), de 11 de janeiro de 2022, conforme processo 202200004017585.~~
@@ -13,15 +14,14 @@ Portaria Orçamentária nº 346/2022 - Economia<br>
 
 ~~GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 20 dias do mês de Junho de 2022.~~
 
-<br>
-
 ~~CRISTIANE ALKMIN JUNQUEIRA SCHMIDT~~
 
 ~~QUADRO 1~~
 
 | ~~SUPLEMENTAÇÃO~~ |
 | --- |
-| ~~**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA<br>
+| ~~**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA
+
 2906 - DIRETORIA-GERAL DE ADMINISTRAÇÃO PENITENCIÁRIA**~~ |
 | ~~**CLASSIF. ORÇAMENTÁRIA**~~ | ~~**DESCRIÇÃO DA AÇÃO**~~ | ~~**GRUPO DE DESPESA**~~ | ~~**FONTE**~~ | ~~**MODALIDADE**~~ |
 | ~~14 421 1030 3.040~~ | ~~CONSTRUÇÃO, REFORMA E AMPLIAÇÃO DAS UNIDADES PRISIONAIS E DE ALTERNATIVAS À PRISÃO~~ | ~~4 - INVESTIMENTOS~~ | ~~25000100~~ | ~~90~~ |

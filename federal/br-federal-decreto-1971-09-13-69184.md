@@ -1,5 +1,3 @@
-###DEC-069184-0-000-13-09-1971@@@
-
 DECRETO Nº 69.184, DE 13 DE SETEMBRO DE 1971.
 
 Concede à Mineração Bem Ltda. o direito de lavrar caulim e quartzo, no município de Magé, Estado do Rio de  Janeiro.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001127-0-000-26-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.127, DE 26 DE SETEMBRO DE 1995.
 
 Extingue as vantagens que menciona, institui os Décimos Incorporados, e dá outras providências.

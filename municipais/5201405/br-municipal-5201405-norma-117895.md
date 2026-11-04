@@ -10,11 +10,31 @@ Art. 1º Ficam remembrados os Lotes 01, 12 e 13 da Quadra 12 do Loteamento ALL P
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEIS</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 01</td><td style="text-align:center">1.751,71</td></tr><tr><td style="text-align:center">LOTE 12</td><td style="text-align:center">1.751,71</td></tr><tr><td style="text-align:center">LOTE 13</td><td style="text-align:center">1.000,00</td></tr></tbody></table>
+**IMÓVEIS**
+
+(m²)
+
+LOTE 01
+
+1.751,71
+
+LOTE 12
+
+1.751,71
+
+LOTE 13
+
+1.000,00
 
 SITUAÇÃO PROPOSTA
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEL</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 01/12/13</td><td style="text-align:center">4.503,42</td></tr></tbody></table>
+**IMÓVEL**
+
+(m²)
+
+LOTE 01/12/13
+
+4.503,42
 
 Parágrafo único. O remembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.015.511, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -22,8 +42,10 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 16 de março de 2023.
 
-FÁBIO PASSAGLIA <br>
+FÁBIO PASSAGLIA 
+
 Secretário de Governo
 
-JULIO CÉSAR CHAGAS MENDES <br>
+JULIO CÉSAR CHAGAS MENDES 
+
 Secretário Interino de Planejamento e Regulação Urbana

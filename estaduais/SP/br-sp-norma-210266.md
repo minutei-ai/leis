@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210266)<br>
-
 # EMENDA CONSTITUCIONAL N° 55, DE 27 DE NOVEMBRO DE 2024
 
 ### _Altera a redação da Constituição do Estado na forma que especifica._

@@ -1,5 +1,3 @@
-###DEC-095485-0-000-14-12-1987@@@
-
 DECRETO Nº 95.485, DE 14 DE DEZEMBRO DE 1987
 
 Dá nova redação ao art. 15 do Regulamento da Lei nº 7.505, de 2 de julho de 1986, que dispõe sobre benefícios fiscais na área do imposto de renda, concedidos a operações de caráter cultural.

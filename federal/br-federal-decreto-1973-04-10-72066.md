@@ -1,5 +1,3 @@
-###DEC-072066-0-000-10-04-1973@@@
-
 DECRETO Nº 72.066, DE 10 DE ABRIL DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado do Rio de Janeiro.

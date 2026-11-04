@@ -1,5 +1,3 @@
-###DEC-094566-0-000-08-07-1987@@@
-
 DECRETO N° 94.566, DE 8 DE JULHO DE 1987
 
 Autoriza a Prefeitura Municipal de São Pedro do Sul, Estado do Rio Grande do Sul, a explorar serviço de radiodifusão sonora em onda média.

@@ -1,5 +1,3 @@
-###DEC-079410-0-000-17-03-1977@@@
-
 DECRETO Nº 79.410, DE 17 DE MARÇO DE 1977.
 
 Concede à Mineração Rio do Norte Sociedade Anônima o direito de lavrar bauxita no Município de Faro, Estado do Pará.

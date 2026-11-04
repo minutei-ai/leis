@@ -1,7 +1,3 @@
-1
-
-###DEC-099240-0-000-07-05-1990@@@
-
 DECRETO N° 99.240, DE 7 DE MAIO DE 1990
 
 Dispõe sobre a extinção de autarquias e fundações públicas, e dá outras providências.

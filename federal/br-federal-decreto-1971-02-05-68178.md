@@ -1,5 +1,3 @@
-###DEC-068178-0-000-05-02-1971@@@
-
 DECRETO Nº 68.178, DE 5 DE FEVEREIRO DE 1971.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do imóvel que menciona, situado na cidade de Santa Rosa, no Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-055626-0-000-25-01-1965@@@
-
 decreto Nº 55.626, DE 25 DE JANEIRO DE 1965.
 
 Transfere para o Govêrno do Estado da Guanabara os encargos e responsabilidades relacionados com o reconhecimento e inspeção dos estabelecimentos de ensino médio localizados no seu território.

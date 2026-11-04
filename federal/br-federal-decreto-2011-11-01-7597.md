@@ -1,5 +1,3 @@
-###DEC-007597-0-000-01-11-2011-PUB-01@@@
-
 DECRETO Nº 7.597, DE 1º  DE NOVEMBRO DE 2011
 
 Promulga o Acordo de Coprodução Audiovisual entre o Governo da República Federativa do Brasil e o Governo da República da Índia, firmado em Nova Déli, em 4 de junho de 2007.

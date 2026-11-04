@@ -1,5 +1,3 @@
-###DEC-060775-0-000-30-05-1967@@@
-
 decreto nº 60.775, de 30 de maio de 1967.
 
 Declara de utilidade pública o “Orfanato Presbiteriano”, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-046662-0-000-17-08-1959@@@
-
 decreto nº 46.662, de 17 de agôsto de 1959.
 
 Autoriza o cidadão brasileiro José Cizeski a pesquisar fluorita no município de Urussanga, Estado de Santa Catarina.

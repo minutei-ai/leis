@@ -1,5 +1,3 @@
-###DEC-048314-0-000-20-06-1960@@@
-
 Decreto nº 48.314, de 20 de junho de 1960.
 
 Autoriza o cidadão brasileiro Lourival de Paula Mello a pesquisar quartzo no município de São Gonçalo, Estado do Rio de Janeiro.

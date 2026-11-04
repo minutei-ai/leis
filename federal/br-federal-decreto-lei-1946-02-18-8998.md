@@ -1,5 +1,3 @@
-###DEL-008998-0-000-18-02-1946@@@
-
 DECRETO-LEI N. 8.998 – DE 18 DE FEVEREIRO DE 1946
 
 Promoção de Oficial com ressarcimento de preterição e de vantagens pecuniárias.

@@ -1,5 +1,3 @@
-###DEC-062391-0-000-12-03-1968@@@
-
 DECRETO Nº 62.391, DE 03 DE MARÇO DE 1968.
 
 Dispões sobre a fiscalização em laboratório da produção de substâncias tóxicas e entorpecentes, distribuição de amostra dêsses produtos e dá outros providências.

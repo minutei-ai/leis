@@ -1,5 +1,3 @@
-###DEC-046553-0-000-10-08-1959@@@
-
 DECRETO Nº 46.553, DE 10 DE AGÔSTO DE 1959.
 
 Altera o Regulamento baixado com o Decreto nº 41.096, de 7 de março de 1957.

@@ -1,5 +1,3 @@
-###DEC-006404-0-000-19-03-2008@@@
-
 DECRETO Nº 6.404, DE 19 DE MARÇO DE 2008.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia sobre Cooperação na Área do Turismo, celebrado em Brasília, em 12 de dezembro de 2001.
@@ -22,11 +20,7 @@ Brasília, 19 de março de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 20.3.2008
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+Samuel Pinheiro Guimarães NetoACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
 
 E O GOVERNO DA FEDERAÇÃO DA RÚSSIA SOBRE
 

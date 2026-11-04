@@ -1,5 +1,3 @@
-###DEC-072117-0-000-24-04-1973@@@
-
 DECRETO Nº 72.117, DE 24 DE ABRIL DE 1973.
 
 Concede reconhecimento do curso de Engenheiros Eletricistas da Escola de Engenharia da Universidade Católica de Petrópolis, Rio de Janeiro.

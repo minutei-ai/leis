@@ -1,5 +1,3 @@
-###DEC-092862-0-000-27-06-1986@@@
-
 decreto nº 92.862, de 27 de junho de 1986
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a ceder à UNIÃO NORTE BRASILEIRA DA IGREJA ADVENTISTA DO SÉTIMO DIA, no Estado de Rondônia, o imóvel que menciona.

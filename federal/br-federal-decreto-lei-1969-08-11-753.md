@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6b70fcdc-10ed-4c58-8dff-cf4e0df56cb0/texto#nowhere)
 
-###DEL-000753-0-000-11-08-1969@@@
-
 Decreto-lei Nº 753, DE 11 De AGôsTo DE 1969
 
 Dispõe sôbre a fiscalização de laboratórios que produzam ou manipulem substâncias ou produtos entorpecentes e seus equiparados, de firmas distribuidoras ou depositárias das referidas substâncias, distribuição de amostras dêsses produtos e dá outras providências.

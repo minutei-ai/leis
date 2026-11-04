@@ -1,7 +1,3 @@
-1
-
-###DEC-001069-0-000-02-03-1994@@@
-
 DECRETO N° 1.069, DE 2 DE MARÇO DE 1994
 
 Dá nova redação a dispositivos do Decreto n° 71.848, de 16 de fevereiro de 1973, que regulamenta, para o Exército, a Lei n° 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas.

@@ -1,5 +1,3 @@
-###DEC-050397-0-000-03-04-1961@@@
-
 DECRETO Nº 50.397, DE 3 DE ABRIL DE 1961.
 
 Dispõe sôbre financiamento para construção ou aquisição de imóvel destinado à sede de entidades sindicais.

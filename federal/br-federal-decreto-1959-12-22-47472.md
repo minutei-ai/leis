@@ -1,5 +1,3 @@
-###DEC-047472-0-000-22-12-1959@@@
-
 DECRETO Nº 47.472, DE 22 DE DEZEMBRO DE 1959.
 
 Institui a Comissão de Administração de Sistema Educacional de Brasília (C.A.S.E.B.)

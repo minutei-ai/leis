@@ -1,5 +1,3 @@
-###DEC-071083-0-000-12-09-1972@@@
-
 DECRETO Nº 71.083, DE 12 DE SETEMBRO DE 1972.
 
 Extingue a Delegação do Ministério das Relações Exteriores no Estado da Guanabara e dá outras providências.

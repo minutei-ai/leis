@@ -1,5 +1,3 @@
-###DEC-048214-0-000-13-05-1960@@@
-
 Decreto nº 48.214, de 13 de maio de 1960.
 
 Autoriza o cidadão brasileiro Bernardo Hermann Wolgand Werner a pesquisar minério de ferro no município de Luiz Alves, Estado de Santa Catarina.

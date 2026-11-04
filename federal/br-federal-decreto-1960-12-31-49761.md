@@ -1,5 +1,3 @@
-###DEC-049761-0-000-31-12-1960@@@
-
 DECRETO Nº 49.761, DE 31 DE DEZEMBRO DE 1960.
 
 Concede à sociedade anônima S.S. White Dental Manufacturing Company of Brazil autorização para continuar a funcionar na República.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/9100)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1997/compilacao-lei-9628-06.05.1997.html)
 
 # LEI N° 9.628, DE 06 DE MAIO DE 1997
@@ -11,22 +10,38 @@
 
 _\- Vide [Decreto n° 46.039, de 23/08/2001](https://www.al.sp.gov.br/norma/3436)._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:**<br>
-Artigo 1° -** Fica o Poder Executivo autorizado a criar o Sistema de Saúde Mental da Policia Militar do Estado de São Paulo, subordinado à direção técnica da Diretoria de Saúde da Corporação, composto por equipe multiprofissional do Quadro de Oficiais de Saúde (QOS) realocados para o Quadro Complementar de Oficiais de Saúde (QCOS).<br>
-**§ 1° -** Vetado.<br>
-**§ 2° -** O Sistema de Saúde Mental tem por objetivo o bem-estar biopsicossocial dos policiais militares, bem como assistir aos acometidos de transtorno mental.<br>
-**§ 3° -** A subordinação técnica do Sistema de Saúde Mental da Polícia Militar à Diretoria de Saúde visa à unidade do ambiente multiprofissional, unidade de direção técnica, racionalização e alocação dos recursos com eficiência, na realização da Política de Saúde Mental da Corporação, na busca da qualidade total do serviço sob os ditames da ética profissional e afirmação da cidadania dos policiais militares acometidos de transtorno mental.<br>
-**§ 4° -** Ao Sistema de Saúde Mental cabe o planejamento, execução, controle, fiscalização e avaliação de todas as atividades relacionadas à saúde mental do policial militar, visando ao pleno gozo de seu potencial físico e mental.<br>
-**§ 5° -** Deve-se assegurar o reconhecimento e a valorização de práticas multiprofissionais no tratamento de saúde mental dos policiais militares.<br>
-**§ 6° -** Vetado.<br>
-**1\.** vetado;<br>
-**2\.** vetado.**<br>
-Artigo 2° -** O Sistema de Saúde Mental da Policia Militar será norteado pelas seguintes diretrizes e princípios:<br>
-**I -** universalizar o acesso dos policiais militares às ações e aos serviços em todos os níveis de atenção à saúde mental;<br>
-**II -** integralidade de atendimento pleno aos policiais militares, objetivando a proteção e o desenvolvimento do seu potencial biológico e psicossocial;<br>
-**III -** resolubilidade dos serviços e ações de saúde mental dos policiais militares em todos os níveis de assistência;<br>
-**IV -** racionalidade da organização dos serviços do Sistema de Saúde Mental, visando à otimização dos meios disponíveis e melhor relação custo benefício, suprimindo-se a duplicação dos recursos para fins idênticos ou equivalentes;<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:**
+
+Artigo 1° -** Fica o Poder Executivo autorizado a criar o Sistema de Saúde Mental da Policia Militar do Estado de São Paulo, subordinado à direção técnica da Diretoria de Saúde da Corporação, composto por equipe multiprofissional do Quadro de Oficiais de Saúde (QOS) realocados para o Quadro Complementar de Oficiais de Saúde (QCOS).
+
+**§ 1° -** Vetado.
+
+**§ 2° -** O Sistema de Saúde Mental tem por objetivo o bem-estar biopsicossocial dos policiais militares, bem como assistir aos acometidos de transtorno mental.
+
+**§ 3° -** A subordinação técnica do Sistema de Saúde Mental da Polícia Militar à Diretoria de Saúde visa à unidade do ambiente multiprofissional, unidade de direção técnica, racionalização e alocação dos recursos com eficiência, na realização da Política de Saúde Mental da Corporação, na busca da qualidade total do serviço sob os ditames da ética profissional e afirmação da cidadania dos policiais militares acometidos de transtorno mental.
+
+**§ 4° -** Ao Sistema de Saúde Mental cabe o planejamento, execução, controle, fiscalização e avaliação de todas as atividades relacionadas à saúde mental do policial militar, visando ao pleno gozo de seu potencial físico e mental.
+
+**§ 5° -** Deve-se assegurar o reconhecimento e a valorização de práticas multiprofissionais no tratamento de saúde mental dos policiais militares.
+
+**§ 6° -** Vetado.
+
+**1\.** vetado;
+
+**2\.** vetado.**
+
+Artigo 2° -** O Sistema de Saúde Mental da Policia Militar será norteado pelas seguintes diretrizes e princípios:
+
+**I -** universalizar o acesso dos policiais militares às ações e aos serviços em todos os níveis de atenção à saúde mental;
+
+**II -** integralidade de atendimento pleno aos policiais militares, objetivando a proteção e o desenvolvimento do seu potencial biológico e psicossocial;
+
+**III -** resolubilidade dos serviços e ações de saúde mental dos policiais militares em todos os níveis de assistência;
+
+**IV -** racionalidade da organização dos serviços do Sistema de Saúde Mental, visando à otimização dos meios disponíveis e melhor relação custo benefício, suprimindo-se a duplicação dos recursos para fins idênticos ou equivalentes;
+
 **V -** planejamento das ações e serviços, visando a satisfazer as necessidades de saúde mental dos policiais militares, regionalizando e hierarquizando o atendimento preventivo;
 
 ~~**VI -** vetado;~~
@@ -73,45 +88,84 @@ _\- Inciso XII vetado pelo Governador._
 
 _\- Inciso XII_ [_mantido pela Alesp_](https://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=19991209&Caderno=Legislativo&NumeroPagina=1)_, que rejeitou o veto oposto pelo Governador._
 
-**Artigo 3° -** Vetado:<br>
-**I -** vetado;<br>
-**II -** vetado;<br>
-**III -** vetado.**<br>
-Parágrafo único -** Vetado:<br>
-**I -** vetado;<br>
-**II -** vetado;<br>
-**III -** vetado;<br>
-**IV -** vetado;<br>
-**V -** vetado;<br>
-**VI -** vetado;<br>
-**VII -** vetado.**<br>
-Artigo 4° -** Vetado:<br>
-**I -** vetado:<br>
-**a)** vetado;<br>
-**b)** vetado;<br>
-**c)** vetado;<br>
-**II -** vetado:<br>
-**a)** vetado;<br>
-**b)** vetado;<br>
-**c)** vetado;<br>
-**d)** vetado;<br>
-**e)** vetado;<br>
-**f)** vetado;<br>
-g) vetado.**<br>
-Artigo 5° -** Vetado.**<br>
-Parágrafo único -** Vetado.**<br>
-Artigo 6° -** Vetado.**<br>
-Artigo 7° -** Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.<br>
-Palácio dos Bandeirantes, 06 de maio de 1997.<br>
-MÁRIO COVAS<br>
-Yoshiaki Nakano<br>
-Secretário da Fazenda<br>
-José Afonso da Silva<br>
-Secretário da Segurança Pública<br>
-Walter Feldman<br>
-Secretário-Chefe da Casa Civil<br>
-Antonio Angarita<br>
-Secretário do Governo e Gestão Estratégica<br>
+**Artigo 3° -** Vetado:
+
+**I -** vetado;
+
+**II -** vetado;
+
+**III -** vetado.**
+
+Parágrafo único -** Vetado:
+
+**I -** vetado;
+
+**II -** vetado;
+
+**III -** vetado;
+
+**IV -** vetado;
+
+**V -** vetado;
+
+**VI -** vetado;
+
+**VII -** vetado.**
+
+Artigo 4° -** Vetado:
+
+**I -** vetado:
+
+**a)** vetado;
+
+**b)** vetado;
+
+**c)** vetado;
+
+**II -** vetado:
+
+**a)** vetado;
+
+**b)** vetado;
+
+**c)** vetado;
+
+**d)** vetado;
+
+**e)** vetado;
+
+**f)** vetado;
+
+g) vetado.**
+
+Artigo 5° -** Vetado.**
+
+Parágrafo único -** Vetado.**
+
+Artigo 6° -** Vetado.**
+
+Artigo 7° -** Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Palácio dos Bandeirantes, 06 de maio de 1997.
+
+MÁRIO COVAS
+
+Yoshiaki Nakano
+
+Secretário da Fazenda
+
+José Afonso da Silva
+
+Secretário da Segurança Pública
+
+Walter Feldman
+
+Secretário-Chefe da Casa Civil
+
+Antonio Angarita
+
+Secretário do Governo e Gestão Estratégica
+
 Publicada na Assessoria Técnico-Legislativa, aos 06 de maio de 1997.
 
 _\- Texto retificado no_ [_Diário Oficial Executivo I de 08/05/1997_](https://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=19970508&Caderno=DOE-I&NumeroPagina=1)_._

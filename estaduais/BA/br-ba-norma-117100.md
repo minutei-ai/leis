@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica reorganizada, na forma indicada na presente Lei, a Secretaria do Saneamento e Recursos Hídricos - SSRH.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA DA SECRETARIA
 
 Art. 2º - A Secretaria do Saneamento e Recursos Hídricos tem por finalidade a promoção e a execução da política governamental do abastecimento de água e esgotamento sanitário, e do aproveitamento global dos recursos hídricos, no âmbito estadual, competindo-lhe:
@@ -37,7 +38,8 @@ XII - proceder à outorga de concessões para a utilização dos recursos hídri
 
 XIII - exercer outras atividades correlatas.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 ESTRUTURA DA SECRETARIA
 
 Art. 3º - A Secretaria do Saneamento e Recursos Hídricos tem a seguinte estrutura:
@@ -74,7 +76,8 @@ c) Companhia de Desenvolvimento do Vale do Paraguaçú - DESENVALE.
 
 Art. 4º - O assessoramento jurídico dos órgãos da administração centralizada da Secretaria cabe à Procuradoria Geral do Estado, na forma da legislação em vigor.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 ESTRUTURA E COMPETÊNCIA DOS ÓRGÃOS E DAS ENTIDADES
 
 Art. 5º - Ao Gabinete do Secretário, que presta assistência ao titular da Pasta, compete:
@@ -167,7 +170,8 @@ XI - um representante da Prefeitura Municipal do Salvador.
 
 Art. 13 - As entidades da administração descentralizada vinculadas à Secretaria do Saneamento e Recursos Hídricos têm a finalidade e competência estabelecidas na legislação específica e a sua supervisão e controle far-se-ão nos termos do [§ 2º, do artigo 8º, da Lei nº 2.321, de 11 de abril de 1966](https://www.legislabahia.ba.gov.br/documentos/lei-no-2321-de-11-de-abril-de-1966#LO_2_321_Art__8_P_2) .
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 15 - Fica o Poder Executivo autorizado a:

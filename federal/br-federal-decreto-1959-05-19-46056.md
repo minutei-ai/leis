@@ -1,5 +1,3 @@
-###DEC-046056-0-000-19-05-1959@@@
-
 decreto nº 46.056, de 19 de maio de 1959.
 
 Abre, pelo Ministério do Trabalho, Industria e Comércio, o crédito especial de Cr$5.000.000,00, para os fins que especifica.

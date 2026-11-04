@@ -1,5 +1,3 @@
-###DEC-086717-0-000-11-12-1981@@@
-
 Decreto nº 86.717, de 11 de dezembro de 1981
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona situados nos Municípios do Rio de Janeiro e Niterói, Estado do Rio de Janeiro; Recife, Estado de Pernambuco e Salvador, Estado da Bahia.

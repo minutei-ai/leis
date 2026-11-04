@@ -1,5 +1,3 @@
-###DEC-003101-0-000-30-06-1999@@@
-
 DECRETO Nº 3.101,DE 30 DE JUNHO DE 1999.
 
 Dispõe sobre a composição dos Conselhos Deliberativo do Fundo de Amparo ao Trabalhador - CODEFAT e Curador do Fundo de Garantia do Tempo de Serviço - CCFGTS.

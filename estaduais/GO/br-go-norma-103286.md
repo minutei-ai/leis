@@ -12,8 +12,6 @@ PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS
 
 , em Goiânia, 17 de julho de 2020; 132º da República.
 
-<br>
-
 Deputado LISSAUER VIEIRA
 
 \- PRESIDENTE -

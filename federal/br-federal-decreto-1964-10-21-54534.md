@@ -1,5 +1,3 @@
-###DEC-054534-0-000-21-10-1964@@@
-
 DECRETO Nº 54.534, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Quarezemin a pesquisar fluorita, no município de Tubarão, Estado de Santa Catarina.

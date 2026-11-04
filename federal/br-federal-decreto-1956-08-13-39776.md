@@ -1,20 +1,18 @@
-###DEC-039776-0-000-13-08-1956@@@
-
 <!-- reproducao-incompleta:inicio -->
 
 > **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (modelo-grafico) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
 
 <!-- reproducao-incompleta:fim -->
 
-<strong>DECRETO Nº 39.776, DE 13 DE AGÔSTO DE 1956.</strong>
+**DECRETO Nº 39.776, DE 13 DE AGÔSTO DE 1956.**
 
-<em><strong>Cria o estandarte-distintivo para o 9º Batalhão de Engenharia de Combate “Batalhão Carlos Camisão”.</strong></em>
+***Cria o estandarte-distintivo para o 9º Batalhão de Engenharia de Combate “Batalhão Carlos Camisão”.***
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87 inciso I, da Constituição Federal.
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87 inciso I, da Constituição Federal.
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica criado o estandarte distintivo para o 9º Batalhão de Engenharia de Combate - “Batalhão Carlos Camissão”, de acôrdo com o modêlo que a êste acompanha, obedecendo às seguintes características:
+**Art**. 1º Fica criado o estandarte distintivo para o 9º Batalhão de Engenharia de Combate - “Batalhão Carlos Camissão”, de acôrdo com o modêlo que a êste acompanha, obedecendo às seguintes características:
 
 \- Campo de cor azul-turqueza, da Engenharia, com três faixas e três palas, em amarelo-ouro, lembrando a organização ternária do 9º Batalhão de Engenharia Expedicionário - três companhias a três pelotões. Em chefe, a legenda “Batalhão Carlos Camissão” em letras de ouro.
 
@@ -34,10 +32,10 @@
 
 \- Dimensões:0,80 x 1,10m.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogando as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogando as disposições em contrário.
 
 Rio de Janeiro, 13 de agôsto de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

@@ -1,5 +1,3 @@
-###DEC-059027-0-000-08-08-1966@@@
-
 DECRETO Nº 59.027, DE 8 DE AGôSTO DE 1966.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$200.000.000, para o fim que especifica.

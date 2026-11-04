@@ -1,7 +1,3 @@
-1
-
-###DEC-099278-0-000-06-06-1990@@@
-
 DECRETO N° 99.278, DE 6 DE JUNHO DE 1990
 
 Dispõe sobre a criação da Área de Proteção Ambiental - APA nos Estados do Maranhão e Tocantins, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006077-0-000-10-04-2007@@@
-
 DECRETO Nº 6.077, DE 10 DE ABRIL DE 2007.
 
 Regulamenta o art. 3o da Lei no 8.878, de 11 de maio de 1994, disciplinando o retorno ao serviço dos servidores e empregados anistiados, e altera o Decreto no 5.115, de 24 de junho de 2004.
@@ -63,5 +61,3 @@ Brasília, 10 de abril de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 11.4.2007

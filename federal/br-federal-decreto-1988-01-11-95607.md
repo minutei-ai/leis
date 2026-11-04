@@ -1,7 +1,3 @@
-1
-
-###DEC-095607-0-000-11-01-1988@@@
-
 DECRETO N° 95.607, DE 11 DE JANEIRO DE 1988
 
 Autoriza o aumento do capital social da Centrais Elétricas de Roraima S.A. - CER.

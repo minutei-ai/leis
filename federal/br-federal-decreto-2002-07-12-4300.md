@@ -1,5 +1,3 @@
-###DEC-004300-0-000-12-07-2002@@@
-
 DECRETO Nº 4.300, DE 12 DE JULHO DE 2002
 
 Regulamenta o art. 6º da Lei nº 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários.

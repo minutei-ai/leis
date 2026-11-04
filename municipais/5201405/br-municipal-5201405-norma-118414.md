@@ -31,8 +31,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 24 de outubro de 2023.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

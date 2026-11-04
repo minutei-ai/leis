@@ -1,5 +1,3 @@
-###DEC-004027-0-000-22-11-2001@@@
-
 DECRETO Nº 4.027, DE 22 DE NOVEMBRO DE 2001
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para o Departamento Nacional de Produção Mineral - DNPM.

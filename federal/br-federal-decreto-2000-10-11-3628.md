@@ -1,5 +1,3 @@
-###DEC-003628-0-000-11-10-2000@@@
-
 DECRETO Nº 3.628, DE 11 DE OUTUBRO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.442, de 27 de abril de 2000.

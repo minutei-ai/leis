@@ -1,5 +1,3 @@
-###DEL-005111-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.111 – DE 17 DE DEZEMBRO DE 1942
 
 Prorroga a. aplicação do crédito especial de Cr$ 6.000.000,00, aberto pelo decreto-lei n. 3. 115, de 13 de março de 1941.

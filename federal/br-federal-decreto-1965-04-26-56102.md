@@ -1,5 +1,3 @@
-###DEC-056102-0-000-26-04-1965@@@
-
 DECRETO nº 56.102, DE 26 DE ABRIL DE 1965.
 
 Transfere de Usinas Elétricas Ltda. para o Estado do Paraná a concessão para produzir e distribuir energia elétrica.

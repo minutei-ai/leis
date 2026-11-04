@@ -1,5 +1,3 @@
-###DEC-090193-0-000-12-09-1984@@@
-
 DECRETO Nº 90.193, DE 12 DE SETEMBRO DE 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

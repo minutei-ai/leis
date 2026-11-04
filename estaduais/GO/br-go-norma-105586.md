@@ -56,8 +56,6 @@ Art. 17. Esta Lei entra em vigor após decorridos 90 (noventa) dias da data de s
 
 Goiânia, 13 de maio de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-061139-0-000-08-08-1967@@@
-
 Decreto nº 61.139, de 8 de agôsto de 1967.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis destinados à ampliação da Cidade Universitária da Universidade Federal do Rio Grande do Sul.

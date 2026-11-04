@@ -1,5 +1,3 @@
-###DEC-096341-0-000-14-07-1988@@@
-
 DECRETO N° 96.341, DE 14 DE JULHO DE 1988
 
 Outorga concessão à NASSAU EDITORA, RÁDIO E TELEVISÃO LTDA. para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Recife, Estado de Pernambuco.

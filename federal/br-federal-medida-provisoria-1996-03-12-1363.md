@@ -1,7 +1,3 @@
-1
-
-###MPV-001363-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.363, DE 12 DE MARÇO DE 1996.
 
 Dispõe sobre os fundos que especifica e dá outras providências.

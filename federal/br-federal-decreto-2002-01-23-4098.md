@@ -1,5 +1,3 @@
-###DEC-004098-0-000-23-01-2002@@@
-
 DECRETO Nº 4.098, DE 23 DE JANEIRO DE 2002.
 
 Dispõe sobre a distribuição de cargos pelas categorias da Carreira de Procurador da Fazenda Nacional, e dá outras providências.

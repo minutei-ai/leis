@@ -1,5 +1,3 @@
-###DEC-080741-0-000-14-11-1977@@@
-
 DECRETO Nº 80.741, DE 14 DE NOVEMBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, terrenos e benfeitorias, situados na cidade de Santa Maria, Estado do Rio Grande do Sul, necessários ao Ministério da Aeronáutica.

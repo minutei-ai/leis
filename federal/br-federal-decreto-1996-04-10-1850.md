@@ -1,5 +1,3 @@
-###DEC-001850-0-000-10-04-1996@@@
-
 DECRETO Nº 1.850, DE 10 DE ABRIL DE 1996
 
 Promulga o Acordo de Cooperação Judiciária em Matéria Civil, Comercial, Trabalhista e Administrativa, entre o Governo da República Federativa do Brasil e o Governo da República Oriental do Uruguai, de 28 de dezembro de 1992.

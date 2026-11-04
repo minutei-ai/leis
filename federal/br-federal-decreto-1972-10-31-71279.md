@@ -1,5 +1,3 @@
-###DEC-071279-0-000-31-10-1972@@@
-
 DECRETO Nº 71.279 - DE 31 DE OUTUBRO DE 1972.
 
 Muda a subordinação de órgãos do Ministério do Exercito.

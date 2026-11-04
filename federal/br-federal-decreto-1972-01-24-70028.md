@@ -1,5 +1,3 @@
-###DEC-070028-0-000-24-01-1972@@@
-
 DECRETO Nº 70.028, DE 24 DE JANEIRO DE 1972.
 
 Redistribuição de servidor do extinto Serviço de Alimentação da Previdência Social - SAPS.

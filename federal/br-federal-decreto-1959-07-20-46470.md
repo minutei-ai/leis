@@ -1,5 +1,3 @@
-###DEC-046470-0-000-20-07-1959@@@
-
 DECRETO Nº 46.470, DE 20 DE JULHO DE 1959.
 
 Autoriza Francisco Ramalho a comprar pedras preciosas.

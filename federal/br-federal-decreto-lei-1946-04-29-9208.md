@@ -1,5 +1,3 @@
-###DEL-009208-0-000-29-04-1946@@@
-
 DECRETO-LEI N. 9.208 – DE 29 DE ABRIL DE 1946
 
 Institui o Dia das Polícias Civis e Militares, que será comemorado a 21 de Abril.

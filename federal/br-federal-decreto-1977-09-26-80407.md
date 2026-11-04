@@ -1,5 +1,3 @@
-###DEC-080407-0-000-26-09-1977@@@
-
 DECRETO Nº 80.407, DE 26 DE SETEMBRO DE 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Universidade Federal de Santa Maria, sob a denominação de Rádio Universidade de Santa Maria, para executar serviço de radiodifusão sonora em onda média de âmbito regional, com fins exclusivamente educativos, na cidade de Santa Maria, Estado do Rio Grande do Sul.

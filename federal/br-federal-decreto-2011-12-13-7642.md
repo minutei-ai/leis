@@ -1,5 +1,3 @@
-###DEC-007642-0-000-13-12-2011-PUB-01@@@
-
 DECRETO Nº 7.642, DE 13 DE DEZEMBRO DE 2011
 
 Institui o Programa Ciência sem Fronteiras.

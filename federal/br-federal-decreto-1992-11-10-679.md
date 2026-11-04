@@ -1,7 +1,3 @@
-1
-
-###DEC-000679-0-000-10-11-1992@@@
-
 DECRETO Nº 679, DE 10 DE NOVEMBRO DE 1992
 
 Altera o Decreto nº 601, de 14 de julho de 1992, que dispõe sobre a composição das Diretorias e dos Conselhos de Administração Fiscal e curador das entidades que menciona.
@@ -31,8 +27,6 @@ Brasília, 10 de novembro de 1992; 171º da Independência e 104º da República
 ITAMAR FRANCO
 
 Henrique Eduardo Ferreira Hargreaves
-
-###DEC-000679-0-000-10-11-1992@@@RET01+++
 
 # DECRETO Nº 679, DE 10 DE NOVEMBRO DE 1992
 

@@ -1,6 +1,6 @@
-<strong>EMENDA CONSTITUCIONAL Nº - 74</strong>
+**EMENDA CONSTITUCIONAL Nº - 74**
 
-<em><strong>Altera o art. 134 da Constituição Federal.</strong></em>
+***Altera o art. 134 da Constituição Federal.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
@@ -14,62 +14,62 @@ Art. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, em 6 de agosto de 2013.
 
-<strong>Mesa da Câmara dos Deputados</strong>
+**Mesa da Câmara dos Deputados**
 
-<strong>DEPUTADO HENRIQUE EDUARDO ALVES</strong>
+**DEPUTADO HENRIQUE EDUARDO ALVES**
 
 Presidente
 
-<strong>DEPUTADO ANDRÉ VARGAS</strong>
+**DEPUTADO ANDRÉ VARGAS**
 
 1º Vice-Presidente
 
-<strong>DEPUTADO FÁBIO FARIA</strong>
+**DEPUTADO FÁBIO FARIA**
 
 2º Vice-Presidente
 
-<strong>DEPUTADO MÁRCIO BITTAR</strong>
+**DEPUTADO MÁRCIO BITTAR**
 
 1º Secretário
 
-<strong>DEPUTADO SIMÃO SESSIM</strong>
+**DEPUTADO SIMÃO SESSIM**
 
 2º Secretário
 
-<strong>DEPUTADO MAURÍCIO QUINTELLA LESSA</strong>
+**DEPUTADO MAURÍCIO QUINTELLA LESSA**
 
 3º Secretário
 
-<strong>DEPUTADO ANTONIO CARLOS BIFFI</strong>
+**DEPUTADO ANTONIO CARLOS BIFFI**
 
 4º Secretário
 
-<strong>Mesa do Senado Federal</strong>
+**Mesa do Senado Federal**
 
-<strong>SENADOR RENAN CALHEIROS</strong>
+**SENADOR RENAN CALHEIROS**
 
 Presidente
 
-<strong>SENADOR JORGE VIANA</strong>
+**SENADOR JORGE VIANA**
 
 1º Vice-Presidente
 
-<strong>SENADOR ROMERO JUCÁ</strong>
+**SENADOR ROMERO JUCÁ**
 
 2º Vice-Presidente
 
-<strong>SENADOR FLEXA RIBEIRO</strong>
+**SENADOR FLEXA RIBEIRO**
 
 1º Secretário
 
-<strong>SENADORA ANGELA PORTELA</strong>
+**SENADORA ANGELA PORTELA**
 
 2ª Secretária
 
-<strong>SENADOR CIRO NOGUEIRA</strong>
+**SENADOR CIRO NOGUEIRA**
 
 3º Secretário
 
-<strong>SENADOR JOÃO VICENTE CLAUDINO</strong>
+**SENADOR JOÃO VICENTE CLAUDINO**
 
 4º Secretário

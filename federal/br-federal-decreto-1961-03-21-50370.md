@@ -1,5 +1,3 @@
-###DEC-050370-0-000-21-03-1961@@@
-
 DECRETO Nº 50.370, DE 21 DE MARÇO DE 1961.
 
 Dispõe sôbre um programa de educação de base, e adota medidas necessárias à sua execução através de Escolas Radiofônicas nas áreas subdesenvolvidas do Norte, do Nordeste e do Centro-0este do País a ser empreendida pela Conferência Nacional dos Bispos do Brasil.

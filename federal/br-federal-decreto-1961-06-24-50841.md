@@ -1,5 +1,3 @@
-###DEC-050841-0-000-24-06-1961@@@
-
 DECRETO Nº 50.841, DE 24 DE JUNHO DE 1961.
 
 Isenta a Comissão Nacional de Alimentação, do Ministério da Saúde do pagamento de emolumentos consulares, licença de importação, pedágios, taxas portuárias alfandegárias e outras despesas que recaiam sôbre mercadorias e equipamentos importados ou doados mediante acôrdo firmado com Organizações Internacionais ou Governos Estrangeiros.

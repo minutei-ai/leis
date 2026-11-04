@@ -204,8 +204,6 @@ III – 1º de junho de 2023, quanto aos demais dispositivos.
 
 Goiânia, 26 de setembro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

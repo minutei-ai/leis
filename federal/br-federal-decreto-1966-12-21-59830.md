@@ -1,5 +1,3 @@
-###DEC-059830-0-000-21-12-1966@@@
-
 DECRETO Nº 59.830, DE 21 DE DEZEMBRO DE 1966.
 
 Dispõe sôbre as funções de Secretário-Executivo do Conselho Nacional de Política Salarial e dá outras providências.

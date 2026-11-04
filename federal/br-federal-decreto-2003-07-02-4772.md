@@ -1,5 +1,3 @@
-###DEC-004772-0-000-02-07-2003@@@
-
 DECRETO Nº 4.772, DE 2 DE JULHO DE 2003.
 
        Regulamenta o art. 19 da Lei no 10.696, de 2 de julho de 2003.
@@ -58,11 +56,16 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 2 de julho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
  
 
-Antonio Palocci Filho<br>
-Roberto Rodrigues<br>
-Guido Mantega<br>
-Miguel Soldatelli Rossetto<br>
+Antonio Palocci Filho
+
+Roberto Rodrigues
+
+Guido Mantega
+
+Miguel Soldatelli Rossetto
+
 José Graziano da Silva

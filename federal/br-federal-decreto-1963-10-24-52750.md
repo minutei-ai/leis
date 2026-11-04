@@ -1,5 +1,3 @@
-###DEC-052750-0-000-24-10-1963@@@
-
 DECRETO Nº 52.750, DE 24 DE OUTUBRO DE 1963.
 
 Revoga o Decreto que concedem à sociedade Internacional Basic Economy Corporation autorização para funcionar na República.

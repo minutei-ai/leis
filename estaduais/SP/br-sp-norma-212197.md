@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212197)<br>
-
 # DECRETO N° 70.358, DE 04 DE FEVEREIRO DE 2026
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Mongaguá, que declarou Situação de Emergência em áreas do Município._

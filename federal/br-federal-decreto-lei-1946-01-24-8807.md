@@ -1,5 +1,3 @@
-###DEL-008807-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.807 – DE 24 de JANEIRO DE 1946
 
 Dispõe sôbre a situação do segurado ou associado que passa do regime de uma instituição de previdência social ao de outra.

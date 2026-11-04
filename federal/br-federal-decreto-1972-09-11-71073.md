@@ -1,5 +1,3 @@
-###DEC-071073-0-000-11-09-1972@@@
-
 Decreto nº 71.073, de 11 de setembro de 1972.
 
 Prorroga o prazo de validade da prova de seleção que menciona.

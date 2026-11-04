@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74217)
-
 # LEI Nº 12.711, DE 05 DE OUTUBRO DE 2007
 
 ## (Projeto de lei nº 236/2003, do Deputado Roberto Morais - PPS)

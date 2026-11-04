@@ -1,5 +1,3 @@
-###DEL-009009-0-000-21-02-1946@@@
-
 DECRETO-LEI N. 9.009 – DE 21 DE FEVEREIRO DE 1946
 
 Transforma o 7º G.A.Do. e o 4º G.A. Do. em I/7º R.O. e I/4º R.O., respectivamente.

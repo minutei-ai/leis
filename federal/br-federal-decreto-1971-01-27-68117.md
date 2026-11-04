@@ -1,5 +1,3 @@
-###DEC-068117-0-000-27-01-1971@@@
-
 DECRETO Nº 68.117, DE 27 DE JANEIRO DE 1971.
 
 Organiza o Departamento Geral de Serviços do Ministério do Exército e dá outras providências.

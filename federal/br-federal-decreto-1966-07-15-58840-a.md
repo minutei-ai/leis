@@ -1,5 +1,3 @@
-###DEC-058840-A-000-15-07-1966@@@
-
 DECRETO Nº 58.840-A, DE 15 DE JULHO DE 1966.
 
 Aprova o Regimento do Conselho Superior do Trabalho Marítimo e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045753-0-000-07-04-1959@@@
-
 DECRETO Nº 45.753, DE 7 DE ABRIL DE 1959.
 
 Autoriza a emprêsa de mineração Th. Badin de Minérios Ltda. a pesquisar columbita no município de Rio de Contas, Estado da Bahia.

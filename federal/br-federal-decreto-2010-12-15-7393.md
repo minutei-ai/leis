@@ -1,5 +1,3 @@
-###DEC-007393-0-000-15-12-2010-PUB-01@@@
-
 DECRETO Nº 7.393, DE 15 DE DEZEMBRO DE 2010.
 
 Dispõe sobre a Central de Atendimento à Mulher - Ligue 180.

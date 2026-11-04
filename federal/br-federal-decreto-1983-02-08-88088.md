@@ -1,5 +1,3 @@
-###DEC-088088-0-000-08-02-1983@@@
-
 Decreto nº 88.088, de 08 de fevereiro de 1983.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

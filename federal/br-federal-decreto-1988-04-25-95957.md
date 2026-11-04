@@ -1,5 +1,3 @@
-###DEC-095957-0-000-25-04-1988@@@
-
 DECRETO N° 95.957, DE 25 DE ABRIL DE 1988
 
 Altera o Estatuto da Fundação Alexandre de Gusmão -  FUNAG.

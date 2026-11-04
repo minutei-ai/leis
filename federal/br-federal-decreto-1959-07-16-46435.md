@@ -1,5 +1,3 @@
-###DEC-046435-0-000-16-07-1959@@@
-
 DECRETO Nº 46.435, DE 16 DE julho DE 1959.
 
 Outorga concessão à Emissora de Televisão Continental S. A. - TV Continental para estabelecer uma estação radiodifusão.

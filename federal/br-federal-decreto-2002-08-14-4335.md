@@ -1,5 +1,3 @@
-###DEC-004335-0-000-14-08-2002@@@
-
 DECRETO Nº 4.335, DE 14 DE AGOSTO DE 2002
 
 Suspende a exploração da espécie mogno (Swietenia macrophylla King) na Região Amazônica, pelo período de seis meses, e dá outras providências.

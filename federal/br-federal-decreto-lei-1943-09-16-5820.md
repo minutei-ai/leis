@@ -1,5 +1,3 @@
-###DEL-005820-0-000-16-09-1943@@@
-
 DECRETO‑LEI N. 5.820 – DE 16 DE SETEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 6.435.034,90, para classificação de despesas

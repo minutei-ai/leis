@@ -1,6 +1,10 @@
 > **LEI Nº 3.136, DE 06 DE JUNHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Obriga os hospitais públicos e particulares a comunicarem às delegacias de policia, sobre os atendimentos realizados em unidades de pronto atendimento de casos de idosos, mulheres, crianças e adolescentes vítimas de agressões físicas.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Obriga os hospitais públicos e particulares a comunicarem às delegacias de policia, sobre os atendimentos realizados em unidades de pronto atendimento de casos de idosos, mulheres, crianças e adolescentes vítimas de agressões físicas.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

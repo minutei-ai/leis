@@ -1,5 +1,3 @@
-###DEL-009213-0-000-29-04-1946@@@
-
 DECRETO-LEI N. 9.213 – DE 29 ABRIL DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 8.269.358,40 para pagamento de máquinas agrícolas adquiridas através da Carteira de Exportação e Importação do Banco do Brasil S.A.

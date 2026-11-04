@@ -2,7 +2,8 @@ LEI complementar Nº  4.835, DE 05 DE JUNHO DE 2004.
 
 Altera a [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170).
 
- <br>
+ 
+
  
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

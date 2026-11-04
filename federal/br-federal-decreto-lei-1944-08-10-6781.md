@@ -1,5 +1,3 @@
-###DEL-006781-0-000-10-08-1944@@@
-
 DECRETO-LEI N. 6.781 – DE 10 DE AGÔSTO DE 1944
 
 Extingue a coletoria federal de Piranhas, no Estado de Alagoas, e dá outras providências

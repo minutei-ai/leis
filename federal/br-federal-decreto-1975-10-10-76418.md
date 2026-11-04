@@ -1,5 +1,3 @@
-###DEC-076418-0-000-10-10-1975@@@
-
 DECRETO Nº 76.418, DE 10 DE OUTUBRO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia do Centro Pedagógico de Três Lagoas, em Três Lagoas, Estado de Mato Grosso.

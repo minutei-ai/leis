@@ -1,5 +1,3 @@
-###DEC-093262-0-000-17-09-1986@@@
-
 DECRETO Nº 93.262, DE 17 DE SETEMBRO DE 1986
 
 Outorga concessão à Rádio Nova Xavantina Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Nova Xavantina, Estado de Mato Grosso.

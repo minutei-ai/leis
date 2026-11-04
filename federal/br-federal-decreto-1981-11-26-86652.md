@@ -1,5 +1,3 @@
-###DEC-086652-0-000-26-11-1981@@@
-
 Decreto nº 86.652, de 26 de novembro de 1981
 
 Altera dispositivos do Decreto nº 77.463, de 20 de abril de 1976, que regulamentou a Lei nº 6.297, de 15 de dezembro de 1976, que dispõe sobre a dedução do lucro tributável para fins de imposto sobre a renda das pessoas jurídicas, do dobro das despesas realizadas em projetos de formação profissional.

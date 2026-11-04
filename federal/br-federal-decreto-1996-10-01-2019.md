@@ -1,7 +1,3 @@
-1
-
-###DEC-002019-0-000-01-10-1996@@@
-
 DECRETO N° 2.019, DE 1º DE OUTUBRO DE 1996.
 
 Dispõe sobre a aplicação, no exercício de 1996, do art. 11 do Decreto nº 825, de 28 de maio de 1993, que estabelece normas para a programação e execução orçamentária e financeira dos Orçamentos Fiscal e da Seguridade Social e aprova quadro de cotas trimestrais de despesa para o Poder Executivo.

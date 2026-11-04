@@ -1,5 +1,3 @@
-###DEC-004110-0-000-01-02-2002@@@
-
 DECRETO Nº 4.110, DE 1º DE FEVEREIRO DE 2002
 
 Fixa o valor absoluto do limite global das deduções do imposto sobre a renda devido, relativas a doações e a patrocínios em favor de projetos culturais e a incentivos à atividade audiovisual.

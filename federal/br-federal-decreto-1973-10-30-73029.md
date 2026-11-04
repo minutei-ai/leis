@@ -1,5 +1,3 @@
-###DEC-073029-0-000-30-10-1973@@@
-
 DECRETO Nº 73.029, DE 30 DE OUTUBRO DE 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Rádio Imbiara de Araxá Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Araxá, Estado de Minas Gerais.

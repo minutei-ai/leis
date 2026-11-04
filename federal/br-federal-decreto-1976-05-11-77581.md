@@ -1,5 +1,3 @@
-###DEC-077581-0-000-11-05-1976@@@
-
 DECRETO Nº 77.581 - DE 11 DE MAIO DE 1976
 
 Autoriza o funcionamento da Faculdade de Educação de Joaçaba, com sede na cidade de Joaçaba, no Estado de Santa Catarina.

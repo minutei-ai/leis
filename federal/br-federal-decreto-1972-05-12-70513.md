@@ -1,5 +1,3 @@
-###DEC-070513-0-000-12-05-1972@@@
-
 DECRETO Nº 70.513, DE 12 DE MAIO DE 1972.
 
 Eleva à categoria de Colégio os Ginásios Agrícolas que menciona.

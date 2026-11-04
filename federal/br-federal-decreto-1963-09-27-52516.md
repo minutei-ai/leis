@@ -1,5 +1,3 @@
-###DEC-052516-0-000-27-09-1963@@@
-
 Decreto nº 52.516, de 27 de setembro de 1963.
 
 Autoriza o cidadão brasileiro Ternulino Ferreira Martins, a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-070686-0-000-07-06-1972@@@
-
 DECRETO Nº 70.686, DE 7 DE JUNHO DE 1972.
 
 Transforma em autarquias os estabelecimentos isolados de ensino superior  que menciona.

@@ -1,5 +1,3 @@
-###DEC-003600-0-000-13-09-2000@@@
-
 DECRETO Nº 3.600, DE 13 DE SETEMBRO DE 2000.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores – DAS que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-046316-0-000-30-06-1959@@@
-
 decreto nº 46.316, de 30 de junho de 1959.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a instalar uma usina termoelétrica.

@@ -1,5 +1,3 @@
-###DEC-071130-0-000-21-09-1972@@@
-
 DECRETO Nº 71.130, DE 21 DE SETEMBRO DE 1972.
 
 Autoriza a contratação de empréstimo que menciona, e dá outras providências.
@@ -31,8 +29,6 @@ José Flávio Pécora
 L. F. Cirne Lima
 
 João Paulo dos Reis Velloso
-
-###DEC-071130-0-000-21-09-1972@@@
 
 DECRETO Nº 71.130, DE 21 DE SETEMBRO DE 1972.
 

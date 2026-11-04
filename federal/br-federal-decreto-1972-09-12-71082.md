@@ -1,5 +1,3 @@
-###DEC-071082-0-000-12-09-1972@@@
-
 DECRETO Nº 71.082, DE 12 DE SETEMBRO DE 1972.
 
 Publica os índices de autorização monetária dos salários dos últimos 24 (vinte e quatros) meses, na forma estabelecida na lei nº 5.451, de 12 de junho de 1968, e dá outras providências.

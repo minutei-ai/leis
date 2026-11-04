@@ -1,5 +1,3 @@
-###DEC-071700-0-000-16-01-1973@@@
-
 DECRETO Nº 71.700, DE 16 DE JANEIRO DE 1973.
 
 Torna sem efeito aproveitamento de disponível, no Ministério da Saúde, e cancela a disponibilidade do mesmo.

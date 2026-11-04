@@ -1,5 +1,3 @@
-###DEL-007281-0-000-30-01-1945@@@
-
 DECRETO-LEI N. 7.281 – DE 30 de JANEIRO DE 1945
 
 Altera a redação do art. 3º do Decreto-lei nº 6.378, de 28 de março de 1944

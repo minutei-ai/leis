@@ -1,5 +1,3 @@
-###DEC-092332-0-000-27-01-1986@@@
-
 DECRETO Nº 92.332, DE 27 DE JANEIRO DE 1986
 
 Renova a concessão outorgada à FUNDAÇÃO CASPER LÍBERO, para explorar serviço de radiodifusão sonora em onda média, na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-057696-0-000-02-02-1966@@@
-
 decreto nº 57.696, de 2 de fevereiro de 1966.
 
 Abre, pela Presidência da República, o crédito especial de Cr$300.000, para atender a despesa que especifica.

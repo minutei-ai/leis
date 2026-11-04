@@ -1,5 +1,3 @@
-###DEC-081198-0-000-09-01-1978@@@
-
 Decreto nº 81.198, de 9 de janeiro de 1978
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Guarulhos, Estado de São Paulo.

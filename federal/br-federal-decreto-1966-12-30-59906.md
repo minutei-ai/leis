@@ -1,5 +1,3 @@
-###DEC-059906-0-000-30-12-1966@@@
-
 decreto nº 59.906, de 30 de dezembro de 1966.
 
 Dispõe sôbre o estabelecimento da quota de remuneração pelo transporte aéreo de malas postais e dá outras providências.

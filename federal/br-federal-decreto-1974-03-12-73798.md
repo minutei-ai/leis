@@ -1,5 +1,3 @@
-###DEC-073798-0-000-12-03-1974@@@
-
 DECRETO N.º 73.798, DE 12 DE MARÇO DE 1974.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação de empréstimo externo que especifica.

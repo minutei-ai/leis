@@ -1,5 +1,3 @@
-###DEC-046993-0-000-10-10-1959@@@
-
 DECRETO Nº 46.993, DE 10 DE OUTUBRO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital de responsabilidade da Pearl Assurance Company Limited.

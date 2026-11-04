@@ -1,20 +1,18 @@
-###DEC-028575-0-000-30-08-1950@@@
+**DECRETO Nº 28.575, DE 30 DE AGÔSTO DE 1950.**
 
-<strong>DECRETO Nº 28.575, DE 30 DE AGÔSTO DE 1950.</strong>
+***Outorga José Ermínio de Morais ou emprêsa que organizar, concessão para o aproveitamento de energia hidráulica da queda d’água Salto Grande, existente no rio Tacaniça, no lugar denominado Santa Cruz, município de Rio Branco, Estado do Paraná.***
 
-<em><strong>Outorga José Ermínio de Morais ou emprêsa que organizar, concessão para o aproveitamento de energia hidráulica da queda d’água Salto Grande, existente no rio Tacaniça, no lugar denominado Santa Cruz, município de Rio Branco, Estado do Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Dec. nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Dec. nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, é outorgada a José Ermírio de Morais, ou emprêsa que organizar, concessão para o aproveitamento de energia hidráulica da queda d’água Salto Grande, existente no rio Tacaniça, no lugar denominado Santa Cruz, município de Rio Branco, Estado do Paraná.
+**Art**. 1º Respeitados os direitos de terceiros, é outorgada a José Ermírio de Morais, ou emprêsa que organizar, concessão para o aproveitamento de energia hidráulica da queda d’água Salto Grande, existente no rio Tacaniça, no lugar denominado Santa Cruz, município de Rio Branco, Estado do Paraná.
 
 § 1º Em portaria do Ministério da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga de derivação e a potência.
 
 § 2º O aproveitamento destina-se ao uso exclusivo do concessionário, que não poderá ceder energia a terceiros, mesmo a título gratuito, excluídas, todavia, desta proibição, as vilas operárias do concessionário, desde que seja gratuito o fornecimento da energia que lhes fôr feito.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -86,22 +84,22 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministro 
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado do Paraná, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas.
+**Art**. 4º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado do Paraná, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas.
 
 § 1º O concessionário poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipuladas, desde que faça a prova de que o Estado do Paraná não se opõe à utilização dos bens objeto da reversão.
 
 § 2º O concessionário deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendendo-se, se o não fizer, que não pretende a renovação.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 6º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 30 de agôsto de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 A. de Novaes Filho

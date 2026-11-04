@@ -1,5 +1,3 @@
-###DEC-002535-0-000-06-04-1998@@@
-
 DECRETO Nº 2.535, DE 6 DE ABRIL DE 1998
 
 Promulga o Acordo sobre Cooperação em Matéria de Quarentena e Saúde Animal, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Popular da China, em Brasília, em 8 de fevereiro de 1996.

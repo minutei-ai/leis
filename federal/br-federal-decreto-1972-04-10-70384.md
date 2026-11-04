@@ -1,5 +1,3 @@
-###DEC-070384-0-000-10-04-1972@@@
-
 DECRETO Nº 70.384, DE 10 DE ABRIL DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação, mantida pela Associação Santarritense de Educação e Cultura, com sede na cidade de Santa Rita de Passa Quatro - SP.

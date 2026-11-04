@@ -1,5 +1,3 @@
-###DEL-000057-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 57, DE 18 DE NOVEMBRO DE 1966
 
 Altera dispositivos sôbre lançamento e cobrança do Impôsto sôbre a Propriedade Territorial Rural, institui normas sôbre arrecadação da Dívida Ativa correspondente, e dá outras providências.
@@ -65,8 +63,6 @@ Art. 18. O presente Decreto-Lei entra em vigor, na data de sua publicação, rev
 Brasília, 18 de novembro de 1966; 145º da Independência e 78º da República.
 
 H. CASTELLO BRANCO
-
-###DEL-000057-0-000-18-11-1966@@@RET01+++
 
 DECRETO-LEI Nº 57, DE 18 DE NOVEMBRO DE 1966
 

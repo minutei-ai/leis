@@ -1,5 +1,3 @@
-###DEC-056874-0-000-15-09-1965@@@
-
 DECRETO Nº 56.874, DE 15 DE SETEMBRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Lince de Seguros Gerais S.A., inclusive aumento do capital social.

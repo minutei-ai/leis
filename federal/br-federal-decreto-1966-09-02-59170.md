@@ -1,5 +1,3 @@
-###DEC-059170-0-000-02-09-1966@@@
-
 DECRETO Nº 59.170, DE 2 DE SETEMBRO DE 1966.
 
 Cria a Agência Especial de Financiamento Industrial - FINAME - incorporando o Fundo de Financiamento para Aquisição de Máquinas e Equipamentos Industriais - FINAME, criado pelo Decreto número 55.275, de 22 de dezembro de 1964, de dá outras providências.

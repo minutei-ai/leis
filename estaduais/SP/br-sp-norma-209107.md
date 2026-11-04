@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209107)<br>
-
 # DECRETO N° 68.332, DE 07 DE FEVEREIRO DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Colar Cásper Líbero", instituído pela Fundação Cásper Líbero e dá providências correlatas._

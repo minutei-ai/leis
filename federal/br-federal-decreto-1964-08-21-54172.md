@@ -1,5 +1,3 @@
-###DEC-054172-0-000-21-08-1964@@@
-
 DECRETO Nº 54.172, DE 21 DE AGÔSTO DE 1964.
 
 Autoriza a Companhia Hidrelétrica do São Francisco a constituir penhor mercantil e industrial em favor do Banco Nacional do Desenvolvimento Econômico.

@@ -1,5 +1,3 @@
-###DEC-049772-0-000-31-12-1960@@@
-
 DECRETO Nº 49.772, DE 31 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos da ITALBRÁS - Companhia de Seguros Gerais.

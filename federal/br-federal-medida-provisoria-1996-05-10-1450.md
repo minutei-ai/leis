@@ -1,7 +1,3 @@
-1
-
-###MPV-001450-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.450, DE 10 DE MAIO DE 1996.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

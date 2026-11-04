@@ -1,5 +1,3 @@
-###DEC-066903-0-000-17-07-1970@@@
-
 Decreto nº 66.903, de 17 de julho de 1970.
 
 Declara caduco o Decreto nº 19.157 de 11 de julho de 1945.

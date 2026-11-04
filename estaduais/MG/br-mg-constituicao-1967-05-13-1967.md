@@ -1865,7 +1865,3 @@ Anibal Teixeira – 2º Secretário
 Wilson Tanure – 3º Secretário
 
 Nilson Gontijo – 4º Secretário
-
-\===================
-
-Data da última atualização: 9/8/2017.

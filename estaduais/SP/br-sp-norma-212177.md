@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212177)<br>
-
 # DECRETO N° 70.347, DE 27 DE JANEIRO DE 2026
 
 ### _Cria, junto à Secretaria da Educação, a Comissão Intergestores Bipartite da Educação do Estado de São Paulo - CIBE-SP e dá providências correlatas._

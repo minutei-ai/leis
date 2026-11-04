@@ -1,5 +1,3 @@
-###DEC-081557-0-000-12-04-1978@@@
-
 Decreto nº 81.557, de 12 de abril de 1978.
 
 Autoriza a conversão do curso de Estudos Sociais, da Faculdade de Ciências e Letras Geraldo Rezende, com sede na cidade de Suzano, Estado de São Paulo.

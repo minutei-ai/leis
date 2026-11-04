@@ -1,5 +1,3 @@
-###DEC-002358-0-000-30-10-1997@@@
-
 DECRETO Nº 2.358, DE 30 DE OUTUBRO DE1997
 
 Dispõe sobre as competências e atribuições do Administrador da massa da extinta Companhia de Navegação Lloyd Brasileiro - LLOYDBRÁS.

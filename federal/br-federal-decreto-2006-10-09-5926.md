@@ -1,5 +1,3 @@
-###DEC-005926-0-000-09-10-2006@@@
-
 DECRETO Nº 5.926, DE 9 DE OUTUBRO DE 2006.
 
 Fixa os cargos privativos de Oficial-General da Aeronáutica em tempo de paz e dá outras providências.
@@ -165,5 +163,3 @@ Brasília, 9 de outubro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
        Waldir Pires
-
-Este texto não substitui o publicado no D.O.U. de 10.10.2006.

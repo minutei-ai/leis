@@ -1,5 +1,3 @@
-###DEC-079584-0-000-26-04-1977@@@
-
 DECRETO Nº 79.584, DE 26 DE ABRIL DE 1977.
 
 Concede à Mineração Rio do Norte S.A. o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

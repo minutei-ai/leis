@@ -1,5 +1,3 @@
-###DEC-072690-0-000-24-08-1973@@@
-
 DECRETO Nº 72.690, DE 24 DE AGOSTO DE 1973.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de São Luís, Estado do Maranhão.

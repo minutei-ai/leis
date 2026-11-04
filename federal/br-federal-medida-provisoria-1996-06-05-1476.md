@@ -1,7 +1,3 @@
-1
-
-###MPV-001476-0-000-05-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.476, DE 5 DE JUNHO DE 1996.
 
 Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro.

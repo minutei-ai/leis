@@ -1,5 +1,3 @@
-###DEL-003432-0-000-16-07-1941@@@
-
 DECRETO-LEI n. 3.432 – DE 16 de JULHO DE 1941
 
 Aumenta o quadro de terceiros sargentos do Corpo de Bombeiros do Distrito Federal

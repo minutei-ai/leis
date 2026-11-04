@@ -1,5 +1,3 @@
-###DEC-050498-0-000-26-04-1961@@@
-
 DECRETO Nº 50.498, DE 26 DE ABRIL DE 1961.
 
 Homologa a subscrição pública de ações para constituição de capital do Banco do Estado do Pará S.A.

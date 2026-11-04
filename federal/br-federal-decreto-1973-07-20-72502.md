@@ -1,5 +1,3 @@
-###DEC-072502-0-000-20-07-1973@@@
-
 DECRETO Nº 72.502, DE 20 DE JULHO DE 1973.
 
 Autoriza a reversão do terreno que menciona, situado no Município de Torixoréu, Estado de Mato Grosso.

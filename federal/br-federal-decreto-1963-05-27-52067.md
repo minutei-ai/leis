@@ -1,5 +1,3 @@
-###DEC-052067-0-000-27-05-1963@@@
-
 DECRETO Nº 52.067, DE 27 DE MAIO DE 1963.
 
 Declara de utilidade pública a Sociedade Portuguesa de Beneficência - Hospital Santo Antônio, com sede em Araraquara, Estado de São Paulo.

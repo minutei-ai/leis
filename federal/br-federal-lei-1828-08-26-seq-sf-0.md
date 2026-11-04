@@ -1,5 +1,3 @@
-###LEI-000000-0-000-26-08-1828@@@
-
 LEI - DE 26 DE AGOSTO DE 1828
 
 Applica varios subsidias para a factura da estrada da serra de Paraty, e extingue os registros da Cachoeira e do Curralinho e o imposto de 40 rs. por pessoa e por animal que nelles passavam.

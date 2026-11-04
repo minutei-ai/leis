@@ -1,5 +1,3 @@
-###DEC-079674-0-000-10-05-1977@@@
-
 DECRETO Nº 79.674, DE 10 DE MAIO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro

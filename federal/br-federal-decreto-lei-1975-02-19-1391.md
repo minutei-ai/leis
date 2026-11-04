@@ -1,5 +1,3 @@
-###DEL-001391-0-000-19-02-1975@@@
-
 # decreto-lei nº 1.391, de 19 de fevereiro de 1975
 
 Dispõe sobre concessão de estímulos às fusões e às incorporações das Sociedades Seguradoras e dá outras providências.

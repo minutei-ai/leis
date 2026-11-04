@@ -1,5 +1,3 @@
-###DEC-096384-0-000-21-07-1988@@@
-
 DECRETO N° 96.384, DE 21 DE JULHO DE 1988
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Educação de Cacoal, Estado de Rondônia.

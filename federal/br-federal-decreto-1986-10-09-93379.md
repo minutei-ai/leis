@@ -1,5 +1,3 @@
-###DEC-093379-0-000-09-10-1986@@@
-
 DECRETO Nº 93.379, DE 9 DE OUTUBRO DE 1986.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Barro Duro, situado no Município de Tutóia, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.619, de 2 de maio de 1986, e dá outras providências.

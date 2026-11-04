@@ -1,5 +1,3 @@
-###DEC-002741-0-000-20-08-1998@@@
-
 DECRETO Nº 2.741, DE 20 DE AGOSTO DE 1998
 
 Promulga a Convenção Internacional de Combate à Desertificação nos Países afetados por Seca Grave e/ou Desertificação, Particularmente na África.

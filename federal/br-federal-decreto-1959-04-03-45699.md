@@ -1,5 +1,3 @@
-###DEC-045699-0-000-03-04-1959@@@
-
 DECRETO Nº 45.699, DE 3 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Francisco Ferreira Castelo Branco a pesquisar areias ilmeníticas e associados no município de Barreirinhas, Estado do Maranhão.

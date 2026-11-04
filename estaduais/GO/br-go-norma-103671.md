@@ -224,7 +224,8 @@ I – a totalidade da base de cálculo da contribuição, quando o segurado tive
 
 II – a base de cálculo da contribuição que não exceder o limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social – RGPS de que trata o art. 201 da Constituição Federal, se o segurado tiver ingressado no serviço público de qualquer ente da Federação a partir de 7 de julho de 2017 ou se o segurado que tiver ingressado anteriormente a esta data tenha optado por limitar seus benefícios previdenciários ao valor máximo dos benefícios do RGPS.
 
-§ 2o Nos termos do § 4o\-A do art. 101 da Constituição Estadual, enquanto houver déficit atuarial no âmbito do Regime Próprio de Previdência Social do Estado de Goiás comprovado por meio de avaliações atuariais apresentadas ao órgão federal fiscalizador, a contribuição previdenciária paga pelos aposentados e pelos pensionistas de que trata o inciso II do proventos de aposentadoria e pensões que superem o maior valor entre R$ 3.000,00 (três mil reais) e 1 (um) salário-mínimo.<br>
+§ 2o Nos termos do § 4o\-A do art. 101 da Constituição Estadual, enquanto houver déficit atuarial no âmbito do Regime Próprio de Previdência Social do Estado de Goiás comprovado por meio de avaliações atuariais apresentadas ao órgão federal fiscalizador, a contribuição previdenciária paga pelos aposentados e pelos pensionistas de que trata o inciso II do proventos de aposentadoria e pensões que superem o maior valor entre R$ 3.000,00 (três mil reais) e 1 (um) salário-mínimo.
+
 \- [Redação dada pela Lei Complementar no 168, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104720/lei-complementar-168)
 
 ~~§ 2º Nos termos do § 4º-A do art. 101 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba"), enquanto houver deficit atuarial no âmbito do Regime Próprio de Previdência Social do Estado de Goiás, comprovado por meio de avaliações atuariais apresentadas ao órgão federal fiscalizador, a contribuição previdenciária paga pelos aposentados e pensionistas de que trata o inciso II do caput deste artigo, incidirá sobre o montante dos proventos de aposentadoria e de pensões que supere o salário mínimo nacional.~~
@@ -609,13 +610,16 @@ a) Registro Geral – RG, Carteira de Trabalho, Passaporte, Carteira Nacional de
 
 b) comprovante de endereço atualizado, com CEP válido;
 
-~~II – original e uma fotocópia:~~<br>
+~~II – original e uma fotocópia:~~
+
 \- [Revogado pela Lei Complementar nº 175, de 30-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105756/lei-complementar-175), art. 3º, II.
 
-~~a) Certidão de Nascimento atualizada para filho, enteado, menor tutelado ou irmão do segurado, que possuam mais de 16 (dezesseis) anos de idade, mesmo que inválidos; e~~<br>
+~~a) Certidão de Nascimento atualizada para filho, enteado, menor tutelado ou irmão do segurado, que possuam mais de 16 (dezesseis) anos de idade, mesmo que inválidos; e~~
+
 \- [Revogado pela Lei Complementar nº 175, de 30-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105756/lei-complementar-175), art. 3º, II.
 
-~~b) Certidão de Casamento ou de Nascimento atualizada, com inteiro teor, para viúvo(a), companheiro(a) ou ex-cônjuge, ex-companheiro(a) ou cônjuge separado de fato, com direito a recebimento de pensão alimentícia do segurado falecido, de acordo com seu estado civil.~~<br>
+~~b) Certidão de Casamento ou de Nascimento atualizada, com inteiro teor, para viúvo(a), companheiro(a) ou ex-cônjuge, ex-companheiro(a) ou cônjuge separado de fato, com direito a recebimento de pensão alimentícia do segurado falecido, de acordo com seu estado civil.~~
+
 \- [Revogado pela Lei Complementar nº 175, de 30-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105756/lei-complementar-175), art. 3º, II.
 
 § 1º Para o recadastramento serão exigidos:
@@ -626,7 +630,8 @@ II – para os pensionistas:
 
 a) os documentos a que se refere o inciso I, alíneas “a” e “b”, do caput deste artigo, sendo que bastará a apresentação de apenas um deles; e
 
-~~b) o exigido no inciso II do caput deste artigo, conforme sua qualidade de dependente para com o segurado; e~~<br>
+~~b) o exigido no inciso II do caput deste artigo, conforme sua qualidade de dependente para com o segurado; e~~
+
 \- [Revogado pela Lei Complementar nº 175, de 30-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105756/lei-complementar-175), art. 3º, II.
 
 III – a indicação de endereço eletrônico pelo aposentado e pelo pensionista, ficando ciente que as notificações lhes serão encaminhadas no endereço informado.
@@ -793,7 +798,8 @@ Art. 69. É vedada a adoção de requisitos e critérios diferenciados para a co
 
 I – servidores com deficiência, previamente submetidos à avaliação biopsicossocial realizada por equipe multiprofissional e interdisciplinar;
 
-II – ocupantes dos cargos estaduais de Agente Socioeducativo, de Policial Civil ou Policial Penal dos órgãos estabelecidos nos incisos I e IV do art. 121 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152);<br>
+II – ocupantes dos cargos estaduais de Agente Socioeducativo, de Policial Civil ou Policial Penal dos órgãos estabelecidos nos incisos I e IV do art. 121 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152);
+
 \- [Redação dada pela Lei Complementar nº 214, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116000/lei-complementar-214).
 
 ~~II – ocupantes dos cargos estaduais de agente penitenciário, de agente socioeducativo ou de policial civil do órgão de que trata o inciso I do art. 121 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba");~~
@@ -806,7 +812,8 @@ IV – ocupantes do cargo estadual de professor, desde que comprovem tempo de ef
 
 I – os servidores estaduais com deficiência, vinculados ao RPPS/GO, desde que cumpridos o tempo mínimo de 10 (dez) anos de efetivo exercício no serviço público e de 5 (cinco) anos no cargo efetivo em que for concedida a aposentadoria, será concedida na forma da Lei Complementar nº 142, de 8 de maio de 2013, inclusive quanto aos critérios de cálculo do benefício;
 
-II – os Policiais Penais, Agentes Socioeducativos e os Policiais Civis do Estado de Goiás poderão ser aposentados aos cinquenta e cinco anos de idade, com trinta anos de contribuição e vinte e cinco anos de efetivo exercício em cargos pertencentes a essas carreiras, para ambos os sexos;<br>
+II – os Policiais Penais, Agentes Socioeducativos e os Policiais Civis do Estado de Goiás poderão ser aposentados aos cinquenta e cinco anos de idade, com trinta anos de contribuição e vinte e cinco anos de efetivo exercício em cargos pertencentes a essas carreiras, para ambos os sexos;
+
 \- [Redação dada pela Lei Complementar nº 214, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116000/lei-complementar-214).
 
 ~~II – os agentes penitenciários, agentes socioeducativos e os policiais civis do Estado de Goiás, poderão ser aposentados aos 55 (cinquenta e cinco) anos de idade, com 30 (trinta) anos de contribuição e 25 (vinte e cinco) anos de efetivo exercício em cargos pertencentes a essas carreiras, para ambos os sexos;~~
@@ -893,25 +900,30 @@ I – em relação ao servidor público que tenha ingressado em cargo efetivo ou
 
 II – em relação aos demais servidores públicos ao valor apurado na forma do § 3º do art. 81 desta Lei Complementar.
 
-Art. 73. O Policial Civil e o Policial Penal de que tratam os incisos I e IV do art. 121 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba") e o ocupante do cargo de Agente Socioeducativo que tenham ingressado na respectiva carreira até a data em vigor da Emenda Constitucional federal nº 103, de 2019, poderão aposentar-se na forma nela prevista.<br>
+Art. 73. O Policial Civil e o Policial Penal de que tratam os incisos I e IV do art. 121 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba") e o ocupante do cargo de Agente Socioeducativo que tenham ingressado na respectiva carreira até a data em vigor da Emenda Constitucional federal nº 103, de 2019, poderão aposentar-se na forma nela prevista.
+
 \- [Redação dada pela Lei Complementar nº 214, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116000/lei-complementar-214).
 
 ~~Art. 73. O policial civil do órgão de que trata o inciso I do art. 121 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba") e o ocupante do cargo de agente penitenciário ou socioeducativo que tenham ingressado na respectiva carreira até a data em vigor da Emenda Constitucional federal nº 103, de 2019, poderão aposentar-se na forma nela prevista.~~
 
-§ 1º Serão considerados tempo de exercício em cargo de natureza estritamente policial, para os fins do inciso II do art. 1º da Lei Complementar federal nº 51, de 20 de dezembro de 1985, o tempo de atividade militar nas Forças Armadas, nas Polícias Militares e nos Corpos de Bombeiros Militares e o tempo de atividade como Policial Penal ou Agente Socioeducativo.<br>
+§ 1º Serão considerados tempo de exercício em cargo de natureza estritamente policial, para os fins do inciso II do art. 1º da Lei Complementar federal nº 51, de 20 de dezembro de 1985, o tempo de atividade militar nas Forças Armadas, nas Polícias Militares e nos Corpos de Bombeiros Militares e o tempo de atividade como Policial Penal ou Agente Socioeducativo.
+
 \- [Redação dada pela Lei Complementar nº 214, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116000/lei-complementar-214).
 
 ~~§ 1º Serão considerados tempo de exercício em cargo de natureza estritamente policial, para os fins do inciso II do art. 1º da Lei Complementar nº 51, de 20 de dezembro de 1985, o tempo de atividade militar nas Forças Armadas, nas polícias militares e nos corpos de bombeiros militares e o tempo de atividade como agente penitenciário ou socioeducativo.~~
 
 § 2º (VETADO).
 
-§ 3º A aplicação do disposto neste artigo ao servidor que tenha ingressado nos quadros da Delegacia-Geral da Polícia Civil, bem como da Superintendência de Polícia Técnico-Científica da Secretaria de Estado da Segurança Pública até 6 de julho de 2017 será com os proventos correspondentes à totalidade da remuneração do cargo efetivo em que se der a aposentadoria, também com a revisão na mesma data e proporção dos que se encontram em atividade, inclusive em decorrência da transformação ou reclassificação do cargo ou função.<br>
+§ 3º A aplicação do disposto neste artigo ao servidor que tenha ingressado nos quadros da Delegacia-Geral da Polícia Civil, bem como da Superintendência de Polícia Técnico-Científica da Secretaria de Estado da Segurança Pública até 6 de julho de 2017 será com os proventos correspondentes à totalidade da remuneração do cargo efetivo em que se der a aposentadoria, também com a revisão na mesma data e proporção dos que se encontram em atividade, inclusive em decorrência da transformação ou reclassificação do cargo ou função.
+
 \- [Acrescido pela Lei Complementar nº 214, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116000/lei-complementar-214).
 
-§ 4º Os Policiais Penais que ingressaram no cargo até 6 de julho de 2017 terão direito, por ocasião da aposentadoria, à integralidade e à paridade dos proventos, observados os requisitos constitucionais e legais aplicáveis.<br>
+§ 4º Os Policiais Penais que ingressaram no cargo até 6 de julho de 2017 terão direito, por ocasião da aposentadoria, à integralidade e à paridade dos proventos, observados os requisitos constitucionais e legais aplicáveis.
+
 \- [Acrescido pela Lei Complementar nº 214, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116000/lei-complementar-214).
 
-§ 5º O disposto no § 4º do art. 73 desta Lei aplica-se somente aos Policiais Penais que se aposentarem na forma da Lei Complementar federal nº 51, de 1985, por força da regra incluída pelo § 4º-C do art. 97 da Constituição Estadual e do caput do art. 73 desta Lei Complementar, que remetem à aplicação do art. 5º da Emenda Constitucional federal nº 103, de 2019.<br>
+§ 5º O disposto no § 4º do art. 73 desta Lei aplica-se somente aos Policiais Penais que se aposentarem na forma da Lei Complementar federal nº 51, de 1985, por força da regra incluída pelo § 4º-C do art. 97 da Constituição Estadual e do caput do art. 73 desta Lei Complementar, que remetem à aplicação do art. 5º da Emenda Constitucional federal nº 103, de 2019.
+
 \- [Acrescido pela Lei Complementar nº 214, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116000/lei-complementar-214).
 
 Art. 74. O segurado do RPPS/GO que tenha ingressado no serviço público em cargo efetivo até a data de entrada em vigor da Emenda Constitucional estadual nº 65, de 2019, cujas atividades tenham sido exercidas com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, vedada a caracterização por categoria profissional ou ocupação, desde que cumpridos o tempo mínimo de 20 (vinte) anos de efetivo exercício no serviço público e de 5 (cinco) anos no cargo efetivo em que for concedida a aposentadoria, na forma dos arts. 57 e 58 da Lei federal nº 8.213, de 24 de julho de 1991, poderão aposentar-se quando o total da soma resultante da sua idade e do tempo de contribuição e o tempo de efetiva exposição forem, respectivamente, de:
@@ -1036,7 +1048,8 @@ II – uma cota familiar de 50% (cinquenta por cento) acrescida de cotas de 10 (
 
 § 6º Equiparam-se a filho, para fins de recebimento da pensão por morte, exclusivamente, o enteado e o menor tutelado, desde que comprovada a dependência econômica para com o segurado do RPPS/GO.
 
-Art. 85. A pensão por morte devida aos dependentes do Policial Civil ou do Policial Penal dos órgãos de que tratam os incisos I e IV do art. 121 da Constituição Estadual e do ocupante do cargo de Agente Socioeducativo decorrente de agressão sofrida no exercício ou em razão da função, devidamente comprovada, será por tempo indeterminado para o cônjuge ou o companheiro e equivalente à remuneração do cargo.<br>
+Art. 85. A pensão por morte devida aos dependentes do Policial Civil ou do Policial Penal dos órgãos de que tratam os incisos I e IV do art. 121 da Constituição Estadual e do ocupante do cargo de Agente Socioeducativo decorrente de agressão sofrida no exercício ou em razão da função, devidamente comprovada, será por tempo indeterminado para o cônjuge ou o companheiro e equivalente à remuneração do cargo.
+
 \- [Redação dada pela Lei Complementar nº 214, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116000/lei-complementar-214).
 
 ~~Art. 85. A pensão por morte devida aos dependentes do policial civil do órgão de que trata o inciso I do art. 121 da Constituição do Estado e dos ocupantes dos cargos de agente penitenciário ou socioeducativo decorrente de agressão sofrida no exercício ou em razão da função, devidamente comprovada, será por tempo indeterminado para o cônjuge ou companheiro e equivalente à remuneração do cargo.~~
@@ -1407,7 +1420,8 @@ Parágrafo único. Até que leis complementares federais disciplinem as aposenta
 
 I – servidor com deficiência;
 
-II – exercício de atividades de Agente Socioeducativo e de Policial Civil ou Policial Penal dos órgãos de que tratam os incisos I e IV do art. 121 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba"); e<br>
+II – exercício de atividades de Agente Socioeducativo e de Policial Civil ou Policial Penal dos órgãos de que tratam os incisos I e IV do art. 121 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba"); e
+
 \- [Redação dada pela Lei Complementar nº 214, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116000/lei-complementar-214).
 
 ~~II – exercício de atividades de agente penitenciário, de agente socioeducativo e de policial civil do órgão de que trata o inciso I do art. 121 da Constituição do Estado de Goiás; e~~
@@ -1690,5 +1704,6 @@ Goiânia, 30 de dezembro de 2020; 132º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-089712-0-000-29-05-1984@@@
-
 Decreto nº 89.712, de 29 de maio de 1984
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO DIÁRIO DA MANHÃ DE LAGES LTDA. para RÁDIO ARAUCÁRIA LTDA.

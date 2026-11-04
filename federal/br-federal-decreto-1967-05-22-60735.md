@@ -1,5 +1,3 @@
-###DEC-060735-0-000-22-05-1967@@@
-
 DECRETO Nº 60.735, DE 22 DE MAIO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no município de Caranaíba, Estado de Minas Gerais.

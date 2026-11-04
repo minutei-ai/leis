@@ -1,7 +1,3 @@
-1
-
-###DEC-001381-0-000-30-01-1995@@@
-
 DECRETO Nº 1.381, DE 30 DE JANEIRO DE 1995
 
 Dispõe sobre a execução do Acordo de Complementação Econômica, entre Brasil e Venezuela, de 15 de julho de 1994.

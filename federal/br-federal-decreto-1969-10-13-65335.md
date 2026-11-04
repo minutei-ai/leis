@@ -1,5 +1,3 @@
-###DEC-065335-0-000-13-10-1969@@@
-
 DECRETO Nº 65.335 - DE 13 DE OUTUBRO DE 1969.
 
 Outorga à Sociedade Mineira de Ferro-Ligas Ltda. concessão para o aproveitamento hidráulico de um trecho do rio Paraopeba, no município de Jeceaba, Estado de Minas Gerais.

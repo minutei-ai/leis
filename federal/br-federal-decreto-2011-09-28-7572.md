@@ -1,5 +1,3 @@
-###DEC-007572-0-000-28-09-2011-PUB-01@@@
-
 DECRETO N° 7.572, DE 28 DE SETEMBRO DE 2011
 
 Regulamenta dispositivos da Medida Provisória n° 535, de 2 de junho de 2011, que tratam do Programa de Apoio à Conservação Ambiental - Programa Bolsa Verde.

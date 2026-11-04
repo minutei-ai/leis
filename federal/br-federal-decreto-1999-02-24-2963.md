@@ -1,5 +1,3 @@
-###DEC-002963-0-000-24-02-1999@@@
-
 DECRETO Nº 2.963, DE 24 DE FEVEREIRO DE 1999.
 
 Regulamenta o Auxílio–Transporte dos militares federais.

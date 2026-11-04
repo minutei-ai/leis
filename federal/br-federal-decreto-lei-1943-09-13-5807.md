@@ -1,5 +1,3 @@
-###DEL-005807-0-000-13-09-1943@@@
-
 DECRETO-LEI N. 5.807 – DE 13 DE SETEMBRO DE 1943
 
 Estende à exportação o estrangeira o regime fiscal inerente à importação

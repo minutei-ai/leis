@@ -1,5 +1,3 @@
-###DEC-052271-0-000-17-07-1963@@@
-
 DECRETO Nº 52.271, DE 17 DE JULHO DE 1963.
 
 Cria o Comando Naval de Natal e dá outras providências.

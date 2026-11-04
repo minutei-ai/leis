@@ -1,5 +1,3 @@
-###DEC-007484-0-000-18-05-2011-PUB-01@@@
-
 DECRETO Nº 7.484, DE 18 DE MAIO DE 2011
 
 Promulga a Decisão do Conselho do Mercado Comum - CMC nº 33/04, que cria o Fundo de Financiamento do Setor Educacional do Mercosul - FEM, aprovada em Belo Horizonte, em 16 de dezembro de 2004.

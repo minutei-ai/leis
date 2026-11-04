@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 10 dias do mês de Dezembro de 2020.
 
-<br>
-
 CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
 
 QUADRO 1

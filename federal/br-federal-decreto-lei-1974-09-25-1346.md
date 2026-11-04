@@ -1,5 +1,3 @@
-###DEL-001346-0-000-25-09-1974@@@
-
 # DECREtO-LEI Nº 1.346, De 25 DE SETEMBRO DE 1974
 
 Altera o sistema de estímulos às fusões e incorporações de empresas e dá outras providências.

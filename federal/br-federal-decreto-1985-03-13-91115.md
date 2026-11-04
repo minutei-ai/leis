@@ -1,5 +1,3 @@
-###DEC-091115-0-000-13-03-1985@@@
-
 DECRETO Nº 91.115, DE 13 DE MARÇO DE 1985.
 
 Altera o Decreto nº 90 649, de 10 de dezembro de 1984, que criou a SECRETARIA DA CIÊNCIA E TECNOLOGIA do Ministério do Exército.

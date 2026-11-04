@@ -1,5 +1,3 @@
-###DEC-089785-0-000-13-06-1984@@@
-
 Decreto nº 89.785, de 13 de junho de 1984.
 
 Institui a Comissão Nacional do Ano Internacional da Juventude.

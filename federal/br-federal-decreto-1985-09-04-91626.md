@@ -1,5 +1,3 @@
-###DEC-091626-0-000-04-09-1985@@@
-
 Decreto nº 91.626, de 04 de setembro de 1985.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Jacutinga", situado no Município de São Miguel D'Oeste, no Estado de Santa Catarina, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411 de 22 de outubro de 1971, e alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976 e 84.969, de 28 de julho de 1980, e dá outras providências.

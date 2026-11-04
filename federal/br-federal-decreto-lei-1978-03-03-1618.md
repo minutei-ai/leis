@@ -1,5 +1,3 @@
-###DEL-001618-0-000-03-03-1978@@@
-
 # DECRETO-LEI Nº 1.618, DE 03 DE MARÇO DE 1978
 
 Fixa o valor do soldo dos postos de coronel PM da Polícia Militar e de Coronel BM do Corpo de Bombeiros do Distrito Federal e dá nova redação a dispositivos das Leis nºs 5.619, de 03 de novembro de 1970 e 5.906, de 23 de julho de 1973.

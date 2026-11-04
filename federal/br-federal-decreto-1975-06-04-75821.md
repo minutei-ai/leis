@@ -1,5 +1,3 @@
-###DEC-075821-0-000-04-06-1975@@@
-
 DECRETO Nº 75.821, DE 4 DE JUNHO DE 1975.
 
 Concede à Iguaçu Mineração e Comércio Limitada, o direito de lavrar areia quartzosa e cascalho no Município de Cachoeiras de Macacu, Estado do Rio de Janeiro.

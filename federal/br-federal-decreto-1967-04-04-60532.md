@@ -1,5 +1,3 @@
-###DEC-060532-0-000-04-04-1967@@@
-
 DECRETO Nº 60.532, DE 4 DE ABRIL DE 1967.
 
 Transfere concessão

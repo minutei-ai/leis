@@ -1,5 +1,3 @@
-###DEC-069880-0-000-31-12-1971@@@
-
 DECRETO Nº 69.880 - DE 31 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, terrenos situados na cidade de Joinville, Estado de Santa Catarina, necessário à instalação de estação central de telex e de comutação telefônica automática e serviços afins daquela cidade, integrantes do Sistema Nacional de Telecomunicações.

@@ -1,5 +1,3 @@
-###DEC-069971-0-000-19-01-1972@@@
-
 DECRETO Nº 69.971, DE 19 DE JANEIRO DE 1972.
 
 Concede reconhecimento dos Cursos de Ciências Econômicas de Administração de Empresa de Emprêsas da Faculdade de Ciências Econômicas e Administração de Emprêsas "Doutor Clovis Salgado".

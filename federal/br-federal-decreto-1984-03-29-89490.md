@@ -1,5 +1,3 @@
-###DEC-089490-0-000-29-03-1984@@@
-
 Decreto nº 89.490 de 29 de março de 1984
 
 Autoriza a alienação de imóveis da União, situados no Estado do Rio de Janeiro.

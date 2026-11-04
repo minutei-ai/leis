@@ -1,5 +1,3 @@
-###MPV-001973-0-057-11-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.973-57, DE 11 DE janeiro de 2000.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048935-0-000-13-09-1960@@@
-
 Decreto nº 48.935, de 13 de setembro de 1960.
 
 Dispõe sôbre a transferência de função da Tabela Única de Extranumerário-mensalista do Departamento Administrativo do Serviço Público para idêntica Tabela do Ministério da Fazenda.

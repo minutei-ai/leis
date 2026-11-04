@@ -1,5 +1,3 @@
-###DEC-006374-0-000-18-02-2008@@@
-
 DECRETO Nº 6.374, DE 18 DE FEVEREIRO DE 2008.
 
 Dispõe sobre a execução do Qüinquagésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica no 18, entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, relativo a Transações Comerciais em Moedas Locais.
@@ -22,11 +20,7 @@ Brasília, 18 de fevereiro de 2008; 187o da Independência e 120o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 19.2.2008
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 18 CELEBRADO ENTRE ARGENTINA, BRASIL, PARAGUAI E URUGUAI
+Samuel Pinheiro Guimarães NetoACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 18 CELEBRADO ENTRE ARGENTINA, BRASIL, PARAGUAI E URUGUAI
 
 Qüinquagésimo Nono Protocolo Adicional
 

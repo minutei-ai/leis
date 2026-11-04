@@ -1,5 +1,3 @@
-###DEC-047560-0-000-30-12-1959@@@
-
 Decreto nº 47.560, de 30 de dezembro de 1959.
 
 Retifica o art. 1º do Decreto número 46.287, de 29 de junho de 1959.

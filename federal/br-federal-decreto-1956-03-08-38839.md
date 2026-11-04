@@ -1,14 +1,12 @@
-###DEC-038839-0-000-08-03-1956@@@
+**DECRETO Nº 38.839, DE 8 DE MARÇO DE 1956.**
 
-<strong>DECRETO Nº 38.839, DE 8 DE MARÇO DE 1956.</strong>
+***Altera a redação dos números 22 e 81 do Regulamento de Continências, Honras e Sinais de Respeito das Fôrças Armadas, aprovado pelo Decreto nº 8.736, de 10 de fevereiro de 1942.***
 
-<em><strong>Altera a redação dos números 22 e 81 do Regulamento de Continências, Honras e Sinais de Respeito das Fôrças Armadas, aprovado pelo Decreto nº 8.736, de 10 de fevereiro de 1942.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, Inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, Inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os números 22 e 81 do Regulamento de Continências, Honras e Sinais de Respeito das Forças Armadas, aprovado pelo Decreto número 8.736, de 10 de fevereiro de 1942, passam a ter a seguinte redação:
+**Art**. 1º Os números 22 e 81 do Regulamento de Continências, Honras e Sinais de Respeito das Forças Armadas, aprovado pelo Decreto número 8.736, de 10 de fevereiro de 1942, passam a ter a seguinte redação:
 
 “22. O militar que se apresentar ou for apresentado a um superior, depois de tomar a posição prevista neste Regulamento, dirá o seu pôsto (graduação), nome e função que exerce.
 
@@ -34,7 +32,7 @@ b. Quando nos desfiles (4):\*
 
 (2) A 20 passos do local onde está a autoridade (símbolo) é observado o seguinte:
 
-\- Os comandantes de companhia, esquadrão, bateria (exceto quando se tratar de formações emassadas) dão o comando de “Sentido”! - Continência à direita (esquerda)!”, devendo tôda a tropa executar os movimentos previstos na letra <em>a</em> anterior.
+\- Os comandantes de companhia, esquadrão, bateria (exceto quando se tratar de formações emassadas) dão o comando de “Sentido”! - Continência à direita (esquerda)!”, devendo tôda a tropa executar os movimentos previstos na letra *a* anterior.
 
 (3) A 5 passos além da autoridade (símbolo), serão:
 
@@ -50,11 +48,11 @@ b. Quando nos desfiles (4):\*
 
 (5) Finalmente, depois de deixar a 100 passos atrás de si a autoridade (símbolo) o desfile estará terminado e cada unidade poderá reconstituir-se (desde que não embarace o movimento das que lhe seguem), rumando a seu destino se não houver ordem em contrário”.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 8 de março de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Antônio Alves Câmara
 

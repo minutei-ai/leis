@@ -1,5 +1,3 @@
-###DEL-001489-0-000-25-11-1976@@@
-
 # DECRETO-Lei Nº 1.489, DE 25 DE NOVEmbro DE 1976
 
 Concede benefício fiscais para construção da ligação ferroviária Belo Horizonte-Itutinga-Volta Redonda, inclusive Ramal de Sepetiba.

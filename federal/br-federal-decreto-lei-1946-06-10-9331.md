@@ -1,5 +1,3 @@
-###DEL-009331-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.331 – DE 10 DE JUNHO DE 1946
 
 Extingue a Instrução Pré-Militar

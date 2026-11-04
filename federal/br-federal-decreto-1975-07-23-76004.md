@@ -1,5 +1,3 @@
-###DEC-076004-0-000-23-07-1975@@@
-
 Decreto Nº 76.004 - DE 23 DE JULHO DE 1975.
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Administrativas, Contábeis e Econômicas de Ijuí, mantida pela Fundação de Integração, Desenvolvimento e Educação do Noroeste do Estado - FIDENE, com sede na cidade de Ijuí, Estado do Rio Grande do Sul.

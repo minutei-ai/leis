@@ -1,5 +1,3 @@
-###DEC-004752-0-000-17-06-2003@@@
-
 DECRETO Nº 4.752, DE 17 DE JUNHO DE 2003.
 
        Acrescenta os §§ 3º, 4º, 5º e 6º ao art. 5º do Decreto nº 4.564, de 1º de janeiro de 2003, que define o órgão gestor do Fundo de Combate e Erradicação da Pobreza e o funcionamento do seu Conselho Consultivo e de Acompanhamento, e dispõe sobre doações de pessoas físicas ou jurídicas, nacionais ou estrangeiras, para o Fundo de Combate e Erradicação da Pobreza.

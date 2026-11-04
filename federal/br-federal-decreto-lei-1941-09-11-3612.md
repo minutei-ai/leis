@@ -1,5 +1,3 @@
-###DEL-003612-0-000-11-09-1941@@@
-
 DECRETO-LEI N. 3.612 – DE 11 DE SETEMBRO DE 1941
 
 Autoriza Prefeitura do Distrito Federal a realizar a operação de crédito que menciona, e dá outras providências

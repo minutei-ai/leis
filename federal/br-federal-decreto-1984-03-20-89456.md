@@ -1,5 +1,3 @@
-###DEC-089456-0-000-20-03-1984@@@
-
 Decreto nº 89.456, de 20 de março de 1984.
 
 Promulga o Tratado de Amizade e Cooperação entre o Governo da República Federativa do Brasil e o Governo da República do Equador.
@@ -76,4 +74,20 @@ O presente Tratado entrará em vigor na data da troca dos Instrumentos de Ratifi
 
 Feito em Brasília, aos 9 dias do mês de fevereiro de 1982, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DO EQUADOR:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Luis Valencia Rodrígues)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DO EQUADOR:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Ramiro Saraiva Guerreiro)
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Luis Valencia Rodrígues)
+
+</td></tr></tbody></table>

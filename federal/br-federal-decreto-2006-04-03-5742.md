@@ -1,5 +1,3 @@
-###DEC-005742-0-000-03-04-2006@@@
-
 DECRETO Nº 5.742, DE 3 DE ABRIL DE 2006.
 
 Promulga o Acordo sobre Cooperação na Área da Indústria de Energia entre o Governo da República Federativa do Brasil e o Gabinete de Ministros da Ucrânia, assinado em Kiev, em 16 de janeiro de 2002.
@@ -122,4 +120,12 @@ ARTIGO DÉCIMO TERCEIRO
 
         Feito em Kiev, em 16 de janeiro de 2002, em dois exemplares, cada um nos idiomas português, ucraniano, e inglês, tendo todos os textos e exemplares igual valor. Em caso de discrepâncias, o texto em inglês prevalecerá.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:238.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________________________________ PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL Celso Lafer Ministro de Estado das Relações Exteriores</span></p></td><td style="width:238.15pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________________________________ PELO GABINETE DE MINISTROS DA UCRÂNIA Vassyl Rogoviy Ministro da Economia</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:238.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+_________________________________ PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL Celso Lafer Ministro de Estado das Relações Exteriores
+
+</td><td style="width:238.15pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+_________________________________ PELO GABINETE DE MINISTROS DA UCRÂNIA Vassyl Rogoviy Ministro da Economia
+
+</td></tr></tbody></table>

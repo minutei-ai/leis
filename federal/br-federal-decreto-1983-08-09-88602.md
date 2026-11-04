@@ -1,5 +1,3 @@
-###DEC-088602-0-000-09-08-1983@@@
-
 Decreto nº 88.602, de 09 de agosto de 1983
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS, área de terra abrangido pela bacia hidráulica e faixa seca do Açude Público "SALGUEIRO", no Município de Verdejante, Estado de Pernambuco e dá outras providências.

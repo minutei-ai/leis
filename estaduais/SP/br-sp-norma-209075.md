@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209075)<br>
-
 # DECRETO N° 68.304, DE 09 DE JANEIRO DE 2024
 
 ### _Dispõe sobre os procedimentos de contratação direta, por inexigibilidade ou por dispensa de licitação, na forma eletrônica, de que tratam os artigos 74 e 75 da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo._
@@ -8,10 +6,12 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Das Disposições Preliminares
 
-#### Seção I<br>
+#### Seção I
+
 Do Objeto e Âmbito de Aplicação
 
 **Artigo 1° -** Este decreto dispõe sobre os procedimentos de contratação direta, por inexigibilidade ou por dispensa de licitação, na forma eletrônica, de que tratam os artigos 74 e 75 da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo.
@@ -36,7 +36,8 @@ IV - contratação direta sem disputa eletrônica - procedimento sem disputa, cu
 
 2\. à descrição dos serviços e de obras, aquela constante do Sistema de Compras do Governo Federal de Catalogação de Serviços ou de Obras do Governo federal.
 
-#### Seção II<br>
+#### Seção II
+
 Das Hipóteses de Uso
 
 **Artigo 3° -** O procedimento de contratação direta por inexigibilidade de licitação previsto neste decreto será adotado nas hipóteses do "caput" e dos incisos I a V do artigo 74 da Lei federal n° 14.133, de 1° de abril de 2021.
@@ -57,10 +58,12 @@ III - contratação de obras, serviços, incluídos os serviços de engenharia, 
 
 **Artigo 5° -** Na hipótese de contratação direta indevida ocorrida com dolo, fraude ou erro grosseiro, o contratado e o agente público responsável responderão solidariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis, nos termos do artigo 73 da Lei federal n° 14.133, de 1° de abril de 2021, e do artigo 337-E do Decreto-Lei federal n° 2.848, de 7 de dezembro de 1940.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Procedimento
 
-#### Seção I<br>
+#### Seção I
+
 Da Instrução
 
 **Artigo 6° -** O procedimento de contratação direta, por inexigibilidade ou por dispensa de licitação, será instruído com os seguintes documentos, no mínimo:
@@ -87,7 +90,8 @@ VIII - autorização da autoridade competente.
 
 **§ 3° -** O ato que autoriza a contratação direta ou o extrato decorrente do contrato deverá ser divulgado e mantido à disposição do público em sítio eletrônico oficial do órgão ou da entidade promotora do procedimento.
 
-#### Seção II<br>
+#### Seção II
+
 Do Processamento da Inexigibilidade e da Dispensa de Licitação
 
 **Artigo 7° -** O órgão ou a entidade promotora do procedimento deverá inserir no Sistema de Compras do Governo Federal, no que couber, as seguintes informações para a realização do procedimento de contratação direta, por inexigibilidade ou por dispensa de licitação:
@@ -110,10 +114,12 @@ V - as condições da contratação e as sanções aplicáveis pela inexecução
 
 **§ 2° -** A informação sobre o preço estimado é dispensada na hipótese do § 1° do artigo 14 deste decreto.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Dispensa de Licitação com Disputa Eletrônica
 
-#### Seção I<br>
+#### Seção I
+
 Da Utilização da Dispensa com Disputa Eletrônica
 
 **Artigo 8° -** A dispensa de licitação com disputa eletrônica deverá ser empregada nas hipóteses de contratação direta fundamentadas exclusivamente no valor previstas nos incisos I e II do artigo 4° deste decreto.
@@ -124,12 +130,14 @@ Da Utilização da Dispensa com Disputa Eletrônica
 
 **Artigo 9° -** O procedimento de contratação direta por dispensa de licitação com disputa eletrônica será divulgado no Portal Nacional de Contratações Públicas - PNCP e será encaminhado automaticamente aos fornecedores registrados no Sistema de Compras do Governo Federal de Cadastramento Unificado de Fornecedores - SICAF, por mensagem eletrônica, na correspondente linha de fornecimento do objeto demandado.
 
-#### Seção II<br>
+#### Seção II
+
 Do Prazo para Abertura do Procedimento
 
 **Artigo 10 -** O prazo fixado para abertura do procedimento de dispensa de licitação com disputa eletrônica e envio de lances não será inferior a 3 (três) dias úteis, contados da data de divulgação do aviso de contratação direta.
 
-#### Seção III<br>
+#### Seção III
+
 Do Fornecedor
 
 **Artigo 11 -** Até a data e o horário estabelecidos para abertura do procedimento, o fornecedor deverá, exclusivamente por meio do Sistema de Compras do Governo Federal:
@@ -158,12 +166,14 @@ f) o cumprimento do disposto no inciso VI do artigo 68 da Lei federal n° 14.133
 
 **Parágrafo único -** O fornecedor poderá parametrizar o seu valor final mínimo, nos termos estabelecidos no manual de que trata o § 2° do artigo 1° deste decreto.
 
-#### Seção IV<br>
+#### Seção IV
+
 Da Abertura e do Envio de Lances
 
 **Artigo 12 -** A partir da data e horário estabelecidos, o procedimento será automaticamente aberto pelo Sistema de Compras do Governo Federal para o envio de lances públicos e sucessivos, nos termos estabelecidos no manual de que trata o § 2° do artigo 1° deste decreto.
 
-#### Seção V<br>
+#### Seção V
+
 Do Julgamento
 
 **Artigo 13 -** Após a etapa de lances, o órgão ou entidade realizará a verificação da conformidade da proposta classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do preço em relação àquele estimado para a contratação.
@@ -180,7 +190,8 @@ Do Julgamento
 
 **Parágrafo único -** No caso de contratação em que o procedimento exija apresentação de planilha com indicação dos quantitativos e dos custos unitários ou de custos e formação de preços, esta deverá ser encaminhada pelo Sistema de Compras do Governo Federal com os respectivos valores readequados à proposta vencedora.
 
-#### Seção VI<br>
+#### Seção VI
+
 Da Habilitação
 
 **Artigo 17 -** Para a habilitação do fornecedor mais bem classificado serão exigidas, exclusivamente, as condições a que alude a Lei federal n° 14.133, de 1° de abril de 2021.
@@ -201,7 +212,8 @@ III - de produto para pesquisa e desenvolvimento de que trata a alínea "c" do i
 
 **Artigo 19 -** Na hipótese de o fornecedor não atender às exigências para a habilitação, o órgão ou entidade examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, até a apuração de proposta que atenda às especificações do objeto e às condições de habilitação.
 
-#### Seção VII<br>
+#### Seção VII
+
 Dos Recursos
 
 **Artigo 20 -** Qualquer fornecedor poderá apresentar recurso administrativo quanto aos atos de julgamento de proposta e de habilitação ou inabilitação.
@@ -214,12 +226,14 @@ Dos Recursos
 
 **§ 4° -** O acolhimento do recurso implicará invalidação apenas dos atos não suscetíveis de aproveitamento.
 
-#### Seção VIII<br>
+#### Seção VIII
+
 Da Adjudicação e da Homologação
 
 **Artigo 21 -** Encerradas as fases de julgamento e de habilitação, e exauridos os recursos administrativos, o processo será encaminhado à autoridade superior para adjudicação do objeto e homologação do procedimento, observado, no que couber, o disposto no artigo 71 da Lei federal n° 14.133, de 1° de abril de 2021.
 
-#### Seção IX<br>
+#### Seção IX
+
 Do Procedimento fracassado ou deserto
 
 **Artigo 22 -** No caso de o procedimento restar fracassado, o órgão ou entidade poderá:
@@ -234,17 +248,20 @@ IV - contratar, desde que atendidos os requisitos de habilitação, o fornecedor
 
 **Parágrafo único -** O disposto nos incisos I e IV deste artigo poderá ser utilizado nas hipóteses de o procedimento restar deserto.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Inexigibilidade e da Dispensa de licitação sem disputa eletrônica
 
 **Artigo 23 -** Nas hipóteses de inexigibilidade e dispensa de licitação sem disputa eletrônica, após as inserções no Sistema de Compras do Governo Federal dos documentos e informações de quetratam o "caput" do artigo 6° e o "caput" do artigo 7° deste decreto, o resultado será publicado automaticamente no PNCP.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Sanções Administrativas
 
 **Artigo 24 -** Os fornecedores ou contratados estarão sujeitos às sanções administrativas previstas na Lei federal n° 14.133, de 1° de abril de 2021, e demais normas legais aplicáveis, sem prejuízo da eventual anulação da nota de empenho de despesa ou da extinção do instrumento contratual, resguardado o direito à ampla defesa.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Das Disposições Finais
 
 **Artigo 25 -** O horário estabelecido no aviso de contratação direta e durante o envio de lances observará o de Brasília, Distrito Federal, inclusive para contagem de tempo e registro no Sistema de Compras do Governo Federal.

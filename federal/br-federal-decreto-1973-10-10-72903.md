@@ -1,5 +1,3 @@
-###DEC-072903-0-000-10-10-1973@@@
-
 DECRETO Nº 72.903, DE 10 DE OUTUBRO DE 1973.
 
 Concede reconhecimento do curso de Direito, ministrado pela Faculdade de Direito do Distrito Federal, mantida pelo Centro de Ensino Unificado de Brasília - CEUB, com sede na cidade de Brasília, Distrito Federal.

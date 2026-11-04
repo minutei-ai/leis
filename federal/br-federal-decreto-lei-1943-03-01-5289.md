@@ -1,5 +1,3 @@
-###DEL-005289-0-000-01-03-1943@@@
-
 DECRETO‑LEI N. 5.289 – DE 1 DE MARÇO DE 1943
 
 Abre, ao Ministério da Fazenda, crédito suplementar, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-089502-0-000-02-04-1984@@@
-
 Decreto nº 89.502, de 02 de Abril de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão da Companhia Hidro Elétrica do São Francisco-CHESF, no Estado do Piauí.

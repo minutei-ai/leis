@@ -1,5 +1,3 @@
-###DEL-000266-0-000-28-02-1967@@@
-
 decrETO-LEI Nº 266, DE 18 DE FEVEREIRO DE 1967
 
 Dispõe sôbre o regime do pessoal das Caixas Econômicas Federais.

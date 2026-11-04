@@ -1,5 +1,3 @@
-###DEL-003956-0-000-19-12-1941@@@
-
 DECRETO-LEI N. 3.956 – DE 19 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de réis 3.124:000$0 à verba que especifica.

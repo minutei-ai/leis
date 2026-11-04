@@ -1,7 +1,3 @@
-1
-
-###DEC-098150-0-000-18-09-1989@@@
-
 DECRETO Nº 98.150, DE 18 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA LEBRE, TALHÃO III” ou FAZENDA TRÊS LAGOAS”, situado no Município de Doverlândia, Estado de Goiás, e dá outras providências.

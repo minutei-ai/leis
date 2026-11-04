@@ -1,5 +1,3 @@
-###DEC-068095-0-000-20-01-1971@@@
-
 DECRETO Nº 68.095, DE 20 DE JANEIRO DE 1971
 
 Aprova incorporação de empresa de energia elétrica no Estado do Rio Grande do Sul e dá outras providências.

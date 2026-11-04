@@ -1,5 +1,3 @@
-###DEL-004305-0-000-16-05-1942@@@
-
 DECRETO-LEI N. 4.305 – DE 16 DE MAIO DE 1942
 
 Dispõe sobre a designação dos membros da Comissão de Metrologia

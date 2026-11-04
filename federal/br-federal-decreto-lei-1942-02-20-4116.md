@@ -1,5 +1,3 @@
-###DEL-004116-0-000-20-02-1942@@@
-
 DECRETO-LEI N. 4.116 – DE 20 DE FEVEREIRO DE 1942
 
 Dispõe sobre aplicação de crédito orçamentário e dá outras providências

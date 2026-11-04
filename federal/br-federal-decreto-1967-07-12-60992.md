@@ -1,5 +1,3 @@
-###DEC-060992-0-000-12-07-1967@@@
-
 decreto Nº 60.992, de 12 de julho de 1967.
 
 Concede à “Aerovias Nacionales de Colômbia S. A. “Avianca” autorização para funcionar no Brasil.

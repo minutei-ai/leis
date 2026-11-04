@@ -1,5 +1,3 @@
-###DEC-057254-0-000-16-11-1965@@@
-
 Decreto nº 57.254, de 16 de novembro de 1965.
 
 Autoriza a Cia. Carbonífera Minas Butiá a pesquisar carvão mineral no município de Triunfo, Estado do Rio Grande do Sul.

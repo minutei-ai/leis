@@ -1,5 +1,3 @@
-###DEC-091633-0-000-09-09-1985@@@
-
 decreto nº 91.633, de 09 de setembro de 1985
 
 Cria Comissão Especial para propor a reformulação da legislação que dispõe sobre o comércio e o uso de agrotóxicos e biocidas.

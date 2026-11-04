@@ -1,5 +1,3 @@
-###DEC-098783-0-000-28-12-1989@@@
-
 DECRETO Nº 98.783, DE 28 DE DEZEMBRO DE 1989
 
 Declara o valor do salário-mínimo do mês de janeiro de 1990, na forma da Lei nº 7.789, de 3 de julho de 1989.

@@ -1,5 +1,3 @@
-###DEL-003179-0-000-08-04-1941@@@
-
 DECRETO-LEI N. 3.179 – DE 8 DE ABRIL DE 1941
 
 Extingue três cargos, em comissão, de Diretor, padrão L, do Quadro I do Ministério da Educação  e Saude e dá outras providências.

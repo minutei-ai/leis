@@ -1,5 +1,3 @@
-###DEC-088129-0-000-01-03-1983@@@
-
 Decreto nº 88.129, de 01 de março de 1983
 
 Concede à Telecomunicações do Piauí S.A. - TELEPISA, empresa controlada da Telecomunicações Brasileiras S.A. - TELEBRÁS autorização para promover o aumento do seu capital social.

@@ -1,5 +1,3 @@
-###DEC-059605-0-000-28-11-1966@@@
-
 decreto Nº 59.605, de 28 de novembro de 1966.
 
 Retifica o enquadramento dos professôres fundadores da Universidade Federal de Alagoas.

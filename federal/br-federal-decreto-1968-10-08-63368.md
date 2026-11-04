@@ -1,14 +1,12 @@
-###DEC-063368-0-000-08-10-1968@@@
+**DECRETO Nº 63.368, DE 8 DE OUTUBRO DE 1968.**
 
-<strong>DECRETO Nº 63.368, DE 8 DE OUTUBRO DE 1968.</strong>
+***Cria as reservas indígenas que discrimina, no Estado do Mato Grosso.***
 
-<em><strong>Cria as reservas indígenas que discrimina, no Estado do Mato Grosso.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso das atribuições que lhe confere o artigo 83, item II da Constituição e tendo em vista o disposto em seus artigos 4º, item IV e 186; bem como os fatos deduzidos na Exposição de Motivos nº 192-68, do Ministro de Estado do Interior,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso das atribuições que lhe confere o artigo 83, item II da Constituição e tendo em vista o disposto em seus artigos 4º, item IV e 186; bem como os fatos deduzidos na Exposição de Motivos nº 192-68, do Ministro de Estado do Interior,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam reservadas às tribos indígenas Tapaiuna (“Berços de Pau”), Nambikwuàra, Erikbatsa (“Canoeiros”), Apiaká, Kayabi, Irantxe e Pareci, para os efeitos previstos no artigo 186, da Constituição do Brasil, as áreas adiante discriminadas situadas no Estado do Mato Grosso:
+**Art**. 1º Ficam reservadas às tribos indígenas Tapaiuna (“Berços de Pau”), Nambikwuàra, Erikbatsa (“Canoeiros”), Apiaká, Kayabi, Irantxe e Pareci, para os efeitos previstos no artigo 186, da Constituição do Brasil, as áreas adiante discriminadas situadas no Estado do Mato Grosso:
 
 a) à tribo dos Tapaiuna, a área limitada ao Norte, pelo paralelo 12º ligando a foz dos Ribeirões Silva França, margem esquerda do rio Arinos e ribeirão Narciso, afluente direito do rio do Sangue; ao Sul pelo paralelo 13º15’, ligando a barreira Bandeira Vermelha à margem esquerda do rio Arinos, à margem direita do rio Ponte de Pedra ou Sucuriuiná, afluente direito do rio do Sangue; a Leste, margem esquerda do rio Arinos, da barreira Bandeira Vermelha até o afluente esquerdo - Ribeirão Silva França, respectivamente entre os paralelos 12º e 13º15’; a Oeste, margem direita do rio do Sangue, do Ribeirão Narciso até ao afluente direito do rio Ponte de Pedra ou Sucuruiná, entre os paralelos 12º e 13º15’;
 
@@ -24,14 +22,14 @@ f) à tribo dos Irantxe a área limitada pela margem esquerda do rio Cravari, da
 
 g) à tribo dos Pareci, a área limitada ao Norte, pelo paralelo 14º, ligando a margem direita do rio Juruena a margem esquerda do rio Verde; ao Sul, pela BR-29 (364), da ponte sôbre o rio Juruena à ponte sôbre o rio Verde; a Leste, margem esquerda do rio Verde, da ponte na BR-29 (364), até o paralelo 14º; a Oeste,margem direita do rio Juruena, da ponte na BR-29 (364), até o paralelo 14º.
 
-<strong>Art</strong>. 2º A Fundação Nacional do Índio promoverá as medidas necessárias no sentido de criar, nas reservas discriminadas no artigo 1º condições para que nelas sejam localizados os grupos indígenas das tribos mencionadas, esparsos fora de seus limites.
+**Art**. 2º A Fundação Nacional do Índio promoverá as medidas necessárias no sentido de criar, nas reservas discriminadas no artigo 1º condições para que nelas sejam localizados os grupos indígenas das tribos mencionadas, esparsos fora de seus limites.
 
-<strong>Art</strong>. 3º Fica facultado à Fundação Nacional do índio, no exercício do poder de polícia conferido pelo artigo 1º item VII, da Lei nº 5.371, de 5 de dezembro de 1967, requisitar a cooperação da Polícia Federal, no sentido de que sejam impedidos ou restringidos o ingresso, o trânsito ou permanência de pessoas ou grupos cujas atividades sejam julgadas nocivas ou inconvenientes ao processo de assistência aos índios nas áreas ora reservadas.
+**Art**. 3º Fica facultado à Fundação Nacional do índio, no exercício do poder de polícia conferido pelo artigo 1º item VII, da Lei nº 5.371, de 5 de dezembro de 1967, requisitar a cooperação da Polícia Federal, no sentido de que sejam impedidos ou restringidos o ingresso, o trânsito ou permanência de pessoas ou grupos cujas atividades sejam julgadas nocivas ou inconvenientes ao processo de assistência aos índios nas áreas ora reservadas.
 
-<strong>Art</strong>. 4º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 8 de outubro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Afonso A. Lima

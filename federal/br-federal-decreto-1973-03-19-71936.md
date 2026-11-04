@@ -1,5 +1,3 @@
-###DEC-071936-0-000-19-03-1973@@@
-
 DECRETO Nº 71.936, DE 19 DE MARÇO DE 1973.
 
 Concede à Mineração Abel S. A., o direito de lavrar areia quartzosa no Município de Peruíbe, Estado de São Paulo.

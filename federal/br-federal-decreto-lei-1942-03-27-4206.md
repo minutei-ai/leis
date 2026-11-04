@@ -1,5 +1,3 @@
-###DEL-004206-0-000-27-03-1942@@@
-
 DECRETO-LEI N. 4.206 – DE 27 DE MARÇO DE 1942
 
 Autoriza a emissão de papel-moeda até 300.000:000$0

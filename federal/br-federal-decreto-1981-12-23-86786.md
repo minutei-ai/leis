@@ -1,5 +1,3 @@
-###DEC-086786-0-000-23-12-1981@@@
-
 Decreto nº 86.786, de 23 de dezembro de 1981
 
 Declara a utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro -- CERJ, no Estado do Rio de Janeiro.

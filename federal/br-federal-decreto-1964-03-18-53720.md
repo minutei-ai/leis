@@ -1,5 +1,3 @@
-###DEC-053720-0-000-18-03-1964@@@
-
 DECRETO Nº 53.720, DE 18 DE MARÇO DE 1964.
 
 Aprova alterações introduzidas nos Estatutos da Sul América Terrestres, Marítimos e Acidentes, Companhia de Seguros, inclusive aumento de honorários da Diretoria.

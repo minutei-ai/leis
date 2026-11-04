@@ -1,5 +1,3 @@
-###MPV-000500-0-000-30-08-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 500, DE 30 DE AGOSTO DE 2010.
 
 Autoriza a União e as entidades da administração pública federal indireta a contratar, reciprocamente, ou com fundo privado do qual seja o Tesouro Nacional cotista único a aquisição, alienação, cessão e permuta de ações, a cessão de créditos decorrentes de adiantamentos efetuados para futuro aumento de capital, a cessão de alocação prioritária de ações em ofertas públicas ou a cessão do direito de preferência para a subscrição de ações em aumentos de capital; autoriza a União a se abster de adquirir ações em aumentos de capital de empresas em que possua participação acionária, e dá outras providências.

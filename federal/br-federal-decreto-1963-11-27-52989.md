@@ -1,5 +1,3 @@
-###DEC-052989-0-000-27-11-1963@@@
-
 DECRETO Nº 52.989, DE 27 DE NOVEMBRO DE 1963.
 
 Concede à Emprêsa de produtos Químicos e Fertilizantes S.A. - Profertil, autorização para funcionar como emprêsa de mineração.

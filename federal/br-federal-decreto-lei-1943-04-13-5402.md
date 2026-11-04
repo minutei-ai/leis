@@ -1,5 +1,3 @@
-###DEL-005402-0-000-13-04-1943@@@
-
 DECRETO‑LEI N. 5.402 – DE 13 DE ABRIL DE 1943
 
 Exclue das disposições do decreto‑lei n. 2.803, de 21 de novembro de 1940, os terrenos que menciona; transfere, gratuita e condicionalmente, o seu domínio util à sociedade civil "Faculdades Católicas", com sede no Distrito Federal, e dá outras providencias

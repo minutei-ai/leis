@@ -1,5 +1,3 @@
-###DEC-081328-0-000-09-02-1978@@@
-
 Decreto n° 81.328, de 9 de fevereiro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessária à implantação das subestações de Barro Alto e Niquelândia da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, no Estado de Goiás.

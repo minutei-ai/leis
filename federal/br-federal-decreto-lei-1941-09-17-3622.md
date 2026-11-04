@@ -1,5 +1,3 @@
-###DEL-003622-0-000-17-09-1941@@@
-
 DECRETO-LEI N. 3.622 – DE 17 DE SETEMBRO DE 1941
 
 Dá nova redação ao artigo 54 do Código de Caça

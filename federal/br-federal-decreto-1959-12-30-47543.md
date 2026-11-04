@@ -1,5 +1,3 @@
-###DEC-047543-0-000-30-12-1959@@@
-
 DECRETO Nº 47.543,DE 30 DE DEZEMBRO DE 1959.
 
 Suprime cargo extinto.
@@ -17,8 +15,6 @@ Rio de Janeiro, em 30 de dezembro de 1959, 138º da Independência e 71º da Rep
 Juscelino Kubitschek
 
 S. Paes de Almeida
-
-###DEC-047543-0-000-20-12-1959@@@RET01+++
 
 Decreto nº 47.543, de 20 de dezembro de 1959.
 

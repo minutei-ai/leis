@@ -1,5 +1,3 @@
-###DEC-050883-0-000-29-06-1961@@@
-
 DECRETO Nº 50.883, de 29 de junho de 1961.
 
 Declara de utilidade pública, para fins de desapropriação imóveis destinados à Universidade do Ceará.

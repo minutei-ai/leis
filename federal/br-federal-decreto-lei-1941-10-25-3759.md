@@ -1,5 +1,3 @@
-###DEL-003759-0-000-25-10-1941@@@
-
 DECRETO-LEI N. 3.759 – DE 25 DE OUTUBRO DE 1941
 
 Dispõe sobre o Código de Vencimentos e Vantagens dos Militares da Armada

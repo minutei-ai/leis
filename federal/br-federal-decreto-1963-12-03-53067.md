@@ -1,5 +1,3 @@
-###DEC-053067-0-000-03-12-1963@@@
-
 DECRETO Nº 53.067, DE 3 DE DEZEMBRO DE 1963.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terra situadas no Município de São Paulo, Estado de São Paulo.

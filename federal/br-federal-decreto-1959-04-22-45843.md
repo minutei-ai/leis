@@ -1,5 +1,3 @@
-###DEC-045843-0-000-22-04-1959@@@
-
 DECRETO Nº 45.843, DE 22 DE ABRIL DE 1959.
 
 Autoriza a São Paulo Light S.A. - Serviços de Eletricidade a construir uma linha de transmissão.

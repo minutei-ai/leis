@@ -1,5 +1,3 @@
-###DEC-062507-0-000-08-04-1968@@@
-
 DECRETO Nº 62.507, DE 8 DE ABRIL DE 1968.
 
 Declara de utilidade pública o ‘’Serviço Social da Indústria do Papel, Papelão e Cortiça do Estado de São Paulo - SEPACO”, com sede em São Paulo, Estado de São Paulo.

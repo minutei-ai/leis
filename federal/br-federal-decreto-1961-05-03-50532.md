@@ -1,5 +1,3 @@
-###DEC-050532-0-000-03-05-1961@@@
-
 Decreto nº 50.532, de 3 de maio de 1961.
 
 Dispõe sôbre o funcionamento das emprêsas de que trata a Lei número 3.099, de 24 de fevereiro de 1957.

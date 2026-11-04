@@ -1,5 +1,3 @@
-###DEC-062453-0-000-22-03-1968@@@
-
 DECRETO Nº 62.453, DE 22 DE MARÇO DE 1968.
 
 Concede reconhecimento aos Cursos de História e de Matemática, da Faculdade de Filosofia, Ciências e Letras de São Leopoldo – RGS.
@@ -17,8 +15,6 @@ Brasília, 22 de março de 1968; 147º da Independência e 80º da República.
 A. Costa e Silva
 
 Tarso Dutra
-
-###DEC-062453-0-000-22-03-1968@@@RET01+++
 
 DECRETO Nº 62.453, DE 22 DE MARÇO DE 1968.
 

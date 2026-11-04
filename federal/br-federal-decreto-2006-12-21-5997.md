@@ -2,8 +2,6 @@
 
 #
 
-###DEC-005997-0-000-21-12-2006@@@
-
 DECRETO No- 5.997, DE 21 DE DEZEMBRO DE 2006
 
 Dispõe sobre o percentual máximo do Fundo de Combate e Erradicação da Pobreza a ser destinado às despesas administrativas para oexercício de 2006, e dá outras providências.

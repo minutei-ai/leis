@@ -1,5 +1,3 @@
-###DEC-075067-0-000-09-12-1974@@@
-
 DECRETO Nº 75.067, DE 9 DE DEZEMBRO DE 1974.
 
 Altera o artigo 10, do Decreto número 74.143, de 4 de junho de 1974, que dispõe sobre viagem ao exterior, a serviço ou com o fim de aperfeiçoamento, e dá outras providências

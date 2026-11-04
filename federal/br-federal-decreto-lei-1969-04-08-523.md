@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2d28bec1-984c-4f91-95ea-2f938555d3ed/texto#nowhere)
 
-###DEL-000523-0-000-08-04-1969@@@
-
 DECRETO-LEI Nº 523, de 8 de ABRIL DE 1969
 
 Acrescenta parágrafo ao Artigo 27 da Lei nº 2.004, de 3 de outubro de 1953, com a redação que lhe foi dada pela Lei nº 3.257, de 2 de setembro de 1957, e dá outras providências.

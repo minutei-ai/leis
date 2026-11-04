@@ -1,5 +1,3 @@
-###DEL-004835-0-000-15-10-1942@@@
-
 DECRETO-LEI N. 4.835 – DE 15 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de 16:628$0, para restituição de caução

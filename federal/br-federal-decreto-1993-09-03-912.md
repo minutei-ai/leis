@@ -1,7 +1,3 @@
-1
-
-###DEC-000912-0-000-03-09-1993@@@
-
 DECRETO Nº 912, DE 3 DE SETEMBRO DE 1993
 
 Dispõe sobre a execução do Décimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 2, entre Brasil e Uruguai, de 12/0 7/1993.

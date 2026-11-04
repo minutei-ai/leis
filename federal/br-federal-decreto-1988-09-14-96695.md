@@ -1,5 +1,3 @@
-###DEC-096695-0-000-14-09-1988@@@
-
 DECRETO N° 96.695, DE 14 DE SETEMBRO DE 1988
 
 Extingue o Vice-Consulado do Brasil em Porto Ordaz.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/72795)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2007/compilacao-lei-12638-06.07.2007.html)
 
 # LEI N° 12.638, DE 06 DE JULHO DE 2007
@@ -13,7 +12,8 @@
 
 ~~Faço saber que a Assembléia Legislativa decreta e eu promulgo, nos termos do artigo 28,  § 8°, da Constituição do Estado, a seguinte lei:~~
 
-#### ~~TÍTULO I~~<br>
+#### ~~TÍTULO I~~
+
 ~~Das Disposições Preliminares~~
 
 ~~Artigo 1° - Fica instituído no Estado de São Paulo, em cumprimento ao disposto no artigo 39 da Constituição Federal, o Conselho de Política de Administração e Remuneração de Pessoal, composto por servidores públicos nomeados pelos Chefes dos Poderes Executivo, Legislativo e Judiciário, nos termos determinados na presente lei.~~
@@ -22,7 +22,8 @@
 
 ~~Artigo 2° - As disposições da presente lei se aplicam estritamente, no que pertine aos servidores públicos estaduais, àqueles que exercerem mandato no Conselho.~~
 
-#### ~~TÍTULO II~~<br>
+#### ~~TÍTULO II~~
+
 ~~Dos Princípios Fundamentais~~
 
 ~~Artigo 3° - O Conselho de Política de Administração e Remuneração de Pessoal, que é entidade não-partidária, atuará pautado nos seguintes princípios:~~
@@ -61,10 +62,12 @@
 
 ~~XVII - da participação dos usuários dos serviços públicos como instância consultiva do Conselho.~~
 
-#### ~~TÍTULO III~~<br>
+#### ~~TÍTULO III~~
+
 ~~Do Conselho de Política de Administração e Remuneração de Pessoal~~
 
-#### ~~CAPÍTULO I~~<br>
+#### ~~CAPÍTULO I~~
+
 ~~Da Estrutura do Conselho de Política de Administração e Remuneração de Pessoal~~
 
 ~~Artigo 4° - O Conselho de Política de Administração e Remuneração de Pessoal é uno e indivisível, composto por Conselheiros, servidores dos Poderes Executivo, Legislativo e Judiciário, nomeados, respectivamente, pelo Governador do Estado, pelo Presidente da Assembléia Legislativa e pelo Presidente do Tribunal de Justiça, e constituído da seguinte forma:~~
@@ -105,7 +108,8 @@
 
 ~~Artigo 7° - Cada setorial será coordenado por um de seus membros, eleito para tanto.~~
 
-#### ~~CAPÍTULO II~~<br>
+#### ~~CAPÍTULO II~~
+
 ~~Da Composição do Conselho de Política de Administração e Remuneração de Pessoal~~
 
 ~~Artigo 8° - Os servidores a serem nomeados pelos Chefes dos Poderes Executivo, Legislativo e Judiciário serão aqueles que os sindicatos ou entidades associativas representativas dos servidores públicos do Estado indicarem para tanto.~~
@@ -140,10 +144,12 @@
 
 ~~§ 2° - O sindicato ou entidade associativa cujo Conselheiro seja eleito na forma do § 1°, terá suplente nomeado como titular pela duração do mandato a que se refere o dispositivo.~~
 
-#### ~~CAPÍTULO III~~<br>
+#### ~~CAPÍTULO III~~
+
 ~~Das Atribuições do Conselho de Política de Administração e Remuneração de Pessoal~~
 
-#### ~~SEÇÃO I~~<br>
+#### ~~SEÇÃO I~~
+
 ~~Das Generalidades~~
 
 ~~Artigo 15 - Compete ao Conselho:~~
@@ -176,7 +182,8 @@
 
 ~~Artigo 16 - O Conselho exercerá suas atribuições nos termos de Regimento Interno que será elaborado por ele próprio.~~
 
-#### ~~SEÇÃO II~~<br>
+#### ~~SEÇÃO II~~
+
 ~~Da Constituição do Sistema de Negociação Permanente~~
 
 ~~Artigo 17 - Entende-se por Sistema de Negociação Permanente - SINP, toda negociação desenvolvida entre o Conselho de Política de Administração e Remuneração de Pessoal e o Governo do Estado, visando promover avaliação, aprimoramento e eficiência nos serviços públicos, além de propor solução aos conflitos e demandas administrativas decorrentes da relação de trabalho entre a Administração Pública e seus servidores.~~
@@ -227,7 +234,8 @@
 
 ~~Artigo 25 - Os projetos de lei resultantes das decisões do SINP tramitarão com preferência na Assembléia Legislativa.~~
 
-#### ~~SEÇÃO III~~<br>
+#### ~~SEÇÃO III~~
+
 ~~Da Atuação do Conselho face ao inciso X do artigo 37 da Constituição Federal~~
 
 ~~Artigo 26 - O Conselho atuará conjuntamente para a formulação de proposta da data e do índice de revisão salarial, que será aplicado uniformemente a todas as categorias profissionais dos servidores públicos do Estado.~~
@@ -262,7 +270,8 @@
 
 ~~Artigo 32 - A deliberação final do Conselho será encaminhada como indicativo para cada um dos Chefes dos Três Poderes do Estado, para a aplicação do inciso X do artigo 37 da Constituição Federal, no que pertine à data e ao índice a ser aplicado na revisão geral anual dos vencimentos dos servidores públicos do Estado.~~
 
-#### ~~SEÇÃO IV~~<br>
+#### ~~SEÇÃO IV~~
+
 ~~Das demais Deliberações do Conselho~~
 
 ~~Artigo 33 - O Conselho poderá deliberar sobre qualquer assunto que for de interesse dos servidores públicos estaduais.~~
@@ -283,7 +292,8 @@
 
 ~~Parágrafo único - A deliberação de que cuida o "caput" ocorrerá na plenária do Conselho, e se aprovada, será adotada como posição dos servidores públicos do Estado.~~
 
-#### ~~SEÇÃO V~~<br>
+#### ~~SEÇÃO V~~
+
 ~~Da Atuação do Conselho na Propositura de Alterações na Legislação de Pessoal~~
 
 ~~Artigo 38 - O Conselho poderá deliberar sobre proposta de alteração na legislação de pessoal do Estado de São Paulo, inclusive quanto à sua consolidação.~~
@@ -310,7 +320,8 @@
 
 ~~Parágrafo único - A deliberação de que cuida o "caput" ocorrerá na plenária do Conselho, e se aprovada, será adotada como posição dos servidores públicos do Estado.~~
 
-#### ~~SEÇÃO VI~~<br>
+#### ~~SEÇÃO VI~~
+
 ~~Da Atuação do Conselho nas Negociações Salariais das Categorias de Servidores Públicos e o Governo do Estado~~
 
 ~~Artigo 43 - O Conselho, desde que tenha havido solicitação de sindicato ou de entidade associativa de servidores públicos que esteja em processo de negociação salarial, acompanhará o processo negocial, visando compor as partes e atuando de modo a evitar que o processo seja, de qualquer forma, interrompido.~~
@@ -325,7 +336,8 @@
 
 ~~Artigo 45 - É defeso ao Governo do Estado inibir, por qualquer forma, a participação dos Delegados a que se refere o artigo 44 no processo de negociação, que continuará a existir mesmo que a categoria profissional decida decretar estado de greve.~~
 
-#### ~~SEÇÃO VII~~<br>
+#### ~~SEÇÃO VII~~
+
 ~~Das demais Obrigações do Conselho~~
 
 ~~Artigo 46 - O Conselho fornecerá formação política para os servidores públicos do Estado de São Paulo, que terá como objetivo a inserção do servidor público em sua vida social, a fim de que possa exercitar plenamente a cidadania.~~
@@ -334,14 +346,16 @@
 
 ~~Artigo 48 - O Conselho organizará acervo histórico e de pesquisa sobre a luta do servidor público estadual.~~
 
-#### ~~SEÇÃO VIII~~<br>
+#### ~~SEÇÃO VIII~~
+
 ~~Da Elaboração do Regimento Interno do Conselho~~
 
 ~~Artigo 49 - Compete ao Conselho a elaboração de seu Regimento Interno, que deverá dispor livremente sobre todos os aspectos relacionados ao funcionamento do Conselho, desde que não se confronte com dispositivos da presente lei.~~
 
 ~~Artigo 50 - O Regimento Interno deverá ser objeto de deliberação da plenária do Conselho, a partir de proposta elaborada pela Mesa Diretora, em um prazo de 120 (cento e vinte) dias a contar da instalação do Conselho.~~
 
-#### ~~TÍTULO IV~~<br>
+#### ~~TÍTULO IV~~
+
 ~~Das Disposições Finais~~
 
 ~~Artigo 51 - As despesas para o funcionamento do Conselho serão arcadas pelas entidades associativas e sindicais que o compõem, de forma proporcional ao número de Conselheiros representantes de cada entidade.~~
@@ -374,7 +388,8 @@
 
 ~~Artigo 54 - Esta lei entra em vigor na data de sua publicação.~~
 
-#### ~~TÍTULO V~~<br>
+#### ~~TÍTULO V~~
+
 ~~Das Disposições Transitórias~~
 
 ~~Artigo 1° - Será formada uma Comissão Pró-Conselho, composta por 10 (dez) entidades sindicais e 10 (dez) entidades associativas de servidores públicos estaduais, para receber e deliberar sobre os pedidos de ingresso de entidades sindicais e associativas no Conselho.~~

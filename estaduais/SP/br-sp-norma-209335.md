@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209335)<br>
-
 # DECRETO N° 68.470, DE 22 DE ABRIL DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, a área necessária à implantação de dispositivo de acesso no km 226+800m da Rodovia SP-304, no Município de Santa Maria da Serra, e dá providências correlatas._

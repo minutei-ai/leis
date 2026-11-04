@@ -1,5 +1,3 @@
-###DEC-006673-0-000-03-12-2008@@@
-
 DECRETO Nº 6.673, DE 3 DE DEZEMBRO DE 2008.
 
 Delega competência ao Ministro de Estado das Relações Exteriores para a prática do ato que especifica.

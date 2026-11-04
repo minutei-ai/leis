@@ -1,5 +1,3 @@
-###DEC-086363-0-000-09-09-1981@@@
-
 Decreto nº 86.363, de 09 de setembro de 1981
 
 Renova por 10 (dez) anos a outorga deferida à PREFEITURA MUNICIPAL DE TENENTE PORTELA e posteriormente transferida à RÁDIO MUNICIPAL DE TENENTE PORTELA, para executar serviço de radiodifusão sonora em onda média, na cidade de Tenente Portela, Estado do Rio Grande do Sul.

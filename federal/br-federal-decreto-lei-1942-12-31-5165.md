@@ -1,5 +1,3 @@
-###DEL-005165-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.165 – DE 31 DE DEZEMBRO DE 1942
 
 Dispõe sobre a transferência de sub-tenentes e sargentos para a Reserva e sua convocação pare o serviço ativo no posto de 2º tenente

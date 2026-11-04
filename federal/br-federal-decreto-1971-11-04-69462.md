@@ -1,5 +1,3 @@
-###DEC-069462-0-000-04-11-1971@@@
-
 DECRETO Nº 69.462 - DE 4 DE NOVEMBRO DE 1971
 
 Autoriza o funcionamento da Faculdade de Ciências Humanas da Fundação Universitária de Minas Gerais.

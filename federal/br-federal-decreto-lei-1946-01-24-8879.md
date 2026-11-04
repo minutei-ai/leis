@@ -1,5 +1,3 @@
-###DEL-008879-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.879 – DE 24 DE JANEIRO DE 1946
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementa, de Cr$ quatrocentos e sessenta e três mil e quatrocentos cruzeiros (Cr$ 473.400,00), à verba que específica.

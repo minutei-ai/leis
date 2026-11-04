@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211818)<br>
-
 # DECRETO N° 70.085, DE 12 DE NOVEMBRO DE 2025
 
 ### _Institui o Comitê Intersetorial de Acompanhamento e Monitoramento da Política Estadual de Atenção Específica para a População em Situação de Rua._

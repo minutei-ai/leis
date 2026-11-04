@@ -1,7 +1,3 @@
-1
-
-###DEC-098076-0-000-21-08-1989@@@
-
 DECRETO N° 98.076, DE 21 DE AGOSTO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem em favor da Petróleo Brasileiro S.A. PETROBRÁS imóveis constituídos de terras e benfeitorias que menciona.

@@ -1,5 +1,3 @@
-###DEC-082274-0-000-18-09-1978@@@
-
 Decreto nº 82.274, de 18 de setembro de 1978.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Manaus, Estado do Amazonas.

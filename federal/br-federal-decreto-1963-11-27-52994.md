@@ -1,5 +1,3 @@
-###DEC-052994-0-000-27-11-1963@@@
-
 decreto nº 52.994, de 27 de novembro de 1963.
 
 Autoriza a Cia. de Mineração Serra da Moeda a pesquisar quartzo e minério de ferro e manganês, nos municípios de Oliveira e Passa-Tempo, Estado de Minas Gerais.

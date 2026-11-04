@@ -1,5 +1,3 @@
-###DEC-082265-0-000-13-09-1978@@@
-
 Decreto nº 82.265, de 13 de setembro de 1978.
 
 Altera as disposições do Decreto nº 80.602, de 24 de outubro de 1977, que regulamenta a Progressão Funcional e o Aumento por Mérito, e dá outras providências.

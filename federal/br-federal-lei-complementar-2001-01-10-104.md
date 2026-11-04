@@ -1,5 +1,3 @@
-###LCP-000104-0-000-10-01-2001@@@
-
 LEI COMPLEMENTAR Nº 104, DE 10 DE JANEIRO DE 2001.
 
 Altera dispositivos da Lei nº 5.172, de 25 de outubro de 1966 – Código Tributário Nacional.

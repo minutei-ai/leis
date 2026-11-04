@@ -1,5 +1,3 @@
-###DEL-009860-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.860 – DE  SETEMBRO DE 1946
 
 Autoriza a intervenção, pelo Govêrno na “The Pará Eletric Railways and Lighting Company Ltda.”.

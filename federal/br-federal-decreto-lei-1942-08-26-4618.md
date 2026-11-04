@@ -1,5 +1,3 @@
-###DEL-004618-0-000-26-08-1942@@@
-
 DECRETO-LEI N. 4.618 – DE 26 DE AGOSTO DE 1942
 
 Prorroga o período de reorganização do I. A. P. C.

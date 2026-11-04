@@ -1,5 +1,3 @@
-###DEC-069914-0-000-11-01-1972@@@
-
 DECRETO Nº 69.914, DE 14 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade Paulistana de Ciências e Letras com os Cursos de Letras, Matemática, Ciências Sociais, Estudos Sociais e Psicologia.

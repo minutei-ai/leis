@@ -1,5 +1,3 @@
-###DEC-059834-0-000-21-12-1966@@@
-
 DECRETO Nº 59.834, DE 21 DE DEZEMBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem os imóveis que especifica, situados no Estado da Guanabara.

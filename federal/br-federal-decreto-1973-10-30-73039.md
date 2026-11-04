@@ -1,5 +1,3 @@
-###DEC-073039-0-000-30-10-1973@@@
-
 DECRETO Nº 73.039 - de 30 de OUTUBRO DE 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Presidente Venceslau Ltda., para executar serviço de radiodifusão sonora, em onda média de âmbito regional, na cidade de Presidente Venceslau, Estado de São Paulo.

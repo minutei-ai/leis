@@ -6,7 +6,6 @@ Altera o artigo 1º e insere o artigo 1-A e paragrafo único, na Lei nº 6560/20
 
 Art. 1º Fica alterado o artigo 1.o da Lei n.o 6560/2015 de 27 de outubro de 2015, que autorizou a Concessão de Direito Real de uso do imóvel identificado como: Área reservada para Prefeitura Praça da Entrada com área de 2.192,11m2, situado no Bairro Cesar Bastos, na cidade de Rio Verde/GO., passando a viger com a seguinte redação:
 
-<br>
 "Art. 1.° - Esta Lei autoriza o Poder Executivo para todos os fins e efeitos a desafetar, de sua caracterização original de Bem de Uso Comum do Povo, transferindo-a para a categoria de bens dominicais do Município, parte da Área Institucional 9. Qd. Q, localizada na Rua 10-B, Bairro Cidade Empresarial Nova Aliança, com área de 2.478,10m2 (dois mil, quatrocentos e setenta e oito metros e dez decímetros quadrados), cuja área total é de 10.033,25m2 (dez mil e trinta e três metros e vinte e cinco decímetros quadrados), inscrita no Cartório de Registro de Imóveis e Anexos desta Comarca, sob a Matricula 52.069.
 
 Art. 1º-A Fica o Poder Executivo autorizado a outorgar pelo prazo de 20 (vinte) anos, a título gratuito, nos termos do art. 102 da Lei Orgânica Municipal, Concessão de Direito Real de Uso, de parte do imóvel descrito no artigo 1.", com área de 2.478,10m2 (dois mil, quatrocentos e setenta e oito metros e dez decímetros quadrados), a ser desmembrada, conforme memorial descritivo cm anexo, em:

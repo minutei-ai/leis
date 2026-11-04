@@ -1,5 +1,3 @@
-###DEC-052470-0-000-12-09-1963@@@
-
 decreto nº 52.470, de 12 de setembro de 1963.
 
 Dispõe sôbre a forma de designação de pessoal para missão, estado ou função no exterior.

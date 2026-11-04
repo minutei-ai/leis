@@ -1,5 +1,3 @@
-###DEC-088287-0-000-09-05-1983@@@
-
 Decreto nº 88.287, de 09 de maio de 1983
 
 Dá nova redação aos §§ 1º e 2º e acresce os §§ 3º e 4º ao artigo 5º do Decreto nº 86.036, de 27 de maio de 1981, que regulamenta a obrigatoriedade de as emissoras de televisão incluírem em suas programações semanais de filmes estrangeiros, pelo menos, um filme com legenda em português.

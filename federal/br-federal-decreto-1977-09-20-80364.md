@@ -1,5 +1,3 @@
-###DEC-080364-0-000-20-09-1977@@@
-
 decreto nº 80.364, de 20 de setembro de 1977.
 
 Concede à Mineração Cinamomo Ltda. o direito de lavrar cassiterita no Município de Porto Velho, Território Federal de Rondônia.

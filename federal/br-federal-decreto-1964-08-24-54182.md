@@ -1,5 +1,3 @@
-###DEC-054182-0-000-24-08-1964@@@
-
 DECRETO Nº 54.182, DE 24 DE AGÔSTO DE 1962.
 
 Dá nova redação ao artigo 1º do Decreto nº 927, de 27 de abril de 1962.

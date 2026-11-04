@@ -1,5 +1,3 @@
-###DEL-001586-0-000-06-12-1977@@@
-
 # DECRETO-LEI Nº 1.586, DE 06 DE DEZEMBRO DE 1977
 
 Dispõe sobre a utilização de créditos do Imposto sobre Circulação de Mercadorias para dedução do valor do Imposto sobre Produtos Industrializados ou nas modalidades de aproveitamento indicadas pelo Ministro da Fazenda, e dá outras providências.

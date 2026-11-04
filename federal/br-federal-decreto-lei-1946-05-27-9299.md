@@ -1,5 +1,3 @@
-###DEL-009299-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.299 – DE 27 DE MAIO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 14.989.575,00, destinado à contribuição do Brasil para o Fundo de Emergência da Organização das Nações Unidas.

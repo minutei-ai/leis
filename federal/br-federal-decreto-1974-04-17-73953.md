@@ -1,5 +1,3 @@
-###DEC-073953-0-000-17-04-1974@@@
-
 DECRETO Nº 73.953, DE 17 DE ABRIL DE 1974
 
 Revoga o Decreto nº 13.590, de 20 de outubro de 1943.

@@ -1,5 +1,3 @@
-###DEC-006030-0-000-01-02-2007@@@
-
 DECRETO Nº 6.030, DE 1º DE FEVEREIRO DE 2007.
 
 Dá nova redação a dispositivo do Decreto no 5.827, de 29 de junho de 2006, que regulamenta a Gratificação de Desempenho de Atividade de Regulação - GDAR e a Gratificação de Desempenho de Atividade Técnico-Administrativa em Regulação - GDATR e dá outras providências.
@@ -21,5 +19,3 @@ Brasília, 1º de  fevereiro de 2007; 186o da Independência e 119o da Repúbli
 LUIZ INÁCIO LULA DA SILVA
 
        Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 2.2.2007.

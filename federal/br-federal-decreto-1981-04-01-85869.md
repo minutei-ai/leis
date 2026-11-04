@@ -1,5 +1,3 @@
-###DEC-085869-0-000-01-04-1981@@@
-
 DECRETO Nº 85.869, de 01 de abril de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Estação Transformadora de Distribuição Ibirapuera da LIGHT-Serviços de Eletricidade S.A., no Estado de São PauIo.

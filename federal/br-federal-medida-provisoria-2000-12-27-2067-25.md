@@ -1,5 +1,3 @@
-###MPV-002067-0-025-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.067-25, DE 27 DE DEZEMBRO DE 2000.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeira externas, e dá outras providências.

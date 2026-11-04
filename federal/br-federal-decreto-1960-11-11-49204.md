@@ -1,5 +1,3 @@
-###DEC-049204-0-000-11-11-1960@@@
-
 DECRETO Nº 49.204, DE 11 DE NOVEMBRO DE 1960.
 
 Suprime os cargos provisórios.

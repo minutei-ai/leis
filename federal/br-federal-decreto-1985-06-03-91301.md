@@ -1,5 +1,3 @@
-###DEC-091301-0-000-03-06-1985@@@
-
 Decreto nº 91.301, de 03 de junho de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra e benfeitorias, necessária à implantação da estação transformadora de distribuição Sacomã da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

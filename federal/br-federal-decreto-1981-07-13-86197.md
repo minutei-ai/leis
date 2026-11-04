@@ -1,5 +1,3 @@
-###DEC-086197-0-000-13-07-1981@@@
-
 DECRETO Nº 86.197, DE 13 DE JULHO DE 1981
 
 Autoriza o aumento do Capital Social da Companhia de Desenvolvimento de Roraima-CODESAIMA

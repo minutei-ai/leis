@@ -1,6 +1,10 @@
 > **LEI Nº 4.570, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece a obrigatoriedade das instituições de ensino públicas e privadas do Estado disponibilizarem, no ato da matrícula, formulário destinado à denúncia de violência doméstica e familiar.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece a obrigatoriedade das instituições de ensino públicas e privadas do Estado disponibilizarem, no ato da matrícula, formulário destinado à denúncia de violência doméstica e familiar.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

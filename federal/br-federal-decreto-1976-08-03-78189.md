@@ -1,5 +1,3 @@
-###DEC-078189-0-000-03-08-1976@@@
-
 DECRETO Nº 78.189, DE 3 DE AGOSTO DE 1976
 
 Renova por 10 (dez) anos à concessão outorgada à Rádio Itatiaia Ltda. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Belo Horizonte Estado de Minas Gerais.

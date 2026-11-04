@@ -1,5 +1,3 @@
-###DEC-049664-0-000-31-12-1960@@@
-
 DECRETO Nº 49.664, DE 31 DE dezembro DE 1960.
 
 Declara caduco o Decreto nº 34.858, de 30 de dezembro de 1953.

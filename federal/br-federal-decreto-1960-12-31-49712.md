@@ -1,5 +1,3 @@
-###DEC-049712-0-000-31-12-1960@@@
-
 Decreto nº 49.712, de 31 de dezembro de 1960.
 
 Aprova alterações introduzidas nos Estatutos de The Yorkshire Insurance Company Limited.

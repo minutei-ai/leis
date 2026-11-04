@@ -1,5 +1,3 @@
-###DEC-068461-0-000-02-04-1971@@@
-
 DECRETO Nº 68.461 - DE 2 de abril DE 1971.
 
 Autoriza para funcionamento da Faculdade de Filosofia, Ciência e Letras de São João da Boa Vista, com os Cursos de Pedagogia, Ciências Sociais e Letras.

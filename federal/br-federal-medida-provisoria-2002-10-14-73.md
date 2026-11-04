@@ -1,5 +1,3 @@
-###MPV-000073-0-000-14-10-2002@@@
-
 MEDIDA PROVISÓRIA Nº73, DE 14 DE OUTUBRO DE 2002
 
 Revoga o art. 12 da Medida Provisória nº66, de 29 de agosto de 2002.

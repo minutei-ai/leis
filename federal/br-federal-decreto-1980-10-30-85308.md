@@ -1,5 +1,3 @@
-###DEC-085308-0-000-30-10-1980@@@
-
 Decreto nº 85.308 de 30 de outubro de 1980
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais que menciona, situados no Estado do Maranhão, compreendidos na área prioritária de reforma agrária, de que tratam os Decretos nºs 77.073, de 22 de janeiro de 1976, 78.250, de 16 de agosto de 1976, e 85.307 de 30 de outubro de 1980.

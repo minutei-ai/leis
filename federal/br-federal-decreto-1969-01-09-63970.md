@@ -1,5 +1,3 @@
-###DEC-063970-0-000-09-01-1969@@@
-
 DECRETO nº 63.970, DE 9 DE JANEIRO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério das Minas e Energia.

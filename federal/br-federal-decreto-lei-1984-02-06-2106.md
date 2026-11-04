@@ -1,5 +1,3 @@
-###DEL-002106-0-000-06-02-1984@@@
-
 # DECRETO-LEI Nº 2.106, DE 06 DE FEVEREIRO DE 1984
 
 Altera o Decreto-lei nº 667, de 02 de julho de 1969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal.

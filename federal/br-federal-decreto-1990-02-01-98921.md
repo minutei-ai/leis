@@ -1,7 +1,3 @@
-1
-
-###DEC-098921-0-000-01-02-1990@@@
-
 DECRETO Nº 98.921, DE 1º DE FEVEREIRO DE 1990
 
 Outorga concessão à RADIODIFUSÃO ELDORADO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Pão de Açúcar, Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-090970-0-000-21-02-1985@@@
-
 DECRETO Nº 90.970, DE 21 de fevereiro dE 1985
 
 Concede à USINA SIDERÚRGICA DA BAHIA S.A. USIBA (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital autorizado, bem como do capital social.

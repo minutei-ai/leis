@@ -1,7 +1,3 @@
-1
-
-###DEC-000517-0-000-08-05-1992@@@
-
 DECRETO Nº 517, DE 8 DE MAIO DE 1992
 
 Regulamenta o art. 11 da Lei nº 8.387, de 30 de dezembro de 1991, e regula a Área de Livre Comércio de Macapá e Santana - ALCMS.

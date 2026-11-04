@@ -1,5 +1,3 @@
-###DEC-076573-0-000-07-11-1975@@@
-
 DECRETO Nº 76.573, de 7 DE NOVEMBRO DE 1975
 
 Prorroga o prazo de utilização de colaboradores para a execução de atividades ligadas ao Programa de Incentivo à Produção de Borracha Vegeta- PROBOR

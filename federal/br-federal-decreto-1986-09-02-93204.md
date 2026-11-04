@@ -1,5 +1,3 @@
-###DEC-093204-0-000-02-09-1986@@@
-
 DECRETO Nº 93.204, DE 02 DE SETEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público "TOMAZ OSTERNE", ex-UMARI, no município do Crato, Estado do Ceará, e dá outras providências.

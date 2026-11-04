@@ -1,5 +1,3 @@
-###DEC-077870-0-000-22-06-1976@@@
-
 decreto nº 77.870, de 22 de junho de 1976.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil de terreno, com benfeitoria, situado na cidade de Parnaíba Estado do Piauí, destinado à Junta de Conciliação e Julgamento de Parnaíba.

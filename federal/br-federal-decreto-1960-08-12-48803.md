@@ -1,5 +1,3 @@
-###DEC-048803-0-000-12-08-1960@@@
-
 DECRETO Nº 48.803, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza a Companhia de Mineração Novalimense a lavrar minério de ferro no Município de Nova Lima, Estado de Minas Gerais.

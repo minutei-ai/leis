@@ -1,5 +1,3 @@
-###DEC-057341-0-000-25-11-1965@@@
-
 DECRETO Nº 57.341, DE 25 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro José Vivacqua Vieira a pesquisar mica no município de Muniz Freire, Estado do Espírito Santo.

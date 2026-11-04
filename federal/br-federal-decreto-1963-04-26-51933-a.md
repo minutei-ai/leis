@@ -1,5 +1,3 @@
-###DEC-051933-A-000-26-04-1963@@@
-
 DECRETO Nº 51.933-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Manoel Corrêa Dias a pesquisar calcário, no município de Cantagalo, Estado do Rio de Janeiro.

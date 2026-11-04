@@ -1,5 +1,3 @@
-###DEC-087835-0-000-18-11-1982@@@
-
 Decreto nº 87.835, de 18 de novembro de 1982
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados no Município de Itacajá, Estado de Goiás, compreendido na área prioritária de reforma agrária de que trata o Decreto nº 87.834, de 18 de novembro de 1982.

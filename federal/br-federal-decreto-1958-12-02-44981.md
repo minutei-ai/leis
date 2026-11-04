@@ -1,5 +1,3 @@
-###DEC-044981-0-000-02-12-1958@@@
-
 DECRETO Nº 44.981, DE 2 DE dezembro DE 1958.
 
 Renova o decreto nº167 39.459, de 27 de junho de 1956.

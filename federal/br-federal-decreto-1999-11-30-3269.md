@@ -1,5 +1,3 @@
-###DEC-003269-0-000-30-11-1999@@@
-
 DECRETO Nº 3.269, DE 30 DE NOVEMBRO DE 1999
 
 Dispõe sobre o remanejamento dos cargos que menciona.

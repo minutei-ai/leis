@@ -1,5 +1,3 @@
-###DEC-055261-0-000-22-12-1964@@@
-
 DECRETO Nº 55.261, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Richard Paul Werner a pesquisar minério de ferro, no município de Araquari, Estado de Santa Catarina.

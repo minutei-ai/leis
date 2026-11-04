@@ -1,5 +1,3 @@
-###DEC-049335-0-000-25-11-1960@@@
-
 decreto nº 49.335, de 25 de novembro de 1960.
 
 Dispõe sôbre desapropriação de imóveis destinados a edificações, instalações e serviços da Universidade do Ceará.

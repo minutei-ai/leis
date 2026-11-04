@@ -1,5 +1,3 @@
-###DEC-087974-0-000-21-12-1982@@@
-
 Decreto nº 87.974, de 21 de dezembro de 1982
 
 Dispõe sobre a criação do Programa de Fortalecimento da Infra-Estrutura do Setor Público do Estado de Rondônia

@@ -1,5 +1,3 @@
-###DEC-004175-0-000-27-03-2002@@@
-
 DECRETO Nº 4.175, DE 27 DE MARÇO DE 2002
 
 Estabelece limites para o provimento de cargos públicos efetivos no âmbito dos órgãos e entidades do Poder Executivo, e dá outras providências.

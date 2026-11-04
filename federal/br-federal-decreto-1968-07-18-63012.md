@@ -1,14 +1,12 @@
-###DEC-063012-0-000-18-07-1968@@@
+**DECRETO Nº 63.012, DE 18 DE JULHO DE 1968.**
 
-<strong>DECRETO Nº 63.012, DE 18 DE JULHO DE 1968.</strong>
+***Dá nova redação ao artigo 7º e ao parágrafo único do artigo 11 do Decreto nº 61.775, de 24 de novembro de 1967.***
 
-<em><strong>Dá nova redação ao artigo 7º e ao parágrafo único do artigo 11 do Decreto nº 61.775, de 24 de novembro de 1967.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição conferida pelo artigo 83, item II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição conferida pelo artigo 83, item II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>.1º O artigo 7º e o parágrafo único do artigo 11 do Decreto número 61.775, de 24 de novembro de 1967, passam a vigorar com a seguinte redação:
+**Art**.1º O artigo 7º e o parágrafo único do artigo 11 do Decreto número 61.775, de 24 de novembro de 1967, passam a vigorar com a seguinte redação:
 
 “Art. 7º As propostas e os pedidos de afastamento para o exterior serão submetidas decisão do Presidente da República quando acarretarem ônus para os cofres públicos e, nos demais casos, a decisão dos Ministros de Estado ou dos dirigentes de órgãos integrantes da Presidência da República e deles, deverão constar, expressamente:
 
@@ -26,17 +24,17 @@ VI - indicação circunstânciada do interesse da administração, nos casos dos
 
 VII - documentação relativa à concessão de bôlsa-de-estudo, convite ou outra forma de iniciativa do afastamento, com resumo em Português, quando vasada em língua estrangeia;
 
-VIII - indicação, se fôr o caso, do <em>Diário Oficial</em> que publicou a autorização do último afastamento od funcionário para o exterior bem como a data da posterior reassunção do eercício.
+VIII - indicação, se fôr o caso, do *Diário Oficial* que publicou a autorização do último afastamento od funcionário para o exterior bem como a data da posterior reassunção do eercício.
 
 “Art. 11....................................................................................................................................
 
 Parágrafo único. Quando se tratar de servidor de Autarquia, o afastamento sem ônus para os cofres de Entidade será autorizado pelo Ministro a quem a mesma estiver vinculada”.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 18 de julho de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Luis Antônio da Gama e Silva
 

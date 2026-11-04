@@ -1,5 +1,3 @@
-###DEC-068671-0-000-24-05-1971@@@
-
 DECRETO Nº 68.671, DE 24 DE MAIO DE 1971.
 
 Autoriza a contratação de operação de crédito externo para financiamento parcial do Aeroporto Internacional Principal do Brasil, no Galeão e dá outras providências.

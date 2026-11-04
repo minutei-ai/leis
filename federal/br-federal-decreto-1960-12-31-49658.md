@@ -1,5 +1,3 @@
-###DEC-049658-0-000-31-12-1960@@@
-
 DECRETO Nº 49.658, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Marcio Pacifico Homem de Andrade a lavrar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099134-0-000-09-03-1990@@@
-
 DECRETO Nº 99.134, DE 9 DE MARÇO DE 1990
 
 Renova a concessão outorgada à SOCIE­DADE RÁDIO RURAL DE MUZAMBINHO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Muzambi­nho, Estado de Minas Gerais.

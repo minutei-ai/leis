@@ -1,5 +1,3 @@
-###DEC-070386-0-000-10-04-1972@@@
-
 DECRETO Nº 70.386, DE 10 DE ABRIL DE 1972.
 
 Autoriza o funcionamento da Faculdade de Pedagogia, Ciências e Letras de Caçador - Santa Catarina.

@@ -1,5 +1,3 @@
-###MPV-002210-0-000-29-08-2001@@@
-
 MEDIDA PROVISÓRIA No 2.210, DE 29 DE AGOSTO DE 2001.
 
  Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 50.000.000,00, para os fins que especifica.

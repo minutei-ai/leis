@@ -1,5 +1,3 @@
-###DEC-055769-0-000-18-02-1965@@@
-
 DECRETO Nº 55.769, DE 18 DE FEVEREIRO DE 1965.
 
 Cria a 7ª Companhia Depósito de Armamento e Munição.

@@ -8,35 +8,41 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir, na Secretaria da Fazenda, 
 
 Art. 2º - O presente crédito correrá por conta da verba 408-4-I-12-2 do orçamento vigente e atenderá ao pagamento das seguintes instituições:
 
-<table border="1" cellspacing="0" cellpadding="0" width="387" style="width:290.6pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="255" valign="top" style="width:191.35pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>a) Hospital Regional de Canavieiras<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$360.000,00<quebra></quebra></span></p></td></tr><tr><td width="255" valign="top" style="width:191.35pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>b) Hospital Regional de Saúde<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>480.000,00<quebra></quebra></span></p></td></tr><tr><td width="255" valign="top" style="width:191.35pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>c) Hospital Regional de Itambé<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>360.000,00<quebra></quebra></span></p></td></tr><tr><td width="255" valign="top" style="width:191.35pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>d) Abrigo do Salvador<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.241.800,00<quebra></quebra></span></p></td></tr><tr><td width="255" valign="top" style="width:191.35pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>e) Casa Pia dos Órfãos de S. Joaquim<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>240.000,00<quebra></quebra></span></p></td></tr><tr><td width="255" valign="top" style="width:191.35pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>f) Colégio das Órfãs do S. C. de Jesus<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>48.000,00<quebra></quebra></span></p></td></tr><tr><td width="255" valign="top" style="width:191.35pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>g) Orfanato da Imaculada C. do Convento do Desterro<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>24.000,00<quebra></quebra></span></p></td></tr><tr><td width="255" valign="top" style="width:191.35pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>h) Ginásio Salesiano do Salvador<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>215.000,00<quebra></quebra></span></u></p></td></tr><tr><td width="255" valign="top" style="width:191.35pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="">TOTAL<quebra></quebra></span></p></td><td width="132" valign="top" style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span style="">Cr$ 2.968.800,00<quebra></quebra></span></u></p></td></tr></tbody></table>
+a) Hospital Regional de Canavieiras<quebra></quebra>
+
+Cr$360.000,00<quebra></quebra>
+
+b) Hospital Regional de Saúde<quebra></quebra>
+
+480.000,00<quebra></quebra>
+
+c) Hospital Regional de Itambé<quebra></quebra>
+
+360.000,00<quebra></quebra>
+
+d) Abrigo do Salvador<quebra></quebra>
+
+1.241.800,00<quebra></quebra>
+
+e) Casa Pia dos Órfãos de S. Joaquim<quebra></quebra>
+
+240.000,00<quebra></quebra>
+
+f) Colégio das Órfãs do S. C. de Jesus<quebra></quebra>
+
+48.000,00<quebra></quebra>
+
+g) Orfanato da Imaculada C. do Convento do Desterro<quebra></quebra>
+
+24.000,00<quebra></quebra>
+
+h) Ginásio Salesiano do Salvador<quebra></quebra>
+
+215.000,00<quebra></quebra>
+
+TOTAL<quebra></quebra>
+
+Cr$ 2.968.800,00<quebra></quebra>
 
 Art. 3º - Revogam-se as disposições em contrário.
 
@@ -48,4 +54,4 @@ Gorgonio Araújo
 
 Orlando Garcia
 
-* * *
+ *

@@ -1,5 +1,3 @@
-###DEC-083643-0-000-28-06-1979@@@
-
 Decreto nº 83.643, de 28 de junho de 1979.
 
 Altera o Decreto n º 80.762, de 18.11.77

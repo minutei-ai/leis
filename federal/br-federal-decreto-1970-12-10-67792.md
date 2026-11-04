@@ -1,5 +1,3 @@
-###DEC-067792-0-000-10-12-1970@@@
-
 decreto nº 67.792, de 10 de dezembro de 1970.
 
 Declara caduco o Decreto nº 25.981, de 8 de dezembro de 1948.

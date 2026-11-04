@@ -1,5 +1,3 @@
-###DEC-079366-0-000-09-03-1977@@@
-
 DECRETO Nº 79.366, DE 9 DE MARÇO DE 1977.
 
 Concede à Dolomita do Brasil S.A. o direito de lavrar dolomito no Município de Pirenópolis, Estado de Goiás.

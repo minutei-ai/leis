@@ -1,5 +1,3 @@
-###DEC-059682-0-000-07-12-1966@@@
-
 decreto Nº 59.682, de 7 de dezembro de 1966.
 
 Autoriza o cidadão brasileiro Theophilo Badin a pesquisar corindon no município de Andaraí, Estado da Bahia.

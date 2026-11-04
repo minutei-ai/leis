@@ -54,9 +54,12 @@ Goiânia, 8 de abril de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
-Governador do Estado<br>
+DANIEL VILELA
+
+Governador do Estado
+
  
 
-ANTÔNIO GOMIDE<br>
+ANTÔNIO GOMIDE
+
 Deputado Estadual

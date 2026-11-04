@@ -1,5 +1,3 @@
-###DEC-089360-0-000-07-02-1984@@@
-
 decreto nº 89.360, de 07 de fevereiro de 1984
 
 Renova por 10 (dez) anos a concessão outorgada à FUNDAÇÃO EDUCACIONAL DOM PEDRO FELIPAK, para explorar serviço de radiodifusão sonora em onda média, na cidade de Wenceslau Braz, Estado do Paraná.

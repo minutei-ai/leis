@@ -1,5 +1,3 @@
-###DEC-066641-0-000-27-05-1970@@@
-
 decreto nº 66.641, de 27 de maio de 1970.
 
 Declara de utilidade pública a Associação Educativa e Assistencial "Regina Pacis", com sede em Belo Horizonte, Estado de Minas Gerais.

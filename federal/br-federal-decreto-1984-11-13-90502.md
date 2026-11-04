@@ -1,5 +1,3 @@
-###DEC-090502-0-000-13-11-1984@@@
-
 Decreto nº 90.502, de 13 de novembro de 1984
 
 Renova prazo de concessão outorgada à Companhia Têxtil Ferreira Guimarães, para o aproveitamento da energia hidráulica da Cachoeira do Fagundes, no rio Fundo, para uso exclusivo no Município de Antônio Carlos, Estado de Minas Gerais.

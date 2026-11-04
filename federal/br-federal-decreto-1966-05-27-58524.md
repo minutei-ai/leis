@@ -1,5 +1,3 @@
-###DEC-058524-0-000-27-05-1966@@@
-
 DECRETO Nº 58.524, de 27 de maio de 1966.
 
 Declara caduco o Decreto nº 37.320, de 10 de maio de 1955.

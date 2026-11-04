@@ -1,5 +1,3 @@
-###DEC-074750-0-000-23-10-1974@@@
-
 DECRETO Nº 74.750, DE 23 DE OUTUBRO DE 1974.
 
 Concede reconhecimento aos cursos de Geografia e Letras da Faculdade de Filosofia, Ciências e Letras de União da Vitória, mantida pela Fundação Faculdade de Filosofia, Ciências e Letras de União da Vitória, com sede na Cidade de União da Vitória, Estado do Paraná.

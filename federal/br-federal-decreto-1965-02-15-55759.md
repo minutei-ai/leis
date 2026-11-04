@@ -1,5 +1,3 @@
-###DEC-055759-0-000-15-02-1965@@@
-
 decreto nº 55.759, de 15 de fevereiro de 1965.
 
 Institui estímulos ao desenvolvimento da Indústria Química e dá outras providências.

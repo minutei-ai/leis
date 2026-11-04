@@ -1,5 +1,3 @@
-###DEC-080056-0-000-01-08-1977@@@
-
 DECRETO Nº 80.056, DE 1º DE AGOSTO DE 1977
 
 Autoriza a transformação dos cursos de licenciatura de 1º grau em Ciências e de licenciatura plena em Ciências Biológicas, da Faculdade de Filosofia, Ciências e Letras de Adamantina, com sede na cidade de Adamantina, Estado de São Paulo.

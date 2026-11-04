@@ -1,5 +1,3 @@
-###DEC-081696-0-000-22-05-1978@@@
-
 decreto nº 81.696, de 22 de maio de 1978.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que meniciona, situado no Município do Recife, Estado de Pernanbuco.

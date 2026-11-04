@@ -1,5 +1,3 @@
-###DEC-096917-0-000-03-10-1988@@@
-
 DECRETO Nº 96.917, DE 3 DE OUTUBRO DE 1988
 
 Autoriza o BANCO EUROPEU PARA A AMÉRICA LATINA -(BEAL) S.A. a instalar filial, mediante permuta.

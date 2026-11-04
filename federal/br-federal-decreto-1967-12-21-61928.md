@@ -1,5 +1,3 @@
-###DEC-061928-0-000-21-12-1967@@@
-
 DECRETO Nº 61.928, DE 21 DE DEZEMBRO DE 1967.
 
 Declara de utilidade pública a “Congregação Redentorista” com sede no Estado da Guanabara.

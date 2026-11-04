@@ -1,5 +1,3 @@
-###DEC-048247-0-000-30-05-1960@@@
-
 Decreto nº 48.247, de 30 de maio de 1960.
 
 Cria a Escola Nacional de florestas e dá outras providências.

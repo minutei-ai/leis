@@ -1,5 +1,3 @@
-###DEC-085096-0-000-28-08-1980@@@
-
 DECRETO nº 85.096, de 28 de agosto de 1980.
 
 Suspende, por inconstitucionalidade, a execução da Lei Constitucional nº 30, de 4 de maio de 1979, do Estado de Goiás.

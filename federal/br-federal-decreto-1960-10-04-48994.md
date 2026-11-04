@@ -1,5 +1,3 @@
-###DEC-048994-0-000-04-10-1960@@@
-
 Decreto nº 48.994, de 4 de outubro de 1960.
 
 Autoriza o funcionamento de cursos.

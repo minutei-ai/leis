@@ -8,7 +8,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º Fica a Secretaria de Estado da Administração – SEAD autorizada a celebrar, bem como manter, nos termos da Lei nº [20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 56 (cinquenta e seis) contratos temporários pelo prazo máximo estabelecido nas alíneas “f”, “j” e “k” do inciso VI do art. 2º da referida lei, conforme as especificações dispostas no Anexo Único deste Decreto.
 
-Parágrafo único. O edital de convocação do processo seletivo poderá exigir formação educacional específica, compatível com o nível de escolaridade estabelecido no Anexo Único deste Decreto, bem como registro no órgão fiscalizador de exercício profissional, comprovação de especialização, experiência profissional na respectiva área de atuação, ainda, outros requisitos necessários para à função temporária.<br>
+Parágrafo único. O edital de convocação do processo seletivo poderá exigir formação educacional específica, compatível com o nível de escolaridade estabelecido no Anexo Único deste Decreto, bem como registro no órgão fiscalizador de exercício profissional, comprovação de especialização, experiência profissional na respectiva área de atuação, ainda, outros requisitos necessários para à função temporária.
+
 \- [Acrescido pelo Decreto nº 10.045, de 09-02-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105109/decreto-10045).
 
 Art. 2º Fica revogado o art. 5º do Decreto nº [9.484](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72396/decreto-9484), de 30 de julho de 2019.
@@ -17,13 +18,12 @@ Art. 3º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 08 de junho de 2021, 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO ÚNICO<br>
+ANEXO ÚNICO
+
 \- [Redação dada pelo Decreto nº 10.045, de 09-02-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105109/decreto-10045).
 
 | FUNÇÃO TEMPORÁRIA | QTIVO. |

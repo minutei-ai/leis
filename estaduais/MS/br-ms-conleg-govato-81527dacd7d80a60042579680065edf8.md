@@ -6,7 +6,8 @@ Institui o Programa de Gestão Documental dos processos judiciais findos, no âm
 
 Publicada no Diário Oficial nº 8.090, de 16 de dezembro de 2011, página 4.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
 Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
 Art. 1º Fica instituída a Política de Gestão Documental das ações judiciais cíveis e criminais, em meio físico ou digital, transitadas em julgado e arquivadas, no âmbito do Poder Judiciário do Estado de Mato Grosso do Sul, para fins de guarda, preservação ou eliminação.
@@ -33,10 +34,10 @@ Art. 7º Decorrida a temporalidade, poderá o Tribunal de Justiça eliminar os a
 
 § 2º Após a intimação, não havendo manifestação, os processos serão eliminados, mediante critérios de responsabilidade social e de preservação ambiental, especialmente por meio de reciclagem.
 
-Art. 8º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+Art. 8º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 15 de dezembro de 2011.
 
-<br>
-ANDRÉ PUCCINELLI<br>
+ANDRÉ PUCCINELLI
+
 Governador do Estado

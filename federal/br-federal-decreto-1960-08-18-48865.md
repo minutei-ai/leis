@@ -1,5 +1,3 @@
-###DEC-048865-0-000-18-08-1960@@@
-
 DECRETO Nº 48.865, DE 18 DE AGÔSTO DE 1960.
 
 Altera o Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Comerciários e dá outras providências.

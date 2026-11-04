@@ -1,7 +1,3 @@
-1
-
-###DEC-001718-0-000-28-11-1995@@@
-
 DECRETO Nº 1.718 DE 28 DE NOVEMBRO DE 1995
 
 Aprova o Regulamento do Serviço de Televisão a Cabo.

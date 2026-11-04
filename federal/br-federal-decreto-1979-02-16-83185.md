@@ -1,5 +1,3 @@
-###DEC-083185-0-000-16-02-1979@@@
-
 DECRETO Nº 83.185, DE 16 DE FEVEREIRO DE 1979.
 
 Altera, em caráter temporário, alíquotas do Imposto sobre Produtos Industrializados.
@@ -10,7 +8,33 @@ decreta:
 
 Art. 1º - Ficam elevadas, em caráter temporário, as alíquotas do Imposto sobre Produtos Industrializados relativas aos produtos classificados nos códigos da Nomenclatura Brasileira de Mercadorias a seguir indicados, as quais vigorarão com os percentuais abaixo quanto aos fatos geradores que ocorrerem no período de 1º de março a 31 de dezembro de 1979:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:109.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓ</span><span style="font-family:Arial">DIGO</span></p></td><td style="width:219.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MERCADORIA</span></p></td><td style="width:88.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ALÍ</span><span style="font-family:Arial">QUOTA</span></p></td></tr><tr><td style="width:109.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">87.02.01.00</span></p></td><td style="width:219.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Automó</span><span style="font-family:Arial">veis de passageiros, inclusive de esporte; Camionetas de passageiros; Camionetas de uso misto tipos "sedan", utilitá</span><span style="font-family:Arial">rio, veraneio, furgã</span><span style="font-family:Arial">o e outras camionetas de uso misto.</span></p></td><td style="width:88.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:109.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01.01</span></p></td><td style="width:219.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Com motor até</span><span style="font-family:Arial"> 100CV (cavalos-vapor) de potê</span><span style="font-family:Arial">ncia bruta (SAE) ..........................................</span></p></td><td style="width:88.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27%</span></p></td></tr><tr><td style="width:109.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01.02</span></p></td><td style="width:219.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Com motor de mais de 100 CV (cavalos-vapor) de potê</span><span style="font-family:Arial">ncia bruta (SAE) ......................................</span></p></td><td style="width:88.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31%</span></p></td></tr><tr><td style="width:109.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">87.02.02.00</span></p></td><td style="width:219.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Automó</span><span style="font-family:Arial">veis especiais para corri</span><span style="font-family:Arial">da.</span></p></td><td style="width:88.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">31%</span></p></td></tr></tbody></table>
+CÓDIGO
+
+MERCADORIA
+
+ALÍQUOTA
+
+87.02.01.00
+
+Automóveis de passageiros, inclusive de esporte; Camionetas de passageiros; Camionetas de uso misto tipos "sedan", utilitário, veraneio, furgão e outras camionetas de uso misto.
+
+01.01
+
+Com motor até 100CV (cavalos-vapor) de potência bruta (SAE) ..........................................
+
+27%
+
+01.02
+
+Com motor de mais de 100 CV (cavalos-vapor) de potência bruta (SAE) ......................................
+
+31%
+
+87.02.02.00
+
+Automóveis especiais para corrida.
+
+31%
 
 Art. 3º - Este Decreto-lei vigorará durante o período de 1º de março de 1979 a 31 de dezembro de 1979, revogadas as disposições em contrário.
 

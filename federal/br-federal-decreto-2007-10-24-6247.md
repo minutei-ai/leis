@@ -1,5 +1,3 @@
-###DEC-006247-0-000-24-10-2007@@@
-
 DECRETO Nº 6.247, DE 24 DE OUTUBRO DE 2007.
 
 Aprova o Regimento da Ordem do Mérito do Trabalho Getúlio Vargas, e dá outras providências.
@@ -20,11 +18,7 @@ Brasília, 24 de outubro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Carlos Lupi
-
-Este texto não substitui o publicado no DOU de 25.10.2007
-
-ANEXO
+Carlos LupiANEXO
 
  REGIMENTO DA ORDEM DO MÉRITO DO TRABALHO GETÚLIO VARGAS
 

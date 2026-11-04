@@ -1,5 +1,3 @@
-###DEC-053452-0-000-20-01-1964@@@
-
 Decreto nº 53.452, de 20 de janeiro de 1964.
 
 Autoriza a Companhia de Mineração Rosicler a lavrar feldspato, no município de Maricá, Estado do Rio de Janeiro.

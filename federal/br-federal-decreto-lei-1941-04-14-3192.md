@@ -1,5 +1,3 @@
-###DEL-003192-0-000-14-04-1941@@@
-
 DECRETO-LEI N. 3.192 – DE 14 DE ABRIL DE 1941
 
 Autoriza ao Prefeito do Distrito Federal isentar a Real, e Benemérita Sociedade Portuguesa de Beneficência de 75% (setenta e cinco por cento) do pagamento do imposto predial que menciona.

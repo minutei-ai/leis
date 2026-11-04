@@ -60,7 +60,21 @@ II - adoção de acessos privativos e de sistema de vedação admitido pela auto
 
 III - os projetos das vias de circulação do empreendimento deverão obedecer às dimensões mínimas estabelecidas na tabela abaixo: 
 
-<table height="117" width="694"><tbody><tr><td style="width: 166px; text-align: center;">Largura Total (mts)</td><td style="width: 143px; text-align: center;">Passeio esq. (mts)</td><td style="width: 173px; text-align: center;">Pista (mts)</td><td style="width: 152px; text-align: center;">Passeio dir. (mts)</td></tr><tr><td style="width: 166px; text-align: center;">14,00</td><td style="width: 143px; text-align: center;">3,00</td><td style="width: 173px; text-align: center;">8,00</td><td style="width: 152px; text-align: center;">3,00</td></tr></tbody></table>
+Largura Total (mts)
+
+Passeio esq. (mts)
+
+Pista (mts)
+
+Passeio dir. (mts)
+
+14,00
+
+3,00
+
+8,00
+
+3,00
 
 IV - as vias de circulação quando destinadas exclusivamente a pedestres deverão ter largura mínima de 5m (cinco metros);
 
@@ -114,7 +128,21 @@ IV- o empreendimento referido neste artigo se caracteriza pela adoção de acess
 
 V- Os projetos das vias de circulação do empreendimento deverão obedecer às dimensões mínimas estabelecidas na tabela abaixo: 
 
-<table height="117" width="694"><tbody><tr><td style="width: 166px; text-align: center;">Largura Total (mts)</td><td style="width: 143px; text-align: center;">Passeio esq. (mts)</td><td style="width: 173px; text-align: center;">Pista (mts)</td><td style="width: 152px; text-align: center;">Passeio dir. (mts)</td></tr><tr><td style="width: 166px; text-align: center;">14,00</td><td style="width: 143px; text-align: center;">3,00</td><td style="width: 173px; text-align: center;">8,00</td><td style="width: 152px; text-align: center;">3,00</td></tr></tbody></table>
+Largura Total (mts)
+
+Passeio esq. (mts)
+
+Pista (mts)
+
+Passeio dir. (mts)
+
+14,00
+
+3,00
+
+8,00
+
+3,00
 
 VI- as vias de circulação quando destinadas exclusivamente a pedestres deverão ter largura mínima de 5m (cinco metros);
 

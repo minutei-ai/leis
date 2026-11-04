@@ -1,5 +1,3 @@
-###DEC-066630-0-000-25-05-1970@@@
-
 DECRETO Nº 66.630, DE 25 DE MAIO DE 1970.
 
 Retifica o artigo 1º do Decreto número 66.461, de 20 de abril de 1970.

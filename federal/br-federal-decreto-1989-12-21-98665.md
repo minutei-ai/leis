@@ -1,7 +1,3 @@
-1
-
-###DEC-098665-0-000-21-12-1989@@@
-
 DECRETO Nº 98.665, DE 21 DE DEZEMBRO DE 1989
 
 Abre ao Ministério da Agricultura, em favor da Companhia Brasileira de Armazenamento, crédito suplementar no valor de NCz$ 129.718.769,00, para os fins que especifica.

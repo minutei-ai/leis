@@ -1,5 +1,3 @@
-###DEC-050123-0-000-26-01-1961@@@
-
 Decreto nº 50.123, de 26 de janeiro de 1961.
 
 Corrige a redação do art. 17 do Decreto nº 47.491 de 24 de dezembro de 1959 e lhe acrescenta parágrafo único.

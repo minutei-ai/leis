@@ -1,5 +1,3 @@
-###DEC-062581-0-000-22-04-1968@@@
-
 DECRETO Nº 62.581, DE 22 DE ABRIL DE 1968.
 
 Transfere funções gratificadas.

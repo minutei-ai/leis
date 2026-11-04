@@ -1,5 +1,3 @@
-###DEC-060669-0-000-02-05-1967@@@
-
 DECRETO Nº 60.669, DE 2 DE MAIO DE 1967.
 
 Declara a cessação de serviços de energia elétrica e outorga concessão.

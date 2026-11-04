@@ -1,5 +1,3 @@
-###DEC-088378-0-000-13-06-1983@@@
-
 # Decreto Nº 88.378, de 13 de junho de 1983
 
 Altera dispositivos do "Regulamento para a Representação do Brasil na Junta Interamericana de Defesa", aprovado pelo Decreto nº 83.068, de 22 de janeiro de 1979.

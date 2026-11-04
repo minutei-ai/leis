@@ -1,5 +1,3 @@
-###DEC-049488-0-000-09-12-1960@@@
-
 DECRETO Nº 49.488, DE 09 DE Dezembro DE 1960.
 
 Autoriza o cidadão brasileiro Clovis Rodrigues Carneiro a pesquisar diamante no Município de Marabá, Estado do Pará.

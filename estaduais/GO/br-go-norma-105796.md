@@ -12,8 +12,6 @@ Art. 2º Este Decreto entra em vigor na data de sua publicação, com efeitos fi
 
 Goiânia, 12 de julho de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -81,7 +79,8 @@ SERVIDORES RELACIONADOS PARA CONCESSÃO DE PROMOÇÃO FUNCIONAL
 | 36 | NARA MOREIRA DOS SANTOS | \*\*\*.638.351-\*\* | A-V | B-I | 03/05/2021 |
 | 37 | PAULA ERICSON GUILHERME TAMBELLINI | \*\*\*.292.648-\*\* | A-V | B-I | 03/05/2021 |
 | 38 | PAULO HENRIQUE OLIVEIRA CAVALCANTI | \*\*\*.673.801-\*\* | A-V | B-I | 06/05/2021 |
-| ~~39~~ | ~~PAULO SÉRGIO DA SILVA LOBO~~<br>
+| ~~39~~ | ~~PAULO SÉRGIO DA SILVA LOBO~~
+
 \- [Revogado pelo Decreto nº 10.137, de 31-08-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106021/decreto-10137). | ~~\*\*\*.362.781-\*\*~~ | ~~A-V~~ | ~~B-I~~ | ~~03/05/2021~~ |
 | 40 | PEDRO PAULO ALVES GODOI | \*\*\*.434.976-\*\* | A-V | B-I | 09/05/2021 |
 | 41 | RAQUEL BORGES DE SOUZA | \*\*\*.202.281-\*\* | A-V | B-I | 05/05/2021 |

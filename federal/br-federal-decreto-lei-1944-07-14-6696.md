@@ -1,5 +1,3 @@
-###DEL-006696-0-000-14-07-1944@@@
-
 DECRETO-LEI N. 6.696 – DE 14 DE JULHO DE 1944
 
 Altera, sem aumento de despesa, o vigente orçamento do Ministério da Fazenda

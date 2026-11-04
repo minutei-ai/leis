@@ -1,5 +1,3 @@
-###DEC-061205-0-000-22-08-1967@@@
-
 decreto Nº 61.205, de 22 de agôsto de 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste para efeito de isenção de quaisquer impostos e taxas federais, a importação dos equipamentos novos, sem similares no País, neste descritos e consignados a Êmpresa “Madeiras da Bahia” S.A. Comércio e Indústria - MABASA”, de Salvador (Bahia).
@@ -14,7 +12,53 @@ decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos sem similares no País, a seguir descritos e consignados à Emprêsa “Madeiras da Bahia S.A. Comércio e Indústria - MABASA” de Salvador (Ba):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:262.35pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:78.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser Importada</span></p></td><td style="width:46.15pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:262.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Serras de corrente, marca “DOLMAR”, tipo DD 60 para 60 cm. Equipada com motor elétrico, 3 fazes, 3 HP, 220/380V, 50 ciclos, condução direta .................................</span></p></td><td style="width:78.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.052</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:262.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Faqueadeira, marca RITTER, FLECK, ROLLER mod. CHL LKS 40”, c/ capacidade para 45 cortes p/ minuto em lâminas de espessura 0,5 a 5mm, movimentação pelo sistema de bielas; corte horizontal; comprimento útil 4m largura máxima útil 12m fôrça motriz requerida 55kw fornecida sem motores), acessórios: uma barra porta-faca, um dispositivo para extração das lâminas, 5 facas e uma barra de pressão ..................................................................</span></p></td><td style="width:78.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>71.084</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:262.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Guilhotina p/ lâminas, marca RITTER, FLECK ROLLER, mod. DG/40”, espessura dos pacotes de lâminas 80mm (máximo), comprimento útil de corte 4m, barra porta-faca, tipo basculante provida de excêntrico para permitir corte oblíquo, fôrça motriz necessária 4,5kw, (fornecida sem motor); acessórios: 2 facas inferiores, 2 facas superiores, um dispositivo automático para movimentação dos pacotes de lâminas durante o corte, um conjunto de discos mútiplos e freio de 4,4kw</span></p></td><td style="width:78.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>12.687</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:262.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Afiadeira de facas, marca RITTER, FLECK ROLLER, mod. MV/42”, comprimento de afiação 4,2m, fôrça motriz necessária 6kw (fornecida s/ motores) acessórios: uma mola segmentada de 8 partes e 10 jogos de pedras de afiar.</span></p></td><td style="width:78.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.008</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:262.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total .....................................................................................</span></p></td><td style="width:78.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>94.831</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser Importada
+
+Valor Total
+
+CIF US$
+
+1
+
+Serras de corrente, marca “DOLMAR”, tipo DD 60 para 60 cm. Equipada com motor elétrico, 3 fazes, 3 HP, 220/380V, 50 ciclos, condução direta .................................
+
+3
+
+1.052
+
+2
+
+Faqueadeira, marca RITTER, FLECK, ROLLER mod. CHL LKS 40”, c/ capacidade para 45 cortes p/ minuto em lâminas de espessura 0,5 a 5mm, movimentação pelo sistema de bielas; corte horizontal; comprimento útil 4m largura máxima útil 12m fôrça motriz requerida 55kw fornecida sem motores), acessórios: uma barra porta-faca, um dispositivo para extração das lâminas, 5 facas e uma barra de pressão ..................................................................
+
+1
+
+71.084
+
+3
+
+Guilhotina p/ lâminas, marca RITTER, FLECK ROLLER, mod. DG/40”, espessura dos pacotes de lâminas 80mm (máximo), comprimento útil de corte 4m, barra porta-faca, tipo basculante provida de excêntrico para permitir corte oblíquo, fôrça motriz necessária 4,5kw, (fornecida sem motor); acessórios: 2 facas inferiores, 2 facas superiores, um dispositivo automático para movimentação dos pacotes de lâminas durante o corte, um conjunto de discos mútiplos e freio de 4,4kw
+
+1
+
+12.687
+
+4
+
+Afiadeira de facas, marca RITTER, FLECK ROLLER, mod. MV/42”, comprimento de afiação 4,2m, fôrça motriz necessária 6kw (fornecida s/ motores) acessórios: uma mola segmentada de 8 partes e 10 jogos de pedras de afiar.
+
+1
+
+10.008
+
+Total .....................................................................................
+
+-
+
+94.831
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria, fica sua similaridade, para efeito da isenção de que trata o presente Decreto, para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1959, do Senhor Ministro da Fazenda.
 

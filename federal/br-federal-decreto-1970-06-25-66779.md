@@ -1,5 +1,3 @@
-###DEC-066779-0-000-25-06-1970@@@
-
 DECRETO Nº 66.779 - DE 25 DE JUNHO DE 1970
 
 Dispõe sôbre o provimento dos cargos da classe C da série de classes de Agente Fiscal de Tributos Federais.

@@ -1,5 +1,3 @@
-###DEC-046575-0-000-13-08-1959@@@
-
 DECRETO Nº 46.575, DE 13 DE AGÔSTO DE 1959.
 
 Altera a redação de dispositivos do Regulamento Provisório de Promoções dos Ofícios da Aeronáutica da Ativa.

@@ -1,5 +1,3 @@
-###DEL-003419-0-000-11-07-1941@@@
-
 DECRETO-LEI N. 3.419 – DE 11 DE JULHO DE 1941
 
 Dispõe sobre a venda do imovel em que funcionam o Estabelecimento Central de Material de Intendência e o Serviço Central de Transportes (antigo edifício da Intendência da Guerra)

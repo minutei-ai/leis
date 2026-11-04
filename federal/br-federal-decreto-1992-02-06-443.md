@@ -1,5 +1,3 @@
-###DEC-000443-0-000-06-02-1992@@@
-
 DECRETO N° 443, DE 06 DE FEVEREIRO DE 1992
 
 Promulga o Acordo de Cooperação Cientifica, Técnica e Tecnológica, entre o Governo da República Federativa do Brasil e o Governo da então República Popular da Hungria.

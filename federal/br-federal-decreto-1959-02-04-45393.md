@@ -1,5 +1,3 @@
-###DEC-045393-0-000-04-02-1959@@@
-
 DECRETO Nº 45.393, DE 4 DE FEVEREIRO DE 1959.
 
 Concede reconhecimento ao curso de didática da Faculdade Católica de Filosofia, Ciências e Letras, de Petrópolis.

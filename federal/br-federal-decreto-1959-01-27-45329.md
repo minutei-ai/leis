@@ -1,5 +1,3 @@
-###DEC-045329-0-000-27-01-1959@@@
-
 Decreto nº 45.329, de 27 de janeiro de 1959.
 
 Autoriza o cidadão brasileiro Isidoro Dequech a pesquisar carvão mineral no município de Criciúna, Estado de Santa Catarina.

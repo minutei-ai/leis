@@ -1,5 +1,3 @@
-###DEL-005090-0-000-15-12-1942@@@
-
 DECRETO-LEI N. 5.090 – DE 15 DE DEZEMBRO DE 1942
 
 Estende aos serventuários que menciona o disposto nos artigos 3º do decreto-lei n. 2.087 e 5º do decreto-lei n. 2.342, ambos de 1940

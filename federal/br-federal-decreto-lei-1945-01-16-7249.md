@@ -1,5 +1,3 @@
-###DEL-007249-0-000-16-01-1945@@@
-
 DECRETO-LEI N. 7.249 – DE 16 DE JANEIRO DE 1945
 
 Autoriza a manutenção, pelas emprêsas, de Postos de Abastecimentos para seus empregados e respectivos dependentes

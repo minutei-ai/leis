@@ -1,5 +1,3 @@
-###DEL-008881-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.881 – DE 24 DE JANEIRO DE 1946
 
 Cria cargo isolado de provimento efetivo no Quadro Permanente do Ministério da Educação e Saúde, e dá outras providências.

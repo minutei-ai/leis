@@ -1,5 +1,3 @@
-###DEC-051920-A-000-26-04-1963@@@
-
 DECRETO Nº 51.920-a, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro José Luiz de Almeida a pesquisar leucita, no município de Andradas, Estado de Minas Gerais.

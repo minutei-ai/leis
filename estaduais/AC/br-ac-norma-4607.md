@@ -1,6 +1,10 @@
 > **LEI Nº 3.732, DE 19 DE MAIO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.717, de 15 de janeiro de 2021, que “Institui a carreira de auditor fiscal estadual agropecuário no âmbito do Instituto de Defesa Agropecuária e Florestal - IDAF".</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.717, de 15 de janeiro de 2021, que “Institui a carreira de auditor fiscal estadual agropecuário no âmbito do Instituto de Defesa Agropecuária e Florestal - IDAF".
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE** 
 

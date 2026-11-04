@@ -1,5 +1,3 @@
-###DEC-069223-0-000-20-09-1971@@@
-
 decreto nº 69.223, de 20 de setembro de 1971.
 
 Modifica o Artigo 7º do Decreto número 65.324, de 10 der outubro de 1969, que altera a estrutura do Instituto Brasileiro de providências.

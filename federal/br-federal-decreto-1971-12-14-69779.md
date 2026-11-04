@@ -1,5 +1,3 @@
-###DEC-069779-0-000-14-12-1971@@@
-
 DECRETO Nº 69.779 - DE 14 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública o Patronato São José, com sede em Ribamar, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-087232-0-000-01-06-1982@@@
-
 Decreto nº 87.232, de 01 de junho de 1982.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Magé da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, Estado do Rio de Janeiro.

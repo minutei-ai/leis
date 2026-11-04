@@ -1,5 +1,3 @@
-###DEC-084459-0-000-04-02-1980@@@
-
 Decreto nº 84.459, de 4 de fevereiro de 1980.
 
 Dispõe sobre a fixação de áreas prioritárias para fins reforma agrária, nos Municípios de Itaporã, Fátima do Sul, Jatey, Caarapó, Deodápolis e Glória de Dourada, no Estado de Mato Grosso do Sul, e dá outras providências.

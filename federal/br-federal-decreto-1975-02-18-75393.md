@@ -1,5 +1,3 @@
-###DEC-075393-0-000-18-02-1975@@@
-
 DECRETO Nº 75.393, DE 18 DE FEVEREIRO DE 1975
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóveis, em Rondonópolis-MT, destinados ao Ministério do Exército.

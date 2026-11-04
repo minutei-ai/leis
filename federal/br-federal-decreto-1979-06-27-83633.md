@@ -1,5 +1,3 @@
-###DEC-083633-0-000-27-06-1979@@@
-
 Decreto nº 83.633, de 27 de junho de 1979.
 
 Cria o Grupo de Trabalho para rever a legislação previdenciária e assistencial rural.

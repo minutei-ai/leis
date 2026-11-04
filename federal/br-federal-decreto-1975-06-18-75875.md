@@ -1,5 +1,3 @@
-###DEC-075875-0-000-18-06-1975@@@
-
 Decreto nº 75.875, de 18 de junho de 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube Paranaense Ltda., para que a Rádio Difusora de Ponta Grossa Ltda., sob a denominação de Rádio Difusora Ponta Grossa, passe a executar na cidade de Ponta Grossa, Estado do Paraná, serviço de radiodifusão sonora em onda média de âmbito regional.

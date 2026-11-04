@@ -1,5 +1,3 @@
-###MPV-001656-0-004-25-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.656-4, DE 25 DE AGOSTO DE 1998
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

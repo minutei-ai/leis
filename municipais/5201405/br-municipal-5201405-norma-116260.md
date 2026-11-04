@@ -14,8 +14,10 @@ Art. 2º Esta Lei entra em vigor na data da sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, aos 29 de maio de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

@@ -1,5 +1,3 @@
-###DEL-000078-0-000-08-12-1966@@@
-
 DECreto-LEI Nº 78, DE 8 DE DEZEmBRO DE 1966
 
 altera e acrescenta dispositivos no Decreto-lei nº 18, de 24 de agôsto de 1966, que dispõe sôbre o exercício da profissão do aeronauta e dá outras providências
@@ -24,7 +22,17 @@ Art. 3º 0 “caput” do art. 14 do Decreto-lei nº 18, de 24 de agôsto da 196
 
 § 1º Após cada jornada é assegurado ao aeronauta um repouso mínimo em função das horas de trabalho despendidas, de acôrdo com o quadro abaixo:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Até 13 horas de trabalho</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>11 h</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De 13 a 16 horas de trabalho</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16 h</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De 16 a 20 horas de trabalho</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>24 h</span></p></td></tr></tbody></table>
+Até 13 horas de trabalho
+
+11 h
+
+De 13 a 16 horas de trabalho
+
+16 h
+
+De 16 a 20 horas de trabalho
+
+24 h
 
 § 2º As ampliações dos limites de horas de trabalho previstas no § 1º do art. 11 não serão computadas para efeito de cálculo das horas de repouso de que trata o § 1º dêste artigo.”
 

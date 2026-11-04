@@ -1,5 +1,3 @@
-###DEL-003555-0-000-27-08-1941@@@
-
 DECRETO-LEI N. 3.555 – DE 27 DE AGOSTO DE 1941
 
  Cria, no Exército, o Quadro de Motoristas

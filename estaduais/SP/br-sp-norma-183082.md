@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183082)
-
 # DECRETO Nº 62.818, DE 04 DE SETEMBRO DE 2017
 
 ### _Dá nova redação a dispositivo do Decreto nº 56.091, de 16 de agosto de 2010, que alterou a denominação do Conselho Estadual Sobre Drogas para Conselho Estadual de Políticas sobre Drogas - CONED_
@@ -18,10 +16,16 @@ Palácio dos Bandeirantes, 4 de setembro de 2017
 
 GERALDO ALCKMIN
 
-Márcio Fernando Elias Rosa<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Márcio Fernando Elias Rosa
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 4 de setembro de 2017.

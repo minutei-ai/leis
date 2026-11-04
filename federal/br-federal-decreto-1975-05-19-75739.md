@@ -1,5 +1,3 @@
-###DEC-075739-0-000-19-05-1975@@@
-
 DECRETO Nº 75.739, DE 19 DE MAIO DE 1975
 
 Concede à Indústria de Calcinação Basílio Ltda., o direito de lavrar calcário no Município de Prados, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-009210-0-000-29-04-1946@@@
-
 DECRETO-LEI Nº 9.210, DE 29 DE ABRIL DE 1946
 
 Fixa normas para a uniformização da Cartografia brasileira e dá outras providências.

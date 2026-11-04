@@ -1,5 +1,3 @@
-###DEC-079168-0-000-25-01-1977@@@
-
 DECRETO N.º 79.168, DE 25 DE JANEIRO DE 1977.
 
 Renova por 10(dez) anos a concessão outorgada à Rádio Liberdade de Caruaru Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Caruaru, Estado de Pernambuco.

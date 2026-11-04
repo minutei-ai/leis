@@ -1,5 +1,3 @@
-###DEC-074580-0-000-19-09-1974@@@
-
 DECRETO Nº 74.580, DE 19 DE SETEMBRO DE 1974.
 
 Retifica a concessão de lavra outorgada à Companhia Nacional de Cimento Portland, pelo Decreto número 65.303, de 7 de outubro de 1969.

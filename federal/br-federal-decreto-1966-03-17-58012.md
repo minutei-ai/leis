@@ -1,5 +1,3 @@
-###DEC-058012-0-000-17-03-1966@@@
-
 DECRETO Nº 58.012, DE 17 DE MARÇO DE 1966.
 
 Concede à Neptunia Sociedade de Navegação Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

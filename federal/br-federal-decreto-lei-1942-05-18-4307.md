@@ -1,5 +1,3 @@
-###DEL-004307-0-000-18-05-1942@@@
-
 DECRETO-LEI N. 4.307 – DE 18 DE MAIO DE 1942
 
 Organiza, com sede na 3ª Região Militar, o 3º Depósito Regional de Material Sanitário

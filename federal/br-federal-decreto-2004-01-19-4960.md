@@ -1,5 +1,3 @@
-###DEC-004960-0-000-19-01-2004@@@
-
 DECRETO Nº 4.960,  DE 19 DE JANEIRO DE 2004.
 
 Cria a Comissão Nacional de Prevenção da Violência e Segurança nos Espetáculos Esportivos - CONSEGUE.

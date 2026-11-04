@@ -1,5 +1,3 @@
-###DEC-054899-0-000-04-11-1964@@@
-
 DECRETO Nº 54.899, DE 4 DE Novembro DE 1964.
 
 Autoriza a cidadã brasileiro Edelweiss Moretzsohn de Andrade a pesquisar bauxita no município de Ouro Prêto, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-070387-0-000-10-04-1972@@@
-
 DECRETO Nº 70.387, DE 10 DE ABRIL DE 1972.
 
 Concede à Caraíba - Mineração e Metalurgia S. A. o direito de lavrar minério de cobre, no município de Curaça, Estado da Bahia.

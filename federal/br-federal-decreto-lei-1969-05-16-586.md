@@ -1,5 +1,3 @@
-###DEL-000586-0-000-16-05-1969@@@
-
 DECRETO-LEI nº 586, DE 16 DE MAIO DE 1969
 
 Acrescenta alínea ao art. 33 da Lei nº 5.508, de 11 de outubro de 1968.

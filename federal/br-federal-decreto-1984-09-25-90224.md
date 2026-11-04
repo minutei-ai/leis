@@ -1,5 +1,3 @@
-###DEC-090224-0-000-25-09-1984@@@
-
 Decreto nº 90.224, de 25 de setembro de 1984.
 
 Cria a FLORESTA NACIONAL D0 JAMARI, no Estado de Rondônia, e dá outras providências.

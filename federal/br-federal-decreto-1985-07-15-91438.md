@@ -1,5 +1,3 @@
-###DEC-091438-0-000-15-07-1985@@@
-
 DeCretO nº 91.438, de 15 de julho de 1985
 
 Altera dispositivo do Decreto nº 89.121, de 6 de dezembro de 1983, que dispõe sobre a utilização e a exploração dos aeroportos e das facilidades à navegação aérea.

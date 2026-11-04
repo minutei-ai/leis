@@ -1,5 +1,3 @@
-###DEC-071131-0-000-21-09-1972@@@
-
 DECRETO Nº 71.131, DE 21 DE SETEMBRO DE 1972.
 
 Concede autorização à firma Christiani Nielsen Engenheiros e Construtores S.A., associada à firma Ingram Marine Inc., para operar no mar territorial do Brasil com a embarcação "Front Royal", de bandeira norte-americana, nos serviços que especifica.

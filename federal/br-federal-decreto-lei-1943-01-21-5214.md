@@ -1,5 +1,3 @@
-###DEL-005214-0-000-21-01-1943@@@
-
 DECRETO‑LEI N. 5.214 – DE 21 DE JANEIRO DE 1943
 
 Dispõe sobre a concessão de livramento condicional a sentenciados por crimes cometidos antes da vigência do Código Penal

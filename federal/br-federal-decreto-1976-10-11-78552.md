@@ -1,5 +1,3 @@
-###DEC-078552-0-000-11-10-1976@@@
-
 DECRETO Nº 78.552, DE 11 DE OUTUBRO DE 1976.
 
 Concede reconhecimento aos cursos de Matemática e de Educação Artística da Faculdade de Ciências e Letras, com sede na cidade de Avaré, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-063954-0-000-31-12-1968@@@
-
 DECRETO Nº 63.954, DE 31 DE DEZEMBRO DE 1968.
 
 Cria o Comando Naval de Brasília e dá outras providências.

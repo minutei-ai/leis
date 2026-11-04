@@ -1,5 +1,3 @@
-###DEC-052824-0-000-13-11-1963@@@
-
 decreto nº 52.824,de 13 de novembro de 1963.
 
 Estende á indústria de produtos veterinários as disposições do Decreto nº 52.471, de 13 de setembro de 1963, e dá outras providências.

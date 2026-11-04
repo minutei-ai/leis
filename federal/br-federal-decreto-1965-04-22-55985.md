@@ -1,5 +1,3 @@
-###DEC-055985-0-000-22-04-1965@@@
-
 DECRETO Nº 55.985, DE 22 DE ABRIL DE 1965.
 
 Concede à Aranha S.A. - Engenharia e Construções autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-089497-0-000-29-03-1984@@@
-
 DeCREtO nº 89.497 de 29 de março dE 1984
 
 Autoriza o funcionamento do curso de Turismo da Faculdade de Turismo da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001250-0-000-21-09-1994@@@
-
 DECRETO Nº 1.250, DE 21 DE SETEMBRO DE 1994
 
 Prorroga o prazo previsto no art. 71 da Medida Provisória nº 596, de 26 de agosto de 1994.

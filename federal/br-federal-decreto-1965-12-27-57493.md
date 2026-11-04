@@ -1,5 +1,3 @@
-###DEC-057493-0-000-27-12-1965@@@
-
 DECRETO Nº 57.493, DE 27 DE DEZEMBRO DE 1965.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de Cr$600.000.000 (seiscentos milhões de cruzeiros) para atender as despesas com a desapropriação dos bens da Fundação Graffiée-Guinle.

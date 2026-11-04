@@ -1,5 +1,3 @@
-###DEC-084978-0-000-30-07-1980@@@
-
 Decreto nº 84.978, de 30 de julho de 1980
 
 Autoriza o aumento da potência da RÁDIO JAGUARI LTDA., na cidade de Jaguari, Estado do Rio Grande do Sul.

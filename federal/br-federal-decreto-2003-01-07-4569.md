@@ -1,5 +1,3 @@
-###DEC-004569-0-000-07-01-2003@@@
-
 DECRETO Nº 4.569, DE 7 DE JANEIRO DE 2003.
 
 Dispõe sobre o remanejamento de cargos para a Secretaria Especial do Conselho de Desenvolvimento Econômico e Social da Presidência da República, e dá outras providências.
@@ -16,6 +14,8 @@ Dispõe sobre o remanejamento de cargos para a Secretaria Especial do Conselho d
 
         Brasília, 7 de janeiro de 2003; 182~~º~~ da Independência e 115~~º~~ da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Guido Mantega<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Guido Mantega
+
 José Dirceu de Oliveira e Silva

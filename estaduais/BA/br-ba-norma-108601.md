@@ -4,7 +4,8 @@ Dispõe sobre as diretrizes orçamentárias para o exercício de 2000 e dá outr
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei,
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÃO PRELIMINAR
 
 Art. 1º - Ficam estabelecidas as diretrizes orçamentárias do Estado para o exercício de 2000, compreendendo:
@@ -21,7 +22,8 @@ V - a política de aplicação de recursos das agências financeiras estaduais d
 
 VI - a organização e estrutura dos orçamentos.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA ESTADUAL
 
 Art. 2º - As metas e as prioridades para o exercício de 2000 serão especificadas no Plano Plurianual relativo ao período 2000 a 2003, observadas as seguintes estratégias:
@@ -68,10 +70,12 @@ XI - promover a qualificação dos trabalhadores e das pequenas e médias unidad
 
 XII - desenvolver programas de segurança rodoviária, melhorando as condições de operações das rodovias estaduais e sinalizando-as.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS DIRETRIZES PARA A ELABORAÇÃO DOS ORÇAMENTOS DO ESTADO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Das Diretrizes Gerais
 
 Art. 3º - A programação e a execução dos orçamentos fiscal e da seguridade social, tendo em vista o ajuste fiscal, deverão garantir a obtenção de resultado primário positivo, mediante a melhoria do desempenho da arrecadação dos impostos estaduais e a redução dos gastos continuados da Administração, possibilitando o controle do endividamento e o aumento do investimento público do Estado.
@@ -158,7 +162,8 @@ Art. 13 - A proposta orçamentária conterá reserva de contingência no orçame
 
 Parágrafo único - A reserva de contingência de que trata o caput deste artigo será constituída em montante correspondente a até 3% (três por cento), calculado sobre o total das receitas correntes, deduzidas as transferências constitucionais aos Municípios e a parcela da receita de impostos vinculada à educação.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Das Diretrizes dos Orçamentos Fiscal e da Seguridade Social
 
 Art. 14 - O orçamento fiscal compreenderá a receita e a programação da despesa dos Poderes do Estado, seus fundos, órgãos da Administração direta, autarquias, inclusive especiais, e fundações instituídas e mantidas pelo Poder Público.
@@ -169,7 +174,8 @@ Art. 14 - O orçamento fiscal compreenderá a receita e a programação da despe
 
 Art. 15 - O orçamento da seguridade social abrangerá os recursos e as programações dos órgãos e entidades da administração direta e indireta do Estado, inclusive seus fundos e fundações, que atuem nas áreas de saúde, previdência e assistência social, e também os referentes ao Sistema de Seguridade Social dos Servidores Públicos Estaduais de que trata a [Lei nº 7.249, de 07 de janeiro de 1998](https://www.legislabahia.ba.gov.br/documentos/lei-no-7249-de-07-de-janeiro-de-1998#LO_7_249) .
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Das Diretrizes do Orçamento de Investimento das Empresas
 
 Art. 16 - O orçamento de investimento das empresas em que o Estado, direta ou indiretamente, detenha a maioria do capital social com direito a voto, será apresentado por cada empresa, discriminadas as fontes de financiamento e as despesas, segundo a classificação funcional-programática, expressas por categoria de programação em seu menor nível, e grupo de despesa.
@@ -180,7 +186,8 @@ Art. 17 - Não se aplicam às empresas integrantes do orçamento de investimento
 
 Art. 18 - A programação dos investimentos à conta de recursos oriundos dos orçamentos fiscal e da seguridade social observará o valor e a destinação previstos nas dotações do orçamento original.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS DO ESTADO COM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 19 - As dotações orçamentárias destinadas às despesas com pessoal e encargos sociais, em cada Poder, serão estimadas, para o exercício de 2000, com base na despesa média mensal executadas até julho de 1999, observados, além da legislação pertinente em vigor:
@@ -213,7 +220,8 @@ IX - serviços judiciários.
 
 Art. 21 - As dotações para atendimento das despesas com a admissão de pessoal sob regime especial de contratação, nos termos do inciso IX, do art. 37, da Constituição Federal, serão alocadas em atividades específicas, incluídas na lei orçamentária e em seus créditos adicionais para esta finalidade.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO ESTADO E MEDIDAS PARA INCREMENTO DA RECEITA
 
 Art. 22 - Em caso de necessidade, o Poder Executivo encaminhará à Assembléia Legislativa projeto de lei dispondo sobre alterações na legislação tributária estadual e incremento da receita, incluindo:
@@ -228,7 +236,8 @@ IV - geração de receita própria pelas entidades da administração indireta, 
 
 Parágrafo único - Os recursos eventualmente decorrentes das alterações previstas neste artigo serão incorporados aos orçamentos do Estado, mediante a abertura de créditos adicionais no decorrer do exercício, observada a legislação vigente.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA POLÍTICA DE APLICAÇÃO DE RECURSOS PELAS AGÊNCIAS FINANCEIRAS ESTADUAIS DE FOMENTO
 
 Art. 23 - As agências financeiras estaduais de fomento, na concessão de financiamento, observarão, além de sua compatibilização com o Plano Plurianual 2000-2003, as seguintes políticas:
@@ -245,7 +254,8 @@ V - a promoção de setores vinculados à indústria cultural e ao turismo, de m
 
 Parágrafo único - A concessão de empréstimos ou financiamentos, na forma deste artigo, a Municípios, inclusive às suas autarquias, fundações, empresas e sociedades de economia mista e outras sob seu controle, sem prejuízo das demais normas regulamentares pertinentes, fica condicionada à comprovação a que se refere o [art. 8º desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-7486-de-12-de-julho-de-1999#LO_7_486_Art__8) e às normas do Banco Central do Brasil.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
 
 Art. 24 - A proposta orçamentária anual que o Poder Executivo encaminhará à Assembléia Legislativa, até 30 de setembro de 1999, será composta, além da mensagem e do respectivo projeto de lei, de:
@@ -350,7 +360,8 @@ II - acompanhadas de exposição de motivos que as justifique.
 
 Art. 28 - A criação de novos projetos ou atividades, além dos constantes da proposta de lei orçamentária anual, somente será admitida mediante a redução de dotações alocadas a outros projetos ou atividades, observado o disposto na Constituição do Estado e nesta Lei.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 29 - Caso o Projeto de Lei Orçamentária para 2000 não esteja aprovado e sancionado até 31 de dezembro de 1999, a programação dele constante poderá ser executada, até a edição da respectiva lei orçamentária, na forma originalmente encaminhada à Assembléia Legislativa, excetuados os investimentos em novos projetos custeados exclusivamente com recursos ordinários do Tesouro Estadual.
@@ -417,4 +428,4 @@ Paulo Renato Dantas Gaudenzi
 
 Secretário da Cultura e Turismo
 
-* * *
+ *

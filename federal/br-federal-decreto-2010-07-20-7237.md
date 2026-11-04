@@ -1,5 +1,3 @@
-###DEC-007237-0-000-20-07-2010@@@
-
 DECRETO Nº 7.237, DE 20 DE JULHO DE 2010.
 
 Regulamenta a Lei nº 12.101, de 27 de novembro de 2009, para dispor sobre o processo de certificação das entidades beneficentes de assistência social para obtenção da isenção das contribuições para a seguridade social, e dá outras providências.

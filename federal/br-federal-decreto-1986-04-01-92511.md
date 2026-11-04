@@ -1,5 +1,3 @@
-###DEC-092511-0-000-01-04-1986@@@
-
 DECRETO Nº 92.511, DE 1º DE ABRIL DE 1986
 
 Autoriza o aumento de Capital Social da COMPANHIA VELE DO RIO DOCE.

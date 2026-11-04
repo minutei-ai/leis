@@ -1,5 +1,3 @@
-###DEC-079811-0-000-14-06-1977@@@
-
 DECRETO Nº 79.811, DE 14 deJUnHO DE 1977
 
 Concede à Indústria Cerâmica da Amazônia S. A. - INCA o direito de lavrar argila no Município de Ananindeua, Estado do Pará.

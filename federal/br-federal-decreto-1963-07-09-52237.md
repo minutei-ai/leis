@@ -1,5 +1,3 @@
-###DEC-052237-0-000-09-07-1963@@@
-
 DECRETO Nº 52.237, DE 9 DE JULHO DE 1963.
 
 Autoriza o cidadão brasileiro Evaristo Grilli a pesquisar água mineral, no município de Guarulhos, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097735-0-000-12-05-1989@@@
-
 DECRETO N° 97.735, DE 12 DE MAIO DE 1989
 
 Renova a concessão outorgada a SOCIEDADE RÁDIO EMBOABAS DE MINAS GERAIS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Tiradentes, Estado de Minas Gerais.

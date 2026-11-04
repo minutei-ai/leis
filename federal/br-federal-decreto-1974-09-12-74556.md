@@ -1,5 +1,3 @@
-###DEC-074556-0-000-12-09-1974@@@
-
 DECRETO Nº 74.556, DE 12 DE SETEMBRO DE 1974.
 
 Altera a autorização concedida pelo Decreto número 73.372, de 26 de dezembro de 1973, à Companhia Société de Forage En Mer Neptune.

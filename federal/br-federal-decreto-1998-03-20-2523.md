@@ -1,5 +1,3 @@
-###DEC-002523-0-000-20-03-1998@@@
-
 DECRETO Nº 2.523, DE 20 DE MARÇO DE 1998
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 25, entre Brasil e Peru, de 18 de dezembro de 1997.

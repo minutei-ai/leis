@@ -1,5 +1,3 @@
-###DEC-089483-0-000-27-03-1984@@@
-
 DECRETO Nº 89.483, DE 27 DE MARÇO DE 1984.
 
 Declara Luto Oficial.

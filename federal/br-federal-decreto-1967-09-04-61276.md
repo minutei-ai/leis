@@ -1,5 +1,3 @@
-###DEC-061276-0-000-04-09-1967@@@
-
 DECRETO Nº 61.276, DE 4 DE SETEMBRO DE 1967.
 
 Provê sôbre o prazo previsto no artigo 3º do Decreto nº 55.590, de 19 de janeiro de 1965.

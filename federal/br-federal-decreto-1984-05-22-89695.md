@@ -1,5 +1,3 @@
-###DEC-089695-0-000-22-05-1984@@@
-
 DECRETO Nº 89.695, de 22 de MAiO DE 1984
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

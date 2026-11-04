@@ -1,5 +1,3 @@
-###DEC-086884-0-000-28-01-1982@@@
-
 Decreto nº 86.884, de 28 de janeiro de 1982.
 
 Dispõe sobre o cargo de Vice-Diretor do Centro Técnico Aeroespacial.

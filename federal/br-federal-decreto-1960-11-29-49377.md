@@ -1,5 +1,3 @@
-###DEC-049377-0-000-29-11-1960@@@
-
 DECRETO Nº 49.377, DE 29 DE NOVEMBRO DE 1960.
 
 Cria cargos e função gratificada no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-002004-0-004-13-01-2000@@@
-
 MEDIDA PROVISÓRIA nº 2.004-4, de 13 de janeiro de 2000
 
 Institui o Programa de Recuperação Fiscal - REFIS.

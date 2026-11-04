@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/7021)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1998/compilacao-lei-10083-23.09.1998.html)
 
 # LEI N° 10.083, DE 23 DE SETEMBRO DE 1998
@@ -11,8 +10,10 @@ O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
-#### LIVRO I<br>
-TÍTULO I<br>
+#### LIVRO I
+
+TÍTULO I
+
 Princípios Gerais
 
 **Artigo 1° -** Este Código atenderá aos princípios expressos nas Constituições Federal e Estadual, nas Leis Orgânicas de Saúde - Leis n°s 8080, de 19 de setembro de 1990 e 8142, de 28 de dezembro de 1990, no Código de Defesa do Consumidor - Lei n° 8078, de 11 de setembro de 1990 e no Código de Saúde do Estado de São Paulo - [Lei Complementar n° 791, de 9 de março de 1995](https://www.al.sp.gov.br/norma/11613), baseando-se nos seguintes preceitos:
@@ -43,7 +44,8 @@ IV - publicidade, para garantir o direito à informação, facilitando seu acess
 
 V - privacidade, devendo as ações de vigilância sanitária e epidemiológica preservar este direito do cidadão, somente sendo sacrificado quando for a única maneira de evitar perigo atual ou iminente para a saúde pública.
 
-#### TÍTULO II<br>
+#### TÍTULO II
+
 Objeto, Campo de Atuação e Metodologia
 
 **Artigo 2° -** Os princípios expressos neste Código disporão sobre proteção, promoção e preservação da saúde, no que se refere às atividades de interesse à saúde e meio ambiente, nele incluído o do trabalho, e têm os seguintes objetivos:
@@ -76,13 +78,16 @@ VI - assegurar e promover a participação da comunidade nas ações de saúde.
 
 **Artigo 10 -** As Vigilâncias Sanitária e Epidemiológica deverão organizar serviços de captação de reclamações e denúncias, divulgando periodicamente esses dados.
 
-#### LIVRO II<br>
+#### LIVRO II
+
 Promoção, Proteção e Preservação da Saúde
 
-#### TÍTULO I<br>
+#### TÍTULO I
+
 Saúde e Meio Ambiente
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Gerais
 
 **Artigo 11 -** Constitui finalidade das ações de vigilância sanitária sobre o meio ambiente o enfrentamento dos problemas ambientais e ecológicos, de modo a serem sanados ou minimizados a fim de não representarem risco à vida, levando em consideração aspectos da economia, da política, da cultura e da ciência e tecnologia, com vistas ao desenvolvimento sustentado, como forma de garantir a qualidade de vida e a proteção ao meio ambiente.
@@ -91,7 +96,8 @@ Disposições Gerais
 
 **Parágrafo único -** Os critérios, parâmetros, padrões, metodologias de monitoramento ambiental e biológico e de avaliação dos fatores de risco citados neste artigo serão os definidos neste Código, em normas técnicas e demais diplomas legais vigentes.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Organização Territorial, Assentamentos Humanos e Saneamento Ambiental
 
 **Artigo 13 -** A direção estadual do SUS deverá manifestar-se através de instrumentos de planejamento e avaliação de impacto à saúde, no âmbito de sua competência, quanto aos aspectos de salubridade, drenagem, infra-estrutura sanitária, manutenção de áreas livres e institucionais, sistemas de lazer, índices de ocupação e de densidade demográfica.
@@ -120,7 +126,8 @@ VI - respeito a grupos humanos vulneráveis.
 
 **§ 2° -** Vetado.
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Abastecimento de Água para Consumo Humano
 
 **Artigo 18 -** Todo e qualquer sistema de abastecimento de água, seja público ou privado, individual ou coletivo, está sujeito à fiscalização da autoridade sanitária competente, em todos os aspectos que possam afetar a saúde pública.
@@ -139,7 +146,8 @@ IV - deverá ser mantida pressão positiva em qualquer ponto da rede de distribu
 
 V - a fluoretação da água distribuída através de sistemas de abastecimento deverá obedecer ao padrão estabelecido pela autoridade sanitária competente.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Esgotamento Sanitário
 
 **Artigo 21 -** Todo e qualquer sistema de esgotamento sanitário, seja público ou privado, individual ou coletivo, estará sujeito à fiscalização da autoridade sanitária competente, em todos os aspectos que possam afetar a saúde pública.
@@ -148,7 +156,8 @@ Esgotamento Sanitário
 
 **Artigo 23 -** A utilização, em atividades agropecuárias, de água fora dos padrões de potabilidade, esgotos sanitários ou lodo proveniente de processos de tratamento de esgotos, só será permitida conforme normas técnicas.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Resíduos Sólidos
 
 **Artigo 24 -** Todo e qualquer sistema individual ou coletivo, público ou privado, de geração, armazenamento, coleta, transporte, tratamento, reciclagem e destinação final de resíduos sólidos de qualquer natureza, gerados ou introduzidos no Estado, estará sujeito à fiscalização da autoridade sanitária competente, em todos os aspectos que possam afetar a saúde pública.
@@ -161,10 +170,12 @@ Resíduos Sólidos
 
 **Artigo 28 -** As condições sanitárias de acondicionamento, transporte, incineração, localização e forma de disposições final dos resíduos perigosos, tóxicos, explosivos, inflamáveis, corrosivos, radioativos e imunobiológicos, deverão obedecer às normas técnicas e ficarão sujeitas à fiscalização da autoridade sanitária.
 
-#### TÍTULO II<br>
+#### TÍTULO II
+
 Saúde e Trabalho
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Gerais
 
 **Artigo 29 -** A saúde do trabalhador deverá ser resguardada, tanto nas relações sociais que se estabelecem entre o capital e o trabalho, como no processo de produção.
@@ -213,10 +224,12 @@ III - medidas de controle no ambiente de trabalho; e
 
 IV - utilização de equipamentos de proteção individual, que somente deverá ser permitida nas situações de emergência ou nos casos específicos em que for a única possibilidade de proteção, e dentro do prazo estabelecido no cronograma de implantação das medidas de proteção coletiva.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Estruturação das Atividades e da Organização do Trabalho
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Riscos no Processo de Produção
 
 **Artigo 33 -** O transporte, a movimentação, o manuseio e o armazenamento de materiais, o transporte de pessoas, os veículos e os equipamentos usados nestas operações, deverão obedecer a critérios estabelecidos em normas técnicas, que preservem a saúde do trabalhador.
@@ -227,10 +240,12 @@ Dos Riscos no Processo de Produção
 
 **Artigo 36 -** A organização do trabalho deverá adequar-se às condições psicofisiológicas e ergonômicas dos trabalhadores, tendo em vista as possíveis repercussões negativas sobre a saúde, quer diretamente, através dos fatores que a caracterizam, quer pela potencialização dos riscos de natureza física, química ou biológica, presentes no processo de produção, devendo ser objeto de normas técnicas.
 
-#### TÍTULO III<br>
+#### TÍTULO III
+
 Produtos e Substâncias de Interesse à Saúde
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Gerais
 
 **Artigo 37 -** Entende-se por produtos e substâncias de interesse à saúde os alimentos, águas minerais e de fontes, bebidas, aditivos, medicamentos, drogas, insumos farmacêuticos, correlatos, cosméticos, perfumes, produtos de higiene, saneantes, domissanitários (inseticidas, raticidas), agrotóxicos, materiais de revestimento e embalagens ou outros produtos que possam trazer riscos à saúde.
@@ -249,10 +264,12 @@ Disposições Gerais
 
 **Parágrafo único -** A direção estadual do SUS fará afixar em todos os dispensários de medicamentos a lista de medicamentos identificados por sua denominação genérica.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Estabelecimentos
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Condições de Funcionamento dos Estabelecimentos de Produtos e Substâncias de Interesse à Saúde
 
 **Artigo 41 -** Os estabelecimentos industriais e comerciais farmacêuticos deverão possuir local ou armário com chave para guarda de substâncias e produtos de controle sanitário especial, definidos pela legislação vigente, e registro de entrada e saída dessas substâncias e produtos.
@@ -261,7 +278,8 @@ Condições de Funcionamento dos Estabelecimentos de Produtos e Substâncias de 
 
 **Parágrafo único -** Fica vedado às ervanarias e postos de medicamentos exercer as atividades mencionadas neste artigo.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Comercialização dos Produtos e Substâncias de Interesse à Saúde
 
 **Artigo 43 -** Vetado.
@@ -272,17 +290,20 @@ Da Comercialização dos Produtos e Substâncias de Interesse à Saúde
 
 **Artigo 46 -** Nas embalagens e rótulos de medicamentos que contenham corantes, estabilizantes e conservantes químicos ou biológicos, deverão constar, obrigatoriamente, mensagem alertando o consumidor sobre a presença e composição dos mesmos, bem como sobre a possibilidade de conseqüências adversas, prejudiciais à saúde.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Propaganda de Produtos e Substâncias de Interesse à Saúde
 
 **Artigo 47 -** As amostras grátis distribuídas pelos estabelecimentos industriais de produtos farmacêuticos deverão ser dirigidas exclusivamente ao médico, ao cirurgião-dentista e ao médico veterinário, e a propaganda desses produtos deverá restringir-se a sua identidade, qualidade e indicação de uso.
 
 **Artigo 48 -** Vetado.
 
-#### TÍTULO IV<br>
+#### TÍTULO IV
+
 Estabelecimentos de Saúde
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Estabelecimentos de Assistência à Saúde
 
 **Artigo 49 -** Para fins deste Código e de suas normas técnicas, considera-se assistência à saúde a atenção à saúde prestada nos estabelecimentos definidos e regulamentados em norma técnica, destinados precipuamente à promoção, proteção da saúde, prevenção das doenças, recuperação e reabilitação da saúde.
@@ -319,14 +340,16 @@ Estabelecimentos de Assistência à Saúde
 
 **Parágrafo único -** Esses documentos deverão ser guardados pelo tempo previsto em legislação especifica.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Estabelecimentos de Interesse à Saúde
 
 **Artigo 59 -** Para os fins deste Código e de suas normas técnicas, consideram-se como de interesse à saúde todas as ações que direta ou indiretamente estejam relacionadas com a proteção, promoção e preservação da saúde, dirigidas à população e realizadas por órgãos públicos, empresas públicas, empresas privadas, instituições filantrópicas, outras pessoas jurídicas de direito público, direito privado e pessoas físicas.
 
 **Artigo 60 -** Para os fins deste Código consideram-se como de interesse indireto à saúde, todos os estabelecimentos e atividades não relacionadas neste Código, cuja prestação de serviços ou fornecimento de produtos possam constituir risco à saúde pública, segundo norma técnica.
 
-#### TÍTULO V<br>
+#### TÍTULO V
+
 Vigilância Epidemiológica
 
 **Artigo 61 -** Entende-se por Vigilância Epidemiológica o conjunto de ações que proporcionem o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes da saúde individual e coletiva, com a finalidade de adotar ou recomendar medidas de prevenção e controle das doenças e agravos à saúde.
@@ -335,7 +358,8 @@ Vigilância Epidemiológica
 
 **Parágrafo único -** Poderão fazer parte do Sistema de Vigilância Epidemiológica os órgãos de saúde públicos e privados definidos por ato administrativo.
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Notificação Compulsória das Doenças e Agravos à Saúde
 
 **Artigo 63 -** As ações de vigilância à saúde previstas neste Código serão definidas através de normas técnicas, reelaboradas periodicamente, com ampla participação da sociedade civil.
@@ -446,7 +470,8 @@ VII - responsáveis pelo automóvel, caminhão, ônibus, trem, avião, embarcaç
 
 **Artigo 68 -** Os dados necessários ao esclarecimento da notificação compulsória, bem como as instruções sobre o processo de notificação, constarão de normas técnicas.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Investigação Epidemiológica e Medidas de Controle
 
 **Artigo 69 -** Recebida a notificação, a autoridade sanitária deverá proceder à investigação epidemiológica pertinente.
@@ -463,7 +488,8 @@ Investigação Epidemiológica e Medidas de Controle
 
 **Artigo 72 -** Em decorrência das investigações epidemiológicas, a autoridade sanitária local poderá tomar medidas pertinentes podendo, inclusive, ser providenciado o fechamento total ou parcial de estabelecimentos, centros de reunião ou diversão, escolas, creches e quaisquer locais abertos ao público, durante o tempo julgado necessário por aquela autoridade, obedecida a legislação vigente.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Vacinação de Caráter Obrigatório
 
 **Artigo 73 -** A direção estadual do SUS será responsável pela coordenação estadual e, em caráter suplementar, pela execução do Programa Nacional de Imunizações.
@@ -486,14 +512,16 @@ Vacinação de Caráter Obrigatório
 
 **Artigo 79 -** As vacinas fornecidas pelo SUS serão gratuitas, inclusive quando aplicadas por estabelecimentos de saúde privados, assim como seus atestados.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Estatísticas de Saúde
 
 **Artigo 80 -** O SUS deverá coletar, analisar e divulgar dados estatísticos de interesse para as atividades de saúde pública, em colaboração com o órgão central de estatística do Estado e demais entidades interessadas nessas atividades.
 
 **Artigo 81 -** Os estabelecimentos de atenção e assistência à saúde, outros tipos de estabelecimentos de interesse à saúde, quer sejam de natureza agropecuária, industrial ou comercial e os profissionais de saúde deverão, quando solicitado, remeter regular e sistematicamente os dados e informações necessários à elaboração de estatísticas de saúde, além das eventuais informações e depoimentos de importância para a Vigilância Sanitária e Epidemiológica.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Atestado de Óbito
 
 **Artigo 82 -** O atestado de óbito é documento indispensável para o enterramento e deverá ser fornecido pelo médico assistente em impresso especialmente destinado a esse fim.
@@ -502,15 +530,18 @@ Atestado de Óbito
 
 **Artigo 84 -** Existindo indícios de que o óbito tenha ocorrido por doença transmissível, a autoridade sanitária determinará a realização de necrópsia.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Inumações, Exumações, Transladações e Cremações
 
 **Artigo 85 -** As inumações, exumações, transladações e cremações deverão ser disciplinadas através de normas técnicas.
 
-#### LIVRO III<br>
+#### LIVRO III
+
 Procedimentos Administrativos
 
-#### TÍTULO I<br>
+#### TÍTULO I
+
 Do Funcionamento dos Estabelecimentos de Interesse à Saúde
 
 **Artigo 86 -** Todo estabelecimento de interesse à saúde, antes de iniciar suas atividades, deverá encaminhar à autoridade sanitária competente declaração de que suas atividades, instalações, equipamentos e recursos humanos obedecem à legislação sanitária vigente, conforme modelo a ser estabelecido por norma técnica, para fins de obtenção de licença de funcionamento através de cadastramento.
@@ -531,7 +562,8 @@ Do Funcionamento dos Estabelecimentos de Interesse à Saúde
 
 **Artigo 91 -** O órgão de vigilância sanitária que interditar estabelecimentos de interesse à saúde ou suas subunidades, deverá publicar edital de notificação de risco sanitário em Diário Oficial e veículos de grande circulação.
 
-#### TÍTULO II<br>
+#### TÍTULO II
+
 Competências
 
 **Artigo 92 -** Os profissionais das equipes de Vigilância Sanitária e Epidemiológica, investidos das suas funções fiscalizadoras, serão competentes para fazer cumprir as leis e regulamentos sanitários, expedindo termos, autos de infração e de imposição de penalidades, referentes à prevenção e controle de tudo quanto possa comprometer a saúde.
@@ -552,7 +584,8 @@ Competências
 
 **§ 3° -** A relação das autoridades sanitárias deverá ser publicada semestralmente pelas autoridades competentes, para fins de divulgação e conhecimento pelos interessados, ou em menor prazo, a critério da autoridade sanitária competente e por ocasião de exclusão e inclusão dos membros da equipe de vigilância sanitária.
 
-#### TÍTULO III<br>
+#### TÍTULO III
+
 Análise Fiscal
 
 **Artigo 97 -** Compete à autoridade sanitária realizar de forma programada ou, quando necessária, a colheita de amostra de insumos, matérias-primas, aditivos, coadjuvantes, recipientes, equipamentos, utensílios, embalagens, substâncias e produtos de interesse à saúde, para efeito de análise fiscal.
@@ -571,7 +604,8 @@ Análise Fiscal
 
 **Artigo 101** - Vetado.
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Da Interdição, Apreensão e Inutilização de Produtos, Equipamentos e Utensílios de Interesse à Saúde
 
 **Artigo 102** - Quando o resultado da análise fiscal indicar que o produto é considerado de risco à saúde, será obrigatória sua interdição ou do estabelecimento.
@@ -594,7 +628,8 @@ Da Interdição, Apreensão e Inutilização de Produtos, Equipamentos e Utensí
 
 **Artigo 109** - Os procedimentos de análise fiscal, interdição, apreensão e inutilização de produtos, equipamentos, utensílios e locais de interesse da saúde, deverão ser objeto de norma técnica.
 
-#### TÍTULO IV<br>
+#### TÍTULO IV
+
 Infrações Sanitárias e Penalidades
 
 **Artigo 110 -** Considera-se infração sanitária para fins deste Código e de suas normas técnicas a desobediência ou a inobservância ao disposto nas normas legais e regulamentos que, por qualquer forma, se destinem à promoção, preservação e recuperação da saúde.
@@ -771,10 +806,12 @@ XX - descumprir atos emanados das autoridades sanitárias visando a aplicação 
 
 Penalidade - advertência, prestação de serviços à comunidade, interdição, apreensão, inutilização, suspensão de venda ou fabricação, cancelamento de licença, proibição de propaganda, intervenção de estabelecimento de prestação de serviços de saúde e/ou multa.
 
-#### TÍTULO V<br>
+#### TÍTULO V
+
 Procedimentos Administrativos das Infrações de Natureza Sanitária
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Auto de Infração
 
 **Artigo 123 -** Quando constatadas irregularidades configuradas como infração sanitária neste Código, ou em outros diplomas legais vigentes, a autoridade sanitária competente lavrará de imediato os autos de infração.
@@ -803,7 +840,8 @@ VII - nome, identificação e assinatura do autuado ou, na sua ausência, de seu
 
 **Artigo 126 -** O não cumprimento da obrigação subsistente, além da sua execução forçada acarretará, após decisão irrecorrível, a imposição de multa diária, arbitrada de acordo com os valores correspondentes à classificação da infração, sem prejuízo das demais penalidades previstas na legislação vigente.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Auto de Imposição de Penalidade
 
 **Artigo 127 -** O auto de imposição de penalidade deverá ser lavrado pela autoridade competente após decorrido o prazo estipulado pelo artigo 124, inciso V, ou imediatamente após a data do indeferimento da defesa, quando houver.
@@ -832,7 +870,8 @@ VIII - a assinatura do autuado, ou na sua ausência, de seu representante legal 
 
 **Parágrafo único -** Na impossibilidade de efetivação da providência a que se refere o inciso VIII deste artigo, o autuado será notificado mediante carta registrada ou publicação na imprensa oficial.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Processamento das Multas
 
 **Artigo 129 -** Transcorrido o prazo fixado no inciso VI do artigo 128, sem que tenha havido interposição de recurso ou pagamento de multa, o infrator será notificado para recolhê-la no prazo de 30 (trinta) dias ao órgão arrecadador competente, sob pena de cobrança judicial.
@@ -843,7 +882,8 @@ Processamento das Multas
 
 **Artigo 131 -** O recolhimento das multas ao órgão arrecadador competente será feito mediante guia de recolhimento, que poderá ser fornecida, registrada e preenchida pelos órgãos locais autuantes.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Recursos
 
 **Artigo 132 -** O infrator poderá oferecer defesa ou impugnação do auto de infração no prazo de 10 (dez) dias, contados de sua ciência.
@@ -872,7 +912,8 @@ I - pessoalmente, ou por procurador, à vista do processo; ou
 
 II - mediante notificação, que poderá ser feita por carta registrada ou através da imprensa oficial, considerando-se efetivada 5 (cinco) dias após a publicação.
 
-#### LIVRO IV<br>
+#### LIVRO IV
+
 Disposições Finais
 
 **Artigo 139 -** As infrações às disposições legais de ordem sanitária prescrevem em 5 (cinco) anos.

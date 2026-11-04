@@ -1,5 +1,3 @@
-###DEL-005934-0-000-27-10-1943@@@
-
 DECRETO-LEI N. 5.934 - DE 2 7 DE OUTUBRO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 130.000,00, para pagamento de contribuição à Comissão Interina de Alimentação e Agricultura, de Washington.

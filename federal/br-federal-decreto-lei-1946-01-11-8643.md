@@ -1,5 +1,3 @@
-###DEL-008643-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.643 – DE 11 JANEIRO DE 1946
 
 Cria mais um lugar de membro do Conselho Superior das Caixas Econômicas Federais.

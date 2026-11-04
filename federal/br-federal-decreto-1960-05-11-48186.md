@@ -1,5 +1,3 @@
-###DEC-048186-0-000-11-05-1960@@@
-
 DECRETO Nº 48.186, de 11 de maio de 1960.
 
 Autoriza o cidadão brasileiro Paulo Armando Newlands a lavrar minério de ferro, no município de Betim, Estado de Minas Gerais.

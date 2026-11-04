@@ -1,5 +1,3 @@
-###DEC-087321-0-000-23-06-1982@@@
-
 Decreto nº 87 321, de 23 de junho de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

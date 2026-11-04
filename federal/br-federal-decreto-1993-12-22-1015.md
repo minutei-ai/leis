@@ -1,7 +1,3 @@
-1
-
-###DEC-001015-0-000-22-12-1993@@@
-
 DECRETO Nº 1.015, DE 22 DE DEZEMBRO DE 1993
 
 Cria no âmbito do Ministério do Exército, comissão especial para exame de processos de dispensa de licitação.

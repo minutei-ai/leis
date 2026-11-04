@@ -1,5 +1,3 @@
-###DEL-004877-0-000-26-10-1942@@@
-
 DECRETO-LEI N. 4.877 – DE 26 DE OUTUBRO DE 1942
 
 Altera, sem aumento de despesa, o Quadro Permanente do Departamento Administrativo do Serviço Público

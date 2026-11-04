@@ -1,7 +1,3 @@
-1
-
-###DEC-097991-0-000-26-07-1989@@@
-
 DECRETO Nº 97.991, DE 26 DE JULHO DE 1989
 
 Altera o Decreto nº 97.281, de 20 de dezembro de 1988, que aprova o Plano Geral de Convocação para o Serviço Militar Inicial nas Forças Armadas em 1990.
@@ -14,7 +10,49 @@ Art. 1º A tributação dos Municípios de JUAZEIRO BA, CUIABÁ MT, RONDONÓPOLI
 
 # ANEXO II
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:79.45pt; border-top-style:solid; border-top-width:1.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:1.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:1.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:1.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">Exército</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:1.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:79.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Estado</span></p></td><td style="width:79.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Município</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">OMA</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">CPOR/NPOR</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">TG</span></p></td></tr><tr><td style="width:79.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Bahia</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Juazeiro</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">X</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">X</span></p></td></tr><tr><td style="width:79.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Mato Grosso</span></p></td><td style="width:79.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Cuiabá</span></p></td><td style="width:79.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">X</span></p></td><td style="width:79.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">X</span></p></td><td style="width:79.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Mato Grosso</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Rondonópolis</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">X</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">X</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Minas Gerais</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Varginha</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">X</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:center; font-size:12pt"><span style="font-family:'Times New Roman'">X</span></p></td></tr></tbody></table>
+Exército
+
+Estado
+
+Município
+
+OMA
+
+CPOR/NPOR
+
+TG
+
+Bahia
+
+Juazeiro
+
+X
+
+X
+
+Mato Grosso
+
+Cuiabá
+
+X
+
+X
+
+Mato Grosso
+
+Rondonópolis
+
+X
+
+X
+
+Minas Gerais
+
+Varginha
+
+X
+
+X
 
 Art. 2º A tributação dos demais Municípios constantes do Anexo II permanece inalterada.
 

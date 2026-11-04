@@ -1,5 +1,3 @@
-###DEC-094000-0-000-03-02-1987@@@
-
 DECRETO Nº 94.000, DE 03 DE FEVEREIRO DE 1987
 
 Autoriza a Universidade Federal do Ceará, a permutar bem imóvel de sua propriedade, e dá outras providências.

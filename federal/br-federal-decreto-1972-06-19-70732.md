@@ -1,5 +1,3 @@
-###DEC-070732-0-000-19-06-1972@@@
-
 DECRETO Nº 70.732, DE 19 DE JUNHO DE 1972.
 
 Concede reconhecimento ao Curso de Química do Instituto de Química da Universidade Estadual de Campinas, com sede em Campinas, Estado de São Paulo.

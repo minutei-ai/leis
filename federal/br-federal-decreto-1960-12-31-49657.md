@@ -1,5 +1,3 @@
-###DEC-049657-0-000-31-12-1960@@@
-
 DECRETO Nº 49.657, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Ruy Moreira Cezar a pesquisar quartzo e mica no município de Galiléia, Estado de Minas Gerais.

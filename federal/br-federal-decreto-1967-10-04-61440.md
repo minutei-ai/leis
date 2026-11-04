@@ -1,5 +1,3 @@
-###DEC-061440-0-000-04-10-1967@@@
-
 DECRETO Nº 61.440, DE 4 DE OUTUBRO DE 1967.
 
 Declara caduco o Decreto nº 40.375, de 19 de novembro de 1956.

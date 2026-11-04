@@ -1,5 +1,3 @@
-###DEL-009075-0-000-18-03-1946@@@
-
 DECRETO-LEI N. 9.075 – DE 18 DE MARÇO DE 1946
 
 Autoriza a entrada livre de direitos de importação e demais taxas aduaneiras, por seis meses, do gado vacum importado para consumo interno.

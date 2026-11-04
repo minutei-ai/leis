@@ -1,5 +1,3 @@
-###DEL-007891-0-000-23-08-1945@@@
-
 DECRETO-LEI N. 7.891 – DE 23 DE AGÔSTO DE 1945
 
 Regula o cálculo de pensões especiais oriundas de promoção “post-mortem”

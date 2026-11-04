@@ -1,5 +1,3 @@
-###DEC-046678-0-000-18-08-1959@@@
-
 DECRETO Nº 46.678, DE 18 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Manoel Cesar de Almeida, a pesquisar minério de cobre, no município de Curaçá, Estado da Bahia.

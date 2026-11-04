@@ -1,5 +1,3 @@
-###DEC-079487-0-000-13-04-1977@@@
-
 DECRETO Nº 79.487, DE 13 DE ABRIL DE 1977.
 
 Concede reconhecimento ao curso de Educação Artística, da Faculdade de Formação Profissional Integrada, com sede na cidade de Niterói, Estado do Rio de Janeiro.

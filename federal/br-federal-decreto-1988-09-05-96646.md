@@ -1,5 +1,3 @@
-###DEC-096646-0-000-05-09-1988@@@
-
 DECRETO N° 96.646, DE 5 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO CENTRAL DE RONCADOR LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Roncador, Estado do Paraná.

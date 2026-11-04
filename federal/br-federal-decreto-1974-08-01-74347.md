@@ -1,5 +1,3 @@
-###DEC-074347-0-000-01-08-1974@@@
-
 DECRETO Nº 74.347 - DE 1 DE AGOSTO DE 1974.
 
 Concede reconhecimento á Faculdade de Filosofia, Ciências e Letras, com os cursos de Matemática, Ciências Biológicas, Letras, Estudos Sociais, Pedagogia, História, Ciências e Geografia, mantida pela Fundação de Ensino Superior do Oeste de Minas, com sede na cidade de Formiga, Estado de Minas Gerais.

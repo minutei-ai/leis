@@ -1,5 +1,3 @@
-###DEC-076398-0-000-07-10-1975@@@
-
 DECRETO Nº 76.398, de 7 de outubro de 1975.
 
 Concede à CIMINAS - Cimento Nacional de Minas S.A. o direito de lavrar argila no Município de Pedro Leopoldo, Estado de Minas Gerais.

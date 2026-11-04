@@ -1,5 +1,3 @@
-###DEC-049857-0-000-10-01-1961@@@
-
 Decreto nº 49.857, de 10 de janeiro de 1961.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, a fração ideal do domínio útil do terreno de marinha, que menciona, no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEL-006466-0-000-03-05-1944@@@
-
 DECRETO-LEI N. 6.466 – DE 3 DE MAIO DE 1944
 
 Altera e inclui no Quadro Permanente a carreira de Inspetor de Alunos do Quadro Suplementar do Ministério da Justiça e Negócios Interiores e dá outras providências

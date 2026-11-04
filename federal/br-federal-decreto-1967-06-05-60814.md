@@ -1,5 +1,3 @@
-###DEC-060814-0-000-05-06-1967@@@
-
 Decreto nº 60.814, de 5 de junho de 1967.
 
 Publica os índices de atualização monetária dos salários dos últimos 24 (vinte e quatro) meses, na forma estabelecida no Decreto-lei nº 15, de 29 de julho de 1966 e dá outras providências.
@@ -10,7 +8,105 @@ Decreta:
 
 Art. 1º Para reconstituição dos salários reais médios dos últimos 24 (vinte e quatro) meses, conforme estabelecido no art. 1º do Decreto-lei nº 15, de 29 de julho de 1966, serão utilizados os seguintes coeficientes, aplicáveis aos salários dos meses correspondentes, para os acôrdos coletivos de trabalho ou decisões da Justiça do Trabalho cuja vigência termine no mês de junho de 1967.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mês</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- Coeficiente</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Junho de 1965</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,79</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Julho de 1965</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,74</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Agôsto de 1965</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,72</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Setembro de 1965</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,66</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Outubro de 1965</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,63</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Novembro de 1965</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,62</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dezembro de 1965</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,59</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Janeiro de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,51</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fevereiro de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,45</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Março de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,40</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Abril de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,33</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maio de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,31</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Junho de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,28</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Julho de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,24</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Agôsto de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,20</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Setembro de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,18</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Outubro de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,16</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Novembro de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,14</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dezembro de 1966</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,13</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Janeiro de 1967</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,09</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fevereiro de 1967</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,08</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Março de 1967</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,05</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Abril de 1967</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,02</span></p></td></tr><tr><td style="width:354.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maio de 1967</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>- 1,00</span></p></td></tr></tbody></table>
+Mês
+
+- Coeficiente
+
+Junho de 1965
+
+- 1,79
+
+Julho de 1965
+
+- 1,74
+
+Agôsto de 1965
+
+- 1,72
+
+Setembro de 1965
+
+- 1,66
+
+Outubro de 1965
+
+- 1,63
+
+Novembro de 1965
+
+- 1,62
+
+Dezembro de 1965
+
+- 1,59
+
+Janeiro de 1966
+
+- 1,51
+
+Fevereiro de 1966
+
+- 1,45
+
+Março de 1966
+
+- 1,40
+
+Abril de 1966
+
+- 1,33
+
+Maio de 1966
+
+- 1,31
+
+Junho de 1966
+
+- 1,28
+
+Julho de 1966
+
+- 1,24
+
+Agôsto de 1966
+
+- 1,20
+
+Setembro de 1966
+
+- 1,18
+
+Outubro de 1966
+
+- 1,16
+
+Novembro de 1966
+
+- 1,14
+
+Dezembro de 1966
+
+- 1,13
+
+Janeiro de 1967
+
+- 1,09
+
+Fevereiro de 1967
+
+- 1,08
+
+Março de 1967
+
+- 1,05
+
+Abril de 1967
+
+- 1,02
+
+Maio de 1967
+
+- 1,00
 
 Parágrafo único. O salário real médio a ser reconstituído será a média aritmética dos valôres obtidos pela aplicação dos coeficientes acima aos salários dos meses correspondentes.
 

@@ -1,5 +1,3 @@
-###DEC-071810-0-000-06-02-1973@@@
-
 Decreto nº 71.810, de 6 de fevereiro de 1973.
 
 Autoriza o funcionamento da Escola Superior de Educação Física, mantida pela Fundação Educacional do Estado de Santa Catarina, Florianópolis, Estado de Santa Catarina.

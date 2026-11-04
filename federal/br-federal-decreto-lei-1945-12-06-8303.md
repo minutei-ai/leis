@@ -1,5 +1,3 @@
-###DEL-008303-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.303 – DE 6 DE DEZEMBRO DE 1945
 
 Altera a legislação tributária da Prefeitura do Distrito Federal.

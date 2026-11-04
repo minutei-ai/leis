@@ -1,7 +1,3 @@
-1
-
-###MPV-001074-0-000-28-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.074, DE 28 DE JULHO DE 1995.
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e COFINS nos casos que especifica, e dá outras providências.

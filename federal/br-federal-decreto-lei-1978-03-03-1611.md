@@ -1,5 +1,3 @@
-###DEL-001611-0-000-03-03-1978@@@
-
 # DECRETO-LEI nº 1.611, DE 3 DE MARÇO DE 1978
 
 Reajusta os vencimentos e proventos dos servidores das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras providências.

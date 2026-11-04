@@ -1,5 +1,3 @@
-###DEC-048480-0-000-09-07-1960@@@
-
 DECRETO Nº48.480, DE 9 DE JULHO DE 1960.
 
 Transfere a sede do QG/ID-1 para Niterói - RJ.

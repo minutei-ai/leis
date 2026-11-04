@@ -1,7 +1,3 @@
-1
-
-###DEL-002336-0-000-15-06-1987@@@
-
 # DECRETO-LEI Nº 2.336, DE 15 DE JUNHO DE 1987
 
 Altera a redação de dispositivos do Decreto-lei nº 2.335, de 12 de junho de 1987.

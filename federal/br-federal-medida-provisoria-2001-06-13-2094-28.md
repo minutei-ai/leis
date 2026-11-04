@@ -1,5 +1,3 @@
-###MPV-002094-0-028-13-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.094‑28, DE 13 DE JUNHO DE 2001
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

@@ -1,14 +1,12 @@
-###DEC-035742-0-000-29-06-1954@@@
+**DECRETO Nº 35.742, DE 29 DE JUNHO DE 1954.**
 
-<strong>DECRETO Nº 35.742, DE 29 DE JUNHO DE 1954.</strong>
+***Introduz alterações no Regulamento para a Escola Militar de Rezende (AMAN).***
 
-<em><strong>Introduz alterações no Regulamento para a Escola Militar de Rezende (AMAN).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA.**
 
-<strong>DECRETA.</strong>
-
-<strong>Art</strong>. 1º O Regulamento para a Escola Militar de Rezende (AMAN) - 2ª Parte - aprovado pelo Decreto nº 19.857, de 23 de outubro de 1945, e alterado pelo Decreto nº 28.356, de 10 de julho de 1950, fica alterado da forma seguinte:
+**Art**. 1º O Regulamento para a Escola Militar de Rezende (AMAN) - 2ª Parte - aprovado pelo Decreto nº 19.857, de 23 de outubro de 1945, e alterado pelo Decreto nº 28.356, de 10 de julho de 1950, fica alterado da forma seguinte:
 
 I - Os artigos de ns. 49 a 175, inclusive, passarão a ser numerados de 50 a 176, respectivamente.
 
@@ -60,10 +58,10 @@ e) dependências destinadas à própria administração;
 
 f) biblioteca especializada”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 29 de junho de 1954; 133º da Independência de 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Zenóbio da Costa

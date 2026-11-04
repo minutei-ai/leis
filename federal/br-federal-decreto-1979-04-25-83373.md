@@ -1,5 +1,3 @@
-###DEC-083373-0-000-25-04-1979@@@
-
 Decreto nº 83.373, de 25 de abril de 1979.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Administrativas de Poços de Caldas, em Poços de Caldas, Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-066569-0-000-14-05-1970@@@
-
 Decreto nº 66.569, de 14 de maio de 1970.
 
 Declara de utilidade pública a Policlínica de Botafogo, com sede no Estado da Guanabara.

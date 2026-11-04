@@ -1,5 +1,3 @@
-###DEC-068700-0-000-02-06-1971@@@
-
 DECRETO Nº 68.700 - de 2 de junho de 1971.
 
 Autoriza o funcionamento da Faculdade de Educação Física de Tatuí - S.P.

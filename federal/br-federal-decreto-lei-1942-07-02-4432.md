@@ -1,5 +1,3 @@
-###DEL-004432-0-000-02-07-1942@@@
-
 DECRETO-LEI N. 4.432 – DE 2 DE JULHO DE 1942
 
 Cria uma coletoria federal no município de Juquerí, no Estado de São Paulo, e dá outras providências

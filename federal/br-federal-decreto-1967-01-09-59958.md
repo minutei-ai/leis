@@ -1,5 +1,3 @@
-###DEC-059958-0-000-09-01-1967@@@
-
 DECRETO Nº 59.958, DE 9 DE JANEIRO DE 1967.
 
 Autoriza a firma Brasilfaura Ltda, a comprar pedras preciosas.

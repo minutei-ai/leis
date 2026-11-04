@@ -1,5 +1,3 @@
-###DEC-073261-0-000-06-12-1973@@@
-
 DECRETO Nº 73.261 - DE 6 DE DEZEMBRO DE 1973
 
 Autoriza o funcionamento do Curso de Estudos Sociais, da Faculdade de Educação de Florianópolis, mantida pela Fundação Educacional de Santa Catarina, com sede na cidade de Florianópolis, Estado de Santa Catarina.

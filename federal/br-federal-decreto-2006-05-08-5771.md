@@ -1,5 +1,3 @@
-###DEC-005771-0-000-08-05-2006@@@
-
 DECRETO Nº 5.771, DE 8 DE MAIO DE 2006.
 
 Dispõe sobre a criação da Embaixada do Brasil na República da Zâmbia, com sede em Lusaca.

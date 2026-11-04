@@ -1,5 +1,3 @@
-###DEC-005986-0-000-15-12-2006@@@
-
 DECRETO Nº 5.986 DE 15 DE DEZEMBRO DE 2006.
 
 Dá nova redação aos incisos I e II do art. 1o do Decreto no 5.435, de 26 de abril de 2005, que define os limites de que tratam o inciso II e o § 5o do art. 3º da Lei no 10.188, de 12 de fevereiro de 2001.
@@ -27,5 +25,3 @@ LUIZ INÁCIO LULA DA SILVA
          Luiz Marinho
 
           Marcio Fortes de Almeida
-
-Este texto não substitui o publicado no DOU de 15.12.2006 - Edição extra

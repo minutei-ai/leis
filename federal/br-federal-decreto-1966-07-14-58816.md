@@ -1,5 +1,3 @@
-###DEC-058816-0-000-14-07-1966@@@
-
 DECRETO Nº 58.816, DE 14 DE JULHO DE 1966.
 
 Promulga a Convenção nº 21 concernente à simplificação da inspeção dos emigrantes a bordo dos navios.

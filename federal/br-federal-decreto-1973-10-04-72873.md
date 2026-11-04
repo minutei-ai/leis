@@ -1,5 +1,3 @@
-###DEC-072873-0-000-04-10-1973@@@
-
 DECRETO Nº 72.873, DE 10 DE OUTUBRO DE 1973.
 
 Dispõe sobre a reorganização da estrutura do Conselho Nacional de Trânsito e dá outras providências.

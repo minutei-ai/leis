@@ -1,5 +1,3 @@
-###DEC-086417-0-000-01-10-1981@@@
-
 Decreto nº 86.417, de 01 de OUtubro de 1981.
 
 Dispõe sobre o Programa de Apoio ao Complexo Industrial de Barcarena, altera a vinculação da Companhia de Desenvolvimento de Barcarena -CODEBAR e dá outras providências.

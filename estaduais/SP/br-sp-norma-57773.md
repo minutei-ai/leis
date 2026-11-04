@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57773)
-
 # LEI Nº 12.045, DE 21 DE SETEMBRO DE 2005
 
 ## ( PL 300/2004 - Simão Pedro)

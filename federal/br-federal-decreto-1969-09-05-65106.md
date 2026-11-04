@@ -1,5 +1,3 @@
-###DEC-065106-0-000-05-09-1969@@@
-
 Decreto nº 65.106 - de 5 de setembro de 1969.
 
 Aprova o Regulamento da Previdência Social Rural e dá outras providências.

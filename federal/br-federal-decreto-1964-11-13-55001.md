@@ -1,5 +1,3 @@
-###DEC-055001-0-000-13-11-1964@@@
-
 DECRETO Nº 55.001, DE 13 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Simão Weitisky Dutter a pesquisar ilmenita no município de Paranaguá, Estado do Paraná.

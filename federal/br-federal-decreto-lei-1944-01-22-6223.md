@@ -1,5 +1,3 @@
-###DEL-006223-0-000-22-01-1944@@@
-
 DECRETO-LEI N. 6.223 – DE 22 DE JANEIRO DE 1944
 
 Manda computar os “abonos” para efeito do cálculo do salário de compensação e dá outras providências

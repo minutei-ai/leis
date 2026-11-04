@@ -1,5 +1,3 @@
-###MPV-002044-0-054-28-07-2000@@@
-
 Medida Provisória nº 2.044-54, de 28 de julho de 2000.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

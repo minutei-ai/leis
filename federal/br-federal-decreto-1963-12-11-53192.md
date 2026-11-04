@@ -1,5 +1,3 @@
-###DEC-053192-0-000-11-12-1963@@@
-
 DECRETO Nº 53.192, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Francisco Xavier de Araújo Lima a pesquisar mica, no município de São Sebastião do Maranhão, Estado de Minas Gerais.

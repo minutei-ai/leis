@@ -1,5 +1,3 @@
-###DEC-052870-0-000-19-11-1963@@@
-
 DECRETO Nº 52.870, DE 19 DE NOVEMBRO DE 1963.
 
 Autoriza o Ministro a dar garantia do Tesouro Nacional a financiamento a ser realizado pela Rêde Ferroviária Federal S. A .

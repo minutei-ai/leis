@@ -1,5 +1,3 @@
-###DEC-074003-0-000-02-05-1974@@@
-
 DECRETO Nº 74.003, DE 2 DE MAIO DE 1974.
 
 Concede reconhecimento ao Curso de Ciências do Instituto de Ciências Biológicas da Pontifícia Universidade Católica de Campinas, mantida pela Sociedade Campineira de Educação e Instrução, com sede na Cidade de Campinas, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-086348-0-000-09-09-1981@@@
-
 Decreto nº 86.348, de 09 de setembro de 1981.
 
 Dispõe sobre a competência para a realização de operações de compra e venda do trigo estrangeiro.

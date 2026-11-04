@@ -1,5 +1,3 @@
-###DEC-076805-0-000-16-12-1975@@@
-
 DECRETO Nº 76.805, DE 16 DE DEZEMBRO DE 1975.
 
 Autoriza a criação da Nuclebrás Equipamentos Pesados S.A. - NECLEP, sociedade por ações, subsidiária da Empresa Nucleares Brasileiras S.A. - NUCLEBRÁS.

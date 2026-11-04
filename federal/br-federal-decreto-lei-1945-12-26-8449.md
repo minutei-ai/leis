@@ -1,5 +1,3 @@
-###DEL-008449-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.449 – DE 26 DE DEZEMBRO DE 1945
 
 Revoga o Decreto-lei nº 8.145, de 28 de outubro de 1945, cria a Comissão de Estudos de Assistência Social aos Servidores do Estado e dá outros providências.

@@ -1,5 +1,3 @@
-###DEC-046105-0-000-21-05-1959@@@
-
 DECRETO Nº 46.105, DE 21 DE MAIO DE 1959.
 
 Concede à Sociedade Radiocomunicações Limitada autorização para ampliar a concessão a que se referem os Decretos ns. 27.986, de 12 de abril de 1950, e 37.950, de 20 de setembro de 1955.

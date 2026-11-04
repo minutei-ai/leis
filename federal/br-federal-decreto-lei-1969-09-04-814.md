@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2c9985a3-6201-4257-a8d7-21b9e40e41e7/texto#nowhere)
 
-###DEL-000814-0-000-04-09-1969@@@
-
 Decreto-lei nº 814, DE 4 DE SETEMBRO DE 1969
 
 Dispõe sôbre o Seguro Obrigatório de Responsabilidade Civil dos Proprietários de Veículos Automotores de Vias Terrestres e dá outras providências.

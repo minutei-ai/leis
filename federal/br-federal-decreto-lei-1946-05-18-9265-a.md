@@ -1,5 +1,3 @@
-###DEL-009265-A-000-18-05-1946@@@
-
 DECRETO-LEI N. 9.265 – A – DE 18 DE MAIO DE 1946
 
 Autoriza a intervenção, pelo Govêrno, The Leopoldina Railway Company Limited.

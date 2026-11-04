@@ -1,5 +1,3 @@
-###DEL-005638-0-000-01-07-1943@@@
-
 DECRETO‑LEI N. 5.638 – DE 1 DE JULHO DE 1943
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 80.000,00, à verba que específica

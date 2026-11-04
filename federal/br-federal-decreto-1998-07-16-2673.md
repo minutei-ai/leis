@@ -1,5 +1,3 @@
-###DEC-002673-0-000-16-07-1998@@@
-
 DECRETO Nº 2.673, 16 DE JULHO DE 1998
 
 Dispõe sobre o pagamento, pelas empresas estatais federais, de dividendos ou de juros sobre o capital próprio, e dá outras providências.

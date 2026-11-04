@@ -1,5 +1,3 @@
-###DEC-052785-0-000-30-10-1963@@@
-
 DECRETO Nº 52.785, DE 30 DE OUTUBRO DE 1963.
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$300.000.000,00 para atender às despesas decorrentes da Lei nº 4.137, de 10 de Setembro de 1962.

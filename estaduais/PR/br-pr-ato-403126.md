@@ -6,9 +6,12 @@ Publicado no [Diário Oficial nº. 12210](https://www.legislacao.pr.gov.br/legis
 
 A Assembleia Legislativa do Estado do Paraná decretou e eu sanciono a seguinte lei: 
 
-**Art. 1º** [Altera o art. 1º da Lei nº 9.275, de 28 de maio de 1990](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=7734&codItemAto=69025#2581366), que passa a vigorar com a seguinte redação:<br>
-Art. 1º É obrigatória a execução dos Hinos Nacionais e do Estado do Paraná no início de todas as festividades cívicas ou esportivas, bem como na rede de ensino fundamental em todo o território do Estado do Paraná.<br>
-[§ 1º](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=7734&codItemAto=2581366#2581368) A execução do hino na rede de ensino fundamental paranaense ocorrerá de forma semanal.<br>
+**Art. 1º** [Altera o art. 1º da Lei nº 9.275, de 28 de maio de 1990](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=7734&codItemAto=69025#2581366), que passa a vigorar com a seguinte redação:
+
+Art. 1º É obrigatória a execução dos Hinos Nacionais e do Estado do Paraná no início de todas as festividades cívicas ou esportivas, bem como na rede de ensino fundamental em todo o território do Estado do Paraná.
+
+[§ 1º](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=7734&codItemAto=2581366#2581368) A execução do hino na rede de ensino fundamental paranaense ocorrerá de forma semanal.
+
 [§ 2º](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=7734&codItemAto=2581368#2581377) A Secretaria de Estado da Educação poderá regulamentar os dias, horários e outros regramentos para o cântico dos hinos.(NR)
 
 **Art. 2º** O Poder Executivo poderá regulamentar esta Lei. 
@@ -17,14 +20,18 @@ Art. 1º É obrigatória a execução dos Hinos Nacionais e do Estado do Paraná
 
 Palácio do Governo, em 18 de agosto de 2026.
 
-_Carlos Massa Ratinho Junior<br>
+_Carlos Massa Ratinho Junior
+
 Governador do Estado_
 
-_Maiquel Guilherme Zimann<br>
+_Maiquel Guilherme Zimann
+
 Chefe da Casa Civil em exercício_
 
-_Ricardo Arruda<br>
+_Ricardo Arruda
+
 Deputado Estadual_
 
-_Marcio Pacheco<br>
+_Marcio Pacheco
+
 Deputado Estadual_

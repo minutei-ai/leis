@@ -1,5 +1,3 @@
-###DEC-073971-0-000-22-04-1974@@@
-
 Decreto nº 73.971, de 22 de abril de 1974.
 
 Torna sem efeito o aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha e dá outras providências.

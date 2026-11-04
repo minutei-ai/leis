@@ -1,5 +1,3 @@
-###DEC-075596-0-000-11-04-1975@@@
-
 DECRETO Nº 75.596, DE 11 DE ABRIL DE 1975.
 
 Renova por (dez) anos a concessão outorgada à Rádio São Miguel Ltda, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Uruguaiana, Estado do Rio Grande do Sul.

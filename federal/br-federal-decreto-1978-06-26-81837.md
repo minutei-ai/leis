@@ -1,5 +1,3 @@
-###DEC-081837-0-000-26-06-1978@@@
-
 Decreto n 81.837, de 26 de junho de 1978.
 
 Concede reconhecimento ao curso de Técnologo em Saneamento Ambiental da Universidade Federal de Goiás, com sede na cidade de Goiânia, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-054517-0-000-21-10-1964@@@
-
 DECRETO Nº 54.517, DE 21 DE OUTUBRO DE 1964.
 
 Retifica o art. 1º do decreto número 45.488, de 26 de fevereiro de 1959.

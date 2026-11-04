@@ -1,5 +1,3 @@
-###DEL-008359-0-000-12-12-1945@@@
-
 DECRETO-LEI N. 8.359 – DE 12 DE DEZEMBRO DE 1945
 
 Prorroga até 31 de março de 1946 o prazo de isenção de que tratam os Decretos-leis ns. 6.443, de 27 de abril de 1944, e 7.577, de 22 de maio de 1945.

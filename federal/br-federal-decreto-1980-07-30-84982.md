@@ -1,5 +1,3 @@
-###DEC-084982-0-000-30-07-1980@@@
-
 decreto nº 84.982, de 30 de julho de 1980.
 
 Autoriza o aumento da potência da RÁDIO AMORIM JUVENTUDE LTDA., na cidade de Rondonópolis, Estado do Mato Grosso.

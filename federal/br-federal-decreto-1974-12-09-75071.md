@@ -1,5 +1,3 @@
-###DEC-075071-0-000-09-12-1974@@@
-
 Decreto nº 75.071, de 9 de dezembro de 1974.
 
 Dispõe sobre a liberação e aplicação, no exercício de 1975, dos recursos do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios, do Fundo de Participação dos Municípios e dá outras providências.

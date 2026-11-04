@@ -1,5 +1,3 @@
-###DEC-061017-0-000-14-07-1967@@@
-
 DECRETO nº 61.017, DE 14 DE JULHO DE 1967.
 
 Dispõe sobre a comemoração do Dia Nacional da Alfabetização no ano de 1967.

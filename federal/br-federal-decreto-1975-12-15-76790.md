@@ -1,5 +1,3 @@
-###DEC-076790-0-000-15-12-1975@@@
-
 DECRETO Nº 76.790, DE 15 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento aos cursos de Letras e de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Santiago, com sede na cidade de Santiago, Estado do Rio Grande do Sul.

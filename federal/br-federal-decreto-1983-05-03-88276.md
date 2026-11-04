@@ -1,5 +1,3 @@
-###DEC-088276-0-000-03-05-1983@@@
-
 Decreto nº 88.276, de 03 de maio de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação de Rádio UHF Multicanal Vila Mathias, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

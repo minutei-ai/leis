@@ -1,5 +1,3 @@
-###DEC-096753-0-000-22-09-1988@@@
-
 DECRETO N° 96.753, DE 22 DE SETEMBRO DE 1988
 
 Outorga concessão a RÁDIO PIONEIRA DE DELMIRO GOUVEIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Delmiro Gouveia, Estado de Alagoas.

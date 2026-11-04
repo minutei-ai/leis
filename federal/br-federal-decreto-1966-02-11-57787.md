@@ -1,5 +1,3 @@
-###DEC-057787-0-000-11-02-1966@@@
-
 DECRETO Nº 57.787, DE 11 DE FEVEREIRO DE 1966.
 
 Considera de alto interêsse nacional um projeto de instalação de maquinaria destinada à industrialização de semente de milho híbrido e de sorgo.

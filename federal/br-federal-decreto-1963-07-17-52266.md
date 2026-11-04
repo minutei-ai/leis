@@ -1,5 +1,3 @@
-###DEC-052266-0-000-17-07-1963@@@
-
 DECRETO Nº 52.266, DE 17 DE JULHO DE 1963.
 
 Proíbe a nomeação ou admissão de Pessoal, na forma que estabelece, e dá outras providências.

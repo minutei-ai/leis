@@ -1,5 +1,3 @@
-###DEC-053056-0-000-02-12-1963@@@
-
 DECRETO Nº 53.056, DE 2 DE DEZEMBRO DE 1963.
 
 Aprova alteração introduzida nos Estatutos da União Brasileira Companhia de Seguros Gerais, relativa ao aumento de honorários da Diretoria.

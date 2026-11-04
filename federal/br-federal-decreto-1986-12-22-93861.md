@@ -1,5 +1,3 @@
-###DEC-093861-0-000-22-12-1986@@@
-
 DECRETO Nº 93.861, DE 22 DE DEZEMBRO DE 1986
 
 Altera dispositivos do Regulamento do Código Nacional de Trânsito, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002890-0-000-21-12-1998@@@
-
 DECRETO Nº 2.890, DE 21 DE DEZEMBRO DE 1998.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério da Educação e do Desporto, e dá outras providências.

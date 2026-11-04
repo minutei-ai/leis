@@ -1,5 +1,3 @@
-###DEC-067350-0-000-06-10-1970@@@
-
 DECRETO Nº 67.350, DE 6 DE OUTUBRO DE 1970.
 
 Dispõe sôbre a implantação de Centros Regionais de Pós-Graduação e dá outras providências.

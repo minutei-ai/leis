@@ -1,5 +1,3 @@
-###DEC-068500-0-000-12-04-1971@@@
-
 DECRETO Nº 68.500 - DE 12 DE ABRIL DE 1971.
 
 Declara de utilidade pública a Ação Social São Roque, com sede no Rio de Janeiro, Estado da Guanabara.

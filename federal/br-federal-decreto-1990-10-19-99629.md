@@ -1,5 +1,3 @@
-###DEC-099629-0-000-19-10-1990@@@
-
 DECRETO N° 99.629, DE 19 DE OUTUBRO DE 1990
 
 Altera o art. 2° do Decreto n° 99.530, de 17 de setembro de 1990.

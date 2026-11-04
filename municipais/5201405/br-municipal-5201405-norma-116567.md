@@ -6,7 +6,8 @@ O PREFEITO DE APARECIDA DE GOIÂNIA, no uso das atribuições que lhe conferem o
 
 **DECRETA:**
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Este Decreto regulamenta os procedimentos administrativos de aferição, registro, auditoria, validação, homologação e pagamento da Gratificação de Produtividade instituída pela Lei nº 3.904, de 12 de junho de 2026, devida aos servidores ocupantes do cargo de Médico Perito Previdenciário do Aparecidaprev, observados os critérios de desempenho previstos na referida Lei.
@@ -19,7 +20,8 @@ Art. 2º A aferição do desempenho será realizada trimestralmente, observados 
 
 § 2º Compete ao Aparecidaprev instruir o processo administrativo de aferição e à Secretaria Municipal de Administração validar os resultados homologados e promover o processamento da Gratificação de Produtividade.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PLANO DE TRABALHO
 
 Art. 3º O Plano de Trabalho previsto no caput do art. 1º da Lei nº 3.904, de 2026, será elaborado pela Secretaria Municipal de Administração, em conjunto com o Aparecidaprev, e conterá, no mínimo:
@@ -36,7 +38,8 @@ IV – o fluxo administrativo das etapas de aferição, auditoria, validação, 
 
 § 2º O Plano de Trabalho será formalizado e dado a conhecer aos servidores avaliados antes do início do ciclo avaliativo a que se refere.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA AFERIÇÃO E DA AUDITORIA
 
 Art. 4º Os indicadores previstos na Lei nº 3.904, de 2026, serão apurados na forma dos parágrafos seguintes, com base nos registros constantes dos sistemas oficiais do Aparecidaprev e dos assentamentos funcionais mantidos pela unidade de gestão de pessoas.
@@ -57,7 +60,8 @@ Art. 5º A auditoria administrativa tem por finalidade verificar a fidedignidade
 
 § 2º O relatório de auditoria será fundamentado, integrará obrigatoriamente o processo administrativo de aferição e dele será dada ciência ao servidor avaliado.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA PONTUAÇÃO
 
 Art. 6º Para fins exclusivamente operacionais de aferição dos indicadores previstos no § 4º do art. 1º da Lei Municipal nº 3.904, de 12 de junho de 2026, a avaliação utilizará escala de até 100 (cem) pontos por ciclo avaliativo, distribuídos da seguinte forma:
@@ -94,7 +98,8 @@ c) completude das informações: até 5 (cinco) pontos.
 
 § 5º As deduções previstas neste artigo serão registradas de forma individualizada e motivada no relatório do ciclo avaliativo, assegurado ao servidor o contraditório na forma do art. 10 deste Decreto.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA COMISSÃO, DA HOMOLOGAÇÃO E DO PAGAMENTO
 
 Art. 7º A avaliação será processada por Comissão de Avaliação de Produtividade, composta por 3 (três) membros designados conjuntamente pelo Secretário Municipal de Administração e pelo Presidente do Aparecidaprev.
@@ -125,7 +130,8 @@ III – pontuação inferior a 70 (setenta) pontos: o servidor não fará jus à
 
 § 2º Não fará jus à Gratificação de Produtividade o servidor que se enquadrar nas hipóteses previstas no § 7º do art. 1º da Lei nº 3.904, de 2026.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 12. A Secretaria Municipal de Administração e o Aparecidaprev poderão editar, conjuntamente, os atos complementares necessários à execução deste Decreto, vedada a inovação dos critérios, requisitos e parâmetros previstos na Lei nº 3.904, de 2026.
@@ -138,5 +144,6 @@ Aparecida de Goiânia, 7 de agosto de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

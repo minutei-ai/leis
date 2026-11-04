@@ -1,5 +1,3 @@
-###DEC-007780-0-000-01-08-2012-PUB-01@@@
-
 DECRETO Nº 7.780, DE 1º DE AGOSTO DE 2012.
 
 Cria o Comissariado Brasileiro para coordenar a participação do Brasil nas comemorações do Ano do Brasil em Portugal e do Ano de Portugal no Brasil.

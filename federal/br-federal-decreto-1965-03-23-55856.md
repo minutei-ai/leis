@@ -1,5 +1,3 @@
-###DEC-055856-0-000-23-03-1965@@@
-
 DECRETO Nº 55.856, DE 23 DE MARÇO DE 1965.
 
 Dá nova redação ao artigo 384 do Regulamento Geral da Previdência Social, aprovado pelo Decreto número 48.959-A, de 19 de setembro de 1960.

@@ -1,5 +1,3 @@
-###DEC-046208-0-000-12-06-1959@@@
-
 DECRETO Nº 46.208, DE 12 DE JUNHO DE 1959.
 
 Concede autorização para o funcionamento do curso de bacharelado da Faculdade Goiânia de Direito.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000655-0-000-22-09-1992@@@
-
 DECRETO N° 655, DE 22 DE SETEMBRO DE 1992
 
 Altera o regulamento do Imposto sobre Produtos Industrializados (RIPI).

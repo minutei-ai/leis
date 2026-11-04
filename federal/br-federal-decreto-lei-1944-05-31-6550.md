@@ -1,5 +1,3 @@
-###DEL-006550-0-000-31-05-1944@@@
-
 DECRETO-LEI N. 6.550 – DE 31 DE MAIO DE 1944
 
 Retifica os limites e a divisão administrativa dos Territórios do Amapá, do Rio Branco, do Guaporé, de Ponta Porã, e do Iguassú

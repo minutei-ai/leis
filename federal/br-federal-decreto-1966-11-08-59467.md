@@ -1,5 +1,3 @@
-###DEC-059467-0-000-08-11-1966@@@
-
 DECRETO Nº 59.467, DE 8 DE NOVEMBRO DE 1966.
 
 Abre, pelo Ministério da Industria e do Comércio, o crédito especial de Cr$500.000.000 (quinhentos milhões de cruzeiros), destinado a integrar os recursos iniciais do Fundo da Propriedade Industrial.

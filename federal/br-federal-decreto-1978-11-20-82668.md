@@ -1,5 +1,3 @@
-###DEC-082668-0-000-20-11-1978@@@
-
 DECRETO Nº 82.668, DE 20 DE NOVEMBRO DE 1978
 
 Retifica a autorização de lavra conferida à Morro do Níquel S.A. - Mineração, Indústria e Comércio pelo Decreto nº 49 228, de 16 de novembro de 1960.

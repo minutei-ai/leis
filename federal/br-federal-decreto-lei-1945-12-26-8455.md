@@ -1,5 +1,3 @@
-###DEL-008455-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.455 – DE 26 DE DEZEMBRO DE 1945
 
 Restabelece o regime de organização e funcionamento das Caixas Econômicas Federais e dá outras providências.

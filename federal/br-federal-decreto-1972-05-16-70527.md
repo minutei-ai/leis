@@ -1,5 +1,3 @@
-###DEC-070527-0-000-16-05-1972@@@
-
 DECRETO Nº 70.527, DE 16 DE MAIO DE 1972.
 
 Concede a João Vaz de Lima, empresa de mineração, o direito de lavrar feldspato e quartzo, no município de Socorro, Estado de São Paulo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49313)
-
 # LEI Nº 11.659, DE 13 DE JANEIRO DE 2004
 
 ## (PL 450/2003 - Geraldo Lopes)

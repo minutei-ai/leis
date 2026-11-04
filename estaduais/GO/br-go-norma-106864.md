@@ -1,5 +1,6 @@
-LEI Nº 21.831, DE 26 DE MARÇO DE 2023<br>
-\- [Decrarada Inconstitucional pelo STF/ADI nº 7402/2023](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18336).<br>
+LEI Nº 21.831, DE 26 DE MARÇO DE 2023
+
+\- [Decrarada Inconstitucional pelo STF/ADI nº 7402/2023](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18336).
 
 ~~Dispõe sobre a natureza da contraprestação pelo exercício de cargos em comissão e de funções de natureza administrativa ou de representação, de caráter temporário ou eventual, por membros e servidores do Poder Judiciário do Estado de Goiás.~~
 

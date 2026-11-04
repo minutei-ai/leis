@@ -1,5 +1,3 @@
-###DEC-091116-0-000-13-03-1985@@@
-
 # DECRETO Nº 91.116, DE 13 DE MARÇO DE 1985.
 
 Altera o Regulamento da Ordem do Mérito Militar

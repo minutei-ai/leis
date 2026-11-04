@@ -1,5 +1,3 @@
-###DEC-072295-0-000-25-05-1973@@@
-
 DECRETO Nº 72.295, DE 25 DE MAIO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, para o Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

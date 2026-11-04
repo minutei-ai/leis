@@ -1,5 +1,3 @@
-###DEC-093214-0-000-03-09-1986@@@
-
 DECRETO Nº 93.214, DE 03 DE SETEMBRO DE 1986
 
 Altera o Decreto nº 92.452, de 10 de março de 1986, que criou a Secretaria do Tesouro Nacional, e dá outras providências.

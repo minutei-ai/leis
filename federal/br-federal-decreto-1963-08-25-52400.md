@@ -1,5 +1,3 @@
-###DEC-052400-0-000-25-08-1963@@@
-
 DECRETO Nº 52.400, DE 25 DE AGÔSTO DE 1963.
 
 Dispõe sôbre readaptação mediante decreto coletivo e dá outras providências.

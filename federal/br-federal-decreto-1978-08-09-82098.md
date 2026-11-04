@@ -1,5 +1,3 @@
-###DEC-082098-0-000-09-08-1978@@@
-
 DECRETO Nº 82.098, DE 09 DE AGOSTO DE 1978.
 
 Declara sem efeito o Decreto nº 62.072, de 05 de janeiro de 1968, que autorizou Christovão Moreira da Silva a lavrar argila no Município de Resende, Estado do Rio de Janeiro.

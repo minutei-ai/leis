@@ -1,5 +1,3 @@
-###DEC-056756-0-000-20-08-1965@@@
-
 Decreto nº 56.756, de 20 de agôsto de 1965.
 
 Outorga de concessão à Emissora Rio São Francisco Ltda., para instalar uma estação radiodifusora, em onda tropical.

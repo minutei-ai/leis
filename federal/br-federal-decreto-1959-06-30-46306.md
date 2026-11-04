@@ -1,5 +1,3 @@
-###DEC-046306-0-000-30-06-1959@@@
-
 DECRETO Nº 46.306, DE 30 DE junho DE 1959.
 
 Autoriza o cidadão brasileiro Archangelo Lorencini a pesquisar água mineral no município de Cachoeiro do Itapemerim, Estado do Espírito Santo.

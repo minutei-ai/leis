@@ -1,5 +1,3 @@
-###DEC-068665-0-000-24-05-1971@@@
-
 Decreto nº 68.665 - de 24 de maio de 1971.
 
 Declara sem efeito o Decreto número 17.338, de 13 de dezembro de 1944.

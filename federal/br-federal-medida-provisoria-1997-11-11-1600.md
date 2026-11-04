@@ -1,5 +1,3 @@
-###MPV-001600-0-000-11-11-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.600, DE 11 DE NOVEMBRO DE 1997
 
 Dispõe sobre a utilização dos dividendos e do superávit financeiro de fundos e de entidades da Administração Pública Federal indireta, e dá outras providência.

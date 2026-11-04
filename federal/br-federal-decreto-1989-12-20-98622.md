@@ -1,7 +1,3 @@
-1
-
-###DEC-098622-0-000-20-12-1989@@@
-
 DECRETO N° 98.622, DE 20 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa faixa de terra destinada à passagem de linha de transmissão da Espírito Santo Centrais Elétricas S.A. - ESCELSA, nos Municípios de Iúna e Muniz Freire, Estado do Espírito Santo.

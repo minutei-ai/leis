@@ -1,5 +1,3 @@
-###DEC-077999-0-000-08-07-1976@@@
-
 DECRETO Nº 77.999, DE 8 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de História, da Faculdade de Filosofia, Ciências e Letras de Guarulhos, com sede na cidade de Guarulhos, Estado de São Paulo.

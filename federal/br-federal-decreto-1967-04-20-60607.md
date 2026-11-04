@@ -1,5 +1,3 @@
-###DEC-060607-0-000-20-04-1967@@@
-
 DECRETO Nº 60.607, DE 20 DE ABRIL DE 1967.
 
 Aprova as modificações introduzidas no Regimento da Faculdade de Direito de São Luís, Estado do Maranhão.

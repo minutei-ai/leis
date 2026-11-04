@@ -1,5 +1,3 @@
-###DEL-001430-0-000-02-12-1975@@@
-
 # DECRETO-LEI Nº 1.430, DE 2 DE DEZEMBRO DE 1975
 
 Altera prazo de recolhimento de tributos federais.

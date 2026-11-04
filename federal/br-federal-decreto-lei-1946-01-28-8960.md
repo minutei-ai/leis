@@ -1,5 +1,3 @@
-###DEL-008960-0-000-28-01-1946@@@
-
 DECRETO-LEI N. 8.960 – DE 28 DE JANEIRO DE 1946
 
 Cria funções gratificadas para o Instituto Agronômico do Sul, do S. N. P. A., do C. N. E. P. A., do Ministério da Agricultura e dá outras providências.

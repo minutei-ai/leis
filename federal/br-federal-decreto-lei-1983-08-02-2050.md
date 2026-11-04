@@ -1,5 +1,3 @@
-###DEL-002050-0-000-02-08-1983@@@
-
 # Decreto-lei nº 2.050, de 02 de agosto de 1983
 
 Revoga o Decreto-lei nº 865, de 12 de setembro de 1969, que declarou o Município de Santos, no Estado de São Paulo, de interesse da segurança nacional e dá outras providências.

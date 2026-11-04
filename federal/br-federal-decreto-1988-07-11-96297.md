@@ -1,5 +1,3 @@
-###DEC-096297-0-000-11-07-1988@@@
-
 DECRETO N° 96.297, DE 11 DE JULHO DE 1988
 
 Outorga concessão à RÁDIO PRINCESA DO VALE DE CAMAPUÃ LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Camapuã, Estado do Mato Grosso do Sul.

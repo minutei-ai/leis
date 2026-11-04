@@ -1,5 +1,3 @@
-###DEC-057468-0-000-20-12-1965@@@
-
 DECRETO Nº 57.468, de 20 de dezembro de 1965.
 
 Concede à Brasil Libano Companhia de Seguros Gerais autorização para funcionar e aprova os seus Estatutos.

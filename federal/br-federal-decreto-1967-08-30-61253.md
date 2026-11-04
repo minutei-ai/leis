@@ -1,5 +1,3 @@
-###DEC-061253-0-000-30-08-1967@@@
-
 DECRETO Nº 61.253, DE 30 DE AGÔSTO DE 1967.
 
 Dá nova redação ao artigo 22 do Regulamento de Administração do Exército, aprovado pelo Decreto nº 3.251, de 9 de novembro de 1938.

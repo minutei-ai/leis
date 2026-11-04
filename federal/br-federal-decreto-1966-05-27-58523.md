@@ -1,5 +1,3 @@
-###DEC-058523-0-000-27-05-1966@@@
-
 DECRETO Nº 58.523, DE 27 DE maio DE 1966.
 
 Enquadra Professor nas condições que menciona.

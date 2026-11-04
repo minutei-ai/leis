@@ -1,5 +1,3 @@
-###DEC-072646-0-000-17-08-1973@@@
-
 DECRETO Nº 72.646, DE 17 DE AGOSTO DE 1973.
 
 Autoriza o funcionamento dos cursos de Matemática e Ciências Biológicas da Faculdade de Ciências e Letras de Votuporanga, mantida pela Fundação Educacional de Votuporanga, com sede na cidade de Votuporanga, Estado de São Paulo.

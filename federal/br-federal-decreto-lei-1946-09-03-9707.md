@@ -1,5 +1,3 @@
-###DEL-009707-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.707 – DE 3 DE SETEMBRO DE 1946
 
 Altera a denominação das Seções da Superintendência do Ensino Agrícola e Veterinário e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067372-0-000-12-10-1970@@@
-
 DECRETO Nº 67.372, DE 12 DE OUTUBRO DE 1970.
 
 Institui e disciplina a aplicação de regime especial de trabalho para o desempenho de atividades compreendidas na primeira etapa do Programa de Integração Nacional.
@@ -16,7 +14,43 @@ Art. 2º A duração e o horário de trabalho dos servidores no regime especial 
 
 Art. 3º O servidor submetido ao regime de trabalho instituído por êste Decreto fará jus, mensalmente, a gratificação de acôrdo com os seguintes valôres:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:45.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Categoria A</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Direção e Chefia...................................................................................</span></p></td><td style="width:45.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.600,00</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Categoria B</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Assessoramento...................................................................................</span></p></td><td style="width:45.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.200,00</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Categoria C</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Formação profissional de nível superior...............................................</span></p></td><td style="width:45.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.800,00</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Categoria D</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Formação profissional de nível médio..................................................</span></p></td><td style="width:45.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.200,00</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Categoria E</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- pessoal administrativo..........................................................................</span></p></td><td style="width:45.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.600,00</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Categoria F</span></p></td><td style="width:311.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- pessoal auxiliar.....................................................................................</span></p></td><td style="width:45.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">800,00</span></p></td></tr></tbody></table>
+Cr$
+
+Categoria A
+
+- Direção e Chefia...................................................................................
+
+3.600,00
+
+Categoria B
+
+- Assessoramento...................................................................................
+
+3.200,00
+
+Categoria C
+
+- Formação profissional de nível superior...............................................
+
+2.800,00
+
+Categoria D
+
+- Formação profissional de nível médio..................................................
+
+2.200,00
+
+Categoria E
+
+- pessoal administrativo..........................................................................
+
+1.600,00
+
+Categoria F
+
+- pessoal auxiliar.....................................................................................
+
+800,00
 
 Art. 4º O servidor que fizer jus à gratificação de que trata o artigo anterior não poderá perceber diárias ou quaisquer gratificações, executada a gratificação adicional por tempo de serviço e ajuda de custo.
 

@@ -118,5 +118,6 @@ Dyogo Henrique de Oliveira
 
 Helder Barbalho
 
-<<ANEXOS>><br>
+<<ANEXOS>>
+
 <<TABELAS>>

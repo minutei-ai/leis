@@ -1,5 +1,3 @@
-###DEC-007669-0-000-11-01-2012-PUB-01@@@
-
 DECRETO Nº 7.669, DE 11 DE JANEIRO DE 2012
 
 Altera o Anexo II ao Decreto nº 7.556, de 24 de agosto de 2011, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções Gratificadas e das Funções Comissionadas do Instituto Nacional do Seguro Social - INSS.

@@ -1,5 +1,3 @@
-###DEC-075675-0-000-29-04-1975@@@
-
 DECRETO Nº 75.675, DE 29 DE ABRIL DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Light - Serviços de Eletricidade S.A, no Estado de São Paulo.

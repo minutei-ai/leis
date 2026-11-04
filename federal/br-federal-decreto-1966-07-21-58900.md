@@ -1,5 +1,3 @@
-###DEC-058900-0-000-21-07-1966@@@
-
 DECRETO Nº 58.900, DE 21 DE JULHO DE 1966.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$1.412.335.000, para atender às despesas com a conclusão das obras básicas do Museu de Artes Modernas, no Estado da Guanabara.

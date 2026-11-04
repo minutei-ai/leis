@@ -1,5 +1,3 @@
-###DEL-007691-0-000-29-06-1945@@@
-
 DECRETO-LEI N. 7.691 – DE 29 DE JUNHO DE 1945
 
 Prorroga os prazos a que se referem os arts. 4º e 13 do Decreto-lei nº 1.449, que dispõe sôbre a organização da vida rural

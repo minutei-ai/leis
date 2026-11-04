@@ -1,5 +1,3 @@
-###DEC-086126-0-000-17-06-1981@@@
-
 Decreto nº 86.126, de 17 de junho de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à proteção do Reservatório da Usina Hidrelétrica Eloy Chaves, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

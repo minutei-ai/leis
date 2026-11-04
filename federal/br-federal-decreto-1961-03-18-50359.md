@@ -1,5 +1,3 @@
-###DEC-050359-0-000-18-03-1961@@@
-
 DECRETO Nº 50.359, DE 18 DE MARÇO DE 1961.
 
 Regula a aplicação dos preços resultantes da Instrução nº 204, de 13 de março de 1961, da Superintendência da Moeda e do Crédito, incidentes sôbre o trigo e seus derivados; e dá outras providências.

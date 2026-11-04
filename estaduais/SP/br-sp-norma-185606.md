@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185606)
-
 # DECRETO Nº 63.293, DE 21 DE MARÇO DE 2018
 
 ### _Cria a Escola Técnica Estadual - ETEC de Taboão da Serra, no Município de Taboão da Serra_
@@ -18,8 +16,12 @@ Palácio dos Bandeirantes, 21 de março de 2018
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 21 de março de 2018.

@@ -1,5 +1,3 @@
-###DEC-071572-0-000-18-12-1972@@@
-
 DECRETO Nº 71.572 - DE 18 DE DEZEMBRO DE 1972
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado de São Paulo.

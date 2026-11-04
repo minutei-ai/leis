@@ -1,5 +1,3 @@
-###DEC-007752-0-000-15-06-2012-PUB-01@@@
-
 DECRETO N ° \- 7.752, DE 14 DE JUNHO DE 2012
 
 Promulga a Constituição da Organização das Nações Unidas para a Alimentação e a Agricultura - FAO, firmada em Quebec, Canadá, em 16 de outubro de 1945, e atualizada por emendas que lhe foram apostas até novembro de 1955.

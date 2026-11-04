@@ -1,5 +1,3 @@
-###DEC-004081-0-000-11-01-2002@@@
-
 DECRETO Nº 4.081, DE 11 DE JANEIRO DE 2002.
 
 Institui o Código de Conduta Ética dos Agentes Públicos em exercício na Presidência e Vice-Presidência da República.

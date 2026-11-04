@@ -1,5 +1,3 @@
-###DEC-096457-0-000-02-08-1988@@@
-
 DECRETO N° 96.457, DE 2 DE AGOSTO DE 1988
 
 Revoga o Decreto que aprovou o Regulamento para a Diretoria-Geral do Material da Marinha.

@@ -1,5 +1,3 @@
-###DEC-084469-0-000-11-02-1980@@@
-
 DECRETO Nº 84.469, DE 11 DE FEVEREIRO DE 1980
 
 Concede autorização à Pecten Brazil Bahia Petroleum Company, Chevron Bahia Sul Petroleum Company e Unionoil Atlantic Ltd. para operarem no mar territorial do Brasil.

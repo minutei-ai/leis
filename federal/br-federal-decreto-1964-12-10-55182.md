@@ -1,5 +1,3 @@
-###DEC-055182-0-000-10-12-1964@@@
-
 DECRETO Nº 55.182, DE 10 DE DEZEMBRO DE 1964.
 
 Outorga à Companhia de Eletricidade de Alagoas concessão para distribuir energia elétrica.

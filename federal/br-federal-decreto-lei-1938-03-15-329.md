@@ -1,5 +1,3 @@
-###DEL-000329-0-000-15-03-1938@@@
-
 DECRETO LEI N. 329 - DE 15 DE MARÇO DE 1938
 
 Cria o quadro de oficiais auxiliares do Corpo de Fuzileiros Navais.

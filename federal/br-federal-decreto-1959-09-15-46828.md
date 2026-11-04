@@ -1,5 +1,3 @@
-###DEC-046828-0-000-15-09-1959@@@
-
 DECRETO Nº 46.828, DE 15 DE setembro DE 1959.
 
 Autoriza o cidadão brasileiro Froilan Gonçalves a pesquisar bauxita e leucita, no município de Andradas, Estado de Minas Gerais.

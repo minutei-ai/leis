@@ -1,7 +1,3 @@
-1
-
-###DEC-099119-0-000-09-03-1990@@@
-
 DECRETO Nº 99.119, DE 9 DE MARÇO DE 1990
 
 Autoriza aumento do capital da REDE FERROVIÁRIA FEDERAL S.A. RFFSA para NCz$ 5.393.079.466,33.

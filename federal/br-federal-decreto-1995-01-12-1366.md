@@ -1,5 +1,3 @@
-###DEC-001366-0-000-12-01-1995@@@
-
 DECRETO Nº 1.366, DE 12 DE JANEIRO DE 1995
 
 Dispõe sobre o Programa Comunidade Solidária e dá outras providências.

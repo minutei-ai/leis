@@ -1,5 +1,3 @@
-###DEL-003916-0-000-11-12-1941@@@
-
 DECRETO-LEI N. 3.916 – DE 11 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 34:750$0, á verba que especifica

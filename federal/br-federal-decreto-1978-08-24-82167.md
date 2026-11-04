@@ -1,5 +1,3 @@
-###DEC-082167-0-000-24-08-1978@@@
-
 Decreto nº 82.167, de 24 de agosto de 1978.
 
 Concede reconhecimento ao curso de Licenciatura em Música, ministrado pela Universidade Federal de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

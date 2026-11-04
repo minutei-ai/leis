@@ -1,5 +1,3 @@
-###DEC-067653-0-000-24-11-1970@@@
-
 decreto nº 67.653, de 24 de novembro de 1970.
 
 Concede à alumínio Poços de Caldas S.A. o direito de lavrar bauxita, no município de Oriximiná, Estado do Pará.

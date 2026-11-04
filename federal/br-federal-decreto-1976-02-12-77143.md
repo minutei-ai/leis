@@ -1,5 +1,3 @@
-###DEC-077143-0-000-12-02-1976@@@
-
 Decreto nº 77.143, de 12 de fevereiro de 1976.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Educação São Luiz, com sede na Cidade de Jaboticabal, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-052429-0-000-02-09-1963@@@
-
 DECRETO Nº 52.429, DE 2 DE SETEMBRO DE 1963.
 
 Altera os Estatutos da Companhia Nacional de Seguros Agrícola.

@@ -1,5 +1,3 @@
-###DEC-065233-0-000-26-09-1969@@@
-
 DECRETO Nº 65.233 - DE 26 DE SETEMBRO DE 1969.
 
 Autoriza o funcionamento no Brasil da Organização Regional Interamericana de Trabalhadores (ORIT), sediada na cidade do México, no México.

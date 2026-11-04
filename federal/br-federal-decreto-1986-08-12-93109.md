@@ -1,5 +1,3 @@
-###DEC-093109-0-000-12-08-1986@@@
-
 DECRETO Nº 93.109, DE 12 DE AGOSTO DE 1986
 
 Dispõe sobre o limite do Capital Autorizado da PETROFLEX - INDÚSTRIA E COMÉRCIO S.A.

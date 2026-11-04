@@ -1,5 +1,3 @@
-###DEC-059482-0-000-09-11-1966@@@
-
 DECRETO Nº 59.482, de 9 de novembro de 1966.
 
 Autoriza o cidadão brasileiro Luiz Alberto a pesquisar areia quartzosa, no Município de Peruíbe, Estado de São Paulo.

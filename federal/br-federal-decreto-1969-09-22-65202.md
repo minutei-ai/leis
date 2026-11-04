@@ -1,5 +1,3 @@
-###DEC-065202-0-000-22-09-1969@@@
-
 decreto nº 65.202, de 22 de setembro de 1969.
 
 Regula a pesquisa e a exploração de recursos minerais em terras habitadas pelos silvícolas.

@@ -1,5 +1,3 @@
-###DEC-045336-0-000-27-01-1959@@@
-
 Decreto nº 45.336, de 27 de janeiro de 1959.
 
 Declara Órgão Auxiliar do Conselho Nacional de Águas e Energia Elétrica o Departamento de Águas e Energia Elétrica do Estado do Paraná.

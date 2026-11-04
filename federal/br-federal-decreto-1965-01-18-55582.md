@@ -1,5 +1,3 @@
-###DEC-055582-0-000-18-01-1965@@@
-
 DECRETO Nº 55.582, DE 18 DE JANEIRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Humaitá de Seguros Gerais, inclusive aumento de capital social.
@@ -17,8 +15,6 @@ Brasília, 18 de janeiro de 1965; 144º da Independência e 77º da República.
 h. castello branco
 
 Daniel Faraco
-
-###DEC-055582-0-000-18-01-1965@@@RET01+++
 
 decreto nº 55.582, de 18 de janeiro de 1965.
 

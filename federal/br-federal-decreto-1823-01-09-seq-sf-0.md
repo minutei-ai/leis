@@ -1,5 +1,3 @@
-###DEC-000000-0-000-09-01-1823@@@
-
 DECRETO - DE 9 DE JANEIRO DE 1823
 
 Concedo á Camara da Cidade do Rio de Janeiro o tratamento de - Illustrissima.

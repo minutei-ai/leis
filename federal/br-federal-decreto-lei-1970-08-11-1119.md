@@ -1,5 +1,3 @@
-###DEL-001119-0-000-11-08-1970@@@
-
 # DECRETO-LEI Nº 1.119, DE 11 DE AGÔSTO DE 1970
 
 Isenta do impôsto de importação e do impôsto sôbre produtos industrializados os aparelhos tipo “Pacemaker.”

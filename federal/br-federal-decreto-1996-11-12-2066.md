@@ -1,5 +1,3 @@
-###DEC-002066-0-000-12-11-1996@@@
-
 DECRETO Nº 2.066, DE 12 DE NOVEMBRO DE 1996.
 
 Regulamento o art. 92, da lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre a licença para Desempenho de Mandato Classista.

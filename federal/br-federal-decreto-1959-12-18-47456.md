@@ -1,5 +1,3 @@
-###DEC-047456-0-000-18-12-1959@@@
-
 DECRETO Nº 47.456, DE 18 DE DEZEMBRO DE 1959.
 
 Modifica o Decreto nº 47.208, de 9 de novembro de 1959.

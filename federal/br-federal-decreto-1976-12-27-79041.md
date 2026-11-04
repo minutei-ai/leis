@@ -1,5 +1,3 @@
-###DEC-079041-0-000-27-12-1976@@@
-
 DECRETO Nº 79.041, DE 27 DE DEZEMBRO DE 1976.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

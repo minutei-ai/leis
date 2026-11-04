@@ -1,7 +1,3 @@
-1
-
-###DEC-098926-0-000-02-02-1990@@@
-
 DECRETO Nº 98.926, DE 2 FEVEREIRO DE 1990
 
 Outorga concessão ao SISTEMA POTIGUAR DE INFORMAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média na Cidade de Caicó Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-049485-0-000-09-12-1960@@@
-
 DECRETO Nº 49.485, DE 9 DE DEZEMBRO DE 1960.
 
 Inclui funções na antiga Tabela de Mensalistas e altera o Quadro de Pessoal da Administração do Pôrto do Rio de Janeiro.

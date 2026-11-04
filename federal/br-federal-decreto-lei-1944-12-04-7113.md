@@ -1,5 +1,3 @@
-###DEL-007113-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.113 – DE 4 DE DEZEMBRO DE 1944
 
 Eleva o limite da emissão de “Obrigações de Guerra” autorizada pelo Decreto-lei n.º 4.789, de 5 de outubro de 1942

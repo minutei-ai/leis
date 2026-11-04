@@ -1,5 +1,3 @@
-###DEC-049968-0-000-20-01-1961@@@
-
 DECRETO Nº 49.968, DE 20 DE JANEIRO DE 1961.
 
 Outorga concessão  Rádio Bandeirantes à Sociedade Anônima para instalar uma estação radiodifusão.

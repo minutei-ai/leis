@@ -1,5 +1,3 @@
-###MPV-000068-0-000-04-09-2002@@@
-
 MEDIDA PROVISÓRIA Nº 68, DE 4 DE SETEMBRO DE 2002
 
 Altera as Leis n 10.209, de 23 de março de 2001, e 10.233, de 5 de junho de 2001, e dá outras providências.

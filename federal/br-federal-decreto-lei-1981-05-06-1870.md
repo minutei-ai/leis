@@ -1,7 +1,3 @@
-1
-
-###DEL-001870-0-000-06-05-1981@@@
-
 # DecretO-lei nº 1.870, de 06 de maIO de 1981
 
 Atribui competência para a dispensa da retenção de imposto de renda de reduzido valor, dispõe sobre a retenção do imposto incidente sobre rendimentos de depósito a prazo fixo, e dá outras providências.

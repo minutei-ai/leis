@@ -482,7 +482,8 @@ Art. 13. O valor do Bônus por Resultado não será incorporado ao vencimento ou
 
 Art. 14. O Chefe do Poder Executivo fica autorizado a implantar um adicional no valor constante do art. 9º desta Lei, exclusivamente na parcela de profissionais de que trata o inciso I de seu § 2º, para o cumprimento do disposto no inciso XI do art. 212-A da Constituição Federal.
 
-Parágrafo único. Fica o Governador do Estado autorizado, ainda, a implantar um adicional, no mês de janeiro de 2026, em percentual complementar para que o benefício individual resultado do disposto nos arts. 8º a 13 desta Lei alcance 100% (cem por cento) dos vencimentos de dezembro de 2025 dos servidores de que trata o § 2º do art. 9º desta Lei, limitada a despesa total a R$ 50.000.000,00 (cinquenta milhões de reais).<br>
+Parágrafo único. Fica o Governador do Estado autorizado, ainda, a implantar um adicional, no mês de janeiro de 2026, em percentual complementar para que o benefício individual resultado do disposto nos arts. 8º a 13 desta Lei alcance 100% (cem por cento) dos vencimentos de dezembro de 2025 dos servidores de que trata o § 2º do art. 9º desta Lei, limitada a despesa total a R$ 50.000.000,00 (cinquenta milhões de reais).
+
 \- [Acrescido pela Lei nº 23.974, de 23-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111959/lei-23974).
 
 Art. 15. O Chefe do Poder Executivo em regulamento específico tratará dos demais casos não previstos nesta Lei.

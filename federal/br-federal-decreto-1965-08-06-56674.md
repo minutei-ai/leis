@@ -1,5 +1,3 @@
-###DEC-056674-0-000-06-08-1965@@@
-
 Decreto nº 56.674, de 6 de agôsto de 1965.
 
 Autoriza a Companhia Estadual de Energia Elétrica, do Rio Grande do Sul, a construir linha de transmissão.

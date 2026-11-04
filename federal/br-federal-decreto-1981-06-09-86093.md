@@ -1,5 +1,3 @@
-###DEC-086093-0-000-09-06-1981@@@
-
 DECRETO Nº 86.093, de 09 de junho de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Espírito Santo Centrais Elétricas S.A. - ESCELSA, no Estado do Espírito Santo.

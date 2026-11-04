@@ -1,5 +1,3 @@
-###DEL-006349-0-000-17-03-1944@@@
-
 DECRETO-LEI N. 6.349 – DE 17 DE MARÇO DE 1944
 
 Cria uma taxa de validação de diploma de agrônomo e veterinário

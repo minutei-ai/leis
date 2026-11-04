@@ -1,5 +1,3 @@
-###DEC-057615-0-000-07-01-1966@@@
-
 Decreto nº 57.615, de 7 de Janeiro de 1966.
 
 Renova o prazo previsto no artigo 3º do Decreto nº 56.850, de 10 de setembro de 1965.

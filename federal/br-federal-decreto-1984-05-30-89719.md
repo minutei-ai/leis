@@ -1,5 +1,3 @@
-###DEC-089719-0-000-30-05-1984@@@
-
 Decreto nº 89.719, de 30 de maio de 1984
 
 Autoriza o funcionamento dos cursos de Letras, Estudos Sociais e Ciências, do Instituto de Ensino Superior de Cáceres, Estado de Mato Grosso.

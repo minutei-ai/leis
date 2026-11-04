@@ -1,5 +1,3 @@
-###DEC-045597-0-000-23-03-1959@@@
-
 Decreto nº 45.597, de 23 de março de 1959.
 
 Declara de utilidade pública a Fundação Amazônica, com sede me Manaus, Estado do Amazonas.

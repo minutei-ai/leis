@@ -1,5 +1,3 @@
-###DEC-007014-0-000-23-11-2009@@@
-
 DECRETO Nº 7.004, DE 23 DE NOVEMBRO DE 2009.
 
 Disciplina os requisitos e condições de promoção na Carreira Policial Federal, de que trata o § 1o do art. 2o da Lei no 9.266, de 15 de março de 1996.

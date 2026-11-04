@@ -1,5 +1,3 @@
-###DEC-083072-0-000-23-01-1979@@@
-
 Decreto nº 83.072, de 23 de janeiro de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

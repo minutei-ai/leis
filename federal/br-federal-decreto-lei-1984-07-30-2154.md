@@ -1,5 +1,3 @@
-###DEL-002154-0-000-30-07-1984@@@
-
 # DECRETO-LEI Nº 2.154, DE 30 DE JULHo DE 1984
 
 Estende a Gratificação de Desempenho das Atividades de Tributação, Arrecadação e Fiscalização dos Tributos Federais aos Fiscais de Tributos de Açúcar e Álcool.

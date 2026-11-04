@@ -1,5 +1,3 @@
-###DEC-058977-0-000-03-08-1966@@@
-
 DECRETO Nº 58.977, DE 3 DE AGôSTO DE 1966.
 
 Fixa os preços mínimos básicos relativos à safra de 1966-67, para os produtos; amendoim, arroz, farinha de mandioca, feijão, milho e soja, das Regiões Central e Meridional.

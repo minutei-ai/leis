@@ -1,18 +1,16 @@
-###DEC-042885-0-000-26-12-1957@@@
+**DECRETO Nº 42.885, DE 26 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.885, DE 26 DE DEZEMBRO DE 1957.</strong>
+***Declara de utilidade pública diversas áreas de terra necessárias ao aproveitamento da energia hidráulica da cachoeira do França, situada no rio Juquiá-Guaçu, entre o município de Ibiúna e o de Itapecerica da Serra, Estado de São Paulo, e autoriza a Companhia Brasileira de Alumínio a promover a desapropriação.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra necessárias ao aproveitamento da energia hidráulica da cachoeira do França, situada no rio Juquiá-Guaçu, entre o município de Ibiúna e o de Itapecerica da Serra, Estado de São Paulo, e autoriza a Companhia Brasileira de Alumínio a promover a desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei número 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei número 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam declaradas de utilidade pública as áreas de terra necessárias à realização do aproveitamento da energia hidráulica da cachoeira do França, existente no rio Juquiá-Guaçu, entre o município de Ibiúna, Distrito do mesmo nome, e o Município de Itapecerica da Serra, Distrito de Juquitiba, Estado de São Paulo, cuja concessão foi outorgada pelo Decreto nº 30.617, de 10 de março de 1952, complementado pelo Decreto nº 31.877, de 3 de dezembro de 1952, à Companhia Brasileira de Alumínio.
 
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as áreas de terra necessárias à realização do aproveitamento da energia hidráulica da cachoeira do França, existente no rio Juquiá-Guaçu, entre o município de Ibiúna, Distrito do mesmo nome, e o Município de Itapecerica da Serra, Distrito de Juquitiba, Estado de São Paulo, cuja concessão foi outorgada pelo Decreto nº 30.617, de 10 de março de 1952, complementado pelo Decreto nº 31.877, de 3 de dezembro de 1952, à Companhia Brasileira de Alumínio.
+**Art**. 2º As áreas de terra referidas no artigo anterior estão indicadas na plantas aprovadas pelo Ministério da Agricultura, no processo D.Ag. nº 3.196-56, de propriedade atribuída às pessoas a seguir relacionadas:
 
-<strong>Art</strong>. 2º As áreas de terra referidas no artigo anterior estão indicadas na plantas aprovadas pelo Ministério da Agricultura, no processo D.Ag. nº 3.196-56, de propriedade atribuída às pessoas a seguir relacionadas:
-
-<strong>MUNICÍPIO DE IBIÚNA</strong>
+**MUNICÍPIO DE IBIÚNA**
 
 1 - Área de 463.000,00 m² (quatrocentos e sessenta e três mil metros quadrados), de propriedade atribuída a Lídio Francisco Ribeiro.
 
@@ -148,7 +146,7 @@
 
 67 - Área de 70.941,00 m² (setenta mil novecentos e quarenta e um metros quadrados), de propriedade atribuída a Antônio Joaquim Soares.
 
-<strong>MUNICÍPIO DE ITAPECERICA DA SERRA</strong>
+**MUNICÍPIO DE ITAPECERICA DA SERRA**
 
 68 - Área de 69.195,00 m² (sessenta e nove mil cento e noventa cinco metros quadrados), de propriedade atribuída a Henrique Boccolini.
 
@@ -212,36 +210,34 @@
 
 98 - Área de 26.573,00 m² (vinte e seis mil quinhentos e setenta e três metros quadrados), de propriedade atribuída a Francisco Xavier de Camargo.
 
-<strong>Art</strong>. 3º Fica autorizada a Companhia Brasileira de Alumínio a promover a desapropriação das referidas áreas de terra na forma da legislação vigente.
+**Art**. 3º Fica autorizada a Companhia Brasileira de Alumínio a promover a desapropriação das referidas áreas de terra na forma da legislação vigente.
 
 Parágrafo único. Nos têrmos do artigo 15 do Decreto-lei nº 3.365 de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956, a desapropriação de que trata o presente decreto é declarada de caráter urgente.
 
-<strong>Art</strong>. 4º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 4º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de dezembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti
 
-###DEC-042885-0-000-26-12-1957@@@RET01+++
+**DECRETO Nº 42.885, DE 26 DE DEZEMBO DE 1957.**
 
-<strong>DECRETO Nº 42.885, DE 26 DE DEZEMBO DE 1957.</strong>
+***Declara de utilidade pública diversas áreas de terra necessárias ao aproveitamento da energia hidráulica da cachoeira do França situada no rio Juquiá-Guassu, entre o município de Ibiuba e o de Itapecerica da Serra Estado de São Paulo e autoriza a Companhia Brasileira de Alumínio a promover a desapropriação.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra necessárias ao aproveitamento da energia hidráulica da cachoeira do França situada no rio Juquiá-Guassu, entre o município de Ibiuba e o de Itapecerica da Serra Estado de São Paulo e autoriza a Companhia Brasileira de Alumínio a promover a desapropriação.</strong></em>
+(Publicado no *Diário Oficial* - Seção I - 28 de dezembro de 1957)
 
-(Publicado no <em>Diário Oficial</em> - Seção I - 28 de dezembro de 1957)
+**RETIFICAÇÃO**
 
-<strong>RETIFICAÇÃO</strong>
+**Art**. 2º,
 
-<strong>Art</strong>. 2º,
-
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>:
+**ONDESELÊ**:
 
 ... no processo D. Ag. nº 3.196-56.
 
-<u><strong>LEIA</strong></u>\-<u><strong>SE</strong></u>:
+**LEIA**\-**SE**:
 
 ... no processo D. Ag. nº 3.195-56 ...

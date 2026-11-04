@@ -1,5 +1,3 @@
-###DEC-088464-0-000-04-07-1983@@@
-
 decreto nº 88.464, de 04 de julho de 1983
 
 Autoriza abertura de canal na enseada da Ilha da Cidade Universitária.

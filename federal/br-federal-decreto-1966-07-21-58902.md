@@ -1,5 +1,3 @@
-###DEC-058902-0-000-21-07-1966@@@
-
 DECRETO Nº 58.902, de 21 de julho de 1966.
 
 Autoriza o Cidadão Brasileiro José Ayrton de Oliveira a lavrar quartzo - turmalina - xisto, no município de Mogi das Cruzes, Estado de São Paulo.

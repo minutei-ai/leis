@@ -1,5 +1,3 @@
-###DEC-084096-0-000-16-10-1979@@@
-
 decreto nº 84.096, de 16 de outubro de 1979
 
 Dispõe sobre a criação de Grupo de Trabalho para análise e preposição de medidas de apoio às populações da zonas canavieiras do Nordeste.

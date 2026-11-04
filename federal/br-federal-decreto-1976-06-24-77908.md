@@ -1,5 +1,3 @@
-###DEC-077908-0-000-24-06-1976@@@
-
 DECRETO Nº 77.908, DE 24 DE JUNHO DE 1976.
 
 Concede à Empresa de Minérios Criciumense Ltda. o direito de lavrar fluorita no Município de Santa Rosa de Lima, Estado de Santa Catarina.

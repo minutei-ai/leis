@@ -10,7 +10,7 @@ Art. 1º Ficam alterados o Anexo II e, também, as Tabelas 10, do Anexo V, e as�
 
 **QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)**
 
-|   | **ESPÉCIE/** **NÍVEL** | **CARGO DE** **REFERÊNCIA** | **QUANTITATIVO** | **VALOR** |
+|   | **ESPÉCIE/NÍVEL** | **CARGO DEREFERÊNCIA** | **QUANTITATIVO** | **VALOR** |
 | --- | --- | --- | --- | --- |
 | CARGOS DE PROVIMENTO EM COMISSÃO (DAS) Grupo de Cargos de Chefia, Direção e Assessoramento Superior | DAS-1 | Superintendente | 21 | ..................... |
 | ............................ | ............................ | ............................ | ..................... |
@@ -40,7 +40,7 @@ Art. 1º Ficam alterados o Anexo II e, também, as Tabelas 10, do Anexo V, e as�
 
 3\. Tabela 3 - Secretaria Municipal de Saúde - SMS
 
-| **ESPÉCI** **E/NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
+| **ESPÉCIE/NÍVEL** | **FUNÇÃO** | **DESCRIÇÃO** | **QUANTIDADE** |
 | --- | --- | --- | --- |
 | FG-l | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão dos processos administrativos de alta complexidade da Secretaria Municipal de Saúde. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão e Secretaria Municipal de Saúde. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 12 |
 | FG-1 | Gestor Administrativo de Saúde | ....................................................................................... | ....... |
@@ -53,7 +53,69 @@ Art. 1º Ficam alterados o Anexo II e, também, as Tabelas 10, do Anexo V, e as�
 | FG-3 | Gestor Administrativo e de Pessoal | ................................................... | ......... |
 | FG-3 | Gestor de Almoxarifado e Patrimônio | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de Almoxarifado e Patrimônio da 1 Secretaria Municipal de Saúde É responsável pela operação e gestão do processo de recebimento e estocagem de bens e materiais permanentes ou de consumo, e ainda pelo controle de dados, indicadores e elaboração de relatórios necessários para a gestão do setor. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | .......... |
 
-<table style="width: 80%;"><thead></thead><tbody><tr><td style="width: 62px;">&nbsp;</td><td style="width: 96px;">&nbsp;</td><td style="text-align: justify; width: 873px;">&nbsp;</td><td style="width: 83px;">&nbsp;</td></tr><tr><td style="width: 62px;">FG-3</td><td style="width: 96px;">Gestor de Contratos</td><td style="text-align: justify; width: 873px;">Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de contratos públicos de alta complexidade na Secretaria Municipal de Saúde. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.</td><td style="width: 83px;">2</td></tr><tr><td style="width: 62px;">FG-4</td><td style="text-align: center; width: 96px;">Agente de Compras Governamentais</td><td style="width: 873px;">.......................................................................................</td><td style="width: 83px;">9</td></tr><tr><td style="width: 62px;">FG-4</td><td style="text-align: justify; width: 96px;">Gestor de Processos Estratégicos</td><td style="width: 873px;">.......................................................................................</td><td style="width: 83px;">....</td></tr><tr><td style="width: 62px;">FG-5</td><td style="text-align: justify; width: 96px;">Gestor de Processos Estratégicos</td><td style="width: 873px;">.......................................................................................</td><td style="width: 83px;">.....</td></tr><tr><td style="width: 62px;">FG-6</td><td style="width: 96px;">Gestor Geral de Área de Endemias</td><td style="width: 873px;">.......................................................................................</td><td style="width: 83px;">....</td></tr><tr><td style="width: 62px;">FG-6</td><td style="text-align: justify; width: 96px;">Gestor de Processos Estratégicos</td><td style="width: 873px;">.......................................................................................</td><td style="width: 83px;">....</td></tr><tr><td style="width: 62px;">FG-7</td><td style="text-align: center; width: 96px;">Agente de Serviços de Saúde</td><td style="width: 873px;">.......................................................................................</td><td style="width: 83px;">.....</td></tr><tr><td style="width: 62px;">FG-7</td><td style="text-align: center; width: 96px;">Gestor de Equipe de Endemias</td><td style="width: 873px;">.......................................................................................</td><td style="width: 83px;">......</td></tr></tbody></table>
+FG-3
+
+Gestor de Contratos
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de contratos públicos de alta complexidade na Secretaria Municipal de Saúde. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+2
+
+FG-4
+
+Agente de Compras Governamentais
+
+.......................................................................................
+
+9
+
+FG-4
+
+Gestor de Processos Estratégicos
+
+.......................................................................................
+
+....
+
+FG-5
+
+Gestor de Processos Estratégicos
+
+.......................................................................................
+
+.....
+
+FG-6
+
+Gestor Geral de Área de Endemias
+
+.......................................................................................
+
+....
+
+FG-6
+
+Gestor de Processos Estratégicos
+
+.......................................................................................
+
+....
+
+FG-7
+
+Agente de Serviços de Saúde
+
+.......................................................................................
+
+.....
+
+FG-7
+
+Gestor de Equipe de Endemias
+
+.......................................................................................
+
+......
 
 ......................................................................................................................................................................
 

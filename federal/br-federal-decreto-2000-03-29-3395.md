@@ -1,5 +1,3 @@
-###DEC-003395-0-000-29-03-2000@@@
-
 DECRETO Nº 3.395, DE 29 DE MARÇO DE 2000.
 
 Dá nova redação a dispositivos do Decreto nº 1.800, de 30 de janeiro de 1996, que regulamenta a Lei nº 8.934, de 18 de novembro de 1994, alterada pela Lei nº 9.829, de 2 de setembro de 1999 e pela Medida Provisória nº 1.958-28, de 2 de março de 2000, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins.

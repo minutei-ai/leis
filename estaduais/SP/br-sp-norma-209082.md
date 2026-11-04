@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209082)<br>
-
 # DECRETO N° 68.312, DE 18 DE JANEIRO DE 2024
 
 ### _Altera e acrescenta dispositivos aos decretos que especifica._

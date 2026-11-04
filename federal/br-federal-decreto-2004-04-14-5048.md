@@ -1,5 +1,3 @@
-###DEC-005048-0-000-14-04-2004@@@
-
 DECRETO Nº 5.048,  DE 14 DE ABRIL DE 2004
 
 Promulga o Acordo de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia para Impedir o Uso Ilegal de Precursores e Substâncias Químicas Essenciais para o Processamento de Entorpecentes e Substâncias Psicotrópicas, de 26 de julho de 1999.
@@ -162,11 +160,16 @@ Disposições Finais
 
         Feito na cidade de La Paz, em 26 de julho de 1999, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente válidos e autênticos.
 
-PELO GOVERNO DA REPÚBLICA<br>
-FEDERATIVA DO BRASIL<br>
-Luiz Felipe Lampreia<br>
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL
+
+Luiz Felipe Lampreia
+
 Ministro das Relações Exteriores
 
-PELO GOVERNO DA REPÚBLICA DA BOLÍVIA<br>
-Walter Guiteras<br>
+PELO GOVERNO DA REPÚBLICA DA BOLÍVIA
+
+Walter Guiteras
+
 Ministro de Governo

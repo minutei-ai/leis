@@ -1,5 +1,3 @@
-###DEC-047632-0-000-15-01-1960@@@
-
 DECRETO Nº 47.632, DE 15 DE JANEIRO DE 1960.
 
 Autoriza Cerâmica Mogi-Guaçu Sociedade Anônima a pesquisar argila no município de Mogi-Guaçu, Estado de São Paulo.

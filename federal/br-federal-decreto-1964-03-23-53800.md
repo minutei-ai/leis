@@ -1,5 +1,3 @@
-###DEC-053800-0-000-23-03-1964@@@
-
 DECRETO Nº 53.800, DE 23 DE MARÇO DE 1964.
 
 Autoriza o cidadão brasileiro Ruy Teixeira Leite a pesquisar diamantes no município de Andaraí Estado da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001915-0-000-23-05-1996@@@
-
 DECRETO Nº 1.915, DE 23 DE MAIO DE 1996.
 
 Dá nova redação ao art. 2° do Decreto nº 1.099, de 30 de março de 1994, que dispõe sobre a organização e o funcionamento da Junta de Programação Financeira.

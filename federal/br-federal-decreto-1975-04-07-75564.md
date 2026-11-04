@@ -1,5 +1,3 @@
-###DEC-075564-0-000-07-04-1975@@@
-
 DECRETO Nº 75.564, DE 7 DE ABRIL DE 1975.
 
 Outorga à Madeireira Miguel Forte S.A., concessão para uso exclusivo do aproveitamento hidráulico de um trecho do rio Jangada, no local denominado Butizal, no Estado do Paraná.
@@ -37,8 +35,6 @@ ERNESTO GEISEL
 Shigeaki Ueki
 
 RETIFICAÇÃO
-
-###DEC-075564-0-000-07-04-1975@@@
 
 DECRETO Nº 75.564, DE 7 DE ABRIL DE 1975.
 

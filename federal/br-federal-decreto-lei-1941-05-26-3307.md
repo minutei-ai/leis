@@ -1,5 +1,3 @@
-###DEL-003307-0-000-26-05-1941@@@
-
 DECRETO-LEI N. 3.307 – DE 26 DE MAIO DE 1941
 
 Fixa a gratificação a ser concedida, a título de representação, ao Presidente do Tribunal de Apelação e ao Corregedor da Justiça do Distrito Federal

@@ -1,5 +1,3 @@
-###DEC-057057-0-000-11-10-1965@@@
-
 DECRETO Nº 57.057, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Walter Bezerra de Sá a pesquisar minerais de pegmatito no município de Quixeramobim, no Estado do Ceará.

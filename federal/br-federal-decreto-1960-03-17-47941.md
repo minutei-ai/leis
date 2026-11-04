@@ -1,5 +1,3 @@
-###DEC-047941-0-000-17-03-1960@@@
-
 DECRETO Nº 47.941, DE 17 DE MARÇO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação que faz o Município de Santo Ângelo, Estado do Rio Grande do Sul, de dois terrenos necessários ao Ministério da Guerra.

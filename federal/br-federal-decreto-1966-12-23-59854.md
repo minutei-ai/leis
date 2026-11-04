@@ -1,5 +1,3 @@
-###DEC-059854-0-000-23-12-1966@@@
-
 DECRETO Nº 59.854, DE 23 DE DEZEMBRO DE 1966.
 
 Renova o Decreto nº 1.670, de 26 de novembro de 1962.
@@ -19,8 +17,6 @@ Brasília, 23 de dezembro de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-059854-0-000-23-12-1966@@@RET01+++
 
 DECRETO Nº 59.854, DE 23 DE DEZEMBRO DE 1966.
 

@@ -1,5 +1,3 @@
-###DEC-075213-0-000-14-01-1975@@@
-
 DECRETO Nº 75.213, DE 14 DE JANEIRO DE 1975.
 
 Transfere a sede da 1º Brigada de Infantaria Motorizada e dá outras providências.

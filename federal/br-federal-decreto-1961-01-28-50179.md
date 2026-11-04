@@ -1,5 +1,3 @@
-###DEC-050179-0-000-28-01-1961@@@
-
 decreto nº 50.179, de 28 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro Ubaldino Emilio Cavallari a pesquisar mármore no município de Rio Branco do Sul, Estado do Paraná.

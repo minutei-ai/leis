@@ -1,5 +1,3 @@
-###MPV-000531-0-000-25-04-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 531, DE 25 DE ABRIL DE 2011
 
 Abre crédito extraordinário, em favor do Ministério da Educação, no valor de R$ 74.000.000,00, para os fins que especifica.

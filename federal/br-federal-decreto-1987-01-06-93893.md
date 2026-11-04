@@ -1,5 +1,3 @@
-###DEC-093893-0-000-06-01-1987@@@
-
 DECRETO Nº 93.893, DE 06 DE JANEIRO DE 1987
 
 Altera, transitoriamente, a atribuição para fixar e reajustar anuidades, taxas e outras contribuições escolares, previstas no Decreto-lei nº 532, de 16 de abril de 1969.

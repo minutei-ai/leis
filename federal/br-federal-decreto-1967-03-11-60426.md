@@ -1,5 +1,3 @@
-###DEC-060426-0-000-11-03-1967@@@
-
 DECRETO Nº 60.426, de 11 de março de 1967.
 
 Autoriza Mineração Pedra Branca limitada, à lavrar mármore, no município de Cachoeira de Itapemirim, Estado do  Espírito Santo.

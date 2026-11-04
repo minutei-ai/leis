@@ -1,5 +1,3 @@
-###DEC-047651-0-000-15-01-1960@@@
-
 DECRETO Nº 47.651,DE 15 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Simon Wallach a pesquisar mármore no município de São Tomé, Estado do Rio Grande do Norte.

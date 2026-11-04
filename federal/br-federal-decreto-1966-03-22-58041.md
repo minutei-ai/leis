@@ -1,5 +1,3 @@
-###DEC-058041-0-000-22-03-1966@@@
-
 decreto nº 58.041, de 22 de março de 1966.
 
 Concede à Sociedade Carbonífera São Gabriel Ltda. autorização para funcionar como emprêsa de mineração.

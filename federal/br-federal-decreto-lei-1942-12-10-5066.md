@@ -1,5 +1,3 @@
-###DEL-005066-0-000-10-12-1942@@@
-
 DECRETO-LEI N. 5.066 – DE 10 DE DEZEMBRO DE 1942
 
 Regula a duração normal do trabalho dos empregados do Banco do Brasil S.A.

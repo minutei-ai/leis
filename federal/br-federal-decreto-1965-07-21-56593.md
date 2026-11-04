@@ -1,5 +1,3 @@
-###DEC-056593-0-000-21-07-1965@@@
-
 DECRETO Nº 56.593, DE 21 DE JULHO DE 1965.
 
 Denomina “Estabelecimento Pandiá Calógeras” o Estacionamento Central de Subsistência.

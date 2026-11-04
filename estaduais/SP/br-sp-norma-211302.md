@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211302)<br>
-
 # DECRETO N° 69.783, DE 11 DE AGOSTO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante concessão de uso, a título gratuito e por prazo determinado, do Município de São Paulo, parte do imóvel que especifica._

@@ -1,5 +1,3 @@
-###DEC-047400-0-000-10-12-1959@@@
-
 DECRETO Nº 47.400, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza a Cia. de Tecidos Paulista a pesquisar fosforita e calcário no município de Paulista, Estado de Pernambuco.

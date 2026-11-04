@@ -1,5 +1,3 @@
-###DEC-081388-0-000-22-02-1978@@@
-
 Decreto n º 81 388, de 22 de fevereiro de 1978
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Maringá, Estado do Paraná.

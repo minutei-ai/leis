@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209850)<br>
-
 # DECRETO LEGISLATIVO N° 2.552, DE 20 DE AGOSTO DE 2024
 
 ### _Manifesta concordância com a implementação do Convênio ICMS 74/24, ratificado pelo Decreto n° 68.745, de 5 de agosto de 2024._

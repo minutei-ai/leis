@@ -1,5 +1,3 @@
-###DEL-003579-0-000-01-09-1941@@@
-
 DECRETO-LEI N. 3.579 – DE 1 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 24:000$0 para atender à despesa com a admissão de pessoal extranumerário contratado

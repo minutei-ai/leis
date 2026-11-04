@@ -1,5 +1,3 @@
-###DEC-054867-0-000-03-11-1964@@@
-
 DECRETO Nº 54.867, DE 3 DE Novembro DE 1964.
 
 Autoriza a Indústria de Calcários Caçapava Ltda. a pesquisar calcário, no município de Caçapava do Sul, Estado do Rio Grande do Sul.

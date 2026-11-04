@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208776)<br>
-
 # LEI N° 17.842, DE 07 DE NOVEMBRO DE 2023
 
 ## (Projeto de lei n° 915/2023, do Deputado Mauro Bragato - PSDB)

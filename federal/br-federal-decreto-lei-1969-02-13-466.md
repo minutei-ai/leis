@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2a405687-7ef8-4ca1-a09c-b9095a4d4a51/texto#nowhere)
 
-###DEL-000466-0-000-13-02-1969@@@
-
 DECRETO-LEI Nº 466, DE 13 DE fEvereiRo DE 1969
 
 Altera disposição da Lei nº 4.307, de 23 de dezembro de 1963.

@@ -1,5 +1,3 @@
-###DEC-077733-0-000-01-06-1976@@@
-
 Decreto nº 77.733, de 1º de junho de 1976.
 
 Altera dispositivo do Decreto nº 76.177, de 1º de setembro de 1975, que concede reconhecimento aos cursos de Administração e de Ciências Contábeis da Faculdade de Ciências Contábeis e Administração de Varginha, na cidade de Varginha, Estado de Minas Gerais.

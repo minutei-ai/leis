@@ -1,7 +1,3 @@
-1
-
-###DEC-001398-0-000-16-02-1995@@@
-
 DECRETO Nº 1.398, DE 16 DE FEVEREIRO DE 1995
 
 Dispõe sobre atribuições de inventariantes, procedimentos de inventários, e dá outras providências.

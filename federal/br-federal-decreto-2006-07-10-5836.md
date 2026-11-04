@@ -1,5 +1,3 @@
-###DEC-005836-0-000-10-07-2006@@@
-
 DECRETO Nº 5.836, DE 10 DE JULHO DE 2006.
 
 Altera o Estatuto Social da Empresa Gestora de Ativos - EMGEA, aprovado pelo Decreto no 5.434, de 26 de abril de 2005.
@@ -37,5 +35,3 @@ Brasília, 10 de julho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
            Guido Mantega
-
-Este texto não substitui o publicado no D.O.U. de 11.7.2006

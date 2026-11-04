@@ -1,5 +1,3 @@
-###DEC-083679-0-000-03-07-1979@@@
-
 Decreto nº 83.679, de 03 de julho de 1979
 
 Concede reconhecimento ao curso de Zootecnia da Faculdade de Zootecnia de Uberaba, com sede na cidade de Uberaba, estado de Minas Gerais.

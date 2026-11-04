@@ -1,5 +1,3 @@
-###DEC-064848-0-000-18-07-1969@@@
-
 DECRETO Nº 64.848 - DE 18 DE JULHO DE 1969.
 
 Torna o Comando da 8ª Região Militar privativo dos postos de General-de-Divisão ou General-de-Brigada Combatente.

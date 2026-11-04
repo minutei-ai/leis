@@ -1,5 +1,3 @@
-###DEC-095259-0-000-19-11-1987@@@
-
 DECRETO N° 95.259, DE 19 DE NOVEMBRO DE 1987
 
 Renova a concessão outorgada à RÁDIO PORTO FELIZ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Mondaí, Estado de Santa Catarina.

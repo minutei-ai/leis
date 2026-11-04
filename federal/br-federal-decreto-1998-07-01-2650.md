@@ -1,5 +1,3 @@
-###DEC-002650-0-000-01-07-1998@@@
-
 DECRETO Nº 2.650, DE 1º DE JULHO DE 1998
 
 Dispõe sobre a execução do Vigésimo Quarto Protocolo Adicional ao Acordo Comercial nº 18, Setor da Indústria Fotográfica, entre Brasil, Argentina, Uruguai e Venezuela, de 23 de dezembro de 1996.

@@ -1,5 +1,3 @@
-###DEC-078994-0-000-22-12-1976@@@
-
 DECRETO Nº 78.994, 22 DE DEZEMBRO DE 1976.
 
 Aprova alteração do artigo 6º dos Estatutos da EMBRAER - Empresa Brasileira de Aeronáutica Sociedade Anônima.

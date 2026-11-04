@@ -1,5 +1,3 @@
-###DEC-046528-0-000-29-07-1959@@@
-
 DECRETO Nº 46.528, DE 29 DE JUlHO DE 1959.
 
 Transfere sem aumento de despesa função da Tabela Única de Extranumerário Mensalista do Ministério da Agricultura, para idêntica tabela do Ministério da Fazenda.

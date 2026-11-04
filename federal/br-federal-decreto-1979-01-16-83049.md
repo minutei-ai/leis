@@ -1,5 +1,3 @@
-###DEC-083049-0-000-16-01-1979@@@
-
 decreto nº 83.049, de 16 de Janeiro de 1979
 
 Renova por 15 (quinze) anos a concessão outorgada à Sociedade Rádio Emissora Paranaense Ltda., atualmente denominada Sociedade Rádio Emissora Paranaense S.A. para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Curitiba, Estado do Paraná.

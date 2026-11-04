@@ -1,5 +1,3 @@
-###DEC-066236-0-000-19-02-1970@@@
-
 Decreto nº 66.236 - de 19 de fevereiro de 1970
 
 Retifica o enquadramento do pessoal do Departamento de Imprensa Nacional, na aparte referente às Classes de Atendente e Enfermeiro Auxiliar e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003506-0-000-14-08-1941@@@
-
 DECRETO-LEI N. 3.506 – DE 14 DE AGOSTO DE 1941
 
 Autoriza o Prefeito do Distrito Federal n, vender ao Sindicato dos Contabilistas do Rio de Janeiro o imóvel que menciona.

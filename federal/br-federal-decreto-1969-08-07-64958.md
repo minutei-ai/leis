@@ -1,5 +1,3 @@
-###DEC-064958-0-000-07-08-1969@@@
-
 decreto nº 64.958 - de 7 de agôsto de 1969.
 
 Concede à Magnesita S A. o direito de lavrar areia quartzosa, no município de Bom Jesus do Amparo, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-060208-0-000-13-02-1967@@@
-
 DECRETO Nº 60.208, DE 13 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública o “Instituto Leonardo Murialdo”, com sede em Caxias do Sul, Estado do Rio Grande do Sul.

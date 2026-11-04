@@ -1,5 +1,3 @@
-###DEC-051464-0-000-14-05-1962@@@
-
 DECRETO Nº 51.464, DE 14 DE MAIO DE 1962.
 
 Altera o Quadro Extraordinário de Pessoal da Universidade do Brasil.

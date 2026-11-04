@@ -1,5 +1,3 @@
-###DEL-004568-0-000-12-08-1942@@@
-
 DECRETO-LEI N. 4.568 – DE 12 DE AGOSTO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 2.000:000$0, para lavra de jazida de carvão mineral no Rio Grande do Sul

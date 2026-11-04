@@ -1,5 +1,3 @@
-###DEC-058709-0-000-24-06-1966@@@
-
 decreto nº 58.709, de 24 de junho de 1966.
 
 Declara de utilidade pública o Liceu Coração de Jesus, com sede em São Paulo, Estado de São Paulo.

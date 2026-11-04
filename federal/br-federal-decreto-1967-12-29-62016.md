@@ -1,5 +1,3 @@
-###DEC-062016-0-000-29-12-1967@@@
-
 DECRETO Nº 62.016, DE 29 DE DEZEMBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Senhora Eduarda Eulina de Araujo Oliveira no distrito de Sabinópolis, município de Sabinópolis, Estado de Minas Gerais e outorga concessão à Centrais Elétricas de Minas Gerais S.A. - CEMIG no município de Sabinópolis, Estado de Minas Gerais e dá outras providências.

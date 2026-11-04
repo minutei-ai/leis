@@ -1,5 +1,3 @@
-###DEC-056523-0-000-29-06-1965@@@
-
 DECRETO Nº 56.523, DE 29 DE JUNHO DE 1965.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a modificar seu sistema de transmissão.

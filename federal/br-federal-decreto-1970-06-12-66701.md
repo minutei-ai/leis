@@ -1,5 +1,3 @@
-###DEC-066701-0-000-12-06-1970@@@
-
 DECRETO Nº 66.701, DE 12 DE JUNHO DE 1970.
 
 Concede à Mineração da Amazônia, Comércio e Indústria S.A., "MACISA", o direito de lavrar cassiterita, no município de Pôrto Velho, no Território de Rondônia.

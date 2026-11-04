@@ -1,5 +1,3 @@
-###DEL-004359-0-000-05-06-1942@@@
-
 DECRETO-LEI N. 4.359 – DE 5 DE JUNHO DE 1942
 
 Organiza a Farmácia Central do Exército, com sede na Capital Federal

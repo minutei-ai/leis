@@ -1,5 +1,3 @@
-###DEC-060823-0-000-07-06-1967@@@
-
 Decreto nº 60.823, de 7 de junho de 1967.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, necessários ao Ministério do Exército.

@@ -1,5 +1,3 @@
-###DEC-069777-0-000-14-12-1971@@@
-
 DECRETO Nº 69.777 - DE 14 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública o Instituto Cristo Rei, com sede em Várzea Grande, Estado de Mato Grosso.

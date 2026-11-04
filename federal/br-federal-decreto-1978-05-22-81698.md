@@ -1,5 +1,3 @@
-###DEC-081698-0-000-22-05-1978@@@
-
 Decreto nº 81.698, de 22 de maio de 1978.
 
 Cancela a autorização para funcionar na República Federativa do Brasil, concedida à Sociedade DOROTY GRAY INC.

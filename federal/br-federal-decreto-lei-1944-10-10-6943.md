@@ -1,5 +1,3 @@
-###DEL-006943-0-000-10-10-1944@@@
-
 DECRETO-LEI N. 6.943 – DE 10 DE OUTUBRO DE 1944
 
 Dispõe sôbre o registro da despesa reIativa a pensões civis e militares, e dá outras previdências

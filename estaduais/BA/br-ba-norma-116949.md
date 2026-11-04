@@ -2,11 +2,16 @@ LEI Nº 4.384 DE 06 DE DEZEMBRO DE 1984
 
 Cria o Instituto Pedro Ribeiro, de Administração Judiciária, e dá outras providências.
 
-Ver também:<br>
-Lei nº 11.918, de 16 de junho de 2010 - Dispõe sobre a extinção do Instituto Pedro Ribeiro de Administração Judiciária ? IPRAJ e a reestruturação administrativa dos serviços auxiliares do Tribunal de Justiça do Estado da Bahia e dá outras providências.<br>
-Art. 2º da Lei nº 9.652, de 09 de setembro de 2005: "Art. 2º - Ficam criados no Instituto Pedro Ribeiro de Administração Judiciária - IPRAJ, 01 (um) cargo em comissão de Coordenador de Licitação, símbolo IPFC-2, e 02 (dois) cargos de Assistente de Licitação, símbolo IPFC-3.<br>
-Parágrafo único - Fica extinto, o cargo em comissão de Presidente da Comissão Permanente de Licitação, símbolo IP-FC 3, no Instituto de que trata o caput deste artigo."<br>
-Arts. 2º e 3º da Lei nº 7.031, de 06 de fevereiro de 1997: "Art. 2º - Ficam extintos do quadro de cargos em comissão 3 (três) de Gerente, símbolo DAS-5, 16 (dezesseis) de Supervisor, símbolo DAS-4 e 3 (três) de Supervisor de Núcleo Regional, símbolo DAS-3.<br>
+Ver também:
+
+Lei nº 11.918, de 16 de junho de 2010 - Dispõe sobre a extinção do Instituto Pedro Ribeiro de Administração Judiciária ? IPRAJ e a reestruturação administrativa dos serviços auxiliares do Tribunal de Justiça do Estado da Bahia e dá outras providências.
+
+Art. 2º da Lei nº 9.652, de 09 de setembro de 2005: "Art. 2º - Ficam criados no Instituto Pedro Ribeiro de Administração Judiciária - IPRAJ, 01 (um) cargo em comissão de Coordenador de Licitação, símbolo IPFC-2, e 02 (dois) cargos de Assistente de Licitação, símbolo IPFC-3.
+
+Parágrafo único - Fica extinto, o cargo em comissão de Presidente da Comissão Permanente de Licitação, símbolo IP-FC 3, no Instituto de que trata o caput deste artigo."
+
+Arts. 2º e 3º da Lei nº 7.031, de 06 de fevereiro de 1997: "Art. 2º - Ficam extintos do quadro de cargos em comissão 3 (três) de Gerente, símbolo DAS-5, 16 (dezesseis) de Supervisor, símbolo DAS-4 e 3 (três) de Supervisor de Núcleo Regional, símbolo DAS-3.
+
 Art. 3º - Os cargos em comissão do IPRAJ são os constantes do Anexo Único a esta Lei, observadas as exigências legais."
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -21,7 +26,8 @@ Art. 3º - Para a consecução de sua finalidade, o IPRAJ poderá celebrar conv�
 
 Art. 4º - O Instituto Pedro Ribeiro, de Administração Judiciária - IPRAJ terá a seguinte estrutura básica:
 
-Redação do art. 4º de acordo com o art. 1º da Lei nº 7.031, de 06 de fevereiro de 1997.<br>
+Redação do art. 4º de acordo com o art. 1º da Lei nº 7.031, de 06 de fevereiro de 1997.
+
 Redação original : "Art. 4º - O IPRAJ terá a seguinte estrutura básica:"
 
 I - Conselho de Administração
@@ -30,22 +36,26 @@ II - Superintendência.
 
 § 1º - A composição e a competência do Conselho de Administração serão definidas no regimento da autarquia, a ser atualizado e aprovado pelo chefe do Poder Judiciário, e em seu próprio regimento interno.
 
-Redação do § 1º do art. 4º de acordo com o art. 1º da Lei nº 7.031, de 06 de fevereiro de 1997.<br>
+Redação do § 1º do art. 4º de acordo com o art. 1º da Lei nº 7.031, de 06 de fevereiro de 1997.
+
 Redação original : "§ 1º - A composição e competência do Conselho de Administração, bem como a organização e as atividades da Superintendência, serão estabelecidas no regimento da autarquia, a ser aprovado pelo Chefe dos Poder judiciário."
 
 § 2º - Os membros do Conselho de Administração e respectivos suplentes serão nomeados pelo chefe do Poder Judiciário.
 
-Redação do § 2º do art. 4º de acordo com o art. 1º da Lei nº 7.031, de 06 de fevereiro de 1997.<br>
+Redação do § 2º do art. 4º de acordo com o art. 1º da Lei nº 7.031, de 06 de fevereiro de 1997.
+
 Redação original : "§ 2º - Enquanto não se constituir o Conselho de Administração, as atividades de orientação e deliberação superior serão exercidas pelo Diretor - Superintendente."
 
 § 3º - Os membros do Conselho de Administração receberão, por sessão a que comparecerem, até o limite de duas por mês, gratificação no valor correspondente a, até, l0% (dez por cento) da verba de representação percebida pelo dirigente do colegíado, a qual não poderá exceder ao valor básico atribuído ao símbolo IP-FC 1, do Diretor-Superintendente.
 
-Redação do § 3º do art. 4º de acordo com o art. 1º da Lei nº 7.031, de 06 de fevereiro de 1997.<br>
+Redação do § 3º do art. 4º de acordo com o art. 1º da Lei nº 7.031, de 06 de fevereiro de 1997.
+
 Redação original : "§ 3º - Os membros do Conselho de Administração, bem como os respectivos suplentes, serão nomeados pelo Chefe do Poder Judiciário."
 
 § 4º - A Superintendência, composta pelo conjunto dos órgãos de assessoramento, coordenação, controle e execução, será dirigida pelo Diretor-Superintendente, nomeado, em comissão, pelo chefe do Poder Judiciário, devendo sua organização e competências serem estabelecidos no regimento da autarquia.
 
-Redação do § 4º do art. 4º de acordo com o art. 1º da Lei nº 7.031, de 06 de fevereiro de 1997.<br>
+Redação do § 4º do art. 4º de acordo com o art. 1º da Lei nº 7.031, de 06 de fevereiro de 1997.
+
 Redação original : "§ 4º - Os membros do Conselho de Administração perceberão gratificação por sessão a que comparecem, mensalmente, até o limite de duas, no valor de duas vezes o salário referência vigente no Estado."
 
 § 5º - A Superintendência terá a seguinte estrutura:
@@ -108,7 +118,8 @@ Art. 7º - O IPRAJ disporá de quadro de pessoal criado por Lei e submetido ao r
 
 Art. 8º - Fica criado o Fundo de Aparelhamento Judiciário (FAJ), com o objetivo de prover recursos para o reequipamento material dos serviços da Justiça do Estado, podendo o Presidente do Tribunal de Justiça destinar parte desses recursos para melhoria da remuneração de todos os servidores do Poder Judiciário".
 
-Redação do art. 8º de acordo com o art. 3º da Lei nº 6.955, de 05 de dezembro de 1996.<br>
+Redação do art. 8º de acordo com o art. 3º da Lei nº 6.955, de 05 de dezembro de 1996.
+
 Redação original: "Art. 8º - Fica criado o Fundo de Aparelhamento Judiciário (FAJ), com o objetivo de prover recursos para o reequipamento material dos serviços da Justiça do Estado."
 
 Parágrafo único - Os recursos do fundo somente poderão ser utilizados em despesas de capital.

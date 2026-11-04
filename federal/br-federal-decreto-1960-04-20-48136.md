@@ -1,5 +1,3 @@
-###DEC-048136-0-000-20-04-1960@@@
-
 DECRETO Nº 48.136, DE 20 DE ABRIL DE 1960.
 
 Concede indulto a todos os sentenciados na forma que menciona.

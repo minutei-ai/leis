@@ -1,7 +1,3 @@
-1
-
-###DEC-001413-0-000-07-03-1995@@@
-
 DECRETO Nº 1.413, DE 7 DE MARÇO DE 1995
 
 Dispõe sobre documentos e procedimentos para despacho de aeronave em serviço internacional.

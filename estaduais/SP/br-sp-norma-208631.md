@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208631)<br>
-
 # LEI N° 17.786, DE 06 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 935/2019, da Deputada Monica Seixas do Movimento Pretas - PSOL)

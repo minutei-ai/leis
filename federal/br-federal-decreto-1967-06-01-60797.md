@@ -1,5 +1,3 @@
-###DEC-060797-0-000-01-06-1967@@@
-
 decreto nº 60.797, de 1 de junho de 1967.
 
 Dá nova redação a dispositivos do Decreto nº 60.304, de 6 de março de 1967, que regulamentou o Capítulo III do Título IV do Decreto-lei número 32, de 18 de novembro de 1966 - Código Brasileiro do Ar (Da Zona de Proteção aos Aeródromos).

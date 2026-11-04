@@ -1,5 +1,3 @@
-###DEC-076317-0-000-19-09-1975@@@
-
 DECRETO Nº 76.317 - DE 19 DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Teatro da Escola de Teatro, da Federação das Escolas Federais Isoladas do Estado da  Guanabara - FEFIEG, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

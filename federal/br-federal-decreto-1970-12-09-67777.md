@@ -1,5 +1,3 @@
-###DEC-067777-0-000-09-12-1970@@@
-
 DECRETO Nº 67.777, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 10.578 de 7 de outubro de 1942.

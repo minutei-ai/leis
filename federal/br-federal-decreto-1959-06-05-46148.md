@@ -1,5 +1,3 @@
-###DEC-046148-0-000-05-06-1959@@@
-
 DECRETO Nº 46.148, DE 5 DE JUNHO DE 1959.
 
 Renova o Decreto nº 40.095, de 9 de outubro de 1956.

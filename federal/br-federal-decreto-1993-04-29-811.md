@@ -1,7 +1,3 @@
-1
-
-###DEC-000811-0-000-29-04-1993@@@
-
 DECRETO Nº 811, DE 29 DE ABRIL DE 1993
 
 Altera o Decreto nº 787, de 30 de março de 1993, que institui regime especial de preço para os consumidores de Gás Liqüefeito de Petróleo definidos como de baixa renda.

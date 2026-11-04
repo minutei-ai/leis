@@ -1,5 +1,3 @@
-###DEC-004953-0-000-14-01-2004@@@
-
 DECRETO Nº 4.953,  DE 14 DE JANEIRO DE 2004.
 
 Revoga o Decreto no 55.292, de 29 de dezembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-064454-0-000-05-05-1969@@@
-
 DECRETO Nº 64.454, DE 5 DE MAIO DE 1969.
 
 Declara a utilidade pública a Sociedade Hospitalar Santo Antônio e Maternidade Zenaide Bertaso, com sede em Chapecó, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-045263-0-000-16-01-1959@@@
-
 decreta nº 45.263, de 16 de janeiro de 1959.
 
 Concede autorização para o funcionamento de cursos da Faculdade de Filosofia, Ciências e Letras de Assis.

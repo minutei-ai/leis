@@ -1,5 +1,3 @@
-###DEL-007171-0-000-19-12-1944@@@
-
 DECRETO-LEI N. 7.171 – DE 19 DE DEZEMBRO DE 1944
 
 Dispõe sôbre o pessoal da Caixa Econômica Federal de Minas Gerais

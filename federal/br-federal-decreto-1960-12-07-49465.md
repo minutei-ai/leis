@@ -1,5 +1,3 @@
-###DEC-049465-0-000-07-12-1960@@@
-
 DECRETO Nº 49.465, DE 7 DE dezembro DE 1960.
 
 Transfere, com o respectivo ocupante, uma função da Tabela União de Extranumerário Mensalista da lotação da Administração do Edifício do Ministério da fazenda, para a Alfândega do rio de Janeiro.

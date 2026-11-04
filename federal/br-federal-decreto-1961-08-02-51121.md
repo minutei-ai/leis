@@ -1,5 +1,3 @@
-###DEC-051121-0-000-02-08-1961@@@
-
 DECRETO Nº 51.121, DE 2 DE AGÔSTO DE 1961.
 
 Concede à sociedade anônima F. Stevenson & Company Limited autorização para continuar a funcionar na República.

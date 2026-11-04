@@ -1,5 +1,3 @@
-###DEL-004372-0-000-10-06-1942@@@
-
 DECRETO-LEI N. 4.372 – DE 10 DE JUNHO DE 1942
 
 Autoriza a criação do Município de Balisa, no Estado da Goiaz

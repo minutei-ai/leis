@@ -1,5 +1,3 @@
-###DEC-047841-0-000-05-03-1960@@@
-
 DECRETO Nº 47.841, DE 05 DE MARÇO DE 1960.
 
 Transfere função da Tabela Numérica Especial de Estranumerário mensalista da Escola de Especialistas de Aeronáutica para a do Hospital de Aeronáutica do Galeão.

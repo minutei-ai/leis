@@ -1,5 +1,3 @@
-###DEC-054442-0-000-13-10-1964@@@
-
 Decreto nº 54.442, de 13 de outubro de 1964.
 
 Autoriza no cidadão brasileiro José Louza Netto a pesquisar manganês, no município de Canumã, Estado do Amazonas.

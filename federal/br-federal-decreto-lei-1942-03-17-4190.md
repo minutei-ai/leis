@@ -1,5 +1,3 @@
-###DEL-004190-0-000-17-03-1942@@@
-
 DECRETO-LEI N. 4.190 – DE 17 DE MARÇO DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 2:160$0, para pagamento de gratificação adicional.

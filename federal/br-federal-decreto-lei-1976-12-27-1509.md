@@ -1,5 +1,3 @@
-###DEL-001509-0-000-27-12-1976@@@
-
 # DECRETO-LEI Nº 1.509, DE 27 DE DEZEMBRO DE 1976
 
 Altera dispositivo do Decreto-lei nº 1.189, de 24 de setembro da 1971, que dispõe sobre incentivos à exportação de produtos manufaturados.

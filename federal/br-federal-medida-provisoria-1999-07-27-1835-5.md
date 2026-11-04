@@ -1,5 +1,3 @@
-###MPV-001835-0-005-27-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.835-5,      DE 27 DE JULHO DE 1999.
 
 Estabelece normas para registro do resultado líquido negativo decorrente do ajuste dos valores em reais de obrigações e créditos, e dá outras providências.

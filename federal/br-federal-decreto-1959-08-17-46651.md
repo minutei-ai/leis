@@ -1,5 +1,3 @@
-###DEC-046651-0-000-17-08-1959@@@
-
 DECRETO Nº 46.651, de 17 de agôsto de 1959.
 
 Autoriza o cidadão brasileiro Sebastião Matias de Souza a pesquisar mica no município de Governador Valadares, Estado de Minas Gerais.

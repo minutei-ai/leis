@@ -1,5 +1,3 @@
-###DEC-045705-0-000-03-04-1959@@@
-
 decreto nº 45.705, de 3 de abril de 1959.
 
 Autoriza o cidadão brasileiro Homero de Oliveira Júlio a pesquisar mica e pedras coradas no município de Santa Maria do Suaçuí, Estado de Minas Gerais.

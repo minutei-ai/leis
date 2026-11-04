@@ -1,5 +1,3 @@
-###DEC-003052-0-000-07-05-1999@@@
-
 DECRETO Nº 3.052, DE 7 DE MAIO DE 1999.
 
 Revoga o Decreto que menciona.

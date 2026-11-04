@@ -1,5 +1,3 @@
-###DEC-079206-0-000-04-02-1977@@@
-
 Decreto nº 79.206, de 4 de fevereiro de 1977.
 
 Dispõe sobre a organização do Instituto Nacional de Metrologia, Normalização e Qualidade Industrial (INMETRO) e dá outras providências.

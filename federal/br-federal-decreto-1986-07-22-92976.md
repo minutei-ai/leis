@@ -1,5 +1,3 @@
-###DEC-092976-0-000-22-07-1986@@@
-
 DECRETO Nº 92.976, DE 22 DE JULHO DE 1986
 
 Dispõe sobre o acompanhamento da execução das normas que regulam contribuições destinadas ao Fundo de Liquidez da Previdência Social.

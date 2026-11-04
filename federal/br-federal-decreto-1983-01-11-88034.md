@@ -1,5 +1,3 @@
-###DEC-088034-0-000-11-01-1983@@@
-
 decreto nº 88.034, de 11 de janeiro de 1983
 
 Concede autorização ao navio norte-americano "OCEANUS" para realizar em águas brasileiras os serviços que especifica.

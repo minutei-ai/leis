@@ -1,5 +1,3 @@
-###DEC-073081-0-000-05-11-1973@@@
-
 DECRETO Nº 73.081 - DE 5 DE NOVEMBRO DE 1973
 
 Aprova o plano de restruturação da Universidade Federal de Pernambuco, Recife, Estado de Pernambuco.

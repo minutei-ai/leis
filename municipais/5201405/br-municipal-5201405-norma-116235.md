@@ -14,5 +14,6 @@ Art. 4º - Revogadas as disposições em contrário, esta Lei entra em vigor na 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 21 de dezembro de 2020.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal

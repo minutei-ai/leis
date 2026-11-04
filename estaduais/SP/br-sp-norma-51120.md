@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51120)
-
 # LEI Nº 11.740, DE 03 DE JUNHO DE 2004
 
 ## (PL 968/2003 - Edmir Chedid)
@@ -28,17 +26,12 @@ Secretário-Chefe da Casa Civil
 
 Publicada na Assessoria Técnico-Legislativa, aos 3 de junho de 2004.
 
-<br>
-
 #### Retificação - [LEI Nº 11.740, DE 3 DE JUNHO DE 2004](https://www.al.sp.gov.br/norma/51120)
-
-<br>
 
 (Projeto de lei nº 968/2003, do deputado Edmir Chedid - PPS)
 
-<br>
+**Retificação** do D.O. de 4-6-2004
 
-**Retificação** do D.O. de 4-6-2004<br>
 Leia-se como segue e não como constou:
 
 MAURO BRAGATO

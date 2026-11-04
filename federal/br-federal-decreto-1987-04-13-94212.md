@@ -1,5 +1,3 @@
-###DEC-094212-0-000-13-04-1987@@@
-
 DECRETO Nº 94.212, DE 13 DE ABRIL DE 1987
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA, a doar o imóvel que menciona.

@@ -1,5 +1,3 @@
-###DEC-089462-0-000-20-03-1984@@@
-
 Decreto nº 89.462, de 20 de março de 1984
 
 Autoriza o funcionamento do curso de Engenharia Florestal da Escola Superior de Agricultura de Lavras.

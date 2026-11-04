@@ -1,5 +1,3 @@
-###DEC-051848-0-000-18-03-1963@@@
-
 DECRETO Nº 51.848, DE 18 DE MARÇO DE 1963.
 
 Declara de utilidade pública, para efeito de desapropriação, a faixa de terrenos necessária à linha de transmissão Glória - Rodelas - Barra do Tarrachil no Estado da Bahia.

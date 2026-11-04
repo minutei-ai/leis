@@ -27,7 +27,6 @@ sha256_markdown: "e5ace5ab4dfab2968583dc97c497a56e68f3cb3b3c537f0bef1c891e47c938
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 87, DE 16 DE ABRIL DE 2015
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
-> Este texto não substitui o publicado no DOU de 17.4.2015
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2015-04-16-87.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -130,8 +128,4 @@ Senador ZEZE PERRELLA 2º - Secretário
 
 Senador GLADSON CAMELI 3º - Secretário
 
-Senadora ÂNGELA PORTELA 4ª - Secretária
-
-Este texto não substitui o publicado no DOU 17.4.2015
-
-\*
+Senadora ÂNGELA PORTELA 4ª - Secretária\*

@@ -1,5 +1,3 @@
-###DEL-009727-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.727 – DE 3 DE SETEMBRO DE 1946
 
 Incorpora bens ao patrimônio nacional e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-051119-0-000-02-08-1961@@@
-
 DECRETO Nº 51.119, DE 2 DE AGÔSTO DE 1961.
 
 Outorga à Comissão Estadual de Energia Elétrica ao Estado do Rio Grande do Sul concessão para distribuir energia elétrica no município de Rolante e dá outras providências.

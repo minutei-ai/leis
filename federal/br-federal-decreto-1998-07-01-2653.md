@@ -1,5 +1,3 @@
-###DEC-002653-0-000-01-07-1998@@@
-
 DECRETO Nº 2.653, DE 1º DE JULHO DE 1998
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Boa Vista Energia S.A.

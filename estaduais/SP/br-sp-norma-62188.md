@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62188)
-
 # LEI Nº 12.381, DE 10 DE MAIO DE 2006
 
 ## (Projeto de lei nº 840/2005, do Deputado Vitor Sapienza - PPS)

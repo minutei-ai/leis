@@ -1,5 +1,3 @@
-###DEC-050166-0-000-28-01-1961@@@
-
 DECRETO Nº 50.166, DE 28 DE JANEIRO DE 1961.
 
 Concede reconhecimento a curso.

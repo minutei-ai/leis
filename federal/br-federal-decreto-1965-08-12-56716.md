@@ -1,5 +1,3 @@
-###DEC-056716-0-000-12-08-1965@@@
-
 DECRETO Nº 56.716, DE 12 DE AGôSTO DE 1965.
 
 Cria a Representação da Diretoria do Ensino Secundário, do Ministério da Educação e Cultura, na cidade de Rio Branco, Estado do Acre.

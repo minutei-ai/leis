@@ -1,5 +1,3 @@
-###DEC-069145-0-000-31-08-1971@@@
-
 DECRETO Nº 69.145, de 31 de agÔsto de 1971.
 
 Declara de utilidade pública a Associação Hospital de Caridade, com sede em Ijuí, Estado do Rio Grande do Sul.

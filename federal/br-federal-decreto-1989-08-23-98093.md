@@ -1,7 +1,3 @@
-1
-
-###DEC-098093-0-000-23-08-1989@@@
-
 DECRETO N° 98.093, DE 23 DE AGOSTO DE 1989
 
 Autoriza o CITIBANK N.A. a instalar uma filial no Brasil.

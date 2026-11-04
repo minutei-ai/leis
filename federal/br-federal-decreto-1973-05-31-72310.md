@@ -1,5 +1,3 @@
-###DEC-072310-0-000-31-05-1973@@@
-
 DECRETO Nº 72.310, DE 31 DE MAIO DE 1973.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Itapetininga, mantida pela Associação de Ensino de Itapetininga, Itapetininga, Estado de São Paulo.

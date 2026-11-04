@@ -1,5 +1,3 @@
-###DEC-059154-0-000-01-09-1966@@@
-
 Decreto nº 59.154, de 1º de setembro de 1966.
 
 Autoriza o cidadão brasileiro Antônio Rodrigues da Cunha a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

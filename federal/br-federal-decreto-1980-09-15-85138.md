@@ -1,5 +1,3 @@
-###DEC-085138-0-000-15-09-1980@@@
-
 Decreto nº 85.138, de 15 de setembro de 1980
 
 Regulamenta a Lei nº 6.664, de 26 de junho de 1979, que disciplina a profissão de Geógrafo, e dá outras providências.

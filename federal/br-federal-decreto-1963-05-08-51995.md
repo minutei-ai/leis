@@ -1,5 +1,3 @@
-###DEC-051995-0-000-08-05-1963@@@
-
 DECRETO Nº 51.995, de 8 de maio de 1963.
 
 Eleva à categoria de Consulado-Geral o Consulado do Brasil em Havre.

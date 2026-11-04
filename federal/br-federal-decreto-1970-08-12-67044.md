@@ -1,5 +1,3 @@
-###DEC-067044-0-000-12-08-1970@@@
-
 DECRETO Nº 67.044, DE 12 DE AGÔSTO DE 1970.
 
 Revalida a autorização para a filiação do Sindicato dos Trabalhadores em Emprêsas Telefônicas no Estado de São Paulo à Internacional de Correios, Telégrafos e Telefones (ICTT).

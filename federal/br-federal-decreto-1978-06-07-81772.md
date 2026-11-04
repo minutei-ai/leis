@@ -1,5 +1,3 @@
-###DEC-081772-0-000-07-06-1978@@@
-
 Decreto nº 81.772, de 07 de junho de 1978.
 
 Autoriza o aterro de área em mar e a cessão, sob regime de aforamento, de terreno que menciona, situado no Município de Simões Filho, Estado da Bahia.

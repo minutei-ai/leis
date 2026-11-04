@@ -1,5 +1,3 @@
-###DEC-045375-0-000-03-02-1959@@@
-
 DECRETO Nº 45.375, DE 3 DE FEVEREIRO DE 1959.
 
 Dispõe sôbre o prazo de duração do Banco de Crédito da Amazônia S.A.

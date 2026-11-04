@@ -1,5 +1,3 @@
-###DEC-060179-0-000-03-02-1967@@@
-
 DECRETO Nº 60.179, DE 3 DE FEVEREIRO DE 1967.
 
 Autoriza o cidadão brasileiro Danuncio Fidelis Nardin a pesquisar bauxita no município de Lages, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###MPV-001702-0-029-28-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.702-29, DE 28 DE SETEMBRO DE 1998
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

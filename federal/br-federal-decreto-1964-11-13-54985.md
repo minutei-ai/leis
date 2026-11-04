@@ -1,5 +1,3 @@
-###DEC-054985-0-000-13-11-1964@@@
-
 DECRETO Nº 54.985, DE 13 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Graciliano Teles dos Santos, a pesquisar calcário, no município de Itambacuri, Estado de Minas Gerais.

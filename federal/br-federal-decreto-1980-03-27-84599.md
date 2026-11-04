@@ -1,5 +1,3 @@
-###DEC-084599-0-000-27-03-1980@@@
-
 Decreto nº 84.599, de 27 de março de 1980.
 
 Altera dispositivos do Decreto nº 84.346, de 27 de dezembro de 1979.
@@ -25,8 +23,6 @@ Brasília, 27 de março de 1980; 159º da Independência e 92º da República.
 JOÃO FIGUEIREDO
 
 Ernane Galvêas
-
-###DEC-084599-0-000-27-03-1980@@@RET01+++
 
 DECRETO Nº 84.599, DE 27 DE MARÇO DE 1980.
 

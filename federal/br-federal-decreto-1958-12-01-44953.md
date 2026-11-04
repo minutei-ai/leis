@@ -1,5 +1,3 @@
-###DEC-044953-0-000-01-12-1958@@@
-
 decreto n° 44.953, de 1 de dezembro de 1958.
 
 Autoriza o cidadão brasileiro Agezilau Sousa de Araujo a pesquisar ilmenita e associados, no município de Japoatã, Estado de Sergipe.

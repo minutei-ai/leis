@@ -1,5 +1,3 @@
-###DEC-064314-0-000-07-04-1969@@@
-
 DECRETO Nº 64.314, DE 7 DE ABRIL DE 1969.
 
 Concede a Magnesita S.A. o direito de lavrar argila, no município de Esmeraldas, Estado de Minas Gerais.

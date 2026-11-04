@@ -8,16 +8,20 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFE
 
 Art. 1º - O capitulo XI, do titulo III, DA Lei Municipal nº 792, de 07 de dezembro de 1988, código de posturas, fica acrescido das seções I, II, e III, suprimindo-se o seu Capitulo XII, passando a vigorar, os dispositivos enumerados, com a redação dada por esta Lei.
 
-CAPITULO XI<br>
+CAPITULO XI
+
 DO MEIO AMBIENTE
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA EXPLORAÇÃO DE PEDREIRAS, BARREIRAS, SAIBREIRAS, OLARIAS E EXTRAÇÃO DE AREIA.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA EXTRAÇÃO E DOS DEPOSITOS DE AREIA E DA EXPLORAÇÃO DE OLARIAS
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA COBERTURA VEGETAL NATURAL
 
 Art.389. Sem prejuízo do dispositivo na Lei Estadual nº 12.596, de 14 de março de 1995 e demais prescrições previstas na legislação federal, serão consideradas áreas de preservação permanentes, em todo o território do município, as florestas e demais formas de vegetação natural situadas:
@@ -142,11 +146,14 @@ Art.6º - Os casos omissos no código de Posturas, Lei Municipal nº 792, de 7 d
 
 Art.7º - Esta Lei entrara em vigor na data de sua publicação. Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e oito dias do mês de dezembro de dois mil e um.onze dias do mês de dezembro de dois mil e um.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-JORIO COELHO RIOS<br>
+JORIO COELHO RIOS
+
 SEC.DE AÇÃO URBANA E MEIO AMBIENTE

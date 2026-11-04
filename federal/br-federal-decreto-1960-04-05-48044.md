@@ -1,5 +1,3 @@
-###DEC-048044-0-000-05-04-1960@@@
-
 DECRETO Nº 48.044, de 5 de abril de 1960.
 
 Transfere, da Prefeitura Municipal de Congonhas para a Centrais Elétricas de Minas Gerais S.A., a concessão para distribuir energia elétrica no município de Congonhas, Estado de Minas Gerais, e dá outras providências.

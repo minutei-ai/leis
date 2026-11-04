@@ -54,5 +54,6 @@ José Mendonça Bezerra Filho
 
 Dyogo Henrique de Oliveira
 
-<<ANEXOS>><br>
+<<ANEXOS>>
+
 <<TABELAS>>

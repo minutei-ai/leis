@@ -1,5 +1,3 @@
-###DEL-005649-0-000-05-07-1943@@@
-
 DECRETO‑LEI N. 5.649 – DE 5 DE JULHO De 1943
 
 Eleva o padrão de vencimentos de cargo do Quadro Suplementar do Minis­tério da Agricultura e dá outras providências

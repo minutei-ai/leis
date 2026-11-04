@@ -1,5 +1,3 @@
-###DEC-047682-0-000-20-01-1960@@@
-
 DECRETO Nº 47.682, DE 20 DE JANEIRO DE 1960.
 
 Aprova alterações introduzidas no Estatutos, inclusive aumento do capital de responsabilidade da L’Union Compagnie D’Assegurances Contre L’Incendie les Accidents et Risques Divers.

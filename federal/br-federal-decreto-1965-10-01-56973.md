@@ -1,5 +1,3 @@
-###DEC-056973-0-000-01-10-1965@@@
-
 DECRETO Nº 56.973, DE 1 DE OUTUBRO DE 1965.
 
 Declara de utilidade pública a Associação Congregação de Santa Catarina, com sede em Novo Hamburgo, Estado do Rio Grande do Sul.

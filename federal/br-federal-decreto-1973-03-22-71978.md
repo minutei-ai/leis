@@ -1,5 +1,3 @@
-###DEC-071978-0-000-22-03-1973@@@
-
 DECRETO Nº 71.978, DE 22 DE MARÇO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão uma faixa de terra destinada à passagem de linha de transmissão entre as subestações de Araucária e Barigui, no Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-005262-0-000-03-11-2004@@@
-
 DECRETO Nº 5.262 DE 3 DE NOVEMBRO DE 2004
 
 Delega competência ao Ministro de Estado da Educação para designar os membros da Comissão Nacional de Avaliação da Educação Superior - CONAES.

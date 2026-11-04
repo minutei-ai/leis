@@ -1,5 +1,3 @@
-###DEC-080798-0-000-22-11-1977@@@
-
 DECRETO Nº 80.798, DE 22 DE NOVEMBRO DE 1977
 
 Concede reconhecimento ao curso de Letras, do Instituto de Letras da Universidade Federal do Rio Grande do Sul, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

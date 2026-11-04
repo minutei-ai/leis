@@ -1,5 +1,3 @@
-###DEC-068291-0-000-26-02-1971@@@
-
 DECRETO Nº 68.291, DE 26 DE FEVEREIRO DE 1971.
 
 Declara sem efeito o Decreto número 55.374, de 31 de dezembro de 1964.

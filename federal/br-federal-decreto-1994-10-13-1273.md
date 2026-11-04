@@ -1,7 +1,3 @@
-1
-
-###DEC-001273-0-000-13-10-1994@@@
-
 DECRETO Nº 1.273, DE 13 DE OUTUBRO DE 1994
 
 Altera dispositivos do Estatuto da Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior CAPES, aprovado pelo Decreto nº 524, de 19 de maio de 1992.

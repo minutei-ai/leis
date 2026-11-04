@@ -1,7 +1,3 @@
-1
-
-###DEC-098555-0-000-14-12-1989@@@
-
 DECRETO Nº 98.555, DE 14 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento dos Cursos de Letras, História e Geografia da Faculdade de Ciências e Letras de Fernandópolis.

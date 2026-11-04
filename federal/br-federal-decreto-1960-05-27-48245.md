@@ -1,5 +1,3 @@
-###DEC-048245-0-000-27-05-1960@@@
-
 DECRETO Nº 48.245, DE 27 DE MAIO DE 1960.
 
 Cria, no Departamento Federal de Segurança Pública, o Serviço de Polícia Interestadual e dá outras providências.

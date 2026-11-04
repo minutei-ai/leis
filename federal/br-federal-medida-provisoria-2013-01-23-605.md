@@ -1,5 +1,3 @@
-###MPV-000605-0-000-23-01-2013-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº\- 605, DE 23 DE JANEIRO DE 2013
 
 Altera a Lei nº 10.438, de 26 de abril de 2002, na parte em que cria a Conta de Desenvolvimento Energético e estabelece seus objetivos.

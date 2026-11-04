@@ -1,5 +1,3 @@
-###DEC-082308-0-000-25-09-1978@@@
-
 Decreto nº 82.308, de 25 de setembro de 1978.
 
 Institui o Sistema Nacional de Arquivo (SINAR)

@@ -1,5 +1,3 @@
-###DEC-050996-0-000-19-07-1961@@@
-
 DECRETO Nº 50.996, DE 19 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, de domínio do Estado da Bahia as águas do rio Preto.

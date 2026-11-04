@@ -1,6 +1,7 @@
 LEI Nº 2.937 DE 04 DE JUNHO DE 1971
 
-Ver também:<br>
+Ver também:
+
 Lei nº 3.107, de 31 de maio de 1973 - Prorroga por 2 (dois) anos a Lei nº 2.937, de 04 de julho de 1971.
 
 Autoriza o Poder Executivo a alienar bens imóveis pertencentes ao Estado.

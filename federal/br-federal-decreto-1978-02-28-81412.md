@@ -1,5 +1,3 @@
-###DEC-081412-0-000-28-02-1978@@@
-
 Decreto nº 81.412 de 28 de fevereiro de 1978.
 
 Concede reconhecimento ao curso Técnico de Nível Superior de Processamento de Dados, da Faculdade de Tecnologia de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-008949-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.949 – DE 26 DE JANEIRO DE 1946
 
 Faz doação ao Sindicato dos Médicos no Estado da Bahia do terreno que menciona.

@@ -1,5 +1,3 @@
-###DEC-079235-0-000-09-02-1977@@@
-
 deCRETO N.º 79.235, DE 9 DE FEVEREIRO DE 1977.
 
 Autoriza o  funcionamento dos cursos de Administração e de Formação de Tecnólogo em Processamento de  Dados, da Faculdade de Administração da Guanabara, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

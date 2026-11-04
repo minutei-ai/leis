@@ -1,5 +1,3 @@
-###DEL-008021-0-000-29-09-1945@@@
-
 DECRETO-LEI N. 8.021 – DE 29 de SETEMBRO De 1945
 
 Dispõe sôbre os balanços do exercício financeiro de 1944

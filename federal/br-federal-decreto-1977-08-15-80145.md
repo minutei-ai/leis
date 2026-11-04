@@ -1,5 +1,3 @@
-###DEC-080145-0-000-15-08-1977@@@
-
 DECRETO Nº 80.145, DE 15 DE AGOSTO DE 1977.
 
 Regulamento a Lei nº 6.288, de 11 de dezembro de 1975, que dispõe sobre a unitização, movimentação e transporte, inclusive intermodal, de mercadorias em unidades de carga, e dá outras providências.
@@ -503,8 +501,6 @@ J. Araripe Macedo
 Ângelo Calmon de Sá
 
 João Paulo dos Reis Velloso
-
-###DEC-080145-0-000-15-08-1977@@@RET01+++
 
 DECRETO Nº 80.145, DE 15 DE AGOSTO DE 1977.
 

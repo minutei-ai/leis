@@ -1,5 +1,3 @@
-###DEC-083097-0-000-29-01-1979@@@
-
 Decreto nº 83.097, de 29 de janeiro de 1979
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Benjamim Constant, Estado do Amazonas.

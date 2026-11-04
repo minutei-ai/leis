@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/26461)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1986/compilacao-lei-5487-30.12.1986.html)
 
 # LEI N° 5.487, DE 30 DE DEZEMBRO DE 1986

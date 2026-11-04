@@ -1,5 +1,3 @@
-###DEL-008270-0-000-03-12-1945@@@
-
 DECRETO-LEI N. 8.270 – DE 3 DE DEZEMBRO DE 1945
 
 Altera disposições do Decreto-lei número 1.212, de 17 de abril de 1939.

@@ -1,5 +1,3 @@
-###DEL-005561-0-000-09-06-1943@@@
-
 DECRETO‑LEI N. 5.561 – DE 9 DE JUNHO DE 1943
 
 Prorroga o mandato da Comissão Censitária Nacional

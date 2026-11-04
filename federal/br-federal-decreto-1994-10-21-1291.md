@@ -1,7 +1,3 @@
-1
-
-###DEC-001291-0-000-21-10-1994@@@
-
 DECRETO N° 1.291, DE 21 DE OUTUBRO DE 1994
 
 Dispõe sobre a suspensão das sanções contra a África do Sul, estabelecidas pelo Decreto n° 91.524, de 9 de agosto de 1985.

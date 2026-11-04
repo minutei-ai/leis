@@ -1,7 +1,3 @@
-1
-
-###DEC-099033-0-000-05-03-1990@@@
-
 DECRETO N° 99.033, DE 5 DE MARÇO DE 1990.
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Políticas e Econômicas do Rio de Janeiro, unidade das Faculdades Integradas Cândido Mendes.

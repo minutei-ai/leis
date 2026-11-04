@@ -1,5 +1,3 @@
-###DEC-066453-0-000-15-04-1970@@@
-
 DECRETO Nº 66.453, DE 15 DE ABRIL DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal da Superintendência Nacional da Marinha Mercante (SNAMAN) cargo integrante do Quadro de Pessoal do Ministério do Trabalho e Previdência Social.

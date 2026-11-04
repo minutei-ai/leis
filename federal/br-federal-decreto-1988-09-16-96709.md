@@ -1,5 +1,3 @@
-###DEC-096709-0-000-16-09-1988@@@
-
 DECRETO N° 96.709 DE 16 DE SETEMBRO DE 1988
 
 Concede à Petróleo Brasileiro S.A.  PETROBRÁS, autorização para construir um gasoduto destinado ao escoamento de gás natural produzido na Bacia terrestre do Espírito Santo, em faixa de terra situada em Área Indígena, e dá outras providências.

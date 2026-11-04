@@ -1,5 +1,3 @@
-###DEC-073724-0-000-04-03-1974@@@
-
 DECRETO Nº 73.724, DE 4 DE MARÇO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas, Contábeis e de Administração "Professor De Plácido e Silva", mantida pela Associação de Ensino de Ensino "Professor de Plácido e Silva", com sede na cidade de Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-056032-0-000-23-04-1965@@@
-
 DECRETO Nº 56.032, DE 23 DE ABRIL DE 1965.
 
 Autoriza a Companhia de Cimento Portland Maringá a lavrar calcário no Município de Itapeva, no Estado de São Paulo.

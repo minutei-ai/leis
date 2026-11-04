@@ -1,5 +1,3 @@
-###DEL-009163-0-000-11-04-1946@@@
-
 DECRETO-LEI N. 9.163 – DE 11 DE ABRIL DE 1946
 
 Cria o estandarte- distintivo para o Regimento Tiradentes

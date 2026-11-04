@@ -1,5 +1,3 @@
-###DEC-049600-0-000-28-12-1960@@@
-
 DECRETO Nº 49.600, DE 28 DE DEZEMBRO DE 1960.
 
 Abre, ao Ministério da Educação e Cultura o crédito especial de .Cr$15.000.000,00, para atender às despesas com as novas instalações do Colégio Pedro II - Internato.

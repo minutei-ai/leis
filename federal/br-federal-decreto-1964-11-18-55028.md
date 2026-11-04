@@ -1,5 +1,3 @@
-###DEC-055028-0-000-18-11-1964@@@
-
 DECRETO Nº 55.028, DE 18 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Arthur Ferreira Campos a lavrar minério de ferro no município de Betim, Estado de Minas Gerais.

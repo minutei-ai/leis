@@ -1,5 +1,3 @@
-###DEC-075611-0-000-15-04-1975@@@
-
 decreto nº 75.611, de 15 de abril de 1975.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do imóvel que menciona, situado no Estado do Paraná.

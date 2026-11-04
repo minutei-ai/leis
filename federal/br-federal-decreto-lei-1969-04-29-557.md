@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6d62dce2-a336-4834-96a5-fb1349bb350e/texto#nowhere)
 
-###DEL-000557-0-000-29-04-1969@@@
-
 DECRETO-LEI Nº 557, DE 29 DE ABRIL DE 1969
 
 Dispõe sôbre impôsto de exportação de café solúvel

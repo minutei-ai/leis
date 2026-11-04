@@ -1,5 +1,3 @@
-###DEC-068967-0-000-22-07-1971@@@
-
 DECRETO Nº 68.967, DE 22 DE JULHO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão no município de Tocantinópolis, Estado de Goiás.

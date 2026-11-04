@@ -1,5 +1,3 @@
-###DEC-049915-0-000-12-01-1961@@@
-
 DECRETO Nº 49.915, DE 12 DE JANEIRO DE 1961.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Companhia Hidrelétrica do Vale do Paraíba (CHEVAP).

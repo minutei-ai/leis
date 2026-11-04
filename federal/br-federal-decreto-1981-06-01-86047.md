@@ -1,5 +1,3 @@
-###DEC-086047-0-000-01-06-1981@@@
-
 Decreto nº 86.047, de 01 de junho de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S. A.- CELG, no Estado de Goiás.

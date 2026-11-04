@@ -1,5 +1,3 @@
-###DEC-056419-0-000-04-06-1965@@@
-
 DECRETO Nº 56.419, DE 4 DE JUNHO DE 1965.
 
 Cede, ao Govêrno do Estado do Ceará, pelo prazo de 5 (cinco) anos, os imóveis e instalações do Ginásio Agrícola “Capitão Plácido”, localizado em Santana do Cariri, para o fim que especifica.

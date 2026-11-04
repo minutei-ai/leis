@@ -1,5 +1,3 @@
-###DEC-081535-0-000-10-04-1978@@@
-
 Decreto nº 81.835, de 10 de abril de 1978
 
 Declara sem efeito o Decreto nº 10.995, de 02 de dezembro de 1942, que autorizou a Sociedade de Mineração Giacomo & Companhia Limitada a lavrar minério de ferro no Município de Brumadinho, Estado de Minas Gerais.

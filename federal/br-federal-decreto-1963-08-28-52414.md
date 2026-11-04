@@ -1,5 +1,3 @@
-###DEC-052414-0-000-28-08-1963@@@
-
 decreto nº 52.414, de 28 de agôsto de 1963.
 
 Dispõe sôbre o Gabinete do Ministro da Fazenda.

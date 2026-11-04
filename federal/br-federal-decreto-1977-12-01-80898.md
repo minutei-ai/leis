@@ -1,5 +1,3 @@
-###DEC-080898-0-000-01-12-1977@@@
-
 Decreto nº 80.898, de 1º de dezembro de 1977.
 
 Autoriza o aterro de área em mar e a cessão, sob o regime de aforamento, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

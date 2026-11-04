@@ -1,5 +1,3 @@
-###DEC-054447-0-000-13-10-1964@@@
-
 Decreto Nº 54.447, DE 13 DE Outubro DE 1964.
 
 Autoriza a cidadã brasileira Alzira Vieira Froede a pesquisar pedras coradas, no município de Teófilo Otoni, Estado de Minas Gerais.

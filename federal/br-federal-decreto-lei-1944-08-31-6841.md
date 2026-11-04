@@ -1,5 +1,3 @@
-###DEL-006841-0-000-31-08-1944@@@
-
 DECRETO-LEI N. 6.841 – DE 31 DE AGÔSTO DE 1944
 
 Dispõe sôbre os balanços do exercício de 1943

@@ -1,5 +1,3 @@
-###DEL-006617-0-000-22-06-1944@@@
-
 DECRETO-LEI N. 6.617 – DE 22 DE JUNHO DE 1944
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 500.000,00, à verba que especifica

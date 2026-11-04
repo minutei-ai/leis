@@ -1,5 +1,3 @@
-###DEC-086251-0-000-30-07-1981@@@
-
 Decreto nº 86.251, de 30 de julho de 1981.
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

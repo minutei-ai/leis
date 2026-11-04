@@ -1,5 +1,3 @@
-###DEC-077393-0-000-07-04-1976@@@
-
 decreto nº 77.393 - de 7 de abril de 1976
 
 Declara de utilidade pública, para fins de constituição e servidão administrativa, faixa de terra destinada à paisagem de linha de transmissão de FURNAS - Centrais Elétricas S.A. no Estado do Rio de Janeiro.

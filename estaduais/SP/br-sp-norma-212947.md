@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212947)<br>
-
 # DECRETO N° 70.844, DE 03 DE SETEMBRO DE 2026
 
 ### _Oficializa, sem ônus para os cofres públicos, o Colar "Imperatória Brasília" - Alusiva às visões de Varnhagen e de Kubitschek, instituído pelo Instituto Histórico, Geográfico e Genealógico de Sorocaba - IHGGS, e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Honraria
 
 **Artigo 1° -** Fica oficializado, sem ônus aos cofres públicos, o Colar "Imperatória Brasília" - Alusiva às visões de Varnhagen e de Kubitschek, instituído pelo Instituto Histórico, Geográfico e Genealógico de Sorocaba - IHGGS, que tem por objetivo reconhecer e galardoar pessoas físicas ou jurídicas, civis ou militares, nacionais ou estrangeiras, que tenham demonstrado o espírito de integração, unidade e de arrojado pensamento pioneiro patriota, a exemplo dos patronos dessa honraria, bem como aqueles que tenham prestado relevantes serviços às causas defendidas pelo IHGGS, ou relevantes serviços ao Estado de São Paulo e seu povo.
@@ -67,7 +66,8 @@ a) anverso: nome da honraria; nome completo do(a) agraciado(a); nome da institui
 
 b) verso: dados de registro do diploma na Instituição (Livro e Página/Sequência); chancela de registro do diploma junto ao CEHM.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Chancelaria e da Comissão de Outorgas
 
 **Artigo 4° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pela Comissão de Outorgas.
@@ -80,7 +80,8 @@ Da Chancelaria e da Comissão de Outorgas
 
 **Parágrafo único -** O número total de membros da Comissão de Outorgas, incluindo seu Presidente, deverá ser ímpar, a fim de evitar empates nas votações.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 6° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual de Honrarias e Mérito - CEHM.
@@ -107,7 +108,8 @@ IV - o Chanceler agraciará o Presidente e membros da Comissão de Outorgas.
 
 **Artigo 9° -** Caso a honraria permaneça por longo período sem ser outorgada e/ou nos casos em que a Comissão de Outorgas seja dissolvida, será necessário acender novamente a Fonte de Honra (Fons Honorum), conforme previsto no Artigo 7° deste decreto.
 
-#### Seção IV<br>
+#### Seção IV
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 10 -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas à Comissão de Outorgas em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -142,7 +144,8 @@ Do Direito de Honra (Jus Honorum)
 
 **Artigo 17 -** Perderá o direito ao uso da condecoração, bem como deixará de fazer jus à honraria, aquele que vier a ser condenado à pena privativa de liberdade ou que praticar qualquer ato incompatível com a dignidade ou com o espírito da honraria.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Do Registro e das Chancelas Oficiais dos Diplomas
 
 **Artigo 18 -** O agraciamento por meio da outorga da honraria possui caráter personalíssimo e intransferível, sendo o diploma o documento formal e oficial que atesta sua autenticidade.
@@ -163,7 +166,8 @@ Do Registro e das Chancelas Oficiais dos Diplomas
 
 **§ 3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará a aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual de Honrarias e Mérito - CEHM.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Das Cerimônias de Outorga
 
 **Artigo 21 -** A entrega do colar será realizada, anualmente, em solenidade pública, em data magna a ser definida pelo IHGGS, na presença do Grão-Mestre.
@@ -184,7 +188,8 @@ Das Cerimônias de Outorga
 
 **Parágrafo único -** Os agraciados devem ser orientados a comparecer ao evento sem o uso de outras condecorações (heraldicamente nus).
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Disposições Finais
 
 **Artigo 24 -** É vedada a comercialização da honraria, sob pena de revogação do ato de oficialização.

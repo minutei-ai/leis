@@ -1,5 +1,3 @@
-###DEC-085207-0-000-29-09-1980@@@
-
 DECRETO Nº 85.207, DE 29 DE SETEMBRO DE 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária a implantação de Estação Transformadora de Distribuição de Cotia da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

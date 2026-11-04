@@ -1,5 +1,3 @@
-###DEC-048949-A-000-26-09-1960@@@
-
 Decreto nº 48.949-A, de 26 de setembro de 1960.
 
 Retifica e altera o Decreto nº 38.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.966, de 3 de abril de 1956.

@@ -1,5 +1,3 @@
-###DEC-064568-0-000-22-05-1969@@@
-
 Decreto nº 64.568, de 22 de maio de 1969.
 
 Cria o Grupo de Trabalho para elaborar plano de defesa permanente contra calamidades públicas e dá outras providências.

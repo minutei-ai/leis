@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/451fb543-fe86-4c21-891f-ba6396216845/texto#nowhere)
 
-###DEL-001069-0-000-04-11-1969@@@
-
 DECRETO-LEI Nº 1.069, DE 4 DE NOVEMBRO DE 1969
 
 Revoga o artigo 18 do Decreto-lei número 1.063, de 21 de outubro de 1969 e dá outras providências.

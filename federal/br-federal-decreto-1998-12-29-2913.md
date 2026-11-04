@@ -1,5 +1,3 @@
-###DEC-002913-0-000-29-12-1998@@@
-
 DECRETO Nº 2.913, DE 29 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a incidência do Imposto sobre Operações de Credito, Câmbio e Seguro ou Relativas a Títulos e Valores Mobiliários - IOF, na hipótese que menciona.

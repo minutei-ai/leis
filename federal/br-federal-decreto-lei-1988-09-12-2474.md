@@ -1,7 +1,3 @@
-1
-
-###DEL-002474-0-000-12-09-1988@@@
-
 # DECRETO-LEI Nº 2.474, DE 12 DE SETEMBRO DE 1988
 
 Dispõe sobre prazo para liquidação de débitos que menciona.

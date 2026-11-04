@@ -1,5 +1,3 @@
-###DEC-072372-0-000-15-06-1973@@@
-
 DECRETO Nº 72.372, DE 15 DE JUNHO DE 1973.
 
 Concede a Lavras Santo Amaro Ltda., o direito de lavrar argila no Município de Cravinhos, Estado de São Paulo

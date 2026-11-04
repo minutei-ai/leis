@@ -1,5 +1,3 @@
-###DEC-072255-0-000-11-05-1973@@@
-
 DECRETO Nº 72.255, DE 11 DE MAIO DE 1973.
 
 Dispõe sobre o Subsistema de Cadastro do Pessoal Civil da Administração Federal e dá outras providências.

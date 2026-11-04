@@ -1,5 +1,3 @@
-###DEC-070743-0-000-21-06-1972@@@
-
 Decreto nº 70.743, de 21 de junho de 1972.
 
 Autoriza o funcionamento da Faculdade de Educação da Fundação João Monlevade, com sede em João Monlevade - MG.

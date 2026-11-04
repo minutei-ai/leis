@@ -1,5 +1,3 @@
-###DEC-052252-0-000-10-07-1963@@@
-
 DECRETO Nº 52.252, DE 10 DE JULHO DE 1963.
 
 Dá a denominação de Batalhão Rondon, ao 2º Batalhão Rodoviário.

@@ -1,5 +1,3 @@
-###DEC-076637-0-000-19-11-1975@@@
-
 DECRETO Nº 76.637, DE 19 de NOVEMBRO DE 1975.
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Difusora Mearim S.A, para que a Rádio Mearim Ltda. passe a executar serviço de radiodifusão sonora em onda tropical, na cidade de Caxias, Estado do Maranhão.

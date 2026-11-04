@@ -1,5 +1,3 @@
-###MPV-002205-0-000-10-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.205, DE 10 DE AGOSTO DE 2001
 
  Institui medida para assegurar o funcionamento de serviços e atividades imprescindíveis à segurança pública.

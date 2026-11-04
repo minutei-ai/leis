@@ -1,5 +1,3 @@
-###DEC-057603-0-000-07-01-1966@@@
-
 DECRETO Nº 57.603, de 7 de janeiro de 1966.
 
 Altera o artigo 3º do Decreto número 53.914, de 11 de maio de 1964.

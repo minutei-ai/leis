@@ -1,5 +1,3 @@
-###DEC-093847-0-000-22-12-1986@@@
-
 DECRETO Nº 93.847, DE 22 DE DEZEMBRO DE 1986
 
 Dispõe sobre o aumento do capital social da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE.

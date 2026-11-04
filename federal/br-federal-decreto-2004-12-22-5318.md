@@ -1,5 +1,3 @@
-###DEC-005318-0-000-22-12-2004@@@
-
 DECRETO Nº 5.318 DE 22 DE DEZEMBRO DE 2004
 
 Altera a redação do art. 3º do Decreto nº 940, de 27 de setembro de 1993, que dispõe sobre a diária no exterior, do servidor público civil e militar, integrante de equipe de apoio ou de comitiva do Presidente ou do Vice-Presidente da República.

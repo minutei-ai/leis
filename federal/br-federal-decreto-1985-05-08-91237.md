@@ -1,5 +1,3 @@
-###DEC-091237-0-000-08-05-1985@@@
-
 DECRETO Nº 91.237, DE 08 DE MAIO DE 1985
 
 Dispõe sobre a programação e a execução financeiras do Programa de Integração Nacional-PIN e do Programa de Redistribuição de Terras e de Estímulo à Agroindústria do Norte e do Nordeste PROTERRA.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9d0b9d2a-4f3f-4c73-93d1-c980507b75bb/texto#nowhere)
 
-###DEL-000494-0-000-10-03-1969@@@
-
 DECRETO-LEI Nº 494, DE 10 DE MARÇO DE 1969
 
 Regulamenta o Ato Complementar nº 45, de 30 de janeiro de 1969, que dispõe sôbre a aquisição de propriedade rural por estrangeiro.

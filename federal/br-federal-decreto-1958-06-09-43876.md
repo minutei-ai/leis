@@ -1,14 +1,12 @@
-###DEC-043876-0-000-09-06-1958@@@
+**DECRETO Nº 43.876, DE 9 DE JUNHO DE 1958.**
 
-<strong>DECRETO Nº 43.876, DE 9 DE JUNHO DE 1958.</strong>
+***Inclui funções gratificadas na Tabela de Mensalistas do Departamento Nacional de Estradas de Rodagem, e dá outras providências.***
 
-<em><strong>Inclui funções gratificadas na Tabela de Mensalistas do Departamento Nacional de Estradas de Rodagem, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam incluídas na Tabela de Mensalistas do Departamento Nacional de Estradas de Rodagem, as funções gratificadas abaixo discriminadas com os respectivos símbolos, que integrarão a lotação da Delegação de Contrôle.
+**Art**. 1º Ficam incluídas na Tabela de Mensalistas do Departamento Nacional de Estradas de Rodagem, as funções gratificadas abaixo discriminadas com os respectivos símbolos, que integrarão a lotação da Delegação de Contrôle.
 
 Departamento Nacional de Estradas de Rodagem
 
@@ -32,14 +30,14 @@ FG-4
 
 1 Secretário do Presidente (D.C. - D.N.E.R)
 
-<strong>Art</strong>. 2º A despesa resultante da execução dêste Decreto correrá à conta da dotação própria do orçamento do Departamento Nacional de Estradas de Rodagem.
+**Art**. 2º A despesa resultante da execução dêste Decreto correrá à conta da dotação própria do orçamento do Departamento Nacional de Estradas de Rodagem.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se  as disposições em contrário.
+**Art**. 4º Revogam-se  as disposições em contrário.
 
 Rio de Janeiro, 9 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lúcio Meira

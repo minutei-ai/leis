@@ -1,5 +1,3 @@
-###DEC-052165-0-000-28-06-1963@@@
-
 decreto nº 52.165, de 28 de junho de 1963.
 
 Modifica a redação do artigo 23 do Regimento aprovado pelo Decreto número 29.807, de 15 de julho de 1951.

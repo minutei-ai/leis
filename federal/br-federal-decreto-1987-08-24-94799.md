@@ -1,5 +1,3 @@
-###DEC-094799-0-000-24-08-1987@@@
-
 DECRETO N° 94.799, DE 24 DE AGOSTO DE 1987
 
 Declara insubsistente o Decreto n° 94.366, de 25 de maio de 1987, e dá outras providências.

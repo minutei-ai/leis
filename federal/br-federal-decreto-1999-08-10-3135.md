@@ -1,5 +1,3 @@
-###DEC-003135-0-000-10-08-1999@@@
-
 DECRETO Nº 3.135, DE 10 DE AGOSTO DE 1999.
 
 Dispõe sobre o provimento do cargo que menciona no Instituto Nacional de Colonização e Reforma Agrária-INCRA, e dá outras providências.

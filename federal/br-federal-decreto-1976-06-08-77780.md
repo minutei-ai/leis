@@ -1,5 +1,3 @@
-###DEC-077780-0-000-08-06-1976@@@
-
 DECRETO Nº 77.780, DE 8 DE JUNHO DE 1976.
 
 Retifica a concessão de lavra outorgada à Companhia Paulista de Mineração pelo Decreto nº 22.727, de 5 de março de 1947.

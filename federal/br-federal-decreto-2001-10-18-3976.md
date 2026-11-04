@@ -1,5 +1,3 @@
-###DEC-003976-0-000-18-10-2001@@@
-
 DECRETO Nº 3.976, DE 18 DE OUTUBRO DE 2001
 
 Dispõe sobre a execução, no Território Nacional, da Resolução 1373 (2001) do Conselho de Segurança das Nações Unidas.

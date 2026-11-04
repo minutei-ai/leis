@@ -1,5 +1,3 @@
-###DEC-068170-0-000-04-02-1971@@@
-
 DECRETO Nº 68.170, DE 04 DE FEVEREIRO DE 1971.
 
 Atualiza os valores das multas previstas no Decreto-lei nº 538, de 7 de julho de 1938, e no Decreto nº 4.071, de 12 de maio de 1939.

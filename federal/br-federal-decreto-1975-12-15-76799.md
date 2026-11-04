@@ -1,5 +1,3 @@
-###DEC-076799-0-000-15-12-1975@@@
-
 DECRETO Nº 76.799, de 15 de dezembro de 1975.
 
 Concede reconhecimento ao curso de Ciências Sociais, do Centro de Estudos Superiores de Londrina com sede na cidade de Londrina, Estado do Paraná.

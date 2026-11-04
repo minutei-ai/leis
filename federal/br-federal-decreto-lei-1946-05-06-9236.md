@@ -1,5 +1,3 @@
-###DEL-009236-0-000-06-05-1946@@@
-
 DECRETO-LEI N. 9.236 – DE 6 DE MAIO DE 1946
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 750.000,00 à verba que especifica.

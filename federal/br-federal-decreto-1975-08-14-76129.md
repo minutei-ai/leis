@@ -1,5 +1,3 @@
-###DEC-076129-0-000-14-08-1975@@@
-
 decreto nº 76.129 - de 14 de agosto de 1975
 
 Autoriza o funcionamento do curso de Estudos Sociais do Centro Educacional La Salle de Ensino Superior, com sede na cidade de Canoas, Estado do Rio Grande do Sul.

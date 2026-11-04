@@ -1,5 +1,3 @@
-###DEC-064465-0-000-06-05-1969@@@
-
 DECRETO Nº 64.465, DE 6 DE MAIO DE 1969.
 
 Declara de utilidade pública a Associação Beneficente Espírita de Garça, com sede em Garça, Estado de São Paulo.

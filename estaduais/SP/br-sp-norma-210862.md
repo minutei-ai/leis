@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210862)<br>
-
 # DECRETO N° 69.484, DE 14 DE ABRIL DE 2025
 
 ### _Dispõe sobre a prorrogação dos mandatos dos integrantes do Conselho de Participação e Desenvolvimento da Comunidade Negra do Estado de São Paulo._

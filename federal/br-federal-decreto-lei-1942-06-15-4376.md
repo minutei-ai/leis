@@ -1,5 +1,3 @@
-###DEL-004376-0-000-15-06-1942@@@
-
 DECRETO-LEI N. 4.376 – DE 15 DE JUNHO DE 1942
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial de 322:000$0 para reorganização de serviço do Departamento Nacional da Indústria e Comércio

@@ -1,5 +1,3 @@
-###DEC-046087-0-000-19-05-1959@@@
-
 DECRETO Nº 46.087, DE 19 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Raul Alves de Brito a pesquisar minério de manganês no município de Urandi, Estado da Bahia.

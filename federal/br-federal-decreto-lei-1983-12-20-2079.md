@@ -1,5 +1,3 @@
-###DEL-002079-0-000-20-12-1983@@@
-
 # DECRETO-LEI Nº 2.079, DE 20 DE DEZEMBRO DE 1983.
 
 Reajusta os atuais valores de vencimentos, salários e proventos dos servidores civis do Poder Executivo, bem como os das pensões e dá outras providências.

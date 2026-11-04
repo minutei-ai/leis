@@ -1,5 +1,3 @@
-###DEC-080640-0-000-27-10-1977@@@
-
 DECRETO Nº 80.640, DE 27 DE OUTUBRO DE 1977.
 
 Concede à Indústria Mineradora Pagliato Limitada o direito de lavrar calcário no Município de Guapiara, Estado de São Paulo.

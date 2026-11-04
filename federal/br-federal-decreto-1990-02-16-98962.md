@@ -1,7 +1,3 @@
-1
-
-###DEC-098962-0-000-16-02-1990@@@
-
 DECRETO N° 98.962, DE 16 DE FEVEREIRO DE 1990
 
 Dispõe sobre e instituição de Consórcio de Mineração, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-007874-0-000-27-12-2012-PUB-01@@@
-
 DECRETO N°\- 7.874, DE 27 DE DEZEMBRO DE 2012
 
 Dispõe sobre a obrigatoriedade de exibição de obras audiovisuais cinematográficas brasileiras.

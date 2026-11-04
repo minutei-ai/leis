@@ -1,5 +1,3 @@
-###DEC-007681-0-000-17-02-2012-PUB-01@@@
-
 DECRETO N°\- 7.681, DE 17 DE FEVEREIRO DE 2012
 
 Dispõe sobre o saldo remanescente das autorizações para provimento de cargos, empregos e funções, constantes do Anexo V à Lei n° 12.381, de 9 de fevereiro de 2011 - Lei Orçamentária Anual de 2011.

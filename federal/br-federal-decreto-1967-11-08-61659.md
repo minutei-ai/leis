@@ -1,5 +1,3 @@
-###DEC-061659-0-000-08-11-1967@@@
-
 DECRETO Nº 61.659, DE 8 de NOVEMBRO DE 1967.
 
 Autoriza funcionamento de curso na Faculdade de Filosofia, Ciências e Letras Nossa Senhora do Patrocínio, de Itu.

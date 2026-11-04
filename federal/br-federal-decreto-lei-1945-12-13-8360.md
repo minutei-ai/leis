@@ -1,5 +1,3 @@
-###DEL-008360-0-000-13-12-1945@@@
-
 DECRETO-LEI N. 8.360 DE 13 DE DEZEMBRO DE 1945
 
 Altera, sem aumento de despesa, o Orçamento Geral da República

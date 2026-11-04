@@ -1,5 +1,3 @@
-###DEC-069581-0-000-22-11-1971@@@
-
 DECRETO Nº 69.581 - DE 22 DE NOVEMBRO DE 1971
 
 Concede à Minérios São João Batista de Muqui Ltda. o direito de lavrar minério de níquel, no município de Três Rios, Estado do Rio de Janeiro.

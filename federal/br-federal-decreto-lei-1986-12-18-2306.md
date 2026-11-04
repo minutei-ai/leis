@@ -1,5 +1,3 @@
-###DEL-002306-0-000-18-12-1986@@@
-
 # DECRETO-LEI Nº 2.306, DE 18 DE DEZEMBRO DE 1986
 
 Altera a redação do § 4º do artigo 5º do Decreto-lei nº 2.290, de 21 de novembro de 1986.

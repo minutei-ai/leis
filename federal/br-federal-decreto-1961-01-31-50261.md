@@ -1,5 +1,3 @@
-###DEC-050261-0-000-31-01-1961@@@
-
 Decreto nº 50.261, de 31 de janeiro de 1961.
 
 Revoga os Decretos nº 50.201 e número 50.202, ambos de 28 de janeiro de 1961, e restabelece a vigência do Decreto nº 45.283, de 26 de janeiro de 1959.

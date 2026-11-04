@@ -1,5 +1,3 @@
-###DEC-051087-0-000-31-07-1961@@@
-
 DECRETO Nº 51.087, DE 31 DE JULHO DE 1961.
 
 Aprova o Regulamento do Departamento Nacional da Previdência Social.

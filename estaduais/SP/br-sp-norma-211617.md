@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211617)<br>
-
 # DECRETO N° 69.940, DE 10 DE OUTUBRO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, por doação, sem encargos, do Departamento de Estradas de Rodagem do Estado de São Paulo - DER, o imóvel que especifica._

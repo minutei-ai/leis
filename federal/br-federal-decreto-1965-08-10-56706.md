@@ -1,5 +1,3 @@
-###DEC-056706-0-000-10-08-1965@@@
-
 Decreto nº 56.706, de 10 de agôsto de 1965.
 
 Aprova alteração introduzida nos Estatutos da Companhia de Seguros Marítimos e Terrestres Pelotense, relativa ao aumento do capital social.

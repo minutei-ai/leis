@@ -1,5 +1,3 @@
-###DEL-004110-0-000-12-02-1942@@@
-
 DECRETO-LEI N. 4.110 – DE 12 DE FEVEREIRO DE 1942
 
 Prorroga o prazo referido no parágrafo único do art. 2º do decreto-lei n. 2.618, de 23 de setembro de 1940

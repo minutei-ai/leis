@@ -1,5 +1,3 @@
-###DEC-053624-0-000-27-02-1964@@@
-
 DECRETO Nº 53.624, de 27 de fevereiro de 1964.
 
 Aprova alteração introduzidas nos Estatutos da Companhia Comercial de Seguros Gerais inclusive aumento do capital social.

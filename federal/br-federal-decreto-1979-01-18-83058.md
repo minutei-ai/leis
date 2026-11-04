@@ -1,5 +1,3 @@
-###DEC-083058-0-000-18-01-1979@@@
-
 Decreto nº 83.058, de 18 de janeiro de 1979
 
 Promulga o Acordo de Assistência Recíproca para a Repressão do Tráfico Ilícito de Drogas que Produzem Dependência, concluído entre o Governo da República Federativa do Brasil e o Governo da República da Venezuela.

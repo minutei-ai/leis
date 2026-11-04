@@ -1,5 +1,3 @@
-###DEC-004462-0-000-07-11-2002@@@
-
 DECRETO Nº 4.462, DE 7 DE NOVEMBRO DE 2002
 
 Autoriza a concessão de subvenção econômica, sob a forma de equalização de preços, ao amparo das Leis n 8.427 e 9.848, de 27 de maio de.1992 e 26.de outubro de 1999, respectivamete.

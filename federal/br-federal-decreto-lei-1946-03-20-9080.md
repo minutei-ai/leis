@@ -1,5 +1,3 @@
-###DEL-009080-0-000-20-03-1946@@@
-
 DECRETO-LEI N. 9.080 – DE 20 DE MARÇO DE 1946
 
 Dispensa o pagamento ao Govêrno da taxa por telegrama do tráfego mútuo entre emprêsas e da contribuição por palavra do serviço exclusivo em trânsito das companhias de telégrafo exterior que funcionam no pais

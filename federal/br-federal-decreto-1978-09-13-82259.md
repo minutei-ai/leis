@@ -1,5 +1,3 @@
-###DEC-082259-0-000-13-09-1978@@@
-
 Decreto n.º 82.259, de 13 de setembro de 1978
 
 Concede à Mineração Tomaz Salustino S.A o direito de lavrar minério de tungstênio no Município de Currais Novos, Estado do Rio Grande do Norte.

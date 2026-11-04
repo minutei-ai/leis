@@ -1,5 +1,3 @@
-###MPV-001898-0-016-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.898-16, DE 23 DE NOVEMBRO DE 1999.
 
 Dispõe sobre o Programa de Revitalização de Cooperativas de Produção Agropecuária - RECOOP, autoriza a criação do Serviço Nacional de Aprendizagem do Cooperativismo - SESCOOP, e dá outras providências.

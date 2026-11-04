@@ -1,5 +1,3 @@
-###DEC-088299-0-000-11-05-1983@@@
-
 Decreto nº 88.299, de 11 de maio de 1983
 
 Outorga concessão para captação de águas do reservatório da usina Hidrelétrica de FURNAS, para abastecimento público, no Estado de  Mina Gerais.

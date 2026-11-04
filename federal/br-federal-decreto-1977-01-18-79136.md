@@ -1,5 +1,3 @@
-###DEC-079136-0-000-18-01-1977@@@
-
 DECRETO Nº 79.136, DE 18 DE JANEIRO DE 1977.
 
 Fixa o fator de reajustamento salarial relativo a janeiro de 1977.

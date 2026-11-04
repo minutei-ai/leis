@@ -1,5 +1,3 @@
-###DEL-008029-0-000-02-10-1945@@@
-
 DECRETO-LEI N. 8.029 – DE 2 DE OUTUBRO DE 1945
 
 Isenta do impôsto do sêlo os estabelecimentos de ensino, sob inspeção oficial.

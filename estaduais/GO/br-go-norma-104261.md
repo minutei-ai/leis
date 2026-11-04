@@ -16,10 +16,12 @@ a) Hospital de Urgências de Goiás Dr. Valdemiro Cruz (HUGO) ;
 
 b) Hospital Estadual de Urgências Governador Otávio Lage de Siqueira (HUGOL) ;
 
-c) Hospital Estadual da Mulher Dr. Jurandir do Nascimento – HEMU, integrado ao Hospital Estadual e Maternidade Nossa Senhora de Lourdes – HEMNSL;<br>
+c) Hospital Estadual da Mulher Dr. Jurandir do Nascimento – HEMU, integrado ao Hospital Estadual e Maternidade Nossa Senhora de Lourdes – HEMNSL;
+
 \- [Redação dada pelo Decreto nº 10.675, de 11-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110562).
 
-~~c) Hospital Estadual da Mulher Dr. Jurandir do Nascimento – HEMU;~~<br>
+~~c) Hospital Estadual da Mulher Dr. Jurandir do Nascimento – HEMU;~~
+
 \- [Redação dada pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
 ~~c) Hospital Estadual Materno Infantil Dr. Jurandir do Nascimento (HMI) - Integrado ao Hospital Estadual e Maternidade Nossa Senhora de Lourdes (HEMNSL) ;~~
@@ -54,19 +56,24 @@ q) Hospital Estadual de Luziânia;
 
 r) Hospital Estadual de Jataí Dr. Serafim de Carvalho;
 
-s) Hospital Estadual da Criança e do Adolescente – HECAD;<br>
+s) Hospital Estadual da Criança e do Adolescente – HECAD;
+
 \- [Redação dada pelo Decreto nº 10.675, de 11-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110562).
 
-~~s) Hospital Estadual da Criança e do Adolescente – HECAD; e~~<br>
+~~s) Hospital Estadual da Criança e do Adolescente – HECAD; e~~
+
 \- [Acrescida pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
-t) Complexo Oncológico de Referência do Estado de Goiás – CORA; e<br>
+t) Complexo Oncológico de Referência do Estado de Goiás – CORA; e
+
 \- [Redação dada pelo Decreto nº 10.675, de 11-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110562).
 
-~~t) Hospital Estadual e Maternidade Nossa Senhora de Lourdes – HEMNSL;~~<br>
+~~t) Hospital Estadual e Maternidade Nossa Senhora de Lourdes – HEMNSL;~~
+
 \- [Acrescida pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
-u) Hospital Estadual de Águas Lindas Ronaldo Ramos Caiado Filho – HEAL;<br>
+u) Hospital Estadual de Águas Lindas Ronaldo Ramos Caiado Filho – HEAL;
+
 \- [Acrescido pelo Decreto nº 10.675, de 11-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110562).
 
 II – Rede Estadual de Policlínicas (Rede POLI): caracterizada como o conjunto de unidades ambulatoriais especializadas cujo objetivo é o de atender à demanda desse nível de atenção à saúde, exclusivamente referenciada e regulada, funcionando como suporte e retaguarda para os demais níveis de atenção à saúde, sobretudo da Atenção Primária à Saúde, executando os procedimentos ambulatoriais e diagnósticos de média e alta complexidade. É composta pelas seguintes unidades:
@@ -79,17 +86,20 @@ c) Policlínica Estadual da Região Sudoeste – Quirinópolis;
 
 d) Policlínica Estadual da Região do Entorno – Formosa;
 
-e) Policlínica Estadual Brasil Bruno de Bastos Neto Região Rio Vermelho – Goiás; e<br>
+e) Policlínica Estadual Brasil Bruno de Bastos Neto Região Rio Vermelho – Goiás; e
+
 \- [Redação dada pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
 ~~e) Policlínica Estadual da Região Rio Vermelho – Goiás;~~
 
-f) Policlínica Estadual Ismael Alexandrino Pinto – São Luís de Montes Belos;<br>
+f) Policlínica Estadual Ismael Alexandrino Pinto – São Luís de Montes Belos;
+
 \- [Redação dada pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
 ~~f) Policlínica Estadual da Região Oeste - São Luís de Montes Belos.~~
 
-g) Policlínica Estadual Governador Maguito Vilela - Mozarlândia;<br>
+g) Policlínica Estadual Governador Maguito Vilela - Mozarlândia;
+
 [\- Acrescido pelo Decreto nº 10.837, de 17-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111844)
 
 III – Rede Estadual de Unidades de Apoio à RAS (Rede APOIO): caracterizada como o conjunto de unidades assistenciais, de vigilância à saúde e de regulação em saúde cujo objetivo é o de atender à demanda dos da RAS, funcionando como suporte e retaguarda para os níveis de atenção à saúde, executando procedimentos ambulatoriais e diagnósticos, de vigilância à saúde e de regulação do acesso à assistência. É composta pelas seguintes unidades:
@@ -100,14 +110,16 @@ b) Centro Estadual de Referência em Medicina Integrativa e Complementar (CREMIC
 
 c) Centro Estadual de Odontologia Sebastião Alves Ribeiro (COEG);
 
-d) Centro Estadual Especializado em Saúde Mental Infantojuvenil – CEESMI;<br>
+d) Centro Estadual Especializado em Saúde Mental Infantojuvenil – CEESMI;
+
 \- [Redação dada pelo Decreto nº 10.577, de 13-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109927/decreto-10577).
 
 ~~d) Centro Estadual de Atenção Psicossocial e Infanto-Juvenil (CAPSI);~~
 
 e) Centro Estadual de Assistência aos Radioacidentados Leide das Neves (CARA);
 
-f) Complexo de Referência Estadual em Saúde Mental Prof. Jamil Issy – CRESM;<br>
+f) Complexo de Referência Estadual em Saúde Mental Prof. Jamil Issy – CRESM;
+
 \- [Redação dada pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
 ~~f) Centro Estadual de Referência e Excelência em Dependência Química de Aparecida de Goiânia – CREDEQ Prof. Jamil Issy;~~
@@ -120,66 +132,84 @@ i) Laboratório Estadual de Saúde Pública Dr. Giovanni Cysneiros (LACEN-GO);
 
 j) Centro Estadual de Orientações e Informações em Saúde (CORI).
 
-k) Programa de Atenção Integral em Liberdade – PAILI; e<br>
+k) Programa de Atenção Integral em Liberdade – PAILI; e
+
 \- [Acrescido dada pelo Decreto nº 10.675, de 11-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110562).
 
-l) Núcleo Estadual de Gestão Estratégica da Segurança do Paciente – NEGESP; e<br>
+l) Núcleo Estadual de Gestão Estratégica da Segurança do Paciente – NEGESP; e
+
 \- [Acrescido pelo Decreto nº 10.675, de 11-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110562).
 
-IV – Rede Estadual de Serviços de Hemoterapia – Rede HEMO, composta por todos os serviços de hemoterapia em unidades estaduais:<br>
+IV – Rede Estadual de Serviços de Hemoterapia – Rede HEMO, composta por todos os serviços de hemoterapia em unidades estaduais:
+
 \- [Redação dada pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
 ~~IV – Rede Estadual de Hemocentros (Rede HEMO): caracterizada como o conjunto de unidades que realizam a coleta, o processamento, a distribuição e a transfusão de sangue e hemoderivados, cuja finalidade é a de garantir a cobertura hemoterápica e hematológica, com suficiência e segurança para a população de sua área de abrangência. É composta pelas seguintes unidades:~~
 
-a) que, conforme seu perfil, realizam a coleta, o processamento, o armazenamento, a transfusão e a distribuição de hemocomponentes, bem como a administração e a distribuição de hemoderivados e medicamentos, para garantir as coberturas hemoterápica e hematológica, com suficiência e segurança para seus usuários e/ou para a população de sua área de abrangência;<br>
+a) que, conforme seu perfil, realizam a coleta, o processamento, o armazenamento, a transfusão e a distribuição de hemocomponentes, bem como a administração e a distribuição de hemoderivados e medicamentos, para garantir as coberturas hemoterápica e hematológica, com suficiência e segurança para seus usuários e/ou para a população de sua área de abrangência;
+
 \- [Redação dada pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
 ~~a) Hemocentro Estadual Coordenador Professor Nion Albernaz – HEMOGO;~~
 
-b) que, conforme seu perfil, integram o sistema de apoio diagnóstico e terapêutico da RAS locorregional e podem prestar atendimento aos portadores de doenças hematológicas; e<br>
+b) que, conforme seu perfil, integram o sistema de apoio diagnóstico e terapêutico da RAS locorregional e podem prestar atendimento aos portadores de doenças hematológicas; e
+
 \- [Redação dada pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
 ~~b) Hemocentro Estadual da Região Sudeste - HEMOGO Catalão;~~
 
-c) entre as quais estarão os hemocentros e unidades de coleta e transfusão com as seguintes denominações:<br>
+c) entre as quais estarão os hemocentros e unidades de coleta e transfusão com as seguintes denominações:
+
 \- [Redação dada pelo Decreto nº 10.837, de 17-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111844)
 
-~~c) entre as quais estarão os hemocentros com as seguintes denominações:~~<br>
+~~c) entre as quais estarão os hemocentros com as seguintes denominações:~~
+
 \- [Redação dada pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
 ~~c) Hemocentro Estadual da Região São Patrício - HEMOGO Ceres;~~
 
-1\. Hemocentro Coordenador Estadual de Goiás Prof. Nion Albernaz – HEMOGO;<br>
+1\. Hemocentro Coordenador Estadual de Goiás Prof. Nion Albernaz – HEMOGO;
+
 \- [Acrescido pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
-2\. Hemocentro Regional de Catalão – HEMOGO Catalão;<br>
+2\. Hemocentro Regional de Catalão – HEMOGO Catalão;
+
 \- [Acrescido pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
-3\. Hemocentro Regional de Ceres – HEMOGO Ceres;<br>
+3\. Hemocentro Regional de Ceres – HEMOGO Ceres;
+
 \- [Acrescido pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
-4\. Hemocentro Regional de Rio Verde Janielly Regina do Nascimento – HEMOGO Rio Verde; e<br>
+4\. Hemocentro Regional de Rio Verde Janielly Regina do Nascimento – HEMOGO Rio Verde; e
+
 \- [Acrescido pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
-5\. Hemocentro Regional de Jataí – HEMOGO Jataí.<br>
+5\. Hemocentro Regional de Jataí – HEMOGO Jataí.
+
 \- [Acrescido pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
-~~d) Hemocentro Estadual da Região Sudoeste I - HEMOGO Rio Verde;~~<br>
+~~d) Hemocentro Estadual da Região Sudoeste I - HEMOGO Rio Verde;~~
+
 \- [Revogada tacitamente pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
-~~e) Hemocentro Estadual da Região Sudoeste II - HEMOGO Jataí.~~<br>
+~~e) Hemocentro Estadual da Região Sudoeste II - HEMOGO Jataí.~~
+
 \- [Revogada tacitamente pelo Decreto nº 10.233, de 10-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106829/decreto-10233).
 
-6\. Unidade Estadual de Coleta e Transfusão de  Formosa - UCT Formosa;<br>
+6\. Unidade Estadual de Coleta e Transfusão de  Formosa - UCT Formosa;
+
 \- [Acrescido pelo Decreto nº 10.837, de 17-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111844)
 
-7\. Unidade Estadual de Coleta e Transfusão de Iporá - UCT Iporá;<br>
+7\. Unidade Estadual de Coleta e Transfusão de Iporá - UCT Iporá;
+
 \- [Acrescido pelo Decreto nº 10.837, de 17-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111844)
 
-8\. Unidade Estadual de Coleta e Transfusão de Porangatu - UCT Porangatu; e<br>
+8\. Unidade Estadual de Coleta e Transfusão de Porangatu - UCT Porangatu; e
+
 \- [Acrescido pelo Decreto nº 10.837, de 17-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111844)
 
-9\. Unidade Estadual de Coleta e Transfusão de Quirinópolis - UCT Quirinópolis.<br>
+9\. Unidade Estadual de Coleta e Transfusão de Quirinópolis - UCT Quirinópolis.
+
 \- [Acrescido pelo Decreto nº 10.837, de 17-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111844)
 
 Art. 3º O Complexo Estadual de Serviços de Saúde deverá observar as seguintes diretrizes para a sua atuação e expansão:
@@ -198,13 +228,16 @@ VI – perfil assistencial definido conforme os indicadores demográficos e epid
 
 VII – conquista e manutenção de níveis de acreditação das unidades hospitalares, acreditação de laboratórios, segundo os requisitos estabelecidos na norma ABNT NBR ISO/IEC 17.025:2005, bem como de selos de qualificação junto à Organização Nacional de Acreditação (ONA).
 
-Art. 3º-A A Creche Cantinho Feliz, na condição de unidade administrativa complementar descentralizada e vinculada à Superintendência da Escola de Saúde de Goiás, compõe a estrutura da Secretaria de Estado da Saúde - SES e se destina ao atendimento dos filhos de servidores lotados nessa mesma pasta com idades de 4 meses a 2 anos e 11 meses.<br>
+Art. 3º-A A Creche Cantinho Feliz, na condição de unidade administrativa complementar descentralizada e vinculada à Superintendência da Escola de Saúde de Goiás, compõe a estrutura da Secretaria de Estado da Saúde - SES e se destina ao atendimento dos filhos de servidores lotados nessa mesma pasta com idades de 4 meses a 2 anos e 11 meses.
+
 \- [Redação dada pelo Decreto nº 10.837, de 17-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111844)
 
-~~Art. 3º-A A Creche Cantinho Feliz, na condição de unidade administrativa complementar descentralizada e vinculada à Superintendência da Escola de Saúde de Goiás, compõe a estrutura da Secretaria de Estado da Saúde – SES e se destina ao atendimento dos filhos de servidores lotados nessa mesma pasta com idades de 6 (seis) meses a 3 (três) anos e 11 (onze) meses.~~<br>
+~~Art. 3º-A A Creche Cantinho Feliz, na condição de unidade administrativa complementar descentralizada e vinculada à Superintendência da Escola de Saúde de Goiás, compõe a estrutura da Secretaria de Estado da Saúde – SES e se destina ao atendimento dos filhos de servidores lotados nessa mesma pasta com idades de 6 (seis) meses a 3 (três) anos e 11 (onze) meses.~~
+
 \- [Acrescido pelo Decreto nº 10.675, de 11-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110562).
 
-Art. 3º-B A sistematização traçada por este Decreto não importa em aumento de despesa nem em criação ou extinção de órgãos públicos.<br>
+Art. 3º-B A sistematização traçada por este Decreto não importa em aumento de despesa nem em criação ou extinção de órgãos públicos.
+
 \- [Acrescido pelo Decreto nº 10.675, de 11-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110562).
 
 Art. 4º A Secretaria de Estado da Saúde editará o “Manual de Padronização Visual do Complexo Estadual de Serviços de Saúde de Goiás”, que deverá ser seguido e implantado pelos gestores públicos e/ou parceiros privados de todos os equipamentos públicos de saúde pertencentes ao Estado de Goiás.

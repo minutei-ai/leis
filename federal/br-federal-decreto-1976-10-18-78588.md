@@ -1,5 +1,3 @@
-###DEC-078588-0-000-18-10-1976@@@
-
 DECRETO Nº 78.588, DE 18 DE OUTUBRO DE 1976
 
 Concede à Italmagnésio Nordeste Limitada o direito de lavrar quartzo no Município de Jequitaí, Estado de Minas Gerais.

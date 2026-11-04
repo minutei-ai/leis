@@ -1,5 +1,3 @@
-###DEC-051966-0-000-26-04-1963@@@
-
 DECRETO Nº 51.966, DE 26 DE ABRIL DE 1963.
 
 Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão Guarulhos - São José dos Campos, Estado de São Paulo, e autoriza sua desapropriação.

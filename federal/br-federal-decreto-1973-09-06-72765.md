@@ -1,5 +1,3 @@
-###DEC-072765-0-000-06-09-1973@@@
-
 DECRETO Nº 72.765, DE 6 DE SETEMBRO DE 1973.
 
 Concede à Cia. De Estanho São João Del Rei o direito de lavrar cassiterita, djalmaíta e tântalo-columbita, no Município de São Tiago, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-054954-0-000-06-11-1964@@@
-
 decreto nº 54.954, de 06 de novembro de 1964.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Companhia Vale do Rio Doce, as áreas de terras que menciona.
@@ -12,7 +10,119 @@ Art. 1º São declaradas de utilidade pública, para fins de desapropriação em
 
 Art. 2º As faixas de terras a que se refere êste Decreto acham-se compreendidas pela poligonal cujos vértices sucessivos são os seguintes pontos:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V1</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.829.472,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=371.277,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V2</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.829.308,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=371.147,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V3</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.828.807,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=370.178,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V4</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.828.541,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=369.311,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V5</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.828.122,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=369.029,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V6</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.826.854,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=368.742,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V7</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.826.540,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=368.529,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V8</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.827.476,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=366.865,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V9</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.827.832,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=366.865,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V10</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.827.832,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=367.135,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V11</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.827,266,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=368.300,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V12</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.827.637,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=368.557,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V13</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.828.500,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=368.822,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V14</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.829.232,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=369.316,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V15</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.829.232,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=369.527,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V16</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.829.018,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=369.739,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V17</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.829.196,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=370.098,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V18</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.828.615,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=370.282,00</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V19</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X=2.829.600,</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Y=371.123,00</span></p></td></tr></tbody></table>
+V1
+
+X=2.829.472,
+
+Y=371.277,00
+
+V2
+
+X=2.829.308,
+
+Y=371.147,00
+
+V3
+
+X=2.828.807,
+
+Y=370.178,00
+
+V4
+
+X=2.828.541,
+
+Y=369.311,00
+
+V5
+
+X=2.828.122,
+
+Y=369.029,00
+
+V6
+
+X=2.826.854,
+
+Y=368.742,00
+
+V7
+
+X=2.826.540,
+
+Y=368.529,00
+
+V8
+
+X=2.827.476,
+
+Y=366.865,00
+
+V9
+
+X=2.827.832,
+
+Y=366.865,00
+
+V10
+
+X=2.827.832,
+
+Y=367.135,00
+
+V11
+
+X=2.827,266,
+
+Y=368.300,00
+
+V12
+
+X=2.827.637,
+
+Y=368.557,00
+
+V13
+
+X=2.828.500,
+
+Y=368.822,00
+
+V14
+
+X=2.829.232,
+
+Y=369.316,00
+
+V15
+
+X=2.829.232,
+
+Y=369.527,00
+
+V16
+
+X=2.829.018,
+
+Y=369.739,00
+
+V17
+
+X=2.829.196,
+
+Y=370.098,00
+
+V18
+
+X=2.828.615,
+
+Y=370.282,00
+
+V19
+
+X=2.829.600,
+
+Y=371.123,00
 
 Art. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

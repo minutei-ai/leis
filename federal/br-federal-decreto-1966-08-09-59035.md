@@ -1,5 +1,3 @@
-###DEC-059035-0-000-09-08-1966@@@
-
 DECRETO Nº 59.035, DE 9 DE AGôSTO DE 1966.
 
 Determina a audiência do Conselho Nacional de Política Salarial nos reajustamentos, revisões ou acôrdos salariais de caráter coletivo, em que sejam partes o SESI, SENAI, SESC, SENAC e LBA.

@@ -1,5 +1,3 @@
-###DEC-069593-0-000-23-11-1971@@@
-
 DECRETO Nº 69.593 - DE 23 de NOVEMBRO DE 1971
 
 Autoriza o funcionamento da Faculdade de Odontologia "João Prudente", em Anápolis - Goiás.

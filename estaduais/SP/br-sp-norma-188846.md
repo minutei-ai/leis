@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188846)
-
 # DECRETO Nº 63.937, DE 17 DE DEZEMBRO DE 2018
 
 ### _Declara de utilidade pública, para fins de desapropriação, imóveis situados no Município de Santos, necessários a Empresa Metropolitana de Transportes Urbanos S.A. - EMTU/SP_
@@ -102,16 +100,18 @@ Secretário de Governo
 
 Publicado na Secretaria de Governo, aos 17 de dezembro de 2018.
 
-<br>
-<br>
-
 #### [DECRETO Nº 63.937, DE 17 DE DEZEMBRO DE 2018](https://www.al.sp.gov.br/norma/188846)
 
 #### Retificação do D.O. de 18-12-2018
 
-No referendo onde se lê:<br>
-Clodoaldo Pelissioni<br>
-Secretário dos Transportes Metropolitanos<br>
-leia-se:<br>
-Michael Sotelo Cerqueira<br>
+No referendo onde se lê:
+
+Clodoaldo Pelissioni
+
+Secretário dos Transportes Metropolitanos
+
+leia-se:
+
+Michael Sotelo Cerqueira
+
 Secretário-Adjunto, Respondendo pelo Expediente da Secretaria dos Transportes Metropolitanos

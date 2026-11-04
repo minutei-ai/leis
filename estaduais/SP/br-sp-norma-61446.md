@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61446)
-
 # LEI Nº 12.286, DE 22 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 220/2005, do Deputado Afonso Lobato - PV)

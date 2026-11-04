@@ -1,5 +1,3 @@
-###DEC-057567-0-000-03-01-1966@@@
-
 DECRETO Nº 57.567, DE 3 DE JANEIRO DE 1966.
 
 Concede indulto a sentenciados pela Justiça Militar.

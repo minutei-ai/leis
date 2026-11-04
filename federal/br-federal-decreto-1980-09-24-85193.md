@@ -1,5 +1,3 @@
-###DEC-085193-0-000-24-09-1980@@@
-
 Decreto nº 85.193, de 24 de setembro de 1980.
 
 Autoriza o funcionamento das habilitações em Desenho, Artes Plásticas e Artes Ciências da Faculdade Mozarteum de São Paulo, Estado de São Paulo.

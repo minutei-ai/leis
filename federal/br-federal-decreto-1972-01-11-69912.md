@@ -1,5 +1,3 @@
-###DEC-069912-0-000-11-01-1972@@@
-
 DECRETO nº 69.912, DE 11 DE JANEIRO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terreno em Salvador, Estado da Bahia, destinado ao Ministério da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-080058-0-000-01-08-1977@@@
-
 DECRETO Nº 80.058, DE 1 DE AGOSTO DE 1977.
 
 Concede reconhecimento à habilitação em Orientação Educacional do curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Ituverava, com sede na cidade de Ituverava, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098135-0-000-12-09-1989@@@
-
 DECRETO N° 98.135, DE 12 DE SETEMBRO DE 1989
 
 Regulamenta o disposto no art. 3° da Lei n° 7.711, de 22 de dezembro de 1988.

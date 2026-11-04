@@ -1,5 +1,3 @@
-###DEC-051971-A-000-26-04-1963@@@
-
 DECRETO Nº 51.971-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Companhia de Eletricidade do Amapá a operar a Usina de Fôrça e Luz de Macapá.

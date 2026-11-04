@@ -1,5 +1,3 @@
-###DEC-068065-0-000-14-01-1971@@@
-
 DECRETO Nº 68.065, DE 14 DE JANEIRO DE 1971.
 
 Regulamenta o Decreto-lei nº 869, de 12 de setembro de 1969, que dispõe sobre a inclusão da Educação Moral e Cívica como disciplina obrigatória, nas escolas de todos os graus e modalidades dos sistemas de ensino no País, e dá outras providências.

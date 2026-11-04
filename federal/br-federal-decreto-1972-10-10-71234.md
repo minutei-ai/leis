@@ -1,5 +1,3 @@
-###DEC-071234-0-000-10-10-1972@@@
-
 DECRETO Nº 71.234, DE 10 DE OUTUBRO DE 1972.
 
 Retifica decretos de enquadramento de cargos e funções do Ministério da Marinha, e dá outras providências.

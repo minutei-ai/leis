@@ -1,5 +1,3 @@
-###DEC-059277-0-000-23-09-1966@@@
-
 DECRETO Nº 59.277, DE 23 DE SETEMBRO DE 1966.
 
 Inclui funções gratificadas na Parte Permanente do Quadro de Pessoal do Ministério da Aeronáutica.
@@ -25,8 +23,6 @@ Brasília, 23 de setembro de 1966; 145º da Independência e 78º da República.
 h. castello Branco
 
 Eduardo Gomes
-
-###DEC-059277-0-000-23-09-1966@@@RET01+++
 
 DECRETO Nº 59.277, DE 23 DE SETEMBRO DE 1966.
 

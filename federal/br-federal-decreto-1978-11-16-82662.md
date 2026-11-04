@@ -1,5 +1,3 @@
-###DEC-082662-0-000-16-11-1978@@@
-
 Decreto nº 82.662, de 16 de novembro de 1978
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

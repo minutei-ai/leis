@@ -1,5 +1,3 @@
-###DEC-046143-0-000-05-06-1959@@@
-
 Decreto nº 46.143, De 05 de junho de 1959.
 
 Outorga concessão à Rádio Sociedade Educadora Cariri Limitada para instalar uma estação radiodifusora.

@@ -1,5 +1,3 @@
-###DEC-056700-0-000-09-08-1965@@@
-
 DECRETO Nº 56.700, DE 9 DE AGÔSTO DE 1965.
 
 Altera a redação do art. 10 do Decreto nº 53.914, de 11 de maio de 1964, modificada pelo Decreto número 55.785, de 22 de fevereiro de 1965.

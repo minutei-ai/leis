@@ -1,34 +1,32 @@
-###DEC-035344-0-000-07-04-1954@@@
+**DECRETO Nº 35.344, DE 7 DE ABRIL DE 1954.**
 
-<strong>DECRETO Nº 35.344, DE 7 DE ABRIL DE 1954.</strong>
+***Aprova o novo Regulamento para a Biblioteca do Exército.***
 
-<em><strong>Aprova o novo Regulamento para a Biblioteca do Exército.</strong></em>
+**O PRESIDENTE DA REPÚBICA**, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBICA</strong>, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1° Fica aprovado o Regulamento para a biblioteca do Exército, que com êste baixa, assinado pelo General de Exército Euclydes Zenóbio da Costa. Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1° Fica aprovado o Regulamento para a biblioteca do Exército, que com êste baixa, assinado pelo General de Exército Euclydes Zenóbio da Costa. Ministro de Estado dos Negócios da Guerra.
-
-<strong>Art</strong>. 2° O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2° O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 7 de abril de 1954; 133° da Independência e 66° da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Zenóbio da Costa
 
-<strong>REGULAMENTO DA BIBLIOTECA DO EXÉRCITO</strong>
+**REGULAMENTO DA BIBLIOTECA DO EXÉRCITO**
 
-<strong>(R - 172)</strong>
+**(R - 172)**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1° A Biblioteca do Exército tem por finalidade facilitar os meios necessários ao desenvolvimento e aperfeiçoamento da cultura profissional-militar e geral.
+**Art**. 1° A Biblioteca do Exército tem por finalidade facilitar os meios necessários ao desenvolvimento e aperfeiçoamento da cultura profissional-militar e geral.
 
-<strong>Art</strong>. 2° Além de manter as publicações existentes em sua sede na capital da República, em condições de serem consultadas, e promover meios para ampliá-las e atualizá-las, procurará desenvolver o amor ao estudo, publicando as obras de autores brasileiros ou estrangeiros, que sejam julgadas de interêsse para a ilustração, cultura profissional, educação moral e esnsino de História Militar, cabendo-lhe ainda mais os seguintes encargos:
+**Art**. 2° Além de manter as publicações existentes em sua sede na capital da República, em condições de serem consultadas, e promover meios para ampliá-las e atualizá-las, procurará desenvolver o amor ao estudo, publicando as obras de autores brasileiros ou estrangeiros, que sejam julgadas de interêsse para a ilustração, cultura profissional, educação moral e esnsino de História Militar, cabendo-lhe ainda mais os seguintes encargos:
 
 a) publicar livros que atendam a sua finalidade, distribuindo-os, periodicamente, aos seus subscritores, mediante módica mensalidade;
 
@@ -44,13 +42,13 @@ f) permitir ao elemento civil, sem prejuízo dos subscritores militares, a aquis
 
 g) manter intercâmbio com as organizações culturais do País e do estrangeiro.
 
-<strong>Art</strong>. 3° A Biblioteca do Exército deverá manter-se em condições de se transformar, quando fôr julgado oportuno, em órgão de documentação e divulgação do Ministério da Guerra, quanto a assuntos bibliográficos.
+**Art**. 3° A Biblioteca do Exército deverá manter-se em condições de se transformar, quando fôr julgado oportuno, em órgão de documentação e divulgação do Ministério da Guerra, quanto a assuntos bibliográficos.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 4° A organização da Biblioteca compreende;
+**Art**. 4° A organização da Biblioteca compreende;
 
 a) Direção;
 
@@ -62,13 +60,13 @@ d) Biblioteca de Consulta;
 
 e) Comissão Diretora de Publicação.
 
-<strong>Art</strong>. 5° O cargo de Diretor da Biblioteca caberá a um oficial superior do QEMA, classificado nessa função.
+**Art**. 5° O cargo de Diretor da Biblioteca caberá a um oficial superior do QEMA, classificado nessa função.
 
-<strong>Art</strong>. 6° A função de secretario será exercida por um Capitão ou Major da QSG, indicado pelo Diretor da biblioteca.
+**Art**. 6° A função de secretario será exercida por um Capitão ou Major da QSG, indicado pelo Diretor da biblioteca.
 
 Parágrafo único. O secretario responsável pelo expediente da biblioteca, na ausência do Diretor.
 
-<strong>Art</strong>. 7° O Serviço Administrativo compreenderá:
+**Art**. 7° O Serviço Administrativo compreenderá:
 
 a) Fiscalização Administrativa;
 
@@ -78,11 +76,11 @@ b) Tesouraria e Almoxarifado.
 
 § 2° O Tesoureiro Almoxarife será um oficial subalterno do Quadro de Intendentes do Exército.
 
-<strong>Art</strong>. 8° Para atender aos diversos serviços a biblioteca disporá de oficiais do QAO, Sargento arquivista-datilográfo e funcionário civis.
+**Art**. 8° Para atender aos diversos serviços a biblioteca disporá de oficiais do QAO, Sargento arquivista-datilográfo e funcionário civis.
 
-<strong>Art</strong>. 9° O encarregado da Biblioteca de consulta será em princípio, bibliotecário de maior categoria, designado pelo Diretor.
+**Art**. 9° O encarregado da Biblioteca de consulta será em princípio, bibliotecário de maior categoria, designado pelo Diretor.
 
-<strong>Art</strong>. 10. A Comissão Diretora de Publicação compor-se-á do Diretor da Biblioteca, seu presidente, e de no máximo seis (6) oficiais do Exército e três (3) escritores civis.
+**Art**. 10. A Comissão Diretora de Publicação compor-se-á do Diretor da Biblioteca, seu presidente, e de no máximo seis (6) oficiais do Exército e três (3) escritores civis.
 
 § 1° Os membros da Comissão Diretora de Publicação terão função honorífica e serão nomeados em portaria pelo Ministro da Guerra, mediante proposta do Diretor da biblioteca, por um período de três anos.
 
@@ -94,13 +92,13 @@ b) Tesouraria e Almoxarifado.
 
 § 5° O membro da Comissão Diretora de Publicação, que faltar a quatro (4) reuniões consecutivas, sem motivo justificado, será substituído.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
 a) Atribuições orgânicas.
 
-<strong>Art</strong>. 11. A Secretaria compreende;
+**Art**. 11. A Secretaria compreende;
 
 \- protocólo.
 
@@ -120,11 +118,11 @@ d) organizar e preparar o Boletim Interno;
 
 e) preparar a correspondência.
 
-<strong>Art</strong>. 12. As atribuições do Serviço Administrativo são as previstas no Regulamento de Administração de Exército e as consignadas no Código de Contabilidade Pública da União, como empresa editora e comercial.
+**Art**. 12. As atribuições do Serviço Administrativo são as previstas no Regulamento de Administração de Exército e as consignadas no Código de Contabilidade Pública da União, como empresa editora e comercial.
 
-<strong>Art</strong>. 13. A Tesouraria Almoxarifado encarregar-se-á de tudo que diz respeito a fundo e material, harmonizado as atividades comerciais de Biblioteca com a legislação em vigor.
+**Art**. 13. A Tesouraria Almoxarifado encarregar-se-á de tudo que diz respeito a fundo e material, harmonizado as atividades comerciais de Biblioteca com a legislação em vigor.
 
-<strong>Art</strong>. 14. Compete á Biblioteca de Consulta:
+**Art**. 14. Compete á Biblioteca de Consulta:
 
 a) manter os livros e demais publicações em perfeito estado de conservação;
 
@@ -142,7 +140,7 @@ g) atender aos consulentes;
 
 h) emprestar livros aos subscritores para consulta à domicilio, exceres para consulta à domicílio, executando-se aquêles cuja retirada não seja permitida.
 
-<strong>Art</strong>. 15. Incumbe à Comissão Diretora de publicação a escolha das obras que devem ser editadas.
+**Art**. 15. Incumbe à Comissão Diretora de publicação a escolha das obras que devem ser editadas.
 
 a) o julgamento é sigilodo e feito por escrutínio;
 
@@ -154,7 +152,7 @@ d) no caso de empate, prevalecerá o voto que incluir o do Diretor;
 
 e) o resultado final do julgamento será comunicado ao autor, por escrito, pelo Secretário, de ordem do Diretor.
 
-<strong>Art</strong>. 16. Para cumprir os encargos constantes das letras <em>a</em>, <em>c</em>, e <em>e</em> do artigo 2, a Biblioteca executará as trabalhos de:
+**Art**. 16. Para cumprir os encargos constantes das letras *a*, *c*, e *e* do artigo 2, a Biblioteca executará as trabalhos de:
 
 \- feitura de livros
 
@@ -164,13 +162,13 @@ e) o resultado final do julgamento será comunicado ao autor, por escrito, pelo 
 
 Parágrafo único. O Secretário superintenderá êsses trabalhos para os quais indicará, ao Diretor, os respectivos auxiliares.
 
-<strong>Art</strong>. 17. Os trabalhos relativos à feitura de livros comportará:
+**Art**. 17. Os trabalhos relativos à feitura de livros comportará:
 
 a) providências acêrca da organização material doas obras a publicar, dos clichês e da revisão em tôdas as suas fases;
 
 b) verificação da marcha dos trabalhos junto às oficinas gráficas.
 
-<strong>Art</strong>. 18. O controle de assinaturas (Fichário) consistirá em:
+**Art**. 18. O controle de assinaturas (Fichário) consistirá em:
 
 a) manter em dia o endereço dos subscritores e as fichas de pagamento;
 
@@ -182,7 +180,7 @@ d) registrar as devoluções de livros feitas pelas unidades;
 
 e) controlar o retôrno à Biblioteca, das guias de remessa de livros, devolvidas pelas unidades e arquivá-las.
 
-<strong>Art</strong>. 19. A expedição compreenderá:
+**Art**. 19. A expedição compreenderá:
 
 a) providências sôbre a confecção de rótulos e embalagens dos livros;
 
@@ -192,7 +190,7 @@ c) anotação do número de cada registrado expedido.
 
 B) Atribuições do Pessoal.
 
-<strong>Art</strong>. 20. Compete ao Diretor:
+**Art**. 20. Compete ao Diretor:
 
 a) superintender os trabalhos da Biblioteca e exercer as funções de Agente Diretor;
 
@@ -206,7 +204,7 @@ e) dispor sôbre a aplicação dos saldos escriturado como renda, resultante da 
 
 f) emitir parecer, sempre que isso lhe seja determinado, sôbre as obras em que o Ministério da Guerra esteja interessado, recorrendo, para isso, se assim julgar necessário, à Comissão Diretora de Publicação.
 
-<strong>Art</strong>. 21. Compete ao Secretario:
+**Art**. 21. Compete ao Secretario:
 
 a) dirigir a Secretaria e fiscalizar os trabalhos dos demais órgãos da Biblioteca, distribuindo os serviços entre os funcionários, de modo a assegurar a execução integral dêste regulamento e das ordens em vigor;
 
@@ -224,17 +222,17 @@ g) superintender os trabalhos de feitura e expedição dos livros, além de outr
 
 h) zelar pela execução do asseio, da ordem, do decôro e disciplina da biblioteca.
 
-<strong>Art</strong>. 22. Compete ao Fiscal Administrativo:
+**Art**. 22. Compete ao Fiscal Administrativo:
 
 Observar as normas relativas à legislação em vigor.
 
-<strong>Art</strong>. 23. Compete ao Tesoureiro Almoxarife:
+**Art**. 23. Compete ao Tesoureiro Almoxarife:
 
 a) dirigir a tesouraria e o almoxarifado, de acôrdo com as normas prescritas no regimento de Administração Exército e no Código de Contabilidade Pública da União;
 
 b) secundar a ação do Secretário na feitura a expedição da publicações;
 
-<strong>Art</strong>. 24. Compete a cada um dos membros da Comissão Diretora de Publicação:
+**Art**. 24. Compete a cada um dos membros da Comissão Diretora de Publicação:
 
 a) comparecer às sessões, quando convocadas;
 
@@ -242,17 +240,17 @@ b) estudar as obras que lhe forem distribuídas para relatar e emitir seu parece
 
 c) ressaltar a sua responsabilidade, sempre que o deseje, com voto vencido, devendo da ata dos trabalhos as razões que apresentou.
 
-<strong>Art</strong>. 25. As atribuições pessoais dos servidores da Biblioteca, não prevista na legislação em vigor e neste regulamento, serão fixadas em Regimento Interno da repartição.
+**Art**. 25. As atribuições pessoais dos servidores da Biblioteca, não prevista na legislação em vigor e neste regulamento, serão fixadas em Regimento Interno da repartição.
 
-<strong>Art</strong>. 26. Os funcionários civis, lotados na Biblioteca são subordinados diretamente ao Secretario.
+**Art**. 26. Os funcionários civis, lotados na Biblioteca são subordinados diretamente ao Secretario.
 
 DISPOSIÇÕES GERAIS
 
-<strong>Art</strong>. 27. A Biblioteca é subordinada ao Gabinete do Ministro de Guerra.
+**Art**. 27. A Biblioteca é subordinada ao Gabinete do Ministro de Guerra.
 
-<strong>Art</strong>. 28. A Biblioteca terá um representante junto aos Corpos de tropa, designados pelos respectivos Comandantes, Chefes ou Diretores.
+**Art**. 28. A Biblioteca terá um representante junto aos Corpos de tropa, designados pelos respectivos Comandantes, Chefes ou Diretores.
 
-<strong>Art</strong>. 29. Compete ao Representante junto aos Corpos de Tropa, Estabelecimento ou Repartição:
+**Art**. 29. Compete ao Representante junto aos Corpos de Tropa, Estabelecimento ou Repartição:
 
 a) enviar mensalmente, por intermédio da Secretária do Corpo, Estabelecimento ou Repartição, a relação nominal dos subscritores, sempre que houver alteração.
 
@@ -266,11 +264,11 @@ e) comunicar qualquer alteração relativa ao endereço dos subscritores.
 
 Parágrafo único. O representante receberá, gratuitamente, um exemplar de cada publicação da Biblioteca, desde que tenha a seu cargo, no mínimo, cinco subscritores.
 
-<strong>Art</strong>. 30. Os livros expedidos pela Biblioteca, para a distribuição a seus subscritores, são considerados carga dos representantes, e só serão descarregadas após a restituição das guias de remessa, devidamente quitadas.
+**Art**. 30. Os livros expedidos pela Biblioteca, para a distribuição a seus subscritores, são considerados carga dos representantes, e só serão descarregadas após a restituição das guias de remessa, devidamente quitadas.
 
 Parágrafo único. O Representante que extraviar livros sob sua responsabilidade, deverá indeniza-los mediante pedido do Diretor da Biblioteca à autoridade que êle estiver diretamente subordinado.
 
-<strong>Art</strong>. 31. São subscritores da Biblioteca, com direito de receber tôdas as suas publicações:
+**Art**. 31. São subscritores da Biblioteca, com direito de receber tôdas as suas publicações:
 
 a) os oficiais e praças das Forças Armadas, da Ativa, da Reserva ou Reformados, que contribuam regularmente com as mensalidade, as quais serão descontadas em folhas (desconto interno).
 
@@ -280,7 +278,7 @@ c) os civis que sirvam nas Repartições do Ministério da Guerra e pagem suas m
 
 d) qualquer cidadão, ou entidade civil, que pague, adiantadamente a assinatura anual.
 
-<strong>Art</strong>. 32. Qualquer pessoa poderá, ter publicadas as linhas que tenha escrito ou traduzido, devendo, para isso, dirija-se por escrito, ao Diretor, declarando que se sujeitará às disposições dêste regulamento.
+**Art**. 32. Qualquer pessoa poderá, ter publicadas as linhas que tenha escrito ou traduzido, devendo, para isso, dirija-se por escrito, ao Diretor, declarando que se sujeitará às disposições dêste regulamento.
 
 § 1º Pelo tradutor, deverá ser apresentada a autorização do autor para a divulgação do trabalho.
 
@@ -288,18 +286,18 @@ d) qualquer cidadão, ou entidade civil, que pague, adiantadamente a assinatura 
 
 § 3º Os trabalhos relativos a revisão, formato e capas dos livros entregues à Biblioteca são de sua exclusiva competência.
 
-<strong>Art</strong>. 33. A Biblioteca pagará, aproximadamente, pela edição, ao autor ou tradutor do livro publicado, uma quantia correspondente a 10% da importância relativa às mensalidades do mês anterior a divulgação da obra, e proveniente da contribuição dos assinantes.
+**Art**. 33. A Biblioteca pagará, aproximadamente, pela edição, ao autor ou tradutor do livro publicado, uma quantia correspondente a 10% da importância relativa às mensalidades do mês anterior a divulgação da obra, e proveniente da contribuição dos assinantes.
 
 Parágrafo único. Cabe ao Diretor determinar os pagamentos aos autores ou tradutores de obras editadas.
 
-<strong>Art</strong>. 34. Os livros da Biblioteca de consulta, extraviados ou inutilizados pelos seus leitores, serão por êstes indenizados, de acôrdo com o valor da obra na ocasião da indenização.
+**Art**. 34. Os livros da Biblioteca de consulta, extraviados ou inutilizados pelos seus leitores, serão por êstes indenizados, de acôrdo com o valor da obra na ocasião da indenização.
 
 § 1º A importâncias resultantes da indenização de obras extraviadas constituirão um “fundo especial” destinado de preferência à aquisição e reposição da mesma obra, ou de outros livros de valor correspondente.
 
-<strong>Art</strong>. 35. A Biblioteca gozará de franquia postal e telegráfica.
+**Art**. 35. A Biblioteca gozará de franquia postal e telegráfica.
 
-<strong>Art</strong>. 36. A Biblioteca do Exército continuará a gozar dos direitos de importação de papel para os livros de suas publicações (Decreto nº 26.632, de 6 de Maio de 1944).
+**Art**. 36. A Biblioteca do Exército continuará a gozar dos direitos de importação de papel para os livros de suas publicações (Decreto nº 26.632, de 6 de Maio de 1944).
 
 Rio de Janeiro, 7 de abril de 1954.
 
-<strong>ZENÓBIO DA COSTA</strong>
+**ZENÓBIO DA COSTA**

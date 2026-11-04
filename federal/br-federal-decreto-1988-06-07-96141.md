@@ -1,5 +1,3 @@
-###DEC-096141-0-000-07-06-1988@@@
-
 DECRETO N° 96.141, DE 07 DE JUNHO DE 1988
 
 Regula, no âmbito da Administração Federal Direta e Autárquica, o reaproveitamento, a movimentação e a alienação de material, bem assim outras formas de seu desfazimento, e dá outras providencias.

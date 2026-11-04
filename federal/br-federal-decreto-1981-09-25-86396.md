@@ -1,5 +1,3 @@
-###DEC-086396-0-000-25-09-1981@@@
-
 DECRETO Nº 86.396, DE 25 DE SETEMBRO DE 1981
 
 Renova por 15 (quinze) anos a concessão outorgada à TELEVISÃO GUAJARÁ LTDA., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Belém, Estado do Pará.

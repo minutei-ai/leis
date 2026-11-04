@@ -1,14 +1,12 @@
-###DEC-040455-0-000-03-12-1956@@@
+**DECRETO Nº 40.455, DE 3 DE DEZEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.455, DE 3 DE DEZEMBRO DE 1956.</strong>
+***Suprime cargos existentes do Quadro Suplementar do Ministério do Trabalho, Industria e Comércio.***
 
-<em><strong>Suprime cargos existentes do Quadro Suplementar do Ministério do Trabalho, Industria e Comércio.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição e nos têrmos do art. 1º alínea *n*. do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição e nos têrmos do art. 1º alínea <em>n</em>. do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam Suprimidos no Quadro Suplementar do Ministério do Trabalho, Indústria e Comércio:
+**Art**. 1º Ficam Suprimidos no Quadro Suplementar do Ministério do Trabalho, Indústria e Comércio:
 
 1 cargo da classe H, vaga em virtude da promoção de João da Silva Freitas e 1 na classe I, vago em virtude da promoção de João da Silva Freitas, ambos da carreira de Dactiloscopista;
 
@@ -22,10 +20,10 @@
 
 1 cargo isolado de provimento efetivo, de Diretor, padrão R, vago em virtude a aposentadoria de João Carlos Vital, ficando sem aplicação a dotação correspondente.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 3 de dezembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Parsifal Barroso

@@ -26,7 +26,8 @@ Art. 8 - Fica o Poder Executivo autorizado a limitar a carga tributária do Impo
 
 § 1º - A limitação da carga tributária de que cuida esta Lei, obrigará o assento da alíquota de dez inteiros por cento (10%), na base tributária total, que se expressa no valor bruto das mercadorias e produtos vendidos ou consignados para transformação ou para consumo no território estadual ou fora dele.
 
-Redação de acordo coma Lei nº 1.819, de 07 de dezembro de 1962.<br>
+Redação de acordo coma Lei nº 1.819, de 07 de dezembro de 1962.
+
 Redação original: "§ 1º - A limitação de carga tributária autorizada neste artigo obriga o assento da alíquota de dez por cento (10%) na base tributária total, que se expressa no preço bruto das mercadorias ou produtos vendidos ou consignados para transformação ou para consumo no território estadual ou fora dele." 
 
 § 2º - A base tributária total será alcançada, no regime de incidência única, pela complementação do pagamento do imposto sobre a majoração dos preços das mercadorias ou produtos em operações de venda ou consignações subsequentes às operações de compra ou recebimento dos mesmos, e cada parcela devida em razão de revenda será recolhida no prazo fixado no [artigo 47, § 1º, da lei nº 689, de 28 de dezembro de 1954](https://www.legislabahia.ba.gov.br/documentos/lei-no-689-de-28-de-dezembro-de-1954#LO_689_Art__47_P_1) .
@@ -49,12 +50,14 @@ Parágrafo único - Quando o vendedor for contribuinte indireto e a venda for ef
 
 Art. 12 - O pagamento do imposto, em regime de incidência única, será feito pelo comprador, quando este for contribuinte inscrito e o vendedor for contribuinte indireto, mediante aposição de selos ou por verba, no livro de compras nos prazos fixados na Lei nº 689, de 28 de dezembro de 1954.
 
-Redação de acordo coma Lei nº 1.819, de 07 de dezembro de 1962.<br>
+Redação de acordo coma Lei nº 1.819, de 07 de dezembro de 1962.
+
 Redação original: "Art. 12 - O pagamento do imposto a que está obrigado o comprador, quando os vendedores forem contribuintes indiretos, poderá ser efetuados  em duas parcelas, sendo a primeira de quarenta por cento (40%) do crédito fiscal surgente do valor da compra da incidência única, mediante a aposição dos selos próprios, ou por verba, no livro destinado ao registro de compras, e a segunda de sessenta por cento (60%) do crédito fiscal surgente do valor da revenda na mesma incidência, na forma e nos prazos da Lei nº 689, de 28 de dezembro de 1954, dando-se por quitado o imposto, se novos valores não se adicionarem ao objeto da venda."
 
 Parágrafo único - quando o comprador tiver mais de um domicilio fiscal no Estado ou fora dele, não se autenticará guia ou documento para livre embarque ou despacho de mercadorias produzidas no território estadual, sem prova do pagamento do imposto, em regime de incidência única.
 
-Redação de acordo coma Lei nº 1.819, de 07 de dezembro de 1962.<br>
+Redação de acordo coma Lei nº 1.819, de 07 de dezembro de 1962.
+
 Redação original: "Quando o comprador mantiver domicílio fiscal também fora do território estadual, só se expedirá guia livre de exportação da mercadoria adquirida no Estado, após comprovado o pagamento total do imposto, de regime da incidência única."
 
 Art. 13 - Serão apreendidas, mediante lavratura de auto específico, as mercadorias ou produtos que transitarem ou se encontrarem depositadas, para fins mercantis, no território do Estado, desacompanhadas de documentação fiscal própria ou quando da mesma documentação não constar o "visto" aposto por funcionário fiscal com jurisdição no percurso entre o local de sua expedição ou de zona fronteiriça com outro Estado, e o respectivo destino.
@@ -99,4 +102,4 @@ Onde se lê: insersivas,
 
 Leia-se inservíveis.
 
-* * *
+ *

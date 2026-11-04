@@ -1,5 +1,3 @@
-###DEC-062180-A-000-26-01-1968@@@
-
 DECRETO Nº 62.180, DE 26 DE JANEIRO DE 1968.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério das Relações Exteriores, cargo originário do Quadro de Pessoal do Departamento Nacional de Portos e Vias Navegáveis - Ministério dos Transportes e dá outras providências.

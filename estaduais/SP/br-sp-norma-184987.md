@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=184987)
-
 # DECRETO Nº 63.161, DE 16 DE JANEIRO DE 2018
 
 ### _Autoriza a Fazenda do Estado a permitir o uso, a título precário, gratuito e por prazo indeterminado, em favor da Fundação de Proteção e Defesa do Consumidor - PROCON-SP, de parte do imóvel que especifica_
@@ -22,10 +20,16 @@ Palácio dos Bandeirantes, 16 de janeiro de 2018
 
 GERALDO ALCKMIN
 
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 16 de janeiro de 2018.

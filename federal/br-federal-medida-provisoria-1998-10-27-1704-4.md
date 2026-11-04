@@ -1,5 +1,3 @@
-###MPV-001704-0-004-27-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.704-4, DE 27 DE OUTUbRO DE 1998
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

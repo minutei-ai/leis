@@ -1,5 +1,3 @@
-###DEC-081215-0-000-12-01-1978@@@
-
 decreto nº 81.215, de 12 de janeiro de 1978
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Paulista Ltda., para que a TV Globo de Recife Ltda., passe a executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Recife, Estado de Pernambuco.

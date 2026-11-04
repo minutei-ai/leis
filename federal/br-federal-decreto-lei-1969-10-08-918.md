@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/57874c80-38d7-486a-a72b-faa3c0c71eb1/texto#nowhere)
 
-###DEL-000918-0-000-08-10-1969@@@
-
 DECRETO-LEI Nº 918, DE 8 DE OUTUBRO DE 1969
 
 Altera a Lei nº 4.448, de 29 de outubro de 1964 - Lei de Promoções dos Oficiais do Exército - e dá outras Providências.

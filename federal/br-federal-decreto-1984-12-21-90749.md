@@ -1,5 +1,3 @@
-###DEC-090749-0-000-21-12-1984@@@
-
 Decreto nº 90.749, de 21 de dezembro de 1984
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à formação da 1ª etapa do reservatório da usina hidrelétrica de Ilha Grande, da Centrais Elétricas do Sul do Brasil S.A.-ELETROSUL, nos Estados do Paraná e Mato Grosso do Sul.

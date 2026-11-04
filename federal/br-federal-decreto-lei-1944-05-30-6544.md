@@ -1,5 +1,3 @@
-###DEL-006544-0-000-30-05-1944@@@
-
 DECRETO-LEI N. 6.544 – DE 30 DE MAIO DE 1944
 
 Altera a carreira de Médico Legista, do Quadro Permanente do Ministério da Justiça e Negócios Interiores

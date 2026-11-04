@@ -1,5 +1,3 @@
-###DEC-064514-0-000-15-05-1969@@@
-
 DECRETO Nº 64.514, DE 15 DE MAIO DE 1969.
 
 Declara de utilidade pública a "Cidade Ozanam", com sede em Belo Horizonte, Estado de Minas Gerais.

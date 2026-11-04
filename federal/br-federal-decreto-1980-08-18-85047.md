@@ -1,5 +1,3 @@
-###DEC-085047-0-000-18-08-1980@@@
-
 Decreto nº 85.047, de 18 de agosto de 1980.
 
 Autoriza o aumento da potência da RÁDIO SOCIEDADE CRUZ DE MALTA LTDA., na cidade de Lauro Müller, Estado de Santa Catarina.

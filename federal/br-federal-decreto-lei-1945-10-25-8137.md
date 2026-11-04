@@ -1,5 +1,3 @@
-###DEL-008137-0-000-25-10-1945@@@
-
 DECRETO-LEI N. 8.137 – DE 25 DE OUTUBRO DE 1945
 
 Cria, no Corpo de Bombeiros do Distrito Federal um cargo de Capitão Secretário, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075100-0-000-20-12-1974@@@
-
 DECRETO nº 75.100, DE 20 DE DEZEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A., Estado de Goiás.

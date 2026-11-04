@@ -1,5 +1,3 @@
-###DEC-070472-0-000-03-05-1972@@@
-
 decerto nº 70.472, de 3 de maio de 1972
 
 Torna sem efeito a Redistribuição de servidor do Ministério dos Transportes para o Ministério do Exército, e dá outras providências.

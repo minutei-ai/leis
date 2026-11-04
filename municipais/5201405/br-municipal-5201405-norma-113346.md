@@ -4,7 +4,8 @@ Institui o adicional de risco de vida para os integrantes da carreira da Guarda 
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-Art. 1º Fica instituído o Adicional de Risco de Vida para os ocupantes de carreira dos cargos efetivos de Guarda Municipal, na proporção de 100% (cem por cento) do valor do vencimento básico do cargo.<br>
+Art. 1º Fica instituído o Adicional de Risco de Vida para os ocupantes de carreira dos cargos efetivos de Guarda Municipal, na proporção de 100% (cem por cento) do valor do vencimento básico do cargo.
+
 (Redação alterada pela Lei Complementar nº 160, de 12 de abril de 2019).
 
 ~~Art. 1º Fica instituído o Adicional de Risco de Vida para os ocupantes de carreira dos cargos efetivos de Guarda Municipal, na proporção de 70% (setenta por cento) do valor do vencimento básico do cargo.~~
@@ -31,12 +32,14 @@ VIII- Pertencentes a outras esferas do governo: União, Estados e Municípios.
 
 § 1º. O adicional de que trata esta lei será incorporado aos proventos de inatividade concedidos após a publicação desta lei.
 
-§ 2º. Será recolhida a contribuição previdenciária sobre o Adicional de Risco de Vida para os integrantes da carreira da Guarda Civil Municipal. <br>
+§ 2º. Será recolhida a contribuição previdenciária sobre o Adicional de Risco de Vida para os integrantes da carreira da Guarda Civil Municipal. 
+
 (Redação alterada pela Lei Complementar nº 197, de 24 de maio de 2022).
 
 ~~Art. 3º O Adicional de Risco de Vida incidirá sobre férias, 13º salário, licença-maternidade e licença para desempenho de mandato classista.~~
 
-Art. 4º O percentual previsto no art. 1º será pago retroativo a 1º de Março de 2019.<br>
+Art. 4º O percentual previsto no art. 1º será pago retroativo a 1º de Março de 2019.
+
 (Redação alterada pela Lei Complementar nº 160, de 12 de abril de 2019).
 
 ~~Art. 4º O percentual previsto no art. 1º será pago retroativo a 1º de fevereiro de 2018.~~
@@ -49,8 +52,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 17 de abril de 2018.
 
  
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA LUZIANO DA COSTA VALE<br>
+AFONSO BOAVENTURA LUZIANO DA COSTA VALE
+
 Secretário

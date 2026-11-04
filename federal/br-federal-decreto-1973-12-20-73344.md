@@ -1,5 +1,3 @@
-###DEC-073344-0-000-20-12-1973@@@
-
 DECRETO N  73.344 - DE 20 DE DEZEMBRO DE 1973
 
 Autoriza o funcionamento da Faculdade de Serviço Social, com o curso de Serviço Social, mantida pelas Faculdades “Augusto Mota”, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

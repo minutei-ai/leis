@@ -1,5 +1,3 @@
-###MPV-001682-0-006-25-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.682-6, DE 25 DE SETEMBRO DE 1998
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

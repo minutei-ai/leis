@@ -1,5 +1,3 @@
-###DEC-050998-0-000-19-07-1961@@@
-
 Decreto nº 50.998, de 19 de julho de 1961.
 
 Declara públicas, de uso comum do domínio da União e do Estado da Bahia, as águas do rio denominado “Braço do Sul”, Frade e Frade, respectivamente nos seus trechos superior, médio e inferior.

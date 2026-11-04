@@ -1,5 +1,3 @@
-###DEC-053055-0-000-02-12-1963@@@
-
 DECRETO Nº 53.055, DE 2 DE DEZEMBRO DE 1963.
 
 Aprova o aumento de capital e a reforma estatutária do Banco do Estado da Guanabara, S. A.

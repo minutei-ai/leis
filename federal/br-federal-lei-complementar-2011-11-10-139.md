@@ -1,5 +1,3 @@
-###LCP-000139-0-000-10-11-2011-PUB-01@@@
-
 LEI COMPLEMENTAR Nº 139, DE 10 DE NOVEMBRO DE 2011
 
 Altera dispositivos da Lei Complementar nº 123, de 14 de dezembro de 2006, e dá outras providências.

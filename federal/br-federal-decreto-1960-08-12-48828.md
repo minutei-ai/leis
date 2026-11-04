@@ -1,5 +1,3 @@
-###DEC-048828-0-000-12-08-1960@@@
-
 DECRETO Nº 48.828, DE 12 DE AGôSTO DE 1960.
 
 Autoriza o Companhia Fôrça e Luz Norte Fluminense a ampliar e modificar o sistema distribuidor de Miracema, Estado do Rio de Janeiro.

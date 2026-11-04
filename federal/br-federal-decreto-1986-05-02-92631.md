@@ -1,5 +1,3 @@
-###DEC-092631-0-000-02-05-1986@@@
-
 DECRETO Nº 92.631, DE 2 DE MAIO DE 1986
 
 Dispõe sobre o limite do Capital autorizado da PETROBRÁS COMÉRCIO INTERNACIONAL S.A. - INTERBRÁS.

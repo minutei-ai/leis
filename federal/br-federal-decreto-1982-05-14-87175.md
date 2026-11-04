@@ -1,5 +1,3 @@
-###DEC-087175-0-000-14-05-1982@@@
-
 Decreto nº 87.175, de 14 de maio de 1982
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e Niterói, Estado do Rio de Janeiro e Recife, Estado de Pernambuco.

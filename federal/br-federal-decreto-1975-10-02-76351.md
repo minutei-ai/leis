@@ -1,5 +1,3 @@
-###DEC-076351-0-000-02-10-1975@@@
-
 Decreto nº 76.351, de 2 de outubro de 1975.
 
 Abre ao Ministério dos Transportes, em favor do Departamento Nacional de Estradas de Rodagem, o crédito suplementar de Cr$ 21.980.000,00 para reforço de dotações consignadas no vigente Orçamento.
@@ -10,19 +8,183 @@ Decreta:
 
 Art. 1º Fica aberto ao Ministério dos Transportes, em favor do Departamento de Estradas de Rodagem, o crédito suplementar no valor de Cr$ 21.980.000,00 ( vinte e um milhões, novecentos e oitenta mil cruzeiros), para reforço de dotações orçamentárias consignadas no subanexo 5700, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5700</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DOS TRANSPORTES</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5704</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Departamento Nacional de Estradas de Rodagem</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; font-style:italic">Programa de Trabalho</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5704.16885311.231</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- BR -376 - Dourados-Garuvá .........................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">14.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5704.16885311.713</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Estudos e Projetos para o Sistema Rodoviário ............</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">7.980.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Total ................................................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">21.980.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+5700
+
+- MINISTÉRIO DOS TRANSPORTES
+
+5704
+
+- Departamento Nacional de Estradas de Rodagem
+
+Programa de Trabalho
+
+5704.16885311.231
+
+- BR -376 - Dourados-Garuvá .........................................
+
+14.000.000
+
+5704.16885311.713
+
+- Estudos e Projetos para o Sistema Rodoviário ............
+
+7.980.000
+
+Total ................................................................................
+
+21.980.000
 
 ## Detalhamento do Programa de Trabalho à Conta de Recursos Vinculados
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5704.16885311.231</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- BR-376 - Dourados-Garuvá ..........................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">14.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Taxa Rodoviária Única .................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">14.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5704.16885311.713</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Estudos e Projetos para o Sistema Rodoviário ............</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7.980.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">04</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos ........................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">7.980.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Total ................................................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">21.980.000</span></p></td></tr></tbody></table>
+5704.16885311.231
+
+- BR-376 - Dourados-Garuvá ..........................................
+
+14.000.000
+
+11
+
+- Taxa Rodoviária Única .................................................
+
+14.000.000
+
+5704.16885311.713
+
+- Estudos e Projetos para o Sistema Rodoviário ............
+
+7.980.000
+
+04
+
+- Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos ........................................................
+
+7.980.000
+
+Total ................................................................................
+
+21.980.000
 
 Art. 2.º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao subanexo 5700, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5700</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- MINISTÉRIO DOS TRANSPORTES</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5704</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Departamento Nacional de Estradas de Rodagem</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; font-style:italic">Programa de Trabalho</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5704.16885311.181 ......................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5704.16885311.217 ......................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5704.16885311.226 ......................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.980.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5704.16885311.227 ......................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">9.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5704.16885311.251 ......................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">5.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Total ................................................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">21.980.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+5700
+
+- MINISTÉRIO DOS TRANSPORTES
+
+5704
+
+- Departamento Nacional de Estradas de Rodagem
+
+Programa de Trabalho
+
+Projeto
+
+- 5704.16885311.181 ......................................................
+
+1.000.000
+
+Projeto
+
+- 5704.16885311.217 ......................................................
+
+5.000.000
+
+Projeto
+
+- 5704.16885311.226 ......................................................
+
+1.980.000
+
+Projeto
+
+- 5704.16885311.227 ......................................................
+
+9.000.000
+
+Projeto
+
+- 5704.16885311.251 ......................................................
+
+5.000.000
+
+Total ................................................................................
+
+21.980.000
 
 ## Detalhamento do Programa de Trabalho à Conta de Recursos Vinculados
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5704.16885311.181 ......................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Taxa Rodiviária Única ..................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5704.16885311.217 ......................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">04</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos ........................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Taxa Rodoviária Única .................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5704.16885311.226 ......................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.980.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">04</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos ........................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.980.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5704.16885311.227 ......................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">9.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Taxa Rodoviária Única .................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">9.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- 5704.16885311.251 ......................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">04</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos ........................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">5.000.000</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Total ................................................................................</span></p></td><td style="width:66.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">21.980.000</span></p></td></tr></tbody></table>
+Projeto
+
+- 5704.16885311.181 ......................................................
+
+1.000.000
+
+11
+
+- Taxa Rodiviária Única ..................................................
+
+1.000.000
+
+Projeto
+
+- 5704.16885311.217 ......................................................
+
+5.000.000
+
+04
+
+- Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos ........................................................
+
+1.000.000
+
+11
+
+- Taxa Rodoviária Única .................................................
+
+4.000.000
+
+Projeto
+
+- 5704.16885311.226 ......................................................
+
+1.980.000
+
+04
+
+- Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos ........................................................
+
+1.980.000
+
+Projeto
+
+- 5704.16885311.227 ......................................................
+
+9.000.000
+
+11
+
+- Taxa Rodoviária Única .................................................
+
+9.000.000
+
+Projeto
+
+- 5704.16885311.251 ......................................................
+
+5.000.000
+
+04
+
+- Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos ........................................................
+
+5.000.000
+
+Total ................................................................................
+
+21.980.000
 
 Art. 3.º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

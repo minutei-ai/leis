@@ -1,5 +1,3 @@
-###DEC-077784-0-000-08-06-1976@@@
-
 DECRETO Nº 77.784, DE 8 DE JUNHO DE 1976.
 
 Cria a Diretoria de Obras Civis da Marinha, extingue a Diretoria de Máquinas da Marinha, altera a denominação e as atribuições da atual Diretoria de Engenharia da Marinha e dá outras providências.

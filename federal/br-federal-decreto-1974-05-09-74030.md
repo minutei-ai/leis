@@ -1,5 +1,3 @@
-###DEC-074030-0-000-09-05-1974@@@
-
 DECRETO Nº 74.030, DE 9 DE MAIO DE 1974.
 
 Concede reconhecimento à Faculdade Estadual de Direito do Norte Pioneiro, mantida pela Fundação Faculdade Estadual de Direito do Norte Pioneiro, com sede na cidade de Jacarezinho, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-076671-0-000-25-11-1975@@@
-
 DECRETO Nº 76.671, DE 25 DE NOVEMBRO DE 1975.
 
 Concede novo prazo para utilização do imóvel que menciona, situado na cidade e Estado do Rio de Janeiro.

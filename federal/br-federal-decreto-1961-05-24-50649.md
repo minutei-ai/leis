@@ -1,5 +1,3 @@
-###DEC-050649-0-000-24-05-1961@@@
-
 DECRETO Nº 50.649, DE 24 DE MAIO DE 1961.
 
 Dispõe sôbre o Conselho Consultivo de Administração que funciona junto à Superintendência da Administração do Pôrto do Rio de Janeiro e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-046566-0-000-11-08-1959@@@
-
 Decreto nº 46.566, de 11 de agôsto de 1959.
 
 Concede à “Alvorada - Companhia Nacional de Seguros Gerais” autorização para funcionar e aprova os seus Estatutos.

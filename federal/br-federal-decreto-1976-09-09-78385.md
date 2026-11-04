@@ -1,5 +1,3 @@
-###DEC-078385-0-000-09-09-1976@@@
-
 DECRETO Nº 78.385, DE 9 DE SETEMBRO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a ceder ao Governo do Estado do Rio de Janeiro o imóvel que menciona.

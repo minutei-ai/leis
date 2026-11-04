@@ -1,5 +1,3 @@
-###DEC-070782-0-000-04-07-1972@@@
-
 DECRETO Nº 70.782, DE 4 DE JULHO DE 1972.
 
 Revoga os Decreto nºs 9.384, de 21 de fevereiro de 1912 e 9.577, de 8 de maio de 1912, que concederam à empresa Amazon Land And Colonization Company autorização para funcionar e continuar a funcionar na República Federativa do Brasil.

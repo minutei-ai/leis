@@ -1,5 +1,3 @@
-###DEC-069944-0-000-17-01-1972@@@
-
 DECRETO Nº 69.944, DE 17 DE JANEIRO DE 1972.
 
 Aprova o estatuto da Fundação Serviços de Saúde Pública (Fundação SESP) e dá outras providências.

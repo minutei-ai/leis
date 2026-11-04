@@ -1,5 +1,3 @@
-###DEC-054113-0-000-12-08-1964@@@
-
 DECRETO nº 54.113, DE 12 DE AGÔSTO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento, área de terreno situada no município de Taió, no Estado de Santa Catarina.

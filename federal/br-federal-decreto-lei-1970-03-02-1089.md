@@ -1,5 +1,3 @@
-###DEL-001089-0-000-02-03-1970@@@
-
 # decreTO-LEI Nº 1.089, DE 2 DE mArÇo DE 1970
 
 Dispõe sôbre a legislação do Impôsto de Renda, e dá outras providências.

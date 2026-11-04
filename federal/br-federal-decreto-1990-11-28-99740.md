@@ -1,5 +1,3 @@
-###DEC-099740-0-000-28-11-1990@@@
-
 DECRETO N° 99.740, DE 28 DE NOVEMBRO DE 1990
 
 Altera dispositivos do Decreto n° 62.758, de 22 de maio de 1968, que instituiu a Fundação Universidade Federal de São Carlos, sob a denominação de Fundação Universidade Federal de São Paulo, e dá outras providências.

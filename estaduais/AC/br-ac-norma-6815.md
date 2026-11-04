@@ -1,6 +1,10 @@
 > **LEI Nº 4.804, DE 28 DE MAIO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o oferecimento de bem imóvel público a título de dação em pagamento para fins de indenização em decorrência de desapropriação parcial para implantação do Complexo Viário da Avenida Ceará.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o oferecimento de bem imóvel público a título de dação em pagamento para fins de indenização em decorrência de desapropriação parcial para implantação do Complexo Viário da Avenida Ceará.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

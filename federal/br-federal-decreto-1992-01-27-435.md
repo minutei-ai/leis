@@ -1,7 +1,3 @@
-1
-
-###DEC-000435-0-000-27-01-1992@@@
-
 DECRETO N° 435, DE 27 DE JANEIRO DE 1992(\*)
 
 Aprova as Notas Explicativas do Sistema Harmonizado de Designação e de Codificação de Mercadorias, do Conselho de Cooperação Aduaneira, na versão em língua portuguesa e dá outras providências.

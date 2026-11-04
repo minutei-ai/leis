@@ -1,5 +1,3 @@
-###DEC-069177-0-000-09-09-1971@@@
-
 DECRETO Nº 69.177, DE 9 DE SETEMBRO DE 1971.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita, no município de Poços de Caldas, Estado de Minas Gerais.

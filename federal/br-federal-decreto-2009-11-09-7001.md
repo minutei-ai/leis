@@ -1,5 +1,3 @@
-###DEC-007001-0-000-09-11-2009@@@
-
 DECRETO Nº 7.001, DE 9 DE NOVEMBRO DE 2009.
 
 Altera o art. 8o do Decreto no 107, de 29 de abril de 1991, que regulamenta, para a Marinha, a Lei no 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

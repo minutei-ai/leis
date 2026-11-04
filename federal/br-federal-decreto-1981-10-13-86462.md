@@ -1,5 +1,3 @@
-###DEC-086462-0-000-13-10-1981@@@
-
 DECRETO Nº 86.462, de 13 de outubro de 1981.
 
 Cria o 18º Batalhão Logístico no Ministério do Exército e dá outras providências.

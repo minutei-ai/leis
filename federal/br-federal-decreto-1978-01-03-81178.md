@@ -1,5 +1,3 @@
-###DEC-081178-0-000-03-01-1978@@@
-
 Decreto nº 81.178, de 3 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Comerciais e Administrativas de Santos, com sede na cidade de Santos, Estado de São Paulo.

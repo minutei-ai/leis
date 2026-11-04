@@ -1,5 +1,3 @@
-###DEC-049995-0-000-24-01-1961@@@
-
 DECRETO Nº 49.995, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Alberto Vitale a pesquisar ardósia no município de Guarulhos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-081040-0-000-15-12-1977@@@
-
 Decreto nº 81.040, de 15 de dezembro de 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Ponta de Andreza, Municipio de Tutóia, Estado do Maranhão.

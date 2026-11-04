@@ -1,5 +1,3 @@
-###DEL-008248-0-000-29-11-1945@@@
-
 DECRETO-LEI N. 8.248 – DE 29 DE NOVEMBRO DE 1945
 
 Dispõe sôbre a Comissão Executiva do Leite criada pelo Decreto-lei número 2.384, de 10 de julho de 1940.

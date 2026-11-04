@@ -1,7 +1,3 @@
-1
-
-###MPV-000793-0-000-29-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 793, DE 29 DE DEZEMBRO DE 1994
 
 Altera dispositivos das Leis nºs 7.998, de 11 de janeiro de 1990, 8.036, de 11 de maio de 1990, 8.213, de 24 de julho de 1991, e dá outras providências.

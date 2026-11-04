@@ -1,5 +1,3 @@
-###DEC-066348-0-000-19-03-1970@@@
-
 DECRETO Nº 66.348 - DE 19 DE MARÇO DE 1970
 
 Retifica o Decreto nº 62.834, de 6 de junho de 1968.

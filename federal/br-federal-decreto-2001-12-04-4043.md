@@ -1,5 +1,3 @@
-###DEC-004043-0-000-04-12-2001@@@
-
 DECRETO Nº 4.043, DE 4 DE DEZEMBRO DE 2001
 
 Transfere para o Ministério da Ciência e Tecnologia a Diretoria de Tecnologia da Informação da autarquia Instituto Nacional de Tecnologia da Informação, remaneja os cargos que menciona e dá outras providências.

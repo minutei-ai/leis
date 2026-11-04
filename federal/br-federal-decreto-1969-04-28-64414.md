@@ -1,5 +1,3 @@
-###DEC-064414-0-000-28-04-1969@@@
-
 DECRETO Nº 64.414, DE 28 DE ABRIL DE 1969.
 
 Declara de utilidade pública a "Fundação Educacional do Distrito Federal", com sede no Distrito Federal.

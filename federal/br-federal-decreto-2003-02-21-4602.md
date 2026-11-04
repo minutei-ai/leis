@@ -1,5 +1,3 @@
-###DEC-004602-0-000-21-02-2003@@@
-
 DECRETO Nº 4.602, DE 21 DE FEVEREIRO DE 2003.
 
 Institui Comissão Interministerial para os fins que especifica e dá outras providências.

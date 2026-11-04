@@ -1,5 +1,3 @@
-###DEC-090221-0-000-25-09-1984@@@
-
 DECRETO Nº 90.221, DE 25 DE SETEMBRO DE 1984
 
 Extingue o Depósito de Material Veterinário, no Ministério do Exército, e dá outras providências

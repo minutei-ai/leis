@@ -1,5 +1,3 @@
-###DEC-091844-0-000-29-10-1985@@@
-
 Decreto nº 91.844, de 29 de outubro de 1985
 
 Cria Função de Assessoramento Superior (FAS), para o Ministério da Reforma e do Desenvolvimento Agrário, e dá outras providências.

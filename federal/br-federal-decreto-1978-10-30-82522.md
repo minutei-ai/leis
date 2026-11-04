@@ -1,5 +1,3 @@
-###DEC-082522-0-000-30-10-1978@@@
-
 Decreto nº 82 522, de 30 de outubro de 1978.
 
 Concede reconhecimento ao curso de Educação Física nas modalidades: Licenciatura e Técnico em Desportos, ministrado pelo Centro de Ciências da Saúde da Universidade Federal da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-079100-0-000-06-01-1977@@@
-
 decreto nº 79.100, de 6 de janeiro de 1977.
 
 Fixa, no Ministério da Aeronáutica, os mínimos de vagas para promoção obrigatória, referente ao ano - base 1976, em todos os Quadros do Corpo de Oficiais da Ativa.

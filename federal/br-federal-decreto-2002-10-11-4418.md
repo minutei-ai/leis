@@ -1,5 +1,3 @@
-###DEC-004418-0-000-11-10-2002@@@
-
 DECRETO Nº 4.418, DE 11 DE OUTUBRO DE 2002
 
 Aprova novo Estatuto Social da empresa pública Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

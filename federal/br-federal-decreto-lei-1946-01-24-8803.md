@@ -1,5 +1,3 @@
-###DEL-008803-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.803 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre o provimento interino de cargos da carreira de Taquígrafo dos Quadros das Secretarias da Câmara dos Deputados e Senado Federal.

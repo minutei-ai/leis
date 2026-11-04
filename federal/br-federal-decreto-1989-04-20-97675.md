@@ -1,7 +1,3 @@
-1
-
-###DEC-097675-0-000-20-04-1989@@@
-
 DECRETO Nº 97 675, DE 20 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Dança, da Faculdade de Dança de Londrina, Paraná.

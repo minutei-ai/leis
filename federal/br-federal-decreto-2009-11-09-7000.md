@@ -1,5 +1,3 @@
-###DEC-007000-0-000-09-11-2009@@@
-
 DECRETO Nº 7.000, DE 9 DE NOVEMBRO DE 2009.
 
 Transfere da estrutura organizacional da Casa Civil da Presidência da República para o Ministério da Cultura o Conselho Superior do Cinema, criado pelo art. 3o da Medida Provisória no 2.228-1, de 6 de setembro de 2001, e altera o Decreto no 4.858, de 13 de outubro de 2003, que dispõe sobre a composição e funcionamento do Conselho Superior do Cinema, e dá outras providências.

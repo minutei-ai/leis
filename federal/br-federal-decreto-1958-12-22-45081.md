@@ -1,5 +1,3 @@
-###DEC-045081-0-000-22-12-1958@@@
-
 decreto nº 45.081, de 22 dezembro de 1958.
 
 Autorização para comprar pedras preciosas de acôrdo com o Decreto-lei nº 466, de 4 de junho de 1938. Parecer favorável. Projeto de decreto.

@@ -1,5 +1,3 @@
-###DEC-003414-0-000-14-04-2000@@@
-
 DECRETO Nº 3.414, DE 14 DE ABRIL DE 2000.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério das Relações Exteriores, e dá outras providências.

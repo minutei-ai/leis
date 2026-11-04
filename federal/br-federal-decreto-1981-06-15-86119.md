@@ -1,5 +1,3 @@
-###DEC-086119-0-000-15-06-1981@@@
-
 DECRETO Nº 86.119, de 15 de junho de 1981.
 
 Inclui representante do Ministério da Agricultura na Comissão de Política Aduaneira.

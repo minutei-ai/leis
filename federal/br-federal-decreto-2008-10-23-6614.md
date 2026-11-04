@@ -1,5 +1,3 @@
-###DEC-006614-0-000-23-10-2008@@@
-
 DECRETO Nº 6.614, DE 23 DE OUTUBRO DE 2008.
 
 Regulamenta a Lei no 8.256, de 25 de novembro de 1991, que cria áreas de livre comércio nos Municípios de Boa Vista e Bonfim, no Estado de Roraima, e dá outras providências.

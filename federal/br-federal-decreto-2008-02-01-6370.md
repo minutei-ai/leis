@@ -1,5 +1,3 @@
-###DEC-006370-0-000-01-02-2008@@@
-
 DECRETO Nº 6.370, DE 1º DE FEVEREIRO DE 2008.
 
 Altera os Decretos nos 5.355, de 25 de janeiro de 2005, que dispõe sobre a utilização do Cartão de Pagamento do Governo Federal - CPGF, e 93.872, de 23 de dezembro de 1986, que dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza e consolida a legislação pertinente, e determina o encerramento das contas bancárias destinadas à movimentação de suprimentos de fundos.
@@ -61,5 +59,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 6.2.2008

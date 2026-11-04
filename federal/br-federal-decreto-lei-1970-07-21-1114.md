@@ -1,5 +1,3 @@
-###DEL-001114-0-000-21-07-1970@@@
-
 # DECRETO-LEI Nº 1.114, DE 21 DE JULHO DE 1970
 
 Acrescenta parágrafo único ao artigo 2º do Decreto-lei nº 1.097, de 23 de março de 1970.

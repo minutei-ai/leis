@@ -1,14 +1,12 @@
-###DEC-040630-0-000-27-12-1956@@@
+**DECRETO Nº 40.630, DE 27 DE DEZEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.630, DE 27 DE DEZEMBRO DE 1956.</strong>
+***Altera o Decreto nº 29.155, de 17 de janeiro de 1951, e dá outras providências.***
 
-<em><strong>Altera o Decreto nº 29.155, de 17 de janeiro de 1951, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 1º e seu parágrafo único do Decreto nº 29.155, de 17 de janeiro de 1951, são substituídos pelas disposições seguintes:
+**Art**. 1º O art. 1º e seu parágrafo único do Decreto nº 29.155, de 17 de janeiro de 1951, são substituídos pelas disposições seguintes:
 
 “Art. 1º Os direitos e vantagens instituídos pela Lei número 1.234, de 14 de novembro de 1950, serão concedidos aos servidores civis da União e aos empregados das entidades paraestatais de natureza autárquica, desde que, no exercício de suas funções:
 
@@ -26,7 +24,7 @@ b) haja operação direta e habitual com Raios X ou substâncias radioativas, pr
 
 § 5º No que se refere aos militares, a Lei nº 1.234 de 1950, terá a regulamentação à parte”.
 
-<strong>Art</strong>. 2º Os arts. 2º e 5º do Decreto nº 29.155, de 1951, passam a vigorar com a redação seguinte:
+**Art**. 2º Os arts. 2º e 5º do Decreto nº 29.155, de 1951, passam a vigorar com a redação seguinte:
 
 “Art. 2º Para os efeitos do art. 4.º da Lei nº 1.234, de 14 de novembro de 1950, serão consideradas tarefas acessórias ou auxiliares aquelas que, não constituindo atribuição normal ou habitual do cargo ou função, foram exercidas esporadicamente ou a título de colaboração transitória, por profissionais não especializados em roentgen-diagnóstico ou radioterapia, como complemento do exercício de outras especialidades médico-cirúrgicas.
 
@@ -38,11 +36,11 @@ Parágrafo único. Os auxiliares dos radiologistas ou dos operadores classificad
 
 § 2º O Serviço Nacional de Fiscalização da Medicina organizará, no prazo de 6 (seis) meses a partir da publicação dêste Decreto, o registro de especialistas e técnicos em roentgen-diagnóstico e radioterapia, com base no disposto no art. 28 do Código de Odontologia Médica, oficializado pelo Decreto-lei nº 7.955, de 13 de setembro de 1945”.
 
-<strong>Art</strong>. 3º É acrescentado ao art. 6º do Decreto nº 21.155, de 1951, o seguinte parágrafo:
+**Art**. 3º É acrescentado ao art. 6º do Decreto nº 21.155, de 1951, o seguinte parágrafo:
 
 “§ 3º Os órgãos oficiais e paraestatais providenciarão no sentido de que, semestralmente, o chefe do respectivo serviço de radiologia ateste a eficiência dos dispositivos de proteção das instalações de Raios X e de substâncias radioativas”.
 
-<strong>Art</strong>. 4º Os servidores que, na data dêste Decreto, estiverem no gôzo dos direitos e vantagens instituídos pela Lei nº 1.234, de 14 de novembro de 1950, deverão declará-lo, por escrita dentro de 30 (trinta) dias, especificando:
+**Art**. 4º Os servidores que, na data dêste Decreto, estiverem no gôzo dos direitos e vantagens instituídos pela Lei nº 1.234, de 14 de novembro de 1950, deverão declará-lo, por escrita dentro de 30 (trinta) dias, especificando:
 
 a) lotação do cargo ou função que ocupa;
 
@@ -56,13 +54,13 @@ d) ato que concedeu a gratificação.
 
 § 2º O silêncio do servidor, no prazo fixado neste artigo, constituirá falta grave e acarretará a suspensão do pagamento da gratificação.
 
-<strong>Art</strong>. 5º Êste Decreto entrará em vigor na data da sua publicação.
+**Art**. 5º Êste Decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 6º Revogam-se as disposições em contrário.
+**Art**. 6º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 27 de dezembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 

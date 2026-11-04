@@ -1,5 +1,3 @@
-###DEC-075305-0-000-27-01-1975@@@
-
 DECRETO Nº 75.305, DE 27 DE JANEIRO DE 1975.
 
 Declara a caducidade do Manifesto de Mina que menciona.

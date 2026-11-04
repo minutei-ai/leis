@@ -1,5 +1,3 @@
-###DEC-054338-0-000-29-09-1964@@@
-
 DECRETO Nº 54.338, DE 29 DE SETEMBRO DE 1964.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio de Janeiro a construir linha e transmissão.

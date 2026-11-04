@@ -1,5 +1,3 @@
-###DEC-007026-0-000-08-12-2009@@@
-
 DECRETO Nº 7.026, DE 8 DE DEZEMBRO DE 2009.
 
 Dá nova redação ao inciso VIII do art. 1o do Decreto no 6.827, de 22 de abril de 2009, que dispõe sobre a composição do Conselho Deliberativo do Fundo de Amparo ao Trabalhador - CODEFAT e do Conselho Curador do Fundo de Garantia do Tempo de Serviço - CCFGTS.

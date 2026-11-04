@@ -1,7 +1,3 @@
-1
-
-###DEC-099219-0-000-25-04-1990@@@
-
 DECRETO Nº 99.219, DE 25 DE ABRIL DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado na Rua Boulevard 14 de maio, nº 1.652, Centro, no Município de Parintins, Estado do Amazonas.

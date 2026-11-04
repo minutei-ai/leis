@@ -1,5 +1,3 @@
-###DEC-049870-0-000-11-01-1961@@@
-
 DECRETO Nº 49.870, DE 11 DE JANEIRO DE 1961.
 
 Altera o regulamento para o Corpo do Pessoal Subalterno da Armada.

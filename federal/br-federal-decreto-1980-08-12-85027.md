@@ -1,5 +1,3 @@
-###DEC-085027-0-000-12-08-1980@@@
-
 decreto nº 85.027, de 12 de agosto de 1980
 
 Autoriza o aumento da potência da RÁDIO EMISSORA DA BARRA LTDA., na cidade de Barra Bonita, Estado de São Paulo.

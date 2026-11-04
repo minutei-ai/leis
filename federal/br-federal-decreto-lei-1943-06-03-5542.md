@@ -1,5 +1,3 @@
-###DEL-005542-0-000-03-06-1943@@@
-
 DECRETO-LEI N. 5.542 – De 3 DE JUNHO DE 1943
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$ 2.480.500,00 para atender às despesas com obras e instalações no Instituto Nacional de óleos :

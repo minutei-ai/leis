@@ -1,5 +1,3 @@
-###DEC-053136-0-000-10-12-1963@@@
-
 DECRETO Nº 53.136, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à Gerna S.A. Agro-Pecuária e Indústria, autorização para funcionar como emprêsa de mineração.

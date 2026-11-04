@@ -1,5 +1,3 @@
-###DEC-050023-0-000-24-01-1961@@@
-
 DECRETO Nº 50.023, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Paulo Trindade a pesquisar ouro nos municípios de Porto Firme e Guaraciaba, Estado de Minas Gerais.

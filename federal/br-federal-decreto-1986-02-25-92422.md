@@ -1,5 +1,3 @@
-###DEC-092422-0-000-25-02-1986@@@
-
 Decreto nº 92.422, de 25 de fevereiro de 1986.
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Guarajus (parte), Omerê e Abaitá, situados no Município de Colorado do Oeste, no Estado de Rondônia, e compreendido na área priritária, para fins de reforma agrária, fixada pelo Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975, 85.075, de 27 de agosto de 1980 e 91.912, de 12 de novembro de 1985, e dá outras providências.

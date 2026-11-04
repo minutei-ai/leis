@@ -1,5 +1,3 @@
-###DEC-049062-0-000-06-10-1960@@@
-
 DECRETO N. 49.062 – DE 6 DE OUTUBRO DE 1960
 
 Concede reconhecimento a carso

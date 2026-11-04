@@ -1,5 +1,3 @@
-###DEC-086694-0-000-03-12-1981@@@
-
 DECRETO Nº 86.694, DE 03 DE DEZEMBRO DE 1981.
 
 Autoriza a transferência da sub-rogação das obrigações instituídas pelo Decreto-lei nº 5.123, de 21 de dezembro de 1942, de que cogita o Decreto nº 84.786, de 12 de junho de 1980.

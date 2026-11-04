@@ -1,5 +1,3 @@
-###DEL-005680-0-000-20-07-1943@@@
-
 DECRETO‑LEI N. 5.680 – DE 20 DE JULHO DE 1943
 
 Cria o 12º Grupo Móvel de Artilharia de Costa;  com sede na 5ª Região Militar

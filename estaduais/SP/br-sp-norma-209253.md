@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209253)<br>
-
 # DECRETO N° 68.415, DE 02 DE ABRIL DE 2024
 
 ### _Dispõe sobre a presença de atendente pessoal nas unidades escolares da rede estadual de ensino e dá providências correlatas._

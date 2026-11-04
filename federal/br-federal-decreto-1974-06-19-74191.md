@@ -1,5 +1,3 @@
-###DEC-074191-0-000-19-06-1974@@@
-
 DECRETO Nº 74.191, DE 19 DE JUNHO DE 1974.
 
 Torna sem efeito redistribuição de cargo, com o respectivo ocupante, para o Quadro de Pessoal do Ministério da Saúde.

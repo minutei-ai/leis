@@ -1,5 +1,3 @@
-###DEC-003799-0-000-19-04-2001@@@
-
 DECRETO Nº 3.799, DE 19 DE ABRIL DE 2001
 
 Altera dispositivos do Decreto nº 1.141, de 19 de maio de 1994, que dispõe sobre as ações de proteção ambiental, saúde e apoio às atividades produtivas para as comunidades indígenas.

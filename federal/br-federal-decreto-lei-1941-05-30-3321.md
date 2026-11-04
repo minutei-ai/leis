@@ -1,5 +1,3 @@
-###DEL-003321-0-000-30-05-1941@@@
-
 DECRETO-LEI N. 3.321 – DE 30 DE MAIO DE 1941
 
 Altera as tabelas dos quadros do Ministério das Relações Exteriores e dá outras providências

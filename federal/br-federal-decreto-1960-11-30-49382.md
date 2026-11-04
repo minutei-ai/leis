@@ -1,5 +1,3 @@
-###DEC-049382-0-000-30-11-1960@@@
-
 DECRETO Nº 49.382, DE 30 DE NOVEMBRO DE 1960.
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de Cr$1.726.000.000,00 para o fim que especifica.

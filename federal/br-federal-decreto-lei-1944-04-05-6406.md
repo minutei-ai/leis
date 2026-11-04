@@ -1,5 +1,3 @@
-###DEL-006406-0-000-05-04-1944@@@
-
 DECRETO-LEI N. 6.406 – DE 5 DE ABRIL DE 1944
 
 Cria, no Quadro Permanente do Ministério da Agricultura, um cargo de Ajudante de Tesoureiro, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-070707-0-000-08-06-1972@@@
-
 DECRETO Nº 70.707, DE 8 DE JUNHO DE 1972.
 
 Aplica disposições do Decreto número 57.775, de 10 de fevereiro de 1966, a militar nomeado para representar o Brasil na Organização de Aviação Civil Internacional.

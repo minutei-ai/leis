@@ -1,5 +1,3 @@
-###DEL-006473-0-000-05-05-1944@@@
-
 DECRETO-LEI N. 6.473 – DE 5 DE MAIO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 6.900.000,00 para obras no pôrto de Recife

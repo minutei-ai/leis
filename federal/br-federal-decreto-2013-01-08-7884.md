@@ -1,5 +1,3 @@
-###DEC-007884-0-000-08-01-2013-PUB-01@@@
-
 DECRETO Nº\- 7.884, DE 8 DE JANEIRO DE 2013
 
 Altera o Decreto nº 6.521, de 30 de julho de 2008, para prorrogar o prazo de remanejamento de cargos em comissão.

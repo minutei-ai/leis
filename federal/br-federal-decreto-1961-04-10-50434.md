@@ -1,5 +1,3 @@
-###DEC-050434-0-000-10-04-1961@@@
-
 DECRETO Nº 50.434, DE 10 DE ABRIL DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Alfenas, Estado de Minas Gerais.

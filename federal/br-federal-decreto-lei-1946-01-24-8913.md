@@ -1,5 +1,3 @@
-###DEL-008913-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.913 – DE 24 DE JANEIRO DE 1946
 
 Altera o Código da Justiça Militar, aprovado pelo Decreto-lei nº 925, de 2-12-938.

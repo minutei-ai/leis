@@ -1,5 +1,3 @@
-###DEC-056060-0-000-26-04-1965@@@
-
 DECRETO Nº 56.060, DE 26 DE ABRIL DE 1965.
 
 Renova o decreto nº 49.249, de 17 de novembro de 1960.

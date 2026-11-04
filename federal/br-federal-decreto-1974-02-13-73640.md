@@ -1,5 +1,3 @@
-###DEC-073640-0-000-13-02-1974@@@
-
 DECRETO Nº 73.640, DE 13 DE FEVEREIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 1.594, de 22 de novembro de 1962, através do qual foi concedido a Christovam Colombo Paiva Pinheiro o direito de lavrar água mineral, no Município de Itapemirim, Estado do Espírito Santo.

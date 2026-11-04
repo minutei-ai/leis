@@ -1,5 +1,3 @@
-###DEC-070861-0-000-25-07-1972@@@
-
 DECRETO Nº 70.861, DE 25 DE JULHO DE 1972.
 
 Estabelece prioridades quanto à política de valorização do trabalhador.

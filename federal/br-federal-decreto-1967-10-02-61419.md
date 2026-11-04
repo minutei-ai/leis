@@ -1,5 +1,3 @@
-###DEC-061419-0-000-02-10-1967@@@
-
 DECRETO Nº 61.419, DE 2 DE OUTUBRO DE 1967.
 
 Cria a Embaixada do Brasil na República do Quênia.

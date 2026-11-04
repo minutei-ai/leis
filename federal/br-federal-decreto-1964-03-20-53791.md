@@ -1,5 +1,3 @@
-###DEC-053791-0-000-20-03-1964@@@
-
 Decreto Nº 53.791, DE 20 DE MARÇO DE 1964.
 
 Dispõe sôbre a aplicação dos recursos do Fundo Especial de Fomento e Defesa da Economia Algodoeira, provenientes da arrecadação da quota instituída pelo item VIII da Instrução número 239, de 22-4-63, da SUMOS.
@@ -41,8 +39,6 @@ JOÃO GOULART
 Waldyr Ramos Borges
 
 Oswaldo Lima Filho
-
-###DEC-053791-0-000-20-03-1964@@@RET01+++
 
 DECRETO Nº 53.791, DE 20 DE MARÇO DE 1964.
 

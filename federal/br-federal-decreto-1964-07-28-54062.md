@@ -1,5 +1,3 @@
-###DEC-054062-0-000-28-07-1964@@@
-
 DECRETO Nº 54.062, DE 28 DE JULHO DE 1964.
 
 Dispõe sôbre a não sujeição de militares da reserva e reformados a disposições dos Regulamentos Disciplinares.

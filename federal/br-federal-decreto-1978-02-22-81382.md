@@ -1,5 +1,3 @@
-###DEC-081382-0-000-22-02-1978@@@
-
 Decreto nº 81.382, de 22 de fevereiro de 1978.
 
 Reajusta valores da Indenização de Representação de que trata o Decreto nº 77.805, de 10 de junho de 1.976.

@@ -1,5 +1,3 @@
-###DEL-001188-0-000-21-09-1971@@@
-
 # DECRETO-LEI Nº 1.188, dE 21 de SETeMbro de 1971
 
 Dispõe sôbre estímulos fiscais ao Plano Nacional de Habitação, altera as Legislações do Imposto sôbre a Renda e do Impôsto sôbre Operações Financeiras e dá outras providências.

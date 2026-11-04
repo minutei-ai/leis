@@ -1,5 +1,3 @@
-###DEC-089438-0-000-13-03-1984@@@
-
 DECRETO Nº 89.438, DE 13 DE MARçO DE 1984
 
 Altera o Regulamento para o Corpo de Oficiais da Reserva do Exército (R/68-RCORE)

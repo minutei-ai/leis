@@ -1,5 +1,3 @@
-###DEC-057126-0-000-20-10-1965@@@
-
 DECRETO Nº 57.126, DE 20 DE OUTUBRO DE 1965.
 
 Altera disposições do Decreto número 56.801, de 27 de agôsto de 1965, que dispõe sôbre a aplicação do Fundo de Melhoramento dos Portos e disciplina o art. 4º do Decreto nº 60, de 19 de outubro de 1961.

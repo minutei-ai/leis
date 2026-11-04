@@ -1,5 +1,3 @@
-###DEC-062402-0-000-14-03-1968@@@
-
 DECRETO Nº 62.402, DE 14 DE MARÇO DE 1968.
 
 Ratifica o contrato de empréstimo celebrado pela União Federal com o Banco Interamericano de Desenvolvimento e dá outras providências.

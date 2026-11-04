@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209766)<br>
-
 # DECRETO N° 68.716, DE 25 DE JULHO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante permissão de uso, a título precário e gratuito, por prazo determinado, do Município de Jundiaí, o imóvel que especifica._

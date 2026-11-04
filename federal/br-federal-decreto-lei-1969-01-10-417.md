@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f78f0f4f-4d01-4575-912f-1e1511fbe68f/texto#nowhere)
 
-###DEL-000417-0-000-10-01-1969@@@
-
 DECRETO-LEI Nº 417, DE 10 DE JANEIRO DE 1969
 
 Dispõe sôbre a expulsão de estrangeiros.

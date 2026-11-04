@@ -1,5 +1,3 @@
-###DEL-007450-0-000-09-04-1945@@@
-
 DECRETO-LEI N. 7.450 – DE 9 DE ABRIL DE 1945
 
 AItera a carreira de Escriturário do Quadro Permanente do Ministério da Justiça e Negócios Interiores.

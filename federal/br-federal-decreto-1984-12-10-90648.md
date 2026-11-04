@@ -1,5 +1,3 @@
-###DEC-090648-0-000-10-12-1984@@@
-
 Decreto nº 90.648, de 10 de dezembro de 1984
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Educação, Ciências e Letras de São Gonçalo.

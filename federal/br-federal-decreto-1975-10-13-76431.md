@@ -1,5 +1,3 @@
-###DEC-076431-0-000-13-10-1975@@@
-
 DECRETO Nº 76.431, DE 13 DE OUTUBRO DE 1975.
 
 Declara a caducidade do Manifesto de Mina que menciona.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208561)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2023/compilacao-lei-17761-25.09.2023.html)
 
 # LEI N° 17.761, DE 25 DE SETEMBRO DE 2023

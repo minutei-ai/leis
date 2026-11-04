@@ -1,7 +1,3 @@
-1
-
-###DEC-097862-0-000-23-06-1989@@@
-
 DECRETO Nº 97.862, DE 23 DE JUNHO DE 1989
 
 Declara de interesse social. para fins de reforma agrária, o imóvel rural denominado “ TUNAS e TUNINHAS  Glebas 69-A, 01-B, 65, 44-A, 68-A e 59”, classificado como “latifúndio por exploração”, situado no Município de Cantagalo, Estado do Paraná, compreendido na zona prioritária fixada pelo Decreto nº 92.622, de 02 de maio de 1986, e dá outras providencias.

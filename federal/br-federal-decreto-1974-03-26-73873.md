@@ -1,5 +1,3 @@
-###DEC-073873-0-000-26-03-1974@@@
-
 DECRETO Nº 73.873, DE 26 DE MARÇO DE 1974.
 
 Concede reconhecimento ao curso de Medicina, da Faculdade Evangélica de Medicina do Paraná, mantida pela Sociedade Evangélica Beneficente de Curitiba, com sede na cidade de Curitiba, Estado do Paraná.

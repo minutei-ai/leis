@@ -1,5 +1,3 @@
-###MPV-001974-0-076-10-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.974-76, DE 10 DE Fevereiro DE 2000.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

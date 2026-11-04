@@ -1,5 +1,3 @@
-###DEC-061159-0-000-16-08-1967@@@
-
 DECRETO Nº 61.159, DE 16 DE AGôSTO DE 1967.
 
 Regula a prestação de garantia ao Banco do Nordeste do Brasil S.A. pelas Prefeituras Municipais.

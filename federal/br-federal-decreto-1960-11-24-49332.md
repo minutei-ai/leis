@@ -1,5 +1,3 @@
-###DEC-049332-0-000-24-11-1960@@@
-
 DECRETO Nº 49.332, DE 24 DE NOVEMBRO DE 1960.
 
 Cria cargos funções gratificada no Quadro do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

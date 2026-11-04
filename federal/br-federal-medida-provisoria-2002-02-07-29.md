@@ -1,5 +1,3 @@
-###MPV-000029-0-000-07-02-2002@@@
-
 MEDIDA PROVISÓRIA No 29, DE 7 DE FEVEREIRO 2002.
 
 Dispõe sobre a autorização para a criação do Mercado Atacadista de Energia Elétrica - MAE, pessoa jurídica de direito privado, e dá outras providências.

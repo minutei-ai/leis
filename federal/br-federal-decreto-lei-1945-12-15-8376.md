@@ -1,5 +1,3 @@
-###DEL-008376-0-000-15-12-1945@@@
-
 DECRETO-LEI N. 8.376 – DE 15 DE DEZEMBRO DE 1945
 
 Cria, no Quadro Permanente da Prefeitura do Distrito Federal, cargo isolado, de provimento em comissão, e dá outras providências.

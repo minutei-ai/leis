@@ -1,5 +1,3 @@
-###DEC-047859-0-000-07-03-1960@@@
-
 DECRETO Nº 47.859, DE 7 DE março DE 1960.
 
 Autoriza a Cia. Cimento Portland Paraná a lavrar calcário no município de Rio Branco do Sul, Estado do Paraná.

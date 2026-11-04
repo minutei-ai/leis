@@ -1,7 +1,3 @@
-1
-
-###DEC-001698-0-000-13-11-1995@@@
-
 DECRETO Nº 1.698, DE 13 DE NOVEMBRO DE 1995.
 
 Delega competência ao Ministro de Estado da Justiça para a prática dos atos que menciona.

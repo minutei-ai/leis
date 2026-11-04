@@ -1,5 +1,3 @@
-###DEC-071285-0-000-31-10-1972@@@
-
 DECRETo Nº 71.285 - DE 31 DE OUTUBRO DE 1972.
 
 Concede autorização à empresa Oceanic Contractors Inc., de nacionalidade norte-americana, subcontratada do consórcio Ingram Marine Inc. e Ribeiro Franco S.A., para operar no mar territorial do Brasil com as embarcações especializadas Barcaça DB-20 (Derrick Barge nº 20),de nacionalidade panamenha e Rebocador "Denise de Felice", de nacionalidade norte-americana, nos serviços que especifica.

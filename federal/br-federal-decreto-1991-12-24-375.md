@@ -1,7 +1,3 @@
-1
-
-###DEC-000375-0-000-24-12-1991@@@
-
 DECRETO N° 375, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa de área indígena Aripuanã, no Estado do Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-071405-0-000-20-11-1972@@@
-
 DECRETO Nº 71.405 - de 20 de Novembro de 1972.
 
 Concede à Alumínio Poços de Caldas S.A. o direito de lavrar bauxita no município de Barão de Cocais, Estado de Minas Gerais.

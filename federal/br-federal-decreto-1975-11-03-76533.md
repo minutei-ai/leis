@@ -1,5 +1,3 @@
-###DEC-076533-0-000-03-11-1975@@@
-
 decreto nº 76.533, de 3 de novembro de 1975.
 
 Retifica o disposto no artigo 1º do Decreto nº 73.792, de 11 de março de 1974, que declara de interesse social, para fins de desapropriação, terras no Estado do Rio de Janeiro, e dá nova delimitação à área por ele definida.

@@ -1,5 +1,3 @@
-###DEC-064174-0-000-06-03-1969@@@
-
 DECRETO Nº 64.174, DE 6 DE MARÇO DE 1969.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de terreno situado no Município de Parnamirim, Estado do Rio Grande do Norte.

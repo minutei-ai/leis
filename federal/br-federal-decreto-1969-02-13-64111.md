@@ -1,5 +1,3 @@
-###DEC-064111-0-000-13-02-1969@@@
-
 DECRETO Nº 64.111, DE 13 DE FEVEREIRO DE 1969.
 
 Transfere a sede do 6º Batalhão de Engenharia de Construção e dá outras providências.

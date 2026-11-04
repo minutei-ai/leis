@@ -1,7 +1,3 @@
-1
-
-###DEL-000725-0-000-31-07-1969@@@
-
 DECRETO-LEI Nº 725, DE 31 De JULHO DE 1969
 
 Dispõe sôbre aplicação de recursos da Lei nº 4.440, de 27 de outubro de 1964.

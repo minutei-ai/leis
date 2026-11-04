@@ -1,5 +1,3 @@
-###DEC-005521-0-000-25-08-2005@@@
-
 DECRETO Nº 5.521, DE 25 DE AGOSTO DE 2005.
 
     Dá nova redação aos arts. 5o e 8o do Decreto no 4.797, de 31 de julho de 2003, que dispõe sobre a Ordem Nacional do Mérito Educativo.   
@@ -39,5 +37,3 @@ IX - Presidente do Conselho Nacional de Educação - CNE." (NR)
 LUIZ INÁCIO LULA DA SILVA
 
        Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 26.8.2005

@@ -1,5 +1,3 @@
-###DEC-075568-0-000-07-04-1975@@@
-
 DECRETO Nº 75.568, DE 7 DE ABRIL DE 1975.
 
 Concede permissão em caráter permanente, à empresa Resinor - Resinas Sintéticas do Nordeste S.A., estabelecida no Distrito Industrial de João Pessoa, Estado da Paraíba, para funcionar aos domingos e nos dias feriados civis e religiosos, a sua fábrica de polistireno, situada no referido Distrito Industrial.

@@ -1,5 +1,3 @@
-###DEC-050760-0-000-09-06-1961@@@
-
 DECRETO Nº 50.760, DE 9 DE JUNHO DE 1961.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, a fração ideal do terreno de marinha e crescido que menciona, no Estado da Guanabara.

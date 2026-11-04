@@ -1,5 +1,3 @@
-###DEC-081647-0-000-11-05-1978@@@
-
 Decreto nº 81.647 de 11 de maio de 1978.
 
 Concede à empresa PENNZOIL DO BRAZIL, INC., autorização para funcionar na República Federativa do Brasil sob a denominação social de PENNZOIL DO BRAZIL, INC, DO BRASIL.

@@ -1,5 +1,3 @@
-###MPV-001682-0-005-27-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.682-5, DE 27 DE AGOSTO DE 1998
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

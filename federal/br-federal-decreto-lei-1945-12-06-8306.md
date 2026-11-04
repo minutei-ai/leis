@@ -1,5 +1,3 @@
-###DEL-008306-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.306 – DE 6 DE DEZEMBRO DE 1945
 
 Altera e introduz dispositivos no Decreto-lei nº 7.961, de 18 de setembro de 1945, e dá outras providências.

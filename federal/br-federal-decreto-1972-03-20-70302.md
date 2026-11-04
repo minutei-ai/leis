@@ -1,5 +1,3 @@
-###DEC-070302-0-000-20-03-1972@@@
-
 Decreto Nº 70.302, DE 20 DE MARÇO DE 1972.
 
 Concede reconhecimento à Faculdade de Ciências Econômicas de Blumenau, Estado de Santa Catarina.

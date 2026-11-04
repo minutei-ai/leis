@@ -1,4 +1,5 @@
-DECRETO “N” Nº 100 DE 07 DE FEVEREIRO DE 2023<br>
+DECRETO “N” Nº 100 DE 07 DE FEVEREIRO DE 2023
+
 (Revogado pelo Decreto "N" Nº 418, de 27 de junho de 2023).
 
 ~~Dispõe sobre remembramento de imóveis situados no loteamento POLO EMPRESARIAL GOIÁS-ETAPA IV, neste município.~~
@@ -11,11 +12,27 @@ DECRETO “N” Nº 100 DE 07 DE FEVEREIRO DE 2023<br>
 
 ~~SITUAÇÃO ATUAL~~
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><s><strong>IMÓVEIS</strong></s></td><td style="text-align:center"><s>(m²)</s></td></tr><tr><td style="text-align:center"><s>LOTE 12</s></td><td style="text-align:center"><s>5.477,44</s></td></tr><tr><td style="text-align:center"><s>LOTE 13A</s></td><td style="text-align:center"><s>3.225,42</s></td></tr></tbody></table>
+~~**IMÓVEIS**~~
+
+~~(m²)~~
+
+~~LOTE 12~~
+
+~~5.477,44~~
+
+~~LOTE 13A~~
+
+~~3.225,42~~
 
 ~~SITUAÇÃO PROPOSTA~~
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><s><strong>IMÓVEL</strong></s></td><td style="text-align:center"><s>(m²)</s></td></tr><tr><td style="text-align:center"><s>LOTE 12/13A</s></td><td style="text-align:center"><s>8.702,86</s></td></tr></tbody></table>
+~~**IMÓVEL**~~
+
+~~(m²)~~
+
+~~LOTE 12/13A~~
+
+~~8.702,86~~
 
 ~~Parágrafo único. O remembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2022.236.935, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.~~
 
@@ -23,8 +40,10 @@ DECRETO “N” Nº 100 DE 07 DE FEVEREIRO DE 2023<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 07 de fevereiro de 2023.~~
 
-~~FÁBIO PASSAGLIA<br>
+~~FÁBIO PASSAGLIA
+
 Secretário de Governo~~
 
-~~JULIO CÉSAR CHAGAS MENDES<br>
-Secretário Interino de Planejamento e Regulação Urbana~~<br>
+~~JULIO CÉSAR CHAGAS MENDES
+
+Secretário Interino de Planejamento e Regulação Urbana~~

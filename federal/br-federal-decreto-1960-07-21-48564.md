@@ -1,5 +1,3 @@
-###DEC-048564-0-000-21-07-1960@@@
-
 DECRETO Nº 48.564, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Richard Paul Werner, a pesquisar minério de ferro, nos municípios de Gaspar e Blumenau, Estado de Santa Catarina.

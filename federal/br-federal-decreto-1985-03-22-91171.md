@@ -1,5 +1,3 @@
-###DEC-091171-0-000-22-03-1985@@@
-
 Decreto nº 91.171, de 22 março de 1985.
 
 Altera o Decreto nº 90.754, de 27 de dezembro de 1984, que dispõe sobre a organização e o funcionamento do Conselho Nacional, de Informática e Automação, e dá outras providências.

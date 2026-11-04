@@ -1,5 +1,3 @@
-###DEL-004646-0-000-02-09-1942@@@
-
 DECRETO-LEI N. 4.646 – DE 2 DE SETEMBRO DE 1942
 
 Altera disposições do decreto-lei nº 3.333, de 6 de junho de 1941, e do decreto-lei nº 4.296, de 13 de maio de 1942

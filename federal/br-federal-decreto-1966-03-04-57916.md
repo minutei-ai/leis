@@ -1,5 +1,3 @@
-###DEC-057916-0-000-04-03-1966@@@
-
 DECRETO Nº 57.916, DE 4 DE MArÇO DE 1966.
 
 Autoriza o cidadão brasileiro Divino Esteves de Faria a lavrar minério de ferro no município de Mateus Leme, no Estado de Minas Gerais.

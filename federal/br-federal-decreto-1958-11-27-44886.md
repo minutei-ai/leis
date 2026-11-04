@@ -1,5 +1,3 @@
-###DEC-044886-0-000-27-11-1958@@@
-
 DECRETO Nº 44.886, DE 27 DE NOVEMBRO DE 1958.
 
 Declara de utilidade pública, para desapropriação, imóvel que menciona em Barbacena (MG), necessários aos serviços do Ministério da Aeronáutica.

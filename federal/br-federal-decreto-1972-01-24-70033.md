@@ -1,5 +1,3 @@
-###DEC-070033-0-000-24-01-1972@@@
-
 DECRETO Nº 70.033, DE 24 DE JANEIRO DE 1972.
 
 Concede à Cervejarias Reunidas Skol-Caracú S.A. o direito de lavrar água mineral, no município de Águas de Lindóia, Estado de São Paulo.

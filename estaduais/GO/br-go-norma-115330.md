@@ -16,26 +16,54 @@ RENATA LACERDA NOLETO
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3177</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 2.866.059,74</td><td style=" width:85px;    ">R$ 22.473,03</td><td style=" width:85px;    ">R$ 2.888.532,77</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA** 2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td>06 181 1051 3177</td><td>17000280</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 2.866.059,74</td><td>R$ 22.473,03</td><td>R$ 2.888.532,77</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2904 - POLÍCIA CIVIL</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ESCOLA SEM DROGAS - PREVENÇÃO E REPRESSÃO AO USO DE DROGAS E ENTORPECENTES EM REGIÕES VULNERÁVEIS</td><td style=" width:85px;    ">06 243 1051 2183</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 200.000,00</td><td style=" width:85px;    ">R$ 49.822,23</td><td style=" width:85px;    ">R$ 249.822,23</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA** 2904 - POLÍCIA CIVIL</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>ESCOLA SEM DROGAS - PREVENÇÃO E REPRESSÃO AO USO DE DROGAS E ENTORPECENTES EM REGIÕES VULNERÁVEIS</td><td>06 243 1051 2183</td><td>17610156</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 200.000,00</td><td>R$ 49.822,23</td><td>R$ 249.822,23</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;  height:19px;   ">R$ 22.473,03</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 49.822,23</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 72.295,26</td></tr></tbody></table>
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 22.473,03
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 49.822,23
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 72.295,26
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.322.660,53</td><td style=" width:85px;    ">R$ 22.473,03</td><td style=" width:85px;    ">R$ 22.473,03</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA** 2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td>06 122 4200 4243</td><td>17000280</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 1.322.660,53</td><td>R$ 22.473,03</td><td>R$ 22.473,03</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2904 - POLÍCIA CIVIL</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ESCOLA SEM DROGAS - PREVENÇÃO E REPRESSÃO AO USO DE DROGAS E ENTORPECENTES EM REGIÕES VULNERÁVEIS</td><td style=" width:85px;    ">06 243 1051 2183</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 186.013,54</td><td style=" width:85px;    ">R$ 49.822,23</td><td style=" width:85px;    ">R$ 49.822,23</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA** 2904 - POLÍCIA CIVIL</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>ESCOLA SEM DROGAS - PREVENÇÃO E REPRESSÃO AO USO DE DROGAS E ENTORPECENTES EM REGIÕES VULNERÁVEIS</td><td>06 243 1051 2183</td><td>17610156</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 186.013,54</td><td>R$ 49.822,23</td><td>R$ 49.822,23</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;  height:19px;   ">R$ 22.473,03</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 49.822,23</td></tr></tbody></table>
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   "><b>TOTAL</b></td><td style=" width:340px;  height:19px;   ">R$ 72.295,26</td></tr></tbody></table>
+R$ 22.473,03
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;  height:19px;   ">R$ 22.473,03</td></tr><tr><td style=" width:340px;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;    ">R$ 49.822,23</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 72.295,26</td></tr></tbody></table>
+R$ 49.822,23
+
+**TOTAL**
+
+R$ 72.295,26
+
+**TOTAL POR FONTE**
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 22.473,03
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 49.822,23
+
+**TOTAL**
+
+R$ 72.295,26

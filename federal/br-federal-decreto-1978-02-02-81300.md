@@ -1,5 +1,3 @@
-###DEC-081300-0-000-02-02-1978@@@
-
 Decreto nº 81.300, de 2 de fevereiro de 1978.
 
 Altera o capital inicial da Empresa Brasileira de Correios e Telégrafos - ECT.

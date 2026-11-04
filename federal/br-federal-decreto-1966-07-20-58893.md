@@ -1,5 +1,3 @@
-###DEC-058893-0-000-20-07-1966@@@
-
 DECRETO Nº 58.893, DE 20 DE JULHO DE 1966.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil de fração ideal de terreno de marinha que menciona, no Estado da Guanabara.

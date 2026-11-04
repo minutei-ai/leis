@@ -1,5 +1,3 @@
-###DEC-048340-0-000-21-06-1960@@@
-
 DECRETO Nº 48.340, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Antônio Demuner a pesquisar mica e pedras coradas no município de Galileia, Estado de Minas Gerais.

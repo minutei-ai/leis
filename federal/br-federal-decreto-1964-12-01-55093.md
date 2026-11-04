@@ -1,5 +1,3 @@
-###DEC-055093-0-000-01-12-1964@@@
-
 DECRETO Nº 55.093, DE 1º DE DEZEMBRO DE 1964.
 
 Outorga concessão à Rádio Princesa do Oeste Ltda. para estabelecer uma estação radiodifusora na cidade de Xanxerê, Estado de Santa Catarina.

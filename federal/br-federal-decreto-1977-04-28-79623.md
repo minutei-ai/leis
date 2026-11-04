@@ -1,5 +1,3 @@
-###DEC-079623-0-000-28-04-1977@@@
-
 Decreto nº 79.623, de 28 de abril de 1977.
 
 Concede reconhecimento aos cursos de História, de Estudos Sociais e de Letras, ministrados pelo Centro Pedagógico de Dourados, com sede na cidade de Dourados, Estado de Mato Grosso.

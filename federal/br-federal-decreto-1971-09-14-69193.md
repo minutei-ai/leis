@@ -1,5 +1,3 @@
-###DEC-069193-0-000-14-09-1971@@@
-
 DECRETO Nº 69.193, DE 14 DE SETEMBRO DE 1971.
 
 Declara de utilidade pública a Congregação das Franciscanas Filhas da Divina Providência, com sede em São Paulo, Estado de São Paulo.

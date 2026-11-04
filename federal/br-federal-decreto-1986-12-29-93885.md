@@ -1,5 +1,3 @@
-###DEC-093885-0-000-29-12-1986@@@
-
 DECRETO Nº 93.885, DE 29 DE DEZEMBRO DE 1986
 
 Altera os itens I a VI, do artigo 1º e item I, do artigo 3º do Decreto nº 86.763, de 22 de dezembro de 1981, que regula os valores das indenizações devidas aos militares das Forças Armadas.

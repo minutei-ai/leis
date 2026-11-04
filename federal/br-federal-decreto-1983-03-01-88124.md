@@ -1,5 +1,3 @@
-###DEC-088124-0-000-01-03-1983@@@
-
 Decreto nº 88.124, de 01 de março de 1983
 
 Concede autorização à Empresa PECTEN BRAZIL RIO GRANDE DO NORTE COMPANY para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

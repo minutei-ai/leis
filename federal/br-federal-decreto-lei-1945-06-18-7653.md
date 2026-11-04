@@ -1,5 +1,3 @@
-###DEL-007653-0-000-18-06-1945@@@
-
 DECRETO-LEI N. 7.653 – DE 18 DE JUNHO DE 1945
 
 Altera a carreira de Médico do Quadro II – Extinto, do Ministério da Viação e Obras Públicas, e dá outras providências

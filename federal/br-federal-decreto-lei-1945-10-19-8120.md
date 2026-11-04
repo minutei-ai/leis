@@ -1,5 +1,3 @@
-###DEL-008120-0-000-19-10-1945@@@
-
 DECRETO-LEI N. 8.120 – DE 19 DE OUTUBRO DE 1945
 
 Altera carreira no Quadro Suplementar do Ministério da Marinha.

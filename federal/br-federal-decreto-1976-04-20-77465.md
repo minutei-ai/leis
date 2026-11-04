@@ -1,5 +1,3 @@
-###DEC-077465-0-000-20-04-1976@@@
-
 DECRETO nº 77.465 - DE 20 DE ABRIL DE 1976
 
  Declara de utilidade pública para fins de desapropriação, total ou parcial, ou instituição de servidão de passagem, imóveis constituídos de terras e benfeitorias, situados nos Municípios de Mogi das Cruzes, Suzano, Itaquaquecetuba e Guarulhos, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-003189-0-000-10-04-1941@@@
-
 DECRETO-LEI N. 3.189 – DE 10 DE ABRIL DE 1941
 
 Dispõe sobre as aulas da Escola Profissional de Enfermeiros do Serviço Nacional de Doenças Mentais,

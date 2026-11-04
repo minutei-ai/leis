@@ -1,5 +1,3 @@
-###MPV-000589-0-000-13-11-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 589, DE 13 DE NOVEMBRO DE 2012
 
 Dispõe sobre o parcelamento de débitos junto à Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Municípios.

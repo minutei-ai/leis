@@ -1,5 +1,3 @@
-###DEC-090105-0-000-28-08-1984@@@
-
 decreto nº 90.105, de 28 de agosto de 1984
 
 Revoga o Decreto nº 72.656, de 20 de agosto de 1973, que concedeu a Sebastião Teixeira de Mello - Firma Individual o direito de lavrar caulim no Município de Suzano, Estado de São Paulo.

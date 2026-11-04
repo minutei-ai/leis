@@ -1,5 +1,3 @@
-###DEC-047028-0-000-14-10-1959@@@
-
 DECRETO Nº 47.028, DE 14 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Rafael Caio Nunes Coelho a pesquisar mica no município de Virgolândia, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-050182-0-000-28-01-1961@@@
-
 DECRETO Nº 50.182, DE 28 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Celso Santos a pesquisar minério de manganês, no município de Miguel Calmon, Estado da Bahia.

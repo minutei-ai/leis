@@ -1,5 +1,3 @@
-###DEC-051920-B-000-26-04-1963@@@
-
 decreto nº 51.920-B, de 26 De abril de 1963.
 
 Transfere para a Prefeitura Municipal de Marau, Estado do Rio Grande do Sul, a autorização outorgada à firma Fomento, Indústria e Comércio de Cereais Ltda., para o aproveitamento de energia hidráulica no arroio Marau, Estado do Rio Grande do Sul, e dá outras providências.

@@ -98,8 +98,6 @@ Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Goiânia, 7 de dezembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

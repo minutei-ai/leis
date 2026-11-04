@@ -1,5 +1,3 @@
-###DEC-048711-0-000-04-08-1960@@@
-
 DECRETO Nº 48.711, De 4 de agôsto de 1960.
 
 Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno necessária à construção do açude público Pedrão, no Município de Cícero Dantas, Estado da Bahia.

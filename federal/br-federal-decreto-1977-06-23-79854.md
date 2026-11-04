@@ -1,5 +1,3 @@
-###DEC-079854-0-000-23-06-1977@@@
-
 Decreto nº 79.854, de 23 de junho de 1977
 
 Concede reconhecimento ao curso de Ciências Econômicas, da Universidade Católica de Salvador, com sede na cidade de Salvador, Estado da Bahia.

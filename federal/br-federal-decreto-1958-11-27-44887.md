@@ -1,5 +1,3 @@
-###DEC-044887-0-000-27-11-1958@@@
-
 DECRETO Nº 44.887, DE 27 DE NOVEMBRO DE 1958.
 
 Altera a redação do § 1º do art. 45 do Regulamento Provisório de Promoções dos Oficiais da Aeronáutica da Ativa.

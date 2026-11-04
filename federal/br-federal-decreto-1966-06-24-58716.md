@@ -1,5 +1,3 @@
-###DEC-058716-0-000-24-06-1966@@@
-
 DECRETO N° 58.716, DE 24 DE JUNHO DE 1966.
 
 Amplia a área prioritária de emergência para fins de Reforma Agrária, assim declarada pelo Decreto número 56.795, de 27 de agosto de 1965.

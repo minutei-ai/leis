@@ -1,5 +1,3 @@
-###DEC-085664-0-000-23-01-1981@@@
-
 DeCreto nº 85.664, de 23 JANEIRO de 1981.
 
 Cria, no Ministério da Aeronáutica, o Grupo de Apoio do Rio de Janeiro, extingue o Serviço de Administração do Edifício da Aeronáutica e dá outras providências.

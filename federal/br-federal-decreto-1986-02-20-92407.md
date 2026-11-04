@@ -1,5 +1,3 @@
-###DEC-092407-0-000-20-02-1986@@@
-
 DECRETO Nº 92.407, DE 20 DE FEVEREIRO DE 1986
 
 Autoriza o funcionamento do curso de Geografia da Faculdade "Dom Aquino" de Filosofia, Ciências e Letras.

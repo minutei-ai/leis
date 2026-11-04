@@ -1,5 +1,3 @@
-###DEC-053497-0-000-27-01-1964@@@
-
 DECRETO Nº 53.497, DE 27 DE JANEIRO DE 1964.
 
 Torna sem efeito o Decreto número 53.164, de 11 de dezembro de 1963.

@@ -1,5 +1,3 @@
-###DEL-001521-0-000-26-01-1977@@@
-
 # DECRETO-LEI Nº 1.521, DE 26 DE JANEIRO DE 1977
 
 Revoga, a partir do exercício de 1977, as normas legais e regulamentares autorizativas de destinações especiais dos resultados atribuíveis à União nas empresas públicas e sociedades de economia mista federais.

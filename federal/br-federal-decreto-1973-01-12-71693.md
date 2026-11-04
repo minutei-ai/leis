@@ -1,5 +1,3 @@
-###DEC-071693-0-000-12-01-1973@@@
-
 DECRETO Nº 71.693, DE 12 DE JANEIRO DE 1973.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Aeronáutica, e dá outras providências.

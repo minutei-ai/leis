@@ -1,5 +1,3 @@
-###DEC-096674-0-000-12-09-1988@@@
-
 DECRETO N° 96.674, DE 12 DE SETEMBRO DE 1988
 
 Autoriza o Banco Comercial Paraguayo S.A. a funcionar no Brasil e dá outras providências.

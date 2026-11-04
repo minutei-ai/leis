@@ -1,5 +1,3 @@
-###DEC-048657-0-000-03-08-1960@@@
-
 Decreto nº 48.657, de 3 de agôsto de 1960.
 
 Altera os arts. 85, 86, 87 e 88 e suprime o art. 90 do Regulamento da Escola de Comando e Estado-Maior do Exército.

@@ -1,5 +1,3 @@
-###DEC-066864-0-000-10-07-1970@@@
-
 DECRETO Nº 66.864, DE 10 DE JUlHO DE 1970.
 
 Dá nova redação a dispositivos do Decreto nº 66.717, de 15 de junho de 1970.

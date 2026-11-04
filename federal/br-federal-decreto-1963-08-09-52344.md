@@ -1,5 +1,3 @@
-###DEC-052344-0-000-09-08-1963@@@
-
 DECRETO Nº 52.344, DE 9 DE AGÔSTO DE 1963.
 
 Institui no Ministério da Agricultura a Companhia Contra a Febre Aftosa (C.C.F.A.) e dá outras providências.

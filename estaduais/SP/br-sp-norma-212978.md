@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212978)<br>
-
 # DECRETO N° 70.875, DE 16 DE SETEMBRO DE 2026
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Iguape, que declarou Situação de Emergência em áreas do Município._

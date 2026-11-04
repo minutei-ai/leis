@@ -1,5 +1,3 @@
-###DEC-047202-0-000-06-11-1959@@@
-
 DECRETO Nº 47.202, DE 06 DE novembro DE 1959.
 
 Autoriza Alumínio Minas Gerais S.A. a pesquisar bauxita no município de Ouro Preto, Estado de minas Gerais..

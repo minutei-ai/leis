@@ -1,5 +1,3 @@
-###DEC-047260-0-000-17-11-1959@@@
-
 decreto nº 47.260, de 17 de novembro de 1959.
 
 Revigora o prazo de validade do concurso para ingresso no pôsto de 2º tenente-denstista da Polícia Militar do Distrito Federal.

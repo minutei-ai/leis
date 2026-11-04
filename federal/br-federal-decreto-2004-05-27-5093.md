@@ -1,5 +1,3 @@
-###DEC-005093-0-000-27-05-2004@@@
-
 DECRETO Nº 5.093, DE 27 DE MAIO DE 2004
 
 Acresce inciso ao art. 1º do Decreto nº 4.838, de 11 de setembro de 2003, que dispõe sobre a composição do Conselho Nacional de Ciência e Tecnologia - CCT.

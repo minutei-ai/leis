@@ -1,5 +1,3 @@
-###DEC-005482-0-000-30-06-2005@@@
-
 DECRETO Nº 5.482, DE 30 DE JUNHO DE 2005
 
  Dispõe sobre a divulgação de dados e informações pelos órgãos e entidades da administração pública federal, por meio da Rede Mundial de Computadores - Internet.

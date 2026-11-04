@@ -1,5 +1,3 @@
-###DEC-080611-0-000-25-10-1977@@@
-
 DECRETO Nº 80.611, DE 25 DE OUTUBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias necessárias à ampliação do canteiro de obras da Usina Hidroelétrica Armando de Salles Oliveira, bem como à implantação do canteiro de obras da Usina Hidroelétrica Euclides da Cunha, da Centrais Elétricas de São Paulo S.A - CESP, no Estado de São Paulo.

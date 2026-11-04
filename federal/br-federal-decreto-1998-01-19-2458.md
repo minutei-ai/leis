@@ -1,5 +1,3 @@
-###DEC-002458-0-000-19-01-1998@@@
-
 DECRETO N.º 2.458, DE 19 DE JANEIRO DE 1998.
 
 Dá nova redação ao § 3º do art. 3º do Decreto nº 1.467, de 27 de abril de 1995, que cria o Grupo Executivo para Modernização dos Portos.

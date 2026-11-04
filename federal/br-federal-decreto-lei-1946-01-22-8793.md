@@ -1,5 +1,3 @@
-###DEL-008793-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.793 – DE 22 DE JANEIRO DE 1946
 
 Modifica dispositivos do Decreto-lei número 8.449, de 26 de Dezembro de 1945, e dá outras providências

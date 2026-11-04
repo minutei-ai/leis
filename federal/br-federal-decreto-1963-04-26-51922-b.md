@@ -1,5 +1,3 @@
-###DEC-051922-B-000-26-04-1963@@@
-
 DECRETO Nº 51.922-b, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Antônio Roquim a pesquisar minério de ferro no município de Bom Sucesso, Estado de Minas Gerais.

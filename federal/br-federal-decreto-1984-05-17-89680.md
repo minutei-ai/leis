@@ -1,5 +1,3 @@
-###DEC-089680-0-000-17-05-1984@@@
-
 Decreto nº 89.680, de 17 de maio de 1984.
 
 Declara de interesse social, para fins de desapropriação, o imóvel denominado "Gleba Azulona/Gameleira", situado no Município de São Félix do Araguaia, no Estado de Mato Grosso, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.679, de 17 de maio  de 1984.

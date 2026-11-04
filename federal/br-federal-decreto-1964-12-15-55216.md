@@ -1,5 +1,3 @@
-###DEC-055216-0-000-15-12-1964@@@
-
 DECRETO Nº 55.216, DE 15 DE DEZEMBRO DE 1964.
 
 Autoriza a São Paulo Light S.A. Serviços de Eletricidade a construir em 88 KV, a linha de transmissão de 40KV, no trecho entre as subestações de Mauá e Ribeirão Pires.

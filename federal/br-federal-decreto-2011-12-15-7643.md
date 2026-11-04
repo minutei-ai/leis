@@ -1,5 +1,3 @@
-###DEC-007643-0-000-15-12-2011-PUB-01@@@
-
 DECRETO N°\- 7.643, DE 15 DE DEZEMBRO DE 2011
 
 Altera o art. 4° do Decreto n° 7.390, de 9 de dezembro de 2010, que regulamenta os arts. 6°, 11 e 12 da Lei n° 12.187, de 29 de dezembro de 2009, que institui a Política Nacional sobre Mudança do Clima - PNMC.

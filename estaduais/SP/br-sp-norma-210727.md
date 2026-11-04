@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210727)<br>
-
 # ATO DA MESA N° 09/2025, DE 13 DE MARÇO DE 2025
 
 ### _Regulamenta o Comitê de Gestão Estratégica, instituído pelo Artigo 1°-B da Resolução n° 776/1996 e institui o Sistema de Governança da área administrativa da ALESP, incluindo seus comitês temáticos._

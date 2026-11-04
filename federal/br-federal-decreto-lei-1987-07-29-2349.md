@@ -1,7 +1,3 @@
-1
-
-###DEL-002349-0-000-29-07-1987@@@
-
 # DECRETO-LEI Nº 2.349, DE 29 DE JULHO DE 1987
 
 Dispõe sobre limite para a cobertura pelo Fundo de Compensação de Variações Salariais - FCVS, e dá outras providências.

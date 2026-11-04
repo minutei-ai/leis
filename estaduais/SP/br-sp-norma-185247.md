@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185247)
-
 # DECRETO Nº 63.217, DE 16 DE FEVEREIRO DE 2018
 
 ### _Dispõe sobre a outorga da "Medalha Ruth Cardoso"_
@@ -30,8 +28,12 @@ Palácio dos Bandeirantes, 16 de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 16 de fevereiro de 2018.

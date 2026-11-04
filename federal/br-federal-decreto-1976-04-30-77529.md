@@ -1,5 +1,3 @@
-###DEC-077529-0-000-30-04-1976@@@
-
 ### DECRETO Nº 77.529, DE 30 DE ABRIL DE 1976
 
 Altera dispositivo do Decreto número 77.315, de 19 de março de 1976.

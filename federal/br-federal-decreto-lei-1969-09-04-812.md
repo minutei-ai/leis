@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/553ae996-683e-4fd9-a77a-70d89915c61b/texto#nowhere)
 
-###DEL-000812-0-000-04-09-1969@@@
-
 DECRETO-LEI Nº 812, DE 4 DE SETEMBRO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério da Fazenda em favor da Delegacia do Tesouro Brasileiro no Exterior o crédito especial de NCr$54.416.000,00 para o fim que especifica.

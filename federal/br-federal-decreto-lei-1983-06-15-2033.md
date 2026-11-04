@@ -1,5 +1,3 @@
-###DEL-002033-0-000-15-06-1983@@@
-
 # DECRETO-LEI Nº 2.033, DE 15 DE JUNHO DE 1983
 
 Dispensa do exame de similaridade bens já importados para execução de projetos aprovados pela SUDENE ou pela SUDAM e dá outras providências.

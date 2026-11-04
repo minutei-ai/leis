@@ -1,5 +1,3 @@
-###DEC-047578-0-000-31-12-1959@@@
-
 Decreto nº 47.578, de 31 de dezembro de 1959.
 
 Autoriza estrangeira a adquirir, em revigoração de aforamento, a fração ideal do domínio útil do terreno de marinha que menciona, no Distrito Federal.

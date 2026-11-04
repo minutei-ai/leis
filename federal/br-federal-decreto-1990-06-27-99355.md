@@ -1,7 +1,3 @@
-1
-
-###DEC-099355-0-000-27-06-1990@@@
-
 DECRETO N° 99.355, DE 27 DE JUNHO DE 1990
 
 Dá nova redação aos arts. 5°, 6°, 10 e 11 do Decreto n° 99,274, de 6 de junho de 1990, que regulamenta as Leis n°s 6.902, de 27 de abril de 1981, e 6.938, de 31 de agosto de 1981, e dá outras providências.

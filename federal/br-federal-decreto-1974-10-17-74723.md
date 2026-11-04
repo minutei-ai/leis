@@ -1,5 +1,3 @@
-###DEC-074723-0-000-17-10-1974@@@
-
 DECRETO Nº 74.723, DE 17 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos, a concessão outorgada à Rádio clube de Santos, S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Santos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-052916-0-000-22-11-1963@@@
-
 Decreto nº 52.916, de 22 de novembro de 1963.
 
 Modifica o Decreto nº 1.936, de 20 de dezembro de 1962, e dá outras providências.
@@ -216,7 +214,25 @@ Da Indústria de linhas e Fios de quaisquer substâncias
 
 Art. 42. A indicação da quantidades de linhas e fios de algodão, linho, lã, seda, raion, nylon, terylene ou qualquer outra substância natural, artificial-sintética ou mista, será feita obedecidas as seguintes tolerâncias:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- artigos de comprimento de mais de 100 metros ..................................................</span></p></td><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>+- 2%</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- artigos de comprimento de 100 metros ou menos ...............................................</span></p></td><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>+- 3%</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- artigos de pêso superior a 50g .............................................................................</span></p></td><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>+- 2%</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- artigos de pêso de 5 a 50g ...................................................................................</span></p></td><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>+- 3%</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- artigos de pêso inferior a 5g .................................................................................</span></p></td><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>+- 6%</span></p></td></tr></tbody></table>
+- artigos de comprimento de mais de 100 metros ..................................................
+
++- 2%
+
+- artigos de comprimento de 100 metros ou menos ...............................................
+
++- 3%
+
+- artigos de pêso superior a 50g .............................................................................
+
++- 2%
+
+- artigos de pêso de 5 a 50g ...................................................................................
+
++- 3%
+
+- artigos de pêso inferior a 5g .................................................................................
+
++- 6%
 
 Parágrafo único. A indicação dos pesos a que se refere êste artigo se entende como relativa ao pêso líquido sêco de mercadoria, conforme disposto no art.18, e em relação a êle se permite a variação correspondente à variação normal de umidade para a mercadoria considerada.
 

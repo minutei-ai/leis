@@ -1,5 +1,3 @@
-###DEC-082324-0-000-27-09-1978@@@
-
 Decreto nº 82.324, de 27 de setembro de 1978
 
 Revoga Decreto nº 81.061, de 19 de dezembro de 1977.

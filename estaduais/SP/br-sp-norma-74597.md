@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74597)
-
 # LEI Nº 12.760, DE 14 DE NOVEMBRO DE 2007
 
 ## (Projeto de lei nº 414/2007, do Deputado Edson Giriboni - PV)

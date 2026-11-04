@@ -1,5 +1,3 @@
-###DEC-060633-0-000-26-04-1967@@@
-
 DECRETO Nº 60.633, DE 26 DE ABRIL DE 1967.
 
 Extingue o Depósito de Fardamento do Rio de Janeiro e dá outras providências.

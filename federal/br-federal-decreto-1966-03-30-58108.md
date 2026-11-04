@@ -1,5 +1,3 @@
-###DEC-058108-0-000-30-03-1966@@@
-
 DECRETO Nº 58.108, DE 30 DE MARÇO DE 1966.
 
 Autoriza a Companhia Ferro Brasileiro a instalar grupo termelétrico.

@@ -1,5 +1,3 @@
-###DEC-067338-0-000-05-10-1970@@@
-
 DECRETO Nº 67.338, DE 5 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 39.743, de 8 de agosto de 1956.

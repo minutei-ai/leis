@@ -1,5 +1,3 @@
-###DEC-072270-0-000-17-05-1973@@@
-
 DECRETO Nº 72.270, DE 17 DE MAIO DE 1973.
 
 Altera destinação de funções gratificadas criadas no Quadro de Pessoal do Ministério do Exército pelo Decreto nº 65.765, de 2 de dezembro de 1969.

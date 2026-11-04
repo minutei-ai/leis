@@ -1,5 +1,3 @@
-###DEC-056672-0-000-06-08-1965@@@
-
 Decreto nº 56.672, de 6 de agôsto de 1965.
 
 Renova o Decreto nº 51.937, de 26 de abril de 1963.

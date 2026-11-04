@@ -1,5 +1,3 @@
-###DEC-065230-0-000-26-09-1969@@@
-
 DECRETO Nº 65.230 - DE 26 DE SETEMBRO DE 1969.
 
 Altera a representação da Comissão Executiva do Conselho de Política Aduaneira.

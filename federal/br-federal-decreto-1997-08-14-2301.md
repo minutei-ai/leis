@@ -1,5 +1,3 @@
-###DEC-002301-0-000-14-08-1997@@@
-
 DECRETO Nº 2.301, DE 14 DE AGOSTO DE 1997
 
 Regulamenta, no âmbito do Ministério do Exército, o Capítulo V da Lei nº 7.501, de 27 de junho de 1986, que dispõe sobre o regime de contratação dos Auxiliares Locais.

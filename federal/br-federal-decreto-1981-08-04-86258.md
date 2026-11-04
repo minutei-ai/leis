@@ -1,5 +1,3 @@
-###DEC-086258-0-000-04-08-1981@@@
-
 Decreto nº 86.258, de 04 agosto de 1981
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Morumbi da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

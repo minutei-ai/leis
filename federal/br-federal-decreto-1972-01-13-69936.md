@@ -1,5 +1,3 @@
-###DEC-069936-0-000-13-01-1972@@@
-
 DECRETO Nº 69.936, DE 13 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a casa de Nossa Senhora Peregrina (Obras Sociais do Santuário de Fátima), com sede no Estado da Guanabara.

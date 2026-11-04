@@ -1,5 +1,3 @@
-###DEC-048644-0-000-01-08-1960@@@
-
 DECRETO Nº 48.644, DE 1º DE AGÔSTO DE 1960.
 
 Altera os regimentos do C.N.E.P.A., do D.N.P.A. e do S.F. do Ministério da Agricultura, dando nova denominação e organização à Universidade Rural do C.N.E.PA.

@@ -1,5 +1,3 @@
-###DEC-048130-0-000-20-04-1960@@@
-
 DECRETO Nº 46.130, de 20 DE ABRIL DE 1960.
 
 Aprova o Regimento para execução do disposto nos arts. 91 e §§ 92 e 93, da Lei nº 3.470, de 28 de novembro de 1958 e atribui ao Banco Nacional do Desenvolvimento Econômico da Secretaria da Comissão de Investimentos.

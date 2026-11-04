@@ -1,5 +1,3 @@
-###DEC-046177-0-000-09-06-1959@@@
-
 DECRETO Nº 46.177, DE 9 DE JUNHO DE 1959.
 
 Concede à Sociedade Emprêsa de Navegação Marajoara Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-093012-0-000-27-07-1986@@@
-
 DECRETO Nº 93.012, DE 27 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Lotes nº 70, 71 e 76 da Gleba 3, Cancã da Colônia Cantu", situado no Município de Roncador, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 2 de maio de 1986, e dá outras providências.

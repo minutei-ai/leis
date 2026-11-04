@@ -1,5 +1,3 @@
-###DEC-076428-0-000-13-10-1975@@@
-
 DECRETO Nº 76.428, DE 13 DE OUTUBRO DE 1975.
 
 Retifica o Decreto datado de 3 de novembro de 1964. Publicado no Diário Oficial da União de 5 subseqüente que cassou a permissão concedida à Rádio Educadora de Goiandira S.A .para estabelecer, na cidade de Goiandira, Estado de Goiás, uma estação de radiodifusão sonora em onda média.

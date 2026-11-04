@@ -1,5 +1,3 @@
-###DEC-051844-0-000-15-03-1963@@@
-
 Decreto nº 51.844, de 15 de março de 1963.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento o domínio útil da fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

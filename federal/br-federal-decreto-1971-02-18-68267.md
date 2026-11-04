@@ -1,5 +1,3 @@
-###DEC-068267-0-000-18-02-1971@@@
-
 DECRETO Nº 68.267, DE 18 DE FEVEREIRO DE 1971.
 
 Cria Grupo de Trabalho Especial, para promover o projetamento, o desenvolvimento e a construção de um protótipo de computador eletrônico para emprego em operações navais.

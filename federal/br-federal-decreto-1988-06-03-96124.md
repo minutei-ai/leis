@@ -1,5 +1,3 @@
-###DEC-096124-0-000-03-06-1988@@@
-
 # DECRETO Nº 96.124, DE 3 DE JUNHO DE 1988
 
 Altera o efetivo do posto de Capitão-Tenente do Quadro Complementar do Corpo de Fuzileiros Navais.

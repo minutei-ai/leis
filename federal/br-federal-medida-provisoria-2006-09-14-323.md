@@ -1,5 +1,3 @@
-###MPV-000323-0-000-14-09-2006@@@
-
 MEDIDA PROVISÓRIA Nº 323, DE 14 DE SETEMBRO DE 2006.
 
 Autoriza a União a efetuar contribuição à Organização Mundial da Saúde - OMS, destinada a apoiar a viabilização da Central Internacional para a Compra de Medicamentos contra a AIDS, malária e tuberculose (CICOM/UNITAID), no valor de até R$ 13.200.000,00.
@@ -17,5 +15,3 @@ LUIZ INÁCIO LULA DA SILVA
         Celso Luiz Nunes Amorim
 
           Paulo Bernardo Silva
-
-Este texto não substitui o publicado no D.O.U. de 15.9.2006

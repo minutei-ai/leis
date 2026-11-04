@@ -1,5 +1,3 @@
-###DEC-087863-0-000-23-11-1982@@@
-
 Decreto nº 87.863, de 23 de novembro de 1982
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

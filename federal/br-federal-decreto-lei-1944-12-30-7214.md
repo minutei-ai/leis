@@ -1,5 +1,3 @@
-###DEL-007214-0-000-30-12-1944@@@
-
 DECRETO-LEI N. 7.214 – DE 30 DE DEZEMBRO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito suplementar de Cr$ 19.200,00, à verba que especifica

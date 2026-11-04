@@ -1,5 +1,3 @@
-###MPV-001759-0-010-11-03-1999@@@
-
 Medida Provisória nº 1.759-10, de 11 de março de 1999
 
 Estabelece critérios para a concessão de empréstimo, pela União, aos Estados e ao Distrito Federal, destinado ao ressarcimento parcial das parcelas decorrentes da aplicação da Lei nº 9.424, de 24 de dezembro de 1996.

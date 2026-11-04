@@ -1,5 +1,3 @@
-###DEC-077838-0-000-16-06-1976@@@
-
 DECRETO Nº 77.838, DE 16 DE JUNHO DE 1976.
 
 Concede à Mineração Vila Verde Limitada o direito de lavrar antimônio no Município de Belo Horizonte, Estado de Minas Gerais.

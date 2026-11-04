@@ -1,5 +1,3 @@
-###DEC-084252-0-000-28-11-1979@@@
-
 Decreto nº 84.252, de 28 de novembro de 1979.
 
 Reorganiza o Conselho Nacional de Direito Autoral e dá outras providências.

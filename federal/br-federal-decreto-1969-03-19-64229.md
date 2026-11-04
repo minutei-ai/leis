@@ -1,5 +1,3 @@
-###DEC-064229-0-000-19-03-1969@@@
-
 DECRETO Nº 64.229, DE 19 DE MARÇO DE 1969.
 
 Abre ao Ministério do Interior o crédito extraordinário de NCr$ 1.000.000,00 (um milhão de cruzeiros novos),  para a fim que especifica.

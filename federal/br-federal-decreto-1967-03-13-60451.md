@@ -1,5 +1,3 @@
-###DEC-060451-0-000-13-03-1967@@@
-
 DECRETO Nº 60.451, DE 13 DE MARÇO DE 1967.
 
 Autoriza o cidadão brasileiro Rafael Caio Nunes Coelho a pesquisar mica no município de Nacip Raydan, Estado de Minas Gerais.

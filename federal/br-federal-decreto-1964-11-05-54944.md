@@ -1,5 +1,3 @@
-###DEC-054944-0-000-05-11-1964@@@
-
 DECRETO Nº 54.944, DE 5 DE Novembro DE 1964.
 
 Declara de utilidade pública para desapropriação, o terreno que menciona, em Barra do Piraí, Estado do Rio de Janeiro, necessário ao Ministério da Aeronáutica.

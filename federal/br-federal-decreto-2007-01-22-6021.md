@@ -1,5 +1,3 @@
-###DEC-006021-0-000-22-01-2007@@@
-
 DECRETO Nº 6.021, DE 22 DE JANEIRO DE 2007.
 
 Cria a Comissão Interministerial de Governança Corporativa e de Administração de Participações Societárias da União - CGPAR, e dá outras providências.
@@ -143,5 +141,3 @@ Guido Mantega
 João Bernardo de Azevedo Bringel
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

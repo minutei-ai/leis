@@ -1,7 +1,3 @@
-1
-
-###DEL-002372-0-000-18-11-1987@@@
-
 # DECRETO-LEI Nº 2.372, DE 18 DE NOVEMBRO DE 1987.
 
 Dispõe sobre a gratificação por operações especiais, instituída pelo Decreto-lei nº 1.714, de 21 de novembro de 1979.

@@ -1,5 +1,3 @@
-###DEC-077904-0-000-24-06-1976@@@
-
 DEDRETO Nº 77.904, DE 24 DE JUNHO DE 1976.
 
 Declara a caducidade da concessão outorgada à Companhia Indústrias Reunidas Olinda S.A. - CIRO, para lavrar fosforita no Município de Olinda, Estado de Pernanbuco.

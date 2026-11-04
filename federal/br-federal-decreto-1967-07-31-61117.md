@@ -1,5 +1,3 @@
-###DEC-061117-0-000-31-07-1967@@@
-
 Decreto nº 61.117, de 31 de julho de 1967.
 
 Retifica a classificação dos cargos de nível superior da Estrada de Ferro São Luís - Teresina.

@@ -1,5 +1,3 @@
-###DEC-081276-0-000-31-01-1978@@@
-
 Decreto nº 81.276, de 31 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Artes Práticas da Universidade Católica de Minas Gerais.

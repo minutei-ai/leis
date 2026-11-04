@@ -1,5 +1,3 @@
-###MPV-002183-0-055-27-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.183‑55, DE 27 DE JUlHO DE 2001
 
 Acresce e altera dispositivos do Decreto-Lei nº 3.365, de 21 de junho de 1941, das Leis nºs 4.504, de 30 de novembro de 1964, 8.117, de 1º de março de 1991, e 8.629, de 25 de fevereiro de 1993, e dá outras providências.

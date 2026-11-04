@@ -1,5 +1,3 @@
-###DEC-046477-0-000-20-07-1959@@@
-
 DECRETO Nº 46.477, DE 20 DE JULHO DE 1959.
 
 Autoriza Cimento Portland Branco do Brasil S.A. a pesquisar conchas calcárias, no Distrito Federal.

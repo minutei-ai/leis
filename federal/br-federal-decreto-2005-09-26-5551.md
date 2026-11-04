@@ -1,5 +1,3 @@
-###DEC-005551-0-000-26-09-2005@@@
-
 DECRETO N° 5.551, DE 26 DE SETEMBRO DE 2005
 
 Dispõe sobre o remanejamento, em caráter temporário, de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

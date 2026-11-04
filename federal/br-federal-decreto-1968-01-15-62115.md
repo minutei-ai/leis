@@ -1,5 +1,3 @@
-###DEC-062115-0-000-12-01-1968@@@
-
 DECRETO Nº 62.115, DE 12 DE JANEIRO DE 1968.
 
 Regulamenta o artigo 37 da Lei número 4.320 de 17 de março de 1964.

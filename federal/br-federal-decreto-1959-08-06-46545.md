@@ -1,5 +1,3 @@
-###DEC-046545-0-000-06-08-1959@@@
-
 DECRETO Nº 46.545, DE 6 DE AGÔSTO DE 1959.
 
 Inclui funções gratificadas no Ministério da Justiça e Negócios Interiores, e dá outras providências.

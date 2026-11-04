@@ -1,5 +1,3 @@
-###DEL-006535-0-000-26-05-1944@@@
-
 DECRETO-LEI N. 6.535 – DE 26 DE MAIO DE 1944
 
 Cria o Serviço de Assistência Religiosa junto às fôrças em operações de guerra

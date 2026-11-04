@@ -1,5 +1,3 @@
-###DEC-058604-0-000-14-06-1966@@@
-
 decreto nº 58.604, de 14 de junho de 1966.
 
 Suspende o funcionamento da “Sociedade Cultural Sino-Brasileira”, com sede no Estado da Guanabara.

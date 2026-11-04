@@ -1,5 +1,3 @@
-###DEC-072505-0-000-20-07-1973@@@
-
 DECRETO Nº 72.505, DE 20 DE JULHO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, situada na Cidade de Pouso Alegre, Estado de Minas Gerais destinada à construção da estação telefônica daquela cidade, pela Companhia Telefônica de Minas Gerais.

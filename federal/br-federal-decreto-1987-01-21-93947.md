@@ -1,5 +1,3 @@
-###DEC-093947-0-000-21-01-1987@@@
-
 DECRETO Nº 93.947, DE 21 DE JANEIRO DE 1987
 
 Outorga à Destilaria Lago Azul S.A. - DELASA, concessão para o aproveitamento da energia hidráulica de um trecho do ribeirão Castelhano, na divisa dos Municípios de Cristalina e Ipameri, Estado de Goiás.

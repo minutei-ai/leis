@@ -1,5 +1,3 @@
-###DEC-055348-0-000-31-12-1964@@@
-
 DECRETO Nº 55.348, DE 31 DE DEZEMBRO DE 1964.
 
 Restringe a zona de concessão de Prefeitura Municipal de ipora e outorga , à Centrais Elétricas de Goiás S.A., concessão para distribuir energia elétrica no Município de Israelândia, Estado de Goiás

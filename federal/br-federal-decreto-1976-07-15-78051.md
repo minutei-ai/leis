@@ -1,5 +1,3 @@
-###DEC-078051-0-000-15-07-1976@@@
-
 DECRETO Nº 78.051, DE 15 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Formação de Psicólogo, da Faculdade Salesiana de Filosofia Ciências e Letras, com sede em Lorena, Estado de São Paulo.

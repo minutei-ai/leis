@@ -1,5 +1,3 @@
-###DEC-083768-0-000-24-07-1979@@@
-
 decreto nº 83.768, de 24 de julho de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias, necessária à implantação da subestação de Juquiá II, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

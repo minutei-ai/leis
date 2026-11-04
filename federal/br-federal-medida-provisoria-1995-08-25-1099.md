@@ -1,7 +1,3 @@
-1
-
-###MPV-001099-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.099, DE 25 DE AGOSTO DE 1995.
 
 Dispõe sobre crédito rural, e dá outras providências.

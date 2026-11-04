@@ -1,5 +1,3 @@
-###DEC-089486-0-000-28-03-1984@@@
-
 Decreto nº 89.486, de 28 de março de 1984
 
 Dispõe sobre a classificação de funcionários na categoria funcional de Controlador da Arrecadação Federal do Grupo - Tributação, Arrecadação e Fiscalização do Quadro Permanente do Ministério da Fazenda e dá outras providências.

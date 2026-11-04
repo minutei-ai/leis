@@ -1,5 +1,3 @@
-###DEC-046110-0-000-21-05-1959@@@
-
 DECRETO Nº 46.110, DE 21 DE MAIO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situada no Município de Dom Joaquim, no Estado de Minas Gerais.

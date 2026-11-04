@@ -1,5 +1,3 @@
-###DEC-081306-0-000-02-02-1978@@@
-
 Decreto nº 81.306, de 2 de fevereiro de 1978.
 
 Concede à Indústrias Brasileiras de artigos Refratários S.A. - "IBAR' o direito de lavrar argila no Município de Uberaba, Estado do Minas Gerais.

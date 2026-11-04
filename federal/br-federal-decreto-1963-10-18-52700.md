@@ -1,5 +1,3 @@
-###DEC-052700-0-000-18-10-1963@@@
-
 DECRETO Nº 52.700, DE 18 DE OUTUBRO DE 1963.
 
 Institui a Hora Especial nos Estados de São Paulo, Rio de Janeiro, Guanabara, Minas Gerais e Espírito Santo.

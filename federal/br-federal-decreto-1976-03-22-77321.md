@@ -1,5 +1,3 @@
-###DEC-077321-0-000-22-03-1976@@@
-
 Decreto nº 77.321, de 22 de março de 1976.
 
 Declara públicas de uso comum, as águas dos cursos que especifica

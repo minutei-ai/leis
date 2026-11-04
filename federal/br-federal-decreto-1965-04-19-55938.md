@@ -1,5 +1,3 @@
-###DEC-055938-0-000-19-04-1965@@@
-
 DECRETO Nº 55.938, DE 19 DE ABRIL DE 1965.
 
 Retifica e altera o Decreto nº 38.673, de 27 de janeiro de 1965, modificado pelos Decretos ns. 38.966, de 3 de abril de 1956 e 51.958, de 26 de abril de 1963.

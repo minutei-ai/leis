@@ -1,5 +1,3 @@
-###DEC-064508-0-000-14-05-1969@@@
-
 DECRETO Nº 64.508, DE 14 DE MAIO DE 1969.
 
 Declara caduco o Decreto nº 17.164 de 16 de novembro de 1944.

@@ -1,5 +1,3 @@
-###DEC-003327-0-000-05-01-2000@@@
-
 DECRETO nº 3.327, DE 5 DE JANEIRO DE 2000.
 
 Aprova o Regulamento da Agência Nacional de Saúde Suplementar - ANS, e dá outras providências.

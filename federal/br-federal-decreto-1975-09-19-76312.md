@@ -1,5 +1,3 @@
-###DEC-076312-0-000-19-09-1975@@@
-
 Decreto Nº 76.312 - DE 19 DE SETEMBRO DE 1975
 
 Autoriza o funcionamento dos cursos de Pedagogia, de Letras e de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Ouro Fino, Estado de Minas Gerais.

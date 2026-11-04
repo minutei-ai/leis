@@ -1,5 +1,3 @@
-###DEC-003305-0-000-23-12-1999@@@
-
 DECRETO Nº 3.305, DE 23 DE DEZEMBRO DE 1999.
 
 Dá nova redação ao art. 28 do Decreto nº 2.222, de 8 de maio de 1997, que regulamenta a Lei nº 9.437, de 20 de fevereiro de 1997.

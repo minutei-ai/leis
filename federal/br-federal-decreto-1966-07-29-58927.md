@@ -1,5 +1,3 @@
-###DEC-058927-0-000-29-07-1966@@@
-
 DECRETO Nº 58.927, DE 29 DE JULHO DE 1966.
 
 Autoriza a Emprêsa Luz e Fôrça Elétrica de Teietê S. A. a construir linha de transmissão.

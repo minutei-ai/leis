@@ -1,5 +1,3 @@
-###DEC-046413-0-000-13-07-1959@@@
-
 DECRETO Nº 46.413, DE 13 DE JULHO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital de responsabilidade da The London Assurance.

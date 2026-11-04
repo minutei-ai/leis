@@ -1,5 +1,3 @@
-###MPV-000004-0-000-17-10-2001@@@
-
 MEDIDA PROVISÓRIA Nº 4, DE 17 DE OUTUBRO DE 2001
 
 Dispõe sobre a complementação pela União dos recursos necessários ao pagamento de bônus aos consumidores residenciais de energia elétrica e dá outras providências.

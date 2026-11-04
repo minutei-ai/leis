@@ -1,5 +1,3 @@
-###DEC-058672-0-000-20-06-1966@@@
-
 DECRETO Nº 58.672, DE 20 DE JUNHO DE 1966.
 
 Concede á Companhia de Navegação Marítima NETUMAR autorização para continuar a funcionar como emprêsa de navegação de cobotagem.

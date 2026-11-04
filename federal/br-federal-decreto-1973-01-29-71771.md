@@ -1,5 +1,3 @@
-###DEC-071771-0-000-29-01-1973@@@
-
 DECRETO Nº 71.771, DE 29 DE JANEIRO DE 1973
 
 Altera o Decreto nº 68.065, de 14 de janeiro de 1971, e dá outras providências.

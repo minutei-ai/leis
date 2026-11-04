@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209671)<br>
-
 # LEI N° 17.969, DE 02 DE JULHO DE 2024
 
 ## (Projeto de lei n° 339/2023, do Deputado Itamar Borges - MDB)

@@ -1,7 +1,3 @@
-1
-
-###DEC-001268-0-000-11-10-1994@@@
-
 DECRETO Nº 1.268, DE 11 DE OUTUBRO DE 1994
 
 Dispões sobre a transferência de cargos em comissão que menciona.

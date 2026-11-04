@@ -1,5 +1,3 @@
-###DEC-089928-0-000-09-07-1984@@@
-
 Decreto nº 89.928, de 09 de julho de 1984
 
 Regulamenta disposições da Lei nº 5.887, de 31 de maio de 1973, alteradas pela Lei nº 6.980, de 29 de março de 1982, referentes ao regime jurídico do Diplomata.

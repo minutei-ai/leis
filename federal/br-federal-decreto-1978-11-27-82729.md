@@ -1,5 +1,3 @@
-###DEC-082729-0-000-27-11-1978@@@
-
 Decreto nº 82 729, de 27 de novembro de 1978.
 
 Retifica a concessão de lavra outorgada à Mineração Itapeva Ltda. pelo Decreto nº 79 468, de 05 de abril de 1977.

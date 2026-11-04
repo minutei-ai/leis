@@ -1,5 +1,3 @@
-###DEL-007540-0-000-10-05-1945@@@
-
 DECRETO-LEI N. 7.540 – DE 10 DE MAIO DE 1945
 
 Concede pensão especial à viúva e filhos menores de Jací Soto Maior Lagos, ex-agente fiscal do impôsto de consumo no interior do Estado de Goiás

@@ -1,5 +1,3 @@
-###DEL-003766-0-000-28-10-1941@@@
-
 DECRETO-LEI N. 3.766 – DE 28 DE OUTUBRO DE 1941
 
 Deslocamento do tronco TP 5 do Plano Geral de Viação Nacional

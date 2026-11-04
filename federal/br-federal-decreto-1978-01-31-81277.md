@@ -1,5 +1,3 @@
-###DEC-081277-0-000-31-01-1978@@@
-
 Decreto nº 81.277, de 31 de janeiro de 1978.
 
 Concede reconhecimento aos cursos de Turismo Comunicação Social, e de Letras, ministrados pelo Centro Unificado Profissional, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

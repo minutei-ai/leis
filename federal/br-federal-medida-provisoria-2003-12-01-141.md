@@ -1,5 +1,3 @@
-###MPV-000141-0-000-01-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 141, DE 1º DE DEZEMBRO 2003.
 
        Dá nova redação ao art. 2º da Lei nº 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior.

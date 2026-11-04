@@ -1,5 +1,3 @@
-###MPV-001978-0-024\-04-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.978-24, DE 4 de maio DE 2000.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

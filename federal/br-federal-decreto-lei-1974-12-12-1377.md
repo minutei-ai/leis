@@ -1,5 +1,3 @@
-###DEL-001377-0-000-12-12-1974@@@
-
 # DECRETO-LEI Nº 1.377, DE 12 DE DEZEMBRO DE 1974
 
 Estabelece norma de gestão financeira para a execução orçamentária nos Estados e Municípios.

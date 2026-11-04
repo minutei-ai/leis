@@ -1,5 +1,3 @@
-###DEC-074465-0-000-27-08-1974@@@
-
 DECRETO nº 74.465, DE 27 DE AGOSTO DE 1974
 
 Concede permissão, em caráter permanente, à empresa POLIVI S.A - Indústria e Comércio, com sede no município de Campo Largo, no Estado do Paraná, para funcionar aos domingos e nos dias feriados civis e religiosos, as suas lojas comerciais localizadas à margem das estradas de rodagem nos municípios e locais que menciona.

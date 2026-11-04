@@ -1,5 +1,3 @@
-###DEC-069901-0-000-06-01-1972@@@
-
 DECRETO nº 69.901, DE 6 DE JANEIRO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

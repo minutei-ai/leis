@@ -1,7 +1,3 @@
-1
-
-###DEC-099721-0-000-23-11-1990@@@
-
 DECRETO Nº 99.721, DE 23 DE NOVEMBRO DE 1990
 
 Localiza Organizações Militares da Aeronáutica.

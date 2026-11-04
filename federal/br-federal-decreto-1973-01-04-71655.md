@@ -1,5 +1,3 @@
-###DEC-071655-0-000-04-01-1973@@@
-
 DECRETO Nº 71.655, DE 4 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Universidade de Fortaleza, mantida pela Fundação Educacional Edson Queiroz, Fortaleza, Ceará.

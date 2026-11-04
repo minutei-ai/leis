@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4a2a94c3-bdb8-4152-8587-63cb4875d0ae/texto#nowhere)
 
-###DEL-000561-0-000-30-04-1969@@@
-
 DECRETO-LEI Nº 561, DE 30 DE ABRIL DE 1969
 
 Acrescenta um parágrafo, sob o nº 5º, ao art. 26 do Decreto-Lei nº 5, de 4 de abril de 1966.

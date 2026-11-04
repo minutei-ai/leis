@@ -1,5 +1,3 @@
-###DEC-055474-0-000-07-01-1965@@@
-
 decreto nº 55.474, de 7 de janeiro de 1965.
 
 Altera as denominações de órgãos do Serviço Nacional de Doenças Mentais do Ministério da Saúde e dá outras disposições.

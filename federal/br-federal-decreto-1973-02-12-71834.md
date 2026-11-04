@@ -1,5 +1,3 @@
-###DEC-071834-0-000-12-02-1973@@@
-
 Decreto nº 71.834, de 12 de fevereiro de 1973.
 
 Transforma em "Grupo de Apoio" aos Órgãos de Direção-Geral e de Assessoramento do Ministério da Aeronáutica a Superintendência criada pelo Decreto n º 63.003, de 17 de julho de 1968, aprova o Regulamento do "Grupo de Apoio" e da outras providências.

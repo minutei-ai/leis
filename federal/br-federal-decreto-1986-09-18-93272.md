@@ -1,5 +1,3 @@
-###DEC-093272-0-000-18-09-1986@@@
-
 DECRETO Nº 93.272, DE 18 DE SETEMBRO DE 1986
 
 Concede à Centrais Elétricas de Goiás S.A. - CELG, autorização para construir trecho de linha de transmissão de energia elétrica, em faixa de terra situada na Área Indígena Apinagé, no Estado de Goiás.

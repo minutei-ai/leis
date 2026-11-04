@@ -1,5 +1,3 @@
-###DEL-004266-0-000-17-04-1942@@@
-
 DECRETO-LEI N. 4.266 – DE 17 DE ABRIL DE 1942
 
 Regula a incidência do imposto de consumo sobre os produtos considerados como “seda” e respectivos artefatos

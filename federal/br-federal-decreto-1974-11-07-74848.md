@@ -1,5 +1,3 @@
-###DEC-074848-0-000-07-11-1974@@@
-
 DECRETO Nº 74.848, DE 7 DE NOVEMBRO DE 1974.
 
 Concede à Mineração J.N. Ltda. o direito de lavrar minério de manganês e de ferro, no Município de Itatiaiuçu, Estado de Minas Gerais.

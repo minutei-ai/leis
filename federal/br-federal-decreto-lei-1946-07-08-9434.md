@@ -1,5 +1,3 @@
-###DEL-009434-0-000-08-07-1946@@@
-
 DECRETO-LEI N. 9.434 – DE 8 DE JULHO DE 1946
 
 Altera o Decreto-lei nº 7.239, de 10 de Janeiro de 1945

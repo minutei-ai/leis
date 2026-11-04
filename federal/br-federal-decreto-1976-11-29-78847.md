@@ -1,5 +1,3 @@
-###DEC-078847-0-000-29-11-1976@@@
-
 DECRETO Nº 78.847, DE 29 NOVEMBRO DE 1976.
 
 Autoriza o funcionamento do cursos de Ciências da Faculdade de Ciências e de Pedagogia de Lages, com sede na cidade de Lages, Estado de Santa Catarina.

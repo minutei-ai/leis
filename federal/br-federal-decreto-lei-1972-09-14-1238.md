@@ -1,5 +1,3 @@
-###DEL-001238-0-000-14-09-1972@@@
-
 # DECRETO-LEI Nº 1.238, DE 14 DE SETEMBRO DE 1972
 
 Autoriza a remissão de débitos do Departamento Nacional de Estradas de Rodagem.

@@ -1,5 +1,3 @@
-###DEC-075037-0-000-04-12-1974@@@
-
 DECRETO Nº 75.037, DE 4 DE DEZEMBRO DE 1974.
 
 Concede C. R. Almeida S. A. - Engenharia e Construções o direito de lavrar dolomito no Município de Cerro Azul, Estado do Paraná.

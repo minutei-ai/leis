@@ -1,5 +1,3 @@
-###DEC-057127-0-000-20-10-1965@@@
-
 DECRETO Nº 57.127, DE 20 DE OUTUBRO DE 1965.
 
 Cria funções gratificadas no Instituto de Aposentadoria e Pensões dos Industriários e dá outras providências.
@@ -10,7 +8,53 @@ decreta:
 
 Art. 1º Ficam criadas no Quadro de Pessoal, Parte Permanente, Instituto de Aposentadoria e Pensões dos Industriários, as seguintes funções gratificadas, a serem lotadas na Agência de Caxias do Sul, no Estado do Rio Grande do Sul:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:294.2pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FUNÇÕES GRATIFICADAS</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantitativos</span></p></td><td style="width:56.8pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Símbolos</span></p></td></tr><tr><td style="width:294.2pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Médico Chefe ..................................................................................</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:56.8pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4-F</span></p></td></tr><tr><td style="width:294.2pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe de Perícia Médica .................................................................</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:56.8pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4-F</span></p></td></tr><tr><td style="width:294.2pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Administrador do Pôsto de Assistência ...........................................</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:56.8pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6-F</span></p></td></tr><tr><td style="width:294.2pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe de Seção (de Expediente e Material; de Contrôle e Atendimento) ...................................................................................</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:56.8pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8-F</span></p></td></tr><tr><td style="width:294.2pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado de Setor (de Farmácia; de Assistência Social) ..........</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:56.8pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10-F</span></p></td></tr><tr><td style="width:294.2pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado de Setor (de Atendimento; de Matrícula; de Guarda e Contrôle de Material) ....................................................................</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:56.8pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>11-F</span></p></td></tr><tr><td style="width:294.2pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado de Setor (de Intercomunicações; de Conservação e Reparos;de Arquivo) .......................................................................</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:56.8pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>12-F</span></p></td></tr></tbody></table>
+FUNÇÕES GRATIFICADAS
+
+Quantitativos
+
+Símbolos
+
+Médico Chefe ..................................................................................
+
+1
+
+4-F
+
+Chefe de Perícia Médica .................................................................
+
+1
+
+4-F
+
+Administrador do Pôsto de Assistência ...........................................
+
+1
+
+6-F
+
+Chefe de Seção (de Expediente e Material; de Contrôle e Atendimento) ...................................................................................
+
+2
+
+8-F
+
+Encarregado de Setor (de Farmácia; de Assistência Social) ..........
+
+2
+
+10-F
+
+Encarregado de Setor (de Atendimento; de Matrícula; de Guarda e Contrôle de Material) ....................................................................
+
+3
+
+11-F
+
+Encarregado de Setor (de Intercomunicações; de Conservação e Reparos;de Arquivo) .......................................................................
+
+3
+
+12-F
 
 Art. 2º Fica o Instituto de Aposentadoria e Pensões dos Industriários autorizados a admitir mediante prova de habilitação, os empregados necessários ao funcionamento do Ambulatório em Caixas do Sul, de acôrdo com a tabela de pessoal sujeito à legislação trabalhista, aprovada pelo Ministro do Trabalho e Previdência Social na forma do Decreto nº 51.520 de 25 de junho de 1962.
 

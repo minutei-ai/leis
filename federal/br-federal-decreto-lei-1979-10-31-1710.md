@@ -1,5 +1,3 @@
-###DEL-001710-0-000-31-10-1979@@@
-
 # Decreto-lei nº 1.710, de 31 de outUbrO de 1979
 
 Estende a Gratificação de Produtividade aos casos que específica e dá outras providências.

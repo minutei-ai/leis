@@ -1,5 +1,3 @@
-###DEC-002934-0-000-11-01-1999@@@
-
 DECRETO Nº 2.934, DE 11 DE JANEIRO DE 1999.
 
 Dispõe sobre o remanejamento do cargo em comissão do Grupo-Direção e Assessoramento Superiores-DAS que menciona, e dá outras providências.

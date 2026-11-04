@@ -1,5 +1,3 @@
-###DEC-002969-0-000-26-02-1999@@@
-
 DECRETO Nº 2.969, DE 26 DE FEVEREIRO DE 1999.
 
 Dispõe sobre o pagamento de tarifas bancárias pelos órgãos da administração pública.

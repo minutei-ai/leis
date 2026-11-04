@@ -1,5 +1,3 @@
-###DEC-070551-0-000-17-05-1972@@@
-
 DECRETO Nº 70.551, DE 17 DE MAIO DE 1972.
 
 Declara sem efeito o Decreto número 18.119, de 21 de Março de 1945.

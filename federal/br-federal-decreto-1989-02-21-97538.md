@@ -1,5 +1,3 @@
-###DEC-097538-0-000-21-02-1989@@@
-
 DECRETO N° 97.538, DE 21 DE FEVEREIRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA GUANABARA”, classificado como “latifúndio” por exploração, situado no Município de Jaguaretama, Estado do Ceará, compreendido na zona prioritária, fixada pelo Decreto n° 92.617, de 2 de maio de 1986, e dá outras providências.

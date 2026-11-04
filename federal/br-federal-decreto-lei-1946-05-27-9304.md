@@ -1,5 +1,3 @@
-###DEL-009304-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.304 – DE 27 DE MAIO DE 1946
 
 Altera o orçamento do Ministério da Educação e Saúde, sem aumento de despêsa.

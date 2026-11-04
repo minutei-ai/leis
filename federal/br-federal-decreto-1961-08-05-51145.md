@@ -1,5 +1,3 @@
-###DEC-051145-0-000-05-08-1961@@@
-
 DECRETO Nº 51.145, DE 5 DE AGÔSTO DE 1961.
 
 Abre ao Poder Judiciário - Supremo Tribunal Federal - o crédito especial de Cr$25.000.000,00 (vinte e cinco milhões de cruzeiros) para o fim que especifica.

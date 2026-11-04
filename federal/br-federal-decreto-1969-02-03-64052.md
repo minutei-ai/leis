@@ -1,5 +1,3 @@
-###DEC-064052-0-000-03-02-1969@@@
-
 DECRETO Nº 64.052, DE 3 DE FEVEREIRO DE 1969.
 
 Acrescenta dispositivo no Regulamento para a Ordem do Mérito Naval, aprovado pelo Decreto nº 60.188, de 8 de fevereiro de 1967.

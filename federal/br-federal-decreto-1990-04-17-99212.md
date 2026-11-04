@@ -1,7 +1,3 @@
-1
-
-###DEC-099212-0-000-17-04-1990@@@
-
 DECRETO Nº 99.212, DE 17 DE ABRIL DE 1990.
 
 Dá nova redação aos arts. 1º e 2º do De­creto nº 92.467, de 17 de março de 1986, e dá outras providências.

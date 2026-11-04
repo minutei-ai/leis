@@ -1,5 +1,3 @@
-###DEL-008987-A-000-15-02-1946@@@
-
 DECRETO-LEI N. 8.987 A – DE 15 DE  FEVEREIRO DE 1946
 
 Suspende a vigência dos Decretos-leis ns. 8.739 e 8.740, de 19 de janeiro de 1946 .

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209657)<br>
-
 # LEI N° 17.953, DE 01 DE JULHO DE 2024
 
 ## (Projeto de lei n° 648/2023, do Deputado Carlão Pignatari - PSDB))

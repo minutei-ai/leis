@@ -1,5 +1,3 @@
-###DEC-070973-0-000-14-08-1972@@@
-
 DECRETO Nº 70.973, DE 14 DE AGOSTO DE 1972.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

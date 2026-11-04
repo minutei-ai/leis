@@ -1,5 +1,3 @@
-###MPV-001782-0-000-14-12-1998@@@
-
 medida provisória nº 1.782, de 14 DE dezembro de 1998.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

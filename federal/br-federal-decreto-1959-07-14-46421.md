@@ -1,5 +1,3 @@
-###DEC-046421-0-000-14-07-1959@@@
-
 DECRETO Nº 46.421, DE 14 DE JULHO DE 1959.
 
 Transfere, sem aumento de despesa, cargo isolado da Diretoria da Despesa Pública do Ministério da Fazenda para idêntico cargo da Alfândega do Rio de Janeiro.

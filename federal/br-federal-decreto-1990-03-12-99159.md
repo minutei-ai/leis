@@ -1,7 +1,3 @@
-1
-
-###DEC-099159-0-000-12-03-1990@@@
-
 # DECRETO Nº 99.159, DE 12 DE MARÇO DE 1990
 
 Outorga concessão à TV DELTA DE CURITIBA LTDA., para explorar Serviço Especial de Televisão por Assinatura (TVA) na região metropolitana de Curitiba, Estado do Paraná.

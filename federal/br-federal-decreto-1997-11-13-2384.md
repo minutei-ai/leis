@@ -1,5 +1,3 @@
-###DEC-002384-0-000-13-11-1997@@@
-
 DECRETO Nº 2.384, DE 13 DE NOVEMBRO DE 1997
 
 Estabelece limites para despesas no âmbito do Poder Executivo, para o exercício de 1998.

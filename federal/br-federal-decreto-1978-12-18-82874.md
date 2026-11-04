@@ -1,5 +1,3 @@
-###DEC-082874-0-000-18-12-1978@@@
-
 Decreto nº 82 874, de 18 de dezembro de 1978
 
 Concede reconhecimento ao curso de Estatística, ministrado pelo Setor de Ciências Exatas da Universidade Federal do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

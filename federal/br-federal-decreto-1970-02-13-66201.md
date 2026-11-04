@@ -1,5 +1,3 @@
-###DEC-066201-0-000-13-02-1970@@@
-
 decreto nº 66.201 - de 13 de fevereiro de 1970
 
 Cria a Comissão Nacional de Coordenação dos Programas Regionais Multilaterais do Conselho Interamericano Cultural.

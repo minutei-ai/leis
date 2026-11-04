@@ -1,7 +1,3 @@
-1
-
-###DEC-099246-0-000-10-05-1990@@@
-
 DECRETO Nº 99.246, DE 10 DE MAIO DE 1990
 
 Dá nova redação ao art. 2º do Decreto nº 99.193, de 27 de março de 1990.

@@ -1,5 +1,3 @@
-###DEC-093597-0-000-21-11-1986@@@
-
 DECRETO Nº 93.597, DE 21 DE NOVEMBRO DE 1986.
 
 Dispõe sobre as contribuições para formação e manutenção de entidades fechadas de previdência privada, feitas pelas autarquias, empresas públicas, sociedades de economia mista e fundações sob supervisão ministerial, e dá outras providências.

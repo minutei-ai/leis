@@ -1,5 +1,3 @@
-###DEC-056925-0-000-01-10-1965@@@
-
 DECRETO Nº 56.925, DE 1º DE OUTUBRO DE 1965.
 
 Concede reconhecimento à Faculdade de Direito “Laudo de Camargo”.

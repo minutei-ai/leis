@@ -1,5 +1,3 @@
-###MPV-000100-0-000-30-12-2002@@@
-
 MEDIDA PROVISÓRIA Nº 100, DE 30 DE DEZEMBRO 2002.
 
 Altera as Leis nos 8.248, de 23 de outubro de 1991, 8.387, de 30 de dezembro de 1991, e 10.176, de 11 de janeiro de 2001, dispondo sobre a capacitação e competitividade do setor de tecnologia da informação, e dá outras providências.
@@ -42,6 +40,8 @@ Art. 2~~º~~  O art. 2~~º~~ da Lei n~~º~~ 8.387, de 30 de dezembro de 1991, 
 
         Brasília, 30 de dezembro de 2002; 181~~º~~ da Independência e 114~~º~~ da República.
 
-FERNANDO HENRIQUE CARDOSO<br>
-Sérgio Silva do Amaral<br>
+FERNANDO HENRIQUE CARDOSO
+
+Sérgio Silva do Amaral
+
 Ronaldo Mota Sardenberg

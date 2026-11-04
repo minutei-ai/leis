@@ -1,5 +1,3 @@
-###DEC-051620-0-000-13-12-1962@@@
-
 DECRETO Nº 51.620, DE 13 DE DEZEMBRO DE 1962.
 
 Aprova o regulamento da Superintendência Nacional do Abastecimento - SUNAB.

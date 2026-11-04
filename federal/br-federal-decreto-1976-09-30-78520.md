@@ -1,5 +1,3 @@
-###DEC-078520-0-000-30-09-1976@@@
-
 DECRETO Nº 78.520, DE 30 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Enfermagem e Obstetrícia, da Universidade Estadual de Londrina, com sede na cidade de Londrina, Estado do Paraná.

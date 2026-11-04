@@ -1,5 +1,3 @@
-###DEC-074208-0-000-21-06-1974@@@
-
 DECRETO Nº 74.208, DE 21 DE JUNHO DE 1974.
 
 Aprova o Regulamento da Secretaria Geral do Exército e dá outras providências.

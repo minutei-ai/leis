@@ -1,5 +1,3 @@
-###DEC-054361-0-000-01-10-1964@@@
-
 DECRETO Nº 54.361, DE 1º DE OUTUBRO DE 1964.
 
 Dispõe sôbre o Orçamento da Superintendência de Política Agrária e dá outras providências.

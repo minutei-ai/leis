@@ -41,5 +41,3 @@ I **\-** no primeiro ano da legislatura, dar posse aos seus membros, bem como 
 ERICK MUSSO
 
 Presidente
-
-Este texto não substitui o publicado no D.O. de 27.11.2019.

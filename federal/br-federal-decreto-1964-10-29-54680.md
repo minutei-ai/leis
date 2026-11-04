@@ -1,5 +1,3 @@
-###DEC-054680-0-000-29-10-1964@@@
-
 Decreto nº 54.680, de 29 de outubro de 1964.
 
 Declara públicas, de uso comum, as águas do curso dágua que especifica.

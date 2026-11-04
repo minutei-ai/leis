@@ -1,5 +1,3 @@
-###DEC-081602-0-000-26-04-1978@@@
-
 Decreto nº 81.602, DE 26 de abril de 1978
 
 Autoriza o Ministro da Fazenda a Conceder Garantia a operação Externa,

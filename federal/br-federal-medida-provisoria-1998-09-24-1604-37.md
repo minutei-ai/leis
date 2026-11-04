@@ -1,5 +1,3 @@
-###MPV-001604-0-037-24-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.604-37, DE 24 DE SETEMBRO DE 1998
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008335-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.335 – DE 10 DE DEZEMBRO DE 1945
 
 Cria e extingue Unidades de Aviação

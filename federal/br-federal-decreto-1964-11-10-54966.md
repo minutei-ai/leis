@@ -1,5 +1,3 @@
-###DEC-054966-0-000-10-11-1964@@@
-
 DECRETO Nº 54.966, DE 10 DE NOVEMBRO DE 1964.
 
 Concede licença à Federação dos Empregados no Comércio do Estado de São Paulo, com sede em São Paulo, para promover a sua filiação à Federação Internacional dos Empregados e Técnicos.

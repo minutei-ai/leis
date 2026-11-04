@@ -1,5 +1,3 @@
-###DEC-091346-0-000-20-06-1985@@@
-
 Decreto nº 91.346, de 20 de junho de 1985
 
 Autoriza o funcionamento, de Cursos da Faculdade de Educação, Ciências e Letras de Porangatu.

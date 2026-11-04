@@ -1,5 +1,3 @@
-###DEC-068629-0-000-18-05-1971@@@
-
 DECRETO Nº 68.629 - DE 18 DE MAIO DE 1971.
 
 Altera o Decreto nº 65.912, de 19 de dezembro de 1969, que regulamentou o Decreto-lei nº 972, de 17 de outubro de 1969, sôbre a profissão de jornalista.

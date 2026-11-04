@@ -1,5 +1,3 @@
-###DEC-055669-0-000-01-02-1965@@@
-
 DECRETO Nº 55.669, DE 1 DE FEVEREIRO DE 1965.
 
 Autoriza a Mineração Mascote Limitada a pesquisar barita, no município de Ibitiara, Estado da Bahia.

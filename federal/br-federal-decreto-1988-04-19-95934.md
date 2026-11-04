@@ -1,5 +1,3 @@
-###DEC-095934-0-000-19-04-1988@@@
-
 DECRETO N° 95.934, DE 19 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO VOZ DO SUDOESTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Coronel Vivida, Estado do Paraná.

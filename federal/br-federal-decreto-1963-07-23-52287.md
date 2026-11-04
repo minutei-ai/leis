@@ -1,5 +1,3 @@
-###DEC-052287-0-000-23-07-1963@@@
-
 DECRETO Nº 52.287, DE 23 DE JULHO DE 1963.
 
 Regulamenta a profissão de radialista e dá outras providências.

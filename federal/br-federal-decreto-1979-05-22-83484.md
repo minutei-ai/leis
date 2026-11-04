@@ -1,5 +1,3 @@
-###DEC-083484-0-000-22-05-1979@@@
-
 Decreto nº 83.484, de 22 de maio de 1979.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação de crédito externo a ser contratada pela Siderurgia Brasileira S/A - SIDERBRÁS.

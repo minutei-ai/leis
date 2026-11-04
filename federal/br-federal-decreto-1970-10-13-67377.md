@@ -1,5 +1,3 @@
-###DEC-067377-0-000-13-10-1970@@@
-
 DECRETO Nº 67.377, DE 13 DE OUTUBRO DE 1970.
 
 Institui a Comissão de Fiscalização e Recebimento de Fragatas na Inglaterra.

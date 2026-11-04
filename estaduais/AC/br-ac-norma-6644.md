@@ -1,6 +1,10 @@
 > **LEI Nº 4.682, DE 03 DE DEZEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Titulo Honorífico de Cidadão Acreano ao Sr. Reinaldo Venâncio da Silva.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Titulo Honorífico de Cidadão Acreano ao Sr. Reinaldo Venâncio da Silva.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -9,8 +13,6 @@
 **Art. 1º** Fica concedido o Título Honorífico de Cidadão Acreano ao Sr. Reinaldo Venâncio da Silva.
 
 **Art. 2º** Esta Lei entra em vigor na data de sua publicação.
-
-<br>
 
 Rio Branco - Acre, 3 de dezembro de 2025, 137º da República, 123º do Tratado de Petrópolis e 64º do Estado do Acre.
 

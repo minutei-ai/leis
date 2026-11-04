@@ -1,5 +1,3 @@
-###DEC-047902-0-000-11-03-1960@@@
-
 DECRETO Nº 47.902, DE 11 DE MARÇO DE 1960.
 
 Suprime cargo extinto

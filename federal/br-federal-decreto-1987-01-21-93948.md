@@ -1,5 +1,3 @@
-###DEC-093948-0-000-21-01-1987@@@
-
 DECRETO Nº 93.948, DE 21 DE JANEIRO DE 1987
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra abrangida pelo Projeto de Irrigação "Baixo Acarau", os Municípios de Marco, Bela Cruz e Acarau, Estado do Ceará, para execução do Programa de Irrigação do Nordeste (PROINE), e dá outras providências.

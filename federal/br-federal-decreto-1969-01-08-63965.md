@@ -1,5 +1,3 @@
-###DEC-063965-0-000-08-01-1969@@@
-
 DECRETO Nº 63.965, DE 8 DE JANEIRO DE 1969.
 
 Prorroga, até 31 de dezembro de 1969, o prazo para aproveitamento dos navios estrangeiros na cabotagem nacional.

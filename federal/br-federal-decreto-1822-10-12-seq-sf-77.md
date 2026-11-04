@@ -1,5 +1,3 @@
-###DEC-000000-0-077-12-10-1822@@@
-
 DECRETO - DE 12 DE OUTUBRO DE 1822
 
 Perdôa o crime de 1ª, 2ª e 3ª deserção aos soldados dos Corpos de 1ª Linha.

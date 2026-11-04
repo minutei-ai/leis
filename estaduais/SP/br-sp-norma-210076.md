@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210076)<br>
-
 # DECRETO N° 68.936, DE 03 DE OUTUBRO DE 2024
 
 ### _Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do apresentador Cid Moreira._

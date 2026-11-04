@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212861)<br>
-
 # DECRETO N° 70.774, DE 30 DE JULHO DE 2026
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, dos acostamentos e melhoria do trecho entre os km 135,42m e 160,71m da Rodovia Euclides de Oliveira Figueiredo, SP-563, nos Municípios de Tupi Paulista e Monte Castelo, e dá providências correlatas._

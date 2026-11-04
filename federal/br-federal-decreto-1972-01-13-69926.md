@@ -1,5 +1,3 @@
-###DEC-069926-0-000-13-01-1972@@@
-
 DECRETO Nº 69.926, DE 13 DE JANEIRO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

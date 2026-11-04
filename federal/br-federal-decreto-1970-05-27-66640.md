@@ -1,5 +1,3 @@
-###DEC-066640-0-000-27-05-1970@@@
-
 DECRETO Nº 66.640, DE 27 DE MAIO DE 1970.
 
 Declara de utilidade pública o Colégio Normal e Ginásio Padre Júlio Maria, com sede em Boa Esperança, Estado de Minas Gerais.

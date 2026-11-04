@@ -1,5 +1,3 @@
-###DEC-094587-0-000-10-07-1987@@@
-
 DECRETO N° 94.587, DE 10 DE JULHO DE 1987
 
 Renova a concessão outorgada à RÁDIO CACIQUE DE CAPÃO BONITO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Capão Bonito, Estado de São Paulo.

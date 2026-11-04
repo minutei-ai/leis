@@ -1,5 +1,3 @@
-###DEL-003862-0-000-22-11-1941@@@
-
 DECRETO-LEI N. 3.862 – DE 22 DE NOVEMBRO DE 1941
 
 Amplia o novo texto do art. 84 do regulamento aprovado pelo decreto-lei n. 739, de 24 de setembro de 1938

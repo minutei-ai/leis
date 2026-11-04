@@ -1,5 +1,3 @@
-###DEL-003735-0-000-21-10-1941@@@
-
 DECRETO-LEI N. 3.735 – DE 21 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de noventa e seis contos de réis (96:000$0), para atender ao pagamento de gratificações de magistério.

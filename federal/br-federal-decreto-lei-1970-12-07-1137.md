@@ -1,5 +1,3 @@
-###DEL-001137-0-000-07-12-1970@@@
-
 # Decreto-lei Nº 1.137, DE 7 DE dEZEmbrO DE 1970
 
 Institui incentivos fiscais e financeiros para o desenvolvimento industrial e dá outras providências.

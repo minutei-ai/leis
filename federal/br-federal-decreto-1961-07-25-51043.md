@@ -1,5 +1,3 @@
-###DEC-051043-0-000-25-07-1961@@@
-
 DECRETO Nº 51.043, de 25, de julho de 1961.
 
 Cria a Reserva Florestal do Tumucumaque e dá outras e dá outras providências.

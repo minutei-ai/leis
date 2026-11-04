@@ -1,5 +1,3 @@
-###DEC-079354-0-000-08-03-1977@@@
-
 DECRETO N.º 79.354, DE 8 DE MARÇO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à implantação da subestação Paiol, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

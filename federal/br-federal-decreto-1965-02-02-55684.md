@@ -1,5 +1,3 @@
-###DEC-055684-0-000-02-02-1965@@@
-
 decreto n° 55.684, de 2 de fevereiro de 1965.
 
 Autoriza o cidadão brasileiro Francisco José Witzel a pesquisar argila e caulim no município de Mogi das Cruzes, Estado de São Paulo.

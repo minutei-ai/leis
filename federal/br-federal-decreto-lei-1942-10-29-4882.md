@@ -1,5 +1,3 @@
-###DEL-004882-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.882 – DE 29 DE OUTUBRO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de 420:000$0, à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-092716-0-000-28-05-1986@@@
-
 DECRETO Nº 92.716, DE 28 DE MAIO DE 1986
 
 Autoriza a abertura do capital social da Petrobrás Química S.A. - PETROQUISA e da Petrobrás Distribuidora S.A., e dá outras providências.

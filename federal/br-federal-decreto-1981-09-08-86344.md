@@ -1,5 +1,3 @@
-###DEC-086344-0-000-08-09-1981@@@
-
 Decreto nº 86.344, de 08 de setembro de 1981
 
 Concede à COMPANHIA SIDERÚRGICA DE TUBARÃO autorização para proceder a aumento do seu Capital Social.

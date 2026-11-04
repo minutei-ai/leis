@@ -1,5 +1,3 @@
-###DEC-086813-0-000-31-12-1981@@@
-
 DECRETO Nº 86.813, DE 31 DE DEZEMBRO DE 1981.
 
 Concede autorização à empresa Conoco Pará Petroleum Services Inc. para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A - PETROBRÁS.

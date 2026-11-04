@@ -1,5 +1,3 @@
-###DEC-079091-0-000-04-01-1977@@@
-
 Decreto nº 79.091, de 4 de janeiro de 1977.
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Administração, das Faculdades da Zona Leste de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

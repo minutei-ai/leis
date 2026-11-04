@@ -1,5 +1,3 @@
-###DEC-084425-0-000-24-01-1980@@@
-
 Decreto nº 84.425, de 24 de janeiro de 1980.
 
 Cria Grupo Especial na Comissão Nacional de Energia e dá outras providências.

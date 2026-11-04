@@ -1,5 +1,3 @@
-###DEC-047186-0-000-06-11-1959@@@
-
 DECRETO Nº 47.186, DE 6 DE NOVEMBRO DE 1959.
 
 Renova o Decreto nº 42.607, de 7 de novembro de 1957.

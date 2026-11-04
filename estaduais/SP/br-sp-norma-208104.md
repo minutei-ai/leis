@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208104)<br>
-
 # DECRETO N° 67.710, DE 16 DE MAIO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, a área necessária à implantação do Empreendimento Rodoviário "Nova Tamoios - Contornos", no Município de Caraguatatuba, e dá providências correlatas._

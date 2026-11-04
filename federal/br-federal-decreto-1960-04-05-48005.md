@@ -1,5 +1,3 @@
-###DEC-048005-0-000-05-04-1960@@@
-
 Decreto nº 48.005, de 5 de abril de 1960.
 
 Concede à Mineração Serra do Curral Ltda. autorização para funcionar como emprêsa de mineração.

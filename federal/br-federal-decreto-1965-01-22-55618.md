@@ -1,5 +1,3 @@
-###DEC-055618-0-000-22-01-1965@@@
-
 DECRETO Nº 55.618, DE 22 DE JANEIRO DE 1965.
 
 Altera o art,16 do Decreto nº 54.019, de 14 de julho de 1964.

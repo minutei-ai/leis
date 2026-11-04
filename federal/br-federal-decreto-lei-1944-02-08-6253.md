@@ -1,5 +1,3 @@
-###DEL-006253-0-000-08-02-1944@@@
-
 DECRETO-LEI N. 6.253 – DE 8 DE FEVEREIRO DE 1944
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 3.313.748,80 cruzeiros, para classificação de despesa proveniente de visita de personalidades ilustres.

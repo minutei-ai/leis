@@ -1,5 +1,3 @@
-###MPV-001941-0-025-16-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.941-25, de 16 de novembro de 2000.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

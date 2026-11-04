@@ -1,5 +1,3 @@
-###DEC-060677-0-000-03-05-1967@@@
-
 DECRETO Nº 60.677, DE 3 DE MAIO DE 1967.
 
 Concede reconhecimento do curso de Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001048-0-000-21-01-1994@@@
-
 DECRETO N° 1.048, DE 21 DE JANEIRO DE 1994
 
 Dispõe sobre o Sistema de Administração dos Recursos de Informação e Informática, da Administração Pública Federal, e dá outras providências.

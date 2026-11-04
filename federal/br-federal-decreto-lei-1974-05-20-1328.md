@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cd9f17e0-1e7b-4673-b17b-45bfb8c82612/texto#nowhere)
 
-###DEL-001328-0-000-20-05-1974@@@
-
 # decreto-lei nº 1.328, de 20 de maio de 1974
 
 Prorroga prazos de aplicação de incentivos fiscais para empreendimentos nas áreas de atuação da SUDENE e da SUDAM.

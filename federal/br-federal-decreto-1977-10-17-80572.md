@@ -1,5 +1,3 @@
-###DEC-080572-0-000-17-10-1977@@@
-
 DECRETO Nº 80.572, DE 17 DE OUTUBRO DE 1977.
 
 Cria o Centro de Instrução Especializada da Aeronáutica e dá outras providências.

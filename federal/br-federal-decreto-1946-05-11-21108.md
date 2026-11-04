@@ -1,14 +1,12 @@
-###DEC-021108-0-000-11-05-1946@@@
+**DECRETO Nº 21.108, DE 11 DE MAIO DE 1946.**
 
-<strong>DECRETO Nº 21.108, DE 11 DE MAIO DE 1946.</strong>
+***Outorga ao Estado de Minas Gerais, ou emprêsa que organizar, concessão para o aproveitamento progressivo da corredeira do Fecho do Funil, no rio Paraopeba, distrito e município de Mateus Leme, Estado de Minas Gerais.***
 
-<em><strong>Outorga ao Estado de Minas Gerais, ou emprêsa que organizar, concessão para o aproveitamento progressivo da corredeira do Fecho do Funil, no rio Paraopeba, distrito e município de Mateus Leme, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, alínea *a,* da Constituição, e nos têrmos do art. 164, do Código de Águas (Decreto nº 24.643, de 10 de Julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, alínea <em>a,</em> da Constituição, e nos têrmos do art. 164, do Código de Águas (Decreto nº 24.643, de 10 de Julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, anteriormente adquiridos, é outorgada ao Estado de Minas Gerais, ou emprêsa que organizar, concessão para o aproveitamento progressivo da energia hidráulica da corredeira do Fecho do Funil, no rio Paraopeba, município e distrito de Mateus Leme, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros, anteriormente adquiridos, é outorgada ao Estado de Minas Gerais, ou emprêsa que organizar, concessão para o aproveitamento progressivo da energia hidráulica da corredeira do Fecho do Funil, no rio Paraopeba, município e distrito de Mateus Leme, Estado de Minas Gerais.
 
 § 1º Por portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda, as descargas e as potências concedidas para o aproveitamento progressivo em tôdas as suas etapas.
 
@@ -16,7 +14,7 @@
 
 § 3º A energia elétrica, obtida por meio da transformação da energia hidráulica, será produzida sob a forma de corrente alternativa trifásica, com a freqüência de sessenta (60) ciclos por segundo.
 
-<strong>Art</strong>. 2º O aproveitamento destina-se;
+**Art**. 2º O aproveitamento destina-se;
 
 I - À produção, transformação, transmissão, distribuição e fornecimento de energia elétrica para serviços públicos e de utilidade pública no município de Betim, Estado de Minas Gerais.
 
@@ -26,7 +24,7 @@ III - Ao fornecimento, mediante autorização da Divisão de Águas do Departame
 
 Parágrafo único. Ao Estado de Minas Gerais, ou emprêsa que organizar, durante a vigência da presente concessão, e respeitados os direitos de terceiros anteriormente adquiridos, é assegurado o direito de fazer o comércio de energia elétrica, na forma disposta neste artigo.
 
-<strong>Art</strong>. 3º Sob pena de caducidade, o concessionário obriga-se a:
+**Art**. 3º Sob pena de caducidade, o concessionário obriga-se a:
 
 I - Registrar o presente título na Divisão de Águas dentro de trinta (30) dias, após a sua publicação.
 
@@ -80,32 +78,32 @@ V - Obedecer, em todos os projetos, às prescrições de ordem técnica determin
 
 Parágrafo único. Os prazos a que se refere êste artigo, poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas do Departamento Nacional da Produção Mineral.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas do Departamento Nacional da Produção Mineral e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas do Departamento Nacional da Produção Mineral e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de cinqüenta (50) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de cinqüenta (50) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º O concessionário fica obrigado a construir e manter, nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações pluviométricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 6º O concessionário fica obrigado a construir e manter, nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações pluviométricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 7º O capital a ser remunerado será o investimento efetivo e criterioso na constituição do patrimônio da concessão, em função da indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição de energia elétrica.
+**Art**. 7º O capital a ser remunerado será o investimento efetivo e criterioso na constituição do patrimônio da concessão, em função da indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição de energia elétrica.
 
-<strong>Art</strong>. 8º As tabelas de preço de energia serão fixadas pela Divisão de Águas no momento oportuno, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas, de maneira que seja sempre proporcionada ao capital uma justa remuneração (item III do citado artigo 180) dentro de limites que deverão ser estipulados no contrato disciplinar da presente concessão.
+**Art**. 8º As tabelas de preço de energia serão fixadas pela Divisão de Águas no momento oportuno, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas, de maneira que seja sempre proporcionada ao capital uma justa remuneração (item III do citado artigo 180) dentro de limites que deverão ser estipulados no contrato disciplinar da presente concessão.
 
-<strong>Art</strong>. 9º Para a manutenção da integridade do patrimônio a que se refere o art. 7º do presente decreto, será criada uma reserva, que proverá às renovações por depreciações determinadas por usura ou impostas por acidente.
+**Art**. 9º Para a manutenção da integridade do patrimônio a que se refere o art. 7º do presente decreto, será criada uma reserva, que proverá às renovações por depreciações determinadas por usura ou impostas por acidente.
 
 Parágrafo único. A constituição dessa reserva, que se denominará “reserva de renovação”, será realizada por cotas especiais, que incidirão sôbre as tarifas, sob a forma de percentagem. Estas cotas serão determinadas tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 10. Findo o prazo da concessão, o seu patrimônio a constituir-se na forma do art. 7º, reverterá ao Estado de Minas Gerais, no caso da incorporação dos serviços à emprêsa que for organizada para essa exploração, observado o disposto nos artigos 165 e 166 do Código de Águas, sendo a emprêsa concessionária indenizada de seu investimento, ainda não amortizado, na base do custo histórico, deduzida a reserva de renovação a que se refere o parágrafo único do artigo anterior.
+**Art**. 10. Findo o prazo da concessão, o seu patrimônio a constituir-se na forma do art. 7º, reverterá ao Estado de Minas Gerais, no caso da incorporação dos serviços à emprêsa que for organizada para essa exploração, observado o disposto nos artigos 165 e 166 do Código de Águas, sendo a emprêsa concessionária indenizada de seu investimento, ainda não amortizado, na base do custo histórico, deduzida a reserva de renovação a que se refere o parágrafo único do artigo anterior.
 
 § 1º Se o Estado de Minas Gerais não fizer uso do direito da reversão que lhe é assegurado neste artigo, no caso da constituição da sociedade prevista no art. 1º, terá, todavia, o direito de pedir ao Govêrno Federal a renovação, ou prorrogação, na forma e com as condições previstas no contrato da concessão.
 
 § 2º Para os efeitos de § 1º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de Minas Gerais e a apresentar o requerimento de prorrogação da concessão ou o de desistência desta, até seis meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 11. O Estado de Minas Gerais, ou emprêsa que organizar, gozará, desde a data do registro de que trata o art. 5º do presente decreto, e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 11. O Estado de Minas Gerais, ou emprêsa que organizar, gozará, desde a data do registro de que trata o art. 5º do presente decreto, e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 12. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 12. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 11 de Maio de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Souza Duarte

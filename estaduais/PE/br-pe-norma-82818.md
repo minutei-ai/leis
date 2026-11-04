@@ -34,141 +34,15 @@ Art. 2º O Anexo Único da [Lei nº 15.161, de 27 de novembro de 2013](https://l
 
 SUPERINTENDÊNCIA MILITAR
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="626" style="width:469.5pt;background:white;border-collapse:collapse"><tbody><tr><td width="626" colspan="3" style="width:469.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Comissionados</span></p></td></tr><tr><td width="442" style="width:331.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Cargo</span></p></td><td width="93" style="width:70.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Símbolo</span></p></td><td width="90" style="width:67.7pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Quantidade</span></p></td></tr><tr><td width="442" style="width:331.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Coordenador Chefe</span></p></td><td width="93" style="width:70.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-SSC-1</span></p></td><td width="90" style="width:67.7pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> Comissionados </td></tr><tr><td> Cargo </td><td> Símbolo </td><td> Quantidade </td></tr><tr><td> Coordenador Chefe </td><td> PL-SSC-1 </td><td> 1 </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="625" style="width:468.75pt;background:white;border-collapse:collapse"><tbody><tr><td width="625" colspan="3" style="width:468.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Funções Gratificadas</span></p></td></tr><tr><td width="442" style="width:331.35pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Função</span></p></td><td width="93" style="width:70.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Símbolo</span></p></td><td width="90" style="width:67.4pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Quantidade</span></p></td></tr><tr><td width="442" style="width:331.35pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Coordenador Adjunto</span></p></td><td width="93" style="width:70.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-CSM-2</span></p></td><td width="90" style="width:67.4pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr><td width="442" style="width:331.35pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Chefe de Expediente</span></p></td><td width="93" style="width:70.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-EXP</span></p></td><td width="90" style="width:67.4pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr><td width="442" style="width:331.35pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gerente</span></p></td><td width="93" style="width:70.0pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-FGE-1</span></p></td><td width="90" style="width:67.4pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> Funções Gratificadas </td></tr><tr><td> Função </td><td> Símbolo </td><td> Quantidade </td></tr><tr><td> Coordenador Adjunto </td><td> PL-CSM-2 </td><td> 1 </td></tr><tr><td> Chefe de Expediente </td><td> PL-EXP </td><td> 1 </td></tr><tr><td> Gerente </td><td> PL-FGE-1 </td><td> 2 </td></tr></tbody></table>
 
 ..............................................................................................................    (NR)
 
 SUPERINTENDÊNCIA DE SAÚDE E MEDICINA OCUPACIONAL
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="626" style="width:469.5pt;background:white;border-collapse:collapse"><tbody><tr><td width="626" colspan="3" style="width:469.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Comissionados</span></p></td></tr><tr><td width="442" style="width:331.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Cargo</span></p></td><td width="93" style="width:70.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Símbolo</span></p></td><td width="90" style="width:67.7pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Quantidade</span></p></td></tr><tr><td width="442" style="width:331.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Superintendente</span></p></td><td width="93" style="width:70.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-SSC-1</span></p></td><td width="90" style="width:67.7pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr><td width="442" style="width:331.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessor Médico Executivo</span></p></td><td width="93" style="width:70.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-CDP-1</span></p></td><td width="90" style="width:67.7pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr><td width="442" style="width:331.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Chefe de Departamento</span></p></td><td width="93" style="width:70.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-CDP-2</span></p></td><td width="90" style="width:67.7pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2</span></p></td></tr><tr><td width="442" style="width:331.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessor Consultivo</span></p></td><td width="93" style="width:70.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-CPD-2</span></p></td><td width="90" style="width:67.7pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3</span></p></td></tr><tr><td width="442" style="width:331.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Coordenador de Programas em Saúde e Medicina Ocupacional</span></p></td><td width="93" style="width:70.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-CPD-2</span></p></td><td width="90" style="width:67.7pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr><tr style="height:2.3pt"><td width="442" style="width:331.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:2.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Secretário Executivo</span></p></td><td width="93" style="width:70.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:2.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PL-ATE-1</span></p></td><td width="90" style="width:67.7pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:2.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> Comissionados </td></tr><tr><td> Cargo </td><td> Símbolo </td><td> Quantidade </td></tr><tr><td> Superintendente </td><td> PL-SSC-1 </td><td> 1 </td></tr><tr><td> Assessor Médico Executivo </td><td> PL-CDP-1 </td><td> 1 </td></tr><tr><td> Chefe de Departamento </td><td> PL-CDP-2 </td><td> 2 </td></tr><tr><td> Assessor Consultivo </td><td> PL-CPD-2 </td><td> 3 </td></tr><tr><td> Coordenador de Programas em Saúde e Medicina Ocupacional </td><td> PL-CPD-2 </td><td> 1 </td></tr><tr><td> Secretário Executivo </td><td> PL-ATE-1 </td><td> 1 </td></tr></tbody></table>
 
  ...........................................................................................................................................” (NR)
 

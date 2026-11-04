@@ -1,5 +1,3 @@
-###DEL-004015-0-000-14-01-1942@@@
-
 DECRETO-LEI N. 4.015 – DE 14 DE JANEIRO DE 1942
 
 Isenta do registo prévio do Tribunal de Contas as despesas relativas aos salários dos extranumerários contratados e mensalistas da União

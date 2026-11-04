@@ -1,5 +1,3 @@
-###DEC-007767-0-000-27-06-2012-PUB-01@@@
-
 DECRETO N°\- 7.767, DE 27 DE JUNHO DE 2012
 
 Estabelece a aplicação de margem de preferência em licitações realizadas no âmbito da administração pública federal para aquisição de produtos médicos para fins do disposto no art. 3º da Lei nº 8.666, de 21 de junho de 1993.

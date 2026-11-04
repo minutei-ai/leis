@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208173)<br>
-
 # DECRETO N° 67.743, DE 12 DE JUNHO DE 2023
 
 ### _Autoriza a outorga de uso, em favor da empresa American Tower do Brasil - Cessão de Infraestruturas Ltda., de parte do imóvel que especifica, e dá providências correlatas._

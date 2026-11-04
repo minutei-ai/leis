@@ -161,14 +161,24 @@ ERNANI VARJAL MEDICIS PINTO
 **ANEXO ÚNICO**
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="415" valign="top" style="width:311.6pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">QUANTITATIVO</span></p></td><td width="151" valign="top" style="width:113.1pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">VALOR (em R$)</span></p></td></tr><tr><td width="415" valign="top" style="width:311.6pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">10% da Previsão do quantitativo do efetivo</span></p></td><td width="151" valign="top" style="width:113.1pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt">
+
+QUANTITATIVO
+
+</td><td width="151" valign="top" style="width:113.1pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt">
+
+VALOR (em R$)
+
+</td></tr><tr><td width="415" valign="top" style="width:311.6pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt">
+
+10% da Previsão do quantitativo do efetivo
+
+</td><td width="151" valign="top" style="width:113.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1.800,00</span></p></td></tr></tbody></table>
+  padding:0cm 5.4pt 0cm 5.4pt">
+
+1.800,00
+
+</td></tr></tbody></table>

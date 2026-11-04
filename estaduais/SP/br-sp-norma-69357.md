@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69357)
-
 # LEI Nº 12.468, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 74/2006, do Deputado Edson Aparecido)

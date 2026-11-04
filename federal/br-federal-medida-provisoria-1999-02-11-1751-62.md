@@ -1,5 +1,3 @@
-###MPV-001751-0-062-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.751-62, DE 11 DE FEVEREIRO DE 1999
 
 Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal e de Controle Interno do Poder Executivo e dá outras providências.

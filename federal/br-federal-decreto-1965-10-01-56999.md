@@ -1,5 +1,3 @@
-###DEC-056999-0-000-01-10-1965@@@
-
 DECRETO Nº 56.999, de 1º de outubro de 1965.
 
 Autoriza a firma David Scofield, Comércio, Industria S. A ., a comprar pedras preciosas.

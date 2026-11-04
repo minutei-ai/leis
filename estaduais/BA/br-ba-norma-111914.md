@@ -1,12 +1,19 @@
 LEI Nº 10.705 DE 14 DE NOVEMBRO DE 2007
 
-Ver também:<br>
-Lei nº [12.355](https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-14062013#_GoBack) , de 22 de setembro de 2011 - Autoriza a abertura de crédito especial, na forma que indica, e dá outras providências.<br>
-Lei nº [12.220](https://www.legislabahia.ba.gov.br/documentos/lei-no-12220-de-27-de-junho-de-2011) de 27 de junho de 2011 - Autoriza a abertura de crédito especial, na forma que indica, e dá outras providências.<br>
-Lei nº [12.041](https://www.legislabahia.ba.gov.br/documentos/lei-no-12041-de-29-de-dezembro-de-2010) de 29 de dezembro de 2010 - Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2011.<br>
-Lei nº [12.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-12039-de-28-de-dezembro-de-2010) de 28 de dezembro de 2010 - Dispõe sobre as diretrizes orçamentárias para o exercício de 2011, e dá outras providências.<br>
-Lei nº [11.630](https://www.legislabahia.ba.gov.br/documentos/lei-no-11630-de-30-de-dezembro-de-2009) de 30 de dezembro de 2009 - Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2010.<br>
-Lei nº [10.965](https://www.legislabahia.ba.gov.br/documentos/lei-no-10965-de-23-de-abril-de-2008) de 23 de abril de 2008 - Autoriza a abertura de crédito especial, na forma que indica, e dá outras providências.<br>
+Ver também:
+
+Lei nº [12.355](https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-14062013#_GoBack) , de 22 de setembro de 2011 - Autoriza a abertura de crédito especial, na forma que indica, e dá outras providências.
+
+Lei nº [12.220](https://www.legislabahia.ba.gov.br/documentos/lei-no-12220-de-27-de-junho-de-2011) de 27 de junho de 2011 - Autoriza a abertura de crédito especial, na forma que indica, e dá outras providências.
+
+Lei nº [12.041](https://www.legislabahia.ba.gov.br/documentos/lei-no-12041-de-29-de-dezembro-de-2010) de 29 de dezembro de 2010 - Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2011.
+
+Lei nº [12.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-12039-de-28-de-dezembro-de-2010) de 28 de dezembro de 2010 - Dispõe sobre as diretrizes orçamentárias para o exercício de 2011, e dá outras providências.
+
+Lei nº [11.630](https://www.legislabahia.ba.gov.br/documentos/lei-no-11630-de-30-de-dezembro-de-2009) de 30 de dezembro de 2009 - Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2010.
+
+Lei nº [10.965](https://www.legislabahia.ba.gov.br/documentos/lei-no-10965-de-23-de-abril-de-2008) de 23 de abril de 2008 - Autoriza a abertura de crédito especial, na forma que indica, e dá outras providências.
+
 Lei nº [11.354](https://www.legislabahia.ba.gov.br/documentos/lei-no-11354-de-30-de-dezembro-de-2008) de 30 de dezembro de 2008 - Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2009.
 
 Institui o Plano Plurianual da Administração Pública Estadual, para o período de 2008-2011, e dá outras providências.

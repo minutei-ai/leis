@@ -1,5 +1,3 @@
-###DEC-001959-0-000-15-07-1996@@@
-
 DECRETO Nº 1.959, DE 15 DE JULHO DE 1996
 
 Dispõe sobre a execução da Ata de Retificação do Protocolo de Adequação ao Acordo de Alcance Parcial de Renegociação nº 3, entre Brasil e Chile, de 28 de fevereiro de 1996.

@@ -1,5 +1,3 @@
-###DEC-053245-0-000-12-12-1963@@@
-
 DECRETO Nº 53.245, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro José Menezes de Oliveira a pesquisar mica e pedras semi-preciosas no município de Governador Valadares, Estado de Minas Gerais.

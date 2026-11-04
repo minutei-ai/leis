@@ -1,5 +1,3 @@
-###DEC-089373-0-000-08-02-1984@@@
-
 DECRETO Nº 89.373, DE 08 DE FEVEREIRO DE 1984
 
 Declara de utilidade pública a instituição que menciona.

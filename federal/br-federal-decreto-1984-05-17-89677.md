@@ -1,5 +1,3 @@
-###DEC-089677-0-000-17-05-1984@@@
-
 Decreto nº 89.677, de 17 de maio de 1984
 
 Declara de interesse social, para fins de desapropriação, o Complexo Industrial do "Projeto Agro-lndustrial do Canavieiro Abraham Lincoln - PACAL", e dá outras providências.

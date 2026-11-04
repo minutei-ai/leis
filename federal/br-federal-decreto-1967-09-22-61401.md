@@ -1,5 +1,3 @@
-###DEC-061401-0-000-22-09-1967@@@
-
 DECRETO Nº 61.401, DE 22 DE SETEMBRO DE 1967.
 
 Concede reconhecimento de Curso da Faculdade de Ciências Políticas e Econômicas do Rio Grande, Estado do Rio Grande do Sul.

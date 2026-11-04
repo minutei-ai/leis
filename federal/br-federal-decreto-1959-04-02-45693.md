@@ -1,5 +1,3 @@
-###DEC-045693-0-000-02-04-1959@@@
-
 Decreto nº 45.693, de 2 de abril de 1959.
 
 Cassa a autorização concedida à “Prudência Capitalização - Companhia Nacional para Favorecer a Economia”, com sede em S. Paulo, para funcionar na República.

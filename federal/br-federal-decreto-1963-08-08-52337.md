@@ -1,5 +1,3 @@
-###DEC-052337-0-000-08-08-1963@@@
-
 DECRETO Nº 52.337, DE 8 DE AGÔSTO DE 1963.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos, e consignados a emprêsa “Constâncio Vieira & Cia”, de Estância (SE).
@@ -14,7 +12,105 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Constâncio Vieira & Cia”, de Estância, Estado de Sergipe:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Quantidade </span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>a ser</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>importada</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Peças e acessórios para modernização de 11 filatórios de diversos, fabricantes, com 348 fusos, bitola de 3”, conforme discriminação abaixo, no total de 3.628 kg (pêso líquido) e 4.500 kg (pêso bruto), compreendendo 18.632 peças, fabricas por Spindelfabrik Sussen Schurr e Stahlecker &amp; Grill Gmbh, procedentes da Alemanha-Ocidental:</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Braços pendulares UT-219-2 completos, com dispositivos de descarga; pêso líquido: 2.613kg .......................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.914</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7.510</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Rolos de pressão, tipo DSN-7.518, sem revestimento; pêso líquido: 459kg .........................................................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.828</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.712</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Rolos de pressão, DSN-7.535-R, sem revestimento; pêso líquido 440kg ..........................................................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.914</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.167</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Gaiolas, tipo Stabilkafig, com dispositivo de parada automática; pêso líquido: 114kg .............................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.914</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.106</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Dispositivo Hz; pêso líquido: 20kg .........................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>138</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Anéis c/flanges de 2” e o de 52 mm. c/anel de fixação; pêso líquido 230kg ..........................................................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.828</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.725</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Suportes maçarocas “Casblanca”, sem freio; pêso líquido: 156kg ......................................................................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.220</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.277</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Contadores de hanks para 3 (três) turmas, de 0 até 999.9 hanks, reversíveis; pêso líquido: 31kg ...................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>11</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>379</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Caixa de feramentas, completa, para ajustagem, e calibragem de rolos de pressão; pêso líquido; 12kg .............</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>71</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10</span></p></td><td style="width:269.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Dispositivo para lubrificação de rolos de pressão, sistema ”Nogra”; pêso líquido: 3kg. ....................................................</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>25</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:269.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Total .......................................................................................</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>26.110</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade
+
+a ser
+
+importada
+
+Valor Total
+
+CIF US$
+
+Peças e acessórios para modernização de 11 filatórios de diversos, fabricantes, com 348 fusos, bitola de 3”, conforme discriminação abaixo, no total de 3.628 kg (pêso líquido) e 4.500 kg (pêso bruto), compreendendo 18.632 peças, fabricas por Spindelfabrik Sussen Schurr e Stahlecker &amp; Grill Gmbh, procedentes da Alemanha-Ocidental:
+
+1
+
+Braços pendulares UT-219-2 completos, com dispositivos de descarga; pêso líquido: 2.613kg .......................................
+
+1.914
+
+7.510
+
+2
+
+Rolos de pressão, tipo DSN-7.518, sem revestimento; pêso líquido: 459kg .........................................................................
+
+3.828
+
+5.712
+
+3
+
+Rolos de pressão, DSN-7.535-R, sem revestimento; pêso líquido 440kg ..........................................................................
+
+1.914
+
+3.167
+
+4
+
+Gaiolas, tipo Stabilkafig, com dispositivo de parada automática; pêso líquido: 114kg .............................................
+
+1.914
+
+1.106
+
+5
+
+Dispositivo Hz; pêso líquido: 20kg .........................................
+
+1
+
+138
+
+6
+
+Anéis c/flanges de 2” e o de 52 mm. c/anel de fixação; pêso líquido 230kg ..........................................................................
+
+3.828
+
+2.725
+
+7
+
+Suportes maçarocas “Casblanca”, sem freio; pêso líquido: 156kg ......................................................................................
+
+5.220
+
+5.277
+
+8
+
+Contadores de hanks para 3 (três) turmas, de 0 até 999.9 hanks, reversíveis; pêso líquido: 31kg ...................................
+
+11
+
+379
+
+9
+
+Caixa de feramentas, completa, para ajustagem, e calibragem de rolos de pressão; pêso líquido; 12kg .............
+
+1
+
+71
+
+10
+
+Dispositivo para lubrificação de rolos de pressão, sistema ”Nogra”; pêso líquido: 3kg. ....................................................
+
+1
+
+25
+
+Total .......................................................................................
+
+26.110
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,6 +1,6 @@
 > **LEI Nº 4.055, DE 15 DE DEZEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, que dispõe sobre a instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre - TCE-AC, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, que dispõe sobre a instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre - TCE-AC, e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -48,6 +48,388 @@ Altera o Anexo IV da Lei nº 1.781, de 3 de julho de 2006
 
 **QUADRO DE CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>CARGOS E FUNÇÕES</span></strong></span></p></td><td><p><span><strong><span>PROVIMENTO</span></strong></span></p></td><td><p><span><strong><span>QUANTIDADE</span></strong></span></p></td><td><p><span><strong><span>QUANTIDADE</span></strong></span></p></td></tr><tr><td><p><span><span>Diretor de Administração e Finanças</span></span></p></td><td><p><span><span>CC/FG-06</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>13.601,71</span></span></p></td></tr><tr><td><p><span><span>Diretor de Auditoria Financeira e Orçamentária</span></span></p></td><td><p><span><span>CC/FG-06</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>13.601,71</span></span></p></td></tr><tr><td><p><span><span>Diretor de TI – DTI</span></span></p></td><td><p><span><span>CC/FG-06</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>13.601,71</span></span></p></td></tr><tr><td><p><span><span>Secretário das Sessões</span></span></p></td><td><p><span><span>CC/FG-05</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>11.901,49</span></span></p></td></tr><tr><td><p><span><span>Chefe de Gabinete da Presidência</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>11.051,38</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico da Presidência</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>11.051,38</span></span></p></td></tr><tr><td><p><span><span>Chefe de Gabinete de Conselheiro</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>7</span></span></p></td><td><p><span><span>11.051,38</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico de Gabinete</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>14</span></span></p></td><td><p><span><span>11.051,38</span></span></p></td></tr><tr><td><p><span><span>Chefe de Gabinete do Procurador-Chefe do MPE</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>11.051,38</span></span></p></td></tr><tr><td><p><span><span>Chefe de Recursos Humanos</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Chefe Setor Financeiro</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Chefe Serviços Administrativos</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Chefe da 1ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Chefe da 2ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Chefe da 3ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Chefe da 4ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Chefe da 5ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Chefe da 6ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Controlador Interno</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico de Procurador do MPE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>4</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico de Conselheiro Substituto</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessor de Planejamento da Presidência</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessor de Segurança Institucional</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessor de Comunicação</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessoria em Tecnologia da Informação</span></span></p></td><td><p><span><span>FG – 03</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>2.550,30</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa da DAF</span></span></p></td><td><p><span><span>FG – 03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>2.550,30</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa da DAFO</span></span></p></td><td><p><span><span>FG – 03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>2.550,30</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa da Secretaria das Sessões</span></span></p></td><td><p><span><span>FG – 03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>2.550,30</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa do Gabinete da Presidência</span></span></p></td><td><p><span><span>FG – 04</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>3.756,56</span></span></p></td></tr><tr><td><p><span><span>Assessoria Jurídica do Gabinete da Presidência</span></span></p></td><td><p><span><span>FG – 05</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>4.962,81</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa do Gabinete da Conselheira Substituta</span></span></p></td><td><p><span><span>FG – 03</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>2.550,30</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa do Ministério Público de Contas</span></span></p></td><td><p><span><span>FG – 03</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>2.550,30</span></span></p></td></tr><tr><td><p><span><span>Contador</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>1.700,21</span></span></p></td></tr><tr><td><p><span><span>Membros da COMPAQ</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>3</span></span></p></td><td><p><span><span>1.700,21</span></span></p></td></tr><tr><td><p><span><span>Agente de Contratação/Pregoeiro</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>1.700,21</span></span></p></td></tr><tr><td><p><span><span>Assessoria Jurídica da DAF</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>1.700,21</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>21</span></span></p></td><td><p><span><span>1.700,21</span></span></p></td></tr><tr><td><p><span><span>Assistente Administrativo</span></span></p></td><td><p><span><span>FG-01</span></span></p></td><td><p><span><span>16</span></span></p></td><td><p><span><span>850,10</span></span></p></td></tr><tr><td><p><span><span>Assessor de Cerimonial</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assistente Jurídico</span></span></p></td><td><p><span><span>CC/FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>5.525,69</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico da Corregedoria</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico da Ouvidoria</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico da Escola de Contas</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessoria da Corregedoria</span></span></p></td><td><p><span><span>FG – 03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>2.550,30</span></span></p></td></tr><tr><td><p><span><span>Assessoria da Ouvidoria</span></span></p></td><td><p><span><span>FG – 03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>2.550,30</span></span></p></td></tr><tr><td><p><span><span>Assessoria da Escola de Contas</span></span></p></td><td><p><span><span>FG – 03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>2.550,30</span></span></p></td></tr><tr><td><p><span><span>Coordenador de Projetos</span></span></p></td><td><p><span><span>CC/FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>5.525,69</span></span></p></td></tr></tbody></table>
+**CARGOS E FUNÇÕES**
+
+**PROVIMENTO**
+
+**QUANTIDADE**
+
+**QUANTIDADE**
+
+Diretor de Administração e Finanças
+
+CC/FG-06
+
+1
+
+13.601,71
+
+Diretor de Auditoria Financeira e Orçamentária
+
+CC/FG-06
+
+1
+
+13.601,71
+
+Diretor de TI – DTI
+
+CC/FG-06
+
+1
+
+13.601,71
+
+Secretário das Sessões
+
+CC/FG-05
+
+1
+
+11.901,49
+
+Chefe de Gabinete da Presidência
+
+CC/FG-04
+
+1
+
+11.051,38
+
+Assessor Técnico da Presidência
+
+CC/FG-04
+
+1
+
+11.051,38
+
+Chefe de Gabinete de Conselheiro
+
+CC/FG-04
+
+7
+
+11.051,38
+
+Assessor Técnico de Gabinete
+
+CC/FG-04
+
+14
+
+11.051,38
+
+Chefe de Gabinete do Procurador-Chefe do MPE
+
+CC/FG-04
+
+1
+
+11.051,38
+
+Chefe de Recursos Humanos
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe Setor Financeiro
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe Serviços Administrativos
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 1ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 2ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 3ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 4ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 5ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 6ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Controlador Interno
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessor Técnico de Procurador do MPE
+
+CC/FG-03
+
+4
+
+8.501,06
+
+Assessor Técnico de Conselheiro Substituto
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessor de Planejamento da Presidência
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessor de Segurança Institucional
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessor de Comunicação
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessoria em Tecnologia da Informação
+
+FG – 03
+
+2
+
+2.550,30
+
+Assessoria Administrativa da DAF
+
+FG – 03
+
+1
+
+2.550,30
+
+Assessoria Administrativa da DAFO
+
+FG – 03
+
+1
+
+2.550,30
+
+Assessoria Administrativa da Secretaria das Sessões
+
+FG – 03
+
+1
+
+2.550,30
+
+Assessoria Administrativa do Gabinete da Presidência
+
+FG – 04
+
+2
+
+3.756,56
+
+Assessoria Jurídica do Gabinete da Presidência
+
+FG – 05
+
+1
+
+4.962,81
+
+Assessoria Administrativa do Gabinete da Conselheira Substituta
+
+FG – 03
+
+2
+
+2.550,30
+
+Assessoria Administrativa do Ministério Público de Contas
+
+FG – 03
+
+2
+
+2.550,30
+
+Contador
+
+FG-02
+
+1
+
+1.700,21
+
+Membros da COMPAQ
+
+FG-02
+
+3
+
+1.700,21
+
+Agente de Contratação/Pregoeiro
+
+FG-02
+
+1
+
+1.700,21
+
+Assessoria Jurídica da DAF
+
+FG-02
+
+1
+
+1.700,21
+
+Assessoria Administrativa
+
+FG-02
+
+21
+
+1.700,21
+
+Assistente Administrativo
+
+FG-01
+
+16
+
+850,10
+
+Assessor de Cerimonial
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assistente Jurídico
+
+CC/FG-02
+
+1
+
+5.525,69
+
+Assessor Técnico da Corregedoria
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessor Técnico da Ouvidoria
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessor Técnico da Escola de Contas
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessoria da Corregedoria
+
+FG – 03
+
+1
+
+2.550,30
+
+Assessoria da Ouvidoria
+
+FG – 03
+
+1
+
+2.550,30
+
+Assessoria da Escola de Contas
+
+FG – 03
+
+1
+
+2.550,30
+
+Coordenador de Projetos
+
+CC/FG-02
+
+1
+
+5.525,69
 
 “ **(NR)**

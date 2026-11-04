@@ -1,5 +1,3 @@
-###DEC-060602-0-000-20-04-1967@@@
-
 Decreto nº 60.602, de 20 de abril de 1967.
 
 Transforma os Cursos de Aperfeiçoamento do Ministério da Fazenda em Centro de Treinamento e Desenvolvimento de Pessoal do Ministério da Fazenda (CETREMFA), e dá outras providências.

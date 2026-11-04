@@ -1,5 +1,3 @@
-###DEC-085952-0-000-29-04-1981@@@
-
 Decreto nº 85.952, de 29 de abril de 1981.
 
 Regulamenta o Decreto-lei nº 1.866, de 9 de março de 1981, que dispõe sobre a nomeação de prefeito em município declarado de interesse da Segurança Nacional.

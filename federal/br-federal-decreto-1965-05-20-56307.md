@@ -1,5 +1,3 @@
-###DEC-056307-0-000-20-05-1965@@@
-
 decreto nº 56.307, de 20 de maio de 1965.
 
 Aprova alteração introduzida nos Estatutos da Madepinho Seguradora S. A., relativa ao aumento do capital social.

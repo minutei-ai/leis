@@ -1,5 +1,3 @@
-###DEC-058310-0-000-02-05-1966@@@
-
 decreto Nº 58.310, de 2 de maio de 1966.
 
 Autoriza o cidadão brasileiro Luiz Fernando Duarte a pesquisar gipsita no Município de Ipubi, Estado de Pernambuco.

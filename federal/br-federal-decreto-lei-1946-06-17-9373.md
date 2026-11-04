@@ -1,5 +1,3 @@
-###DEL-009373-0-000-17-06-1946@@@
-
 DECRETO-LEI N. 9.373 – DE 17 DE JUNHO DE 1946
 
 Aceita a doação feita à União pelo Estado do Espírito Santo de um terreno situado na cidade de Cachoeiro de Itapemirim, do mesmo Estado.

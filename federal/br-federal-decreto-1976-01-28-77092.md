@@ -1,5 +1,3 @@
-###DEC-077092-0-000-28-01-1976@@@
-
 Decreto nº 77.092, de 28 de janeiro de 1976.
 
 Dispõe sobre a estrutura básica da Comissão de Financiamento da Produção, e dá outras providências.

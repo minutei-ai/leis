@@ -1,5 +1,3 @@
-###DEL-001410-0-000-31-07-1975@@@
-
 # DECRETO-LEI Nº 1.410, DE 31 DE jULHO DE 1975
 
 Concede incentivo fiscal a projetos prioritários para a economia nacional e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-088104-0-000-10-02-1983@@@
-
 DECRETO Nº 88.104, DE 10 DE FEVEREIRO DE 1983
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de São Luiz Gonzaga, no Estado do Rio Grande do Sul, e dá outras providências.

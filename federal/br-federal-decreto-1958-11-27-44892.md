@@ -1,5 +1,3 @@
-###DEC-044892-0-000-27-11-1958@@@
-
 DECRETO Nº 44.892, DE 27 DE NOVEMBRO DE 1958.
 
 Abre, pelo Ministério da Agricultura, o crédito especial de Cr$5.000.000,00, para auxiliar a Associação Rural de Montes Claros, Estado de Minas Gerais, na conclusão das obras do Parque Regional da Exposição Agro-Pecuária Industrial.

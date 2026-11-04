@@ -1,5 +1,3 @@
-###DEC-084418-0-000-23-01-1980@@@
-
 DECRETO Nº 84.418 DE 23 DE JANEIRO DE 1980
 
 Renova por 10 (dez) anos a concessão outorgada à Emissora Rio São Francisco Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Penedo, Estado de Alagoas.
@@ -21,8 +19,6 @@ Brasília, 23 de janeiro de 1980; 159º da Independência e 92º da República.
 JOÃO FIGUEIREDO
 
 H. C. Mattos
-
-###DEC-084418-0-000-23-01-1980@@@RET01+++
 
 DECRETO Nº 84.418, DE 23 DE JANEIRO DE 1980
 

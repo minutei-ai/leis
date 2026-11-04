@@ -1,5 +1,3 @@
-###DEC-059086-0-000-16-08-1966@@@
-
 DECRETO Nº 59.086, DE 16 DE AGÔSTO DE 1966.
 
 Concede à Frota Oceânica Brasileira S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

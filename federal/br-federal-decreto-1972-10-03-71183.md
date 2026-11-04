@@ -1,5 +1,3 @@
-###DEC-071183-0-000-03-10-1972@@@
-
 DECRETO Nº 71.183 - DE 3 DE OUTUBRO DE 1972.
 
 Declara de utilidade pública a Fundação Orquestra Sinfônica de Porto Alegre, com sede em Porto Alegre, Estado do Rio Grande do Sul.

@@ -16,7 +16,8 @@ Goiânia, 10 de setembro de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
-Governador do Estado<br>
-<br>
+DANIEL VILELA
+
+Governador do Estado
+
 TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS

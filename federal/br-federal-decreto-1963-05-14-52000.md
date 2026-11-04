@@ -1,5 +1,3 @@
-###DEC-052000-0-000-14-05-1963@@@
-
 DECRETO Nº 52.000, de 14 de maio de 1963.
 
 Modifica o Decreto nº 1.304, de 6 de agôsto de 1962, que alterou disposições do Decreto nº 50.660, de 25 de maio de 1961.

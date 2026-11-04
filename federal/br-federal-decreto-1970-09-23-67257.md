@@ -1,5 +1,3 @@
-###DEC-067257-0-000-23-09-1970@@@
-
 Decreto nº 67.257, de 23 de setembro de 1970.
 
 Autoriza estrangeiros a adquirirem direitos sôbre os terrenos que mencionada, situados no Estado da Guanabara.

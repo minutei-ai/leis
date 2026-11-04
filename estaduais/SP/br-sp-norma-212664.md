@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212664)<br>
-
 # LEI N° 18.465, DE 27 DE MAIO DE 2026
 
 ## (Projeto de lei n° 359/2025, do Deputado Gil Diniz Bolsonaro - PL)

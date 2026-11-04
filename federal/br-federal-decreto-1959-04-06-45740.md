@@ -1,5 +1,3 @@
-###DEC-045740-0-000-06-04-1959@@@
-
 DECRETO Nº 45.740, DE 6 DE ABRIL DE 1959.
 
 Suprime função na Tabela Única de Mensalistas do Departamento Administrativo do Serviço Público.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211745)<br>
-
 # LEI COMPLEMENTAR N° 1.435, DE 31 DE OUTUBRO DE 2025
 
 ### _Reestrutura a série de classes de Pesquisador Científico, que passa a constituir a carreira de Pesquisador Científico, e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 1° -** Esta lei complementar reestrutura a série de classes de Pesquisador Científico, criada pela [Lei Complementar n° 125, de 18 de novembro de 1975](https://www.al.sp.gov.br/norma/29346), que passa a constituir carreira.
@@ -19,7 +18,8 @@ Disposições Gerais
 
 2 - é privativa das Instituições Científicas e Tecnológicas do Estado de São Paulo - ICTESP indicadas em decreto.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das atribuições do Pesquisador Científico
 
 **Artigo 2° -** São atribuições do cargo de Pesquisador Científico, nas áreas de ciências naturais, ciências da saúde, ciências sociais, engenharia, tecnologia e áreas correlatas:
@@ -38,14 +38,16 @@ VI - realizar a transferência de tecnologia e apoiar a aplicação prática dos
 
 **Parágrafo único -** As atribuições do cargo de Pesquisador Científico serão exercidas em alinhamento com o campo funcional do órgão no qual o servidor estiver classificado.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Carreira de Pesquisador Científico
 
 **Artigo 3° -** A carreira de Pesquisador Científico é constituída de 6 (seis) Níveis, identificados por algarismos romanos de I a VI, cada um deles compostos por 3 (três) Categorias, identificadas pelas letras A a C, na forma do Anexo I desta lei complementar.
 
 **Parágrafo único -** Os cargos da carreira a que se refere o "caput" deste artigo situam-se inicialmente na Categoria A do Nível I e a ela retornam quando vagos.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Regime Jurídico e da Jornada de Trabalho
 
 **Artigo 4° -** Os integrantes da carreira reestruturada por esta lei complementar ficam sujeitos ao regime da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), e à Jornada Completa de Trabalho, caracterizada pela exigência da prestação de 40 (quarenta) horas semanais de trabalho, em regime de dedicação exclusiva, não lhes sendo aplicável o disposto na [Lei n° 4.477, de 24 de dezembro de 1957](https://www.al.sp.gov.br/norma/38910).
@@ -68,14 +70,16 @@ Do Regime Jurídico e da Jornada de Trabalho
 
 **§ 4° -** Fica assegurado aos Pesquisadores Científicos o exercício de atividades de pesquisa, desenvolvimento e inovação, nos termos da [Lei Complementar n° 1.049, de 19 de junho de 2008](https://www.al.sp.gov.br/norma/98136), e, naquilo que lhes for aplicável, das Leis federais n° 10.973, de 2 de dezembro de 2004, e n° 13.243, de 11 de janeiro de 2016.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Do Ingresso na Carreira
 
 **Artigo 5° -** O ingresso na carreira de Pesquisador Científico dar-se-á na Categoria A do Nível I, mediante concurso público de provas ou de provas e títulos, de acordo com os critérios estabelecidos no edital que rege o concurso, exigida a graduação de nível superior correspondente ao campo de atuação.
 
 **Parágrafo único -** O concurso público para provimento do cargo de Pesquisador Científico poderá ser realizado por área de formação acadêmica ou em razão da natureza das atividades a serem desenvolvidas, na forma estabelecida no respectivo edital de concurso, de acordo com as necessidades da Administração Pública estadual.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Do Estágio Probatório
 
 **Artigo 6° -** O estágio probatório corresponde ao período de 3 (três) anos de efetivo exercício que se segue ao início do exercício no cargo.
@@ -140,7 +144,8 @@ IV - na hipótese da licença de que trata a [Lei Complementar n° 367, de 14 de
 
 **§ 2° -** O servidor que não for aprovado no estágio probatório será exonerado do cargo, mediante processo em que sejam assegurados o contraditório e a ampla defesa.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Da Evolução na Carreira
 
 **Artigo 11 -** A evolução do servidor na carreira de Pesquisador Científico dar-se-á por progressão funcional, nas Categorias, e por promoção, nos Níveis, conforme regulamentação.
@@ -197,7 +202,8 @@ V - na hipótese da licença de que trata a [Lei Complementar n° 367, de 14 de 
 
 VI - designação como substituto ou para responder por cargo em comissão ou função de confiança vagos, privativos de Pesquisador Científico, no órgão em que o seu cargo efetivo de Pesquisador Científico esteja classificado.
 
-#### SEÇÃO VIII<br>
+#### SEÇÃO VIII
+
 Do Regime de Remuneração por Subsídio
 
 **Artigo 16 -** O Pesquisador Científico será remunerado por subsídio, nos termos dos §§ 4° e 8° do artigo 39 da Constituição Federal e do parágrafo único do artigo 129 da Constituição do Estado, fixado em parcela única, nos termos do Anexo I desta lei complementar, vedado o acréscimo de qualquer vantagem pecuniária, exceto:
@@ -216,12 +222,14 @@ VI - retribuição pelo exercício de atribuições de direção, chefia e asses
 
 VII - verbas de caráter indenizatório.
 
-#### SEÇÃO IX<br>
+#### SEÇÃO IX
+
 Das Funções de Confiança Privativas de Pesquisador Científico
 
 **Artigo 17 -** As funções de direção, chefia e assessoramento de unidades ou órgãos que desempenhem atividades inseridas no âmbito das atribuições específicas de Pesquisador Científico serão remuneradas pelo subsídio do servidor, acrescido da retribuição correspondente ao valor da respectiva Função de Confiança do Estado de São Paulo - FCESP, instituída pelo artigo 2° da [Lei Complementar n° 1.395, de 22 de dezembro de 2023](https://www.al.sp.gov.br/norma/208991), na conformidade do seu Anexo I, observada a limitação constitucional remuneratória aplicável.
 
-#### SEÇÃO X<br>
+#### SEÇÃO X
+
 Disposições Finais
 
 **Artigo 18 -** Ficam acrescidos ao Anexo IV a que se refere o § 2° do artigo 4° da [Lei Complementar n° 1.395, de 22 de dezembro de 2023](https://www.al.sp.gov.br/norma/208991), o quantitativo de Funções constante no Anexo III desta lei complementar.
@@ -258,7 +266,8 @@ I - os artigos 1°, 2°, 5° a 15 da [Lei Complementar n° 125, de 18 de novembr
 
 II - a [Lei Complementar n° 656, de 28 de junho de 1991](https://www.al.sp.gov.br/norma/20241).
 
-#### SEÇÃO XI<br>
+#### SEÇÃO XI
+
 Disposições Transitórias
 
 **Artigo 1° -** Os cargos da classe de Pesquisador Científico, criados pela [Lei Complementar n° 125, de 18 de novembro de 1975](https://www.al.sp.gov.br/norma/29346), ficam enquadrados na forma do Anexo II desta lei complementar, no mesmo Nível em que se encontravam na data de entrada em vigor desta lei complementar.
@@ -361,17 +370,60 @@ Arthur Luis Pinho de Lima
 
 Secretário-Chefe da Casa Civil
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o artigo 3° desta lei complementar.
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="2">NÍVEIS</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="3">CATEGORIAS SUBSÍDIO – R$</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">A</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">B</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">C</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Pesquisador Científico I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9.052,47</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9.391,94</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9.744,14</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Pesquisador Científico II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10.718,55</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">11.120,49</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">11.537,51</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Pesquisador Científico III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">12.691,26</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">13.167,19</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">13.660,96</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Pesquisador Científico IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">15.027,05</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">15.590,57</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">16.175,21</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Pesquisador Científico V</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17.792,73</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">18.459,96</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">19.152,21</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Pesquisador Científico VI</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">21.067,43</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">21.857,46</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">22.677,11</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">NÍVEIS</td><td colspan="3">CATEGORIAS SUBSÍDIO – R$</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>Pesquisador Científico I</td><td>9.052,47</td><td>9.391,94</td><td>9.744,14</td></tr><tr><td>Pesquisador Científico II</td><td>10.718,55</td><td>11.120,49</td><td>11.537,51</td></tr><tr><td>Pesquisador Científico III</td><td>12.691,26</td><td>13.167,19</td><td>13.660,96</td></tr><tr><td>Pesquisador Científico IV</td><td>15.027,05</td><td>15.590,57</td><td>16.175,21</td></tr><tr><td>Pesquisador Científico V</td><td>17.792,73</td><td>18.459,96</td><td>19.152,21</td></tr><tr><td>Pesquisador Científico VI</td><td>21.067,43</td><td>21.857,46</td><td>22.677,11</td></tr></tbody></table>
 
-#### ANEXO II<br>
+#### ANEXO II
+
 a que se refere o artigo 1° das Disposições Transitórias desta lei complementar.
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="2">SITUAÇÃO ANTERIOR</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="2">SITUAÇÃO NOVA</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARGO / FUNÇÃO - ATIVIDADE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CLASSE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARGO / FUNÇÃO - ATIVIDADE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">NÍVEL</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="6">Pesquisador Científico</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="6">Pesquisador Científico</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">I</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">II</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">III</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">IV</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">V</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">V</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">VI</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">VI</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">SITUAÇÃO ANTERIOR</td><td colspan="2">SITUAÇÃO NOVA</td></tr><tr><td>CARGO / FUNÇÃO - ATIVIDADE</td><td>CLASSE</td><td>CARGO / FUNÇÃO - ATIVIDADE</td><td>NÍVEL</td></tr><tr><td rowspan="6">Pesquisador Científico</td><td>I</td><td rowspan="6">Pesquisador Científico</td><td>I</td></tr><tr><td>II</td><td>II</td></tr><tr><td>III</td><td>III</td></tr><tr><td>IV</td><td>IV</td></tr><tr><td>V</td><td>V</td></tr><tr><td>VI</td><td>VI</td></tr></tbody></table>
 
-#### ANEXO III<br>
+#### ANEXO III
+
 a que se refere o artigo 18 desta lei complementar.
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">FCESP</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QUANTIDADE DE FUNÇÕES</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">TOTAL DE FCESP</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">13</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">7</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">18,90</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">12</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">19,20</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">50</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">90,00</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">28,05</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">7</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">78</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">117,00</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">TOTAL</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">160</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">273,15</td></tr></tbody></table>
+FCESP
+
+QUANTIDADE DE FUNÇÕES
+
+TOTAL DE FCESP
+
+13
+
+7
+
+18,90
+
+12
+
+8
+
+19,20
+
+9
+
+50
+
+90,00
+
+8
+
+17
+
+28,05
+
+7
+
+78
+
+117,00
+
+TOTAL
+
+160
+
+273,15

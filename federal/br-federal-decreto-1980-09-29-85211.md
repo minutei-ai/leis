@@ -1,5 +1,3 @@
-###DEC-085211-0-000-29-09-1980@@@
-
 DeCRETO Nº 85.211, DE 29 DE SETEMBRO DE 1980.
 
 Altera a escolaridade para ingresso na Categoria Funcional de Agente Administrativo, do Grupo Serviços Auxiliares.

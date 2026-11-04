@@ -1,5 +1,3 @@
-###DEC-073106-0-000-07-11-1973@@@
-
 DECRETO Nº 73.106 - DE 7 DE NOVEMBRO DE 1973
 
 Redistribui cargos, com os respectivos ocupantes, do Quadro de Pessoal do Ministério da Agricultura, para o Quadro Único de Pessoal da Universidade Federal Rural do Rio de Janeiro, e dá outras providências.

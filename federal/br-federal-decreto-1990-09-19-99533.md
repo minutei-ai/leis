@@ -1,5 +1,3 @@
-###DEC-099533-0-000-19-09-1990@@@
-
 DECRETO N° 99.533, DE 19 DE SETEMBRO DE 1990
 
 Altera dispositivos do Regulamento de Movimentação para Oficiais e Praças do Exército, aprovado pelo Decreto n° 83.079, de 23 de janeiro de 1979.

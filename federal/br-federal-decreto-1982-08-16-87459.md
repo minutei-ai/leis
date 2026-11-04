@@ -1,5 +1,3 @@
-###DEC-087459-0-000-16-08-1982@@@
-
 Decreto nº 87.459, de 16 de agosto de 1982
 
 Concede à ÁLCALIS DO RIO GRANDE DO NORTE S.A. - ALCANORTE, autorização para proceder a aumento do seu capital autorizado, bem como do capital social.

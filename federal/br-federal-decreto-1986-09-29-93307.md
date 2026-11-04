@@ -1,5 +1,3 @@
-###DEC-093307-0-000-29-09-1986@@@
-
 DECRETO Nº 93.307, DE 29 DE SETEMBRO DE 1986
 
 Altera dispositivos do Decreto nº 90.079, de 16 de agosto de 1984, que "dispõe sobre o Regulamento da Escola Superior de Guerra e dá outras providências".

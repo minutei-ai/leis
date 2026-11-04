@@ -1,5 +1,3 @@
-###DEC-046987-0-000-10-10-1959@@@
-
 DECRETO Nº 46.987, DE 10 DE OUTUBRO DE 1959.
 
 Estabelece as diretrizes básicas para a implantação no País de Centros de Processamento de Dados, de fábricas de computadores eletrônicos e suas partes componentes e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083449-0-000-14-05-1979@@@
-
 Decreto nº 83.449, de 14 de maio de 1979.
 
 Autoriza o funcionamento da Faculdade de Formação de Professores de Goiana, com os cursos de Ciências, de Geografia e de História, com sede na cidade de Goiana, Estado de Pernambuco.

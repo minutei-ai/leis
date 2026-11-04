@@ -1,7 +1,3 @@
-1
-
-###DEC-095654-0-000-21-01-1988@@@
-
 DECRETO N° 95.654, DE 21 DE JANEIRO DE 1988
 
 Concede à AÇOS FINOS PIRATINI S.A. (GRUPO SIDERBRÁS) autorização para proceder a aumento de seu capital social.

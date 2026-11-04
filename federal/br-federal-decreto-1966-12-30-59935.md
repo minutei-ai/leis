@@ -1,5 +1,3 @@
-###DEC-059935-0-000-30-12-1966@@@
-
 DECRETO Nº 59.935, DE 30 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Guilherme Luiz do Nascimento a pesquisar diamantes, no município de Coronel Murta, Estado de Minas Gerais.

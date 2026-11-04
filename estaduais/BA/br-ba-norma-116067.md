@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a
 
 Art. 1º - Fica reorganizada a Secretaria do Saneamento e Recursos Hídricos, na forma indicada na presente lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA DA SECRETARIA
 
 Art. 2º - A Secretaria do Saneamento e Recursos Hídricos tem por finalidade executar a política governamental de abastecimento de água e esgotamento sanitário e de aproveitamento global dos recursos hídricos no âmbito estadual, competindo-lhe:
@@ -43,7 +44,8 @@ XV - Promover entendimentos e providências com as prefeituras municipais visand
 
 XVI - Exercer outras atribuições necessárias ao cumprimento de suas finalidades.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 ESTRUTURA DA SECRETARIA
 
 Art. 3º - A Secretaria do Saneamento e Recursos Hídricos tem a seguinte estrutura:
@@ -74,10 +76,12 @@ Parágrafo único - A sub-divisão dos órgãos da administração centralizada 
 
 Art. 4º - O assessoramento jurídico dos órgãos da administração Centralizada da Secretaria cabe à Procuradoria Geral do Estado.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 FINALIDADE E COMPETÊNCIA DOS ÓRGÃOS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 GABINETE DO SECRETÁRIO
 
 Art. 5º - O Gabinete do Secretário tem por finalidade prestar assistência ao titular da Pasta em suas tarefas técnicas e administrativas, competindo-lhe:
@@ -90,17 +94,20 @@ III - Coordenar o fluxo de informações e as relações públicas de interesse 
 
 IV - Executar outras competências necessárias ao cumprimento de sua finalidade.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 ASSESSORIA SETORIAL DE PROGRAMAÇÃO E ORÇAMENTO - ASPO
 
 Art. 6º - A Assessoria Setorial e Programação e Orçamento ASPO tem por finalidade a competência prevista no [Capítulo III, do Título III, da Lei nº 2.321, de 11 de abril de 1966](https://www.legislabahia.ba.gov.br/documentos/lei-no-2321-de-11-de-abril-de-1966#LO_2_321_Titulo_3_Capitulo_3) e na sua regulamentação.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 SERVIÇO DE ADMINISTRAÇÃO GERAL -  SAG
 
 Art. 7º - O Serviço de Administração Geral - SAG tem a finalidade e competência prevista no [Capítulo VI, do Título III, da Lei nº 2.321, de 11 de abril de 1966](https://www.legislabahia.ba.gov.br/documentos/lei-no-2321-de-11-de-abril-de-1966#LO_2_321_Titulo_3_Capitulo_6) na sua regulamentação.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 SUB-SECRETARIAS
 
 Art. 8º - As Sub-Secretarias referidas no [artigo 3º desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-3305-de-10-de-outubro-de-1974#LO_3_305_Art__3) tem por finalidade coordenar a ação das entidades da Administração Descentralizada vinculadas à secretaria, competindo-lhes:
@@ -125,7 +132,8 @@ I - Sob sua coordenação:
 
 2\. Companhia de Desenvolvimento do Vale do Paraguaçu CDVP
 
-SUB-SEÇÃO I -<br>
+SUB-SEÇÃO I -
+
 SUB-SECRETARIA DO SANEAMENTO BÁSICO
 
 EÇÃO I
@@ -150,7 +158,8 @@ VIII - Zelar pelo controle de poluição dos mananciais utilizados preponderante
 
 IX - Exercer outras atribuições necessárias ao cumprimento de suas finalidades.
 
-SUB-SEÇÃO II -<br>
+SUB-SEÇÃO II -
+
 SUB-SECRETARIA DE RECURSOS HÍDRICOS
 
 EÇÃO II
@@ -175,12 +184,14 @@ VIII - Zelar pela aplicação das normas do Código de Água e de leis federais 
 
 IX - Exercer outras atribuições necessárias ao cumprimento de suas finalidades.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 CENTROS REGIONAIS INTEGRADOS
 
 Art. 11 - A Secretaria do Saneamento e Recursos Hídricos manterá, junto aos Centros Regionais Integrados - CERIN, uma representação nos termos da [Lei 3.247, de 21 de dezembro de 1973](https://www.legislabahia.ba.gov.br/documentos/lei-no-3247-de-21-de-dezembro-de-1973#LO_3_247) .
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 CONSELHO ESTADUAL DE SANEAMENTO E RECURSOS HÍDRICOS
 
 Art. 12 - O Conselho Estadual de Saneamento e Recursos Hídricos tem por finalidade exercer as funções consultivas e normativas sobre abastecimento de água, esgotamento sanitário e recursos hídricos, competindo-lhe:
@@ -217,12 +228,14 @@ VI - O Secretário da Indústria e Comércio;
 
 VII - Um representante da Prefeitura Municipal de Salvador.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 13 - Fica criada e vinculada à Secretaria do Saneamento e Recursos Hídricos, a Companhia de Desenvolvimento do Vale do Paraguaçu - CDVP, sociedade de economia mista, sob a forma de sociedade anônima de capital autorizado, a que se refere o [item 2, do inciso II, do artigo 3º da presente lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-3305-de-10-de-outubro-de-1974#LO_3_305_Art__3_II_2) , com o objetivo de aproveitar em benefício do homem os recursos naturais existentes na Bacia do Rio Paraguaçu, devendo o Poder Executivo promover a sua organização no prazo de 180 (cento e oitenta) dias.
 
-Ver também:<br>
+Ver também:
+
 Lei nº 3.388, de 26 de junho de 1975 - Altera o prazo fixado no artigo 13 da Lei nº 3.305, de 10 de outubro de 1974.
 
 Art. 14 - Ficam incorporadas pela Empresa Baiana de Águas e Saneamento S/A - EMBASA as suas subsidiárias, Companhia Metropolitana de Águas e Esgotos - COMAE e Companhia de Saneamento do Estado da Bahia - COSEB, devendo o Poder Executivo adotar as medidas necessárias ao disposto neste artigo no prazo de 90 (noventa) dias.
@@ -277,4 +290,20 @@ ANEXO I
 
 CARGOS EM COMISSÃO
 
-<table style="width: 375.65pt; margin-left: 28.35pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt;" width="501" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 116.3pt; border: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="155"><p class="Tabela-Texto"><span>DENOMINAÇÃO</span></p></td><td style="width: 150.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="200"><p class="Tabela-Texto"><span>SÍMBOLO</span></p></td><td style="width: 109.3pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="146"><p class="Tabela-Texto"><span>QUANTIDADE</span></p></td></tr><tr><td style="width: 116.3pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="155"><p class="Tabela-Texto"><span>Sub - Secretário</span></p></td><td style="width: 150.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="200"><p class="Tabela-Texto"><span>2-C</span></p></td><td style="width: 109.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="146"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 116.3pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="155"><p class="Tabela-Texto"><span>Assessor</span></p></td><td style="width: 150.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="200"><p class="Tabela-Texto"><span>6-C</span></p></td><td style="width: 109.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="146"><p class="Tabela-Texto"><span>3</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Sub - Secretário
+
+2-C
+
+2
+
+Assessor
+
+6-C
+
+3

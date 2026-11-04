@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183581)
-
 # DECRETO Nº 62.875, DE 09 DE OUTUBRO DE 2017
 
 ### _Transfere da administração da Secretaria de Desenvolvimento Social, para a da Secretaria da Saúde, o imóvel que específica no Município de José Bonifácio e dá providências correlatas_
@@ -24,12 +22,20 @@ Palácio dos Bandeirantes, 9 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Antonio Floriano Pereira Pesaro<br>
-Secretário de Desenvolvimento Social<br>
-Eduardo Ribeiro Adriano<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Saúde<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Antonio Floriano Pereira Pesaro
+
+Secretário de Desenvolvimento Social
+
+Eduardo Ribeiro Adriano
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Saúde
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 9 de outubro de 2017.

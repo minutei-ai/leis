@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210666)<br>
-
 # LEI N° 18.098, DE 26 DE FEVEREIRO DE 2025
 
 ## (Projeto de lei n° 1627/2023, da Deputada Delegada Graciela - PL)

@@ -1,5 +1,3 @@
-###DEL-000690-0-000-18-07-1969@@@
-
 DECRETO-LEI Nº 690, DE 18 DE JULHO DE 1969
 
 Dispõe sobre a criação do Conselho de Desenvolvimento Comercial (CDC) e dá outras providências.

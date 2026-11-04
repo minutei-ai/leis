@@ -1,5 +1,3 @@
-###DEC-051918-A-000-26-04-1963@@@
-
 Decreto nº 51.918-A, de 26 de Abril de 1963.
 
 Renova o Decreto nº 47.521, de 28 de dezembro de 1959.

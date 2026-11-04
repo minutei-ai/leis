@@ -1,5 +1,3 @@
-###DEL-009810-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.810 – DE 9 DE SETEMBRO DE 1946
 
 Dispõe sôbre as atribuições da Comissão incumbida das desapropriações referidas na lei nº DCT, de BT ded maio de 1937, e no Decreto-lei número 2.201, de 23 de Dezembro de 1937.

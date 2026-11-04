@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/df21576d-58bf-4724-8430-05502afe3edf/texto#nowhere)
 
-###DEL-000873-0-000-16-09-1969@@@
-
 DECRETO-LEI Nº 873, DE 16 DE SETEMBRO DE 1969
 
 Acrescenta § 2º ao artigo 106 do Decreto-Lei nº 728, de 4 de agôsto de 1969, que instituiu o Código de Vencimentos dos Militares.

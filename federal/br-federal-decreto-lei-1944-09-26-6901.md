@@ -1,5 +1,3 @@
-###DEL-006901-0-000-26-09-1944@@@
-
 DECRETO-LEI N. 6.901 – DE 26 DE SETEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 92.400.000,00 para regularização da despesa efetuada com aquisição, pelo Govêrno Federal, da Estrada de Ferro São Paulo-Paraná

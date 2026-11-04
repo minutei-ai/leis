@@ -16,26 +16,58 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3177</td><td style=" width:85px;    ">27130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 7.684.792,00</td><td style=" width:85px;    ">R$ 212.077,24</td><td style=" width:85px;    ">R$ 7.896.869,24</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td>06 181 1051 3177</td><td>27130000</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 7.684.792,00</td><td>R$ 212.077,24</td><td>R$ 7.896.869,24</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL</b><br>3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PASSE LIVRE ESTUDANTIL - ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">12 361 1008 2194</td><td style=" width:85px;    ">17610155</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 38.264,00</td><td style=" width:85px;    ">R$ 38.264,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL** 3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>PASSE LIVRE ESTUDANTIL - ENSINO FUNDAMENTAL</td><td>12 361 1008 2194</td><td>17610155</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 0,00</td><td>R$ 38.264,00</td><td>R$ 38.264,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS</td><td style=" width:340px;  height:19px;   ">R$ 38.264,00</td></tr><tr><td style=" width:340px;    ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 212.077,24</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 250.341,24</td></tr></tbody></table>
+17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS
+
+R$ 38.264,00
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 212.077,24
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 250.341,24
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL</b><br>3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PASSE LIVRE ESTUDANTIL - ENSINO SUPERIOR</td><td style=" width:85px;    ">12 364 1008 2195</td><td style=" width:85px;    ">17610155</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 38.264,00</td><td style=" width:85px;    ">R$ 38.264,00</td><td style=" width:85px;    ">R$ 38.264,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL** 3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>PASSE LIVRE ESTUDANTIL - ENSINO SUPERIOR</td><td>12 364 1008 2195</td><td>17610155</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 38.264,00</td><td>R$ 38.264,00</td><td>R$ 38.264,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso I</b></td></tr></tbody></table>
+**TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §  1º  Inciso I**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 212.077,24</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 212.077,24</td></tr></tbody></table>
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+R$ 212.077,24
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS</td><td style=" width:340px;  height:19px;   ">R$ 38.264,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 38.264,00</td></tr></tbody></table>
+**TOTAL**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+R$ 212.077,24
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS</td><td style=" width:340px;  height:19px;   ">R$ 38.264,00</td></tr><tr><td style=" width:340px;    ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 212.077,24</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 250.341,24</td></tr></tbody></table>
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS
+
+R$ 38.264,00
+
+**TOTAL**
+
+R$ 38.264,00
+
+**TOTAL POR FONTE**
+
+17610155 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - ADICIONAL DE 2% DO ICMS
+
+R$ 38.264,00
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 212.077,24
+
+**TOTAL**
+
+R$ 250.341,24

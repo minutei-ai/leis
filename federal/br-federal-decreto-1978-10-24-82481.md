@@ -1,5 +1,3 @@
-###DEC-082481-0-000-24-10-1978@@@
-
 Decreto nº 82.481, de 24 de outubro de 1978.
 
 Retifica a autorização de lavra conferida à Siderúrgica Itatiaia S.A. pelo Decreto nº 43.344, de 12 de março 1958, retificado pelo Decreto nº 1.958, de 26 de dezembro de 1962.

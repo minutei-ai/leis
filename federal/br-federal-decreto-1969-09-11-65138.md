@@ -1,5 +1,3 @@
-###DEC-065138-0-000-11-09-1969@@@
-
 DECRETO Nº 65.138 - DE 11 DE SETEMBRO DE 1969.
 
 Concede à Cia. de Cimento do São Francisco - CISAFRA o direito de lavrar calcário e argila no município de Campo Formoso, Estado da Bahia.

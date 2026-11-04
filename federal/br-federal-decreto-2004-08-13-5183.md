@@ -1,5 +1,3 @@
-###DEC-005183-0-000-13-08-2004@@@
-
 DECRETO Nº 5.183 DE 13 DE AGOSTO DE 2004
 
 Regulamenta a redução da alíquota do Imposto sobre a Renda incidente sobre as remessas, para o exterior, nos termos do art. 9º da Medida Provisória nº 2.159-70, de 24 de agosto de 2001, e dá outras providências.

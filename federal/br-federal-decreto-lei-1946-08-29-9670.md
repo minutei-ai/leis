@@ -1,5 +1,3 @@
-###DEL-009670-0-000-29-08-1946@@@
-
 DECRETO-LEI N. 9.670 – DE 29 DE AGÔSTO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar a União dos Discipulos de Jesus do impósto que menciona.

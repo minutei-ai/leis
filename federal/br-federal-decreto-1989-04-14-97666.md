@@ -1,7 +1,3 @@
-1
-
-###DEC-097666-0-000-14-04-1989@@@
-
 DECRETO N° 97.666, DE 14 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Educação Artística de Santa Rosa, Rio Grande do Sul.

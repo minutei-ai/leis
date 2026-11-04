@@ -1,24 +1,31 @@
 LEI COMPLEMENTAR Nº 34 DE 06 DE FEVEREIRO DE 2009
 
-Ver também:<br>
-Decreto nº [11.808](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11808-de-28-de-outubro-de-2009), de 28 de outubro de 2009 - Regulamenta o art. 60 da Lei Complementar nº 34, de 06 de fevereiro de 2009, e dá outras providências.<br>
-Decreto nº [11.737](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11737-de-30-de-setembro-de-2009), de 30 de setembro de 2009 - Dispõe sobre o Procedimento de Uniformização da Orientação Jurídica na Administração Pública Estadual, e dá outras providências.<br>
-Decreto nº [11.464](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11464-de-12-de-marco-de-2009), de 12 de março de 2009 - Altera o Decreto nº 10.008, de 24 de maio de 2006, que dispõe sobre o Fundo de Modernização da Procuradoria Geral do Estado, regulamenta o artigo 75 da Lei Complementar nº 34, de 06 de fevereiro de 2009, e dá outras providências.<br>
+Ver também:
+
+Decreto nº [11.808](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11808-de-28-de-outubro-de-2009), de 28 de outubro de 2009 - Regulamenta o art. 60 da Lei Complementar nº 34, de 06 de fevereiro de 2009, e dá outras providências.
+
+Decreto nº [11.737](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11737-de-30-de-setembro-de-2009), de 30 de setembro de 2009 - Dispõe sobre o Procedimento de Uniformização da Orientação Jurídica na Administração Pública Estadual, e dá outras providências.
+
+Decreto nº [11.464](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11464-de-12-de-marco-de-2009), de 12 de março de 2009 - Altera o Decreto nº 10.008, de 24 de maio de 2006, que dispõe sobre o Fundo de Modernização da Procuradoria Geral do Estado, regulamenta o artigo 75 da Lei Complementar nº 34, de 06 de fevereiro de 2009, e dá outras providências.
+
 Decreto nº [11.463](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11463-de-12-de-marco-de-2009) de 12 de março de 2009 - Regulamenta os artigos 60 e 85 da Lei Complementar nº 34, de 06 de fevereiro de 2009, e dá outras providências.
 
 Dispõe sobre a Lei Orgânica da Procuradoria Geral do Estado, e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA ORGANIZAÇÃO DA PROCURADORIA GERAL DO ESTADO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÃO PRELIMINAR
 
 **Art. 1º** - Esta Lei reorganiza a Procuradoria Geral do Estado, define as suas competências e as dos órgãos que a compõem, e dispõe sobre o regime jurídico dos integrantes da carreira de Procurador do Estado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA FINALIDADE E COMPETÊNCIA
 
 **Art. 2º** - A Procuradoria Geral do Estado, órgão diretamente subordinado ao Governador, tem por finalidade a representação judicial e extrajudicial, a consultoria e o assessoramento jurídico do Estado, competindo-lhe:
@@ -109,7 +116,8 @@ Art. 2º-A acrescido pelo art. 1º da Lei Complementar [nº 43](https://www.legi
 
 **Art. 4º** - Qualquer cidadão ou entidade, pública ou privada, poderá representar à Procuradoria Geral do Estado contra atos ilegais ou lesivos ao patrimônio da Administração Pública direta ou indireta, para a adoção das providências cabíveis.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA ORGANIZAÇÃO
 
  
@@ -168,40 +176,48 @@ Inciso V-B acrescido pelo art. 1º da Lei Complementar [nº 43](https://www.legi
 
 **§ 1º** - Os órgãos indicados na alínea “a” do inciso V e nos incisos V-A, V-B, VI, VII e VIII do caput deste artigo compõem os serviços de apoio técnico e os serviços administrativos da Procuradoria Geral do Estado.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "§ 1º - Os órgãos indicados no item 1, da alínea “b”, do inciso IV; na alínea “a”, do inciso V e nos incisos VI a VIII deste artigo compõem os serviços administrativos e os serviços de apoio técnico da Procuradoria Geral do Estado."
 
 **§ 2º** - As atividades de assessoramento em comunicação social, no âmbito da Procuradoria Geral do Estado, serão executadas na forma prevista em lei e em articulação com a Assessoria Geral de Comunicação Social da Casa Civil.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "§ 2º - As atividades de assessoramento em comunicação social, no âmbito da Procuradoria Geral do Estado, serão executadas na forma prevista em lei e em articulação com a Secretaria de Comunicação Social - SECOM."
 
 **§ 3º** \- As Procuradorias referidas no inciso IV deste artigo terão a seguinte subdivisão estrutural:
 
 **I -**        Núcleos de Procuradoria, criados por ato do Procurador Geral, que atuarão em matérias específicas, sob a coordenação de Procuradores Assistentes;
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
-Redação anterior de acordo com o art. 1º da Lei Complementar nº 43 de 25 de outubro de 2017: "I - Núcleos de Procuradoria, que atuarão em matérias específicas previamente definidas, sob a coordenação de Procuradores Assistentes;"<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
+Redação anterior de acordo com o art. 1º da Lei Complementar nº 43 de 25 de outubro de 2017: "I - Núcleos de Procuradoria, que atuarão em matérias específicas previamente definidas, sob a coordenação de Procuradores Assistentes;"
+
 Redação original: "I - Núcleos de Procuradoria, que atuarão em matérias específicas previamente definidas dentro do plexo das competências da respectiva Procuradoria, sob a coordenação de Procuradores Assistentes;"
 
 **II -**      Núcleos Setoriais de Procuradoria, instalados conforme a natureza e a intensidade dos serviços nos órgãos e entidades do Estado, garantindo o cumprimento dos prazos, metas e cronogramas governamentais;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "II - Núcleos Setoriais de Procuradoria, encarregados da execução das atividades de assessoramento e consultoria jurídica em matérias de competência dos Núcleos de Procuradoria, instalados conforme a natureza e a intensidade dos serviços nas Secretarias de Estado e nos órgãos em regime especial da Administração direta, garantindo o cumprimento dos prazos, metas e cronogramas governamentais;"
 
 **III -**     Núcleos Regionais da Procuradoria do Interior, cuja instalação e limites territoriais serão definidos pelo Procurador Geral do Estado, de acordo com critérios estabelecidos em Resolução do Conselho Superior;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "III - Representações Regionais, cuja instalação e limites territoriais serão definidos pelo Procurador Geral do Estado, de acordo com os critérios estabelecidos em Resolução do Conselho Superior;"
 
 **<Revogado> IV -**          Representação junto aos Órgãos e Tribunais Federais, com sede no Distrito Federal.
 
 Inciso IV revogado pelo art. 25 da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA COMPETÊNCIA DOS ÓRGÃOS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DO CONSELHO SUPERIOR
 
  
@@ -212,7 +228,8 @@ DO CONSELHO SUPERIOR
 
 **II -**      o Procurador Geral Adjunto para Assuntos Administrativos;
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "II - o Procurador Geral Adjunto;"
 
 **II-A** \- o Procurador Geral Adjunto para Assuntos Jurídicos;
@@ -225,7 +242,8 @@ Inciso II-A acrescido ao art. 6° pelo art. 3º da Lei Complementar [nº 50](htt
 
 **V -**      os Chefes de Procuradorias;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "V - os Chefes das Procuradorias Administrativa, Judicial, Fiscal e de Controle Técnico;"
 
 **VI -**     o Chefe do Centro de Estudos e Aperfeiçoamento;
@@ -234,14 +252,16 @@ Redação original: "V - os Chefes das Procuradorias Administrativa, Judicial, F
 
 **§ 1º** - O Procurador Geral do Estado, o Procurador Geral Adjunto para Assuntos Administrativos, o Procurador Geral Adjunto para Assuntos Jurídicos, o Corregedor e os chefes de Procuradorias e do Centro de Estudos e Aperfeiçoamento são membros natos do Conselho.
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "§ 1º - O Procurador Geral do Estado, o Procurador Geral Adjunto, o Corregedor e os Chefes de Procuradorias e do Centro de Estudos e Aperfeiçoamento são membros natos do Conselho."
 
 **§ 2º** - Os membros natos serão substituídos em suas faltas ou impedimentos na forma estabelecida em Regimento Interno.
 
 **§ 3º** - Os representantes indicados nos incisos IV e VII deste artigo exercerão mandato de 02 (dois) anos, sendo inelegíveis os Procuradores titulares de cargos em comissão e os exercentes de cargos de direção de entidade representativa da categoria.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "§ 3º - Os representantes indicados nos incisos IV e VII deste artigo exercerão mandato de 02 (dois) anos, vedada a recondução, sendo inelegíveis os Procuradores titulares de cargos em comissão."
 
 **Art. 7º** - O Conselho Superior reunir-se-á ordinariamente uma vez por mês e, extraordinariamente, quando convocado pelo Procurador Geral do Estado ou por proposta da maioria simples dos seus membros.
@@ -286,12 +306,14 @@ Inciso XV-A acrescido pelo art. 1º da Lei Complementar [nº 43](https://www.leg
 
 **Parágrafo único -** O Conselho Superior apreciará as matérias de sua competência, com a presença da maioria absoluta dos seus membros e decidirá por voto da maioria dos presentes, salvo nas hipóteses dos incisos IX, XIII e XV-A deste artigo, em que será exigido o quorum de 2/3 (dois terços) de sua composição.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "Parágrafo único - O Conselho Superior apreciará as matérias de sua competência com a presença da maioria absoluta dos seus membros e decidirá por voto da maioria dos presentes, salvo nas hipóteses dos incisos IX e XIII deste artigo, em que será exigido o quorum de 2/3 (dois terços) de sua composição."
 
 **Art. 9º**\- O Regimento do Conselho Superior, por ele aprovado, fixará as normas do seu funcionamento.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DO GABINETE DO PROCURADOR GERAL DO ESTADO
 
  
@@ -318,27 +340,32 @@ DO GABINETE DO PROCURADOR GERAL DO ESTADO
 
 **X -**      supervisionar a Coordenação de Gestão Estratégica, a Coordenação de Distribuição e Atendimento e a Coordenação de Cálculos e Perícias;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "X - supervisionar a Coordenação de Gestão Estratégica e a Coordenação de Distribuição e Atendimento;"
 
 **XI -**     planejar e supervisionar as atividades da Representação no Distrito Federal;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XI - planejar e supervisionar as atividades administrativas das Representações Regionais e da Representação junto aos Órgãos e Tribunais Federais;"
 
 **XII -**   exercer outras atividades que lhe sejam conferidas pelo Procurador Geral do Estado.
 
 **Art. 11** - O Gabinete do Procurador Geral do Estado será dirigido pelo Procurador Geral Adjunto para Assuntos Administrativos.
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "Art. 11 - O Gabinete do Procurador Geral do Estado será dirigido pelo Procurador Geral Adjunto."
 
 **Art. 12** - Junto ao Gabinete do Procurador Geral atuarão 07 (sete) Procuradores Assessores Especiais.
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "Art. 12 - Junto ao Gabinete do Procurador Geral atuarão 06 (seis) Procuradores Assessores Especiais."
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DA CORREGEDORIA
 
 **Art. 13** - À Corregedoria, órgão de supervisão, coordenação, fiscalização e controle da atuação funcional e da conduta de todo o pessoal da Procuradoria Geral do Estado, compete:
@@ -369,47 +396,58 @@ DA CORREGEDORIA
 
 **Parágrafo único -**   Junto à Corregedoria poderão atuar outros Procuradores designados pelo Procurador Geral do Estado.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DAS PROCURADORIAS
 
  
 
 **Art. 15** - As Procuradorias serão dirigidas por Procurador Chefe e terão tantos Procuradores quantos sejam necessários ao serviço.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "Art. 15 - As Procuradorias Administrativa, Fiscal, Judicial e de Controle Técnico serão dirigidas por Procurador Chefe e terão tantos Procuradores quantos sejam necessários ao serviço."
 
 **§ 1º -**  As atividades técnico-jurídicas de competência das Procuradorias Administrativa, Judicial, de Controle Técnico, Fiscal e da Dívida Ativa poderão ser executadas por Núcleos de Procuradoria e Núcleos Setoriais de Procuradoria, que atuarão sob a coordenação de Procuradores Assistentes.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
-Redação original: "§ 1º - As atividades técnico-jurídicas de competência de cada Procuradoria serão executadas da seguinte forma:<br>
-I - na Capital, por Núcleos de Procuradoria e Núcleos Setoriais de Procuradoria, que atuarão em matérias específicas previamente definidas dentro do plexo das competências da respectiva Procuradoria, sob a coordenação de Procuradores Assistentes;<br>
-II - no Interior, pelas Representações Regionais, cuja instalação e limites territoriais serão definidos pelo Procurador Geral do Estado, de acordo com os critérios estabelecidos em Resolução do Conselho Superior;<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
+Redação original: "§ 1º - As atividades técnico-jurídicas de competência de cada Procuradoria serão executadas da seguinte forma:
+
+I - na Capital, por Núcleos de Procuradoria e Núcleos Setoriais de Procuradoria, que atuarão em matérias específicas previamente definidas dentro do plexo das competências da respectiva Procuradoria, sob a coordenação de Procuradores Assistentes;
+
+II - no Interior, pelas Representações Regionais, cuja instalação e limites territoriais serão definidos pelo Procurador Geral do Estado, de acordo com os critérios estabelecidos em Resolução do Conselho Superior;
+
 III - no Distrito Federal, pela Representação junto aos Órgãos e Tribunais Federais."
 
 **§ 2º -** As atividades técnico-jurídicas de competência da Procuradoria do Interior poderão ser desenvolvidas por Núcleos Regionais, que exercerão, no âmbito de sua atuação territorial e no que couber, as competências conferidas pela Lei Orgânica da Procuradoria Geral do Estado.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "§ 2º - Os Procuradores designados para os Núcleos de Procuradoria, Núcleos Setoriais de Procuradoria, Representações Regionais e Representação junto aos Órgãos e Tribunais Federais atuarão sob a orientação e a supervisão técnica das Procuradorias, no que tange às matérias das respectivas competências."
 
-**§** **3º** \- Os Procuradores designados para os Núcleos de Procuradoria, Núcleos Setoriais de Procuradoria e Núcleos Regionais da Procuradoria do Interior atuarão sob a orientação e a supervisão técnica das Procuradorias.
+**§3º** \- Os Procuradores designados para os Núcleos de Procuradoria, Núcleos Setoriais de Procuradoria e Núcleos Regionais da Procuradoria do Interior atuarão sob a orientação e a supervisão técnica das Procuradorias.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "§ 3º - Os Procuradores designados para as Representações Regionais não serão removidos, a pedido, antes de decorridos 05 (cinco) anos do início do respectivo exercício."
 
-**§** **4º -** As atividades a cargo dos Núcleos Regionais da Procuradoria do Interior em que servirem mais de 02 (dois) Procuradores poderão ser coordenadas por um Procurador Assistente.
+**§4º -** As atividades a cargo dos Núcleos Regionais da Procuradoria do Interior em que servirem mais de 02 (dois) Procuradores poderão ser coordenadas por um Procurador Assistente.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "§ 4º - As atividades a cargo da Representação junto aos Órgãos e Tribunais Federais e das Representações Regionais em que servirem mais de 02 (dois) Procuradores poderão ser coordenadas por um Procurador Assistente. "
 
 **§ 5º -** As unidades referidas neste artigo exercerão outras competências correlatas e necessárias ao cumprimento da finalidade da Procuradoria Geral do Estado.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "§ 5º - As unidades referidas neste artigo exercerão outras competências correlatas e necessárias ao cumprimento da finalidade da Procuradoria Geral do Estado."
 
 **Art. 16** - Cada Núcleo Setorial de Procuradoria disporá de apoio administrativo com servidores de quadro de pessoal permanente da Procuradoria, ou do respectivo órgão ou entidade.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "Art. 16 - Cada Núcleo Setorial de Procuradoria disporá de apoio administrativo com servidores de quadro de pessoal permanente da Procuradoria, ou das respectivas Secretarias de Estado e dos órgãos em regime especial de Administração direta."
 
 **§ 1º -** Nas matérias definidas como de sua competência cada Núcleo Setorial de Procuradoria atuará em caráter conclusivo, exceto quando se tratar de questões de significativo interesse sistêmico, ou das quais possam resultar prejuízos ao Erário estadual.
@@ -418,7 +456,8 @@ Redação original: "Art. 16 - Cada Núcleo Setorial de Procuradoria disporá de
 
 **§ 3º -** Poderão ser designados Procuradores para execução de atividades de consultoria e assessoramento jurídico diretamente em outros Poderes, em caráter eventual ou permanente.
 
-Subseção I -<br>
+Subseção I -
+
 Da Procuradoria Administrativa
 
  
@@ -461,10 +500,12 @@ Da Procuradoria Administrativa
 
 **XVIII -**   orientar, nas matérias de sua competência, a atuação dos Procuradores do Estado em exercício na Representação no Distrito Federal.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XVIII - orientar, nas matérias de sua competência, a atuação dos Procuradores do Estado em exercício nas Representações Regionais e na Representação junto a Órgãos e Tribunais Federais."
 
-Subseção II -<br>
+Subseção II -
+
 Da Procuradoria Judicial
 
  
@@ -503,17 +544,20 @@ Da Procuradoria Judicial
 
 **XVI -** registrar e encaminhar à Representação no Distrito Federal, com os subsídios necessários à defesa dos interesses do Estado, a contrafé dos mandados de citação, intimação ou notificação, assim como outras peças e documentos relativos às causas processadas ou a serem ajuizadas nas respectivas áreas de atuação;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XVI - registrar e encaminhar às Representações Regionais e à Representação junto aos Órgãos e Tribunais Federais, com os subsídios necessários à defesa dos interesses do Estado, a contrafé dos mandados de citação, intimação ou notificação, assim como outras peças e documentos relativos às causas processadas ou a serem ajuizadas nas respectivas áreas de atuação;"
 
 **XVII -**     acompanhar, permanentemente, o andamento dos processos judiciais de interesse do Estado da Bahia;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XVII - acompanhar, permanentemente, através dos relatórios encaminhados pelas Representações Regionais e pela Representação junto aos Órgãos e Tribunais Federais, e por inspeções locais, o andamento dos processos em curso, de interesse do Estado da Bahia, nas Comarcas do Interior e no Distrito Federal;"
 
 **XVIII -**   orientar, nas matérias de sua competência, a atuação dos Procuradores do Estado em exercício na Representação no Distrito Federal;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XVIII - orientar, nas matérias de sua competência, a atuação dos Procuradores do Estado em exercício nas Representações Regionais e na Representação junto aos Órgãos e Tribunais Federais;"
 
 **<Revogado> XIX -**       supervisionar a Coordenação de Cálculos e Perícias;
@@ -544,15 +588,18 @@ Inciso XXI revogado pelo art. 25 da Lei Complementar [nº 43](https://www.legisl
 
 Art. 19 revogado pelo art. 25 da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
 
-Subseção III -<br>
+Subseção III -
+
 Da Procuradoria Fiscal e da Dívida Ativa
 
-Redação de acordo com o art. 2º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 2º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "Da Procuradoria Fiscal"
 
 **Art. 20** \- Compete à Procuradoria Fiscal e da Dívida Ativa exercer a consultoria e o assessoramento jurídico, a representação judicial do Estado, em matéria fiscal, bem como a cobrança da dívida ativa tributária e não-tributária, cabendo-lhe especialmente:
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "Art. 20 - Compete à Procuradoria Fiscal exercer a consultoria e o assessoramento jurídico, bem como a representação judicial do Estado, em matéria fiscal, cabendo-lhe especialmente:"
 
 **I -**        emitir parecer sobre matéria fiscal, de interesse da Administração Pública Estadual;
@@ -583,17 +630,20 @@ Redação original: "Art. 20 - Compete à Procuradoria Fiscal exercer a consulto
 
 **XIV -** atuar na cobrança extrajudicial da dívida ativa tributária e não-tributária do Estado;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XIV - atuar na cobrança extrajudicial da dívida ativa estadual;"
 
 **XV -**    requerer o protesto extrajudicial da certidão da dívida ativa tributária e não-tributária do Estado;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XV - requerer o protesto extrajudicial da certidão da dívida ativa tributária do Estado;"
 
 **XVI -** promover o parcelamento do crédito tributário e não-tributário, inscrito em dívida ativa, e gerenciar o respectivo pagamento;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XVI - promover o parcelamento do crédito tributário, inscrito em dívida ativa, e gerenciar o respectivo pagamento;"
 
 **XVII -**     opinar nas dações em pagamento e nas transações em geral relativas ao crédito tributário, na forma do regulamento;
@@ -604,7 +654,8 @@ Redação original: "XVI - promover o parcelamento do crédito tributário, insc
 
 **XX -**    promover a cobrança judicial da dívida ativa tributária e não-tributária do Estado;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XX - promover a cobrança judicial da dívida ativa tributária estadual;"
 
 **XXI -** representar o Estado em causas fiscais em que este figurar como autor, réu, assistente ou interveniente, podendo, quando legalmente autorizada, confessar, reconhecer a procedência do pedido, transigir, conciliar, desistir, renunciar ao direito sobre que se funda a ação, receber, dar quitação e firmar compromisso, adjudicar bens, condicionada, nessa última hipótese, a prévia declaração de interesse da Administração Pública, bem como requerer, quando não realizada a adjudicação dos bens penhorados, sejam eles alienados por sua própria iniciativa ou por intermédio de corretor credenciado perante a autoridade judiciária, na forma da legislação processual civil; 
@@ -625,15 +676,18 @@ Redação original: "XX - promover a cobrança judicial da dívida ativa tribut�
 
 **XXIX -**   acompanhar, permanentemente, o andamento dos processos fiscais de interesse do Estado da Bahia;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XXIX - acompanhar, permanentemente, através dos relatórios encaminhados pelas Representações Regionais e pela Representação junto aos Órgãos e Tribunais Federais, e por inspeções locais, o andamento dos processos de natureza fiscal em curso, de interesse do Estado da Bahia, nas comarcas no Interior e no Distrito Federal;"
 
 **XXX -**     orientar, nas matérias de sua competência, a atuação dos Procuradores do Estado em exercício na Representação no Distrito Federal.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XXX - orientar, nas matérias de sua competência, a atuação dos Procuradores do Estado em exercício nas Representações Regionais e na Representação junto aos Órgãos e Tribunais Federais;"
 
-Subseção IV -<br>
+Subseção IV -
+
 Da Procuradoria de Controle Técnico
 
 **Art. 21** - Compete à Procuradoria de Controle Técnico:
@@ -656,7 +710,8 @@ Da Procuradoria de Controle Técnico
 
 **IX -**     exercer outras atividades necessárias ao bom funcionamento dos serviços jurídicos das entidades da Administração Pública indireta do Estado.
 
-Subseção V -<br>
+Subseção V -
+
 Da Procuradoria do Interior
 
 **Art. 21-A** - Compete à Procuradoria do Interior promover a defesa dos direitos e interesses do Estado, no âmbito de sua atuação territorial, especialmente:
@@ -717,7 +772,8 @@ XXIII - exercer, no âmbito de sua atuação territorial e no que couber, outras
 
 Subseção V acrescida pelo art. 3º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
 
-SEÇÃO IV-A -<br>
+SEÇÃO IV-A -
+
 DA REPRESENTAÇÃO NO DISTRITO FEDERAL
 
 **Art. 21-F** - Compete à Representação no Distrito Federal, sem prejuízo de outras demandas que lhe sejam atribuídas pelo Procurador Geral do Estado, exercer a consultoria e o assessoramento jurídico, bem como a representação judicial do Estado no Distrito Federal, cabendo-lhe especialmente:
@@ -736,7 +792,8 @@ DA REPRESENTAÇÃO NO DISTRITO FEDERAL
 
 Seção IV-A acrescida pelo art. 4º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
 
-SEÇÃO IV-B -<br>
+SEÇÃO IV-B -
+
 DAS CÂMARAS DE PREVENÇÃO E RESOLUÇÃO ADMINISTRATIVA DE CONFLITOS
 
 **Art. 21-I** \- As Câmaras de Prevenção e Resolução Administrativa de Conflitos serão instituídas, no âmbito da Procuradoria Geral do Estado, com competência para:
@@ -751,7 +808,8 @@ DAS CÂMARAS DE PREVENÇÃO E RESOLUÇÃO ADMINISTRATIVA DE CONFLITOS
 
 Seção IV-B acrescida pelo art. 5º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DO CENTRO DE ESTUDOS E APERFEIÇOAMENTO
 
 **Art. 22** - O Centro de Estudos e Aperfeiçoamento é o órgão incumbido de promover a capacitação e o aperfeiçoamento do pessoal da Procuradoria Geral do Estado e divulgar matéria doutrinária, legislativa e jurisprudencial de seu interesse, ou por ela produzida, bem como desenvolver atividades de documentação relacionadas com as atribuições do órgão.
@@ -796,7 +854,8 @@ DO CENTRO DE ESTUDOS E APERFEIÇOAMENTO
 
 **§ 1º -** A Coordenação dos Serviços de Biblioteca, Documentação e Divulgação atuará sob a supervisão do Procurador Chefe do Centro de Estudos e Aperfeiçoamento.
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "§ 1° - A Coordenação dos Serviços de Biblioteca, Documentação e Divulgação atuará sob a supervisão do Procurador Chefe do Centro de Estudos e Aperfeiçoamento e será dirigida por 01 (um) Coordenador I, nomeado em comissão."
 
 **§ 2º -** A Coordenação dos Serviços de Biblioteca, Documentação e Divulgação  é integrada pelos seguintes órgãos:
@@ -805,7 +864,8 @@ Redação original: "§ 1° - A Coordenação dos Serviços de Biblioteca, Docum
 
 **II -**      Coordenação de Publicação e Documentação Jurídica.
 
-SEÇÃO V-A -<br>
+SEÇÃO V-A -
+
 DA COORDENAÇÃO DE CÁLCULOS E PERÍCIAS
 
  
@@ -824,10 +884,12 @@ DA COORDENAÇÃO DE CÁLCULOS E PERÍCIAS
 
 **Parágrafo único** - O titular da Coordenação de Cálculos e Perícias será escolhido dentre profissionais de escolaridade de nível superior e qualificação profissional em matéria de competência do órgão, nomeado em comissão.
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação anterior de acordo com o art. 6º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017 que acrescentou a Seção V-A a essa Lei: "Parágrafo único - A Coordenação de Cálculos e Perícias será dirigida por 01 (um) Coordenador Técnico, portador de nível de escolaridade superior e qualificação profissional em matéria de competência do órgão, nomeado em comissão." 
 
-SEÇÃO V-B -<br>
+SEÇÃO V-B -
+
 DA COORDENAÇÃO DE CONTROLE INTERNO
 
 **Art. 24-B** - A Coordenação de Controle Interno tem por finalidade desempenhar as funções de acompanhamento, controle e fiscalização da execução orçamentária, financeira e patrimonial, em estreita articulação com o órgão estadual de controle interno.
@@ -836,7 +898,8 @@ DA COORDENAÇÃO DE CONTROLE INTERNO
 
 Seção V-B acrescida pelo art. 7º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 DA DIRETORIA GERAL
 
 **Art. 25** - A Diretoria Geral da Procuradoria Geral do Estado tem a mesma estrutura, atribuições e competências definidas na legislação específica dos respectivos sistemas e funcionará sob a supervisão do Gabinete do Procurador Geral do Estado, compondo-lhe:
@@ -863,17 +926,20 @@ DA DIRETORIA GERAL
 
 **b)** Coordenação de Contabilidade Setorial.
 
-SEÇÃO VII -<br>
+SEÇÃO VII -
+
 DA COORDENAÇÃO DE GESTÃO ESTRATÉGICA
 
 **Art. 26** \- A Coordenação de Gestão Estratégica tem por finalidade promover ações integradas e otimizadas de gestão organizacional, gestão de pessoas, planejamento e tecnologias da informação e comunicação – TIC, voltadas à promoção do desempenho organizacional e fortalecimento dos resultados institucionais, no âmbito do órgão de vinculação, em articulação com as unidades de execução dos sistemas formalmente instituídos.
 
 **Art. 27** -O titular da Coordenação de Gestão Estratégica será escolhido dentre profissionais de escolaridade de nível superior e qualificação profissional em matéria de competência do órgão, nomeado em comissão.
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "Art. 27 -  A Coordenação de Gestão Estratégica atuará sob a direção de 01 (um) Coordenador I, nomeado em comissão dentre profissionais portadores de escolaridade de nível superior e qualificação profissional em matéria de competência do órgão."
 
-SEÇÃO VIII -<br>
+SEÇÃO VIII -
+
 DA COORDENAÇÃO DE DISTRIBUIÇÃO E ATENDIMENTO
 
 **Art. 28** - A Coordenação de Distribuição e Atendimento é destinada à organização e controle do fluxo de documentos e demandas, bem como ao fornecimento de informações aos interessados sobre processos e procedimentos, no âmbito da Procuradoria Geral.
@@ -890,13 +956,16 @@ DA COORDENAÇÃO DE DISTRIBUIÇÃO E ATENDIMENTO
 
 **Art. 30** - O titular da Coordenação de Distribuição e Atendimento será escolhido dentre profissionais de escolaridade de nível superior e qualificação profissional em matéria de competência do órgão, nomeado em comissão.
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "Art. 30 - A Coordenação de Distribuição e Atendimento atuará sob a direção de 01 (um) Coordenador Técnico, nomeado em comissão dentre profissionais portadores de escolaridade de nível superior."
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DAS ATRIBUIÇÕES DO PESSOAL TÉCNICO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO PROCURADOR GERAL DO ESTADO
 
 **Art. 31** - A Procuradoria Geral do Estado é dirigida pelo Procurador Geral, nomeado em comissão pelo Governador do Estado, dentre bacharéis em Direito, de reconhecido saber jurídico e reputação ilibada, após aprovação da escolha pela Assembléia Legislativa e ao qual são asseguradas as prerrogativas, representação, remuneração e impedimentos de Secretário de Estado.
@@ -943,16 +1012,20 @@ Inciso XV acrescido pelo art. 1º da Lei Complementar [nº 43](https://www.legis
 
 **Art. 33** - O Procurador Geral do Estado poderá delegar as atribuições de que trata o artigo 32 desta Lei, zelando pela observância dos limites estabelecidos no ato de delegação.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO PROCURADOR GERAL ADJUNTO PARA ASSUNTOS ADMINISTRATIVOS
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "CAPÍTULO II - DO PROCURADOR GERAL ADJUNTO"
 
  **Art. 34** \- O Procurador Geral Adjunto para Assuntos Administrativos será nomeado em comissão pelo Governador do Estado dentre os integrantes da carreira com mais de 05 (cinco) anos de efetivo exercício das funções de Procurador do Estado.
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
-Redação anterior de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020: "Art. 34 - O Procurador Geral Adjunto será nomeado em comissão pelo Governador do Estado dentre os integrantes da carreira com mais de 05 (cinco) anos de efetivo exercício das funções de Procurador do Estado."<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
+Redação anterior de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020: "Art. 34 - O Procurador Geral Adjunto será nomeado em comissão pelo Governador do Estado dentre os integrantes da carreira com mais de 05 (cinco) anos de efetivo exercício das funções de Procurador do Estado."
+
 Redação original: "Art. 34 - O Procurador Geral Adjunto será nomeado em comissão pelo Governador do Estado, dentre os integrantes da carreira de Classe Especial, com mais de 05 (cinco) anos de efetivo exercício das funções de Procurador do Estado."
 
 **Art. 35 -** Cabe ao Procurador Geral Adjunto:
@@ -965,7 +1038,8 @@ Inciso I revogado pelo art. 9º da Lei Complementar [nº 50](https://www.legisla
 
 **III -**     dirigir, coordenar e supervisionar as atividades do Gabinete e dos serviços de apoio técnico da Procuradoria Geral do Estado;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "III - dirigir, coordenar e supervisionar as atividades do Gabinete e dos serviços administrativos da Procuradoria Geral do Estado;"
 
 **III-A** -     despachar processos administrativos relativos ao quadro de pessoal da Procuradoria Geral, quando autorizado pelo Procurador Geral do Estado;
@@ -974,8 +1048,10 @@ Inciso III-A acrescido pelo art. 3º da Lei Complementar [nº 50](https://www.le
 
 **IV -**     supervisionar as atividades da Representação no Distrito Federal;
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
-Redação anterior de acordo com o art. 1º da Lei Complementar nº 43 de 25 de outubro de 2017: "IV - supervisionar as atividades da Representação no Distrito Federal;"<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
+Redação anterior de acordo com o art. 1º da Lei Complementar nº 43 de 25 de outubro de 2017: "IV - supervisionar as atividades da Representação no Distrito Federal;"
+
 Redação original: "IV - coordenar e supervisionar as atividades das Representações Regionais e da Representação junto aos Órgãos e Tribunais Federais;"
 
 **IV-A** -     supervisionar o planejamento e a execução das atividades institucionais, quando designado pelo Procurador Geral do Estado.
@@ -992,10 +1068,12 @@ Inciso IV-A acrescido pelo art. 3º da Lei Complementar [nº 50](https://www.le
 
 **Parágrafo único -** O Procurador Geral Adjunto para Assuntos Administrativos será substituído, em suas faltas e impedimentos, por um dos Chefes de Procuradoria, designados para este fim.
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "Parágrafo único - O Procurador Geral Adjunto será substituído, em suas faltas e impedimentos, por um dos Chefes de Procuradoria, designado para esse fim."
 
-CAPÍTULO II-A -<br>
+CAPÍTULO II-A -
+
 DO PROCURADOR GERAL ADJUNTO PARA ASSUNTOS JURÍDICOS
 
 CAPÍTULO II - A acrescido pelo art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
@@ -1014,14 +1092,16 @@ IV - avaliar as demandas jurídicas submetidas às Procuradorias, sugerindo ao P
 
 V **-** exercer outras atribuições que lhe sejam designadas pelo Procurador Geral do Estado.
 
-**Parágrafo único** **\-** O Procurador Geral Adjunto para Assuntos Jurídicos será substituído, em suas faltas e impedimentos, por um dos Chefes de Procuradoria, designado para esse fim.
+**Parágrafo único\-** O Procurador Geral Adjunto para Assuntos Jurídicos será substituído, em suas faltas e impedimentos, por um dos Chefes de Procuradoria, designado para esse fim.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS PROCURADORES ASSESSORES ESPECIAIS
 
 **Art. 36** - Os Procuradores Assessores Especiais serão nomeados em comissão pelo Governador do Estado dentre os integrantes da carreira.
 
-Redação de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.<br>
+Redação de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.
+
 Redação original: "Art. 36 - Os Procuradores Assessores Especiais serão nomeados em comissão pelo Governador do Estado, dentre os integrantes da carreira que tenham cumprido o estágio probatório."
 
  
@@ -1030,22 +1110,26 @@ Redação original: "Art. 36 - Os Procuradores Assessores Especiais serão nomea
 
 **I -**        assessorar o Procurador Geral do Estado, o Procurador Geral Adjunto para Assuntos Administrativos e o Procurador Geral Adjunto para Assuntos Jurídicos nos assuntos de natureza administrativa e técnico-jurídica;
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "I - assessorar o Procurador Geral do Estado e o Procurador Geral Adjunto nos assuntos de natureza técnico-jurídica e administrativa;"
 
 **II -**      manifestar-se, quando for o caso, sobre os pareceres emitidos ou aprovados pelos Procuradores Chefes e, originariamente, nos processos e expedientes que lhes sejam distribuídos;
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "II - rever, quando for o caso, pareceres emitidos ou aprovados pelos Procuradores Chefes e manifestar-se, originariamente, nos processos e expedientes que lhes sejam distribuídos;"
 
 **III -**     participar da elaboração de anteprojetos de leis, decretos, regulamentos e outros atos normativos, exposições de motivos e razões de veto;
 
 **IV -**     exercer outras atribuições que lhes sejam designadas pelo Procurador Geral do Estado.
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "IV - exercer outras atribuições que lhes sejam designadas pelo Procurador Geral do Estado ou pelo Procurador Geral Adjunto."
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOS PROCURADORES CHEFES
 
 **Art. 38** - Os Procuradores Chefes serão nomeados dentre integrantes da carreira, com mais de 05 (cinco) anos de efetivo exercício das funções inerentes ao cargo de Procurador do Estado.
@@ -1058,12 +1142,14 @@ DOS PROCURADORES CHEFES
 
 **III -**     promover a constante integração com os Núcleos Setoriais e os Núcleos Regionais, cumprindo-lhe mantê-los permanentemente informados sobre a orientação jurídica prevalecente da Procuradoria;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "III - promover a constante integração com os Núcleos Setoriais de Procuradoria e as Representações Regionais, cumprindo-lhe mantê-los permanentemente informados sobre a orientação jurídica prevalecente da Procuradoria;"
 
 **IV -**     conhecer dos pareceres expedidos ou aprovados pelo Procurador Geral do Estado ou pelo Procurador Geral Adjunto para Assuntos Jurídicos, transmitindo às unidades sob sua vinculação técnica, bem como aos órgãos jurídicos do Estado, a orientação adotada;
 
-Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.<br>
+Redação de acordo com o art. 3º da Lei Complementar [nº 50](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-50-de-17-de-junho-de-2021) de 17 de junho de 2021.
+
 Redação original: "IV - conhecer dos pareceres expedidos ou aprovados pelo Procurador Geral do Estado, transmitindo às unidades sob sua vinculação técnica a orientação jurídica adotada;"
 
 **V -**      acompanhar as atividades dos órgãos técnico-jurídicos das entidades da Administração Indireta, objetivando a conveniência da preservação da uniformidade de orientação, no âmbito da Administração Pública;
@@ -1076,19 +1162,22 @@ Redação original: "IV - conhecer dos pareceres expedidos ou aprovados pelo Pro
 
 **IX -**     acompanhar, permanentemente, a manifestação nos processos administrativos ou judiciais, objetivando a uniformização de orientação jurídica sobre as matérias de competência da respectiva Procuradoria;
 
-Redação de acordo com o art. 1º da Lei Complementar[nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar[nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "IX - acompanhar, permanentemente, através dos Procuradores Assistentes e de inspeções locais, a manifestação nos processos administrativos ou judiciais em curso nos Núcleos de Procuradoria, nos Núcleos Setoriais de Procuradoria, nas Representações Regionais e na Representação junto aos Órgãos e Tribunais Federais, objetivando a uniformidade de orientação jurídica sobre as matérias de competência da respectiva Procuradoria;"
 
 **X -**      entender-se com os Procuradores Assistentes e outros Procuradores sob sua chefia para discussão de assunto de interesse comum;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "X - entender-se com os Procuradores Assistentes para discussão de assunto de interesse comum;"
 
 **XI -**     indicar temas para exame e discussão nas reuniões promovidas pelos Núcleos de Procuradoria ou pelo Centro de Estudos e Aperfeiçoamento;
 
 **XII -**   proceder, trimestralmente, à avaliação de desempenho dos Procuradores sob sua chefia imediata, encaminhando o resultado ao Procurador Geral do Estado;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "XII - proceder, trimestralmente, à avaliação de desempenho dos Procuradores Assistentes sob sua chefia, encaminhando o resultado ao Procurador Geral do Estado;"
 
 **XIII -** propor à autoridade competente medidas necessárias ao aperfeiçoamento e à eficiência dos serviços;
@@ -1101,16 +1190,20 @@ Redação original: "XII - proceder, trimestralmente, à avaliação de desempen
 
 **§ 3º** \- O Procurador Chefe será substituído, nas suas ausências e impedimentos, por um dos Procuradores Assistentes, designado por ato do Procurador Geral do Estado.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DOS PROCURADORES ASSISTENTES
 
  
 
 **Art. 40** - Nas Procuradorias e na Representação no Distrito Federal servirão Procuradores Assistentes, de acordo com a respectiva necessidade, nomeados em comissão pelo Governador do Estado dentre os integrantes da carreira.
 
-Redação de acordo com o art. 2º Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.<br>
-Redação anterior "Art. 40 - Nas Procuradorias e na Representação no Distrito Federal servirão Procuradores Assistentes, de acordo com a respectiva necessidade, nomeados em comissão dentre integrantes da carreira que tenham cumprido o período de estágio probatório. "<br>
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 2º Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.
+
+Redação anterior "Art. 40 - Nas Procuradorias e na Representação no Distrito Federal servirão Procuradores Assistentes, de acordo com a respectiva necessidade, nomeados em comissão dentre integrantes da carreira que tenham cumprido o período de estágio probatório. "
+
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "Art. 40 - Em cada Procuradoria servirão Procuradores Assistentes, de acordo com a respectiva necessidade, nomeados em comissão dentre integrantes da carreira que tenham cumprido o período de estágio probatório."
 
  
@@ -1119,26 +1212,30 @@ Redação original: "Art. 40 - Em cada Procuradoria servirão Procuradores Assis
 
 **I -**        coordenar os Núcleos de Procuradoria, os Núcleos Setoriais de Procuradoria e, quando cabível, os Núcleos Regionais da Procuradoria do Interior e a Representação no Distrito Federal;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "I - coordenar os Núcleos de Procuradoria e os Núcleos Setoriais de Procuradoria e, quando cabível, as Representações Regionais e a Representação junto aos Órgãos e Tribunais Federais;"
 
 **II -**      manifestar-se em caráter conclusivo sobre pareceres emitidos nos Núcleos de Procuradoria, nos Núcleos Setoriais de Procuradoria e, quando cabível, nos Núcleos Regionais da Procuradoria do Interior e na Representação no Distrito Federal, submetendo-os ao Procurador Chefe apenas quando se tratar de questões de significativo interesse sistêmico, ou das quais possam resultar prejuízos ao Erário estadual;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "II - manifestar-se em caráter conclusivo sobre pareceres emitidos pelos Procuradores lotados no Núcleo de Procuradoria ou no Núcleo Setorial de Procuradoria, submetendo-os ao Procurador Chefe apenas quando se tratar de questões de significativo interesse sistêmico, ou das quais possam resultar prejuízos ao Erário estadual;"
 
 **III -**     organizar grupos de trabalho para estudo de temas jurídicos relevantes que estejam a reclamar uniformidade de orientação;
 
 **IV -**     promover reuniões dos integrantes de Núcleo de Procuradoria, de Núcleo Setorial de Procuradoria, de Núcleo Regional da Procuradoria do Interior ou da Representação no Distrito Federal para uniformização de entendimento sobre matérias previamente indicadas;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "IV - promover reuniões dos integrantes do Núcleo de Procuradoria ou do Núcleo Setorial de Procuradoria para uniformização de entendimento sobre matérias previamente indicadas;"
 
 **V -**      oficiar em processos que lhe sejam distribuídos pelo Procurador Chefe;
 
 **VI -**     avaliar o desempenho dos Procuradores integrantes de Núcleo de Procuradoria, de Núcleo Setorial de Procuradoria, de Núcleo Regional da Procuradoria do Interior e da Representação no Distrito Federal, encaminhando o respectivo resultado ao Procurador Chefe;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "VI - avaliar o desempenho dos Procuradores integrantes do Núcleo de Procuradoria ou do Núcleo Setorial de Procuradoria, encaminhando o respectivo resultado ao Procurador Chefe;"
 
 **VII -**   consolidar e encaminhar ao Chefe de Procuradoria os relatórios anuais das atividades da unidade sob sua coordenação;
@@ -1147,38 +1244,46 @@ Redação original: "VI - avaliar o desempenho dos Procuradores integrantes do N
 
 **IX -**     exercer outras atribuições que lhe sejam designadas pelo Chefe de Procuradoria ou pelo Procurador Geral do Estado.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DOS PROCURADORES DO ESTADO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA CARREIRA DE PROCURADOR DO ESTADO
 
 **Art. 42** - O quadro de pessoal técnico-jurídico da Procuradoria Geral do Estado é constituído de 300 (trezentos) cargos de Procurador do Estado, organizados em carreira e escalonados em 04 (quatro) classes, compreendendo:
 
 **I -**        68 (sessenta e oito) cargos de Procurador do Estado de Classe Especial;
 
-Redação de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.<br>
+Redação de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.
+
 Redação original: "I -  - 65 (sessenta e cinco) cargos de Procurador do Estado de Classe Especial;"
 
 **II -**      74 (setenta e quatro) cargos de Procurador do Estado de 1ª Classe;
 
-Redação de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.<br>
+Redação de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.
+
 Redação original: "II - 71 (setenta e um) cargos de Procurador do Estado de 1ª Classe;"
 
 **III -**     78 (setenta e oito) cargos de Procurador do Estado de 2ª Classe;
 
-Redação de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.<br>
+Redação de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.
+
 Redação original: "III - "78 (setenta e oito) cargos de Procurador do Estado de 2ª Classe;
 
 **IV -**     80 (oitenta) cargos de Procurador do Estado de 3ª Classe.
 
-Redação de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.<br>
+Redação de acordo com o art. 2º  da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.
+
 Redação original: "IV - "86 (oitenta e seis) cargos de Procurador do Estado de 3ª Classe.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DO INGRESSO NA CARREIRA E DA PROMOÇÃO
 
-Subseção I -<br>
+Subseção I -
+
 Do Ingresso na Carreira
 
 **Art. 43** \- O ingresso na carreira far-se-á na 3ª Classe, por nomeação precedida de concurso público de provas e títulos, dentre bacharéis em Direito que, na data da nomeação, tenham concluído o curso há mais de 02 (dois) anos.
@@ -1187,7 +1292,8 @@ Do Ingresso na Carreira
 
 **Art. 44** \- O edital de concurso para ingresso na carreira de Procurador do Estado indicará o número de vagas existentes, inclusive para preenchimento nas Representações Regionais e na Representação junto aos Órgãos e Tribunais Federais.
 
-Subseção II -<br>
+Subseção II -
+
 Da Promoção
 
 **Art. 45** \- O provimento dos cargos das classes imediatamente seguintes à inicial dar-se-á por promoção, obedecidos os critérios alternados de 02 (duas) por merecimento e 01 (uma) por antigüidade, observado o interstício de 01 (um) ano na classe.
@@ -1240,7 +1346,8 @@ Da Promoção
 
 Art. 48-A acrescido pelo art. 2º da Lei Complementar [nº 49](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-49-de-15-de-maio-2020) de 15 de maio de 2020.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DO ESTÁGIO PROBATÓRIO
 
 **Art. 49** - O estágio probatório é o período dos 03 (três) primeiros anos de efetivo exercício do Procurador do Estado de 3ª Classe.
@@ -1261,7 +1368,8 @@ DO ESTÁGIO PROBATÓRIO
 
 **§ 2º** - Concluindo a comissão pela exoneração do Procurador, o Conselho Superior assegurar-lhe-á o prazo de 10 (dez) dias para defesa e produção de provas, após o que decidirá pelo voto de 2/3 (dois terços) dos seus membros.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO EXERCÍCIO
 
 **Art. 52** - O Procurador do Estado somente poderá afastar-se do exercício do cargo para:
@@ -1276,7 +1384,8 @@ DO EXERCÍCIO
 
 **Parágrafo único -**   Os afastamentos previstos neste artigo, quanto à remuneração, observarão a legislação específica do Estado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS DIREITOS E GARANTIAS DOS PROCURADORES DO ESTADO
 
 **Art. 53** \- Constituem direitos do Procurador do Estado, além das garantias e prerrogativas inerentes à profissão de advogado:
@@ -1299,10 +1408,12 @@ DOS DIREITOS E GARANTIAS DOS PROCURADORES DO ESTADO
 
 **IX -**     uso de identificação funcional específica.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS DEVERES, PROIBIÇÕES E IMPEDIMENTOS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DOS DEVERES
 
 **Art. 54** \- São deveres do Procurador do Estado, além dos previstos no Estatuto dos Servidores Públicos Civis do Estado da Bahia e da Ordem dos Advogados do Brasil, os seguintes:
@@ -1315,7 +1426,8 @@ DOS DEVERES
 
 **IV -**     desempenhar suas funções, com zelo e presteza, cumprindo diligentemente suas tarefas, com observância aos prazos legais;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "IV - desempenhar suas funções e tarefas, com zelo e presteza;"
 
 **V -**      representar ao órgão ou poder competente contra agentes públicos por falta de exação no cumprimento do dever;
@@ -1326,7 +1438,8 @@ Redação original: "IV - desempenhar suas funções e tarefas, com zelo e prest
 
 **§ 2º** - O Procurador do Estado deverá fixar domicílio na sede do órgão para o qual for designado.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS PROIBIÇÕES
 
 **Art. 55** \- Além das proibições decorrentes do exercício de cargo público, ao Procurador do Estado é vedado:
@@ -1339,7 +1452,8 @@ DAS PROIBIÇÕES
 
 **IV -**     manifestar-se, por qualquer meio de divulgação, sobre assuntos submetidos a seu estudo e parecer, salvo se autorizado pelo Procurador Geral do Estado ou, quando for o caso, no livre exercício do direito de resposta.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DOS IMPEDIMENTOS
 
 **Art. 56** - É defeso ao Procurador do Estado atuar, nessa qualidade, em processo administrativo ou judicial:
@@ -1364,16 +1478,20 @@ DOS IMPEDIMENTOS
 
 **Art. 58** \- O Procurador do Estado não poderá participar de comissão ou banca examinadora de concurso, intervir no seu julgamento ou votar sobre organização de lista de promoção, quando estiver concorrendo parente consangüíneo ou afim, em linha reta ou colateral, até o 3º grau, seu cônjuge ou quem viva em sua companhia.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOS VENCIMENTOS E DAS VANTAGENS
 
 **Art. 59** - O Adicional por Assistência Intensiva e Imediata passará a ser denominado Adicional de Dedicação Exclusiva.
 
 **Art. 60** - A remuneração dos Procuradores do Estado será composta de vencimento básico e das seguintes vantagens:
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
-Redação original: "Art. 60 - A remuneração dos Procuradores do Estado será composta de vencimento básico, honorários advocatícios e das seguintes vantagens:"<br>
-Regulamentado pelo Decreto nº [11.808](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11808-de-28-de-outubro-de-2009), de 28 de outubro de 2009.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
+Redação original: "Art. 60 - A remuneração dos Procuradores do Estado será composta de vencimento básico, honorários advocatícios e das seguintes vantagens:"
+
+Regulamentado pelo Decreto nº [11.808](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11808-de-28-de-outubro-de-2009), de 28 de outubro de 2009.
+
 Regulamentado pelo Decreto nº [11.463](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11463-de-12-de-marco-de-2009), de 12 de março de 2009.
 
 **I -**        Gratificação Especial de Produtividade, no percentual de até 80% (oitenta por cento) do vencimento básico da Classe a que pertencer o Procurador, de acordo com os critérios e limites estabelecidos em regulamento;
@@ -1388,7 +1506,8 @@ Regulamentado pelo Decreto nº [11.463](https://www.legislabahia.ba.gov.br/docum
 
 **Art. 61** - Aplicam-se aos Procuradores do Estado, no que couber, as disposições constitucionais e legais relativas aos servidores públicos civis do Estado da Bahia.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO REGIME DISCIPLINAR
 
 **Art. 62** \- Os Procuradores do Estado ficam sujeitos às seguintes sanções disciplinares:
@@ -1465,7 +1584,8 @@ DO REGIME DISCIPLINAR
 
 **Art. 69** - Aplicam-se ao processo administrativo disciplinar e às sindicâncias as normas estabelecidas para os processos de igual natureza relativos aos servidores públicos civis do Estado.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DO PESSOAL DE APOIO ADMINISTRATIVO
 
 **Art. 70** - Fica instituído, na Procuradoria Geral do Estado, o Grupo Ocupacional “Serviços de Apoio Técnico-Administrativo da PGE”, com a função de prestar apoio técnico e administrativo às atividades de consultoria e assessoramento jurídico e de representação judicial do Estado, sendo integrado pelos cargos de Analista de Procuradoria e Assistente de Procuradoria, nos quantitativos que constam do Anexo I desta Lei, com jornada de trabalho fixada em 40 (quarenta) horas semanais.
@@ -1498,7 +1618,8 @@ DO PESSOAL DE APOIO ADMINISTRATIVO
 
 **III -**     a Gratificação é incompatível com a percepção das Gratificações pelo Regime de Tempo Integral e Dedicação Exclusiva - RTI, por Produtividade e por Competência;
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "III - a Gratificação é incompatível com a percepção das Gratificações pelo Regime de Tempo Integral e Dedicação Exclusiva - RTI, por Condições Especiais de Trabalho – CET, por Produtividade, por Serviços Extraordinários e por Competência;"
 
 **IV -**     quando do ingresso na respectiva carreira, o servidor perceberá a Gratificação Especial de Apoio à Procuradoria – GEAP no Nível 1 da Classe I e o acesso aos níveis subseqüentes dar-se-á por progressão, na forma e condições estabelecidas em regulamento;
@@ -1515,7 +1636,8 @@ Inciso VI revogado pelo art. 25 da Lei Complementar [nº 43](https://www.legisla
 
 **§ 1º** - O Prêmio será calculado mediante rateio do percentual de 15% (quinze por cento) dos honorários advocatícios decorrentes de feitos judiciais e administrativos que envolvam o Estado da Bahia, suas autarquias e fundações representadas pela Procuradoria Geral do Estado, depositados no Fundo de Modernização da Procuradoria Geral do Estado - FMPGE no ano civil anterior ao do pagamento.
 
-Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.<br>
+Redação de acordo com o art. 1º da Lei Complementar [nº 43](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-43-de-25-de-outubro-de-2017) de 25 de outubro de 2017.
+
 Redação original: "§ 1º - O Prêmio contemplará resultado grupal e será calculado mediante o rateio do percentual de 50% (cinqüenta por cento) dos recursos provenientes do saldo dos honorários advocatícios resultantes da cobrança extrajudicial da dívida ativa do ano civil anterior ao pagamento."
 
 **§ 2º** - O Prêmio tem caráter eventual e não obrigatório e não se incorporará à remuneração do servidor, em nenhuma hipótese, nem servirá de base para cálculo de qualquer outra vantagem.
@@ -1528,12 +1650,18 @@ Redação original: "§ 1º - O Prêmio contemplará resultado grupal e será ca
 
 **II -**      quando houver faltado injustificadamente ao serviço ou tiver mais de 09 (nove) atrasos superiores a 15 (quinze) minutos no período que serviu de base para o rateio.
 
-Art. 75 regulamentado pelo art. 5º do Decreto nº [11.464](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11464-de-12-de-marco-de-2009), de 13 de março de 2009 : " Art. 5º – O Prêmio Especial previsto no artigo 75 da Lei Complementar nº 34, de 06 de fevereiro de 2009, será concedido nos meses de março e setembro de cada ano civil, a partir do exercício de 2009, aos servidores ativos, ocupantes de cargos de provimento permanente e de cargos em comissão que atuem nos serviços de apoio técnico-administrativo do âmbito da Procuradoria Geral do Estado, com o objetivo de estimular a produtividade e o desempenho dos servidores e contribuir para a eficiência nas atividades de representação judicial e extrajudicial, de consultoria e assessoramento jurídico do Estado.<br>
-§ 1º - O prêmio contemplará resultado grupal e será calculado mediante o rateio do percentual de 50% (cinqüenta por cento) dos recursos provenientes do saldo dos honorários advocatícios resultantes da cobrança extrajudicial da dívida ativa do ano civil anterior ao pagamento.<br>
-§ 2º - O prêmio tem caráter eventual e não obrigatório e não se incorporará à remuneração do servidor, em nenhuma hipótese, nem servirá de base para cálculo de qualquer outra vantagem.<br>
-§ 3º - O prêmio será creditado ao servidor no ano civil seguinte àquele que serviu de base para o rateio, atribuído em parcelas semestrais iguais e de acordo com os valores arrecadados, não podendo ultrapassar o teto constitucional fixado para os servidores do Poder Executivo Estadual.<br>
-§ 4º - O servidor perderá o direito ao prêmio:<br>
-I - quando afastado do exercício do cargo no ano que serviu de base para o rateio, salvo nas hipóteses previstas no artigo 113 e nos incisos I, III, VII e XI do artigo 118, da Lei nº [6.677](https://www.legislabahia.ba.gov.br/documentos/lei-no-6677-de-26-de-setembro-de-1994), de 26 de setembro de 1994;<br>
+Art. 75 regulamentado pelo art. 5º do Decreto nº [11.464](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11464-de-12-de-marco-de-2009), de 13 de março de 2009 : " Art. 5º – O Prêmio Especial previsto no artigo 75 da Lei Complementar nº 34, de 06 de fevereiro de 2009, será concedido nos meses de março e setembro de cada ano civil, a partir do exercício de 2009, aos servidores ativos, ocupantes de cargos de provimento permanente e de cargos em comissão que atuem nos serviços de apoio técnico-administrativo do âmbito da Procuradoria Geral do Estado, com o objetivo de estimular a produtividade e o desempenho dos servidores e contribuir para a eficiência nas atividades de representação judicial e extrajudicial, de consultoria e assessoramento jurídico do Estado.
+
+§ 1º - O prêmio contemplará resultado grupal e será calculado mediante o rateio do percentual de 50% (cinqüenta por cento) dos recursos provenientes do saldo dos honorários advocatícios resultantes da cobrança extrajudicial da dívida ativa do ano civil anterior ao pagamento.
+
+§ 2º - O prêmio tem caráter eventual e não obrigatório e não se incorporará à remuneração do servidor, em nenhuma hipótese, nem servirá de base para cálculo de qualquer outra vantagem.
+
+§ 3º - O prêmio será creditado ao servidor no ano civil seguinte àquele que serviu de base para o rateio, atribuído em parcelas semestrais iguais e de acordo com os valores arrecadados, não podendo ultrapassar o teto constitucional fixado para os servidores do Poder Executivo Estadual.
+
+§ 4º - O servidor perderá o direito ao prêmio:
+
+I - quando afastado do exercício do cargo no ano que serviu de base para o rateio, salvo nas hipóteses previstas no artigo 113 e nos incisos I, III, VII e XI do artigo 118, da Lei nº [6.677](https://www.legislabahia.ba.gov.br/documentos/lei-no-6677-de-26-de-setembro-de-1994), de 26 de setembro de 1994;
+
 II - quando houver faltado injustificadamente ao serviço ou tiver mais de 09 (nove) atrasos superiores a 15 (quinze) minutos no período que serviu de base para o rateio."
 
 **Art. 76 -** Ficam reclassificados 18 (dezoito) cargos de Procurador Assistente, símbolo DAS-2D para o símbolo DAS-2C e 04 (quatro) cargos de Coordenador Executivo de Procuradoria, símbolo DAS-2C para o símbolo DAS-2D, do quadro da Procuradoria Geral do Estado.
@@ -1576,7 +1704,8 @@ II - quando houver faltado injustificadamente ao serviço ou tiver mais de 09 (n
 
 **Art. 80 -** Além dos titulares dos cargos integrantes das carreiras do Grupo Ocupacional Serviços de Apoio Técnico-Administrativo da PGE, poderão ser lotados no quadro de pessoal da Procuradoria Geral do Estado servidores pertencentes aos grupos ocupacionais existentes na estrutura da Administração direta, desde que não exista vedação normativa em sentido contrário.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 81 -** O Procurador Geral do Estado adotará as providências necessárias à instalação e funcionamento dos órgãos e serviços criados por esta Lei, no prazo de 180 (cento e oitenta) dias, a contar de sua publicação.
@@ -1667,497 +1796,14 @@ Eva Maria Cella Dal Chiavon
 
 Secretária da Casa Civil
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:436.95pt;border-collapse:collapse;border:none" width="583"><tbody><tr><td colspan="4" style="width:436.95pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="583"><p class="Tabela-Texto"><b>ANEXO I<br>GRUPO OCUPACIONAL<br>“SERVIÇOS DE APOIO TÉCNICO-ADMINISTRATIVO DA PGE”<br>CARGOS DE PROVIMENTO EFETIVO<br>Tabela 1</b></p></td></tr><tr><td style="width:144.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="Tabela-Texto" style="text-align:center"><b>DENOMINAÇÃO</b></p></td><td style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="84"><p align="center" class="Tabela-Texto" style="text-align:center"><b>CLASSE</b></p></td><td style="width:126.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="168"><p align="center" class="Tabela-Texto" style="text-align:center"><b>Nº DE CARGOS</b></p></td><td style="width:103.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="138"><p align="center" class="Tabela-Texto" style="text-align:center"><b>VENCIMENTO</b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:144.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p class="Tabela-Texto">Analista de Procuradoria</p></td><td style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="84"><p align="center" class="Tabela-Texto" style="text-align:center">I</p></td><td style="width:126.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="168"><p align="center" class="Tabela-Texto" style="text-align:center">30</p></td><td style="width:103.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="138"><p align="center" class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;text-align:center">1.350,00</p></td></tr><tr style="page-break-inside:avoid"><td style="width:144.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p class="Tabela-Texto">&nbsp;</p></td><td style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="84"><p align="center" class="Tabela-Texto" style="text-align:center">II</p></td><td style="width:126.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="168"><p align="center" class="Tabela-Texto" style="text-align:center">20</p></td><td style="width:103.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="138"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:35.45pt;text-indent:-6.2pt">1.485,00</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4" valign="top"> **ANEXO I GRUPO OCUPACIONAL “SERVIÇOS DE APOIO TÉCNICO-ADMINISTRATIVO DA PGE” CARGOS DE PROVIMENTO EFETIVO Tabela 1** </td></tr><tr><td valign="top"> **DENOMINAÇÃO** </td><td valign="top"> **CLASSE** </td><td valign="top"> **Nº DE CARGOS** </td><td valign="top"> **VENCIMENTO** </td></tr><tr><td valign="top"> Analista de Procuradoria </td><td valign="top"> I </td><td valign="top"> 30 </td><td valign="top"> 1.350,00 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> II </td><td valign="top"> 20 </td><td valign="top"> 1.485,00 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:437.25pt;border-collapse:collapse;border:none" width="583"><tbody><tr><td colspan="4" style="width:437.25pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="583"><p class="Tabela-Texto"><b>Tabela 2</b></p></td></tr><tr><td style="width:144.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p align="center" class="Tabela-Texto" style="text-align:center"><b>DENOMINAÇÃO</b></p></td><td style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="84"><p align="center" class="Tabela-Texto" style="text-align:center"><b>CLASSE</b></p></td><td style="width:126.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="168"><p align="center" class="Tabela-Texto" style="text-align:center"><b>Nº DE CARGOS</b></p></td><td style="width:103.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="138"><p align="center" class="Tabela-Texto" style="text-align:center"><b>VENCIMENTO</b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:144.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p class="Tabela-Texto">Assistente de Procuradoria</p></td><td style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="84"><p align="center" class="Tabela-Texto" style="text-align:center">I</p></td><td style="width:126.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="168"><p align="center" class="Tabela-Texto" style="text-align:center">40</p></td><td style="width:103.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="138"><p align="center" class="Tabela-Texto" style="text-align:center">591,70</p></td></tr><tr style="page-break-inside:avoid"><td style="width:144.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="193"><p class="Tabela-Texto">&nbsp;</p></td><td style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="84"><p align="center" class="Tabela-Texto" style="text-align:center">II</p></td><td style="width:126.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="168"><p align="center" class="Tabela-Texto" style="text-align:center">30</p></td><td style="width:103.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="138"><p align="center" class="Tabela-Texto" style="margin-left:35.45pt;text-align:
-  center;text-indent:-33.2pt">650,87</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4" valign="top"> **Tabela 2** </td></tr><tr><td valign="top"> **DENOMINAÇÃO** </td><td valign="top"> **CLASSE** </td><td valign="top"> **Nº DE CARGOS** </td><td valign="top"> **VENCIMENTO** </td></tr><tr><td valign="top"> Assistente de Procuradoria </td><td valign="top"> I </td><td valign="top"> 40 </td><td valign="top"> 591,70 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> II </td><td valign="top"> 30 </td><td valign="top"> 650,87 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:438.15pt;border-collapse:collapse;border:none" width="584"><tbody><tr style="page-break-inside:avoid"><td colspan="8" style="width:438.15pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="584"><p class="Tabela-Texto"><b>GRATIFICAÇÃO PELO EXERCÍCIO DE ASSISTÊNCIA EM PROCURADORIA<br>Cargo: Analista de Procuradoria<br>Tabela 3</b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:48.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="65"><p class="Tabela-Texto"><b>CLASSE</b></p></td><td colspan="7" style="width:389.4pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="519"><p align="center" class="Tabela-Texto" style="text-align:center"><b>NÍVEL</b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:48.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="65"><p class="Tabela-Texto">&nbsp;</p></td><td style="width:53.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="Tabela-Texto" style="text-align:center">1</p></td><td style="width:51.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="69"><p align="center" class="Tabela-Texto" style="text-align:center">2</p></td><td style="width:57.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p align="center" class="Tabela-Texto" style="text-align:center">3</p></td><td style="width:53.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="72"><p align="center" class="Tabela-Texto" style="text-align:center">4</p></td><td style="width:58.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="79"><p align="center" class="Tabela-Texto" style="text-align:center">5</p></td><td style="width:54.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="73"><p align="center" class="Tabela-Texto" style="text-align:center">6</p></td><td style="width:59.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="79"><p class="Tabela-Texto">7</p></td></tr><tr style="page-break-inside:avoid"><td style="width:48.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="65"><p align="center" class="Tabela-Texto" style="text-align:center">I</p></td><td style="width:53.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph">1.485,00</p></td><td style="width:51.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="69"><p align="center" class="Tabela-Texto" style="text-align:center">1.669,28</p></td><td style="width:57.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p align="center" class="Tabela-Texto" style="text-align:center">1.865,53</p></td><td style="width:53.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="72"><p align="center" class="Tabela-Texto" style="text-align:center">2.074,54</p></td><td style="width:58.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="79"><p align="center" class="Tabela-Texto" style="text-align:center">2.297,13</p></td><td style="width:54.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="73"><p align="center" class="Tabela-Texto" style="text-align:center">2.534,20</p></td><td style="width:59.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="79"><p align="center" class="Tabela-Texto" style="text-align:center">2.786,67</p></td></tr><tr style="page-break-inside:avoid"><td style="width:48.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="65"><p align="center" class="Tabela-Texto" style="text-align:center">II</p></td><td style="width:53.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="71"><p align="center" class="Tabela-Texto" style="text-align:center">2.920,55</p></td><td style="width:51.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="69"><p align="center" class="Tabela-Texto" style="text-align:center">3.206,91</p></td><td style="width:57.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p align="center" class="Tabela-Texto" style="text-align:center">3.511,89</p></td><td style="width:53.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="72"><p align="center" class="Tabela-Texto" style="text-align:center">3.836,68</p></td><td style="width:58.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="79"><p align="center" class="Tabela-Texto" style="text-align:center">4.182,59</p></td><td style="width:54.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="73"><p align="center" class="Tabela-Texto" style="text-align:center">4.550,99</p></td><td style="width:59.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="79"><p align="center" class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;text-align:center">4.943,33</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="8" valign="top"> **GRATIFICAÇÃO PELO EXERCÍCIO DE ASSISTÊNCIA EM PROCURADORIA Cargo: Analista de Procuradoria Tabela 3** </td></tr><tr><td valign="top"> **CLASSE** </td><td colspan="7" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td><td valign="top"> 4 </td><td valign="top"> 5 </td><td valign="top"> 6 </td><td valign="top"> 7 </td></tr><tr><td valign="top"> I </td><td valign="top"> 1.485,00 </td><td valign="top"> 1.669,28 </td><td valign="top"> 1.865,53 </td><td valign="top"> 2.074,54 </td><td valign="top"> 2.297,13 </td><td valign="top"> 2.534,20 </td><td valign="top"> 2.786,67 </td></tr><tr><td valign="top"> II </td><td valign="top"> 2.920,55 </td><td valign="top"> 3.206,91 </td><td valign="top"> 3.511,89 </td><td valign="top"> 3.836,68 </td><td valign="top"> 4.182,59 </td><td valign="top"> 4.550,99 </td><td valign="top"> 4.943,33 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:438.55pt;border-collapse:collapse;border:none" width="585"><tbody><tr style="page-break-inside:avoid"><td colspan="8" style="width:438.55pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="585"><p class="Tabela-Texto"><b>GRATIFICAÇÃO PELO EXERCÍCIO DE ASSISTÊNCIA EM PROCURADORIA<br>Cargo: Assistente de Procuradoria<br>Tabela 4</b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:63.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="84"><p class="Tabela-Texto"><b>CLASSE</b></p></td><td colspan="7" style="width:375.55pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="501"><p align="center" class="Tabela-Texto" style="text-align:center"><b>NÍVEL</b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:63.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="84"><p class="Tabela-Texto">&nbsp;</p></td><td style="width:49.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">1</p></td><td style="width:49.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">2</p></td><td style="width:49.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">3</p></td><td style="width:49.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">4</p></td><td style="width:54.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="72"><p align="center" class="Tabela-Texto" style="text-align:center">5</p></td><td style="width:60.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center" class="Tabela-Texto" style="text-align:center">6</p></td><td style="width:63.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85"><p align="center" class="Tabela-Texto" style="text-align:center">7</p></td></tr><tr style="page-break-inside:avoid"><td style="width:63.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="84"><p align="center" class="Tabela-Texto" style="text-align:center">I</p></td><td style="width:49.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">221,08</p></td><td style="width:49.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">302,35</p></td><td style="width:49.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">391,76</p></td><td style="width:49.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">432,39</p></td><td style="width:54.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="72"><p align="center" class="Tabela-Texto" style="text-align:center">&nbsp;&nbsp; 539,68</p></td><td style="width:60.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center" class="Tabela-Texto" style="text-align:center">&nbsp;&nbsp; 658,34</p></td><td style="width:63.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85"><p align="center" class="Tabela-Texto" style="text-align:center">&nbsp;&nbsp; 724,99</p></td></tr><tr style="page-break-inside:avoid"><td style="width:63.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="84"><p align="center" class="Tabela-Texto" style="text-align:center">II</p></td><td style="width:49.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">731,61</p></td><td style="width:49.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">800,78</p></td><td style="width:49.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">873,36</p></td><td style="width:49.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center">949,57</p></td><td style="width:54.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="72"><p align="center" class="Tabela-Texto" style="text-align:center">1.029,60</p></td><td style="width:60.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="80"><p align="center" class="Tabela-Texto" style="text-align:center">1.113,62</p></td><td style="width:63.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="85"><p align="center" class="Tabela-Texto" style="text-align:center">1.201,85</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="8" valign="top"> **GRATIFICAÇÃO PELO EXERCÍCIO DE ASSISTÊNCIA EM PROCURADORIA Cargo: Assistente de Procuradoria Tabela 4** </td></tr><tr><td valign="top"> **CLASSE** </td><td colspan="7" valign="top"> **NÍVEL** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1 </td><td valign="top"> 2 </td><td valign="top"> 3 </td><td valign="top"> 4 </td><td valign="top"> 5 </td><td valign="top"> 6 </td><td valign="top"> 7 </td></tr><tr><td valign="top"> I </td><td valign="top"> 221,08 </td><td valign="top"> 302,35 </td><td valign="top"> 391,76 </td><td valign="top"> 432,39 </td><td valign="top"> &nbsp;&nbsp; 539,68 </td><td valign="top"> &nbsp;&nbsp; 658,34 </td><td valign="top"> &nbsp;&nbsp; 724,99 </td></tr><tr><td valign="top"> II </td><td valign="top"> 731,61 </td><td valign="top"> 800,78 </td><td valign="top"> 873,36 </td><td valign="top"> 949,57 </td><td valign="top"> 1.029,60 </td><td valign="top"> 1.113,62 </td><td valign="top"> 1.201,85 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:426.6pt;border-collapse:collapse" width="569"><tbody><tr style="height:26.9pt"><td colspan="3" style="width:426.6pt;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" width="569"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><b><span style="font-family:
-  &quot;Liberation Serif&quot;,serif">ANEXO II (De acordo com o artigo 6º da Lei Complementar nº 50 de 17 de junho de 2021 - )<br>QUADRO DE CARGOS EM COMISSÃO DA PROCURADORIA GERAL DO ESTADO - PGE</span></b></p></td></tr><tr style="height:26.9pt"><td style="width:237.2pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><b><span style="font-family:
-  &quot;Liberation Serif&quot;,serif">CARGO</span></b></p></td><td style="width:72.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><b><span style="font-family:
-  &quot;Liberation Serif&quot;,serif">SÍMBOLO</span></b></p></td><td style="width:116.45pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:7.4pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><b><span style="font-family:&quot;Liberation Serif&quot;,serif">QUANTIDADE</span></b></p></td></tr><tr style="height:26.9pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Procurador Geral Adjunto para Assuntos Administrativos</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2A</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:23.2pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:23.2pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Procurador Geral Adjunto para Assuntos Jurídicos</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:23.2pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2A</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:23.2pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:21.4pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Corregedor</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2B</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:20.3pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.3pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Diretor Geral</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.3pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2B</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.3pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:21.25pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Procurador Assessor Especial</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2B</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">07</span></p></td></tr><tr style="height:20.9pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Procurador Chefe</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2B</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">06</span></p></td></tr><tr style="height:19.8pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador Executivo</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2B</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:20.8pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.8pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador de Controle Interno I</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.8pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2C</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.8pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:21.05pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.05pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador I</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.05pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2C</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.05pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">04</span></p></td></tr><tr style="height:20.7pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Diretor</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2C</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">03</span></p></td></tr><tr style="height:21.0pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.0pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Procurador Assistente</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.0pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2C</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.0pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">27</span></p></td></tr><tr style="height:20.6pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.6pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador Técnico de Procuradoria</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.6pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2D</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.6pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">04</span></p></td></tr><tr style="height:20.85pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador Técnico</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2D</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">08</span></p></td></tr><tr style="height:20.45pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Assessor de Comunicação Social I</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-3</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:21.5pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.5pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Assessor Técnico</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.5pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-3</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.5pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">08</span></p></td></tr><tr style="height:20.4pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.4pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador II</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-3</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.4pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">15</span></p></td></tr><tr style="height:20.7pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Secretário de Gabinete</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-3</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:20.9pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Assistente Orçamentário</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAI-4</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">02</span></p></td></tr><tr style="height:20.4pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.4pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador III</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAI-4</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.4pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">33</span></p></td></tr><tr style="height:20.9pt"><td style="width:237.2pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="316"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador IV</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAI-5</span></p></td><td style="width:116.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="155"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">37</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3"> **ANEXO II (De acordo com o artigo 6º da Lei Complementar nº 50 de 17 de junho de 2021 - ) QUADRO DE CARGOS EM COMISSÃO DA PROCURADORIA GERAL DO ESTADO - PGE** </td></tr><tr><td> **CARGO** </td><td> **SÍMBOLO** </td><td> **QUANTIDADE** </td></tr><tr><td valign="top"> Procurador Geral Adjunto para Assuntos Administrativos </td><td valign="top"> DAS-2A </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Procurador Geral Adjunto para Assuntos Jurídicos </td><td valign="top"> DAS-2A </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Corregedor </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor Geral </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Procurador Assessor Especial </td><td valign="top"> DAS-2B </td><td valign="top"> 07 </td></tr><tr><td valign="top"> Procurador Chefe </td><td valign="top"> DAS-2B </td><td valign="top"> 06 </td></tr><tr><td valign="top"> Coordenador Executivo </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Controle Interno I </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador I </td><td valign="top"> DAS-2C </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Diretor </td><td valign="top"> DAS-2C </td><td valign="top"> 03 </td></tr><tr><td valign="top"> Procurador Assistente </td><td valign="top"> DAS-2C </td><td valign="top"> 27 </td></tr><tr><td valign="top"> Coordenador Técnico de Procuradoria </td><td valign="top"> DAS-2D </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Coordenador Técnico </td><td valign="top"> DAS-2D </td><td valign="top"> 08 </td></tr><tr><td valign="top"> Assessor de Comunicação Social I </td><td valign="top"> DAS-3 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assessor Técnico </td><td valign="top"> DAS-3 </td><td valign="top"> 08 </td></tr><tr><td valign="top"> Coordenador II </td><td valign="top"> DAS-3 </td><td valign="top"> 15 </td></tr><tr><td valign="top"> Secretário de Gabinete </td><td valign="top"> DAS-3 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assistente Orçamentário </td><td valign="top"> DAI-4 </td><td valign="top"> 02 </td></tr><tr><td valign="top"> Coordenador III </td><td valign="top"> DAI-4 </td><td valign="top"> 33 </td></tr><tr><td valign="top"> Coordenador IV </td><td valign="top"> DAI-5 </td><td valign="top"> 37 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:427.1pt;border-collapse:collapse" width="569"><tbody><tr style="height:26.9pt"><td colspan="3" style="width:427.1pt;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" width="569"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><b><span style="font-family:
-  &quot;Liberation Serif&quot;,serif">ANEXO II (De acordo com o artigo 7º da Lei Complementar nº 50 de 17 de junho de 2021)<br>QUADRO DE CARGOS EM COMISSÃO DA PROCURADORIA GERAL DO ESTADO - PGE</span></b></p></td></tr><tr style="height:26.9pt"><td style="width:235.15pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><b><span style="font-family:
-  &quot;Liberation Serif&quot;,serif">CARGO</span></b></p></td><td style="width:72.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><b><span style="font-family:
-  &quot;Liberation Serif&quot;,serif">SÍMBOLO</span></b></p></td><td style="width:119.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:7.4pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><b><span style="font-family:&quot;Liberation Serif&quot;,serif">QUANTIDADE</span></b></p></td></tr><tr style="height:26.9pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Procurador Geral Adjunto para Assuntos Administrativos</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2A</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:23.2pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:23.2pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Procurador Geral Adjunto para Assuntos Jurídicos</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:23.2pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2A</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:23.2pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:21.4pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Corregedor</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2B</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:20.3pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.3pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Diretor Geral</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.3pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2B</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.3pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:21.25pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Procurador Assessor Especial</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2B</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">07</span></p></td></tr><tr style="height:20.9pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Procurador Chefe</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2B</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">06</span></p></td></tr><tr style="height:19.8pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador Executivo</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2B</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.8pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:20.8pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.8pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador de Controle Interno I</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.8pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2C</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.8pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:21.05pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.05pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador I</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.05pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2C</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.05pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">04</span></p></td></tr><tr style="height:20.7pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Diretor</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2C</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">03</span></p></td></tr><tr style="height:21.0pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.0pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Procurador Assistente</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.0pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2C</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.0pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">27</span></p></td></tr><tr style="height:20.6pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.6pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador Técnico de Procuradoria</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.6pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2D</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.6pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">04</span></p></td></tr><tr style="height:20.85pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador Técnico</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-2D</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">08</span></p></td></tr><tr style="height:20.5pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Assessor de Comunicação Social I</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-3</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.5pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:20.8pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.8pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Assessor Técnico</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.8pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-3</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.8pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">08</span></p></td></tr><tr style="height:21.1pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador II</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-3</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">16</span></p></td></tr><tr style="height:20.7pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Secretário de Gabinete</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAS-3</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">01</span></p></td></tr><tr style="height:21.0pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.0pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Assistente Orçamentário</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.0pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAI-4</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:21.0pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">02</span></p></td></tr><tr style="height:19.9pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.9pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador III</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.9pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAI-4</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:19.9pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">35</span></p></td></tr><tr style="height:20.9pt"><td style="width:235.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="314"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">Coordenador IV</span></p></td><td style="width:72.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt"><span style="font-family:&quot;Liberation Serif&quot;,serif">DAI-5</span></p></td><td style="width:119.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="159"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><span style="font-family:&quot;Liberation Serif&quot;,serif">39</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3"> **ANEXO II (De acordo com o artigo 7º da Lei Complementar nº 50 de 17 de junho de 2021) QUADRO DE CARGOS EM COMISSÃO DA PROCURADORIA GERAL DO ESTADO - PGE** </td></tr><tr><td> **CARGO** </td><td> **SÍMBOLO** </td><td> **QUANTIDADE** </td></tr><tr><td valign="top"> Procurador Geral Adjunto para Assuntos Administrativos </td><td valign="top"> DAS-2A </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Procurador Geral Adjunto para Assuntos Jurídicos </td><td valign="top"> DAS-2A </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Corregedor </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor Geral </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Procurador Assessor Especial </td><td valign="top"> DAS-2B </td><td valign="top"> 07 </td></tr><tr><td valign="top"> Procurador Chefe </td><td valign="top"> DAS-2B </td><td valign="top"> 06 </td></tr><tr><td valign="top"> Coordenador Executivo </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Controle Interno I </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador I </td><td valign="top"> DAS-2C </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Diretor </td><td valign="top"> DAS-2C </td><td valign="top"> 03 </td></tr><tr><td valign="top"> Procurador Assistente </td><td valign="top"> DAS-2C </td><td valign="top"> 27 </td></tr><tr><td valign="top"> Coordenador Técnico de Procuradoria </td><td valign="top"> DAS-2D </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Coordenador Técnico </td><td valign="top"> DAS-2D </td><td valign="top"> 08 </td></tr><tr><td valign="top"> Assessor de Comunicação Social I </td><td valign="top"> DAS-3 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assessor Técnico </td><td valign="top"> DAS-3 </td><td valign="top"> 08 </td></tr><tr><td valign="top"> Coordenador II </td><td valign="top"> DAS-3 </td><td valign="top"> 16 </td></tr><tr><td valign="top"> Secretário de Gabinete </td><td valign="top"> DAS-3 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assistente Orçamentário </td><td valign="top"> DAI-4 </td><td valign="top"> 02 </td></tr><tr><td valign="top"> Coordenador III </td><td valign="top"> DAI-4 </td><td valign="top"> 35 </td></tr><tr><td valign="top"> Coordenador IV </td><td valign="top"> DAI-5 </td><td valign="top"> 39 </td></tr></tbody></table>

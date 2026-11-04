@@ -1,7 +1,3 @@
-1
-
-###DEL-000471-0-000-19-02-1969@@@
-
 DECRETO-LEI Nº 471, DE 19 DE FEVEREIRO DE 1969
 
 Revoga o Decreto-lei nº 386, de 26 de dezembro de 1968.

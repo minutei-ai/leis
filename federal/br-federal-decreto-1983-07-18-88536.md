@@ -1,5 +1,3 @@
-###DEC-088536-0-000-18-07-1983@@@
-
 DECRETO Nº 88.536, de 18 de JULHO DE 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e Niterói, Estado do Rio do Janeiro; Santos, Estado de São Paulo e Paranaguá, Estado do Paraná.

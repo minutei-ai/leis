@@ -1,5 +1,3 @@
-###DEC-075059-0-000-06-12-1974@@@
-
 DECRETO Nº 75.059, DE 6 DE DEZEMBRO DE 1974.
 
 Dispõe sobre a inclusão, no orçamento federal, de dotações destinadas alo pagamento de empréstimo concedido à Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA.

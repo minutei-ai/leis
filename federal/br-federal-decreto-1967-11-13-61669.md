@@ -1,5 +1,3 @@
-###DEC-061669-0-000-13-11-1967@@@
-
 DECRETO Nº 61.669, DE 13 DE NOVEMBRO DE 1967.
 
 Abre ao Ministério da Justiça o crédito especial de NCr$3.000.000,00, para o fim que menciona.

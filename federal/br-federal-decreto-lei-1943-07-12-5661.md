@@ -1,5 +1,3 @@
-###DEL-005661-0-000-12-07-1943@@@
-
 DECRETO‑LEI N.  5.661 – De  12  DE  JULHO  DE  1943
 
 Transfere ao Banco do Brasil S.A., como agente especial do Govêrno  Federal, as atribuições de que tratam os artigos 4º , 5º e 6º do de­creto‑lei n. 4.807, de 7 de outubro de 1942, e dá outras providências

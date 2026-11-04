@@ -1,5 +1,3 @@
-###DEC-070979-0-000-14-08-1972@@@
-
 DECRETO Nº 70.979, DE 14 DE AGOSTO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de ramal de linha de transmissão, no Estado de São Paulo.

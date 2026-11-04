@@ -1,5 +1,3 @@
-###DEC-096721-0-000-19-09-1988@@@
-
 DECRETO N° 96.721, DE 19 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO REGIONAL PIRAVEVE LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Ivinhema, Estado de Mato Grosso do Sul,

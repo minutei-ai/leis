@@ -1,5 +1,3 @@
-###DEC-047506-0-000-28-12-1959@@@
-
 Decreto nº 47.506, de 28 de dezembro de 1959.
 
 Autoriza o Estado da Bahia a construir linhas de transmissão de energia elétrica.

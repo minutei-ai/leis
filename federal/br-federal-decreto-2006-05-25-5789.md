@@ -1,5 +1,3 @@
-###DEC-005789-0-000-25-05-2006@@@
-
 DECRETO Nº 5.789, DE 25 DE MAIO DE 2006.
 
 Dispõe sobre os bens amparados pelo Regime Especial de Aquisição de Bens de Capital para Empresas Exportadoras - RECAP, na forma do art. 16 da Lei nº 11.196, de 21 de novembro de 2005.

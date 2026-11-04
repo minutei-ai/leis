@@ -1,5 +1,3 @@
-###DEC-053306-0-000-16-12-1963@@@
-
 DECRETO Nº 53.306, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Geraldo Barbosa a lavrar água mineral, no município de Londrina, Estado do Paraná.

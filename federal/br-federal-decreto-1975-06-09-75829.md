@@ -1,5 +1,3 @@
-###DEC-075829-0-000-09-06-1975@@@
-
 DECRETO Nº 75.829, DE 09 DE JUNHO DE 1975.
 
 Autoriza o funcionamento do curso de Química Industrial da Faculdade de Química Janir de Carvalho, das Faculdades Reunidas Nuno Lisboa, mantida pela Sociedade Educacional "Professor Nuno Lisboa", com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

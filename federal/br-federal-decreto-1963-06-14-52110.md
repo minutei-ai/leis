@@ -1,5 +1,3 @@
-###DEC-052110-0-000-14-06-1963@@@
-
 DECRETO Nº 52.110, DE 14 DE JUNHO DE 1963.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Saúde.

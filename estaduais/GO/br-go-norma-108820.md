@@ -16,7 +16,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO ÚNICO<br>
+ANEXO ÚNICO
+
 \- [Retificado pelo Decreto nº 10.589, de 6-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110106).
 
 III – enquadramento previsto para o exercício de 2015, referente a 33% do quantitativo geral (ART. 6º DA [LEI Nº 17.916](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89871), DE 2012)
@@ -30,4 +31,42 @@ III – enquadramento previsto para o exercício de 2015, referente a 33% do qua
 
 ~~III – enquadramento previsto para o exercício de 2015, referente a 33% do quantitativo geral (ART. 6º DA [LEI Nº 17.916](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89871), DE 2012)~~
 
-<table style="font-size: 70%"><tbody><tr><td><s>NÍVEL DE ESCO-LARIDADE DO EM-PREGO</s></td><td><s>ORDEM DE CLASSI-FICAÇÃO</s></td><td><s>NOME</s></td><td><s>CPF/ME Nº</s></td><td><s>Nº DO PROCESSO DE REQUE-RIMENTO DE ANISTIA/ INCLUSÃO</s></td><td><s>DATA DE NASCI-MENTO</s></td><td><s>DATA DE ADMISSÃO</s></td><td><s>DATA DE DEMISSÃO OU DE DISPENSA</s></td><td><s>ÚLTIMO EMPREGO OCUPADO JUNTO À EXTINTA CAIXEGO</s></td><td><s>EMPREGO EQUI-VALENTE PARA ENQUA-DRAMENTO – ART. 7º DA LEI Nº 15.664, DE 2006</s></td></tr><tr><td><s>MÉDIO</s></td><td><s>1044-O</s></td><td><s>NORA NEY VARGAS</s></td><td><s>***.824.171-**</s></td><td><s>2013000 05007965/ 202400 003002584</s></td><td><s>2/12/1961</s></td><td><s>1/7/1989</s></td><td><s>1/2/1991</s></td><td><s>Escriturário I</s></td><td><s>ASSISTENTE DE GESTÃO ADMINIS-TRATIVA, CLASSE A, NÍVEL V</s></td></tr></tbody></table>
+~~NÍVEL DE ESCO-LARIDADE DO EM-PREGO~~
+
+~~ORDEM DE CLASSI-FICAÇÃO~~
+
+~~NOME~~
+
+~~CPF/ME Nº~~
+
+~~Nº DO PROCESSO DE REQUE-RIMENTO DE ANISTIA/ INCLUSÃO~~
+
+~~DATA DE NASCI-MENTO~~
+
+~~DATA DE ADMISSÃO~~
+
+~~DATA DE DEMISSÃO OU DE DISPENSA~~
+
+~~ÚLTIMO EMPREGO OCUPADO JUNTO À EXTINTA CAIXEGO~~
+
+~~EMPREGO EQUI-VALENTE PARA ENQUA-DRAMENTO – ART. 7º DA LEI Nº 15.664, DE 2006~~
+
+~~MÉDIO~~
+
+~~1044-O~~
+
+~~NORA NEY VARGAS~~
+
+~~***.824.171-**~~
+
+~~2013000 05007965/ 202400 003002584~~
+
+~~2/12/1961~~
+
+~~1/7/1989~~
+
+~~1/2/1991~~
+
+~~Escriturário I~~
+
+~~ASSISTENTE DE GESTÃO ADMINIS-TRATIVA, CLASSE A, NÍVEL V~~

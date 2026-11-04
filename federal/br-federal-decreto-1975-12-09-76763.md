@@ -1,5 +1,3 @@
-###DEC-076763-0-000-09-12-1975@@@
-
 DECRETO Nº 76.763, DE 9 DE DEZEMBRO DE 1975.
 
 Dispõe sobre as atividades médico-periciais do Serviço Público Federal Civil, extingue a Divisão Nacional de Perícias Médicas do Ministério da Saúde e dá outras providências. 

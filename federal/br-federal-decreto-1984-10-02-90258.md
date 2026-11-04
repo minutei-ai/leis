@@ -1,5 +1,3 @@
-###DEC-090258-0-000-02-10-1984@@@
-
 Decreto Nº 90.258, de 02 de outubro de 1984
 
 Outorga concessão à RÁDIO ITACAIÚNAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Marabá, Estado do Pará.

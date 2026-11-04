@@ -1,5 +1,3 @@
-###DEC-049518-0-000-12-12-1960@@@
-
 DECRETO Nº 49.518, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Heraldo de Campos Lima a pesquisar minério de ferro no município de Nova Lima, Estado de Minas .

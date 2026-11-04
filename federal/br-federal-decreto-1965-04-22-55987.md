@@ -1,5 +1,3 @@
-###DEC-055987-0-000-22-04-1965@@@
-
 decreto nº 55.987, de 22 de abril de 1965.
 
 Autoriza o cidadão brasileiro Rubens Navarro Hurtado a pesquisar caulim no município de Caieiras, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-057317-0-000-24-11-1965@@@
-
 DECRETO Nº 57.317, DE 24 DE NOVEMBRO DE 1965.
 
 Outorga a Companhia de Eletricidade do Cariri concessão no Município de Aiuaba, Estado do Ceará.

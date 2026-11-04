@@ -1,5 +1,3 @@
-###DEC-046036-0-000-18-05-1959@@@
-
 DECRETO Nº 46.036, DE 18 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Cícero Indelécio de Souza a lavrar caulim no município de Santo Antônio do Monte, Estado de Minas Gerais.

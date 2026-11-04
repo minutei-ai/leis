@@ -1,5 +1,3 @@
-###MPV-002143-0-033-31-05-2001@@@
-
 MEDIDA PROVISÓRIA N° 2.143-33, DE 31 DE MAIO DE 2001
 
 Altera dispositivos da Lei n° 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.
@@ -1178,140 +1176,349 @@ ANEXO II
 
 ESTRUTURA DE CARGOS DA CARREIRA DE PESQUISA EM CIÊNCIA E tECNOLOGIA
 
-<table>
-<tr><td>NÍVEL</td><td>CARGO</td><td>PADRÃO</td><td>CLASSE</td></tr>
-<tr><td>NS</td><td>Pesquisador</td><td>III</td><td>TITULAR</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>ASSOCIADO</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>ADJUNTO</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>ASSISTENTE DE PESQUISA</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-</table>
+NÍVEL
+
+CARGO
+
+PADRÃO
+
+CLASSE
+
+NS
+
+Pesquisador
+
+III
+
+TITULAR
+
+II
+
+I
+
+III
+
+ASSOCIADO
+
+II
+
+I
+
+III
+
+ADJUNTO
+
+II
+
+I
+
+III
+
+ASSISTENTE DE PESQUISA
+
+II
+
+I
 
 b)
 
-<table>
-<tr><td>NÍVEL</td><td>CARGO</td><td>PADRÃO</td><td>CLASSE</td></tr>
-<tr><td>NS</td><td>Tecnologista</td><td>III</td><td>SÊNIOR</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>PLENO 3</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>PLENO 2</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>PLENO 1</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>JÚNIOR</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td>NI</td><td>Técnico</td><td>III</td><td>TÉCNICO 3</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>VI</td><td>TÉCNICO 2</td></tr>
-<tr><td></td><td></td><td>V</td><td></td></tr>
-<tr><td></td><td></td><td>IV</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td></td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>VI</td><td>TÉCNICO 1</td></tr>
-<tr><td></td><td></td><td>V</td><td></td></tr>
-<tr><td></td><td></td><td>IV</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td></td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td>NA</td><td>Auxiliar-Técnico</td><td>VI</td><td>AUXILIAR TÉCNICO 2</td></tr>
-<tr><td></td><td></td><td>V</td><td></td></tr>
-<tr><td></td><td></td><td>IV</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td></td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>VI</td><td>AUXILIAR TÉCNICO 1</td></tr>
-<tr><td></td><td></td><td>V</td><td></td></tr>
-<tr><td></td><td></td><td>IV</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td></td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-</table>
+NÍVEL
+
+CARGO
+
+PADRÃO
+
+CLASSE
+
+NS
+
+Tecnologista
+
+III
+
+SÊNIOR
+
+II
+
+I
+
+III
+
+PLENO 3
+
+II
+
+I
+
+III
+
+PLENO 2
+
+II
+
+I
+
+III
+
+PLENO 1
+
+II
+
+I
+
+III
+
+JÚNIOR
+
+II
+
+I
+
+NI
+
+Técnico
+
+III
+
+TÉCNICO 3
+
+II
+
+I
+
+VI
+
+TÉCNICO 2
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+VI
+
+TÉCNICO 1
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+NA
+
+Auxiliar-Técnico
+
+VI
+
+AUXILIAR TÉCNICO 2
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+VI
+
+AUXILIAR TÉCNICO 1
+
+V
+
+IV
+
+III
+
+II
+
+I
 
 ESTRUTURA DE CARGOS DA CARREIRA DE GESTÃO, PLANEJAMENTO E INFRA-ESTRUTURA EM CIÊNCIA E TECNOLOGIA 
 
-<table>
-<tr><td>NÍVEL</td><td>CARGO</td><td>PADRÃO</td><td>CLASSE</td></tr>
-<tr><td>NS</td><td>Analista em Ciência e Tecnologia</td><td>III</td><td>SÊNIOR</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>PLENO 3</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>PLENO 2</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>PLENO 1</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td>JÚNIOR</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td>NI</td><td>Assistente em Ciência e Tecnologia</td><td>III</td><td>ASSISTENTE 3</td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>VI</td><td>ASSISTENTE 2</td></tr>
-<tr><td></td><td></td><td>V</td><td></td></tr>
-<tr><td></td><td></td><td>IV</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td></td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>VI</td><td>ASSISTENTE 1</td></tr>
-<tr><td></td><td></td><td>V</td><td></td></tr>
-<tr><td></td><td></td><td>IV</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td></td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td>NA</td><td>Auxiliar em Ciência e Tecnologia</td><td>VI</td><td>AUXILIAR 2</td></tr>
-<tr><td></td><td></td><td>V</td><td></td></tr>
-<tr><td></td><td></td><td>IV</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td></td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-<tr><td></td><td></td><td>VI</td><td>AUXILIAR 1</td></tr>
-<tr><td></td><td></td><td>V</td><td></td></tr>
-<tr><td></td><td></td><td>IV</td><td></td></tr>
-<tr><td></td><td></td><td>III</td><td></td></tr>
-<tr><td></td><td></td><td>II</td><td></td></tr>
-<tr><td></td><td></td><td>I</td><td></td></tr>
-</table>
+NÍVEL
+
+CARGO
+
+PADRÃO
+
+CLASSE
+
+NS
+
+Analista em Ciência e Tecnologia
+
+III
+
+SÊNIOR
+
+II
+
+I
+
+III
+
+PLENO 3
+
+II
+
+I
+
+III
+
+PLENO 2
+
+II
+
+I
+
+III
+
+PLENO 1
+
+II
+
+I
+
+III
+
+JÚNIOR
+
+II
+
+I
+
+NI
+
+Assistente em Ciência e Tecnologia
+
+III
+
+ASSISTENTE 3
+
+II
+
+I
+
+VI
+
+ASSISTENTE 2
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+VI
+
+ASSISTENTE 1
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+NA
+
+Auxiliar em Ciência e Tecnologia
+
+VI
+
+AUXILIAR 2
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+VI
+
+AUXILIAR 1
+
+V
+
+IV
+
+III
+
+II
+
+I
 
 ANEXO III
 
 ESTRUTURA DE CARGOS
 
-<table>
-<tr><td>CARGO</td><td>PADRÃO</td><td>CATEGORIA</td></tr>
-<tr><td>Procurador Federal</td><td>III</td><td>ESPECIAL</td></tr>
-<tr><td></td><td>II</td><td></td></tr>
-<tr><td></td><td>I</td><td></td></tr>
-<tr><td></td><td>V</td><td>PRIMEIRA</td></tr>
-<tr><td></td><td>IV</td><td></td></tr>
-<tr><td></td><td>III</td><td></td></tr>
-<tr><td></td><td>II</td><td></td></tr>
-<tr><td></td><td>I</td><td></td></tr>
-<tr><td></td><td>VII</td><td>SEGUNDA</td></tr>
-<tr><td></td><td>VI</td><td></td></tr>
-<tr><td></td><td>V</td><td></td></tr>
-<tr><td></td><td>IV</td><td></td></tr>
-<tr><td></td><td>III</td><td></td></tr>
-<tr><td></td><td>II</td><td></td></tr>
-<tr><td></td><td>I</td><td></td></tr>
-</table>
+CARGO
+
+PADRÃO
+
+CATEGORIA
+
+Procurador Federal
+
+III
+
+ESPECIAL
+
+II
+
+I
+
+V
+
+PRIMEIRA
+
+IV
+
+III
+
+II
+
+I
+
+VII
+
+SEGUNDA
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
 
 ANEXO IV
 
@@ -1498,65 +1705,237 @@ ANEXO VII
 
 TABELA DE VENCIMENTO
 
-<table>
-<tr><td>CARGO</td><td>CLASSE</td><td>PADRÃO</td><td>VALOR (EM R $)</td></tr>
-<tr><td>Analista de Finanças e Controle, Analista de Planejamento e Orçamento, Analista de Comércio Exterior, Especialista em Políticas Públicas e Gestão Governamental, Técnico de Planejamento P-1501 do Grupo P-1500, Técnico de Planejamento e Pesquisa, demais cargos de nível superior do Instituto de Pesquisa Econômica Aplicada -IPEA Inspetor e Analista da CVM Analista Técnico da SUSEP</td><td>ESPECIAL</td><td>IV</td><td>4.490,21</td></tr>
-<tr><td></td><td></td><td>III</td><td>4.359,01</td></tr>
-<tr><td></td><td></td><td>II</td><td>4.232,05</td></tr>
-<tr><td></td><td></td><td>I</td><td>4.108,78</td></tr>
-<tr><td></td><td>C</td><td>VII</td><td>3.950,75</td></tr>
-<tr><td></td><td></td><td>VI</td><td>3.835,68</td></tr>
-<tr><td></td><td></td><td>V</td><td>3.723,96</td></tr>
-<tr><td></td><td></td><td>IV</td><td>3.615,50</td></tr>
-<tr><td></td><td></td><td>III</td><td>3.510,19</td></tr>
-<tr><td></td><td></td><td>II</td><td>3.407,95</td></tr>
-<tr><td></td><td></td><td>I</td><td>3.308,69</td></tr>
-<tr><td></td><td>B</td><td>VII</td><td>3.181,44</td></tr>
-<tr><td></td><td></td><td>VI</td><td>3.112,95</td></tr>
-<tr><td></td><td></td><td>V</td><td>3.045,94</td></tr>
-<tr><td></td><td></td><td>IV</td><td>2.980,37</td></tr>
-<tr><td></td><td></td><td>III</td><td>2.916,22</td></tr>
-<tr><td></td><td></td><td>II</td><td>2.853,44</td></tr>
-<tr><td></td><td></td><td>I</td><td>2.792,02</td></tr>
-<tr><td></td><td>A</td><td>VI</td><td>2.684,63</td></tr>
-<tr><td></td><td></td><td>V</td><td>2.603,91</td></tr>
-<tr><td></td><td></td><td>IV</td><td>2.515,85</td></tr>
-<tr><td></td><td></td><td>III</td><td>2.440,21</td></tr>
-<tr><td></td><td></td><td>II</td><td>2.366,84</td></tr>
-<tr><td></td><td></td><td>I</td><td>2.295,67</td></tr>
-</table>
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EM R $)
+
+Analista de Finanças e Controle, Analista de Planejamento e Orçamento, Analista de Comércio Exterior, Especialista em Políticas Públicas e Gestão Governamental, Técnico de Planejamento P-1501 do Grupo P-1500, Técnico de Planejamento e Pesquisa, demais cargos de nível superior do Instituto de Pesquisa Econômica Aplicada -IPEA Inspetor e Analista da CVM Analista Técnico da SUSEP
+
+ESPECIAL
+
+IV
+
+4.490,21
+
+III
+
+4.359,01
+
+II
+
+4.232,05
+
+I
+
+4.108,78
+
+C
+
+VII
+
+3.950,75
+
+VI
+
+3.835,68
+
+V
+
+3.723,96
+
+IV
+
+3.615,50
+
+III
+
+3.510,19
+
+II
+
+3.407,95
+
+I
+
+3.308,69
+
+B
+
+VII
+
+3.181,44
+
+VI
+
+3.112,95
+
+V
+
+3.045,94
+
+IV
+
+2.980,37
+
+III
+
+2.916,22
+
+II
+
+2.853,44
+
+I
+
+2.792,02
+
+A
+
+VI
+
+2.684,63
+
+V
+
+2.603,91
+
+IV
+
+2.515,85
+
+III
+
+2.440,21
+
+II
+
+2.366,84
+
+I
+
+2.295,67
 
 ANEXO VIII
 
 TABELA DE VENCIMENTO
 
-<table>
-<tr><td>CARGO</td><td>CLASSE</td><td>PADRÃO</td><td>VALOR (EM R $)</td></tr>
-<tr><td>Técnico de Finanças e Controle, Técnico de Planejamento e Orçamento e cargos de nível intermediário do Instituto de Pesquisa Econômica Aplicada -IPEA</td><td>ESPECIAL</td><td>IV</td><td>1.467,80</td></tr>
-<tr><td></td><td></td><td>III</td><td>1.441,85</td></tr>
-<tr><td></td><td></td><td>II</td><td>1.417,75</td></tr>
-<tr><td></td><td></td><td>I</td><td>1.395,42</td></tr>
-<tr><td></td><td>C</td><td>VII</td><td>1.362,72</td></tr>
-<tr><td></td><td></td><td>VI</td><td>1.338,62</td></tr>
-<tr><td></td><td></td><td>V</td><td>1.316,25</td></tr>
-<tr><td></td><td></td><td>IV</td><td>1.295,52</td></tr>
-<tr><td></td><td></td><td>III</td><td>1.276,37</td></tr>
-<tr><td></td><td></td><td>II</td><td>1.258,75</td></tr>
-<tr><td></td><td></td><td>I</td><td>1.241,37</td></tr>
-<tr><td></td><td>B</td><td>VII</td><td>1.211,09</td></tr>
-<tr><td></td><td></td><td>VI</td><td>1.189,68</td></tr>
-<tr><td></td><td></td><td>V</td><td>1.168,64</td></tr>
-<tr><td></td><td></td><td>IV</td><td>1.147,98</td></tr>
-<tr><td></td><td></td><td>III</td><td>1.127,68</td></tr>
-<tr><td></td><td></td><td>II</td><td>1.107,74</td></tr>
-<tr><td></td><td></td><td>I</td><td>1.088,15</td></tr>
-<tr><td></td><td>A</td><td>VI</td><td>1.056,46</td></tr>
-<tr><td></td><td></td><td>V</td><td>1.032,71</td></tr>
-<tr><td></td><td></td><td>IV</td><td>1.008,50</td></tr>
-<tr><td></td><td></td><td>III</td><td>985,83</td></tr>
-<tr><td></td><td></td><td>II</td><td>963,67</td></tr>
-<tr><td></td><td></td><td>I</td><td>942,00</td></tr>
-</table>
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EM R $)
+
+Técnico de Finanças e Controle, Técnico de Planejamento e Orçamento e cargos de nível intermediário do Instituto de Pesquisa Econômica Aplicada -IPEA
+
+ESPECIAL
+
+IV
+
+1.467,80
+
+III
+
+1.441,85
+
+II
+
+1.417,75
+
+I
+
+1.395,42
+
+C
+
+VII
+
+1.362,72
+
+VI
+
+1.338,62
+
+V
+
+1.316,25
+
+IV
+
+1.295,52
+
+III
+
+1.276,37
+
+II
+
+1.258,75
+
+I
+
+1.241,37
+
+B
+
+VII
+
+1.211,09
+
+VI
+
+1.189,68
+
+V
+
+1.168,64
+
+IV
+
+1.147,98
+
+III
+
+1.127,68
+
+II
+
+1.107,74
+
+I
+
+1.088,15
+
+A
+
+VI
+
+1.056,46
+
+V
+
+1.032,71
+
+IV
+
+1.008,50
+
+III
+
+985,83
+
+II
+
+963,67
+
+I
+
+942,00
 
 ANEXO XI
 
@@ -1611,133 +1990,549 @@ ANEXO X
 
 TABELA DE VENCIMENTO
 
-<table>
-<tr><td>CARGO</td><td>CLASSE</td><td>PADRÃO</td><td>VALOR (EM R $)</td></tr>
-<tr><td>Fiscal Federal Agropecuário</td><td>ESPECIAL</td><td>III</td><td>3.400,55</td></tr>
-<tr><td></td><td></td><td>II</td><td>3.288,34</td></tr>
-<tr><td></td><td></td><td>I</td><td>3.179,82</td></tr>
-<tr><td></td><td>C</td><td>VI</td><td>3.017,65</td></tr>
-<tr><td></td><td></td><td>V</td><td>2.918,07</td></tr>
-<tr><td></td><td></td><td>IV</td><td>2.821,77</td></tr>
-<tr><td></td><td></td><td>III</td><td>2.728,65</td></tr>
-<tr><td></td><td></td><td>II</td><td>2.638,61</td></tr>
-<tr><td></td><td></td><td>I</td><td>2.551,53</td></tr>
-<tr><td></td><td>B</td><td>VI</td><td>2.421,40</td></tr>
-<tr><td></td><td></td><td>V</td><td>2.341,50</td></tr>
-<tr><td></td><td></td><td>IV</td><td>2.264,23</td></tr>
-<tr><td></td><td></td><td>III</td><td>2.189,51</td></tr>
-<tr><td></td><td></td><td>II</td><td>2.117,26</td></tr>
-<tr><td></td><td></td><td>I</td><td>2.047,39</td></tr>
-<tr><td></td><td>A</td><td>V</td><td>1.942,97</td></tr>
-<tr><td></td><td></td><td>IV</td><td>1.878,85</td></tr>
-<tr><td></td><td></td><td>III</td><td>1.816,85</td></tr>
-<tr><td></td><td></td><td>II</td><td>1.756,89</td></tr>
-<tr><td></td><td></td><td>I</td><td>1.698,92</td></tr>
-</table>
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EM R $)
+
+Fiscal Federal Agropecuário
+
+ESPECIAL
+
+III
+
+3.400,55
+
+II
+
+3.288,34
+
+I
+
+3.179,82
+
+C
+
+VI
+
+3.017,65
+
+V
+
+2.918,07
+
+IV
+
+2.821,77
+
+III
+
+2.728,65
+
+II
+
+2.638,61
+
+I
+
+2.551,53
+
+B
+
+VI
+
+2.421,40
+
+V
+
+2.341,50
+
+IV
+
+2.264,23
+
+III
+
+2.189,51
+
+II
+
+2.117,26
+
+I
+
+2.047,39
+
+A
+
+V
+
+1.942,97
+
+IV
+
+1.878,85
+
+III
+
+1.816,85
+
+II
+
+1.756,89
+
+I
+
+1.698,92
 
 ANEXO XI
 
 TABELA DE VENCIMENTO
 
-<table>
-<tr><td>CARGO</td><td>CATEGORIA</td><td>PADRÃO</td><td>VALOR (EM REAIS)</td></tr>
-<tr><td>Produtor Federal Advogado da União Assistente Judídico da Advocacia-Geral da União Defensor Público da União Procurador da Procuradoria Especial da Marinha</td><td>ESPECIAL</td><td>III</td><td>5.445,34</td></tr>
-<tr><td></td><td></td><td>II</td><td>5.309,16</td></tr>
-<tr><td></td><td></td><td>I</td><td>5.176,14</td></tr>
-<tr><td></td><td>PRIMEIRA</td><td>V</td><td>4.883,15</td></tr>
-<tr><td></td><td></td><td>IV</td><td>4.749,68</td></tr>
-<tr><td></td><td></td><td>III</td><td>4.619,86</td></tr>
-<tr><td></td><td></td><td>II</td><td>4.493,59</td></tr>
-<tr><td></td><td></td><td>I</td><td>4.370,77</td></tr>
-<tr><td></td><td>SEGUNDA</td><td>VII</td><td>4.123,37</td></tr>
-<tr><td></td><td></td><td>VI</td><td>3.927,02</td></tr>
-<tr><td></td><td></td><td>V</td><td>3.740,02</td></tr>
-<tr><td></td><td></td><td>IV</td><td>3.561,92</td></tr>
-<tr><td></td><td></td><td>III</td><td>3.392,31</td></tr>
-<tr><td></td><td></td><td>II</td><td>3.230,77</td></tr>
-<tr><td></td><td></td><td>I</td><td>3.076,92</td></tr>
-</table>
+CARGO
+
+CATEGORIA
+
+PADRÃO
+
+VALOR (EM REAIS)
+
+Produtor Federal Advogado da União Assistente Judídico da Advocacia-Geral da União Defensor Público da União Procurador da Procuradoria Especial da Marinha
+
+ESPECIAL
+
+III
+
+5.445,34
+
+II
+
+5.309,16
+
+I
+
+5.176,14
+
+PRIMEIRA
+
+V
+
+4.883,15
+
+IV
+
+4.749,68
+
+III
+
+4.619,86
+
+II
+
+4.493,59
+
+I
+
+4.370,77
+
+SEGUNDA
+
+VII
+
+4.123,37
+
+VI
+
+3.927,02
+
+V
+
+3.740,02
+
+IV
+
+3.561,92
+
+III
+
+3.392,31
+
+II
+
+3.230,77
+
+I
+
+3.076,92
 
 ANEXO XII
 
 TABELAS DE VENCIMENTO
 
-<table>
-<tr><td>CARGO</td><td>CLASSE</td><td>PADRÃO</td><td>VALOR (EM R $)</td></tr>
-<tr><td>Analista do Banco Central</td><td>A</td><td>IV</td><td>3.903,30</td></tr>
-<tr><td></td><td></td><td>III</td><td>3.614,10</td></tr>
-<tr><td></td><td></td><td>II</td><td>3.361,24</td></tr>
-<tr><td></td><td></td><td>I</td><td>3.144,29</td></tr>
-<tr><td></td><td>B</td><td>IV</td><td>2.957,24</td></tr>
-<tr><td></td><td></td><td>III</td><td>2.796,44</td></tr>
-<tr><td></td><td></td><td>II</td><td>2.658,85</td></tr>
-<tr><td></td><td></td><td>I</td><td>2.541,92</td></tr>
-<tr><td></td><td>C</td><td>IV</td><td>2.443,57</td></tr>
-<tr><td></td><td></td><td>III</td><td>2.362,08</td></tr>
-<tr><td></td><td></td><td>II</td><td>2.296,06</td></tr>
-<tr><td></td><td></td><td>I</td><td>2.244,44</td></tr>
-<tr><td></td><td>D</td><td>III</td><td>2.206,38</td></tr>
-<tr><td></td><td></td><td>II</td><td>2.150,00</td></tr>
-<tr><td></td><td></td><td>I</td><td>2.007,78</td></tr>
-<tr><td>Técnico do Banco Central</td><td>A</td><td>IV</td><td>1.165,01</td></tr>
-<tr><td></td><td></td><td>III</td><td>1.130,69</td></tr>
-<tr><td></td><td></td><td>II</td><td>1.087,01</td></tr>
-<tr><td></td><td></td><td>I</td><td>1.045,20</td></tr>
-<tr><td></td><td>B</td><td>IV</td><td>1.004,95</td></tr>
-<tr><td></td><td></td><td>III</td><td>966,26</td></tr>
-<tr><td></td><td></td><td>II</td><td>920,09</td></tr>
-<tr><td></td><td></td><td>I</td><td>876,10</td></tr>
-<tr><td></td><td>C</td><td>IV</td><td>834,29</td></tr>
-<tr><td></td><td></td><td>III</td><td>794,35</td></tr>
-<tr><td></td><td></td><td>II</td><td>749,11</td></tr>
-<tr><td></td><td></td><td>I</td><td>706,68</td></tr>
-<tr><td></td><td>D</td><td>III</td><td>666,43</td></tr>
-<tr><td></td><td></td><td>II</td><td>628,68</td></tr>
-<tr><td></td><td></td><td>I</td><td>592,80</td></tr>
-</table>
+CARGO
 
-<table>
-<tr><td>CARGO</td><td>CLASSE</td><td>PADRÃO</td><td>VALOR (EM R $)</td></tr>
-<tr><td>Procurador do Banco Central</td><td>A</td><td>IV</td><td>3.903,30</td></tr>
-<tr><td></td><td></td><td>III</td><td>3.614,10</td></tr>
-<tr><td></td><td></td><td>II</td><td>3.361,24</td></tr>
-<tr><td></td><td></td><td>I</td><td>3.144,29</td></tr>
-<tr><td></td><td>B</td><td>IV</td><td>2.957,24</td></tr>
-<tr><td></td><td></td><td>III</td><td>2.796,44</td></tr>
-<tr><td></td><td></td><td>II</td><td>2.658,85</td></tr>
-<tr><td></td><td></td><td>I</td><td>2.541,92</td></tr>
-<tr><td></td><td>C</td><td>IV</td><td>2.443,57</td></tr>
-<tr><td></td><td></td><td>III</td><td>2.362,08</td></tr>
-<tr><td></td><td></td><td>II</td><td>2.296,06</td></tr>
-<tr><td></td><td></td><td>I</td><td>2.244,44</td></tr>
-<tr><td></td><td>D</td><td>III</td><td>2.206,38</td></tr>
-<tr><td></td><td></td><td>II</td><td>2.150,00</td></tr>
-<tr><td></td><td></td><td>I</td><td>2.105,27</td></tr>
-</table>
+CLASSE
+
+PADRÃO
+
+VALOR (EM R $)
+
+Analista do Banco Central
+
+A
+
+IV
+
+3.903,30
+
+III
+
+3.614,10
+
+II
+
+3.361,24
+
+I
+
+3.144,29
+
+B
+
+IV
+
+2.957,24
+
+III
+
+2.796,44
+
+II
+
+2.658,85
+
+I
+
+2.541,92
+
+C
+
+IV
+
+2.443,57
+
+III
+
+2.362,08
+
+II
+
+2.296,06
+
+I
+
+2.244,44
+
+D
+
+III
+
+2.206,38
+
+II
+
+2.150,00
+
+I
+
+2.007,78
+
+Técnico do Banco Central
+
+A
+
+IV
+
+1.165,01
+
+III
+
+1.130,69
+
+II
+
+1.087,01
+
+I
+
+1.045,20
+
+B
+
+IV
+
+1.004,95
+
+III
+
+966,26
+
+II
+
+920,09
+
+I
+
+876,10
+
+C
+
+IV
+
+834,29
+
+III
+
+794,35
+
+II
+
+749,11
+
+I
+
+706,68
+
+D
+
+III
+
+666,43
+
+II
+
+628,68
+
+I
+
+592,80
+
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EM R $)
+
+Procurador do Banco Central
+
+A
+
+IV
+
+3.903,30
+
+III
+
+3.614,10
+
+II
+
+3.361,24
+
+I
+
+3.144,29
+
+B
+
+IV
+
+2.957,24
+
+III
+
+2.796,44
+
+II
+
+2.658,85
+
+I
+
+2.541,92
+
+C
+
+IV
+
+2.443,57
+
+III
+
+2.362,08
+
+II
+
+2.296,06
+
+I
+
+2.244,44
+
+D
+
+III
+
+2.206,38
+
+II
+
+2.150,00
+
+I
+
+2.105,27
 
 ANEXO XIII
 
 FUNÇÕES COMISSIONADAS TÉCNICAS
 
-<table>
-<tr><td>FUNÇÃO COMISSIONADA</td><td>QUANTITATIVO DE FUNÇÕES</td><td>VALOR UNITÁRIO (EM REAIS)</td><td>VALOR DA OPÇÃO (EM REAIS)</td></tr>
-<tr><td>FCT 1</td><td>131</td><td>3.800,00</td><td>1.140,00</td></tr>
-<tr><td>FCT 2</td><td>191</td><td>3.187,20</td><td>956,16</td></tr>
-<tr><td>FCT 3</td><td>252</td><td>2.673,22</td><td>855,43</td></tr>
-<tr><td>FCT 4</td><td>313</td><td>2.242,13</td><td>762,32</td></tr>
-<tr><td>FCT 5</td><td>374</td><td>1.880,55</td><td>695,80</td></tr>
-<tr><td>FCT 6</td><td>435</td><td>1.577,29</td><td>630,91</td></tr>
-<tr><td>FCT 7</td><td>496</td><td>1.322,93</td><td>582,09</td></tr>
-<tr><td>FCT 8</td><td>557</td><td>1.109,59</td><td>543,70</td></tr>
-<tr><td>FCT 9</td><td>618</td><td>930,65</td><td>511,86</td></tr>
-<tr><td>FCT 10</td><td>679</td><td>780,57</td><td>483,95</td></tr>
-<tr><td>FCT 11</td><td>740</td><td>654,69</td><td>458,28</td></tr>
-<tr><td>FCT 12</td><td>801</td><td>549,12</td><td>439,29</td></tr>
-<tr><td>FCT 13</td><td>862</td><td>460,56</td><td>414,51</td></tr>
-<tr><td>FCT 14</td><td>923</td><td>386,29</td><td>386,29</td></tr>
-<tr><td>FCT 15</td><td>1.331</td><td>324,00</td><td>324,00</td></tr>
-<tr><td>TOTAL</td><td>8.703</td><td></td><td></td></tr>
-</table>
+FUNÇÃO COMISSIONADA
+
+QUANTITATIVO DE FUNÇÕES
+
+VALOR UNITÁRIO (EM REAIS)
+
+VALOR DA OPÇÃO (EM REAIS)
+
+FCT 1
+
+131
+
+3.800,00
+
+1.140,00
+
+FCT 2
+
+191
+
+3.187,20
+
+956,16
+
+FCT 3
+
+252
+
+2.673,22
+
+855,43
+
+FCT 4
+
+313
+
+2.242,13
+
+762,32
+
+FCT 5
+
+374
+
+1.880,55
+
+695,80
+
+FCT 6
+
+435
+
+1.577,29
+
+630,91
+
+FCT 7
+
+496
+
+1.322,93
+
+582,09
+
+FCT 8
+
+557
+
+1.109,59
+
+543,70
+
+FCT 9
+
+618
+
+930,65
+
+511,86
+
+FCT 10
+
+679
+
+780,57
+
+483,95
+
+FCT 11
+
+740
+
+654,69
+
+458,28
+
+FCT 12
+
+801
+
+549,12
+
+439,29
+
+FCT 13
+
+862
+
+460,56
+
+414,51
+
+FCT 14
+
+923
+
+386,29
+
+386,29
+
+FCT 15
+
+1.331
+
+324,00
+
+324,00
+
+TOTAL
+
+8.703
 
 ANEXO XIV
 
@@ -1794,41 +2589,101 @@ ANEXO XVI
 
 TABELA DE REMUNURAÇÃO                                                                                                                                                                a) GRUPO DIREÇÃO E ASSESSORAMENTO SUPERIOR - DAS
 
-<table>
-<tr><td>CARGO</td><td>VALOR UNITÁRIO (EM REAIS)</td></tr>
-<tr><td>DAS 101,6 e 102,6</td><td>6.000,00</td></tr>
-<tr><td>DAS 101,5 e 102,5</td><td>5.200,00</td></tr>
-<tr><td>DAS 101,4 e102,4</td><td>3.800,00</td></tr>
-<tr><td>DAS 101,3 e 102,3</td><td>1.390,19</td></tr>
-<tr><td>DAS 101,2 e 102,2</td><td>1.240,45</td></tr>
-<tr><td>DAS 101,1 e 102,1</td><td>1.120,14</td></tr>
-</table>
+CARGO
+
+VALOR UNITÁRIO (EM REAIS)
+
+DAS 101,6 e 102,6
+
+6.000,00
+
+DAS 101,5 e 102,5
+
+5.200,00
+
+DAS 101,4 e102,4
+
+3.800,00
+
+DAS 101,3 e 102,3
+
+1.390,19
+
+DAS 101,2 e 102,2
+
+1.240,45
+
+DAS 101,1 e 102,1
+
+1.120,14
 
  b) CARGOS DE NATUREZA ESPECIAL - NES
 
-<table>
-<tr><td>DENOMINAÇÃO</td><td>VALOR UNITÁRIO (EM REAIS)</td></tr>
-<tr><td>Secretário Especialista de Desenvolvimento Urbano</td><td>8.000,00</td></tr>
-<tr><td>Secretário de Estado de Assistência Social</td><td>7.200,00</td></tr>
-<tr><td>Secretário de Estado dos Direitos Humanos</td><td>7.200,00</td></tr>
-<tr><td>Comandante da Marinha</td><td>7.200,00</td></tr>
-<tr><td>Comandante do Exército</td><td>7.200,00</td></tr>
-<tr><td>Comandante da Aeronáutica</td><td>7.200,00</td></tr>
-<tr><td>Secretário-Geral de Contencioso</td><td>6.200,00</td></tr>
-<tr><td>Secretário-Geral de Consultoria</td><td>6.200,00</td></tr>
-<tr><td>Subdefensor Público Geral da União</td><td>6.000,00</td></tr>
-<tr><td>Demais cargos de natureza especial da estrutura da Presidência da República e dos Ministérios</td><td>6.400,00</td></tr>
-</table>
+DENOMINAÇÃO
+
+VALOR UNITÁRIO (EM REAIS)
+
+Secretário Especialista de Desenvolvimento Urbano
+
+8.000,00
+
+Secretário de Estado de Assistência Social
+
+7.200,00
+
+Secretário de Estado dos Direitos Humanos
+
+7.200,00
+
+Comandante da Marinha
+
+7.200,00
+
+Comandante do Exército
+
+7.200,00
+
+Comandante da Aeronáutica
+
+7.200,00
+
+Secretário-Geral de Contencioso
+
+6.200,00
+
+Secretário-Geral de Consultoria
+
+6.200,00
+
+Subdefensor Público Geral da União
+
+6.000,00
+
+Demais cargos de natureza especial da estrutura da Presidência da República e dos Ministérios
+
+6.400,00
 
  c) CARGOS DE DIREÇÃO DAS INSTITUIÇÃO FEDERAIS DE ENSINO - CD
 
-<table>
-<tr><td>CARGO</td><td>VALOR UNITÁRIO (EM REAIS)</td></tr>
-<tr><td>CD - 1</td><td>5.600,00</td></tr>
-<tr><td>CD - 2</td><td>4.800,00</td></tr>
-<tr><td>CD - 3</td><td>3.800,00</td></tr>
-<tr><td>CD - 4</td><td>2.800,00</td></tr>
-</table>
+CARGO
+
+VALOR UNITÁRIO (EM REAIS)
+
+CD - 1
+
+5.600,00
+
+CD - 2
+
+4.800,00
+
+CD - 3
+
+3.800,00
+
+CD - 4
+
+2.800,00
 
 ANEXO XVII
 
@@ -1869,78 +2724,300 @@ TABELA DE VENCIMENTO
 
 Cargos de Nível Superior
 
-<table>
-<tr><td>CARGO</td><td>CLASSE</td><td>PADRÃO</td><td>VALOR (EM R$)</td></tr>
-<tr><td>Técnicos-Administrativos das instituições federais de ensino vinculadas ao Ministério da Educação</td><td>ESPECIAL</td><td>III</td><td>644,89</td></tr>
-<tr><td></td><td></td><td>II</td><td>603,40</td></tr>
-<tr><td></td><td></td><td>I</td><td>563,87</td></tr>
-<tr><td></td><td>C</td><td>VI</td><td>555,50</td></tr>
-<tr><td></td><td></td><td>V</td><td>539,44</td></tr>
-<tr><td></td><td></td><td>IV</td><td>523,92</td></tr>
-<tr><td></td><td></td><td>III</td><td>508,85</td></tr>
-<tr><td></td><td></td><td>II</td><td>494,21</td></tr>
-<tr><td></td><td></td><td>I</td><td>480,01</td></tr>
-<tr><td></td><td>B</td><td>VI</td><td>466,21</td></tr>
-<tr><td></td><td></td><td>V</td><td>452,82</td></tr>
-<tr><td></td><td></td><td>IV</td><td>439,82</td></tr>
-<tr><td></td><td></td><td>III</td><td>427,19</td></tr>
-<tr><td></td><td></td><td>II</td><td>414,94</td></tr>
-<tr><td></td><td></td><td>I</td><td>403,05</td></tr>
-<tr><td></td><td>A</td><td>V</td><td>391,52</td></tr>
-<tr><td></td><td></td><td>IV</td><td>380,29</td></tr>
-<tr><td></td><td></td><td>III</td><td>318,89</td></tr>
-<tr><td></td><td></td><td>II</td><td>309,75</td></tr>
-<tr><td></td><td></td><td>I</td><td>300,87</td></tr>
-</table>
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EM R$)
+
+Técnicos-Administrativos das instituições federais de ensino vinculadas ao Ministério da Educação
+
+ESPECIAL
+
+III
+
+644,89
+
+II
+
+603,40
+
+I
+
+563,87
+
+C
+
+VI
+
+555,50
+
+V
+
+539,44
+
+IV
+
+523,92
+
+III
+
+508,85
+
+II
+
+494,21
+
+I
+
+480,01
+
+B
+
+VI
+
+466,21
+
+V
+
+452,82
+
+IV
+
+439,82
+
+III
+
+427,19
+
+II
+
+414,94
+
+I
+
+403,05
+
+A
+
+V
+
+391,52
+
+IV
+
+380,29
+
+III
+
+318,89
+
+II
+
+309,75
+
+I
+
+300,87
 
 Cargos de Nível Médio
 
-<table>
-<tr><td>CARGO</td><td>CLASSE</td><td>PADRÃO</td><td>VALOR (EM R$)</td></tr>
-<tr><td>Técnicos-Administrativos das instituições federais de ensino vinculadas ao Ministério da Educação</td><td>ESPECIAL</td><td>III</td><td>387,68</td></tr>
-<tr><td></td><td></td><td>II</td><td>358,57</td></tr>
-<tr><td></td><td></td><td>I</td><td>343,62</td></tr>
-<tr><td></td><td>C</td><td>VI</td><td>329,29</td></tr>
-<tr><td></td><td></td><td>V</td><td>326,95</td></tr>
-<tr><td></td><td></td><td>IV</td><td>313,,36</td></tr>
-<tr><td></td><td></td><td>III</td><td>300,34</td></tr>
-<tr><td></td><td></td><td>II</td><td>287,84</td></tr>
-<tr><td></td><td></td><td>I</td><td>275,92</td></tr>
-<tr><td></td><td>B</td><td>VI</td><td>264,47</td></tr>
-<tr><td></td><td></td><td>V</td><td>253,55</td></tr>
-<tr><td></td><td></td><td>IV</td><td>243,08</td></tr>
-<tr><td></td><td></td><td>III</td><td>233,04</td></tr>
-<tr><td></td><td></td><td>II</td><td>223,44</td></tr>
-<tr><td></td><td></td><td>I</td><td>214,25</td></tr>
-<tr><td></td><td>A</td><td>V</td><td>205,47</td></tr>
-<tr><td></td><td></td><td>IV</td><td>201,01</td></tr>
-<tr><td></td><td></td><td>III</td><td>198,40</td></tr>
-<tr><td></td><td></td><td>II</td><td>196,40</td></tr>
-<tr><td></td><td></td><td>I</td><td>194,40</td></tr>
-</table>
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EM R$)
+
+Técnicos-Administrativos das instituições federais de ensino vinculadas ao Ministério da Educação
+
+ESPECIAL
+
+III
+
+387,68
+
+II
+
+358,57
+
+I
+
+343,62
+
+C
+
+VI
+
+329,29
+
+V
+
+326,95
+
+IV
+
+313,,36
+
+III
+
+300,34
+
+II
+
+287,84
+
+I
+
+275,92
+
+B
+
+VI
+
+264,47
+
+V
+
+253,55
+
+IV
+
+243,08
+
+III
+
+233,04
+
+II
+
+223,44
+
+I
+
+214,25
+
+A
+
+V
+
+205,47
+
+IV
+
+201,01
+
+III
+
+198,40
+
+II
+
+196,40
+
+I
+
+194,40
 
 Cargos de Nível Auxiliar
 
-<table>
-<tr><td>CARGO</td><td>CLASSE</td><td>PADRÃO</td><td>VALOR (EM R$)</td></tr>
-<tr><td>Técnicos-Administrativos das instituições federais de ensino vinculadas ao Ministério da Educação</td><td>ESPECIAL</td><td>III</td><td>218,07</td></tr>
-<tr><td></td><td></td><td>II</td><td>207,70</td></tr>
-<tr><td></td><td></td><td>I</td><td>203,81</td></tr>
-<tr><td></td><td>C</td><td>VI</td><td>200,60</td></tr>
-<tr><td></td><td></td><td>V</td><td>199,50</td></tr>
-<tr><td></td><td></td><td>IV</td><td>198,40</td></tr>
-<tr><td></td><td></td><td>III</td><td>197,30</td></tr>
-<tr><td></td><td></td><td>II</td><td>196,20</td></tr>
-<tr><td></td><td></td><td>I</td><td>195,10</td></tr>
-<tr><td></td><td>B</td><td>VI</td><td>194,00</td></tr>
-<tr><td></td><td></td><td>V</td><td>192,90</td></tr>
-<tr><td></td><td></td><td>IV</td><td>191,80</td></tr>
-<tr><td></td><td></td><td>III</td><td>190,70</td></tr>
-<tr><td></td><td></td><td>II</td><td>189,60</td></tr>
-<tr><td></td><td></td><td>I</td><td>188,50</td></tr>
-<tr><td></td><td>A</td><td>V</td><td>187,40</td></tr>
-<tr><td></td><td></td><td>IV</td><td>186,30</td></tr>
-<tr><td></td><td></td><td>III</td><td>185,20</td></tr>
-<tr><td></td><td></td><td>II</td><td>184,10</td></tr>
-<tr><td></td><td></td><td>I</td><td>183,00</td></tr>
-</table>
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EM R$)
+
+Técnicos-Administrativos das instituições federais de ensino vinculadas ao Ministério da Educação
+
+ESPECIAL
+
+III
+
+218,07
+
+II
+
+207,70
+
+I
+
+203,81
+
+C
+
+VI
+
+200,60
+
+V
+
+199,50
+
+IV
+
+198,40
+
+III
+
+197,30
+
+II
+
+196,20
+
+I
+
+195,10
+
+B
+
+VI
+
+194,00
+
+V
+
+192,90
+
+IV
+
+191,80
+
+III
+
+190,70
+
+II
+
+189,60
+
+I
+
+188,50
+
+A
+
+V
+
+187,40
+
+IV
+
+186,30
+
+III
+
+185,20
+
+II
+
+184,10
+
+I
+
+183,00

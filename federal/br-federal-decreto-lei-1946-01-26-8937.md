@@ -1,5 +1,3 @@
-###DEL-008937-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.937 – DE 26 DE JANEIRO DE 1946
 
 Autoriza a reorganização do Serviço Jurídico da Prefeitura do   Distrito Federal e dá outras providências.

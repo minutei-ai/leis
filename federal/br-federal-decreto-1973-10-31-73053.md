@@ -1,5 +1,3 @@
-###DEC-073053-0-000-31-10-1973@@@
-
 DECrETO Nº 73.053, de 31 de Outubro de 1973.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno da bacia de irrigação do Açude Público Sabugi, no Estado do Rio Grande do Norte.

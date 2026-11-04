@@ -1,5 +1,3 @@
-###DEC-075804-0-000-30-05-1975@@@
-
 Decreto Nº 75.804, DE 30 DE MAIO DE 1975.
 
 Exclui cargos, que indica, do quadro de Pessoal - Parte Permanente - do Ministério da Indústria e do Comércio.

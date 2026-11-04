@@ -1,5 +1,3 @@
-###DEC-066093-0-000-19-01-1970@@@
-
 Decreto nº 66.093 - de 19 de janeiro de 1970
 
 Fixa as proporções a serem observadas na aplicação da quota compulsória referente ao ano de 1969.

@@ -1,5 +1,3 @@
-###DEC-059429-0-000-27-10-1966@@@
-
 DECRETO Nº 59.429, de 27 de outubro de 1966.
 
 Dá nova redação ao § 1º do art. 3º do Decreto nº 58.185, de 13 de abril de 1966.

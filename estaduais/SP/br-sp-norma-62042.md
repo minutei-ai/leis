@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/62042)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2006/compilacao-lei.complementar-993-12.04.2006.html)
 
 # LEI COMPLEMENTAR N° 993, DE 12 DE ABRIL DE 2006

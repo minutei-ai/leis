@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209537)<br>
-
 # DECRETO N° 68.589, DE 07 DE JUNHO DE 2024
 
 ### _Altera a denominação da futura Estação da Linha 6 - Laranja, da Companhia do Metropolitano de São Paulo - METRÔ, de Estação 14 BIS para Estação 14 BIS - Saracura._

@@ -1,5 +1,3 @@
-###DEC-005844-0-000-13-07-2006@@@
-
 DECRETO Nº 5.844, DE 13 DE JULHO DE 2006.
 
 Acresce parágrafos ao art. 78 do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999.
@@ -23,5 +21,3 @@ Brasília, 13 de julho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
        Nelson Machado
-
-Este texto não substitui o publicado no D.O.U. de 14.7.2006

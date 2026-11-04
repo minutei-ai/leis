@@ -1,5 +1,3 @@
-###DEC-048207-0-000-13-05-1960@@@
-
 DECRETO Nº 48.207, DE 13 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro João Barbosa Pinto a pesquisar bauxita e leucita no município de Andradas, Estado de Minas Gerais.

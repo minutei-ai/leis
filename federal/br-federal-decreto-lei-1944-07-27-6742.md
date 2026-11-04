@@ -1,5 +1,3 @@
-###DEL-006742-0-000-27-07-1944@@@
-
 DECRETO-LEI N. 6.742 – DE 27 DE Julho DE 1944
 
 Acrescenta ao art. 260 do Decreto-lei nº 4.162, de 9 de março de 1942, o parágrafo único e dá outras providências

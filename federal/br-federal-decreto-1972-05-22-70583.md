@@ -1,5 +1,3 @@
-###DEC-070583-0-000-22-05-1972@@@
-
 DECRETO Nº 70.583, DE 22 DE MAIO DE 1972.
 
 Altera dispositivo do Regulamento para a Diretoria de Ensino da Marinha, a Diretoria de Decreto número 66.069, de 14 de janeiro de 1970, transforma cargo em outras providências.

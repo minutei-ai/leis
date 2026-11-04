@@ -1,5 +1,3 @@
-###DEC-065274-0-000-06-10-1969@@@
-
 DECRETO Nº 65.274 - DE 6 DE OUTUBRO DE 1969.
 
 Concede reconhecimento ao Curso de Professor de Educação Musical do Instituto Musical "Santa Marcelina", de São Paulo - SP.

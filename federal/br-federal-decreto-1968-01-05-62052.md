@@ -1,5 +1,3 @@
-###DEC-062052-0-000-05-01-1968@@@
-
 DECRETO Nº 62.052, DE 5 DE JANEIRO DE 1968.
 
 Declara caduco o Decreto nº 48.406, de 23 de junho de 1960.

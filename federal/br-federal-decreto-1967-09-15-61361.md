@@ -1,5 +1,3 @@
-###DEC-061361-0-000-15-09-1967@@@
-
 DECRETO Nº 61.361, DE 15 DE SETEMBRO DE 1967.
 
 Transfere da Companhia Hidro Elétrica de Califórnia para a Companhia Paranaense de Energia Elétrica a concessão para distribuir energia elétrica no município de Califórnia, Estado do Paraná.

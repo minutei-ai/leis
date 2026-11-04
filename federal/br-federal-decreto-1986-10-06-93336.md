@@ -1,5 +1,3 @@
-###DEC-093336-0-000-06-10-1986@@@
-
 DECRETO Nº 93.336, DE 6 DE OUTUBRO DE 1986
 
 Dispõe sobre o Gabinete do Vice-Presidente da República, em caso de vacância desse cargo, e dá outras providências.

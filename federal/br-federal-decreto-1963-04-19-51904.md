@@ -1,5 +1,3 @@
-###DEC-051904-0-000-19-04-1963@@@
-
 DECRETO Nº 51.904, DE 19 DE ABRIL DE 1963.
 
 Modifica o Regulamento do Gabinete do Ministro da Aeronáutica.

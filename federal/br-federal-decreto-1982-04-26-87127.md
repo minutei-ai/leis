@@ -1,5 +1,3 @@
-###DEC-087127-0-000-26-04-1982@@@
-
 Decreto nº 87.127, de 26 de abril de 1982
 
 Altera a redação do artigo 3º e da alínea "b" do parágrafo único do artigo 25 do Decreto nº 79.046, de 27 de dezembro de 1976, que dispõe sobre a aplicação dos incentivos fiscais para o desenvolvimento florestal do país.

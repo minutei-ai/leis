@@ -1,5 +1,3 @@
-###MPV-001964-0-031-22-09-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.964-31, DE 22 de sEtembro DE 2000.
 
 Altera as Leis nºs 6.368, de 21 de outubro de 1976, e 8.112, de 11 de dezembro de 1990, e dá outras providências.

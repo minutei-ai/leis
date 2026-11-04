@@ -142,75 +142,42 @@ ANTÔNIO CÉSAR CAÚLA REIS
 
 **TABELA DE VALORES NOMINAIS DO SUBSÍDIO DO CARGO PÚBLICO DE DELEGADO DE POLÍCIA CIVIL**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="width:466.1pt;border-collapse:collapse;border:none"><tbody><tr><td width="86" style="width:54.85pt;border:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">SÍMBOLO DE NÍVEL</span></p></td><td width="171" style="width:131.3pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Valores válidos a partir de 1º de janeiro de 2017</span></p></td><td width="171" style="width:131.3pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Valores válidos a partir de 1º de janeiro de 2018</span></p></td><td width="193" style="width:148.65pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Valores válidos a partir de 1º de dezembro de 2018</span></p></td></tr><tr><td width="86" valign="top" style="width:54.85pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QAP-S</span></p></td><td width="171" valign="top" style="width:131.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 9.070,00</span></p></td><td width="171" valign="top" style="width:131.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 9.070,00</span></p></td><td width="193" valign="top" style="width:148.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 9.070,00</span></p></td></tr><tr><td width="86" valign="top" style="width:54.85pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QAP-2</span></p></td><td width="171" valign="top" style="width:131.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;R$ 15.452,07</span></p></td><td width="171" valign="top" style="width:131.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;R$ 17.769,89</span></p></td><td width="193" valign="top" style="width:148.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;R$ 19.793,57</span></p></td></tr><tr><td width="86" valign="top" style="width:54.85pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QAP-1</span></p></td><td width="171" valign="top" style="width:131.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;R$ 17.168,97</span></p></td><td width="171" valign="top" style="width:131.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;R$ 19.744,32</span></p></td><td width="193" valign="top" style="width:148.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;R$ 22.762,61</span></p></td></tr><tr><td width="86" valign="top" style="width:54.85pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QAP-E</span></p></td><td width="171" valign="top" style="width:131.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;R$ 19.076,63</span></p></td><td width="171" valign="top" style="width:131.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;R$ 21.938,13</span></p></td><td width="193" valign="top" style="width:148.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;R$ 26.177,00</span></p></td></tr></tbody></table>
+SÍMBOLO DE NÍVEL
+
+Valores válidos a partir de 1º de janeiro de 2017
+
+Valores válidos a partir de 1º de janeiro de 2018
+
+Valores válidos a partir de 1º de dezembro de 2018
+
+QAP-S
+
+R$ 9.070,00
+
+R$ 9.070,00
+
+R$ 9.070,00
+
+QAP-2
+
+R$ 15.452,07
+
+R$ 17.769,89
+
+R$ 19.793,57
+
+QAP-1
+
+R$ 17.168,97
+
+R$ 19.744,32
+
+R$ 22.762,61
+
+QAP-E
+
+R$ 19.076,63
+
+R$ 21.938,13
+
+R$ 26.177,00

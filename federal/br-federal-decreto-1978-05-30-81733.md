@@ -1,5 +1,3 @@
-###DEC-081733-0-000-30-05-1978@@@
-
 DECRETO Nº 81.733, DE 30 DE MAIO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Porto de Moz, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-051175-0-000-10-08-1961@@@
-
 DECRETO Nº 51.175, DE 10 DE AGÔSTO DE 1961.
 
 Outorga concessão à Rádio Jornal de Itabuna Limitada para estabelecer uma estação de radiodifusão.

@@ -1,5 +1,3 @@
-###DEC-044865-0-000-25-11-1958@@@
-
 DECRETO Nº 44.865, DE 25 DE NOVEMBRO DE 1958.
 
 Autoriza a Superintendência da Moeda e do Crédito a processar o restabelecimento das cartas-patentes do Banco Alemão Transatlântico e do Banco Germânico da América do Sul, para o seu funcionamento no território nacional, e dá outras providências.

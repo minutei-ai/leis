@@ -1,5 +1,3 @@
-###DEC-060557-0-000-07-04-1967@@@
-
 DECRETO Nº 60.557, DE 7 DE ABRIL DE 1967.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia de Seguros Guarani, inclusive aumento do Capital social.

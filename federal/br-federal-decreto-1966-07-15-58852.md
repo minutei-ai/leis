@@ -1,5 +1,3 @@
-###DEC-058852-0-000-15-07-1966@@@
-
 DECRETO Nº 58.852, DE 15 DE JULHO DE 1966.
 
 Declara de utilidade pública a Instituição Beneficente “Socorristas Cristã”, com sede em Americana, Estado de São Paulo.

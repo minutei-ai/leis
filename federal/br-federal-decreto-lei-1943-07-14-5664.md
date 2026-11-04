@@ -1,5 +1,3 @@
-###DEL-005664-0-000-14-07-1943@@@
-
 DECRETO‑LEI N. 5.664 – DE 14 DE JULHO DE 1943
 
 Dispõe sôbre novas instalações da Société Anonyme du Gaz de Rio de Janeiro e dá outras previdências

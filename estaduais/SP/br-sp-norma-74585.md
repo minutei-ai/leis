@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74585)
-
 # LEI Nº 12.748, DE 14 DE NOVEMBRO DE 2007
 
 ## (Projeto de lei nº 113/2007, do Deputado Carlos Giannazi - PSOL)

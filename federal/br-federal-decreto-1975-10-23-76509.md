@@ -1,5 +1,3 @@
-###DEC-076509-0-000-23-10-1975@@@
-
 DECRETO N 76.509, De 23 de outubro de 1975.
 
 Dispõe sobre o depósito, no Banco do Nordeste do Brasil S.A .e no Banco da Amazônia S.A, dos recursos dos incentivos fiscais creditados ao Programa de Integração Nacional.

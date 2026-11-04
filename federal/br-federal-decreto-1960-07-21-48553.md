@@ -1,5 +1,3 @@
-###DEC-048553-0-000-21-07-1960@@@
-
 DECRETO Nº 48.553, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Álvaro de Faria Vieira a pesquisar água marinha e turmalina, no município de Teófilo Otoni, Estado de Minas Gerais.

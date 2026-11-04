@@ -1,5 +1,3 @@
-###DEC-058535-0-000-30-05-1966@@@
-
 DECRETO Nº 58.535, DE 30 DE MAIO DE 1966.
 
 Renova o decreto nº 52.702 de 21 de outubro de 1963.

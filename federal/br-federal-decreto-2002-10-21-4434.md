@@ -1,5 +1,3 @@
-###DEC-004434-0-000-21-10-2002@@@
-
 DECRETO Nº 4.434, DE 21 DE OUTUBRO DE 2002
 
 Dispõe sobre a apuração da antigüidade dos integrantes das Carreiras Jurídicas da Advocacia-Geral da União.

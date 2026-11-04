@@ -1,5 +1,3 @@
-###DEC-082089-0-000-07-08-1978@@@
-
 Decreto nº 82.089, de 07 de agosto de 1978.
 
 Autoriza a conversão dos cursos de Matemática e de Física em curso de Ciências, licenciatura plena, ministrado pela União das Faculdades Francanas, com sede em Franca, Estado de São Paulo.

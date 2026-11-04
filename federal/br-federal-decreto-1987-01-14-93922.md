@@ -1,5 +1,3 @@
-###DEC-093922-0-000-14-01-1987@@@
-
 DECRETO N° 93.922, DE 14 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Córrego Varejão", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Itaiópolis, no Estado de Santa Catarina, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.693, de 19 de maio de 1986, e dá outras providências.

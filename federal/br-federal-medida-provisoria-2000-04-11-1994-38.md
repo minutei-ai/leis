@@ -1,5 +1,3 @@
-###MPV-001994-0-038-11-04-2000@@@
-
 Medida Provisória nº 1.994-38, de 11 de abril de 2000.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

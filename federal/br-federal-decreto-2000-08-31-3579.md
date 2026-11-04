@@ -1,5 +1,3 @@
-###DEC-003579-0-000-31-08-2000@@@
-
 DECRETO Nº 3.579, DE 31 DE AGOSTO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.378, de 9 de março de 2000.

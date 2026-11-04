@@ -1,5 +1,3 @@
-###DEL-004497-0-000-20-07-1942@@@
-
 DECRETO-LEI N. 4.497 – DE 20 DE JULHO DE 1942
 
 Abre, pelo Ministério da Educação e Saúde, o crédito especial de 12:000$0, para atender a pagamento de diárias

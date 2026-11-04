@@ -1,5 +1,3 @@
-###DEC-084636-0-000-16-04-1980@@@
-
 Decreto nº 84.636, de 16 de abril de 1980.
 
 Declaram de utilidade pública, para fins de desapropriação, área de terra com benfeitorias necessárias à ampliação da Estação Transformadora de Distribuição de Aldeia Campista da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

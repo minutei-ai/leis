@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208244)<br>
-
 # LEI N° 17.708, DE 03 DE JULHO DE 2023
 
 ## (Projeto de lei n° 322, de 2023, do Deputado Rogério Nogueira - PSDB)

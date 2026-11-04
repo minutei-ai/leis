@@ -1,5 +1,3 @@
-###DEC-048152-0-000-06-05-1960@@@
-
 DECRETO Nº 48.152, DE 6 DE MAIO DE 1960.
 
 Revoga os Decretos que concederam a sociedade anônima Mappin & Webb (Brazil) Limited autorização para funcionar na República.

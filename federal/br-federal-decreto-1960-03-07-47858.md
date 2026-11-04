@@ -1,5 +1,3 @@
-###DEC-047858-0-000-07-03-1960@@@
-
 DECRETO Nº 47.858, DE 7 DE março DE 1960.
 
 Autoriza a Sociedade Brasileira de Terrenos e Loteamentos Ltda. “Sobratelo” a lavrar talcoxisto no município de Franco da Rocha, Estado de São Paulo.

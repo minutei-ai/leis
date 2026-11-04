@@ -1,5 +1,3 @@
-###DEC-059335-0-000-30-09-1966@@@
-
 DECRETO Nº 59.335, dE 30 DE SETEMBRO DE 1966.
 
 Autoriza Mineração Pirangi S.A. a lavrar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208737)<br>
-
 # DECRETO N° 68.046, DE 31 DE OUTUBRO DE 2023
 
 ### _Altera dispositivos do Decreto n° 67.475, de 6 de fevereiro de 2023, que dispõe sobre a delegação de competência que especifica._

@@ -1,5 +1,3 @@
-###DEC-067318-0-000-02-10-1970@@@
-
 DECRETO Nº 67.318, DE 2 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 19.911, de 14 de novembro de 1945.

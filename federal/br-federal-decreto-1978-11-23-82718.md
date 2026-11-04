@@ -1,5 +1,3 @@
-###DEC-082718-0-000-23-11-1978@@@
-
 Decreto nº 82.718, de 23 de novembro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Garanhuns, Estado de Pernambuco.

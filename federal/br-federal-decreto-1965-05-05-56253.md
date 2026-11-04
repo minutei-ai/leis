@@ -1,5 +1,3 @@
-###DEC-056253-0-000-05-05-1965@@@
-
 DECRETO Nº 56.253, DE 5 DE MAIO DE 1965.
 
 Inclui função gratificada na Parte Permanente do Quadro de Pessoal da Universidade do Brasil.

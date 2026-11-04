@@ -1,5 +1,3 @@
-###DEC-048393-0-000-23-06-1960@@@
-
 DECRETO Nº 48.393, DE 23 DE junho DE 1960.
 
 Autoriza o cidadão brasileiro Luiz Guzatti a pesquisar talco no município de Tubarão, Estado de Santa Catarina.

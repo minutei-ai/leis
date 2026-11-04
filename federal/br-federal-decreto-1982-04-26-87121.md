@@ -1,5 +1,3 @@
-###DEC-087121-0-000-26-04-1982@@@
-
 decreto nº 87.121, de 26 de abril de 1982
 
 Autoriza à COPESUL - COMPANHIA PETROQUÍMICA DO SUL a proceder ao aumento do limite do seu Capital Social.

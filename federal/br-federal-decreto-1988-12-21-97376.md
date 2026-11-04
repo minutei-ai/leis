@@ -1,5 +1,3 @@
-###DEC-097376-0-000-21-12-1988@@@
-
 DECRETO Nº 97.376, DE 21 DE DEZEMBRO DE 1988
 
 Concede à SOS - Kinderdorf International (Associação de Aldeias para crianças SOS), autorização para funcionamento de seu escritório de representação no Brasil.

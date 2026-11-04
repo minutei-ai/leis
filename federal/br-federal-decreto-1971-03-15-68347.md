@@ -1,5 +1,3 @@
-###DEC-068347-0-000-15-03-1971@@@
-
 DECRETO Nº 68.347,DE 15 DE MARÇO DE 1971.
 
 Transfere da Prefeitura Municipal de Hidrolina para a Centrais Elétricas de Goiás S. A. a concessão para produzir, transmitir e distribuir energia elétrica no município de Hidrolina, Estado de Goiás.

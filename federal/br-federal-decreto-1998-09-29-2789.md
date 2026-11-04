@@ -1,5 +1,3 @@
-###DEC-002789-0-000-29-09-1998@@@
-
 DECRETO Nº 2.789, DE 29 DE SETEMBRO DE 1998
 
 Prorroga o prazo previsto no § 5º do art. 2º da Medida Provisória nº 1.675-41, de 27 de agosto de 1998.

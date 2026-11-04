@@ -1,5 +1,3 @@
-###DEC-046745-0-000-26-08-1959@@@
-
 DECRETO Nº 46.745, DE 26 DE AGôSTO DE 1959.
 
 Autoriza a Companhia de Pesquisa e Lavras Minerais-Copelmi a pesquisar carvão mineral no município de São Jerônimo, Estado do Rio Grande do Sul.

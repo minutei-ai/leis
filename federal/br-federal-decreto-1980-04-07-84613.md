@@ -1,5 +1,3 @@
-###DEC-084613-0-000-07-04-1980@@@
-
 DECRETO Nº 84.613, DE 07 DE ABRIL DE 1980.
 
 Extingue a Comissão para Estudos e Análise da Formação e Carreira dos Oficiais e Praças da Marinha.

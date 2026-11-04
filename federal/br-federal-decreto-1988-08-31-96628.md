@@ -1,5 +1,3 @@
-###DEC-096628-0-000-31-08-1988@@@
-
 DECRETO N° 96.628, DE 31 DE AGOSTO DE 1988
 
 Altera a composição do Conselho Deli­berativo da Superintendência do Desenvol­vimento da Região Sul - SUDESUL.

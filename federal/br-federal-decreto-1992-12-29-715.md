@@ -1,7 +1,3 @@
-1
-
-###DEC-000715-0-000-29-12-1992@@@
-
 DECRETO N° 715, DE 29 DE DEZEMBRO DE 1992
 
 Delega aos Ministros de Estado do Trabalho e da Indústria, do Comércio e do Turismo competência para aprovar os orçamentos das entidades que menciona.

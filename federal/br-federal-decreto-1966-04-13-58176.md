@@ -1,5 +1,3 @@
-###DEC-058176-0-000-13-04-1966@@@
-
 DECRETO Nº 58.176, de 13 de abril de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Lloyd Atlântico S.A. de Seguros relativa ao aumento do capital social.

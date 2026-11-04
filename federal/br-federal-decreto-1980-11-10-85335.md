@@ -1,5 +1,3 @@
-###DEC-085335-0-000-10-11-1980@@@
-
 Decreto nº 85.335, de 10 de novembro de 1980
 
 Autoriza a elevação do capital social de Goiás Fertilizantes S.A. - GOIASFÉRTIL.

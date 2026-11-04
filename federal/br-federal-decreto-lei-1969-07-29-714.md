@@ -1,5 +1,3 @@
-###DEL-000714-0-000-29-07-1969@@@
-
 DECRETO-LEI Nº 714, DE 29 DE JULHO DE 1969
 
 Isenta do impôsto único o óleo lubrificante básico utilizado como matéria-prima da indústria de óleos brancos.

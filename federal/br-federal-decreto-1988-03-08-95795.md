@@ -1,7 +1,3 @@
-1
-
-###DEC-095795-0-000-08-03-1988@@@
-
 DECRETO N° 95.795, DE 8 DE MARÇO DE 1988
 
 Outorga concessão à SOCIEDADE CAMPOGRANDENSE DE RADIODIFUSÃO LIMITADA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Campo Grande, Estado do Mato Grosso do Sul.

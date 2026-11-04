@@ -1,5 +1,3 @@
-###DEC-004680-0-000-24-04-2003@@@
-
 DECRETO N° 4.680, DE 24 DE ABRIL DE 2003.
 
 Regulamenta o direito à informação, assegurado pela Lei no 8.078, de 11 de setembro de 1990, quanto aos alimentos e ingredientes alimentares destinados ao consumo humano ou animal que contenham ou sejam produzidos a partir de organismos geneticamente modificados, sem prejuízo do cumprimento das demais normas aplicáveis.
@@ -63,5 +61,3 @@ Miguel Soldatelli Rossetto
 José Dirceu de Oliveira e Silva
 
 José Graziano da Silva
-
-###DEC-004680-0-000-24-04-2003@@@REP001+++

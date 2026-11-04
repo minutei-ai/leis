@@ -1,5 +1,3 @@
-###DEC-045215-0-000-14-01-1959@@@
-
 DECRETO Nº 45.215, DE 14 DE JANEIRO DE 1959.
 
 Dispensa, temporariamente, exigências do Regulamento de Promoções para Oficiais da Marinha.

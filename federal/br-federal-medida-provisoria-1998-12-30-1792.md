@@ -1,5 +1,3 @@
-###MPV-001792-0-000-30-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.792, DE 30 DE DEZEMBRO DE 1998
 
 Dispõe sobre o recolhimento ao Tesouro Nacional de parcela da Tarifa de Embarque Internacional e dá outras providências.

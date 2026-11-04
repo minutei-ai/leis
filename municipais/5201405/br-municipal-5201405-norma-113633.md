@@ -38,10 +38,12 @@ Art. 5º Este Decreto entrará em vigor na data de sua publicação, produzindo 
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA/GO, aos 26 de dezembro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-EINSTEIN ALMEIDA FERREIRA PANIAGO<br>
+EINSTEIN ALMEIDA FERREIRA PANIAGO
+
 Secretário Municipal da Fazenda
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18804)

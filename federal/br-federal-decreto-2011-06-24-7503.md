@@ -1,5 +1,3 @@
-###DEC-007503-0-000-27-06-2011-PUB-01@@@
-
 DECRETO Nº7.503, DE 24 DE JUNHO DE 2011
 
 Promulga o Convênio de Santo Domingo (Ata de Registro dos Estatutos da Organização de Educação Ibero-americana - OEI), assinado em 31 de outubro de 1957.

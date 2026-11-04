@@ -1,5 +1,3 @@
-###DEC-067078-0-000-18-08-1970@@@
-
 DECRETO Nº 67.078, DE 18 DE AGôSTO DE 1970.
 
 Declara caduco o Decreto nº 16.830 de 7 de junho de 1945.

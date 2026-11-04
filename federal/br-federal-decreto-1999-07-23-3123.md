@@ -1,5 +1,3 @@
-###DEC-003123-0-000-23-07-1999@@@
-
 DECRETO Nº 3.123, DE 23 DE JULHO DE 1999
 
 Reduz as alíquotas do Imposto sobre Produtos Industrializados (IPI) incidente sobre aviões a turbojato.

@@ -1,5 +1,3 @@
-###DEC-077538-0-000-03-05-1976@@@
-
 DECRETO Nº 77.538, DE 3 DE MAIO DE 1976
 
 Altera a redação do parágrafo 1º do artigo 1, do Decreto nº 66.118, de 26 de janeiro de 1970, que regulamenta a Loteria Esportiva Federal.

@@ -1,5 +1,3 @@
-###DEL-003171-0-000-02-04-1941@@@
-
 DECRETO-LEI N. 3.171 – DE 2 DE ABRIL DE 1941
 
 Reorganiza o Departamento Nacional de Saude, do Ministério Educação e Saude, e da outras providências

@@ -1,5 +1,3 @@
-###DEC-060670-0-000-03-05-1967@@@
-
 DECRETO Nº DE 60.670, DE 3 DE MAIO DE 1967.
 
 Declara a cessação dos serviços de energia elétrica e outorga nova concessão.

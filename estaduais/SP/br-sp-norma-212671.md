@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212671)<br>
-
 # LEI N° 18.472, DE 28 DE MAIO DE 2026
 
 ## (Projeto de lei n° 682/2025 da Deputada Delegada Graciela - PL)

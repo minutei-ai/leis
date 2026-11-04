@@ -1,5 +1,3 @@
-###DEC-046169-0-000-05-06-1959@@@
-
 DECRETO Nº 46.169, DE 5 de de junho DE 1958.
 
 Retifica o Decreto nº 44.481 de 8 de setembro de 1958.

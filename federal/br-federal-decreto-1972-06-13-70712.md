@@ -1,5 +1,3 @@
-###DEC-070712-0-000-13-06-1972@@@
-
 DECRETO Nº 70.712, DE 13 DE JUNHO DE 1972.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S. A. - ELETROBRÁS.

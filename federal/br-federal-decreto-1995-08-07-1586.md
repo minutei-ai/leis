@@ -1,7 +1,3 @@
-1
-
-###DEC-001586-0-000-07-08-1995@@@
-
 DECRETO Nº 1.586, DE 7 DE AGOSTO DE 1995.
 
 Acrescenta parágrafo único ao art. 13 do Decreto nº 62.724, de 17 de maio de 1968, e dá outras providências.

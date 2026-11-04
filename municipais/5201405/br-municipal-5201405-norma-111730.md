@@ -64,16 +64,20 @@ Art. 13 Esta Lei entra em vigor na data da sua publicação, revogando as dispos
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 05 dias do mês de Agosto de 2020.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil
 
-JÓRIO COELHO RIOS<br>
+JÓRIO COELHO RIOS
+
 Secretário de Planejamento e Regulação Urbana
 
-FÁBIO CAMARGO<br>
+FÁBIO CAMARGO
+
 Procurador Geral do Município
 
 ANEXO ÚNICO
@@ -114,4 +118,4 @@ ANEXO V – TABELA DE PARÂMETROS, AFASTAMENTOS E RECUOS
 
 Considerações Gerais:
 
-\*1- A aprovação de empreendimentos sobre lotes de área igual ou maior do que 5.000m² (cinco mil metros quadrados) obrigatoriamente estará sujeita a Estudo de Impacto de Vizinhança –EIV e, eventualmente, outros estudos e laudos complementares solicitados pelos órgãos competentes. Os empreendimentos, porém, não poderão ser aprovados sobre lotes de área superior à de uma quadra, estabelecidos a continuidade do sistema viário existente e projetado. As dimensões máximas das quadras urbanas, assim como as exceções ao tamanho máximo de empreendimentos permitidos são abordados no Capítulo de Parcelamento do Solo desta Lei.<br>
+\*1- A aprovação de empreendimentos sobre lotes de área igual ou maior do que 5.000m² (cinco mil metros quadrados) obrigatoriamente estará sujeita a Estudo de Impacto de Vizinhança –EIV e, eventualmente, outros estudos e laudos complementares solicitados pelos órgãos competentes. Os empreendimentos, porém, não poderão ser aprovados sobre lotes de área superior à de uma quadra, estabelecidos a continuidade do sistema viário existente e projetado. As dimensões máximas das quadras urbanas, assim como as exceções ao tamanho máximo de empreendimentos permitidos são abordados no Capítulo de Parcelamento do Solo desta Lei.

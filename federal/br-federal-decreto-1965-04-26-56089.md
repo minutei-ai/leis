@@ -1,5 +1,3 @@
-###DEC-056089-0-000-26-04-1965@@@
-
 DECRETO Nº 56.089, DE 26 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Brasil MeIchior a pesquisar calcário, no Município de Eldorado Paulista, Estado de São Paulo.

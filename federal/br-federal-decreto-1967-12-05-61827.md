@@ -1,5 +1,3 @@
-###DEC-061827-0-000-05-12-1967@@@
-
 DECRETO Nº 61.827, DE 5 DE DEZEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, a área de terreno situada na BR-232 (Rodovia Sanharó-Pesqueira).

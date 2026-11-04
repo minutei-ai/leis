@@ -1,5 +1,3 @@
-###DEC-079490-0-000-13-04-1977@@@
-
 DECRETO nº 79.490, DE 13 DE ABRIL DE 1977.
 
 Altera dispositivo do Decreto nº 78.463, de 27 de setembro de 1976, que concedeu autorização ao curso de Formação de Professores de Disciplinas Específicas de 2º grau da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Alegrete, Estado do Rio Grande do Sul.

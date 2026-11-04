@@ -1,5 +1,3 @@
-###DEC-048402-0-000-23-06-1960@@@
-
 decreto nº 48.402, de 23 de junho de 1960.
 
 Autorizada a Sociedade São Paulo de Mineração Ltda. a pesquisar bauxita no município de Santa Isabel, Estado de São Paulo.

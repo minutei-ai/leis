@@ -1,5 +1,3 @@
-###DEC-075796-0-000-28-05-1975@@@
-
 DECRETO Nº 75.796, DE 28 DE MAIO DE 1975.
 
 Autoriza o funcionamento da habilitação em Supervisão Escolar, licenciatura plena, do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Lavras, mantida pela Fundação Faculdade de Filosofia, Ciências e Letras de Lavras, com sede na cidade de Lavras, Estado de Minas Gerais.

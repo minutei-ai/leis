@@ -1,5 +1,3 @@
-###DEC-094785-0-000-19-08-1987@@@
-
 DECRETO N° 94.785, DE 19 DE AGOSTO DE 1987
 
 Autoriza o funcionamento do curso de Artes Práticas a ser ministrado pela Faculdade de Educação de Joaçaba.

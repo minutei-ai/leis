@@ -1,5 +1,3 @@
-###DEC-098667-0-000-27-12-1989@@@
-
 DECRETO Nº 98.667, DE 27 DE DEZEMBRO DE 1989
 
 Altera o art. 8° do Decreto nº 95.904, de 7 de abril de 1988.

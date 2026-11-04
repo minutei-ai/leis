@@ -1,5 +1,3 @@
-###DEC-047709-0-000-27-01-1960@@@
-
 Decreto nº 47.709, de 27 de janeiro de 1960.
 
 Aprova o Regulamento da Lei número 3.654, de 4 de novembro de 1959, que dispõe sôbre a criação e organização do Quadro de Material Bélico, das Armas de Comunicações e de Engenharia, bem como sôbre a extinção do Quadro de Técnicos da Ativa.

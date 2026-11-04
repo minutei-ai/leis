@@ -1,5 +1,3 @@
-###DEC-088785-0-000-03-10-1983@@@
-
 DECRETO Nº 88.785, DE 03 DE OUTUBRO DE 1983
 
 Outorga concessão à RÁDIO DIFUSORA DE ANORI LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Anori, Estado do Amazonas.

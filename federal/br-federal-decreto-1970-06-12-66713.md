@@ -1,5 +1,3 @@
-###DEC-066713-0-000-12-06-1970@@@
-
 decreto nº 66.713, de 12 de junho de 1970.
 
 Concede à Cimento Portland de Alagoas S. A., o direito de lavrar calcário, no município de São Miguel dos Campos, Estado de Alagoas.

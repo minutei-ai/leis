@@ -1,5 +1,3 @@
-###DEC-083835-0-000-13-08-1979@@@
-
 Decreto nº 83.835, de 13 de agosto de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Notre Dame da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

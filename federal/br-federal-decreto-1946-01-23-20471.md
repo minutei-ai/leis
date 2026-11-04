@@ -1,32 +1,30 @@
-###DEC-020471-0-000-23-01-1946@@@
+**DECRETO Nº 20.471, DE 23 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.471, DE 23 DE JANEIRO DE 1946.</strong>
+***Aprova o Regulamento do instituto Nacional do Pinho (I. N. P.)***
 
-<em><strong>Aprova o Regulamento do instituto Nacional do Pinho (I. N. P.)</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o atrigo 74, letra *a* da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o atrigo 74, letra <em>a</em> da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1° Fica aprovado o regulamento do Instituto Nacional do Pinho, jurisdicionado ao ministério do Trabalho, Indústria e Comércio, que a este acompanha, assinado pelo Ministério do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 1° Fica aprovado o regulamento do Instituto Nacional do Pinho, jurisdicionado ao ministério do Trabalho, Indústria e Comércio, que a este acompanha, assinado pelo Ministério do Trabalho, Indústria e Comércio.
-
-<strong>Art</strong>. 2º O Presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O Presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 23 de Janeiro de 1946, 125° da Independência e 58° da república.
 
-<strong>JOSÉ LINHARES.</strong>
+**JOSÉ LINHARES.**
 
 R. Carneiro de Mendonça.
 
-<em>REGULAMENTO DO INSTITUTO NACIONAL DO PINHO</em>
+*REGULAMENTO DO INSTITUTO NACIONAL DO PINHO*
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1° O Instituto Nacional do Pinho (I.N.P.), entidade de natureza paraestatal, com personalidade própria, sob a jurisdição do Ministério do Trabalho, Indústria e Comércio, com sede e fôro na Capital da República, é órgão oficial dos interêsses dos produtores, industriais e exportadores de pinho.
+**Art**. 1° O Instituto Nacional do Pinho (I.N.P.), entidade de natureza paraestatal, com personalidade própria, sob a jurisdição do Ministério do Trabalho, Indústria e Comércio, com sede e fôro na Capital da República, é órgão oficial dos interêsses dos produtores, industriais e exportadores de pinho.
 
-<strong>Art</strong>. 2° O I.N.P. tem por fim:
+**Art**. 2° O I.N.P. tem por fim:
 
 I - estabelecer as bases para a normalização e defesa da produção do pinho;
 
@@ -60,11 +58,11 @@ XV - fiscalizar a execução das medidas e resolução tomadas, punindo os infra
 
 XVI - Sugerir ás autoridades públicas as medidas fora de sua competência, que sejam necessárias à realização dos seus fins.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 3° O I.N.P compõe-se de:
+**Art**. 3° O I.N.P compõe-se de:
 
 \- Junta Deliberativa (J.D)
 
@@ -84,35 +82,35 @@ XVI - Sugerir ás autoridades públicas as medidas fora de sua competência, que
 
 \- Juntas Regionais (Js. Rs.)
 
-<strong>Art</strong>. 4º Para os trabalhos de natureza jurídica possui o I.N.P. um Consultor Jurídico, diretamente subordinados ao Presidente.
+**Art**. 4º Para os trabalhos de natureza jurídica possui o I.N.P. um Consultor Jurídico, diretamente subordinados ao Presidente.
 
-<strong>Art</strong>. 5º As divisões e seções funcionarão articuladas em regime de mútua colaboração, sob a orientação do Presidente.
+**Art**. 5º As divisões e seções funcionarão articuladas em regime de mútua colaboração, sob a orientação do Presidente.
 
-<strong>CAPITULO III</strong>
+**CAPITULO III**
 
-<em>DA JUNTA DELIBERATIVA</em>
+*DA JUNTA DELIBERATIVA*
 
-<strong>Art</strong>. 6° A Junta Deliberativa será constituída de oito membros, escolhidos da seguinte forma:
+**Art**. 6° A Junta Deliberativa será constituída de oito membros, escolhidos da seguinte forma:
 
 a)      um representante do Govêrno de cada um dos Estados de S. Paulo, Paraná, Santa Catarina e Rio Grande do Sul; e
 
 b)      um delegado dos produtores, industrias e exportadores de pinho de cada um dos Estados citados no ítem anterior.
 
-<strong>Art</strong>. 7º A junta Deliberativa se reunirá sob a presidência do Presidente do Instituto, que terá voto de qualidade.
+**Art**. 7º A junta Deliberativa se reunirá sob a presidência do Presidente do Instituto, que terá voto de qualidade.
 
-<strong>Art</strong>. 8° Os representantes dos govêrnos estaduais serão designados pelo período de dois anos, podendo ser reconduzidos, bem como exonerados, a Juízo dos Govêrnos dos respectivos Estados.
+**Art**. 8° Os representantes dos govêrnos estaduais serão designados pelo período de dois anos, podendo ser reconduzidos, bem como exonerados, a Juízo dos Govêrnos dos respectivos Estados.
 
-<strong>Art</strong>. 9° Os delegados dos produtores, industriais e exportadores serão escolhidos entre os componentes das Juntas Regionais e exercerão o seu mandato pelo período de dois anos.
+**Art**. 9° Os delegados dos produtores, industriais e exportadores serão escolhidos entre os componentes das Juntas Regionais e exercerão o seu mandato pelo período de dois anos.
 
-<strong>Art</strong>. 10. A Junta Deliberativa se reunirá, ordinariamente, uma vez por ano em data previamente marcada e, extraordinariamente, sempre que fôr convocada, com antecedência mínima de quinze dias, pelo Presidente do Instituto dos ou por solicitação escrita de dois terços dos seus membros.
+**Art**. 10. A Junta Deliberativa se reunirá, ordinariamente, uma vez por ano em data previamente marcada e, extraordinariamente, sempre que fôr convocada, com antecedência mínima de quinze dias, pelo Presidente do Instituto dos ou por solicitação escrita de dois terços dos seus membros.
 
-<strong>Art</strong>. 11. A Junta Deliberativa elegerá, anualmente, três dos seus membros para constituírem a Comissão Fiscal.
+**Art**. 11. A Junta Deliberativa elegerá, anualmente, três dos seus membros para constituírem a Comissão Fiscal.
 
 § 1º A Comissão Fiscal caberá o exame contábil da gestão financeira do instituto, devendo apresentar à J.D. um relatório circunstanciado dos seus trabalhos, em que conclua pela aprovação ou não das contas.
 
 § 2° Auxiliará a C.F. um funcionário especializado em contabilidade, designado pelo Ministério do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 12. São atribuições da Junta Deliberativa:
+**Art**. 12. São atribuições da Junta Deliberativa:
 
 a) traçar a política econômica do Instituto;
 
@@ -130,15 +128,15 @@ g) sugerir aos poderes públicos, através do Presidente do I.N.P., as providên
 
 h) julgar os recursos interpostos dos atos o Presidente do I.N.P ,relativos aos interêsses da produção, indústria e comércio do pinho.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA COMPETÊNCIA DAS DIVISÕES E SEÇÕES</em>
+*DA COMPETÊNCIA DAS DIVISÕES E SEÇÕES*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Divisão de Estudos de Economia Florestal</em>
+*Da Divisão de Estudos de Economia Florestal*
 
-<strong>Art</strong>. 13. A D.E.E.F. compete:
+**Art**. 13. A D.E.E.F. compete:
 
 a) realizar o levantamento dos pinheirais e das áreas que ocupam;
 
@@ -186,11 +184,11 @@ I - à melhoria das condições de vida do homem rural ocupado em atividades rel
 
 II - à educação e preparo profissional relacionado com o cultivo, exploração e comércio do pinho.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Divisão de Florestamento e Reflorestamento</em>
+*Da Divisão de Florestamento e Reflorestamento*
 
-<strong>Art</strong>. 14. A.D.F.R. compete:
+**Art**. 14. A.D.F.R. compete:
 
 a) realizar, quanto ao plantio do pinho, estudos com objetivo de determinar:
 
@@ -222,11 +220,11 @@ j) sugerir as medidas necessárias à obtenção da colaboração dos govêrnos 
 
 l) propor a criação ou aquisição de parques e hortas florestais, bem como das instalações.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Divisão de cadastro e Estaduais</em>
+*Da Divisão de cadastro e Estaduais*
 
-<strong>Art</strong>. 15. A.D.C.E, compete:
+**Art**. 15. A.D.C.E, compete:
 
 a) Organizar o cadastro dos produtores;
 
@@ -250,11 +248,11 @@ I - com a Seção de Documentação, na publicação de boletins, folhetos e liv
 
 II - com a Divisão de Estudos de Economia Florestal na fixação de preços mínimos, na elaboração de levantamentos para especificação, etc.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Divisão de Orçamente Contabilidade</em>
+*Divisão de Orçamente Contabilidade*
 
-<strong>Art</strong>. 16. A.D.O.C. Compete:
+**Art**. 16. A.D.O.C. Compete:
 
 a) organizar e manter atualizada a contabilidade do Instituto, não só relativamente às atividades instrumentais, mas também finalísticas;
 
@@ -270,11 +268,11 @@ f) coordenar a proposta orçamentária, bem como os dados informativos indispens
 
 g) colaborar com os demais órgãos do Instituto em todos os assuntos relacionados intimidante com e técnica contábil.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Seção de Documentação</em>
+*Da Seção de Documentação*
 
-<strong>Art</strong>. 17. - A.S.D. compete:
+**Art**. 17. - A.S.D. compete:
 
 a) guardar e conservar livros e publicações;
 
@@ -284,17 +282,17 @@ c) manter um serviço de referência bibliográfica e legislativa de assuntos ma
 
 d) divulgar, utilizando-se para isso da instrumentalização concernente à técnica publicitária, tudo quanto de alguma forma possa concorrer para uma ampla apreciação das finalidades e realizações do Instituto.
 
-<strong>Art</strong>. 18. Para cumprimento das atribuições contidas nas alínea <em>a</em>, <em>b</em> e <em>c</em>, do artigo anterior, haverá uma Biblioteca diretamente subordinada ao Chefe da S.D..
+**Art**. 18. Para cumprimento das atribuições contidas nas alínea *a*, *b* e *c*, do artigo anterior, haverá uma Biblioteca diretamente subordinada ao Chefe da S.D..
 
-<strong>Art</strong>. 19. Para cumprimento do disposto na alínea <em>d</em> do art. 17, e sem prejuízo de quaisquer outras publicações julgadas necessárias, a S.D. fará publicar um Boletim que será o órgão oficial do Instituto.
+**Art**. 19. Para cumprimento do disposto na alínea *d* do art. 17, e sem prejuízo de quaisquer outras publicações julgadas necessárias, a S.D. fará publicar um Boletim que será o órgão oficial do Instituto.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Da Seção de Administração</em>
+*Da Seção de Administração*
 
-<strong>Art</strong>. 20. - A.S.A. incumbe promover as medidas necessárias à promover as medidas necessárias à administração do pessoal, material, comunicações e portaria do I.N.P., cuja execução competeria às Turmas de Pessoal (T.P.), de Material (T.M.), Comunicações (T.C.) e à Portaria.
+**Art**. 20. - A.S.A. incumbe promover as medidas necessárias à promover as medidas necessárias à administração do pessoal, material, comunicações e portaria do I.N.P., cuja execução competeria às Turmas de Pessoal (T.P.), de Material (T.M.), Comunicações (T.C.) e à Portaria.
 
-<strong>Art</strong>. 21 - A.T.P. compete:
+**Art**. 21 - A.T.P. compete:
 
 a) iniciar o processo para admissão de empregados;
 
@@ -316,7 +314,7 @@ i) organizar e manter em dia a ficha financeira individual;
 
 j) prestar aos demais órgãos do Instituto informações relativas às suas atividades, sempre que solicitadas.
 
-<strong>Art</strong>. 22. A.T.M. Compete:
+**Art**. 22. A.T.M. Compete:
 
 a) realizar, preferentemente, por meio de concorrência, a compra do material necessário;
 
@@ -336,7 +334,7 @@ h) lavrar os têrmos de ajustes, acordos, contratos e quaisquer atos relativos �
 
 i) prestar aos demais órgãos do Instituto informações relativas às suas atividades, sempre que solicitadas.
 
-<strong>Art</strong>. 23. A T.C. compete:
+**Art**. 23. A T.C. compete:
 
 a) receber e distribuir a correspondência, registrando a que fôr de natureza oficial;
 
@@ -358,7 +356,7 @@ i) promover a publicação, nos órgãos oficiais, dos atos e decisões relativo
 
 j) prestar aos demais órgãos do Instituto as informações relativas às suas atividades, sempre que solicitadas.
 
-<strong>Art</strong>. 24. À Portaria compete:
+**Art**. 24. À Portaria compete:
 
 a) abrir e fechar as dependências da sede do Instituto;
 
@@ -370,13 +368,13 @@ d) fornecer aos demais órgãos do Instituto os mensageiros que se fizerem neces
 
 e) zelar pela conservação e higiene das instalações internas.
 
-<strong>CAPÍTUTLO V</strong>
+**CAPÍTUTLO V**
 
-<em>DAS DELEGACIAS REGIONAIS</em>
+*DAS DELEGACIAS REGIONAIS*
 
-<strong>Art</strong>. 25. As Delegacias Regionais têm por funções:
+**Art**. 25. As Delegacias Regionais têm por funções:
 
-a) representar o Instituto em cada um dos Estados mencionados na alínea <em>a</em> do art. 6º;
+a) representar o Instituto em cada um dos Estados mencionados na alínea *a* do art. 6º;
 
 b) cumprir as deliberações do Instituto e zelar pela fiel obsevância das leis, regulamentos e resoluções relativas a tôdas as essências florestais econômicamente exploráveis;
 
@@ -386,7 +384,7 @@ d) proceder à apreesão das mercadorias que não estiverem acompanhadas da prov
 
 e) suspender o embarque das mercadorias que não correspondam às especificações estabelecidas;
 
-<strong>Art</strong>. 26. Haverá no Distrito Federal uma Delegacia imcumbida de:
+**Art**. 26. Haverá no Distrito Federal uma Delegacia imcumbida de:
 
 a) cumprir as deliberações do Instituto e zelar pela fiel observância das leis, regulamentos e resoluções relativas a tôdas as essências florestais econômicamente exploráveis;
 
@@ -400,23 +398,23 @@ e) emitir Guias de Exportação para as madeiras embarcadas nom pôrto do Distri
 
 f) fornecer aos ógãos competentes do Instituto os dados necessários ao contrôle das atividades madeireiras do Distrito Federal.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS JUNTAS REGIONAIS</em>
+*DAS JUNTAS REGIONAIS*
 
-<strong>Art</strong>. 27. As Juntas Regionais serão constituídas pelos delegados das classes dos produtores, industriais e exportadores de madeiras, eleitos pelas federações, e, na falta, pelos sindicatos e do representante do Govêrno Estadual.
+**Art**. 27. As Juntas Regionais serão constituídas pelos delegados das classes dos produtores, industriais e exportadores de madeiras, eleitos pelas federações, e, na falta, pelos sindicatos e do representante do Govêrno Estadual.
 
 Parágrafo único. Os serviços prestados pelos membros das Js.Rs. serão gratuitos e considerados de caráter relevante.
 
-<strong>Art</strong>. 28. Juntamente com os Delegados das classes madeireiras, serão eleitos, pela mesma forma, os respectivos suplentes, aos quais competirá, em caso de impedimento, renúncia ou falecimento daqueles, preencher o mandato interrompido.
+**Art**. 28. Juntamente com os Delegados das classes madeireiras, serão eleitos, pela mesma forma, os respectivos suplentes, aos quais competirá, em caso de impedimento, renúncia ou falecimento daqueles, preencher o mandato interrompido.
 
-<strong>Art</strong>. 29. Os representantes dos Governos Estaduais nas Js.Rs. serão os que tiverem sido designados para a Junta Deliberativa.
+**Art**. 29. Os representantes dos Governos Estaduais nas Js.Rs. serão os que tiverem sido designados para a Junta Deliberativa.
 
-<strong>Art</strong>. 30. Se um Estado houver apenas um Sindicato de qualquer das classes madeireiras, êste elegerá o seu Delegado.
+**Art**. 30. Se um Estado houver apenas um Sindicato de qualquer das classes madeireiras, êste elegerá o seu Delegado.
 
-<strong>Art</strong>. 31. Quando não houver Federação Organizada e extinto mais de um Sindicato da mesma classe, os Delegados eleitos pelos respectivos Sindicatos se reunirão em local designado pelo Delegado Regional, a fim de eleger aquele que representará a classe na Junta Regional.
+**Art**. 31. Quando não houver Federação Organizada e extinto mais de um Sindicato da mesma classe, os Delegados eleitos pelos respectivos Sindicatos se reunirão em local designado pelo Delegado Regional, a fim de eleger aquele que representará a classe na Junta Regional.
 
-<strong>Art</strong>. 32. O mandato dos Delegados classistas será de dois anos, contados da data de sua posse e só poderá ser cassado por deliberação da maioria absoluta dos associados do Sindicato que os tenha elegido.
+**Art**. 32. O mandato dos Delegados classistas será de dois anos, contados da data de sua posse e só poderá ser cassado por deliberação da maioria absoluta dos associados do Sindicato que os tenha elegido.
 
 Parágrafo único. Perderá, também, o mandato, o membro da J.R. que:
 
@@ -428,21 +426,21 @@ c) ausentar-se do Estado por período superior a seis meses;
 
 d) desrespeitar qualquer das decisões do Instituto.
 
-<strong>Art</strong>. 33. Os representantes dos Governos Estaduais serão designados pelo período de dois anos, podendo ser conduzidos, bem como exonerados em qualquer época, a juízo do Govêrno do Estado.
+**Art**. 33. Os representantes dos Governos Estaduais serão designados pelo período de dois anos, podendo ser conduzidos, bem como exonerados em qualquer época, a juízo do Govêrno do Estado.
 
-<strong>Art</strong>. 34. Os representantes dos madeireiros, componentes de cada J.R., deverão eleger, na reunião anterior à renovação da Junta Deliberativa, aquele dos seus membros que nesta representará os seus interêsses, bem como o respectivo suplente.
+**Art**. 34. Os representantes dos madeireiros, componentes de cada J.R., deverão eleger, na reunião anterior à renovação da Junta Deliberativa, aquele dos seus membros que nesta representará os seus interêsses, bem como o respectivo suplente.
 
-<strong>Art</strong>. 35. As Js.Rs. se reunirão, ordinariamente, trinta dias antes da J.D., e, extraordinariamente, quando convocadas pelo Presidente do Instituto.
+**Art**. 35. As Js.Rs. se reunirão, ordinariamente, trinta dias antes da J.D., e, extraordinariamente, quando convocadas pelo Presidente do Instituto.
 
 § 1º As reuniões extraordinárias ocorrerão quando assuntos de relevante importância e de caráter regional exigirem solução urgente.
 
 § 2º Quando êsses assuntos interessarem a mais de um dos Estados referidos no art. 6º dêste decreto, poderá o Presidente do Instituto realizar uma reunião conjunta das Js.Rs. dos mesmos.
 
-<strong>Art</strong>. 36. Presidirão as reuniões das Js.Rs., com voto de qualidade, os respectivos Delegados Regionais do Instituto.
+**Art**. 36. Presidirão as reuniões das Js.Rs., com voto de qualidade, os respectivos Delegados Regionais do Instituto.
 
 Parágrafo único. No caso de ausência do Delegado Regional, presidirá a reunião o seu substituto legal.
 
-<strong>Art</strong>. 37.Compete às Js.Rs.:
+**Art**. 37.Compete às Js.Rs.:
 
 a) estudar e dar parecer sôbre todos os assuntos que lhes forem encaminhados pelo Presidente do I.N.P. e constantes do edital de convocação;
 
@@ -454,13 +452,13 @@ d) a J.R. poderá, sempre que fôr necessário, solicitar esclarecimentos à Del
 
 e) colaborar em todos os sentidos com a Delegacia Regional respectiva, bem como com todos os órgãos do I.N.P.
 
-<strong>Art</strong>. 38. As Js.Rs funcionarão também como Conselhos Regionais de Florestamento.
+**Art**. 38. As Js.Rs funcionarão também como Conselhos Regionais de Florestamento.
 
-<strong>Art</strong>. 39. Por sessão dos Cs.Rs.Fs., a que comparecerem, perceberão os seus membros, com exceção do Delegado Regional, uma gratificação a ser arbitrada pela Junta Deliberativa.
+**Art**. 39. Por sessão dos Cs.Rs.Fs., a que comparecerem, perceberão os seus membros, com exceção do Delegado Regional, uma gratificação a ser arbitrada pela Junta Deliberativa.
 
 Parágrafo único. Para os efeitos dêste artigo, as sessões dos Cs.Rs.Fs., não poderão ultrapassar de quatro (4) por mês.
 
-<strong>Art</strong>. 40. Aos Cs.Rs.Fs., que serão presididos pelos Delegados Regionais, compete:
+**Art**. 40. Aos Cs.Rs.Fs., que serão presididos pelos Delegados Regionais, compete:
 
 a) organizar, em colaboração com os silvicultores regionais, os planos de florestamento, e elaborar os orçamentos anuais, para serem apresentados, antes do início de cada exercício à J.D., por intermédio do Presidente do I.N.P., para estudo, aprovação ou modificação;
 
@@ -476,11 +474,11 @@ f) delegar poderes a comissões especiais dentro dos respectivos conselhos, para
 
 g) entabolar acordos de florestamento com os Governos Estaduais e municipais, submetendo-os, para aprovação, ao Presidente do I.N.P.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 41. Ao Presidente, administrador, orientador e coordenador das atividades do I.N.P., incumbe:
+**Art**. 41. Ao Presidente, administrador, orientador e coordenador das atividades do I.N.P., incumbe:
 
 a) cumprir e fazer cumprir a legislação vigente e as resoluções da Junta Deliberativa;
 
@@ -514,17 +512,17 @@ p) determinar a aplicação de sanções aos infratores das resoluções do Inst
 
 q) tomar, enfim, as medidas necessárias à boa administração do Instituto.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Do Secretário Geral e suas atribuições</em>
+*Do Secretário Geral e suas atribuições*
 
-<strong>Art</strong>. 42. Ao Secretário Geral incumbe auxiliar o Presidente na administração, orientação e coordenação das atividades do Instituto, cabendo-lhe a responsabilidade de promover e superintender a execução de tôdas as ordens, medidas, instruções e resoluções que digam respeito ao I.N.P.
+**Art**. 42. Ao Secretário Geral incumbe auxiliar o Presidente na administração, orientação e coordenação das atividades do Instituto, cabendo-lhe a responsabilidade de promover e superintender a execução de tôdas as ordens, medidas, instruções e resoluções que digam respeito ao I.N.P.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Dos chefes de Divisões e Seções e suas atribuições</em>
+*Dos chefes de Divisões e Seções e suas atribuições*
 
-<strong>Art</strong>. 43. Aos Chefes de Divisão e Seção supervisores dos trabalhos das respectivas Divisões e Seções, compete:
+**Art**. 43. Aos Chefes de Divisão e Seção supervisores dos trabalhos das respectivas Divisões e Seções, compete:
 
 a) propor ao Presidente tôdas as medidas de caráter técnico, administrativo ou disciplinares que se tornarem necessárias ao eficiente desempenho das atribuições a cargo das respectivas Divisões ou Seções;
 
@@ -534,11 +532,11 @@ c) manter estreita colaboração com os demais órgãos do Instituto;
 
 d) apresentar ao Presidente, mensalmente, um boletim e, anualmente, o relatório circunstanciado dos trabalhos da respectiva Divisão ou Seção.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Dos Delegados Regionais e sua atribuições</em>
+*Dos Delegados Regionais e sua atribuições*
 
-<strong>Art</strong>. 44. Aos Delegados Regionais compete:
+**Art**. 44. Aos Delegados Regionais compete:
 
 a) dirigir, orientar e coordenar as atividades da respectiva Delegacia, de acôrdo com as instruções do Presidente do I.N.P;
 
@@ -554,11 +552,11 @@ f) resolver os assuntos relativos às atividades da respectiva Delegacia opinar 
 
 g) apresentar ao Presidente do I.N.P, mensalmente, um boletim, e anualmente, o relatório circunstanciado dos trabalhos da respectiva Delegacia.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Do Consultor Jurídico</em>
+*Do Consultor Jurídico*
 
-<strong>Art</strong>. 45. Ao consultor Jurídico compete:
+**Art**. 45. Ao consultor Jurídico compete:
 
 a) prestar assistência técnico-jurídico aos órgãos do Instituto;
 
@@ -572,45 +570,45 @@ e) Propor a consolidação do I.N.P e a sua revisão quando necessária;
 
 f) Apresentar, anualmente ao Presidente, o relatório circunstanciado dos trabalhos.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Dos Funcionários</em>
+*Dos Funcionários*
 
-<strong>Art</strong>. 46. Os serviços do Instituto serão atendidas por pessoal previsto no quadro respectivo, sendo nomeado em comissão ou em caráter efetivo.
+**Art**. 46. Os serviços do Instituto serão atendidas por pessoal previsto no quadro respectivo, sendo nomeado em comissão ou em caráter efetivo.
 
 Parágrafo único. Poderá ser admitido, excepcionalmente, e em caráter temporário, pessoal extraordinário a título de contrato.
 
-<strong>Art</strong>. 47. Os cargos de chefia, os de Delegados Regionais e Assistentes do Presidente serão de confiança e providos em comissão, por livre escolha do Presidente, sem prejuízo do cargo efetivo, no caso de ter recaído a escolha sôbre funcionários do quadro permanente.
+**Art**. 47. Os cargos de chefia, os de Delegados Regionais e Assistentes do Presidente serão de confiança e providos em comissão, por livre escolha do Presidente, sem prejuízo do cargo efetivo, no caso de ter recaído a escolha sôbre funcionários do quadro permanente.
 
 § 1º A nomeação dos Delegados Regionais deverá recair obrigatoriamente dentre os funcionários do Quadro Permanente do I.N.P.
 
 § 2º O cargo de Consultor Jurídico e de provimento efetivo, devendo a nomeação recair sôbre bacharel em Direito, de reconhecida competência.
 
-<strong>Art</strong>. 48. Os funcionários a título permanente serão grupados em carreiras, cada uma definida por atividade de afins, comportando diferentes graus para acesso, e correspondendo a atividades funcionais suficientemente diferenciadas, ou ocuparão cargos isolados.
+**Art**. 48. Os funcionários a título permanente serão grupados em carreiras, cada uma definida por atividade de afins, comportando diferentes graus para acesso, e correspondendo a atividades funcionais suficientemente diferenciadas, ou ocuparão cargos isolados.
 
 Parágrafo único. Para admissão de pessoal ao Quadro Permanente, além de outras condições pessoais eliminatórias, fixadas pela administração, e indispensável que seja feita prova de habilitação.
 
-<strong>Art</strong>. 49. Todo o pessoal será admitido pelo Presidente do Instituto em Portaria, e ou êle promovido, removido, transferido ou exonerado.
+**Art**. 49. Todo o pessoal será admitido pelo Presidente do Instituto em Portaria, e ou êle promovido, removido, transferido ou exonerado.
 
-<strong>Art</strong>. 50. O funcionário nomeado mediante prova de habilitação exercerá o cargo a titulo estagiário, durante dois anos, findos, os quais gozará de estabilidade, sendo promovido em caráter efetivo e só podendo ser exonerado em virtude de falta grave, comprovada em inquérito administrativo regular.
+**Art**. 50. O funcionário nomeado mediante prova de habilitação exercerá o cargo a titulo estagiário, durante dois anos, findos, os quais gozará de estabilidade, sendo promovido em caráter efetivo e só podendo ser exonerado em virtude de falta grave, comprovada em inquérito administrativo regular.
 
-<strong>Art</strong>. 51. Serão aproveitados no Quadro Permanente do Instituto, com os vencimentos que perceberem na data dêste decreto, os funcionários existentes nessa data, com exercício na sede da Administração e nas Delegacias Regionais.
+**Art**. 51. Serão aproveitados no Quadro Permanente do Instituto, com os vencimentos que perceberem na data dêste decreto, os funcionários existentes nessa data, com exercício na sede da Administração e nas Delegacias Regionais.
 
-<strong>Art</strong>. 52. Ao funcionário aproveitado em cargo efetivo, na forma do artigo anterior, será assegurada estabilidade.
+**Art**. 52. Ao funcionário aproveitado em cargo efetivo, na forma do artigo anterior, será assegurada estabilidade.
 
-<strong>Art</strong>. 53. Aos empregados, em geral, do I.N.P, incube executar os trabalhos que lhe forem determinados pelo chefe imediato.
+**Art**. 53. Aos empregados, em geral, do I.N.P, incube executar os trabalhos que lhe forem determinados pelo chefe imediato.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>DO HOR</em>Á<em>RIO</em>
+*DO HOR*Á*RIO*
 
-<strong>Art</strong>. 54. O horário normal de trabalho será fixado pelo Presidente do I.N.P, respeitadas as limitações legais em vigor.
+**Art**. 54. O horário normal de trabalho será fixado pelo Presidente do I.N.P, respeitadas as limitações legais em vigor.
 
-<strong>SEÇÃO VIII</strong>
+**SEÇÃO VIII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 55. Serão substituídos automaticamente, em suas faltas e impedimentos eventuais:
+**Art**. 55. Serão substituídos automaticamente, em suas faltas e impedimentos eventuais:
 
 I - O Presidente, pelo Secretário Geral;
 
@@ -622,45 +620,45 @@ IV - Os Chefes da S.A e da S.D por servidor designado pelo Presidente.
 
 Parágrafo único. Haverá sempre servidores previamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DO REGISTRO</em>
+*DO REGISTRO*
 
-<strong>Art</strong>. 56. O Instituto organizará o registro obrigatório de todos os que se dedicarem as atividades madeireiras.
+**Art**. 56. O Instituto organizará o registro obrigatório de todos os que se dedicarem as atividades madeireiras.
 
-<strong>Art</strong>. 57. Todos os produtores, industriais, exportadores de pinho e outras essências, dos estados a que se refere êste Regulamento, são obrigados ao registro anterior.
+**Art**. 57. Todos os produtores, industriais, exportadores de pinho e outras essências, dos estados a que se refere êste Regulamento, são obrigados ao registro anterior.
 
-<strong>Art</strong>. 58. Os pedidos de inscrição serão instituídos com prova de atividade exercida pelo requerente e demais elementos que se façam necessários ao registro.
+**Art**. 58. Os pedidos de inscrição serão instituídos com prova de atividade exercida pelo requerente e demais elementos que se façam necessários ao registro.
 
-<strong>Art</strong>. 59. Os certificados de registro serão expedidos em correspondência a cada atividade, ainda que se trate da mesma pessoa ou entidade.
+**Art**. 59. Os certificados de registro serão expedidos em correspondência a cada atividade, ainda que se trate da mesma pessoa ou entidade.
 
-<strong>Art</strong>. 60. Os certificados de registro deverão conter os dados essenciais a identificação e classificação dos seus possuidores.
+**Art**. 60. Os certificados de registro deverão conter os dados essenciais a identificação e classificação dos seus possuidores.
 
-<strong>Art</strong>. 61. Estão sujeitos ao registro a que alude êste capítulo as associações e organizações semelhantes que, sob qualquer pretexto, congreguem os que se dedicam às entidades madeireiras.
+**Art**. 61. Estão sujeitos ao registro a que alude êste capítulo as associações e organizações semelhantes que, sob qualquer pretexto, congreguem os que se dedicam às entidades madeireiras.
 
-<strong>Art</strong>. 62. O instituto cobrará pela expedição de certificados de registros emolumentos, de acôrdo com a tabela que fôr aprovada pela Junta Deliberativa.
+**Art**. 62. O instituto cobrará pela expedição de certificados de registros emolumentos, de acôrdo com a tabela que fôr aprovada pela Junta Deliberativa.
 
-<strong>Art</strong>. 63. Os Sindicatos representantes de interêsses das classes, que se dediquem às atividades madeireiras, para fins previstos neste regulamento, deverão instruir o seu pedido de registro com a cópia fotostática da respectiva carta sindical, a cópia autêntica da ata da assembléia em que tiver sido eleita a sua diretoria, uma vez homologada pelo poder competente e a relação nominal dos seus associados em pleno gôzo dos seus direitos.
+**Art**. 63. Os Sindicatos representantes de interêsses das classes, que se dediquem às atividades madeireiras, para fins previstos neste regulamento, deverão instruir o seu pedido de registro com a cópia fotostática da respectiva carta sindical, a cópia autêntica da ata da assembléia em que tiver sido eleita a sua diretoria, uma vez homologada pelo poder competente e a relação nominal dos seus associados em pleno gôzo dos seus direitos.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DE VIDA FINANCEIRA DO INSTITUTO</em>
+*DE VIDA FINANCEIRA DO INSTITUTO*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Das fontes de receita</em>
+*Das fontes de receita*
 
-<strong>Art</strong>. 64. Constituirão receitas do Instituto:
+**Art**. 64. Constituirão receitas do Instituto:
 
 a) as taxas a que se refere o artigo 22 do Decreto-lei nº 4.813, de 8 de outubro de 1942;
 
 b) outras receitas eventuais neste Regulamento, mas que, por direito, caibam ao Instituto.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da arrecadação</em>
+*Da arrecadação*
 
-<strong>Art</strong>. 65. As taxas a que se refere o artigo anterior serão arrecadadas pelo instituto ou por quem por êle estiver autorizado.
+**Art**. 65. As taxas a que se refere o artigo anterior serão arrecadadas pelo instituto ou por quem por êle estiver autorizado.
 
 § 1º O recolhimento da taxa se fará diretamente ao Instituto, aos seus órgãos regionais ou ao Banco ou agência bancária mais próxima do local de arrecadação.
 
@@ -668,23 +666,23 @@ b) outras receitas eventuais neste Regulamento, mas que, por direito, caibam ao 
 
 § 3º Quando o recolhimento das taxas fôr efetuado pelos Govêrnos estaduais, o prazo a que se refere o parágrafo anterior será de 30 dias.
 
-<strong>Art</strong>. 66. O Instituto poderá assinar acordos ou convênios com órgãos oficiais de arrecadação, a fim de receberem as taxas devidas ao Instituto, observando-se, então, o que a respeito fôr estabelecido.
+**Art**. 66. O Instituto poderá assinar acordos ou convênios com órgãos oficiais de arrecadação, a fim de receberem as taxas devidas ao Instituto, observando-se, então, o que a respeito fôr estabelecido.
 
-<strong>Art</strong>. 67. Em qualquer caso os órgãos regionais deverão ser informados, diariamente, sôbre o movimento de arrecadação nas respectivas circunscrições, cumprindo-lhes trazer o Instituto constantemente a par do movimento.
+**Art**. 67. Em qualquer caso os órgãos regionais deverão ser informados, diariamente, sôbre o movimento de arrecadação nas respectivas circunscrições, cumprindo-lhes trazer o Instituto constantemente a par do movimento.
 
 Parágrafo único. Para a execução do contrôle a que se refere êste artigo, serão organizados boletins diários e quinzenais de arrecadação, os primeiros, enviados pelos órgãos arrecadadores às Delegacias Regionais e os segundos, por estas ao Instituto.
 
-<strong>Art</strong>. 68. Em qualquer das hipóteses a que se referem os dispositivos precedentes, o produto da arrecadação das taxas será recolhido à agência local do Banco do Brasil, a crédito do Instituto.
+**Art**. 68. Em qualquer das hipóteses a que se referem os dispositivos precedentes, o produto da arrecadação das taxas será recolhido à agência local do Banco do Brasil, a crédito do Instituto.
 
 Parágrafo único. A movimentação dessa conta só poderá ser feita mediante autorização expressa do Presidente do Instituto fixados.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Do pagamento das taxas</em>
+*Do pagamento das taxas*
 
-<strong>Art</strong>. 69. A prova de pagamento da taxa ou taxas, devidas em cada caso, constituirá documento indispensável para o embarque ou reconhecimento do produto, no território nacional, segundo o estabelecido nesta lei.
+**Art**. 69. A prova de pagamento da taxa ou taxas, devidas em cada caso, constituirá documento indispensável para o embarque ou reconhecimento do produto, no território nacional, segundo o estabelecido nesta lei.
 
-<strong>Art</strong>. 70. As taxas de defesa da produção, classificação e medição continuarão a ser cobradas pelo regime atualmente em vigor, enquanto o contrário não for deliberado pelo Instituto.
+**Art**. 70. As taxas de defesa da produção, classificação e medição continuarão a ser cobradas pelo regime atualmente em vigor, enquanto o contrário não for deliberado pelo Instituto.
 
 § 1º O valor das taxas indicadas nas tabelas baixadas com o Decreto nº 14.249, de 9 de dezembro de 1943, será pago, em partes iguais, pelo vencedor, cobrador de madeira.
 
@@ -694,13 +692,13 @@ Parágrafo único. A movimentação dessa conta só poderá ser feita mediante a
 
 § 4º Quando o resultado da reclassificação demonstrar êrro, e a responsabilidade dêste couber aos classificadores, as despesas decorrentes serão por êles indenizadas.
 
-<strong>Art</strong>. 71. As taxas previstas no artigo 22, do Decreto-lei nº 4.813, de 8 de outubro de 1942, não incidem sôbre toros de pinho e outras essências destinadas à fabricação de moirões e tramas para cercas divisórias de terras de exploração agro-pecuária.
+**Art**. 71. As taxas previstas no artigo 22, do Decreto-lei nº 4.813, de 8 de outubro de 1942, não incidem sôbre toros de pinho e outras essências destinadas à fabricação de moirões e tramas para cercas divisórias de terras de exploração agro-pecuária.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da destinação das taxas</em>
+*Da destinação das taxas*
 
-<strong>Art</strong>. 72. O produto das taxas arrecadadas será destinado a:
+**Art**. 72. O produto das taxas arrecadadas será destinado a:
 
 a) custear as despesas com o funcionamento do Instituto;
 
@@ -708,19 +706,19 @@ b) fazer face a tôdas as despesas que tenham por fim a plena realização dos o
 
 c) com os recursos do fundo de financiamento, a que se refere o artigo 36 do Decreto-lei nº 4.813, de 8 de outubro de 1942, fazer empréstimos aos que se dedicam às atividades madeireiras, sobretudo aos pequenos, produtores, quer diretamente, quer por intermédio das cooperativas oficiais.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Do Exercício Financeiro e do Orçamento</em>
+*Do Exercício Financeiro e do Orçamento*
 
-<strong>Art</strong>. 73. O exercício financeiro coincidirá com o ano civil.
+**Art**. 73. O exercício financeiro coincidirá com o ano civil.
 
 Parágrafo único - Os períodos que mediarem entre o fim do exercício financeiro até aprovação do novo orçamento serão baseados no do anterior.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>DO PROGRAMA DE AÇÃO</em>
+*DO PROGRAMA DE AÇÃO*
 
-<strong>Art</strong>. 74. O orçamento do Instituto deverá, quando submetido à aprovação da Junta Deliberativa, ser acompanhado de um plano de trabalho, cuja duração deverá coincidir com a do ano financeiro.
+**Art**. 74. O orçamento do Instituto deverá, quando submetido à aprovação da Junta Deliberativa, ser acompanhado de um plano de trabalho, cuja duração deverá coincidir com a do ano financeiro.
 
 § 1º O orçamento do plano de trabalho, a que se refere êste artigo, formarão uma só peça que será denominada de “Programa de Ação”.
 
@@ -734,23 +732,23 @@ III - Previsão qualitativa e quantitativa do volume de trabalho;
 
 IV - justificação analítica da previsão da Receita e Despesa.
 
-<strong>CAPÍTILO XI</strong>
+**CAPÍTILO XI**
 
 DOS PINHERAIS
 
-<strong>Art</strong>. 75. O I.N.P. autoriza a exploração dos pinhais incendiados, liberando a respectiva produção dentro das normas e disposições seguintes:
+**Art**. 75. O I.N.P. autoriza a exploração dos pinhais incendiados, liberando a respectiva produção dentro das normas e disposições seguintes:
 
 a) o prazo máximo para a industrialização de pinheirais sinistrados será de um ano, a contar da data do incêndio;
 
-b) as serrarias utilizadas ou trasferidas para o fim previsto na letra <em>a</em>, ficam isentas da limitação da produção, sendo-lhes atribuída a cota integral, acôrdo com a sua classificação nas tabelas em vigor;
+b) as serrarias utilizadas ou trasferidas para o fim previsto na letra *a*, ficam isentas da limitação da produção, sendo-lhes atribuída a cota integral, acôrdo com a sua classificação nas tabelas em vigor;
 
 c) a produção obtida, deduzida a cota normal da serraria ou serrarias instaladas e em funcionamento, será liberada mediante guia especial e, devido à sua inferior qualidade, colocada nos mercados locais ou internos do país;
 
 d) as requisições dos vagões para o transporte da produção deliberada pelas guias especiais, serão feitas na proporção de cinqüenta por cento da cota normal das serrarias em funcionamento do pinhal.
 
-<strong>Art</strong>. 76. Para gozar benefício concedido pelo artigo anterior, deverá proprietário do pinheiral sinistrado cumprir as seguintes disposições:
+**Art**. 76. Para gozar benefício concedido pelo artigo anterior, deverá proprietário do pinheiral sinistrado cumprir as seguintes disposições:
 
-I - Comunicar a concorrência ao órgão regional do Instituto Nacinal do Pinho e requerer a inspeção <em>in</em> <em>loco</em>, dentro do prazo de trinta dias, contados da data do incêndio;
+I - Comunicar a concorrência ao órgão regional do Instituto Nacinal do Pinho e requerer a inspeção *inloco*, dentro do prazo de trinta dias, contados da data do incêndio;
 
 II - Indicar, por escrito quais a serraria ou serrarias, próprias ou de terceiros, que irão industrializar os toros dos pinheirais sinistrados. No caso de ser necessária a transferência da serraria ou serrarias para o local, deverá requerer as transferências que julgar necessárias;
 
@@ -758,13 +756,13 @@ III - Esgotado o prazo de um ano, contado da data do incêndio, cessa automatica
 
 IV - A produção liberada fica sujeita ao pagamento em dôbro das taxas e emolumentos em vigor, correndo por conta do interessado das despesas decorrentes das providências tomadas pelo Instituto Nacional do Pinho.
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>DAS INFRAÇÕES</em>  <em>E DOS RECURSOS</em>
+*DAS INFRAÇÕES*  *E DOS RECURSOS*
 
-<strong>Art</strong>. 77. As infrações da legislação sôbre o pinheiro, bem como de todos os atos e instruções baixadas pelo Instituto, sujeitam os seus autores às sanções que forem estabelecidas pelo mesmo, sem prejuízo das penalidades decorrentes da legislação vigente.
+**Art**. 77. As infrações da legislação sôbre o pinheiro, bem como de todos os atos e instruções baixadas pelo Instituto, sujeitam os seus autores às sanções que forem estabelecidas pelo mesmo, sem prejuízo das penalidades decorrentes da legislação vigente.
 
-<strong>Art</strong>. 78. As infrações à legislação sôbre o pinho acarretam:
+**Art**. 78. As infrações à legislação sôbre o pinho acarretam:
 
 a) multa;
 
@@ -776,7 +774,7 @@ d) suspensão das guias de embarque ou recebimento;
 
 e) outras sanções previstas pelo I.N.P. em casos especiais.
 
-<strong>Art</strong>. 79. São responsáveis pelas infrações, conforme o caso:
+**Art**. 79. São responsáveis pelas infrações, conforme o caso:
 
 a) o cortador da árvore;
 
@@ -790,13 +788,13 @@ e) o comerciante e;
 
 f) o exportador.
 
-<strong>Art</strong>. 80. Constitui infração, sujeita a multa de Cr$500,00 (quinhentos cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros):
+**Art**. 80. Constitui infração, sujeita a multa de Cr$500,00 (quinhentos cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros):
 
 a) os que não registrarem de acôrdo com o determinado Capítuo VIII do presente Regulamento;
 
 b) todo aquele que, ao preencher as fichas de registro, previsto no Capítulo VIII do presente Regulamento; apresentar dados inexatos. Desde que se possa imputar a inexatidão ou falsidade da informação, está sujeito à pena de cancelamento do registro.
 
-<strong>Art</strong>. 81. São infrações sujeitas a multa de Cr$1.000,00 (um mil cruzeiros) a Cr$50.000,00 (cinqüenta mil cruzeiros) e à apreensão da mercadoria conforme o caso:
+**Art**. 81. São infrações sujeitas a multa de Cr$1.000,00 (um mil cruzeiros) a Cr$50.000,00 (cinqüenta mil cruzeiros) e à apreensão da mercadoria conforme o caso:
 
 a) embarcar ou receber madeiras sem o comprovante do pagamento da taxa;
 
@@ -810,52 +808,52 @@ e) transacionar com quem não esteja registrado no I.N.P. ou tenha seu registro 
 
 f) instalar cerrarias, fábricas de beneficiamento, sem prévia autorização do Instituto.
 
-<strong>Art</strong>. 82. A madeira apreendida por infrações, uma vez satisfeita a multa, será restituída ao proprietário ou condutor, desde que satisfaça às exigências de padronização do Instituto.
+**Art**. 82. A madeira apreendida por infrações, uma vez satisfeita a multa, será restituída ao proprietário ou condutor, desde que satisfaça às exigências de padronização do Instituto.
 
 Parágrafo único. Não estando a mercadoria de acôrdo com a padronização do instituto, será devolvida a fim de que o proprietário preencha os requisitos exigidos.
 
-<strong>Art</strong>. 83. Quando a infração for motivada por duas ou mais pessoas ou entidades, a responsabilidade será solidária.
+**Art**. 83. Quando a infração for motivada por duas ou mais pessoas ou entidades, a responsabilidade será solidária.
 
-<strong>Art</strong>. 84. O funcionamento do Instituto autuante poderá, caso seja preciso, recorrer à Polícia local, a fim de tornar efetiva as medidas que haja tomado.
+**Art**. 84. O funcionamento do Instituto autuante poderá, caso seja preciso, recorrer à Polícia local, a fim de tornar efetiva as medidas que haja tomado.
 
-<strong>Art</strong>. 85. O infrator deverá depositar dentro de 8 (oito dias), na agência do Banco do Brasil S.A. mais próxima, o valor da multa, e terá o prazo de 15 (quinze dias), para fazer sua defesa, perante a Delegacia Regional.
+**Art**. 85. O infrator deverá depositar dentro de 8 (oito dias), na agência do Banco do Brasil S.A. mais próxima, o valor da multa, e terá o prazo de 15 (quinze dias), para fazer sua defesa, perante a Delegacia Regional.
 
-<strong>Art</strong>. 86. As despesas decorrentes da apreensão da mercadoria correrão por conta do infrator.
+**Art**. 86. As despesas decorrentes da apreensão da mercadoria correrão por conta do infrator.
 
-<strong>Art</strong>. 87. Sendo julgada procedente a defesa, será devolvida a mercadoria e restituído o valor da multa depositada.
+**Art**. 87. Sendo julgada procedente a defesa, será devolvida a mercadoria e restituído o valor da multa depositada.
 
-<strong>Art</strong>. 88. Os casos previstos neste capítulo serão resolvidos pelo Presidente do Instituto, sem prejuízo dos recursos legais.
+**Art**. 88. Os casos previstos neste capítulo serão resolvidos pelo Presidente do Instituto, sem prejuízo dos recursos legais.
 
-<strong>Art</strong>. 89. Das decisões e atos das Delegacias Regionais caberá recurso para o Presidente do Instituto.
+**Art**. 89. Das decisões e atos das Delegacias Regionais caberá recurso para o Presidente do Instituto.
 
-<strong>Art</strong>. 90. Dos atos do Presidente do Instituto, relativos aos interesses da produção, indústria e comércio de madeiras caberá recurso, sem caráter suspensivo, para Junta Deliberativa.
+**Art**. 90. Dos atos do Presidente do Instituto, relativos aos interesses da produção, indústria e comércio de madeiras caberá recurso, sem caráter suspensivo, para Junta Deliberativa.
 
-<strong>Art</strong>. 91. Dos atos administrativos do Presidente do I.N.P. caberá recurso, sem caráter suspensivo, para o Ministro do Trabalho, Indústria e Comércio.
+**Art**. 91. Dos atos administrativos do Presidente do I.N.P. caberá recurso, sem caráter suspensivo, para o Ministro do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 92. Das decisões da Junta Deliberativa caberá recurso, sem caráter suspensivo, para o Presidente da República, por intermédio do Ministro do Trabalho, Indústria e Comércio, que informará a respeito.
+**Art**. 92. Das decisões da Junta Deliberativa caberá recurso, sem caráter suspensivo, para o Presidente da República, por intermédio do Ministro do Trabalho, Indústria e Comércio, que informará a respeito.
 
-<strong>Art</strong>. 93. O prazo para a interposição dos recursos, salvo se a lei não determinar outro, será de 30 dias a contar da data em que o interessado tiver ciência, ou da Publicação em órgão oficial.
+**Art**. 93. O prazo para a interposição dos recursos, salvo se a lei não determinar outro, será de 30 dias a contar da data em que o interessado tiver ciência, ou da Publicação em órgão oficial.
 
-<strong>CAPÍTULO XIII</strong>
+**CAPÍTULO XIII**
 
 DISPOSIÇÕES GERAIS
 
-<strong>Art</strong>. 94. São extensivos ao Instituto os privilégios da Fazenda Pública, quanto ao uso das ações especiais, os processos de seu interesse perante os Juízos dos Feitos da Fazenda Pública.
+**Art**. 94. São extensivos ao Instituto os privilégios da Fazenda Pública, quanto ao uso das ações especiais, os processos de seu interesse perante os Juízos dos Feitos da Fazenda Pública.
 
-<strong>Art</strong>. 95. Os servidores do Instituto, quando viajarem em objeto de serviço, gozarão, por parte das empresas de transporte, das mesmas isenções e reduções concedidas aos funcionários da União.
+**Art**. 95. Os servidores do Instituto, quando viajarem em objeto de serviço, gozarão, por parte das empresas de transporte, das mesmas isenções e reduções concedidas aos funcionários da União.
 
 Parágrafo único. Aplicam-se ao pessoal do I.N.P. os abonos e benefícios concedidos pelo Governo Federal aos funcionários públicos.
 
-<strong>Art</strong>. 96. O Instituto destinará 20% das suas receitas para a constituição de um fundo de financiamento, destinado às operações previstas neste decreto-lei e constantes do seu Regulamento.
+**Art**. 96. O Instituto destinará 20% das suas receitas para a constituição de um fundo de financiamento, destinado às operações previstas neste decreto-lei e constantes do seu Regulamento.
 
-<strong>Art</strong>. 97. As despesas administrativas do Instituto com a verba pessoal não poderão exceder de 25%¨do produto da arrecadação das taxas.
+**Art**. 97. As despesas administrativas do Instituto com a verba pessoal não poderão exceder de 25%¨do produto da arrecadação das taxas.
 
-<strong>Art</strong>. 98. Os casos omissos e as dúvidas suscitadas no presente Regulamento serão resolvidos pelo Presidente do Instituto e pela Junta Deliberativa, cabendo consulta para o Ministro do Trabalho, Indústria e Comércio sempre que o Presidente ou a Junta Deliberativa julgarem necessário.
+**Art**. 98. Os casos omissos e as dúvidas suscitadas no presente Regulamento serão resolvidos pelo Presidente do Instituto e pela Junta Deliberativa, cabendo consulta para o Ministro do Trabalho, Indústria e Comércio sempre que o Presidente ou a Junta Deliberativa julgarem necessário.
 
-<strong>Art</strong>. 99. Permanecem em vigor os atos e resoluções baixados pelo Instituto que não colidirem com o presente Regulamento.
+**Art**. 99. Permanecem em vigor os atos e resoluções baixados pelo Instituto que não colidirem com o presente Regulamento.
 
-<strong>Art</strong>. 100. Dentro de sessenta dias o Presidente do Instituto, publicará quadro do pessoal, com as respectivas carreiras, as quais se refere o art. 48 dêste Regulamento.
+**Art**. 100. Dentro de sessenta dias o Presidente do Instituto, publicará quadro do pessoal, com as respectivas carreiras, as quais se refere o art. 48 dêste Regulamento.
 
 Rio de Janeiro; 23 de janeiro de 1946.
 
-<strong>R</strong>. <strong>CARNEIRO DE MENDONÇA</strong>
+**R**. **CARNEIRO DE MENDONÇA**

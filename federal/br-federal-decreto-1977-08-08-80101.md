@@ -1,5 +1,3 @@
-###DEC-080101-0-000-08-08-1977@@@
-
 DECRETO Nº 80.101, DE 8 DE AGOSTO DE 1977.
 
 Torna sem efeito o Decreto nº 61.583, de 20 de outubro de 1967, na parte em que transferiu servidor do Quadro de Pessoal do Ministério da Agricultura, para o Quadro Único de Pessoal - Parte Permanente da Universidade Federal Rural do Rio de Janeiro (MEC).

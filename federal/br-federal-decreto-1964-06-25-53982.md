@@ -1,5 +1,3 @@
-###DEC-053982-0-000-25-06-1964@@@
-
 DECRETO Nº 53.982, DE 25 DE JUNHO DE 1964.
 
 Complementa o Decreto nº 53.337, de 23 de dezembro de 1963, que dispõe sôbre a importação de petróleo e derivados.

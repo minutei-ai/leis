@@ -1,5 +1,3 @@
-###DEC-087569-0-000-16-09-1982@@@
-
 Decreto nº 87.569, de 16 de setembro de 1982
 
 Regula as condições de pagamento da Indenização de Tropa, específica as organizações militares consideradas Corpo de Tropa, Base ou Navio de Guerra e dá outras providencias.

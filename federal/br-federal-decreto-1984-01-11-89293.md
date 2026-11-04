@@ -1,5 +1,3 @@
-###DEC-089293-0-000-11-01-1984@@@
-
 Decreto nº 89.293, de 11 de janeiro de 1984
 
 Acrescenta parágrafo único ao artigo 1º do Decreto nº 89.236, de 22 de dezembro de 1983, que fixa os efetivos de Oficiais da Força Aérea Brasileira para 1984.

@@ -1,5 +1,3 @@
-###DEC-086201-0-000-13-07-1981@@@
-
 Decreto nº 86.201, de 13 de julho de 1981.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e de Niterói, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-058581-0-000-03-06-1966@@@
-
 DECRETO Nº 58.581, DE 3 DE JUNHO DE 1966.
 
 Declara proprietária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à emprêsa Profertil - Emprêsa de Produtos Químicos e Fertilizantes S.A., de Recife (Pe.).
@@ -14,7 +12,125 @@ decreta
 
 Art. 1º Fica declarada proprietária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Profertil - Emprêsa de Produtos Químicos e Fertilizantes S.A.” de Recife (Pe.):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:255.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Especificação</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:70.95pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Anéis refratários, marca </span><span style="font-style:italic">Cyclohelix</span><span>, tipo espiral, anti-ácido, para uso em tôrre de ácido sulfúrico qualidade Raschio, dimensões: 3” de diâmetro interno e 3” de altura, embalagem: engradado de madeira. Fabricante: U.S. </span><span style="font-style:italic">Stoneware</span><span>. País de origem: USA. Pêso líquido: 14,968 kg ...........................................................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>30.000</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.219</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Silicato de Sódio Neutro em pó “S-35” qualidade industrial, teor de pureza 98%, em tambores de ferro com 269,46 quilos líquidos, fabricado por Joseph Tuner &amp; Co. País de origem: USA. Pêso Líquido 4.580,8 kg ......</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>17</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>914</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Sacos de cimento, tipo Silico-aluminoso, qualidade anti-ácido, embalagem: sacos com 45,35 quilos pesando líquido 2.494,2 kg e baldes de cimento de asbestos, tipo </span><span style="font-style:italic">Chemical</span><span> </span><span style="font-style:italic">Putty</span><span>, embalagem: 8 baldes com 22.675 kg e 1 balde com 18.14 kg ..........................................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>534</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Tijolos refratários, marca Harbison, tipo: aluminoso, especiais para tôrres de ácido sulfurcico, coloração branca, embalagem: grades de madeira, fabricação de </span><span style="font-style:italic">Harbison</span><span>-</span><span style="font-style:italic">Walker</span><span>. País de origem: USA, conforme relação abaixo:</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>a) Qualidade H-W 23 LI</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>arcos nº 1 - 9’x 4, 1/2" x 2, 1/2” retos - 9” x 4. 1/2”x 2. 1/2”</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>b) Qualidade Walsh XX</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>arcos nº 1 - 9” x 4.1/2” x 2.1/2” - arcos nº 2 - 9” x 4.1/2” x 2.1/2” - arcos nº 3 - 9” x 4.1/2” x 2.1/2” - retos - 9" x 4. 1/2” x 2. 1/2” - </span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>c) Qualidade Dialite</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>retos - 9” x 4.1/2”x 2.1/2” - retos - 9” x 6.3/4”x ½” ...........</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7.920</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.715</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Tijolos refratários, marca </span><span style="font-style:italic">Hanley</span><span>, tipo alumínio, anti-ácido, qualidade de Impervo, especiais para tôrres de ácido sulfurico, coloração vermelha, embalagem: grades de madeira, fabricação de </span><span style="font-style:italic">Hanley</span><span> </span><span style="font-style:italic">Company</span><span> </span><span style="font-style:italic">Cid</span><span> </span><span style="font-style:italic">Proof</span><span> (</span><span style="font-style:italic">FireBrick</span><span>) conforme relação abaixo:</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Arcos nº 1 - 8” x 3.3/4 x 2.1/4 x 2”</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Arcos nº 2 - 8” x 3.3/4 x 2. 1/4 x 1. 1/2”</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Arcos nº 3 - 8” 3.3/4 x 2. 1/4 x 1.1/4”</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Cunhas - 8” x 3.3/4 x 2. 1/4 x 1/8”</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Cunhas - 8” x 3.3/4 x 2.1/4 x 1. 3/4"</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Retos - 8” x 3.3/4 x 2. 1/4” com lados entalhados. ...........</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>43.400</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>12.969</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>6</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Aparelhos completos para condensação de gases marca Chemico, tipo P-A, fabricante </span><span style="font-style:italic">Chemical</span><span> </span><span style="font-style:italic">Construction</span><span> </span><span style="font-style:italic">Corporation</span><span>, tendo como partes componentes um lavador de gases, uma bomba e um soprador. País de origem: USA - Pêso líquido: 318 kg ..................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7.298</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>7</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Caixa de gacheta de asbesto, tipo quadrado, qualidade entrançada, marca </span><span style="font-style:italic">Garlock</span><span>, côr azul, dimensão 1/4; embalagem em caixas de madeira. - País de origem: USA - Pêso líquido: 100 kg ..........................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>40</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>618</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>8</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Válvulas de aço inoxidável, marca </span><span style="font-style:italic">Aloyco</span><span>, fabricante: </span><span style="font-style:italic">Alloy</span><span> </span><span style="font-style:italic">Steel</span><span> </span><span style="font-style:italic">Products</span><span> </span><span style="font-style:italic">company</span><span>, </span><span style="font-style:italic">Linden</span><span>, </span><span style="font-style:italic">N.Y</span><span>. País de origem: USA. - Pêso líquido: 218 quilos. ...........................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.538</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Bomba centrífuga para movimentação de enxôfre líquido, de propulsão mecânica (a vapor) operando com 5.000 RPM (sem motor). Fabricante: </span><span style="font-style:italic">Chemical</span><span> </span><span style="font-style:italic">Construction</span><span> </span><span style="font-style:italic">Corporation</span><span> </span><span style="font-style:italic">N.Y</span><span>. País de origem. USA - Pêso líquido: 200 kg ...............................................................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.175</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>10</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Pentóxido de Vanádio tipo “</span><span style="font-style:italic">Aero</span><span> </span><span style="font-style:italic">Catalyst</span><span>” qualidade industrial, com 90% de pureza, em baldes de ferro 19.5 litros cada fabricado pela </span><span style="font-style:italic">American</span><span> </span><span style="font-style:italic">Cyanamio Company</span><span>. País de origem: USA - Pêso líquido: 3.402 quilos. ....</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>32</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="text-decoration:underline">9.496</span></p></td></tr><tr><td style="width:24.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Total ..................................................................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:70.95pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>43.476</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor total
+
+CIF US$
+
+1
+
+Anéis refratários, marca Cyclohelix, tipo espiral, anti-ácido, para uso em tôrre de ácido sulfúrico qualidade Raschio, dimensões: 3” de diâmetro interno e 3” de altura, embalagem: engradado de madeira. Fabricante: U.S. Stoneware. País de origem: USA. Pêso líquido: 14,968 kg ...........................................................................
+
+30.000
+
+5.219
+
+2
+
+Silicato de Sódio Neutro em pó “S-35” qualidade industrial, teor de pureza 98%, em tambores de ferro com 269,46 quilos líquidos, fabricado por Joseph Tuner &amp; Co. País de origem: USA. Pêso Líquido 4.580,8 kg ......
+
+17
+
+914
+
+3
+
+Sacos de cimento, tipo Silico-aluminoso, qualidade anti-ácido, embalagem: sacos com 45,35 quilos pesando líquido 2.494,2 kg e baldes de cimento de asbestos, tipo Chemical Putty, embalagem: 8 baldes com 22.675 kg e 1 balde com 18.14 kg ..........................................................
+
+9
+
+534
+
+4
+
+Tijolos refratários, marca Harbison, tipo: aluminoso, especiais para tôrres de ácido sulfurcico, coloração branca, embalagem: grades de madeira, fabricação de Harbison-Walker. País de origem: USA, conforme relação abaixo:
+
+a) Qualidade H-W 23 LI
+
+arcos nº 1 - 9’x 4, 1/2" x 2, 1/2” retos - 9” x 4. 1/2”x 2. 1/2”
+
+b) Qualidade Walsh XX
+
+arcos nº 1 - 9” x 4.1/2” x 2.1/2” - arcos nº 2 - 9” x 4.1/2” x 2.1/2” - arcos nº 3 - 9” x 4.1/2” x 2.1/2” - retos - 9" x 4. 1/2” x 2. 1/2” -
+
+c) Qualidade Dialite
+
+retos - 9” x 4.1/2”x 2.1/2” - retos - 9” x 6.3/4”x ½” ...........
+
+7.920
+
+2.715
+
+5
+
+Tijolos refratários, marca Hanley, tipo alumínio, anti-ácido, qualidade de Impervo, especiais para tôrres de ácido sulfurico, coloração vermelha, embalagem: grades de madeira, fabricação de Hanley Company Cid Proof (FireBrick) conforme relação abaixo:
+
+Arcos nº 1 - 8” x 3.3/4 x 2.1/4 x 2”
+
+Arcos nº 2 - 8” x 3.3/4 x 2. 1/4 x 1. 1/2”
+
+Arcos nº 3 - 8” 3.3/4 x 2. 1/4 x 1.1/4”
+
+Cunhas - 8” x 3.3/4 x 2. 1/4 x 1/8”
+
+Cunhas - 8” x 3.3/4 x 2.1/4 x 1. 3/4"
+
+Retos - 8” x 3.3/4 x 2. 1/4” com lados entalhados. ...........
+
+43.400
+
+12.969
+
+6
+
+Aparelhos completos para condensação de gases marca Chemico, tipo P-A, fabricante Chemical Construction Corporation, tendo como partes componentes um lavador de gases, uma bomba e um soprador. País de origem: USA - Pêso líquido: 318 kg ..................................
+
+1
+
+7.298
+
+7
+
+Caixa de gacheta de asbesto, tipo quadrado, qualidade entrançada, marca Garlock, côr azul, dimensão 1/4; embalagem em caixas de madeira. - País de origem: USA - Pêso líquido: 100 kg ..........................
+
+40
+
+618
+
+8
+
+Válvulas de aço inoxidável, marca Aloyco, fabricante: Alloy Steel Products company, Linden, N.Y. País de origem: USA. - Pêso líquido: 218 quilos. ...........................
+
+20
+
+2.538
+
+9
+
+Bomba centrífuga para movimentação de enxôfre líquido, de propulsão mecânica (a vapor) operando com 5.000 RPM (sem motor). Fabricante: Chemical Construction Corporation N.Y. País de origem. USA - Pêso líquido: 200 kg ...............................................................................
+
+1
+
+1.175
+
+10
+
+Pentóxido de Vanádio tipo “Aero Catalyst” qualidade industrial, com 90% de pureza, em baldes de ferro 19.5 litros cada fabricado pela American Cyanamio Company. País de origem: USA - Pêso líquido: 3.402 quilos. ....
+
+32
+
+9.496
+
+Total ..................................................................................
+
+-
+
+43.476
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

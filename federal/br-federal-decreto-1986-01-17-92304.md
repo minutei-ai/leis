@@ -1,5 +1,3 @@
-###DEC-092304-0-000-17-01-1986@@@
-
 DECRETO Nº 92.304, DE 17 DE JANEIRO DE 1986
 
 Autoriza o funcionamento do curso de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Santos.

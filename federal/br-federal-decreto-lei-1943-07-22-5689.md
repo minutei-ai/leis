@@ -1,5 +1,3 @@
-###DEL-005689-0-000-22-07-1943@@@
-
 DECRETO‑LEI N. 5.689 – DE 22 DE JULHO DE 1943
 
 Regula a dispensa de empregados na idade militar e dá outras providências.

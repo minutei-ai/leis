@@ -1,5 +1,3 @@
-###DEC-064054-0-000-03-02-1969@@@
-
 DECRETO Nº 64.054, DE 3 DE FEVEREIRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Conselho Nacional de Telecomunicações, cargo originário da extinta Companhia Nacional de Navegação Costeira, e dá outras providências.

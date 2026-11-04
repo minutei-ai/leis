@@ -1,7 +1,3 @@
-1
-
-###DEC-000449-0-000-17-02-1992@@@
-
 DECRETO N° 449, DE 17 DE FEVEREIRO DE 1992
 
 Institui o Catálogo Unificado de Materiais, os Sistemas Integrados de Registro de Preços e de Cadastro de Fornecedores, na Administração Direta, nas Autarquias e nas Fundações Públicas, e dá outras providências.

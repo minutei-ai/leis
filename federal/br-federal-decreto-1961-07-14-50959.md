@@ -1,5 +1,3 @@
-###DEC-050959-0-000-14-07-1961@@@
-
 DECRETO Nº 50.959, de 14 DE julho DE 1961.
 
 Aprova, para fins de legalização, a construção, já realizada, da linha de subtransmissão de energia elétrica, entre a Estação Receptora Triagem e a Subestação Receptora Engenho da Pedra, do sistema elétrica da Rio Light S.A. Serviços de Eletricidade e Carris.

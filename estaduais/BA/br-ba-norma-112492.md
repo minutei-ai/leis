@@ -4,7 +4,8 @@ Dispõe sobre a criação da Política de Desenvolvimento do Turismo Sustentáve
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO OBJETO
 
 Art. 1º - Fica criada a Política Estadual de Desenvolvimento do Turismo Sustentável nas Áreas de Proteção Ambiental do Estado da Bahia.
@@ -13,7 +14,8 @@ Parágrafo único - A Política Estadual de Desenvolvimento do Turismo Sustentá
 
 Art. 2º - A Política Estadual de Desenvolvimento do Turismo Sustentável deve estabelecer regras, instrumentos de gestão e recursos, a serem definidos com os diversos setores sociais, econômicos e governamentais, de modo a garantir a conservação da biodiversidade.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS OBJETIVOS
 
 Art. 3º - A Política de Desenvolvimento do Turismo Sustentável tem os seguintes objetivos:
@@ -34,7 +36,8 @@ VII - incentivar a gestão ambiental municipal e promover a colaboração entre 
 
 VIII - fortalecer o desenvolvimento econômico da região e, em especial, a cadeia produtiva associada ao turismo sustentável.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS DIRETRIZES
 
 Art. 4º - Consideram-se diretrizes para a implementação da Política de Desenvolvimento do Turismo Sustentável:
@@ -59,7 +62,8 @@ IX - estímulo à criação e ao fortalecimento da gestão ambiental municipal.
 
 Art. 5º - O Poder Executivo Estadual deverá incentivar a criação de programas específicos, por meio de seus órgãos competentes, para incentivo à implantação e ampliação das políticas de desenvolvimento do turismo sustentável por parte dos Municípios.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA ZONA DE PROTEÇÃO VISUAL
 
 Art. 6º - A Zona de Proteção Visual (ZPV) da Área de Proteção Ambiental do Litoral Norte do Estado da Bahia engloba áreas cobertas por coqueiral, localizados próximos a ecossistemas que devem ser conservados por formarem uma paisagem singular, atrativa para empreendimentos e atividades de turismo sustentável.
@@ -96,7 +100,8 @@ e) altura máxima da construção de 14 (quatorze) metros para ocupações turí
 
 f) índice de permeabilidade (Ip) mínimo de 0,7.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA ZONA DE AGRICULTURA
 
 Art. 7º - A Zona de Agricultura (ZAG) da APA do Litoral Norte do Estado da Bahia engloba áreas antropizadas, de uso ou vocação agropastoris e áreas utilizadas para o plantio e exploração de eucalipto e pinus.
@@ -115,7 +120,8 @@ e) altura máxima da construção de 12 (doze) metros para as ocupações nos pr
 
 f) índice de permeabilidade (Ip) mínimo de 0,60 nos primeiros 500m (quinhentos metros), contados a partir da linha de preamar máxima, e de 0,50 para o restante da zona.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA ZONA DE MANEJO ESPECIAL
 
 Art. 8º - A Zona de Manejo Especial (ZME) da APA do Litoral Norte do Estado da Bahia corresponde às áreas que contém remanescentes de matas, restingas, cerrados e brejos, englobando áreas cultivadas e de uso ou vocação agropastoril.

@@ -1,5 +1,3 @@
-###DEL-004090-0-000-05-02-1942@@@
-
 DECRETO-LEI N. 4.090 – DE 5 DE FEVEREIRO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de réis 2.000:000$0, para despesas com a III Reunião de Consulta dos Ministros das Relações Exteriores das Repúblicas Americanas

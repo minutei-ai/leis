@@ -1,5 +1,3 @@
-###DEC-073850-0-000-14-03-1974@@@
-
 DECRETO N° 73.850, DE 14 DE MARÇO DE 1974.
 
 Autoriza o aterro de área de mar, situada no litoral da Ilha do Governador - Estado da Guanabara e a cessão, sob o regime de aforamento, do terreno resultante.

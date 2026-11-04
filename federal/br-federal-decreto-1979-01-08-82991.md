@@ -1,5 +1,3 @@
-###DEC-082991-0-000-08-01-1979@@@
-
 Decreto nº 82.991, de 08 de janeiro de 1979
 
 Concede novo prazo para cumprimento do disposto no artigo 2º do Decreto nº 78.015, de 12 de julho de 1976.

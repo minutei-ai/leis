@@ -1,5 +1,3 @@
-###DEC-072284-0-000-18-05-1973@@@
-
 DECRETO Nº 72.284, DE 18 DE MAIO DE 1973.
 
 Torna sem efeito aproveitamento de disponíveis na Universidade Federal da Bahia e dá outras providências.

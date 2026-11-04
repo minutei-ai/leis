@@ -1,5 +1,3 @@
-###DEC-046618-0-000-14-08-1959@@@
-
 DECRETO Nº 46.618, DE 14 DE AGÔSTO DE 1959.
 
 Torna sem efeito o Decreto número 45.222, de 15 de janeiro de 1959, que transferiu, sem aumento de despesa, duas funções da Tabela Numérica Especial de Extranumerário-Mensalista do Ministério da Agricultura.

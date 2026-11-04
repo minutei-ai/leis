@@ -1,24 +1,22 @@
-###DEC-020250-0-000-19-12-1945@@@
+**DECRETO Nº 20.250, DE 19 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.250, DE 19 DE DEZEMBRO DE 1945.</strong>
+***Assegura à Rádio Educadora do Ceará, Limitada, o direito de estabelecer uma estação radiodifusora na cidade de Fortaleza, Estado do Ceará.***
 
-<em><strong>Assegura à Rádio Educadora do Ceará, Limitada, o direito de estabelecer uma estação radiodifusora na cidade de Fortaleza, Estado do Ceará.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição, e tendo em vista o disposto no art. 11 do Decreto nº 24.655, de 11 de julho de 1934, e artigo único do Decreto número 19.966, de 19 de novembro de 1945,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição, e tendo em vista o disposto no art. 11 do Decreto nº 24.655, de 11 de julho de 1934, e artigo único do Decreto número 19.966, de 19 de novembro de 1945,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica assegurado à Rádio Educadora do Ceará, Limitada, o direito de estabelecer, na cidade de Fortaleza, Estado do Ceará, sem direito de exclusividade, uma estação destinada a executar o serviço de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
-Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 30 dias, a contar da data da publicação dêste Decreto no <em>Diário Oficial</em>, sob pena de ser desde logo considerada nula a concessão.
+Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 30 dias, a contar da data da publicação dêste Decreto no *Diário Oficial*, sob pena de ser desde logo considerada nula a concessão.
 
 Rio de Janeiro, 19 de dezembro de 1945, 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Mauricio Loppert da Silva
 
-<strong>CLÁUSULA A QUE SE REFERE O DECRETO Nº 20.250, DESTA DATA</strong>
+**CLÁUSULA A QUE SE REFERE O DECRETO Nº 20.250, DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno poderá, pelo órgão fiscalizador, impor à concessionária a multa de Cr$100,00 (cem cruzeiros), a Cr$5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial.</em>
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial.*
 
 VII
 
@@ -86,7 +84,7 @@ VIII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização;
 
-a) se, em todo o tempo, fôr verificada a inobservância das disposições contidas nas alíneas <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, <em>i</em>, (<em>in fine</em>), <em>j</em>, <em>k</em>, e <em>l</em>, da cláusula quarta:
+a) se, em todo o tempo, fôr verificada a inobservância das disposições contidas nas alíneas *a*, *b*, *c*, *d*, *i*, (*in fine*), *j*, *k*, e *l*, da cláusula quarta:
 
 b) se não forem pagas, dentro dos prazos estabelecidos a quota e contribuições a que se refere a alínea o da cláusula quarta bem como a importância de qualquer multa imposta nos têrmos da cláusula sétima;
 
@@ -102,4 +100,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 19 de dezembro de 1945.
 
-<strong>MAURÍCIO JOPPERT DA SILVA</strong>
+**MAURÍCIO JOPPERT DA SILVA**

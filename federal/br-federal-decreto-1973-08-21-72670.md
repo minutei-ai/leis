@@ -1,5 +1,3 @@
-###DEC-072670-0-000-21-08-1973@@@
-
 DECRETO Nº 72.670, DE 21 DE AGOSTO DE 1973.
 
 Concede à Companhia de Cimento Portland Rio Branco o direito de lavrar calcário no Município de Corumbá de Goiás, Estado de Goiás.

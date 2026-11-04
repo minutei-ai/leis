@@ -1,5 +1,3 @@
-###DEC-083838-0-000-13-08-1979@@@
-
 Decreto nº 83.838, de 13 de agosto de 1979.
 
 Revoga o Decreto nº 81.753, de 2 de junho de 1978, que autoriza o registro, em nome da União Federal, de imóvel situado no Município de Natal, Estado do Rio Grande do Norte.

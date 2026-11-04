@@ -1,5 +1,3 @@
-###DEC-085745-0-000-23-02-1981@@@
-
 Decreto nº 85.745, de 23 de fevereiro de 1981.
 
 Altera dispositivos do Regulamento dos Benefícios da Previdência Social, aprovado pelo Decreto nº 83.080, de 24 de janeiro de 1979.

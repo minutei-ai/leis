@@ -1,5 +1,3 @@
-###DEC-082919-0-000-20-12-1978@@@
-
 DECRETO Nº 82.919, DE 20 DE DEZEMBRO DE 1978
 
 Concede à Construtora Rio Doce Ltda. o direito de lavrar granito no Município de Vitória, Estado do Espírito Santo.

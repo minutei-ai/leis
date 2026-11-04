@@ -1,5 +1,3 @@
-###DEC-091535-0-000-16-08-1985@@@
-
 DECRETO Nº 91.535, DE 16 DE AGOSTO DE 1985.
 
 Altera o Regulamento para a Reserva da Marinha, aprovado pelo Decreto nº 89 368, de 7 de fevereiro de 1984.

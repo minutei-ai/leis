@@ -1,5 +1,3 @@
-###DEC-002140-0-000-03-02-1997@@@
-
 DECRETO Nº 2.140, DE 3 DE FEVEREIRO DE 1997
 
 Prorroga o prazo estabelecido no § 2º do art. 1º do Decreto nº 1.778, de 9 de janeiro de 1996.

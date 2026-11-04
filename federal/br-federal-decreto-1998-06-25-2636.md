@@ -1,5 +1,3 @@
-###DEC-002636-0-000-25-06-1998@@@
-
 DECRETO Nº 2.636, DE 25 DE JUNHO DE 1998
 
 Prorroga o prazo estabelecido no art. 3º do Decreto nº 2.321, de 8 de setembro de 1997.

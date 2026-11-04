@@ -1,5 +1,3 @@
-###DEC-048102-0-000-12-04-1960@@@
-
 DECRETO Nº 48.102, DE 12 DE ABRIL DE 1960.
 
 Concede o abono provisório aos membros do Conselho Nacional do Serviço Social Rural (S.S.R), e dá outras providências.

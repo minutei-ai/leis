@@ -1,5 +1,3 @@
-###DEC-074423-0-000-16-08-1974@@@
-
 DECRETO Nº 74.423 - DE 16 DE AGOSTO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão, no Estado de Goiás.

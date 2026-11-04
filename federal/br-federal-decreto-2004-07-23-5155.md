@@ -1,5 +1,3 @@
-###DEC-005155-0-000-23-07-2004@@@
-
 DECRETO Nº 5.155 DE 23 DE JULHO DE 2004
 
 Altera dispositivos do Decreto nº 5.130, de 7 de julho de 2004, que regulamenta o art. 40 da Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso)

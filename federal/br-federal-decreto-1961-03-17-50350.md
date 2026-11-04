@@ -1,5 +1,3 @@
-###DEC-050350-0-000-17-03-1961@@@
-
 DECRETO Nº 50.350, DE 17 DE MARÇO DE 1961.
 
 Dispõe sôbre registro de ponto e freqüência dos servidores do Serviço Civil do Poder Executivo e das Autarquias e dá outras providências.

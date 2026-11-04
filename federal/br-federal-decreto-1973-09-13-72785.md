@@ -1,5 +1,3 @@
-###DEC-072785-0-000-13-09-1973@@@
-
 DECRETO Nº 72.785, DE 13 Setembro de 1973.
 
 Torna sem efeito aproveitamento de disponíveis na Universidade Federal do Rio de Janeiro, e da outras providências.

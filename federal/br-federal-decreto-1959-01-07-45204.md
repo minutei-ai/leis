@@ -1,5 +1,3 @@
-###DEC-045204-0-000-07-01-1959@@@
-
 Decreto nº 45.204, de 7 de janeiro de 1959.
 
 Retifica o Decreto nº 44.829, de 7 de novembro de 1958, que transferiu função de Tabela Numérica Especial de Extranumerário-Mensalista.

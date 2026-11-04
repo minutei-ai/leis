@@ -1,5 +1,3 @@
-###MPV-001463-0-030-24-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.463-30, DE 24 DE SETEMBRO DE 1998
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1996 a 30 de abril de 1997.

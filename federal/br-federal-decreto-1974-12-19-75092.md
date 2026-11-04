@@ -1,5 +1,3 @@
-###DEC-075092-0-000-19-12-1974@@@
-
 DECRETO nº 75.092, DE 19 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento à Faculdade de Ciências de Barretos, mantida pela Fundação Educacional de Barretos, Estado de São Paulo.

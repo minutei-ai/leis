@@ -1,5 +1,3 @@
-###DEC-054619-0-000-27-10-1964@@@
-
 DECRETO Nº 54.619, DE 27 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Emygdio de Souza a pesquisar filito e argila, no município de Pirapora do Bom Jesus - Estado de São Paulo.

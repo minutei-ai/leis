@@ -1,5 +1,3 @@
-###DEC-048889-0-000-26-08-1960@@@
-
 DECRETO N. 48.889 – DE 26 DE AGÔSTO DE 1960
 
 Declara de utilidade pública a Clínica Infantil Ipiranga, com sede em S. Paulo, Estado de S. Paulo.

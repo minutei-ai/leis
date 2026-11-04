@@ -1,5 +1,3 @@
-###DEC-052391-0-000-21-08-1963@@@
-
 DECRETO Nº 52.391, DE 21 DE AGÔSTO DE 1963.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Belo Horizonte (MG).

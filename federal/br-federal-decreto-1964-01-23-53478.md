@@ -1,5 +1,3 @@
-###DEC-053478-0-000-23-01-1964@@@
-
 DECRETO Nº 53.478, 23 de janeiro de 1964.
 
 Altera o item 54 do art. 32, Capítulo VI, do Regulamento de Administração do Exército, aprovado pelo Decreto nº 3.251, de 9 de novembro de 1938.

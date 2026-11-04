@@ -1,5 +1,3 @@
-###DEC-050832-0-000-22-06-1961@@@
-
 DECRETO Nº 50.832, DE 22 DE JUNHO DE 1961.
 
 Concede à Universidade do Maranhão regalias de universidade livre equiparada.

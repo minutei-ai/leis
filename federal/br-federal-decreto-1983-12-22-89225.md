@@ -1,5 +1,3 @@
-###DEC-089225-0-000-22-12-1983@@@
-
 Decreto nº 89.225, de 22 de dezeMbro de 1983
 
 Altera dispositivos do Decreto nº 85.565, de 18 de dezembro de 1980, que regulamenta o Decreto-lei nº 1.809, de 07 de outubro de 1980, que instituiu o Sistema de Proteção ao Programa Nuclear Brasileiro.

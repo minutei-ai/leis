@@ -39,7 +39,3 @@ Danilo de Castro
 Renata Maria Paes de Vilhena
 
 Maurício de Oliveira Campos Júnior
-
-\================
-
-Data da última atualização: 11/11/2013.

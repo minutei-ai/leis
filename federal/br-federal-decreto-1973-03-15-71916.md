@@ -1,5 +1,3 @@
-###DEC-071916-0-000-15-03-1973@@@
-
 DECRETO Nº 71.916, DE 15 DE MARÇO DE 1973.
 
 Dá nova redação e altera os quantitativos previstos no artigo 12 do Regimento da Ordem do Mérito do Trabalho, aprovado pelo Decreto n.º 62.849, de 4 de junho de 1968, e dá outras providências.

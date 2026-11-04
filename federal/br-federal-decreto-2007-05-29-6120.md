@@ -1,5 +1,3 @@
-###DEC-006120-0-000-29-05-2007@@@
-
 DECRETO Nº 6.120, DE 29 DE MAIO DE 2007.
 
 Fixa atribuições para o substituto do Advogado-Geral da União e altera o Anexo I ao Decreto no 4.368, de 10 de setembro de 2002, que aprova a Estrutura e o Quadro Demonstrativo dos Cargos em Comissão da Advocacia-Geral da União, na parte referente à organização de sua Secretaria-Geral.
@@ -69,5 +67,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Jose Antonio Dias Toffoli
-
-Este texto não substitui o publicado no DOU de 30.5.2007.

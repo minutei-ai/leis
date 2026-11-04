@@ -1,5 +1,3 @@
-###LEI-000000-0-000-30-08-1828@@@
-
 LEI - DE 30 DE AGOSTO DE 1828
 
 Extingue os lugares de Provedor-mór, Physico-mór e Cirurgião-mór do Imperio, passando pára as Camaras Municipaes e Justiças ordinarias as attribuições que lhes competiam.

@@ -1,5 +1,3 @@
-###DEC-073990-0-000-26-04-1974@@@
-
 DECRETO Nº 73.990, DE 26 DE ABRIL DE 1974
 
 Concede autorização a firma Oceanic Contractors, Inc., e sua consorciada Marine Serviços de Construção Ltda., para operarem na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

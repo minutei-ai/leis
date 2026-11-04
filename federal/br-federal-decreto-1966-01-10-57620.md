@@ -1,5 +1,3 @@
-###DEC-057620-0-000-10-01-1966@@@
-
 DECRETO Nº 57.620, DE 10 DE JANEIRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros América do Sul, relativa ao aumento do capital social.

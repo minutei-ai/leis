@@ -1,5 +1,3 @@
-###DEC-007682-0-000-28-02-2012-PUB-01@@@
-
 DECRETO Nº 7.682, DE 28 DE FEVEREIRO DE 2012
 
 Altera o Decreto nº 7.538, de 1º de agosto de 2011, para alterar o rol de grandes eventos abrangidos pelas competências da Secretaria Extraordinária de Segurança para Grandes Eventos do Ministério da Justiça.

@@ -1,5 +1,3 @@
-###DEC-001988-0-000-27-08-1996@@@
-
 DECRETO Nº 1.988, DE 27 DE AGOSTO DE 1996
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona e dá outras providências.

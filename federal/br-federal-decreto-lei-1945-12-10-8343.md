@@ -1,5 +1,3 @@
-###DEL-008343-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.343 – DE 10 DE DEZEMBRO DE 1945
 
 Transfere o Serviço de Biometria Médica do Instituto Nacional de Estudos Pedagógicos para o Departamento Nacional de Saúde.

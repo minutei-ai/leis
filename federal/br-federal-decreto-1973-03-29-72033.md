@@ -1,5 +1,3 @@
-###DEC-072033-0-000-29-03-1973@@@
-
 Decreto Nº 72.033, DE MARÇO DE 1973.
 
 Concede autorização à Organização "Lamont-Doherty Geological Observatory", da Universidade de Columbia, USA. Para operar no mar territorial do Brasil com o navio-oceanográfico "Robert D. Conrad", de bandeira norte-americana, nas pesquisas que especifica.

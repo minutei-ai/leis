@@ -1,5 +1,3 @@
-###DEC-045712-0-000-06-04-1959@@@
-
 DECRETO Nº 45.712 , DE 06 DE abril DE 1959.
 
 Autoriza o cidadão brasileiro Martin Francisco Braz Neto a pesquisar conchas calcárias, no município de Maricá, Estado do Rio de Janeiro.

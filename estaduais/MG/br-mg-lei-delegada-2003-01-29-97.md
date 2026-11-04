@@ -37,7 +37,3 @@ AÉCIO NEVES
 Danilo de Castro
 
 Antônio Augusto Junho Anastasia
-
-\====================================
-
-Data da última atualização: 05/10/2004.

@@ -1,5 +1,3 @@
-###DEC-061540-0-000-13-10-1967@@@
-
 DECRETO Nº 61.540, DE 13 DE OUTUBRO DE 1967.
 
 Cria Grupo de Trabalho para liquidação de débitos recíprocos aos órgãos da administração indireta.

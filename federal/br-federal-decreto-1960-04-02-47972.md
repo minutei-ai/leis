@@ -1,5 +1,3 @@
-###DEC-047972-0-000-02-04-1960@@@
-
 decreto nº 47.972, de 2 de abril de 1960.
 
 Prorroga, temporariamente, o disposto no artigo 126, do Regulamento de Promoções para Oficiais da Marinha.

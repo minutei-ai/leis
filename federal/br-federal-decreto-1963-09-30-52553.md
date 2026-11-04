@@ -1,5 +1,3 @@
-###DEC-052553-0-000-30-09-1963@@@
-
 DECRETO Nº 52.553, DE 30 DE SETEMBRO DE 1963.
 
 Transfere da Emprêsa Fôrça e Luz de Jataí (Ferreira & Cia Ltda.) para Centrais Elétricas de Goiás S.A. a concessão para produzir e distribuir energia elétrica no município de Jataí, Estado de Goiás,

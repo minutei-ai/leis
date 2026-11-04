@@ -1,5 +1,3 @@
-###DEC-089245-0-000-27-12-1983@@@
-
 DECRETO Nº 89.245, DE 27 DE DEZEMBRO DE 1983
 
 Autoriza o funcionamento dos cursos de Fisioterapia e de Terapia Ocupacional, em Mogi das Cruzes, São Paulo, da Faculdade de Educação Física.

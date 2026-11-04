@@ -1,5 +1,3 @@
-###DEC-052416-0-000-28-08-1963@@@
-
 decreto nº 52.416, de 28 de agôsto de 1963.
 
 Revoga o Decreto nº 45.415, de 12 de fevereiro de 1959, de interêsse da Companhia Geral de Minas, e outorga à Centrais Elétricas de Minas Gerais S.A. - CEMIG concessão para o aproveitamento progressivo da energia hidráulica de um trecho do rio Grande.

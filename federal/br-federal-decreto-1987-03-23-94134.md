@@ -1,5 +1,3 @@
-###DEC-094134-0-000-23-03-1987@@@
-
 DECRETO Nº 94.134, DE 23 DE MARÇO DE 1987.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, os imóveis constituídos de terras, acessos e benfeitorias que menciona.

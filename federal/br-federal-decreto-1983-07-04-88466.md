@@ -1,5 +1,3 @@
-###DEC-088466-0-000-04-07-1983@@@
-
 Decreto nº 88.466, de 04 de julho de 1983
 
 Declara de utilidade publica, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento (DNOS), uma área de terras, no Município de Novo Hamburgo, no Estado do Rio Grande do Sul, e dá outras providências.

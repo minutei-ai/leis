@@ -1,5 +1,3 @@
-###DEC-051167-0-000-09-08-1961@@@
-
 decreto nº 51.167, de 9 de Agôsto de 1961.
 
 Declara protetoras florestas que menciona, existentes no Estado de Mato Grosso e Território Federal de Rondônia.

@@ -1,5 +1,3 @@
-###DEC-091520-0-000-09-08-1985@@@
-
 DECRETO Nº 91.520, DE 09 DE AGOSTO DE 1985
 
 Outorga concessão à RÁDIO ÁGUA BRANCA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Vitorino Freire, Estado do Maranhão.

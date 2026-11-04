@@ -1,5 +1,3 @@
-###DEC-090834-0-000-22-01-1985@@@
-
 DECRETO Nº 90.834, de 22 de janeiro de 1985.
 
 Altera dispositivo do Decreto nº 63.662, de 21 de novembro de 1968.

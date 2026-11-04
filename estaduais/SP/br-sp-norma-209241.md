@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209241)<br>
-
 # LEI N° 17.891, DE 22 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 1115/2023, do Deputado Edmir Chedid - UNIÃO)

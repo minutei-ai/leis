@@ -1,5 +1,3 @@
-###DEC-004365-0-000-06-09-2002@@@
-
 DECRETO Nº 4.365, DE 6 DE SETEMBRO DE 2002
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para o Ministério da Saúde.

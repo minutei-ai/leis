@@ -1,5 +1,3 @@
-###DEC-069855-0-000-29-12-1971@@@
-
 DECRETO Nº 69.855 - DE 29 DE DEZEMBRO DE 1971
 
 Altera dispositivo do Decreto número 65.312, de 9 de outubro de 1969, que regulamentou o Decreto-lei nº 610, de 4 de junho de 1969, que criou Quadros Complementares de Oficiais da Marinha.

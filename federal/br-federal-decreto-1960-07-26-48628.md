@@ -1,5 +1,3 @@
-###DEC-048628-0-000-26-07-1960@@@
-
 DECRETO Nº 48.628, DE 26 DE JULHO DE 1960.
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$150.000.000,00, para o fim que menciona.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=13018)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1994/compilacao-lei-8830-25.07.1994.html)
 
 # LEI Nº 8.830, DE 25 DE JULHO DE 1994
@@ -7,19 +6,27 @@
 
 ### _Transforma em Estância Climática o Município de Morungaba_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** É transformado em Estância Climática o Município de Morungaba.<br>
-**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 25 de julho de 1994.<br>
-LUIZ ANTONIO FLEURY FILHO<br>
-Armando da Silva Prado Netto<br>
-Respondendo pelo expediente da Secretaria de Esportes e Turismo<br>
-Frederico Pinto Ferreira Coelho Neto<br>
-Secretário do Governo<br>
-Publicada na Assessoria Técnico-Legislativa, aos 25 de julho de 1994.~~
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
-<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** É transformado em Estância Climática o Município de Morungaba.
+
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 25 de julho de 1994.
+
+LUIZ ANTONIO FLEURY FILHO
+
+Armando da Silva Prado Netto
+
+Respondendo pelo expediente da Secretaria de Esportes e Turismo
+
+Frederico Pinto Ferreira Coelho Neto
+
+Secretário do Governo
+
+Publicada na Assessoria Técnico-Legislativa, aos 25 de julho de 1994.~~
 
 Revogada.
 

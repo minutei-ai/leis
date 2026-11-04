@@ -1,5 +1,3 @@
-###DEC-003553-0-000-07-08-2000@@@
-
 DECRETO Nº 3.553, DE 7 DE AGOSTO DE 2000.
 
 Dispõe sobre a redução do tempo do Serviço Militar Inicial e dá outras providências.

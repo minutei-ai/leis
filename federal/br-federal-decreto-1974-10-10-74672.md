@@ -1,5 +1,3 @@
-###DEC-074672-0-000-10-10-1974@@@
-
 DECRETO Nº 74.672, DE 10 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Rádio Emissora Metropolitana Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade do Rio de Janeiro, Estado da Guanabara.

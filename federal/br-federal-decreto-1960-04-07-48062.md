@@ -1,5 +1,3 @@
-###DEC-048062-0-000-07-04-1960@@@
-
 DECRETO Nº 48.062, DE 7 DE ABRIL DE 1960.
 
 Autoriza a Companhia Luz e Fôrça Hulha Branca a ampliar suas instalações.

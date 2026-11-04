@@ -1,5 +1,3 @@
-###DEC-003149-0-000-23-08-1999@@@
-
 DECRETO Nº 3.149, DE 23 DE AGOSTO DE 1999.
 
 Altera a alíquota do Imposto sobre Produtos Industrializados - IPI incidente sobre os produtos que menciona.

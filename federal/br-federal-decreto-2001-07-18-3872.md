@@ -1,5 +1,3 @@
-###DEC-003872-0-000-18-07-2001@@@
-
 DECRETO Nº 3.872, DE 18 DE JULHO DE 2001
 
    Dispõe sobre o Comitê Gestor da Infra-Estrutura de Chaves Públicas Brasileira - CG ICP-Brasil, sua Secretaria-Executiva, sua Comissão Técnica Executiva e dá outras providências.

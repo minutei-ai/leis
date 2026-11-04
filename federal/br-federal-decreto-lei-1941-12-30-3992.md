@@ -1,5 +1,3 @@
-###DEL-003992-0-000-30-12-1941@@@
-
 DECRETO‑LEI Nº 3.992 – DE 30 DE DEZEMBRO DE 1941
 
 Dispõe sobre a execução das estatísticas criminais, a que se refere  o art. 809 do Código de Processo Penal.

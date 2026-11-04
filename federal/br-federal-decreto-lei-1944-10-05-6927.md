@@ -1,5 +1,3 @@
-###DEL-006927-0-000-05-10-1944@@@
-
 DECRETO-LEI N. 6.927 – DE 5 DE OUTUBRO DE 1944
 
 Altera a redação do art. 1º do Decreto-lei n° 2.115, de 5 de abril de 1940

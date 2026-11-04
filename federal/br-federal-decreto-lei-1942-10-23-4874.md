@@ -1,5 +1,3 @@
-###DEL-004874-0-000-23-10-1942@@@
-
 DECRETO-LEI N. 4.874 – DE 23 DE OUTUBRO DE 1942
 
 Suspende durante o estado de guerra a concessão de licenças de acordo com a alínea b do decreto-lei n. 3.940, de 16 de dezembro de 1941

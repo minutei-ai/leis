@@ -1,5 +1,3 @@
-###DEC-068958-0-000-20-07-1971@@@
-
 DECRETO Nº 68.958, de 20 de julho de 1971.
 
 Concede à Joel Assumpção, firma individual, o direito de lavrar scheelita, no município de Santana do Matos, Estado de Rio Grande do Norte.

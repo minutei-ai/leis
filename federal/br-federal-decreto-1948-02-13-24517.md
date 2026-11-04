@@ -1,34 +1,32 @@
-###DEC-024517-0-000-13-02-1948@@@
+**DECRETO Nº 24**.**517, DE 13 DE FEVEREIRO DE 1948**.
 
-<strong>DECRETO Nº 24</strong>.<strong>517, DE 13 DE FEVEREIRO DE 1948</strong>.
+***Aprova o Regulamento da Escola de Aprendizagem de Artes Gráficas da Imprensa Nacional.*
 
-<em><strong>Aprova o Regulamento da Escola de Aprendizagem de Artes Gráficas da Imprensa Nacional</strong></em><em>.</em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e nos têrmos do artigo 4º parágrafo único, do Decreto-lei nº 4.804, de 6 de outubros de 1942,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e nos têrmos do artigo 4º parágrafo único, do Decreto-lei nº 4.804, de 6 de outubros de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Escola de Aprendizagem de Artes Gráficas da Imprensa Nacional, que com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Escola de Aprendizagem de Artes Gráficas da Imprensa Nacional, que com êste baixa.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 13 de fevereiro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G</strong>. <strong>DUTRA</strong>
+**EURICO G**. **DUTRA**
 
 Adroaldo Mesquita da Costa
 
 Clemente Mariani
 
-<strong>REGULAMENTO DA ESCOLA DE ASPRENDIZAGEM DE ARTES GRÁFICAS DA IMPRENSA NACIONAL</strong>
+**REGULAMENTO DA ESCOLA DE ASPRENDIZAGEM DE ARTES GRÁFICAS DA IMPRENSA NACIONAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E ORGANIZAÇÃO DA ESCOLA</em>
+*DA FINALIDADE E ORGANIZAÇÃO DA ESCOLA*
 
-<strong>Art</strong>. 1º A Escola de Aprendizagem de Artes Gráficas da Imprensa nacional (E.A.G.I.N.), criada pelo Decreto-lei nº 4.804, de 6 de outubro  de 1942 e subordinada diretamente ao Diretor da I.N., tem por finalidade:
+**Art**. 1º A Escola de Aprendizagem de Artes Gráficas da Imprensa nacional (E.A.G.I.N.), criada pelo Decreto-lei nº 4.804, de 6 de outubro  de 1942 e subordinada diretamente ao Diretor da I.N., tem por finalidade:
 
 a) a formação profissional dos servidores menores da Imprensa Nacional (I.N.), lotados em funções gráficas ou correlatas;
 
@@ -36,7 +34,7 @@ b) o aperfeiçoamento profissional dos servidores da I.N. e das Imprensas Oficia
 
 c) a seleção de candidatos a funções gráficas ou administrativas na I.N., cuja admissão não dependa, na forma da legislação vigente, de concurso ou provas de habilitação, promovidos pelo órgão competente.
 
-<strong>Art</strong>. 2º A  E.A.G.I.N. compor-se-á de :
+**Art**. 2º A  E.A.G.I.N. compor-se-á de :
 
 a) Diretor
 
@@ -46,11 +44,11 @@ c) Corpo Docente
 
 d) Corpo Discente.
 
-<strong>Art</strong>. 3º O cargo de Diretor da E.A.G.I.N, de provimento em comissão, padrão K, será preenchido por livre escolha do Presidente da República.
+**Art**. 3º O cargo de Diretor da E.A.G.I.N, de provimento em comissão, padrão K, será preenchido por livre escolha do Presidente da República.
 
-<strong>Art</strong>. 4º O Secretário da E.A.G.I.N, ao qual cabe a gratificação de função pela legislação vigente, será designado pelo Diretor da I.N., mediante proposta do Diretor da Escola, dentre os funcionários lotados na I.N.
+**Art**. 4º O Secretário da E.A.G.I.N, ao qual cabe a gratificação de função pela legislação vigente, será designado pelo Diretor da I.N., mediante proposta do Diretor da Escola, dentre os funcionários lotados na I.N.
 
-<strong>Art</strong>. 5º Os membros do Corpo Docente da E.A.G.I.N, serão designados e dispensados pelo Ministério da Justiça, mediante proposta do Diretor da I.N., e perceberão honorários das aulas dadas ou trabalhos prestados na base de Cr$40,00, aos assistentes, até o limite máximo de doze horas semanais.
+**Art**. 5º Os membros do Corpo Docente da E.A.G.I.N, serão designados e dispensados pelo Ministério da Justiça, mediante proposta do Diretor da I.N., e perceberão honorários das aulas dadas ou trabalhos prestados na base de Cr$40,00, aos assistentes, até o limite máximo de doze horas semanais.
 
 § 1º Haverá professores e assistentes para a cultura técnica e cultural geral, escolhidos, de preferência, entre os servidores da I.N.
 
@@ -58,13 +56,13 @@ d) Corpo Discente.
 
 § 3º Os professores estarão sujeitos a prévia inscrição no registro competente do Ministério da Educação e Saúde.
 
-<strong>Art</strong>. 6º O Corpo Discente da E.A.G.I.N é constituído pelos alunos nos regulamentos matriculados em seus diversos Cursos. E.A.G.I.N
+**Art**. 6º O Corpo Discente da E.A.G.I.N é constituído pelos alunos nos regulamentos matriculados em seus diversos Cursos. E.A.G.I.N
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DOS CURSOS</em>
+*DOS CURSOS*
 
-<strong>Art</strong>. 7º A E.A.G.I.N manterá os seguintes Cursos:
+**Art**. 7º A E.A.G.I.N manterá os seguintes Cursos:
 
 I - Cursos Básicos de Artes Gráficas (C.B)
 
@@ -82,7 +80,7 @@ IV – Cursos de Preparação (C.P.)
 
 § 4º O Curso de Preparação se destina ao ensino dos resvidores da I.N. que não possuirem conhecimentos suficientes para a matrícula dos Cursos Profissionais.
 
-<strong>Art</strong>. 8º A matrícula dos Cursos Básicos de Artes Gráficas é obrigatória para os servidores menores de dezoito anos que exercerem funções gráficas ou corelatas, salvo para os portadores de diplomas de artífice ou mestre em artes gráficas concedido por escola industrial oficial, equiparada ou reconhecida.
+**Art**. 8º A matrícula dos Cursos Básicos de Artes Gráficas é obrigatória para os servidores menores de dezoito anos que exercerem funções gráficas ou corelatas, salvo para os portadores de diplomas de artífice ou mestre em artes gráficas concedido por escola industrial oficial, equiparada ou reconhecida.
 
 § 1º Não ficam desobrigados de terminar o curso em que estiverem matriculados os servidores que completarem dezoito anos de idade antes da conclusão do mesmo.
 
@@ -90,11 +88,11 @@ IV – Cursos de Preparação (C.P.)
 
 § 3º Eventualmente poderão ser concedidas matrículas, como estagiantes, a servidores das repartições públicas ou autárquicas e mesmo a estranhos de reconhecida idoenidade moral e de boas condições de saúde.
 
-<strong>Art</strong>. 9º A matrícula nos Cursos de Aperfeiçoamento Profissional e de Especialização Profissional é facultativa para os servidores maiores.
+**Art**. 9º A matrícula nos Cursos de Aperfeiçoamento Profissional e de Especialização Profissional é facultativa para os servidores maiores.
 
 Parágrafo Único - A melhoria de salários dos servidores será concedidad preferentemente aos alunos que tenham concluído os resoectivos cursos ou os estejam frequentando com aproveitamento.
 
-<strong>Art</strong>. 10 Os Cursos Básicos de Artes Gráficas, o de Aperfeiçoamento Profissional e o de Especialização Profissional são os seguintes:
+**Art**. 10 Os Cursos Básicos de Artes Gráficas, o de Aperfeiçoamento Profissional e o de Especialização Profissional são os seguintes:
 
 1\. Curso de Composição Manual e Mecânica.
 
@@ -246,13 +244,13 @@ I. Trabalhos de Carpintaria
 
 II. Trabalhos de Marcenaria
 
-<strong>Art</strong>. 11. Se o exigir o desenvolvimento das artes gráficas, outros cursos, além dos previstos neste regulamento poderão ser criados, por portaria do Diretor da I.N. que determinará a sus duração, seriação conveniente e mais o que fôr necessário para o seu funcionamento.
+**Art**. 11. Se o exigir o desenvolvimento das artes gráficas, outros cursos, além dos previstos neste regulamento poderão ser criados, por portaria do Diretor da I.N. que determinará a sus duração, seriação conveniente e mais o que fôr necessário para o seu funcionamento.
 
-<strong>CA</strong><strong>PÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA DURAÇÃO DOS CURSOS</em>
+*DA DURAÇÃO DOS CURSOS*
 
-<strong>Art</strong>. 12 Os Cursos Básicos de Artes Gráficas terão a duração de dois a quatro anos conforme a profissão.
+**Art**. 12 Os Cursos Básicos de Artes Gráficas terão a duração de dois a quatro anos conforme a profissão.
 
 § 1º Terão a duração de dois anos os cursos de :
 
@@ -288,15 +286,15 @@ Rotogravura fototipia
 
 § 4º terão a duração de três anos os cursos auxiliares de Carpintaria, Eletricidade e Mecânica.
 
-<strong>Art</strong>. 13. Os Cursos de Aperfeiçoamento Profissional terão a duração de um a dois anos de acôrdo com a natureza da função.
+**Art**. 13. Os Cursos de Aperfeiçoamento Profissional terão a duração de um a dois anos de acôrdo com a natureza da função.
 
-<strong>Art</strong>. 14. Os Cursos  de Especialização Profissional terão a duração de um ano.
+**Art**. 14. Os Cursos  de Especialização Profissional terão a duração de um ano.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DA SERIAÇÃO DOS CURSOS</em>
+*DA SERIAÇÃO DOS CURSOS*
 
-<strong>Art</strong>. 15. Os Cursos Básicos de Artes Gráficas obedecem à seguinte seriação:
+**Art**. 15. Os Cursos Básicos de Artes Gráficas obedecem à seguinte seriação:
 
 Primeira série:
 
@@ -352,7 +350,7 @@ Tecnologia
 
 § 2º Em tôdas as séries haverá uma vez por semana sessões de educação física.
 
-<strong>Art</strong>. 16. Os Cursos de Aperfeiçoamento Profissional obedecem à seguinte seriação:
+**Art**. 16. Os Cursos de Aperfeiçoamento Profissional obedecem à seguinte seriação:
 
 Primeira série:
 
@@ -378,13 +376,13 @@ Desenho especializado
 
 Tecnologia.
 
-<strong>Art</strong>. 17. Aos Cursos de Especialização Profissional serão ministrado as mesmas disciplinas da 2ª série dos Cursos de Aperfeiçoamento Profissional, regendo-se porém, por um programa intensivo e mais elevado.
+**Art**. 17. Aos Cursos de Especialização Profissional serão ministrado as mesmas disciplinas da 2ª série dos Cursos de Aperfeiçoamento Profissional, regendo-se porém, por um programa intensivo e mais elevado.
 
-<strong>CAÍTULO V</strong>
+**CAÍTULO V**
 
-<em>DO REGIME DIDÁTICO</em>
+*DO REGIME DIDÁTICO*
 
-<strong>Art</strong>. 18. O ensino será ministrado em aulas teóricas e em aulas práticas.
+**Art**. 18. O ensino será ministrado em aulas teóricas e em aulas práticas.
 
 § 1º Nas aulas teóricas será feita a exposição sistemática do programa.
 
@@ -392,13 +390,13 @@ Tecnologia.
 
 § 3º Serão ministradas dez (10) aulas semanais com a duração de cinqüenta e cinco (55) minutos para as disciplinas de cultura geral e de cento e dez (110) minutos para as de cultura técnica.
 
-<strong>Art</strong>. 19 Os alunos, com exceção  dos enquadrados no § 1º do art. 14, são obrigados a realizar trabalhos escolares em tôdas as disciplinas, sendo exigidas, para admissão às provas parciais escritas pelo menos de setenta por cento (70%), do total das aulas dadas em cada disciplina e a média quarenta (40), no mínimo, como índice de aproveitamento nos trabalhos práticos realizados durante o ano.
+**Art**. 19 Os alunos, com exceção  dos enquadrados no § 1º do art. 14, são obrigados a realizar trabalhos escolares em tôdas as disciplinas, sendo exigidas, para admissão às provas parciais escritas pelo menos de setenta por cento (70%), do total das aulas dadas em cada disciplina e a média quarenta (40), no mínimo, como índice de aproveitamento nos trabalhos práticos realizados durante o ano.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO ENSINO DE TECNOLOGIA</em>
+*DO ENSINO DE TECNOLOGIA*
 
-<strong>Art</strong>. 20 O ensino de tecnologia será ministrado de acôrdo com a orientação seguinte:
+**Art**. 20 O ensino de tecnologia será ministrado de acôrdo com a orientação seguinte:
 
 I - O ensino de tecnologia a ser minitrado a qualquer aluno deverá corresponder às funções que o mesmo exercer na oficina em que estiver lotado.
 
@@ -412,11 +410,11 @@ V - As aulas de tecnologiaterão a duração de 10 minutos sendo trinta minutos 
 
 Parágrafo único. Os professores e assinantes de tecnologia ficam obrigados a apresentarem à Secretaria da Escola, periodicamente, trabalhos executados pelos alunos, com o necessário julgamento., para as anotações competentes.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DOS PROGRAMAS DE ENSINO</em>
+*DOS PROGRAMAS DE ENSINO*
 
-<strong>Art</strong>. 21. Os programas de ensino de cada disciplina de cultura técnica e de cultura geral, compreendendo a especificação do material a ser empregado serão organizados pelos professores e assistentes e submetidos à aprovação do diretor da Escola até vinte (20) dias do início das aulas, devendo ser executados na íntegra no período letivo correspondente, e com observância dos métodos e dos processos pedagógicos que se recomendarem.
+**Art**. 21. Os programas de ensino de cada disciplina de cultura técnica e de cultura geral, compreendendo a especificação do material a ser empregado serão organizados pelos professores e assistentes e submetidos à aprovação do diretor da Escola até vinte (20) dias do início das aulas, devendo ser executados na íntegra no período letivo correspondente, e com observância dos métodos e dos processos pedagógicos que se recomendarem.
 
 § 1º Haverá para cada disciplina, de cultura geral ou técnica em programa que deverá ser revisto e aprovado pelo Diretor da Escola.
 
@@ -424,13 +422,13 @@ Parágrafo único. Os professores e assinantes de tecnologia ficam obrigados a a
 
 § 3º Os programas de matérias lecionadas em séries sucessivas, serão organizados de modo a se completarem abrangendo a totalidade da disciplina.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DOS EXAMES DE ADMISSÃO</em>
+*DOS EXAMES DE ADMISSÃO*
 
-<strong>Art</strong>. 22. Os exames de admissão  destinados à seleção dos candidatos a ingresso nos diferentes cursos, serão realizados na primeira quinzena do mês anterior ao do início do período letivo.
+**Art**. 22. Os exames de admissão  destinados à seleção dos candidatos a ingresso nos diferentes cursos, serão realizados na primeira quinzena do mês anterior ao do início do período letivo.
 
-<strong>Art</strong>. 23. Os exames de admissão constarão de :
+**Art**. 23. Os exames de admissão constarão de :
 
 I - Para os cursos Básicos de Artes Gráficas:
 
@@ -448,15 +446,15 @@ b) provas escrita e oral de Matemática;
 
 c) prova prática consistino de um trabalho relacionado com o curso em que o candidato pretende matrícula.
 
-<strong>Art</strong>. 24. Será considerado aprovado o candidato que obtiver, no mínimo, grau quarenta (40) em cada disciplina e cinqüenta (50) no conjunto, como média aritmética.
+**Art**. 24. Será considerado aprovado o candidato que obtiver, no mínimo, grau quarenta (40) em cada disciplina e cinqüenta (50) no conjunto, como média aritmética.
 
 Parágrafo único. Os servidores inabilitados nos exames de admissão aos diversos Cursos Básicos de Artes Gráficas serão matriculados compulsòriamente no Curso de Preparação.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>DAS TRANSFERÊNCIAS</em>
+*DAS TRANSFERÊNCIAS*
 
-<strong>Art</strong>. 25. Aos alunos de outras escolas similares, que sejam servidores da I.N., é permitida a transferência, matrículas e se houver vaga, respeitado o limite máximo estabelecido para cada turma.
+**Art**. 25. Aos alunos de outras escolas similares, que sejam servidores da I.N., é permitida a transferência, matrículas e se houver vaga, respeitado o limite máximo estabelecido para cada turma.
 
 § 1º O candidato à transferência deverá apresentar como documentos indispensáveis:
 
@@ -468,13 +466,13 @@ c) prova de aptidão mental e funcional, apurada objetivamente.
 
 § 2º Aceita transferência, o Diretor da Escola determinará a série que o aluno transferido deverá cursar, de acôrdo com a adaptação mais conveniente a cada caso, de modo que não fique dispensada qualquer das disciplinas do curso.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>DA VERIFICAÇÃO E DO APROVEITAMENTO</em>
+*DA VERIFICAÇÃO E DO APROVEITAMENTO*
 
-<strong>Art</strong>. 26. O aproveitamento dos alunos será verificado por meio de argüições, trabalhos práticos, provas parciais, escritas e exames finais.
+**Art**. 26. O aproveitamento dos alunos será verificado por meio de argüições, trabalhos práticos, provas parciais, escritas e exames finais.
 
-<strong>Art</strong>. 27. Mensalmente, será atribuído aos alunos pelos professores ou assistentes de cada disciplina, o grau de capacidade relativo à argüição ou aos trabalhos práticos.
+**Art**. 27. Mensalmente, será atribuído aos alunos pelos professores ou assistentes de cada disciplina, o grau de capacidade relativo à argüição ou aos trabalhos práticos.
 
 § 1º Esse grau será registrado pelo professor ou assistente da disciplina na pauta de freqüência de cada matéria.
 
@@ -482,29 +480,29 @@ c) prova de aptidão mental e funcional, apurada objetivamente.
 
 § 3º A falta de média mensal, por motivo de não comparecimento sob qualquer pretexto, importa em grau zero lançado pelo professor ou assistente, na pauta de freqüência.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>DOS PERÍODOS E DA ÉPOCA DAS PROVAS E DOS EXAMES</em>
+*DOS PERÍODOS E DA ÉPOCA DAS PROVAS E DOS EXAMES*
 
-<strong>Art</strong>. 28. O ano escolar dividir-se-á em dois períodos letivos, o primeiro, de 1 de março a 30 de junho e o segundo de 1 de agôsto a 30 de novembro.
+**Art**. 28. O ano escolar dividir-se-á em dois períodos letivos, o primeiro, de 1 de março a 30 de junho e o segundo de 1 de agôsto a 30 de novembro.
 
-<strong>Art</strong>. 29. As provas parciais, escritas, serão realizadas na segunda quinzena de junho e na segunda quinzena de novembro e os exames finais na primeira quinzena de dezembro.
+**Art**. 29. As provas parciais, escritas, serão realizadas na segunda quinzena de junho e na segunda quinzena de novembro e os exames finais na primeira quinzena de dezembro.
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>DAS PROVAS PARCIAIS ESCRITAS</em>
+*DAS PROVAS PARCIAIS ESCRITAS*
 
-<strong>Art</strong>. 30. A verificação do aproveitamento dos alunos mediante provas parciais escritas será pelo professor ou assistente da disciplina, auxiliado, se preciso fôr por outro professor ou assistente, a critério do Diretor da Escola.
+**Art**. 30. A verificação do aproveitamento dos alunos mediante provas parciais escritas será pelo professor ou assistente da disciplina, auxiliado, se preciso fôr por outro professor ou assistente, a critério do Diretor da Escola.
 
 Parágrafo único - A prestação das provas parciais escritas não depende de inscrição uma vez satisfeitas as exigências regulamentares relativas à freqüência e trabalhos escolares.
 
-<strong>Art</strong>. 21. As provas parciais escritas versarão sôbre os pontos do programa, explicados até a data de sua realização.
+**Art**. 21. As provas parciais escritas versarão sôbre os pontos do programa, explicados até a data de sua realização.
 
 § 1º O prazo para a realização das provas ficará a critério do professor ou assistente, considerada devidamente a natureza da prova.
 
 § 2º Ao aluno que não comparecer a qualquer prova parcial, justificado o motivo de fôrça maior da ausência, poderá ser concedida segunda chamada, antes da época dos exames finais.
 
-<strong>Art</strong>. 32. O julgamento das provas parciais de qualquer disciplina será feito pelos respectivos professores ou assistentes.
+**Art**. 32. O julgamento das provas parciais de qualquer disciplina será feito pelos respectivos professores ou assistentes.
 
 § 1º As notas serão graduadas de zero (0) a cem (100).
 
@@ -516,21 +514,21 @@ Parágrafo único - A prestação das provas parciais escritas não depende de i
 
 § 5º É vedado ao examinado sair da sala em que se realiza a prova, salvo quando autorizado pelo professor ou assistente e devidamente acompanhado.
 
-<strong>CAPÍTULO XIII</strong>
+**CAPÍTULO XIII**
 
-<em>DOS EXAMES FINAIS</em>
+*DOS EXAMES FINAIS*
 
-<strong>Art</strong>. 33. Os exames finais constarão de prova escrita e prova oral, prático-oral ou gráfica, realizando-se esta somente depois de concluída a primeira.
+**Art**. 33. Os exames finais constarão de prova escrita e prova oral, prático-oral ou gráfica, realizando-se esta somente depois de concluída a primeira.
 
 § 1º - A prova escrita será processada e julgada de acôrdo com o disposto para a realização das provas parciais escritas.
 
 § 2º - A prova oral, prático-oral ou gráfica obedecerá ao estabelecido neste Capítulo.
 
-<strong>Art</strong>. 34. A banca examinadora, para a prova oral de cada disciplina, será constituída por dois membros designados pelo Diretor da Escola, sendo um deles professor da turma.
+**Art**. 34. A banca examinadora, para a prova oral de cada disciplina, será constituída por dois membros designados pelo Diretor da Escola, sendo um deles professor da turma.
 
-<strong>Art</strong>. 35. Nas disciplinas em que houver curso prático, deverá o aluno realizar, no ato da prova, os exercícios respectivos que o ponto sorteado comportar.
+**Art**. 35. Nas disciplinas em que houver curso prático, deverá o aluno realizar, no ato da prova, os exercícios respectivos que o ponto sorteado comportar.
 
-<strong>Art</strong>. 36. Cada examinador atribuirá ao examinando uma nota de zero (0) a cem (100), em número inteiro, dos quais se tirará a média cujo valor exato constituirá a nota da prova a ser lançada no livro de atas.
+**Art**. 36. Cada examinador atribuirá ao examinando uma nota de zero (0) a cem (100), em número inteiro, dos quais se tirará a média cujo valor exato constituirá a nota da prova a ser lançada no livro de atas.
 
 § 1º - A nota final de cada disciplina será a média aritmética simples dos seguintes valores:
 
@@ -546,11 +544,11 @@ c) notas dos exames finais.
 
 § 4º - De tudo, para conhecimento geral, será feita publicação no órgão competente.
 
-<strong>CAPÍTULO XIV</strong>
+**CAPÍTULO XIV**
 
-<em>DA PROMOÇÃO DE SÉRIE E CONCLUSÃO DE CURSO</em>
+*DA PROMOÇÃO DE SÉRIE E CONCLUSÃO DE CURSO*
 
-<strong>Art</strong>. 37. A habilitação em cada série dependerá do preenchimento das seguintes exigências:
+**Art**. 37. A habilitação em cada série dependerá do preenchimento das seguintes exigências:
 
 a) freqüência mínima de setenta por cento (70%) às aulas práticas e teóricas no decurso do ano escolar;
 
@@ -560,13 +558,13 @@ c) nota global cinqüenta (50) pelo menos no grupo das disciplinas de cultura ge
 
 Parágrafo único. A média será fornecida pelas notas das provas escritas e dos exames finais.
 
-<strong>Art</strong>. 38. Aos que concluírem qualquer dos Cursos da E. A.G. I. N. será concedido um certificado, firmado pelo Diretor da I.N., pelo Diretor e pelo Secretário da Escola e pelo aluno.
+**Art**. 38. Aos que concluírem qualquer dos Cursos da E. A.G. I. N. será concedido um certificado, firmado pelo Diretor da I.N., pelo Diretor e pelo Secretário da Escola e pelo aluno.
 
-<strong>CAPÍTULO XV</strong>
+**CAPÍTULO XV**
 
-<em>DAS ATRIBUIÇÕES DO DIRETOR</em>
+*DAS ATRIBUIÇÕES DO DIRETOR*
 
-<strong>Art</strong>. 39. Ao Diretor da E. A. G. I. N., compete:
+**Art**. 39. Ao Diretor da E. A. G. I. N., compete:
 
 a) superintender as atividades da Escola e respectivo pessoal;
 
@@ -602,11 +600,11 @@ q) propor, ao Diretor da I. N., a designação de professores e assistentes;
 
 r) rever os programas dos Cursos, a fim de verificar se obedecem às conveniências do ensino, e aprová-los.
 
-<strong>CAPÍTULO XVI</strong>
+**CAPÍTULO XVI**
 
-<em>DAS ATRIBUIÇÕES DO SECRETÁRIO</em>
+*DAS ATRIBUIÇÕES DO SECRETÁRIO*
 
-<strong>Art</strong>. 40. Ao Secretário incumbe:
+**Art**. 40. Ao Secretário incumbe:
 
 a) dirigir os serviços do expediente e fiscalizar os demais encargos administrativos, auxiliando o diretor na superintendência das atividades da Escola;
 
@@ -626,11 +624,11 @@ h) organizar os horários e turmas para os cursos, ouvida sempre a Divisão de P
 
 i) elaborar a proposta orçamentária da Escola.
 
-<strong>CAPÍTULO XVII</strong>
+**CAPÍTULO XVII**
 
-<em>DOS DEVERES E ATRIBUIÇÕES DOS MEMBROS DO CORPO DOCENTE</em>
+*DOS DEVERES E ATRIBUIÇÕES DOS MEMBROS DO CORPO DOCENTE*
 
-<strong>Art</strong>. 41. Constituem deveres e atribuições do membro do Corpo Docente:
+**Art**. 41. Constituem deveres e atribuições do membro do Corpo Docente:
 
 a) dirigir e orientar o ensino de sua cadeira, executando com o melhor critério didático o programa escolar;
 
@@ -652,11 +650,11 @@ i) fazer parte das bancas examinadoras para as quais fôr designado.
 
 Parágrafo único. O docente, além do desempenho das suas funções normais no ensino, deverá destinar, semanalmente, meia hora para atender, na sede da Escola, e fora do expediente da I. N., a consultas dos respectivos alunos para o fim de orientá-los individualmente nos estudos.
 
-<strong>CAPÍTULO XVIII</strong>
+**CAPÍTULO XVIII**
 
-<em>DOS DIREITOS E DEVERES FUNDAMENTAIS DOS MEMBROS DO CORPO DISCENTE</em>
+*DOS DIREITOS E DEVERES FUNDAMENTAIS DOS MEMBROS DO CORPO DISCENTE*
 
-<strong>Art</strong>. 42. Caberão aos membros do Corpo Discente, os seguintes direitos e deveres fundamentais:
+**Art**. 42. Caberão aos membros do Corpo Discente, os seguintes direitos e deveres fundamentais:
 
 a) aplicar a máxima diligência no aproveitamento do ensino que lhes fôr ministrado;
 
@@ -668,13 +666,13 @@ d) abster-se de quaisquer atos que possam importar em perturbação da ordem, of
 
 e) concorrer preferencialmente à melhoria de salário na I. N., de acôrdo com o aproveitamento nos estudos.
 
-<strong>CAPÍTULO XIX</strong>
+**CAPÍTULO XIX**
 
-<em>DAS PENALIDADES</em>
+*DAS PENALIDADES*
 
-<strong>Art</strong>. 43. Os atos que se desviarem das normas regulamentares ou das boas regras de moral serão passíveis de penalidades.
+**Art**. 43. Os atos que se desviarem das normas regulamentares ou das boas regras de moral serão passíveis de penalidades.
 
-<strong>Art</strong>. 44. Os professores e assistentes ficarão sujeitos a penas disciplinares de advertência, suspensão e dispensa de função.
+**Art**. 44. Os professores e assistentes ficarão sujeitos a penas disciplinares de advertência, suspensão e dispensa de função.
 
 § 1º Incorrerão na pena de advertência os membros do Corpo Docente:
 
@@ -696,7 +694,7 @@ b) praticarem delitos sujeitos à sanção penal.
 
 § 4º As penalidades de advertência e suspensão serão aplicadas pelo Diretor da Escola; a de dispensa da função na forma da legislação vigente.
 
-<strong>Art</strong>. 45. Os membros do Corpo Discente ficarão sujeitos às seguintes penas disciplinares, conforme a gravidade da falta que cometerem:
+**Art**. 45. Os membros do Corpo Discente ficarão sujeitos às seguintes penas disciplinares, conforme a gravidade da falta que cometerem:
 
 a) advertência;
 
@@ -710,28 +708,28 @@ d) expulsão da Escola.
 
 § 2º Ficam sujeitos à pena de dispensa da função os servidores de que trata o artigo 8º dêste Regulamento, se, no cumprimento de seus deveres escolares revelarem desídia ou se forem reprovados nos exames finais da série na qual estiverem matriculados. Excepcionalmente, por motivo justificado, a juízo da autoridade competente, poderá ser facultada ao aluno a repetência do ano.
 
-<strong>CAPÍTULO XX</strong>
+**CAPÍTULO XX**
 
-<em>DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS*
 
-<strong>Art</strong>. 46. O Diretor da I. N. mediante instruções que baixará, por portaria, regulará a forma de estágio nas oficinas ou na E. A .G. I. N. dos alunos estranhos aos respectivos quadros.
+**Art**. 46. O Diretor da I. N. mediante instruções que baixará, por portaria, regulará a forma de estágio nas oficinas ou na E. A .G. I. N. dos alunos estranhos aos respectivos quadros.
 
-<strong>Art</strong>. 47. Os Cursos Básicos, de Aperfeiçoamento e de Especialização de que trata esse Regulamento terão início a partir do ano de 1948.
+**Art**. 47. Os Cursos Básicos, de Aperfeiçoamento e de Especialização de que trata esse Regulamento terão início a partir do ano de 1948.
 
-<strong>Art</strong>. 48. Aos parentes dos servidores, maiores de 14 anos e menores de 18 anos de idade e mesmo a estranhos, de reconhecida idoneidade moral e capacidade física, poderão, também, ser concedidas matrículas no Curso de Preparação, a título precário, de acôrdo com as possiblidades da E. A .G. I. N.
+**Art**. 48. Aos parentes dos servidores, maiores de 14 anos e menores de 18 anos de idade e mesmo a estranhos, de reconhecida idoneidade moral e capacidade física, poderão, também, ser concedidas matrículas no Curso de Preparação, a título precário, de acôrdo com as possiblidades da E. A .G. I. N.
 
-<strong>Art</strong>. 49. A E. A. G. I. N. manterá um Curso de Educação Doméstica e, se convier, a juízo do Diretor da I.N., cursos de línguas para o ensino de Inglês e do Francês.
+**Art**. 49. A E. A. G. I. N. manterá um Curso de Educação Doméstica e, se convier, a juízo do Diretor da I.N., cursos de línguas para o ensino de Inglês e do Francês.
 
-<strong>Art</strong>. 50. Por conveniência do serviço industrial o Diretor poderá determinar o cancelamento temporário da matrícula de qualquer aluno ou a interrupção eventual dos cursos considerados facultativos.
+**Art**. 50. Por conveniência do serviço industrial o Diretor poderá determinar o cancelamento temporário da matrícula de qualquer aluno ou a interrupção eventual dos cursos considerados facultativos.
 
-<strong>Art</strong>. 51. Para as primeiras admissões de que trata o artigo 5º, § 2º, terão preferência os atuais professores e assistentes da E.A .G. I. N.
+**Art**. 51. Para as primeiras admissões de que trata o artigo 5º, § 2º, terão preferência os atuais professores e assistentes da E.A .G. I. N.
 
-<strong>Art</strong>. 52. O Diretor da E.A.G.I.N. será substituído em seus impedimentos até 30 dias pelo Secretário.
+**Art**. 52. O Diretor da E.A.G.I.N. será substituído em seus impedimentos até 30 dias pelo Secretário.
 
-<strong>Art</strong>. 53. O pessoal necessário aos serviços administrativos da Escola será designado pelo Diretor da Imprensa nacional dentre os servidores desta Repartição.
+**Art**. 53. O pessoal necessário aos serviços administrativos da Escola será designado pelo Diretor da Imprensa nacional dentre os servidores desta Repartição.
 
 Rio de Janeiro, em 13 de fevereiro de 1948.
 
-<strong>ADROALDO MESQUITA DA COSTA</strong>
+**ADROALDO MESQUITA DA COSTA**
 
 Clemente Mariani

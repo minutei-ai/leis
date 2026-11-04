@@ -1,5 +1,3 @@
-###DEC-084880-0-000-08-07-1980@@@
-
 Decreto nº 84.880, de 08 de julho de 1980
 
 Declara de utilidade publica, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., no Estado do Rio de Janeiro.

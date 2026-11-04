@@ -1,5 +1,3 @@
-###MPV-002092-0-024-17-05-2001@@@
-
 MEDIDA PROVISÓRIA N 2.092‑24, DE 17 DE MAIO DE 2001.
 
 Institui, no âmbito do Poder Executivo da União, o Programa de Desligamento Voluntário ‑PDV, a jornada de trabalho reduzida com remuneração proporcional e a licença sem remuneração com pagamento de incentivo em pecúnia, destinados ao servidor da administração pública direta, autárquica e fundacional.

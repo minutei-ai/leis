@@ -1,5 +1,3 @@
-###MPV-001145-0-000-10-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.145, DE 10 DE OUTUBRO DE 1995.
 
 Dispõe sobre normas relativas aos contratos para produção de bens imóveis, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-096049-0-000-18-05-1988@@@
-
 DECRETO Nº 96.049, DE 18 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados “FAZENDAS MORRINHOS, LAGOINHA E LAGOA DO ALECRIM”, classificados como “latifúndio por exploração”, situados no Município de Morro do Chapéu, no Estado da Bahia, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.689, de 19 de maio de 1986, e dá outras providências.

@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.594, DE 02 DE DEZEMBRO DE 2020.<br>
+LEI MUNICIPAL Nº 3.594, DE 02 DE DEZEMBRO DE 2020.
+
 (Revogada pela Lei Ordinária nº 3.702, de 23 de março de 2023).
 
 ~~Institui a política de incentivo aos atletas praticantes de desportos de rendimento nas modalidades do Programa “Aparecida Compete”, e dá outras providências.~~
@@ -59,11 +60,14 @@ LEI MUNICIPAL Nº 3.594, DE 02 DE DEZEMBRO DE 2020.<br>
 
  
 
-~~GUSTAVO MENDANHA<br>
+~~GUSTAVO MENDANHA
+
 Prefeito Municipal~~
 
-~~FABIO PASSÁGLIA<br>
+~~FABIO PASSÁGLIA
+
 Chefe da Casa Civil~~
 
-~~GERFESON ARAGÃO DE MELO<br>
+~~GERFESON ARAGÃO DE MELO
+
 Secretário de Esportes, Lazer e Juventude~~

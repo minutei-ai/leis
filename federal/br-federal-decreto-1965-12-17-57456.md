@@ -1,5 +1,3 @@
-###DEC-057456-0-000-17-12-1965@@@
-
 DECRETO Nº 57.456, DE 17 DE DEZEMBRO DE 1965.
 
 Determina a elaboração do Plano de Estatística da Previdência Social e dá outras providências.
@@ -41,8 +39,6 @@ Brasília, 17 de dezembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Walter Peracchi Barcellos
-
-###DEC-057456-0-000-17-12-1965@@@RET01+++
 
 decreto nº 57.456, de 17 de dezembro de 1965.
 

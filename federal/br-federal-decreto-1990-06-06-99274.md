@@ -1,7 +1,3 @@
-1
-
-###DEC-099274-0-000-06-06-1990@@@
-
 DECRETO Nº 99.274, DE 6 DE JUNHO DE 1990
 
 Regulamenta a Lei nº 6.902, de 27 de abril de 1981, e a Lei nº 6.938, de 31 de agosto de 1981, que dispõem, respectivamente sobre a criação de Estações Ecológicas e Áreas de Proteção Ambiental e sobre a Política Nacional do Meio Ambiente, e dá outras providências.

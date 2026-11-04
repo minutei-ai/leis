@@ -1,5 +1,3 @@
-###DEC-059655-0-000-05-12-1966@@@
-
 decreto nº 59.655, de 5 de dezembro de 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 48.709, de 4 de agôsto de 1960, para fins de desapropriação pelo Departamento Nacional de Obras Contra Sêca, da área de terreno necessária à construção do açude público “Várzea Formosa”, no município de Itiúba, Estado da Bahia.

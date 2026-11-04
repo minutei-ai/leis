@@ -1,5 +1,3 @@
-###DEC-057303-0-000-22-11-1965@@@
-
 DECRETO Nº 57.303, DE 22 DE NOVEMBRO DE 1965.
 
 Institui a “Hora de Verão” em todo o território nacional.

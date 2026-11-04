@@ -1,5 +1,3 @@
-###DEC-057848-0-000-23-02-1966@@@
-
 Decreto nº 57.848, de 23 de fevereiro de 1966.
 
 Declara de utilidade pública o Asilo São Vicente de Paulo, com sede em Paranaguá, Estado do Paraná.

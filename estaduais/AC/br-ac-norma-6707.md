@@ -1,6 +1,10 @@
 > **LEI Nº 4.769, DE 19 DE JANEIRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o “Dia da Defensoria, da Defensora e do Defensor Público”, a ser comemorado, anualmente, no dia 19 de maio, no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o “Dia da Defensoria, da Defensora e do Defensor Público”, a ser comemorado, anualmente, no dia 19 de maio, no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

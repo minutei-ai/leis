@@ -1,5 +1,3 @@
-###DEC-067497-0-000-06-11-1970@@@
-
 DECRETO Nº 67.497, DE 6 DE NOVEMBRO DE 1970.
 
 Revoga os Decretos que concederam à emprêsa La Hispano Argentina Curtiembre y Charoleria autorização para funcionar e continuar a funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-005615-0-000-13-12-2005@@@
-
 DECRETO Nº 5.615, DE 13 DE DEZEMBRO DE 2005.
 
 Dispõe sobre a criação do Consulado-Geral do Brasil em Paris, República Francesa.

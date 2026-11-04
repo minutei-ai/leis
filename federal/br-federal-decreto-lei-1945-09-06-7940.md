@@ -1,5 +1,3 @@
-###DEL-007940-0-000-06-09-1945@@@
-
 DECRETO-LEI N. 7.940 – DE 6 DE SETEMBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a conceder ao "Sodalício da Sacra Família” isenção dos impostos que menciona.

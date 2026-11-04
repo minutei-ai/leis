@@ -1,5 +1,3 @@
-###DEL-004550-0-000-04-08-1942@@@
-
 DECRETO-LEI N. 4.550 – DE 4 DE AGOSTO DE 1942
 
 Concede auxílio federal para a ereção do monumento simbólico da Juventude Brasileira

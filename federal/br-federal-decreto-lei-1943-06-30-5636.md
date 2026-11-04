@@ -1,5 +1,3 @@
-###DEL-005636-0-000-30-06-1943@@@
-
 DECRETO‑LEI N. 5.636 – DE 30 DE JUNHO DE 1943
 
 Cria o Centro de Instrução Especializada, com sede na Capital Federal

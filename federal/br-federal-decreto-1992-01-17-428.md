@@ -1,7 +1,3 @@
-1
-
-###DEC-000428-0-000-17-01-1992@@@
-
 DECRETO N° 428, DE 17 DE JANEIRO DE 1992
 
 Modifica o Decreto n° 91.524, de 9 de agosto de 1985, que impôs restrições ao relacionamento com a África do Sul.

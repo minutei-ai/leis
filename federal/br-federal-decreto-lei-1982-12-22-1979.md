@@ -1,5 +1,3 @@
-###DEL-001979-0-000-22-12-1982@@@
-
 # Decreto-lei nº 1.979, dE 22 dezembrO de 1982
 
 Altera a legislação do imposto de renda na fonte, relativa a domiciliados no país.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097729-0-000-08-05-1989@@@
-
 DECRETO N° 97.729, DE 08 DE MAIO DE 1989
 
 Autoriza a Universidade Federal de Pernambuco a alienar bens imóveis de sua propriedade, situados, respectivamente, nos Municípios de Jaboatão e de Recife, no Estado de Pernambuco, e dá outras providências.

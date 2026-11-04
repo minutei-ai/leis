@@ -1,5 +1,3 @@
-###DEC-092371-0-000-06-02-1986@@@
-
 DECRETO Nº 92.371, DE 06 DE FEVEREIRO DE 1986
 
 Renova a concessão outorgada à FUNDAÇÃO JOÃO XXIII (RÁDIO EMISSORA SÃO JOSÉ), para explorar serviço de radiodifusão sonora em onda média, na cidade de Mafra, Estado de Santa Catarina.

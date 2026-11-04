@@ -1,5 +1,3 @@
-###DEL-003496-0-000-13-08-1941@@@
-
 DECRETO-LEI N. 3.496 – DE 13 DE AGOSTO DE 1941
 
 Cria, no Quadro VII – Justiça do Território do Acre – do Ministério da Justiça e Negócios Interiores, cinco cargos de escrivão do crime e dá outras providências

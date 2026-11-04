@@ -1,5 +1,3 @@
-###DEL-009496-0-000-22-07-1946@@@
-
 DECRETO-LEI N. 9.496 – DE 22 DE JULHO DE 1946
 
 Altera o art. 5º do Decreto-lei número 4.826, de 12 de Outubro de 1942

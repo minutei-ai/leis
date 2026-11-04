@@ -1,5 +1,3 @@
-###DEC-071675-0-000-08-01-1973@@@
-
 DECRETO Nº 71.675, de 8 de Janeiro de 1973.
 
 Concede à Serrana S.A. de Mineração o direito de lavrar argila no município de Jacupiranga, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099847-0-000-18-12-1990@@@
-
 # DECRETO N° 99.847, DE 18 DE DEZEMBRO DE 1990
 
 Dispõe sobre a execução do Décimo Terceiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980, subscrito entre o Brasil e a Venezuela {Acordo n° 13).

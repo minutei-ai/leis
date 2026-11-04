@@ -1,5 +1,3 @@
-###DEC-089825-0-000-25-06-1984@@@
-
 Decreto nº 89.825, de 25 de junho DE 1984
 
 Altera dispositivo do Decreto nº 62 860, de 18 ica de junho de 1968, que estabelece a Estrutura Básica da organização do Ministério da Marinha, referente à Secretaria-Geral da Marinha, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055602-0-000-20-01-1965@@@
-
 DECRETO Nº 55.602, DE 20 DE JANEIRO DE 1965.
 
 Autoriza o Serviço do patrimônio da União a aceitar a doação do terreno que menciona, no Estado de Goiás.

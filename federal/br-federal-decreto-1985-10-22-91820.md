@@ -1,5 +1,3 @@
-###DEC-091820-0-000-22-10-1985@@@
-
 DECRETO Nº 91.820, de 22 de outubro de 1985
 
 Dispõe sobre a dispensa de ponto de servidores públicos federais para comparecimento a congressos ou reuniões similares, no País ou no exterior, e dá outras providências.

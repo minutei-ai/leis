@@ -1,5 +1,3 @@
-###DEC-058134-0-000-31-03-1966@@@
-
 DECRETO Nº 58.134, DE 31 DE MARÇO DE 1966.
 
 Promulga o Acôrdo sôbre Privilégios Aduaneiros de Consulados de Carreira e seus Funcionários com a República Federal da Alemanha.
@@ -74,4 +72,20 @@ Art. 14. O presente Acôrdo entrará em vigor trinta dias depois da troca dos In
 
 Em fé do que, os Plenipotenciários acima nomeados firmaram o presente Acôrdo, e nêle apuserem os seus selos em dois exemplares, igualmente autênticos, nos idiomas português e alemão, na cidade de Bonn aos trinta dias do mês de novembro do ano de mil novecentos e sessenta e três.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pela República dos Estado Unidos do Brasil</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Egydio Michaelsen</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pela República Federal da Alemanha</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Gerhard Schröder</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pela República dos Estado Unidos do Brasil
+
+</td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Egydio Michaelsen
+
+</td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pela República Federal da Alemanha
+
+</td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Gerhard Schröder
+
+</td></tr></tbody></table>

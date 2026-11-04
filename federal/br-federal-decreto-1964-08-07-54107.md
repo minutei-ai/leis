@@ -1,5 +1,3 @@
-###DEC-054107-0-000-07-08-1964@@@
-
 DECRETO Nº 54.107, DE 7 DE AGÔSTO DE 1964.
 
 Dá nova redação ao § 2º do art. 1º do Decreto nº 54.082, de 31 de julho de 1964.

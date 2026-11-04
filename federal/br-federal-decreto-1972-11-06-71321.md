@@ -1,5 +1,3 @@
-###DEC-071321-0-000-06-11-1972@@@
-
 DECRETO Nº 71.321 - DE 6 DE NOVEMBRO DE 1972.
 
 Aproveita no Quadro de Pessoal do Ministério do Exército servidores disponíveis do Instituto Brasileiro do Café e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007648-0-000-15-06-1945@@@
-
 DECRETO-LEI N. 7.648 – DE 15 DE JUNHO DE 1945
 
 Abre crédito suplementar ao Ministério do Trabalho, Indústria e Comércio

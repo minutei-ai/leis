@@ -1,5 +1,3 @@
-###DEC-068294-0-000-26-02-1971@@@
-
 DECRETO Nº 68.294, DE 26 DE FEVEREIRO DE 1971.
 
 Autoriza o Governo do Estado de Pernambuco a encampar os bens e instalações vinculados aos serviços públicos de energia elétrica da sede do município de Caruaru, naquele Estado, e dá outras providências.

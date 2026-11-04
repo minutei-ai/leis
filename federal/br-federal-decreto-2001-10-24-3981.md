@@ -1,5 +1,3 @@
-###DEC-003981-0-000-24-10-2001@@@
-
 DECRETO Nº 3.981, DE 24 DE OUTUBRO DE 2001
 
 Dispõe sobre a CAMEX - Câmara de Comércio Exterior, do Conselho de Governo, e dá outras providências.

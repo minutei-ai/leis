@@ -1,5 +1,3 @@
-###DEC-053996-0-000-03-07-1964@@@
-
 DECRETO Nº 53.996, DE 3 DE JULHO DE 1964.
 
 Outorga à Companhia Urbanizadora da Nova Capital do Brasil (NOVACAP) concessão para o aproveitamento progressivo da energia hidráulica da Cachoeira do Paranoá.

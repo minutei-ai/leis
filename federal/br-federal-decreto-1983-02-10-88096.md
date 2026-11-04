@@ -1,5 +1,3 @@
-###DEC-088096-0-000-10-02-1983@@@
-
 DECRETO Nº 88.096, DE 10 DE FEVeREIRO DE 1983.
 
 Transfere à FUNDAÇÃO DE TELEDUCAÇÃO DO ESTADO DO CEARA, concessão outorgada à TV SECRETARIA DE EDUCAÇÃO E CULTURA, DO ESTADO DO CEARÁ, para execução do serviço de radiodifusão de sons a imagens (televisão), na cidade de Fortaleza, Estado do Ceará.

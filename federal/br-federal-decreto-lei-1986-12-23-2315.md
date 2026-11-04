@@ -1,5 +1,3 @@
-###DEL-002315-0-000-23-12-1986@@@
-
 # DECRETO-LEI Nº 2.315, DE 23 DE DEZEMBRO DE 1986
 
 Autoriza o Poder Executivo a abrir crédito especial até o limite de Cz$5.000.000.000,00, para o fim que especifica.

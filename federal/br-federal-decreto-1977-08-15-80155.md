@@ -1,5 +1,3 @@
-###DEC-080155-0-000-15-08-1977@@@
-
 DECRETO Nº 80.155, de 15 de Agosto de 1977.
 
 Autoriza a transformação dos cursos de Ciências e de Ciências Biológicas em curso de Ciências, e do curso de Desenho e Plástica em curso de Educação Artística, da Faculdade de Ciências e Letras de Ourinhos, com sede na cidade de Ourinhos, Estado de São Paulo.

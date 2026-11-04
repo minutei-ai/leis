@@ -1,5 +1,3 @@
-###DEC-096883-0-000-30-09-1988@@@
-
 DECRETO N° 96.883, DE 30 DE SETEMBRO DE 1988
 
 Outorga à Centrais Elétricas do Norte do Brasil S.A.-  ELETRONORTE concessão para os aproveitamentos da energia hidráulica em trechos dos Rios Trombetas e Mapuera, no Município de Oriximiná, Estado do Pará.

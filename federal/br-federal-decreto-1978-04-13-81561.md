@@ -1,5 +1,3 @@
-###DEC-081561-0-000-13-04-1978@@@
-
 Decreto nº 81.561, de 13 de abril de 1978.
 
 Concede reconhecimento ao curso de Fonoaudiologia, do Centro de Educação e Pesquisa da Terapia da Palavra, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

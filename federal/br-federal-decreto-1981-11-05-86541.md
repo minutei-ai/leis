@@ -1,5 +1,3 @@
-###DEC-086541-0-000-05-11-1981@@@
-
 Decreto nº 86.541, de 05 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO GUARANIAÇU LTDA., na cidade de Guaraniaçu Estado do Paraná.

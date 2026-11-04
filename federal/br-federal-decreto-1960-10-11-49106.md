@@ -1,5 +1,3 @@
-###DEC-049106-0-000-11-10-1960@@@
-
 Decreto nº 49.106, de 11 de outubro de 1960.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de Cr$200.000,00, para aquisição do acervo artístico do escultor maranhense Newton Sá.

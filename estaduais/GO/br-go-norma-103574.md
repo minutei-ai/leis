@@ -1,7 +1,43 @@
 Lei Ordinária n° 20.898 / 2020
 
-<table border="0" cellpadding="0" id="table1" width="100%"><tbody><tr><td class="Normal" width="100%"><p align="right"><font size="2" face="Arial">&nbsp;</font></p></td></tr><tr><td class="Normal" width="100%"><p align="center"><font color="#808000" face="Arial" size="2"><img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68"><br><strong>GOVERNO DO ESTADO DE GOIÁS</strong></font><font face="Arial" size="2"><br></font><strong><font color="#808000" face="Arial" size="2">Secretaria de Estado da Casa Civil</font></strong></p></td></tr></tbody></table>
+<img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
+**GOVERNO DO ESTADO DE GOIÁS**
+
+**Secretaria de Estado da Casa Civil
+**
 
 **LEI Nº 20.898, DE 06 DE NOVEMBRO DE 2020.**
 
-<table border="0" width="100%"><tbody><tr><td width="6%"><font face="Arial" size="2">&nbsp;</font></td><td width="94%"><p style="line-height: 150%; margin-left: 310px"><span style="font-family: Arial"><font size="2">Institui o MÊS ESTADUAL ABRIL LARANJA.</font> </span><font face="Arial" size="2">&nbsp;&nbsp;</font></p><p class="MsoNormal" style="text-align: justify; text-indent: 110px"><span style="font-family: Arial"><font size="2">A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da </font></span><span style="background: white"><font face="Arial" size="2"><a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual-">Constituição Estadual</a> </font></span><span style="font-family: Arial"><font size="2">, decreta e eu sanciono a seguinte Lei:</font></span></p><p class="MsoNormal" style="text-indent: 110px" align="justify"><font size="2" face="Arial">Art. 1º Fica instituído o MÊS ESTADUAL ABRIL LARANJA, dedicado à campanha de adoção e de prevenção à crueldade contra os animais, a ser realizado, anualmente, no mês de abril.</font><span style="font-family: Arial"> <font size="2">&nbsp;</font></span></p><p class="MsoNormal" style="text-indent: 110px" align="justify"><span style="font-family: Arial"><font size="2">Art. 2º Nas edificações públicas estaduais, durante o MÊS ESTADUAL ABRIL LARANJA, sempre que possível será utilizada a iluminação na cor laranja e a aplicação do símbolo da campanha ou sinalização alusiva ao tema.&nbsp;</font></span></p><p class="MsoNormal" style="text-indent: 110px" align="justify"><span style="font-family: Arial"><font size="2">Art. 3º &nbsp;No MÊS ESTADUAL ABRIL LARANJA, poderão ser desenvolvidas ações com os seguintes objetivos:&nbsp;</font></span></p><p class="MsoNormal" style="text-indent: 110px" align="justify"><span style="font-family: Arial"><font size="2">I – alertar e promover debates sobre o tema;&nbsp;</font></span></p><p class="MsoNormal" style="text-indent: 110px" align="justify"><span style="font-family: Arial"><font size="2">II – estabelecer diretrizes para o desenvolvimento de ações integradas envolvendo a população, órgãos públicos, instituições públicas e privadas;&nbsp;</font></span></p><p class="MsoNormal" style="text-indent: 110px" align="justify"><span style="font-family: Arial"><font size="2">III – estimular, sob o ponto de vista social e educacional, a concretização de ações, programas e projetos na área; e&nbsp;</font></span></p><p class="MsoNormal" style="text-indent: 110px" align="justify"><span style="font-family: Arial"><font size="2">IV – estimular a realização de feira de adoção de animais domésticos bem como de workshops e palestras voltadas à temática de proteção aos animais.&nbsp;</font></span></p><p class="MsoNormal" style="text-indent: 110px" align="justify"><span style="font-family: Arial"><font size="2">Art. 4º &nbsp;Esta Lei entra em vigor na data de sua publicação.&nbsp;</font></span></p><p class="MsoNormal" style="text-indent: 110px" align="justify"><span style="font-family: Arial"><font size="2">Goiânia, 06 de novembro de 2020; 132º da República.</font></span></p><p class="MsoNormal" style="text-indent:70.9pt"><span style="font-family: Arial"><font size="2">&nbsp;</font></span></p><p class="MsoNormal" align="center"><span style="font-family: Arial"><font size="2">RONALDO CAIADO<br>Governador do Estado</font> </span><span style="line-height: 80%; font-family: Arial; color: red"><font size="2">&nbsp;</font></span><font size="2" face="Arial"></font></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family: Arial"><font size="2">BRUNO PEIXOTO<br>Deputado Estadual</font> </span><font face="Arial" size="2">&nbsp;</font></p><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p><p align="center"><font face="Arial" size="2"><font color="#ff0000" face="Arial" size="2"><em>Este texto não substitui o publicado no Suplemento do D.O. de 06-11-2020</em></font><em> <font color="#FF0000" face="Arial" size="2">.</font></em><br>&nbsp;</font></p></td></tr><tr><td width="6%"><font face="Arial" size="2">&nbsp;</font></td><td width="94%"><font face="Arial" size="2">&nbsp;</font></td></tr></tbody></table>
+Institui o MÊS ESTADUAL ABRIL LARANJA.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da
+[Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual-)
+, decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica instituído o MÊS ESTADUAL ABRIL LARANJA, dedicado à campanha de adoção e de prevenção à crueldade contra os animais, a ser realizado, anualmente, no mês de abril.
+
+Art. 2º Nas edificações públicas estaduais, durante o MÊS ESTADUAL ABRIL LARANJA, sempre que possível será utilizada a iluminação na cor laranja e a aplicação do símbolo da campanha ou sinalização alusiva ao tema.
+
+Art. 3º  No MÊS ESTADUAL ABRIL LARANJA, poderão ser desenvolvidas ações com os seguintes objetivos:
+
+I – alertar e promover debates sobre o tema;
+
+II – estabelecer diretrizes para o desenvolvimento de ações integradas envolvendo a população, órgãos públicos, instituições públicas e privadas;
+
+III – estimular, sob o ponto de vista social e educacional, a concretização de ações, programas e projetos na área; e
+
+IV – estimular a realização de feira de adoção de animais domésticos bem como de workshops e palestras voltadas à temática de proteção aos animais.
+
+Art. 4º  Esta Lei entra em vigor na data de sua publicação.
+
+Goiânia, 06 de novembro de 2020; 132º da República.
+
+RONALDO CAIADO
+Governador do Estado
+
+BRUNO PEIXOTO
+Deputado Estadual
+
+*Este texto não substitui o publicado no Suplemento do D.O. de 06-11-2020*
+* .
+*

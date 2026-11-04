@@ -1,5 +1,3 @@
-###DEC-068771-0-000-17-06-1971@@@
-
 Decreto nº 68.771, de 17 de junho de 1971.
 
 Altera o Decreto nº 66.315 de 13 de março de 1970.

@@ -1,5 +1,3 @@
-###DEC-075934-0-000-03-07-1975@@@
-
 DECRETO Nº 75.934 - DE 03 DE JULHO DE 1975
 
 Concede à Companhia de Cimento Portland Goiás o direito de lavrar argila no Distrito e Município de Palmeiras de Goiás, Estado de Goiás.

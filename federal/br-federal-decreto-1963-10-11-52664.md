@@ -1,5 +1,3 @@
-###DEC-052664-0-000-11-10-1963@@@
-
 DECRETO Nº 52.664, DE 11 DE OUTUBRO DE 1963.
 
 Aprova o Regimento do Conselho de Fiscalização das Expedições Artísticas e Cientificas no Brasil, do Ministério da Agricultura.

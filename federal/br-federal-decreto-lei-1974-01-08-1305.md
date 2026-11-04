@@ -1,5 +1,3 @@
-###DEL-001305-0-000-08-01-1974@@@
-
 # DECRETO-LEI Nº 1.305, DE 8 DE jaNEIRO DE 1974
 
 Dispõe sobre as contribuições de que tratam o artigo 1º, do Decreto-lei nº 6.246, de 5 de fevereiro de 1944, e o artigo 24, da Lei nº 5.107, de 13 de setembro de 1966, alterada pelo Decreto-lei nº 20, de 14 de setembro de 1966.

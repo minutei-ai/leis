@@ -1,5 +1,3 @@
-###DEC-057750-0-000-04-02-1966@@@
-
 DECRETO Nº 57.750, DE 4 DE FEVEREIRO DE 1966.
 
 Outorga concessão à Universidade Federal de Pernambuco, para instalar uma estação televisora - VHF.

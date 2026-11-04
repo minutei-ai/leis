@@ -1,5 +1,3 @@
-###DEC-073385-0-000-28-12-1973@@@
-
 DECRETO Nº 73.385 - DE 28 DE DEZEMBRO DE 1973
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Educação Rural Ltda., para executar serviço de radiodifusão sonora em onda tropical, na Cidade de Campo Grande, Estado de Mato Grosso.

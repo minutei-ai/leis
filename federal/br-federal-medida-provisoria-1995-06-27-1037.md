@@ -1,7 +1,3 @@
-1
-
-###MPV-001037-0-000-27-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.037, DE 27 DE JUNHO DE 1995.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

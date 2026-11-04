@@ -1,5 +1,3 @@
-###DEC-075758-0-000-23-05-1975@@@
-
 DECRETO Nº 75.758- de 23 de maio de 1975
 
 Autoriza o registro em nome da União Federal, do imóvel que menciona, situado no Estado de Pernambuco.

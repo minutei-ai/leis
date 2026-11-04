@@ -1,5 +1,3 @@
-###DEC-097472-0-000-23-01-1989@@@
-
 DECRETO N° 97.472, DE 23 DE JANEIRO DE 1989
 
 Dispõe sobre a organização e o funcionamento do Ministério do Desenvolvimento Industrial, Ciência e Tecnologia, criado pela Medida Provisória n° 29, de 15 de janeiro de 1989.

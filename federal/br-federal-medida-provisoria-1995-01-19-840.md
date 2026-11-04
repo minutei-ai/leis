@@ -1,7 +1,3 @@
-1
-
-###MPV-000840-0-000-19-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 840, DE 19 DE JANEIRO DE 1995
 
 Dispõe sobre a assunção, pela União, de crédito da Export Development Corporation (EDC) e de debêntures emitidas pela Embraer (Empresa Brasileira de Aeronáutica S.A.), bem como sobre a utilização de créditos da União junto à Embraer (Empresa Brasileira de Aeronáutica S.A.)

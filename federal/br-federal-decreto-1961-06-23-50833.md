@@ -1,5 +1,3 @@
-###DEC-050833-0-000-23-06-1961@@@
-
 DECRETO Nº 50.833, DE 23 DE JUNHO DE 1961.
 
 Retifica a Tabela Numérica Especial de Mensalistas do Ministério da Saúde e dá outras providências.

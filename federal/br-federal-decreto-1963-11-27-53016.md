@@ -1,5 +1,3 @@
-###DEC-053016-0-000-27-11-1963@@@
-
 DECRETO Nº 53.016, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Heraldo de Campos Lima a lavrar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

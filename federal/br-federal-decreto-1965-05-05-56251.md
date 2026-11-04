@@ -1,5 +1,3 @@
-###DEC-056251-0-000-05-05-1965@@@
-
 decreto nº 56.251, de 5 de maio de 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que indica, limítrofe ao terreno da Faculdade de Farmácia  da Universidade do Paraná, no Município, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-056940-0-000-01-10-1965@@@
-
 DECRETO Nº 56.940, DE 1º DE OUTUBRO DE 1965.
 
 Restringe a zona de concessão da Cidade de Santos - Serviços de Eletricidade e Gás S.A. e dá outras providências.

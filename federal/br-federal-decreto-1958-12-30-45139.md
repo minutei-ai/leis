@@ -1,5 +1,3 @@
-###DEC-045139-0-000-30-12-1958@@@
-
 decreto nº 45.139, de 30 de dezembro de 1958.
 
 Outorga à “Cooperativa de Fôrça e Luz de Vala do Souza” concessão para o aproveitamento de energia hidráulica do Ribeirão Cristal, no Distrito de Vala de Souza, Município de Alegre, Estado do Espírito Santo.

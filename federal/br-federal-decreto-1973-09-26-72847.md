@@ -1,5 +1,3 @@
-###DEC-072847-0-000-26-09-1973@@@
-
 DECRETO Nº 72.847, DE 26 DE SETEMBRO DE 1973.
 
 Exclui cargos do Quadro de Pessoal do Ministério das Minas e Energia da declaração de desnecessidade e dá outras providências.

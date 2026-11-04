@@ -54,7 +54,8 @@ a) formalmente designados e em exercício na Secretaria da Segurança Pública, 
 
 b) formalmente designados e em exercício em departamentos ou delegacias especializadas de Polícia Civil do Estado da Bahia ou em unidades integrantes das estruturas dos Comandos de Policiamento Especializado da Polícia Militar da Bahia, identificadas em Regulamento próprio, desde que pelo menos 60% (sessenta por cento) das Áreas Integradas de Segurança Pública - AISP - nas quais determinada unidade atua tenha alcançado redução do número de vítimas de Crimes Violentos Letais Intencionais - CVLI - em percentual igual ou superior à meta estabelecida para o semestre base;
 
-Redação de acordo com a Lei nº [14.633](https://www.legislabahia.ba.gov.br/documentos/lei-no-14633-de-27-de-novembro-de-2023) de 27 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.633](https://www.legislabahia.ba.gov.br/documentos/lei-no-14633-de-27-de-novembro-de-2023) de 27 de novembro de 2023.
+
 Redação original: "b) formalmente designados e em exercício em departamentos ou delegacias especializadas de Polícia Civil do Estado da Bahia ou em unidades integrantes da estrutura do Comando de Policiamento Especializado da Polícia Militar da Bahia, identificadas em Regulamento próprio, desde que pelo menos 60% (sessenta por cento) das AISP nas quais a sua unidade atua tenham alcançado redução do número de vítimas de CVLI em percentual igual ou superior à meta estabelecida para o semestre base;"
 
 c) formalmente designados e em exercício na Secretaria da Segurança Pública, na Polícia Civil do Estado da Bahia ou na Polícia Militar da Bahia, desde que atuem em unidade integrante de AISP ou RISP cuja taxa de vítimas de CVLI por grupo de 100.000 (cem mil) habitantes no semestre base tenha sido menor ou igual a 40% (quarenta por cento) da mesma taxa calculada para o território do Estado da Bahia, no mesmo semestre base, segundo fórmula prevista em Regulamento próprio;
@@ -65,7 +66,8 @@ a) formalmente designados e em exercício na Secretaria da Segurança Pública, 
 
 b) formalmente designados e em exercício em departamentos ou delegacias especializadas de Polícia Civil do Estado da Bahia ou em unidades integrantes das estruturas dos Comandos de Policiamento Especializado da Polícia Militar da Bahia, identificadas em Regulamento próprio, desde que pelo menos 30% (trinta por cento) das AISP nas quais determinada unidade atua tenha alcançado redução do número de vítimas de CVLI em percentual igual ou superior à meta estabelecida para o semestre base;
 
-Redação de acordo com a Lei nº [14.633](https://www.legislabahia.ba.gov.br/documentos/lei-no-14633-de-27-de-novembro-de-2023) de 27 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.633](https://www.legislabahia.ba.gov.br/documentos/lei-no-14633-de-27-de-novembro-de-2023) de 27 de novembro de 2023.
+
 Redação original: "b) formalmente designados e em exercício em departamentos ou delegacias especializadas de Polícia Civil do Estado da Bahia, ou em unidades integrantes da estrutura do Comando de Policiamento Especializado da Polícia Militar da Bahia, identificadas em Regulamento próprio, desde que pelo menos 30% (trinta por cento) das AISP nas quais a sua unidade atua tenham alcançado redução do número de vítimas de CVLI em percentual igual ou superior à meta estabelecida para o semestre base;"
 
 **III** \- PDP-3, para os servidores e agentes políticos:
@@ -148,57 +150,40 @@ Secretário da Segurança Pública
 
 **PRÊMIO POR DESEMPENHO POLICIAL PDP (EM R$)**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:469.5pt;border-collapse:collapse;border:none" width="626"><tbody><tr><td style="width:81.75pt;border:solid #000001 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><b><span style="color:black">Classificação</span></b></p></td><td style="width:207.0pt;border:solid #000001 1.0pt;border-left:
-  none;background:white;padding:0cm 5.4pt 0cm 5.4pt" width="276"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">Delegado de Polícia Civil<br>Oficial da Polícia Militar<br>Perito Criminal<br>Perito Médico-Legista<br>Perito Odonto-Legal<br>Cargo em Comissão - DAS</span></p></td><td style="width:180.75pt;border:solid #000001 1.0pt;border-left:
-  none;background:white;padding:0cm 5.4pt 0cm 5.4pt" width="241"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">Investigador de Polícia Civil Escrivão de Polícia Civil<br>Praça da Polícia Militar<br>Perito Técnico<br>Cargo em Comissão - DAI</span></p></td></tr><tr><td style="width:81.75pt;border:solid #000001 1.0pt;border-top:
-  none;background:white;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">PDP-1</span></p></td><td style="width:207.0pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" width="276"><p class="MsoNormal" style="margin-top:0cm;margin-right:7.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">R$ 3.358,54</span></p></td><td style="width:180.75pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" width="241"><p class="MsoNormal" style="margin-top:0cm;margin-right:7.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">R$ 2.350,97</span></p></td></tr><tr><td style="width:81.75pt;border:solid #000001 1.0pt;border-top:
-  none;background:white;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">PDP-2</span></p></td><td style="width:207.0pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" width="276"><p class="MsoNormal" style="margin-top:0cm;margin-right:7.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">R$ 2.267,01</span></p></td><td style="width:180.75pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" width="241"><p class="MsoNormal" style="margin-top:0cm;margin-right:7.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">R$ 1.360,21</span></p></td></tr><tr><td style="width:81.75pt;border:solid #000001 1.0pt;border-top:
-  none;background:white;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">PDP-3</span></p></td><td style="width:207.0pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" width="276"><p class="MsoNormal" style="margin-top:0cm;margin-right:7.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">R$ 1.679,26</span></p></td><td style="width:180.75pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" width="241"><p class="MsoNormal" style="margin-top:0cm;margin-right:7.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">R$ 1.007,56</span></p></td></tr><tr><td style="width:81.75pt;border:solid #000001 1.0pt;border-top:
-  none;background:white;padding:0cm 5.4pt 0cm 5.4pt" width="109"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">PDP-4</span></p></td><td style="width:207.0pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" width="276"><p class="MsoNormal" style="margin-top:0cm;margin-right:7.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">R$ 839,63</span></p></td><td style="width:180.75pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" width="241"><p class="MsoNormal" style="margin-top:0cm;margin-right:7.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">R$ 503,78</span></p></td></tr></tbody></table>
+**Classificação**
+
+Delegado de Polícia Civil
+Oficial da Polícia Militar
+Perito Criminal
+Perito Médico-Legista
+Perito Odonto-Legal
+Cargo em Comissão - DAS
+
+Investigador de Polícia Civil Escrivão de Polícia Civil
+Praça da Polícia Militar
+Perito Técnico
+Cargo em Comissão - DAI
+
+PDP-1
+
+R$ 3.358,54
+
+R$ 2.350,97
+
+PDP-2
+
+R$ 2.267,01
+
+R$ 1.360,21
+
+PDP-3
+
+R$ 1.679,26
+
+R$ 1.007,56
+
+PDP-4
+
+R$ 839,63
+
+R$ 503,78

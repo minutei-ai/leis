@@ -1,5 +1,3 @@
-###DEC-064347-0-000-10-04-1969@@@
-
 DECRETO Nº 64.347, DE 10 DE ABRIL DE 1969.
 
 Decreta a intervenção no Município de Jaboatão, no Estado de Pernambuco, e dá outra providências.

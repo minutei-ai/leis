@@ -1,5 +1,3 @@
-###DEC-088085-0-000-07-02-1983@@@
-
 DECRETO Nº 88.085, DE 7 DE FEVEREIRO DE 1983.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, destinado ao Ministério do Exército.

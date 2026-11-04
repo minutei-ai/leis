@@ -1,5 +1,3 @@
-###DEC-004422-0-000-14-10-2002@@@
-
 DECRETO Nº 4.422, DE 14 DE OUTUBRO DE 2002
 
 Dispõe sobre a execução do Décimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica nº 36, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, como Estados Partes do Mercosul, e o Governo da República da Bolívia, de 7 de agosto de 2002.

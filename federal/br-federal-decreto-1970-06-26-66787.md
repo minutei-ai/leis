@@ -1,5 +1,3 @@
-###DEC-066787-0-000-26-06-1970@@@
-
 DECRETO Nº 66.787 - DE 26 DE JUNHO DE 1970
 
 Declara de utilidade pública a Sociedade Beneficente "A Mão Branca" - pró-Asilo à Velhice, com sede em São Paulo, Estado de São Paulo.

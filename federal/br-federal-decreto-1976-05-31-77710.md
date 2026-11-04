@@ -1,5 +1,3 @@
-###DEC-077710-0-000-31-05-1976@@@
-
 DECRETO Nº 77.710 - DE 31 DE MAIO DE 1976
 
 Declara a caducidade do Manifesto de Mina que menciona.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212441)<br>
-
 # LEI N° 18.440, DE 02 DE ABRIL DE 2026
 
 ### _Altera a Lei Complementar n° 1.280, de 13 de janeiro de 2016, que institui a Diária Especial por Jornada Extraordinária de Trabalho Policial Civil - DEJEC._

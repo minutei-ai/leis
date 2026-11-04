@@ -1,5 +1,3 @@
-###DEL-005761-0-000-19-08-1943@@@
-
 DECRETO‑LEI N. 5.761 –  DE 19 DE AGôSTO DE 1943
 
 Dispõe sôbre a realização de um "Sweepstake" pela Associação Protetora do Turf, de Pôrto Alegre

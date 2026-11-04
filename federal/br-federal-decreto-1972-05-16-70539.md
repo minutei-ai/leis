@@ -1,5 +1,3 @@
-###DEC-070539-0-000-16-05-1972@@@
-
 DECRETO Nº 70.539, DE 16 DE MAIO DE 1972.
 
 Redistribui, com a respectiva ocupante, para o Quadro de Pessoal - Parte Permanente, do Ministério Público da União junto à Justiça do Trabalho, cargo do Ministério do Trabalho e Previdência Social, e dá outras providências.

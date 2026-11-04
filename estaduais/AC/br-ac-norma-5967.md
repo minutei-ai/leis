@@ -1,6 +1,10 @@
 > **LEI Nº 4.328, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Implementa a qualificação dos gestores estaduais, através de letramento para a conscientização na promoção da igualdade racial, de gênero e diversidade.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Implementa a qualificação dos gestores estaduais, através de letramento para a conscientização na promoção da igualdade racial, de gênero e diversidade.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

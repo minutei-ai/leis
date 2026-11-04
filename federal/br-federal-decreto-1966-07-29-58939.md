@@ -1,5 +1,3 @@
-###DEC-058939-0-000-29-07-1966@@@
-
 DECRETO Nº 58.939, DE 29 DE JULHO DE 1966.
 
 Autoriza Sandspar Minérios Ltda. a pesquisar quartzito no município de Nazaré Paulista, Estado de São Paulo

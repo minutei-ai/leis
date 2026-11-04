@@ -1,5 +1,3 @@
-###DEC-006421-0-000-02-04-2008@@@
-
 DECRETO Nº 6.421, DE 2 DE ABRIL DE 2008.
 
 Altera o Decreto no 5.274, de 18 de novembro de 2004, que institui o Programa de Qualificação de Docente e Ensino de Língua Portuguesa no Timor-Leste.
@@ -25,5 +23,3 @@ LUIZ INÁCIO LULA DA SILVA
 Celso Luiz Nunes Amorim
 
 Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 3.4.2008

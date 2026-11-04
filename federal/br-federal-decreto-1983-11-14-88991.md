@@ -1,5 +1,3 @@
-###DEC-088991-0-000-14-11-1983@@@
-
 Decreto nº 88.991, de 14 de novembro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado da Bahia-COELBA, no Estado da Bahia.

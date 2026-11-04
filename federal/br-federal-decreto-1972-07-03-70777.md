@@ -1,5 +1,3 @@
-###DEC-070777-0-000-03-07-1972@@@
-
 DECRETO Nº 70.777, DE 3 DE JULHO DE 1972.
 
 Transfere de sede o 4º Batalhão de Engenharia de Construção e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-062279-0-000-20-02-1968@@@
-
 DECRETO Nº 62.279, DE 20 DE FEVEREIRO DE 1968.
 
 Dispõe sôbre a reestruturação da Universidade Federal do Ceará.

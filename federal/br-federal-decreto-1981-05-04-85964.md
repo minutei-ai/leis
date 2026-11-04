@@ -1,5 +1,3 @@
-###DEC-085964-0-000-04-05-1981@@@
-
 DECRETO Nº 85.964, DE 04 de MAIO de 1981
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

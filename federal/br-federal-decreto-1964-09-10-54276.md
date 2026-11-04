@@ -1,5 +1,3 @@
-###DEC-054276-0-000-10-09-1964@@@
-
 DECRETO Nº 54.276, DE 10 DE SETEMBRO DE 1964.
 
 Transfere área que especifica, do Instituto de Pesquisas e Experimentação Agropecuária do Norte (IPEAN), do Ministério da Agricultura, para a Universidade do Pará de acôrdo com autorização contida no artigo 12 da Lei 4.283, de 18 de novembro de 1963.

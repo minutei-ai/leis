@@ -1,5 +1,3 @@
-###DEL-008122-0-000-22-10-1945@@@
-
 DECRETO-LEI N. 8.122 – DE 22 DE OUTUBRO DE 1945
 
 Dispõe sôbre o cancelamento de dívidas do impôsto predial e dá outras providências

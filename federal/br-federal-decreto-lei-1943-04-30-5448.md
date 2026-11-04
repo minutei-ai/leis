@@ -1,5 +1,3 @@
-###DEL-005448-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.448 – DE 30 DE ABRIL DE 1943
 
 Cria uma taxa especial para os requerimentos de retificação de nacionalidade em carteiras de identidade para estrangeiros

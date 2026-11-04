@@ -1,5 +1,3 @@
-###DEC-051684-0-000-30-01-1963@@@
-
 DECRETO Nº 51.684, DE 30 DE JANEIRO DE 1963.
 
 Cria o Grupo de Trabalho sôbre abastecimento e preços.

@@ -1,5 +1,3 @@
-###DEC-003361-0-000-10-02-2000@@@
-
 Decreto nº 3.361, de 10 de Fevereiro de 2000.
 
 Regulamenta dispositivos da Lei nº 5.859, de 11 de dezembro de 1972, que dispõe sobre a profissão de empregado doméstico, para facultar o acesso do empregado doméstico ao Fundo de Garantia do Tempo de Serviço - FGTS e ao Programa do Seguro-Desemprego.

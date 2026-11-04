@@ -1,5 +1,3 @@
-###DEC-047226-0-000-13-11-1959@@@
-
 Decreto nº 47.226, de 13 de novembro de 1959.
 
 Outorga à Lutcher S.A. - Celulose e Papel concessão para o aproveitamento progressivo de energia hidráulica para uso exclusivo, de desníveis existentes em um trecho do rio Jordão, no Distrito de Condoi, município de Guarapuava, Estado do Paraná.

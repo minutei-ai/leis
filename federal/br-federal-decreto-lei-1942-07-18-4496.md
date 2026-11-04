@@ -1,5 +1,3 @@
-###DEL-004496-0-000-18-07-1942@@@
-
 DECRETO-LEI N. 4.496 – DE 18 DE JULHO DE 1942
 
 Dispõe sobre a situação dos motoristas de veículos particulares, e dá outras providências

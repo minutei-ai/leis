@@ -1,5 +1,3 @@
-###DEC-088590-0-000-02-08-1983@@@
-
 Decreto nº 88.590, de 02 de agosto de 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Estado do Rio de Janeiro e de Guaratuba, Estado do Paraná.

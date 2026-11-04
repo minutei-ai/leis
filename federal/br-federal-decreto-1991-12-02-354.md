@@ -1,7 +1,3 @@
-1
-
-###DEC-000354-0-000-02-12-1991@@@
-
 DECRETO N° 354, DE 2 DE DEZEMBRO DE 1991
 
 Promulga a Convenção Destinada a Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre a Renda, entre o Governo da República Federativa do Brasil e o Governo da República da Coréia.
@@ -222,7 +218,8 @@ Este parágrafo não afeta a tributação da sociedade pelos lucros dos quais os
 
 5 – Quando um residente da Coréia tiver um estabelecimento permanente no Brasil, este estabelecimento permanente poderá aí estar sujeito a um imposto retido na fonte de acordo com a legislação brasileira. Todavia, esse imposto não poderá exceder 15% do montante bruto dos lucros desse estabelecimento permanente, determinado após o pagamento do imposto de sociedades referente a esses lucros.
 
-6 – Quando uma sociedade residente de um Estado Contratante receber lucros ou rendimentos provenientes do outro Estado Contratante, esse outro<br>
+6 – Quando uma sociedade residente de um Estado Contratante receber lucros ou rendimentos provenientes do outro Estado Contratante, esse outro
+
 Estado não poderá cobrar nenhum imposto sobre os dividendos pagos pela sociedade, exceto na medida em que esses dividendos forem pagos a um residente desse outro Estado ou na medida em que a participação geradora dos dividendos estiver efetivamente ligada a um estabelecimento permanente situado nesse outro Estado, nem sujeitar os lucros não distribuídos da sociedade a um imposto sobre lucros não distribuídos da sociedade a um imposto sobre lucros não distribuídos, mesmo se os dividendos pagos ou os lucros não distribuídos, mesmo se os dividendos pagos ou os lucros não distribuídos consistirem, total ou parcialmente, em lucros ou rendimentos proveniente desse outro Estado.
 
 # ARTIGO XI

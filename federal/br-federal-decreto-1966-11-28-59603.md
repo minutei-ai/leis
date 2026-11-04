@@ -1,5 +1,3 @@
-###DEC-059603-0-000-28-11-1966@@@
-
 DECRETO Nº 59.603, DE 28 DE NOVEMBRO DE 1966.
 
 Altera o Regulamento do Cadastro Geral de Contribuintes.

@@ -1,5 +1,3 @@
-###DEC-045265-0-000-16-01-1959@@@
-
 DECRETO Nº 45.265, DE 16 DE JANEIRO DE 1959.
 
 Disciplina as negociações para a obtenção de financiamentos no exterior e dá outras providências.

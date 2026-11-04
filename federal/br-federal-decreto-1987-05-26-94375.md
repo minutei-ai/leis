@@ -1,5 +1,3 @@
-###DEC-094375-0-000-26-05-1987@@@
-
 DECRETO Nº 94.375, DE 26 DE MAIO DE 1987.
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial nº 10 subscrito entre Brasil e Colômbia.

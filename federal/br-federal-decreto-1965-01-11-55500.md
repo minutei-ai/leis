@@ -1,5 +1,3 @@
-###DEC-055500-0-000-11-01-1965@@@
-
 DECRETO N° 55.500, de 11 de JANEIRO DE 1965.
 
 Autoriza a Sociedade Anônima Indústrias Votorantim, a lavrar calcário, no município de Rio Branco do Sul, Estado do Paraná.

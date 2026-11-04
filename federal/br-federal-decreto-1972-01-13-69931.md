@@ -1,5 +1,3 @@
-###DEC-069931-0-000-13-01-1972@@@
-
 Decreto Nº 69.931, DE 13 DE JANEIRO DE 1972.
 
 Autoriza o funcionamento dos cursos de Administração de Emprêsas, Ciências Contábeis e Licenciatura de Curta Duração em Ciências, da Fundação Universidade Regional de Blumenau, SC.

@@ -1,5 +1,3 @@
-###DEC-095926-0-000-15-04-1988@@@
-
 DECRETO Nº 95.926, DE 15 DE ABRIL DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA PEDRAS GRANDES”, classificado como “latifúndio por exploração”, situado no Município de Poço Redondo, Estado de Sergipe, compreendido na zona prioritária para fins de reforma agrária, fixada pelo Decreto nº 92.687, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077416-0-000-12-04-1976@@@
-
 DECRETO Nº 77.416 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Zootecnia, da Universidade Federal Rural de Pernambuco, com sede na cidade do Recife, Estado de Pernambuco.

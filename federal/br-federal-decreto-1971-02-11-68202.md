@@ -1,5 +1,3 @@
-###DEC-068202-0-000-11-02-1971@@@
-
 Decreto nº 68.202, de 11 de fevereiro de 1971.
 
 Declara de utilidade pública, para fins de constituição e servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a sede do município de Israelândia até a sede do município de Fazenda Nova, ambos situados no Estado de Goiás.

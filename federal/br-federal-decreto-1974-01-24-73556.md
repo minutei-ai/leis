@@ -1,5 +1,3 @@
-###DEC-073556-0-000-24-01-1974@@@
-
 DECRETO Nº 73.556, DE 24 DE JANEIRO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona e a promover sua reversão à Prefeitura Municipal de São Francisco, Estado de Minas Gerais.

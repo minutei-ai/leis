@@ -1,5 +1,3 @@
-###DEC-047156-0-000-29-10-1959@@@
-
 DECRETO Nº 47.156, DE 29 DE outubro DE 1959.
 
 Autoriza a Companhia Industrial e Comercial de Minérios Cicomine a lavrar calcário e dolomita, no município de Ouro Prêto, Estado de Minas Gerais.

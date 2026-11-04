@@ -1,5 +1,3 @@
-###DEC-046326-0-000-30-06-1959@@@
-
 DECRETO Nº 46.326, DE 30 DE JUNHO DE 1959.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir uma linha de transmissão.

@@ -1,5 +1,3 @@
-###DEC-086354-0-000-09-09-1981@@@
-
 Decreto nº 86.354, de 09 de setembro de 1981.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Venezuela para Evitar a Dupla Tributação em Matéria de Transporte Aéreo.

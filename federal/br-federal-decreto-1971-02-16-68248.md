@@ -1,5 +1,3 @@
-###DEC-068248-0-000-16-02-1971@@@
-
 DECRETO Nº 68.248, DE 16 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel destinado à construção de uma subestação no município de Sabará, Estado de Minas Gerais.

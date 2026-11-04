@@ -1,5 +1,3 @@
-###DEC-046936-0-000-30-09-1959@@@
-
 DECRETO Nº 46.936, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de São Pedro, no Estado de São Paulo.

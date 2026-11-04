@@ -1,5 +1,3 @@
-###DEC-091117-0-000-13-03-1985@@@
-
 Decreto nº 91.117, de 13 de março de 1985
 
 Declara de Interesse social, para fins de desapropriação, os lmóveis rurais compostos pelos lotes nºs 90, 91, 92, 93, 98, 99, 100, 101, 108, 109, 116 e 117, da área denominada "Colônia Verde Brasileira", situados nos Municípios de Santana do Araguaia e São Félix do Xingu, Estado do Pará, compreendidos na zona prioritária de reforma agrária de que trata o Decreto 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de agosto de 1980 e 87.095, de 16 de abril de 1982.

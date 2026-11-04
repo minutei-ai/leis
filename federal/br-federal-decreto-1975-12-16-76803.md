@@ -1,5 +1,3 @@
-###DEC-076803-0-000-16-12-1975@@@
-
 DECRETO Nº 76.803, DE 16 DE DEZEMBRO DE 1975.
 
 Autoriza a criação da Nuclebrás Engenharia S.A. - NUCLEN, sociedades por ações, subsidiária da Empresas Nucleares Brasileiras S.A. - NUCLEBRÁS.

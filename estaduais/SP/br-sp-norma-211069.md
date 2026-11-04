@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211069)<br>
-
 # DECRETO N° 69.629, DE 16 DE JUNHO DE 2025
 
 ### _Revoga o Decreto n° 68.718, de 25 de julho de 2024._

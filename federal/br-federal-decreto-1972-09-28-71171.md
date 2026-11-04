@@ -1,5 +1,3 @@
-###DEC-071171-0-000-28-09-1972@@@
-
 DECRETO Nº 71.171, DE 28 DE SETEMBRO DE 1972.
 
 Retifica o artigo 1º do Decreto número 54.522, de 21 de outubro de 1964.

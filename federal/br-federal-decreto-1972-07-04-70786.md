@@ -1,5 +1,3 @@
-###DEC-070786-0-000-04-07-1972@@@
-
 DECRETO Nº 70.786, DE 4 DE JULHO DE 1972.
 
 Dispõe sobre o aproveitamento de servidores no Departamento de Polícia Federal, e dá outras providências.

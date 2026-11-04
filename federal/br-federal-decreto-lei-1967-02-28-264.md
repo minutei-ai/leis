@@ -1,5 +1,3 @@
-###DEL-000264-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 264, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a Tarifa das Alfândegas e dá outras providências sobre comércio exterior.
@@ -10,7 +8,101 @@ decreta:
 
 Art. 1º Na Tarifa das Alfândegas a vigorar a partir de 1º de março de 1967, as alíquotas publicadas em anexo ao Decreto-lei nº 63, de 28 de novembro de 1966 inclusive com as alterações aprovadas pelo Conselho de Política Aduaneira nos têrmos do artigo 2º daquele Decreto-lei, sofrerão as seguintes modificações:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>120%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>80%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>80%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>65%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>70%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>55%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>60%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>40%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>40%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>32%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>35%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>28%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15%</span></p></td></tr><tr><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15%</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>para</span></p></td><td style="width:95.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12%</span></p></td></tr></tbody></table>
+de
+
+120%
+
+para
+
+100%
+
+de
+
+100%
+
+para
+
+80%
+
+de
+
+80%
+
+para
+
+65%
+
+de
+
+70%
+
+para
+
+55%
+
+de
+
+60%
+
+para
+
+50%
+
+de
+
+50%
+
+para
+
+40%
+
+de
+
+40%
+
+para
+
+32%
+
+de
+
+35%
+
+para
+
+28%
+
+de
+
+30%
+
+para
+
+25%
+
+de
+
+25%
+
+para
+
+20%
+
+de
+
+20%
+
+para
+
+15%
+
+de
+
+15%
+
+para
+
+12%
 
 § 1º Permanecem inalteradas as alíquotas de 10% ou inferiores.
 

@@ -1,5 +1,3 @@
-###DEC-087981-0-000-23-12-1982@@@
-
 (\*) DECRETO Nº 87.981, DE 23 DE DEZEMBRO DE 1982.
 
 Aprova o Regulamento do Imposto sobre Produtos Industrializados.

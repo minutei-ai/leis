@@ -1,5 +1,3 @@
-###DEC-003829-0-000-31-05-2001@@@
-
 DECRETO Nº 3.829, DE 31 DE MAIO DE 2001
 
 Dispõe sobre a execução do Trigésimo Protocolo Adicional ao Acordo de Complementação Econômica n° 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 29 de dezembro de 2000.

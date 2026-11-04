@@ -1,5 +1,3 @@
-###MPV-001919-0-000-31-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.919, DE 31 DE AGOSTO DE 1999.
 
 Autoriza o poder Executivo a abrir ao Orçamento da seguridade social da União, em favor do Ministério da Integração Nacional, crédito extraordinário no valor de R$ 110.000.000,00, para os fins que especifica.

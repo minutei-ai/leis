@@ -1,5 +1,3 @@
-###DEC-094994-0-000-05-10-1987@@@
-
 DECRETO Nº 94.994, DE 5 DE OUTUBRO DE 1987
 
 Autoriza a transferência direta da concessão outorgada à Rádio Primavera de Itapuranga Ltda. para a Fundação Cristã Educativa.

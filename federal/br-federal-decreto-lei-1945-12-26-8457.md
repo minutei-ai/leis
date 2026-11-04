@@ -1,5 +1,3 @@
-###DEL-008457-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.457 – DE 26 DE DEZEMBRO DE 1945
 
 Dá nova redação ao art. 5º do Decreto nº 19.851, de 11 de abril de 1931.

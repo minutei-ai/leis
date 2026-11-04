@@ -1,7 +1,3 @@
-1
-
-###DEC-098940-0-000-12-02-1990@@@
-
 DECRETO Nº 98.940, DE 12 DE FEVEREIRO DE 1990
 
 Autoriza o aumento do capital social da Companhia Siderúrgica da Amazônia SIDERAMA.

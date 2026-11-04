@@ -1,5 +1,3 @@
-###DEC-073969-0-000-19-04-1974@@@
-
 Decreto nº 73.969, de 19 de abril de 1974
 
 Concede autorização à empresa Zapata North Sea, Inc., para executar trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

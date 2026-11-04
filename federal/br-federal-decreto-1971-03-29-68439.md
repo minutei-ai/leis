@@ -1,5 +1,3 @@
-###DEC-068439-0-000-29-03-1971@@@
-
 DECRETO Nº 68.439, DE 29 DE MARÇO DE 1971.
 
 Retifica o Decreto nº 51.359, de 24 de novembro de 1961, que aprovou o enquadramento definitivo do pessoal da Universidade Federal de Minas Gerais, e dá outras providências.

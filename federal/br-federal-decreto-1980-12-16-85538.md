@@ -1,5 +1,3 @@
-###DEC-085538-0-000-16-12-1980@@@
-
 DECRETO Nº 85.538, DE 16 DE DEZEMBRO DE 1980.
 
 Cria a 17a. Brigada de Infantaria de Selva e seu respectivo Comando no Ministério de Exército e dá outras providências.

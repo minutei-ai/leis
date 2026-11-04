@@ -1,5 +1,3 @@
-###DEC-068639-0-000-20-05-1971@@@
-
 DECRETO Nº 68.639 - DE 20 DE MAIO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Moema, S.P.

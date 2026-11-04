@@ -1,5 +1,3 @@
-###DEC-006045-0-000-21-02-2007@@@
-
 DECRETO Nº 6.045, DE 21 DE FEVEREIRO DE 2007.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.737, de 23 de dezembro de 2006, do Conselho de Segurança das Nações Unidas, a  qual, entre outras disposições, proíbe a transferência de quaisquer itens, materiais, equipamentos, bens e tecnologia que possam contribuir para atividades levadas a cabo pela República Islâmica do Irã relacionadas a enriquecimento, reprocessamento e a projetos de água pesada, bem como para o desenvolvimento de vetores de armas nucleares, e estabelece o congelamento de fundos, ativos financeiros e recursos econômicos de indivíduos e entidades.
@@ -18,11 +16,7 @@ Brasília, 21 de fevereiro  de 2007; 186o da Independência e 119o da Repúblic
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 22.2.2007.
-
-O Conselho de Segurança,
+Samuel Pinheiro Guimarães NetoO Conselho de Segurança,
 
 Recordando a declaração presidencial S/PRST/2006/15, de 29 de Março de 2006, e sua Resolução 1696 (2006) de 31 de julho de 2006,
 

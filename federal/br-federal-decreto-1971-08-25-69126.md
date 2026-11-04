@@ -1,5 +1,3 @@
-###DEC-069126-0-000-25-08-1971@@@
-
 DECRETO Nº 69.126, DE 25 DE AGÔSTO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas, Contábeis e Administrativas "Professor Mário Henrique Simonsen", Rio de Janeiro - GB, com os Cursos de Ciências Contábeis e Administrativas.

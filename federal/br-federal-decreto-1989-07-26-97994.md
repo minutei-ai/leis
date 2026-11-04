@@ -1,7 +1,3 @@
-1
-
-###DEC-097994-0-000-26-07-1989@@@
-
 DECRETO N° 97.994, DE 26 DE JULHO DE 1989
 
 Declara de utilidade pública as instituições que menciona.

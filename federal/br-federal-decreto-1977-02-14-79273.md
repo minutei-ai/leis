@@ -1,5 +1,3 @@
-###DEC-079273-0-000-14-02-1977@@@
-
 DECRETO Nº 79 273, DE 14 DE FEVEREIRO DE 1977.
 
 Dispõe sobre as tarifas dos transportes aéreos domésticos.

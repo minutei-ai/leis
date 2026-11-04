@@ -1,5 +1,3 @@
-###DEC-071516-0-000-11-12-1972@@@
-
 DECRETO Nº 71.516 - DE 11 DE DEZEMBRO DE 1972
 
 Autoriza o funcionamento da Faculdade Paulista de Serviço Social, São Caetano do Sul.

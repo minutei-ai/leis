@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/12744)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1994/compilacao-lei-8893-09.09.1994.html)
 
 # LEI N° 8.893, DE 09 DE SETEMBRO DE 1994

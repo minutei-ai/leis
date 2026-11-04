@@ -1,5 +1,3 @@
-###DEC-055569-0-000-18-01-1965@@@
-
 decreto nº 55.569, de 18 de janeiro de 1965.
 
 Concede à sociedade L. Figueiredo Navegação S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

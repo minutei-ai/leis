@@ -1,5 +1,3 @@
-###DEL-001427-0-000-02-12-1975@@@
-
 # DECRETO-LEI Nº 1.427, DE 2 DE DEZEMBRO DE 1975
 
 Estabelece condição para a emissão de guia de importação, cria o registro de importador e dá outras providências.

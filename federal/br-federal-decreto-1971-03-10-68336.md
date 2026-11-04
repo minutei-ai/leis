@@ -1,5 +1,3 @@
-###DEC-068336-0-000-10-03-1971@@@
-
 DECRETO Nº 68.336, DE 10 DE MARÇO DE 1971.
 
 Declara a condição de Militar ao Corpo de Bombeiros do Distrito Federal e dá outras providências.

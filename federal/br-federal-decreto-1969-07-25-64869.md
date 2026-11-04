@@ -1,5 +1,3 @@
-###DEC-064869-0-000-25-07-1969@@@
-
 DECRETO Nº 64.869 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 37.701 de 5 de agôsto de 1955.

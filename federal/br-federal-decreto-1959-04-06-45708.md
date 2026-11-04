@@ -1,5 +1,3 @@
-###DEC-045708-0-000-06-04-1959@@@
-
 DECRETO Nº 45.708, DE 6 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Antonio Pedro de Amorim a pesquisar calcário no município de Pratápolis, Estado de Minas Gerais.

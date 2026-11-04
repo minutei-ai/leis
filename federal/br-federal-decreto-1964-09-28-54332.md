@@ -1,5 +1,3 @@
-###DEC-054332-0-000-28-09-1964@@@
-
 DECRETO Nº 54.332, DE 28 DE SETEMBRO DE 1964.
 
 Autoriza a Emprêsa Sul Brasileira de Eletricidade S.A. a construir linha de transmissão.

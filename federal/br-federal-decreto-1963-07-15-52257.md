@@ -1,5 +1,3 @@
-###DEC-052257-0-000-15-07-1963@@@
-
 DECRETO Nº 52.257, DE 15 DE JULHO DE 1963.
 
 Dispõe sobre o horário de trabalho na Fábrica do Galeão, nos Parques e Núcleos de Parque do Ministério da Aeronáutica.

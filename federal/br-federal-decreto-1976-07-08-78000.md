@@ -1,5 +1,3 @@
-###DEC-078000-0-000-08-07-1976@@@
-
 DECRETO Nº 78.000, DE 8 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Processamento de Dados da Universidade de Brasília, com sede na cidade de Brasília, Distrito Federal.

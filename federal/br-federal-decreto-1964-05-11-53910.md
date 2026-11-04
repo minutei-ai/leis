@@ -1,5 +1,3 @@
-###DEC-053910-0-000-11-05-1964@@@
-
 DECRETO Nº 53.910, DE 11 DE MAIO DE 1964.
 
 Cria o Consulado honorário do Brasil em Saint-Louis, Senegal.

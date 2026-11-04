@@ -1,5 +1,3 @@
-###MPV-000475-0-000-23-12-2009@@@
-
 MEDIDA PROVISÓRIA Nº 475, DE 23 DE DEZEMBRO DE 2009.
 
 Dispõe sobre o reajuste dos benefícios mantidos pela Previdência Social em 2010 e 2011.
@@ -38,4 +36,20 @@ FATOR DE REAJUSTE DOS BENEFÍCIOS CONCEDIOS DE
 
 ACORDO COM AS RESPECTIVAS DATAS DE INÍCIO
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:291.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DATA DE INICIO DO BENEFICIO</span></p></td><td style="width:148.2pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">REAJUSTE (%)</span></p></td></tr><tr><td style="width:291.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até fevereiro de 2009 em março de 2009 em abril de 2009 em maio de 2009 em junho de 2009 em julho de 2009 em agosto de 2009 em setembro de 2009 em outubro de 2009 em novembro de 2009 em dezembro de 2009</span></p></td><td style="width:148.2pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6,14 5,81 5,60 5,02 4,40 3,96 3,72 3,64 3,47 3,23 2,85</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:291.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top">
+
+DATA DE INICIO DO BENEFICIO
+
+</td><td style="width:148.2pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top">
+
+REAJUSTE (%)
+
+</td></tr><tr><td style="width:291.3pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top">
+
+Até fevereiro de 2009 em março de 2009 em abril de 2009 em maio de 2009 em junho de 2009 em julho de 2009 em agosto de 2009 em setembro de 2009 em outubro de 2009 em novembro de 2009 em dezembro de 2009
+
+</td><td style="width:148.2pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top">
+
+6,14 5,81 5,60 5,02 4,40 3,96 3,72 3,64 3,47 3,23 2,85
+
+</td></tr></tbody></table>

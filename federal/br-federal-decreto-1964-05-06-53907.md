@@ -1,5 +1,3 @@
-###DEC-053907-0-000-06-05-1964@@@
-
 DECRETO Nº 53.907, DE 6 DE MAIO DE 1964.
 
 Dispõe sôbre o horário de trabalho no Hospital de Clínicas, da Universidade do Paraná, do Ministério da Educação e Cultura.

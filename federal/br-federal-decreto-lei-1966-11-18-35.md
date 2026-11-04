@@ -1,5 +1,3 @@
-###DEL-000035-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 35, DE 18 DE NOVEMBRO DE 1966
 
 Abre crédito especial para atender aos encargos da União de complementação do preço da cana e do açúcar aos produtores do Nordeste, para atender ao preço do álcool destinado à COPERBO, e dá outras providências.

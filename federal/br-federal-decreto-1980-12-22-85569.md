@@ -1,5 +1,3 @@
-###DEC-085569-0-000-22-12-1980@@@
-
 Decreto nº 85.569, de 22 de dezembro de 1980
 
 Regulamenta o pagamento das Indenizações de Habilitação Militar, de Representação e de Compensação Orgânica.

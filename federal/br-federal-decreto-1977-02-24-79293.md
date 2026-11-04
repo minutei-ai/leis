@@ -1,5 +1,3 @@
-###DEC-079293-0-000-24-02-1977@@@
-
 Decreto nº 79.293, de 24 de fevereiro de 1977.
 
 Renova por 10 (dez) anos a concessão outorgada ao Governo do Estado da Paraíba para, através da Rádio Tabajara, executar serviço de radiodifusão sonora em onda tropical, na Cidade de João Pessoa  Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-051269-0-000-25-08-1961@@@
-
 DECRETO Nº 51.269, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza a Companhia Elétrica Caiuá a construir uma linha de transmissão.

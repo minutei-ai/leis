@@ -1,5 +1,3 @@
-###DEC-095293-0-000-24-11-1987@@@
-
 DECRETO Nº 95.293, DE 24 DE NOVEMBRO DE 1987
 
 Outorga concessão à RÁDIO SAN THIAGO DANTAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Chopinzinho, Estado do Paraná.

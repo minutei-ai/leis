@@ -1,5 +1,3 @@
-###DEC-051306-0-000-25-08-1961@@@
-
 decreto nº 51.306, de 25 de agÔsto de 1961.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir uma linha transmissão.

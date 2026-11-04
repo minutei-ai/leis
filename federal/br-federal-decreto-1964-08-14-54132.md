@@ -1,5 +1,3 @@
-###DEC-054132-0-000-14-08-1964@@@
-
 DECRETO Nº 54.132, DE 14 de AGÔSTO 1964.
 
 Dá nova redação ao art. 2º do Decreto nº 54.055, de 27 de julho de 1964.

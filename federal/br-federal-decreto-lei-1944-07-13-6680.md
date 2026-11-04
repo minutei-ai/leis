@@ -1,5 +1,3 @@
-###DEL-006680-0-000-13-07-1944@@@
-
 DECRETO-LEI N. 6.680 – DE 13 DE JULHO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de Cr$ 23.000,00, à verba que especifica

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210565)<br>
-
 # DECRETO N° 69.336, DE 30 DE JANEIRO DE 2025
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante cessão de uso, a título oneroso e por prazo determinado, área do complexo aeroportuário Campo de Marte, de propriedade da União, localizado no Município de São Paulo._

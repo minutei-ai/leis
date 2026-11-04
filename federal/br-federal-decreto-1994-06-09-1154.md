@@ -1,7 +1,3 @@
-1
-
-###DEC-001154-0-000-09-06-1994@@@
-
 DECRETO Nº 1.154, DE 9 DE JUNHO DE 1994
 
 Promulga o Protocolo que Mantém em Vigor o Acordo Relativo ao Comércio Internacional de Têxteis (Acordo Multifibras), concluído em Genebra, em 9.12.1993).

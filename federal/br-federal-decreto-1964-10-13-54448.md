@@ -1,5 +1,3 @@
-###DEC-054448-0-000-13-10-1964@@@
-
 DECRETO Nº 54.448, DE 13 DE OUTUBRO DE 1964.
 
 Autoriza a Mineração Urandi S. A., a lavrar minério de manganês no município de Jacaraci, Estado da Bahia.

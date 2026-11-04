@@ -1,5 +1,3 @@
-###DEC-062090-0-000-09-01-1968@@@
-
 Decreto nº 62.090, de 9 de janeiro de 1968.
 
 Autoriza o cidadão brasileiro Sinval Duarte Pereira a lavrar diatomita, no município de Macaíba, Estado do Rio Grande do Norte.

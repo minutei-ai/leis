@@ -1,18 +1,16 @@
-###DEC-062736-0-000-20-05-1968@@@
+**DECRETO Nº 62.736, DE 20 DE MAIO DE 1968.**
 
-<strong>DECRETO Nº 62.736, DE 20 DE MAIO DE 1968.</strong>
+***Altera o Regulamento da Diretoria Administrativa, da Diretoria-Geral de Saúde do Exército aprovado pelo Decreto nº 45.405, de 12 de fevereiro de 1959.***
 
-<em><strong>Altera o Regulamento da Diretoria Administrativa, da Diretoria-Geral de Saúde do Exército aprovado pelo Decreto nº 45.405, de 12 de fevereiro de 1959.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso das atribuições que lhe confere o artigo 83, item II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso das atribuições que lhe confere o artigo 83, item II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam alterados os Capítulos VII e VIII do Regulamento da Diretoria Administrativa, da Diretoria-Geral de Saúde do Exército, aprovado pelo Decreto nº 45.405, de 12 de fevereiro de 1959, que passam a ter a seguinte redação:
 
-<strong>Art</strong>. 1º Ficam alterados os Capítulos VII e VIII do Regulamento da Diretoria Administrativa, da Diretoria-Geral de Saúde do Exército, aprovado pelo Decreto nº 45.405, de 12 de fevereiro de 1959, que passam a ter a seguinte redação:
+**“CAPÍTULO VII**
 
-<strong>“CAPÍTULO VII</strong>
-
-<em>Do Pessoal Civil</em>
+*Do Pessoal Civil*
 
 Art. 15. O pessoal civil da Diretoria Administrativa é o constante da respectiva lotação, aprovada por decreto.
 
@@ -28,20 +26,20 @@ Receber, conferir e arquivar tôda a documentação relativa a mapas oriundos da
 
 Receber, conferir e fichar tôda a documentação entrada e saída na Diretoria Administrativa e respectivas Divisões. Escriturar e manter em dia o fichário sôbre tramitação de documentos. Distribuir a documentação recebida, assim como providenciar a expedição de documentos oriundos da Diretoria e suas dependências, bem como a restituição de documentos.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
 Art. 17. As substituições temporárias na DA obedecerão ao princípio hierárquico da precedência militar, respeitadas, nas substituições normais, as condições privativas de Quadro e Serviço; nas substituições eventuais, o oficial mais antigo responderá pelo expediente.
 
 Parágrafo único. Igual critério será adotado em relação ao pessoal civil, desde que obedecidas as prescrições dos artigos 72 e 73 da Lei nº 1.711, de 28 de outubro de 1952.”
 
-<strong>Art</strong>. 2º Os artigos 16 e 17 do Regulamento aprovado pelo Decreto número 45.405, de 12 de fevereiro de 1959, passam a constituir os artigos 18 e 19, com a mesma redação, integrando o Capítulo IX – Disposições Gerais.
+**Art**. 2º Os artigos 16 e 17 do Regulamento aprovado pelo Decreto número 45.405, de 12 de fevereiro de 1959, passam a constituir os artigos 18 e 19, com a mesma redação, integrando o Capítulo IX – Disposições Gerais.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Brasília, 20 de maio de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Aurélio de Lyra Tavares

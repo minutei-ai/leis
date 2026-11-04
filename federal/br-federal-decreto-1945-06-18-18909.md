@@ -1,14 +1,12 @@
-###DEC-018909-0-000-18-06-1945@@@
+**DECRETO N° 18.909, DE 18 DE JUNHO DE1945.**
 
-<strong>DECRETO N° 18.909, DE 18 DE JUNHO DE1945.</strong>
+***Altera a lotação do Ministério da Fazenda.***
 
-<em><strong>Altera a lotação do Ministério da Fazenda.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1° Ficam introduzidas as seguintes alterações na lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Fazenda:
+**Art**. 1° Ficam introduzidas as seguintes alterações na lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Fazenda:
 
 I - eleva-se para 596 o número de cargos da lotação permanente da carreira de Oficial Administrativo;
 
@@ -32,10 +30,10 @@ Diretoria da Despesa Pública do Tesouro Nacional...............................
 
 V - passa a lotação numérica do Ministério a figurar com um total de 12.066 cargos, sendo 9.111 na lotação permanente e 2.955 na lotação suplementar.
 
-<strong>Art</strong>. 2° Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrario.
+**Art**. 2° Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrario.
 
 Rio de janeiro, 18 de junho de 1945; 124° da Independência e 57° da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 A. de Sousa Costa

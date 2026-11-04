@@ -1,14 +1,12 @@
-###DEC-021695-0-000-21-08-1946@@@
+**DECRETO Nº 21.695, DE 21 DE AGÔSTO DE 1946.**
 
-<strong>DECRETO Nº 21.695, DE 21 DE AGÔSTO DE 1946.</strong>
+***Altera a redação dos artigos 46 e 61 do Regulamento da Escola de Estado Maior, aprovado pelo Decreto número 10.790, de 9 de Novembro de 1942 e modificado pelo Decreto número 12.945, de 19 de julho de 1943.***
 
-<em><strong>Altera a redação dos artigos 46 e 61 do Regulamento da Escola de Estado Maior, aprovado pelo Decreto número 10.790, de 9 de Novembro de 1942 e modificado pelo Decreto número 12.945, de 19 de julho de 1943.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 46 e 61 do Regulamento para a Escola de Estado-Maior, baixado com o Decreto número 10.790, de 9 de Novembro de 1942 e modificado pelo Decreto número 12.945, de 19 de Julho de 1943, passam a ter a seguinte redação:
+**Art**. 1º Os artigos 46 e 61 do Regulamento para a Escola de Estado-Maior, baixado com o Decreto número 10.790, de 9 de Novembro de 1942 e modificado pelo Decreto número 12.945, de 19 de Julho de 1943, passam a ter a seguinte redação:
 
 “Art. 46 O Ministro da Guerra, por proposta do Chefe do Estado-Maior, fixará até 30 de Outubro de cada ano o número de oficiais que poderão matricular-se no curso de Estado-Maior no ano seguinte:
 
@@ -26,10 +24,10 @@ Art. 61. Terminadas as provas do concurso, voltam os candidatos aos seus lugares
 
 § 6º Os candidatos que não lograrem classificação suficiente (artigo 60), poderão requerer inscrição uma segunda vez, se ainda satisfizerem as demais condições exigidas neste Regulamento.
 
-<strong>Art</strong>. 2º O presente decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 21 de Agôsto de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 P. Góes Monteiro

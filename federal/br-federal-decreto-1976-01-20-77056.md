@@ -1,5 +1,3 @@
-###DEC-077056-0-000-20-01-1976@@@
-
 DECRETO Nº 77.056, DE 20 DE JANEIRO DE 1976.
 
 Declara a caducidade da concessão outorgada a Lourival Pinheiro Ferreira, para lavrar ouro no Município de Carutapera, Estado do Maranhão.

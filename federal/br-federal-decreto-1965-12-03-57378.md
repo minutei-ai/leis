@@ -1,5 +1,3 @@
-###DEC-057378-0-000-03-12-1965@@@
-
 decreto nº 57.378, de 3 de dezembro de 1965.
 
 Outorga concessão à Emissora Rural de Rio do Sul Ltda., sediada na cidade do Rio do Sul. Estado de Santa Catarina, para instalar uma emissora de radiodifusão sonora.
@@ -19,8 +17,6 @@ Brasília, 3 de Dezembro de 1965; 144º da Independência e 77º da república.
 H. Castello Branco
 
 Daniel Faraco
-
-###DEC-057378-0-000-03-12-1965@@@RET01+++
 
 DECRETO Nº 57.378, DE 3 DE DEZEMBRO DE 1965.
 

@@ -1,19 +1,17 @@
-###DEC-023302-0-000-08-07-1947@@@
+**DECRETO Nº 23.302, DE 08**  **de julho de 1947.**
 
-<strong>DECRETO Nº 23.302, DE 08</strong>  <strong>de julho de 1947.</strong>
+***Extingue cargos excedentes***
 
-<em><strong>Extingue cargos excedentes</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo. 87, item I, da  Constituição e nos têrmos do art. 1.º, alínea n do Decreto-lei n.º 3.195, de 14 de abril de 1941,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo. 87, item I, da  Constituição e nos têrmos do art. 1.º, alínea n do Decreto-lei n.º 3.195, de 14 de abril de 1941,
+**Decreta:**
 
-<strong>Decreta:</strong>
+**Art**. 1**°**. Ficam extintos dois (2) cargos da classe E da carreira de Calculista do Quadro Permanente do Ministério da Agricultura, vago em virtude da promoção de Roberto da Fonseca e Silva e da exoneração de Armando Pereira Leite, devendo a dotação correspondente ser levada a crédito da conta corrente do mesmo Quadro e Ministério.
 
-<strong>Art</strong>. 1<strong>°</strong>. Ficam extintos dois (2) cargos da classe E da carreira de Calculista do Quadro Permanente do Ministério da Agricultura, vago em virtude da promoção de Roberto da Fonseca e Silva e da exoneração de Armando Pereira Leite, devendo a dotação correspondente ser levada a crédito da conta corrente do mesmo Quadro e Ministério.
-
-<strong>Art</strong>. 2.º Revogam-se as disposições em contrário.
+**Art**. 2.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 08 de julho de 1947, 126° de Independência e 59° da República.
 
-<strong>Eurico G. Dutra</strong>
+**Eurico G. Dutra**
 
 Daniel de Carvalho

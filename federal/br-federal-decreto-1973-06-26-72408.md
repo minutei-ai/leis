@@ -1,5 +1,3 @@
-###DEC-072408-0-000-26-06-1973@@@
-
 DECRETO Nº 72.408, DE 26 DE JUNHO DE 1973.
 
 Revoga disposições sobre concessão de licenças a militares do Exército.

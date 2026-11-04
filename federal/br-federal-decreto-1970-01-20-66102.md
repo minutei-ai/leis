@@ -1,5 +1,3 @@
-###DEC-066102-0-000-20-01-1970@@@
-
 DECRETO Nº 66.102 - DE 20 DE JANEIRO DE 1970
 
 Cria o Centro de Instrução de Helicópteros e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097695-0-000-26-04-1989@@@
-
 DECRETO N° 97.695, DE 26 DE ABRIL DE 1989
 
 Altera o Decreto n° 90. 754, de 27 de dezembro de 1984, que dispõe sobre a organização e o funcionamento do Conselho Nacional de Informática e Automação -  CONIN, e dá outras providências.

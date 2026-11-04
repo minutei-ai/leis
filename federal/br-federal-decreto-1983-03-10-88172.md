@@ -1,5 +1,3 @@
-###DEC-088172-0-000-10-03-1983@@@
-
 # Decreto nº 88.172, de 10 de março de 1983
 
 Autoriza a alienação de bens imóveis pertencentes ao patrimônio da Universidade Federal de Santa Maria.

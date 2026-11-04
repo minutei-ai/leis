@@ -1,5 +1,3 @@
-###DEC-059513-0-000-09-11-1966@@@
-
 DECRETO Nº 59.513, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza a Icominas S.A Emprêsa de Mineração a lavrar minérios de ferro e de manganês no município de Santa Barbara, Estado de Minas Gerais.

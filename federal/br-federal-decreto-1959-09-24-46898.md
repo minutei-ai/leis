@@ -1,5 +1,3 @@
-###DEC-046898-0-000-24-09-1959@@@
-
 DECRETO Nº 46.898, DE 24 DE SETEMBRO DE 1959.
 
 Outorga concessão à Rádio Clube de Pernambuco Sociedade Anônima para estabelecer uma estação de radiotelevisão na cidade de Recife, Estado de Pernambuco.

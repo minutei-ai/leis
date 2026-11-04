@@ -86,8 +86,6 @@ c) art. 244-A.
 
 Goiânia, 30 de setembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

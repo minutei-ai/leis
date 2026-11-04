@@ -1,5 +1,3 @@
-###DEC-074149-0-000-06-06-1974@@@
-
 DECRETO Nº 74.149, DE 6 DE JUNHO DE 1974.
 
 Dispõe sobre a suspensão do expediente nos órgãos da administração federal direta e indireta pela ocorrência de feriado religioso.

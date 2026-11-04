@@ -1,5 +1,3 @@
-###DEC-077401-0-000-07-04-1976@@@
-
 DECRETO Nº 77.401 - DE 7 DE ABRIL DE 1976
 
 Concede autorização à Cia. Sengés de Papel e Celulose, sediada em São Paulo, para funcionar aos domingos e feriados civis e religiosos, nos estabelecimentos industriais que menciona.

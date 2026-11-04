@@ -1,5 +1,3 @@
-###LCP-000002-0-000-29-11-1967@@@
-
 # LEI Complementar nº 2, de 29 de novembro de 1967
 
 Dispõe sobre a execução do disposto no art. 16, § 2º, da Constituição federal, relativamente à remuneração dos Vereadores.

@@ -1,5 +1,3 @@
-###DEC-047996-0-000-04-04-1960@@@
-
 DECRETO Nº 47.996, DE 04 DE ABRIL DE 1960.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$20.000.000,00, para o fim que menciona.

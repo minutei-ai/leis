@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212413)<br>
-
 # DECRETO N° 70.483, DE 25 DE MARÇO DE 2026
 
 ### _Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal n° 11.738, de 16 de julho de 2008._

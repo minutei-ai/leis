@@ -1,7 +1,3 @@
-1
-
-###DEC-097810-0-000-06-06-1989@@@
-
 DECRETO N° 97.810, DE 06 DE JUNHO DE 1989
 
 Autoriza a Escola Técnica Federal de São Paulo a organizar e manter cursos de nível superior de ensino.

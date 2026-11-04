@@ -1,7 +1,3 @@
-1
-
-###MPV-001398-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.398, DE 11 DE ABRIL DE 1996.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

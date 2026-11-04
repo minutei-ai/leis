@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1b4729f7-113c-4a9f-be11-4cfc74404591/texto#nowhere)
 
-###DEL-001297-0-000-26-12-1973@@@
-
 # DECRETO-LEI Nº 1.297, DE 26 DE DEZEMbRO DE 1973
 
 Acresce uma alínea “j” ao artigo 13, item II, da Lei nº 4.452, de 5 de novembro de 1964.

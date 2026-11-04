@@ -1,5 +1,3 @@
-###DEC-079363-0-000-09-03-1977@@@
-
 DECRETO Nº 79.363, DE 9 dE MARÇO DE 1977.
 
 Concede à Cia. Brasileira de Alumínio o direito de lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-062288-0-000-21-02-1968@@@
-
 decreto nº 62.288, de 21 de fevereiro de 1968.
 
 Concede à sociedade Bates do Brasil S.A. autorização para continuar a funcionar na República do Brasil.

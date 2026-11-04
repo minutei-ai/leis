@@ -1,5 +1,3 @@
-###DEC-056121-0-000-27-04-1965@@@
-
 DECRETO Nº 56.121, DE 27 DE ABRIL DE 1965.
 
 Concede à F. Beneduce S. A. - Mineração e Comércio, autorização para funcionar como emprêsa de mineração.

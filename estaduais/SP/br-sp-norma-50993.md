@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=50993)
-
 # LEI Nº 11.710, DE 24 DE MAIO DE 2004
 
 ## (PL 347/2003 - Roberto Engler)

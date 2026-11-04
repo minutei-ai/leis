@@ -1,5 +1,3 @@
-###DEC-079660-0-000-05-05-1977@@@
-
 Decreto nº 79.660, de 5 de maio de 1977.
 
 Altera dispositivo do Regulamento para os Depósitos Primários da Marinha, aprovado pelo Decreto nº 62.704, de 15 de maio de 1968.

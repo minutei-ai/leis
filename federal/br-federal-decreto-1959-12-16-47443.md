@@ -1,5 +1,3 @@
-###DEC-047443-0-000-16-12-1959@@@
-
 DECRETO Nº 47.443, DE 16 DE DEZEMBRO DE 1959.
 
 Cria o Consulado Honorário do Brasil em Kuala-Lumpur, Federação Malaia.

@@ -1,5 +1,3 @@
-###DEL-004922-0-000-05-11-1942@@@
-
 DECRETO-LEI N. 4.922 – DE 5 DE NOVEMBRO DE 1942
 
 Abre, pelo Ministério da Agricultura, o crédito suplementar de Cr$ 20.000,00 à verba que especifica

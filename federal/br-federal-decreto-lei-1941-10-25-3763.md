@@ -1,5 +1,3 @@
-###DEL-003763-0-000-25-10-1941@@@
-
 DECRETO-LEI N. 3.763 – DE 25 DE OUTUBRO DE 1941
 
 Consolida disposições sobre águas e energia elétrica, e dá outras providências

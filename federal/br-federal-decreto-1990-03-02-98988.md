@@ -1,7 +1,3 @@
-1
-
-###DEC-098988-0-000-02-03-1990@@@
-
 DECRETO Nº 98.988, DE 2 DE MARÇO DE 1990.
 
 Dispõe sobre a execução do Vigésimo Segundo Protocolo Adicional ao Acordo de Alcance Parcial Nº 1, entre o Brasil e a Argentina.

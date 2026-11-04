@@ -1,5 +1,3 @@
-###DEC-046453-0-000-17-07-1959@@@
-
 DECRETO Nº 46.453, DE 17 DE JULHO DE 1959.
 
 Concede à Siderúrgica Frei Leopoldo Ltda. - SIFREL - autorização para funcionar como emprêsa de mineração.

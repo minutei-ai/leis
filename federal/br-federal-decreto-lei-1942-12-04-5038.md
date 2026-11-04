@@ -1,5 +1,3 @@
-###DEL-005038-0-000-04-12-1942@@@
-
 DECRETO-LEI N. 5.038 – DE 4 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de Cr$ 76.483,40 para pagamento de gratificação a funcionários do Serviço Nacional de Malária.

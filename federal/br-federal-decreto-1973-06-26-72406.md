@@ -1,5 +1,3 @@
-###DEC-072406-0-000-26-06-1973@@@
-
 DECRETO Nº 72.406, DE 26 DE JUNHO DE 1973.
 
 Prorroga o prazo para a execução dos serviços concernentes aos registros públicos regulados pelo Decreto-lei nº 1.000, de 21 de outubro de 1969.

@@ -1,5 +1,3 @@
-###DEC-094275-0-000-24-04-1987@@@
-
 DECRETO Nº 94.275, DE 24 DE ABRIL DE 1987.
 
 Dispõe sobre o aumento do capital Social da Companhia Vale do Rio Doce - CVRD.

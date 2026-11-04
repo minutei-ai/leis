@@ -12,8 +12,10 @@ Goiânia, 13 de março de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-AMILTON FILHO<br>
+AMILTON FILHO
+
 Deputado Estadual

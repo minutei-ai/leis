@@ -1,5 +1,3 @@
-###DEC-002208-0-000-17-04-1997@@@
-
 DECRETO Nº 2.208, DE 17 DE ABRIL DE 1997
 
 Regulamenta o § 2º do art. 36 e os arts. 39 a 42 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional.

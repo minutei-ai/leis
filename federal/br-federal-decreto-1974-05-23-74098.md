@@ -1,5 +1,3 @@
-###DEC-074098-0-000-23-05-1974@@@
-
 DECRETO Nº 74.098, DE 23 DE MAIO DE 1974.
 
 Torna sem efeito aproveitamento de disponível e dá outras providências.

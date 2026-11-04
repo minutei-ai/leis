@@ -1,5 +1,3 @@
-###DEC-095295-0-000-24-11-1987@@@
-
 DECRETO Nº 95.295, DE 24 DE NOVEMBRO DE 1987
 
 Outorga concessão à Rádio República de Morro Agudo Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Morro Agudo, Estado de São Paulo.

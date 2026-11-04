@@ -1,5 +1,3 @@
-###DEC-061562-0-000-18-10-1967@@@
-
 decreto nº 61.562, de 18 de outubro de 1967.
 
 Modifica a divisão do território nacional de Zonas Aéreas.

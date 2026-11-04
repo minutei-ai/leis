@@ -1,5 +1,3 @@
-###DEC-052250-0-000-09-07-1963@@@
-
 Decreto Nº 52.250, DE 9 DE JULHO DE 1963.
 
 Autoriza o cidadão brasileiro Roberto Cohen  a pesquisar cassiterita no município de Lábrea, Estado de Amazonas.

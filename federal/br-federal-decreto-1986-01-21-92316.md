@@ -1,5 +1,3 @@
-###DEC-092316-0-000-21-01-1986@@@
-
 # DECRETO Nº 92.316, DE 21 DE JANEIRO DE 1986
 
 Dispõe sobre a Embaixada do Brasil em Barbados.

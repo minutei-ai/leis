@@ -1,5 +1,3 @@
-###DEC-051932-B-000-26-04-1963@@@
-
 DECRETO Nº 51.932-B, DE 26 DE ABRIL DE 1963.
 
 Revoga o Decreto nº 47.411 de 11 de dezembro de 1959.

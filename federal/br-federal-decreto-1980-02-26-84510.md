@@ -1,5 +1,3 @@
-###DEC-084510-0-000-26-02-1980@@@
-
 Decreto nº 84.510 de 26 de fevereiro de 1980
 
 Autoriza a alienação de bens imóveis pertencentes ao patrimônio da Universidade Federal da Bahia e dá outras providências.

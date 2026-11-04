@@ -1,5 +1,3 @@
-###DEC-060732-0-000-22-05-1967@@@
-
 DECRETO Nº 60.732, DE 22 DE MAIO DE 1967.
 
 Autoriza a Centrais Elétricas de Santa Catarina S.A. - CELESC a construir linhas de transmissão e subestações.

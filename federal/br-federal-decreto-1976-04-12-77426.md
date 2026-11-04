@@ -1,5 +1,3 @@
-###DEC-077426-0-000-12-04-1976@@@
-
 DECRETO Nº 77.426 - 12 DE ABRIL DE 1976
 
 Autoriza o funcionamento das habilitações em Matemática, em Química, em Física e em Biologia do curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Ijuí, com sede na cidade de Ijuí, Estado do Rio Grande do Sul.

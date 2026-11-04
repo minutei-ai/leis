@@ -1,5 +1,3 @@
-###DEL-009481-0-000-18-07-1946@@@
-
 DECRETO-LEI N. 9.481 – DE 18 DE JULHO DE 1946
 
 Torna sem aplicação o saldo da crédito aberto pelo Decreto-lei n. 7.526, de 7 de Maio de 1945:

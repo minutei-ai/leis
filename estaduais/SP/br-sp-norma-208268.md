@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208268)<br>
-
 # LEI N° 17.717, DE 11 DE JULHO DE 2023
 
 ## (Projeto de lei n° 829, de 2021, do Deputado Bruno Ganem - PODE)

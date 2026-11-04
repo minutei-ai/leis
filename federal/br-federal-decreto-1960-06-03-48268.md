@@ -1,5 +1,3 @@
-###DEC-048268-0-000-03-06-1960@@@
-
 decreto nº 48.268, de 3 de junho de 1960.
 
 Concede alterações introduzidas nos Estatutos, inclusive aumento de capital de responsabilidade da “Royal Exchange Assurance”.

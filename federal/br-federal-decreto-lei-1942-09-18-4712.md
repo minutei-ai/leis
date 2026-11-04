@@ -1,5 +1,3 @@
-###DEL-004712-0-000-18-09-1942@@@
-
 DECRETO-LEI N. 4.712 – DE 18 DE SETEMBRO DE 1942
 
 Permite o recebimento, sem multa, até 30 de novembro, das “Fichas de Inscrição” e dos “Boletins de Produção”, a que alude o art. 4º do decreto-lei nº 4.081, de 3 de fevereiro de 1942

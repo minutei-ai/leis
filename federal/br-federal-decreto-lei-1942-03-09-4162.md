@@ -1,5 +1,3 @@
-###DEL-004162-0-000-09-03-1942@@@
-
 DECRETO-LEI N. 4.162 – DE 9 DE MARÇO DE 1942
 
 Dispõe sobre o Código de Vencimentos e Vantagens dos Militares da Aeronáutica
@@ -1870,7 +1868,111 @@ VENCIMENTOS DE OFICIAIS
 
 (Art. 5º)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Postos</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Vencimentos</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Saldo</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Gratificação</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soma</span></p></td><td style="width:53pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:237.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Marechal do Ar (*)........................................................</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Major Brigadeiro do Ar.................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:333$333</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:666$667</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5:000$000</span></p></td><td style="width:53pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">60:000$000</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Brigadeiro do Ar...........................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:866$666</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:433$334</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4:300$000</span></p></td><td style="width:53pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">51:600$000</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Coronel Aviador, ou Coronel........................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:333$333</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:166$667</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:500$000</span></p></td><td style="width:53pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">42:000$000</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Tenente-coronel Aviador, ou Tenente-coronel............</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:000$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:000$000</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:000$000</span></p></td><td style="width:53pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">36:000$000</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Major Aviador, ou Major...............................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:733$333</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">866$667</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:600$000</span></p></td><td style="width:53pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">31:000$000</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Capitão Aviador, ou Capitão........................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:400$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">700$00</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:100$000</span></p></td><td style="width:53pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">25:200$000</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Primeiro-tenente Aviador, ou Primeiro-tenente............</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:066$666</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">533$334</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:600$000</span></p></td><td style="width:53pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">19:200$000</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundo-tenente Aviador, ou Segundo-tenente..........</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">866$666</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">435$334</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:300$000</span></p></td><td style="width:53pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">15:600$000</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aspirante a Oficial........................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">666$666</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">333$334</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:000$000</span></p></td><td style="width:53pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12:000$000</span></p></td></tr></tbody></table>
+Postos
+
+Vencimentos
+
+Mensal
+
+Saldo
+
+Gratificação
+
+Soma
+
+Anual
+
+Marechal do Ar (*)........................................................
+
+Major Brigadeiro do Ar.................................................
+
+3:333$333
+
+1:666$667
+
+5:000$000
+
+60:000$000
+
+Brigadeiro do Ar...........................................................
+
+2:866$666
+
+1:433$334
+
+4:300$000
+
+51:600$000
+
+Coronel Aviador, ou Coronel........................................
+
+2:333$333
+
+1:166$667
+
+3:500$000
+
+42:000$000
+
+Tenente-coronel Aviador, ou Tenente-coronel............
+
+2:000$000
+
+1:000$000
+
+3:000$000
+
+36:000$000
+
+Major Aviador, ou Major...............................................
+
+1:733$333
+
+866$667
+
+2:600$000
+
+31:000$000
+
+Capitão Aviador, ou Capitão........................................
+
+1:400$000
+
+700$00
+
+2:100$000
+
+25:200$000
+
+Primeiro-tenente Aviador, ou Primeiro-tenente............
+
+1:066$666
+
+533$334
+
+1:600$000
+
+19:200$000
+
+Segundo-tenente Aviador, ou Segundo-tenente..........
+
+866$666
+
+435$334
+
+1:300$000
+
+15:600$000
+
+Aspirante a Oficial........................................................
+
+666$666
+
+333$334
+
+1:000$000
+
+12:000$000
 
 (\*) Os vencimentos deste Posto serão fixados pelo Presidente ds República, em tempo de guerra.
 
@@ -1880,7 +1982,65 @@ GRATIFICAÇÃO DE SERVIÇO AÉREO
 
 (Art. 25)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:262.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Gratificação de Serviço Aéreo</span></p></td><td style="width:88.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:262.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:88.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:262.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Major Brigadeiro do Ar....................................................</span></p></td><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:473$000</span></p></td><td style="width:88.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">17:676$000</span></p></td></tr><tr><td style="width:262.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Brigadeiro do Ar..............................................................</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:386$000</span></p></td><td style="width:88.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">16:632$000</span></p></td></tr><tr><td style="width:262.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Coronel Aviador..............................................................</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:300$000</span></p></td><td style="width:88.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">15:600$000</span></p></td></tr><tr><td style="width:262.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Tenente-coronel Aviador................................................</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:213$000</span></p></td><td style="width:88.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">14:556$000</span></p></td></tr><tr><td style="width:262.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Major Aviador.................................................................</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:126$000</span></p></td><td style="width:88.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">13:512$000</span></p></td></tr><tr><td style="width:262.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Capitão Aviador..............................................................</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:040$000</span></p></td><td style="width:88.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12:480$000</span></p></td></tr><tr><td style="width:262.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Primeiro-tenente Aviador................................................</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">953$000</span></p></td><td style="width:88.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">11:436$000</span></p></td></tr><tr><td style="width:262.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Segundo-tenente Aviador...............................................</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">866$000</span></p></td><td style="width:88.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">10:392$000</span></p></td></tr><tr><td style="width:262.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Aspirante a Oficial Aviador.............................................</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">780$000</span></p></td><td style="width:88.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">9:360$000</span></p></td></tr></tbody></table>
+Gratificação de Serviço Aéreo
+
+Mensal
+
+Anual
+
+Major Brigadeiro do Ar....................................................
+
+1:473$000
+
+17:676$000
+
+Brigadeiro do Ar..............................................................
+
+1:386$000
+
+16:632$000
+
+Coronel Aviador..............................................................
+
+1:300$000
+
+15:600$000
+
+Tenente-coronel Aviador................................................
+
+1:213$000
+
+14:556$000
+
+Major Aviador.................................................................
+
+1:126$000
+
+13:512$000
+
+Capitão Aviador..............................................................
+
+1:040$000
+
+12:480$000
+
+Primeiro-tenente Aviador................................................
+
+953$000
+
+11:436$000
+
+Segundo-tenente Aviador...............................................
+
+866$000
+
+10:392$000
+
+Aspirante a Oficial Aviador.............................................
+
+780$000
+
+9:360$000
 
 A gratificação de Serviço Aéreo do Marechal do Ar deverá ser calculada de conformidade com a regra estabelecida no art. 25, letra b.
 
@@ -1890,7 +2050,29 @@ GRATIFICAÇÃO DE INSTRUTOR
 
 (Art. 31, § 1º)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:365.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Função</span></p></td><td style="width:109.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Gratificação</span></p></td></tr><tr><td style="width:365.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Diretor de Ensino.......................................................................................................</span></p></td><td style="width:109.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Chefe do Ensino........................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Instrutor-Chefe...........................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">350$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Instrutor......................................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">300$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Instrutor-auxiliar.........................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">250$000</span></p></td></tr></tbody></table>
+Função
+
+Gratificação
+
+Diretor de Ensino.......................................................................................................
+
+400$000
+
+Chefe do Ensino........................................................................................................
+
+400$000
+
+Instrutor-Chefe...........................................................................................................
+
+350$000
+
+Instrutor......................................................................................................................
+
+300$000
+
+Instrutor-auxiliar.........................................................................................................
+
+250$000
 
 #### TABELA N. 4
 
@@ -1898,7 +2080,9 @@ RAÇÃO
 
 (Art. 39)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:365.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="text-indent:0pt"><span>Oficiais.......................................................................................................................</span></p><p class="Anexo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:109.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">15$000</span></p></td></tr></tbody></table>
+Oficiais.......................................................................................................................
+
+15$000
 
 #### TABELA N. 5
 
@@ -1906,7 +2090,29 @@ DIÁRIA FORA DA SEDE (DENTRO DO PAÍS)
 
 (§ 4º do art. 43)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:365.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Postos</span></p></td><td style="width:109.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Diário</span></p></td></tr><tr><td style="width:365.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Oficiais Generais.......................................................................................................</span></p></td><td style="width:109.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">50$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Oficiais Superiores....................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">40$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Capitães.....................................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">35$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Primeiros e Segundos Tenentes...............................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">30$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Aspirantes a Oficial....................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">30$000</span></p></td></tr></tbody></table>
+Postos
+
+Diário
+
+Oficiais Generais.......................................................................................................
+
+50$000
+
+Oficiais Superiores....................................................................................................
+
+40$000
+
+Capitães.....................................................................................................................
+
+35$000
+
+Primeiros e Segundos Tenentes...............................................................................
+
+30$000
+
+Aspirantes a Oficial....................................................................................................
+
+30$000
 
 #### TABELA N. 6
 
@@ -1914,7 +2120,33 @@ DIÁRIA FORA DA SEDE (EM PAÍS ESTRANGEIRO)
 
 (Art. 126)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:365.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Postos</span></p></td><td style="width:109.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Diária</span></p></td></tr><tr><td style="width:365.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Oficiais Generais.......................................................................................................</span></p></td><td style="width:109.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">50$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Oficiais Superiores....................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">40$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Capitães.....................................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">35$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Primeiros Tenentes....................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">30$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Segundos Tenentes...................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">20$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Aspirantes a Oficial....................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">20$000</span></p></td></tr></tbody></table>
+Postos
+
+Diária
+
+Oficiais Generais.......................................................................................................
+
+50$000
+
+Oficiais Superiores....................................................................................................
+
+40$000
+
+Capitães.....................................................................................................................
+
+35$000
+
+Primeiros Tenentes....................................................................................................
+
+30$000
+
+Segundos Tenentes...................................................................................................
+
+20$000
+
+Aspirantes a Oficial....................................................................................................
+
+20$000
 
 #### TABELA N. 7
 
@@ -1922,7 +2154,47 @@ VENCIMENTOS DE CADETES
 
 (Art. 142)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:216.25pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.9pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:45.9pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:216.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Graduações</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soldo</span></p></td><td style="width:63.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Grat.</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soma</span></p></td><td style="width:45.9pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:216.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:45.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:216.25pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Cadete do 1º ano.................................................</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">40$000</span></p></td><td style="width:63.9pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">20$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">60$0</span></p></td><td style="width:45.9pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">720$0</span></p></td></tr><tr><td style="width:216.25pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Cadete do 2º ano.................................................</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">53$333</span></p></td><td style="width:63.9pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">26$667</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">80$0</span></p></td><td style="width:45.9pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">960$0</span></p></td></tr><tr><td style="width:216.25pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Cadete do 3º ano.................................................</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">66$666</span></p></td><td style="width:63.9pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">33$334</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">100$0</span></p></td><td style="width:45.9pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:200$0</span></p></td></tr></tbody></table>
+Mensal
+
+Graduações
+
+Soldo
+
+Grat.
+
+Soma
+
+Anual
+
+Cadete do 1º ano.................................................
+
+40$000
+
+20$000
+
+60$0
+
+720$0
+
+Cadete do 2º ano.................................................
+
+53$333
+
+26$667
+
+80$0
+
+960$0
+
+Cadete do 3º ano.................................................
+
+66$666
+
+33$334
+
+100$0
+
+1:200$0
 
 #### TABELA N. 8
 
@@ -1930,7 +2202,21 @@ GRATIFICAÇÃO DE SERVIÇO AÉREO (CADETES)
 
 (Art. 147)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:365.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Graduação</span></p></td><td style="width:109.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Gratificação</span></p></td></tr><tr><td style="width:365.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Cadete do 1º ano.......................................................................................................</span></p></td><td style="width:109.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Cadete do 2º ano.......................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150$000</span></p></td></tr><tr><td style="width:365.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Cadete do 3º ano.......................................................................................................</span></p></td><td style="width:109.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150$000</span></p></td></tr></tbody></table>
+Graduação
+
+Gratificação
+
+Cadete do 1º ano.......................................................................................................
+
+150$000
+
+Cadete do 2º ano.......................................................................................................
+
+150$000
+
+Cadete do 3º ano.......................................................................................................
+
+150$000
 
 #### TABELA N. 9
 
@@ -1938,7 +2224,189 @@ VENCIMENTOS DO CORPO DE PRAÇAS
 
 (Art. 158)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Vencimentos</span></p></td><td style="width:42.65pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:60.05pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Graduação</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:42.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:60.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soldo</span></p></td><td style="width:63.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Grat.</span></p></td><td style="width:42.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:237.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Sub-Oficial.................................................................</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">666$666</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">333$334</span></p></td><td style="width:42.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:000$0</span></p></td><td style="width:60.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12:000$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1º Sargento...............................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">200$000</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">600$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">7:200$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">2º Sargento................................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">346$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">173$334</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">520$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">6:240$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">3º Sargento................................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">300$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150$000</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">450$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">5:400$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Cabo..........................................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">152$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">76$000</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">228$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">2:736$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1º Sargento Músico (contra-mestre)..........................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">466$666</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">233$334</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">700$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">8:400$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Músico de 1ª classe..................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">200$000</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">600$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">7:200$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Músico de 2ª classe..................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">346$666</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">173$334</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">520$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">6:240$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Músico de 3ª classe..................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">300$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150$000</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">450$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">5:400$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Soldado corneteiro-tambor, engajado, de 1ª classe...</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">165$333</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">82$667</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">248$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:976$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Soldado corneteiro-tambor, engajado, de 2ª classe...</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">139$333</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">69$667</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">209$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:508$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Soldado corneteiro-tambor, mobilizavel de 1ª classe..</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">152$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">76$000</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">228$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:736$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Soldado corneteiro-tambor, mobilizavel de 2ª classe..</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">126$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">63$000</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">189$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:268$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Soldado de 1ª classe...................................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">139$333</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">69$667</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">209$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:508$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Soldado de 2ª classe, engajado..................................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">131$333</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">65$667</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">197$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:364$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Soldado de 2ª classe, mobilizavel...............................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">100$000</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">50$000</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:800$0</span></p></td></tr><tr><td style="width:237.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Soldado de 2ª classe, não mobilizavel........................</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">33$333</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">16$667</span></p></td><td style="width:42.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">50$0</span></p></td><td style="width:60.05pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">600$0</span></p></td></tr></tbody></table>
+Vencimentos
+
+Graduação
+
+Mensal
+
+Soldo
+
+Grat.
+
+Mensal
+
+Anual
+
+Sub-Oficial.................................................................
+
+666$666
+
+333$334
+
+1:000$0
+
+12:000$0
+
+1º Sargento...............................................................
+
+400$000
+
+200$000
+
+600$0
+
+7:200$0
+
+2º Sargento................................................................
+
+346$000
+
+173$334
+
+520$0
+
+6:240$0
+
+3º Sargento................................................................
+
+300$000
+
+150$000
+
+450$0
+
+5:400$0
+
+Cabo..........................................................................
+
+152$000
+
+76$000
+
+228$0
+
+2:736$0
+
+1º Sargento Músico (contra-mestre)..........................
+
+466$666
+
+233$334
+
+700$0
+
+8:400$0
+
+Músico de 1ª classe..................................................
+
+400$000
+
+200$000
+
+600$0
+
+7:200$0
+
+Músico de 2ª classe..................................................
+
+346$666
+
+173$334
+
+520$0
+
+6:240$0
+
+Músico de 3ª classe..................................................
+
+300$000
+
+150$000
+
+450$0
+
+5:400$0
+
+Soldado corneteiro-tambor, engajado, de 1ª classe...
+
+165$333
+
+82$667
+
+248$0
+
+2:976$0
+
+Soldado corneteiro-tambor, engajado, de 2ª classe...
+
+139$333
+
+69$667
+
+209$0
+
+2:508$0
+
+Soldado corneteiro-tambor, mobilizavel de 1ª classe..
+
+152$000
+
+76$000
+
+228$0
+
+2:736$0
+
+Soldado corneteiro-tambor, mobilizavel de 2ª classe..
+
+126$000
+
+63$000
+
+189$0
+
+2:268$0
+
+Soldado de 1ª classe...................................................
+
+139$333
+
+69$667
+
+209$0
+
+2:508$0
+
+Soldado de 2ª classe, engajado..................................
+
+131$333
+
+65$667
+
+197$0
+
+2:364$0
+
+Soldado de 2ª classe, mobilizavel...............................
+
+100$000
+
+50$000
+
+150$0
+
+1:800$0
+
+Soldado de 2ª classe, não mobilizavel........................
+
+33$333
+
+16$667
+
+50$0
+
+600$0
 
 #### TABELA N. 10
 
@@ -1946,7 +2414,61 @@ GRATIFICAÇÃO DE AERONÁUTICA
 
 (Art. 176)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:280pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:92.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Gratificação de</span></p></td><td style="width:95.6pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Aeronáutica</span></p></td></tr><tr><td style="width:280pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:92.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:95.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:280pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Sub-Oficial...................................................................................</span></p></td><td style="width:92.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">390$000</span></p></td><td style="width:95.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4:680$000</span></p></td></tr><tr><td style="width:280pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1º Sargento.................................................................................</span></p></td><td style="width:92.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">360$000</span></p></td><td style="width:95.6pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4:320$000</span></p></td></tr><tr><td style="width:280pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">2º Sargento.................................................................................</span></p></td><td style="width:92.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">330$000</span></p></td><td style="width:95.6pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:960$000</span></p></td></tr><tr><td style="width:280pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">3º Sargento.................................................................................</span></p></td><td style="width:92.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">300$000</span></p></td><td style="width:95.6pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:600$000</span></p></td></tr><tr><td style="width:280pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Cabo (auxiliar de artíficie)...........................................................</span></p></td><td style="width:92.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">210$000</span></p></td><td style="width:95.6pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:520$000</span></p></td></tr><tr><td style="width:280pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Soldado de 1ª classe (auxiliar de artíficie)..................................</span></p></td><td style="width:92.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">180$000</span></p></td><td style="width:95.6pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:160$000</span></p></td></tr><tr><td style="width:280pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Cabo............................................................................................</span></p></td><td style="width:92.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">40$000</span></p></td><td style="width:95.6pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">480$000</span></p></td></tr><tr><td style="width:280pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Soldado de 1ª classe...................................................................</span></p></td><td style="width:92.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">20$000</span></p></td><td style="width:95.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">240$000</span></p></td></tr></tbody></table>
+Gratificação de
+
+Aeronáutica
+
+Mensal
+
+Anual
+
+Sub-Oficial...................................................................................
+
+390$000
+
+4:680$000
+
+1º Sargento.................................................................................
+
+360$000
+
+4:320$000
+
+2º Sargento.................................................................................
+
+330$000
+
+3:960$000
+
+3º Sargento.................................................................................
+
+300$000
+
+3:600$000
+
+Cabo (auxiliar de artíficie)...........................................................
+
+210$000
+
+2:520$000
+
+Soldado de 1ª classe (auxiliar de artíficie)..................................
+
+180$000
+
+2:160$000
+
+Cabo............................................................................................
+
+40$000
+
+480$000
+
+Soldado de 1ª classe...................................................................
+
+20$000
+
+240$000
 
 #### TABELA N. 11
 
@@ -1954,7 +2476,7 @@ GRATIFICAÇÃO DE MONITOR
 
 (Art. 183)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:18pt"><td rowspan="2" style="width:155.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Funções</span></p></td><td colspan="3" style="width:318.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Gratificação de monitor</span></p><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">&nbsp;</span></p></td></tr><tr style="height:17.25pt"><td style="width:155.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td colspan="2" style="width:156.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:155.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Monitor-Chefe (Sub-Oficiais e</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Primeiros Sargentos..............</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Monitor (Sub-Oficiais e Sargentos)</span></p></td><td colspan="2" style="width:155.95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">220$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">200$000</span></p></td><td style="width:155.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:640$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:400$000</span></p></td></tr><tr style="height:0pt"><td style="width:162.95pt"></td><td style="width:162.75pt"></td><td style="width:0.2pt"></td><td style="width:162.95pt"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"> &nbsp; Funções </td><td colspan="3"> Gratificação de monitor &nbsp; </td></tr><tr><td> Mensal </td><td colspan="2"> Anual </td></tr><tr><td> Monitor-Chefe (Sub-Oficiais e Primeiros Sargentos.............. Monitor (Sub-Oficiais e Sargentos) </td><td colspan="2"> &nbsp; 220$000 200$000 </td><td> &nbsp; 2:640$000 2:400$000 </td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 #### TABELA N. 12
 
@@ -1964,7 +2486,7 @@ GRATIFICAÇÃO DE SERVIÇO AÉREO
 
 (Art. 184)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:20.25pt"><td rowspan="2" style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Graduação</span></p></td><td colspan="2" style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Gratificação de Serviço Aéreo</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:15pt"><td style="width:136.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:94.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Praças alunos..............................................................</span></p></td><td style="width:136.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">120$000</span></p></td><td style="width:94.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:440$000</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"> &nbsp; Graduação </td><td colspan="2"> Gratificação de Serviço Aéreo &nbsp; </td></tr><tr><td> Mensal </td><td> Anual </td></tr><tr><td> Praças alunos.............................................................. </td><td> 120$000 </td><td> 1:440$000 </td></tr></tbody></table>
 
 #### TABELA N. 13
 
@@ -1972,7 +2494,13 @@ RAÇÃO
 
 (Art. 186, no que se refere ao art. 39)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:372.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Sub-Oficiais e primeiros Sargentos..............................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Segundos e Terceiros Sargentos.................................................................................</span></p></td><td style="width:102.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">10$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7$000</span></p></td></tr></tbody></table>
+Sub-Oficiais e primeiros Sargentos..............................................................................
+
+Segundos e Terceiros Sargentos.................................................................................
+
+10$000
+
+7$000
 
 #### TABELA N. 14
 
@@ -1980,7 +2508,9 @@ RAÇÃO ESPECIAL
 
 (Art. 196)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:372.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Praças...................................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:102.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7$000</span></p></td></tr></tbody></table>
+Praças...................................................................................................................
+
+7$000
 
 #### TABELA N. 15
 
@@ -1988,7 +2518,9 @@ RAÇÃO DE FAMÍLIA
 
 (Art. 199)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:372.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Praças..........................................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:102.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3$000</span></p></td></tr></tbody></table>
+Praças..........................................................................................................................
+
+3$000
 
 #### TABELA N. 16
 
@@ -1996,13 +2528,37 @@ DIÁRIA FORA DA SEDE (DENTRO DO PAÍS)
 
 (Art. 202)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:372.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Sub-Oficiais e Primeiros Sargentos.............................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Segundos e Terceiros Sargentos.................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cabos e Soldados........................................................................................................</span></p></td><td style="width:102.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">20$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">15$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">7$000</span></p></td></tr></tbody></table>
+Sub-Oficiais e Primeiros Sargentos.............................................................................
+
+Segundos e Terceiros Sargentos.................................................................................
+
+Cabos e Soldados........................................................................................................
+
+20$000
+
+15$000
+
+  7$000
 
 #### NO ESTRANGEIRO
 
 (Art. 224 parágrafo único)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:280pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Sub-Oficiais e Primeiros Sargentos........................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Segundos e Terceiros Sargentos............................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Cabos e Soldados...................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Músicos – Será</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">observada</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">a</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">mesma</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">equiparação</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">dos</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">vencimentos.</span></p></td><td style="width:194.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">20$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">15$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">10$000</span></p></td></tr></tbody></table>
+Sub-Oficiais e Primeiros Sargentos........................................
+
+Segundos e Terceiros Sargentos............................................
+
+Cabos e Soldados...................................................................
+
+Músicos – Será  observada  a  mesma  equiparação   dos
+
+       vencimentos.
+
+20$000
+
+15$000
+
+10$000
 
 #### TABELA N. 17
 
@@ -2010,9 +2566,171 @@ GRATIFICAÇÃO DE ESPECIALIDADE
 
 (Art. 211)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:95.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Especialidade</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">E</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Sub-especialidades</span></p></td><td style="width:134.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Graduações</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">anual</span></p></td></tr><tr><td style="width:95.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Ramo de Infantaria</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">De Guarda</span></p></td><td style="width:134.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Sub-Oficial.......................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1º Sargento......................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2º Sargento......................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3º Sargento......................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cabo................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soldado de 1ª Classe......</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">140$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">130$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">120$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">110$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">30$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">10$0</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:680$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:560$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:440$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:320$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">360$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">120$0</span></p></td></tr><tr><td style="width:95.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Enfermeiros e Ma-</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Nipuladores de</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Radiologia</span></p></td><td style="width:134.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Sub-Oficial..............................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1º Sargento.............................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2º Sargento.............................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3º Sargento.............................</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">250$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">240$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">230$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">220$0</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:000$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:880$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:760$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:640$0</span></p></td></tr><tr><td style="width:95.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Padioleiros</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cabo.......................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soldado de 1ª Classe.............</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">45$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">21$0</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">540$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">252$0</span></p></td></tr></tbody></table>
+Especialidade
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Especialidades</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">e</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Sub-Especialidades</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Graduações</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">anual</span></p></td></tr><tr><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Escreventes</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Almoxarifes</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Sub-Oficial.......................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1º Sargento......................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2º Sargento......................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3º Sargento......................</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">170$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">160$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">140$0</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:040$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:920$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:800$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:680$0</span></p></td></tr><tr><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Datilógrafos</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cabo................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soldado de 1ª Classe......</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">60$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">45$0</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">720$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">540$0</span></p></td></tr><tr><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Motoristas de</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Viaturas</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cabo................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soldado de 1ª Classe......</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">90$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">75$0</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:080$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">900$0</span></p></td></tr></tbody></table>
+E
+
+Sub-especialidades
+
+Graduações
+
+Mensal
+
+anual
+
+Ramo de Infantaria
+
+De Guarda
+
+Sub-Oficial.......................
+
+1º Sargento......................
+
+2º Sargento......................
+
+3º Sargento......................
+
+Cabo................................
+
+Soldado de 1ª Classe......
+
+140$0
+
+130$0
+
+120$0
+
+110$0
+
+ 30$0
+
+ 10$0
+
+1:680$0
+
+1:560$0
+
+1:440$0
+
+1:320$0
+
+  360$0
+
+  120$0
+
+Enfermeiros e Ma-
+
+Nipuladores de
+
+Radiologia
+
+Sub-Oficial..............................
+
+1º Sargento.............................
+
+2º Sargento.............................
+
+3º Sargento.............................
+
+250$0
+
+240$0
+
+230$0
+
+220$0
+
+3:000$0
+
+2:880$0
+
+2:760$0
+
+2:640$0
+
+Padioleiros
+
+Cabo.......................................
+
+Soldado de 1ª Classe.............
+
+45$0
+
+  21$0
+
+540$0
+
+  252$0
+
+Especialidades
+
+e
+
+Sub-Especialidades
+
+Graduações
+
+Mensal
+
+anual
+
+Escreventes
+
+Almoxarifes
+
+Sub-Oficial.......................
+
+1º Sargento......................
+
+2º Sargento......................
+
+3º Sargento......................
+
+170$0
+
+160$0
+
+150$0
+
+140$0
+
+2:040$0
+
+1:920$0
+
+1:800$0
+
+1:680$0
+
+Datilógrafos
+
+Cabo................................
+
+Soldado de 1ª Classe......
+
+60$0
+
+45$0
+
+720$0
+
+  540$0
+
+Motoristas de
+
+Viaturas
+
+Cabo................................
+
+Soldado de 1ª Classe......
+
+90$0
+
+75$0
+
+1:080$0
+
+   900$0
 
 #### TABELA N. 18
 
@@ -2020,7 +2738,111 @@ GRATIFICAÇÃO DE FUNÇÃO ATRIBUIDA A PRAÇAS DA AERONÁUTICA
 
 (Art. 212)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Funções</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Graduações</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Anual</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Ramo de aeronáutica</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Primeiro Sargento............</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Segundo Sargento...........</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Terceiro Sargento............</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cabo................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Soldado de 1ª Classe......</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">140$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">130$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">80$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">40$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:800$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:680$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:560$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">960$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">480$0</span></p></td></tr><tr><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Ramo de Infantaria</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">de Guarda</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Primeiro Sargento............</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Segundo Sargento...........</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Terceiro Sargento............</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cabo................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soldado de 1ª Classe......</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">80$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">75$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">70$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">20$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">10$0</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">960$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">900$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">840$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">240$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">120$0</span></p></td></tr><tr><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Ramo dos Serviços</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Primeiro Sargento............</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Segundo Sargento...........</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Terceiro Sargento............</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cabo................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Soldado de 1ª Classe......</span></p></td><td style="width:115.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">80$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">75$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">70$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">20$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">10$0</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">960$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">900$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">840$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">240$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">120$0</span></p></td></tr></tbody></table>
+Funções
+
+Graduações
+
+Mensal
+
+Anual
+
+Ramo de aeronáutica
+
+Primeiro Sargento............
+
+Segundo Sargento...........
+
+Terceiro Sargento............
+
+Cabo................................
+
+Soldado de 1ª Classe......
+
+150$0
+
+140$0
+
+130$0
+
+  80$0
+
+  40$0
+
+1:800$0
+
+1:680$0
+
+1:560$0
+
+  960$0
+
+  480$0
+
+Ramo de Infantaria
+
+de Guarda
+
+Primeiro Sargento............
+
+Segundo Sargento...........
+
+Terceiro Sargento............
+
+Cabo................................
+
+Soldado de 1ª Classe......
+
+80$0
+
+ 75$0
+
+ 70$0
+
+ 20$0
+
+ 10$0
+
+960$0
+
+ 900$0
+
+ 840$0
+
+ 240$0
+
+ 120$0
+
+Ramo dos Serviços
+
+Primeiro Sargento............
+
+Segundo Sargento...........
+
+Terceiro Sargento............
+
+Cabo................................
+
+Soldado de 1ª Classe......
+
+80$0
+
+  75$0
+
+  70$0
+
+  20$0
+
+  10$0
+
+960$0
+
+ 900$0
+
+ 840$0
+
+ 240$0
+
+ 120$0
 
 #### TABELA N. 19
 
@@ -2028,7 +2850,7 @@ VENCIMENTOS DE TAIFEIROS
 
 (Art. 232)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:18pt"><td rowspan="3" style="width:124.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Categoria e graduação</span></p></td><td colspan="6" style="width:350.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Vencimentos</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:13.5pt"><td colspan="5" style="width:255.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mensal</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td rowspan="2" style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Anual</span></p></td></tr><tr style="height:21.75pt"><td colspan="2" style="width:57.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soldo</span></p></td><td style="width:90.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Grat.</span></p></td><td colspan="2" style="width:93.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Soma</span></p></td></tr><tr><td style="width:124.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="height:0pt; text-align:left; display:block; position:absolute; z-index:0"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAABFCAYAAACc/hw6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAQklEQVR4nO3OMQ4AMAhCUe9/6bo4dFNp2T6J24MY0efUvaMb/4VgMBhsxb7VER6j1Z9SSSp4sHcdDAaDt1ha9xa0JNbdSrY3oPgBAAAAAElFTkSuQmCC" width="11" height="69" alt="" style="margin-top:1.98pt; margin-left:50.92pt; -aw-left-pos:51.3pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:2.85pt; -aw-wrap-type:none; position:absolute"></span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">da classe mor</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">de 1ª classe..</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Cozinheiro</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">de 2ª classe..</span></p></td><td style="width:57.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">333$333</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">266$666</span></p></td><td colspan="3" style="width:90.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">200$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">166$667</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">133$334</span></p></td><td style="width:93.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">600$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">500$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400$0</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7:200$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6:000$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4:800$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:124.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="height:0pt; text-align:left; display:block; position:absolute; z-index:1"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAABOCAYAAAA3vqZVAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAbklEQVR4nO3YMQrAIBAEwPv/p5MqkCZFQG9NnAXrWRvBrZqb4+FMh6anDYqBMfSCIwGDwWAwGAwGg8Hgj8Ax9N9f05ZpoWUoiWBvyigRxfd5QO54LPvdGgwGg8FgMBgMBo+B4TF8ieVguSLREnUClhx1iyqZHskAAAAASUVORK5CYII=" width="30" height="78" alt="" style="margin-top:15.88pt; margin-left:43.72pt; -aw-left-pos:44.1pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:16.75pt; -aw-wrap-type:none; position:absolute"></span><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Alfaiate</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">da classe mor</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">de 1ª classe..</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">de 2ª classe..</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:57.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">333$333</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">266$666</span></p></td><td colspan="3" style="width:90.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">200$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">166$667</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">133$334</span></p></td><td style="width:93.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">600$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">500$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400$0</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7:200$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6:000$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4:800$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:124.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="height:0pt; text-align:left; display:block; position:absolute; z-index:2"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAA7CAYAAACt1nCLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAQElEQVR4nGNgIAz+QzHlipAVU1fhqOJRxaOKh5Bi6ptKm2KKJA1k2QLTQBvFtDV9VPGo4lHFA6uYLNPJKtZIBwC78kG/ell0qwAAAABJRU5ErkJggg==" width="11" height="59" alt="" style="margin-top:4.57pt; margin-left:50.92pt; -aw-left-pos:51.3pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:5.45pt; -aw-wrap-type:none; position:absolute"></span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">da classe mor</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Barbeiro</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">de 1ª classe..</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">de 2ª classe..</span></p></td><td style="width:57.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">266$666</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">240$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">220$000</span></p></td><td colspan="3" style="width:90.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">133$334</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">120$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">110$000</span></p></td><td style="width:93.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">360$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">330$0</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4:800$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4:320$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:960$0</span></p></td></tr><tr><td style="width:124.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="height:0pt; text-align:left; display:block; position:absolute; z-index:3"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAABFCAYAAACc/hw6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAQklEQVR4nO3OMQ4AMAhCUe9/6bo4dFNp2T6J24MY0efUvaMb/4VgMBhsxb7VER6j1Z9SSSp4sHcdDAaDt1ha9xa0JNbdSrY3oPgBAAAAAElFTkSuQmCC" width="11" height="69" alt="" style="margin-top:0.47pt; margin-left:50.92pt; -aw-left-pos:51.3pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:1.35pt; -aw-wrap-type:none; position:absolute"></span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">da classe mor</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Sapateiro</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">de 1ª classe..</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">De 2ª classe..</span></p></td><td style="width:57.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">266$666</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">240$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">220$000</span></p></td><td colspan="3" style="width:90.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">133$334</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">120$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">110$000</span></p></td><td style="width:93.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">360$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">330$0</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4:800$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4:320$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:960$0</span></p></td></tr><tr><td style="width:124.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="height:0pt; text-align:left; display:block; position:absolute; z-index:4"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAA7CAYAAACt1nCLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAQElEQVR4nGNgIAz+QzHlipAVU1fhqOJRxaOKh5Bi6ptKm2KKJA1k2QLTQBvFtDV9VPGo4lHFA6uYLNPJKtZIBwC78kG/ell0qwAAAABJRU5ErkJggg==" width="11" height="59" alt="" style="margin-top:3.58pt; margin-left:50.92pt; -aw-left-pos:51.3pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:4.45pt; -aw-wrap-type:none; position:absolute"></span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">da classe mor</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Copeiro-ar-</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">de 1ª classe..</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">Rumador</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">de 2ª classe..</span></p></td><td style="width:57.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">220$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">193$334</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">166$667</span></p></td><td colspan="3" style="width:90.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">110$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">96$666</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">83$333</span></p></td><td style="width:93.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">330$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">290$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">250$0</span></p></td><td style="width:88.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:960$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:480$0</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3:000$0</span></p></td></tr><tr style="height:0pt"><td style="width:131.1pt"></td><td style="width:64.4pt"></td><td style="width:0.15pt"></td><td style="width:97.5pt"></td><td style="width:0.1pt"></td><td style="width:100.1pt"></td><td style="width:95.4pt"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="3"> &nbsp; &nbsp; Categoria e graduação </td><td colspan="6"> Vencimentos &nbsp; </td></tr><tr><td colspan="5"> Mensal &nbsp; </td><td rowspan="2"> &nbsp; &nbsp; Anual </td></tr><tr><td colspan="2"> Soldo </td><td> Grat. </td><td colspan="2"> Soma </td></tr><tr><td> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAABFCAYAAACc/hw6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAQklEQVR4nO3OMQ4AMAhCUe9/6bo4dFNp2T6J24MY0efUvaMb/4VgMBhsxb7VER6j1Z9SSSp4sHcdDAaDt1ha9xa0JNbdSrY3oPgBAAAAAElFTkSuQmCC" height="69" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; da classe mor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de 1ª classe.. Cozinheiro&nbsp;&nbsp;&nbsp;&nbsp; de 2ª classe.. </td><td> 400$000 333$333 266$666 </td><td colspan="3"> 200$000 166$667 133$334 </td><td> 600$0 500$0 400$0 </td><td> 7:200$0 6:000$0 4:800$0 &nbsp; </td></tr><tr><td> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAABOCAYAAAA3vqZVAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAbklEQVR4nO3YMQrAIBAEwPv/p5MqkCZFQG9NnAXrWRvBrZqb4+FMh6anDYqBMfSCIwGDwWAwGAwGg8Hgj8Ax9N9f05ZpoWUoiWBvyigRxfd5QO54LPvdGgwGg8FgMBgMBo+B4TF8ieVguSLREnUClhx1iyqZHskAAAAASUVORK5CYII=" height="78" alt="">&nbsp; Alfaiate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; da classe mor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de 1ª classe.. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de 2ª classe.. &nbsp; </td><td> &nbsp; 400$000 333$333 266$666 </td><td colspan="3"> &nbsp; 200$000 166$667 133$334 </td><td> &nbsp; 600$0 500$0 400$0 </td><td> &nbsp; 7:200$0 6:000$0 4:800$0 &nbsp; </td></tr><tr><td> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAA7CAYAAACt1nCLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAQElEQVR4nGNgIAz+QzHlipAVU1fhqOJRxaOKh5Bi6ptKm2KKJA1k2QLTQBvFtDV9VPGo4lHFA6uYLNPJKtZIBwC78kG/ell0qwAAAABJRU5ErkJggg==" height="59" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; da classe mor Barbeiro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de 1ª classe.. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de 2ª classe.. </td><td> 266$666 240$000 220$000 </td><td colspan="3"> 133$334 120$000 110$000 </td><td> 400$0 360$0 330$0 </td><td> 4:800$0 4:320$0 3:960$0 </td></tr><tr><td> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAABFCAYAAACc/hw6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAQklEQVR4nO3OMQ4AMAhCUe9/6bo4dFNp2T6J24MY0efUvaMb/4VgMBhsxb7VER6j1Z9SSSp4sHcdDAaDt1ha9xa0JNbdSrY3oPgBAAAAAElFTkSuQmCC" height="69" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; da classe mor Sapateiro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de 1ª classe.. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; De 2ª classe.. </td><td> 266$666 240$000 220$000 </td><td colspan="3"> 133$334 120$000 110$000 </td><td> 400$0 360$0 330$0 </td><td> 4:800$0 4:320$0 3:960$0 </td></tr><tr><td> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAA7CAYAAACt1nCLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAQElEQVR4nGNgIAz+QzHlipAVU1fhqOJRxaOKh5Bi6ptKm2KKJA1k2QLTQBvFtDV9VPGo4lHFA6uYLNPJKtZIBwC78kG/ell0qwAAAABJRU5ErkJggg==" height="59" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; da classe mor Copeiro-ar-&nbsp;&nbsp;&nbsp; de 1ª classe.. &nbsp;&nbsp; Rumador&nbsp;&nbsp;&nbsp;&nbsp; de 2ª classe.. </td><td> 220$000 193$334 166$667 </td><td colspan="3"> 110$000 &nbsp;96$666 &nbsp;83$333 </td><td> 330$0 290$0 250$0 </td><td> 3:960$0 3:480$0 3:000$0 </td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 #### TABELA N. 20
 
@@ -2036,4 +2858,46 @@ FUNERAL
 
 (Art. 141)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:350.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">I – Dos militares em atividade</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Um mês de vencimentos do posto ou graduação até</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3º sargento...........................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cadetes................................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Para as demais praças (Cabos e Soldados)........................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">II – Dos militares em inatividade</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Oficiais Generais..................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Oficiais Superiores...............................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Capitães e Oficiais subalternos............................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cadetes................................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Sub-Oficial e Primeiros Sargentos.......................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Segundos e Terceiros Sargentos.........................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Para as demais praças (Cabos e Soldados)........................................................</span></p></td><td style="width:124pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">800$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">300$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2:000$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:500$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1:200$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">600$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">600$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">450$000</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">300$000</span></p></td></tr></tbody></table>
+I – Dos militares em atividade
+
+Um mês de vencimentos do posto ou graduação até
+
+3º sargento...........................................................................................................
+
+Cadetes................................................................................................................
+
+Para as demais praças (Cabos e Soldados)........................................................
+
+II – Dos militares em inatividade
+
+Oficiais Generais..................................................................................................
+
+Oficiais Superiores...............................................................................................
+
+Capitães e Oficiais subalternos............................................................................
+
+Cadetes................................................................................................................
+
+Sub-Oficial e Primeiros Sargentos.......................................................................
+
+Segundos e Terceiros Sargentos.........................................................................
+
+Para as demais praças (Cabos e Soldados)........................................................
+
+800$000
+
+300$000
+
+2:000$000
+
+1:500$000
+
+1:200$000
+
+  600$000
+
+  600$000
+
+  450$000
+
+  300$000

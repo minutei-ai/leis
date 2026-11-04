@@ -1,5 +1,3 @@
-###DEC-003888-0-000-17-08-2001@@@
-
 DECRETO Nº 3.888, DE 17 DE AGOSTO DE 2001
 
 Altera o Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

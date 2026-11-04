@@ -1,5 +1,3 @@
-###DEC-059511-0-000-09-11-1966@@@
-
 DECRETO Nº 59.511, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Joseph Nigri a lavrar caulim no município de São Paulo, Estado de São Paulo.

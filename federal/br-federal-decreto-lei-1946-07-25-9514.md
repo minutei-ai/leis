@@ -1,5 +1,3 @@
-###DEL-009514-0-000-25-07-1946@@@
-
 DECRETO-LEI Nº 9.514, DE 25 DE JULHO DE 1946
 
 Dispõe sôbre a aposentadoria de empregados do Departamento Nacional do Café, em liquidação, e dá outras providências.

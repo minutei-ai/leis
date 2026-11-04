@@ -1,5 +1,3 @@
-###DEC-004981-0-000-06-02-2004@@@
-
 DECRETO Nº 4.981,  DE 6 DE FEVEREIRO DE 2004.
 
 Altera o art. 4º do Decreto nº 193, de 21 de agosto de 1991, que regulamenta o Fundo Nacional de Desenvolvimento - FND.

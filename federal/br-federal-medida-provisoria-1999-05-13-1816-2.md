@@ -1,5 +1,3 @@
-###MPV-001816-0-002-13-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.816-2, DE 13 DE MAIO DE 1999.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050055-0-000-25-01-1961@@@
-
 DECRETO Nº 50.055, DE 25 DE JANEIRO DE 1961.
 
 Concede à Marinha de Guerra do Equador o Prêmio “Marinha do Brasil”.

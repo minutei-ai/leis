@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211828)<br>
-
 # ATO DA MESA N° 31, DE 13 DE NOVEMBRO DE 2025
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso das atribuições que lhe confere o artigo 14, inciso II, alínea "f", do Regimento Interno, CONSIDERANDO a instrução constante nos autos do Processo Alesp Sem Papel n° 41.793/2025 e em vista das orientações consubstanciadas no Parecer n° 437-2/2025, da Procuradoria, que acolhe e cuja fundamentação adota, DECIDE:

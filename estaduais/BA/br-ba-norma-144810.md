@@ -1,6 +1,7 @@
 LEI Nº [14.724](https://www.legislabahia.ba.gov.br/documentos/lei-no-14724-de-17-de-maio-de-2024) DE 17 DE MAIO DE 2024
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [22.849](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22849-de-24-de-maio-de-2024) de 24 de maio de 2024: "Regulamenta a Lei nº [14.724](https://www.legislabahia.ba.gov.br/documentos/lei-no-14724-de-17-de-maio-de-2024), de 17 de maio de 2024, que dispõe sobre o abono extraordinário a ser destinado, exclusivamente no ano de 2024, aos profissionais do Magistério da Educação Básica do Estado da Bahia."
 
 Dispõe sobre o abono extraordinário a ser destinado, exclusivamente no ano de 2024, aos profissionais do Magistério da Educação Básica da Rede Pública do Estado.

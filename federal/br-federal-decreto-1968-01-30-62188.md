@@ -1,5 +1,3 @@
-###DEC-062188-0-000-30-01-1968@@@
-
 DECRETO Nº 62.188, DE 30 DE JANEIRO DE 1968.
 
 Autoriza o funcionamento da Faculdade de Engenharia de Operações da Universidade de Caxias do Sul.

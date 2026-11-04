@@ -1,5 +1,3 @@
-###DEC-078235-0-000-12-08-1976@@@
-
 DECRETO Nº 78.235, DE 12 DE AGOSTO DE 1976.
 
 Altera a redação dos artigos 2º e 3º do Decreto número 75.511, de 19 de março de 1975, que aprova a incorporação da Companhia Espírito Santo Meridional de Eletricidade pela Espírito Santo Centrais Elétricas S.A.

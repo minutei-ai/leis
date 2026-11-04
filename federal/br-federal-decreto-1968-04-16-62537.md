@@ -1,5 +1,3 @@
-###DEC-062537-0-000-16-04-1968@@@
-
 DECRETO Nº 62.537, DE 16 DE ABRIL DE 1968.
 
 Transfere do Govêrno do Estado do Paraná para a Companhia Paranaense de Energia Elétrica a concessão para produzir, transmitir e distribuir energia elétrica no distrito-sede do município de Mangueirinha, Estado do Paraná.

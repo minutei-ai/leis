@@ -1,7 +1,3 @@
-1
-
-###MPV-001184-0-000-23-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.184, DE 23 DE NOVEMBRO DE 1995.
 
 Cria a Gratificação de Desempenho de Atividade de Fiscalização, a Gratificação de Desempenho de Atividade de Proteção ao Vôo, e dá outras providências.

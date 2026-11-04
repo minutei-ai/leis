@@ -1,5 +1,3 @@
-###DEC-050427-0-000-10-04-1961@@@
-
 DECRETO Nº 50.427, DE 10 DE ABRIL DE 1961.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, frações ideais de domínio útil de terreno de marinha que menciona, no Estado da Guanabara.

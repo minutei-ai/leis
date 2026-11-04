@@ -2,16 +2,17 @@ Decreto Numerado n° 9.759 / 2020
 
 ![](/assets/brasao_goias.gif)
 
-**GOVERNO DO ESTADO DE GOIÁS**<br>
+**GOVERNO DO ESTADO DE GOIÁS**
+
 **Secretaria de Estado da Casa Civil**
 
-**DECRETO Nº 9.759, DE 30 DE** **NOVEMBRO DE 2020.**
+**DECRETO Nº 9.759, DE 30 DENOVEMBRO DE 2020.**
 
 \- Vide Decreto nº [9.919](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104254/decreto-9919), de 06-08-2021 - _Institui o Comitê Gestor do Sistema Estadual de Informações Cidadãs (CG/SEIC), com a definição de sua competência e de sua composição, e dá outras providências._  
 
 Regulamenta a Lei nº [20.896](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103571/lei-20896), de 5 de novembro de 2020, que institui o Sistema Estadual de Informações Cidadãs no âmbito da administração pública estadual.
 
-**OO** **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais, com fundamento no art. 37, IV, da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual-) , e tendo em vista o que consta do Processo nº 202018037003702,
+**OOGOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais, com fundamento no art. 37, IV, da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual-) , e tendo em vista o que consta do Processo nº 202018037003702,
 
 **DECRETA:**  
 

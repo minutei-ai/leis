@@ -1,5 +1,3 @@
-###DEC-057737-0-000-03-02-1966@@@
-
 DECRETO Nº 57.737, DE 3 DE FEVEREIRO DE 1966.
 
 Transfere a Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

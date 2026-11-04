@@ -1,4 +1,5 @@
-LEI Nº 23.523, DE 23 DE JUNHO DE 2025<br>
+LEI Nº 23.523, DE 23 DE JUNHO DE 2025
+
 \- [Vide Decreto nº 10.801, de 21-10-2025 - Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111445).
 
 Institui o Programa de Incentivo ao Atleta de Rendimento – PRÓ-GOIÁS ATLETA e dá outras providências.

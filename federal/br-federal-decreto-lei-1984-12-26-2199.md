@@ -1,5 +1,3 @@
-###DEL-002199-0-000-26-12-1984@@@
-
 # DECRETO-LEI Nº 2.199, DE 26 DE DEZEMBRO DE 1984.
 
 Dispõe sobre a incorporação da Gratificação de Desempenho de Função Essencial à Prestação Jurisdicional ao provento de aposentadoria.

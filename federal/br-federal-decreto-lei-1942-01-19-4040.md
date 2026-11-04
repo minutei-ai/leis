@@ -1,5 +1,3 @@
-###DEL-004040-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.040 – DE 19 DE JANEIRO DE 1942
 
 Dispõe sobre o recurso “ex-officio” dos Delegados Regionais do Trabalho nos processos de multas

@@ -1,5 +1,3 @@
-###DEC-080607-0-000-24-10-1977@@@
-
 DECRETO Nº 80.607, DE 24 DE OUTUBRO DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de João Pessoa, Estado da Paraíba, e dá outras providências.

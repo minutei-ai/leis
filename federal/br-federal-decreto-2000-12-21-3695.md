@@ -1,5 +1,3 @@
-###DEC-003695-0-000-21-12-2000@@@
-
 DECRETO Nº 3.695, DE 21 DE DEZEMBRO DE 2000.
 
 Cria o Subsistema de Inteligência de Segurança Publica, no âmbito do Sistema Brasileiro de Inteligência, e dá outras providências.

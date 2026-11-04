@@ -1,5 +1,3 @@
-###DEC-002632-0-000-19-06-1998@@@
-
 # DECREtRO Nº 2.632, DE 19 DE JUNHO DE 1998
 
 Dispõe sobre o Sistema Nacional Antidrogas, e dá outras providências.

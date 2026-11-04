@@ -1,5 +1,3 @@
-###DEC-076272-0-000-15-09-1975@@@
-
 DECRETO Nº 76.272 - DE 15 DE SETEMBRO DE 1975
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz, no Estado de São Paulo.

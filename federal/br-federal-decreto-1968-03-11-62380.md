@@ -1,5 +1,3 @@
-###DEC-062380-0-000-11-03-1968@@@
-
 DECRETO Nº 62.380, DE 11 DE MARÇO DE 1968.
 
 Dispõe sôbre o aproveitamento da Faculdade de Filosofia, Ciências e Letras de Natal - RGN.

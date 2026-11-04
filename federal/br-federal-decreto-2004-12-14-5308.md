@@ -1,5 +1,3 @@
-###DEC-005308-0-000-14-12-2004@@@
-
 DECRETO Nº 5.308, DE 14 DE DEZEMBRO DE 2004
 
 Dispõe sobre a criação do Vice-Consulado do Brasil em Puerto Ayacucho, República Bolivariana da Venezuela.

@@ -1,5 +1,3 @@
-###DEC-004459-0-000-05-11-2002@@@
-
 DECRETO Nº 4.459, DE 5 DE NOVEMBRO DE 2002
 
 Dispõe sobre a execução do Quadragésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica no 18 (Acordo sobre Subsídios e Medidas Compensatórias da Organização Mundial de Comércio), entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 31 de julho de 2002.

@@ -1,5 +1,3 @@
-###DEC-080261-0-000-31-08-1977@@@
-
 Decreto nº 80.261, de 31 de agosto de 1977.
 
 Concede a Olavo Bandeira, firma individual, o direito de lavrar calcário no Município de Gravatá, Estado de Pernambuco.

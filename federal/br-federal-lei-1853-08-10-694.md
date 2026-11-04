@@ -1,12 +1,10 @@
-###LEI-000694-0-000-10-08-1853@@@
+**LEI N. 694 - DE 10 DE AGOSTO DE 1853**
 
-<strong>LEI N. 694 - DE 10 DE AGOSTO DE 1853</strong>
-
-<em><strong>Fixa a Força Naval para o anno financeiro de 1854-1855.</strong></em>
+***Fixa a Força Naval para o anno financeiro de 1854-1855.***
 
 D. Pedro II, por Graça de Deus e Unanime Acclamação dos Povos, Imperador Constitucional e Defensor Perpetuo do Brazil: Fazemos saber a todos os Nossos Subditos que a Assembléa Geral Legislativa Decretou e Nós Queremos a Lei seguinte:
 
-<strong>Art.</strong> 1º A Força Naval, para o anno financeiro de 1854 a 1855, constará:
+**Art.** 1º A Força Naval, para o anno financeiro de 1854 a 1855, constará:
 
 § 1º Em circumstancias ordinarias, de 3.000 praças de todas as classes, embarcada; em navios armados e transportes; e de 5.000 em circumstancias extraordinarias.
 
@@ -16,9 +14,9 @@ D. Pedro II, por Graça de Deus e Unanime Acclamação dos Povos, Imperador Cons
 
 § 4º Do batalhão naval, com oito companhias de 150 praças cada uma, conforme o respectivo Regulamento.
 
-<strong>Art.</strong> 2º A força acima mencionada será, preenchida pelos meios autorisados no art. 4º da Lei n. 613 de 21 de Agosto de 1851.
+**Art.** 2º A força acima mencionada será, preenchida pelos meios autorisados no art. 4º da Lei n. 613 de 21 de Agosto de 1851.
 
-<strong>Art.</strong> 3º Ficam revogadas quaesquer disposições em contrario.
+**Art.** 3º Ficam revogadas quaesquer disposições em contrario.
 
 Mandamos por tanto a todas as autoridades, a quem o conhecimento e execução da referida Lei pertencer, que a cumpram, e façam cumprir e guardar tão inteiramente, como nella se contém. O Secretario de Estado dos Negocios da Marinha a faça imprimir, publicar e correr. Palacio do Rio de Janeiro em 10 de Agosto de 1853, 32º da Independencia e do Imperio.
 

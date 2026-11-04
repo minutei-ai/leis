@@ -1,5 +1,3 @@
-###DEC-057956-0-000-10-03-1966@@@
-
 DECRETO Nº 57.956, de 10 de março de 1966.
 
 Concede a Comércio, Indústrias Rurais F. Bezerra S.A, autorização para funcionar como empresa de mineração.

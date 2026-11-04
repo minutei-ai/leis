@@ -1,5 +1,3 @@
-###DEC-091434-0-000-12-07-1985@@@
-
 DECRETO Nº 91.434, DE 12 DE JULHO DE 1985
 
 Dá nova redação ao artigo 4º do Decreto nº 91.238, de 08 de maio de 1985, que cria o Grupo de Trabalho Interministerial para Coordenação das Ações na Área da Alimentação.

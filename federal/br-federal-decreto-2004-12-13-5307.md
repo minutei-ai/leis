@@ -1,5 +1,3 @@
-###DEC-005307-0-000-13-12-2004@@@
-
 DECRETO Nº 5.307 DE 13 DE DEZEMBRO DE 2004
 
 Dispõe sobre a criação do Consulado-Geral do Brasil em Atlanta, Estados Unidos da América.

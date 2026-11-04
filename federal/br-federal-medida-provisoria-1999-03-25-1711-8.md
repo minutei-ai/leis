@@ -1,5 +1,3 @@
-###MPV-001711-0-008-25-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.711-8, DE 25 MARÇO DE 1999.
 
 Acresce dispositivos às Leis nºs 9.526, de 8 de dezembro de 1997, e 9.496, de 11 de setembro de 1997.

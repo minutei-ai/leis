@@ -1,5 +1,3 @@
-###DEL-007392-0-000-16-03-1945@@@
-
 DECRETO-LEI N. 7.392 – DE 16 DE MARÇO DE 1945
 
 Abre ao Conselho de Segurança Nacional o crédito especial de Cr$ 12.000.000,00, para despesas da Comissão de Planejamento Econômico, e dá outras providências

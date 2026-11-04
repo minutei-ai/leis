@@ -1,5 +1,3 @@
-###DEC-091816-0-000-21-10-1985@@@
-
 Decreto nº 91.816, de 21 de outubro de 1985
 
 Inclui, na Constituição do Conselho de Administração da Superintendência da Zona Franca de Manaus (SUFRAMA), constituído pelo Decreto nº 88 142, de 2.3.83 alterado pelos Decretos nºs 89 179, de 14.12.83 e 91 197, de 16.4.85, os membros que menciona.

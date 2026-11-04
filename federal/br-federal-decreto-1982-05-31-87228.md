@@ -1,5 +1,3 @@
-###DEC-087228-0-000-31-05-1982@@@
-
 Decreto nº 87.228, de 31 de maio de 1982
 
 Inclui na Comissão Nacional Sementes e Mudas representante da Comissão de Financiamento da Produção.

@@ -1,5 +1,3 @@
-###DEC-045011-0-000-04-12-1958@@@
-
 DECRETO Nº 45.011, DE 04 DE DEZEMBRO DE 1958.
 
 Autoriza a S. A .Central Elétrica Rio Claro a ampliar suas instalações.

@@ -1,5 +1,3 @@
-###DEC-071942-0-000-19-03-1973@@@
-
 DECRETO Nº 71.942, DE 19 DE MARÇO DE 1973.
 
 Encampa bens e instalações que constituem a usina termo-elétrica de Alegrete, da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL.

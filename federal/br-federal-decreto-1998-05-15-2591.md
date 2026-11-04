@@ -1,5 +1,3 @@
-###DEC-002591-0-000-15-05-1998@@@
-
 DECRETO Nº 2.591, DE 15 DE MAIO DE 1998
 
 Dispõe sobre a composição do capital de empresas prestadoras de serviços de telecomunicações.

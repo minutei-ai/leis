@@ -16,26 +16,216 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 146.869,52</td><td style=" width:85px;    ">R$ 253.298,14</td><td style=" width:85px;    ">R$ 400.167,66</td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3178</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 326.196,90</td><td style=" width:85px;    ">R$ 19.174,35</td><td style=" width:85px;    ">R$ 345.371,25</td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 16.473,86</td><td style=" width:85px;    ">R$ 920.763,66</td><td style=" width:85px;    ">R$ 937.237,52</td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 399.794,62</td><td style=" width:85px;    ">R$ 14.384,98</td><td style=" width:85px;    ">R$ 414.179,60</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 920.763,66</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 286.857,47</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 1.207.621,13</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+17000280
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 146.869,52
+
+R$ 253.298,14
+
+R$ 400.167,66
+
+ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3178
+
+17000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 326.196,90
+
+R$ 19.174,35
+
+R$ 345.371,25
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 16.473,86
+
+R$ 920.763,66
+
+R$ 937.237,52
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+17000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 399.794,62
+
+R$ 14.384,98
+
+R$ 414.179,60
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 920.763,66
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 286.857,47
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 1.207.621,13
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 3.075.779,43</td><td style=" width:85px;    ">R$ 253.298,14</td><td style=" width:85px;    ">R$ 253.298,14</td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2351</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.749.553,91</td><td style=" width:85px;    ">R$ 19.174,35</td><td style=" width:85px;    ">R$ 19.174,35</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 10.830.695,42</td><td style=" width:85px;    ">R$ 920.763,66</td><td style=" width:85px;    ">R$ 920.763,66</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">17000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.125.421,28</td><td style=" width:85px;    ">R$ 14.384,98</td><td style=" width:85px;    ">R$ 14.384,98</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 920.763,66</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 286.857,47</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 1.207.621,13</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 920.763,66</td></tr><tr><td style=" width:340px;    ">17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA</td><td style=" width:340px;    ">R$ 286.857,47</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   "><b>TOTAL</b></td><td style=" width:340px;  height:19px;   ">R$ 1.207.621,13</td></tr></tbody></table>
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+17000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 3.075.779,43
+
+R$ 253.298,14
+
+R$ 253.298,14
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+17000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.749.553,91
+
+R$ 19.174,35
+
+R$ 19.174,35
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 10.830.695,42
+
+R$ 920.763,66
+
+R$ 920.763,66
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+17000280
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.125.421,28
+
+R$ 14.384,98
+
+R$ 14.384,98
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 920.763,66
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 286.857,47
+
+**TOTAL**
+
+R$ 1.207.621,13
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 920.763,66
+
+17000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA
+
+R$ 286.857,47
+
+**TOTAL**
+
+R$ 1.207.621,13

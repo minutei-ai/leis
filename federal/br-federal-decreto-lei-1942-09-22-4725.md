@@ -1,5 +1,3 @@
-###DEL-004725-0-000-22-09-1942@@@
-
 DECRETO-LEI N. 4.725 – DE 22 DE SETEMBRO DE 1942
 
 Reorganiza a Escola Profissional de Enfermeiros criada pelo decreto n. 791, de 27 de setembro de 1890, e dá outras providências

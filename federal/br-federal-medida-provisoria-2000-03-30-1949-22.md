@@ -1,5 +1,3 @@
-###MPV-001949-0-022-30-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.949-22, DE 30 de março DE 2000.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

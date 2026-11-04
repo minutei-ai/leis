@@ -1,5 +1,3 @@
-###MPV-002103-0-037-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.103-37, DE 26 DE JANEIRO DE 2001
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

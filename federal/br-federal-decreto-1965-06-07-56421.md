@@ -1,5 +1,3 @@
-###DEC-056421-0-000-07-06-1965@@@
-
 DECRETO Nº 56.421, DE 7 DE JUNHO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departaemnto Nacional de Estradas de Rodagem, área de terreno situada no Estado de São Paulo.

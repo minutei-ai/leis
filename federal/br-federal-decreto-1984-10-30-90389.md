@@ -1,5 +1,3 @@
-###DEC-090389-0-000-30-10-1984@@@
-
 Decreto nº 90.389, de 30 de outubro de 1984
 
 Outorga concessão à RÁDIO XAVANTES DE JACIARA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Jaciara, Estado do Mato Grosso.

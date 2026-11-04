@@ -1,7 +1,3 @@
-1
-
-###MPV-001100-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.100, DE 25 DE AGOSTO DE 1995.
 
 Reduz a alíquota do imposto de importação para os produtos que especifica e dá outras providências.

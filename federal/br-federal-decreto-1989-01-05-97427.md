@@ -1,5 +1,3 @@
-###DEC-097427-0-000-05-01-1989@@@
-
 DECRETO N° 97.427, DE 5 DE JANEIRO DE 1989
 
 Autoriza o funcionamento do curso de Farmácia do Centro de Ensino Superior do Pará.

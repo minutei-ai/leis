@@ -1,7 +1,3 @@
-1
-
-###DEC-001727-0-000-04-12-1995@@@
-
 DECRETO Nº 1.727 de 4 de dezembro de 1995.
 
 Convoca a X Conferência Nacional de Saúde e dá outras providências.

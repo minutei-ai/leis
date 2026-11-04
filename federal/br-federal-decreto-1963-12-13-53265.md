@@ -1,5 +1,3 @@
-###DEC-053265-0-000-13-12-1963@@@
-
 DECRETO Nº 53.265, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Julio Capua a pesquisar conchas calcárias no município de Magé, Estado do Rio de Janeiro.

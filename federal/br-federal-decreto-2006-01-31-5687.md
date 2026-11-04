@@ -1,5 +1,3 @@
-###DEC-005687-0-000-31-01-2006@@@
-
 DECRETO Nº 5.687, DE 31 DE JANEIRO DE 2006.
 
 Promulga a Convenção das Nações Unidas contra a Corrupção, adotada pela Assembléia-Geral das Nações Unidas em 31 de outubro de 2003 e assinada pelo Brasil em 9 de dezembro de 2003.

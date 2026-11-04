@@ -1,7 +1,3 @@
-1
-
-###DEC-001395-0-000-10-02-1995@@@
-
 # DECRETO Nº 1.395, DE 10 DE FEVEREIRO DE 1995
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Alcance Parcial ao amparo do artigo 25 do Tratado de Montevidéu de 1980 (Acordo nº 21), entre Brasil e Cuba, de 31 de outubro de 1994.

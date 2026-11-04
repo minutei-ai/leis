@@ -1,5 +1,3 @@
-###DEC-069204-0-000-15-09-1971@@@
-
 DECRETO Nº 69.204, DE 15 DE SETeMBRO DE 1971.
 
 Concede à Mineração Urandi S.A.. o direito de lavrar minério de manganês, no município de Caetinté, Estado da Bahia.

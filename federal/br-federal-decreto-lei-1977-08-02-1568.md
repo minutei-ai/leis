@@ -1,5 +1,3 @@
-###DEL-001568-0-000-02-08-1977@@@
-
 # DECRETO-LEI Nº 1.568, de 2 de agosto de 1977
 
 Concede isenção do IPI para produtos endoparasiticidas

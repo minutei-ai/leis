@@ -1,5 +1,3 @@
-###DEC-046001-0-000-15-05-1959@@@
-
 Decreto nº 46.001, de 15 de maio de 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital-social da Companhia de Seguros “Cruzeiro do Sul”

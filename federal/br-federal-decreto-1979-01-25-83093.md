@@ -1,5 +1,3 @@
-###DEC-083093-0-000-25-01-1979@@@
-
 DECRETO Nº 83.093, DE 25 DE JANEIRO DE 1979
 
 Altera disposições do Decreto nº 77.065, de 20 de janeiro de 1976, e dá outras providências.

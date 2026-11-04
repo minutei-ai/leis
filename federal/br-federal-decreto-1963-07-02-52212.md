@@ -1,5 +1,3 @@
-###DEC-052212-0-000-02-07-1963@@@
-
 DECRETO Nº 52.212, DE 2 DE JULHO DE 1963.
 
 Altera o Regulamento do Ensino Industrial, aprovado pelo Decreto nº 47.038, de 16 de outubro de 1959 e modificado pelos Decretos ns. 47.258, de 17 de novembro de 1959, 49.304, de 21 de novembro de 1960 e 615, de 20 de fevereiro de 1962.

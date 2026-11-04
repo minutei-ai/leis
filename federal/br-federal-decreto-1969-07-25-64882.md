@@ -1,5 +1,3 @@
-###DEC-064882-0-000-25-07-1969@@@
-
 DECRETO Nº 64.882 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto  número 24.845, de 20 de abril de 1948.

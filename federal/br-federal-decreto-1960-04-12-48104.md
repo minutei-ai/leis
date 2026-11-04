@@ -1,5 +1,3 @@
-###DEC-048104-0-000-12-04-1960@@@
-
 DECRETO Nº 48.104, DE 12 DE ABRIL DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério do Trabalho, Indústria e Comércio.

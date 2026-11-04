@@ -1,5 +1,3 @@
-###DEC-068714-0-000-04-06-1971@@@
-
 DECRETO Nº 68.714 - de 4 de junho de 1971.
 
 Concede permissão, em caráter permanente, à empresa Indústria Têxtil Cosmopolita S.A., sediada no Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos.

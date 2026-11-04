@@ -1,5 +1,3 @@
-###DEC-064654-0-000-06-06-1969@@@
-
 DECRETO Nº 64.654, DE 6 DE JUNHO DE 1969.
 
 Declara de utilidade pública o Liceu Salesiano São Gonçalo, com sede em Cuiabá, Estado de Mato Grosso.

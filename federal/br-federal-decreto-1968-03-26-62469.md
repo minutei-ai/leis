@@ -1,5 +1,3 @@
-###DEC-062469-0-000-26-03-1968@@@
-
 Decreto nº 62.469, de 26 de março de 1968.
 
 Declara de utilidade pública a “Fundação Cásper Líbero” com sede em São Paulo, Estado de São Paulo.

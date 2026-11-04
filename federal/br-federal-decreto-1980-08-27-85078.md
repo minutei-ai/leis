@@ -1,5 +1,3 @@
-###DEC-085078-0-000-27-08-1980@@@
-
 Decreto nº 85.078, de 27 de agosto de 1980.
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais que menciona, situados no Município de Brasiléia, Estado do Acre, compreendidos na área prioritária de reforma agrária, de que trata o Decreto nº 67.557, de 12 de novembro de 1970, alterado pelo Decreto nº 75.295, de 27 de janeiro de 1975, e cuja vigência foi prorrogada pelo Decreto nº 85.075/80.

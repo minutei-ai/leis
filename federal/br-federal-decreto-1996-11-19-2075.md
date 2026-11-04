@@ -1,7 +1,3 @@
-1
-
-###DEC-002075-0-000-19-11-1996@@@
-
 DECRETO Nº 2.075, DE 19 DE NOVEMBRO DE 1996.
 
 Dispõe sobre a execução do Acordo de Complementação Econômica, entre Brasil, Argentina, Paraguai, Uruguai e Chile, de 30 de setembro de 1996.

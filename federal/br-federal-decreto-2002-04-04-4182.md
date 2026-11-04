@@ -1,5 +1,3 @@
-###DEC-004182-0-000-04-04-2002@@@
-
 DECRETO Nº 4.182, DE 4 DE ABRIL DE 2002
 
 Cria a Câmara de Política Econômica, do Conselho de Governo.

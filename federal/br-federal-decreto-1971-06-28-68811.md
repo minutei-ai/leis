@@ -1,5 +1,3 @@
-###DEC-068811-0-000-28-06-1971@@@
-
 DECRETO Nº 68.811 - DE 28 DE JUNHO DE 1971.
 
 Dispõe sôbre alteração de distribuição de servidor do extinto Serviço de Alimentação da Previdência Social.

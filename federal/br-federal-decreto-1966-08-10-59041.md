@@ -1,5 +1,3 @@
-###DEC-059041-0-000-10-08-1966@@@
-
 Decreto nº 59.041, de 10 de agôsto de 1966.
 
 Acrescenta item ao art. 48, do Decreto nº 52.269, de 17 de julho de 1963, que alterou o regulamento ao Serviço de Identificação do Exército.

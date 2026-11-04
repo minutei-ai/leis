@@ -1,5 +1,3 @@
-###DEC-005148-0-000-21-07-2004@@@
-
 DECRETO Nº 5.148, DE 21 DE JULHO DE 2004
 
 Dá nova redação ao inciso I do art. 11 do Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto nº 4.418, de 11 de outubro de 2002.

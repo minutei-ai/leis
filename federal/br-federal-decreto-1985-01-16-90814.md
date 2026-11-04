@@ -1,5 +1,3 @@
-###DEC-090814-0-000-16-01-1985@@@
-
 Decreto nº 90.814, de 16 de janeiro de 1985
 
 Concede a Companhia Brasileira de Projetos Industriais - COBRAPI (GRUPO SIDERBRÁS), autorização para proceder a aumento de seu capital social.

@@ -1,5 +1,3 @@
-###DEC-068515-0-000-15-04-1971@@@
-
 DECRETO Nº 68.515 - DE 15 DE ABRIL de 1971.
 
 Altera a redação do Decreto número 63.109, de 16 de agosto de 1968.

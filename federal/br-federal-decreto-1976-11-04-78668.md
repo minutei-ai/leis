@@ -1,5 +1,3 @@
-###DEC-078668-0-000-04-11-1976@@@
-
 DECRETO Nº 78.668, DE 4 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Artes Práticas, da Faculdade de Auxilium de Filosofia, Ciências e Letras de Lins, com sede na cidade de Lins, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-061572-0-000-19-10-1967@@@
-
 DECRETO Nº 61.572, DE 19 DE OUTUBRO DE 1967.
 
 Retifica o art. 1º do Decreto número 1.575 de 30 de dezembro de 1962.

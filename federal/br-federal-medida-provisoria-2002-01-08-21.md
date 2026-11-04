@@ -1,8 +1,12 @@
-###MPV-000021-0-000-08-01-2002@@@
-
 MEDIDA PROVISÓRIA Nº 21, DE 8 DE janeiro DE 2002.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:15.75pt"><td style="width:202.35pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"></p></td><td style="width:237.5pt; vertical-align:top"><p class="Ementa" style="margin-right:0.4pt; margin-left:0pt; text-indent:10.3pt"><span>Institui o Auxílio-Aluno no âmbito do Projeto de Profissionalização dos Trabalhadores de Enfermagem - PROFAE.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:15.75pt"><td style="width:202.35pt; vertical-align:top">
+
+</td><td style="width:237.5pt; vertical-align:top">
+
+Institui o Auxílio-Aluno no âmbito do Projeto de Profissionalização dos Trabalhadores de Enfermagem - PROFAE.
+
+</td></tr></tbody></table>
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
 

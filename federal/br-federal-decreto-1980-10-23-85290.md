@@ -1,5 +1,3 @@
-###DEC-085290-0-000-23-10-1980@@@
-
 Decreto nº 85.290, de 23 de outubro de 1980.
 
 Autoriza a NUCLEBRÁS a constituir subsidiária para construção de usinas nucleoelétricas.

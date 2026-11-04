@@ -1,5 +1,3 @@
-###DEC-003117-0-000-13-07-1999@@@
-
 DECRETO Nº 3.117, DE 13 DE JULHO DE 1999
 
 Regulamenta a concessão de apoio financeiro aos Municípios que instituírem programa de garantia de renda mínima de que trata a Lei nº 9.533, de 10 de dezembro de 1997, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055033-0-000-18-11-1964@@@
-
 DECRETO Nº 55.033, DE 18 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Adonias Martins de Carvalho a pesquisar quartzito no município de Boqueira, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-008912-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.912 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre o aproveitamento do pessoal da Policlínica de Pescadores e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006003-0-000-28-12-2006@@@
-
 DECRETO Nº 6.003 DE 28 DE DEZEMBRO DE 2006.
 
 Regulamenta a arrecadação, a fiscalização e a cobrança da contribuição social do salário-educação, a que se referem o art. 212, § 5o, da Constituição, e as Leis nos 9.424, de 24 de dezembro de 1996, e 9.766, de 18 de dezembro de 1998, e dá outras providências.
@@ -111,5 +109,3 @@ LUIZ INÁCIO LULA DA SILVA
      Fernando Haddad
 
        Nelson Machado
-
-Este texto não substitui o publicado no DOU de 29.12.2006

@@ -1,5 +1,3 @@
-###DEC-050229-0-000-28-01-1961@@@
-
 DECRETO Nº 50.229, DE 28 DE JANEIRO DE 1961.
 
 Autoriza a cessão gratuita de bens que menciona, situados no Estado da Guanabara.

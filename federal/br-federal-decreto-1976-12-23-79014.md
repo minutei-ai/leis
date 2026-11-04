@@ -1,5 +1,3 @@
-###DEC-079014-0-000-23-12-1976@@@
-
 DECRETO Nº 79.014, DE 23 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Ciências e de Educação Artística, da Faculdade de Ciências, Letras e Educação de Presidente Prudente Estado de São Paulo.

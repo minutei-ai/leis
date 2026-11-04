@@ -1,5 +1,3 @@
-###DEC-064042-0-000-31-01-1969@@@
-
 DECRETO Nº 64.042, DE 31 DE JANEIRO DE 1969.
 
 Autoriza o funcionamento do Curso de Química Industrial da Faculdade de Química Industrial da Associação de Ensino de Ribeirão Preto - SP.

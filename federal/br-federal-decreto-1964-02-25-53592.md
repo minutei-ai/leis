@@ -1,5 +1,3 @@
-###DEC-053592-0-000-25-02-1964@@@
-
 DECRETO Nº 53.592, DE 25 DE FEVEREIRO DE 1964.
 
 Altera o Quadro do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE) e dá outras providências.

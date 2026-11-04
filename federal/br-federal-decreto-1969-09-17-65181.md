@@ -1,5 +1,3 @@
-###DEC-065181-0-000-17-09-1969@@@
-
 Decreto nº 65.181 - de 17 de setembro de 1969.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem da linha de transmissão que se estendera desde a Usina de Rasgão até a subestação do Pôrto Góis, no Estado de São Paulo.

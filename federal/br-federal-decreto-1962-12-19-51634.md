@@ -1,5 +1,3 @@
-###DEC-051634-0-000-19-12-1962@@@
-
 Decreto Nº 51.634, DE 19 DE DEZEMBRO DE 1962.
 
 Retifica o Decreto nº 152, de 16 de novembro de 1961, e dá outras providências.

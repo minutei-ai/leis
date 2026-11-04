@@ -1,5 +1,3 @@
-###DEC-056902-0-000-24-09-1965@@@
-
 DECRETO Nº 56.902, DE 24 DE SETEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no Município de Serra Talhada, no Estado de Pernambuco.
@@ -19,8 +17,6 @@ Brasília, 24 de setembro de 1965; 144º da Independência e 77º da República.
 H. CASTELLO BRANCO
 
 Juarez Távora
-
-###DEC-056902-0-000-24-09-1965@@@RET01+++
 
 DECRETO Nº 56.902, DE 24 DE SETEMBRO DE 1965.
 

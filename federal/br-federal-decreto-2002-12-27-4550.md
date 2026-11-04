@@ -1,5 +1,3 @@
-###DEC-004550-0-000-27-12-2002@@@
-
 DECRETO N. 4.550 – DE 27 DE DEZEMBRO DE 2002
 
 Regulamenta a comercialização de energia elétrica gerada pela Eletrobrás Termonuclear S/A – ELETRONUCLEAR, por ITAPU Binacional e dá outras providências.

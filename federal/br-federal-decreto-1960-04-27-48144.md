@@ -1,5 +1,3 @@
-###DEC-048144-0-000-27-04-1960@@@
-
 DECRETO Nº 48.144, DE 27 DE ABRIL DE 1960.
 
 Abre ao S.S.R. o crédito extraordinário de Cr$110.000.000,00 (cento e dez milhões de cruzeiros) para atender  ás despesas que especifica.

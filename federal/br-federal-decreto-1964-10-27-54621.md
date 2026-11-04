@@ -1,5 +1,3 @@
-###DEC-054621-0-000-27-10-1964@@@
-
 DECRETO Nº 54.621, DE 27 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Gonçalves Filho a pesquisar bauxita e minério de ferro no município de Ouro Prêto, Estado de Minas Gerais.

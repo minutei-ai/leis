@@ -1,5 +1,3 @@
-###DEC-049390-0-000-01-12-1960@@@
-
 DECRETO Nº 49.390, DE 1º DE DEZEMBRO DE 1960.
 
 Altera o Decreto nº 43.854, de 9 de junho de 1958.

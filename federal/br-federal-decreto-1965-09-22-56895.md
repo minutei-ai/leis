@@ -1,5 +1,3 @@
-###DEC-056895-0-000-22-09-1965@@@
-
 decreto nº 56.895, de 22 de setembro de 1965.
 
 Dispõe sôbre peculiaridades das instituições de previdência social, a que se refere o art. 110 da Lei nº 4.320 de 17 de março de 1964.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211421)<br>
-
 # LEI N° 18.206, DE 08 DE SETEMBRO DE 2025
 
 ## (Projeto de lei n° 409/2024, do Deputado Rogério Santos - MDB)

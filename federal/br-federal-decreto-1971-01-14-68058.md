@@ -1,5 +1,3 @@
-###DEC-068058-0-000-14-01-1971@@@
-
 Decreto nº 68.058, de 14 de janeiro de 1971.
 
 Declara de utilidade pública o Centro de Reabilitação Piracicaba, com sede em Piracicaba, Estado de São Paulo.

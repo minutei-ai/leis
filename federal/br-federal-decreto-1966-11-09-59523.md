@@ -1,5 +1,3 @@
-###DEC-059523-0-000-09-11-1966@@@
-
 DECRETO Nº 59.523, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar cianita e grafita no município de Minas Novas, Estado de Minas Gerais.

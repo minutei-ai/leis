@@ -1,5 +1,3 @@
-###DEC-047772-0-000-09-02-1960@@@
-
 DECRETO N.º 47.772, DE 9 DE FEVEREIRO DE 1960.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 600.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-098478-0-000-06-12-1989@@@
-
 DECRETO Nº 98.478, DE 6 DE DEZEMBRO DE 1989.
 
 Aprova o Plano Emergencial de Atenção à Saúde Yanomami, e dá outras providências.

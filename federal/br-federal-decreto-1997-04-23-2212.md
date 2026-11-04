@@ -1,5 +1,3 @@
-###DEC-002212-0-000-23-04-1997@@@
-
 DECRETO 2.212, DE 23 DE ABRIL DE 1997
 
 Dá nova redação ao art. 1º do Regulamento da Ordem de Rio Branco, aprovado pelo Decreto nº 66.434, de 10 de abril de 1970.

@@ -1,5 +1,3 @@
-###DEC-074471-0-000-28-08-1974@@@
-
 DECRETO Nº 74.471, DE 28 DE AGOSTO DE 1974.
 
 Cria o Consulado de Carreira em Caiena e extingue o Consulado Honorário.

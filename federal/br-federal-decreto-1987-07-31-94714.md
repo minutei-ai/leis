@@ -1,5 +1,3 @@
-###DEC-094714-0-000-31-07-1987@@@
-
 DECRETO Nº 94.714, DE 31 DE JULHO DE 1987.
 
 Revoga o Decreto nº 93.610, de 21 de novembro de 1986, que dispõe sobre a incorporação da Álcalis do Rio Grande do Norte S.A.-ALCANORTE pela Cia. Nacional de Álcalis S.A.

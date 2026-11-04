@@ -1,5 +1,3 @@
-###DEC-057156-0-000-03-11-1965@@@
-
 DECRETO Nº 57.156, DE 3 DE NOVEMBRO DE 1965.
 
 Baixa Normas Técnicas Especiais para a profilaxia da Brucelose e dá outras providências.

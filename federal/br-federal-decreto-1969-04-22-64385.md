@@ -1,5 +1,3 @@
-###DEC-064385-0-000-22-04-1969@@@
-
 DECRETO Nº 64.385, DE 22 DE ABRIL DE 1969.
 
 Regulamento o Decreto-lei nº 190, de 24 de fevereiro de 1967, que dispõe sôbre o despacho de embarcações e dá outras providências.

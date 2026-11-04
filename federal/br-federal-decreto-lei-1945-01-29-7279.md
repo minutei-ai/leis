@@ -1,5 +1,3 @@
-###DEL-007279-0-000-29-01-1945@@@
-
 DECRETO-LEI N. 7.279 – DE 29 DE JANEIRO DE 1945
 
 Prorroga o prazo a que se refere o art. 4º do Decreto-lei n.º 1.763, de 10 de novembro de 1939

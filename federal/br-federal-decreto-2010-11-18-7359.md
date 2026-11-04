@@ -1,5 +1,3 @@
-###DEC-007359-0-000-18-11-2010-PUB-01@@@
-
 DECRETO Nº 7.359, DE 18 DE NOVEMBRO DE 2010.
 
 Denomina Centro de Referência do Trabalhador Leonel Brizola o Centro de Referência do Trabalhador, unidade integrante da estrutura do Ministério do Trabalho e Emprego.

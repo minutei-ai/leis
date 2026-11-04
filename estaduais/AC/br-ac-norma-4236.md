@@ -1,6 +1,10 @@
 > **LEI Nº 3.714, DE 11 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o fornecimento de máscara de proteção, luvas, produtos de higiene e outros recursos necessários ao desempenho da função aos funcionários, colaboradores e gerentes de empresas que prestam atendimento de serviços de funerárias.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o fornecimento de máscara de proteção, luvas, produtos de higiene e outros recursos necessários ao desempenho da função aos funcionários, colaboradores e gerentes de empresas que prestam atendimento de serviços de funerárias.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

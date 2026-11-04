@@ -1,5 +1,3 @@
-###DEC-049191-0-000-09-11-1960@@@
-
 Decreto nº 49.191, de 9 de novembro de 1960.
 
 Autoriza a Sociedade Comercial e Industrial Brasília Ltda a comprar pedras preciosas.

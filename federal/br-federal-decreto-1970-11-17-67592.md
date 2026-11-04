@@ -1,5 +1,3 @@
-###DEC-067592-0-000-17-11-1970@@@
-
 DECRETO Nº 67.592, DE 17 DE NOVEMBRO DE 1970.
 
 Revoga o Decreto nº 35.447-A, de 30 de abril de 1954, e dá outras providências.

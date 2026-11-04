@@ -1,5 +1,3 @@
-###DEC-082559-0-000-01-11-1978@@@
-
 Decreto nº 82.559, de 01 de novembro de 1978.
 
 Declara a caducidade do Manifesto de Mina que menciona.

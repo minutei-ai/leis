@@ -1,5 +1,3 @@
-###DEC-095964-0-000-25-04-1988@@@
-
 DECRETO N° 95.964, DE 25 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO CAPITAL DO TRIÂNGULO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Patrocínio, Estado de Minas Gerais.

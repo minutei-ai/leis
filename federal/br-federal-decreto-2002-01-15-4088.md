@@ -1,5 +1,3 @@
-###DEC-004088-0-000-15-01-2002@@@
-
 DECRETO Nº 4.088, DE 15 DE JANEIRO DE 2002.
 
 Revoga Decretos de alteração da Nomenclatura Comum do MERCOSUL (NCM) e da Tarifa Externa Comum (TEC).

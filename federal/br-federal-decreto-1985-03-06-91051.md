@@ -1,5 +1,3 @@
-###DEC-091051-0-000-06-03-1985@@@
-
 DECRETO Nº 91.051, DE 06 DE MARÇO DE 1985
 
 Dispõe sobre o limite do Capital Autorizado da Petrobrás Mineração S.A. - PETROMISA.

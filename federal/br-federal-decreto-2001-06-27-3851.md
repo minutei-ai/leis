@@ -1,5 +1,3 @@
-###DEC-003851-0-000-27-06-2001@@@
-
 DECRETO Nº 3.851, DE 27 DE JUNHO DE 2001
 
 Aprova o Estatuto da Caixa Econômica Federal ‑ CEF, e dá outras providências

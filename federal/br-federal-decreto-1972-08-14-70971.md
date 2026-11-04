@@ -1,5 +1,3 @@
-###DEC-070971-0-000-14-08-1972@@@
-
 DECRETO Nº 70.971, DE 14 DE AGOSTO DE 1972.
 
 Concede reconhecimento à Faculdade de Direito "Padre Anchieta", de Jundiaí - SP.

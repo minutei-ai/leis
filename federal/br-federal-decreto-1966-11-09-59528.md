@@ -1,5 +1,3 @@
-###DEC-059528-0-000-09-11-1966@@@
-
 DECRETO Nº 59.528, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza a firma Caraíba Mineração e Metalurgia S.A. a pesquisar minério de cobre no Município de Curaçá, Estado da Bahia.

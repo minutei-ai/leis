@@ -1,5 +1,3 @@
-###DEC-088256-0-000-25-04-1983@@@
-
 DECRETO Nº 88.256, DE 25 DE ABRIL DE 1983.
 
 Autoriza o aumento do capital da USIMINAS MECÂNICA S.A., por subscrição e integralização em dinheiro.

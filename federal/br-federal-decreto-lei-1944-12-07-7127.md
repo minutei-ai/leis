@@ -1,5 +1,3 @@
-###DEL-007127-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.127 – DE 7 DE DEZEMBRO DE 1944
 
 Aprova o Acôrdo celebrado em 30 de novembro de 1944, entre os Govêrnos da União e o do Estado de São Paulo

@@ -1,5 +1,3 @@
-###DEC-051699-0-000-08-02-1963@@@
-
 Decreto nº 51.699, de 8 de fevereiro de 1963.
 
 Cria a 5ª Companhia de Polícia e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089131-0-000-07-12-1983@@@
-
 Decreto nº 89.131, de 07 de dezembro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de trechos de linha de transmissão da CESP-Companhia Energética de São Paulo, no Estado de São Paulo.

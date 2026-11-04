@@ -1,5 +1,3 @@
-###DEC-049068-0-000-08-10-1960@@@
-
 DECRETO Nº 49.068, DE 8 DE OUTUBRO DE 1960.
 
 Outorga à Prefeitura Municipal de Descanso concessão para a aproveitamento de energia hidráulica do Salto do Famoso no rio Famoso, situado no primeiro distrito do município de Descanso, Estado de Santa Catarina.

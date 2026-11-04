@@ -1,5 +1,3 @@
-###DEL-006152-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.152 – DE 30 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 8.100,00, para pagamento de ajuda de custo pela Estrada de Ferro Central do Rio Grande do Norte

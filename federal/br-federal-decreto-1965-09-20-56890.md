@@ -1,5 +1,3 @@
-###DEC-056890-0-000-20-09-1965@@@
-
 DECRETO Nº 56.890, DE 20 DE SETEMBRO DE 1965.
 
 Concede à Mineração Triângulo S.A., autorização para funcionar como emprêsa de mineração.

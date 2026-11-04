@@ -1,5 +1,3 @@
-###DEC-087478-0-000-16-08-1982@@@
-
 decreto nº 87.478, de 16 de agosto de 1982
 
 Suspende a criação de entidades fechadas de previdência privada no âmbito da Administração Federal e fundações criadas por lei federal, e dá outras providências.

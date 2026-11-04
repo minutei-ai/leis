@@ -1,5 +1,3 @@
-###DEC-058383-0-000-10-05-1966@@@
-
 DECRETO Nº 58.383, de 10 de maio de 1966.
 
 Outorgada concessão à Rádio Progresso de Juazeiro S.A. para instalar uma emissora de radiodifusão sonora, na cidade de Juazeiro do Norte, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-077235-0-000-25-02-1976@@@
-
 DECRETO Nº 77.235, DE 25 DE FEVEREIRO DE 1976.
 
 Transfere da Companhia Força e Luz de Centralina para Centrais Elétricas de Minas Gerais S.A. - CEMIG, a concessão para produzir, transmitir e distribuir energia elétrica no Município de Centralina, e no Distrito de Araporã, pertencente ao Município de Tupciguara, no Estado de Minas Gerais, e dá outras providências.

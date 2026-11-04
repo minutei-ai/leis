@@ -1,5 +1,3 @@
-###DEC-002763-0-000-31-08-1998@@@
-
 DECRETO Nº 2.763, DE 31 DE AGOSTO DE 1998
 
 Dispõe sobre a transferência de concessão ou permissão ou do controle societário da concessionária ou da permissionária prestadora de serviços em terminais alfandegados de uso público e dá outras providências.

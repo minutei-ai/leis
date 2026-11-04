@@ -1,5 +1,3 @@
-###DEC-082475-0-000-23-10-1978@@@
-
 Decreto nº 82.475, de 23 de outubro de 1978.
 
 Autoriza o funcionamento da faculdade de administração de Petrolina, Estado de Pernambuco.

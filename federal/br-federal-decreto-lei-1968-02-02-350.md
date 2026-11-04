@@ -1,5 +1,3 @@
-###DEL-000350-0-000-02-02-1968@@@
-
 DECRETO-LEI Nº 350, 02 DE FEVEREIRO DE 1968
 
 Altera a legislação do Impôsto de Renda e dá outras providências.

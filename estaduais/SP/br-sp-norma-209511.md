@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209511)<br>
-
 # DECRETO N° 68.573, DE 29 DE MAIO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Jaboticabal, o imóvel que especifica._

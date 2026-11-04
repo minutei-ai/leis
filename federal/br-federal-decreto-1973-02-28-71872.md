@@ -1,5 +1,3 @@
-###DEC-071872-0-000-28-02-1973@@@
-
 DECRETO Nº 71.872, DE 28 DE FEVEREIRO DE 1973.
 
 Muda a sede de Organizações Militares e dá outras providências.

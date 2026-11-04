@@ -1,5 +1,3 @@
-###DEC-094063-0-000-27-02-1987@@@
-
 DECRETO N° 94.063, DE 27 DE FEVEREIRO DE 1987
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra abrangida pelo Projeto de Irrigação "BAIXO AÇU", nos Municípios de Ipanguaçu, Afonso Bezerra e Alto do Rodrigues, Estado do Rio Grande do Norte, para a execução do Programa de Irrigação do Nordeste (PROINE), e dá outras providências.

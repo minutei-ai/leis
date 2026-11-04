@@ -1,5 +1,3 @@
-###DEC-092633-0-000-05-05-1986@@@
-
 DECRETO Nº 92.633, DE 5 DE MAIO DE 1986
 
 Autoriza a Telecomunicações Brasileiras S.A. - TELEBRÁS e suas controladas, a promoverem aumento de capital social.

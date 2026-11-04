@@ -1,5 +1,3 @@
-###DEC-068865-0-000-05-07-1971@@@
-
 DECRETO Nº 68.865, de 5 de julho de 1971.
 
 Retificar o artigo 1º do Decreto número 47.008, de 13 de outubro de 1959.

@@ -1,5 +1,3 @@
-###DEC-052529-0-000-27-09-1963@@@
-
 DECRETO Nº 52.529, DE 27 DE SETEMBRO DE 1963.
 
 Abre, ao Ministério da Indústria e do Comércio, o crédito especial de Cr$75.000.000,00 (setenta e cinco milhões de cruzeiros) para o fim que especifica.
@@ -19,8 +17,6 @@ João Goulart
 Egydio Michaelsen
 
 Carvalho Pinto
-
-###DEC-052529-0-000-27-09-1963@@@RET01+++
 
 DECRETO Nº 52.529, DE 27 DE SETEMBRO DE 1963.
 

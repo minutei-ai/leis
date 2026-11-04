@@ -1,5 +1,3 @@
-###DEC-091605-0-000-02-09-1985@@@
-
 Decreto nº 91.605, de 2 de setembro de 1985.
 
 Altera a composição da Comissão  Provisória de Estudos Constitucionais.

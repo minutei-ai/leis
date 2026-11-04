@@ -1,5 +1,3 @@
-###DEL-008014-0-000-29-09-1945@@@
-
 DECRETO-LEI N. 8.014 – DE 29 DE SETEMBRO DE 1945
 
 Cria o “Arquivo Geral da Aeronáutica” e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-082312-0-000-25-09-1978@@@
-
 Decreto nº 8.312, de 25 de setembro de 1978.
 
 Concede reconhecimento aos cursos de ciências Econômicas, de Ciências Contábeis e de Administração da Faculdade de Ciências Econômicas, Contábeis e de Administração Professor De Plácido e Silva, com sede na cidade de Curitiba, Estado do Paraná.

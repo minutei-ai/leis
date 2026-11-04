@@ -1,7 +1,3 @@
-1
-
-###DEC-000635-0-000-21-08-1992@@@
-
 DECRETO N° 635, DE 21 DE AGOSTO DE 1992
 
 Promulga a Convenção de Paris para a Proteção da Propriedade Industrial, revista em Estocolmo a 14 de julho de 1967.

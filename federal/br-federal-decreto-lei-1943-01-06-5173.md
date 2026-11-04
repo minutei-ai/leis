@@ -1,5 +1,3 @@
-###DEL-005173-0-000-06-01-1943@@@
-
 DECRETO–LEI N. 5.173 – DE 6 DE JANEIRO DE 1943
 
 Cria a 7ª Companhia de Engenhos da 7ª Divisão de Infantaria

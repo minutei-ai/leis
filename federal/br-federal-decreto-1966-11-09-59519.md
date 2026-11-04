@@ -1,5 +1,3 @@
-###DEC-059519-0-000-09-11-1966@@@
-
 DECRETO Nº 59.519, DE 9 DE NOVEMBRO DE1966.
 
 Autoriza o cidadão brasileiro Arthur Wigder Kauffmann a pesquisar feldspato e quartzo, no município de São Sebastião, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-007480-0-000-19-04-1945@@@
-
 DECRETO-LEI N. 7.480 – DE 19 DE ABRIL DE 1945
 
 Aceita a doação feita à União de um terreno de propriedade do Tiro de Guerra nº 67, situado na Cidade de São Sebastião do Paraíso, no Estado de Minas Gerais

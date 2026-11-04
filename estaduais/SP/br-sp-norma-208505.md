@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208505)<br>
-
 # DECRETO N° 67.941, DE 15 DE SETEMBRO DE 2023
 
 ### _Institui o Provão Paulista Seriado, no âmbito do Sistema de Avaliação do Rendimento Escolar do Estado de São Paulo - SARESP, e dá providências correlatas._

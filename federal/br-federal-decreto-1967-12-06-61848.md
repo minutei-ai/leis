@@ -1,5 +1,3 @@
-###DEC-061848-0-000-06-12-1967@@@
-
 Decreto nº 61.848, de 6 de dezembro de 1967.
 
 Altera o Regulamento do Curso de Comunicações e Proteção ao Vôo.

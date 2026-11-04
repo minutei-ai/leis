@@ -1,5 +1,3 @@
-###DEC-083677-0-000-03-07-1979@@@
-
 Decreto nº 83.677, de 03 de julho de 1979.
 
 Concede reconhecimento as habilitações, licenciatura de 1º grau em Ciências e licenciatura plena em Matemática do curso de Ciências da Universidade Católica de Petrópolis, Estado do Rio de Janeiro.

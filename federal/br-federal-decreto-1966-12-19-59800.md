@@ -1,5 +1,3 @@
-###DEC-059800-0-000-19-12-1966@@@
-
 DECRETO Nº 59.800, DE 19 DE DEZEMBRO DE 1966.
 
 Autoriza a firma Cimento Aratu S.A. a pesquisar areia quartzosa no Município de Simões Filho, Estado da Bahia.

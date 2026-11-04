@@ -1,7 +1,3 @@
-1
-
-###DEC-000787-0-000-30-03-1993@@@
-
 DECRETO N° 787, DE 30 DE MARÇO DE 1993
 
 Institui regime especial de preço para os consumidores de Gás Liquefeito de Petróleo definidos como de baixa renda.

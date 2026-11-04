@@ -1,5 +1,3 @@
-###DEC-053576-0-000-21-02-1964@@@
-
 DECRETO Nº 53.576, de 21 de fevereiro de 1964.
 
 Declara de utilidade pública, para o fim de desapropriação as ações do Material Ferroviário S. A. - MAFERSA.

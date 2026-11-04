@@ -1,5 +1,3 @@
-###DEC-048466-0-000-07-07-1960@@@
-
 DECRETO Nº 48.466, DE 7 DE JULHO DE 1960.
 
 Suprime cargos extintos do Quadro Suplementar do Ministério do Trabalho, Indústria e Comércio.

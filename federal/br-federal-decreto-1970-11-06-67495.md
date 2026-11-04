@@ -1,5 +1,3 @@
-###DEC-067495-0-000-06-11-1970@@@
-
 decreto nº 67.495, de 6 de novembro de 1970.
 
 Declara de utilidade pública o Educandário São Gabriel de Nossa Senhora das Dores, com sede em São Vicente, Estado de São Paulo.

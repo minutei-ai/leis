@@ -1,5 +1,3 @@
-###DEC-069039-0-000-09-08-1971@@@
-
 DECRETO Nº 69.039, DE 9 DE AGôSTO DE 1971.
 
 Concede reconhecimento à Faculdade de Direito de Barra Mansa, Estado do Rio de Janeiro.

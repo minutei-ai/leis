@@ -16,58 +16,456 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 5.402.626,34</td><td style=" width:85px;    ">R$ 1.080.191,44</td><td style=" width:85px;    ">R$ 6.482.817,78</td></tr></tbody></table>
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">14 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 661.083,20</td><td style=" width:85px;    ">R$ 151.587,84</td><td style=" width:85px;    ">R$ 812.671,04</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4000 - SECRETARIA-GERAL DE GOVERNO</b><br>4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 523.007,08</td><td style=" width:85px;    ">R$ 940.000,00</td><td style=" width:85px;    ">R$ 1.463.007,08</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA</b><br>4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PROMOVER ESTUDOS DE &nbsp;PARCERIAS PÚBLICO-PRIVADAS (PPP) PARA A IMPLANTAÇÃO DE PROJETOS DE SANEAMENTO</td><td style=" width:85px;    ">17 512 1050 3320</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 33.963,85</td><td style=" width:85px;    ">R$ 33.963,85</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3190-INDUSTRIA QUIMICA DO ESTADO DE GOIAS S A IQUEGO</b></td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">10 122 4200 4243</td><td style=" width:85px;    ">15010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 185.424,42</td><td style=" width:85px;    ">R$ 300.000,00</td><td style=" width:85px;    ">R$ 485.424,42</td></tr></tbody></table>
+**SALDO ATUALIZADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 1.125.551,69</td></tr><tr><td style=" width:340px;    ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style=" width:340px;    ">R$ 300.000,00</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 1.080.191,44</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 2.505.743,13</td></tr></tbody></table>
+06 181 1051 2352
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 5.402.626,34
+
+R$ 1.080.191,44
+
+R$ 6.482.817,78
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+14 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 661.083,20
+
+R$ 151.587,84
+
+R$ 812.671,04
+
+**4000 - SECRETARIA-GERAL DE GOVERNO**
+4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 523.007,08
+
+R$ 940.000,00
+
+R$ 1.463.007,08
+
+**4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA**
+4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PROMOVER ESTUDOS DE  PARCERIAS PÚBLICO-PRIVADAS (PPP) PARA A IMPLANTAÇÃO DE PROJETOS DE SANEAMENTO
+
+17 512 1050 3320
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 33.963,85
+
+R$ 33.963,85
+
+**3190-INDUSTRIA QUIMICA DO ESTADO DE GOIAS S A IQUEGO**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+10 122 4200 4243
+
+15010220
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 185.424,42
+
+R$ 300.000,00
+
+R$ 485.424,42
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.125.551,69
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 300.000,00
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 1.080.191,44
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 2.505.743,13
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3178</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 485.418,61</td><td style=" width:85px;    ">R$ 137.025,63</td><td style=" width:85px;    ">R$ 137.025,63</td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 874.764,10</td><td style=" width:85px;    ">R$ 843.747,97</td><td style=" width:85px;    ">R$ 843.747,97</td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 183 1051 3179</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 73.796,64</td><td style=" width:85px;    ">R$ 73.796,64</td><td style=" width:85px;    ">R$ 73.796,64</td></tr></tbody></table>
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;  height:19px;   ">06 122 4200 4243</td><td style=" width:85px;  height:19px;   ">17530161</td><td style=" width:85px;  height:19px;   ">90</td><td style=" width:85px;  height:19px;   ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;  height:19px;   ">R$ 2.930.050,13</td><td style=" width:85px;  height:19px;   ">R$ 25.621,20</td><td style=" width:85px;  height:19px;   ">R$ 25.621,20</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">REFORMA DE UNIDADE PRISIONAL</td><td style=" width:85px;    ">14 421 1007 3186</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 151.587,84</td><td style=" width:85px;    ">R$ 151.587,84</td><td style=" width:85px;    ">R$ 151.587,84</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4000 - SECRETARIA-GERAL DE GOVERNO</b><br>4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">IMPLANTAÇÃO DE INTERNET SEM FIO EM PONTOS TURÍSTICOS</td><td style=" width:85px;    ">15 451 1049 3345</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.326.769,28</td><td style=" width:85px;    ">R$ 940.000,00</td><td style=" width:85px;    ">R$ 940.000,00</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA</b><br>4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 639.831,96</td><td style=" width:85px;    ">R$ 33.963,85</td><td style=" width:85px;    ">R$ 33.963,85</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3190-INDUSTRIA QUIMICA DO ESTADO DE GOIAS S A IQUEGO</b></td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE CANABIDIOL</td><td style=" width:85px;    ">10 303 1043 2459</td><td style=" width:85px;    ">15010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 496.719,16</td><td style=" width:85px;    ">R$ 300.000,00</td><td style=" width:85px;    ">R$ 300.000,00</td></tr></tbody></table>
+ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+06 181 1051 3178
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="width: 340px; height: 19px; text-align: right;">R$ 1.125.551,69</td></tr><tr><td style=" width:340px;    ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style="width: 340px; text-align: right;">R$ 300.000,00</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style="width: 340px; text-align: right;">R$ 1.080.191,44</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style="width: 340px; text-align: right;">R$ 2.505.743,13</td></tr></tbody></table>
+17530161
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="width: 340px; height: 19px; text-align: right;">R$ 1.125.551,69</td></tr><tr><td style=" width:340px;    ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style="width: 340px; text-align: right;">R$ 300.000,00</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style="width: 340px; text-align: right;">R$ 1.080.191,44</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style="width: 340px; text-align: right;">R$ 2.505.743,13</td></tr></tbody></table>
+4 - INVESTIMENTOS
+
+R$ 485.418,61
+
+R$ 137.025,63
+
+R$ 137.025,63
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+17530161
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 874.764,10
+
+R$ 843.747,97
+
+R$ 843.747,97
+
+ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA
+
+06 183 1051 3179
+
+17530161
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 73.796,64
+
+R$ 73.796,64
+
+R$ 73.796,64
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.930.050,13
+
+R$ 25.621,20
+
+R$ 25.621,20
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+REFORMA DE UNIDADE PRISIONAL
+
+14 421 1007 3186
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 151.587,84
+
+R$ 151.587,84
+
+R$ 151.587,84
+
+**4000 - SECRETARIA-GERAL DE GOVERNO**
+4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+IMPLANTAÇÃO DE INTERNET SEM FIO EM PONTOS TURÍSTICOS
+
+15 451 1049 3345
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.326.769,28
+
+R$ 940.000,00
+
+R$ 940.000,00
+
+**4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA**
+4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 639.831,96
+
+R$ 33.963,85
+
+R$ 33.963,85
+
+**3190-INDUSTRIA QUIMICA DO ESTADO DE GOIAS S A IQUEGO**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+DISPONIBILIZAÇÃO DE CANABIDIOL
+
+10 303 1043 2459
+
+15010220
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 496.719,16
+
+R$ 300.000,00
+
+R$ 300.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.125.551,69
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 300.000,00
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 1.080.191,44
+
+**TOTAL**
+
+R$ 2.505.743,13
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.125.551,69
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 300.000,00
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 1.080.191,44
+
+**TOTAL**
+
+R$ 2.505.743,13

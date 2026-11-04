@@ -1,5 +1,3 @@
-###DEC-084828-0-000-23-06-1980@@@
-
 DECRETO Nº 84.828, DE 23 DE JUNHO DE 1980.
 
 Altera o Art. 1º do Decreto nº 76.311, de 19 de setembro de 1975, que dispõe sobre intervenção em área indígena no Território Federal de Roraima.

@@ -1,5 +1,3 @@
-###DEC-000000-0-109-05-12-1822@@@
-
 DECRETO - DE 5 DE DEZEMBRO DE 1822
 
 Crêa uma commissão para tratar de todos os objectos concernentes á Repatição de Marinha.

@@ -1,5 +1,3 @@
-###DEC-084351-0-000-27-12-1979@@@
-
 Decreto nº 84.351 de 27 de dezembro de 1979.
 
 Autoriza o funcionamento da extensão, em Paracatu, do curso de Pedagogia, do Instituto de Educação de Minas Gerais.

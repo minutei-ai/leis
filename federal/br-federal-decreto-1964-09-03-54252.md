@@ -1,5 +1,3 @@
-###DEC-054252-0-000-03-09-1964@@@
-
 DECRETO Nº 54.252, DE 3 DE SETEMBRO DE 1964.
 
 Regulamenta as disposições dos artigos 1º a 4º e 14 da Lei nº 4.357, de 16 de julho de 1964.

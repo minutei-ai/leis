@@ -1,5 +1,3 @@
-###DEC-093936-0-000-15-01-1987@@@
-
 DECRETO N° 93.936, DE 15 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Barro Alto e Caixa D'Água ou São Joaquim da Soledade", integrantes da antiga Fazenda Santo Inácio, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situados no Município de Trajano de Morais, no Estado do Rio de Janeiro, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n ° 92.691, de 19 de maio de 1986, e dá outras providências.

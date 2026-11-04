@@ -1,5 +1,3 @@
-###DEC-082040-0-000-26-07-1978@@@
-
 DECRETO Nº 82.040, DE 26 DE JULHO DE 1978
 
 Concede reconhecimento ao curso de Ciências Econômicas da Faculdade de Ciências Econômicas do Crato, com sede na cidade do Crato, Estado do Ceará.

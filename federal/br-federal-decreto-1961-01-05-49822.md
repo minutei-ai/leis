@@ -1,5 +1,3 @@
-###DEC-049822-0-000-05-01-1961@@@
-
 DECRETO Nº 49.822, DE 5 DE JANEIRO DE 1961.
 
 Autoriza São João del Rei Indústria de Minérios Ltda., a lavrar areia quartzosa no município de São João del Rei, Estado de Minas Gerais.

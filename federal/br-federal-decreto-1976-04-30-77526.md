@@ -1,5 +1,3 @@
-###DEC-077526-0-000-30-04-1976@@@
-
 DECRETO N. 77.526 - DE 30 DE ABRIL DE 1976
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona situado no Estado do Rio Grande do Sul.

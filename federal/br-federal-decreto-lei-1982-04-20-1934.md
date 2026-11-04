@@ -1,5 +1,3 @@
-###DEL-001934-0-000-20-04-1982@@@
-
 # Decreto-lei nº 1.934, de 20 de abril de 1982
 
 Dispõe sobre a retribuição dos professores civis do Magistério da Aeronáutica, e dá outras providências.

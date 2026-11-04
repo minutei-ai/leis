@@ -1,5 +1,3 @@
-###DEC-051916-A-000-26-04-1963@@@
-
 DECRETO Nº 51.916-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Prefeitura Municipal de Ibiraci, Estado de Minas gerais, a encampar a concessão dos serviços locais de energia elétrica, de que é titular a Companhia Força e luz de Ibiraci.

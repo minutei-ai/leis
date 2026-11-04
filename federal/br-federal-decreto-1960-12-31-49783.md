@@ -1,5 +1,3 @@
-###DEC-049783-0-000-31-12-1960@@@
-
 DECRETO Nº 49.783, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o Govêrno do Estado de Sergipe a lavrar salgema, no município de Nossa Senhora do Socorro, Estado de Sergipe.

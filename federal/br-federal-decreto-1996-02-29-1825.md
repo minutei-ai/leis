@@ -1,5 +1,3 @@
-###DEC-001825-0-000-29-02-1996@@@
-
 DECRETO N° 1.825, DE 29 DE FEVEREIRO DE 1996
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério da Administração Federal e Reforma do Estado e dá outras providências.

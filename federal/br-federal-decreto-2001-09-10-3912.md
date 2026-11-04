@@ -1,5 +1,3 @@
-###DEC-003912-0-000-10-09-2001@@@
-
 DECRETO Nº 3.912, DE 10 DE SETEMBRO DE 2001
 
  Regulamenta as disposições relativas ao processo administrativo para identificação dos remanescentes das comunidades dos quilombos e para o reconhecimento, a delimitação, a demarcação, a titulação e o registro imobiliário das terras por eles ocupadas.

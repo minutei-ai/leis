@@ -1,5 +1,3 @@
-###DEC-079656-0-000-04-05-1977@@@
-
 DECRETO Nº 79.656, DE 4 DE MAIO DE 1977.
 
 Autoriza incorporação à Escola Paulista de Medicina, dos cursos atualmente Ministrados pela Escola Paulista de Enfermagem.

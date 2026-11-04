@@ -1,5 +1,3 @@
-###DEC-052123-0-000-17-06-1963@@@
-
 decreto nº 52.123, de 17 de junho de 1963.
 
 Altera a redação das letras a e b do art. 5ºdo Decreto nº 43.903, de 16 de junho de 1958 e dispõe sôbre a idade máxima dos candidatos ao Curso de Formação de Oficiais de Administração da Aeronáutica.

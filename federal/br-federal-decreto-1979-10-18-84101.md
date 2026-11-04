@@ -1,5 +1,3 @@
-###DEC-084101-0-000-18-10-1979@@@
-
 DECRETO Nº 84.101, DE 18 DE OUTUBRO DE 1979
 
 Disciplina e simplifica a instrução, alteração e baixa no Cadastro Geral de Contribuintes (C.G.C) e os atos correlatos de inscrição, registros ou arquivamentos nas Juntas Comerciais.

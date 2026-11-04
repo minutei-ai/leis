@@ -1,5 +1,3 @@
-###DEC-058866-0-000-20-07-1966@@@
-
 DECRETO Nº 58.866, DE 20 DE JULHO DE 1966.
 
 Declara de utilidade pública o “Colégio Nossa Senhora da Misericórdia”, com sede no Estado da Guanabara.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099096-0-000-09-03-1990@@@
-
 DECRETO Nº 99.096, DE 9 DE MARÇO DE 1990
 
 Homologa a demarcação administrativa da Área Indígena Yauarete 11, no Estado do Amazonas.

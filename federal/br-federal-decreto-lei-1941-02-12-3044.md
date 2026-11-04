@@ -1,5 +1,3 @@
-###DEL-003044-0-000-12-02-1941@@@
-
 DECRETO-LEI N. 3.044 – DE 12 DE FEVEREIRO DE 1941
 
 Dispõe sobre o Instituto Agronômico do Norte, criado pelo decreto-lei nº 1.245, de 4 de maio de 1939 e dá outras providências

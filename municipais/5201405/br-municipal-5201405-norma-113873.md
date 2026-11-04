@@ -88,18 +88,22 @@ ENTIDADE: INSTITUTO ESPERANÇA
 
 Titular: Ronny Marco Gomes de Almeida Vargas - CPF 879.XXX.XXX-XX                                    
 
-Suplente: Reginaldo Morais Soares - CPF 896.XXX.XXX-XX<br>
+Suplente: Reginaldo Morais Soares - CPF 896.XXX.XXX-XX
+
  
 
 Art. 2º. – Este Decreto entrará em vigor na data de sua publicação, revogando as disposições em contrário, retroagindo seus efeitos a 1° de janeiro de 2024.
 
 PREFEITURA MUNICIPAL DE APARECIDA DE GOIÂNIA, 20 de março de 2024.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-SULNARA SANTANA<br>
+SULNARA SANTANA
+
 Secretária de Assistência Social

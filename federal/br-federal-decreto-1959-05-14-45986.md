@@ -1,5 +1,3 @@
-###DEC-045986-0-000-14-05-1959@@@
-
 DECRETO Nº 45.986, DE 14 DE MAIO DE 1959.
 
 Cria uma função na parte suplementar da Tabela Única de Extranumerário-mensalista do Ministério da Fazenda.

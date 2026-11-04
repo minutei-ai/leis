@@ -1,5 +1,3 @@
-###DEC-002627-0-000-15-06-1998@@@
-
 DECRETO Nº 2.627, DE 15 DE JUNHO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº1.858, de 10 de abril de 1996.

@@ -1,5 +1,3 @@
-###DEC-061197-0-000-22-08-1967@@@
-
 DECRETO Nº 61.197, DE 22 DE AGÔSTO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Companhia Fôrça e Luz Marianense no município de Acaiaca, Estado de Minas Gerais, outorga concessão à Centrais Elétricas de Minas Gerais S.A. no referido município e dá outras providências.

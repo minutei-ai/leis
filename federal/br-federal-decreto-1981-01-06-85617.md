@@ -1,5 +1,3 @@
-###DEC-085617-0-000-06-01-1981@@@
-
 Decreto nº 85.617, de 06 de janeiro de 1981
 
 Autoriza o aumento de potência da RÁDIO DIFUSORA MARAVILHA LTDA., na cidade de Maravilha, Estado de Santa Catarina.

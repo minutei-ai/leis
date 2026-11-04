@@ -1,5 +1,3 @@
-###MPV-001769-0-053-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.769-53, DE 13 DE JANEIRO DE 1999.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

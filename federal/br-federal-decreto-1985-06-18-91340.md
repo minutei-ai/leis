@@ -1,5 +1,3 @@
-###DEC-091340-0-000-18-06-1985@@@
-
 Decreto nº 91.340, de 18 de junho de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra e benfeitoria, necessária à implantação de estação transformadora de distribuição Embu, da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

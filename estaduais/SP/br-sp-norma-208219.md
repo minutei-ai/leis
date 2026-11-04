@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208219)<br>
-
 # DECRETO N° 67.772, DE 24 DE JUNHO DE 2023
 
 ### _Institui a Medalha Comemorativa ao Cinquentenário do 9° Batalhão de Polícia Militar do Interior (9° BPM/I) e dá providências correlatas._

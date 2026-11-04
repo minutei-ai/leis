@@ -1,5 +1,3 @@
-###DEC-068161-0-000-03-02-1971@@@
-
 decreto nº 68.161, de 3 de Fevereiro de 1971.
 
 Dispõe sobre a prorrogação do prazo para funcionamento no País concedido aos bancos estrangeiros.

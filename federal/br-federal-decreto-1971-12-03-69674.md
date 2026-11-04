@@ -1,5 +1,3 @@
-###DEC-069674-0-000-03-12-1971@@@
-
 DECRETO Nº 69.674 - DE 3 DE DEZEMBRO DE 1971
 
 Prorroga, até 31 de dezembro de 1972, o prazo para aproveitamento dos navios estrangeiros na cabotagem nacional.

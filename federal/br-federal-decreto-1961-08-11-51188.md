@@ -1,5 +1,3 @@
-###DEC-051188-0-000-11-08-1961@@@
-
 DECRETO Nº 51.188, DE 11 DE AGÔSTO DE 1961.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil da fração ideal do terreno acrescido de marinha que menciona, no Estado da Guanabara.

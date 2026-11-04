@@ -1,5 +1,3 @@
-###DEC-071713-0-000-16-01-1973@@@
-
 DECRETO Nº 71.713, DE 16 DE JANEIRO DE 1973.
 
 Extingue o Centro Regional de Pesquisas Educacionais de Salvador e dá outras providências.

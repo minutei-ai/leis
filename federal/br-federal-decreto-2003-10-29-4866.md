@@ -1,5 +1,3 @@
-###DEC-004866-0-000-29-10-2003@@@
-
 DECRETO Nº 4.866,  DE 29 DE OUTUBRO DE 2003.
 
        Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para o Ministério das Relações Exteriores.
@@ -16,6 +14,8 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 29 de outubro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Celso Luiz Nunes Amorim<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Celso Luiz Nunes Amorim
+
 Guido Mantega

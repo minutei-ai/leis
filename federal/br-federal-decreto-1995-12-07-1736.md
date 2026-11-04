@@ -1,7 +1,3 @@
-1
-
-###DEC-001736-0-000-07-12-1995@@@
-
 DECRETO Nº 1.736, DE 7 DE DEZEMBRO DE 1995.
 
 Dispõe sobre cálculo de pagamento de diárias no exterior.

@@ -1,5 +1,3 @@
-###DEC-005358-0-000-31-01-2005@@@
-
 DECRETO Nº 5.358 DE 31 DE JANEIRO DE 2005
 
 Dispõe sobre a execução do Décimo Nono Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República da Colômbia, de 28 de setembro de 2004.

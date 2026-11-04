@@ -390,70 +390,32 @@ THIAGO ARRAES DE ALENCAR NORÕES
 
 **ESTABELECE OS QUANTITATIVOS DO CARGO PÚBLICO DA CARREIRA DE REGULAÇÃO E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS DELEGADOS, DA AGÊNCIA DE REGULAÇÃO DOS SERVIÇOS PÚBLICOS DELEGADOS DO ESTADO DE PERNAMBUCO – ARPE.**
 
-<table class="MsoNormalTable" border="1" cellpadding="0"><tbody><tr><td valign="top" style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cargo</span></p></td><td valign="top" style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Quantitativo</span></p></td></tr><tr><td valign="top" style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Analista de Regulação de Serviços Públicos Delegados</span></p></td><td valign="top" style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">103</span></p></td></tr></tbody></table>
+<table class="MsoNormalTable" border="1" cellpadding="0"><tbody><tr><td valign="top" style="padding:.75pt .75pt .75pt .75pt">
 
-<br>
+Cargo
+
+</td><td valign="top" style="padding:.75pt .75pt .75pt .75pt">
+
+Quantitativo
+
+</td></tr><tr><td valign="top" style="padding:.75pt .75pt .75pt .75pt">
+
+Analista de Regulação de Serviços Públicos Delegados
+
+</td><td valign="top" style="padding:.75pt .75pt .75pt .75pt">
+
+103
+
+</td></tr></tbody></table>
+
 **ANEXO II**
 
-<strong><br>
-ESTABELECE OS VALORES DO VENCIMENTO BASE DO CARGO PÚBLICO DA CARREIRA DE REGULAÇÃO E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS DELEGADOS, DA AGÊNCIA DE REGULAÇÃO DOS SERVIÇOS PÚBLICOS DELEGADOS DO ESTADO DE PERNAMBUCO – ARPE.<br>
-<br>
-</strong>NÍVEL SUPERIOR<br>
-<br>
+**
+
+ESTABELECE OS VALORES DO VENCIMENTO BASE DO CARGO PÚBLICO DA CARREIRA DE REGULAÇÃO E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS DELEGADOS, DA AGÊNCIA DE REGULAÇÃO DOS SERVIÇOS PÚBLICOS DELEGADOS DO ESTADO DE PERNAMBUCO – ARPE.
+
+**NÍVEL SUPERIOR
+
 CARGO: ANALISTA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DELEGADOS
 
-<table class="MsoNormalTable" border="1" cellpadding="0"><tbody><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Classe</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Referência</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Variação (%)</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Vencimento Base (R$)</span></p></td></tr><tr><td rowspan="15" style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Única</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.031,00</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.353,48</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">03</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.571,15</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">04</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.799,71</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">05</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5.039,70</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">06</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5.291,68</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">07</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5.556,27</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">08</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5.834,08</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">09</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">10%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">6.417,49</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">10</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">6.738,36</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">11</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">7.075,28</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">12</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">7.429,04</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">13</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">7.800,50</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">14</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8.190,52</span></p></td></tr><tr><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">15</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5%</span></p></td><td style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8.600,05</span></p></td></tr></tbody></table>
+<table cellpadding="0"><tbody><tr><td> Classe </td><td> Referência </td><td> Variação (%) </td><td> Vencimento Base (R$) </td></tr><tr><td rowspan="15"> Única </td><td> 01 </td><td> &nbsp; </td><td> 4.031,00 </td></tr><tr><td> 02 </td><td> 8% </td><td> 4.353,48 </td></tr><tr><td> 03 </td><td> 5% </td><td> 4.571,15 </td></tr><tr><td> 04 </td><td> 5% </td><td> 4.799,71 </td></tr><tr><td> 05 </td><td> 5% </td><td> 5.039,70 </td></tr><tr><td> 06 </td><td> 5% </td><td> 5.291,68 </td></tr><tr><td> 07 </td><td> 5% </td><td> 5.556,27 </td></tr><tr><td> 08 </td><td> 5% </td><td> 5.834,08 </td></tr><tr><td> 09 </td><td> 10% </td><td> 6.417,49 </td></tr><tr><td> 10 </td><td> 5% </td><td> 6.738,36 </td></tr><tr><td> 11 </td><td> 5% </td><td> 7.075,28 </td></tr><tr><td> 12 </td><td> 5% </td><td> 7.429,04 </td></tr><tr><td> 13 </td><td> 5% </td><td> 7.800,50 </td></tr><tr><td> 14 </td><td> 5% </td><td> 8.190,52 </td></tr><tr><td> 15 </td><td> 5% </td><td> 8.600,05 </td></tr></tbody></table>

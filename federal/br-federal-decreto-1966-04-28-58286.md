@@ -1,5 +1,3 @@
-###DEC-058286-0-000-28-04-1966@@@
-
 DECRETO Nº 58.286, DE 28 DE ABRIL DE 1966.
 
 Concede à Mineração Santo André S. A., autorização paras funcionar como emprêsa de mineração.

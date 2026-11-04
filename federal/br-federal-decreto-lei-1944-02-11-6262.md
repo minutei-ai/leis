@@ -1,5 +1,3 @@
-###DEL-006262-0-000-11-02-1944@@@
-
 DECRETO-LEI N. 6.262 – DE 11 DE FEVEREIRO DE 1944
 
 Cria uma 2ª coletoria federal no município de Caxias, no Estado do Rio Grande do Sul, e dá outras providências

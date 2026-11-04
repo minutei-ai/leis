@@ -1,5 +1,3 @@
-###DEC-062449-0-000-21-03-1967@@@
-
 decreto Nº 62.449, de 21 de março de 1967.
 
 Declara de utilidade pública a “Escola Normal e Ginásio Nossa Senhora das Graças”, com sede em Patos de Minas, Estado de Minas Gerais.

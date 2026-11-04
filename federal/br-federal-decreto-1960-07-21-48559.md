@@ -1,5 +1,3 @@
-###DEC-048559-0-000-21-07-1960@@@
-
 DECRETO Nº 48.559, DE 21 DE JULHO DE 1960.
 
 Autoriza a cidadã brasileira Custódia Lucinda Ferreira a pesquisar quartzo no município de Mateus Leme, Estado de Minas Gerais.

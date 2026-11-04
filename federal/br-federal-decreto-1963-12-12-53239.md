@@ -1,5 +1,3 @@
-###DEC-053239-0-000-12-12-1963@@@
-
 DECRETO Nº 53.239, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Haroldo Barretto Bernardes a pesquisar quartsito e gneiss, no município de Rezende , Estado do Rio de Janeiro.

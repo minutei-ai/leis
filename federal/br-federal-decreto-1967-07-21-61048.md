@@ -1,5 +1,3 @@
-###DEC-061048-0-000-21-07-1967@@@
-
 DECRETO Nº 61.048, DE 21 DE JULHO DE 1967.
 
 Altera dispositivo do Cerimonial da Marinha do Brasil, aprovado pelo Decreto nº 43.807, de 27 de maio de 1958.

@@ -1,5 +1,3 @@
-###DEC-070679-0-000-07-06-1972@@@
-
 DECRETO Nº 70.679, DE 7 DE JUNHO DE 1972.
 
 Concede à ITAPEMAS - Industria do Talco, Pedras, Madeiras Associados Ltda. o direito de lavrar talco no município de Piquete, Estado de São Paulo.

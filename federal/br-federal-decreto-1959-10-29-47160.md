@@ -1,5 +1,3 @@
-###DEC-047160-0-000-29-10-1959@@@
-
 decreto nº 47.160, de 29 de outubro de 1959.
 
 Considera localidade do Território Nacional na Primeira Categoria prevista no art. 40 do Decreto-lei número 7.039, de 10 de novembro de 1944.

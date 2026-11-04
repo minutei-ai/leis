@@ -1,5 +1,3 @@
-###DEC-004808-0-000-15-08-2003@@@
-
 DECRETO Nº 4.808,  DE 15 DE AGOSTO DE 2003.
 
        Altera o art. 84 do Decreto no 4.307, de 18 de julho de 2002, que regulamenta a Medida Provisória no 2.215-10, de 31 de agosto de 2001.
@@ -16,5 +14,6 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de Presidente da Repúbl
 
         Brasília, 15 de agosto de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
 José Viegas Filho

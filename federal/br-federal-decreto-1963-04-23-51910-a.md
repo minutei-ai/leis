@@ -1,5 +1,3 @@
-###DEC-051910-A-000-23-04-1963@@@
-
 DECRETO Nº 51.910-A, DE 23 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Niels Erik Hedeage a pesquisar caulim, feldspato e quartzo no município de Mairiporã, Estado de São Paulo.

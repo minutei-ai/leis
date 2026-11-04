@@ -1,5 +1,3 @@
-###DEC-079053-0-000-28-12-1976@@@
-
 DECRETO Nº 79.053, DE 28 DE DEZEMBRO DE 1976.
 
 Prorroga o prazo de execução dos Programas de Pesquisas Tecnológicas e de Estudos Técnico-Econômicos da Comissão Executiva do Sal do Ministério da Indústria e do Comércio e dá outras providências.

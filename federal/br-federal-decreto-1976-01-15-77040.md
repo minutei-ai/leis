@@ -1,5 +1,3 @@
-###DEC-077040-0-000-15-01-1976@@@
-
 DECRETO Nº 77.040, DE 15 DE JANEIRO DE 1976.
 
 Concede reconhecimento ao curso de Formação de Professores para as Matérias Específicas do 2º Grau, da Universidade Federal Rural de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

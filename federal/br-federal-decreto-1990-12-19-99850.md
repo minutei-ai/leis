@@ -1,7 +1,3 @@
-1
-
-###DEC-099850-0-000-19-12-1990@@@
-
 # DECRETO N° 99.850, DE 19 DE DEZEMBRO DE 1990
 
 Promulga o Convênio de Cooperação para a Realização de Obras Previstas no Estudo de Revitalização do Centro Histórico de João Pessoa, Capital do Estado da Paraíba, e seu protocolo anexo, entre o Governo da República Federativa do Brasil e o Governo do Reino da Espanha.

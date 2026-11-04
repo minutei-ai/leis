@@ -1,5 +1,3 @@
-###DEC-090396-0-000-07-11-1984@@@
-
 Decreto nº 90.396 de 07 de novembro de 1984
 
 Altera dispositivo do Decreto nº 89.707, de 25 de maio de 1984, que dispõe sobre as empresas prestadoras de serviços para organização de congressos, convenções, seminários e eventos congêneres.

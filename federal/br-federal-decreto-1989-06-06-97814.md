@@ -1,7 +1,3 @@
-1
-
-###DEC-097814-0-000-06-06-1989@@@
-
 DECRETO N° 97.814, DE 06 DE JUNHO DE 1989
 
 Estabelece requisitos para os investimentos de empresas estatais em novos projetos, bem como na ampliação e modernização de empreendimentos existentes, e dá outras providências.

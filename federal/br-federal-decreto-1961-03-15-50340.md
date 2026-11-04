@@ -1,5 +1,3 @@
-###DEC-050340-0-000-15-03-1961@@@
-
 DECRETO Nº 50.340, de 15 DE MARÇO DE 1961.
 
 Revoga o decreto nº 49.973, de 21 de janeiro de 1961, e regula o funcionamento da Universidade Federal do Estado do Rio de Janeiro.

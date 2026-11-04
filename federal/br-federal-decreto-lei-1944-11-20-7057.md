@@ -1,5 +1,3 @@
-###DEL-007057-0-000-20-11-1944@@@
-
 DECRETO-LEI N. 7.057 – DE 20 DE NOVEMBRO DE l944
 
 Altera o Decreto-Iei n. 6. 396 que organiza e regula o funcionamento da Justiça junto às Fôrças Expedicionárias

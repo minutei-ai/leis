@@ -1,7 +1,3 @@
-1
-
-###DEC-001557-0-000-18-07-1995@@@
-
 DECRETO Nº 1.557, DE 18 DE JULHO DE 1995.
 
 Eleva à categoria de Consulado-Geral o Consulado em Houston, Estados Unidos da América.

@@ -1,5 +1,3 @@
-###DEC-077250-0-000-27-02-1976@@@
-
 DECRETO Nº 77.250, DE 27 DE FEVEREIRO DE 1976.
 
 Aprova a reforma dos Estatutos da Fundação Abrigo do Cristo Redentor (FACR).

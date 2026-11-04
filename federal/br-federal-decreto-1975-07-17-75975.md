@@ -1,5 +1,3 @@
-###DEC-075975-0-000-17-07-1975@@@
-
 DECRETO Nº 75.975 - DE 17 DE JULHO DE 1975.
 
 Altera a redação do artigo 9º do Decreto nº 75.508, de 18 de março de 1975, que regulamenta a Lei número 6.168, de 9 de dezembro de 1974.

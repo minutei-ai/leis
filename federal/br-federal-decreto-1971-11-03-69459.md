@@ -1,5 +1,3 @@
-###DEC-069459-0-000-03-11-1971@@@
-
 DECRETO Nº 69.459 - DE 3 de NOVEMBRO DE 1971
 
 Altera dispositivo do Regulamento para a Ordem do Mérito Naval, aprovado pelo Decreto nº 60.188, de 8 de fevereiro de 1967.

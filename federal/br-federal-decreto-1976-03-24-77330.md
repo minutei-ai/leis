@@ -1,5 +1,3 @@
-###DEC-077330-0-000-24-03-1976@@@
-
 DECRETO Nº 77.330, DE 24 DE MARÇO DE 1976.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

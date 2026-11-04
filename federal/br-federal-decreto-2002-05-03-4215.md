@@ -1,5 +1,3 @@
-###DEC-004215-0-000-03-05-2002@@@
-
 DECRETO Nº 4.215, DE 3 DE MAIO DE 2002
 
 Altera o quantitativo dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, remanejados na forma do art. 7º e do Anexo ao Decreto nº 4.128, de 13 de fevereiro de 2002, e dá outras providências.

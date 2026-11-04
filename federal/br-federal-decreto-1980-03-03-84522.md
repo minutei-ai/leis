@@ -1,5 +1,3 @@
-###DEC-084522-0-000-03-03-1980@@@
-
 Decreto nº 84.522, de 03 de março de 1980
 
 Declara de utilidade pública a Sociedade Civil "Memorial Juscelino Kubitschek".

@@ -1,6 +1,10 @@
 > **LEI Nº 4.552, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Determina que as unidades de saúde públicas e privadas ofereçam leito separado para as mães de natimorto ou com óbito fetal.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Determina que as unidades de saúde públicas e privadas ofereçam leito separado para as mães de natimorto ou com óbito fetal.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,7 +1,3 @@
-1
-
-###DEL-000489-0-000-04-03-1969@@@
-
 DECRETO-LEI Nº 489, DE 4 DE MARÇO DE 1969
 
 Regula a disponibilidade dos funcionários públicos civis.

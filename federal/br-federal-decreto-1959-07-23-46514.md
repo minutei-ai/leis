@@ -1,5 +1,3 @@
-###DEC-046514-0-000-23-07-1959@@@
-
 DECRETO Nº 46.514, de 23 de julho de 1959.
 
 Torna sem efeito o Decreto número 46.421, de 14 de julho de 1959.

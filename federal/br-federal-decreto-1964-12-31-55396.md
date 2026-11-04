@@ -1,5 +1,3 @@
-###DEC-055396-0-000-31-12-1964@@@
-
 DECRETO Nº 55.396, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza Minerais e Metais Gruner Ltda. a pesquisar minério de ferro, no município de Santo Antônio de Jesus, Estado da Bahia.

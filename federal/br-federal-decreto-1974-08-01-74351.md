@@ -1,5 +1,3 @@
-###DEC-074351-0-000-01-08-1974@@@
-
 DECRETO Nº 74.351 - DE 1 DE AGOSTO DE 1974
 
 Concede reconhecimento ao Curso Especial de Ciências Contábeis, do Instituto Superior de Estudos Contábeis - ISEC, em caráter experimental, mantido pela Fundação Getúlio Vargas, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

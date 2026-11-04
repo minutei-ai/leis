@@ -1,5 +1,3 @@
-###DEL-006702-0-000-17-07-1944@@@
-
 DECRETO-LEI N. 6.702 – DE 17 DE JULHO DE 1944
 
 Dispõe sôbre o pêssoal da Delegacia do Tesouro Brasileiro no exterior e da Contadoria Seccional junto à mesma Delegacia e dá outras providências.

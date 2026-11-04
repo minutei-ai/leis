@@ -1,5 +1,3 @@
-###DEC-070317-0-000-22-03-1972@@@
-
 DECRETO Nº 70.317, DE 22 DE MARÇO DE 1972.
 
 Autoriza o funcionamento do Curso de Estatística na Faculdade de Administração e Estatística Pais de Barros, em São Paulo, SP.

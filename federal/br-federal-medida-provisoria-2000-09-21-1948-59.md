@@ -1,5 +1,3 @@
-###MPV-001948-0-059-21-09-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.948-59, DE 21 de setembro DE 2000.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-003944-0-000-28-09-2001@@@
-
 DECRETO Nº 3.944, DE 28 DE SETEMBRO DE 2001
 
 Regulamenta o art. 20 da Lei nº 9.615, de 24 de março de 1998, dispondo sobre as ligas profissionais nacionais e regionais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071729-0-000-18-01-1973@@@
-
 DECRETO Nº 71.729, DE 18 DE JANEIRO DE 1973.
 
 Reajusta os valores das multas, a que se refere o artigo 161, do Código Brasileiro do Ar, fixados pelo Decreto nº 60.615, de 24 de abril de 1967, e dá outras providências.

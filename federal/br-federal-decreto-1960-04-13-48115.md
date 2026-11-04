@@ -1,5 +1,3 @@
-###DEC-048115-0-000-13-04-1960@@@
-
 DECRETO Nº 48.115, DE 13 DE ABRIL DE 1960.
 
 Altera o Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e da outras providências.

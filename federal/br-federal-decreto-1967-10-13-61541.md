@@ -1,5 +1,3 @@
-###DEC-061541-0-000-13-10-1967@@@
-
 DECRETO Nº 61.541, DE 13 DE OUTUBRO DE 1967.
 
 Cria os Serviços de Sinalização Náutica da Marinha de Guerra, e dá outras providências.

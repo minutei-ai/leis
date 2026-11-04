@@ -1,5 +1,3 @@
-###MPV-001941-0-017-30-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.941-17, de 30 de março de 2000.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

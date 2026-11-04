@@ -1,5 +1,3 @@
-###DEC-071071-0-000-11-09-1972@@@
-
 DECRETO Nº 71.071, DE 11 DE SETEMBRO DE 1972.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

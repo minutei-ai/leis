@@ -1,5 +1,3 @@
-###DEC-092705-0-000-21-05-1986@@@
-
 DECRETO Nº 92.705, DE 21 DE MAIO DE 1986
 
 Autoriza estrangeiros a adquirirem direitos sobre terreno que menciona, situado no Município e Estado do Rio de Janeiro.

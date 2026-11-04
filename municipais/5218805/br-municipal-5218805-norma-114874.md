@@ -38,14 +38,16 @@
 
 ~~III - Multa de R$ 100,00 (cem reais) à Distribuidora na hipótese de violação do § 4º do art. 3º desta lei.~~
 
-~~§ 1º A Distribuidora de energia elétrica responderá solidariamente à empresa que utiliza os seus postes como suporte de seus cabeamentos no caso do inciso II<br>
+~~§ 1º A Distribuidora de energia elétrica responderá solidariamente à empresa que utiliza os seus postes como suporte de seus cabeamentos no caso do inciso II
+
 deste artigo.~~
 
 ~~§ 2º No caso de reincidência, a multa terá o seu valor dobrado.~~
 
 ~~§ 3º Será considerada reincidência a prática de mais de uma infração dentro de um período de 12 (doze) meses.~~
 
-~~§ 4º Transcorrido o prazo de 30 (trinta) dias do art. 4º desta lei sem que tenha sido regularizada a não conformidade, incidirá multa de R$ 50,00 (cinquenta reais) por dia de atraso, limitada a R$ 5.000,00 (cinco mil reais) por infração, em desfavor da Distribuidora e demais empresas infratoras, se o caso, sem prejuízo das multas estabelecidas nos incisos “I” a “III” deste artigo.<br>
+~~§ 4º Transcorrido o prazo de 30 (trinta) dias do art. 4º desta lei sem que tenha sido regularizada a não conformidade, incidirá multa de R$ 50,00 (cinquenta reais) por dia de atraso, limitada a R$ 5.000,00 (cinco mil reais) por infração, em desfavor da Distribuidora e demais empresas infratoras, se o caso, sem prejuízo das multas estabelecidas nos incisos “I” a “III” deste artigo.
+
 § 5º - Os valores das multas previstas neste artigo deverão ser recolhidos ao erário municipal através de Documento Único de Arrecadação – DUAM, a ser emitido pela Secretaria da Fazenda.”~~
 
 ~~“Art. 7º-A. A fiscalização e notificação das empresas infratoras será realizada pela Secretaria de Ação Urbana e Serviços Públicos, através do Departamento de Fiscalização de Posturas Municipais.”~~
@@ -56,9 +58,10 @@ deste artigo.~~
 
 ~~Gabinete do Prefeito de Rio Verde, aos 03 de dezembro de 2019.~~
 
-~~PAULO FARIA DO VALE<br>
+~~PAULO FARIA DO VALE
+
 Prefeito de Rio Verde~~
 
-<br>
-~~VINÍCIUS FONSÊCA CAMPOS<br>
-Procurador-Geral~~<br>
+~~VINÍCIUS FONSÊCA CAMPOS
+
+Procurador-Geral~~

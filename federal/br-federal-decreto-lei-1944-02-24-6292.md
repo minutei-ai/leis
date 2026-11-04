@@ -1,5 +1,3 @@
-###DEL-006292-0-000-24-02-1944@@@
-
 DECRETO-LEI N. 6.292 – DE 24 DE FEVEREIRO DE 1944
 
 Dispõe sôbre as compras nas fontes de produção e dá outras providências

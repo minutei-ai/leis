@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/158833)<br>
 [Texto com alterações](https://www.al.sp.gov.br/repositorio/legislacao/lei/2010/lei-13921-07.01.2010.html)
 
 # LEI N° 13.921, DE 07 DE JANEIRO DE 2010

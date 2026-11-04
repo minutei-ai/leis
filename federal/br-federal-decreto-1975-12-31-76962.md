@@ -1,5 +1,3 @@
-###DEC-076962-0-000-31-12-1975@@@
-
 DECRETO Nº 76.962, DE 31 DE DEZEMBRO DE 1975.
 
 Extingue a Superintendência do Vale do São Francisco (SULAVE), e dá outras providências.

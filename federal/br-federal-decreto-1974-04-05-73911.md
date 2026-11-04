@@ -1,5 +1,3 @@
-###DEC-073911-0-000-05-04-1974@@@
-
 DECRETO Nº 73.911, DE 5 DE ABRIL DE 1974.
 
 Concede à Cerâmica Martini S.A. o direito de lavrar argila no Município de Feira de Santana, Estado da Bahia.

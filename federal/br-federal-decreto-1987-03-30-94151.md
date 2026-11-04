@@ -1,5 +1,3 @@
-###DEC-094151-0-000-30-03-1987@@@
-
 DECRETO Nº 94.151, DE 30 DE MARÇO DE 1987.
 
 Autoriza o funcionamento da habilitação em Química das Faculdades Metodistas Integradas "Isabela Hendrix".

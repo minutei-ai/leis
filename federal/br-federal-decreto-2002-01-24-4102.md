@@ -1,5 +1,3 @@
-###DEC-004102-0-000-24-01-2002@@@
-
 DECRETO Nº 4.102, DE 24 DE JANEIRO DE 2002.
 
 Regulamenta a Medida Provisória no 18, de 28 de dezembro de 2001, relativamente ao "Auxílio-Gás".

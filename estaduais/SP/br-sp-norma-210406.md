@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210406)<br>
-
 # DECRETO N° 69.177, DE 18 DE DEZEMBRO DE 2024
 
 ### _Institui, junto à Coordenadoria Estadual de Proteção e Defesa Civil da Casa Militar do Gabinete do Governador, o Centro Paulista de Radares e Alertas Meteorológicos - CePRAM, e dá providências correlatas._

@@ -1,7 +1,3 @@
-1
-
-###DEC-095878-0-000-25-03-1988@@@
-
 DECRETO N° 95.878, DE 25 DE MARÇO DE 1988
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade Cuiabana de Educação e Letras, de Cuiabá, Mato Grosso.

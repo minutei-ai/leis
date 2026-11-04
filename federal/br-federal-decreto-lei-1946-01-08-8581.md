@@ -1,5 +1,3 @@
-###DEL-008581-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.581 – DE 8 de JANEIRO DE 1946
 
 Altera a carreira de revisor do Quadro Suplementar do Ministério da Guerra.

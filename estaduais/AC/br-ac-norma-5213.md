@@ -1,6 +1,10 @@
 > **LEI Nº 3.949, DE 31 DE MAIO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a distribuição gratuita de escovas de dentes aos discentes das escolas públicas estaduais.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a distribuição gratuita de escovas de dentes aos discentes das escolas públicas estaduais.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

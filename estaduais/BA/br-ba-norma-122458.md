@@ -1,13 +1,15 @@
 LEI Nº 12.365 DE 30 DE NOVEMBRO DE 2011
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [15.208](https://www.legislabahia.ba.gov.br/documentos/decreto-no-15208-de-18-de-junho-de-2014) de 18 de junho de 2014 - Aprova o regulamento do processo eleitoral para membros do Conselho Estadual de Cultura da Bahia, oriundos da sociedade civil representantes dos segmentos culturais e processos do fazer cultural do Estado da Bahia para o período de 2014 a 2017, e dá outras providências.
 
 Dispõe sobre a Política Estadual de Cultura, institui o Sistema Estadual de Cultura, e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** \- A Política Estadual de Cultura da Bahia obedece ao disposto na Constituição Federal, na Constituição do Estado, nas disposições desta Lei e nas demais normas específicas a ela pertinentes.
@@ -240,7 +242,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **Parágrafo único -**  A enumeração contida neste artigo não exclui outras expressões da vida cultural suscetíveis de serem contempladas por políticas públicas, nos termos das Constituições Federal e Estadual.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS PRINCÍPIOS E OBJETIVOS
 
 **Art. 4º** \- São princípios orientadores da Política Estadual de Cultura:
@@ -321,7 +324,8 @@ DOS PRINCÍPIOS E OBJETIVOS
 
 **§ 2º** \- A condição de patrimônio vivo, referida no inciso VI deste artigo, é atribuída à pessoa portadora de acumulado saber cultural ou artístico, reconhecido na forma a ser definida em ato do Poder Executivo.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO SISTEMA ESTADUAL DE CULTURA DA BAHIA
 
 **Art. 6º** \- O Sistema Estadual de Cultura da Bahia é o conjunto articulado e integrado de normas, instituições, mecanismos e instrumentos de planejamento, fomento, financiamento, informação, formação, participação e controle social, que tem como finalidade a garantia da gestão democrática e permanente da Política Estadual de Cultura nos termos desta Lei.
@@ -366,7 +370,8 @@ DO SISTEMA ESTADUAL DE CULTURA DA BAHIA
 
 **Parágrafo único -** Os organismos indicados no inciso I, alíneas “d”, “e” e “f”, e as instâncias previstas na alínea “e” do inciso III integram o Sistema Estadual de Cultura por meio de manifestação de vontade, em instrumento jurídico próprio, definido em regulamento.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Dos Organismos de Gestão Cultural
 
 **Art. 8º** \- O Conselho Estadual de Cultura, órgão colegiado do Sistema Estadual de Cultura, tem por finalidade formular a Política Estadual de Cultura, nos termos do art. 272 da Constituição do Estado e de acordo com o estabelecido nesta Lei.
@@ -469,7 +474,8 @@ Dos Organismos de Gestão Cultural
 
 **Art. 14** \- Os sistemas municipais de cultura têm por finalidade articular e integrar políticas, ações, instituições públicas e privadas no âmbito municipal para a promoção do desenvolvimento com pleno exercício dos direitos culturais e assim serão reconhecidos quando formalmente instituídos.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Dos Mecanismos de Gestão
 
 **Art. 15** \- O Plano Estadual de Cultura, obrigatório para gestão da política pública de cultura do Estado, é elaborado com periodicidade mínima decenal e aprovado pela Assembleia Legislativa, devendo dele constar:
@@ -590,7 +596,8 @@ Dos Mecanismos de Gestão
 
 **Parágrafo único -**   A formulação e o acompanhamento de programa de formação continuada em cultura, a cargo da Administração Pública Estadual, são de responsabilidade de Comissão tripartite e paritária, composta por representações das Secretarias de Cultura e da Educação e de organizações da sociedade civil com reconhecida atuação na área cultural.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Das Instâncias de Consulta, Participação e Controle Social
 
 **Art. 25** \- A Conferência Estadual de Cultura, instância de estímulo, indução e mobilização dos governos municipais e da sociedade civil, convocada por Decreto, pelo Governador do Estado, tem por objetivos:
@@ -617,7 +624,8 @@ Das Instâncias de Consulta, Participação e Controle Social
 
 **Art. 29** \- Formas organizativas de iniciativa da sociedade não definidas nesta Lei, inclusive fóruns e coletivos específicos, relacionadas aos diversos segmentos culturais, são também consideradas instâncias de participação, integrantes do Sistema Estadual de Cultura¸ por meio de manifestação de vontade.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 30** \- A Secretaria de Cultura manterá representações territoriais de cultura com a finalidade de articular os segmentos culturais entre os municípios, conforme o modelo de regionalização adotado.

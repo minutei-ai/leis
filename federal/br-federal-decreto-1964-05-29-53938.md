@@ -1,5 +1,3 @@
-###DEC-053938-0-000-29-05-1964@@@
-
 DECRETO Nº 53.938, DE 29 DE MAIO DE 1964.
 
 Dispõe sôbre a prestação de serviços nos Ministérios Extraordinários.

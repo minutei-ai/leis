@@ -1,5 +1,3 @@
-###DEC-068668-0-000-24-05-1971@@@
-
 Decreto nº 68.668 - de 24 de maio de 1971.
 
 Declara de utilidade pública a Associação Nossa Senhora de Fátima de Assistência a Criança e Velhos, com sede em Curitiba, Estado do Paraná.

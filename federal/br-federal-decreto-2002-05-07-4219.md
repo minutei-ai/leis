@@ -1,5 +1,3 @@
-###DEC-004219-0-000-07-05-2002@@@
-
 DECRETO Nº 4.219, DE 7 DE MAIO DE 2002
 
 Transfere a cumulatividade da Embaixada do Brasil na República Democrática de São Tomé e Príncipe para a Embaixada do Brasil em Libreville, República Gabonesa.

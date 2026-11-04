@@ -1,5 +1,3 @@
-###DEC-045088-0-000-22-12-1958@@@
-
 DECRETO Nº 45.088, de 22 DE DEZEMBRO DE 1958.
 
 Concede à sociedade Navegação Marenove Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

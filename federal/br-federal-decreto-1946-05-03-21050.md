@@ -1,20 +1,18 @@
-###DEC-021050-0-000-03-05-1946@@@
+**DECRETO Nº 21.050, DE 3 DE MAIO DE 1946.**
 
-<strong>DECRETO Nº 21.050, DE 3 DE MAIO DE 1946.</strong>
+***Outorga à Prefeitura Municipal de Capelinha, concessão para o aproveitamento de energia hidráulica do ribeirão Fanadinho, distrito da sede do município de Capelinha, Estado de Minas Gerais.***
 
-<em><strong>Outorga à Prefeitura Municipal de Capelinha, concessão para o aproveitamento de energia hidráulica do ribeirão Fanadinho, distrito da sede do município de Capelinha, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, alínea *a*, da Constituição, e nos têrmos do art.150 do código de águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, alínea <em>a</em>, da Constituição, e nos têrmos do art.150 do código de águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Prefeitura Municipal de Capelinha, Estado de Minas Gerais, concessão para o aproveitamento da energia hidráulica existente no ribeirão Fanadinho, distrito da sede do município de Capelinha, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à Prefeitura Municipal de Capelinha, Estado de Minas Gerais, concessão para o aproveitamento da energia hidráulica existente no ribeirão Fanadinho, distrito da sede do município de Capelinha, Estado de Minas Gerais.
 
 § 1º Por portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga e potência concedidas.
 
 § 2º O aproveitamento destina-se à produção, transmissão, transformação e distribuição de energia Elétrica para serviços públicos, para serviços de utilidade pública e para comércio de energia no município de Capelinha.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título a concessionária abriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título a concessionária abriga-se a:
 
 I Registrá-lo na Divisão de Águas dentro do prazo de trinta (30) dias após a sua publicação
 
@@ -64,34 +62,34 @@ t) orçamento detalhado para cada um dos itens acima;
 
 V Obedecer, em todos os projetos, às prescrições de ordem técnica determinadas pela Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas do Departamento Nacional da Produção Mineral e submetida à aprovação do Ministro da Agricultura.
+**Art**. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas do Departamento Nacional da Produção Mineral e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 5º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas as instalações necessárias a observações linimétricas e medições de descargas do curso d’água que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 5º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas as instalações necessárias a observações linimétricas e medições de descargas do curso d’água que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 6º À concessionária é assegurada, durante a vigência da presente concessão e respeitados os direitos de outrem anteriormente adquiridos, da autorização para fazer o comércio de energia hidroelétrica na zona discriminada no parágrafo segundo do artigo 1º do presente Decreto.
+**Art**. 6º À concessionária é assegurada, durante a vigência da presente concessão e respeitados os direitos de outrem anteriormente adquiridos, da autorização para fazer o comércio de energia hidroelétrica na zona discriminada no parágrafo segundo do artigo 1º do presente Decreto.
 
-<strong>Art</strong>. 7º O Capital a ser remunerado será o investimento efetivo e criterioso na constituição do patrimônio da concessão em função da indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição de energia elétrica.
+**Art**. 7º O Capital a ser remunerado será o investimento efetivo e criterioso na constituição do patrimônio da concessão em função da indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição de energia elétrica.
 
-<strong>Art</strong>. 8º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revista de acôrdo com o presente Decreto do art. 180 do Código de Minas.
+**Art**. 8º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revista de acôrdo com o presente Decreto do art. 180 do Código de Minas.
 
-<strong>Art</strong>. 9º Para a manutenção da integridade do patrimônio a que se refere o art. 7º do presente Decreto, será criada uma reserva, que proverá às renovações por depreciação, determinadas por usura ou impostas por acidentes.
+**Art**. 9º Para a manutenção da integridade do patrimônio a que se refere o art. 7º do presente Decreto, será criada uma reserva, que proverá às renovações por depreciação, determinadas por usura ou impostas por acidentes.
 
 Parágrafo único .A constituição dessa reserva, que se denominará “reserva de renovação”, será realizada por cotas especiais, que incidirão sôbre as tarifas, sob forma de percentagem .Estas cotas serão determinadas tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 10 Findo o prazo da concessão, o patrimônio desta, constituído na forma do art. 7º, reverterá para o Estado de Minas Gerais, em conformidade com o art. 165 do Código de Águas, sendo a concessionária indenizada, do seu investimento ainda não amortizado, na base do custo histórico, deduzida a “reserva de renovação”, que se refere o parágrafo único do artigo precedente.
+**Art**. 10 Findo o prazo da concessão, o patrimônio desta, constituído na forma do art. 7º, reverterá para o Estado de Minas Gerais, em conformidade com o art. 165 do Código de Águas, sendo a concessionária indenizada, do seu investimento ainda não amortizado, na base do custo histórico, deduzida a “reserva de renovação”, que se refere o parágrafo único do artigo precedente.
 
 § 1º Se o Estado de Minas Gerais não fizer uso do seu direto a essa reversão, a concessionária poderá requerer ao Govêrno Federal seja a concessão renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do § 1º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de Minas Gerais e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 11 A concessionária gozará desde a data do registro de que trata o art. 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 11 A concessionária gozará desde a data do registro de que trata o art. 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 12 O presente Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 12 O presente Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 3 de Maio de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Souza Duarte

@@ -1,5 +1,3 @@
-###DEL-007647-0-000-14-06-1945@@@
-
 DECRETO-LEI N. 7.647 – DE 14 DE JUNHO DE 1945
 
 Cria uma coletoria federal no município de Monte Sião, no Estado de Minas Gerais, e dá outras providências

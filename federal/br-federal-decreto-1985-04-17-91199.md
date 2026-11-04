@@ -1,5 +1,3 @@
-###DEC-091199-0-000-17-04-1985@@@
-
 Decreto nº 91.199, de 17 de abrIl de 1985.
 
 Revoga o Decreto nº 89.537, de 10 de abril de 1984, que declara de utilidade pública, para efeito de desapropriação, área que menciona, necessária ao Ministério da Marinha.

@@ -1,5 +1,3 @@
-###DEC-052577-0-000-30-09-1963@@@
-
 DECRETO Nº 52.577, DE 30 DE SETEMBRO DE 1963.
 
 Transfere de Filogomes Alves de Carvalho para Centrais Elétricas de Goiás S.A. a concessão para produzir, transmitir e distribuir energia elétrica no município de Trindade, Estado de Goiás.

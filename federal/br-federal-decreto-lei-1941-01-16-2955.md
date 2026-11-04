@@ -1,5 +1,3 @@
-###DEL-002955-0-000-16-01-1941@@@
-
 DECRETO-LEI N. 2.955 – DE 16 DE JANEIRO DE 1941
 
 Dispõe sobre a extensão dos serviços de energia elétrica ao município de Santa Bárbara do Rio Pardo, Estado de S. Paulo, por parte da Companhia Luz e Força Santa Cruz, S. A.

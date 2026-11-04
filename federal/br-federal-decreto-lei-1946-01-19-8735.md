@@ -1,5 +1,3 @@
-###DEL-008735-0-000-19-01-1946@@@
-
 DECRETO-LEI N. 8.735 – DE 19 DE JANEIRO DE 1946
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial Cr$ 1.023.605,00 para completar as despesas com reparos e readaptação do Palácio Tiradentes e atender à aquisição de automóveis para os serviços da Câmara dos Deputados.

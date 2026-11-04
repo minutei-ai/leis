@@ -1,5 +1,3 @@
-###DEC-086030-0-000-27-05-1981@@@
-
 Decreto nº 86.030, de 27 de maio de 1981.
 
 Autoriza a destinação, para uso especial, dos imóveis que especifica.

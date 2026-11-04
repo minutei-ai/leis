@@ -1,21 +1,31 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=4228)
-
 # LEI Nº 10.565, DE 06 DE JUNHO DE 2000
 
 ## (Projeto de lei n.° 860/99, do deputado Roberto Engler - PSDB)
 
 ### _Declara de utilidade pública a entidade que especifica._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1º -** E declarada de utilidade pública a Casa Maternal São Francisco de Assis, com sede em Franca.<br>
-**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 6 de junho de 2000.<br>
-MÁRIO COVAS<br>
-Belisário dos Santos Junior<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Celino Cardoso<br>
-Secretário - Chefe da Casa Civil<br>
-Antonio Angarita<br>
-Secretário do Governo e Gestão Estratégica<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1º -** E declarada de utilidade pública a Casa Maternal São Francisco de Assis, com sede em Franca.
+
+**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 6 de junho de 2000.
+
+MÁRIO COVAS
+
+Belisário dos Santos Junior
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Celino Cardoso
+
+Secretário - Chefe da Casa Civil
+
+Antonio Angarita
+
+Secretário do Governo e Gestão Estratégica
+
 Publicada na Assessoria Técnico-Legislativa, aos 6 de junho de 2000.

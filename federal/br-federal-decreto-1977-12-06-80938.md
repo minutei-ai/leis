@@ -1,5 +1,3 @@
-###DEC-080938-0-000-06-12-1977@@@
-
 Decreto nº 80.938, de 06 de dezembro de 1977.
 
 Declara sem efeito a interdição da área a que se refere o Decreto nº 63.515, de 31 de outubro de 1968, e dá outras providências.

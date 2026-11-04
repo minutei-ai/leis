@@ -1,5 +1,3 @@
-###DEC-054054-0-000-27-07-1964@@@
-
 DECRETO nº 54.054, DE 27 DE JULHO DE 1964.
 
 Aprova a revisão dos Quadros de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transporte e Cargas e dá outras providências.

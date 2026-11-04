@@ -1,5 +1,3 @@
-###DEC-007233-0-000-19-07-2010@@@
-
 DECRETO Nº 7.233, DE 19 DE JULHO DE 2010.
 
 Dispõe sobre procedimentos orçamentários e financeiros relacionados à autonomia universitária, e dá outras providências.

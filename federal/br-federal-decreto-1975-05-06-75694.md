@@ -1,5 +1,3 @@
-###DEC-075694-0-000-06-05-1975@@@
-
 DECRETO Nº 75.694, DE 6 DE MAIO DE 1975.
 
 Renova por 10 (dez) anos, a concessão outorgada à Rádio Pioneira de Teresina Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional na Cidade de Teresina do Piauí.

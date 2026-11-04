@@ -1,7 +1,3 @@
-1
-
-###DEC-099506-0-000-04-09-1990@@@
-
 DECRETO N° 99.506, DE 4 DE SETEMBRO DE 1990
 
 Constitui comissão para proceder à organização do Museu de Arte Contemporânea do Brasil.

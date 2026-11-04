@@ -1,5 +1,3 @@
-###DEL-000341-0-000-22-12-1967@@@
-
 DECRETO-LEI Nº 341, DE 22 DE DEZEMBRO DE 1967
 
 Prorroga para o exercício de 1968 os benefícios dos Decretos-leis números 157 e 238 de 10 e 28 de fevereiro de 1967.

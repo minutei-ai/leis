@@ -1,5 +1,3 @@
-###DEL-005816-0-000-15-09-1943@@@
-
 DECRETO–LEI N. 5.816 – DE 15 DE SETEMBRO DE 1943
 
 Abre ao Conselho de Segurança Nacional o crédito suplementar de Cr$ 12.000,00 à dotação que especifica

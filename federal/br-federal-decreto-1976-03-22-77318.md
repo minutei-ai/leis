@@ -1,5 +1,3 @@
-###DEC-077318-0-000-22-03-1976@@@
-
 Decreto nº 77.318, de 22 de março de 1976.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação de crédito externo a ser contratada pela Mineração do Vale do Paranaíba S.A. - VALEP.

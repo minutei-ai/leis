@@ -1,5 +1,3 @@
-###DEC-056867-0-000-14-09-1965@@@
-
 DECRETO Nº 56.867, DE 14 DE SETEMBRO DE 1965.
 
 Suspende as atividades da União Ferroviários do Brasil - Diretoria Regional da Rêde de Viação Paraná-Santa Catarina.

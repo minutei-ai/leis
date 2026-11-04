@@ -1,5 +1,3 @@
-###DEC-053194-0-000-11-12-1963@@@
-
 DECRETO Nº 53.194, DE 1 DE DEZEMBRO DE 1963.
 
 Autoriza a Mannesmann Mineração S.A a pesquisar calcário no município de Vespasiano,  Estado de Minas Gerais.

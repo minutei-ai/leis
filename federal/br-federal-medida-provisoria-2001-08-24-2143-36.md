@@ -1,5 +1,3 @@
-###MPV-002143-0-036-24-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.143-36, DE 24 DE AGOSTO DE 2001.
 
  Altera dispositivos da Lei nº 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

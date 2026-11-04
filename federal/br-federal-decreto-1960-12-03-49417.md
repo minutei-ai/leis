@@ -1,5 +1,3 @@
-###DEC-049417-0-000-03-12-1960@@@
-
 DECRETO Nº 49.417, DE 3 DE DEZEMBRO DE 1960.
 
 Autoriza Paulo Kurt Heringer, a compra pedras preciosas.

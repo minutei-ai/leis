@@ -1,5 +1,3 @@
-###DEC-051935-B-000-26-04-1963@@@
-
 DECRETO Nº 51.935-B, DE 26 DE ABRIL DE 1963.
 
 “ Dispõe sôbre a execução de serviços e obras de saneamento e recuperação de terrenos de marinha, seus acrescidos e outros, em municípios que menciona, dos Estados de Pernambuco e da Bahia, e dá outras providencias”.

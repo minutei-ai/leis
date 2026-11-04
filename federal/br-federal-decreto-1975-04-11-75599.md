@@ -1,5 +1,3 @@
-###DEC-075599-0-000-11-04-1975@@@
-
 DECRETO Nº 75.599, DE 11 DE ABRIL DE 1975.
 
 Concede reconhecimento ao curso de Medicina da Faculdade de Medicina do Norte de Minas, mantida pela Fundação Norte Mineira de Ensino Superior, com sede na cidade de Montes Claros, Estado de Minas Gerais.

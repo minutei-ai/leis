@@ -1,5 +1,3 @@
-###DEC-046428-0-000-14-07-1959@@@
-
 DECRETO Nº 46.428, DE 14 DE JULHO DE 1959.
 
 Acrescenta dispositivo ao Regulamento para o Arsenal de Marinha do Rio de Janeiro.

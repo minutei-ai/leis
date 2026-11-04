@@ -1,5 +1,3 @@
-###DEL-004579-0-000-13-08-1942@@@
-
 DECRETO-LEI N. 4.579 – DE 13 DE AGOSTO DE 1942
 
 Proíbe aos estabelecimentos industriais localizados nos Estados de São Paulo e Rio de Janeiro, a frigorificação ou a industrialização da carne do bovino para fins de exportação.

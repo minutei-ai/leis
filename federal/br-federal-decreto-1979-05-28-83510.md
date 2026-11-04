@@ -1,5 +1,3 @@
-###DEC-083510-0-000-28-05-1979@@@
-
 DECRETO Nº 83.510, DE 28 DE MAIO DE 1979.
 
 Autoriza o funcionamento da habilitação em Educação Moral e Cívica no curso de Estudos Sociais da Faculdade de Educação, Ciências e Artes Dom Bosco de Monte Aprazível, Estado de São Paulo.

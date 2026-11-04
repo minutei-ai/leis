@@ -1,5 +1,3 @@
-###DEC-053704-0-000-16-03-1964@@@
-
 DECRETO Nº 53.704, DE 16 DE MARÇO DE 1964.
 
 Aprova o Regulamento de Fundo Nacional de Investimentos (FUNAI), instituído pelo artigo 74 da Lei nº 4.242, de 17 de julho de 1963, e da outras providências.

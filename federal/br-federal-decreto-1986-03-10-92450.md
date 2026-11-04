@@ -1,5 +1,3 @@
-###DEC-092450-0-000-10-03-1986@@@
-
 DECRETO Nº 92.450, DE 10 DE MARÇO DE 1986
 
 Autoriza o Sindicato da Indústria do Ferro no Estado de Minas Gerais a filiar-se à Associação Internacional de Ferro Gusa.

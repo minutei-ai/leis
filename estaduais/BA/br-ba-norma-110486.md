@@ -46,4 +46,36 @@ QUADRO DE CARGOS DO MAGISTÉRIO PÚBLICO ESTADUAL
 
 DO ENSINO FUNDAMENTAL E MÉDIO
 
-<table style="width: 310.2pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="414" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 158.25pt; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="211"><p class="Tabela-Texto"><span>NOMENCLATURA</span></p></td><td style="width: 52.7pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="70"><p class="Tabela-Texto"><span>NÍVEIS</span></p></td><td style="width: 99.25pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>NÚMERO DE CARGOS</span></p></td></tr><tr><td style="width: 158.25pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="211"><p class="Tabela-Texto"><span>PROFESSOR</span></p></td><td style="width: 52.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="70"><p class="Tabela-Texto"><span>1</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>18.800</span></p></td></tr><tr><td style="width: 158.25pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="211">&nbsp;</td><td style="width: 52.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="70"><p class="Tabela-Texto"><span>2</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>1.400</span></p></td></tr><tr><td style="width: 158.25pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="211">&nbsp;</td><td style="width: 52.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="70"><p class="Tabela-Texto"><span>3</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>25.800</span></p></td></tr><tr><td style="width: 158.25pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="211">&nbsp;</td><td style="width: 52.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="70"><p class="Tabela-Texto"><span>4</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>15.000</span></p></td></tr><tr><td style="width: 158.25pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="211"><p class="Tabela-Texto"><span>COORDENADOR PEDAGÓGICO</span></p></td><td style="width: 52.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="70"><p class="Tabela-Texto"><span>3</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>3.100</span></p></td></tr><tr><td style="width: 158.25pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="211">&nbsp;</td><td style="width: 52.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="70"><p class="Tabela-Texto"><span>4</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="132"><p class="Tabela-Texto"><span>500</span></p></td></tr></tbody></table>
+NOMENCLATURA
+
+NÍVEIS
+
+NÚMERO DE CARGOS
+
+PROFESSOR
+
+1
+
+18.800
+
+2
+
+1.400
+
+3
+
+25.800
+
+4
+
+15.000
+
+COORDENADOR PEDAGÓGICO
+
+3
+
+3.100
+
+4
+
+500

@@ -68,7 +68,53 @@ Art. 153-F. O preço público ou renda desta subseção, incidente sobre o propr
 
 Art. 153-G. Os preços públicos tratados por esta Lei, comporão a tabela abaixo descrita: Tabela XVII – PREÇOS PÚBLICOS INCIDENTES SOBRE UTILIZAÇÃO DE ESPAÇOS E SERVIÇOS AEROPORTUÁRIOS
 
-<table><thead></thead><tbody><tr><td style="text-align:center">Descrição da Tarifa</td><td style="text-align:center">Unidade</td><td style="text-align:center">Valor R$</td></tr><tr><td>Embarque na estação aeroportuária</td><td style="text-align:center">Passageiro</td><td style="text-align:center">20,35</td></tr><tr><td>Conexão na estação aeroportuária</td><td style="text-align:center">Passageiro</td><td style="text-align:center">6,15</td></tr><tr><td>Pouso na estação aeroportuária</td><td style="text-align:center">Tonelada</td><td style="text-align:center">6,09</td></tr><tr><td>Permanência em pátio de manobras</td><td style="text-align:center">Tonelada/hora</td><td style="text-align:center">1,22</td></tr><tr><td>Permanência em área de estadia</td><td style="text-align:center">Tonelada/hora</td><td style="text-align:center">0,25</td></tr><tr><td>Transbordo de mercadorias – até 50 acessos / mês</td><td style="text-align:center">R$</td><td style="text-align:center">1.195,64</td></tr><tr><td>Transbordo de mercadorias – acima de 50 acessos / mês</td><td style="text-align:center">R$</td><td style="text-align:center">1.793,47</td></tr></tbody></table>
+Descrição da Tarifa
+
+Unidade
+
+Valor R$
+
+Embarque na estação aeroportuária
+
+Passageiro
+
+20,35
+
+Conexão na estação aeroportuária
+
+Passageiro
+
+6,15
+
+Pouso na estação aeroportuária
+
+Tonelada
+
+6,09
+
+Permanência em pátio de manobras
+
+Tonelada/hora
+
+1,22
+
+Permanência em área de estadia
+
+Tonelada/hora
+
+0,25
+
+Transbordo de mercadorias – até 50 acessos / mês
+
+R$
+
+1.195,64
+
+Transbordo de mercadorias – acima de 50 acessos / mês
+
+R$
+
+1.793,47
 
 Art. 2° Esta Lei entrará em vigor na data de sua publicação no que concerne ao art. 153-F, sendo que o efeito dos demais terão sua eficácia em 120 (cento e vinte dias).
 

@@ -1,5 +1,3 @@
-###DEC-055694-0-000-02-02-1965@@@
-
 decreto nº 55.694, de 2 de fevereiro de 1965.
 
 Autoriza o cidadão brasileiro Felippe Neri de Souza a pesquisar quartzo no município de Barra das Garças, Estado do Mato Grosso.

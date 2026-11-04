@@ -1,5 +1,3 @@
-###DEC-007069-0-000-20-01-2010@@@
-
 DECRETO Nº 7.069, DE 20 DE JANEIRO DE 2010.
 
 Dá nova redação a dispositivos do Anexo I do Decreto nº 6.834, de 30 de abril de 2009, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Grupo-Direção e Assessoramento Superiores e das Funções Gratificadas do Comando da Aeronáutica, do Ministério da Defesa.

@@ -1,5 +1,3 @@
-###DEC-068678-0-000-25-05-1971@@@
-
 Decreto Nº 68.678 - DE 25 DE MAIO DE 1971.
 
 Cria no Instituto Brasileiro de Estatística, da Fundação IBGE, Comissão Especial de Planejamento, Contrôle e Avaliação das Estatísticas Agropecuárias.

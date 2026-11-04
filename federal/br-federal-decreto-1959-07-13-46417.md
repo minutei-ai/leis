@@ -1,5 +1,3 @@
-###DEC-046417-0-000-13-07-1959@@@
-
 DECRETO Nº 46.417, DE 13 DE JULHO DE 1959.
 
 Dá nova redação ao art. 19 do Decreto nº 46.1224, de 26 de maio de 1959.

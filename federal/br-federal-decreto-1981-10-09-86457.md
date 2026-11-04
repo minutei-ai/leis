@@ -1,5 +1,3 @@
-###DEC-086457-0-000-09-10-1981@@@
-
 Decreto nº 86.457, de 09 de outubro de 1981.
 
 Aprova alteração introduzida no Estatuto da COMPANHIA AUXILIAR DE EMPRESAS ELÉTRICAS BRASILEIRAS - CAEEB.

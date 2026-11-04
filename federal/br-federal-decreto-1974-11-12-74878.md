@@ -1,5 +1,3 @@
-###DEC-074878-0-000-12-11-1974@@@
-
 DECRETO Nº 74.878, DE 12 DE NOVEMBRO DE 1974.
 
 Altera a redação do artigo 7º do Decreto nº 67.049, de 13 de agosto de 1970, que aprova o Estatuto da Fundação Instituto Oswaldo Cruz.

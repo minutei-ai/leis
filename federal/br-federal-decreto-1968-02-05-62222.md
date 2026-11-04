@@ -1,5 +1,3 @@
-###DEC-062222-0-000-05-02-1968@@@
-
 DECRETO Nº 62.222, DE 5 DE FEVEREIRO DE 1968.
 
 Cria a Comissão Nacional para as Comemorações do 5º Centenário de Pedro Álvares Cabral.

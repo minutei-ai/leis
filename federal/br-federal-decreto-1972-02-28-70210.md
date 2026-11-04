@@ -1,5 +1,3 @@
-###DEC-070210-0-000-28-02-1972@@@
-
 DECRETO Nº 70.210, DE 28 DE FEVEREIRO DE 1972.
 
 Dispõe a respeito da coleta e apuração das estatísticas do registro civil e dá outras providências.

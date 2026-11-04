@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208819)<br>
-
 # DECRETO N° 68.096, DE 17 DE NOVEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação, pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, pavimentação de acostamentos e melhoria do trecho entre os km 74,00 e 101,18 da Rodovia Bunjiro Nakao, SP-250, nos Municípios de Ibiúna e Piedade, e dá providências correlatas._

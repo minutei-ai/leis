@@ -1,5 +1,3 @@
-###DEC-084740-0-000-27-05-1980@@@
-
 Decreto nº 84.740, de 27 de maio de 1980.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

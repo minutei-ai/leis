@@ -1,5 +1,3 @@
-###DEC-089219-0-000-21-12-1983@@@
-
 DECRETO Nº 82.219, DE 19 DE DEZEMBRO DE 1983
 
 Dispõe sobre o aumento do Capital Social do Espírito Santo Centrais Elétricas S/A - ESCELSA.

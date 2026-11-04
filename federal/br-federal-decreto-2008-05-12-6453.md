@@ -1,5 +1,3 @@
-###DEC-006453-0-000-12-05-2008@@@
-
 DECRETO Nº 6.453, DE 12 DE MAIO DE 2008.
 
 Dá nova redação aos arts. 8o e 15 do Decreto no 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.
@@ -41,5 +39,3 @@ Brasília, 12 de maio de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 13.5.2008

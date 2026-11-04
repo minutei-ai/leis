@@ -1,5 +1,3 @@
-###DEC-069380-0-000-19-10-1971@@@
-
 DECRETO Nº 69.380, DE 19 DE OUTUBRO DE 1971.
 
 Autorização para funcionamento dos cursos de Economia e Administração da Faculdade de Ciências Econômicas, Contábeis e de Administração de Campo Grande MT.

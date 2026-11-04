@@ -1,5 +1,3 @@
-###MPV-000035-0-000-27-03-2002@@@
-
 MEDIDA PROVISÓRIA Nº 35, DE 27 DE MARÇO DE 2002
 
 Dispõe sobre o salário mínimo a partir de 1de abril de 2002, e dá outras providências.

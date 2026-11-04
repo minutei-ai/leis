@@ -1,5 +1,3 @@
-###DEC-057032-0-000-11-10-1965@@@
-
 DECRETO Nº 57.032, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza Arvedo Golinelli, a comprar pedras preciosas.

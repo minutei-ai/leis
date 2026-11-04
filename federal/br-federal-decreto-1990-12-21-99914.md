@@ -1,7 +1,3 @@
-1
-
-###DEC-099914-0-000-21-12-1990@@@
-
 # DECRETO N° 99.914, DE 21 DE DEZEMBRO DE 1990
 
 Abre ao Orçamento de Investimento das Empresas Estatais, em favor de diversas empresas, crédito suplementar no valor de Cr$ 102.207.330.000,00 para reforço de dotações consignadas no vigente orçamento.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.898, DE 19 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Proíbe as instituições financeiras a ofertar e celebrar contrato de empréstimo financeiro por meio de ligação telefônica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Proíbe as instituições financeiras a ofertar e celebrar contrato de empréstimo financeiro por meio de ligação telefônica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

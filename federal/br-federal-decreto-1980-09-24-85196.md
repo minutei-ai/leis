@@ -1,5 +1,3 @@
-###DEC-085196-0-000-24-09-1980@@@
-
 DEcreto Nº 85.196, de 24 de setembro DE 1980.
 
 Altera a redação do Decreto nº 69.781,de 14 de dezembro de 1971, em cumprimento à decisão judicial proferida nos autos da Ação Ordinária de nº 9.028/76-RJ.

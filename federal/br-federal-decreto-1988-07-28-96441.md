@@ -1,5 +1,3 @@
-###DEC-096441-0-000-28-07-1988@@@
-
 DECRETO N° 96.441, DE 28 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados “AURORA”, “BOA VISTA”, “EUROPA ST° ANTÔNIO I”, “ST° ANTÔNIO II”, “S. LUIZ, JUPIRÁ”, “TOCANTINS E CÉU ABERTO”, “PONTA”, “CAVIANA E TOMA JEITO”, “COLOSSO”, “STª MARIA I E “STª MARIA II” OU “SACADO DO HUMAITÁ”, “LIZ”, “ARACY”, “CECY”, “REPÚBLICA”, “STª HAYDEÉ” E “STª CECÍLIA”, classificados como latifúndio por exploração, situados no Município de Pauini, no Estado do Amazonas, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.679, de 19 de maio de 1986, e dá outras providências.

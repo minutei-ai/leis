@@ -1,5 +1,3 @@
-###DEC-050098-0-000-25-01-1961@@@
-
 DECRETO Nº 50.098, DE 25 DE JANEIRO 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Mercantil - Companhia Nacional de Seguros.

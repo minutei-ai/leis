@@ -1,7 +1,3 @@
-1
-
-###DEC-098199-0-000-27-09-1989@@@
-
 DECRETO Nº 98.199, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “PICOS”, constituído das “GLEBAS BAIXA GRANDE, VÃO DO MANDU, MUCUNÃ, VÃO GRANDE, RECANTO DA SERRA e MOCAMBO”, situado no Município de Porto Franco, Estado do Maranhão.

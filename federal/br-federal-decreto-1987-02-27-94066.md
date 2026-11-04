@@ -1,5 +1,3 @@
-###DEC-094066-0-000-27-02-1987@@@
-
 DECRETO N° 94.066, DE 27 DE FEVEREIRO DE 1987
 
 Cria o Projeto de Desenvolvimento e Implantação do Sistema Militar de Comando e Controle e dá outras providências.

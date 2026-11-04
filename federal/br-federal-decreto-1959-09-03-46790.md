@@ -1,5 +1,3 @@
-###DEC-046790-0-000-03-09-1959@@@
-
 Decreto nº 46.790, de 3 de setembro de 1959.
 
 Prorroga o prazo previsto no parágrafo único do art. 2º do Decreto nº 42.219, de 3 de setembro de 1957.

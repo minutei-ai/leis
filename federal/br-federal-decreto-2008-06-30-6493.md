@@ -1,5 +1,3 @@
-###DEC-006493-0-000-30-06-2008@@@
-
 DECRETO Nº 6.493, DE 30 DE JUNHO DE 2008.
 
 Regulamenta a Gratificação de Desempenho de Atividade do Seguro Social - GDASS, de que trata a Lei no 10.855, de 1o de abril de 2004.

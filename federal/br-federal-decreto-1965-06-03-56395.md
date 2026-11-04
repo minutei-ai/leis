@@ -1,5 +1,3 @@
-###DEC-056395-0-000-03-06-1965@@@
-
 DECRETO Nº 56.395, DE 3 DE JUNHO DE 1965.
 
 Concede à sociedade Madeireira Icaraí Navegação Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

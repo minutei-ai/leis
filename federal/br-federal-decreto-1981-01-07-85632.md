@@ -1,5 +1,3 @@
-###DEC-085632-0-000-07-01-1981@@@
-
 Decreto nº 85.632, de 7 de janeiro de 1981.
 
 Altera o Decreto nº 84.268, de 07 de dezembro de 1979, que dispõe sobre a importação, o arrendamento mercantil, a locação ou a aquisição no mercado interno de bens de consumo, máquinas e equipamentos, veículos e demais produtos de origem externa, por órgãos o entidades da Administração Federal direta e indireta e fundações supervisionadas, e dá outras providências.

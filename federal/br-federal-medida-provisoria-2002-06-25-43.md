@@ -1,5 +1,3 @@
-###MPV-000043-0-000-25-06-2002@@@
-
 MEDIDA PROVISÓRIA Nº 43, DE 25 DE JUNHO DE 2002
 
 Dispõe sobre a remuneração dos cargos da Carreira de Procurador da Fazenda Nacional, e dá outras providências.
@@ -78,10 +76,130 @@ ANEXO I
 
 Estruturação e correlação dos cargos de Procurador da Fazenda Nacional
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SITUAÇÃO ATUAL</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SITUAÇÃO NOVA</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CATEGORIA</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PADRÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CATEGORIA</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESPECIAL</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESPECIAL</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PRIMEIRA</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>V</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PRIMEIRA</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SEGUNDA</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VII</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SEGUNDA</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VI</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>V</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:0pt"><td style="width:91.4pt"></td><td style="width:86.75pt"></td><td style="width:64.15pt"></td></tr></tbody></table>
+SITUAÇÃO ATUAL
+
+SITUAÇÃO NOVA
+
+CATEGORIA
+
+PADRÃO
+
+CATEGORIA
+
+ESPECIAL
+
+III
+
+ESPECIAL
+
+II
+
+I
+
+PRIMEIRA
+
+V
+
+PRIMEIRA
+
+IV
+
+III
+
+II
+
+I
+
+SEGUNDA
+
+VII
+
+SEGUNDA
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
 
 ANEXO II
 
 Vencimento Básico dos cargos da Carreira de Procurador da Fazenda Nacional
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CATEGORIA</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PADRÃO</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VENCIMENTO BÁSICO</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESPECIAL</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5.636,96</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5.494,98</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5.357,30</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PRIMEIRA</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>V</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5.054,06</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4.915,92</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4.781,56</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4.650,87</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4.523,75</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SEGUNDA</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VII</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4.267,69</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VI</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4.175,19</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>V</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4.084,70</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3.996,17</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3.909,56</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3.824,74</span></p></td></tr><tr><td style="width:59.65pt; border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3.741,92</span></p></td></tr></tbody></table>
+CATEGORIA
+
+PADRÃO
+
+VENCIMENTO BÁSICO
+
+ESPECIAL
+
+III
+
+5.636,96
+
+II
+
+5.494,98
+
+I
+
+5.357,30
+
+PRIMEIRA
+
+V
+
+5.054,06
+
+IV
+
+4.915,92
+
+III
+
+4.781,56
+
+II
+
+4.650,87
+
+I
+
+4.523,75
+
+SEGUNDA
+
+VII
+
+4.267,69
+
+VI
+
+4.175,19
+
+V
+
+4.084,70
+
+IV
+
+3.996,17
+
+III
+
+3.909,56
+
+II
+
+3.824,74
+
+I
+
+3.741,92

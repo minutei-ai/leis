@@ -1,5 +1,3 @@
-###DEC-088986-0-000-10-11-1983@@@
-
 Decreto nº 88.986, de 10 de novembro de 1983
 
 Fixa o limite a que se refere o artigo 27 do Decreto-lei nº 2.065, de 26 de outubro de 1983.

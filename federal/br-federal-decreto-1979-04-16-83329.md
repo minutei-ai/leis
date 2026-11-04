@@ -1,5 +1,3 @@
-###DEC-083329-0-000-16-04-1979@@@
-
 Decreto nº 83.329, de 16 de abril de 1979.
 
 Autoriza a conversão dos cursos de Ciências, Matemática, Ciências Biológicas, Física e Química em curso de Ciências, da Faculdade "Auxilium", de Filosofia, Ciências e Letras, de Lins, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-046145-0-000-05-06-1959@@@
-
 DECRETO Nº 46.145, DE 5 DE JUNHO DE 1959.
 
 Retifica o art. 1º do Decreto número 44.955, de 1 de dezembro de 1958.

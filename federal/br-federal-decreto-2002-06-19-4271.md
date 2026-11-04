@@ -1,5 +1,3 @@
-###DEC-004271-0-000-19-06-2002@@@
-
 DECRETO Nº 4.271, DE 19 DE JUNHO DE 2002
 
 Dispõe sobre o atendimento da exigência de que trata o § 2º do art. 10 do Decreto n3.431, de 24 de abril de 2000, que regulamenta a execução do Programa de Recuperação Fiscal - REFIS.

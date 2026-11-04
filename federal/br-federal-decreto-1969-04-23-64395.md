@@ -1,5 +1,3 @@
-###DEC-064395-0-000-23-04-1969@@@
-
 Decreto Nº 64.395, de 23 de abril de 1969.
 
 Autoriza o funcionamento da Centrais Elétricas do Sul do Brasil S.A. - Eletrosul, transfere concessão e dá outras providências.

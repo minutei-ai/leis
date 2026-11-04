@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53790)
-
 # LEI Nº 11.952, DE 10 DE JUNHO DE 2005
 
 ## (PL 170/2004 - Jorge Caruso)
@@ -28,15 +26,9 @@ Secretário-Chefe da Casa Civil
 
 Publicada na Assessoria Técnico-Legislativa, aos 10 de junho de 2005.
 
-<br>
-
 #### Retificação da [Lei nº 11.952, de 10 de Junho de 2005](https://www.al.sp.gov.br/norma/53790)
 
-<br>
-
 (Projeto de lei nº 170/2004, do deputado Jorge Caruso - PMDB:
-
-<br>
 
 **Retificação** do D.O. de 11-6-2005
 

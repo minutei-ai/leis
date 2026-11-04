@@ -1,5 +1,3 @@
-###DEC-060281-0-000-02-03-1967@@@
-
 DECRETO Nº 60.281, DE 2 DE MARÇO DE 1967.
 
 Aprova o aumento de capital social e alteração do art. 7º dos Estatutos Sociais da Rêde Ferroviária Federal Sociedade Anônima.

@@ -1,5 +1,3 @@
-###DEC-053793-0-000-23-03-1964@@@
-
 DECRETO Nº 53.793, de 23 de março de 1964.
 
 Outorga ao Município de Itapeaçu concessão para distribuir energia elétrica.

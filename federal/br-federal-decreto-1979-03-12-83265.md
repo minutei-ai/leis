@@ -1,5 +1,3 @@
-###DEC-083265-0-000-12-03-1979@@@
-
 Decreto nº 83.265, de 12 de março de 1979
 
 Fixa o fator de reajustamento salarial relativo a maço de 1979.

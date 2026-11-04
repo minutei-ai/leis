@@ -1,5 +1,3 @@
-###DEC-090935-0-000-11-02-1985@@@
-
 Decreto nº 90.935 de 11 de fevereiro de 1985
 
 Declara de utilidade pública as instituições que menciona.

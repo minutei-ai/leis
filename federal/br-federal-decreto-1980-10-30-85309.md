@@ -1,5 +1,3 @@
-###DEC-085309-0-000-30-10-1980@@@
-
 Decreto nº 85.309, de 30 de outubro de 1980.
 
 Dispõe sobre a operação do Porto de Santos, a partir de 8 de novembro de 1980, fixa regras para a passagem do acervo, instalações e pessoal à responsabilidade da Companhia Docas do Estado de São Paulo - CODESP, e dá outras providências.

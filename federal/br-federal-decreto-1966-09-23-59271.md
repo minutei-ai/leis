@@ -1,5 +1,3 @@
-###DEC-059271-0-000-23-09-1966@@@
-
 DECRETO Nº 59.271, DE 23 DE SETEMBRO DE 1966.
 
 Altera o regimento da Contadoria-Geral da República, aprovado, pelo Decreto número 1.508, de 12 de novembro de 1962.
@@ -61,8 +59,6 @@ Brasília, 23 de setembro de 1966; 145º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Octávio Bulhões
-
-###DEC-059271-0-000-23-09-1966@@@RET01+++
 
 Decreto nº 59.271, de 23 de setembro de 1966.
 

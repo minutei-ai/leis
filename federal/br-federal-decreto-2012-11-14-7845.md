@@ -1,5 +1,3 @@
-###DEC-007845-0-000-14-11-2012-PUB-01@@@
-
 DECRETO Nº\- 7.845, DE 14 DE NOVEMBRO DE 2012
 
 Regulamenta procedimentos para  redenciamento de segurança e tratamento de informação classificada em qualquer grau de sigilo, e dispõe sobre o Núcleo de Segurança e Credenciamento.

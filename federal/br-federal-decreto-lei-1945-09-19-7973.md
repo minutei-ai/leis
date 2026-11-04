@@ -1,5 +1,3 @@
-###DEL-007973-0-000-19-09-1945@@@
-
 DECRETO-LEI N. 7.973 – DE 19 DE SETEMBRO DE 1945
 
 Cria função gratificada no Quadro VI – Rede de Viação Cearense – do Ministério da Viação e Obras Publicas e dá outras providências.

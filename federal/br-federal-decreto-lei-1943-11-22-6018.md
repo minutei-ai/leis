@@ -1,5 +1,3 @@
-###DEL-006018-0-000-22-11-1943@@@
-
 DECRETO‑LEI N. 6.018 – DE 22 DE NOVEMBRO DE 1943
 
 Altera a carreira de Tecnologista do Quadro Permanente do Ministério da Agricultura

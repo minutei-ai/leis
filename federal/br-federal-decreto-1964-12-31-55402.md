@@ -1,5 +1,3 @@
-###DEC-055402-0-000-31-12-1964@@@
-
 Decreto nº 55.402, de 31 de dezembro de 1964.
 
 Autoriza a Sociedade São Paulo de Mineração Limitada a lavrar minério de ferro, no município de Joinvile, Estado de Santa Catarina.

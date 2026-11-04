@@ -1,5 +1,3 @@
-###DEL-000030-0-000-01-12-1937@@@
-
 DECRETO-LEI N. 30 – DE 1 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 75:000$000, para distribuição de prêmios aos vencedores das provas aéreas, realizadas em comemoração do “Dia do Aviador”

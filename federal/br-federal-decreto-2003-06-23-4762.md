@@ -1,5 +1,3 @@
-###DEC-004762-0-000-23-06-2003@@@
-
 [DECRETO Nº 4.762, DE 23 DE JUNHO DE 2003.](http://legislacao.planalto.gov.br/legislacao.nsf/Viw_Identificacao/DEC%204.762-2003?OpenDocument)
 
 Atribui à Delegação Permanente do Brasil junto à Associação Latino-Americana de Integração (ALADI) competência para representar o Brasil junto à Secretaria do Mercado Comum do Sul (MERCOSUL), e dá outras providências.       
@@ -14,5 +12,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 23 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Samuel Pinheiro Guimarães Neto

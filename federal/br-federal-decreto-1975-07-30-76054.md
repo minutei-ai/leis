@@ -1,5 +1,3 @@
-###DEC-076054-0-000-30-07-1975@@@
-
 DECRETO Nº 76.054, DE 30 DE JULHO DE 1975.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município e Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-070730-0-000-19-06-1972@@@
-
 DECRETO Nº 70.730, DE 19 DE JUNHO DE 1972.
 
 Concede reconhecimento aos Cursos de Psicologia, Física, Desenho e Plástica e Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras da Organização Mogiana da Educação e Cultura.

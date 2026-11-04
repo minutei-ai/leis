@@ -1,5 +1,3 @@
-###DEC-066809-0-000-30-06-1970@@@
-
 Decreto nº 66.809 - de 30 de junho de 1970
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem da linha de transmissão que se entenderá desde a subestação de São Lourenço da Mata, no município de São Lourenço da Mata até à subestação de Carpina, ambas no Estado de Pernambuco.

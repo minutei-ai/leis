@@ -120,8 +120,6 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 9 de março de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -136,7 +134,8 @@ CALENDÁRIO ANUAL DE PROGRAMAÇÃO E EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA E PR
 | --- | --- | --- | --- |
 | 1 | Último dia útil de cada mês | Art. 6º, § 2º | Os ingressos extraorçamentários que não se configuram como valores de terceiros, nos termos da Nota Técnica nº 003/2017/SEI/SCG, deverão ser identificados e regularizados no SCG, até o último dia útil do mês subsequente ao de seu registro _,_ nos termos do inciso III do art. 6º do [Decreto estadual nº 9.069](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69813/decreto-9069), de 10 de outubro de 2017. |
 | 2 | Cronograma estabelecido por meio de Portaria | Art. 27 | Os órgãos e as entidades deverão encaminhar suas solicitações de créditos suplementares e especiais de acordo com o cronograma estabelecido por meio de portaria da Secretaria de Estado da Economia, em conformidade com o que dispuser a Lei de Diretrizes Orçamentárias vigente. |
-| ~~3~~ | ~~30 de julho~~ | ~~Art. 56, § 1º~~ | ~~As despesas empenhadas, inscritas em Restos a Pagar Processados e Não Processados, anteriores aos cinco últimos exercícios, deverão ser canceladas até 30 de junho de cada exercício.~~<br>
+| ~~3~~ | ~~30 de julho~~ | ~~Art. 56, § 1º~~ | ~~As despesas empenhadas, inscritas em Restos a Pagar Processados e Não Processados, anteriores aos cinco últimos exercícios, deverão ser canceladas até 30 de junho de cada exercício.~~
+
 \- Revogado pelo art. 3º deste decreto. |
 | 4 | Março, maio, julho e outubro | Art. 34, § 1º | Caso a LDO não delimite as datas para as aberturas dos créditos adicionais citados no _caput_, ficam fixados os meses de março, maio, julho e outubro para a autorização dos créditos suplementares e os meses de março, junho e setembro para o encaminhamento dos projetos de lei de créditos especiais à Assembleia Legislativa. |
 | 5 | Março, junho e setembro | Art. 34, § 1º | Caso a LDO não delimite as datas para as aberturas dos créditos adicionais citados no _caput_, ficam fixados os meses de março, maio, julho e outubro para a autorização dos créditos suplementares e os meses de março, junho e setembro para o encaminhamento dos projetos de lei de créditos especiais à Assembleia Legislativa. |

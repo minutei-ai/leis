@@ -1,5 +1,3 @@
-###DEC-083767-0-000-24-07-1979@@@
-
 decreto nº 83.767, de 24 de julho de 1979.
 
 Outorga à Companhia Estadual de Energia Elétrica - CEEE concessão para o aproveitamento da energia hidráulica de um trecho do rio Jacuí, nos Municípios de Agudo, Sobradinho e Nova Palma, Estado do Rio Grande do Sul.

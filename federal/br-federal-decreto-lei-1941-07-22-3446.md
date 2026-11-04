@@ -1,5 +1,3 @@
-###DEL-003446-0-000-22-07-1941@@@
-
 DECRETO-LEI N. 3.446 – DE 22 DE JULHO DE 1941
 
 Abre, pelo Ministério da Guerra, o crédito suplementar de 116:700$0 a verba que especifica

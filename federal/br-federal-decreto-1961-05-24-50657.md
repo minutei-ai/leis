@@ -1,5 +1,3 @@
-###DEC-050657-0-000-24-05-1961@@@
-
 DECRETO Nº 50.657, DE 24 DE MAIO DE 1961.
 
 Dá nova redação à letra d) do art. 71 e ao art. 78 do Regulamento para a Escola de Comando e Estado-Maior do Exército (ESCEME).

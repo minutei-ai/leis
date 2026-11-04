@@ -1,5 +1,3 @@
-###DEC-077267-0-000-09-03-1976@@@
-
 DECRETO Nº 77.267, DE 9 DE MARÇO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Anita Garibaldi Ltda., para que a Rádio e Televisão Cultura S.A. passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Florianópolis, Estado de Santa Catarina.

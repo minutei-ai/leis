@@ -1,5 +1,3 @@
-###DEC-052436-0-000-02-09-1963@@@
-
 DECRETO Nº 52.436, DE 2 DE SETEMBRO DE 1963.
 
 Altera a redação do número 5 (cinco) das especificação para a classificação do tabaco em fôlha da Bahia, aprovado pelo Decreto nº 10.218, de-12-8-42 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067574-0-000-16-11-1970@@@
-
 DECRETO Nº 67.574, DE 16 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinadas à passagem da linha de transmissão que se estenderá desde a cidade Firminópolis até a cidade de Turvânia, no Estado de Goiás.
@@ -25,8 +23,6 @@ Brasília, 16 de novembro de 1970; 149º da Independência e 82º da República.
 Emílio G. Médici
 
 Antônio Dias Leite Júnior
-
-###DEC-067574-0-000-16-11-1970@@@
 
 DECRETO Nº 67.574, DE 16 DE NOVEMBRO DE 1970.
 

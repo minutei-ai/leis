@@ -1,5 +1,3 @@
-###DEC-076483-0-000-20-10-1975@@@
-
 Decreto Nº 76.483, de 20 de outubro de 1975.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Santo André, com sede na cidade de Santo André, Estado de São Paulo.

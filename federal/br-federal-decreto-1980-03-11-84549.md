@@ -1,5 +1,3 @@
-###DEC-084549-0-000-11-03-1980@@@
-
 decreto nº 84.549, de 11 de março de 1980
 
 Concede autorização à empresa ELF-AQUITAINE BRÉSIL, para operar em águas interiores do Brasil, fixado pelo Decreto-Lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

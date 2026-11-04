@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208596)<br>
-
 # DECRETO N° 67.991, DE 02 DE OUTUBRO DE 2023
 
 ### _Estabelece orientações aos órgãos e entidades integrantes da Administração Direta e Indireta acerca do recesso para comemoração das festas de final de ano._

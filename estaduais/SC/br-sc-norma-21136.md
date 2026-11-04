@@ -34,6 +34,32 @@ Governador do Estado
 
 ~~MESES ALUSIVOS~~
 
-<table><tbody><tr><td><p><s>MAIO</s></p></td><td><p><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>..................................................................................................</s></p></td><td><p><s>......................................</s></p></td></tr><tr><td><p><s>JUNHO</s></p></td><td><p></p></td></tr><tr><td><p><s>..................................................................................................</s></p></td><td><p><s>......................................</s></p></td></tr><tr><td><p><s>Junho Violeta</s></p><p></p><p><s>Mês dedicado às ações educativas de conscientização e prevenção da violência contra o idoso, priorizando:</s></p><p></p><p><s>I – a garantia de sua dignidade, observados os preceitos da Lei federal nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso);</s></p><p></p><p><s>II – a melhoria dos indicadores relativos a esse tipo de violência; e</s></p><p></p><p><s>III – a realização de cursos, seminários, palestras e debates sobre o tema.</s></p></td><td><p></p></td></tr><tr><td><p><s>..................................................................................................</s></p></td><td><p><s>......................................</s></p></td></tr></tbody></table>
+~~MAIO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~..................................................................................................~~
+
+~~......................................~~
+
+~~JUNHO~~
+
+~~..................................................................................................~~
+
+~~......................................~~
+
+~~Junho Violeta~~
+
+~~Mês dedicado às ações educativas de conscientização e prevenção da violência contra o idoso, priorizando:~~
+
+~~I – a garantia de sua dignidade, observados os preceitos da Lei federal nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso);~~
+
+~~II – a melhoria dos indicadores relativos a esse tipo de violência; e~~
+
+~~III – a realização de cursos, seminários, palestras e debates sobre o tema.~~
+
+~~..................................................................................................~~
+
+~~......................................~~
 
 ~~” (NR)~~

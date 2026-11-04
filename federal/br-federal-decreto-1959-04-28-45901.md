@@ -1,5 +1,3 @@
-###DEC-045901-0-000-28-04-1959@@@
-
 decreto nº 45.901, de 28 de abril de 1959.
 
 Autoriza a emprêsa de mineração Magnesita S.A. a pesquisar cromita no município de Hidrolândia, Estado de Goiás.

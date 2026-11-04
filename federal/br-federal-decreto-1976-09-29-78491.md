@@ -1,5 +1,3 @@
-###DEC-078491-0-000-29-09-1976@@@
-
 DECRETO Nº 78.491, DE 29 DE SETEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Espírito Santo Centrais Elétricas S. A . - ESCELSA, no Estado do Espírito Santo.

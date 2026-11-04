@@ -1,5 +1,3 @@
-###DEC-047686-0-000-20-01-1960@@@
-
 decreto nº 47.686, de 20 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro Osmário de Matos a pesquisar mica no município de Bom Jesus do Galho, Estado de Minas Gerais.

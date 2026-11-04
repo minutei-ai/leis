@@ -1,5 +1,3 @@
-###DEC-006903-0-000-20-07-2009@@@
-
 DECRETO Nº 6.903, DE 20 DE JULHO DE 2009.
 
 Dispõe sobre a execução da Ata de Retificação, de 30 de outubro de 2007, do Acordo de Complementação Econômica n~~º~~ 62, entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República de Cuba.

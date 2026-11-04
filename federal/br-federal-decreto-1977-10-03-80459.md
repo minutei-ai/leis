@@ -1,5 +1,3 @@
-###DEC-080459-0-000-03-10-1977@@@
-
 DECRETO Nº 80.459, DE 3 DE OUTUBRO DE 1977.
 
 Concede à Mineração Potyra S.A o direito de lavrar scheelita no Município de Lages, Estado do Rio Grande do Norte.

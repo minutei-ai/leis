@@ -1,5 +1,3 @@
-###DEC-059410-0-000-24-10-1966@@@
-
 Decreto nº 59.410, de 24 de outubro de 1966.
 
 Prorroga o prazo a que se refere o artigo 4º do Decreto nº 59.067, de 12 de agôsto de 1966.

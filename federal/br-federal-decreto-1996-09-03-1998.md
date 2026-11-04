@@ -1,7 +1,3 @@
-1
-
-###DEC-001998-0-000-03-09-1996@@@
-
 DECRETO N° 1.998, DE 3 DE SETEMBRO DE 1996.
 
 Dispõe sobre remanejamento dos cargos em comissão que menciona e dá outras providências.

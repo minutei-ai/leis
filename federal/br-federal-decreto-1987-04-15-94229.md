@@ -1,5 +1,3 @@
-###DEC-094229-0-000-15-04-1987@@@
-
 DECRETO Nº 94.229, DE 15 DE ABRIL DE 1987.
 
 Decreta de utilidade pública as instituições que menciona.

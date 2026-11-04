@@ -1,7 +1,3 @@
-1
-
-###DEC-001708-0-000-20-11-1995@@@
-
 DECRETO N° 1.708, DE 20 DE NOVEMBRO DE 1995.
 
 Remaneja cargos em comissão entre o Ministério da Administração Federal e Reforma do Estado e a Fundação Instituto de Pesquisa Econômica Aplicada - IPEA.

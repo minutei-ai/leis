@@ -1,5 +1,3 @@
-###DEC-054779-0-000-31-10-1964@@@
-
 DECRETO Nº 54.779, DE 31 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia de Estanho São João del Rei a lavrar cassiterita, tântalo, columbita e ouro, no município de São João del Rei Estado de Minas Gerais.

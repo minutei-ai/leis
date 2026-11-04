@@ -1,5 +1,3 @@
-###DEC-085043-0-000-14-08-1980@@@
-
 Decreto nº 85.043, de 14 de agosto de 1980
 
 Dispõe sobre a inclusão em Quadro Suplementar Especial dos Servidores Civis que retornaram à atividade por força da Lei 6.683, de 28 de agosto de 1979.

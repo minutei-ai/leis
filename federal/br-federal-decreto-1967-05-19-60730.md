@@ -1,5 +1,3 @@
-###DEC-060730-0-000-19-05-1967@@@
-
 DECRETO Nº 60.730, DE 19 DE MAIO DE 1967.
 
 Provê sôbre a criação da Comissão Especial para promover estudos e consecução de recursos destinados a atividades educacionais e culturais.

@@ -1,5 +1,3 @@
-###DEC-003484-0-000-23-05-2000@@@
-
 DECRETO Nº 3.484, DE 23 DE MAIO DE 2000.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

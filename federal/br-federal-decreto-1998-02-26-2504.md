@@ -1,5 +1,3 @@
-###DEC-002504-0-000-26-02-1998@@@
-
 DECRETO Nº 2.504, DE 26 DE FEVEREIRO DE 1998
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Companhia de Entrepostos e Armazéns Gerais do Estado de São Paulo - CEAGESP.

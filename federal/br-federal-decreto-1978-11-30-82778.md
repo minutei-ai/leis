@@ -1,5 +1,3 @@
-###DEC-082778-0-000-30-11-1978@@@
-
 DECRETO Nº 82.778 DE 30 DE NOVEMBRO DE 1978
 
 Autoriza a conversão do curso de Matemática em curso de Ciências, ministrado pela Faculdade de Filosofia, Ciências e Letras de Itajubá, com sede na cidade de Itajubá, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-091169-0-000-22-03-1985@@@
-
 Decreto nº 91.169, de 22 DE março de 1985.
 
 Regulamenta o disposto no artigo 4º, itens V e VI, da Lei nº 5.887, de 31 de maio de 1973.

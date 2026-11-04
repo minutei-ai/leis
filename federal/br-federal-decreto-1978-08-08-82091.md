@@ -1,5 +1,3 @@
-###DEC-082091-0-000-08-08-1978@@@
-
 DECRETO Nº 82.901, DE 08 DE AGOSTO DE 1978.
 
 Declara sem efeito o Decreto nº 55.400, de 31 de dezembro de 1964, retificado pelo Decreto nº 64.371, de 18 de abril de 1969, que concedeu à S.A. de Cimento, Mineração e Cabotagem CIMIMAR o direto de lavrar caulim e argila no Município de São Bernardo do Campo, Estado de São Paulo.

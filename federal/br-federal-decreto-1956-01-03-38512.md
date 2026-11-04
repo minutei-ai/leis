@@ -1,16 +1,14 @@
-###DEC-038512-0-000-03-01-1956@@@
+**DECRETO Nº 38.512, DE 3 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.512, DE 3 DE JANEIRO DE 1956.</strong>
+***Altera o Regulamento de Uniformes ao Pessoal do Exército (RUPE).***
 
-<em><strong>Altera o Regulamento de Uniformes ao Pessoal do Exército (RUPE).</strong></em>
+**O VICE-PRESIDENTE DOSENADO FEDERAL**, no Exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO</strong> <strong>SENADO FEDERAL</strong>, no Exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º São suprimidos os art. 5º a letra *b* do art. 18 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954.
 
-<strong>Art</strong>. 1º São suprimidos os art. 5º a letra <em>b</em> do art. 18 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954.
-
-<strong>Art</strong>. 2º É dada a seguinte redação ao art. 16 do Decreto nº 34.999, de 2 de fevereiro de 1954:
+**Art**. 2º É dada a seguinte redação ao art. 16 do Decreto nº 34.999, de 2 de fevereiro de 1954:
 
 “Art. 16. Coturnos - Para oficiais e praças.
 
@@ -20,7 +18,7 @@ Para armas a pé e motorizadas (Fig. - 1).
 
 b) - Tipo intendência, de vaqueta mista, preto, de forma anatômica. Na parte superior é composto de gáspea, biqueira sem enfeite, contraforte, fole, cano com canhão inteiriço, de 48 a 50cm de circunferência por 25cm de altura. Na face externa do canhão, três fivelas de latão, oxidadas, com roletes de 28x25mm, nas quais se fixam as presilhas para ajustá-lo à perna. A parte inferior é composta de palmilha, vira, enfuste, alma sola dupla e salto. Para armas montadas (Fig. - 2).
 
-<strong>Art</strong>. 3º É dada a seguinte redação ao artigo 20 do Decreto número 34.999, de 2 de fevereiro de 1954:
+**Art**. 3º É dada a seguinte redação ao artigo 20 do Decreto número 34.999, de 2 de fevereiro de 1954:
 
 “Art. 20 - Meias.
 
@@ -30,19 +28,19 @@ b) - Pretas. Para oficiais, aspirantes a oficial, subtenentes e sargentos - de f
 
 Para cabos e soldados - de tecido cru ou de fio de escócia, de feitio comum. Cano de 9,5 cm de comprimento, tecido com fio duplo. Perna com 19 a 21 cm e pé, tecidos com fio simples.
 
-<strong>Art</strong>. 4º Acrescentar a letra <em>b</em> do art. 22, do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954, o seguinte:
+**Art**. 4º Acrescentar a letra *b* do art. 22, do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954, o seguinte:
 
 Para cabos e soldados:
 
 Tipo intendência, de vaqueta mista, sola dupla, forma anatômica, com biqueira e sem enfeites, atacando no peito do pé, por cordões pretos.
 
-<strong>Art</strong>. 5º Alterar a redação do artigo 34 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954:
+**Art**. 5º Alterar a redação do artigo 34 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954:
 
-\- acrescentando a sua letra <em>a</em>:
+\- acrescentando a sua letra *a*:
 
 \- De tecido de lã verde oliva escura, impermeabilizado, de modêlo e feitio idêntico ao descrito acima.
 
-\- dando a seguinte redação a sua letra <em>b</em>:
+\- dando a seguinte redação a sua letra *b*:
 
 b) Para cabos e soldados de armas montadas.
 
@@ -52,7 +50,7 @@ b) Para cabos e soldados de armas montadas.
 
 \- De tecido de brim vede oliva, impermeabilizado, de modêlo o feitio idêntico ao primeiro descrito.
 
-<strong>Art</strong>. 6º Acrescentar ao art. 43 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954, o seguinte:
+**Art**. 6º Acrescentar ao art. 43 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954, o seguinte:
 
 Para cabos e soldados de armas a pé e motorizados.
 
@@ -62,7 +60,7 @@ Para cabos e soldados de armas a pé e motorizados.
 
 \- De tecido de brim verde oliva impermeabilizado, idêntico ao modêlo descrito acima, sem forro.
 
-<strong>Art</strong>. 7º Alterar a redação do artigo 3º do Regulamento aprovado pelo Decreto nº 30.163, de 13 de novembro de 1951:
+**Art**. 7º Alterar a redação do artigo 3º do Regulamento aprovado pelo Decreto nº 30.163, de 13 de novembro de 1951:
 
 \- Substituindo borzeguins por sapatos pretos, no 6º uniforme;
 
@@ -70,7 +68,7 @@ Para cabos e soldados de armas a pé e motorizados.
 
 \- Substituindo o gorro de brim verde oliva claro, no 11 uniforme, por boné de brim mescla verde oliva claro, com pala mole.
 
-<strong>Art</strong>. 8º Alterar a redação do artigo 4º do Regulamento aprovado pelo Decreto nº 30.163, de 13 de novembro de 1951, que passará a ter suas letras <em>g</em> e <em>h</em> com a seguinte redação:
+**Art**. 8º Alterar a redação do artigo 4º do Regulamento aprovado pelo Decreto nº 30.163, de 13 de novembro de 1951, que passará a ter suas letras *g* e *h* com a seguinte redação:
 
 g) - 7º uniforme - Na instrução e na faina diária, no interior dos Corpos de Tropa, das Fábricas, dos Arsenais e dos Estabelecimentos e, ainda, no trânsito para o quartel, nas pequenas guarnições, conforme for regulado pelos respectivos comandantes.
 
@@ -82,10 +80,10 @@ h) - 8º uniforme - Na instrução e na faina diária das unidades motomecanizad
 
 Com boné de brim mescla verde oliva claro com pala mole, quando não se impuser o uso do capacete.
 
-<strong>Art</strong>. 9º O presente decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 9º O presente decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Rio de Janeiro, 3 de janeiro de 1956; 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Henrique Lott

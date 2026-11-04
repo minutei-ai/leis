@@ -1,5 +1,3 @@
-###DEC-079156-0-000-24-01-1977@@@
-
 DECRETO Nº 79.156, DE 24 DE JANEIRO DE 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

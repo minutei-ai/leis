@@ -1,7 +1,3 @@
-1
-
-###DEC-097775-0-000-22-05-1989@@@
-
 DECRETO Nº 97.775, DE 22 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado “FAZENDA SÃO JOSÉ”, classificado como “latifúndio por exploração”, situado no Município de Campos Novos, Estado de Santa Catarina, compreendido na zona prioritária fixada pelo Decreto nº 92.693, de 19 de maio de 1986, e dá outras providências.

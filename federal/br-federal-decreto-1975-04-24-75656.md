@@ -1,5 +1,3 @@
-###DEC-075656-0-000-24-04-1975@@@
-
 DECRETO Nº 75.656, DE 24 DE ABRIL DE 1975
 
 Estabelece normas provisórias para a implantação do Grupo-Direção e Assessoramento Superiores no regime da legislação trabalhista e dá outras providências.

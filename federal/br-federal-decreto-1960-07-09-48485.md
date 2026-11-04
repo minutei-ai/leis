@@ -1,5 +1,3 @@
-###DEC-048485-0-000-09-07-1960@@@
-
 DECRETO Nº 48.485, DE 9 DE JULHO DE 1960.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de Cr$5.000.000,00, para auxiliar a construção dos prédios do Seminário Menor da Diocese de Guaxupé e do Seminário São Pio X da Diocese de Sete Lagoas, no Estado de Minas Gerais.

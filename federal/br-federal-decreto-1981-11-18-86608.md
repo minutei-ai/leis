@@ -1,5 +1,3 @@
-###DEC-086608-0-000-18-11-1981@@@
-
 Decreto nº 86.608, de 18 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO METRÓPOLE DE CRISSIUMAL LTDA., na cidade de Crissiumal, Estado do Rio Grande do Sul.

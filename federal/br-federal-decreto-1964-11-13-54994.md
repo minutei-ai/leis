@@ -1,5 +1,3 @@
-###DEC-054994-0-000-13-11-1964@@@
-
 DECRETO Nº 54.994, DE 13 DE NOVEMBRO DE 1964.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.

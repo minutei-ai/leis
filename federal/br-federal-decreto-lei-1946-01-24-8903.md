@@ -1,5 +1,3 @@
-###DEL-008903-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.903 – DE 24 DE JANEIRO DE 1946
 
 Transferência de funcionário da carreira de Médico do Quadro Especial para a de Médico Sanitarista do Quadro Permanente do Ministério da Educação e Saúde.

@@ -1,5 +1,3 @@
-###DEC-097080-0-000-21-11-1988@@@
-
 DECRETO N° 97.080, DE 21 DE NOVEMBRO DE 1988
 
 Dispõe sobre o aumento do capital autorizado da Petrobrás Fertilizantes S.A. - PETROFÉRTIL.

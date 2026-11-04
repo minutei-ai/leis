@@ -1,5 +1,3 @@
-###DEC-056654-0-000-05-08-1965@@@
-
 DECRETO Nº 56.654, DE 5 DE AGÔSTO DE 1965.
 
 Autoriza Jorge Badin a comprar pedras preciosas.

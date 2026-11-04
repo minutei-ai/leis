@@ -1,5 +1,3 @@
-###DEC-076513-0-000-24-10-1975@@@
-
 DECRETO Nº 76.513, DE 24 DE OUTUBRO DE 1975.
 
 Concede a Dulce Valadares de Vasconcelos Abreu, firma individual, o direito de lavrar agalmatolito no Município de Pitangui, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-080795-0-000-22-11-1977@@@
-
 DECRETO Nº 80.795, DE 22 DE NOVEMBRO DE 1977.
 
 Concede reconhecimento aos cursos de Pedagogia e de Letras, ministrados pela Faculdade de Educação e Letras "São Judas Tadeu", com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

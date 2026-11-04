@@ -1,5 +1,3 @@
-###DEC-056324-0-000-21-05-1965@@@
-
 DECRETO Nº 56.324, de 21 de maio de 1965.
 
 Autoriza a Industrial Extrativa Araruama S.A. a pesquisar conchas calcárias, no Município de Magé, Estado do Rio de Janeiro.

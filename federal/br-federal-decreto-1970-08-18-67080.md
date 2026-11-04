@@ -1,5 +1,3 @@
-###DEC-067080-0-000-18-08-1970@@@
-
 DECRETO Nº 67.080, DE 18 DE AGôSTO DE 1970.
 
 Declara caduco o Decreto nº 18.819, de 6 de junho de 1945.

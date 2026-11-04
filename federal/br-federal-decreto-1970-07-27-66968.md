@@ -1,5 +1,3 @@
-###DEC-066968-0-000-27-07-1970@@@
-
 DECRETO Nº 66.968, DE 27 DE JULHO DE 1970.
 
 Declara luto oficial.

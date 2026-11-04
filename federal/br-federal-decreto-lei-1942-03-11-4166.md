@@ -1,5 +1,3 @@
-###DEL-004166-0-000-11-03-1942@@@
-
 DECRETO-LEI N. 4.166 - DE 11 DE MARÇO DE 1942
 
 Dispõe sobre as indenizações devidas por atos de agressão contra bens do Estado brasileiro e contra a vida e bens de brasileiros ou de estrangeiros residentes no Brasil.

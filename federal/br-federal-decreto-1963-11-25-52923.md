@@ -1,5 +1,3 @@
-###DEC-052923-0-000-25-11-1963@@@
-
 DECRETO Nº 52.923, DE 25 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Jacauna Maia a lavrar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

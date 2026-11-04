@@ -1,5 +1,3 @@
-###DEL-007208-0-000-29-12-1944@@@
-
 DECRETO-LEI N. 7.208 – DE 29 DE DEZEMBRO DE 1944
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei nº 4.818, de 8 de outubro de 1942

@@ -1,5 +1,3 @@
-###DEC-004255-0-000-03-06-2002@@@
-
 DECRETO Nº 4.255, DE 3 DE JUNHO DE 2002
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Conselho Administrativo de Defesa Econômica - CADE e dá outras providências.
@@ -166,23 +164,304 @@ Art. 18. As normas de organização e funcionamento das unidades do CADE e as at
 
 Art. 19. Em caso de extinção do CADE, seus bens e direitos passarão à União, depois de satisfeitas as obrigações assumidas com terceiros.
 
-ANEXO II<br>
-a) QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO DO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE<br>
+ANEXO II
+
+a) QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO DO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE
+
  
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>UNIDADE</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CARGOS/ FUNÇÕES/ Nº</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DENOMINAÇÃO CARGO/FUNÇÃO</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS/ FG</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Presidente</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.6</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GABINETE</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.4</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Divisão</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.2</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Serviço</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.1</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROCURADORIA</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Procurador-Geral</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.5</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenação</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenador</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.3</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenação-Geral de Administração e Finanças</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coordenador-Geral</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.4</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Divisão</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.2</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PLENÁRIO</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Conselheiro</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>101.5</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Assessor Processual</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>102.4</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Assistente Processual</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>102.3</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:205.45pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:94.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:117.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:40pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+UNIDADE
 
-<br>
-b) QUADRO RESUMO DE CUSTOS DE CARGOS EM COMISSÃO DO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE<br>
+CARGOS/ FUNÇÕES/ Nº
+
+DENOMINAÇÃO CARGO/FUNÇÃO
+
+DAS/ FG
+
+1
+
+Presidente
+
+101.6
+
+GABINETE
+
+1
+
+Chefe
+
+101.4
+
+Divisão
+
+1
+
+Chefe
+
+101.2
+
+Serviço
+
+2
+
+Chefe
+
+101.1
+
+PROCURADORIA
+
+1
+
+Procurador-Geral
+
+101.5
+
+Coordenação
+
+3
+
+Coordenador
+
+101.3
+
+Coordenação-Geral de Administração e Finanças
+
+1
+
+Coordenador-Geral
+
+101.4
+
+Divisão
+
+3
+
+Chefe
+
+101.2
+
+PLENÁRIO
+
+6
+
+Conselheiro
+
+101.5
+
+5
+
+Assessor Processual
+
+102.4
+
+7
+
+Assistente Processual
+
+102.3
+
+b) QUADRO RESUMO DE CUSTOS DE CARGOS EM COMISSÃO DO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE
+
  
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CÓDIGO</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS-UNITÁRIO</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SITUAÇÃO ATUAL</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SITUAÇÃO NOVA</span></p></td><td style="vertical-align:top"></td><td style="vertical-align:top"></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>QTDE</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALOR TOTAL</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>QTDE</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALOR TOTAL</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.6</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6,52</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6,52</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6,52</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.5</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4,94</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>34,58</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>34,58</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.4</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3,08</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3,08</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6,16</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.3</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,24</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4,96</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3,72</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.2</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,11</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4,44</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4,44</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.1</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,00</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2,00</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2,00</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 102.4</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3,08</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>18,48</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>15,40</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 102.3</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,24</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>6</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7,44</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>7</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8,68</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:59.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL</span></p></td><td style="width:86.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>31</span></p></td><td style="width:99.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>81,50</span></p></td><td style="width:92.65pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>31</span></p></td><td style="width:41pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>81,50</span></p></td><td style="width:79.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:0pt"><td style="width:59.75pt"></td><td style="width:86.2pt"></td><td style="width:99.1pt"></td><td style="width:92.65pt"></td><td style="width:41pt"></td><td style="width:79.75pt"></td></tr></tbody></table>
+CÓDIGO
 
-<br>
-ANEXO III<br>
-REMANEJAMENTO DE CARGOS<br>
+DAS-UNITÁRIO
+
+SITUAÇÃO ATUAL
+
+SITUAÇÃO NOVA
+
+QTDE
+
+VALOR TOTAL
+
+QTDE
+
+VALOR TOTAL
+
+DAS 101.6
+
+6,52
+
+1
+
+6,52
+
+1
+
+6,52
+
+DAS 101.5
+
+4,94
+
+7
+
+34,58
+
+7
+
+34,58
+
+DAS 101.4
+
+3,08
+
+1
+
+3,08
+
+2
+
+6,16
+
+DAS 101.3
+
+1,24
+
+4
+
+4,96
+
+3
+
+3,72
+
+DAS 101.2
+
+1,11
+
+4
+
+4,44
+
+4
+
+4,44
+
+DAS 101.1
+
+1,00
+
+2
+
+2,00
+
+2
+
+2,00
+
+DAS 102.4
+
+3,08
+
+6
+
+18,48
+
+5
+
+15,40
+
+DAS 102.3
+
+1,24
+
+6
+
+7,44
+
+7
+
+8,68
+
+TOTAL
+
+31
+
+81,50
+
+31
+
+81,50
+
+ANEXO III
+
+REMANEJAMENTO DE CARGOS
+
  
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:52.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>CÓDIGO</span></p></td><td style="width:66.85pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS-UNITÁRIO</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DA SEGES/MP P/ O CADE (a)</span></p></td><td style="width:120.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DO CADE P/ SEGES/MP (b)</span></p></td><td style="vertical-align:top"></td><td style="vertical-align:top"></td></tr><tr><td style="width:52.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.85pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>QTDE.</span></p></td><td style="width:120.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALOR TOTAL</span></p></td><td style="width:32.7pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>QTDE.</span></p></td><td style="width:61.95pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALOR TOTAL</span></p></td></tr><tr><td style="width:52.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.85pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:120.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:32.7pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:61.95pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:52.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.4</span></p></td><td style="width:66.85pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3,08</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:120.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3,08</span></p></td><td style="width:32.7pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:61.95pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td></tr><tr><td style="width:52.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 101.3</span></p></td><td style="width:66.85pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,24</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:120.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:32.7pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:61.95pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,24</span></p></td></tr><tr><td style="width:52.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.85pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:120.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:32.7pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:61.95pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:52.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 102.4</span></p></td><td style="width:66.85pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3,08</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:120.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:32.7pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:61.95pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3,08</span></p></td></tr><tr><td style="width:52.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>DAS 102.3</span></p></td><td style="width:66.85pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,24</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:120.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,24</span></p></td><td style="width:32.7pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:61.95pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td></tr><tr><td style="width:52.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.85pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:120.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:32.7pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:61.95pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:52.2pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL</span></p></td><td style="width:66.85pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:130.25pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4,32</span></p></td><td style="width:120.5pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:32.7pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>4,32</span></p></td><td style="width:61.95pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:0pt"><td style="width:52.2pt"></td><td style="width:66.85pt"></td><td style="width:130.25pt"></td><td style="width:120.5pt"></td><td style="width:32.7pt"></td><td style="width:61.95pt"></td></tr></tbody></table>
+CÓDIGO
 
-<br>
+DAS-UNITÁRIO
+
+DA SEGES/MP P/ O CADE (a)
+
+DO CADE P/ SEGES/MP (b)
+
+QTDE.
+
+VALOR TOTAL
+
+QTDE.
+
+VALOR TOTAL
+
+DAS 101.4
+
+3,08
+
+1
+
+3,08
+
+-
+
+-
+
+DAS 101.3
+
+1,24
+
+-
+
+-
+
+1
+
+1,24
+
+DAS 102.4
+
+3,08
+
+-
+
+-
+
+1
+
+3,08
+
+DAS 102.3
+
+1,24
+
+1
+
+1,24
+
+-
+
+-
+
+TOTAL
+
+2
+
+4,32
+
+2
+
+4,32

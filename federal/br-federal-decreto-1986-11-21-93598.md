@@ -1,5 +1,3 @@
-###DEC-093598-0-000-21-11-1986@@@
-
 DECRETO Nº 93.598, DE 21 DE NOVEMBRO DE 1986.
 
 Dá nova redação ao parágrafo único do artigo 3º do Decreto nº 92.492, de 25 de março de 1986.

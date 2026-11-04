@@ -1,5 +1,3 @@
-###MPV-000347-0-000-22-01-2007@@@
-
 MEDIDA PROVISÓRIA Nº 347, DE 22 DE JANEIRO DE 2007.
 
 Constitui fonte de recursos adicional para ampliação de limites operacionais da Caixa Econômica Federal - CEF.
@@ -37,5 +35,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

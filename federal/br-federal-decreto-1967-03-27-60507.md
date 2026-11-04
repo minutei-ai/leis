@@ -1,5 +1,3 @@
-###DEC-060507-0-000-27-03-1967@@@
-
 DECRETO Nº 60.507, DE 27 DE MARÇO DE 1967.
 
 Altera o Regulamento da Comissão de Marinha Mercante, baixado pelo Decreto nº 46.512, de 21 de julho de 1959.

@@ -1,5 +1,3 @@
-###DEC-064905-0-000-29-07-1969@@@
-
 DECRETO Nº 64.905 - DE 29 DE JULHO DE 1969.
 
 Provê sôbre a constituição de Grupo de Trabalho.

@@ -1,5 +1,3 @@
-###DEC-061001-0-000-13-07-1967@@@
-
 DECRETO Nº 61.001, DE 13 DE JULHO DE 1967.
 
 Declara de utilidade pública a Sociedade “Lar Escola Santa Verônica”, com sede em Taubaté, Estado de São Paulo.

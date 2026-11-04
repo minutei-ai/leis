@@ -1,7 +1,3 @@
-1
-
-###MPV-000934-0-000-01-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 934, DE 1º DE MARÇO DE 1995
 
 Dispõe sobre a implementação da autarquia Conselho Administrativo de Defesa Econômica (Cade), criada pela Lei nº 8.884, de 11 de junho de 1994, e dá outras providências.

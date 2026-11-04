@@ -1,5 +1,3 @@
-###DEL-000046-0-000-07-12-1937@@@
-
 DECRETO-LEI N. 46 – DE 7 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da .Marinha, o crédito especial de dois mil contos de réis (2.000:000$000) para a Escola Naval e construção de uma ponte entre a ilha de Willegaignon e o continente,

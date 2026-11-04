@@ -1,5 +1,3 @@
-###DEC-007182-0-000-20-05-2010@@@
-
 DECRETO Nº 7.182, DE 20 DE MAIO DE 2010
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República do Equador na Área do Turismo, firmado em Brasília, em 4 de abril de 2007.

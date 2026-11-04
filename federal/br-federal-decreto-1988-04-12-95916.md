@@ -1,5 +1,3 @@
-###DEC-095916-0-000-12-04-1988@@@
-
 DECRETO N° 95.916, DE 12 DE ABRIL DE 1988
 
 Autoriza a alienação das emissoras de rádio e televisão que menciona e dá outras providências.

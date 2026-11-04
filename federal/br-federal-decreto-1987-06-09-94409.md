@@ -1,5 +1,3 @@
-###DEC-094409-0-000-09-06-1987@@@
-
 DECRETO Nº 94.409, DE 9 DE JUNHO DE 1987
 
 Outorga concessão à TV O ESTADO - FLORIANÓPOLIS LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Florianópolis, Estado de Santa Catarina.

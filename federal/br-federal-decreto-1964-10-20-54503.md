@@ -1,5 +1,3 @@
-###DEC-054503-0-000-20-10-1964@@@
-
 DECRETO Nº 54.503, DE 20 DE OUTUBRO DE 1964.
 
 Altera o Decreto que definiu, na Aeronáutica, os cursos e exames do pessoal subalterno para fins da Lei de Inatividade e das Leis Especiais.

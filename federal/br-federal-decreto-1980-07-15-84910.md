@@ -1,5 +1,3 @@
-###DEC-084910-0-000-15-07-1980@@@
-
 Decreto nº 84.910, de 15 de julho dE 1980.
 
 Regulamenta dispositivos da Lei nº 6.505, de 13 de dezembro de 1977, referentes aos Meios de Hospedagem de Turismo, Restaurantes de Turismo e Acampamentos Turísticos ("Campings").

@@ -1,5 +1,3 @@
-###DEC-062277-0-000-19-02-1968@@@
-
 Decreto 62.277, de 19 de fevereiro de 1968.
 
 Declara de utilidade pública a “Associação Cultural Ítalo-Brasileira”, com sede em Santos, Estado de São Paulo.

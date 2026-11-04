@@ -1,5 +1,3 @@
-###DEC-066960-0-000-27-07-1970@@@
-
 decreto nº 66.960, de 27 de JULHo de 1970.
 
 Declara de utilidade pública o Educandário Nossa Senhora de Nazaré, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-004232-0-000-14-05-2002@@@
-
 DECRETO Nº 4.232, DE 14 DE MAIO DE 2002
 
 Dispõe sobre as audiências e reuniões dos agentes públicos em exercício na Administração Pública Federal direta, nas autarquias e fundações públicas federais com representantes de interesses de particulares.

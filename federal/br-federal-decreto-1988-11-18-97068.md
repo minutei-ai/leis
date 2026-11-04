@@ -1,5 +1,3 @@
-###DEC-097068-0-000-18-11-1988@@@
-
 DECRETO N° 97.068, DE 18 DE NOVEMBRO DE 1988
 
 Concede à empresa SMITHKLINE BECKMAN INTERCREDIT BV autorização para funcionar na República Federativa do Brasil..

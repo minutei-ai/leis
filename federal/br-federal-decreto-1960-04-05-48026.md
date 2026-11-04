@@ -1,5 +1,3 @@
-###DEC-048026-0-000-05-04-1960@@@
-
 DECRETO Nº 48.026, DE 5 DE ABRIL DE 1960.
 
 Concede à Andes - Cia. Mineradora e Exportadora de Granitos Brasileiros autorização para funcionar como emprêsa de mineração.

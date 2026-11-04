@@ -1,5 +1,3 @@
-###DEL-007101-0-000-30-11-1944@@@
-
 DECRETO-LEI N. 7.101 – DE 30 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 2.000.000,00, para prosseguimento da construção da rodovia Lorena-Itajubá

@@ -1,5 +1,3 @@
-###DEC-091132-0-000-13-03-1985@@@
-
 Decreto nº 91.132, de 13 de março de 1985
 
 Outorga concessão à RÁDIO UBERABA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Uberaba, Estado de minas Gerais.

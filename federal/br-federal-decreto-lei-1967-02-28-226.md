@@ -1,5 +1,3 @@
-###DEL-000226-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 226, DE 28 DE FEVEREIRO DE 1967
 
 Cria junto ao Departamento de Administração do Ministério do Trabalho e Previdência Social o Serviço da Conta “Emprêgo e Salário”.

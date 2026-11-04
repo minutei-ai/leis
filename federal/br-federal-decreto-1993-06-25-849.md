@@ -1810,7 +1810,8 @@ ARTIGO 8
 
 Identificação eletrônica
 
-1\. Para identificar e seguir o curso das aeronaves sanitárias poderá ser utilizado o sistema de radar secundário de vigilância (SSR), tal como especificado no<br>
+1\. Para identificar e seguir o curso das aeronaves sanitárias poderá ser utilizado o sistema de radar secundário de vigilância (SSR), tal como especificado no
+
 Anexo 10 da Convenção de Chicago sobre Aviação Civil Internacional, de 7 de dezembro de 1944, com suas modificações posteriores. A modalidade e o código de SSR a serem reservados para uso exclusivo das aeronaves sanitários serão estabelecidos pelas Altas Partes Contratantes, pelas Partes em conflito ou por uma das Partes em conflito, de comum acordo ou separadamente, em consonância com os procedimentos que sejam recomendados pela Organização de Aviação Civil Internacional.
 
 2\. As Partes em conflito, por acordo especial, poderão estabelecer para uso entre elas um sistema eletrônicos semelhantes para identificação de veículos sanitários e de navios e embarcações sanitárias.

@@ -1,5 +1,3 @@
-###DEC-053369-0-000-31-12-1963@@@
-
 DECRETO Nº 53.369, DE 31 DE DEZEMBRO DE 1963
 
 Transfere, sem aumento de despesa, um cargo do Quadro de Pessoal – Parte Permanente do Ministério da Justiça e Negócios Interiores para o Quadro de Pessoal da Secretaria do Ministério Público Federal do mesmo Ministério.

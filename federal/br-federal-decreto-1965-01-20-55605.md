@@ -1,5 +1,3 @@
-###DEC-055605-0-000-20-01-1965@@@
-
 DECRETO Nº 55.605, DE 20 DE JANEIRO DE 1965.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do próprio nacional situado em Manaus, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEC-055375-0-000-31-12-1964@@@
-
 Decreto Nº 55.375, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Roberto Chalu Pacheco a pesquisar cassiterita no município de Lábrea, Estado do Amazonas.

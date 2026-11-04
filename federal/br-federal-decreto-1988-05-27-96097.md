@@ -1,5 +1,3 @@
-###DEC-096097-0-000-27-05-1988@@@
-
 DECRETO N° 96.097, DE 27 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “Colônia Missões - Gleba 5/BA - Lotes 35, 35-A, 46, 47, 48, 49, 50 e 51”, classificado como “latifúndio por exploração” situado no Município de Salgado Filho, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n ° 92. 622, de 02 de maio de 1986, e dá outras providências.

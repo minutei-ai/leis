@@ -1,5 +1,3 @@
-###DEC-072611-0-000-14-08-1973@@@
-
 DECRETO Nº 72.611, DE 14 DE AGOSTO DE 1973.
 
 Autoriza o funcionamento da habilitação Supervisão da Escola de 1º Grau; do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras, mantidas pela Fundação Universidade de Itajubá, com sede na cidade de Itajubá, Minas Gerais.

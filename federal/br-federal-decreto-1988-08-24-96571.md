@@ -1,5 +1,3 @@
-###DEC-096571-0-000-24-08-1988@@@
-
 DECRETO N° 96.571, DE 24 DE AGOSTO DE 1988
 
 Transfere a outorga concedida à RÁDIO CIDADE DE FORTALEZA LTDA., para executar serviço de radiodifusão sonora em onda média, na Cidade de Maranguape-CE, para a Cidade de Maracanaú-CE.

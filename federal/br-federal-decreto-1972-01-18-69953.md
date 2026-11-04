@@ -1,5 +1,3 @@
-###DEC-069953-0-000-18-01-1972@@@
-
 Decreto nº 69.953, de 18 de janeiro de 1972.
 
 Concede reconhecimento aos cursos de Química Industrial e Engenharia Química da Universidade Federal do Ceará.

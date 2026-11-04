@@ -1,5 +1,3 @@
-###DEC-062010-0-000-29-12-1967@@@
-
 DECRETO Nº 62.010, DE 29 DE DEZEMBRO DE 1967.
 
 Outorga à Centrais Elétricas de Goiás S.A. concessão para produzir e distribuir energia elétrica no município de Bela Vista de Goiás, Estado de Goiás.

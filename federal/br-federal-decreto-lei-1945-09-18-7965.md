@@ -1,5 +1,3 @@
-###DEL-007965-0-000-18-09-1945@@@
-
 DECRETO-LEI N. 7.965 – DE 18 DE SETEMBRO DE 1945
 
 Dispõe sôbre o pessoal da Comissão Executiva das Frutas

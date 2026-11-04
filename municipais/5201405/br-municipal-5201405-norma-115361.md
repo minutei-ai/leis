@@ -10,5 +10,6 @@ Art. 2º – As despesas decorrentes da presente Lei correrão por conta do orç
 
 Art. 3º - Esta Lei entra em vigor na data de sua publicação.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Câmara Municipal

@@ -1,5 +1,3 @@
-###DEL-001189-0-000-24-09-1971@@@
-
 # DECRETO-LEI Nº 1.189, DE 24 DE SETEMBRO DE 1971
 
 Dispõe sôbre incentivos à exportação de produtos manufaturados.

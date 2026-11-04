@@ -1,5 +1,3 @@
-###DEC-047924-0-000-14-03-1960@@@
-
 DECRETO Nº 47.924, DE 14 DE MARÇO DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

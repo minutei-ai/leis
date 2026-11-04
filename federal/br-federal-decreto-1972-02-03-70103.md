@@ -1,5 +1,3 @@
-###DEC-070103-0-000-03-02-1972@@@
-
 Decreto Nº 70.103, de 3 de fevereiro de 1972.
 
 Classifica os órgãos de deliberação coletiva existente na área do Ministério do Interior.

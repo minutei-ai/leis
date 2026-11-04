@@ -1,5 +1,3 @@
-###DEC-094779-0-000-13-08-1987@@@
-
 DECRETO N° 94.779, DE 13 DE AGOSTO DE 1987
 
 Outorga concessão à Multison Rádio Princesa da Mata Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Muriaé, Estado de Minas Gerais.

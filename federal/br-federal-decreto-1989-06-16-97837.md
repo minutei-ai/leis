@@ -1,7 +1,3 @@
-1
-
-###DEC-097837-0-000-16-06-1989@@@
-
 DECRETO Nº 97.837, DE 16 DE JUNHO DE 1989
 
 Homologa a demarcação administrativa da Área Indígena WAIMIRI‑ATROARI, que menciona, nos Estados do Amazonas e Roraima e dá outras providencias.

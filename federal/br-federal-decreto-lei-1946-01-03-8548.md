@@ -1,5 +1,3 @@
-###DEL-008548-0-000-03-01-1946@@@
-
 DECRETO-LEI N. 8.548 – DE 3 DE JANEIRO DE 1946
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei número 6.906, de 27 de setembro de 1944.

@@ -1,5 +1,3 @@
-###DEC-002873-0-000-10-12-1998@@@
-
 DECRETO Nº 2.873, DE 10 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a execução do Acordo de Alcance Parcial nº 11 ao amparo do Artigo 14 do TM-80, assinado entre os Governos da Argentina, Brasil, Paraguai, Uruguai, da Colômbia, Equador, Peru e Venezuela, em 16 de abril de 1998.

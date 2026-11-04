@@ -1,5 +1,3 @@
-###DEC-059392-0-000-13-10-1966@@@
-
 decreto nº 59.392, de 13 de outubro de 1966
 
 Autoriza o funcionamento da Faculdade de Direito Rio dos Sinos.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3451ba01-b573-4894-8225-5c4d0906d73d/texto#nowhere)
 
-###DEL-000797-0-000-27-08-1969@@@
-
 Decreto-lei nº 797, De 27 DE AGÔSTO DE 1969
 
 Dispõe sôbre a forma de Recrutamento e Seleção do Pessoal Civil para e as Administração Direta e para as Autarquias, e dá outras providências.

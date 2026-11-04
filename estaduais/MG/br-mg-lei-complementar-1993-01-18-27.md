@@ -241,7 +241,3 @@ Paulo de Tarso Almeida Paiva
 Roberto Lúcio Rocha Brant
 
 Kildare Gonçalves Carvalho
-
-\================================================================
-
-Data da última atualização: 10/12/2007

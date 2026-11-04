@@ -1,7 +1,3 @@
-1
-
-###DEC-001640-0-000-19-09-1995@@@
-
 # DECRETO Nº 1.640, DE 19 DE SETEMBRO DE 1995.
 
 Dá nova redação ao art. 2º do Decreto nº 840, de 22 de junho de 1993, que dispõe sobre a organização o funcionamento do Conselho Nacional de Imigração.

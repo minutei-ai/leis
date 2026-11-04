@@ -1,5 +1,3 @@
-###DEC-068480-0-000-06-04-1971@@@
-
 DECRETO Nº 68.480 - DE 6 DE ABRIL DE 1971.
 
 Transfere do governo do Estado do Paraná para a Companhia Paranaense de Energia Elétrica a concessão para produzir, transmitir e distribuir energia elétrica nos municípios de Cascavel e Corbélia, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEL-000294-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 294, DE 28 DE FEVEREIRO DE 1967
 
 Altera parcialmente o disposto no artigo 20 do Decreto-lei nº 81 de 21 de dezembro de 1966.

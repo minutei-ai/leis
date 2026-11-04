@@ -1,5 +1,3 @@
-###DEC-047516-0-000-28-12-1959@@@
-
 DECRETO Nº 47.516, DE 28 DE DEZEMBRO DE 1959.
 
 Concede à Mineração Rondônia Ltda. autorização para funcionar como emprêsa de mineração.

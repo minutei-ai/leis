@@ -1,5 +1,3 @@
-###DEC-048563-0-000-21-07-1960@@@
-
 DECRETO Nº 48.563, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Mozart Martins da Costa a pesquisar minério de ferro no município de Itabira, Estado de Minas Gerais.

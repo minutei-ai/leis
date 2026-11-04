@@ -1,5 +1,3 @@
-###DEC-004699-0-000-19-05-2003@@@
-
 DECRETO Nº 4.699, DE 19 DE MAIO DE 2003.
 
      Dispõe, em caráter excepcional, sobre a composição do Conselho Nacional de Saúde e dá outras providências.  
@@ -22,5 +20,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 19 de maio de 2003;182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Humberto Sérgio Costa Lima

@@ -1,18 +1,21 @@
 LEI Nº 11.918 DE 16 DE JUNHO DE 2010
 
-Ver também:<br>
-Art. 7º da Lei nº [14.484](https://www.legislabahia.ba.gov.br/documentos/lei-no-14484-de-08-setembro-de-2022) de 08 setembro de 2022: "O cargo de Diretor de Modernização, previsto na Lei nº [11.918](https://www.legislabahia.ba.gov.br/documentos/lei-no-11918-de-16-de-junho-de-2010)/2010, símbolo TJ-FC-2, passa a se chamar Diretor de Sistemas, alterando também a nomenclatura constante do Anexo da referida Lei."<br>
+Ver também:
+
+Art. 7º da Lei nº [14.484](https://www.legislabahia.ba.gov.br/documentos/lei-no-14484-de-08-setembro-de-2022) de 08 setembro de 2022: "O cargo de Diretor de Modernização, previsto na Lei nº [11.918](https://www.legislabahia.ba.gov.br/documentos/lei-no-11918-de-16-de-junho-de-2010)/2010, símbolo TJ-FC-2, passa a se chamar Diretor de Sistemas, alterando também a nomenclatura constante do Anexo da referida Lei."
+
 Art 6º da Lei nº [14.484](https://www.legislabahia.ba.gov.br/documentos/lei-no-14484-de-08-setembro-de-2022) de 08 setembro de 2022: "O cargo de Diretor de Informática, previsto na Lei nº 11.918/2010, símbolo TJ-FC-2, passa a se chamar Diretor de Infraestrutura de TIC, alterando também a nomenclatura constante do Anexo da referida Lei."
 
 Dispõe sobre a extinção do Instituto Pedro Ribeiro de Administração Judiciária – IPRAJ e a reestruturação administrativa dos serviços auxiliares do Tribunal de Justiça do Estado da Bahia e dá outras providências.
 
-**O** **GOVERNADOR DO ESTADO DA BAHIA** faz saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+**OGOVERNADOR DO ESTADO DA BAHIA** faz saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** - Fica extinto o Instituto Pedro Ribeiro de Administração Judiciária - IPRAJ, autarquia vinculada ao Tribunal de Justiça do Estado da Bahia, criada pela Lei Estadual nº 4.384, de 06 de dezembro de 1984.
 
 **Art. 2º** - Todos os bens de propriedade do Instituto Pedro Ribeiro de Administração Judiciária - IPRAJ reverterão ao patrimônio do Estado da Bahia, de acordo com o disposto no § 2º do art. 5º da Lei nº 4.384, de 06 de dezembro de 1984, e, após inventário, ficarão sob a administração do Tribunal de Justiça do Estado da Bahia.
 
-Redação de acordo com a Lei nº [14.088](https://www.legislabahia.ba.gov.br/documentos/lei-no-14088-de-26-de-abril-de-2019) de 26 de abril de 2019.<br>
+Redação de acordo com a Lei nº [14.088](https://www.legislabahia.ba.gov.br/documentos/lei-no-14088-de-26-de-abril-de-2019) de 26 de abril de 2019.
+
 Redação original: "Art. 2º - Todos os bens de propriedade do Instituto Pedro Ribeiro de Administração Judiciária – IPRAJ reverterão ao patrimônio do Estado da Bahia, de acordo com o disposto no § 2º do artigo 5º da Lei Estadual nº 4.384, de 06 de dezembro de 1984, e, após inventário, ficarão afetados ao Tribunal de Justiça do Estado da Bahia, só podendo ser desafetados mediante lei específica."
 
 **Art. 3º -** O Estado da Bahia sucederá, por intermédio do Tribunal de Justiça, o Instituto Pedro Ribeiro de Administração Judiciária - IPRAJ em todos os seus direitos, obrigações, créditos, débitos, ações decorrentes de lei, contratos, convênios e atos, com a sua extinção.
@@ -53,7 +56,8 @@ d)            Secretaria de Tecnologia da Informação e Modernizaçã
 
 **Art. 6º** - Fica criada, na estrutura administrativa do Tribunal de Justiça, a Controladoria do Judiciário, vinculada à Presidência, com a finalidade de prestar serviços de controle interno dos procedimentos administrativos, financeiros e técnicos do Poder Judiciário do Estado da Bahia.
 
-Redação de acordo com a Lei nº [14.972](https://www.legislabahia.ba.gov.br/documentos/lei-no-14972-de-08-de-setembro-de-2025) de 08 de setembro de 2025<br>
+Redação de acordo com a Lei nº [14.972](https://www.legislabahia.ba.gov.br/documentos/lei-no-14972-de-08-de-setembro-de-2025) de 08 de setembro de 2025
+
 Redação original: "Art. 6º - Fica criada, na estrutura administrativa do Tribunal de Justiça, a Controladoria do Judiciário, vinculada à Presidência, com a finalidade de prestar serviços de auditoria e controle interno dos procedimentos administrativos, financeiros e técnicos do Poder Judiciário."
 
 **Art. 7º** - Com a extinção do Instituto Pedro Ribeiro de Administração Judiciária – IPRAJ, os seus servidores, ocupantes de cargos permanentes, serão lotados na Secretaria Judiciária, na Secretaria de Planejamento e Orçamento, na Secretaria de Administração, na Secretaria de Tecnologia da Informação e Modernização e na Controladoria do Judiciário, referidas nos artigos 5º e 6º desta Lei.
@@ -78,12 +82,14 @@ Redação original: "Art. 6º - Fica criada, na estrutura administrativa do Trib
 
 **§ 1º** \- A execução e operacionalização do Fundo de Aparelhamento Judiciário - FAJ será realizada pelos órgãos da estrutura administrativa do Tribunal de Justiça do Estado da Bahia.
 
-Alterado pelo o Art. 1º da Lei nº [15.036](https://www.legislabahia.ba.gov.br/documentos/lei-no-15036-de-11-de-dezembro-de-2025) de 11 de dezembro de 2025.<br>
+Alterado pelo o Art. 1º da Lei nº [15.036](https://www.legislabahia.ba.gov.br/documentos/lei-no-15036-de-11-de-dezembro-de-2025) de 11 de dezembro de 2025.
+
 Redação Original: "§ 1º - Compete à Secretaria de Administração a execução e operacionalização do Fundo de Aparelhamento Judiciário – FAJ."
 
 **§ 2º -** O Tribunal de Justiça do Estado da Bahia disporá sobre as instituições normativas complementares à operacionalização do Fundo de Aparelhamento Judiciário - FAJ, no que se refere à organização administrativa, contábil, financeira e orçamentária.
 
-Alterado pelo o Art. 1º da Lei nº [15.036](https://www.legislabahia.ba.gov.br/documentos/lei-no-15036-de-11-de-dezembro-de-2025) de 11 de dezembro de 2025.<br>
+Alterado pelo o Art. 1º da Lei nº [15.036](https://www.legislabahia.ba.gov.br/documentos/lei-no-15036-de-11-de-dezembro-de-2025) de 11 de dezembro de 2025.
+
 Redação Original: "§ 2º - A Secretaria de Administração disporá sobre as instituições normativas complementares à operacionalização do Fundo de Aparelhamento Judiciário – FAJ, no que se refere à organização administrativa, contábil, financeira e orçamentária."
 
 **Art. 11** - Os recursos do Fundo de Aparelhamento Judiciário - FAJ serão aplicados na modernização, reaparelhamento e manutenção do Poder Judiciário, compreendendo:
@@ -92,7 +98,8 @@ Redação Original: "§ 2º - A Secretaria de Administração disporá sobre as 
 
 **II -** a aquisição, construção, ampliação e reforma de prédios do Poder Judiciário e de imóveis objeto de comodato ou locação, bem como despesas de capital ou de custeio, exceto pagamentos de despesas de pessoal relativas a vencimentos, concessão de vantagem, reajuste ou adequação de remuneração (grupo 1);
 
-Alterado pelo o Art. 1º da Lei nº [15.036](https://www.legislabahia.ba.gov.br/documentos/lei-no-15036-de-11-de-dezembro-de-2025) de 11 de dezembro de 2025.<br>
+Alterado pelo o Art. 1º da Lei nº [15.036](https://www.legislabahia.ba.gov.br/documentos/lei-no-15036-de-11-de-dezembro-de-2025) de 11 de dezembro de 2025.
+
 Redação Original: "II - a aquisição, construção, ampliação e reforma de prédios do Poder Judiciário e de imóveis objeto de comodato ou locação, bem como despesas de capital ou de custeio, exceto as de pessoal e seus respectivos encargos;"
 
 **III -**    a ampliação e modernização dos serviços informatizados; e
@@ -101,8 +108,10 @@ Redação Original: "II - a aquisição, construção, ampliação e reforma de 
 
 **§ 1º** \- Havendo _superávit_ financeiro, fica autorizada a utilização de até 20% (vinte por cento) do referido _superávit_ para a execução de despesas de pessoal - grupo 3, ou outras despesas correntes não considerada despesa bruta com pessoal, estabelecidas no Manual de Contabilidade Aplicado ao Setor Público - MCASP.
 
-Redação de acordo com a Lei [15.171](https://www.legislabahia.ba.gov.br/documentos/lei-no-15171-de-12-de-junho-de-2026) de 12 de junho de 2026.<br>
-Redação original: Parágrafo único - " Havendo superávit financeiro, fica autorizada a utilização de até 20% do referido superávit para a execução de despesas de pessoal - grupo 3, ou outras despesas correntes não considerada despesa bruta com pessoal, estabelecidas no Manual de Contabilidade Aplicado ao Setor Público - MCASP. "<br>
+Redação de acordo com a Lei [15.171](https://www.legislabahia.ba.gov.br/documentos/lei-no-15171-de-12-de-junho-de-2026) de 12 de junho de 2026.
+
+Redação original: Parágrafo único - " Havendo superávit financeiro, fica autorizada a utilização de até 20% do referido superávit para a execução de despesas de pessoal - grupo 3, ou outras despesas correntes não considerada despesa bruta com pessoal, estabelecidas no Manual de Contabilidade Aplicado ao Setor Público - MCASP. "
+
 Acrescido pelo o Art. 1º da Lei nº [15.036](https://www.legislabahia.ba.gov.br/documentos/lei-no-15036-de-11-de-dezembro-de-2025) de 11 de dezembro de 2025.
 
 **§ 2º -** O Tribunal de Justiça do Estado da Bahia destinará, anualmente, ao Fundo de Modernização do Conselho Nacional de Justiça - FMCNJ, instituído pela Resolução CNJ nº 627, de 24 de junho de 2025, o equivalente a 1% (um por cento) da receita arrecadada pelo FAJ no exercício anterior, a ser recolhido mediante guia específica até 31 de março de cada exercício, ou até 30 (trinta) dias após a publicação da respectiva Lei Orçamentária Anual, prevalecendo o prazo que ocorrer depois, observados os parâmetros indicados pela Secretaria de Orçamento, Finanças e Contabilidade do Conselho Nacional de Justiça.”
@@ -155,7 +164,8 @@ Inciso XV acrescido ao art. 12 pela Lei nº [14.095](https://www.legislabahia.ba
 
 **Parágrafo único -** A prestação de contas da aplicação e da gestão financeira do Fundo de Aparelhamento Judiciário - FAJ será feita anualmente pelo Tribunal de Justiça do Estado da Bahia, por ocasião do encerramento do correspondente exercício.
 
-Alterado pelo o Art. 1º da Lei nº [15.036](https://www.legislabahia.ba.gov.br/documentos/lei-no-15036-de-11-de-dezembro-de-2025) de 11 de dezembro de 2025.<br>
+Alterado pelo o Art. 1º da Lei nº [15.036](https://www.legislabahia.ba.gov.br/documentos/lei-no-15036-de-11-de-dezembro-de-2025) de 11 de dezembro de 2025.
+
 Redação Original: "Parágrafo único - A prestação de contas da aplicação e da gestão financeira do Fundo de Aparelhamento Judiciário – FAJ será feita anualmente pela Secretaria de Administração, por ocasião do encerramento do correspondente exercício."
 
 **Art. 15** - O Presidente do Tribunal de Justiça constituirá Comissão Especial com a finalidade de proceder ao levantamento das informações necessárias à extinção do Instituto Pedro Ribeiro de Administração Judiciária - IPRAJ e sugerir as medidas para a implementação da reestruturação administrativa do Poder Judiciário, mencionada no artigo 5º desta Lei.
@@ -176,7 +186,8 @@ Redação Original: "Parágrafo único - A prestação de contas da aplicação 
 
 **Art. 16 -** Caberá ao Presidente do Tribunal de Justiça representar o Estado da Bahia nos atos relativos à aquisição, alienação e outros concernentes a bens imóveis pelo Poder Judiciário.
 
-Redação de acordo com a Lei nº [14.088](https://www.legislabahia.ba.gov.br/documentos/lei-no-14088-de-26-de-abril-de-2019) de 26 de abril de 2019.<br>
+Redação de acordo com a Lei nº [14.088](https://www.legislabahia.ba.gov.br/documentos/lei-no-14088-de-26-de-abril-de-2019) de 26 de abril de 2019.
+
 Redação original: "Art. 16 - Caberá ao Procurador Geral do Estado representar o Estado da Bahia nos atos relativos à aquisição, alienação e outros concernentes a bens imóveis pelo Poder Judiciário."
 
 **Art. 17 -** A implementação da nova estrutura definida no artigo 5º desta Lei para os órgãos de apoio técnicoadministrativo do Tribunal de Justiça ocorrerá com a extinção do Instituto Pedro Ribeiro de Administração Judiciária - IPRAJ.
@@ -205,13 +216,248 @@ Secretária da Casa Civil
 
 **CARGOS EM COMISSÃO**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.5pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td style="width:304.8pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><b><span style="color:black">CARGO</span></b></p></td><td style="width:70.85pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">SÍMBOLO</span></p></td><td style="width:92.85pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">QUANTIDADE</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="color:black">Chefe de Unidade</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">TJ - FC6</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">22</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Assessor Técnico da Chefia de Gabinete</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Assessor Técnico de Estatística</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Assessor Técnico da Secretaria de Administração</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Assessor Técnico da Secretaria Judiciária</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Assessor Técnico da Secretaria de Planejamento, Orçamento e Modernização</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Assessor Adjunto de Comunicação</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Projetos</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador Assistente</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador Administrativo de Precatórios</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador Administrativo da Junta Médica</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Licitação</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Execução Orçamentária e Financeira</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Liquidação</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Contabilidade</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Serviços Auxiliares</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Transporte</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Serviços Gráficos</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Controle de Patrimônio</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Compras</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Distribuição</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Projetos</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">TJ - FC3</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Obras</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Manutenção Predial</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Pagamento</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Registros e Concessões</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Provimento e Desenvolvimento</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Assistência Médica</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Assistência Odontológica</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador&nbsp; de Saúde Ocupacional</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Programação e Acompanhamento</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Orçamento</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Acompanhamento de Unidades Descentralizadas</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Atendimento Técnico</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Sistema</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Produção e Suporte Técnico</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Arrecadação</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Fiscalização</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Gestão de Arquivo</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Protocolo e Controle de Correspondência</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador de Biblioteca</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Coordenador&nbsp; de Auditoria</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor de Finanças</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor de Serviços Gerais</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor de Suprimento e Patrimônio</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor de Engenharia e Arquitetura</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor de Recursos Humanos</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor de Assistência à Saúde</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor de Informática</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">TJ - FC2</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor de Programação e Orçamento</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor de Administração de Receita e Fiscalização</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Chefe da Junta Médica</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Controlador Chefe</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Chefe do Núcleo de Licitação</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Chefe do Núcleo de Documentação e Informação</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor de Modernização</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Secretário de Planejamento e Orçamento</span></p></td><td style="width:70.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">TJ - FC1</span></p></td><td style="width:92.85pt;border:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:304.8pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="406"><p class="MsoNormal"><span style="font-size:12.0pt">Secretário de Tecnologia da Informação e Modernização</span></p></td><td style="width:70.85pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="94"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.85pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="124"><p class="MsoNormal"><span style="font-size:12.0pt">1</span></p></td></tr></tbody></table>
+**CARGO**
+
+SÍMBOLO
+
+QUANTIDADE
+
+Chefe de Unidade
+
+TJ - FC6
+
+22
+
+Assessor Técnico da Chefia de Gabinete
+
+1
+
+Assessor Técnico de Estatística
+
+1
+
+Assessor Técnico da Secretaria de Administração
+
+3
+
+Assessor Técnico da Secretaria Judiciária
+
+1
+
+Assessor Técnico da Secretaria de Planejamento, Orçamento e Modernização
+
+1
+
+Assessor Adjunto de Comunicação
+
+1
+
+Coordenador de Projetos
+
+1
+
+Coordenador Assistente
+
+1
+
+Coordenador Administrativo de Precatórios
+
+1
+
+Coordenador Administrativo da Junta Médica
+
+1
+
+Coordenador de Licitação
+
+2
+
+Coordenador de Execução Orçamentária e Financeira
+
+1
+
+Coordenador de Liquidação
+
+1
+
+Coordenador de Contabilidade
+
+1
+
+Coordenador de Serviços Auxiliares
+
+1
+
+Coordenador de Transporte
+
+1
+
+Coordenador de Serviços Gráficos
+
+1
+
+Coordenador de Controle de Patrimônio
+
+1
+
+Coordenador de Compras
+
+1
+
+Coordenador de Distribuição
+
+1
+
+Coordenador de Projetos
+
+TJ - FC3
+
+1
+
+Coordenador de Obras
+
+1
+
+Coordenador de Manutenção Predial
+
+1
+
+Coordenador de Pagamento
+
+1
+
+Coordenador de Registros e Concessões
+
+1
+
+Coordenador de Provimento e Desenvolvimento
+
+1
+
+Coordenador de Assistência Médica
+
+1
+
+Coordenador de Assistência Odontológica
+
+1
+
+Coordenador  de Saúde Ocupacional
+
+1
+
+Coordenador de Programação e Acompanhamento
+
+1
+
+Coordenador de Orçamento
+
+1
+
+Coordenador de Acompanhamento de Unidades Descentralizadas
+
+1
+
+Coordenador de Atendimento Técnico
+
+1
+
+Coordenador de Sistema
+
+1
+
+Coordenador de Produção e Suporte Técnico
+
+1
+
+Coordenador de Arrecadação
+
+1
+
+Coordenador de Fiscalização
+
+1
+
+Coordenador de Gestão de Arquivo
+
+1
+
+Coordenador de Protocolo e Controle de Correspondência
+
+1
+
+Coordenador de Biblioteca
+
+1
+
+Coordenador  de Auditoria
+
+1
+
+Diretor de Finanças
+
+1
+
+Diretor de Serviços Gerais
+
+1
+
+Diretor de Suprimento e Patrimônio
+
+1
+
+Diretor de Engenharia e Arquitetura
+
+1
+
+Diretor de Recursos Humanos
+
+1
+
+Diretor de Assistência à Saúde
+
+1
+
+Diretor de Informática
+
+TJ - FC2
+
+1
+
+Diretor de Programação e Orçamento
+
+1
+
+Diretor de Administração de Receita e Fiscalização
+
+1
+
+Chefe da Junta Médica
+
+1
+
+Controlador Chefe
+
+1
+
+Chefe do Núcleo de Licitação
+
+1
+
+Chefe do Núcleo de Documentação e Informação
+
+1
+
+Diretor de Modernização
+
+1
+
+Secretário de Planejamento e Orçamento
+
+TJ - FC1
+
+1
+
+Secretário de Tecnologia da Informação e Modernização
+
+1

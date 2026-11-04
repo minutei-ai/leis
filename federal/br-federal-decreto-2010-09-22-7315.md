@@ -1,5 +1,3 @@
-###DEC-007315-0-000-22-09-2010-PUB-01@@@
-
 DECRETO Nº 7.315, DE 22 DE SETEMBRO DE 2010.
 
 Dá nova redação ao parágrafo único do art. 119 do Decreto n~~º~~ 6.759, de 5 de fevereiro de 2009, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.

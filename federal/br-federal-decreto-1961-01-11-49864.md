@@ -1,5 +1,3 @@
-###DEC-049864-0-000-11-01-1961@@@
-
 DECRETO Nº 49.864, DE 11 DE JANEIRO DE 1961.
 
 Concede autorização para funcionamento de curso.

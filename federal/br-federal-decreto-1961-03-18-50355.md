@@ -1,5 +1,3 @@
-###DEC-050355-0-000-18-03-1961@@@
-
 decreto nº 50.355, de 18 de março de 1961.
 
 Concede reconhecimento a curso.

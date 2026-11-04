@@ -1,5 +1,3 @@
-###DEC-062412-0-000-15-03-1968@@@
-
 DECRETO Nº 62.412, DE 15 DE MARÇO DE 1968.
 
 Delega ao Ministro de Estado do Planejamento e Coordenação Geral a competência prevista nos artigos 11 e 13 da Lei nº 2.613, de 23 de setembro de 1955.

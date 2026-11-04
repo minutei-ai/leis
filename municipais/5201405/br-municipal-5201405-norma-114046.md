@@ -1,4 +1,5 @@
-DECRETO “N” Nº 195, DE 30 DE MAIO DE 2019<br>
+DECRETO “N” Nº 195, DE 30 DE MAIO DE 2019
+
 (Revogado pelo Decreto "N" nº 529, de 15 de julho de 2022).
 
 ~~Nomeia os membros do Conselho Fiscal do APARECIDAPREV - Instituto de Previdência de Aparecida de Goiânia.~~
@@ -31,8 +32,10 @@ DECRETO “N” Nº 195, DE 30 DE MAIO DE 2019<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, 30 de maio de 2017.~~
 
-~~GUSTAVO MENDANHA<br>
+~~GUSTAVO MENDANHA
+
 Prefeito Municipal~~
 
-~~OLAVO NOLETO ALVES<br>
+~~OLAVO NOLETO ALVES
+
 Chefe da Casa Civil~~

@@ -1,7 +1,3 @@
-1
-
-###DEC-099062-0-000-07-03-1990@@@
-
 DECRETO N° 99.062, DE 7 DE MARÇO DE 1990
 
 Homologa a demarcação da Area Indígena Kraolândia, Estado do Tocantins.

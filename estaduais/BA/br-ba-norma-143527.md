@@ -4,12 +4,14 @@ Dispõe sobre a Política Estadual de Assistência Social, e dá outras providê
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA DISPOSIÇÃO PRELIMINAR
 
 **Art. 1º** - A Política Estadual de Assistência Social rege-se por esta Lei, observadas as normas gerais de organização da assistência social estabelecidas na Lei Federal nº 8.742, de 07 de dezembro de 1993, Lei Orgânica de Assistência Social - LOAS.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS DEFINIÇÕES E DOS OBJETIVOS
 
 **Art. 2º** - A Assistência Social, direito do cidadão e dever do Estado, é Política de Seguridade Social não contributiva, que provê os mínimos sociais, realizada através de um conjunto integrado de ações de iniciativa pública e da sociedade, para garantir o atendimento às necessidades básicas.
@@ -36,10 +38,12 @@ DAS DEFINIÇÕES E DOS OBJETIVOS
 
 **Parágrafo único -** A Política Estadual de Assistência Social deverá ser realizada de forma integrada às demais políticas setoriais, visando o enfrentamento da pobreza, a garantia dos mínimos sociais, o provimento de condições para atender contingências sociais e a universalização dos direitos sociais.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS PRINCÍPIOS E DAS DIRETRIZES
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Princípios
 
 **Art. 4º** - A Política Estadual de Assistência Social será regida pelos seguintes princípios:
@@ -66,7 +70,8 @@ Dos Princípios
 
 **V -** gratuidade: a assistência social deve ser prestada sem exigência de contribuição ou contrapartida, observado o que dispõe o art. 35 da Lei Federal nº 10.741, de 01 de outubro de 2003.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Diretrizes
 
 **Art. 6º** - A organização da Política Estadual de Assistência Social observará as seguintes diretrizes:
@@ -79,10 +84,12 @@ Das Diretrizes
 
 **IV -** articulação intersetorial com as demais políticas públicas.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA GESTÃO, DA ORGANIZAÇÃO E DO PLANEJAMENTO
 
-Seção I<br>
+Seção I
+
 Da Gestão
 
 **Art. 7º** - A gestão das ações no âmbito da Política Estadual de Assistência Social fica organizada sob a forma de sistema descentralizado e participativo, denominado Sistema Único de Assistência Social - SUAS, com os seguintes objetivos, conforme estabelece a Lei Federal nº 8.742, de 07 de dezembro de 1993:
@@ -137,7 +144,8 @@ Da Gestão
 
 **V -** controle social e participação popular.
 
-Seção II<br>
+Seção II
+
 Da Organização
 
 **Art. 9º** - A Política Estadual de Assistência Social organiza-se pelos seguintes  tipos de proteção social:
@@ -256,7 +264,8 @@ Do Planejamento
 
 **III -** as ações articuladas e intersetoriais.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS ENTIDADES E DAS ORGANIZAÇÕES DE ASSISTÊNCIA SOCIAL
 
 **Art. 14** - Consideram-se entidades e organizações de assistência social aquelas sem fins lucrativos que, isolada ou cumulativamente, prestam atendimento e assessoramento aos beneficiários abrangidos por esta Lei, bem como as que atuam na defesa e garantia de direitos.
@@ -271,10 +280,12 @@ DAS ENTIDADES E DAS ORGANIZAÇÕES DE ASSISTÊNCIA SOCIAL
 
 **Art. 16** - As entidades e organizações de assistência social reconhecidas, que atuem no âmbito da Política Estadual de Assistência Social, poderão celebrar de acordo com a legislação vigente, termos de parceria, de fomento, acordos de cooperação, contratos, convênios, acordos ou ajustes com o Poder Público para a execução de serviços, programas e projetos de assistência social, garantido financiamento integral, pelo Estado, de serviços, programas, projetos  e ações de assistência social, nos limites da capacidade instalada, observando-se as disponibilidades orçamentárias.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS RESPONSABILIDADES DO ESTADO E DA GESTÃO DO TRABALHO
 
-Seção I<br>
+Seção I
+
 Das Responsabilidades do Estado
 
 **Art. 17** - Constituem responsabilidades do Estado, como ente integrante do SUAS:
@@ -341,7 +352,8 @@ Das Responsabilidades do Estado
 
 **Art. 18** - O Estado atuará de forma articulada com as esferas federal e municipal, cabendo-lhe estabelecer as diretrizes da política de assistência social no Estado da Bahia em conformidade com as diretrizes estabelecidas na LOAS.
 
-Seção II<br>
+Seção II
+
 Da Gestão do Trabalho
 
 **Art. 19** - À SEADES incumbe:
@@ -364,10 +376,12 @@ Da Gestão do Trabalho
 
 **IX -** submeter trimestralmente, de forma sintética, e anualmente, de forma analítica, os relatórios de execução orçamentária e financeira do FEAS à apreciação do CEAS.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS INSTÂNCIAS DELIBERATIVAS E DE PACTUAÇÃO DO SUAS
 
-Seção I<br>
+Seção I
+
 Das Instâncias Deliberativas
 
 **Art. 20** - As instâncias deliberativas e de controle social do SUAS, no âmbito do Estado, de caráter permanente e composição paritária entre Poder Público e sociedade civil, são:
@@ -382,7 +396,8 @@ Das Instâncias Deliberativas
 
 **§ 3**º - Todas as sessões ordinárias e extraordinárias dos Conselhos de Assistência Social referidos neste artigo serão públicas, resguardado o poder de fala, de acordo com a pauta, a todos os cidadãos, exceto as de averiguação de denúncia.
 
-Seção II<br>
+Seção II
+
 Das Instâncias de Negociação e Pactuação
 
 **Art. 21** - A Comissão Intergestores Bipartite - CIB - constitui-se como espaço de interlocução de gestores voltada à pactuação de normativas que possibilitem a operacionalização da política de assistência social no Estado da Bahia, tendo em seu âmbito, a representação do Estado e dos Municípios, levando em conta o seu porte e sua distribuição regional, considerando que os seus membros devem representar os interesses e as necessidades coletivas referentes à política de assistência social no Estado e nos municípios.
@@ -429,7 +444,8 @@ Das Instâncias de Negociação e Pactuação
 
 **XVI -** estabelecer acordos relacionados aos serviços, programas, projetos e benefícios a serem implantados pelo Estado e pelos Municípios enquanto rede de proteção social integrante do SUAS no Estado.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA CONFERÊNCIA ESTADUAL DE ASSISTÊNCIA SOCIAL
 
 **Art. 23** - A Conferência Estadual de Assistência Social é instância periódica de debate, de formulação e de avaliação da política pública de assistência social e definição de diretrizes para o aprimoramento do SUAS, com a participação de representantes do governo e da sociedade civil.
@@ -452,10 +468,12 @@ DA CONFERÊNCIA ESTADUAL DE ASSISTÊNCIA SOCIAL
 
 **Parágrafo único -** A Conferência Estadual de Assistência Social será precedida, obrigatoriamente, de conferências municipais.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DOS BENEFÍCIOS EVENTUAIS, DOS PROGRAMAS E PROJETOS DA POLÍTICA ESTADUAL DE ASSISTÊNCIA SOCIAL
 
-Seção I<br>
+Seção I
+
 Dos Benefícios Eventuais
 
 **Art. 26** - Os Benefícios Eventuais são provisões suplementares e provisórias prestadas aos indivíduos e às famílias em virtude de nascimento, morte, situações de vulnerabilidade temporária e calamidade pública, observadas as contingências de riscos, perdas e  danos a que estão sujeitos os indivíduos e famílias, na forma prevista na LOAS.
@@ -484,19 +502,22 @@ Dos Benefícios Eventuais
 
 **§ 2**º - As despesas decorrentes da execução dos Benefícios Eventuais serão providas por meio de dotações orçamentárias nos Fundos Municipais de Assistência Social e cofinanciadas pelo FEAS de acordo com a disponibilidade orçamentária.
 
-Seção II<br>
+Seção II
+
 Dos Programas de Assistência Social
 
 **Art. 30** - Os Programas de Assistência Social compreendem ações integradas e complementares com objetivos, tempo e área de abrangência definidos para qualificar, incentivar e melhorar os benefícios e os serviços socioassistenciais.
 
 **Parágrafo único -** Os Programas de que trata este artigo são definidos pelos respectivos Conselhos de Assistência Social, obedecidos os princípios e objetivos que regem esta  Lei.
 
-Seção III<br>
+Seção III
+
 Dos Projetos Socioassistenciais
 
 **Art. 31** - Os Projetos Socioassistenciais compreendem ações temporárias e integradas para qualificar programas e serviços socioassistenciais.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DO FINANCIAMENTO DA ASSISTÊNCIA SOCIAL
 
 **Art. 32** - O financiamento da Política Estadual de Assistência Social é composto de diversas fontes, sendo previsto e executado através dos instrumentos de planejamento orçamentário estadual, que se desdobram no Plano Plurianual, na Lei de Diretrizes Orçamentárias e na Lei Orçamentária Anual.
@@ -509,7 +530,8 @@ DO FINANCIAMENTO DA ASSISTÊNCIA SOCIAL
 
 **Art. 35** - Os recursos do cofinanciamento do SUAS destinados à execução das ações continuadas de Assistência Social poderão ser aplicados no pagamento dos profissionais que integrarem as equipes de referência, responsáveis pela organização e oferta daquelas ações, conforme percentual apresentado pelo órgão responsável pela política e aprovado pelo CEAS.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 36** - A Lei nº 6.930, de 28 de dezembro de 1995, passa a vigorar com os seguintes acréscimos e modificações:

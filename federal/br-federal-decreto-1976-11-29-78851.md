@@ -1,5 +1,3 @@
-###DEC-078851-0-000-29-11-1976@@@
-
 DECRETO Nº 78.851, DE 29 DE NOVEMBRO DE 1976.
 
 Autoriza o (ilegível) do curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras do Vale do Itajaí, com sede na cidade de Itajaí, Estado de Santa Catarina.
@@ -17,8 +15,6 @@ Brasília, 29 de novembro de 1976; 155º das Independência e 88º da República
 ERNESTO GEISEL
 
 Euro Brandão
-
-###DEC-078851-0-000-29-11-1976@@@RET01+++
 
 DECRETO Nº 78.851, DE 29 DE NOVEMBRO DE 1976.
 

@@ -1,5 +1,3 @@
-###DEC-055458-0-000-05-01-1965@@@
-
 DECRETO Nº 55.458, DE 5 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Benvindo Ponciano dos Santos a pesquisar cassiterita, no município de Cassiterita, Estado de Minas Gerais.

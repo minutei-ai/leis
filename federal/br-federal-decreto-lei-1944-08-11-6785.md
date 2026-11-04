@@ -1,5 +1,3 @@
-###DEL-006785-0-000-11-08-1944@@@
-
 DECRETO-LEI N. 6.785 – DE 11 DE AGÔSTO DE 1944
 
 Cria os recursos para o Fundo Nacional do Ensino Primário, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-090812-0-000-15-01-1985@@@
-
 Decreto nº 90.812, de 15 de janeiro de 1985
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Invernada do machado", "São Bento", "Covó", "Covozinho" e "Chopim I'', situados no Município de Mangueirinha, no Estado do Paraná, e compreendidos nas áreas prioritárias, para fins de reforma agrária, fixada pelo Decreto nº 90.811, de 15 de janeiro de 1985.

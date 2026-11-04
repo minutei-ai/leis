@@ -1,5 +1,3 @@
-###DEC-087640-0-000-21-09-1982@@@
-
 DECRETO Nº 87.640, de 21 de setembro de 1982.
 
 Dispõe sobre a composição do Conselho Interministerial do Programa Grande Carajás e altera o art. 1º do Decreto nº 85.387, de 24 de novembro de 1980.

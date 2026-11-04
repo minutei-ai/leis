@@ -1,5 +1,3 @@
-###DEC-070678-0-000-06-06-1972@@@
-
 DECRETO Nº 70.678, DE 6 DE JUNHO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação e preservação como patrimônio histórico, imóveis situados no município de Vassouras, Estado de Minas Gerais.

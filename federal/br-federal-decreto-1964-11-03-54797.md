@@ -1,5 +1,3 @@
-###DEC-054797-0-000-03-11-1964@@@
-
 decreto nº 54.797, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Augusto Cândido de Souza a pesquisar amianto no município de Cabo Verde, Estado de Minas Gerais.

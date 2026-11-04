@@ -1,5 +1,3 @@
-###DEC-002164-0-000-25-02-1997@@@
-
 DECRETO Nº 2.164, DE 25 DE FEVEREIRO DE 1997
 
 Dispõe sobre a composição e o funcionamento do Conselho Deliberativo do Fundo Constitucional de Financiamento do Centro-Oeste.

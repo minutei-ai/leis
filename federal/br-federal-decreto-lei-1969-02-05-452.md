@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/692005eb-ae40-4dd7-a517-14ce6a635087/texto#nowhere)
 
-###DEL-000452-0-000-05-02-1969@@@
-
 DECRETO-LEI Nº 452, DE 5 DE FEVEREIRO DE 1969
 
 Concede isenção do impôsto de importação incidente em equipamentos destinados à indústria de laminação madeira.

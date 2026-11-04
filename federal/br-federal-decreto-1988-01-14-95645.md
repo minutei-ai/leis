@@ -1,7 +1,3 @@
-1
-
-###DEC-095645-0-000-14-01-1988@@@
-
 DECRETO N° 95.645, DE 14 DE JANEIRO DE 1988
 
 Promulga o Acordo para a Cooperação nos Usos Pacíficos da Energia Nuclear, entre a República Federativa do Brasil e a República Popular da China.

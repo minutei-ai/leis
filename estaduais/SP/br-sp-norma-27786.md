@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/27786)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/1984/compilacao-lei.complementar-367-14.12.1984.html)
 
 # LEI COMPLEMENTAR N° 367, DE 14 DE DEZEMBRO DE 1984
@@ -65,65 +64,86 @@ _\- § 5° acrescentado pela [Lei Complementar n° 1.054, de 07/07/2008](https:/
 
 **Artigo 4° -** O disposto nesta lei complementar aplica-se nas mesmas bases e condições ao policial militar, ao servidor extranumerário e ao servidor que exerça função-atividade de natureza permanente nos termos do inciso I do artigo 1° da [Lei n° 500, de 13 de novembro de 1974](https://www.al.sp.gov.br/norma/39651), alterado pelo artigo 203, da [Lei Complementar n° 180, de 12 de maio de 1978](https://www.al.sp.gov.br/norma/30762).
 
-**Artigo 5° -** Esta lei complementar entrará em vigor na data de sua publicação.<br>
+**Artigo 5° -** Esta lei complementar entrará em vigor na data de sua publicação.
+
 Palácio dos Bandeirantes, 14 de dezembro de 1984.
 
-FRANCO MONTORO<br>
+FRANCO MONTORO
+
 José Carlos Dias
 
-Secretário da Justiça<br>
+Secretário da Justiça
+
 João Sayad
 
-Secretário da Fazenda<br>
+Secretário da Fazenda
+
 Nelson Mancini Nicolau
 
-Secretário de Agricultura e Abastecimento<br>
+Secretário de Agricultura e Abastecimento
+
 João Oswaldo Leiva
 
-Secretário de Obras e do Meio Ambiente<br>
+Secretário de Obras e do Meio Ambiente
+
 Adriano Murgel Branco
 
-Secretário dos Transportes<br>
+Secretário dos Transportes
+
 Paulo Renato Costa Souza
 
-Secretário da Educação<br>
+Secretário da Educação
+
 Otávio Azevedo Mercadante
 
-Respondendo pelo Expediente da Secretária da Saúde<br>
+Respondendo pelo Expediente da Secretária da Saúde
+
 Michel Miguel Elias Temer Lulia
 
-Secretário da Segurança Pública<br>
+Secretário da Segurança Pública
+
 Carlos Alfredo de Souza Queiróz
 
-Secretário da Promoção Social<br>
+Secretário da Promoção Social
+
 Caio Sérgio Pompeu de Toledo
 
-Secretário de Esportes e Turismo<br>
+Secretário de Esportes e Turismo
+
 Almir Pazzianotto Pinto
 
-Secretário de Relações do Trabalho<br>
+Secretário de Relações do Trabalho
+
 Antônio Carlos Mesquita
 
-Secretário da Administração<br>
+Secretário da Administração
+
 José Serra
 
-Secretário de Economia e Planejamento<br>
+Secretário de Economia e Planejamento
+
 Chopin Tavares de Lima
 
-Secretário do Interior<br>
+Secretário do Interior
+
 Almino Monteiro Alvares Affonso
 
-Secretário dos Negócios Metropolitanos<br>
+Secretário dos Negócios Metropolitanos
+
 Jorge Cunha Lima
 
-Secretário Extraordinário da Cultura<br>
+Secretário Extraordinário da Cultura
+
 Einar Alberto Kok
 
-Secretário da Indústria, Comércio, Ciência e Tecnologia<br>
+Secretário da Indústria, Comércio, Ciência e Tecnologia
+
 Franco Baruselli
 
-Secretário Extraordinário de Descentralização e Participação<br>
+Secretário Extraordinário de Descentralização e Participação
+
 Roberto Gusmão
 
-Secretário do Governo<br>
+Secretário do Governo
+
 Publicada na Assessoria Técnico-Legislativa, aos 14 de dezembro de 1984.

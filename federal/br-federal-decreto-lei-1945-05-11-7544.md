@@ -1,5 +1,3 @@
-###DEL-007544-0-000-11-05-1945@@@
-
 DECRETO-LEI N. 7.544 – DE 11 DE MAIO DE 1945
 
 Dispõe sôbre as carreiras de Arquivista, dos Ministérios da Marinha e das Relações Exteriores, e dá outras providências

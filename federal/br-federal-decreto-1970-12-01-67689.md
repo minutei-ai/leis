@@ -1,5 +1,3 @@
-###DEC-067689-0-000-01-12-1970@@@
-
 decreto nº 67.689, de 1 de dezembro de 1970.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

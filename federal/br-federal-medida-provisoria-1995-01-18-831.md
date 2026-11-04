@@ -1,5 +1,3 @@
-###MPV-000831-0-000-18-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 831, DE 18 DE JANEIRO DE 1995
 
 Extingue as vantagens que menciona e dá outras providências.

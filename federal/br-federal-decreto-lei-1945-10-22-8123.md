@@ -1,5 +1,3 @@
-###DEL-008123-0-000-22-10-1945@@@
-
 DECRETO-LEI N. 8.123 – DE 22 DE OUTUBRO DE 1945
 
 Concede pensão especial aos herdeiros de Luís Napoleão do Amaral

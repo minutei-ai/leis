@@ -1,5 +1,3 @@
-###DEC-007770-0-000-28-06-2012-PUB-01@@@
-
 DECRETO N°\- 7.770, DE 28 DE JUNHO DE 2012
 
  Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.

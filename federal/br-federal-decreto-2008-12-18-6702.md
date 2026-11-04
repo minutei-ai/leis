@@ -1,5 +1,3 @@
-###DEC-006702-0-000-18-12-2008@@@
-
 DECRETO Nº 6.702, DE 18 DE DEZEMBRO DE 2008.
 
 Regulamenta o art. 3o da Lei no 11.732, de 30 de junho de 2008, e institui normas e procedimentos aplicáveis às licitações internacionais promovidas por pessoas jurídicas de direito privado do setor privado.

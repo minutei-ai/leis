@@ -1,5 +1,3 @@
-###DEC-048187-0-000-11-05-1960@@@
-
 DECRETO Nº 48.187, DE 11 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Eugênio Pereira da Costa a pesquisar mica, no município de Vigolândia, Estado de Minas Gerais.

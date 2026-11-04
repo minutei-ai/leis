@@ -1,5 +1,3 @@
-###DEC-059439-0-000-28-10-1966@@@
-
 Decreto nº 59.439, de 28 de outubro de 1966
 
 Dispõe sôbre preferência para bôlsas de estudos.

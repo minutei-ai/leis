@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211169)<br>
-
 # DECRETO N° 69.682, DE 08 DE JULHO DE 2025
 
 ### _Dispõe sobre a criação do Centro Estadual de Educação de Jovens e Adultos - CEEJA de Andradina, na Secretaria da Educação, e dá providências correlatas._

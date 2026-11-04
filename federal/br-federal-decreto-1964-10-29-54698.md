@@ -1,5 +1,3 @@
-###DEC-054698-0-000-29-10-1964@@@
-
 DECRETO Nº 54.698, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Amaury de Souza Mello a pesquisar feldspato, no município de Maricá, Estado do Rio de Janeiro.

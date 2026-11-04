@@ -1,5 +1,3 @@
-###DEC-003004-0-000-29-03-1999@@@
-
 DECRETO Nº 3.004, DE 29 DE MARÇO DE 1999
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.567, de 28 de abril de 1998.

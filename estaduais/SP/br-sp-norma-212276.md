@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212276)<br>
-
 # LEI N° 18.404, DE 26 DE FEVEREIRO DE 2026
 
 ## (Projeto de lei n° 141/2023, do Deputado Ricardo Madalena - PL)

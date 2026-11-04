@@ -1,5 +1,3 @@
-###DEC-048822-0-000-12-08-1960@@@
-
 DECRETO Nº 48.822, DE 12 DE AGôSTO DE 1960.
 
 Transfere de Bernardes & Machado para a Prefeitura Municipal de Lavrinhas a concessão para distribuir energia elétrica no distrito da sede do município de Lavrinhas, Estado de São Paulo.
@@ -37,8 +35,6 @@ Brasília, 12 de agôsto de 1960; 139º da Independência e 72º da República.
 JUSCELINO KUBITSCHEK
 
 Antônio Barros Carvalho
-
-###DEC-048822-0-000-12-08-1960@@@RET01+++
 
 DECRETO Nº 48.822, DE 12 DE AGÔSTO DE 1960.
 

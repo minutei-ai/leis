@@ -1,5 +1,3 @@
-###DEC-053193-0-000-11-12-1963@@@
-
 DECRETO Nº 53.193, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia Mercantil e Industrial Ingá a pesquisar zinco, chumbo e cobre, no município de vazante, Estado de Minas Gerais.

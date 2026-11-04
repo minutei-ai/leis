@@ -1,5 +1,3 @@
-###DEC-006511-0-000-17-07-2008@@@
-
 DECRETO Nº 6.511, DE 17 DE JULHO DE 2008.
 
 Promulga as emendas aos Anexos da Convenção sobre Prevenção da Poluição Marinha Causada pelo Alijamento no Mar de Resíduos e Outras Matérias.
@@ -172,7 +170,31 @@ REGRA 5
 
 (2)     A eficiência da combustão deverá ser de pelo menos 99,95 + 0,005%, com base em:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:270.95pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Eficiência da Combustão =</span></p></td><td style="width:135.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cco</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">2</span><span style="font-family:Arial"> - Cco</span></p></td><td style="width:118.55pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">x 100</span></p></td></tr><tr><td style="width:270.95pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:135.5pt; border-top-style:solid; border-top-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cco</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">2</span></p></td><td style="width:118.55pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:270.95pt; vertical-align:top">
+
+Eficiência da Combustão =
+
+</td><td style="width:135.5pt; vertical-align:top">
+
+Cco2 - Cco
+
+</td><td style="width:118.55pt; vertical-align:top">
+
+x 100
+
+</td></tr><tr><td style="width:270.95pt; vertical-align:top">
+
+&nbsp;
+
+</td><td style="width:135.5pt; border-top-style:solid; border-top-width:0.75pt; vertical-align:top">
+
+Cco2
+
+</td><td style="width:118.55pt; vertical-align:top">
+
+&nbsp;
+
+</td></tr></tbody></table>
 
 onde Cco2 = concentração de dióxido de carbono nos gases da combustão
 

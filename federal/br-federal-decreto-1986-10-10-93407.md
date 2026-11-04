@@ -1,5 +1,3 @@
-###DEC-093407-0-000-10-10-1986@@@
-
 DECRETO Nº 93.407, DE 10 DE OUTUBRO DE 1986
 
 Altera o Decreto nº 92.922, de 14 de julho de 1986, que dispõe sobre a execução do Programa de Apoio à Produção Nacional do Leite.

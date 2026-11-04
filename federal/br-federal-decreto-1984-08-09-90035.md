@@ -1,5 +1,3 @@
-###DEC-090035-0-000-09-08-1984@@@
-
 Decreto nº 90.035, de 09 de agosto de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco-CHESF, nos Estados de Alagoas e Ceará.

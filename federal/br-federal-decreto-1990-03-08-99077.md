@@ -1,7 +1,3 @@
-1
-
-###DEC-099077-0-000-08-03-1990@@@
-
 DECRETO Nº 99.077, DE 8 DE MARÇO DE 1990
 
 Outorga concessão à RÁDIO PLANALTO DE PERDIZES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Perdizes, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-081386-0-000-22-02-1978@@@
-
 Decreto nº 81.386, de 22 de fevereiro de 1978.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado no Município de Castro, Estado do Paraná.

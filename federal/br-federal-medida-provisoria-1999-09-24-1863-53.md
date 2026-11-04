@@ -1,5 +1,3 @@
-###MPV-001863-0-053-24-09-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.863-53, DE 24 DE SETEMBRO DE 1999.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

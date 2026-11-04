@@ -1,5 +1,3 @@
-###DEC-046248-0-000-19-06-1959@@@
-
 DECRETO Nº 46.248, DE 19 DE JUNHO DE 1959.
 
 Autoriza estrangeiro a adquirir fração ideal do domínio útil do terreno de marinha que menciona, situado no Distrito Federal.

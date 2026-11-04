@@ -1,5 +1,3 @@
-###DEC-052557-0-000-30-09-1963@@@
-
 DECRETO nº 52.557, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza a Emprêsa de Luz e Fôrça de Florianópolis S.A. a construir uma linha de transmissão.

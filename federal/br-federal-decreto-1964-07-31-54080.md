@@ -1,5 +1,3 @@
-###DEC-054080-0-000-31-07-1964@@@
-
 DECRETO Nº 54.080, DE 31 DE JULHO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal provisório, da Comissão Nacional de Energia Nuclear e dá outras providências.

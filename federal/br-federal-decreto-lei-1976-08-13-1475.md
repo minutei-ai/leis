@@ -1,5 +1,3 @@
-###DEL-001475-0-000-13-08-1976@@@
-
 # DECRETO-LEI Nº 1.475, DE 13 de AGOSTO DE 1976
 
 Altera o artigo 58, da Lei nº 5.025, de 10 de junho de 1966, que dispõe sobre o intercâmbio comercial com o exterior.

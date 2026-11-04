@@ -1,5 +1,3 @@
-###DEL-004898-0-000-30-10-1942@@@
-
 DECRETO-LEI N. 4.898 – DE 30 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito suplementar à verba que especifica

@@ -1,5 +1,3 @@
-###DEL-007158-0-000-14-12-1944@@@
-
 DECRETO-LEI N. 7.158 – DE 14 DE DEZEMBRO DE 1944
 
 Prorroga até 30 de junho de 1945 as disposições dos Decretos-leis ns. 6.364, de 23 de março, 6.612, de 22 de junho, e 6. 629, de 26 de junho, todos de 1944

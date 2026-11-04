@@ -1,5 +1,3 @@
-###DEC-058042-0-000-23-03-1966@@@
-
 DECRETO Nº 58.042, DE 23 MARÇO de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Aliança de Minas Gerais Companhia de Seguros relativa ao aumento do capital social.

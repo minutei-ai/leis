@@ -1,5 +1,3 @@
-###DEL-002024-0-000-25-05-1983@@@
-
 # Decreto-lei nº 2.024, de 25 de maio de 1983.
 
 Dá nova redação ao artigo 2º da Lei Nº 6.708, de 30 de outubro de 1979, que dispõe sobre a correção automática dos salários, modifica a política salarial e dá outras providências.

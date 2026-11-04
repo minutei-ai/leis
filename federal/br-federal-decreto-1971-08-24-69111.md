@@ -1,5 +1,3 @@
-###DEC-069111-0-000-24-08-1971@@@
-
 DECRETO Nº 69.111, DE 24 DE AGÔSTO DE 1971.
 
 Redistribui, com os respectivos ocupantes, cargos do Ministério das Relações Exteriores para o Quadro de Pessoal das Secretarias do Ministério Público Federal, e dá outras providências.

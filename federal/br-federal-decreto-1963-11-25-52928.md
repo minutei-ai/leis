@@ -1,5 +1,3 @@
-###DEC-052928-0-000-25-11-1963@@@
-
 DECRETO Nº 52.928, DE 25 DE NOVEMBRO DE 1963.
 
 Autoriza a Companhia Paulista de Mineração a pesquisar calcário dolomitico no município de Itararé, Estado de São Paulo.

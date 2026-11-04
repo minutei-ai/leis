@@ -1,7 +1,3 @@
-1
-
-###DEC-095842-0-000-18-03-1988@@@
-
 DECRETO N° 95.842, DE 18 DE MARÇO DE 1988
 
 Dispõe sobre o montante do capital social do Petróleo Brasileiro S.A. - PETROBRÁS.

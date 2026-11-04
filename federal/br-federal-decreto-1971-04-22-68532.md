@@ -1,5 +1,3 @@
-###DEC-068532-0-000-22-04-1971@@@
-
 DECRETO Nº 68.532 - DE 22 DE ABRIL DE 1971.
 
 Extingue o Grupo de Organização da Comissão Nacional de Atividades Especiais (GOCNAE) e cria o Instituto de Pesquisas Espaciais (INPE).

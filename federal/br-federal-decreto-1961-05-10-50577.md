@@ -1,5 +1,3 @@
-###DEC-050577-0-000-10-05-1961@@@
-
 DECRETO Nº 50.577, DE 10 DE MAIO DE 1961.
 
 Concede a sociedade anônima Gillette Safety Razor Company Of Brazil autorização para continuar a funcionar na República.

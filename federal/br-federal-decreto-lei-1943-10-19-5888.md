@@ -1,5 +1,3 @@
-###DEL-005888-0-000-19-10-1943@@@
-
 DECRETO‑LEI N. 5. 888 – DE 19 DE OUTUBRO DE 1943
 
 Abre, ao Ministério da Educação e Saúde, o crédito suplementar de Cr$ 2.600,00

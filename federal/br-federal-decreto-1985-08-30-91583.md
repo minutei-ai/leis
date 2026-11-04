@@ -1,5 +1,3 @@
-###DEC-091583-0-000-30-08-1985@@@
-
 DECRETO nº 91.583, de 30 de agosto de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Socorro da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

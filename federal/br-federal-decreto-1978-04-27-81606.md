@@ -1,5 +1,3 @@
-###DEC-081606-0-000-27-04-1978@@@
-
 decreto nº 81.606, de 27 de abril de 1978
 
 Concede reconhecimento aos cursos de Formação de Professores de Disciplinas Especializadas de 2º grau e de Educação Artística da Universidade Federal de Pelotas, Estado do Rio Grande do Sul.

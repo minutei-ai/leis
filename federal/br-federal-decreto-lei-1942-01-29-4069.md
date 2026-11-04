@@ -1,5 +1,3 @@
-###DEL-004069-0-000-29-01-1942@@@
-
 DECRETO-LEI N. 4.069 – DE 29 DE JANEIRO DE 1942
 
 Altera a discriminação do Orçamento do Distrito Federal na parte que menciona

@@ -1,5 +1,3 @@
-###DEC-083703-0-000-05-07-1979@@@
-
 decreto nº 83.703 de 05 de julho de 1979.
 
 Regulamenta a aplicação do instituto da Progressão Funcional, em relação às Classes que integram o Magistério da Aeronáutica e dá outras previdências.

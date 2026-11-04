@@ -1,5 +1,3 @@
-###DEC-073649-0-000-14-02-1974@@@
-
 Decreto nº 73.649, de 14 de fevereiro de 1974.
 
 Declara de utilidade pública as instituições que menciona.

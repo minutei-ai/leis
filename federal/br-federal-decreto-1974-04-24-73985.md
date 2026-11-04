@@ -1,5 +1,3 @@
-###DEC-073985-0-000-24-04-1974@@@
-
 DECRETO Nº 73.985, DE 24 DE ABRIL DE 1974.
 
 Declara perempta a concessão outorgada à Rádio Piratininga de Votuporanga Ltda, para executar serviços de radiodifusão sonora em onda média de âmbito regional, na cidade de Votuporanga, Estado de São Paulo.

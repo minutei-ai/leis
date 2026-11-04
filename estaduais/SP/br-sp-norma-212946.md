@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212946)<br>
-
 # DECRETO N° 70.843, DE 03 DE SETEMBRO DE 2026
 
 ### _Dispõe sobre a classificação institucional da Casa Civil nos Sistemas de Administração Financeira e Orçamentária do Estado._

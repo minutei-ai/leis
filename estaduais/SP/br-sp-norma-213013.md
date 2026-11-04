@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213013)<br>
-
 # DECRETO N° 70.910, DE 30 DE SETEMBRO DE 2026
 
 ### _Transfere os cargos e as funções-atividades que especifica e dá providências correlatas._
@@ -34,8 +32,144 @@ Inês Maria dos Santos Coimbra
 
 #### A N E X O I
 
-<table style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARGO/ FUNÇÃO-ATIVIDADE</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC/SQF</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">OCUPANTE</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">RG/CPF/CIN</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">DO</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">PARA</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Executivo Público</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rafael Ferreira da Silva Britos</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">368.691.358-51</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSES</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QPGE</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Sabrina Domingos Subam</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">345.940.968-16</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSSP</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QPGE</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Neemias Vitolo da Silva</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">264.199.838-60</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSDE</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QPGE</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Auxiliar de Enfermagem</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Pamela Ribeiro da Silva Almeida</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">383.563.728-28</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSES</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAP</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Enfermeiro</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Antonio Jesuino Sparrapani</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">117.254.808-08</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSES</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAP</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Operacional (Motorista)</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQF-II</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Marcus Navarrete Ribeiro</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">186.070.528-61</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSES</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSSP</td></tr></tbody></table>
+CARGO/ FUNÇÃO-ATIVIDADE
+
+SQC/SQF
+
+OCUPANTE
+
+RG/CPF/CIN
+
+DO
+
+PARA
+
+Executivo Público
+
+SQC-III
+
+Rafael Ferreira da Silva Britos
+
+368.691.358-51
+
+QSES
+
+QPGE
+
+Oficial Administrativo
+
+SQC-III
+
+Sabrina Domingos Subam
+
+345.940.968-16
+
+QSSP
+
+QPGE
+
+Oficial Administrativo
+
+SQC-III
+
+Neemias Vitolo da Silva
+
+264.199.838-60
+
+QSDE
+
+QPGE
+
+Auxiliar de Enfermagem
+
+SQC-III
+
+Pamela Ribeiro da Silva Almeida
+
+383.563.728-28
+
+QSES
+
+QSAP
+
+Enfermeiro
+
+SQC-III
+
+Antonio Jesuino Sparrapani
+
+117.254.808-08
+
+QSES
+
+QSAP
+
+Oficial Operacional (Motorista)
+
+SQF-II
+
+Marcus Navarrete Ribeiro
+
+186.070.528-61
+
+QSES
+
+QSSP
 
 #### A N E X O II
 
-<table style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARGO</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">EX-OCUPANTE</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">RG/CPF</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">MOTIVO DA VACÂNCIA</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">DO</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">PARA</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Ana Amalia de Deus Ferreira</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">317.181.438-26</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Exoneração</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QPGE</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSSP</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Edvam Pereira de Miranda</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">022.492.418-48</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Aposentadoria</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QPGE</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSDE</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Enfermeiro</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Erika Aparecida Catoia</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">310.670.398-99</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Exoneração</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAP</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSES</td></tr></tbody></table>
+CARGO
+
+SQC
+
+EX-OCUPANTE
+
+RG/CPF
+
+MOTIVO DA VACÂNCIA
+
+DO
+
+PARA
+
+Oficial Administrativo
+
+SQC-III
+
+Ana Amalia de Deus Ferreira
+
+317.181.438-26
+
+Exoneração
+
+QPGE
+
+QSSP
+
+Oficial Administrativo
+
+SQC-III
+
+Edvam Pereira de Miranda
+
+022.492.418-48
+
+Aposentadoria
+
+QPGE
+
+QSDE
+
+Enfermeiro
+
+SQC-III
+
+Erika Aparecida Catoia
+
+310.670.398-99
+
+Exoneração
+
+QSAP
+
+QSES

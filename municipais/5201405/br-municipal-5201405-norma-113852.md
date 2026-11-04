@@ -20,5 +20,6 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas a
 
 Aparecida de Goiânia-GO, 12 de Março de 2024.
 
-Vilmar Mariano da Silva<br>
+Vilmar Mariano da Silva
+
 Prefeito Municipal

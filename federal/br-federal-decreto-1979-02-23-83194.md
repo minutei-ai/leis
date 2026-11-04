@@ -1,5 +1,3 @@
-###DEC-083194-0-000-23-02-1979@@@
-
 Decreto nº 83.194, de 23 de fevereiro de 1979
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação do canal de Pereira Barreto da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

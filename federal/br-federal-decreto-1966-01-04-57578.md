@@ -1,5 +1,3 @@
-###DEC-057578-0-000-04-01-1966@@@
-
 DECRETO Nº 57.578, DE 4 DE JANEIRO DE 1966.
 
 Retifica o Decreto nº 51.662, de 16 de janeiro de 1963, na parte a que se refere e dá outras providências.

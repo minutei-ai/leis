@@ -1,6 +1,10 @@
 > **LEI Nº 4.600, DE 26 DE JUNHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de Utilidade Pública a Câmara de Dirigentes lojistas - CDL Rio Branco.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de Utilidade Pública a Câmara de Dirigentes lojistas - CDL Rio Branco.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

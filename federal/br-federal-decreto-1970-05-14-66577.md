@@ -1,5 +1,3 @@
-###DEC-066577-0-000-14-05-1970@@@
-
 Decreto nº 66.577, de 14 de maio de 1970.
 
 Dá nova redação ao parágrafo único do Artigo 14 do Regimento do Gabinete Militar da Presidência da República.

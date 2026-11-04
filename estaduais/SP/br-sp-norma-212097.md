@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212097)<br>
-
 # DECRETO N° 70.271, DE 23 DE DEZEMBRO DE 2025
 
 ### _Autoriza a outorga de uso do imóvel que especifica ao Município de Casa Branca e dá providências correlatas._

@@ -1,5 +1,3 @@
-###MPV-000470-0-000-13-10-2009@@@
-
 MEDIDA PROVISÓRIA Nº 470, DE 13 DE OUTUBRO DE 2009.
 
 Constitui fonte adicional de recursos para ampliação de limites operacionais da Caixa Econômica Federal e dá outras providências.

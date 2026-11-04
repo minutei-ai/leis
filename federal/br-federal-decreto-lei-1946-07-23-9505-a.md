@@ -1,5 +1,3 @@
-###DEL-009505-A-000-23-07-1946@@@
-
 DECRETO-LEI N. 9.505 – A – DE 23 DE JULHO DE 1946
 
  Altera a redação do art. 1º do Decreto-lei nº 9.435 de 13 de julho de 1946.

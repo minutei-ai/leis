@@ -1,5 +1,3 @@
-###DEC-056537-0-000-05-07-1965@@@
-
 Decreto nº 56.537, de 5 de julho de 1965.
 
 Dá nova redação aos arts. 1º, 2º e 3º do Decreto nº 54.468, de 14 de outubro de 1964.

@@ -1,6 +1,7 @@
 LEI COMPLEMENTAR Nº 222, DE 02 DE SETEMBRO DE 2021
 
-  <br>
+  
+
 Altera a Lei Complementar nº 3.853/99 - Plano de Cargos e Vencimentos dos Servidores do Município de Rio Verde.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO aprova E EU SANCIONO A SEGUINTE LEI:**
@@ -23,33 +24,46 @@ Procurador-Geral
 
 Secretário de Planejamento e Gestão
 
-<br>
-**ANEXO ÚNICO<br>
+**ANEXO ÚNICO
+
 (Altera o Anexo II da Lei Complementar nº 3.853/99)**
 
-<br>
-**Cargo:** Almoxarife<br>
-**Requisitos:**<br>
+**Cargo:** Almoxarife
+
+**Requisitos:**
+
 • Ensino Fundamental
 
-**Cargo:** Auxiliar Administrativo<br>
-**Requisitos:**<br>
+**Cargo:** Auxiliar Administrativo
+
+**Requisitos:**
+
 • Ensino Médio
 
-**Cargo:** Coveiro<br>
-**Requisitos:**<br>
-• Ensino Fundamental<br>
-• Capacidade Física
+**Cargo:** Coveiro
 
-**Cargo:** Cozinheiro<br>
-**Requisitos:**<br>
+**Requisitos:**
+
 • Ensino Fundamental
 
-**Cargo:** Motorista de veículos leves<br>
-**Requisitos:**<br>
-• Ensino Fundamental<br>
+• Capacidade Física
+
+**Cargo:** Cozinheiro
+
+**Requisitos:**
+
+• Ensino Fundamental
+
+**Cargo:** Motorista de veículos leves
+
+**Requisitos:**
+
+• Ensino Fundamental
+
 • Carteira de habilitação nível “B”
 
-**Cargo:** Telefonista<br>
-**Requisitos:**<br>
+**Cargo:** Telefonista
+
+**Requisitos:**
+
 • Ensino Fundamental

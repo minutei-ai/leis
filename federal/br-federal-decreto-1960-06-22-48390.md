@@ -1,5 +1,3 @@
-###DEC-048390-0-000-22-06-1960@@@
-
 DECRETO Nº 48.390, DE 22 DE JUNHO DE 1960.
 
 Acrescenta parágrafo ao art. 1º do Decreto nº 44.172, de 26 de junho de 1958, que regulamentou a Lei número 3.385-A, de 13 de maio de 1958.

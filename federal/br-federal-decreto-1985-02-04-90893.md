@@ -1,5 +1,3 @@
-###DEC-090893-0-000-04-02-1985@@@
-
 Decreto nº 90.893, de 04 de fevereiro de 1985
 
 Delega competência aos Ministros de Estado da Marinha, do Exército, da Aeronáutica e Chefe do Estado-Maior das Forças Armadas.

@@ -1,14 +1,12 @@
-###DEC-042062-0-000-19-08-1957@@@
+**DECRETO Nº 42.062, DE 19 DE AGÔSTO DE 1957.**
 
-<strong>DECRETO Nº 42.062, DE 19 DE AGÔSTO DE 1957.</strong>
+***Modifica a redação do art. 2º do Decreto nº 39.597, de 14 de julho de 1956, que outorgou à S.A. O Estado de São Paulo concessão para o aproveitamento progressivo da energia hidráulica de um desnível existente no rio Camburu, distrito da sede do Município de Caraguatatuba, Estado de São Paulo.***
 
-<em><strong>Modifica a redação do art. 2º do Decreto nº 39.597, de 14 de julho de 1956, que outorgou à S.A. O Estado de São Paulo concessão para o aproveitamento progressivo da energia hidráulica de um desnível existente no rio Camburu, distrito da sede do Município de Caraguatatuba, Estado de São Paulo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas, (Decreto n.º 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas, (Decreto n.º 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passa a ter a seguinte redação o art. 2.º do Decreto número 39.597, de 14 de julho de 1956, que outorgou a S. A. O Estado de São Paulo concessão para o aproveitamento progressivo da energia hidráulica de um desnível existente no rio Camburu, distrito da sede do município de Caraguatatuba, Estado de São Paulo:
+**Art**. 1º Passa a ter a seguinte redação o art. 2.º do Decreto número 39.597, de 14 de julho de 1956, que outorgou a S. A. O Estado de São Paulo concessão para o aproveitamento progressivo da energia hidráulica de um desnível existente no rio Camburu, distrito da sede do município de Caraguatatuba, Estado de São Paulo:
 
 “Art. 2º Caducará o presente título independentemente de ato declaratório se a concessionária não satisfizer as condições seguintes:
 
@@ -22,12 +20,12 @@ IV - Iniciar e concluir as obras nos prazos que forem marcados pelo Ministério 
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministério da Agricultura.
 
-<strong>Art</strong>. 2º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 2º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de agôsto de 1957, 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

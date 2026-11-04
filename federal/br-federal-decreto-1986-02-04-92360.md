@@ -1,5 +1,3 @@
-###DEC-092360-0-000-04-02-1986@@@
-
 DECRETO Nº 92.360, DE 04 DE FEVEREIRO DE 1986
 
 Dispõe sobre o ingresso nos cargos da Carreira Auditoria do Tesouro Nacional, e dá outras providências.

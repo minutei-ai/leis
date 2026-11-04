@@ -1,5 +1,3 @@
-###DEL-005574-0-000-14-06-1943@@@
-
 DECRETO‑LEI N. 5.574 – DE 14 DE JUNHO DE 1943
 
 Altera o efetivo a que se refere o art. 2º do decreto‑lei n. 4.754, de 29 de setembro de 1942

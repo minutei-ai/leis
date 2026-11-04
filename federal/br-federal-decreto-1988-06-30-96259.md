@@ -1,5 +1,3 @@
-###DEC-096259-0-000-30-06-1988@@@
-
 DECRETO N° 96.259, DE 30 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA SANTA MARIA”, classificado como “latifúndio por exploração”, situado no Município de Paranacity, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 96.622, de 02 de maio de 1986 e dá outras providências.

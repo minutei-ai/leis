@@ -1,5 +1,3 @@
-###DEC-072902-0-000-10-10-1973@@@
-
 DECRETO Nº 72.902, DE 10 DE OUTUBRO DE 1973.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Santo Amaro, mantida pela Organização Santamarense de Educação e Cultura, com sede na cidade de São Paulo, Estado de São Paulo.

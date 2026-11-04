@@ -1,7 +1,3 @@
-1
-
-###DEL-001848-0-000-06-01-1981@@@
-
 # Decreto-lei nº 1.848, de 06 de janeiro de 1981
 
 Dá nova redação a dispositivos da Lei nº 5.787, de 27 de junho de 1972, alterada pelos Decretos-leis nºs 1.693, 30 de agosto de 1979, e 1.824, de 22 de dezembro de 1980.

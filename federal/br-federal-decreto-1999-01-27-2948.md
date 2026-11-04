@@ -1,5 +1,3 @@
-###DEC-002948-0-000-27-01-1999@@@
-
 DECRETO Nº 2.948, DE 27 DE JANEIRO DE 1999.
 
 Dispõe sobre o recolhimento e a distribuição do Salário-Educação, previsto no § 5º do art. 212 da Constituição e no art. 15 da Lei nº 9.924, de 24 de dezembro de 1996, e dá outras providências.

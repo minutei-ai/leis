@@ -1,5 +1,3 @@
-###DEC-049195-0-000-09-11-1960@@@
-
 DECRETO Nº 49.195, DE 09 DE NOVEMBRO DE 1960.
 
 Autoriza estrangeiro a adquirir, em transferência, os direitos à regularização de aforamento da fração ideal do domínio útil de terreno de marinha que menciona, no Estado da Guanabara.

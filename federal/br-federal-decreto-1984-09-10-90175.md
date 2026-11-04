@@ -1,5 +1,3 @@
-###DEC-090175-0-000-10-09-1984@@@
-
 DECRETO Nº 90.175, DE 10 DE SETEMBRO DE 1984
 
 Altera o artigo 3º do Decreto nº 88.161, de 10 de março de 1983, e dá outras providências.

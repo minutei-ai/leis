@@ -1,5 +1,3 @@
-###MPV-000445-0-000-06-11-2008@@@
-
 MEDIDA PROVISÓRIA Nº 445, DE 6 DE NOVEMBRO DE 2008.
 
 Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal.      

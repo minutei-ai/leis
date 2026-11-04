@@ -1,5 +1,3 @@
-###DEC-077907-0-000-24-06-1976@@@
-
 DECRETO Nº 77.907, DE 24 DE JUNHO DE 1976.
 
 Concede à Mineração e Cimento Vale do Itajaí S.A.CIMENVALE o direito de lavrar calcário no Município de Vidal Ramos, Estado de Santa Catarina.

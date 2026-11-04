@@ -1,5 +1,3 @@
-###DEC-049724-0-000-31-12-1960@@@
-
 DECRETO N. 49.724 – DE 31 DE DEZEMBRO DE 1960
 
 Aprova alterações introduzidas nos Estatutos da Iguassu – Companhia de Seguros.

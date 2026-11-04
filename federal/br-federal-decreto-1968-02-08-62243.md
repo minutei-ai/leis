@@ -1,5 +1,3 @@
-###DEC-062243-0-000-08-02-1968@@@
-
 DECRETO Nº 62.243, DE 8 DE FEVEREIRO DE 1968.
 
 Cria a “Base Naval de Natal” e dá outras providências.

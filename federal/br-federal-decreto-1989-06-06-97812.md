@@ -1,7 +1,3 @@
-1
-
-###DEC-097812-0-000-06-06-1989@@@
-
 DECRETO N° 97.812, DE 06 DE JUNHO DE 1989
 
 Outorga concessão à RÁDIO TV INDEPENDÊNCIA SUDOESTE LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Toledo, Estado do Paraná.

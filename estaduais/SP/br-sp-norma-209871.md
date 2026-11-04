@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209871)<br>
-
 # DECRETO N° 68.805, DE 24 DE AGOSTO DE 2024
 
 ### _Declara situação de emergência nas áreas que especifica, em razão de incêndios florestais no território estadual._

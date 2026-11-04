@@ -1,5 +1,3 @@
-###DEC-061677-0-000-13-11-1967@@@
-
 Decreto nº 61.677, de 13 de Novembro de 1967.
 
 Fixa os preços mínimos básicos relativos à safra do próximo ano de 1968, para a juta e malva da Região Amazônica.
@@ -40,7 +38,29 @@ Art. 6º As operações a que se refere o art. 1º do presente Decreto somente p
 
 Art. 7º Os ágios e deságios para os diversos tipos de juta e malva serão estabelecidos de acôrdo com os seguintes percentuais relativos ao tipo 5 básico:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Tipos</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Percentual</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Nominal</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>117</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5 (básico)</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>100</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>92</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>75</span></p></td></tr></tbody></table>
+Tipos
+
+Percentual
+
+1
+
+Nominal
+
+3
+
+117
+
+5 (básico)
+
+100
+
+7
+
+92
+
+9
+
+75
 
 Art. 8º Ficam liberadas as exportações de fibras de juta e suas similares, amparadas pelos preços mínimos, nos têrmos dêste Decreto, da safra referente ao ano agrícola 1967/68.
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-001518-0-000-07-06-1995@@@
-
 DECRETO Nº 1.518, DE 07 DE JUNHO DE 1995
 
 Dispõe sobre a execução, no território nacional, da Resolução 727 (1992) do Conselho de Segurança das Nações Unidas, que delibera sobre o embargo de armas contra a Iugoslávia.

@@ -1,5 +1,3 @@
-###DEC-071571-0-000-18-12-1972@@@
-
 DECRETO Nº 71.571 - DE 18 DE DEZEMBRO DE 1972
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à implantação do Projeto de Irrigação de Jaguaruana, no município do mesmo nome, Estado do Ceará.

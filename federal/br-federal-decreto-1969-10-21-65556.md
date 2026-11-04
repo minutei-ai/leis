@@ -1,5 +1,3 @@
-###DEC-065556-0-000-21-10-1969@@@
-
 DECRETO Nº 65.556 - DE 21 DE OUTUBRO DE 1969.
 
 Autoriza o Ministério da Fazenda, por intermédio do Serviço do Patrimônio da União a ceder, gratuitamente ao Departamento Nacional de Obras de Saneamento, imóvel que especifica.

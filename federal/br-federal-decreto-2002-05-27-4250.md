@@ -1,5 +1,3 @@
-###DEC-004250-0-000-27-05-2002@@@
-
 DECRETO Nº 4.250, DE 27 DE MAIO DE 2002
 
 Regulamenta a representação judicial da União, autarquias, fundações e empresas públicas federais perante os Juizados Especiais Federais, instituídos pela Lei nº 10.259, de 12 de julho de 2001.

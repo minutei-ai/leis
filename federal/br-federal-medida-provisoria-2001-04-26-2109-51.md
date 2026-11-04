@@ -1,5 +1,3 @@
-###MPV-002109-0-051-26-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.109- 51, DE 26 DE ABRIL DE 2001
 
 Acresce e altera dispositivos do Decreto-Lei nº 3.365, de 21 de junho de 1941, das Leis n 4.504, de 30 de novembro de 1964, 8.177, de 1º de março de 1991, e 8.629, de 25 de fevereiro de 1993, e dá outras providências.

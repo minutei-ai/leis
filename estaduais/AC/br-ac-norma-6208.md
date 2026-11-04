@@ -1,6 +1,10 @@
 > **LEI Nº 4.429, DE 29 DE OUTUBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria ajuda de custo complementar aos integrantes do Corpo Voluntário de Militares do Estado, conforme disposto na Lei Complementar n° 305, de 8 de outubro de 2015.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria ajuda de custo complementar aos integrantes do Corpo Voluntário de Militares do Estado, conforme disposto na Lei Complementar n° 305, de 8 de outubro de 2015.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

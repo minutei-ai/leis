@@ -1,5 +1,3 @@
-###DEL-007321-0-000-14-02-1945@@@
-
 DECRETO-LEI N. 7.321 – DE 14 DE FEVEREIRO DE 1945
 
 Revoga o Decreto-lei nº 5.821, de 16 de setembro de 1943, e dá outras providências

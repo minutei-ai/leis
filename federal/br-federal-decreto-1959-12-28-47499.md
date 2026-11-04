@@ -1,5 +1,3 @@
-###DEC-047499-0-000-28-12-1959@@@
-
 DECRETO Nº 47.499, DE 28 DE DEZEMBRO DE 1959.
 
 Transfere da Prefeitura Municipal de Arroio do Meio para a Comissão Estadual de Energia Elétrica a concessão para a produção e fornecimento de energia elétrica ao Município de Arroio do Meio, Estado do Rio Grande do Sul.

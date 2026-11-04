@@ -1,5 +1,3 @@
-###DEC-088154-0-000-09-03-1983@@@
-
 Decreto nº 88.154, de 09 de março de 1983.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Colônia Della Giustina", situado no município de Roque Gonzales, Estado do Rio Grande do Sul, compreendido na área  prioritária para fins de reforma agrária, fixada pelo Decreto nº 88.153, de 09 de março de 1983.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099214-0-000-19-04-1990@@@
-
 DECRETO Nº 99.214, DE 19 DE ABRIL DE 1990
 
 Altera os arts. 3º, 4º, 5º, 7º e 22 do De­creto nº 99.188, de 17 de março de 1990.

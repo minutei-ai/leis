@@ -1,5 +1,3 @@
-###DEC-068285-0-000-25-02-1971@@@
-
 DECRETO Nº 68.285, DE 25 DE FEVEREIRO DE 1971.
 
 Autoriza o Ministério da Aeronáutica a ceder, gratuitamente, à Campanha Nacional de Educandários Gratuitos - Setor Distrital da Ilha do Governador, Estado da Guanabara, o terreno que menciona.

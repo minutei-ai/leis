@@ -1,5 +1,3 @@
-###DEL-008980-0-000-14-02-1946@@@
-
 DECRETO-LEI N. 8.980 – DE 14 DE FEVEREIRO DE 1946
 
 Substitui as funções gratificadas do Quadro Permanente do Departamento Administração do Serviço Público.

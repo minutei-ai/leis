@@ -1,5 +1,3 @@
-###DEC-094043-0-000-20-02-1987@@@
-
 DECRETO Nº 94.043, DE 20 DE FEVEREIRO DE 1987.
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980, subscrito entre Argentina e Brasil (Acordo nº 1).

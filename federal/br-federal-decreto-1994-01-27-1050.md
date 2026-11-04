@@ -1,7 +1,3 @@
-1
-
-###DEC-001050-0-000-27-01-1994@@@
-
 DECRETO N° 1.050, DE 27 DE JANEIRO DE 1994
 
 Dispõe sobre o contrato de gestão para a Petróleo Brasileiro S.A. (Petrobrás) e suas subsidiárias.

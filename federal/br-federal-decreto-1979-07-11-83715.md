@@ -1,5 +1,3 @@
-###DEC-083715-0-000-11-07-1979@@@
-
 Decreto nº 83.715 de 11 de julho de 1979.
 
 Declara sem efeito o Decreto nº 70.787, de 04 de julho de 1972, retificado pelo Decreto nº 81.485, de 29 de março de 1978, que concedeu à Cerâmica Martini S.A. o direito de lavrar argila no Município de Mogi-Guaçu, Estado de São Paulo.

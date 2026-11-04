@@ -1,5 +1,3 @@
-###DEC-071966-0-000-21-03-1973@@@
-
 Decreto Nº 71.966, DE 21 DE MARÇO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra situadas nos Estados de Goiás e Minas Gerais.

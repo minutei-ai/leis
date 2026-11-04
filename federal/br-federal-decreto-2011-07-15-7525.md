@@ -1,5 +1,3 @@
-###DEC-007525-0-000-15-07-2011-PUB-01@@@
-
 DECRETO Nº 7.525, DE 15 DE JULHO DE 2011
 
 Altera para RECOPA a sigla do Regime Especial de Tributação para Construção, Ampliação, Reforma ou Modernização de Estádios de Futebol, a que se refere o Decreto nº 7.319, de 28 de setembro de 2010.

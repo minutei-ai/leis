@@ -1,5 +1,3 @@
-###MPV-001609-0-020-19-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.609-20, DE 19 DE NOVEMBRO DE 1998.
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1997 a 30 de abril de 1998.

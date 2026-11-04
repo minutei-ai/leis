@@ -1,5 +1,3 @@
-###DEC-090793-0-000-09-01-1985@@@
-
 DECRETO Nº 90.793, DE 09 DE JANEIRO DE 1985
 
 Outorga concessão à RÁDIO DRAGÃO DO NORTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Massapé, Estado do Ceará.

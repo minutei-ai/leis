@@ -1,5 +1,3 @@
-###DEC-004541-0-000-23-12-2002@@@
-
 DECRETO N. 4.541 – DE 23 DE DEZEMBRO DE 2002
 
 Regulamenta os arts. 3º, 13, 17 e 23 da Lei nº 10.438, de 26 de abril de 2002, que dispõe sobre a expansão da oferta de energia elétrica emergencial, recomposição tarifária extraordinária, cria o Programa de Incentivo às Fontes Alternativas de Energia Elétrica – PROINFA e a Conta de Desenvolvimento Energético – CDE, e dá outras providências.

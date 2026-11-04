@@ -1,7 +1,3 @@
-1
-
-###DEC-098659-0-000-21-12-1989@@@
-
 DECRETO Nº 98.659, DE 21 DE DEZEMBRO DE 1989
 
 Altera os Estatutos da Indústria de Material Bélico do Brasil - IMBEL, vinculada ao Ministério do Exército.

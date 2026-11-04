@@ -1,5 +1,3 @@
-###DEC-056634-0-000-03-08-1965@@@
-
 DECRETO Nº 56.634, DE 3 DE AGÔSTO DE 1965.
 
 Inclui funções gratificadas na Parte Permanente do Quadro de Pessoal do Ministério da Educação e Cultura.

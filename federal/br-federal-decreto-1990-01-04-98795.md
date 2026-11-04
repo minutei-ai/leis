@@ -1,7 +1,3 @@
-1
-
-###DEC-098795-0-000-04-01-1990@@@
-
 DECRETO Nº 98.795, DE 4 DE JANEIRO DE 1990
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados Lote 97, do Projeto Aracaty e Beleza, “Área  I (parte), do Projeto Aracaty, “Área - I, da Gleba Itamaju e Beleza, “Fazenda Compema” (Área desmembrada) e Área - I do Projeto Beleza, situados no Município de Vila Rica, Estado de Mato Grosso, e dá outras providências.

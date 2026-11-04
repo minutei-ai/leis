@@ -1,4 +1,5 @@
-DECRETO "N" N° 474, DE 19 DE JULHO DE 2023.<br>
+DECRETO "N" N° 474, DE 19 DE JULHO DE 2023.
+
 (Revogado pelo Decreto "N" Nº 656, de 16 de outubro de 2023).
 
 ~~Dispõe sobre aprovação do Loteamento Reserva Andrade Reis, neste Município e dá outras providências.~~
@@ -145,8 +146,10 @@ DECRETO "N" N° 474, DE 19 DE JULHO DE 2023.<br>
 
 ~~MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 19 de Julho de 2023.~~
 
-~~VILMAR MARIANO DA SILVA<br>
+~~VILMAR MARIANO DA SILVA
+
 Prefeito~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana~~

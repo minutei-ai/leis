@@ -1,5 +1,3 @@
-###DEC-093619-0-000-25-11-1986@@@
-
 DECRETO Nº 93.619, DE 25 DE NOVEMBRO DE 1986
 
 Outorga concessão à Rádio Cultura de Utinga Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Utinga, Estado da Bahia.

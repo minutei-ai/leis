@@ -1,5 +1,3 @@
-###DEC-003926-0-000-19-09-2001@@@
-
 DECRETO Nº 3.926, DE 19 DE SETEMBRO DE 2001
 
 Autoriza depósito de ações de propriedade da União no Fundo de Amortização da Dívida Pública Mobiliária Federal, e dá outras providências.

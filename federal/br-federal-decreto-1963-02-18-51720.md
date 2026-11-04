@@ -1,5 +1,3 @@
-###DEC-051720-0-000-18-02-1963@@@
-
 Decreto nº 51.720, de 18 de FEVEREIRO de 1963.
 
 Altera o Regulamento do Corpo do Pessoal Subalterno do Corpo de Fuzileiros Navais, aprovado pelo Decreto nº 28.880, de 20 de novembro de 1950.

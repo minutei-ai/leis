@@ -1,5 +1,3 @@
-###DEC-091180-0-000-02-04-1985@@@
-
 Decreto nº 91.180, de 02 de abril de 1985.
 
 Autoriza a funcionamento da habilitação em Química, do curso de Ciências, da Faculdade de Ciências e Letras de Votuporanga - SP.

@@ -1,5 +1,3 @@
-###DEC-052377-0-000-19-08-1963@@@
-
 Decreto Nº 52.377, DE 19 DE AgÔsto DE 1963.
 
 Concede indulto a sentenciados a que menciona e dá outras providências.

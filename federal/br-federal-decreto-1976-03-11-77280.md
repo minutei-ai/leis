@@ -1,5 +1,3 @@
-###DEC-077280-0-000-11-03-1976@@@
-
 DECRETO Nº 77.280, DE 11 DE MARÇO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Gazeta Ltda., posteriormente transferida à Fundação Casper Libero para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de São Paulo, Estado de São Paulo.

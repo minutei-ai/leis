@@ -1,5 +1,3 @@
-###DEC-068907-0-000-13-07-1971@@@
-
 DECRETO Nº 68.907, DE 13 DE JULHO DE 1971.
 
 Cria a Reserva Indígena de Waimiri-Atroari, situada no Município de Airão, Estado do Amazonas.

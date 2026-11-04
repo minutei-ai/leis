@@ -1,5 +1,3 @@
-###DEC-053998-0-000-03-07-1964@@@
-
 DECRETO Nº 53.998, DE 3 DE JULHO DE 1964.
 
 Promulga o Acôrdo de Migração Brasil-Espanha.

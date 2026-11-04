@@ -1,5 +1,3 @@
-###DEC-056434-0-000-08-06-1965@@@
-
 DECRETO Nº 56.434, DE 8 DE JUNHO DE 1965.
 
 Autoriza a Emprêsa de Caolim Limitada a pesquisar caulim, no município de Inháuma, no Estado de Minas Gerais

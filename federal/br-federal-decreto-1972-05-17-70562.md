@@ -1,5 +1,3 @@
-###DEC-070562-0-000-17-05-1972@@@
-
 DECRETO Nº 70.562, DE 17 DE MAIO DE 1972.
 
 Declara de utilidade pública a Fundação Percival Farquhar, com sede em Governador Valadares, Estado de Minas Gerais.

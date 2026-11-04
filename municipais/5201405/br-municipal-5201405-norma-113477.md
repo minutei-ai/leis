@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.388, DE 22 DE NOVEMBRO DE 2017<br>
+LEI MUNICIPAL Nº 3.388, DE 22 DE NOVEMBRO DE 2017
+
 (Revogado pela Lei Ordinária nº 3.496, de 6 de setembro de 2019).
 
 ~~Institui a política de incentivo aos atletas praticantes de desportos de rendimento em modalidade olímpica ou paralímpica, Programa “Aparecida Compete”, e dá outras providências.~~
@@ -59,11 +60,14 @@ LEI MUNICIPAL Nº 3.388, DE 22 DE NOVEMBRO DE 2017<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, 22 de novembro de 2017.~~
 
-~~GUSTAVO MENDANHA MELO<br>
+~~GUSTAVO MENDANHA MELO
+
 Prefeito Municipal~~
 
-~~AFONSO BOAVENTURA<br>
+~~AFONSO BOAVENTURA
+
 Chefe da Casa Civil~~
 
-~~GERFESON ARAGÃO<br>
+~~GERFESON ARAGÃO
+
 Secretário de Esporte, Lazer e juventude~~

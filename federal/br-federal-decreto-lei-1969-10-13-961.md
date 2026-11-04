@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ffc22ac8-475e-4d6c-a269-e23e1efc7e96/texto#nowhere)
 
-###DEL-000961-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 961, DE 13 DE OUTUBRO DE 1969
 
 Fixa o número de vereadores para os municípios dos territórios federais do Amapá, Rondônia e Roraima dá outras providências.

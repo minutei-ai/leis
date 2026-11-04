@@ -1,5 +1,3 @@
-###DEC-052575-0-000-30-09-1963@@@
-
 DECRETO Nº 52.575, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza a Companhia Luz e Fôrça Hulha Branca a ampliar suas instalações.

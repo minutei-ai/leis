@@ -16,7 +16,8 @@ Goiânia, aos 7 dias do mês de Agosto de 2026.
 
 LEANDRO CRISPIM
 
-QUADRO 1<br>
+QUADRO 1
+
 SUPLEMENTAÇÃO
 
 | **452-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO PODER JUDICIÁRIO - FUNDESP-PJ** |
@@ -27,7 +28,9 @@ SUPLEMENTAÇÃO
 
 TOTAL A SUPLEMENTAR POR FONTE: R$ 156.546,00
 
-<table><thead></thead><tbody><tr><td>17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS</td><td style="text-align:right">R$ 156.546,00</td></tr></tbody></table>
+17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS
+
+R$ 156.546,00
 
 QUADRO 2
 
@@ -41,8 +44,12 @@ REDUÇÃO
 
 TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III: R$ 156.546,00
 
-<table><thead></thead><tbody><tr><td>17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS</td><td style="text-align:right">R$ 156.546,00</td></tr></tbody></table>
+17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS
+
+R$ 156.546,00
 
 TOTAL POR FONTE: R$ 156.546,00
 
-<table><thead></thead><tbody><tr><td>17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS</td><td style="text-align:right">R$ 156.546,00</td></tr></tbody></table>
+17600137 - RECURSOS DE EMOLUMENTOS, TAXAS E CUSTAS
+
+R$ 156.546,00

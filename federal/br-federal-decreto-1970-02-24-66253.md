@@ -1,5 +1,3 @@
-###DEC-066253-0-000-24-02-1970@@@
-
 DECRETO Nº 66.253 - DE 24 DE fevereiro DE 1970
 
 Autoriza a Sociedade Telefônica do Paraná S.A. a transferir concessão outorgada para executar serviço de Telefonia Público Urbano e Interurbano no Estado do Paraná.

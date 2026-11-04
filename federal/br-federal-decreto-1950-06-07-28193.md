@@ -1,14 +1,12 @@
-###DEC-028193-0-000-07-06-1950@@@
+**DECRETO Nº 28.193, DE 7 DE JUNHO DE 1950.**
 
-<strong>DECRETO Nº 28.193, DE 7 DE JUNHO DE 1950.</strong>
+***Declara de utilidade pública diversas áreas de terra necessárias à execução das obras de ampliação a que se refere o Decreto nº 22.008, de 29 de outubro de 1946, e autoriza a The São Paulo Tramway, Light and Power Co, Ltd. a promover a desapropriação das mesmas.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra necessárias à execução das obras de ampliação a que se refere o Decreto nº 22.008, de 29 de outubro de 1946, e autoriza a The São Paulo Tramway, Light and Power Co, Ltd. a promover a desapropriação das mesmas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o que requereu a The São Paulo Tramway, Light and Power Co. Ltd., e o disposto no art. 151, item b, do Código de Águas, e no Decreto-lei nº 3.365, de 21 de junho de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o que requereu a The São Paulo Tramway, Light and Power Co. Ltd., e o disposto no art. 151, item b, do Código de Águas, e no Decreto-lei nº 3.365, de 21 de junho de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1<strong>º</strong> Ficam declaradas de utilidade pública as áreas de terra necessárias à execução das obras para ampliação do aproveitamento hidrelétrico da usina da Serra do Cubatão, de acôrdo com o Decreto número 22.008, de 29 de outubro de 1946, constante das plantas aprovadas pelo Ministro da Agricultura de ns. 13.226 e seguintes:
+**Art**. 1**º** Ficam declaradas de utilidade pública as áreas de terra necessárias à execução das obras para ampliação do aproveitamento hidrelétrico da usina da Serra do Cubatão, de acôrdo com o Decreto número 22.008, de 29 de outubro de 1946, constante das plantas aprovadas pelo Ministro da Agricultura de ns. 13.226 e seguintes:
 
 1 - área indicada na planta 13.226, fôlha 1 e 4, com um total de 237.200 metros quadrados e de propriedade atribuída à Prefeitura Municipal de São Paulo;
 
@@ -366,14 +364,14 @@ Ilhas
 
 1 - 42) área indicada na planta 13.226, fôlha 11, com um total de 8.800 metros quadrados e de propriedade atribuída a quem de direito;
 
-<strong>Art</strong>. 2º A The São Paulo Tramway, Light and Power Company Limited, fica autorizada a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
+**Art**. 2º A The São Paulo Tramway, Light and Power Company Limited, fica autorizada a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 7 de junho de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 A. de Novais Filho

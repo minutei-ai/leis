@@ -1,5 +1,3 @@
-###DEC-081384-0-000-22-02-1978@@@
-
 Decreto nº 81.384, de 22 de fevereiro de 1978
 
 Dispõe sobre a Concessão de gratificação por atividades com raios-x ou substância radioativas e outras vantagens, previstas na Lei nº  1.234 de 14 de novembro de 1950, e dá outras providências.

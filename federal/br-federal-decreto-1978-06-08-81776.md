@@ -1,5 +1,3 @@
-###DEC-081776-0-000-08-06-1978@@@
-
 Decreto nº 81.776, de 8 de junho de 1978.
 
 Designa representante da União Federal na escritura pública de encampação do Porto de Salvador e dá outras providências.

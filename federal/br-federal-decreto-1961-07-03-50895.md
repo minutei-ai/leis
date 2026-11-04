@@ -1,5 +1,3 @@
-###DEC-050895-0-000-03-07-1961@@@
-
 DECRETO Nº 50.895, DE 3 DE JULHO DE 1961.
 
 Autoriza o cidadão brasileiro Victor Belfort Arantes Filho a pesquisar caulim, no município de Pequeri, Estado de Minas Gerais.

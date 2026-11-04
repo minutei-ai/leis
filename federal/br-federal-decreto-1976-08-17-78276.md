@@ -1,5 +1,3 @@
-###DEC-078276-0-000-17-08-1976@@@
-
 DECRETO Nº 78.276, DE 17 DE AGOSTO DE 1976.
 
 Regulamenta a Lei Complementar nº 26, de 11 de setembro de 1975, e dá outras providências.

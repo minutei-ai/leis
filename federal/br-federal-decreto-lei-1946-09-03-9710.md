@@ -1,5 +1,3 @@
-###DEL-009710-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.710 – DE 3 DE SETEMBRO DE 1946
 
 Dá nova redação a dispositivos do Decreto-lei nº 9.295, de 27 de Maio de 1946

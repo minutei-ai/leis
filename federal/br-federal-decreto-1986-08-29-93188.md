@@ -1,5 +1,3 @@
-###DEC-093188-0-000-29-08-1986@@@
-
 DECRETO Nº 93.188, DE 29 DE AGOSTO DE 1986
 
 Dispõe sobre a Organização Básica do Ministério do Exército, e dá outras providências.

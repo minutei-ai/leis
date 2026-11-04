@@ -1,5 +1,3 @@
-###MPV-001675-0-043-26-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.675-43, DE 26 DE OUTUBRO DE 1998
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

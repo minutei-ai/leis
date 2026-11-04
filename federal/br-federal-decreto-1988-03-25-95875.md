@@ -1,7 +1,3 @@
-1
-
-###DEC-095875-0-000-25-03-1988@@@
-
 DECRETO N° 95.875, DE 25 DE MARÇO DE 1988
 
 Altera os Decretos n° 92.002, de 28 de novembro de 1985, que institui o CIRP e n° 93.597, de 21 de novembro de 1986, que disciplina as contribuições para formação e manutenção de entidades fechadas de previdência privada, e dá outras providências.

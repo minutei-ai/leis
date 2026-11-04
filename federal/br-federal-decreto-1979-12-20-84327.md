@@ -1,5 +1,3 @@
-###DEC-084327-0-000-20-12-1979@@@
-
 Decreto nº 84.327, de 20 de dezembro de 1979.
 
 Altera a redação do artigo 2º do Decreto nº 83.940, de 10 de setembro de 1979, e dá outras providências.

@@ -1,6 +1,4 @@
-###DEL-006681-0-000-13-07-1944@@@
-
-                      DECRETO-LEI  N. 6.681 – DE 13 DE Julho DE 1944
+DECRETO-LEI  N. 6.681 – DE 13 DE Julho DE 1944
 
 Dispõe sôbre o julgamento de processos fiscais, instaurados contra firmas sob regime de intervenção ou de liquidação, e dá outras providências
 

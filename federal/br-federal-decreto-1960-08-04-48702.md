@@ -1,5 +1,3 @@
-###DEC-048702-0-000-04-08-1960@@@
-
 decreto nº 48.702, de 4 de agÔsto de 1960.
 
 Transfere Função de Extranumerária-Mensalista.

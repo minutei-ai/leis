@@ -1,5 +1,3 @@
-###DEC-054330-0-000-28-09-1964@@@
-
 DECRETO Nº 54.330, DE 28 DE SETEMBRO DE 1964.
 
 Outorga à Centrais Elétricas ao Maranhão S.A. concessão para o aproveitamento progressivo de energia hidráulica.

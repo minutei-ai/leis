@@ -1,5 +1,3 @@
-###MPV-000485-0-000-30-03-2010@@@
-
 MEDIDA PROVISÓRIA Nº 485, DE 30 DE MARÇO DE 2010.
 
 Abre crédito extraordinário, em favor do Ministério da Educação e de Transferências a Estados, Distrito Federal e Municípios, no valor global de R$ 1.600.000.000,00, para os fins que especifica.

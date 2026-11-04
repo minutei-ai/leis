@@ -1,5 +1,3 @@
-###DEC-007252-0-000-02-08-2010@@@
-
 DECRETO Nº 7.252, DE 2 DE AGOSTO DE 2010.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Nova Zelândia sobre um Programa de Férias e Trabalho, firmado em Auckland, em 28 de agosto de 2008
@@ -160,4 +158,12 @@ Cada Parte notificará a outra, por meio de Nota diplomática, da conclusão dos
 
 Feito em Auckland, em 28 de agosto de 2008, em duas cópias originais, em português e inglês, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:216.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">______________________________ PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL Celso Amoirm Ministro das Relações Exteriores</span></p></td><td style="width:216.1pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">______________________________ PELO GOVERNO DA NOVA ZELÂNDIA Winsten Peters Ministro dos Negócios Estrangeiros</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:216.1pt; vertical-align:top">
+
+&nbsp; ______________________________ PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL Celso Amoirm Ministro das Relações Exteriores
+
+</td><td style="width:216.1pt; vertical-align:top">
+
+&nbsp;&nbsp; ______________________________ PELO GOVERNO DA NOVA ZELÂNDIA Winsten Peters Ministro dos Negócios Estrangeiros
+
+</td></tr></tbody></table>

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/936e0afe-394d-4a71-b98a-af2d9b6f41e4/texto#nowhere)
 
-###DEL-000540-0-000-17-04-1969@@@
-
 DECRETO-LEI Nº 540, DE 17 DE ABRIL DE 1969
 
 Altera a distribuição de dotações consignadas ao Ministério da Educação e Cultura pela Lei nº 5.546, de 29 de novembro de 1968.
@@ -12,9 +10,115 @@ decreta:
 
 Art. 1º Fica alterada, sem aumento de despesa, a distribuição de dotações consignadas pela Lei nº 5.546, de 29 de novembro de 1968, ao Ministério da Educação e Cultura, cujo Subanexo, no projeto abaixo, passa a ter a seguinte redação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:239.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:65.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.05.00</span></p></td><td style="width:239.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Educação e Cultura</span></p></td><td style="width:65.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.05.02</span></p></td><td style="width:239.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretaria Geral</span></p></td><td style="width:65.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:65.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>08.05.07.1.003</span></p></td><td style="width:239.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxílio para expansão e Aperfeiçoamento Progressivo da Rêde de Ensino Médio dos Estados e do Distrito Federal, através de Convênios Gerais com os respectivos governos ................................................</span></p></td><td style="width:65.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>27.000.000</span></p></td></tr></tbody></table>
+NCr$
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Acre ................................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>395.425</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Alagoas ...........................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>691.993</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Amazonas ........................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>593.137</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bahia ...............................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.779.411</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ceará ...............................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.947.466</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Distrito Federal .................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>280.257</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Espírito Santo . .................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>444.854</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Goiás ...............................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.071.600</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Guanabara, sendo NCr$300.000 para o Ginásio Newton Braga mediante convênio entre o MEC e o Ministério da Aeronáutica ............................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>602.442</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maranhão .........................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.581.699</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mato Grosso ....................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>560.514</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Minas Gerais ....................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.100.552</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pará ................................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>996.470</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Paraíba ............................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>889.705</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Paraná .............................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.694.889</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pernambuco .....................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.650.898</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Piauí ................................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>790.849</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio de Janeiro ...................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>947.537</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Grande do Norte ..........................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>779.481</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Grande do Sul .............................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.927.694</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Santa Catarina ..................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.187.262</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Paulo ........................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.641.012</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Sergipe ............................................................................................</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>444.853</span></p></td></tr></tbody></table>
+5.05.00
+
+Ministério da Educação e Cultura
+
+5.05.02
+
+Secretaria Geral
+
+08.05.07.1.003
+
+Auxílio para expansão e Aperfeiçoamento Progressivo da Rêde de Ensino Médio dos Estados e do Distrito Federal, através de Convênios Gerais com os respectivos governos ................................................
+
+27.000.000
+
+NCr$
+
+Acre ................................................................................................
+
+395.425
+
+Alagoas ...........................................................................................
+
+691.993
+
+Amazonas ........................................................................................
+
+593.137
+
+Bahia ...............................................................................................
+
+1.779.411
+
+Ceará ...............................................................................................
+
+1.947.466
+
+Distrito Federal .................................................................................
+
+280.257
+
+Espírito Santo . .................................................................................
+
+444.854
+
+Goiás ...............................................................................................
+
+1.071.600
+
+Guanabara, sendo NCr$300.000 para o Ginásio Newton Braga mediante convênio entre o MEC e o Ministério da Aeronáutica ............................
+
+602.442
+
+Maranhão .........................................................................................
+
+1.581.699
+
+Mato Grosso ....................................................................................
+
+560.514
+
+Minas Gerais ....................................................................................
+
+4.100.552
+
+Pará ................................................................................................
+
+996.470
+
+Paraíba ............................................................................................
+
+889.705
+
+Paraná .............................................................................................
+
+1.694.889
+
+Pernambuco .....................................................................................
+
+1.650.898
+
+Piauí ................................................................................................
+
+790.849
+
+Rio de Janeiro ...................................................................................
+
+947.537
+
+Rio Grande do Norte ..........................................................................
+
+779.481
+
+Rio Grande do Sul .............................................................................
+
+1.927.694
+
+Santa Catarina ..................................................................................
+
+1.187.262
+
+São Paulo ........................................................................................
+
+1.641.012
+
+Sergipe ............................................................................................
+
+444.853
 
 Art. 2º Êste Decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

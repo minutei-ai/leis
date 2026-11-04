@@ -1,6 +1,7 @@
 LEI Nº 4.447 DE 09 DE MAIO DE 1985
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.362 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Boa Vista do Tupim, Iaçu, Ibiquera, Itaberaba, Itatim, Lajedinho, Macajuba, Mundo Novo, Piritiba, Rafael Jambeiro, Ruy Barbosa, Santa Terezinha e Tapiramutá. 
 
 Cria o Município de Rafael Jambeiro, fixa os limites e dá outras providências.

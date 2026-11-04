@@ -1,5 +1,3 @@
-###DEC-085526-0-000-16-12-1980@@@
-
 Decreto nº 85.526, de 16 de dezembro de 1980.
 
 Prorroga prazo previsto no artigo 68 do Decreto nº 79.094, de 5 de janeiro de 1977, relativo à fabricação, comercialização ou importação de saneantes de qualquer natureza, contendo tensoativo aniônico, não biodegradável.

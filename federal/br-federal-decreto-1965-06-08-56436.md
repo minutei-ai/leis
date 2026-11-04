@@ -1,5 +1,3 @@
-###DEC-056436-0-000-08-06-1965@@@
-
 decreto nº 56.436, de 8 de junho de 1965.
 
 Abre ao Ministério das Minas e Energia o crédito especial de Cr$30.567.300.000, para o fim que especifica.

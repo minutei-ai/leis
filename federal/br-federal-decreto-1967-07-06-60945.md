@@ -1,5 +1,3 @@
-###DEC-060945-0-000-06-07-1967@@@
-
 DECRETO Nº 60.945, DE 6 DE JULHO DE 1967.
 
 Transfere para Centrais Elétricas de Santa Catarina S.A. concessão para produzir, transmitir e distribuir energia elétrica.

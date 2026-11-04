@@ -1,5 +1,3 @@
-###DEC-092533-0-000-10-04-1986@@@
-
 DECRETO Nº 92.533, DE 10 DE ABRIL DE 1986
 
 Dispõe sobre a participação majoritária da União no capital votante da Companhia Vale do Rio Doce - C.V.R.D, e dá outras providências.

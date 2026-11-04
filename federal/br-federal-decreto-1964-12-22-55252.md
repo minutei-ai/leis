@@ -1,5 +1,3 @@
-###DEC-055252-0-000-22-12-1964@@@
-
 DECRETO Nº 55.252, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Astrogildo Lopes D’Oliveira a pesquisar argila, no município de Nova Iguaçú, Estado do Rio de Janeiro.

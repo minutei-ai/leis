@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/8c0eb381-a3b2-4803-a4a4-95553505eab5/texto#nowhere)
 
-###DEL-000519-0-000-07-04-1969@@@
-
 DeCREtO-LEI Nº 519, DE 7 DE ABRIL DE 1969
 
 Dá nova redação ao artigo 12 e seus parágrafos, do Decreto-Iei nº 401, de 30 de dezembro de 1968, e outras providências

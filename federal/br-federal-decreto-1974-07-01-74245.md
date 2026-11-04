@@ -1,5 +1,3 @@
-###DEC-074245-0-000-01-07-1974@@@
-
 DECRETO Nº 74.245 - DE 1º DE JULHO DE 1974.
 
 Concede reconhecimento ao curso de Geografia da Faculdade de Filosofia, Ciências e Letras "Camilo Castelo Branco", mantida pela Associação Itaquerense de Ensino, com sede na cidade de São Paulo, Estado de São Paulo.

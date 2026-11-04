@@ -1,5 +1,3 @@
-###DEC-046090-0-000-19-05-1959@@@
-
 DECRETO Nº 46.090, de 19 de maio de 1959.
 
 Transfere da Prefeitura Municipal de Maricá, Estado do Rio de Janeiro, para o Govêrno do mesmo Estado a concessão para distribuir a fornecer energia elétrica na cidade de Maricá.

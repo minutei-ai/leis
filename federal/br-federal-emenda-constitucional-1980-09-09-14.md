@@ -1,10 +1,8 @@
-###EMC-000014-0-000-09-09-1980@@@
+**EMENDA CONSTITUCIONAL Nº 14**
 
-<strong>EMENDA CONSTITUCIONAL Nº 14</strong>
+***Altera o Título das Disposições Gerais e Transitórias, estendendo os mandatos dos atuais Prefeitos, Vice-Prefeitos, Vereadores e Suplentes até 1983, imprimindo nova redação ao artigo 209.***
 
-<em><strong>Altera o Título das Disposições Gerais e Transitórias, estendendo os mandatos dos atuais Prefeitos, Vice-Prefeitos, Vereadores e Suplentes até 1983, imprimindo nova redação ao artigo 209.</strong></em>
-
-<strong>AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL</strong>, nos termos do art. 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
+**AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL**, nos termos do art. 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
 Artigo único - O artigo 209 passa a viger reescrito nos termos infra:
 
@@ -14,4 +12,54 @@ Parágrafo único - As eleições para Prefeitos, Vice-Prefeitos e Vereadores se
 
 Brasília, em 09 de setembro de 1980
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa da Câmara dos Deputados</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>FLÁVIO MARCÍLIO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>LUIZ VIANA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>HOMERO SANTOS</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>RENATO AZEREDO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>WILSON BRAGA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>ALEXANDRE COSTA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>EPITÁCIO CAFETEIRA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>GABRIEL HERMES</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>ARI KFFURI</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>LOURIVAL BAPTISTA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>NOSSER ALMEIDA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário em exercício</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>GASTÃO MULLER</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td></tr></tbody></table>
+A Mesa da Câmara dos Deputados
+
+A Mesa do Senado Federal
+
+FLÁVIO MARCÍLIO
+
+Presidente
+
+LUIZ VIANA
+
+Presidente
+
+HOMERO SANTOS
+
+1º Vice-Presidente
+
+RENATO AZEREDO
+
+2º Vice-Presidente
+
+WILSON BRAGA
+
+1º Secretário
+
+ALEXANDRE COSTA
+
+1º Secretário
+
+EPITÁCIO CAFETEIRA
+
+2º Secretário
+
+GABRIEL HERMES
+
+2º Secretário
+
+ARI KFFURI
+
+3º Secretário
+
+LOURIVAL BAPTISTA
+
+3º Secretário
+
+NOSSER ALMEIDA
+
+4º Secretário em exercício
+
+GASTÃO MULLER
+
+4º Secretário

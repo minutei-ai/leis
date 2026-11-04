@@ -2,14 +2,16 @@ LEI Nº 14.362 DE 30 DE SETEMBRO DE 2021
 
 Autoriza o Poder Executivo a ceder à instituição financeira pública ou privada créditos decorrentes de precatório federal, e dá outras providências.
 
-Redação de acordo com a Lei nº [14.393](https://www.legislabahia.ba.gov.br/documentos/lei-no-14393-de-15-de-dezembro-de-2021) de 15 de dezembro de 2021.<br>
+Redação de acordo com a Lei nº [14.393](https://www.legislabahia.ba.gov.br/documentos/lei-no-14393-de-15-de-dezembro-de-2021) de 15 de dezembro de 2021.
+
 Redação original: "Autoriza o Poder Executivo a ceder à instituição financeira pública créditos decorrentes de precatório federal, e dá outras providências."
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** - Fica o Poder Executivo autorizado a ceder, parcialmente, até o limite de R$3.000.000.000,00 (três bilhões de reais), à instituição financeira pública ou privada, créditos decorrentes de precatório expedido na Ação Cível Originária - ACO nº 648 em trâmite perante o Supremo Tribunal Federal - STF, a ser incluído no orçamento da União, recebendo em contrapartida os recursos financeiros correspondentes.
 
-Redação de acordo com a Lei nº [14.393](https://www.legislabahia.ba.gov.br/documentos/lei-no-14393-de-15-de-dezembro-de-2021) de 15 de dezembro de 2021.<br>
+Redação de acordo com a Lei nº [14.393](https://www.legislabahia.ba.gov.br/documentos/lei-no-14393-de-15-de-dezembro-de-2021) de 15 de dezembro de 2021.
+
 Redação original: "Art. 1º - Fica o Poder Executivo autorizado a ceder, parcialmente, até o limite de R$750.000.000,00 (setecentos e cinquenta milhões de reais), à instituição financeira pública, créditos decorrentes de precatório expedido na Ação Cível Originária - ACO nº 648 em trâmite perante o Supremo Tribunal Federal - STF, a ser incluído no orçamento da União, recebendo em contrapartida os recursos financeiros correspondentes."
 
 **Parágrafo único** - A autorização prevista no caput deste artigo não incide sobre parcela do precatório a ser repassada aos profissionais do magistério, considerando o percentual indicado no parágrafo único do art. 5º da Emenda Constitucional nº 114, de 16 de dezembro de 2021.

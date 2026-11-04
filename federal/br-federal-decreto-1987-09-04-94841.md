@@ -1,5 +1,3 @@
-###DEC-094841-0-000-04-09-1987@@@
-
 DECRETO Nº 94.841, DE 4 DE SETEMBRO DE 1987.
 
 Declara de interesse social, para fins de desapropriação o imóvel rural denominado "PONTA DO  MEL OU MEL DE CIMA", classificado no Cadastro de Imóveis Rurais do INCRA, como “latifúndio por exploração”, situado nos Municípios de Areia Branca e Carnaubais, no Estado do Rio Grande do Norte, compreendido na zona prioritária para fins de reforma agrária, fixada pelo Decreto nº 92.681, de 19 de maio de 1986, e dá outras providências.

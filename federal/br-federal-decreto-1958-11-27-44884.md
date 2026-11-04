@@ -1,5 +1,3 @@
-###DEC-044884-0-000-27-11-1958@@@
-
 DECRETO Nº 44.884, DE 27 DE NOVEMBRO DE 1958.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista da Escola de Especialistas da Aeronáutica para a da Base Aérea do Galeão.

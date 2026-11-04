@@ -1,7 +1,3 @@
-1
-
-###DEC-097701-0-000-28-04-1989@@@
-
 DECRETO Nº 97.701, DE 28 DE ABRIL DE 1989.
 
 Autoriza o aumento do capital social do Banco da Amazônia S. A. - BASA.

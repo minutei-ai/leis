@@ -1,5 +1,3 @@
-###DEC-082541-0-000-01-11-1978@@@
-
 Decreto nº 82 541, de 01 de novembro de 1978.
 
 Concede reconhecimento ao curso de Enfermagem e Obstetrícia, da Faculdade de Enfermagem do Sagrado Coração, com sede na cidade de Bauru, Estado de São Paulo.

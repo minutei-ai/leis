@@ -1,5 +1,3 @@
-###DEL-003185-0-000-09-04-1941@@@
-
 DECRETO-LEI N. 3.185 – DE 9 DE ABRIL DE 1941
 
 Dispõe sobre a Penitenciária Agrícola do Distrito Federal, Colônia Correcional de Dois Rios e dá outras providências

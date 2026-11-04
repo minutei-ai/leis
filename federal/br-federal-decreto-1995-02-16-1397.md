@@ -1,7 +1,3 @@
-1
-
-###DEC-001397-0-000-16-02-1995@@@
-
 DECRETO Nº 1.397, DE 16 DE FEVEREIRO DE 1995
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados incidente sobre os veículos que menciona.

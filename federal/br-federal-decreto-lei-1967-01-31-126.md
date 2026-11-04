@@ -1,5 +1,3 @@
-###DEL-000126-0-000-31-01-1967@@@
-
 DECRETO-LEI Nº 126, De 31 DE JANEIRO DE 1967
 
 Define as atribuições dos Portos Organizados e Repartições aduaneiras na fiscalização, contrôle e trânsito de mercadorias.

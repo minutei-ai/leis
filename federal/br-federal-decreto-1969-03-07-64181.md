@@ -1,5 +1,3 @@
-###DEC-064181-0-000-07-03-1969@@@
-
 DECRETO Nº 64.181, DE 7 DE MARÇO DE 1969.
 
 Autoriza a aplicação das dotações orçamentárias do Conselho Nacional de Águas e Energia Elétrica pelo Departamento Nacional de Águas e Energia, ambos do Ministério das Minas e Energia.

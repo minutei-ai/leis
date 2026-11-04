@@ -1,5 +1,3 @@
-###DEC-051261-0-000-25-08-1961@@@
-
 DECRETO Nº 51.261, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o cidadão brasileiro Pedro Mattos a pesquisar diamantes e associados nos municípios de Balisa e Torixoreu, nos Estados de Goiás e Mato Grosso.

@@ -1,5 +1,3 @@
-###DEL-009330-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.330 – DE 10 DE JUNHO DE 1946
 
 Institui impôsto sôbre lucros apurados pelas pessoas físicas na venda de propriedades  imobiliárias e dá outras providências

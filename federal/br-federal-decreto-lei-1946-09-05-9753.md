@@ -1,5 +1,3 @@
-###DEL-009753-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.753 – DE 5 DE SETEMRRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a assinar um acôrdo com o Jockey Club Brasileiro, nas condições que menciona.

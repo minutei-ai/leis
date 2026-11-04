@@ -1,5 +1,3 @@
-###DEC-052413-0-000-28-08-1963@@@
-
 decreto nº 52.413, de 28 de agôsto de 1963.
 
 Determina providências para cumprimento do disposto art. 32 da Lei nº 4.242, de 17 de julho de 1963.

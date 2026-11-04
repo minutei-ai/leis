@@ -1,5 +1,3 @@
-###DEC-066473-0-000-22-04-1970@@@
-
 DECRETO nº 66.473, DE 22 DE ABRIL DE 1970.
 
 Declara de utilidade pública a Creche Marieta Morse, com sede em São Paulo, Estado de São Paulo.

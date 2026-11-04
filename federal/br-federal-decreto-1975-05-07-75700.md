@@ -1,5 +1,3 @@
-###DEC-075700-0-000-07-05-1975@@@
-
 DECRETO Nº 75.700, DE 7 DE MAIO DE 1975.
 
 Estabelece área de proteção para fontes de água mineral.

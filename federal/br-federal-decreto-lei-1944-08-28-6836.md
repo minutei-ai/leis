@@ -1,5 +1,3 @@
-###DEL-006836-0-000-28-08-1944@@@
-
 DECRETO-LEI N. 6.836 – DE 28 DE AGÔSTO DE 1944
 
 Manda cancelar dívidas do impôsto do sêlo

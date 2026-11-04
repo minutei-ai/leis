@@ -1,5 +1,3 @@
-###DEC-054719-0-000-30-10-1964@@@
-
 DECRETO Nº 54.719, DE 30 DE OUTUBRO DE 1964.
 
 Transfere da Emprêsa de Eletricidade de Poxoréu Ltda., ao Município de Poxoréu, concessão para distribuir energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-083714-0-000-11-07-1979@@@
-
 Decreto nº 83.714, de 11 de julho de 1979.
 
 Concede à GOIASCAL S.A. - Mineração e Calcário o direito de lavrar calcário no Município de Palmeiras de Goiás, Estado de Goiás.

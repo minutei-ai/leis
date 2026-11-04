@@ -1,5 +1,3 @@
-###DEC-092814-0-000-24-06-1986@@@
-
 DECRETO Nº 92.814, DE 24 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Ribeirão Bonito", situado no Município de Teodoro Sampaio, no Estado de São Paulo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.688, de 19 de maio de 1986, e dá outras providências.

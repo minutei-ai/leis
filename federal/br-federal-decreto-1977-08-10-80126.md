@@ -1,5 +1,3 @@
-###DEC-080126-0-000-10-08-1977@@@
-
 DECRETO Nº 80.126, DE 10 DE AGOSTO DE 1977
 
 Dá nova redação a dispositivos do Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta para o Exército a Lei nº 5.821, de 10 de novembro de 1972 (Lei de Promoções de Oficiais da Ativa Forças Armadas).

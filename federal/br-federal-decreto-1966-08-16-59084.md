@@ -1,5 +1,3 @@
-###DEC-059084-0-000-16-08-1966@@@
-
 DECRETO Nº 59.084, DE 16 DE AGÔSTO DE 1966.
 
 Outorga concessão à Rádio Correio da Paraíba S.A. para instalar uma estação de radiodifusão sonora na cidade de João Pessoa, Estado da Paraíba.

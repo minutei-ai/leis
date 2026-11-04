@@ -1,5 +1,3 @@
-###DEL-005478-0-000-12-05-1943@@@
-
 DECRETO‑LEI N. 5.478 – DE 12 DE MAIO DE 1943
 
 Modifica o art. 20 e seus parágrafos, do Regulamento de Defesa Sanitária Vegetal, baixado com o decreto n. 24.114, de 12 de abril de 1934

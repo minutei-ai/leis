@@ -1,5 +1,3 @@
-###DEC-086828-0-000-08-01-1982@@@
-
 Decreto nº 86.828, de 08 de janeiro de 1982.
 
 Promulga o Protocolo Adicional ao Acordo de Previdência Social Brasil - Espanha, de 25 de abril de 1969.
@@ -244,4 +242,20 @@ O presente Protocolo Adicional modifica o Acordo de Previdência Social, conclu�
 
 Feito em Brasília aos 05 dias do mês de março de 1980, em dois exemplares, originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">PELO GOVERNO DO ESTADO ESPANHOL:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">Ramiro Saraiva Guerreiro Jair Soares</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">Francisco Javier Vallaure</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DO ESTADO ESPANHOL:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Ramiro Saraiva Guerreiro Jair Soares
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Francisco Javier Vallaure
+
+</td></tr></tbody></table>

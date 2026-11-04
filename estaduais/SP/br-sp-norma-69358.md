@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69358)
-
 # LEI Nº 12.469, DE 22 DE DEZEMBRO DE 2006
 
 ### _Altera a denominação da Fundação Estadual do Bem-Estar do Menor, e dá providências correlatas_

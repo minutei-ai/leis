@@ -1,5 +1,3 @@
-###DEC-007491-0-000-02-06-2011-PUB-01@@@
-
 DECRETO Nº 7.491, DE 2 DE JUNHO DE 2011
 
 Promulga o Acordo Geral de Cooperação entre o Governo da República Federativa do Brasil e o Governo do Reino da Arábia Saudita, assinado em Riade, em 16 de maio de 2009.

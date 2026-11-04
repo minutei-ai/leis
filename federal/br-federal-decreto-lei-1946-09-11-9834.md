@@ -1,5 +1,3 @@
-###DEL-009834-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.884 – DE 11 DE SETEMBRO DE 1946
 
 Aceita a doação feita à União de uma posse ou terreno, situado na cidade de Cataguazes, Município do mesmo nome, Estado de Minas Gerais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073700-0-000-28-02-1974@@@
-
 DECRETO Nº 73.700, DE 28 DE FEVEREIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento, áreas de terras e benfeitorias necessárias à ocupação da Galeria do Rio Palatinato, no Município de Petrópolis, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-084751-0-000-28-05-1980@@@
-
 Decreto nº 84.751, de 28 de maio de 1980.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., nos Estados do Paraná e São Paulo.

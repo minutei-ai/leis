@@ -1,5 +1,3 @@
-###DEC-050704-0-000-31-05-1961@@@
-
 DECRETO Nº 50.704, DE 31 DE MAIO DE 1961.
 
 Outorga ao Govêrno do Estado de Pernambuco concessão para distribuir energias elétrica.

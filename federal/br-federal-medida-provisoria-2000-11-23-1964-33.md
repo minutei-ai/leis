@@ -1,5 +1,3 @@
-###MPV-001964-0-033-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.964-33, DE 23 de novembro DE 2000.
 
 Altera as Leis nº 6.368, de 21 de outubro de 1976, e 8.112, de 11 de dezembro de 1990, e 9.525, de 3 de dezembro de 1997, e dá outras providências.

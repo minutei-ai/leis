@@ -1,5 +1,3 @@
-###DEC-045566-0-000-13-03-1959@@@
-
 Decreto nº 45.566, de 13 de março de 1959.
 
 Oficializa medalha.

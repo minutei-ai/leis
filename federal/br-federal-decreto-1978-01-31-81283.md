@@ -1,5 +1,3 @@
-###DEC-081283-0-000-31-01-1978@@@
-
 Decreto nº 81.283, de 31 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Turismo, ministrado pela Faculdade de Comunicação e Turismo Hélio Alonso, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

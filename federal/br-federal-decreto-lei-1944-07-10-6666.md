@@ -1,5 +1,3 @@
-###DEL-006666-0-000-10-07-1944@@@
-
 DECRETO-LEI N. 6.666 – DE 10 DE JULHO DE 1944
 
 Inclui no Q.O. Aux. (em extinção) do Corpo de Oficiais da Aeronáutica o 2º Ten. do Q.O. Aux. da Marinha – Manuel Gomes de Medeiros

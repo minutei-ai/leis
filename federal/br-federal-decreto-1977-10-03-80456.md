@@ -1,5 +1,3 @@
-###DEC-080456-0-000-03-10-1977@@@
-
 DECRETO Nº 80.456, DE 3 DE OUTUBRO DE 1977.
 
 Concede à Mineração Rio do Norte S.A. o direito de lavrar bauxita nos Municípios de Faro e Oriximiná, Estado do Pará.

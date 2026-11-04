@@ -1,5 +1,3 @@
-###DEL-006064-0-000-02-12-1943@@@
-
 DECRETO‑LEI N. 6.064 – DE 2 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Fazenda, o crédito suplementar de Cr$ 2.500,00, à verba que especifica

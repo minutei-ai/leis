@@ -1,5 +1,3 @@
-###DEC-059997-0-000-10-01-1967@@@
-
 DECRETO Nº 59.997, DE 10 DE JANEIRO DE 1967.
 
 Renova o Decreto 53.602, de 25 de fevereiro de 1964.

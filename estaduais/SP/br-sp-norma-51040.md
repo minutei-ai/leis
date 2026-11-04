@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51040)
-
 # LEI Nº 11.722, DE 25 DE MAIO DE 2004
 
 ## (PL 816/2001 - Célia Leão)

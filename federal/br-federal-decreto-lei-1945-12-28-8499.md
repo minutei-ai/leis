@@ -1,5 +1,3 @@
-###DEL-008499-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.499 – DE 28 DE DEZEMBRO DE 1945
 
 Torna sem efeito o Decreto-lei número 3.510, de 16 de agôsto de 1941.

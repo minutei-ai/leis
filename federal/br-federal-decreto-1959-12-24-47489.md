@@ -1,5 +1,3 @@
-###DEC-047489-0-000-24-12-1959@@@
-
 DECRETO Nº 47.489, DE 24 DE dezembro DE 1959.
 
 Dá nova redação a letra h) do art. 39 e ao art. 133, do Regulamento para os Centros de Preparação de Oficiais da Reserva (Decreto nº 22.392, de 31 de dezembro de 1946).

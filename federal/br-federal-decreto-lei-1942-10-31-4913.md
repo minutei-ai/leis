@@ -1,5 +1,3 @@
-###DEL-004913-0-000-31-10-1942@@@
-
 DECRETO-LEI N. 4.913 – DE 31 DE OUTUBRO DE 1942
 
 Cria o 35º Batalhão de Caçadores, com sede em Bragança

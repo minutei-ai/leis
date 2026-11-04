@@ -1,5 +1,3 @@
-###DEL-004660-0-000-04-09-1942@@@
-
 DECRETO-LEI N. 4.660 - DE 4 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito suplementar de 40:000$0, à verba que especifica
@@ -14,7 +12,7 @@ Verba 2 - Material
 
 Consignação III - Diversas Despesas
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td colspan="2" style="width:485.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">S/c. n. 41 - Passagens, transporte de pessoal e suas bagagens;</span></p></td></tr><tr><td colspan="2" style="width:485.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">serviços funerários.</span></p></td></tr><tr><td colspan="2" style="width:485.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">34 - Departamento Nacional de Saude</span></p></td></tr><tr><td style="width:423.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">23 - Serviço de Saude dos Portos..................................................................</span></p></td><td style="width:54.95pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40:000$0</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> S/c. n. 41 - Passagens, transporte de pessoal e suas bagagens; </td></tr><tr><td colspan="2"> serviços funerários. </td></tr><tr><td colspan="2"> 34 - Departamento Nacional de Saude </td></tr><tr><td> 23 - Serviço de Saude dos Portos.................................................................. </td><td> 40:000$0 </td></tr></tbody></table>
 
 Rio de Janeiro, 4 de setembro de 1942, 121º da Independência e 54º República.
 

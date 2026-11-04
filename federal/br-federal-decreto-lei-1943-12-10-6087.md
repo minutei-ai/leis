@@ -1,5 +1,3 @@
-###DEL-006087-0-000-10-12-1943@@@
-
 DECRETO‑LEI N. 6.087 – DE 10 DE DEZEMBRO DE 1943
 
 Cria funções gratificadas ria Escola Agrícola de Barbacena

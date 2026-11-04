@@ -1,5 +1,3 @@
-###DEC-002267-0-000-30-06-1997@@@
-
 DECRETO Nº 2.267, DE 30 DE JUNHO DE 1997
 
 Altera o art. 2º do Decreto nº 2.111, de 26 de dezembro de 1996, e dá outras providências.

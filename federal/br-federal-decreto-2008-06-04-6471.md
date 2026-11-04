@@ -1,5 +1,3 @@
-###DEC-006471-0-000-04-06-2008@@@
-
 DECRETO Nº 6.471, DE 4 DE JUNHO DE 2008.
 
 Promulga o Acordo sobre Concessão de Visto Temporário para Tratamento Médico a Cidadãos da Comunidade dos Países de Língua Portuguesa, assinado em Brasília, em 30 de julho de 2002.
@@ -24,11 +22,7 @@ Brasília, 4 de junho de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 5.6.2008
-
-ACORDO SOBRE CONCESSÃO DE VISTO TEMPORÁRIO PARA TRATAMENTO MÉDICO A CIDADÃOS DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA
+Celso Luiz Nunes AmorimACORDO SOBRE CONCESSÃO DE VISTO TEMPORÁRIO PARA TRATAMENTO MÉDICO A CIDADÃOS DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA
 
 Considerando que um dos objetivos da constituição da CPLP é o de contribuir para o reforço dos laços humanos, a solidariedade e a fraternidade entre os povos que têm em comum a língua portuguesa, pedra basilar da sua identidade, e nesse sentido promover medidas que facilitem a circulação dos cidadãos dos Estados Membros, no espaço da CPLP;
 

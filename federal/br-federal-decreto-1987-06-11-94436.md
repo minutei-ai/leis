@@ -1,5 +1,3 @@
-###DEC-094436-0-000-11-06-1987@@@
-
 DECRETO Nº 94.436, DE 11 DE JUNHO DE 1987
 
 Outorga à Centrais Elétricas de Roraima S.A. - CER, concessão para o aproveitamento da energia hidráulica de um trecho do rio Mucajaí, nos Municípios de Mucajaí e Alto Alegre, Território Federal de Roraima.

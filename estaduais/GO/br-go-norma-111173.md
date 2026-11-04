@@ -34,7 +34,8 @@ Art. 7º A Gratificação Educacional de Secretário Escolar e Coordenador Admin
 
 Parágrafo único. As tipologias das unidades escolares, os quantitativos de alunos matriculados, os símbolos, os correspondentes valores fixos e variáveis para a GRATSECAF estão definidos na Tabela 5 do Anexo Único deste Decreto.
 
-Art. 8º A Função Comissionada Educacional de Gestor Escolar dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – FCEGE-CEPI, de que trata a Tabela 6 da alínea “c” do Anexo III da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, será concedida ao professor em razão da designação ou do mandato e do efetivo exercício das atribuições e das responsabilidades de Gestor Escolar nas unidades escolares integrais, também de acordo com a permanência dos estudantes, com base na apuração do número de matrículas e na frequência.<br>
+Art. 8º A Função Comissionada Educacional de Gestor Escolar dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – FCEGE-CEPI, de que trata a Tabela 6 da alínea “c” do Anexo III da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, será concedida ao professor em razão da designação ou do mandato e do efetivo exercício das atribuições e das responsabilidades de Gestor Escolar nas unidades escolares integrais, também de acordo com a permanência dos estudantes, com base na apuração do número de matrículas e na frequência.
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 § 1º As tipologias das unidades escolares, os quantitativos de alunos matriculados, os símbolos, os correspondentes valores fixos e variáveis para a FCEGE-CEPI estão definidos na Tabela 6 do Anexo Único deste Decreto.
@@ -43,7 +44,8 @@ Art. 8º A Função Comissionada Educacional de Gestor Escolar dos Colégios Est
 
 § 3º As despesas referentes ao pagamento das FCEs de que trata o § 2º deste artigo serão custeadas pela SEDUC.
 
-Art. 9º A Gratificação Educacional de Secretário Escolar e Coordenador Administrativo Financeiro dos Colégios Estaduais em Período Integral  ~~Centros de Ensino em Período Integral~~ – GRATSECAF-CEPI, de que trata a Tabela 5 do Anexo IX da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, será concedida ao servidor em razão da designação e do efetivo exercício das atribuições e das responsabilidades de Secretário Escolar e Coordenador Administrativo Financeiro nas unidades escolares integrais, também de acordo com a permanência dos estudantes, com base na apuração do número de matrículas e na frequência.<br>
+Art. 9º A Gratificação Educacional de Secretário Escolar e Coordenador Administrativo Financeiro dos Colégios Estaduais em Período Integral  ~~Centros de Ensino em Período Integral~~ – GRATSECAF-CEPI, de que trata a Tabela 5 do Anexo IX da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, será concedida ao servidor em razão da designação e do efetivo exercício das atribuições e das responsabilidades de Secretário Escolar e Coordenador Administrativo Financeiro nas unidades escolares integrais, também de acordo com a permanência dos estudantes, com base na apuração do número de matrículas e na frequência.
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 Parágrafo único. As tipologias das unidades escolares, os quantitativos de alunos matriculados, os símbolos, os correspondentes valores fixos e variáveis para a GRATSECAF-CEPI estão definidos na Tabela 7 do Anexo Único deste Decreto.
@@ -80,7 +82,8 @@ II – a Gratificação Educacional do Agrocolégio Estadual Maguito Vilela, de 
 
 Parágrafo único. As tipologias, os símbolos e os valores correspondentes das FCEs e das GRATIEDUs do Agrocolégio Estadual Maguito Vilela estão definidos nas Tabelas 14 e 15 do Anexo Único deste Decreto.
 
-Art. 15. A Função Comissionada Educacional de Gestor Escolar – FCEGE e a Gratificação Educacional de Secretário Escolar e Coordenador Administrativo Financeiro – GRATSECAF das unidades escolares parciais, a Função Comissionada Educacional de Gestor Escolar – FCEGE-CEPI e a Gratificação Educacional de Secretário Escolar e Coordenador Administrativo Financeiro – GRATSECAF-CEPI, nos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~, de que tratam, respectivamente, os arts. 6º, 7º, 8º e 9º deste Decreto, serão compostas por:<br>
+Art. 15. A Função Comissionada Educacional de Gestor Escolar – FCEGE e a Gratificação Educacional de Secretário Escolar e Coordenador Administrativo Financeiro – GRATSECAF das unidades escolares parciais, a Função Comissionada Educacional de Gestor Escolar – FCEGE-CEPI e a Gratificação Educacional de Secretário Escolar e Coordenador Administrativo Financeiro – GRATSECAF-CEPI, nos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~, de que tratam, respectivamente, os arts. 6º, 7º, 8º e 9º deste Decreto, serão compostas por:
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 I – parte fixa, concedida conforme a tipologia correspondente ao quantitativo de estudantes matriculados na respectiva unidade escolar; e
@@ -175,7 +178,8 @@ Art. 22. O [Decreto nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legi
 
 ...................................................................................................................................
 
-§ 2º A remuneração do contrato temporário de Apoio à Gestão Escolar será composta pelo vencimento acrescido da Gratificação Educacional de Secretário Escolar e Coordenador Administrativo Financeiro – GRATSECAF ou da Gratificação Secretário Escolar e Coordenador Administrativo Financeiro dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – GRATSECAF-CEPI, conforme as Tabelas 4 e 5 do Anexo IX da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.<br>
+§ 2º A remuneração do contrato temporário de Apoio à Gestão Escolar será composta pelo vencimento acrescido da Gratificação Educacional de Secretário Escolar e Coordenador Administrativo Financeiro – GRATSECAF ou da Gratificação Secretário Escolar e Coordenador Administrativo Financeiro dos Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~ – GRATSECAF-CEPI, conforme as Tabelas 4 e 5 do Anexo IX da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 § 3º As especificações e os critérios de pagamento das gratificações de que trata o _caput_ deste artigo estão previstos na [Lei nº 20.115](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99991), de 6 junho de 2018, observado também o disposto nos arts. 104-A e 104-D da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.
@@ -322,7 +326,8 @@ FUNÇÕES COMISSIONADAS EDUCACIONAIS E GRATIFICAÇÕES EDUCACIONAIS – SEDUC
 | 29 | GRATSECAF | 1.401 a 1.450 | 1.375,00 | 1.265,00 | 1.320,00 | 1.375,00 |
 | 30 | GRATSECAF | 1.451 em diante | 1.402,50 | 1.292,50 | 1.347,50 | 1.402,50 |
 
-| TABELA 6 – FUNÇÃO COMISSIONADA EDUCACIONAL DE GESTOR ESCOLAR DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO~~ ~~INTEGRAL~~ <br>
+| TABELA 6 – FUNÇÃO COMISSIONADA EDUCACIONAL DE GESTOR ESCOLAR DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO~~ ~~INTEGRAL~~ 
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º. |
 | --- |
 | **Tipologia**  | **Simbologia**  | **Alunos**  | **FC fixo**  | **FC variável-1**  | **FC variável-2**  | **FC variável-3**  |
@@ -330,7 +335,8 @@ FUNÇÕES COMISSIONADAS EDUCACIONAIS E GRATIFICAÇÕES EDUCACIONAIS – SEDUC
 | 2  | FCEGE-CEPI  | 201 a 400  | 1.750,00  | 1.550,00  | 1.650,00  | 1.750,00  |
 | 3  | FCEGE-CEPI  | 401 em diante  | 2.000,00  | 1.800,00  | 1.900,00  | 2.000,00  |
 
-| TABELA 7 – GRATIFICAÇÃO DE SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~<br>
+| TABELA 7 – GRATIFICAÇÃO DE SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO DOS COLÉGIOS ESTADUAIS EM PERÍODO INTEGRAL ~~CENTROS DE ENSINO EM PERÍODO INTEGRAL~~
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º. |
 | --- |
 | **Tipologia** | **Simbologia** | **Alunos** | **GRAT fixo** | **GRAT variável-1** | **GRAT variável-2** | **GRAT variável-3** |

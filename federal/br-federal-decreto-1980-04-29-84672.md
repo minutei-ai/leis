@@ -1,5 +1,3 @@
-###DEC-084672-0-000-29-04-1980@@@
-
 DECRETO Nº 84.672, DE 29 DE ABRIL DE 1980.
 
 Dispõe sobre Órgão Autônomos do Ministério do Exército, com autonomia administrativa e financeira assegurada pelo Decreto nº 73.605, de 08 fevereiro de 1974, e dá outras providências.

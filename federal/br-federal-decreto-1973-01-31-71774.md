@@ -1,5 +1,3 @@
-###DEC-071774-0-000-31-01-1973@@@
-
 DECRETO Nº 71.774, DE 31 DE JANEIRO DE 1973.
 
 Concede a Vicente de Faria Melo o direito de lavrar fosforita e rocha potássica no Município de Cedro do Abaeté, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-058573-0-000-02-06-1966@@@
-
 DECRETO Nº 58.573, DE 2 DE JUNHO DE 1966.
 
 Cassa a autorização concedida à A Equitativa dos Estados Unidos do Brasil, Sociedade Anônima de Seguros Gerais, para funcionar na República.

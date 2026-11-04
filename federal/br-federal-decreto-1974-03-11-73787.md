@@ -1,5 +1,3 @@
-###DEC-073787-0-000-11-03-1974@@@
-
 DECRETO Nº 73.787, DE 11 DE MARÇO DE 1974.
 
 Estabelece as normas, condições de atendimento e indenizações para a assistência médico-hospitalar ao militar e seus dependentes e da outras providências.

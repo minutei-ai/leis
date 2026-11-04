@@ -1,5 +1,3 @@
-###MPV-002109-0-052-24-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.109‑52, DE 24 DE MAIO DE 2001.
 
 Acresce e altera dispositivos do Decreto-Lei nº 3.365, de 21 de junho de 1941, das Leis nºs 4.504, de 30 de novembro de 1964, 8.177, de 1º de março de 1991, e 8.629, de 25 de fevereiro de 1993, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004458-0-000-05-11-2002@@@
-
 DECRETO Nº 4.458, DE 5 DE NOVEMBRO DE 2002 - PARTE 1
 
 Dispõe sobre a execução do Acordo de Complementação Econômica nº 55, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai, da República Oriental do Uruguai e dos Estados Unidos Mexicanos, de 27 de setembro de 2002.

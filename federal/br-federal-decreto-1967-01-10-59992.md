@@ -1,5 +1,3 @@
-###DEC-059992-0-000-10-01-1967@@@
-
 DECRETO Nº 59.992, DE 10 DE JANEIRO DE 1967.
 
 Renova o Decreto nº 53.440, de 20 de janeiro de 1964.

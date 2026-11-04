@@ -1,5 +1,3 @@
-###DEC-066314-0-000-13-03-1970@@@
-
 DECRETO Nº 66.314 - DE 13 DE MARÇO DE 1970
 
 Aprova o Regulamento de Comando Aéreo, e dá outras providências.

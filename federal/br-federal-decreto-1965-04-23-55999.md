@@ -1,5 +1,3 @@
-###DEC-055999-0-000-23-04-1965@@@
-
 DECRETO nº 55.999, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Ulysses Franco a pesquisar mica no município de Santa Branca, Estado de São Paulo.

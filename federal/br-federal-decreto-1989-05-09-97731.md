@@ -1,7 +1,3 @@
-1
-
-###DEC-097731-0-000-09-05-1989@@@
-
 DECRETO N° 97.731, DE 09 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso de Nutrição da Faculdade de Ciências Biológicas e da Saúde “Dr. Bezerra de Menezes” , em Curitiba, Paraná.

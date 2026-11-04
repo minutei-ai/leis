@@ -1,5 +1,3 @@
-###DEL-008470-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.470 – DE 27 DE DEZEMBRO DE 1945
 
 Autorizo o Ministério da Guerra a transferir um terreno para a jurisdição do Ministério da Viação e Obras Públicas.

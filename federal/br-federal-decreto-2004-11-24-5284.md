@@ -1,5 +1,3 @@
-###DEC-005284-0-000-24-11-2004@@@
-
 DECRETO Nº 5.284 DE 24 DE NOVEMBRO DE 2004
 
 Promulga o Acordo Básico de Cooperação Técnica e Científica entre o Governo da República Federativa do Brasil e o Governo da República do Haiti, celebrado em Brasília, em 15 de outubro de 1982.
@@ -26,9 +24,12 @@ LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
 
-# ACORDO BÁSICO DE COOPERAÇÃO TÉCNICA E<br>
-CIENTÍFICA ENTRE O GOVERNO DA REPÚBLICA<br>
-FEDERATIVA DO BRASIL E O GOVERNO DA<br>
+# ACORDO BÁSICO DE COOPERAÇÃO TÉCNICA E
+
+CIENTÍFICA ENTRE O GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL E O GOVERNO DA
+
 REPÚBLICA DO HAITI
 
         O Governo da República Federativa do Brasil
@@ -103,15 +104,18 @@ ARTIGO IX
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-PELO GOVERNO DA REPÚBLICA<br>
-FEDERATIVA DO BRASIL<br>
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL
+
 RAMIRO SARAIVA GUERREIRO
 
 Ministro das Relações Exteriores
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-PELO GOVERNO DA REPÚBLICA DO HAITI<br>
+PELO GOVERNO DA REPÚBLICA DO HAITI
+
 JEAN-ROBERT ESTIMÉ
 
 Secretário de Estado dos Negócios Estrangeiros

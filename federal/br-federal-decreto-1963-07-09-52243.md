@@ -1,5 +1,3 @@
-###DEC-052243-0-000-09-07-1963@@@
-
 DECRETO Nº 52.243, DE 9 DE JULHO DE 1963.
 
 Autoriza a Sociedade Industrial e Mineradora “Sima” Ltda., a pesquisar minério de ferro no município de Mateus Leme, Estado de Minas Gerais.

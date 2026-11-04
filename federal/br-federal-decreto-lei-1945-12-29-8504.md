@@ -1,5 +1,3 @@
-###DEL-008504-0-000-29-12-1945@@@
-
 DECRETO-LEI N. 8.504 – DE 29 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 76.800,00  para pagamento de serviços de asseio e higiene, e dá outras providências.

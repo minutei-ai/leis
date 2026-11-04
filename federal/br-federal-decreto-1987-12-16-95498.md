@@ -1,5 +1,3 @@
-###DEC-095498-0-000-16-12-1987@@@
-
 DECRETO Nº 95.498, DE 16 DE DEZEMBRO DE 1987
 
 Renova a concessão outorgada à RÁDIO VEREDAS DE UNAÍ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Unaí, Estado de Minas Gerais.

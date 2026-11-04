@@ -1,5 +1,3 @@
-###DEC-083667-0-000-02-07-1979@@@
-
 decreto nº 83.667, de 02 de julho de 1979.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado em Januária, no Estado de Minas Gerais.

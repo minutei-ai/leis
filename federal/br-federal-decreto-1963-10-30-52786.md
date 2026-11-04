@@ -1,5 +1,3 @@
-###DEC-052786-0-000-30-10-1963@@@
-
 DECRETO Nº 52.786, DE 30 DE OUTUBRO DE 1963.
 
 Autoriza a Emprêsa Acaiaca EMAC S.A., estabelecida em Diamantina Estado de Minas Gerais, a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-070607-0-000-24-05-1972@@@
-
 DECRETO Nº 70.607, DE 24 DE MAIO DE 1972.
 
 Altera o enquadramento dos servidores do Ministério da Marinha, beneficiados pelo parágrafo único do artigo 23 da Lei nº 4.069, de 11 de junho de 1962 e dá outras providências.

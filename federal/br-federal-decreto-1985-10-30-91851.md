@@ -1,5 +1,3 @@
-###DEC-091851-0-000-30-10-1985@@@
-
 Decreto nº 91.851, de 30 de outubro de 1985.
 
 Autoriza o funcionamento dos cursos de Pedagogia, Ciências, Letras e Administração do Centro de Ensino Superior do Piauí.

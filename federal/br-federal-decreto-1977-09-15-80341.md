@@ -1,5 +1,3 @@
-###DEC-080341-0-000-15-09-1977@@@
-
 DECRETO Nº 80.341, DE 15 DE setembro de 1977.
 
 Autoriza o registro, em nome da União Federal, do Imóvel que menciona, situado no município de Touros, Estado do Rio Grande do Norte.

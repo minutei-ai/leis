@@ -1,16 +1,14 @@
-###DEC-043117-0-000-28-01-1958@@@
+**DECRETO Nº 43.117, DE 28 DE JANEIRO DE 1958.**
 
-<strong>DECRETO Nº 43.117, DE 28 DE JANEIRO DE 1958.</strong>
+***Declara de utilidade pública uma faixa de terra destinada à passagem da linha de transmissão de 132 KV da Companhia Hidroelétrica do Rio Pardo, entre a Usina de Limoeiro e a cidade de São João da Boa Vista, no Estado de São Paulo.***
 
-<em><strong>Declara de utilidade pública uma faixa de terra destinada à passagem da linha de transmissão de 132 KV da Companhia Hidroelétrica do Rio Pardo, entre a Usina de Limoeiro e a cidade de São João da Boa Vista, no Estado de São Paulo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É declarada de utilidade pública a faixa de terra destinada à passagem da linha de transmissão de energia elétrica de 132 KV da Companhia Hidroelétrica do Rio Pardo, com 30 metros de largura, entre a Usina de Limoeiro e a cidade de São João da Boa Vista, nos municípios de São José do Rio Pardo, Casa Branca, Vargem Grande e São João da Boa Vista, no Estado de São Paulo.
 
-<strong>Art</strong>. 1º É declarada de utilidade pública a faixa de terra destinada à passagem da linha de transmissão de energia elétrica de 132 KV da Companhia Hidroelétrica do Rio Pardo, com 30 metros de largura, entre a Usina de Limoeiro e a cidade de São João da Boa Vista, nos municípios de São José do Rio Pardo, Casa Branca, Vargem Grande e São João da Boa Vista, no Estado de São Paulo.
-
-<strong>Art</strong>. 2º A faixa de terra descrita no artigo anterior compreende as áreas constantes das plantas aprovadas pelo Ministério da Agricultura no Processo D. Ag. nº 574-57, de propriedade atribuída às pessoas a seguir relacionadas:
+**Art**. 2º A faixa de terra descrita no artigo anterior compreende as áreas constantes das plantas aprovadas pelo Ministério da Agricultura no Processo D. Ag. nº 574-57, de propriedade atribuída às pessoas a seguir relacionadas:
 
 Município de São José do Rio Pardo
 
@@ -216,22 +214,22 @@ Município de São João da Boa Vista
 
 98 - Área de 16.800m<sup>2</sup> (dezesseis mil e oitocentos metros quadrados), de propriedade atribuída a João Cardoso.
 
-<strong>Art</strong>. 3º A Companhia Hidroelétrica do Rio Pardo fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
+**Art**. 3º A Companhia Hidroelétrica do Rio Pardo fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
 
-<strong>Art</strong>. 4º Quando não fôr necessário proceder-se à desapropriação do domínio pleno, fica reconhecida a conveniência da constituição de servidão necessária em favor da Companhia e para o fim indicado, a qual compreende o direito atribuído à emprêsa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções, sendo-lhe assegurado ainda o acesso à área de servidão através do prédio serviente, desde que não haja outra via praticável.
+**Art**. 4º Quando não fôr necessário proceder-se à desapropriação do domínio pleno, fica reconhecida a conveniência da constituição de servidão necessária em favor da Companhia e para o fim indicado, a qual compreende o direito atribuído à emprêsa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções, sendo-lhe assegurado ainda o acesso à área de servidão através do prédio serviente, desde que não haja outra via praticável.
 
 § 1º Os proprietários das áreas de terras atingidas pelo ônus limitarão o uso e gôzo das mesmas ao que fôr compatível com a existência da servidão, abstendo-se, em conseqüência, de praticar, dentro das mesmas, quaisquer atos que embaracem ou lhe causem dano, incluídos entre êles os de erguer construções ou de fazer plantações de elevado porte.
 
 § 2º A Companhia Hidroelétrica do Rio Pardo fica autorizada a promover, no caso de embaraço oposto pelos proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento podendo utilizar-se, inclusive, do processo de desapropriação nos têrmos do art. 40 do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 5º Nos têrmos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei número 2.766, de 21 de maio de 1956, a promoção da servidão ou da desapropriação das áreas de terra constantes dêste decreto, é declarada de caráter urgente.
+**Art**. 5º Nos têrmos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei número 2.766, de 21 de maio de 1956, a promoção da servidão ou da desapropriação das áreas de terra constantes dêste decreto, é declarada de caráter urgente.
 
-<strong>Art</strong>. 6º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de janeiro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

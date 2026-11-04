@@ -1,5 +1,3 @@
-###DEL-004210-0-000-27-03-1942@@@
-
 DECRETO-LEI N. 4.210 – DE 27 DE MARÇO DE 1942
 
 Revoga, transitoriamente, a alínea “e” do § 1º do art. 3º do decreto-lei número 3.939, de 16 de dezembro de 1941

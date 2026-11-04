@@ -1,5 +1,3 @@
-###MPV-001771-0-026-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.771-26, DE 6 DE MAIO DE 1999.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-061816-0-000-01-12-1967@@@\]
-
 DECRETO Nº 61.816, DE 1 DE DEZEMBRO DE 1967.
 
 Provê sôbre a estrutura, atribuições e funcionamento da Consultoria Jurídica do Ministério da Educação e Cultura.

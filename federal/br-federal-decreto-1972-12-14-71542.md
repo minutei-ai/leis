@@ -1,5 +1,3 @@
-###DEC-071542-0-000-14-12-1972@@@
-
 Decreto nº 71.542 - de 14 de Dezembro de 1972
 
 Declara de utilidade pública as instituições que menciona.

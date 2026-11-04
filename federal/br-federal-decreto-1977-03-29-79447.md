@@ -1,5 +1,3 @@
-###DEC-079447-0-000-29-03-1977@@@
-
 decreto nº 79.447, de 29 de março de 1977.
 
 Concede à Itabira Agro-Industrial S.A. o direito de lavrar calcário e argila no Município de Capão Bonito, Estado de São Paulo.

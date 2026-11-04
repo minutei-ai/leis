@@ -1,7 +1,9 @@
 LEI DELEGADA Nº 08 DE 09 DE JULHO DE 1974
 
-Ver também:<br>
-Lei nº 3.700, de 31 de maio de 1979 - Altera a estrutura da Administração do Poder Executivo do Estado e dá outras providências.<br>
+Ver também:
+
+Lei nº 3.700, de 31 de maio de 1979 - Altera a estrutura da Administração do Poder Executivo do Estado e dá outras providências.
+
 Lei nº 3.413, de 01 de dezembro de 1975 - Altera a Lei Delegada nº 8, de 09 de julho de 1974, e dá outras providências.
 
 Reorganiza a SECRETARIA DO PLANEJAMENTO, CIÊNCIA E TECNOLOGIA e dá outras providências.
@@ -10,7 +12,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência delegada pela Res
 
 Art. 1º - Fica reorganizada a Secretaria do Planejamento, Ciência e Tecnologia na forma indicada na presente Lei.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA DA SECRETARIA
 
 Art. 2º - A Secretaria do Planejamento, Ciência e Tecnologia tem por finalidade a execução das funções de planejamento, coordenação geral, ciência e tecnologia e desenvolvimento urbano competindo-lhe:
@@ -21,19 +24,22 @@ II - promover a oportuna realização de investimentos e adoção de outras medi
 
 III - promover a compatibilização do planejamento estadual com o planejamento nacional e regional, coordenando a aplicação dos investimentos de outras esferas do Governo no âmbito estadual;
 
-Redação de acordo com o art. 3º da Lei nº 3.700, de 31 de maio de 1979.<br>
+Redação de acordo com o art. 3º da Lei nº 3.700, de 31 de maio de 1979.
+
 Redação original: "III - promover a compatibilização do planejamento estadual com o planejamento nacional e regional;"
 
 IV - estabelecer diretrizes e normas de planejamento, programação, orçamento e de ação governamental;
 
 V - articular-se com os órgãos e entidades integrantes do Sistema de Planejamento a fim de que a elaboração e atualização do Plano de Governo obedeçam às diretrizes e objetivos estabelecidos;
 
-Redação de acordo com o art. 3º da Lei nº 3.700, de 31 de maio de 1979.<br>
+Redação de acordo com o art. 3º da Lei nº 3.700, de 31 de maio de 1979.
+
 Redação original: "V - coordenar as atividades da Fundação de Planejamento e das Assessorias Setoriais e Regionais de Programação e Orçamento, a fim de que a elaboração e atualização do Plano de Governo obedeçam às diretrizes e objetivos pré-estabelecidos;"
 
 VI - coordenar, com a Secretaria da Fazenda, os estudos para a estimativa da Receita e participar da elaboração da programação financeira do Estado;
 
-Redação de acordo com o art. 3º da Lei nº 3.700, de 31 de maio de 1979.<br>
+Redação de acordo com o art. 3º da Lei nº 3.700, de 31 de maio de 1979.
+
 Redação original: "VI - coordenar, conjuntamente com a Secretaria da Fazenda, os estudos para a estimativa da receita;"
 
 VII - executar a política de assistência técnica aos municípios, em administração e planejamento;
@@ -60,12 +66,14 @@ XV - elaborar e executar a política de processamento de dados do Estado;
 
 XVI - participar, em articulação com os órgãos e entidades competentes, da definição da política de desenvolvimento da Região Metropolitana de Salvador;
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "XVI - promover, coordenar e executar a política de desenvolvimento da Região Metropolitana de Salvador;"
 
 XVII - conceber e elaborar a política de desenvolvimento regional do Estado.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "XVII - promover, coordenar e executar a política de regionalização do Estado da Bahia;"
 
 XVIII - promover o desenvolvimento da documentação científica e tecnológica do Estado;
@@ -74,12 +82,14 @@ XIX - coordenar a assistência técnica internacional para todos os órgãos e e
 
 XX - opinar, obrigatoriamente, sobre todos os convênios ou contratos de operações de crédito celebrados por órgãos centralizados ou entidades descentralizadas da administração envolvendo ou não recursos do tesouro estadual;
 
-Redação de acordo com o art. 3º da Lei nº 3.700, de 31 de maio de 1979.<br>
+Redação de acordo com o art. 3º da Lei nº 3.700, de 31 de maio de 1979.
+
 Redação original: "XX - coordenar convênios e financiamentos internos e externos realizados com organismos centralizados e descentralizados da Administração Estadual;"
 
 XXI - executar outras competências necessárias ao cumprimento de sua finalidade.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 ESTRUTURA DA SECRETARIA
 
 Art. 3º - A Secretaria do Planejamento, Ciência e Tecnologia tem a seguinte estrutura:
@@ -94,17 +104,20 @@ I - ÓRGÃOS DA ADMINISTRAÇÃO CENTRALIZADA.
 
 4.Subsecretaria de Planejamento
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "4. Sub-Secretaria de Programação, Orçamento e Assistência Técnica"
 
 4.1. Coordenação de Programação Orçamentária - CPO.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "4.1. Coordenação de Programação e Orçamento"
 
 4.2. Coordenação de Modernização Administrativa - OMA.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "4.2. Coordenação de Assistência Técnica"
 
 4.3. Departamento de Geografia e Estatística - DGE.
@@ -115,7 +128,8 @@ Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.R
 
 6\. Subsecretaria de Ciência e Tecnologia.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "6. Sub-Secretaria de Estudos e Pesquisas"
 
 6.1. Departamento de Geografia e Estatística - DGE
@@ -132,7 +146,8 @@ II - ENTIDADES DA ADMINISTRAÇÃO DESCENTRA-LIZADA.
 
 1.Fundação de Planejamento - CPE.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "1. Superintendência do Centro Administrativo da Bahia;"
 
 2\. Instituto de Urbanismo e Administração Municipal - IURAM.
@@ -145,7 +160,8 @@ Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.R
 
 4.Companhia de Processamento de Dados do Estado da Bahia - PRODEB.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "4. Centro de Pesquisas e Desenvolvimento - CEPED;"
 
 5.Companhia de Desenvolvimento da Região Metropolitana de Salvador - CONDER;
@@ -156,10 +172,12 @@ Parágrafo único - A subdivisão dos órgãos da Administração Centralizada, 
 
 Art. 4º - O assessoramento jurídico dos órgãos da Administração Centralizada da Secretaria cabe à Procuradoria Geral do Estado.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 FINALIDADE E COMPETÊNCIA DOS ÓRGÃOS DA ADMINISTRAÇÃO CENTRALIZADA DA SECRETARIA
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 GABINETE DO SECRETÁRIO
 
 Art. 5º - O Gabinete do Secretário tem por finalidade prestar assistência ao titular da Pasta em suas tarefas técnicas e administrativas, competindo-lhe:
@@ -172,17 +190,20 @@ III - coordenar o fluxo de informações e as relações públicas de interesse 
 
 IV - executar outras competências necessárias ao cumprimento de sua finalidade.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 ASSESSORIA SETORIAL DE PROGRAMAÇÃO E ORÇAMENTO - ASPO
 
 Art. 6º - A Assessoria Setorial de Programação e Orçamento - ASPO tem a finalidade e as competências previstas no Capítulo III, Título III da Lei nº 2.321, de 11 de abril de 1966, bem como na respectiva regulamentação.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 SERVIÇO DE ADMINISTRAÇÃO GERAL - SAG
 
 Art. 7º - O Serviço de Administração Geral - SAG tem a finalidade e as competências previstas no Capítulo VI do Título III da Lei nº 2.321 de 11 de abril de 1966, bem como na respectiva regulamentação.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 SUB-SECRETARIAS
 
 Art. 8º - As Sub-Secretarias referidas no artigo 3º desta Lei têm por finalidade supervisionar as atividades dos órgãos da Administração Centralizada, que lhes são subordinados, bem como coordenar a ação das entidades da Administração Descentralizada vinculadas à Secretaria, competindo-lhes:
@@ -197,31 +218,36 @@ IV - executar outras competências necessárias ao cumprimento de sua finalidade
 
 § 1º - A Subsecretaria de Planejamento tem:
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "§ 1º - A Sub-Secretaria de Programação, Orçamento e Assistência Técnica tem:"
 
 I - sob sua subordinação:
 
 1.Coordenação de Programação Orçamentária - CPO.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "1. Coordenação de Programação e Orçamento;"
 
 2.Coordenação de Modernização Administrativa - CMA.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "2. Coordenação de Assistência Técnica;"
 
 3\. Departamento de Geografia e Estatística - DGE.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "3. Centros Regionais Integrados - CERIN."
 
 II - sob sua coordenação:
 
 1.Fundação de Planejamento - CPE
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "1. Companhia de Processamento de Dados do Estado da Bahia - PRODEB."
 
 2\. Instituto de Urbanismo e Administração Municipal - IURAM
@@ -230,19 +256,22 @@ Item 2 acrescido pelo art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
 
 § 2º - A Secretaria de Ciência e Tecnologia tem:
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "§ 2º - A Sub-Secretaria de Desenvolvimento Urbano tem:"
 
 I - sob sua coordenação:
 
 1.Centro de Pesquisas e Desenvolvimento - CEPED.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "1. Superintendência do Centro Administrativo da Bahia;"
 
 2\. Companhia de Processamento de Dados do Estado da Bahia - PRODEB.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "2. Instituto de Urbanismo e Administração Municipal - IURAM;"
 
 3.Companhia de Desenvolvimento da Região Metropolitana de Salvador - CONDER.
@@ -263,15 +292,18 @@ Revogado pelo art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
 
 Revogado pelo art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
 
-SUB-SEÇÃO I -<br>
+SUB-SEÇÃO I -
+
 Coordenação de Programação Orçamentária
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "Subseção I - Coordenação de Programação e Orçamento"
 
 Art. 9º - A Coordenação de Programação Orçamentária tem por finalidade coordenar as funções de programação e execução orçamentária no âmbito estadual, competindo-lhe:
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "Art. 9º - A Coordenação de Programação e Orçamento tem por finalidade coordenar as funções de programação e execução orçamentárias no âmbito estadual, competindo-lhe:"
 
 I - promover a integração dos programas setoriais e regionais, dentro do planejamento global do Estado;
@@ -306,10 +338,12 @@ XV - articular-se, sistematicamente, com a Secretaria da Fazenda, o Departamento
 
 XVI - executar outras competências necessárias ao cumprimento de sua finalidade.
 
-SUB-SEÇÃO II -<br>
+SUB-SEÇÃO II -
+
 Coordenação de Modernização Administrativa.
 
-Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.<br>
+Redação de acordo com o art. 3º da Lei nº 3.413, de 01 de dezembro de 1975.
+
 Redação original: "Subseção II - Coordenação de Assistência Técnica"
 
 Art. 10 - A Coordenação Administrativa tem por finalidade propiciar assistência, na área de organização e métodos, ao órgão e entidades da administração estadual, competindo-lhe:
@@ -330,12 +364,14 @@ V - coordenar as atividades dos órgãos e entidades estaduais, em matéria de o
 
 VI - executar outras competências necessárias ao cumprimento de sua finalidade.
 
-SUB-SEÇÃO III -<br>
+SUB-SEÇÃO III -
+
 Centros Regionais Integrados
 
 Art. 11 - Os Centros Regionais Integrados - CERIN, têm as finalidades, e estrutura definidas na Lei nº 3.247 de 21 de dezembro de 1973, que continua em vigor.
 
-SUB-SEÇÃO IV -<br>
+SUB-SEÇÃO IV -
+
 Departamento de Geografia e Estatística - DGE
 
 Art. 12 - O Departamento de Geografia e Estatística, órgão em regime especial da administração centralizada, tem por finalidade superintender e executar as atividades cartográficas do Estado, bem como prover a base estatística necessária à formulação racional de decisões na administração pública e nas atividades privadas em articulação com o sistema nacional e regional de estatística, competindo-lhe:
@@ -354,7 +390,8 @@ VI - executar outras competências necessárias ao cumprimento de sua finalidade
 
 Art. 13 - Os Órgãos Colegiados, referidos nos itens 07, 08, 09 e 10 do inciso I do artigo 3º da presente Lei, têm as suas finalidades e competências definidas, respectivamente, nas leis: 3.192 de 22 de novembro de 1973, 3.157 de 01 de outubro de 1973 e 3.163 de 04 de outubro de 1973.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 14 - Ficam criadas e vinculadas à Secretaria do Planejamento, Ciência e Tecnologia, as seguintes entidades, referidas, respectivamente, nos itens 01 e 05 do inciso II do artigo 3º da presente Lei.
@@ -549,4 +586,4 @@ Mário de Melo Kertész
 
 \* Republicada.
 
-<table style="margin-left: 47.95pt; border-collapse: collapse; border: none;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 13.0cm; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="3" valign="top" width="491"><p class="Tabela-Texto">ANEXO I</p><p class="Tabela-Texto">CARGOS EM COMISSÃO</p></td></tr><tr><td style="width: 155.9pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="208"><p class="Tabela-Texto">DENOMINAÇÃO</p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto">SÍMBOLO</p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr><td style="width: 155.9pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="208"><p class="Tabela-Texto">Sub-Secretários</p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto">2 - C</p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 155.9pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="208"><p class="Tabela-Texto">Coordenadores</p></td><td style="width: 106.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto">3 - C</p></td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto">02</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> ANEXO I CARGOS EM COMISSÃO </td></tr><tr><td valign="top"> DENOMINAÇÃO </td><td valign="top"> SÍMBOLO </td><td valign="top"> QUANTIDADE </td></tr><tr><td valign="top"> Sub-Secretários </td><td valign="top"> 2 - C </td><td valign="top"> 03 </td></tr><tr><td valign="top"> Coordenadores </td><td valign="top"> 3 - C </td><td valign="top"> 02 </td></tr></tbody></table>

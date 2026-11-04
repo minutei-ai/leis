@@ -1,5 +1,3 @@
-###DEC-002360-0-000-31-10-1997@@@
-
 # DECRETO Nº 2.360, DE 31 DE OUTUBRO DE 1997
 
 Dispõe sobre a dissolução e extinção da Companhia Nordestina de Sondagens e Perfurações - CONESP, e dá outras providências.

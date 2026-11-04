@@ -26,6 +26,34 @@ Governador do Estado
 
 ~~DIAS ALUSIVOS~~
 
-<table><tbody><tr><td><p><s>........................</s></p></td><td><p><s>.........................................................................</s></p></td><td><p><s>...................................</s></p></td></tr><tr><td><p><s>DIA</s></p></td><td><p><s>JUNHO</s></p></td><td><p class="normal_(Web)"><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>........................</s></p></td><td><p><s>.........................................................................</s></p></td><td><p class="normal_(Web)"><s>...................................</s></p></td></tr><tr><td><p><s>12</s></p></td><td><p><s>Dia Estadual de Combate ao Trabalho Infantil</s></p><p></p><p><s>A data objetiva conscientizar a sociedade e fortalecer campanhas e ações de combate e erradicação do trabalho infantil no Estado.</s></p></td><td><p class="normal_(Web)"></p></td></tr><tr><td><p><s>........................</s></p></td><td><p><s>.........................................................................</s></p></td><td><p class="normal_(Web)"><s>...................................</s></p></td></tr></tbody></table>
+~~........................~~
+
+~~.........................................................................~~
+
+~~...................................~~
+
+~~DIA~~
+
+~~JUNHO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~........................~~
+
+~~.........................................................................~~
+
+~~...................................~~
+
+~~12~~
+
+~~Dia Estadual de Combate ao Trabalho Infantil~~
+
+~~A data objetiva conscientizar a sociedade e fortalecer campanhas e ações de combate e erradicação do trabalho infantil no Estado.~~
+
+~~........................~~
+
+~~.........................................................................~~
+
+~~...................................~~
 
 ~~” (NR)~~

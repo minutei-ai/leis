@@ -1,5 +1,3 @@
-###DEC-005003-0-000-04-03-2004@@@
-
 DECRETO Nº 5.003, DE 4 DE MARÇO DE 2004.
 
 Dispõe sobre o processo de escolha dos representantes da sociedade civil no Conselho Nacional de Assistência Social - CNAS, e dá outras providências.

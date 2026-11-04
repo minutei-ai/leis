@@ -1,5 +1,3 @@
-###DEC-062225-0-000-05-02-1968@@@
-
 DECRETO Nº 62.225, DE 5 DE FEVEREIRO DE 1968.
 
 Reestrutura o Grupo de Coordenação de Comércio com os Países Socialistas da Europa Oriental - COLESTE - e dá outras providências.

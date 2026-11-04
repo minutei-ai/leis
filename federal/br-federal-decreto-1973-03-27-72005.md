@@ -1,5 +1,3 @@
-###DEC-072005-0-000-27-03-1973@@@
-
 DECRETO nº 72.005, de 27 de março de 1973
 
 Concede a Calcáreo Bonança Ltda., o direito de lavrar dolomita no Município de Ipeúna, Estado de São Paulo.

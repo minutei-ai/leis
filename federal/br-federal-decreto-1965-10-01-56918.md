@@ -1,5 +1,3 @@
-###DEC-056918-0-000-01-10-1965@@@
-
 DECRETO Nº 56.918, DE 8 DE OUTUBRO DE 1965.
 
 Autoriza, Centrais Elétricas de Goiás S.A., a construir linha de transmissão.

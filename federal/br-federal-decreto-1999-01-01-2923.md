@@ -1,5 +1,3 @@
-###DEC-002923-0-000-01-01-1999@@@
-
 DECRETO Nº 2.923, DE 1º DE JANEIRO DE 1999.
 
 Dispõe sobre a reorganização de órgãos e entidades do Poder Executivo Federal.

@@ -1,5 +1,3 @@
-###DEC-007635-0-000-05-12-2011-PUB-01@@@
-
 DECRETO Nº 7.635, DE 5 DE DEZEMBRO DE 2011
 
 Altera o Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto nº 4.418, de 11 de outubro de 2002.

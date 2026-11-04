@@ -1,5 +1,3 @@
-###DEC-071908-0-000-14-03-1973@@@
-
 DECRETO Nº 71.908, DE 14 DE MARÇO DE 1973.
 
 Concede à Companhia Nacional de Grafite Ltda. o direito de lavrar grafita no município de Itapecirica, Estado de Minas Gerais.

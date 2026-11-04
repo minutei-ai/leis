@@ -1,5 +1,3 @@
-###DEL-000108-0-000-27-12-1937@@@
-
 DECRETO-LEL N. 108 – DE 27 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito de réis 35.755:000$, suplementar a diversas sub-consignações do orçamento do mesmo ministério para o corrente exercício

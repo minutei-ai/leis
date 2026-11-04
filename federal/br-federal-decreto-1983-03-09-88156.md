@@ -1,5 +1,3 @@
-###DEC-088156-0-000-09-03-1983@@@
-
 # Decreto nº 88.156, de 09 de março de 1983.
 
 Declara de interesse social, para fins de desapropriação, as glebas que menciona, do imóvel rural denominado ‘’Fazenda Campos Novos’’, situado no Município de Cabo Frio, no Estudo do Rio de Janeiro, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 88.155, de 09 de março de 1983.

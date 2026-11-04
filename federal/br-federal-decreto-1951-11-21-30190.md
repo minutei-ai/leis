@@ -1,10 +1,8 @@
-###DEC-030190-0-000-21-11-1951@@@
+**DECRETO Nº 30.190, DE 21 DE NOVEMBRO DE 1951.**
 
-<strong>DECRETO Nº 30.190, DE 21 DE NOVEMBRO DE 1951.</strong>
+***Aprova o Regulamento da Carteira de Redescontos do Banco do Brasil Sociedade Anônima.***
 
-<em><strong>Aprova o Regulamento da Carteira de Redescontos do Banco do Brasil Sociedade Anônima.</strong></em>
-
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e
 
 CONSIDERANDO que o Regulamento baixado com o Decreto nº 14.635, de 21 de janeiro de 1921, se acha, em parte, modificado por disposições legais posteriores;
 
@@ -14,15 +12,15 @@ resolve aprovar em substituição o Regulamento anexo, relativo ao funcionamento
 
 Rio de Janeiro, 21 de novembro de 1951; 130º da Independência e 63º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Horácio Lafer
 
-<strong>REGULAMENTO APROVADO PELO DECRETO Nº 30.190, DE 21 DE NOVEMBRO DE 1951, RELATIVO AOS FUNCIONAMENTO, OPERAÇÕES E FISCALIZAÇÃO DA CARTEIRA DE REDESCONTOS DO BANCO DO BRASIL S. A.</strong>
+**REGULAMENTO APROVADO PELO DECRETO Nº 30.190, DE 21 DE NOVEMBRO DE 1951, RELATIVO AOS FUNCIONAMENTO, OPERAÇÕES E FISCALIZAÇÃO DA CARTEIRA DE REDESCONTOS DO BANCO DO BRASIL S. A.**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Funções e Fiscalização</em>
+*Funções e Fiscalização*
 
 Artigo 1º
 
@@ -44,9 +42,9 @@ Artigo 5º
 
 Cessará o funcionamento da Carteira com a criação e instalação do Banco Central, a que se refere o artigo 1º do Decreto-lei nº 7.293, de 2 de fevereiro de 1945.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Administração e Pessoal</em>
+*Administração e Pessoal*
 
 Artigo 6º
 
@@ -122,9 +120,9 @@ Artigo 13
 
 O pessoal encarregado do serviço de Carteira compor-se-á de Gerente, Contador é mais elementos que se tornarem precisos, com a alçada e as atribuições que lhes forem conferidas pelo Diretor, os quais serão indicados por êste e nomeados pelo Presidente do Banco do Brasil S. A..
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Operações</em>
+*Operações*
 
 Artigo 14
 
@@ -174,11 +172,11 @@ f) contratos de financiamento da Carteira de Crédito Agrícola e Industrial do 
 
 Parágrafo único. Os títulos referidos neste artigo só serão, porém, admitidos a redesconto quando, segundo sua espécie, atenderem às condições abaixo:
 
-1\) prazo máximo de 120 (cento e vinte) dias para os títulos discriminados na alínea <em>a</em>;
+1\) prazo máximo de 120 (cento e vinte) dias para os títulos discriminados na alínea *a*;
 
-2\) prazo máximo de 180 (cento e oitenta) dias para os constantes das alíneas <em>b</em>, <em>c</em> e <em>d</em>;
+2\) prazo máximo de 180 (cento e oitenta) dias para os constantes das alíneas *b*, *c* e *d*;
 
-3\) prazo máximo de 1(um) ano no caso das alíneas <em>e</em> e <em>f</em>;
+3\) prazo máximo de 1(um) ano no caso das alíneas *e* e *f*;
 
 4\) títulos provenientes de mercadorias de difícil deterioração;
 
@@ -186,7 +184,7 @@ Parágrafo único. Os títulos referidos neste artigo só serão, porém, admiti
 
 Artigo 19
 
-Além das operações de redesconto, a Carteira poderá fazer empréstimos a estabelecimentos bancários a taxa de suas operações normais, mediante garantia do valor ao par de “Letras do Tesouro” emitidas <em>ex-vi</em> do Decreto-lei nº 4.790 de 5 de outubro de 1942, e vencíveis em prazo nunca excedente de cento e oitenta (180) dias.
+Além das operações de redesconto, a Carteira poderá fazer empréstimos a estabelecimentos bancários a taxa de suas operações normais, mediante garantia do valor ao par de “Letras do Tesouro” emitidas *ex-vi* do Decreto-lei nº 4.790 de 5 de outubro de 1942, e vencíveis em prazo nunca excedente de cento e oitenta (180) dias.
 
 Artigo 20
 
@@ -214,7 +212,7 @@ Artigo 24
 
 As taxas de redesconto serão as fixadas mensalmente pela Superintendência da Moeda e do Crédito.
 
-§ 1º Para as operações previstas na alínea <em>f</em> do art. 18, do presente Regulamento, a taxa aplicável será inferior, de 2% (dois por cento) ao ano, à que vigorar para as operações normais da Carteira.
+§ 1º Para as operações previstas na alínea *f* do art. 18, do presente Regulamento, a taxa aplicável será inferior, de 2% (dois por cento) ao ano, à que vigorar para as operações normais da Carteira.
 
 § 2º Para as operações que preencham os requisitos estabelecidos no art. 1º do Decreto nº 29.536, de 7 de maio de 1951 e referentes aos produtos especificados pelo Ministro da Fazenda, na forma do art. 3º do mesmo Decreto, a taxa aplicável será inferior, de ½% (meio por cento) ao ano, à que vigorar para as operações normais da Carteira.
 
@@ -236,9 +234,9 @@ Artigo 27
 
 As importâncias que excederem às necessidades da Carteira serão entregues à Caixa de Amortização, a fim de serem oportunamente incineradas.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Contabilidade, Despesas e Aplicação de Lucros</em>
+*Contabilidade, Despesas e Aplicação de Lucros*
 
 Artigo 28
 
@@ -266,9 +264,9 @@ Da cota dos lucros atribuídos ao Banco do Brasil S. A., na forma do art. 31, en
 
 Parágrafo único. Cada membro do Conselho de Administração perceberá anualmente, a gratificação de Cr$18.000,00 (dezoito mil cruzeiros).
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
 Artigo 33
 

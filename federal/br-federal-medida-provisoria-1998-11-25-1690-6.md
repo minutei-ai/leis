@@ -1,5 +1,3 @@
-###MPV-001690-0-006-25-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.690-6, DE 25 DE NOVEMBRO DE 1998.
 
 Dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional de combustíveis, de que trata a Lei nº 9.478, de 6 de agosto de 1997, estabelece sanções administrativas e dá outras providências.

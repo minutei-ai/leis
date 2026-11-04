@@ -1,5 +1,3 @@
-###DEC-090401-0-000-07-11-1984@@@
-
 Decreto nº 90.401, dE 07 de novembro de 1984.
 
 Autoriza empresas de telecomunicações controladas pela Telecomunicações Brasileiras S.A. - TELEBRÁS, a promoverem aumento de capital social.

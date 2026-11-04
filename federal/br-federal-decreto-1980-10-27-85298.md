@@ -1,5 +1,3 @@
-###DEC-085298-0-000-27-10-1980@@@
-
 Decreto Nº 85.298, de 27 de outubro de 1980
 
 Extingue Organizações Militares no Ministério do Exército e dá outras providências.

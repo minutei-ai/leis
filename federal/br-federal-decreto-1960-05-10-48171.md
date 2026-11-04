@@ -1,5 +1,3 @@
-###DEC-048171-0-000-10-05-1960@@@
-
 DECRETO Nº 48.171, DE 10 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Alfredo Pinto Vergueiro a pesquisar caulim e argila, no município de Guarulhos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-081545-0-000-10-04-1978@@@
-
 Decreto nº 81.545 de 10 de abril de 1978.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita no Município de Passa Quatro, Estado de Minas Gerais.

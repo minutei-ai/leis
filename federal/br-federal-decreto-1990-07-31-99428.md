@@ -1,7 +1,3 @@
-1
-
-###DEC-099428-0-000-31-07-1990@@@
-
 DECRETO N° 99.428, DE 31 DE JULHO DE 1990
 
 Delega competência ao Ministro da Infra‑Estrutura para prática de atos relati­vos à concessão de lavra mineral, conces­são de aproveitamento de energia hidráuli­ca, declaração de utilidade pública, para fins de desapropriação ou constituição de servidão administrativa, nos casos que menciona, e dá outras providencias.

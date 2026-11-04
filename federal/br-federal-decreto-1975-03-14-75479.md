@@ -1,5 +1,3 @@
-###DEC-075479-0-000-14-03-1975@@@
-
 decreto nº 75.479, de 14 de março de 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Imembui S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Santa Maria, Estado do Rio Grande do Sul.

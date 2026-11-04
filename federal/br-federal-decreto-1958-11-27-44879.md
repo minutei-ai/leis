@@ -1,5 +1,3 @@
-###DEC-044879-0-000-27-11-1958@@@
-
 DECRETO Nº 44.879, DE 7 DE NOVEMBRO DE 1958.
 
 Transfere função da Tabela Numérica Especial de Extranumerário Mensalista da Base Aérea do Recife para a do Quartel General da 2ª Zona Aérea.

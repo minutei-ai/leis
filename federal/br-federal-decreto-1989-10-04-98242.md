@@ -1,7 +1,3 @@
-1
-
-###DEC-098242-0-000-04-10-1989@@@
-
 DECRETO Nº 98.242, DE 4 DE OUTUBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte dos imóveis rurais denominados “FAZENDA BELA VISTA, PARATI, JARDINÓPOLIS e AGROPECUÁRIA AMPARO DO LAGO”, situados no Município de Ibotirama, no Estado da Bahia, e dá outras providências.

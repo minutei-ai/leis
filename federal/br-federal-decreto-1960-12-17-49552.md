@@ -1,5 +1,3 @@
-###DEC-049552-0-000-17-12-1960@@@
-
 DECRETO Nº 49.552, DE 17 DE DEZEMBRO DE 1960.
 
 Transfere, com o respectivo ocupante, uma função da Tabela Única de Extanumerário Mensalista da Recedoria Federal da Guanabara para a Alfândega do Rio de Janeiro.

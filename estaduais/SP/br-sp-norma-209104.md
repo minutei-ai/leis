@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209104)<br>
-
 # DECRETO N° 68.329, DE 07 DE FEVEREIRO DE 2024
 
 ### _Autoriza o Fundo Social de São Paulo - FUSSP a representar o Estado de São Paulo na celebração de parcerias com organizações da sociedade civil visando à realização de cursos no âmbito do Programa Escola de Qualificação Profissional, e dá providências correlatas._
@@ -30,7 +28,8 @@ Secretário Executivo, Respondendo pelo Expediente da Casa Civil
 
 Publicado na Casa Civil, aos 7 de fevereiro de 2024.
 
-#### ANEXO I <br>
+#### ANEXO I 
+
 a que se refere o artigo 3° do Decreto n° 68.329, de 7 de fevereiro de 2024
 
 PROCESSO SEI n° 
@@ -41,7 +40,8 @@ PROCESSO SEI n° 
 
 O Estado de São Paulo, por intermédio da Casa Civil, e esta pelo Fundo Social de São Paulo - FUSSP, com sede na Avenida Morumbi, n° 4.500, Município de São Paulo, doravante designado simplesmente FUSSP, neste ato representado por seu(ua) Presidente (ou Chefe de Gabinete, conforme Portaria de delegação), \_\_\_\_\_\_\_, e a \[ORGANIZAÇÃO DA SOCIEDADE CIVIL\], inscrita no CNPJ sob o n° \_\_\_\_\_\_\_, neste ato representada por seu(ua) \[cargo do dirigente / procurador\], \[NOME COMPLETO DO DIRIGENTE / PROCURADOR\], inscrito no CPF/MF sob n°\_\_ , doravante denominada OSC, resolvem celebrar a presente parceria, que se regerá pelas disposições da Lei federal n° 13.019, de 31 de julho de 2014, do [Decreto n° 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342), no que couber, e demais normas regulamentares incidentes na espécie, mediante as seguintes cláusulas e condições.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente \[termo de fomento/colaboração\], decorrente de chamamento público n° \_\_\_/20\_\_, a implantação e execução do projeto \[escola e curso\] no âmbito do Programa Escola de Qualificação Profissional, mediante transferência de recursos materiais e financeiros à OSC, de acordo com o Plano de Trabalho constante de fls. \_\_\_\_ do processo administrativo n° \_\_\_\_\_\_\_, que integra o presente instrumento como Anexo.
@@ -50,7 +50,8 @@ Constitui objeto do presente \[termo de fomento/colaboração\], decorrente de c
 
 **§ 2° -** O(a) Presidente do FUSSP, amparado(a) em manifestação previamente justificada e respeitada a legislação vigente, poderá autorizar modificação do plano de trabalho para sua adequação técnica, mediante termo aditivo, vedada a alteração do objeto.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Responsabilidades e Obrigações dos Partícipes
 
 Constituem responsabilidades e obrigações, além de outros compromissos assumidos por meio deste termo e respectivo plano de trabalho, os previstos na Lei federal n° 13.019, de 31 de julho de 2014, no [Decreto n° 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342), e nas demais normas legais e regulamentares aplicáveis à espécie, assim como:
@@ -143,7 +144,8 @@ v) prestar contas na forma da cláusula oitava deste instrumento;
 
 w) gerenciar e aplicar os recursos materiais e financeiros que lhe forem transferidos pelo FUSSP exclusivamente nas ações relativas ao objeto da parceria, prestando atendimento gratuito aos alunos do projeto.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Gestor da Parceria
 
 O gestor fará a interlocução técnica com a OSC, bem como o acompanhamento e a fiscalização da execução do objeto da parceria, devendo zelar pelo seu adequado cumprimento e manter o FUSSP informado sobre o andamento das atividades, competindo-lhe em especial:
@@ -172,14 +174,16 @@ VIII - realizar atividades de monitoramento, devendo estabelecer práticas de ac
 
 **§ 4° -** Em caso de vacância da função de gestor, o Chefe de Gabinete do FUSSP assumirá interinamente a gestão da parceria, por meio de simples apostilamento, até a indicação de novo gestor.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Monitoramento e da Avaliação de Resultados
 
 Os resultados alcançados com a execução do objeto da parceria devem ser monitorados e avaliados sistematicamente por responsável designado pela Presidência do FUSSP em ato próprio, na forma do artigo 59 da Lei federal n° 13.019, de 31 de julho de 2014.
 
 **Parágrafo único -** O responsável designado deverá emitir anualmente relatório técnico de monitoramento e avaliação e o submeter à homologação da Comissão de Monitoramento e Avaliação.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Comissão de Monitoramento e Avaliação
 
 Compete à Comissão de Monitoramento e Avaliação:
@@ -196,7 +200,8 @@ V - solicitar aos demais órgãos do FUSSP ou à OSC esclarecimentos que se fize
 
 VI - emitir, ao final de cada exercício, relatório conclusivo sobre os resultados alcançados no período, avaliação das eventuais justificativas apresentadas no relatório técnico de monitoramento e avaliação, recomendações, críticas e sugestões.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Dos Recursos Materiais e Financeiros a Cargo do FUSSP e da Contrapartida da OSC
 
 O valor total da presente parceria é de R$ \_\_\_\_ (\_\_\_\_\_\_\_\_), programa de trabalho \_\_\_\_\_\_, onerando a U.O. \_\_\_\_\_\_ (nomenclatura da UO), U.G.O. \_\_\_\_\_, U.G.E. \_\_\_\_\_\_, natureza da despesa \_\_\_\_\_\_\_ (nomenclatura da natureza da despesa), e R$ \_\_\_\_\_\_\_ (\_\_\_\_\_\_) a título de contrapartida por parte da OSC, consoante § 6° desta cláusula.
@@ -213,7 +218,8 @@ O valor total da presente parceria é de R$ \_\_\_\_ (\_\_\_\_\_\_\_\_), program
 
 **§ 6° -** A contrapartida em bens e serviços \[ou em bens ou em serviços\] a cargo da OSC, a que alude o "caput" desta cláusula, consiste em \[indicar no que consiste a contrapartida\], e corresponde a R$\_\_\_\_\_ (\_\_\_\_\_\_\_) \[se for o caso, indicar a periodicidade da contrapartida - por exemplo: e corresponde a R$ \_\_\_\_\_\_(\_\_\_\_\_) mensais/semestrais\].
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Cessão e da Administração dos Bens Públicos
 
 Durante o período de vigência desta parceria, poderão ser destinados à OSC bens públicos necessários ao seu cumprimento, os quais poderão ser disponibilizados por meio de disposição constante do plano de trabalho, de permissão de uso ou de instrumento equivalente em que se transfira a responsabilidade pelo seu uso e guarda, na forma da lei.
@@ -224,7 +230,8 @@ Durante o período de vigência desta parceria, poderão ser destinados à OSC b
 
 **§ 3° -** Extinto o ajuste por realização integral de seu objeto, os bens adquiridos com recursos da parceria poderão ser doados à própria OSC de acordo com o interesse público, mediante justificativa formal do Presidente do FUSSP, atendidas as normas legais e regulamentares aplicáveis à espécie.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Das Prestações de Contas
 
 A OSC elaborará e apresentará ao FUSSP prestação de contas na forma discriminada nesta cláusula, observando-se o Capítulo IV da Lei federal n° 13.019, de 31 de julho de 2014, o artigo 8° do Decreto estadual n° 61.981, de 20 de maio de 2016, e demais legislações aplicáveis à espécie.
@@ -273,7 +280,8 @@ d) notas fiscais/faturas.
 
 **§ 10 -** A responsabilidade da OSC pelo pagamento dos encargos trabalhistas, previdenciários, fiscais e comerciais relativos à execução do objeto da parceria é exclusiva, não se caracterizando responsabilidade solidária ou subsidiária do Estado pelos respectivos pagamentos qualquer oneração do objeto da parceria ou restrição à sua execução.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Vigência e da Prorrogação
 
 O prazo de vigência do presente \[tipo de parceria\] é de \[\_\_\_\] (por extenso) meses, contados da data da sua assinatura.
@@ -282,7 +290,8 @@ O prazo de vigência do presente \[tipo de parceria\] é de \[\_\_\_\] (por exte
 
 **§ 2° -** O FUSSP prorrogará de ofício a vigência da parceria quando der causa ao atraso na liberação dos recursos, limitada a prorrogação ao exato período do atraso verificado.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Ação Promocional
 
 Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente, seguidas as orientações do FUSSP, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem a promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
@@ -293,7 +302,8 @@ Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente,
 
 **§ 3° -** A divulgação de resultados técnicos, bem como todo e qualquer ato promocional relacionado ao desenvolvimento ou inovação tecnológica ou metodológica, decorrentes de trabalhos realizados no âmbito da presente parceria, deverá apresentar a marca do Governo do Estado de São Paulo, sendo vedada a sua divulgação sem o consentimento prévio e formal do FUSSP.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Da Proteção de Dados
 
 A OSC deve cumprir a Lei federal n° 13.709, de 14 de agosto de 2018, no âmbito da execução do objeto desta parceria e observar as instruções por escrito do FUSSP no tratamento de dados pessoais.
@@ -328,7 +338,8 @@ A OSC deve cumprir a Lei federal n° 13.709, de 14 de agosto de 2018, no âmbito
 
 **§ 13 -** É vedada a transferência de dados pessoais, pela OSC, para fora do território do Brasil.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Da Denúncia e da Rescisão
 
 A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos partícipes mediante notificação escrita com antecedência de 60 (sessenta) dias e será rescindida por infração legal ou descumprimento das obrigações assumidas, ou pela superveniência de norma legal ou fato que a torne jurídica, material ou formalmente inexequível.
@@ -345,19 +356,22 @@ A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos p
 
 **§ 6° -** Caracterizada a inexecução parcial do ajuste, o FUSSP avaliará, ante o caso concreto, a possibilidade de restituição parcial, pela OSC, dos recursos transferidos.
 
-#### CLÁUSULA DÉCIMA TERCEIRA<br>
+#### CLÁUSULA DÉCIMA TERCEIRA
+
 Das Alterações
 
 O presente ajuste poderá ser alterado, mediante termo aditivo, desde que tal interesse seja manifestado fundamentadamente e por escrito por qualquer dos partícipes, e conte com a prévia aprovação da área técnica do FUSSP, vedada a modificação do objeto da parceria.
 
-#### CLÁUSULA DÉCIMA QUARTA<br>
+#### CLÁUSULA DÉCIMA QUARTA
+
 Das Responsabilizações e das Sanções
 
 Pela execução da parceria em desacordo com o plano de trabalho e com as normas da Lei federal n° 13.019, de 2014, e da legislação específica, o FUSSP poderá, garantida a prévia defesa, aplicar à OSC as sanções previstas no artigo 73 da Lei federal n° 13.019, de 31 de julho de 2014, observado o disposto no artigo 9° do [Decreto n° 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342).
 
 **Parágrafo único -** Aplicadas as sanções previstas no "caput" desta cláusula, as mesmas deverão ser registradas no portal de parcerias com organizações da sociedade civil.
 
-#### CLÁUSULA DÉCIMA QUINTA<br>
+#### CLÁUSULA DÉCIMA QUINTA
+
 Disposições Gerais
 
 Acordam os partícipes, ainda, em estabelecer as condições seguintes:
@@ -370,33 +384,40 @@ III - todas as comunicações relativas a esta parceria serão consideradas como
 
 IV - as exigências que não puderem ser cumpridas por meio eletrônico deverão ser supridas através da regular instrução processual, em meio físico.
 
-#### CLÁUSULA DÉCIMA SEXTA<br>
+#### CLÁUSULA DÉCIMA SEXTA
+
 Do Foro
 
 Fica eleito o Foro da Comarca de São Paulo para dirimir eventuais questões oriundas desta parceria, com renúncia expressa a qualquer outro, por mais privilegiado que seja. E assim, por estarem de acordo, assinam os partícipes o presente instrumento em 2 (duas) vias de igual teor e forma, na presença das duas testemunhas abaixo identificadas.
 
 São Paulo, \_\_ de \_\_\_\_\_\_\_\_\_ de 20\_\_ 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 PRESIDENTE DO FUNDO SOCIAL DE SÃO PAULO
 
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 REPRESENTANTE DA OSC
 
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Testemunhas:
 
 1.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Nome:<br>
+Nome:
+
 CPF:
 
  2.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Nome:<br>
+Nome:
+
 CPF:
 
-#### ANEXO II <br>
+#### ANEXO II 
+
 a que se refere o artigo 3° do Decreto n° 68.329, de 7 de fevereiro de 2024
 
 PROCESSO SEI n° 
@@ -407,7 +428,8 @@ ACORDO DE COOPERAÇÃO QUE CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA C
 
 O Estado de São Paulo, por intermédio da Casa Civil, e esta pelo Fundo Social de São Paulo - FUSSP, com sede na Avenida Morumbi, n° 4.500, Município de São Paulo, doravante designado simplesmente FUSSP, neste ato representado por seu(ua) Presidente (ou Chefe de Gabinete, conforme Portaria de delegação), \_\_\_\_\_\_\_, e a \[ORGANIZAÇÃO DA SOCIEDADE CIVIL\], inscrita no CNPJ sob o n° \_\_\_\_\_\_\_, neste ato representada por seu(ua) \[cargo do dirigente / procurador\], \[NOME COMPLETO DO DIRIGENTE / PROCURADOR\], inscrito no CPF/ MF sob n°\_\_ , doravante denominada OSC, resolvem celebrar o presente acordo de cooperação, que se regerá pelas disposições da Lei federal n° 13.019, de 31 de julho de 2014, do [Decreto n° 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342), no que couber, e demais normas regulamentares incidentes na espécie, mediante as seguintes cláusulas e condições.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto desta cooperação a conjugação de esforços dos partícipes para a implantação do Programa Escola de Qualificação Profissional, nas instalações físicas da OSC.
@@ -416,7 +438,8 @@ Constitui objeto desta cooperação a conjugação de esforços dos partícipes 
 
 **§ 2° -** O(a) Presidente do FUSSP, amparado(a) em manifestação previamente justificada e respeitada a legislação vigente, poderá autorizar modificação do plano de trabalho para sua adequação técnica, mediante termo aditivo, vedada a alteração do objeto.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Responsabilidades e Obrigações dos Partícipes
 
 Constituem responsabilidades e obrigações, além de outros compromissos assumidos por meio deste termo e respectivo plano de trabalho, os previstos na Lei federal n° 13.019, de 31 de julho de 2014, no [Decreto n° 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342), e nas demais normas legais e regulamentares aplicáveis à espécie, assim como:
@@ -487,7 +510,8 @@ u) apoiar os alunos e professores quanto às atividades e ações inerentes ao c
 
 v) realizar a inscrição, composição de turmas e matrícula dos alunos para as atividades, cursos e oficinas do Programa Escola de Qualificação Profissional, mantendo-as em ordem e atualizadas, bem como prestando as informações solicitadas pelo FUSSP, quando necessário.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Gestor da Parceria
 
 O gestor fará a interlocução técnica com a OSC, bem como o acompanhamento e a fiscalização da execução do objeto da parceria, devendo zelar pelo seu adequado cumprimento e por manter o FUSSP informado sobre o andamento das atividades, competindo-lhe em especial:
@@ -514,19 +538,22 @@ VII - realizar a conferência e a checagem do cumprimento das metas e suas respe
 
 **§ 4° -** Em caso de vacância da função de gestor, o Chefe de Gabinete do FUSSP assumirá interinamente a gestão da parceria, por meio de simples apostilamento, até a indicação de novo gestor.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Dos Recursos Financeiros
 
 A presente cooperação não envolverá a transferência de recursos financeiros entre os partícipes, arcando, cada qual, com as despesas decorrentes da execução deste ajuste.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Dos Recursos Materiais
 
 Durante o período de vigência desta parceria, serão destinados à OSC os insumos necessários ao desenvolvimento dos cursos, os quais serão disponibilizados pelo FUSSP, através de \_\_\_\_\_\_\_\_\_, de acordo com o cronograma contido no Plano de Trabalho.
 
 **Parágrafo único -** A OSC deverá aplicar os insumos mencionados no "caput" desta cláusula exclusivamente nas ações relativas ao objeto da parceria.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 A OSC elaborará e apresentará ao FUSSP prestação de contas, ao final de cada exercício e ao término da vigência deste ajuste, de forma simplificada, por intermédio de elaboração de relatório contendo, no mínimo:
@@ -539,14 +566,16 @@ III - o grau de satisfação do público-alvo;
 
 IV - outras informações pertinentes.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Vigência e da Prorrogação
 
 O prazo de vigência do presente Acordo de Cooperação é de \[\_\_\_\] (por extenso) meses, contados da data da sua assinatura.
 
 **Parágrafo único -** No mínimo trinta dias antes de seu término, havendo interesse dos partícipes, a parceria poderá ter seu prazo de vigência prorrogado, mediante termo aditivo e autorização do(a) Presidente do Conselho Deliberativo do FUSSP, baseada em parecer favorável do gestor da parceria, respeitada a legislação vigente, após proposta previamente justificada pela OSC, observando-se nas prorrogações o limite de 60 (sessenta) meses.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Ação Promocional
 
 Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente, seguidas as orientações do FUSSP, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem a promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
@@ -555,7 +584,8 @@ Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente,
 
 **§ 2° -** A divulgação de resultados técnicos, bem como todo e qualquer ato promocional relacionado ao desenvolvimento ou inovação tecnológica ou metodológica, decorrentes de trabalhos realizados no âmbito da presente parceria, deverá apresentar a marca do Governo do Estado de São Paulo, sendo vedada a sua divulgação sem o consentimento prévio e formal do FUSSP.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Proteção de Dados
 
 A OSC deve cumprir a Lei federal n° 13.709, de 14 de agosto de 2018, no âmbito da execução do objeto desta parceria e observar as instruções por escrito do FUSSP no tratamento de dados pessoais.
@@ -590,7 +620,8 @@ A OSC deve cumprir a Lei federal n° 13.709, de 14 de agosto de 2018, no âmbito
 
 **§ 13 -** É vedada a transferência de dados pessoais, pela OSC, para fora do território do Brasil.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Denúncia e da Rescisão
 
 A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos partícipes mediante notificação escrita com antecedência de 60 (sessenta) dias e será rescindida por infração legal ou descumprimento das obrigações assumidas, ou pela superveniência de norma legal ou fato que a torne jurídica, material ou formalmente inexequível.
@@ -601,19 +632,22 @@ A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos p
 
 **§ 3° -** Caracterizada a inexecução parcial do ajuste, o FUSSP avaliará, ante o caso concreto, a possibilidade de restituição parcial, pela OSC, dos recursos materiais transferidos.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Das Alterações
 
 O presente ajuste poderá ser alterado, mediante termo aditivo, desde que tal interesse seja manifestado fundamentadamente e por escrito por qualquer dos partícipes, e conte com a prévia aprovação da área técnica do FUSSP, vedada a modificação do objeto da parceria.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Das Responsabilizações e das Sanções
 
 Pela execução da parceria em desacordo com o plano de trabalho e com as normas da Lei federal n° 13.019, de 31 de julho de 2014, e da legislação específica, o FUSSP poderá, garantida a prévia defesa, aplicar à OSC as sanções previstas no artigo 73 da Lei federal n° 13.019, de 31 de julho de 2014, observado o disposto no artigo 9° do [Decreto n° 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342).
 
 **Parágrafo único -** Aplicadas as sanções previstas no "caput" desta cláusula, as mesmas deverão ser registradas no portal de parcerias com organizações da sociedade civil.
 
-#### CLÁUSULA DÉCIMA TERCEIRA<br>
+#### CLÁUSULA DÉCIMA TERCEIRA
+
 Disposições Gerais
 
 Acordam os partícipes, ainda, em estabelecer as condições seguintes:
@@ -626,35 +660,44 @@ III - todas as comunicações relativas a esta parceria serão consideradas como
 
 IV - as exigências que não puderem ser cumpridas por meio eletrônico deverão ser supridas através da regular instrução processual, em meio físico.
 
-#### CLÁUSULA DÉCIMA QUARTA<br>
+#### CLÁUSULA DÉCIMA QUARTA
+
 Do Foro
 
 Fica eleito o foro da comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia a qualquer outro, por mais privilegiado que seja. E, por estarem de acordo, assinam o presente em 02 (duas) vias de igual teor e forma, na presença das testemunhas que também o subscrevem.
 
 São Paulo, \_\_\_\_\_ de \_\_\_\_\_\_\_\_\_de 20\_\_ 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 PRESIDENTE DO FUNDO SOCIAL DE SÃO PAULO
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 REPRESENTANTE DA OSC
 
 Testemunhas:
 
-1.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br>
-Nome:<br>
+1.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+
+Nome:
+
 CPF:
 
-2.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-Nome:<br>
+2.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Nome:
+
 CPF:
 
-#### ANEXO III <br>
+#### ANEXO III 
+
 a que se refere o artigo 4° do Decreto n° 68.329, de 7 de fevereiro de 2024
 
 Na data da assinatura digital, o Estado de São Paulo, por intermédio da Casa Civil, e esta pelo Fundo Social de São Paulo - FUSSP, com sede na Avenida Morumbi, n° 4.500, Município de São Paulo, doravante designado DOADOR, autorizado pelo Decreto \_\_\_\_, neste ato representado por seu(ua) Presidente (ou Chefe de Gabinete, conforme Portaria de delegação), \_\_\_\_\_\_\_\_, e a Organização da Sociedade Civil \_\_\_\_\_\_\_, inscrita no CNPJ sob n° \_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_, n° \_\_\_\_\_\_\_, neste ato representado por \_\_\_\_\_\_\_, inscrito no CPF/MF sob n° \_\_\_\_\_, doravante denominada DONATÁRIA, resolvem celebrar o presente TERMO DE DOAÇÃO, com fulcro no artigo 538 do Código Civil, no artigo 36, parágrafo único, da Lei federal n° 13.019, de 31 de julho de 2014, e no artigo 17, inciso II, alínea "a", da Lei federal n° 8.666, de 21 de junho de 1993 \[ou, após 30 de dezembro de 2023, do artigo 76, inciso II, alínea "a", da Lei federal n° 14.133, de 1° de abril de 2021\], mediante as seguintes cláusulas e condições.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto e da Motivação da Doação
 
 Em razão da parceria FUSSP n° \_\_\_\_\_\_\_\_, firmada no âmbito do Programa Escola de Qualificação Profissional, foram repassados/adquiridos com recursos transferidos pelo FUSSP os seguintes bens permanentes: \[identificação do(s) bem(s)\].
@@ -665,17 +708,20 @@ Em razão da parceria FUSSP n° \_\_\_\_\_\_\_\_, firmada no âmbito do Programa
 
 **§ 3° -** O DOADOR, em caráter irrevogável e irretratável, doa os bens discriminados, que passam a ser de propriedade da DONATÁRIA a partir da assinatura deste instrumento.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Responsabilidades
 
 A DONATÁRIA aceita os bens doados no estado em que se encontram, responsabilizando-se por sua manutenção e conservação, bem como por todas as despesas decorrentes de sua transferência e uso.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Da Vigência
 
 Este termo passa a vigorar a partir da data de sua assinatura.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Foro
 
 Fica eleito o Foro da Comarca de São Paulo para dirimir eventuais questões oriundas desta parceria, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
@@ -684,18 +730,24 @@ E assim, por estarem de acordo, assinam os partícipes o presente instrumento em
 
 São Paulo, na data da assinatura digital. 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Doador - Representante do Fundo Social de São Paulo 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Donatária - Representante da organização da sociedade civil \[nome da OSC\]
 
 Testemunhas:
 
-1.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br>
-Nome:<br>
+1.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+
+Nome:
+
 CPF:
 
-2.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-Nome:<br>
+2.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Nome:
+
 CPF:

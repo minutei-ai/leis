@@ -1,5 +1,3 @@
-###DEC-050109-0-000-26-01-1961@@@
-
 DECRETO Nº 50.109, DE 26 DE JANEIRO DE 1961.
 
 Autoriza a Companhia Geral de Eletricidade a ampliar suas instalações de energia elétrica.

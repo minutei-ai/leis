@@ -1,5 +1,3 @@
-###DEC-055620-0-000-22-01-1965@@@
-
 DECRETO Nº 55.620, DE 22 DE JANEIRO DE 1965.
 
 Dá nova redação à Cláusula Sexta do Convênio aprovado pelo Decreto número 50.444, de 11 de abril de 1961.

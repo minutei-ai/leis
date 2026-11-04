@@ -1,5 +1,3 @@
-###DEC-061365-0-000-18-09-1967@@@
-
 decreto nº 61.365, de 18 de setembro de 1967.
 
 Transfere da Companhia Mista de Energia Elétrica de Paranavaí para a Companhia Paranaense de Energia Elétrica, a concessão para produzir, transmitir e distribuir energia elétrica no distrito-sede do município de Paranavaí, Estado do Paraná.

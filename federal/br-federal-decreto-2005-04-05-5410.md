@@ -1,5 +1,3 @@
-###DEC-005410-0-000-05-04-2005@@@
-
 DECRETO Nº 5.410, DE 5 DE ABRIL DE 2005
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América relativo à Assistência Mútua entre as suas Administrações Aduaneiras, assinado em Brasília, em 20 de junho de 2002.

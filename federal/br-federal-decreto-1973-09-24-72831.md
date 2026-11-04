@@ -1,5 +1,3 @@
-###DEC-072831-0-000-24-09-1973@@@
-
 DECRETO Nº 72.831, DE 24 DE SETEMBRO DE 1973.
 
 Concede à Mineração Ipê Ltda. o direito de lavrar feldspato e mica no Município de Governador Valadares, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-068804-0-000-25-06-1971@@@
-
 DECRETO Nº 68.804 - DE 25 DE JUNHO DE 1971.
 
 Autoriza o funcionamento dos Cursos de Estudos Sociais, Ciências, Letras e Psicologia da Faculdade de Filosofia, Ciências e Letras "Braz Cubas", Estado de São Paulo.

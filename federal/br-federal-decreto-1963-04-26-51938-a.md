@@ -1,5 +1,3 @@
-###DEC-051938-A-000-26-04-1963@@@
-
 DECRETO Nº 51.938-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Companhia Industrial e Comercial Paduana S.A. a lavrar água mineral, no município de Santo Antônio de Pádua, Estado do Rio de Janeiro.

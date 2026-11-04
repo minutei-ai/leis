@@ -1,5 +1,3 @@
-###DEC-050574-0-000-10-05-1961@@@
-
 DECRETO, Nº 50.574, de 10 de maio de 1961.
 
 Cria a Insígnia de Ministro da Aeronáutica.

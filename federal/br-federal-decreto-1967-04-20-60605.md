@@ -1,5 +1,3 @@
-###DEC-060605-0-000-20-04-1967@@@
-
 DECRETO Nº 60.605, DE 20 DE ABRIL DE 1967.
 
 Retifica referência de função criada pelo Decreto nº 36.693, de 29 de dezembro de 1954.

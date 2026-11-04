@@ -1,5 +1,3 @@
-###DEC-079645-0-000-03-05-1977@@@
-
 DECRETO Nº 79.645, DE 3 DE MAIO DE 1977.
 
 Declara de utilidade publica, para fins desapropriação, total ou parcial, ou instituição de servidão de passagem em favor da Petróleo Brasileiro S.A, - PETROBRÁS, imóveis constituídos de terras e benfeitorias, necessários à construção de um Sistema de Captação e Adução D'Água e de um Sistema de Despejos de Águas Pluviais e Industriais para o empreendimento da refinaria de São José dos Campos (CREVAP), no Município de São José dos Campos, Estado de São Paulo.

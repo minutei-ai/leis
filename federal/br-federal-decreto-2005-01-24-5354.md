@@ -1,5 +1,3 @@
-###DEC-005354-0-000-24-01-2005@@@
-
 DECRETO Nº 5.354 DE 24 DE JANEIRO DE 2005
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores \- DAS que menciona, e dá outras providências.

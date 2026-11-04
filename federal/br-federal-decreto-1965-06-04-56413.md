@@ -1,5 +1,3 @@
-###DEC-056413-0-000-04-06-1965@@@
-
 decreto nº 56.413, de 4 de junho de 1965.
 
 Cria a Comissão Regional de Obras nº 1 da 7ª Região Militar, com sede em Recife - PE.

@@ -1,5 +1,3 @@
-###DEC-056680-0-000-06-08-1965@@@
-
 Decreto nº 56.680, de 6 de agôsto de 1965.
 
 Aprova alteração introduzida nos Estatutos da Metropolitana Companhia de Seguros, relativa ao aumento do capital social.

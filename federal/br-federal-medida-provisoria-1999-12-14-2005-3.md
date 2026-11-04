@@ -1,5 +1,3 @@
-###MPV-002005-0-003-14-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 2.005-3, DE 14 DE DEZEMBRO DE 1999.
 
 Altera a legislação tributária federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082593-0-000-07-11-1978@@@
-
 Decreto nº 82.593, de 07 de novembro de 1978.
 
 Concede reconhecimento ao Curso de Licenciatura em Ciências Agronômicas realizado, em 1975, pela Faculdade de Ciências Médicas e Biológicas de Botucatu, no Estado de São Paulo.

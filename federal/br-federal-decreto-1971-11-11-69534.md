@@ -1,5 +1,3 @@
-###DEC-069534-0-000-11-11-1971@@@
-
 DECRETO Nº 69.534 - DE 11 DE NOVEMBRO de 1971
 
 Altera dispositivos do Regulamento para a Salvaguarda de Assuntos Sigilosos.

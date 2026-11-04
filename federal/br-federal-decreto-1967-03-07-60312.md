@@ -1,5 +1,3 @@
-###DEC-060312-0-000-07-03-1967@@@
-
 DECRETO Nº 60.312, DE 7 DE MARÇO DE 1967.
 
 Eleva o Consulado em Munique à categoria de Consulado-Geral.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/8096)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1999/compilacao-lei-10351-12.08.1999.html)
 
 # LEI N° 10.351, DE 12 DE AGOSTO DE 1999

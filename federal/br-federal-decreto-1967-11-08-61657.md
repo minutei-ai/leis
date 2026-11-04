@@ -1,5 +1,3 @@
-###DEC-061657-0-000-08-11-1967@@@
-
 DECRETO Nº 61.657, DE 8 DE NOVEMBRO DE 1967.
 
 Autoriza o Govêrno do Estado de Goiás a encampar os bens e instalações vinculados aos serviços públicos de energia elétrica do Município de Pontalina, Estado de Goiás, e dá outras providências.

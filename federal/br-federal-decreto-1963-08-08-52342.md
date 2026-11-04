@@ -1,30 +1,28 @@
-###DEC-052342-0-000-08-08-1963@@@
+**DECRETO Nº 52.342, DE 8 DE AGÔSTO DE 1963.**
 
-<strong>DECRETO Nº 52.342, DE 8 DE AGÔSTO DE 1963.</strong>
+***Aprova o Regimento do Departamento de Promoção Agropecuária do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento do Departamento de Promoção Agropecuária do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo o artigo 87,, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo o artigo 87,, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento do Promoção Agropecuária do Ministério da Agricultura, que com êste baixa, assinado pelo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento do Promoção Agropecuária do Ministério da Agricultura, que com êste baixa, assinado pelo Ministro de Estado.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 8 de agôsto de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Oswaldo Lima Filho.
 
-<strong>REGIMENTO DO DEPARTAMENTO DE PROMOÇÃO AGROPECUÁRIA</strong>
+**REGIMENTO DO DEPARTAMENTO DE PROMOÇÃO AGROPECUÁRIA**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Departamento de Promoção Agropecuária (D.P.A.), criado pela Lei Delegada n° 9, de 11 de outubro de 1962, diretamente subordinado ao Secretário Geral da Agricultura, é o órgão central encarregado das atividades relativas à promoção agropecuária, à extensão rural a produção de mudas e sementes, à revenda de material agropecuário, cabendo-lhe, em particular.
+**Art**. 1º O Departamento de Promoção Agropecuária (D.P.A.), criado pela Lei Delegada n° 9, de 11 de outubro de 1962, diretamente subordinado ao Secretário Geral da Agricultura, é o órgão central encarregado das atividades relativas à promoção agropecuária, à extensão rural a produção de mudas e sementes, à revenda de material agropecuário, cabendo-lhe, em particular.
 
 I - planejar, programar, promover e coordenar as atividades de fomento agropecuário e de extensão rural;
 
@@ -48,11 +46,11 @@ X - exercer ações visando a entrosar as atividades inerentes ao D.P.A., com aq
 
 XI - assegurar medidas visando a harmonizar os aspectos políticos de sindicalização rural exercida pelo Ministério do Trabalho ou pela Superintendência da Política Agrária com os condicionamentos técnicos econômicos e sociais dos produtores agrícolas.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O Departamento de Promoção Agropecuária compreende:
+**Art**. 2º O Departamento de Promoção Agropecuária compreende:
 
 A - Órgãos Centrais:
 
@@ -158,11 +156,11 @@ Secretaria.
 
 § 2º Funcionará, junto à Diretoria Geral do D.P.A., sob a presidência do respectivo titular, um Conselho de Diretores, composto dos dirigentes do S.P.A. - S.P.S.M. - S.R.M.A. - D.T. - D.C.O.R. e da S.A.
 
-<strong>Art</strong>. 3º O D.P.A. será dirigido por um Diretor-Geral, nomeado em Comissão pelo Presidente da República, entre os ocupantes de cargos de Engenheiro-Agrônomo ou de Veterinário.
+**Art**. 3º O D.P.A. será dirigido por um Diretor-Geral, nomeado em Comissão pelo Presidente da República, entre os ocupantes de cargos de Engenheiro-Agrônomo ou de Veterinário.
 
 § 1º O Diretor-Geral terá cinco Assessôres um Secretário e três Auxiliares por êle designados.
 
-<strong>Art</strong>. 4º Os Serviços e Divisões terão Diretrizes, nomeados em comissão pelo Presidente da República, entre os ocupantes de cargos de Engenheiro Agrônomo e Veterinário.
+**Art**. 4º Os Serviços e Divisões terão Diretrizes, nomeados em comissão pelo Presidente da República, entre os ocupantes de cargos de Engenheiro Agrônomo e Veterinário.
 
 § 1º Os Diretores do S.P.S.M. - S.R.M.A. e D.C.O.R. terão um Assessôr, um Secretário e um Auxiliar, por êles designados.
 
@@ -172,29 +170,29 @@ Secretaria.
 
 § 4º As funções de Assessor de que tratam os parágrafos dêste artigo serão, de preferência, exercidas por ocupantes de cargos técnicos.
 
-<strong>Art</strong>. 5º O Laboratório, Centros de Treinamento, Seções e Biblioteca terão Chefes designados pelas autoridades imediatamente superiores.
+**Art**. 5º O Laboratório, Centros de Treinamento, Seções e Biblioteca terão Chefes designados pelas autoridades imediatamente superiores.
 
-<strong>Art</strong>. 6º As Turmas terão Encarregados designados pelos respectivos chefes.
+**Art**. 6º As Turmas terão Encarregados designados pelos respectivos chefes.
 
-<strong>Art</strong>. 7º Os Serviços Federais e as Fazendas Regionais terão chefes, designados pelo Diretor-Geral e escolhidos entre os ocupantes de cargos de Engenheiro Agrônomo e Veterinário.
+**Art**. 7º Os Serviços Federais e as Fazendas Regionais terão chefes, designados pelo Diretor-Geral e escolhidos entre os ocupantes de cargos de Engenheiro Agrônomo e Veterinário.
 
 § 1º Os Serviços Federais terão sede nas Capitais dos Estados e Territórios.
 
-<strong>Art</strong>. 8º Os Serviços Federais terão quatro Assessôres especializados em fomento animal, fomento vegetal, cooperativismo e extensão rural, designados pelos respectivos Chefes das Inspetorias, ouvido, o Diretor-Geral.
+**Art**. 8º Os Serviços Federais terão quatro Assessôres especializados em fomento animal, fomento vegetal, cooperativismo e extensão rural, designados pelos respectivos Chefes das Inspetorias, ouvido, o Diretor-Geral.
 
-<strong>Art</strong>. 9º O D.P.A., por proposta do Diretor-Geral, poderá criar grupos executivos, visando ao desenvolvimento de determinados setores agropecuários, em caráter de campanha nacional, aprovada pela Comissão de Planejamento da Política Agrícola, financiada pelos recursos do Fundo Federal Agropecuário e realizada com prazos fixados pelo Ministro de Estado.
+**Art**. 9º O D.P.A., por proposta do Diretor-Geral, poderá criar grupos executivos, visando ao desenvolvimento de determinados setores agropecuários, em caráter de campanha nacional, aprovada pela Comissão de Planejamento da Política Agrícola, financiada pelos recursos do Fundo Federal Agropecuário e realizada com prazos fixados pelo Ministro de Estado.
 
-<strong>Art</strong>. 10. Os órgãos integrantes do D.P.A. funcionarão articulados em regime de mútua colaboração, sob a orientação do Diretor-Geral que coordenará, supervisionará, desenvolverá a avaliará as atividades gerais e específicas, nacionais ou regionais, do Departamento.
+**Art**. 10. Os órgãos integrantes do D.P.A. funcionarão articulados em regime de mútua colaboração, sob a orientação do Diretor-Geral que coordenará, supervisionará, desenvolverá a avaliará as atividades gerais e específicas, nacionais ou regionais, do Departamento.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Conselho de Diretores</em>
+*Do Conselho de Diretores*
 
-<strong>Art</strong>. 11. Ao Conselho de Diretores compete:
+**Art**. 11. Ao Conselho de Diretores compete:
 
 I - elaborar, sob critério prioritário e periódico, a curto e a longo prazo, planos e programas do D.P.A.;
 
@@ -206,7 +204,7 @@ IV - discutir a proposta orçamentária do D.P.A.;
 
 V - sugerir ao Diretor-Geral a vinda de técnicos estrangeiros de reconhecido valor, para o fim de realizarem palestras e cursos sôbre assuntos agropecuários.
 
-<strong>Art</strong>. 12. À Seção de Programação e Avaliação (SEPRA) compete:
+**Art**. 12. À Seção de Programação e Avaliação (SEPRA) compete:
 
 I - assessorar o Diretor-Geral no exame dos problemas relativos a planejamento, programação e avaliação das atividades a cargo do D.P.A., visando a harmonizar o trabalho dos diferentes órgãos, em função das diretrizes do Ministério e da agricultura do País;
 
@@ -216,11 +214,11 @@ III - cooperar na implantação da programação aprovada;
 
 IV - prestar ao Conselho de Diretores a cooperação indispensável ao levantamento de necessidades e ao exame das tarefas atinentes ao D.P.A.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Junta Deliberativa de Revenda</em>
+*Da Junta Deliberativa de Revenda*
 
-<strong>Art</strong>. 13. À Junta Deliberativa de Revenda (J.D.) compete:
+**Art**. 13. À Junta Deliberativa de Revenda (J.D.) compete:
 
 I - estabelecer o plano geral de revenda de material agropecuário;
 
@@ -236,7 +234,7 @@ VI - opinar nas concorrências e coletas de preços realizados pelo S.R.M.A.;
 
 VII - tomar conhecimento da aplicação dos recursos financeiros postos à disposição do S.R.M.A.
 
-<strong>Art</strong>. 14. A J.D. funcionária com a maioria absoluta de membros e, dentro de sua competência consultiva e orientadora, deliberará por maioria.
+**Art**. 14. A J.D. funcionária com a maioria absoluta de membros e, dentro de sua competência consultiva e orientadora, deliberará por maioria.
 
 § 1º Auxiliará os trabalhos da J.D., na qualidade de seu Secretário, o Auxiliar do Diretor do S.R.M.A. sem prejuízo das suas atribuições normais.
 
@@ -248,11 +246,11 @@ VII - tomar conhecimento da aplicação dos recursos financeiros postos à dispo
 
 § 5º Quando necessário, o Presidente da J.D. poderá convocar para tomar parte nos trabalhos da mesma, os dirigentes ou representantes de quaisquer órgão ou entidades cujas atividades interessem ao problema em estudo.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Serviço de Promoção Agropecuário</em>
+*Do Serviço de Promoção Agropecuário*
 
-<strong>Art</strong>. 15. Ao Serviço de Promoção Agropecuária, compete:
+**Art**. 15. Ao Serviço de Promoção Agropecuária, compete:
 
 I - Planejar, programar, promover e controlar as atividades de produção vegetal e animal;
 
@@ -266,7 +264,7 @@ V - proceder à avaliação do desenvolvimento das atividades de extensão rural
 
 VI - planejar, programar e promover a eletrificação rural;
 
-<strong>Art</strong>. 16. À Seção de Fomento Animal (S.F.A.) compete:
+**Art**. 16. À Seção de Fomento Animal (S.F.A.) compete:
 
 I - planejar, promover, executar e fiscalizar toda e qualquer medida que, direta ou indiretamente, se relacione com a expansão da pecuária;
 
@@ -310,7 +308,7 @@ I - promover e difundir, em colaboração com o Departamento de Pesquisas e Expe
 
 II - emitir parecer de natureza técnica, por iniciativa própria ou decorrente de exigência administrativa, nos assuntos pertinentes à inseminação artificial.
 
-<strong>Art</strong>. 17. À Seção de Fomento Vegetal (S.F.V.) compete:
+**Art**. 17. À Seção de Fomento Vegetal (S.F.V.) compete:
 
 I - divulgar, em colaboração com outros órgãos e, em especial, com o Serviço de Informação Agrícola, ou outras organizações, métodos e processos econômicos de aperfeiçoamento, armazenagem, ensilagem e transformação de produtos agrícolas;
 
@@ -346,7 +344,7 @@ II - colaborar com o Departamento de Pesquisas e Experimentação Agropecuária 
 
 III - emitir pareceres de natureza técnica, por iniciativa própria ou decorrente de exigência administrativa, nos assuntos pertinentes às plantas leguminosas, cerealíferas e tuberosas.
 
-<strong>Art</strong>.18 À Seção de Extensão Rural (S.Ex.R.) compete:
+**Art**.18 À Seção de Extensão Rural (S.Ex.R.) compete:
 
 I - estudar e planejar método de extensão rural capazes de influenciar o meio rural;
 
@@ -364,7 +362,7 @@ VII - suplementar as atividades do Departamento de Defesa a Inspeção Agropecu�
 
 VIII - avaliar o desenvolvimento das atividades de extensão rural e concorrer para o desenvolvimento dos clubes agrícolas.
 
-<strong>Art</strong>. 19 - À Seção de Mecanização Agrícola (S.M.A.) compete:
+**Art**. 19 - À Seção de Mecanização Agrícola (S.M.A.) compete:
 
 I - realizar e controlar testes de tratores, máquinas e implementos de uso na agricultura;
 
@@ -382,7 +380,7 @@ VII - controlar o preço-hora das operações realizadas pelas patrulhas motomec
 
 VIII - estabelecer taxa-hora para prestação de serviços de máquinas do Ministério.
 
-<strong>Art</strong>. 20 À Seção de Conservação do Solo (S.C.S.) compete:
+**Art**. 20 À Seção de Conservação do Solo (S.C.S.) compete:
 
 I - realizar demonstrações que permitam a indicação, nas diferentes regiões do país, da capacidade do uso racional do solo;
 
@@ -404,11 +402,11 @@ IX - estudar, planejar e programar a criação de áreas de demonstração conse
 
 X - ativar as técnicas de conservação do solo, segundo processos edáficos, mecânicos e vegetativos.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Serviço de Produtos de Sementes e Mudas</em>
+*Do Serviço de Produtos de Sementes e Mudas*
 
-<strong>Art</strong>. 21. Ao Serviço de Produção de Sementes e Mudas (SPSM) compete:
+**Art**. 21. Ao Serviço de Produção de Sementes e Mudas (SPSM) compete:
 
 I - estimular e contribuir para disciplinar as atividades privadas de produção e comércio de sementes e mudas;
 
@@ -416,7 +414,7 @@ II - promover a produção de sementes e mudas, através dos serviços locais es
 
 III - contribuir para a difusão das práticas racionais de produção e utilização de sementes e mudas.
 
-<strong>Art</strong>. 22. À Seção de Orientação e Contrôle (S.O.C.) compete:
+**Art**. 22. À Seção de Orientação e Contrôle (S.O.C.) compete:
 
 I - promover estudos referentes ao armazenamento, ensilagem e conservação de sementes destinadas à multiplicação;
 
@@ -436,9 +434,9 @@ VIII - elaborar normas para orientação e melhoramento da produção de semente
 
 X - elaborar as tabelas de preços para venda de sementes e mudas produzidas nas dependências do D.P.A.;
 
-XI <em>–</em> Prestar assistência especializada aos viveiristas e a associações de assistências de produtores de sementes.
+XI *–* Prestar assistência especializada aos viveiristas e a associações de assistências de produtores de sementes.
 
-<strong>Art</strong>. 23. Ao Laboratório de Análise compete:
+**Art**. 23. Ao Laboratório de Análise compete:
 
 I - realizar, obrigatoriamente, análises das sementes entradas pelo pôrto da Guanabara;
 
@@ -452,11 +450,11 @@ V - estudar e propor padrões uniformes de análise e etiquetagem de sementes, v
 
 VI - realizar, pelos laboratórios regionais, análise de sementes entradas pelos diferentes portos do país.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Serviço de Revenda de Material Agropecuário</em>
+*Do Serviço de Revenda de Material Agropecuário*
 
-<strong>Art</strong>. 24. Ao Serviço de Revenda de Material Agropecuário (S.R.M.A.) compete:
+**Art**. 24. Ao Serviço de Revenda de Material Agropecuário (S.R.M.A.) compete:
 
 I - planejar e promover a aquisição e revenda de materiais agropecuários, reprodutores, sementes e mudas;
 
@@ -464,7 +462,7 @@ II - controlar os estoques e as operações financeiras de venda e revenda;
 
 III - centralizar a movimentação de recursos financeiros destinados a aquisição e revenda de materiais agropecuários, de acôrdo com o plano geral aprovado pela Comissão de Planejamento da Política Agrícola.
 
-<strong>Art</strong>. 25. À Seção Técnica (S.T.) compete:
+**Art**. 25. À Seção Técnica (S.T.) compete:
 
 I - examinar e instruir dentro dos prazos fixados, os pedidos de revenda de materiais agropecuários e de reprodutores;
 
@@ -478,7 +476,7 @@ V - propor métodos de racionalização e aperfeiçoamento dos processos de reve
 
 VI - proceder ao exame técnico dos materiais para efeito de recebimento.
 
-<strong>Art</strong>. 26. À Seção de Compras e Cadastro (S.C.C.) compete:
+**Art**. 26. À Seção de Compras e Cadastro (S.C.C.) compete:
 
 I - realizar concorrências e coletas de preços para aquisição dos materiais agrícolas, reprodutores sementes e mudas destinadas à revenda;
 
@@ -494,7 +492,7 @@ VI - articulara-se com as Turmas de Revenda nos Estados, visando assegurar a uni
 
 VII - propor as exigencias a serem feitas, em cada caso, para o recebimento e verificação do material adquirido.
 
-<strong>Art</strong>. 27. À Seção de Distribuição e Contrôle (S.D.C.) compete:
+**Art**. 27. À Seção de Distribuição e Contrôle (S.D.C.) compete:
 
 I - organizar o plano de distribuição de materiais às Turmas de Revenda nos Estados e Territórios, tendo em vista os planos de revenda aprovados pela Junta Deliberativa;
 
@@ -512,7 +510,7 @@ VII - manter atualizado o contrôle de entrada e saída de material;
 
 VIII - providenciar quando autorizada reparos e recuperação do material sob sua responsabilidade.
 
-<strong>Art</strong>. 28. À Seção de Contabilidade (S.C) compete:
+**Art**. 28. À Seção de Contabilidade (S.C) compete:
 
 I - contabilizar as operações orçamentárias, financeiras e patrimoniais do S.R.M.A.
 
@@ -540,11 +538,11 @@ III - expedir avisos de pagamento ou cobrnaça;
 
 IV - levantar, diáriamente o balanço físico do numerário e, mensalmente, o balancete da receita e despesa.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Divisão de Treinamento</em>
+*Da Divisão de Treinamento*
 
-<strong>Art</strong>. 29 À Divisão de Treinamento (D.T.) compete:
+**Art**. 29 À Divisão de Treinamento (D.T.) compete:
 
 I – levantar as necessidades de treinamento do pessoal técnico do D.P.A.;
 
@@ -562,11 +560,11 @@ VII - Colaborar com a Comissão de Intercâmbio e Cooordenação da Assistência
 
 VIII - Executar através dos seus Centros de Treinamento e de cursos avulsos realizados em outras unidades agropecuárias do Ministério da Agricultura ou promovidos em colaboração com entidades que atuam no meio rural os programas elaborados:
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Da Divisão de Cooperativismo e Organização Rural</em>
+*Da Divisão de Cooperativismo e Organização Rural*
 
-<strong>Art</strong>. 30 À Divisão de Cooperativismo e Organização Rural (D.C.O.R.) compete:
+**Art**. 30 À Divisão de Cooperativismo e Organização Rural (D.C.O.R.) compete:
 
 I - realizar estudos e pesquisas sôbre a organização rural e propor medidas delas decorrentes;
 
@@ -576,7 +574,7 @@ III - atuar em colaboração com os órgãos do Ministérios do Trablaho e da Su
 
 IV - establecer normas, proceder ao registro e promover a fiscalização do funcionamento das cooperativas e de outras entidades de associativismo rural.
 
-<strong>Art</strong>. 31. À Seção de Estudos, Planejamento e Implantação do Cooperativismo (S.E.P.I.C.) compete:
+**Art**. 31. À Seção de Estudos, Planejamento e Implantação do Cooperativismo (S.E.P.I.C.) compete:
 
 I - promover a propaganda, a divulgação e o ensino da organização cooperativista e, em colaboração com a Seção de Administração e Organização rural, do associativismo rural em seus múltiplos aspectos;
 
@@ -608,7 +606,7 @@ XIV assistir, quando houver conveniência, às asssembléias gerais das associa�
 
 XV - incrementar o desenvolvimento das relações entre as cooperativas;
 
-<strong>Art</strong>. 3º À Seção de Administração e Organização Rural (S.A.O.R.) compete:
+**Art**. 3º À Seção de Administração e Organização Rural (S.A.O.R.) compete:
 
 I - proceder ao exame dos pedidos do reconhecimento das Associações e Federações Rurais,intruindo-os, na forma da legislação, para despacho final;
 
@@ -630,7 +628,7 @@ IX - examinar os planos de aplicação técnica das subvenções destinadas ao p
 
 X - propor convênios para orientação e fiscalização das Associacões Rurais e outros, visando à execução dos serviços de interêsse comum.
 
-<strong>Art</strong>. 33. À Seção de Registro e Fiscalização (S.R.F.) compete;
+**Art**. 33. À Seção de Registro e Fiscalização (S.R.F.) compete;
 
 I - observar e fazer cumprir as leis, regulamentos e demais disposições oficiais que regem a organização cooperativista;
 
@@ -646,11 +644,11 @@ VI - efetuar a estatística anual das cooperativas existentes no país, de suas 
 
 VII - colaborar na solução das questões administrativas ou técnicas das sociedades sob sua fiscalização.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Da Seção de Administração</em>
+*Da Seção de Administração*
 
-<strong>Art</strong>. 34. À Seção de Administração (S.A.-D.P.A.) compete prestar os serviços de administração geral que se fizerem necessários à execução dos trabalhos do D.P.A.
+**Art**. 34. À Seção de Administração (S.A.-D.P.A.) compete prestar os serviços de administração geral que se fizerem necessários à execução dos trabalhos do D.P.A.
 
 § 1º À Turma de Comunicações (T.C.) compete:
 
@@ -660,7 +658,7 @@ II - atender ao público em seus pedidos de informações, bem como orientá-lo 
 
 III - expedir certidões, exceto as relativas a tempo de serviço prestado ao D.P.A.;
 
-IV - providenciar a publicação, no <em>Diário Oficial</em> do expediente do D.P.A.
+IV - providenciar a publicação, no *Diário Oficial* do expediente do D.P.A.
 
 § 2º À Turma de Material e Cadastro Fundiário(T.M.) compete:
 
@@ -712,11 +710,11 @@ II - fornecer à Turma de Orçamento os dados necessários à elaboração da pr
 
 III - orientar e fiscalizar a aplicação, pelos órgãos integrantes do D.P.A. da legislação relativa a pessoal e das normas e instruções baixadas pela Divisão do Pessoal.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Da Biblioteca</em>
+*Da Biblioteca*
 
-<strong>Art</strong>. 35. A Biblioteca compete:
+**Art**. 35. A Biblioteca compete:
 
 I - registrar, classificar, catalogar, guardar e conservar obras de interêsse do D.P.A.;
 
@@ -726,11 +724,11 @@ III - emprestar, por prazo determinado, livros e publicações pertencentes à B
 
 IV - providenciar a aquisição de obras e revistas técnicas sugeridas pelos órgãos do D.P.A.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>Das Turmas de Administração</em>
+*Das Turmas de Administração*
 
-<strong>Art</strong>. 36. As Turmas de Administração (T.A.) compete:
+**Art**. 36. As Turmas de Administração (T.A.) compete:
 
 I - articular-se com a S.A. do Departamento de Promoções Agropecuárias, no que disser respeito aos trabalhos das Divisões, Serviços, Inspetorias e Fazendas a que pertencem;
 
@@ -738,11 +736,11 @@ II - executar os trabalhos datilográficos e mimeográficos, ou outros da respec
 
 III - organizar os processos de prestação de contas de suprimentos e adiantamentos concedidos a funcionários da respectiva repartição.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>Dos Serviços Federais de Promoção Agropecuária</em>
+*Dos Serviços Federais de Promoção Agropecuária*
 
-<strong>Art</strong>. 37. Aos Serviços Federais de Promoção Agropecuária (SFPA) compete:
+**Art**. 37. Aos Serviços Federais de Promoção Agropecuária (SFPA) compete:
 
 I - executar, na sua área de ação e de conformidade com as instruções do Diretor Geral do D.P.A. todos os trabalhos pertinentes ao Departamento;
 
@@ -758,7 +756,7 @@ VI - fiscalizar tôdas as atividades técnicas pertinentes ao D.P.A. realizadas 
 
 VII - providenciar o cadastro das propriedades da União sob a administração do D.P.A. em colaboração com o Delegado Estadual do Serviço do Patrimônio da União.
 
-<strong>Art</strong>. 38. A Turma de Revenda nos Estados e Territórios compete:
+**Art**. 38. A Turma de Revenda nos Estados e Territórios compete:
 
 I - proceder à venda e a revenda de materiais agropecuários, reprodutores sementes e mudas;
 
@@ -774,11 +772,11 @@ VI - elaborar, mensalmente, remeter ao S.R.M.A., mapas e demonstrativos do movim
 
 VII - encaminhar, mensalmente, ao Conselho do Fundo Federal Agropecuário, por intermédio so S.R.M.A. cópias das guias dos recolhimentos efetuados;
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>Das Fazendas Regionais de Produção de Semente Melhorada</em>
+*Das Fazendas Regionais de Produção de Semente Melhorada*
 
-<strong>Art</strong>. 39. As Fazendas Regionais de Produção de Sementes Melhoradas (F. R. P. S. M.) compete;
+**Art**. 39. As Fazendas Regionais de Produção de Sementes Melhoradas (F. R. P. S. M.) compete;
 
 I - produzir e multiplicar sementes e mudas de plantas de valor econômico;
 
@@ -802,11 +800,11 @@ X - fiscalizar a execução das normas baixadas pelo S.P.S.M. referentes à prod
 
 XI - orientar, técnicamente, os Campos de Sementes e Mudas instalados na respectiva região.
 
-<strong>CAPÍTULO XIII</strong>
+**CAPÍTULO XIII**
 
-<em>Das Fazendas Regionais de Criação</em>
+*Das Fazendas Regionais de Criação*
 
-<strong>Art</strong>. 40. As Fazendas Regionais de Criação (F.R.C) compete:
+**Art**. 40. As Fazendas Regionais de Criação (F.R.C) compete:
 
 I - produzir, para venda, reprodutores das diversas espécies animais indicadas como úteis econômicamente à região;
 
@@ -848,13 +846,13 @@ XIX - manter informes dos males que assolam a pecuária regional;
 
 XX - fornecer com o S.P.S.M. a produção de sementes de forrageiras.
 
-<strong>CAPÍTULO XIV</strong>
+**CAPÍTULO XIV**
 
-<em>Dos Centros de Treinamento</em>
+*Dos Centros de Treinamento*
 
-<strong>Art</strong>. 41. Aos Centros de Treinamento (C.T.) compete realizar cursos e outras atividades de treinamento e capacitação no interêsse do D.P.A., visando ao aperfeiçoamento do pessoal do Ministério e dos agricultores e criadores em geral.
+**Art**. 41. Aos Centros de Treinamento (C.T.) compete realizar cursos e outras atividades de treinamento e capacitação no interêsse do D.P.A., visando ao aperfeiçoamento do pessoal do Ministério e dos agricultores e criadores em geral.
 
-<strong>Art</strong>. 42. A Secretaria dos Centros de Treinamento compete:
+**Art**. 42. A Secretaria dos Centros de Treinamento compete:
 
 I - providenciar a inscrição dos candidatos a cursos;
 
@@ -870,11 +868,11 @@ VI - organizar e ter sob sua guarda o arquivo especial do Centro;
 
 VII - organizar estimativas das despesas com material pessoal e serviços à realização dos cursos.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 43. Ao Diretor-Geral do DPA, incumbe:
+**Art**. 43. Ao Diretor-Geral do DPA, incumbe:
 
 I - superintender, de acôrdo com a legislação, normas e instruções vigentes, as atividades a cargo do Departamento;
 
@@ -932,7 +930,7 @@ XXVII - autorizar a provar de acôrdo com a legislação vigente, coletas de pre
 
 XXVIII - exercer quaisquer outras atribuições que lhe competirem por êste Regimento ou lhe forem cometidas pelo Secretário-Geral da Agricultura ou pelo Ministro de Estado.
 
-<strong>Art</strong>. 44. Aos Diretores de Divisão e de Serviços a aos Chefes da SEPRA e da SA no que lhes couber, incumbe:
+**Art**. 44. Aos Diretores de Divisão e de Serviços a aos Chefes da SEPRA e da SA no que lhes couber, incumbe:
 
 I - dirigir, coordenar, orientar e fiscalizar os trabalhos a cargo da respectiva Divisão, Serviço ou Seção, estabelecendo normas e métodos para execução dos mesmos;
 
@@ -1016,7 +1014,7 @@ VI - assinar diplomas e certificados de conclusão de cursos;
 
 VII - julgar recursos de revisão de provas e outros de sua alçada.
 
-<strong>Art</strong>. 45. Aos Chefes de Seção Biblioteca, Setor Laboratório, Secretarias dos Centros de Treinamento e aos Encarregados de Turma incumbe:
+**Art**. 45. Aos Chefes de Seção Biblioteca, Setor Laboratório, Secretarias dos Centros de Treinamento e aos Encarregados de Turma incumbe:
 
 I - dirigir e fiscalizar os trabalhos das respectivas unidades administrativas;
 
@@ -1054,7 +1052,7 @@ III - tomar as providências que se fizerem necessárias à realização das aul
 
 IV - estabelecer, ouvidos os respectivos professôres o horário e o local das aulas e outras atividades afetas ao Centro.
 
-<strong>Art</strong>. 46. Aos Chefes do Serviço Federal de Fazenda Regional e de Centro de Treinamento incumbe:
+**Art**. 46. Aos Chefes do Serviço Federal de Fazenda Regional e de Centro de Treinamento incumbe:
 
 I - orientar, coordenar e dirigir os serviços da respectiva repartição;
 
@@ -1108,9 +1106,9 @@ XXV - atender às solicitações de esclarecimentos quanto aos trabalhos em anda
 
 XXVI - designar e dispensar, quando lhe forem diretamente subordinados, os ocupantes de funções gratificadas e seus substitutos eventuais.
 
-<strong>Art</strong>. 47. Aos Assessôres incumbe o desempenho das atribuições de natureza especializada que lhes forem cometidas pelos respectivos superiores hierárquicos.
+**Art**. 47. Aos Assessôres incumbe o desempenho das atribuições de natureza especializada que lhes forem cometidas pelos respectivos superiores hierárquicos.
 
-<strong>Art</strong>. 48. Aos Assessôres das Inspetoras Federais incumbe:
+**Art**. 48. Aos Assessôres das Inspetoras Federais incumbe:
 
 I - assistir, orientar e coordenar, dentro das respectivas especialidades, os trabalhos técnicos à cargo do D P A, executados na área sob jurisdição da Inspetoria;
 
@@ -1120,7 +1118,7 @@ III - dar parecer técnico nas prestações de contas dos suprimentos e adiantam
 
 IV - prestar assistência técnica aos agricultores locais inclusive na elaboração de projetos plantas e especificações de engenharia rural, respeitados os limites das atribuições profissionais.
 
-<strong>Art</strong>. 49. Aos Secretários do Diretor Geral e dos Diretores incumbe:
+**Art**. 49. Aos Secretários do Diretor Geral e dos Diretores incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com a autoridade junto à qual servirem encaminhando-as ou dando a esta conhecimento do assunto a tratar;
 
@@ -1128,37 +1126,37 @@ II - realizar outras tarefas de administração geral que lhes forem cometidas p
 
 III - redigir a correspondência que lhe fôr determinada.
 
-<strong>Art</strong>. 50. Aos Auxiliares do Diretor-Geral e dos Diretores incumbe:
+**Art**. 50. Aos Auxiliares do Diretor-Geral e dos Diretores incumbe:
 
 I - organizar e manter atualizado o contrôle da movimentação de processos submetidos a despacho da autoridade a que estiverem subordinados;
 
 II - executar trabalhos de datilografia e outros que lhes forem determinados.
 
-<strong>Art</strong>. 51. Aos demais servidores, sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 51. Aos demais servidores, sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 52. O D.P.A. terá a lotação que fôr aprovada por decreto.
+**Art**. 52. O D.P.A. terá a lotação que fôr aprovada por decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação poderá o D.P.A. dispor de pessoal requisitado, na forma da legislação em vigor.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 53. O horário normal de trabalho é o fixado para o Serviço Público Federal respeitados os regimes especiais estabelecidos na legislação vigente.
+**Art**. 53. O horário normal de trabalho é o fixado para o Serviço Público Federal respeitados os regimes especiais estabelecidos na legislação vigente.
 
 § 1º Poderá ser estabelecido horário especial, condizente com o gênero das atividades do D.P.A., desde que observado o número normal de horas semanais ou mensais.
 
 § 2º Nos trabalhos em que houver necessidade de revezamentos, observar-se-á a escala de distribuição dos servidores que fôr aprovada pelo respectivo Chefe.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 54. Serão substituídos, automaticamente, em suas faltas e impedimentos:
+**Art**. 54. Serão substituídos, automaticamente, em suas faltas e impedimentos:
 
 I - O Diretor-Geral, pelo Diretor de Divisão ou Serviço, por elê indicado e designado pelo Ministro de Estado;
 
@@ -1166,23 +1164,23 @@ II - Os Diretores de Divisão e Serviço, por um ocupante de função gratificad
 
 III - Os Chefes de Serviços, Fazenda Regional, Centro de Treinamento, Laboratório, Biblioteca, Setor, Secretaria e os Encarregados de Turmak, por servidores por êles indicados e designados pela autoridade competente.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 55. O Diretor-Geral de D.P.A. baixará normas e instruções, dispondo sôbre o funcionamento e coordenação das atividades das unidades integrantes do D.P.A.
+**Art**. 55. O Diretor-Geral de D.P.A. baixará normas e instruções, dispondo sôbre o funcionamento e coordenação das atividades das unidades integrantes do D.P.A.
 
-<strong>Art</strong>. 56. Nos locais em que não estejam ainda em pleno desenvolvimento os trabalhos de extensão rural a cargo do D.P.A., serão êstes exercidos pelos Serviços de Extensão Rural existentes nos Estados, filiados à Associação Brasileira de Crédito e Assistência Rural (ABCAR), mediante convênio com essa realizada, integrando-se dentro do programa do D.P.A.
+**Art**. 56. Nos locais em que não estejam ainda em pleno desenvolvimento os trabalhos de extensão rural a cargo do D.P.A., serão êstes exercidos pelos Serviços de Extensão Rural existentes nos Estados, filiados à Associação Brasileira de Crédito e Assistência Rural (ABCAR), mediante convênio com essa realizada, integrando-se dentro do programa do D.P.A.
 
-<strong>Art</strong>. 57. Os Postos Agropecuários serão criados por decreto, obedecidas as instruções regulamentares baixadas pelo Diretor-Geral do DPA, e aprovadas pelo Ministro de Estado.
+**Art**. 57. Os Postos Agropecuários serão criados por decreto, obedecidas as instruções regulamentares baixadas pelo Diretor-Geral do DPA, e aprovadas pelo Ministro de Estado.
 
-<strong>Art</strong>. 58. As Fazendas Regionais, Postos Agropecuários, Patrulhas Mecano e Moto mecanizadas, Patrulhas Móveis de Irrigação e Campos de Sementes e Mudas serão regidos por ato do Diretor-Geral, aprovado pelo Ministro de Estado.
+**Art**. 58. As Fazendas Regionais, Postos Agropecuários, Patrulhas Mecano e Moto mecanizadas, Patrulhas Móveis de Irrigação e Campos de Sementes e Mudas serão regidos por ato do Diretor-Geral, aprovado pelo Ministro de Estado.
 
-<strong>TÍTULO IX</strong>
+**TÍTULO IX**
 
-<em>Das Disposições Transitórias</em>
+*Das Disposições Transitórias*
 
-<strong>Art</strong>. 59. Fica criada no DPA a Campanha de Eletrificação Rural, até que seja criado um Serviço equivalente, cujos objetivos são os seguintes:
+**Art**. 59. Fica criada no DPA a Campanha de Eletrificação Rural, até que seja criado um Serviço equivalente, cujos objetivos são os seguintes:
 
 I - difundir, em colaboração com a “Rádio Rural” e o Movimento de Educação de Base (MEB), as vantagens de utilização de fôrça e energia elétrica no meio rural;
 
@@ -1204,136 +1202,134 @@ VIII - estudar a possibilidade de organização de uma sociedade de economia mis
 
 § 2º A campanha terá programas e projetos aprovados pelo Ministro de Estado e financiados com os recursos do Ministério da Agricultura, inclusive do FFAP, podendo contar com a ajuda financeira, para qualquer modalidade de trabalho dentro de sua competência, de entidades públicas ou privadas, nacionais ou estrangeiras.
 
-<strong>Art</strong>. 61. Os casos omissos serão resolvidos pelo Ministro da Agricultura.
+**Art**. 61. Os casos omissos serão resolvidos pelo Ministro da Agricultura.
 
 Brasília, 8 de agôsto de 1963.
 
-<strong>OSWALDO LIMA FILHO</strong>
+**OSWALDO LIMA FILHO**
 
-###DEC-052342-0-000-08-08-1963@@@RET01+++
+**DECRETO Nº 52.342, DE 8 DE AGÔSTO DE 1963.**
 
-<strong>DECRETO Nº 52.342, DE 8 DE AGÔSTO DE 1963.</strong>
+***Aprova o Regimento do Departamento de Promoção Agropecuária do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento do Departamento de Promoção Agropecuária do Ministério da Agricultura.</strong></em>
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 Na página 7.163, 3ª coluna, artigo 2º,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... Semente Melhorada - (F. R. P. S. H.);
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... Semente Melhorada - (F. R. P. S. M.);
 
 Na página 7.164, 1ª coluna, artigo 14º,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... A. J.D. funcionária com a ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... A. J.D. funcionará com a ...
 
 No artigo 16, parágrafo 16, item I,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... de Sementes, Mudas e estacas ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... de Sementes e Mudas, a distribuição de sementes, mudas e estacas ...
 
 Na 2ª coluna, no mesmo artigo, parágrafo 2º, item I,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... apicultura, sericicultura,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... apicultura, sericicultura e cunicultura;
 
 No artigo 17, parágrafo 1º, alínea “a”,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... através do S.F.P.A., as práticas ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 Através dos IFEPA, as práticas ...
 
-Na alínea “<em>b</em>”,
+Na alínea “*b*”,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... através dos SFPA, práticas racionais ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... através dos IFEPA, práticas racionais ...
 
-Na 3º coluna, no parágrafo 2º, alínea “<em>b</em>”,
+Na 3º coluna, no parágrafo 2º, alínea “*b*”,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LE</strong></u><strong>:</strong>
+**ONDESELE:**
 
 ... através dos SFPA, as práticas ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... através dos IFEPA, as práticas ...
 
 No parágrafo 3º, item I,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... através dos SFPA, as práticas ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... através dos IFEPA, as práticas ...
 
 Na página 7.165, 2ª coluna, artigo 28,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 VII - fornecer os elementos para cobrança ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE:</strong></u>
+**LEIA\-SE:**
 
 VIII - fornecer os elementos para cobrança ...
 
 Na 3ª coluna, artigo 29,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 VII - Executar através dos seus Centros ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 VIII - Executar através dos seus Centros ...
 
 Na 3ª coluna,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 Artigo 3º - À Seção de Administração ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 Artigo 32. À Seção de Administração ...
 
 Na página 7.167, 3ª coluna, artigo 44, parágrafo 1º,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 § 1º - Ao Diretor do S.R.M.M. incumbe, ainda;
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 § 1º - Ao Diretor do S.R.M.A., incumbe, ainda;

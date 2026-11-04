@@ -1,5 +1,3 @@
-###DEC-006229-0-000-09-10-2007@@@
-
 DECRETO Nº 6.229, DE 9 DE OUTUBRO DE 2007.
 
 Dá nova redação ao § 2o do art. 5o do Decreto no 4.732, de 10 de junho de 2003, que dispõe sobre a Câmara de Comércio Exterior - CAMEX, do Conselho de Governo.
@@ -73,5 +71,3 @@ Brasília, 9 de outubro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 10.10.2007.

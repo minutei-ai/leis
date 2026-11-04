@@ -1,7 +1,3 @@
-1
-
-###DEC-001595-0-000-17-08-1995@@@
-
 DECRETO nº 1.595, de agosto de 1995
 
 Altera, no Ministério do Exército, a subordinação da Diretoria de Assuntos Culturais, do Departamento de Ensino e Pesquisa para a Secretaria-Geral do Exército, e dá outras providências.

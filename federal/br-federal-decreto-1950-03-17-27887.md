@@ -1,14 +1,12 @@
-###DEC-027887-0-000-17-03-1950@@@
+**DECRETO Nº 27.887, DE 17 DE MARÇO DE 1950.**
 
-<strong>DECRETO Nº 27.887, DE 17 DE MARÇO DE 1950.</strong>
+***Modifica os arts. 26, da e 33 do Decreto n.º 14.947, de 6 de março de 1944,. e os arts. 4.º e 22. do Decreto nº 20.802, de 21 de março de 1946. (Regulamento da Escola Técnica do Exército).***
 
-<em><strong>Modifica os arts. 26, da e 33 do Decreto n.º 14.947, de 6 de março de 1944,. e os arts. 4.º e 22. do Decreto nº 20.802, de 21 de março de 1946. (Regulamento da Escola Técnica do Exército).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os arts. 26, 32 e 33 do Decreto n.º 14.947, de 6 de março de 1944, ficam assim modificados:
+**Art**. 1º Os arts. 26, 32 e 33 do Decreto n.º 14.947, de 6 de março de 1944, ficam assim modificados:
 
 “Art. 26. A matrícula nos cursos da Escola far-se-á por meio de concurso de admissão ao Curso de Preparação ou diretamente ao 1º ano dos Cursos Técnicos, tanto para oficiais da ativa como para civis candidatos ao Q. T. R. (Quadro Técnico da Reserva).
 
@@ -36,7 +34,7 @@ Art. 33. O concurso de admissão ao 1º ano dos Cursos Técnicos para oficiais d
 
 6ª prova - Desenho Técnico”.
 
-<strong>Art</strong>. 2º Os arts. 4º e 22 do Decreto nº 20.802, de 21 de março de 1946, ficam assim modificados:
+**Art**. 2º Os arts. 4º e 22 do Decreto nº 20.802, de 21 de março de 1946, ficam assim modificados:
 
 “Art. 4º O ensino da Escola desenvolve-se em três anos para os cursos técnicos e em um ano para o de Preparação.
 
@@ -46,12 +44,12 @@ Art. 33. O concurso de admissão ao 1º ano dos Cursos Técnicos para oficiais d
 
 § 3º Os Cursos são completados com estágio em estabelecimentos industriais civis ou militares.
 
-<strong>Art</strong>. 22. Os candidatos aprovados em concurso de admissão estarão habilitados à matrícula no Curso de Preparação, nas especialidades para as quais concorreram, de acôrdo com o número de vagas fixado pelo Ministro da Guerra e a classificação obtida no concurso”.
+**Art**. 22. Os candidatos aprovados em concurso de admissão estarão habilitados à matrícula no Curso de Preparação, nas especialidades para as quais concorreram, de acôrdo com o número de vagas fixado pelo Ministro da Guerra e a classificação obtida no concurso”.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
 
 Rio de Janeiro, 17 de março de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa

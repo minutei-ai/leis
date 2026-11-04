@@ -1,5 +1,3 @@
-###DEL-008242-0-000-28-11-1945@@@
-
 DECRETO-LEI  N. 8.242 – DE 28 DE NOVEMBRO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 225.670,00, para o fim que especifica.

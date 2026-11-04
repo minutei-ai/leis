@@ -1,5 +1,3 @@
-###DEC-093243-0-000-10-09-1986@@@
-
 DECRETO Nº 93.243, DE 10 DE SETEMBRO DE 1986
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra abrangida pelo Projeto de Irrigação ''Araras Norte'', nos Municípios de Varjota e Reriutaba, Estado do Ceará, para execução do Programa de Irrigação do Nordeste - PROINE, e dá outras providências.

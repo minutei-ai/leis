@@ -1,7 +1,3 @@
-1
-
-###DEC-097977-0-000-18-07-1989@@@
-
 DECRETO Nº 97.977, DE 18 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “PAIOL”, também conhecido como “PORTO DO PAIOL”, classificado como latifúndio por exploração, situado nos Municípios de Caxias e Parnarama, no Estado do Maranhão, compreendido na zona prioritária fixada pelo Decreto nº 92.619, de 2 de maio de 1986, e dá outras providências.

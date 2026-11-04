@@ -1,5 +1,3 @@
-###DEC-092314-0-000-21-01-1986@@@
-
 DECRETO Nº 92.314, DE 21 DE JANEIRO DE 1986
 
 Dispõe sobre a Embaixada do Brasil na República de Serra Leoa.

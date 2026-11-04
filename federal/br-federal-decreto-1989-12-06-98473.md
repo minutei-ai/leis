@@ -1,7 +1,3 @@
-1
-
-###DEC-098473-0-000-06-12-1989@@@
-
 DECRETO Nº 98.473, DE 06 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Ciências do Centro de Ensino Superior de Sant'Ana do Livramento.

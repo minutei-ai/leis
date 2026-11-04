@@ -1,5 +1,3 @@
-###DEC-054717-0-000-30-10-1964@@@
-
 DECRETO Nº 54.717, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Levindo Gonçalves da Silva a pesquisar feldspato no município de Governador Valadares, Estado de Minas Gerais.

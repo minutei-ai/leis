@@ -1,5 +1,3 @@
-###DEL-004099-0-000-06-02-1942@@@
-
 DECRETO-LEI N. 4.099 – DE 6 DE FEVEREIRO DE 1942
 
 Aprova o plano geral de uniformes para os oficiais e praça da Aeronáutica e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-048288-0-000-13-06-1960@@@
-
 DECRETO Nº 48.288, DE 13 DE JUNHO DE 1960.
 
 Regulamenta, para os militares da Marinha, a concessão da Licença Especial prevista na Lei nº 283 de 24 de maio de 1948.

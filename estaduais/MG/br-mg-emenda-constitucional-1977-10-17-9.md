@@ -91,7 +91,3 @@ O 2º Vice-Presidente - Haroldo Lopes da Costa
 O 3º Secretário - Amílcar Padovani
 
 O 4º Secretário - José Laviola
-
-\--------------------------------------------------------
-
-Data da última atualização: 22/2/2006.

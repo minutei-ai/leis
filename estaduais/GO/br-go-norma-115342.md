@@ -16,8 +16,14 @@ RENATA LACERDA NOLETO
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>4362-AGENCIA GOIANA DE HABITACAO S/A</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PROGRAMA HABITACIONAL APE CUSTO ZERO - FAR (FUNDO DE ARRENDAMENTO RESIDENCIAL)</td><td style=" width:85px;    ">16 482 1032 2623</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 11.674.866,26</td><td style=" width:85px;    ">R$ 11.674.866,26</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**4362-AGENCIA GOIANA DE HABITACAO S/A**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>PROGRAMA HABITACIONAL APE CUSTO ZERO - FAR (FUNDO DE ARRENDAMENTO RESIDENCIAL)</td><td>16 482 1032 2623</td><td>27610156</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 0,00</td><td>R$ 11.674.866,26</td><td>R$ 11.674.866,26</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 11.674.866,26</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 11.674.866,26</td></tr></tbody></table>
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 11.674.866,26
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 11.674.866,26

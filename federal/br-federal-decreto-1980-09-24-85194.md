@@ -1,5 +1,3 @@
-###DEC-085194-0-000-24-09-1980@@@
-
 Decreto nº 85.194, de 24 de setembro de1980.
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo do Centro de Ensino Superior Prof. Plínio Mendes dos Santos, em Campo Grande, Mato Grosso do Sul.

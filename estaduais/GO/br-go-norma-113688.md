@@ -24,7 +24,8 @@ Goiânia, 27 de março de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 [Manual de Redação do Governo do Estado de Goiás](https://goias.gov.br/casacivil/wp-content/uploads/sites/47/2026/03/Nova-Edicao-do-Manual-de-Redacao-do-Governo-do-Estado-de-Goias.pdf)

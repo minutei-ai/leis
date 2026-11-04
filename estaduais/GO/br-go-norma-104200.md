@@ -16,7 +16,8 @@ II – bar, restaurante, lanchonete e similares;
 
 III – eventos e shows;
 
-IV – locais de transporte de massa e agências de viagem;<br>
+IV – locais de transporte de massa e agências de viagem;
+
 \- [Redação dada pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
 ~~IV – estação de transporte de massa;~~
@@ -25,52 +26,68 @@ V – salão de beleza, casa de massagem, sauna, academia de ginástica e ativid
 
 VI – mercados, feiras, shoppings de qualquer porte e demais estabelecimentos de venda de produtos ao consumidor final.
 
-VII – condomínios verticais e horizontais, comerciais e residenciais;<br>
+VII – condomínios verticais e horizontais, comerciais e residenciais;
+
 \- [Acrescido pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
-VIII – supermercados e hipermercados;<br>
+VIII – supermercados e hipermercados;
+
 \- [Acrescido pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
-IX – clubes sociais e associações recreativas ou desportivas, cujo quadro de associados seja de livre acesso ou que promova eventos com entrada paga;<br>
+IX – clubes sociais e associações recreativas ou desportivas, cujo quadro de associados seja de livre acesso ou que promova eventos com entrada paga;
+
 \- [Acrescido pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
-X – postos de gasolina e demais locais de acesso público que se localizem nas rodovias;<br>
+X – postos de gasolina e demais locais de acesso público que se localizem nas rodovias;
+
 \- [Acrescido pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
-XI – nos seguintes locais de uso coletivo:<br>
+XI – nos seguintes locais de uso coletivo:
+
 \- [Acrescido pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
-a) aeroportos;<br>
+a) aeroportos;
+
 \- [Acrescida pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
-b) instituições de ensino;<br>
+b) instituições de ensino;
+
 \- [Acrescida pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
-c) instituições financeiras;<br>
+c) instituições financeiras;
+
 \- [Acrescida pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
-d) unidades de saúde;<br>
+d) unidades de saúde;
+
 \- [Acrescida pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
-e) terminais rodoviários.<br>
+e) terminais rodoviários.
+
 \- [Acrescida pela Lei nº 21.669, de 05-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106376/lei-21669).
 
-XII – escolas das redes pública e privada de ensino, quando realizarem aulas _on– line_, videoaulas ou teleaulas.<br>
+XII – escolas das redes pública e privada de ensino, quando realizarem aulas _on– line_, videoaulas ou teleaulas.
+
 \- [Acrescido pela Lei nº 21.857, 11-04-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106898/lei-21857).
 
-§ 1º ~~Parágrafo único~~. Enquadram-se nesta Lei todos os estabelecimentos comerciais situados às margens de rodovias.<br>
+§ 1º ~~Parágrafo único~~. Enquadram-se nesta Lei todos os estabelecimentos comerciais situados às margens de rodovias.
+
 \- [Constituído](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106898/lei-21857)  [§1º pela Lei nº 21.857, de 11-04-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106898/lei-21857).
 
-§ 2º Para os efeitos desta Lei, considera-se:<br>
+§ 2º Para os efeitos desta Lei, considera-se:
+
 \- [Acrescido pela Lei nº 21.857, de 11-04-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106898/lei-21857).
 
-I – teleaula: aula transmitida via satélite, ao vivo, que dispõe de estrutura tecnológica de produção de vídeo e possibilita a interação entre alunos e professores, por meio dos pólos de aprendizagem;<br>
+I – teleaula: aula transmitida via satélite, ao vivo, que dispõe de estrutura tecnológica de produção de vídeo e possibilita a interação entre alunos e professores, por meio dos pólos de aprendizagem;
+
 \- [Acrescido pela Lei nº 21.857, de 11-04-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106898/lei-21857).
 
-II – videoaula: aula gravada, editada e, posteriormente, disponibilizada em ambiente virtual de aprendizagem;<br>
+II – videoaula: aula gravada, editada e, posteriormente, disponibilizada em ambiente virtual de aprendizagem;
+
 \- [Acrescido pela Lei nº 21.857, de 11-04-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106898/lei-21857).
 
-III – aula _on– line_: aula ao vivo, transmitida via internet.<br>
+III – aula _on– line_: aula ao vivo, transmitida via internet.
+
 \- [Acrescido pela Lei nº 21.857, de 11-04-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106898/lei-21857).
 
 Art. 4º Os estabelecimentos públicos especificados nesta Lei deverão afixar placas com as seguintes frases:
@@ -90,8 +107,6 @@ II) – multa de R$1.000,00 (mil reais) a R$10.000,00 (dez mil reais) , podendo 
 Art. 6º Esta Lei entra em vigor 90 (noventa) dias após sua publicação.
 
 Goiânia, 7 de julho de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

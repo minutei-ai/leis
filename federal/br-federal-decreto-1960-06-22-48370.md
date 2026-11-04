@@ -1,5 +1,3 @@
-###DEC-048370-0-000-22-06-1960@@@
-
 DECRETO Nº 48.370, DE 22 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Manoel de Souza Camargo a pesquisar areia silicosa no município de Angra dos Reis, Estado do Rio de Janeiro.

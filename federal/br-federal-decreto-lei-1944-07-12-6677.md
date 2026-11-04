@@ -1,5 +1,3 @@
-###DEL-006677-0-000-12-07-1944@@@
-
 DECRETO-LEI N. 6.677 – DE 12 DE JULHO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 14.400,00, para pagamento de gratificação de magistério

@@ -1,5 +1,3 @@
-###DEC-091537-0-000-16-08-1985@@@
-
 DECRETO Nº 91.537, DE 16 DE AGOSTO DE 1985
 
 Acrescenta um parágrafo ao artigo 6º do Decreto nº 84.128, de 29 de outubro de 1979, que dispõe sobre o controle de recursos e dispêndios de empresas estatais, e dá outras providências.

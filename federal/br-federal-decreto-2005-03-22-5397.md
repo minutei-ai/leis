@@ -1,5 +1,3 @@
-###DEC-005397-0-000-22-03-2005@@@
-
 DECRETO Nº 5.397 DE 22 DE MARÇO DE 2005
 
 Dispõe sobre a composição, competência e funcionamento do Conselho Nacional de Combate à Discriminação - CNCD.

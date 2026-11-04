@@ -1,5 +1,3 @@
-###DEC-053805-0-000-23-03-1964@@@
-
 DECRETO Nº 53.805, de 23 de março de 1964.
 
 Autoriza o cidadão brasileiro Antônio Delalibera a pesquisar feldspato no Município de São João da Boa Vista, Estado de São Paulo.

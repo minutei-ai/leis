@@ -1,5 +1,3 @@
-###DEC-061498-0-000-10-10-1967@@@
-
 DECRETO Nº 61.498, DE 10 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública para fins de desapropriação ou constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde o distrito de Engenheiro Passos, no município de Rezende, Estado do Rio de Janeiro, até a cidade de Queluz, no Estado de São Paulo.

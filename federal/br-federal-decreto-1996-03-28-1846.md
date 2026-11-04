@@ -1,5 +1,3 @@
-###DEC-001846-0-000-28-03-1996@@@
-
 DECRETO Nº 1.846, DE 28 DE MARÇO DE 1996.
 
 Promulga o Protocolo de Alteração do Acordo sobre Transporte e Navegação, entre o Governo da República Federativa do Brasil e o Governo da República Portuguesa, de 10 de outubro de 1994.

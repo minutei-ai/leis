@@ -1,5 +1,3 @@
-###DEC-091958-0-000-19-11-1985@@@
-
 Decreto nº 91.958, de 19 de novembro de 1985.
 
 Cria a Comissão Organizadora da XIII Assembléia-Geral do Instituto Pan-Americano de Geografia e História.

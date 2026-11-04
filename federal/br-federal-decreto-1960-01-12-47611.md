@@ -1,5 +1,3 @@
-###DEC-047611-0-000-12-01-1960@@@
-
 DECRETO Nº 47.611, de 12 de janeiro de 1960.
 
 Altera discriminação de dispositivo do Decreto nº20.179, de 12 de dezembro de 1945.

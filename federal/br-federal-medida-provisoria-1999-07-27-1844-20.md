@@ -1,5 +1,3 @@
-###MPV-001844-0-020-27-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.844-20, DE 27 DE JULH0 DE 1999.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

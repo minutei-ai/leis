@@ -1,32 +1,30 @@
-###DEC-046427-0-000-14-07-1959@@@
+**DECRETO Nº 46.427, DE 14 DE JULHO DE 1959.**
 
-<strong>DECRETO Nº 46.427, DE 14 DE JULHO DE 1959.</strong>
+***Aprova o Regulamento para o Instituto de Pesquisas da Marinha.***
 
-<em><strong>Aprova o Regulamento para o Instituto de Pesquisas da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Instituto de Pesquisas da Marinha, que a êste acompanha, assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Instituto de Pesquisas da Marinha, que a êste acompanha, assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 14 de julho de 1959; 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Jorge do Paço Mattoso Maia
 
-<strong>REGULAMENTO PARA INSTITUTO DE PESQUISAS DA MARINHA</strong>
+**REGULAMENTO PARA INSTITUTO DE PESQUISAS DA MARINHA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos fins</em>
+*Dos fins*
 
-<strong>Art</strong>. 1º O Instituto de Pesquisas da Marinha (IPqM) é o estabelecimento da MB destinado a promover, realizar e incentivar as pesquisas, científicas e tecnológica no campo das ciências físicas e setores correlatos, tendo em mira a obtenção de materiais, equipamentos, técnicas e sistema apropriados para o uso da MB, levadas em conta as condições próprias do País.
+**Art**. 1º O Instituto de Pesquisas da Marinha (IPqM) é o estabelecimento da MB destinado a promover, realizar e incentivar as pesquisas, científicas e tecnológica no campo das ciências físicas e setores correlatos, tendo em mira a obtenção de materiais, equipamentos, técnicas e sistema apropriados para o uso da MB, levadas em conta as condições próprias do País.
 
-<strong>Art</strong>. 2º Para a consecução de sua finalidade, cabe especificamente ao IPqM:
+**Art**. 2º Para a consecução de sua finalidade, cabe especificamente ao IPqM:
 
 1 - Conduzir pesquisas e desenvolvimentos avançados em campos científicos que tenham possibilidade de se tornarem importantes para as operações navais.
 
@@ -44,17 +42,17 @@ Jorge do Paço Mattoso Maia
 
 Parágrafo único. O IPqM realiza seus trabalhos de acôrdo com os programas estabelecidos por seu Conselho Técnico e aprovados pelo Chefe do Estado-Maior da Armada.
 
-<strong>Art</strong>. 3º O IPqM é subordinado:
+**Art**. 3º O IPqM é subordinado:
 
 a) ao Estado-Maior da Armada quanto a contrôle técnico e de administração;
 
 b) ao 1º Distrito Naval, quanto a comando militar e contrôle de coordenação.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 4º Os trabalhos a cargo do IPqM são executados por meio de uma Diretoria, um Conselho Técnico, um Gabinete, Departamentos e uma Secretaria.
+**Art**. 4º Os trabalhos a cargo do IPqM são executados por meio de uma Diretoria, um Conselho Técnico, um Gabinete, Departamentos e uma Secretaria.
 
 § 1º A Diretoria compreende um Diretor, auxiliado por um Vice-Diretor e um Cientista Chefe.
 
@@ -62,7 +60,7 @@ b) ao 1º Distrito Naval, quanto a comando militar e contrôle de coordenação.
 
 § 3º O Gabinete é subordinado diretamente ao Diretor e a Secretaria ao Vice-Diretor.
 
-<strong>Art</strong>. 5º Os Departamentos são três, a saber:
+**Art**. 5º Os Departamentos são três, a saber:
 
 I - Departamento de Pesquisas (IPqM - 10);
 
@@ -70,11 +68,11 @@ II - Departamento de Contratos (IPqM - 20)
 
 III - Departamento de Administração - (IPqM - 30).
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 6º O IPqM dispõe do seguinte pessoal:
+**Art**. 6º O IPqM dispõe do seguinte pessoal:
 
 I - Diretor, Oficial General da ativa, do CETN ou do corpo da Armada;
 
@@ -96,9 +94,9 @@ VI - Tantas Praças do CPSA e CPSCFN quantas forem necessárias aos serviços, d
 
 VII - Tantos Servidores Civis das diferentes tabelas do Ministério da Marinha, e Contratados, quantos forem necessários aos serviços, de conformidade com o previsto no Regimento Interno.
 
-<strong>Art</strong>. 7º A nomeação, designação ou contrato de servidores civis será feita de acôrdo com a legislação e normas vigentes.
+**Art**. 7º A nomeação, designação ou contrato de servidores civis será feita de acôrdo com a legislação e normas vigentes.
 
-<strong>Art</strong>. 8º As seguintes funções exercidas por servidores civis são gratificadas de acôrdo com a legislação em vigor:
+**Art**. 8º As seguintes funções exercidas por servidores civis são gratificadas de acôrdo com a legislação em vigor:
 
 I - Cientista-Chefe, Chefe de Departamento e Chefe de Portaria;
 
@@ -106,23 +104,23 @@ II - Assessor técnico-científico;
 
 III - Secretário.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das disposições gerais</em>
+*Das disposições gerais*
 
-<strong>Art</strong>. 9º Êste Regulamento será complementado por um Regimento Interno, elaborado e aprovado de acôrdo com as normas em vigor.
+**Art**. 9º Êste Regulamento será complementado por um Regimento Interno, elaborado e aprovado de acôrdo com as normas em vigor.
 
-<strong>Art</strong>. 10. Será instituído o Fundo de Pesquisas da Marinha para atender às atividades do IPqM.
+**Art**. 10. Será instituído o Fundo de Pesquisas da Marinha para atender às atividades do IPqM.
 
-<strong>Art</strong>. 11. O Diretor do IPqM fica autorizado a baixar os atos necessários à doação das disposições do Presente Regulamento, até a aprovação do Regimento Interno.
+**Art**. 11. O Diretor do IPqM fica autorizado a baixar os atos necessários à doação das disposições do Presente Regulamento, até a aprovação do Regimento Interno.
 
-<strong>Art</strong>. 12. Fica revogado o Aviso número 3.198 de 1956 do MM que cria a Comissão de Instalação do Instituto de Pesquisas da Marinha, passando para a Diretoria do IPqM tôdas as atribuições daquela Comissão.
+**Art**. 12. Fica revogado o Aviso número 3.198 de 1956 do MM que cria a Comissão de Instalação do Instituto de Pesquisas da Marinha, passando para a Diretoria do IPqM tôdas as atribuições daquela Comissão.
 
-<strong>Art</strong>. 13. As atribuições, instalações e equipamentos do atual Departamento de Pesquisas da Diretoria de Eletrônica da Marinha são transferidas para o IPqM.
+**Art**. 13. As atribuições, instalações e equipamentos do atual Departamento de Pesquisas da Diretoria de Eletrônica da Marinha são transferidas para o IPqM.
 
-<strong>Art</strong>. 14. Durante o período de organização ou até posterior deliberação do Ministro da Marinha o IPqM ficará subordinado ao Ministro da Marinha.
+**Art**. 14. Durante o período de organização ou até posterior deliberação do Ministro da Marinha o IPqM ficará subordinado ao Ministro da Marinha.
 
-<strong>JORGE DO PAÇO MATTOSO MAIA</strong>
+**JORGE DO PAÇO MATTOSO MAIA**
 
 Almirante-de-Esquadra
 

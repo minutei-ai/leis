@@ -1,7 +1,3 @@
-1
-
-###DEC-099179-0-000-15-03-1990@@@
-
 DECRETO Nº 99.179, DE 15 DE MARÇO DE 1990
 
 Institui o Programa Federal de Desregulamentação.

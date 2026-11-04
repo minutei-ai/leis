@@ -1,5 +1,3 @@
-###DEC-094922-0-000-22-09-1987@@@
-
 DECRETO N° 94.922, DE 22 DE SETEMBRO DE 1987
 
 Institui a hora de verão no território nacional.

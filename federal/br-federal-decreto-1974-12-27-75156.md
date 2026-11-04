@@ -1,5 +1,3 @@
-###DEC-075156-0-000-27-12-1974@@@
-
 DECRETO Nº 75.156, DE 27 DE DEZEMBRO DE 1974.
 
 Fixa o preço mínimo líquido básico para financiamento ou aquisição de amêndoa de babaçu da safra de 1975-76, produzida nos Estados do Ceará, Goiás, Maranhão, Mato Grosso, Pará e Piauí.

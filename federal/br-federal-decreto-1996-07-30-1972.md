@@ -1,5 +1,3 @@
-###DEC-001972-0-000-30-07-1996@@@
-
 DECRETO Nº 1.972, DE 30 DE JULHO DE 1996.
 
 Altera a redação do art. 2° do Decreto nº 1.507, de 30 de maio de 1995, que cria a Comissão Nacional de Segurança Pública nos Portos, Terminais e Vias Navegáveis, e dá outras providências.

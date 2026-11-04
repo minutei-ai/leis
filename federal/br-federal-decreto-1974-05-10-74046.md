@@ -1,5 +1,3 @@
-###DEC-074046-0-000-10-05-1974@@@
-
 DECRETO Nº 74.046, DE 10 DE MAIO DE 1974.
 
 Dispõe sobre retificação do enquadramento de servidor do Ministério do Exército.

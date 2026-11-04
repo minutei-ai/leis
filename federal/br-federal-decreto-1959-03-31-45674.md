@@ -1,5 +1,3 @@
-###DEC-045674-0-000-31-03-1959@@@
-
 decreto nº 45.674, de 31 de março de 1959.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$10.000.000,00, para auxiliar o Hospital Pró-Matre, do Distrito Federal.

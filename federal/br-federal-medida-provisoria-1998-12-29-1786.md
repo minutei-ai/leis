@@ -1,5 +1,3 @@
-###MPV-001786-0-000-29-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.786, DE 29 DE DEZEMBRO DE 1998.
 
 Acrescenta os §§ 1º e 2º ao art. 17 da Lei nº 8.029, de 12 de abril de 1990, renumerado para art. 20, nos termos da Lei nº 8.154, de 28 de dezembro de 1990.

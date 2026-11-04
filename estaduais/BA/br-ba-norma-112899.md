@@ -4,7 +4,8 @@ Organiza o Ministério Público
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 OBJETIVO E COMPOSIÇÃO DO MINISTÉRIO PÚBLICO
 
 Art. 1º - O Ministério Público é órgão de defesa da lei e de sua fiel execução.
@@ -17,7 +18,8 @@ b) Na primeira instância: Na comarca da Capital: 7 Promotores Públicos; 1 Cura
 
 c) No interior do Estado: 1 Promotor em cada comarca, exceto nas de Ilhéus, Itabuna e Feira de Santana, onde haverá dois; 1 Adjunto de Promotor em cada termo Judiciário.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO PROVIMENTO
 
 Art. 3º - Os representantes do Ministério Público, exceto o Procurador Geral da Justiça, os Sub-Procuradores Gerais da Justiça e os Adjuntos de Promotor, serão classificados por entrâncias, correspondentes às das comarcas judiciárias em que servirem.
@@ -78,7 +80,8 @@ Art. 20 - Os cargos de Adjunto de Promotor da Capital poderão ser providos por 
 
 Art. 21 - Os adjuntos de Promotor, nos termos e comarcas do interior, são de livre nomeação e demissão do Governo, não podendo, porém, tomar posse sem apresentar as provas exigidas nas [letras a](https://www.legislabahia.ba.gov.br/documentos/lei-no-160-de-21-de-janeiro-de-1949#LO_160_Art__7_a) , [d](https://www.legislabahia.ba.gov.br/documentos/lei-no-160-de-21-de-janeiro-de-1949#LO_160_Art__7_d) e [f, do art. 7º](https://www.legislabahia.ba.gov.br/documentos/lei-no-160-de-21-de-janeiro-de-1949#LO_160_Art__7_f) .
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA NOMEAÇÃO, DO TÍTULO, DO COMPROMISSO, DA POSSE E DO EXERCÍCIO
 
 Art. 22 - O Procurador Geral da Justiça, demissível ad nutum, será nomeado pelo Governo do Estado, depois da aprovação pelo Poder Legislativo dentre bacharéis em direito, com mais de trinta anos de idade, de notório saber jurídico e reputação ilibada.
@@ -137,7 +140,8 @@ j) trânsito, quando removidos ou promovidos, não excedendo do prazo de 90 dias
 
 k) afastamento, nos termos do [artigo 83, § 1º, da Constituição do Estado](https://www.legislabahia.ba.gov.br/documentos/promulgada-em-2-de-agosto-de-1947#CE1947_Art__83_P_1) .
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA SECRETARIA
 
 Art. 32 - A Secretaria do Ministério Público, como órgão central de todos os seus serviços administrativos, nas duas instâncias, compor-se-á do seguinte pessoal, subordinado ao Procurador Geral da Justiça:
@@ -172,7 +176,8 @@ g) examinar atentamente os autos e papéis logo que lhe forem entregues para ver
 
 h) passar independente de despacho, as certidões de livros, documentos e autos, enquanto se acharem em seu poder, sem prejuízo, porém, de sua pronta expedição.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA MATRÍCULA E DA ANTIGUIDADE
 
 Art. 34 - Serão matriculados, obrigatoriamente e dentro de 30 dias da data da posse, na Secretaria do Ministério Público, todos os órgãos e auxiliares desse Ministério.
@@ -247,7 +252,8 @@ Art. 42 - Anualmente, no mês de fevereiro, deverá ser publicado, no Diário da
 
 § 4º - Se for deferida a reclamação, o Conselho mandará publicar nova lista.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA PROMOÇÃO, DA REMOÇÃO E DA PERMUTA
 
 Art. 43 - Os Sub-Procuradores da Justiça serão nomeados por livre escolha do Governador do Estado, dentre os membros de 4ª entrância do Ministério Público.
@@ -272,7 +278,8 @@ Art. 52 - É lícito ao membro do Ministério Público recusar promoção por me
 
 Art. 53 - A juízo do Procurador Geral da Justiça, poderão os representantes do Ministério Público permutar os seus cargos contanto que sejam estes de igual categoria e da mesma entrância.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DAS SUBSTITUIÇÕES
 
 Art. 54 - O Procurador Geral da Justiça será substituído nas suas faltas ou impedimentos pelo 1º Sub-Procurador Geral.
@@ -293,7 +300,8 @@ Art. 61 - No caso de transferência provisória da sede da comarca, para essa de
 
 Parágrafo único - Nessa hipótese, o Promotor Público será substituído, em suas faltas e impedimentos, pelo Adjunto do termo onde estiver a sede provisória da comarca.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DA PERDA DO CARGO
 
 Art. 62 - Os membros do Ministério Público nomeados em virtude de concurso, e os que tenham mais de cinco anos de exercício, salvo o Procurador Geral da Justiça, só perderão o cargo nos seguintes casos:
@@ -326,7 +334,8 @@ Art. 70 - Os efeitos da aposentadoria decorrerão da publicação do decreto no 
 
 Art. 71 - O representante do Ministério Público que se recusar à inspeção médica, quando julgada necessária, será punido com a pena de suspensão, a qual cessará no dia em que se submeter ao exame.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DA DISPONIBILIDADE
 
 Art. 72 - Será posto em disponibilidade, com vencimentos integrais, o membro da carreira do Ministério Público, ocupante de cargo de provimento efetivo, nos seguintes casos:
@@ -335,7 +344,8 @@ a) quando o cargo for supresso por lei e não se tornar possível o seu aproveit
 
 b) quando, por motivo de incompatibilidade, que lhe não seja imputável, for privado de exercício de suas funções.
 
-CAPÍTULO X -<br>
+CAPÍTULO X -
+
 DAS PRERROGATIVAS E VANTAGENS DO CARGO
 
 Art. 73 - No exercício das respectivas funções, há recíproca harmonia e independência entre os órgãos da Magistratura e os do Ministério Público, não existindo entre uns e outros qualquer subordinação.
@@ -380,14 +390,16 @@ c) pela arrecadação de bens de ausente - 1,5 (um e cinco décimos) por cento a
 
 Parágrafo único - Quando dois ou mais representantes do Ministério Público funcionarem, sucessivamente, no mesmo feito, será entre eles rateada a percentagem.
 
-CAPÍTULO XI -<br>
+CAPÍTULO XI -
+
 DAS FÉRIAS
 
 Art. 87 - Terão direito os representantes do Ministério Público do Estado ao gozo das férias coletivas estabelecidas pela Lei de Organização Judiciária.
 
 Art. 88 - Os representantes do Ministério Público, em gozo de férias, não serão obrigados, quando promovidos ou removidos, a assumir o exercício do novo cargo antes de terminá-las, salvo em casos extraordinários, a juízo do Procurador.
 
-CAPÍTULO XII -<br>
+CAPÍTULO XII -
+
 DAS LICENÇAS
 
 Art. 89 - Poderá ser concedida licença aos membros do Ministério Público em efetivo exercício ou em comissão, nos seguintes casos:
@@ -450,7 +462,8 @@ Art. 98 - Os serviços do Ministério Público estão sujeitos à correição pe
 
 Art. 99 - Em casos de maior gravidade ou se ficar provado que não foram atendidas as recomendações, o Procurador Geral ou o 1º Sub-Procurador levará o fato ao conhecimento do Conselho Superior do Ministério Público, para os devidos fins.
 
-CAPÍTULO XIV -<br>
+CAPÍTULO XIV -
+
 DAS PENAS DISCIPLINARES
 
 Art. 100 - Os membros do Ministério Público estão sujeitos às seguintes penas disciplinares:
@@ -501,7 +514,8 @@ Art. 111 - O recurso será interposto dentro de dez dias, contados daquele em qu
 
 Art. 112 - Os autos de processos administrativos ou sindicâncias referentes a membros do Ministério Público, quando remetidos ao Secretário da Justiça ou ao Governador do Estado, para os fins previstos nesta Lei serão submetidos diretamente ao conhecimento destes e, depois da decisão definitiva, serão arquivados na Procuradoria Geral da Justiça.
 
-CAPÍTULO XV -<br>
+CAPÍTULO XV -
+
 DAS SUSPEIÇÕES E INCOMPATIBILIDADES
 
 Art. 113 - A suspeição do órgão do Ministério Público regular-se-á pelo disposto nos artigos 185 e a 189 do Código do Processo Civil e 258 do Código de Processo Penal.
@@ -534,10 +548,12 @@ e) dirigir bancos, companhias, ou empresas comerciais, subvencionadas ou não;
 
 f) requerer ou promover a concessão de privilégio, garantia de juros ou outros favores semelhantes, exceto o privilégio de invenção própria.
 
-CAPÍTULO XVI -<br>
+CAPÍTULO XVI -
+
 DAS ATRIBUIÇÕES E COMPETÊNCIAS NA 2ª INSTÂNCIA
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DO PROCURADOR GERAL DA JUSTIÇA
 
 Art. 120 - Cabe ao Procurador Geral da Justiça, como chefe do Ministério Público, administrar e representar essa instituição diretamente ou por intermédio dos órgãos competentes, em todas as jurisdições do Estado, exercendo as suas funções perante o Governo, a Magistratura e os funcionários sob a sua direção.
@@ -638,7 +654,8 @@ c) como Chefe do Ministério Público:
 
 21- exercer, ainda, por iniciativa própria ou por solicitação dos poderes competentes, quaisquer outras funções ou atribuições que não estando previstas nesta lei, sejam, contudo, inerentes à finalidade do Ministério Público.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DOS SUB
 
 Art. 122 - Compete ao 1º Sub-Procurador Geral da Justiça:
@@ -671,7 +688,8 @@ Art. 123 - O 2º Sub-Procurador Geral da Justiça representará o Ministério P�
 
 Parágrafo único - O 2º Sub-Procurador Geral da Justiça será assistido por um auxiliar, bacharel em Direito, com tirocínio nunca inferior a 4 anos, na advocacia, judicatura ou Ministério Público, com as funções definidas na Lei de Organização do Tribunal de Contas.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO
 
 Art. 124 - O Conselho Superior do Ministério Público será constituído do Procurador Geral da Justiça, como Presidente nato, de um membro do mesmo Ministério, nomeado pelo Governo do Estado, e dois outros eleitos pelos seus pares dentre os que tiverem exercício na comarca da Capital. O nomeado e os eleitos o serão por três anos, podendo ser reconduzidos, findo o prazo, por nova nomeação e reeleição.
@@ -694,10 +712,12 @@ Art. 125 - Compete ao Conselho Superior do Ministério Público:
 
 Parágrafo único - O Conselho Superior do Ministério Público deverá reunir-se sempre que o exigir o interesse do Serviço por convocação do Procurador Geral da Justiça.
 
-CAPÍTULO XVII -<br>
+CAPÍTULO XVII -
+
 DAS ATRIBUIÇÕES E COMPETÊNCIA NA PRIMEIRA INSTÂNCIA
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DISPOSIÇÕES GERAIS
 
 Art. 126 - Compete aos membros do Ministério Público, além das atribuições que lhe são conferidas especialmente por esta Lei, segundo a natureza de seus cargos:
@@ -728,7 +748,8 @@ Os curadores preferirão aos promotores, salvo em matéria especializada.
 
 Parágrafo único - Sem prejuízo da intervenção do Procurador Geral as apelações serão arrazoadas em primeira instância pelos órgãos do Ministério Público, quando este for parte principal, apelante ou apelada.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DOS PROMOTORES PÚBLICOS
 
 Art. 131 - Aos Promotores Públicos compete:
@@ -829,7 +850,8 @@ II - Nas Comarcas do Interior, além das atribuições dos [itens 1 a 29](https:
 
 Art. 132 - Dos Promotores Públicos da Comarca da Capital, quatro servirão perante as varas criminais; um terá o encargo da defesa do Estado na 1ª instância, nas causas de natureza não fiscal; outro ficará encarregado da defesa dos direitos e interesses do Estado junto ao Supremo Tribunal Federal e ao Tribunal Federal de Recursos; e outro servirá na Justiça Militar com atribuições definidas na legislação própria.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DO CURADOR DE ÓRFÃOS, INTERDITOS E AUSENTES
 
 Art. 133 - Compete ao Curador de Órfãos, Interditos e Ausentes:
@@ -878,7 +900,8 @@ Art. 133 - Compete ao Curador de Órfãos, Interditos e Ausentes:
 
 Parágrafo único - As atribuições mencionadas neste artigo, quanto à parte de órfãos, são referentes aos processos e atos de competência do juiz do qual servir o curador, ficando excluídos os relativos a menores abandonados e delinqüentes.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DO CURADOR DE MASSAS FALIDAS
 
 Art. 134 - Compete ao Curador de Massas Falidas:
@@ -925,7 +948,8 @@ Art. 134 - Compete ao Curador de Massas Falidas:
 
 21- zelar pela apresentação por parte do liquidatário do balancete mensal de falência, providenciando no sentido de serem os autos conclusos pelo escrivão, ao Juiz para os efeitos legais se o balancete não for apresentado no prazo marcado pela lei.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DO CURADOR DAS VÍTIMAS DE ACIDENTES DO TRABALHO
 
 Art. 135 - Compete ao Curador das Vítimas de Acidentes do Trabalho:
@@ -946,7 +970,8 @@ Art. 135 - Compete ao Curador das Vítimas de Acidentes do Trabalho:
 
 8- providenciar, mediante provocação da vítima ou seu representante a prestação devida de assistência médica, farmacêutica ou hospitalar e diárias correspondentes à incapacidade temporária.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 DO CURADOR DE MENORES
 
 Art. 136 - Compete ao Curador de Menores:
@@ -985,7 +1010,8 @@ Art. 136 - Compete ao Curador de Menores:
 
 17- diligenciar sobre a admissão de menores desamparados, ou a que faltem os meios de subsistência, em orfanato ou estabelecimentos semelhantes subvencionados pelos cofres do Estado.
 
-SEÇÃO VII -<br>
+SEÇÃO VII -
+
 DO CURADOR DE RESÍDUOS, CASAMENTOS E REGISTROS PÚBLICOS
 
 Art. 137 - Compete ao Curador de Resíduos, Casamentos e Registros Públicos:
@@ -1038,7 +1064,8 @@ Art. 137 - Compete ao Curador de Resíduos, Casamentos e Registros Públicos:
 
 24- aprovar ou elaborar os estatutos das fundações, fiscalizar o seu funcionamento e promover a extinção destas quando for o caso.
 
-SEÇÃO VIII -<br>
+SEÇÃO VIII -
+
 DO ADJUNTO DE PROMOTOR
 
 Art. 138 - Compete aos Adjuntos de Promotores da Capital, no exercício permanente do cargo, representar o Ministério Público, nos processos da alçada dos Pretores e nos de contravenções penais.
@@ -1071,7 +1098,8 @@ Art. 142 - O Adjunto de Promotor, quando não tiver direito aos vencimentos do c
 
 Art. 143 - Presente o Promotor da comarca no termo que não for sede poderá avocar todo o serviço do Ministério Público.
 
-SEÇÃO IX -<br>
+SEÇÃO IX -
+
 DA REPRESENTAÇÃO DA FAZENDA PÚBLICA
 
 Art. 144 - O Promotor Público nas comarcas do interior do Estado observará, no exercício das atribuições de representante da Fazenda Pública os dispositivos das leis federais estaduais atinentes ao assunto e às instruções que lhe forem transmitidas pelo Procurador Regional da República ou autoridade federal competente e pelo Procurador Fiscal do Estado, com direito às correspondentes vantagens e franquias.

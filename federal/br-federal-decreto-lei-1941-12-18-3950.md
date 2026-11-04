@@ -1,5 +1,3 @@
-###DEL-003950-0-000-18-12-1941@@@
-
 DECRETO-LEI N. 3.950 – DE 18 DE DEZEMBRO DE 1941
 
 Organiza o 3º Esquadrão de Trem Automovel com sede provisória em Recife.

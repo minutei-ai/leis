@@ -1,5 +1,3 @@
-###DEC-059722-0-000-14-12-1966@@@
-
 DECRETo Nº 59.722, DE 14 DE DEZEMBRO DE 1966.
 
 Autoriza BEMIL-Beneficiamento de Minérios Limitada a pesquisar talco no município de Ouro Preto, Estado de Minas Gerais.

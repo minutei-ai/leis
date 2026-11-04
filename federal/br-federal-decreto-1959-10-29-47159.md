@@ -1,5 +1,3 @@
-###DEC-047159-0-000-29-10-1959@@@
-
 DECRETO Nº 47.159, DE 29 DE OUTUBRO DE 1959.
 
 Classifica localidade do Território Nacional na Categoria “A” prevista no Art. 122 da Lei nº 1.316, de 20 de janeiro de 1951.

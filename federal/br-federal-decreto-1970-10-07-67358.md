@@ -1,5 +1,3 @@
-###DEC-067358-0-000-07-10-1970@@@
-
 DECRETO Nº 67.358, DE 7 DE OUTUBRO DE 1970.
 
 Retifica e torna sem efeito decretos de distribuição de servidor do extinto Serviço de Alimentação da Previdência Social (SAPS).

@@ -1,14 +1,12 @@
-###DEC-065756-0-000-28-11-1969@@@
+**DECRETO Nº 65.756, DE 28 DE NOVEMBRO DE 1969.**
 
-<strong>DECRETO Nº 65.756, DE 28 DE NOVEMBRO DE 1969.</strong>
+***Redistribui, com os respectivos ocupantes, para Quadro de Pessoal – Parte Especial – do Ministério da Educação e Cultura, cargos originários dos extintos Lloyd Brasileiro – Patrimônio Nacional, Companhia Nacional da Navegação Costeira – Autarquia Federal, e Serviço de Navegação Costeira – Autarquia Federal, e Serviço de navegação da Amazônia e de administração do Pôrto do Pará, e dá outras providências.***
 
-<em><strong>Redistribui, com os respectivos ocupantes, para Quadro de Pessoal – Parte Especial – do Ministério da Educação e Cultura, cargos originários dos extintos Lloyd Brasileiro – Patrimônio Nacional, Companhia Nacional da Navegação Costeira – Autarquia Federal, e Serviço de Navegação Costeira – Autarquia Federal, e Serviço de navegação da Amazônia e de administração do Pôrto do Pará, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, e tendo em vista o disposto no artigo 99, § 2º, do Decreto-lei nº 200, de 25 de fevereiro de 1967,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, e tendo em vista o disposto no artigo 99, § 2º, do Decreto-lei nº 200, de 25 de fevereiro de 1967,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam redistribuídos, no Quadro de Pessoal – Parte Especial – do Ministério da Educação e Cultura, com respectivos cargos, do Quadro de Pessoal – Parte Suplementar – do Ministerio dos Transportes, os servidores autárquicos:
+**Art**. 1º Ficam redistribuídos, no Quadro de Pessoal – Parte Especial – do Ministério da Educação e Cultura, com respectivos cargos, do Quadro de Pessoal – Parte Suplementar – do Ministerio dos Transportes, os servidores autárquicos:
 
 I – Originários do extinto Lloyd Brasileiro – Patrimônio Nacional
 
@@ -196,15 +194,15 @@ Escrevente-Mercante, NCr$387,97
 
 Manoel Pacheco Serrão
 
-<strong>Art</strong>. 2º O Ministério dos Transportes remeterá ao Órgão de Pessoal – do Ministério da Educação e Cultura, no prazo de 30 (trinta) dias a contar da publicação dêste Decreto, os assentamentos individuais do funcionários movimentados por fôrça do disposto neste ato.
+**Art**. 2º O Ministério dos Transportes remeterá ao Órgão de Pessoal – do Ministério da Educação e Cultura, no prazo de 30 (trinta) dias a contar da publicação dêste Decreto, os assentamentos individuais do funcionários movimentados por fôrça do disposto neste ato.
 
-<strong>Art</strong>. 3º O disposto neste Decreto não homologa situação que, em virtude de sindicância, inquérito administrativo ou revisão de enquadramento venha a ser considerada nula, ilegal ou contrária às normas legais ou administrativas aplicáveis à espécie.
+**Art**. 3º O disposto neste Decreto não homologa situação que, em virtude de sindicância, inquérito administrativo ou revisão de enquadramento venha a ser considerada nula, ilegal ou contrária às normas legais ou administrativas aplicáveis à espécie.
 
-<strong>Art</strong>. 4º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 28 de novembro de 1969; 148º da Independência e 81º da República.
 
-<strong>EMÍLIO G. MÉDICI</strong>
+**EMÍLIO G. MÉDICI**
 
 Mário David Andreazza
 

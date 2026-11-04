@@ -1,5 +1,3 @@
-###DEC-082914-0-000-20-12-1978@@@
-
 Decreto nº 82 914, de 20 de dezembro de 1978
 
 Concede à Companhia Siderúrgica Pitangui o direito de lavrar minério de ferro no Município de Mateus Leme, Estado de Minas Gerais.

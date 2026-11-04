@@ -1,5 +1,3 @@
-###DEC-095244-0-000-16-11-1987@@@
-
 DECRETO N° 95.244, DE 16 DE NOVEMBRO DE 1987
 
 Declara de utilidade pública as instituições que menciona.

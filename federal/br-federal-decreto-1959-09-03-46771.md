@@ -1,5 +1,3 @@
-###DEC-046771-0-000-03-09-1959@@@
-
 decreto nº 46.771, de 3 de setembro de 1959.
 
 Altera o Regulamento para o Conselho de Promoções da Marinha.

@@ -1,5 +1,3 @@
-###DEC-063999-0-000-17-01-1969@@@
-
 Decreto nº 63.999, de 17 de janeiro de 1969.
 
 Autoriza o trabalho em domingos e feriados civis e religiosos a revendedores credenciados da empresa Ford Motor do Brasil S.A., para os fins que menciona.

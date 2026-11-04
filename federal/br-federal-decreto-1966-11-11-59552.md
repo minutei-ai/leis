@@ -1,5 +1,3 @@
-###DEC-059552-0-000-11-11-1966@@@
-
 DECRETO Nº 59.552, DE 11 DE NOVEMBRO DE 1966.
 
 Amplia a zona de concessão da Companhia Estadual de Energia Elétrica, no Rio Grande do Sul.

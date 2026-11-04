@@ -1,5 +1,3 @@
-###DEC-005857-0-000-24-07-2006@@@
-
 DECRETO Nº 5.857, DE 24 DE JULHO DE 2006.
 
 Cria o Prêmio Escola de Guerra Naval e dá outras providências.
@@ -29,5 +27,3 @@ Brasília, 25 de julho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
          Waldir Pires
-
-Este texto não substitui o publicado no D.O.U. de 25.7.2006

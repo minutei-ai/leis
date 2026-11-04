@@ -1,5 +1,3 @@
-###DEC-052113-0-000-17-06-1963@@@
-
 Decreto nº 52.113, de 17 de junho de 1963.
 
 Dispõe sôbre as assinaturas, firmas e rubricas, em documentos e processos.

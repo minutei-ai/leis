@@ -1,5 +1,3 @@
-###DEC-065530-0-000-21-10-1969@@@
-
 DECRETO Nº 65.530 - DE 21 DE OUTUBRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial do Ministério das Relações Exteriores, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal, e dá outras providências.

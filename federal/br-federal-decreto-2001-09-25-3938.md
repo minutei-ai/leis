@@ -1,5 +1,3 @@
-###DEC-003938-0-000-25-09-2001@@@
-
 DECRETO Nº 3.938, DE 25 DE SETEMBRO DE 2001
 
  Promulga o Acordo Básico de Cooperação Científica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte, celebrado em Londres, em 3 de dezembro de 1997.

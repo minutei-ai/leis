@@ -1,5 +1,3 @@
-###DEC-006969-0-000-29-09-2009@@@
-
 DECRETO Nº 6.969, DE 29 DE SETEMBRO DE 2009.
 
 Dá nova redação ao art. 8º do Decreto nº 5.995, de 19 de dezembro de 2006, que institui o Sistema de Gestão do Projeto de Integração do Rio São Francisco com as Bacias Hidrográficas do Nordeste Setentrional.

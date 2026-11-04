@@ -1,7 +1,3 @@
-1
-
-###MPV-001453-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.453, DE 10 DE MAIO DE 1996
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

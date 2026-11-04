@@ -1,5 +1,3 @@
-###DEC-059283-0-000-23-09-1966@@@
-
 DECRETO Nº 59.283, DE 23 DE SETEMBRO DE 1966.
 
 Retifica o enquadramento do Instituto Nacional do Pinho, aprovado pelo Decreto número 50.623, de 19 de maio de 1961.

@@ -1,5 +1,3 @@
-###DEC-064617-0-000-02-06-1969@@@
-
 DECRETO nº 64.617, DE 2 DE JUNHO DE 1969.
 
 Concede reconhecimento a Curso.

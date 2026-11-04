@@ -1,5 +1,3 @@
-###DEC-054436-0-000-13-10-1964@@@
-
 DECRETO Nº 54.436, DE 13 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Sinval Pereira da Rocha a pesquisar mica, no município de Governador Valadares, Estado de Minas Gerais.

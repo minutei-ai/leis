@@ -1,5 +1,3 @@
-###DEC-073253-0-000-04-12-1973@@@
-
 DECRETO Nº 73.253 - DE 4 DE DEZEMBRO DE 1973
 
 Concede reconhecimento aos cursos de Letras e Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Piracicaba, mantida pelo Instituto Educacional Piracicabano, com sede na Cidade de Piracicaba, Estado de São Paulo.

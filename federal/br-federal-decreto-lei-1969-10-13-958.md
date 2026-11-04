@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7fc61ebf-3708-441d-959f-64a6fab4a2a5/texto#nowhere)
 
-###DEL-000958-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 958, DE 13 DE OUTUBRO DE 1969
 
 Assegura 50% (cinqüenta por cento) das vagas anualmente existentes nos Cursos de Formação Especial ou de Adaptação, destinados ao ingresso nos Quadros de Saúde ou de Veterinária das Fôrças Armadas, aos militares que especifica e dá outras providências.

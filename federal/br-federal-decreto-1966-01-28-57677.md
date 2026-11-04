@@ -1,5 +1,3 @@
-###DEC-057677-0-000-28-01-1966@@@
-
 decreto nº 57.677, de 28 de janeiro de 1966.
 
 Torna sem efeito o Decreto número 641, de 2 de março de 1962.

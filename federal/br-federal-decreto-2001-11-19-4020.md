@@ -1,5 +1,3 @@
-###DEC-004020-0-000-19-11-2001@@@
-
 DECRETO Nº 4.020, DE 19 DE NOVEMBRO DE 2001
 
 Autoriza a concessão de subvenção econômica, sob a forma de equalização de preços, ao amparo da Lei nº 8.427, de 27 de maio de 1992.

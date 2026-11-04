@@ -1,5 +1,3 @@
-###DEC-095241-0-000-13-11-1987@@@
-
 DECRETO N° 95.241, DE 13 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Administração da Faculdade Ibero-Americana de Letras e Ciências Humanas, em São Paulo.

@@ -1,5 +1,3 @@
-###MPV-001897-0-052-27-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.897-52, DE 27 de agosto DE 1999.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

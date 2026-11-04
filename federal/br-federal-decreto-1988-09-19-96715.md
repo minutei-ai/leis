@@ -1,5 +1,3 @@
-###DEC-096715-0-000-19-09-1988@@@
-
 DECRETO N° 96.715, DE 19 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO BELA VISTA DE POÇÕES LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Poções, Estado da Bahia.

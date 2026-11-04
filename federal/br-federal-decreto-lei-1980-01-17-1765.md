@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6e3d3fb0-c064-45d3-a519-3db16fcdf857/texto#nowhere)
 
-###DEL-001765-0-000-17-01-1980@@@
-
 # DECRETO-LEI Nº 1.765, DE 17 DE JANEIRO DE 1980
 
 Reajusta os vencimentos, salários e proventos dos servidores dos Órgãos Auxiliares da Justiça de Primeira Instância do Distrito Federal e dos Territórios.

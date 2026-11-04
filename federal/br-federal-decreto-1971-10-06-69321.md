@@ -1,5 +1,3 @@
-###DEC-069321-0-000-06-10-1971@@@
-
 DECRETO Nº 69.321, DE 6 DE OUTUBRO DE 1971.
 
 Dispõe sobre a concessão de Prêmios Literários Nacionais criados pela Lei nº 5.680, de 20 de julho de 1971.

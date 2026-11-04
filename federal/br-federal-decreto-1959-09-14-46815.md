@@ -1,5 +1,3 @@
-###DEC-046815-0-000-14-09-1959@@@
-
 DECRETO Nº 46.815, DE 14 DE SETEMBRO DE 1959.
 
 Dá nova redação a artigos do Decreto nº 46.532, de 30 de julho de 1959.

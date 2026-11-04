@@ -1,5 +1,3 @@
-###DEC-074006-0-000-02-05-1974@@@
-
 DECRETO Nº 74.006, DE 2 DE MAIO DE 1974.
 
 Concede reconhecimento à Faculdade de Ciências Humanas da Universidade Católica de Minas Gerais - Extensão de Pedro Leopoldo, com sede na cidade de Pedro Leopoldo, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###MPV-001771-0-022-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.771-22, DE 13 DE JANEIRO DE 1999.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

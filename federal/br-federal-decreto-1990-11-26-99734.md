@@ -1,5 +1,3 @@
-###DEC-099734-0-000-26-11-1990@@@
-
 DECRETO Nº 99.734, DE 26 DE NOVEMBRO DE 1990
 
 Altera o Anexo VI do Decreto nº 99.307, de 15 de junho de 1990, e dá outras providências.

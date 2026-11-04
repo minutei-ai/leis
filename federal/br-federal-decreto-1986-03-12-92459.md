@@ -1,5 +1,3 @@
-###DEC-092459-0-000-12-03-1986@@@
-
 DECRETO Nº 92.459, DE 12 DE MARÇO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias, situada na cidade do Rio de Janeiro, Estado do Rio de Janeiro, destinada à instalação de Centro de Apoio Operacional, a cargo da Telecomunicações do Rio de Janeiro S.A. - TELERJ, e dá outras providências.

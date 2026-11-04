@@ -1,5 +1,3 @@
-###DEL-009107-0-000-01-04-1946@@@
-
 DECRETO-LEI N. 9.107 – DE 1 DE ABRIL DE 1946
 
 Estabelece a constituição das Fôrças Armadas do País

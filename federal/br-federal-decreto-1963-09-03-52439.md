@@ -1,5 +1,3 @@
-###DEC-052439-0-000-03-09-1963@@@
-
 DECRETO Nº 52.439, DE 3 DE SETEMBRO DE 1963.
 
 Dispõe sôbre o acêrvo da Universidade Rural do Brasil.

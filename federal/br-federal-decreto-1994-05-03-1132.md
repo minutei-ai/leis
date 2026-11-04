@@ -1,7 +1,3 @@
-1
-
-###DEC-001132-0-000-03-05-1994@@@
-
 DECRETO N° 1.132, DE 3 DE MAIO DE 1994
 
 Dispõe sobre a execução do Acordo Regional de Cooperação Científica e Tecnológica (Convênio-quadro) entre os PaísesMembros da Associação Latino-Americana de integração (Aladi), firmado pelo Brasil, Argentina, Bolívia, Chile, Colômbia, Equador, México, Paraguai, Peru, Uruguai e Venezuela, de 19 de outubro de 1993.

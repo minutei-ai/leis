@@ -1,5 +1,3 @@
-###MPV-000345-0-000-14-01-2007@@@
-
 MEDIDA PROVISÓRIA Nº 345, DE 14 DE JANEIRO DE 2007.
 
 Dispõe sobre cooperação federativa no âmbito da segurança pública.
@@ -69,5 +67,3 @@ Brasília, 14 de janeiro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
            Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 15.1.2007 - Edição extra

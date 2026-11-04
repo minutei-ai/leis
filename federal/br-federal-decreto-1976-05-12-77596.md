@@ -1,5 +1,3 @@
-###DEC-077596-0-000-12-05-1976@@@
-
 DECRETO Nº 77.596 - DE 12 DE MAIO DE 1976
 
 Concede à Minérios Industriais do Sul S.A. - MINEL o direito de lavrar argila no Município de Urussunga, Estado de Santa Catarina.

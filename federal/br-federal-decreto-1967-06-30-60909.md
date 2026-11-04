@@ -1,5 +1,3 @@
-###DEC-060909-0-000-30-06-1967@@@
-
 Decreto nº 60.909, de 30 de junho de 1967.
 
 Declara de utilidade pública o “Amparo Maternal”, com sede no Estado da Guanabara.

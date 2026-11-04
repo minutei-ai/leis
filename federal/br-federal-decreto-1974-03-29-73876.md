@@ -1,5 +1,3 @@
-###DEC-073876-0-000-29-03-1974@@@
-
 DECRETO Nº 73.876, DE 29 DE MARÇO DE 1974.
 
 Altera os artigos 8º e 9º do Regulamento da Ordem de Rio Branco.
@@ -144,13 +142,45 @@ Cavaleiro - Oficiais das Forças Armadas, Segundo e Terceiros Secretários de Em
 
 Art. 11. Para a admissão no Quadro Suplementar da Ordem, os servidores públicos brasileiros devem contar, no mínimo, o tempo de serviço estipulado a seguir, segundo o grau proposto:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cavaleiro ...................................................................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">10 anos</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Oficial ........................................................................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15 anos</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Comendador .............................................................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">20 anos</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Grande Oficial. ..........................................................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">25 anos</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Grã-Cruz ...................................................................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">30 anos</span></p></td></tr></tbody></table>
+Cavaleiro ...................................................................................................................
+
+10 anos
+
+Oficial ........................................................................................................................
+
+15 anos
+
+Comendador .............................................................................................................
+
+20 anos
+
+Grande Oficial. ..........................................................................................................
+
+25 anos
+
+Grã-Cruz ...................................................................................................................
+
+30 anos
 
 Parágrafo único. A promoção ao grau superior é feita sem exigência de tempo de serviço.
 
 Art. 13. Os interstícios para promoção nos Quadros da Ordem são os seguintes:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De Cavaleiro a Oficial ...............................................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2 anos</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De Oficial a Comendador .........................................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3 anos</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De Comendador a Grande Oficial ............................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4 anos</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De Grande Oficial a Grã-Cruz ..................................................................................</span></p></td><td style="width:49.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5 anos</span></p></td></tr></tbody></table>
+De Cavaleiro a Oficial ...............................................................................................
+
+2 anos
+
+De Oficial a Comendador .........................................................................................
+
+3 anos
+
+De Comendador a Grande Oficial ............................................................................
+
+4 anos
+
+De Grande Oficial a Grã-Cruz ..................................................................................
+
+5 anos
 
 Parágrafo único. A promoção poderá ser feita sem exigência do interstício acima indicado, a critério do Conselho da Ordem, ao levar em consideração o cargo ou função que exerça o graduado."
 

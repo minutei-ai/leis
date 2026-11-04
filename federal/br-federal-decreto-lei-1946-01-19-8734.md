@@ -1,5 +1,3 @@
-###DEL-008734-0-000-19-01-1946@@@
-
 DECRETO-LEI N. 8.734 – DE 19 DE JANEIRO DE 1946
 
 Altera o Decreto-lei nº 7.586, de 28 de maio de 1945

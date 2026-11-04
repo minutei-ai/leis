@@ -1,5 +1,3 @@
-###DEL-004198-0-000-24-03-1942@@@
-
 DECRETO-LEI N. 4.198 – DE 24 DE MARÇO DE 1942
 
 Reorganiza os Serviços Auxiliares do Departamento Administrativo do Serviço Público e dá outras providências.

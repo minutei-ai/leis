@@ -1,5 +1,3 @@
-###DEC-059089-0-000-18-08-1966@@@
-
 DECRETO Nº 59.089, DE 18 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro Geraldo Vitorino a pesquisar mica e caulim no município de Espera Feliz, Estado de Minas Gerais.

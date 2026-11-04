@@ -1,5 +1,3 @@
-###DEC-081729-0-000-24-05-1978@@@
-
 Decreto n.º 81.729, de 24 de maio de 1978.
 
 Concede reconhecimento ao curso de Formação de tecnólogo em Laticínios da Universidade Federal de Viçosa, com sede na cidade de Viçosa, Estado de Minas Gerais.

@@ -1,12 +1,10 @@
-###DEC-041545-0-000-21-05-1957@@@
+**DECRETO Nº 41.545, DE 21 DE MAIO DE 1957.**
 
-<strong>DECRETO Nº 41.545, DE 21 DE MAIO DE 1957.</strong>
+***Cria, para instalação imediata, o Arsenal de Guerra de São Paulo.***
 
-<em><strong>Cria, para instalação imediata, o Arsenal de Guerra de São Paulo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 19, da Lei 2.850, de 25 de agôsto de 1956.
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 19, da Lei 2.850, de 25 de agôsto de 1956.
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É criado, para instalação imediata, o Arsenal de Guerra de São Paulo.
 
@@ -14,6 +12,6 @@ Parágrafo único. As atribuições, funcionamento e organização do Arsenal de
 
 Rio de Janeiro, em 21 de maio de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

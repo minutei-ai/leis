@@ -1,5 +1,3 @@
-###DEC-077095-0-000-30-01-1976@@@
-
 Decreto nº 77.095, de 30 de janeiro de 1976.
 
 Regulamenta dispositivo do Decreto-lei nº 1.310, de 8 de fevereiro de 1974, que trata de arredamento pelo Ministério do Exército de imóveis sob sua jurisdição, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209562)<br>
-
 # DECRETO N° 68.605, DE 13 DE JUNHO DE 2024
 
 ### _Institui o Distrito Turístico de Santos nas áreas que especifica, e dá providências correlatas._

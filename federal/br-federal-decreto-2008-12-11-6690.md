@@ -1,5 +1,3 @@
-###DEC-006690-0-000-11-12-2008@@@
-
 DECRETO Nº 6.690, DE 11 DE DEZEMBRO DE 2008.
 
 Institui o Programa de Prorrogação da Licença à Gestante e à Adotante, estabelece os critérios de adesão ao Programa e dá outras providências.

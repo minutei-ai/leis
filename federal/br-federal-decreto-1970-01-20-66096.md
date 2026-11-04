@@ -1,5 +1,3 @@
-###DEC-066096-0-000-20-01-1970@@@
-
 Decreto nº 66.096 - de 20 de janeiro de 1970
 
 Declara de utilidade pública o Hospital Santa Terezinha, com sede em Coroací, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-062538-0-000-16-04-1968@@@
-
 Decreto nº 62.538, de 16 de abril de 1968.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no distrito de Imbé, município de Caratinga, Estado de Minas Gerais.

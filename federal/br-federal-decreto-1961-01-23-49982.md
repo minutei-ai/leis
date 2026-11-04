@@ -1,5 +1,3 @@
-###DEC-049982-0-000-23-01-1961@@@
-
 DECRETO Nº 49.982, DE 23 DE JANEIRO DE 1961.
 
 Altera o Decreto nº 47.693, de 20 de janeiro de 1960.

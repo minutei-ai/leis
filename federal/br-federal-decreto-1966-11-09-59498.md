@@ -1,5 +1,3 @@
-###DEC-059498-0-000-09-11-1966@@@
-
 DECRETO Nº 59.498, DE 9 DE NOVEMBRO DE 1966.
 
 Abre, pelo Ministério da Viação e Obras Publicas, o crédito especial de Cr$560.000.000, para o fim que especifica.

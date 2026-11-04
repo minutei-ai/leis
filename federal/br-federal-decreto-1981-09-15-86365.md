@@ -1,5 +1,3 @@
-###DEC-086365-0-000-15-09-1981@@@
-
 Decreto nº 86.365, de 15 de setembro DE 1981.
 
 Promulga a Convenção sobre o Instituto Interamericano de Cooperação para a Agricultura.

@@ -1,5 +1,3 @@
-###DEC-000578-0-000-24-06-1992@@@
-
 DECRETO N° 578, DE 24 DE JUNHO DE 1992
 
 Dá nova regulamentação ao lançamento dos Títulos da Divida Agrária.

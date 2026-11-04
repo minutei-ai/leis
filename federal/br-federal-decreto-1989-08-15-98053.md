@@ -1,7 +1,3 @@
-1
-
-###DEC-098053-0-000-15-08-1989@@@
-
 DECRETO N° 98.053, DE 15 DE AGOSTO DE 1989
 
 Vincula a Fundação Legião Brasileira de Assistência - LBA ao Ministério da Previdência e Assistência Social.

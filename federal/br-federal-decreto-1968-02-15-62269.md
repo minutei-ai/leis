@@ -1,5 +1,3 @@
-###DEC-062269-0-000-15-02-1968@@@
-
 DECRETO Nº 62.269, DE 15 DE FEVEREIRO DE 1968.
 
 Dispõe sôbre cessão de área sob a jurisdição do Ministério da Aeronáutica, para instalações da Academia Brasileira de Medicina Militar.

@@ -1,5 +1,3 @@
-###MPV-001706-0-000-30-06-1998@@@
-
 # MEDIDA PROVISÓRIA Nº 1.706, DE 30 DE JUNHO DE 1998
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e determina outras providências.

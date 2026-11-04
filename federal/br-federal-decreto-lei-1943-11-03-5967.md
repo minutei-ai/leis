@@ -1,5 +1,3 @@
-###DEL-005967-0-000-03-11-1943@@@
-
 DECRETO‑LEI N. 5.967 – DE 3 DE NOVEMBRO DE 1943
 
 Autoriza o Banco do Brasil (Agência Especial de Defesa Econômica) a liquidar os bens do Instituto Nacionale di Credito per il Lavoro ltaliano all'Estero, existentes no país.

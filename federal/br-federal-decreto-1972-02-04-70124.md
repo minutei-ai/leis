@@ -1,5 +1,3 @@
-###DEC-070124-0-000-04-02-1972@@@
-
 Decreto Nº 70.124, DE 4 DE FEVEREIRO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Marinha, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

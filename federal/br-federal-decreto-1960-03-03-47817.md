@@ -1,5 +1,3 @@
-###DEC-047817-0-000-03-03-1960@@@
-
 DECRETO Nº  47\. 817 DE 3 DE MARÇO DE  1960.
 
 Suprime cargos extintos

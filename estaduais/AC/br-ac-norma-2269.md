@@ -1,6 +1,10 @@
 > **LEI Nº 3.497, DE 02 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a vedação de nomeação para cargos em comissão de pessoas condenadas por crime de violência contra a mulher.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a vedação de nomeação para cargos em comissão de pessoas condenadas por crime de violência contra a mulher.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

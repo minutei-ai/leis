@@ -1,5 +1,3 @@
-###DEC-005432-0-000-22-04-2005@@@
-
 DECRETO Nº 5.432, DE 22 DE ABRIL DE 2005
 
 Acresce inciso ao art. 1º do Decreto nº 2.444, de 30 de dezembro de 1997, que dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, das rodovias federais que menciona.

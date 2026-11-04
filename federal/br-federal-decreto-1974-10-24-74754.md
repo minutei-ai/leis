@@ -1,5 +1,3 @@
-###DEC-074754-0-000-24-10-1974@@@
-
 DECRETO Nº 74.754, DE 24 DE OUTUBRO DE 1974.
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Filosofia, Ciências e Letras de Piracicaba, mantida pelo Instituto Educacional Piracicabano, com sede na cidade de Piracicaba, Estado de São Paulo.

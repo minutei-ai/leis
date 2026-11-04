@@ -1,9 +1,9 @@
 LEI COMPLEMENTAR Nº 327, DE 27 DE NOVEMBRO DE 2023. 
 
-<br>
 Altera a [Lei Complementar nº 3.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170)/2000, que dispõe sobre o Estatuto dos Servidores do Município de Rio Verde – GO.
 
-**A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**<br>
+**A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
+
         
 
 Art. 1º A [Lei Complementar nº 3.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), de 31 de agosto de 2000, passa a vigorar com as seguintes alterações:

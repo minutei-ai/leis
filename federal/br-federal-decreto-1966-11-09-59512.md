@@ -1,5 +1,3 @@
-###DEC-059512-0-000-09-11-1966@@@
-
 DECRETO Nº 59.512, DE 9 DE NOVEMBRO DE 1966.
 
 Retifica o art. 1º do decreto número 57.889, de 28 de fevereiro de 1966.

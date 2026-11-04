@@ -1,5 +1,3 @@
-###DEC-089646-0-000-11-05-1984@@@
-
 Decreto nº 89.646, de 11 de maio de 1984.
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto nº 69.907, de 07 de janeiro de 1972, o Conselho Federal e os Conselhos Regionais de Fonoaudiologia.

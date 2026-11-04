@@ -1,5 +1,3 @@
-###DEC-069211-0-000-16-09-1971@@@
-
 DECRETO Nº 69.211, DE 16 DE SETEMBRO DE 1971.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno e construções existentes que menciona, situado no antigo Morro do Cristo, na cidade de Salvador, no Estado da Bahia.

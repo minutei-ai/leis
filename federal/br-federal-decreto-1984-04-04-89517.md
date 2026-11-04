@@ -1,5 +1,3 @@
-###DEC-089517-0-000-04-04-1984@@@
-
 Decreto nº 89.517, de 04 de abril de 1984
 
 Autoriza o funcionamento do curso de Fisioterapia da Sociedade Amparo aos Praianos do Guarujá.

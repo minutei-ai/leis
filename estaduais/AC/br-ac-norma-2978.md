@@ -1,6 +1,10 @@
 > **LEI Nº 3.641, DE 21 DE JULHO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão de isenção do ICMS nas operações que envolvam os equipamentos e acessórios destinados para a geração de energia fotovoltaica conforme especificado no Convênio ICMS 101/97, de 12 de dezembro de 1997, do Conselho Nacional de Política Fazendária - CONFAZ.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão de isenção do ICMS nas operações que envolvam os equipamentos e acessórios destinados para a geração de energia fotovoltaica conforme especificado no Convênio ICMS 101/97, de 12 de dezembro de 1997, do Conselho Nacional de Política Fazendária - CONFAZ.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

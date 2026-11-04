@@ -1,5 +1,3 @@
-###DEC-001839-0-000-20-03-1996@@@
-
 DECRETO N° 1.839, DE 20 DE MARÇO DE 1996.
 
 Autoriza a emissão de Notas do Tesouro Nacional - NTN, série J, e dá outras providências.

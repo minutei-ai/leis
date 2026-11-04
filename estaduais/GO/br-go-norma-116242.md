@@ -18,7 +18,8 @@ II - articular a atuação dos órgãos, das entidades e das instituições part
 
 III - acompanhar a execução da agenda oficial das comemorações dos trezentos anos da Cidade de Goiás;
 
-IV – propor medidas para a valorização do patrimônio histórico, cultural, turístico e institucional da Cidade de Goiás;<br>
+IV – propor medidas para a valorização do patrimônio histórico, cultural, turístico e institucional da Cidade de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.961, de 20-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116274).
 
 V - sugerir ações de divulgação das comemorações dos trezentos anos da Cidade de Goiás nos âmbitos estadual, nacional e internacional; e
@@ -75,13 +76,16 @@ d)  MARCONI SÉRGIO DE AZEVEDO PIMENTEIRA, Assessor Jurídico do Poder Legislat
 
 VIII – Assembleia Legislativa do Estado de Goiás – ALEGO: KARLOS CABRAL, Deputado Estadual, titular.
 
-IX – Serviço Social do Comércio – SESC, Administração Regional no Estado de Goiás:<br>
+IX – Serviço Social do Comércio – SESC, Administração Regional no Estado de Goiás:
+
 \- [Acrescido pelo Decreto nº 10.961, de 20-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116274).
 
-a) LEOPOLDO VEIGA JARDIM, Diretor Regional, titular; e<br>
+a) LEOPOLDO VEIGA JARDIM, Diretor Regional, titular; e
+
 \- [Acrescida pelo Decreto nº 10.961, de 20-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116274).
 
-b) ANA QUERUBINA DE MORAES, Coordenadora Técnica de Cultura, suplente.<br>
+b) ANA QUERUBINA DE MORAES, Coordenadora Técnica de Cultura, suplente.
+
 \- [Acrescida pelo Decreto nº 10.961, de 20-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116274).
 
 Art. 5º  A coordenação do grupo de trabalho instituído por este Decreto será exercida pelo representante titular da CASA CIVIL, que será substituído, em seus afastamentos e impedimentos legais, pelo respectivo suplente.
@@ -104,5 +108,6 @@ Goiânia, 15 de julho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado

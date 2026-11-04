@@ -1,5 +1,3 @@
-###DEC-051932-0-000-26-04-1963@@@
-
 DECRETO Nº 51.932, de 26 de abril de 1963.
 
 Autoriza o cidadão espanhol Lorenzo Monjo Carreras, a comprar pedras preciosas.

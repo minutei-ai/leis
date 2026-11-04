@@ -1,7 +1,3 @@
-1
-
-###DEC-001705-0-000-17-11-1995@@@
-
 DECRETO Nº 1.705, DE 17 DE NOVEMBRO DE 1995.
 
 Promulga o Acordo de Cooperação para a Prevenção do Uso Indevido e Combate ao Tráfico Ilícito de Entorpecentes e Substâncias Psicotrópicas, entre o Governo da República Federativa do Brasil e o Governo da República Argentina, de 26 de maio de 1993.

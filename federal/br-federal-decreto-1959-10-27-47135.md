@@ -1,5 +1,3 @@
-###DEC-047135-0-000-27-10-1959@@@
-
 DECRETO Nº 47.135, DE 27 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Manoel da Rocha Soares Filho a pesquisar minério de níquel no Município de Liberdade, Estado de Minas Gerais.

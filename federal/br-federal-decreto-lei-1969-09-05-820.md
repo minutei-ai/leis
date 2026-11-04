@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ee0a3614-3827-4a8e-8ee2-7448ea086d10/texto#nowhere)
 
-###DEL-000820-0-000-05-09-1969@@@
-
 DECRETO-LEI Nº 820, DE 5 DE SETEMBRO DE 1969
 
 Acrescenta item ao artigo 2º da Lei nº 1.046, de 2 de janeiro de 1950.

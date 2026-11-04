@@ -1,5 +1,3 @@
-###DEL-008925-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.925 – DE 26 DE JANEIRO DE 1946
 
 Altera e transfere, ao Quadro Permanente, a carreira de Faroleiro do Quadro Suplementar do Ministério da Marinha, cria a de Técnico de Faróis, e dá outras providências.

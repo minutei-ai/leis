@@ -1,5 +1,3 @@
-###DEC-083258-0-000-08-03-1979@@@
-
 decreto nº 83.258, de 08 de março de 1979
 
 Concede à Maraindústria Ltda. o direito de lavrar granito ornamental no Município do Rio de Janeiro, Estado do Rio de Janeiro.

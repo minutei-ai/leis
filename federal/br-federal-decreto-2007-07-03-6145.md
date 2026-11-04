@@ -1,5 +1,3 @@
-###DEC-006145-0-000-03-07-2007@@@
-
 DECRETO Nº 6.145, DE 3 DE JULHO DE 2007.
 
 Dispõe sobre os valores das diárias no Município do Rio de Janeiro até agosto de 2007, em decorrência dos Jogos Pan-Americanos.
@@ -19,5 +17,3 @@ Brasília, 3 de julho de 2007; 186º da Independência e 119º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 4.7.2007

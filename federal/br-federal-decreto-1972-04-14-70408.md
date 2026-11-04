@@ -1,5 +1,3 @@
-###DEC-070408-0-000-14-04-1972@@@
-
 DECRETO Nº 70.408, DE 14 DE ABRIL DE 1972.
 
 Cria Grupo de Trabalho para Estudar a Indústria de reparação naval brasileira.

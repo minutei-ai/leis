@@ -1,5 +1,3 @@
-###DEL-003137-0-000-24-03-1941@@@
-
 DECRETO-LEI N. 3.137 – DE 24 DE MARÇO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de 200:000$0 para atender à construção do monumento Quintino Bocaiuva.

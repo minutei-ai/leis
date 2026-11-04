@@ -1,5 +1,3 @@
-###MPV-000130-0-000-17-09-2003@@@
-
 MEDIDA PROVISÓRIA Nº 130, DE 17 DE SETEMBRO 2003.
 
        Dispõe sobre a autorização para desconto de prestações em folha de pagamento, e dá outras providências.

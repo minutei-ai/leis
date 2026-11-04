@@ -1,5 +1,3 @@
-###DEC-074747-0-000-23-10-1974@@@
-
 DECRETO Nº 74.747, DE 23 DE OUTUBRO DE 1974.
 
 Inclui na relação aprovada pelo Decreto nº 70.482, de 9 de maio de 1972, a Junta Deliberativa do Trigo

@@ -1,5 +1,3 @@
-###DEC-072016-0-000-27-03-1973@@@
-
 DECRETO Nº 72.016, DE 27 DE MARÇO DE 1973.
 
 Torna sem efeito aproveitamento de disponíveis da Universidade Federal do Rio de Janeiro e dá outras providência.

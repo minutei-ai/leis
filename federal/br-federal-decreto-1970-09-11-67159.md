@@ -1,5 +1,3 @@
-###DEC-067159-0-000-11-09-1970@@@
-
 DECRETo nº 67.159, de 11 de setembro de 1970.
 
 Declara caduco o decreto número 8.236 de 19 de novembro de 1941, retificado pelo de nº 15.427, de 2 de maio de 1944.

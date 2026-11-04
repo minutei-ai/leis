@@ -1,5 +1,3 @@
-###DEC-065444-0-000-13-10-1969@@@
-
 decreto nº 65.444 - de 13 de outubro de 1969.
 
 Promulga o Convênio de Cooperação Econômica e Técnica com a Bolívia.

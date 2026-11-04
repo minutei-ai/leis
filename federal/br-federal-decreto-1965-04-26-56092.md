@@ -1,5 +1,3 @@
-###DEC-056092-0-000-26-04-1965@@@
-
 DECRETO Nº 56.092, DE 26 DE ABRIL DE 1965.
 
 Autoriza o Condomínio Minérios do Juaru a pesquisar minério de cobre, no município de Cáceres, Estado do Mato Grosso.

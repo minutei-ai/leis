@@ -1,5 +1,3 @@
-###DEC-073974-0-000-22-04-1974@@@
-
 DECRETO Nº 73.974, DE 22 DE ABRIL DE 1974.
 
 Altera a redação do artigo 25, do Decreto nº 73.620, de 12 de fevereiro de 1974, e dá nova redação ao artigo 40, do Regimento do Departamento Nacional de Águas e Energia Elétrica, aprovado pelo Decreto nº 58.076, de 24 de março de 1966.

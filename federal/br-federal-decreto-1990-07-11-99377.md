@@ -1,7 +1,3 @@
-1
-
-###DEC-099377-0-000-11-07-1990@@@
-
 DECRETO Nº 99.377, DE 11 DE JULHO DE 1990
 
 Altera a redação do art. 5º do Decreto nº 99.179, de 15 de março de 1990, que institui o Programa Federal de Desregulamentação.

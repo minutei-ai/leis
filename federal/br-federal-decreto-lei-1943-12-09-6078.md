@@ -1,5 +1,3 @@
-###DEL-006078-0-000-09-12-1943@@@
-
 DECRETO‑LEI N. 6.078 – DE 9 DE DEZEMBRO DE 1943
 
 Prorroga a vigência do crédito especial aberto pelo decreto‑lei n. 4.446, de 8 de julho de 1942

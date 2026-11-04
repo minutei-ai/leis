@@ -1,5 +1,3 @@
-###DEC-089218-0-000-21-12-1983@@@
-
 Decreto nº 89.218, de 21 de dezEMBRO de 1983
 
 Dispõe sobre o montante do Capital Social da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE.

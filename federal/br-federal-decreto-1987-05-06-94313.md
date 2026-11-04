@@ -1,5 +1,3 @@
-###DEC-094313-0-000-06-05-1987@@@
-
 DECRETO Nº 94.313, DE 6 DE MAIO DE 1987
 
 Dispõe sobre a contratação de pessoal para prestação de serviços técnicos especializados, de natureza permanente e temporária, nos órgãos da Administração Federal direta e nas autarquias federais, e dá outras providências.

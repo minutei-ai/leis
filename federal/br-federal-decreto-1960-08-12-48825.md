@@ -1,5 +1,3 @@
-###DEC-048825-0-000-12-08-1960@@@
-
 DECRETO Nº 48.825, DE 12 DE AGôSTO DE 1960.
 
 Outorga à Companhia Sul Sergipana de Eletricidade concessão para distribuir energia elétrica na sede do município de Indiaroba, Estado de Sergipe.

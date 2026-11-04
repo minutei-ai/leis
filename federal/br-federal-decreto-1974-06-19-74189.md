@@ -1,5 +1,3 @@
-###DEC-074189-0-000-19-06-1974@@@
-
 DECRETO Nº 74.189, DE 19 DE JUNHO DE 1974.
 
 Autoriza o funcionamento do Centro de Estudos Superiores do Estado do Pará , mantido pela Associação Paraense de Ensino e Cultura (ASPEC), com sede na cidade de Belém, Estado do Pará.

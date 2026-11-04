@@ -1,5 +1,3 @@
-###DEC-050543-0-000-04-05-1961@@@
-
 DECRETO Nº 50.543, de 4 de Maio de 1961.
 
 Suprime cargo extinto.

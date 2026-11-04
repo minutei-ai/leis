@@ -1,5 +1,3 @@
-###DEC-048881-0-000-25-08-1960@@@
-
 decreto nº 48.881, de 25 de Agôsto de 1960.
 
 Aprova alterações introduzidas nos Estatutos de “A Suissa” Sociedade Anônima de Seguros Gerais.

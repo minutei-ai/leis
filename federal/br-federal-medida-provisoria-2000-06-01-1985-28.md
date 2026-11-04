@@ -1,5 +1,3 @@
-###MPV-001985-0-028\-01-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-28, DE 1º de junho DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

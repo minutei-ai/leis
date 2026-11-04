@@ -1,7 +1,3 @@
-1
-
-###DEC-098071-0-000-21-08-1989@@@
-
 DECRETO Nº 98.071, DE 21 DE AGOSTO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linha de transmissão de Furnas  Centrais Elétricas S.A., no Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-058014-0-000-17-03-1966@@@
-
 DECRETO Nº 58.014, DE 17 DE MARÇO DE 1966.
 
 Retifica dispositivo do Decreto número 57.770, de 9 de fevereiro de 1966.

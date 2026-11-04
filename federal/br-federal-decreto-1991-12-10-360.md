@@ -1,5 +1,3 @@
-###DEC-000360-0-000-10-12-1991@@@
-
 DECRETO Nº 360, DE 10 DE DEZEMBRO DE 1991
 
 Promulga o Acordo de Sede, entre o Governo da República Federativa do Brasil e o Comitê Internacional da Cruz Vermelha.

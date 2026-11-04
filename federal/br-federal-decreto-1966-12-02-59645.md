@@ -1,5 +1,3 @@
-###DEC-059645-0-000-02-12-1966@@@
-
 DECRETO Nº 59.645, DE 2 DE DEZEMBRO DE 1966.
 
 Autoriza o Departamento Nacional de Portos e Vias Navegantes (D.N.P.V.N.) a ceder, gratuitamente, através de têrmo ou de contrato, à Fundação Abrigo do Cristo Redentor, o terreno, de sua propriedade, situado em Itajaí, Estado de Santa Catarina.

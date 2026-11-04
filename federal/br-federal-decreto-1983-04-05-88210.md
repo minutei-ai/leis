@@ -1,5 +1,3 @@
-###DEC-088210-0-000-05-04-1983@@@
-
 Decreto nº 88.210, de 05 de abril de 1983
 
 Outorga concessão à BARIRI RÁDIO CLUBE LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Bariri, Estado de São Paulo.

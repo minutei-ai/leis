@@ -1,5 +1,3 @@
-###MPV-002009-0-002-11-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.009-2, DE 11 de Fevereiro de 2000.
 
 Assegura percepção de gratificação por servidores da Carreira Policial Federal, e dá outras providências.

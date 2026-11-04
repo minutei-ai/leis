@@ -1,5 +1,3 @@
-###DEC-067396-0-000-16-10-1970@@@
-
 DECRETO Nº 67.396, DE 16 DE outubro de 1970.
 
 Declara caduco o Decreto nº 38.790 de 29 de fevereiro de 1956.

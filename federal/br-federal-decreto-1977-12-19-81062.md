@@ -1,5 +1,3 @@
-###DEC-081062-0-000-19-12-1977@@@
-
 decreto nº 81.062, de 19 de dezembro de 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

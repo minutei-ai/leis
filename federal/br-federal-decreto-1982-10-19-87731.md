@@ -1,5 +1,3 @@
-###DEC-087731-0-000-19-10-1982@@@
-
 Decreto nº 87.731, de 19 de outubro de 1982
 
 Estabelece área de proteção para fonte de água mineral da Companhia de Águas Termais do Gravatal, no Estado de Santa Catarina.

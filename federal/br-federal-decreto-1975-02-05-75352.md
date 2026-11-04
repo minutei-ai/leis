@@ -1,5 +1,3 @@
-###DEC-075352-0-000-05-02-1975@@@
-
 DECRETO Nº 75.352, DE 5 DE FEVEREIRO DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A - CELG, no Estado de Goiás.

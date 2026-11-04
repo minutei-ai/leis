@@ -1,5 +1,3 @@
-###DEC-091971-0-000-22-11-1985@@@
-
 Decreto nº 91.971, de 22 de novembro de 1985
 
 Declara o ano de 1986, como "ANO CARLOS GOMES", e dá outras providências.

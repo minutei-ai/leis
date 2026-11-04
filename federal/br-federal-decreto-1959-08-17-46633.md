@@ -1,5 +1,3 @@
-###DEC-046633-0-000-17-08-1959@@@
-
 DECRETO Nº 46.633, de 17 de agôsto de 1959.
 
 Declara de utilidade pública, uma faixa de terra de trinta metros de largura, ao longo da linha de transmissão entre a localidade de Capivari de Baixo, município de Tubarão, e o distrito de Ilhota, município de Itajaí, Estado de Santa Catarina, e autoriza à Sociedade Termoelétrica de Capivari a promover as desapropriações.

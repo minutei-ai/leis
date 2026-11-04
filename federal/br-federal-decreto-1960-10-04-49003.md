@@ -1,5 +1,3 @@
-###DEC-049003-0-000-04-10-1960@@@
-
 DECRETO Nº 49.003, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Navantino Alves a lavrar minério de ferro e dolomita no município de Belo Horizonte, Estado de Minas Gerais.

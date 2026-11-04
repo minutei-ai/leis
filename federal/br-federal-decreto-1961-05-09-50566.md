@@ -1,5 +1,3 @@
-###DEC-050566-0-000-09-05-1961@@@
-
 decreto nº 50.566, de 9 de maio de 1961.
 
 Conceda à sociedade The Brazilian Coal Co. Limited, autorização para continuar a funcionar na República.

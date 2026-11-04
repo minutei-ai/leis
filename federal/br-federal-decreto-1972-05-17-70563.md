@@ -1,5 +1,3 @@
-###DEC-070563-0-000-17-05-1972@@@
-
 DECRETO Nº 70.563, DE 17 DE MAIO DE 1972.
 
 Restringe e transfere área de concessão de serviços de energia elétrica a dá outras providências.

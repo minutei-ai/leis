@@ -1,14 +1,12 @@
-###DEC-069154-0-000-01-09-1971@@@
+**DECRETO Nº 69.154, DE 1 DE SETEMBRO DE 1971.**
 
-<strong>DECRETO Nº 69.154, DE 1 DE SETEMBRO DE 1971.</strong>
+***Aprova alterações introduzidas nos Estatutos das Centrais Brasileiras S.A - ELETROBRÁS.***
 
-<em><strong>Aprova alterações introduzidas nos Estatutos das Centrais Brasileiras S.A - ELETROBRÁS.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 81, item lll, da Constituição, e nos têrmos do artigo 5º, *in fine* da Lei nº 3.890-A, de 25 de abril de 1961,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 81, item lll, da Constituição, e nos têrmos do artigo 5º, <em>in fine</em> da Lei nº 3.890-A, de 25 de abril de 1961,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam aprovadas as alterações e os acréscimos abaixo, introduzidos nos Estatutos das Centrais Elétricas Brasileiras S.A - ELETROBRÁS conforme deliberação de sua Assembléia-Geral Extraordinária, em reunião realizada em 19 de julho de 1971:
+**Art**. 1º Ficam aprovadas as alterações e os acréscimos abaixo, introduzidos nos Estatutos das Centrais Elétricas Brasileiras S.A - ELETROBRÁS conforme deliberação de sua Assembléia-Geral Extraordinária, em reunião realizada em 19 de julho de 1971:
 
 a) O artigo 5º passa ter seguinte redação:
 
@@ -30,10 +28,10 @@ e) o parágrafo único do artigo 35 passa a § 1º, ficando acrescentado o segui
 
 ‘’2º O pagamento de dividendos será feito no prazo máximo de 60 (sessenta) dias, a contar da data da Assembléia-Geral que os houver aprovado’’.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 1 de setembro de 1971; 150º da Independência e 83º da República.
 
-<strong>EMÍLIO G. MÉDICI</strong>
+**EMÍLIO G. MÉDICI**
 
 Antônio Dias Leite Júnior

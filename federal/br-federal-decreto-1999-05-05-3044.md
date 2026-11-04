@@ -1,5 +1,3 @@
-###DEC-003044-0-000-05-05-1999@@@
-
 DECRETO Nº 3.044, DE MAIO DE 1999.
 
 Dispõe sobre a suspensão, em todo o território nacional, do regime de sanções imposto à Grande Jamahiriya Árabe Popular Socialista da Líbia por meio das Resoluções 748(1992) e 883(1993) do Conselho de Segurança das Nações Unidas, em cumprimento ao disposto na Resolução 1192(1998).

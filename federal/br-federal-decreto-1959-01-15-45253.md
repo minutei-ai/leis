@@ -1,5 +1,3 @@
-###DEC-045253-0-000-15-01-1959@@@
-
 decreto nº 45.253, de 15 de janeiro de 1959.
 
 Autoriza o cidadão brasileiro Antenor Alves da Silva a pesquisar quartzo, minério de ouro e associados no município de Ibitiara, Estado da Bahia.

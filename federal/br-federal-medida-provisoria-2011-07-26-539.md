@@ -1,5 +1,3 @@
-###MPV-000539-0-000-26-07-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 539, DE 26 DE JULHO DE 2011.
 
   Autoriza o Conselho Monetário Nacional, para fins da política monetária e cambial, a estabelecer condições específicas para negociação de contratos de derivativos, altera o art. 3º do Decreto-Lei nº 1.783, de 18 de abril de 1980, e os arts. 1º e 2º da Lei nº 8.894, de 21 de junho de 1994, e dá outras providências.

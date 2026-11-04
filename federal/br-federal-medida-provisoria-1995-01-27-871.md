@@ -1,7 +1,3 @@
-1
-
-###MPV-000871-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 871, DE 27 DE JANEIRO DE 1995
 
 Cria a Gratificação Temporária devida a integrantes da Carreira Policial Federal, e dá outras providências.

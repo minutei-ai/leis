@@ -1,5 +1,3 @@
-###DEC-059638-0-000-01-12-1966@@@
-
 Decreto nº 59.638, de 1º de dezembro de 1966.
 
 Retifica o art. 1º do Decreto número 51.932 A, de 26 de abril de 1963.

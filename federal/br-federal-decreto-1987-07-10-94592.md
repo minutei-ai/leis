@@ -1,5 +1,3 @@
-###DEC-094592-0-000-10-07-1987@@@
-
 DECRETO N° 94.592, DE 10 DE JULHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, em favor da Empresa de Portos do Brasil S.A. - PORTOBRÁS, em caráter de urgência, as ações de propriedade dos acionistas minoritários da Companhia Brasileira de Dragagem - CBD.

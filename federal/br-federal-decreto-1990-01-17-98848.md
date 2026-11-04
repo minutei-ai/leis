@@ -1,7 +1,3 @@
-1
-
-###DEC-098848-0-000-17-01-1990@@@
-
 DECRETO Nº 98.848, DE 17 DE JANEIRO DE 1990
 
 Dispõe sobre execução pela Empresa de Portos do Brasil S.A. PORTOBRÁS, das operações de exportação de açúcar em terminais açucareiros de entidades da Administração indireta e dá outras providências.

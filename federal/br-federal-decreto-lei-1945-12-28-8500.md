@@ -1,5 +1,3 @@
-###DEL-008500-0-000-28-12-1945@@@
-
 DECRETO-LEI N.  8.500 – DE 28 DE DEZEMBRO DE 1945
 
 Transfere para o patrimônio da Fábrica Nacional de Motores, o próprio da União denominado “Fazenda Mato Grosso”, situado no 3º Distrito do Município de Duque de Caxias, no Estado do Rio de janeiro.

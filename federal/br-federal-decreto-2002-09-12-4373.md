@@ -1,5 +1,3 @@
-###DEC-004373-0-000-12-09-2002@@@
-
 DECRETO Nº 4.373, DE 12 DE SETEMBRO DE 2002
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Francesa sobre o Projeto de Construção de uma Ponte sobre o Rio Oiapoque, celebrado em Brasília, em 5 de abril de 2001.

@@ -1,5 +1,3 @@
-###DEC-090744-0-000-20-12-1984@@@
-
 Decreto nº 90.744, de 20 de dezembro de 1984
 
 Declara de ocupação dos silvícolas área de terras no Município de Laranjeiras do Sul, no Estado do Paraná, e dá outras providências.

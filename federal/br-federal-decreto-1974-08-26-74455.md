@@ -1,5 +1,3 @@
-###DEC-074455-0-000-26-08-1974@@@
-
 DECRETO Nº 74.455, DE 26 de AGOSTO DE1974.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciência Administrativas, mantida pela União Universitária de Negócios e Administração (UNA), com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

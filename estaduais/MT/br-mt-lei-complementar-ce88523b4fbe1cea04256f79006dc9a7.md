@@ -1,6 +1,7 @@
-**LEI COMPLEMENTAR Nº 200, DE 20 DE DEZEMBRO DE 2004**<br>
-<br>
-. Autor: Poder Executivo<br>
+**LEI COMPLEMENTAR Nº 200, DE 20 DE DEZEMBRO DE 2004**
+
+. Autor: Poder Executivo
+
 . Publicada no DOE de 20/12/2004.
 
 **Altera a Lei Complementar nº** [**111**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/0988c5946037a9c804256beb006b4f51?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20111%2F02)**, de 1º de julho de 2002, e dá outras providências.**
@@ -25,11 +26,10 @@ XX - manifestar nos Processos Administrativos Disciplinares dos órgãos e entid
 
 XXI **-** exercer as atribuições definidas nas Constituições da República e do Estado e demais leis, desde que compatíveis com a natureza da instituição e de seus princípios constitucionais.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **DA ORGANIZAÇÃO**
 
-<br>
 **Art. 3º** A Procuradoria-Geral do Estado é integrada pelos seguintes órgãos:
 
 I - ...
@@ -56,14 +56,14 @@ e) ...
 
 f) Subprocuradoria-Geral do Estado de Mato Grosso perante os Tribunais Superiores.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **DOS ÓRGÃOS SUPERIORES**
 
-**Seção I**<br>
+**Seção I**
+
 **Do Colégio de Procuradores da Procuradoria-Geral do Estado**
 
-<br>
 **Art. 4º**...
 
 § 1º O Colégio de Procuradores será integrado pelo Procurador-Geral, que o presidirá, pelos Subprocuradores-Gerais, pelo Corregedor-Geral, pelo Chefe do Centro de Estudos e por quatro Procuradores do Estado estáveis, eleitos em escrutínio secreto e direto por todos os integrantes da carreira em efetivo exercício, para mandato de dois anos.
@@ -90,11 +90,10 @@ I - ...
 
 XV - decidir sobre a compatibilidade nos acúmulos de cargos dos membros da Instituição.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Do Procurador-Geral do Estado**
 
-<br>
 **Art. 8º** ...
 
 I - chefiar, coordenar e orientar a Procuradoria-Geral do Estado e presidir o Colégio de Procuradores, dando cumprimento às suas deliberações e resoluções;
@@ -117,11 +116,10 @@ XIII - ...
 
 XIV - designar, sempre que necessário, que o Procurador do Estado acumule atribuições e funções de chefia.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Da Corregedoria-Geral da Procuradoria-Geral do Estado**
 
-<br>
 **Art. 10** ...
 
 I - ...
@@ -148,25 +146,24 @@ VIII - exercer outras atividades que lhe vierem a ser atribuídas ou delegadas p
 
 § 6º O Corregedor-Geral do Estado será substituído em suas faltas, afastamentos, suspeições e impedimentos, por um Procurador do Estado Corregedor Auxiliar designado pelo Procurador-Geral do Estado.
 
-<br>
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **DOS ÓRGÃOS DE EXECUÇÃO**
 
-**Seção I**<br>
+**Seção I**
+
 **Das Subprocuradorias-Gerais**
 
-<br>
 **Art. 13** ...
 
 ...
 
 III - apresentar relatório mensal.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Da Subprocuradoria-Geral Judicial**
 
-<br>
 **Art. 15** ...
 
 ...
@@ -175,22 +172,20 @@ VII - providenciar o encaminhamento das cartas precatórias e devolução à ori
 
 VIII - exercer outras atividades correlatas.
 
-<br>
-**Seção V**<br>
+**Seção V**
+
 **Da Subprocuradoria-Geral de Coordenação de Cálculos, de Precatórios e de Recuperação Fiscal**
 
-<br>
 **Art. 17** Compete à Subprocuradoria-Geral de Coordenação de Cálculos, de Precatórios e de Recuperação Fiscal:
 
 I - ...
 
 Parágrafo único Para realização das atribuições acima, contará a Subprocuradoria-Geral de Coordenação de Cálculos, de Precatórios e de Recuperação Fiscal com um setor de contabilidade, podendo utilizar os demais órgãos de apoio da Procuradoria-Geral do Estado.
 
-<br>
-**Seção VI**<br>
+**Seção VI**
+
 **Da Subprocuradoria-Geral de Coordenação das Procuradorias Regionais**
 
-<br>
 **Art. 18** ...
 
 **Art. 19** As Procuradorias Regionais serão organizadas por resolução do Colégio de Procuradores, que definirá as comarcas abrangidas por elas e a sede respectiva.
@@ -213,11 +208,10 @@ VII - exercer outras atividades correlatas.
 
 **Art. 21** As Procuradorias Regionais são coordenadas por Procuradores do Estado.
 
-<br>
-**Seção VII**<br>
+**Seção VII**
+
 **Da Subprocuradoria-Geral do Estado de Mato Grosso perante os Tribunais Superiores**
 
-<br>
 **Art. 24** À Subprocuradoria-Geral do Estado de Mato Grosso perante os Tribunais Superiores, dirigida por um Subprocurador-Geral, compete:
 
 I - ...
@@ -226,14 +220,14 @@ V - exercer outras atividades correlatas.
 
 Parágrafo único A Subprocuradoria-Geral do Estado de Mato Grosso perante os Tribunais Superiores contará com uma Seção de Expediente.
 
-<br>
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
+
 **DOS ÓRGÃOS DE EXECUÇÃO ADMINISTRATIVA**
 
-**Seção I**<br>
+**Seção I**
+
 **Da Diretoria-Geral**
 
-<br>
 **Art. 25** ...
 
 I...
@@ -242,14 +236,14 @@ II - supervisionar as atividades desenvolvidas pelo Centro de Informática e pel
 
 **Art. 26** O Diretor-Geral da Procuradoria-Geral do Estado será nomeado pelo Governador do Estado, por indicação do Procurador-Geral do Estado, símbolo DGA-3.
 
-<br>
-**TÍTULO II**<br>
+**TÍTULO II**
+
 **DOS PROCURADORES DO ESTADO**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **DA CARREIRA**
 
-<br>
 **Art. 37** Ficam mantidos, criados e transformados os seguintes cargos de provimento em comissão e função gratificada:
 
 I - ...
@@ -264,17 +258,18 @@ V - um (01) cargo de Subprocurador-Geral Adjunto;
 
 VI - um (01) cargo de Chefe de Gabinete de Subprocurador-Geral Adjunto, símbolo DGA-4.
 
-<br>
-**TÍTULO III**<br>
+**TÍTULO III**
+
 **DOS DIREITOS, DAS GARANTIAS E DAS PRERROGATIVAS DO PROCURADOR DO ESTADO**
 
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **DAS FÉRIAS, LICENÇAS E AFASTAMENTOS**
 
-**Seção II**<br>
+**Seção II**
+
 **Das Licenças**
 
-<br>
 **Art. 63** ...
 
 Parágrafo único A licença prevista no inciso IV deste artigo será concedida ao Procurador do Estado, pelo prazo de até um ano, prorrogável por igual período, por deliberação do Colégio de Procuradores.
@@ -283,10 +278,10 @@ Parágrafo único A licença prevista no inciso IV deste artigo será concedida 
 
 **DOS DEVERES, DAS PROIBIÇÕES E DOS IMPEDIMENTOS DO PROCURADOR DO ESTADO**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **DOS DEVERES E DAS PROIBIÇÕES**
 
-<br>
 **Art. 69** ...
 
 I - desincumbir-se diariamente de seus encargos funcionais, no foro ou repartição, só podendo residir fora da sede onde tiver exercício, ou ausentar-se dela, com autorização do Procurador-Geral do Estado;
@@ -331,11 +326,10 @@ VI - exercer sua função, poder ou autoridade com finalidade estranha ao intere
 
 VII - contrariar súmula, parecer normativo ou orientação técnica adotada pelo Colégio de Procuradores.
 
-<br>
-**TÍTULO VI**<br>
+**TÍTULO VI**
+
 **DISPOSIÇÕES FINAIS E TRANSITÓRIAS**
 
-<br>
 **Art. 124** ...
 
 Parágrafo único Ficam mantidos na estrutura da Procuradoria-Geral do Estados os cargos comissionados, níveis DGA-6 e DGA-8, remanejados pelo Decreto nº 5.206, de 8 de outubro de 2002.
@@ -350,28 +344,50 @@ Parágrafo único Ficam mantidos na estrutura da Procuradoria-Geral do Estados o
 
 Palácio Paiaguás, em Cuiabá, 20 de dezembro de 2004.
 
-**BLAIRO BORGES MAGGI**<br>
-CÉLIO WILSON DE OLIVEIRA<br>
-JOAQUIM SUCENA RASGA<br>
-WALTER DE FÁTIMA PEREIRA<br>
-YÊNES JESUS DE MAGALHÃES<br>
-WALDIR JÚLIO TEIS<br>
-SÍRIO PINHEIRO DA SILVA<br>
-HOMERO ALVES PEREIRA<br>
-ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUZA MAGGI<br>
-YÊDA MARLI DE OLIVEIRA ASSIS<br>
-LUIZ ANTÔNIO PAGOT<br>
-ANA CARLA MUNIZ<br>
-GERALDO APARECIDO DE VITTO JÚNIOR<br>
-MARCOS HENRIQUE MACHADO<br>
-JOSÉ CARLOS DIAS<br>
-JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO<br>
-FÁBIO CÉSAR GUIMARÃES NETO<br>
-LOUREMBERG RIBEIRO NUNES ROCHA<br>
-CLOVES FELÍCIO VETTORATO<br>
-MOACIR PIRES DE MIRANDA FILHO<br>
-JOSÉ JOAQUIM DE SOUZA FILHO<br>
-JOÃO CARLOS VICENTE FERREIRA<br>
-FLÁVIA MARIA DE BARROS NOGUEIRA<br>
-<br>
+**BLAIRO BORGES MAGGI**
+
+CÉLIO WILSON DE OLIVEIRA
+
+JOAQUIM SUCENA RASGA
+
+WALTER DE FÁTIMA PEREIRA
+
+YÊNES JESUS DE MAGALHÃES
+
+WALDIR JÚLIO TEIS
+
+SÍRIO PINHEIRO DA SILVA
+
+HOMERO ALVES PEREIRA
+
+ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUZA MAGGI
+
+YÊDA MARLI DE OLIVEIRA ASSIS
+
+LUIZ ANTÔNIO PAGOT
+
+ANA CARLA MUNIZ
+
+GERALDO APARECIDO DE VITTO JÚNIOR
+
+MARCOS HENRIQUE MACHADO
+
+JOSÉ CARLOS DIAS
+
+JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO
+
+FÁBIO CÉSAR GUIMARÃES NETO
+
+LOUREMBERG RIBEIRO NUNES ROCHA
+
+CLOVES FELÍCIO VETTORATO
+
+MOACIR PIRES DE MIRANDA FILHO
+
+JOSÉ JOAQUIM DE SOUZA FILHO
+
+JOÃO CARLOS VICENTE FERREIRA
+
+FLÁVIA MARIA DE BARROS NOGUEIRA

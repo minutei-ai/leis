@@ -1,5 +1,3 @@
-###DEC-071355-0-000-10-11-1972@@@
-
 DECRETO Nº 71.355 - DE 10 DE NOVEMBRO DE 1972.
 
 Cria Comissão Nacional para programar e coordenar as comemorações do Centenário de José Plácido de Castro e dá outras providências.

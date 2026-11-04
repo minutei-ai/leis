@@ -1,5 +1,3 @@
-###DEL-005673-0-000-16-07-1943@@@
-
 DECRETO-LEI N. 5.673 – DE 16 DE JULHO DE 1943
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 27.900,00 para pagamento ao maestro Heitor Vila Lobos

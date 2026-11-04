@@ -1,5 +1,3 @@
-###DEC-050267-0-000-08-02-1961@@@
-
 (\*) DECRETO Nº 50.267, DE 8 DE FEVEREIRO DE 1961.
 
 Revoga o Decreto número 49.984, de 23 de janeiro de 1961.

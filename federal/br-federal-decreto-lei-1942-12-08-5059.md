@@ -1,5 +1,3 @@
-###DEL-005059-0-000-08-12-1942@@@
-
 DECRETO-LEI N. 5.059 – DE 8 DE DEZEMBRO DE 1942
 
  Dispõe sobre a prescrição das ações de anulação de casamento

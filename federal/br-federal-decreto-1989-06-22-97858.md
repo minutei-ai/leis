@@ -1,7 +1,3 @@
-1
-
-###DEC-097858-0-000-22-06-1989@@@
-
 DECRETO Nº 97.858, DE 22 DE JUNHO DE 1989
 
 Dispõe sobre a administração de imóveis residenciais, de propriedade da União, localizados no Distrito Federal, e dá outras providências.

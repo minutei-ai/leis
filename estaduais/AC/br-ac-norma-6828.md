@@ -1,6 +1,10 @@
 > **LEI Nº 4.814, DE 09 DE JUNHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.422, de 18 de dezembro de 2001, que dispõe sobre o Regimento de Custas do Poder Judiciário do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.422, de 18 de dezembro de 2001, que dispõe sobre o Regimento de Custas do Poder Judiciário do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

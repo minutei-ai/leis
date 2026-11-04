@@ -1,7 +1,3 @@
-1
-
-###DEC-098976-0-000-21-02-1990@@@
-
 DECRETO Nº 98.976, DE 21 DE FEVEREIRO DE 1990
 
 Altera o Decreto nº 98.895, de 30 de janeiro de 1990, que regulamenta a Lei nº 7.834, de 6 de outubro de 1989, e dá outras providências.

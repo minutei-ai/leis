@@ -1,5 +1,3 @@
-###DEC-051060-0-000-26-07-1961@@@
-
 DECRETO Nº 51.060, DE 26 DE JULHO DE 1961.
 
 Dispõe sôbre o reajustamento automático das pensões concedidas pelo Instituto de Previdência e Assistência dos Servidores do Estado (IPASE), tendo em vista o disposto no art. 9º da Lei nº 3.593, de 27 de julho de 1959, e dá outras providências.

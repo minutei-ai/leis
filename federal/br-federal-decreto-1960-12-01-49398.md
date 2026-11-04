@@ -1,5 +1,3 @@
-###DEC-049398-0-000-01-12-1960@@@
-
 DECRETO Nº 49.398, DE 1º DE DEZEMBRO DE 1960.
 
 Concede à Emprêsa Brasileira de Engenharia S.A. autorização para funcionar como emprêsa de mineração.

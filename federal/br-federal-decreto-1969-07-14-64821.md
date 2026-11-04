@@ -1,5 +1,3 @@
-###DEC-064821-0-000-14-07-1969@@@
-
 DECRETO Nº 64.821 - DE 14 DE JULHO DE 1969.
 
 Decreta a intervenção federal no Município de Carlópolis, Estado do Paraná.

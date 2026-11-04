@@ -1,5 +1,3 @@
-###DEC-005954-0-000-07-11-2006@@@
-
 DECRETO Nº 5.954 DE 7 DE NOVEMBRO DE 2006.
 
 Acresce e altera dispositivos do Decreto no 5.115, de 24 de junho de 2004, e dá outras providências.
@@ -103,5 +101,3 @@ Brasília, 7 de novembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 8.11.2006

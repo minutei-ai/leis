@@ -1,5 +1,3 @@
-###DEC-048890-0-000-26-08-1960@@@
-
 DECRETO Nº 48.896, DE 26 DE AGÔSTO DE 1960.
 
 Dispõe o funcionamento do Escritório-Território de Execução do Acôrdo Sôbre Cooperação Técnico-Administrativa entre o Brasil e a França e dá outras providências.

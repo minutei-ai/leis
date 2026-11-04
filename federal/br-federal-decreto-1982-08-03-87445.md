@@ -1,5 +1,3 @@
-###DEC-087445-0-000-03-08-1982@@@
-
 Decreto nº 87.445, de 03 de agosto de 1982
 
 Altera dispositivos do Decreto nº 77.272, de 9 de março de 1976, que reorganiza as Forças Navais, Aeronavais e de Fuzileiros Navais e dá outras providências.

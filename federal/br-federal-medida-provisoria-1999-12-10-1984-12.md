@@ -1,5 +1,3 @@
-###MPV-001984-0-012-10-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.984-12, DE 10 DE DEZEMBRO DE 1999.
 
 Acresce a altera dispositivos das Leis nos 8.437, de 30 de junho de 1992, 9.028, de 12 de abril de 1995, e 9.494, de 10 de setembro de 1997, e dá outras providências.

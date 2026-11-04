@@ -1,5 +1,3 @@
-###DEC-066615-0-000-21-05-1970@@@
-
 DECRETO Nº 66.615, DE 21 DE MAIO DE 1970.
 
 Altera a composição da Comissão Supervisora do Planejamento e Execução de Obras da Cidade Universitária, da Universidade Federal do Rio de Janeiro.

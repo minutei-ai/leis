@@ -1,5 +1,3 @@
-###DEC-086273-0-000-10-08-1981@@@
-
 Decreto nº 86.273, de 10 de agosto de 1981.
 
 Renova por 10 (dez) anos a concessão outorga à RÁDIO DIFUSORA DE POÇOS DE CALDAS LTDA. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Poços de Caldas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-068063-0-000-14-01-1971@@@
-
 DECRETO Nº 68.063, DE 14 DE JANEIRO DE 1971.
 
 Extingue o Conselho Técnico de Economia Finanças e da outras providências.

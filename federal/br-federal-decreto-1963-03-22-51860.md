@@ -1,5 +1,3 @@
-###DEC-051860-0-000-22-03-1963@@@
-
 DECRETO Nº 51.860, DE 22 DE MARÇO DE 1963.
 
 Dispõe sôbre a Comissão Permanente de Direito Social do Ministério do Trabalho de Previdência Social.

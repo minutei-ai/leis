@@ -1,5 +1,3 @@
-###DEC-005348-0-000-19-01-2005@@@
-
 DECRETO Nº 5.348 DE 19 DE JANEIRO DE 2005
 
 Dá nova redação aos arts. 2º e 9º do Decreto nº 74.170, de 10 de junho de 1974, que regulamenta a Lei nº 5.991, de 17 de dezembro de 1973, que dispõe sobre o controle sanitário do comércio de drogas, medicamentos, insumos farmacêuticos e correlatos.

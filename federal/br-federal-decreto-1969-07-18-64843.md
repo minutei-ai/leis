@@ -1,5 +1,3 @@
-###DEC-064843-0-000-18-07-1969@@@
-
 DECRETO Nº 64.843 - DE 18 DE JULHO DE 1969.
 
 Declara caduco o Decreto n.º 7.823, de 10 de setembro de 1941.

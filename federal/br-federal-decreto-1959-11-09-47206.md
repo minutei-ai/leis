@@ -1,5 +1,3 @@
-###DEC-047206-0-000-09-11-1959@@@
-
 Decreto nº 47.206, de 9 de novembro de 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Nordeste de Seguros.

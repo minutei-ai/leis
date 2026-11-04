@@ -1,6 +1,10 @@
 > **LEI Nº 3.768, DE 09 DE AGOSTO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.312, de 29 de dezembro de 1999, que “Institui o Sistema Estadual de Habitação de Interesse Social do Acre – SEHAC, cria o Fundo Estadual de Habitação e dá outras providências.”</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.312, de 29 de dezembro de 1999, que “Institui o Sistema Estadual de Habitação de Interesse Social do Acre – SEHAC, cria o Fundo Estadual de Habitação e dá outras providências.”
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -28,8 +32,6 @@
 
 **§ 2º** A presidência do CEH será exercida pelo secretário da SEDUR.
 
-<br>
-
 ...
 
 **Art. 9º** O Estado, através da SEDUR, conforme diretrizes fixadas pelo CEH, orientará a ação dos órgãos públicos e da iniciativa privada com atuação na área habitacional, priorizando o atendimento à população de menor renda.
@@ -39,8 +41,6 @@
 ... **(NR)**
 
 **Art. 13.** ...
-
-<br>
 
 ...
 
@@ -55,8 +55,6 @@
 ...
 
 **§ 3º** Os recursos serão destinados, com prioridade, a projetos que tenham como proponentes, o Estado do Acre, através da SEDUR, prefeituras municipais, organizações comunitárias, associações de moradores e cooperativas habitacionais cadastradas junto ao CEH, após aprovados por este, mediante apresentação da documentação necessária.
-
-<br>
 
 ...
 

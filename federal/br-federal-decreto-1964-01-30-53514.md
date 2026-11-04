@@ -1,5 +1,3 @@
-###DEC-053514-0-000-30-01-1964@@@
-
 DECRETO nº 53.514, de 30 de Janeiro de 1964.
 
 Estende os benefícios do Decreto número 52.701, de 18 de outubro de 1963, ao pessoal da Companhia de Navegação do São Francisco.

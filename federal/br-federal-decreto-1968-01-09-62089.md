@@ -1,5 +1,3 @@
-###DEC-062089-0-000-09-01-1968@@@
-
 DECRETO Nº 62.089, DE 9 DE JANEIRO DE 1968.
 
 Retifica o artigo 1º do Decreto nº 59.072, de 12 de agôsto de 1966.

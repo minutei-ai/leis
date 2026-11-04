@@ -1,7 +1,3 @@
-1
-
-###DEC-099677-0-000-08-11-1990@@@
-
 DECRETO N° 99.677, DE 8 DE NOVEMBRO DE 1990
 
 Revoga o Decreto n° 72.898, de 9 de outubro de 1973.

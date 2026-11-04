@@ -1,5 +1,3 @@
-###DEC-075610-0-000-15-04-1975@@@
-
 DECRETO Nº 75.610, DE 15 DE ABRIL DE 1975.
 
 Autoriza a cessão gratuita do terreno que menciona, situado no Estado de Mato Grosso.

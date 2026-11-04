@@ -1,5 +1,3 @@
-###DEL-000015-0-000-25-11-1937@@@
-
 DECRETO-LEI N. 15 – DE 25 DE NOVEMBRO DE 1937
 
  Revoga o decreto n. 24.264, de 17 de maio de 1934

@@ -1,5 +1,3 @@
-###DEC-094596-0-000-13-07-1987@@@
-
 DECRETO N° 94.596, DE 13 DE JULHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Piacatu, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

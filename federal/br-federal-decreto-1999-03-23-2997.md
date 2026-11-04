@@ -1,5 +1,3 @@
-###DEC-002997-0-000-23-03-1999@@@
-
 DECRETO Nº 2.997, DE 23 DE MARÇO DE 1999
 
 Dispõe sobre a implantação das estruturas do Ministério do Meio Ambiente e da Secretaria Especial de Políticas Regionais da Câmara de Políticas Regionais.

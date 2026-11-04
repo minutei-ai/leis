@@ -1,5 +1,3 @@
-###DEC-061192-0-000-21-08-1967@@@
-
 DECRETO Nº 61.192, DE 21 DE AGÔSTO DE 1967.
 
 Retifica o Decreto nº 51.371, de 13 de dezembro de 1961, que aprovou o Quadro de Pessoal do ex-IAPETC.

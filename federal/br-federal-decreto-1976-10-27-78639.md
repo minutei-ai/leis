@@ -1,5 +1,3 @@
-###DEC-078639-0-000-27-10-1976@@@
-
 Decreto Nº 78.639, DE 27 DE OUTUBRO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

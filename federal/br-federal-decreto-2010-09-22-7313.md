@@ -1,5 +1,3 @@
-###DEC-007313-0-000-22-09-2010-PUB-01@@@
-
 DECRETO Nº 7.313, DE 22 DE SETEMBRO DE 2010.
 
 Dispõe sobre procedimentos orçamentários e financeiros relacionados à autonomia dos institutos federais de educação, ciência e tecnologia.

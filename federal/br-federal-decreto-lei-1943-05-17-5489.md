@@ -1,5 +1,3 @@
-###DEL-005489-0-000-17-05-1943@@@
-
 DECRETO‑LEI N. 5.489  –  DE 17 DE MAIO DE 1943
 
 Extingue o 2º Regimento Auto‑Metralhadoras de Divisão de Cavalaria, com sede em Uruguaiana

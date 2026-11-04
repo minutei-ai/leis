@@ -1,5 +1,3 @@
-###DEC-092628-0-000-02-05-1986@@@
-
 DECRETO Nº 92.628, DE 2 DE MAIO DE 1986
 
 Outorga à Companhia de Saneamento Básico do Estado de São Paulo - SABESP concessão para captação de águas do rio Jaguari, para abastecimento público, no Estado de São Paulo.

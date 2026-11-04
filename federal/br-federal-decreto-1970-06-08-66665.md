@@ -1,5 +1,3 @@
-###DEC-066665-0-000-08-06-1970@@@
-
 DECRETO Nº 66.665, DE 8 DE JUNHO DE 1970.
 
 Declara de utilidade pública a Benemérita Irmandade da Santa Casa de Misericórdia de Nova Friburgo, com sede em Nova Friburgo, Estado do Rio de Janeiro.

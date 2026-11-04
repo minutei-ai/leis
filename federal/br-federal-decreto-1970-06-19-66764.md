@@ -1,5 +1,3 @@
-###DEC-066764-0-000-19-06-1970@@@
-
 Decreto nº 66.764 - de 19 de junho de 1970
 
 Autoriza funcionamento da Faculdade de Ciências Contábeis de Sobral.

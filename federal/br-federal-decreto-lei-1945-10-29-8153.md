@@ -1,5 +1,3 @@
-###DEL-008153-0-000-29-10-1945@@@
-
 DECRETO-LEI N. 8.153  – DE 29 DE OUTUBRO DE 1945
 
 Estabelece as bases de organização do Salão Nacional de Belas Artes, e dispõe sôbre outras medidas de proteção às artes plásticas em todo o país.

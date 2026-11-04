@@ -1,5 +1,3 @@
-###DEC-056013-0-000-23-04-1965@@@
-
 DECRETO Nº 56.013, DE 23 DE ABRIL DE 1965.
 
 Concede à Companhia Industrial Maranhense (CIM) autorização para funcionar como emprêsa de minério.

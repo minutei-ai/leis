@@ -1,24 +1,22 @@
-###DEC-025150-0-000-29-06-1948@@@
+**DECRETO Nº 25.150, DE 29 DE JUNHO DE 1948.**
 
-<strong>DECRETO Nº 25.150, DE 29 DE JUNHO DE 1948.</strong>
+***Aprova cláusulas para a revisão dos contratos de arrendamento da Rêde Mineira de Viação ao Govêrno do Estado de Minas Gerais.***
 
-<em><strong>Aprova cláusulas para a revisão dos contratos de arrendamento da Rêde Mineira de Viação ao Govêrno do Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição, que lhe confere o artigo 87, item I, da Constituição, e da autorização constante da Lei nº 475, de 17 de agôsto de 1937, para a revisão dos contratos de arrendamento da Rêde Mineira de Viação ao Govêrno do Estado de Minas Gerais,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição, que lhe confere o artigo 87, item I, da Constituição, e da autorização constante da Lei nº 475, de 17 de agôsto de 1937, para a revisão dos contratos de arrendamento da Rêde Mineira de Viação ao Govêrno do Estado de Minas Gerais,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as cláusulas de contrato que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas, para a revisão dos contratos de arrendamento da Rêde Mineira de Viação ao Govêrno do Estado de Minas Gerais.
 
-<strong>Art</strong>. 1º Ficam aprovadas as cláusulas de contrato que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas, para a revisão dos contratos de arrendamento da Rêde Mineira de Viação ao Govêrno do Estado de Minas Gerais.
-
-<strong>Art</strong>. 2º No corrente exercício, a proposta de orçamento a ser organizada pelo Estado para vigorar no próximo exercício, de que trata o § 2º da cláusula V, será apresentada pelo Gôverno do Estado de Minas Gerais ao Ministério da Viação e Obras Públicas, por intermedio do Departamento Nacional de Estradas de Ferro, dentro de trinta dias após a data da assinatura do contrato.
+**Art**. 2º No corrente exercício, a proposta de orçamento a ser organizada pelo Estado para vigorar no próximo exercício, de que trata o § 2º da cláusula V, será apresentada pelo Gôverno do Estado de Minas Gerais ao Ministério da Viação e Obras Públicas, por intermedio do Departamento Nacional de Estradas de Ferro, dentro de trinta dias após a data da assinatura do contrato.
 
 Rio de Janeiro, 29 de junho de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 25.150, DE 29 DE JUNHO DE 1948.</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 25.150, DE 29 DE JUNHO DE 1948.**
 
 I - Objeto do contrato
 
@@ -282,4 +280,4 @@ A vigência do presente contrato de arrendamento fica dependendo de seu registro
 
 Rio de Janeiro, 29 de junho de 1948.
 
-<strong>CLOVIS PESTANA</strong>
+**CLOVIS PESTANA**

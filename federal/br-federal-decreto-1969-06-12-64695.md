@@ -1,5 +1,3 @@
-###DEC-064695-0-000-12-06-1969@@@
-
 DECRETO Nº 64.695, DE 12 DE JUNHO DE 1969.
 
 Inclui representante do Ministério do Interior no Grupo de Trabalho Interministerial destinado a estudar e propor regulamento sôbre a cobrança da Contribuição de Melhoria.

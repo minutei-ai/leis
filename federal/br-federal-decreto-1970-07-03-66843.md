@@ -1,5 +1,3 @@
-###DEC-066843-0-000-03-07-1970@@@
-
 DECRETO Nº 66.843, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a sociedade civil intitulada "Socorro do Sagrado Coração de Jesus", com sede em Goiânia,  Estado de Goiás.

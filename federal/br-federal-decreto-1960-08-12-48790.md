@@ -1,5 +1,3 @@
-###DEC-048790-0-000-12-08-1960@@@
-
 DECRETO Nº 48.790, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza o cidadão brasileiro Herculano Noxara Corrêa a pesquisar corindon no município de Mairiporã, Estado de São Paulo.

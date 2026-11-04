@@ -1,5 +1,3 @@
-###DEC-050811-0-000-17-06-1961@@@
-
 DECRETO Nº 50.811, 17 DE JUNHO DE 1961.
 
 Constitui Comissão encarregada de promover a execução do Decreto nº 50.423, de 8 de abril de 1961.

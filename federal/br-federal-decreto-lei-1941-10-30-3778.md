@@ -1,5 +1,3 @@
-###DEL-003778-0-000-30-10-1941@@@
-
 DECRETO-LEI N. 3.778 – DE 30 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Pública, o crédito suplementar de 1.000:000$, à verba que específica

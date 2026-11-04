@@ -1,5 +1,3 @@
-###DEC-081958-0-000-11-07-1978@@@
-
 Decreto nº 81.958, de 11 de julho de 1978.
 
 Concede à Minérios Industriais do sul S.A. - MINEL o direito de lavrar argila no Município de Urussanga, Estado de Santa Catarina.

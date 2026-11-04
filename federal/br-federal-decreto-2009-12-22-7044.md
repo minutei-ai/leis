@@ -1,5 +1,3 @@
-###DEC-007044-0-000-22-12-2009@@@
-
 DECRETO Nº 7.044, DE 22 DE DEZEMBRO DE 2009.
 
 Altera o Decreto no 6.759, de 5 de fevereiro de 2009, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior

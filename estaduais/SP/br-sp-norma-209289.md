@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209289)<br>
-
 # LEI N° 17.896, DE 09 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 498/2021, dos Deputados Leci Brandão - PCdoB, Marcio Nakashima - PDT, Márcia Lia - PT e Emídio de Souza - PT)

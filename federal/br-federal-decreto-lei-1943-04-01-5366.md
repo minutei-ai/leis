@@ -1,5 +1,3 @@
-###DEL-005366-0-000-01-04-1943@@@
-
 DECRETO‑LEI N. 5.366 – DE 1 DE ABRIL DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de CrP    9\. 500. 000,00 para ocorrer a despesas de obras e outras

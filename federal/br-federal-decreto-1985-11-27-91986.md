@@ -1,5 +1,3 @@
-###DEC-091986-0-000-27-11-1985@@@
-
 Decreto nº 91.986, de 27 de novembro de 1985
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Araçatuba.

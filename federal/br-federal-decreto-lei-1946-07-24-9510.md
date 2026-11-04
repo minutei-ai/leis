@@ -1,5 +1,3 @@
-###DEL-009510-0-000-24-07-1946@@@
-
 DECRETO-LEI N. 9.510 – DE 24 JULHO DE 1946
 
 Cria os Comandos da Zona Sul, Centro, Leste e Norte

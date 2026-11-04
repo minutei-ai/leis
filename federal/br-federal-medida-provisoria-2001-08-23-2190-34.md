@@ -1,5 +1,3 @@
-###MPV-002190-0-034-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.190-34, DE 23 DE AGOSTO DE 2001
 
  Altera dispositivos das Leis nº 9.782, de 26 de janeiro de 1999, que define o Sistema Nacional de Vigilância Sanitária e cria a Agência Nacional de Vigilância Sanitária, e nº 6.437, de 20 de agosto de 1977, que configura infrações à legislação sanitária federal e estabelece as sanções respectivas, e dá outras providências.

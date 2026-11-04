@@ -1,5 +1,3 @@
-###DEC-007287-0-000-01-09-2010-PUB-01@@@
-
 DECRETO Nº 7.287, DE 1º DE SETEMBRO DE 2010.
 
 Cria a Embaixada do Brasil em Minsk, na República de Belarus

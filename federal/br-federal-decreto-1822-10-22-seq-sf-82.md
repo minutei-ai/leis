@@ -1,5 +1,3 @@
-###DEC-000000-0-082-22-10-1822@@@
-
 DECRETO - DE 22 DE OUTUBRO DE 1822
 
 Concede perdão aos presos por causas crimes, excepto aos que o estiverem pelos delictos que vão especificados.

@@ -1,5 +1,3 @@
-###DEC-046076-0-000-19-05-1959@@@
-
 DECRETO Nº 46.076, DE 19 DE MAIO DE 1959
 
 Autoriza a Emprêsa de Luz e Fôrça de Florianópolis S.A. (ELFA) a instalar uma usina diesel-elétrica, em Florianópolis, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-005788-0-000-31-08-1943@@@
-
 DECRETO‑LEI N. 5. 788 – DE 31 DE AGÔSTO DE 1943
 
 Dispõe sôbre a vigência dos créditos extraordinários

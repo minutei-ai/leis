@@ -1,5 +1,3 @@
-###DEC-082245-0-000-11-09-1978@@@
-
 Decreto nº 82.245, de 11 de setembro de 1978
 
 Concede reconhecimento aos cursos de Ciências, Estudos Sociais e Letras, ministrados pela Universidade do Estado do Rio de Janeiro, no "Campus" Avançado de Parintins, no Estado do Amazonas.

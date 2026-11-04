@@ -1,5 +1,3 @@
-###DEC-003336-0-000-13-01-2000@@@
-
 DECRETO Nº 3.336, DE 13 DE JANEIRO DE 2000
 
 Dá nova redação aos arts. 11, 15, 16, 19 e 30 do Anexo ao Decreto nº 2.390, de 19 de novembro de 1997, que aprova o Estatuto da Companhia Nacional de Abastecimento - CONAB.

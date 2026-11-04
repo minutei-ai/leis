@@ -1,5 +1,3 @@
-###DEC-089003-0-000-16-11-1983@@@
-
 Decreto nº 89.003, de 16 de novembro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Londrina da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado do Paraná.

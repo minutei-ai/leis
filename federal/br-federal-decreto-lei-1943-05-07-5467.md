@@ -1,5 +1,3 @@
-###DEL-005467-0-000-07-05-1943@@@
-
 DECRETO‑LEI N. 5.467 – DE 7 DE MAIO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 26.500,00 para pagamento de contribuição ao Instituto Internacional Americano de Proteção à Infância

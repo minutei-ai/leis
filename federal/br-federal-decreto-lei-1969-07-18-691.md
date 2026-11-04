@@ -1,5 +1,3 @@
-###DEL-000691-0-000-18-07-1969@@@
-
 DECRETO-LEI Nº 691, DE 18 DE JULHO DE 1969
 
 Dispõe sôbre a não aplicação, aos contratos de técnicos estrangeiros, com estipulação de pagamento de salários em moeda estrangeira, de diversas disposições da legislação trabalhista, e dá outras providências.

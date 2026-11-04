@@ -1,5 +1,3 @@
-###DEC-006449-0-000-07-05-2008@@@
-
 DECRETO Nº 6.449, DE 7 DE MAIO DE 2008.
 
 Dispõe sobre a transferência da cumulatividade das Embaixadas do Brasil em Bishkek, na República Quirguiz, e em Ashkhabad, na República do Turcomenistão.
@@ -29,5 +27,3 @@ Brasília, 7 de maio de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 8.5.2008

@@ -1,5 +1,3 @@
-###DEC-097425-0-000-29-12-1988@@@
-
 DECRETO N° 97.425, DE 29 DE DEZEMBRO DE 1988
 
 Dispõe sobre a composição da Comissão de Coordenação Financeira - CCF, do Ministério da Fazenda.

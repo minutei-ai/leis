@@ -1,5 +1,3 @@
-###DEL-006631-0-000-27-06-1944@@@
-
 DECRETO-LEI N. 6.631 – DE 27 DE JUNHO DE 1944
 
 Dispõe sôbre a concessão de licenças e férias a extranumerários diaristas e tarefeiros da União

@@ -1,5 +1,3 @@
-###DEC-096552-0-000-23-08-1988@@@
-
 DECRETO N° 96.552, DE 23 DE AGOSTO DE 1988
 
 Altera dispositivo do Decreto n° 94.712, de 31 de julho de 1987.

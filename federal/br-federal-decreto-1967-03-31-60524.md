@@ -1,5 +1,3 @@
-###DEC-060524-0-000-31-03-1967@@@
-
 DECRETO Nº 60.524, DE 31 DE MARÇO DE 1967.
 
 Determina a intervenção administrativa nos termos nos serviços públicos de energia elétrica do Distrito de Pesqueira, Município de Pesqueira, Estado de Pernambuco, e dá outras providências.

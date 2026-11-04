@@ -1,10 +1,8 @@
-###EMC-000013-0-000-10-10-1979@@@
+**EMENDA CONSTITUCIONAL Nº 13**
 
-<strong>EMENDA CONSTITUCIONAL Nº 13</strong>
+***Altera o art. 36 da Constituição Federal.***
 
-<em><strong>Altera o art. 36 da Constituição Federal.</strong></em>
-
-<strong>AS MESAS DA CÂMARA DOS DEPUTADOS</strong> e do SENADO FEDERAL, nos termos do art. 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
+**AS MESAS DA CÂMARA DOS DEPUTADOS** e do SENADO FEDERAL, nos termos do art. 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
 Artigo único - O art. 36 da Constituição Federal passa a vigorar com a seguinte redação:
 
@@ -16,4 +14,62 @@ Artigo único - O art. 36 da Constituição Federal passa a vigorar com a seguin
 
 Brasília, em 10 de outubro de 1979.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>A Mesa da Câmara dos Deputados</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>A Mesa do Senado Federal</span></span></p></td></tr><tr style="height:36pt"><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span><span>FLÁVIO MARCÍLIO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Presidente</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span><span>LUIZ VIANA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Presidente</span></span></p></td></tr><tr style="height:36pt"><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>HOMERO SANTOS</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>NILO COELHO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr style="height:36pt"><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>RENATO AZEREDO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>DINARTE MARIZ</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td></tr><tr style="height:36pt"><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>WILSON BRAGA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>ALEXANDRE COSTA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td></tr><tr style="height:36pt"><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>EPITÁCIO CAFETEIRA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>GABRIEL HERMES</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td></tr><tr style="height:36pt"><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>ARI KFFURI</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>GASTÃO MÜLLER</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário, em exercício</span></span></p></td></tr><tr style="height:36pt"><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>WALMOR DE LUCA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>JORGE KALUME</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário, em exercício</span></span></p></td></tr></tbody></table>
+A Mesa da Câmara dos Deputados
+
+A Mesa do Senado Federal
+
+FLÁVIO MARCÍLIO
+
+Presidente
+
+LUIZ VIANA
+
+Presidente
+
+HOMERO SANTOS
+
+1º Vice-Presidente
+
+NILO COELHO
+
+1º Vice-Presidente
+
+RENATO AZEREDO
+
+2º Vice-Presidente
+
+DINARTE MARIZ
+
+2º Vice-Presidente
+
+WILSON BRAGA
+
+1º Secretário
+
+ALEXANDRE COSTA
+
+1º Secretário
+
+EPITÁCIO CAFETEIRA
+
+2º Secretário
+
+GABRIEL HERMES
+
+2º Secretário
+
+ARI KFFURI
+
+3º Secretário
+
+GASTÃO MÜLLER
+
+3º Secretário, em exercício
+
+WALMOR DE LUCA
+
+4º Secretário
+
+JORGE KALUME
+
+4º Secretário, em exercício

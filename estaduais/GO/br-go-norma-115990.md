@@ -36,7 +36,8 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação e produz efeitos a 
 
 Goiânia, 29 de junho de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO ÚNICO

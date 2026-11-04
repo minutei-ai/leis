@@ -1,5 +1,3 @@
-###DEC-002800-0-000-13-10-1998@@@
-
 DECRETO Nº 2.800, DE 13 DE OUTUBRO DE 1998
 
 Revoga dispositivos dos Decretos nºs 60.459, de 13 de março de 1967, e 81.402, de 23 de fevereiro de 1978.

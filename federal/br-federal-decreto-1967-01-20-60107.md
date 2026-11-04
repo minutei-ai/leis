@@ -1,5 +1,3 @@
-###DEC-060107-0-000-20-01-1967@@@
-
 DECRETO Nº 60.107, DE 20 DE JANEIRO DE 1967.
 
 Declara de utilidade pública e autoriza a Companhia Brasileira de Energia Elétrica a promover a desapropriação de áreas de terra no Estado do Rio de Janeiro.

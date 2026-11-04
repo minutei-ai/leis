@@ -1,5 +1,3 @@
-###DEC-007169-0-000-06-05-2010@@@
-
 DECRETO Nº 7.169, DE 6 DE MAIO DE 2010
 
 Promulga o Acordo, por Troca de Notas, para o Estabelecimento de um Depósito Franco no Porto de Rio Grande para Cargas Transportadas por Rodovia, celebrado em Brasília, em 11 de setembro de 2006, que complementa o "Convênio entre a República Federativa do Brasil e a República do Paraguai para o Estabelecimento de um Depósito Franco no Porto de Rio Grande", celebrado em Brasília, no dia 21 de julho de 1987.

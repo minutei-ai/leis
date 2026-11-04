@@ -1,5 +1,3 @@
-###DEC-066513-0-000-29-04-1970@@@
-
 DECRETO Nº 66.513, DE 29 DE ABRIL DE 1970.
 
 Aprova o Regulamento do Gabinete do Ministro da Aeronáutica e dá outras providências.

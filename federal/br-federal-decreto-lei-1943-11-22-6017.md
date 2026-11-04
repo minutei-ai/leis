@@ -1,5 +1,3 @@
-###DEL-006017-0-000-22-11-1943@@@
-
 DECRETO‑LEI N. 6.017 – DE 22 DE NOVEMBRO DE 1943
 
 Dispôe sôbre a aposentadoria de Jorge Joaquim Dias Filho

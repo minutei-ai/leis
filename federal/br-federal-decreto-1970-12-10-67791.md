@@ -1,5 +1,3 @@
-###DEC-067791-0-000-10-12-1970@@@
-
 DECRETO Nº 67.791, DE 10 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 22.598, de 21 de fevereiro de 1947.

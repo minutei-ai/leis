@@ -1,5 +1,3 @@
-###DEL-000092-0-000-30-12-1966@@@
-
 DECRETO-LEI nº 92, DE 30 DE DEZEMBRO DE 1966
 
 Retifica, sem aumento de despesa a Lei nº 4.900, de 10 de dezembro de 1965.
@@ -22,9 +20,153 @@ Art. 1º As dotações da Verba 4.06.14 - Diretoria do Ensino Industrial (Órgã
 
 1\) Escolas da Rêde Federal (Lei nº 3.552-59, artigo 28, e Lei nº 3.976-61; Lei nº 4.069-62)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.22</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Alagoas .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>274.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.23</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Ceará ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>190.803</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.24</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Mato Grosso ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>101.599</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.25</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Pará ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>132.497</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.26</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal da Paraíba .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>202.603</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.27</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Piauí .........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>165.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.28</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Santa Catarina ..........................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>179.517</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.29</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal se Sergipe ......................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>180.171</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.30</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Rio Grande do Norte .................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>136.548</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.31</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Amazonas ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>142.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.32</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Bahia ...........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>322.675</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.33</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Campos .......................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>96.937</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.34</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Espírito Santo ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>301.820</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.35</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Goiás ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>164.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.36</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Guanabara ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>546.852</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.37</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Química da Guanabara ...............</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>52.620</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.38</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Maranhão ....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>304.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.39</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Minas Gerais ...............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>239.109</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.40</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Ouro Prêto ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>37.118</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.41</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Paraná ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>281.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.42</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pelotas ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>247.469</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.43</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pernambuco ................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>271.630</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.44</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de São Paulo ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">440.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL .....................................................................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">5.009.968</span></p></td></tr></tbody></table>
+Cr$
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2) Para atender às despesas resultantes da conclusão de enquadramentos e readaptações do pessoal, do Ministério, à disposição das Escolas da rêde federal</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>650.081</span></p></td></tr></tbody></table>
+W.22
+
+- Escola Industrial Federal de Alagoas .....................................
+
+274.000
+
+W.23
+
+- Escola Industrial Federal do Ceará ........................................
+
+190.803
+
+W.24
+
+- Escola Industrial Federal de Mato Grosso ..............................
+
+101.599
+
+W.25
+
+- Escola Industrial Federal do Pará ..........................................
+
+132.497
+
+W.26
+
+- Escola Industrial Federal da Paraíba .....................................
+
+202.603
+
+W.27
+
+- Escola Industrial Federal do Piauí .........................................
+
+165.000
+
+W.28
+
+- Escola Industrial Federal de Santa Catarina ..........................
+
+179.517
+
+W.29
+
+- Escola Industrial Federal se Sergipe ......................................
+
+180.171
+
+W.30
+
+- Escola Industrial Federal do Rio Grande do Norte .................
+
+136.548
+
+W.31
+
+- Escola Técnica Federal do Amazonas ...................................
+
+142.000
+
+W.32
+
+- Escola Técnica Federal da Bahia ...........................................
+
+322.675
+
+W.33
+
+- Escola Técnica Federal de Campos .......................................
+
+96.937
+
+W.34
+
+- Escola Técnica Federal do Espírito Santo ..............................
+
+301.820
+
+W.35
+
+- Escola Técnica Federal de Goiás ..........................................
+
+164.000
+
+W.36
+
+- Escola Técnica Federal da Guanabara ..................................
+
+546.852
+
+W.37
+
+- Escola Técnica Federal de Química da Guanabara ...............
+
+52.620
+
+W.38
+
+- Escola Técnica Federal do Maranhão ....................................
+
+304.000
+
+W.39
+
+- Escola Técnica Federal de Minas Gerais ...............................
+
+239.109
+
+W.40
+
+- Escola Técnica Federal de Ouro Prêto ..................................
+
+37.118
+
+W.41
+
+- Escola Técnica Federal do Paraná ........................................
+
+281.000
+
+W.42
+
+- Escola Técnica Federal de Pelotas ........................................
+
+247.469
+
+W.43
+
+- Escola Técnica Federal de Pernambuco ................................
+
+271.630
+
+W.44
+
+- Escola Técnica Federal de São Paulo ...................................
+
+440.000
+
+TOTAL .....................................................................................
+
+5.009.968
+
+2) Para atender às despesas resultantes da conclusão de enquadramentos e readaptações do pessoal, do Ministério, à disposição das Escolas da rêde federal
+
+650.081
 
 3.2.0.0 - TRANSFERÊNCIAS CORRENTES
 
@@ -34,11 +176,295 @@ Art. 1º As dotações da Verba 4.06.14 - Diretoria do Ensino Industrial (Órgã
 
 01.00 - pessoal dos órgãos da Administração descentralizadas
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.22</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Alagoas .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>213.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.23</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Ceará ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>159.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.24</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Mato Grosso ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>233.663</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.25</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Pará ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>47.471</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.26</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal da Paraíba .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>94.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.27</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Piauí .........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>107.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.28</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Santa Catarina ..........................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>141.350</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.29</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Sergipe .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>65.874</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.30</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Rio Grande do Norte .................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>158.957</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.31</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Amazonas ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>143.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.32</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Bahia ...........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>200.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.33</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Campos .......................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>127.909</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.34</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Espírito Santo ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>216.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.35</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Goiás ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>146.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.36</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Guanabara ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>917.280</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.37</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Química da Guanabara ...............</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>58.732</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.38</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Maranhão ....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>191.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.39</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Minas Gerais ...............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>365.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.40</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Ouro Prêto ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>104.730</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.41</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Paraná ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>320.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.42</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pelotas ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>314.397</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.43</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pernambuco ................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>350.310</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.44</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de São Paulo ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">160.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL .....................................................................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">4.834.673</span></p></td></tr></tbody></table>
+Cr$
+
+W.22
+
+- Escola Industrial Federal de Alagoas .....................................
+
+213.000
+
+W.23
+
+- Escola Industrial Federal do Ceará ........................................
+
+159.000
+
+W.24
+
+- Escola Industrial Federal de Mato Grosso ..............................
+
+233.663
+
+W.25
+
+- Escola Industrial Federal do Pará ..........................................
+
+47.471
+
+W.26
+
+- Escola Industrial Federal da Paraíba .....................................
+
+94.000
+
+W.27
+
+- Escola Industrial Federal do Piauí .........................................
+
+107.000
+
+W.28
+
+- Escola Industrial Federal de Santa Catarina ..........................
+
+141.350
+
+W.29
+
+- Escola Industrial Federal de Sergipe .....................................
+
+65.874
+
+W.30
+
+- Escola Industrial Federal do Rio Grande do Norte .................
+
+158.957
+
+W.31
+
+- Escola Técnica Federal do Amazonas ...................................
+
+143.000
+
+W.32
+
+- Escola Técnica Federal da Bahia ...........................................
+
+200.000
+
+W.33
+
+- Escola Técnica Federal de Campos .......................................
+
+127.909
+
+W.34
+
+- Escola Técnica Federal do Espírito Santo ..............................
+
+216.000
+
+W.35
+
+- Escola Técnica Federal de Goiás ..........................................
+
+146.000
+
+W.36
+
+- Escola Técnica Federal da Guanabara ..................................
+
+917.280
+
+W.37
+
+- Escola Técnica Federal de Química da Guanabara ...............
+
+58.732
+
+W.38
+
+- Escola Técnica Federal do Maranhão ....................................
+
+191.000
+
+W.39
+
+- Escola Técnica Federal de Minas Gerais ...............................
+
+365.000
+
+W.40
+
+- Escola Técnica Federal de Ouro Prêto ..................................
+
+104.730
+
+W.41
+
+- Escola Técnica Federal do Paraná ........................................
+
+320.000
+
+W.42
+
+- Escola Técnica Federal de Pelotas ........................................
+
+314.397
+
+W.43
+
+- Escola Técnica Federal de Pernambuco ................................
+
+350.310
+
+W.44
+
+- Escola Técnica Federal de São Paulo ...................................
+
+160.000
+
+TOTAL .....................................................................................
+
+4.834.673
 
 02.00 - Demais despesas de Custo dos Órgãos da Administração Descentralizada.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.22</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Alagoas .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>267.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.23</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Ceará ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>113.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.24</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Mato Grosso ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>48.200</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.25</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Pará ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>72.529</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.26</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal da Paraíba .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>90.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.27</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Piauí .........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>77.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.28</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Santa Catarina ..........................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>188.650</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.29</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Sergipe .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>98.160</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.30</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Rio Grande do Norte .................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>81.043</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.31</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Amazonas ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>105.500</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.32</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Bahia ...........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>171.800</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.33</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Campos .......................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>78.581</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.34</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Espírito Santo ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>134.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.35</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Goiás ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>94.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.36</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Guanabara ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>282.720</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.37</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Química da Guanabara ...............</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>63.934</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.38</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Maranhão ....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>230.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.39</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Minas Gerais ...............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>115.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.40</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Ouro Prêto ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>95.270</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.41</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Paraná ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>160.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.42</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pelotas ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>105.603</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.43</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pernambuco ................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>94.740</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.44</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de São Paulo ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">75.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL .....................................................................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">2.841.730</span></p></td></tr></tbody></table>
+Cr$
+
+W.22
+
+- Escola Industrial Federal de Alagoas .....................................
+
+267.000
+
+W.23
+
+- Escola Industrial Federal do Ceará ........................................
+
+113.000
+
+W.24
+
+- Escola Industrial Federal de Mato Grosso ..............................
+
+48.200
+
+W.25
+
+- Escola Industrial Federal do Pará ..........................................
+
+72.529
+
+W.26
+
+- Escola Industrial Federal da Paraíba .....................................
+
+90.000
+
+W.27
+
+- Escola Industrial Federal do Piauí .........................................
+
+77.000
+
+W.28
+
+- Escola Industrial Federal de Santa Catarina ..........................
+
+188.650
+
+W.29
+
+- Escola Industrial Federal de Sergipe .....................................
+
+98.160
+
+W.30
+
+- Escola Industrial Federal do Rio Grande do Norte .................
+
+81.043
+
+W.31
+
+- Escola Técnica Federal do Amazonas ...................................
+
+105.500
+
+W.32
+
+- Escola Técnica Federal da Bahia ...........................................
+
+171.800
+
+W.33
+
+- Escola Técnica Federal de Campos .......................................
+
+78.581
+
+W.34
+
+- Escola Técnica Federal do Espírito Santo ..............................
+
+134.000
+
+W.35
+
+- Escola Técnica Federal de Goiás ..........................................
+
+94.000
+
+W.36
+
+- Escola Técnica Federal da Guanabara ..................................
+
+282.720
+
+W.37
+
+- Escola Técnica Federal de Química da Guanabara ...............
+
+63.934
+
+W.38
+
+- Escola Técnica Federal do Maranhão ....................................
+
+230.000
+
+W.39
+
+- Escola Técnica Federal de Minas Gerais ...............................
+
+115.000
+
+W.40
+
+- Escola Técnica Federal de Ouro Prêto ..................................
+
+95.270
+
+W.41
+
+- Escola Técnica Federal do Paraná ........................................
+
+160.000
+
+W.42
+
+- Escola Técnica Federal de Pelotas ........................................
+
+105.603
+
+W.43
+
+- Escola Técnica Federal de Pernambuco ................................
+
+94.740
+
+W.44
+
+- Escola Técnica Federal de São Paulo ...................................
+
+75.000
+
+TOTAL .....................................................................................
+
+2.841.730
 
 3.2.5.0 - SALÁRIO-FAMÍLIA
 
@@ -46,7 +472,151 @@ Art. 1º As dotações da Verba 4.06.14 - Diretoria do Ensino Industrial (Órgã
 
 1\) Escolas da rêde federal (Lei nº 3.552-59, art. 28 e Lei nº 3.976-61; Lei nº 4.069-62)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.22</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Alagoas .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16.040</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.23</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Ceará ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.24</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Mato Grosso ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9.637</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.25</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Pará ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.26</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal da Paraíba .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>19.800</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.27</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Piauí .........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>26.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.28</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Santa Catarina ..........................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>22.560</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.29</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Sergipe .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>18.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.30</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Rio Grande do Norte .................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14.947</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.31</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Amazonas ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.32</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Bahia ...........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>29.613</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.33</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Campos .......................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.810</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.34</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Espírito Santo ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25.380</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.35</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Goiás ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>41.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.36</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Guanabara ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>34.680</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.37</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Química da Guanabara ...............</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.38</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Maranhão ....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>51.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.39</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Minas Gerais ...............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>66.420</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.40</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Ouro Prêto ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.500</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.41</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Paraná ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>60.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.42</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pelotas ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.940</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.43</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pernambuco ................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>26.160</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.44</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de São Paulo ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">40.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>TOTAL .....................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total de transferências correntes .............................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>568.487</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">8.244.890</span></p></td></tr></tbody></table>
+W.22
+
+- Escola Industrial Federal de Alagoas .....................................
+
+16.040
+
+W.23
+
+- Escola Industrial Federal do Ceará ........................................
+
+10.000
+
+W.24
+
+- Escola Industrial Federal de Mato Grosso ..............................
+
+9.637
+
+W.25
+
+- Escola Industrial Federal do Pará ..........................................
+
+14.000
+
+W.26
+
+- Escola Industrial Federal da Paraíba .....................................
+
+19.800
+
+W.27
+
+- Escola Industrial Federal do Piauí .........................................
+
+26.000
+
+W.28
+
+- Escola Industrial Federal de Santa Catarina ..........................
+
+22.560
+
+W.29
+
+- Escola Industrial Federal de Sergipe .....................................
+
+18.000
+
+W.30
+
+- Escola Industrial Federal do Rio Grande do Norte .................
+
+14.947
+
+W.31
+
+- Escola Técnica Federal do Amazonas ...................................
+
+5.000
+
+W.32
+
+- Escola Técnica Federal da Bahia ...........................................
+
+29.613
+
+W.33
+
+- Escola Técnica Federal de Campos .......................................
+
+4.810
+
+W.34
+
+- Escola Técnica Federal do Espírito Santo ..............................
+
+25.380
+
+W.35
+
+- Escola Técnica Federal de Goiás ..........................................
+
+41.000
+
+W.36
+
+- Escola Técnica Federal da Guanabara ..................................
+
+34.680
+
+W.37
+
+- Escola Técnica Federal de Química da Guanabara ...............
+
+3.000
+
+W.38
+
+- Escola Técnica Federal do Maranhão ....................................
+
+51.000
+
+W.39
+
+- Escola Técnica Federal de Minas Gerais ...............................
+
+66.420
+
+W.40
+
+- Escola Técnica Federal de Ouro Prêto ..................................
+
+4.500
+
+W.41
+
+- Escola Técnica Federal do Paraná ........................................
+
+60.000
+
+W.42
+
+- Escola Técnica Federal de Pelotas ........................................
+
+15.940
+
+W.43
+
+- Escola Técnica Federal de Pernambuco ................................
+
+26.160
+
+W.44
+
+- Escola Técnica Federal de São Paulo ...................................
+
+40.000
+
+TOTAL .....................................................................................
+
+Total de transferências correntes .............................................
+
+568.487
+
+8.244.890
 
 4.0.0.0 - DESPESAS DE CAPITAL
 
@@ -56,19 +626,419 @@ Art. 1º As dotações da Verba 4.06.14 - Diretoria do Ensino Industrial (Órgã
 
 4.3.2.1 - ENTIDADES FEDERAIS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.22</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Alagoas .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>60.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.23</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Ceará ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>95.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.24</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Mato Grosso ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>70.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.25</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Pará ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>150.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.26</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal da Paraíba .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>85.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.27</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Piauí .........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.28</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Santa Catarina ..........................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>70.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.29</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Sergipe .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>450.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.30</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Rio Grande do Norte .................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>400.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.31</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Amazonas ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.32</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Bahia ...........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>40.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.33</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Campos .......................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>250.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.34</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Espírito Santo ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>128.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.36</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Guanabara ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>23.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.39</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Minas Gerais ...............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.40</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Ouro Prêto ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>180.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.41</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Paraná ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.42</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pelotas ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.43</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pernambuco ................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>60.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.44</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de São Paulo ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>200.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ....................................................................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">2.431.000</span></p></td></tr></tbody></table>
+W.22
+
+- Escola Industrial Federal de Alagoas .....................................
+
+60.000
+
+W.23
+
+- Escola Industrial Federal do Ceará ........................................
+
+95.000
+
+W.24
+
+- Escola Industrial Federal de Mato Grosso ..............................
+
+70.000
+
+W.25
+
+- Escola Industrial Federal do Pará ..........................................
+
+150.000
+
+W.26
+
+- Escola Industrial Federal da Paraíba .....................................
+
+85.000
+
+W.27
+
+- Escola Industrial Federal do Piauí .........................................
+
+50.000
+
+W.28
+
+- Escola Industrial Federal de Santa Catarina ..........................
+
+70.000
+
+W.29
+
+- Escola Industrial Federal de Sergipe .....................................
+
+450.000
+
+W.30
+
+- Escola Industrial Federal do Rio Grande do Norte .................
+
+400.000
+
+W.31
+
+- Escola Técnica Federal do Amazonas ...................................
+
+50.000
+
+W.32
+
+- Escola Técnica Federal da Bahia ...........................................
+
+40.000
+
+W.33
+
+- Escola Técnica Federal de Campos .......................................
+
+250.000
+
+W.34
+
+- Escola Técnica Federal do Espírito Santo ..............................
+
+128.000
+
+W.36
+
+- Escola Técnica Federal da Guanabara ..................................
+
+23.000
+
+W.39
+
+- Escola Técnica Federal de Minas Gerais ...............................
+
+50.000
+
+W.40
+
+- Escola Técnica Federal de Ouro Prêto ..................................
+
+180.000
+
+W.41
+
+- Escola Técnica Federal do Paraná ........................................
+
+10.000
+
+W.42
+
+- Escola Técnica Federal de Pelotas ........................................
+
+10.000
+
+W.43
+
+- Escola Técnica Federal de Pernambuco ................................
+
+60.000
+
+W.44
+
+- Escola Técnica Federal de São Paulo ...................................
+
+200.000
+
+TOTAL ....................................................................................
+
+2.431.000
 
 4.3.3.0 - AUXÍLIO PARA EQUIPAMENTOS E INSTALAÇÕES
 
 4.3.3.1 - ENTIDADES FEDERAIS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.22</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Alagoas .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.23</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Ceará ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>38.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.24</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Mato Grosso ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.25</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Pará ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.26</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal da Paraíba .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.27</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Piauí .........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>86.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.28</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Santa Catarina ..........................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>60.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.29</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Sergipe .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>53.840</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.30</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Rio Grande do Norte .................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.31</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Amazonas ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>85.300</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.32</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Bahia ...........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>44.700</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.33</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Campos .......................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>34.810</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.34</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Espírito Santo ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.35</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Goiás ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>130.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.36</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Guanabara ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>77.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.37</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Química da Guanabara ...............</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.805</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.39</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Minas Gerais ...............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.40</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Ouro Prêto ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>91.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.41</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Paraná ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.42</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pelotas ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.43</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pernambuco ................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>19.200</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.44</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de São Paulo ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">45.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL .....................................................................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">1.087.655</span></p></td></tr></tbody></table>
+W.22
+
+- Escola Industrial Federal de Alagoas .....................................
+
+30.000
+
+W.23
+
+- Escola Industrial Federal do Ceará ........................................
+
+38.000
+
+W.24
+
+- Escola Industrial Federal de Mato Grosso ..............................
+
+30.000
+
+W.25
+
+- Escola Industrial Federal do Pará ..........................................
+
+20.000
+
+W.26
+
+- Escola Industrial Federal da Paraíba .....................................
+
+100.000
+
+W.27
+
+- Escola Industrial Federal do Piauí .........................................
+
+86.000
+
+W.28
+
+- Escola Industrial Federal de Santa Catarina ..........................
+
+60.000
+
+W.29
+
+- Escola Industrial Federal de Sergipe .....................................
+
+53.840
+
+W.30
+
+- Escola Industrial Federal do Rio Grande do Norte .................
+
+50.000
+
+W.31
+
+- Escola Técnica Federal do Amazonas ...................................
+
+85.300
+
+W.32
+
+- Escola Técnica Federal da Bahia ...........................................
+
+44.700
+
+W.33
+
+- Escola Técnica Federal de Campos .......................................
+
+34.810
+
+W.34
+
+- Escola Técnica Federal do Espírito Santo ..............................
+
+10.000
+
+W.35
+
+- Escola Técnica Federal de Goiás ..........................................
+
+130.000
+
+W.36
+
+- Escola Técnica Federal da Guanabara ..................................
+
+77.000
+
+W.37
+
+- Escola Técnica Federal de Química da Guanabara ...............
+
+20.805
+
+W.39
+
+- Escola Técnica Federal de Minas Gerais ...............................
+
+50.000
+
+W.40
+
+- Escola Técnica Federal de Ouro Prêto ..................................
+
+91.000
+
+W.41
+
+- Escola Técnica Federal do Paraná ........................................
+
+7.000
+
+W.42
+
+- Escola Técnica Federal de Pelotas ........................................
+
+5.000
+
+W.43
+
+- Escola Técnica Federal de Pernambuco ................................
+
+19.200
+
+W.44
+
+- Escola Técnica Federal de São Paulo ...................................
+
+45.000
+
+TOTAL .....................................................................................
+
+1.087.655
 
 4.3.4.0 - AUXÍLIO PARA MATERIAL PERMANENTE
 
 4.3.4.1 - ENTIDADES FEDERAIS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.22</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Alagoas .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.23</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Ceará ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>35.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.24</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Mato Grosso ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8.137</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.25</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Pará ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.26</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal da Paraíba .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>31.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.27</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Piauí .........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.28</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Santa Catarina ..........................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.29</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal de Sergipe .....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>32.126</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.30</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Industrial Federal do Rio Grande do Norte .................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.31</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Amazonas ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16.200</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.32</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Bahia ...........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>43.500</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.33</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Campos .......................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8.700</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.34</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Espírito Santo ..............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.35</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Goiás ..........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.36</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal da Guanabara ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.37</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Química da Guanabara ...............</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.529</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.38</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Maranhão ....................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>29.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.39</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Minas Gerais ...............................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.40</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Ouro Prêto ..................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>29.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.41</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal do Paraná ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.42</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pelotas ........................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.43</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de Pernambuco ................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.750</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>W.44</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Escola Técnica Federal de São Paulo ...................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">20.000</span></p></td></tr><tr><td style="width:44.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:279.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>TOTAL ....................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total de transferências de capital ............................................</span></p></td><td style="width:69.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>584.942</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">4.103.597</span></p></td></tr></tbody></table>
+W.22
+
+- Escola Industrial Federal de Alagoas .....................................
+
+30.000
+
+W.23
+
+- Escola Industrial Federal do Ceará ........................................
+
+35.000
+
+W.24
+
+- Escola Industrial Federal de Mato Grosso ..............................
+
+8.137
+
+W.25
+
+- Escola Industrial Federal do Pará ..........................................
+
+10.000
+
+W.26
+
+- Escola Industrial Federal da Paraíba .....................................
+
+31.000
+
+W.27
+
+- Escola Industrial Federal do Piauí .........................................
+
+20.000
+
+W.28
+
+- Escola Industrial Federal de Santa Catarina ..........................
+
+20.000
+
+W.29
+
+- Escola Industrial Federal de Sergipe .....................................
+
+32.126
+
+W.30
+
+- Escola Industrial Federal do Rio Grande do Norte .................
+
+50.000
+
+W.31
+
+- Escola Técnica Federal do Amazonas ...................................
+
+16.200
+
+W.32
+
+- Escola Técnica Federal da Bahia ...........................................
+
+43.500
+
+W.33
+
+- Escola Técnica Federal de Campos .......................................
+
+8.700
+
+W.34
+
+- Escola Técnica Federal do Espírito Santo ..............................
+
+12.000
+
+W.35
+
+- Escola Técnica Federal de Goiás ..........................................
+
+30.000
+
+W.36
+
+- Escola Técnica Federal da Guanabara ..................................
+
+100.000
+
+W.37
+
+- Escola Técnica Federal de Química da Guanabara ...............
+
+6.529
+
+W.38
+
+- Escola Técnica Federal do Maranhão ....................................
+
+29.000
+
+W.39
+
+- Escola Técnica Federal de Minas Gerais ...............................
+
+20.000
+
+W.40
+
+- Escola Técnica Federal de Ouro Prêto ..................................
+
+29.000
+
+W.41
+
+- Escola Técnica Federal do Paraná ........................................
+
+3.000
+
+W.42
+
+- Escola Técnica Federal de Pelotas ........................................
+
+15.000
+
+W.43
+
+- Escola Técnica Federal de Pernambuco ................................
+
+15.750
+
+W.44
+
+- Escola Técnica Federal de São Paulo ...................................
+
+20.000
+
+TOTAL ....................................................................................
+
+Total de transferências de capital ............................................
+
+584.942
+
+4.103.597
 
 Art. 2º Êste decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

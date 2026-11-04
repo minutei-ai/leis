@@ -1,5 +1,3 @@
-###DEC-082315-0-000-25-09-1978@@@
-
 Decreto nº 82.315, de 25 de setembro de 1978.
 
 Concede reconhecimento ao curso de Ciência da Faculdade de Filosofia, Ciências e Letras de São João da Boa Vista, com sede na cidade de São João da Boa Vista, Estado de São Paulo.

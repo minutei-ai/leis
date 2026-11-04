@@ -60,7 +60,8 @@ XI - o representante do IBC - Instituto Brasileiro do Café, na Bahia;
 
 XII - um representante de cada uma das seguintes cooperativas:
 
-Redação de acordo com art. 1º da Lei nº [4.700](https://www.legislabahia.ba.gov.br/documentos/lei-no-4700-de-09-de-outubro-de-1987#LO_4_700) , de 09 de outubro de 1987.<br>
+Redação de acordo com art. 1º da Lei nº [4.700](https://www.legislabahia.ba.gov.br/documentos/lei-no-4700-de-09-de-outubro-de-1987#LO_4_700) , de 09 de outubro de 1987.
+
 Redação original: "XII - 3 (três) representantes das cooperativas existentes nas Regiões Cafeeiras do Estado, sendo 2 (dois) indicados pela FAEB - Federação da Agricultura do Estado da Bahia, e 1 (um) pela OCEB - Organização das Cooperativas do Estado da Bahia;"
 
 a) Cooperativa Agropecuária de Amargosa Ltda, com sede na Cidade de Amargosa, neste Estado;
@@ -79,22 +80,26 @@ XIII - 1 (um) representante da Comissão Técnica de Café da Federação da Agr
 
 XIV - O Presidente da Federação dos Trabalhadores da Agricultura.
 
-Redação de acordo com art. 1º da Lei nº [4.700](https://www.legislabahia.ba.gov.br/documentos/lei-no-4700-de-09-de-outubro-de-1987#LO_4_700) , de 09 de outubro de 1987.<br>
+Redação de acordo com art. 1º da Lei nº [4.700](https://www.legislabahia.ba.gov.br/documentos/lei-no-4700-de-09-de-outubro-de-1987#LO_4_700) , de 09 de outubro de 1987.
+
 Redação original: "XIV - o Presidente da Federação dos Trabalhadores da Agricultura do Estado da Bahia."
 
 § 1º - Os membros titulares do Conselho indicarão os seus respectivos suplentes.
 
-Redação de acordo com art. 1º da Lei nº [4.700](https://www.legislabahia.ba.gov.br/documentos/lei-no-4700-de-09-de-outubro-de-1987#LO_4_700) , de 09 de outubro de 1987.<br>
+Redação de acordo com art. 1º da Lei nº [4.700](https://www.legislabahia.ba.gov.br/documentos/lei-no-4700-de-09-de-outubro-de-1987#LO_4_700) , de 09 de outubro de 1987.
+
 Redação original: "§1º - A representação apontada nos itens XII, XIII e XIV será feita pelo prazo de 1 (um) ano, renovável por igual período"
 
 § 2º - Além do voto singular, o Presidente do Conselho terá o de qualidade se houver empate em suas decisões internas.
 
-Redação de acordo com art. 1º da Lei nº [4.700](https://www.legislabahia.ba.gov.br/documentos/lei-no-4700-de-09-de-outubro-de-1987#LO_4_700) , de 09 de outubro de 1987.<br>
+Redação de acordo com art. 1º da Lei nº [4.700](https://www.legislabahia.ba.gov.br/documentos/lei-no-4700-de-09-de-outubro-de-1987#LO_4_700) , de 09 de outubro de 1987.
+
 Redação original: "§2º - Os membros titulares do Conselho indicarão os seus respectivos suplentes, exceto o do ítem XIV, que será da competência da Comissão de Agricultura e Política Rural da Assembléia Legislativa do Estado da Bahia."
 
 § 3º - Na ausência, vaga ou impedimento do Secretário da Indústria, Comércio e Turismo, o Conselho será presidido pelo seu substituto legal.
 
-Redação de acordo com art. 1º da Lei nº [4.700](https://www.legislabahia.ba.gov.br/documentos/lei-no-4700-de-09-de-outubro-de-1987#LO_4_700) , de 09 de outubro de 1987.<br>
+Redação de acordo com art. 1º da Lei nº [4.700](https://www.legislabahia.ba.gov.br/documentos/lei-no-4700-de-09-de-outubro-de-1987#LO_4_700) , de 09 de outubro de 1987.
+
 Redação original: "§3º - Além do voto singular, o Presidente do Conselho terá o de qualidade, se houver empate em suas decisões internas."
 
 § 4º - Na ausência, vaga ou impedimento do Secretário da Indústria, Comércio e Turismo, o Conselho será presidido pelo seu substituto legal.

@@ -1,5 +1,3 @@
-###DEC-073910-0-000-05-04-1974@@@
-
 DECRETO Nº 73.910, DE 5 DE ABRIL DE 1974.
 
 Revoga o Decreto nº 50.715, de 31 de maio de 1961, e outorga concessão.

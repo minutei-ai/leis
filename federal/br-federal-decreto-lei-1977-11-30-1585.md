@@ -1,5 +1,3 @@
-###DEL-001585-0-000-30-11-1977@@@
-
 # Decreto-lei nº 1.585, de 30 de novembro 1977
 
 Concede isenção dos impostos de importação e sobre produtos industrializados ao material que indica, importado pela ARSA - Aeroportos do Rio de Janeiro S.A.

@@ -1,5 +1,3 @@
-###DEC-054744-0-000-30-10-1964@@@
-
 DECRETO Nº 54.744, DE 30 DE OUTUBRO DE 1964.
 
 Transfere da firma P. Machado & Companhia para a Companhia de Eletricidade do Cariri a concessão para distribuir energia elétrica, e dá outras providências.

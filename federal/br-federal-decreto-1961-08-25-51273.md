@@ -1,5 +1,3 @@
-###DEC-051273-0-000-25-08-1961@@@
-
 DECRETO Nº 51.273, DE 25 DE AGÔSTO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado da Bahia, as águas do rio Pedras.

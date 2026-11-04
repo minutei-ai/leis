@@ -1,5 +1,3 @@
-###DEC-047819-0-000-03-03-1960@@@
-
 DECRETO Nº 47.819, DE 3 DE MARÇO DE 1960.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, fração ideal domínio útil do terreno de marinha que menciona, no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-046562-0-000-11-08-1959@@@
-
 DECRETO Nº 46.562, DE 11 DE AGÔSTO DE 1959.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil da fração ideal do terreno de marinha que menciona, situado no Distrito Federal.

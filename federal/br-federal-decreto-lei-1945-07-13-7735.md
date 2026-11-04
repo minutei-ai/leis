@@ -1,5 +1,3 @@
-###DEL-007735-0-000-13-07-1945@@@
-
 DECRETO-LEI N. 7.735 – DE 13 DE JULHO DE 1945
 
 Abre crédito suplementar ao Ministério do Trabalho, Indústria e Comércio.

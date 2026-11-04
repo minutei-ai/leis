@@ -1,5 +1,3 @@
-###DEC-047490-0-000-24-12-1959@@@
-
 DECRETO Nº 47.490, DE 24 DE DEZEMBRO DE 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista da Divisão de Fomento da Produção Vegetal, do Departamento Nacional da Produção Vegetal, para idêntica tabela da Inspetoria Regional de Fomento Agrícola no Estado do Espírito Santo, da mesma Divisão e Departamento, ambos do Ministério da Agricultura.

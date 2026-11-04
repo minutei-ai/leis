@@ -4,12 +4,18 @@ Altera a Lei nº 7.775, de 15 de dezembro de 2025 – Plano Plurianual – PPA p
 
 **A CÂMARA MUNICIPAL DE RIO VERDE - GO APROVA E EU SANCIONO A SEGUINTE LEI**
 
-Art. 1º Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:<br>
-**ÓRGÃO: 16 – FUNDO MUNICIPAL DE SAÚDE – FMS<br>
-UNIDADE: 33 – FUNDO MUNICIPAL DE SAÚDE – FMS<br>
-FUNÇÃO: 10 - SAÚDE<br>
-SUBFUNÇÃO: 301 – ATENÇÃO BÁSICA<br>
-PROGRAMA: 6178 – PROGRAMA SAÚDE AO ALCANCE DE TODOS<br>
+Art. 1º Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:
+
+**ÓRGÃO: 16 – FUNDO MUNICIPAL DE SAÚDE – FMS
+
+UNIDADE: 33 – FUNDO MUNICIPAL DE SAÚDE – FMS
+
+FUNÇÃO: 10 - SAÚDE
+
+SUBFUNÇÃO: 301 – ATENÇÃO BÁSICA
+
+PROGRAMA: 6178 – PROGRAMA SAÚDE AO ALCANCE DE TODOS
+
 AÇÃO: 2095 – ASSOCIAÇÃO BENEFICIENTE ANDRÉ LUIZ - ABAL**
 
 | Metas | Unidade de Medida | 2026 |
@@ -30,12 +36,18 @@ Art. 4º A cobertura dos créditos abertos no total de R$ 122.086,57 (cento e vi
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 16 | 33 | 10 | 301 | 6178 | 2095 | 100 | 335043 | 122.086,57 |
 
-Art. 5º Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:<br>
-**ÓRGÃO: 16 – FUNDO MUNICIPAL DE SAÚDE – FMS<br>
-UNIDADE: 33 – FUNDO MUNICIPAL DE SAÚDE – FMS<br>
-FUNÇÃO: 10 - SAÚDE<br>
-SUBFUNÇÃO:  301 – ATENÇÃO BÁSICA<br>
-PROGRAMA: 6178 – PROGRAMA SAÚDE AO ALCANCE DE TODOS<br>
+Art. 5º Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:
+
+**ÓRGÃO: 16 – FUNDO MUNICIPAL DE SAÚDE – FMS
+
+UNIDADE: 33 – FUNDO MUNICIPAL DE SAÚDE – FMS
+
+FUNÇÃO: 10 - SAÚDE
+
+SUBFUNÇÃO:  301 – ATENÇÃO BÁSICA
+
+PROGRAMA: 6178 – PROGRAMA SAÚDE AO ALCANCE DE TODOS
+
 AÇÃO: 2233 – COMUNIDADE TERAPÊUTICA NOVO CAMINHO**
 
 | Metas | Unidade de Medida | 2025 |
@@ -56,12 +68,18 @@ Art. 8º A cobertura dos créditos abertos no total de R$ 49.990,00 (quarenta e 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 16 | 33 | 10 | 301 | 6178 | 2233 | 100 | 335043 | 49.990,00 |
 
-Art. 9º Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:<br>
-**ÓRGÃO: 16 – FUNDO MUNICIPAL DE SAÚDE – FMS<br>
-UNIDADE: 33 – FUNDO MUNICIPAL DE SAÚDE – FMS<br>
-FUNÇÃO: 10 - SAÚDE<br>
-SUBFUNÇÃO:  301 – ATENÇÃO BÁSICA<br>
-PROGRAMA: 6178 – PROGRAMA SAÚDE AO ALCANCE DE TODOS<br>
+Art. 9º Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:
+
+**ÓRGÃO: 16 – FUNDO MUNICIPAL DE SAÚDE – FMS
+
+UNIDADE: 33 – FUNDO MUNICIPAL DE SAÚDE – FMS
+
+FUNÇÃO: 10 - SAÚDE
+
+SUBFUNÇÃO:  301 – ATENÇÃO BÁSICA
+
+PROGRAMA: 6178 – PROGRAMA SAÚDE AO ALCANCE DE TODOS
+
 AÇÃO: 2100 – FUNDAÇÃO PRESBITERIANA DE EDUCAÇÃO**
 
 | Metas | Unidade de Medida | 2025 |
@@ -82,12 +100,18 @@ Art. 12. A cobertura dos créditos abertos no total de R$ 18.380,82 (dezoito mil
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 16 | 33 | 10 | 301 | 6178 | 2100 | 100 | 335043 | 18.380,82 |
 
-Art. 13. Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:<br>
-**ÓRGÃO: 26 – FUNDO MUNICIPAL DO IDOSO – FMI<br>
-UNIDADE: 01 – FUNDO MUNICIPAL DO IDOSO – FMI<br>
-FUNÇÃO: 14 - DIREITOS DA CIDADANIA<br>
-SUBFUNÇÃO: 241 – ASSISTÊNCIA DO IDOSO<br>
-PROGRAMA: 6153 – PROGRAMA VIVER MAIS E MELHOR<br>
+Art. 13. Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:
+
+**ÓRGÃO: 26 – FUNDO MUNICIPAL DO IDOSO – FMI
+
+UNIDADE: 01 – FUNDO MUNICIPAL DO IDOSO – FMI
+
+FUNÇÃO: 14 - DIREITOS DA CIDADANIA
+
+SUBFUNÇÃO: 241 – ASSISTÊNCIA DO IDOSO
+
+PROGRAMA: 6153 – PROGRAMA VIVER MAIS E MELHOR
+
 AÇÃO: 2209 – ASSOCIAÇÃO BENEFICIENTE AUTA DE SOUZA - ABAS**
 
 | Metas | Unidade de Medida | 2025 |
@@ -104,12 +128,18 @@ Art. 15. Fica, por força da presente Lei, autorizada a abertura de créditos es
 
 Art. 16. A cobertura dos créditos abertos no total de R$ 15.328,90 (quinze mil, trezentos e vinte e oito reais e noventa centavos) será feita através de superávit financeiro.
 
-Art. 17. Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:<br>
-**ÓRGÃO: 18 – FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE – FMDCA<br>
-UNIDADE: 36 – FUND. MUNICIPAL DA CRIANÇA E DO ADOLESCENTE – FMDCA<br>
-FUNÇÃO: 14 - DIREITOS DA CIDADANIA<br>
-SUBFUNÇÃO: 122 – Administração Geral<br>
-PROGRAMA: 6155 – PROGRAMA FUTURO EM CONSTRUÇÃO<br>
+Art. 17. Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:
+
+**ÓRGÃO: 18 – FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE – FMDCA
+
+UNIDADE: 36 – FUND. MUNICIPAL DA CRIANÇA E DO ADOLESCENTE – FMDCA
+
+FUNÇÃO: 14 - DIREITOS DA CIDADANIA
+
+SUBFUNÇÃO: 122 – Administração Geral
+
+PROGRAMA: 6155 – PROGRAMA FUTURO EM CONSTRUÇÃO
+
 AÇÃO: 2231 – CONSELHO DE DESENVOLVIMENTO COMUNITÁRIO – CONDEC**
 
 | Metas | Unidade de Medida | 2025 |
@@ -130,12 +160,18 @@ Art. 20. A cobertura dos créditos abertos no total de R$ 30.000,00 (trinta mil 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 18 | 36 | 14 | 122 | 6155 | 2231 | 100 | 335043 | 30.000,00 |
 
-Art. 21. Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:<br>
-**ÓRGÃO: 20 – FUNDAÇÃO MUNICIPAL DE CULTURA – FMC<br>
-UNIDADE: 38 – FUNDAÇÃO MUNICIPAL DA CULTURA – FMC<br>
-FUNÇÃO: 13 - CULTURA<br>
-SUBFUNÇÃO: 392 – DIFUSÃO CULTURAL<br>
-PROGRAMA: 6115 – PROGRAMA CULTURA QUE CONECTA<br>
+Art. 21. Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:
+
+**ÓRGÃO: 20 – FUNDAÇÃO MUNICIPAL DE CULTURA – FMC
+
+UNIDADE: 38 – FUNDAÇÃO MUNICIPAL DA CULTURA – FMC
+
+FUNÇÃO: 13 - CULTURA
+
+SUBFUNÇÃO: 392 – DIFUSÃO CULTURAL
+
+PROGRAMA: 6115 – PROGRAMA CULTURA QUE CONECTA
+
 AÇÃO: NOVA – FEDERAÇÃO MIXED MATIAL ARTS DO ESTADO DE GOIAS – FMMAGO**
 
 | Metas | Unidade de Medida | 2025 |
@@ -156,12 +192,18 @@ Art. 24. A cobertura dos créditos abertos no total de R$ 30.000,00 (trinta mil 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 03 | 54 | 27 | 813 | 6176 | 2234 | 100 | 335043 | 30.000,00 |
 
-Art. 25. Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:<br>
-**ÓRGÃO: 20 – FUNDAÇÃO MUNICIPAL DE CULTURA – FMC<br>
-UNIDADE: 38 – FUNDAÇÃO MUNICIPAL DA CULTURA – FMC<br>
-FUNÇÃO: 13 - CULTURA<br>
-SUBFUNÇÃO: 392 – DIFUSÃO CULTURAL<br>
-PROGRAMA: 6115 – PROGRAMA CULTURA QUE CONECTA<br>
+Art. 25. Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:
+
+**ÓRGÃO: 20 – FUNDAÇÃO MUNICIPAL DE CULTURA – FMC
+
+UNIDADE: 38 – FUNDAÇÃO MUNICIPAL DA CULTURA – FMC
+
+FUNÇÃO: 13 - CULTURA
+
+SUBFUNÇÃO: 392 – DIFUSÃO CULTURAL
+
+PROGRAMA: 6115 – PROGRAMA CULTURA QUE CONECTA
+
 AÇÃO: NOVA – ASSOCIAÇÃO CULTURAL RIOVERDENSE DE HIP HOP (ACRH2)**
 
 | Metas | Unidade de Medida | 2025 |
@@ -182,12 +224,18 @@ Art. 28. A cobertura dos créditos abertos no total de R$ 150.000,00 (cento e ci
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 03 | 54 | 27 | 813 | 6176 | 2253 | 100 | 335043 | 150.000,00 |
 
-Art. 29. Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:<br>
-**ÓRGÃO: 20 – FUNDAÇÃO MUNICIPAL DE CULTURA – FMC<br>
-UNIDADE: 38 – FUNDAÇÃO MUNICIPAL DA CULTURA – FMC<br>
-FUNÇÃO: 13 – CULTURA<br>
-SUBFUNÇÃO: 392 – DIFUSÃO CULTURAL<br>
-PROGRAMA: 6115 – PROGRAMA CULTURA QUE CONECTA<br>
+Art. 29. Ficam inclusas as metas e as ações na Lei nº 7.775, de 15 de dezembro de 2025, Plano Plurianual – PPA para o quadriênio de 2026-2029:
+
+**ÓRGÃO: 20 – FUNDAÇÃO MUNICIPAL DE CULTURA – FMC
+
+UNIDADE: 38 – FUNDAÇÃO MUNICIPAL DA CULTURA – FMC
+
+FUNÇÃO: 13 – CULTURA
+
+SUBFUNÇÃO: 392 – DIFUSÃO CULTURAL
+
+PROGRAMA: 6115 – PROGRAMA CULTURA QUE CONECTA
+
 AÇÃO: NOVA – ASSOCIAÇÃO INOVAR DE TRUCO REGIONAL DE GOIÁS**
 
 | Metas | Unidade de Medida | 2025 |

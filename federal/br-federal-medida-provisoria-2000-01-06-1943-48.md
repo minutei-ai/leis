@@ -1,5 +1,3 @@
-###MPV-001943-0-048-06-01-2000@@@
-
 MEDIDA PROVISóRIA Nº 1.943-48, DE 6 DE JANEIRO DE 2000.
 
 Altera a legislação do imposto de renda e dá outras providências.

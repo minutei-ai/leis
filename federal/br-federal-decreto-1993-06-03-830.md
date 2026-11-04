@@ -1,7 +1,3 @@
-1
-
-###DEC-000830-0-000-03-06-1993@@@
-
 DECRETO N° 830, DE 3 DE JUNHO DE 1993
 
 Promulga o Acordo de Cooperação no Campo dos Usos Pacíficos da Energia Nuclear, entre o Governo da República Federativa do Brasil e o Governo da Espanha, de 12/5/1983.

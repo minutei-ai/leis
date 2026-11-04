@@ -1,7 +1,3 @@
-1
-
-###DEC-099312-0-000-15-06-1990@@@
-
 DECRETO N° 99.312, DE 15 DE JUNHO DE 1990
 
 Promulga o Acordo sobre Cooperação Econômica entre o Governo da República Federativa do Brasil e o Governo da República Federativa da Tchecoslováquia.

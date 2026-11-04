@@ -1,5 +1,3 @@
-###DEL-006198-0-000-13-01-1944@@@
-
 DECRETO-LEI N. 6.198 – DE 13 DE JANEIRO DE 1944
 
 Suspende a cobrança dos direitos e taxas sôbre o cimento importado

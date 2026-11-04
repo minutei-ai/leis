@@ -1,5 +1,3 @@
-###DEC-097361-0-000-21-12-1988@@@
-
 DECRETO Nº 97.361, DE 21 DE DEZEMBRO DE 1988
 
 Promulga o Acordo de Cooperação Econômica e Técnica, entre a República Federativa do Brasil e a União das Repúblicas Socialistas Soviéticas.

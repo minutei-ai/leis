@@ -1,5 +1,3 @@
-###DEC-091751-0-000-04-10-1985@@@
-
 DECRETO Nº 91.751, DE 04 DE OUTUBRO DE 1985
 
 Autoriza a transferência direta da concessão outorgada à FUNDAÇÃO ISAEC DE COMUNICAÇÃO, para a REDE RIOGRANDENSE DE EMISSORAS LTDA.

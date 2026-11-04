@@ -1,5 +1,3 @@
-###DEL-004971-0-000-19-11-1942@@@
-
 DECRETO-LEI N. 4.971 – DE 19 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 10.948.288,00, para pagamento de despesas com a aquisição de material rodante

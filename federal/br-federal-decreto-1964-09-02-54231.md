@@ -1,5 +1,3 @@
-###DEC-054231-0-000-02-09-1964@@@
-
 DECRETO Nº 54.231, DE 2 DE SETEMBRO DE 1964.
 
 Autoriza a Companhia Brasileira de Alumínio a pesquisar bauxita e leucita no município de Andradas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-077151-0-000-12-02-1976@@@
-
 DECRETO Nº 77.151, DE 12 DE FEVEREIRO DE 1976
 
 Autoriza o funcionamento da Faculdade de Educação Artística das Faculdades Integradas Teresa D'Ávila, com sede na Cidade de Santo André, Estado de São Paulo.

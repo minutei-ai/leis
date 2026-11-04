@@ -1,5 +1,3 @@
-###MPV-001945-0-046-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.945-46, DE 9 DE DEZEMBRO DE 1999.
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1996 a 30 de abril de 1997.

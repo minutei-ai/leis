@@ -1,5 +1,3 @@
-###DEC-048871-0-000-23-08-1960@@@
-
 DECRETO Nº 48.871, DE 23 DE AGÔSTO DE 1960.
 
 Retifica a Tabela Numérica de Mensalistas da Comissão Federal de Abastecimento e Preços, e dá outras providências.

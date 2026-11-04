@@ -1,5 +1,3 @@
-###DEL-007961-0-000-18-09-1945@@@
-
 DECRETO-LEI N. 7.961 – DE 18 DE SETEMBRO DE 1945
 
 Dispõe sôbre a remuneração mínima dos que, com o caráter de emprêgo, trabalham em atividades médicas de natureza privada e dá outras providencias.

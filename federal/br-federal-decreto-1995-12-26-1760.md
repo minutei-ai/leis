@@ -1,7 +1,3 @@
-1
-
-###DEC-001760-0-000-26-12-1995@@@
-
 DECRETO Nº 1.760, DE 26 DE DEZEMBRO DE 1995.
 
 Fixa o valor absoluto do limite global das deduções do imposto de renda devido, relativas a doações e patrocínios em favor de projetos culturais e a incentivos à atividade audiovisual.

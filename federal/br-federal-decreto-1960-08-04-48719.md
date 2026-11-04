@@ -1,5 +1,3 @@
-###DEC-048719-0-000-04-08-1960@@@
-
 DECRETO Nº 48.719, DE 4 DE AGÔSTO DE 1960.
 
 Revoga o Decreto que concedeu à Companhia Construtora Raymond do Brasil S. A. autorização para funcionar na República.

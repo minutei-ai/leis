@@ -1,5 +1,3 @@
-###DEC-055933-0-000-19-04-1965@@@
-
 DECRETO Nº 55.933, DE 19 DE ABRIL DE 1965.
 
 Outorga ao Estado do Pará concessão para aproveitamento de energia hidráulica.

@@ -1,5 +1,3 @@
-###DEL-006200-0-000-13-01-1944@@@
-
 DECRETO-LEI N. 6.200 – DE 13 DE JANEIRO DE 1944
 
 Prorroga o prazo de que trata o decreto-lei n. 5. 641, de 1 de julho de 1943

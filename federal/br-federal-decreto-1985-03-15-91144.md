@@ -1,5 +1,3 @@
-###DEC-091144-0-000-15-03-1985@@@
-
 DECRETO Nº 91.144, DE 15 DE MARçO DE 1985.
 
 Cria o Ministério da Cultura e dispõe sobre a estrutura, transferindo-lhe os órgãos que menciona, e dá outras providências.

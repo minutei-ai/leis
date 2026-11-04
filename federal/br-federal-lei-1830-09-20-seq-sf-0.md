@@ -1,5 +1,3 @@
-###LEI-000000-0-000-20-09-1830@@@
-
 LEI - DE 20 DE SETEMBRO DE 1830
 
 Sobre o abuso da liberdade da imprensa.

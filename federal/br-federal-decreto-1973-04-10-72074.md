@@ -1,5 +1,3 @@
-###DEC-072074-0-000-10-04-1973@@@
-
 DECRETO Nº 72.074, DE 10 DE ABRIL DE 1973.
 
 Autoriza o funcionamento do curso de Estudos Sociais (habilitação de Educação Moral e Cívica) da Faculdade de Educação, Filosofia, Ciências e Letras "Senador Flaquer".

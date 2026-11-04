@@ -1,5 +1,3 @@
-###DEC-049409-0-000-02-12-1960@@@
-
 DECRETO N.º 49.409, DE 2 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Custódio Netto Júnior a pesquisar galena no município de altamira, Estado do Pará.

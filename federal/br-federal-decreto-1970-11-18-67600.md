@@ -1,5 +1,3 @@
-###DEC-067600-0-000-18-11-1970@@@
-
 Decreto nº 67.600, de 18 de novembro de 1970.
 
 Concede à Seastar Química Ltda. o direito de lavrar mármore, no município de Rio Branco do Sul, Estado do Paraná.

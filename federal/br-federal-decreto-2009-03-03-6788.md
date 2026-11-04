@@ -1,5 +1,3 @@
-###DEC-006788-0-000-03-03-2009@@@
-
 DECRETO Nº 6.788, DE 3 DE MARÇO DE 2009.
 
 Acresce inciso ao art. 1~~º~~ do Decreto n~~º~~ 3.629, de 11 de outubro de 2000, que dispõe sobre o exercício de função militar.

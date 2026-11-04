@@ -1,7 +1,3 @@
-1
-
-###MPV-001490-0-000-07-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.490, DE 7 DE JUNHO DE 1996.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

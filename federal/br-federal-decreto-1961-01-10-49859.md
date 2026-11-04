@@ -1,5 +1,3 @@
-###DEC-049859-0-000-10-01-1961@@@
-
 DECRETO Nº 49.859, DE 10 DE JANEIRO DE 1961.
 
 Outorga concessão à Sociedade Rádio Emissoras de Piratininga Limitada para instalar uma estação radiodifusora.

@@ -1,5 +1,3 @@
-###DEC-053612-0-000-26-02-1964@@@
-
 DECRETO Nº 53.612, DE 26 DE FEVEREIRO DE 1964.
 
 Aprova relação de medicamentos essenciais para os fins previstos no Decreto n° 52.471, de 1963, e dispõe sôbre a aquisição de medicamentos pela Administração Pública Federal.

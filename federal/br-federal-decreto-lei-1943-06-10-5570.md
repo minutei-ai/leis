@@ -1,5 +1,3 @@
-###DEL-005570-0-000-10-06-1943@@@
-
 DECRETO‑LEI N. 5.570 – DE 10 DE JUNHO DE 1943
 
 Dispõe sôbre a coordenação dos orçamentos e balanços das entidades autárquicas federais

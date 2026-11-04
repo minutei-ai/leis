@@ -1,5 +1,3 @@
-###DEC-047255-0-000-17-11-1959@@@
-
 decreto nº 47.255, de 17 de novembro de 1959.
 
 Extingue Coletoria Federal.

@@ -1,5 +1,3 @@
-###DEC-004379-0-000-17-09-2002@@@
-
 DECRETO Nº 4.379, DE 17 DE SETEMBRO DE 2002
 
 Promulga o Tratado sobre as Relações de Parceria entre a República Federativa do Brasil e a Federação da Rússia, celebrado em Moscou, em 22 de junho de 2000.

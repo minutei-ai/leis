@@ -1,5 +1,3 @@
-###DEC-005346-0-000-19-01-2005@@@
-
 DECRETO Nº 5.346 DE 19 DE JANEIRO DE 2005
 
 Promulga o Acordo Básico de Cooperação Técnica entre a República Federativa do Brasil e a República Democrática de Timor-Leste, celebrado em Díli, em 20 de maio de 2002.
@@ -26,8 +24,10 @@ LUIZ INÁCIO LULA DA SILVA
 
 Samuel Pinheiro Guimarães Neto
 
-# ACORDO BÁSICO DE COOPERAÇÃO TÉCNICA ENTRE A<br>
-REPÚBLICA FEDERATIVA DO BRASIL E<br>
+# ACORDO BÁSICO DE COOPERAÇÃO TÉCNICA ENTRE A
+
+REPÚBLICA FEDERATIVA DO BRASIL E
+
 A REPÚBLICA DEMOCRÁTICA DE TIMOR-LESTE
 
         O Governo da República Federativa do Brasil
@@ -138,16 +138,22 @@ ARTIGO X
 
         Feito em Díli, em 20 de maio de 2002, em dois exemplares em idioma português, igualmente autênticos.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-PELO GOVERNO DA REPÚBLICA<br>
-FEDERATIVA DO BRASIL<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL
+
 CELSO LAFER
 
 Ministro de Estado das Relações Exteriores
 
-PELO GOVERNO DA REPÚBLICA<br>
-DEMOCRÁTICA DE TIMOR-LESTE<br>
+PELO GOVERNO DA REPÚBLICA
+
+DEMOCRÁTICA DE TIMOR-LESTE
+
 JOSÉ RAMOS HORTA
 
-Ministro dos Negócios Estrangeiros<br>
+Ministro dos Negócios Estrangeiros
+
 e Cooperação

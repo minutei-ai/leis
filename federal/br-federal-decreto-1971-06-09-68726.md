@@ -1,5 +1,3 @@
-###DEC-068726-0-000-09-06-1971@@@
-
 DECRETO Nº 68.726 - DE 9 DE JUNHO DE 1971.
 
 Dispõe sôbre a constituição e o funcionamento das Equipes Técnicas de alto nível de que trata o art. 11 da Lei nº 5.645, de 10 de dezembro de 1970, e dá outras providências.

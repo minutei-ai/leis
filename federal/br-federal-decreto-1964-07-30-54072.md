@@ -1,5 +1,3 @@
-###DEC-054072-0-000-30-07-1964@@@
-
 DECRETO Nº 54.072, DE 30 DE JULHO DE 1964.
 
 Restabelece os artigos 354 e 355 do Regulamento da Previdência Social, suprimidos pelo Decreto nº 52.353, de 13 de agôsto de 1963, da nova redação ao § 2º do art. 341.

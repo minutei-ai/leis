@@ -1,14 +1,12 @@
-###DEC-034379-0-000-27-10-1953@@@
+**DECRETO Nº 34.379, DE 27 DE OUTUBRO DE 1953.**
 
-<strong>DECRETO Nº 34.379, DE 27 DE OUTUBRO DE 1953.</strong>
+***Suprime cargos extintos***
 
-<em><strong>Suprime cargos extintos</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1º, alínea “*n*” do Decreto-lei n.º 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1º, alínea “<em>n</em>” do Decreto-lei n.º 3.195, de 14 de abril de 1941,
+**DECRETA;**
 
-<strong>DECRETA;</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos, no Quadro Suplementar do Ministério do Trabalho, Indústria e Comércio:
+**Art**. 1º Ficam suprimidos, no Quadro Suplementar do Ministério do Trabalho, Indústria e Comércio:
 
 1 cargo da classe “F”, vago em virtude da promoção de João da Silva Freitas e 1 da classe “G”, vago em virtude da promoção de João da Silva Freitas, ambos da carreira de Dactiloscopista.
 
@@ -32,10 +30,10 @@
 
 12 cargos da classe “D”, vagos em virtude da reclassificação em outro cargo de Antônio Batista de Souza, Argemiro Balbino de Lima, Clementino Luiz da Silva, Rosina Carraceni e Valdemar Garcia e da promoção de Atanair Monteiro Duarte, Deolindo de Miranda Natividade, Djalma Basílio, Genésio Pereira Pinto, Gervásio Rodrigues Alves, João Pessoa e Laureano Antônio Barbosa e 1 da classe “C” vago em virtude da promoção de Edgland Alves, todos da carreira de Servente, ficando sem aplicação a dotação correspondente.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 27 de outubro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Hugo de Araújo Faria

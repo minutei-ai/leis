@@ -1,5 +1,3 @@
-###DEC-070199-0-000-24-02-1972@@@
-
 DECRETO Nº 70.199, DE 24 DE FEVEREIRO DE 1972.
 
 Classifica órgão de deliberação coletiva existente na área do Estado-Maior das Forças Armadas (EMFA).

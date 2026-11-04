@@ -1,5 +1,3 @@
-###DEC-048503-0-000-11-07-1960@@@
-
 DECRETO Nº 48.503, DE 11 DE JULHO DE 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura, que menciona.

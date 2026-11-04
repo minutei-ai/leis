@@ -1,5 +1,3 @@
-###DEC-069576-0-000-22-11-1971@@@
-
 DECRETO Nº 69.576 - DE 22 DE novembro de 1971
 
 Declara de utilidade pública, para fins de desapropriação, uma área rural com a respectiva faixa de acesso, destinada à instalação de uma estação repetidora de microondas, no Município de Araras, Estado de São Paulo.

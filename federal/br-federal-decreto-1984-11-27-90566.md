@@ -1,5 +1,3 @@
-###DEC-090566-0-000-27-11-1984@@@
-
 Decreto nº 90.566, de 27 de novembro de 1984
 
 Outorga à Companhia de Saneamento Básico do Estado de São Paulo-SABESP concessão para captação de água do rio Paranapanema, para abastecimento público, no Estado de São Paulo.

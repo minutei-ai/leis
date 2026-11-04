@@ -1,5 +1,3 @@
-###DEL-007587-0-000-28-05-1945@@@
-
 DECRETO-LEI N. 7.587 – DE 28 DE MAIO DE 1945
 
 Autorisa a aquisição de imóvel em Bacacheri, Curitiba, Estado do Paraná

@@ -1,5 +1,3 @@
-###DEC-068774-0-000-21-06-1971@@@
-
 DECRETO Nº 68.774, DE 21 DE JUNHO DE 1971.
 
 Declara de utilidade pública o Educandário Senhor Bom Jesus dos Passos, com sede em Passos, Estado de Minas Gerais.

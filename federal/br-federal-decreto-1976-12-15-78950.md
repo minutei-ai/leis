@@ -1,5 +1,3 @@
-###DEC-078950-0-000-15-12-1976@@@
-
 DECRETO Nº 78.950, DE 15 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Estudos Sociais da Universidade Federal do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

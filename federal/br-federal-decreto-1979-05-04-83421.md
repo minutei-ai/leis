@@ -1,5 +1,3 @@
-###DEC-083421-0-000-04-05-1979@@@
-
 DECRETO Nº 83.421, DE 04 DE MAIO DE 1979.
 
 Concede à Pedreira Mantiqueira S.A. o direito de lavrar granito no Município de Cubatão, Estado de São Paulo.

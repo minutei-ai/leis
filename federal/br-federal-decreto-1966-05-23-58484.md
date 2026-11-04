@@ -1,5 +1,3 @@
-###DEC-058484-0-000-23-05-1966@@@
-
 DECRETO Nº 58.484, DE 23 DE MAIO DE 1966.
 
 Altera o artigo 5º do Decreto número 57.878, de 28 de fevereiro de 1966.

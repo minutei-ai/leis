@@ -1,5 +1,3 @@
-###MPV-000227-0-000-06-12-2004@@@
-
 MEDIDA PROVISÓRIA Nº 227, DE 6 DE DEZEMBRO DE 2004
 
 Dispõe sobre o Registro Especial, na Secretaria da Receita Federal do Ministério da Fazenda, de produtor ou importador de biodiesel e sobre a incidência da Contribuição para o PIS/PASEP e da COFINS sobre as receitas decorrentes da venda desse produto, altera a Lei nº 10.451, de 10 de maio de 2002, e dá outras providências.

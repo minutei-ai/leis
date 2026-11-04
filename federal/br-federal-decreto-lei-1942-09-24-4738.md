@@ -1,5 +1,3 @@
-###DEL-004738-0-000-24-09-1942@@@
-
 DECRETO-LEI N. 4.738 – DE 24 DE SETEMBRO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 347:073$0, para pagamento de contribuições em atrazo, e dá outras providências

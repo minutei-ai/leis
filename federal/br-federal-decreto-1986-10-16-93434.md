@@ -1,5 +1,3 @@
-###DEC-093434-0-000-16-10-1986@@@
-
 DECRETO Nº 93.434, DE 16 DE OUTUBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO ITATIAIA LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Belo Horizonte, Estado de Minas Gerais.

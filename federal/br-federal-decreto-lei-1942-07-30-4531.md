@@ -1,5 +1,3 @@
-###DEL-004531-0-000-30-07-1942@@@
-
 DECRETO-LEI N. 4.531 – DE 30 DE JULHO DE 1942
 
 Altera o Anexo 18 – Ministério da Justiça e Negócios Interiores do Orçamento Geral da República

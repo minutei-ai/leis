@@ -1,5 +1,3 @@
-###DEC-071895-0-000-13-03-1973@@@
-
 DECRETO Nº 71.895, DE 13 DE MARÇO DE 1973.
 
 Concede reconhecimento à Faculdade de Odontologia de Itaúna, mantida pela Fundação Universidade de Itaúna, Minas Gerais.

@@ -1,4 +1,5 @@
-DECRETO “N” Nº 683, DE 06 DE NOVEMBRO DE 2023.<br>
+DECRETO “N” Nº 683, DE 06 DE NOVEMBRO DE 2023.
+
 (Revogado pelo Decreto "N" Nº 163, de 22 de março de 2024).
 
 ~~Declara a Regularização Fundiária Urbana de imóveis púbicos do Loteamento Nova Cidade, neste município como de Interesse Social.~~
@@ -22,7 +23,17 @@ DECRETO “N” Nº 683, DE 06 DE NOVEMBRO DE 2023.<br>
 | ~~Ednon Pereira~~ | ~~15~~ | ~~10~~ |
 | ~~Ipiranga~~ | ~~07~~ | ~~05~~ |
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><s>São Paulo</s></td><td style="text-align:center"><s>01</s></td><td style="text-align:center"><s>06</s></td></tr><tr><td style="text-align:center"><s>Brasil</s></td><td style="text-align:center"><s>15</s></td><td style="text-align:center"><s>24</s></td></tr></tbody></table>
+~~São Paulo~~
+
+~~01~~
+
+~~06~~
+
+~~Brasil~~
+
+~~15~~
+
+~~24~~
 
 ~~Art. 2º Fica aprovada a Regularização Fundiária Urbana de Interesse Social dos imóveis elencados no art. 1º deste Decreto.~~
 
@@ -32,11 +43,14 @@ DECRETO “N” Nº 683, DE 06 DE NOVEMBRO DE 2023.<br>
 
 ~~Município de Aparecida de Goiânia, 06 de Novembro de 2023.~~
 
-~~VILMAR MARIANO DA SILVA<br>
+~~VILMAR MARIANO DA SILVA
+
 Prefeito Municipal~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo~~
 
-~~VALDIVINO EDSON DE AZEVEDO<br>
+~~VALDIVINO EDSON DE AZEVEDO
+
 Secretário de Habitação~~

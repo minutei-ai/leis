@@ -1,5 +1,3 @@
-###DEC-077607-0-000-12-05-1976@@@
-
 decreto nº 77.607, de 12 DE maio de 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Piratininga de Tupã Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Tupã, Estado de São Paulo.

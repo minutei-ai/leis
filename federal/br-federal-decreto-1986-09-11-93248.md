@@ -1,5 +1,3 @@
-###DEC-093248-0-000-11-09-1986@@@
-
 DECRETO Nº 93.248, DE 11 DE SETEMBRO DE 1986
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Filosofia, Ciências e Letras de Duque de Caxias.

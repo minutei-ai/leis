@@ -1,5 +1,3 @@
-###MPV-001827-0-000-27-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.827, DE 27 DE MAIO DE 1999.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

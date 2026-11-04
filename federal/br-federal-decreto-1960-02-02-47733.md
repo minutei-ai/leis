@@ -1,5 +1,3 @@
-###DEC-047733-0-000-02-02-1960@@@
-
 DECRETO Nº 47.733, DE 2 DE FEVEREIRO DE 1960.
 
 Concede reconhecimento a curso.

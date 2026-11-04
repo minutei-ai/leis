@@ -1,5 +1,3 @@
-###DEC-047487-0-000-24-12-1959@@@
-
 DECRETO Nº 47.487, DE 24 DE DEZEMBRO DE 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista da Coudelaria de Pouso Alegre para idêntica tabela da Coudelaria de Campinas.

@@ -1,5 +1,3 @@
-###DEC-075433-0-000-28-02-1975@@@
-
 DECRETO Nº 75.433, DE 28 DE FEVEREIRO DE 1975.
 
 Retifica o Decreto nº 73.141, de 12 de novembro de 1973, que concedeu reconhecimento a curso da Universidade de Passo Fundo com sede na cidade de Passo Fundo, Estado do Rio Grande do Sul.

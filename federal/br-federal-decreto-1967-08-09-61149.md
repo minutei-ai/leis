@@ -1,5 +1,3 @@
-###DEC-061149-0-000-09-08-1967@@@
-
 DECRETO 61.149, DE 9 DE AGÔSTO DE 1967.
 
 Baixa Normas Técnicas Especiais para a Fabricação e Venda de Produtos Dietéticos.

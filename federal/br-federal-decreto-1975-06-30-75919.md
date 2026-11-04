@@ -1,5 +1,3 @@
-###DEC-075919-0-000-30-06-1975@@@
-
 DECRETO Nº 75.919, DE 30 DE JUNHO DE 1975.
 
 Concede reconhecimento aos cursos de Química, de Filosofia, de História, de Letras e de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Itaúna, mantida pela Fundação de Ensino Superior de Itaúna, com sede na Cidade de Itaúna, Estado de Minas Gerais.

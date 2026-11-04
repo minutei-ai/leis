@@ -1,5 +1,3 @@
-###DEC-054371-0-000-02-10-1964@@@
-
 Decreto nº 54.371, de 2 de outubro de 1964.
 
 Prorroga até 30 de setembro de 1966, os contratos de arrendamento celebrados entre o Govêrno Federal, representado pelo Departamento Administrativo do Serviço Público (DASP), através do Grupo de Trabalho de Brasília, e os órgãos da administração indireta.

@@ -326,17 +326,16 @@ FRANCISCO TADEU BARBOSA DE ALENCAR
 
 (Redação alterada pelo art. 1° da [Lei n° 18.430, de 22 de dezembro de 2023](https://legis.alepe.pe.gov.br/?lo184302023).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="359" style="width:269.35pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">CANDIDATOS À POLÍCIA MILITAR E AO CORPO DE BOMBEIROS MILITAR DE PERNAMBUCO</span></p></td><td width="283" style="width:212.25pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">VALOR DA BOLSA-AUXÍLIO DE FORMAÇÃO PROFISSIONAL</span></p><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">VALOR (em R$)</span></p></td></tr><tr><td width="359" style="width:269.35pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Curso de Formação de Oficiais</span></p></td><td width="283" style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2.900,00</span></p></td></tr><tr><td width="359" style="width:269.35pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Curso de Formação e Habilitação de Praças</span></p></td><td width="283" style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.450,00</span></p></td></tr></tbody></table>
+CANDIDATOS À POLÍCIA MILITAR E AO CORPO DE BOMBEIROS MILITAR DE PERNAMBUCO
+
+VALOR DA BOLSA-AUXÍLIO DE FORMAÇÃO PROFISSIONAL
+
+VALOR (em R$)
+
+Curso de Formação de Oficiais
+
+2.900,00
+
+Curso de Formação e Habilitação de Praças
+
+1.450,00

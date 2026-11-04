@@ -1,5 +1,3 @@
-###DEL-007665-0-000-21-06-1945@@@
-
 DECRETO-LEI N. 7.665 – DE 21 DE JUNHO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 250,000,00  para despesas decorrentes da participação do Brasil na solução da questão de limites entre o Equador e o Peru.

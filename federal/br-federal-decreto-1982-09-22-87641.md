@@ -1,5 +1,3 @@
-###DEC-087641-0-000-22-09-1982@@@
-
 Decreto nº 87.641, de 22 de setembro de 1982
 
 Renova por 10 (dez) anos a concessão autorgada à RADIO TAMANDARÉ S/A, para executar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de Recife, Estado de Pernambuco.

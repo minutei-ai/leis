@@ -1,5 +1,3 @@
-###DEL-000638-0-000-18-06-1969@@@
-
 Decreto-lei nº 638, de 18 de Junho de 1969
 
 Autoriza o Poder Executivo a desapropriar área de terras e benfeitorias que menciona, no estado de Goiás.

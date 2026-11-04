@@ -1,5 +1,3 @@
-###DEL-004458-0-000-09-07-1942@@@
-
 DECRETO-LEI N. 4.458 – DE 9 DE JULHO DE 1942
 
 Cria, no Conselho Nacional de Minas e Metalurgia, dois lugares de suplentes

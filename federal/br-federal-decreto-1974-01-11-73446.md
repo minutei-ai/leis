@@ -1,5 +1,3 @@
-###DEC-073446-0-000-11-01-1974@@@
-
 DECRETO Nº 73.446, DE 11 DE JANEIRO DE 1974.
 
 Concede a Mármores Itabirito Limitada o direito de lavrar minério de ferro, no Município de Itabirito, Estado de Minas Gerias.

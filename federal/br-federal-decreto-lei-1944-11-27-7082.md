@@ -1,5 +1,3 @@
-###DEL-007082-0-000-27-11-1944@@@
-
 DECRETO-LEI N. 7.082 – DE 27 DE NOVEMBRO DE 1944
 
 Dispõe sôbre o regime escolar no ensino superior

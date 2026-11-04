@@ -1,5 +1,3 @@
-###DEC-000994-0-000-25-11-1993@@@
-
 DECRETO 994 DE 25 DE NOVEMBRO DE 1993
 
 Dispõe sobre a arrecadação e a distribuição do Salário-Educação, previsto no § 5º do artigo 212 da Constituição e no Decreto-Lei n.  1.422, de 23 de outubro de 1975, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-054463-0-000-14-10-1964@@@
-
 DECRETO Nº 54.463, DE 14 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Manoel Batista Sampaio a pesquisar minério de ferro, minério de manganês e delomita no município de Betim, Estado de Minas Gerais.

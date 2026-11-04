@@ -1,7 +1,3 @@
-1
-
-###DEL-001015-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.015, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre a responsabilidade da União no pagamento do pessoal transferido para o Estado da Guanabara ou neste reincluído, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075009-0-000-02-12-1974@@@
-
 DECRETO Nº 75.009, DE 2 DE DEZEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Sociedade Record, cuja denominação foi alterada para Rádio Record S. A. para executar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de São Paulo, Estado de São Paulo.

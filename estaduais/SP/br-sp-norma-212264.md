@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212264)<br>
-
 # DECRETO N° 70.399, DE 26 DE FEVEREIRO DE 2026
 
 ### _Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Peruíbe, que declarou Situação de Emergência em áreas do Município._

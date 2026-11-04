@@ -1,5 +1,3 @@
-###DEC-070529-0-000-16-05-1972@@@
-
 DECRETO Nº 70.529, DE 16 DE MAIO DE 1972.
 
 Concede a S.A Indústrias Votorantim o direito de lavrar filito, no município de Votorantim, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-000121-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 121– DE 29 DE DEZEMBRO DE 1937
 
 Abre o crédito suplementar de 94:770$400 para. refôrço de sub-consignações da verba 2 – Secretaria da Câmara, Municípal de vigente orçamento da Prefeitura do Distrito Federal.

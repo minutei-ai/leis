@@ -1,5 +1,3 @@
-###MPV-001703-0-016-28-08-1998@@@
-
 MEDIDA PROVISÓRA Nº 1.703-16, DE 28 DE AGOSTO DE 1998
 
 Altera a redação e acresce dispositivos às Leis nºs 8.629, de 25 de fevereiro de 1993, e 8.437, de 30 de junho de 1992, e dá outras providências.

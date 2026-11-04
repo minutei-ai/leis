@@ -1,5 +1,3 @@
-###DEL-008759-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.759 – DE 21 DE JANEIRO DE 1946
 
 Estende aos atuais ocupantes da extinta carreira de Escreventes do Quadro Suplementar do Ministério da Guerra, as disposições do Decreto-lei nº 145, de 29 de Dezembro de 1937.

@@ -1,5 +1,3 @@
-###DEC-055532-0-000-11-01-1965@@@
-
 DECRETO Nº 55.532, de 11 de janeiro de 1965.
 
 Concede à MARMOR - Industria de Mármore Limitada, autorização para funcionar como emprêsa de mineração.

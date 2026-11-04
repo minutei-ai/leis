@@ -1,5 +1,3 @@
-###DEC-051288-0-000-25-08-1961@@@
-
 DECRETO Nº 51.288, DE 25 DE AGôSTO DE 1961.
 
 Autoriza a cidadã brasileira Blandina Antunes de Souza a pesquisar mica e quartzo no município de Conselheiro Pena, Estado de Minas Gerais.

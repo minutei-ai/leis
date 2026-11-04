@@ -1,5 +1,3 @@
-###MPV-000813-0-000-01-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 813, DE 1º DE JANEIRO 1995
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências

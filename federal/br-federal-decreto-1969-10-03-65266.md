@@ -1,5 +1,3 @@
-###DEC-065266-0-000-03-10-1969@@@
-
 DECRETO Nº 65.266 - DE 3 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a "Sociedade Evangélica de Assistência Social - SEAS, com sede em Niterói, Estado do Rio de Janeiro.

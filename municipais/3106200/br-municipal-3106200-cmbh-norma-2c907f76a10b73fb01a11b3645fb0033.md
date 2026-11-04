@@ -6,8 +6,6 @@ O povo do município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 Art. 1º - Fica instituído o Programa de Proteção e Valorização dos Profissionais de Limpeza Urbana - Progari - no Município de Belo Horizonte.
 
-<br>
-
 Art. 2º - São objetivos do Progari:
 
 I - garantir a segurança física dos profissionais de limpeza urbana durante o exercício da função;
@@ -17,8 +15,6 @@ II - conscientizar a população quanto ao respeito aos profissionais de limpeza
 III - disponibilizar equipamentos de proteção individual - EPIs - e uniformes com alta visibilidade aos profissionais de limpeza urbana;
 
 IV - adotar medidas de segurança adequadas, especialmente pelos contratados e permissionários do serviço público de limpeza urbana.
-
-<br>
 
 Art. 3º - Para a consecução dos objetivos do Progari, observadas a disponibilidade orçamentária e financeira e as disposições da Lei de Diretrizes Orçamentárias - LDO, o Executivo poderá:
 
@@ -34,11 +30,7 @@ V - firmar convênios, consórcios, termos de cooperação ou outros instrumento
 
 VI - promover ações de conscientização sobre a importância da reciclagem e da destinação correta de resíduos, em colaboração com a sociedade civil e o setor privado.
 
-<br>
-
 Art. 4º - O Executivo regulamentará esta lei no que couber.
-
-<br>
 
 Art. 5º - Esta lei entra em vigor na data de sua publicação.
 
@@ -49,5 +41,3 @@ Belo Horizonte, 7 de outubro de 2026.
 Prefeito de Belo Horizonte
 
 _(Originária do Projeto de Lei nº 479/25, de autoria do vereador Dr. Bruno Pedralva)_
-
-<br>

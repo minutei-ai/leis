@@ -1,5 +1,3 @@
-###DEC-064176-0-000-07-03-1969@@@
-
 DECRETO Nº 64.176, DE 7 DE MARÇO DE 1969.
 
 Autoriza a cessão da área de terra que menciona, à Função Dr. Breno de Noronha e dá outras providências.

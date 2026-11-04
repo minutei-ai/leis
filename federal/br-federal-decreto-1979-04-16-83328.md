@@ -1,5 +1,3 @@
-###DEC-083328-0-000-16-04-1979@@@
-
 Decreto nº 83.328, de 16 de abril de 1979.
 
 Concede reconhecimento ao curso de Educação Artística do Centro de Ciências Humanas, Letras e Artes da Universidade Federal da Paraíba, com sede na cidade de João Pessoa, Estado da Paraíba.

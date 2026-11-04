@@ -1,5 +1,3 @@
-###DEC-007591-0-000-28-10-2011-PUB-01@@@
-
 DECRETO Nº 7.591, DE 28 DE OUTUBRO DE 2011
 
 Dá nova redação ao art. 1º do Decreto nº 5.060, de 30 de abril de 2004, que reduz as alíquotas da Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de  petróleo e seus derivados, gás natural e seus derivados, e álcool etílico combustível - CIDE, e dá outras providências.

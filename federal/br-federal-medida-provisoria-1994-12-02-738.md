@@ -1,7 +1,3 @@
-1
-
-###MPV-000738-0-000-02-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 738, DE 2 DE DEZEMBRO DE 1994.
 
 Dispõe sobre alteração da Lei nº 8.490, de 19 de novembro de 1992, com a nova redação dada pela Lei nº 8.746, de 9 de dezembro de 1993, e dá outras providências.

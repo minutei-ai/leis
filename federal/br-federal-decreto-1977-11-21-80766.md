@@ -1,5 +1,3 @@
-###DEC-080766-0-000-21-11-1977@@@
-
 Decreto nº 80.766, de 21 de novembro de 1977.
 
 Concede à Mineração Tejucana S/A o direito de lavrar diamante e minério de ouro no Município de Diamantina, Estado de Minas Gerais.

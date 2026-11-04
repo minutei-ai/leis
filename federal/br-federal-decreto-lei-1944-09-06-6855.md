@@ -1,5 +1,3 @@
-###DEL-006855-0-000-06-09-1944@@@
-
 DECRETO-LEI N. 6.855 – DE 6 DE SETEMBRO DE 1944
 
 Cria a carreira de Arquivologista na Parte Permanente do Quadro I do Ministério da Viação e Obras Públicas, e dá outras providências.
@@ -36,6 +34,62 @@ A. de Souza Costa.
 
 ## QUADRO I – PARTE PERMANENTE
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:90.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Número de Cargos</span></p></td><td style="width:90.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Carreira ou cargo</span></p></td><td style="width:90.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Classe ou padrão</span></p></td><td style="width:90.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Vagos</span></p></td><td style="width:90.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Provisórios</span></p></td></tr><tr><td style="width:90.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>1</span></p><p class="Tabela" style="text-indent:0pt"><span style="text-decoration:underline; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-decoration:underline">1</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>5</span></p></td><td style="width:90.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Arquivologista</span></p><p class="Tabela" style="text-indent:0pt"><span>................................</span></p><p class="Tabela" style="text-indent:0pt"><span>................................</span></p><p class="Tabela" style="text-indent:0pt"><span>................................</span></p><p class="Tabela" style="text-indent:0pt"><span>................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>................................</span></p></td><td style="width:90.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>L</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>K</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>J</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>H</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:90.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-decoration:underline">1</span></p></td><td style="width:90.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="text-decoration:underline; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-decoration:underline">4</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>4</span></p></td></tr></tbody></table>
+Número de Cargos
+
+Carreira ou cargo
+
+Classe ou padrão
+
+Vagos
+
+Provisórios
+
+1
+
+1
+
+1
+
+1
+
+                              1
+
+      5
+
+Arquivologista
+
+................................
+
+................................
+
+................................
+
+................................
+
+................................
+
+L
+
+K
+
+J
+
+I
+
+H
+
+1
+
+1
+
+1
+
+1
+
+               1
+
+4
+
+                 4
 
 Observação: – Os cargos provisórios serão suprimidos à medida que os seus ocupantes forem sendo promovidos à classe superior. O número total de cargos ocupados na carreira não poderá ser superior a 5.

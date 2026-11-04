@@ -1,5 +1,3 @@
-###DEL-000692-0-000-22-07-1969@@@
-
 DECRETO-LEI Nº 692, DE 22 DE JULHO DE 1969
 
 Retifica, sem aumento de despesa, a Lei nº 5.373, de 6 de dezembro de 1967, que estima a Receita e fixa a Despesa da União para o exercício financeiro de 1968.

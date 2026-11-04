@@ -1,5 +1,3 @@
-###DEC-079310-0-000-28-02-1977@@@
-
 DECRETO Nº 79.310, DE 28 DE FEVEREIRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade de Belém, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-058698-0-000-22-06-1966@@@
-
 DECRETO Nº 58.698, DE 22 DEJUNHO DE 1966.
 
 Autoriza Icominas S.A. - Emprêsa de Mineração a lavrar minério de ferro no município de Brumadinho, no Estado de Minas Gerais.

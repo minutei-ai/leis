@@ -12,8 +12,6 @@ Art. 2º Este Decreto entra em vigor na data da sua publicação, mas seus efeit
 
 Goiânia, 31 de agosto de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

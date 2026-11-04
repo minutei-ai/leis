@@ -1,5 +1,3 @@
-###DEC-047624-0-000-15-01-1960@@@
-
 Decreto nº 47.624, de 15 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro João Pereira dos Santos a pesquisar fosforita no Município de Olinda, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEL-009665-0-000-28-08-1946@@@
-
 DECRETO-LEI N. 9.665 – DE 28 DE AGÔSTO DE 1946
 
 Dá nova redação ao Decreto-lei nº 9.403, de 25 de Junho de 1946

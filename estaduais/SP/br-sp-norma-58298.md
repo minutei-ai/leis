@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58298)
-
 # LEI Nº 12.087, DE 07 DE OUTUBRO DE 2005
 
 ## ( PL 363/2004 - João Caramez)

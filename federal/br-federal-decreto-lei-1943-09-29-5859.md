@@ -1,5 +1,3 @@
-###DEL-005859-0-000-29-09-1943@@@
-
 DECRETO‑LEI N. 5.859 – DE 29 DE SETEMBRO DE 1943
 
 Cria a Comissão de Construção destinado à Delegacia Fiscal do Tesouro Nacional e demais repartições federais em São Paulo, e dá outras providências.

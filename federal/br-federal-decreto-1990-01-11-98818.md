@@ -1,7 +1,3 @@
-1
-
-###DEC-098818-0-000-11-01-1990@@@
-
 DECRETO N° 98.818, DE 11 DE JANEIRO DE 1990
 
 Prorroga os trabalhos de garimpagem na localidade de Serra Pelada.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.088, DE 16 DE MARÇO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, e a Lei nº 4.085, de 16 de fevereiro de 2023, que dispõem sobre a estrutura básica da administração do Poder Executivo.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, e a Lei nº 4.085, de 16 de fevereiro de 2023, que dispõem sobre a estrutura básica da administração do Poder Executivo.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-005577-0-000-08-11-2005@@@
-
 DECRETO Nº 5.577, DE 8 DE NOVEMBRO DE 2005.
 
        Institui, no âmbito do Ministério do Meio Ambiente, o Programa Nacional de Conservação e Uso Sustentável do Bioma Cerrado - Programa Cerrado Sustentável, e dá outras providências.
@@ -105,5 +103,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
 Marina Silva
-
-Este texto não substitui o publicado no DOU de 9.11.2005

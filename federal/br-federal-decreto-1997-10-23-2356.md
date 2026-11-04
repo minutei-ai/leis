@@ -1,5 +1,3 @@
-###DEC-002356-0-000-23-10-1997@@@
-
 DECRETO Nº 2.356, DE 23 DE OUTUBRO DE 1997
 
 Dispõe sobre a inclusão no Programa Nacional de Desestatização - PND da Companhia Energética de Alagoas - CEAL

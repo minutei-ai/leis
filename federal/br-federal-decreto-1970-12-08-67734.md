@@ -1,5 +1,3 @@
-###DEC-067734-0-000-08-12-1970@@@
-
 DECRETO Nº 67.734, DE 08 DE DEZEMBRO DE 1970.
 
 Concede à Sandspar Minérios Ltda. o direito de lavrar quartzito, no município de Nazaré Paulista, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-068624-0-000-17-05-1971@@@
-
 DECRETo Nº 68.624 - DE 17 DE MAIO DE 1971.
 
 Reconhecimento do Curso de Engenharia Elétrica da Escola Politécnica, PB.

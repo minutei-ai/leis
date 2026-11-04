@@ -1,5 +1,3 @@
-###DEC-071796-0-000-01-02-1973@@@
-
 DECRETO Nº 71.796, DE 1 DE FEVEREIRO DE 1973.
 
 Concede á Mineração Irapuá Ltda. O direito de lavrar calcário do Município de Cachoeira do Sul, Estado do Rio Grande do Sul.

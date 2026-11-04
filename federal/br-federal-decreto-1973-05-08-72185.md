@@ -1,5 +1,3 @@
-###DEC-072185-0-000-08-05-1973@@@
-
 DECRETO Nº 72.185, DE 8 DE MAIO DE 1973.
 
 Reabre prazos para aplicação do artigo 9º, do Decreto nº 60.731, de 19 de maio de 1967

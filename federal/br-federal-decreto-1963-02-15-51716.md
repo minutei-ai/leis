@@ -1,5 +1,3 @@
-###DEC-051716-0-000-15-02-1963@@@
-
 DECRETO Nº 51.716, DE 15 DE FEVEREIRO DE 1963.
 
 Fixa as atribuições do Ministério das Relações Exteriores, nos têrmos da Lei Delegada nº 11, de11 de outubro de 1962.

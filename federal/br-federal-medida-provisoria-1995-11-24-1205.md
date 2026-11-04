@@ -1,7 +1,3 @@
-1
-
-###MPV-001205-0-000-24-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.205, DE 24 DE NOVEMBRO DE 1995.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

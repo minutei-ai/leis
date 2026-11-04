@@ -1,5 +1,3 @@
-###MPV-001710-0-007-25-02-1999@@@
-
 medida provisória nº 1.710-7, de 25 de fevereiro de 1999.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

@@ -2,17 +2,19 @@ Modificada pela Lei nº [3.518, de 23 de Setembro de 2019.](https://legis.ac.gov
 
 > **LEI Nº 3.476, DE 24 DE MAIO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a conceder o uso oneroso de edificação pública localizada no Município de Rio Branco.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a conceder o uso oneroso de edificação pública localizada no Município de Rio Branco.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
 
-**~~Art. 1º~~** ~~Fica o Pod~~~~er Executivo autorizado a conceder o uso de edificação pública localizada na Avenida Brasil, Centro da Capital Rio Branco, compreendendo um prédio de alvenaria com 927,36 metros quadrados de área construída, inserida na área da Matrícula 13.621, do 1º Ofício de Registro de Imóveis de Rio Branco, conforme memorial descritivo inserido nos autos do Processo Administrativo nº 2018.02.001950, da Procuradoria Geral do Estado do Acre - PGE/AC.~~
+**~~Art. 1º~~** ~~Fica o Poder Executivo autorizado a conceder o uso de edificação pública localizada na Avenida Brasil, Centro da Capital Rio Branco, compreendendo um prédio de alvenaria com 927,36 metros quadrados de área construída, inserida na área da Matrícula 13.621, do 1º Ofício de Registro de Imóveis de Rio Branco, conforme memorial descritivo inserido nos autos do Processo Administrativo nº 2018.02.001950, da Procuradoria Geral do Estado do Acre - PGE/AC.~~
 
 **Art. 1º** Fica o Estado do Acre autorizado a conceder o uso de edificação pública localizada na Avenida Brasil, Centro, desta Capital Rio Branco, compreendendo um prédio de alvenaria com 1.072,98 m² de área construída, inserida na área de Matrícula nº 13.621, do 1° Ofício de Registro de Imóveis de Rio Branco, conforme memorial descrito inserido nos autos do Processo Administrativo n° 2018.02.001950, da Procuradoria-Geral do Estado do Acre. (Redação dada pela Lei nº 3.518, de 23/09/2019)
-
-<br>
 
 **§ 1º** A concessão de uso será onerosa e realizada pelo prazo de cinco anos, prorrogável por igual período por mútuo interesse das partes e com prévia decisão fundamentada da autoridade administrativa competente.
 

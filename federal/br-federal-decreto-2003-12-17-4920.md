@@ -1,5 +1,3 @@
-###DEC-004920-0-000-17-12-2003@@@
-
 DECRETO Nº 4.920 DE 17 DE DEZEMBRO DE 2003.
 
 Dá nova redação ao § 5º do art. 2º do Decreto no 4.858, de 13 de outubro de 2003, que dispõe sobre a composição e funcionamento do Conselho Superior do Cinema.

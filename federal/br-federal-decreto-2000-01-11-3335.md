@@ -1,5 +1,3 @@
-###DEC-003335-0-000-11-01-2000@@@
-
 DECRETO Nº 3335, DE 11 DE JANEIRO DE 2000.
 
 Institui o Comitê Interministerial de Desburocratização e os Comitês Executivos Setoriais de Desburocratização, e dá outras providências.

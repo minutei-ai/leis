@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210236)<br>
-
 # DECRETO N° 69.054, DE 14 DE NOVEMBRO DE 2024
 
 ### _Concede a "Medalha do Mérito Turístico" à personalidade que especifica._

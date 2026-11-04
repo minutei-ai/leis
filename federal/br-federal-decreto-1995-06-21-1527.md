@@ -1,7 +1,3 @@
-1
-
-###DEC-001527-0-000-21-06-1995@@@
-
 DECRETO Nº 1.527, DE 21 DE JUNHO DE 1995.
 
 Transforma, no Ministério do Exército, a 9ª Brigada de Infantaria Motorizada-Escola em Grupamento de Unidades-Escola/9ª Brigada de Infantaria Motorizada, e dá outras providências.

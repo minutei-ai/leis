@@ -1,5 +1,3 @@
-###DEC-056354-0-000-24-05-1965@@@
-
 DECRETO Nº 56.354, DE 24 DE MAIO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno na cidade de Natal, no Estado do Rio Grande do Norte.

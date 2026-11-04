@@ -1,5 +1,3 @@
-###DEC-066294-0-000-03-03-1970@@@
-
 DECRETO Nº 66.294 - DE 3 DE MARÇO DE 1970
 
 Concede permissão, em caráter permanente, à firma SERMEC S.A. Industrias Mecânicas, estabelecida na Cidade de Chavantes, no Estado de São Paulo, para funcionar aos domingos e nos dias feridos civis e religiosos.

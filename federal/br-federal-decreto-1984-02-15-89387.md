@@ -1,5 +1,3 @@
-###DEC-089387-0-000-15-02-1984@@@
-
 Decreto nº 89.387, dE 15 de fevereiro de 1984
 
 Autoriza o funcionamento da habilitação Educação Moral e Cívica, do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras Dom Bosco, no Estado do Rio Grande do Sul.

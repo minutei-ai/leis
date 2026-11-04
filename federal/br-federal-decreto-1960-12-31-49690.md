@@ -1,5 +1,3 @@
-###DEC-049690-0-000-31-12-1960@@@
-
 DECRETO Nº 49.690, DE 31 DE DEZEMBRO DE 1960.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Cooperativa de Consumo de Eletricidade Itacuruba-Rodelas Ltda.
@@ -19,8 +17,6 @@ Brasília, 31 de dezembro de 1960; 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 Antônio Barros Carvalho
-
-###DEC-049690-0-000-31-12-1960@@@RET01+++
 
 DECRETO Nº 49.690, DE 31 DE DEZEMBRO DE 1960.
 

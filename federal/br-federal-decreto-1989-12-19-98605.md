@@ -1,7 +1,3 @@
-1
-
-###DEC-098605-0-000-19-12-1989@@@
-
 DECRETO Nº 98.605, DE 19 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Turismo da Faculdade de Administração, Ciências Econômicas e Contábeis, em Natal, Rio Grande do Norte.

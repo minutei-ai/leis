@@ -1,5 +1,3 @@
-###DEC-001836-0-000-14-03-1996@@@
-
 DECRETO Nº 1.836, DE 14 DE MARÇO DE 1996.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Light Participações S.A - LIGHTPAR.

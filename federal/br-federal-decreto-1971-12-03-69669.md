@@ -1,5 +1,3 @@
-###DEC-069669-0-000-03-12-1971@@@
-
 DECRETO Nº 69.669 - DE 3 DE DEZEMBRO DE 1971
 
 Concede à Empresa de Desenvolvimento de Recursos Minerais Codemin S.A. o direito de lavrar minério de níquel, no Município de Niquelândia, Estado de Goiás.

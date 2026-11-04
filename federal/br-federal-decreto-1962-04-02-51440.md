@@ -1,5 +1,3 @@
-###DEC-051440-0-000-02-04-1962@@@
-
 DECRETO Nº 51.440, DE 2 DE ABRIL DE 1962.
 
 Retifica e altera o Decreto nº 38.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.966, de 3 de abril de 1956.

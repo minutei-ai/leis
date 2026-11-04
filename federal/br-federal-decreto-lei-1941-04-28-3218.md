@@ -1,5 +1,3 @@
-###DEL-003218-0-000-28-04-1941@@@
-
 DECRETO-LEI N. 3.218 – DE 28 DE ABRIL DE 1941
 
 Autoriza a Fundação Darcy Vargas a contratar com instituições de previdência social a construção e a administração de um restaurante para menores trabalhadores

@@ -1,5 +1,3 @@
-###DEC-077555-0-000-06-05-1976@@@
-
 DECRETO Nº 77.555, DE 6 DE MAIO DE 1976
 
 Altera o Decreto nº 74.167, de 10 de junho de 1974, que reconheceu o curso de Artes Plásticas do Instituto Municipal de Belas Artes "Professora Rita Jobim de Vasconcelos", com sede na cidade de Bagé, Estado do Rio de Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-081661-0-000-16-05-1978@@@
-
 Decreto nº 81.661, de 16 de maio de 1978.
 
 Fixa o fator de reajustamento salarial relativo a maio de 1978.

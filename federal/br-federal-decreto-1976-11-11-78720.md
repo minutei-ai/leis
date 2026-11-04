@@ -1,5 +1,3 @@
-###DEC-078720-0-000-11-11-1976@@@
-
 DECRETO Nº 78.720, DE 11 DE NOVEMBRO DE 1976.
 
 Dispensa a licitação na alienação de terras devolutas da União, que menciona, e dá outras providências.

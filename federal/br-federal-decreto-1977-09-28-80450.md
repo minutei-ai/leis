@@ -1,5 +1,3 @@
-###DEC-080450-0-000-28-09-1977@@@
-
 DECRETO Nº 80.450, DE 28 DE SETEMBRO DE 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Educadora de Piracicaba, Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Piracicaba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-007074-0-000-23-11-1944@@@
-
 DECRETO-LEI N. 7.074 – DE 23 DE NOVEMBRO DE 1944
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 274.591,80, para pagamento de contribuição ao Instituto de Aposentadoria e Pensões dos Indústriários

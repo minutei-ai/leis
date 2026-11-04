@@ -1,5 +1,3 @@
-###DEC-073185-0-000-21-11-1973@@@
-
 DECRETO Nº 73.185 - DE 21 DE NOVEMBRO DE 1973
 
 Autoriza o funcionamento dos cursos de Matemática e de Ciências da Faculdade de Filosofia, Ciências e Letras mantida pela Associação de Ensino de Itapetininga, com sede na cidade de Itapetininga, Estado de São Paulo.

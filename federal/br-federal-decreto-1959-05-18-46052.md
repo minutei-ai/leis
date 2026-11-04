@@ -1,5 +1,3 @@
-###DEC-046052-0-000-18-05-1959@@@
-
 DECRETO Nº 46.052, DE 18 DE MAIO DE 1959.
 
 Renova o Decreto nº 40.461, de 3 de dezembro de 1956.

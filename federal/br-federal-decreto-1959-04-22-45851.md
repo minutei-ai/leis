@@ -1,5 +1,3 @@
-###DEC-045851-0-000-22-04-1959@@@
-
 DECRETO Nº 45.851, DE 22 DE ABRIL DE 1959.
 
 Autoriza a São Paulo Light Sociedade Anônima - Serviços de Eletricidade a ampliar o seu sistema de transmissão no município de São Paulo.

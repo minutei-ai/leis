@@ -1,5 +1,3 @@
-###DEC-045487-0-000-26-02-1959@@@
-
 DECRETO Nº 45.487, DE 26 DE Fevereiro DE 1959.
 
 Autoriza o cidadão brasileiro João Henrique Bianchini a pesquisar fluorita, no município de Palhoça, Estado de Santa Catarina.

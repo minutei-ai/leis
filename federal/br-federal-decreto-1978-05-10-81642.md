@@ -1,5 +1,3 @@
-###DEC-081642-0-000-10-05-1978@@@
-
 Decreto nº 81.642, de 10 de maio de 1978.
 
 Declara revogados decretos de concessão à Rádio Rural Brasileira.

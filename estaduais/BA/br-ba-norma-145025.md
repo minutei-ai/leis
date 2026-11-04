@@ -4,7 +4,8 @@ Dispõe sobre a transação de créditos tributários e não tributários inscri
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Esta Lei estabelece os requisitos e condições para que o Estado, por intermédio da Procuradoria Geral do Estado - PGE, realize transação para prevenir ou terminar litígios, inclusive judiciais, relativos à cobrança de créditos tributários e não tributários inscritos em dívida ativa, na forma prevista no art. 171 da Lei Federal nº 5.172, de 25 de outubro de 1966, Código Tributário Nacional, e no inciso XIII do art. 32 da Lei Complementar nº 34, de 06 de fevereiro de 2009, observados os requisitos e condições estabelecidos nesta Lei.
@@ -15,7 +16,8 @@ DISPOSIÇÕES PRELIMINARES
 
 **Art. 2º** - O Procurador Geral do Estado é a autoridade competente para celebrar a transação prevista nesta Lei, competindo-lhe homologar e subscrever o termo de transação, podendo delegar essa atribuição, nos termos do art. 33 da Lei Complementar nº 34, de 06 de fevereiro de 2009.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO OBJETO E DAS MODALIDADES DA TRANSAÇÃO
 
 **Art. 3º** - Os créditos tributários e não tributários inscritos em dívida ativa do Estado poderão ser transacionados quando verificadas oportunidade e conveniência, cabendo à autoridade competente, em ato motivado, demonstrar que a medida atende ao interesse público com a ocorrência de ao menos uma das seguintes hipóteses:
@@ -64,7 +66,8 @@ DO OBJETO E DAS MODALIDADES DA TRANSAÇÃO
 
 **III -** autorizar a utilização de créditos líquidos, certos e exigíveis, consubstanciados em precatórios decorrentes de decisões transitadas em julgado e não mais passíveis de medida de defesa ou desconstituição, formalmente reconhecidos pelo Estado, suas autarquias, fundações e empresas dependentes, para compensação da dívida principal, multa e juros, limitada a 75% (setenta e cinco por cento) do valor do débito.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS VEDAÇÕES
 
 **Art. 6º** - É vedada a transação que:
@@ -75,7 +78,8 @@ DAS VEDAÇÕES
 
 **Parágrafo único -** É vedada a acumulação das reduções objeto da transação celebrada nos termos desta Lei com quaisquer outras asseguradas na legislação ou que resultem em crédito para o devedor dos débitos transacionados.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA PROPOSTA E DO TERMO DE TRANSAÇÃO
 
 **Art. 7º** - A proposta de transação não suspende a exigibilidade dos créditos por ela abrangidos nem o andamento dos processos administrativos e judiciais correlatos.
@@ -104,7 +108,8 @@ DA PROPOSTA E DO TERMO DE TRANSAÇÃO
 
 **Art. 11** - A transação de que trata esta Lei será formalizada mediante lavratura de Termo de Transação, após procedimento administrativo simplificado, disciplinado em regulamento.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS EFEITOS DA TRANSAÇÃO
 
 **Art. 12** - A transação não autoriza a restituição ou a compensação de importâncias pagas, compensadas ou incluídas em parcelamentos pelos quais tenha optado antes da sua celebração.
@@ -171,7 +176,8 @@ Edelvino da Silva Góes Filho
 
 Secretário da Administração
 
-Cláudio Ramos Peixoto<br>
+Cláudio Ramos Peixoto
+
 Secretário do Planejamento
 
 Manoel Vitório da Silva Filho

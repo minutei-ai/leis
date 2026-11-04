@@ -1,5 +1,3 @@
-###DEL-003870-0-000-29-11-1941@@@
-
 DECRETO-LEI N. 3.870 – DE 29 DE NOVEMBRO DE 1941
 
 Da nova organização às carreiras de Marinheiro, Patrão e Trabalhador dos ministérios que indica e dá outras providências.

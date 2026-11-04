@@ -1,7 +1,3 @@
-1
-
-###DEC-098974-0-000-21-02-1990@@@
-
 DECRETO Nº 98.974, DE 21 DE FEVEREIRO DE 1990
 
 Renova a concessão outorgada à FUNDAÇÃO CULTURAL E EDUCACIONAL SANTANA DE CAETITÉ, para explorar serviço de radiodifusão sonora em onda média, na Cidade de Caetité, Estado da Bahia.

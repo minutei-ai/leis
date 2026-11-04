@@ -1,5 +1,3 @@
-###DEC-075862-0-000-13-06-1975@@@
-
 DECRETO Nº 75.862, DE 13 DE JUNHO DE 1975.
 
 Reduz alíquota do Imposto sobre Produtos Industrializados.

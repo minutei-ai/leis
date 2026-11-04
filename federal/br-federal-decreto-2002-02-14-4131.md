@@ -1,5 +1,3 @@
-###DEC-004131-0-000-14-02-2002@@@
-
 DECRETO Nº 4.131, DE 14 DE FEVEREIRO DE 2002.
 
 Dispõe sobre medidas emergenciais de redução do consumo de energia elétrica no âmbito da Administração Pública Federal.

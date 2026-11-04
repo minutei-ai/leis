@@ -1,5 +1,3 @@
-###DEC-080383-0-000-22-09-1977@@@
-
 DECRETO Nº 80.383, DE 22 DE SETEMBRO DE 1977.
 
 Autoriza o registro em nome da União Federal dos terrenos que menciona, situados no Município de Igarapé-Açu, Estado do Pará.

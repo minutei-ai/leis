@@ -1,5 +1,3 @@
-###DEC-051967-0-000-26-04-1963@@@
-
 DECRETO Nº 51.967, DE 26 DE ABRIL DE 1963.
 
 Renova a autorização contida no Decreto n° 46.008, de 18 de maio de 1959.

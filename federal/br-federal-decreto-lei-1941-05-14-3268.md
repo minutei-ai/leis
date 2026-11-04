@@ -1,5 +1,3 @@
-###DEL-003268-0-000-14-05-1941@@@
-
 DECRETO-LEI N. 3.268 – DE 14 DE MAIO DE 1941
 
 Autoriza a venda de material desnecessário à Imprensa Nacional.

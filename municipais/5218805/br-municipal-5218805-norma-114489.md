@@ -14,14 +14,18 @@ Art. 3º Revogadas disposições em contrário, esta Lei entrará em vigor na da
 
 Gabinete do Prefeito de Rio Verde, 26 de dezembro de 2006.
 
-PAULO ROBERTO CUNHA<br>
+PAULO ROBERTO CUNHA
+
 Prefeito de Rio Verde
 
-ARIOVALDO LOPES MACHADOS<br>
+ARIOVALDO LOPES MACHADOS
+
 Procurador-Geral
 
-AFONSO CELSO B. J. DE MATTOS<br>
+AFONSO CELSO B. J. DE MATTOS
+
 Secretário de Planejamento e Administração
 
-RUBENS LEÃO DE LEMOS BARROSO<br>
+RUBENS LEÃO DE LEMOS BARROSO
+
 Secretário de Governo e Relações Exteriores

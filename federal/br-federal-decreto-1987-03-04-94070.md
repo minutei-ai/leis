@@ -1,5 +1,3 @@
-###DEC-094070-0-000-04-03-1987@@@
-
 DECRETO N° 94.070, DE 04 DE MARÇO DE 1987
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo Comercial nº 18 entre o Brasil e o Uruguai no setor da indústria fotográfica.

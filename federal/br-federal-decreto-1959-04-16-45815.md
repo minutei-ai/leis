@@ -1,5 +1,3 @@
-###DEC-045815-0-000-16-04-1959@@@
-
 DECRETO Nº 45.815, DE 16 DE abril DE 1959.
 
 Mudança de sede do Quartel-General da Artilharia Divisionária/3

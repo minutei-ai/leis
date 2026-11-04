@@ -1,5 +1,3 @@
-###DEC-005544-0-000-22-09-2005@@@
-
 DECRETO Nº 5.544, DE 22 DE SETEMBRO DE 2005
 
 Dispõe sobre a execução do Protocolo de Acessão da República Popular da China à Organização Mundial de Comércio, concluído na cidade de Doha, Catar, no dia 10 de novembro de 2001.

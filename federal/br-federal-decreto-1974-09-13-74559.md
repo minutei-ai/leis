@@ -1,5 +1,3 @@
-###DEC-074559-0-000-13-09-1974@@@
-
 decreto nº 74.559, de 13 de setembro de 1974.
 
 Cria a Embaixada do Brasil na República de Guiné-Bissau.

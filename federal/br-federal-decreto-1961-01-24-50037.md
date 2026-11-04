@@ -1,5 +1,3 @@
-###DEC-050037-0-000-24-01-1961@@@
-
 DECRETO Nº 50.037, DE 24 DE JANEIRO DE 1961.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Ferro, as áreas de terreno e benfeitorias necessárias à construção da nova estação de juazeiro, no Estado da Bahia, e implantação dos trechos do seu pátio de manobras.

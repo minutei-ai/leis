@@ -1,5 +1,3 @@
-###DEC-070267-0-000-08-03-1972@@@
-
 DECRETO Nº 70.267, DE 8 DE MARÇO DE 1972.
 
 Declara de utilidade pública a Ação Comunitária do Brasil - São Paulo, com sede em São Paulo, Estado de São Paulo.

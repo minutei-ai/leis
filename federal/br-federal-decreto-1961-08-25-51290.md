@@ -1,5 +1,3 @@
-###DEC-051290-0-000-25-08-1961@@@
-
 DECRETO Nº 51.290, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o cidadão brasileiro Otávio Pereira de Almeida a pesquisar mica no município de Governador Valadares, Estado de Minas Gerais.

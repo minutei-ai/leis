@@ -1,5 +1,3 @@
-###DEL-003075-0-000-22-02-1941@@@
-
 DECRETO-LEI N. 3.075 – DE 22 de FEVEREIRO DE 1941
 
 Dispõe sobre o cargo de Fiscal Administrativo nos corpos de tropa, repartições e estabelecimentos do Ministério da Guerra

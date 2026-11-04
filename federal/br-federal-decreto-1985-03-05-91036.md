@@ -1,5 +1,3 @@
-###DEC-091036-0-000-05-03-1985@@@
-
 DECRETO Nº 91.036, DE 05 DE março DE 1985.
 
 Aprova o Regulamento do Fundo de Estudos do Mar - FUNDEM.

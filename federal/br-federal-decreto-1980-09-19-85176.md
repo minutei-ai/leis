@@ -1,5 +1,3 @@
-###DEC-085176-0-000-19-09-1980@@@
-
 Decreto nº 85.176, de 19 de setembro de 1980.
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO LIBERDADE DE SERGIPE LIMITADA, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Aracaju, Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-058128-0-000-30-03-1966@@@
-
 Decreto nº 58.128, de 30 de março de 1966.
 
 Declara sem efeito o Decreto número 8.313, de 3 de dezembro de 1941.

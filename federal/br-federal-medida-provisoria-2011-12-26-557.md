@@ -1,5 +1,3 @@
-###MPV-000557-0-000-26-12-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA N° 557, DE 26 DE DEZEMBRO DE 2011
 
 Institui o Sistema Nacional de Cadastro, Vigilância e Acompanhamento da Gestante e Puérpera para Prevenção da Mortalidade Materna, autoriza a União a conceder benefício financeiro, altera a Lei n° 8.080, de 19 de setembro de 1990, e a Lei n° 9.782, de 26 de janeiro de 1999.

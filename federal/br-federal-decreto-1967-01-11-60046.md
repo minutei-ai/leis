@@ -1,5 +1,3 @@
-###DEC-060046-0-000-11-01-1967@@@
-
 Decreto nº 60.046, de 11 de janeiro de 1967.
 
 Renova o Decreto nº 53.271, de 13 de dezembro de 1963.

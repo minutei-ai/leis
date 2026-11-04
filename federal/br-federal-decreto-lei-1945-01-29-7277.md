@@ -1,5 +1,3 @@
-###DEL-007277-0-000-29-01-1945@@@
-
 DECRETO-LEI N. 7.277 – DE 29 JANEIRO DE 1945
 
 Prorroga por 60 dias o prazo para execução do Decreto-lei n.º 7.219-A, de 30 da dezembro de 1944

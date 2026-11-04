@@ -1,5 +1,3 @@
-###DEC-057954-0-000-10-03-1966@@@
-
 decreto nº 57.954, de 10 de março de 1966.
 
 Concede à Pedreira Esteves Ltda. autorização para funcionar como emprêsa de mineração.

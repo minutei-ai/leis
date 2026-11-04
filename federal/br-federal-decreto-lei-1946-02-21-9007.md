@@ -1,5 +1,3 @@
-###DEL-009007-0-000-21-02-1946@@@
-
 DECRETO-LEI N. 9.007 – DE 21 DE FEVEREIRO DE 1946
 
 Considera “Data festiva do Exército" o dia 21 de fevereiro de 1946.

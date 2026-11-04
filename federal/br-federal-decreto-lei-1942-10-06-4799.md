@@ -1,5 +1,3 @@
-###DEL-004799-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.799 – DE 6 DE OUTUBRO DE 1942
 
 Cria o 9º Batalhão de Engenharia, na 9ª Região Militar

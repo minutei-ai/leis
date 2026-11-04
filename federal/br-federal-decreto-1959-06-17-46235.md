@@ -1,5 +1,3 @@
-###DEC-046235-0-000-17-06-1959@@@
-
 DECRETO Nº 46.235, DE 17 DE JUNHO DE 1959.
 
 Concede o abono provisório aos servidores do Conselho Regional de Engenharia e Arquitetura – 9ª Região (Ceará e Piauí).

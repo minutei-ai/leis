@@ -1,5 +1,3 @@
-###DEC-007535-0-000-26-07-2011-PUB-01@@@
-
 DECRETO Nº 7.535 DE 26 DE JULHO DE 2011.
 
   Institui o Programa Nacional de Universalização do Acesso e Uso da Água - "ÁGUA PARA TODOS".

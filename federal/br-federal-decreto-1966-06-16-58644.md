@@ -1,5 +1,3 @@
-###DEC-058644-0-000-16-06-1966@@@
-
 DECRETO Nº 58.644, DE 16 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Arthur Herman Lundgren a lavrar fosfato, no município de Paulista, Estado de Pernambuco.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ab5de8ab-44ed-4c71-8ba1-be318a9d7076/texto#nowhere)
 
-###DEL-001862-0-000-25-02-1981@@@
-
 # Decreto-lei nº 1.862, de 25 de fevereiro de 1981.
 
 Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico - BNDE e dá outras providências.

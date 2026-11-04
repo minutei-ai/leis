@@ -1,5 +1,3 @@
-###DEC-097269-0-000-16-12-1988@@@
-
 DECRETO Nº 97.269, DE 16 DE DEZEMBRO DE 1988
 
 Institui o Prêmio Anual Helena Antipoff.

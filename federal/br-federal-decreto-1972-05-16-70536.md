@@ -1,5 +1,3 @@
-###DEC-070536-0-000-16-05-1972@@@
-
 DECRETO Nº 70.536, DE 16 DE MAIO DE 1972
 
 Declara de utilidade pública a Associação de Proteção e Assistência à Maternidade e a Infância de Registro, com sede em Registro, Estado de São Paulo.

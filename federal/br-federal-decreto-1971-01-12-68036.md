@@ -1,5 +1,3 @@
-###DEC-068036-0-000-12-01-1971@@@
-
 DECRETO Nº 68.036, DE 12 DE JANEIRO DE 1971.
 
 Autoriza o funcionamento da Escola de Administração de Empresas, em Santa Rita do Sapucaí, MG.

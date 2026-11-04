@@ -1,5 +1,3 @@
-###DEC-000000-0-001-18-01-1823@@@
-
 DECRETO - DE 18 DE JANEIRO DE 1823
 
 Crêa o Batalhão do Imperador.
@@ -16,14 +14,120 @@ Este Batalhão será composto de 1 estado-maior, e de 6 companhias, da fôrma se
 
 ESTADO-MAIOR
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Tenente Coronel ou Coronel Commandante</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Major</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Ajudante</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Quartel-mestre</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Secretario</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Capellão</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cirurgião-mór</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cirurgiões Ajudantes</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Sargento Ajudante</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Sargento Quartel-mestre</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Porta-Bandeira</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Corneta-mór</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Coronheiro</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Espingardeiro</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Musicos</span></p></td><td style="width:23.45pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">24</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:23.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">39</span></p></td></tr></tbody></table>
+Tenente Coronel ou Coronel Commandante
+
+1
+
+Major
+
+1
+
+Ajudante
+
+1
+
+Quartel-mestre
+
+1
+
+Secretario
+
+1
+
+Capellão
+
+1
+
+Cirurgião-mór
+
+1
+
+Cirurgiões Ajudantes
+
+2
+
+Sargento Ajudante
+
+1
+
+Sargento Quartel-mestre
+
+1
+
+Porta-Bandeira
+
+1
+
+Corneta-mór
+
+1
+
+Coronheiro
+
+1
+
+Espingardeiro
+
+1
+
+Musicos
+
+24
+
+39
 
 FORÇA DE CADA COMPANHIA
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Capitão</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Tenente</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Alferes</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1º Sargento</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">os </span><span style="font-family:Arial">Sargentos</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Forriel</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cabos</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">6</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cornetas</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Anspeçadas e soldados</span></p></td><td style="width:23.45pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">100</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:23.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">116</span></p></td></tr></tbody></table>
+Capitão
+
+1
+
+Tenente
+
+1
+
+Alferes
+
+2
+
+1º Sargento
+
+1
+
+2os Sargentos
+
+2
+
+Forriel
+
+1
+
+Cabos
+
+6
+
+Cornetas
+
+2
+
+Anspeçadas e soldados
+
+100
+
+116
 
 RECAPITULAÇÃO
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Estado-maior</span></p></td><td style="width:23.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">39</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">6 Companhias a 116 praças cada uma</span></p></td><td style="width:23.45pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">696</span></p></td></tr><tr><td style="width:451.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Força total do corpo. Praças</span></p></td><td style="width:23.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">735</span></p></td></tr></tbody></table>
+Estado-maior
+
+39
+
+6 Companhias a 116 praças cada uma
+
+696
+
+Força total do corpo. Praças
+
+735
 
 Paço em 18 de Janeiro de 1823.- João Vieira de Carvalho.

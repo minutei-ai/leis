@@ -1,5 +1,3 @@
-###DEC-059042-0-000-10-08-1966@@@
-
 DECRETO Nº 59.042, DE 10 DE AGÔSTO DE 1966.
 
 Retifica o Quadro de Pessoal do Ministério da Marinha.

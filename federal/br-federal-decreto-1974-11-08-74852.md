@@ -1,5 +1,3 @@
-###DEC-074852-0-000-08-11-1974@@@
-
 DECRETO Nº 74.852, DE 8 DE NOVEMBRO DE 1974.
 
 Autoriza o funcionamento do curso de Engenharia Mecânica da Escola de Engenharia Industrial, mantida pela Associação Joseense de Ensino, com sede na cidade de São José dos Campos, estado de São Paulo.

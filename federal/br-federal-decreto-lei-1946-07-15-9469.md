@@ -1,5 +1,3 @@
-###DEL-009469-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.469 – DE 15 DE JULHO DE 1946
 
 Dá nova redação ao art. 1º do Decreto-lei nº 9.090, de 26 de Março de 1946.

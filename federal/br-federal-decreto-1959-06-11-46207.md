@@ -1,5 +1,3 @@
-###DEC-046207-0-000-11-06-1959@@@
-
 DECRETO Nº 46.207, DE 11 DE JUNHO DE 1959.
 
 Dispõe sôbre o Regimento do Colégio Pedro II, aprovado pelo Decreto nº 34.742, de 2 de Dezembro de 1953.

@@ -1,5 +1,3 @@
-###DEC-051945-0-000-26-04-1963@@@
-
 decreto nº 51.945, de 26 de abril de 1963.
 
 Autoriza o cidadão brasileiro Antônio Hossri a pesquisar calcário no município de Guapiara, Estado de São Paulo.

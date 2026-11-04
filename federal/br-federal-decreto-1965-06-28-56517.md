@@ -1,5 +1,3 @@
-###DEC-056517-0-000-28-06-1965@@@
-
 decreto nº 56.517, de 28 de junho de 1965.
 
 Autoriza a admissão de Prospectores na Comissão Nacional de Energia Nuclear e dá outras providências.

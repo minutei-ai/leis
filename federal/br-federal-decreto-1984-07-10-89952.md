@@ -1,5 +1,3 @@
-###DEC-089952-0-000-10-07-1984@@@
-
 Decreto nº 89.952, de 10 de julho de 1984.
 
 Altera o Decreto nº 83.681, de 4 de julho de 1979, que instituiu a Comissão Nacional de Energia, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000396-0-000-04-10-2007@@@
-
 MEDIDA PROVISÓRIA Nº 396, DE 4 DE OUTUBRO DE 2007.
 
 Dá nova redação aos arts. 1o e 2o da Lei no 10.841, de 18 de fevereiro de 2004, que autoriza a União a permutar Certificados Financeiros do Tesouro.

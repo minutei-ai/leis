@@ -1,5 +1,3 @@
-###DEC-050647-0-000-24-05-1961@@@
-
 DECRETO Nº 50.647, DE 24 DE MAIO DE 1961.
 
 Torna extensiva para o mercado interno a cobrança das taxas de classificação a que se refere o Decreto nº 38.860, de 13 de março de 1956.

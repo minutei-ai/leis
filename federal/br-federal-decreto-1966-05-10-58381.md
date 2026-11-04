@@ -1,5 +1,3 @@
-###DEC-058381-0-000-10-05-1966@@@
-
 DECRETO Nº 58.381, de 10 de maio de 1966.
 
 Dá nova redação ao artigo 5º do Decreto nº 56.980, de 1 de outubro de 1965, que dispõe sôbre a lavra e a industrialização dos xistos oleigenos.

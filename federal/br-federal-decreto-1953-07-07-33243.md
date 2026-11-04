@@ -1,14 +1,12 @@
-###DEC-033243-0-000-07-07-1953@@@
+**DECRETO Nº 33.243, DE 7 DE JULHO DE 1953.**
 
-<strong>DECRETO Nº 33.243, DE 7 DE JULHO DE 1953.</strong>
+***Dá nova redação à alínea “b”, do artigo 114, do Regulamento para a antiga Escola Militar de Rezende, baixado com o Decreto nº 17.738, de 2 de fevereiro de 1945.***
 
-<em><strong>Dá nova redação à alínea “b”, do artigo 114, do Regulamento para a antiga Escola Militar de Rezende, baixado com o Decreto nº 17.738, de 2 de fevereiro de 1945.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º A letra “<em>b</em>” do artigo 114, do Regulamento para a antiga Escola Militar de Rezende, baixado com o Decreto nº 17.738, de 2 de fevereiro de 1945, passa a ter a seguinte redação:
+**Art**. 1º A letra “*b*” do artigo 114, do Regulamento para a antiga Escola Militar de Rezende, baixado com o Decreto nº 17.738, de 2 de fevereiro de 1945, passa a ter a seguinte redação:
 
 “Art 114....................................................................................................................................
 
@@ -18,10 +16,10 @@ b) ter a idade compreendida entre 16 e 22 anos para o Curso das Armas e entre 16
 
 \- Êsses limites máximos serão acrescidos de 1 (um) ano, quando se tratar de candidatos praças das Fôrças Armadas ou de Oficiais e Aspirantes a Oficial da Reserva de 2ª Classe.”
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 7 de julho de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro do Espírito Santo Cardoso

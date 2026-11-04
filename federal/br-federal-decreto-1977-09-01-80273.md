@@ -1,5 +1,3 @@
-###DEC-080273-0-000-01-09-1977@@@
-
 DECRETO Nº 80.273, DE 1º DE SETEMBRO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de São Paulo S. A. - CESP, no Estado de São Paulo.

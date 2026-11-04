@@ -16,8 +16,10 @@ Goiânia, 9 de abril de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-RUBENS MARQUES<br>
+RUBENS MARQUES
+
 Deputado Estadual

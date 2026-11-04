@@ -1,5 +1,3 @@
-###DEC-069124-0-000-25-08-1971@@@
-
 decreto nº 69.124, de 25 de agôsto de 1971.
 
 Declara de utilidade pública a Santa Casa de Misericórdia e Maternidade D. Julieta Lyra de Itápolis, com sede em Itápolis,  Estado de São Paulo.

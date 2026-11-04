@@ -1,7 +1,3 @@
-1
-
-###DEC-001270-0-000-11-10-1994@@@
-
 DECRETO Nº 1.270, DE 11 DE OUTUBRO DE 1994
 
 Reduz a zero a alíquota do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários IOF, nos casos que menciona.

@@ -1,5 +1,3 @@
-###DEC-084573-0-000-17-03-1980@@@
-
 DECRETO Nº 84.573, DE 17 DE MARÇO DE 1980.
 
 Promulga o acordo Básico de Cooperação Técnica e CientÍfica celebrado entre o Governo da República Federal do Brasil e o Governo da República da Guiné-Bissau.
@@ -110,4 +108,20 @@ O presente Acordo Básico poderá ser denunciado por qualquer das Partes Contrat
 
 Feito na cidade de Brasília, aos dezoito dias do mês de maio de 1978, em dois exemplares originais, na língua portuguesa, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DA GUINÉ-BISSAU:</span></p></td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Antonio F. Azeredo da Silveira)</span></p></td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Victor Saúde Maria)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DA GUINÉ-BISSAU:
+
+</td></tr><tr><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+(Antonio F. Azeredo da Silveira)
+
+</td><td style="width:212.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+(Victor Saúde Maria)
+
+</td></tr></tbody></table>

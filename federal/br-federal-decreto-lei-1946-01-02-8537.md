@@ -1,5 +1,3 @@
-###DEL-008537-0-000-02-01-1946@@@
-
 DECRETO-LEI N. 8.537 – DE 2 DE JANEIRO DE 1946
 
 Prorroga a vigência do crédito especial aberto pelo art. 2º do Decreto-lei nº 6.571, de 8 de junho de 1944.

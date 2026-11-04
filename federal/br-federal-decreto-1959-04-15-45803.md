@@ -1,5 +1,3 @@
-###DEC-045803-0-000-15-04-1959@@@
-
 Decreto nº 45.803, de 15 de abril de 1959.
 
 Transfere a especialidade de “Condutor-Motorista (C.F.N.)” da Categoria “A” para a Categoria “B”, do Decreto nº 30.034, de 1 de outubro de 1959.

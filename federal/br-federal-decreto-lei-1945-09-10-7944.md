@@ -1,5 +1,3 @@
-###DEL-007944-0-000-10-09-1945@@@
-
 DECRETO-LEI N. 7.944 – DE 10 DE SETEMBRO DE 1945
 
 Dispõe sôbre a revalidação de título eleitoral expedido na vigência do Decreto nº 21.076, de 24-2-1932, e do Lei nº 48, de 4-5-1935 (Código Eleitoral).

@@ -14,26 +14,32 @@ Art. 1º O investigado, acusado, preso ou condenado que tiver deferida ou decret
 
 § 2º No ato da devolução do equipamento, esse será submetido a avaliação técnica para a averiguação de eventuais danos ou avarias e haverá a expedição de laudo pormenorizado.
 
-§ 3º Caso o laudo técnico expedido ateste avarias ou danos ao equipamento de monitoração eletrônica, seu usuário deverá ressarcir o prejuízo à Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~.<br>
+§ 3º Caso o laudo técnico expedido ateste avarias ou danos ao equipamento de monitoração eletrônica, seu usuário deverá ressarcir o prejuízo à Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~.
+
  - [Redação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218) , art. 6º, XVI.                         
 
 § 4º A recusa injustificada ao pagamento não implicará qualquer limitação à liberdade de locomoção do interessado, nos termos de determinação judicial.
 
 § 5º Na hipótese do § 4º deste artigo, o servidor responsável certificará o inadimplemento e encaminhará a documentação necessária e o demonstrativo de cálculo à Procuradoria-Geral do Estado – PGE, para inscrição em dívida ativa, observado o disposto no § 3º do art. 2º da Lei nº [16.077](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80188/lei-16077), de 11 de julho de 2007.
 
-Art. 1º-A Os custos decorrentes dos dispositivos de monitoração para a proteção e a segurança das vítimas de violência doméstica ou familiar amparadas por medidas protetivas serão ressarcidos pelo agressor, inclusive os referentes aos equipamentos que ele próprio utilizar, nos termos dos §§ 5º e 6º do art. 9º da Lei federal nº 11.340 (Lei Maria da Penha), de 7 de agosto de 2006.<br>
+Art. 1º-A Os custos decorrentes dos dispositivos de monitoração para a proteção e a segurança das vítimas de violência doméstica ou familiar amparadas por medidas protetivas serão ressarcidos pelo agressor, inclusive os referentes aos equipamentos que ele próprio utilizar, nos termos dos §§ 5º e 6º do art. 9º da Lei federal nº 11.340 (Lei Maria da Penha), de 7 de agosto de 2006.
+
 \- [Redação dada pela Lei nº 24.332, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115184).
 
-~~Art. 1º-A Aplica-se o disposto no art. 1º e seus parágrafos aos dispositivos de segurança destinados ao uso em caso de perigo iminente e disponibilizados para o monitoramento das vítimas de violência doméstica ou familiar amparadas por medidas protetivas, que terão seus custos ressarcidos pelo agressor, nos termos da Lei federal nº 11.340, de 7 de agosto de 2006.~~<br>
+~~Art. 1º-A Aplica-se o disposto no art. 1º e seus parágrafos aos dispositivos de segurança destinados ao uso em caso de perigo iminente e disponibilizados para o monitoramento das vítimas de violência doméstica ou familiar amparadas por medidas protetivas, que terão seus custos ressarcidos pelo agressor, nos termos da Lei federal nº 11.340, de 7 de agosto de 2006.~~
+
 \- [Acrescido pela Lei nº 23.022, de 2-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109623/lei-23022).
 
-§ 1º Na hipótese do caput deste artigo, aplica-se, no que couber, o disposto nos §§ 1º a 5º do art. 1º e nos arts. 2º, 4º, 5º e 6º desta Lei.<br>
+§ 1º Na hipótese do caput deste artigo, aplica-se, no que couber, o disposto nos §§ 1º a 5º do art. 1º e nos arts. 2º, 4º, 5º e 6º desta Lei.
+
 \- [Acrescido pela Lei nº 24.332, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115184).
 
-§ 2º O ressarcimento de que trata o caput deste artigo recairá unicamente sobre o agressor, sem gerar reflexos patrimoniais negativos às vítimas ou a seus dependentes, e o cumprimento do encargo não atenuará as penas aplicadas nem provocará a substituição delas.<br>
+§ 2º O ressarcimento de que trata o caput deste artigo recairá unicamente sobre o agressor, sem gerar reflexos patrimoniais negativos às vítimas ou a seus dependentes, e o cumprimento do encargo não atenuará as penas aplicadas nem provocará a substituição delas.
+
 \- [Acrescido pela Lei nº 24.332, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115184).
 
-§ 3º Na hipótese de absolvição, eventuais valores pagos pelo acusado no ressarcimento dos custos pelo uso regular dos equipamentos de monitoração lhe serão restituídos com correção monetária pelo Índice Nacional de Preços ao Consumidor Amplo - IPCA, que deverá incidir a partir da data do efetivo pagamento da compensação financeira até a data da restituição, mediante o requerimento instruído com a sentença absolutória e a certidão de trânsito em julgado.<br>
+§ 3º Na hipótese de absolvição, eventuais valores pagos pelo acusado no ressarcimento dos custos pelo uso regular dos equipamentos de monitoração lhe serão restituídos com correção monetária pelo Índice Nacional de Preços ao Consumidor Amplo - IPCA, que deverá incidir a partir da data do efetivo pagamento da compensação financeira até a data da restituição, mediante o requerimento instruído com a sentença absolutória e a certidão de trânsito em julgado.
+
 \- [Acrescido pela Lei nº 24.332, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115184).
 
 Art. 2º Os recursos arrecadados com os valores cobrados pela utilização de equipamento de monitoração eletrônica de que trata o _caput_ do art. 1º desta Lei serão destinados para melhorias no sistema de execução penal estadual, a serem alocados no Fundo Penitenciário Estadual – FUNPES.
@@ -48,10 +54,12 @@ DA FORMA E DO PRAZO PARA RECOLHIMENTO
 
 Art. 4º Os valores devidos pela utilização do equipamento de monitoração eletrônica serão recolhidos por Documento de Arrecadação de Receitas Estaduais, expedido pela Secretaria de Estado da Economia, preferencialmente pela internet.
 
-§ 1º O interessado deverá encaminhar os comprovantes mensais de pagamento à Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~.<br>
+§ 1º O interessado deverá encaminhar os comprovantes mensais de pagamento à Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~.
+
  - [Redação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218) , art. 6º, XVI.                         
 
-§ 2º A pedido dos interessados que não dispuserem de acesso à internet, a Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~ fornecerá o Documento de Arrecadação de Receitas Estaduais para o devido pagamento nas instituições financeiras.<br>
+§ 2º A pedido dos interessados que não dispuserem de acesso à internet, a Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~ fornecerá o Documento de Arrecadação de Receitas Estaduais para o devido pagamento nas instituições financeiras.
+
  - [Redação dada pela Lei nº 22.457, de 12-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108218) , art. 6º, XVI.
 
 CAPÍTULO III

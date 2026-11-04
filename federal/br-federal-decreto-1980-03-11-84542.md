@@ -1,5 +1,3 @@
-###DEC-084542-0-000-11-03-1980@@@
-
 DECRETO Nº 84.542, DE 11 DE MARÇO DE 1980.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno que menciona, situado no Município de Aparecida, Estado de São Paulo.

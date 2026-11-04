@@ -1,5 +1,3 @@
-###DEC-062571-0-000-19-04-1968@@@
-
 DECRETO Nº 62.571, DE 19 DE ABRIL DE 1968.
 
 Delega competência aos Ministros do Interior, Fazenda e Planejamento e Coordenação Geral para declararem proprietárias, com vistas ao desenvolvimento do Nordeste, as importações de equipamentos, referidas no artigo 18 da Lei n.º 3.692,de 15 de dezembro de 1959.

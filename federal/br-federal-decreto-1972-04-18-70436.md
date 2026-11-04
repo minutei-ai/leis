@@ -1,5 +1,3 @@
-###DEC-070436-0-000-18-04-1972@@@
-
 DECRETO Nº 70.436, DE 18 DE ABRIL DE 1972.
 
 Regulamenta a aquisição pelos portugueses, no Brasil, dos direitos e obrigações previstos no Estatuto da Igualdade e da outras providências.

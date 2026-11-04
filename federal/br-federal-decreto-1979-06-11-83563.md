@@ -1,5 +1,3 @@
-###DEC-083563-0-000-11-06-1979@@@
-
 Decreto nº 83.563, de 11 de junho de 1979.
 
 Concede reconhecimento aos cursos de Tecnólogo em Administração Rural e de Tecnólogo em Cooperativismo do Centro de Ciências Agrárias, com sede na cidade de Ijuí, Estado do Rio Grande do Sul.

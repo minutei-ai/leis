@@ -1,5 +1,3 @@
-###DEC-076498-0-000-22-10-1975@@@
-
 DECRETO nº 76.498, de 22 de Outubro de 1975.
 
 Concede reconhecimento ao curso de Engenharia de Operação da Faculdade de Engenharia de Operação de Sobral, com sede na cidade de Sobral, Estado do Ceará.

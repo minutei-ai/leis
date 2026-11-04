@@ -1,5 +1,3 @@
-###DEC-064526-0-000-16-05-1969@@@
-
 DECRETO Nº 64.526, DE 16 DE MAIO DE 1969.
 
 Revoga disposições do Regimento do Código Nacional de Trânsito

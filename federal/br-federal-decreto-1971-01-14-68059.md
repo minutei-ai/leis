@@ -1,5 +1,3 @@
-###DEC-068059-0-000-14-01-1971@@@
-
 DECRETO Nº 68.059, DE 14 DE JANEIRO DE 1971.
 
 Declara de utilidade pública o Lar e Creche-Mãezinha, com sede em Itu, Estado de São Paulo.

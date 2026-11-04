@@ -12,7 +12,8 @@ Parágrafo único - Os recursos oriundos de operação autorizada nesta Lei ser�
 
 ](https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-14062013#%3E12.814%3C/a%3E%20,%20de%2022%20de%20maio%20de%202013.%3Cbr%20/%3EReda%C3%A7%C3%A3o%20original:)
 
-[Redação de acordo com a Lei nº](https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-14062013#%3E12.814%3C/a%3E%20,%20de%2022%20de%20maio%20de%202013.%3Cbr%20/%3EReda%C3%A7%C3%A3o%20original:) [12.913](javascript: openDoc\() , de 11 de outubro de 2013.<br>
+[Redação de acordo com a Lei nº](https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-14062013#%3E12.814%3C/a%3E%20,%20de%2022%20de%20maio%20de%202013.%3Cbr%20/%3EReda%C3%A7%C3%A3o%20original:) [12.913](javascript: openDoc\() , de 11 de outubro de 2013.
+
 Redação original: "Parágrafo único - Os recursos oriundos de operação autorizada nesta Lei serão obrigatoriamente aplicados na execução de empreendimentos integrantes do PAC Mobilidade Grandes Cidades." 
 
 Art. 2º - O Poder Executivo consignará nos orçamentos anuais e plurianuais do Estado, durante os prazos que vierem a ser estabelecidos para a operação de crédito, dotação suficiente à amortização do principal, encargos e acessórios resultantes, inclusive os recursos necessários ao atendimento da contrapartida do Estado, ficando autorizado a promover as modificações orçamentárias que se fizerem necessárias ao cumprimento do disposto nesta Lei.

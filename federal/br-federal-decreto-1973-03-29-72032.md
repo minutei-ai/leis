@@ -1,5 +1,3 @@
-###DEC-072032-0-000-29-03-1973@@@
-
 DECRETO Nº 72.032, DE 29 DE MARÇO DE 1973.
 
 Concede a Produtos Silicar S.A. o direito de lavrar diatomita no Município de Jaguaruna, Estado de Santa Catarina.

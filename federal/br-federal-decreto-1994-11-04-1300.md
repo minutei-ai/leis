@@ -1,7 +1,3 @@
-1
-
-###DEC-001300-0-000-04-11-1994@@@
-
 DECRETO Nº 1.300, DE 4 DE NOVEMBRO DE 1994
 
 Dispõe sobre a execução do Vigésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 14, entre Brasil e Argentina, de 26 de julho de 1994.

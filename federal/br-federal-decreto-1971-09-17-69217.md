@@ -1,5 +1,3 @@
-###DEC-069217-0-000-17-09-1971@@@
-
 DECRETO Nº 69.217, DE 17 de SETEMBRO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão uma faixa de terra destinada à passagem de linha de transmissão entre Araraquara e Poços de Caldas nos Estados de São Paulo e Minas Gerais.

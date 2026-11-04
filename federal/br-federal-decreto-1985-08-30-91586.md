@@ -1,5 +1,3 @@
-###DEC-091586-0-000-30-08-1985@@@
-
 Decreto nº 91.586, de 30 de agosto de 1985.
 
 Outorga à Francisco Lindner S.A. - Indústria e Comércio concessão para o aproveitamento progressivo da energia hidráulica de um trecho do rio do Peixe onde se acham instaladas duas usinas hidrelétricas, no distrito de Luzerna, Município de Joaçaba, Estado de Santa Catarina, para uso exclusivo.

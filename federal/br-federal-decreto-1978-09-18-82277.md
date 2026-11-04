@@ -1,5 +1,3 @@
-###DEC-082277-0-000-18-09-1978@@@
-
 Decreto nº 82.277, de 18 de setembro de 1978.
 
 Transfere ao Conselho de Desenvolvimento Comercial a Divisão de Exposições e Feiras do Departamento Nacional de Registro do Comércio.

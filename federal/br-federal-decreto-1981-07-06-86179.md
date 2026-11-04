@@ -1,5 +1,3 @@
-###DEC-086179-0-000-06-07-1981@@@
-
 Decreto nº 86.179, de 06 de julho de 1981.
 
 Institui um Fundo Especial de natureza contábil na Comissão Executiva do Plano da Lavoura Cacaueira (CEPLAC) e dá outras providências.

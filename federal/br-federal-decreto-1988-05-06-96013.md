@@ -1,5 +1,3 @@
-###DEC-096013-0-000-06-05-1988@@@
-
 DECRETO N° 96.013, DE 06 DE MAIO DE 1988
 
 Altera dispositivos do Regulamento Disciplinar da Aeronáutica.

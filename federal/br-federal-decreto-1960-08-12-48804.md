@@ -1,5 +1,3 @@
-###DEC-048804-0-000-12-08-1960@@@
-
 decreto nº 48.804, de 12 de agôsto de 1960.
 
 Autoriza o cidadão brasileiro Glauco de Paula Machado a pesquisar minério de ferro no município de Itaúna, Estado de Minas Gerais.

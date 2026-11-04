@@ -1,5 +1,3 @@
-###DEC-088012-0-000-03-01-1983@@@
-
 Decreto nº 88.012, de 03 de janeiro de 1983
 
 Concede à Telecomunicações do Pará S.A - TELEPARÁ, empresa controlada da Telecomunicações Brasileiras S.A - TELEBRÁS, autorização para promover o aumento do seu capital social.

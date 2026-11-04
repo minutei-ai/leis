@@ -1,5 +1,3 @@
-###DEC-059917-0-000-30-12-1966@@@
-
 DECRETO Nº 59.917, DE 30 DE DEZEMBRO DE 1966.
 
 Regulamenta o SERFHAU - Serviço Federal de Habitação e Urbanismo, estabelece suas finalidades e modo de operação, cria o Fundo de Financiamento de Planos de Desenvolvimento Local integrado, e dá outras providências.

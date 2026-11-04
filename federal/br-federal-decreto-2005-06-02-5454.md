@@ -1,5 +1,3 @@
-###DEC-005454-0-000-02-06-2005@@@
-
 DECRETO Nº 5.454, DE 2 DE JUNHO DE 2005
 
 Dispõe sobre a execução do Vigésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 39, entre os Governos da República Federativa do Brasil e da República Bolivariana da Venezuela, de 31 de janeiro de 2005.

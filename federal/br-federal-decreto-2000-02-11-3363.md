@@ -1,5 +1,3 @@
-###DEC-003363-0-000-11-02-2000@@@
-
 DECRETO Nº 3.363, DE 11 DE FEVEREIRO DE 2000.
 
 Cria Comissão Interministerial para o reexame dos processos de anistia de que trata a Lei Nº 8.878, de 11 de maio de 1994, e dá outras providências.

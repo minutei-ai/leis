@@ -1,5 +1,3 @@
-###DEC-002446-0-000-30-12-1997@@@
-
 DECRETO Nº 2.446, DE 30 DE DEZEMBRO DE 1997
 
 Prorroga o prazo de remanejamento dos cargos que menciona.

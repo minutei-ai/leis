@@ -1,5 +1,3 @@
-###DEC-061515-0-000-12-10-1967@@@
-
 DECRETO Nº 61.515, DE 12 DE OUTUBRO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doações de imóveis, em Uberlândia - MG, destinados ao Ministério do Exército.

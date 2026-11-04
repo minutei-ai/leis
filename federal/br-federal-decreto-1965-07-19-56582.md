@@ -1,5 +1,3 @@
-###DEC-056582-0-000-19-07-1965@@@
-
 Decreto nº 56.582 de 19 de julho de 1965.
 
 Dá nova redação ao § 3º o art. 2º do Decreto nº 31.546, de 1952.

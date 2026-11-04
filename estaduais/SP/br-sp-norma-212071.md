@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212071)<br>
-
 # DECRETO N° 70.265, DE 22 DE DEZEMBRO DE 2025
 
 ### _Altera a redação de dispositivos e substitui o Anexo do Decreto n° 64.509, de 1° de outubro de 2019, que reformula o Programa Vila Dignidade, instituído pelo Decreto n° 54.285, de 29 de abril de 2009, e dá providências correlatas._
@@ -44,14 +42,16 @@ Marcelo Cardinale Branco
 
 Juliana Felicidade Armede
 
-#### ANEXO<br>
+#### ANEXO
+
 (a que se refere o artigo 4° do Decreto n° 64.509, de 1° de outubro de 2019)
 
 #### Convênio que celebram o Estado de São Paulo, por meio de suas Secretarias de Desenvolvimento Urbano e Habitação e de Desenvolvimento Social, a Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU e o Município de \_\_, tendo por objeto a implementação do Programa Vida Longa
 
 Aos \_\_ dias do mês de \_\_\_ de \_\_, o Estado de São Paulo, por meio da Secretaria de Desenvolvimento Urbano e Habitação, neste ato representada pelo seu Titular \_\_\_, doravante denominada SDUH, e da Secretaria de Desenvolvimento Social, neste ato representada pelo seu Titular \_\_\_, doravante denominada SEDS, nos termos da autorização constante do Decreto n° 64.509, de 1° de outubro de 2019, a Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, com sede na \_\_\_, inscrita no CNPJ/MF sob n° \_\_\_, neste ato representada por seu Diretor Presidente \_\_\_, R.G. n° \_\_\_, CPF n° \_\_\_, e por seu Diretor de \_\_\_, \_\_\_, R.G. n° \_\_\_, CPF n° \_\_\_, doravante designada CDHU, e o Município de \_\_\_, neste ato representado por seu Prefeito \_\_\_, doravante denominado MUNICÍPIO, com base nos dispositivos constitucionais e legais vigentes, celebram o presente convênio, que se regerá pela Lei federal n° 14.133, de 1° de abril de 2021, pela [Lei n° 6.544, de 22 de novembro de 1989](https://www.al.sp.gov.br/norma/23984), e pelo [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), em conformidade com as cláusulas e condições que seguem.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 O presente convênio tem por objeto a implementação do Programa Vida Longa, por meio da execução das seguintes ações:
@@ -68,7 +68,8 @@ II - implantação, pelo MUNICÍPIO, de Projeto Social, aprovado pela SEDS, cont
 
 **§ 4° -** O Secretário de Desenvolvimento Urbano e Habitação e o Secretário de Desenvolvimento Social, amparados em manifestação fundamentada das áreas técnicas das Pastas, poderão autorizar modificações incidentes sobre os Planos de Trabalho - Anexos I e II, respectivamente, para sua melhor adequação técnica ou financeira, vedada a alteração do objeto do ajuste.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Obrigações dos Partícipes
 
 Para a execução do objeto do presente convênio, os partícipes terão as seguintes atribuições:
@@ -141,12 +142,14 @@ l) prestar as informações solicitadas pela SDUH e SEDS, periodicamente, para m
 
 m) promover ações intersetoriais de modo a integrar o Programa Vida Longa à rede de serviços do MUNICÍPIO, especialmente ao SUS e ao SUAS.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Valor
 
 O valor do presente convênio é de R$ \_\_( \_\_\_), de responsabilidade da SDUH, cujo repasse à CDHU observará o disposto no plano de aplicação constante do Plano de Trabalho - Anexo I.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Dos Recursos Financeiros e sua Aplicação
 
 Os recursos de responsabilidade da SDUH, a serem transferidos à CDHU, são originários do Tesouro do Estado, Conta \_\_ Programa \_\_, Ação \_\_ - na natureza da despesa \_\_ - Obras e Instalações.
@@ -163,19 +166,22 @@ Os recursos de responsabilidade da SDUH, a serem transferidos à CDHU, são orig
 
 4\. o descumprimento do disposto neste parágrafo obrigará à reposição ou restituição do numerário recebido, acrescido da remuneração da caderneta de poupança no período, computada desde a data do repasse e até o efetivo depósito.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Liberação dos Recursos
 
 Os recursos serão repassados pela SDUH à CDHU em até\_\_\_(por extenso) parcelas, sendo a primeira equivalente a, no mínimo, \_\_\_\_% (por extenso) do valor total orçado e previamente aprovado pela SDUH, em até 30 (trinta) dias contados da data da assinatura deste instrumento, por meio de depósito em conta vinculada aberta junto à instituição financeira a ser indicada pela SDUH, e as demais de acordo com o cronograma de desembolso constante do Plano de Trabalho - Anexo I.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Prestação de Contas
 
 As prestações de contas da aplicação dos recursos transferidos serão realizadas segundo o Cronograma Físico-Financeiro que integra o Plano de Trabalho - Anexo I, em periodicidade trimestral.
 
 **Parágrafo único -** Concluída a execução do objeto deste ajuste, a CDHU deverá apresentar a prestação de contas final, no prazo máximo de 90 (noventa) dias.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo
 
 O prazo de vigência do presente convênio no que concerne tanto à construção do equipamento comunitário quanto à execução do Projeto Social será de 36 (trinta e seis) meses a contar da assinatura deste instrumento.
@@ -186,29 +192,34 @@ O prazo de vigência do presente convênio no que concerne tanto à construção
 
 **§ 3° -** Após sua implementação, o Projeto Social integrará o Plano Municipal de Assistência Social - PMAS e constituirá serviço de ação continuada, devendo ser submetido anualmente ao Conselho Municipal do Idoso e de Assistência Social.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas.
 
 **Parágrafo único -** Na hipótese de o MUNICÍPIO descumprir as obrigações previstas nas alíneas "e" a "g" da Cláusula Segunda, ficará obrigado a restituir o valor despendido pela SDUH na construção e aquisição do mobiliário do equipamento comunitário.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Dos Saldos Financeiros Remanescentes
 
 Quando da conclusão, denúncia, rescisão ou extinção do convênio, os saldos financeiros remanescentes, inclusive os provenientes das receitas obtidas das aplicações financeiras, serão devolvidos à SDUH por meio de guia de recolhimento, no prazo de 30 (trinta) dias do evento, sob pena de imediata instauração de tomada de contas especial do responsável, a ser providenciada pela SDUH.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Responsabilidade pela Devolução dos Recursos
 
 A CDHU obriga-se, nos casos de não utilização integral dos recursos para o fim conveniado, ou de sua aplicação irregular, a devolvê-los, acrescidos da remuneração devida pela aplicação em caderneta de poupança, desde a data da sua liberação.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por suas Secretarias de Desenvolvimento Urbano e Habitação e de Desenvolvimento Social, obedecidos os padrões estipulados, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do §1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital de São Paulo para dirimir litígios oriundos da execução deste convênio.

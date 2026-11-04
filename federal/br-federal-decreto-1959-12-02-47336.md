@@ -1,5 +1,3 @@
-###DEC-047336-0-000-02-12-1959@@@
-
 DECRETO Nº 47.336, DE 02 DE dezembro DE 1959.
 
 Autoriza o cidadão brasileiro José Maximiano de Souza a pesquisar cassiterita no município de São João del Rei, Estado de Minas Gerais.

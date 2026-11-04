@@ -1,14 +1,12 @@
-###DEC-029122-0-000-12-01-1951@@@
+**DECRETO N. 29.122 – DE 12 DE JANEIRO DE 1951**
 
-<strong>DECRETO N. 29.122 – DE 12 DE JANEIRO DE 1951</strong>
-
-<em><strong>Designa as funções privativas dos diferentes postos e quadros de Corpo de Oficiais da Aeronáutica.</strong></em>
+***Designa as funções privativas dos diferentes postos e quadros de Corpo de Oficiais da Aeronáutica.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, da Constituição Federal e tendo em vista o disposto em o § 2º, do artigo 3º, da Lei nº 1.185, de 31 de agôsto de 1950, que fixou os efetivos dos quadros do Corpo de Oficiais da Aeronáutica,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º – São funções privativas de oficiais do Quadro de Oficiais Aviadores:
+**Art.** 1º – São funções privativas de oficiais do Quadro de Oficiais Aviadores:
 
 a) do pôsto de Brigadeiro do Ar:
 
@@ -178,7 +176,7 @@ h) do pôsto de Major ou Capitão;
 
 – Adjunto de Adido Aeronáutico.
 
-<strong>Art.</strong> 2º – São funções privativas de Oficiais do Quadro de Saúde da Aeronáutica :
+**Art.** 2º – São funções privativas de Oficiais do Quadro de Saúde da Aeronáutica :
 
 a) do pôsto de Coronel ou Tenente Coronel Médico:
 
@@ -206,7 +204,7 @@ e) do pôsto de Capitão Médico:
 
 Parágrafo único – O Adjunto do Estado Maior de Aeronáutica deve ser diplomado no Curso de Direção de Serviços, da Escola de Comando e Estado Maior da Aeronáutica.
 
-<strong>Art.</strong> 3º – São funções privativas de Oficiais do Quadro de Intendência de Aeronáutica:
+**Art.** 3º – São funções privativas de Oficiais do Quadro de Intendência de Aeronáutica:
 
 a) do pôsto de Coronel ou Tenente Coronel:
 
@@ -246,12 +244,12 @@ d) do pôsto de Capitão:
 
 Parágrafo único – A adjunto do Estado Maior da Aeronáutica deve ser diplomado no Curso de Direção de Serviços da Escola de Comando e Estado Maior da Aeronáutica.
 
-<strong>Art.</strong> 4º – As demais funções dos quadros do Corpo de Oficiais da Aeronáutica,  não previstas nas artigos precedentes, restam inalteradas e serão providas na forma das regulamentos em vigor.
+**Art.** 4º – As demais funções dos quadros do Corpo de Oficiais da Aeronáutica,  não previstas nas artigos precedentes, restam inalteradas e serão providas na forma das regulamentos em vigor.
 
-<strong>Art.</strong> 5º – O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art.** 5º – O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 12 de janeiro de 1951; 130º da Independência e 63º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Armando Trompowsky.

@@ -1,5 +1,3 @@
-###DEC-073193-0-000-23-11-1973@@@
-
 DECRETO Nº 73.193 - DE 23 DE NOVEMBRO DE 1973
 
 Concede à Indústria Silício-Cal Nordeste S.A. - SILICAL o direto de lavrar areia quartzosa no Município de Salvador, Estado da Bahia.

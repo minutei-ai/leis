@@ -1,5 +1,3 @@
-###DEL-000340-0-000-22-12-1967@@@
-
 DECRETO-LEI Nº 340, DE 22 DE DEZEMBRO DE 1967
 
 Acrescenta disposições disciplinadoras ao Decreto-lei nº 288, de 28 de fevereiro de 1967.

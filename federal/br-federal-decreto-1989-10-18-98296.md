@@ -1,7 +1,3 @@
-1
-
-###DEC-098296-0-000-18-10-1989@@@
-
 DECRETO N° 98.296, DE 18 DE OUTUBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel situado à Avenida Almirante Barroso, nº 555, na cidade de João Pessoa, Estado da Paraíba.

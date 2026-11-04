@@ -1,5 +1,3 @@
-###DEC-073372-0-000-26-12-1973@@@
-
 DECRETO Nº 73.372 - DE 26 DE DEZEMBRO DE 1973
 
 Concede autorização à Companhia Société de Forages en Mer Neptune para executar trabalho de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.ª - PETROBRÁS.

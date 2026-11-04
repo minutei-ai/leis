@@ -1,5 +1,3 @@
-###DEC-096666-0-000-08-09-1988@@@
-
 DECRETO N° 96.666, DE 8 DE SETEMBRO DE 1988
 
 Outorga concessão à TELEVISÃO PONTA PORÃ LTDA. para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Ponta Porã, Estado do Mato Grosso do Sul.

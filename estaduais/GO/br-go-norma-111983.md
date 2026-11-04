@@ -1,4 +1,5 @@
-LEI Nº 23.991, DE 30 DE DEZEMBRO DE 2025<br>
+LEI Nº 23.991, DE 30 DE DEZEMBRO DE 2025
+
 \- [Vide Lei nº 24.312, de 25-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114842/lei-24312) - Altera a denominação do estabelecimento de ensino que especifica. 
 
 Altera a [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633 "Abrir Lei Ordinária nº 20917, de 2020 em nova aba"), de 21 de dezembro de 2020, que institui o Programa Educação Plena e Integral e dá outras providências.
@@ -23,5 +24,6 @@ Goiânia, 30 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

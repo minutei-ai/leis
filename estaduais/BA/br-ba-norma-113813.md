@@ -26,269 +26,295 @@ ANO DE 1956
 
 CAPITAL
 
-<table border="1" cellspacing="0" cellpadding="0" width="397" style="width:297.65pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>NOME DO COLÉGIO<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>N. DO PROCESSO<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>ANUIDADES<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Asilo Bom Pastor<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9255/56<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9.600,00<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Orfanato N. S. da Assunção<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4379/56<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>14.000,00<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Orfanato da Imaculada Conceição<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10399/56<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>19.200,00<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Seminário N. S. da Piedade<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15848/56<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>90.000,00<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Escola N. S. da Conceição<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5883/56<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>105.000,00<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Instituto Sete de Setembro<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15408/56<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5.900,00<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio Vila Vicentina<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15212/56<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>48.000,00<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Instituto Glória<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3408/56<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>75.000,00<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Escola Gráfica N. S. de Loreto<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4936/56<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>60.000,00<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$426.700,00<quebra></quebra></span></p></td></tr></tbody></table>
+NOME DO COLÉGIO<quebra></quebra>
+
+N. DO PROCESSO<quebra></quebra>
+
+ANUIDADES<quebra></quebra>
+
+Asilo Bom Pastor<quebra></quebra>
+
+9255/56<quebra></quebra>
+
+9.600,00<quebra></quebra>
+
+Orfanato N. S. da Assunção<quebra></quebra>
+
+4379/56<quebra></quebra>
+
+14.000,00<quebra></quebra>
+
+Orfanato da Imaculada Conceição<quebra></quebra>
+
+10399/56<quebra></quebra>
+
+19.200,00<quebra></quebra>
+
+Seminário N. S. da Piedade<quebra></quebra>
+
+15848/56<quebra></quebra>
+
+90.000,00<quebra></quebra>
+
+Escola N. S. da Conceição<quebra></quebra>
+
+5883/56<quebra></quebra>
+
+105.000,00<quebra></quebra>
+
+Instituto Sete de Setembro<quebra></quebra>
+
+15408/56<quebra></quebra>
+
+5.900,00<quebra></quebra>
+
+Colégio Vila Vicentina<quebra></quebra>
+
+15212/56<quebra></quebra>
+
+48.000,00<quebra></quebra>
+
+Instituto Glória<quebra></quebra>
+
+3408/56<quebra></quebra>
+
+75.000,00<quebra></quebra>
+
+Escola Gráfica N. S. de Loreto<quebra></quebra>
+
+4936/56<quebra></quebra>
+
+60.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$426.700,00<quebra></quebra>
 
 INTERIOR
 
-<table border="1" cellspacing="0" cellpadding="0" width="397" style="width:297.65pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="189" valign="top" style="width:5.0cm;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio e Orfanato S. Francisco<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4751/56<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>132.000,00<quebra></quebra></span></p></td></tr><tr><td width="189" valign="top" style="width:5.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio de Juazeiro<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>11781/56<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.400,00<quebra></quebra></span></p></td></tr><tr><td width="189" valign="top" style="width:5.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio Afrânio Peixoto<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15302/56<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>25.000,00<quebra></quebra></span></p></td></tr><tr><td width="189" valign="top" style="width:5.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Escola N. S. das Mercês<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10001/56<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>89.100,00<quebra></quebra></span></p></td></tr><tr><td width="189" valign="top" style="width:5.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio Luzia Silva<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4937/56<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>249.000,00<quebra></quebra></span></p></td></tr><tr><td width="189" valign="top" style="width:5.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio Taylor Egídio<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>604.100,00<quebra></quebra></span></p></td></tr><tr><td width="189" valign="top" style="width:5.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$1.100.600,00<quebra></quebra></span></p></td></tr><tr><td width="189" valign="top" style="width:5.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Total do ano de 1956<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.527.300,00<quebra></quebra></span></p></td></tr></tbody></table>
+Colégio e Orfanato S. Francisco<quebra></quebra>
+
+4751/56<quebra></quebra>
+
+132.000,00<quebra></quebra>
+
+Ginásio de Juazeiro<quebra></quebra>
+
+11781/56<quebra></quebra>
+
+1.400,00<quebra></quebra>
+
+Ginásio Afrânio Peixoto<quebra></quebra>
+
+15302/56<quebra></quebra>
+
+25.000,00<quebra></quebra>
+
+Escola N. S. das Mercês<quebra></quebra>
+
+10001/56<quebra></quebra>
+
+89.100,00<quebra></quebra>
+
+Colégio Luzia Silva<quebra></quebra>
+
+4937/56<quebra></quebra>
+
+249.000,00<quebra></quebra>
+
+Ginásio Taylor Egídio<quebra></quebra>
+
+<quebra></quebra>
+
+604.100,00<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$1.100.600,00<quebra></quebra>
+
+Total do ano de 1956<quebra></quebra>
+
+<quebra></quebra>
+
+1.527.300,00<quebra></quebra>
 
 ANO DE 1957
 
 CAPITAL
 
-<table border="1" cellspacing="0" cellpadding="0" width="397" style="width:297.65pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio N. S. das Mercês<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4702/57<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>28.700,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio SS. Sacramento<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2877/57<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>28.200,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Escola Bahiana de Medicina e Saúde Pública<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>14063/57<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>94.300,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio D. Macedo Costa<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6617/57<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>57.400,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$208.600,00<quebra></quebra></span></p></td></tr></tbody></table>
+Colégio N. S. das Mercês<quebra></quebra>
+
+4702/57<quebra></quebra>
+
+28.700,00<quebra></quebra>
+
+Colégio SS. Sacramento<quebra></quebra>
+
+2877/57<quebra></quebra>
+
+28.200,00<quebra></quebra>
+
+Escola Bahiana de Medicina e Saúde Pública<quebra></quebra>
+
+14063/57<quebra></quebra>
+
+94.300,00<quebra></quebra>
+
+Colégio D. Macedo Costa<quebra></quebra>
+
+6617/57<quebra></quebra>
+
+57.400,00<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$208.600,00<quebra></quebra>
 
 INTERIOR
 
-<table border="1" cellspacing="0" cellpadding="0" width="397" style="width:297.65pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio S. Francisco<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15399/57<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>260.000,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio Luzia Silva<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>13399/57<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>462.000,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio Santa Bernadete<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20875/57<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>76.700,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$798.700,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Total do ano de 1957<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.007.300,00<quebra></quebra></span></p></td></tr></tbody></table>
+Colégio S. Francisco<quebra></quebra>
+
+15399/57<quebra></quebra>
+
+260.000,00<quebra></quebra>
+
+Colégio Luzia Silva<quebra></quebra>
+
+13399/57<quebra></quebra>
+
+462.000,00<quebra></quebra>
+
+Ginásio Santa Bernadete<quebra></quebra>
+
+20875/57<quebra></quebra>
+
+76.700,00<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$798.700,00<quebra></quebra>
+
+Total do ano de 1957<quebra></quebra>
+
+<quebra></quebra>
+
+1.007.300,00<quebra></quebra>
 
 ANO DE 1958
 
 CAPITAL
 
-<table border="1" cellspacing="0" cellpadding="0" width="397" style="width:297.65pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio Antônio Vieira<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9148/59<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23.000,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio Santa Bernadete<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>18704/58<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>28.000,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio Ipiranga<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20718/58<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5.500,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Colégio Dois de Julho<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>18700/58<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>98.350,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Instituto Senhora Santana<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>11108/59<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10.000,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio Escola Nova<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10816/59<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>8.000,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio São Bento<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>7871/59<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.200,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$179.050,00<quebra></quebra></span></p></td></tr></tbody></table>
+Colégio Antônio Vieira<quebra></quebra>
+
+9148/59<quebra></quebra>
+
+23.000,00<quebra></quebra>
+
+Ginásio Santa Bernadete<quebra></quebra>
+
+18704/58<quebra></quebra>
+
+28.000,00<quebra></quebra>
+
+Colégio Ipiranga<quebra></quebra>
+
+20718/58<quebra></quebra>
+
+5.500,00<quebra></quebra>
+
+Colégio Dois de Julho<quebra></quebra>
+
+18700/58<quebra></quebra>
+
+98.350,00<quebra></quebra>
+
+Instituto Senhora Santana<quebra></quebra>
+
+11108/59<quebra></quebra>
+
+10.000,00<quebra></quebra>
+
+Ginásio Escola Nova<quebra></quebra>
+
+10816/59<quebra></quebra>
+
+8.000,00<quebra></quebra>
+
+Ginásio São Bento<quebra></quebra>
+
+7871/59<quebra></quebra>
+
+6.200,00<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$179.050,00<quebra></quebra>
 
 INTERIOR
 
-<table border="1" cellspacing="0" cellpadding="0" width="397" style="width:297.65pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="217" valign="top" style="width:163.0pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio e Escola Normal Afrânio Peixoto<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3351/58<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20.000,00<quebra></quebra></span></p></td></tr><tr><td width="217" valign="top" style="width:163.0pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio D. João Muniz<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2275/59<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>34.000,00<quebra></quebra></span></p></td></tr><tr><td width="217" valign="top" style="width:163.0pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio Divina Providência<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4518/59<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>40.000,00<quebra></quebra></span></p></td></tr><tr><td width="217" valign="top" style="width:163.0pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio Santanópolis<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>8249/59<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>32.000,00<quebra></quebra></span></p></td></tr><tr><td width="217" valign="top" style="width:163.0pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio Santa Bernadete<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>21473/58<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>136.400,00<quebra></quebra></span></p></td></tr><tr><td width="217" valign="top" style="width:163.0pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ginásio de Jequié<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>17825/58<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>48.000,00<quebra></quebra></span></p></td></tr><tr><td width="217" valign="top" style="width:163.0pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$310.400,00<quebra></quebra></span></p></td></tr><tr><td width="217" valign="top" style="width:163.0pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Total do ano de 1958<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$489.450,00<quebra></quebra></span></p></td></tr><tr><td width="217" valign="top" style="width:163.0pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$3.024.050,00<quebra></quebra></span></p></td></tr></tbody></table>
+Ginásio e Escola Normal Afrânio Peixoto<quebra></quebra>
+
+3351/58<quebra></quebra>
+
+20.000,00<quebra></quebra>
+
+Ginásio D. João Muniz<quebra></quebra>
+
+2275/59<quebra></quebra>
+
+34.000,00<quebra></quebra>
+
+Ginásio Divina Providência<quebra></quebra>
+
+4518/59<quebra></quebra>
+
+40.000,00<quebra></quebra>
+
+Ginásio Santanópolis<quebra></quebra>
+
+8249/59<quebra></quebra>
+
+32.000,00<quebra></quebra>
+
+Ginásio Santa Bernadete<quebra></quebra>
+
+21473/58<quebra></quebra>
+
+136.400,00<quebra></quebra>
+
+Ginásio de Jequié<quebra></quebra>
+
+17825/58<quebra></quebra>
+
+48.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$310.400,00<quebra></quebra>
+
+Total do ano de 1958<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$489.450,00<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$3.024.050,00<quebra></quebra>
 
 Lei nº 1.237, de 22 de dezembro de 1959.
 
@@ -296,4 +322,4 @@ ONDE SE LÊ: Ginásio Santa Bernadete - 20875/57.
 
 LEIA-SE: Ginásio Santa Bernadete - 20875/58.
 
-* * *
+ *

@@ -1,5 +1,3 @@
-###DEC-067323-0-000-02-10-1970@@@
-
 DECRETO Nº 67.323, DE 2 DE OUTUBRO DE 1970.
 
 Cria o Fundo de Modernização e Reorganização Industrial (FMRI) e dá outras providências.

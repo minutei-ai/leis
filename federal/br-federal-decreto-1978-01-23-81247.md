@@ -1,5 +1,3 @@
-###DEC-081247-0-000-23-01-1978@@@
-
 Decreto nº 81.247, de 23 de janeiro de 1978.
 
 Altera o Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta para o Exército a Lei nº 5.821, de 10 de novembro de 1972.

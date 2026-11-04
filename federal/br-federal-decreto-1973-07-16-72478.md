@@ -1,5 +1,3 @@
-###DEC-072478-0-000-16-07-1973@@@
-
 DECRETO Nº 72.478, DE 16 JULHO DE 1973.
 
 Retifica decreto de redistribuição de cargo, com a respectiva ocupante, para o Quadro de Pessoal do Ministério das Relações Exteriores.

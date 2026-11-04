@@ -1,5 +1,3 @@
-###DEC-058118-0-000-30-03-1966@@@
-
 DECRETO Nº 58.118, DE 30 DE março DE 1966.
 
 Concede à Industria de Cal “S.N.” Ltda. autorização para funcionar como emprêsa de mineração.

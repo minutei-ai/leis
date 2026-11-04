@@ -1,5 +1,3 @@
-###DEC-051668-0-000-17-01-1963@@@
-
 DECRETO Nº 51.668, DE 17 DE JANEIRO DE 1963.
 
 Dispõe sôbre a hierarquia salarial do pessoal das emprêsas de navegação marítima, fluvial e lacustre e dá outras providências.
@@ -30,7 +28,61 @@ Art. 3º Fica instituída uma tabela para o pessoal previsto no inciso I do art.
 
 I - Soldada-Base
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:11.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:356.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:50.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$</span></p></td></tr><tr><td style="width:11.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a)</span></p></td><td style="width:356.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitão de navio de longo curso, de cabotagem e fluvial, de mais de 200 TB de arqueação ..............................................................................................................</span></p></td><td style="width:50.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>85.000,00</span></p></td></tr><tr><td style="width:11.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b)</span></p></td><td style="width:356.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Imediato de navio de longo curso, de cabotagem e fluvial, 1º maquinista/motorista, 1º Comissário e médico ......................................................</span></p></td><td style="width:50.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>67.000,00</span></p></td></tr><tr><td style="width:11.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c)</span></p></td><td style="width:356.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º Pilôto, 2º maquinista/motorista, 1º Radiotelegrafista mercante, 2º Comissário, prático da Costa e da Bacia Amazônica ................................................................</span></p></td><td style="width:50.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>62.000,00</span></p></td></tr><tr><td style="width:11.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d)</span></p></td><td style="width:356.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º Pilôto, 3º maquinista/motorista, 2º Radiotelegrafista mercante, 3º Comissário, mestre de pequena cabotagem, e conferente mercante .......................................</span></p></td><td style="width:50.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>57.000,00</span></p></td></tr><tr><td style="width:11.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e)</span></p></td><td style="width:356.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Escrevente Mercante, Eletricista Mercante, Condutor Maquinista/motorista mercante, Enfermeiro mercante, Contramestre, Carpinteiro Mercante, Arrais Mercante, Mecânico Mercante e Praticante de Prático .........................................</span></p></td><td style="width:50.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>52.000,00</span></p></td></tr><tr><td style="width:11.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>f) </span></p></td><td style="width:356.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cabo Foguista Mercante e Cozinheiro Mercante de 1ª Classe .............................</span></p></td><td style="width:50.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>47.000,00</span></p></td></tr><tr><td style="width:11.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>g)</span></p></td><td style="width:356.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Marinheiro Mercante, Foguista Mercante, Cozinheiro Mercante de 2ª Classe e Padeiro Mercante ..................................................................................................</span></p></td><td style="width:50.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>42.000,00</span></p></td></tr><tr><td style="width:11.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>h)</span></p></td><td style="width:356.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Moço Mercante, Carvoeiro Mercante, Cozinheiro Mercante de 3ª Classe, Taifeiro Mercante, Camareiro Mercante e Barbeiro Mercante ..............................</span></p></td><td style="width:50.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>37.000,00</span></p></td></tr><tr><td style="width:11.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>i)</span></p></td><td style="width:356.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ajudante de Cozinha Mercante e Músico Mercante ..............................................</span></p></td><td style="width:50.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>32.000,00</span></p></td></tr></tbody></table>
+Cr$
+
+a)
+
+Capitão de navio de longo curso, de cabotagem e fluvial, de mais de 200 TB de arqueação ..............................................................................................................
+
+85.000,00
+
+b)
+
+Imediato de navio de longo curso, de cabotagem e fluvial, 1º maquinista/motorista, 1º Comissário e médico ......................................................
+
+67.000,00
+
+c)
+
+2º Pilôto, 2º maquinista/motorista, 1º Radiotelegrafista mercante, 2º Comissário, prático da Costa e da Bacia Amazônica ................................................................
+
+62.000,00
+
+d)
+
+2º Pilôto, 3º maquinista/motorista, 2º Radiotelegrafista mercante, 3º Comissário, mestre de pequena cabotagem, e conferente mercante .......................................
+
+57.000,00
+
+e)
+
+Escrevente Mercante, Eletricista Mercante, Condutor Maquinista/motorista mercante, Enfermeiro mercante, Contramestre, Carpinteiro Mercante, Arrais Mercante, Mecânico Mercante e Praticante de Prático .........................................
+
+52.000,00
+
+f)
+
+Cabo Foguista Mercante e Cozinheiro Mercante de 1ª Classe .............................
+
+47.000,00
+
+g)
+
+Marinheiro Mercante, Foguista Mercante, Cozinheiro Mercante de 2ª Classe e Padeiro Mercante ..................................................................................................
+
+42.000,00
+
+h)
+
+Moço Mercante, Carvoeiro Mercante, Cozinheiro Mercante de 3ª Classe, Taifeiro Mercante, Camareiro Mercante e Barbeiro Mercante ..............................
+
+37.000,00
+
+i)
+
+Ajudante de Cozinha Mercante e Músico Mercante ..............................................
+
+32.000,00
 
 II - Gratificações nos serviços de longo curso, grande e pequena cabotagem, fluvial e lacustre:
 

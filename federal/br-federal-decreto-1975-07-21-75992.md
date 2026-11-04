@@ -1,5 +1,3 @@
-###DEC-075992-0-000-21-07-1975@@@
-
 DECRETO Nº 75.992 - DE 21 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras, mantida pela Fundação Sanjoanense de Ensino, com sede na cidade de São João da Boa Vista, Estado de São Paulo.

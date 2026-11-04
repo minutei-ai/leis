@@ -1,5 +1,3 @@
-###DEC-006259-0-000-20-11-2007@@@
-
 DECRETO Nº 6.259, DE 20 DE NOVEMBRO DE 2007.
 
 Institui o Sistema Brasileiro de Tecnologia - SIBRATEC, e dá outras providências.
@@ -117,5 +115,3 @@ LUIZ INÁCIO LULA DA SILVA
 Miguel Jorge
 
 Sérgio Machado Rezende
-
-Este texto não substitui o publicado no DOU de 21.11.2007

@@ -1,5 +1,3 @@
-###DEC-007832-0-000-29-10-2012-PUB-01@@@
-
 DECRETO Nº 7.832, DE 29 DE OUTUBRO DE 2012
 
 Regulamenta o Regime Especial de Incentivos para o Desenvolvimento de Usinas Nucleares - RENUCLEAR, de que tratam os arts. 14 a 17 da Lei nº 12.431, de 24 de junho de 2011.

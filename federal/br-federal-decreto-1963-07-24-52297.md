@@ -1,5 +1,3 @@
-###DEC-052297-0-000-24-07-1963@@@
-
 decreto nº 52.297, de 24 de julho de 1963.
 
 Declara de utilidade pública o Círculo de Engenharia Militar, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

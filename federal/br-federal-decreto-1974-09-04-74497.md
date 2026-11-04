@@ -1,5 +1,3 @@
-###DEC-074497-0-000-04-09-1974@@@
-
 DECRETO Nº 74.497, DE 4 DE SETEMBRO DE 1974.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis da Faculdade de Ciências Econômicas de Divinópolis, mantida pela Sociedade Dom Bosco de Educação e Cultura, com sede na Cidade de Divinópolis, Estado de Minas Gerais.

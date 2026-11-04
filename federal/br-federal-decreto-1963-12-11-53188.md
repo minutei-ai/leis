@@ -1,5 +1,3 @@
-###DEC-053188-0-000-11-12-1963@@@
-
 Decreto nº 53.188, de 11 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Antônio Nacle Habib a pesquisas quartzo, pedras coradas e mica no município de Governador Valadares, Estado de Minas Gerais.

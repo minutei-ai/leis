@@ -66,19 +66,83 @@ I - os projetos das vias de circulação do condomínio de lotes deverão obedec
 
 1\. Ruas
 
-<table><thead></thead><tbody><tr><td style="text-align: center;"><strong>Largura total (metros)</strong></td><td style="text-align: center;"><strong>Passeio esq. (metros)</strong></td><td style="text-align: center;"><strong>Pista (metros)</strong></td><td style="text-align: center;"><strong>Passeio dir. (metros)</strong></td></tr><tr><td style="text-align:center"><strong>16,00</strong> (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) <s><strong>20,00</strong></s></td><td style="text-align:center"><strong>3,00</strong> (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) <s><strong>4,50</strong></s></td><td style="text-align:center"><strong>10,00</strong> (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) <s><strong>11,00</strong></s></td><td style="text-align:center"><strong>3,00</strong> (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) <s><strong>4,50</strong></s></td></tr></tbody></table>
+**Largura total (metros)**
+
+**Passeio esq. (metros)**
+
+**Pista (metros)**
+
+**Passeio dir. (metros)**
+
+**16,00** (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) ~~**20,00**~~
+
+**3,00** (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) ~~**4,50**~~
+
+**10,00** (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) ~~**11,00**~~
+
+**3,00** (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) ~~**4,50**~~
 
 2\. Alamedas
 
-<table><thead></thead><tbody><tr><td style="text-align: center;"><strong>Largura total (metros)</strong></td><td style="text-align: center;"><strong>Passeio esq. (metros)</strong></td><td style="text-align: center;"><strong>Pistas (metros)</strong></td><td style="text-align: center;"><strong>Passeio dir. (metros)</strong></td></tr><tr><td style="text-align:center"><strong>17,50</strong> (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) <s><strong>17,50</strong></s></td><td style="text-align:center"><strong>6,00</strong> (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) <s><strong>6,00</strong></s></td><td style="text-align:center"><strong>8,50</strong> (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) <s><strong>8,50</strong></s></td><td style="text-align:center"><strong>3,00</strong> (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) <s><strong>3,00</strong></s></td></tr></tbody></table>
+**Largura total (metros)**
+
+**Passeio esq. (metros)**
+
+**Pistas (metros)**
+
+**Passeio dir. (metros)**
+
+**17,50** (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) ~~**17,50**~~
+
+**6,00** (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) ~~**6,00**~~
+
+**8,50** (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) ~~**8,50**~~
+
+**3,00** (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023) ~~**3,00**~~
 
 3\. Avenidas
 
-<table><thead></thead><tbody><tr><td style="text-align:center">Largura total (metros)</td><td style="text-align:center">Passeio esq. (metros)</td><td style="text-align:center">Pistas (metros)</td><td style="text-align:center">Canteiro central (metros)</td></tr><tr><td style="text-align:center"><strong>28,50</strong></td><td style="text-align:center"><strong>6,50</strong></td><td style="text-align:center"><strong>8,50</strong></td><td style="text-align:center"><strong>2,00</strong></td></tr></tbody></table>
+Largura total (metros)
+
+Passeio esq. (metros)
+
+Pistas (metros)
+
+Canteiro central (metros)
+
+**28,50**
+
+**6,50**
+
+**8,50**
+
+**2,00**
 
 (Redação dada pela Lei Complementar nº 294, de 30 de março de 2023)
 
-<table height="95" width="597"><tbody><tr><td style="text-align: center;"><s>Largura total (metros)</s></td><td style="text-align: center;"><s>Passeio esq. (metros)</s></td><td style="text-align: center;"><s>Pistas (metros)</s></td><td style="text-align: center;"><s>Canteiro central (metros)</s></td><td style="width: 73.3333px; text-align: center;"><s>Pistas (metros)</s></td><td style="width: 1px; text-align: center;"><s>Passeio dir. (metros)</s></td></tr><tr><td style="text-align: center;"><s><strong>30,00</strong></s></td><td style="text-align: center;"><s><strong>4,50</strong></s></td><td style="text-align: center;"><s><strong>8,50</strong></s></td><td style="text-align: center;"><s><strong>4,00</strong></s></td><td style="width: 73.3333px; text-align: center;"><s><strong>8,50</strong></s></td><td style="width: 1px; text-align: center;"><s><strong>4,50</strong></s></td></tr></tbody></table>
+~~Largura total (metros)~~
+
+~~Passeio esq. (metros)~~
+
+~~Pistas (metros)~~
+
+~~Canteiro central (metros)~~
+
+~~Pistas (metros)~~
+
+~~Passeio dir. (metros)~~
+
+~~**30,00**~~
+
+~~**4,50**~~
+
+~~**8,50**~~
+
+~~**4,00**~~
+
+~~**8,50**~~
+
+~~**4,50**~~
 
 II - o proprietário cederá ao Município, sem ônus para este, percentual da área onde se implantará o empreendimento de no mínimo, 15% (quinze por cento), destinados à implantação de equipamentos urbanos e comunitários e áreas verdes, cujas localizações serão aprovadas pelo setor competente do Município, e, ainda, a área da via de acesso ao empreendimento, que será também implantada por ele e se integrará ao sistema viário público, sendo:
 
@@ -238,7 +302,59 @@ OCUPAÇÃO
 
 “...............
 
-<table style="border-collapse:collapse" width="671"><tbody><tr><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:97px; height:16px"><br>&nbsp; <strong>ZV</strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:64px">180m<sup>2</sup><sup> (13)</sup> 360m²</td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:57px">7,50 <sup>(13)</sup> m 10 m</td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:103px">50%<sup>(7)</sup> <sup>70%(11)</sup></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:45px">1<sup>(4)</sup> &nbsp;</td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:51px"><strong>------</strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:54px"><strong>20%<sup>(2)</sup></strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:54px"><strong>3m</strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:108px"><strong><sup>1,50 </sup>m<sup>(5)</sup></strong></td></tr><tr><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:97px; height:17px"><strong>Subzona Especial-I</strong> <strong>ZER-1</strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:64px">720m²</td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:57px">18 m</td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:103px">40%</td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:45px">1<sup>(4)</sup></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:51px"><strong>------</strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:54px"><strong><sup>50%(2)</sup></strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:54px"><strong>5m</strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:108px"><strong><sup>2,00 m</sup></strong></td></tr><tr><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:97px; height:16px"><strong>Subzona Especial Ind. Com. Serv.</strong> <strong>ZES- I</strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:64px">525m²</td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:57px">15 m</td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:103px">40%</td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:45px"><strong>1<sup>(4)</sup></strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:51px"><br>&nbsp; <strong>------</strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:54px"><strong>50%<sup>(2)</sup></strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:54px"><strong>5 m</strong></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:108px"><strong>1,50 m</strong></td></tr></tbody></table>
+**ZV**
+
+180m<sup>2</sup><sup> (13)</sup> 360m²
+
+7,50 <sup>(13)</sup> m 10 m
+
+50%<sup>(7)</sup> <sup>70%(11)</sup>
+
+1<sup>(4)</sup>
+
+**------**
+
+**20%<sup>(2)</sup>**
+
+**3m**
+
+**<sup>1,50 </sup>m<sup>(5)</sup>**
+
+**Subzona Especial-IZER-1**
+
+720m²
+
+18 m
+
+40%
+
+1<sup>(4)</sup>
+
+**------**
+
+**<sup>50%(2)</sup>**
+
+**5m**
+
+**<sup>2,00 m</sup>**
+
+**Subzona Especial Ind. Com. Serv.ZES- I**
+
+525m²
+
+15 m
+
+40%
+
+**1<sup>(4)</sup>**
+
+**------**
+
+**50%<sup>(2)</sup>**
+
+**5 m**
+
+**1,50 m**
 
 ................”
 
@@ -248,7 +364,20 @@ USO
 
 "........................
 
-<table style="border-collapse:collapse" width="635"><tbody><tr><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:85px; height:171px"><b>ZV</b></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:240px"><b>Habitação unifamiliar e Comércio Varejista (Baixo Impacto), Prestação de Serviços (Baixo Impacto)., apenas em imóveis cuja testada seja para a Avenida Presidente Vargas</b></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:291px"><b>Na ZV (Zona Verde), os imóveis cujas testadas sejam para a Avenida Presidente Vargas, serão permissíveis os seguintes usos:</b> <b>Habitação Geminada, Habitação Seriada e Habitação Coletiva</b></td></tr><tr><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:85px; height:171px"><b>Subzona Especial-I</b> <b>ZER-1</b></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:240px"><b>Habitação unifamiliar</b></td><td bgcolor="#ffffff" style="     background-color:#ffffff;    width:291px"><br>&nbsp; <b>1 - COMÉRCIO E SERVIÇO VICINAL</b><br>&nbsp; <b>1.1 - COMÉRCIO VICINAL</b> <b>Atividade comercial varejista de pequeno porte subclassificando-se em:</b><br>&nbsp; <b>1.1.1 - COMÉRCIO VICINAL</b> <b>- Açougue</b> <b>- Armarinhos</b> <b>- Mercearia, Hortifrutigranjeiros</b> <b>- Papelaria, Revistaria</b> <b>- Padaria</b><br>&nbsp; <b>1.2 - SERVIÇO VICINAL</b> <b>Atividades profissionais e serviços pessoais de pequeno porte não incômodas ao uso residencial, subclassificando-se em:</b> <b>1.2.1 - SERVIÇO VICINAL</b> <b>- Profissionais Autônomos</b> <b>- Atelier de Profissionais Autônomos, Salão de beleza,</b> <b>Manicure e Montagem de</b> <b>Bijuterias.</b></td></tr></tbody></table>
+**ZV**
+
+**Habitação unifamiliar e Comércio Varejista (Baixo Impacto), Prestação de Serviços (Baixo Impacto)., apenas em imóveis cuja testada seja para a Avenida Presidente Vargas**
+
+**Na ZV (Zona Verde), os imóveis cujas testadas sejam para a Avenida Presidente Vargas, serão permissíveis os seguintes usos:Habitação Geminada, Habitação Seriada e Habitação Coletiva**
+
+**Subzona Especial-IZER-1**
+
+**Habitação unifamiliar**
+
+**1 - COMÉRCIO E SERVIÇO VICINAL**
+  **1.1 - COMÉRCIO VICINALAtividade comercial varejista de pequeno porte subclassificando-se em:**
+  **1.1.1 - COMÉRCIO VICINAL- Açougue- Armarinhos- Mercearia, Hortifrutigranjeiros- Papelaria, Revistaria- Padaria**
+  **1.2 - SERVIÇO VICINALAtividades profissionais e serviços pessoais de pequeno porte não incômodas ao uso residencial, subclassificando-se em:1.2.1 - SERVIÇO VICINAL- Profissionais Autônomos- Atelier de Profissionais Autônomos, Salão de beleza,Manicure e Montagem deBijuterias.**
 
 ....................”
 

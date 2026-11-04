@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 **GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA,** em Goiânia, aos 18 dias do mês de Dezembro de 2023.
 
-<br>
-
 **SELENE PERES PERES NUNES**
 
 QUADRO 1
@@ -37,6 +35,7 @@ QUADRO 2
 | 10 302 1043 2.149 | ATENDIMENTO ASSISTENCIAL EM SAÚDE | 3 - OUTRAS DESPESAS CORRENTES | 15000100 | 50 |
 | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
 | R$ 0,00 | R$ 3.987.692,83 | R$ 3.987.692,83 |
-|   | **VALOR TOTAL<br>
+|   | **VALOR TOTAL
+
 A REDUZIR** |
 | R$ 3.987.692,83 |

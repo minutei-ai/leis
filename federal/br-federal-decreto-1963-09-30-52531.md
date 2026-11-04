@@ -1,5 +1,3 @@
-###DEC-052531-0-000-30-09-1963@@@
-
 DECRETO Nº 52.531, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza a Centrais Elétricas de Santa Catarina S.A. - CELESC, a construir linha de transmissão.

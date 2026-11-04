@@ -1,5 +1,3 @@
-###DEC-076117-0-000-13-08-1975@@@
-
 DECRETO Nº 76.117 - DE 13 DE AGOSTO DE 1975
 
 Altera dispositivo do Decreto nº 75.525, de 24 de março de 1975, que inclui Categorias Funcionais no Grupo - Outras Atividades de Nível Superior a que se refere a Lei nº 5.645, de 10 de dezembro de 1970, e dá outras providências.

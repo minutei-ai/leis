@@ -1,5 +1,3 @@
-###DEC-004420-0-000-11-10-2002@@@
-
 DECRETO Nº 4.420, DE 11 DE OUTUBRO DE 2002
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Previdência e Assistência Social, e dá outras providências.

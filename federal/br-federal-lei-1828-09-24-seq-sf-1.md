@@ -1,5 +1,3 @@
-###LEI-000000-0-001-24-09-1828@@@
-
 LEI - DE 24 DE SETEMBRO DE 1828
 
 Taxa em quinze por cento para todas as nações, os direitos do importação de quaesquer mercadorias e generos estrangeiros.

@@ -1,5 +1,3 @@
-###DEC-005893-0-000-12-09-2006@@@
-
 DECRETO Nº 5.893, DE 12 DE SETEMBRO DE 2006.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República de El Salvador sobre o Exercício de Atividades Remuneradas por Parte de Dependentes do Pessoal Diplomático, Consular, Administrativo e Técnico, celebrado em São Salvador, em 21 de agosto de 2002.
@@ -24,11 +22,7 @@ Brasília, 12 de setembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 13.9.2006.
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DE EL SALVADOR SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS
+        Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DE EL SALVADOR SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS
 
 POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO E TÉCNICO
 

@@ -1,5 +1,3 @@
-###DEC-077599-0-000-12-05-1976@@@
-
 DECRETO Nº 77.599 - DE 12 DE MAIO DE 1976
 
 Autoriza o funcionamento do curso de Odontologia da Faculdade de Odontologia, com sede na cidade de São Bernardo do Campo, Estado de São Paulo.

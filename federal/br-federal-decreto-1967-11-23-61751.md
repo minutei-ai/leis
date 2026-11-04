@@ -1,5 +1,3 @@
-###DEC-061751-0-000-23-11-1967@@@
-
 DECRETO Nº 61.751, DE 23 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública para fins de desapropriação ou constituição de servidão uma faixa de terra destinada à passagem da linha e de transmissão que se estenderá desde Santa Cruz - Estado Da Guanabara até jacuecanga, município de Angra dos Reis, Estado do Rio de Janeiro.

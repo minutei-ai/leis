@@ -1,5 +1,3 @@
-###DEC-059966-0-000-10-01-1967@@@
-
 DECRETO Nº 59.966, DE 10 DE JANEIRO DE 1967.
 
 Modifica a redação do art. 2º, alíneas “a” e “b”, do Decreto nº 52.171, de 28 de junho de 1963.

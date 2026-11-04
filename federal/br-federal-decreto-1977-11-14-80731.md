@@ -1,5 +1,3 @@
-###DEC-080731-0-000-14-11-1977@@@
-
 DECRETO Nº 80.731, DE 14 DE NOVEMBRO DE 1977.
 
 Declara a caducidade do Manifesto de Mina que menciona.

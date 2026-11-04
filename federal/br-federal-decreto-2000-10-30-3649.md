@@ -1,5 +1,3 @@
-###DEC-003649-0-000-30-10-2000@@@
-
 DECRETO nº 3.649, DE 30 DE OUTUBRO DE 2000.
 
 Altera dispositivo do Decreto nº 93.188, de 29 de agosto de 1986, que dispõe sobre a Organização Básica do Comando do Exército, e dá providências.

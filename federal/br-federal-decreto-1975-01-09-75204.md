@@ -1,5 +1,3 @@
-###DEC-075204-0-000-09-01-1975@@@
-
 DECRETO Nº 75.204, DE 9 DE JANEIRO DE 1975.
 
 Cria a Comissão Nacional da Indústria da Construção Civil, junto ao Ministério da Indústria e do Comércio, e dá outras providências.

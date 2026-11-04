@@ -1,5 +1,3 @@
-###DEC-001870-0-000-18-04-1996@@@
-
 DECRETO Nº 1.870, DE 18 DE ABRIL DE 1996
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Alcance Parcial para a Liberação e Expansão do Comércio Intra-Regional de Sementes, entre Brasil, Argentina, Bolívia, Chile, Colômbia, Equador, Paraguai, Peru, Uruguai, Venezuela e Cuba, de 30 do agosto de 1995.

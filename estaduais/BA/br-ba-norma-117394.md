@@ -2,7 +2,8 @@ LEI Nº 4.684 DE 28 DE NOVEMBRO DE 1986
 
 Autoriza a criação, pelo Poder Executivo, do Sistema Estadual de Prevenção, Fiscalização e Repressão de Entorpecentes, tendo como órgão Central, vinculado à Secretaria da Justiça, o Conselho Estadual de Entorpecentes, e dá outras providências.
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.809](https://www.legislabahia.ba.gov.br/documentos/lei-no-12809-de-25-de-abril-de-2013#LO%2012.809) , de 25 de abril de 2013 - Introduz modificações ao Sistema Estadual de Prevenção, Fiscalização e Repressão de Entorpecentes e ao Conselho Estadual de Entorpecentes, instituídos nos termos da Lei nº 4.684, de 28 de novembro de 1986.
 
 &nbs
@@ -91,4 +92,4 @@ Governador
 
 Gabino Kauark Kruschewsky
 
-* * *
+ *

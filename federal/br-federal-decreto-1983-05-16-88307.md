@@ -1,5 +1,3 @@
-###DEC-088307-0-000-16-05-1983@@@
-
 Decreto nº 88.307, de 16 de maio de 1983
 
 Dispõe sobre o provimento de cargos pertencentes ao Grupo-Polícia Federal e dá outras providências.

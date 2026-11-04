@@ -1,5 +1,3 @@
-###MPV-000120-0-000-11-06-2003@@@
-
 MEDIDA PROVISÓRIA Nº 120, DE 11 DE JUNHO 2003.
 
 Altera o art. 16 da Medida Provisória no 2.181-45, de 24 de agosto de 2001, que dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências       
@@ -16,5 +14,6 @@ Altera o art. 16 da Medida Provisória no 2.181-45, de 24 de agosto de 2001, que
 
         Brasília, 11 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Antonio Palocci Filho

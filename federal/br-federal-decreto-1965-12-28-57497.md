@@ -1,5 +1,3 @@
-###DEC-057497-0-000-28-12-1965@@@
-
 Decreto nº 57.497, de 28 de dezembro de 1965.
 
 Concede à Bela Vista Mineração e Comércio Ltda. autorização para funcionar como emprêsa de mineração.

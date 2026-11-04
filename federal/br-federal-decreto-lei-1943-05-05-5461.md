@@ -1,5 +1,3 @@
-###DEL-005461-0-000-05-05-1943@@@
-
 DECRETO‑LEI N. 5.461 – DE 5 DE MAIO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 8. 000. 000,00 para pagamento da segunda prestação de ações da Companhia Vale do Rio, Doce S. A.

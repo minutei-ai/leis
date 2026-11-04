@@ -1,5 +1,3 @@
-###DEC-070588-0-000-23-05-1972@@@
-
 DECRETO Nº 70.588, DE 23 DE MAIO DE 1972.
 
 Concede a Mineração Santa Mônica Ltda. o direito de lavrar minério de ferro no município de São Gonçalo do Rio Abaixo, Estado de Minas Gerais.

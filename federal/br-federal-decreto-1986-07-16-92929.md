@@ -1,5 +1,3 @@
-###DEC-092929-0-000-16-07-1986@@@
-
 DECRETO Nº 92.929, DE 16 DE JULHO DE 1986
 
 Autoriza o funcionamento do curso de Nutrição do Centro de Estudos Superiores de Londrina.

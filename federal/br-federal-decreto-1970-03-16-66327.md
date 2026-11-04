@@ -1,5 +1,3 @@
-###DEC-066327-0-000-16-03-1970@@@
-
 DECRETO Nº 66.327 - DE 16 DE MARÇO DE 1970
 
 Concede à firma individual Alcides Alves da Cunha o direito de lavrar minério de ferro, no município de Mateus Leme, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-071587-0-000-21-12-1972@@@
-
 DECRETO Nº 71.587 - DE 21 DE DEZEMBRO DE 1972
 
 Muda a sede de Organização Militar e dá outras providências.

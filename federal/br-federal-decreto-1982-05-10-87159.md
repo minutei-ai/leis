@@ -1,5 +1,3 @@
-###DEC-087159-0-000-10-05-1982@@@
-
 Decreto nº 87.159, de 10 de maio de 1982
 
 Estabelece normas para o escoamento e a comercialização do álcool, para fins combustíveis.

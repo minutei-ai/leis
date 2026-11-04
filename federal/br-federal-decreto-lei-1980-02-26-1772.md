@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a629e547-f0ac-4beb-b2d1-0d579f774754/texto#nowhere)
 
-###DEL-001772-0-000-26-02-1980@@@
-
 # Decreto-Lei nº 1.772, de 26 de fevereiro DE 1980.
 
 Dispõe sobre isenção ou redução fiscal na importação.

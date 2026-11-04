@@ -1,5 +1,3 @@
-###DEC-085716-0-000-16-02-1981@@@
-
 Decreto nº 85.716, de 16 DE fevereiro de 1981.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazendas Reunidas Orojó", situado no Município de Camamu, no Estado da Bahia, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 85.715, de 16 de fevereiro de 1981.

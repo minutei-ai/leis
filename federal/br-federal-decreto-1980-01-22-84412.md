@@ -1,5 +1,3 @@
-###DEC-084412-0-000-22-01-1980@@@
-
 DECRETO Nº 84.412, DE 22 DE JANEIRO DE 1980
 
 Fixa o Valor da Bolsa Especial do Aluno Monitor, instituída pelo Decreto nº 66.315, de 13 de março de 1970.

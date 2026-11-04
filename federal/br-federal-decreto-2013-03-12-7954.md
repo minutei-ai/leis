@@ -1,5 +1,3 @@
-###DEC-007954-0-000-12-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.954, DE 12 DE MARÇO DE 2013
 
 Altera o Estatuto da Financiadora de Estudos e Projetos - FINEP, aprovado pelo Decreto n° 1.808, de 7 de fevereiro de 1996.

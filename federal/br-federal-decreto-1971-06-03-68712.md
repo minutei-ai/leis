@@ -1,5 +1,3 @@
-###DEC-068712-0-000-03-06-1971@@@
-
 DECRETO Nº 68.712 - de 3 de junho de 1971
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras "Santana" com os Cursos de Pedagogia, Letras (Português e Inglês), Estudos Sociais, Ciências Sociais e Matemática, SP.

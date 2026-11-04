@@ -1,5 +1,3 @@
-###DEL-004115-0-000-19-02-1942@@@
-
 DECRETO-LEI N. 4.115 – DE 19 DE FEVEREIRO DE 1942
 
 Abre ao Ministério do Trabalho, Indústria e Comércio, o crédito especial de 152:600$0, para atender às despesas decorrentes do decreto-lei n, 3.941, de 16 de dezembro de 1941

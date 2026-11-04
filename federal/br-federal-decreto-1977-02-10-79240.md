@@ -1,5 +1,3 @@
-###DEC-079240-0-000-10-02-1977@@@
-
 DECRETO Nº 79.240, DE 10 DE FEVEREIRO De 1977.
 
 Concede reconhecimento ao curso de Conhecimento ao curso de Comunicação Social, da Faculdade de Comunicação Social, com sede na cidade de Ribeirão Preto, Estado de São Paulo.

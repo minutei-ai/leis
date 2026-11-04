@@ -1,5 +1,3 @@
-###DEC-090796-0-000-10-01-1985@@@
-
 DECRETO Nº 90.796, DE 10 JANEIRO DE 1985.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e Angra dos Reis, Estado do Rio de Janeiro; Fortaleza, Estado do Ceará; Salvador, Estado da Bahia e Santos, Estado de São Paulo.

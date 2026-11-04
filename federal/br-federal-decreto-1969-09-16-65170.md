@@ -1,5 +1,3 @@
-###DEC-065170-0-000-16-09-1969@@@
-
 DECRETO Nº 65.170 - DE 16 DE SETEMBRO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terreno situadas em Itajubá, Estado de Minas Gerais.

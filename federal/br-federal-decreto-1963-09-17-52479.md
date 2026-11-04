@@ -1,5 +1,3 @@
-###DEC-052479-0-000-17-09-1963@@@
-
 Decreto nº 52.479, de 17 de setembro de 1963.
 
 Dispõe sôbre feriado bancário.

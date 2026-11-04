@@ -1,5 +1,3 @@
-###DEC-076818-0-000-16-12-1975@@@
-
 DECRETO Nº 76.818, de 16 de dezembro de 1975
 
 Autoriza o registro, em nome da União Federal do imóvel que menciona, situado no Estado do Rio de Janeiro.
@@ -29,8 +27,6 @@ Sylvio Frota
 Mário Henrique Simonsen
 
 ## RETIFICAÇÃO
-
-###DEC-076818-0-000-16-12-1975@@@
 
 DECRETO Nº 76.818, de 16 de dezembro de 1975
 

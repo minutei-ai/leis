@@ -12,5 +12,6 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 28 de novembro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito

@@ -1,5 +1,3 @@
-###DEC-002138-0-000-29-01-1997@@@
-
 DECRETO Nº 2.138, DE 29 DE JANEIRO DE 1997
 
 Dispõe sobre a compensação de créditos tributários com créditos do sujeito passivo decorrentes de restituição ou ressarcimento de tributos ou contribuições, a ser efetuada pela Secretaria da Receita Federal.

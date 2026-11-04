@@ -1,5 +1,3 @@
-###DEC-067199-0-000-15-09-1970@@@
-
 DECRETO Nº 67.199, DE 15 DE SETEMBRO DE 1970.
 
 Concede reconhecimento ao Curso de Biblioteconomia e Documentação da Universidade Federal Fluminense.

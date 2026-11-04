@@ -1,5 +1,3 @@
-###DEC-082863-0-000-18-12-1978@@@
-
 Decreto nº 82.863, de 18 de dezembro de 1978
 
 Concede à Multiminas Empresa de Mineração Ltda. o direito de lavrar minério de manganês no Município de Alto Paraíso de Goiás, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-060132-0-000-25-01-1967@@@
-
 Decreto nº 60.132, de 25 de janeiro de 1967.
 
 Ministério da Fazenda Abre o crédito suplementar especial de Cr$2.117.209.671 (dois bilhões, cento e dezessete milhões, duzentos e nove mil seiscentos e setenta e um cruzeiros), autorizado pela Lei nº 5.175, de 1 de dezembro de 1966, para o fim que menciona.

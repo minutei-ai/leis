@@ -1,5 +1,3 @@
-###DEC-068440-0-000-29-03-1971@@@
-
 DECRETO Nº 68.440, DE 29 DE MARÇO DE 1971.
 
 Dispõe sôbre a estrutura básica da Superintendência do Desenvolvimento da Pesca (SUDEPE) e dá outras providências.

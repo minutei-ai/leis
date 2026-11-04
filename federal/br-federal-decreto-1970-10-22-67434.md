@@ -1,5 +1,3 @@
-###DEC-067434-0-000-22-10-1970@@@
-
 decreto nº 67.434, de 22 de outubro de 1970.
 
 Reconhecimento da Faculdade de Educação da Bahia.

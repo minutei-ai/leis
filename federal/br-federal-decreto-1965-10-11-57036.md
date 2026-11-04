@@ -1,5 +1,3 @@
-###DEC-057036-0-000-11-10-1965@@@
-
 DECRETO Nº 57.036, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza Delcio Peixoto Pires a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-073233-0-000-30-11-1973@@@
-
 DECRETO Nº 73.233 - DE 30 de novembro DE 1973
 
 Autoriza a demarcação administrativa, em caráter definitivo, da Reserva Indígena São Marcos, acresce-lhe novas áreas e dá outras providências.

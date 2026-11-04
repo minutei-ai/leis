@@ -1,5 +1,3 @@
-###DEC-084461-0-000-05-02-1980@@@
-
 Decreto nº 84.461, de 05 de fevereiro de 1980
 
 Autoriza o funciomento do curso de Formação de Tecnólogos em Processamento de Dados, da Faculdade e Administração, com sede na cidade de Santa Rita do Sapucaí, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-080973-0-000-09-12-1977@@@
-
 Decreto nº 80.973, de 09 de dezembro de 1977.
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Televisão Paulista S.A., autoriza a alterar sua denominação para TV Globo de São Paulo S.A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de São Paulo, Estado de São Paulo.

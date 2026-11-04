@@ -1,5 +1,3 @@
-###DEC-048440-0-000-28-06-1960@@@
-
 decreto nº 48.440, de 28 de junho de 1960.
 
 Introduz modificações no Regulamento de Uniformes do Pessoal do Exército, aprovado pelos Decretos nº 30.163, de 13 de novembro de 1951 e número 34.999, de 2 de fevereiro de 1954.

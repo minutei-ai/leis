@@ -1,5 +1,3 @@
-###DEL-007664-0-000-21-06-1945@@@
-
 DECRETO-LEI N. 7.664 – DE 21 DE JUNHO DE 1945
 
 Dispõe sôbre a matéria de que trata o Decreto-lei n. 5.125, de 22 de Dezembro de 1942

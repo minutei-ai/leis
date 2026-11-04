@@ -1,5 +1,3 @@
-###DEC-058062-0-000-23-03-1966@@@
-
 DECRETO Nº 58.062, DE 23 DE MARÇO DE 1966.
 
 Outorga concessão.

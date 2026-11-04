@@ -1,5 +1,3 @@
-###DEC-005766-0-000-02-05-2006@@@
-
 DECRETO Nº 5.766, DE 2 DE MAIO DE 2006.
 
 Reabre os prazos previstos nos arts. 10 e 27, e seu parágrafo único, do Decreto nº 5.543, de 20 de setembro de 2005.

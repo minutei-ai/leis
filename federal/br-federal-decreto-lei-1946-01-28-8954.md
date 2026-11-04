@@ -1,5 +1,3 @@
-###DEL-008954-0-000-28-01-1946@@@
-
 DECRETO-LEI N. 8.954 – DE 28 DE JANEIRO DE 1946
 
 Dispõe sôbre a proclamação dos deputados e senadores eleitos a 2 de dezembro de 1945.

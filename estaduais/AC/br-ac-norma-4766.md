@@ -1,6 +1,10 @@
 > **LEI Nº 3.777, DE 23 DE AGOSTO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação de Observatório de Proteção Integral à Infância e Adolescência.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação de Observatório de Proteção Integral à Infância e Adolescência.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

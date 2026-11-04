@@ -1,5 +1,3 @@
-###DEC-067249-0-000-23-09-1970@@@
-
 decreto nº 67.249, de 23 de setembro de 1970.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, a área de terreno necessária à construção do atêrro - barragem "Pinhões", nos municípios de Juazeiro e Curaçá, no Estado da Bahia.

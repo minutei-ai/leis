@@ -1,5 +1,3 @@
-###DEC-070780-0-000-04-07-1972@@@
-
 Decreto nº 70.780, de 4 de julho de 1972.
 
 Revoga o Decreto nº 8.754, de 31 de maio de 1911, que concedeu à empresa Gem Exploration Company autorização para funcionar na República Federativa do Brasil.

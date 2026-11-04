@@ -1,5 +1,3 @@
-###DEC-073610-0-000-11-02-1974@@@
-
 DECRETO Nº 73.610, DE 11 DE FEVEREIRO DE 1974.
 
 Concede autonomia financeira ao Departamento de Imprensa Nacional do Ministério da Justiça.

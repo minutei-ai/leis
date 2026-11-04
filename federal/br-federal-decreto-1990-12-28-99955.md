@@ -1,7 +1,3 @@
-1
-
-###DEC-099955-0-000-28-12-1990@@@
-
 # DECRETO Nº 99.955, DE 28 DE DEZEMBRO DE 1990
 
 Dispõe sobre a cessão de servidores de órgãos ou entidades da Administração Pública Federal e dá outras providências.

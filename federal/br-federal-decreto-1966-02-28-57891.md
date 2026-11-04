@@ -1,5 +1,3 @@
-###DEC-057891-0-000-28-02-1966@@@
-
 DECRETO Nº 57.891, DE 28 DE FEVEREIRO DE1966.
 
 Concede autorização para o funcionamento da Faculdade de Tecnologia de Barretos, Estado de São Paulo.

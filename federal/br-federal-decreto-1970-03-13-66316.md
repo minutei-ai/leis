@@ -1,5 +1,3 @@
-###DEC-066316-0-000-13-03-1970@@@
-
 DECRETO Nº 66.316, DE 13 DE MARÇO DE 1970.
 
 Declara de utilidade púbica, para efeito de desapropriação, o imóvel sito à Avenida Getúlio Vargas número 554, em Natal, Estado do Rio Grande do Norte.

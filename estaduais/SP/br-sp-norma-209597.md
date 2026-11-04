@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209597)<br>
-
 # DECRETO N° 68.626, DE 19 DE JUNHO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 225+740m e 231+180m da Rodovia SP-304, no Município de Santa Maria da Serra, e dá providências correlatas._

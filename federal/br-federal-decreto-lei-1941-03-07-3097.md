@@ -1,5 +1,3 @@
-###DEL-003097-0-000-07-03-1941@@@
-
 DECRETO-LEI N. 3.097 – DE 7 DE MARÇO DE 1941
 
 Altera os decretos-leis ns. 3.032 e 3.067, de 7 e 20 de fevereiro de 1941

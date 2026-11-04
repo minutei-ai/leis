@@ -1,17 +1,15 @@
-###DEC-020195-0-000-13-12-1945@@@
+**DECRETO Nº 20.195, DE 13 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.195, DE 13 DE DEZEMBRO DE 1945.</strong>
+***Autoriza a firma brasileira Gabriel Neto Amaranto & Filhos a comprar pedras preciosas.***
 
-<em><strong>Autoriza a firma brasileira Gabriel Neto Amaranto & Filhos a comprar pedras preciosas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição, e tendo em vista o Decreto-lei n.º 466, de 4 de junho de 1938,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição, e tendo em vista o Decreto-lei n.º 466, de 4 de junho de 1938,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica autorizada a firma brasileira Gabriel Neto Armaranto & Filhos, estabelecida em Diamantina, no Estado de Minas Gerais, a do Decreto-lei n.º 466, de 4 de junho de 1938, constituindo título desta autorização uma via autêntica do presente decreto.
 
 Rio de Janeiro, 13 de dezembro de 1945, 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 J. Pires do Rio

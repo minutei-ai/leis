@@ -1,5 +1,3 @@
-###DEC-048709-0-000-04-08-1960@@@
-
 DECRETO Nº 48.709, DE 04 DE agôsto DE 1960.
 
 Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área necessária à construção do açude público “Várzea Formosa”, no Município de Itiúba, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-067094-0-000-21-08-1970@@@
-
 DECRETO Nº 67.094, DE 21 DE AGÔSTO DE 1970.
 
 Aprova o Regulamento para a Diretoria de Especialização e Extensão.

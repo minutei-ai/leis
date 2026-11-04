@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62497)
-
 # LEI Nº 12.395, DE 21 DE JULHO DE 2006
 
 ### _Altera a Lei n. 8.876, de 2 de setembro de 1994, que dispõe sobre o Fundo Especial de Despesa do Tribunal de Justiça do Estado de São Paulo_

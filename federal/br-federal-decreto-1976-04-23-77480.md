@@ -1,5 +1,3 @@
-###DEC-077480-0-000-23-04-1976@@@
-
 DECRETO Nº 77.480, DE 23 DE ABRIL DE 1976
 
 Aprova o Regulamento da Secretaria de Economia e Finanças da Aeronáutica

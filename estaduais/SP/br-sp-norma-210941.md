@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210941)<br>
-
 # DECRETO N° 69.536, DE 15 DE MAIO DE 2025
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Diadema, que declarou Situação de Emergência em áreas do Município._

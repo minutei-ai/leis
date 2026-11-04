@@ -1,5 +1,3 @@
-###DEC-072438-0-000-09-07-1973@@@
-
 DECRETO Nº 72.438, DE 9 DE JULHO DE 1973.
 
 Autoriza a reversão, ao patrimônio do Município de Itambé, Estado da Bahia, do terreno que menciona.

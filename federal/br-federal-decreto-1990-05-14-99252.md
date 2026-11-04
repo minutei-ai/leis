@@ -1,7 +1,3 @@
-1
-
-###DEC-099252-0-000-14-05-1990@@@
-
 DECRETO Nº 99.252, DE 14 DE MAIO DE 1990
 
 Dispõe sobre providências a serem adotadas por órgãos e entidades da administração direta e indireta, quanto aos contratos que menciona.

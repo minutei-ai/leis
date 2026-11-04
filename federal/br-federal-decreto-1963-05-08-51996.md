@@ -1,5 +1,3 @@
-###DEC-051996-0-000-08-05-1963@@@
-
 Decreto Nº 51.996, DE 8 DE MAIO DE 1963.
 
 Altera redação de Artigo do Regulamento da Escola de Comando e Estado-Maior da Aeronáutica.

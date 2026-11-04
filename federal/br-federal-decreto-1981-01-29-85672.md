@@ -1,5 +1,3 @@
-###DEC-085672-0-000-29-01-1981@@@
-
 Decreto nº 85 672, de 29 de janeiro de 1981
 
 Autoriza o funcionamento no curso de Artes Práticas, da habilitação em Técnicas Comerciais da Faculdade de Filosofia, Ciências e Letras de Ijuí, Estado do Rio Grande do Sul.

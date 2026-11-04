@@ -1,5 +1,3 @@
-###DEC-001892-0-000-02-05-1996@@@
-
 # DECRETO Nº 1.892, DE 2 DE MAIO DE 1996.
 
 Revoga a concessão tarifária outorgada pelo Brasil, no âmbito do GATT, para uma quota de trigo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208942)<br>
-
 # DECRETO N° 68.193, DE 14 DE DEZEMBRO DE 2023
 
 ### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Sorocaba._

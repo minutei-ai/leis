@@ -1,5 +1,3 @@
-###DEC-092915-0-000-10-07-1986@@@
-
 DECRETO Nº 92.915, DE 10 DE JULHO DE 1986
 
 Renova a concessão outorgada à Rádio Clube do Pará PRC-5 Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Belém, Estado do Pará.

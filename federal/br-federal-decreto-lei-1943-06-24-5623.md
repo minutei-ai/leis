@@ -1,5 +1,3 @@
-###DEL-005623-0-000-24-06-1943@@@
-
 DECRETO‑LEI N. 5.623 – DE 24 DE JUNHO DE 1943
 
 Abre ao ministério da Viação e obras Públicas o crédito Suplementar de Cr$ 250-000,00 à verba que especifica

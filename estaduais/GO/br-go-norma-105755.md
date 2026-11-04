@@ -206,8 +206,6 @@ III – da data da publicação, quanto ao art. 2º.
 
 Goiânia, 29 de junho de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

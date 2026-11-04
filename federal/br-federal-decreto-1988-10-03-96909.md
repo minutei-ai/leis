@@ -1,5 +1,3 @@
-###DEC-096909-0-000-03-10-1988@@@
-
 DECRETO N° 96.909, DE 3 DE OUTUBRO DE 1988
 
 Dispõe sobre a administração doa portos organizados e a estruturação dos Conselhos Especiais de Usuários.

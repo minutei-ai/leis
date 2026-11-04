@@ -1,5 +1,3 @@
-###DEC-045849-0-000-22-04-1959@@@
-
 DECRETO Nº 45.849, DE 22 DE ABRIL DE 1959.
 
 Transfere da “S.A. Ituberá Comércio e Indústria” para o Govêrno do Estado da Bahia a concessão para o aproveitamento da energia hidráulica da Cachoeira da Pancada Grande, no rio Serinhaem, outorgada a Norberto Oldebrecht, pelo Decreto nº 29.971, de 10 de setembro de 1951, e dá outras providências.

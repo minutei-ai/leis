@@ -1,5 +1,3 @@
-###DEC-002835-0-000-04-11-1998@@@
-
 DECRETO Nº 2.835, DE 4 DE NOVEMBRO DE 1998
 
 Dá nova redação a alínea “a” do inciso III do art. 14 do Anexo I ao Decreto nº 2.681, de 21 de julho de 1998, que aprova a Estrutura Regimental do Ministério da Agricultura e do Abastecimento, e dá outras providências.

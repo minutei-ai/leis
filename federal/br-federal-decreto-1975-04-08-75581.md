@@ -1,5 +1,3 @@
-###DEC-075581-0-000-08-04-1975@@@
-
 DECRETO Nº 75.581, DE 8 DE ABRIL DE 1975.
 
 Concede autorização à Companhia Bugsier - , Reederei - Und Bergungs - Aktiengesellschaft, para operar na plataforma continental, a serviço da Petróleo Brasileiro S.A - PETROBRÁS.

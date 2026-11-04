@@ -1,5 +1,3 @@
-###DEC-064055-0-000-03-02-1969@@@
-
 DECRETO Nº 64.055, DE 3 DE FEVEREIRO DE 1969.
 
 Provê sôbre a criação de Grupo de Trabalho para acompanhar a implantação da Reforma Universitária.

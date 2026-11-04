@@ -1,5 +1,3 @@
-###DEC-064996-0-000-15-08-1969@@@
-
 DECRETO Nº 64.996 - de 15 de AgÔsto de 1969.
 
 Declara de utilidade pública a "Ordem Terceira de São Francisco de Assis", com sede em Franca, Estado de São Paulo.

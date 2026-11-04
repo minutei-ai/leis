@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74299)
-
 # LEI Nº 12.726, DE 09 DE OUTUBRO DE 2007
 
 ## (Projeto de lei nº 616/2007, do Deputado João Mellão Neto - DEM)

@@ -1,7 +1,3 @@
-1
-
-###DEC-095796-0-000-08-03-1988@@@
-
 DECRETO N° 95.796, DE 8 DE MARÇO DE 1988
 
 Outorga concessão à SOCIEDADE DE RADIODIFUSÃO GRANDE RIO LTDA., para explorar serviço de radiodifusão sonora em onda média regional, na cidade de Iranduba, Estado do Amazonas.

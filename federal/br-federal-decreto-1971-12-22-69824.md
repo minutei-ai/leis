@@ -1,5 +1,3 @@
-###DEC-069824-0-000-22-12-1971@@@
-
 decreto nº 69.824 - de 22 DE DEZEMBRO de 1971
 
 Declara de utilidade pública o Centro de Recuperação Santa Maria Madalena, com sede em Pedreiras, Estado do Maranhão.

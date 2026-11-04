@@ -1,5 +1,3 @@
-###DEC-094661-0-000-22-07-1987@@@
-
 DECRETO Nº 94.661, DE 22 DE JULHO DE 1987.
 
 Dá nova redação ao Regulamento do Fundo de Estudos do Mar (FUNDEM) e revoga disposições em contrário.

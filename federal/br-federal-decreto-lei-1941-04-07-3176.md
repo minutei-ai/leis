@@ -1,5 +1,3 @@
-###DEL-003176-0-000-07-04-1941@@@
-
 DECRETO-LEI N. 3.176 – DE 7 DE ABRIL DE 1941
 
 Excetua das exigências do decreto-lei n. 3.082, de 28 de fevereiro de 1941, os naturais de Estados americanos.

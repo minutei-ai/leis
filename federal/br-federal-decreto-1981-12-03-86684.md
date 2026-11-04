@@ -1,5 +1,3 @@
-###DEC-086684-0-000-03-12-1981@@@
-
 Decreto nº 86.684, de 03 de dezembro De 1981
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e de Niterói, Estado do Rio de Janeiro e de Recife, Estado de Pernambuco.

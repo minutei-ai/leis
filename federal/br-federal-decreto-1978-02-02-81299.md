@@ -1,5 +1,3 @@
-###DEC-081299-0-000-02-02-1978@@@
-
 Decreto nº 81.299, de 2 de fevereiro de 1978
 
 Concede reconhecimento aos cursos de Estudos Sociais e de Pedagogia da Faculdade de Educação e Ciências Pinheirense, com sede na capital de São Paulo.

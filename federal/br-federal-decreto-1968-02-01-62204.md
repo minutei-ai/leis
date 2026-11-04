@@ -1,5 +1,3 @@
-###DEC-062204-0-000-01-02-1968@@@
-
 DECRETO Nº 62.204, DE 1º DE FEVEREIRO DE 1968.
 
 Regulamenta o disposto nas leis nºs 4.669 de 1965, que dispõe sôbre promoção comercial, e 5.025, de 1966, que dispõe sôbre a criação do Conselho Nacional do Comércio Exterior (CONCEX) e dá outras providências.

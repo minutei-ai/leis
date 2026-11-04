@@ -1,5 +1,3 @@
-###DEC-049228-0-000-16-11-1960@@@
-
 DECRETO Nº 49.228, DE 16 DE NOVEMBRO DE 1960.
 
 Autoriza Morro do Niquel S. A. - Mineração Indústria e Comércio a lavrar minério de níquel no município de Pratápolis, Estado de Minas Gerais.

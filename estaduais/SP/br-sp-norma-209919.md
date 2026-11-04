@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209919)<br>
-
 # DECRETO N° 68.828, DE 04 DE SETEMBRO DE 2024
 
 ### _Institui o Programa Muralha Paulista e dá providências correlatas_

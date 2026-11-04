@@ -1,7 +1,3 @@
-1
-
-###DEC-001999-0-000-04-09-1996@@@
-
 DECRETO 1.999, DE 4 DE SETEMBRO DE 1996
 
 Aprova a alteração do art. 8° do Estatuto Social da Companhia de Pesquisa de Recursos Minerais - CPRM.

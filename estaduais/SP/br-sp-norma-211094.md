@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211094)<br>
-
 # DECRETO N° 69.648, DE 24 DE JUNHO DE 2025
 
 ### _Autoriza a outorga de uso, ao Município de Angatuba, do imóvel que especifica, e dá providências correlatas._

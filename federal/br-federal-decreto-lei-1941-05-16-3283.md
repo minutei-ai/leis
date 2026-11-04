@@ -1,5 +1,3 @@
-###DEL-003283-0-000-16-05-1941@@@
-
 DECRETO-LEI N. 3.283 – DE 16 DE MAIO DE 1941
 
 Cria o estandarte para o Regimento Osório.

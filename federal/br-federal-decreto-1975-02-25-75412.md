@@ -1,5 +1,3 @@
-###DEC-075412-0-000-25-02-1975@@@
-
 DECRETO Nº 75.412 DE 25 DE FEVEREIRO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras "Santana", mantida pelo Instituto Santanense de Ensino Superior, com sede na cidade de São Paulo, Estado de São Paulo.

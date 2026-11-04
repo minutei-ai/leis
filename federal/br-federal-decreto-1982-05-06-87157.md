@@ -1,5 +1,3 @@
-###DEC-087157-0-000-06-05-1982@@@
-
 Decreto nº 87.157, de 06 de maio dE 1982
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Cafezal ",situado no Município de Colider, no Estado de Mato Grosso, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 84.523, de 3 de março de 1980.

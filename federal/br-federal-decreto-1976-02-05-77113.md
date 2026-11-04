@@ -1,5 +1,3 @@
-###DEC-077113-0-000-05-02-1976@@@
-
 DECRETO Nº 77.113, DE 5 DE FEVEREIRO DE 1976.
 
 Constitui Grupo Especial de Trabalho para o fim que especifica.

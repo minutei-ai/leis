@@ -1,5 +1,3 @@
-###DEC-072473-0-000-13-07-1973@@@
-
 DECRETO Nº 72.473, DE 13 DE JULHO DE 1973.
 
 Declara perempta a concessão outorgada à Rádio Bragança Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Bragança Paulista, Estado de São Paulo.

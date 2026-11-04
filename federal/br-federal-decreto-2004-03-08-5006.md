@@ -1,5 +1,3 @@
-###DEC-005006-0-000-08-03-2004@@@
-
 DECRETO Nº 5.006,  DE 8 DE MARÇO DE 2004.
 
 Promulga o Protocolo Facultativo à Convenção sobre os Direitos da Criança relativo ao envolvimento de crianças em conflitos armados.

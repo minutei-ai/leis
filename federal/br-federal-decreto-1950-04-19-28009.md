@@ -1,24 +1,22 @@
-###DEC-028009-0-000-19-04-1950@@@
+**DECRETO Nº 28.009, DE 19 DE ABRIL DE 1950.**
 
-<strong>DECRETO Nº 28.009, DE 19 DE ABRIL DE 1950.</strong>
+***Aprova a Ata referente à reunião preliminar realizada entre autoridades brasileiras e uruguaias. Na cidade de Montevidéu em 25 de setembro de 1944, sôbre o maior aproveitamento das possibilidades econômicas da navegação das águas da bacia da Lagoa Mirim e Lagoa dos Patos, e a regularização do curso do Rio de Jaguarão.***
 
-<em><strong>Aprova a Ata referente à reunião preliminar realizada entre autoridades brasileiras e uruguaias. Na cidade de Montevidéu em 25 de setembro de 1944, sôbre o maior aproveitamento das possibilidades econômicas da navegação das águas da bacia da Lagoa Mirim e Lagoa dos Patos, e a regularização do curso do Rio de Jaguarão.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É aprovada a Ata, apensa ao presente Decreto, referente á reunião preliminar realizada entre autoridades brasileiras e uruguaias, na cidade de Montevidéu, em 25 de setembro de 1944. Sôbre o maior aproveitamento das possibilidades econômica da navegação nas águas da bacia da Lagoa Mirim e Lagoa dos Patos, e a regularização do curso do Rio Aguarão.
 
-<strong>Art</strong>. 1º É aprovada a Ata, apensa ao presente Decreto, referente á reunião preliminar realizada entre autoridades brasileiras e uruguaias, na cidade de Montevidéu, em 25 de setembro de 1944. Sôbre o maior aproveitamento das possibilidades econômica da navegação nas águas da bacia da Lagoa Mirim e Lagoa dos Patos, e a regularização do curso do Rio Aguarão.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 19 de abril de 1950; 129º da Independência e 62º da República.
 
-<strong>EURÍCO G. DUTRA.</strong>
+**EURÍCO G. DUTRA.**
 
 Raul Fernandes
 
-<strong>TEXTO DA ATA A QUE SE REFERE O DECRETO Nº 28.009 DE 19 DE ABRIL DE 1950.</strong>
+**TEXTO DA ATA A QUE SE REFERE O DECRETO Nº 28.009 DE 19 DE ABRIL DE 1950.**
 
 Em Montevidéu, República Oriental do Uruguai, reuniram-se na Direção de Hidrografia do Ministério de Obras Públicas no período compreendido entre os dias 26 e 29 de setembro do ano de 1944, os senhores engenheiros: Silvio Lopes do Couto e Raul Ferreira da Silva Santos como representantes do Ministério da Viação e Obras Públicas da República dos Estados Unidos do Brasil e os senhores engenheiros Don José L. Buzzetti. Don Guilhermo Rondini e tenente reformado Don Homero Martínez Monteiro como representante do Ministério de Obras Públicas da República Oriental del Uruguay, a fim de examinar os diversos problemas relacionados com o maior aproveitamento das possibilidades econômicas e sociais derivados da navegação nas águas da bacia da Lagoa Mirim e da Lagoa dos Patos porquanto esta se relaciona com a primeira em virtude de sua conexão geográfica e do regime especial de utilização de águas que concede ao Uruguai o art. 6º do tratado de limites celebrado no Rio de Janeiro em 30 de outubro de 1909 e os art. 8º e 9º do tratado de comércio e navegação celebrado no Rio de Janeiro, em 25 de agôsto de 1933.
 
@@ -76,7 +74,7 @@ Para tal fim as autoridades uruguaias contribuíram com rebocador e as chatas, e
 
 E, nada mais havendo a tratar se lavraram seis atas do mesmo teor, três em português e três em espanhol, que para devida validade foram assinadas em Montevidéu aos vinte e nove dias do mês de setembro de mil novecentos e quarenta e quatro.
 
-<strong>JOSÉ L. BUZZETTI</strong>
+**JOSÉ L. BUZZETTI**
 
 Guillermo Rondimi
 

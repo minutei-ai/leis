@@ -1,5 +1,3 @@
-###DEC-051894-0-000-09-04-1963@@@
-
 DECRETO Nº 51.894, DE 9 DE ABRIL DE 1963.
 
 Altera dispositivo do Decreto número 50.602 de 16 de maio de 1961.

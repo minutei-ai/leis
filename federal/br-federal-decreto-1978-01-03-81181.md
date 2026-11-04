@@ -1,5 +1,3 @@
-###DEC-081181-0-000-03-01-1978@@@
-
 Decreto nº 81 181, de 3 de janeiro de 1978.
 
 Altera o Decreto nº 77 731, de 1º de junho de 1976.

@@ -1,5 +1,3 @@
-###DEC-070380-0-000-10-04-1972@@@
-
 DECRETO Nº 70.380, DE 10 DE ABRIL DE 1972.
 
 Declara de utilidade pública o Reino da Garotada de Poá, com sede em Poá, Estado de São Paulo.

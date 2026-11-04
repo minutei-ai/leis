@@ -1,5 +1,3 @@
-###DEC-005491-0-000-18-07-2005@@@
-
 DECRETO Nº 5.491, DE 18 DE JULHO DE 2005.
 
        Regulamenta a atuação de organismos estrangeiros e nacionais de adoção internacional.
@@ -119,5 +117,3 @@ DAS DISPOSIÇÕES FINAIS
 LUIZ INÁCIO LULA DA SILVA
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 19.7.2005

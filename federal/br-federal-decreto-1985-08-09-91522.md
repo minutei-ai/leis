@@ -1,5 +1,3 @@
-###DEC-091522-0-000-09-08-1985@@@
-
 Decreto nº 91.522, de 09 de agosto de 1985
 
 Autoriza a transferência direta da concessão à RADIO CULTURA DE CATALÃO LTDA., para a FUNDAÇÃO FREI JOÃO BATISTA VOGEL O.F.M.

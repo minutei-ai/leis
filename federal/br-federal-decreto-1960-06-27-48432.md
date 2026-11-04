@@ -1,5 +1,3 @@
-###DEC-048432-0-000-27-06-1960@@@
-
 DECRETO Nº 48.432, DE 27 DE JUNHO 1960.
 
 Renova o Decreto nº 43.011, de 8 de janeiro de 1953.

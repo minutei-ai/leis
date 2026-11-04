@@ -1,5 +1,3 @@
-###DEC-055246-0-000-21-12-1964@@@
-
 DECRETO Nº 55.246, DE 21 DE DEZEMBRO DE 1964.
 
 Retifica a classificação a que se refere o Decreto nº 54.015, de 13 de julho de 1964 na parte referente à série de classes de Assistente Social.
@@ -45,8 +43,6 @@ Mauro Thibau
 Roberto de Oliveira Campos
 
 Oswaldo Cordeiro de Farias
-
-###DEC-055246-0-000-21-12-1964@@@RET01+++
 
 Decreto nº 55.246, de 21 de dezembro de 1964.
 

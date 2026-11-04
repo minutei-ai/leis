@@ -1,5 +1,3 @@
-###DEC-005935-0-000-19-10-2006@@@
-
 DECRETO Nº 5.935, DE 19 DE OUTUBRO DE 2006.
 
 Promulga a Convenção Conjunta para o Gerenciamento Seguro de Combustível Nuclear Usado e dos Rejeitos Radioativos.
@@ -24,11 +22,7 @@ Brasília, 19 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 20.10.2006
-
-CONVENÇÃO CONJUNTA SOBRE O GERENCIAMENTO
+        Celso Luiz Nunes AmorimCONVENÇÃO CONJUNTA SOBRE O GERENCIAMENTO
 
  SEGURO DO COMBUSTÍVEL NUCLEAR USADO
 

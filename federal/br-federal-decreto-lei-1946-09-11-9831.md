@@ -1,5 +1,3 @@
-###DEL-009831-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.831 – DE 11 DE SETEMBRO DE 1946
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 1.500.000,00, à verba que especifica.

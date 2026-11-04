@@ -1,5 +1,3 @@
-###DEC-084302-0-000-12-12-1979@@@
-
 Decreto nº 84.302 de 12 de dezembro de 1979.
 
 Revoga o Decreto nº 79.795, de 8 de junho de 1977.

@@ -1,5 +1,3 @@
-###DEC-059284-0-000-23-09-1966@@@
-
 DECRETO Nº 59.284, DE 23 DE SETEMBRO DE 1966.
 
 Restringe a zona de privilégio da Companhia Luz e Força Hulha Branca e outorga concessão à Centrais Elétricas de Minas Gerais.
@@ -41,8 +39,6 @@ Brasília, 23 de setembro de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Benedicto Dutra
-
-###DEC-059284-0-000-23-09-1966@@@RET01+++
 
 DECRETO Nº 59.284, DE 23 DE SETEMBRO DE 1966.
 

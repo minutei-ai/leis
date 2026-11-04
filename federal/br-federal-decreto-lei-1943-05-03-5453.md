@@ -1,5 +1,3 @@
-###DEL-005453-0-000-03-05-1943@@@
-
 DECRETO‑LEI N. 5.453 – DE 3 DE MAIO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 340.995,10 para cobertura do “deficit” verificado no exercício de 1942 na exploração dos serviços da "Companhia Italiana dei Cavi Telegrafici Sottomarini”.

@@ -1,5 +1,3 @@
-###DEC-005671-0-000-10-01-2006@@@
-
 DECRETO Nº 5.671, DE 10 DE JANEIRO DE 2006.
 
 Fixa, para a Marinha do Brasil, o número de vagas para promoção obrigatória de Oficiais, nos Corpos e Quadros que menciona, referentes ao ano-base de 2005.

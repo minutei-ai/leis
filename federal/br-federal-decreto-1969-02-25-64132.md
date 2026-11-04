@@ -1,5 +1,3 @@
-###DEC-064132-0-000-25-02-1969@@@
-
 DECRETO Nº 64.132, DE 25 DE FEVEREIRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça, cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

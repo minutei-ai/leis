@@ -1,30 +1,28 @@
-###DEC-062840-0-000-07-06-1968@@@
+**DECRETO Nº 62.840, DE 7 DE JUNHO DE 1968.**
 
-<strong>DECRETO Nº 62.840, DE 7 DE JUNHO DE 1968.</strong>
+***Aprova o Regimento Interno da Comissão Coordenadora da Criação do Cavalo Nacional.***
 
-<em><strong>Aprova o Regimento Interno da Comissão Coordenadora da Criação do Cavalo Nacional.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 83, inciso II, da Constituição e tendo em vista o constante do Decreto nº 61.797, de 29 de novembro de 1967,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 83, inciso II, da Constituição e tendo em vista o constante do Decreto nº 61.797, de 29 de novembro de 1967,
+**RESOLVE:**
 
-<strong>RESOLVE:</strong>
+**Art**. 1º Aprovar o Regimento Interno da Comissão Coordenadora da Criação do Cavalo Nacional, que com êste baixa, assinado pelo Ministro do Exército.
 
-<strong>Art</strong>. 1º Aprovar o Regimento Interno da Comissão Coordenadora da Criação do Cavalo Nacional, que com êste baixa, assinado pelo Ministro do Exército.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Brasília, 7 de junho de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Aurélio de Lyra Tavares
 
-<strong>REGIMENTO INTERNO DA COMISSÃO COORDENADORA DA CRIAÇÃO DO CAVALO NACIONAL</strong>
+**REGIMENTO INTERNO DA COMISSÃO COORDENADORA DA CRIAÇÃO DO CAVALO NACIONAL**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º A Comissão Coordenadora da Criação do Cavalo Nacional (CCCCN), instituída com fundamento no disposto na Lei nº 2.820, de 10 de julho de 1956, no Regulamento aprovado pelo Decreto nº 41.561, de 22 de maio de 1957, na Lei nº 4.096, de 18 de julho de 1962, e no Regulamento aprovado pelo Decreto número 51.816, de 11 de março de 1963, e o Decreto nº 61.797, de 29 de novembro de 1967, diretamente subordinada ao Ministério do Exército, é o órgão central encarregado de:
+**Art**. 1º A Comissão Coordenadora da Criação do Cavalo Nacional (CCCCN), instituída com fundamento no disposto na Lei nº 2.820, de 10 de julho de 1956, no Regulamento aprovado pelo Decreto nº 41.561, de 22 de maio de 1957, na Lei nº 4.096, de 18 de julho de 1962, e no Regulamento aprovado pelo Decreto número 51.816, de 11 de março de 1963, e o Decreto nº 61.797, de 29 de novembro de 1967, diretamente subordinada ao Ministério do Exército, é o órgão central encarregado de:
 
 1\) Praticar todos os atos, de coordenação e fiscalização, necessários ao seguro cumprimento da legislação específica aplicável a entidades que realizam competições hípicas, com ou sem obstáculos, e de trote, mantenham ou não exploração de apostas;
 
@@ -58,11 +56,11 @@ Aurélio de Lyra Tavares
 
 16\) Exercer outras atividades previstas na legislação específica vigente, quando recomendadas pelo Plenário ou solicitadas por serviços oficiais.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º A CCCCN compreende:
+**Art**. 2º A CCCCN compreende:
 
 1\) Plenário integrado pelos seguintes membros permanentes:
 
@@ -104,7 +102,7 @@ a) Seção Administrativa (SA);
 
 b) Tesouraria (TE).
 
-<strong>Art</strong>. 3º As funções de Administração Superior serão exercidas:
+**Art**. 3º As funções de Administração Superior serão exercidas:
 
 1\) As de Presidente, pelo Diretor-Geral de Remonta e Veterinária;
 
@@ -114,23 +112,23 @@ b) Tesouraria (TE).
 
 Parágrafo único. O Presidente terá um Gabinete construído de: Chefe de Gabinete, um Assessor e um Secretário, por êle designados, os quais perceberão gratificações de representação e serão diretamente subordinados ao Presidente.
 
-<strong>Art</strong>. 4º A Secretaria Geral será dirigida por um Secretário Geral, designado pelo Presidente.
+**Art**. 4º A Secretaria Geral será dirigida por um Secretário Geral, designado pelo Presidente.
 
 § 1º A função de Secretário Geral poderá ser exercida pelo Chefe de Gabinete, pelo Assessor ou pelo Secretário do Presidente, sem prejuízo das suas atribuições, mediante designação do Presidente.
 
 § 2º A Seção Administrativa e a Tesouraria terão respectivamente, Chefe e Tesoureiro.
 
-<strong>Art</strong>. 5º A CCCCN, por proposta do Presidente e aprovação do Plenário, poderá organizar grupos de trabalho para estudo e execução de serviços visando ao desenvolvimento da criação de eqüídeos, asininos e muares, em campanhas nacionais, integrados por elementos da CCCCN do Ministério da Agricultura, do Ministério do Exército e de entidades privadas que desenvolvam atividades relacionadas com o fomento e exploração de eqüídeos.
+**Art**. 5º A CCCCN, por proposta do Presidente e aprovação do Plenário, poderá organizar grupos de trabalho para estudo e execução de serviços visando ao desenvolvimento da criação de eqüídeos, asininos e muares, em campanhas nacionais, integrados por elementos da CCCCN do Ministério da Agricultura, do Ministério do Exército e de entidades privadas que desenvolvam atividades relacionadas com o fomento e exploração de eqüídeos.
 
 Parágrafo único. Os trabalhos a que se refere o presente artigo serão financiados pela CCCCN, com recursos a ela adjudicados, provenientes de taxas e emolumentos arrecadados pela Comissão nos têrmos da legislação vigente.
 
-<strong>Art</strong>. 6º Os órgãos e entidades participantes da CCCCN funcionarão articulados em regime de mútua colaboração, sob a coordenação da Administração Superior, que comandará, Supervisionará, desenvolverá e avaliará as atividades gerais e específicas, nacionais ou regionais, da competência da Comissão.
+**Art**. 6º Os órgãos e entidades participantes da CCCCN funcionarão articulados em regime de mútua colaboração, sob a coordenação da Administração Superior, que comandará, Supervisionará, desenvolverá e avaliará as atividades gerais e específicas, nacionais ou regionais, da competência da Comissão.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 7º Ao Plenário compete:
+**Art**. 7º Ao Plenário compete:
 
 1\) Exercer as atividades que lhe couberem, fixadas na legislação atinente à CCCCN;
 
@@ -140,7 +138,7 @@ Parágrafo único. Os trabalhos a que se refere o presente artigo serão financi
 
 4\) Aprovar planos de trabalho e de aplicação de recursos.
 
-<strong>Art</strong>. 8º A Administração Superior compete:
+**Art**. 8º A Administração Superior compete:
 
 1\) Planejar e programar medidas objetivando à coordenação dos órgãos técnicos oficiais e particulares que cuidam da criação e exploração de eqüídeos tendo em vista a legislação atinente à CCCCN;
 
@@ -154,7 +152,7 @@ Parágrafo único. Os trabalhos a que se refere o presente artigo serão financi
 
 6\) Propor a instituição de grupos de trabalho e executivos.
 
-<strong>Art</strong>. 9º A Secretaria Geral compete:
+**Art**. 9º A Secretaria Geral compete:
 
 1\) Executar os atos resultantes das deliberações do plenário;
 
@@ -188,7 +186,7 @@ a) A Seção Administrativa, diretamente subordinada à Secretária Geral, compe
 
 12\. Distribuir o material de consumo pelos diversos setores;
 
-13\. Manter arquivo de pastas com o “<em>dossier</em>” individual dos servidores, registrando em fichas próprias a freqüência do pessoal, a remuneração recebida, salário-família e outros benéficios, férias e licenças, penalidades e elogios.
+13\. Manter arquivo de pastas com o “*dossier*” individual dos servidores, registrando em fichas próprias a freqüência do pessoal, a remuneração recebida, salário-família e outros benéficios, férias e licenças, penalidades e elogios.
 
 b) A Tesouraria, dirigente subordinada à Secretaria Geral, compete:
 
@@ -202,11 +200,11 @@ b) A Tesouraria, dirigente subordinada à Secretaria Geral, compete:
 
 5\. Fornecer elementos para a elaboração da proposta orçamentária e do plano de aplicação de recursos.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das atribuições funcionais</em>
+*Das atribuições funcionais*
 
-<strong>Art</strong>. 10. Aos Membros do Plenário incumbe:
+**Art**. 10. Aos Membros do Plenário incumbe:
 
 1\) Comparecer às reuniões para que forem convocados tomando parte nos debates com direito a voto;
 
@@ -220,7 +218,7 @@ b) A Tesouraria, dirigente subordinada à Secretaria Geral, compete:
 
 6\) Assinar o livro de presença e as atas das reuniões do Plenário.
 
-<strong>Art</strong>. 11. Aos integrantes da Administração Superior incumbe:
+**Art**. 11. Aos integrantes da Administração Superior incumbe:
 
 a) Ao Presidente:
 
@@ -316,7 +314,7 @@ c) Ao 2º Vice-Presidente:
 
 7\) Inspecionar tècnicamente o Stud Book Brasileiro, sugerindo as modificações necessárias à sua organização e funcionamento, de acôrdo com a orientação fixada pelos órgãos competentes e pelo Plenário.
 
-<strong>Art</strong>. 12. Aos servidores lotados na Secretaria-Geral incumbe:
+**Art**. 12. Aos servidores lotados na Secretaria-Geral incumbe:
 
 a) Ao Secretario-Geral:
 
@@ -368,15 +366,15 @@ c) Ao Tesoureiro:
 
 10\) Executar outras atividades de natureza contábil que lhe forem determinadas pelo Secretario-Geral ou pelo Presidente;
 
-<strong>Art</strong>. 13. Aos demais servidores incumbe cumprir as ordens emanadas dos seus superiores para as execuções das tarefas previstas neste Regimento e na legislação específica da CCCCN.
+**Art**. 13. Aos demais servidores incumbe cumprir as ordens emanadas dos seus superiores para as execuções das tarefas previstas neste Regimento e na legislação específica da CCCCN.
 
 Parágrafo único. Ao Secretário do Presidente, além das atribuições que lhe forem cometidas, incumbe secretariar as reuniões do Plenário, lavrando as datas respectivas.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 14. Serão substituídos em suas faltas e impedimentos:
+**Art**. 14. Serão substituídos em suas faltas e impedimentos:
 
 a) No Plenário:
 
@@ -402,21 +400,21 @@ c) Na Secretaria-Geral, automàticamente, até 30 dias:
 
 3\) O Tesoureiro por servidor designado pelo Secretário-Geral.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 15. O trabalho dos membros do Gabinete e da Secretaria-Geral obedecerá a horário estabelecido pelo Presidente da CCCCN respeitado o número de horas semanais fixados pelo Serviço Público Federal.
+**Art**. 15. O trabalho dos membros do Gabinete e da Secretaria-Geral obedecerá a horário estabelecido pelo Presidente da CCCCN respeitado o número de horas semanais fixados pelo Serviço Público Federal.
 
 Parágrafo único. Em casos especiais o Presidente da CCCCN poderá antecipar ou prorrogar o horário normal dos trabalhos, respeitado o número de horas semanais ou mensais fixados pelo SPF.
 
-<strong>Art</strong>. 16. O Presidente, o 1º Vice-Presidente e o 2º Vice-Presidente não estão sujeitos a horário mais deverão comparecer à sede da CCCCN com freqüência, a fim de exercerem as atividades que lhes competem, previstas neste Regimento e na legislação a que se refere o art. 1º.
+**Art**. 16. O Presidente, o 1º Vice-Presidente e o 2º Vice-Presidente não estão sujeitos a horário mais deverão comparecer à sede da CCCCN com freqüência, a fim de exercerem as atividades que lhes competem, previstas neste Regimento e na legislação a que se refere o art. 1º.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 17. O Plenário reunir-se-á, em primeira ou segunda convocação, na sede da CCCCN, em dia e hora prèviamente fixados pelo Presidente, com indicação dos assuntos a serem tratados:
+**Art**. 17. O Plenário reunir-se-á, em primeira ou segunda convocação, na sede da CCCCN, em dia e hora prèviamente fixados pelo Presidente, com indicação dos assuntos a serem tratados:
 
 1\) Ordinàriamente, uma vez por mês;
 
@@ -424,22 +422,22 @@ Parágrafo único. Em casos especiais o Presidente da CCCCN poderá antecipar ou
 
 Parágrafo único. Na primeira convocação é obrigatória a presença da maioria dos Membros permanentes ou seus suplentes, deliberando, a critério do Presidente, com qualquer número na segunda convocação, que poderá se marcada para hora diferente do mesmo dia.
 
-<strong>Art</strong>. 18. Os trabalhos de portaria e expediente externo ficarão a cargo de contínuos e serventes da Comissão, administrativamente subordinados ao Chefe da Seção Administrativa.
+**Art**. 18. Os trabalhos de portaria e expediente externo ficarão a cargo de contínuos e serventes da Comissão, administrativamente subordinados ao Chefe da Seção Administrativa.
 
-<strong>Art</strong>. 19. O Secretário-Geral submeterá à aprovação do Presidente da Comissão a lotação numérica e nominal dos servidores que deverão exercer atividades na Secretaria-Geral, Seção Administrativa, e na Tesouraria.
+**Art**. 19. O Secretário-Geral submeterá à aprovação do Presidente da Comissão a lotação numérica e nominal dos servidores que deverão exercer atividades na Secretaria-Geral, Seção Administrativa, e na Tesouraria.
 
-<strong>Art</strong>. 20. A Comissão poderá dispor de pessoal temporário, admitido de acôrdo com a legislação vigente desde que para tal fim conste dotação nos planos de aplicação de recursos devidamente aprovados por órgão ou autoridade competente.
+**Art**. 20. A Comissão poderá dispor de pessoal temporário, admitido de acôrdo com a legislação vigente desde que para tal fim conste dotação nos planos de aplicação de recursos devidamente aprovados por órgão ou autoridade competente.
 
-<strong>Art</strong>. 21. Os Membros permanentes, do Plenário, representantes das entidades privadas a que se refere o item 1), do art. 2º dêste Regimento terão sua designação confirmada ou renovada por escrito pelos respectivos dirigentes, da qual consta a função exercida no órgão representado.
+**Art**. 21. Os Membros permanentes, do Plenário, representantes das entidades privadas a que se refere o item 1), do art. 2º dêste Regimento terão sua designação confirmada ou renovada por escrito pelos respectivos dirigentes, da qual consta a função exercida no órgão representado.
 
 § 1º Juntamente com a confirmação ou designação de novo representante será indicado o nome e a função do suplente que o deva substituir nas faltas e impedimentos, indicação essa que deverá ser renovada por escrito no caso de haver alteração.
 
 § 2º Os Membros do Plenário não perceberão remuneração pelo comparecimento às reuniões podendo entretanto ser ressarcidos das despesas pessoais de transporte e estada que realizem para tal fim as suas expensas.
 
-<strong>Art</strong>. 22. Será considerado como prorrogação de exercício do Membro Executivo o interstício verificado entre o término do mandato e o da recondução do ocupante ou da posse de nôvo Membro.
+**Art**. 22. Será considerado como prorrogação de exercício do Membro Executivo o interstício verificado entre o término do mandato e o da recondução do ocupante ou da posse de nôvo Membro.
 
-<strong>Art</strong>. 23. A Administração Superior da CCCCN procederá quando necessário à revisão dêste Regimento e o submeterá a aprovação do Ministério do Exército.
+**Art**. 23. A Administração Superior da CCCCN procederá quando necessário à revisão dêste Regimento e o submeterá a aprovação do Ministério do Exército.
 
-<strong>Art</strong>. 24. As dúvidas ou casos omissos serão resolvidos pelo Presidente da CCCCN ouvido prèviamente, se fôr o caso, o Plenário.
+**Art**. 24. As dúvidas ou casos omissos serão resolvidos pelo Presidente da CCCCN ouvido prèviamente, se fôr o caso, o Plenário.
 
-<strong>AURÉLIO DE LYRA TAVARES</strong>
+**AURÉLIO DE LYRA TAVARES**

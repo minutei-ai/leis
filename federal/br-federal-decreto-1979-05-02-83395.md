@@ -1,5 +1,3 @@
-###DEC-083395-0-000-02-05-1979@@@
-
 Decreto nº 83.395, de 02 de maio de 1979.
 
 Altera a estrutura básica do Departamento Administrativo do Serviço Público, transforma a Secretaria de Unidades Residenciais - SEURI em órgão autônomo, que passa a denominar-se Superintendência de Construção e Administração Imobiliária - SUCAD, e dá outras providências.

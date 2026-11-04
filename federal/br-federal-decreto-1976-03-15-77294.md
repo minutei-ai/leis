@@ -1,5 +1,3 @@
-###DEC-077294-0-000-15-03-1976@@@
-
 decreto nº 77.294, de 15 de março de 1976
 
 Transfere a sede do Instituto de Planejamento Econômico e Social - IPEA para Brasília, Distrito Federal, amplia suas atribuições e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092778-0-000-13-06-1986@@@
-
 DECRETO Nº 92.778, DE 13 DE JUNHO DE 1986
 
 Outorga concessão à SOCIEDADE RÁDIO METEOROLOGIA PAULISTA LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Ibitinga, Estado de São Paulo.

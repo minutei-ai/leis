@@ -1,5 +1,3 @@
-###DEC-064377-0-000-22-04-1969@@@
-
 DECRETO Nº 64.377, DE 22 DE ABRIL DE 1969.
 
 Declara de utilidade pública a Sociedade Beneficente 14 de Julho, com sede em São Paulo, Estado de São Paulo.

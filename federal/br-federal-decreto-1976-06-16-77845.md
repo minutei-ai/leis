@@ -1,5 +1,3 @@
-###DEC-077845-0-000-16-06-1976@@@
-
 DECRETO Nº 77.845, DE 16 DE JUNHO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à implantação da Subestação Terminal Grajaú, da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

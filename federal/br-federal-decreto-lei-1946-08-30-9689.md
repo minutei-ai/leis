@@ -1,5 +1,3 @@
-###DEL-009689-0-000-30-08-1946@@@
-
 DECRETO-LEI N. 9.689 – DE 30 DE AGÔSTO DE 1946
 
 Dispõe sôbre a concessão de ajuda de custo, transporte, diárias e gratificação de representação a militares em missão ou a serviço no estrangeiro e dá outras providências.

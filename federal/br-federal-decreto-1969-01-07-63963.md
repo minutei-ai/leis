@@ -1,5 +1,3 @@
-###DEC-063963-0-000-07-01-1969@@@
-
 decreto nº 63.963, de 7 de janeiro de 1969.
 
 Autoriza o Grupo Executivo da Indústria de Mineração - GEIMI - a conceder o estímulo previsto no Decreto nº 62.351, de 5 .3.1968.

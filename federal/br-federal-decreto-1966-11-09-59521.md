@@ -1,5 +1,3 @@
-###DEC-059521-0-000-09-11-1966@@@
-
 DECRETO Nº 59.521, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Helio-Curto a pesquisar calcário e minério de manganês, no município de Eldorado Paulista, Estado de São Paulo.

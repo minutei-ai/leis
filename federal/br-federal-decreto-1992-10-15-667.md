@@ -1,7 +1,3 @@
-1
-
-###DEC-000667-0-000-15-10-1992@@@
-
 DECRETO N° 667, DE 15 DE OUTUBRO DE 1992
 
 Promulga o Acordo Básico de Cooperação Científica, Técnica e Tecnológica, entre o Governo da República Federativa do Brasil e o Governo da República do Chile, de 26 de julho de 1990.

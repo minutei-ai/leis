@@ -1,5 +1,3 @@
-###DEC-074322-0-000-25-07-1974@@@
-
 DECRETO Nº 74.322 - de 25 de julho de 1974.
 
 Redistribui cargo, com a respectiva ocupante, para o Tribunal Regional do Trabalho da 3ª Região, e dá outra providências.

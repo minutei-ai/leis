@@ -1,5 +1,3 @@
-###DEL-005243-0-000-11-02-1943@@@
-
 DECRETO‑LEI N. 5.243 – DE 11 DE FEVEREIRO DE 1943
 
 Autoriza o Ministério do Trabalho, Indústria e Comércio a cobrar os direitos autorais devidos pelas representações das peças premiadas em concurso  literário instituído pelo mesmo Ministério

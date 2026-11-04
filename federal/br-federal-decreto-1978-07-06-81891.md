@@ -1,5 +1,3 @@
-###DEC-081891-0-000-06-07-1978@@@
-
 Decreto nº 81.891, de 06 de julho de 1978
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Município de Niterói, Estado do Rio de Janeiro.

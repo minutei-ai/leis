@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53181)
-
 # LEI Nº 11.926, DE 01 DE ABRIL DE 2005
 
 ## (PL 1277/2003 - Ricardo Trípoli)

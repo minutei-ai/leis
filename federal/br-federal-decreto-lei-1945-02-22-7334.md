@@ -1,5 +1,3 @@
-###DEL-007334-0-000-22-02-1945@@@
-
 DECRETO-LEI N. 7.334 – DE 22 DE FEVEREIRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a conceder à Obra da Assistência aos Portugueses Desamparados isenção do pagamento do impôsto que  menciona

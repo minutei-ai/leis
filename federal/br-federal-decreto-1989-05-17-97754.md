@@ -1,7 +1,3 @@
-1
-
-###DEC-097754-0-000-17-05-1989@@@
-
 DECRETO Nº 97.754, DE 17 DE MAIO DE 1989
 
 Dá nova redação ao § 1º do art. 3º do Decreto nº 97.455, de 15 de janeiro de 1989.

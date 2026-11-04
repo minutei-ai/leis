@@ -1,7 +1,3 @@
-1
-
-###DEC-000519-0-000-13-05-1992@@@
-
 DECRETO Nº 519, DE 13 DE MAIO DE 1992
 
 Institui O Programa Nacional de Incentivo à Leitura PROLER e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-060416-0-000-11-03-1967@@@
-
 DECRETO Nº 60.416, DE 11 DE MARÇO DE 1967.
 
 Declara sem efeito o Decreto nº 2.105 de 22 de janeiro de 1963.

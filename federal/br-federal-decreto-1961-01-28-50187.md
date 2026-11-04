@@ -1,5 +1,3 @@
-###DEC-050187-0-000-28-01-1961@@@
-
 DECRETO Nº 50.187, DE 28 DE JANEIRO DE 1961.
 
 Abre, ao Poder Judiciário - Tribunal de Justiça do Distrito Federal, o crédito especial de Cr$25.000.000,00 (vinte e cinco milhões de cruzeiros) para o fim que especifica.

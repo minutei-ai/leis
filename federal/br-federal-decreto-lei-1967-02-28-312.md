@@ -1,5 +1,3 @@
-###DEL-000312-0-000-28-02-1967@@@
-
 Decreto-Lei nº 312, de 28 de fevereiro de 1967
 
 Autoriza a prestação da assistência farmacêutica pela previdência social e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-093270-0-000-18-09-1986@@@
-
 DECRETO Nº 93.270, DE 18 DE SETEMBRO DE 1986
 
 Autoriza a reforma do Estatuto da Empresas Nucleares Brasileiras S/A - NUCLEBRÁS.

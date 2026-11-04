@@ -1,5 +1,3 @@
-###DEC-045771-0-000-09-04-1959@@@
-
 DECRETO Nº 45.771, DE 9 DE ABRIL DE 1959.
 
 Complementa o Decreto nº 45.581, atribuindo responsabilidades ao Ministério da Guerra, e dá outras providências.

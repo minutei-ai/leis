@@ -56,8 +56,6 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 9 de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

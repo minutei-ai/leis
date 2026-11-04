@@ -1,5 +1,3 @@
-###DEL-005422-0-000-22-04-1943@@@
-
 DECRETO‑LEI N. 5.422 – DE 22 DE ABRIL DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ ... 6.460.672,20 para despesas a cargo da Rede de Viação Paraná‑Santa Catarina.

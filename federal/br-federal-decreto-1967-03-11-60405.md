@@ -1,5 +1,3 @@
-###DEC-060405-0-000-11-03-1967@@@
-
 DECRETO Nº 60.405, DE 11 DE MARÇO DE 1967.
 
 Autoriza o cidadão brasileiro Adão Brandão de Melo a pesquisar feldspato, no Município de Resplendor, Estado de Minas Gerais.

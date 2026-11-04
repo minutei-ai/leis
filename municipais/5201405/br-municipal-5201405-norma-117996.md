@@ -35,8 +35,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 10 de abril de 2023
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário Interino de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário Interino de Planejamento e Regulação Urbana

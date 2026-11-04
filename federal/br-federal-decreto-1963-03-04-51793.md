@@ -1,5 +1,3 @@
-###DEC-051793-0-000-04-03-1963@@@
-
 DECRETO Nº 51.793, DE 4 DE MARÇO DE 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Emprêsa Bom Retirense da Luz e Fôrça Ltda., Estado do Rio Grande do Sul.

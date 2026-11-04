@@ -1,5 +1,3 @@
-###DEL-003056-0-000-14-02-1941@@@
-
 DECRETO-LEI N. 3.056 – DE 14 DE FEVEREIRO DE 1941
 
 Torna sem efeito o decreto-lei n. 457, de 31 de maio de 1938

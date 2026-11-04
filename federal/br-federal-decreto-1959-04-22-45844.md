@@ -1,5 +1,3 @@
-###DEC-045844-0-000-22-04-1959@@@
-
 decreto nº 45.844, de 22 de abril de 1959.
 
 Declara públicas de uso comum, do domínio da União e do Estado do Ceará, as águas do rio Mundaú.

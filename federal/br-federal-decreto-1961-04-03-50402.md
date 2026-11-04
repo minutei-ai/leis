@@ -1,5 +1,3 @@
-###DEC-050402-0-000-03-04-1961@@@
-
 DECRETO Nº 50.402, DE 3 DE ABRIL DE 1961.
 
 Autorizar estrangeiro a adquirir, em regularização de aforamento, a fração ideal do domínio útil do terreno acrescido de marinha que menciona no Estado da Guanabara.

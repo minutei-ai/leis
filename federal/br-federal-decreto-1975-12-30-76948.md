@@ -1,5 +1,3 @@
-###DEC-076948-0-000-30-12-1975@@@
-
 DECRETO Nº 76.948, DE 30 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências, de Letras, e de Estudos Sociais da Faculdade de Formação de Professores de Arcoverde, Estado de Pernambuco.

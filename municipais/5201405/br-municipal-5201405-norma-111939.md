@@ -12,5 +12,6 @@ Art. 2º - Esta Lei entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 22 de Dezembro de 2006.
 
-JOSE MACEDO<br>
+JOSE MACEDO
+
 PREFEITO MUNICIPAL

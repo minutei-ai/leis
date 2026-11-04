@@ -1,5 +1,3 @@
-###DEC-050770-0-000-09-06-1961@@@
-
 DECRETO Nº 50.770, DE 9 DE JUNHO DE 1961.
 
 Autoriza a Companhia Hidro-Elétrica do São Francisco a construir uma linha se transmissão entre a Usina de Paulo Afonso, no distrito de Paulo Afonso, Município de Glória, Estado da Bahia e a sede do Município de Milagres, no Estado do Ceará, e dá outras providências.

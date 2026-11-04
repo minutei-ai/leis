@@ -1,5 +1,3 @@
-###DEC-080477-0-000-03-10-1977@@@
-
 DECRETO Nº 80.477, DE 3 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Administrativas de Canoinhas, mantida pela Fundação das Escolas do Planalto Norte Catarinense, com sede na cidade de Canoinhas, Estado de Santa Catarina.

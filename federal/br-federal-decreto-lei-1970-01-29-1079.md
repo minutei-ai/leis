@@ -1,7 +1,3 @@
-1
-
-###DEL-001079-0-000-29-01-1970@@@
-
 # DECRETO-LEI Nº 1.079, DE 29 De JANEIRO DE 1970
 
 Autoriza a emissão de Letras do Tesouro Nacional para o desenvolvimento de operações de “Mercado Aberto”, com fins monetários, pelo Banco Central do Brasil, e dá outras providências.

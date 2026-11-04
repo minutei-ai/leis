@@ -1,5 +1,3 @@
-###DEC-003956-0-000-08-10-2001@@@
-
 DECRETO Nº 3.956, DE 8 DE OUTUBRO DE 2001
 
 Promulga a Convenção Interamericana para a Eliminação de Todas as Formas de Discriminação contra as Pessoas Portadoras de Deficiência.

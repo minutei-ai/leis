@@ -1,5 +1,3 @@
-###DEC-052871-0-000-20-11-1963@@@
-
 decreto nº 52.871, de 20 de novembro de 1963.
 
 Institui o Dia do Dactiloscopista Brasileiro.

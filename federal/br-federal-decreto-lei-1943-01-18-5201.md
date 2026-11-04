@@ -1,5 +1,3 @@
-###DEL-005201-0-000-18-01-1943@@@
-
 DECRETO‑LEI N. 5.201 – DE 18 DE JANEIRO DE 1943
 
 Define a tansitoriedade da suspensão da lavra das minas, Prevista no § 4º do art. 143 da Constituição

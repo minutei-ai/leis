@@ -12,5 +12,6 @@ Município de Aparecida de Goiânia, aos 08 de março de 2023.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

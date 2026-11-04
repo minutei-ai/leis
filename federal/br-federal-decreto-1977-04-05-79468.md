@@ -1,5 +1,3 @@
-###DEC-079468-0-000-05-04-1977@@@
-
 DECRETO Nº 79.468, DE 5 DE ABRIL DE 1977.
 
 Concede à Mineração Itapeva Ltda., o direito de lavrar filito no Município de Itapeva, Estado São Paulo.

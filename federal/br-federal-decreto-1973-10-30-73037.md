@@ -1,5 +1,3 @@
-###DEC-073037-0-000-30-10-1973@@@
-
 DECRETO Nº 73.037, DE 30 DE OUTUBRO DE 1973.
 
 Renova por 10 (dez) anos concessão outorgada à Rádio Vera Cruz S.A., para executar serviço de radiodifusão sonora em ondas médias de âmbito regional na cidade do Rio de Janeiro, Estado da Guanabara.

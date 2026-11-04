@@ -1,5 +1,3 @@
-###DEC-080103-0-000-08-08-1977@@@
-
 DECRETO Nº 80 103, DE 8 DE AGOSTO DE 1977.
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação externa.

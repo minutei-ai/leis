@@ -1,5 +1,3 @@
-###DEC-073871-0-000-26-03-1974@@@
-
 DECRETO Nº 73.871, DE 26 DE MARÇO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências e Letras de Araras, mantida pela Associação Educacional de Araras, com sede na cidade de Araras, Estado de São Paulo.

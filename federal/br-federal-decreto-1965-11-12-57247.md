@@ -1,5 +1,3 @@
-###DEC-057247-0-000-12-11-1965@@@
-
 Decreto nº 57.247, de 12 de novembro de 1965.
 
 Modifica a redação do art. 4º do Decreto nº 825, de 2 de abril de 1962 e acrescenta-lhe um parágrafo.

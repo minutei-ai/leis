@@ -1,5 +1,3 @@
-###DEC-002058-0-000-05-11-1996@@@
-
 DECRETO Nº 2.058, DE 5 DE NOVEMBRO DE 1996.
 
 Remaneja Cargos em Comissão do Ministério da Administração Federal e Reforma do Estado para o Gabinete do Ministro de Estado Extraordinário dos Esportes.

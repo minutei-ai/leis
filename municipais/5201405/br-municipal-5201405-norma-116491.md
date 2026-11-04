@@ -58,8 +58,10 @@ Art. 6º - Esta Lei entra em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA – GO, aos 30 de julho de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

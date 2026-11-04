@@ -1,5 +1,3 @@
-###DEC-049447-0-000-06-12-1960@@@
-
 DECRETO Nº 49.447, DE 6 DE DEZEMBRO DE 1960.
 
 Retifica o art. 1º do Decreto número 45.641, de 25 de março de 1959.

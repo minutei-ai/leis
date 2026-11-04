@@ -1,5 +1,3 @@
-###DEC-052692-0-000-15-10-1963@@@
-
 DECRETO Nº 52.692, DE 15 DE OUTUBRO DE 1963.
 
 Aprova o Regulamento para contribuição financeira destinada ao reequipamento das emprêsas de transportes aéreo regular, prevista na Lei nº 4.200, de 5 de fevereiro de 1963.

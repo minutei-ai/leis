@@ -34,8 +34,10 @@ Art. 7º O descumprimento desta Lei implicará a imposição de penalidades a se
 
 Aparecida de Goiânia, 2 de junho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
-GLEISON FLÁVIO<br>
+GLEISON FLÁVIO
+
 Vereador

@@ -1,5 +1,3 @@
-###DEC-048196-0-000-12-05-1960@@@
-
 DECRETO Nº 48.196, DE 12 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Milton Voss a pesquisar água mineral no município de Itirapina, Estado de São Paulo.

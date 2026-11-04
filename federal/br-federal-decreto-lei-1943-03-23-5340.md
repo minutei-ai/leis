@@ -1,5 +1,3 @@
-###DEL-005340-0-000-23-03-1943@@@
-
 DECRETO‑LEI N. 5.340 – DE 23 DE MARÇO DE 1943
 
 Dispõe sobre promoção de Primeiros e Segundos Tenentes do Exército

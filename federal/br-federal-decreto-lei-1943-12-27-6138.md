@@ -1,5 +1,3 @@
-###DEL-006138-0-000-27-12-1943@@@
-
 DECRETO‑LEI N. 6.138 – DE 27 DE DEZEMBRO DE 1943
 
 Reorganiza o Quadro de Médicos do Corpo de Saúde da Armada

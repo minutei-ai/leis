@@ -1,5 +1,3 @@
-###DEC-003094-0-000-25-06-1999@@@
-
 DECRETO Nº 3.094, DE 25 DE JUNHO DE 1999.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.567, de 28 de abril de 1998.

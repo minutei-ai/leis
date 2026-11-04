@@ -1,5 +1,3 @@
-###DEC-048160-0-000-10-05-1960@@@
-
 DECRETO Nº 48.160, DE 10 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro João Juliano a pesquisar água mineral no município de Coração de Maria, Estado da Bahia.

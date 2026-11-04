@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57377)
-
 # LEI Nº 11.982, DE 06 DE SETEMBRO DE 2005
 
 ## ( PL 1246/2003 - Governador)
@@ -28,16 +26,9 @@ Secretário-Chefe da Casa Civil
 
 Publicada na Assessoria Técnico-Legislativa, aos 6 de setembro de 2005.
 
-<br>
-
 #### Retificação da [Lei nº 11.982, de 6 de Setembro de 2005](https://www.al.sp.gov.br/norma/57377)
 
-<br>
-
 Autoriza a Fazenda do Estado a alienar, mediante permuta, imóvel que especifica
-
-<br>
-<br>
 
 **Retificação** do D.O. de 6-9-2005
 

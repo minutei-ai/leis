@@ -1,5 +1,3 @@
-###DEC-054735-0-000-30-10-1964@@@
-
 Decreto nº 54.735, de 30 de outubro de 1964.
 
 Transfere do Município de Descanso para o Consórcio Intermunicipal de Eletricidade, concessão para aproveitamento hidroelétrico, existente no rio Famoso, Município de Descanso, Estado de Santa Catarina.

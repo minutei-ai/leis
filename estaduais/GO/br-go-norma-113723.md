@@ -16,10 +16,49 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>300 - TRIBUNAL DE CONTAS DOS MUNICÍPIOS</b><br>301 - GABINETE DO PRESIDENTE DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">AUXÍLIO E FISCALIZAÇÃO JUNTO AO PODER PÚBLICO MUNICIPAL</td><td style=" width:85px;    ">01 032 1047 2008</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 808.000,00</td><td style=" width:85px;    ">R$ 22.382,96</td><td style=" width:85px;    ">R$ 830.382,96</td></tr></tbody></table>
+**300 - TRIBUNAL DE CONTAS DOS MUNICÍPIOS**
+301 - GABINETE DO PRESIDENTE DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 22.382,96</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 22.382,96</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+AUXÍLIO E FISCALIZAÇÃO JUNTO AO PODER PÚBLICO MUNICIPAL
+
+01 032 1047 2008
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 808.000,00
+
+R$ 22.382,96
+
+R$ 830.382,96
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 22.382,96
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 22.382,96

@@ -1,5 +1,3 @@
-###DEC-071454-0-000-01-12-1972@@@
-
 DECRETO Nº 71.454, DE 1º DE DEZEMBRO DE 1972.
 
 Abre ao Ministério do Interior - Secretaria-Geral - Entidades Supervisionadas, o crédito suplementar de Cr$ 6.400.000,00 para reforço de dotações consignadas no vigente Orçamento.
@@ -10,15 +8,149 @@ DECRETA:
 
 Art. 1º Fica aberto ao Ministério do Interior, em favor da Secretaria-Geral - Entidades Supervisionadas, o crédito suplementar no valor de Cr$ 6.400.000,00 (seis milhões e quatrocentos mil cruzeiros), para reforço de dotações orçamentárias consignadas ao subanexo 19.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$ 1,00</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>19.00</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- MINISTÉ</span><span>RIO</span><span> DO INTERIOR</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>19.03</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Secretaria-Geral - Entidades Supervisionadas</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>1903.0108.2011</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Atividades a Cargo da Superintendê</span><span>ncia do Desenvolvimento do Nordeste - SUDENE</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.7.2</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Entidades Federais</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>01</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Pessoal ........................................................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>6.400.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+19.00
+
+- MINISTÉRIO DO INTERIOR
+
+19.03
+
+- Secretaria-Geral - Entidades Supervisionadas
+
+1903.0108.2011
+
+- Atividades a Cargo da Superintendência do Desenvolvimento do Nordeste - SUDENE
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................
+
+6.400.000
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao subanexo 19.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$ 1,00</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>19.00</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- MINISTÉ</span><span>RIO DO INTERIOR</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>19.03</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Secretaria-Geral - Entidades Supervisionadas</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- 1903.0108.2011</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.7.2</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Entidades Federais</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>07</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Contribuiçõ</span><span>es de Previdê</span><span>ncia Social ...........................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>5.000.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>4.3.5.0</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Auxí</span><span>lios para Material Permanente ..............................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>200.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Projeto</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- 1903.1402.1098</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>4.3.5.0</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Auxí</span><span>lios para Material Permanente ..............................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>400.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- 1903.1602.2061</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.7.2</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Entidades Federais</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>08</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Diversas........................................................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>500.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>4.3.7.1</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Entidades Federais ......................................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>500.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>02</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Auxí</span><span>lios para Amortizaçã</span><span>o da Dí</span><span>vida Pú</span><span>blica Externa..</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="text-decoration:underline">300.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Total ................................................................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>6.400.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+19.00
+
+- MINISTÉRIO DO INTERIOR
+
+19.03
+
+- Secretaria-Geral - Entidades Supervisionadas
+
+Atividade
+
+- 1903.0108.2011
+
+3.2.7.2
+
+- Entidades Federais
+
+07
+
+- Contribuições de Previdência Social ...........................
+
+5.000.000
+
+4.3.5.0
+
+- Auxílios para Material Permanente ..............................
+
+200.000
+
+Projeto
+
+- 1903.1402.1098
+
+4.3.5.0
+
+- Auxílios para Material Permanente ..............................
+
+400.000
+
+Atividade
+
+- 1903.1602.2061
+
+3.2.7.2
+
+- Entidades Federais
+
+08
+
+- Diversas........................................................................
+
+500.000
+
+4.3.7.1
+
+- Entidades Federais ......................................................
+
+500.000
+
+02
+
+- Auxílios para Amortização da Dívida Pública Externa..
+
+300.000
+
+Total ................................................................................
+
+6.400.000
 
 Art. 3º O presente crédito, no Orçamento próprio da Superintendência do Desenvolvimento do Nordeste - SUDENE, obedecerá a seguinte programação:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$ 1,00</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>5</span><span>9.00</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- MINISTÉ</span><span>RIO DO INTERIOR</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>a) Suplementaçã</span><span>o</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>59.05</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Superintendê</span><span>ncia do Desenvolvimento do Nordeste - SUDENE</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>5905.0108.2001</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Planejamento e Coordenaçã</span><span>o Regional .....................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>6.400.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>b) Cancelamento</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>59.05</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Superintendê</span><span>ncia do Desenvolvimento do Nordeste - SUDENE</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>5905.0108.2001</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Planejamento e Coordenaçã</span><span>o Regional.......................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>5.200.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>5905.1402.1024</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Pesquisas Meteoroló</span><span>gicas ...........................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>400.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>5905.1602.2019</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>- Estudos e Viabilidade e Programaçã</span><span>o de Transporte..</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="text-decoration:underline">800.000</span></p></td></tr><tr><td style="width:88.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Total ................................................................................</span></p></td><td style="width:64.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>6.400.000</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+59.00
+
+- MINISTÉRIO DO INTERIOR
+
+a) Suplementação
+
+59.05
+
+- Superintendência do Desenvolvimento do Nordeste - SUDENE
+
+5905.0108.2001
+
+- Planejamento e Coordenação Regional .....................
+
+6.400.000
+
+b) Cancelamento
+
+59.05
+
+- Superintendência do Desenvolvimento do Nordeste - SUDENE
+
+5905.0108.2001
+
+- Planejamento e Coordenação Regional.......................
+
+5.200.000
+
+5905.1402.1024
+
+- Pesquisas Meteorológicas ...........................................
+
+400.000
+
+5905.1602.2019
+
+- Estudos e Viabilidade e Programação de Transporte..
+
+800.000
+
+Total ................................................................................
+
+6.400.000
 
 Art. 4º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

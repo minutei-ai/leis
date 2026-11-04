@@ -1,6 +1,10 @@
 > **LEI Nº 3.875, DE 17 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o percentual do limite global de despesas com pessoal do Poder Executivo a ser destinado à Defensoria Pública do Estado do Acre - DPE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o percentual do limite global de despesas com pessoal do Poder Executivo a ser destinado à Defensoria Pública do Estado do Acre - DPE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

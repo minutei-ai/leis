@@ -1,5 +1,3 @@
-###DEC-096346-0-000-15-07-1988@@@
-
 DECRETO N° 96.346, DE 15 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado “FAZENDA CASTELO” classificado como “latifúndio por exploração”, situado no Município de Riachão das Neves, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

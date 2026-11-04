@@ -1,5 +1,3 @@
-###DEC-046673-0-000-18-08-1959@@@
-
 DECRETO Nº 46.673, DE 18 DE AGÔSTO DE 1959.
 
 Autoriza a Companhia Mogiana de Estradas de Ferro a pesquisar argila refratária no município de São Simão, Estado de São Paulo.

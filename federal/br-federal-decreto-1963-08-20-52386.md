@@ -1,5 +1,3 @@
-###DEC-052386-0-000-20-08-1963@@@
-
 DECRETO Nº 52.386, DE 20 DE AGÔSTO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Marítimos e Terrestres Phenix de Pôrto Alegre.

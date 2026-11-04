@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208836)<br>
-
 # DECRETO N° 68.109, DE 24 DE NOVEMBRO DE 2023
 
 ### _Institui Grupo de Trabalho Intersecretarial com o objetivo de elaborar estudos e propostas de mecanismo indenizatório da pecuária paulista, em razão da suspensão da vacinação contra febre aftosa no Estado de São Paulo._

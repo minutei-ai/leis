@@ -1,5 +1,3 @@
-###DEC-081726-0-000-24-05-1978@@@
-
 Decreto nº 81.726, de 24 de maio de 1978.
 
 Autoriza a conversão do curso de Ciências, licenciatura, em curso de Ciências, licenciatura de 1ºgrau, ministrado pela Faculdade de Filosofia D. José de Sobral, Estado do Ceará.

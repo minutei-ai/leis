@@ -3333,7 +3333,3 @@ Justiça Militar de Primeira Instância
 Nº de Juízes
 
 1 - Juiz-Auditor Titular 3 2 - Juiz-Auditor Substituto 2
-
-\================================================================
-
-Data da última atualização: 23/11/2007

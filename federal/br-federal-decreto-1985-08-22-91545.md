@@ -1,5 +1,3 @@
-###DEC-091545-0-000-22-08-1985@@@
-
 Decreto nº 91.545, de 22 de agosto de 1985
 
 Dispõe sobre a transferência, para Brasília, da Comissão Nacional de Moral e Civismo - CNMC.

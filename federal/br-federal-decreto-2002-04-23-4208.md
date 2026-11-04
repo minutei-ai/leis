@@ -1,5 +1,3 @@
-###DEC-004208-0-000-23-04-2002@@@
-
 DECRETO Nº 4.208, DE 23 DE ABRIL DE 2002
 
 Dispõe sobre a medalha "Bartolomeu de Gusmão" e dá outras providências.

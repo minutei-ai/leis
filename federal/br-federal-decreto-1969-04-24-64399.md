@@ -1,5 +1,3 @@
-###DEC-064399-0-000-24-04-1969@@@
-
 Decreto Nº 64.399, DE 24 DE ABRIL DE 1969.
 
 Concede autorização à Companhia "Penrod Drilling Company" para operação em águas brasileiras dos básicos especializados "Hippo" e "Penrod Rig 59", de nacionalidade norte-americana, nos serviços que especifica.

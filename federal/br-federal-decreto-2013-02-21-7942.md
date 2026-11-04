@@ -1,5 +1,3 @@
-###DEC-007942-0-000-21-02-2013-PUB-01@@@
-
 DECRETO N° 7.942, DE 21 DE FEVEREIRO DE 2013
 
 Altera o Decreto n° 7.514, de 5 de julho de 2011, para prorrogar o prazo de funcionamento da Comissão Interministerial de análise dos requerimentos do pessoal do ex- Território Federal de Rondônia.

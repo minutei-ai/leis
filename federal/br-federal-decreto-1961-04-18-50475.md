@@ -1,5 +1,3 @@
-###DEC-050475-0-000-18-04-1961@@@
-
 DECRETO Nº 50.475, DE 18 DE ABRIL DE 1961.
 
 Altera a redação do artigo 3º do Decreto nº 50.367, de 21 de março de 1961.

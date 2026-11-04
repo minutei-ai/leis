@@ -1,7 +1,3 @@
-1
-
-###DEC-000663-0-000-01-10-1992@@@
-
 DECRETO N° 663, DE 1° DE OUTUBRO DE 1992
 
 Consolida o Regulamento da Lei n° 8.249, de 24 de outubro de 1991, que estabelece as características da Nota do Tesouro Nacional (NTN) e dá outras providências.

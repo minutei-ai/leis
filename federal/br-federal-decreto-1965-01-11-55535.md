@@ -1,5 +1,3 @@
-###DEC-055535-0-000-11-01-1965@@@
-
 DECRETO Nº 55.535, DE 11 DE JANEIRO DE 1965.
 
 Retifica o parágrafo único do Decreto nº 54.397, de 9 de outubro de 1964.

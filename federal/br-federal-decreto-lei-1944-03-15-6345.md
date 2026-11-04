@@ -1,5 +1,3 @@
-###DEL-006345-0-000-15-03-1944@@@
-
 DECRETO-LEI N. 6.345 – DE 15 DE MARÇO DE 1944
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Agricultura, e dá outras providências

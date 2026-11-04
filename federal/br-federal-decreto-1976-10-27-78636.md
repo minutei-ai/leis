@@ -1,5 +1,3 @@
-###DEC-078636-0-000-27-10-1976@@@
-
 DECRETO Nº 78.636, de 27 de outubro de 1976.
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Filosofia, Ciências e Letras Barão de Mauá, com sede na cidade de Ribeirão Preto, Estado de São Paulo.

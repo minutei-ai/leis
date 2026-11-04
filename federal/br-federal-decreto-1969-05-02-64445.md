@@ -1,5 +1,3 @@
-###DEC-064445-0-000-02-05-1969@@@
-
 DECRETO Nº 64.445, DE 2 DE MAIO DE 1969.
 
 Provê sôbre a concessão de auxílio-educação.

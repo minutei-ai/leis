@@ -1,5 +1,3 @@
-###DEC-089206-0-000-20-12-1983@@@
-
 decreto nº 89.206, de 20 de dezembro de 1983
 
 Autoriza o funcionamento do curso de Fisioterapia nas Faculdades da Zona Lente de São Paulo.

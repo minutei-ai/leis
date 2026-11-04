@@ -1,5 +1,3 @@
-###DEC-004154-0-000-07-03-2002@@@
-
 DECRETO Nº 4.154, DE 7 DE MARÇO DE 2002
 
 Regulamenta a Lei nº 10.332, de 19 de dezembro de 2001, na parte que institui mecanismo de financiamento para o Programa de Biotecnologia e Recursos Genéticos - Genoma, e dá outras providências.

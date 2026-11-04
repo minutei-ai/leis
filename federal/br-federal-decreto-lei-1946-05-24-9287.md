@@ -1,5 +1,3 @@
-###DEL-009287-0-000-24-05-1946@@@
-
 DECRETO-LEI N. 9.287 – DE 24 DE MAIO DE 1946
 
 Suspende, pelo prazo de seis meses, a cobrança dos direitos de importação e demais taxas aduaneiras que incidem sôbre o macarrão e talharim.

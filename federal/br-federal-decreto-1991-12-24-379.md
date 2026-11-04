@@ -1,7 +1,3 @@
-1
-
-###DEC-000379-0-000-24-12-1991@@@
-
 DECRETO Nº 379, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da TerraI Indígena Ibotirama, no Estado da Bahia.

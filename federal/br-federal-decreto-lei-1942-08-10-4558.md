@@ -1,5 +1,3 @@
-###DEL-004558-0-000-10-08-1942@@@
-
 DECRETO-LEI N. 4.558 – DE 10 DE AGOSTO DE 1942
 
 Dispõe sobre publicações nos orgãos oficiais e dá outras providências

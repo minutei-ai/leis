@@ -1,5 +1,3 @@
-###DEC-058036-0-000-22-03-1966@@@
-
 DECRETO Nº 58.036, de 22 de março de 1966.
 
 Renova o Decreto nº 53.223, de 12 de dezembro de 1963.

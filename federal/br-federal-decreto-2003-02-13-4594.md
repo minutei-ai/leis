@@ -1,5 +1,3 @@
-###DEC-004594-0-000-13-02-2003@@@
-
 DECRETO Nº 4.594, DE 13 DE FEVEREIRO DE 2003.
 
 Dispõe sobre a realização de despesas inscritas em Restos a Pagar no exercício de 2002, e dá outras providências.

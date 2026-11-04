@@ -1,5 +1,3 @@
-###DEL-008811-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.811 – DE 24 DE JANEIRO DE 1946
 
 Reduz para 2% a taxa sôbre o valor de vendas dos produtos de mandioca, criada pelo Decreto-lei número 5.531, de 28 de maio de 1943.

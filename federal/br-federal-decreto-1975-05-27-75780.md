@@ -1,5 +1,3 @@
-###DEC-075780-0-000-27-05-1975@@@
-
 DECRETO Nº 75.780, DE 27 DE MAIO DE 1975.
 
 Dispõe sobre o uso do título de Cargos da Carreira de Diplomata.

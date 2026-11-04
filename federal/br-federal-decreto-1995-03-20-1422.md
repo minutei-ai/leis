@@ -1,7 +1,3 @@
-1
-
-###DEC-001422-0-000-20-03-1995@@@
-
 DECRETO Nº 1.422, DE 20 DE MARÇO DE 1995
 
 Dispõe sobre a composição e o funcionamento do Conselho Nacional de Metrologia, Normalização e Qualidade Industrial (Conmetro).

@@ -1,5 +1,3 @@
-###DEC-077409-0-000-12-04-1976@@@
-
 DECRETO Nº 77.409 - DE 12 DE ABRIL DE 1976
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado em Natal, Estado do Rio Grande do Norte.

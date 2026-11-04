@@ -1,7 +1,3 @@
-1
-
-###DEC-001590-0-000-10-08-1995@@@
-
 DECRETO Nº 1.590, DE 10 DE AGOSTO DE 1995.
 
 Dispõe sobre a jornada de trabalho dos servidores da Administração Pública Federal direta, das autarquias e das fundações públicas federais, e dá outras providências.

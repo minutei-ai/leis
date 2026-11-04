@@ -1,5 +1,3 @@
-###DEC-049890-0-000-12-01-1961@@@
-
 DECRETO Nº 49.890, DE 12 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44.011, de 8 de julho de 1958.

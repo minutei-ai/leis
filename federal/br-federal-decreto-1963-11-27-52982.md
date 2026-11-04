@@ -1,5 +1,3 @@
-###DEC-052982-0-000-27-11-1963@@@
-
 DECRETO Nº 52.982, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Antônio Pacífico Homem Neto a lavrar minério de ferro no município de Betim, Estado de Minas Gerais.

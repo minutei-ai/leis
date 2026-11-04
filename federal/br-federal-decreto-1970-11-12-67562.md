@@ -1,5 +1,3 @@
-###DEC-067562-0-000-12-11-1970@@@
-
 decreto nº 67.562, de 12 de novembro de 1970.
 
 Regulamenta o artigo 2º item I, do Decreto-lei nº 1.034, de 21 de outubro de 1969.

@@ -1,5 +1,3 @@
-###DEC-076854-0-000-17-12-1975@@@
-
 DECRETO Nº 76.854, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Matemática, da Faculdade de Filosofia, Ciências e Letras, de Patos de Minas, com sede na cidade de Patos de Minas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-057883-0-000-28-02-1966@@@
-
 DECRETO Nº 57.883, DE 28 DE FEVEREIRO DE 1966.
 
 Declara a cessação dos serviços de energia elétrica no Município de Coxim, Estado de Mato Grosso, pelos seus antigos detentores e outorga nova concessão àquela municipalidade.

@@ -1,5 +1,3 @@
-###DEC-007551-0-000-12-08-2011-PUB-01@@@
-
 DECRETO Nº 7.551, DE 12 DE AGOSTO DE 2011.
 
   Dispõe sobre a execução no Território Nacional da Resolução nº 1980, de 28 de abril de 2011, do Conselho de Segurança das Nações Unidas, que renova, até 30 de abril de 2012, o regime de sanções contra a República da Costa do Marfim.

@@ -1,5 +1,3 @@
-###DEC-046706-0-000-24-08-1959@@@
-
 Decreto nº 46.706, de 24 de agôsto de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno, na cidade de Lins, no Estado de São Paulo, que faz ao Ministério da Guerra, a Municipalidade daquela Cidade paulista.

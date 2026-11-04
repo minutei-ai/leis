@@ -1,5 +1,3 @@
-###DEC-056495-0-000-21-06-1965@@@
-
 DECRETO Nº 56.495, DE 21 DE JUNHO DE 1965.
 
 Declara de utilidade pública o Lar São Joaquim, com sede no Município de Valinhos, Estado de São Paulo.

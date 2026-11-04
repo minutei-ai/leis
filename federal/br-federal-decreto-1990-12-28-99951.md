@@ -1,7 +1,3 @@
-1
-
-###DEC-099951-0-000-28-12-1990@@@
-
 # DECRETO Nº 99.951, DE 28 DE DEZEMBRO DE 1990
 
 Dá nova redação ao art. 7º do Decreto nº 97.314, de 20 de dezembro de 1988.

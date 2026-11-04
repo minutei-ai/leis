@@ -1,5 +1,3 @@
-###DEC-071400-0-000-20-11-1972@@@
-
 DECRETO Nº 71.400 - DE 20 DE NOVEMBRO DE 1972.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

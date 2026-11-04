@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cb54d578-6be0-4498-87c6-65eb689bbc91/texto#nowhere)
 
-###DEL-001891-0-000-15-12-1981@@@
-
 # Decreto-lei nº 1.891, de 15 dezembro de 1981
 
 Dispõe sobre a obrigatoriedade do uso de borderôs e Ingressos padronizados, de emissão da EMBRAFILME, pelas salas exibidoras nacionais.

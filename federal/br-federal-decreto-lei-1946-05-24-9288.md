@@ -1,5 +1,3 @@
-###DEL-009288-0-000-24-05-1946@@@
-
 DECRETO-LEI N. 9.288 – DE 24 DE  MAIO DE 1946
 
 Suspende, pelo prazo de seis meses, a cobrança dos direitos de importação e demais taxas aduaneiras para o centeio em grão ou em farinha.

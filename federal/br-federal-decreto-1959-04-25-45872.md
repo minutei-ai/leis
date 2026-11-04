@@ -1,5 +1,3 @@
-###DEC-045872-0-000-25-04-1959@@@
-
 DECRETO Nº 45.872, DE 25 DE ABRIL DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal do Amazonas.

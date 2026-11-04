@@ -26,12 +26,19 @@ FAUSTO VALENÇA DE FREITAS
 
 Governador do Estado em exercício
 
-**<br>
+**
+
 **
 
 # ANEXO I
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="602" style="width:451.5pt;border:outset black 1.0pt"><tbody><tr><td width="50%" style="width:50.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CARGO</span></p></td><td width="50%" style="width:50.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUANTITATIVO</span></p></td></tr><tr><td width="50%" style="width:50.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Desembargador</span></p></td><td width="50%" style="width:50.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">02</span></p></td></tr></tbody></table>
+CARGO
+
+QUANTITATIVO
+
+Desembargador
+
+02
 
 **ANEXO II**
 
@@ -39,7 +46,29 @@ Governador do Estado em exercício
 
 **CARGOS DE PROVIMENTO EM COMISSÃO**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="604" style="width:453.0pt;border:outset black 1.0pt"><tbody><tr><td width="50%" style="width:50.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">DENOMINAÇÃO</span></p></td><td width="28%" style="width:28.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SÍMBOLO</span></p></td><td width="22%" style="width:22.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUANTITATIVO</span></p></td></tr><tr><td width="50%" style="width:50.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">*Assessor Técnico Judiciário</span></p></td><td width="28%" style="width:28.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PJC-II</span></p></td><td width="22%" style="width:22.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">04</span></p></td></tr><tr><td width="50%" style="width:50.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Secretário de Desembargador</span></p></td><td width="28%" style="width:28.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PJC-IV</span></p></td><td width="22%" style="width:22.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">02</span></p></td></tr><tr><td width="50%" style="width:50.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Agente de Transporte e Segurança</span></p></td><td width="28%" style="width:28.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PJC-VI</span></p></td><td width="22%" style="width:22.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">02</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANTITATIVO
+
+*Assessor Técnico Judiciário
+
+PJC-II
+
+04
+
+Secretário de Desembargador
+
+PJC-IV
+
+02
+
+Agente de Transporte e Segurança
+
+PJC-VI
+
+02
 
 **ANEXO III**
 
@@ -47,10 +76,48 @@ Governador do Estado em exercício
 
 **GRUPO JUDICIÁRIO**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="604" style="width:453.0pt;border:outset black 1.0pt"><tbody><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">DENOMINAÇÃO</span></p></td><td width="35%" style="width:35.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">REFERÊNCIA</span></p></td><td width="32%" style="width:32.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUANTITATIVO</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Analista Judiciário</span></p></td><td width="35%" style="width:35.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PJ-IV</span></p></td><td width="32%" style="width:32.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">02</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Técnico Judiciário</span></p></td><td width="35%" style="width:35.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PJ-III</span></p></td><td width="32%" style="width:32.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">04</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+REFERÊNCIA
+
+QUANTITATIVO
+
+Analista Judiciário
+
+PJ-IV
+
+02
+
+Técnico Judiciário
+
+PJ-III
+
+04
 
 **ANEXO IV**
 
 **FUNÇÕES GRATIFICADAS DE REPRESENTAÇÃO DE GABINETE**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="598" style="width:448.5pt;border:outset black 1.0pt"><tbody><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">DENOMINAÇÃO</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SIGLA</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUANTITATIVO</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Auxiliar de Gabinete</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">RG-3</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">02</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Assistente de Gabinete</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">RG-4</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">04</span></p></td></tr><tr><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Motorista</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">RG-3</span></p></td><td width="33%" style="width:33.0%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">02</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SIGLA
+
+QUANTITATIVO
+
+Auxiliar de Gabinete
+
+RG-3
+
+02
+
+Assistente de Gabinete
+
+RG-4
+
+04
+
+Motorista
+
+RG-3
+
+02

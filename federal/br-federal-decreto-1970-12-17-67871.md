@@ -1,5 +1,3 @@
-###DEC-067871-0-000-17-12-1970@@@
-
 DECRETO Nº 67.871, DE 17 DE DEZEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para os Quadros de Pessoal - Parte Especial - do Conselho Nacional de Pesquisas e do Instituto Nacional de Pesquisas da Amazônia, cargos originários dos extintos Serviço de Navegação da Amazônia e de Administração do Porto do Pará e Companhia Nacional de Navegação Costeira.

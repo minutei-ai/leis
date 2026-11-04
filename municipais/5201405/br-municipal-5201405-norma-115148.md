@@ -22,5 +22,6 @@ MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 20 de novembro de 2023.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

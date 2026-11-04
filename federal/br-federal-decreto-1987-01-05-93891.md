@@ -1,5 +1,3 @@
-###DEC-093891-0-000-05-01-1987@@@
-
 # DECRETO N° 93.891, 05 dezembro  DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Bom Pastor", situado em parte dos Municípios de Carutapera, Luís Domingues, Godofredo Viana e Cândido Mendes, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.619, de 02 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e dá outras providências.

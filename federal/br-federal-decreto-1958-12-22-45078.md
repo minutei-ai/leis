@@ -1,5 +1,3 @@
-###DEC-045078-0-000-22-12-1958@@@
-
 DECRETO Nº 45.078, DE 22 DE DEZEMBRO DE 1958.
 
 Altera o Decreto nº 43.849, de 9 de junho de 1958, que suprime cargos do Quadro Suplementar do Ministério da Fazenda.

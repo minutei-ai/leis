@@ -1,5 +1,3 @@
-###DEC-048665-0-000-04-08-1960@@@
-
 DECRETO Nº 48.665, DE 4 DE AGÔSTO DE 1960.
 
 Concede autorização para o funcionamento do curso.

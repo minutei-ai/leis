@@ -1,5 +1,3 @@
-###DEC-070548-0-000-17-05-1972@@@
-
 DECRETO Nº 70.548, DE 17 DE MAIO DE 1972.
 
 Declara sem efeito o Decreto número 52.806, de 5 de novembro de 1963.

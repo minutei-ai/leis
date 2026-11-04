@@ -1,5 +1,3 @@
-###DEC-054454-0-000-14-10-1964@@@
-
 decreto nº 54.454, de 14 de outubro de 1964.
 
 Renova o Decreto nº 49.022, de 4 de outubro de 1960.

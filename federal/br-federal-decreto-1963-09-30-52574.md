@@ -1,5 +1,3 @@
-###DEC-052574-0-000-30-09-1963@@@
-
 DECRETO Nº 52.571, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza a Companhia “Elétrica Cauiá” a alienar imóveis pertencentes ao seu acervo.

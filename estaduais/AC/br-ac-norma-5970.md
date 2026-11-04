@@ -1,6 +1,10 @@
 > **LEI Nº 4.331, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Lei da Transparência e Prestação de Contas na Saúde do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a Lei da Transparência e Prestação de Contas na Saúde do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

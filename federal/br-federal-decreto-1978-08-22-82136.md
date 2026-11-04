@@ -1,5 +1,3 @@
-###DEC-082136-0-000-22-08-1978@@@
-
 Decreto nº 82.136, de 22 de agosto de 1978.
 
 Declara luto oficial

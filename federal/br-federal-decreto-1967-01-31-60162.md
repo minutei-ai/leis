@@ -1,5 +1,3 @@
-###DEC-060162-0-000-31-01-1967@@@
-
 DECRETO Nº 60.162, DE 31 DE JANEIRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação em favor do Banco Centra do República do Brasil, imóveis situados as ruas beneditinos números 1 a 5, Mayrink veiga ns. 11,13,15, e 17 a 21 e Alcântara Machado nº 24, na cidade do Rio de Janeiro.

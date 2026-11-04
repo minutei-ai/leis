@@ -1,5 +1,3 @@
-###MPV-000143-0-000-11-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 143, DE 10 DE DEZEMBRO 2003.
 
        Extingue o Conselho Diretor do Fundo de Garantia à Exportação - CFGE, altera dispositivos da Lei nº 9.818, de 23 de agosto de 1999, e dá outras providências.

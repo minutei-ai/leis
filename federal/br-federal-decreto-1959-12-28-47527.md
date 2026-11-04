@@ -1,5 +1,3 @@
-###DEC-047527-0-000-28-12-1959@@@
-
 DECRETO Nº 47.527, DE 28 DE dezembRO DE 1959.
 
 Autoriza o cidadão brasileiro João Ferreira de Andrade a pesquisar feldspato no município de São Sebastião da Grama, Estado de São Paulo.

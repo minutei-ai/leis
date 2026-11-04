@@ -1,5 +1,3 @@
-###DEL-001133-0-000-16-11-1970@@@
-
 # DECRETO-LEI Nº 1.133, DE 16 DE NOVEMBRO DE 1970
 
 Altera a legislação do impôsto sobre, produtos industrializados e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050910-0-000-05-07-1961@@@
-
 Decreto nº 50.910, de 5 de julho de 1961.
 
 Renova a declaração e utilidade pública a que se refere o Decreto número 36.670, de 28 de dezembro de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público CURIMATAÚ, no Município de Cuité, no Estado da Paraíba.

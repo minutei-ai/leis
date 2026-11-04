@@ -1,14 +1,12 @@
-###DEC-026735-0-000-01-06-1949@@@
+**DECRETO Nº 26.735, DE 1 DE JUNHO DE 1949.**
 
-<strong>DECRETO Nº 26.735, DE 1 DE JUNHO DE 1949.</strong>
+***Declara de utilidade pública diversas áreas de terra que serão inundadas com a construção da barragem do aproveitamento hidroelétrico do rio Pardo, município de Caconde, Estado de São Paulo, em favor da Companhia Geral de Eletricidade e autoriza a mesma a promover as desapropriações.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra que serão inundadas com a construção da barragem do aproveitamento hidroelétrico do rio Pardo, município de Caconde, Estado de São Paulo, em favor da Companhia Geral de Eletricidade e autoriza a mesma a promover as desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o que requereu a interessada, o disposto no art. 151, letras *a* e *b*, do Código de Águas, nos arts. 3º a 5º, letra *h*, 15 do Decreto-lei número 3.365, de 21 de junho de 1941 e parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o que requereu a interessada, o disposto no art. 151, letras <em>a</em> e <em>b</em>, do Código de Águas, nos arts. 3º a 5º, letra <em>h</em>, 15 do Decreto-lei número 3.365, de 21 de junho de 1941 e parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública, nos têrmos dos artigos 3º e 5º, letra <em>h</em>, 15 do Decreto-lei nº 3.365, de 21 de junho de 1941 e no parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, as seguintes áreas de terra que serão inundadas com a construção da barragem do aproveitamento hidroelétrico do rio Pardo, município de Caconde, Estado de São Paulo, em favor da Companhia Geral de Eletricidade, de acôrdo com as plantas apresentadas e aprovadas:
+**Art**. 1º Ficam declaradas de utilidade pública, nos têrmos dos artigos 3º e 5º, letra *h*, 15 do Decreto-lei nº 3.365, de 21 de junho de 1941 e no parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, as seguintes áreas de terra que serão inundadas com a construção da barragem do aproveitamento hidroelétrico do rio Pardo, município de Caconde, Estado de São Paulo, em favor da Companhia Geral de Eletricidade, de acôrdo com as plantas apresentadas e aprovadas:
 
 I - área de 5.920 (cinco mil novecentos e vinte) metros quadrados, de propriedade atribuída a Joaquim Leonel;
 
@@ -28,14 +26,14 @@ VIII - área de 9.050 (nove mil e cinqüenta) metros quadrados, de propriedade a
 
 IX - área de 25.850 (vinte e cinco mil e oitocentos e cinqüenta) metros quadrados, de propriedade atribuída a José Rodrigues de Faria.
 
-<strong>Art</strong>. 2º A Companhia Geral de Eletricidade fica autorizada a promover a desapropriação das referidas áreas de terra com fundamento nos artigos 3º e 5º, alínea <em>h</em>, e 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, e o parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, já citados.
+**Art**. 2º A Companhia Geral de Eletricidade fica autorizada a promover a desapropriação das referidas áreas de terra com fundamento nos artigos 3º e 5º, alínea *h*, e 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, e o parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, já citados.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 1 de junho de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

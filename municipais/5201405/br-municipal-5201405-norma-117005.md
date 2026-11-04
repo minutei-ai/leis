@@ -1,13 +1,15 @@
 LEI MUNICIPAL N° 3.293 DE 30 DE DEZEMBRO DE 2015.
 
-Desafeta e doa área localizada na Gleba A2-Residencial Solar Central Park – Continuação, neste Município, à ACIAG e dá outras providências.<br>
+Desafeta e doa área localizada na Gleba A2-Residencial Solar Central Park – Continuação, neste Município, à ACIAG e dá outras providências.
+
 (Redação alterada pela Lei Ordinária nº 3.305, de 14 de abril de 2016).
 
 ~~Desafeta e doa área localizada no Loteamento Solar Central Park, neste Município, à ACIAG e dá outras providências.~~
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-Art. 1º Fica desafetado do uso comum do povo e transformada em Área Patrimonial do Município, imóvel localizado na Gleba A2-Residencial Solar Central Park – Continuação, neste Município, Gleba A2, com área total de 3.540,41m², sendo pela frente, 39,82 metros em curva para a Rua Orange; pelos fundos, 5,66 metros mais 42,45 metros mais 8,22 metros com a gleba A2-2; pelo lado esquerdo, 54,59 metros mais 6,69 metros em curva com a Gleba A2-3; pelo lado direito, 11,50 metros mais 7,08 metros mais 69,77 metros para a rua Gervásio Pinheiro e com a Gleba A2-2 e; com o Chanfro 7,84 metros em curva.<br>
+Art. 1º Fica desafetado do uso comum do povo e transformada em Área Patrimonial do Município, imóvel localizado na Gleba A2-Residencial Solar Central Park – Continuação, neste Município, Gleba A2, com área total de 3.540,41m², sendo pela frente, 39,82 metros em curva para a Rua Orange; pelos fundos, 5,66 metros mais 42,45 metros mais 8,22 metros com a gleba A2-2; pelo lado esquerdo, 54,59 metros mais 6,69 metros em curva com a Gleba A2-3; pelo lado direito, 11,50 metros mais 7,08 metros mais 69,77 metros para a rua Gervásio Pinheiro e com a Gleba A2-2 e; com o Chanfro 7,84 metros em curva.
+
 (Redação alterada pela Lei Ordinária nº 3.305, de 14 de abril de 2016).
 
 ~~Art. 1º Fica desafetado do uso comum do povo e transformada em Área Patrimonial do Município, imóvel localizado no Loteamento Solar Central Park, neste Município, Gleba A2, com área total de 3.540,41m², sendo pela frente, 39,82 metros em curva para a Rua Orange; pelos fundos, 5,66 metros mais 42,45 metros mais 8,22 metros com a gleba A2-2; pelo lado esquerdo, 54,59 metros mais 6,69 metros em curva com a Gleba A2-3; pelo lado direito, 11,50 metros mais 7,08 metros mais 69,77 metros para a rua Gervásio Pinheiro e com a Gleba A2-2 e; com o Chanfro 7,84 metros em curva.~~
@@ -28,8 +30,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 30 dias do mês de 
 
  
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-EULER DE MORAIS<br>
+EULER DE MORAIS
+
 SECRETÁRIO DE GOVERNO E INTEGRAÇÃO INSTITUCIONAL

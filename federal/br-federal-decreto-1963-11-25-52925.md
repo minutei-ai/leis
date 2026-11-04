@@ -1,5 +1,3 @@
-###DEC-052925-0-000-25-11-1963@@@
-
 Decreto nº 52.925, de 25 de novembro de 1963.
 
 Autoriza o cidadão brasileiro Jacauna Maia a Lavrar cassiterita no município de Porto Velho, Território Federal de Rondônia.

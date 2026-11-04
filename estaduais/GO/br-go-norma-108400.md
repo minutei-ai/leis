@@ -76,7 +76,8 @@ g) Gerência de Consolidação da Legislação;
 
 h) Gerência de Tecnologia de Informação em Legislação; e
 
-i) Assessoria Institucional;<br>
+i) Assessoria Institucional;
+
 \- [Acrescida pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175/decreto-10766).
 
 II – Chefia de Gabinete;
@@ -271,7 +272,8 @@ VII – Gerência de Consolidação da Legislação; 
 
 VIII – Gerência de Tecnologia de Informação em Legislação; e
 
-IX – Assessoria Institucional.<br>
+IX – Assessoria Institucional.
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175/decreto-10766).
 
 Subseção I
@@ -302,33 +304,40 @@ X – substituir o Subsecretário de Legislação e Atos Oficiais nas licenças,
 
 XI – promover a organização do acervo documental da unidade em formato digital na sua área de atuação;
 
-XII – realizar estudos situacionais e análises de cenários de interesse institucional e estratégico para o Secretário de Estado da Casa Civil;<br>
+XII – realizar estudos situacionais e análises de cenários de interesse institucional e estratégico para o Secretário de Estado da Casa Civil;
+
 \- [Redação dada pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101).
 
 ~~XII – realizar estudos situacionais e análises de cenários de interesse institucional, inclusive por meio de atividades de inteligência estratégica de Estado;~~
 
-XIII – manter contato com Casas Civis de outras unidades federativas, também com as dos âmbitos federal e municipal, para a troca de informações e experiências;<br>
+XIII – manter contato com Casas Civis de outras unidades federativas, também com as dos âmbitos federal e municipal, para a troca de informações e experiências;
+
 \- [Redação dada pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101).
 
 ~~XIII – elaborar estudos e relatórios de natureza estratégica para o Secretário de Estado da Casa Civil;~~
 
-XIV – identificar temas jurídicos sensíveis ou de alta complexidade com potencial de repercussão institucional, com a proposição de estratégias de atuação integrada entre órgãos e entidades;<br>
+XIV – identificar temas jurídicos sensíveis ou de alta complexidade com potencial de repercussão institucional, com a proposição de estratégias de atuação integrada entre órgãos e entidades;
+
 \- [Redação dada pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101).
 
 ~~XIV – promover a implementação de medidas de salvaguarda e segurança orgânica da CASA CIVIL e por elas zelar; e~~
 
-XV – revisar minutas de despachos com decisões estratégicas do Secretário e do Governador do Estado antes do encaminhamento definitivo às respectivas autoridades;<br>
+XV – revisar minutas de despachos com decisões estratégicas do Secretário e do Governador do Estado antes do encaminhamento definitivo às respectivas autoridades;
+
 \- [Redação dada pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101).
 
 ~~XV – encarregar–se de competências correlatas.~~
 
-XVI – realizar análise jurídica estratégica, de caráter prospectivo, com foco na identificação de riscos, oportunidades e impactos normativos, para subsidiar o titular da Subsecretaria de Legislação e Atos Oficiais no apoio ao Secretário na coordenação e na tomada de decisões governamentais;<br>
+XVI – realizar análise jurídica estratégica, de caráter prospectivo, com foco na identificação de riscos, oportunidades e impactos normativos, para subsidiar o titular da Subsecretaria de Legislação e Atos Oficiais no apoio ao Secretário na coordenação e na tomada de decisões governamentais;
+
 \- [Acrescido pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101).
 
-XVII – zelar para que o tratamento técnico e jurídico de assuntos prioritários por decisão do Secretário ou do Chefe do Executivo tenham a celeridade e a articulação institucional necessárias à sua efetiva execução; e<br>
+XVII – zelar para que o tratamento técnico e jurídico de assuntos prioritários por decisão do Secretário ou do Chefe do Executivo tenham a celeridade e a articulação institucional necessárias à sua efetiva execução; e
+
 \- [Acrescido pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101).
 
-XVIII – encarregar-se de competências correlatas.<br>
+XVIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101).
 
 Parágrafo único. Para o melhor desempenho das competências a que se referem os incisos XII a XIV deste artigo, poderá ser instituído, por ato do Secretário de Estado da Casa Civil, um sistema de prospecção de informações estratégicas institucionais.
@@ -489,7 +498,8 @@ I – executar as atividades de numerar, datar, registrar e controlar os atos de
 
 II – preparar e enviar para a publicação pela Agência Brasil Central – ABC, no Diário Oficial do Estado de Goiás, os atos assinados pelo Governador e pelo Secretário de Estado da Casa Civil;
 
-~~III – efetuar, para a publicação pela ABC, no Diário Oficial do Estado de Goiás, a remessa das portarias orçamentárias autorizadas pela Secretaria de Estado da Economia – ECONOMIA e registradas no Sistema de Programação e Execução Orçamentária e Financeira – SIOFINet;~~<br>
+~~III – efetuar, para a publicação pela ABC, no Diário Oficial do Estado de Goiás, a remessa das portarias orçamentárias autorizadas pela Secretaria de Estado da Economia – ECONOMIA e registradas no Sistema de Programação e Execução Orçamentária e Financeira – SIOFINet;~~
+
 \- [Revogado pelo Decreto nº 10.811, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111597), art. 1º.
 
 IV – enviar ofícios mensagem e projetos de lei à ALEGO;
@@ -500,7 +510,8 @@ VI – promover a organização do acervo documental da gerência em formato dig
 
 VII – encarregar–se de competências correlatas.
 
-~~Parágrafo único. A eficácia do inciso III do _caput_ deste artigo está condicionada ao devido encaminhamento formal das referidas portarias orçamentárias pela ECONOMIA.~~<br>
+~~Parágrafo único. A eficácia do inciso III do _caput_ deste artigo está condicionada ao devido encaminhamento formal das referidas portarias orçamentárias pela ECONOMIA.~~
+
 \- [Revogado pelo Decreto nº 10.811, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111597), art. 1º.
 
 Subseção VII
@@ -579,64 +590,84 @@ XXIII – encarregar–se de competências correlatas.
 
 Parágrafo único. A Gerência de Tecnologia de Informação em Legislação, sem prejuízo à subordinação administrativa à Subsecretaria de Legislação e Atos Oficiais, fica subordinada técnica e normativamente à Subsecretaria de Tecnologia da Informação, da SGG.
 
-Subseção IX<br>
+Subseção IX
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-Da Assessoria Institucional<br>
+Da Assessoria Institucional
+
  
 
-Art. 15-A. Compete à Assessoria Institucional:<br>
+Art. 15-A. Compete à Assessoria Institucional:
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-I – desempenhar atribuições técnico-operacionais que contribuam para o desenvolvimento institucional da CASA CIVIL;<br>
+I – desempenhar atribuições técnico-operacionais que contribuam para o desenvolvimento institucional da CASA CIVIL;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-II – cooperar para que o processo de transformação digital na CASA CIVIL seja contínuo, garantidas a excelência e a efetividade da atuação institucional;<br>
+II – cooperar para que o processo de transformação digital na CASA CIVIL seja contínuo, garantidas a excelência e a efetividade da atuação institucional;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-III – apoiar a execução dos projetos institucionais voltados à inovação;<br>
+III – apoiar a execução dos projetos institucionais voltados à inovação;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-IV – apoiar o processo de transformação digital da gestão e dos serviços públicos ofertados pela CASA CIVIL, em articulação com as unidades responsáveis;<br>
+IV – apoiar o processo de transformação digital da gestão e dos serviços públicos ofertados pela CASA CIVIL, em articulação com as unidades responsáveis;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-V – monitorar a experiência do usuário com os serviços públicos digitais, com o foco na melhoria da interação dele com os sistemas institucionais, notadamente os relacionados à legislação;<br>
+V – monitorar a experiência do usuário com os serviços públicos digitais, com o foco na melhoria da interação dele com os sistemas institucionais, notadamente os relacionados à legislação;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-VI – pesquisar experiências de usuários em outros entes federativos e em outras esferas de governo para subsidiar melhorias nos serviços digitais da CASA CIVIL;<br>
+VI – pesquisar experiências de usuários em outros entes federativos e em outras esferas de governo para subsidiar melhorias nos serviços digitais da CASA CIVIL;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-VII – buscar soluções tecnológicas para os desafios relacionados à execução de ações e projetos prioritários da CASA CIVIL;<br>
+VII – buscar soluções tecnológicas para os desafios relacionados à execução de ações e projetos prioritários da CASA CIVIL;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-VIII – monitorar continuamente tendências e inovações tecnológicas aplicáveis às atividades da CASA CIVIL;<br>
+VIII – monitorar continuamente tendências e inovações tecnológicas aplicáveis às atividades da CASA CIVIL;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-IX – identificar e avaliar as soluções tecnológicas emergentes, especialmente as que envolvam inteligência artificial com potencial para aprimorar os processos e os serviços disponibilizados ao cidadão, considerados os benefícios, os riscos, os custos, a adequação e os requisitos técnicos de implantação;<br>
+IX – identificar e avaliar as soluções tecnológicas emergentes, especialmente as que envolvam inteligência artificial com potencial para aprimorar os processos e os serviços disponibilizados ao cidadão, considerados os benefícios, os riscos, os custos, a adequação e os requisitos técnicos de implantação;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-X – sugerir requisitos para customizações tecnológicas e integrações com sistemas corporativos, em articulação com as unidades responsáveis;<br>
+X – sugerir requisitos para customizações tecnológicas e integrações com sistemas corporativos, em articulação com as unidades responsáveis;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-XI – identificar as necessidades de integração e a disponibilização de informações com relação a outros órgãos da administração pública estadual que sejam do interesse da CASA CIVIL;<br>
+XI – identificar as necessidades de integração e a disponibilização de informações com relação a outros órgãos da administração pública estadual que sejam do interesse da CASA CIVIL;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-XII – desenvolver painéis informacionais e relatórios que subsidiem a tomada de decisões da alta gestão;<br>
+XII – desenvolver painéis informacionais e relatórios que subsidiem a tomada de decisões da alta gestão;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-XIII – promover o acompanhamento e a atualização contínua dos dados e das informações institucionais da CASA CIVIL, disponibilizados em painéis e relatórios;<br>
+XIII – promover o acompanhamento e a atualização contínua dos dados e das informações institucionais da CASA CIVIL, disponibilizados em painéis e relatórios;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-XIV – atuar na realização de parcerias estratégicas baseadas em novas tecnologias para o desenvolvimento de inteligência em negócios da CASA CIVIL;<br>
+XIV – atuar na realização de parcerias estratégicas baseadas em novas tecnologias para o desenvolvimento de inteligência em negócios da CASA CIVIL;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-XV – colaborar com unidades internas da CASA CIVIL na implementação de iniciativas conjuntas de transformação digital;<br>
+XV – colaborar com unidades internas da CASA CIVIL na implementação de iniciativas conjuntas de transformação digital;
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-XVI – promover a organização do acervo documental da unidade em formato digital na sua área de atuação; e<br>
+XVI – promover a organização do acervo documental da unidade em formato digital na sua área de atuação; e
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
-XVII – encarregar-se de competências correlatas.<br>
+XVII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.766, de 25-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111175).
 
 Seção II

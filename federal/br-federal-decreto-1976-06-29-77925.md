@@ -1,5 +1,3 @@
-###DEC-077925-0-000-29-06-1976@@@
-
 DECRETO Nº 77.925, DE 29 DE JUNHO DE 1976.
 
 Autoriza o funcionamento do curso de Odontologia, da Faculdade de odontologia, da Faculdade de Odontologia, da Faculdade de Odontologia de Santos, com sede na cidade de Santos, Estado de São Paulo.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f3672ac5-1965-4447-963f-f6f995fc52fd/texto#nowhere)
 
-###DEL-001603-0-000-22-02-1978@@@
-
 # Decreto-lei nº 1.603, de 22 de fevereiro de 1978
 
 Fixa o valor do soldo base do calculo da remuneração dos militares e dá nova redação a dispositivo da Lei nº 5.787, de 27 de junho de 1972.

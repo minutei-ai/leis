@@ -1,5 +1,3 @@
-###DEC-062025-0-000-29-12-1967@@@
-
 DECRETO Nº 62.025, DE 29 DE DEZEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel que menciona, necessário ao Ministério da Marinha.
@@ -23,8 +21,6 @@ Brasília, 29 de dezembro de 1967; 146º da Independência e 79º da República.
 A. Costa e Silva
 
 Augusto Hamann Rademacker Grünewald
-
-###DEC-062025-0-000-29-12-1967@@@RET01+++
 
 Decreto nº 62.025, de 29 de Dezembro de 1967.
 

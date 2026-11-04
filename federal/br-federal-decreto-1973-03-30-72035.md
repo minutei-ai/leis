@@ -1,5 +1,3 @@
-###DEC-072035-0-000-30-03-1973@@@
-
 DECRETO Nº 72.035, DE 30 DE MARÇO DE 1973
 
 Autoriza o funcionamento do curso de Pedagogia - licenciatura, no "campus" avançado de Humaitá, AM, a ser ministrado pela Faculdade de Filosofia, Ciências e Letras Sagrado Coração de Jesus, em Bauru, SP.

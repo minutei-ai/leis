@@ -1,5 +1,3 @@
-###DEL-003439-0-000-18-07-1941@@@
-
 DECRETO-LEI N. 3.439 – DE 18 DE JULHO DE 1941
 
 Extende aos Ministros militares do Supremo Tribunal Militar as vantagens concedidas pelo decreto-lei n. 3.364, de 21 de junho de de 1941.

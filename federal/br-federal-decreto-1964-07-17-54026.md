@@ -1,5 +1,3 @@
-###DEC-054026-0-000-17-07-1964@@@
-
 DECRETO nº 54.026, de 17 de julho de 1964.
 
 Define as atribuições do Ministério de Estado Extraordinário para a coordenação dos Organismos Regionais e dá outras providências.

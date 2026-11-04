@@ -1,5 +1,3 @@
-###DEC-081546-0-000-10-04-1978@@@
-
 Decreto nº 81.546, de 10 de abril de 1978.
 
 Declara sem efeito o Decreto nº 69.854, de 29 de dezembro de 1971, que concedeu à Mineração Jundu S. A. o direito de lavrar feldspato no Município de Colatina, Estado do Espírito Santo.

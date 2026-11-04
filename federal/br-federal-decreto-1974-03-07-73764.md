@@ -1,5 +1,3 @@
-###DEC-073764-0-000-07-03-1974@@@
-
 decreto nº 73.764, de 7 de março de 1974.
 
 Redistribui cargo, com a respectiva ocupante, para o Quadro de Pessoal do Ministério da Saúde, e dá outras providências.

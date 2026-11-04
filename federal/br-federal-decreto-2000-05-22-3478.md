@@ -1,5 +1,3 @@
-###DEC-003478-0-000-22-05-2000@@@
-
 Decreto nº 3.478, de 22 de maio de 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.140, de 16 de agosto de 1999.

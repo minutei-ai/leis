@@ -1,5 +1,3 @@
-###DEC-052040-0-000-22-05-1963@@@
-
 DECRETO Nº 52.040, DE 22 DE MAIO DE 1963.
 
 Estabelece a estruturação básica das Diretorias Gerais, dos Comandos de Zona Aérea, dos Comandos Aéreos e do Centro Técnico de Aeronáutica.

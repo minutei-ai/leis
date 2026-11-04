@@ -1,5 +1,3 @@
-###DEC-058220-0-000-19-04-1966@@@
-
 DECRETO Nº 58.220, DE 19 DE ABRIL DE 1966.
 
 Inclui servidor em cargo existente no Ministério da Justiça e Negócios Interiores.

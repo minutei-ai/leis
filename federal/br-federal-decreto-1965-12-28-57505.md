@@ -1,5 +1,3 @@
-###DEC-057505-0-000-28-12-1965@@@
-
 DECRETO Nº 57.505, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Dom Jardim da Paixão a pesquisar quartzo e pedras coradas no município de Ataleia, Estado de Minas Gerais.

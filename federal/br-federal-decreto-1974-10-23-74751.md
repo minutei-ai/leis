@@ -1,5 +1,3 @@
-###DEC-074751-0-000-23-10-1974@@@
-
 DECRETO Nº 74.751, DE 23 DE OUTUBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A. - CELG, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-047689-0-000-20-01-1960@@@
-
 DECRETO Nº 47.689, DE 20 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Walter Bezerra de Sá a pesquisar mica no município de Quixeramobim, Estado do Ceará.

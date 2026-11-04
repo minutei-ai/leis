@@ -1,5 +1,3 @@
-###DEC-072656-0-000-20-08-1973@@@
-
 Decreto Nº 72.656, DE 20 DE AGOSTO DE 1973.
 
 Concede a Sebastião Teixeira de Mello, firma individual, o direito de lavrar caulim, no Município de Suzano, Estado de São Paulo.

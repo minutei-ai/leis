@@ -1,5 +1,3 @@
-###DEC-078631-0-000-27-10-1976@@@
-
 DECRETO Nº 78.631, DE 27 DE OUTUBRO DE 1976.
 
 Concede reconhecimento aos cursos de Agronomia, de Engenharia Florestal e de Zootecnia, da Universidade Federal de Viçosa, com sede na cidade de Viçosa, Estado de Minas Gerais.

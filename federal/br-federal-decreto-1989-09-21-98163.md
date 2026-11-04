@@ -1,7 +1,3 @@
-1
-
-###DEC-098163-0-000-21-09-1989@@@
-
 DECRETO Nº 98.163, DE 21 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA PICOS”, situado no Município de Januária, Estado de Minas Gerais, e dá outras providências.

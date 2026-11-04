@@ -1,5 +1,3 @@
-###DEL-001380-0-000-23-12-1974@@@
-
 # DECRETO-LEI Nº 1.380, DE 23 DE DEZEMBRO DE 1974
 
 Altera a tributação dos rendimentos de pessoa física e dá outras providências.
@@ -32,7 +30,25 @@ Art. 7º Estão isentos do imposto de que trata o artigo 77, da Lei número 3.47
 
 Art. 8º A partir do exercício financeiro de 1975, as pessoas físicas domiciliadas no Brasil que recebam rendimentos de trabalho assalariado, em moeda estrangeira, de autarquias ou repartições do Governo brasileiro, situadas no exterior, sofrerão desconto do imposto de renda na fonte, mediante a aplicação das seguintes alíquotas progressivas sobre o rendimento bruto auferido:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:285.2pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Classes de Rendimento Bruto US$ 1.00</span></p></td><td style="width:119.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Alíquotas</span></p></td></tr><tr><td style="width:285.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Até ........................................600 ..........................................</span></p></td><td style="width:119.3pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Isento</span></p></td></tr><tr><td style="width:285.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>De .........................................601 a 1.500 ..............................</span></p></td><td style="width:119.3pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>3%</span></p></td></tr><tr><td style="width:285.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>De .........................................1.501 a 3.000.............................</span></p></td><td style="width:119.3pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>5%</span></p></td></tr><tr><td style="width:285.2pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Acima de ...............................3.000 ........................................</span></p></td><td style="width:119.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>8%</span></p></td></tr></tbody></table>
+Classes de Rendimento Bruto US$ 1.00
+
+Alíquotas
+
+Até ........................................600 ..........................................
+
+Isento
+
+De .........................................601 a 1.500 ..............................
+
+3%
+
+De .........................................1.501 a 3.000.............................
+
+5%
+
+Acima de ...............................3.000 ........................................
+
+8%
 
 § 1º O imposto de que trata este artigo será cobrado como antecipação do que for apurado na declaração de rendimentos, que deverá ser apresentada, anualmente, nas mesmas condições estipuladas para as pessoas físicas residentes no país.
 

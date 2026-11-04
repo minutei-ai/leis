@@ -1,5 +1,3 @@
-###DEC-058164-0-000-11-04-1966@@@
-
 DECRETO Nº 58.164, DE 11 DE ABRIL DE 1966.
 
 Concede à sociedade Navegação Progresso Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

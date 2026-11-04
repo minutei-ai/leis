@@ -1,5 +1,3 @@
-###DEC-072559-0-000-31-07-1973@@@
-
 DECRETO Nº 72.559, DE 31 DE JULHO DE 1973.
 
 Retifica ato de retribuição de cargo, com o respectivo ocupante, para, com o respectivo ocupante, do Ministério da Marinha.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209080)<br>
-
 # DECRETO N° 68.310, DE 18 DE JANEIRO DE 2024
 
 ### _Autoriza a Fazenda do Estado de São Paulo a instituir servidão administrativa e a permitir o uso, a título oneroso e por prazo indeterminado, em favor da Companhia de Saneamento Básico do Estado de São Paulo - SABESP, das áreas que especifica, e dá providências correlatas._

@@ -1,7 +1,3 @@
-1
-
-###MPV-000860-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 860, DE 27 DE JANEIRO DE 1995
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados das empresas e dá outras providências.

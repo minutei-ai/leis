@@ -1,5 +1,3 @@
-###DEC-056736-0-000-17-08-1965@@@
-
 DECRETO Nº 56.736, DE 17 DE AGÔSTO DE 1965.
 
 Outorga à Companhia de Eletricidade do Cariri concessão para distribuir energia elétrica em vários município do Estado do Ceará.

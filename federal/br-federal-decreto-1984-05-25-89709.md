@@ -1,5 +1,3 @@
-###DEC-089709-0-000-25-05-1984@@@
-
 Decreto nº 89.709 de 25 de maio de 1984
 
 Autoriza O funcionamento da Faculdade de Odontologia de Barretos, São Paulo.

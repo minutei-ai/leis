@@ -1,5 +1,3 @@
-###DEC-061922-0-000-19-12-1967@@@
-
 DECRETO Nº 61.922, DE 19 DE DEZEMBRO DE 1967.
 
 Aprova o “Regulamento para serviços de sinalização náutica”.

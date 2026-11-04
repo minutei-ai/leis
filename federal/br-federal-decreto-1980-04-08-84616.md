@@ -1,5 +1,3 @@
-###DEC-084616-0-000-08-04-1980@@@
-
 DECRETO Nº 84.616, DE 08 DE ABRIL DE 1980
 
 Fixa a categoria e a precedência da Medalha "Bartolomeu de Gusmão".

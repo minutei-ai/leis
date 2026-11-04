@@ -1,5 +1,3 @@
-###DEC-054002-0-000-03-07-1964@@@
-
 decreto nº 54.002, de 03 de julho de 1964.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Fazenda.

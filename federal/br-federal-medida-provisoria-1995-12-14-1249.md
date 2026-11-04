@@ -1,7 +1,3 @@
-1
-
-###MPV-001249-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.249, de 14 de DEZEMBRO de 1995.
 
 Dispõe sobre as contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP, e dá outras providências.

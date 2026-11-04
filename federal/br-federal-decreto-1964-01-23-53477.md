@@ -1,5 +1,3 @@
-###DEC-053477-0-000-23-01-1964@@@
-
 DECRETO Nº 53.477, de 23 de janeiro de 1964.
 
 Concede reconhecimento a cursos da Faculdade de Filosofia, Ciências e Letras de Uberlândia, Estudo de Minas Gerais.

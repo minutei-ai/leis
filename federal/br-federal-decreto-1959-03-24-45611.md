@@ -1,5 +1,3 @@
-###DEC-045611-0-000-24-03-1959@@@
-
 Decreto nº 45.611, de 24 de março de 1959.
 
 Cassa a autorização concedida para funcionamento do curso de Educação Física Infantil do Instituto de Educação de Minas Gerais.

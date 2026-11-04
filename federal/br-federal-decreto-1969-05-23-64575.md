@@ -1,5 +1,3 @@
-###DEC-064575-0-000-23-05-1969@@@
-
 DECRETO Nº 64.575, DE 23 DE MAIO DE 1869.
 
 Revoga o Decreto n.º 58.855, de 15 de julho de 1966, que suspendeu o funcionamento da "União Nacional dos Agentes Fiscais do Imposto Aduaneiro - (UNAFIA).

@@ -1,5 +1,3 @@
-###MPV-001980-0-026\-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-26, DE 21 de dezembro de 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

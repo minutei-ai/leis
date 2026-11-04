@@ -1,5 +1,3 @@
-###DEC-083440-0-000-10-05-1979@@@
-
 decreto nº 83.440, de 10 de maio de 1979.
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Administração, da Faculdade de Ciências Econômicas, Contábeis e Administrativas de Cachoeira do Sul, com sede na cidade de Cachoeira do Sul, Estado do Rio Grande do Sul.

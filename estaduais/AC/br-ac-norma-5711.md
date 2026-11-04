@@ -1,6 +1,10 @@
 > **LEI Nº 4.159, DE 09 DE AGOSTO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade de afixação de cartaz em estabelecimentos comerciais e entidades públicas, informando a respeito da criminalização de atos discriminatórios motivados por preconceito de raça, cor, etnia, religião, precedência nacional e em virtude de orientação sexual e de gênero.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade de afixação de cartaz em estabelecimentos comerciais e entidades públicas, informando a respeito da criminalização de atos discriminatórios motivados por preconceito de raça, cor, etnia, religião, precedência nacional e em virtude de orientação sexual e de gênero.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

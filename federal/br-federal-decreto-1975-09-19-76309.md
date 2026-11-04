@@ -1,5 +1,3 @@
-###DEC-076309-0-000-19-09-1975@@@
-
 DECRETO Nº 76.309 - DE 19 DE SETEMBRO DE 1975
 
 Concede autorização ao Centro Francês de Exploração dos Oceanos para realizar, no mar territorial e plataforma continental do Brasil, os serviços que especifica.

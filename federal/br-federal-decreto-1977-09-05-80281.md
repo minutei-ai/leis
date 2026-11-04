@@ -1,5 +1,3 @@
-###DEC-080281-0-000-05-09-1977@@@
-
 Decreto nº 80.281, de 5 de setembro de 1977.
 
 Regulamenta a Residência Médica, cria a Comissão Nacional de Residência Médica e dá outras providências.

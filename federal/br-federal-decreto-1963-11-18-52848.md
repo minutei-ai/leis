@@ -1,5 +1,3 @@
-###DEC-052848-0-000-18-11-1963@@@
-
 DECRETO Nº 52.848, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Giovanni Lantieri a pesquisar caulim, no município de Arujá, Estado de São Paulo.

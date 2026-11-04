@@ -312,136 +312,34 @@ MAURÍCIO ELISEU COSTA ROMÃO
 
 JOSÉ ARLINDO SOARES
 
-<br>
-
 **ANEXO I**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:5.4pt;border-collapse:collapse;border:none"><tbody><tr><td width="232" valign="top" style="width:174.0pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">CARGO</span></b></p></td><td width="360" valign="top" style="width:270.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">QUANTITATIVO</span></b></p></td></tr><tr><td width="232" valign="top" style="width:174.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Juiz de Direito de 3ª Entrância</span></p></td><td width="360" valign="top" style="width:270.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">19</span></p></td></tr><tr><td width="232" valign="top" style="width:174.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Juiz de Direito de 2ª Entrância</span></p></td><td width="360" valign="top" style="width:270.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">04</span></p></td></tr></tbody></table>
+**CARGO**
+
+**QUANTITATIVO**
+
+Juiz de Direito de 3ª Entrância
+
+19
+
+Juiz de Direito de 2ª Entrância
+
+04
 
 **ANEXO II**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="margin-left:5.4pt;border-collapse:collapse"><tbody><tr style="page-break-inside:avoid"><td width="592" colspan="3" valign="top" style="width:444.0pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">CARGOS DE PROVIMENTO EFETIVO</span></b></p></td></tr><tr><td width="256" valign="top" style="width:192.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">DENOMINAÇÃO</span></b></p></td><td width="152" valign="top" style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">REFERÊNCIA</span></b></p></td><td width="184" valign="top" style="width:138.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">QUANTITATIVO</span></b></p></td></tr><tr><td width="256" valign="top" style="width:192.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Técnico Judiciário de 3ª Entrância</span></p></td><td width="152" valign="top" style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">PJ-V</span></p></td><td width="184" valign="top" style="width:138.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">36</span></p></td></tr><tr><td width="256" valign="top" style="width:192.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Assistente Judiciário de 3ª Entrância</span></p></td><td width="152" valign="top" style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">PJ-IV</span></p></td><td width="184" valign="top" style="width:138.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">18</span></p></td></tr><tr><td width="256" valign="top" style="width:192.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Atendente Judiciário de 3ª Entrância</span></p></td><td width="152" valign="top" style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">PJ-II</span></p></td><td width="184" valign="top" style="width:138.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">18</span></p></td></tr><tr><td width="256" valign="top" style="width:192.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Oficial de Justiça de 3ª Entrância</span></p></td><td width="152" valign="top" style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">PJ-V</span></p></td><td width="184" valign="top" style="width:138.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">36</span></p></td></tr><tr><td width="256" valign="top" style="width:192.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Técnico Judiciário de 2ª Entrância</span></p></td><td width="152" valign="top" style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">PJ-IV</span></p></td><td width="184" valign="top" style="width:138.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">04</span></p></td></tr><tr><td width="256" valign="top" style="width:192.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Assistente Judiciário de 2ª Entrância</span></p></td><td width="152" valign="top" style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">PJ-III</span></p></td><td width="184" valign="top" style="width:138.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">04</span></p></td></tr><tr><td width="256" valign="top" style="width:192.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Auxiliar Judiciário de 2ª Entrância&nbsp;</span></p></td><td width="152" valign="top" style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">PJ-II</span></p></td><td width="184" valign="top" style="width:138.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">04</span></p></td></tr><tr><td width="256" valign="top" style="width:192.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Oficial de Justiça de 2ª Entrância</span></p></td><td width="152" valign="top" style="width:114.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">PJ-IV</span></p></td><td width="184" valign="top" style="width:138.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">08</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> **CARGOS DE PROVIMENTO EFETIVO** </td></tr><tr><td valign="top"> **DENOMINAÇÃO** </td><td valign="top"> **REFERÊNCIA** </td><td valign="top"> **QUANTITATIVO** </td></tr><tr><td valign="top"> Técnico Judiciário de 3ª Entrância </td><td valign="top"> PJ-V </td><td valign="top"> 36 </td></tr><tr><td valign="top"> Assistente Judiciário de 3ª Entrância </td><td valign="top"> PJ-IV </td><td valign="top"> 18 </td></tr><tr><td valign="top"> Atendente Judiciário de 3ª Entrância </td><td valign="top"> PJ-II </td><td valign="top"> 18 </td></tr><tr><td valign="top"> Oficial de Justiça de 3ª Entrância </td><td valign="top"> PJ-V </td><td valign="top"> 36 </td></tr><tr><td valign="top"> Técnico Judiciário de 2ª Entrância </td><td valign="top"> PJ-IV </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Assistente Judiciário de 2ª Entrância </td><td valign="top"> PJ-III </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Auxiliar Judiciário de 2ª Entrância&nbsp; </td><td valign="top"> PJ-II </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Oficial de Justiça de 2ª Entrância </td><td valign="top"> PJ-IV </td><td valign="top"> 08 </td></tr></tbody></table>
 
 **ANEXO III**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:5.4pt;border-collapse:collapse;border:none"><tbody><tr><td width="248" valign="top" style="width:186.0pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">FUNÇÕES GRATIFICADAS</span></b></p></td><td width="160" valign="top" style="width:120.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">SÍMBOLO</span></b></p></td><td width="184" valign="top" style="width:138.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">QUANTITATIVO</span></b></p></td></tr><tr><td width="248" valign="top" style="width:186.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:-1.1pt;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Função Gerencial Gratificada</span></p></td><td width="160" valign="top" style="width:120.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">FGG-1</span></p></td><td width="184" valign="top" style="width:138.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:-1.1pt;text-align:center;
-  text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">22</span></p></td></tr></tbody></table>
+**FUNÇÕES GRATIFICADAS**
+
+**SÍMBOLO**
+
+**QUANTITATIVO**
+
+Função Gerencial Gratificada
+
+FGG-1
+
+22

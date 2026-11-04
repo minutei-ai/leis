@@ -1,5 +1,3 @@
-###DEL-006964-0-000-17-10-1944@@@
-
 DECRETO-LEI N. 6.964 – DE 17 DE OUTUBRO DE 1944
 
 Dispõe sôbre o recolhimento ao Tesouro Nacional, pelo Instituto dos Resseguros do Brasil, das contribuições previstas no art. 109 dos seus Estatutos.

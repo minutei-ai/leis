@@ -1,5 +1,3 @@
-###DEC-081682-0-000-18-05-1978@@@
-
 Decreto nº 81.682, de 18 de maio de 1978
 
 Autoriza a converção dos cursos de Física, Química e Matemática, em curso de Ciências da Universidade Federal da Paraíba, com sede na cidade de João Pessoa, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-089812-0-000-19-06-1984@@@
-
 Decreto nº 89.812, de 19 de junho de 1984
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Capão Verde", situado no Município de Alto Paraguai, no Estado de Mato Grosso, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.811, de 19 de junho de 1984.

@@ -1,5 +1,3 @@
-###DEL-000074-0-000-16-12-1937@@@
-
 DECRETO-LEI N. 74 – DE 16 DE DEZEMBRO DE 1937
 
 Dispõe sobre a organização do Conselho Federal de Comércio Exterior

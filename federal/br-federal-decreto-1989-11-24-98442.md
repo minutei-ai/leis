@@ -1,7 +1,3 @@
-1
-
-###DEC-098442-0-000-24-11-1989@@@
-
 DECRETO Nº 98.442, DE 24 DE NOVEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Ciência da Computação das Faculdades Associadas de São Paulo.

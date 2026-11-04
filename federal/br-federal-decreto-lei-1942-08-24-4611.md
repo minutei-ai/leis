@@ -1,5 +1,3 @@
-###DEL-004611-0-000-24-08-1942@@@
-
 DECRETO-LEI N. 4.611 – DE 24 DE AGOSTO DE 1942
 
 lncorpora ao patrimônio nacional navios de nacionalidade alemã ou italiana

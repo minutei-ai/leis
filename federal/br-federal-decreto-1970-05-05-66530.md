@@ -1,5 +1,3 @@
-###DEC-066530-0-000-05-05-1970@@@
-
 DECRETO Nº 66.530, DE 5 DE MAIO DE 1970.
 
 Declara sem efeito o Decreto número 48.302 de 17 de junho de 1960.

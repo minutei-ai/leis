@@ -1,5 +1,3 @@
-###DEC-081911-0-000-11-07-1978@@@
-
 Decreto nº 81.911, de 11 de julho de 1978.
 
 Concede à CIPLAN - Indústria e Comércio de Produtos Calcários e de Mármore S.A. o direito  de lavrar argila no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-051271-0-000-25-08-1961@@@
-
 DECRETO Nº 51.271, DE 25 DE AGÔSTO DE 1961.
 
 Transfere da Prefeitura Municipal de Oliveira para a Centrais Elétricas de Minas Gerais S.A. (CEMIG) a concessão para o fornecimento de energia elétrica à sede do Município de Oliveira, Estado de Minas Gerais.

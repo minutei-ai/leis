@@ -1,5 +1,3 @@
-###DEL-001387-0-000-07-01-1975@@@
-
 # DECRETO-LEI Nº 1.387, DE 7 DE JANEIRO DE 1975
 
 Altera a alínea “j”, do item II, do artigo 13, da Lei nº 4.452, de 05 de novembro de 1964, que altera a legislação do Imposto único sobre combustíveis e lubrificantes líquidos e gasosos.

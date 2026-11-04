@@ -1,5 +1,3 @@
-###DEC-001982-0-000-14-08-1996@@@
-
 DECRETO Nº 1.982, DE 14 DE AGOSTO DE 1996.
 
 Dá nova redação ao caput e aos incisos do art. 3º do Decreto nº 1.538, de 27 de junho de 1995, que cria o Grupo Executivo de Repressão ao Trabalho Forçado.

@@ -1,6 +1,4 @@
-###DEL-006393-0-000-31-03-1944@@@
-
- DECRETO-LEI N. 6.393 – DE 31 DE MARÇO DE 1944
+DECRETO-LEI N. 6.393 – DE 31 DE MARÇO DE 1944
 
 Transfere ao Banco do Brasil S.A. o encargo de liquidar as operações remanescentes dos estabelecimentos bancários de que trata o Decreto-lei n. 4.612, de 24 de agôsto de 1942, e dá outras providências
 

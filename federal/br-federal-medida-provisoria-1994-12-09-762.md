@@ -1,7 +1,3 @@
-1
-
-###MPV-000762-0-000-09-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 762, DE 09 DE DEZEMBRO DE 1994
 
 Dispõe sobre a aplicação dos direitos previstos no Acordo Antidumping e no Acordo de Subsídios e Direitos Compensatórios, e dá outras providências.

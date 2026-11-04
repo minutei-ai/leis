@@ -1,5 +1,3 @@
-###DEC-059083-0-000-16-08-1966@@@
-
 DECRETO Nº 59.083, de 16 de agôsto de 1966.
 
 Declara de utilidade pública o Lar das Meninas “Santa Gertrudes”, com sede em Goiânia, Estado de Goiás.

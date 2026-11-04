@@ -1,7 +1,3 @@
-1
-
-###DEC-097803-0-000-06-06-1989@@@
-
 DECRETO Nº 97.803, DE 06 DE JUNHO DE 1989
 
 Autoriza o funcionamento do curso de Pedagogia do Centro de Ensino Integrado de Rondonópolis, no Estado do Mato Grosso.

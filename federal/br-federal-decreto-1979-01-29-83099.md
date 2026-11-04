@@ -1,5 +1,3 @@
-###DEC-083099-0-000-29-01-1979@@@
-
 Decreto nº 83.099, de 29 de janeiro de 1979
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Administração de Empresas de Governador Valadares, com sede na cidade de Governador Valadares, Estado de Minas Gerais.

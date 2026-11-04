@@ -1,6 +1,10 @@
 > **LEI Nº 4.555, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o dia estadual de alerta sobre o uso excessivo de álcool.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o dia estadual de alerta sobre o uso excessivo de álcool.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

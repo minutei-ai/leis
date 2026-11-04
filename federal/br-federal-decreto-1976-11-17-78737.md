@@ -1,5 +1,3 @@
-###DEC-078737-0-000-17-11-1976@@@
-
 DECRETO Nº 78.737, DE 17 DE NOVEMBRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Minas Gerais.
@@ -21,8 +19,6 @@ ERNESTO GEISEL
 Sylvio Frota
 
 Mário Henrique Simonsen
-
-###DEC-078737-0-000-17-11-1976@@@RET01++
 
 DECRETO Nº 78.737, DE 17 DE NOVEMBRO DE 1976.
 

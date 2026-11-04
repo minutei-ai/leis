@@ -1,5 +1,3 @@
-###DEC-080756-0-000-16-11-1977@@@
-
 Decreto nº 80.756, de 16 de novembro de 1977.
 
 Declara de utilidade pública, para fins de desapropriação total, imóvel constituído por prédio e respectivo terreno situado no município do Rio de Janeiro, no Estado do Rio de Janeiro.

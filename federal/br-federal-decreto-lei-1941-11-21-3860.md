@@ -1,5 +1,3 @@
-###DEL-003860-0-000-21-11-1941@@@
-
 DECRETO-LEI N. 3.860 – DE 21 DE NOVEMBRO DE 1941
 
 Concede distintivo do Curso de Alto Comando do Exército Brasileiro

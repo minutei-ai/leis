@@ -1,5 +1,3 @@
-###DEC-005477-0-000-24-06-2005@@@
-
 DECRETO Nº 5.477, DE 24 DE JUNHO DE 2005
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Interligado Nacional - SIN, determina à Agência Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento dos processos de licitação dessas concessões, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089681-0-000-17-05-1984@@@
-
 Decreto nº 89.681, de 17 de maio de 1984.
 
 Declara de interesse social, para fins desapropriação, o imóvel rural denominado "Gleba Santana", situado no Município de Coroatá, no Estado do Maranhão, compreendida na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 70.220, de 01/03/72, alterado pelos Decretos nºs 71.195, de 04/10/72, 79.288, de 16/02/77, e 87.096, de 16/04/82.

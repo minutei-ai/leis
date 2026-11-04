@@ -1,5 +1,3 @@
-###DEL-005072-0-000-11-12-1942@@@
-
 DECRETO-LEi N. 5.072 – DE 11 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 49.800,00, para atender às despesas que especifica

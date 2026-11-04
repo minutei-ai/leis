@@ -1,5 +1,3 @@
-###DEC-079502-0-000-13-04-1977@@@
-
 DECRETO Nº 79.502, DE 13 DE abril DE 1977.
 
 Declara sem efeito o Decreto número 69.608, de 26 de novembro de 1971, que concedeu à Siderúrgica Barra Mansa S.A., o Direito de lavrar argila no Município de Barra Mansa, Estado do Rio de Janeiro.

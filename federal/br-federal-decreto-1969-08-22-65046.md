@@ -1,5 +1,3 @@
-###DEC-065046-0-000-22-08-1969@@@
-
 DECRETO Nº 65.046 - DE 22 DE AGÔSTO DE 1969.
 
 Altera a redação do artigo 2º do Decreto nº 63.775, de 11 de dezembro de 1968, que dispõe sôbre a composição do GEIDA.

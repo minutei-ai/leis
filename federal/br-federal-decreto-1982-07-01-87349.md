@@ -1,5 +1,3 @@
-###DEC-087349-0-000-01-07-1982@@@
-
 Decreto nº 87.349, de 01 de julho de 1982.
 
 Acrescenta parágrafo ao artigo 1º do Decreto nº 86.763, de 22 de dezembro de 1981, que "Regula os valores das indenizações devidas aos militares das Forças Armadas e dá outras providências".

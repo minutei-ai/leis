@@ -1,5 +1,3 @@
-###DEC-004547-0-000-27-12-2002@@@
-
 DECRETO N. 4.547 – DE 27 DE DEZEMBRO DE 2002
 
 Dispõe sobre a extinção de cargos efetivos no âmbito da Administração Pública Federal.
@@ -25,7 +23,7 @@ CARGOS EFETIVOS VAGOS MANTIDOS SOB A RESPONSABILIDADE DO SIPEC EXTINTOS
 a) Cargos de nível superior
 
 <table>
-<tr><td><strong>NÍVEL</strong></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO DO CARGO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td>**NÍVEL**</td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO DO CARGO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td>NS</td><td>078003</td><td>ADMINISTRAÇÃO E PLANEJAMENTO</td><td>1</td></tr>
 <tr><td>NS</td><td>033041</td><td>ANALISTA DE DESENV CIENTIF E TECNOLÓGICO</td><td>2</td></tr>
 <tr><td>NS</td><td>088060</td><td>ANALISTA DE RECURSOS HUMANOS IV</td><td>1</td></tr>
@@ -121,7 +119,7 @@ a) Cargos de nível superior
 b) Cargos de nível intermediário
 
 <table>
-<tr><td colspan="2"><strong>NÍVEL</strong></td><td colspan="2"><strong>CÓDIGO</strong></td><td colspan="2"><strong>DENOMINAÇÃO DO CARGO</strong></td><td colspan="2"><strong>QUANTIDADE</strong></td></tr>
+<tr><td colspan="2">**NÍVEL**</td><td colspan="2">**CÓDIGO**</td><td colspan="2">**DENOMINAÇÃO DO CARGO**</td><td colspan="2">**QUANTIDADE**</td></tr>
 <tr><td colspan="2">NI</td><td colspan="2">046067</td><td colspan="2">ADJUNTO ADMINISTRATIVO</td><td colspan="2">1</td></tr>
 <tr><td colspan="2">NI</td><td colspan="2">008001</td><td colspan="2">AGENTE ADMINISTRATIVO</td><td colspan="2">505</td></tr>
 <tr><td colspan="2">NI</td><td colspan="2">026002</td><td colspan="2">AGENTE ADMINISTRATIVO</td><td colspan="2">3</td></tr>
@@ -216,7 +214,7 @@ b) Cargos de nível intermediário
 c) Cargos de nível auxiliar
 
 <table>
-<tr><td><strong>NÍVEL</strong></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO DO CARGO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td>**NÍVEL**</td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO DO CARGO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td>NA</td><td>010054</td><td>AGENTE OPERAC DE TELEC E ELETRICIDADE</td><td>3</td></tr>
 <tr><td>NA</td><td>007053</td><td>ARTÍFICE DE ELETRIC E COMUNICAÇÕES</td><td>3</td></tr>
 <tr><td>NA</td><td>007051</td><td>ARTÍFICE DE ESTR. DE OBRAS E METALURGIA</td><td>2</td></tr>
@@ -228,20 +226,32 @@ c) Cargos de nível auxiliar
 
 d) Resumo
 
-<table>
-<tr><td>CARGOS</td><td>QUANTIDADE</td></tr>
-<tr><td>NÍVEL SUPERIOR</td><td>433</td></tr>
-<tr><td>NÍVEL INTERMEDIÁRIO</td><td>1.117</td></tr>
-<tr><td>NÍVEL AUXILIAR</td><td>14</td></tr>
-<tr><td>TOTAL</td><td>1.564</td></tr>
-</table>
+CARGOS
+
+QUANTIDADE
+
+NÍVEL SUPERIOR
+
+433
+
+NÍVEL INTERMEDIÁRIO
+
+1.117
+
+NÍVEL AUXILIAR
+
+14
+
+TOTAL
+
+1.564
 
 ANEXO II
 
 CARGOS EFETIVOS VAGOS DO QUADRO DE PESSOAL DO MEC EXTINTOS
 
 <table>
-<tr><td><strong>NÍVEL</strong></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO DO CARGO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td>**NÍVEL**</td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO DO CARGO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td>NS</td><td>009027</td><td>TÉCNICO EM ASSUNTOS EDUCACIONAIS</td><td>115</td></tr>
 <tr><td>NI</td><td>044059</td><td>TÉCNICOS NÍVEL MÉDIO</td><td>51</td></tr>
 <tr><td colspan="3">TOTAL</td><td>166</td></tr>
@@ -252,8 +262,8 @@ ANEXO III
 CARGOS EFETIVOS VAGOS EXTINTOS NO QUADRO DE PESSOAL DAS INSTITUIÇÕES FEDERAIS DE ENSINO SUPERIOR – IFES
 
 <table>
-<tr><td colspan="2"><strong>IFES</strong></td><td colspan="5"><strong>CARGOS</strong></td></tr>
-<tr><td><strong>COD</strong></td><td colspan="2"><strong>SIGLA</strong></td><td><strong>NÍVEL</strong></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td colspan="2">**IFES**</td><td colspan="5">**CARGOS**</td></tr>
+<tr><td>**COD**</td><td colspan="2">**SIGLA**</td><td>**NÍVEL**</td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td></td><td colspan="2"></td><td>NA</td><td>065019</td><td>CARPINTEIRO</td><td>1</td></tr>
 <tr><td></td><td colspan="2"></td><td>NI</td><td>062051</td><td>DATILOGRAFO DE TEXTOS GRAFICOS</td><td>1</td></tr>
 <tr><td></td><td colspan="2"></td><td>NI</td><td>063004</td><td>DESENHISTA TECNICO-ESPECIALIDADE</td><td>1</td></tr>
@@ -869,7 +879,7 @@ CARGOS EFETIVOS VAGOS EXTINTOS NO QUADRO DE PESSOAL DAS INSTITUIÇÕES FEDERAIS 
 c) Cargos de nível auxiliar
 
 <table>
-<tr><td><strong>NÍVEL</strong></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO DO CARGO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td>**NÍVEL**</td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO DO CARGO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td>NA</td><td>010054</td><td>AGENTE OPERAC DE TELEC E ELETRICIDADE</td><td>3</td></tr>
 <tr><td>NA</td><td>007053</td><td>ARTÍFICE DE ELETRIC E COMUNICAÇÕES</td><td>3</td></tr>
 <tr><td>NA</td><td>007051</td><td>ARTÍFICE DE ESTR. DE OBRAS E METALURGIA</td><td>2</td></tr>
@@ -881,20 +891,32 @@ c) Cargos de nível auxiliar
 
 d) Resumo
 
-<table>
-<tr><td><strong>CARGOS</strong></td><td><strong>QUANTIDADE</strong></td></tr>
-<tr><td>NÍVEL SUPERIOR</td><td>433</td></tr>
-<tr><td>NÍVEL INTERMEDIÁRIO</td><td>1.117</td></tr>
-<tr><td>NÍVEL AUXILIAR</td><td>14</td></tr>
-<tr><td>TOTAL</td><td>1.564</td></tr>
-</table>
+**CARGOS**
+
+**QUANTIDADE**
+
+NÍVEL SUPERIOR
+
+433
+
+NÍVEL INTERMEDIÁRIO
+
+1.117
+
+NÍVEL AUXILIAR
+
+14
+
+TOTAL
+
+1.564
 
 ANEXO II
 
 CARGOS EFETIVOS VAGOS DO QUADRO DE PESSOAL DO MEC EXTINTOS
 
 <table>
-<tr><td><strong>NÍVEL</strong></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO DO CARGO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td>**NÍVEL**</td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO DO CARGO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td>NS</td><td>009027</td><td>TÉCNICO EM ASSUNTOS EDUCACIONAIS</td><td>115</td></tr>
 <tr><td>NI</td><td>044059</td><td>TÉCNICO NÍVEL MÉDIO</td><td>51</td></tr>
 <tr><td colspan="3">TOTAL</td><td>166</td></tr>
@@ -905,8 +927,8 @@ ANEXO III
 CARGOS EFETIVOS VAGOS EXTINTOS NO QUADRO DE PESSOAL DAS INSTITUIÇÕES FEDERAIS DE ENSINO SUPERIOR – IFES
 
 <table>
-<tr><td colspan="2"><strong>IFES</strong></td><td colspan="4"><strong>CARGO</strong></td></tr>
-<tr><td><strong>COD</strong></td><td><strong>SIGLA</strong></td><td><strong>NÍVEL</strong></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td colspan="2">**IFES**</td><td colspan="4">**CARGO**</td></tr>
+<tr><td>**COD**</td><td>**SIGLA**</td><td>**NÍVEL**</td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td></td><td></td><td>NA</td><td>065019</td><td>CARPINTEIRO</td><td>1</td></tr>
 <tr><td></td><td></td><td>NI</td><td>062051</td><td>DATILOGRAFO DE TEXTOS GRAFICOS</td><td>1</td></tr>
 <tr><td></td><td></td><td>NI</td><td>063004</td><td>DESENHISTA TECNICO-ESPECIALIDADE</td><td>1</td></tr>
@@ -1440,7 +1462,7 @@ CARGOS EFETIVOS VAGOS EXTINTOS NO QUADRO DE PESSOAL DAS INSTITUIÇÕES FEDERAIS 
 <tr><td></td><td></td><td>NI</td><td>063049</td><td>TECNICO EM QUIMICA</td><td>1</td></tr>
 <tr><td></td><td></td><td>NS</td><td>061081</td><td>RELACOES PUBLICAS</td><td>1</td></tr>
 <tr><td></td><td></td><td>NS</td><td>061002</td><td>TECNOLOGO-FORMACAO</td><td>1</td></tr>
-<tr><td></td><td></td><td><h3 style="font-weight:normal">NA</h3></td><td>065014</td><td>AUXILIAR DE METEOROLOGIA</td><td>2</td></tr>
+<tr><td></td><td></td><td><h3>NA</h3></td><td>065014</td><td>AUXILIAR DE METEOROLOGIA</td><td>2</td></tr>
 <tr><td></td><td></td><td>NI</td><td>062042</td><td>ADMINISTRADOR DE EDIFICIOS</td><td>2</td></tr>
 <tr><td></td><td></td><td>NI</td><td>062063</td><td>AUXILIAR TECNICO DE PROCESSAMENTO DADOS</td><td>2</td></tr>
 <tr><td></td><td></td><td>NI</td><td>416091</td><td>COZINHEIRO</td><td>2</td></tr>
@@ -2061,57 +2083,201 @@ CARGOS EFETIVOS VAGOS EXTINTOS NO QUADRO DE PESSOAL DAS INSTITUIÇÕES FEDERAIS 
 
 b) Resumo
 
-<table>
-<tr><td><h1><strong>INSTITUIÇÕES FEDERAIS DE ENSINO SUPERIOR</strong></h1></td><td><strong>QUANTIDADE</strong></td></tr>
-<tr><td>EFEI</td><td>20</td></tr>
-<tr><td>EFOA</td><td>2</td></tr>
-<tr><td>ESAM</td><td>46</td></tr>
-<tr><td>FAFEOD</td><td>12</td></tr>
-<tr><td>FCAP</td><td>24</td></tr>
-<tr><td>FFFCMPA</td><td>11</td></tr>
-<tr><td>FMTM</td><td>40</td></tr>
-<tr><td>FUAM</td><td>118</td></tr>
-<tr><td>FUFAC</td><td>54</td></tr>
-<tr><td>FUFMA</td><td>175</td></tr>
-<tr><td>FUFMS</td><td>104</td></tr>
-<tr><td>FUFMT</td><td>124</td></tr>
-<tr><td>FUFOP</td><td>65</td></tr>
-<tr><td>FUFPEL</td><td>83</td></tr>
-<tr><td>FUFPI</td><td>74</td></tr>
-<tr><td>FUFRR</td><td>27</td></tr>
-<tr><td>FUFSCAR</td><td>61</td></tr>
-<tr><td>FUFSE</td><td>87</td></tr>
-<tr><td>FUFUB</td><td>112</td></tr>
-<tr><td>FUFV</td><td>221</td></tr>
-<tr><td>FUNREI</td><td>31</td></tr>
-<tr><td>FURG</td><td>68</td></tr>
-<tr><td>UFAL</td><td>210</td></tr>
-<tr><td>UFBA</td><td>332</td></tr>
-<tr><td>UFCE</td><td>189</td></tr>
-<tr><td>UFES</td><td>106</td></tr>
-<tr><td>UFF</td><td>371</td></tr>
-<tr><td>UFGO</td><td>163</td></tr>
-<tr><td>UFIF</td><td>37</td></tr>
-<tr><td>UFLA</td><td>26</td></tr>
-<tr><td>UFMG</td><td>328</td></tr>
-<tr><td>UFPA</td><td>177</td></tr>
-<tr><td>UFPB</td><td>451</td></tr>
-<tr><td>UFPE</td><td>263</td></tr>
-<tr><td>UFPR</td><td>169</td></tr>
-<tr><td>UFRGS</td><td>232</td></tr>
-<tr><td>UFRJ</td><td>1.392</td></tr>
-<tr><td>UFRN</td><td>291</td></tr>
-<tr><td>UFRPE</td><td>82</td></tr>
-<tr><td>UFRRJ</td><td>108</td></tr>
-<tr><td>UFSC</td><td>187</td></tr>
-<tr><td>UFSM</td><td>157</td></tr>
-<tr><td>UNB</td><td>349</td></tr>
-<tr><td>UNIFAP</td><td>17</td></tr>
-<tr><td>UNIFESP</td><td>169</td></tr>
-<tr><td>UNIR</td><td>22</td></tr>
-<tr><td>UNIRIO</td><td>88</td></tr>
-<tr><td>TOTAL</td><td>7.475</td></tr>
-</table>
+# **INSTITUIÇÕES FEDERAIS DE ENSINO SUPERIOR**
+
+**QUANTIDADE**
+
+EFEI
+
+20
+
+EFOA
+
+2
+
+ESAM
+
+46
+
+FAFEOD
+
+12
+
+FCAP
+
+24
+
+FFFCMPA
+
+11
+
+FMTM
+
+40
+
+FUAM
+
+118
+
+FUFAC
+
+54
+
+FUFMA
+
+175
+
+FUFMS
+
+104
+
+FUFMT
+
+124
+
+FUFOP
+
+65
+
+FUFPEL
+
+83
+
+FUFPI
+
+74
+
+FUFRR
+
+27
+
+FUFSCAR
+
+61
+
+FUFSE
+
+87
+
+FUFUB
+
+112
+
+FUFV
+
+221
+
+FUNREI
+
+31
+
+FURG
+
+68
+
+UFAL
+
+210
+
+UFBA
+
+332
+
+UFCE
+
+189
+
+UFES
+
+106
+
+UFF
+
+371
+
+UFGO
+
+163
+
+UFIF
+
+37
+
+UFLA
+
+26
+
+UFMG
+
+328
+
+UFPA
+
+177
+
+UFPB
+
+451
+
+UFPE
+
+263
+
+UFPR
+
+169
+
+UFRGS
+
+232
+
+UFRJ
+
+1.392
+
+UFRN
+
+291
+
+UFRPE
+
+82
+
+UFRRJ
+
+108
+
+UFSC
+
+187
+
+UFSM
+
+157
+
+UNB
+
+349
+
+UNIFAP
+
+17
+
+UNIFESP
+
+169
+
+UNIR
+
+22
+
+UNIRIO
+
+88
+
+TOTAL
+
+7.475
 
 ANEXO IV
 
@@ -2120,7 +2286,7 @@ CARGOS EFETIVOS VAGOS EXTINTOS NO QUADRO DE PESSOAL DO INSTITUTO NACIONAL DO SEG
 a) Cargos de nível auxiliar
 
 <table>
-<tr><td><strong>NÍVEL</strong></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td>**NÍVEL**</td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td>NA</td><td>054013</td><td>COSTUREIRO</td><td>1</td></tr>
 <tr><td>NA</td><td>054018</td><td>OPERADOR DE CALDEIRA</td><td>2</td></tr>
 <tr><td colspan="3">SUBTOTAL</td><td>3</td></tr>
@@ -2128,37 +2294,196 @@ a) Cargos de nível auxiliar
 
 b) Cargos de nível intermediário
 
-<table>
-<tr><td><h5 style="font-weight:normal"><strong>NÍVEL</strong></h5></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
-<tr><td>NI</td><td>008001</td><td>AGENTE ADMINISTRATIVO</td><td>2.931</td></tr>
-<tr><td>NI</td><td>042099</td><td>AGENTE DE PROGRAMAS ASSITENCIAIS</td><td>8</td></tr>
-<tr><td>NI</td><td>043013</td><td>AGENTE DE SAUDE</td><td>4</td></tr>
-<tr><td>NI</td><td>010041</td><td>AGENTE DE SEGURANCA DE TRAFEGO AEREO</td><td>1</td></tr>
-<tr><td>NI</td><td>010004</td><td>AGENTE DE SERVICOS COMPLEMENTARES</td><td>23</td></tr>
-<tr><td>NI</td><td>043001</td><td>AGENTE DE TRIAGEM</td><td>1</td></tr>
-<tr><td>NI</td><td>007006</td><td>ARTIFICE DE ARTES GRAFICAS</td><td>46</td></tr>
-<tr><td>NI</td><td>063001</td><td>ASSISTENTE DE ADMINISTRACAO</td><td>2</td></tr>
-<tr><td>NI</td><td>010028</td><td>ASSISTENTE SINDICAL</td><td>1</td></tr>
-<tr><td>NI</td><td>043024</td><td>ATENDENTE</td><td>7</td></tr>
-<tr><td>NI</td><td>062002</td><td>AUXILIAR ADMINISTRATIVO</td><td>1</td></tr>
-<tr><td>NI</td><td>008002</td><td>DATILOGRAFO</td><td>644</td></tr>
-<tr><td>NI</td><td>010014</td><td>DESENHISTA</td><td>15</td></tr>
-<tr><td>NI</td><td>026087</td><td>DIGITADOR</td><td>1</td></tr>
-<tr><td>NI</td><td>010036</td><td>IDENTIFICADOR DATILOSCOPICO</td><td>1</td></tr>
-<tr><td>NI</td><td>043010</td><td>INSTRUTOR</td><td>11</td></tr>
-<tr><td>NI</td><td>043003</td><td>OFICIAL DE FARMACIA</td><td>1</td></tr>
-<tr><td>NI</td><td>016004</td><td>PERFURADOR DIGITADOR</td><td>1</td></tr>
-<tr><td>NI</td><td>043023</td><td>PRATICO DE ENFERMAGEM</td><td>10</td></tr>
-<tr><td>NI</td><td>023002</td><td>TECNICO DE ARQUIVO</td><td>12</td></tr>
-<tr><td>NI</td><td>043029</td><td>TECNICO DOCUMENTACAO</td><td>1</td></tr>
-<tr><td>NI</td><td>044059</td><td>TECNICO NIVEL MEDIO</td><td>5</td></tr>
-<tr><td></td><td></td><td></td><td>3.727</td></tr>
-</table>
+##### **NÍVEL**
+
+**CÓDIGO**
+
+**DENOMINAÇÃO**
+
+**QUANTIDADE**
+
+NI
+
+008001
+
+AGENTE ADMINISTRATIVO
+
+2.931
+
+NI
+
+042099
+
+AGENTE DE PROGRAMAS ASSITENCIAIS
+
+8
+
+NI
+
+043013
+
+AGENTE DE SAUDE
+
+4
+
+NI
+
+010041
+
+AGENTE DE SEGURANCA DE TRAFEGO AEREO
+
+1
+
+NI
+
+010004
+
+AGENTE DE SERVICOS COMPLEMENTARES
+
+23
+
+NI
+
+043001
+
+AGENTE DE TRIAGEM
+
+1
+
+NI
+
+007006
+
+ARTIFICE DE ARTES GRAFICAS
+
+46
+
+NI
+
+063001
+
+ASSISTENTE DE ADMINISTRACAO
+
+2
+
+NI
+
+010028
+
+ASSISTENTE SINDICAL
+
+1
+
+NI
+
+043024
+
+ATENDENTE
+
+7
+
+NI
+
+062002
+
+AUXILIAR ADMINISTRATIVO
+
+1
+
+NI
+
+008002
+
+DATILOGRAFO
+
+644
+
+NI
+
+010014
+
+DESENHISTA
+
+15
+
+NI
+
+026087
+
+DIGITADOR
+
+1
+
+NI
+
+010036
+
+IDENTIFICADOR DATILOSCOPICO
+
+1
+
+NI
+
+043010
+
+INSTRUTOR
+
+11
+
+NI
+
+043003
+
+OFICIAL DE FARMACIA
+
+1
+
+NI
+
+016004
+
+PERFURADOR DIGITADOR
+
+1
+
+NI
+
+043023
+
+PRATICO DE ENFERMAGEM
+
+10
+
+NI
+
+023002
+
+TECNICO DE ARQUIVO
+
+12
+
+NI
+
+043029
+
+TECNICO DOCUMENTACAO
+
+1
+
+NI
+
+044059
+
+TECNICO NIVEL MEDIO
+
+5
+
+3.727
 
 c) Cargos de nível superior
 
 <table>
-<tr><td><h1><strong>NÍVEL</strong></h1></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td><h1>**NÍVEL**</h1></td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td>NS</td><td>014001</td><td>ANALISTA DE INFORMACOES</td><td>7</td></tr>
 <tr><td>NS</td><td>009017</td><td>ARQUITETO</td><td>11</td></tr>
 <tr><td>NS</td><td>023001</td><td>ARQUIVISTA</td><td>216</td></tr>
@@ -2184,13 +2509,25 @@ c) Cargos de nível superior
 
 d) Resumo
 
-<table>
-<tr><td><h5 style="font-weight:normal"><strong>CARGOS</strong></h5></td><td><strong>QUANTIDADE</strong></td></tr>
-<tr><td>NÍVEL AUXILIAR</td><td>3</td></tr>
-<tr><td>NÍVEL INTERMEDIÁRIO</td><td>3.727</td></tr>
-<tr><td>NÍVEL SUPERIOR</td><td>460</td></tr>
-<tr><td>TOTAL</td><td>4.190</td></tr>
-</table>
+##### **CARGOS**
+
+**QUANTIDADE**
+
+NÍVEL AUXILIAR
+
+3
+
+NÍVEL INTERMEDIÁRIO
+
+3.727
+
+NÍVEL SUPERIOR
+
+460
+
+TOTAL
+
+4.190
 
 ANEXO V
 
@@ -2199,7 +2536,7 @@ CARGOS EFETIVOS VAGOS EXTINTOS NO QUADRO DE PESSOAL DO MINISTERIO DA SAÚDE – 
 a) Cargos de nível auxiliar do Ministério da Saúde
 
 <table>
-<tr><td><h1><strong>NÍVEL</strong></h1></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td><h1>**NÍVEL**</h1></td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td>NA</td><td>010059</td><td>AGENTE AUXILIAR DE SAUDE PUBLICA</td><td>1</td></tr>
 <tr><td>NA</td><td>059056</td><td>AGENTE DE SERVICOS DE TRANSPORTE</td><td>1</td></tr>
 <tr><td>NA</td><td>010054</td><td>AGENTE OPERAC DE TELEC E ELETRICIDADE</td><td>12</td></tr>
@@ -2216,7 +2553,7 @@ a) Cargos de nível auxiliar do Ministério da Saúde
 b) Cargos de nível auxiliar da FUNASA
 
 <table>
-<tr><td><h1><strong>NÍVEL</strong></h1></td><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr>
+<tr><td><h1>**NÍVEL**</h1></td><td>**CÓDIGO**</td><td>**DENOMINAÇÃO**</td><td>**QUANTIDADE**</td></tr>
 <tr><td>NA</td><td>022005</td><td>AGENTE DE TRANSPORTE MARITIMO E FLUVIAL</td><td>2</td></tr>
 <tr><td>NA</td><td>056048</td><td>AGENTE DE TRANSPORTE MARITIMO E FLUVIAL</td><td>2</td></tr>
 <tr><td>NA</td><td>022012</td><td>ARTIFICE</td><td>1</td></tr>
@@ -2235,9 +2572,18 @@ b) Cargos de nível auxiliar da FUNASA
 
 c) Resumo
 
-<table>
-<tr><td><h5 style="font-weight:normal"><strong>CARGOS</strong></h5></td><td><strong>QUANTIDADE</strong></td></tr>
-<tr><td>NÍVEL AUXILIAR DO MS</td><td>97</td></tr>
-<tr><td>NÍVEL AUXILIAR DA FUNASA</td><td>59</td></tr>
-<tr><td>TOTAL</td><td>156</td></tr>
-</table>
+##### **CARGOS**
+
+**QUANTIDADE**
+
+NÍVEL AUXILIAR DO MS
+
+97
+
+NÍVEL AUXILIAR DA FUNASA
+
+59
+
+TOTAL
+
+156

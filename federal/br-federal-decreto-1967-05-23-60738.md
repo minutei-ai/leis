@@ -1,5 +1,3 @@
-###DEC-060738-0-000-23-05-1967@@@
-
 Decreto nº 60.738, de 23 de maio de 1967.
 
 Fixa normas para execução financeira do Tesouro Nacional, no exercício de 1967.

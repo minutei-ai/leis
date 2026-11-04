@@ -1,5 +1,3 @@
-###MPV-000403-0-000-26-11-2007@@@
-
 MEDIDA PROVISÓRIA Nº 403, DE 26 DE NOVEMBRO DE 2007.
 
 Dispõe sobre o exercício da atividade de franquia postal e dá outras providências.
@@ -75,5 +73,3 @@ Brasília, 26 de novembro de 2007; 186º da Independência e 119º da República
 LUIZ INÁCIO LULA DA SILVA
 
 Hélio Costa
-
-Este texto não substitui o publicado no DOU de 27.11.2007

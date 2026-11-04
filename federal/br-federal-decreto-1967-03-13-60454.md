@@ -1,5 +1,3 @@
-###DEC-060454-0-000-13-03-1967@@@
-
 DECRETO Nº 60.454, DE 13 DE MARÇO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, necessários ao Ministério da Guerra.

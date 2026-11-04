@@ -1,5 +1,3 @@
-###DEC-074068-0-000-15-05-1974@@@
-
 DECRETO Nº 74.068, DE 15 DE MAIO DE 1974.
 
 Regulamenta a movimentação de pessoal diplomático.

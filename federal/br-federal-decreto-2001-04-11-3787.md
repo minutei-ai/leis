@@ -1,5 +1,3 @@
-###DEC-003787-0-000-11-04-2001@@@
-
 DECRETO Nº 3.787, DE 11 DE ABRIL DE 2001
 
 Altera o art. 4º do Decreto nº 3.161, de 2 de setembro de 1999, que institui o regime aduaneiro especial de exportação e de importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural - Repetro.

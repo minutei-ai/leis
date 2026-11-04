@@ -1,5 +1,3 @@
-###DEC-097634-0-000-10-04-1989@@@
-
 DECRETO N° 97.634, DE 10 DE ABRIL DE 1989
 
 Dispõe sobre o controle da produção e da comercialização de substância que comporta risco para a vida, a qualidade de vida e o meio ambiente, e dá outras providências.

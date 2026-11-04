@@ -1,5 +1,3 @@
-###DEC-071584-0-000-20-12-1972@@@
-
 DECRETO Nº 71.584 - DE 20 DE DEZEMBRO DE 1972
 
 Concede autorização à empresa Zapata Marine Service Ltd. S.A. para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098 de 25 de março de 1970, as embarcações M-V Paramount Service e M/V Imperial Service, de nacionalidade britânica, e M/V Invincible Service, M/V Sampson Service e M/V Blue Chip Service, de nacionalidade panamenha, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-045891-0-000-28-04-1959@@@
-
 DECRETO Nº 45.891, DE 28 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Renato Viana Perdigão a pesquisar areias ilmeníticas no Município de Tutóia, Estado do Maranhão.

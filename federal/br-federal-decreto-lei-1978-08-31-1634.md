@@ -1,5 +1,3 @@
-###DEL-001634-0-000-31-08-1978@@@
-
 # Decreto-lei nº 1.634, de 31 de agosto de 1978
 
 Dispõe sobre isenção do Empréstimo Compulsório em favor da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

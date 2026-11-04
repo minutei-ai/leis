@@ -1,5 +1,3 @@
-###DEC-006005-0-000-28-12-2006@@@
-
 DECRETO Nº 6.005, DE 28 DE DEZEMBRO DE 2006.
 
 Institui o Sistema de Assessoramento para Assuntos Federativos - SASF, e dá outras providências.
@@ -39,5 +37,3 @@ Institui o Sistema de Assessoramento para Assuntos Federativos - SASF, e dá out
 LUIZ INÁCIO LULA DA SILVA
 
     Tarso Genro
-
-Este texto não substitui o publicado no DOU de 29.12.2006

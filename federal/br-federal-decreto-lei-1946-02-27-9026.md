@@ -1,5 +1,3 @@
-###DEL-009026-0-000-27-02-1946@@@
-
 DECRETO-LEI N. 9.026 – DE 27 DE FEVEREIRO DE 1946
 
 Autoriza a Rêde de Viação Férrea Federal do Rio Grande do Sul a alienar o imóvel que menciona.

@@ -1,5 +1,3 @@
-###DEC-056988-0-000-01-10-1965@@@
-
 DECRETO Nº 56.988, DE 1º DE OUTUBRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Marítimos e Terrestres Confiança, inclusive aumento do capital social.

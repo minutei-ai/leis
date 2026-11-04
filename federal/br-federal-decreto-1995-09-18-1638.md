@@ -1,7 +1,3 @@
-1
-
-###DEC-001638-0-000-18-09-1995@@@
-
 DECRETO Nº 1.638, DE 18 DE SETEMBRO DE 1995
 
 Dispõe sobre a exclusão, do Programa Nacional de Desestatização, criado pela Lei nº 8.031 de 12.04.90, da participação acionária da Petrobrás Química S.A. - PETROQUISA na PETROCOQUE S.A. Indústria e Comércio.

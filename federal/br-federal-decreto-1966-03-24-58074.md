@@ -1,5 +1,3 @@
-###DEC-058074-0-000-24-03-1966@@@
-
 Decreto nº 58.074, de 24 de março de 1966.
 
 Aprova o Regimento da Consultoria-Jurídica do Ministério das Minas e Energia.

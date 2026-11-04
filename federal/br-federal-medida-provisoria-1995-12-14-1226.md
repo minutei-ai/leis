@@ -1,7 +1,3 @@
-1
-
-###MPV-001226-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.226, DE 14 DE DEZEMBRO de 1995.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

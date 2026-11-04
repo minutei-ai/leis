@@ -24,5 +24,6 @@ Art. 5º Esta Lei entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 30 de dezembro de 2025.
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia

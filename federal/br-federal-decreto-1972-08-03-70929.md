@@ -1,5 +1,3 @@
-###DEC-070929-0-000-03-08-1972@@@
-
 DECRETO Nº 70.929, DE 3 DE AGOSTO DE 1972.
 
 Dispõe sobre o registro, no Ministério da Educação e Cultura, de professores de ensino de 2º grau e dá outras providências.

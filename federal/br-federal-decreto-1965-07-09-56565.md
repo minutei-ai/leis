@@ -1,5 +1,3 @@
-###DEC-056565-0-000-09-07-1965@@@
-
 Decreto nº 56.565, de 9 de julho de 1965.
 
 Cria o Centro de Sinalização Náutica e Reparos “Almirante Moraes Rego”.

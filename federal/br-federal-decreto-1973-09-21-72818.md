@@ -1,5 +1,3 @@
-###DEC-072818-0-000-21-09-1973@@@
-
 Decreto nº 72.818, de 21 de setembro de 1973.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Administrativas de Votuporanga, mantida pela Fundação Educacional de Votuporanga, com sede na cidade de Votuporanga, Estado de São Paulo.

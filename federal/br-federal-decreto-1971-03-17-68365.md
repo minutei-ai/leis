@@ -1,5 +1,3 @@
-###DEC-068365-0-000-17-03-1971@@@
-
 Decreto nº 68.365, de 17 de março de 1971.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à instalação, pela Companhia Telefônica Brasileira, de uma estação repetidora de microondas e respectiva tôrre, no Município de Pindorama, Estado de São Paulo.

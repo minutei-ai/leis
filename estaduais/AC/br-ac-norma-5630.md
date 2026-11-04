@@ -1,6 +1,10 @@
 > **LEI Nº 4.114, DE 28 DE JUNHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa Guardiões do Futuro, que dispõe sobre a Política Estadual de Prevenção e Combate ao Abandono e à Evasão Escolar na rede pública de ensino do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa Guardiões do Futuro, que dispõe sobre a Política Estadual de Prevenção e Combate ao Abandono e à Evasão Escolar na rede pública de ensino do Estado.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE, em exercício**
 

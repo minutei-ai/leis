@@ -1,5 +1,3 @@
-###DEL-006121-0-000-17-12-1943@@@
-
 DECRETO‑LEI N. 6.121 – DE 17 DE DEZEMBRO DE 1943
 
 Dispõe sôbre a cobrança da "taxa sôbre Kw" criada pelo decreto‑lei n. 2.281, de 5 de junho de 1940, e sôbre a fixação dos valores das quotas respectivas no exercício de 1944

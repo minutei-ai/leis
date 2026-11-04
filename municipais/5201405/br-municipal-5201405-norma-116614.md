@@ -1,6 +1,5 @@
 LEI MUNICIPAL Nº 3.424, DE 20 DE AGOSTO DE 2018
 
-<br>
 Dispõe sobre a denominação “PRAÇA DA CONQUISTA”, do Setor Goiânia Park Sul, neste município e dá outras providências.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
@@ -15,8 +14,10 @@ Art. 4º Esta lei entra em vigor na data da sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 20 de agosto de 2018.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Chefe da Casa Civil

@@ -1,5 +1,3 @@
-###DEC-081172-0-000-03-01-1978@@@
-
 Decreto nº 81.172, de 3 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplinas Especializadas do Ensino de 2º Grau, ministrado pela Universidade Federal de Mato Grosso, com sede na cidade de Cuiabá, Estado do Mato Grosso.

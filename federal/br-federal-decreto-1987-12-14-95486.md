@@ -1,5 +1,3 @@
-###DEC-095486-0-000-14-12-1987@@@
-
 DECRETO Nº 95.486, DE 14 DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Enfermagem e obstetrícia da Escola Superior de Enfermagem e Obstetrícia de Vassouras, Rio de Janeiro.

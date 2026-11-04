@@ -1,5 +1,3 @@
-###DEC-056845-0-000-09-09-1965@@@
-
 DECRETO Nº 56.845, DE 9 DE SETEMBRO DE 1965.
 
 Cria a Comissão do Contrôle dos Transportes do Sul do País - CCTSP.

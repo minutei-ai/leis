@@ -1,5 +1,3 @@
-###DEC-088888-0-000-19-10-1983@@@
-
 Decreto nº 88.888, de 19 de outubro de 1983
 
 Dispõe sobre o estabelecimento de Medidas de Emergência na área do Distrito Federal e dá outras providências.

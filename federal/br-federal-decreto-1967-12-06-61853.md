@@ -1,5 +1,3 @@
-###DEC-061853-0-000-06-12-1967@@@
-
 DECRETO Nº 61.853, DE 6 DE DEZEMBRO DE 1967.
 
 Abre ao Estado-Maior das Fôrças Armadas - Escola Superior de Guerra - o crédito suplementar de NCr$3.200,00 (três mil e duzentos cruzeiros novos), para refôrço de dotação consignada ao vigente orçamento.
@@ -10,7 +8,23 @@ Decreta:
 
 Art. 1º Fica aberto ao Estado-Maior das Fôrças Armadas - Escola Superior de Guerra - o crédito suplementar de NCr$3.200,00 (três mil e duzentos cruzeiros novos), para refôrço de dotação orçamentária consignada ao Subanexo 4.02.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.02.02</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Estado-Maior das Fôrças Armadas (Escola Superior de Guerra)</span></p></td><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.0.0.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes</span></p></td><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.0.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Transferências Correntes</span></p></td><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.5.0</span></p></td><td style="width:304.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Salário-Família ..................................................................................</span></p></td><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>NCr$3.200,00</span></p></td></tr></tbody></table>
+4.02.02
+
+- Estado-Maior das Fôrças Armadas (Escola Superior de Guerra)
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.2.0.0
+
+- Transferências Correntes
+
+3.2.5.0
+
+- Salário-Família ..................................................................................
+
+NCr$3.200,00
 
 Art. 2º A despesa decorrente da execução do presente decreto será atendida com os recursos de que trata a Lei nº 5.344, de 31 de outubro de 1967.
 

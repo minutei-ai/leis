@@ -1,5 +1,3 @@
-###DEC-003449-0-000-09-05-2000@@@
-
 Decreto nº 3.449, de 9 de maio de 2000.
 
 Dá nova redação ao art. 2º do Decreto nº 3.238, de 10 de novembro de 1999, que dispõe sobre a criação da Reserva Extrativista do Lago do Cuniã, Estado de Rondônia, e dá outras providências.

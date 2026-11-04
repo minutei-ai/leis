@@ -1,5 +1,3 @@
-###DEC-057861-0-000-25-02-1966@@@
-
 Decreto nº 57.861, de 25 de fevereiro de 1966.
 
 Autoriza o cidadão brasileiro José Francioni de Freitas a pesquisar diatomita, no município de Imbituba, no estado de Santa Catarina.

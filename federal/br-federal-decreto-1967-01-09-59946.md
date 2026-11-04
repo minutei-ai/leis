@@ -1,5 +1,3 @@
-###DEC-059946-0-000-09-01-1967@@@
-
 DECRETO Nº 59.946, DE 9 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Guilherme Luiz do Nascimento a pesquisar diamantes, no município de Coronel Murta, Estado de Minas Gerais.

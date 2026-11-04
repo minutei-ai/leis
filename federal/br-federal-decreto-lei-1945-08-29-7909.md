@@ -1,5 +1,3 @@
-###DEL-007909-0-000-29-08-1945@@@
-
 DECRETO-LEI N. 7.909 – DE 29 DE AGÔSTO DE 1945
 
 Altera, sem aumento de despesa, o Orçamento Geral da República.
@@ -20,25 +18,49 @@ Subconsignação 29 – Acondicionamento e embalagem; armazenagem; carretos, est
 
 28 – Serviço de Proteção aos Índios
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:375.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Passa de ...................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>50.000,00</span></p></td></tr><tr><td style="width:375.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Para ..........................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>40.000,00</span></p></td></tr></tbody></table>
+Passa de ...................................................................................................
+
+50.000,00
+
+Para ..........................................................................................................
+
+40.000,00
 
 Subconsignação 35 – Despesas miúdas de pronto pagamento
 
 28 – Serviço de Proteção aos Índios
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:375.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Passa de ......................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>36.000,00</span></p></td></tr><tr><td style="width:375.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Para .............................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>31.000,00</span></p></td></tr></tbody></table>
+Passa de ......................................................................................................
+
+36.000,00
+
+Para .............................................................................................................
+
+31.000,00
 
 Subconsignação 38 – Publicações, serviços de impressão e de encadernação; clichês
 
 28 – Serviço de Proteção aos Índios
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:375.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Passa de .........................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>61.400,00</span></p></td></tr><tr><td style="width:375.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Para ................................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>51.400,00</span></p></td></tr></tbody></table>
+Passa de .........................................................................................................
+
+61.400,00
+
+Para ................................................................................................................
+
+51.400,00
 
 Subconsignação 41 – Passagens, transporte de pessoal e de suas bagagens
 
 28 – Serviço de Proteção aos Índios
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:375.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Passa de ..........................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>65.000,00</span></p></td></tr><tr><td style="width:375.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Para .................................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>90.000,00</span></p></td></tr></tbody></table>
+Passa de ..........................................................................................................
+
+65.000,00
+
+Para .................................................................................................................
+
+90.000,00
 
 Art. 2º Êste Decreto-lei entrará em vigor na data de sua publicação.
 

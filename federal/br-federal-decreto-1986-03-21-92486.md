@@ -1,5 +1,3 @@
-###DEC-092486-0-000-21-03-1986@@@
-
 DECRETO Nº 92.486, De 21 DE MARÇO DE 1986
 
 Dispõe sobre o Programa Nacional de Desburocratização, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000268-0-000-02-12-2005@@@
-
 MEDIDA PROVISÓRIA Nº 268, DE 2 DE DEZEMBRO DE 2005.
 
 Abre crédito extraordinário, em favor dos Ministérios da Educação, da Saúde e da Defesa e de Operações Oficiais de Crédito, no valor global de R$ 1.498.314.101,00, para os fins que especifica.

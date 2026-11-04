@@ -1,5 +1,3 @@
-###DEC-051241-0-000-23-08-1961@@@
-
 DECRETO Nº 51.241, DE 23 DE AGÔSTO DE 1961.
 
 Institui a Comissão de Planejamento para a Unificação do Lóide Brasileiro e Companhia Nacional de Navegação Costeira.

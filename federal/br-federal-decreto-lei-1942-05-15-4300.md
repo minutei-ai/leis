@@ -1,5 +1,3 @@
-###DEL-004300-0-000-15-05-1942@@@
-
 DECRETO-LEI N. 4.300 – DE 15 DE MAIO DE 1942
 
 Transforma o cargo de Diretor da Escola Normal de Artes e Ofícios Venceslau Braz no de Diretor da Escola Técnica Nacional e dá outras providências.

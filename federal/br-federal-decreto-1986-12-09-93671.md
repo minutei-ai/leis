@@ -1,5 +1,3 @@
-###DEC-093671-0-000-09-12-1986@@@
-
 DECRETO Nº 93.671, DE 9 DE DEZEMBRO DE 1986
 
 Altera a composição do Conselho de Crédito Rural e Agroindustrial - CCRA, e dá outras providências.

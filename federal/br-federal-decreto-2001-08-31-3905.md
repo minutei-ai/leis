@@ -1,5 +1,3 @@
-###DEC-003905-0-000-31-08-2001@@@
-
 DECRETO Nº 3.905, DE 31 DE AGOSTO DE 2001.
 
  Dispõe sobre a composição, indicação, eleição e nomeação dos membros dos órgãos colegiados do Banco do Brasil S.A., e dá outras providências. 

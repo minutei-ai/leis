@@ -1,5 +1,3 @@
-###DEC-086383-0-000-17-09-1981@@@
-
 DECRETO Nº 86.383, DE 17 DE SETEMBRO DE 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

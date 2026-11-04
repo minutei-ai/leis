@@ -1,5 +1,3 @@
-###DEL-006094-0-000-13-12-1943@@@
-
 DECRETO‑LEI N. 6.094 – DE 13 DE DEZEMBRO DE 1943
 
 Cria um hospital de primeira classe na 1º Zona Aérea

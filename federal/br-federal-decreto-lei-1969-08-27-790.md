@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/00e0f4fa-97a2-47ce-8b9b-5a9ca3e90d04/texto#nowhere)
 
-###DEL-000790-0-000-27-08-1969@@@
-
 DECRETO-LEI Nº 790, DE 27 DE AGÔSTO DE 1969
 
 Modifica o Decreto-lei nº 432 e dá outras providências.

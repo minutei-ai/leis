@@ -1,5 +1,3 @@
-###DEC-069236-0-000-21-09-1971@@@
-
 DECRETO Nº 69.236, DE 21 DE SETEMBRO DE 1971.
 
 Autoriza o Serviço do Patrimônio da União a ceder terrenos à Rêde Ferroviária Federal S. A. - RFFSA, e dá outras providências.

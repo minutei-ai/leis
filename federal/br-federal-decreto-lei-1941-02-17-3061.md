@@ -1,5 +1,3 @@
-###DEL-003061-0-000-17-02-1941@@@
-
 DECRETO-LEI N. 3.061 – DE 17 DE FEVEREIRO DE 1941
 
 Isenta do pagamento do imposto predial a parte do imovel ocupado pelo Real Consulado da Itália e adidos à Embaixada Italiana, nesta Capital

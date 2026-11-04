@@ -1,5 +1,3 @@
-###DEC-006049-0-000-27-02-2007@@@
-
 DECRETO Nº 6.049, DE 27 DE FEVEREIRO DE 2007.
 
 Aprova o Regulamento Penitenciário Federal.
@@ -16,11 +14,7 @@ Brasília, 27 de fevereiro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Márcio Thomaz Bastos
-
-Este texto não substitui o publicado no DOU de 28.2.2007.
-
-ANEXO
+Márcio Thomaz BastosANEXO
 
 REGULAMENTO PENITENCIÁRIO FEDERAL
 

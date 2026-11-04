@@ -1,5 +1,3 @@
-###DEC-081006-0-000-12-12-1977@@@
-
 Decreto nº 81.006, de 12 de dezembro de 1977.
 
 Concede à Mineração Pellanda Ltda. o direito de lavrar bauxita no Município de Lages, Estado de Santa Catarina .

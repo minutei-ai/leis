@@ -1,5 +1,3 @@
-###DEL-001951-0-000-14-07-1982@@@
-
 # Decreto-lei nº 1.951, de 14 de julho de 1982
 
 Altera o Decreto-lei nº 1.893, de 16 de dezembro de 1981, que dispõe sobre a adoção de medidas de incentivo à arrecadação federal.

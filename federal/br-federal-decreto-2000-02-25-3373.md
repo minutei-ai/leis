@@ -1,5 +1,3 @@
-###DEC-003373-0-000-25-02-2000@@@
-
 DECRETO Nº 3.373, DE 25 DE FEVEREIRO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decerto nº 3.096, de 25 de junho de 1999.

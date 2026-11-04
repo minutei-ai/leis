@@ -1,5 +1,3 @@
-###DEC-070085-0-000-01-02-1972@@@
-
 DECRETO Nº 70.085, DE 1 DE FEVEREIRO DE 1972.
 
 Localiza, em São José dos Campos, no Estado de São Paulo , a sede do Departamento de Pesquisas e Desenvolvimento, do Ministério da Aeronáutica.

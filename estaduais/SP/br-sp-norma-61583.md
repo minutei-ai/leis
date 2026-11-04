@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61583)
-
 # LEI Nº 12.297, DE 07 DE MARÇO DE 2006
 
 ## (Projeto de lei nº 829/2003, da Deputada Havanir Nimtz - PRONA)

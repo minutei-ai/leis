@@ -1,5 +1,3 @@
-###DEC-064119-0-000-14-02-1969@@@
-
 DECRETo Nº 64.119, DE 14 DE FEVEREIRO DE 1969.
 
 Decreta intervenção federal no município de Nova Iguaçu, no Estado do Rio de Janeiro e dá outras providências.

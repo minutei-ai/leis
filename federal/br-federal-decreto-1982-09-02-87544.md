@@ -1,5 +1,3 @@
-###DEC-087544-0-000-02-09-1982@@@
-
 Decreto nº 87.544, de 02 de setembro de 1982
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS imóveis constituídos de terras e benfeitorias que menciona.

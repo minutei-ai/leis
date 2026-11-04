@@ -1,42 +1,40 @@
-###DEC-041237-0-000-02-04-1957@@@
+**DECRETO Nº 41.237, DE 2 DE ABRIL DE 1957.**
 
-<strong>DECRETO Nº 41.237, DE 2 DE ABRIL DE 1957.</strong>
+***Aprova o Regulamento do Estado Maior da Polícia Militar do Distrito Federal.***
 
-<em><strong>Aprova o Regulamento do Estado Maior da Polícia Militar do Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o item I do art. 87 da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o item I do art. 87 da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Estado Maior da Polícia Militar do Distrito Federal, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Estado Maior da Polícia Militar do Distrito Federal, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data da publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 2 de abril de 1957; 136º da independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 
-<strong>POLÍCIA MILITAR DO DISTRITO FEDERAL</strong>
+**POLÍCIA MILITAR DO DISTRITO FEDERAL**
 
 Estado Maior
 
 1ª Seção
 
-<strong>REGULAMENTO DO ESTADO-MAIOR DA POLÍCIA MILITAR DO DISTRITO FEDERAL</strong>
+**REGULAMENTO DO ESTADO-MAIOR DA POLÍCIA MILITAR DO DISTRITO FEDERAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Generalidades</em>
+*Generalidades*
 
-<strong>Art</strong>. 1º O Estado-Maior da PMDF (EM), órgão do Comando-Geral, destina-se a preparar os elementos necessários às decisões do Comandante-Geral e de coordenar sua execução.
+**Art**. 1º O Estado-Maior da PMDF (EM), órgão do Comando-Geral, destina-se a preparar os elementos necessários às decisões do Comandante-Geral e de coordenar sua execução.
 
-<strong>Art</strong>. 2º O EM é constituído de oficiais que auxiliam o Comandante-Geral, no exercício do comando.
+**Art**. 2º O EM é constituído de oficiais que auxiliam o Comandante-Geral, no exercício do comando.
 
-<strong>Art</strong>. 3º O Em é subordinado ao Comandante-Geral, que lhe transmite, diretamente, suas decisões.
+**Art**. 3º O Em é subordinado ao Comandante-Geral, que lhe transmite, diretamente, suas decisões.
 
-<strong>Art</strong>. 4º Ao EM compete:
+**Art**. 4º Ao EM compete:
 
 I - obter os elementos e elaborar os estudos necessários às decisões do Comandante-Geral, encarregando-se ainda de transmitir estas decisões aos órgãos subordinados;
 
@@ -54,11 +52,11 @@ VII - apresentar estudos, relacionados com a segurança pública e a manutençã
 
 VIII - providenciar para que a Corporação se mantenha em condições de cumprir missões policiais-militares, de acôrdo com o que fôr determinado pelos órgãos competentes.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Organização e competência</em>
+*Organização e competência*
 
-<strong>Art</strong>. 5º As atuais 1ª, 2ª, 3ª e 4ª Seções do Estado-Maior passam a denominar-se:
+**Art**. 5º As atuais 1ª, 2ª, 3ª e 4ª Seções do Estado-Maior passam a denominar-se:
 
 I - Pessoal - E1
 
@@ -68,17 +66,17 @@ III - Operações Policiais-Militares e instrução da tropa - E3
 
 IV - Logística - E4
 
-<strong>Art</strong>. 6º O EM será chefiado por um tenente-coronel e terá, como subchefe, um major.
+**Art**. 6º O EM será chefiado por um tenente-coronel e terá, como subchefe, um major.
 
-<strong>Art</strong>. 7º As Seções serão chefiadas por capitães ou majores quando, por fôrça de dispositivo legal, houver na Corporação oficiais excedentes com êsses postos e contarão com adjuntos e auxiliares previstos no quadro de efetivos de que fôr dotado o EM.
+**Art**. 7º As Seções serão chefiadas por capitães ou majores quando, por fôrça de dispositivo legal, houver na Corporação oficiais excedentes com êsses postos e contarão com adjuntos e auxiliares previstos no quadro de efetivos de que fôr dotado o EM.
 
-<strong>Art</strong>. 8º As funções do EM serão exercidas por oficiais da Corporação.
+**Art**. 8º As funções do EM serão exercidas por oficiais da Corporação.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Atribuições</em>
+*Atribuições*
 
-<strong>Art</strong>. 9º Ao Chefe do EM compete:
+**Art**. 9º Ao Chefe do EM compete:
 
 I - coordenar e dirigir os trabalhos do Estado-Maior;
 
@@ -102,7 +100,7 @@ X - fiscalizar os serviços externos não só por intermédio de seus auxiliares
 
 XI - dar posse aos oficiais nomeados, exceto o Comandante-Geral, Diretor de Instrução e os Instrutores, lavrando em livro próprio o têrmo de compromisso.
 
-<strong>Art</strong>. 10. Ao Subchefe do EM compete:
+**Art**. 10. Ao Subchefe do EM compete:
 
 I - coadjuvar o Chefe no exercício de suas funções;
 
@@ -134,11 +132,11 @@ a) dos boletins ostensivos e sigilosos do EM; e
 
 b) do relatório semestral do EM.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Dos Chefes de Seções</em>
+*Dos Chefes de Seções*
 
-<strong>Art</strong>. 11. Aos Chefes de seções compete:
+**Art**. 11. Aos Chefes de seções compete:
 
 I - redigir as ordens e instruções do Chefe do EM, que disserem respeito às suas atribuições;
 
@@ -166,11 +164,11 @@ XII - orientar, fiscalizar e distribuir aos auxiliares os serviços afetos à se
 
 XIII - a responsabilidade pelas chaves de suas dependências, conservação, asseio e limpeza das seções.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da competência das seções</em>
+*Da competência das seções*
 
-<strong>Art</strong>. 12. A Seção do Pessoal - E1 - compete:
+**Art**. 12. A Seção do Pessoal - E1 - compete:
 
 I - organizar e ter atualizados:
 
@@ -216,7 +214,7 @@ VII - estudar e propor a movimentação de oficiais e praças em face das necess
 
 VIII - extrair cópias dos mapas de efetivos, remetendo-as à Seção E3.
 
-<strong>Art</strong>. 13. A Seção de Informações - E2 - compete:
+**Art**. 13. A Seção de Informações - E2 - compete:
 
 I - coletar, pesquisar e interpretar os informes referentes a ações que possam ter repercussão desfavorável sôbre o moral da tropa ou serem prejudiciais ao cumprimento das missões da PMDF;
 
@@ -246,7 +244,7 @@ XIII - receber todos os IPM, sindicâncias, averiguações, queixas, partes e tu
 
 XIV - Organizar e publicar os boletins sigilosos do EM.
 
-<strong>Art</strong>. 14. À Seção de Operações Policiais-Militares e Instrução da Tropa - E3 - compete:
+**Art**. 14. À Seção de Operações Policiais-Militares e Instrução da Tropa - E3 - compete:
 
 I - organizar os serviços externos de policiamento ostensivo, trânsito, rádio patrulha, destacamento, postos e outras missões que devam ser executadas pela Corporação.
 
@@ -288,7 +286,7 @@ XIII - manter atualizados os assuntos que se relacionem com o trágego no Distri
 
 XIV - sugerir medidas que ser fizerem necessárias para o maior rendimento da Instrução e dos Serviços.
 
-<strong>Art</strong>. 15. À Seção de Logística - E4 - compete:
+**Art**. 15. À Seção de Logística - E4 - compete:
 
 I - preparar os planos de transporte de Tropa;
 
@@ -316,13 +314,13 @@ XII - cumprir os encargos atribuídos, no que lhe fôr aplicável, de intendente
 
 XIII - manter atualizada a relação de carga do material os gabinetes do Chefe e do Subchefe do EM de que é responsável.
 
-<strong>Art</strong>. 16. Aos oficiais e praças das Seções compete:
+**Art**. 16. Aos oficiais e praças das Seções compete:
 
 I - cumprir determinações dos Chefes de Seção;
 
 II - responder perante o Chefe da Seção pela carga, material e documentação que lhes forem atribuídos.
 
-<strong>Art</strong>. 17. Para efeito de disciplina, justiça e administração é adotada a seguinte equivalência de atribuições:
+**Art**. 17. Para efeito de disciplina, justiça e administração é adotada a seguinte equivalência de atribuições:
 
 I - Chefe do EM ao de Cmt. de Corpo.
 
@@ -330,11 +328,11 @@ II - Subchefe do EM ao de Subcomandante de Corpo.
 
 III - Chefes de Seção ao de Cmts. de subunidade.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 18. As substituições temporárias no EM obedecerão ao seguinte critério:
+**Art**. 18. As substituições temporárias no EM obedecerão ao seguinte critério:
 
 I - Chefe do EM pelo Subchefe do EM.
 
@@ -342,19 +340,19 @@ II - Subchefe do EM pelo Chefe de Seção mais antigo.
 
 III - Chefe de Seção pelo oficial mais antigo da Seção.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das disposições finais</em>
+*Das disposições finais*
 
-<strong>Art</strong>. 19. A Seção - E2 - disporá de um Grupo de Investigações (GIC) constituído das seguintes turmas:
+**Art**. 19. A Seção - E2 - disporá de um Grupo de Investigações (GIC) constituído das seguintes turmas:
 
 I - Técnica - T1.
 
 II - Investigações Criminais - T2.
 
-<strong>Art</strong>. 20. Subordinado à Seção - E2 - o GIC será chefiado por um capitão, obedecidas as disposições do art. 7º, e as turmas, por oficiais subalternos.
+**Art**. 20. Subordinado à Seção - E2 - o GIC será chefiado por um capitão, obedecidas as disposições do art. 7º, e as turmas, por oficiais subalternos.
 
-<strong>Art</strong>. 21. Ao GIC compete:
+**Art**. 21. Ao GIC compete:
 
 I - investigar acusações feitas a elementos da Corporação;
 
@@ -366,7 +364,7 @@ IV - organizar e manter atualizado o fichário criminal e disciplinar dos elemen
 
 Parágrafo único. O GIC contará com uma fôrça de choque necessária aos seus trabalhos, colocada à sua disposição pela Chefia do EM.
 
-<strong>Art</strong>. 22. À Turma Técnica - T1 - compete:
+**Art**. 22. À Turma Técnica - T1 - compete:
 
 I - perícia, identificação e arquivo;
 
@@ -374,14 +372,14 @@ II - manter registro dos antecedentes criminais e disciplinares do pessoal da Co
 
 III - cooperar com as unidades administrativas da Corporação, quando solicitada pelos seus respectivos Chefes.
 
-<strong>Art</strong>. 23. À Turma de Investigações Criminais - T2 - compete:
+**Art**. 23. À Turma de Investigações Criminais - T2 - compete:
 
 I - inquéritos policiais-militares e administrativos mandados instaurar pelo Comandante-Geral;
 
 II - averiguações e sindicâncias determinadas para apurar fatos relacionados com o pessoal da Corporação.
 
-<strong>Art</strong>. 24. Os oficiais da T2 poderão desempenhar funções da T1 mediante determinação do Chefe do EM.
+**Art**. 24. Os oficiais da T2 poderão desempenhar funções da T1 mediante determinação do Chefe do EM.
 
 Rio de Janeiro, 2 de abril de 1957.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**

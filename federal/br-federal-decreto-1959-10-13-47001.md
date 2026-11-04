@@ -1,5 +1,3 @@
-###DEC-047001-0-000-13-10-1959@@@
-
 DECRETO Nº 47.001, DE 13 DE OUTUBRO DE 1959.
 
 Altera o nº 2) do Artigo 8º do Regulamento da Diretoria Geral de Material Bélico.

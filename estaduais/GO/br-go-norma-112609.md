@@ -12,8 +12,10 @@ Goiânia, 30 de janeiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-LINEU OLIMPIO<br>
+LINEU OLIMPIO
+
 Deputado Estadual

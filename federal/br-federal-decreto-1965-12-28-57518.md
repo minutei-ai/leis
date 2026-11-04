@@ -1,5 +1,3 @@
-###DEC-057518-0-000-28-12-1965@@@
-
 DECRETO Nº 57.518, DE 28 DE DEZEMBRO DE 1965.
 
 Transfere do Município de União para a Companhia de Eletrificação Rural do Nordeste concessão para produzir e distribuir energia elétrica.

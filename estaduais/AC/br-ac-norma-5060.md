@@ -1,6 +1,10 @@
 > **LEI Nº 3.907, DE 19 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece prazo máximo para inspeção sanitária em estabelecimentos comerciais e industriais pelas vigilâncias 7sanitárias, bem como autoriza sua realização por videoconferência.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece prazo máximo para inspeção sanitária em estabelecimentos comerciais e industriais pelas vigilâncias 7sanitárias, bem como autoriza sua realização por videoconferência.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

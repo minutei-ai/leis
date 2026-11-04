@@ -1,5 +1,3 @@
-###DEC-006708-0-000-23-12-2008@@@
-
 DECRETO Nº 6.708, DE 23 DE DEZEMBRO DE 2008.
 
 Prorroga a validade dos restos a pagar não processados inscritos no exercício financeiro de 2007 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072658-0-000-20-08-1973@@@
-
 DECRETO Nº 72.658, DE 20 DE AGOSTO DE 1973.
 
 Concede à Mineração Abel S.A. o direito de lavrar areia quartzosa no Município de Brotas, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-090207-0-000-20-09-1984@@@
-
 Decreto nº 90.207, de 20 de setembro de 1984
 
 Outorga à Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE concessão para o aproveitamento da energia hidráulica de um trecho do rio Araguaia, no local denominado Santa Isabel, situado nos Municípios de Ananás, Estado de Goiás e São João do Araguaia, Estado do Pará.

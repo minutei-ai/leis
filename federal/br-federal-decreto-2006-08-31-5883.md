@@ -1,5 +1,3 @@
-###DEC-005883-0-000-31-08-2006@@@
-
 DECRETO Nº 5.883, DE 31 DE AGOSTO DE 2006.
 
 Altera alíquotas de posições da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto no 4.542, de 26 de dezembro de 2002.
@@ -21,5 +19,3 @@ LUIZ INÁCIO LULA DA SILVA
          Luiz Fernando Furlan
 
            Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no D.O.U. de 1º.9.2006.

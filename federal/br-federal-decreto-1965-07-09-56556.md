@@ -1,5 +1,3 @@
-###DEC-056556-0-000-09-07-1965@@@
-
 DECRETO Nº 56.556, DE 9 DE JULHO DE 1965.
 
 Autoriza o cidadão brasileiro Angelo Micuci a pesquisar água mineral, no município de São José do Rio Prêto - Estado de São Paulo.

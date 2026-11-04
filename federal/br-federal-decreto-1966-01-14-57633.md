@@ -1,5 +1,3 @@
-###DEC-057633-0-000-14-01-1966@@@
-
 decreto nº 57.633, de 14 de janeiro de 1966.
 
 Abre pelo Ministério da Fazenda, o crédito especial de Cr$20.000.000,00, para o fim que especifica.

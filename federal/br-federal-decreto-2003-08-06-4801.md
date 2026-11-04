@@ -1,5 +1,3 @@
-###DEC-004801-0-000-06-08-2003@@@
-
 DECRETO Nº 4.801, DE 6 DE AGOSTO DE 2003.
 
        Cria a Câmara de Relações Exteriores e Defesa Nacional, do Conselho de Governo.
@@ -84,5 +82,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 6 de agosto de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Jorge Armando Felix

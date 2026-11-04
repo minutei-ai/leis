@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6b5b837b-17c6-486e-b221-b190097b248a/texto#nowhere)
 
-###DEL-001204-0-000-18-01-1972@@@
-
 # DECRetO-LEI Nº 1.204, DE 18 DE JANEIRO DE 1972
 
 Altera, para o exercício de 1972, a distribuição do produto da arrecadação dos impostos únicos.

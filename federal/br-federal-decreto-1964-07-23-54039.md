@@ -1,5 +1,3 @@
-###DEC-054039-0-000-23-07-1964@@@
-
 Decreto nº 54.039, de 23 de julho de 1964.
 
 Altera a redação do Decreto nº 383, de 20 de dezembro de 1961.

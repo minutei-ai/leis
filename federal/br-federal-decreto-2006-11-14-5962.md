@@ -1,5 +1,3 @@
-###DEC-005962-0-000-14-11-2006@@@
-
 DECRETO Nº 5.962 DE 14 DE NOVEMBRO DE 2006.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo do Reino da Tailândia sobre Cooperação Técnica em Medidas Sanitárias e Fitossanitárias, celebrado em Brasília, em 16 de junho de 2004.
@@ -24,11 +22,7 @@ Brasília, 14 de novembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 16.11.2006
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DO REINO DA TAILÂNDIA SOBRE COOPERAÇÃO TÉCNICA EM MEDIDAS SANITÁRIAS E FITOSSANITÁRIAS
+         Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DO REINO DA TAILÂNDIA SOBRE COOPERAÇÃO TÉCNICA EM MEDIDAS SANITÁRIAS E FITOSSANITÁRIAS
 
 O Governo da República Federativa do Brasil
 
@@ -102,4 +96,12 @@ Em fé do que, os abaixo assinados, devidamente autorizados por seus respectivos
 
 Feito em Brasília, em 16 de junho de 2004, em dois exemplares originais, nos idiomas português, tailandês e inglês, sendo todos os textos igualmente idênticos. Em caso de divergências na interpretação, o texto em inglês deverá prevalecer.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:262.3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICAFEDERATIVA DO BRASIL Celso Amorim Ministro de Estado das Relações Exteriores</span></p></td><td style="width:186.6pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DO REINODA TAILÂNDIA Surakiart Sathirathai Ministro de Relações Exteriores</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:262.3pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICAFEDERATIVA DO BRASIL Celso Amorim Ministro de Estado das Relações Exteriores
+
+</td><td style="width:186.6pt; vertical-align:top">
+
+PELO GOVERNO DO REINODA TAILÂNDIA Surakiart Sathirathai Ministro de Relações Exteriores
+
+</td></tr></tbody></table>

@@ -14,32 +14,38 @@ Art. 3º - O benefício financeiro de que trata o artigo anterior será concedid
 
 I - Categoria Internacional A: atleta olímpico, paraolímpico e mundial adulto, bolsa no valor de R$3.800,00 (três mil e oitocentos reais);
 
-Redação de acordo com a Lei nº [14.641](https://www.legislabahia.ba.gov.br/documentos/lei-no-14641-de-26-de-dezembro-de-2023) de 26 de dezembro de 2023.<br>
+Redação de acordo com a Lei nº [14.641](https://www.legislabahia.ba.gov.br/documentos/lei-no-14641-de-26-de-dezembro-de-2023) de 26 de dezembro de 2023.
+
 Redação original: "I - Categoria Internacional A: atleta olímpico, paraolímpico e mundial adulto, bolsa no valor de R$ 2.000,00 (dois mil reais);"
 
 II - Categoria Internacional B: atleta pan-americano, parapan-americano adulto e, mundial júnior ou juvenil, bolsa no valor de R$2.800,00 (dois mil e oitocentos reais);
 
-Redação de acordo com a Lei nº 14.641 de 26 de dezembro de 2023.<br>
+Redação de acordo com a Lei nº 14.641 de 26 de dezembro de 2023.
+
 Redação original: "II - Categoria Internacional B: atleta pan-americano, parapan-americano adulto e, mundial júnior ou juvenil, bolsa no valor de R$ 1.500,00 (hum mil e quinhentos reais);"
 
 III - Categoria Internacional C: atleta e paratleta sul-americano adulto e pan-americano júnior ou juvenil, bolsa no valor de R$1.800,00 (hum mil e oitocentos reais);
 
-Redação de acordo com a Lei nº 14.641 de 26 de dezembro de 2023.<br>
+Redação de acordo com a Lei nº 14.641 de 26 de dezembro de 2023.
+
 Redação original: "III - Categoria Internacional C: atleta e paratleta sul-americano adulto e pan-americano júnior ou juvenil, bolsa no valor de R$ 1.000,00 (hum mil reais);"
 
 IV - Categoria Nacional A: atleta e paratleta nacional adulto, bolsa no valor de R$1.500,00 (hum mil e quinhentos reais);
 
-Redação de acordo com a Lei nº 14.641 de 26 de dezembro de 2023.<br>
+Redação de acordo com a Lei nº 14.641 de 26 de dezembro de 2023.
+
 Redação original: "IV - Categoria Nacional A: atleta e paratleta nacional adulto, bolsa no valor de R$ 800,00 (oitocentos reais);"
 
 V - Categoria Nacional B: atleta e paratleta nacional júnior e juvenil ou infantil internacional, bolsa no valor de R$ 1.250,00 (hum mil duzentos e cinquenta reais);
 
-Redação de acordo com a Lei nº 14.641 de 26 de dezembro de 2023.<br>
+Redação de acordo com a Lei nº 14.641 de 26 de dezembro de 2023.
+
 Redação original: "V - Categoria Nacional B: atleta e paratleta nacional júnior e juvenil ou infantil internacional, bolsa no valor de R$ 600,00 (seiscentos reais);"
 
 VI - Categoria Talento Esportivo: Bolsa Institucional no valor de R$800,00 (oitocentos reais).
 
-Redação de acordo com a Lei nº 14.641 de 26 de dezembro de 2023.<br>
+Redação de acordo com a Lei nº 14.641 de 26 de dezembro de 2023.
+
 Redação original: "VI - Categoria Talento Esportivo: Bolsa Institucional no valor de R$ 380,00 (trezentos e oitenta reais). "
 
 § 1º - A bolsa terá a duração de 01 (um) ano e, findo o prazo, o atleta e o paratleta serão reavaliados, podendo ser renovada ou não, conforme o seu desempenho, observado o procedimento disposto em regulamento.

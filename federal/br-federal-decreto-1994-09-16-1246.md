@@ -1,7 +1,3 @@
-1
-
-###DEC-001246-0-000-16-09-1994@@@
-
 DECRETO Nº 1.246, DE 16 DE SETEMBRO DE 1994
 
 Promulga o Tratado para a Proscrição das Armas Nucleares na América Latina e no Caribe (Tratado de Tlatelolco), concluído na Cidade do México, em 14 de fevereiro de 1967, e as Resoluções números 267 (E-V), de 3 de julho de 1990, 268 (XII), de 10 de maio de 1991, e 290 (VII), de 26 de agosto de 1992, as três adotadas pela Conferência Geral do Organismo para a Proscrição das Armas Nucleares na América Latina e no Caribe (OPANAL), na Cidade do México.

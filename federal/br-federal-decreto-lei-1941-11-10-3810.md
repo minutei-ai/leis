@@ -1,5 +1,3 @@
-###DEL-003810-0-000-10-11-1941@@@
-
 DECRETO-LEI N. 3.810 – DE 10 DE NOVEMBrO DE 1941
 
 Organiza os Corpos do Pessoal Militar da Aeronáutica

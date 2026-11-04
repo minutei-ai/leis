@@ -1,5 +1,3 @@
-###DEC-047583-0-000-31-12-1959@@@
-
 DECRETO Nº 47.583, DE 31 DE DEZEMBRO DE 1959.
 
 Abre, ao Ministério da Educação e Cultura o crédito especial de Cr$1.000.000,00, para atender às despesas com a comemoração do bicentenário da criação do município de Rio Pomba, em Minas Gerais.

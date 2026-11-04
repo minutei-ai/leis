@@ -1,5 +1,3 @@
-###DEC-072844-0-000-26-09-1973@@@
-
 decreto nº 72.844, de 26 de setembro de 1973
 
 Concede reconhecimento ao curso de Pedagogia, do Instituto de Ciências Sociais, mantido pelas Universidades Integradas de Ensino e Pesquisa do Distrito Federal, com sede na cidade de Brasília, Distrito Federal.

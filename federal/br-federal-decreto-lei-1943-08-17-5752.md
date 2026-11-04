@@ -1,5 +1,3 @@
-###DEL-005752-0-000-17-08-1943@@@
-
 DECRETO‑LEE N. 5.752 – DE 17 DE AGÔSTO DE 1943
 
 Altera sem aumento de despesa o atual orçamento do ministério  da Aeronáutica

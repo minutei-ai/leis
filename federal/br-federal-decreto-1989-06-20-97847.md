@@ -1,7 +1,3 @@
-1
-
-###DEC-097847-0-000-20-06-1989@@@
-
 DECRETO Nº 97.847, DE 20 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA MAMONEIRAS (parte”), classificado como “latifúndio por exploração”, situado no Município de Bonfinópolis de Minas, Estado de Minas Gerais, compreendido na zona prioritária fixada pelo Decreto nº 92.694, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006876-0-000-15-09-1944@@@
-
 DECRETO-LEI N. 6.876 – DE 15 DE SETEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.200 000,00, para as despesas iniciais da Comissão da Indústria de Material Elétrico

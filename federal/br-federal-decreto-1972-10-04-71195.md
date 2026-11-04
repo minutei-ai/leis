@@ -1,5 +1,3 @@
-###DEC-071195-0-000-04-10-1972@@@
-
 DECRETO Nº 71.195 - DE 4 DE OUTUBRO DE 1972.
 
 Dispõe sobre a inclusão de áreas prioritária, para fins de reforma agrária, no Estado do Maranhão.

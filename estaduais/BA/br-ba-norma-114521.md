@@ -1,7 +1,9 @@
 LEI Nº 1.641 DE 15 DE MARÇO DE 1962
 
-Ver também:<br>
-Lei nº [13.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-13360-de-29-de-junho-de-2015#LO%2013.360) de 29 de junho de 2015 -  Atualiza na forma da Lei 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: Araci, Barrocas, Biritinga, Candeal, Cansanção, Conceição do Coité, Ichu, Itiúba, Lamarão, Monte Santo, Nordestina, Queimadas, Quijingue, Retirolândia, Santaluz, São Domingos, Serrinha, Teofilândia, Tucano e Valente.<br>
+Ver também:
+
+Lei nº [13.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-13360-de-29-de-junho-de-2015#LO%2013.360) de 29 de junho de 2015 -  Atualiza na forma da Lei 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: Araci, Barrocas, Biritinga, Candeal, Cansanção, Conceição do Coité, Ichu, Itiúba, Lamarão, Monte Santo, Nordestina, Queimadas, Quijingue, Retirolândia, Santaluz, São Domingos, Serrinha, Teofilândia, Tucano e Valente.
+
 Lei nº [12.638](javascript: openDoc\() de 10 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Litoral Sul, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Almadina, Arataca, Aurelino Leal, Barro Preto, Buerarema, Camacan, Canavieiras, Coaraci, Floresta Azul, Ibicaraí, Ilhéus, Itabuna, Itacaré, Itaju do Colônia, Itajuípe, Itapé, Itapitanga, Jussari, Maraú, Mascote, Pau Brasil, Santa Luzia, São José da Vitória, Ubaitaba, Una e Uruçuca.  
 
 Cria o Município de Quinjingue, desmembrado do de Tucano.
@@ -66,4 +68,4 @@ Onde se lê: Lei nº 1640, de 15.3.1962.
 
 Leia-se: Lei nº 1641, de 15.3.1962.
 
-* * *
+ *

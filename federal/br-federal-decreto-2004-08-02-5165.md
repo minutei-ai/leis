@@ -1,5 +1,3 @@
-###DEC-005165-0-000-02-08-2004@@@
-
 DECRETO Nº 5.165 DE 2 DE AGOSTO DE 2004
 
 Regulamenta a Medida Provisória nº 197, de 7 de julho de 2004, que cria o Programa de Modernização do Parque Industrial Nacional - MODERMAQ e dá outras providências.

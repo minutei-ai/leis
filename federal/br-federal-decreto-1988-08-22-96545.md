@@ -1,5 +1,3 @@
-###DEC-096545-0-000-22-08-1988@@@
-
 DECRETO N° 96.545, DE 22 DE AGOSTO DE 1988
 
 Outorga concessão à RÁDIO SANTANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Santana Estado da Bahia.

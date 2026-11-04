@@ -1,5 +1,3 @@
-###DEL-002168-0-000-29-10-1984@@@
-
 # DECRETO-LEI nº 2.168, de 29 de Outubro dE 1984
 
 Concede isenção de impostos aos bens importados para substituição ou reparo daqueles danificados pelas inundações ocorridas na Região Sul do País.

@@ -26,12 +26,18 @@ IV - 1974 - US Dólares 3.450.000
 
 V - 1975 - US Dólares 2.750.000
 
-Redação de acordo com o [art. 1º da Lei nº 2.857, de 30 de novembro de 1970](https://www.legislabahia.ba.gov.br/documentos/lei-no-2857-de-30-de-novembro-de-1970#LO_2_857_R01_Art__1) .<br>
-Redação original: "Parágrafo único - Os orçamentos dos exercícios de 1971 a 1975 consignarão as dotações necessárias para o pagamento, ao câmbio então vigente, das seguintes importâncias em dólar norte-americano ou o equivalente em outras moedas estrangeiras:<br>
-I - 1971 - US$1.596.00<br>
-II - 1972 - US$3.683.943<br>
-III - 1973 - US$3.999.544<br>
-IV - 1974 - US$3.543.088<br>
+Redação de acordo com o [art. 1º da Lei nº 2.857, de 30 de novembro de 1970](https://www.legislabahia.ba.gov.br/documentos/lei-no-2857-de-30-de-novembro-de-1970#LO_2_857_R01_Art__1) .
+
+Redação original: "Parágrafo único - Os orçamentos dos exercícios de 1971 a 1975 consignarão as dotações necessárias para o pagamento, ao câmbio então vigente, das seguintes importâncias em dólar norte-americano ou o equivalente em outras moedas estrangeiras:
+
+I - 1971 - US$1.596.00
+
+II - 1972 - US$3.683.943
+
+III - 1973 - US$3.999.544
+
+IV - 1974 - US$3.543.088
+
 V - 1975 - US$2.362.031"
 
 Art. 5º - Para atender, no presente exercício, as despesas decorrentes desta lei, fica o Poder Executivo autorizado a abrir crédito especial até a importância de NCr$4.000.000,00 (quatro milhões de cruzeiros novos) que será classificada na função 4, programa 14 e nos seguintes elementos de despesa: 3.1.3.0 - Serviços de Terceiros, e 3.2.4.0 - Juros.

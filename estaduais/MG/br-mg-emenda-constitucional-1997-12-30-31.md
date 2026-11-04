@@ -37,7 +37,3 @@ Deputado Marcelo Gonçalves – 3º Secretário (afastado)
 Deputado Dilzon Melo – 4º Secretário
 
 Deputada Maria Olívia – 5ª Secretária
-
-\==================
-
-Data da última atualização: 15/1/2018.

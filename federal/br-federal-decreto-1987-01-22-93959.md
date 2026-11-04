@@ -1,5 +1,3 @@
-###DEC-093959-0-000-22-01-1987@@@
-
 DECRETO Nº 93.959, DE 22 DE JANEIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada no Município e Comarca de Salto, Estado de São Paulo, destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

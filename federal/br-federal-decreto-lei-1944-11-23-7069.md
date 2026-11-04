@@ -1,5 +1,3 @@
-###DEL-007069-0-000-23-11-1944@@@
-
 DECRETO-LEI N. 7.069 – DE 23 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de  Cr$ 150.000,00 à verba que especifica

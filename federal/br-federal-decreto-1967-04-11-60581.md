@@ -1,5 +1,3 @@
-###DEC-060581-0-000-11-04-1967@@@
-
 DECRETO Nº 60.581, DE 11 DE ABRIL DE 1967.
 
 Declara de utilidade pública a “Conferência Nacional dos Bispos do Brasil”, com sede no Estado da Guanabara.

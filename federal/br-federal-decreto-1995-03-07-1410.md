@@ -1,7 +1,3 @@
-1
-
-###DEC-001410-0-000-07-03-1995@@@
-
 DECRETO N° 1.410, DE 7 DE MARÇO DE 1995.
 
 Determina corte nos dispêndios correntes das Empresas Estatais Federais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055576-0-000-18-01-1965@@@
-
 DECRETO Nº 55.5576, DE 18 DE JANEIRO DE 1965.
 
 Concede à Ocidental Companhia de Seguros Gerais, autorização para funcionar e aprova os seus Estatutos.

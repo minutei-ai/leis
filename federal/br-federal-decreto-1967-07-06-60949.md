@@ -1,5 +1,3 @@
-###DEC-060949-0-000-06-07-1967@@@
-
 DECRETO Nº 60.949, de 6 de julho de 1967.
 
 Outorga á Centrais Elétrica de Minas Gerais S.A. concessão para distribuir energia elétrica no município de Braúnas, Estado de Minas Gerais.

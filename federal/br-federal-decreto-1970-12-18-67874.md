@@ -1,5 +1,3 @@
-###DEC-067874-0-000-18-12-1970@@@
-
 Decreto nº 67.874, de 18 de dezembro de 1970.
 
 Autoriza a concessão de garantia da União até US$ 28.880.000,00 a operações externas da Companhia do Metropolitano de São Paulo - Metrô, e dá outras providências.

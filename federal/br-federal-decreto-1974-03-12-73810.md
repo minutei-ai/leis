@@ -1,5 +1,3 @@
-###DEC-073810-0-000-12-03-1974@@@
-
 DECRETO Nº 73.810, DE 12 DE MARÇO DE 1974.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados no Município de Cascavel, no Estado do Paraná, compreendidos na área prioritária de Reforma Agrária, de que trata o Decreto nº 69.411, de 22 de outubro de 1971.

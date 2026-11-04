@@ -1,7 +1,3 @@
-1
-
-###MPV-000817-0-000-05-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 817, DE 5 DE JANEIRO DE 1995
 
 Dispõe sobre as regras para a conversão em Real, das mensalidades escolares nos estabelecimentos de ensino e dá outras providências.

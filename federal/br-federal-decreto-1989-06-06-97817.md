@@ -1,7 +1,3 @@
-1
-
-###DEC-097817-0-000-06-06-1989@@@
-
 DECRETO Nº 97.817, DE 6 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “SANTO ANTONIO DO VELOSO”, também conheci­do como “FAZENDA VELOSO e FAZENDA BOM JARDIM”, classificado como “latifúndio por exploração”, situado nos Municípios de Li­ma Campos, São Luiz Gonzaga e Pedreiras, Estado do Maranhão, compreendido na zo­na prioritária fixada pelo Decreto n° 92.619, de 02 de maio de 1986, e dá outras providências.

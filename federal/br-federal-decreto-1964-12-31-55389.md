@@ -1,5 +1,3 @@
-###DEC-055389-0-000-31-12-1964@@@
-
 DECRETO Nº 55.389, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Maria Aguiar a pesquisar cassiterita, no município de Lábrea, Estado do Amazonas.

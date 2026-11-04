@@ -1,5 +1,3 @@
-###DEC-053341-0-000-24-12-1963@@@
-
 DECRETO Nº 53.341, DE 24 DE DEZEMBRO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Minas Brasil, inclusive aumento de capital social.

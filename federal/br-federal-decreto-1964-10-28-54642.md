@@ -1,5 +1,3 @@
-###DEC-054642-0-000-28-10-1964@@@
-
 DECRETO Nº 54.642, DE 28 DE OUTUBRO DE 1964.
 
 Outorga ao Município de Campina Verde, Estado de Minas Gerais, concessão para distribuir energia elétrica.
@@ -41,8 +39,6 @@ Brasília, 28 de outubro de 1964; 143; da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-054642-0-000-28-10-1964@@@RET01+++
 
 DECRETO Nº 54.642, DE 28 DE OUTUBRO DE 1964.
 

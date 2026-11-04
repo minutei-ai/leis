@@ -1,5 +1,3 @@
-###DEC-003399-0-000-31-03-2000@@@
-
 DECRETO Nº 3.399, DE 31 DE MARÇO DE 2000.
 
 Dispõe sobre a contratação de operações de crédito ao amparo do Programa de Revitalização de Cooperativas de Produção Agropecuária – RECOOP, de que tratam os Decretos nº 2936, de 11 de janeiro de 1999, e 3.263, de 25 de novembro de 1999.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211902)<br>
-
 # DECRETO N° 70.133, DE 29 DE NOVEMBRO DE 2025
 
 ### _Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Turmalina, que declarou Situação de Emergência em áreas do Município._

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7bfbe8fb-ead5-411a-8f4f-8fd45a15b80b/texto#nowhere)
 
-###DEL-001067-0-000-29-10-1969@@@
-
 Decreto-lei nº 1.067, de 29 De OuTUbro de 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério da fazenda em favor do Território Federal do Amapá, do Território Federal de Rondônia e do Território Federal de Roraima o crédito especial de NCr$290.753,87, para o fim que especifica.

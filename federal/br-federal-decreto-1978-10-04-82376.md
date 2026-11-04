@@ -1,5 +1,3 @@
-###DEC-082376-0-000-04-10-1978@@@
-
 Decreto nº 82.376, de 04 de outubro de 1978.
 
 Autoriza a conversão do curso de Matemática em curso de Ciências, ministrada pela Faculdade de Filosofia de Passos, com sede na cidade de Passos, Estado de Minas Gerais.

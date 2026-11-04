@@ -1,5 +1,3 @@
-###DEC-005139-0-000-12-07-2004@@@
-
 DECRETO Nº 5.139, DE 12 DE JULHO DE 2004.
 
        Dispõe sobre a aplicação dos recursos financeiros referentes ao art. 9º e o inciso VI do art. 56 da Lei no 9.615, de 24 de março de 1998.
@@ -222,5 +220,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 12 de julho de 2004; 183º da Independência e 116º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Agnelo Santos Queiroz Filho

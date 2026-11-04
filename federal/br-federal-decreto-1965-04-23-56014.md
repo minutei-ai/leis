@@ -1,5 +1,3 @@
-###DEC-056014-0-000-23-04-1965@@@
-
 DECRETO Nº 56.014, De 23 DE ABRIL DE 1965.
 
 Declara caduco Decreto nº 7.359, de 10 de junho de 1941.

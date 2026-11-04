@@ -1,5 +1,3 @@
-###DEL-003500-0-000-14-08-1941@@@
-
 DECRETO-LEI N. 3.500 – DE 14 DE AGOSTO DE 1941
 
 Dá nova redação aos arts. 213 e 216 da Organização Judiciária, do Distrito Federal

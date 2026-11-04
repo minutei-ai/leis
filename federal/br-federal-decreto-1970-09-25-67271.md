@@ -1,5 +1,3 @@
-###DEC-067271-0-000-25-09-1970@@@
-
 Decreto nº 67.271, de 25 de setembro de 1970.
 
 Exclui do relacionamento de disponibilidade constante da Portaria Ministerial nº 3.497, de 29 de agôsto de 1969, o cargo e o servidor indicado.

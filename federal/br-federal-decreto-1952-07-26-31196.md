@@ -1,10 +1,8 @@
-###DEC-031196-0-000-26-07-1952@@@
+**DECRETO Nº 31.196, DE 26 DE JULHO DE 1952.**
 
-<strong>DECRETO Nº 31.196, DE 26 DE JULHO DE 1952.</strong>
+***Autoriza ao Regimento Sampaio o uso da insígnia de Cavaleiro da Imperial Ordem do Cruzeiros do Sul.***
 
-<em><strong>Autoriza ao Regimento Sampaio o uso da insígnia de Cavaleiro da Imperial Ordem do Cruzeiros do Sul.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>:
+**O PRESIDENTE DA REPÚBLICA**:
 
 CONSIDERANDO:
 
@@ -18,14 +16,14 @@ Que o 1º Batalhão do Infantaria, principal formador do atual Regimento Sampaio
 
 Que o Regimento Sampaio honrou na Campanha da Itália as tradições daquela Unidade, conquistando, por seus feitos, a Cruz de Combate de 1ª Classe.
 
-<strong>RESOLVE:</strong>
+**RESOLVE:**
 
-<strong>Art</strong>. 1º É permitido ao Regimento Sampaio (1º Regimento de Infantaria) o uso em seu estandarte da Insígnia de Cavaleiro da Imperial Ordem do Cruzeiro do Sul, com que foi condecorado, por decreto de 16 de janeiro de 1867, o 1º Batalhão de Infantaria de que é continuador aquele Regimento.
+**Art**. 1º É permitido ao Regimento Sampaio (1º Regimento de Infantaria) o uso em seu estandarte da Insígnia de Cavaleiro da Imperial Ordem do Cruzeiro do Sul, com que foi condecorado, por decreto de 16 de janeiro de 1867, o 1º Batalhão de Infantaria de que é continuador aquele Regimento.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de julho de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro Espírito Santo Cardoso

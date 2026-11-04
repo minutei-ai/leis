@@ -1,5 +1,3 @@
-###DEC-046343-0-000-01-07-1959@@@
-
 Decreto nº 46.343, de 1º de julho de 1959.
 
 Declara de utilidade pública a “Academia Belo-Horizontina de Letras”, com sede em Belo Horizonte, Estado de Minas Gerais.

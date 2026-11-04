@@ -1,5 +1,3 @@
-###DEC-002444-0-000-30-12-1997@@@
-
 DECRETO Nº 2.444, DE 30 DE DEZEMBRO DE 1997
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, das rodovias federais que menciona, e dá outras providências.

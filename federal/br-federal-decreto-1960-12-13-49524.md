@@ -1,5 +1,3 @@
-###DEC-049524-0-000-13-12-1960@@@
-
 DECRETO Nº 49.524, de 13 de dezembro de 1960.
 
 Regulamenta a lei n.º 970, de 16 de dezembro de 1949, que dispõe sôbre as atribuições, organização e funcionamento do Conselho Nacional de Economia.

@@ -1,5 +1,3 @@
-###DEL-005275-0-000-24-02-1943@@@
-
 DECRETO‑LEI N. 5.275 – DE 24 DE FEVEREIRO DE 1943
 
 Dispõe sobre a Comissão Central de Requisições e as Comissões e Subco-missões de Avaliação de Requisições, estabelece penalidades e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-009001-0-000-19-02-1946@@@
-
 DECRETO-LEI N. 9.001 – DE 19 DE FEVEREIRO DE 1946
 
 Aceita a doação, feita à União, de uma casa térrea e respectivo terreno, situados em Cuiabá, Estado de Mato Grosso.

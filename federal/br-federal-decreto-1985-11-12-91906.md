@@ -1,5 +1,3 @@
-###DEC-091906-0-000-12-11-1985@@@
-
 decreto nº 91.906, de 12 de novembro de 1985
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO CANOINHAS LTDA., para a RÁDIO CLUBE DE CANOINHAS LTDA.

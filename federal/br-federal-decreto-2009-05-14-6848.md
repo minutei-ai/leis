@@ -1,5 +1,3 @@
-###DEC-006848-0-000-14-05-2009@@@
-
 DECRETO Nº 6.848, DE 14 DE MAIO DE 2009.
 
 Altera e acrescenta dispositivos ao Decreto no 4.340, de 22 de agosto de 2002, para regulamentar a compensação ambiental.

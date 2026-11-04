@@ -1,5 +1,3 @@
-###DEC-095490-0-000-14-12-1987@@@
-
 DECRETO Nº 95.490, DE 14 DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Geografia da Faculdade de Educação e Geografia de Naviraí, Mato Grosso do Sul.

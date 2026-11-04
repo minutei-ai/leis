@@ -1,5 +1,3 @@
-###DEC-097539-0-000-21-02-1989@@@
-
 DECRETO N° 97.539, DE 21 DE FEVEREIRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural de­nominado “FAZENDA PIRAPUTANGAS”, classificado como latifúndio por exploração, situado no Município de Corumbá, Estado de Mato Grosso do Sul, compreendido na zona prioritária, fixada pelo Decreto n° 92.621, de 2 de maio de 1986, e dá outras providências.

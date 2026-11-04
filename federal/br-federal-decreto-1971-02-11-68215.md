@@ -1,5 +1,3 @@
-###DEC-068215-0-000-11-02-1971@@@
-
 DECRETO Nº 68.215, DE 11 DE FEVEREIRO DE 1971.
 
 Concede à Sandspar Minérios Ltda., o direito de lavrar quartzo, no município de Mogi das Cruzes, Estado de São Paulo.

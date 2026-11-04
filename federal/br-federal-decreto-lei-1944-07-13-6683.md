@@ -1,5 +1,3 @@
-###DEL-006683-0-000-13-07-1944@@@
-
 DECRETO-LEI N. 6.683 – DE 13 DE JULHO DE 1944
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Fazenda e dá outras providências

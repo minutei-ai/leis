@@ -1,5 +1,3 @@
-###DEL-008991-0-000-16-02-1946@@@
-
 DECRETO-LEI N. 8.991 – DE 16 DE FEVEREIRO DE 1946
 
 Dispõe sôbre o preenchimento de funções de assistente da Tabela Numérica de mensalistas da Escola de Agronomia Eliseu Maciel.

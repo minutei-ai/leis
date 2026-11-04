@@ -1,5 +1,3 @@
-###DEC-078215-0-000-05-08-1976@@@
-
 DECRETO Nº 78.215, De 5 de Agosto De 1976.
 
 Autoriza o funcionamento da Faculdade de Formação de Professores de 1º grau de Serra Talhada, com sede na cidade de Serra Talhada, Estado de Pernambuco.

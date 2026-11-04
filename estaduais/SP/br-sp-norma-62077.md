@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62077)
-
 # LEI Nº 12.337, DE 12 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 762/2005, do Deputado Edson Aparecido - PSDB)

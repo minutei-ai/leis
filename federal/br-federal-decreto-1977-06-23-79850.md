@@ -1,5 +1,3 @@
-###DEC-079850-0-000-23-06-1977@@@
-
 Decreto nº 79.850, de 23 de junho de 1977
 
 Concede reconhecimento aos cursos Estudos Sociais e de Pedagogia, do Instituto de Ciências Humanas das faculdades Integradas de Uberaba, com sede na cidade de Uberaba, Estado de Minas Gerais.

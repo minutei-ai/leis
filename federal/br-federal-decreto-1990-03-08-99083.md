@@ -1,7 +1,3 @@
-1
-
-###DEC-099083-0-000-08-03-1990@@@
-
 DECRETO Nº 99.083, DE 8 DE MARÇO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel, com suas benfeitorias, situado à Avenida Vicente Machado, nº 147, em Curitiba, Estado do Paraná, destinado a sediar a Justiça do Trabalho de 1ª Instância.

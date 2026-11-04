@@ -1,5 +1,3 @@
-###DEC-058530-0-000-30-05-1966@@@
-
 Decreto nº 58.530, de 30 de maio de 1966.
 
 Outorga à Companhia de Eletricidade de Alagoas concessão para distribuir energia elétrica em diversos municípios.

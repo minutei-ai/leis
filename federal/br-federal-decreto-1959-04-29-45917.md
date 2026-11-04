@@ -1,5 +1,3 @@
-###DEC-045917-0-000-29-04-1959@@@
-
 DECRETO Nº 45.917, DE 29 DE abril DE 1959.
 
 Autoriza o cidadão brasileiro Tulio Guimarães da Gama a pesquisar minério de manganês do município  de Itabirito, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-068007-0-000-31-12-1970@@@
-
 DECRETO Nº 68.007, de 31 de dezembro de 1970.
 
 Declara caduco o Decreto nº 49.229 de 16 de novembro de 1960.

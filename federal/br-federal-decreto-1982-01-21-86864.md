@@ -1,5 +1,3 @@
-###DEC-086864-0-000-21-01-1982@@@
-
 Decreto nº 86.864, de 21 de janeiro de 1982
 
 Regulamenta o Decreto-lei nº 1.896, de 17 dezembro de 1981, que dispõe sobre a utilização de instalação e serviços destinados a apoiar e tornar segura a navegação aérea.

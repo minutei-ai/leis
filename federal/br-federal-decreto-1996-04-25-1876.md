@@ -1,5 +1,3 @@
-###DEC-001876-0-000-25-04-1996@@@
-
 DECRETO Nº 1.876, DE 25 DE ABRIL DE L996
 
 Altera o art. 3° do Decreto n° 98.881, de 25 de janeiro de 1990, que dispõe sobre a Criação de Área de Proteção Ambiental no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-056584-0-000-20-07-1965@@@
-
 DECRETO Nº 56.584, DE 20 DE JULHO DE 1965.
 
 Institui o “Curso de Aviação Agrícola (CAVAG), e dá outras providências

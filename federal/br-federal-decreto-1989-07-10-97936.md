@@ -1,7 +1,3 @@
-1
-
-###DEC-097936-0-000-10-07-1989@@@
-
 DECRETO N° 97.936, DE 10 DE JULHO DE 1989
 
 Institui o Cadastro Nacional do Trabalhador e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071374-0-000-14-11-1972@@@
-
 DECRETO Nº 71.374 - DE 14 DE NOVEMBRO DE 1972.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Ministério do Trabalho e Previdência Social.

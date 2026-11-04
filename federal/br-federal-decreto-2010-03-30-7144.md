@@ -1,5 +1,3 @@
-###DEC-007144-0-000-30-03-2010@@@
-
 DECRETO Nº 7.144, DE 30 DE MARÇO DE 2010.
 
 Altera os arts. 1o, 2o e 8o e os Anexos I, II, III, IV, VII, VIII, IX e X do Decreto no 7.094, de 3 de fevereiro de 2010, que dispõe sobre a programação orçamentária e financeira, estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2010, e dá outras providências.

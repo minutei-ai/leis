@@ -1,5 +1,3 @@
-###DEL-001111-0-000-10-07-1970@@@
-
 # Decreto-lei Nº 1.111, DE 10 DE JULHO DE 1970
 
 Estabelece preço de referência para produtos importados nos casos que especifica, e dá outras providências.

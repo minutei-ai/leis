@@ -1,6 +1,7 @@
 LEI Nº 3.413 DE 01 DE DEZEMBRO DE 1975
 
-Ver também:<br>
+Ver também:
+
 Art. 10 da Lei nº 3.700, de 31 de maio de 1979 : "Esta Lei entra em vigor na data da sua publicação, revogadas as disposições em contrário, especialmente as contidas nas Leis nº 2.321, de 11 de abril de 1966, nº 3.163, de 04 de outubro de 1973; nº 3.247, de 21 de dezembro de 1973; nº 3.385, de 06 de junho de 1975; nº 3.413, de 01 de dezembro de 1975; nº 3.495, de 07 de julho de 1976; e Lei Delegada nº 08, de 09 de julho de 1974."
 
 Altera a [Lei Delegada nº 8, de 09 de julho de 1974](https://www.legislabahia.ba.gov.br/documentos/lei-no-3413-de-01-de-dezembro-de-1975#LD_08) , e dá outras providências.
@@ -129,4 +130,56 @@ ANEXO I
 
 CARGOS EM COMISSÃO
 
-<table style="width: 276.4pt; margin-left: 63.8pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt;" width="369" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 113.4pt; border: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="151"><p class="Tabela-Texto"><span>CARGO</span></p></td><td style="width: 77.95pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>SÍMBOLO</span></p></td><td style="width: 85.05pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>QUANTIDADE</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="151"><p class="Tabela-Texto"><span>Subsecretário</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2-C</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="151"><p class="Tabela-Texto"><span>Chefe de Gabinete</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3-C</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="151"><p class="Tabela-Texto"><span>Assessor Chefe</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3-C</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="151"><p class="Tabela-Texto"><span>Coordenador</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3-C</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="151"><p class="Tabela-Texto"><span>Assessor</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4-C</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>8</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="151"><p class="Tabela-Texto"><span>Diretor do SAG</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>5-C</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="151"><p class="Tabela-Texto"><span>Assessor</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>6-C</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>7</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="151"><p class="Tabela-Texto"><span>Oficial de Gabinete</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>10-C</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Subsecretário
+
+2-C
+
+2
+
+Chefe de Gabinete
+
+3-C
+
+1
+
+Assessor Chefe
+
+3-C
+
+1
+
+Coordenador
+
+3-C
+
+2
+
+Assessor
+
+4-C
+
+8
+
+Diretor do SAG
+
+5-C
+
+1
+
+Assessor
+
+6-C
+
+7
+
+Oficial de Gabinete
+
+10-C
+
+1

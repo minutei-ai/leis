@@ -1,5 +1,3 @@
-###DEC-075844-0-000-11-06-1975@@@
-
 DECRETO Nº 75.844, DE 11 DE JUNHO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Alvorada de Londrina Limitada, para que a Fundação Mater et Magistra de Londrina passe a executar serviço de radiodifusão sonora em onda tropical, na cidade de Londrina, Estado do Paraná, sob a denominação de Rádio Alvorada de Londrina.

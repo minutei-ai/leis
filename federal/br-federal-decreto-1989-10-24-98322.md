@@ -1,7 +1,3 @@
-1
-
-###DEC-098322-0-000-24-10-1989@@@
-
 DECRETO Nº 98322, DE 24 DE OUTUBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento - DNOS, áreas de terras, com as respectivas benfeitorias, indispensáveis a construção e à formação do reservatório de acumulação da Barragem da Santa Eulália, no Estado do Maranhão ª

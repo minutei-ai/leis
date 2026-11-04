@@ -1,5 +1,3 @@
-###DEC-047245-0-000-16-11-1959@@@
-
 decreto nº 47.245, de 16 de novembro de 1959.
 
 Concede autorização para o funcionamento do Curso de Serviço Social da Faculdade de Serviço Social de Campina Grande.

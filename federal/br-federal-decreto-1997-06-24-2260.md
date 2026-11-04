@@ -1,5 +1,3 @@
-###DEC-002260-0-000-24-06-1997@@@
-
 DECRETO Nº 2.260, DE 24 DE JUNHO DE 1997
 
 Dispõe sobre o remanejamento de cargos do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049142-0-000-26-10-1960@@@
-
 DECRETO Nº 49.142, DE 26 DE OUTUBRO DE 1960.
 
 Eleva à categoria de Embaixada a representação diplomática do Brasil em Praga.

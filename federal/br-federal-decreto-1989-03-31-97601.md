@@ -1,5 +1,3 @@
-###DEC-097601-0-000-31-03-1989@@@
-
 DECRETO N° 97.601, DE 31 DE MARÇO DE 1989
 
 Dispõe sobre a transformação de grandes comandos de arma do Exército e dá outras providências.

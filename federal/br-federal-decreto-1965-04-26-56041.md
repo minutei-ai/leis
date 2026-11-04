@@ -1,5 +1,3 @@
-###DEC-056041-0-000-26-04-1965@@@
-
 DECRETO Nº 56.041, DE 26 DE ABRIL DE 1965.
 
 Concede à Anhanguera Companhia de Seguros autorização para funcionar e aprova os seus Estatutos.

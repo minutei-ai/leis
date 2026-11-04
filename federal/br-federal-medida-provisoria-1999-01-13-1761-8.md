@@ -1,5 +1,3 @@
-###MPV-001761-0-008-13-01-1999@@@
-
 medida provisória nº 1.761-8, de 13 de janeiro de 1999.
 
 Dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional de combustíveis, de que trata a Lei nº 9.478, de 6 de agosto de 1997, estabelece sanções administrativas e dá outras providências.

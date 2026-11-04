@@ -1,5 +1,3 @@
-###DEC-057543-0-000-29-12-1965@@@
-
 Decreto nº 57.543, de 29 de dezembro de 1965.
 
 Outorga à Centrais Elétricas do Pará S.A. concessão para distribuir energia elétrica.

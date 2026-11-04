@@ -1,5 +1,3 @@
-###DEL-009494-0-000-22-07-1946@@@
-
 DECRETO-LEI N. 9.494 – DE 22 DE JULHO DE 1946
 
 Lei Orgânica do Ensino de Canto Orfeônico

@@ -1,5 +1,3 @@
-###DEC-091225-0-000-02-05-1985@@@
-
 Decreto nº 91.225, de 02 de maio de 1985
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileiro S.A. - PETROBRÁS.

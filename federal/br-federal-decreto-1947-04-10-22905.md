@@ -1,24 +1,22 @@
-###DEC-022905-0-000-10-04-1947@@@
+**DECRETO N.º 22.905, DE 10 DE ABRIL DE 1947.**
 
-<strong>DECRETO N.º 22.905, DE 10 DE ABRIL DE 1947.</strong>
+***Concede à sociedade anônima Brantif Airways, Incorporarted, autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade anônima Brantif Airways, Incorporarted, autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** atendendo ao que requereu a sociedade anônima Braniff Airways, Incorporated,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> atendendo ao que requereu a sociedade anônima Braniff Airways, Incorporated,
-
-<strong>decreta:</strong>
+**decreta:**
 
 Artigo único. É concedida à sociedade anônima Braniff Airways, Incorporated, com sede na cidade de Oklahoma, Estado de Oklahoma, Estados Unidos da América, autorização para funcionar na República, com o capital de Cr$ 459.000,00 (quatrocentos e cinqüenta e nove mil cruzeiros) e os estatutos que apresentou, mediante as cláusulas que com êste acompanha, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 10 de Abril de 1947, 126.º da Independência e 59.º da República.
 
-<strong>Eurico G. dutra</strong>
+**Eurico G. dutra**
 
 Morvan Figueiredo
 
-<strong>cláusulas que acompanham o decreto n.º 22.905, desta data</strong>
+**cláusulas que acompanham o decreto n.º 22.905, desta data**
 
-<strong>i</strong>
+**i**
 
 A "Braniff Airways, Incorporated é obrigada a Ter permanentemente um representante geral no Brasil, com planos e ilimitados poderes para tratar e definitivamente resolver as questões que se sucitarem, quer com o Govêrno quer com particulares, podendo ser demandado e receber citação inicial pela sociedade.
 
@@ -46,4 +44,4 @@ A infração de qualquer ds cláusulas para a qual não esteja cominada pena esp
 
 Rio de Janeiro, 10 de abril de 1947.
 
-<strong>Morvan Figueiredo</strong>
+**Morvan Figueiredo**

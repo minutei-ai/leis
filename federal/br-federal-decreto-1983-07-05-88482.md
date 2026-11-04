@@ -1,5 +1,3 @@
-###DEC-088482-0-000-05-07-1983@@@
-
 Decreto nº 88.482, de 5 de Julho de 1983.
 
 Dispõe sobre a dedução do Índice Nacional de Preços ao Consumidor - INPC dos aumentos decorrentes da retirada dos subsídios concedidos ao petróleo, ao trigo e aos seus derivados.

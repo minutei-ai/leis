@@ -1,5 +1,3 @@
-###DEC-096785-0-000-27-09-1988@@@
-
 DECRETO N° 96.785, DE 27 DE SETEMBRO DE 1988
 
 Autoriza o aumento do Capital Social da USIMINAS MECÂNICA S.A. - USIMEC.

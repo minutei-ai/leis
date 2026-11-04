@@ -1,5 +1,3 @@
-###DEC-061468-0-000-05-10-1967@@@
-
 Decreto nº 61.468, de 5 de outubro de 1967.
 
 Autoriza o cidadão brasileiro Raphael Garzouzi a lavrar água mineral no município de Diadema, Estado de São Paulo.

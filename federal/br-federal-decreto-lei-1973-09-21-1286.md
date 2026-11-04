@@ -1,7 +1,3 @@
-1
-
-###DEL-001286-0-000-21-09-1973@@@
-
 # DECRETO-LEI Nº 1.286, DE 21 DE SETEMBRO DE 1973
 
 Modifica a legislação do Imposto de Renda devido pelas pessoas físicas
@@ -12,7 +8,65 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o artigo 55, 
 
 Art. 1º A partir do exercício de 1974, o imposto de renda progressivo, devido anualmente pelas pessoas físicas residentes ou domiciliadas no Brasil, será cobrado de acordo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:202.25pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>CLASSES DE RENDA LÍQUIDA</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>(Cr$)</span></p></td><td style="width:202.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Alíquotas</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>(%)</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Até 10.700</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Isento</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 10.701 a 11.550</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>3</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 11.551 a 15.300</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>5</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 15.301 a 21.250</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>8</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 21.251 a 30.050</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>12</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 30.051 a 40.750</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>16</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 40.751 a 54.600</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>20</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 54.601 a 71.250</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>25</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 71.251 a 103.000</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>30</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 103.001 a 130.750</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>35</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 130.751 a 180.750</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>40</span></p></td></tr><tr><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>De 180.751 a 222.550</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>45</span></p></td></tr><tr><td style="width:202.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Acima de 222.550</span></p></td><td style="width:202.25pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>50</span></p></td></tr></tbody></table>
+CLASSES DE RENDA LÍQUIDA
+
+(Cr$)
+
+Alíquotas
+
+(%)
+
+Até 10.700
+
+Isento
+
+De 10.701 a 11.550
+
+3
+
+De 11.551 a 15.300
+
+5
+
+De 15.301 a 21.250
+
+8
+
+De 21.251 a 30.050
+
+12
+
+De 30.051 a 40.750
+
+16
+
+De 40.751 a 54.600
+
+20
+
+De 54.601 a 71.250
+
+25
+
+De 71.251 a 103.000
+
+30
+
+De 103.001 a 130.750
+
+35
+
+De 130.751 a 180.750
+
+40
+
+De 180.751 a 222.550
+
+45
+
+Acima de 222.550
+
+50
 
 § 1º O imposto é calculado em cada classe sobre a porção de renda compreendida nos respectivos limites, desprezada a fração de renda inferior a Cr$1,00 (hum cruzeiro).
 

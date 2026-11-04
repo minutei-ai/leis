@@ -1,5 +1,3 @@
-###DEL-005022-0-000-03-12-1942@@@
-
 DECRETO-LEI N. 5.022 – DE 3 DE DEZEMBRO DE 1942
 
 Restabelece o regime de duração normal do trabalho nos bancos e casas bancárias, suspenso por força da crise de transporte

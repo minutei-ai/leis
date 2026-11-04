@@ -1,7 +1,3 @@
-1
-
-###DEC-000796-0-000-13-04-1993@@@
-
 DECRETO N° 796, DE 13 DE ABRIL DE 1993
 
 Delega competência ao Ministro da Indústria, do Comércio e do Turismo para aprovar alterações nos atos que regem o funcionamento das sociedades estrangeiras.

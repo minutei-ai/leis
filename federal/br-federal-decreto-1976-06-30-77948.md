@@ -1,5 +1,3 @@
-###DEC-077948-0-000-30-06-1976@@@
-
 DECRETO Nº 77.948, DE 30 DE JUNHO DE 1976
 
 Concede reconhecimento aos cursos de Pedagogia e de Matemática da Faculdade de Educação e Ciências Nova Piratininga, com sede na cidade de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-070166-0-000-18-02-1972@@@
-
 decreto nº 70.166, de 18 de fevereiro de 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Administrativas e Contábeis de Lins, na cidade de Lins, Estado de São Paulo, com os Cursos de Administração de Empresas e Ciências Contábeis.

@@ -1,5 +1,3 @@
-###DEL-005037-0-000-04-12-1942@@@
-
 DECRETO-LEI N. 5.037 – DE 4 DE DEZEMBRO DE 1942
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Educação e Saude e dá outras providências

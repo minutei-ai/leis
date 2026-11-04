@@ -1,30 +1,28 @@
-###DEC-052340-0-000-08-08-1963@@@
+**DECRETO Nº 52.340, DE 8 DE AGÔSTO DE 1963.**
 
-<strong>DECRETO Nº 52.340, DE 8 DE AGÔSTO DE 1963.</strong>
+***Aprova o Regimento do Departamento de Administração do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento do Departamento de Administração do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento de Administração do Ministério da Agricultura, que com êste baixa, assinado pelo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento de Administração do Ministério da Agricultura, que com êste baixa, assinado pelo Ministro de Estado.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 8 de agôsto de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Oswaldo Lima Filho
 
-<strong>REGIMENTO DO DEPARTAMENTO DE ADMINISTRAÇÃO (DA) DO MINISTÉRIO DA AGRICULTURA.</strong>
+**REGIMENTO DO DEPARTAMENTO DE ADMINISTRAÇÃO (DA) DO MINISTÉRIO DA AGRICULTURA.**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Departamento de Administração (DA), diretamente subordinado ao Secretário Geral da Agricultura, é o órgão central de administração geral do Ministério da Agricultura, competindo-lhe, através de seus órgãos.
+**Art**. 1º O Departamento de Administração (DA), diretamente subordinado ao Secretário Geral da Agricultura, é o órgão central de administração geral do Ministério da Agricultura, competindo-lhe, através de seus órgãos.
 
 I - Orientar, fiscalizar, executar e controlar as atividades relativas a pessoal, material, orçamento, obras, comunicações, organização, transportes e serviços gerais, cumprindo e fazendo cumprir as respectivas determinações legais;
 
@@ -32,11 +30,11 @@ II - Superintender e coordenar as atividades de administração geral dos órgã
 
 III - Assistir o Secretário-Geral da Agricultura em todos os assuntos relativos à administração geral, no âmbito do Ministério da Agricultura.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O Departamento de Administração (DA) compreende:
+**Art**. 2º O Departamento de Administração (DA) compreende:
 
  \- Divisão do Pessoal (DP):
 
@@ -134,35 +132,35 @@ I - Turma de Organização (TO).
 
 II - Turma de Métodos de Trabalho (TM).
 
-<strong>Art</strong>. 3º Funcionará junto ao Diretor-Geral do DA um Conselho de Diretores, sob a presidência dêste e integrado pelos Diretores de Divisão e Chefes do SC e da SO.
+**Art**. 3º Funcionará junto ao Diretor-Geral do DA um Conselho de Diretores, sob a presidência dêste e integrado pelos Diretores de Divisão e Chefes do SC e da SO.
 
-<strong>Art</strong>. 4º O DA será dirigido por um Diretor-Geral, de livre nomeação do Presidente da República e indicação do Ministro de Estado.
+**Art**. 4º O DA será dirigido por um Diretor-Geral, de livre nomeação do Presidente da República e indicação do Ministro de Estado.
 
-<strong>Art</strong>. 5º As Divisões serão dirigidas por Diretores nomeados pelo Presidente da República, por indicação do Ministro de Estado.
+**Art**. 5º As Divisões serão dirigidas por Diretores nomeados pelo Presidente da República, por indicação do Ministro de Estado.
 
-<strong>Art</strong>. 6º Os Chefes dos Serviços e da Seção de Organização serão designados pelo Diretor-Geral do DA.
+**Art**. 6º Os Chefes dos Serviços e da Seção de Organização serão designados pelo Diretor-Geral do DA.
 
 § 1º O Chefe do Serviço de Transportes será indicado pelo Diretor da Divisão do Material.
 
 § 2º O Chefe do Serviço de Administração de Edifícios será indicado pelo Diretor da Divisão de Obras.
 
-<strong>Art</strong>. 7º O Diretor-Geral do DA terá quatro Assessôres, um Secretário e três Auxiliares, todos de sua livre escolha entre funcionários públicos federais.
+**Art**. 7º O Diretor-Geral do DA terá quatro Assessôres, um Secretário e três Auxiliares, todos de sua livre escolha entre funcionários públicos federais.
 
-<strong>Art</strong>. 8º Cada Diretor de Divisão terá um Secretário, dois Assessôres e um Auxiliar e o Chefe do Serviço de Comunicações, um Secretário e um Auxiliar, todos escolhidos entre funcionários públicos federais.
+**Art**. 8º Cada Diretor de Divisão terá um Secretário, dois Assessôres e um Auxiliar e o Chefe do Serviço de Comunicações, um Secretário e um Auxiliar, todos escolhidos entre funcionários públicos federais.
 
 § 1º Os Diretores da DP e DO terão dois Auxiliares.
 
 § 2º O Diretor da DP terá três Assessores.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
- <em>\- Da Divisão do Pessoal (DP):</em>
+ *\- Da Divisão do Pessoal (DP):*
 
-<strong>Art</strong>. 9º À DP compete:
+**Art**. 9º À DP compete:
 
 I - Orientar, aplicar e fiscalizar a legislação de pessoal em todos os órgãos do Ministério da Agricultura;
 
@@ -178,9 +176,9 @@ VI - Sugerir medidas tendentes à melhoria do ambiente de trabalho, confôrto e 
 
 VII - Superintender e coordenar as atividades de administração de pessoal dos órgãos do Ministério da Agricultura, podendo, quando couber, delegar-lhes poderes para praticarem atos relacionados com a administração de pessoal.
 
-<strong>Art</strong>. 10. À Seção de Classificação de Cargos (SCC) compete as atribuições constantes do art. 3º do Decreto nº 48.639-A, de 30 de junho de 1960.
+**Art**. 10. À Seção de Classificação de Cargos (SCC) compete as atribuições constantes do art. 3º do Decreto nº 48.639-A, de 30 de junho de 1960.
 
-<strong>Art</strong>. 11. A Seção de Direitos e Deveres (SDP) compete:
+**Art**. 11. A Seção de Direitos e Deveres (SDP) compete:
 
 I - Aplicar ou, conforme o caso, orientar e fiscalizar a aplicação da legislação de pessoal referente a direitos, vantagens, deveres, responsabilidade e ação disciplinar;
 
@@ -210,7 +208,7 @@ XIII - instruir processos referentes a acumulação de serviços ou funções p�
 
 XIV - opinar sôbre a confirmação de funcionários em estágio probatório.
 
-<strong>Art</strong>. 12. À Seção de Movimentação (SMP) compete:
+**Art**. 12. À Seção de Movimentação (SMP) compete:
 
 I - executar todo o expediente relativo a: nomeação, readmissão, reversão, aproveitamento, designação para função gratificada, posse exercício, remoção, permuta, substituição, exoneração, dispensa, disponibilidade, transferência, requisição e admissão de pessoal temporário e de obras;
 
@@ -224,7 +222,7 @@ I - examinar os processos e executar o expediente relativo à aposentadoria dos 
 
 II - lavrar apostilas oriundas de: alteração de quadros e tabelas; transformação e reclassificação de cargos e funções; promoções, gratificação adicional por tempo de serviço ou outras vantagens, nome, estabilidade ou equiparação.
 
-<strong>Art</strong>. 13. À Seção de Cadastro (SCP) compete:
+**Art**. 13. À Seção de Cadastro (SCP) compete:
 
 I - organizar e manter atualizadas as pastas de assentamento individual dos funcionários do MA, mediante a transcrição de todos os atos referentes à vida funcional;
 
@@ -284,7 +282,7 @@ III - fiscalizar os prazos dos funcionários do MA requisitados;
 
 IV - iniciar o processamento das aposentadorias por implemento de idade, mediante comunicação à TAA da SMP.
 
-<strong>Art</strong>. 14. À Seção Financeira (SFP) compete:
+**Art**. 14. À Seção Financeira (SFP) compete:
 
 I - orientar, aplicar, coordenar e executar a parte financeira da administração de pessoal;
 
@@ -324,7 +322,7 @@ VI - providenciar empenhos de despesa com diárias, ajuda de custo, serviço ext
 
 VII - proceder, mensalmente, à escrituração das fôlhas de pagamento e à fiscalização das respectivas dotações.
 
-<strong>Art</strong>. 15. À Seção de Assistência Médica (SAM) compete:
+**Art**. 15. À Seção de Assistência Médica (SAM) compete:
 
 I - proceder a estudos de tipologia, antropometria e psicotécnica, relativos aos funcionários;
 
@@ -346,7 +344,7 @@ IX- promover, entre o pessoal do MA, a propaganda dos princípios de higiene,
 
 X- organizar o “Cadastro de Saúde” dos funcionários do MA.
 
-<strong>Art</strong>. 16. À Turma de Administração (TAP) compete;
+**Art**. 16. À Turma de Administração (TAP) compete;
 
 I- controlar o resumo do ponto e elaborar o Boletim de Frequência dos funcionários da DP;
 
@@ -378,11 +376,11 @@ XIV- prestar ao público informações sôbre o andamento de processos na DP;
 
 XV- providenciar a distribuição e expedição do Boletim de Pessoal a todos os órgãos do MA.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Divisão do Material (DM)</em>
+*Da Divisão do Material (DM)*
 
-<strong>Art</strong>. 17. À DM compete:
+**Art**. 17. À DM compete:
 
 I- orientar, aplicar e fiscalizar a legislação de material, inclusive quanto à sua padronização, em todos os órgãos do Ministério da Agricultura;
 
@@ -394,7 +392,7 @@ IV- preparar e lavrar para o registro do Tribunal de Contas, os contratos de loc
 
 V- superintender e coordenar as atividades de administração de material dos órgãos do Ministérios da Agricultura, podendo, quando couber, delegar-lhes poderes para praticarem atos relacionados com a administração de material.
 
-<strong>Art</strong>. 18. À Secção de Fiscalização de Bens (SFB) compete:
+**Art**. 18. À Secção de Fiscalização de Bens (SFB) compete:
 
 I- orientar e fiscalizar as atividades das repartições na parte referentes à organização da escrituração do material (Móveis e Semoventes) e dos inventários anuais e de passagens de responsabilidade;
 
@@ -414,7 +412,7 @@ VIII- propor ao Diretor a realização de inspecções periódicas às dependên
 
 IX- examinar os relatórios das inspecções a que refere o item anterior e propor ao Diretor a adoção de medidas julgadas necessárias, em face do que fôr apurado.
 
-<strong>Art</strong>.19. A Secção de Requisições e Controle (SRC) compete:
+**Art**.19. A Secção de Requisições e Controle (SRC) compete:
 
 I- administrar e escriturar, de acôrdo com a orientação da Contadoria Geral da República e do Departamento Federal de Compras, os créditos orçamentários e adicionais, sob seu controle;
 
@@ -452,7 +450,7 @@ V- escriturar as quantidades de material recebido e distribuído às repartiçõ
 
 VI- expedir Notas de Fornecimento de Material entregue às diversas repartições.
 
-<strong>Art</strong>. 20. À Seção de Movimentação de Créditos (SMC) compete:
+**Art**. 20. À Seção de Movimentação de Créditos (SMC) compete:
 
 I- preparar as tabelas de distribuição e redistribuição dos créditos destinados a despesas de material e respectivo expediente de remessa ao Tribunal de Contas, encaminhando duas cópias dessas tabelas à DO;
 
@@ -470,7 +468,7 @@ VII- extrair guias de recolhimento de caução e providenciar o expediente relat
 
 VIII- organizar e manter em dia o registro de fornecedores e propor a aplicação de penalidades aos que hajam incorrido em falta.
 
-<strong>Art</strong>. 21. À Turma de Administração (TAM) compete:
+**Art**. 21. À Turma de Administração (TAM) compete:
 
 I- elaborar o expediente da Divisão em assuntos atinentes a pessoal;
 
@@ -486,11 +484,11 @@ VI- preparar o relatório anual das atividades da Divisão, levando em conta os 
 
 VII- organizar, em colaboração com as demais seções, a escala geral de férias dos funcionários em exercício na DM.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Divisão do Orçamento (DO)</em>
+*Da Divisão do Orçamento (DO)*
 
-<strong>Art</strong>. 22. À DO compete:
+**Art**. 22. À DO compete:
 
 I- orientar, aplicar e fiscalizar a legislação orçamentária em todos os órgãos do Ministério da Agricultura;
 
@@ -506,7 +504,7 @@ VI- preparar e lavrar, para o registro do Tribunal de Contas, os acôrdos, conv�
 
 VII- superintender e coordenar as atividades de administração orçamentaria dos órgãos do MA, podendo, quando couber, delegar-lhes podêres para praticarem atos relacionados com a administração orçamentária.
 
-<strong>Art</strong>. 23. À Seção de Previsão (SPO) compete:
+**Art**. 23. À Seção de Previsão (SPO) compete:
 
 I- coligir dados relativos à receita arrecadada e a arrecadar;
 
@@ -538,7 +536,7 @@ XIV- opinar sôbre a oportunidade da aplicação de dotações em face do desenv
 
 XV- apreciar os pedidos de créditos adicionais e alterações do orçamento formulados pelos órgãos do Ministério e preparar o expediente para a abertura e registro dêsses créditos, e o referente às alterações orçamentárias;
 
-<strong>Art</strong>. 24. À Seção de Execução (SEO) compete:
+**Art**. 24. À Seção de Execução (SEO) compete:
 
 I- preparar as tabelas de distribuição e redistribuição dos créditos referentes a Serviços e Encargos e Eventuais e o respectivo expediente de remessa ao Tribunal de Contas;
 
@@ -562,7 +560,7 @@ II- contabilizar, de acôrdo com a orientação e as instruções da Contadoria 
 
 III- colaborar com os setôres de contrôle e fiscalização da DO na parte relativa a mecanização.
 
-<strong>Art</strong>. 25. À Seção de Fiscalização (SF) compete:
+**Art**. 25. À Seção de Fiscalização (SF) compete:
 
 I- acompanhar a execução do orçamento do Ministério da Agricultura na parte referente à defesa, por meio do exame e escrituração dos créditos movimentados pelas dependências do Ministério, tendo à vista dos balancetes devidamente documentados e por elas obrigatoriamente remetidos à DO dentro da primeira quinzena de cada mês;
 
@@ -580,7 +578,7 @@ VII- examinar os relatórios das inspeções a que se refere o item anterior e p
 
 VIII- manter atualizado o cadastro das entidades subvencionadas pelo Ministério;
 
-<strong>Art</strong>. 26. À Seção de Auxílios e Subvenções (SASO) compete:
+**Art**. 26. À Seção de Auxílios e Subvenções (SASO) compete:
 
 I- administrar e escriturar, de acôrdo com a orientação e instruções da Contadoria Geral da República, os créditos orçamentários e adicionais destinados a auxílios e subvenções que sejam controlados pela DO;
 
@@ -596,7 +594,7 @@ VI - fiscalizar a aplicação de auxílios e subvenções concedidos pelo Minist
 
 VII - baixar medidas que disciplinem a concessão e comprovação de créditos destinados a auxílios e subvenções;
 
-<strong>Art</strong>. 27. À Seção de Convênios e Acôrdos (SCAO) Compete:
+**Art**. 27. À Seção de Convênios e Acôrdos (SCAO) Compete:
 
 I - opinar sôbre os planos de aplicação de créditos destinados a acôrdo ajustes e convênios a serem celebrados entre o Ministério da Agricultura e entidades oficiais e privadas, no que disser respeito a normas orçamentárias;
 
@@ -610,7 +608,7 @@ V - elaborar os expedientes relativos a tôdas as fases de registro de acôrdo, 
 
 VI - propor a adoção de medidas que disciplinem a elaboração de acôrdos, ajustes e convênios;
 
-<strong>Art</strong>. 28. À Turma de Administração (TA) compete:
+**Art**. 28. À Turma de Administração (TA) compete:
 
 I - elaborar o expediente da Divisão em assuntos atinentes a pessoal e material;
 
@@ -628,11 +626,11 @@ VII - organizar, em colaboração com as demais seções, a escala geral de fér
 
 VIII - realizar e organizar o inventário anual dos bens móveis e imóveis da DO.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da Divisão de Obras (DOb)</em>
+*Da Divisão de Obras (DOb)*
 
-<strong>Art</strong>. 29. À DOb compete:
+**Art**. 29. À DOb compete:
 
 I - orientar, aplicar e fiscalizar o cumprimento da legislação de obras em todos os órgãos do Ministério da Agricultura;
 
@@ -652,7 +650,7 @@ VII - realizar estudos dos métodos adotados pelo homem do campo na construção
 
 VIII - superintender e coordenar as atividades de administração de obras de órgãos do Ministério da Agricultura, podendo, quando couber, delegar-lhes podêres para praticar atos relacionados com a administração de obras.
 
-<strong>Art</strong>. 30. À Seção de Concorrência e Contratos (SCCb) compete:
+**Art**. 30. À Seção de Concorrência e Contratos (SCCb) compete:
 
 I - examinar, sob o ponto de vista legal, as questões relativas a aquisição de material e prestação de serviços referentes a obras e equipamentos;
 
@@ -668,7 +666,7 @@ VI - requisitar o material necessário aos trabalhos da Divisão;
 
 VII - requisitar os materiais cujas quotas estejam sob o contrôle da Divisão.
 
-<strong>Art</strong>. 31. A Seção de Estudos e Projetos (SEP) compete:
+**Art**. 31. A Seção de Estudos e Projetos (SEP) compete:
 
 I - projetar, especificar, orçar as obras de construção ou de reforma, nos imóveis destinados as dependências do MA e por êle administrados, e a instalação ou reforma dos respectivos equipamentos;
 
@@ -708,7 +706,7 @@ XVIII - cooperar na elaboração do “Código de Obras da União” e na de qua
 
 XIX - orientar tecnicamente o SAE ou os demais órgãos do MA, na execução de reparos nos imóveis.
 
-<strong>Art</strong>. 32. A Seção de Fiscalização (Sfisc. Ob) compete:
+**Art**. 32. A Seção de Fiscalização (Sfisc. Ob) compete:
 
 I - organizar gráficos ou relatórios sôbre o andamento das obras e instalações de equipamentos, direta ou indiretamente a cargo da DOb, bem como contribuir com os demais dados técnicos para fins de contrôle dos trabalhos da DOb;
 
@@ -720,7 +718,7 @@ IV - conferir e atestar as faturas de obras e serviços contratados ou ajustados
 
 V - emitir laudos de execução de obras, na forma do que estabelece o § 3º do art. 6º, da Lei nº 1.489, de 10 de dezembro de 1951, para efeito de comprovação dos suprimentos recebidos.
 
-<strong>Art</strong>. 33. À Seção Financeira (SFOb) compete:
+**Art**. 33. À Seção Financeira (SFOb) compete:
 
 I - preparar tabelas de distribuição e redistribuição, dos créditos destinados as despesas com obras, equipamentos e aquisição de imóveis e o respectivo expediente de remessa ao Tribunal de Contas, encaminhando duas cópias dessas tabelas à DO;
 
@@ -734,7 +732,7 @@ V - providenciar o expediente relativo a ordens de pagamento sôbre prestação 
 
 VI - estudar as propostas orçamentárias parciais, na parte relativa a obras, equipamentos e aquisição de imóveis e elaborar a proposta geral do MA quanto as obras de sua jurisdição, encaminhando-as à DO, dentro do prazo determinado pelo órgão incumbido da elaboração do Orçamento Geral da União.
 
-<strong>Art</strong>. 34. À Seção de Planejamento de Habitação Rural (SPHR) compete:
+**Art**. 34. À Seção de Planejamento de Habitação Rural (SPHR) compete:
 
 I - proceder a estudos dos processos adotados pelos habitantes do meio rural no país e no exterior ficando as disponibilidades técnicas e econômicas de adoção e generalização de tais processos;
 
@@ -742,7 +740,7 @@ II - proceder a estudos e experimentação dos métodos e da técnica modernos p
 
 III - divulgar os processos aconselháveis de construção da habitação rural, como a Colaboração do Serviço de Informação Agrícola e do Departamento de Promoção Agropecuária.
 
-<strong>Art</strong>. 35. À Turma de Administração (TAOb) compete:
+**Art**. 35. À Turma de Administração (TAOb) compete:
 
 I - fazer o expediente, escrituração e registro de interêsse da Dob, relativamente a pessoal e material;
 
@@ -764,13 +762,13 @@ IX - receber, distribuir e expedir processos e documentos, anotando a respectiva
 
 X - organizar as fôlhas de pagamento de pessoal de obras.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Serviço de Comunicações (SC)</em>
+*Do Serviço de Comunicações (SC)*
 
-<strong>Art</strong>. 36. Ao SC compete receber, registrar, distribuir, redistribuir, expedir, arquivar, guardar e conservar os processos e demais documentos oficiais procedentes dos órgãos do Ministério e de quaisquer outras fontes que com êste se relacionem.
+**Art**. 36. Ao SC compete receber, registrar, distribuir, redistribuir, expedir, arquivar, guardar e conservar os processos e demais documentos oficiais procedentes dos órgãos do Ministério e de quaisquer outras fontes que com êste se relacionem.
 
-<strong>Art</strong>. 37. À Seção de Recebimento e Distribuição (SRD) compete:
+**Art**. 37. À Seção de Recebimento e Distribuição (SRD) compete:
 
 I - receber e autuar os documentos e demais papéis, juntá-los, quando fôr o caso, distribuí-los e controlar-lhes a tramitação;
 
@@ -784,13 +782,13 @@ V - organizar e manter em dia fichários nominais, de procedência, de referênc
 
 VI - dar conhecimento às partes quando autorizada, de decisões proferidas em processos.
 
-<strong>Art</strong>. 38. A Seção de Expedição e Publicação (SEP) compete:
+**Art**. 38. A Seção de Expedição e Publicação (SEP) compete:
 
 I - numerar e expedir a correspondência dos órgãos do DA e do Gabinete do Ministro;
 
 II - providenciar para que a entrega da correspondência interna e externa se processe com rapidez e segurança;
 
-III - encaminhar, para a publicação no <em>Diário Oficial</em>, os atos oficiais das repartições do DA e do Gabinete do Ministro, fazendo resumos quando necessários;
+III - encaminhar, para a publicação no *Diário Oficial*, os atos oficiais das repartições do DA e do Gabinete do Ministro, fazendo resumos quando necessários;
 
 IV - numerar e selecionar, em devida ordem, cópia dos atos expedidos pelo DA e pelo Gabinete do Ministro;
 
@@ -798,7 +796,7 @@ V - selecionar, em devida ordem, as guias recibos e relações da correspondênc
 
 VI - manter sigilo sôbre a correspondência e atos oficiais de natureza confidencial e reservada.
 
-<strong>Art</strong>. 39. À Seção de Arquivamento (SA) compete:
+**Art**. 39. À Seção de Arquivamento (SA) compete:
 
 I - receber, guardar e conservar em ordem os processos, livros e demais papéis que lhe forem entregues para arquivamento, promovendo, sua encadernação, quando conveniente;
 
@@ -814,7 +812,7 @@ VI - providenciar, oportunamente, a remessa ao Arquivo Nacional, dos livros e pr
 
 VII - manter sigilo sôbre processos, livros e demais papéis de natureza confidencial ou reservada.
 
-<strong>Art</strong>. 40. À Turma de Administração (TA) compete:
+**Art**. 40. À Turma de Administração (TA) compete:
 
 I - fazer o expediente, escrituração e registro de interêsse do SC, relativamente a pessoal e material;
 
@@ -832,13 +830,13 @@ VII - preparar o relatório anual das atividades do SC, com os elementos forneci
 
 VIII - organizar, em colaboração com as demais Seções, a escala geral de férias dos funcionários em exercício no SC.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Serviço de Transporte (ST)</em>
+*Do Serviço de Transporte (ST)*
 
-<strong>Art</strong>. 41. Ao ST compete executar os serviços de manutenção e contrôle dos veículos do Ministro da Agricultura.
+**Art**. 41. Ao ST compete executar os serviços de manutenção e contrôle dos veículos do Ministro da Agricultura.
 
-<strong>Art</strong>. 42. À Turma de Conservação e Manutenção (TCM) compete:
+**Art**. 42. À Turma de Conservação e Manutenção (TCM) compete:
 
 I - organizar e manter em dia os registros dos veículos utilizados nos serviços do MA, na sede;
 
@@ -858,7 +856,7 @@ VIII - efetuar, mensalmente, a revisão das viaturas;
 
 IX - preparar e apresentar ao Chefe do ST o quadro estatístico mensal dos serviços realizados, com a indicação do consumo de combustível e lubrificantes, por veículo, assim como a quilometragem percorrida.
 
-<strong>Art</strong>. 43. À Turma de Garagem (TG) compete:
+**Art**. 43. À Turma de Garagem (TG) compete:
 
 I - verificar as condições dos carros em serviço, na sede, providenciando:
 
@@ -874,15 +872,15 @@ IV - preencher e atender a TCM, diàriamente, o boletim de abastecimento referen
 
 V - executar a limpeza geral das dependências ocupadas pela Garagem.
 
-<strong>Art</strong>. 44. Sempre que não estiverem em serviço é obrigatória a permanência de todos os veículos na Garagem, salvo expressa autorização do Ministro de Estado, do Diretor-Geral do DA, ou do Chefe do Gabinete.
+**Art**. 44. Sempre que não estiverem em serviço é obrigatória a permanência de todos os veículos na Garagem, salvo expressa autorização do Ministro de Estado, do Diretor-Geral do DA, ou do Chefe do Gabinete.
 
 Parágrafo único. A direção dos veículos só poderá ser entregue a motoristas profissionais, devidamente matriculados na repartição competente.
 
-<strong>Art</strong>. 45. A Garagem se destina, exclusivamente, a guarda dos veículos pertencentes ao MA.
+**Art**. 45. A Garagem se destina, exclusivamente, a guarda dos veículos pertencentes ao MA.
 
 Parágrafo único. É expressamente proibida a execução, nas dependências do ST, de qualquer serviço mecânico ou de conservação de veículos não pertencentes ao MA.
 
-<strong>Art</strong>. 46. O motorista destacado para servir em qualquer viatura não poderá afastar-se dela sem prévio consentimento da autoridade a que estiver servindo.
+**Art**. 46. O motorista destacado para servir em qualquer viatura não poderá afastar-se dela sem prévio consentimento da autoridade a que estiver servindo.
 
 § 1º Será punido disciplinarmente o motorista que sair com carro oficial sem a Guia de Circulação do veículo.
 
@@ -900,17 +898,17 @@ e) acidentes ocorridos com o veículo;
 
 f) observações sôbre irregularidades notadas no funcionamento do veículo.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Do Serviço de Administração de Edifícios (SAE)</em>
+*Do Serviço de Administração de Edifícios (SAE)*
 
-<strong>Art</strong>. 47. Ao SAE compete:
+**Art**. 47. Ao SAE compete:
 
 I - manutenção do edifício-sede do Ministério, suas dependências, elevadores, instalações elétricas, hidráulicas, telefônicas e de gás, inclusive os reparos que se fizerem necessários:
 
 II - executar, superintender e fiscalizar os serviços de vigilância diurna e noturna, de limpeza interna e externa, bem como de asseio e conservação do edifício-sede e suas dependências.
 
-<strong>Art</strong>. 48. A Turma de Execução de Reparos (TER) compete:
+**Art**. 48. A Turma de Execução de Reparos (TER) compete:
 
 I - executar os ligeiros reparos que se fizerem necessários, no Edifício-sede;
 
@@ -926,7 +924,7 @@ VI - receber, armazenar, requisitar e distribuir os materiais necessárias aos s
 
 VII - sugerir ao Chefe do SAE as medidas para a execução de serviços, por terceiros, quando, quando, por sua natureza, estejam acima de suas possibilidades.
 
-<strong>Art</strong>. 49. A Turma de Conservação e Vigilância (TCV) compete:
+**Art**. 49. A Turma de Conservação e Vigilância (TCV) compete:
 
 I - abrir e fechar as portas do Edifício-sede, de acôrdo com as ordens recebidas;
 
@@ -964,19 +962,19 @@ d) manter um fichário de todos os funcionários do MA que ocupem funções de c
 
 XIV - sugerir ao Chefe do SAE, as medidas para execução de serviços, por terceiros, quando, por sua natureza, estejam acima de suas possibilidades.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Da Seção de Organização (SO)</em>
+*Da Seção de Organização (SO)*
 
-<strong>Art</strong>. 50. A SO compete proceder ao estudo da organização, condições, normas e métodos de trabalho das unidades administrativas do MA, bem como sugerir as medidas que julgar necessárias à sua racionalização e ao seu aperfeiçoamento.
+**Art**. 50. A SO compete proceder ao estudo da organização, condições, normas e métodos de trabalho das unidades administrativas do MA, bem como sugerir as medidas que julgar necessárias à sua racionalização e ao seu aperfeiçoamento.
 
 Parágrafo único. A SO continuará a reger-se pelo Regimento padrão aprovado pelo Decreto nº 36.757, de 7 de janeiro de 1955.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Do Conselho de Diretores (CD)</em>
+*Do Conselho de Diretores (CD)*
 
-<strong>Art</strong>. 51. Ao Conselho de Diretores compete:
+**Art**. 51. Ao Conselho de Diretores compete:
 
 I - estabelecer a necessária unidade e harmonia nas atividades dos órgãos do DA;
 
@@ -990,11 +988,11 @@ V - estabelecer normas, em colaboração com o DASP, para a execução dos progr
 
 VI - estabelecer a orientação a ser seguida pelas Seções de administração geral dos vários departamentos e Serviços do MA.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das atribuições do Pessoal</em>
+*Das atribuições do Pessoal*
 
-<strong>Art</strong>. 52. Ao Diretor-Geral do DA, compete:
+**Art**. 52. Ao Diretor-Geral do DA, compete:
 
 I - Superintender, de acôrdo com a legislação normas e instruções vigentes, as atividades de administração geral do Ministério;
 
@@ -1058,7 +1056,7 @@ XXX - promover a organização do inventário anual dos bens móveis, e imóveis
 
 XXXI - designar e dispensar, quando lhe forem diretamente subordinados, os ocupantes de funções gratificadas e seus substitutos eventuais.
 
-<strong>Art</strong>. 53. Aos Diretores de Divisão e aos Chefes de Serviços compete:
+**Art**. 53. Aos Diretores de Divisão e aos Chefes de Serviços compete:
 
 I - despachar com o Diretor-Geral do DA;
 
@@ -1212,7 +1210,7 @@ III - determinar a fiscalização, no Edifício-Sede, da entrada e saída de qua
 
 IV - determinar o hasteamento do Pavilhão Nacional no Edifício-Sede.
 
-<strong>Art</strong>. 54. Aos Chefes de Seção e Turmas compete:
+**Art**. 54. Aos Chefes de Seção e Turmas compete:
 
 I - dirigir e orientar a execução dos serviços e métodos visando à eficiência dos respectivos trabalhos;
 
@@ -1236,7 +1234,7 @@ X - fornecer, anualmente, ao Diretor da Divisão e Chefe de Serviço dentro do p
 
 XI - zelar pela disciplina no recinto da Seção e Turma.
 
-<strong>Art</strong>. 55. Aos assessôres do Diretor-Geral do DA e Diretores de Divisão compete:
+**Art**. 55. Aos assessôres do Diretor-Geral do DA e Diretores de Divisão compete:
 
 I - auxiliar o Diretor no exame dos assuntos que lhe forem submetidos, para estudo e decisão, e no preparo de despachos relativos e expediente do Departamento ou Divisão;
 
@@ -1246,7 +1244,7 @@ III - supervisionar os trabalhos das dependências que intergram o Departamento 
 
 Parágrafo único. Caberá a um dos assessôres da Divisão do Pessoal a incumbência do treinamento em serviço dos funcionários que desempenham atividades meios do MA.
 
-<strong>Art</strong>. 56. Aos Secretários do Diretor-Geral do DA, Diretores de Divisão e Chefe de Serviço compete:
+**Art**. 56. Aos Secretários do Diretor-Geral do DA, Diretores de Divisão e Chefe de Serviço compete:
 
 I - atender às pessoas que procurarem o Diretor ou Chefe, levando-lhe ao conhecimento o assunto a tratar;
 
@@ -1254,7 +1252,7 @@ II - redigir a correspondência que lhe fôr determinada;
 
 III - realizar outras tarefas de administração geral que lhe forem cometidas pelo Diretor ou Chefe.
 
-<strong>Art</strong>. 57. Aos auxiliares do Diretor-Geral do DA, Diretores de Divisão e Chefe de Serviço compete:
+**Art**. 57. Aos auxiliares do Diretor-Geral do DA, Diretores de Divisão e Chefe de Serviço compete:
 
 I - registrar a movimentação dos processos submetidos ao Diretor ou Chefe;
 
@@ -1262,29 +1260,29 @@ II - executar trabalhos de datilografia e outros que lhe forem determinados pelo
 
 Parágrafo único. Aos funcionários em exercício no DA compete executar, com zêlo e eficiência, os trabalhos normais de que forem incumbidos e os que eventualmente forem determinados.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 58. O DA terá a lotação que fôr aprovada em decreto.
+**Art**. 58. O DA terá a lotação que fôr aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, poderá o DA dispor de pessoal requisitado, na forma da legislação vigente
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 59. O horário normal de trabalho é o fixado para o Serviço Público Federal, respeitados os regimes especiais estabelecidos na legislação vigente.
+**Art**. 59. O horário normal de trabalho é o fixado para o Serviço Público Federal, respeitados os regimes especiais estabelecidos na legislação vigente.
 
 Parágrafo único. Poderá ser estabelecido horário especial, de acôrdo com a natureza da atividade do DA, desde que observado o número normal de horas semanais ou mensais.
 
-<strong>Art</strong>. 60. Os trabalhos de limpeza deverão ser realizados, sempre que possível, fora das horas de expediente das repartições.
+**Art**. 60. Os trabalhos de limpeza deverão ser realizados, sempre que possível, fora das horas de expediente das repartições.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 61.Serão substituídos automaticamente, em seus impedimentos temporários ou eventuais:
+**Art**. 61.Serão substituídos automaticamente, em seus impedimentos temporários ou eventuais:
 
 I - O Diretor-Geral do DA pelo Diretor da Divisão de sua indicação, designado pelo Ministro de Estado;
 
@@ -1294,11 +1292,11 @@ III - Os Chefes de Seção, por funcionário designados pelos Diretores de Divis
 
 Parágrafo único. Haverá sempre funcionários designados para as substituições.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 62. Funcionará subordinada à Diretoria Geral do DA a Administração dos Serviços Comunitários do Km 47, da antiga Rodovia Rio-São Paulo, compreendendo os encargos da Superintendência de Edifícios e Parques e do Serviço Médico, do extinto Centro Nacional de Ensino e Pesquisa Agronômicas.
+**Art**. 62. Funcionará subordinada à Diretoria Geral do DA a Administração dos Serviços Comunitários do Km 47, da antiga Rodovia Rio-São Paulo, compreendendo os encargos da Superintendência de Edifícios e Parques e do Serviço Médico, do extinto Centro Nacional de Ensino e Pesquisa Agronômicas.
 
 § 1º O Administrador será designado pelo Secretário Geral da Agricultura, por indicação do Diretor-Geral do DA e escolhidos entre ocupantes do cargo de Engenheiro ou Arquiteto.
 
@@ -1306,7 +1304,7 @@ Parágrafo único. Haverá sempre funcionários designados para as substituiçõ
 
 § 3º O Serviço Médico, para efeito do término de suas instalações, equipamento e funcionamento do Hospital poderá propor a realização de convênios com órgãos federais, estaduais, municipais e autárquicos, para o melhor atendimentos dos Professôres, alunos, funcionários e respectivas famílias residentes na área territorial do Km 47.
 
-<strong>Art</strong>. 63. A Administração dos Serviços Comunitários do Km 47 compete:
+**Art**. 63. A Administração dos Serviços Comunitários do Km 47 compete:
 
 A - no tocante a Edifícios e Parques:
 
@@ -1342,113 +1340,111 @@ VIII - colaborar com as atividades atividades sanitárias nas campanhas preventi
 
 IX - colaborar com a Seção de Assistência Médica da DP nos assuntos de sua competência, bem como com os demais serviços federais correlatos.
 
-<strong>Art</strong>. 64. Os chefes de Serviços, Seção de Turma, os Assessores, Secretários e Auxiliares, perceberão a gratificação que fôr estabelecida.
+**Art**. 64. Os chefes de Serviços, Seção de Turma, os Assessores, Secretários e Auxiliares, perceberão a gratificação que fôr estabelecida.
 
-<strong>Art</strong>. 65. As Divisões do DA funcionará em perfeita articulação com as seções de administração dos demais órgãos do Ministério, cabendo lhes fiscalizar, em ação direta, os serviços administrativos que se relacionem com suas atividades.
+**Art**. 65. As Divisões do DA funcionará em perfeita articulação com as seções de administração dos demais órgãos do Ministério, cabendo lhes fiscalizar, em ação direta, os serviços administrativos que se relacionem com suas atividades.
 
 Parágrafo único. A DOb terá ainda, quanto aos demais órgãos do Ministério, a orientação e fiscalização, em ação direta, das atividades técnicas que se relacionem com suas atribuições.
 
-<strong>Art</strong>. 66. Os casos omissos ou de dúvida serão resolvidas pelo Ministro de Estado.
+**Art**. 66. Os casos omissos ou de dúvida serão resolvidas pelo Ministro de Estado.
 
 Brasília, em 8 de agôsto de 1963.
 
-<strong>OSWALDO LIMA FILHO</strong>
+**OSWALDO LIMA FILHO**
 
-###DEC-052340-0-000-08-08-1963@@@RET01+++
+**DECRETO Nº 52.340, DE 8 DE AGÔSTO 1963.**
 
-<strong>DECRETO Nº 52.340, DE 8 DE AGÔSTO 1963.</strong>
+***Aprova o Regimento do Departamento de Administração do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento do Departamento de Administração do Ministério da Agricultura.</strong></em>
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 Na página 7.122, 3ª coluna, artigo 11,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 XIII ... acumulação de serviços ou funções públicas;
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 XIII ... acumulação de cargos ou funções públicas;
 
 Na página 7.123, 3ª coluna, artigo 19,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 IX .. bem como as retribuições de créditos ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 IX ... bem como as redistribuições de créditos ...
 
 Na página 7 124,1ª coluna, artigo 23,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 II - cosfrontar a previsão ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 II - confrontar a previsão ...
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 XIV - opinar sôbre a ... orçamentáriado Ministério;
 
 XIV - opinar sôbre a ... orçamentária do Ministério;
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 XIV - opinar sôbre a oportunidade da aplicação de dotações em face do desenvolvimento da arrecadação e quando se tornar necessário sôbre qualquer alteração da política orçamentária do Ministério;
 
 Na mesma página, 2ª coluna, artigo 24, Parágrafo 1º,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 I ... mecânica do recitar de qualquer ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 I ... mecânica da receita de qualquer ...
 
 Na 2ª coluna, art. 25,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 I ... referente a defesa, por meio do ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 I ... referente a despesa, por meio do ...
 
 No mesmo artigo, 3ª coluna,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 VII ... ao Diretor a dotação das medidas ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 VII ... ao Diretor a adoção das medidas ...
 
 Na 4ª coluna, no art. 30,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
-Art. 30 ... e Contratos (S C C b), compete<strong>:</strong>
+Art. 30 ... e Contratos (S C C b), compete**:**
 
-<u><strong>LEIA</strong></u>\-<strong>SE:</strong>
+**LEIA**\-**SE:**
 
-Art. 30 ... e Contratos (S C C O b), compete<strong>:</strong>
+Art. 30 ... e Contratos (S C C O b), compete**:**
 
 Na mesma página 7.127, 2ª coluna, artigo 53, Parágrafo 3º,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 IX - autorizar a ... legais em vigor;
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 IX - autorizar a ... legais em vigor;
 
@@ -1456,10 +1452,10 @@ X autorizar a venda de material julgado inservível ao serviço público de acô
 
 Na 3ª coluna, no artigo 54,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 VIII - seus subordinados, para apreciação ou subordinados para apreciação de ...
 
-<u><strong>LEIA</strong></u>\-<u><strong>SE</strong></u><strong>:</strong>
+**LEIA**\-**SE:**
 
 VIII - seus subordinados, para apreciação de ...

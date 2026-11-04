@@ -1,5 +1,3 @@
-###DEC-055876-0-000-29-03-1965@@@
-
 DECRETO Nº 55.876, DE 29 DE MARÇO DE 1965.
 
 Altera o art. 31 dos Estatutos do Instituto de Resseguros do Brasil, aprovados pelo Decreto nº 52.099-A, de 10 de junho de 1963.

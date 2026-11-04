@@ -1,5 +1,3 @@
-###DEC-062498-0-000-01-04-1968@@@
-
 DECRETO Nº 62.498, DE 1º DE ABRIL DE 1968.
 
 Autoriza funcionamento da Faculdade de Medicina de Itajubá – MG.

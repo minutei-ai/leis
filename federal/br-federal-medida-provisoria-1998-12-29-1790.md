@@ -1,5 +1,3 @@
-###MPV-001790-0-000-29-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.790, DE 29 DE DEZEMBRO DE 1998
 
 Altera a Lei nº 9.365, de 16 de dezembro de 1996.

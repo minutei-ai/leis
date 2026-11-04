@@ -1,5 +1,3 @@
-###DEL-006142-0-000-28-12-1943@@@
-
 DECRETO‑LEI N. 6.142 – DE 28 DE DEZEMBRO DE 1943
 
 Disposições transitórias para execução da lei orgânica do ensino comercial

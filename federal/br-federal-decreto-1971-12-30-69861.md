@@ -1,5 +1,3 @@
-###DEC-069861-0-000-30-12-1971@@@
-
 Decreto nº 69.861 - de 30 de dezembro de 1971
 
 Concede permissão, em caráter permanente, à Empresa Fujiwara Hisato S.A. Comércio e Indústria, sediada no Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosas, no período da safra algodeira (fevereiro a julho) a sua usina localizada no município de Jales, no mesmo Estado.

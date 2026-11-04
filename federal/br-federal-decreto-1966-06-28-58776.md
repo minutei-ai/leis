@@ -1,5 +1,3 @@
-###DEC-058776-0-000-28-06-1966@@@
-
 decreto nº 58.776, de 28 de junho de 1966.
 
 Altera o Decreto nº 57.361-A, de 29 de novembro de 1965, que regulamenta a Lei nº 4.822, de 29 de outubro de 1965.

@@ -1,5 +1,3 @@
-###DEC-080171-0-000-16-08-1977@@@
-
 DECRETO Nº 80.171, DE 16 DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, necessárias à construção de uma Adutora e de um Reservatório de Acumulação, parte do Sistema de Captação e Adução de Água do Rio Guandu, para abastecimento do Complexo Industrial ao qual pertence a Refinaria Duque de Caxias (REDUC), situados nos municípios de Duque de Caxias e de Nova Iguaçu, no Estado do Rio de Janeiro.
@@ -27,8 +25,6 @@ Brasília, 16 de agosto de 1977; 156º da Independência e 89º da República.
 ERNESTO GEISEL
 
 Shigeaki Ueki
-
-###DEC-080171-0-000-16-08-1977@@@
 
 DECRETO Nº 80.171, DE 16 DE AGOSTO DE 1977.
 

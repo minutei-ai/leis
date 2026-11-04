@@ -1,5 +1,3 @@
-###DEC-085549-0-000-17-12-1980@@@
-
 Decreto nº 85.549, de 17 de dezembro de 1980.
 
 Prorroga prazo para instalação da Companhia de Desenvolvimento de Barcarena - CODEBAR.

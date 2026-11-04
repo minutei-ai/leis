@@ -1,5 +1,3 @@
-###DEC-073409-0-000-03-01-1974@@@
-
 DECRETO Nº 73.409, DE 3 DE JANEIRO DE 1974.
 
 Autoriza o funcionamento da Escola Superior de Agronomia de Paraguaçu Paulista mantida pela Fundação Gammon de Ensino, com sede na cidade de Paraguaçu Paulista, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-049258-0-000-17-11-1960@@@
-
 Decreto nº 49.258, de 17 de novembro de 1960.
 
 Autoriza o cidadão brasileiro Aristides Innocêncio de Almeida a pesquisar minério de manganês, no município de Alegre, Estado do Espirito Santo.

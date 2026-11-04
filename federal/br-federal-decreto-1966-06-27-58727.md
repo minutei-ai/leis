@@ -1,5 +1,3 @@
-###DEC-058727-0-000-27-06-1966@@@
-
 DECRETO Nº 58.727, DE 27 DE JUNHO DE 1966.
 
 Modifica o prazo concedido à Agência Financial de Portugal, para funcionar no País, e dá outras providências.

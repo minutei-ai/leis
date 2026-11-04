@@ -1,5 +1,3 @@
-###DEC-072640-0-000-17-08-1973@@@
-
 DECRETO Nº 72.640, DE 17 DE AGOSTO DE 1973.
 
 Concede permissão, em caráter permanente, à Indústria de Celulose Borregaard S.A., com sede em Guaíba, no Estado do Rio Grande do Sul, para funcionar aos domingos e nos dias feriados civis e religiosos, nos setores que menciona.

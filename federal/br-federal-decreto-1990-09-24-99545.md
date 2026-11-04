@@ -1,5 +1,3 @@
-###DEC-099545-0-000-24-09-1990@@@
-
 DECRETO N° 99.545, DE 24 DE SETEMBRO DE 1990
 
 Dispõe sobre a execução no Brasil do Segundo Protocolo Adicional ao Acordo Comercial n° 13, no Setor da Indústria Fonográfica, entre o Brasil, a Argentina, o México e a Venezuela.

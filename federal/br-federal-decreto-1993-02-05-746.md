@@ -1,5 +1,3 @@
-###DEC-000746-0-000-05-02-1993@@@
-
 DECRETO N° 746, DE 5 DE FEVEREIRO DE 1993
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados incidente sobre os produtos que especifica.

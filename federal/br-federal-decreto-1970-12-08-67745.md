@@ -1,5 +1,3 @@
-###DEC-067745-0-000-08-12-1970@@@
-
 DECRETO Nº 67.745, DE 8 DE DEZEMBRO DE 1970.
 
 Concede à Mineração Lageado Ltda., o direito de lavrar minério de chumbo, no município de Cêrro Azul, Estado do Paraná.

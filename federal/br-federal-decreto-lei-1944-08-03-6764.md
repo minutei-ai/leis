@@ -1,5 +1,3 @@
-###DEL-006764-0-000-03-08-1944@@@
-
 DECRETO-LEI N. 6.764 – DE 3 DE AGÔSTO DE 1944
 
 Dispõe sôbre o restabelecimento da isenção da taxa de expediente prevista no Decreto-lei nº 242, de 4 de fevereiro de 1938, em favor dos servidores da Prefeitura do Distrito Federal

@@ -1,5 +1,3 @@
-###DEC-078546-0-000-07-10-1976@@@
-
 Decreto nº 78.546, de 7 de outubro de 1976.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

@@ -1,5 +1,3 @@
-###DEC-051235-0-000-22-08-1961@@@
-
 DECRETO Nº 51.235, DE 22 DE AGÔSTO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Estado do Rio Grande do Sul.

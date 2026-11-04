@@ -80,12 +80,18 @@ Jayme de Sá Menezes
 
 Josaphat Marinho
 
-RETIFICAÇÕES<br>
-ONDE SE LÊ: Cargos de Comissão.<br>
-LEIA-SE: Cargos em Comissão<br>
-ONDE SE LÊ: 1 Diretor da Maternidade Asylla Balbino FG-5.<br>
-LEIA-SE: 1 Diretor da Maternidade Tsylla Balbino FG-5.<br>
-ONDE SE LÊ: Administrador da Colônia de Rguas Claras.<br>
+RETIFICAÇÕES
+
+ONDE SE LÊ: Cargos de Comissão.
+
+LEIA-SE: Cargos em Comissão
+
+ONDE SE LÊ: 1 Diretor da Maternidade Asylla Balbino FG-5.
+
+LEIA-SE: 1 Diretor da Maternidade Tsylla Balbino FG-5.
+
+ONDE SE LÊ: Administrador da Colônia de Rguas Claras.
+
 LEIA-SE: Administrador da Colônia de Águas Claras.
 
-* * *
+ *

@@ -1,5 +1,3 @@
-###DEC-085927-0-000-22-04-1981@@@
-
 Decreto nº 85.927, de 22 de abril de 1981.
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Econômicas e Administrativas de Franca, com sede na cidade de Franca, Estado de São Paulo.

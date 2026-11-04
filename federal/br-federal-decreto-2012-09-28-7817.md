@@ -1,5 +1,3 @@
-###DEC-007817-0-000-28-09-2012-PUB-01@@@
-
 DECRETO N° 7.817, DE 28 DE SETEMBRO DE 2012
 
 Altera o Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto n° 4.418, de 11 de outubro de 2002.

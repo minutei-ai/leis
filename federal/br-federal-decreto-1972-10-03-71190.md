@@ -1,5 +1,3 @@
-###DEC-071190-0-000-03-10-1972@@@
-
 DECRETO Nº 71.190 - DE 3 DE OUTUBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências, Letras e Educação de Presidente Prudente - São Paulo.

@@ -1,5 +1,3 @@
-###MPV-002202-0-001-26-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.202-1, DE 26 DE JULHO DE 2001
 
 Dispõe sobre o ressarcimento das contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e para a Seguridade Social - COFINS incidentes sobre insumos utilizados na fabricação de produtos  destinados à exportação.
@@ -43,8 +41,6 @@ Brasília, 26 de julho de 2001; 180º da Independência e 113º da República.
 FERNANDO HENRIQUE CARDOSO
 
 Pedro Malan
-
-<br>
 
 Anexo
 

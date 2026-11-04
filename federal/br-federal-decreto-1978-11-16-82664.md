@@ -1,5 +1,3 @@
-###DEC-082664-0-000-16-11-1978@@@
-
 Decreto nº 82.664, de 16 de novembro de 1978.
 
 Concede reconhecimento ao curso de Artes Práticas, da Faculdade de Filosofia, Ciências e Letras de Penápolis, Estado de São Paulo.

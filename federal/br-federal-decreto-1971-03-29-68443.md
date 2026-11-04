@@ -1,5 +1,3 @@
-###DEC-068443-0-000-29-03-1971@@@
-
 DECRETO Nº 68.443, DE 29 DE MARÇO DE 1971.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais de propriedade particular, situados em polígono compreendido na zona prioritária, fixada para fins de reforma agrária, no Decreto número 67.557, de 12 de novembro de 1970, e dá outras providências.

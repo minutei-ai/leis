@@ -1,5 +1,3 @@
-###DEC-086799-0-000-29-12-1981@@@
-
 Decreto nº 86.799, de 29 de dezembro de 1981.
 
 Revoga Decreto que autorizou funcionamento de curso superior.

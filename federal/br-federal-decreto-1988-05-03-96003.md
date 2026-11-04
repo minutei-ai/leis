@@ -1,5 +1,3 @@
-###DEC-096003-0-000-03-05-1988@@@
-
 DECRETO Nº 96.003, DE 03 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO EDUCADORA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de São João do Ivaí, Estado do Paraná.

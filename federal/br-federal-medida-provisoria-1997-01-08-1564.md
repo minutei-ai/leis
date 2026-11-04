@@ -1,7 +1,3 @@
-1
-
-###MPV-001564-0-000-08-01-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.564, DE 8 DE JANEIRO DE 1997.
 
 Autoriza o Poder Executivo a abrir, em favor do Ministério do Planejamento e Orçamento, crédito extraordinário até o limite de R$14.000.000,00, para atender aos Estados de Minas Gerais, Rio de Janeiro e Espírito Santo.

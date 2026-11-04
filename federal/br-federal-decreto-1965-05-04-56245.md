@@ -1,5 +1,3 @@
-###DEC-056245-0-000-04-05-1965@@@
-
 DECRETO Nº 56.245, DE 4 DE MAIO DE 1965.
 
 Aprova os critérios reguladores do Plano Nacional de Educação referentes a cada Fundo.

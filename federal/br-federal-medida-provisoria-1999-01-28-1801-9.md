@@ -1,5 +1,3 @@
-###MPV-001801-0-009-28-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.801-9, DE 28 DE JANEIRO DE 1999.
 
 Altera dispositivos da Lei nº 9.656, de 3 junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, e dá outras providências.

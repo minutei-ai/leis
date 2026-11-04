@@ -1,5 +1,3 @@
-###DEC-081959-0-000-11-07-1978@@@
-
 Decreto nº 81.959, de 11 de julho de 1978.
 
 Concede à Itabira Agro-industrial S.A. o direito de lavrar areia quartzosa no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-090202-0-000-17-09-1984@@@
-
 Decreto nº 90.202, de 17 de setembro de 1984
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóvel constituído de terras e benfeitorias, situado no Município de São Paulo, na região denominada Jardim São Luiz, sub-distrito de Santo Amaro - Capital - necessário ao remanejamento de trecho dos Oleodutos Barueri-Utinga (OBATI), que menciona.

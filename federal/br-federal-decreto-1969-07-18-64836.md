@@ -1,5 +1,3 @@
-###DEC-064836-0-000-18-07-1969@@@
-
 DECRETO Nº 64.836 - DE 18 DE JULHO DE 1969.
 
 Declara caduco o Decreto número 16.558, de 8 de setembro de 1944.

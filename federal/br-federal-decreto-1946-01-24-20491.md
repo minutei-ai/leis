@@ -1,38 +1,36 @@
-###DEC-020491-0-000-24-01-1946@@@
+**DECRETO nº 20.491, DE 24 DE JANEIRO DE 1946.**
 
-<strong>DECRETO nº 20.491, DE 24 DE JANEIRO DE 1946.</strong>
+***Autoriza o Regulamento para a fiscalização aduaneira dos transportes aéreos, aprovado pelo Decreto número 11.107, de 16 de dezembro de 1942.***
 
-<em><strong>Autoriza o Regulamento para a fiscalização aduaneira dos transportes aéreos, aprovado pelo Decreto número 11.107, de 16 de dezembro de 1942.</strong></em>
+**O PRESIDENTE DA REPÚBLICO**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICO</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
+**decreta:**
 
-<strong>decreta:</strong>
+**CAPÍTULO i**
 
-<strong>CAPÍTULO i</strong>
+*do regime aduaneiro*
 
-<em>do regime aduaneiro</em>
+**Art**. 1.º As areonaves procedentes do estrangeiro seroa fiscalizadas nos aeroportos habilitados de entrada e saída do território brasileiro.
 
-<strong>Art</strong>. 1.º As areonaves procedentes do estrangeiro seroa fiscalizadas nos aeroportos habilitados de entrada e saída do território brasileiro.
-
-<strong>Art</strong>. 2.º Os agentes ou representantes das empresas de transporte aéreo que estão sujeitas às fiscalização aduaneira prevista no artigo anterior, deverão dar conhecimento às autoridades fiscais dos horários que, para as linhas da das respectivas empresas, forem aprovados pela Diretoria de Aeronáutica Civil.
+**Art**. 2.º Os agentes ou representantes das empresas de transporte aéreo que estão sujeitas às fiscalização aduaneira prevista no artigo anterior, deverão dar conhecimento às autoridades fiscais dos horários que, para as linhas da das respectivas empresas, forem aprovados pela Diretoria de Aeronáutica Civil.
 
 Parágrafo único. No caso de vôo extraordinário ou atraso superior a uma hora, no horário regular, os agentes ou representantes das empresas deverão comunicar verbalmente às autoridades fiscais, com antecedência, a hora provável da chegada da aeronave.
 
-<strong>Art</strong>. 3.º As aeronaves do tráfego aéreo internacional ou as que por transbordo, trouxeram carga e passageiro do estrangeiro, pousando ou saindo nos aeroportos fora das horas do expediente normal nos dias úteis, de 7 às 19 horas, ficam sujeitas ao pagamento (CR$600,00), para custeio do serviço extraordinário.
+**Art**. 3.º As aeronaves do tráfego aéreo internacional ou as que por transbordo, trouxeram carga e passageiro do estrangeiro, pousando ou saindo nos aeroportos fora das horas do expediente normal nos dias úteis, de 7 às 19 horas, ficam sujeitas ao pagamento (CR$600,00), para custeio do serviço extraordinário.
 
 § 1.º As aeronaves internacionais de linha noturna regular e bem assim as que houverem de efetuar mais de um pouso no mesmo vôo fora das horas do expediente regular pagarão as taxas deste artigo com o abatimento de cinquenta por cento (50%).
 
 § 2.º Essa taxa, destinada ao pagamento do serviço extraordinário dos servidores designados ,será recolhida pelas empresas transportadoras ás tesourarias das repartições respectivas mediante guia.
 
-<strong>Art</strong>. 4.º Caso a aeronave se veja forçada a pousar em local sem fiscalização aduaneira, o comandante ou piloto lavrará um termo da ocorrência, o qual deverá ser assinado pela população, se houver pela autoridade fiscal do lugar ou, na sua falta, por qualquer outra, civil ou militar.
+**Art**. 4.º Caso a aeronave se veja forçada a pousar em local sem fiscalização aduaneira, o comandante ou piloto lavrará um termo da ocorrência, o qual deverá ser assinado pela população, se houver pela autoridade fiscal do lugar ou, na sua falta, por qualquer outra, civil ou militar.
 
 § 1.º Do termo da ocorrência constarão o motivo da descida e a declaração de que nenhuma mercadoria foi descarregada no local, bem como de estar intacto o sinete da escolhida ou porta do depósito.
 
-<strong>Art</strong>. 5.º As aeronaves a serviço de linha aérea internacional, como nacional, estão isentas da formalidade do passe aduaneiro exigido para as embarcações no art. 415 da Nova Consolidação das Leis das Alfândegas e Mesas de Rendas da República.
+**Art**. 5.º As aeronaves a serviço de linha aérea internacional, como nacional, estão isentas da formalidade do passe aduaneiro exigido para as embarcações no art. 415 da Nova Consolidação das Leis das Alfândegas e Mesas de Rendas da República.
 
-<strong>Art</strong>. 6.º Será exercida rigorosa fiscalização aduaneira nos aeroportos de entrada e saída do território nacional.
+**Art**. 6.º Será exercida rigorosa fiscalização aduaneira nos aeroportos de entrada e saída do território nacional.
 
-<strong>Art</strong>. 7.º No primeiro aeroporto aduaneiro habilitado em que pousar aeronave procedente de território estrangeiro:
+**Art**. 7.º No primeiro aeroporto aduaneiro habilitado em que pousar aeronave procedente de território estrangeiro:
 
 1\) a autoridade competente registrará, para fins fiscais, o nome do comandante ou piloto;
 
@@ -40,45 +38,45 @@ Parágrafo único. No caso de vôo extraordinário ou atraso superior a uma hora
 
 3\) A autoridade aduaneira, depois de examinar os documentos da aeronave e conferir o número de manisfetos com o declarado na relação geral, visará as vias dos manisfetos de carga e de trânsito, restituindo duas que acompanharão os volumes. As terceiras vias serão remetidas, mediante oficio e por intermédio do comandante ou piloto, para a Alfândega de destino e para o último aeroporto da linha em território brasileiro, respectivamente. As quartas vias serão de propriedade das companhias transportadoras. As quintas vias, depois de escrituradas no livro próprio, cujo modelo acompanha este regulamento, ficarão arquivadas na Alfândega.
 
-<strong>Art</strong>. 8.º Os inspetores das alfândegas, o chefe do serviço de importância aérea, nas alfândegas onde houver, é o chefe da Estação Aduaneira de São Paulo, uma vez recebidos os manifestos de carga e de trânsito, oficiarão ao aeroporto de entrada, dentro de 48 horas, comunicando o recebimento desses manifestos, a fim de que seja dada a baixa respectiva no livro competente.
+**Art**. 8.º Os inspetores das alfândegas, o chefe do serviço de importância aérea, nas alfândegas onde houver, é o chefe da Estação Aduaneira de São Paulo, uma vez recebidos os manifestos de carga e de trânsito, oficiarão ao aeroporto de entrada, dentro de 48 horas, comunicando o recebimento desses manifestos, a fim de que seja dada a baixa respectiva no livro competente.
 
-<strong>Art</strong>. 9.º As autoridades aduaneiras dos aeroportos de escala limitar-se-ão apenas ao recebimento dos volumes a eles destinados, constantes de manifesto de carga já visado no aeroporto de entrada em território nacional e à vigilância do aparelho até a sua partida.
+**Art**. 9.º As autoridades aduaneiras dos aeroportos de escala limitar-se-ão apenas ao recebimento dos volumes a eles destinados, constantes de manifesto de carga já visado no aeroporto de entrada em território nacional e à vigilância do aparelho até a sua partida.
 
-<strong>Art</strong>. 10. Os volumes destinados a cada ponto de escala serão removidos, com a presença de funcionário fiscal, pela empresa transportadora, para o armazem que as repartições destinarem à carga de aeronaves, onde aguardarão despacho regulamentar.
+**Art**. 10. Os volumes destinados a cada ponto de escala serão removidos, com a presença de funcionário fiscal, pela empresa transportadora, para o armazem que as repartições destinarem à carga de aeronaves, onde aguardarão despacho regulamentar.
 
 Parágrafo único. A empresa transportadoras entregará os volumes à repartição por meio de uma relação em duas vias; o funcionário responsável dará recibo na Segunda e arquivará a primeira na repartição.
 
-<strong>Art</strong>. 11. Os volumes que, por motivo de ordem técnica ou de força maior, forem retirados da aeronave para serem transbordados para outra serão conferidos pelas suas características externas com o manifesto e conhecimento, visando as autoridades aduaneiras as declarações nesse sentido feitas pelo comandante ou piloto na relação geral e nos manifestos.
+**Art**. 11. Os volumes que, por motivo de ordem técnica ou de força maior, forem retirados da aeronave para serem transbordados para outra serão conferidos pelas suas características externas com o manifesto e conhecimento, visando as autoridades aduaneiras as declarações nesse sentido feitas pelo comandante ou piloto na relação geral e nos manifestos.
 
 Parágrafo único. Os volumes que por esse motivo ficarem em trânsito, no aeroporto, serão guardados nos depósitos das companhias transportadoras, ficando sob a responsabilidade as mesmas.
 
-<strong>Art</strong>. 12. No caso da aeronave internacional pernoitar no aeroporto com carga a bordo, a autoridade aduaneira designará para sua vigilância os funcionários que forem necessários.
+**Art**. 12. No caso da aeronave internacional pernoitar no aeroporto com carga a bordo, a autoridade aduaneira designará para sua vigilância os funcionários que forem necessários.
 
 Parágrafo único. A companhia transportadora, dentro de 24 horas, recolherá aos cofres públicos a importância de cento e cinquenta cruzeiros (Cr$150,00). Esse recolhimento destina-se ao pagamento de serviço extraordinário dos servidores designados.
 
-<strong>Art</strong>. 13. Nos aeroportos serão examinadas e conferidas as bagagens dos passageiros  a eles destinados e a dos que, em trânsito, delas necessitarem.
+**Art**. 13. Nos aeroportos serão examinadas e conferidas as bagagens dos passageiros  a eles destinados e a dos que, em trânsito, delas necessitarem.
 
 § 1.º Nenhuma mercadoria sujeita a direitos e vinda na bagagem de passageiros em trânsito poderá ser retirada no aeroporto de entrada ou nos demais sem o pagamento dos direitos de importância e demais taxas.
 
 § 2.º Ao passageiro em trânsito, obrigado a permanecer mais de 24 horas em ponto de escala, é facultado deixar no aeroporto, sob a guarda aduaneira e devidamente lacradas, as mercadorias de sua bagagem, sujeitas a direitos.
 
-<strong>Art</strong>. 14. Os passageiros que conduzirem unicamente roupas e objetos de seu uso pessoal ficam dispensados de fazer declaração de bagagem e dos pagamentos dos direitos de importância.
+**Art**. 14. Os passageiros que conduzirem unicamente roupas e objetos de seu uso pessoal ficam dispensados de fazer declaração de bagagem e dos pagamentos dos direitos de importância.
 
-<strong>Art</strong>. 15. Os passageiros que embarcarem nos aeroportos não habilitados ou em localidades sem fiscalização aduaneira, com destino ao estrangeiro, terão suas bagagens examinadas obrigatoriamente no último aeroporto habilitado, antes da saída do território nacional.
+**Art**. 15. Os passageiros que embarcarem nos aeroportos não habilitados ou em localidades sem fiscalização aduaneira, com destino ao estrangeiro, terão suas bagagens examinadas obrigatoriamente no último aeroporto habilitado, antes da saída do território nacional.
 
-<strong>Art</strong>. 16. Os volumes destinados a aeroportos não habilitados e a localidades sem fiscalização aduaneira poderão ser conferidos com a assistência da companhia transportadora ou do representante do importador, no último aeroporto habilitado, sendo remetidas para a Coletoria ou Mesa de Rendas mais próxima, para a cobrança respectiva, as guias referentes aos impostos devidos. Dessa cobrança deverá Ter conhecimento a repartição que expediu as guias.
+**Art**. 16. Os volumes destinados a aeroportos não habilitados e a localidades sem fiscalização aduaneira poderão ser conferidos com a assistência da companhia transportadora ou do representante do importador, no último aeroporto habilitado, sendo remetidas para a Coletoria ou Mesa de Rendas mais próxima, para a cobrança respectiva, as guias referentes aos impostos devidos. Dessa cobrança deverá Ter conhecimento a repartição que expediu as guias.
 
-<strong>Art</strong>. 17. Quando em território nacional, por motivo de ordem técnica, não for possível transportar a carga em trânsito, de um manifesto, por inteiro, a autoridade do aeroporto em que o caso se verificar fará acompanhar o manifesto de uma relação organizada pela transportadora contendo o número dos conhecimentos e o nome dos consignatários dos volumes embarcados, data do manifesto a que os mesmos pertençam, prefixo do avião, acusando o número de volumes que ficarem retidos. Esse documento será assinado pelo representante da transportadora e pela autoridade aduaneira do aeroporto.
+**Art**. 17. Quando em território nacional, por motivo de ordem técnica, não for possível transportar a carga em trânsito, de um manifesto, por inteiro, a autoridade do aeroporto em que o caso se verificar fará acompanhar o manifesto de uma relação organizada pela transportadora contendo o número dos conhecimentos e o nome dos consignatários dos volumes embarcados, data do manifesto a que os mesmos pertençam, prefixo do avião, acusando o número de volumes que ficarem retidos. Esse documento será assinado pelo representante da transportadora e pela autoridade aduaneira do aeroporto.
 
 Parágrafo único. As remessas subsequentes da carga retida, que não poderá permanecer mais de 30 dias no aeroporto, serão feitas, também, por meio de relação, com as características indicadas no artigo anterior, para o fim de ser encaminhada à Alfândega de destino.
 
-<strong>CAPÍTULO ii</strong>
+**CAPÍTULO ii**
 
-<em>DO DESPACHO DE ENCOMENDAS E MERCADORIAS</em>
+*DO DESPACHO DE ENCOMENDAS E MERCADORIAS*
 
-<strong>Art</strong>. 18. O despacho dos volumes de mercadorias transportadoras por via aérea será feito com máxima presteza e dentro das normas gerais da legislação aduaneira, que não contrariem os preceitos deste Regulamento.
+**Art**. 18. O despacho dos volumes de mercadorias transportadoras por via aérea será feito com máxima presteza e dentro das normas gerais da legislação aduaneira, que não contrariem os preceitos deste Regulamento.
 
-<strong>Art</strong>. 19. As mercadorias importadas por particulares poderão pagar por guia, os direitos de importância para consumo e demais taxas aduaneiras, cobrando-se, por verba, o imposto de consumo.
+**Art**. 19. As mercadorias importadas por particulares poderão pagar por guia, os direitos de importância para consumo e demais taxas aduaneiras, cobrando-se, por verba, o imposto de consumo.
 
 § 1.º As importâncias feitas por particulares, cujos direitos excedam de quinhentos cruzeiros (CR$500,00), ou sejam de valor superior a dois mil cruzeiros (CR$2.000,00), serão anotadas em livro próprio para o fim de ser investigada a atividade do importador pela fiscalização do imposto e consumo.
 
@@ -86,9 +84,9 @@ Parágrafo único. As remessas subsequentes da carga retida, que não poderá pe
 
 § 3.º As mercadorias desembaraçadas por meio de guia organizada pelo classificador ficam sujeitas à conferência de saída.
 
-<strong>Art</strong>. 20. As mercadorias importadas por via aérea ficam sujeitas ao mesmo regime de armazenagem previsto na legislação vigente para as mercadorias depositadas nos armazéns das Alfândegas, Mesas de Rendas ou das empresas exploradoras de serviços portuários.
+**Art**. 20. As mercadorias importadas por via aérea ficam sujeitas ao mesmo regime de armazenagem previsto na legislação vigente para as mercadorias depositadas nos armazéns das Alfândegas, Mesas de Rendas ou das empresas exploradoras de serviços portuários.
 
-<strong>Art</strong>. 21. Além das indicações facultativas que trouxerem a identificação dos volumes submetidos a despacho se fará por um "Rótulo de Identificação", de uso obrigatório, que mencionará:
+**Art**. 21. Além das indicações facultativas que trouxerem a identificação dos volumes submetidos a despacho se fará por um "Rótulo de Identificação", de uso obrigatório, que mencionará:
 
 a) nome da companhia transportadora;
 
@@ -104,11 +102,11 @@ f) aeroporto de destino;
 
 g) nome de destinatário ou consignatário.
 
-<strong>CAPÍTULO iii</strong>
+**CAPÍTULO iii**
 
-<em>DAS PENALIDADES</em>
+*DAS PENALIDADES*
 
-<strong>Art</strong>. 22. Pela divergência do conhecimento aéreo com o conteúdo dos volumes, será imposta aos seus donos ou consignatários a multa de quantia igual aos direitos, nos seguintes casos:
+**Art**. 22. Pela divergência do conhecimento aéreo com o conteúdo dos volumes, será imposta aos seus donos ou consignatários a multa de quantia igual aos direitos, nos seguintes casos:
 
 a) quando, em ato de conferência, for verificada divergência que importe em direitos maiores do que os constantes do conhecimento ou da nota de despacho e a diferença exceda de quinhentos e vinte cruzeiros (CR$520,00);
 
@@ -116,7 +114,7 @@ b) quando, não atingindo a diferença de quinhentos e vinte cruzeiros (CR$520,0
 
 c) pelas mercadorias de comércio encontradas em bagagens ou conduzidas de qualquer modo por passageiros.
 
-<strong>Art</strong>. 23. Será aplicada pela Alfândega do aeroporto de destino da mercadoria a penalidade de direitos em dobro as empresas transportadoras ou seus agentes, quando:
+**Art**. 23. Será aplicada pela Alfândega do aeroporto de destino da mercadoria a penalidade de direitos em dobro as empresas transportadoras ou seus agentes, quando:
 
 a) se apurar a falta de volumes manifestados, sem declaração dessa ocorrência feita pela transportadora, no respectivo manisfeto, antes do exame dos documentos de embarque pelas autoridades aduaneiras do aeroporto de entrada, calculados os direitos sobre o peso bruto e segundo a taxa mais elevada do artigo da Tarifa para mercadoria indicada no conhecimento;
 

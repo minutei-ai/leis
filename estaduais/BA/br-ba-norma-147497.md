@@ -4,7 +4,8 @@ Institui o Programa Bahia Alfabetizada, na forma que indica, e dá outras provid
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PROGRAMA
 
 **Art. 1º** - Fica instituído o Programa Bahia Alfabetizada, por meio do qual o Estado prestará cooperação técnica, pedagógica e financeira aos municípios integrantes de seu território, com o propósito de assegurar os meios suficientes e necessários à alfabetização das crianças, jovens, adultos e idosos, na perspectiva da garantia do acesso, permanência e continuidade dos estudos na Educação Básica, com promoção da cidadania e inclusão social, em regime de colaboração entre entes federados e organizações sociais.
@@ -41,7 +42,8 @@ DO PROGRAMA
 
 **VII -** formação para gestores escolares municipais.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS OBJETIVOS
 
 **Art. 4º** - O Programa Bahia Alfabetizada tem por objetivos:
@@ -52,7 +54,8 @@ DOS OBJETIVOS
 
 **III -** aperfeiçoar o Índice de Desenvolvimento da Educação Básica - IDEB, no âmbito das escolas pertencentes às redes públicas estadual e municipais.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PÚBLICO ATENDIDO
 
 **Art. 5º** - O Programa Bahia Alfabetizada destina-se a:
@@ -63,7 +66,8 @@ DO PÚBLICO ATENDIDO
 
 **III -** pessoas não alfabetizadas e sem acesso à educação formal, com idade igual ou superior a 15 (quinze) anos, e que declarem, na matrícula, não saber ler e escrever, conforme a definição do Instituto Brasileiro de Geografia e Estatística - IBGE, mediante matrícula.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA ADESÃO AO PROGRAMA
 
 **Art. 6º** - O Programa Bahia Alfabetizada será desenvolvido mediante adesão voluntária e comprometimento dos municípios aos eixos previstos no art. 7º desta Lei.
@@ -78,12 +82,14 @@ DA ADESÃO AO PROGRAMA
 
 **II -** Eixo Alfabetização Paulo Freire.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO EIXO CRIANÇA ALFABETIZADA
 
 **Art. 8º** - Fica instituído o Eixo Criança Alfabetizada no âmbito do Programa Bahia Alfabetizada, por meio do qual o Estado prestará cooperação técnica, pedagógica e financeira aos municípios baianos, com o propósito de assegurar os meios suficientes à alfabetização das crianças até o 2º (segundo) ano do Ensino Fundamental, em regime de colaboração com a União e com os municípios.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Objetivos do Eixo Criança Alfabetizada
 
 **Art. 9º** - O Eixo Criança Alfabetizada tem por objetivos:
@@ -104,7 +110,8 @@ Dos Objetivos do Eixo Criança Alfabetizada
 
 **V -** reconhecimento educacional.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Diretrizes do Eixo Criança Alfabetizada
 
 **Art. 11** - O Eixo Criança Alfabetizada deverá observar as seguintes diretrizes:
@@ -119,7 +126,8 @@ Das Diretrizes do Eixo Criança Alfabetizada
 
 **V -** valorização das práticas sociais de leitura, de escrita e de oralidade, através de multiletramentos, com ênfase nos letramentos literário, literário-racial, matemático, digital e gestual-corporal, e do protagonismo de professores e estudantes.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Concessão de Bolsas no Âmbito do Eixo Criança Alfabetizada
 
 **Art. 12** - Serão concedidas bolsas aos profissionais responsáveis pelas ações de gestão, formação continuada e acompanhamento no âmbito do Eixo Criança Alfabetizada.
@@ -144,7 +152,8 @@ Da Concessão de Bolsas no Âmbito do Eixo Criança Alfabetizada
 
 **Art. 15** - A SEC poderá, a qualquer momento, cancelar, suspender o pagamento ou solicitar a restituição da bolsa, caso constatado o não cumprimento, por parte do bolsista, das obrigações constantes no Termo de Compromisso, assegurado o direito de defesa.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Da Adesão ao Eixo Criança Alfabetizada
 
 **Art. 16** - O Eixo Criança Alfabetizada será desenvolvido mediante adesão voluntária dos municípios.
@@ -155,7 +164,8 @@ Da Adesão ao Eixo Criança Alfabetizada
 
 **Art. 17** - Para o pleno cumprimento dos objetivos do Eixo Criança Alfabetizada, o Estado e os municípios partícipes, por meio das respectivas secretarias de educação, poderão celebrar contratos, convênios e parcerias com entidades públicas e privadas, nacionais e internacionais, na forma da lei.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Do Reconhecimento Educacional às Escolas
 
 **Art. 18** - As escolas públicas estaduais e municipais com matrículas de segundo ano do Ensino Fundamental serão certificadas com o "Reconhecimento Educacional Criança Alfabetizada Bahia”, ao atingirem os resultados de alfabetização expressos pelo Índice de Alfabetização da Bahia - IABA, constante no Sistema de Avaliação Baiano de Educação - SABE, e na forma de ato elaborado pela SEC.
@@ -166,7 +176,8 @@ Do Reconhecimento Educacional às Escolas
 
 **Parágrafo único -** Serão instituídos e disciplinados através de ato do Chefe do Poder Executivo os valores, quantidades de escolas, categorias, critérios, parâmetros e demais aspectos relativos ao Reconhecimento Educacional Criança Alfabetizada Bahia, a que se refere o _caput_ do art. 18 desta Lei.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 Do Selo Cidade Alfabetizadora
 
 **Art. 20** - Será concedido o "Selo Cidade Alfabetizadora” aos municípios que aderirem ao Programa Bahia Alfabetizada e que se destacarem por práticas e resultados relacionados à alfabetização de crianças.
@@ -175,14 +186,16 @@ Do Selo Cidade Alfabetizadora
 
 **Art. 21** - Os parâmetros, dimensões, critérios e os demais aspectos relativos ao "Selo Cidade Alfabetizadora” serão definidos em ato do Chefe do Poder Executivo.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO EIXO ALFABETIZAÇÃO PAULO FREIRE
 
 **Art. 22** - Fica instituído, no âmbito do Programa Bahia Alfabetizada, o Eixo Alfabetização Paulo Freire, que visa o apoio técnico-pedagógico aos municípios, adotando a alfabetização como primeira etapa de ensino da educação básica de jovens, adultos e idosos, incluindo comunidades quilombolas, indígenas, ciganas, assentados e ribeirinhos, ao tempo em que lhes garantem a continuidade dos estudos nas etapas subsequentes.
 
 **Parágrafo único -** O Eixo de que trata o _caput_ deste artigo deverá promover a educação das populações específicas de acordo com suas peculiaridades.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Objetivos do Eixo Alfabetização Paulo Freire
 
 **Art. 23** - O Eixo Alfabetização Paulo Freire possui os seguintes objetivos:
@@ -203,7 +216,8 @@ Dos Objetivos do Eixo Alfabetização Paulo Freire
 
 **Parágrafo único -** Compete à SEC, em parceria com a Secretaria de Administração Penitenciária e Ressocialização - SEAP, garantir a oferta do Eixo Alfabetização Paulo Freire para as pessoas privadas de liberdade, egressos do sistema prisional.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Execução do Eixo Alfabetização Paulo Freire
 
 **Art. 24** - O Eixo Alfabetização Paulo Freire utilizará, preferencialmente, as instalações das Redes Estadual e Municipal de Ensino.
@@ -248,14 +262,16 @@ Da Execução do Eixo Alfabetização Paulo Freire
 
 **g)** assegurar a oferta de ensino da EJA na continuidade dos estudos, nas etapas subsequentes.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Do Prazo para a Execução do Eixo de Alfabetização Paulo Freire
 
 **Art. 26** - O Eixo de Alfabetização Paulo Freire tem o prazo mínimo de 02 (dois) anos de implementação, visando garantir a legitimidade da ação alfabetizadora, no âmbito dos Territórios de Identidade, podendo ser prorrogado por mais 04 (quatro) anos.
 
 **Art. 27** - O Eixo de Alfabetização Paulo Freire passará anualmente por uma avaliação diagnóstica ou interventiva para apurar a qualidade das ações, corrigir e fortalecer os pontos frágeis e fortes, subsequentemente.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS DISPOSIÇÕES FINAIS
 
 **Art. 28** - As despesas decorrentes da aplicação do Capítulo V desta Lei correrão por conta das dotações orçamentárias da SEC, bem como das dotações consignadas na Lei Orçamentária Anual ao Ministério da Educação e às suas entidades vinculadas, nas ações previstas no Decreto Federal nº 11.556, de 12 de junho de 2023.

@@ -1,5 +1,3 @@
-###DEC-056287-0-000-17-05-1965@@@
-
 DECREto Nº 56.287, DE 17 DE MAIO DE 1965.
 
 Dá nova redação ao § 4º do art. 23, do Decreto nº 54.252, de 3 de setembro de 1964.

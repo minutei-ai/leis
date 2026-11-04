@@ -1,5 +1,3 @@
-###DEC-059706-0-000-12-12-1966@@@
-
 DECRETO Nº 59.706, DE 12 DE DEZEMBRO DE 1966.
 
 Dispõe sôbre a criação de uma entidade encarregada de promover a execução e a exploração da Ponte Rio-Niterói.

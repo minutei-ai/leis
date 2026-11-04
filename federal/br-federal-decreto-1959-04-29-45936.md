@@ -1,5 +1,3 @@
-###DEC-045936-0-000-29-04-1959@@@
-
 Decreto nº 45.936, de 29 de abril de 1959.
 
 Autoriza o cidadão brasileiro Braulino Vieira dos Santos a pesquisar quartzo e pedras coradas, no município de Caraí, Estado de Minas Gerais.

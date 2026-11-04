@@ -1,5 +1,3 @@
-###DEL-004555-0-000-06-08-1942@@@
-
 DECRETO-LEI N. 4.555 – DE 6 DE AGOSTO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito suplementar do 1.500:000$0, à verba que especifica

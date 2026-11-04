@@ -1,5 +1,3 @@
-###DEC-068379-0-000-19-03-1971@@@
-
 DECRETO Nº 68.379, DE 19 DE MARÇO DE 1971.
 
 Eleva à categoria de Delegacia a Agência da Capitania dos Portos do Estado de São Paulo em São Sebastião e cria a Capatazia de São Sebastião.

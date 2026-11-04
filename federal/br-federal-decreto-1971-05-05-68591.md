@@ -1,5 +1,3 @@
-###DEC-068591-0-000-05-05-1971@@@
-
 DECRETO Nº 68.591 - DE 5 DE MAIO DE 1971.
 
 Revoga o Decreto que concedeu à emprêsa Bally Limitada (sociedade Comercial) autorização para funcionar na República Federativa do Brasil.

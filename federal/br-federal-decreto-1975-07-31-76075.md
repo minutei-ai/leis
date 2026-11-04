@@ -1,5 +1,3 @@
-###DEC-076075-0-000-31-07-1975@@@
-
 DECRETO Nº 76.075, DE 31 DE JULHO DE 1975.
 
 Cria, junto ao Ministério dos Transportes, a Comissão Coordenadora da Política de Compra de Locomotivas e dá outras providências.

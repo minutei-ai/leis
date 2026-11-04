@@ -1,5 +1,3 @@
-###DEC-080159-0-000-15-08-1977@@@
-
 Decreto nº 80.159, de 15 de agosto de 1977.
 
 Autoriza a transformação do curso de Estudos Sociais, licenciatura de 1º grau, em licenciatura plena, com habilitação em Educação Moral e Cívica, da Faculdade de Filosofia, Ciências e Letras de Sorocaba, com sede a cidade de Sorocaba, Estado de São Paulo.

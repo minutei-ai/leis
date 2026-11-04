@@ -1,5 +1,3 @@
-###DEC-049071-0-000-07-10-1960@@@
-
 DECRETO Nº 49.071, DE 7 DE OUTUBRO DE 1960.
 
 Estabelece a freqüência de ciclagem no sistema da Companhia Paulista de Energia Elétrica.

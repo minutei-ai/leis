@@ -1,5 +1,3 @@
-###DEC-004375-0-000-13-09-2002@@@
-
 DECRETO Nº 4.375, DE 13 DE SETEMBRO DE 2002
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Hungria sobre Cooperação nos Campos da Quarentena Vegetal e da Proteção de Plantas, celebrado em Brasília, em 10 de novembro de 1999.

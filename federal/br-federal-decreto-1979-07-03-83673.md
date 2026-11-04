@@ -1,5 +1,3 @@
-###DEC-083673-0-000-03-07-1979@@@
-
 Decreto nº 83.673, de 03 de julho de 1979.
 
 Declara de utilidade pública para fins de desapropriação áreas de terra necessárias à ampliação da subestação caiçara, da Companhia Paulista de Força e Luz - CFFL, Estado de São Paulo.

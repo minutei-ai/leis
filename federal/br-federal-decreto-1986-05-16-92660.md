@@ -1,5 +1,3 @@
-###DEC-092660-0-000-16-05-1986@@@
-
 DECRETO Nº 92.660, DE 16 DE MAIO DE 1986
 
 Promulga o Tratado de Amizade, Cooperação e Comércio entre o Governo da República Federativa do Brasil e o Governo da República de Zâmbia.
@@ -98,4 +96,12 @@ Em fé do que, os abaixo assinados, devidamente autorizados por seus respectivos
 
 Feito em Lusaca, aos 5 dias do mês de junho de 1980, em dois exemplares originais, nos idiomas português e inglês, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL: RAMIRO SARAIVA GUERREIRO</span></p></td><td style="width:194.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DE ZÂMBIA: WILSON CHAKULYA</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:216pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL: RAMIRO SARAIVA GUERREIRO
+
+</td><td style="width:194.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DE ZÂMBIA: WILSON CHAKULYA
+
+</td></tr></tbody></table>

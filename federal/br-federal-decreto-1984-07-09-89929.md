@@ -1,5 +1,3 @@
-###DEC-089929-0-000-09-07-1984@@@
-
 Decreto nº 89.929, de 09 de julho de 1984.
 
 Promulga o Acordo Geral de Cooperação entre o Governo da Re pública Federativa do Brasil e o Governo de República Popular de Moçambique.

@@ -1,5 +1,3 @@
-###MPV-001691-0-003-27-08-1998@@@
-
 MEDIDA PROVISóRIA Nº 1.691-3, DE 27 de AGOSTO DE 1998
 
 Dispõe sobre a adoção de medidas relacionadas com o Sistema Financeiro da Habitação - SFH, altera as Leis nºs 4.380, de 21 de agosto de 1964, 8.036, de 11 de maio de 1990, e 8.692, de 28 de julho de 1993, e dá outras providências.

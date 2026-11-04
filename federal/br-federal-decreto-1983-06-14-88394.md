@@ -1,5 +1,3 @@
-###DEC-088394-0-000-14-06-1983@@@
-
 Decreto nº 88.394, de 14 de junho de 1983
 
 Autoriza o aumento do Capital Social do Banco da Amazônia S.A - BASA.

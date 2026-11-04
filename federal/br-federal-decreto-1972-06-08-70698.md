@@ -1,5 +1,3 @@
-###DEC-070698-0-000-08-06-1972@@@
-
 decreto nº 70.698, de 8 de junho de 1972.
 
 Redistribui, com o respectivo ocupante, cargo do Ministério da Aeronáutica para o Ministério da Indústria e do Comércio, e dá outras providências.

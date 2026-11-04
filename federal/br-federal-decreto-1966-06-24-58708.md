@@ -1,5 +1,3 @@
-###DEC-058708-0-000-24-06-1966@@@
-
 DECRETO Nº 58.708, de 24 de junho de 1966.
 
 Regulamenta a extração de areia em cursos d’água beneficiados por obras do Departamento Nacional de Obras de Saneamento e dá outras providências.

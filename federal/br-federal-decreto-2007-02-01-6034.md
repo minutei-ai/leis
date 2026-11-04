@@ -1,5 +1,3 @@
-###DEC-006034-0-000-01-02-2007@@@
-
 DECRETO Nº 6.034, DE 1º DE FEVEREIRO DE 2007.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.731, de 20 de dezembro de 2006, do Conselho de Segurança das Nações Unidas, que, entre outras providências, renova, por um ano, o embargo de armas e restrições de viagem e, por seis meses, o embargo à importação de diamantes em estado bruto procedentes da Libéria, bem como reafirma as medidas de congelamento de fundos, ativos financeiros e recursos econômicos de determinados indivíduos e entidades.
@@ -16,11 +14,7 @@ Brasília, 1º de fevereiro de 2007; 186o da Independência e 119o da República
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 2.2.2007.
-
-“O Conselho de Segurança,
+         Celso Luiz Nunes Amorim“O Conselho de Segurança,
 
 Recordando suas resoluções e as declarações anteriores de seu Presidente sobre a situação na Libéria e na África Ocidental;
 

@@ -1,5 +1,3 @@
-###DEC-067747-0-000-08-12-1970@@@
-
 DECRETO Nº 67.747, DE 8 DE DEZEMBRO DE 1970.
 
 Concede à Magnesita S.A. o direito de lavrar magnesita e talco, no município de Brumado - Estado da Bahia.

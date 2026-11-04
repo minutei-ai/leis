@@ -1,14 +1,12 @@
-###DEC-020650-0-000-22-02-1946@@@
+**DECRETO Nº 20.650, DE 22 DE FEVEREIRO DE 1946.**
 
-<strong>DECRETO Nº 20.650, DE 22 DE FEVEREIRO DE 1946.</strong>
+***Outorga a Henrique Nunes Coutinho concessão para aproveitamento de energia hidráulica existente no rio Santa Maria do Rio Doce, distrito de Boapaba, município de Colatina, Estado do Espirito Santo.***
 
-<em><strong>Outorga a Henrique Nunes Coutinho concessão para aproveitamento de energia hidráulica existente no rio Santa Maria do Rio Doce, distrito de Boapaba, município de Colatina, Estado do Espirito Santo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 74, letra *a*, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934) e de acôrdo com a Lei Constitucional nº 6,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 74, letra <em>a</em>, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934) e de acôrdo com a Lei Constitucional nº 6,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É outorgada a Henrique Nunes Coutinho, respeitados os direitos de terceiros, anteriormente adquiridos, concessão para o aproveitamento da energia hidráulica existente no rio Santa Maria do Rio Doce, município de Colatina, distrito de Boapaba, Estado do Espirito Santo.
+**Art**. 1º É outorgada a Henrique Nunes Coutinho, respeitados os direitos de terceiros, anteriormente adquiridos, concessão para o aproveitamento da energia hidráulica existente no rio Santa Maria do Rio Doce, município de Colatina, distrito de Boapaba, Estado do Espirito Santo.
 
 § 1º Por portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, bem como a descarga e a potência concedidas.
 
@@ -16,7 +14,7 @@
 
 § 3º O concessionário deverá adquirir da Prefeitura Municipal de Colatina as instalações da distribuição existente.
 
-<strong>Art</strong>. 2º Sob pena de caducidade da presente concessão, o concessionário obriga-se a:
+**Art**. 2º Sob pena de caducidade da presente concessão, o concessionário obriga-se a:
 
 I - Registrá-la na Divisão de Águas dentro de (30) dias, após a sua publicação.
 
@@ -70,36 +68,36 @@ V - Obedecer em todos os projetos às prescrições de ordem técnica determinad
 
 Parágrafo único. Os prazos a que se refere êste artigo, poderão ser prorrogados por ato do Ministério da Agricultura, ouvida a Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º A minuta do contrato - disciplinar desta concessão será preparado pela Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério da Agricultura e submetido à aprovação do Ministro da Agricultura.
+**Art**. 3º A minuta do contrato - disciplinar desta concessão será preparado pela Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério da Agricultura e submetido à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato da Divisão de Águas.
+**Art**. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato da Divisão de Águas.
 
-<strong>Art</strong>. 5º O concessionário fica obrigado a construir e manter nas proximidades do local do aproveitamento onde e desde quando lhe fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar, e a realizar as observações de acôrdo com as instruções da mesma Divisão de Águas.
+**Art**. 5º O concessionário fica obrigado a construir e manter nas proximidades do local do aproveitamento onde e desde quando lhe fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar, e a realizar as observações de acôrdo com as instruções da mesma Divisão de Águas.
 
-<strong>Art</strong>. 6º Ao concessionário é assegurada, durante a vigência da presente concessão, e respeitados direitos de outrem anteriormente adquiridos, a autorização de fazer o comércio de energia hidro-elétrica na zona discriminada nesta concessão.
+**Art**. 6º Ao concessionário é assegurada, durante a vigência da presente concessão, e respeitados direitos de outrem anteriormente adquiridos, a autorização de fazer o comércio de energia hidro-elétrica na zona discriminada nesta concessão.
 
-<strong>Art</strong>. 7º O capital a ser remunerado será o investimento efetivo e criterioso na constituição do patrimônio da concessão, em função da indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição de energia elétrica.
+**Art**. 7º O capital a ser remunerado será o investimento efetivo e criterioso na constituição do patrimônio da concessão, em função da indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição de energia elétrica.
 
-<strong>Art</strong>. 8º As tabelas de preços de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas, de maneira que seja sempre proporcionada ao capital uma justa remuneração (item III do citado artigo 180) dentro de limites que deverão ser estipulados no contrato disciplinar da presente concessão.
+**Art**. 8º As tabelas de preços de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas, de maneira que seja sempre proporcionada ao capital uma justa remuneração (item III do citado artigo 180) dentro de limites que deverão ser estipulados no contrato disciplinar da presente concessão.
 
-<strong>Art</strong>. 9º Para a manutenção da integridade do patrimônio a que se refere o art. 7º do presente decreto, será criada uma reserva, que proverá as renovações por depreciação, determinadas pela usura ou impostas por acidentes.
+**Art**. 9º Para a manutenção da integridade do patrimônio a que se refere o art. 7º do presente decreto, será criada uma reserva, que proverá as renovações por depreciação, determinadas pela usura ou impostas por acidentes.
 
 Parágrafo único. A constituição dessa reserva, que se denominará “reserva de renovação”, será realizada por cotas especiais, que incidirão sôbre as tarifas sob forma de percentagem. Estas cotas serão determinadas, tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 10 Findo o prazo da concessão, tôda a propriedade do concessionário que, no momento, existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado do Espírito Santo, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a “reserva de renovação” a que se refere o parágrafo único do art. 9º dêste decreto.
+**Art**. 10 Findo o prazo da concessão, tôda a propriedade do concessionário que, no momento, existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado do Espírito Santo, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a “reserva de renovação” a que se refere o parágrafo único do art. 9º dêste decreto.
 
 § 1º Se o Estado do Espírito Santo não fizer uso do seu direito a essa reversão, o concessionário poderá requerer ao Govêrno Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do §1º dêste artigo, fica o concessionário obrigado a dar conhecimento ao Govêrno Federal da decisão do Estado do Espírito Santo e a entrar com o requerimento da prorrogação da concessão ou de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 11 Fica revogada a Portaria nº 607, de 5 de Agôsto de 1944, que trata dêste mesmo aproveitamento de energia.
+**Art**. 11 Fica revogada a Portaria nº 607, de 5 de Agôsto de 1944, que trata dêste mesmo aproveitamento de energia.
 
-<strong>Art</strong>. 12 O concessionário gozará, desde a data de registro de que trata o art. 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 12 O concessionário gozará, desde a data de registro de que trata o art. 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 13º Êste Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 13º Êste Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 22 de Fevereiro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior

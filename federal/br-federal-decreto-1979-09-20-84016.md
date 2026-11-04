@@ -1,5 +1,3 @@
-###DEC-084016-0-000-20-09-1979@@@
-
 Decreto nº 84.016, de 20 de setembro de 1979.
 
 Convoca a VII CONFERÊNCIA NACIONAL DE SAÚDE e dá outras providências.

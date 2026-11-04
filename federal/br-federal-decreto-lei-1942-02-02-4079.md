@@ -1,5 +1,3 @@
-###DEL-004079-0-000-02-02-1942@@@
-
 DECRETO-LEI N. 4.079 – DE 2 DE FEVEREIRO DE 1942
 
 Dispõe sobre a designação dos membros das Delegações de Controle em entidades autárquicas e dá outras providências

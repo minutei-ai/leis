@@ -1,5 +1,3 @@
-###DEC-054388-0-000-08-10-1964@@@
-
 DECRETO Nº 54.388, DE 8 DE OUTUBRO DE 1964.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos, e consignados à emprêsa “Companhia Fábrica Yolanda S.A.,” de Recife, Pernambuco.
@@ -14,7 +12,33 @@ Decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito e isenção de quaisquer taxas e impostos federais a importação dos equipamentos novos, sem similar nacional registrado a seguir descritos e consignados à emprêsa “Companhia Fábrica Yolanda S.A.”, de Recife, Estado de Pernambuco:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item - Especificação</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1. Carda grossa juta “Breaker Card” com cilindro de 72” de largura por 60” de diâmetro, dispositivo formador para rolos de grande diâmetro, operação a ar comprimido, gaiola de alimentação com cilindros inotores para acomoda, rolos de 8 1/2” provenientes de “spreader: máquina completa, com acessórios para instalação do motor, porém sem motor elétrico..........................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>15,562,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>2. Passadores de terceira passagem, com 4 cabeças e 4 fitas, e 4 entregas por cabeças 12” de exsartamento..........................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>22,260,00</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>3. Fiadeira de fita, com descarga automática e 100 fusos de 4 ¼ de passo, bobina de 5 5/8” x 2 11/16’, apropriada para emendamento de fios.........................................................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>58,952,60</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL:..................................................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>96,774,60</span></p></td></tr></tbody></table>
+Item - Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1. Carda grossa juta “Breaker Card” com cilindro de 72” de largura por 60” de diâmetro, dispositivo formador para rolos de grande diâmetro, operação a ar comprimido, gaiola de alimentação com cilindros inotores para acomoda, rolos de 8 1/2” provenientes de “spreader: máquina completa, com acessórios para instalação do motor, porém sem motor elétrico..........................................................
+
+1
+
+15,562,00
+
+2. Passadores de terceira passagem, com 4 cabeças e 4 fitas, e 4 entregas por cabeças 12” de exsartamento..........................................
+
+2
+
+22,260,00
+
+3. Fiadeira de fita, com descarga automática e 100 fusos de 4 ¼ de passo, bobina de 5 5/8” x 2 11/16’, apropriada para emendamento de fios.........................................................................................................
+
+4
+
+58,952,60
+
+TOTAL:..................................................................................................
+
+96,774,60
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

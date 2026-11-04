@@ -1,5 +1,3 @@
-###MPV-001974-0-074-10-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.974-74, DE 10 DE DEZEMBRO DE 1999.
 
 Dispõe sobre o títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

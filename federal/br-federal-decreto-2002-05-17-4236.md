@@ -1,5 +1,3 @@
-###DEC-004236-0-000-17-05-2002@@@
-
 DECRETO Nº 4.236, DE 17 DE MAIO DE 2002
 
 Altera a redação do § 3º do art. 1º do Decreto nº 1.947, de 28 de junho de 1996.

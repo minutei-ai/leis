@@ -1,5 +1,3 @@
-###DEC-046938-0-000-30-09-1959@@@
-
 DECRETO Nº 46.938, DE 30 DE SETEMBRO DE 1959.
 
 Concede à Costi S. A. - Indústria, Comércio e Navegação, autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

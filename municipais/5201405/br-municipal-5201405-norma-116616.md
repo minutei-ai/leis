@@ -24,8 +24,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 27 de agosto de 2018.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Chefe da Casa Civil

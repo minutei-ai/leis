@@ -1,5 +1,3 @@
-###DEL-001192-0-000-08-11-1971@@@
-
 # DECRETO-LEI Nº 1.192, DE 8 DE NOVEMBRO DE 1971
 
 Cria o Programa de Desenvolvimento do Centro - Oeste (PRODOESTE) e dá outras providências
@@ -50,7 +48,23 @@ b) A inclusão no Orçamento da União das parcelas restantes, no valor de Cr$34
 
 Art. 4º Os recursos de que trata o artigo anterior terão a seguinte destinação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>a) Implantação e pavimentação da rêde rodoviária básica .............................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>460.000.000,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>b) Construção do sistema de estradas vicinais ...........................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>50.000.000,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>c) Construção da rêde de armazéns e silos, usinas de beneficiamento e frigoríficos ................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>90.000.000,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>d) Realização de obras de saneamento geral ..............................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>50.000.000,00</span></p></td></tr></tbody></table>
+Cr$
+
+a) Implantação e pavimentação da rêde rodoviária básica .............................
+
+460.000.000,00
+
+b) Construção do sistema de estradas vicinais ...........................................
+
+50.000.000,00
+
+c) Construção da rêde de armazéns e silos, usinas de beneficiamento e frigoríficos ................................................................................................
+
+90.000.000,00
+
+d) Realização de obras de saneamento geral ..............................................
+
+50.000.000,00
 
 Art. 5º A utilização dos recursos previstos nos artigos 3º e 4º dêste Decreto-lei será realizada:
 

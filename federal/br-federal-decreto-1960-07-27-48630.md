@@ -1,5 +1,3 @@
-###DEC-048630-0-000-27-07-1960@@@
-
 DECRETO Nº 48.630, DE 27 DE JULHO DE 1960.
 
 Institui o Dia do Agricultor a ser comemorado em todo o país em 28 de julho.

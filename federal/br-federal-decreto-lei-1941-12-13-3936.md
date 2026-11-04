@@ -1,5 +1,3 @@
-###DEL-003936-0-000-13-12-1941@@@
-
 DECRETO-LEI N. 3.936 – DE 13 DE DEZEMBRO DE 1941
 
 Abre ao Ministério da Educação e Saude o crédito suplementar de 16:032$4 à verba que especifica

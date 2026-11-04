@@ -1,5 +1,3 @@
-###DEC-079904-0-000-04-07-1977@@@
-
 DECRETO Nº 79.904, DE 4 DE julho DE 1977
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providencias.

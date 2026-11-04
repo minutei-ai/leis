@@ -1,5 +1,3 @@
-###DEC-054776-0-000-31-10-1964@@@
-
 DECRETO Nº 54.776, DE 31 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Athos Fontes Ferreira a pesquisar dolomita, no Município de Itararé, Estado de São Paulo.

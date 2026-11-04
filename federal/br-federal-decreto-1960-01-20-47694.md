@@ -1,5 +1,3 @@
-###DEC-047694-0-000-20-01-1960@@@
-
 DECRETO Nº 47.694, DE 20 DE JANEIRO DE 1960.
 
 Altera a redação do artigo 18 do Decreto nº 47.606, de 9 de janeiro de 1960.

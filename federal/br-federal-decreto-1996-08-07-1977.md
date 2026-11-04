@@ -1,5 +1,3 @@
-###DEC-001977-0-000-07-08-1996@@@
-
 DECRETO Nº 1.977, DE 7 DE AGOSTO DE 1996.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Usina Termoelétrica de Alegrete.

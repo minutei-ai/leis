@@ -1,5 +1,3 @@
-###MPV-001773-0-033-13-01-1999@@@
-
 MEDIDA PROVISÓRiA N 1.773-33, DE 13 DE JANEIRO DE 1999.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

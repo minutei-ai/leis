@@ -1,5 +1,3 @@
-###DEC-096127-0-000-03-06-1988@@@
-
 # DECRETO N° 96.127, DE 3 DE JUNHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área adjacente de terra necessária à ampliação da subestação Piedade, da Companhia Energética de São Paulo - CESP, no Estado de São Paulo.

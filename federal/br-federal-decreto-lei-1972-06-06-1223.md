@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cab3b597-b5c2-4bdd-95fc-6a366431c62d/texto#nowhere)
 
-###DEL-001223-0-000-06-06-1972@@@
-
 # DECRETO-LEI Nº 1.223, DE 6 DE JUNHO DE 1972
 
 Dá nova redação ao artigo 71 do Decreto-lei nº 37, de 18 de novembro de 1966

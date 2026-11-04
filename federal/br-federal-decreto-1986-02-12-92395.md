@@ -1,5 +1,3 @@
-###DEC-092395-0-000-12-02-1986@@@
-
 DECRETO Nº 92.395, DE 12 DE FEVEREIRO DE 1986
 
 Institui o Programa Nacional de Irrigação - PRONI; atribui a Ministro de Estado Extraordinário a sua execução; e dá outras providências.

@@ -2,7 +2,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA PROMULGA E FAZ PUBLIC
 
 LEI Nº 6.330 DE 21 DE OUTUBRO DE 1991
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.179 de 26 de maio de 2014. Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Aiquara, Apuarema, Barra do Rocha, Boa Nova, Dário Meira, Gongogi, Ibirataia, Ipiaú, Itagi, Itagibá, Itamari, Jequié, Jitaúna, Manoel Vitorino, Nova Ibiá e Ubatã, e altera a Lei nº 12.926, de 18 de dezembro de 2013, no que concerne ao limite de Ibirapitanga. 
 
 Altera os limites do Município de Apuarema, desmembrado do Município de Wenceslau Guimarães.

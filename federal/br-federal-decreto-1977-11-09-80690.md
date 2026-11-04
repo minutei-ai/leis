@@ -1,5 +1,3 @@
-###DEC-080690-0-000-09-11-1977@@@
-
 DECRETO nº 80.690, de 09 DE NOVEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Ciências, da Universidade Federal Rural do Rio de Janeiro, com sede na cidade de Itaguaí, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-079423-0-000-23-03-1977@@@
-
 DECRETO Nº 79.423, DE 23 DE MARÇO DE 1977.
 
 Declara a cassação de exploração de serviços de energia elétrica, outorga e transfere concessões para a Companhia Força e Luz Cataguazes - Leopoldina, no Estado de Minas Gerais, e dá outras providências.

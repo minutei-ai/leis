@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183483)
-
 # DECRETO Nº 62.847, DE 03 DE OUTUBRO DE 2017
 
 ### _Autoriza a Fazenda do Estado a permitir o uso, a título gratuito e pelo prazo de 20 (vinte) anos, em favor do Município de Mirassolândia, do imóvel que especifica que especifica_
@@ -20,10 +18,16 @@ Palácio dos Bandeirantes, 3 de outubro de 2017
 
 GERALDO ALCKMIN
 
-David Everson Uip<br>
-Secretário da Saúde<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+David Everson Uip
+
+Secretário da Saúde
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 3 de outubro de 2017.

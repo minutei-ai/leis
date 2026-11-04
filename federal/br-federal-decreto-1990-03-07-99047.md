@@ -1,7 +1,3 @@
-1
-
-###DEC-099047-0-000-07-03-1990@@@
-
 DECRETO N° 99.047, DE 7 DE MARÇO DE 1990
 
 Outorga concessão à JET-RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Teresina, Estado do Piauí.

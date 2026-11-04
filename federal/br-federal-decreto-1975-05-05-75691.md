@@ -1,5 +1,3 @@
-###DEC-075691-0-000-05-05-1975@@@
-
 DECRETO N.º 75.691, DE 5 DE MAIO DE 1975
 
 Regulamenta a Lei n.º 6.009, de 26 de dezembro de 1973, alterada pela Lei n.º 6.085, de 15 de julho de 1974, dispondo sobre Tarifas Aeroportuárias e dá outras providências.

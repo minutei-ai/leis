@@ -1,5 +1,3 @@
-###DEC-004004-0-000-08-11-2001@@@
-
 DECRETO Nº 4.004, DE 8 DE NOVEMBRO DE 2001
 
 Dispõe sobre a concessão de ajuda de custo e de transporte aos servidores públicos civis da União, das autarquias e das fundações públicas federais, e dá outras providências.

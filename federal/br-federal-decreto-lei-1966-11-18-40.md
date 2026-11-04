@@ -1,5 +1,3 @@
-###DEL-000040-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 40, DE 18 DE NOVEMBRO DE 1966
 
 Abre à Presidência da República (Órgãos Dependentes: Coordenação dos Organismos Regionais) - Comissão Especial de Faixa de Fronteiras - um crédito especial de Cr$ 200.000.000 (duzentos milhões de cruzeiros).

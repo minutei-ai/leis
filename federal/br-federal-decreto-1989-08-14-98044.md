@@ -1,7 +1,3 @@
-1
-
-###DEC-098044-0-000-14-08-1989@@@
-
 DECRETO Nº 98.044, DE 14 DE AGOSTO DE 1989
 
 Aprova novo Estatuto da Fundação Habitacional do Exército e dá outras providências.
@@ -369,8 +365,6 @@ Art. 28. Os programas a que se referem o inciso IV do artigo 6º e § 1º do art
 Art. 29. Os resultados financeiros da Associação de Poupança e Empréstimo - Poupex, a que se refere o inciso V do art. 12 da Lei nº 6.855, de 18 de novembro de 1980, serão transferidos à FHE, após a constituição e/ou reforço de Reserva Estatutária daquela APE, destinada a atender possíveis emergências de ordem financeira e compensar as aplicações em Ativo Permanente.
 
 Brasília, 14 de agosto de 1989.
-
-###DEC-098044-0-000-14-08-1989@@@REP01+++
 
 DECRETO Nº 98.044, DE 14 DE AGOSTO DE 1989
 

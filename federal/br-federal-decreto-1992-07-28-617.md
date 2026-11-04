@@ -1,5 +1,3 @@
-###DEC-000617-0-000-28-07-1992@@@
-
 DECRETO N° 617, DE 28 DE JULHO DE 1992
 
 Dá nova redação aos incisos I e III do art. 1° do Decreto n° 97.759, de 22 de setembro de 1988, que dispõe sobre o Conselho Nacional das Zonas de Processamento de Exportação - CZPE, e dá outras providências.

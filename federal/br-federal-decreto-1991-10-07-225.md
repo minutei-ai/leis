@@ -1,7 +1,3 @@
-1
-
-###DEC-000225-0-000-07-10-1991@@@
-
 DECRETO N° 225, DE 7 DE OUTUBRO DE 1991
 
 Promulga a Convenção sobre a Proibição do Uso Militar ou Hostil de Técnicas de Modificação Ambiental.

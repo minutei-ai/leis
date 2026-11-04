@@ -1,5 +1,3 @@
-###DEC-077932-0-000-30-06-1976@@@
-
 Decreto nº 77.932, de 30 de junho de 1976.
 
 Concede à Mineração Vale do Jacurici S.A. o direito e lavrar cromita no Município de Uauá, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-070010-0-000-20-01-1972@@@
-
 DECRETO Nº 70.010, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública Instituição Social da Paróquia dos Remédios, com sede em Fortaleza Estado do Ceará.

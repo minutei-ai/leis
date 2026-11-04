@@ -1,5 +1,3 @@
-###DEC-071128-0-000-20-09-1972@@@
-
 Decreto nº 71.128, de 20 de setembro de 1972.
 
 Declara de utilidade pública, para fins desapropriação, uma área de terreno urbano, com benfeitorias, situada na cidade de Franco da Rocha, Estado de São Paulo, destinada à construção da Estação Telefônica daquela cidade, pela Companhia Telefônica Brasileira.
@@ -23,8 +21,6 @@ Brasília, 20 de setembro de 1972; 151º da Independência e 84º da República.
 Emílio G. Médici
 
 Hygino C. Corsetti
-
-###DEC-071128-0-000-20-09-1972@@@
 
 Decreto nº 71.128, de 20 de setembro de 1972.
 

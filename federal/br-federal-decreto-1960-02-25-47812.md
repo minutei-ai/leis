@@ -1,5 +1,3 @@
-###DEC-047812-0-000-25-02-1960@@@
-
 DECRETO N. 47.812 – DE 25 DE FEVEREIRO DE 1960
 
 Dá nova redação ao Decreto número 45.270, de 22 de janeiro de 1959

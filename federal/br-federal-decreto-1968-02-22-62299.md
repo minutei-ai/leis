@@ -1,5 +1,3 @@
-###DEC-062299-0-000-22-02-1968@@@
-
 DECRETO Nº 62.299, DE 22 de FEVEREIRO DE 1968.
 
 Outorga à Centrais Elétricas de Minas Gerais S. A., concessão para distribuir energia elétrica no município de Santa Maria do Suaçuí, Estado de Minas Gerais.

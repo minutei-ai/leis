@@ -1,5 +1,3 @@
-###DEC-062451-0-000-22-03-1968@@@
-
 Decreto nº 62.451, de 22 de março de 1968.
 
 Declara de utilidade pública, o “Patronato e Ginásio Industrial Madre Mazzarello”, com sede em Ribeirão Prêto, Estado de São Paulo.
@@ -15,8 +13,6 @@ Brasília, 22 de março de 1968; 147º da Independência e 80º da República.
 A. Costa e Silva
 
 Luís Antonio da Gama e Silva
-
-###DEC-062451-0-000-22-03-1968@@@RET01+++
 
 DECRETO Nº 62.451, DE 22 DE MARÇO DE 1968.
 

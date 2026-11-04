@@ -1,5 +1,3 @@
-###DEC-051617-0-000-05-12-1962@@@
-
 DECRETO Nº 51.617, DE 5 DE DEZEMBRO DE 1962.
 
 Autoriza o funcionamento do Banco Regional do Desenvolvimento do Extremo Sul.

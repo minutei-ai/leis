@@ -1,5 +1,3 @@
-###DEL-008657-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.657 – DE 14 DE JANEIRO DE 1946
 
 Cria cargo e eleva padrão de vencimentos no Quadro Suplementar do Ministério da Agricultura.

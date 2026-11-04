@@ -1,5 +1,3 @@
-###DEC-048607-0-000-25-07-1960@@@
-
 DECRETO Nº 48.607, DE 25 DE JULHO DE 1960.
 
 Aprova a mudança do nome do Banco da Prefeitura do Distrito Federal S.A. para Banco do Estado da Guanabara S.A.

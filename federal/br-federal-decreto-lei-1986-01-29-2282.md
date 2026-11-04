@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/aa5a036f-a770-4c33-924c-ff85497be3be/texto#nowhere)
 
-###DEL-002282-0-000-29-01-1986@@@
-
 # DECRETO-LEI Nº 2.282, DE 29 DE JANEIRO DE 1986
 
 Altera o percentual de reajuste de que trata a Lei nº 7.425, de 17 de dezembro de 1985, e dá outras providências.

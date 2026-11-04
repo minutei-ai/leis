@@ -1,5 +1,3 @@
-###DEC-070077-0-000-28-01-1972@@@
-
 DECRETO Nº 70.077, DE 28 DE JANEIRO DE 1972.
 
 Concede reconhecimento ao Curso de Agronomia, da Escola Superior de Agricultura, em Mossoró, Estado do Rio Grande do Norte.

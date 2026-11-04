@@ -1,5 +1,3 @@
-###DEC-057575-0-000-04-01-1966@@@
-
 DECRETO Nº 57.575, DE 4 DE JANEIRO DE 1966.
 
 Cancela a autorização concedida a emprêsa de transportes aéreos “Loide Aéreo Paraguaio S.A. - LAPSA”, para funcionar na República.

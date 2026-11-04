@@ -1,4 +1,5 @@
-LEI COMPLEMENTAR Nº 196, DE 10 DE SETEMBRO DE 2024.<br>
+LEI COMPLEMENTAR Nº 196, DE 10 DE SETEMBRO DE 2024.
+
 [Eficácia suspensa por liminar deferida na ADI nº 5984108-83.2024.8.09.0000 TJGO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18614).
 
 Dispõe sobre as responsabilidades das Microrregiões de Saneamento Básico e dá outras providências.

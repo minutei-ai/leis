@@ -1,5 +1,3 @@
-###MPV-000138-0-000-19-11-2003@@@
-
 MEDIDA PROVISÓRIA Nº 138, DE 19 DE NOVEMBRO 2003.
 
        Altera e acresce dispositivo à Lei no 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social.
@@ -22,7 +20,10 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da 
 
         Brasília, 19 de novembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Ricardo José Ribeiro Berzoini<br>
-José Dirceu de Oliveira e Silva<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Ricardo José Ribeiro Berzoini
+
+José Dirceu de Oliveira e Silva
+
 Álvaro Augusto Ribeiro Costa

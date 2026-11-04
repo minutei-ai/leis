@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72878)
-
 # LEI Nº 12.676, DE 13 DE JULHO DE 2007
 
 ### _Dispõe sobre a presunção da comercialização de solvente como gasolina automotiva, nas hipóteses que especifica, e dá outras providências._

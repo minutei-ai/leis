@@ -1,5 +1,3 @@
-###DEC-056196-0-000-30-04-1965@@@
-
 DECRETO Nº 56.196, DE 30 DE ABRIL DE 1965.
 
 Autoriza a Cessão sob a forma de utilização gratuita, de imóvel que menciona, situado no Estado de São Paulo.

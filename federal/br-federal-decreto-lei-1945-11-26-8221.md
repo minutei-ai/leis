@@ -1,5 +1,3 @@
-###DEL-008221-0-000-26-11-1945@@@
-
 DECRETO-LEI N. 8.221 – DE 26 DE NOVEMBRO DE 1945
 
 Dispõe sôbre prestação de exame especial de educação física

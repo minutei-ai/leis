@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53095)
-
 # LEI Nº 11.924, DE 24 DE MARÇO DE 2005
 
 ## (PL 481/2004 - Adilson Barroso)

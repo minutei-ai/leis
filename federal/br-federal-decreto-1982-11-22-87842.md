@@ -1,5 +1,3 @@
-###DEC-087842-0-000-22-11-1982@@@
-
 Decreto nº 87.842, de 22 de novembro de 1982
 
 Homologa a demarcação da área indígena que menciona, no Estado do Pará.

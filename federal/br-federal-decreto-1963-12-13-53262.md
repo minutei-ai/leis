@@ -1,5 +1,3 @@
-###DEC-053262-0-000-13-12-1963@@@
-
 DECRETO Nº 53.262, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro João Corrêa Pinto a pesquisar calcário no município de Campos de Jordão, Estado de São Paulo.

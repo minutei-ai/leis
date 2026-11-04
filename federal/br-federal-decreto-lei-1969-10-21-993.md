@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/fcffe46b-97ef-40e4-8859-3bedbd1ab579/texto#nowhere)
 
-###DEL-000993-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 993, DE 21 DE OUTUBRO DE 1969
 
 Transfere cargos de Ministério da Aeronáutica para do Departamento Administrativo do Pessoal Civil (DASP).

@@ -1,6 +1,10 @@
 > **LEI Nº 4.401, DE 30 DE AGOSTO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera as Leis nºs 1.904, de 5 de junho de 2007; 4.395, de 19 de agosto de 2024; 4.396, de 19 de agosto de 2024; 4.397, de 19 de agosto de 2024.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera as Leis nºs 1.904, de 5 de junho de 2007; 4.395, de 19 de agosto de 2024; 4.396, de 19 de agosto de 2024; 4.397, de 19 de agosto de 2024.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

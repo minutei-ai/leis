@@ -1,5 +1,3 @@
-###DEC-082186-0-000-28-08-1978@@@
-
 Decreto nº 82.186, de 28 de agosto de 1978.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Rio Grande do Sul.

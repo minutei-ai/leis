@@ -1,5 +1,3 @@
-###DEC-050044-0-000-24-01-1961@@@
-
 DECRETO Nº 50.044, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Fiorelli Peccicacco a lavrar caulim e feldspato no município de são Paulo, Estado de São Paulo.

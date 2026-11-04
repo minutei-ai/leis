@@ -1,5 +1,3 @@
-###DEC-090205-0-000-19-09-1984@@@
-
 decreto nº 90.205, de 19 de setembro de 1984
 
 Dá nova redação ao inciso V do art. 7º, e ao § 1º do art. 15, do Decreto número 54.252, de 3 de setembro de 1964, que autorizou a emissão de obrigações do Tesouro Nacional.

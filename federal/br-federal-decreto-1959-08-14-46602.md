@@ -1,5 +1,3 @@
-###DEC-046602-0-000-14-08-1959@@@
-
 DECRETO Nº 46.602, DE 14 DE AGÔSTO DE 1959.
 
 Renova o Decreto nº 41.389, de 24 de abril de 1957.

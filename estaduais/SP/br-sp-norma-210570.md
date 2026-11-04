@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210570)<br>
-
 # DECRETO N° 69.340, DE 04 DE FEVEREIRO DE 2025
 
 ### _Homologa, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Município de Caieiras, que declarou Situação de Emer­gência em áreas do Município._

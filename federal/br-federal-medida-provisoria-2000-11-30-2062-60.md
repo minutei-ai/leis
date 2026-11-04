@@ -1,5 +1,3 @@
-###MPV-002062-0-060-30-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2062-60,DE 30 DE NOVENBRO DE 2000.
 
 Altera a legislação do imposto de renda e dá outras providências.

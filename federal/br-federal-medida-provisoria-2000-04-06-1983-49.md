@@ -1,5 +1,3 @@
-###MPV-001983-0-049-06-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.983-49, DE 6 DE abril DE 2000.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

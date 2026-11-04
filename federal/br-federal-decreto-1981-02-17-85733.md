@@ -1,5 +1,3 @@
-###DEC-085733-0-000-17-02-1981@@@
-
 Decreto nº 85.733, de 17 de fevereiro de 1981.
 
 Autoriza o funcionamento do Plano de curso Emergencial para Graduação de Professores da Parte de Formação Especial do Currículo do Ensino de 2º grau, na Universidade Católica de Goiás.

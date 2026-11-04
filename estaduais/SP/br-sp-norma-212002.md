@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212002)<br>
-
 # DECRETO N° 70.211, DE 16 DE DEZEMBRO DE 2025
 
 ### _Declara de interesse social, para fins de desapropriação, os imóveis situados na Rua General Couto de Magalhães, n°s 294, 300, 306, 318, 326 e 342, Distrito da República, Subprefeitura da Sé, no Município de São Paulo, necessários à execução de programa habitacional e de desenvolvimento urbano, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-066722-0-000-16-06-1970@@@
-
 DECRETO Nº 66.722, DE 16 DE JUNHO DE 1970.
 
 Declara de utilidade pública a Associação Educativa e Assistencial Maria Imaculada, com sede em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-057389-0-000-06-12-1965@@@
-
 DECRETO Nº 57.389, DE 6 DE DEZEMBRO DE 1965.
 
 Suprime cargos isolados de Ministro de Assuntos Comerciais.

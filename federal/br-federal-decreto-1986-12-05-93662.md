@@ -1,5 +1,3 @@
-###DEC-093662-0-000-05-12-1986@@@
-
 DECRETO Nº 93.662, DE 5 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado ''Ilha do Ouro'', situado no Município de Porto da Folha, no Estado de Sergipe, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.687, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008382-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.382 – DE 17 DE DEZEMBRO DE 1945
 
 Prorroga a vigência de crédito extraordinário aberto ao Ministério da Guerra.

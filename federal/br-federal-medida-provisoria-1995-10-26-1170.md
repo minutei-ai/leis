@@ -1,7 +1,3 @@
-1
-
-###MPV-001170-0-000-26-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.170, DE 26 DE OUTUBRO DE 1995.
 
 Dispõe sobre a aplicação da Taxa de Juros de Longo Prazo - TJLP sobre empréstimos concedidos com recursos dos Fundos Constitucionais de Financiamento das Regiões Norte, Nordeste e Centro-Oeste e dos Fundos de Investimentos do Nordeste e da Amazônia e do Fundo de Recuperação Econômica do Estado do Espírito Santo, e com recursos das Operações Oficiais de Crédito, e dá outras providências.

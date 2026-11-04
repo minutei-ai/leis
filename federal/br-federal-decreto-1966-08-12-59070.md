@@ -1,5 +1,3 @@
-###DEC-059070-0-000-12-08-1966@@@
-
 Decreto nº 59.070, de 12 de agÔsto de 1966.
 
 Revoga o Decreto nº 51.522, de 25 de junho de 1962.

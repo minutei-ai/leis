@@ -1,5 +1,3 @@
-###DEC-069981-0-000-20-01-1972@@@
-
 Decreto Nº 69.981, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Associação das Damas de Caridade de Assis, com sede em Assis, Estado de São Paulo.

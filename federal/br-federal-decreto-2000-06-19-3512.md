@@ -1,5 +1,3 @@
-###DEC-003512-0-000-19-06-2000@@@
-
 DECRETO Nº 3.512, DE 19 DE JUNHO DE 2000.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha sobre Cooperação Financeira para o Empreendimento “Projetos Demonstrativos - Reforço”, celebrado em Brasília, 10 de março de 1999.
@@ -82,4 +80,14 @@ O presente acordo entrará em vigor na data da Nota diplomática em que a Repúb
 
 Feito em Brasília, em 10 de março de 1999, em dois exemplos originais, cada um nos idiomas português e alemão, sendo os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da República Federal da Alemanha</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Luiz Felipe Lampreia</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Claus J. Duisberg</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro de Estado das Relações Exteriores</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Embaixador</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República Federal da Alemanha
+
+Luiz Felipe Lampreia
+
+Claus J. Duisberg
+
+Ministro de Estado das Relações Exteriores
+
+Embaixador

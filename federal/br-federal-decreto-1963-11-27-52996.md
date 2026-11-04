@@ -1,5 +1,3 @@
-###DEC-052996-0-000-27-11-1963@@@
-
 DECRETO Nº 52.996, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Benedito José Veloso Cezar a pesquisar conchas no município de Igaraçu, Estado de Pernambuco.

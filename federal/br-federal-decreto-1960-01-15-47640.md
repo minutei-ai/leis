@@ -1,5 +1,3 @@
-###DEC-047640-0-000-15-01-1960@@@
-
 decreto nº 47.640, de 15 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro Simon Wallach a pesquisar mármore no município de São Rafael, Estado do Rio Grande do Norte.

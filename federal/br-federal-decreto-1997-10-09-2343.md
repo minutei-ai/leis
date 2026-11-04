@@ -1,5 +1,3 @@
-###DEC-002343-0-000-09-10-1997@@@
-
 DECRETO Nº 2.343, DE 9 DE OUTUBRO DE 1997
 
 Dispõe sobre o remanejamento, em caráter temporário, do cargo em comissão que menciona, e dá outras providências.

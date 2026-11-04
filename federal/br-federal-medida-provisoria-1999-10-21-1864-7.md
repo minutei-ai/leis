@@ -1,5 +1,3 @@
-###MPV-001864-0-007-21-10-1999@@@
-
 medida provisória nº 1.864-7, de 21 de outubro de 1999.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra e dá outras providências.

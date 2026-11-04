@@ -1,5 +1,3 @@
-###DEC-056272-0-000-10-05-1965@@@
-
 Decreto nº 56.272, de 10 de maio de 1965.
 
 Outorga à Companhia de Eletrificação Centro-Norte do Ceará concessão para distribuir energia elétrica.

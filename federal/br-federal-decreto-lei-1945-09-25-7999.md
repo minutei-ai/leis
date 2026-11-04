@@ -1,5 +1,3 @@
-###DEL-007999-0-000-25-09-1945@@@
-
 DECRETO-LEI N. 7.999 – DE 25 DE SETEMBRO DE 1945
 
 Cede ao Govêrno Francês o imóvel que menciona

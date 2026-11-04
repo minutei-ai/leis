@@ -1,5 +1,3 @@
-###DEC-050050-0-000-24-01-1961@@@
-
 DECRETO Nº 50.050, DE 24 DE Janeiro DE 1961.
 
 Aprova o novo Regimento do Gabinete do Ministro da Agricultura, com as alterações por êle introduzidas no anterior, baixado com o Decreto número 48.437, de 28 de junho de 1960.

@@ -1,5 +1,3 @@
-###DEL-006512-0-000-18-05-1944@@@
-
 DECRETO-LEI N. 6.512 – DE 18 DE MAIO DE 1944
 
 Modifica o Decreto-lei n. 6.155, de 30 de dezembro de 1943, e dá outras providências

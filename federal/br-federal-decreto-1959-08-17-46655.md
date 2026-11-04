@@ -1,5 +1,3 @@
-###DEC-046655-0-000-17-08-1959@@@
-
 DECRETO Nº 46.655, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Oswaldo Carpi a lavrar água mineral no município de Mairiporã, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-070150-0-000-17-02-1972@@@
-
 DECRETO nº 70.150, DE 17 DE FEVEREIRO DE 1972.
 
 Aproveita no Instituto de Previdência e Assistência dos Servidores do Estado servidores em disponibilidade e dá outras providências.

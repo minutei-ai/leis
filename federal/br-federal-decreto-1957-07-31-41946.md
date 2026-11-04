@@ -1,44 +1,42 @@
-###DEC-041946-0-000-31-07-1957@@@
+**DECRETO Nº 41.946, DE 31 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41.946, DE 31 DE JULHO DE 1957.</strong>
+***Aprova o Regulamento para a Escola Naval.***
 
-<em><strong>Aprova o Regulamento para a Escola Naval.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para a Escola Naval, que com êste baixa, assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para a Escola Naval, que com êste baixa, assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 31 de julho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Antônio Alves Câmara
 
-<strong>REGULAMENTO PARA A ESCOLA NAVAL</strong>
+**REGULAMENTO PARA A ESCOLA NAVAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos fins</em>
+*Dos fins*
 
-<strong>Art</strong>. 1º A Escola Naval (EN) é o estabelecimento de ensino superior da MB que tem por finalidade a formação de oficiais para os Corpos da Armada, de Fuzileiros Navais e de Intendentes da Marinha.
+**Art**. 1º A Escola Naval (EN) é o estabelecimento de ensino superior da MB que tem por finalidade a formação de oficiais para os Corpos da Armada, de Fuzileiros Navais e de Intendentes da Marinha.
 
-<strong>Art</strong>. 2º A Escola Naval funciona sob o controle de administração da Diretoria do Pessoal da Marinha.
+**Art**. 2º A Escola Naval funciona sob o controle de administração da Diretoria do Pessoal da Marinha.
 
-<strong>Art</strong>. 3º O ensino na Escola Naval prepara os alunos, Aspirantes e Guarda-Marinhas, para o desempenho das funções atribuídas a oficiais subalternos e dá-lhes os conhecimentos necessários à futura matrícula em cursos de especialização da M.B.
+**Art**. 3º O ensino na Escola Naval prepara os alunos, Aspirantes e Guarda-Marinhas, para o desempenho das funções atribuídas a oficiais subalternos e dá-lhes os conhecimentos necessários à futura matrícula em cursos de especialização da M.B.
 
-<strong>Art</strong>. 4º A Escola Naval orienta a instrução e educação dos alunos e os selecionará de modo a somente permitir o acesso ao oficialato àqueles que demonstrarem possuir as qualidades morais e vocacionais, os conhecimentos científicos e profissionais e a aptidão física, considerados indispensáveis àquela investidura.
+**Art**. 4º A Escola Naval orienta a instrução e educação dos alunos e os selecionará de modo a somente permitir o acesso ao oficialato àqueles que demonstrarem possuir as qualidades morais e vocacionais, os conhecimentos científicos e profissionais e a aptidão física, considerados indispensáveis àquela investidura.
 
 Parágrafo único. Os alunos da Escola Naval são praças especiais, classificados em duas graduações militares: Aspirantes e Guardas-Marinhas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 5º Os serviços a cargo da Escola Naval são dirigidos por um Diretor, auxiliado diretamente por um Vice-Diretor, através dos seguintes órgãos executivos:
+**Art**. 5º Os serviços a cargo da Escola Naval são dirigidos por um Diretor, auxiliado diretamente por um Vice-Diretor, através dos seguintes órgãos executivos:
 
 Superintendência de Ensino
 
@@ -60,27 +58,27 @@ Departamento de Guardas-Marinhas
 
 § 6º Os Departamentos poderão ter seus serviços distribuídos por divisões e estas poderão ser subdivididas em seções.
 
-<strong>Art</strong>. 6º O Departamento de Guardas-Marinhas durante a viagem de instrução dêsses alunos, será transferido para bordo do navio-escola, cujo comandante superintenderá a instrução de acôrdo com a orientação do Diretor da Escola Naval.
+**Art**. 6º O Departamento de Guardas-Marinhas durante a viagem de instrução dêsses alunos, será transferido para bordo do navio-escola, cujo comandante superintenderá a instrução de acôrdo com a orientação do Diretor da Escola Naval.
 
 Parágrafo único. Logo após a terminação da viagem de instrução, o Departamento de Guardas-Marinhas será transferido para a sede da Escola Naval.
 
-<strong>Art</strong>. 7º A Escola Naval dispõe de um Conselho de Ensino que funciona como órgão consultivo do Diretor para assuntos de ensino, competindo-lhe em especial: indicar providências para a obtenção de uma perfeita coordenação entre os currículos da Escola e os do Colégio Naval e do 2º ciclo colegial; organizar instruções para a admissão do novos alunos; organizar a relação das disciplinas a serem ministradas nos diversos cursos; analisar os resultados alcançados pelos alunos em cada disciplina, determinando as causas das deficiências e propondo providências para eliminá-las; organizar a programação do ensino de cada curso; estabelecer métodos de ensino; dar parecer sôbre livros-textos; indicar os alunos merecedores dos prêmios escolares.
+**Art**. 7º A Escola Naval dispõe de um Conselho de Ensino que funciona como órgão consultivo do Diretor para assuntos de ensino, competindo-lhe em especial: indicar providências para a obtenção de uma perfeita coordenação entre os currículos da Escola e os do Colégio Naval e do 2º ciclo colegial; organizar instruções para a admissão do novos alunos; organizar a relação das disciplinas a serem ministradas nos diversos cursos; analisar os resultados alcançados pelos alunos em cada disciplina, determinando as causas das deficiências e propondo providências para eliminá-las; organizar a programação do ensino de cada curso; estabelecer métodos de ensino; dar parecer sôbre livros-textos; indicar os alunos merecedores dos prêmios escolares.
 
 § 1º O Conselho de Ensino, órgãos consultivo do Diretor, em matéria de ensino, e formado pelo Vice-Diretor, Superintendente de Ensino, Chefes de Departamentos de Ensino, Comandante do Corpo de Aspirantes e Chefe do Departamento de Guardas-Marinhas sob a presidência do Diretor. As sessões do Conselho são secretariadas pelo Secretário da Escola.
 
 § 2º Para as reuniões do Conselho podem ser convocadas ou convidadas pessoas cujos conhecimentos especializado sejam considerados úteis aos trabalhos do Conselho.
 
-<strong>Art</strong>. 8º O Diretor dispõe de um Gabinete a êle diretamente subordinado, para o desempenho de funções de representação, preparo de correspondência pessoal, compilação de elementos necessários às suas decisões e difusão de ordens e instruções.
+**Art**. 8º O Diretor dispõe de um Gabinete a êle diretamente subordinado, para o desempenho de funções de representação, preparo de correspondência pessoal, compilação de elementos necessários às suas decisões e difusão de ordens e instruções.
 
-<strong>Art</strong>. 9º A Escola Naval possui uma Secretaria subordinada diretamente ao Vice-Diretor, que exerce as atividades relativas ao recebimento, preparo, expedição e arquivamento de documentos e ao registro detalhado da vida escolar no que diz respeito ao Corpo Docente e aos alunos.
+**Art**. 9º A Escola Naval possui uma Secretaria subordinada diretamente ao Vice-Diretor, que exerce as atividades relativas ao recebimento, preparo, expedição e arquivamento de documentos e ao registro detalhado da vida escolar no que diz respeito ao Corpo Docente e aos alunos.
 
-<strong>Art</strong>. 10. Os serviços a cargo dos Superintendentes de Ensino e de Administração e do Comandante do Corpo de Aspirantes são planejados e controlados por divisões diretamente subordinadas àqueles Superintendentes e Comandantes. Os serviços a cargo do Departamento de Guardas-Marinhas são auxiliados por oficiais encarregados de turmas de Guardas-Marinhas, diretamente subordinados ao Chefe do Departamento.
+**Art**. 10. Os serviços a cargo dos Superintendentes de Ensino e de Administração e do Comandante do Corpo de Aspirantes são planejados e controlados por divisões diretamente subordinadas àqueles Superintendentes e Comandantes. Os serviços a cargo do Departamento de Guardas-Marinhas são auxiliados por oficiais encarregados de turmas de Guardas-Marinhas, diretamente subordinados ao Chefe do Departamento.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do ensino</em>
+*Do ensino*
 
-<strong>Art</strong>. 11. O ensino é ministrado, tendo em vista proporcionar ao aluno:
+**Art**. 11. O ensino é ministrado, tendo em vista proporcionar ao aluno:
 
 a) instrução fundamental, constituída pelos conhecimentos básicos não essencialmente militares, necessários à habilitação do futuro oficial para o exercício das funções correspondentes aos primeiros postos da carreira e ao prosseguimento da sua preparação profissional;
 
@@ -88,7 +86,7 @@ b) instrução profissional que o habilite ao exercício das funções de oficia
 
 c) instrução e educação militares destinadas a desenvolver suas qualidades morais e físicas e a fornecer-lhe os conhecimentos militares e de organização, indispensáveis ao exercício do oficialato.
 
-<strong>Art</strong>. 12. Na Escola Naval funcionam três cursos:
+**Art**. 12. Na Escola Naval funcionam três cursos:
 
 a) Curso da Armada, para formação de oficiais do Corpo da Armada;
 
@@ -96,7 +94,7 @@ b) Curso de Fuzileiros, para formação de oficiais do Corpo de Fuzileiros Navai
 
 c) Curso de Intendentes, para formação de oficiais do Corpo de Intendentes da Marinha.
 
-<strong>Art</strong>. 12. O ensino, em qualquer dos cursos previstos no art. 12 é ministrado em dois estágios: um Estágio Escolar, feito na graduação de Aspirante, e um Estágio de Adaptação, feito na graduação de Guardas-Marinhas.
+**Art**. 12. O ensino, em qualquer dos cursos previstos no art. 12 é ministrado em dois estágios: um Estágio Escolar, feito na graduação de Aspirante, e um Estágio de Adaptação, feito na graduação de Guardas-Marinhas.
 
 § 1º O Estágio Escolar é realizado na Escola Naval e inclui viagens de pequena duração.
 
@@ -108,31 +106,31 @@ c) Curso de Intendentes, para formação de oficiais do Corpo de Intendentes da 
 
 § 5º O Estágio de Adaptação tem duração de 12 meses.
 
-<strong>Art</strong>. 14. As disciplinas ministradas na Escola Naval são grupadas nas seguintes categorias de ensino: Científico, Técnico, Militar-Naval e de Educação Física.
+**Art**. 14. As disciplinas ministradas na Escola Naval são grupadas nas seguintes categorias de ensino: Científico, Técnico, Militar-Naval e de Educação Física.
 
 § 1º O Regimento Interno da Escola Naval estabelecerá as disciplinas a serem ministradas nos cursos e a sua classificação em cada categoria de ensino.
 
 § 2º No Estágio de Adaptação só são ministradas disciplinas das categorias técnica e militar-naval;
 
-<strong>Art</strong>. 15. As disciplinas do ensino científico são ministradas por professores, militares ou civis.
+**Art**. 15. As disciplinas do ensino científico são ministradas por professores, militares ou civis.
 
-<strong>Art</strong>. 16. As disciplinas dos ensinos técnicos e militar-naval são ministradas por instrutores militares.
+**Art**. 16. As disciplinas dos ensinos técnicos e militar-naval são ministradas por instrutores militares.
 
-<strong>Art</strong>. 17. As disciplinas dos ensino de educação física são ministrados por instrutores, militares ou civis.
+**Art**. 17. As disciplinas dos ensino de educação física são ministrados por instrutores, militares ou civis.
 
-<strong>Art</strong>. 18. Nas disciplinas em que o número de alunos tornar necessária a utilização de mais de um docente, haverá professôres ou instrutores para coadjuvarem a instrução.
+**Art**. 18. Nas disciplinas em que o número de alunos tornar necessária a utilização de mais de um docente, haverá professôres ou instrutores para coadjuvarem a instrução.
 
 § 1º O professor mais antigo de cada disciplina é o orientador das atividades dos demais docentes seus coadjutores e responsável pelo ensino dessa disciplina.
 
 § 2º O instrutor mais antigo de uma disciplina de regência do instrutor é o orientador das atividades dos demais instrutores, seus coadjutores, e responsável pelo ensino da disciplina, exercendo função de instrutor-chefe.
 
-<strong>Art</strong>. 19. As disciplinas são ministradas de acôrdo com currículos organizados com o propósitos indicados no art. 3º dêste Regulamento.
+**Art**. 19. As disciplinas são ministradas de acôrdo com currículos organizados com o propósitos indicados no art. 3º dêste Regulamento.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da matrícula e praça</em>
+*Da matrícula e praça*
 
-<strong>Art</strong>. 20. O candidato à matrícula de Aspirante deve satisfazer as seguintes condições:
+**Art**. 20. O candidato à matrícula de Aspirante deve satisfazer as seguintes condições:
 
 a) ser brasileiro nato;
 
@@ -154,11 +152,11 @@ i) ter pago a taxa de inscrição à Secretaria da Escola Naval.
 
 § 1º O candidato, no ato da inscrição, deve declarar o curso a que se destina o qual só poderá ser trocado quando, a juízo do Diretor, convier ao aproveitamento de vagas existentes na Escola.
 
-§ 2º Ao candidato procedente do Colégio Naval julgado temporariamente incapaz em inspeção de saúde, será concedido um prazo até dois anos, improrrogável, para que se restabeleça e seja considerado apto, não lhe sendo aplicável o limite de idade estabelecido no item <em>b</em>, dêste artigo.
+§ 2º Ao candidato procedente do Colégio Naval julgado temporariamente incapaz em inspeção de saúde, será concedido um prazo até dois anos, improrrogável, para que se restabeleça e seja considerado apto, não lhe sendo aplicável o limite de idade estabelecido no item *b*, dêste artigo.
 
 § 3º O candidato procedente do Colégio Naval é dispensado do pagamento da taxa de inscrição e sua opção é feita no Colégio Naval.
 
-<strong>Art</strong>. 21. Os candidatos à matrícula são submetidos a Concurso de Admissão, a provas atléticas e a inspeção de saúde.
+**Art**. 21. Os candidatos à matrícula são submetidos a Concurso de Admissão, a provas atléticas e a inspeção de saúde.
 
 § 1º As inscrições para o Concurso de Admissão serão organizadas pela Escola Naval, levarão em consideração os conhecimentos científicos necessários ao estudo das disciplinas lecionadas na Escola e conterão programas detalhados das disciplinas exigidas naquele concurso.
 
@@ -166,51 +164,51 @@ i) ter pago a taxa de inscrição à Secretaria da Escola Naval.
 
 § 3º A inspeção de saúde será feita de acôrdo com as instruções da Diretoria de Saúde da Marinha, pela Junta de Saúde da Escola Naval ou, em grau de recurso, pela Junta Superior de Saúde da Marinha.
 
-<strong>Art</strong>. 22. A matrícula na Escolas Naval será concedida aos candidatos que alcançarem as melhores classificações no Concurso de Admissão, e que hajam sido aprovados na inspeção de saúde e nas provas atléticas, dentro do número de vagas fixadas pelo Ministro da Marinha e será feita simultaneamente com a concessão da praça de Aspirante.
+**Art**. 22. A matrícula na Escolas Naval será concedida aos candidatos que alcançarem as melhores classificações no Concurso de Admissão, e que hajam sido aprovados na inspeção de saúde e nas provas atléticas, dentro do número de vagas fixadas pelo Ministro da Marinha e será feita simultaneamente com a concessão da praça de Aspirante.
 
 § 1º Os candidatos que houverem terminado com aproveitamento o curso do Colégio Naval e satisfeito naquele Colégio as condições de saúde e atléticas exigidas para admissão à Escola Naval, serão dispensados das exigências do art. 21 e terão preferência para a matrícula sôbre todos os demais candidatos.
 
 § 2º Haverá, anualmente, vagas para candidatos não procedentes do Colégio Naval, em número, no mínimo, igual a 10% do total de alunos procedentes dêsse Colégio.
 
-<strong>Art</strong>. 23. Anualmente, serão destinadas vagas correspondentes, no mínimo a 5% do total de alunos procedentes do Colégio Naval a candidatos que hajam terminado com aproveitamento o curso científico do Colégio Militar, entre si classificados de acôrdo com as médias das notas finais obtidas nas disciplinas desse Colégio, que fazem parte do Concurso de Admissão à Escola Naval.
+**Art**. 23. Anualmente, serão destinadas vagas correspondentes, no mínimo a 5% do total de alunos procedentes do Colégio Naval a candidatos que hajam terminado com aproveitamento o curso científico do Colégio Militar, entre si classificados de acôrdo com as médias das notas finais obtidas nas disciplinas desse Colégio, que fazem parte do Concurso de Admissão à Escola Naval.
 
 § 1º As vagas que, por deficiência de candidatos que satisfaçam às condições do art. 22, não forem preenchidas, poderão ser completadas por candidatos procedentes do Colégio Militar porventura excedentes na classificação a que se refere o artigo 23 dêste Regulamento.
 
 § 2º Êsses candidatos deverão satisfazer as condições estabelecidas nos arts. 20 e 21 dêste Regulamento, exceto quanto ao Concurso de Admissão.
 
-<strong>Art</strong>. 24. A matrícula na Escola Naval e a praça de Aspirante serão verificadas por ato do Diretor dêsse estabelecimento.
+**Art**. 24. A matrícula na Escola Naval e a praça de Aspirante serão verificadas por ato do Diretor dêsse estabelecimento.
 
-<strong>Art</strong>. 25. A matrícula inicial, para cada um dos cursos previstos no artigo 12 dêste Regulamento, será feita no 1º ano do Estágio Escolar, por ato do Diretor da Escola Naval, levando em consideração a opção feita pelos candidatos no Colégio Naval ou por ocasião da inscrição para o Concurso de Admissão à Escola Naval.
+**Art**. 25. A matrícula inicial, para cada um dos cursos previstos no artigo 12 dêste Regulamento, será feita no 1º ano do Estágio Escolar, por ato do Diretor da Escola Naval, levando em consideração a opção feita pelos candidatos no Colégio Naval ou por ocasião da inscrição para o Concurso de Admissão à Escola Naval.
 
 Parágrafo único. O aluno matriculado em um dos cursos citados no art. 12 dêste Regulamento não poderá ser transferido para outro curso da Escola Naval, salvo no caso previsto no § 1º do art. 20.
 
-<strong>Art</strong>. 26. A matrícula nos anos sucessivos do Estágio Escolar e no Estágio de Adaptação será feita por ato do Diretor da Escola Naval.
+**Art**. 26. A matrícula nos anos sucessivos do Estágio Escolar e no Estágio de Adaptação será feita por ato do Diretor da Escola Naval.
 
 Parágrafo único. Essa matricula só será efetivada, quando o aluno satisfizer as condições estabelecidas no art. 47 dêste Regulamento.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do regime escolar</em>
+*Do regime escolar*
 
-<strong>Art</strong>. 27. A instrução dos Guardas-Marinhas é ministrada a bordo de navios e em estabelecimentos especializados.
+**Art**. 27. A instrução dos Guardas-Marinhas é ministrada a bordo de navios e em estabelecimentos especializados.
 
 § 1º Os Guardas-Marinhas, durante o estágio de adaptação, ficam sujeitos ao regime de serviço estabelecido pelos comandantes dos navios, unidades de tropa e estabelecimentos onde servirem a às obrigações resultantes das normas para o ensino e programas de instrução estabelecidos pela Escola Naval.
 
 § 2º Os comandantes de navios, unidades de tropa e estabelecimentos informarão periodicamente e da forma que fôr estabelecida pelo Diretor da Escola Naval, o desenvolvimento dos trabalhos de instrução dos Guardas-Marinhas.
 
-<strong>Art</strong>. 28. Os Aspirantes são alunos internos da Escola Naval.
+**Art**. 28. Os Aspirantes são alunos internos da Escola Naval.
 
 Parágrafo único. Os Aspirantes, quando embarcados, têm o regime de licenciamento adequado ao cumprimento dos programas de instrução. Êsse regime será determinado pelo comandante do navio, quando não constar das instruções organizadas pela Escola Naval.
 
-<strong>Art</strong>. 29. Os Guardas-Marinhas e os Aspirantes exercerão as funções para que forem designados, a título de instrução ou de auxílio aos serviços da Escola ou dos navios e estabelecimentos onde se acharem.
+**Art**. 29. Os Guardas-Marinhas e os Aspirantes exercerão as funções para que forem designados, a título de instrução ou de auxílio aos serviços da Escola ou dos navios e estabelecimentos onde se acharem.
 
-<strong>Art</strong>. 30. Os Aspirantes constituem o Corpo de Aspirantes.
+**Art**. 30. Os Aspirantes constituem o Corpo de Aspirantes.
 
-<strong>Art</strong>. 31. Os Guardas-Marinhas e Aspirantes estão sujeitos ao Código Penal Militar no tocante aos crimes que praticarem e ao Regimento Interno da Escola Naval no que se referir às contravenções disciplinares que competem.
+**Art**. 31. Os Guardas-Marinhas e Aspirantes estão sujeitos ao Código Penal Militar no tocante aos crimes que praticarem e ao Regimento Interno da Escola Naval no que se referir às contravenções disciplinares que competem.
 
 Parágrafo único. Os Guardas-Marinhas e Aspirantes, quando embarcados, ficam sujeitos ao Regulamento Disciplinar para a Marinha no que não interferir com o presente Regulamento.
 
-<strong>Art</strong>. 32. A Escola Naval fornece uniformes aos Aspirantes obrigando-se êstes à aquisição do enxoval complementar necessário.
+**Art**. 32. A Escola Naval fornece uniformes aos Aspirantes obrigando-se êstes à aquisição do enxoval complementar necessário.
 
 § 1º As peças de uniformes fornecidas pela Marinha só constituem propriedade individual do Aspirante depois de vencida a época do subseqüente fornecimento.
 
@@ -220,11 +218,11 @@ Parágrafo único. Os Guardas-Marinhas e Aspirantes, quando embarcados, ficam su
 
 § 4º O Aspirante nomeado Guarda-Marinha restituirá ou indenizará as peças de uniformes fornecidas pela Marinha e especificadas no Regimento Interno da Escola Naval, que não façam parte dos uniformes previstos para Guardas-Marinhas no Regulamento de Uniforme da MB, desde que não constituam propriedade individual.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do aproveitamento e classificação</em>
+*Do aproveitamento e classificação*
 
-<strong>Art</strong>. 33. O aproveitamento dos alunos em cada disciplina será medido por notas conferidas em provas parciais e em uma prova final salvo nas disciplinas do ensino de educação física em que se haverá prova final.
+**Art**. 33. O aproveitamento dos alunos em cada disciplina será medido por notas conferidas em provas parciais e em uma prova final salvo nas disciplinas do ensino de educação física em que se haverá prova final.
 
 § 1º Haverá, no mínimo, uma prova parcial para cada 15 aulas não sendo, porém, o número de provas inferior a dois em cada disciplina.
 
@@ -234,7 +232,7 @@ Parágrafo único. Os Guardas-Marinhas e Aspirantes, quando embarcados, ficam su
 
 § 4º Em um mesmo dia não poderá ser realizada mais de uma prova escrita ou oral das disciplinas das categorias do ensino científico, técnico e militar-naval, mas uma dessas provas poderá ser realizada no mesmo dia em que houver provas práticas das categorias de ensino militar-naval e de educação física.
 
-<strong>Art</strong>. 34. O julgamento das provas será expresso em notas de zero a dez, aproximados a décimos, sendo a aproximação feita por excesso quando a nota resultar da média e o número de centésimos fôr igual ou superior a cinco.
+**Art**. 34. O julgamento das provas será expresso em notas de zero a dez, aproximados a décimos, sendo a aproximação feita por excesso quando a nota resultar da média e o número de centésimos fôr igual ou superior a cinco.
 
 § 1º O aluno que, por qualquer motivo, se retirar de uma prova após a distribuição do respectivo questionário, terá o grau correspondente ao valor do trabalho realizado até o momento do abandono da prova, salvo quando a retirada resultar de medida disciplinar, caso em que à prova será atribuído o grau zero.
 
@@ -246,21 +244,21 @@ Parágrafo único. Os Guardas-Marinhas e Aspirantes, quando embarcados, ficam su
 
 § 5º Ao aluno que por motivo de acidente ou doença prolongada não comparecer à Segunda chamada de prova final de disciplina de educação física, poderá ser dispensado a essa prova e atribuído grau quatro se a critério do Diretor já tiver anteriormente demonstrado capacidade para alcançar o índice mínimo fixado para essa disciplina.
 
-<strong>Art</strong>. 35. O aproveitamento final em cada disciplina será expresso por uma nota, denominada média final, igual a média aritmética das notas obtidas nas provas parciais e final.
+**Art**. 35. O aproveitamento final em cada disciplina será expresso por uma nota, denominada média final, igual a média aritmética das notas obtidas nas provas parciais e final.
 
-<strong>Art</strong>. 36. O aluno que não conseguir média final igual ou superior a quatro, ou que não tendo obtido essa média, tiver nota inferior a quatro na prova final, será considerado inabilitado nessa disciplina.
+**Art**. 36. O aluno que não conseguir média final igual ou superior a quatro, ou que não tendo obtido essa média, tiver nota inferior a quatro na prova final, será considerado inabilitado nessa disciplina.
 
 § 1º O aluno inabilitado em prova final, que tiver conseguido média igual ou superior a seis nas provas parciais da disciplina, será submetido a exame vago oral que versará sôbre tôda a matéria e será considerado habilitado se obtiver nota quatro ou superior nesse exame.
 
 § 2º O aluno inabilitado em prova final de disciplina de educação física será submetido a exame dessa disciplina e considerado habilitado se conseguir nota quatro ou superior nesse exame.
 
-<strong>Art</strong>. 37. Nas viagens de instrução de duração maior de 20 dias, será conferida uma nota de aproveitamento a cada Aspirante, expressa na forma indicada no art. 34 dêste Regulamento.
+**Art**. 37. Nas viagens de instrução de duração maior de 20 dias, será conferida uma nota de aproveitamento a cada Aspirante, expressa na forma indicada no art. 34 dêste Regulamento.
 
 § 1º Essa nota será a média das notas conferidas pelos oficiais que tiverem ministrado a instrução.
 
 § 2º As notas conferidas por êsses oficiais poderão resultar de provas escritas ou orais ou da apreciação dos trabalhos realizados pelos Aspirantes.
 
-<strong>Art</strong>. 38. Cada aluno receberá anualmente, uma nota de aptidão para o oficialato, expressa na forma determinada no art. 34.
+**Art**. 38. Cada aluno receberá anualmente, uma nota de aptidão para o oficialato, expressa na forma determinada no art. 34.
 
 § 1º A nota de aptidão para o oficialato para os Aspirantes será a média das notas atribuídas pelo Comandante e oficiais do Corpo de Aspirantes.
 
@@ -270,7 +268,7 @@ Parágrafo único. Os Guardas-Marinhas e Aspirantes, quando embarcados, ficam su
 
 § 4º O julgamento do grau de oficialato será motivado e dêle caberá recurso para o Diretor da Escola Naval, Ministro da Marinha e Presidente da República (Lei nº 602 de 28 de dezembro de 1948).
 
-<strong>Art</strong>. 39. A classificação dos Aspirantes nas turmas de Estágio Escolar será organizada de acôrdo com as seguintes normas:
+**Art**. 39. A classificação dos Aspirantes nas turmas de Estágio Escolar será organizada de acôrdo com as seguintes normas:
 
 a) a classificação dos Aspirantes matriculados no 1º ano de cada curso obedecerá à seguinte prioridade:
 
@@ -316,9 +314,9 @@ As parcelas A, B, C, D, e E serão aproximadas a centésimos, sendo a aproximaç
 
 § 4º A classificação do aluno repetente será determinada pelo grau de classificação que possuía ao iniciar o ano letivo em que foi inabilitado, não sendo consideradas as notas obtidas durante êsse ano letivo.
 
-<strong>Art</strong>. 40. A classificação dos Guardas-Marinhas será feita de maneira idêntica à determinada no item <em>b</em> do art. 39 dêste Regulamento.
+**Art**. 40. A classificação dos Guardas-Marinhas será feita de maneira idêntica à determinada no item *b* do art. 39 dêste Regulamento.
 
-<strong>Art</strong>. 41. A precedência militar entre Guardas-Marinhas é determinada da seguinte forma:
+**Art**. 41. A precedência militar entre Guardas-Marinhas é determinada da seguinte forma:
 
 a) entre Guardas-Marinhas do mesmo curso, prevalece a classificação na turma;
 
@@ -328,7 +326,7 @@ c) entre Guardas-Marinhas dos Cursos de Fuzileiros e de Intendentes, tem preced�
 
 d) os Guarda-Marinhas repetentes terão precedência determinada pelo grau de classificação alcançado ao terminar o Estágio Escolar, não sendo computadas as notas obtidas no ano em que forem inabilitados.
 
-<strong>Art</strong>. 42. A precedência militar entre Aspirante é determinada da seguintes forma:
+**Art**. 42. A precedência militar entre Aspirante é determinada da seguintes forma:
 
 a) entre Aspirantes de diferentes anos escolares, prevalece a antiguidade do ano escolar;
 
@@ -338,7 +336,7 @@ c) entre Aspirantes de cursos diferentes, mas do mesmo ano escolar, tem precedê
 
 d) entre Aspirantes do primeiro ano, a precedência será determinada sucessivamente pelo melhor grau de classificação no Colégio Naval, melhor média no Concurso de Admissão, melhor média de admissão para os alunos do Colégio Militar e, finalmente, decisão do Diretor da Escola Naval;
 
-<strong>Art</strong>. 43. A classificação dos Guardas-Marinhas, após a aprovação no Estágio de Adaptação, para a promoção a Segundo Tenente, será organizada de acôrdo com os graus de classificação determinados pela fórmula:
+**Art**. 43. A classificação dos Guardas-Marinhas, após a aprovação no Estágio de Adaptação, para a promoção a Segundo Tenente, será organizada de acôrdo com os graus de classificação determinados pela fórmula:
 
 3A + 2D + 5E
 
@@ -352,21 +350,21 @@ D - é a nota do oficialato;
 
 E - é o grau de classificação atribuído no início do Estágio de Adaptação.
 
-Parágrafo único. As parcelas <em>A</em>, <em>D</em>, e <em>E</em> e o valor da fórmula são calculadas com as proximidades determinadas na letra “<em>b</em>” do art. 39 dêste Regulamento.
+Parágrafo único. As parcelas *A*, *D*, e *E* e o valor da fórmula são calculadas com as proximidades determinadas na letra “*b*” do art. 39 dêste Regulamento.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Da perda e conservação da matrícula</em>
+*Da perda e conservação da matrícula*
 
-<strong>Art</strong>. 44. Terá baixa de praça o aluno que, por qualquer motivo, tiver cancelada a sua matrícula na Escola Naval.
+**Art**. 44. Terá baixa de praça o aluno que, por qualquer motivo, tiver cancelada a sua matrícula na Escola Naval.
 
-<strong>Art</strong>. 45. Nenhum Aspirante poderá permanecer matriculado no Estágio Escolar por mais de quatro anos letivos para completar o Curso da Armada ou por mais de três anos letivos para completar outro qualquer curso, salvo a exceção prevista no § 2º do art. 48 dêste Regulamento.
+**Art**. 45. Nenhum Aspirante poderá permanecer matriculado no Estágio Escolar por mais de quatro anos letivos para completar o Curso da Armada ou por mais de três anos letivos para completar outro qualquer curso, salvo a exceção prevista no § 2º do art. 48 dêste Regulamento.
 
 Parágrafo único. Será cancelada a matrícula do Aspirante que ficar em condições que o impossibilitem de terminar o Estágio Escolar nesse prazo.
 
-<strong>Art</strong>. 46. Nenhum aluno poderá prosseguir seu curso sem satisfazer as condições físicas, intelectuais, morais e vocacionais, que indiquem o bom aproveitamento do curso escolar e capacidade para o futuro exercício da profissão de oficial de Marinha.
+**Art**. 46. Nenhum aluno poderá prosseguir seu curso sem satisfazer as condições físicas, intelectuais, morais e vocacionais, que indiquem o bom aproveitamento do curso escolar e capacidade para o futuro exercício da profissão de oficial de Marinha.
 
-<strong>Art</strong>. 47. As condições indicadas no artigo anterior serão verificadas por meio de:
+**Art**. 47. As condições indicadas no artigo anterior serão verificadas por meio de:
 
 a) inspeções de saúde e provas de capacidade física;
 
@@ -378,17 +376,17 @@ d) julgamento de conduta no Estágio Escolar;
 
 e) julgamento de aptidão para o oficialato.
 
-<strong>Art</strong>. 48. O aluno julgado inapto em inspeção de saúde feita pela Junta da Escola Naval, será submetido, “<em>ex</em> <em>offício</em>”, à Junta Superior de Saúde da Marinha, caso não tenha havido unanimidade no julgamento; em caso contrário, o aluno poderá recorrer a essa Junta dentro do prazo de oito dias.
+**Art**. 48. O aluno julgado inapto em inspeção de saúde feita pela Junta da Escola Naval, será submetido, “*exoffício*”, à Junta Superior de Saúde da Marinha, caso não tenha havido unanimidade no julgamento; em caso contrário, o aluno poderá recorrer a essa Junta dentro do prazo de oito dias.
 
 § 1º O aluno considerado definitivamente inapto em inspeção de saúde terá sua matrícula cancelada e, nos casos previstos em lei, será reformado.
 
 § 2º Ao aluno considerado temporariamente inapto poderá ser concedido um prazo, até ao máximo de dois anos, para se submeter a tratamento de saúde o qual não será cancelada caso, no fim dêsse prazo, não seja julgado fisicamente apto.
 
-<strong>Art</strong>. 49. O Aspirante que, em prova final de disciplina de educação física, não satisfazer aos índices mínimos determinados para verificação de capacidade física, será considerado inabilitado nessa disciplina.
+**Art**. 49. O Aspirante que, em prova final de disciplina de educação física, não satisfazer aos índices mínimos determinados para verificação de capacidade física, será considerado inabilitado nessa disciplina.
 
 Parágrafo único. O Regimento Interno fixará os valores dos índices mínimos para as provas atléticas de capacidade física.
 
-<strong>Art</strong>. 50. O Aspirante, inabilitado em 1ª época somente em uma ou duas disciplinas, fará exame dessas disciplinas em segunda época, não sendo nesse número computadas as inabilitações em disciplinas de educação física.
+**Art**. 50. O Aspirante, inabilitado em 1ª época somente em uma ou duas disciplinas, fará exame dessas disciplinas em segunda época, não sendo nesse número computadas as inabilitações em disciplinas de educação física.
 
 § 1º O Aspirante, inabilitado em mais de duas disciplinas em 1ª época ou mais de uma disciplina em segunda época, repetirá o ano escolar caso ainda possa terminar o curso nas condições determinadas no art. 45 dêste Regulamento e, no caso contrário, terá sua matrícula cancelada.
 
@@ -402,13 +400,13 @@ Parágrafo único. O Regimento Interno fixará os valores dos índices mínimos 
 
 § 6º O Aspirante do último ano do Estágio Escolar reprovado em qualquer disciplina, em exame de segunda época, repetirá êsse ano escolar caso ainda posa terminar o curso no prazo determinado no art. 45 dêste Regulamento e, em caso contrário, terá a sua matrícula cancelada.
 
-<strong>Art</strong>. 51. O Aspirante promovido de ano como dependente, estudará a disciplina, de dependência por sua própria iniciativa e sem prejuízo das aulas, trabalhos práticos, viagens e exercícios do ano em que estiver matriculado.
+**Art**. 51. O Aspirante promovido de ano como dependente, estudará a disciplina, de dependência por sua própria iniciativa e sem prejuízo das aulas, trabalhos práticos, viagens e exercícios do ano em que estiver matriculado.
 
 § 1º O Aspirante dependente fará as provas parciais e a final da disciplina de dependência em conjunto com os demais alunos do ano de que fizer parte essa disciplina, salvo quando, a juízo do Diretor da Escola Naval, houver conveniência para o serviço da Escola em fazê-las em datas diferentes.
 
 § 2º Os Aspirantes dependentes só farão as provas finais do ano em que estiverem matriculados depois de aprovados na disciplina de dependência (Lei nº 1.894, de 30 de junho de 1953).
 
-<strong>Art</strong>. 52. O Guarda-Marinha reprovado no Estágio de Adaptação embarcará em navio da esquadra e fará novos exames das disciplinas em que tiver sido inabilitado, juntamente com os Guardas-Marinhas da turma seguinte.
+**Art**. 52. O Guarda-Marinha reprovado no Estágio de Adaptação embarcará em navio da esquadra e fará novos exames das disciplinas em que tiver sido inabilitado, juntamente com os Guardas-Marinhas da turma seguinte.
 
 § 1º O Guarda-Marinha, inabilitado em mais de duas disciplinas em 1ª época, não poderá fazer exames dessa disciplinas em 2ª época sendo considerado reprovado no Estágio de Adaptação.
 
@@ -416,11 +414,11 @@ Parágrafo único. O Regimento Interno fixará os valores dos índices mínimos 
 
 § 3º O Guarda-Marinha, reprovado no exame de repetição do Estágio de Adaptação será anualmente submetido a novos exames nas condições determinadas neste artigo.
 
-<strong>Art</strong>. 53. As contravenções disciplinares praticadas pelos Guardas-Marinhas serão classificadas como graves ou leves e as praticadas pelos Aspirantes serão classificados como eliminatórias, graves ou leves, conforme as indicações que revelarem quanto ao caráter ou propósito do contraventor, e prejuízos que puderem causar à segurança e disciplina da Escola Naval, à formação moral ou profissional dos alunos, ao patrimônio moral da Marinha de Guerra e aos bens da Fazenda Nacional.
+**Art**. 53. As contravenções disciplinares praticadas pelos Guardas-Marinhas serão classificadas como graves ou leves e as praticadas pelos Aspirantes serão classificados como eliminatórias, graves ou leves, conforme as indicações que revelarem quanto ao caráter ou propósito do contraventor, e prejuízos que puderem causar à segurança e disciplina da Escola Naval, à formação moral ou profissional dos alunos, ao patrimônio moral da Marinha de Guerra e aos bens da Fazenda Nacional.
 
 Parágrafo único. Nenhuma penalidade será aplicada sem ter sido previamente ouvido o aluno acusado.
 
-<strong>Art</strong>. 54. Constituem contravenções disciplinares que poderão, conforme as circunstâncias de que se revestirem, ser consideradas eliminatórias e acarretar a perda da matrícula do Aspirante:
+**Art**. 54. Constituem contravenções disciplinares que poderão, conforme as circunstâncias de que se revestirem, ser consideradas eliminatórias e acarretar a perda da matrícula do Aspirante:
 
 1 - Causar deliberadamente danos a instalação ou objeto da Fazenda Nacional.
 
@@ -446,21 +444,21 @@ Parágrafo único. Nenhuma penalidade será aplicada sem ter sido previamente ou
 
 Parágrafo único. O cancelamento da matrícula do Aspirante que praticar contravenção eliminatória será precedido de inquirição sumária por uma Comissão Disciplinar constituída pelo Vice Diretor, Superintendente de Ensino e Comandante do Corpo de Aspirantes.
 
-<strong>Art</strong>. 55. As contravenções graves são punidas com prisão rigorosa ou prisão simples, ambas até o limite máximo de dez dias.
+**Art**. 55. As contravenções graves são punidas com prisão rigorosa ou prisão simples, ambas até o limite máximo de dez dias.
 
 Parágrafo único. Simultaneamente com essas penalidades poderá ser determinado o desconto total o parcial da gratificação para indenização de prejuízos materiais resultantes da contravenção praticada.
 
-<strong>Art</strong>. 56. As contravenções leves são punidas com repreensão ou impedimento até oito licenças.
+**Art**. 56. As contravenções leves são punidas com repreensão ou impedimento até oito licenças.
 
-<strong>Art</strong>. 57. A repetição de serviço mal executado não é considerada penalidade.
+**Art**. 57. A repetição de serviço mal executado não é considerada penalidade.
 
-<strong>Art</strong>. 58. As contravenções cometidas pelos alunos serão julgadas pelo Diretor da Escola Naval que, no caso de contravenção eliminatória, convocará a Comissão Disciplinar para a apuração da ocorrência.
+**Art**. 58. As contravenções cometidas pelos alunos serão julgadas pelo Diretor da Escola Naval que, no caso de contravenção eliminatória, convocará a Comissão Disciplinar para a apuração da ocorrência.
 
 § 1º O Diretor da Escola poderá delegar autoridade ao Comandante do Corpo de Aspirantes para julgar contravenções praticadas por Aspirantes e passíveis das penalidades de repreensão e impedimento até quatro licenças.
 
 § 2º As contravenções graves ou leves praticadas por alunos destacados em estabelecimentos o embarcados em navios será julgadas pelo Diretor ou Comandante dêsses estabelecimentos ou navios, mas as contravenções eliminatórias serão sempre julgadas pelo Diretor da Escola Naval, após terem sido apreciadas pela Comissão Disciplinar referida no parágrafo único do art. 54, dêste Regulamento.
 
-<strong>Art</strong>. 59. Será também cancelada a matrícula do Aspirante que:
+**Art**. 59. Será também cancelada a matrícula do Aspirante que:
 
 a) faltar, sem motivo justificado, à Escola Naval ou navio ou estabelecimento, onde estiver em instrução, por prazo superior a oito dias;
 
@@ -474,17 +472,17 @@ e) tiver nota de aptidão para o oficialato inferior a quatro em qualquer ano em
 
 f) tiver deferido o pedido de baixa de praça de Aspirante.
 
-Parágrafo único. Ao Diretor da Escola Naval compete o julgamento das razões apresentadas para justificação das faltas referidas na letra <em>a</em> dêste artigo.
+Parágrafo único. Ao Diretor da Escola Naval compete o julgamento das razões apresentadas para justificação das faltas referidas na letra *a* dêste artigo.
 
-<strong>Art</strong>. 60. O cancelamento da matrícula e a baixa de praça são efetuados por ato do Diretor da Escola Naval.
+**Art**. 60. O cancelamento da matrícula e a baixa de praça são efetuados por ato do Diretor da Escola Naval.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Da promoção e nomeação</em>
+*Da promoção e nomeação*
 
-<strong>Art</strong>. 61. A promoção dos Aspirantes durante o Estágio Escolar será feita por ato do Diretor da Escola Naval.
+**Art**. 61. A promoção dos Aspirantes durante o Estágio Escolar será feita por ato do Diretor da Escola Naval.
 
-<strong>Art</strong>. 62. O Aspirante que ao terminar o último ano do Estágio Escolar do curso em que estiver matriculado satisfizer às condições estabelecidas no art. 46 dêste Regulamento, será, por ato do Diretor da Escola Naval declarado:
+**Art**. 62. O Aspirante que ao terminar o último ano do Estágio Escolar do curso em que estiver matriculado satisfizer às condições estabelecidas no art. 46 dêste Regulamento, será, por ato do Diretor da Escola Naval declarado:
 
 a) Guarda-Marinha - se destinar ao Corpo da Armada;
 
@@ -492,15 +490,15 @@ b) Guarda-Marinha Fuzileiro Naval - se se destinar ao Corpo de Fuzileiros Navais
 
 c) Guarda-Marinha intendente da Marinha - se se destinar ao Corpo de Intendentes da Marinha.
 
-<strong>Art</strong>. 63. Os Guardas-Marinhas, os Guarda-Marinhas Fuzileiros Navais e os Guarda-Marinhas Intendentes da Marinha, que tiverem preenchido todos os requisitos exigidos nos Estágio de Adaptação em uma mesma época de exames, serão promovidos, simultaneamente, ao pôsto de Segundo-Tenente, nos respectivos quadros, por decreto do Presidente da República.
+**Art**. 63. Os Guardas-Marinhas, os Guarda-Marinhas Fuzileiros Navais e os Guarda-Marinhas Intendentes da Marinha, que tiverem preenchido todos os requisitos exigidos nos Estágio de Adaptação em uma mesma época de exames, serão promovidos, simultaneamente, ao pôsto de Segundo-Tenente, nos respectivos quadros, por decreto do Presidente da República.
 
 Parágrafo único. A classificação dos Guardas-Marinhas dos diversos cursos, habilitados em segunda época, será determinado, levando em consideração o disposto no § 2º do artigo 39, dêste Regulamento.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Do pessoal</em>
+*Do pessoal*
 
-<strong>Art</strong>. 64. A escola Naval possuirá o seguinte pessoal:
+**Art**. 64. A escola Naval possuirá o seguinte pessoal:
 
 a) um Direto, oficial-general do Corpo da Armada;
 
@@ -526,13 +524,13 @@ k) praças, subinstrutores para o ensino técnico e de educação física, para 
 
 l) civis de várias categorias para funções de secretaria, gabinete, administração e conservação.
 
-Parágrafo único. Os oficiais referidos nas letras <em>a</em> e <em>i</em> serão da ativa.
+Parágrafo único. Os oficiais referidos nas letras *a* e *i* serão da ativa.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>Do provimento dos cargos de ensino</em>
+*Do provimento dos cargos de ensino*
 
-<strong>Art</strong>. 65. Os cargos de professor são preenchidos de acôrdo com a legislação reguladora do Magistério Superior da Marinha.
+**Art**. 65. Os cargos de professor são preenchidos de acôrdo com a legislação reguladora do Magistério Superior da Marinha.
 
 § 1º O Regimento Interno da Escola Naval determinará as normas do processo de admissão.
 
@@ -542,45 +540,45 @@ Parágrafo único. Os oficiais referidos nas letras <em>a</em> e <em>i</em> ser�
 
 § 4º O exército do cargo referido no § 3º, durante um período de dois anos com boas referências do Diretor da Escola Naval, constitui título de merecimento para a admissão ao Magistério Superior da Marinha.
 
-<strong>Art</strong>. 66. Os cargos de instrutor são exercidos por oficiais da ativa, designados pelo Ministro da Marinha por proposta do Diretor da Escola Naval.
+**Art**. 66. Os cargos de instrutor são exercidos por oficiais da ativa, designados pelo Ministro da Marinha por proposta do Diretor da Escola Naval.
 
 Parágrafo único. Os cargos de instrutor de Educação física, podem ser exercidos por civis técnicos desportivos ou professores de Educação Física, admitidos de acôrdo com a legislação em vigor.
 
-<strong>Art</strong>. 67. Os oficiais da ativa, que exercerem cargos de professor ou instrutor, servirão na Escola Naval pelo prazo mínimo de dois anos, salvo quando sua dispensa fôr proposta pelo Diretor Geral do Pessoal da Marinha, por solicitação do Diretor da Escola Naval, e aprovada pelo Ministro da Marinha.
+**Art**. 67. Os oficiais da ativa, que exercerem cargos de professor ou instrutor, servirão na Escola Naval pelo prazo mínimo de dois anos, salvo quando sua dispensa fôr proposta pelo Diretor Geral do Pessoal da Marinha, por solicitação do Diretor da Escola Naval, e aprovada pelo Ministro da Marinha.
 
 Parágrafo único. Os oficiais designados para o cargo de professor ou instrutor deverão servir na Escola Naval.
 
-<strong>Art</strong>. 68. Os oficiais da ativa que exercerem cargo de professor ou instrutor só poderão ser desligados da Escola Naval após o término do ano letivo, salvo quando sua dispensa resultar de proposta do Diretor da Escola.
+**Art**. 68. Os oficiais da ativa que exercerem cargo de professor ou instrutor só poderão ser desligados da Escola Naval após o término do ano letivo, salvo quando sua dispensa resultar de proposta do Diretor da Escola.
 
-<strong>Art</strong>. 69. Os professôres terão regime de trabalho de acôrdo com a lei reguladora do exercício Magistério Superior da Marinha.
+**Art**. 69. Os professôres terão regime de trabalho de acôrdo com a lei reguladora do exercício Magistério Superior da Marinha.
 
 Parágrafo único. Os civis instrutores de Educação Física permanecerão diariamente na Escola Naval durante os períodos destinados às aulas de Educação Física e prática de esportes, além dos necessários ao preparo da documentação e dos locais destinados a essas aulas e exercícios.
 
-<strong>Art</strong>. 70. Aos professôres e instrutores é proibido lecionar em cursos ou estabelecimentos de ensino que preparem alunos para admissão à Escola Naval, e dar aulas particulares com êsse propósito ou a alunos da própria Escola.
+**Art**. 70. Aos professôres e instrutores é proibido lecionar em cursos ou estabelecimentos de ensino que preparem alunos para admissão à Escola Naval, e dar aulas particulares com êsse propósito ou a alunos da própria Escola.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 71. Os cursos da Escola Naval não podem ser freqüentados por alunos civis ou ouvintes.
+**Art**. 71. Os cursos da Escola Naval não podem ser freqüentados por alunos civis ou ouvintes.
 
-<strong>Art</strong>. 72. Os alunos indenização os prejuízos e danos que causarem à Fazenda Nacional.
+**Art**. 72. Os alunos indenização os prejuízos e danos que causarem à Fazenda Nacional.
 
-<strong>Art</strong>. 73. Os alunos matriculados na Escola Naval, em data anterior a da entrada em vigor dêste Regulamento, ficarão sujeitos a tudo o que nêle estiver estabelecido.
+**Art**. 73. Os alunos matriculados na Escola Naval, em data anterior a da entrada em vigor dêste Regulamento, ficarão sujeitos a tudo o que nêle estiver estabelecido.
 
-<strong>Art</strong>. 74. As alterações que forem introduzidas neste Regulamento serão aplicáveis a todos os alunos da Escola Naval, sem que lhes assista direito a reivindicação de qualquer espécie.
+**Art**. 74. As alterações que forem introduzidas neste Regulamento serão aplicáveis a todos os alunos da Escola Naval, sem que lhes assista direito a reivindicação de qualquer espécie.
 
-<strong>Art</strong>. 75. Os casos omissos ou não previstos neste Regulamento, serão resolvidos pelo Ministro da Marinha.
+**Art**. 75. Os casos omissos ou não previstos neste Regulamento, serão resolvidos pelo Ministro da Marinha.
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>Disposições transitórias</em>
+*Disposições transitórias*
 
-<strong>Art</strong>. 76. O Ministro da Marinha aprovará e mandará executar o Regimento Interno da Escola Naval que será proposto pelo Diretor da Escola Naval, no prazo de noventa (90) dias a contar da publicação em boletim do Ministério da Marinha do presente Regulamento.
+**Art**. 76. O Ministro da Marinha aprovará e mandará executar o Regimento Interno da Escola Naval que será proposto pelo Diretor da Escola Naval, no prazo de noventa (90) dias a contar da publicação em boletim do Ministério da Marinha do presente Regulamento.
 
 Rio de Janeiro, 31 de julho de 1957.
 
-<strong>ANTÔNIO ALVES CÂMARA JÚNIOR</strong>
+**ANTÔNIO ALVES CÂMARA JÚNIOR**
 
 Almirante R. Rm
 

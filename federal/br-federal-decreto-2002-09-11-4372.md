@@ -1,5 +1,3 @@
-###DEC-004372-0-000-11-09-2002@@@
-
 DECRETO Nº 4.372, DE 11 DE SETEMBRO DE 2002.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Panamá sobre o Exercício de Atividades Remuneradas por Parte de Dependentes do Pessoal Diplomático, Consular, Administrativo e Técnico, celebrado em Brasília, em 10 de abril de 2000.

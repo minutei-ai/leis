@@ -1,5 +1,3 @@
-###DEC-086677-0-000-01-12-1981@@@
-
 Decreto nº 86.677, de 01 de dezembro de 1981
 
 Autoriza o aumento de potência da RÁDIO SENTINELA DO VALE LTDA., na cidade de Gaspar, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-045919-0-000-29-04-1959@@@
-
 decreto nº 45.919, de 29 de abril de 1959.
 
 Autoriza o cidadão brasileiro Joaquim Frederico Souza de Araújo a pesquisar areias imeníticas no município de Tutóia, Estado do Maranhão.

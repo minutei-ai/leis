@@ -1,5 +1,3 @@
-###DEC-070825-0-000-12-07-1972@@@
-
 DECRETO Nº 70.825, DE 12 DE JUlHO DE 1972.
 
 Concede à Extração, Transporte e Comércio de Minérios Ltda., o direito de lavrar minério de ferro no município de Itabira, Estado de Minas Gerais.

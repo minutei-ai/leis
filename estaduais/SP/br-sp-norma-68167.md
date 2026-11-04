@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=68167)
-
 # LEI Nº 12.404, DE 24 DE NOVEMBRO DE 2006
 
 ### _Autoriza a Fazenda do Estado a indenizar familiares de Agentes de Segurança Penitenciária, na forma que especifica_

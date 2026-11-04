@@ -110,10 +110,12 @@ Art. 17. Este Decreto entra em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, ao 10 de fevereiro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18824)

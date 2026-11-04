@@ -1,4 +1,5 @@
-DECRETO Nº 9.829, DE 16 DE MARÇO DE 2021<br>
+DECRETO Nº 9.829, DE 16 DE MARÇO DE 2021
+
  [- Revogado pelo Decreto nº 9.856, de 29-04-2021, art 2º, III.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103949/decreto-9856)
 
 ~~Estabelece novas medidas, de caráter temporário e emergencial, para o enfrentamento da propagação decorrente do novo coronavírus (COVID-19), no âmbito do Poder Executivo estadual.~~
@@ -43,28 +44,31 @@ DECRETO Nº 9.829, DE 16 DE MARÇO DE 2021<br>
 
 ~~§ 5º A autenticidade da Autorização de Trânsito para Exercício de Atividade Essencial poderá ser conferida pelo QR _Code_ ou no SEI, pelo endereço eletrônico [https://sei.go.gov.br/sei/controlador\_externo.php?acao=documento\_conferir&id\_orgao\_acesso\_externo=1](https://sei.go.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=1), informando o código verificador e o código CRC constantes no documento.~~
 
-~~Art. 4º-A Durante os períodos de suspensão das atividades presenciais na administração direta, autárquica e fundacional do Poder Executivo estadual, ficam igualmente suspensos os prazos de processos administrativos em curso nos órgãos e nas entidades estaduais que dependam de atos presenciais.~~<br>
+~~Art. 4º-A Durante os períodos de suspensão das atividades presenciais na administração direta, autárquica e fundacional do Poder Executivo estadual, ficam igualmente suspensos os prazos de processos administrativos em curso nos órgãos e nas entidades estaduais que dependam de atos presenciais.~~
+
 ~~[\- Acrescido pelo Decreto nº 9.835, de 18-03-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103902/decreto-9835)~~
 
-~~§ 1º A suspensão de que trata o _caput_ deste artigo não impede a prática de ato processual de natureza urgente ou necessário à preservação de direitos.~~<br>
+~~§ 1º A suspensão de que trata o _caput_ deste artigo não impede a prática de ato processual de natureza urgente ou necessário à preservação de direitos.~~
+
 ~~[\- Acrescido pelo Decreto nº 9.835, de 18-03-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103902/decreto-9835)~~
 
-~~§ 2º Fica também suspenso, durante os períodos em que houver a suspensão das atividades presenciais, nos termos do _caput_,o acesso de usuários externos aos autos de processo físico em andamento na administração pública do Estado de Goiás.~~<br>
+~~§ 2º Fica também suspenso, durante os períodos em que houver a suspensão das atividades presenciais, nos termos do _caput_,o acesso de usuários externos aos autos de processo físico em andamento na administração pública do Estado de Goiás.~~
+
 ~~[\- Acrescido pelo Decreto nº 9.835, de 18-03-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103902/decreto-9835)~~
 
-~~Art. 4º-B Durante os períodos de funcionamento das atividades presenciaisna administração direta, autárquica e fundacional do Estado de Goiás, os prazos de processos administrativos correm normalmente nos órgãos e nas entidades estaduais.~~<br>
+~~Art. 4º-B Durante os períodos de funcionamento das atividades presenciaisna administração direta, autárquica e fundacional do Estado de Goiás, os prazos de processos administrativos correm normalmente nos órgãos e nas entidades estaduais.~~
+
 ~~[\- Acrescido pelo Decreto nº 9.835, de 18-03-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103902/decreto-9835)~~
 
 ~~Art. 5º Durante a vigência deste Decreto aplicam-se as disposições do Decreto nº [9.751](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103610/decreto-9751), de 2020, no que couber.~~
 
-~~Parágrafo único. O disposto no art. 24-A do Decreto nº [9.751](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103610/decreto-9751), de 2020, não se aplica durante o sistema de revezamento das atividades presenciais na administração direta, autárquica e fundacional do Poder Executivo estadual.<br>
+~~Parágrafo único. O disposto no art. 24-A do Decreto nº [9.751](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103610/decreto-9751), de 2020, não se aplica durante o sistema de revezamento das atividades presenciais na administração direta, autárquica e fundacional do Poder Executivo estadual.
+
 [\- Acrescido pelo Decreto nº 9.835, de 18-03-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103902/decreto-9835)~~
 
 ~~Art. 6º Este Decreto entra em vigor em 17 de março de 2021.~~
 
 ~~Goiânia, 16 de março de 2021; 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

@@ -1,5 +1,3 @@
-###DEC-050069-0-000-25-01-1961@@@
-
 DECRETO Nº 50.069, DE 25 DE JANEIRO DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 36.389, de 28-10-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Rio do Salto, no Município de Caçulé, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-074637-0-000-02-10-1974@@@
-
 DECRETO Nº 74.637, DE 2 DE OUTUBRO DE 1974.
 
 Concede à Empresa das Águas Prata S.A, o direito de lavrar água mineral, no Município de Águas da Prata, Estado de São Paulo.

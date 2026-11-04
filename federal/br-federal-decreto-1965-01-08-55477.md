@@ -1,5 +1,3 @@
-###DEC-055477-0-000-08-01-1965@@@
-
 decreto nº 55.477, de 8 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Jorge Mansur a pesquisar galena no município de Uruaçu, Estado de Goiás.

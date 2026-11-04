@@ -1,5 +1,3 @@
-###DEC-084370-0-000-04-01-1980@@@
-
 Decreto nº 84.370, de 04 de janeiro de 1980
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Escola de Enfermagem de Ijuí, Estado do Rio Grande do Sul.

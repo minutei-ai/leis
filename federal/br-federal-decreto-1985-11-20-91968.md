@@ -1,5 +1,3 @@
-###DEC-091968-0-000-20-11-1985@@@
-
 Decreto nº 91.968, de 20 de novembro de 1985
 
 Renova a concessão outorgada à RÁDIO ITAJUBÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Itajubá, Estado de Minas Gerais.

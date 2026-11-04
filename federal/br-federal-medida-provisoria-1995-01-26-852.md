@@ -1,7 +1,3 @@
-1
-
-###MPV-000852-0-000-26-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 852, DE 26 DE JANEIRO DE 1995
 
 Altera a redação do art. 2º do Decreto-Lei nº 2.236, de 23 de janeiro de 1985, que dispõe sobre a tabela de emolumentos e taxas aprovada pelo art. 131 da Lei nº 6.815, de 19 de agosto de 1980.

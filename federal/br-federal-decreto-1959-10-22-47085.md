@@ -1,5 +1,3 @@
-###DEC-047085-0-000-22-10-1959@@@
-
 DECRETO Nº 47.085, DE 22 DE OUTUBRO DE 1959.
 
 Outorga à Prefeitura Municipal de Luminárias concessão para o aproveitamento da energia hidráulica da Cachoeira da Fumaça, existente no rio Ingaí, município de Luminárias, Estado de Minas Gerais.

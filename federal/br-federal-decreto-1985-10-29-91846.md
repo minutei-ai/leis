@@ -1,5 +1,3 @@
-###DEC-091846-0-000-29-10-1985@@@
-
 Decreto nº 91.846, de 29 dE outubro de 1985
 
 Autoriza a desativação de habitação do curso de Artes Cênicas da Faculdade de Artes, em Brasília, Distrito Federal.

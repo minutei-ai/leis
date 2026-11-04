@@ -46,11 +46,14 @@ Goiânia, Estado de Goiás, 11 de setembro de 2017.
 
  
 
-VETER MARTINS MORAIS<br>
+VETER MARTINS MORAIS
+
 Prefeito em exercício
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-RICARDO ROBERTO TEIXEIRA<br>
+RICARDO ROBERTO TEIXEIRA
+
 Secretário Municipal de Articulação Política

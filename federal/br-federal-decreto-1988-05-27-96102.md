@@ -1,5 +1,3 @@
-###DEC-096102-0-000-27-05-1988@@@
-
 DECRETO N° 96.102, DE 27 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “SÃO SEBASTIÃO”, classificado como “latifúndio por exploração”, situado no Município de Bela Cruz, no Estado do Ceará, compreen­dido na zona prioritária, para fins de refor­ma agrária, fixada pelo Decreto n° 92.617, de 02 de maio de 1986, e dá outras providências.

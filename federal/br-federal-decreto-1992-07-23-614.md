@@ -1,5 +1,3 @@
-###DEC-000614-0-000-23-07-1992@@@
-
 DECRETO N° 614, DE 23 DE JULHO DE 1992
 
 Promulga o Acordo de Cooperação Econômica e Tecnológica, entre o Governo da República Federativa do Brasil e o Governo da República Popular da China, firmado em 18 de maio de 1990.

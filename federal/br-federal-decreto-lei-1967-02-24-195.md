@@ -1,5 +1,3 @@
-###DEL-000195-0-000-24-02-1967@@@
-
 DECRETO-LEI Nº 195, DE 24 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a cobrança da Contribuição de Melhoria.

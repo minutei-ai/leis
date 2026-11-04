@@ -1,5 +1,3 @@
-###DEL-009659-0-000-28-08-1946@@@
-
 DECRETO-LEI N. 9.659 – DE 28 DE AGÔSTO DE 1946
 
 Exclui do regime de intervenção pelo Govêrno Federal a firma que menciona, e dá outras providências.

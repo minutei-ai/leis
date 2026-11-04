@@ -1,5 +1,3 @@
-###DEC-067634-0-000-20-11-1970@@@
-
 DECRETO nº 67.634, DE 20 DE NOVEMBRO DE 1970.
 
 Revoga o Decreto nº 7.135, de 7 de maio de 1941.

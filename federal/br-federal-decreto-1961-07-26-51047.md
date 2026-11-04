@@ -1,5 +1,3 @@
-###DEC-051047-0-000-26-07-1961@@@
-
 DECRETO Nº 51.047, DE 26 DE JULHO DE 1961.
 
 Altera disposição do Decreto nº 49.125, de 19 de outubro de 1960.

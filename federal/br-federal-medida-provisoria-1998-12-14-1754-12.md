@@ -1,5 +1,3 @@
-###MPV-001754-0-012-14-12-1998@@@
-
 medida provisória nº 1.754-12, de 14 de dezembro de 1998.
 
 Dispõe sobre a simplificação do arquivamento de atos nas Juntas Comerciais e do protesto de título de dívida de microempresas e de empresas de pequeno porte, e dá outras providências.

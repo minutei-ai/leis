@@ -1,5 +1,3 @@
-###DEL-009557-0-000-08-08-1946@@@
-
 dECRETO-LEI N. 9.557 – DE 8 DE AGÔSTO DE 1946
 
 Autoriza a Prefeitura do Distrito Federal a admitir tarefeiros, nas condições que especifica.

@@ -1,5 +1,3 @@
-###DEC-050727-0-000-06-06-1961@@@
-
 DECRETO Nº 50.727, DE 6 DE JUNHO DE 1961.
 
 Autoriza a Sociedade Termoelétrica de Capivari a ampliar o seu sistema de transmissão de energia elétrica.
@@ -35,8 +33,6 @@ Brasília, 6 de junho de 1961; 140º da Independência e 73º da República.
 Jânio Quadros
 
 João Agripino
-
-###DEC-050727-0-000-06-06-1961@@@RET01+++
 
 DECRETO Nº 50.727, DE 6 DE JUNHO DE 1961
 

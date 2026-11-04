@@ -1,5 +1,3 @@
-###DEC-048671-0-000-04-08-1960@@@
-
 DECRETO N. 48.671 – DE 4 DE AGÔSTO DE 1960
 
 Autoriza Prominas Brasil S. A .. Assistência, Sondagem, Indústria e Comércio a comprar pedras preciosas.

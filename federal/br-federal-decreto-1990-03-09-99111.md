@@ -1,7 +1,3 @@
-1
-
-###DEC-099111-0-000-09-03-1990@@@
-
 # DECRETO Nº 99.111, DE 9 DE MARÇO DE 1990
 
 Cria, no Estado do Amazonas, a Flo­resta Nacional Piraiauara com os limites que especifica, e dá outras providências.

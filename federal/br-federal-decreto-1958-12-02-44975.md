@@ -1,5 +1,3 @@
-###DEC-044975-0-000-02-12-1958@@@
-
 DECRETO Nº 44.975, DE 2 DE DEZEMBRO DE 1958.
 
 Concede à Mineração Fluminense Limitada autorização para funcionar como emprêsa de mineração.

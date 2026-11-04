@@ -1,5 +1,3 @@
-###DEC-077237-0-000-26-02-1976@@@
-
 DECRETO Nº 77.237, DE 26 DE FEVEREIRO DE 1976.
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Faculdade de Enfermagem sagrado Coração, com sede na Cidade de Bauru, Estado de São Paulo.

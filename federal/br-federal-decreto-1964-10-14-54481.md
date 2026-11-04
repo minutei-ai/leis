@@ -1,5 +1,3 @@
-###DEC-054481-0-000-14-10-1964@@@
-
 Decreto nº 54.481, de 14 de outubro de 1964.
 
 Transfere para a Companhia Estadual de Energia Elétrica concessão para distribuir energia elétrica.

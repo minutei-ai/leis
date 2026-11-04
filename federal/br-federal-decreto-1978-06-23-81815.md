@@ -1,5 +1,3 @@
-###DEC-081815-0-000-23-06-1978@@@
-
 Decreto nº 81.815, de 23 de junho de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da subestação Ibitinga da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

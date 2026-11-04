@@ -1,5 +1,3 @@
-###DEL-002053-0-000-16-08-1983@@@
-
 # decreto-lei nº 2.053, de 16 de agosto de 1983
 
 Concede isenção da Taxa de Melhoramento dos Portos nos casos que especifica.

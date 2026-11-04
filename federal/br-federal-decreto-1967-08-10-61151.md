@@ -1,5 +1,3 @@
-###DEC-061151-0-000-10-08-1967@@@
-
 decreto Nº 61.151, de 10 de agôsto de 1967.
 
 Declara de utilidade pública o “Educandário Gratuito Santa Maria” com sede no Rio de Janeiro, Estado da Guanabara.

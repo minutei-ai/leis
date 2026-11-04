@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209606)<br>
-
 # DECRETO N° 68.636, DE 20 DE JUNHO DE 2024
 
 ### _Altera o Decreto n° 60.286, de 25 de março de 2014, que ins­titui e regulamenta o Sistema Paulista de Ambientes de Ino­vação - SPAI e dá providências correlatas._
@@ -210,7 +208,8 @@ VIII - ao artigo 24, o parágrafo úni­co:  
 
 **Artigo 3° -** Fica acrescentada ao [Decreto n° 60.286, de 25 de março de 2014](https://www.al.sp.gov.br/norma/172612), a Seção V-A, denominada "Dos membros associados", composta pelos ar­tigos 29-A, 29-B e 29-C, com a seguinte redação:  
 
-"Seção V-A <br>
+"Seção V-A 
+
 Dos membros associados    
 
 Artigo 29-A - Os ambientes de inova­ção associados ao SPAI poderão participar das reuniões, ca­pacitações, eventos e missões técnicas do Sistema, com vis­tas à ampliação e melhoria de sua atuação, bem como da in­teração e colaboração com os membros plenos.  

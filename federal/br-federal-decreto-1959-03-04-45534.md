@@ -1,5 +1,3 @@
-###DEC-045534-0-000-04-03-1959@@@
-
 DECRETO Nº 45.534, DE 4 DE MARÇO DE 1959.
 
 Suprime cargo extinto

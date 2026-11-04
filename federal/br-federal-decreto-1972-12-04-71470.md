@@ -1,5 +1,3 @@
-###DEC-071470-0-000-04-12-1972@@@
-
 DECRETO Nº 71.470 - DE 4 DE DEZEMBRO DE 1972
 
 Autoriza o funcionamento do Curso de Psicologia (licenciatura) e Curso de Comunicações (modalidades: Jornalismo, Relações Públicas, Publicidade e Propaganda) da Faculdade de Filosofia, Ciências e Letras do Instituto Cultural Newton Paiva Ferreira.

@@ -1,5 +1,3 @@
-###DEC-051682-0-000-30-01-1963@@@
-
 DECRETO Nº 51.682, DE 30 DE JANEIRO DE 1963.
 
 Concede honras de Ministro de Estado da Marinha ao Almirante-de-Esquadra Reformado José Isaias de Noronha.

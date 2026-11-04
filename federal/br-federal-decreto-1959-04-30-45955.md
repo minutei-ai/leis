@@ -1,5 +1,3 @@
-###DEC-045955-0-000-30-04-1959@@@
-
 DECRETO Nº 45.955, DE 30 DE ABRIL DE 1959.
 
 Aprova o Regulamento da Diretoria de Armamento e Munição (DAM).

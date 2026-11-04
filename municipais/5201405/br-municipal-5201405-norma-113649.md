@@ -4,12 +4,14 @@ DESAFETA, REMANEJA E AUTORIZA PERMUTA E COMPENSAÇÃO FINANCEIRA DE ÁREAS PÚBL
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-Art. 1º - Ficam desafetadas do uso comum do povo, a área pública municipal  SUB-PREFEITURA com área de 4.387,39m² e parte das ruas J-76 com área de 2.346,42 m² e  H-107 com área de 2.389,17m², situadas no setor loteamento Mansões Paraíso, no Município  de Aparecida de Goiânia.<br>
+Art. 1º - Ficam desafetadas do uso comum do povo, a área pública municipal  SUB-PREFEITURA com área de 4.387,39m² e parte das ruas J-76 com área de 2.346,42 m² e  H-107 com área de 2.389,17m², situadas no setor loteamento Mansões Paraíso, no Município  de Aparecida de Goiânia.
+
 (Redação alterada pela Lei Ordinária nº 3.167, de 13 de março de 2014).
 
 ~~Art. 1º Ficam desafetadas do uso comum do povo, a área pública municipal APM-01 com área de 4.387,39m² e parte das ruas J-76 com área de e H-107 com área de 2.389,17m², situadas no setor MANSÕES PARAÍSO, no Município de Aparecida de Goiânia.~~
 
-Art. 2º - O Poder Executivo fica autorizado a remanejar as áreas públicas  Municipais desafetadas no artigo 1º desta lei, que serão remembradas com as áreas pertencentes a TOCA PARTICIPAÇÕES LTDA, todas no loteamento Mansões Paraíso, área mansão 19 a 23 da quadra C e área mansão 01 a 16 da quadra D, com área de  28.222,63m², perfazendo um total, após o remanejamento, de 37.345,61m², para execução de empreendimento do CONSÒRCIO EMPREENDIMENTO MANSÕES PARAÍSO.<br>
+Art. 2º - O Poder Executivo fica autorizado a remanejar as áreas públicas  Municipais desafetadas no artigo 1º desta lei, que serão remembradas com as áreas pertencentes a TOCA PARTICIPAÇÕES LTDA, todas no loteamento Mansões Paraíso, área mansão 19 a 23 da quadra C e área mansão 01 a 16 da quadra D, com área de  28.222,63m², perfazendo um total, após o remanejamento, de 37.345,61m², para execução de empreendimento do CONSÒRCIO EMPREENDIMENTO MANSÕES PARAÍSO.
+
 (Redação alterada pela Lei Ordinária nº 3.167, de 13 de março de 2014).
 
 ~~Art. 2º O Poder Executivo fica autorizado a remanejar as áreas públicas Municipais desafetadas no artigo 1º desta lei, que serão remembradas com as áreas pertencentes a TOCA PARTICIPAÇÕES LTDA, todas no Setor Mansões Paraíso, área mansão 23 da quadra C e área mansão 16 da quadra D, com área de 28.222,63m², perfazendo um total, após o remanejamento, de 37.345,61m², para execução de empreendimento do CONSÒRCIO EMPREENDIMENTO MANSÕES PARAÍSO.~~
@@ -30,17 +32,22 @@ Art. 6 º Esta lei entrará em vigor na data de sua publicação, revogando-se a
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 13 dias do mês de março de 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Secretário Municipal de Planejamento
 
-RODRIGO CALDAS<br>
+RODRIGO CALDAS
+
 Secretário Municipal de Desenvolvimento Urbano
 
-FÁBIO CAMARGO<br>
+FÁBIO CAMARGO
+
 Secretário Municipal de Meio Ambiente

@@ -1,5 +1,3 @@
-###DEC-064495-0-000-13-05-1969@@@
-
 DECRETO Nº 64.495, DE 13 DE MAIO DE 1969.
 
 Declara de utilidade pública para fins de desapropriação, área situada no município de Itacoatiara, Estado do Amazonas, necessária à instalação de uma estação repetidora de microondas integrantes do Sistema Nacional de Telecomunicações.

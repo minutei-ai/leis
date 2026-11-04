@@ -8,7 +8,8 @@ Art. 1º Ficam alterados os artigos 271 e 273, da Lei Municipal n.º 792, de 07 
 
 “Art.271.........................................................................................................
 
-~~XX – Shopping Centers e Hipermercados.~~<br>
+~~XX – Shopping Centers e Hipermercados.~~
+
 (Revogado pela Lei Ordinária nº 2.882, de 18 de dezembro de 2009).
 
 Art.273............................................................................................................
@@ -29,11 +30,14 @@ Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos dez dias do mês de outubro de dois mil e cinco.
 
-JOSÉ MACEDO DE ARAÚJO<br>
+JOSÉ MACEDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-JOVIANO BUENO FERNANDES NETO<br>
+JOVIANO BUENO FERNANDES NETO
+
 SEC. DE AÇÃO URBANA E MEIO AMBIENTE

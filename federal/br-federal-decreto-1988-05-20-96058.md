@@ -1,5 +1,3 @@
-###DEC-096058-0-000-20-05-1988@@@
-
 DECRETO Nº 96.058, DE 20 DE MAIO DE 1988
 
 Fixa os Efetivos dos Quadros Complementares de Oficiais da Marinha para o ano de 1988 e altera dispositivos do Decreto nº 95.605 de 08 de janeiro de 1988.

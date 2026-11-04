@@ -1,7 +1,3 @@
-1
-
-###DEC-001374-0-000-18-01-1995@@@
-
 DECRETo N° 1.374, DE 18 DE JANEIRO DE 1995
 
 Inclui o produto Cevada Cervejeira na Lista de Exceção à Tarifa Externa Comum do MERCOSUL e retifica o Decreto n° 1.343, de 23 de dezembro de 1994.

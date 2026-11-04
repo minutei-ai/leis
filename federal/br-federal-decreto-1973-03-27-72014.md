@@ -1,5 +1,3 @@
-###DEC-072014-0-000-27-03-1973@@@
-
 DECRETO Nº 72.014, DE 27 DE MARÇO DE 1973.
 
 Outorga à Companhia Telefônica de Minas Gerais concessão para o serviço público de telefonia urbana e interurbana no Estado de Minas Gerais.
@@ -279,8 +277,6 @@ Todas as leis e regulamentos atuais e futuros, pertinentes ao serviço, objeto d
 § 2º Em qualquer tempo o presente contrato poderá ser revisto para adaptação à nova legislação.
 
 E, por estarem assim justas e contratadas, mandaram as partes lavrar o presente, que vai por ambas assinado, com as testemunhas abaixo, para que produza seus legais efeitos.
-
-###DEC-072014-0-000-27-03-1973@@@RET01+++
 
 DECRETO Nº 72.014, DE 27 DE MARÇO DE 1973.
 

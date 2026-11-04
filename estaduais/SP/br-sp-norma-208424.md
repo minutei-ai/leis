@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208424)<br>
-
 # DECRETO N° 67.894, DE 21 DE AGOSTO DE 2023
 
 ### _Altera o dispositivo que especifica do Decreto n° 67.660, de 26 de abril de 2023, que institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, o Programa "Jovem Aprendiz Paulista"._

@@ -1,5 +1,3 @@
-###DEC-057344-0-000-25-11-1965@@@
-
 DECRETO Nº 57.344, DE 25 DE NOVEMBRO DE 1965.
 
 Retifica o art. 1º do Decreto nº 55.352, de 31 dezembro de 1964.

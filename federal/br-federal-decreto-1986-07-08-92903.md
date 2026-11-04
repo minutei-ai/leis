@@ -1,5 +1,3 @@
-###DEC-092903-0-000-08-07-1986@@@
-
 DECRETO Nº 92.903, DE 8 DE JULHO DE 1986
 
 Dispõe sobre o limite do Capital Social da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE.

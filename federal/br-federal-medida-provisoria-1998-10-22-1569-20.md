@@ -1,5 +1,3 @@
-###MPV-001569-0-020-22-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.569-20, DE 22 DE OUTUBRO DE 1998
 
 Estabelece multa em operações de importação e dá outras providências.

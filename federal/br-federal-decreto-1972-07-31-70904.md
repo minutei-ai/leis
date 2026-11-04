@@ -1,5 +1,3 @@
-###DEC-070904-0-000-31-07-1972@@@
-
 DECRETO Nº 70.904, de 31 de julho de 1972.
 
 Declara de utilidade pública as instituições que menciona.

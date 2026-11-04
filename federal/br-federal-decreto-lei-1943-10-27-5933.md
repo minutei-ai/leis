@@ -1,5 +1,3 @@
-###DEL-005933-0-000-27-10-1943@@@
-
 DECRETO‑LEI N. 5.933 – DE 27 DE OUTUBRO DE 1943
 
 Prorroga o prazo a que se refere o art. 2.º do decreto‑lei n. 5. 584, de 17 de junho de 1943

@@ -1,5 +1,3 @@
-###DEC-071028-0-000-28-08-1972@@@
-
 DECRETO Nº 71.028, DE 28 DE AGOSTO DE 1972.
 
 Redistribui para o Quadro Único de Pessoal da Universidade Federal do Rio Grande do Norte, cargo, com a respectiva ocupante, originário do Ministério dos Transportes , e dá outras providências.

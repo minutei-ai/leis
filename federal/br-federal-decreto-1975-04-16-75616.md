@@ -1,5 +1,3 @@
-###DEC-075616-0-000-16-04-1975@@@
-
 DECRETO Nº 75.616, DE 16 DE ABRIL DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia, licenciatura de 1º grau, da Faculdade de Pedagogia e Letras "Professor Loureço Filho", mantida pelo Instituto Superior de Ensino Celso Lisboa com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

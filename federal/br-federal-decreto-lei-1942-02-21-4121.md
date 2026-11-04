@@ -1,5 +1,3 @@
-###DEL-004121-0-000-21-02-1942@@@
-
 DECRETO-LEI N. 4.121 – DE 21 DE FEVEREIRO DE 1942
 
 Autoriza a circulação, até 31 de dezembro de 1942, dos selos postais a que se refere o decreto-lei n. 1.850, de 9 de dezembro de 1939

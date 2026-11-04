@@ -1,5 +1,3 @@
-###DEC-093259-0-000-17-09-1986@@@
-
 DECRETO Nº 93.259, DE 17 DE SETEMBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DO AMAZONAS LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Manaus, Estado do Amazonas.

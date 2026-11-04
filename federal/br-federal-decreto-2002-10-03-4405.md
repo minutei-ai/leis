@@ -1,5 +1,3 @@
-###DEC-004405-0-000-03-10-2002@@@
-
 DECRETO Nº 4.405, DE 3 DE OUTUBRO DE 2002
 
 Altera o Decreto nº 4.187, de 8 de abril de 2002, que regulamenta os arts. 6º e 7º da Medida Provisória nº 2.225-45, de 4 de setembro de 2001, que dispõem sobre o impedimento de autoridades exercerem atividades ou prestarem serviços após a exoneração do cargo que ocupavam e sobre a remuneração compensatória a elas devida pela União.

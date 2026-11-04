@@ -1,5 +1,3 @@
-###DEC-078800-0-000-23-11-1976@@@
-
 DECRETO Nº 78.800, DE 23 DE NOVEMBRO DE 1976
 
 Concede indulto, reduz penas e dá outras providências.

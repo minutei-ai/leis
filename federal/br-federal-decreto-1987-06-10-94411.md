@@ -1,5 +1,3 @@
-###DEC-094411-0-000-10-06-1987@@@
-
 DECRETO Nº 94.411, DE 10 DE JUNHO DE 1987
 
 Outorga concessão à Rádio Potiguara de Mamanguape Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Mamanguape, Estado da Paraíba.

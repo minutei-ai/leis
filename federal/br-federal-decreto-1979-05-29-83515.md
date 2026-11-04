@@ -1,5 +1,3 @@
-###DEC-083515-0-000-29-05-1979@@@
-
 decreto nº 83.515, de 29 de maio de 1979.
 
 Revoga o Decreto nº 75.908, de 25 de junho de 1975, publicado no Diário Oficial da União de 26 de junho de 1975.

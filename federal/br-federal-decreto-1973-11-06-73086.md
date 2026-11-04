@@ -1,5 +1,3 @@
-###DEC-073086-0-000-06-11-1973@@@
-
 DECRETO Nº 73.086 - DE 6 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão, no Estado de Goiás.

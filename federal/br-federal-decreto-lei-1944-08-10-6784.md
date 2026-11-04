@@ -1,5 +1,3 @@
-###DEL-006784-0-000-10-08-1944@@@
-
 DECRETO-LEI N. 6.784 – DE 10 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 12.000,00, para pagamento de salários a Irvino Whittlesey Tibiriçá

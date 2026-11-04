@@ -1,5 +1,3 @@
-###DEC-054857-0-000-03-11-1964@@@
-
 DECRETO Nº 54.857, DE 3 DE NOVEMBRO DE 1964.
 
 Outorga ao Consórcio de Eletricidade do Rio do Prado - Rubim concessão para o aproveitamento da energia hidráulica.

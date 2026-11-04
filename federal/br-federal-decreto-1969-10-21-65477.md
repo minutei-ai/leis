@@ -1,5 +1,3 @@
-###DEC-065477-0-000-21-10-1969@@@
-
 DECRETO Nº 65.477 - DE 21 DE OUTUBRO DE 1969.
 
 Prorroga vigência de Acôrdo.

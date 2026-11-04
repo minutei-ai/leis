@@ -1,5 +1,3 @@
-###DEC-075218-0-000-14-01-1975@@@
-
 DECRETO Nº 75.218, DE 14 DE JANEIRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Relógio Federal Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade do Rio de Janeiro, Estado da Guanabara.

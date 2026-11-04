@@ -26,13 +26,190 @@ Otto Alencar
 
 Secretário de Infra-Estrutura
 
-Retificação<br>
-Na Lei nº 12.899, e na Lei nº 12.900, publicadas no Diário Oficial do Estado de 05.09.2013:<br>
-**ONDE SE LÊ:**<br>
-...03 de setembro de 2013...<br>
-**LEIA-SE:<br>
+Retificação
+
+Na Lei nº 12.899, e na Lei nº 12.900, publicadas no Diário Oficial do Estado de 05.09.2013:
+
+**ONDE SE LÊ:**
+
+...03 de setembro de 2013...
+
+**LEIA-SE:
+
 **...04 de setembro de 2013... 
 
 ANEXO ÚNICO
 
-<table style="border-collapse: collapse; border: none;" width="651" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 50.8pt; border: solid black 1.0pt; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">CÓDIGO</p><p class="Tabela-Texto">SNV</p></td><td style="width: 40.4pt; border: solid black 1.0pt; border-left: none; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">ROD.</p></td><td style="width: 127.6pt; border: solid black 1.0pt; border-left: none; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">INÍCIO</p></td><td style="width: 148.85pt; border: solid black 1.0pt; border-left: none; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">FIM</p></td><td style="width: 49.6pt; border: solid black 1.0pt; border-left: none; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">EXT.</p><p class="Tabela-Texto">KM</p></td><td style="width: 70.85pt; border: solid black 1.0pt; border-left: none; background: silver; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">ROD</p><p class="Tabela-Texto">EST.</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">030BBA0355</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp;&nbsp; BR - 030</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; ENTR. BA - 026(A) / 262 (P/ BRUMADO - Acesso II)</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR. BR - 407/BA - 026 (B) SUSSUARANA)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">49,80</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BAT - 030/BA - 026</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">122BBA0385</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp;&nbsp; BR -122</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; ENTR BA - 210</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR BA - 210 (B)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">19,80</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BA - 210</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">122BBA0390</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp;&nbsp; BR - 122</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; ENTR BA - 210 (B) (P/ SOBRADINHO)</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; FIM DA PAVIMENTAÇÃO (JUNCOS)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">12,00</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BA - 144</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">122BBA0395</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp;&nbsp; BR -122</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; FIM DA PAVIMENTAÇÃO (JUNCOS)</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ABREUS (FIM DA IMPLANTAÇÃO)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">33,00</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BA - 144</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">135BBA0610</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp;&nbsp; BR - 135</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; ENTR. BA - 172 (A) (JABORANDI)</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR. BA - 172(B / 601 (CORIBE)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">25,00</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BA - 172</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">324BBA0190</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp;&nbsp; BR - 324</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; UMBURANAS</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR. BR-122 (OUROLÂNDIA)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">38,00</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BA - 368</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">324BBA0200</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp;&nbsp; BR - 324</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; ENTR. BR-122 (OUROLÂNDIA)</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR. BA-144 (LAGE)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">33,00</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BA - 368</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">324BBA0210</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp; BR - 324</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; ENTR. BA-144 (LAGE)</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR. BA-419 (A)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">12,00</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BA - 368</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">324BBA0220</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp; BR - 324</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; ENTR. BA-419 (A)</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR. BA -368 / 419 (B)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">11,00</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BA - 368</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">324BBA0240</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp; BR - 324</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; JACOBINA</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR. BA - 131 (P/ CAÉM)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">15,20</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BAT - 324</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">324BBA0245</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp; BR - 324</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; ENTR. BA - 131 (P/ CAÉM)</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR. BA - 417</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">19,40</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BAT - 324</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">324BBA0250</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp; BR - 324</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; ENTR. BA - 417</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR. BR - 407 (CAPIM GROSSO)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">28,70</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BAT - 324</p></td></tr><tr><td style="width: 50.8pt; border: solid black 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="68"><p class="Tabela-Texto">&nbsp;</p></td><td style="width: 40.4pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="54"><p class="Tabela-Texto">&nbsp;&nbsp; BR - 367</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="170"><p class="Tabela-Texto">&nbsp; ENTR. BR -101 (B)/ 275 (A) (ITAGIMIRIM)</p></td><td style="width: 148.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="198"><p class="Tabela-Texto">&nbsp; ENTR. BA - 275 (B) (DIV BA/MG)</p><p class="Tabela-Texto">&nbsp; (P/SALTO DA DIVISA)</p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="66"><p class="Tabela-Texto">42,00</p></td><td style="width: 70.85pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 45.0pt;" valign="top" width="94"><p class="Tabela-Texto">BA - 275</p></td></tr></tbody></table>
+CÓDIGO
+
+SNV
+
+ROD.
+
+INÍCIO
+
+FIM
+
+EXT.
+
+KM
+
+ROD
+
+EST.
+
+030BBA0355
+
+BR - 030
+
+ENTR. BA - 026(A) / 262 (P/ BRUMADO - Acesso II)
+
+ENTR. BR - 407/BA - 026 (B) SUSSUARANA)
+
+49,80
+
+BAT - 030/BA - 026
+
+122BBA0385
+
+BR -122
+
+ENTR BA - 210
+
+ENTR BA - 210 (B)
+
+19,80
+
+BA - 210
+
+122BBA0390
+
+BR - 122
+
+ENTR BA - 210 (B) (P/ SOBRADINHO)
+
+FIM DA PAVIMENTAÇÃO (JUNCOS)
+
+12,00
+
+BA - 144
+
+122BBA0395
+
+BR -122
+
+FIM DA PAVIMENTAÇÃO (JUNCOS)
+
+ABREUS (FIM DA IMPLANTAÇÃO)
+
+33,00
+
+BA - 144
+
+135BBA0610
+
+BR - 135
+
+ENTR. BA - 172 (A) (JABORANDI)
+
+ENTR. BA - 172(B / 601 (CORIBE)
+
+25,00
+
+BA - 172
+
+324BBA0190
+
+BR - 324
+
+UMBURANAS
+
+ENTR. BR-122 (OUROLÂNDIA)
+
+38,00
+
+BA - 368
+
+324BBA0200
+
+BR - 324
+
+ENTR. BR-122 (OUROLÂNDIA)
+
+ENTR. BA-144 (LAGE)
+
+33,00
+
+BA - 368
+
+324BBA0210
+
+BR - 324
+
+ENTR. BA-144 (LAGE)
+
+ENTR. BA-419 (A)
+
+12,00
+
+BA - 368
+
+324BBA0220
+
+BR - 324
+
+ENTR. BA-419 (A)
+
+ENTR. BA -368 / 419 (B)
+
+11,00
+
+BA - 368
+
+324BBA0240
+
+BR - 324
+
+JACOBINA
+
+ENTR. BA - 131 (P/ CAÉM)
+
+15,20
+
+BAT - 324
+
+324BBA0245
+
+BR - 324
+
+ENTR. BA - 131 (P/ CAÉM)
+
+ENTR. BA - 417
+
+19,40
+
+BAT - 324
+
+324BBA0250
+
+BR - 324
+
+ENTR. BA - 417
+
+ENTR. BR - 407 (CAPIM GROSSO)
+
+28,70
+
+BAT - 324
+
+BR - 367
+
+ENTR. BR -101 (B)/ 275 (A) (ITAGIMIRIM)
+
+ENTR. BA - 275 (B) (DIV BA/MG)
+
+  (P/SALTO DA DIVISA)
+
+42,00
+
+BA - 275

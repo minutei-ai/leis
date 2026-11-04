@@ -1,5 +1,3 @@
-###DEC-003982-0-000-24-10-2001@@@
-
 DECRETO DE 24 DE OUTUBRO DE 2001
 
 Dispõe sobre a substituição de Ministros de Estado em suas ausências do território nacional, nos seus afastamentos ou em outros impedimentos legais ou regulamentares.

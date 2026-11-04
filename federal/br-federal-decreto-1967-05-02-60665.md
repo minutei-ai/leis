@@ -1,5 +1,3 @@
-###DEC-060665-0-000-02-05-1967@@@
-
 DECRETO Nº 60.665, DE 2 DE MAIO DE 1967.
 
 Concede à The Home Insurance Company autorização para aumentar o capital destinado às suas operações de seguro no Brasil.

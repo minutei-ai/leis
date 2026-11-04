@@ -1,5 +1,3 @@
-###DEC-060466-A-000-14-03-1967@@@
-
 DECRETO Nº 60.466-A, DE 14 DE MARÇO DE 1967.
 
 Concede a Sociedade Anônima “Braniff Airways, incorporated” autorização para continuar a funcionar no Brasil.
@@ -15,8 +13,6 @@ Brasília, 14 de março de 1967; 146º da Independência e 79º da República.
 H. Castello Branco
 
 Eduardo Gomes
-
-###DEC-060466-A-000-14-03-1967@@@RET01+++
 
 decreto nº 60.466-a, de 14 de março de 1967.
 

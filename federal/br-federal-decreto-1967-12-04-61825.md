@@ -1,5 +1,3 @@
-###DEC-061825-0-000-04-12-1967@@@
-
 DECRETO Nº 61.825, DE 4 DE DEZEMBRO DE 1967.
 
 Autoriza a Companhia Fôrça e Luz de Minas Gerais a estabelecer linha de transmissão e declara de utilidade pública para fins de desapropriação ou constituição de servidão, faixa de terra no Estado de Minas Gerais.

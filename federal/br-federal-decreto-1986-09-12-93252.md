@@ -1,5 +1,3 @@
-###DEC-093252-0-000-12-09-1986@@@
-
 DECRETO Nº 93.252, DE 12 DE SETEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Pompéia da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

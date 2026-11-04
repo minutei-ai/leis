@@ -1,5 +1,3 @@
-###DEL-006552-0-000-01-06-1944@@@
-
 DECRETO-LEI N. 6.552 – DE 1 DE JUNHO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção do impôsto de doação, concorrente com o da compra e venda, na aquisição do imóveis para os órfãos de José Furtado Soares de Meireles, segundo piloto do “Aníbal Benévolo”, navio brasileiro torpedeado na guerra atual

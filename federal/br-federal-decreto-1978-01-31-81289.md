@@ -1,5 +1,3 @@
-###DEC-081289-0-000-31-01-1978@@@
-
 DECRETO Nº 81.289, DE 31 DE Janeiro de 1978.
 
 AUTORIZA o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Amazonas.

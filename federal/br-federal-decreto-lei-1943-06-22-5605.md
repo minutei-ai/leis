@@ -1,5 +1,3 @@
-###DEL-005605-0-000-22-06-1943@@@
-
 DECRETO‑LEI N. 5 605 – DE 22 DE JUNHO DE 1943
 
 Altera, sem aumento de despensa, o Anexo 3 do Orçamento Geral República

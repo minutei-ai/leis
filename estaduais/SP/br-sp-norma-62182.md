@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62182)
-
 # LEI Nº 12.375, DE 10 DE MAIO DE 2006
 
 ## (Projeto de lei nº 314/2005, da Deputada Rosmary Corrêa - PSDB)

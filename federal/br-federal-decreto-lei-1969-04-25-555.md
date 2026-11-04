@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b698de82-19c1-4e92-8995-f88951f5d2d7/texto#nowhere)
 
-###DEL-000555-0-000-25-04-1969@@@
-
 DECRETO-LEI Nº 555, DE 25 DE ABRIL DE 1969
 
 Dá nova redação ao art. 1º e acrescenta itens ao § 1º do art. 3º do Decreto-lei nº 343, de 28 de dezembro de 1967, que altera a legislação do Impôsto Único sôbre lubrificantes e combustíveis líquidos e gasosos.

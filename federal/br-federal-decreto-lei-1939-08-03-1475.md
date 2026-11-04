@@ -1,5 +1,3 @@
-###DEL-001475-0-000-03-08-1939@@@
-
 DECRETO-LEI N. 1.475 – DE 3 DE AGOSTO DE 1939
 
 Concede a “The great Western of Brazil Railway Company, Limited”, um empréstimo de 40.000 contos e altera cláusulas do contrato celebrado em 23 de setembro de 1920.

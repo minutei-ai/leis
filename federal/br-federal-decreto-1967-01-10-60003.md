@@ -1,5 +1,3 @@
-###DEC-060003-0-000-10-01-1967@@@
-
 DECRETO Nº 60.003, DE 10 de JANEIRO DE 1967.
 
 Autoriza Minebra-Minérios Brasileiros S.A. - Mineração e Industrialização a pesquisar talco no município e Brumado, Estado da Bahia.

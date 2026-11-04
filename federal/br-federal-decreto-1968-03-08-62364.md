@@ -1,5 +1,3 @@
-###DEC-062364-0-000-08-03-1968@@@
-
 DECRETO Nº 62.364, DE 8 DE MARÇO DE 1968.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Prefeitura Municipal de Piranga no distrito sede do município de Brás Pires, Estado de Minas Gerais, outorga concessão à Centrais Elétricas de Minas Gerais S. A. no município de Brás Pires, Estado de Minas Gerais e dá outras providências.

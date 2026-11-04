@@ -1,5 +1,3 @@
-###DEL-009204-0-000-27-04-1946@@@
-
 DECRETO-LEI N. 9.204 – DE 27 DE ABRIL DE 1946
 
 altera, sem aumento de despesa, o Orçamento do Plano de Obras e Equipamentos.

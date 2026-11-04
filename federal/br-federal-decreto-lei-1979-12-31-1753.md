@@ -1,5 +1,3 @@
-###DEL-001753-0-000-31-12-1979@@@
-
 # (\*) Decreto-LEI nº 1.753, dE 31 de dezembro de 1979
 
 Adapta a Tarifa Aduaneira do Brasil à Nomenclatura Brasileira de Mercadorias e dá outras providências.

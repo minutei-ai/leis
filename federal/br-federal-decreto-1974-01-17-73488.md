@@ -1,5 +1,3 @@
-###DEC-073488-0-000-17-01-1974@@@
-
 DECRETO N° 73.488, DE 17 DE JANEIRO DE 1974.
 
 Autoriza o funcionamento dos Cursos de Licenciatura de 1º Grau em Matemática e Ciências a serem ministrados na Escola Superior em Ciências e Pedagogia, mantida pela Fundação Educacional do Sul de Santa Catarina, com sede na cidade de Tubarão, Estado de Santa Catarina.

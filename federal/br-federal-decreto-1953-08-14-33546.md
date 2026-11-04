@@ -1,14 +1,12 @@
-###DEC-033546-0-000-14-08-1953@@@
+**DECRETO Nº 33.546, DE 14 DE AGÔSTO DE 1953.**
 
-<strong>DECRETO Nº 33.546, DE 14 DE AGÔSTO DE 1953.</strong>
+***Altera dispositivo do Decreto número 7.368, de 11 de junho de 1941.***
 
-<em><strong>Altera dispositivo do Decreto número 7.368, de 11 de junho de 1941.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O artigo 1º do Decreto nº 7.368, de 11 de junho de 1941, passa a vigorar com a seguinte redação:
+**Art**. 1º O artigo 1º do Decreto nº 7.368, de 11 de junho de 1941, passa a vigorar com a seguinte redação:
 
 “Artigo 1º O pessoal destinado à praticagem dos navios da Armada e dos navios mercantes nacionais, nas vias fluviais do Prata, baixo e médio Paraná e Paraguai e costa nordeste formará um quadro militar com a organização seguinte:
 
@@ -42,7 +40,7 @@ c) Seção de práticos da costa nordeste, subordinada ao Comando do 3º Distrit
 
 Praticantes - tantos quantos forem as vagas de práticos, acrescidas de 2”.
 
-<strong>Art</strong>. 2º Fica suprimido o parágrafo único do artigo 6º do aludido Decreto, ao qual se acrescentam os seguintes:
+**Art**. 2º Fica suprimido o parágrafo único do artigo 6º do aludido Decreto, ao qual se acrescentam os seguintes:
 
 “Artigo 6º.................................................................................................................................
 
@@ -50,10 +48,10 @@ Praticantes - tantos quantos forem as vagas de práticos, acrescidas de 2”.
 
 § 2º - Êste prazo será reduzido a 30 dias quando o número de vagas de prático fôr superior a 15% do total do quadro”.
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 14 de agôsto de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel

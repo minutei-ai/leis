@@ -50,7 +50,8 @@ VIII – respeito à formação cultural da criança relativamente à identidade
 
 IX – estímulo à cooperação entre o Estado e os municípios para implementação das Políticas Municipais pela Primeira Infância, com ampla participação da sociedade;
 
-X – incentivo à capacitação de profissionais, conselheiros tutelares e conselheiros de direitos que atuam nas políticas públicas, incluindo o preparo para a atuação intersetorial e a especialização para atendimento das diferentes infâncias e das crianças com deficiência, incluindo a detecção precoce de sinais de risco ao desenvolvimento psíquico, bem como para atendimento de crianças que tiveram seus direitos violados;<br>
+X – incentivo à capacitação de profissionais, conselheiros tutelares e conselheiros de direitos que atuam nas políticas públicas, incluindo o preparo para a atuação intersetorial e a especialização para atendimento das diferentes infâncias e das crianças com deficiência, incluindo a detecção precoce de sinais de risco ao desenvolvimento psíquico, bem como para atendimento de crianças que tiveram seus direitos violados;
+
 \- [Redação dada pela Lei nº 22.591, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108570/lei-22591).
 
 ~~X – incentivo à capacitação de profissionais, conselheiros tutelares e conselheiros de direitos que atuam nas políticas públicas, incluindo o preparo para a atuação intersetorial e a especialização para atendimento das diferentes infâncias e das crianças com deficiência, incluindo a detecção precoce de sinais de risco ao desenvolvimento psíquico;~~
@@ -59,7 +60,8 @@ XI – incentivo à oferta de educação infantil suficiente para garantir o ace
 
 XII – estímulo ao atendimento integral à saúde da criança, segundo a Política Nacional de Atenção Integral à Saúde da Criança;
 
-XIII – proteção da criança contra todo tipo de violência, especialmente, violência psicológica, física ou sexual, abuso e exploração sexual, bullying, exposição às armas, substâncias psicoativas e outros produtos cujos componentes possam causar dependência física ou psíquica, por exposição indevida e consentida;<br>
+XIII – proteção da criança contra todo tipo de violência, especialmente, violência psicológica, física ou sexual, abuso e exploração sexual, bullying, exposição às armas, substâncias psicoativas e outros produtos cujos componentes possam causar dependência física ou psíquica, por exposição indevida e consentida;
+
 \- [Redação dada pela Lei nº 22.591, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108570/lei-22591).
 
 ~~XIII – proteção da criança contra todo tipo de violência, abuso e exploração sexual, _bullying_, exposição às armas, substâncias psicoativas e outros produtos cujos componentes possam causar dependência física ou psíquica, por exposição indevida e consentida;~~
@@ -86,19 +88,24 @@ XXIII – incentivo à amamentação nos locais de trabalho, bem como em quaisqu
 
 XXIV – incentivo à realização de convênios com outras esferas de governo ou de parcerias com o setor privado para a execução da Política de que trata esta Lei.
 
-XXV – incentivo à ampla divulgação de canais de denúncia e da disponibilização de serviços especializados em violação dos direitos da criança;<br>
+XXV – incentivo à ampla divulgação de canais de denúncia e da disponibilização de serviços especializados em violação dos direitos da criança;
+
 \- [Acrescido dada pela Lei nº 22.591, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108570/lei-22591).
 
-XXVI – estímulo à adoção de medidas que tenham por objetivo diminuir a mortalidade infantil na primeira infância;<br>
+XXVI – estímulo à adoção de medidas que tenham por objetivo diminuir a mortalidade infantil na primeira infância;
+
 \- [Acrescido dada pela Lei nº 22.591, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108570/lei-22591).
 
-XXVII – incentivo à distribuição de cartilhas, em formato físico e digital, que informem os fatores de risco e as formas de prevenção e detecção de violência psicológica, física e sexual;<br>
+XXVII – incentivo à distribuição de cartilhas, em formato físico e digital, que informem os fatores de risco e as formas de prevenção e detecção de violência psicológica, física e sexual;
+
 \- [Acrescido dada pela Lei nº 22.591, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108570/lei-22591).
 
-XXVIII – (VETADO);<br>
+XXVIII – (VETADO);
+
 \- [Acrescido dada pela Lei nº 22.591, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108570/lei-22591).
 
-XXIX – garantia dos direitos humanos no âmbito das relações domésticas e familiares para resguardar as pessoas de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão.<br>
+XXIX – garantia dos direitos humanos no âmbito das relações domésticas e familiares para resguardar as pessoas de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão.
+
 \- [Acrescido dada pela Lei nº 22.591, de 29-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108570/lei-22591).
 
 Art. 5º Constituem áreas prioritárias para a Política de que trata esta Lei, sem prejuízo de outras que porventura venham a ser identificadas em consonância com seus princípios:
@@ -170,8 +177,6 @@ Art. 7º As despesas decorrentes desta Lei correrão à conta das dotações or�
 Art. 8º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 9 de dezembro de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

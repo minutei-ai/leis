@@ -53,7 +53,3 @@ Classes de Provimento em Comissão
 Denominação Nº de cargos Denominação Nº de cargos Consultor I 3 Consultor II 3\* Consultor II 7 Consultor III 7\* Consultor III Consultor IV 9 3 Consultor IV 12
 
 \* Extinção com a vacância (art. 4º da Lei Delegada nº /85)
-
-\-----------------------------------------------------------
-
-Data da última atualização: 28/7/2016.

@@ -1,5 +1,3 @@
-###DEC-063984-0-000-13-01-1969@@@
-
 DECRETO Nº 63.984, DE 13 DE JANEIRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional - e dá outras providências.

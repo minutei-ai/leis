@@ -1,5 +1,3 @@
-###DEC-071651-0-000-02-01-1973@@@
-
 DECRETO Nº 71.651, DE 2 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Escola Superior de Educação Física e Técnica Desportiva, da Fundação Educacional de Andradina, São Paulo.

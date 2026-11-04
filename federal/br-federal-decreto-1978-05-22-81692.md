@@ -1,5 +1,3 @@
-###DEC-081692-0-000-22-05-1978@@@
-
 Decreto nº 81.692, de 22 de maio de 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município Paracatu, Estado de Minas Gerais.

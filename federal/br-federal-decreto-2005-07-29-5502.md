@@ -1,5 +1,3 @@
-###DEC-005502-0-000-29-07-2005@@@
-
 DECRETO Nº 5.502, DE 29 DE JULHO DE 2005.
 
        Dispõe sobre a Comissão Especial de Recursos -CER, do Programa de Garantia da Atividade Agropecuária - PROAGRO, e dá outras providências.
@@ -59,5 +57,3 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
  LUIZ INÁCIO LULA DA SILVA
 
 Roberto Rodrigues
-
-Este texto não substitui o publicado no DOU de 1º.8.2005

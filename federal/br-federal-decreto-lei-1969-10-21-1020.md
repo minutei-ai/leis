@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1e2c0fe5-2ccf-4587-822b-8223007e5463/texto#nowhere)
 
-###DEL-001020-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.020, DE 21 DE OUTUBRO DE 1969
 
 Altera a redação do artigo 189, do Decreto-Lei nº 728, de 4 de agôsto de 1969.

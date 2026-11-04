@@ -1,5 +1,3 @@
-###DEC-003716-0-000-03-01-2001@@@
-
 DECRETO Nº 3.716, DE 3 DE JANEIRO DE 2001
 
 Delega competência ao Ministro de Estado do Planejamento, Orçamento e Gestão, para decidir e praticar atos de remanejamento, em caráter temporário, de cargos de Natureza Especial, do Grupo-Direção e Assessoramento Superiores - DAS e de Funções Comissionadas entre órgãos da Administração Pública Federal.

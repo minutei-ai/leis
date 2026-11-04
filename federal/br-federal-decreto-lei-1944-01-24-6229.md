@@ -1,5 +1,3 @@
-###DEL-006229-0-000-24-01-1944@@@
-
 DECRETO-LEI N. 6.229 – DE 24 JANEIRO DE 1944
 
 Altera a redação do art. 11 do decreto-lei n. 6.155, de 30 de dezembro de 1943

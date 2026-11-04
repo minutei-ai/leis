@@ -1,5 +1,3 @@
-###DEC-059804-0-000-19-12-1966@@@
-
 DECRETO Nº 59.804, DE 19 DE DEZEMBRO DE 1966.
 
 Concede autorização para funcionamento de cursos.
@@ -17,8 +15,6 @@ Brasília, 19 de dezembro de 1966; 145º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Raymundo Moniz de Aragão
-
-###DEC-059804-0-000-19-12-1966@@@RET01+++
 
 Decreto nº 59.804, de 19 de Dezembro de 1966.
 

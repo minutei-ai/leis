@@ -1,5 +1,3 @@
-###DEC-067788-0-000-10-12-1970@@@
-
 DECRETO Nº 67.788, de 10 de Dezembro de 1970.
 
 Declara caduco o Decreto número 26.648, de 10 de maio de 1949.

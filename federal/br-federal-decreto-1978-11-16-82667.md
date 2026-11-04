@@ -1,5 +1,3 @@
-###DEC-082667-0-000-16-11-1978@@@
-
 Decreto nº 82.667, de 16 de novembro de 1978.
 
 Exclui cargo que indica, do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura.

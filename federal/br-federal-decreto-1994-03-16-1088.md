@@ -1,7 +1,3 @@
-1
-
-###DEC-001088-0-000-16-03-1994@@@
-
 DECRETO Nº 1.088, DE 16 DE MARÇO DE 1994
 
 Reduz a alíquota do Imposto sobre Produtos Industrializados incidente sobre o produto que menciona.

@@ -1,5 +1,3 @@
-###LEI-000000-0-000-31-08-1832@@@
-
 LEI - DE 31 DE AGOSTO DE 1832
 
 Declara que as villas de Campo dos Goytacazes, e de S. João da Barra, ficam pertencendo á Provincia do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-064109-0-000-13-02-1969@@@
-
 DECRETO Nº 64.109, DE 13 DE FEVEREIRO DE 1969.
 
 Declara sem efeito o Decreto número 17.851, de 23 de fevereiro de1945.

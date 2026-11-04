@@ -1,6 +1,10 @@
 > **LEI Nº 4.133, DE 18 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a aquisição de imóvel onde funcionará a sede da Procuradoria Regional em Brasília, vinculada a Procuradoria-Geral do Estado do Acre - PGE/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a aquisição de imóvel onde funcionará a sede da Procuradoria Regional em Brasília, vinculada a Procuradoria-Geral do Estado do Acre - PGE/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

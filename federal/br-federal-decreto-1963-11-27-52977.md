@@ -1,5 +1,3 @@
-###DEC-052977-0-000-27-11-1963@@@
-
 DECRETO Nº 52.977, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza a Companhia de Serviços Elétricos do Rio Grande do Norte a construir linha de transmissão.
@@ -29,8 +27,6 @@ Brasília, 27 de novembro de 1963; 142º da Independência e 75º da República.
 JOÃO GOULART
 
 Antônio de Oliveira Brito
-
-###DEC-052977-0-000-27-11-1963@@@RET01+++
 
 DECRETO Nº 52.977, DE 27 DE NOVEMBRO DE 1963.
 

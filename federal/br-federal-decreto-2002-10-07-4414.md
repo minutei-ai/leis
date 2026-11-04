@@ -1,5 +1,3 @@
-###DEC-004414-0-000-07-10-2002@@@
-
 DECRETO Nº 4.414, DE 7 DE OUTUBRO DE 2002
 
 Altera o Decreto nº 3.996, de 31 de outubro de 2001, que dispõe sobre a prestação de serviços de certificação digital no âmbito da Administração Pública Federal.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211296)<br>
-
 # DECRETO N° 69.787, DE 11 DE AGOSTO DE 2025
 
 ### _Autoriza a outorga de uso, mediante concessão de direito real de uso, por prazo determinado, ao Município de São José dos Campos, do imóvel que especifica, e dá providências correlatas._

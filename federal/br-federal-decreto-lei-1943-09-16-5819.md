@@ -1,5 +1,3 @@
-###DEL-005819-0-000-16-09-1943@@@
-
 DECRETO‑LEI N. 5.819 – DE 16 DE SETEMBRO DE 1943
 
 Abre ao Ministério da Viação e obras Públicas o crédito especial de Cr$ 19.250.000,00 para a Fábrica Nacional de Motores

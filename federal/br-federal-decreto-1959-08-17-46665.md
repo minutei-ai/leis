@@ -1,5 +1,3 @@
-###DEC-046665-0-000-17-08-1959@@@
-
 DECRETO Nº 46.665, DE 17 DE AGôSTO DE 1959.
 
 Concede a Companhia Agro-Industrial Igarassú autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-083495-0-000-28-05-1979@@@
-
 Decreto nº 83.495, de 28 de maio de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Pitangueiras da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

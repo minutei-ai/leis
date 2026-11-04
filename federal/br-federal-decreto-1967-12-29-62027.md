@@ -1,5 +1,3 @@
-###DEC-062027-0-000-29-12-1967@@@
-
 DECRETO Nº 62.027, DE 29 DE DEZEMBRO DE 1967.
 
 Enquadra Professor nas condições que menciona.

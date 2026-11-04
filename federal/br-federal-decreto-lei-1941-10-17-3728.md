@@ -1,5 +1,3 @@
-###DEL-003728-0-000-17-10-1941@@@
-
 DECRETO-LEI N. 3.728 – DE 17 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 338:900$0 à verba que especifica

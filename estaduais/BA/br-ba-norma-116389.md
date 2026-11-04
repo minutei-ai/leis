@@ -4,21 +4,24 @@ Estabelece normas supletivas de Direito Penitenciário, tendo em vista as conces
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES GERAIS E INTRODUTÓRIAS
 
 Art. 1º - Os benefícios instituídos pela Lei Federal nº 6.416, de 24 de maio de 1977, que alterou o sistema de execução de penas privativas de liberdade previsto no Código Penal (Dec.Lei nº 2.840, de 07/12/40), serão concedidos de acordo com as normas supletivas e o rito procedimental previstos nesta Lei, ressalvada a aplicação do Código de Processo Penal, no que pertinente, e dos Regimentos Internos dos estabelecimentos penitenciários do Estado da Bahia, desde que guardem compatibilidade.
 
 Parágrafo único - Esta Lei não exclui, por igual, a atividade correicional e disciplinar do Tribunal de Justiça da Bahia, inclusive de sua Corregedoria Geral, que poderá, através de Resoluções e Provimentos, editar outras normas supletivas e de orientação aos Juízos de Direito quanto à aplicação e execução desta Lei.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO REGIME FECHADO DE EXECUÇÃO PENAL
 
 Art. 2º - Os condenados a penas privativas de liberdade não atingidos, desde o início da execução, pelos benefícios do regime semi-aberto ou aberto, por força de exclusão decorrente do § 5º do artigo 30 do Código Penal, ou desta Lei, cumprirão suas penas em regime fechado, de segurança máxima, sem prejuízo, porém, de outros benefícios, também constantes desta Lei, compatíveis com o regime fechado, e da progressão para os regimes semi-aberto e aberto, obedecidas as condições da Lei Federal e destas disposições supletivas.
 
 Parágrafo único - A execução penal, em regime fechado, ocorrerá, necessariamente, no setor de segurança da Penitenciária "Lemos Brito", ou de Presídio Regional do interior do Estado, ou estabelecimento outro que venha a ser criado para o fim previsto neste artigo.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO REGIME SEMI
 
 Art. 3º - O Juízo do processo poderá determinar que o condenado não perigoso, cuja pena não ultrapasse oito (08) anos, seja recolhido a estabelecimento penal de regime semi-aberto, deste o início da execução.
@@ -33,7 +36,8 @@ Art. 6º - Qualquer infringência às normas de conduta, devidamente comprovada,
 
 CAPÍTULO IV
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DO REGIME ABERTO DE EXECUÇÃO PENAL PRISÃO
 
 Art. 7º - Ao condenado não perigoso poderá o Juízo determinar que a pena privativa de liberdade seja cumprida sob regime aberto de prisão-albergue:
@@ -48,7 +52,8 @@ Parágrafo único - Os condenados por crimes previstos nos artigos 157, 158, 159
 
 Art. 8º - O cálculo das penas, nas hipóteses do artigo anterior, quando houver mais de uma condenação, far-se-á pela soma das que tiverem sido aplicadas, em continuidade de execução, não se descontando o cumprimento, total ou parcial, de qualquer delas.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 APLICAÇÃO NA SENTENÇA CONDENATÓRIA
 
 Art. 9º - Na hipótese prevista no [art. 7º, inciso I](https://www.legislabahia.ba.gov.br/documentos/lei-no-3665-de-26-de-junho-de-1978#LO_3_665_Art__7_I) , a prisão-albergue poderá ser concedida na própria sentença que impuser a pena privativa de liberdade, de ofício ou a requerimento do réu, desde que apurado, no curso da ação penal e assim declarado na sentença, ou decisão, ser o réu não perigoso.
@@ -67,12 +72,14 @@ Art. 12 - Nas Comarcas do Interior, ao Juízo do processo também caberá a dete
 
 Art. 13 - Aplica-se à espécie de prisão-albergue disciplinada nesta seção, no que couber, o disposto na seção IV deste Capítulo.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 APLICAÇÃO NA FASE DE EXECUÇÃO
 
 Art. 14 - Nas hipóteses previstas no [art. 7º, incisos II](https://www.legislabahia.ba.gov.br/documentos/lei-no-3665-de-26-de-junho-de-1978#LO_3_665_Art__7_II) e [III](https://www.legislabahia.ba.gov.br/documentos/lei-no-3665-de-26-de-junho-de-1978#LO_3_665_Art__7_III) , o regime aberto de prisão-albergue poderá ser concedido pelo Juízo das Execuções Penais, a requerimento ou de ofício.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DO PROCEDIMENTO
 
 Art. 15 - Quando não concedida na sentença condenatória, a prisão-albergue será requerida ao Juízo das Execuções Penais pelo sentenciado, seu cônjuge ou ascendente, e, na falta destes, sucessivamente, pelo descendente ou irmão, ou por iniciativa do Presidente do Patronato de Presos e Egressos, órgão anexo ao Conselho Penitenciário.
@@ -103,7 +110,8 @@ Art. 22 - Se na sentença condenatória houver sido imposta medida de segurança
 
 Art. 23 - O benefício do regime aberto de prisão-albergue não será concedido aos condenados perigosos, assim reconhecidos ou presumidos (art. 77, 78 e seus incisos, C.P.).
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DAS NORMAS MÍNIMAS DE CONDUTA
 
 Art. 24 - Quando da concessão do regime aberto de prisão-albergue, o Juízo fixará as normas de conduta a que ficará sujeito o albergado, segundo seu prudente arbítrio, adotando condições adequadas à natureza do crime e à personalidade do condenado.
@@ -126,14 +134,16 @@ Parágrafo único - Nas Comarcas onde não houver estabelecimentos próprios man
 
 Art. 26 - Mediante representação da autoridade encarregada da vigilância e assistência ao albergado, a requerimento deste ou do Ministério Público, ou, ainda, de ofício, poderá o Juízo modificar as normas mínimas fixadas, substituí-las, ou estabelecer outras.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 DA SUSPENSÃO E REVOGAÇÃO DO BENEFÍCIO
 
 Art. 27 - Qualquer infringência às normas de conduta, assim como a prática de crime ou contravenção serão comunicadas ao Juízo pela autoridade encarregada da vigilância e assistência ao albergado.
 
 Art. 28 - Apuradas as circunstâncias acima fixadas e ouvido o Ministério Público, poderão acarretar a suspensão temporária do regime aberto de prisão-albergue, ou a sua definitiva revogação, recolhendo-se o condenado à prisão comum, ou retornando ao regime semi-aberto, conforme o caso.
 
-SEÇÃO VII -<br>
+SEÇÃO VII -
+
 DO LOCAL PARA ALBERGAMENTO
 
 Art. 29 - Os estabelecimentos penitenciários da Comarca da Capital, os Presídios Regionais, as Cadeias Públicas e estabelecimentos similares manterão dependências separadas dos demais presos para os albergados enquanto no local não houver estabelecimento apropriado e específico, da Secretaria da Justiça.
@@ -142,7 +152,8 @@ Parágrafo único - Em situações excepcionais, o Juiz, verificando que os esta
 
 Art. 30 - Os responsáveis pelos estabelecimentos indicados no artigo anterior fiscalizarão a obediência aos horários de recolhimento, comunicando ao Juízo qualquer infração.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO CUMPRIMENTO DA PENA EM PRISÃO DA COMARCA DA CONDENAÇÃO OU DA RESIDÊNCIA DO CONDENADO
 
 Art. 31 - O Juízo do processo poderá permitir que o condenado não perigoso cumpra a pena em prisão da Comarca da condenação ou da residência do condenado, também guardada a separação dos presos provisórios, e desde que a pena não ultrapasse oito (08) anos.
@@ -157,7 +168,8 @@ Art. 33 - Aos condenados a que forem impostas medidas de segurança detentivas (
 
 Art. 34 - O Juízo da Vara das Execuções Penais da Comarca da Capital é o competente para apreciar os incidentes da execução da pena do condenado que a cumpra na Comarca da condenação ou de sua residência, salvo os da competência privativa do Juízo do processo.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DO TRABALHO EXTERNO
 
 Art. 35 - O Juízo da Vara das Execuções Penais da Comarca da Capital, em relação aos condenados submetidos ao regime fechado e semi-aberto, desde que adotadas as cautelas próprias contra a fuga e em favor da disciplina, poderá permitir o trabalho externo remunerado, ouvido o Conselho Penitenciário e o Ministério Público.
@@ -168,14 +180,16 @@ Art. 36 - O pedido será instruído com informação do Diretor do estabelecimen
 
 Art. 37 - A apreciação do pedido obedecerá ao procedimento previsto na [Seção IV do Capítulo IV](https://www.legislabahia.ba.gov.br/documentos/lei-no-3665-de-26-de-junho-de-1978#LO_3_665_Capitulo_4_Se%C3%A7ao_4) , no que couber.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DA FREQUÊNCIA A CURSO PROFISSIONALIZANTE, CURSO DE SEGUNDO GRAU OU SUPERIOR, FORA DO ESTABELECIMENTO
 
 Art. 38 - O Juízo da Vara das Execuções Penais, em relação aos condenados submetidos a qualquer dos três (03) regimes de execução, desde que adotadas as cautelas próprias contra a fuga e em favor da disciplina em relação aos condenados sujeitos aos regimes fechado e semi-aberto, poderá permitir a freqüência a curso profissionalizante, curso de segundo grau ou superior, fora do estabelecimento, ouvido o Conselho Penitenciário e o Ministério Público.
 
 Art. 39 - O pedido, que será instruído com a prova da matrícula, ou reserva desta, obedecerá ao procedimento previsto na [Seção IV do Capítulo IV](https://www.legislabahia.ba.gov.br/documentos/lei-no-3665-de-26-de-junho-de-1978#LO_3_665_Capitulo_4_Se%C3%A7ao_4) , no que couber.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DAS LICENÇAS PERIÓDICAS E PARA VISITAS À FAMÍLIA DO CONDENADO
 
 Art. 40 - O Juízo da Vara das Execuções Penais e o Juízo do processo poderão conceder licença para visitas à família, em datas ou ocasiões especiais, bem assim licenças periódicas para ir à sua igreja, ou para participar de atividades que concorram para a emenda e reintegração ao convívio social, aos condenados que estejam sujeitos ao regime aberto e, com mais restrições, aos que estejam em regime semi-aberto.
@@ -184,7 +198,8 @@ Parágrafo único - As licenças referidas neste artigo não são incompatíveis
 
 Art. 41 - O pedido, que será instruído com a informação do diretor do estabelecimento prisional sobre o comportamento carcerário e a conveniência e/ou oportunidade da concessão, obedecerá ao procedimento previsto na [Seção IV do Capítulo IV](https://www.legislabahia.ba.gov.br/documentos/lei-no-3665-de-26-de-junho-de-1978#LO_3_665_Capitulo_4_Se%C3%A7ao_4) , no que couber.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DISPOSIÇÕES FINAIS
 
 Art. 42 - Considera-se condenado não perigoso, de escassa ou nenhuma perigosidade, aquele não enquadrado nos artigos 77, 78 e seus respectivos incisos, todos do Código Penal, com a redação que lhes deu a Lei Federal nº 6.416, de 24/05/1977, vale dizer, perigosos como tais reconhecidos, ou por força de presunção legal.

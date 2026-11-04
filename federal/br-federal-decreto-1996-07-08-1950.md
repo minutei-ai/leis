@@ -1,5 +1,3 @@
-###DEC-001950-0-000-08-07-1996@@@
-
 DECRETO Nº 1.950, DE 8 DE JULHO DE 1996
 
 Promulga o Acordo de Cooperação para a Redução da Demanda, Prevenção do Uso Indevido e Combate à Produção e ao Tráfico Ilícito de Entorpecentes e Substâncias Psicotrópicas, entre o Governo da República Federativa do Brasil e o Governo da República de Cuba.

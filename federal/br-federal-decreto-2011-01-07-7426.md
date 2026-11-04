@@ -1,5 +1,3 @@
-###DEC-007426-0-000-07-01-2011-PUB-01@@@
-
 DECRETO Nº 7.426, DE 7 DE JANEIRO DE 2011
 
 Dispõe sobre a transferência da Secretaria Nacional de Políticas sobre Drogas, do Conselho Nacional de Políticas sobre Drogas - CONAD e da gestão do Fundo Nacional Antidrogas - FUNAD do Gabinete de Segurança Institucional da Presidência da República para o Ministério da Justiça, bem como sobre remanejamento de cargos para a Defensoria Pública da União.

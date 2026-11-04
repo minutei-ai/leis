@@ -1,5 +1,3 @@
-###DEC-060952-0-000-06-07-1967@@@
-
 DECRETO Nº 60.952, DE 6 DE JULHO DE 1967.
 
 Transfere da Prefeitura Municipal de Monte Alegre de Minas para Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no município Monte Alegre de Minas, Estado de Minas Gerais, e da outras providências.

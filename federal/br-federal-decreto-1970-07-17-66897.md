@@ -1,5 +1,3 @@
-###DEC-066897-0-000-17-07-1970@@@
-
 DECRETO Nº 66.897, DE 17 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 23.563, de dezenove de agosto de 1947.

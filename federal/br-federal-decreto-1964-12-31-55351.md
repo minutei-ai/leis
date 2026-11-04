@@ -1,5 +1,3 @@
-###DEC-055351-0-000-31-12-1964@@@
-
 decreto nº 55.351, de 31 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Gheorghe Popescu a lavrar areia quartzosa nos municípios de Peruibe e Itanhaem, Estado de São Paulo.

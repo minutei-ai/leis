@@ -1,5 +1,3 @@
-###DEC-050478-0-000-19-04-1961@@@
-
 DECRETO Nº 50.478, DE 19 DE ABRIL DE 1961.
 
 Regula a aplicação sôbre os vencimentos do pessoal do Batalhão Suez, do Disposto no Decreto número 50.369, de 21 de março de 1961.

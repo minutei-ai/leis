@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212292)<br>
-
 # DECRETO N° 70.412, DE 02 DE MARÇO DE 2026
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Ubatuba, que declarou Situação de Emergência em áreas do Município._

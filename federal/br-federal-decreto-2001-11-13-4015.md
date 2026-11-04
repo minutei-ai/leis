@@ -1,5 +1,3 @@
-###DEC-004015-0-000-13-11-2001@@@
-
 DECRETO Nº 4.015, DE 13 DE NOVEMBRO DE 2001
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo de Complementação Econômica nº 39, entre os Governos da República Federativa do Brasil e da República da Colômbia, da República do Equador, da República do Peru e da República Bolivariana da Venezuela (países-membros da Comunidade Andina), de 8 de agosto de 200l.

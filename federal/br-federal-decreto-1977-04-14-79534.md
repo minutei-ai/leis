@@ -1,5 +1,3 @@
-###DEC-079534-0-000-14-04-1977@@@
-
 DECRETO Nº 79.534, DE 14 DE ABRIL DE 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Rural de Tupaciguara Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Tupaciguara, Estado de Minas Gerais.

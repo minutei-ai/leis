@@ -1,5 +1,3 @@
-###DEC-086816-0-000-05-01-1982@@@
-
 decreto nº 86.816, de 05 de janeiro de 1982
 
 Dispõe sobre a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-095254-0-000-18-11-1987@@@
-
 DECRETO N° 95.254, DE 18 DE NOVEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado na Rua Conceição, n.° 150, na cidade de Campinas, Estado de São Paulo, destinado ao Tribunal Regional do Trabalho da 15ª Região.

@@ -1,5 +1,3 @@
-###DEC-089133-0-000-07-12-1983@@@
-
 Decreto nº 89.133, de 07 de dezembro de 1983
 
 Altera a composição da Comissão Nacional para os Assuntos da Associação Latino-Americana de Integração (CNAALADI) e dá outras providências.
@@ -59,8 +57,6 @@ Brasília, 07 de dezembro de 1983; 162º da Independência e 95º da República.
 JOÃO FIGUEIREDO
 
 João Clemente Baena Soares
-
-###DEC-089133-0-000-07-12-1983@@@RET01+++
 
 DECRETO Nº 89.133, DE 07 DE DEZEMBRO DE 1983
 

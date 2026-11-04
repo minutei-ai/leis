@@ -1,7 +1,3 @@
-1
-
-###DEC-000737-0-000-28-01-1993@@@
-
 DECRETO N° 737, DE 28 DE JANEIRO DE 1993
 
 Dispõe sobre a Ordem Nacional do Mérito Educativo.

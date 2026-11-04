@@ -1,5 +1,3 @@
-###DEC-057003-0-000-11-10-1965@@@
-
 Decreto nº 57.003, de 11 de outubro de 1965.
 
 Cria o Grupo Executivo de Integração da Política de Transportes (GEIPOT) e o Fundo de Pesquisas de Transportes, dando outras providências.

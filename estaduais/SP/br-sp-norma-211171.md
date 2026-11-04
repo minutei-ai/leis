@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211171)<br>
-
 # DECRETO N° 69.684, DE 08 DE JULHO DE 2025
 
 ### _Autoriza a outorga de uso, ao Município de Guarujá, do imóvel que especifica, e dá providências correlatas._

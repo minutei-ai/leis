@@ -1,5 +1,3 @@
-###DEC-004958-0-000-15-01-2004@@@
-
 DECRETO Nº 4.958,  DE 15 DE JANEIRO DE 2004.
 
 Fixa para a Marinha do Brasil o número de vagas para promoção obrigatória de Oficiais, para os Corpos e Quadros que menciona, no ano-base de 2003.

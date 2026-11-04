@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/28f50be4-e2c8-4c99-89a8-46c0be4b0490/texto#nowhere)
 
-###DEL-000846-0-000-09-09-1969@@@
-
 DECRETO-LEI Nº 846, DE 9 DE SETEMBRO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério da Aeronáutica o crédito especial de NCr$9.605.904,00 para o fim que especifica.

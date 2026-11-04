@@ -1,5 +1,3 @@
-###DEC-073991-0-000-26-04-1974@@@
-
 DECRETO Nº 73.991, DE 26 DE ABRIL DE 1974.
 
 Concede autorização às Companhias Arthur Levy Boat Service, Inc. e Arthur Levy do Brasil, Serviços Marítimo Ltda., para operarem na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

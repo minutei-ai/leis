@@ -1,5 +1,3 @@
-###DEC-095305-0-000-25-11-1987@@@
-
 DECRETO N° 95.305, DE 25 DE NOVEMBRO DE 1987
 
 Outorga concessão à RÁDIO CANTAGALO DE JAICÓS LTDA., para explorar serviço de radiodifusão sonora em onde média, na cidade de Jaicós, Estado do Piauí.

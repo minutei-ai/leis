@@ -1,5 +1,3 @@
-###DEL-003197-0-000-14-04-1941@@@
-
 DECRETO-LEI N. 3.197 – DE 14 DE ABRIL DE 1941
 
 Autoriza a novação do contrato de concessão do Porto de Cabedelo

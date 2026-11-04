@@ -1,5 +1,3 @@
-###DEC-054032-0-000-20-07-1964@@@
-
 Decreto nº 54.032, de 20 de julho de 1964.
 
 Altera a redação do artigo 2.º do Regulamento aprovado pelo Decreto nº 53.944, de 4 de junho de 1964.

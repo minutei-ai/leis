@@ -1,5 +1,3 @@
-###DEC-048735-0-000-04-08-1960@@@
-
 DECRETO Nº 48.735, DE 04 DE agôsto DE 1960.
 
 Abre, pelo Ministério da Viação e obras Públicas, o crédito especial de Cr$ 7.000.000.000,00, para o fim que menciona.

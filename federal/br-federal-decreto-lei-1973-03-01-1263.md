@@ -1,5 +1,3 @@
-###DEL-001263-0-000-01-03-1973@@@
-
 DECRETO-LEI N. 1.263 – DE 1 DE MARÇO DE 1973
 
 Reajusta os vencimentos, proventos e salários  aos servidores da  Secretaria Geral do Tribunal de Contas da União, e dá outras providências.

@@ -6,7 +6,17 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU, E EU, PREF
 
 Art. 1º Fica o Poder Executivo Municipal autorizado a receber do Estado de Goiás, o Imóvel de Propriedade do Estado, situado no Jardim Maria Inês, neste Município, conforme caracterizado no quadro deste artigo:
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (M²)</td><td style="text-align:center">MATRICULA</td></tr><tr><td style="text-align:center">Lotes 32-55 da Qd. 50</td><td style="text-align:center">6.145,24</td><td style="text-align:center">159.813</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (M²)
+
+MATRICULA
+
+Lotes 32-55 da Qd. 50
+
+6.145,24
+
+159.813
 
 Art. 2º A doação do Terreno de que trata o art. 1º, desta lei, destina-se a Município de Aparecida de Goiânia.
 
@@ -18,8 +28,10 @@ Art. 4º Esta Lei entra em vigor na data da sua publicação.
 
 Gabinete do Prefeito do Município de Aparecida Goiânia-GO, 24 de junho de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

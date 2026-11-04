@@ -1,5 +1,3 @@
-###DEC-066846-0-000-03-07-1970@@@
-
 DECRETO Nº 66.846, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Venerável Ordem Terceira de São Francisco da Penitência, com sede em Belém,  Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-060372-0-000-11-03-1967@@@
-
 DECRETO Nº 60.372, DE 11 DE MARÇO DE 1967.
 
 Revoga o art. 2º do Decreto nº 1.116, de 1º junho de 1962 e dá outras providências.

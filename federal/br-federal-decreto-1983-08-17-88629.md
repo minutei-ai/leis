@@ -1,5 +1,3 @@
-###DEC-088629-0-000-17-08-1983@@@
-
 Decreto nº 88.629, de 17 de agosto de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Centrais Elétricas do Norte do Brasil S.A.- ELETRONORTE, no Estado do Amazonas.

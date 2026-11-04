@@ -1,5 +1,3 @@
-###DEC-059503-0-000-09-11-1966@@@
-
 DECRETO Nº 59.503, DE 9 DE NOVEMBRO DE 1966.
 
 Declara de utilidade pública a “Federação Brasileira de Associações de Bibliotecários”, com sede em São Paulo, Estado de São Paulo.

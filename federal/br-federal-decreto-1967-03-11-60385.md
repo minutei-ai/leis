@@ -1,5 +1,3 @@
-###DEC-060385-0-000-11-03-1967@@@
-
 DECRETO nº 60.385, DE 11 DE MARÇO DE 1967.
 
 Dispõe sôbre o Representante Permanente Adjunto do Brasil junto às Nações Unidas.

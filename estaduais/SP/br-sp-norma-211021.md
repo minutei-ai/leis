@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211021)<br>
-
 # DECRETO N° 69.586, DE 09 DE JUNHO DE 2025
 
 ### _Delega competência ao Secretário da Fazenda e Planejamento para os fins que especifica._

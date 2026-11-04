@@ -1,5 +1,3 @@
-###DEC-094100-0-000-16-03-1987@@@
-
 DECRETO N° 94.100, DE 16 DE MARÇO DE 1987
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo Comercial n° 15, no setor da indústria químico-farmacêutica.

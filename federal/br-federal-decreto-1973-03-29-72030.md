@@ -1,5 +1,3 @@
-###DEC-072030-0-000-29-03-1973@@@
-
 DECRETO Nº 72.030, DE 29 DE MARÇO DE 1973.
 
 Declara sem efeito o Decreto nº 27.900, de 21 de março de 1950.

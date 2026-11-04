@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211028)<br>
-
 # DECRETO N° 69.588, DE 09 DE JUNHO DE 2025
 
 ### _Disciplina a aplicação, no âmbito da Administração Pública estadual, da Lei federal n° 12.846, de 1° de agosto de 2013, que dispõe sobre a responsabilização administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública, nacional ou estrangeira, e dá outras providências._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1°-** Este decreto disciplina a aplicação da Lei federal n° 12.846, de 1° de agosto de 2013, no âmbito dos órgãos e entidades da Administração Pública estadual direta e indireta.
@@ -39,10 +38,12 @@ VII - unidade de corregedoria: unidade dos órgãos e das entidades da Administr
 
 **Parágrafo único -** Os atos previstos como infrações administrativas nas Leis federais n° 8.666, de 21 de junho de 1993, e n° 14.133, de 1° de abril de 2021, ou em outras normas de licitações e contratos administrativos, tipificados também como atos lesivos na Lei federal n° 12.846, de 1° de agosto de 2013, serão apurados e julgados conjuntamente nos mesmos autos, observando-se o rito procedimental e a autoridade competente previstos neste decreto.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Responsabilização Administrativa
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Das Competências
 
 **Artigo 4° -** A competência para a instauração e para o julgamento do PAR é da autoridade máxima do órgão ou da entidade em face do qual foi praticado o ato lesivo.
@@ -87,7 +88,8 @@ V - disponibilizar e manter sistema informatizado para registro e condução dos
 
 **§ 2° -** Os órgãos e entidades da Administração Pública estadual deverão encaminhar à Controladoria Geral do Estado os documentos e informações que lhes forem solicitados, nos prazos assinalados.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Apuração Preliminar e do Processo Administrativo de Responsabilização
 
 **Artigo 7° -** A apuração preliminar e o PAR serão regidos pelos princípios da legalidade, impessoalidade, moralidade, razoabilidade, proporcionalidade, finalidade, supremacia do interesse público e motivação dos atos administrativos e serão conduzidos de modo a preservar os direitos de personalidade das partes envolvidas.
@@ -98,7 +100,8 @@ Da Apuração Preliminar e do Processo Administrativo de Responsabilização
 
 **§ 3° -** Para os fins desse decreto, equipara-se ao denunciante o agente público que realizar a representação a que se refere o inciso V do artigo 241 da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), quando a análise preliminar de que trata o artigo 8° deste decreto resultar em instauração de apuração preliminar ou de procedimento sancionatório.
 
-#### Subseção I<br>
+#### Subseção I
+
 Do recebimento de notícias de irregularidade e da análise preliminar
 
 **Artigo 8° -** Recebida a notícia de irregularidade, caberá às unidades de apuração preliminar ou unidades de corregedoria realizar análise preliminar das informações apresentadas e recomendar à autoridade competente:
@@ -125,7 +128,8 @@ c) as provas e evidências que permitam a tipificação da conduta e imputação
 
 **§ 5° -** Caso sejam identificados indícios de irregularidade com repercussão cível ou penal, deverá ser encaminhada cópia dos autos à autoridade competente para a respectiva apuração.
 
-#### Subseção II<br>
+#### Subseção II
+
 Da Apuração Preliminar
 
 **Artigo 9° -** O ato de instauração da apuração preliminar será fundamentado, delimitará o escopo da investigação e caberá à autoridade competente para instauração do procedimento sancionatório respectivo, admitida a delegação desta competência a seus subordinados.
@@ -194,7 +198,8 @@ III - remeter os autos à autoridade competente para a instauração de procedim
 
 **Parágrafo único -** Caso sejam identificados indícios de irregularidade com repercussão disciplinar, cível ou penal, deverá ser encaminhada cópia dos autos à autoridade competente para a respectiva apuração.
 
-#### Subseção III<br>
+#### Subseção III
+
 Do Processo Administrativo de Responsabilização - PAR
 
 **Artigo 15 -** No ato de instauração do PAR, a autoridade editará portaria, a ser publicada no Diário Oficial do Estado de São Paulo - DOESP, na qual:
@@ -303,7 +308,8 @@ V - as condições necessárias para a concessão da reabilitação, quando cab�
 
 **Artigo 25 -** A pessoa jurídica contra a qual foram impostas sanções no PAR e que não apresentar pedido de reconsideração ou recurso hierárquico deverá cumpri-las no prazo de 30 (trinta) dias, contados da data da publicação da decisão condenatória.
 
-#### Subseção IV<br>
+#### Subseção IV
+
 Do Termo de Compromisso
 
 **Artigo 26 -** A pessoa jurídica investigada no âmbito de apuração preliminar ou processada no âmbito de PAR poderá, até a conclusão do relatório final da comissão processante, requerer a celebração de termo de compromisso junto à Controladoria Geral do Estado.
@@ -404,10 +410,12 @@ III - poderão ser aplicadas as demais sanções e consequências previstas nas 
 
 **Parágrafo único -** O descumprimento do termo de compromisso será registrado pela Controladoria Geral do Estado no Cadastro Nacional de Empresas Punidas - CNEP.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Sanções Administrativas e Medidas judiciais
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Das Sanções Administrativas
 
 **Artigo 32 -** Observado o disposto nos artigos 6° e 7° da Lei federal n° 12.846, de 1° de agosto de 2013, as pessoas jurídicas estão sujeitas, isolada ou cumulativamente, às seguintes sanções administrativas:
@@ -418,7 +426,8 @@ II - publicação extraordinária da decisão administrativa sancionadora.
 
 **Parágrafo único -** A pessoa jurídica está sujeita, também, à sanção de declaração de inidoneidade para licitar ou contratar, na forma do artigo 159 da Lei federal n° 14.133, de 1° de abril de 2021.
 
-#### Subseção I<br>
+#### Subseção I
+
 Da Multa
 
 **Artigo 33 -** A multa prevista no inciso I do artigo 6° da Lei federal n° 12.846, de 1° de agosto de 2013, terá como base de cálculo o faturamento bruto da pessoa jurídica no último exercício anterior ao da instauração do PAR ou do procedimento de acordo de leniência, excluídos os tributos.
@@ -545,7 +554,8 @@ c) R$ 60.000.000,00 (sessenta milhões de reais), na hipótese prevista no pará
 
 **§ 6° -** A quitação das obrigações financeiras poderá ser realizada mediante compensação de eventuais créditos da pessoa jurídica com o Estado, quando cabível.
 
-#### Subseção II<br>
+#### Subseção II
+
 Da Publicação Extraordinária da Decisão Condenatória
 
 **Artigo 42 -** A pessoa jurídica sancionada administrativamente pela prática de atos lesivos contra a Administração Pública, nos termos da Lei federal n° 12.846, de 1° de agosto de 2013, publicará a decisão administrativa sancionadora na forma de extrato de sentença, cumulativamente:
@@ -558,14 +568,16 @@ III - em seu sítio eletrônico, pelo prazo mínimo de 30 (trinta) dias e em des
 
 **Parágrafo único -** A publicação a que se refere o "caput" deste artigo será feita às expensas da pessoa jurídica sancionada.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Medidas Judiciais
 
 **Artigo 43 -** As medidas judiciais necessárias à execução deste decreto serão solicitadas, conforme o caso, à Procuradoria Geral do Estado, ou ao órgão de representação judicial da entidade lesada.
 
 **Parágrafo único -** Concluído o PAR, será remetida cópia integral dos autos à Procuradoria Geral do Estado ou ao órgão de representação judicial da entidade lesada, para os fins a que alude o artigo 19 da Lei federal n° 12.846, de 1° de agosto de 2013.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Acordo de Leniência
 
 **Artigo 44 -** O acordo de leniência é ato administrativo negocial decorrente do exercício do poder sancionador do Estado, que visa à responsabilização de pessoas jurídicas pela prática de atos lesivos contra a Administração Pública.
@@ -748,7 +760,8 @@ V - higidez das garantias apresentadas no acordo.
 
 **Artigo 64 -** Os acordos de leniência celebrados serão publicados em transparência ativa no sítio eletrônico da Controladoria Geral do Estado, respeitados os sigilos legais e o interesse das investigações.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Do Programa de Integridade da Pessoa Jurídica
 
 **Artigo 65 -** O programa de integridade da pessoa jurídica deve ser estruturado, aplicado e atualizado de acordo com as características e os riscos atuais das atividades de cada pessoa jurídica, a qual, por sua vez, deve garantir o constante aprimoramento e a adaptação do referido programa, visando garantir sua efetividade.
@@ -813,7 +826,8 @@ XIV - monitoramento contínuo do programa de integridade visando ao seu aperfei�
 
 **§ 2° -** A efetividade do programa de integridade em relação ao ato lesivo objeto de apuração será considerada para fins da avaliação de que trata o "caput" deste artigo.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Disposições Finais
 
 **Artigo 67 -** As informações referentes ao PAR instaurado no âmbito da Administração Pública estadual direta e indireta serão registradas no sistema de gerenciamento eletrônico de processos administrativos sancionadores mantido pela Controladoria Geral do Estado, conforme resolução do Controlador Geral do Estado.

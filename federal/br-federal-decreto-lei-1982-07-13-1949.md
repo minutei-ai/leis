@@ -1,5 +1,3 @@
-###DEL-001949-0-000-13-07-1982@@@
-
 # Decreto-lei nº 1949, de 13 de julho de 1982
 
 Cancela débitos fiscais decorrentes da exportação de suco de laranja, no período que menciona.

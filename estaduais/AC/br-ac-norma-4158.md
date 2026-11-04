@@ -1,6 +1,10 @@
 > **LEI Nº 3.657, DE 11 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera Lei nº 3.549, de 2 de dezembro de 2019, que Institui o Regime de Previdência Complementar do Estado para os servidores titulares de cargos efetivos, inclusive os membros dos órgãos e Poderes que menciona; fixa o limite máximo para a concessão de aposentadorias e pensões pelo regime de previdência de que trata o art. 40 da Constituição Federal.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera Lei nº 3.549, de 2 de dezembro de 2019, que Institui o Regime de Previdência Complementar do Estado para os servidores titulares de cargos efetivos, inclusive os membros dos órgãos e Poderes que menciona; fixa o limite máximo para a concessão de aposentadorias e pensões pelo regime de previdência de que trata o art. 40 da Constituição Federal.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

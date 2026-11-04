@@ -1,5 +1,3 @@
-###DEC-045957-0-000-04-05-1959@@@
-
 Decreto nº 45.957, de 4 de maio de 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-092425-0-000-25-02-1986@@@
-
 DECRETO Nº 92.425, DE 25 DE FEVEREIRO DE 1986
 
 Autoriza o funcionamento do curso de Administração Pública da Fundação Escola de Serviço Público do Estado do Rio de Janeiro.

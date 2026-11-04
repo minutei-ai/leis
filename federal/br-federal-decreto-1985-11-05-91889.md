@@ -1,5 +1,3 @@
-###DEC-091889-0-000-05-11-1985@@@
-
 Decreto nº 91.889, de 05 de novembro de 1 985.
 
 Declara como Área de Relevante Interesse Ecológico - ARIE a Ilha denominada Ameixal, situada no Rio Una, no Estado de São Paulo, e dá outras providências.

@@ -12,11 +12,14 @@ Art. 2º O art. 9º da Lei Complementar nº 6.111/2012 passa a viger acrescido d
 
 ...................................................................................................
 
-§ 3º A jornada de trabalho dos especialistas em saúde, titulares do cargo de médico, será de 20 (vinte) horas semanais, podendo o servidor médico ser enquadrado, de forma definitiva, no regime de 40 (quarenta) horas semanais.<br>
-§ 4º O titular do cargo de médico que estiver no regime de 20 horas semanais não poderá ser enquadrado no regime de 40 horas semanais sem sua expressa anuência.<br>
+§ 3º A jornada de trabalho dos especialistas em saúde, titulares do cargo de médico, será de 20 (vinte) horas semanais, podendo o servidor médico ser enquadrado, de forma definitiva, no regime de 40 (quarenta) horas semanais.
+
+§ 4º O titular do cargo de médico que estiver no regime de 20 horas semanais não poderá ser enquadrado no regime de 40 horas semanais sem sua expressa anuência.
+
 § 5º O regime de 40 horas semanais para o especialista em saúde, titular do cargo de médico, será instituído a critério de conveniência e oportunidade da Administração, limitado a 05 (cinco) vagas.
 
-§ 6º O critério de seleção dos servidores médicos para o regime de 40 horas semanais, até o limite fixado no § 5º deste artigo, será definido pelo Secretário Municipal de Saúde.<br>
+§ 6º O critério de seleção dos servidores médicos para o regime de 40 horas semanais, até o limite fixado no § 5º deste artigo, será definido pelo Secretário Municipal de Saúde.
+
 § 7º A remuneração do cargo de médico é fixada em lei (Anexo II – Tabela de Vencimentos) considerando o regime normal de 20 (vinte) horas semanais, mas será devida ao titular do cargo de médico, em regime de 40 (quarenta) horas semanais, pelo valor calculado proporcionalmente (dobra).”
 
 Art. 3º O Anexo I – Quadro Permanente e Correlação com Cargo Horária, da Lei Complementar nº 6.111/2012, passará a viger conforme Anexo Único desta Lei Complementar.
@@ -43,10 +46,8 @@ Secretário Municipal de Saúde
 
 **ANEXO ÚNICO**
 
-<br>
 **ANEXO I, DA LEI COMPLEMENTAR Nº 6.111/2012**
 
-<br>
 **Quadro Permanente e Correlação com Carga Horária**
 
 | Denominação | Carga Horária Semanal | Classe |

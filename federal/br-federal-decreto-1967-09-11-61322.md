@@ -1,5 +1,3 @@
-###DEC-061322-0-000-11-09-1967@@@
-
 DECRETO Nº 61.322, DE 11 DE SETEMBRO DE 1967.
 
 Constitui Grupo de Trabalho Especial para o fim que menciona.

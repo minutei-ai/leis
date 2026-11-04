@@ -1,5 +1,3 @@
-###DEC-049565-0-000-20-12-1960@@@
-
 DECRETO Nº 49.565, DE 20 DE DEZEMBRO DE 1960.
 
 Transforma em Escola Agrotécnica a Escola de Iniciação Agrícola “ Sérgio de Carvalho” e transfere a sua sede de São Francisco do Conde, no Estado da Bahia, para Vitoria da Conquista no mesmo Estado.

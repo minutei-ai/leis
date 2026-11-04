@@ -1,5 +1,3 @@
-###DEC-085898-0-000-13-04-1981@@@
-
 Decreto nº 85.898, de 13 DE abril de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra com benfeitorias, necessárias à formação do Reservatório da Usina Hidrelétrica de Balbina, da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, no Estado do Amazonas.

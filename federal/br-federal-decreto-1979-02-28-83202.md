@@ -1,5 +1,3 @@
-###DEC-083202-0-000-28-02-1979@@@
-
 DECRETO Nº 83.202, DE 28 DE FEVEREIRO DE 1979
 
 Concede à MINERALTO - Mineração Alto Araguaia S.A. o direito de lavrar caulim no Município de Goianira, Estado de Goiás.

@@ -1,5 +1,3 @@
-###MPV-001987-0-025-14-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.987-25, DE 14 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

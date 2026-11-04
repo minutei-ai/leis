@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/98433)<br>
-
 # LEI COMPLEMENTAR N° 1.054, DE 07 DE JULHO DE 2008
 
 ### _Amplia os períodos da licença à gestante, da licença-paternidade e da licença por adoção_

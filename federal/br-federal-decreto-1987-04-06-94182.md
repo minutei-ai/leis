@@ -1,5 +1,3 @@
-###DEC-094182-0-000-06-04-1987@@@
-
 DECRETO Nº 94.182, DE 6 DE ABRIL DE 1987
 
 Renova a concessão outorgada à REDE POPULAR DE COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Porto Alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208180)<br>
-
 # DECRETO N° 67.736, DE 12 DE JUNHO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Triângulo do Sol Auto-Estradas S/A, as áreas necessárias à implantação de dispositivo de entroncamento com retorno no km 350+700m da Rodovia Brigadeiro Faria Lima, SP-326, no Município de Jaboticabal, e dá providências correlatas._

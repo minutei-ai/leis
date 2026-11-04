@@ -1,5 +1,3 @@
-###DEC-051934-0-000-26-04-1963@@@
-
 DECRETO Nº 51.934, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro - José Dias do Carmo, a comprar pedras preciosas.

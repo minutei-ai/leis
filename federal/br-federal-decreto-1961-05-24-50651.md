@@ -1,5 +1,3 @@
-###DEC-050651-0-000-24-05-1961@@@
-
 DECRETO Nº 50.651, DE 24 DE MAIO DE 1961.
 
 Nomeia interventor administrativo na Companhia Fôrça e Luz Norte Fluminense.

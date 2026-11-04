@@ -1,5 +1,3 @@
-###DEL-006298-0-000-28-02-1944@@@
-
 DECRETO-LEI N. 6.298 – DE 28 DE FEVEREIRO DE 1944
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$ 1.158.067,60, para pagamento de requisições de material

@@ -1,5 +1,3 @@
-###DEC-057045-0-000-11-10-1965@@@
-
 Decreto nº 57.045, de 11 de outubro de 1965.
 
 Inclui o Serviço Nacional de Informações entre as comissões previstas no § 2º do art. 18 do Regulamento aprovado pelo Decreto nº 42.808, de 13 de dezembro de 1957.

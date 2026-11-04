@@ -1,5 +1,3 @@
-###DEC-092296-0-000-15-01-1986@@@
-
 DECRETO Nº 92.296, DE 15 DE JANEIRO DE 1986
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Econômicas e Administrativas de Osasco.

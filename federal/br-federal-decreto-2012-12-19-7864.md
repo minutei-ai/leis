@@ -1,5 +1,3 @@
-###DEC-007864-0-000-19-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.864, DE 19 DE DEZEMBRO DE 2012
 
 Altera o Decreto nº 3.905, de 31 de agosto de 2001, que dispõe sobre a composição, indicação, eleição e nomeação dos membros dos órgãos colegiados do Banco do Brasil S.A., para modificar a composição do Conselho de Administração.

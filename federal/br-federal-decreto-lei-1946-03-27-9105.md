@@ -1,5 +1,3 @@
-###DEL-009105-0-000-27-03-1946@@@
-
 DECRETO-LEI  N.  9.105 – DE 27 DE MARÇO DE 1946
 
 Altera, sem aumento de despesa, o Orçamento Geral da República

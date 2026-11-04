@@ -1,5 +1,3 @@
-###DEL-003776-0-000-30-10-1941@@@
-
 DECRETO-LEI N. 3.776 – DE 30 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 623:975$7, à verba que específica

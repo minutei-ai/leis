@@ -1,5 +1,3 @@
-###MPV-002186-0-014-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.186‑14, DE 28 DE JUNHO DE 2001
 
 Regulamenta o inciso II do § 1º  e o § 4º do art. 225 da Constituição, os arts. 1º, 8º, alínea "j", 10, alínea "c", 15 e 16, alíneas 3 e 4 da Convenção sobre Diversidade Biológica, dispõe sobre o acesso ao patrimônio genético, a proteção e o acesso ao conhecimento tradicional associado, a repartição de benefícios e o acesso à tecnologia e transferência de tecnologia para sua conservação e utilização, e dá outras providências.

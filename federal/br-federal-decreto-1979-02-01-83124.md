@@ -1,5 +1,3 @@
-###DEC-083124-0-000-01-02-1979@@@
-
 DECRETO Nº 83.124, DE 01 DE FEVEREIRO DE 1979
 
 Autoriza o Ministro da Fazenda a conceder garantia da República Federativa do Brasil a operações externas.

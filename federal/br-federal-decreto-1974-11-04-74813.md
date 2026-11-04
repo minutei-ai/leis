@@ -1,5 +1,3 @@
-###DEC-074813-0-000-04-11-1974@@@
-
 DECRETO Nº 74.813, DE 4 DE NOVEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora de Aquidauana Ltda. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Aquidauana, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEL-009766-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.766 – DE 6 DE SETEMBRO DE 1946
 
 Altera os arts. 4º e 7º do Decreto-lei nº 7.632, de 12 de Junho de 1945.

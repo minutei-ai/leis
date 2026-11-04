@@ -1,5 +1,3 @@
-###DEC-057112-0-000-19-10-1965@@@
-
 Decreto nº 57.112, de 19 de outubro de 1965.
 
 Aprova as alterações introduzidas nos Estatutos da Atalaia Companhia de Seguros, inclusive extensão das operações de seguros ao Ramo Vida e aumento do capital social.

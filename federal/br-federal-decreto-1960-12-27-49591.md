@@ -1,5 +1,3 @@
-###DEC-049591-0-000-27-12-1960@@@
-
 DECRETo nº 49.591, DE 27 DE DEZEMBRo DE 1960.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$10.000.000,00, para auxiliar o Museu de Arte Moderna do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-006125-0-000-13-06-2007@@@
-
 DECRETO Nº 6.125, DE 13 DE JUNHO DE 2007.
 
 Dá nova redação ao § 1o do art. 1o do Decreto no 4.734, de 11 de junho de 2003, que delega competência para a prática de atos de provimento no âmbito da Administração Pública Federal.
@@ -19,5 +17,3 @@ Brasília, 13 de junho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 14.6.2007.

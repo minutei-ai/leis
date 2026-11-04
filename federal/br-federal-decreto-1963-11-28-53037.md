@@ -1,5 +1,3 @@
-###DEC-053037-0-000-28-11-1963@@@
-
 decreto nº 53.037, de 28 de novembro de 1963.
 
 Autoriza o cidadão brasileiro José do Amaral a pesquisar feldspato, no município de Munhoz, Estado de Minas Gerais.

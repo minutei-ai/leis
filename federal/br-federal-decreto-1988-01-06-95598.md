@@ -1,7 +1,3 @@
-1
-
-###DEC-095598-0-000-06-01-1988@@@
-
 DECRETO N° 95.598, DE 6 DE JANEIRO DE 1988
 
 Cria Comissão Especial para levantamento, preservação e organização do acervo privado documental dos Presidentes da República.

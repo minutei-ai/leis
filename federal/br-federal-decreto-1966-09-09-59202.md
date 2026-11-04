@@ -1,5 +1,3 @@
-###DEC-059202-0-000-09-09-1966@@@
-
 DECRETO Nº 59.202, DE 9 DE SETEMBRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Planalto Companhia de Seguros Gerais, relativas ao aumento do capital social.

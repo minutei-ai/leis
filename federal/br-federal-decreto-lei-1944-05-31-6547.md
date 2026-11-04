@@ -1,5 +1,3 @@
-###DEL-006547-0-000-31-05-1944@@@
-
 DECRETO-LEI N. 6.547 – DE 31 DE MAIO DE 1944
 
 Dá nova redação ao enunciado na parcela de Cr$ 4.500.000,00, do crédito especial aberto pelo Decreto-lei nº 6.056, de 2 de dezembro de 1943, destinada à Estrada de Ferro Central do Rio Grande do Norte.

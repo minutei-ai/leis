@@ -1,5 +1,3 @@
-###DEC-072179-0-000-07-05-1973@@@
-
 DECRETO Nº 72.179, DE 7 DE MAIO DE 1973.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão, no Estado do Rio de Janeiro.

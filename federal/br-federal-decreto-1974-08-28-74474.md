@@ -1,5 +1,3 @@
-###DEC-074474-0-000-28-08-1974@@@
-
 DECRETO Nº 74.474, DE 28 DE AGOSTO DE 1974.
 
 Classifica órgão de deliberação coletiva do Ministério das Comunicações.

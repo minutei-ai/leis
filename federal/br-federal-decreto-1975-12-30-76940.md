@@ -1,5 +1,3 @@
-###DEC-076940-0-000-30-12-1975@@@
-
 DECRETO Nº 76.940, DE 30 DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras de Guarulhos, com sede na cidade de Guarulhos, Estado de São Paulo.

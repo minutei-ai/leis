@@ -1,5 +1,3 @@
-###DEC-079355-0-000-08-03-1977@@@
-
 Decreto nº 79.355, de 8 de março de 1977.
 
 Declara de utilidade publica, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

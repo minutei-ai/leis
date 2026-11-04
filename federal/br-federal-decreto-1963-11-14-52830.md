@@ -1,5 +1,3 @@
-###DEC-052830-0-000-14-11-1963@@@
-
 Decreto nº 52.830, de 14 de novembro de 1963.
 
 Concede à Escola de Administração de Emprêsas de São Paulo, da Fundação Getúlio Vargas.

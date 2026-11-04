@@ -1,5 +1,3 @@
-###DEC-051212-0-000-18-08-1961@@@
-
 DECRETO Nº 51.212, DE 18 DE AGÔSTO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de uma área de terreno situado na cidade de Sant’Ana do Livramento, Estado do Rio Grande do Sul, necessário ao Ministério da Guerra.

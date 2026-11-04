@@ -1,5 +1,3 @@
-###DEC-083429-0-000-09-05-1979@@@
-
 Decreto nº 83.429, de 09 de maio de 1979.
 
 Autoriza a transferência de propriedade de imóvel rural e dá outras providências.

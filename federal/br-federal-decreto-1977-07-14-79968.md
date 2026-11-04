@@ -1,5 +1,3 @@
-###DEC-079968-0-000-14-07-1977@@@
-
 DECRETO Nº 79.968, DE 14 DE JULHO DE 1977
 
 Cria a Estação Naval do Rio de Janeiro e dá outras providências

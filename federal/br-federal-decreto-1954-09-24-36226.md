@@ -1,24 +1,22 @@
-###DEC-036226-0-000-24-09-1954@@@
+**DECRETO Nº 36.226, DE 24 DE SETEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.226, DE 24 DE SETEMBRO DE 1954.</strong>
+***Aprova as cláusulas para revisão da rêde de Viação Férrea do Rio Grande do Sul ao Estado do mesmo nome.***
 
-<em><strong>Aprova as cláusulas para revisão da rêde de Viação Férrea do Rio Grande do Sul ao Estado do mesmo nome.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o art. 87, nº I, da constituição e da determinação constante da Lei número 2.217, de 5 de julho de 1954,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o art. 87, nº I, da constituição e da determinação constante da Lei número 2.217, de 5 de julho de 1954,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as cláusulas que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas, para a revisão do contrato de arrendamento do rede da Viação Férrea do Rio Grande do Sul, para cumprimento do disposto na Lei nº 1954.
 
-<strong>Art</strong>. 1º Ficam aprovadas as cláusulas que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas, para a revisão do contrato de arrendamento do rede da Viação Férrea do Rio Grande do Sul, para cumprimento do disposto na Lei nº 1954.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogados as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogados as disposições em contrário.
 
 Rio de Janeiro, 24 de setembro de 1954;133º da independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Lucas Lopes
 
-<strong>CLÁUSULAS Q QUE SE REFERE O DECRETO Nº 36.226, DE 24 DE SETEMBRO DE 1954</strong>
+**CLÁUSULAS Q QUE SE REFERE O DECRETO Nº 36.226, DE 24 DE SETEMBRO DE 1954**
 
 Cláusula Primeira
 
@@ -50,15 +48,15 @@ A autarquia submeterá à apreciação e aprovação do Ministro da Viação, at
 
 a) escrituração dos resultados positivos do exercício, se houver, a crédito do “Fundo de Melhoramentos”;
 
-b) extração de guia para que o Estado indenize a autarquia de importância do <em>déficit</em> que ultrapassar ao previsto no orçamento aprovado ou:
+b) extração de guia para que o Estado indenize a autarquia de importância do *déficit* que ultrapassar ao previsto no orçamento aprovado ou:
 
-c) extração de guia para que a autarquia recolha, de imediato, à Delegacia Fiscal do Tesouro Nacional, em Pôrto Alegre, o excesso da importância para, nós têrmos do § 1º, sôbre o <em>déficit</em> reconhecido em processo de tomada de contas.
+c) extração de guia para que a autarquia recolha, de imediato, à Delegacia Fiscal do Tesouro Nacional, em Pôrto Alegre, o excesso da importância para, nós têrmos do § 1º, sôbre o *déficit* reconhecido em processo de tomada de contas.
 
-§ 3º No casa de majoração de despesas, em virtude de lei ou ato federal, que determine aumento nós preços de combustível ou nós salários de previdência e assistência social e nós prêmios de seguro vigentes a data da aprovação da proposta orçamentária apresentada pela autarquia, o <em>déficit</em> previsto será reajustado em importância equivalente ao aumento de despesa, cabendo a União providenciar a suplementação da verba orçamentaria destinada à sua cobertura.
+§ 3º No casa de majoração de despesas, em virtude de lei ou ato federal, que determine aumento nós preços de combustível ou nós salários de previdência e assistência social e nós prêmios de seguro vigentes a data da aprovação da proposta orçamentária apresentada pela autarquia, o *déficit* previsto será reajustado em importância equivalente ao aumento de despesa, cabendo a União providenciar a suplementação da verba orçamentaria destinada à sua cobertura.
 
 § 4º Se a autarquia, atendendo ao disposto no art. 8º, item I, da Lei Estadual nº 2.405, modificar o orçamento aprovado pelo Govêrno Federal, os acréscimos de despesa, as possíveis reduções dos saldas previstos e os prejuízos diretos ou indiretos decorrentes das modificações serão indenizadas à autarquia pelo Govêrno do Estado do Rio Grande do Sul.
 
-§ 5º As diferenças entre os <em>déficit</em> do exercício ferroviário reconhecidos em processos de tomada de contas de 1953 e 1954 e as importâncias já recebidas pelo arrendatário nós têrmos da alínea <em>c</em> do artigo 1º, da Lei nº 860, de 13 de outubro de 1949, serão atendidas pelos créditos especiais, respectivamente de CR$ 240.000.000,00 e CR$ 300.000.000,00, autorizados pelo art. 13, da Lei 2.217, aplicando-se já referidas nesta cláusula.
+§ 5º As diferenças entre os *déficit* do exercício ferroviário reconhecidos em processos de tomada de contas de 1953 e 1954 e as importâncias já recebidas pelo arrendatário nós têrmos da alínea *c* do artigo 1º, da Lei nº 860, de 13 de outubro de 1949, serão atendidas pelos créditos especiais, respectivamente de CR$ 240.000.000,00 e CR$ 300.000.000,00, autorizados pelo art. 13, da Lei 2.217, aplicando-se já referidas nesta cláusula.
 
 Cláusula quarta
 
@@ -118,4 +116,4 @@ Parágrafo único. O ajustado neste aditivo vigorará pelo prazo do contrato adi
 
 Rio de Janeiro, em 24 de setembro de 1954.
 
-<strong>LUCAS LOPES</strong>
+**LUCAS LOPES**

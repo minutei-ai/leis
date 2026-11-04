@@ -1,5 +1,3 @@
-###DEL-000268-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 268, 28 DE FEVEREIRO DE 1967
 
 Autoriza a abertura de crédito especial de NCr$350.000 (trezentos e cinqüenta mil cruzeiros novos), ao Ministério da Educação e Cultura.

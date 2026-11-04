@@ -1,5 +1,3 @@
-###DEC-085260-0-000-16-10-1980@@@
-
 Decreto nº 85.260, de 16 de outubro de 1980
 
 Cria, no Ministério da Aeronáutica, a Diretoria de Ensino da Aeronáutica, extingue o Comando de Formação e Aperfeiçoamento e a Diretoria Técnica de Pessoal e dá outras providências.

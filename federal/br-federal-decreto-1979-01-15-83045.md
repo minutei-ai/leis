@@ -1,5 +1,3 @@
-###DEC-083045-0-000-15-01-1979@@@
-
 DECRETO Nº 83.045, DE 15 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplinas Especializadas - Esquemas I e II, ministrado pelo Centro de Formação de Professores de Disciplinas Especializadas de Araçatuba, com sede na cidade de Araçatuba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-055972-0-000-20-04-1965@@@
-
 DECRETO Nº 55.972, DE 20 DE ABRIL DE 1965.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Magé, Estado do Rio de Janeiro.

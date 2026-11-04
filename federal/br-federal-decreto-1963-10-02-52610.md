@@ -1,5 +1,3 @@
-###DEC-052610-0-000-02-10-1963@@@
-
 DECRETO Nº 52.610, DE 2 DE OUTUBRO DE 1963.
 
 Autoriza a Companhia Hidroelétrica do Rio Pardo a construir linhas de transmissão.
@@ -35,8 +33,6 @@ Brasília, 2 de outubro de 1963; 142º da Independência e 75º da República.
 JOÃO GOULART
 
 Antônio de Oliveira Brito
-
-###DEC-052610-0-000-02-10-1963@@@
 
 DECRETO Nº 52.610, DE 2 DE OUTUBRO DE 1963.
 

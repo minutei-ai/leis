@@ -1,5 +1,3 @@
-###DEC-007661-0-000-28-12-2011-PUB-01@@@
-
 DECRETO Nº 7.661, DE 28 DE DEZEMBRO DE 2011
 
 Aprova o Estatuto Social da Empresa Brasileira de Serviços Hospitalares -EBSERH, e dá outras providências.

@@ -24,11 +24,14 @@ Art. 5°. Esta Lei entrará em vigor na data de sua publicação, revogadas as d
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos onze dias do mês de julho de dois mil e seis.
 
-JOSÉ MACEDO DE ARAÚJO<br>
+JOSÉ MACEDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. DE FINANÇAS
 
-ZANONE RODRIGUES PEREIRA<br>
+ZANONE RODRIGUES PEREIRA
+
 SEC. DE FINANÇAS

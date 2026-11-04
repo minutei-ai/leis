@@ -1,5 +1,3 @@
-###DEC-072912-0-000-10-10-1973@@@
-
 DECRETO N.° 72.912, DE OUTUBRO DE 1973.
 
 Dispõe sobre o Grupo - Direção e Assistência Intermediarias e dá outras providências.

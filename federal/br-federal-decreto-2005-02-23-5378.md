@@ -1,5 +1,3 @@
-###DEC-005378-0-000-23-02-2005@@@
-
 DECRETO Nº 5.378, DE 23 DE FEVEREIRO DE 2005
 
 Institui o Programa Nacional de Gestão Pública e Desburocratização - GESPÚBLICA e o Comitê Gestor do Programa Nacional de Gestão Pública e Desburocratização, e dá outras providências.

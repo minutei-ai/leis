@@ -1,5 +1,3 @@
-###DEC-073641-0-000-13-02-1974@@@
-
 DECRETO Nº 73.641, DE 13 DE FEVEREIRO DE 1974.
 
 Declara sem efeito o Decreto número 44.763, de 27 de outubro de 1958, retificado pelo de nº 46.144, de 5 de junho de 1959.

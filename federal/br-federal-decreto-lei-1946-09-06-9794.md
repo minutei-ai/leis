@@ -1,5 +1,3 @@
-###DEL-009794-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.794 – DE 6 DE SETEMBRO DE 1946
 
 Altera a denominação do Serviço de Documentação do Ministério da Agricultura.

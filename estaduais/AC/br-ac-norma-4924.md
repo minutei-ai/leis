@@ -1,6 +1,10 @@
 > **LEI Nº 3.810, DE 22 DE NOVEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de Utilidade Pública Associação de Pais e Amigos de Pessoas com Autismo de Cruzeiro do Sul.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de Utilidade Pública Associação de Pais e Amigos de Pessoas com Autismo de Cruzeiro do Sul.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

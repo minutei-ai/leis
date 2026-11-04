@@ -1,20 +1,18 @@
-###DEC-027907-0-000-23-03-1950@@@
+**DECRETO Nº 27.907, DE 23 DE MARÇO DE 1950.**
 
-<strong>DECRETO Nº 27.907, DE 23 DE MARÇO DE 1950.</strong>
+***Outorga ao Estado do Paraná concessão para o aproveitamento progressivo da energia hidráulica da cachoeira Salto, situada no rio Capivari, município de Bocaiuva do Sul, Estado do Paraná.***
 
-<em><strong>Outorga ao Estado do Paraná concessão para o aproveitamento progressivo da energia hidráulica da cachoeira Salto, situada no rio Capivari, município de Bocaiuva do Sul, Estado do Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra *b*, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra <em>b</em>, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, é outorgada ao Estado do Paraná concessão para o aproveitamento progressivo da energia hidráulica da cachoeira Salto, situada no rio Capivari, município de Bocaiuva do Sul, Estado do Paraná.
+**Art**. 1º Respeitados os direitos de terceiros, é outorgada ao Estado do Paraná concessão para o aproveitamento progressivo da energia hidráulica da cachoeira Salto, situada no rio Capivari, município de Bocaiuva do Sul, Estado do Paraná.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga da derivação e a potência da etapa inicial, bem como das subseqüentes, à medida que forem sendo aprovados os projetos correspondentes.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviços públicos, serviços de utilidade pública e para comércio de energia no município de Bocaiuva do Sul, Estado do Paraná.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de qualquer ato declaratório, se o concessionário não cumprir as seguintes condições:
+**Art**. 2º Caducará o presente título, independente de qualquer ato declaratório, se o concessionário não cumprir as seguintes condições:
 
 I - Registrá-lo na Divisão de Águas, do Ministério da Agricultura, dentro de trinta (30) dias, após a sua publicação.
 
@@ -100,26 +98,26 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações pluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º A concessionária fica obrigada a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias às observações pluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 4º O capital a remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 6º Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 6º Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por quota especial, que incidirá sôbre as tarifas, sob forma de percentagem. Essa quota será determinada, tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época de revisão das tarifas.
 
-<strong>Art</strong>. 7º Findo o prazo da concessão, todos os bens e instalações que, no momento existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterão ao Govêrno Federal, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas mediante indenização na base do custo histórico, de capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º dêste decreto.
+**Art**. 7º Findo o prazo da concessão, todos os bens e instalações que, no momento existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterão ao Govêrno Federal, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas mediante indenização na base do custo histórico, de capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º dêste decreto.
 
 Parágrafo único. Se o Govêrno Federal não fizer uso do seu direito a essa reversão, o concessionário poderá requerer ao Govêrno Federal a concessão seja renovada pela forma que  no respectivo contrato, deverá estar prevista.
 
-<strong>Art</strong>. 8º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 8º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 9º Revogam-se as disposições em contrário.
+**Art**. 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de março de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Souza Duarte

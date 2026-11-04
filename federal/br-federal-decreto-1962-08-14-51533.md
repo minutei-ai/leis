@@ -1,5 +1,3 @@
-###DEC-051533-0-000-14-08-1962@@@
-
 Decreto nº 51.533, de 14 de agôsto de 1962.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito extraordinário de Cr$50.000.000,00 para o fim que especifica.

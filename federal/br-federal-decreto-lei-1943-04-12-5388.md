@@ -1,5 +1,3 @@
-###DEL-005388-0-000-12-04-1943@@@
-
 DECRETO-LEI N. 5.388 - DE 12 DE ABRIL DE 1943
 
 Lei de organização dos quadros e efetivos do Exército - Atualiza disposições contidas no decreto-lei n. 556, de 12 de julho de 1938

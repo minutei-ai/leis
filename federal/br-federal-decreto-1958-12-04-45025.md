@@ -1,5 +1,3 @@
-###DEC-045025-0-000-04-12-1958@@@
-
 DECRETO Nº 45.025, DE 4 DE DEZEMBRO DE 1958.
 
 Outorga ao Estado de Minas Gerais concessão para o aproveitamento de energia hidráulica da cachoeira do Salto, existente no Rio Araguari, distrito sede do Município de Nova Ponte, Estado de Minas Gerais.

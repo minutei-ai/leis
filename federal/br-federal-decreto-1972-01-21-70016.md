@@ -1,5 +1,3 @@
-###DEC-070016-0-000-21-01-1972@@@
-
 DECRETO Nº 70.016, DE 21 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Escola Normal Nossa Senhora do Carmo e Ginásio Leão XIII, com sede em Piranga, Estado de Minas Gerais.

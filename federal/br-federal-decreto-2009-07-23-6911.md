@@ -1,5 +1,3 @@
-###DEC-006911-0-000-23-07-2009@@@
-
 DECRETO Nº 6.911, DE 23 DE JULHO DE 2009.
 
 Acresce artigo ao Decreto no 4.244, de 22 de maio de 2002, que dispõe sobre o transporte aéreo, no País, de autoridades em aeronave do Comando da Aeronáutica.

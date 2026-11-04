@@ -1,5 +1,3 @@
-###DEL-001470-0-000-04-06-1976@@@
-
 # DECRETO-LEI Nº 1.470, DE 4 DE JUNHO DE 1976
 
 Estabelece condição para emissão ou prorrogação de passaporte comum, concessão de visto policial de saída e dá outras providências.

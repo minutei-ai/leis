@@ -1,5 +1,3 @@
-###DEC-087805-0-000-16-11-1982@@@
-
 Decreto nº 87.805, de 16 de novembro de 1982
 
 Declara perempta a concessão outorgada à RÁDIO CULTURA DE ARAÇATUBA LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Araçatuba, Estado de São Paulo.

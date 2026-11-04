@@ -1,5 +1,3 @@
-###DEC-094410-0-000-10-06-1987@@@
-
 DECRETO Nº 94.410, DE 10 DE JUNHO DE 1987
 
 Delega competência para nomeação das autoridades que menciona.

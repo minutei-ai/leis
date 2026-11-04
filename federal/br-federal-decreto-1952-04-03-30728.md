@@ -1,14 +1,12 @@
-###DEC-030728-0-000-03-04-1952@@@
+**DECRETO Nº 30.728, DE 3 DE ABRIL DE 1952.**
 
-<strong>DECRETO Nº 30.728, DE 3 DE ABRIL DE 1952.</strong>
+***Dispõe sôbre a Delegação Governamental Brasileira à V. Conferência dos Estados da América Membros da Organização Internacional do Trabalho.***
 
-<em><strong>Dispõe sôbre a Delegação Governamental Brasileira à V. Conferência dos Estados da América Membros da Organização Internacional do Trabalho.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º A Delegação da V. Conferência dos Estados da América Membros da Organização Internacional do Trabalho será constituída dos seguintes membros, sob a presidência do primeiro:
+**Art**. 1º A Delegação da V. Conferência dos Estados da América Membros da Organização Internacional do Trabalho será constituída dos seguintes membros, sob a presidência do primeiro:
 
 Delegados:
 
@@ -50,13 +48,13 @@ Manoel Cavalcante de Carvalho;
 
 Waldo Carneiro Leão de Vasconcellos.
 
-<strong>Art</strong>. 2º O Ministro da Pasta dos Negócios do Trabalho, Indústria e Comércio designará, oportunamente os assessores técnicos da Delegação Brasileira e respectivo Secretariado.
+**Art**. 2º O Ministro da Pasta dos Negócios do Trabalho, Indústria e Comércio designará, oportunamente os assessores técnicos da Delegação Brasileira e respectivo Secretariado.
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 3 de abril de 1952; 131º da Independência e 64º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Segadas Viana
 

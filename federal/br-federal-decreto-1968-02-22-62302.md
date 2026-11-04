@@ -1,5 +1,3 @@
-###DEC-062302-0-000-22-02-1968@@@
-
 DECRETO Nº 62.302, DE 22 DE FEVEREIRO DE 1968.
 
 Autoriza a Light - Serviços de Eletricidade S.A. a construir linha de transmissão.

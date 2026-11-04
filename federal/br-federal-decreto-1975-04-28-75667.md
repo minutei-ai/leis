@@ -1,5 +1,3 @@
-###DEC-075667-0-000-28-04-1975@@@
-
 decreto nº 75.667, de 28 de abril de 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão subterrânea da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

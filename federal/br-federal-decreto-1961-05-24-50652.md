@@ -1,5 +1,3 @@
-###DEC-050652-0-000-24-05-1961@@@
-
 DECRETO Nº 50.652, DE 24 DE MAIO DE 1961.
 
 Assegura privilégios à radiodifusão de noticiário, palestras e mensagens relacionados com a “Ofensiva contra o Câncer”.

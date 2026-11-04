@@ -1,5 +1,3 @@
-###DEC-048180-0-000-10-05-1960@@@
-
 DECRETO Nº 48.180, DE 10 DE MAIO DE 1960.
 
 Dá nova redação ao Decreto número 47.812, de 25 de fevereiro de 1960.

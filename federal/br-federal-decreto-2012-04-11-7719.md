@@ -1,5 +1,3 @@
-###DEC-007719-0-000-11-04-2012-PUB-01@@@
-
 DECRETO N° 7.719, DE 11 DE ABRIL DE 2012
 
 Altera o art. 152 do Decreto n° 6.514, de 22 de julho de 2008, que dispõe sobre as infrações e sanções administrativas ao meio ambiente e estabelece o processo administrativo federal para apuração destas infrações.

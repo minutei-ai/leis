@@ -1,5 +1,3 @@
-###DEC-053821-0-000-24-03-1964@@@
-
 Decreto nº 53.821, de 24 de março de 1964.
 
 Autoriza o cidadão brasileiro Durval Militão de Araújo a pesquisar água mineral no município de Salgado, Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-057914-0-000-04-03-1966@@@
-
 DECRETO Nº 57.914, DE 4 DE MARÇO DE 1966.
 
 Renova o Decreto nº 52.241, de 9 de julho de 1963.

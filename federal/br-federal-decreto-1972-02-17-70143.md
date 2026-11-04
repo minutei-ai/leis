@@ -1,5 +1,3 @@
-###DEC-070143-0-000-17-02-1972@@@
-
 DECRETO Nº 70.143, DE 17 DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão Goiânia - Anápolis, no Estado de Goiás.

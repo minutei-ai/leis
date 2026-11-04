@@ -1,5 +1,3 @@
-###DEC-078515-0-000-30-09-1976@@@
-
 DECRETO Nº 78.515, DE 30 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências, 1º grau, da Faculdade de Filosofia, Ciências e Letras de Cajazeiras, com sede na Cidade de Cajazeiras, Estado da Paraíba.

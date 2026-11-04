@@ -1,5 +1,3 @@
-###DEC-003177-0-000-16-09-1999@@@
-
 DECRETO Nº 3.177, DE 16 DE SETEMBRO DE 1999.
 
 Dispõe sobre o remanejamento dos cargos, funções e gratificações que menciona, e dá outras providências.

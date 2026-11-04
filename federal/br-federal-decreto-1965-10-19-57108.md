@@ -1,5 +1,3 @@
-###DEC-057108-0-000-19-10-1965@@@
-
 DECRETO Nº 57.108, DE 19 DE OUTUBRO DE 1965.
 
 Aprova o Primeiro Plano de Obras e Estudos do Departamento Nacional de Obras Contra as Sêcas.

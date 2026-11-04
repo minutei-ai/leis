@@ -1,5 +1,3 @@
-###DEC-091234-0-000-08-05-1985@@@
-
 decreto nº 91.234, de 08 de maio de 1985
 
 Altera o art. 1º do Decreto nº 89.615, de 4 de maio de 1984, que autoriza o funcionamento de curso na Faculdade de Ciências Contábeis e Administrativas de São Miguel Paulista.

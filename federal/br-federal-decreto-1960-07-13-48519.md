@@ -1,5 +1,3 @@
-###DEC-048519-0-000-13-07-1960@@@
-
 DECRETO Nº 48.519, DE 13 DE JUNHO DE 1960.
 
 Aprova o aumento de capital do Banco de Crédito Real de Minas Gerais S.A.

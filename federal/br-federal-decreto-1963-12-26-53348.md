@@ -1,5 +1,3 @@
-###DEC-053348-0-000-26-12-1963@@@
-
 Decreto nº 53.348, de 26 de dezembro de 1963.
 
 Aprova alterações introduzidas nos Estatutos da Vera Cruz Companhia Brasileira de Seguros, inclusive aumento do capital social.

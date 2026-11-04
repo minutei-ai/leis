@@ -16,24 +16,284 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO</td><td style=" width:85px;    ">12 122 4100 4145</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 408.875,44</td><td style=" width:85px;    ">R$ 78.515,00</td><td style=" width:85px;    ">R$ 487.390,44</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4152</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.209.011,23</td><td style=" width:85px;    ">R$ 494.900,00</td><td style=" width:85px;    ">R$ 1.703.911,23</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - EDUCACAO ESPECIAL</td><td style=" width:85px;    ">12 367 4100 4160</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 210.151,14</td><td style=" width:85px;    ">R$ 452.950,00</td><td style=" width:85px;    ">R$ 663.101,14</td></tr></tbody></table>
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 1.026.365,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 1.026.365,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO
+
+12 122 4100 4145
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 408.875,44
+
+R$ 78.515,00
+
+R$ 487.390,44
+
+FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - ENSINO MEDIO
+
+12 362 4100 4152
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.209.011,23
+
+R$ 494.900,00
+
+R$ 1.703.911,23
+
+FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - EDUCACAO ESPECIAL
+
+12 367 4100 4160
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 210.151,14
+
+R$ 452.950,00
+
+R$ 663.101,14
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.026.365,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 1.026.365,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">12 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 146.006,74</td><td style=" width:85px;    ">R$ 58.482,03</td><td style=" width:85px;    ">R$ 58.482,03</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 557.620,08</td><td style=" width:85px;    ">R$ 557.620,08</td><td style=" width:85px;    ">R$ 557.620,08</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO</td><td style=" width:85px;    ">12 122 4100 4145</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 6.321,14</td><td style=" width:85px;    ">R$ 295,53</td><td style=" width:85px;    ">R$ 295,53</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA</td><td style=" width:85px;    ">12 366 4100 4157</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 62.770,30</td><td style=" width:85px;    ">R$ 62.770,30</td><td style=" width:85px;    ">R$ 62.770,30</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - EJA</td><td style=" width:85px;    ">12 366 4100 4158</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 336.372,50</td><td style=" width:85px;    ">R$ 77.470,91</td><td style=" width:85px;    ">R$ 77.470,91</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EDUCACAO ESPECIAL</td><td style=" width:85px;    ">12 367 4100 4159</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">12 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 40.000,00</td><td style=" width:85px;    ">R$ 40.000,00</td><td style=" width:85px;    ">R$ 40.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">12 361 4100 4149</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 133.101,80</td><td style=" width:85px;    ">R$ 133.101,80</td><td style=" width:85px;    ">R$ 133.101,80</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EDUCACAO ESPECIAL</td><td style=" width:85px;    ">12 367 4100 4159</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 36.624,35</td><td style=" width:85px;    ">R$ 36.624,35</td><td style=" width:85px;    ">R$ 36.624,35</td></tr></tbody></table>
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 1.026.365,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 1.026.365,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 1.026.365,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 1.026.365,00</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+12 122 4100 4144
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 146.006,74
+
+R$ 58.482,03
+
+R$ 58.482,03
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15000100
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 557.620,08
+
+R$ 557.620,08
+
+R$ 557.620,08
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO
+
+12 122 4100 4145
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 6.321,14
+
+R$ 295,53
+
+R$ 295,53
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA
+
+12 366 4100 4157
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 62.770,30
+
+R$ 62.770,30
+
+R$ 62.770,30
+
+FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - EJA
+
+12 366 4100 4158
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 336.372,50
+
+R$ 77.470,91
+
+R$ 77.470,91
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EDUCACAO ESPECIAL
+
+12 367 4100 4159
+
+15000100
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+12 122 4100 4144
+
+15000100
+
+91
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 40.000,00
+
+R$ 40.000,00
+
+R$ 40.000,00
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL
+
+12 361 4100 4149
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 133.101,80
+
+R$ 133.101,80
+
+R$ 133.101,80
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EDUCACAO ESPECIAL
+
+12 367 4100 4159
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 36.624,35
+
+R$ 36.624,35
+
+R$ 36.624,35
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.026.365,00
+
+**TOTAL**
+
+R$ 1.026.365,00
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.026.365,00
+
+**TOTAL**
+
+R$ 1.026.365,00

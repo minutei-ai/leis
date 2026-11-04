@@ -1,5 +1,3 @@
-###DEC-068849-0-000-02-07-1971@@@
-
 DECRETO Nº 68.849, DE 2 DE JULHO DE 1971.
 
 Declara de utilidade pública o Lar e Educandário "Bezerra de Menezes", com sede em Sorocaba, Estado de São Paulo.

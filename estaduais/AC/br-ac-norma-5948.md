@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.556, de 24 de Março de 2025.](https://legis.ac.gov.b
 
 > **LEI Nº 4.314, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a política de saúde mental para os servidores da segurança pública, saúde e educação com atribuições no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a política de saúde mental para os servidores da segurança pública, saúde e educação com atribuições no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

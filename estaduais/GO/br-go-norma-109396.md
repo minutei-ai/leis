@@ -18,7 +18,8 @@ Ronaldo Caiado
 
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 CRÉDITO ESPECIAL
 
 | Exercício | 2024 |
@@ -34,7 +35,8 @@ CRÉDITO ESPECIAL
 | Código Orçamentário | 0000 – IDENTIFICAÇÃO DE DESPESAS GERAIS |
 | Valor: | R$ 200.000,00 |
 
-ANEXO II<br>
+ANEXO II
+
 REDUÇÃO
 
 | Exercício | 2024 |

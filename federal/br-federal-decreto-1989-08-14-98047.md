@@ -1,7 +1,3 @@
-1
-
-###DEC-098047-0-000-14-08-1989@@@
-
 DECRETO Nº 98.047, DE 14 DE AGOSTO DE 1989
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade Sagres de Ciências Contábeis e Atuariais.

@@ -1,5 +1,3 @@
-###DEC-096655-0-000-06-09-1988@@@
-
 DECRETO N° 96.655, DE 6 DE SETEMBRO DE 1988
 
 Altera a redação do art. 2° do Decreto n° 92.616, de 2 de maio de 1986.

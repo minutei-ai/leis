@@ -1,5 +1,3 @@
-###DEL-008590-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.590 – DE 8 DE JANEIRO DE 1946
 
 Dispõe sôbre a realização de exercícios escolares práticos sob a forma de trabalho industrial nas escolas técnicas e escolas industriais, e dá outras providências.

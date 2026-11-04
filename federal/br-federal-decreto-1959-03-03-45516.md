@@ -1,5 +1,3 @@
-###DEC-045516-0-000-03-03-1959@@@
-
 Decreto nº 45.516, de 3 de março de 1959.
 
 Concede o abono provisório aos servidores do Serviço de Alimentação da Previdência Social.

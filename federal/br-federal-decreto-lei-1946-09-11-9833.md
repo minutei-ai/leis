@@ -1,5 +1,3 @@
-###DEL-009833-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.833 – DE 11 DE SETEMBRO DE 1946
 
 Restabelece dotação orçamentaria e dá outras providências

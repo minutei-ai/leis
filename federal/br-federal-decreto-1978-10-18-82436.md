@@ -1,5 +1,3 @@
-###DEC-082436-0-000-18-10-1978@@@
-
 Decreto nº 82.436, de 18 de outubro de 1978.
 
 Fixa o fator de reajustamento salarial relativo a outubro de 1978.

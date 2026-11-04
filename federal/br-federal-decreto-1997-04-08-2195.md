@@ -1,5 +1,3 @@
-###DEC-002195-0-000-08-04-1997@@@
-
 DECRETO Nº 2.195, DE 8 DE ABRIL DE 1997
 
 Aprova a Regulamento de Serviço de Transporte de Sinais de Telecomunicações por Satélite.

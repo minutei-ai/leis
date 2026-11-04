@@ -1,5 +1,3 @@
-###DEC-047055-0-000-21-10-1959@@@
-
 DECRETO Nº 47.055, DE 21 DE OUTUBRO DE 1959.
 
 Concede autorização para o funcionamento do Curso de Engenharia Civil da Escola de Engenharia da Pontifícia Universidade Católica do Rio Grande do Sul.

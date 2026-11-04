@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212683)<br>
-
 # DECRETO N° 70.655, DE 29 DE MAIO DE 2026
 
 ### _Autoriza a celebração de convênios com os Municípios do Estado, objetivando a transferência de recursos destinados ao fornecimento de alimentação escolar aos alunos das escolas da rede pública estadual de ensino._
@@ -96,14 +94,16 @@ Nerylson Lima da Silva
 
 Renato Feder
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o "caput" do artigo 1° deste decreto
 
 Termo de Convênio que entre si celebram o Estado de São Paulo, por intermédio da Secretaria da Educação, e o Município de \_\_\_\_\_, objetivando o fornecimento de alimentação escolar aos alunos da rede estadual de ensino
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DA EDUCAÇÃO, com sede na Praça da República, 53, na Capital de São Paulo, CNPJ 46.384.111/0001-40, neste ato representada por \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, portador(a) do RG \_\_\_\_\_\_\_\_\_\_\_\_\_\_e do CPF \_\_\_\_\_\_\_\_\_\_\_\_, autorizada pelo Governador do Estado, nos termos do Decreto n° \_\_\_\_\_\_, de \_\_\_\_ de \_\_\_\_\_\_\_ de 2026, e o MUNICÍPIO DE \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, representado pelo(a) Prefeito(a), portador(a) do RG \_\_\_\_\_\_\_ e do CPF \_\_\_\_\_\_ , doravante denominados, respectivamente, SECRETARIA e MUNICÍPIO, observadas as disposições da Lei federal n° 14.133, de 1° de abril de 2021, da [Lei n° 6.544, de 22 de novembro de 1989](https://www.al.sp.gov.br/norma/23984), no que couber, e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), celebram o presente convênio, mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 O presente convênio tem por objeto o fornecimento de alimentação escolar aos alunos matriculados nos períodos diurno e/ou noturno, nos estabelecimentos estaduais de ensino circunscritos no MUNICÍPIO, da educação básica da rede estadual, inclusive:
@@ -124,7 +124,8 @@ III - na educação de Jovens e Adultos - EJA.
 
 3\. garantir a observância das diferentes faixas etárias dos alunos, bem como situações específicas que reclamem alimentação diferenciada.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Obrigações dos Partícipes
 
 Para a execução do objeto pactuado na cláusula primeira, os partícipes terão as seguintes obrigações:
@@ -173,7 +174,8 @@ f) suspender a transferência de recursos financeiros ao MUNICÍPIO que deixar d
 
 g) por meio das Unidades Regionais de Ensino a que o MUNICÍPIO estiver jurisdicionado, analisar as prestações de contas, aprovando-as, se for o caso.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Valor
 
 O valor total estimado do presente convênio será obtido multiplicando-se o número de alunos efetivamente matriculados nas escolas da rede estadual de ensino localizadas no MUNICÍPIO, conforme levantamento oficial da Secretaria da Educação, pelo valor de transferência "per capita" fixado anualmente pela Secretaria da Educação, de acordo com a disponibilidade financeira da Pasta, perfazendo o montante estimado de R$ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_( \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_), no exercício vigente.
@@ -182,7 +184,8 @@ O valor total estimado do presente convênio será obtido multiplicando-se o nú
 
 **§ 2° -** O valor das parcelas a serem transferidas pela SECRETARIA ao MUNICÍPIO poderá ser alterado conforme levantamento do número de alunos efetivamente matriculados constante do Sistema de Cadastro de Alunos da SECRETARIA e certificado pelas Unidades Regionais de Ensino competentes, em 30 de março e em 31 de julho de cada exercício.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Dos Recursos Financeiros
 
 Os recursos financeiros de responsabilidade do Estado serão transferidos em 10 (dez) parcelas mensais, de acordo com o cronograma de desembolso, parte integrante deste convênio.
@@ -205,7 +208,8 @@ Os recursos financeiros de responsabilidade do Estado serão transferidos em 10 
 
 **§ 4° -** O descumprimento, pelo MUNICÍPIO, de qualquer obrigação pactuada neste Convênio ensejará a suspensão da transferência dos recursos financeiros, até que seja regularizada a situação.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Prestação de Contas
 
 A prestação de contas dos recursos estaduais consignados ao convênio será feita anualmente, até 30 (trinta) dias após o encerramento do exercício e de cada uma de suas eventuais prorrogações, composta, especialmente, dos seguintes documentos:
@@ -228,14 +232,16 @@ VIII - comprovante de recolhimento dos recursos não utilizados, quando houver, 
 
 **Parágrafo único -** A SECRETARIA informará o MUNICÍPIO sobre eventuais irregularidades encontradas na prestação de contas, as quais deverão ser sanadas no prazo máximo de 30 (trinta) dias contados da data de recebimento desta comunicação, aplicando-se o mesmo procedimento do § 3° da cláusula sétima no caso de recolhimento de valores utilizados indevidamente.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Das Alterações
 
 O Secretário da Educação poderá, mediante aditamento e amparado em manifestação da área técnica competente da Pasta, modificar o Plano de Trabalho referido na cláusula primeira, mediante proposta conjunta do MUNICÍPIO e das Unidades Regionais de Ensino competentes, vedada a alteração do objeto do ajuste.
 
 **Parágrafo único -** Caso as alterações necessárias impliquem aumento do valor, o aditamento ficará condicionado à existência de reserva de recursos suficientes a suportar as despesas decorrentes e à prévia e específica deliberação do Titular da SECRETARIA.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Denúncia e da Rescisão
 
 O presente convênio poderá, a qualquer tempo, ser denunciado por qualquer dos partícipes mediante notificação escrita com antecedência de 120 (cento e vinte) dias, e será rescindido por infração legal ou descumprimento das obrigações assumidas, ou pela superveniência de norma legal ou fato que o torne jurídica, material ou formalmente inexequível.
@@ -246,7 +252,8 @@ O presente convênio poderá, a qualquer tempo, ser denunciado por qualquer dos 
 
 **§ 3° -** Quando da conclusão, denúncia, rescisão ou extinção do presente convênio, não tendo ocorrido a utilização total dos recursos financeiros recebidos da SECRETARIA, fica o MUNICÍPIO obrigado a restituir, no prazo improrrogável de 30 (trinta) dias contados da data do evento, os saldos financeiros remanescentes, inclusive os provenientes das receitas obtidas das aplicações financeiras, acrescidos da remuneração da caderneta de poupança, computada desde a data do repasse e até a data da efetiva devolução à conta indicada pela SECRETARIA, encaminhando-lhe o respectivo comprovante de depósito bancário.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Das Condições Gerais
 
 Pactuam, ainda, os partícipes, as seguintes condições:
@@ -257,17 +264,20 @@ II - as reuniões entre os representantes credenciados pelos partícipes, bem co
 
 III - a SECRETARIA não se responsabilizará por qualquer despesa excedente dos recursos a serem transferidos.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Do Prazo de Vigência
 
 Este convênio terá vigência pelo prazo de \_\_\_(\_\_\_\_\_\_\_\_) meses, a partir de \_\_\_\_\_\_\_\_\_\_até \_\_\_\_\_\_\_\_\_, podendo ser prorrogado por períodos de 12 (doze) meses, até o limite de 60 (sessenta) meses, mediante termo aditivo, a ser firmado pelos representantes dos partícipes, após parecer técnico favorável do órgão responsável pela execução e fiscalização deste ajuste.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Acompanhamento e Controle
 
 O acompanhamento e controle da execução do presente ajuste serão realizados pelo Diretor Financeiro do MUNICÍPIO e pela Unidade Regional de Ensino da Região \_\_\_\_\_\_\_\_\_\_\_\_\_, da SECRETARIA, onde se desenvolvam as atividades objeto deste instrumento.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado para dirimir quaisquer questões resultantes da execução deste convênio, que não puderem ser resolvidas administrativamente.
@@ -294,19 +304,22 @@ RG:
 
 CPF:
 
-#### ANEXO II<br>
+#### ANEXO II
+
 a que se refere o "caput" do artigo 1° deste decreto
 
 Termo de Cessão de Uso de Veículo, firmado entre o Estado de São Paulo, por intermédio da Secretaria da Educação, e o Município de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DA EDUCAÇÃO, com sede na Praça da República, 53, na Capital de São Paulo, CNPJ 46.384.111/0001-40, neste ato representada por \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, com fundamento no artigo 15 do [Decreto n° 9.543, de 1° de março de 1977](https://www.al.sp.gov.br/norma/70281), doravante denominada CEDENTE, firma, com o Município de \_\_\_\_\_\_, sito na \_\_\_\_\_, Estado de São Paulo, CNPJ/MF \_\_\_\_\_\_\_\_, neste ato representado pelo(a) Prefeito(a) , doravante denominado CESSIONÁRIO, conforme cláusulas e condições a seguir acordadas.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Pelo presente instrumento, o CEDENTE autoriza o uso, pelo CESSIONÁRIO, do veículo caminhão frigorífico tipo \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, marca \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, chassi n° \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, comportando transportar \_\_\_\_\_\_\_ toneladas de gêneros alimentícios, adquirido por intermédio dos recursos \_\_\_\_\_\_\_\_, processo SEI n°\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, exclusivamente para transporte de gêneros alimentícios destinados ao fornecimento de alimentação escolar aos alunos das escolas da rede pública estadual de ensino localizadas no território do CESSIONÁRIO, na execução do Convênio n° \_\_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Responsabilidades do Cessionário
 
 Caberá ao CESSIONÁRIO, durante a vigência do Convênio n° \_\_\_\_\_\_\_\_\_ , em relação ao bem discriminado na cláusula primeira deste instrumento:
@@ -329,12 +342,14 @@ f) realizar as manutenções preventivas exigidas pelo fabricante (concessionár
 
 **Parágrafo único -** A qualquer tempo, o CESSIONÁRIO poderá, por seus agentes, promover a vistoria que julgar necessária no veículo discriminado na cláusula primeira deste instrumento.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Da Vigência
 
 A cessão de uso vigorará pelo mesmo período de vigência do Convênio n° \_\_\_\_\_\_\_\_\_\_\_\_\_\_celebrado entre CEDENTE e CESSIONÁRIO.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado para dirimir quaisquer questões resultantes da execução deste Termo de Cessão de Uso, que não puderem ser resolvidas administrativamente.

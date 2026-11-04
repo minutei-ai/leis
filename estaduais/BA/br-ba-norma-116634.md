@@ -6,7 +6,8 @@ Dispõe sobre o Subsistema de Saúde do Estado da Bahia, aprova a legislação b
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Esta Lei regula, no Estado da Bahia, os direitos e obrigações que se relacionam com a saúde e o bem estar, individual e coletivo, dos seus habitantes.
@@ -21,7 +22,8 @@ DISPOSIÇÕES PRELIMINARES
 
 **III -**    aos indivíduos, em particular, cooperar com os órgãos e entidades competentes; adotar um estilo de vida higiênico; aplicar princípios plausíveis de nutrição e higiênicos; utilizar os serviços de imunização; observar os ensinamentos sobre educação em saúde; prestar as informações que lhes forem solicitadas pelos órgãos sanitários competentes; respeitar as recomendações sobre conservação do meio-ambiente.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DO SUBSISTEMA ESTADUAL DE SAÚDE
 
 **Art. 3º** - O complexo de serviços, do setor público e do setor privado, voltado para ações do interesse da saúde, constitui o SUBSISTEMA DE SAÚDE DO ESTADO DA BAHIA, organizado e disciplinado na forma desta Lei, abrangendo as atividades que visem a promoção, proteção e recuperação da saúde, integrado ao Sistema Nacional de Saúde, instituído pela Lei Federal nº 6.229, de 17 de julho de 1975.
@@ -82,10 +84,12 @@ DO SUBSISTEMA ESTADUAL DE SAÚDE
 
 **Art. 8º** - A Secretaria de Saúde adotará os princípios da hierarquização e da regionalização em sua rede de serviços.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 PROMOÇÃO DA SAÚDE
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DOS SERVIÇOS BÁSICOS DE SAÚDE
 
 **Art. 9º** - As atividades de saúde serão estruturadas em ordem de complexidade crescente, a partir das mais simples, periféricas, e executadas pelos Serviços Básicos de Saúde, até as mais complexas, a cargo dos Serviços Especializados de Saúde.
@@ -106,7 +110,8 @@ DOS SERVIÇOS BÁSICOS DE SAÚDE
 
 **Parágrafo único -**   A participação comunitária dar-se-á através de órgãos colegiados a nível local, municipal, regional e estadual, cabendo ao Estado regulamentar a composição e o funcionamento desses órgãos.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ASSISTÊNCIA MÉDICA EM NÍVEIS DE MAIOR COMPLEXIDADE
 
 **Art. 14** \- A assistência médica a cargo do Estado, em níveis de maior complexidade, será prestada em Hospitais de Apoio, Hospitais Regionais, Hospitais Especializados e pelo Hospital Central de sua rede própria, ou através de Convênios e contratos com órgãos do Governo Federal e Municipal, ou entidades privadas sem fins lucrativos.
@@ -123,7 +128,8 @@ DA ASSISTÊNCIA MÉDICA EM NÍVEIS DE MAIOR COMPLEXIDADE
 
 **Art. 17** - Fica vedada a celebração de contratos, convênios ou outros ajustes, pelos órgãos ou entidades do Estado com instituições estrangeiras ou multinacionais, tendo por objeto a execução de atividades finais ou intermediárias de saúde.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA SAÚDE MATERNA, DA CRIANÇA E DO ADOLESCENTE
 
 **Art. 18** - A Secretaria de Saúde coordenará a execução, a nível estadual, das iniciativas no campo da saúde que visem a proteção à maternidade, à infância e a adolescência, através da rede de serviços oficiais, estimulando a criação e o desenvolvimento de instituições privadas, de finalidade filantrópica, que desinteressadamente se proponham a atuar nessa área.
@@ -146,7 +152,8 @@ DA SAÚDE MATERNA, DA CRIANÇA E DO ADOLESCENTE
 
 **Art. 21** - O Estado procurará otimizar o rendimento dos serviços básicos da saúde no desenvolvimento de ações voltadas para o atendimento do grupo materno-infantil.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA SAÚDE MENTAL E DA ASSISTÊNCIA PSIQUIÁTRICA
 
 **Art. 22** - A Secretaria de Saúde coordenará a execução, a nível estadual, das iniciativas no campo da saúde visando a prevenção e tratamento dos transtornos mentais, através da sua rede de serviços de saúde, ou em regime de convênio ou contrato com órgãos e entidades, oficiais e particulares sem fins lucrativos.
@@ -179,7 +186,8 @@ DA SAÚDE MENTAL E DA ASSISTÊNCIA PSIQUIÁTRICA
 
 **Parágrafo único -**   Incumbe, também, à Secretaria da Justiça, através de seu órgão competente, realizar ações preventivas, curativas e de reabilitação, no campo de saúde mental, no que se refere aos menores sob sua guarda.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 ODONTOLOGIA SANITÁRIA
 
 **Art. 29** - Cabe à autoridade sanitária, por intermédio dos órgãos competentes, planejar, coordenar e orientar, no Estado, as atividades em que se integram as funções de promoção, de proteção e de recuperação da saúde oral da coletividade, especialmente na idade escolar.
@@ -194,7 +202,8 @@ ODONTOLOGIA SANITÁRIA
 
 **Art. 33** - A autoridade sanitária, através do setor especializado, compete promover a realização de estudos e de pesquisas no âmbito da odontologia sanitária, visando suas finalidades básicas.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA ALIMENTAÇÃO E NUTRIÇÃO
 
 **Art. 34** - A Secretaria de Saúde participará, na forma definida nos Planos e Programas do Governo Federal, da execução de atividades relacionadas com alimentação e nutrição, contribuindo para a elevação dos padrões de saúde da população do Estado.
@@ -235,13 +244,16 @@ DA ALIMENTAÇÃO E NUTRIÇÃO
 
 **VI -**     realizar estudos, pesquisas e análises sobre a situação alimentar e nutricional no Estado, que sejam necessários à formulação de programas e projetos;
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 PROTEÇÃO DA SAÚDE
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO SANEAMENTO DO MEIO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 37** - A Secretaria de Saúde, em articulação com os demais órgãos e entidades competentes, federais e do Estado, observará e fará observar as normas legais, regulamentares e técnicas, sobre saneamento do meio sem prejuízo da legislação supletiva estadual e das disposições deste diploma.
@@ -256,8 +268,10 @@ DAS DISPOSIÇÕES GERAIS
 
 **Parágrafo único -**   Para fins deste artigo, as industrias mencionarão as linhas completas de sua produção, com esquema do marcha das matérias-primas beneficiadas e respectivos produtos, subprodutos e resíduos, para cada operação, registrando a quantidade, qualidade, natureza e composição de uns e outros, e ainda o consumo de água da indústria.
 
-SEÇÃO II -<br>
-DAS ÁGUAS E SEUS USOS, DO PADRÃO DE POTABILIDADE, DA CLORAÇÃO<br>
+SEÇÃO II -
+
+DAS ÁGUAS E SEUS USOS, DO PADRÃO DE POTABILIDADE, DA CLORAÇÃO
+
 E DA FLUORETAÇÃO
 
 **Art. 40** \- Os órgãos e entidades do Estado da Bahia, responsáveis pela operação dos sistemas de abastecimento público, deverão adotar, obrigatoriamente, as normas e o padrão de potabilidade da água estabelecidos pelo Ministério da Saúde.
@@ -296,7 +310,8 @@ E DA FLUORETAÇÃO
 
 **Art. 52** - Competem aos órgãos responsáveis pela operação dos sistemas públicos de abastecimento de água no Estado o projeto, instalação, operação e manutenção dos sistemas de cloração e de fluoretação de que trata esta Seção.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DOS ESGOTOS SANITÁRIOS E DO DESTINO FINAL DOS DEJETOS
 
 **Art. 53** - Com o objetivo de contribuir para a elevação dos níveis de saúde da população e reduzir a contaminação do meio-ambiente, serão instalados pelo Estado e pelos Municípios, diretamente, ou em regime de acordo com os órgãos federais competentes, sistema de esgotos sanitários, nas zonas urbanas, consentâneas com as exigências locais.
@@ -321,7 +336,8 @@ DOS ESGOTOS SANITÁRIOS E DO DESTINO FINAL DOS DEJETOS
 
 **Art. 59** - A drenagem do solo, como medidas do saneamento do meio, será orientada pelo órgão sanitário competente.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DA POLUIÇÃO DO MEIO-AMBIENTE
 
 **Art. 60** - A Secretaria de Saúde do Estado e suas congêneres dos Municípios, em articulação com os demais órgãos e entidades estaduais e federais competentes, adotarão os meios ao seu alcance para reduzir ou impedir os casos de agravo à saúde humana provocados pela poluição do ambiente, em virtude de fenômenos naturais, de agentes químicos ou pela ação delatória do homem, nos limites de suas áreas geográficas, observada a legislação federal pertinente e a supletiva estadual, bem como as normas e recomendações técnicas aprovadas pelos órgãos competentes.
@@ -338,7 +354,8 @@ DA POLUIÇÃO DO MEIO-AMBIENTE
 
 **Parágrafo único -**   Considera-se ambiente tudo o que envolve ou condiciona o homem, constituindo o seu mundo e dá suporte material para a sua vida bio-psico-social.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DAS HABITAÇÕES E ÁREAS DE LAZER
 
 **Art. 63** - As habitações deverão obedecer, dentre outros, os requisitos da higiene e segurança sanitária indispensável à proteção da saúde e ao bem estar individual, sem o que nenhum projeto deverá ser aprovado.
@@ -347,7 +364,8 @@ DAS HABITAÇÕES E ÁREAS DE LAZER
 
 **Art. 64** - A Secretaria de Saúde baixará normas de higiene e segurança sanitária, a serem observados nos locais ou sítios em que se realizam espetáculos públicos ou sirvam ao lazer ou à recreação.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS CALAMIDADES PÚBLICAS
 
 **Art. 65** - Na ocorrência de casos de agravo à saúde, decorrentes de calamidades públicas, para o controle de epidemias e outras ações indicadas, a Secretaria de Saúde, devidamente articuladas com os órgãos federais e entidades municipais competentes, promoverá a utilização de todos os recursos médicos e hospitalares, públicos e privados, existentes nas áreas afetadas.
@@ -366,22 +384,26 @@ DAS CALAMIDADES PÚBLICAS
 
 **V -**      assegurar a remoção de feridos e a rápida retirada de cadáveres da área atingida.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS NECROTÉRIOS, LOCAIS PARA VELÓRIOS, CEMITÉRIOS, CREMATÓRIOS
 
 **Art. 67** - Os necrotérios, velórios, cemitérios e crematórios obedecerão às normas sanitárias ditadas pela Secretaria de Saúde.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA PROTEÇÃO SANITÁRIA INTERNACIONAL
 
 **Art. 68** - O Governo do Estado, através da Secretaria de Saúde, colaborará com as autoridades federais competentes, na medida de suas possibilidades, nas atividades relacionadas com a saúde internacional, nos portos, aeroportos, fronteiras e locais de tráfego, objetivando evitar a introdução e propagação de doenças no País, ou sua propagação para o exterior.
 
 **Parágrafo único -**   O Governo do Estado aplicará, por delegação de competência do Governo Federal, observados os termos e condições do ato delegatório, as medidas da alçada deste previstas na legislação interna e no Regulamento Sanitário Internacional.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 DAS DOENÇAS TRANSMISSÍVEIS
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 69** - Para permitir o diagnóstico, tratamento e controle de doenças transmissíveis, o Estado manterá e participará de programas nacionais específicos, integrando seus serviços nos respectivos Sistemas Nacionais de Vigilância Epidemiológica, de Laboratórios de Saúde Pública e outros, observando e fazendo observar as normas técnicas, operacionais, legais e regulamentares, internas e internacionais sobre o assunto.
@@ -466,7 +488,8 @@ DAS DISPOSIÇÕES GERAIS
 
 **Art. 87** - Quando se houverem esgotados todos os meios de persuasão ao cumprimento da Lei, a autoridade sanitária recorrerá ao concurso da autoridade policial para a execução das medidas de combate às doenças transmissíveis.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA AÇÃO DE VIGILÂNCIA EPIDEMIOLÓGICA E DA NOTIFICAÇÃO COMPULSÓRIA DE DOENÇAS
 
 **Art. 88** - As informações, investigações e levantamentos necessários à programação e à avaliação das medidas de controle de doenças e de situações de agravo à saúde constituem a ação de vigilância epidemiológica.
@@ -523,7 +546,8 @@ Revogado pelo Art. 288 da Lei nº [14.878](https://www.legislabahia.ba.gov.br/do
 
 **Parágrafo único -**   A identificação do paciente portador de doenças referidas neste artigo, fora do âmbito médico-sanitário, somente poderá efetivar-se em caráter excepcional, em caso de grande risco à comunidade, a juízo da autoridade sanitária e com conhecimento prévio do paciente ou do seu responsável.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS VACINAÇÕES OBRIGATÓRIAS
 
 **Art. 103** - A Secretaria de Saúde, observadas as normas e recomendações pertinentes, fará executar no Estado as vacinações de caráter obrigatório definidas no Programa Nacional de Imunizações, coordenando e controlando o desenvolvimento das ações correspondentes.
@@ -562,14 +586,16 @@ DAS VACINAÇÕES OBRIGATÓRIAS
 
 **Parágrafo único -**   o documento comprobatório será emitido pelos serviços públicos da saúde ou por médicos no exercício de atividades privadas, quando devidamente credenciados para tal fim pela Secretaria de Saúde.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA TUBERCULOSE
 
 **Art. 117** - A Secretaria de Saúde se empenhará no desenvolvimento de atividades da sua competência, a nível regional e local, executando e coordenando a execução das ações correspondentes, relacionadas com a procura, diagnóstico e tratamento de casos de tuberculose em todo o Estado.
 
 **Parágrafo único -**   Para fiel cumprimento do disposto neste artigo a Secretaria de Saúde adotará as Normas Técnicas e Operacionais pertinentes, procurando integrar as ações de diagnóstico, prevenção e tratamento da tuberculose aos serviços de saúde estaduais e municipais, estimulando a participação da comunidade, com o objetivo de reduzir a morbidade e a mortalidade, mediante emprego dos conhecimentos técnicos e científicos e dos recursos disponíveis e mobilizáveis.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA HANSENÍASE
 
 **Art. 118** - A Secretaria de Saúde se empenhará no desenvolvimento das atividades de sua competência, a nível regional e local, executando e coordenando a execução das ações de diagnóstico, prevenção e tratamento de doença nos serviços de saúde estaduais e municipais, estimulando a participação da comunidade, com o objetivo de reduzir a morbidade, mediante emprego dos conhecimentos técnicos e científicos dos recursos disponíveis e mobilizáveis.
@@ -578,7 +604,8 @@ DA HANSENÍASE
 
 **Art. 120** - Estudos e pesquisas serão realizados visando a identificação de preconceitos sociais e culturais que dificultem a reinserção do doente na sociedade e a identificação de medidas necessárias à redução de atitudes segregacionístas.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS DOENÇAS VENÉREAS
 
 **Art. 121** - A Secretaria de Saúde exercerá, no âmbito do Estado, a execução e coordenação das atividades de prevenção, controle e tratamento de doenças venéreas, compreendendo a sífilis, gonorréia, cancro-mole e linfogranuloma venéreo.
@@ -591,7 +618,8 @@ DAS DOENÇAS VENÉREAS
 
 **Art. 124** - A Secretaria de Saúde deverá promover amplas campanhas de esclarecimento junto à população, acerca das medidas profiláticas e terapêuticas das doenças venéreas.
 
-TÍTULO VI -<br>
+TÍTULO VI -
+
 DAS DOENÇAS CRÔNICO-DEGENERATIVAS E OUTRAS NÃO TRANSMISSÍVEIS
 
 **Art. 125** - Será estimulado pelo Estado o desenvolvimento de atividades de saúde pública, paralelamente ao progresso da ciência e da técnica sanitária, visando o controle das doenças crônicas-degenerativas e das doenças não transmissíveis que, por sua elevada incidência, constituem graves problemas de interesse coletivo.
@@ -602,10 +630,12 @@ DAS DOENÇAS CRÔNICO-DEGENERATIVAS E OUTRAS NÃO TRANSMISSÍVEIS
 
 **Parágrafo único -**   As instituições e estabelecimentos de saúde particulares, bem como os profissionais que exerçam atividades liberais no campo de saúde, ficam obrigados a enviar aos órgãos estaduais competentes os dados e informações que lhes forem solicitados.
 
-TÍTULO VII -<br>
+TÍTULO VII -
+
 DA VIGILÂNCIA SANITÁRIA
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 128** - O Estado, através dos órgãos competentes da Secretaria da Saúde, exercerá opções de vigilância sanitária sobre bens, produtos naturais ou industrializados, locais e atividades que, direta ou indiretamente, possam produzir casos de agravos à saúde pública ou individual.
@@ -616,7 +646,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 131** - Os serviços de vigilância sanitária deverão manter estreito entrosamento com o serviço de vigilância epidemiológica, bem como apoiar-se na rede de laboratórios de saúde pública, a fim de permitir uma ação coordenada e objetiva na solução e acompanhamento dos casos sob controle.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA VIGILÂNCIA SANITÁRIA DE ALIMENTOS DESTINADOS AO CONSUMO HUMANO
 
 **Art. 132** - Todo alimento destinado ao consumo humano, qualquer que seja a sua origem, estado ou procedência, produzido ou exposto à venda em todo o Estado, será objeto de ação fiscalizadora exercida pelos órgãos e entidades de vigilância sanitária competentes, estaduais ou municipais, nos termos desta Lei e da legislação federal pertinente.
@@ -647,7 +678,8 @@ DA VIGILÂNCIA SANITÁRIA DE ALIMENTOS DESTINADOS AO CONSUMO HUMANO
 
 **Art. 138** - Somente poderão ser entregues à venda expostos ao consumo, alimentos industrializados que estejam registrados no órgão federal competente.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS ÁGUAS MINERAIS E NATURAIS DE FONTE
 
 **Art. 139** - As águas minerais e naturais de fonte devem ser captadas, processadas e envasadas segundo, os princípios de higiene fixado pelas autoridades sanitárias, atendidas as exigências suplementares constantes dos padrões de identidade e qualidade aprovados.
@@ -672,7 +704,8 @@ DAS ÁGUAS MINERAIS E NATURAIS DE FONTE
 
 **§ 8º** - Às propriedades favoráveis à saúde deverão ser comprovadas mediante observações de ordem clínica e farmacológica e aprovadas pelo órgão federal de saúde competente.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA VIGILÂNCIA SANITÁRIA DE DROGAS, MEDICAMENTOS, INSUMOS FARMACÊUTICOS, SANEANTES DOMISSANITÁRIOS, E OUTROS BENS DE INTERESSE DA SAÚDE PÚBLICA
 
 **Art. 140** - Os medicamentos, insumos farmacêuticos, drogas, correlatos, cosméticos, produtos de higiene, perfumes e similares, saneantes, domissanitários, produtos destinados à correção estética e os demais submetidos ao regime de vigilância sanitária serão objeto de ação fiscalizadora exercida pelos órgãos e entidades de vigilância sanitária competentes do Estado, nos termos desta Lei e da legislação federal e dos seus regulamentos e normas técnicas pertinentes.
@@ -707,7 +740,8 @@ DA VIGILÂNCIA SANITÁRIA DE DROGAS, MEDICAMENTOS, INSUMOS FARMACÊUTICOS, SANEA
 
 **Art. 145** - Não poderão ter exercício em órgãos da fiscalização sanitária e laboratórios de controle, os servidores públicos que sejam sócios, acionistas ou interessados, por qualquer forma, em empresas sujeitas ao regime desta Lei, ou lhes prestem serviços, com ou sem vínculo empregatício.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA VIGILÂNCIA SANITÁRIA DAS FARMÁCIAS, DROGARIAS, POSTOS DE MEDICAMENTOS, DEPÓSITOS DE DROGAS E UNIDADES VOLANTES
 
 **Art. 146** - Os estabelecimentos comerciais farmacêuticos e congêneres não poderão funcionar em todo território da Bahia, sem a prévia licença do órgão de vigilância sanitária competente da Secretaria de Saúde do Estado.
@@ -752,7 +786,8 @@ DA VIGILÂNCIA SANITÁRIA DAS FARMÁCIAS, DROGARIAS, POSTOS DE MEDICAMENTOS, DEP
 
 **Art. 156** - Os dispensários de medicamentos deverão ser dotados de equipamentos e instalações necessárias ao seu funcionamento, fixada pela autoridade sanitária competente.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS EMPRESAS APLICADORAS DE SANEANTES
 
 **Art. 157** - As empresas aplicadoras de saneantes domissanitários somente poderão funcionar no Estado depois de licenciadas e tendo em sua direção técnica um Químico ou um Farmacêutico-Bioquímico, legalmente habilitados, com termo de responsabilidade assinado perante a autoridade sanitária competente.
@@ -763,7 +798,8 @@ DAS EMPRESAS APLICADORAS DE SANEANTES
 
 **Parágrafo único -**   Após a aplicação do produto, a empresa fica obrigada a fornecer certificado, assinado pelo responsável técnico, do qual conste a composição qualitativa do produto ou associação usada, as proporções e a quantidade total empregada por área, bem como as instruções para a prevenção ou para o caso de acidente.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DOS LABORATÓRIOS DE ANÁLISE CLÍNICAS OU DE PATOLOGIA CLÍNICA, DE HEMATOLOGIA, DE ANATOMIA PATOLÓGICA, DE CITOLOGIA, DE LÍQUIDO CÉFALO-RAQUIDIANO, DE RADIOISOTOPOLOGIA E CONGÊNERES.
 
 **Art. 159** - Os laboratórios de análise clínicas ou de patologia clínica, de hematologia clínica, de anatomia patológica de citologia, de líquido céfalo - raquidiano, de radioisotopologia in vitro e in vivo, de Raio X, e congêneres, somente poderão funcionar no Estado depois de licenciados, com suas especificações definidas, sob a responsabilidade de profissionais legalmente habilitados para cada uma das especializações, em termos de responsabilidades assinados perante a autoridade sanitária competente, e com pessoal técnico habilitado.
@@ -776,7 +812,8 @@ DOS LABORATÓRIOS DE ANÁLISE CLÍNICAS OU DE PATOLOGIA CLÍNICA, DE HEMATOLOGIA
 
 **Art. 161** - Os laboratórios de que tratam os artigos 159 e 160 deverão manter livros próprios, visados pela autoridade sanitária, destinados ao registro de todos os resultados positivos de exames realizados para o diagnóstico, de doenças de notificação compulsória, indicando todos os dados sobre a qualificação do paciente e o material examinado.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DOS ÓRGÃOS EXECUTIVOS DAS ATIVIDADES HEMOTERÁPICAS
 
 **Art. 162** - Os Bancos de Sangue e Serviços de Hemoterapia em geral, particulares, que explorem atividades homoterápicas no Estado, ficam sujeitos a licença do órgão de vigilância sanitária competente.
@@ -791,7 +828,8 @@ DOS ÓRGÃOS EXECUTIVOS DAS ATIVIDADES HEMOTERÁPICAS
 
 **Art. 165** - A Secretaria de Saúde, em articulação com o Governo Federal, manterá Centro de Hematologia e Hemoterapia - Hemocentro, que exercerá as funções próprias de unidade básica do Subsistema Nacional respectivo.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DOS ESTABELECIMENTOS DE ASSISTÊNCIA ODONTOLÓGICA
 
 **Art. 166** - Os estabelecimentos de assistência odontológica tais como clínicas dentárias especializadas e policlínicas populares, pronto socorros odontológicos, institutos odontológicos e congêneres, somente poderão funcionar depois de devidamente licenciados, sob a responsabilidade de cirurgião dentista legalmente habilitado e com termo de responsabilidade assinado perante a autoridade sanitária competente e com pessoal técnico também habilitado.
@@ -802,7 +840,8 @@ DOS ESTABELECIMENTOS DE ASSISTÊNCIA ODONTOLÓGICA
 
 **Art. 168** - A mudança de local do estabelecimento dependerá de nova licença prévia do órgão sanitário competente, observadas as mesmas condições exigidas para o ato anterior.
 
-CAPÍTULO X -<br>
+CAPÍTULO X -
+
 DOS LABORATÓRIOS E OFICINAS DE PRÓTESE ODONTOLÓGICA
 
 **Art. 169** - Os laboratórios e oficinas de prótese odontológica somente poderão funcionar depois de licenciados sob a responsabilidade de profissional habilitado e com termo de responsabilidade assinado perante o órgão sanitário competente.
@@ -817,7 +856,8 @@ DOS LABORATÓRIOS E OFICINAS DE PRÓTESE ODONTOLÓGICA
 
 **Art. 173** - A mudança de local dependerá de nova licença prévia do órgão sanitário competente, observadas as mesmas condições exigidas para o ato anterior.
 
-CAPÍTULO XI -<br>
+CAPÍTULO XI -
+
 DOS INSTITUTOS OU CLÍNICAS DE FISIOTERAPIA
 
 **Art. 174** \- Os institutos ou clínicas de fisioterapia, assim entendidos os estabelecimentos nos quais são utilizados agentes físicos com finalidade terapêutica, mediante prescrição do médico, somente poderão funcionar após licenciados, sob a direção e responsabilidade de profissional habilitado e com termo de responsabilidade assinado perante o órgão sanitário competente, devendo o tratamento prescrito ser executado por pessoal técnico legalmente habilitado.
@@ -832,7 +872,8 @@ DOS INSTITUTOS OU CLÍNICAS DE FISIOTERAPIA
 
 **Art. 179** - Em todas as placas indicativas, anúncios, ou formas de propaganda dos institutos ou clínicas de fisioterapia, deverá ser mencionado com destaque a expressão "sob a Responsabilidade Técnica "seguida do nome completo de profissional, sua habilitação e número de inscrição no respectivo Conselho Regional.
 
-CAPÍTULO XII -<br>
+CAPÍTULO XII -
+
 DOS INSTITUTOS E CLÍNICAS DE BELEZA SOB RESPONSABILIDADE MÉDICA
 
 **Art. 180** - Os institutos e as clínicas de beleza, sob a responsabilidade médica, são estabelecimentos que se destinam exclusivamente a tratamento com finalidade estética, envolvendo atividades que só podem ser exercidas por profissional habilitado.
@@ -845,7 +886,8 @@ DOS INSTITUTOS E CLÍNICAS DE BELEZA SOB RESPONSABILIDADE MÉDICA
 
 **Art. 184** - Em todas as placas indicativas, anúncios ou formas de propaganda dos institutos ou clínicas de beleza deverá ser mencionada em destaque a expressão "SOB RESPONSABILIDADE MÉDICA" seguida do nome do médico responsável e do seu número de registro no Conselho Regional de Medicina.
 
-CAPÍTULO XIII -<br>
+CAPÍTULO XIII -
+
 DAS CASAS DE ARTIGOS CIRÚRGICOS, ORTOPÉDICOS, FISIOTERÁPICOS E ODONTOLÓGICOS
 
 **Art. 185** - Os estabelecimentos de comércio de artigos cirúrgicos, ortopédicos, fisioterápicos e odontológicos só poderão funcionar em todo o Estado, após licenciados pelo órgão sanitário competente, sob a responsabilidade do proprietário ou sócio da firma que firmará termo de responsabilidade nesse sentido.
@@ -854,7 +896,8 @@ DAS CASAS DE ARTIGOS CIRÚRGICOS, ORTOPÉDICOS, FISIOTERÁPICOS E ODONTOLÓGICOS
 
 **Art. 187** - A mudança de local dependerá de licença prévia do órgão sanitário competente, satisfeitas para esse fim as mesmas condições exigidas para o ato anterior.
 
-CAPÍTULO XIV -<br>
+CAPÍTULO XIV -
+
 DOS BANCOS DE OLHOS
 
 **Art. 188** - Os bancos de olhos só poderão funcionar depois de licenciados sob a responsabilidade de médico legalmente habilitado, que firmará termo nesse sentido perante o órgão sanitário competente.
@@ -881,7 +924,8 @@ DOS BANCOS DE OLHOS
 
 **Art. 194** - A mudança de local dependerá de licença prévia do órgão sanitário competente, satisfeitas todas as exigências formuladas para o ato anterior.
 
-CAPÍTULO XV -<br>
+CAPÍTULO XV -
+
 DOS BANCOS DE LEITE HUMANOS
 
 **Art. 195** - Os Bancos de Leite Humano são estabelecimentos de tipo ambulatorial, independentes e que se destinam à coleta e distribuição do leite humano.
@@ -896,7 +940,8 @@ DOS BANCOS DE LEITE HUMANOS
 
 **Art. 200** - Em todas as placas indicativas, anúncios, ou formas de propaganda dos Bancos de Leite Humano, deverá ser mencionado com destaque o nome completo do responsável, com seu título profissional e o número de registro no Conselho Regional respectivo.
 
-CAPÍTULO XVI -<br>
+CAPÍTULO XVI -
+
 DOS ESTABELECIMENTOS QUE INDUSTRIALIZEM OU COMERCIALIZEM LENTES OFTÁLMICAS
 
 **Art. 201** - Os estabelecimentos que industrializem ou comercializem lentes oftálmicas, somente poderão funcionar, depois de devidamente licenciados e sob a responsabilidade de um técnico legalmente habilitado, quando se tratar de lentes de contato.
@@ -911,7 +956,8 @@ DOS ESTABELECIMENTOS QUE INDUSTRIALIZEM OU COMERCIALIZEM LENTES OFTÁLMICAS
 
 **Art. 204** - A mudança de local dos estabelecimentos dependerá de prévia licença do órgão sanitário competente e do cumprimento das mesmas exigências formuladas para o ato anterior.
 
-TÍTULO VIII -<br>
+TÍTULO VIII -
+
 DA FISCALIZAÇÃO SANITÁRIA DAS CONDIÇÕES DE EXERCÍCIO DE PROFISSÕES E OCUPAÇÕES TÉCNICAS E AUXILIARES, RELACIONADAS DIRETAMENTE COM A SAÚDE
 
 **Art. 205** - As autoridades sanitárias do órgão de fiscalização da Secretaria de Saúde exercerão vigilância sobre as condições de exercício de profissões e ocupações, técnicas e auxiliares, relacionadas diretamente com a saúde.
@@ -932,10 +978,12 @@ DA FISCALIZAÇÃO SANITÁRIA DAS CONDIÇÕES DE EXERCÍCIO DE PROFISSÕES E OCUP
 
 Revogado pelo Art. 288 da Lei nº [14.878](https://www.legislabahia.ba.gov.br/documentos/lei-no-14878-de-24-de-fevereiro-de-2025) de 24 de fevereiro de 2025
 
-TÍTULO IX -<br>
+TÍTULO IX -
+
 DAS ATIVIDADES TÉCNICAS DE APOIO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DOS SISTEMA DE ESTATÍSTICAS VITAIS PARA A SAÚDE
 
 **Art. 208** - Deverão ser elaboradas de modo sistemático e obrigatório, estatísticas de interesse para a saúde, com base na coleta, apuração, análise e avaliação dos dados vitais, demográficos, de morbidade, assistenciais e de prestação de serviços de saúde às pessoas, de indicadores sócio-econômicos, bem como daqueles concernentes aos recursos humanos, materiais e financeiros, de modo a servirem de instrumento para inferir e diagnosticar o comportamento futuro de certos fenômenos, e direcionar os programas de saúde no Estado e permitir o planejamento das ações necessárias.
@@ -950,7 +998,8 @@ DOS SISTEMA DE ESTATÍSTICAS VITAIS PARA A SAÚDE
 
 **Parágrafo único -**    Os Cartórios de Registro Civil ficam obrigados a remeter à Secretaria de Saúde, no modo por ela determinado, as cópias dos atestados de óbito e a relação dos registros de nascimento ocorridos no Estado da Bahia.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS LABORATÓRIOS DE SAÚDE PÚBLICA
 
 **Art. 212** - O Estado promoverá as medidas necessárias à implementação, a nível local e regional, da rede de laboratórios de saúde pública, em conformidade com a organização prevista para o Sistema Nacional de Laboratórios de Saúde Pública.
@@ -969,12 +1018,14 @@ DOS LABORATÓRIOS DE SAÚDE PÚBLICA
 
 Revogado pelo Art. 288 da Lei nº [14.878](https://www.legislabahia.ba.gov.br/documentos/lei-no-14878-de-24-de-fevereiro-de-2025) de 24 de fevereiro de 2025
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS PESQUISAS E INVESTIGAÇÕES EM SAÚDE PÚBLICA
 
 **Art. 213** - O Estado estimulará o desenvolvimento de pesquisas científicas, fundamentais e aplicadas, objetivando, prioritariamente, o estudo e a solução dos problemas de saúde pública, inclusive sobre o meio-ambiente, aí compreendidas a fauna e a flora, que de algum modo possam produzir agravos à saúde.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA EDUCAÇÃO EM SAÚDE
 
 **Art. 214** - A Secretaria de Saúde do Estado promoverá, de modo sistemático e permanente, as atividades de educação em saúde, através de seus órgãos competentes, ou mediante acordos ou convênios com outros órgãos e entidades oficiais ou particulares.
@@ -989,7 +1040,8 @@ DA EDUCAÇÃO EM SAÚDE
 
 **Parágrafo único -**   A integração com outros órgãos educacionais dar-se-á quando esses órgãos ou entidades atuarem junto à comunidade, visando os níveis de saúde desta última.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DOS RECURSOS HUMANOS PARA A SAÚDE
 
 **Art. 217** - A Secretaria de Saúde promoverá a capacitação de recursos humanos com vistas ao atendimento da demanda do Subsistema Estadual de Saúde.
@@ -998,10 +1050,12 @@ DOS RECURSOS HUMANOS PARA A SAÚDE
 
 **Art. 218** - Os técnicos e profissionais auxiliares, habilitados em cursos oficiais de saúde pública, terão prioridade para o ingresso nos quadros do Estado, observadas as normas para provimento de cargos estabelecidos na legislação pertinente.
 
-TÍTULO X -<br>
+TÍTULO X -
+
 DAS INFRAÇÕES À LEGISLAÇÃO SANITÁRIA ESTADUAL E RESPECTIVAS SANÇÕES
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS INFRAÇÕES E PENALIDADES
 
 **Art. 219** - As infrações à legislação sanitária estadual são as configuradas na presente Lei.
@@ -1042,17 +1096,20 @@ Revogado pelo Art. 288 da Lei nº 14.878 de 24 de fevereiro de 2025
 
 **I -**          nas infrações leves, de 65 (sessenta e cinco) a 325 (trezentos e vinte e cinco) UFIR's;
 
-Redação do inciso I do art. 223 de acordo com o art. 1º da Lei nº [7.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-7039-de-15-de-abril-de-1997) de 15 de abril de 1997.<br>
+Redação do inciso I do art. 223 de acordo com o art. 1º da Lei nº [7.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-7039-de-15-de-abril-de-1997) de 15 de abril de 1997.
+
 Redação original: "I - nas infrações leves, de Cr$ 3.000,00 a Cr$ 12.000,00;"
 
 **II -**      nas infrações graves, de 326 (trezentos e vinte e seis) a 649 (seiscentos e quarenta e nove) UFIR's;
 
-Redação do inciso II do art. 223 de acordo com o art. 1º da Lei nº [7.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-7039-de-15-de-abril-de-1997) de 15 de abril de 1997.<br>
+Redação do inciso II do art. 223 de acordo com o art. 1º da Lei nº [7.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-7039-de-15-de-abril-de-1997) de 15 de abril de 1997.
+
 Redação original: "II - nas infrações graves, de Cr$ 12.000,00 a Cr$ 25.000,00."
 
 **III -**    nas infrações gravíssimas, de 650 (seiscentos e cinqüenta) a 2.595 (dois mil quinhentos e noventa e cinco) UFIR's.
 
-Redação do inciso III do art. 223 de acordo com o art. 1º da Lei nº [7.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-7039-de-15-de-abril-de-1997) de 15 de abril de 1997.<br>
+Redação do inciso III do art. 223 de acordo com o art. 1º da Lei nº [7.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-7039-de-15-de-abril-de-1997) de 15 de abril de 1997.
+
 Redação original: "III - nas infrações gravíssimas, de Cr$ 25.000,00 a Cr$ 100.000,00."
 
 **Parágrafo único** - Sem prejuízo do disposto nos artigos 221 e 224, desta Lei, na aplicação de penalidade a autoridade levará em conta a capacidade econômica do infrator.
@@ -1179,7 +1236,8 @@ Pena - advertência, apreensão e/ou inutilização do produto, suspensão de ve
 
 **Art. 231** - Quando a autoridade sanitária estadual entender que além das penalidades da sua alçada, a falta cometida enseja a aplicação de outras da competência do Ministério da Saúde e não delegadas, procederá como na forma do artigo anterior, in fine.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO PROCESSO ADMINISTRATIVO
 
 **Art. 232** - As infrações sanitárias serão apuradas em processo administrativo próprio, iniciado com a lavratura de auto de infração, observados o rito e prazos estabelecidos nesta Lei.
@@ -1316,7 +1374,8 @@ Revogado pelo Art. 288 da Lei nº 14.878 de 24 de fevereiro de 2025
 
 **§ 2º** - Não corre o prazo prescricional enquanto houver processo administrativo pendente de decisão.
 
-TÍTULO XI -<br>
+TÍTULO XI -
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 258** - O Poder Executivo baixará o regulamento e atos necessários ao exato cumprimento desta Lei.

@@ -1,5 +1,3 @@
-###DEC-004838-0-000-11-09-2003@@@
-
 DECRETO Nº 4.838,  DE 11 DE SETEMBRO DE 2003.
 
        Dispõe sobre a composição do Conselho Nacional de Ciência e Tecnologia - CCT, e dá outras providências.
@@ -48,6 +46,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 11 de setembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Roberto Átilla Amaral Vieira<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Roberto Átilla Amaral Vieira
+
 José Dirceu de Oliveira e Silva

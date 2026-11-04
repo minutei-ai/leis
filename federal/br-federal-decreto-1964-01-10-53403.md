@@ -1,5 +1,3 @@
-###DEC-053403-0-000-10-01-1964@@@
-
 DECRETO N. 53.403 – DE 10 DE JANEIRO DE  1964
 
 Dispõe sôbre a lotação dos cargos, de agente fiscal do impôsto de renda e dá outras providências.
@@ -8,7 +6,181 @@ O Presidente da República usando da atribuição que lhe confere o artigo 87, n
 
 Art. 1º Os cargos de agente fiscal do impôsto de renda, classificado por grupos de Estados de acôrdo com as disposições da Lei nº 3.780, de 12 de julho de 1960, serão lotados obrigatoriamente na Divisão do  Impôsto de Renda e nas repartições subordinadas à mesma Divisão, observada a seguinte distribuição regional:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:49.4pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:62.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Pargrafo" style="text-indent:0pt; text-align:center"><span>Classe</span></p></td><td style="width:115.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Pargrafo" style="text-indent:0pt; text-align:center"><span>Nível</span></p></td><td style="width:115.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Pargrafo" style="text-indent:0pt; text-align:center"><span>Cargos</span></p></td><td style="width:115.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Pargrafo" style="text-indent:0pt; text-align:center"><span>Regiões</span></p></td></tr><tr style="height:268.85pt"><td style="width:62.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Pargrafo" style="text-indent:0pt"><span>E</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>E</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>D</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>D</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>D</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>C</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>C</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>C</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>C</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>B</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>B</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>A</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>A</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>A</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>A</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>A</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>A</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>A</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>A</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>A</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>A</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Pargrafo" style="text-indent:0pt"><span>18</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>18</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>17</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>17</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>17</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>16</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>16</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>16</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>16</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>15</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>15</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Pargrafo" style="text-indent:0pt"><span>390</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>428</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>102</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>113</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>50</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>28</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>47</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>26</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>25</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>20</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>14</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>8</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>9</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>15</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>12</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>8</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>9</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>11</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>7</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>8</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>6</span></p></td><td style="width:115.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Pargrafo" style="text-indent:0pt"><span>Estado da Guanabara e Distrito Federal</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado de São Paulo</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado de Minas Gerais</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado do Rio Grande do Sul</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado do Rio de Janeiro</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>da Bahia</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado do Paraná</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado de Pernambuco</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado de Santa Catarina</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado do Ceará</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado do Pará</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado de Alagoas</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado do Amazonas</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado do Espírito Santo</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado de Goiás</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado do Maranhão</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado de Mato Grosso</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado da Paraíba</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado do Piauí</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado do Rio Grande do Norte</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span>Estado de Sergipe</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Pargrafo" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Classe
+
+Nível
+
+Cargos
+
+Regiões
+
+E
+
+E
+
+D
+
+D
+
+D
+
+C
+
+C
+
+C
+
+C
+
+B
+
+B
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+18
+
+18
+
+17
+
+17
+
+17
+
+16
+
+16
+
+16
+
+16
+
+15
+
+15
+
+14
+
+14
+
+14
+
+14
+
+14
+
+14
+
+14
+
+14
+
+14
+
+14
+
+390
+
+428
+
+102
+
+113
+
+50
+
+28
+
+47
+
+26
+
+25
+
+20
+
+14
+
+8
+
+9
+
+15
+
+12
+
+8
+
+9
+
+11
+
+7
+
+8
+
+6
+
+Estado da Guanabara e Distrito Federal
+
+Estado de São Paulo
+
+Estado de Minas Gerais
+
+Estado do Rio Grande do Sul
+
+Estado do Rio de Janeiro
+
+Estado   da Bahia
+
+Estado do Paraná
+
+Estado de Pernambuco
+
+Estado de Santa Catarina
+
+Estado do Ceará
+
+Estado do Pará
+
+Estado de Alagoas
+
+Estado do Amazonas
+
+Estado do Espírito Santo
+
+Estado de Goiás
+
+Estado do Maranhão
+
+Estado de Mato Grosso
+
+Estado da Paraíba
+
+Estado do Piauí
+
+Estado do Rio Grande do Norte
+
+Estado de Sergipe
 
 § 1º A lotação numérica dos cargos de que trata êste artigo, nas repartições do impôsto de renda, de cada região, será estabelecida mediante ato do Ministro da Fazenda.
 

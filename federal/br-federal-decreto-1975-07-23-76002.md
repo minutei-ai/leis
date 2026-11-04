@@ -1,5 +1,3 @@
-###DEC-076002-0-000-23-07-1975@@@
-
 DECRETO Nº 76.002 - DE 23 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação, Ciências e Letras "Urubupungá", com sede na cidade de Pereira Barreto, Estado de São Paulo.

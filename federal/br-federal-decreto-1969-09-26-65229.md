@@ -1,5 +1,3 @@
-###DEC-065229-0-000-26-09-1969@@@
-
 DECRETO Nº 65.229, DE 26 DE SETEMBRO DE 1969.
 
 Concede permissão em caráter permanente à Companhia Pitangueiras de Comércio e Indústria com sede no Estado de São Paulo, para funcionar aos domingos e nos feriados civis e religiosos, somente no setor de fabricação de metassilicato de sódio, de sua fábrica localizada no Bairro do Socorro, Santo Amaro.

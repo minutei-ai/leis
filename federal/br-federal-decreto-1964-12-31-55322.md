@@ -1,5 +1,3 @@
-###DEC-055322-0-000-31-12-1964@@@
-
 DECRETO Nº 55.322, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Carmine Nocera a lavrar areia quartoza, no município de Piquete, Estado de São Paulo.

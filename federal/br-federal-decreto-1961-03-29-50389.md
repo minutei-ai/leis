@@ -1,5 +1,3 @@
-###DEC-050389-0-000-29-03-1961@@@
-
 DECRETO Nº 50.389, DE 29 DE MARÇO DE 1961.
 
 Autoriza os órgãos medicamentos a tuberculosos.

@@ -1,5 +1,3 @@
-###DEC-094990-0-000-30-09-1987@@@
-
 DECRETO Nº 94.990, DE 30 DE SETEMBRO DE 1987
 
 Reajusta o valor do Salário Mínimo de Referência.

@@ -1,21 +1,19 @@
-###DEC-039583-0-000-13-07-1956@@@
+**DECRETO Nº 39.583, DE 13 DE JULHO DE 1956.**
 
-<strong>DECRETO Nº 39.583, DE 13 DE JULHO DE 1956.</strong>
+***Renova o Decreto n.º 35.300, de 31 de março de 1954.***
 
-<em><strong>Renova o Decreto n.º 35.300, de 31 de março de 1954.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87 n.º I, da Constituição e nos têrmos do Decreto-lei n.º 1.985, de 29 de janeiro de 1940 (Código de Minas),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87 n.º I, da Constituição e nos têrmos do Decreto-lei n.º 1.985, de 29 de janeiro de 1940 (Código de Minas),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica renovada pelo prazo improrrogável de um (1) ano nos têrmos da letra *b*, do artigo 1º, do Decreto-lei N.º 9.605, de 19 de agôsto de 1946, a autorização conferida à Companhia Brasileira Industrial de Pesquisas e Mineração, pelo Decreto número trinta e cinco mil e trezentos (35.300), de trinta e um (31) de março de mil novecentos e cinqüenta e quatro (1954), para pesquisar mica, pedra coradas e associados, no município de Itambacuri, Estado de Minas Gerais.
 
-<strong>Art</strong>. 1º Fica renovada pelo prazo improrrogável de um (1) ano nos têrmos da letra <em>b</em>, do artigo 1º, do Decreto-lei N.º 9.605, de 19 de agôsto de 1946, a autorização conferida à Companhia Brasileira Industrial de Pesquisas e Mineração, pelo Decreto número trinta e cinco mil e trezentos (35.300), de trinta e um (31) de março de mil novecentos e cinqüenta e quatro (1954), para pesquisar mica, pedra coradas e associados, no município de Itambacuri, Estado de Minas Gerais.
+**Art**. 2º O título da autorização de pesquisa que será uma via autêntica dêste Decreto, pagará a taxa de dois mil seiscentos e vinte cruzeiros (Cr$2.620,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
 
-<strong>Art</strong>. 2º O título da autorização de pesquisa que será uma via autêntica dêste Decreto, pagará a taxa de dois mil seiscentos e vinte cruzeiros (Cr$2.620,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 13 de julho de 1956, 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles

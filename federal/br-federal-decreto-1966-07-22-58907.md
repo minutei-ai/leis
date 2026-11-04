@@ -1,5 +1,3 @@
-###DEC-058907-0-000-22-07-1966@@@
-
 decreto Nº 58.907, DE 22 DE JULHO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia Central de Seguros, inclusive aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-056195-0-000-29-04-1965@@@
-
 DECRETO Nº 56.195, DE 29 DE ABRIL DE 1965.
 
 Transfere de Valentim Huebra Sanches para o Município de Lajinha, Estado de Minas Gerais, concessão para produzir e distribuir energia elétrica.

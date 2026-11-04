@@ -1,5 +1,3 @@
-###DEC-089977-0-000-18-07-1984@@@
-
 DECRETO nº 89.977, de 18 de julho de 1984
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Cabo Frio, Mangaratiba e Angra dos Reis, Estado do Rio de Janeiro; Jaboatão e Rio Formoso, Estado de Pernambuco.

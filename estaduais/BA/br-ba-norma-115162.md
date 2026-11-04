@@ -8,205 +8,119 @@ Art. 1º - O orçamento governamental do Estado da Bahia, para o exercício de 1
 
 Art. 2º - A Receita será realizada mediante a arrecadação de todos os tributos, rendas e suprimentos de fundos, inclusive do produto de operação de crédito, na forma da legislação em vigor e segundo as especificações do Anexo nº 1, compreendendo os seguintes desdobramentos:
 
-<table border="1" cellspacing="0" cellpadding="0" width="510" style="width:382.75pt;
- margin-left:1.0cm;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="197" valign="top" style="width:147.85pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Impostos<quebra></quebra></span></p></td><td width="190" valign="top" style="width:142.3pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>227.113.914,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.6pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="197" valign="top" style="width:147.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Taxas<quebra></quebra></span></p></td><td width="190" valign="top" style="width:142.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>7.427.902,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.6pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="197" valign="top" style="width:147.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Contribuição de Melhoria<quebra></quebra></span></p></td><td width="190" valign="top" style="width:142.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.000.000,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.6pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="197" valign="top" style="width:147.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Receita Patrimonial<quebra></quebra></span></p></td><td width="190" valign="top" style="width:142.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>384.210,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.6pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="197" valign="top" style="width:147.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Receita Industrial.<quebra></quebra></span></p></td><td width="190" valign="top" style="width:142.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.634.994,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.6pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="197" valign="top" style="width:147.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Transferências Correntes<quebra></quebra></span></p></td><td width="190" valign="top" style="width:142.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>45.534.000,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.6pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="197" valign="top" style="width:147.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Contribuições<quebra></quebra></span></p></td><td width="190" valign="top" style="width:142.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9.976.356,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.6pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="197" valign="top" style="width:147.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Receitas Diversas<quebra></quebra></span></p></td><td width="190" valign="top" style="width:142.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>4.285.232,00<quebra></quebra></span></u></p></td><td width="123" valign="top" style="width:92.6pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>297.386.608,00<quebra></quebra></span></p></td></tr></tbody></table>
+Impostos<quebra></quebra>
+
+227.113.914,00<quebra></quebra>
+
+<quebra></quebra>
+
+Taxas<quebra></quebra>
+
+7.427.902,00<quebra></quebra>
+
+<quebra></quebra>
+
+Contribuição de Melhoria<quebra></quebra>
+
+1.000.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+Receita Patrimonial<quebra></quebra>
+
+384.210,00<quebra></quebra>
+
+<quebra></quebra>
+
+Receita Industrial.<quebra></quebra>
+
+1.634.994,00<quebra></quebra>
+
+<quebra></quebra>
+
+Transferências Correntes<quebra></quebra>
+
+45.534.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+Contribuições<quebra></quebra>
+
+9.976.356,00<quebra></quebra>
+
+<quebra></quebra>
+
+Receitas Diversas<quebra></quebra>
+
+4.285.232,00<quebra></quebra>
+
+297.386.608,00<quebra></quebra>
 
 RECEITAS DE CAPITAL
 
-<table border="1" cellspacing="0" cellpadding="0" width="510" style="width:382.75pt;
- margin-left:1.0cm;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Operações de Crédito<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>13.000.000,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Alienação de Bens Patrimoniais<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>50.000,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Transferências de Capital<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>104.134.000,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxílios e/ou Contribuições<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.261.114,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Outras Receitas de Capital<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>51.668.278,00<quebra></quebra></span></u></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>173.113.392,00<quebra></quebra></span></p></td></tr><tr><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TOTAL GERAL<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>470.500.000,00<quebra></quebra></span></u></p></td></tr></tbody></table>
+Operações de Crédito<quebra></quebra>
+
+13.000.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+Alienação de Bens Patrimoniais<quebra></quebra>
+
+50.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+Transferências de Capital<quebra></quebra>
+
+104.134.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+Auxílios e/ou Contribuições<quebra></quebra>
+
+4.261.114,00<quebra></quebra>
+
+<quebra></quebra>
+
+Outras Receitas de Capital<quebra></quebra>
+
+51.668.278,00<quebra></quebra>
+
+173.113.392,00<quebra></quebra>
+
+TOTAL GERAL<quebra></quebra>
+
+<quebra></quebra>
+
+470.500.000,00<quebra></quebra>
 
 Art. 3º - A despesa será realizada segundo a discriminação constante dos quadros que integram o Anexo nº 2, compreendendo o seguinte desdobramento:
 
 PODER LEGISLATIVO
 
-<table border="1" cellspacing="0" cellpadding="0" width="510" style="width:382.75pt;
- margin-left:1.0cm;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Assembléia Legislativa<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.448.142,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Tribunal de Contas<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.873.840,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+Assembléia Legislativa<quebra></quebra>
+
+4.448.142,00<quebra></quebra>
+
+<quebra></quebra>
+
+Tribunal de Contas<quebra></quebra>
+
+1.873.840,00<quebra></quebra>
+
+<quebra></quebra>
 
 PODER JUDICIÁRIO
 
-<table border="1" cellspacing="0" cellpadding="0" width="510" style="width:382.75pt;
- margin-left:1.0cm;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Tribunal de Justiça<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>27.050.423,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+Tribunal de Justiça<quebra></quebra>
+
+27.050.423,00<quebra></quebra>
+
+<quebra></quebra>
 
 PODER EXECUTIVO
 
-<table border="1" cellspacing="0" cellpadding="0" width="510" style="width:382.75pt;
- margin-left:1.0cm;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Gabinete do Governador<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.440.880,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Governadoria do Estado<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>31.166.023,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ministério Público<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.585.992,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria da Agricultura<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>17.222.110,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria dos Assuntos Municipais e<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>Serviços Urbanos<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30.046.992,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria da Educação e Cultura<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>101.585.082,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria da Fazenda<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>52.603.525,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria da Indústria e Comércio<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20.106.753,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria da Justiça<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.903.656,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria do Trabalho e Bem Estar<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Social<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.693.116,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria das Minas e Energia<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>17.256.026,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria da Saúde Pública<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>28.239.736,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria da Segurança Pública<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>38.381.090,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria dos Transportes e Comunicações<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>80.404.914,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria Extraordinária<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>243.350,00<quebra></quebra></span></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Secretaria Extraordinária<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>243.350,00<quebra></quebra></span></u></p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TOTAL GERAL<quebra></quebra></span></p></td><td width="236" colspan="2" valign="top" style="width:177.2pt;border-top:none;
-  border-left:none;border-bottom:solid black .5pt;border-right:solid black .5pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>470.500.000,00<quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> Gabinete do Governador<quebra></quebra> </td><td valign="top"> 3.440.880,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Governadoria do Estado<quebra></quebra> </td><td valign="top"> 31.166.023,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Ministério Público<quebra></quebra> </td><td valign="top"> 4.585.992,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria da Agricultura<quebra></quebra> </td><td valign="top"> 17.222.110,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria dos Assuntos Municipais e<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> &nbsp;Serviços Urbanos<quebra></quebra> </td><td valign="top"> 30.046.992,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria da Educação e Cultura<quebra></quebra> </td><td valign="top"> 101.585.082,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria da Fazenda<quebra></quebra> </td><td valign="top"> 52.603.525,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria da Indústria e Comércio<quebra></quebra> </td><td valign="top"> 20.106.753,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria da Justiça<quebra></quebra> </td><td valign="top"> 6.903.656,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria do Trabalho e Bem Estar<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Social<quebra></quebra> </td><td valign="top"> 4.693.116,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria das Minas e Energia<quebra></quebra> </td><td valign="top"> 17.256.026,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria da Saúde Pública<quebra></quebra> </td><td valign="top"> 28.239.736,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria da Segurança Pública<quebra></quebra> </td><td valign="top"> 38.381.090,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria dos Transportes e Comunicações<quebra></quebra> </td><td valign="top"> 80.404.914,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria Extraordinária<quebra></quebra> </td><td valign="top"> 243.350,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> Secretaria Extraordinária<quebra></quebra> </td><td valign="top"> 243.350,00<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> TOTAL GERAL<quebra></quebra> </td><td colspan="2" valign="top"> 470.500.000,00<quebra></quebra> </td></tr></tbody></table>
 
 Art. 4º - A aplicação dos recursos apontados no artigo anterior condiciona-se à prévia aprovação, pelos Chefes dos Poderes, dos respectivos Orçamentos Analíticos que discriminarão a despesa, no mínimo, por sub-elementos e os distribuirão às unidades orçamentárias.
 
@@ -268,4 +182,4 @@ José Duarte de Araújo
 
 Luiz Prisco Viana
 
-* * *
+ *

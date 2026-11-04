@@ -1,7 +1,3 @@
-1
-
-###MPV-001454-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.454, DE 10 DE MAIO DE 1996
 
 Dá nova redação aos arts. 18 e 49 da Lei nº 9.082, de 25 de julho de 1995, que dispõe sobre as diretrizes para elaboração da lei orçamentária de 1996.

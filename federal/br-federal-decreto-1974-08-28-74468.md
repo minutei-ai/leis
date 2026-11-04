@@ -1,5 +1,3 @@
-###DEC-074468-0-000-28-08-1974@@@
-
 DECRETO Nº 74.468 - DE 28 DE AGOSTO DE 1974.
 
 Autoria o funcionamento do curso de Professores para as Disciplinas de Formação Especial no Ensino de 2º Grau do Colégio São José, mantido pela Sociedade Brasileira, Cultural e Caritativa São José, com sede na cidade de Curitiba, Estado do Paraná.

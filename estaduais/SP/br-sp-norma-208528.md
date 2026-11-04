@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208528)<br>
-
 # DECRETO N° 67.951, DE 15 DE SETEMBRO DE 2023
 
 ### _Institui a Medalha "Mérito do Comando de Policiamento Metropolitano" da Polícia Militar do Estado de São Paulo e dá providências correlatas._

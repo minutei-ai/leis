@@ -1,5 +1,3 @@
-###DEC-004879-0-000-18-11-2003@@@
-
 DECRETO Nº 4.879,  DE 18 DE NOVEMBRO DE 2003.
 
        Acrescenta inciso VI ao art. 5o do Decreto nº 4.288, de 27 de junho de 2002, que dispõe sobre as estruturas e as atribuições do Departamento-Geral do Pessoal e da Secretaria de Economia e Finanças, órgãos de direção setorial do Comando do Exército e dá outras providências.
@@ -18,5 +16,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 18 de novembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Viegas Filho

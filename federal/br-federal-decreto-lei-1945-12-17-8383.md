@@ -1,5 +1,3 @@
-###DEL-008383-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.383 – DE 17 DE DEZEMBRO DE 1945
 
 Isenta de culpa os cidadãos da classe de 1924, que foram declarados insubmissos, por terem se apresentado fora do primeiro prazo fixado para apresentação e incorporação às fileiras do Exército.

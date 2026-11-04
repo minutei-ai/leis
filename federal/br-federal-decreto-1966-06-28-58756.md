@@ -1,5 +1,3 @@
-###DEC-058756-0-000-28-06-1966@@@
-
 Decreto nº 58.756, de 28 de junho de 1966.
 
 Conforma o inciso IV do art. 21 do Regimento aprovado pelo Decreto nº 534, de 23 de janeiro de 1962, ao disposto na Lei nº 4.669, de 8 de junho de 1965.

@@ -1,5 +1,3 @@
-###DEC-006329-0-000-27-12-2007@@@
-
 DECRETO Nº 6.329, DE 27 DE DEZEMBRO DE 2007.
 
 Altera o art. 19 do Decreto no 6.170, de 25 de julho de 2007, que dispõe sobre as normas relativas às transferências de recursos da União mediante convênios e contratos de repasse.
@@ -19,5 +17,3 @@ Brasília, 27 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 28.12.2007

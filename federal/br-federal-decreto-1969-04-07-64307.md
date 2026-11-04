@@ -1,5 +1,3 @@
-###DEC-064307-0-000-07-04-1969@@@
-
 DECRETO Nº 64.307, DE 7 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Colégio da Ordem da Companhia de Maria Nossa Senhora, com sede no Estado da Guanabara.

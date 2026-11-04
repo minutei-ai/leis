@@ -1,5 +1,3 @@
-###DEC-049483-0-000-09-12-1960@@@
-
 decreto nº 49.483, de 9 de dezembro de 1960.
 
 Concede à Acil Administração, Comércio e Indústria Ltda, autorização para funcionar como emprêsa de mineração.

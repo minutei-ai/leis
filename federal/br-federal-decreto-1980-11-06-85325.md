@@ -1,5 +1,3 @@
-###DEC-085325-0-000-06-11-1980@@@
-
 Decreto nº 85.325, de 06 de novembro de 1980.
 
 Autoriza a destinação, para uso especial, do imóvel que especifica.

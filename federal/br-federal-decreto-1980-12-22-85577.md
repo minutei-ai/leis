@@ -1,5 +1,3 @@
-###DEC-085577-0-000-22-12-1980@@@
-
 Decreto nº 85.577, de 22 de dezembro de 1980
 
 Autoriza DANIEL MC CARTHY KAMMERER, de nacionalidade norte-americana, a adquirir imóvel rural.

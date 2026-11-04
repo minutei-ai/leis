@@ -1,5 +1,3 @@
-###DEC-058908-0-000-22-07-1966@@@
-
 DECRETO Nº 58.908, de 22 de julho de 1966.
 
 Concede à Alliance Assurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

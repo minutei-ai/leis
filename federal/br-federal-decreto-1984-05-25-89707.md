@@ -1,5 +1,3 @@
-###DEC-089707-0-000-25-05-1984@@@
-
 Decreto nº 89.707, de 25 de maio de 1984
 
 Dispõe sobre as empresas prestadoras de serviços para a organização de congressos, convenções, seminários e eventos congêneres, e dá outras providências.

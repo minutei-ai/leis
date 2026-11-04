@@ -1,7 +1,3 @@
-1
-
-###MPV-001018-0-000-08-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.018, DE 8 DE JUNHO DE 1995.
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e dá outras providências.

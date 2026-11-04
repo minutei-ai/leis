@@ -1,5 +1,3 @@
-###DEC-084399-0-000-16-01-1980@@@
-
 DECRETO Nº 84.399, DE 16 DE JANEIRO DE 1980.
 
 Prorroga, para 01 de julho de 1980, o prazo estabelecido no Art. 3º do Decreto nº 78.985, de 21 de dezembro de 1976, referente a interstício no posto de 1º Tenente.

@@ -1,5 +1,3 @@
-###DEC-006230-0-000-11-10-2007@@@
-
 DECRETO Nº 6.230, DE 11 DE OUTUBRO DE 2007.
 
 Estabelece o Compromisso pela Redução da Violência Contra Crianças e Adolescentes, com vistas à implementação de ações de promoção e defesa dos direitos da criança e do adolescente, por parte da União Federal, em regime de colaboração com Municípios, Estados e Distrito Federal, institui o Comitê Gestor de Políticas de Enfrentamento à Violência contra Criança e Adolescente, e dá outras providências.
@@ -75,5 +73,3 @@ Brasília, 11 de outubro de 2007; 186o da Independência e 119o da República
 LUIZ INÁCIO LULA DA SILVA
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 15.10.2007.

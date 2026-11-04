@@ -1,5 +1,3 @@
-###DEC-056749-0-000-18-08-1965@@@
-
 DECRETO Nº 56.749, DE 18 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Clovis Melo Ribeiro dos Santos a pesquisar mica no município de Encruzilhada no Estado da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001083-0-000-10-03-1994@@@
-
 DECRETO Nº 1.083, DE 10 DE MARÇO DE 1994
 
 Dispõe sobre a execução da Ata de Retificação do Décimo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 8 das Preferências Outorgadas no Período 1962/1980, entre Brasil e Bolívia, de 22 de abril de 1993.

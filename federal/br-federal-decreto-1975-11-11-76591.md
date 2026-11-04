@@ -1,5 +1,3 @@
-###DEC-076591-0-000-11-11-1975@@@
-
 DECRETO Nº 76.591, de 11 de novembro de 1975.
 
 Altera dispositivo do Regulamento para o Arsenal de Marinha do Rio de Janeiro, aprovado pelo Decreto nº 58.678, de 21 de junho de 1966.

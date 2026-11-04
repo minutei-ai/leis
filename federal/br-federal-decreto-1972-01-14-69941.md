@@ -1,5 +1,3 @@
-###DEC-069941-0-000-14-01-1972@@@
-
 DECRETO Nº 69.941, DE 14 DE JANEIRO DE 1972.
 
 Redistribui, com a respectiva ocupante, cargo do Instituto Brasileiro de Desenvolvimento Florestal para o Ministério da Agricultura, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055783-0-000-19-02-1965@@@
-
 DECRETO Nº 55.783, DE 19 DE FEVEREIRO DE 1965.
 
 Fixa o preço básico mínimo para o financiamento ou aquisição de feijão produzido no Nordeste do País, do gênero “macaçar” ou “de corda”, para o ano agrícola de 1965.

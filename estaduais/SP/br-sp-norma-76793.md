@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=76793)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2008/compilacao-lei.complementar-1041-14.04.2008.html)
 
 # LEI COMPLEMENTAR Nº 1.041, DE 14 DE ABRIL DE 2008
@@ -61,7 +60,8 @@ _\- "Caput" com redação dada pela [Lei Complementar nº 1.374, de 30/03/2022](
 
 **I -** ao servidor regido pela Consolidação das Leis do Trabalho; (NR)
 
-_\- Inciso I acrescentado pela [Lei Complementar nº 1.374, de 30/03/2022](https://www.al.sp.gov.br/norma/202860), com efeitos a partir de 60 (sessenta) dias após a data da sua publicação._<br>
+_\- Inciso I acrescentado pela [Lei Complementar nº 1.374, de 30/03/2022](https://www.al.sp.gov.br/norma/202860), com efeitos a partir de 60 (sessenta) dias após a data da sua publicação._
+
 **II -** aos integrantes do Quadro do Magistério da Secretaria da Educação. (NR)
 
 _\- Inciso II acrescentado pela [Lei Complementar nº 1.374, de 30/03/2022](https://www.al.sp.gov.br/norma/202860), com efeitos a partir de 60 (sessenta) dias após a data da sua publicação._
@@ -80,11 +80,10 @@ Aloysio Nunes Ferreira Filho
 
 Secretário-Chefe da Casa Civil
 
-<br>
-
 _\- Texto republicado no [Diário Oficial Executivo de, respectivamente, 17/04/2008](http://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20080417&Caderno=DOE-I&NumeroPagina=1) e [17/05/2008](http://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20080517&Caderno=DOE-I&NumeroPagina=1)._
 
-#### ANEXO<br>
+#### ANEXO
+
 a que se refere o artigo 1º da Lei Complementar nº 1041, de 14 de abril de 2008
 
 Profissionais da área de saúde

@@ -1,6 +1,10 @@
 > **LEI Nº 3.981, DE 03 DE OUTUBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o nome José Sidenir das Chagas ao complexo de florestas estaduais do Rio Gregório.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o nome José Sidenir das Chagas ao complexo de florestas estaduais do Rio Gregório.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual, c/c o art. 15, § 1º, X, do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 

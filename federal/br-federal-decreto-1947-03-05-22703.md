@@ -1,18 +1,16 @@
-###DEC-022703-0-000-05-03-1947@@@
+**DECRETO Nº 22.703, DE 5 DE MARÇO DE 1947.**
 
-<strong>DECRETO Nº 22.703, DE 5 DE MARÇO DE 1947.</strong>
+***Autoriza a Brasil Oiticica S. A., com sede em Fortaleza, Estado do Ceará, a instalar na referida capitaluma usina termo-elétrica destinada ao consumo exclusivo da sua indústria.***
 
-<em><strong>Autoriza a Brasil Oiticica S. A., com sede em Fortaleza, Estado do Ceará, a instalar na referida capitaluma usina termo-elétrica destinada ao consumo exclusivo da sua indústria.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e, nos têrmos do art. 10 do Decreto-lei nº 2.281, de 5 de junho de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e, nos têrmos do art. 10 do Decreto-lei nº 2.281, de 5 de junho de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É outorgada autorização à Brasil Oiticica S. A., com sede em Fortaleza, autorização para instalar na referida capital, Estado do Ceará, uma usina termo-elétrica, com capacidade de seiscentos e noventa e três (693) kW.
+**Art**. 1º É outorgada autorização à Brasil Oiticica S. A., com sede em Fortaleza, autorização para instalar na referida capital, Estado do Ceará, uma usina termo-elétrica, com capacidade de seiscentos e noventa e três (693) kW.
 
 Parágrafo único. A energia elétrica produzida destina-se ao consumo exclusivo da autorizada, que não poderá fornecer a terceiros, mesmo a título gratuito, excluídas, todavia, dessa proibição as vilas operárias da concessionária, desde que seja gratuito o fornecimento de energia elétrica que lhes fôr feito.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, a autorizada obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título, a autorizada obriga-se a:
 
 I - Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, dentro de trinta (30) dias, a partir de sua publicação;
 
@@ -28,16 +26,16 @@ VI - Apresentar o mesmo contrato à Divisão de Águas para os fins de registro 
 
 Parágrafo único. Os prazos a que se refere êste artigo, poderã ser prorrogados, por justo motivo, pelo Ministro da Agricultura, ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3º A minuta do contrato disciplinar será preparada pela Divisão de águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 3º A minuta do contrato disciplinar será preparada pela Divisão de águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º A presente autorização vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 4º A presente autorização vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 5º A autorizada gozará, desde a data do registro de que trata o nº III do art. 2º e enquanto vigorar esta autorização, dos favores constantes das leis especiais sôbre a matéria.
+**Art**. 5º A autorizada gozará, desde a data do registro de que trata o nº III do art. 2º e enquanto vigorar esta autorização, dos favores constantes das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 6º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 6º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 5 de março de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

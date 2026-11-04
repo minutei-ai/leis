@@ -1,5 +1,3 @@
-###DEC-005294-0-000-01-12-2004@@@
-
 DECRETO Nº 5.294 DE 1º DE DEZEMBRO DE 2004
 
 Fixa a lotação dos Adidos, Adjuntos e Auxiliares de Adidos Militares junto às representações diplomáticas no exterior, e dá outras providências.

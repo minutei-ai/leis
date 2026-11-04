@@ -1,20 +1,18 @@
-###DEC-063552-0-000-05-11-1968@@@
+**DECRETO Nº 63.552, DE 5 DE NOVEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.552, DE 5 DE NOVEMBRO DE 1968.</strong>
+***Determina a inclusão de um Representante do Ministério dos Transportes na Comissão Nacional para Assuntos da Associação Latino-Americana de Livre Comércio.***
 
-<em><strong>Determina a inclusão de um Representante do Ministério dos Transportes na Comissão Nacional para Assuntos da Associação Latino-Americana de Livre Comércio.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 83, item II da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 83, item II da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica incluído um representante do Ministério dos Transportes entre os membros da Comissão Nacional para Assuntos da Associação Latino-Americana de Livre Comércio, especificados pelo artigo 3º do Decreto nº 60.987, de 11 de julho de 1967.
 
-<strong>Art</strong>. 1º Fica incluído um representante do Ministério dos Transportes entre os membros da Comissão Nacional para Assuntos da Associação Latino-Americana de Livre Comércio, especificados pelo artigo 3º do Decreto nº 60.987, de 11 de julho de 1967.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 5 de novembro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 José de Magalhães Pinto
 

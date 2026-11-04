@@ -1,5 +1,3 @@
-###MPV-000069-0-000-26-09-2002@@@
-
 MEDIDA PROVISÓRIA Nº 69, DE 26 DE SETEMBRO DE 2002
 
 Dispõe sobre a proteção de informação não divulgada submetida para aprovação da comercialização de produtos e dá outras providências

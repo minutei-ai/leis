@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212230)<br>
-
 # LEI N° 18.399, DE 13 DE FEVEREIRO DE 2026
 
 ## (Projeto de lei n° 435/2025, dos Deputados Paula da Bancada Feminista - PSOL, Ana Perugini - PT, Thainara Faria - PT, Marina Helou - REDE, Beth Sahão - PT, Leci Brandão - PCdoB, Márcia Lia - PT, Monica Seixas do Movimento Pretas - PSOL, Ediane Maria - PSOL, Professora Bebel - PT e Andréa Werner - PSB)

@@ -10,7 +10,8 @@ CONSIDERANDO a documentação acostada aos autos do processo administrativo nº 
 
 Art. 1º Fica declarada de utilidade pública, para efeito de servidão de passagem e/ou desapropriação em favor da SANEAMENTO DE GOIÁS S/A – SANEAGO, sociedade de economia mista, com sede em Goiânia, Capital de Goiás, criada pela Lei Estadual nº 6.680, de 13 de setembro de 1967, concessionária dos serviços de água e esgoto sanitário do Município de Aparecida de Goiânia, as áreas abaixo descritas, destinadas à construção de unidades integrantes do Sistema de Esgotamento Sanitário deste Município, nos seguintes limites e confrontações:
 
-DESCRIÇÕES DO IMÓVEL:<br>
+DESCRIÇÕES DO IMÓVEL:
+
 CIDADE: APARECIDA DE GOIÂNIA
 
 Município: Aparecida de Goiânia – GO
@@ -29,10 +30,12 @@ Superfície: 2.762,76 m²                                     
 
 ART/CREA-GO: 1020220203726                           Processo: 17317/2009
 
-LIMITES E CONFRONTAÇÕES DO PERÍMETRO<br>
+LIMITES E CONFRONTAÇÕES DO PERÍMETRO
+
 REDES DE ÁGUA E ESGOTO
 
-Servidão de Passagem SANEAGO – Trecho 1<br>
+Servidão de Passagem SANEAGO – Trecho 1
+
 Área: 2.762,76 m²
 
 A presente descrição destina-se à faixa de servidão da RDR (Rede de Distribuição Rural) de energia elétrica, adutora e acesso ao Poço PF-05, e conta com 20,00 metros de largura em toda sua extensão, na seguinte descrição: Inicia-se este perímetro no vértice P1, de coordenadas N 8.137.852,61m e E 681.780,83m; localizado na divisa do imóvel com a Rua Ônix; deste, segue com os seguintes azimutes e distâncias: 98°30' e 137,89 m até o vértice P2, de coordenadas N 8.137.831,05m e E 681.917,00m; 188°10' e 20,00 m até o vértice P3, de coordenadas N 8.137.811,28m e E 681.913,98m; 278°29' e 138,46 m até o vértice P4, de coordenadas N 8.137.832,93m e E 681.777,25m; 10°18'36" e 20,00 m até o vértice P1, ponto inicial da descrição deste perímetro. Todas as coordenadas aqui descritas encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central nº - 51°00', Fuso 22, tendo como Datum o SIRGAS 2000.
@@ -47,8 +50,10 @@ Art. 4º - Este decreto entrará em vigor na data de sua publicação, revogadas
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA - GO, aos 16 de fevereiro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo

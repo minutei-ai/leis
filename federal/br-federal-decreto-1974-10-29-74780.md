@@ -1,5 +1,3 @@
-###DEC-074780-0-000-29-10-1974@@@
-
 DECRETO Nº 74.780, DE 29 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento dos cursos de Ciências, de Matemática e de Desenho e Plástica da Faculdade de Filosofia, Cincias e Letras de São José do Rio Pardo, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098991-0-000-02-03-1990@@@
-
 DECRETO Nº 98.991, DE 2 DE MARÇO DE 1990.
 
 Declara de interesse social, para fins de reforma agrária, parte dos imóveis rurais denominados “FAZENDAS DESPRAIADO e RONDA”, situados no Município de Curitibanos, Estado de Santa Catarina, e dá outras providências.

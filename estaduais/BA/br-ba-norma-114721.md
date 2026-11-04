@@ -14,7 +14,8 @@ c) cinco milhões de cruzeiros (Cr$5.000.000,00) para atender às despesas de re
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito, correrão à conta da codificação 3.05.08 - verba 3.1.4.19-1, do orçamento de 1965.
 
-Redação de acordo com a Lei nº 2.145, de 08 de abril de 1965.<br>
+Redação de acordo com a Lei nº 2.145, de 08 de abril de 1965.
+
 Redação original: "Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da codificação 3.05.08 - Verba 1.6.21.1, do orçamento em vigor."
 
 Art. 3º - Revogam-se as disposições contrário.
@@ -29,4 +30,4 @@ Adelaldo Ribeiro
 
 Ivo Braga
 
-* * *
+ *

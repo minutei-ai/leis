@@ -1,5 +1,3 @@
-###DEC-006879-0-000-18-06-2009@@@
-
 DECRETO Nº 6.879, DE 18 DE JUNHO DE 2009.
 
 Dispõe sobre a execução da Ata de Retificação, de 30 de março de 2009, do Segundo Protocolo Adicional ao Apêndice II do Acordo de Complementação Econômica no 55, entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e os Estados Unidos Mexicanos.

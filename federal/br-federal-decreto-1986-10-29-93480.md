@@ -1,5 +1,3 @@
-###DEC-093480-0-000-29-10-1986@@@
-
 DECRETO Nº 93.480, DE 29 DE OUTUBRO DE 1986.
 
 Exige registro profissional para reclassificação e ingresso nas categorias funcionais do Grupo-Arquivo do Serviço Civil do Poder Executivo.

@@ -1,5 +1,3 @@
-###DEC-044929-0-000-01-12-1958@@@
-
 DECRETO Nº 44.929, DE 1º DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Chaffyr Ferreira a lavrar ocre e minério de ferro, nos municípios de Belo Horizonte e Betim, Estado de Minas Gerais.

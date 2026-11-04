@@ -1,5 +1,3 @@
-###DEC-066462-0-000-20-04-1970@@@
-
 DECRETO Nº 66.462, DE 20 DE ABRIL DE 1970.
 
 Institui a Comissão de Fiscalização e Recebimento de Submarinos na Inglaterra.

@@ -1,5 +1,3 @@
-###DEC-082789-0-000-04-12-1978@@@
-
 Decreto nº 82 789, de 04 de dezembro de 1978
 
 Renova por 10 (dez) anos a concessão outorgada à Empresa Jornal Comércio S.A para que a Emissoras Guararapes Ltda. passe a executar o serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Limoeiro, Estado de Pernambuco.

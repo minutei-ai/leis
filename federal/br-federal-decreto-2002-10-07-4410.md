@@ -1,5 +1,3 @@
-###DEC-004410-0-000-07-10-2002@@@
-
 DECRETO Nº 4.410, DE 7 DE OUTUBRO DE 2002
 
 Promulga a Convenção Interamericana contra a Corrupção, de 29 de março de 1996, com reserva para o art. XI, parágrafo 1, inciso c.

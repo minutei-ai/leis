@@ -1,5 +1,3 @@
-###DEC-096564-0-000-24-08-1988@@@
-
 # DECRETO N° 96.564, DE 24 DE AGOSTO DE 1988
 
 Renova concessão outorgada à RÁDIO REGIONAL DE CIANORTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Cianorte, Estado do Paraná.

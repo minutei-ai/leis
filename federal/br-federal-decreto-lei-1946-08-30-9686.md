@@ -1,5 +1,3 @@
-###DEL-009686-0-000-30-08-1946@@@
-
 DECRETO-LEI N. 9.686 – DE 30 DE AGÔSTO DE 1946
 
 Suspende o vencimento das obrigações assumidas pelos “pecuaristas” e dá outras providências

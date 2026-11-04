@@ -1,16 +1,14 @@
-###DEC-036451-0-000-10-11-1954@@@
+**DECRETO Nº 36.451, DE 10 DE NOVEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.451, DE 10 DE NOVEMBRO DE 1954.</strong>
+***Altera dispositivo do Regimento do Departamento Nacional da Produção Animal do Ministério da Agricultura.***
 
-<em><strong>Altera dispositivo do Regimento do Departamento Nacional da Produção Animal do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º O art. 53 do Regimento do Departamento Nacional da Produção Animal do Ministério da Agricultura, aprovado pelo Decreto nº 25.386, de 19 de agôsto de 1948, passa a vigorar com as seguintes alterações:
 
-<strong>Art</strong>. 1º O art. 53 do Regimento do Departamento Nacional da Produção Animal do Ministério da Agricultura, aprovado pelo Decreto nº 25.386, de 19 de agôsto de 1948, passa a vigorar com as seguintes alterações:
-
-<strong>Art</strong>. 53 . A Policlínica de Pescadores manterá:
+**Art**. 53 . A Policlínica de Pescadores manterá:
 
 Na sede:
 
@@ -64,10 +62,10 @@ o) Farmácia.
 
 § 7º Dentro do prazo de 30 (trinta), dias serão pelo Ministério da Agricultura baixadas instruções regulando a matéria.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 10 de novembro de 1974; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Costa Porto

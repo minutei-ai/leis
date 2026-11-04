@@ -1,7 +1,3 @@
-1
-
-###DEL-000521-0-000-07-04-1969@@@
-
 DECRETO-LEI Nº 521, DE 7 DE ABRIL DE 1969
 
 Estabelece norma de contabilidade para a Delegacia do Tesouro Brasileiro no Exterior

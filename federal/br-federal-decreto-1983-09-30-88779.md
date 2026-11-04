@@ -1,5 +1,3 @@
-###DEC-088779-0-000-30-09-1983@@@
-
 DECRETO nº 88.779, de 30 de setembro de 1983
 
 Altera a subordinação do Centro Tecnológico do Exército

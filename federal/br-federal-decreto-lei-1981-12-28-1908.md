@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c401169f-b861-4309-a75f-34c2e245090d/texto#nowhere)
 
-###DEL-001908-0-000-28-12-1981@@@
-
 # dECRETO-LEI Nº 1.908, de 28 de dezembro de 1981
 
 Dá nova redação ao art. 2º do Decreto-lei nº 1.798, de 24 de julho de 1980, que estabelece limite de remuneração mensal para os servidores da Administração Federal e dá outras providências.

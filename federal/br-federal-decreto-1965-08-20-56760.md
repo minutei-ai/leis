@@ -1,5 +1,3 @@
-###DEC-056760-0-000-20-08-1965@@@
-
 DECRETO Nº 56.760, DE 20 DE AGôSTO DE 1965.
 
 Autoriza o cidadão brasileiro Christovão Moreira da Silva a pesquisar argila, no município de Rezende, Estado do Rio de Janeiro.

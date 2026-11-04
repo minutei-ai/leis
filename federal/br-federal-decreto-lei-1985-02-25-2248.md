@@ -1,5 +1,3 @@
-###DEL-002248-0-000-25-02-1985@@@
-
 # Decreto-lei nº 2.248, de 25 de fevereiro de 1985
 
 Concede isenção dos impostos de importação, e sobre produtos industrializados aos bens destinados aos Censos Econômicos de 1985.
@@ -21,8 +19,6 @@ Brasília, em 25 de fevereiro de 1985; 164º da Independência e 97º da Repúbl
 JOÃO FIGUEIREDO
 
 Delfim Netto
-
-###DEL-002248-0-000-25-02-1985@@@RET01+++
 
 # Decreto-Lei nº 2.248, de 25 de fevereiro de 1985
 

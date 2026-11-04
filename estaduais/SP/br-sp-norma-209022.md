@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209022)<br>
-
 # DECRETO N° 68.251, DE 27 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 273+160m e 295+485m da Rodovia SP-333, no Município de Guarantã, e dá providências correlatas._

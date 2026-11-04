@@ -1,5 +1,3 @@
-###DEC-054243-0-000-02-09-1964@@@
-
 decreto nº 54.243, de 2 de setembro de 1964.
 
 Aprova a revisão dos Quadros de Pessoal do Instituto Nacional do Pinho e dá outras providências.

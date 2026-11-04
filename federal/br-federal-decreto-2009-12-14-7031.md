@@ -1,5 +1,3 @@
-###DEC-007031-0-000-14-12-2009@@@
-
 DECRETO Nº 7.031, DE 14 DE DEZEMBRO DE 2009.
 
 Prorroga até 29 de junho de 2010 o prazo a que se refere o caput do art. 1o da Lei no 12.096, de 24 de novembro de 2009, que autoriza a concessão de subvenção econômica ao Banco Nacional do Desenvolvimento Econômico e Social - BNDES, em operações de financiamento destinadas à aquisição e produção de bens de capital e à inovação tecnológica.

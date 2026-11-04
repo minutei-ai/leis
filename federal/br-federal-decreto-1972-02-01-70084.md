@@ -1,5 +1,3 @@
-###DEC-070084-0-000-01-02-1972@@@
-
 DECRETO Nº 70.084, DE 1 DE FEVEREIRO DE 1972.
 
 Localiza, no Campo dos Afonsos, Estado da Guanabara, a sede do comando de Formação e Aperfeiçoamento, do Ministério da Aeronáutica.

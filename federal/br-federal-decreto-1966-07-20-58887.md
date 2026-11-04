@@ -1,5 +1,3 @@
-###DEC-058887-0-000-20-07-1966@@@
-
 DECRETO Nº 58.887, de 20 de julho de 1966.
 
 Autoriza a Companhia Brasileira de Usinas Metalúrgicas a lavrar minério de ferro no município de Antônio Dias , no Estado de Minas Gerais.

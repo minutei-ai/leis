@@ -1,5 +1,3 @@
-###DEC-051005-0-000-20-07-1961@@@
-
 DECRETO Nº 51.005, DE 20 DE JULHO DE 1961.
 
 Dispõe sôbre a Comissão de Estudos Legislativos do Ministério da Justiça e Negócios Interiores.

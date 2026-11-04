@@ -1,5 +1,3 @@
-###DEL-008495-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.495 – DE 28 DE DEZEMBRO DE 1945
 
 Transfere à Superintendência da Moeda e do Crédito as atribuições de que trata o Decreto-lei número 6.419, de 13 de abril de 1944, e dá outras providências.

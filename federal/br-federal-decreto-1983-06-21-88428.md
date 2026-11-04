@@ -1,5 +1,3 @@
-###DEC-088428-0-000-21-06-1983@@@
-
 Decreto nº 88.428, de 21 de junho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra com benfeitorias necessárias à implantação do canteiro de obras da usina hidrelétrica de Xingó, da Companhia Hidroelétrica do São Francisco - CHESF, nos Estados de Alagoas e Sergipe.

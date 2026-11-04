@@ -1,5 +1,3 @@
-###DEC-056113-0-000-26-04-1965@@@
-
 DECRETO Nº 56.113, DE 26 DE ABRIL DE 1965.
 
 Renova o Decreto nº 1.606, de 22 de novembro de 1962.

@@ -1,5 +1,3 @@
-###DEC-052548-0-000-30-09-1963@@@
-
 DECRETO Nº 52.548, DE 30 DE SETEMBRO DE 1963.
 
 Outorga a Centrais Elétricas de Minas Gerais S.A. (CEMIG) concessão para distribuir energia elétrica no Município de Cristais, Estado de Minas Gerais.

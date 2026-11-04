@@ -1,5 +1,3 @@
-###DEC-077781-0-000-08-06-1976@@@
-
 Decreto Nº 77.781, DE 8 DE JUNHO DE 1976.
 
 Declara a caducidade da concessão outorgada a Milton de Souza Carvalho para lavrar dolomita no Município de Paraíba do Sul, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-076642-0-000-19-11-1975@@@
-
 DECRETO Nº 76.642, DE 19 DE NOVEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

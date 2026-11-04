@@ -1,5 +1,3 @@
-###DEC-065043-0-000-22-08-1969@@@
-
 DECRETO Nº 65.043 - DE 22 DE AGÔSTO DE 1969.
 
 Autorização para funcionamento de Curso.

@@ -1,5 +1,3 @@
-###DEC-048356-0-000-21-06-1960@@@
-
 DECRETO Nº 48.356, DE 21 DE JUNHO DE 1960.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar calcário no município de Patos de Minas, Estado de Minas Gerais.

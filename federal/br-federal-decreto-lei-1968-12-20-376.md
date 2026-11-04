@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/beb78524-8474-4d6e-a231-d25f8fe05fcd/texto#nowhere)
 
-###DEL-000376-0-000-20-12-1968@@@
-
 DECRETO-LEI Nº 376, DE 20 DE DEZEMBRO DE 1968
 
 Fixa vencimentos básicos de cargos do Poder Judiciário e dos Tribunais de Contas da União, do Distrito Federal e do Ministério Público e dá outras providências.

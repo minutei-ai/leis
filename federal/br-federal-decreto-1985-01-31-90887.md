@@ -1,5 +1,3 @@
-###DEC-090887-0-000-31-01-1985@@@
-
 Decreto nº 90.887, de 31 dE janeiro de 1985
 
 Outorga concessão à REDE ALMEIDA PIMENTEL DE RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Curitiba, Estado do Paraná.

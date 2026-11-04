@@ -1,5 +1,3 @@
-###DEC-059774-0-000-16-12-1966@@@
-
 Decreto nº 59.774, de 16 de dezembro de 1966.
 
 Autoriza o cidadão brasileiro Roberto Gonçalves Guimarães a pesquisar feldspato e caulim, no município de Rio Bonito, Estado do Rio de Janeiro.

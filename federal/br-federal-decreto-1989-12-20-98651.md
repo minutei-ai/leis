@@ -1,7 +1,3 @@
-1
-
-###DEC-098651-0-000-20-12-1989@@@
-
 DECRETO Nº 98.651, DE 20 DE DEZEMBRO DE 1989
 
 Outorga concessão à RBC  Rede Brasiliense de Comunicação Ltda., para explorar Serviço Especial de Televisão por Assinatura - TVA, no Distrito Federal.

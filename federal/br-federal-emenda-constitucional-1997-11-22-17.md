@@ -1,20 +1,18 @@
-###EMC-000017-0-000-22-11-1997@@@
+# **EMENDA CONSTITUCIONAL Nº 17**
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>EMENDA CONSTITUCIONAL Nº 17</strong></span></span></h1>
-
-<em>Altera dispositivos dos arts. 71 e 72 do Ato das Disposições Constitucionais Transitórias, introduzidos pela Emenda Constitucional de Revisão nº 1, de 1994.</em>
+*Altera dispositivos dos arts. 71 e 72 do Ato das Disposições Constitucionais Transitórias, introduzidos pela Emenda Constitucional de Revisão nº 1, de 1994.*
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-<strong>Art</strong>. 1º O <em>caput</em> do art. 71 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
+**Art**. 1º O *caput* do art. 71 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
 
 “Art. 71. É Instituído, nos exercícios financeiros de 1994 e 1995, bem assim nos períodos de 1º de janeiro de 1996 a 30 de junho de 1997 e 1º de julho de 1997 a 31 de dezembro de 1999, o Fundo Social de Emergência, com o objetivo de saneamento financeiro da Fazenda Pública Federal e de estabilização econômica, cujos recursos serão aplicados prioritariamente no custeio das ações dos sistemas de saúde e educação, incluindo a complementação de recursos de que trata o § 3º do art. 60 do Ato das Disposições Constitucionais Transitórias, benefícios previdenciários e auxílios assistenciais de prestação continuada, inclusive liquidação de passivo previdenciário, e despesas orçamentárias associadas a programas de relevante interesse econômico social.”
 
-<strong>Art</strong>. 2º inciso V do art. 72 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
+**Art**. 2º inciso V do art. 72 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
 
 “V - a parcela do produto da arrecadação da contribuição de que trata a Lei Complementar nº 7, de 7 de setembro de 1970, devida pelas pessoas jurídicas a que se refere o inciso III deste artigo, a qual será calculada, nos exercícios financeiros de 1994 a 1995, bem assim nos períodos de 1º de janeiro de 1996 a 30 de junho de 1997 e de 1º de julho de 1997 a 31 de dezembro de 1999, mediante a aplicação da alíquota de setenta e cinco centésimos por cento, sujeita a alteração por lei ordinária posterior, sobre a receita bruta operacional, como definida na legislação do imposto sobre renda e proventos de qualquer natureza;”
 
-<strong>Art</strong>. 3º A União repassará aos Municípios, do produto da arrecadação do Imposto sobre a Renda e Proventos de Qualquer Natureza, tal como considerado na constituição dos fundos de que trata o art. 159, I, da Constituição, excluída a parcela referida no art. 72, I, do Ato das Disposições Constitucionais Transitórias, os seguintes percentuais:
+**Art**. 3º A União repassará aos Municípios, do produto da arrecadação do Imposto sobre a Renda e Proventos de Qualquer Natureza, tal como considerado na constituição dos fundos de que trata o art. 159, I, da Constituição, excluída a parcela referida no art. 72, I, do Ato das Disposições Constitucionais Transitórias, os seguintes percentuais:
 
 I - um inteiro e cinqüenta e seis centésimos por cento, no período de 1º de julho de 1997 a 31 de dezembro de 1997;
 
@@ -24,14 +22,68 @@ III - dois inteiros e cinco décimos por cento, no período de 1º de janeiro de
 
 Parágrafo único. O repasse dos recursos de que trata este artigo obedecerá à mesma periodicidade e aos mesmos critérios de repartição e normas adotadas no Fundo de Participação dos Municípios, observado o disposto no art. 160 da Constituição.
 
-<strong>Art</strong>. 4º Os efeitos do disposto nos arts. 71 e 72 do Ato das Disposições Constitucionais Transitórias, com a redação dada pelos arts. 1º e 2º desta Emenda, são retroativos a 1º de julho de 1997.
+**Art**. 4º Os efeitos do disposto nos arts. 71 e 72 do Ato das Disposições Constitucionais Transitórias, com a redação dada pelos arts. 1º e 2º desta Emenda, são retroativos a 1º de julho de 1997.
 
 Parágrafo único. As parcelas de recursos destinados ao Fundo de Estabilização Fiscal e entregues na forma do art. 159, I, da Constituição, no período compreendido entre 1º de julho de 1997 e a data de promulgação desta Emenda, serão deduzidas das cotas subseqüentes, limitada a dedução a um décimo do valor total entregue em cada mês.
 
-<strong>Art</strong>. 5º Observado o disposto no artigo anterior, a União aplicará as disposições do art. 3º desta Emenda retroativamente a 1º de julho de 1997.
+**Art**. 5º Observado o disposto no artigo anterior, a União aplicará as disposições do art. 3º desta Emenda retroativamente a 1º de julho de 1997.
 
-<strong>Art</strong>. 6º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+**Art**. 6º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, 22 de novembro de 1997
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Mesa da Câmara dos Deputados</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Deputado MICHEL TEMER</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Senador ANTONIO CARLOS MAGALHÃES</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Deputado HERÁCLITO FORTES</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Senador GERALDO MELO</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Deputado SEVERINO CAVALCANTI</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Senadora JÚNIA MARISE</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Deputado UBIRATAN AGUIAR</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Senador RONALDO CUNHA LIMA</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Deputado NELSON TRAD</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Senador CARLOS PATROCÍNIO</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Deputado PAULO PAIM</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Senador FLAVIANO MELO</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>Deputado EFRAIM MORAIS</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr></tbody></table>
+Mesa da Câmara dos Deputados
+
+Mesa do Senado Federal
+
+Deputado MICHEL TEMER
+
+Presidente
+
+Senador ANTONIO CARLOS MAGALHÃES
+
+Presidente
+
+Deputado HERÁCLITO FORTES
+
+1º Vice-Presidente
+
+Senador GERALDO MELO
+
+1º Vice-Presidente
+
+Deputado SEVERINO CAVALCANTI
+
+2º Vice-Presidente
+
+Senadora JÚNIA MARISE
+
+2º Vice-Presidente
+
+Deputado UBIRATAN AGUIAR
+
+1º Secretário
+
+Senador RONALDO CUNHA LIMA
+
+1º Secretário
+
+Deputado NELSON TRAD
+
+2º Secretário
+
+Senador CARLOS PATROCÍNIO
+
+2º Secretário
+
+Deputado PAULO PAIM
+
+3º Secretário
+
+Senador FLAVIANO MELO
+
+3º Secretário
+
+Deputado EFRAIM MORAIS
+
+4º Secretário

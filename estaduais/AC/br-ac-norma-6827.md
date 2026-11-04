@@ -1,6 +1,10 @@
 > **LEI Nº 4.812, DE 09 DE JUNHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.422, de 18 de dezembro de 2001, para instituir a cobrança de custas por diligência judiciais realizadas por meio de sistemas eletrônicos conveniados.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.422, de 18 de dezembro de 2001, para instituir a cobrança de custas por diligência judiciais realizadas por meio de sistemas eletrônicos conveniados.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 
@@ -32,4 +36,12 @@ Governadora do Estado do Acre
 
 **Taxa de Diligências em Processos Cíveis**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>Buscas de endereço, pesquisa ou bloqueio de bens e valores em órgãos conveniados, inclusão de aprontamentos ou quebra de sigilo fiscal ou telemático, quando realizados por meio dos sistemas Infojud, Sisbajud, Renajud, Siel, Sniper, Serasajud, CRCjud, Infoseg ou análogos</span></span></p></td><td><p><span><span>R$ 35,00 (valor por cada CPF/CNPJ)</span></span></p></td></tr></tbody></table>
+<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td>
+
+Buscas de endereço, pesquisa ou bloqueio de bens e valores em órgãos conveniados, inclusão de aprontamentos ou quebra de sigilo fiscal ou telemático, quando realizados por meio dos sistemas Infojud, Sisbajud, Renajud, Siel, Sniper, Serasajud, CRCjud, Infoseg ou análogos
+
+</td><td>
+
+R$ 35,00 (valor por cada CPF/CNPJ)
+
+</td></tr></tbody></table>

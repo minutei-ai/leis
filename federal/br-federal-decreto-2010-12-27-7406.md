@@ -1,5 +1,3 @@
-###DEC-007406-0-000-27-12-2010-PUB-01@@@
-
 DECRETO Nº 7.406, DE 27 DE DEZEMBRO DE 2010
 
 Dispõe sobre o remanejamento de cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS e altera os arts. 2º e 11 do Anexo I e o Anexo II ao Decreto nº 6.382, de 27 de fevereiro de 2008.

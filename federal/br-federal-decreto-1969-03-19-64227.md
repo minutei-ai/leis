@@ -1,5 +1,3 @@
-###DEC-064227-0-000-19-03-1969@@@
-
 DECRETO Nº 64.227, DE 19 DE MARÇO DE 1969.
 
 Concede à S.A. Indústrias Votorantim o direito de lavar dolomita, no município de Itararé, Estado de São Paulo.

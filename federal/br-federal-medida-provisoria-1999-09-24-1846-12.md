@@ -1,5 +1,3 @@
-###MPV-001846-0-012-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.846-12, DE 24 DE SETEMBRO DE 1999.
 
 Dispõe sobre as operações com recursos dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste, de que trata a Lei nº 7.827, de 27 de setembro de 1989, e dá outras providências.

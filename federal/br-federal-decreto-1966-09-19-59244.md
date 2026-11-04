@@ -1,5 +1,3 @@
-###DEC-059244-0-000-19-09-1966@@@
-
 DECRETO Nº 59.244, DE 19 DE SETEMBRO DE 1966.
 
 Outorga ao Município de Toledo, Estado do Paraná, concessão para aproveitamento de energia hidráulica.

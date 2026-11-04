@@ -1,5 +1,3 @@
-###DEC-073770-0-000-07-03-1974@@@
-
 DECRETO Nº 73.770, DE 7 DE MARÇO DE 1974.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal da Agência Nacional, e dá outras providências.

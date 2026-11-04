@@ -4,7 +4,8 @@ Dispõe sobre a criação, composição e competências do Conselho Municipal de
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA FINALIDADE E DA COMPETÊNCIA
 
 Art. 1º Fica o Poder Executivo Municipal autorizado a instituir o Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia - COMPIR, órgão permanente, nos termos desta Lei.
@@ -13,7 +14,8 @@ Art. 1º Fica o Poder Executivo Municipal autorizado a instituir o Conselho Muni
 
 § 2º O Conselho possui uma composição plural e paritária entre Estado e sociedade civil, de natureza deliberativa e consultiva, cuja função é formular e controlar a execução das políticas públicas.
 
-Art. 2º O Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia fica vinculado à Secretaria de Articulação Política e tem por finalidade:<br>
+Art. 2º O Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia fica vinculado à Secretaria de Articulação Política e tem por finalidade:
+
 ​​​​​​​(Redação alterada pela Lei Ordinária nº 3.376, de 11 de setembro de 2017).
 
 ~~Art. 2º O Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia fica vinculado à Secretaria de Cultura e Turismo e tem por finalidade:~~
@@ -30,7 +32,8 @@ II - propor estratégias de acompanhamento, avaliação e fiscalização das pol
 
 III - deliberar anualmente a proposta e a execução orçamentária da Secretaria de Cultura e Turismo, bem como os recursos alocados e a execução orçamentária dos demais órgãos do governo municipal visando a implementação de políticas de Promoção da igualdade Racial nas respectivas áreas de competência;
 
-IV - apoiar a Secretaria de Articulação Política, através da Coordenadoria de Igualdade Racial, na articulação com outros órgãos da administração pública municipal e os governos estadual e federal;<br>
+IV - apoiar a Secretaria de Articulação Política, através da Coordenadoria de Igualdade Racial, na articulação com outros órgãos da administração pública municipal e os governos estadual e federal;
+
 (Redação alterada pela Lei Ordinária nº 3.376, de 11 de setembro de 2017).
 
 ~~IV - apoiar a Secretaria de Cultura e Turismo, através da Diretoria de Igualdade Racial, na articulação com outros órgãos da administração pública municipal e os governos estadual e federal;~~
@@ -53,14 +56,16 @@ XII - propor a atualização da legislação relacionada com as atividades de pr
 
 XIII - elaborar seu regimento interno e decidir sobre as alterações propostas por seus membros.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA COMPOSIÇÃO E DO FUNCIONAMENTO
 
 Art. 4º O Conselho Municipal de Promoção da Igualdade Racial - COMPIR será composto de forma paritária por representantes do Poder Público Municipal e da Sociedade Civil, observando-se o seguinte:
 
 I) - No máximo, 08 (oito) representantes titulares e suplentes do Poder Público Municipal designado pelos respectivos Secretários Municipais:
 
-a)    01 (um) representante da Secretaria Municipal de Articulação Política e 01 (um) suplente;<br>
+a)    01 (um) representante da Secretaria Municipal de Articulação Política e 01 (um) suplente;
+
 (Redação alterada pela Lei Ordinária nº 3.376, de 11 de setembro de 2017).
 
 ~~a)    01 (um) representante da Secretaria Municipal de Cultura e Turismo e 01 (um) suplente;~~
@@ -69,34 +74,40 @@ b)    01 (um) representante da Câmara Municipal e 01 (um) suplente;
 
 c)    01 (um) representante da Secretaria de Saúde e 01 (um) suplente;
 
-d)    01 (um) representante da Secretaria de Educação e Cultura e 01 (um) suplente;<br>
+d)    01 (um) representante da Secretaria de Educação e Cultura e 01 (um) suplente;
+
 (Redação alterada pela Lei Ordinária nº 3.376, de 11 de setembro de 2017).
 
 ~~d)    01 (um) representante da secretaria de Educação e 01 (um) suplente;~~
 
 e)    01 (um) representante da Secretaria de Esporte, Lazer e Juventude e 01 (um) suplente;
 
-f)    01 (um) representante da Secretaria de Assistência Social e 01 (um) suplente;<br>
+f)    01 (um) representante da Secretaria de Assistência Social e 01 (um) suplente;
+
 (Redação alterada pela Lei Ordinária nº 3.376, de 11 de setembro de 2017).
 
 ~~f)    01 (um) representante da Secretaria de Planejamento e 01 (um) suplente;~~
 
-g) 01 (um) representante da Coordenadoria de Direitos Humanos e 01 (um) suplente;<br>
+g) 01 (um) representante da Coordenadoria de Direitos Humanos e 01 (um) suplente;
+
 (Redação alterada pela Lei Ordinária nº 3.577, de 18 de setembro de 2020).
 
-~~g)    01 (um) representante da Secretaria de Governo e 01 (um) Suplente;~~<br>
+~~g)    01 (um) representante da Secretaria de Governo e 01 (um) Suplente;~~
+
 ~~(Redação alterada pela Lei Ordinária nº 3.376, de 11 de setembro de 2017).~~
 
 ~~g)    01 (um) representante da Secretaria de Governo e Integração Institucional e 01 (um) Suplente;~~
 
-h)    01 (um) representante da Coordenadoria de Igualdade Racial e 01 (um) suplente;<br>
+h)    01 (um) representante da Coordenadoria de Igualdade Racial e 01 (um) suplente;
+
 (Redação alterada pela Lei Ordinária nº 3.376, de 11 de setembro de 2017).
 
 ~~h)    01 (um) representante da Diretoria de Igualdade Racial e 01 (um) suplente;~~
 
 II - No máximo, 08 (oito) representantes de entidades da Sociedade Civil eleitos e 08 (oito) suplentes.
 
-§ 1º Os membros do conselho de que trata o inciso II serão designados pela Coordenadoria de Promoção e Igualdade Racial, de acordo com as regras estabelecidas em edital, organizadas pelo Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia - COMPIR. <br>
+§ 1º Os membros do conselho de que trata o inciso II serão designados pela Coordenadoria de Promoção e Igualdade Racial, de acordo com as regras estabelecidas em edital, organizadas pelo Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia - COMPIR. 
+
 (Redação alterada pela Lei Ordinária nº 3.376, de 11 de setembro de 2017).
 
 ~~§ 1º Os membros do conselho de que trata o inciso II serão designados pela Diretoria de Promoção e Igualdade Racial de acordo com as regras estabelecidas em edital, organizadas pelo Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia - COMPIR.~~
@@ -135,7 +146,8 @@ III - pela prática de ato incompatível com a função de conselheiro, por deci
 
 Art. 7º O COMPIR formalizará suas deliberações por meio de resoluções, que serão publicadas no Diário Oficial do Município.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 8º A organização do Conselho Municipal de Promoção da Igualdade Racial de Aparecida de Goiânia - COMPIR será estabelecida por regimento interno, aprovado por dois terços de seus membros.
@@ -154,11 +166,14 @@ Art. 13 Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 16 dias do mês de julho de 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-ELIEZER ETERNO GUIMARÃES<br>
+ELIEZER ETERNO GUIMARÃES
+
 Secretário Municipal de Cultura e Turismo

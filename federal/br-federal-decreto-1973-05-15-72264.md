@@ -1,5 +1,3 @@
-###DEC-072264-0-000-15-05-1973@@@
-
 DECRETO Nº 72.264, DE 15 de MAIO DE 1973.
 
 Concede reconhecimento ao Curso de Graduação em Física, ministrado pelo Instituto de Física da Universidade Estadual de Campinas, com sede na cidade de Campinas, Estado de São Paulo.

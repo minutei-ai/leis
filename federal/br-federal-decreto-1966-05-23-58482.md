@@ -1,5 +1,3 @@
-###DEC-058482-0-000-23-05-1966@@@
-
 Decreto nº 58.482, de 23 de maio de 1966.
 
 Autoriza o Ministério da Fazenda a dar a garantia do Tesouro Nacional à operação de crédito que menciona.

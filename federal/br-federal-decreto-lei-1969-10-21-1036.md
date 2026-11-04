@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/581084bc-739e-4b1d-b4b3-f36dd255f530/texto#nowhere)
 
-###DEL-001036-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.036, DE 21 DE OUTUBRO DE 1969
 
 Incorpora ao sistema federal de ensino superior, a Escola Superior de Agricultura de Mossoró, Estado do Rio Grande do Norte.

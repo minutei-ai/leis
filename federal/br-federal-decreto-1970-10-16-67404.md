@@ -1,5 +1,3 @@
-###DEC-067404-0-000-16-10-1970@@@
-
 DECRETO Nº 67.404, DE 16 DE OUTUBRO DE 1970.
 
 Extingue no Quadro de Pessoal - Parte Permanente - do Departamento Administrativo do Pessoal Civil.

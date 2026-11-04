@@ -1,5 +1,3 @@
-###DEL-008893-0-000-24-01-1946@@@
-
 DECRETO–LEI N. 8.893 – DE 24 DE JANEIRO DE 1946
 
 Equipara aos professores catedráticos do Colégio Pedro II, para efeito de vencimentos e vantagens, os cargos de Orientador Educacional.

@@ -1,5 +1,3 @@
-###DEC-055668-0-000-01-02-1965@@@
-
 DECRETO Nº 55.668, DE 01 DE FEVEREIRO de 1965.
 
 Autoriza o cidadão brasileiro Luiz Antônio de Souza Queiroz Ferraz a pesquisar areia quartzosa no município de Descalvado, Estado de São Paulo.

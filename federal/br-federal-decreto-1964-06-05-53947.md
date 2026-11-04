@@ -1,5 +1,3 @@
-###DEC-053947-0-000-05-06-1964@@@
-
 DECRETO Nº 53.947, DE 5 DE JUNHO DE 1964.
 
 Dispõe sôbre a execução dos Convênios Nacionais de Estatística Municipal e dá outras providências.

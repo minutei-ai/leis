@@ -1,5 +1,3 @@
-###DEC-059771-0-000-16-12-1966@@@
-
 DECRETO Nº 59.771, DE 16 DE DEZEMBRO DE 1966.
 
 Autoriza Comércio e Mineração Itabirito Ltda., a lavrar minérios de ferro e manganês no município de Itabirito, Estado de Minas Gerais.

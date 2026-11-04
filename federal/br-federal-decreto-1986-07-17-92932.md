@@ -1,5 +1,3 @@
-###DEC-092932-0-000-17-07-1986@@@
-
 DECRETO Nº 92.932, DE 17 DE JULHO DE 1986
 
 Altera a subordinação de Organizações Militares do Exército, e dá outras providências.

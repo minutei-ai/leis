@@ -1,5 +1,3 @@
-###DEL-003605-0-000-10-09-1941@@@
-
 DECRETO-LEI N. 3.605 – DE 10 DE SETEMBRO DE 1941
 
 Reserva para o consumo do país a produção de carvão do Estado de Santa Catarina

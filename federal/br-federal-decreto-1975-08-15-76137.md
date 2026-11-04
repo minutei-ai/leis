@@ -1,5 +1,3 @@
-###DEC-076137-0-000-15-08-1975@@@
-
 DECRETO Nº 76.137 - DE 15 DE AGOSTO DE 1975
 
 Dá nova denominação à Capitania dos Portos dos Estados da Guanabara e do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-075381-0-000-14-02-1975@@@
-
 DECRETO Nº 75.381, DE 14 DE FEVEREIRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Itaí Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Guaíba, Estado do Rio Grande do Sul.

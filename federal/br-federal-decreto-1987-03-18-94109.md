@@ -1,5 +1,3 @@
-###DEC-094109-0-000-18-03-1987@@@
-
 DECRETO N° 94.109, DE 18 DE MARÇO DE 1987
 
 Altera a estrutura do Conselho Nacional do Comércio Exterior (CONCEX).

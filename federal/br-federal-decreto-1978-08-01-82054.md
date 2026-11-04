@@ -1,5 +1,3 @@
-###DEC-082054-0-000-01-08-1978@@@
-
 Decreto n º 82.054, de 01 dE agosto de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Mossoró, Estado do Rio Grande do Norte.

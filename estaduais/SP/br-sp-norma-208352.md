@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208352)<br>
-
 # DECRETO N° 67.843, DE 27 DE JULHO DE 2023
 
 ### _Revoga o Decreto n° 64.164, de 3 de abril de 2019._

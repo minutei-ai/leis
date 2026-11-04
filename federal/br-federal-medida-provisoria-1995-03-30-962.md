@@ -1,7 +1,3 @@
-1
-
-###MPV-000962-0-000-30-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 962, DE 30 DE MARÇO 1995
 
 Dispõe sobre a organização da Presidência da, no uso República e dos Ministérios, e dá outras providências.

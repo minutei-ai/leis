@@ -1,5 +1,3 @@
-###DEC-091270-0-000-29-05-1985@@@
-
 DECRETO Nº 91.270, DE 29 DE MAIO DE 1985.
 
 Estabelece normas de atuação de empresas estatais e seus dirigentes, sobre o controle de recursos e dispêndios, de que trata o Decreto nº 84.128, de 29 de outubro de 1979, e dá outras providências.

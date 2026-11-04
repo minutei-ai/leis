@@ -1,5 +1,3 @@
-###DEC-069456-0-000-03-11-1971@@@
-
 DECRETO Nº 69.456 - DE 3 DE NOVEMBRO DE 1971
 
 Aprova avaliação de bens destinados à Companhia Docas do Pará.

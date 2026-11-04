@@ -1,5 +1,3 @@
-###DEC-087126-0-000-26-04-1982@@@
-
 DECRETO Nº 87.126, DE 26 DE ABRIL DE 1982
 
 Autoriza a doação de prédio situado à Praça Floriano Peixoto, 2887 - Belém - PA, onde se acha instalada a Associação do Ex-Combatentes do Brasil - Seção do Pará.

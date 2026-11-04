@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c757a5ab-112a-4171-b488-ff9cfceda949/texto#nowhere)
 
-###DEL-000534-0-000-17-04-1969@@@
-
 DECRETO-LEI Nº 534, DE 17 DE ABRIL DE 1969
 
 Aprova a reforma do soldado Francisco Oliveira, cujo registro foi negado pelo Tribunal de Contas da União.

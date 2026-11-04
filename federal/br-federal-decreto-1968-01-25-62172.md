@@ -1,5 +1,3 @@
-###DEC-062172-0-000-25-01-1968@@@
-
 DECRETO Nº 62.172, DE 25 DE JANEIRO DE 1968.
 
 Aprova os Estatutos da Fundação Centro Nacional de Segurança Higiene e Medicina do Trabalho.
@@ -563,8 +561,6 @@ Art. 61. O Ministro do Trabalho e Previdência Social promoverá as medidas prel
 Art. 62. Os Conselhos Superior, Deliberativo e Curador instalar-se-ão, o primeiro 30 (trinta) dias e os demais 60 (sessenta) dias após a assinatura da escritura pública que formalizará a instituição da Fundação.
 
 Jarbas G. Passarinho
-
-###DEC-062172-0-000-25-01-1968@@@RET01+++
 
 DECRETO Nº 62.172, DE 25 DE JANEIRO DE 1968.
 

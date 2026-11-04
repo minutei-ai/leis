@@ -1,5 +1,3 @@
-###DEC-054437-0-000-13-10-1964@@@
-
 DECRETO Nº 54.437, de 13 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Levindo Gonçalves da Silva a pesquisar mica no município de Governador Valadares, Estado de Minas Gerais.

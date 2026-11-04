@@ -1,5 +1,3 @@
-###DEC-047687-0-000-20-01-1960@@@
-
 DECRETO Nº 47.687, DE 20 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Francisco de Assis Santos a pesquisar areias ilmeníticas, no município de Barreirinhas, Estado do Maranhão.

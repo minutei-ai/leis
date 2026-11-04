@@ -12,8 +12,6 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 9 de maio de 2023; 135º da República.
 
-<br>
-
 DANIEL VILELA
 
 Governador do Estado em exercício

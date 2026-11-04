@@ -1,5 +1,3 @@
-###DEC-072703-0-000-27-08-1973@@@
-
 DECRETO Nº 72.703, DE 27 DE AGOSTO DE 1973.
 
 Declara perempta a concessão outorgada à Rádio Progresso de São Paulo Ltda, para executar serviço de radiodifusão sonora em onda tropical, na cidade de São Paulo, Estado de São Paulo.

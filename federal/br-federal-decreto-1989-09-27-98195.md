@@ -1,7 +1,3 @@
-1
-
-###DEC-098195-0-000-27-09-1989@@@
-
 DECRETO Nº 98.195, DE 27 DE SETEMBRO DE 1989
 
 Concede à CHILDHOPE FOUNDATION autorização para instalar e funcionar sua sede internacional no Brasil.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001531-0-000-22-06-1995@@@
-
 DECRETO Nº 1.531, DE 22 DE JUNHO DE 1995
 
 Altera o Decreto nº 94.336, de 15 de maio de 1987, que cria o Brasão de Armas e Estandarte do Exército.

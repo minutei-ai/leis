@@ -1,5 +1,3 @@
-###DEC-077624-0-000-17-05-1976@@@
-
 DECRETO Nº 77.624, 17 DE MAIO DE 1976
 
 Dispõe sobre a utilização, pelo IBGE, de dados informativos de origem governamental na produção de informações e estudos de interesse do planejamento econômico e Social e da segurança nacional.

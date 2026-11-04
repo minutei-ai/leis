@@ -1,5 +1,3 @@
-###DEC-093067-0-000-06-08-1986@@@
-
 DECRETO Nº 93.067, DE 06 DE AGOSTO DE 1986
 
 Homologa a demarcação da área indígena que menciona no Estado de Mato Grosso do Sul.

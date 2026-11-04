@@ -1,5 +1,3 @@
-###DEC-059336-0-000-30-09-1966@@@
-
 DECRETO Nº 59.336, DE 30 DE SETEMBRO DE 1966.
 
 Declara sem efeito o Decreto número 54.339, de 29 de setembro de 1964.

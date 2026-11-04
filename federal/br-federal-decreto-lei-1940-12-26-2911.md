@@ -1,5 +1,3 @@
-###DEL-002911-0-000-26-12-1940@@@
-
 DECRETO-LEI N. 2.911 – DE 26 DE DEZEMBRO DE 1940
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 64 :674$3 à verba que especifica

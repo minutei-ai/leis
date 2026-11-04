@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/27105)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1985/compilacao-lei-4957-30.12.1985.html)
 
 # LEI N° 4.957, DE 30 DE DEZEMBRO DE 1985
@@ -7,7 +6,8 @@
 
 ### _Dispõe sobre planos públicos de valorização e aproveitamento dos recursos fundiários_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
 ~~**Artigo 1° -** O Estado desenvolverá planos públicos de valorização e aproveitamento de seus recursos fundiários, para:~~
@@ -28,7 +28,8 @@ _\- Inciso I com redação dada pela [Lei n° 16.115, de 14/01/2016](https://www
 
 _\- Inciso II com redação dada pela [Lei n° 16.115, de 14/01/2016](https://www.al.sp.gov.br/norma/176990)._
 
-~~**§ 1° -** A destinação dos recursos fundiários prevista nesta lei operar-se-á independentemente de qualquer manifestação do órgão ou entidade que administre ou detenha o imóvel rural correspondente, exceto quanto às informações técnicas cadastrais sobre sua exploração e aproveitamento.~~<br>
+~~**§ 1° -** A destinação dos recursos fundiários prevista nesta lei operar-se-á independentemente de qualquer manifestação do órgão ou entidade que administre ou detenha o imóvel rural correspondente, exceto quanto às informações técnicas cadastrais sobre sua exploração e aproveitamento.~~
+
 ~~**§ 2° -** Para os fins desta lei, consideram-se recursos fundiários os imóveis rurais a qualquer tempo incorporados ao patrimônio das entidades da administração direta e indireta do Estado, excluídas as áreas de preservação permanente, as de uso legalmente limitado e as efetivamente utilizadas em programas de pesquisa, experimentação, demonstração e fomento.~~
 
 **Parágrafo único -** Para os fins desta lei, consideram-se: (NR)
@@ -79,14 +80,22 @@ _\- Inciso III com redação dada pela [Lei n° 16.115, de 14/01/2016](https://w
 
 _\- Inciso IV acrescentado pela [Lei n° 16.115, de 14/01/2016](https://www.al.sp.gov.br/norma/176990)._
 
-**Artigo 3° -** Os planos públicos, de que trata esta lei, serão desenvolvidos em duas etapas distintas e sucessivas:<br>
-**I -** Etapa Experimental;<br>
-**II -** Etapa Definitiva.**<br>
-Artigo 4° -** A Etapa Experimental, tendo por objetivo preparar, capacitar e adaptar trabalhadores rurais para a exploração racional e econômica de terras, obedecerá aos seguintes momentos:<br>
-**I -** planejamento;<br>
-**II -** seleção de beneficiários;<br>
-**III -** outorga de permissão de uso de terras.**<br>
-Artigo 5° -** Vetado.**<br>
+**Artigo 3° -** Os planos públicos, de que trata esta lei, serão desenvolvidos em duas etapas distintas e sucessivas:
+
+**I -** Etapa Experimental;
+
+**II -** Etapa Definitiva.**
+
+Artigo 4° -** A Etapa Experimental, tendo por objetivo preparar, capacitar e adaptar trabalhadores rurais para a exploração racional e econômica de terras, obedecerá aos seguintes momentos:
+
+**I -** planejamento;
+
+**II -** seleção de beneficiários;
+
+**III -** outorga de permissão de uso de terras.**
+
+Artigo 5° -** Vetado.**
+
 Artigo 6° -** O planejamento será formulado para cada imóvel individualizadamente considerado, em duas fases:
 
 ~~**I -** elaboração de anteprojeto técnico, com definição de diretrizes básicas, pelo Instituto de Assuntos Fundiários, da Coordenadoria Sócio-Econômica da Secretaria de Agricultura e Abastecimento;~~
@@ -201,7 +210,8 @@ _\- § 4° acrescentado pela [Lei n° 16.115, de 14/01/2016](https://www.al.sp.g
 
 _\- "Caput" com redação dada pela [Lei n° 16.115, de 14/01/2016](https://www.al.sp.gov.br/norma/176990)._
 
-**I -** o prazo, o preço e a periodicidade do pagamento da permissão, se onerosa;<br>
+**I -** o prazo, o preço e a periodicidade do pagamento da permissão, se onerosa;
+
 **II -** a obrigatoriedade da exploração racional, direta, pessoal ou familiar, da terra pelos permissionários;
 
 ~~**III -** os encargos eventualmente assumidos pelos permissionários solidariamente responsáveis pelo respectivo cumprimento.~~
@@ -210,8 +220,10 @@ _\- "Caput" com redação dada pela [Lei n° 16.115, de 14/01/2016](https://www.
 
 _\- Inciso III com redação dada pela [Lei n° 16.115, de 14/01/2016](https://www.al.sp.gov.br/norma/176990)._
 
-**Artigo 9° -** A Etapa Definitiva terá lugar mediante:<br>
-**I -** avaliação do projeto cumprido durante a Etapa Experimental;<br>
+**Artigo 9° -** A Etapa Definitiva terá lugar mediante:
+
+**I -** avaliação do projeto cumprido durante a Etapa Experimental;
+
 ~~**II -** análise da proposta dos beneficiários;~~
 
 **II -** análise da proposta do beneficiário, para continuidade da exploração do lote; (NR)
@@ -496,13 +508,22 @@ _\- Artigo 14 com redação dada pela [Lei n° 16.115, de 14/01/2016](https://ww
 
 _\- Artigo 15 com redação dada pela [Lei n° 16.115, de 14/01/2016](https://www.al.sp.gov.br/norma/176990)._
 
-**Artigo 16  -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 30 de dezembro de 1985.<br>
-FRANCO MONTORO<br>
-José Carlos Dias<br>
-Secretário da Justiça<br>
-Nelson Mancini Nicolau<br>
-Secretário de Agricultura e Abastecimento<br>
-Luiz Carlos Bresser Pereira<br>
-Secretário do Governo<br>
+**Artigo 16  -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 30 de dezembro de 1985.
+
+FRANCO MONTORO
+
+José Carlos Dias
+
+Secretário da Justiça
+
+Nelson Mancini Nicolau
+
+Secretário de Agricultura e Abastecimento
+
+Luiz Carlos Bresser Pereira
+
+Secretário do Governo
+
 Publicada na Assessoria Técnico-Legislativa, aos 30 de dezembro de 1985.

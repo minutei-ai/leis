@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c7207725-16fa-469e-b194-032688993bc6/texto#nowhere)
 
-###DEL-001049-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.049, de 21 de Outubro de 1969
 
 Transforma e extingue cargos de avaliador privativo da Fazenda.

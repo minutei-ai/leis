@@ -1,5 +1,3 @@
-###DEC-083020-0-000-11-01-1979@@@
-
 decreto nº 83.020, de 11 de janeiro de 1979
 
 Concede reconhecimento ao curso de Estudos Sociais, ministrado pela ex-Faculdade de Filosofia, Ciências e Letras de Rio Claro, mantida em Rio Claro, Estado de São Paulo, pela Universidade Estadual Paulista Júlio de Mesquita Filho, com sede na cidade de São Paulo, no mesmo Estado.

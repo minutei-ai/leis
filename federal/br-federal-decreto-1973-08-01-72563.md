@@ -1,5 +1,3 @@
-###DEC-072563-0-000-01-08-1973@@@
-
 decreto nº 72.563, de 1 de agosto de 1973.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras "Dom Bosco", com os cursos de Pedagogia e Letras, mantida pela Associação Educacional "Dom Bosco", com sede na Cidade de Resende, Estado do Rio de Janeiro.

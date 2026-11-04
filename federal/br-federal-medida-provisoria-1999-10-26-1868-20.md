@@ -1,5 +1,3 @@
-###MPV-001868-0-020-26-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.868-20, DE 26 de OUTUBRO DE 1999.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

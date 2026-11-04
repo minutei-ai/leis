@@ -1,7 +1,3 @@
-1
-
-###DEL-001017-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.017, DE 21 DE OUTUBRO DE 1969
 
 Concede isenção parcial das Taxas de Renovação da Marinha Mercante e de Melhoramentos dos Portos e dá outras providências

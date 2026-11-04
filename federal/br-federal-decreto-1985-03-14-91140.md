@@ -1,5 +1,3 @@
-###DEC-091140-0-000-14-03-1985@@@
-
 DECRETO Nº 91.140, DE 14 DE MARÇO DE 1985
 
 Declara de utilidade pública a MAHIKARI - SOCIEDADE RELIGIOSA.

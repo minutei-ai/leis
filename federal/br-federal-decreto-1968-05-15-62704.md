@@ -1,32 +1,30 @@
-###DEC-062704-0-000-15-05-1968@@@
+**DECRETO Nº 62.704, DE 15 DE MAIO DE 1968.**
 
-<strong>DECRETO Nº 62.704, DE 15 DE MAIO DE 1968.</strong>
+***Aprova o “Regulamento para os Depósitos Primários da Marinha de Guerra”.***
 
-<em><strong>Aprova o “Regulamento para os Depósitos Primários da Marinha de Guerra”.</strong></em>
+**O PRESENTE DA REPÚBLICA**, usando da atribuição que lhe confere o Artigo 83, Inciso II, da Constituição,
 
-<strong>O PRESENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o Artigo 83, Inciso II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o “Regulamento para os Depósitos Primários da Marinha de Guerra”, que com êste baixa, assinado pelo Ministro de Estado da Marinha de Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o “Regulamento para os Depósitos Primários da Marinha de Guerra”, que com êste baixa, assinado pelo Ministro de Estado da Marinha de Guerra.
-
-<strong>Art</strong>. 2º Êste Decreto entrara em vigor na data de sua publicação, ficando revogados os Decretos nº 46.425, de 14 de julho de 1959, e demais disposições em contrário.
+**Art**. 2º Êste Decreto entrara em vigor na data de sua publicação, ficando revogados os Decretos nº 46.425, de 14 de julho de 1959, e demais disposições em contrário.
 
 Brasília, 15 de maio de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Augusto Hamann Rademaker Grünewald
 
-<strong>REGULAMENTO PARA OS DEPÓSITOS PRIMÁRIOS DA MARINHA DE GUERRA.</strong>
+**REGULAMENTO PARA OS DEPÓSITOS PRIMÁRIOS DA MARINHA DE GUERRA.**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Fins</em>
+*Dos Fins*
 
-<strong>Art</strong>. 1º Os Depósitos Primários (DepP), da Marinha de Guerra (MG) são Estabelecimentos Logísticos, que têm por finalidade estocar suprimentos de determinados grupos de material, destinados à distribuição para consumo ou à reestocagem aos Depósitos Secundários.
+**Art**. 1º Os Depósitos Primários (DepP), da Marinha de Guerra (MG) são Estabelecimentos Logísticos, que têm por finalidade estocar suprimentos de determinados grupos de material, destinados à distribuição para consumo ou à reestocagem aos Depósitos Secundários.
 
-<strong>Art</strong>. 2º Para execução de sua finalidade, cabe aos DepP:
+**Art**. 2º Para execução de sua finalidade, cabe aos DepP:
 
 I – receber todo material compreendido no grupo ou grupos que lhe forem atribuídos:
 
@@ -36,13 +34,13 @@ III – armazenar todo o material que lhe fôr destinado; e
 
 IV – distribuir o material de acôrdo com as Instruções em vigor.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 3º Os DepP são subordinados à Diretoria de Intendência da Marinha.
+**Art**. 3º Os DepP são subordinados à Diretoria de Intendência da Marinha.
 
-<strong>Art</strong>. 4º Os DepP, dirigidos por um Diretor (DepP-01), auxiliado por um Vice-Diretor (DepP-02), compreende quatro divisões, a sabe:
+**Art**. 4º Os DepP, dirigidos por um Diretor (DepP-01), auxiliado por um Vice-Diretor (DepP-02), compreende quatro divisões, a sabe:
 
 I – Divisão de Serviços Gerais (DepP-10);
 
@@ -52,11 +50,11 @@ III – Divisão Técnica (DepP-30);
 
 IV – Divisão de Abastecimento (DepP-40).
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 5º Os DepP dispõe do seguimento pessoal:
+**Art**. 5º Os DepP dispõe do seguimento pessoal:
 
 I – um (1) Oficial Superior, da ativa do CIM – Diretor;
 
@@ -72,24 +70,24 @@ VI – Pessoal admitido na forma do Artigo 23, Incisos I e II, da Lei nº 3.780,
 
 Parágrafo único. O pessoal será nomeado ou designado de acôrdo com a legislação em vigor.
 
-<strong>Art</strong>. 6º O Regimento Interno de cada DepP preverá as funções gratificadas, a fim de serem criadas de conformidade com a legislação em vigor.
+**Art**. 6º O Regimento Interno de cada DepP preverá as funções gratificadas, a fim de serem criadas de conformidade com a legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das disposições gerais</em>
+*Das disposições gerais*
 
-<strong>Art</strong>. 7º Êste regulamento será complementado por um Regimento Interno para cada DepP, que deverá ser elaborado e aprovado de acôrdo com as normas em vigor.
+**Art**. 7º Êste regulamento será complementado por um Regimento Interno para cada DepP, que deverá ser elaborado e aprovado de acôrdo com as normas em vigor.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das disposições transitórias</em>
+*Das disposições transitórias*
 
-<strong>Art</strong>. 8º Dentro de noventa (90) dias, contados apatir da data da publicação do presente Regulamento em Boletim do Ministério da Marinha, a Diretoria de Intendência da Marinha submeterá à apreciação do Ministro da Marinha, via Estado-Maior da Armada Secretaria Geral da Marinha, os projetos de Regimentos Internos elaborados pelos DepP.
+**Art**. 8º Dentro de noventa (90) dias, contados apatir da data da publicação do presente Regulamento em Boletim do Ministério da Marinha, a Diretoria de Intendência da Marinha submeterá à apreciação do Ministro da Marinha, via Estado-Maior da Armada Secretaria Geral da Marinha, os projetos de Regimentos Internos elaborados pelos DepP.
 
-<strong>Art</strong>. 9º Os Diretores dos Depósitos Primários ficam autorizados a baixar os atos necessários à adocão das disposições do presente regulamento e até que seja aprovado o Regimento Interno.
+**Art**. 9º Os Diretores dos Depósitos Primários ficam autorizados a baixar os atos necessários à adocão das disposições do presente regulamento e até que seja aprovado o Regimento Interno.
 
 Rio de Janeiro, 15 de maio de 1968;
 
-<strong>AUGUSTO HAMANN RADEMAKER GRÜNEWALD</strong>
+**AUGUSTO HAMANN RADEMAKER GRÜNEWALD**
 
 Ministro da Marinha.

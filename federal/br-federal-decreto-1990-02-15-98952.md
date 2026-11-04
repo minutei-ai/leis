@@ -1,7 +1,3 @@
-1
-
-###DEC-098952-0-000-15-02-1990@@@
-
 DECRETO N° 98.952, DE 15 DE FEVEREIRO DE 1990
 
 Renova a concessão outorgada à RÁDIO VANGUARDA DO VALE DO AÇO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Ipatinga, Estado de Minas Gerais.

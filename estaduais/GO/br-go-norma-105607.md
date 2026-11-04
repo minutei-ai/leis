@@ -1,4 +1,5 @@
-LEI Nº 21.410, DE 18 DE MAIO DE 2022.<br>
+LEI Nº 21.410, DE 18 DE MAIO DE 2022.
+
 \- [Declarada inconstitucional pelo TJGO na ADI nº 5014908-48.2023.8.09.0000.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18399)
 
 ~~Institui a remissão tributária que especifica.~~

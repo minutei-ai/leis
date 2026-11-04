@@ -1,5 +1,3 @@
-###DEC-094274-0-000-24-04-1987@@@
-
 DECRETO Nº 94.274, DE 24 DE ABRIL DE 1987.
 
 Autoriza o Banco do Brasil S.A. a proceder ao aumento do capital social.

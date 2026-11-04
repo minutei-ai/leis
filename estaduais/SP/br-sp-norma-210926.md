@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210926)<br>
-
 # DECRETO N° 69.527, DE 08 DE MAIO DE 2025
 
 ### _Autoriza a outorga de uso, ao Município de Jaborandi, do imóvel que especifica, e dá providências correlatas._

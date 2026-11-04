@@ -1,7 +1,3 @@
-1
-
-###DEC-099505-0-000-03-09-1990@@@
-
 DECRETO N° 99.505, DE 3 DE SETEMBRO DE 1990
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo Comercial n° 19, no Setor da Indústria Eletrônica e de Comunicações Elétricas, entre o Brasil, a Argentina, o México e o Uruguai.

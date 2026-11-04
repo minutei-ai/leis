@@ -1,5 +1,3 @@
-###DEC-095044-0-000-15-10-1987@@@
-
 DECRETO Nº 95.044, DE 15 DE OUTUBRO DE 1987
 
 Autoriza o funcionamento do Curso de Psicologia da Faculdade de Psicologia Padre Anchieta.

@@ -1,5 +1,3 @@
-###DEL-009130-0-000-04-04-1946@@@
-
 DECRETO-LEI N. 9.130 – DE 4 DE ABRIL DE 1946
 
 Modifica a redação do art. 6º do Decreto-lei nº 8.917, de 26 de Janeiro de 1946.

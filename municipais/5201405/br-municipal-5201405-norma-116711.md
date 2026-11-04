@@ -30,8 +30,10 @@ Art. 3º - Esta Lei entra em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL, 13 de março de 2017.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

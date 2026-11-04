@@ -46,7 +46,8 @@ XIV - Elaborar e encaminhar ao Governador do Estado, por intermédio do Secretá
 
 Art. 6º - O GERFAB será dirigido por um Conselho Diretor de 5 (cinco) membros, composto do Secretario da Agricultura, na qualidade de seu Presidente nato e que o representará ativa e passivamente, do Diretor do Instituto Biológico da Bahia, de um representante da Federação de Agricultura do Estado da Bahia de um representante do Ministério da Agricultura e de um representante da Cooperativa Central Instituto de Pecuária da Bahia Resp. Ltda.
 
-Redação de acordo com a Lei nº 2.569, de 13 de setembro de 1968.<br>
+Redação de acordo com a Lei nº 2.569, de 13 de setembro de 1968.
+
 Redação original: "Art. 6º - O GERFAB será por um Conselho Diretor de cinco (5) membros, composto do Secretário da Agricultura na qualidade de seu Presidente nato e que o representará ativa e passivamente, do Diretor do Instituto Biológico da Bahia, de um representante da Federação de Agricultura do Estado da Bahia, de um representante da SUDENE e de um representante da Cooperativa Central Instituto de Pecuária da Bahia, Resp. Ltda. "
 
 Art. 7º - A Secretaria Executiva do GERFAB, com as atribuições que lhe forem reservadas pelo Regulamento, será exercida em regime de tempo integral e dedicação exclusiva por médico veterinário nomeado por indicação do Secretário da Agricultura.
@@ -55,7 +56,8 @@ Art. 8º - Os membros e respectivos suplentes do Conselho Diretor do GERFAB ser�
 
 § 1º - Os representantes da Federação de Agricultura do Estado da Bahia, do Ministério da Agricultura e da Cooperativa Central Instituto de Pecuária da Bahia Resp. Ltda., serão escolhidos em lista tríplice fornecida pelas respectivas entidades e encaminhada por intermédio do Secretário da Agricultura.
 
-Redação de acordo com a Lei nº 2.569, de 13 de setembro de 1968.<br>
+Redação de acordo com a Lei nº 2.569, de 13 de setembro de 1968.
+
 Redação original: "§ 1º - Os representantes da Federação da Agricultura do Estado a Bahia, da SUDENE e da Cooperativa Central Instituto de Pecuária da Bahia Resp. Ltda., serão escolhidos em lista tríplice fornecida pelas respectivas entidades e encaminhada por intermédio do Secretário da Agricultura."
 
 § 2º - A cada membro efetivo corresponderá um suplente.
@@ -102,9 +104,12 @@ Art. 15 - Pela emissão de certificado de vacinação anti-aftosa, o Grupo Execu
 
 § 2º - A receita de que trata este artigo será recolhida à conta do GERFAB, no Banco do Estado da Bahia sociedade anônima, conforme dispuser a regulamentação.
 
-Redação de acordo com a Lei nº 3.573, de 31 de maio de 1977.<br>
-Redação original: "Art. 15 - A emissão do certificado de vacinação anti-aftosa far-se-á mediante a cobrança, pelo GERFAB, da quantia correspondente a 0,4% ( quatro por cento) do maior salário mínimo vigente do Estado, aplicado este valor a cada animal.Parágrafo único - A receita de que trata este artigo será recolhida a conta do GERFAB no Banco do Estado da Bahia S. A., conforme dispuser a regulamentação."<br>
-Ver também:<br>
+Redação de acordo com a Lei nº 3.573, de 31 de maio de 1977.
+
+Redação original: "Art. 15 - A emissão do certificado de vacinação anti-aftosa far-se-á mediante a cobrança, pelo GERFAB, da quantia correspondente a 0,4% ( quatro por cento) do maior salário mínimo vigente do Estado, aplicado este valor a cada animal.Parágrafo único - A receita de que trata este artigo será recolhida a conta do GERFAB no Banco do Estado da Bahia S. A., conforme dispuser a regulamentação."
+
+Ver também:
+
 Art. 9º da Lei nº 2.594-A, de 29 de outubro de 1968: "Fica reduzido para 0,1% (um décimo por cento), sobre a mesma base de cálculo, a cobrança pelo GERFAB da emissão do certificado de vacinação a que se refere o artigo 15 da Lei nº 2.522, de 28 de fevereiro de 1968."
 
 Art. 16 - O Regulamento disporá sobre o processo de emissão dos atestados de vacinação dos quais, entre outros requisitos, deverá constar o prazo de sua validade, as cautelas necessárias a impedir sua reutilização bem como sobre os meios de fiscalização nos matadouros, frigoríficos, portos de embarques e postos terrestres de saída dos animais.

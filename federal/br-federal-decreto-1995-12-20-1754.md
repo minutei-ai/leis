@@ -1,7 +1,3 @@
-1
-
-###DEC-001754-0-000-20-12-1995@@@
-
 DECRETO Nº 1.754, DE 20 DE DEZEMBRO DE 1995.
 
 Dispõe sobre a execução no território nacional, da Resolução nº 1022 do Conselho de Segurança das Nações Unidas, que trata do término qualificado do regime de sanções contra a República Federal da Iugoslávia.

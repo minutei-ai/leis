@@ -1,5 +1,3 @@
-###DEL-005527-0-000-28-05-1943@@@
-
 DECRETO‑LEI N.  5\. 527 – DE 28 DE MAIO DE 1943
 
 Dispõe sobre o vencimento, remuneração e salário do pessoal que indica

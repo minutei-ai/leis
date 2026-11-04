@@ -1,5 +1,3 @@
-###DEC-059578-0-000-23-11-1966@@@
-
 DECRETO Nº 59.578, DE 23 DE NOVEMBRO DE 1966.
 
 Constitui Comissão Especial para definir as bases da política de investimentos e financiamentos no Setor de Construção Naval.

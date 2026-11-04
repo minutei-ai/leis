@@ -1,5 +1,3 @@
-###DEC-070412-0-000-14-04-1972@@@
-
 DECRETO Nº 70.412, DE 14 DE ABRIL DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, um terreno urbano, sem benfeitorias, situado na cidade de Blumenau, Estado de Santa Catarina, destinado à instalação da central de telex e de comutação telefônica automática e serviços afins, integrantes do Sistema Nacional de Telecomunicações.

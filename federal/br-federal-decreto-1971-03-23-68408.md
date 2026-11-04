@@ -1,5 +1,3 @@
-###DEC-068408-0-000-23-03-1971@@@
-
 DECRETO Nº 68.408, DE 23 DE MARÇO DE 1971.
 
 Concede à Mármore Eldorado S.A., Mineração, Indústria e Comércio o direito de lavrar calcário e mármore, no município de Eldorado Paulista, Estado de São Paulo.

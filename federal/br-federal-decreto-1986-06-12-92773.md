@@ -1,5 +1,3 @@
-###DEC-092773-0-000-12-06-1986@@@
-
 DECRETO Nº 92.773, DE 12 DE JUNHO DE 1986
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO CLUBE DE BLUMENAU LTDA., para a RÁDIO CLUBE DE INDAIAL LTDA.

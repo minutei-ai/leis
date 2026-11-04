@@ -1,5 +1,3 @@
-###DEL-000453-0-000-27-05-1938@@@
-
 DECRETO-LEI N. 453 – DE 27 DE MAIO DE 1938
 
 Abre, pelo Manistério da Viação, o crédito especial de 54:115$100, para pagamento à firma Hime & Cia.

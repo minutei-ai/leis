@@ -1,5 +1,3 @@
-###MPV-001998-0-063-10-03-2000@@@
-
 medida provisória nº 1.998-63, de 10 de março de 2000.
 
 Dá nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996.

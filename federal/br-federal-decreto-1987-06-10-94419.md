@@ -1,5 +1,3 @@
-###DEC-094419-0-000-10-06-1987@@@
-
 DECRETO Nº 94.419, DE 10 DE JUNHO DE 1987
 
 Renova a concessão outorgada à SOCIEDADE DE CULTURA RÁDIO CAIARI LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Porto Velho, Estado de Rondônia.

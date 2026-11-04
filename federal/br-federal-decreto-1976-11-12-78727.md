@@ -1,5 +1,3 @@
-###DEC-078727-0-000-12-11-1976@@@
-
 DECRETO Nº 78.727, DE 12 DE NOVEMBRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Independência de Brasília Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Brasília, Distrito Federal.

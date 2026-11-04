@@ -1,5 +1,3 @@
-###DEL-006270-0-000-14-02-1944@@@
-
 DECRETO-LEI N. 6.270 – DE 14 DE FEVEREIRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 290.735,70, para pagamento de indenizações decorrentes de requisições

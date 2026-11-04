@@ -1,5 +1,3 @@
-###DEC-049762-0-000-31-12-1960@@@
-
 DECRETO Nº 49.762, DE 31 DE DEZEMBRO DE 1960.
 
 Revoga os Decretos que concederam à Electrical Export Corporation autorização para funcionar na República.

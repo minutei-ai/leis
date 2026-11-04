@@ -1,5 +1,3 @@
-###MPV-001705-0-004-27-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.705-4, de 27 DE OUTUBRO DE 1998
 
 Dá nova relação ao art. 57 da Lei nº 4.878, de 3 de dezembro de 1965, que dispõe sobre o regime jurídico peculiar aos funcionários policiais civis da União e do Distrito Federal, e dá outras providências.

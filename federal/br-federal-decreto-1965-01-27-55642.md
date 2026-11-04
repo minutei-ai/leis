@@ -1,5 +1,3 @@
-###DEC-055642-0-000-27-01-1965@@@
-
 DECRETO Nº 55.642, DE 27 DE JANEIRO DE 1965.
 
 Altera o Decreto nº 55.242, de 18 de dezembro de 1964, que reestruturou o Conselho Nacional de Saúde.

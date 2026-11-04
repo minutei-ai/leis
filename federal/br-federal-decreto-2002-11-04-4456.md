@@ -1,5 +1,3 @@
-###DEC-004456-0-000-04-11-2002@@@
-
 DECRETO Nº 4.456, DE 4 DE NOVEMBRO DE 2002
 
 Regulamenta o art. 67 da Medida Provisória nº 2.228-1, de 6 de setembro de 2001, estabelecendo as competências do Ministério da Cultura e da Agência Nacional do Cinema - ANCINE, com relação aos projetos audiovisuais realizados com base na Lei nº 8.313, de 23 de dezembro de 1991, dispõe sobre a transferência de atividades, nos termos do art. 66, inciso I, da referida Medida Provisória, e dos processos relativos aos projetos audiovisuais realizados com base na citada Lei nº 8.313, de 1991, e na Lei nº 8.685, de 20 de julho de 1993, e dá outras providências.

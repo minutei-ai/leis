@@ -1,5 +1,3 @@
-###DEC-073903-0-000-05-04-1974@@@
-
 DECRETO Nº 73.903, DE 5 DE ABRIL DE 1974.
 
 Concede à Cia. de Cimento Itambé o direito de lavrar argila nos Municípios de Balsa Nova e Campo Largo, Estado do Paraná.

@@ -47,7 +47,3 @@ O 2º Secretário - Elmo Braz Soares
 O 3º Secretário - Luiz Junqueira
 
 O 4º Secretário - Delfim Ribeiro
-
-\-------------------------------------------------------
-
-Data da última atualização: 14/2/2006.

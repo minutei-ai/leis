@@ -1,5 +1,3 @@
-###DEL-008995-0-000-18-02-1946@@@
-
 DECRETO-LEI N. 8.995 – DE 18 DE FEVEREIRO DE 1946
 
 Torna sem efeito o Decreto-lei número 8.945, de 26 de janeiro de 1946.

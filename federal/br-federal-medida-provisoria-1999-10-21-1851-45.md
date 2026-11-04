@@ -1,5 +1,3 @@
-###MPV-001851-0-045-21-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.851-45, DE 21 DE OUTUBRO DE 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

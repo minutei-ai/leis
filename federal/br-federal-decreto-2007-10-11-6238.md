@@ -1,5 +1,3 @@
-###DEC-006238-0-000-11-10-2007@@@
-
 DECRETO Nº 6.238, DE 11 DE OUTUBRO DE 2007.
 
 Dispõe sobre a criação da Embaixada do Brasil na República do Mali, com sede em Bamako.
@@ -19,5 +17,3 @@ Brasília, 11 de outubro de 2007; 186º da Independência e 119º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 15.10.2007.

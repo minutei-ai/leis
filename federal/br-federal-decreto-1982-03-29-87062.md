@@ -1,5 +1,3 @@
-###DEC-087062-0-000-29-03-1982@@@
-
 Decreto nº 87.062, de 29 de março de 1982.
 
 Dispõe sobre a organização administrativa do Ministério da Educação e Cultura e dá outras providências.

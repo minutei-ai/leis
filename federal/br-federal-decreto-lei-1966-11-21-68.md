@@ -1,5 +1,3 @@
-###DEL-000068-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 68 - DE 21 NOVEMBRO DE 1966
 
 Estende ao financiamento de programas concernentes à habitação, colonização, pecuária, integração e desenvolvimento urbano e regional e programas de alcance social a autorização para o Poder Executivo contratar créditos obtidos no exterior, e dá outras providências.

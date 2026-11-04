@@ -1,5 +1,3 @@
-###DEC-003897-0-000-24-08-2001@@@
-
 DECRETO Nº 3.897, DE 24 DE AGOSTO 2001
 
 Fixa as diretrizes para o emprego das Forças Armadas na garantia da lei e da ordem, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006617-0-000-23-10-2008@@@
-
 DECRETO Nº 6.617, DE 23 DE OUTUBRO DE 2008.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da África do Sul no Campo da Cooperação Científica e Tecnológica, celebrado em Pretória, em 8 de novembro de 2003.

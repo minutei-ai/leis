@@ -1,5 +1,3 @@
-###DEL-000006-0-000-14-04-1966@@@
-
 DECRETO-LEI Nº 6, DE 14 DE ABRIL DE 1966
 
 Dispõe sôbre o reajustamento dos aluguéis de imóveis, locados para fins residenciais antes da vigência da Lei nº 4.494, de 25 de novembro de 1964.

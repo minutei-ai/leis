@@ -1,5 +1,3 @@
-###DEC-058189-0-000-14-04-1966@@@
-
 DECRETO Nº 58.189, DE 14 DE ABRIL DE 1966.
 
 Aprova a alteração introduzida nos Estatutos do Sul América Terrestres, Marítimos e Acidente, Companhia de Seguros, relativa ao aumento do capital.
@@ -17,8 +15,6 @@ Brasília, 14 de abril de 1966; 145º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Paulo Egydio Martins
-
-###DEC-058189-0-000-14-04-1966@@@RET01+++
 
 DECRETO Nº 58.189, DE 14 DE ABRIL DE 1966.
 

@@ -1,5 +1,3 @@
-###DEC-004854-0-000-08-10-2003@@@
-
 DECRETO Nº 4.854, DE 8 DE OUTUBRO DE 2003.
 
        Dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional de Desenvolvimento Rural Sustentável - CONDRAF, e dá outras providências.
@@ -196,5 +194,6 @@ DAS DISPOSIÇÕES GERAIS
 
         Brasília, 8 de outubro de 2003; 182º da Independência e l15º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Miguel Soldatelli Rosseto

@@ -1,5 +1,3 @@
-###DEL-000018-0-000-25-11-1937@@@
-
 DECRETO-LEI N. 18 – DE 25 DE NOVEMBRO DE 1937
 
 Abre, pelo Ministério da Guerra, o crédito suplementar de 37.917:000$000, às verbas que especifica

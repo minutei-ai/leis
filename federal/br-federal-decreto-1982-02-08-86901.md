@@ -1,5 +1,3 @@
-###DEC-086901-0-000-08-02-1982@@@
-
 decreto nº 86.901, de 08 de fevereiro de 1982.
 
 Declara de utilidade pública, para efeito de desapropriação, o imóvel situado na Avenida Rio Branco, nº 243, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

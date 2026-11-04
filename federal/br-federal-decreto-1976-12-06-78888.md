@@ -1,5 +1,3 @@
-###DEC-078888-0-000-06-12-1976@@@
-
 DECRETO Nº 78.888, DE 6 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Administração, da Faculdade Canoense de Ciências Administrativas e Contábeis, com sede na cidade de Cancas, Estado do Rio Grande do Sul.

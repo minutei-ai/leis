@@ -1,5 +1,3 @@
-###DEC-066224-0-000-18-02-1970@@@
-
 DECRETO Nº 66.224 - DE 18 DE FEVEREIRO DE 1970
 
 Cria e reclassifica funções gratificadas no Quadro de Pessoal do Ministério do Exército, e dá outras providências.

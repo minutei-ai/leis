@@ -1,5 +1,3 @@
-###DEC-053788-0-000-20-03-1964@@@
-
 DECRETO Nº 53.788, DE 20 DE MARçO DE 1964.
 
 Retifica o Decreto nº 51.190, de 11 de agôsto de 1961.

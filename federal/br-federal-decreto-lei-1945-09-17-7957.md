@@ -1,5 +1,3 @@
-###DEL-007957-0-000-17-09-1945@@@
-
 DECRETO-LEI N. 7.957 – DE 17 DE SETEMBRO DE 1945
 
 Dispõe sôbre a isenção de impostos e taxas federais, que incidem sôbre o teatro, e dá outras providências.

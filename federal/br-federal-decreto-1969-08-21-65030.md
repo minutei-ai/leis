@@ -1,5 +1,3 @@
-###DEC-065030-0-000-21-08-1969@@@
-
 DECRETO Nº 65.030 - de 21 de Agôsto de 1969.
 
 Declara de utilidade pública o Centro de Assistência Social Pio XII com sede em Salvador, Estado da Bahia.

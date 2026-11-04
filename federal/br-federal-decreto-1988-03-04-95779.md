@@ -1,7 +1,3 @@
-1
-
-###DEC-095779-0-000-04-03-1988@@@
-
 DECRETO N° 95.779, DE 4 DE MARÇO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento (DNOS}, área de terra e benfeitorias, necessárias à construção de Barragem no Rio Beberibe nos Municípios de Olinda e Recife, Estado de Pernambuco, e dá outras providências.

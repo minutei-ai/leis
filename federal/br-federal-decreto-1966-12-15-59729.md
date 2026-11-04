@@ -1,5 +1,3 @@
-###DEC-059729-0-000-15-12-1966@@@
-
 DECRETO Nº 59.729, de 15 de dezembro de 1966.
 
 Autoriza Construções e Comércio Camargo Corrêa S. A. a pesquisar argila e caulim no município de Itapecerica, Estado de Minas Gerais.

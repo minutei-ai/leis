@@ -1,5 +1,3 @@
-###DEC-062180-0-000-26-01-1968@@@
-
 DECRETO Nº 62.180, DE 26 DE JANEIRO DE 1968.
 
 Modifica o art. 3º do Decreto número 61.557, de 18 de outubro de 1967, que institui a Comissão Interministerial para preparação da posição do Brasil na II Conferência das Nações Unidas sôbre Comércio e Desenvolvimento.

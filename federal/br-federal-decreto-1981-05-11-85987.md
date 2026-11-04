@@ -1,5 +1,3 @@
-###DEC-085987-0-000-11-05-1981@@@
-
 Decreto nº 85.987, de 11 de maio de 1981.
 
 Autoriza o funcionamento do curso de Ciências Contábeis, da Fundação Educacional do Alto Uruguai - FEUAC, com sede na cidade de Concórdia, Estado de Santa Catarina.

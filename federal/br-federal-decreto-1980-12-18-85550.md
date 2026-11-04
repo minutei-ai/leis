@@ -1,5 +1,3 @@
-###DEC-085550-0-000-18-12-1980@@@
-
 decreto nº 85.550, de 18 de dezembro de 1980.
 
 Extingue a Secretaria de Comunicação Social da Presidência da República (SECOM) e dá outras providências.

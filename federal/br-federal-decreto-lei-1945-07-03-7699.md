@@ -1,5 +1,3 @@
-###DEL-007699-0-000-03-07-1945@@@
-
 DECRETO-LEI N. 7.699 – DE 3 DE JUlHO DE 1945
 
 Prorroga o prazo mencionado no artigo 23 do Decreto-lei nº 7.586, de 28 de maio de 1945.

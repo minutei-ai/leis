@@ -1,5 +1,3 @@
-###DEC-046055-0-000-19-05-1959@@@
-
 DECRETO Nº 46.055, DE 19 DE MAIO DE 1959.
 
 Regulamenta a Lei nº 3.529, de 13 de janeiro de 1959, que dispõe sôbre a aposentadoria integral dos jornalistas profissionais, e dá outras providências.

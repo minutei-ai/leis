@@ -1,5 +1,3 @@
-###DEC-069190-0-000-14-09-1971@@@
-
 DECRETO Nº 69.190, DE 14 DE SETEMBRO DE 1971.
 
 Aproveita servidores em disponibilidade e dá outras providências.

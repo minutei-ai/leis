@@ -1,6 +1,10 @@
 > **LEI Nº 3.489, DE 02 DE JULHO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece cotas para mulheres vítimas de violência doméstica nos Programas de Habitação de Interesse Social, no ãmbito do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece cotas para mulheres vítimas de violência doméstica nos Programas de Habitação de Interesse Social, no ãmbito do Estado.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual c/c o art. 15, § 1º, X do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 

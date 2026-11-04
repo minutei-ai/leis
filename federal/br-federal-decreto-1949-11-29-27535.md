@@ -1,24 +1,22 @@
-###DEC-027535-0-000-29-11-1949@@@
+**DECRETO Nº 27.535, DE 29 DE NOVEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.535, DE 29 DE NOVEMBRO DE 1949.</strong>
+***Aprova as especificações e tabelas para classificação e fiscalização da exportação de amêndoa de tucum.***
 
-<em><strong>Aprova as especificações e tabelas para classificação e fiscalização da exportação de amêndoa de tucum.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e tendo em vista o disposto no artigo 6º do Decreto-lei nº 334, de 15 de março de 1938 e artigo 94 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e tendo em vista o disposto no artigo 6º do Decreto-lei nº 334, de 15 de março de 1938 e artigo 94 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as especificações e tabela que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Agricultura, dispondo sôbre a classificação e fiscalização da exportação de amêndoa de tucum, visando sua padronização.
 
-<strong>Art</strong>. 1º Ficam aprovadas as especificações e tabela que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Agricultura, dispondo sôbre a classificação e fiscalização da exportação de amêndoa de tucum, visando sua padronização.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 29 de novembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho
 
-<strong>ESPECIFICAÇÕES E TABELA PARA CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DE AMÊNDOAS DE TUCUM, BAIXADAS COM O DECRETO NÚMERO 27.535, DE 29 DE NOVEMBRO DE 1949, EM VIRTUDE DE DISPOSIÇÕES DO DECRETO-LEI Nº 334, DE 15 DE MARÇO DE 1938, E DO REGULAMENTO APROVADO PELO DECRETO Nº 5.739, DE 29 DE MAIO DE 1940.</strong>
+**ESPECIFICAÇÕES E TABELA PARA CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DE AMÊNDOAS DE TUCUM, BAIXADAS COM O DECRETO NÚMERO 27.535, DE 29 DE NOVEMBRO DE 1949, EM VIRTUDE DE DISPOSIÇÕES DO DECRETO-LEI Nº 334, DE 15 DE MARÇO DE 1938, E DO REGULAMENTO APROVADO PELO DECRETO Nº 5.739, DE 29 DE MAIO DE 1940.**
 
 I - A amêndoa de tucum, proveniente do côco de palmeiras pertencentes aos gêneros Bactris e Astro-caryum, será classificada segundo a aparência, o estado de maturidade de conservação e de sanidade, a quantidade de defeitos e de impurezas.
 
@@ -58,10 +56,34 @@ XI - Os certificados de classificação, respeitadas as disposições do artigo 
 
 XII - As despesas relativas a classificação e fiscalização da exportação de amêndoas de tucum e, bem assim, aquelas previstas no Regulamento aprovado pelo Decreto número 5.739, de 29 de maio de 1940, para trabalhos realizados a requerimento ou solicitação da parte ou partes interessadas, serão cobradas de acôrdo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:28.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em"><span>Cr$</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em"><span>A) Classificação (artigo 80), inclusive emissão de certificado, por quilo ................................................................</span></span></p></td><td style="width:28.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em"><span>0,004</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em"><span>B) Reclassificação (artigo 39), inclusive emissão de certificado, por quilo ............................................................</span></span></p></td><td style="width:28.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em"><span>0,003</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em"><span>C) Arbitragem (parágrafo único do artigo 34), inclusive emissão do laudo, por quilo ............................................</span></span></p></td><td style="width:28.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em"><span>0,01</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em"><span>D) Inspeção para os fins indicados nas alíneas </span></span><span style="font-size:0.8em; font-style:italic"><span><em>c</em></span></span><span style="font-size:0.8em"><span> e </span></span><span style="font-size:0.8em; font-style:italic"><span><em>d</em></span></span><span style="font-size:0.8em"><span> do artigo 79, inclusive emissão do laudo por quilo.............</span></span></p></td><td style="width:28.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em"><span>0,001</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em"><span>E) Análise físico-química de amostras ...................................................................................................................</span></span></p></td><td style="width:28.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em"><span>120,00</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em"><span>F) Taxa de fiscalização da exportação (artigo 5º do Decreto-lei nº 334, 15 de março de 1938, e artigos 70, 81 e 82 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940), inclusive emissão de certificado, por quilo ..................................................................................................................................................................</span></span></p></td><td style="width:28.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em"><span>0,002</span></span></p></td></tr></tbody></table>
+Cr$
+
+A) Classificação (artigo 80), inclusive emissão de certificado, por quilo ................................................................
+
+0,004
+
+B) Reclassificação (artigo 39), inclusive emissão de certificado, por quilo ............................................................
+
+0,003
+
+C) Arbitragem (parágrafo único do artigo 34), inclusive emissão do laudo, por quilo ............................................
+
+0,01
+
+D) Inspeção para os fins indicados nas alíneas *c* e *d* do artigo 79, inclusive emissão do laudo por quilo.............
+
+0,001
+
+E) Análise físico-química de amostras ...................................................................................................................
+
+120,00
+
+F) Taxa de fiscalização da exportação (artigo 5º do Decreto-lei nº 334, 15 de março de 1938, e artigos 70, 81 e 82 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940), inclusive emissão de certificado, por quilo ..................................................................................................................................................................
+
+0,002
 
 XIII - Os casos omissos serão resolvidos pelo Serviço de Economia Rural, com aprovação do Ministro da Agricultura.
 
 Rio de Janeiro, 29 de novembro de 1949.
 
-<strong>DANIEL DE CARVALHO</strong>
+**DANIEL DE CARVALHO**

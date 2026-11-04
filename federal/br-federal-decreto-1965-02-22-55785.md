@@ -1,5 +1,3 @@
-###DEC-055785-0-000-22-02-1965@@@
-
 DECRETO Nº 55.785, DE 22 DE FEVEREIRO DE 1965.
 
 Altera os arts. 10 e 11 e seu parágrafo único do Decreto nº 53.914, de 11 de maio de 1964.

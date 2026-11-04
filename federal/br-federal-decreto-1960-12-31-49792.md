@@ -1,5 +1,3 @@
-###DEC-049792-0-000-31-12-1960@@@
-
 DECRETO Nº 49.792, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Irineu Rodrigues de Souza a pesquisar minério de ferro no município de Rio Piracicaba, Estado de Minas Gerais.

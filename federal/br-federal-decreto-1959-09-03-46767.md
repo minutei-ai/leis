@@ -1,5 +1,3 @@
-###DEC-046767-0-000-03-09-1959@@@
-
 decreto nº 46.767, de 3 de setembro de 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento de capital social de “Sul América Terrestres, Marítimos e Acidentes”, Companhia de Seguros.
@@ -17,8 +15,6 @@ Rio de Janeiro, 3 de setembro de 1959; 138º da Independência e 71º da Repúbl
 Juscelino Kubitschek
 
 Fernando Nóbrega
-
-###DEC-046767-0-000-03-09-1959@@@RET01+++
 
 decreto nº 46.767, de 3 de setembro de 1959.
 

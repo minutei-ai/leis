@@ -1,6 +1,10 @@
 > **LEI Nº 3.155, DE 29 DE JULHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a semana de conhecimento e sensibilização a respeito do abandono afetivo aos idosos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a semana de conhecimento e sensibilização a respeito do abandono afetivo aos idosos.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

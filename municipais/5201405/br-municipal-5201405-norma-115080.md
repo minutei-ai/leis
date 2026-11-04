@@ -15,7 +15,8 @@ Art. 1º - São desafetadas do uso comum do povo e transformadas em áreas patri
 
 Art. 2º - Fica o Executivo Municipal autorizado a doar os imóveis desafetados no art. 1º, desta Lei, para as seguintes instituições:
 
-~~a) o imóvel do item I, com 2.948,94m² para a Procuradoria Geral de Justiça do Estado de Goiás;~~<br>
+~~a) o imóvel do item I, com 2.948,94m² para a Procuradoria Geral de Justiça do Estado de Goiás;~~
+
 (Revogado pela Lei Ordinária nº 2.243, de 18 de janeiro de 2002).
 
 b) o imóvel descrito no item II, com 17.000,04m², para o Tribunal de Justiça do Estado de Goiás.
@@ -26,8 +27,10 @@ Art. 2º - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e sete dias do me de dezembro de dois mil.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC.EXECUTIVO

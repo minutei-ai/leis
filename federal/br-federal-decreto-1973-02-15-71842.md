@@ -1,5 +1,3 @@
-###DEC-071842-0-000-15-02-1973@@@
-
 Decreto Nº 71.842, DE 15 DE FEVEREIRO DE 1973.
 
 Aproveita, no Quadro de Pessoal do Ministério da Marinha, servidores em disponibilidade e dá outras providências.

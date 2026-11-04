@@ -1,7 +1,3 @@
-1
-
-###DEC-099162-0-000-12-03-1990@@@
-
 DECRETO N° 99.162, DE 12 DE MARÇO DE 1990
 
 Concede autorização para funcionar como empresa de energia elétrica à MALACCO AMARANTE ENERGÉTICA S.A.

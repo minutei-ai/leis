@@ -1,5 +1,3 @@
-###DEL-004666-0-000-08-09-1942@@@
-
 DECRETO-LEI N. 4.666 – DE 8 DE SETEMBRO DE 1942
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito suplementar de 27:000$0 à verba que especifica

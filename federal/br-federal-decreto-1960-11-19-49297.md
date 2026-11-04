@@ -1,5 +1,3 @@
-###DEC-049297-0-000-19-11-1960@@@
-
 DECRETO Nº 49.297, DE 19 DE novembro DE 1960.
 
 Autoriza o cidadão brasileiro Feres Dequech a pesquisar calcário no município de Itaiópolis, Estado de Santa Catarina.

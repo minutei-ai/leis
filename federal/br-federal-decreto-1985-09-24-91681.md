@@ -1,5 +1,3 @@
-###DEC-091681-0-000-24-09-1985@@@
-
 DECRETO Nº 91.681, de 24 de setembro dE 1985
 
 Concede a Aço Minas Gerais S.A. - AÇOMINAS (GRUPO SIDERBRÁS) autorização para proceder o aumento de seu capital social.
@@ -17,8 +15,6 @@ Brasília, 24 da setembro de 1985; 164º da Independência e 97º da República.
 ULYSSES GUIMARÃES
 
 Roberto Gusmão
-
-###DEC-091681-0-000-24-09-1985@@@RET01+++
 
 DECRETO Nº 91.681, DE 24 DE SETEMBRO DE 1985
 

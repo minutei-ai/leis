@@ -1,5 +1,3 @@
-###DEC-066483-0-000-23-04-1970@@@
-
 DECRETO Nº 66.483, DE 23 DE ABRIL DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério das Relações Exteriores, cargo originário da Superintendência Nacional da Marinha Mercante e dá outras providências.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.291, DE 27 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.697, de 16 de janeiro de 2006, que autoriza o Poder Executivo a alienar e ceder os imóveis adquiridos pelo Estado do Acre do Banco do Estado do Acre - BANACRE, para atualização e adequação às normas referentes à política de gestão patrimonial dos bens imóveis do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.697, de 16 de janeiro de 2006, que autoriza o Poder Executivo a alienar e ceder os imóveis adquiridos pelo Estado do Acre do Banco do Estado do Acre - BANACRE, para atualização e adequação às normas referentes à política de gestão patrimonial dos bens imóveis do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-075022-0-000-03-12-1974@@@
-
 DECRETO Nº 75.022, DE 3 DE DEZEMBRO DE 1974
 
 Concede a Alberto Martins, firma individual, o direito de lavrar calcário no Município de Iporanga, Estado de São Paulo.

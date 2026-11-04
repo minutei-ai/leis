@@ -1,5 +1,3 @@
-###DEL-008155-0-000-01-11-1945@@@
-
 DECRETO-LEI N. 8.155 – DE 1 DE NOVEMBRO DE 1945
 
 Revoga o Decreto-lei nº 8. 063, de 10 de outubro de 1945

@@ -1,7 +1,3 @@
-1
-
-###DEC-000792-0-000-02-04-1993@@@
-
 DECRETO N° 792, DE 2 DE ABRIL DE 1993
 
 Regulamenta os arts. 2°, 4°, 6º, 7° e 11 da Lei n° 8.248, de 23 de outubro de 1991, nas condições que especifica e dá outras providências.

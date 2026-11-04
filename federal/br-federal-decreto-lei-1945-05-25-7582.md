@@ -1,5 +1,3 @@
-###DEL-007582-0-000-25-05-1945@@@
-
 DECRETO-LEI N. 7.582 – DE 25 DE MAIO DE 1945
 
 Extingue o Departamento de Imprensa e Propaganda e cria o Departamento Nacional de Informações

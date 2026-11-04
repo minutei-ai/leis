@@ -1,5 +1,3 @@
-###DEC-091395-0-000-03-07-1985@@@
-
 Decreto nº 91.395, de 3 de julho de 1985.
 
 Reduz a área prioritária fixada pelo Decreto nº 91.390, de 2 de julho de 1985.

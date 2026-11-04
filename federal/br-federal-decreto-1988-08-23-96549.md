@@ -1,5 +1,3 @@
-###DEC-096549-0-000-23-08-1988@@@
-
 DECRETO N° 96.549, DE 23 DE AGOSTO DE 1988
 
 Outorga concessão à SOCIEDADE RÁDIO EDUCADORA DE JUÍNA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Juína, Estado do Mato Grosso.

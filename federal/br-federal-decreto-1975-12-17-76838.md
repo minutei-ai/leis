@@ -1,5 +1,3 @@
-###DEC-076838-0-000-17-12-1975@@@
-
 DECRETO Nº 76.838, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de ciências Econômicas da Faculdade de Ciências Econômicas de Andradina, com sede na cidade de Andradina, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-052905-0-000-22-11-1963@@@
-
 DECRETO Nº 52.905, DE 22 DE NOVEMBRO DE 1963.
 
 Substitui a alínea “c” da cláusula I do Decreto nº 37.043, de 16 de março de 1955.

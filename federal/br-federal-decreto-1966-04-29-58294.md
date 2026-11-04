@@ -1,5 +1,3 @@
-###DEC-058294-0-000-29-04-1966@@@
-
 DECRETO Nº 58.294, DE 29 DE ABRIL DE 1966.
 
 Autoriza o Banco Central da República do Brasil a negociar e contratar com a Agência para o Desenvolvimento Internacional dos Estados Unidos “USAID” empréstimo em moeda estrangeira, para o fim que especifica.

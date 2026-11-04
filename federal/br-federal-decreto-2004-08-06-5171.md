@@ -1,5 +1,3 @@
-###DEC-005171-0-000-06-08-2004@@@
-
 DECRETO Nº 5.171 DE 6 DE AGOSTO DE 2004
 
 Regulamenta os §§ 10 e 12 do art. 8º e o inciso IV do art. 28 da Lei nº 10.865, de 30 de abril de 2004, que dispõe sobre a Contribuição para o PIS/PASEP-Importação e a COFINS-Importação e dá outras providências.

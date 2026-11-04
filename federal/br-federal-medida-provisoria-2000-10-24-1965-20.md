@@ -1,5 +1,3 @@
-###MPV-001965-0-020-24-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.965-20, DE 24 DE outubro DE 2000.
 
 Estabelece a nulidade das disposições contratuais que menciona e inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração.

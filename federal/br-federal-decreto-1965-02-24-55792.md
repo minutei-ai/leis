@@ -1,5 +1,3 @@
-###DEC-055792-0-000-24-02-1965@@@
-
 Decreto nº 55.792, de 24 de Fevereiro de 1965.
 
 Aprova o Regimento da Consultoria Jurídica do Ministério do Trabalho e Previdência Social.

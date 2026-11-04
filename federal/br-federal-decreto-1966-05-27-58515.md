@@ -1,5 +1,3 @@
-###DEC-058515-0-000-27-05-1966@@@
-
 decreto nº 58.515, de 27 de maio de 1966.
 
 Abre, ao Ministério das Relações Exteriores, o crédito especial de Cr$370.000.000, para atender às despesas com a realização da Segunda Conferência Interamericana Extraordinária.

@@ -1,5 +1,3 @@
-###DEC-006817-0-000-07-04-2009@@@
-
 DECRETO Nº 6.817, DE 7 DE ABRIL DE 2009.
 
 Acresce parágrafo ao art. 34 do Decreto no 5.123, de 1o de julho de 2004, que regulamenta a Lei no 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição e sobre o Sistema Nacional de Armas - SINARM.

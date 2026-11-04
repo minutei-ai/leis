@@ -1,5 +1,3 @@
-###DEC-065521-0-000-21-10-1969@@@
-
 DECRETO Nº 65.521 - DE 21 DE OUTUBRO DE 1969.
 
 Altera disposições do Decreto número 59.905, de 30 de dezembro de 1966 modificado pelos Decretos números 62.289, de 21 de fevereiro de 1968 e 64.145, de 3 de março de 1969, e dá outras providências.

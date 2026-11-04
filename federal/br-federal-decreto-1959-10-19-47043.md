@@ -1,5 +1,3 @@
-###DEC-047043-0-000-19-10-1959@@@
-
 DECRETO Nº 47.043, DE 19 DE OUTUBRO DE 1959.
 
 Declara de utilidade pública, para efeitos de desapropriação, o domínio útil dos imóveis que especifica.

@@ -1,5 +1,3 @@
-###DEC-097429-0-000-05-01-1989@@@
-
 DECRETO N° 97.429, DE 5 DE JANEIRO DE 1989
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Letras e Educação Artística de Cuiabá,

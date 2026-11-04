@@ -1,5 +1,3 @@
-###DEC-090043-0-000-13-08-1984@@@
-
 Decreto nº 90.043, de 13 de agosto de 1984
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Novo México", situado no Município de Colider, desmembrado do Município de Chapada dos Guimarães, no Estado de Mato Grosso, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 84.523, de 03 de março de 1980.

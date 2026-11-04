@@ -1,5 +1,3 @@
-###DEL-003544-0-000-22-08-1941@@@
-
 DECRETO-LEI N. 3.544 – DE 22 DE AGOSTO DE 1941
 
 Estende aos Oficiais Generais da Armada as vantagens concedidas pelo decreto-lei nº 3.364, de 21 de junho de 1941

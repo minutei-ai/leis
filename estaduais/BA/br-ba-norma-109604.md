@@ -6,7 +6,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuiç�
 
 Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO PESTALOZZI DE TEIXEIRA DE FREITAS, com sede e foro no município de Teixeira de Freitas.
 
-Redação de acordo com o [art. 1º da Lei nº 10.206, de 25 de maio de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-10206-de-25-de-maio-de-2006#LO_10_206_Art__1) .<br>
+Redação de acordo com o [art. 1º da Lei nº 10.206, de 25 de maio de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-10206-de-25-de-maio-de-2006#LO_10_206_Art__1) .
+
 Redação original: "Art. 1º - Fica declarada de utilidade pública a SOCIEDADE PESTALOZZI DE TEIXEIRA DE FREITAS, com sede e foro no município de Teixeira de Freitas.
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação.

@@ -1,5 +1,3 @@
-###DEC-003794-0-000-19-04-2001@@@
-
 DECRETO Nº 3.794, DE 19 DE ABRIL DE 2001
 
 Dispõe sobre limites de contrapartida a serem aplicados nos casos previstos no § 1º do art. 35 da Lei nº 9.995, de 25 de julho de 2000, e dá outras providências.

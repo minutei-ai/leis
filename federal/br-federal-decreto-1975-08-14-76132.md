@@ -1,5 +1,3 @@
-###DEC-076132-0-000-14-08-1975@@@
-
 decreto nº 76.132 - de 14 de agosto de 1975
 
 Autoriza o funcionamento da Faculdade de Biblioteconomia e Documentação Teresa D'Avila, com sede na cidade de Lorena, Estado de São Paulo.

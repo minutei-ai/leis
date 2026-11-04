@@ -1,5 +1,3 @@
-###DEC-061045-0-000-21-07-1967@@@
-
 DECRETO Nº 61.045, DE 21 DE JULHO DE 1967.
 
 Autoriza o funcionamento da Faculdade de Ciências Médicas de Santos, em Santos, Estado de São Paulo.

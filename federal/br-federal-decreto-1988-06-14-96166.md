@@ -1,5 +1,3 @@
-###DEC-096166-0-000-14-06-1988@@@
-
 DECRETO N° 96.166, DE 14 DE JUNHO DE 1988
 
 Autoriza o funcionamento do Curso de Pedagogia da Faculdade de Educação Thereza Porto Marques, em Jacareí, Estado de São Paulo.

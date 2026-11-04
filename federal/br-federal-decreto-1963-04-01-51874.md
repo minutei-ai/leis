@@ -1,5 +1,3 @@
-###DEC-051874-0-000-01-04-1963@@@
-
 DECRETO Nº 51.874, DE 1º DE ABRIL DE 1963.
 
 Autoriza a alienação de bens.

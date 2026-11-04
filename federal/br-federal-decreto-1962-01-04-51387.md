@@ -1,5 +1,3 @@
-###DEC-051387-0-000-04-01-1962@@@
-
 decreto nº 51.387, de 4 de janeiro de 1962.
 
 Concede à Sociedade estrangeira Bank of London & South América Limited autorização para aumentar o seu capital.

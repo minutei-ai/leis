@@ -1,5 +1,3 @@
-###DEC-084452-0-000-31-01-1980@@@
-
 Decreto nº 84.452, de 31 de janeiro de 1980.
 
 Dispõe sobre a Estrutura Básica da Administração do Território Federal do Amapá e dá outras providências.
@@ -115,8 +113,6 @@ Brasília, 31 de janeiro de 1980; 159º da Independência e 92º da República.
 JOÃO FIGUEIREDO
 
 Mário David Andreazza
-
-###DEC-084452-0-000-31-01-1980@@@RET01+++
 
 DECRETO Nº 84.452, DE 31 DE JANEIRO DE 1980.
 

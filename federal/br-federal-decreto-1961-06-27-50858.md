@@ -1,5 +1,3 @@
-###DEC-050858-0-000-27-06-1961@@@
-
 DECRETO Nº 50.858, DE 27 DE JUNHO DE 1961.
 
 Concede à sociedade anônima Atlantis (Brazil) Limited autorização para continuar a funcionar na República.

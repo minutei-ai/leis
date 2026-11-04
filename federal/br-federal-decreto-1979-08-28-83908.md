@@ -1,5 +1,3 @@
-###DEC-083908-0-000-28-08-1979@@@
-
 Decreto nº 83.908, de 28 de agosto de 1979.
 
 Autoriza o funcionamento do curso de Odontologia do Instituto Superior de Ciências, Letras e Artes de Três Corações, Estado de Minas Gerais.

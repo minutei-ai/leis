@@ -1,5 +1,3 @@
-###DEC-059526-0-000-09-11-1966@@@
-
 DECRETO Nº 59.526, DE 9 DE NOVEMBRO DE 1966.
 
 Retifica os Decretos ns. 54.015, de 13 de julho de 1964, e 55.004, de 13 de novembro de 1964.

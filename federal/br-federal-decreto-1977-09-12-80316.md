@@ -1,5 +1,3 @@
-###DEC-080316-0-000-12-09-1977@@@
-
 DECRETO Nº 80.316, DE 12 DE SETEMBRO DE 1977.
 
 Altera o Decreto nº 78.896, de 6 de dezembro de 1976 que concedeu reconhecimento a cursos ministrados pelo Instituto de Artes da Universidade Federal de Goiás, com sede em Goiânia, Estado de Goiás.

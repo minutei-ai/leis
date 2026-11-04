@@ -1,14 +1,12 @@
-###DEC-042910-0-000-27-12-1957@@@
+**DECRETO Nº 42.910, DE 27 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.910, DE 27 DE DEZEMBRO DE 1957.</strong>
+***Suprime cargos extintos.***
 
-<em><strong>Suprime cargos extintos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, alínea I, da Constituição e nos têrmos do art. 1º n, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, alínea I, da Constituição e nos têrmos do art. 1º n, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos, no Quadro Suplementar do Ministério da Guerra, os seguintes cargos extintos:
+**Art**. 1º Ficam suprimidos, no Quadro Suplementar do Ministério da Guerra, os seguintes cargos extintos:
 
 a) 11 (onze) cargos de classe D, da carreira de Auxiliar de Portaria, vagos em virtude das promoções de Cipriano Simas, Pedro Alves, João Batista da Silva, Antônio Alvarenga Dorneles, João Alcancer de Oliveira, Oscar Domingos dos Santos, Ernesto de Almeida Guimarães, Valdomiro José Areias, Eumar Pnheiro de Mendonça e Francisco Januario dos Santos e da aposentadoria de Manuel Francisco de Matos;
 
@@ -32,12 +30,12 @@ j) 1 (um) cargo de classe M, da carreira de Oficial Administrativo (Decreto-lei 
 
 k) 1 (um) cargo isolado padrão M, de Professor Catedrático, vago em virtude da aposentadoria de Misael Gomes da Silva.
 
-<strong>Art</strong>. 2º A dotação decorrente da supressão dos cargos de que trata êste Decreto deverá atender ao provimento dos cargos vagos do Quadro Permanente do mesmo Ministério.
+**Art**. 2º A dotação decorrente da supressão dos cargos de que trata êste Decreto deverá atender ao provimento dos cargos vagos do Quadro Permanente do mesmo Ministério.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 27 de dezembro de 1957;136º da independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

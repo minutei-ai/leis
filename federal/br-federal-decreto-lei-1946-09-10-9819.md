@@ -1,5 +1,3 @@
-###DEL-009819-0-000-10-09-1946@@@
-
 DECRETO-LEI N. 9.819 – DE 10 DE SETEMBRO DE 1946
 
 Autoriza a alienação de imóvel que menciona, situado no Distrito Federal.

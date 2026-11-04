@@ -1,5 +1,3 @@
-###DEC-092258-0-000-30-12-1985@@@
-
 DECRETO Nº 92.258, DE 30 DE DEZEMBRO DE 1985
 
 Autoriza o funcionamento do curso de Nutrição do Centro de Saúde e dos Alimentos, em Salvador, Bahia.

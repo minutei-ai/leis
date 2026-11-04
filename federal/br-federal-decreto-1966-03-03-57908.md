@@ -1,5 +1,3 @@
-###DEC-057908-0-000-03-03-1966@@@
-
 DECRETO Nº 57.908, DE 03 DE MARÇO DE 1966.
 
 Altera os artigos 9º e 15 e seu § 2º do Regulamento para a Ordem do Mérito Naval, aprovado pelo Decreto nº 7.553, de 18 de julho de 1941.

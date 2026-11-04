@@ -1,5 +1,3 @@
-###DEC-046350-0-000-03-07-1959@@@
-
 Decreto nº 46.350, de 3 de julho de 1959.
 
 Altera a lotação do Ministério da Saúde.

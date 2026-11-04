@@ -1,5 +1,3 @@
-###DEC-007940-0-000-20-02-2013-PUB-01@@@
-
 DECRETO N°\- 7.940, DE 20 DE FEVEREIRO DE 2013
 
 Promulga o Protocolo Adicional ao Acordo- Quadro sobre Meio Ambiente do MERCOSUL em Matéria de Cooperação e Assistência frente a Emergências Ambientais, adotado pela Decisão 14/04 do Conselho do Mercado Comum, em 7 de julho de 2004.

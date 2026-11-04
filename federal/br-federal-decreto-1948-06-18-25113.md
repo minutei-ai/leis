@@ -1,44 +1,42 @@
-###DEC-025113-0-000-18-06-1948@@@
+**DECRETO Nº 25**.**113, DE 18 DE JUNHO DE 1948**.
 
-<strong>DECRETO Nº 25</strong>.<strong>113, DE 18 DE JUNHO DE 1948</strong>.
+***Aprova o Regulamento para a XV Exposição Nacional de Animais e Produtos Derivados, a realizar-se na Capital do Estado de São Paulo, no corrente ano***
 
-<em><strong>Aprova o Regulamento para a XV Exposição Nacional de Animais e Produtos Derivados, a realizar-se na Capital do Estado de São Paulo, no corrente ano</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o 1º Fica aprovado o Regulamento que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Agricultura, para a XV Exposição Nacional de Animais e Produtos Derivados, que se realizará na Capital do Estado de São Paulo, no corrente ano.
 
-<strong>Art</strong>. 1º Fica aprovado o 1º Fica aprovado o Regulamento que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Agricultura, para a XV Exposição Nacional de Animais e Produtos Derivados, que se realizará na Capital do Estado de São Paulo, no corrente ano.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 18 de junho de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G</strong>. <strong>DUTRA</strong>
+**EURICO G**. **DUTRA**
 
 Daniel de Carvalho
 
-<strong>REGULAMENTO DA XV EXPOSIÇÃO NACIONAL DE ANIMAIS E PRODUTOS DERIVADOS</strong>
+**REGULAMENTO DA XV EXPOSIÇÃO NACIONAL DE ANIMAIS E PRODUTOS DERIVADOS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA EXPOSIÇÃO E SEUS FINS</em>
+*DA EXPOSIÇÃO E SEUS FINS*
 
-<strong>Art</strong>. 1º A XV Exposição Nacional de Animais e Produtos Derivados tem por fim reunir os índices de desenvolvimento da produção animal das diferentes regiões do País, a fim de que se possa avaliar de seu progresso a estabelecer melhor contacto entre produtores e criadores dessas regiões como elementos de estímulo, ensinamento e cooperação.
+**Art**. 1º A XV Exposição Nacional de Animais e Produtos Derivados tem por fim reunir os índices de desenvolvimento da produção animal das diferentes regiões do País, a fim de que se possa avaliar de seu progresso a estabelecer melhor contacto entre produtores e criadores dessas regiões como elementos de estímulo, ensinamento e cooperação.
 
-<strong>Art</strong>. 2º A Exposição realizar-se-á de 25 de setembro a 3 de outubro de 1948.
+**Art**. 2º A Exposição realizar-se-á de 25 de setembro a 3 de outubro de 1948.
 
-<strong>Art</strong>. 3º Sua inauguração se dará com a presença de altas autoridades e convidados no dia 25 de setembro de 1948.
+**Art**. 3º Sua inauguração se dará com a presença de altas autoridades e convidados no dia 25 de setembro de 1948.
 
-<strong>Art</strong>. 4º A XV Exposição Nacional de Animais e Produtos Derivados, que será levada a efeito em virtude dos acordos estabelecidos entre o Govêrno da União e os Estados de São Paulo e Minas Gerais, será organizada e dirigida por uma Comissão Executiva e Central, da qual fará parte pelo menos, um representante do Ministério da Agricultura, e auxiliada por Comissões Regionais.
+**Art**. 4º A XV Exposição Nacional de Animais e Produtos Derivados, que será levada a efeito em virtude dos acordos estabelecidos entre o Govêrno da União e os Estados de São Paulo e Minas Gerais, será organizada e dirigida por uma Comissão Executiva e Central, da qual fará parte pelo menos, um representante do Ministério da Agricultura, e auxiliada por Comissões Regionais.
 
 Parágrafo único. Os membros dessas comissões serão designados pelo Ministro da Agricultura e por proposta do Secretário da Agricultura do Estado de São Paulo.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA DIVISÃO</em>
+*DA DIVISÃO*
 
-<strong>Art</strong>. 5º A Exposição Nacional de Animais e Produtos Derivados compreenderá as Seguintes seções:
+**Art**. 5º A Exposição Nacional de Animais e Produtos Derivados compreenderá as Seguintes seções:
 
 a) bovinos e zebuínos;
 
@@ -64,11 +62,11 @@ k) forragens;
 
 l) concursos deversos.
 
-<strong>Art</strong>. 6º As seções serão divididas em classes e categorias, conforme a seguinte ordem:
+**Art**. 6º As seções serão divididas em classes e categorias, conforme a seguinte ordem:
 
-<strong>SEÇÃO A)</strong>
+**SEÇÃO A)**
 
-<em>Bovinos e Zebuínos</em>
+*Bovinos e Zebuínos*
 
 Classe I - Raça Holandesa malhada de prêto. Animais de puro sangue (de “pedigree”).
 
@@ -480,7 +478,7 @@ Classe XXVI - Raça Polled Angus - Animais puros por cruzamento.
 
 178ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe XXVII - Raça <em>Shorthorn</em> - Animais de puro sangue (de “pedigree”).
+Classe XXVII - Raça *Shorthorn* - Animais de puro sangue (de “pedigree”).
 
 179ª categoria - Machos de 10 a 18 meses.
 
@@ -498,7 +496,7 @@ Classe XXVII - Raça <em>Shorthorn</em> - Animais de puro sangue (de “pedigree
 
 186ª categoria - Fêmeas de 4 a 7 anos.
 
-Classe XXVIII - Raça <em>Shorthorn</em> - Animais puros por cruzamento.
+Classe XXVIII - Raça *Shorthorn* - Animais puros por cruzamento.
 
 187ª categoria  \- Fêmeas até 2 dentes.
 
@@ -506,7 +504,7 @@ Classe XXVIII - Raça <em>Shorthorn</em> - Animais puros por cruzamento.
 
 189ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe XXIX - Raça <em>Sharolesa</em> - Animais de puro sangue (de “pedigree”).
+Classe XXIX - Raça *Sharolesa* - Animais de puro sangue (de “pedigree”).
 
 190ª categoria - Machos de 10 a 18 meses.
 
@@ -524,7 +522,7 @@ Classe XXIX - Raça <em>Sharolesa</em> - Animais de puro sangue (de “pedigree�
 
 197ª categoria - Fêmeas de 4 a 7 anos.
 
-Classe XXX - Raça <em>Charolesa</em> - Animais puros por cruzamento.
+Classe XXX - Raça *Charolesa* - Animais puros por cruzamento.
 
 198ª categoria - Machos até 2 dentes.
 
@@ -538,7 +536,7 @@ Classe XXX - Raça <em>Charolesa</em> - Animais puros por cruzamento.
 
 203ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe XXXI - Raça <em>Caracu</em> - Animais de puro sangue (de “pedigree”).
+Classe XXXI - Raça *Caracu* - Animais de puro sangue (de “pedigree”).
 
 204ª categoria - Machos de 10 a 18 meses.
 
@@ -556,7 +554,7 @@ Classe XXXI - Raça <em>Caracu</em> - Animais de puro sangue (de “pedigree”)
 
 211ª categoria - Fêmeas de 4 a 7 anos.
 
-Classe XXXII - Raça <em>Mocha Nacional</em> - Animais registrados.
+Classe XXXII - Raça *Mocha Nacional* - Animais registrados.
 
 212ª categoria -  Machos de 10 a 18 meses.
 
@@ -574,7 +572,7 @@ Classe XXXII - Raça <em>Mocha Nacional</em> - Animais registrados.
 
 219ª categoria - Fêmeas de 4 a 7 anos.
 
-Classe XXXIII - Raça <em>Gyr</em> - Animais registrados.
+Classe XXXIII - Raça *Gyr* - Animais registrados.
 
 220ª categoria - Machos de 30 a 48 meses.
 
@@ -584,7 +582,7 @@ Classe XXXIII - Raça <em>Gyr</em> - Animais registrados.
 
 223ª categoria - Fêmeas de 4 a 7 anos.
 
-Classe XXXIV - Raça G<em>yr</em> - Animais não registrados.
+Classe XXXIV - Raça G*yr* - Animais não registrados.
 
 224ª categoria - Machos sem muda.
 
@@ -594,7 +592,7 @@ Classe XXXIV - Raça G<em>yr</em> - Animais não registrados.
 
 227ª categoria - Fêmeas de 2 dentes.
 
-Classe XXXV - Raça <em>Nelore</em> - Animais registrados.
+Classe XXXV - Raça *Nelore* - Animais registrados.
 
 228ª categoria - Machos de 30 a 48 meses.
 
@@ -604,7 +602,7 @@ Classe XXXV - Raça <em>Nelore</em> - Animais registrados.
 
 231ª categoria - Fêmeas de 4 a 7 anos.
 
-Classe XXXVI - Raça <em>Nelore</em> - Animais não registrados
+Classe XXXVI - Raça *Nelore* - Animais não registrados
 
 232ª categoria - Machos sem muda.
 
@@ -614,7 +612,7 @@ Classe XXXVI - Raça <em>Nelore</em> - Animais não registrados
 
 235ª categoria - Fêmeas de 2 dentes.
 
-Classe XXXVII - Raça <em>Guzerat</em> - Animais registrados
+Classe XXXVII - Raça *Guzerat* - Animais registrados
 
 236ª categoria - Machos de 30 a 48 meses.
 
@@ -624,7 +622,7 @@ Classe XXXVII - Raça <em>Guzerat</em> - Animais registrados
 
 239ª categoria - Fêmeas de 4 a 7 anos.
 
-Classe XXXVIII - Raça <em>Guzerot</em> - Animais não registrados
+Classe XXXVIII - Raça *Guzerot* - Animais não registrados
 
 240ª categoria - Machos sem muda.
 
@@ -634,7 +632,7 @@ Classe XXXVIII - Raça <em>Guzerot</em> - Animais não registrados
 
 243ª categoria - Fêmeas de 2 dentes.
 
-Classe XXXIX - Raça <em>Indubrasil</em> - Animais registrados
+Classe XXXIX - Raça *Indubrasil* - Animais registrados
 
 244ª categoria - Machos de 30 a 48 meses.
 
@@ -644,7 +642,7 @@ Classe XXXIX - Raça <em>Indubrasil</em> - Animais registrados
 
 247ª categoria - Fêmeas de 4 a 7 anos.
 
-Classe XL - Raça <em>Indubrasil</em> - Animais não registrados
+Classe XL - Raça *Indubrasil* - Animais não registrados
 
 248ª categoria - Machos sem muda.
 
@@ -670,7 +668,7 @@ Classe XLI - Outras raças
 
 Seção B) Equinos e Asininos
 
-Classe XLII - Equinos da raça <em>Árabe</em> - Animais de puro sangue (de “pedigree”).
+Classe XLII - Equinos da raça *Árabe* - Animais de puro sangue (de “pedigree”).
 
 258ª categoria - Machos de 12 a 24 meses.
 
@@ -684,7 +682,7 @@ Classe XLII - Equinos da raça <em>Árabe</em> - Animais de puro sangue (de “p
 
 263ª categoria - Fêmeas de mais de 36 meses.
 
-Classe XLIII - Equinos da raça <em>Árabe</em> - Puros por cruzamento
+Classe XLIII - Equinos da raça *Árabe* - Puros por cruzamento
 
 264ª categoria - Machos sem muda.
 
@@ -698,7 +696,7 @@ Classe XLIII - Equinos da raça <em>Árabe</em> - Puros por cruzamento
 
 269ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe XLIV - Equinos da raça <em>Inglêsa</em> de Corrida - Animais de puro sangue (de “pedigree”).
+Classe XLIV - Equinos da raça *Inglêsa* de Corrida - Animais de puro sangue (de “pedigree”).
 
 270ª categoria - Machos de 12 a 24 meses.
 
@@ -712,7 +710,7 @@ Classe XLIV - Equinos da raça <em>Inglêsa</em> de Corrida - Animais de puro sa
 
 275ª categoria - Fêmeas de mais de 36 meses.
 
-Classe XLV - Equinos da Raça <em>Anglo-Árabe</em> - Animais de puro sangue (de “pedigree”).
+Classe XLV - Equinos da Raça *Anglo-Árabe* - Animais de puro sangue (de “pedigree”).
 
 276ª categoria - Machos de 12 a 24 meses.
 
@@ -726,7 +724,7 @@ Classe XLV - Equinos da Raça <em>Anglo-Árabe</em> - Animais de puro sangue (de
 
 281ª categoria - Fêmeas de mais de 36 meses.
 
-Classe XLVI - Equinos da raça <em>Anglo-Árabe</em> \- Animais puros por cruzamento
+Classe XLVI - Equinos da raça *Anglo-Árabe* \- Animais puros por cruzamento
 
 282ª categoria - Machos sem muda.
 
@@ -740,7 +738,7 @@ Classe XLVI - Equinos da raça <em>Anglo-Árabe</em> \- Animais puros por cruzam
 
 287ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe XLVII - Equinos da raça <em>Percheron</em> - Animais de puro sangue (de “pedigree”)
+Classe XLVII - Equinos da raça *Percheron* - Animais de puro sangue (de “pedigree”)
 
 288ª categoria - Machos de 12 a 24 meses.
 
@@ -754,7 +752,7 @@ Classe XLVII - Equinos da raça <em>Percheron</em> - Animais de puro sangue (de 
 
 293ª categoria - Fêmeas de mais de 36 meses.
 
-Classe XLVIII - Equinos da raça <em>Percheron</em> - Animais puros por cruzamento
+Classe XLVIII - Equinos da raça *Percheron* - Animais puros por cruzamento
 
 294ª categoria - Machos sem muda.
 
@@ -768,7 +766,7 @@ Classe XLVIII - Equinos da raça <em>Percheron</em> - Animais puros por cruzamen
 
 299ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe XLIX - Equinos da raça <em>Mangalarga</em> - Animais registrados
+Classe XLIX - Equinos da raça *Mangalarga* - Animais registrados
 
 300ª categoria - Machos de 12 a 24 meses.
 
@@ -782,7 +780,7 @@ Classe XLIX - Equinos da raça <em>Mangalarga</em> - Animais registrados
 
 305ª categoria - Fêmeas de mais de 36 meses.
 
-Classe L - Equinos da raça <em>Mangalarga</em> - Animais não registrados
+Classe L - Equinos da raça *Mangalarga* - Animais não registrados
 
 306ª categoria - Machos sem muda.
 
@@ -796,7 +794,7 @@ Classe L - Equinos da raça <em>Mangalarga</em> - Animais não registrados
 
 311ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LI - Equinos da raça <em>Crioula do Rio Grande do Sul</em> - Animais registrados
+Classe LI - Equinos da raça *Crioula do Rio Grande do Sul* - Animais registrados
 
 312ª categoria -  Machos de 12 a 24 meses.
 
@@ -810,7 +808,7 @@ Classe LI - Equinos da raça <em>Crioula do Rio Grande do Sul</em> - Animais reg
 
 317ª categoria - Fêmeas de mais de 36 meses.
 
-Classe  LII - Equinos da raça <em>CampolinaI -</em> Animais registrados
+Classe  LII - Equinos da raça *CampolinaI -* Animais registrados
 
 318ª categoria -  Machos de 12 a 24 meses.
 
@@ -824,7 +822,7 @@ Classe  LII - Equinos da raça <em>CampolinaI -</em> Animais registrados
 
 323ª categoria - Fêmeas de mais de 36 meses.
 
-Classe LIII - Equinos da raça <em>Campolina</em> - Animais não registrados
+Classe LIII - Equinos da raça *Campolina* - Animais não registrados
 
 324ª categoria - Machos sem muda.
 
@@ -952,7 +950,7 @@ Classe LXI - Ovinos das raças Merinas - Animais puros por cruzamento
 
 377ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXII - Ovinos da raça <em>Romney Marsh</em> - Animais de puro sangue (de “pedigree”)
+Classe LXII - Ovinos da raça *Romney Marsh* - Animais de puro sangue (de “pedigree”)
 
 378ª categoria - Machos sem muda.
 
@@ -966,7 +964,7 @@ Classe LXII - Ovinos da raça <em>Romney Marsh</em> - Animais de puro sangue (de
 
 383ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXIII - Ovinos da raça <em>Romney Marsh</em> - Animais puros por cruzamento
+Classe LXIII - Ovinos da raça *Romney Marsh* - Animais puros por cruzamento
 
 384ª categoria - Machos sem muda.
 
@@ -980,7 +978,7 @@ Classe LXIII - Ovinos da raça <em>Romney Marsh</em> - Animais puros por cruzame
 
 389ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXIV - Ovinos da raça <em>Shropshire</em> - Animais de puro sangue (de “pedigree”)
+Classe LXIV - Ovinos da raça *Shropshire* - Animais de puro sangue (de “pedigree”)
 
 390ª categoria - Machos sem muda.
 
@@ -994,7 +992,7 @@ Classe LXIV - Ovinos da raça <em>Shropshire</em> - Animais de puro sangue (de �
 
 395ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXV - Ovinas da raça <em>Shropshire</em> - Animais puros por cruzamento
+Classe LXV - Ovinas da raça *Shropshire* - Animais puros por cruzamento
 
 396ª categoria - Machos sem muda.
 
@@ -1008,7 +1006,7 @@ Classe LXV - Ovinas da raça <em>Shropshire</em> - Animais puros por cruzamento
 
 401ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXVI - Ovinos da raça <em>Suffolk</em> - Animais de puro sangue (de “pedigree”)
+Classe LXVI - Ovinos da raça *Suffolk* - Animais de puro sangue (de “pedigree”)
 
 402ª categoria - Machos sem muda.
 
@@ -1022,7 +1020,7 @@ Classe LXVI - Ovinos da raça <em>Suffolk</em> - Animais de puro sangue (de “p
 
 407ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe  LXVII - Ovinos da raça <em>Suffolk</em> - Animais puros por cruzamento
+Classe  LXVII - Ovinos da raça *Suffolk* - Animais puros por cruzamento
 
 408ª categoria - Machos sem muda.
 
@@ -1036,7 +1034,7 @@ Classe  LXVII - Ovinos da raça <em>Suffolk</em> - Animais puros por cruzamento
 
 413ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXVIII - Ovinos da raça <em>Hampshire</em> - Animais de puro sangue (de “pedigree”)
+Classe LXVIII - Ovinos da raça *Hampshire* - Animais de puro sangue (de “pedigree”)
 
 414ª categoria - Machos sem muda.
 
@@ -1050,7 +1048,7 @@ Classe LXVIII - Ovinos da raça <em>Hampshire</em> - Animais de puro sangue (de 
 
 419ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXIX - Ovinos da raça <em>Hampshire</em> - Animais puros por cruzamento
+Classe LXIX - Ovinos da raça *Hampshire* - Animais puros por cruzamento
 
 420ª categoria - Machos sem muda.
 
@@ -1092,7 +1090,7 @@ Classe LXXI - Outras raças de Ovinos - Animais puros por cruzamento
 
 437ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXII - Caprinos da raça <em>Angorá</em> - Animais de puro sangue (de “pedigree”)
+Classe LXXII - Caprinos da raça *Angorá* - Animais de puro sangue (de “pedigree”)
 
 438ª categoria - Machos sem muda.
 
@@ -1106,7 +1104,7 @@ Classe LXXII - Caprinos da raça <em>Angorá</em> - Animais de puro sangue (de �
 
 443ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXIII - Caprinos da raça <em>Angorá</em> - Animais puros por cruzamento
+Classe LXXIII - Caprinos da raça *Angorá* - Animais puros por cruzamento
 
 444ª categoria - Machos sem muda.
 
@@ -1120,7 +1118,7 @@ Classe LXXIII - Caprinos da raça <em>Angorá</em> - Animais puros por cruzament
 
 449ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXIV - Caprinos da raça <em>Nubiana</em> - Animais de puro sangue (de “pedigree”)
+Classe LXXIV - Caprinos da raça *Nubiana* - Animais de puro sangue (de “pedigree”)
 
 450ª categoria - Machos sem muda.
 
@@ -1134,7 +1132,7 @@ Classe LXXIV - Caprinos da raça <em>Nubiana</em> - Animais de puro sangue (de �
 
 455ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXV - Caprinos da raça <em>Nubiana</em> - Animais puros por cruzamento
+Classe LXXV - Caprinos da raça *Nubiana* - Animais puros por cruzamento
 
 456ª categoria - Machos sem muda.
 
@@ -1148,7 +1146,7 @@ Classe LXXV - Caprinos da raça <em>Nubiana</em> - Animais puros por cruzamento
 
 461ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXVI - Caprinos da raça <em>Toggenburg</em> - Animais de puro sangue (de “pedigree”)
+Classe LXXVI - Caprinos da raça *Toggenburg* - Animais de puro sangue (de “pedigree”)
 
 462ª categoria - Machos sem muda.
 
@@ -1162,7 +1160,7 @@ Classe LXXVI - Caprinos da raça <em>Toggenburg</em> - Animais de puro sangue (d
 
 467ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXVII - Caprinos da raça <em>Toggenburg</em> - Animais puros por cruzamento
+Classe LXXVII - Caprinos da raça *Toggenburg* - Animais puros por cruzamento
 
 468ª categoria - Machos sem muda.
 
@@ -1176,7 +1174,7 @@ Classe LXXVII - Caprinos da raça <em>Toggenburg</em> - Animais puros por cruzam
 
 473ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXVIII - Caprinos da raça <em>Múrcia</em> - Animais de puro sangue (de “pedigree”)
+Classe LXXVIII - Caprinos da raça *Múrcia* - Animais de puro sangue (de “pedigree”)
 
 474ª categoria - Machos sem muda.
 
@@ -1190,7 +1188,7 @@ Classe LXXVIII - Caprinos da raça <em>Múrcia</em> - Animais de puro sangue (de
 
 479ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXIX - Caprinos da raça <em>Múrcia</em> - Animais puros por cruzamento
+Classe LXXIX - Caprinos da raça *Múrcia* - Animais puros por cruzamento
 
 480ª categoria - Machos sem muda.
 
@@ -1204,7 +1202,7 @@ Classe LXXIX - Caprinos da raça <em>Múrcia</em> - Animais puros por cruzamento
 
 485ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXX - Caprinos da raça <em>Saanen</em> - Animais de puro sangue (de “pedigree”)
+Classe LXXX - Caprinos da raça *Saanen* - Animais de puro sangue (de “pedigree”)
 
 486ª categoria - Machos sem muda.
 
@@ -1218,7 +1216,7 @@ Classe LXXX - Caprinos da raça <em>Saanen</em> - Animais de puro sangue (de “
 
 491ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXXI - Caprinos da raça <em>Saanen</em> - Animais puros por cruzamento
+Classe LXXXI - Caprinos da raça *Saanen* - Animais puros por cruzamento
 
 492ª categoria - Machos sem muda.
 
@@ -1232,7 +1230,7 @@ Classe LXXXI - Caprinos da raça <em>Saanen</em> - Animais puros por cruzamento
 
 497ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXXII - Caprinos da raça <em>Mambrina</em> - Animais de puro sangue (de “pedigree”)
+Classe LXXXII - Caprinos da raça *Mambrina* - Animais de puro sangue (de “pedigree”)
 
 498ª categoria - Machos sem muda.
 
@@ -1246,7 +1244,7 @@ Classe LXXXII - Caprinos da raça <em>Mambrina</em> - Animais de puro sangue (de
 
 503ª categoria - Fêmeas de mais de 4 dentes.
 
-Classe LXXXIII - Caprinos da raça <em>Membrina</em> - Animais puros por cruzamento
+Classe LXXXIII - Caprinos da raça *Membrina* - Animais puros por cruzamento
 
 504ª categoria - Machos sem muda.
 
@@ -1288,7 +1286,7 @@ Classe LXXXV - Outras raças de Caprinos - Animais puros por cruzamento
 
 521ª categoria - Fêmeas de mais de 4 dentes.
 
-<strong>Art</strong>. 7º A Seção de Avicultura compreenderá galináceos, palmípedes, colombinos, pássaros, aves ornamentais e material avícola.
+**Art**. 7º A Seção de Avicultura compreenderá galináceos, palmípedes, colombinos, pássaros, aves ornamentais e material avícola.
 
 Classe LXXXVI - Galináceos
 
@@ -1486,11 +1484,11 @@ Classe XCVII - Pintos de 1 dia
 
 608ª categoria - Lote de 100 pintos da mesma raça (Raças mistas).
 
-<strong>SEÇÃO E)</strong>
+**SEÇÃO E)**
 
-<em>APICULTURA</em>
+*APICULTURA*
 
-<strong>Art</strong>. 8º A Seção de Apicultura compreenderá abelhas domésticas criadas no país, produtos de apicultura, material apícola, etc.
+**Art**. 8º A Seção de Apicultura compreenderá abelhas domésticas criadas no país, produtos de apicultura, material apícola, etc.
 
 Classe XCVIII - Abelhas
 
@@ -1526,11 +1524,11 @@ Classe CIII - Livros sôbre Apicultura
 
 619ª categoria - Livros nacionais de divulgação, ensino ou trabalho sôbre doenças das abelhas.
 
-<strong>SEÇÃO F)</strong>
+**SEÇÃO F)**
 
-<em>CUNICULTURA</em>
+*CUNICULTURA*
 
-<strong>Art</strong>. 9º A Seção de Cunicultura compreenderá coelhos nacionais e estrangeiros criados no País, peles, produtos, etc.
+**Art**. 9º A Seção de Cunicultura compreenderá coelhos nacionais e estrangeiros criados no País, peles, produtos, etc.
 
 Classe CIV - Raça de Pêlo Curto - Castorrex
 
@@ -1568,11 +1566,11 @@ Classe CVII - Pêlos de Coelho
 
 634ª categoria - Peles preparadas e outros produtos.
 
-<strong>SEÇÃO G)</strong>
+**SEÇÃO G)**
 
-<em>CAÇA E PESCA</em>
+*CAÇA E PESCA*
 
-<strong>Art</strong>. 10. A Seção de Piscicultura compreenderá peixes ornamentais e de valor industrial, quer de criação de amadores, quer de profissional e produtos de caça e pesca.
+**Art**. 10. A Seção de Piscicultura compreenderá peixes ornamentais e de valor industrial, quer de criação de amadores, quer de profissional e produtos de caça e pesca.
 
 Classe CVIII - Peixes ornamentais
 
@@ -1660,11 +1658,11 @@ Classe CXV - Caça e Pesca (Produtos)
 
 669ª categoria - Artes aplicadas.
 
-<strong>SEÇÃO H)</strong>
+**SEÇÃO H)**
 
-<em>SERICULTURA</em>
+*SERICULTURA*
 
-<strong>Art</strong>. 11. A Seção de Sericultura consistirá na apresentação de <em>Bombyx mori</em> nas diferentes fases de sua criação, de fios de sêda, mostruários, etc.
+**Art**. 11. A Seção de Sericultura consistirá na apresentação de *Bombyx mori* nas diferentes fases de sua criação, de fios de sêda, mostruários, etc.
 
 Classe CXVI - Casulos
 
@@ -1680,9 +1678,9 @@ Classe CXVIII - Concurso de mostruários
 
 673ª categoria - Estande melhor apresentado.
 
-<strong>SEÇÃO I)</strong>
+**SEÇÃO I)**
 
-<em>OVINOS RÚSTICOS</em>
+*OVINOS RÚSTICOS*
 
 Classe CXIX - Tôdas as raças - Animais puros por cruzamento
 
@@ -1698,11 +1696,11 @@ Classe CXIX - Tôdas as raças - Animais puros por cruzamento
 
 679ª categoria - Fêmeas de mais de 34 dentes.
 
-<strong>SEÇÃO J)</strong>
+**SEÇÃO J)**
 
-<em>PRODUTOS DE ORIGEM ANIMAL</em>
+*PRODUTOS DE ORIGEM ANIMAL*
 
-<strong>Art</strong>. 12. A Seção de Produtos de Origem Animal compreenderá artigos de comestíveis, industriais e de utilidade, fabricados com matéria prima nacional.
+**Art**. 12. A Seção de Produtos de Origem Animal compreenderá artigos de comestíveis, industriais e de utilidade, fabricados com matéria prima nacional.
 
 Classe CXX - Leite e derivados
 
@@ -1736,11 +1734,11 @@ Classe CXXI - Carne e derivados, exceto os produtos destinados à alimentação 
 
 14ª categoria - Produtos diversos.
 
-<strong>SEÇÃO K)</strong>
+**SEÇÃO K)**
 
-<em>FORRAGENS</em>
+*FORRAGENS*
 
-<strong>Art</strong>. 13. A Seção de Forragens compreenderá as seguintes classes e categorias:
+**Art**. 13. A Seção de Forragens compreenderá as seguintes classes e categorias:
 
 Classe CXXII - Plantas vivas
 
@@ -1784,33 +1782,33 @@ Classe CXXV - Coleções, herbários e mostruários
 
 17ª categoria - Outras plantas.
 
-<strong>SEÇÃO L)</strong>
+**SEÇÃO L)**
 
-<em>CONCURSOS DVIERSOS</em>
+*CONCURSOS DVIERSOS*
 
-<strong>Art</strong>. 14. Esta Seção compreenderá os concursos de vacas leiteiras, de animais gordos e de tratadores e ordenhadores.
+**Art**. 14. Esta Seção compreenderá os concursos de vacas leiteiras, de animais gordos e de tratadores e ordenhadores.
 
 Classe CXXVI - Concurso de vacas leiteiras
 
-<strong>Art</strong>. 15. Poderão ser inscritas no concurso, vacas de quaisquer raças, de puro sangue ou puras por cruzamento.
+**Art**. 15. Poderão ser inscritas no concurso, vacas de quaisquer raças, de puro sangue ou puras por cruzamento.
 
-<strong>Art</strong>. 16. As vacas deverão achar-se em lactação no mínimo 3 e no máximo 180 dias antes do início do concurso.
+**Art**. 16. As vacas deverão achar-se em lactação no mínimo 3 e no máximo 180 dias antes do início do concurso.
 
-<strong>Art</strong>. 17. As vacas deverão apresentar estado de boa saúde e ter provas negativas de brucelose e turbeculose.
+**Art**. 17. As vacas deverão apresentar estado de boa saúde e ter provas negativas de brucelose e turbeculose.
 
-<strong>Art</strong>. 18. As vacas inscritas no concurso deverão entrar no recinto da Exposição 5 dias antes da sua inauguração.
+**Art**. 18. As vacas inscritas no concurso deverão entrar no recinto da Exposição 5 dias antes da sua inauguração.
 
-<strong>Art</strong>. 19. O concurso de vacas leiteiras será julgado por uma Comissão designada pela Comissão Executiva Central.
+**Art**. 19. O concurso de vacas leiteiras será julgado por uma Comissão designada pela Comissão Executiva Central.
 
-<strong>Art</strong>. 20. Encerrado o recebimento serão todas as vacas submetidas a rigorosa ordenha durante 24 horas e, dêsse modo preparadas para o concurso, que se deverá iniciar 8 horas depois da última ordenha.
+**Art**. 20. Encerrado o recebimento serão todas as vacas submetidas a rigorosa ordenha durante 24 horas e, dêsse modo preparadas para o concurso, que se deverá iniciar 8 horas depois da última ordenha.
 
-<strong>Art</strong>. 21. As vacas serão submetidas a duas ou três ordenhas completas por dia, em hora previamente determinada, durante 3 horas, sendo o leite de cada ordenha pesado e analisado para determinação da percentagem de gordura.
+**Art**. 21. As vacas serão submetidas a duas ou três ordenhas completas por dia, em hora previamente determinada, durante 3 horas, sendo o leite de cada ordenha pesado e analisado para determinação da percentagem de gordura.
 
-<strong>Art</strong>. 22. As categorias serão em número de duas: uma de vacas até 2ª cria e com 5 anos no máximo, e outra de 3ª cria, com qual quer idade.
+**Art**. 22. As categorias serão em número de duas: uma de vacas até 2ª cria e com 5 anos no máximo, e outra de 3ª cria, com qual quer idade.
 
-<strong>Art</strong>. 23. Os ordenhadores deverão usar vestes brancas e gorros da mesma côr.
+**Art**. 23. Os ordenhadores deverão usar vestes brancas e gorros da mesma côr.
 
-<strong>Art</strong>. 24. Serão feitas as seguintes classificações pra cada categoria:
+**Art**. 24. Serão feitas as seguintes classificações pra cada categoria:
 
 I - Quantidade de leite.
 
@@ -1818,11 +1816,11 @@ II - Quantidade global de gordura.
 
 III - Percentagem de gordura.
 
-<strong>Art</strong>. 25. Nenhuma vaca poderá ser premiada desde que a produção média diária, durante o concurso, seja inferior a 10 litros, ficando estabelecida a percentagem mínima de 3,5% para a classificação constante do inciso III do artigo anterior.
+**Art**. 25. Nenhuma vaca poderá ser premiada desde que a produção média diária, durante o concurso, seja inferior a 10 litros, ficando estabelecida a percentagem mínima de 3,5% para a classificação constante do inciso III do artigo anterior.
 
 Classe CXXVII - Concurso de bois gordos
 
-<strong>Art</strong>. 26. Os animais inscritos no concurso de bois gordos serão sub-divididos em subclasses e categorias.
+**Art**. 26. Os animais inscritos no concurso de bois gordos serão sub-divididos em subclasses e categorias.
 
 1ª subclasse - Raças Européias de corte e seus mestiços.
 
@@ -1840,13 +1838,13 @@ Classe CXXVII - Concurso de bois gordos
 
 6ª categoria - Novilhos de 2 a 4 anos.
 
-<strong>Art</strong>. 27. Em qualquer das subclasses só será permitida a inscrição de lotes de 4 animais da mesma categoria.
+**Art**. 27. Em qualquer das subclasses só será permitida a inscrição de lotes de 4 animais da mesma categoria.
 
-<strong>Art</strong>. 28. O concurso visará especialmente o tipo frigorífico e o julgamento será feito em duas fases:
+**Art**. 28. O concurso visará especialmente o tipo frigorífico e o julgamento será feito em duas fases:
 
-<em>a)</em> apreciação dos animais em pé;
+*a)* apreciação dos animais em pé;
 
-<em>b)</em> prova do cêpo (contrôle de carne).
+*b)* prova do cêpo (contrôle de carne).
 
 § 1º Na primeira fase do julgamento, os lotes serão classificados em 1,º, 2º e 3º lugares.
 
@@ -1856,43 +1854,43 @@ Classe CXXVII - Concurso de bois gordos
 
 § 4º Os lotes só serão escolhidos em definitivo para a colocação em 1º, 2º e 3º lugares depois de realizados os julgamentos antes e depois de abatidos.
 
-<strong>Art</strong>. 29. Os proprietários dos animais abatidos serão indenizados pela Comissão Executiva Central aos preços correntes do mercado de gado de corte.
+**Art**. 29. Os proprietários dos animais abatidos serão indenizados pela Comissão Executiva Central aos preços correntes do mercado de gado de corte.
 
 § 1º A pedido do expositor e exclusivamente para a sua orientação pessoal, sem qualquer efeito para o julgamento, e sem responsabilidade por qualquer indenização, poderá a Comissão Julgadora fazer a prova do cepo de qualquer outro animal dos lotes não classificados dos três primeiros lugares de cada categoria.
 
-<strong>Art</strong>. 30. Para o contrôle da carne, a Comissão Julgadora retificará inicialmente a classificação da carcassas, segundo os padrões de exportação internacional e o seguinte:
+**Art**. 30. Para o contrôle da carne, a Comissão Julgadora retificará inicialmente a classificação da carcassas, segundo os padrões de exportação internacional e o seguinte:
 
-<em>a)</em>      relação entre pêso vivo e pêso morto, ou seja, rendimento total de carne;
+*a)*      relação entre pêso vivo e pêso morto, ou seja, rendimento total de carne;
 
-<em>b)</em>      relação entre os quartos posterires e anteriores;
+*b)*      relação entre os quartos posterires e anteriores;
 
-<em>c)</em>       apuração e classificação da carne em suas diversas categorias de 1ª, 2ª e 3ª.
+*c)*       apuração e classificação da carne em suas diversas categorias de 1ª, 2ª e 3ª.
 
-<em>d)</em>      rendimento de cada uma dessas categorias e percentagens respectivas;
+*d)*      rendimento de cada uma dessas categorias e percentagens respectivas;
 
-<em>e)</em>      distribuição de gordura externa, interna e intersticial;
+*e)*      distribuição de gordura externa, interna e intersticial;
 
-<em>f)</em>        apreciação dos diversos pedaços de carne, levando-se em consideração o pêso, o aspecto, a textura e degustação;
+*f)*        apreciação dos diversos pedaços de carne, levando-se em consideração o pêso, o aspecto, a textura e degustação;
 
-<em>g)</em>      apreciação das massas musculares quanto à côr, consistência, tamanho, forma, expessura,e, ao mesmo tempo, delicadeza de grão;
+*g)*      apreciação das massas musculares quanto à côr, consistência, tamanho, forma, expessura,e, ao mesmo tempo, delicadeza de grão;
 
-<em>h)</em>      relação entre o esqueleto e o rendimento da carne;
+*h)*      relação entre o esqueleto e o rendimento da carne;
 
-<em>i)</em>         pêso das peças principais dos subprodutos;
+*i)*         pêso das peças principais dos subprodutos;
 
-<em>j)</em>         pêso do couro.
+*j)*         pêso do couro.
 
-<strong>Art</strong>. 31. Os prêmios  em dinheiro serão atribuídos aos lotes de primeiro prêmio  que se colocarem em primeiro lugar (campeão), em segundo, (vice-campeão) e terceiro.
+**Art**. 31. Os prêmios  em dinheiro serão atribuídos aos lotes de primeiro prêmio  que se colocarem em primeiro lugar (campeão), em segundo, (vice-campeão) e terceiro.
 
-<strong>Art</strong>. 32. O sacrifício dos animais para a prova de cêpo será feito em lugar apropriado, com assistência das pessoas interessadas, que, entretanto, não poderão, de maneira alguma, intervir nos trabalhos da Comissão Julgadora.
+**Art**. 32. O sacrifício dos animais para a prova de cêpo será feito em lugar apropriado, com assistência das pessoas interessadas, que, entretanto, não poderão, de maneira alguma, intervir nos trabalhos da Comissão Julgadora.
 
-<strong>Art</strong>. 33. O corte da carcassa para apuração das diferentes categorias de carne será o comumente adorado pelo matadouros.
+**Art**. 33. O corte da carcassa para apuração das diferentes categorias de carne será o comumente adorado pelo matadouros.
 
-<strong>Art</strong>. 34. Aos lotes que obtiverem 1º, 2º e 3º lugares na apreciação dos animais em pé serão conferidos diplomas e placas com inscrições referentes aos prêmios.
+**Art**. 34. Aos lotes que obtiverem 1º, 2º e 3º lugares na apreciação dos animais em pé serão conferidos diplomas e placas com inscrições referentes aos prêmios.
 
-CLASSE CXXVIII - CONCURSO DE TRATADORES E ORDENHADORES<strong>.</strong>
+CLASSE CXXVIII - CONCURSO DE TRATADORES E ORDENHADORES**.**
 
-<strong>Art</strong>. 35. Realizar-se-ão concursos de tratadores, visando o estímulo para a formação de homens capazes de dispensar aos animais os cuidados inerentes às lides comuns da criação e ao preparo de espécimes para as Exposições.
+**Art**. 35. Realizar-se-ão concursos de tratadores, visando o estímulo para a formação de homens capazes de dispensar aos animais os cuidados inerentes às lides comuns da criação e ao preparo de espécimes para as Exposições.
 
 § 1º Os concursos de tratadores compreenderão as principais espécies de animais, objetivando as condições de trato dos animais em geral e as de cada espécie em particular.
 
@@ -1906,35 +1904,35 @@ c)       tratadores de suínos;
 
 d)      tratadores de ovinos e caprinos;
 
-<strong>Art</strong>. 36. Será efetuado um concurso de ordenhadores, tendo por objetivo promover a melhoria nas condições de ordenha das vacas.
+**Art**. 36. Será efetuado um concurso de ordenhadores, tendo por objetivo promover a melhoria nas condições de ordenha das vacas.
 
 Parágrafo único. as condições dêste concurso ficam também a cargo da comissão designada para isso.
 
 CLASSE CXXIX - OUTROS CONCURSOS
 
-<strong>Art</strong>. 37. Na exposição poderão também ser realizados outros concursos, a juízo da Comissão Executiva Central, que os fará anunciar com antecedência, divulgado suas bases.
+**Art**. 37. Na exposição poderão também ser realizados outros concursos, a juízo da Comissão Executiva Central, que os fará anunciar com antecedência, divulgado suas bases.
 
-<strong>Art</strong>. 38. Para cada concurso haverá uma Comissão Julgadora, designada pela Comissão Executiva Central.
+**Art**. 38. Para cada concurso haverá uma Comissão Julgadora, designada pela Comissão Executiva Central.
 
-<strong>Art</strong>. 39. Nesses concursos serão também conferidos prêmios aos vencedores, a critério da Comissão Executiva Central.
+**Art**. 39. Nesses concursos serão também conferidos prêmios aos vencedores, a critério da Comissão Executiva Central.
 
-<strong>Art</strong>. 40. Os julgamentos dêsses concursos serão públicos e inapeláveis.
+**Art**. 40. Os julgamentos dêsses concursos serão públicos e inapeláveis.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO FUNCIONAMENTO</em>
+*DO FUNCIONAMENTO*
 
-<strong>Art</strong>. 41. A visitação pública à Exposição só será permitida após o ato inaugural.
+**Art**. 41. A visitação pública à Exposição só será permitida após o ato inaugural.
 
-<strong>Art</strong>. 42. Será cobrada a entrada de Cr$2,00 por pessoa.
+**Art**. 42. Será cobrada a entrada de Cr$2,00 por pessoa.
 
 § 1º Terão entrada franca, em qualquer caso, os expositores e seus representantes, o pessoal de serviço, os corpos docentes e discentes de instituições de ensino que solicitarem permissão para visitar o certame, os menores de 12 anos acompanhados, e tôdas as pessoas munidas de ingresso permanente fornecido pela Comissão Executiva Central.
 
 § 2º Antes da inauguração, só será permitida a entrada às pessoas que tiverem ingressos especiais, exceto nos dias de julgamento.
 
-<strong>Art</strong>. 43. A Exposição estará franqueada ao público das 9 e meia às 19 horas, podendo prolongar-se a juízo da Comissão Executiva Central.
+**Art**. 43. A Exposição estará franqueada ao público das 9 e meia às 19 horas, podendo prolongar-se a juízo da Comissão Executiva Central.
 
-<strong>Art</strong>. 44. Poderão concorrer à Exposição criadores, industriais e comerciantes das classes que constituem as divisões contidas no Capítulo II.
+**Art**. 44. Poderão concorrer à Exposição criadores, industriais e comerciantes das classes que constituem as divisões contidas no Capítulo II.
 
 § 1º Será facultada, aos industriais e comerciantes de artigos relacionados com a pecuária, a montagem de mostruários para exibição de seus produtos, os quais só poderão concorrer a prêmios nos casos previstos no regulamento.
 
@@ -1942,57 +1940,57 @@ CLASSE CXXIX - OUTROS CONCURSOS
 
 § 3º Nenhum mostruário será construído sem que os respectivos croquis sejam prèviamente submetidos à aprovação da Comissão Executiva Central.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA INSCRIÇÃO</em>
+*DA INSCRIÇÃO*
 
-<strong>Art</strong>. 45. Nenhum animal ou produto será admitido à Exposição sem ser prèviamente inscrito pela Comissão Executiva Central.
+**Art**. 45. Nenhum animal ou produto será admitido à Exposição sem ser prèviamente inscrito pela Comissão Executiva Central.
 
 Parágrafo único. Para efeito de inscrição, deverão os interessados procurar formulários no Departamento da Produção Animal, do Estado de São Paulo, nas diversas repartições dêste Departamento e nas sedes das Comissões Regionais.
 
-<strong>Art</strong>. 46. Os pedidos de inscrição e local serão recebidos, até 30 dias antes da inauguração da Exposição, pela Comissão Executiva Central, no Departamento da Produção Animal, à Avenida Água Branca, 455, São Paulo.
+**Art**. 46. Os pedidos de inscrição e local serão recebidos, até 30 dias antes da inauguração da Exposição, pela Comissão Executiva Central, no Departamento da Produção Animal, à Avenida Água Branca, 455, São Paulo.
 
-<strong>Art</strong>. 47. Os formulários deverão ser integralmente preenchidos com letra de clara e legível, sem o que não serão considerados válidos.
+**Art**. 47. Os formulários deverão ser integralmente preenchidos com letra de clara e legível, sem o que não serão considerados válidos.
 
 Parágrafo único. Nêsses formulários, deverão os interessados declarar se os produtos expostos se destinam ou não à venda, a fim de constar do catálogo.
 
-<strong>Art</strong>. 48. Cada expositor só poderá inscrever, no máximo, 20 animais.
+**Art**. 48. Cada expositor só poderá inscrever, no máximo, 20 animais.
 
 Parágrafo único. Excetua-se a representação avícola, cuja cota ficará a critério da Comissão Executiva Central.
 
-<strong>Art</strong>. 49. A Comissão Organizadora providenciará no sentido de evitar a inscrição de animais sem o conveniente preparo ou sem predicados que os recomendem.
+**Art**. 49. A Comissão Organizadora providenciará no sentido de evitar a inscrição de animais sem o conveniente preparo ou sem predicados que os recomendem.
 
-<strong>Art</strong>. 50. A inscrição é inteiramente gratuita e assegura ao expositor o direito de vender os animais expostos, facultando-lhe ainda a distribuição de informações impressas ou dactilografadas a respeito dêsses animais.
+**Art**. 50. A inscrição é inteiramente gratuita e assegura ao expositor o direito de vender os animais expostos, facultando-lhe ainda a distribuição de informações impressas ou dactilografadas a respeito dêsses animais.
 
-<strong>Art</strong>. 51. Nenhum animal das raças Holandesa, Schwys, Normanda, Jersey, Devon, Red-Polled, Hereford, Polled Angus, Shorthorn, Charolesa, Caracu, Indubrasil, Gir, Guzerat, Nelore, Mocha Nacional, Guernsey, Inglêsa de corrida, Árabe, Mangalarga, Crioula, Campolina e Ovinas em geral, poderá ser inscrito nas categorias de puro sangue ou de animais registrados sem apresentação do respectivo certificado de registro, emitido pelas associações de registro genealógico que mantêm contrato com o Ministério da Agricultura ou por entidades oficiais que realizavam êsse serviço antes da instituição daquelas associações ou animais registrados em associações subvencionadas pelo Govêrno do Estado de São Paulo.
+**Art**. 51. Nenhum animal das raças Holandesa, Schwys, Normanda, Jersey, Devon, Red-Polled, Hereford, Polled Angus, Shorthorn, Charolesa, Caracu, Indubrasil, Gir, Guzerat, Nelore, Mocha Nacional, Guernsey, Inglêsa de corrida, Árabe, Mangalarga, Crioula, Campolina e Ovinas em geral, poderá ser inscrito nas categorias de puro sangue ou de animais registrados sem apresentação do respectivo certificado de registro, emitido pelas associações de registro genealógico que mantêm contrato com o Ministério da Agricultura ou por entidades oficiais que realizavam êsse serviço antes da instituição daquelas associações ou animais registrados em associações subvencionadas pelo Govêrno do Estado de São Paulo.
 
 Parágrafo único. O certificado a que se refere o presente artigo poderá ser substituído por uma declaração feita no verso do boletim da inscrição por uma das já previstas.
 
-<strong>Art</strong>. 52. Os direitos mencionados no art. 50 são exclusivos aos demais expositores, que , entretanto, não poderão, em hipótese alguma, desfalcar os mostruários em exibição.
+**Art**. 52. Os direitos mencionados no art. 50 são exclusivos aos demais expositores, que , entretanto, não poderão, em hipótese alguma, desfalcar os mostruários em exibição.
 
-<strong>Art</strong>. 53. A Comissão Executiva Central fará imprimir um catálogo geral da Exposição com tôdas as indicações referentes aos animais.
+**Art**. 53. A Comissão Executiva Central fará imprimir um catálogo geral da Exposição com tôdas as indicações referentes aos animais.
 
 Parágrafo único. O mesmo catálogo conterá a relação total dos expositores e seus produtos, das Comissões e Subcomissões encarregadas dos trabalhos e dos juízes.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DOS TRANSPORTES</em>
+*DOS TRANSPORTES*
 
-<strong>Art</strong>. 54. Os animais e os produtos serão transportados para o certame (ida e volta) por conta do Govêrno Federal.
+**Art**. 54. Os animais e os produtos serão transportados para o certame (ida e volta) por conta do Govêrno Federal.
 
-<strong>Art</strong>. 55. A Comissão Executiva Central provará, por todos os meios a seu alcance, facilidade no transporte, de modo que o mesmo se faça com segurança e rapidez, procurando cercar os animais de tôdas as garantias.
+**Art**. 55. A Comissão Executiva Central provará, por todos os meios a seu alcance, facilidade no transporte, de modo que o mesmo se faça com segurança e rapidez, procurando cercar os animais de tôdas as garantias.
 
-<strong>Art</strong>. 56. Todos os animais e produtos que se destinarem à Exposição deverão ser consignados à Comissão Executiva Central.
+**Art**. 56. Todos os animais e produtos que se destinarem à Exposição deverão ser consignados à Comissão Executiva Central.
 
 Parágrafo único. Para facilidade do serviço, deverá a referida Comissão se prèviamente avisada por telegrama sôbre os embarques efetuados.
 
-<strong>Art</strong>. 57. Os animais destinados à Exposição, deverão ser acompanhados de tratadores em número suficiente e munidos do indispensável material de asseio.
+**Art**. 57. Os animais destinados à Exposição, deverão ser acompanhados de tratadores em número suficiente e munidos do indispensável material de asseio.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DA POLÍCIA SANITÁRIA</em>  <em>E ASSISTÊNCIA VETERINÁRIA</em>
+*DA POLÍCIA SANITÁRIA*  *E ASSISTÊNCIA VETERINÁRIA*
 
-<strong>Art</strong>. 58. Os animais destinados à Exposição serão examinados por veterinários da Comissão Executiva Central ou Comissão Regional, e só embarcarão acompanhados de um certificado sanitário firmado por um veterinário de uma dessas Comissões.
+**Art**. 58. Os animais destinados à Exposição serão examinados por veterinários da Comissão Executiva Central ou Comissão Regional, e só embarcarão acompanhados de um certificado sanitário firmado por um veterinário de uma dessas Comissões.
 
 § 1º Do certificado de aprêço constará o bom estado dos animais bem como a inexistência no lugar de origem, de doença contagiosa nos 30 dias anteriores ao embarque..
 
@@ -2000,27 +1998,27 @@ Parágrafo único. Para facilidade do serviço, deverá a referida Comissão se 
 
 § 3º Tratando-se de animais procedentes do estrangeiro, ficarão sujeitos às exigências do regulamento da Divisão de Defesa Sanitária Animal do D.N.P.A.
 
-<strong>Art</strong>. 59.Os animais serão examinados ao entrarem no recinto da Exposição por um veterinário da Comissão Auxiliar de Veterinária, que autorizará a entrada dos mesmos.
+**Art**. 59.Os animais serão examinados ao entrarem no recinto da Exposição por um veterinário da Comissão Auxiliar de Veterinária, que autorizará a entrada dos mesmos.
 
-<strong>Art</strong>. 60. Os animais atacados ou suspeitos de doenças contagiosas não serão admitidos ao recinto da Exposição, providenciando a Comissão Executiva Central o seu destino conveniente.
+**Art**. 60. Os animais atacados ou suspeitos de doenças contagiosas não serão admitidos ao recinto da Exposição, providenciando a Comissão Executiva Central o seu destino conveniente.
 
-<strong>Art</strong>. 61. Durante o período da Exposição, os animais terão assistência veterinária dirigida e exercida pela Comissão Auxiliar de Veterinária, que porá em prática as medidas aconselháveis.
+**Art**. 61. Durante o período da Exposição, os animais terão assistência veterinária dirigida e exercida pela Comissão Auxiliar de Veterinária, que porá em prática as medidas aconselháveis.
 
 § 1º Nenhum medicamento poderá ser ministrado a qualquer animal sem o consentimento expresso do profissional encarregado do serviço.
 
 § 2º Não se tratando de doença infecto-contagiosa, e com prévia autorização da Comissão Auxiliar de Veterinária, poderão os animais ser tratados por profissional de confiança do proprietário.
 
-<strong>Art</strong>. 62. A Comissão Executiva Central não se responsabiliza pelos danos porventura sofridos pelos animais em conseqüência de acidentes, moléstias ou qual quer outra circunstância, que se verifiquem antes, durante ou depois do certame.
+**Art**. 62. A Comissão Executiva Central não se responsabiliza pelos danos porventura sofridos pelos animais em conseqüência de acidentes, moléstias ou qual quer outra circunstância, que se verifiquem antes, durante ou depois do certame.
 
-<strong>Art</strong>. 63. Fica expressamente proibido o ingresso ao recinto de qualquer animal não inscrito na Exposição.
+**Art**. 63. Fica expressamente proibido o ingresso ao recinto de qualquer animal não inscrito na Exposição.
 
-<strong>Art</strong>. 64. As Comissões Executivas Regionais providenciarão no sentido de ser feita a desinfecção de vagões e boxes, que servirem para o transporte de animais destinados à Exposição.
+**Art**. 64. As Comissões Executivas Regionais providenciarão no sentido de ser feita a desinfecção de vagões e boxes, que servirem para o transporte de animais destinados à Exposição.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DA MANUTENÇÃO E RECEBIMENTO DE ANIMAIS E MOSTRUÁRIOS</em>
+*DA MANUTENÇÃO E RECEBIMENTO DE ANIMAIS E MOSTRUÁRIOS*
 
-<strong>Art</strong>. 65. Os animais destinados à Exposição serão recebidos desde 8 até 4 dias antes da data inaugural.
+**Art**. 65. Os animais destinados à Exposição serão recebidos desde 8 até 4 dias antes da data inaugural.
 
 § 1º Os animais procedentes de pontos distantes poderão, a juízo da comissão Executiva Central, e com prévio consentimento desta, ter êsse prazo antecipado até 15 dias.
 
@@ -2030,13 +2028,13 @@ Parágrafo único. Para facilidade do serviço, deverá a referida Comissão se 
 
 § 4º O recebimento de produtos, máquinas, adubos, forragens, etc., só será feito até 3 dias antes da inauguração oficial.
 
-<strong>Art</strong>. 66. Nenhum animal será admitido ao recinto da Exposição sem que sejão satisfeitas as exigências dêste Regulamento, e sem que tenha um responsável direto perante a Comissão Executiva Central.
+**Art**. 66. Nenhum animal será admitido ao recinto da Exposição sem que sejão satisfeitas as exigências dêste Regulamento, e sem que tenha um responsável direto perante a Comissão Executiva Central.
 
-<strong>Art</strong>. 67. Os animais sem conveniente preparo ou não amansados serão recolhidos a um local apropriado, sendo o seu proprietário cientificado no sentido de providenciar  o seu imediato retorno, por sua conta.
+**Art**. 67. Os animais sem conveniente preparo ou não amansados serão recolhidos a um local apropriado, sendo o seu proprietário cientificado no sentido de providenciar  o seu imediato retorno, por sua conta.
 
-<strong>Art</strong>. 68. Só serão admitidos os animais que se apresentarem munidos de cabresto bucal ou elemento que assegurem a sua perfeita contenção.
+**Art**. 68. Só serão admitidos os animais que se apresentarem munidos de cabresto bucal ou elemento que assegurem a sua perfeita contenção.
 
-<strong>Art</strong>.  69\. Uma vez admitidos à Exposição, serão os animais levados ao local que lhes fôr determinado, de onde não poderão ser mudados.
+**Art**.  69\. Uma vez admitidos à Exposição, serão os animais levados ao local que lhes fôr determinado, de onde não poderão ser mudados.
 
 § 1º Do local que lhes competir, os animais só poderão sair para o desfile ou exercício nas horas próprias que forem determinadas pala Comissão Executiva Central.
 
@@ -2044,15 +2042,15 @@ Parágrafo único. Para facilidade do serviço, deverá a referida Comissão se 
 
 § 3º É vedado ao expositor retirar das gaiolas sem prévia autorização, ou sob qualquer pretexto, qualquer ave exposta.
 
-<strong>Art</strong>. 70. Os ovos colhidos no recinto da Exposição serão de propriedade desta e, finda a mesma, serão doados a uma instituição de caridade, depois de convenientemente inutilizados para incubação.
+**Art**. 70. Os ovos colhidos no recinto da Exposição serão de propriedade desta e, finda a mesma, serão doados a uma instituição de caridade, depois de convenientemente inutilizados para incubação.
 
-<strong>Art</strong>. 71. Desde o instante do recebimento, ficam os animais ou produtos expostos sob a direção da Comissão Executiva Central, não podendo os expositores retirá-los antes do encerramento do certame.
+**Art**. 71. Desde o instante do recebimento, ficam os animais ou produtos expostos sob a direção da Comissão Executiva Central, não podendo os expositores retirá-los antes do encerramento do certame.
 
-<strong>Art</strong>. 72. Os tratadores e empregados dos expositores, os empregados dos botequins e restaurantes, ficam sob a direção da Comissão Executiva Central, a cujos membros deverão todo o respeito, acatando as ordens relativas ao serviço que lhes estiver afeto.
+**Art**. 72. Os tratadores e empregados dos expositores, os empregados dos botequins e restaurantes, ficam sob a direção da Comissão Executiva Central, a cujos membros deverão todo o respeito, acatando as ordens relativas ao serviço que lhes estiver afeto.
 
 Parágrafo único. Os tratadores obrigam-se a estar devidamente trajados nas horas de freqüência da Exposição, a zelar pela perfeita manutenção dos animais, a conduzi-los aos desfiles e exibições solicitadas.
 
-<strong>Art</strong>. 73. A alimentação dos animais ficará a cargo da Comissão Executiva Central durante o período da Exposição.
+**Art**. 73. A alimentação dos animais ficará a cargo da Comissão Executiva Central durante o período da Exposição.
 
 § 1º Em horas certas, determinadas pela Comissão Executiva Central, deverão os tratadores apresentar-se ao almoxarifado a fim de receber a ração destinada aos animais sob sua guarda.
 
@@ -2060,85 +2058,85 @@ Parágrafo único. Os tratadores obrigam-se a estar devidamente trajados nas hor
 
 § 3º As rações serão determinadas e calculadas pela Comissão Executiva Central.
 
-<strong>Art</strong>. 74. O tratamento dos animais, que chegarem ao recinto antes do prazo indicado, correrá por conta e responsabilidade do expositor.
+**Art**. 74. O tratamento dos animais, que chegarem ao recinto antes do prazo indicado, correrá por conta e responsabilidade do expositor.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DO JULGAMENTO</em>
+*DO JULGAMENTO*
 
-<strong>Art</strong>. 75. Todos os animais e produtos expostos em conformidade com a classificação constante no Capítulo II do presente regulamento, serão classificados por juízes prèviamente designados pela Comissão Executiva Central.
+**Art**. 75. Todos os animais e produtos expostos em conformidade com a classificação constante no Capítulo II do presente regulamento, serão classificados por juízes prèviamente designados pela Comissão Executiva Central.
 
 Parágrafo único. Em tôdas as categorias de animais, produtos, material avícola, inclusive livros nacionais sôbre apicultura, forragens e nos concursos previstos neste regulamento serão conferidos primeiro, segundo e terceiro prêmios.
 
-<strong>Art</strong>. 76. O julgamento poderá ser feito por um ou mais juízes, de preferência técnicos.
+**Art**. 76. O julgamento poderá ser feito por um ou mais juízes, de preferência técnicos.
 
-<strong>Art</strong>. 77. O veredicto dos juízes é inapelável.
+**Art**. 77. O veredicto dos juízes é inapelável.
 
-<strong>Art</strong>. 78. Os julgamentos serão públicos, exceto para as aves, devendo os assistentes manterem-se afastados do local em que se realizarem, a fim de não perturbarem os trabalhos dos juízes.
+**Art**. 78. Os julgamentos serão públicos, exceto para as aves, devendo os assistentes manterem-se afastados do local em que se realizarem, a fim de não perturbarem os trabalhos dos juízes.
 
 Parágrafo único. Será permitido que os juízes dêm pùblicamente as razões de seu julgamento.
 
-<strong>Art</strong>. 79. A aves serão julgadas pelo processo comparativo, obedecendo ao “standard” americano de perfeição, exceto as brasileiras e outras não mencionadas no mesmo que serão julgadas de acôrdo com o critério estabelecido pela Sociedade Brasileira de Avicultura, observando-se, entretanto, todos os itens relativos às desclassificações parciais e gerais.
+**Art**. 79. A aves serão julgadas pelo processo comparativo, obedecendo ao “standard” americano de perfeição, exceto as brasileiras e outras não mencionadas no mesmo que serão julgadas de acôrdo com o critério estabelecido pela Sociedade Brasileira de Avicultura, observando-se, entretanto, todos os itens relativos às desclassificações parciais e gerais.
 
-<strong>Art</strong>. 80. Não é obrigatória a apresentação de certificado genealógico para as aves de tôdas as categorias.
+**Art**. 80. Não é obrigatória a apresentação de certificado genealógico para as aves de tôdas as categorias.
 
-<strong>Art</strong>. 81. Os trabalhos de julgamento terão início 3 dias antes da inauguração oficial da Exposição.
+**Art**. 81. Os trabalhos de julgamento terão início 3 dias antes da inauguração oficial da Exposição.
 
 Parágrafo único. Para isso, deverão os juízes designados pela Comissão Executiva Central apresentar-se à mesma 4 dias antes da Data inaugural do certame.
 
-<strong>Art</strong>. 82. O desacato a qualquer membro das comissões julgadoras por um dos expositores ou seus prepostos implicará a retirada imediata de seus animais e a proibição de concorrer a qualquer Exposição Nacional de Animais pelo prazo de 3 anos.
+**Art**. 82. O desacato a qualquer membro das comissões julgadoras por um dos expositores ou seus prepostos implicará a retirada imediata de seus animais e a proibição de concorrer a qualquer Exposição Nacional de Animais pelo prazo de 3 anos.
 
-<strong>Art</strong>. 83. O resultado do julgamento será afixado junto ao animal ou produto premiado.
+**Art**. 83. O resultado do julgamento será afixado junto ao animal ou produto premiado.
 
-<strong>Art</strong>. 84. Sempre que um animal premiado fôr conduzido a desfile, deverá levar, em lugar visível, o distintivo do prêmio que lhe foi conferido.
+**Art**. 84. Sempre que um animal premiado fôr conduzido a desfile, deverá levar, em lugar visível, o distintivo do prêmio que lhe foi conferido.
 
-<strong>Art</strong>. 85. Os animais procedentes do estrangeiro e os de propriedade dos Governos Federal, Estadual ou Municipal não concorrerão aos julgamentos.
+**Art**. 85. Os animais procedentes do estrangeiro e os de propriedade dos Governos Federal, Estadual ou Municipal não concorrerão aos julgamentos.
 
-<strong>Art</strong>. 86. O julgamento dos animais será feito pelo processo comparativo.
+**Art**. 86. O julgamento dos animais será feito pelo processo comparativo.
 
-<strong>Art</strong>. 87. Ficam fora do concurso todos os produtos nascidos ou criados nos estabelecimentos oficiais, e que forem adquiridos por particulares.
+**Art**. 87. Ficam fora do concurso todos os produtos nascidos ou criados nos estabelecimentos oficiais, e que forem adquiridos por particulares.
 
-<strong>Art</strong>. 88. Ficam fora do concurso as fêmeas em gestação muito adiantada, quando a conformação do animal estiver visivelmente prejudicada a ponto de dificultar o julgamento.
+**Art**. 88. Ficam fora do concurso as fêmeas em gestação muito adiantada, quando a conformação do animal estiver visivelmente prejudicada a ponto de dificultar o julgamento.
 
-<strong>Art</strong>. 89. As comissões julgadoras tomarão em consideração, tanto quanto possível, as indicações dos boletins de inscrição, porém, se tiverem dúvidas sôbre a exatidão das mesmas em relação a qualquer animal ou objeto exposto, poderão deixar de julgar, submetendo a questão à apreciação da Comissão Executiva Central, que resolverá a dúvida.
+**Art**. 89. As comissões julgadoras tomarão em consideração, tanto quanto possível, as indicações dos boletins de inscrição, porém, se tiverem dúvidas sôbre a exatidão das mesmas em relação a qualquer animal ou objeto exposto, poderão deixar de julgar, submetendo a questão à apreciação da Comissão Executiva Central, que resolverá a dúvida.
 
-<strong>Art</strong>. 90. Não serão conferidos prêmios aos animais que já tenham sido premiados em Exposições Nacionais anteriores, excetuando-se os inscritos em categorias superiores.
+**Art**. 90. Não serão conferidos prêmios aos animais que já tenham sido premiados em Exposições Nacionais anteriores, excetuando-se os inscritos em categorias superiores.
 
-<strong>Art</strong>. 91. Não serão conferidos prêmios aos expositores de material avícola, ficando a sua concorrência limitada a demonstração.
+**Art**. 91. Não serão conferidos prêmios aos expositores de material avícola, ficando a sua concorrência limitada a demonstração.
 
-<strong>Art</strong>. 93. Os expositores  e seus empregados não poderão ser juízes nas seções em que figurarem quaisquer produtos de sua propriedade ou criação.
+**Art**. 93. Os expositores  e seus empregados não poderão ser juízes nas seções em que figurarem quaisquer produtos de sua propriedade ou criação.
 
-<strong>Art</strong>. 94. Os trabalhos do julgamento encerrar-se-ão com tempo para serem os resultados conhecidos no dia da inauguração.
+**Art**. 94. Os trabalhos do julgamento encerrar-se-ão com tempo para serem os resultados conhecidos no dia da inauguração.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DOS PRÊMIOS</em>
+*DOS PRÊMIOS*
 
-<strong>Art</strong>. 95. A Comissão Executiva Central conferirá os prêmios constantes dêste regulamento, de acôrdo com a classificação das comissões de julgamento.
+**Art**. 95. A Comissão Executiva Central conferirá os prêmios constantes dêste regulamento, de acôrdo com a classificação das comissões de julgamento.
 
-<strong>Art</strong>. 96. Os prêmios mencionados neste regulamento  consistirão de diplomas de campeão, reservado ao campeão, 1º, 2º e 3º prêmios, além de outros em dinheiro (reprodutores) ou objetos artísticos.
+**Art**. 96. Os prêmios mencionados neste regulamento  consistirão de diplomas de campeão, reservado ao campeão, 1º, 2º e 3º prêmios, além de outros em dinheiro (reprodutores) ou objetos artísticos.
 
-<strong>Art</strong>. 97. Em cada raça haverá um campeão e um reservado campeão, a cujos prêmios concorrerão todos os primeiros prêmios de tôdas as categorias, podendo o segundo prêmio da categoria de campeão concorrer ao prêmio de reservado campeão.
+**Art**. 97. Em cada raça haverá um campeão e um reservado campeão, a cujos prêmios concorrerão todos os primeiros prêmios de tôdas as categorias, podendo o segundo prêmio da categoria de campeão concorrer ao prêmio de reservado campeão.
 
 Parágrafo único. Só poderão concorrer aos títulos de campeão e reservado campeão, das raças que possuem registro, os animais registrados.
 
-<strong>Art</strong>. 98. Não serão conferidos prêmios de campeão aos bovinos de idade inferior a 15 meses, idem aos eqüinos e zebuínos de idade inferior a 30 meses.
+**Art**. 98. Não serão conferidos prêmios de campeão aos bovinos de idade inferior a 15 meses, idem aos eqüinos e zebuínos de idade inferior a 30 meses.
 
-<strong>Art</strong>. 99. Nas classes intituladas “Outras raças” não haverá campeões ou reservados campeões, atribuindo-se sòmente 1º, 2º e 3º prêmios e menções honrosas.
+**Art**. 99. Nas classes intituladas “Outras raças” não haverá campeões ou reservados campeões, atribuindo-se sòmente 1º, 2º e 3º prêmios e menções honrosas.
 
-<strong>Art</strong>. 100. Os juízes poderão deixar de adjudicar um ou mais prêmios em cada categoria, inclusive o de campeão da raça, desde que não encontrem animais ou produtos dignos de merecê-los.
+**Art**. 100. Os juízes poderão deixar de adjudicar um ou mais prêmios em cada categoria, inclusive o de campeão da raça, desde que não encontrem animais ou produtos dignos de merecê-los.
 
-<strong>Art</strong>. 101. Os juízes poderão atribuir as menções honrosas aos animais ou produtos das diferentes categorias, cuja apresentação ou qualquer particularidade os distinga favoravelmente dentre os demais de sua categoria que não tenham sido premiados.
+**Art**. 101. Os juízes poderão atribuir as menções honrosas aos animais ou produtos das diferentes categorias, cuja apresentação ou qualquer particularidade os distinga favoravelmente dentre os demais de sua categoria que não tenham sido premiados.
 
-<strong>Art</strong>. 102. A Comissão Executiva Central aceitará qualquer objeto artístico ou importância em dinheiros que os governos, sociedades, institutos ou particulares, queiram conferir a uma determinada classe  ou categoria na XV Exposição Nacional de Animais e Produtos Derivados.
+**Art**. 102. A Comissão Executiva Central aceitará qualquer objeto artístico ou importância em dinheiros que os governos, sociedades, institutos ou particulares, queiram conferir a uma determinada classe  ou categoria na XV Exposição Nacional de Animais e Produtos Derivados.
 
-<strong>Art</strong>. 103. Serão conferidos prêmios aos conjuntos que constem no mínimo de 4 indivíduos, exceto de que serão aceitos ternos.
+**Art**. 103. Serão conferidos prêmios aos conjuntos que constem no mínimo de 4 indivíduos, exceto de que serão aceitos ternos.
 
 § 1º O máximo para lotes de bovinos e eqüinos será de 6 unidades, e, para aves, de 5.
 
 § 2º Os lotes poderão ser constituídos de machos e fêmeas conjuntamente ou de animais do mesmo sexo.
 
-<strong>Art</strong>. 104. Além dos prêmios referidos nos artigos anteriores, a comissão Executiva Central conferirá os seguintes:
+**Art**. 104. Além dos prêmios referidos nos artigos anteriores, a comissão Executiva Central conferirá os seguintes:
 
 Prêmios em dinheiro instituídos pelo Govêrno Federal
 

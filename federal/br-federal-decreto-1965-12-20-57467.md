@@ -1,5 +1,3 @@
-###DEC-057467-0-000-20-12-1965@@@
-
 DECRETO Nº 57.467, de 20 de dezembro de 1965.
 
 Concede à Royal Insurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

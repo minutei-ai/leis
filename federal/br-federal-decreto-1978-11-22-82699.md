@@ -1,5 +1,3 @@
-###DEC-082699-0-000-22-11-1978@@@
-
 DECRETO Nº 82 699, DE 22 de NOVEMBRO DE 1978
 
 Autoriza a cessão, sob regime de aforamento, do terreno que menciona, situado no Município de Natal, Estado do Rio Grande do Norte.

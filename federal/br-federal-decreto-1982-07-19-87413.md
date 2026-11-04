@@ -1,5 +1,3 @@
-###DEC-087413-0-000-19-07-1982@@@
-
 DECRETO Nº 87.413, DE 19 DE JULHO DE 1982.
 
 Concede à DATAMEC S.A. - Sistemas e Processamento de Dados autorização para proceder a aumento do seu capital social.

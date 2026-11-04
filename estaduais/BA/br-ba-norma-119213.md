@@ -22,10 +22,12 @@ VI - disposições sobre alterações na legislação tributária do Estado e me
 
 Parágrafo Único - A Lei Orçamentária anual para o exercício 1994 deverá ser compatibilizada com as diretrizes, prioridades e metas estabelecidas para os diversos setores constantes do Plano Plurianual aprovado pela [Lei nº 6.349, de 17 de dezembro de 1991](https://www.legislabahia.ba.gov.br/documentos/lei-no-6349-de-17-de-dezembro-de-1991#LO_6_349) .
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DIRETRIZES PARA OS ORÇAMENTOS DO ESTADO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS DIRETRIZES GERAIS
 
 Art. 2º - No Projeto de Lei Orçamentária, as receitas e despesas serão orçadas segundo os preços vigentes em junho de 1993.
@@ -68,10 +70,12 @@ Art. 6º - As receitas próprias de autarquias e fundações instituídas e mant
 
 Parágrafo Único - O Poder Executivo estabelecerá mecanismos de controle do disposto neste artigo.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS DIRETRIZES DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
 
-Subseção I -<br>
+Subseção I -
+
 Das Diretrizes Comuns
 
 Art. 7º - Os recursos ordinários do Tesouro Estadual somente poderão ser programados para atender a gastos com despesas de capital, após atendidas as despesas com pessoal e encargos sociais, serviço da dívida e custeio administrativo e operacional.
@@ -100,7 +104,8 @@ Art. 12 - Os orçamentos fiscal e de seguridade social conterão dotações glob
 
 Parágrafo Único - As Reservas de Contingência serão constituídas em montantes correspondentes a 1,5% (um e meio por cento) dos valores globais dos respectivos orçamentos.
 
-Subseção II -<br>
+Subseção II -
+
 Das Diretrizes Específicas do Orçamento Fiscal
 
 Art. 13 - O orçamento fiscal abrangerá todas as receitas dos Poderes do Estado, seus fundos, órgãos da administração direta, autarquias e fundações instituídas e mantidas pelo Poder Público.
@@ -127,7 +132,8 @@ I - transferências de recursos do orçamento fiscal, inclusive as originárias 
 
 II - receitas próprias dos órgãos, fundos e entidades que integram exclusivamente o orçamento da seguridade social.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DAS DIRETRIZES DO ORÇAMENTO DE INVESTIMENTOS DAS EMPRESAS
 
 Art. 17 - O orçamento de investimentos, previsto no [artigo 159, §5º, inciso II, da Constituição Estadual](https://www.legislabahia.ba.gov.br/documentos/lei-no-6470-de-16-de-junho-de-1993#Const_Est_Art__159_P_5_II) , será apresentado para cada empresa pública e sociedade de economia mista em que o Estado detenha, direta ou indiretamente, a maioria do capital social com direito a voto.
@@ -146,7 +152,8 @@ c - elevação dos padrões de desenvolvimento.
 
 Art. 19 - Os investimentos à conta de recursos oriundos dos orçamentos fiscal e da seguridade social, inclusive mediante participação acionária, serão programados de acordo com as dotações previstas nos respectivos orçamentos.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ORGANIZAÇÃO E ESTRUTURA DO ORÇAMENTO
 
 Art. 20 - A estrutura e a organização da Lei Orçamentária obedecerão à legislação pertinente em vigor e ao excepcionalmente disposto nesta Lei.
@@ -259,7 +266,8 @@ II - cópia das classificações orçamentárias da receita e da despesa, utiliz
 
 III - cópia do Quadro de Detalhamento de Despesa - QDD.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL
 
 Art. 30 - A concessão de vantagens e o aumento de vencimentos dos servidores e empregados públicos serão admitidos nos limites das dotações previstas na Lei Orçamentária para os gastos com "Pessoal e Encargos Sociais", atualizadas, ao longo do exercício financeiro de 1993, na forma do disposto no [art. 2º desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-6470-de-16-de-junho-de-1993#LO_6_470_Art__2) .
@@ -286,7 +294,8 @@ Art. 32 - As dotações para atendimento das despesas com a admissão de pessoal
 
 Art. 33 - A política de remuneração de pessoal terá em vista o disposto no art. 37, inciso XI, da Constituição Federal, combinado com o art. 38º, do Ato das Disposições Constitucionais Transitórias, da mesma Constituição.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA POLÍTICA DE APLICAÇÃO DAS AGÊNCIAS FINANCEIRAS OFICIAIS DE FOMENTO
 
 Art. 34 - As agências financeiras estaduais, na concessão de financiamento, observarão as seguintes políticas:
@@ -307,7 +316,8 @@ VI - fomento a agroindústrias, agricultura irrigada, produção de insumos agr�
 
 § 2º - A concessão de empréstimos ou financiamentos pelas agências oficiais a Municípios, inclusive às suas entidades de administração direta, fundações, empresas e sociedades controladas, sem prejuízo das demais normas regulamentares, fica condicionada à comprovação a que se refere o [art. 11, desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-6470-de-16-de-junho-de-1993#LO_6_470_Art__11) , e ao atendimento das normas do Banco Central.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA E INCREMENTO DA RECEITA
 
 Art. 35 - O Poder Executivo encaminhará à Assembléia Legislativa, até 30 de setembro do exercício em curso, projetos de Lei dispondo sobre alterações na legislação tributária estadual e incremento da receita, incluindo:
@@ -324,7 +334,8 @@ IV - geração de receita própria pelas entidades da administração indireta, 
 
 § 2º - A Assembléia Legislativa apreciará as matérias que lhe sejam encaminhadas nos termos deste artigo, até o encerramento da sessão legislativa.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 36 - Caso o projeto de Lei Orçamentária não seja aprovado e sancionado até 31 de dezembro de 1993, a programação constante da proposta orçamentária para 1994 poderá ser executada na forma originalmente encaminhada ao Poder Legislativo, atualizada, segundo critérios nele definidos, nos termos do [art. 2º, desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-6470-de-16-de-junho-de-1993#LO_6_470_Art__2) , até a edição da respectiva Lei Orçamentária.

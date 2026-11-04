@@ -1,5 +1,3 @@
-###DEC-082200-0-000-30-08-1978@@@
-
 DecretO nº 82.200, de 30 de agosto de 1978
 
 Dispõe sobre o capital da Caixa Econômica Federal - CEF.

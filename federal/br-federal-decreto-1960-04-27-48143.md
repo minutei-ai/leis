@@ -1,5 +1,3 @@
-###DEC-048143-0-000-27-04-1960@@@
-
 DECRETO Nº 48.143, DE 27 DE ABRIL DE 1960.
 
 Dispõe sôbre horário de funcionamento das repartições públicas federais centralizadas e descentralizadas, em Brasília.

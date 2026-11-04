@@ -1,5 +1,3 @@
-###DEL-005314-0-000-11-03-1943@@@
-
 DECRETO‑LEI N. 5.314 – DE 11 DE MARÇO DE 1943
 
 Regula o ingresso nos quadros de farmacêuticos e dentistas da reserva do Exército dos profissionais civís que concluiram ou vierem a concluir os respectivos cursos de emergência e dá outras providências

@@ -1,7 +1,3 @@
-1
-
-###MPV-000795-0-000-29-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 795, DE 29 DE DEZEMBRO DE 1994
 
 Dispõe sobre suspensão, em caráter excepcional e durante o ano de 1995, da prestação do serviço militar para fins de permitir o exercício temporário de atividade policial militar.

@@ -1,5 +1,3 @@
-###DEC-061181-0-000-21-08-1967@@@
-
 DECRETO Nº 61.181, DE 21 DE AGÔSTO DE 1967.
 
 Cria Grupo de Trabalho incumbido de realizar estudos preliminares para a realização, em 1972, de uma exposição mundial, comemorativa do sesquicentenário da Independência do Brasil.

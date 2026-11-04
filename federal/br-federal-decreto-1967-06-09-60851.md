@@ -1,5 +1,3 @@
-###DEC-060851-0-000-09-06-1967@@@
-
 DECRETO Nº 60.851, DE 9 DE JUNHO DE 1967.
 
 Veda às emprêsas de navegação sob contrôle do Govêrno efetuarem reparos de suas embarcações no estrangeiro, sem prévia autorização da Comissão de Marinha Mercante e dá outras providências.

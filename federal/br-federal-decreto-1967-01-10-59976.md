@@ -1,5 +1,3 @@
-###DEC-059976-0-000-10-01-1967@@@
-
 DECRETO Nº 59.976, DE 10 DE JANEIRO DE 1967.
 
 Autoriza Porcelana Real S.A. a lavrar caolim, no município de São Paulo, Estado de São Paulo.

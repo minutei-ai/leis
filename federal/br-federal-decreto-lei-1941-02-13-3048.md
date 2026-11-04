@@ -1,5 +1,3 @@
-###DEL-003048-0-000-13-02-1941@@@
-
 DECRETO-LEI N. 3.048 – DE 13 DE FEVEREIRO DE 1941
 
 Amplia o limite de apólices do reajustamento econômico, para atender a compromissos assumidos para com a lavoura nacional, e dá outras providências

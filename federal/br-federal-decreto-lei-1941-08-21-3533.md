@@ -1,5 +1,3 @@
-###DEL-003533-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.533 – DE 21 DE AGOSTO DE 1941
 
 Concede à Companhia Siderúrgica Nacional isenção de imposto e taxas pertencentes ao Distrito Federal.

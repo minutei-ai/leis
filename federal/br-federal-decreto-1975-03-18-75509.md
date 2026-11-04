@@ -1,5 +1,3 @@
-###DEC-075509-0-000-18-03-1975@@@
-
 DECRETO Nº 75.509, DE 18 DE MARÇO DE 1975.
 
 Concede autorização às empresas Sea Drilling International Ltd. e Sea Drill do Brasil Ltda. para executarem trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A - PETROBRÁS.

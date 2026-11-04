@@ -1,5 +1,3 @@
-###DEC-053274-0-000-13-12-1963@@@
-
 Decreto nº 53.274, de 13 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Jair Rodrigues Pereira a pesquisar hidrargilita, no município de Santa Maria de Itabira, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-061231-0-000-23-08-1967@@@
-
 DECRETO Nº 61.231, DE 23 DE AGÔSTO DE 1967.
 
 Declara caduco o decreto nº 41.311, de 10 de abril de 1957.

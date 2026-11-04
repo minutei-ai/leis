@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74220)
-
 # LEI Nº 12.714, DE 05 DE OUTUBRO DE 2007
 
 ## (Projeto de lei nº 85/2006, do Deputado João Caramez - PSDB)

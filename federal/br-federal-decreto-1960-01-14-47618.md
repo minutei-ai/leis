@@ -1,5 +1,3 @@
-###DEC-047618-0-000-14-01-1960@@@
-
 decreto nº 47.168, de 14 de janeiro de 1960.
 
 Regula a nomeação e transferência de professôres catedráticos do ensino superior oficial ou livre e do ensino secundário oficial e estabelece normas s6obre publicação de editais de concurso.

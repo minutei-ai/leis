@@ -1,5 +1,3 @@
-###DEC-091091-0-000-12-03-1985@@@
-
 DECRETO Nº 91.091, DE 12 DE MARÇO DE 1985
 
 Autoriza o Banco Central do Brasil a realizar a contratação de empréstimo, no valor de US$ 25,000,000.00, em favor da República do Peru.

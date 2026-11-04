@@ -1,5 +1,3 @@
-###DEC-066302-0-000-04-03-1970@@@
-
 DECRETO Nº 66.302 - DE 4 DE MARÇO DE 1970
 
 Declara de utilidade pública a Fundação Diocesana "O Pão dos Pobres de Santo Antônio", com sede em Pôrto Alegre, Estado do Rio de Grande do Sul.

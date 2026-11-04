@@ -1,5 +1,3 @@
-###DEC-066244-0-000-20-02-1970@@@
-
 DECRETO Nº 66.244 - de 20 de fevereiro de 1970
 
 Declara de utilidade pública o Instituto São José de Educação e Instrução, com sede em Campinas, Estado de São Paulo.

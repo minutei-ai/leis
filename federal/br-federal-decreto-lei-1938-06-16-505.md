@@ -1,5 +1,3 @@
-###DEL-000505-0-000-16-06-1938@@@
-
 DECRETO-LEI N. 505 – DE 16 DE JUNHO DE 1938
 
 Torna extensivo aos empregados em usinas de açucar e fábricas de álcool e aguardente o amparo da legislação trabalhista de que gozam os demais operários na indústria

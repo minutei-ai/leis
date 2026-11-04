@@ -1,5 +1,3 @@
-###DEL-001145-0-000-31-12-1970@@@
-
 # Decreto-lei Nº 1.145, DE 31 De DEZEmbro DE 1970
 
 Prorroga o disposto no “caput” do artigo 28 da Lei nº 4.862, de 29 de novembro de 1965, e dá outras providências.

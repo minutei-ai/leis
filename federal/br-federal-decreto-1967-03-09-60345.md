@@ -1,5 +1,3 @@
-###DEC-060345-0-000-09-03-1967@@@
-
 DECRETO Nº 60.345, DE 9 DE MARÇO DE 1967.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de NCr$21.000.000,00, para o fim que especifica.

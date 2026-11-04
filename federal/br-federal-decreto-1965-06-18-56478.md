@@ -1,5 +1,3 @@
-###DEC-056478-0-000-18-06-1965@@@
-
 DECRETO Nº 56.478, DE 18 DE JUNHO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Marítimos e Terrestres Pelotense, inclusive aumento do capital social.

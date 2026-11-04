@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213020)<br>
-
 # DECRETO N° 70.916, DE 02 DE OUTUBRO DE 2026
 
 ### _Estabelece a gratuidade dos serviços de transporte coletivo de passageiros do Estado de São Paulo, nos dias 4 e 25 de outubro de 2026, nas condições que especifica._

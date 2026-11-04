@@ -1,5 +1,3 @@
-###DEC-081972-0-000-17-07-1978@@@
-
 DECRETO Nº 81.972, DE 17 DE JULHO DE 1978.
 
 Altera a redação do artigo 4º do Decreto nº 75.985, de 17 de julho de 1975; que dispõe sobre a estrutura básica da Central de Medicamentos.

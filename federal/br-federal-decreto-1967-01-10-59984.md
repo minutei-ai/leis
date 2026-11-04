@@ -1,5 +1,3 @@
-###DEC-059984-0-000-10-01-1967@@@
-
 DECRETO Nº 59.984, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Eurípedes Silva a pesquisar água mineral no município de Itamonte, Estado de Minas Gerais.

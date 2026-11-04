@@ -1,5 +1,3 @@
-###DEL-006129-0-000-21-12-1943@@@
-
 DECRETO‑LEI N. 6.129 – DE 21 DE DEZEMBRO DE 1943
 
 Permite a exportação, para as repúblicas do Prata, do carvão extraído das minas do Estado de Santa Catarina

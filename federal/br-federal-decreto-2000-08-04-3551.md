@@ -1,5 +1,3 @@
-###DEC-003551-0-000-04-08-2000@@@
-
 DECRETO Nº 3.551, DE 4 DE AGOSTO DE 2000.
 
 Institui o Registro de Bens Culturais de Natureza Imaterial que constituem patrimônio cultural brasileiro, cria o Programa Nacional do Patrimônio Imaterial e dá outras providências.

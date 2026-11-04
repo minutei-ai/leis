@@ -1,5 +1,3 @@
-###DEC-091915-0-000-13-11-1985@@@
-
 decreto nº 91.915, de 13 de novembro de 1985.
 
 Autoriza o aumento do Capital Social da Centrais de Abastecimento do Espírito Santo S/A - CEASA/ES.

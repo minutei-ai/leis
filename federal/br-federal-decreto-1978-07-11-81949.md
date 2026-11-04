@@ -1,5 +1,3 @@
-###DEC-081949-0-000-11-07-1978@@@
-
 Decreto nº 81.949, de 11 de julho de 1978.
 
 Concede a MARBRASA - Mármore do Brasil S.A. o direito de lavrar mármore no Município de Cachoeira do Itapemirim, Estado do Espírito Santo.

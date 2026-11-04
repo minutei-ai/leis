@@ -1,7 +1,3 @@
-1
-
-###DEC-000869-0-000-13-07-1993@@@ 
-
 DECRETO N° 869, DE 13 DE JULHO DE 1993
 
 Delega competência ao Advogado‑Geral da União para a prática dos atos que menciona .

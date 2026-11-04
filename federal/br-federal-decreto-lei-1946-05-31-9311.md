@@ -1,5 +1,3 @@
-###DEL-009311-0-000-31-05-1946@@@
-
 DECRETO-LEI N. 9.311 – DE 31 DE MAIO DE 1946
 
 Altera a discriminação das zonas de registro de imóveis constante do artigo 232 do Decreto-lei nº 8.527, de 31 de Dezembro de 1945.

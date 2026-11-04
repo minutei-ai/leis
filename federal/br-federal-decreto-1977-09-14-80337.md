@@ -1,5 +1,3 @@
-###DEC-080337-0-000-14-09-1977@@@
-
 DECRETO Nº 80.337, DE 14 DE SETEMBRO DE 1977.
 
 Altera o Decreto nº 79.303, de 24 de fevereiro de 1977.

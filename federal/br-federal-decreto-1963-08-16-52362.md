@@ -1,5 +1,3 @@
-###DEC-052362-0-000-16-08-1963@@@
-
 DECRETO Nº 52.362, DE 16 DE AGôSTO DE 1963.
 
 Altera a lotação numérica do Quadro de Pessoal - Parte Permanente do Ministério da Justiça e Negócios Interiores.

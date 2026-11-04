@@ -1,5 +1,3 @@
-###DEC-073545-0-000-23-01-1974@@@
-
 DECRETO Nº 73.545, DE 23 DE JANEIRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão, no Estado de São Paulo.

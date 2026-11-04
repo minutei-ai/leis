@@ -1,5 +1,3 @@
-###DEC-056166-0-000-28-04-1965@@@
-
 DECRETO Nº 56.166, DE 28 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Baptista Keutenedjian a lavrar minério de ouro, no Município de Currais Novos, Estado do Rio Grande do Norte.

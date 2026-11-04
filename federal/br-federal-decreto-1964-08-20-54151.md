@@ -1,5 +1,3 @@
-###DEC-054151-0-000-20-08-1964@@@
-
 DECRETO Nº 54.151, DE 20 DE AGôSTO DE 1964.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir linha de transmissão.

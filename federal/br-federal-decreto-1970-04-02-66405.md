@@ -1,5 +1,3 @@
-###DEC-066405-0-000-02-04-1970@@@
-
 DECRETO Nº 66.405, DE 2 DE ABRIL DE 1970.
 
 Concede autorização à Federação dos Trabalhadores nas Industriais Metalúrgicas, Mecânicas e de Material Elétrico do Estado de Santa Catarina para filiar-se à Federação Internacional de Trabalhadores nas Indústrias Metalúrgicas (FITIM).

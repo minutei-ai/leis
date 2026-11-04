@@ -1,5 +1,3 @@
-###DEC-050455-0-000-14-04-1961@@@
-
 Decreto Nº 50.455, DE 14 DE ABRIL DE 1961.
 
 Cria o Parque Nacional de Xingu.

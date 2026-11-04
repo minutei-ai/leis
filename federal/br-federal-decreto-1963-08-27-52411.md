@@ -1,5 +1,3 @@
-###DEC-052411-0-000-27-08-1963@@@
-
 decreto nº 52.411, de 27 de agôsto de 1963.
 
 Concede a Ceará Minérios S.A. “CEMISA”, a autorização para funcionar como emprêsa de mineração.

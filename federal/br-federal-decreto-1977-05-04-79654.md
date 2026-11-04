@@ -1,5 +1,3 @@
-###DEC-079654-0-000-04-05-1977@@@
-
 DECRETO Nº 79.654, DE 4 DE MAIO DE 1977.
 
 Concede reconhecimento ao Curso de Letras, da Faculdade de Formação de Professores de Alagoinhas, com sede na cidade de Alagoinhas, Estado da Bahia.

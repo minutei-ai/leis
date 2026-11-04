@@ -1,5 +1,3 @@
-###DEC-061059-0-000-26-07-1967@@@
-
 DECRETO nº 61.059, de 26 de julho de 1967.
 
 Retifica o art. 1º do Decreto número 57.083, de 15 de outubro de 1965.

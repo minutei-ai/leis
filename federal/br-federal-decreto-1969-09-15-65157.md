@@ -1,5 +1,3 @@
-###DEC-065157-0-000-15-09-1969@@@
-
 DECRETO Nº 65.157 - DE 15 DE SETEMBRO DE 1969.
 
 Confisca e incorpora ao Patrimônio da União bens pertencentes a Osmar Dutra.

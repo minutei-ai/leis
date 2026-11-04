@@ -1,5 +1,3 @@
-###DEC-075860-0-000-11-06-1975@@@
-
 DECRETO Nº 75.860, DE 11 DE JUNHO DE 1975.
 
 Fixa o fator de reajustamento salarial relativo a junho de 1975.

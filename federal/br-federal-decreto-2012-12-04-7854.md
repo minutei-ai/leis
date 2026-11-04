@@ -1,5 +1,3 @@
-###DEC-007854-0-000-04-12-2012-PUB-01@@@
-
 DECRETO Nº  7.854, DE 4 DE DEZEMBRO DE 2012
 
 Dispõe sobre a depreciação acelerada de que trata a Medida Provisória nº 582, de 20 de setembro de 2012.

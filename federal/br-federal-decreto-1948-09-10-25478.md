@@ -1,14 +1,12 @@
-###DEC-025478-0-000-10-09-1948@@@
+**DECRETO Nº 25.478, DE 10 DE SETEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.478, DE 10 DE SETEMBRO DE 1948.</strong>
+***Declara de utilidade pública diversas áreas de terra necessárias à ampliação das instalações da usina de Americana, no rio Atibaia, município de Americana, Estado de São Paulo, e autoriza a Companhia Paulista de Fôrça e Luz a promover a desapropriação.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra necessárias à ampliação das instalações da usina de Americana, no rio Atibaia, município de Americana, Estado de São Paulo, e autoriza a Companhia Paulista de Fôrça e Luz a promover a desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o que requereu a emprêsa interessada, assim como o disposto no art. 151, alíneas a e b do Código de Águas, e nos artigos 3º, 5º, alínea h, e 15, do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelo de nº 4.152, de 6 de março de 1942,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o que requereu a emprêsa interessada, assim como o disposto no art. 151, alíneas a e b do Código de Águas, e nos artigos 3º, 5º, alínea h, e 15, do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelo de nº 4.152, de 6 de março de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declaradas de utilidade públicas as seguintes áreas de terra necessárias à ampliação das instalações da usina de Americana, no rio Atibaia, município de Americana, Estado de São Paulo, autorizada pelo Decreto nº 19.606, de 13 de setembro de 1945, em favor da Companhia Paulista de Fôrça e Luz pelo Decreto nº 24.145, de 1º de dezembro de 1947:
+**Art**. 1º São declaradas de utilidade públicas as seguintes áreas de terra necessárias à ampliação das instalações da usina de Americana, no rio Atibaia, município de Americana, Estado de São Paulo, autorizada pelo Decreto nº 19.606, de 13 de setembro de 1945, em favor da Companhia Paulista de Fôrça e Luz pelo Decreto nº 24.145, de 1º de dezembro de 1947:
 
 1\) área de 651.400 m2 (seiscentos e cinquenta e um mil quatrocentos metros quadrados), de propriedade atribuida à Fábrica de Tecidos Carioba, Sociedade Anônima, à margem direita lo do rio Atibaia;
 
@@ -116,14 +114,14 @@
 
 Parágrafo único. As áreas a que alude êste artigo estão devidamente representadas nas plantas aprovadas pelo Ministro da Agricultura.
 
-<strong>Art</strong>. 2º Fica a Companhia Paulista de Fôrça e Luz autorizada a desapropriar as referidas áreas, na forma da legislação vigente, usando inclusive, da faculdade prevista no art. 15 do Decreto-lei nº 21 de junho de 1941, modificado pelo de nº 4.152, de 6 de março de 1942.
+**Art**. 2º Fica a Companhia Paulista de Fôrça e Luz autorizada a desapropriar as referidas áreas, na forma da legislação vigente, usando inclusive, da faculdade prevista no art. 15 do Decreto-lei nº 21 de junho de 1941, modificado pelo de nº 4.152, de 6 de março de 1942.
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 10 de setembro de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

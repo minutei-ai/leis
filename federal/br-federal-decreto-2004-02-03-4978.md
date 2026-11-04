@@ -1,5 +1,3 @@
-###DEC-004978-0-000-03-02-2004@@@
-
 DECRETO Nº 4.978,  DE 3 DE FEVEREIRO DE 2004.
 
 Regulamenta o art. 230 da Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre a assistência à saúde do servidor, e dá outras providências.

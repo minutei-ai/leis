@@ -1,5 +1,3 @@
-###DEC-006443-0-000-25-04-2008@@@
-
 DECRETO Nº 6.443, DE 25 DE ABRIL DE 2008.
 
 Promulga o Ajuste Complementar ao Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República da Nicarágua para Implementação do Projeto “Programa de Modernização do Setor Dendroenergético da Nicarágua”, celebrado em Manágua, em 22 de novembro de 2000.
@@ -22,11 +20,7 @@ Brasília, 25 de abril de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 28.4.2008
-
-AJUSTE COMPLEMENTAR AO ACORDO BÁSICO DE COOPERAÇÃO TÉCNICA ENTRE
+Celso Luiz Nunes AmorimAJUSTE COMPLEMENTAR AO ACORDO BÁSICO DE COOPERAÇÃO TÉCNICA ENTRE
 
 O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA
 

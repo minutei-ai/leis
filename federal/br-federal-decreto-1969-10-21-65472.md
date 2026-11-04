@@ -1,5 +1,3 @@
-###DEC-065472-0-000-21-10-1969@@@
-
 DECRETO Nº 65.472 - DE 21 DE OUTUBRO DE 1969.
 
 Declara perempta a concessão outorgada à ex - Companhia Rádio Internacional do Brasil, atual ITT - Comunicações Mundiais S. A. para executar serviço radiotelefônico público interior e radiotelefônico público restrito interior.

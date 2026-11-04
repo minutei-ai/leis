@@ -1,5 +1,3 @@
-###DEC-002966-0-000-25-02-1999@@@
-
 DECRETO Nº 2.966, DE 25 DE FEVEREIRO DE 1999.
 
 Dispõe sobre a composição e o funcionamento do Conselho Deliberativo do Fundo Constitucional de Financiamento do Centro-Oeste.

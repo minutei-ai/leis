@@ -1,20 +1,18 @@
-###DEC-026414-0-000-04-03-1949@@@
+**DECRETO Nº 26.414, DE 4 DE MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.414, DE 4 DE MARÇO DE 1949.</strong>
+***Outorga à Companhia de Cimento Portland São Paulo concessão para o aproveitamento da energia hidráulica da cachoeira do Saltinho ou Escolástica, no rio Taquari-Guaçu, município de Itapeva, Estado de São Paulo para uso exclusivo.***
 
-<em><strong>Outorga à Companhia de Cimento Portland São Paulo concessão para o aproveitamento da energia hidráulica da cachoeira do Saltinho ou Escolástica, no rio Taquari-Guaçu, município de Itapeva, Estado de São Paulo para uso exclusivo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra *A*, do Código de Água,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra <em>A</em>, do Código de Água,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitando os direitos de terceiros anteriormente adquiridos, é outorgada à Companhia de Cimento <em>Portland</em> São Paulo concessão para o aproveitamento da energia hidráulica da cachoeira do Saltinho ou Esplástica, no rio Taquari-Guaçu, município de Itapava, Estado de São Paulo.
+**Art**. 1º Respeitando os direitos de terceiros anteriormente adquiridos, é outorgada à Companhia de Cimento *Portland* São Paulo concessão para o aproveitamento da energia hidráulica da cachoeira do Saltinho ou Esplástica, no rio Taquari-Guaçu, município de Itapava, Estado de São Paulo.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à produção e transmissão de energia elétrica, para consumo exclusivo da concessionária, que não poderá ceder qualquer parcela de energia a terceiros, mesmo a título gratuito, ficando, todavia, excluídas desta proibição, as vilas operárias e residenciais dos administradores da concessionária, desde que seja gratuito o fornecimento de energia que lhe fôr feito.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a;
+**Art**. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a;
 
 I - Registrá-lo na Divisão de Águas do Departamento Nacional da Produção, dentro de trinta (30) dias, após a sua publicação.
 
@@ -36,26 +34,26 @@ V - Apresentar o mesmo contrato à Divisão de Água, para os fins de registro, 
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º Findo o prazo da concessão tôda a propriedade da concessionária que, no momento existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de São Paulo, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, isto é, do capital efetivamente gasto, menos a depreciação.
+**Art**. 6º Findo o prazo da concessão tôda a propriedade da concessionária que, no momento existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de São Paulo, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, isto é, do capital efetivamente gasto, menos a depreciação.
 
 § 1º Se o Estado de São Paulo não fizer uso de seu direito a essa reversão, a concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada pela forma que no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do § 1º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de São Paulo e a entrar com o requerimento desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 7º A concessionária gozará desde e data do registro de que trata o art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 7º A concessionária gozará desde e data do registro de que trata o art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 8º O presente decreto entrará em vigor na data da sua publicação.
+**Art**. 8º O presente decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 9º Revogam-se as disposições em contrário.
+**Art**. 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 4 de março de 1949, 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Sousa Duarte

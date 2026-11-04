@@ -1,5 +1,3 @@
-###DEC-070164-0-000-18-02-1972@@@
-
 DECRETO Nº 70.164, DE 18 DE FEVEREIRO DE 1972.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

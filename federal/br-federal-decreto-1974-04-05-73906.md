@@ -1,5 +1,3 @@
-###DEC-073906-0-000-05-04-1974@@@
-
 DECRETO Nº 73.906, DE 5 DE ABRIL DE 1974.
 
 Declara cessação de privilégio para exploração de serviços de energia elétrica, outorga, transfere concessão e dá outras providências.

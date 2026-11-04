@@ -1,5 +1,3 @@
-###DEC-053476-0-000-23-01-1964@@@
-
 DECRETO Nº 53.476, de 23 de janeiro de 1964.
 
 Altera os artigos 6º, 10 e 11 do Regulamento da Diretoria do Patrimônio do Exército, aprovado pelo Decreto 48.230, de 16 de maio de 1960.

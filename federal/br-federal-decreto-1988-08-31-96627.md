@@ -1,5 +1,3 @@
-###DEC-096627-0-000-31-08-1988@@@
-
 DECRETO N° 96.627, DE 31 DE AGOSTO DE 1988
 
 Dispõe sobre o Projeto Padre Cíce­ro na área de jurisdição da Superintendência do Desenvolvimento do Nordeste  (SUDENE) .

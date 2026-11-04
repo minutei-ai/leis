@@ -1,5 +1,3 @@
-###DEC-083479-0-000-21-05-1979@@@
-
 Decreto nº 83.479, de 21 de maio de 1979.
 
 Concede reconhecimento aos cursos de Fisioterapia e Terapia Ocupacional, da Faculdade de Reabilitação, Rio de Janeiro.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002325-0-000-08-04-1987@@@
-
 # DECRETO-LEI Nº 2.325, DE 8 DE ABRIL DE 1987
 
 Altera a legislação do Imposto de Renda.

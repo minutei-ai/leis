@@ -1,5 +1,3 @@
-###DEC-004769-0-000-27-06-2003@@@
-
 DECRETO Nº 4.769, DE 27 DE JUNHO DE 2003.
 
 Aprova o Plano Geral de Metas para a Universalização do Serviço Telefônico Fixo Comutado Prestado no Regime Público - PGMU, e dá outras providências.

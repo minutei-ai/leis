@@ -1,5 +1,3 @@
-###DEC-081923-0-000-11-07-1978@@@
-
 Decreto nº 81.923, de 11 de julho de 1978.
 
 Concede à magnesita S.A. o direito de lavrar hidrargilita no Município de Nova Ponte, Estado de Minas Gerais.

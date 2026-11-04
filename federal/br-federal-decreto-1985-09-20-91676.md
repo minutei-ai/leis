@@ -1,5 +1,3 @@
-###DEC-091676-0-000-20-09-1985@@@
-
 DECRETO Nº 91.676, DE 20 SETEMBRO DE 1985
 
 Autoriza o funcionamento do curso de Direito do Centro de Ensino Superior de Jataí.

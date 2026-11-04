@@ -42,8 +42,10 @@ Goiânia, 13 de fevereiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-MAJOR ARAÚJO<br>
+MAJOR ARAÚJO
+
 Deputado Estadual

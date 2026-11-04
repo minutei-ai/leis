@@ -1,5 +1,3 @@
-###DEC-049474-0-000-09-12-1960@@@
-
 DECRETO Nº 49.474, DE 9 DE DEZEMBRO DE 1960.
 
 Amplia a área declarada de utilidade pública pelo Decreto nº 44.199, de 29-7-1958, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, dos terrenos necessários à construção do açude público “Orós”, no Município de Orós, no Estado do Ceará, em virtude do acréscimo projetado na altura da barragem.

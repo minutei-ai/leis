@@ -1,5 +1,3 @@
-###DEC-087215-0-000-24-05-1982@@@
-
 Decreto nº 87.215, de 24 de maio de 1982
 
 Fixa normas de procedimento com referência a convites para visitas de militares ou de organizações militares estrangeiras, ao Brasil, em caráter oficial, bem assim para aceitação de convites para visita a países estrangeiros de militares ou de representações de organizações militares brasileiras, também em caráter oficial.

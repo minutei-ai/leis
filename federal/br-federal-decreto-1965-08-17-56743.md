@@ -1,5 +1,3 @@
-###DEC-056743-0-000-17-08-1965@@@
-
 DECRETO Nº 56.743, DE 17 DE AGÔSTO DE 1965.
 
 Concede à Pedreira Guaratiba Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEL-008932-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.932 – DE 26 DE JANEIRO DE 1946
 
  Altera carreiras do Quadro Suplementar do Ministério do Trabalho, Indústria e Comércio e dá outras providências.

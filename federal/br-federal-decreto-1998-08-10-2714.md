@@ -1,5 +1,3 @@
-###DEC-002714-0-000-10-08-1998@@@
-
 DECRETO Nº 2.714, DE 10 DE AGOSTO DE 1998
 
 Promulga o Protocolo Adicional ao Acordo para a Construção de uma Ponte sobre o Rio Uruguai, entre as Cidades de São Borja e Santo Tomé, de 22 de agosto de 1989, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Argentina.
@@ -56,4 +54,20 @@ O presente Protocolo aplicar-se-á provisoriamente desde a data de sua assinatur
 
 Feito em Buenos Aires, 06 dias do mês de julho de 1990, em dois exemplares nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:201.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Argentina</span></p></td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Francisco Rezek</span></p></td><td style="width:201.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Domingo Felipe Cavallo</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+</td><td style="width:201.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Argentina
+
+</td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Francisco Rezek
+
+</td><td style="width:201.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Domingo Felipe Cavallo
+
+</td></tr></tbody></table>

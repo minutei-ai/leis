@@ -1,5 +1,3 @@
-###DEC-068051-0-000-13-01-1971@@@
-
 Decreto nº 68.051, de 13 de janeiro de 1971.
 
 Autoriza a alienação de imóveis da Universidade Federal de Pernambuco.

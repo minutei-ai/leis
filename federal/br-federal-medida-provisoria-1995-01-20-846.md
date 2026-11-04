@@ -1,7 +1,3 @@
-1
-
-###MPV-000846-0-000-20-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 846, DE 20 DE JANEIRO DE 1995
 
 Autoriza o Poder Executivo a contratar com a ITAIPU pagamento de débito junto ao Tesouro Nacional com títulos da dívida externa brasileira, denominados Brazil Investment Bond (BIB), em valor correspondente a até US$92,800,000.00 (noventa e dois milhões e oitocentos mil dólares dos Estados Unidos da América).

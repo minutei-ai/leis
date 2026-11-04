@@ -1,5 +1,3 @@
-###DEL-007160-0-000-14-12-1944@@@
-
 DECRETO-LEI N. 7.160 – DE 14 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 5.000,00, à verba que especifica

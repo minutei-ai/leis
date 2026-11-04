@@ -1,5 +1,3 @@
-###DEC-066376-0-000-24-03-1970@@@
-
 DECRETO Nº 66.376 - DE 24 DE MARÇO DE 1970
 
 Autoriza a cessão, sob a forma de utilização gratuita, do próprio nacional que menciona, situado no Estado de São Paulo.

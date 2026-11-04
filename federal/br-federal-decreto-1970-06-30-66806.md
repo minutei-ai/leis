@@ -1,5 +1,3 @@
-###DEC-066806-0-000-30-06-1970@@@
-
 DECRETO Nº 66.806 - DE 30 DE JUnHO DE 1970
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a debutarão de Pirapama até a subestação de Prazeres nos municípios de Cabo e Jaboatão, no Estado de Pernambuco

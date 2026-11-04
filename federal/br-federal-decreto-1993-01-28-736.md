@@ -1,7 +1,3 @@
-1
-
-###DEC-000736-0-000-28-01-1993@@@
-
 DECRETO N° 736, DE 28 DE JANEIRO DE 1993
 
 Regulamenta o art. 50 da Lei n° 8.214, de 24 de julho de 1991, para efeito de ressarcimento fiscal pela propaganda eleitoral gratuita, relativa às eleições de 3 de outubro de 1992.

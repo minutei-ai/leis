@@ -1,5 +1,3 @@
-###DEC-072460-0-000-11-07-1973@@@
-
 DECRETO N.º 72.460, DE 11 DE JULHO DE 1973.
 
 Decreta luto oficial por três dias em todo o território nacional.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209609)<br>
-
 # DECRETO N° 68.639, DE 20 DE JUNHO DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração Medalha "Pela Lei", instituída pela Sociedade Veteranos de 1932 - MMDC, e dá providências correlatas._

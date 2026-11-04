@@ -1,5 +1,3 @@
-###DEC-051127-0-000-02-08-1961@@@
-
 DECRETO Nº 51.127, DE 2 DE AGÔSTO DE 1961.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Paranaguá, Estado do Paraná (PR).

@@ -1,5 +1,3 @@
-###DEL-003721-0-000-16-10-1941@@@
-
 DECRETO-LEI N. 3.721 – DE 16 DE OUTUBRO DE 1941
 
 Prorroga o prazo estabelecido no art. 20 do decreto-lei n. 3.438, de 17 de julho de 1941

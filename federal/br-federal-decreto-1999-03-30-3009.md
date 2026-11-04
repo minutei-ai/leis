@@ -1,5 +1,3 @@
-###DEC-003009-0-000-30-03-1999@@@
-
 DECRETO Nº 3.009, DE 30 DE MARÇO DE 1999
 
 Dispõe sobre a suspensão, até 31 de dezembro de 1999, de cessão de servidores da administração federal direta, das autarquias e das fundações públicas do Poder Executivo da União para outras esferas de Governo e outros Poderes.

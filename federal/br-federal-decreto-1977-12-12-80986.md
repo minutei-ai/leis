@@ -1,5 +1,3 @@
-###DEC-080986-0-000-12-12-1977@@@
-
 Decreto nº 80.986, de 12 de dezembro de 1977.
 
 Concede à Companhia de Pesquisas e lavras Minerais - COPELMI o direito de lavrar carvão mineral no Município de Triunfo, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208248)<br>
-
 # LEI N° 17.711, DE 03 DE JULHO DE 2023
 
 ## (Projeto de lei n° 466, de 2021, do Deputado Vinícius Camarinha - PSDB)

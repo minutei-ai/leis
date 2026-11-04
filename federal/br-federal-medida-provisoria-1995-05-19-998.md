@@ -1,7 +1,3 @@
-1
-
-###MPV-000998-0-000-19-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 998, DE 19 DE MAIO DE 1995
 
 Dá nova redação a dispositivos da Lei nº 8.981, de 20 de janeiro de 1995, que altera a legislação tributária federal, e dá outras providências.

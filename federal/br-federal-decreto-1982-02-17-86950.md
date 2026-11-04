@@ -1,5 +1,3 @@
-###DEC-086950-0-000-17-02-1982@@@
-
 Decreto nº 86.950, de 17 de fevereiro de 1982.
 
 Concede autorização aos Doutores ALASDAIR JAMES EDWARDS e ALEXANDER ROBERT DAWSON SHEPHERD, ingleses, para realizarem no Brasil, os serviços que especifica.

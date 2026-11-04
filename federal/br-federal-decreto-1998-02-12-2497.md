@@ -1,5 +1,3 @@
-###DEC-002497-0-000-12-02-1998@@@
-
 DECRETO Nº 2.497, DE 12 DE FEVEREIRO DE 1998
 
 Altera a redação do art. 47 do Decreto nº 93.872, de 23 de dezembro de 1986, que “dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza e consolida a legislação pertinente, e dá outras providências”.

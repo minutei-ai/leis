@@ -1,5 +1,3 @@
-###DEC-061248-0-000-30-08-1967@@@
-
 DECRETO Nº 61.248, DE 30 DE AGÔSTO DE 1967.
 
 Dá nova redação ao artigo 4º do Decreto nº 58.016, de 18 de março de 1966.

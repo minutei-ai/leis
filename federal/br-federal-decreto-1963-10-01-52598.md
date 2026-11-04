@@ -1,5 +1,3 @@
-###DEC-052598-0-000-01-10-1963@@@
-
 DECRETO Nº 52.598, DE 1 DE OUTUBRO DE 1963.
 
 Outorga à Companhia de Eletrificação Centro-Norte do Ceará concessão para distribuir energia elétrica.

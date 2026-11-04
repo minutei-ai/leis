@@ -1,5 +1,3 @@
-###DEC-084520-0-000-03-03-1980@@@
-
 Decreto nº 84.520, de 03 de março de 1980
 
 Modifica a redação de dispositivos do Estatuto Social da Empresas Nucleares Brasileiras S.A. - NUCLEBRÁS, aprovado pelo Decreto nº 81.414, de 28 de fevereiro de 1978.

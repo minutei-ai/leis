@@ -30,13 +30,14 @@ Art. 3° Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito de Rio Verde, aos 13 de dezembro de 2017.
 
-PAULO FARIA DO VALE<br>
+PAULO FARIA DO VALE
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
+VINÍCIUS FONSÊCA CAMPOS
+
 Procurador-Geral
 
-<br>
-LUIZ CARDOSO FÁVERO<br>
+LUIZ CARDOSO FÁVERO
+
 Superintendente de Desenvolvimento Urbano

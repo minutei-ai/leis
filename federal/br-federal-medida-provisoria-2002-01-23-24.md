@@ -1,5 +1,3 @@
-###MPV-000024-0-000-23-01-2002@@@
-
 MEDIDA PROVISÓRIA No 24, DE 23 DE JANEIRO DE 2002.
 
 Dispõe sobre a repactuação e o alongamento de dívidas oriundas de operações de crédito rural contratadas sob a égide do Programa Especial de Crédito para a Reforma Agrária - PROCERA e do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, e dá outras providências.

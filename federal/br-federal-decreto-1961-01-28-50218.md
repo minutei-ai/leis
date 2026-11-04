@@ -1,5 +1,3 @@
-###DEC-050218-0-000-28-01-1961@@@
-
 DECRETO Nº 50.218, DE 28 DE JANEIRO DE 1961.
 
 Acrescenta ao artigo 2º do Decreto nº 31.401, de 8 de setembro de 1952, o Quadro de oficiais Intendentes.

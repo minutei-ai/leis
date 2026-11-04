@@ -1,5 +1,3 @@
-###DEC-047684-0-000-20-01-1960@@@
-
 DECRETO Nº 47.684, DE 20 DE JANEIRO DE 1960.
 
 Concede à sociedade Navegação João Martins da Silva Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

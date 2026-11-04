@@ -1,5 +1,3 @@
-###DEC-089369-0-000-07-02-1984@@@
-
 Decreto nº 89.369, de 07 de fevereiro de 1984
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

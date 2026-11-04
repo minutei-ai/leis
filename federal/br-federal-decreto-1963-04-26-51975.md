@@ -1,5 +1,3 @@
-###DEC-051975-0-000-26-04-1963@@@
-
 Decreto nº 51.975, de 26 de Abril de 1963.
 
 Autoriza o cidadão brasileiro Gheorghe Popescu a lavrar areia quartzosa, no município de Peruibe, Estado de São Paulo.

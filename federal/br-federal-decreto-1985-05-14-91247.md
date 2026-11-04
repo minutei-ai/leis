@@ -1,5 +1,3 @@
-###DEC-091247-0-000-14-05-1985@@@
-
 DEcRETo Nº 91.247, DE 14 DE MAIO De 1985
 
 Extingue Órgão Colegiado da Estrutura Básica do Ministério da Fazenda.

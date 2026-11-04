@@ -1,5 +1,3 @@
-###DEL-009562-0-000-09-08-1946@@@
-
 DECRETO-LEI N.  9.562 – DE 9 DE AGÔSTO DE 1946
 
 Concede à Associação Brasileira de Assistencia ao Cardíaco aforamento de terreno de acrescido de marinha e dá outras providências.

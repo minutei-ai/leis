@@ -1,5 +1,3 @@
-###DEC-080204-0-000-22-08-1977@@@
-
 Decreto Nº 80.204, de 22 de agosto de 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem e linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado de Santa Catarina.

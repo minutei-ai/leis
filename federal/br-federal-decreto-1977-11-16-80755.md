@@ -1,5 +1,3 @@
-###DEC-080755-0-000-16-11-1977@@@
-
 Decreto nº 80.755, de 16 de novembro de 1977.
 
 Autoriza, até 31 de dezembro de 1978, o aproveitamento dos navios estrangeiros na cabotagem nacional.

@@ -1,5 +1,3 @@
-###DEC-067969-0-000-29-12-1970@@@
-
 DECRETO Nº 67.969, DE 29 DE DEZEMBRO DE 1970.
 
 Torna sem efeito a inclusão de servidor, com o respectivo cargo, no Quadro de Pessoal - Parte Especial, do Ministério da Indústria e Comércio.

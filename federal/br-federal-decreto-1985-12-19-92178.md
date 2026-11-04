@@ -1,5 +1,3 @@
-###DEC-092178-0-000-19-12-1985@@@
-
 Decreto nº 92.178 de 19 de dezembro de 1985.
 
 Autoriza o funcionamento do curso de Pedagogia da Fundação das Escolas do Planalto Norte Catarinense.

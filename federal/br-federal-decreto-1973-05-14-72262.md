@@ -1,5 +1,3 @@
-###DEC-072262-0-000-14-05-1973@@@
-
 DECRETO Nº 72.262, DE 14 DE MAIO DE 1973.
 
 Retifica o artigo 1º, do Decreto nº 43.447, de 26 de março de 1958.

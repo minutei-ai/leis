@@ -1,5 +1,3 @@
-###DEC-091204-0-000-26-04-1985@@@
-
 Decreto nº 91.204, de 26 de abril de 1985.
 
 Dispõe sobre os cargos de Comandante do Centro de Instrução e Adestramento do Corpo de Fuzileiros Navais e de Subcomandante do Comando de Apoio do Corpo de Fuzileiros Navais.

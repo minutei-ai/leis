@@ -1,7 +1,3 @@
-1
-
-###DEC-001277-0-000-13-10-1994@@@
-
 DECRETO Nº 1.277, DE 13 DE OUTUBRO DE 1994
 
 Dispõe sobre a Zona de Processamento de Exportação - ZPE de Nossa Senhora do Socorro, Estado de Sergipe.

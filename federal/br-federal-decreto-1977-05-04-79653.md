@@ -1,5 +1,3 @@
-###DEC-079653-0-000-04-05-1977@@@
-
 DECRETO Nº 79.653, DE 4 DE MAIO DE 1977.
 
 Concede reconhecimento ao Curso de Ciências, das Faculdades Integradas Santo Antônio, com sede na cidade de São Paulo, Estado de São Paulo.

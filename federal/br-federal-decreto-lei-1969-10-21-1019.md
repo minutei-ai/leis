@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f1301a12-409f-4372-9928-4ecd1f9dae29/texto#nowhere)
 
-###DEL-001019-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.019, de 21 de Outubro de 1969
 
 Extingue cargos no Quadro de Pessoal do Ministério da Indústria e do Comércio.

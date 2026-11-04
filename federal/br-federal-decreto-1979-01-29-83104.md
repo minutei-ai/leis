@@ -1,5 +1,3 @@
-###DEC-083104-0-000-29-01-1979@@@
-
 Decreto nº 83 104 de 29 de janeiro de 1979
 
 Concede reconhecimento ao curso de Desenho Industrial da Faculdade de Artes Plásticas e Comunicações Farias Brito, com sede na cidade de Guarulhos, Estado de São Paulo.

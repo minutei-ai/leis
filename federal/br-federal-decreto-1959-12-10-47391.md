@@ -1,5 +1,3 @@
-###DEC-047391-0-000-10-12-1959@@@
-
 DECRETO Nº 47.391, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Humberto Lima Dantas a pesquisar minério de manganês, no município de Saúde, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-001877-0-000-26-04-1996@@@
-
 DECRETO Nº 1.877, DE 26 DE ABRIL DE 1996
 
 Dispõe sobre a execução do Décimo Sexto Protocolo Adicional ao Acordo de Alcance Parcial de "Renegociação das concessões outorgadas no período 1962/1980" Nº 3, entre Brasil e Chile, de 07 de dezembro de 1995.

@@ -20,7 +20,59 @@ Art. 2º - A assunção das atividades das Procuradorias Jurídicas das autarqui
 
 Art. 3º - Ao servidor ocupante de cargo público efetivo e ao empregado público que tenha ingressado no serviço público estadual até a data da publicação desta Emenda Constitucional, e que exercer cargos em comissão, funções de confiança ou mandato eletivo estadual, fica assegurado o direito de continuar a perceber, no caso de exoneração, dispensa ou término do mandato eletivo, vantagem pessoal a ser calculada na forma da Lei, observados os critérios da tabela a seguir:
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;"><tbody><tr><td style="width: 125.5pt; border: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="167"><p>Período de exercício, contínuo ou não, de cargos em comissão, funções de confiança ou mandato eletivo estadual completado até a data de publicação desta Emenda Constitucional (em anos)</p></td><td style="width: 121.9pt; border: solid black 1.0pt; border-left: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p>Período exigido de exercício contínuo de cargo ou mandato eletivo estadual no qual se dará a fixação da vantagem pessoal (em anos)<br>&nbsp;</p></td><td style="width: 122.35pt; border: solid black 1.0pt; border-left: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">Período total de exercício de cargos em comissão, funções de confiança ou mandato eletivo estadual necessário para a concessão da vantagem pessoal (em anos)</p></td></tr><tr><td style="width: 125.5pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="167"><p>acima de 09</p></td><td style="width: 121.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">2,5</p></td><td style="width: 122.35pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">10,5</p></td></tr><tr><td style="width: 125.5pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="167"><p>de 08 a 09</p></td><td style="width: 121.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">3</p></td><td style="width: 122.35pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">11</p></td></tr><tr><td style="width: 125.5pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="167"><p>de 07 a 08</p></td><td style="width: 121.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">3,5</p></td><td style="width: 122.35pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">11,5</p></td></tr><tr><td style="width: 125.5pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="167"><p>de 06 a 07</p></td><td style="width: 121.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">4</p></td><td style="width: 122.35pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">12</p></td></tr><tr><td style="width: 125.5pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="167"><p>de 05 a 06</p></td><td style="width: 121.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">4,5</p></td><td style="width: 122.35pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">12,5</p></td></tr><tr><td style="width: 125.5pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="167"><p>de 04 a 05</p></td><td style="width: 121.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">5</p></td><td style="width: 122.35pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">13</p></td></tr><tr><td style="width: 125.5pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="167"><p>de 03 a 04</p></td><td style="width: 121.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">5,5</p></td><td style="width: 122.35pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p style="margin-top: 3.0pt; margin-right: 3.1pt; margin-bottom: 3.0pt; margin-left: 3.1pt;">13,5</p></td></tr><tr><td style="width: 125.5pt; border: solid black 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="167"><p>de 0 a 03</p></td><td style="width: 121.9pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p>6</p></td><td style="width: 122.35pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 28.95pt;" valign="top" width="163"><p>14</p></td></tr></tbody></table>
+Período de exercício, contínuo ou não, de cargos em comissão, funções de confiança ou mandato eletivo estadual completado até a data de publicação desta Emenda Constitucional (em anos)
+
+Período exigido de exercício contínuo de cargo ou mandato eletivo estadual no qual se dará a fixação da vantagem pessoal (em anos)
+
+Período total de exercício de cargos em comissão, funções de confiança ou mandato eletivo estadual necessário para a concessão da vantagem pessoal (em anos)
+
+acima de 09
+
+2,5
+
+10,5
+
+de 08 a 09
+
+3
+
+11
+
+de 07 a 08
+
+3,5
+
+11,5
+
+de 06 a 07
+
+4
+
+12
+
+de 05 a 06
+
+4,5
+
+12,5
+
+de 04 a 05
+
+5
+
+13
+
+de 03 a 04
+
+5,5
+
+13,5
+
+de 0 a 03
+
+6
+
+14
 
 Parágrafo único - Para efeito de integralização do tempo necessário à fixação da vantagem pessoal de que trata o caput deste artigo, é permitida aos militares estaduais a soma de 02 (dois) períodos de exercício em cargos sucessivos, fixando-se, nesta hipótese, a vantagem pelo menor valor.
 

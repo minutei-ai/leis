@@ -1,5 +1,3 @@
-###DEC-075950-0-000-08-07-1975@@@
-
 DECRETO Nº 75.950 - DE 8 DE JULHO DE 1975.
 
 Concede à Mineração Menezes e Filhos Ltda., o direito de lavrar minério de agalmatolito no Município de Pará de Minas, Estado de Minas Gerais.

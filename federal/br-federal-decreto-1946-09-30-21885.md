@@ -1,16 +1,14 @@
-###DEC-021885-0-000-30-09-1946@@@
+**DECRETO Nº 21.885, DE 30 DE SETEMBRO DE 1946.**
 
-<strong>DECRETO Nº 21.885, DE 30 DE SETEMBRO DE 1946.</strong>
+***Autoriza a Prefeitura Municipal de Guaíba, Estado do Rio Grande do Sul, a modificar e a ampliam suas atuais instalações de produção, transformação transmissão e distribuição de energia elétrica, na sede do mesmo município.***
 
-<em><strong>Autoriza a Prefeitura Municipal de Guaíba, Estado do Rio Grande do Sul, a modificar e a ampliam suas atuais instalações de produção, transformação transmissão e distribuição de energia elétrica, na sede do mesmo município.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong> usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e nos têrmos do Decreto-lei nº 2.059, de 5 de março de 1940, combinado com os artigos 10 e 11 do Decreto-lei número 2.281, de 5 de junho de 1940,
+**O PRESIDENTE DA REPÚBLICA** usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e nos têrmos do Decreto-lei nº 2.059, de 5 de março de 1940, combinado com os artigos 10 e 11 do Decreto-lei número 2.281, de 5 de junho de 1940,
 
 CONSIDERANDO que o Conselho Nacional de Águas e Energia Elétrica se pronunciou favoravelmente à medida requerida pela Prefeitura Municipal de Guaíba,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º A Prefeitura Municipal de Guaíba, Estado do Rio Grande do Sul, concessionária dos serviços de energia elétrica na sede do mesmo município, fica autorizada a realizar as seguintes obras de modificação e ampliação em suas instalações, transformação transmissão e distribuição de energia elétrica:
+**Art**. 1º A Prefeitura Municipal de Guaíba, Estado do Rio Grande do Sul, concessionária dos serviços de energia elétrica na sede do mesmo município, fica autorizada a realizar as seguintes obras de modificação e ampliação em suas instalações, transformação transmissão e distribuição de energia elétrica:
 
 I - montagem de um grupo diesel-elétrico de 170 kVA, 400-230 volts, 50 ciclos por segundo;
 
@@ -24,7 +22,7 @@ V - remodelação geral da atual rêde de distribuição;
 
 VI - estabelecimento de novas redes de distribuição nos subúrbios de Vila Elza, Alegria e Flórida.
 
-<strong>Art</strong>. 2º Sob pena de caducidade da presente autorização, a interessada obriga-se a:
+**Art**. 2º Sob pena de caducidade da presente autorização, a interessada obriga-se a:
 
 I - Registrar êste título na Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério da Agricultura dentro de trinta (30) dias a partir da sua publicação.
 
@@ -34,10 +32,10 @@ III - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministr
 
 Parágrafo único. O prazo do inciso II dêste artigo poderá ser por justo motivo prorrogado por ato do Ministro da Agricultura, ouvida a mencionada Divisão de águas.
 
-<strong>Art</strong>. 3º O presente decreto entra em vigor na data da sua publicação revogadas as disposições em contrário.
+**Art**. 3º O presente decreto entra em vigor na data da sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, 30 de setembro de 1946; 125º de Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior

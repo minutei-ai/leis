@@ -1,5 +1,3 @@
-###DEC-079387-0-000-14-03-1977@@@
-
 DECRETO Nº 79.387, DE 14 DE MARÇO DE 1977.
 
 Concede à Pedreira Limeirense S.A. o direito de lavrar diabásio no Município de Mogi Mirim, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-091683-0-000-24-09-1985@@@
-
 Decreto nº 91.683, de 24 de setembro de 1985.
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Bugre", situado no Município de Chopinzinho, no Estado do Paraná, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971 e alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976 e 84.969, de 28 de julho de 1980.

@@ -1,5 +1,3 @@
-###DEC-083326-0-000-16-04-1979@@@
-
 Decreto nº 83.326, de 16 de abril de 1979.
 
 Concede reconhecimento ao curso de Ciências, ministrado pelas Faculdades Integradas Moacyr Sreder Bastos, em Campo Grande, Estado do Rio de Janeiro.
@@ -17,8 +15,6 @@ Brasília, em 16 de abril de 1979; 158º da Independência e 91º da República.
 JOÃO B. DE FIGUEIREDO
 
 Petrônio Portella
-
-###DEC-083326-0-000-16-04-1979@@@RET01+++
 
 Decreto nº 83.326, de 16 de abril de 1979.
 

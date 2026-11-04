@@ -1,5 +1,3 @@
-###DEC-004197-0-000-16-04-2002@@@
-
 DECRETO Nº 4.197, DE 16 DE ABRIL DE 2002
 
 Fixa os preços mínimos básicos para aveia, canola, cevada, trigo, triticale, sementes de cevada, de trigo e de triticale, safra de inverno 2002.
@@ -28,12 +26,186 @@ ANEXO
 
 1\. Preços Mínimos Básicos - Safra de Inverno 2002
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1.1. Produto Amparado por AGF e EGF/SOB</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="vertical-align:top"></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Produto</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Regiões / Estados Amparados</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo (*)</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PH Mínimo</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Início de Vigência</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Preços Mínimos - R$/t Classes (*)</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Brando</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Pão/Melhorador/ Durum</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>78</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>248,07</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>285,00</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Sul</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>75</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>235,75</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>270,42</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Trigo</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>211,09</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>248,07</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Centro-Oeste,</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>78</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>261,00</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>300,00</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Sudeste e BA</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>75</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>248,03</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>284,50</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>70</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>222,09</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>261,00</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>(*) Com base na Instrução Normativa nº 1, de 27.01.99, do Ministério da Agricultura e do Abastecimento</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.75pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.75pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.75pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.75pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.75pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.38pt 3.38pt 0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:0pt"><td style="width:155.75pt"></td><td style="width:73.55pt"></td><td style="width:26.85pt"></td><td style="width:40.85pt"></td><td style="width:55.05pt"></td><td style="width:66.35pt"></td><td style="width:86.2pt"></td></tr></tbody></table>
+1.1. Produto Amparado por AGF e EGF/SOB
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1.2. Produtos Amparados por EGF/SOV - Grãos - Regiões Centro-Oeste, Sudeste e Sul</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Produtos</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Início de Vigência</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Preços Mínimos - R$/t</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Canola</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>247,04</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Cevada</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>200,39</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Triticale</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>153,24</span></p></td></tr><tr style="height:0pt"><td style="width:334.45pt"></td><td style="width:76.95pt"></td><td style="width:93.2pt"></td></tr></tbody></table>
+Produto
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1.3. Produtos Amparados por EGF/SOV - Sementes - Regiões Centro-Oeste, Sudeste e Sul</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="vertical-align:top"></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Produtos</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Início de Vigência</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Preços Mínimos - R$/Kg</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Fiscalizada</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Certificada</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Trigo*</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0,4591</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0,4965</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Cevada</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0,2847</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0,3069</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Triticale</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0,2637</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0,2837</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>(*) Inclusive para o Estado da Bahia</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.75pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.75pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:0.75pt 0.38pt 3.38pt 0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:0pt"><td style="width:288.3pt"></td><td style="width:70.8pt"></td><td style="width:92.45pt"></td><td style="width:53.05pt"></td></tr></tbody></table>
+Regiões / Estados Amparados
+
+Tipo (*)
+
+PH Mínimo
+
+Início de Vigência
+
+Preços Mínimos - R$/t Classes (*)
+
+Brando
+
+Pão/Melhorador/ Durum
+
+1
+
+78
+
+Ago/2002
+
+248,07
+
+285,00
+
+Sul
+
+2
+
+75
+
+Ago/2002
+
+235,75
+
+270,42
+
+Trigo
+
+3
+
+70
+
+Ago/2002
+
+211,09
+
+248,07
+
+Centro-Oeste,
+
+1
+
+78
+
+Ago/2002
+
+261,00
+
+300,00
+
+Sudeste e BA
+
+2
+
+75
+
+Ago/2002
+
+248,03
+
+284,50
+
+3
+
+70
+
+Ago/2002
+
+222,09
+
+261,00
+
+(*) Com base na Instrução Normativa nº 1, de 27.01.99, do Ministério da Agricultura e do Abastecimento
+
+1.2. Produtos Amparados por EGF/SOV - Grãos - Regiões Centro-Oeste, Sudeste e Sul
+
+Produtos
+
+Início de Vigência
+
+Preços Mínimos - R$/t
+
+Canola
+
+Ago/2002
+
+247,04
+
+Cevada
+
+Ago/2002
+
+200,39
+
+Triticale
+
+Ago/2002
+
+153,24
+
+1.3. Produtos Amparados por EGF/SOV - Sementes - Regiões Centro-Oeste, Sudeste e Sul
+
+Produtos
+
+Início de Vigência
+
+Preços Mínimos - R$/Kg
+
+Fiscalizada
+
+Certificada
+
+Trigo*
+
+Ago/2002
+
+0,4591
+
+0,4965
+
+Cevada
+
+Ago/2002
+
+0,2847
+
+0,3069
+
+Triticale
+
+Ago/2002
+
+0,2637
+
+0,2837
+
+(*) Inclusive para o Estado da Bahia
 
 2\. Preços Mínimos Básicos - Região Sul - Safra de Inverno 2002
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Produto Amparado por EGF/SOV</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Produto</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Início de Vigência</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Preços Mínimos - R$/t</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Aveia</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>143,99</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>129,56</span></p></td></tr><tr><td style="padding:0.75pt 0.75pt 3.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/2002</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt 0.38pt 3.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>116,53</span></p></td></tr><tr style="height:0pt"><td style="width:153.7pt"></td><td style="width:24pt"></td><td style="width:83.45pt"></td><td style="width:104.2pt"></td></tr></tbody></table>
+Produto Amparado por EGF/SOV
+
+Produto
+
+Tipo
+
+Início de Vigência
+
+Preços Mínimos - R$/t
+
+Aveia
+
+1
+
+Ago/2002
+
+143,99
+
+2
+
+Ago/2002
+
+129,56
+
+3
+
+Ago/2002
+
+116,53

@@ -1,5 +1,3 @@
-###DEL-009667-0-000-29-08-1946@@@
-
 DECRETO-LEI N. 9.667 – DE 29 DE AGÔSTO DE 1946
 
 Concede pensão especial a Agenor Alves Pereira.

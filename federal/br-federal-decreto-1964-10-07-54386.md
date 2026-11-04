@@ -1,5 +1,3 @@
-###DEC-054386-0-000-07-10-1964@@@
-
 DECRETO Nº 54.386, DE 7 DE OUTUBRO DE 1964.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$25.000.000,00, para o fim que específica.

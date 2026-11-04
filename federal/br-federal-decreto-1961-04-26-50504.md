@@ -1,5 +1,3 @@
-###DEC-050504-0-000-26-04-1961@@@
-
 DECRETO Nº 50.504, DE 26 DE ABRIL DE 1961.
 
 Cassa o reconhecimento e proíbe o funcionamento de curso que indica.

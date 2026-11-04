@@ -1,5 +1,3 @@
-###DEC-060412-0-000-11-03-1967@@@
-
 dECRETO Nº 60.412, DE 11 DE MARÇO DE 1967.
 
 Autoriza o cidadão brasileiro, Alberto Martins a pesquisar calcário, no município de Iporanga, Estado de São Paulo.

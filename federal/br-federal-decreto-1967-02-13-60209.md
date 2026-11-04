@@ -1,5 +1,3 @@
-###DEC-060209-0-000-13-02-1967@@@
-
 DECRETO Nº 60.209, DE 13 DE FEVEREIRO DE 1967.
 
 Revoga o Decreto nº 59.834, de 21 de dezembro de 1966.

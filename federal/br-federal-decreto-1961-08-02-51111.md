@@ -1,5 +1,3 @@
-###DEC-051111-0-000-02-08-1961@@@
-
 DECRETO Nº 51.111, DE 2 DE AGÔSTO DE 1961.
 
 Renova o Decreto nº 44.427, de 29 de agôsto de 1958.

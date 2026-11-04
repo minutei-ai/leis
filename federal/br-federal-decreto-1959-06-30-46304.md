@@ -1,5 +1,3 @@
-###DEC-046304-0-000-30-06-1959@@@
-
 DECRETO Nº 46.304, DE 30 DE junho DE 1959.
 
 Autoriza a Mineração Cabuçu Ltda. a pesquisar feldspato e mica no município de Silva Jardim, Estado do Rio de Janeiro.

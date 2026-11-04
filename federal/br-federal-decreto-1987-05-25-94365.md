@@ -1,5 +1,3 @@
-###DEC-094365-0-000-25-05-1987@@@
-
 DECRETO Nº 94.365, DE 25 DE MAIO DE 1987.
 
 Concede autorização ao navio de pesquisa "Professor W. BESNARD", de bandeira brasileira, para realizar em águas jurisdicionais os serviços que especifica.

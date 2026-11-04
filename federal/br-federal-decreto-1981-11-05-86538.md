@@ -1,5 +1,3 @@
-###DEC-086538-0-000-05-11-1981@@@
-
 DECRETO Nº 86.538, DE 05 DE NOVEMBRO DE 1981
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Herval", situado no Município de Chapecó, Estado de Santa Catarina, compreendido na área prioritária de reforma agrária, de que trata o Decreto nº 69.411, de 22 de outubro de 1971, ampliada pelos Decretos ns. 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

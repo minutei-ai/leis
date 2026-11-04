@@ -1,5 +1,3 @@
-###DEL-009721-0-000-03-09-1946@@@
-
 DECRETO-LEI  N.  9.721 – DE 3 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 148.615,60, para indenização à Comissão de Marinha Mercante.

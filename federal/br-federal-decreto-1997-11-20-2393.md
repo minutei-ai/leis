@@ -1,5 +1,3 @@
-###DEC-002393-0-000-20-11-1997@@@
-
 DECRETO Nº 2.393, DE 20 DE NOVEMBRO DE 1997
 
 Dispõe sobre a execução do Oitavo Protocolo Adicional ao Acordo de Complementação Econômica nº 25, entre Brasil e Peru, de 26 de setembro de 1997.

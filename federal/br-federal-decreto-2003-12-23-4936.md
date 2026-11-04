@@ -1,5 +1,3 @@
-###DEC-004936-0-000-23-12-2003@@@
-
 DECRETO Nº 4.936 DE 23 DE DEZEMBRO DE 2003.
 
 Altera os prazos de que tratam os §§ 1º e 3º do art. 2o do Decreto nº 4.900, de 26 de novembro de 2003, que dispõe sobre o empenho de despesas e inscrição de Restos a Pagar, no âmbito do Poder Executivo, no exercício de 2003, e dá outras providências.

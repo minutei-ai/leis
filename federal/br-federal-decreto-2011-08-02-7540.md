@@ -1,5 +1,3 @@
-###DEC-007540-0-000-02-08-2011-PUB-01@@@
-
 DECRETO Nº 7.540, DE 2 DE AGOSTO DE 2011
 
 Institui o Plano Brasil Maior - PBM e cria o seu Sistema de Gestão.

@@ -1,5 +1,3 @@
-###DEC-046979-0-000-07-10-1959@@@
-
 DECRETO Nº 46.979, DE 7 DE OUTUBRO DE 1959.
 
 Altera o Regulamento para a Escola Naval.

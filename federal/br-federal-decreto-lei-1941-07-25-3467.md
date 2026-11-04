@@ -1,5 +1,3 @@
-###DEL-003467-0-000-25-07-1941@@@
-
 DECRETO-LEI N. 3.467 – DE 25 DE JULHO DE 1941
 
 Organiza a 4ª Campanhia de Transmissões com sede em Recife

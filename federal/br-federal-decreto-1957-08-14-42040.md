@@ -1,14 +1,12 @@
-###DEC-042040-0-000-14-08-1957@@@
+**DECRETO Nº 42.040, DE 14 DE AGÔSTO DE 1957.**
 
-<strong>DECRETO Nº 42.040, DE 14 DE AGÔSTO DE 1957.</strong>
+***Altera o Regulamento para as Capitanias dos Portos***
 
-<em><strong>Altera o Regulamento para as Capitanias dos Portos</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição  que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição  que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterado o Regulamento para as Capitanias dos Portos, aprovado pelo Decreto número 5.798, de 11 de junho de 1940, para o fim de dar nova redação ao parágrafo 5º do art. 325,ao art. 368 e a todo o Capítulo XLI, a saber;
+**Art**. 1º Fica alterado o Regulamento para as Capitanias dos Portos, aprovado pelo Decreto número 5.798, de 11 de junho de 1940, para o fim de dar nova redação ao parágrafo 5º do art. 325,ao art. 368 e a todo o Capítulo XLI, a saber;
 
 “Art. 325. .................................................................................................................................
 
@@ -20,9 +18,9 @@
 
 “Art. 368. A carta de contramestre só será concedida aos marinheiros com mais de 21 anos de idade, mais de 3 anos de embarque na categoria e aprovados nos exames exigidos”.
 
-<strong>“CAPITULO XLI</strong>
+**“CAPITULO XLI**
 
-<em>Cartas profissionais para o pessoal da Marinha de Guerra</em>
+*Cartas profissionais para o pessoal da Marinha de Guerra*
 
 “Art. 386. Os oficiais inativos da Marinha de Guerra, exceto os previstos no art. 389, para exercerem atividades na Marinha Mercante, terão direito às seguintes cartas profissionais:
 
@@ -84,10 +82,10 @@ Art. 390. O militar que tiver sido promovido, por efeito de sua passagem para a 
 
 Parágrafo único - Tais cartas só serão entretanto concedidas quando forem compatíveis como pôsto ou graduação da inatividade”.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 14 de agôsto de 1957, 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Antõnio Alves Câmara

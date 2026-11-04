@@ -1,5 +1,3 @@
-###DEC-094695-0-000-28-07-1987@@@
-
 DECRETO Nº 94.695, DE 28 DE JULHO DE 1987.
 
 Autoriza o Governo do Estado de Sergipe a explorar, através da FUNDAÇÃO APERIPÊ de SERGIPE, serviço de radiodifusão sonora em onda média, na cidade de Aracaju, Estado de Sergipe.

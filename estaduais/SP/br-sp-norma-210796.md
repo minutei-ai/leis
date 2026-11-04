@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210796)<br>
-
 # LEI N° 18.144, DE 26 DE MARÇO DE 2025
 
 ## (Projeto de lei n° 74/2021, do Deputado Marcos Damasio - PL)

@@ -1,7 +1,3 @@
-1
-
-###DEC-001333-0-000-08-12-1994@@@
-
 DECRETO Nº 1.333, DE 8 DE DEZEMBRO DE 1994
 
 Dispõe sobre a descentralização da administração dos portos, das hidrovias e das eclusas que menciona e dá outras providências.

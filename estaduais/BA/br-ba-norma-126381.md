@@ -26,7 +26,8 @@ Parágrafo único - As competências, subordinação e vinculação dos órgãos
 
 Art. 3º - Ao Conselho Estadual de Entorpecentes - CONEN, instituído nos termos da Lei nº 4.684, de 28 de novembro de 1986, que passa a denominar-se Conselho Estadual de Políticas sobre Drogas - CEPAD, órgão de caráter consultivo e deliberativo, vinculado à Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, tendo por finalidade propor a Política Estadual sobre Drogas, bem como acompanhar e avaliar as ações governamentais voltadas à redução da demanda de drogas no âmbito do Estado da Bahia, compete:
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 3º - Ao Conselho Estadual de Entorpecentes - CONEN, instituído nos termos da Lei nº 4.684, de 28 de novembro de 1986, que passa a denominar-se Conselho Estadual de Políticas sobre Drogas - CEPAD, órgão de caráter consultivo e deliberativo, vinculado à Secretaria da Justiça, Cidadania e Direitos Humanos, tendo por finalidade propor a Política Estadual sobre Drogas, bem como acompanhar e avaliar as ações governamentais voltadas à redução da demanda de drogas no âmbito do Estado da Bahia, compete: "
 
 I -propor as diretrizes da Política Estadual sobre Drogas, em consonância com as diretrizes da Política Nacional sobre Drogas;
@@ -63,7 +64,8 @@ Art. 4º - O Conselho Estadual de Políticas sobre Drogas - CEPAD tem a seguinte
 
 I - o Secretário de Justiça, Direitos Humanos e Desenvolvimento Social, que o presidirá;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "I - o Secretário da Justiça, Cidadania e Direitos Humanos, que o presidirá;"
 
 II - 01 (um) representante da Secretaria da Saúde;
@@ -72,7 +74,8 @@ III - 01 (um) representante da Secretaria da Educação;
 
 IV - 01 (um) representante da Secretaria do Trabalho, Emprego, Renda e Esporte;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "IV - 01 (um) representante da Secretaria de Desenvolvimento Social e Combate à Pobreza;"
 
 V - 01 (um) representante da Secretaria da Segurança Pública;
@@ -101,14 +104,16 @@ X - 03 (três) representantes de organizações da sociedade civil.
 
 § 7º - Os representantes mencionados nos incisos IX e X deste artigo e seus suplentes serão escolhidos na Assembleia Geral de cada segmento, especialmente convocada pela Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, para este fim.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "§ 7º - Os representantes mencionados nos incisos IX e X deste artigo e seus suplentes serão escolhidos na Assembleia Geral de cada segmento, especialmente convocada pela Secretaria da Justiça, Cidadania e Direitos Humanos, para este fim."
 
 § 8º - O Vice-Presidente será eleito dentre os membros titulares representantes da sociedade civil, para mandato de 02 (dois) anos, coincidente com o do colegiado, por maioria absoluta, podendo ser reconduzido para um mandato consecutivo.
 
 Art. 5º - Cabe à Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS, através da Superintendência de Políticas sobre Drogas e Acolhimento a Grupos Vulneráveis, dar o apoio técnico, administrativo e financeiro necessários ao funcionamento do CEPAD.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 5º - Cabe à Secretaria da Justiça, Cidadania e Direitos Humanos - SJCDH, através da Superintendência de Prevenção e Acolhimento aos Usuários de Drogas e Apoio Familiar - SUPRAD, dar o apoio técnico, administrativo e financeiro necessários ao funcionamento do CEPAD."
 
 Art. 6º - O Regimento do Conselho Estadual de Políticas sobre Drogas - CEPAD, por ele aprovado, fixará suas competências, organização e normas de funcionamento.

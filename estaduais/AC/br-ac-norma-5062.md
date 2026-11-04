@@ -1,6 +1,10 @@
 > **LEI Nº 3.909, DE 19 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Torna obrigatória a exibição de informes publicitários das consequências do uso de drogas licitas e ilícitas em bares, casa de entretenimentos, banheiros públicos e privados de uso coletivo, pátios de escola, universidades, ginásios esportivos, praças de alimentação, teatros e salas de cinemas do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Torna obrigatória a exibição de informes publicitários das consequências do uso de drogas licitas e ilícitas em bares, casa de entretenimentos, banheiros públicos e privados de uso coletivo, pátios de escola, universidades, ginásios esportivos, praças de alimentação, teatros e salas de cinemas do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

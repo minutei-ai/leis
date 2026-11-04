@@ -1,5 +1,3 @@
-###DEC-004818-0-000-26-08-2003@@@
-
 DECRETO Nº 4.818,  DE 26 DE AGOSTO DE 2003.
 
        Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Previdência Social, e dá outras providências.
@@ -28,6 +26,8 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de Presidente da Repúbl
 
         Brasília, 26 de agosto de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
-Guido Mantega<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
+Guido Mantega
+
 Ricardo José Ribeiro Berzoini

@@ -1,5 +1,3 @@
-###DEL-006108-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.108 – DE 16 DE DEZEMBRO DE 1943
 
 Autoriza o Chefe do Serviço de Abastecimento de Carne, Leito, Manteiga, Sal, Farinha de Trigo e Derivados a requisitar gado bovino necessário ao abastecimento do Rio de Janeiro, São Paulo e outras cidades da região do Brasil Central

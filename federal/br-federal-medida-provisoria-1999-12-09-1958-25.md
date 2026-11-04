@@ -1,5 +1,3 @@
-###MPV-001958-0-025-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.958-25, DE 9 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a instituição de sociedade de crédito ao microempreendedor, altera dispositivos das Leis nºs 6.404, de 15 de dezembro de 1976, 8.029, de 12 de abril de 1990, e 8.934, de 18 de novembro de 1994, e dá outras providências.

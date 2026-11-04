@@ -1,5 +1,3 @@
-###DEC-096055-0-000-18-05-1988@@@
-
 DECRETO N° 96.055, DE 18 DE MAIO DE 1988
 
 Outorga concessão á RÁDIO CULTURA DE SINOP LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Sinop, Estado do Mato Grosso.

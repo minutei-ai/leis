@@ -1,5 +1,3 @@
-###DEC-062432-0-000-19-03-1968@@@
-
 DECRETO Nº 62.432, DE 19 DE MARÇO DE 1968.
 
 Concede a The Pentecostal Church of God of America Incorporated autorização para funcionar no Brasil.

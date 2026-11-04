@@ -1,5 +1,3 @@
-###DEC-005226-0-000-01-10-2004@@@
-
 DECRETO Nº 5.226 DE 1º DE OUTUBRO DE 2004
 
 Dispõe sobre a execução do Décimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República Bolivariana da Venezuela, de 30 de junho de 2004.

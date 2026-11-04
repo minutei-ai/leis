@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e0995ec4-dc44-435b-bbca-bcaefd604187/texto#nowhere)
 
-###DEL-000738-0-000-05-08-1969@@@
-
 DECRETO-LEI Nº 738, DE 5 DE AGÔSTO DE 1969
 
 Aprova a reforma do ex-soldado Francisco Vital da Silva, cujo registro foi negado pelo Tribunal de Contas da União.

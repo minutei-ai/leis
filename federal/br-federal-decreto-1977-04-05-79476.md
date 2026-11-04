@@ -1,5 +1,3 @@
-###DEC-079476-0-000-05-04-1977@@@
-
 DECRETO Nº 79.476, DE 5 DE ABRIL DE 1977.
 
 Concede à Itapicuru Agro-Industrial Sociedade Anônima, o direito de lavrar calcário no Município de Codó, Estado do Maranhão.

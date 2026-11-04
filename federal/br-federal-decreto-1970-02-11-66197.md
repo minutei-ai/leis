@@ -1,5 +1,3 @@
-###DEC-066197-0-000-11-02-1970@@@
-
 DECRETO Nº 66.197 - DE 11 DE FEVEREIRO DE 1970.
 
 Declara de utilidade pública a Associação Cristã de Amparo à Maternidade e Proteção à Infância de Itumbiara, com sede em Itumbiara, Estado de Goiás.

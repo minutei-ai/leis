@@ -1,5 +1,3 @@
-###DEC-046578-0-000-13-08-1959@@@
-
 DECRETO Nº 46.578, DE 13 DE AGÔSTO DE 1959.
 
 Cria um Museu na Caixa de amortização.

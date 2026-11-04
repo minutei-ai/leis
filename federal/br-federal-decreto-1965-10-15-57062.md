@@ -1,5 +1,3 @@
-###DEC-057062-0-000-15-10-1965@@@
-
 DECRETO Nº 57.062, DE 15 DE OUTUBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento, as áreas de terras e benfeitorias que menciona.

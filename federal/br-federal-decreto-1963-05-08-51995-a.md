@@ -1,5 +1,3 @@
-###DEC-051995-A-000-08-05-1963@@@
-
 Decreto nº 51.995-A, de 8 de maio de 1963.
 
 Aprova alterações introduzidas nos Estatutos da A Fortaleza Companhia Nacional de Seguros, inclusive aumento de capital.

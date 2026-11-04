@@ -1,5 +1,3 @@
-###DEC-074996-0-000-27-11-1974@@@
-
 DECRETO Nº 74.996, DE 27 DE SETEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Sociedade Oeste Catarinense Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Chapecó, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-050010-0-000-24-01-1961@@@
-
 Decreto Nº 50.010, DE 24 DE JANEIRO DE 1961.
 
 Autoriza a Emprêsa de Mineração A.P.Green do Brasil S.A. a pesquisar argila refratária, no município de Mogi das Cruzes, Estado de São Paulo.

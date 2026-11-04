@@ -70,8 +70,10 @@ Goiânia, 29 de abril de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-RICARDO QUIRINO<br>
+RICARDO QUIRINO
+
 Deputado Estadual

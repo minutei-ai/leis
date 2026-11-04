@@ -1,5 +1,3 @@
-###DEC-002804-0-000-20-10-1998@@@
-
 DECRETO Nº 2.804, DE 20 DE OUTUBRO DE 1998
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores-DAS que menciona, da nova redação ao art. 12 da Estrutura Regimental aprovada pelo Decreto nº 820, de 13 de maio de 1993, e dá outras providências.
@@ -116,7 +114,317 @@ QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO DA
 
 SUBSECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">UNIDADE</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CARGOS</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Nº</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DENOMINAÇÃO DO CARGO</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">NE/</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">SUBSECRETARIA-GERAL</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Subsecretário-Geral</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">NE</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Adjunto</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assessor</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Oficial de Gabinete II</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.2</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">6</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Oficial de Gabinete I</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.1</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DIRETORIA-GERAL DE</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">ADMINISTRAÇÃO</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor-Geral de Administração</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.5</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor-Geral Adjunto</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Adjunto</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">6</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Oficial de Gabinete III</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.3</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Oficial de Gabinete II</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.2</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assessor de ex-Presidente</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assistente de ex-Presidente</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.2</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">8</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Auxiliar de ex-Presidente</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.1</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Coordenação de Planejamento e Orçamento</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Coordenador</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.3</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Divisão de Apoio Administrativo</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.2</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Seção</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.1</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DEPARTAMENTO DE RECURSOS HUMANOS</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assessor</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.3</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Divisão</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">3</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.2</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Seção</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.1</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DEPARTAMENTO DE RECURSOS FINANCEIROS E PATRIMONIAIS</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assessor</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.3</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Divisão</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">3</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.2</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Seção</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">7</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.1</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DEPARTAMENTO DE RECURSOS LOGÍSTICOS</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assessor</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.3</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Divisão</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">4</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.2</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Seção</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">13</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.1</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DEPARTEMENTO DE ENGENHARIA E TELECOMUNICAÇÕES</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assessor</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.3</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Divisão</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">3</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.2</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Seção</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.1</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DIRETORIA DE MODERNIZAÇÃO E INFORMÁTICA</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.5</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor Adjunto</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">6</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Oficial de Gabinete I</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.1</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Seção de Apoio Administrativo</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.1</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DEPARTAMENTO DE MODERNIZAÇÃO E INFORMAÇÃO</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assessor</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.3</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Divisão</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.2</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DEPARTAMENTO DE INFORMÁTICA</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe de Departamento</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.4</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assessor</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">102.3</span></p></td></tr><tr><td style="width:129.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Divisão</span></p></td><td style="width:87pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">3</span></p></td><td style="width:146.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Chefe</span></p></td><td style="width:36.85pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">101.2</span></p></td></tr></tbody></table>
+UNIDADE
+
+CARGOS
+
+Nº
+
+DENOMINAÇÃO DO CARGO
+
+NE/
+
+DAS
+
+SUBSECRETARIA-GERAL
+
+1
+
+Subsecretário-Geral
+
+NE
+
+1
+
+Adjunto
+
+101.4
+
+1
+
+Assessor
+
+102.4
+
+5
+
+Oficial de Gabinete II
+
+102.2
+
+6
+
+Oficial de Gabinete I
+
+102.1
+
+DIRETORIA-GERAL DE
+
+ADMINISTRAÇÃO
+
+1
+
+Diretor-Geral de Administração
+
+101.5
+
+1
+
+Diretor-Geral Adjunto
+
+101.4
+
+2
+
+Adjunto
+
+101.4
+
+6
+
+Oficial de Gabinete III
+
+102.3
+
+2
+
+Oficial de Gabinete II
+
+102.2
+
+8
+
+Assessor de ex-Presidente
+
+102.4
+
+8
+
+Assistente de ex-Presidente
+
+102.2
+
+8
+
+Auxiliar de ex-Presidente
+
+102.1
+
+Coordenação de Planejamento e Orçamento
+
+1
+
+Coordenador
+
+101.3
+
+Divisão de Apoio Administrativo
+
+1
+
+Chefe
+
+101.2
+
+Seção
+
+2
+
+Chefe
+
+101.1
+
+DEPARTAMENTO DE RECURSOS HUMANOS
+
+1
+
+Chefe
+
+101.4
+
+1
+
+Assessor
+
+102.3
+
+Divisão
+
+3
+
+Chefe
+
+101.2
+
+Seção
+
+10
+
+Chefe
+
+101.1
+
+DEPARTAMENTO DE RECURSOS FINANCEIROS E PATRIMONIAIS
+
+1
+
+Chefe
+
+101.4
+
+1
+
+Assessor
+
+102.3
+
+Divisão
+
+3
+
+Chefe
+
+101.2
+
+Seção
+
+7
+
+Chefe
+
+101.1
+
+DEPARTAMENTO DE RECURSOS LOGÍSTICOS
+
+1
+
+Chefe
+
+101.4
+
+1
+
+Assessor
+
+102.3
+
+Divisão
+
+4
+
+Chefe
+
+101.2
+
+Seção
+
+13
+
+Chefe
+
+101.1
+
+DEPARTEMENTO DE ENGENHARIA E TELECOMUNICAÇÕES
+
+1
+
+Chefe
+
+101.4
+
+1
+
+Assessor
+
+102.3
+
+Divisão
+
+3
+
+Chefe
+
+101.2
+
+Seção
+
+10
+
+Chefe
+
+101.1
+
+DIRETORIA DE MODERNIZAÇÃO E INFORMÁTICA
+
+1
+
+Diretor
+
+101.5
+
+1
+
+Diretor Adjunto
+
+101.4
+
+6
+
+Oficial de Gabinete I
+
+102.1
+
+Seção de Apoio Administrativo
+
+1
+
+Chefe
+
+101.1
+
+DEPARTAMENTO DE MODERNIZAÇÃO E INFORMAÇÃO
+
+1
+
+Chefe
+
+101.4
+
+1
+
+Assessor
+
+102.3
+
+Divisão
+
+2
+
+Chefe
+
+101.2
+
+DEPARTAMENTO DE INFORMÁTICA
+
+1
+
+Chefe de Departamento
+
+101.4
+
+1
+
+Assessor
+
+102.3
+
+Divisão
+
+3
+
+Chefe
+
+101.2
 
 ANEXO II
 
@@ -130,4 +438,96 @@ EM COMISSÃO E FUNÇÕES DE CONFIANÇA DA SECRETARIA-GERAL DA
 
 PRESIDÊNCIA DA REPÚBLICA
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CÓDIGO</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">VALOR UNITÁRIO</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">QUANTIDADE</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">VALOR TOTAL</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS 101.5</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">4,94</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">9</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">44,96</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS 101.4</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">3,08</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">11</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">33,88</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS 101.3</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1,24</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">6,20</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS 101.2</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1,11</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">28</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">31,08</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS 101.1</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1,00</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">44</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">44,00</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS 102.5</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">4,94</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">13</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">64,22</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS 102.4</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">3,08</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">26</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">80,08</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS 102.3</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1,24</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">33</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40,92</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS 102.2</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1,11</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">54</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">59,94</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DAS 102.1</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1,00</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">43</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">43,00</span></p></td></tr><tr><td style="width:79.65pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">TOTAL</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:106.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">266</span></p></td><td style="width:106.8pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">448,28</span></p></td></tr></tbody></table>
+CÓDIGO
+
+VALOR UNITÁRIO
+
+QUANTIDADE
+
+VALOR TOTAL
+
+DAS 101.5
+
+4,94
+
+9
+
+44,96
+
+DAS 101.4
+
+3,08
+
+11
+
+33,88
+
+DAS 101.3
+
+1,24
+
+5
+
+6,20
+
+DAS 101.2
+
+1,11
+
+28
+
+31,08
+
+DAS 101.1
+
+1,00
+
+44
+
+44,00
+
+DAS 102.5
+
+4,94
+
+13
+
+64,22
+
+DAS 102.4
+
+3,08
+
+26
+
+80,08
+
+DAS 102.3
+
+1,24
+
+33
+
+40,92
+
+DAS 102.2
+
+1,11
+
+54
+
+59,94
+
+DAS 102.1
+
+1,00
+
+43
+
+43,00
+
+TOTAL
+
+266
+
+448,28

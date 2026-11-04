@@ -1,5 +1,3 @@
-###DEC-075432-0-000-28-02-1975@@@
-
 Decreto nº 75.432, de 28 de fevereiro de 1975.
 
 Revoga o Decreto que concedeu à Bausch & Lomb do Brasil Ltd., autorização para funcionar na República Federativa do Brasil.

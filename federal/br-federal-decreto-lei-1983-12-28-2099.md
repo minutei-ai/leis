@@ -1,5 +1,3 @@
-###DEL-002099-0-000-28-12-1983@@@
-
 # DECRETO-LEI Nº 2.099, DE 28 DE DEZEMBRO DE 1983
 
 Estabelece contenção de despesas orçamentárias para o exercício de 1984, e dá outras providências.

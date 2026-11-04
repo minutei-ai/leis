@@ -1,5 +1,3 @@
-###DEL-003102-0-000-11-03-1941@@@
-
 DECRETO-LEI N. 3.102 – DE 11 DE MARÇO DE 1941
 
 Determina que a Chefia do Gabinete do Ministro da Aeronáutica seja exercida por militar, e dá outras providências

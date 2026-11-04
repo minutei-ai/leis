@@ -1,5 +1,3 @@
-###DEC-076781-0-000-12-12-1975@@@
-
 DECRETO Nº 76.781, DE 12 DE DEZEMBRO DE 1975.
 
 Extingue o Comando e Companhia Comando da 4º Região Militar - 4º Divisão de Exército, cria os Comando e Companhia Comando da 4º Divisão de Exército e Comando e Companhia Comando da 4º Região Militar e dá outras providências.

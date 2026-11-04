@@ -1,5 +1,3 @@
-###DEC-070643-0-000-29-05-1972@@@
-
 DECRETO Nº 70.643, de 29 de maio de 1972.
 
 Autoriza o funcionamento das "Faculdades da Zona Leste de São Paulo", com sede em São Paulo, S.P.

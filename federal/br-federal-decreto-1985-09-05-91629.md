@@ -1,5 +1,3 @@
-###DEC-091629-0-000-05-09-1985@@@
-
 Decreto nº 91.629, de 05 de setembro de 1985
 
 Autoriza o funcionamento do curso de Engenharia Química, habilitação Engenharia de Alimentos, da Faculdade de Engenharia de Varginha.

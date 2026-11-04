@@ -1,5 +1,3 @@
-###DEC-049996-0-000-24-01-1961@@@
-
 DECRETO Nº 49.996, DE 24 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44.692, de 20 de outubro de 1958.

@@ -1,5 +1,3 @@
-###DEC-056771-0-000-20-08-1965@@@
-
 DECRETO Nº 56.771, DE 20 DE AGôSTO DE 1965.
 
 Autoriza o cidadão brasileiro Hugo Alberto da Fonseca a pesquisar mármore no município de Curaçá, Estado da Bahia.

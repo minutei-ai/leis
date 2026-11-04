@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209913)<br>
-
 # DECRETO N° 68.822, DE 04 DE SETEMBRO DE 2024
 
 ### _Altera o Decreto n° 50.807, de 18 de maio de 2006, que institui o Projeto Estadual COZINHALIMENTO no Programa de Alimentação e Nutrição para Populações Carentes, e dá providências correlatas._

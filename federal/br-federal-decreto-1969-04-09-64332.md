@@ -1,5 +1,3 @@
-###DEC-064332-0-000-09-04-1969@@@
-
 DECRETO Nº 64.332, DE 9 DE ABRIL DE 1969.
 
 Declara caduco o Decreto nº 18.700 de 24 de maio de 1945.

@@ -1,5 +1,3 @@
-###DEC-055430-0-000-31-12-1964@@@
-
 decreto nº 55.430, de 31 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Paulo Costa a pesquisar feldspato e quartzo, no município de São Sebastião da Grama, Estado de São Paulo.

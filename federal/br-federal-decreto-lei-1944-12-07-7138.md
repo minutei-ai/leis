@@ -1,5 +1,3 @@
-###DEL-007138-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.138 – DE 7 DE DEZEMBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a exonerar a “Associação Aliança dos Cegos” do pagamento do impôsto que menciona

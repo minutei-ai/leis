@@ -1,5 +1,3 @@
-###DEC-049021-0-000-04-10-1960@@@
-
 DECRETO Nº49.021, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Manoel Rodrigues Athayde a pesquisar calcário no município de Bagé, Estado do Rio Grande do Sul.

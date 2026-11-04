@@ -1,5 +1,3 @@
-###DEC-054969-0-000-11-11-1964@@@
-
 decreto nº 54.969, de 11 de novembro de 1964.
 
 Dispõe sôbre estoques de trigo e seus derivados e quantidades em trânsito de trigo em grão importadas, e dá outras providências.

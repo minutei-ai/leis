@@ -1,5 +1,3 @@
-###DEC-006187-0-000-14-08-2007@@@
-
 DECRETO Nº 6.187, DE 14 DE AGOSTO DE 2007.
 
 Regulamenta a Lei no 11.345, de 14 de setembro de 2006, institui o concurso de prognóstico denominado Timemania, estabelece os critérios de participação e adesão das entidades de prática desportiva da modalidade de futebol profissional e dispõe sobre o parcelamento de débitos tributários e não-tributários e para com o Fundo de Garantia do Tempo de Serviço - FGTS, e dá outras providências.
@@ -247,5 +245,3 @@ Carlos Lupi
 Luiz Marinho
 
 Orlando Silva de Jesus Júnior
-
-Este texto não substitui o publicado no DOU de 15.8.2007

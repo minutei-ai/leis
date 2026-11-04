@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209385)<br>
-
 # LEI N° 17.931, DE 26 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 1635/2023, do Deputado Paulo Fiorilo - PT)

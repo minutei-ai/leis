@@ -1,7 +1,3 @@
-1
-
-###DEC-097955-0-000-11-07-1989@@@
-
 DECRETO N° 97.955, DE 11 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA DESCOBERTA”, classificado como latifúndio por exploração, situado no Município de Batalha, Estado do Piauí, compreendido na zona prioritária, fixada pelo Decreto n° 92.680, de 19 de maio de 1986, e dá outras providências.

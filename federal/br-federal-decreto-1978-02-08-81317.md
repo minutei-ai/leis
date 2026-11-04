@@ -1,5 +1,3 @@
-###DEC-081317-0-000-08-02-1978@@@
-
 Decreto n° 81.317, de 8 de fevereiro de 1978.
 
 Regulamenta a aplicação do instituto da Progressão Funcional, em relação as Categorias Funcionais do Grupo Magistério, e dá outras providências.

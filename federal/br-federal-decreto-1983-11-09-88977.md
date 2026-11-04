@@ -1,5 +1,3 @@
-###DEC-088977-0-000-09-11-1983@@@
-
 Decreto nº 88.977, de 09 de novembro de 1983
 
 Autoriza o aumento de potência da RÁDIO CLUBE DE SÃO JOÃO BATISTA LTDA., na cidade de São João Batista, Estado de Santa Catarina.

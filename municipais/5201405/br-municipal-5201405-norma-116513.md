@@ -34,8 +34,10 @@ Aparecida de Goiânia, 4 de agosto de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
-CAMILA ROSA<br>
+CAMILA ROSA
+
 Vereadora

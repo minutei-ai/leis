@@ -1,5 +1,3 @@
-###DEC-002909-0-000-29-12-1998@@@
-
 DECRETO Nº 2.909, DE 29 DE DEZEMBRO DE 1998.
 
 Prorroga o prazo de remanejamento do cargo em comissão que menciona, e dá outras providências.

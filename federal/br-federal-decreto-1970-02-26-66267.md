@@ -1,5 +1,3 @@
-###DEC-066267-0-000-26-02-1970@@@
-
 DECRETO Nº 66.267 - dE 26 de FEVEREIRO DE 1970
 
 Declara de utilidade pública a Associação das Filhas de São José, com sede em São Paulo - Estado de São Paulo.

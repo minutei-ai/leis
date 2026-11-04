@@ -1,5 +1,3 @@
-###DEL-008373-0-000-14-12-1945@@@
-
 DECRETO-LEI Nº 8.373, DE 14 DE DEZEMBRO DE 1945
 
 Cria o “Fundo Aeronáutico”.

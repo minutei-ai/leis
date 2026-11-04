@@ -1,5 +1,3 @@
-###DEC-088080-0-000-01-02-1983@@@
-
 DECRETO nº 88.080, de 01 de fevereiro de 1983.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de janeiro, Angra dos Reis, Cabo Frio e Mangaratiba, Estado do Rio de Janeiro, Florianópolis, Estado de Santa Catarina; Matinhos e Guaratuba, Estado do Paraná.

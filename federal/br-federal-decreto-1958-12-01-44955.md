@@ -1,5 +1,3 @@
-###DEC-044955-0-000-01-12-1958@@@
-
 DECRETO Nº 44.955, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Chaffyr Ferreira a lavrar minério de ferro no município de Belo Horizonte, Estado de Minas Gerais.

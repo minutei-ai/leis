@@ -1,5 +1,3 @@
-###DEC-005339-0-000-12-01-2005@@@
-
 DECRETO Nº 5.339 DE 12 DE JANEIRO DE 2005
 
 Fixa, para a Marinha do Brasil, o número de vagas para promoções obrigatórias de oficiais, para os Corpos e Quadros que menciona, no ano-base de 2004.

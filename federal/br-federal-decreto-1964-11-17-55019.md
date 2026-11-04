@@ -1,5 +1,3 @@
-###DEC-055019-0-000-17-11-1964@@@
-
 decreto nº 55.019, de 17 de novembro de 1964.
 
 Concede à sociedade anônima Pfizer Corporation do Brasil autorização para continuar a funcionar na República.

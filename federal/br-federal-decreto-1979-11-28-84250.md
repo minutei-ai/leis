@@ -1,5 +1,3 @@
-###DEC-084250-0-000-28-11-1979@@@
-
 Decreto nº 84.250, de 28 de novembro de 1979.
 
 Cria o Consulado Honorário do Brasil em Biarritz.

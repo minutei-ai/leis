@@ -1,5 +1,3 @@
-###DEL-004227-0-000-02-04-1942@@@
-
 DECRETO-LEI N. 4.227 – DE 2 DE ABRIL DE 1942
 
 Concede uma pensão especial à viuva de Raul Felix dos Santos, vítima de desastre em serviço

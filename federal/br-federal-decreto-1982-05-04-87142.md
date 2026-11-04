@@ -1,5 +1,3 @@
-###DEC-087142-0-000-04-05-1982@@@
-
 Decreto nº 87.142, de 04 de maio de 1982.
 
 Altera a redação do art. 1º do Decreto nº 86.607, de 18 de novembro de 1981, que declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à formação do Reservatório da Usina Hidrelétrica de Nova Avanhandava, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

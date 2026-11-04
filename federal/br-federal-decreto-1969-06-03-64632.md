@@ -1,5 +1,3 @@
-###DEC-064632-0-000-03-06-1969@@@
-
 decreto nº 64.632, de 3 de junho de 1969.
 
 Redistribui, com os respectivos ocupantes para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargos originários da extinta Estrada de Ferro de Bragança (Quadro Extinto - Parte XIV - Ministério dos Transportes) e dos extintos Serviços de Navegação da Amazônia e da Administração do Pôrto ao Pará e Loyd Brasileiro - Patrimônio Nacional e dá outras providências.

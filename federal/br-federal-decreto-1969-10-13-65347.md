@@ -1,5 +1,3 @@
-###DEC-065347-0-000-13-10-1969@@@
-
 DECRETO Nº 65.347 - DE 13 DE OUTUBRO DE 1969.
 
 Regulamenta a Lei nº 5.471, de 9 de junho de 1968, que dispõe sôbre a exportação de livros antigos e conjuntos bibliográficos.

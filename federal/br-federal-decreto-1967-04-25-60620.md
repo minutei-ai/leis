@@ -1,5 +1,3 @@
-###DEC-060620-0-000-25-04-1967@@@
-
 Decreto nº 60.620, de 25 de abril de 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

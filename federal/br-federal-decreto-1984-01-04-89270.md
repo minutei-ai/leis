@@ -1,5 +1,3 @@
-###DEC-089270-0-000-04-01-1984@@@
-
 DECRETO Nº 89.270, de 04 de Janeiro de 1984
 
 Autoriza o aumento de capital da USIMINAS MECÂNICA S.A.

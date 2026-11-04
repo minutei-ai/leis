@@ -1,5 +1,3 @@
-###DEL-004122-0-000-21-02-1942@@@
-
 DECRETO-LEI N. 4.122 – DE 21 DE FEVEREIRO DE 1942
 
 Prorroga até 21 de março de 1944 o prazo a que se refere o artigo único do decreto-lei n. 3.157, de 31 de janeiro de 1941

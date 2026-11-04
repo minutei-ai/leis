@@ -1,5 +1,3 @@
-###DEC-007521-0-000-08-07-2011-PUB-01@@@
-
 DECRETO Nº 7.521, DE 8 DE JULHO DE 2011
 
 Dá nova redação aos arts. 24, 36 e 40 do Decreto nº 5.163, de 30 de julho de 2004, que regulamenta a comercialização de energia elétrica, o processo de outorga de concessões e de autorizações de geração de energia elétrica e dá outras providências.

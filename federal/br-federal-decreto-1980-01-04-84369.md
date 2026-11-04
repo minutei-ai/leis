@@ -1,5 +1,3 @@
-###DEC-084369-0-000-04-01-1980@@@
-
 Decreto nº 84.369, de 04 de janeiro de 1980
 
 Autoriza o funcionamento dos cursos de Fisioterapia e de Terapia Ocupacional do Instituto Porto Alegre, Estado do Rio Grande do Sul.

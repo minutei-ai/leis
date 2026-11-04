@@ -1,5 +1,3 @@
-###DEC-060080-0-000-17-01-1967@@@
-
 DECRETO Nº 60.080, DE 17 DE JANEIRO DE 1967.
 
 Declara de utilidade pública a “Clinica Batista de Teresina”, com sede em Teresina, Estado do Piauí.

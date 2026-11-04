@@ -1,5 +1,3 @@
-###DEL-002977-0-000-23-01-1941@@@
-
 DECRETO-LEI N. 2.977 – DE 23 DE JANEIRO DE 1941
 
 Dispõe sobre a remessa à Imprensa Nacional de cópias das decisões proferidas pelos Tribunais.

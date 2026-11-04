@@ -1,7 +1,3 @@
-1
-
-###DEC-001075-0-000-04-03-1994@@@
-
 # DECRETO N° 1.075, DE 4 DE MARÇO DE 1994
 
 Promulga o Acordo por troca de Notas, Relativo à Concessão de Empréstimos, pelo Fundo de Cooperação Econômica Ultramarina, para o Financiamento de Três Projetos Ambientais, entre o Governo da República Federativa do Brasil e o Governo do Japão, de l2 de março de l993.

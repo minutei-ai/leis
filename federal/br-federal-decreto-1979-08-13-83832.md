@@ -1,5 +1,3 @@
-###DEC-083832-0-000-13-08-1979@@@
-
 Decreto nº 83. 832, de 13 de agosto de 1979.
 
 Declara de utilidade o pública, para fina de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado do Paraná.

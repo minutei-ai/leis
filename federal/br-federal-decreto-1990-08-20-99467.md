@@ -1,7 +1,3 @@
-1
-
-###DEC-099467-0-000-20-08-1990@@@
-
 DECRETO Nº 99.467, DE 20 DE AGOSTO DE 1990
 
 Faculta ao Comércio Varejista em geral o funcionamento aos domingos.

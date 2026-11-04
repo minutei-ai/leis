@@ -1,5 +1,3 @@
-###DEL-001694-0-000-06-09-1979@@@
-
 # Decreto-lei nº 1.694, de 6 de setembro dE 1979
 
 Cancela débitos para com as autarquias federais e dá outras providências.

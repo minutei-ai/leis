@@ -1,5 +1,3 @@
-###DEL-003385-0-000-03-07-1941@@@
-
 DECRETO-LEI N. 3.385 – DE 3 DE JULHO DE 1941
 
 Prorroga, por mais 90 dias, o prazo fixado no art. 4º, alínea “a”, do decreto-lei nº 281, de 18 de fevereiro de 1938

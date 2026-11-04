@@ -1,5 +1,3 @@
-###DEL-003685-0-000-02-10-1941@@@
-
 DECRETO-LEI N. 3.685 – DE 2 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de réis 2.000:000$0, à verba que especifica

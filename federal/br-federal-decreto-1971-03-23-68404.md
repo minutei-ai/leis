@@ -1,5 +1,3 @@
-###DEC-068404-0-000-23-03-1971@@@
-
 DECRETO Nº 68.404, DE 23 DE MARÇO DE 1971.
 
 Redistribui cargos, com os respectivos ocupantes, para a Agência Nacional e dá outras providências.

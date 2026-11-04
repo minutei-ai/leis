@@ -1,7 +1,3 @@
-1
-
-###MPV-001085-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.085, DE 25 DE AGOSTO DE 1995.
 
 Dá nova redação a dispositivos da Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, e dá outras providências.

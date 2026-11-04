@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211046)<br>
-
 # DECRETO N° 69.592, DE 09 DE JUNHO DE 2025
 
 ### _Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, o imóvel necessário à implantação de Programa Habitacional e de Desenvolvimento Urbano, no Município de Santos, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-053141-0-000-10-12-1963@@@
-
 Decreto nº 53.141, de 10 dE Dezembro de 1963.
 
 Autoriza a Industrial, Comercial e Agricola Rio Pilões Limitada a pesquisar calcário, argila e xisto argiloso, no município de Capão Bonito, Estado de São Paulo.

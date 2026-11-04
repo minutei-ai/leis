@@ -20,7 +20,8 @@ Art. 1º Fica modificado o Anexo II da Lei Complementar n. 3.853/1999, de 22 de 
 
 **Cargo:** Merendeira
 
-...................................................................................................<br>
+...................................................................................................
+
 **Requisitos:**
 
 • Conhecimento no preparo e distribuição de merendas;
@@ -31,7 +32,8 @@ Art. 1º Fica modificado o Anexo II da Lei Complementar n. 3.853/1999, de 22 de 
 
 **Cargo:** Motorista de Veículos Leves
 
-...................................................................................................<br>
+...................................................................................................
+
 **Requisitos:**
 
 • Conhecimento em condução de veículos de passeio, furgão ou similar para transporte de passageiro e carga; alfabetizado;
@@ -42,7 +44,8 @@ Art. 1º Fica modificado o Anexo II da Lei Complementar n. 3.853/1999, de 22 de 
 
 **Cargo:** Motorista de Veículos pesados
 
-...................................................................................................<br>
+...................................................................................................
+
 **Requisitos:**
 
 • Conhecimento em condução de veículos pesados, como ônibus, caminhões ou carretas, para transporte de passageiros e cargas; alfabetizado;

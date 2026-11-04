@@ -1,5 +1,3 @@
-###DEC-003607-0-000-21-09-2000@@@
-
 DECRETO Nº 3.607, DE 21 DE SETEMBRO DE 2000.
 
 Dispõe sobre a implementação da Convenção sobre Comércio Internacional das Espécies da Flora e Fauna Selvagem em Perigo de Extinção - CITES, e dá outras providências.

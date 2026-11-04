@@ -1,5 +1,3 @@
-###DEC-070312-0-000-22-03-1972@@@
-
 DECRETO Nº 70.312, DE 22 DE MARÇO DE 1972.
 
 Declara de utilidade pública a Sociedade Cedro do Líbano de Proteção à infância, com sede em São Paulo, Estado de São Paulo.

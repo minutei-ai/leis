@@ -1,5 +1,3 @@
-###DEC-046330-0-000-30-06-1959@@@
-
 DECRETO Nº 46.330, DE 30 DE JUNHO DE 1959.
 
 Autoriza a Companhia. Energia Elétrica da Bahia a construir uma linha de transmissão de energia elétrica no município de Salvador, Estado da Bahia, é dá outras providências.

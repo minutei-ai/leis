@@ -1,5 +1,3 @@
-###DEC-070368-0-000-05-04-1972@@@
-
 DECRETO Nº 70.368, DE 5 DE ABRIL DE 1972.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Marinha, e dá outras providências.

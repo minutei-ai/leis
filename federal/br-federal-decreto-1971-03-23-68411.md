@@ -1,5 +1,3 @@
-###DEC-068411-0-000-23-03-1971@@@
-
 DECRETO Nº 68.411, DE 23 DE MARÇO DE 1971.
 
 Concede á Empresa de Mineração Joseph Nigri Ltda. o direito de lavrar argila, município de Suzano, Estado de São Paulo.

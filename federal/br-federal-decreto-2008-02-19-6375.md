@@ -1,5 +1,3 @@
-###DEC-006375-0-000-19-02-2008@@@
-
 DECRETO Nº 6.375, DE 19 DE FEVEREIRO DE 2008.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha sobre Co-Produção Cinematográfica, celebrado em Berlim, em 17 de fevereiro de 2005.
@@ -22,11 +20,7 @@ Brasília, 19 de fevereiro de 2008; 187º da Independência e 120º da Repúblic
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 20.2.2008
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E
+Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E
 
 O GOVERNO DA REPÚBLICA FEDERAL DA ALEMANHA SOBRE
 

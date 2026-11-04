@@ -1,5 +1,3 @@
-###DEC-056739-0-000-17-08-1965@@@
-
 DECRETO Nº 56.739, DE 17 DE AGôSTO DE 1965.
 
 Transfere do Município de Vitória da Conquista para a Companhia de Eletricidade do Estado da Bahia concessão para distribuir energia elétrica.

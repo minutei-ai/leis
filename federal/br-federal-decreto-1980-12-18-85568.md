@@ -1,5 +1,3 @@
-###DEC-085568-0-000-18-12-1980@@@
-
 Decreto nº 85.568, de 18 de dezembro de 1980.
 
 Renova por 15 (quinze) anos a concessão outorgada à RÁDIO TELEVISÃO PARANÁ S.A., e autoriza a transferencia direta para a RÁDIO TELEVISÃO OEME DE LONDRINA LTDA., que passará a executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Curitiba, Estado do Paraná.

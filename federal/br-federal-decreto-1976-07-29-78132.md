@@ -1,5 +1,3 @@
-###DEC-078132-0-000-29-07-1976@@@
-
 DECRETO Nº 78.132, DE 29 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Engenharia Químia da Universidade do Estado do Rio de Janeiro, com sede na cidade do Rio de Janeiro, Rio de Janeiro.

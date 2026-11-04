@@ -1,5 +1,3 @@
-###DEC-078243-0-000-16-08-1976@@@
-
 Decreto nº 78.243, de 16 de agosto de 1976.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Barras, Estado do Piauí.

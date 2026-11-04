@@ -1,5 +1,3 @@
-###MPV-001902-0-056-26-08-1999@@@
-
 Medida provisória nº 1.902-56, de 26 de agosto de 1999
 
 Dá nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996.

@@ -1,5 +1,3 @@
-###DEC-083106-0-000-29-01-1979@@@
-
 Decreto nº 83.106, de 29 de janeiro de 1979
 
 Concede reconhecimento ao curso de Tecnologia em Construção Civil, da Faculdade de Engenharia de Limeira, Estado de São Paulo, integrante da Universidade Estadual de Campinas, Estado de São Paulo.

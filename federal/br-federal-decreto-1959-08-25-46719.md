@@ -1,5 +1,3 @@
-###DEC-046719-0-000-25-08-1959@@@
-
 Decreto nº 46.719, de 25 de agôsto de 1959.
 
 Aprova alterações introduzidas nos estatutos, inclusive aumento do capital social da Jaraguá - Companhia de Seguros Gerais.

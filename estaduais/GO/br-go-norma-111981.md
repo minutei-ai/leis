@@ -34,8 +34,8 @@ Goiânia, 30 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
-Governador do Estado<br>
-<br>
-<br>
+RONALDO CAIADO
+
+Governador do Estado
+
 TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS

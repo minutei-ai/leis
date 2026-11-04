@@ -1,7 +1,3 @@
-1
-
-###DEC-000451-0-000-17-02-1992@@@
-
 DECRETO N° 451, DE 17 DE FEVEREIRO DE 1992
 
 Altera o Anexo ao Decreto n° 243, de 28 de outubro de 1991.

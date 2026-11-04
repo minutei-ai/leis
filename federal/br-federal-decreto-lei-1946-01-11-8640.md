@@ -1,5 +1,3 @@
-###DEL-008640-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.640 – DE 11 DE JANEIRO DE 1946
 
 Revoga o Decreto Municipal n. 5.421, de 1 de março de 1935, e o art. 10 do Decreto-lei n. 249, de 4 de fevereiro de 1938:

@@ -1,5 +1,3 @@
-###DEC-067540-0-000-12-11-1970@@@
-
 DECRETO Nº 67.540, DE 12 DE NOVEMBRO DE 1970.
 
 Declara caduco o Decreto nº 28.497, de 14 de agôsto de 1950.

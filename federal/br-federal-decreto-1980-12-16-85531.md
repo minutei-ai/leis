@@ -1,5 +1,3 @@
-###DEC-085531-0-000-16-12-1980@@@
-
 DECRETO Nº 85.531, DE 16 DE DEZEMBRO DE 1980.
 
 Cria a 1ª Brigada de Artilharia Antiaérea e dá outras providências.

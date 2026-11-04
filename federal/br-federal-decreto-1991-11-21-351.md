@@ -1,7 +1,3 @@
-1
-
-###DEC-000351-0-000-21-11-1991@@@
-
 DECRETO N° 351, DE 21 DE NOVEMBRO DE 1991
 
 Revoga o art. 78 do Regulamento Disciplinar do Exército (R-4), aprovado pelo Decreto n° 90.608, de 4 de dezembro de 1984.

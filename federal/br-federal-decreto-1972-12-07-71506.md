@@ -1,5 +1,3 @@
-###DEC-071506-0-000-07-12-1972@@@
-
 DECRETO Nº 71.506 - DE 7 DE DEZEMBRO DE 1972
 
 Autoriza o funcionamento da Faculdade de Economia São Luiz, mantida pela Sociedade Brasileira de Educação, com sede na cidade de São Paulo, Estado de São Paulo.

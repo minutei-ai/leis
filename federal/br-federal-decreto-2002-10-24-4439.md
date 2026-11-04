@@ -1,5 +1,3 @@
-###DEC-004439-0-000-24-10-2002@@@
-
 DECRETO Nº 4.439, DE 24 DE OUTUBRO DE 2002
 
 Altera dispositivos do Decreto nº 3.965, de 10 de outubro de 2001, que institui o Serviço de Retransmissão de Televisão e o Serviço de Repetição de Televisão, ancilares ao Serviço de Radiodifusão de Sons e Imagens.

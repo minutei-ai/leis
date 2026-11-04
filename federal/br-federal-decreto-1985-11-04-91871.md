@@ -1,5 +1,3 @@
-###DEC-091871-0-000-04-11-1985@@@
-
 Decreto nº 91.871, de 4 de novEMBro de 1985.
 
 Altera o dispositivo do Decreto nº 77.272, de 09 de março de 1976, em decorrência da criação do Grupamento de Fuzileiros Navais de Manaus.

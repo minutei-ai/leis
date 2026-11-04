@@ -1,5 +1,3 @@
-###DEC-006818-0-000-09-04-2009@@@
-
 DECRETO Nº 6.818, DE 9 DE ABRIL DE 2009.
 
 Autoriza o aumento do capital social da Companhia Docas do Pará - CDP, Companhia Docas do Ceará - CDC, Companhia Docas do Rio Grande do Norte CODERN, Companhia Docas do Estado da Bahia - CODEBA, Companhia Docas do Espírito Santo - CODESA, Companhia Docas do Rio de Janeiro - CDRJ e Companhia Docas do Estado de São Paulo - CODESP. 

@@ -1,5 +1,3 @@
-###DEC-073558-0-000-24-01-1974@@@
-
 DECRETO Nº 73.558, DE 24 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º do Decreto número 49.749, de 31 de dezembro de 1960, através do qual foi concedido ao Governo do Estado de Sergipe o direito de lavrar calcário, no Município de Laranjeiras, Estado de Sergipe.

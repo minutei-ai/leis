@@ -1,5 +1,3 @@
-###DEC-055542-0-000-11-01-1965@@@
-
 DECRETO nº 55.542, de 11 de janeiro de 1965.
 
 Autoriza S.A. de Cimento Mineração e Cabotagem Cimimar a lavrar baritina no Município de Cêrro Azul, Estado do Paraná.

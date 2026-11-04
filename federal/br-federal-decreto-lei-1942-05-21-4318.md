@@ -1,5 +1,3 @@
-###DEL-004318-0-000-21-05-1942@@@
-
 DECRETO-LEI N. 4.318 – DE 21 DE MAIO DE 1942
 
 Dispõe sobre a seleção dos operadores das estações de rádio dos navios mercantes nacionais, durante a atual situação internacional e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-003794-0-000-04-11-1941@@@
-
 DECRETO-LEI N. 3.794 – DE 4 DE NOVEMBrO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Agricultura

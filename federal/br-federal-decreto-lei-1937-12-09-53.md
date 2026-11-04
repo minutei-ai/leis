@@ -1,5 +1,3 @@
-###DEL-000053-0-000-09-12-1937@@@
-
 DECRETO-LEI N. 53 – DE 9 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Educação e Saúde, o crédito especial de 49:500$000, para pagamento de diárias aos membros do Conselho Nacional de Educação

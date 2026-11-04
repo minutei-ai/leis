@@ -1,5 +1,3 @@
-###DEC-094064-0-000-27-02-1987@@@
-
 DECRETO N° 94.064, DE 27 DE FEVEREIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, terrenos situados no Município de Santa Leopoldina, Estado do Espírito Santo, destinados à implantação de uma Unidade de Detecção do Sistema DACTA.

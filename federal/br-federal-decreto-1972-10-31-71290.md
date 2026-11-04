@@ -1,5 +1,3 @@
-###DEC-071290-0-000-31-10-1972@@@
-
 DECRETO Nº 71.290 - DE 31 DE OUTUBRO DE 1972.
 
 Prorroga o prazo a que se refere o artigo 4º, do Decreto nº 70.408, de 14 de abril de 1972.

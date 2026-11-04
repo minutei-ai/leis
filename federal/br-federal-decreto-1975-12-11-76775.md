@@ -1,5 +1,3 @@
-###DEC-076775-0-000-11-12-1975@@@
-
 DECRETO Nº 76.775, DE 11 DE DEZEMBRO DE 1975
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linhas de transmissão da Espírito Santo Centrais Elétricas S.A. - ESCELSA, no Estado do Espírito Santo.

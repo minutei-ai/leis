@@ -28,7 +28,6 @@ sha256_markdown: "e51e5134662760e169cc5655f14e7852d277c8de08baa5034c8c0440434353
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # LEI COMPLEMENTAR Nº 123, DE 14 DE DEZEMBRO DE 2006
@@ -2693,9 +2692,7 @@ Art. 88. Esta Lei Complementar entra em vigor na data de sua publicação, ressa
 
 Art. 89. Ficam revogadas, a partir de 1º de julho de 2007, a [Lei nº 9.317, de 5 de dezembro de 1996](https://www.planalto.gov.br/ccivil_03/leis/L9317.htm), e a [Lei nº 9.841, de 5 de outubro de 1999.](https://www.planalto.gov.br/ccivil_03/leis/L9841.htm)
 
-LUIZ INÁCIO LULA DA SILVA Guido Mantega Luiz Marinho Luiz Fernando Furlan Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 15.12.2006, republicado em 31.1.2009, republicado em 31.1.2012 e republicado em 6.3.2012.
+LUIZ INÁCIO LULA DA SILVA Guido Mantega Luiz Marinho Luiz Fernando Furlan Dilma Rousseffem 6.3.2012.
 
 ~~ANEXO I DA LEI COMPLEMENTAR Nº 123, DE 14 DE DEZEMBRO DE 2006~~
 

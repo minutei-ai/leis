@@ -1,5 +1,3 @@
-###DEC-082108-0-000-10-08-1978@@@
-
 Decreto nº 82.108, de 10 de agosto de 1978.
 
 Suspende, em parte, a execução da Lei nº 8.111, de 14 de maio de 1976, do Estado de Goiás.

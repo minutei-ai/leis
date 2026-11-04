@@ -1,5 +1,3 @@
-###DEL-001327-0-000-03-05-1974@@@
-
 # Decreto-lei nº 1.327, de 3 de maio de 1974
 
 Reajusta os vencimentos e salários dos servidores da Justiça Federal de Primeira Instância e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064521-0-000-15-05-1969@@@
-
 DECRETO Nº 64.521, DE 15 DE MAIO DE 1969.
 
 Cria a Comissão Interministerial para Facilitação do Transporte Aéreo Internacional.

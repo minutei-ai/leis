@@ -54,7 +54,8 @@ Art. 6º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 24 de setembro de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO ÚNICO AO DECRETO Nº 540/2026

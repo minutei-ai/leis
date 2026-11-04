@@ -1,5 +1,3 @@
-###DEC-096093-0-000-27-05-1988@@@
-
 DECRETO N° 96.093, DE 27 DE MAIO DE 1988
 
 Altera dispositivos do Decreto n°91.725, de 30 de setembro de 1985.

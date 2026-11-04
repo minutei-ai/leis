@@ -1,5 +1,3 @@
-###MPV-001872-0-017-26-08-1999@@@
-
 Medida Provisória nº 1.872-17, de 26 de agosto de 1999.
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

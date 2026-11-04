@@ -1,5 +1,3 @@
-###DEC-064849-0-000-18-07-1969@@@
-
 DECRETO Nº 64.849 - DE 18 DE JULHO DE 1969.
 
 Inclui no Quadro de Pessoal - Parte Permanente - do Ministério das Minas e Energia servidor da Extinta Comissão do Vale São Francisco, e dá outras providências.

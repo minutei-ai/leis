@@ -1,5 +1,3 @@
-###DEC-083386-0-000-02-05-1979@@@
-
 Decreto nº 83.386, de 02 de maio de 1979.
 
 Altera o artigo 2º do Decreto nº 72.632, de 16 de agosto de 1973, que trata da estrutura básica do Ministério da Indústria e do Comércio e dá outras providências.

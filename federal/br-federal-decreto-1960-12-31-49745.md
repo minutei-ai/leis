@@ -1,5 +1,3 @@
-###DEC-049745-0-000-31-12-1960@@@
-
 DECRETO Nº 49.745, DE 31 DE dezembro DE 1960.
 
 Transfere da Prefeitura Municipal de Guarapari para a “Produtora e Distribuidora de Energia Elétrica de Guarapari S.A.” a concessão para produção e fornecimento de energia elétrica do Município de Guarapari, no Estado do Espírito Santo.

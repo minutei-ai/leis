@@ -1,5 +1,3 @@
-###DEC-060809-0-000-02-06-1967@@@
-
 DECRETO Nº 60.809, DE 2 DE JUNHO DE 1967.
 
 Declara de utilidade pública a “Casa da Samaritana” (Maternidade para Tuberculosas).

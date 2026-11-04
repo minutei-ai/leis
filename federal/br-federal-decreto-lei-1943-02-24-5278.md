@@ -1,5 +1,3 @@
-###DEL-005278-0-000-24-02-1943@@@
-
 DECRETO‑LEI N. 5.278 – DE 24 DE FEVEREIRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 9.393.585,10 para pagamento de fornecimentos efetuados em 1938

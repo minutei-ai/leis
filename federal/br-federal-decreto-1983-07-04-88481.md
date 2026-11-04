@@ -1,5 +1,3 @@
-###DEC-088481-0-000-04-07-1983@@@
-
 Decreto nº 88.481, de 04 de julho de 1983
 
 Altera o Regulamento para o Corpo do Pessoal Graduado da Aeronáutica.

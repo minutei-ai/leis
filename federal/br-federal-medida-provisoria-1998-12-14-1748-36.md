@@ -1,5 +1,3 @@
-###MPV-001748-0-036-14-12-1998@@@
-
 MEDIDA PROVISÓRA Nº 1.748-36, DE 14 DE DEZEMBRO DE 1998.
 
 Altera os arts. 2º, 3º, 4º, 5º, 6º, 7º e 9º da Lei nº 8.745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público, e dá outras providências.

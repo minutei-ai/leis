@@ -1,5 +1,3 @@
-###DEL-005432-0-000-29-04-1943@@@
-
 DECRETO‑LEI N. 5.432 – DE 29 DE ABRIL DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 100.000,00 à verba que especifica

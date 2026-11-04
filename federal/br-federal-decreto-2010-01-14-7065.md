@@ -1,5 +1,3 @@
-###DEC-007065-0-000-14-01-2010@@@
-
 DECRETO Nº 7.065, DE 14 DE JANEIRO DE 2010.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel sobre Assistência Mútua Administrativa para a Correta Aplicação da Legislação Aduaneira e a Prevenção, Investigação e Combate a Infrações Aduaneiras, firmado em Jerusalém, em 19 de junho de 2006.

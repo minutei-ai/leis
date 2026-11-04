@@ -1,5 +1,3 @@
-###DEC-088690-0-000-12-09-1983@@@
-
 Decreto nº 88.690, de 12 de setembro de 1983
 
 Concede à Companhia Eletromecânica CELMA autorização para proceder a aumento de seu capital.

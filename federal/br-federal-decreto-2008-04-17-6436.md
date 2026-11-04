@@ -1,5 +1,3 @@
-###DEC-006436-0-000-17-04-2008@@@
-
 DECRETO Nº 6.436, DE 17 DE ABRIL DE 2008.
 
 Dispõe sobre a criação do Consulado-Geral do Brasil em Hartford, nos Estados Unidos da América, e dá outra providência.
@@ -19,5 +17,3 @@ Brasília, 17 de abril de 2008; 187º da Independência e 120º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 18.4.2008

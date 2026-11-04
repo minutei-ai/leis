@@ -1,5 +1,3 @@
-###DEC-062194-0-000-31-01-1968@@@
-
 DECRETO Nº 62.194, DE 31 DE JANEIRO DE 1968.
 
 Concede a transferência direta para a Rádio Globo Capital Ltda. da Concessão outorgada à Rádio Rio Ltda. pelo Decreto nº 35, de 12 de Outubro de 1961.

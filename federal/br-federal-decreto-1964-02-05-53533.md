@@ -1,5 +1,3 @@
-###DEC-053533-0-000-05-02-1964@@@
-
 DECRETO Nº 53.533, DE 5 DE FEVEREIRO DE 1964.
 
 Institui a Campanha Nacional de Desenvolvimento das Escolas da Comunidade.

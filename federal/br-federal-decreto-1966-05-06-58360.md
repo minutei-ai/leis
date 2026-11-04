@@ -1,5 +1,3 @@
-###DEC-058360-0-000-06-05-1966@@@
-
 DECRETO N 58.360, DE 6 DE MAIO DE 1966.
 
 Suprime cargo extinto.

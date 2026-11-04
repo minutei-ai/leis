@@ -1,5 +1,3 @@
-###DEC-050711-0-000-31-05-1961@@@
-
 DECRETO Nº 50.711, DE 31 DE MAIO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado do Ceará as águas do rio Sororô.

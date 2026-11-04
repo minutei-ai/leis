@@ -1,5 +1,3 @@
-###DEC-004751-0-000-17-06-2003@@@
-
 DECRETO Nº 4.751, DE 17 DE JUNHO DE 2003.
 
        Dispõe sobre o Fundo PIS-PASEP, criado pela Lei Complementar nº 26, de 11 de setembro de 1975, sob a denominação de PIS-PASEP, e dá outras providências.
@@ -144,5 +142,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 17 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Bernard Appy

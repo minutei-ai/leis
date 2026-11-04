@@ -1,5 +1,3 @@
-###DEC-050468-0-000-15-04-1961@@@
-
 DECRETO Nº 50.468, DE 15 DE ABRIL DE 1961.
 
 Regula a concessão de parcelamento a que se refere o artigo 260 do Regulamento Geral da Previdência Social, e dá outras providências.

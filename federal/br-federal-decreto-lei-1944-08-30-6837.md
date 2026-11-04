@@ -1,5 +1,3 @@
-###DEL-006837-0-000-30-08-1944@@@
-
 DECRETO-LEI N. 6.837 – DE 30 DE AGÔSTO DE 1944
 
 Modifica o art. 84 do Decreto-lei nº 2.035, da 27 de fevereiro de 1940, que dispôs sôbre a organização da Justiça do Distrito Federal

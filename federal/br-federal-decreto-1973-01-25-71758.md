@@ -1,5 +1,3 @@
-###DEC-071758-0-000-25-01-1973@@@
-
 DECRETO Nº 71.758, DE 25 DE JANEIRO DE 1973.
 
 Concede reconhecimento aos cursos de Matemática, Letras, História e Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Tupã, da Instituição "Tamoios" de Ensino e Cultura, Tupã, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-084750-0-000-28-05-1980@@@
-
 Decreto nº 84.750, de 28 de maio de 1980.
 
 Altera a composição do Conselho Nacional de Política Penitenciária.

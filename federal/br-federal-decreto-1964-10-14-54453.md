@@ -1,5 +1,3 @@
-###DEC-054453-0-000-14-10-1964@@@
-
 DECRETO Nº 54.453, DE 14 DE OUTUBRO DE 1964.
 
 Concede à Ibrasa - Indústria Brasileira de Mármores S.A. autorização para funcionar como emprêsa de mineração.

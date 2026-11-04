@@ -1,5 +1,3 @@
-###DEC-094614-0-000-14-07-1987@@@
-
 DECRETO N° 94.614, DE 14 DE JULHO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Tingui", classificado no Cadastro de Imóveis Rurais no INCRA, como latifúndio por exploração, situado nos Municípios de Santa Rosa de Lima, Malhador e Riachuelo, no Estado de Sergipe, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.687, de 19 de maio de 1986 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050951-0-000-14-07-1961@@@
-
 DECRETO Nº 50.951, 14 de julho de 1961.
 
 Concede reconhecimento de curso que indica.

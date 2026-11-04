@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/12273)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1994/compilacao-lei-8975-25.11.1994.html)
 
 # LEI N° 8.975, DE 25 DE NOVEMBRO DE 1994
@@ -7,7 +6,8 @@
 
 ### _Dispõe sobre concessão de Prêmio de Incentivo aos Servidores em exercício na Secretaria da Saúde, nas condições que especifica_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
 ~~**Artigo 1° -** Poderá ser concedido, em caráter experimental e transitório, pelo prazo de 12 (doze) meses, Prêmio de Incentivo aos servidores em exercício na Secretaria da Saúde, objetivando o incremento da produtividade e o aprimoramento da qualidade dos serviços prestados na área da saúde, mediante avaliação dos seguintes fatores:~~
@@ -84,8 +84,10 @@ _\- § 2° com redação dada pela [Lei Complementar n° 1.250, de 03/07/2014](h
 
 _\- § 3° acrescentado pela [Lei Complementar n° 1.250, de 03/07/2014](https://www.al.sp.gov.br/norma/173151), com efeitos a partir de 01/08/2014._
 
-**Artigo 3° -** A Secretaria da Fazenda adotará as providências necessárias à implantação do pagamento do prêmio de que trata esta lei.**<br>
-Artigo 4° -** O Prêmio de Incentivo não se incorporará aos vencimentos ou salários para nenhum efeito, e sobre ele não incidirão vantagens de qualquer natureza, bem como os descontos previdenciários e de assistência médica.**<br>
+**Artigo 3° -** A Secretaria da Fazenda adotará as providências necessárias à implantação do pagamento do prêmio de que trata esta lei.**
+
+Artigo 4° -** O Prêmio de Incentivo não se incorporará aos vencimentos ou salários para nenhum efeito, e sobre ele não incidirão vantagens de qualquer natureza, bem como os descontos previdenciários e de assistência médica.**
+
 Parágrafo único -** O valor do Prêmio de Incentivo não será computado no cálculo do décimo terceiro salário a que se refere a [Lei Complementar n. 644, de 26 de dezembro de 1989](https://www.al.sp.gov.br/norma/23602). 
 
 ~~Artigo 4°-A - O disposto nesta lei aplica-se aos servidores das autarquias vinculadas à Secretaria da Sáude, desde que não estejam percebendo ou venham a perceber, vantagem pecuniária, de qualquer natureza ou sob qualquer fundamento, retribuída mediante recursos provenientes do Ministério da Saúde/Sistema Único de Saúde - SUS/SP. (NR)~~
@@ -132,12 +134,20 @@ _\- § 2° com redação dada pela [Lei Complementar n° 1.250, de 03/07/2014](h
 
 _\- Vide [Lei Complementar n° 1.387, de 03/07/2023](https://www.al.sp.gov.br/norma/208239)._
 
-Palácio dos Bandeirantes, 25 de novembro de 1994.<br>
-LUIZ ANTONIO FLEURY FILHO<br>
-Cármino Antonio de Souza<br>
-Secretário da Saúde<br>
-Avanir Duran Galhardo<br>
-Secretário da Administração  e Modernização do Serviço Público<br>
-Frederico Pinto Ferreira Coelho Neto<br>
-Secretário do Governo<br>
+Palácio dos Bandeirantes, 25 de novembro de 1994.
+
+LUIZ ANTONIO FLEURY FILHO
+
+Cármino Antonio de Souza
+
+Secretário da Saúde
+
+Avanir Duran Galhardo
+
+Secretário da Administração  e Modernização do Serviço Público
+
+Frederico Pinto Ferreira Coelho Neto
+
+Secretário do Governo
+
 Publicada na Assessoria Técnico-Legislativa, aos 25 de novembro de 1994.

@@ -1,5 +1,3 @@
-###DEC-062331-0-000-01-03-1968@@@
-
 DECRETO Nº 62.331, DE 1º DE MARÇO DE 1968.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Companhia de Energia Elétrica Itabirito S. A., no município de Moeda, Estado de Minas Gerais e outorga concessão à Centrais Elétricas de Minas Gerais S. A. no município de Moeda, Estado de Minas Gerais.

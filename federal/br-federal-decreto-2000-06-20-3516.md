@@ -1,5 +1,3 @@
-###DEC-003516-0-000-20-06-2000@@@
-
 DECRETO Nº 3.516, DE 20 DE JUNHO DE 2000.
 
 Regulamenta o parágrafo único do art. 52 da Lei nº 9.096, de 19 de setembro de 1995, para os efeitos de ressarcimento fiscal pela propaganda partidária gratuita relativamente ao ano-calendário de 2000 e subsequentes.

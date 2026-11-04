@@ -1,5 +1,3 @@
-###DEC-084688-0-000-06-05-1980@@@
-
 DECRETO Nº 84.688, DE 06 DE MAIO DE 1980
 
 Concede ao Banco Nacional de Desenvolvimento Econômico - BNDE autorização para proceder o aumento do seu Capital Social.

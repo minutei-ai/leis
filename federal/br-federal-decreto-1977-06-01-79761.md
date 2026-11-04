@@ -1,5 +1,3 @@
-###DEC-079761-0-000-01-06-1977@@@
-
 decreto nº 79.761, de 1 de junho de 1977
 
 Altera dispositivos do Regulamento do Código Nacional de Trânsito.

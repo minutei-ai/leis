@@ -1,5 +1,3 @@
-###DEC-002941-0-000-18-01-1999@@@
-
 DECRETO Nº 2.941, DE 18 DE JANEIRO DE 1999.
 
 Altera característica das Notas do Tesouro Nacional, Série I -  NTN-I emitidas no período de janeiro de 1998 a dezembro de 1999.

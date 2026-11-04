@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.124, de 11 de Julho de 2023.](https://legis.ac.gov.br
 
 > **LEI Nº 3.799, DE 28 DE OUTUBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria a Carteira Estadual da Pessoa com Transtorno do Espectro Autista - e-CEPTEA e a Carteira Estadual da Pessoa com Síndrome de Down - e-CEPSD</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria a Carteira Estadual da Pessoa com Transtorno do Espectro Autista - e-CEPTEA e a Carteira Estadual da Pessoa com Síndrome de Down - e-CEPSD
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE,**
 
@@ -91,15 +95,5 @@ Rio Branco-Acre, 28 de outubro de 2021, 133º da República, 119º do Tratado de
 **Gladson de Lima Cameli**
 
 Governador do Estado do Acre
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 \*Ementa original "Cria a Carteira Estadual da Pessoa com Transtorno do Espectro Autista - e-CEPTEA" alterada pela Lei nº 4.124, de 11/07/2023, para "Cria a Carteira Estadual da Pessoa com Transtorno do Espectro Autista - e-CEPTEA e a Carteira Estadual da Pessoa com Síndrome de Down - e-CEPSD".

@@ -1,6 +1,10 @@
 > **LEI Nº 4.573, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade de informar mulheres em situação de violência doméstica e familiar sobre a possibilidade de concessão do auxílio-aluguel.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade de informar mulheres em situação de violência doméstica e familiar sobre a possibilidade de concessão do auxílio-aluguel.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

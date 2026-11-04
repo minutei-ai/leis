@@ -1,5 +1,3 @@
-###DEC-004107-0-000-28-01-2002@@@
-
 DECRETO Nº 4.107, DE 28 DE JANEIRO DE 2002.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte sobre Transferência de Presos, celebrado em Londres, em 20 de agosto de 1998.
@@ -218,4 +216,22 @@ Em fé do que, os signatários, devidamente autorizados por seus respectivos gov
 
 Feito em Londres, em 20 de agosto de 1998, em dois exemplares originais, nos idiomas português e inglês, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:264.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Renan Calheiros</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Ministro de Estados da Justiça</span></p></td><td style="width:284.25pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Franklin Berman</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Subsecretário de Estado Adjunto e</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Consultor Jurídico do Secretário de Estado dos Negócios Estrangeiros</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:264.75pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+Renan Calheiros
+
+Ministro de Estados da Justiça
+
+</td><td style="width:284.25pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Pelo Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte
+
+Franklin Berman
+
+Subsecretário de Estado Adjunto e
+
+Consultor Jurídico do Secretário de Estado dos Negócios Estrangeiros
+
+</td></tr></tbody></table>

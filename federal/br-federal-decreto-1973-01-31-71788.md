@@ -1,5 +1,3 @@
-###DEC-071788-0-000-31-01-1973@@@
-
 DECRETO Nº 71.788, de 31 de janeiro de 1973.
 
 Aprova o Regulamento da Diretoria de Contencioso de Pessoal, do Departamento Geral de Pessoal do Exército, e dá outras providências.

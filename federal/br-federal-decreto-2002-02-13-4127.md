@@ -1,5 +1,3 @@
-###DEC-004127-0-000-13-02-2002@@@
-
 DECRETO Nº 4.127, DE 13 DE FEVEREIRO DE 2002.
 
 Promulga o Ajuste Complementar entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai sobre a Constituição de um Programa de Cooperação Técnica, celebrado em Assunção, em 10 de novembro de 1989.

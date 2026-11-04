@@ -1,5 +1,3 @@
-###DEL-004504-0-000-22-07-1942@@@
-
 DECRETO-LEI N. 4.504 – DE 22 DE JULHO DE 1942
 
  Dispõe sobre a criação de núcleos coloniais agro-industriais

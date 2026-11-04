@@ -1,5 +1,3 @@
-###DEC-002582-0-000-07-05-1998@@@
-
 DECRETO Nº 2.582, DE 7 DE MAIO DE 1998
 
 Dá nova redação ao § 5º do art. 9º do Decreto nº 99.684, de 8 de novembro de 1990, que aprova o Regulamento Consolidado do Fundo de Garantia do Tempo de Serviço - FGTS e dá outras providências.

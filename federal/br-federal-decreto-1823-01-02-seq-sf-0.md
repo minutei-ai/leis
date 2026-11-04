@@ -1,5 +1,3 @@
-###DEC-000000-0-000-02-01-1823@@@
-
 DECRETO - DE 2 DE JANEIRO DE 1823
 
 Approva o uniforme do Batalhão de Infantaria do Milicias da Provincia de S. Pedro do Sul.

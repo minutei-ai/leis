@@ -1,5 +1,3 @@
-###DEC-006261-0-000-20-11-2007@@@
-
 DECRETO Nº 6.261, DE 20 DE NOVEMBRO DE 2007.
 
 Dispõe sobre a gestão integrada para o desenvolvimento da Agenda Social Quilombola no âmbito do Programa Brasil Quilombola, e dá outras providências.
@@ -71,5 +69,3 @@ Dispõe sobre a gestão integrada para o desenvolvimento da Agenda Social Quilom
 LUIZ INÁCIO LULA DA SILVA
 
 Erenice Guerra
-
-Este texto não substitui o publicado no DOU de 21.11.2007

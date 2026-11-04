@@ -1,5 +1,3 @@
-###DEC-088487-0-000-06-07-1983@@@
-
 Decreto nº 88.487, de 06 de julho de 1983
 
 Declara de utilidade pública, para fim de desapropriação, terrenos situados na cidade de Manaus, Estado do Amazonas, destinados ao Tribunal Regional do Trabalho da 11ª  Região.

@@ -1,5 +1,3 @@
-###DEL-005981-0-000-10-11-1943@@@
-
 DECRETO-LEI N. 5.981 - DE 10 DE NOVEMBRO DE 1943
 
 Ratifica os Convênios Nacionais de Estatística Municipal, e dá outras providências

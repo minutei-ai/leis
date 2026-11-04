@@ -1,5 +1,3 @@
-###DEC-055911-0-000-12-04-1965@@@
-
 DECRETO Nº 55.911, DE 12 DE ABRIL DE 1965.
 
 Concede  autorização para o funcionamento dos Cursos de História e matemática da Faculdade de Filosofia “Cristo-Rei”, de São Leopoldo, no Estado do Rio Grande do Sul.

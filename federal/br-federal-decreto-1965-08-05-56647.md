@@ -1,5 +1,3 @@
-###DEC-056647-0-000-05-08-1965@@@
-
 Decreto nº 56.647, de 5 de agôsto de 1965.
 
 Outorga à Companhia Sul Sergipana de Eletricidade Concessão para distribuir energia elétrica.

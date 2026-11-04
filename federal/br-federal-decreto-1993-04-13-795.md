@@ -1,7 +1,3 @@
-1
-
-###DEC-000795-0-000-13-04-1993@@@
-
 DECRETO N° 795, DE 13 DE ABRIL DE 1993
 
 Atribui à Superintendência do Desenvolvimento do Nordeste SUDENE o acompanhamento e a avaliação das ações de defesa civil, na área de sua atuação, e dá outras providências.

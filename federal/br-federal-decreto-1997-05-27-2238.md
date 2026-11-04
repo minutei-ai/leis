@@ -1,5 +1,3 @@
-###DEC-002238-0-000-27-05-1997@@@
-
 DECRETO Nº 2.238, DE 27 DE MAIO DE 1997
 
 Dá nova redação ao art. 3º do Decreto nº 1.509, de 31 de maio de 1995, que dispõe sobre a contratação de pessoal, por tempo determinado, para atender necessidade temporária de excepcional interesse público.

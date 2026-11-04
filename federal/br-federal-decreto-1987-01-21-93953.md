@@ -1,5 +1,3 @@
-###DEC-093953-0-000-21-01-1987@@@
-
 DECRETO Nº 93.953, DE 21 DE JANEIRO DE 1987
 
 Altera a denominação e a subordinação da Secretaria de Imprensa e Divulgação - SID e dá outras providências.

@@ -34,5 +34,6 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 1
 
  
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal

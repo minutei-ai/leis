@@ -1,5 +1,3 @@
-###DEC-060293-0-000-03-03-1967@@@
-
 DECRETO Nº 60.293, DE 3 DE MARÇO DE 1967.
 
 Altera o Decreto nº 55.090-A, de 28 de novembro de 1964. - Regulamento da Lei de Promoções de Oficiais do Exército.

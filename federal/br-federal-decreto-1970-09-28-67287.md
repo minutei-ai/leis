@@ -1,5 +1,3 @@
-###DEC-067287-0-000-28-09-1970@@@
-
 decreto nº 67.287, de 28 de setembro de 1970.
 
 Cassa concessões outorgadas à Televisão Excelsior S. A., da cidade de São Paulo, e à Televisão Excelsior Rio de Janeiro, Estado da Guanabara.

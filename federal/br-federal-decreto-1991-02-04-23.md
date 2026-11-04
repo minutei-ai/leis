@@ -1,5 +1,3 @@
-###DEC-000023-0-000-04-02-1991@@@
-
 DECRETO Nº 23, DE 4 DE FEVEREIRO DE 1991.
 
 Dispõe sobre as condições para a prestação de assistência à saúde das populações indígenas.

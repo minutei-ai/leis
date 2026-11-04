@@ -1,5 +1,3 @@
-###DEL-007273-0-000-25-01-1945@@@
-
 DECRETO-LEI N. 7.273 – DE 25 DE JANEIRO DE 1945
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 1.361.736,80 para pagamento a “Metropolitan Vickers Electrical Export Company Limited"

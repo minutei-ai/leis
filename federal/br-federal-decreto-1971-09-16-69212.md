@@ -1,5 +1,3 @@
-###DEC-069212-0-000-16-09-1971@@@
-
 DECRETO Nº 69.212, DE 16 DE SETEMBRO DE 1971.
 
 Altera o Regulamento Geral dos Transportes para as Estradas de Ferro Brasileiras, aprovado pelo Decreto nº 51.813, de 8 de março de 1963.

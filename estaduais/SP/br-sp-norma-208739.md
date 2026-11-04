@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208739)<br>
-
 # DECRETO N° 68.048, DE 31 DE OUTUBRO DE 2023
 
 ### _Institui a Medalha Cinquentenário do 2° Batalhão de Polícia Militar do Interior e dá providências correlatas._

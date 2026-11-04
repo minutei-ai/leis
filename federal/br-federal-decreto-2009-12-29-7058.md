@@ -1,5 +1,3 @@
-###DEC-007058-0-000-29-12-2009@@@
-
 DECRETO Nº 7.058 DE 29 DE DEZEMBRO DE 2009.
 
 Dá nova redação ao art. 96 do Decreto no 93.872, de 23 de dezembro de 1986, que dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza e consolida a legislação pertinente e dá outras providências.

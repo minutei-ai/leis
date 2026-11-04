@@ -1,5 +1,3 @@
-###DEC-049786-0-000-31-12-1960@@@
-
 DECRETO Nº 49.786, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza Indústria de Mármores, Granitos “Simwal” a pesquisar mármore e Granito no município de São Tomé, Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###LEI-000000-0-001-27-10-1831@@@
-
 LEI - DE 27 DE OUTUBRO DE 1831
 
 Revoga as Cartas Régias que mandaram fazer guerra, e pôr em servidão os indios.

@@ -1,5 +1,3 @@
-###MPV-002035-0-027-23-11-2000@@@
-
 MEDIDA PROVISÓRIA No 2.035-27, DE 23 DE NOVEMBRO DE 2000.
 
 Dispõe sobre as operações com recursos dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste, de que trata a Lei no 7.827, de 27 de setembro de 1989, e dá outras providências.

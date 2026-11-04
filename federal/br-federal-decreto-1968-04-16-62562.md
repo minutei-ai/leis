@@ -1,5 +1,3 @@
-###DEC-062562-0-000-16-04-1968@@@
-
 Decreto nº 62.562, de 16 de abril de 1968.
 
 Exclui dos efeitos do Decreto nº 62.234, de 7 de fevereiro de 1968, um cargo de Veterinário, TC-1001.17.A, com o respectivo ocupante, que especifica.

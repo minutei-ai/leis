@@ -1,5 +1,3 @@
-###DEC-004489-0-000-28-11-2002@@@
-
 DECRETO Nº 4.489, DE 28 DE NOVEMBRO DE 2002
 
 Regulamenta o art. 5º da Lei Complementar nº 105, de 10 de janeiro de 2001, no que concerne à prestação de informações à Secretaria da Receita Federal do Ministério da Fazenda, pelas instituições financeiras e as entidades a elas equiparadas, relativas às operações financeiras efetuadas pelos usuários de seus serviços.

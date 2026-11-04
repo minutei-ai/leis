@@ -1,5 +1,3 @@
-###DEL-000425-0-000-21-01-1969@@@
-
 DECRETO-LEI Nº 425, de 21 de janeiro de 1969
 
 Revoga o Parágrafo único do artigo 4º, da Lei nº 5.550, de 4 de dezembro de 1968.

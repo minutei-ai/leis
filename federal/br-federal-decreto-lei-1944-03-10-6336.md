@@ -1,5 +1,3 @@
-###DEL-006336-0-000-10-03-1944@@@
-
 DECRETO-LEI N. 6.336 – DE 10 DE MARÇO DE 1944
 
 Desapropria, para fins de utilidade pública, terreno em Natal, Estado do Rio Grande do Norte

@@ -1,5 +1,3 @@
-###DEC-075554-0-000-02-04-1975@@@
-
 DECRETO Nº 75.554, DE 2 DE ABRIL DE 1975.
 
 Cria Organização Militar e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048739-0-000-04-08-1960@@@
-
 DECRETO Nº 48.739, DE 4 DE AGÔSTO DE 1960.
 
 Constitui um Grupo de Trabalho incumbido de estudar a economia da Bacia Hidrográfica do Rio Paraíba do Sul e propor medidas necessárias à dinamização de seu desenvolvimento ordenado, bem como melhor integrá-lo na economia nacional.

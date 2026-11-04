@@ -1,5 +1,3 @@
-###DEC-006056-0-000-06-03-2007@@@
-
 DECRETO Nº 6.056, DE 6 DE MARÇO DE 2007.
 
 Promulga o Tratado de Extradição entre a República Federativa do Brasil e a Federação da Rússia, celebrado em Moscou, em 14 de janeiro de 2002.
@@ -24,11 +22,7 @@ Brasília, 6 de março de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 7.3.2007.
-
-TRATADO DE EXTRADIÇÃO ENTRE A REPUBLICA FEDERATIVA DO BRASIL E A FEDERAÇÃO DA RÚSSIA
+Samuel Pinheiro Guimarães NetoTRATADO DE EXTRADIÇÃO ENTRE A REPUBLICA FEDERATIVA DO BRASIL E A FEDERAÇÃO DA RÚSSIA
 
 A República Federativa do Brasil
 

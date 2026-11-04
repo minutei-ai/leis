@@ -1,5 +1,3 @@
-###DEC-058395-0-000-10-05-1966@@@
-
 DECRETO Nº 58.395, de 10 de maio de 1966.
 
 Dispõe sôbre a realização das Assembléias Gerais do Instituto Brasileiro de Geografia e Estatística, em 1966.

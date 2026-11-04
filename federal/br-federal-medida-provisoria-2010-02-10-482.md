@@ -1,5 +1,3 @@
-###MPV-000482-0-000-10-02-2010@@@
-
 MEDIDA PROVISÓRIA Nº 482, DE 10 DE FEVEREIRO DE 2010.
 
 Dispõe sobre medidas de suspensão de concessões ou outras obrigações do País relativas aos direitos de propriedade intelectual e outros, em casos de descumprimento de obrigações do Acordo Constitutivo da Organização Mundial do Comércio - OMC.

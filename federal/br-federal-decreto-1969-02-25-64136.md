@@ -1,5 +1,3 @@
-###DEC-064136-0-000-25-02-1969@@@
-
 DECRETO Nº 64.136, DE 25 FEVEREIRO DE 1969.
 
 Aprova o Regimento Interno da Inspetoria-Geral de Finanças do Ministério da Fazenda.

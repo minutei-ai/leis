@@ -1,5 +1,3 @@
-###DEC-097082-0-000-21-11-1988@@@
-
 DECRETO N° 97.082, DE 21 DE NOVEMBRO DE 1988
 
 Autoriza o funcionamento dos cursos de História e de Geografia da Faculdade de Filosofia “Cora Coralina”.

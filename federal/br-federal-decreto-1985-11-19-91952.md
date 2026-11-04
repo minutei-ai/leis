@@ -1,5 +1,3 @@
-###DEC-091952-0-000-19-11-1985@@@
-
 DECRETO Nº 91.952, de 19 de novembro de 1985
 
 Transfere do Conselho Nacional do Petróleo para a Companhia Auxiliar de Empresas Elétricas Brasileiras a guarda e a manutenção dos estoques de carvão mineral energético, e dá outras providências.

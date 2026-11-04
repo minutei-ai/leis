@@ -1,14 +1,12 @@
-###DEC-027396-0-000-04-11-1949@@@
+**DECRETO Nº 27.396, DE 4 DE NOVEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.396, DE 4 DE NOVEMBRO DE 1949.</strong>
+***Fixas os preços básicos mínimos para financiamento ou aquisição de cereais e outros gêneros de primeira necessidade, de produção nacional, para o ano de 1950.***
 
-<em><strong>Fixas os preços básicos mínimos para financiamento ou aquisição de cereais e outros gêneros de primeira necessidade, de produção nacional, para o ano de 1950.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e tendo em vista o disposto no art. 1º, § 2º, da Lei n º 615, de 2 de fevereiro de 1949,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e tendo em vista o disposto no art. 1º, § 2º, da Lei n º 615, de 2 de fevereiro de 1949,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º As bases, a vigorar no ano de 1950, dos preços FOB portos do país e as especificações dos cereais e outros gêneros mencionados no artigo 2º do Decreto-lei nº 9.879, de 16 de setembro de 1946, são abaixo descriminadas:
+**Art**. 1º As bases, a vigorar no ano de 1950, dos preços FOB portos do país e as especificações dos cereais e outros gêneros mencionados no artigo 2º do Decreto-lei nº 9.879, de 16 de setembro de 1946, são abaixo descriminadas:
 
 Arroz
 
@@ -38,10 +36,10 @@ Trigo em grão
 
 Dois cruzeiros e cinquenta centavos) (Cr$2,50) por quilo para o produto limpo sêco e ensacado e com o peso de setenta e oito (78) quilos por hectolitro.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 4 de novembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Guilherme da Silveira

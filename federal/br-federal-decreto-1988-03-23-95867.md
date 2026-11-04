@@ -1,7 +1,3 @@
-1
-
-###DEC-095867-0-000-23-03-1988@@@
-
 DECRETO N° 95.867, DE 23 DE MARÇO DE 1988
 
 Autoriza a Universidade Federal de Santa Maria a alienar bens imóveis de sua propriedade, situados no Município de Irai, no Estado do Rio Grande do Sul, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082853-0-000-18-12-1978@@@
-
 Decreto nº 82.853, de 18 de dezembro de 1978
 
 Declara de utilidade pública, para fins de desapropriação total, imóvel constituído por prédio e respectivo terreno situado no Município de Porto Alegre, Estado do Rio Grande do Sul.

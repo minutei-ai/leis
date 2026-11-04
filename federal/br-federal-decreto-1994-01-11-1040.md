@@ -1,7 +1,3 @@
-1
-
-###DEC-001040-0-000-11-01-1994@@@
-
 DECRETO Nº 1.040, DE 11 DE JANEIRO DE 1994
 
 Determina aos agentes financeiros oficiais a inclusão, entre as linhas prioritárias de crédito e financiamento, dos projetos destinados à conservação e uso racional da energia e ao aumento da eficiência energética.

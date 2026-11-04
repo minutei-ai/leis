@@ -1,5 +1,3 @@
-###DEC-073429-0-000-09-01-1974@@@
-
 DECRETO Nº 73.429, DE 9 DE JANEIRO DE 1974.
 
 Cria funções gratificados no Quadro de Pessoal do Ministério da Aeronáutica.

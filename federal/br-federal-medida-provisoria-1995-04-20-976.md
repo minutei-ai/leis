@@ -1,7 +1,3 @@
-1
-
-###MPV-000976-0-000-20-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 976, DE 20 DE ABRIL DE 1995.
 
 Dispõe sobre o valor do salário mínimo, altera disposições das Leis nº 8.212 e nº 8.213, ambas de 24 de julho de 1991, e dá outras providências.

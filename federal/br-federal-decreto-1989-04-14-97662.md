@@ -1,7 +1,3 @@
-1
-
-###DEC-097662-0-000-14-04-1989@@@
-
 DECRETO N° 97.662, DE 14 DE ABRIL DE 1989
 
 Altera o artigo 1° e parágrafo único do Decreto n° 93.209, de 03 de setembro de 1986, que institui a Medalha de Serviço Amazônico .

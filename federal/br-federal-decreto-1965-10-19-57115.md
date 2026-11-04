@@ -1,5 +1,3 @@
-###DEC-057115-0-000-19-10-1965@@@
-
 DECRETO Nº 57.115, DE 19 DE OUTUBRO DE 1965.
 
 Autoriza Jan Bobylow, a comprar pedras preciosas.

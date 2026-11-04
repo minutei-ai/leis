@@ -6,13 +6,14 @@ Denomina "JOAQUIM NATÁRIO FILHO", a EEPSG localizada no Bairro Santa Fé, munic
 
 Publicada no Diário Oficial nº 2.606, de 24 de julho de 1989.
 
-O Governador do Estado de Mato Grosso do Sul, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º - Fica denominada "JOAQUIM NATÁRIO FILHO" a Escola Estadual de Primeiro e Segundo Graus, localizada no Bairro Santa Fé, no município de Rio Negro-MS.<br>
-<br>
-Art. 2º - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 21 de julho de 1989.<br>
-<br>
-MARCELO MIRANDA SOARES<br>
+O Governador do Estado de Mato Grosso do Sul, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º - Fica denominada "JOAQUIM NATÁRIO FILHO" a Escola Estadual de Primeiro e Segundo Graus, localizada no Bairro Santa Fé, no município de Rio Negro-MS.
+
+Art. 2º - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Campo Grande, 21 de julho de 1989.
+
+MARCELO MIRANDA SOARES
+
 Governador

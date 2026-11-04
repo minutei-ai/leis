@@ -60,8 +60,6 @@ Art. 8º Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de su
 
 Goiânia, 4 de agosto de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

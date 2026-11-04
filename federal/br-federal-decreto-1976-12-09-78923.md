@@ -1,5 +1,3 @@
-###DEC-078923-0-000-09-12-1976@@@
-
 DECRETO Nº 78.923, DE 9 DE DEZEMBRO DE 1976.
 
 Concede à Empresa de Mineração Argical Ltda. o direito de lavrar argila no Município de Magé, Estado do Rio de Janeiro.

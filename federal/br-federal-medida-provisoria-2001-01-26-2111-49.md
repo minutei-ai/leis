@@ -1,5 +1,3 @@
-###MPV-002111-0-049-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.111-49, DE 26 DE JANEIRO DE 2001
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

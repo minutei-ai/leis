@@ -1,5 +1,3 @@
-###DEC-055219-0-000-15-12-1964@@@
-
 DECRETO Nº 55.219, DE 15 DE DEZEMBRO DE 1964.
 
 Autoriza a Mineração Catas Altas Ltda. a pesquisar minério de ferro, no município de Santa Bárbara, Estado de Minas Gerais.

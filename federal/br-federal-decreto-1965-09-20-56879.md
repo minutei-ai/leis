@@ -1,5 +1,3 @@
-###DEC-056879-0-000-20-09-1965@@@
-
 DECRETO Nº 56.879, DE 20 De SETEMBRO DE 1965.
 
 Concede autorização para funcionamento no curso de pedagogia, da Faculdade de Filosofia e Letras de Juiz de Fora.
@@ -15,8 +13,6 @@ Brasília, 20 de setembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Flávio Lacerda
-
-###DEC-056879-0-000-20-09-1965@@@RET01+++
 
 DECRETO Nº 56.879, DE 20 DE SETEMBRO DE 1965.
 

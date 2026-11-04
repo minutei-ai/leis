@@ -1,5 +1,3 @@
-###DEL-004521-0-000-24-07-1942@@@
-
 DECRETO-LEI N. 4.521 – DE 24 DE JULHO DE 1942
 
 Reorganiza a Comissão Nacional de Gasogênio do Ministério da Agricultura

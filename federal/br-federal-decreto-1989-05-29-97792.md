@@ -1,7 +1,3 @@
-1
-
-###DEC-097792-0-000-29-05-1989@@@
-
 DECRETO N° 97.792, DE 29 DE MAIO DE 1989
 
 Altera o Decreto n° 86.829, de 12 de janeiro de 1982, e o Regulamento da Comissão Nacional para os Assuntos Antárticos - CONANTAR, aprovado pelo Decreto n° 88.245, de 20 de abril de 1983.

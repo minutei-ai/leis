@@ -1,5 +1,3 @@
-###DEC-002388-0-000-17-11-1997@@@
-
 DECRETO Nº 2.388, DE 17 DE NOVEMBRO DE 1997
 
 Dispõe sobre a aplicação, no exercício de 1997, do art. 11 do Decreto nº 825, de 28 de maio de 1993, que estabelece normas para a programação financeira dos Orçamentos Fiscal e da Seguridade Social e aprova quadros de cotas trimestrais de despesa para o Poder Executivo.

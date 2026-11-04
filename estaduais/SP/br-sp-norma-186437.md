@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/186437)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2018/compilacao-lei-16725-22.05.2018.html)
 
 # LEI N° 16.725, DE 22 DE MAIO DE 2018
@@ -9,9 +8,12 @@
 
 ### _~~Dispõe sobre o tempo máximo de espera para atendimento nas lojas de operadoras de telefonia fixa e celular~~_
 
-~~O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA:~~<br>
-~~Faço saber que a Assembleia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 8°, da Constituição do Estado, a seguinte lei:~~<br>
-~~Artigo 1° - Fica estabelecido às lojas de operadoras de telefonia fixa e celular o tempo máximo de espera para atendimento aos usuários, no âmbito do Estado de São Paulo, considerando os seguintes prazos:~~<br>
+~~O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA:~~
+
+~~Faço saber que a Assembleia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 8°, da Constituição do Estado, a seguinte lei:~~
+
+~~Artigo 1° - Fica estabelecido às lojas de operadoras de telefonia fixa e celular o tempo máximo de espera para atendimento aos usuários, no âmbito do Estado de São Paulo, considerando os seguintes prazos:~~
+
 ~~**I -** até 15 (quinze) minutos, em dias normais;~~
 
 ~~**II -** até 25 (vinte e cinco) minutos em véspera de feriados e datas comemorativas.~~

@@ -1,5 +1,3 @@
-###DEC-061340-0-000-13-09-1967@@@
-
 DECRETO Nº 61.340, DE 13 DE SETEMBRO DE 1967.
 
 Fixa especialidades no Quadro de Oficiais-Engenheiros, do Corpo de Oficiais da Aeronáutica da ativa.

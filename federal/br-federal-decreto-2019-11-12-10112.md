@@ -88,4 +88,4 @@ Luiz Henrique Mandetta
 
 Osmar Terra
 
-Damares Regina Alves<br>
+Damares Regina Alves

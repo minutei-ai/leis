@@ -1,5 +1,3 @@
-###DEL-007405-0-000-22-03-1945@@@
-
 DECRETO-LEI N. 7.405 – DE 22 DE MARÇO DE 1945
 
 Prorroga o prazo para a isenção de direitos de importação e demais taxas aduaneiras que incidem sôbre a penicilina e dá outras providências

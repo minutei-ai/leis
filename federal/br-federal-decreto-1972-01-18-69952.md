@@ -1,5 +1,3 @@
-###DEC-069952-0-000-18-01-1972@@@
-
 Decreto nº 69.952, de 18 de janeiro de 1972.
 
 Autoriza o funcionamento da Faculdade de Odontologia de Campos - RJ.

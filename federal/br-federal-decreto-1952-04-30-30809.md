@@ -1,14 +1,12 @@
-###DEC-030809-0-000-30-04-1952@@@
+**DECRETO Nº 30.809, DE 30 DE ABRIL1952.**
 
-<strong>DECRETO Nº 30.809, DE 30 DE ABRIL1952.</strong>
+***Classifica as localidades do Território Nacional, nas, categorias previstas no art. 22, do Código de Vencimentos e Vantagens dos Militares.***
 
-<em><strong>Classifica as localidades do Território Nacional, nas, categorias previstas no art. 22, do Código de Vencimentos e Vantagens dos Militares.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o item I do art. 87, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o item I do art. 87, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São classificadas, nas categorias abaixo especificadas, as seguintes localidades:
+**Art**. 1º São classificadas, nas categorias abaixo especificadas, as seguintes localidades:
 
 Categoria “A”:
 
@@ -30,11 +28,11 @@ Categoria “E”:
 
 Pôrto União, União da Vitória, Lages e Santiado do Boqueirão.
 
-<strong>Art</strong>. 2º O presente Decreto entra em vigor a partir da data da publicação do Código de Vencimentos e Vantagens dos Militares (23 de janeiro de 1951), revogados as disposições em contrário.
+**Art**. 2º O presente Decreto entra em vigor a partir da data da publicação do Código de Vencimentos e Vantagens dos Militares (23 de janeiro de 1951), revogados as disposições em contrário.
 
 Rio de Janeiro, 30 de abril de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel.
 

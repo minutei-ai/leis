@@ -1,5 +1,3 @@
-###DEC-081934-0-000-11-07-1978@@@
-
 Decreto nº 81.934, de 11 de julho de 1978.
 
 Concede reconhecimento ao curso de Engenharia de Pesca, da Universidade Federal do Ceará, com sede na cidade de Fortaleza, Estado do Ceará.

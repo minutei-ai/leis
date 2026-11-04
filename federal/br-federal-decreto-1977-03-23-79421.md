@@ -1,5 +1,3 @@
-###DEC-079421-0-000-23-03-1977@@@
-
 DECRETO Nº 79.421, DE 23 de MARÇO DE 1977.
 
 Autoriza o registro, em nome da União Federal dos imóveis que menciona, situados no Estado do Amazonas.

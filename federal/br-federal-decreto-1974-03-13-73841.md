@@ -1,5 +1,3 @@
-###DEC-073841-0-000-13-03-1974@@@
-
 DECRETO Nº 73.841, DE 13 DE MARÇO DE 1974.
 
 Regulamenta a Lei nº 6.019, de 3 de janeiro de 1974, que dispõe sobre o trabalho temporário.

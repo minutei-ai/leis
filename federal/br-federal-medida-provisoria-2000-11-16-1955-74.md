@@ -1,5 +1,3 @@
-###MPV-001955-0-074-16-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.955-74, DE 16 de novembro DE 2000.
 
 Dispõe sobre o pagamento dos militares e dos Servidores Públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista e de suas subsidiárias, e dá outras providências.

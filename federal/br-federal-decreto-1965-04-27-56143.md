@@ -1,5 +1,3 @@
-###DEC-056143-0-000-27-04-1965@@@
-
 DECRETO Nº 56.143, DE 27 DE ABRIL DE 1965.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia Sol de Seguros, inclusive aumento do capital social e extensão das operações ao Ramo Vida.
@@ -17,8 +15,6 @@ Brasília, 27 de abril de 1965; 144º da Independência e 77º da República.
 H. Castello branco
 
 Daniel Faraco
-
-###DEC-056143-0-000-27-04-1965@@@RET01+++
 
 decreto nº 56.143, de 27 de abril de 1965.
 

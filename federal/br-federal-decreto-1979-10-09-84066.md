@@ -1,5 +1,3 @@
-###DEC-084066-0-000-09-10-1979@@@
-
 Decreto nº 84.066, de 09 de outubro de 1979.
 
 Autoriza o Banco Central do Brasil a contratar empréstimo, no valor de até US$2,700,000.00, em favor da República do Peru.

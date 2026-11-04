@@ -1,5 +1,3 @@
-###DEC-091953-0-000-19-11-1985@@@
-
 Decreto nº 91.953, de 19 de novembro de 1985.
 
 Disciplina os depósitos em dinheiro no processo Administrativo Fiscal, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-002009-0-000-19-09-1996@@@
-
 DECRETO Nº 2.009, DE 19 DE SETEMBRO DE 1996.
 
 Acresce artigo ao Decreto n° 1.895, de 6 de maio de 1996, que cria a Câmara de Relações Exteriores e Defesa Nacional, do Conselho de Governo.

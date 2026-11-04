@@ -1,5 +1,3 @@
-###DEC-049854-0-000-10-01-1961@@@
-
 DECRETO Nº 49.854, DE 10 DE JANEIRO DE 1961.
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$15.000.000,00, por atender aos flagelados da enchente em Candelária, Estado do Rio Grande do Sul.

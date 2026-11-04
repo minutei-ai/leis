@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209847)<br>
-
 # DECRETO N° 68.777, DE 17 DE AGOSTO DE 2024
 
 ### _Declara luto oficial no Estado, por 7 (sete) dias, pelo falecimento de Senor Abravanel, o Silvio Santos._

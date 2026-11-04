@@ -1,5 +1,3 @@
-###DEC-047563-0-000-30-12-1959@@@
-
 Decreto nº 47.563, de 30 de dezembro de 1959.
 
 Prorroga o art. 3º, § 2º do Decreto nº 45.400, de 6 de fevereiro de 1959.
@@ -37,8 +35,6 @@ Fernando Nóbrega
 Francisco de Mello
 
 Mário Pinotti
-
-###DEC-047563-0-000-30-12-1959@@@RET01+++
 
 Decreto nº 47.563, de 30 de dezembro de 1959.
 

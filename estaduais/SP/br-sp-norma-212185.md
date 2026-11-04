@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212185)<br>
-
 # LEI N° 18.391, DE 02 DE FEVEREIRO DE 2026
 
 ## (Projeto de lei n° 1381/2023, dos Deputados Marta Costa - PSD e Oseias de Madureira - PSD)

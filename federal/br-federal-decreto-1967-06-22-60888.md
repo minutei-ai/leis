@@ -1,5 +1,3 @@
-###DEC-060888-0-000-22-06-1967@@@
-
 DECRETO Nº 60.888, DE 22 DE JUNHO DE 1967.
 
 Dispõe sôbre as despesas miúdas e de pronto pagamento.

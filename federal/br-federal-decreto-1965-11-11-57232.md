@@ -1,5 +1,3 @@
-###DEC-057232-0-000-11-11-1965@@@
-
 DECRETO Nº 57.232, DE 11 DE NOVEMBRO DE 1965.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, o domínio útil da fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

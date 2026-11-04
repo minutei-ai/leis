@@ -1,5 +1,3 @@
-###DEC-059305-0-000-23-09-1966@@@
-
 DECRETO Nº 59.305, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Aquiles Dias Faustino a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

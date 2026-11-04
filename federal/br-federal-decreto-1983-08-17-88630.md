@@ -1,5 +1,3 @@
-###DEC-088630-0-000-17-08-1983@@@
-
 DECRETO Nº 88.630, DE 17 DE AGOSTO DE 1983
 
 Altera a redação do art. 1º do Decreto nº 84.660, de 28 de abril de 1980, que declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-049267-0-000-17-11-1960@@@
-
 DECRETO Nº 49.267, DE 17 DE NOVEMBRO DE 1960.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$50.000.000,00, destinado a atender às despesas com a execução da Lei nº 3.756, de 20 de abril de 1960.

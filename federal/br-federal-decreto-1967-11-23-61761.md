@@ -1,5 +1,3 @@
-###DEC-061761-0-000-23-11-1967@@@
-
 DECRETO Nº 61.761, DE 23 DE NOVEMBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica executados por Raul Alves de Souza e Silva Júnior, no município de Rio Claro, Estado do Rio de Janeiro, revoga os Decretos ns. 9.119, de 25 de março de 1942 e 58.282, de 28 de abril de 1966, outorga à Light Serviços de Eletricidade S.A., concessão para distribuir energia elétrica no município de Rio Claro, Estado do Rio de Janeiro e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074182-0-000-17-06-1974@@@
-
 DECRETO Nº 74.182, DE 17 DE JUNHO DE 1974.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Itatiba, mantida pelo Instituto de Ensino Superior da Região Bragantina, Estado de São Paulo.

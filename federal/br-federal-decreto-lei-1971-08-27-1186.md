@@ -1,5 +1,3 @@
-###DEL-001186-0-000-27-08-1971@@@
-
 # DECRETO-LEI Nº 1.186, DE 27 DE AGÔSTO DE 1971
 
 Concede estímulos à fusão, incorporação e relocalização de unidades industriais açucareiras e dá outras providências.

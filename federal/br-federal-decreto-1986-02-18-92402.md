@@ -1,5 +1,3 @@
-###DEC-092402-0-000-18-02-1986@@@
-
 Decreto nº 92.402, de 18 de fevereiro de 1986.
 
 Concede à Empresa JDC Corporation, autorização para funcionar na República Federativa do Brasil.

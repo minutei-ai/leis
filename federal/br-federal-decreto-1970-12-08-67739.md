@@ -1,5 +1,3 @@
-###DEC-067739-0-000-08-12-1970@@@
-
 DECRETO Nº 67.739, DE 8 DE DEZEMBRO DE 1970.
 
 Autoriza transformação de unidade escolar da Associação Universitária "Santa Ursula" - GB.

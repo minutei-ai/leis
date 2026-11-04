@@ -1,5 +1,3 @@
-###DEL-000503-0-000-18-03-1969@@@
-
 DECRETO-LEI Nº 503, DE 18 DE MARÇO DE 1969
 
 Aprova o plano de distribuição dos recursos da quota federal do Salário-Educação.
@@ -34,4 +32,104 @@ Plano de Distribuição da Estimativa de Arrecadação da Quota Federal da
 
 Arrecadação do Salário-Educação - Exercício de 1969
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:356.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>UNIDADES FEDERADAS</span></p></td><td style="width:65.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:65.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Acre ...............................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>899.116,10</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Alagoas ..........................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.511.699,22</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Amazonas ......................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.181.173,20</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bahia .............................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8.093.099,38</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ceará .............................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.779.416,70</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Distrito Federal ...............................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>850.251,26</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Espírito Santo .................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.296.056,20</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Goiás .............................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.989.359,38</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Guanabara ......................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>890.739,42</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maranhão .......................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.015.646,92</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mato Grosso ...................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.857.986,66</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Minas Gerais ..................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12.681.516,50</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pará ...............................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.679.011,20</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Paraíba ..........................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.179.227,89</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Paraná ...........................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.789.625,80</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pernambuco ...................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.332.482,40</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Piauí ..............................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.279.360,14</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio de Janeiro .................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.103.906,20</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Grande do Norte ........................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.129.354,66</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Grande do Sul ...........................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.379.116,10</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Santa Catarina ................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.904.941,69</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Paulo ......................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.017.662,22</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Sergipe ..........................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.159.250,76</span></p></td></tr><tr><td style="width:356.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total ..............................................................................................................</span></p></td><td style="width:65.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>94.000.000,00</span></p></td></tr></tbody></table>
+UNIDADES FEDERADAS
+
+Total
+
+NCr$
+
+Acre ...............................................................................................................
+
+899.116,10
+
+Alagoas ..........................................................................................................
+
+2.511.699,22
+
+Amazonas ......................................................................................................
+
+2.181.173,20
+
+Bahia .............................................................................................................
+
+8.093.099,38
+
+Ceará .............................................................................................................
+
+5.779.416,70
+
+Distrito Federal ...............................................................................................
+
+850.251,26
+
+Espírito Santo .................................................................................................
+
+2.296.056,20
+
+Goiás .............................................................................................................
+
+4.989.359,38
+
+Guanabara ......................................................................................................
+
+890.739,42
+
+Maranhão .......................................................................................................
+
+5.015.646,92
+
+Mato Grosso ...................................................................................................
+
+1.857.986,66
+
+Minas Gerais ..................................................................................................
+
+12.681.516,50
+
+Pará ...............................................................................................................
+
+2.679.011,20
+
+Paraíba ..........................................................................................................
+
+4.179.227,89
+
+Paraná ...........................................................................................................
+
+6.789.625,80
+
+Pernambuco ...................................................................................................
+
+5.332.482,40
+
+Piauí ..............................................................................................................
+
+3.279.360,14
+
+Rio de Janeiro .................................................................................................
+
+3.103.906,20
+
+Rio Grande do Norte ........................................................................................
+
+3.129.354,66
+
+Rio Grande do Sul ...........................................................................................
+
+6.379.116,10
+
+Santa Catarina ................................................................................................
+
+3.904.941,69
+
+São Paulo ......................................................................................................
+
+5.017.662,22
+
+Sergipe ..........................................................................................................
+
+2.159.250,76
+
+Total ..............................................................................................................
+
+94.000.000,00

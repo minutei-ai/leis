@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d8d5a9ed-8077-464f-ad35-c65d458a7c93/texto#nowhere)
 
-###DEL-000861-0-000-11-09-1969@@@
-
 DECRETO-LEI Nº 861, DE 11 de setembRO DE 1969
 
 Autoriza a contratação de empréstimos externos, no valor global equivalente a US$30,000,000.00 em moeda-convênio, para aquisição de equipamentos e materiais de ensino na República Democrática Alemã e República Popular da Hungria, e dá outras providências.

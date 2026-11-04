@@ -1,5 +1,3 @@
-###DEC-051160-0-000-07-08-1961@@@
-
 DECRETO Nº 51.160, DE 7 DE AGÔSTO DE 1961.
 
 Concede à Sociedade Técnica de Mineração Jacarehu Ltda. autorização para funcionar como emprêsa de mineração.

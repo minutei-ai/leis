@@ -1,5 +1,3 @@
-###MPV-000415-0-000-21-01-2008@@@
-
 MEDIDA PROVISÓRIA Nº 415, DE 21 DE JANEIRO DE 2008.
 
 Proíbe a comercialização de bebidas alcoólicas em rodovias federais e acresce dispositivo à Lei no 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro.
@@ -45,5 +43,3 @@ José Gomes Temporão
 Marcio Fortes de Almeida
 
 Jorge Armando Felix
-
-Este texto não substitui o publicado no DOU de 7.1.2008.

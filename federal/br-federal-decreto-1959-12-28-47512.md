@@ -1,5 +1,3 @@
-###DEC-047512-0-000-28-12-1959@@@
-
 DECRETO Nº 47.512, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza Silva, Areal, Mármores e Granitos S.A. a lavrar no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

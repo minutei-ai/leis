@@ -1,5 +1,3 @@
-###DEC-085259-0-000-14-10-1980@@@
-
 Decreto nº 85.259, de 14 de outubro de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A - CELESC, no Estado de Santa Catarina.

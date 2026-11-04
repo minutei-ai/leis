@@ -1,5 +1,3 @@
-###DEC-068034-0-000-11-01-1971@@@
-
 DECRETO Nº 68.034, DE 11 DE JANEIRO DE 1971.
 
 Da nova redação ao parágrafo 5º do artigo 9º do Decreto nº 63.914, de 26 de dezembro de 1968.

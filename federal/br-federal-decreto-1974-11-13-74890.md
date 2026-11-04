@@ -1,5 +1,3 @@
-###DEC-074890-0-000-13-11-1974@@@
-
 Decreto nº 74.890, de 13 de Novembro de 1974.
 
 Declara de utilidade pública, para fins de desapropriação, terreno situado na Fazenda Mont'Alvão, no lugar denominado São José - Município de Presidente Prudente, Estado de São Paulo.

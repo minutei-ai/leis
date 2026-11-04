@@ -1,5 +1,3 @@
-###DEC-051963-A-000-26-04-1963@@@
-
 DECRETO Nº 51.963-A, DE 26 DE ABRIL DE 1963.
 
 Outorga à Prefeitura Municipal de Airão concessão para distribuir energia elétrica no município de Airão, Estrado do Amazonas.

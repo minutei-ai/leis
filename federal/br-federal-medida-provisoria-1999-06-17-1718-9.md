@@ -1,5 +1,3 @@
-###MPV-001718-0-009-17-06-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.718-9, DE 17 DE JUNHO DE 1999.
 
 Acresce parágrafo ao art. 4º da Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento.

@@ -1,5 +1,3 @@
-###DEC-048577-0-000-22-07-1960@@@
-
 DECRETO Nº 048577, de 22 DE julho 1960.
 
 Fica reconhecida a Medalha de Mérito Agrícola, instituída pela Confederação Rural Brasileira.

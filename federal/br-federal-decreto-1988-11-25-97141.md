@@ -1,5 +1,3 @@
-###DEC-097141-0-000-25-11-1988@@@
-
 DECRETO Nº 97.141, DE 25 DE NOVEMBRO DE 1988
 
 Acrescenta parágrafo único ao artigo 2º do Decreto nº 96.653, de 06 de setembro de 1988, que declarou intervenção na Transbrasil S.A. Linhas Aéreas.

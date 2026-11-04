@@ -1,5 +1,3 @@
-###DEC-002947-0-000-26-01-1999@@@
-
 DECRETO Nº 2.947, DE 26 DE JANEIRO DE 1999.
 
 Dispõe sobre delegação de competência para a prática de atos de provimento no âmbito da Administração Pública Federal e dá outras providências.

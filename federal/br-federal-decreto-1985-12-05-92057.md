@@ -1,5 +1,3 @@
-###DEC-092057-0-000-05-12-1985@@@
-
 Decreto nº 92.057, dE 05 dezembro de 1985
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Federação das Faculdades Braz Cubas, em Mogi das Cruzes, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-091217-0-000-30-04-1985@@@
-
 Decreto nº 91.217, de 30 de abril de 1985.
 
 Altera a método de faturamento de energia elétrica fornecida a unidades consumidoras do Grupo A atingidas pelas inundações ocorridas nos Estados da Região Nordeste e dá outras providências.

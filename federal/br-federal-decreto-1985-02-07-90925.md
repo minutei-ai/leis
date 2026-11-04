@@ -1,5 +1,3 @@
-###DEC-090925-0-000-07-02-1985@@@
-
 DECREto nº 90.925, de 07 de fevereiro dE 1985
 
 Outorga concessão à RÁDIO CULTURA DE PARACURU LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Paracuru Estado do Ceará.

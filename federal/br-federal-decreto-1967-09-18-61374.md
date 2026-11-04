@@ -1,5 +1,3 @@
-###DEC-061374-0-000-18-09-1967@@@
-
 Decreto nº 61.374, de 18 de setembro de 1967.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a construir linha de transmissão.

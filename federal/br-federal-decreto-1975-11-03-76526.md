@@ -1,5 +1,3 @@
-###DEC-076526-0-000-03-11-1975@@@
-
 DECRETO Nº 76.526, DE 3 DE NOVEMBRO DE 1975.
 
 Declara a caducidade da concessão outorgada a Arminda Bruschini Zelante, para lavrar águas minerais, termais e gasosas no Município de Serra Negra, Estado de São Paulo.

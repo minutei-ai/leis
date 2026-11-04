@@ -1,7 +1,3 @@
-1
-
-###DEL-000605-0-000-02-06-1969@@@
-
 decreto-lei nº 605, de 2 de junho de 1969
 
 Extingue o Parque Nacional de Paulo Afonso e dá outras providências.

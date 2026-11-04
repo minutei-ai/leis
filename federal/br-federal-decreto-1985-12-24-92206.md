@@ -1,5 +1,3 @@
-###DEC-092206-0-000-24-12-1985@@@
-
 DECRETO nº 92.206, de 24 de dezembro de 1985
 
 Altera a redação do artigo 3º do Decreto nº 62.352, de 05 de março de 1968, que cria o Grupo Executivo da Industria de Mineração (GEIMI).

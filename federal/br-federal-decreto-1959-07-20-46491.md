@@ -1,5 +1,3 @@
-###DEC-046491-0-000-20-07-1959@@@
-
 Decreto nº 46.491, de 20 de julho de 1959.
 
 Concede à Cia. Cearense de Cimento Portland autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEL-008826-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.826 – DE 24 DE JANEIRO DE 1946
 
 Abre créditos suplementares ao Ministério da Educação e Saúde

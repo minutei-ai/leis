@@ -1,5 +1,3 @@
-###DEC-056956-0-000-01-10-1965@@@
-
 DECRETO Nº 56.956, DE 1º DE OUTUBRO DE 1965.
 
 Concede à Emprêsa de Mineração Muzema Ltda. autorização para funcionar como emprêsa de mineração.

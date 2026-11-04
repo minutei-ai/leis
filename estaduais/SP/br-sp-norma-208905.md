@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208905)<br>
-
 # DECRETO N° 68.159, DE 09 DE DEZEMBRO DE 2023
 
 ### _Dispõe sobre a política de governança da Administração Pública direta e autárquica do Estado de São Paulo._

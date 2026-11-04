@@ -1,5 +1,3 @@
-###DEC-064802-0-000-10-07-1969@@@
-
 DECRETO Nº 64.802 - DE 10 DE JULHO DE 1969.
 
 Declara de utilidade pública as sociedades que menciona.

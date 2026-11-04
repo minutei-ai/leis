@@ -1,5 +1,3 @@
-###DEC-081587-0-000-19-04-1978@@@
-
 Decreto nº 81.587 de 19 de abril de 1978
 
 Declara interdita, para fins de atração dos índios ZORÓS, área que discrimina, localizada no Município de Aripuanã, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-076167-0-000-27-08-1975@@@
-
 DECRETO Nº 76.167 - DE 27 DE AGOSTO DE 1975
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados em Manaus, Estado do Amazonas.

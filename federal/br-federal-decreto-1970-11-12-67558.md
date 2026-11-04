@@ -1,5 +1,3 @@
-###DEC-067558-0-000-12-11-1970@@@
-
 decreto nº 67.558, de 12 de novembro de 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - do Ministério do Trabalho e Previdência Social cargo originário do Ministério da Indústria e do Comércio.

@@ -1,5 +1,3 @@
-###DEC-005333-0-000-06-01-2005@@@
-
 DECRETO Nº 5.333 DE 6 DE JANEIRO DE 2005
 
 Altera o Estatuto Social do Serviço Federal de Processamento de Dados - SERPRO, aprovado pelo Decreto nº 3.972, de 16 de outubro de 2001.

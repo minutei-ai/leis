@@ -1,5 +1,3 @@
-###DEC-082473-0-000-23-10-1978@@@
-
 Decreto nº 82.473 de 23 de outubro de 1978
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplinas Especializadas e à habilitação em Biologia do curso de Ciências, ministrados pela Faculdade de Filosofia, Ciências e Letras Nossa Senhora do Patrocínio, com sede na cidade de Itu, Estado de São Paulo.

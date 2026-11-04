@@ -1,4 +1,5 @@
-DECRETO “N” Nº 464 DE 17 DE JULHO DE 2023<br>
+DECRETO “N” Nº 464 DE 17 DE JULHO DE 2023
+
 (Revogado pelo Decreto "N" Nº 551, de 21 de agosto de 2023).
 
 ~~Dispõe sobre desmembramento de imóvel situado no Loteamento VILLA ROMANA, neste município.~~
@@ -28,8 +29,10 @@ DECRETO “N” Nº 464 DE 17 DE JULHO DE 2023<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 17 de julho de 2023.~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana~~

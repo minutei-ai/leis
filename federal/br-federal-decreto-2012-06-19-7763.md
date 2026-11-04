@@ -1,5 +1,3 @@
-###DEC-007763-0-000-19-06-2012-PUB-01@@@
-
 DECRETO N° 7.763, DE 19 DE JUNHO DE 2012
 
 Promulga o Acordo, por troca de Notas, para o Estabelecimento de uma Faixa Non Aedificandi em Zonas Urbanas entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai, firmado em Assunção, em 9 de abril de 2008.

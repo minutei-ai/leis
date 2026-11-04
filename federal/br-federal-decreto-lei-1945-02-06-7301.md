@@ -1,5 +1,3 @@
-###DEL-007301-0-000-06-02-1945@@@
-
 DECRETO-LEI N. 7.301 – DE 6 DE FEVEREIRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 32.400.000,00 para a Fábrica Nacional de Motores

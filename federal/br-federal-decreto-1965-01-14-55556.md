@@ -1,5 +1,3 @@
-###DEC-055556-0-000-14-01-1965@@@
-
 DECRETO nº 55.556, DE 14 DE JANEIRO DE 1965.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Argos Fluminense, relativa ao aumento do capital social.

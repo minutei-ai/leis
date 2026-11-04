@@ -22,11 +22,14 @@ Goiânia, 10 de novembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-AMILTON FILHO<br>
+AMILTON FILHO
+
 Deputado
 
-CHARLES BENTO<br>
+CHARLES BENTO
+
 Deputado

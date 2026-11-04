@@ -1,5 +1,3 @@
-###DEC-065307-0-000-08-10-1969@@@
-
 Decreto nº 65.307 - de 8 de outubro de 1969.
 
 Declara de utilidade pública, a Associação Beneficente "Abrigo ao Berço", com sede em Curitiba, Estado do Paraná.

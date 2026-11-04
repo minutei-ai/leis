@@ -1,5 +1,3 @@
-###DEC-071311-0-000-03-11-1972@@@
-
 DECRETO Nº 71.311 - DE 3 DE NOVEMBRO DE 1972.
 
 Encampa bens e instalações da concessão de que é titular a Companhia Hidro-Elétrica de Boa Esperança - COHEBE.

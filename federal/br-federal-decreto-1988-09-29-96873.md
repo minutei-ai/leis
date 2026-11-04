@@ -1,5 +1,3 @@
-###DEC-096873-0-000-29-09-1988@@@
-
 DECRETO N° 96.873, DE 29 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada a TV RÁDIO CLUBE DE TERESINA S.A. para explorar serviço de radiodifusão de sons e imagens (TV), na Cidade de Teresina, Estado do Piauí.

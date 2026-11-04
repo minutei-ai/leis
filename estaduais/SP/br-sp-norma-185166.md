@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185166)
-
 # DECRETO Nº 63.196, DE 06 DE FEVEREIRO DE 2018
 
 ### _Dispõe sobre a concessão de abono complementar, na forma que especifica, em cumprimento ao estabelecido na Lei federal n° 11.738, de 16 de julho de 2008_
@@ -48,10 +46,16 @@ Palácio dos Bandeirantes, 6 de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-José Renato Nalini<br>
-Secretário da Educação<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+José Renato Nalini
+
+Secretário da Educação
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 6 de fevereiro de 2018.

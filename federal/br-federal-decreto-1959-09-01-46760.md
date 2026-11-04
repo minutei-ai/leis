@@ -1,5 +1,3 @@
-###DEC-046760-0-000-01-09-1959@@@
-
 decreto nº 46.760, de 01 de setembro de 1959.
 
 Modifica a redação do art. 64, do Regulamento aprovado pelo Decreto nº 8.835, de 23 de janeiro de 1942.

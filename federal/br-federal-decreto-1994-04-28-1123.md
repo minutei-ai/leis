@@ -1,7 +1,3 @@
-1
-
-###DEC-001123-0-000-28-04-1994@@@
-
 DECRETO N° 1.123, DE 28 DE ABRIL DE 1994
 
 Acrescenta parágrafo único ao art. 5° do Regulamento de Documento de Viagem.

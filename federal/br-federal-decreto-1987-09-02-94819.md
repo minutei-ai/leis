@@ -1,5 +1,3 @@
-###DEC-094819-0-000-02-09-1987@@@
-
 DECRETO N° 94.819, DE 2 DE SETEMBRO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Ciências Gerenciais de Belo Horizonte.

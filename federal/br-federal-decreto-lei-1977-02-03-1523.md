@@ -1,5 +1,3 @@
-###DEL-001523-0-000-03-02-1977@@@
-
 # DECRETO-LEI Nº 1.523, DE 3 DE FEVEREIRO DE 1977
 
 Autoriza a criação de Coordenadorias Especiais no Instituto Nacional de Colonização e Reforma Agrária nas condições que especifica, dispõe sobre a retribuição do respectivo pessoal e dá outras providências.

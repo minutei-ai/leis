@@ -1,5 +1,3 @@
-###DEL-008473-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.473 – DE 27 DE DEZEMBRO DE 1945
 
 Cria dois estabelecimentos de ensino secundário na Prefeitura do Distrito Federal e dá outras providências.

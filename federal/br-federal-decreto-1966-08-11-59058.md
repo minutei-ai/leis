@@ -1,5 +1,3 @@
-###DEC-059058-0-000-11-08-1966@@@
-
 DECRETO Nº 59.058, DE 11 DE AGôSTO DE 1966.
 
 Declara de utilidade pública a Fundação Beneficente Lucas Araújo, com sede em Passo Fundo, Estado do Rio Grande do Sul.

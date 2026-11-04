@@ -1,5 +1,3 @@
-###DEC-080271-0-000-01-09-1977@@@
-
 decreto nº 80.271, de 1 de setembro de 1977.
 
 Regulamenta a concessão de férias anuais remuneradas aos trabalhadores avulsos e dá outras providencias.

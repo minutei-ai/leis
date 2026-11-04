@@ -1,5 +1,3 @@
-###DEC-051402-0-000-01-02-1962@@@
-
 decreto nº 51.402, de 1º de fevereiro de 1962.
 
 Abre, ao Ministério da Saúde, o crédito especial de Cr$2.000.000,00 destinado a cobrir as despesas com a realização, no Brasil, de um Congresso Internacional de Radiologia, sob os auspícios do Colégio Inter-Americano de Radiologia.

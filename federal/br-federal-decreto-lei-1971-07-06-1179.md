@@ -1,5 +1,3 @@
-###DEL-001179-0-000-06-07-1971@@@
-
 # DECRETO-LEI Nº 1.179, DE 6 DE JULHO DE 1971
 
 Institui o Programa de Redistribuição de Terras e de Estímulo à Agro-indústria do Norte e do Nordeste (PROTERRA), altera a legislação do imposto de renda relativa a incentivos fiscais e dá outras providências.

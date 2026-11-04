@@ -1,5 +1,3 @@
-###DEC-072928-0-000-15-10-1973@@@
-
 DECRETO Nº 72.928, DE 15 DE OUTUBRO DE 1973.
 
 Concede à Itaminas Comércio de Minérios S. A. o direito de lavrar minério de ferro, no Município de Ibirité, Estado de Minas Gerais.

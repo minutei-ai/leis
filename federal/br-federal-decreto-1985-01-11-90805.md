@@ -1,5 +1,3 @@
-###DEC-090805-0-000-11-01-1985@@@
-
 DECRETO Nº 90.805, DE 11 DE JANEIRO DE 1985
 
 Renova a concessão outorgada à RÁDIO RECORD S/A, para explorar serviço de radiodifusão sonora em onda curta, na cidade de São Paulo, Estado de São Paulo.

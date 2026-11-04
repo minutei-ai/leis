@@ -1,5 +1,3 @@
-###DEC-082829-0-000-11-12-1978@@@
-
 Decreto nº 82.829, de 11 de dezembro de 1978
 
 Regulamenta a Lei nº 6.571, de 30 de setembro de 1978, que dispõe sobre o regime jurídico do pessoal da Comissão Nacional de Energia Nuclear (CNEN) e dá outras providências.

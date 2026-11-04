@@ -1,5 +1,3 @@
-###DEC-003668-0-000-22-11-2000@@@
-
 DECRETO Nº 3.668, DE 22 DE NOVEMBRO DE 2000.
 
 Altera o Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999.

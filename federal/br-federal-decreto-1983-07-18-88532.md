@@ -1,5 +1,3 @@
-###DEC-088532-0-000-18-07-1983@@@
-
 Decreto nº 88.532, de 18 de julho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Canoinhas da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado de Santa Catarina.

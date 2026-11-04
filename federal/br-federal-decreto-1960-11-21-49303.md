@@ -1,5 +1,3 @@
-###DEC-049303-0-000-21-11-1960@@@
-
 Decreto nº 49.303, de 21 de novembro de 1960.
 
 Fixa competência para concessão de salário-família.

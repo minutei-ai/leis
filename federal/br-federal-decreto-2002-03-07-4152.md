@@ -1,5 +1,3 @@
-###DEC-004152-0-000-07-03-2002@@@
-
 DECRETO Nº 4.152, DE 7 DE MARÇO DE 2002
 
 Promulga o Tratado de Extradição entre a República Federativa do Brasil e a República da Coréia, celebrado em Brasília, em 1º de setembro de 1995.
@@ -260,8 +258,10 @@ Entrega de Objetos
 
 2.Observado o disposto no parágrafo 1 do presente Artigo, os objetos mencionados acima deverão, mediante solicitação, ser entregues à Parte Requerente mesmo que a extradição não possa ser efetuada em virtude de morte ou fuga da pessoa reivindicada.
 
-3.Quando exigido pela legislação da Parte Requerida e respeitado o direito de terceiros, quaisquer objetos entregues, na forma das disposições precedentes, deverão ser devolvidos à Parte Requerida, com isenção de despesas, caso essa Parte apresente solicitação nesse sentido.<br>
-Artigo 19<br>
+3.Quando exigido pela legislação da Parte Requerida e respeitado o direito de terceiros, quaisquer objetos entregues, na forma das disposições precedentes, deverão ser devolvidos à Parte Requerida, com isenção de despesas, caso essa Parte apresente solicitação nesse sentido.
+
+Artigo 19
+
 Trânsito
 
 1.Dentro dos limites de sua legislação, o trânsito pelo território de uma das Partes Contratantes de uma pessoa entregue por um terceiro Estado deverá ser permitido mediante solicitação feita por via diplomática pela outra Parte Contratante. A solicitação deverá incluir as informações previstas no Artigo 13 e indicar os agentes que acompanharão a pessoa que está sendo extraditada.

@@ -1,5 +1,3 @@
-###DEC-086967-0-000-26-02-1982@@@
-
 Decreto nº 86.967, de 26 de fevereiro de 1982
 
 Declara de utilidade pública para fins de desapropriação, áreas de terra necessárias à implantação dos eletrodos de aterramento da subestação São Roque-Conversora de FURNAS - Centrais Elétricas S.A., no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-069320-0-000-06-10-1971@@@
-
 DECRETO Nº 69.320, DE 6 DE OUTUBRO DE 1971.
 
 Regulamenta o disposto no artigo 56 da Lei nº 4.870, de 1º de dezembro de 1965 e dá outras providências.

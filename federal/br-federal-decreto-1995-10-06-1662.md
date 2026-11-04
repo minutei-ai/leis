@@ -1,7 +1,3 @@
-1
-
-###DEC-001662-0-000-06-10-1995@@@
-
 DECRETO N° 1.662, DE 6 DE OUTUBRO DE 1995.
 
 Aprova o Regulamento de fiscalização de produtos de uso veterinário e dos estabelecimentos que os fabriquem e/ou comerciem, e dá outras providências.

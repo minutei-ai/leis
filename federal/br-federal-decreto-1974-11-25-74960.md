@@ -1,5 +1,3 @@
-###DEC-074960-0-000-25-11-1974@@@
-
 DECRETO Nº 74.960, DE 25 DE NOVEMBRO DE 1974.
 
 Autoriza o funcionamento da Escola de Ciências Contábeis de Volta Redonda, mantida pela Fundação Oswaldo Aranha, com sede na cidade de Volta Redonda, Estado do Rio de Janeiro.

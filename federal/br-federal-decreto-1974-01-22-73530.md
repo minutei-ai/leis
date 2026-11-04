@@ -1,5 +1,3 @@
-###DEC-073530-0-000-22-01-1974@@@
-
 Decreto nº 73.530, de 22 de janeiro de 1974.
 
 Dispõe sobre as Prefeituras de Aeronáutica, aprova o seu Regulamento e dá outras providências.

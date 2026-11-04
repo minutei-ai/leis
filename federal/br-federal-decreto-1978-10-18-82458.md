@@ -1,5 +1,3 @@
-###DEC-082458-0-000-18-10-1978@@@
-
 Decreto nº 82 458, 18 de DE outubro de 1978.
 
 Declara sem efeito o Decreto nº 42.544, de 30 de outubro de 1957, que autorizou o cidadão brasileiro Jacob Stolf a lavrar calcário no Município de Piracicaba, Estado de São Paulo.

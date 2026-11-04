@@ -1,5 +1,3 @@
-###MPV-002119-0-060-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.119-60, DE 27 DE DEZEMBRO DE 2000
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

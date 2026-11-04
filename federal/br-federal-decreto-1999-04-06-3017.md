@@ -1,5 +1,3 @@
-###DEC-003017-0-000-06-04-1999@@@
-
 DECRETO Nº 3.017, DE 6 DE ABRIL DE 1999.
 
 Aprova o Regimento do Serviço Nacional de Aprendizagem do Cooperativismo - SESCOOP.

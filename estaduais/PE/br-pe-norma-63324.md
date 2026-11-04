@@ -10,44 +10,31 @@ Art. 1º O Anexo Único da [Lei Complementar nº 480, de 30 de março de 2022](h
 
 **“ANEXO ÚNICO**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:58.95pt"><td style="border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:58.95pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">#</span></p></td><td width="553" style="width:331.15pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:58.95pt"><p class="MsoNormal" style="margin-bottom:7.5pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">VALORES NOMINAIS DE VENCIMENTO BASE INICIAL (PISOS) POR</span></p><p class="MsoNormal" style="margin-bottom:7.5pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">CARGO PÚBLICO VÁLIDOS A PARTIR DE 1º DE JUNHO DE 2022&nbsp;</span></p></td><td width="130" style="width:106.5pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:58.95pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">VENCIMENTO BASE INICIAL OU ÚNICO (EM R$)</span></p></td></tr><tr style="height:14.95pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:14.95pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">....</span></p></td><td width="553" style="width:331.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.95pt"><p class="MsoNormal" style="margin-bottom:7.5pt;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">..........................................................................................................................................</span></p></td><td width="130" style="width:106.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.95pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">...........</span></p></td></tr><tr style="height:14.95pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:14.95pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">82</span></p></td><td width="553" style="width:331.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.95pt"><p class="MsoNormal" style="margin-bottom:7.5pt;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">PROFESSOR UNIVERSITÁRIO (Jornada de 40 Horas/Aulas Semanais)</span></p></td><td width="130" style="width:106.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.95pt"><p class="MsoNormal" align="right" style="margin-bottom:7.5pt;text-align:right;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">2.930,77 (NR)&nbsp;</span></p></td></tr><tr style="height:14.95pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:14.95pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">......</span></p></td><td width="553" style="width:331.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.95pt"><p class="MsoNormal" style="margin-bottom:7.5pt;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#333333">........................................................................................................................................</span></p></td><td width="130" style="width:106.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.95pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">.............</span></p></td></tr></tbody></table>
+#
+
+VALORES NOMINAIS DE VENCIMENTO BASE INICIAL (PISOS) POR
+
+CARGO PÚBLICO VÁLIDOS A PARTIR DE 1º DE JUNHO DE 2022
+
+VENCIMENTO BASE INICIAL OU ÚNICO (EM R$)
+
+....
+
+..........................................................................................................................................
+
+...........
+
+82
+
+PROFESSOR UNIVERSITÁRIO (Jornada de 40 Horas/Aulas Semanais)
+
+2.930,77 (NR)
+
+......
+
+........................................................................................................................................
+
+.............
 
                                                                                                                                                 ”
 

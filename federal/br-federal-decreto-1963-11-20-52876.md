@@ -1,5 +1,3 @@
-###DEC-052876-0-000-20-11-1963@@@
-
 decreto nº 52.876, de 20 de novembro de 1963.
 
 Suspende a execução do Decreto número 52.090, de 4 de junho de 1963.

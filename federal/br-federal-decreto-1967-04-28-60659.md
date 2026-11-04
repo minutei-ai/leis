@@ -1,5 +1,3 @@
-###DEC-060659-0-000-28-04-1967@@@
-
 DECRETO Nº 60.659, DE 28 DE ABRIL DE 1967.
 
 Torna decreto sem efeito.

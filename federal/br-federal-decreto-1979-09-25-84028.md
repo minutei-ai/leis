@@ -1,5 +1,3 @@
-###DEC-084028-0-000-25-09-1979@@@
-
 Decreto nº 84.028, de 25 de setembro de 1979.
 
 Altera o artigo 61 do Regulamento do Custeio da Previdência Social, aprovado pelo Decreto nº 83081, de 24 de janeiro de 1979 e da outras providências.

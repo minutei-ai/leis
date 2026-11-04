@@ -1,5 +1,3 @@
-###DEC-048645-0-000-01-08-1960@@@
-
 decreto nº 48.645, de 1º de agôsto de 1960.
 
 Abre ao Poder Judiciário - Supremo Tribunal Federal - o crédito especial de Cr$1.953.348,00 (um milhão, novecentos e cinqüenta três mil, trezentos e quarenta e oito cruzeiros), para o fim que especifica.

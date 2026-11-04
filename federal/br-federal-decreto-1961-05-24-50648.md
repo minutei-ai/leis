@@ -1,5 +1,3 @@
-###DEC-050648-0-000-24-05-1961@@@
-
 DECRETO Nº 50.648, DE 24 DE MAIO DE 1961.
 
 Revoga o Decreto nº 49.757, de 31 de dezembro de 1960, e dá outras providências.

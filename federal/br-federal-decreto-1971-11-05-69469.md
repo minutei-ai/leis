@@ -1,5 +1,3 @@
-###DEC-069469-0-000-05-11-1971@@@
-
 DECRETO Nº 69.469 - de 5 de novembro de 1971
 
 Concede autorização para funcionar como empresa de energia elétrica à Companhia de Eletricidade do Ceará.

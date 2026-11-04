@@ -1,5 +1,3 @@
-###DEC-050570-0-000-09-05-1961@@@
-
 DECRETO Nº 50.570, DE 9 DE MAIO DE 1961.
 
 Considera como órgão técnico consultivo da Administração Federal a Associação Nacional da Navegação Estatal e de Economia Mista - NAVESTADO.

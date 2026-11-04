@@ -1,5 +1,3 @@
-###DEC-007759-0-000-15-06-2012-PUB-01@@@
-
 DECRETO N° 7.759, DE 15 DE JUNHO DE 2012
 
 Altera a Estrutura Regimental da Casa Civil, aprovada pelo Decreto n° 5.135, de 7 de julho de 2004, para subordinar a Imprensa Nacional diretamente ao Ministro de Estado.

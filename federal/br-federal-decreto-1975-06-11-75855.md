@@ -1,5 +1,3 @@
-###DEC-075855-0-000-11-06-1975@@@
-
 DECRETO Nº 75.855, DE 11 DE JUNHO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação Piratininga, mantida pela Sociedade de Ensino Piratininga, com sede na cidade de São Paulo , Estado de São Paulo.

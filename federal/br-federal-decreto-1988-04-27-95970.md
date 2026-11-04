@@ -1,7 +1,3 @@
-1
-
-###DEC-095970-0-000-27-04-1988@@@
-
 # DECRETO N° 95.970, DE 27 DE ABRIL DE 1988
 
 Outorga concessão à Rádio Xinguara Ltda. para explorar serviço de radiodifusão sonora em onda média, na cidade de Xinguara, Estado do Pará.

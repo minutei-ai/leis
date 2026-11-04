@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7ec310f6-f3e0-4c5b-a986-60732c5adfaa/texto#nowhere)
 
-###DEL-002183-0-000-19-12-1984@@@
-
 # decreto-LEI nº 2.183, de 19 de dezembro dE 1984
 
 Descaracteriza como de interesse da Segurança Nacional os municípios que especifica.
@@ -99,8 +97,6 @@ Brasília-DF, de de 1984; 163º da Independência e 96º da República.
 JOÃO FIGUEIREDO
 
 Danilo Venturini
-
-###DEL-002183-0-000-19-12-1984@@@RET01+++
 
 # DECRETO-LEI Nº 2.183, DE 19 DE DEZEMBRO DE 1984
 

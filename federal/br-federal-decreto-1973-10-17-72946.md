@@ -1,5 +1,3 @@
-###DEC-072946-0-000-17-10-1973@@@
-
 DECRETO Nº 72.946, DE 17 DE OUTUBRO DE 1973.
 
 Concede permissão, em caráter permanente, à Companhia Jauense Industrial, para funcionar, aos domingos e nos dias feriados civis e religiosos, na Divisão Industrial de Plásticos do seu estabelecimento fabril, situado no Município de Jaú, no Estado de São Paulo.

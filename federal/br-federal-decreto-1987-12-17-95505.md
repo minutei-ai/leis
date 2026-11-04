@@ -1,5 +1,3 @@
-###DEC-095505-0-000-17-12-1987@@@
-
 DECRETO Nº 95.505, 17 DE DEZEMBRO DE 1987
 
 Concede à COMPANHIA SIDERÚRGICA DE TUBARÃO - CST, autorização para proceder a aumento do seu capital social.

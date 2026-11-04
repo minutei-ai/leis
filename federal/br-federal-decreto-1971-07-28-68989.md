@@ -1,5 +1,3 @@
-###DEC-068989-0-000-28-07-1971@@@
-
 DECRETO Nº 68.989, DE 28 DE JULHO DE 1971.
 
 Concede autorização à Companhia Storm Drilling Company, de nacionalidade norte-americana, para operar em águas brasileiras com o navio-sonda "Cyclone", nos serviços que especifica.

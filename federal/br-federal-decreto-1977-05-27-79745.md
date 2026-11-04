@@ -1,5 +1,3 @@
-###DEC-079745-0-000-27-05-1977@@@
-
 DECRETO Nº 79.745, DE 27 maio DE 1977.
 
 Concede reconhecimento ao curso de Comunicação Social e transforma o curso de Relações Públicas em habilitação do mesmo curso, da Universidade de Mogi das Cruzes, com sede na Cidade de Mogi das Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-092643-0-000-13-05-1986@@@
-
 DECRETO Nº 92.643, DE 13 DE MAIO DE 1986
 
 Cria o Estandarte da Escola Superior de Guerra.

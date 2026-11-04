@@ -1,7 +1,3 @@
-1
-
-###DEC-099140-0-000-12-03-1990@@@
-
 DECRETO Nº 99.140, DE 12 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Pedagogia a ser ministrado pelas Faculdades Integradas do Planalto Central em Luziânia, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-045942-0-000-29-04-1959@@@
-
 DECRETO Nº 45.942, DE 29 DE abril DE 1959.
 
 Dispõe sôbre a organização do Departamento de Seguros Privados e Capitalização do IPASE.

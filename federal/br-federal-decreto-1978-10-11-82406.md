@@ -1,5 +1,3 @@
-###DEC-082406-0-000-11-10-1978@@@
-
 Decreto nº 82 406, de 11 de outubro de 1978
 
 Dispensa a licitação na alienação de terras devolutas da União, que menciona, e dá outras providências.

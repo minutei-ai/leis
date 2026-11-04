@@ -1,5 +1,3 @@
-###DEC-077328-0-000-24-03-1976@@@
-
 DECRETO Nº 77.328, DE 24 DE MARÇO DE 1976.
 
 Concede à S.A. de Cimento, Mineração e Cabotagem - CIMIMAR o direito de lavrar gipsita no Município de Ipubi, Estado de Pernambuco.

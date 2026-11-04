@@ -1,5 +1,3 @@
-###DEC-066212-0-000-16-02-1970@@@
-
 DECRETO Nº 66.212 - DE 16 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública o Centro Social Santa Catarina de Sena, com sede em Tupã - Estado de São Paulo.

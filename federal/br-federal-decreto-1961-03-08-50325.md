@@ -1,5 +1,3 @@
-###DEC-050325-0-000-08-03-1961@@@
-
 DECRETO Nº 50.325, de 8 DE MARÇO DE 1961.
 
 Abre, ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral de Alagoas, o crédito especial de Cr$200,000,00, para o fim que especifica.

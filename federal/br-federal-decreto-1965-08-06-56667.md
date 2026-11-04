@@ -1,5 +1,3 @@
-###DEC-056667-0-000-06-08-1965@@@
-
 DECRETO Nº 56.667, DE 6 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Gheorghe Popescu a lavrar areia quartzosa, no município de Peruíbe, Estado de São Paulo.

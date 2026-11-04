@@ -1,5 +1,3 @@
-###DEC-059119-0-000-24-08-1966@@@
-
 DECRETO Nº 59.119, DE 24 DE AGÔSTO DE 1966.
 
 Confere ao Diretor-Geral do Departamento Nacional da Previdência Social as atribuições especiais que menciona e dá outras providências.

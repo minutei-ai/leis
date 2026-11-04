@@ -1,34 +1,32 @@
-###DEC-034753-0-000-04-12-1953@@@
+**DECRETO Nº 34.753, DE 4 DE DEZEMBRO DE 1953.**
 
-<strong>DECRETO Nº 34.753, DE 4 DE DEZEMBRO DE 1953.</strong>
+***Aprova o Regulamento de Uniformes do Pessoal da Polícia Militar do Distrito Federal (R. U. P. M.), e dá outras providências.***
 
-<em><strong>Aprova o Regulamento de Uniformes do Pessoal da Polícia Militar do Distrito Federal (R. U. P. M.), e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É aprovado o Regulamento de Uniformes do Pessoal da Polícia Militar do Distrito Federal (R. U. P. M.) que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º É aprovado o Regulamento de Uniformes do Pessoal da Polícia Militar do Distrito Federal (R. U. P. M.) que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
-
-<strong>Art</strong>. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 4 de dezembro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Tancredo de Almeida Neves
 
-<strong>REGULAMENTO DE UNIFORMES DO PESSOAL DA POLÍCIA MILITAR DO DISTRITO FEDERAL (R. U. P. M.)</strong>
+**REGULAMENTO DE UNIFORMES DO PESSOAL DA POLÍCIA MILITAR DO DISTRITO FEDERAL (R. U. P. M.)**
 
 INTRODUÇÃO
 
-<strong>Art</strong>. 1º O presente Regulamento tem por objetivo regular minuciosamente a confecção, e o uso dos uniformes da Polícia Militar do Distrito Federal. Êle se compõe de quatro títulos que tratam, o primeiro, das generalidades; o segundo dos uniformes e seus detalhes; o terceiro, dos complementos dos uniformes e seu uso; e, o quarto, das ilustrações.
+**Art**. 1º O presente Regulamento tem por objetivo regular minuciosamente a confecção, e o uso dos uniformes da Polícia Militar do Distrito Federal. Êle se compõe de quatro títulos que tratam, o primeiro, das generalidades; o segundo dos uniformes e seus detalhes; o terceiro, dos complementos dos uniformes e seu uso; e, o quarto, das ilustrações.
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>(Das Generalidades)</em>
+*(Das Generalidades)*
 
-<strong>Art</strong>. 2º Os uniformes da Polícia Militar do Distrito Federal terão as peças, o feitio, as cores, as características, estabelecidos no presente regulamento. Êles serão de posse obrigatória para todo o pessoal militar do serviço ativo da Corporação, devendo ser usados rigorosamente, de acôrdo com o que aqui fica estabelecido.
+**Art**. 2º Os uniformes da Polícia Militar do Distrito Federal terão as peças, o feitio, as cores, as características, estabelecidos no presente regulamento. Êles serão de posse obrigatória para todo o pessoal militar do serviço ativo da Corporação, devendo ser usados rigorosamente, de acôrdo com o que aqui fica estabelecido.
 
 § 1º Em princípio, fica terminantemente proibido fazer qualquer alteração nestes uniformes, seja no todo ou em parte, seja por omissão, acréscimo ou desvirtuamento das suas características básicas, maximé, no que tange as dimensões, cores, feitio e contextura dos tecidos e da matéria prima de suas peças.
 
@@ -36,19 +34,19 @@ INTRODUÇÃO
 
 § 3º Para atender ao fim previsto no parágrafo anterior, um mostruário apropriado será organizado e conservado na referida Intendência.
 
-<strong>Art</strong>. 3º O fardamento de que constam os uniformes estabelecidos neste Regulamento, será distribuído às praças que a êle façam juz, de acôrdo com as respectivas tabelas em vigor.
+**Art**. 3º O fardamento de que constam os uniformes estabelecidos neste Regulamento, será distribuído às praças que a êle façam juz, de acôrdo com as respectivas tabelas em vigor.
 
-<strong>Art</strong>. 4º Os uniformes especificados neste Regulamento são privativos da Polícia Militar do Distrito Federal e só podem ser copiados, no todo ou em parte pelas Policias Militares Estaduais.
+**Art**. 4º Os uniformes especificados neste Regulamento são privativos da Polícia Militar do Distrito Federal e só podem ser copiados, no todo ou em parte pelas Policias Militares Estaduais.
 
-<strong>Art</strong>. 5º É facultado aos oficiais e praças reformados da Corporação, o uso dos uniformes especificados neste Regulamento, deste que tal uso se faça rigorosamente de acôrdo com os preceitos e normas estabelecidos para o pessoal da ativa.
+**Art**. 5º É facultado aos oficiais e praças reformados da Corporação, o uso dos uniformes especificados neste Regulamento, deste que tal uso se faça rigorosamente de acôrdo com os preceitos e normas estabelecidos para o pessoal da ativa.
 
 § 1º Desde que fardado, o reformado fica sujeito às mesmas obrigações de disciplina e conduta dos seus correspondentes do serviço ativo, e a não observância dêsses princípios pode acarretar-lhe proibição do uso dêsses uniformes, a critério do Comandante Geral.
 
 § 2º Tôda vez que o reformado comparecer fardado a qualquer ato para o qual haja uniformes marcado para o pessoal da ativa deverá apresentar-se nas mesmas condições dêstes.
 
-<strong>Art</strong>. 6º Os reformados poderão usar sôbre os uniformes, todos os distintivos, medalhas e condecorações a que fizeram juz, excetuados os das armas e serviços que serão substituídos pelos discriminados nas letras <em>”a”</em> e <em>“b”</em> do item IX, do artigo 11.
+**Art**. 6º Os reformados poderão usar sôbre os uniformes, todos os distintivos, medalhas e condecorações a que fizeram juz, excetuados os das armas e serviços que serão substituídos pelos discriminados nas letras *”a”* e *“b”* do item IX, do artigo 11.
 
-<strong>Art</strong>. 7º O Comandante Geral poderá, obedecendo aos preceitos estabelecidos no Decreto nº 30.163, de 13 de novembro de 1951:
+**Art**. 7º O Comandante Geral poderá, obedecendo aos preceitos estabelecidos no Decreto nº 30.163, de 13 de novembro de 1951:
 
 a) modificar, quando necessário, os uniformes previstos neste Regulamento, respeitando, porém, as cores aqui adotadas;
 
@@ -58,15 +56,15 @@ c) determinar o substitutivo correspondeste, quando no mercado não existir o ma
 
 d) baixar instruções estabelecendo normas para o cumprimento dêste Regulamento, inclusive marcando os prazos de tolerância para o uso dos uniformas atuais.
 
-<strong>Art</strong>. 8º Excetuados os reformados, nenhuma pessoa, que não faça parte do serviço ativo da Corporação, poderá fazer uso dos seus uniformes, sendo passíveis de sanção penal, aqueles que infringirem êste dispositivo.
+**Art**. 8º Excetuados os reformados, nenhuma pessoa, que não faça parte do serviço ativo da Corporação, poderá fazer uso dos seus uniformes, sendo passíveis de sanção penal, aqueles que infringirem êste dispositivo.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>(Do Plano de Uniforme)</em>
+*(Do Plano de Uniforme)*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>(GRUPO A)</em>
+*(GRUPO A)*
 
 Para oficiais e aspirantes a oficial
 
@@ -76,7 +74,7 @@ Tipo A - (figuras 1, 2 e 3).
 
 1\) Boné - Tipo americano (figuras 54 e 55), de copa desarmada e confeccionada em pano azul-mescla, com pala preta brilante, unguiforme, de 0,06m, de largura, tomada sôbre seu eixo de simetia e inclinação de 15º (graus) sôbre o diâmetro antero-posterior da cinta; cinta de veludo azul-marinho de 0,04m de largura; jugular (fig. 53), de soutache de metal dourado de 0,013m de largura, provido de duas corrediças laterais do mesmo material e prêsa pelas extremidades de cada lado, no bordo inferior da cinta, junto à pala, por um botão pequeno dourado descrito no item XIII do artigo 11(figuras 15 e 16), na frente, correspondendo ao centro da pala, abrangendo a cinta e a copa, o emblema descrito no item II do artigo 11, demonstrado na figura 52;
 
-2\) Túnica - De pano azul-ferrête, cintada em forma de dolman; sem bolsos externos, com uma só constura vertical central, nas costas; de gola em pé, de fechar na frente, com dois colchetes de gancho e tôda de veludo azul ferrête e orlada ao longo de tôda a borda livre, por um colar de meias olivas bordadas a canotilho de ouro, ostentando em cada lado das partes laterais anteriores um distintivo de arma descrito no item V, do artigo 11; abotoada na frente, por uma carreira de sete botões dourados, grandes, descritos no item XIII, do artigo 11, dispostos simètricamente em coluna vertical central deste a gola até o limite do têrço inferior; com punhos de veludo azul-marinho, talhados em cilindro reto de 0,11m, de altura sôbre cada qual vão as insígnias do pôsto referidas na latra <em>“a”</em> do item XII do artigo 11, e ostentando em cada ombro uma platina de trancelim de fio de metal dourado com o distintivo de metal prateado sôbre fundo vermelho, como se vê na figura 4, presa junto à gola por um botão de metal dourado, pequeno, referido no item XIII, do artigo 11.
+2\) Túnica - De pano azul-ferrête, cintada em forma de dolman; sem bolsos externos, com uma só constura vertical central, nas costas; de gola em pé, de fechar na frente, com dois colchetes de gancho e tôda de veludo azul ferrête e orlada ao longo de tôda a borda livre, por um colar de meias olivas bordadas a canotilho de ouro, ostentando em cada lado das partes laterais anteriores um distintivo de arma descrito no item V, do artigo 11; abotoada na frente, por uma carreira de sete botões dourados, grandes, descritos no item XIII, do artigo 11, dispostos simètricamente em coluna vertical central deste a gola até o limite do têrço inferior; com punhos de veludo azul-marinho, talhados em cilindro reto de 0,11m, de altura sôbre cada qual vão as insígnias do pôsto referidas na latra *“a”* do item XII do artigo 11, e ostentando em cada ombro uma platina de trancelim de fio de metal dourado com o distintivo de metal prateado sôbre fundo vermelho, como se vê na figura 4, presa junto à gola por um botão de metal dourado, pequeno, referido no item XIII, do artigo 11.
 
 3\) Calça - De pano azul-ferrête, sem bainhas, provida de sete passadeiras no cós, para fixação do cinto; munidas: de dois bolsinhos pequenos horizontais, descobertos, dispostos simetricamente, na frente, um de cada lado, na costura do cós; de dois ditos grandes dispostos ligeiramente oblíquos, um de cada lado, na altura da linha da costura lateral, descobertos e abotoados, cada um, por um botão comum, dissimulado; de dois outros grandes, horizontais, dispostos um de cada lado simetricamente, na parte posterior, descobertos e abotoados no centro da parte superior por um botão comum da côr da calça: de quadro plissés verticais dispostos simetricamente na frente, dois sôbre cada bolsinho (figura 39); e, finalmente, dispõe, verticalmente ao longo da parte média exterior de cada perna, deste o cós, até à extremidade, de um par de listras paralelas de veludo azul-marinho, de 0,03m, de largura, cada uma, e separadas por um espaço de 0,008 m.
 
@@ -98,13 +96,13 @@ Tipo B - Combinado (figs. 5 e 6).
 
 2\) Cinturão, guia, calça, meias, luvas, sapatos, platinas e distintivos - do Tipo A, dêste uniforme.
 
-3\) Túnica - De linho branco, tipo palitó saco; abotoada na frente, por uma carreira vertical central, de quatro botões grandes dourados, descritos no artigo 11, item XIII, simétrica convenientemente espaçados; com uma só costura vertical central, no dôrso; de lapelas abertas em ângulo reto; com dois bolsos menores simétricos um em cada lado do peito e dois ditos maiores, também simétricos, um em cada lado inferior da túnica e mais ou menos na direção do seu correspondente superior, todos em forma ligeiramente trapezoidal, providos de “pestanas” retangulares, abotoadas no têrço inferior do centro, por um botão pequeno dourado, descrito no artigo 11, todos sem machos; platinas dêste uniforme tipo A; adaptados na parte exterior de cada punho as insígnias do pôsto, em metal dourado lavrado, referidas na letra <em>“b”</em>, do item XII do artigo 11.
+3\) Túnica - De linho branco, tipo palitó saco; abotoada na frente, por uma carreira vertical central, de quatro botões grandes dourados, descritos no artigo 11, item XIII, simétrica convenientemente espaçados; com uma só costura vertical central, no dôrso; de lapelas abertas em ângulo reto; com dois bolsos menores simétricos um em cada lado do peito e dois ditos maiores, também simétricos, um em cada lado inferior da túnica e mais ou menos na direção do seu correspondente superior, todos em forma ligeiramente trapezoidal, providos de “pestanas” retangulares, abotoadas no têrço inferior do centro, por um botão pequeno dourado, descrito no artigo 11, todos sem machos; platinas dêste uniforme tipo A; adaptados na parte exterior de cada punho as insígnias do pôsto, em metal dourado lavrado, referidas na letra *“b”*, do item XII do artigo 11.
 
 4\) Gravata - Preta de Sêda de laço horizontal.
 
 Observação
 
-Os alarmes (figura 76) e o fiador (figura 8) dêste uniforme (tipos A e B), são de cordão de metal dourado e prateado, conforme prescrevem o item VII e alínea <em>“a”</em>, do item XIII, tudo do artigo 11.
+Os alarmes (figura 76) e o fiador (figura 8) dêste uniforme (tipos A e B), são de cordão de metal dourado e prateado, conforme prescrevem o item VII e alínea *“a”*, do item XIII, tudo do artigo 11.
 
 5\) Camisa - Branca de sêda ou tricoline, mangas compridas, com colarinho duro de pontas viradas.
 
@@ -112,7 +110,7 @@ Os alarmes (figura 76) e o fiador (figura 8) dêste uniforme (tipos A e B), são
 
 Boné - Do mesmo tipo e com as mesmas peças do boné do 1º uniforme, grupo A, tendo, porém, a copa de gabardine cinza-pardo e a cinta de gorgurão azul-marinho (figs. 54 e 55).
 
-2\) Túnica - Tipo palitó saco; de gabardine ou tropical cinza-pardo, abotoada na frente por uma carreira vertical-central, de quatro botões grandes dourados, descritos no artigo 11, item XIII, simétrica e convenientemente espaçados com uma só costura vertical central no dôrso; dotada de canhões retos de 0,11m, nos punhos; de lapelas; abertas em ângulo reto, com dois bolsos menores simétricos um em cada lado do peito e dois ditos maiores, também simétricos, um em cada lado inferior da túnica e mais ou menos na direção do seu correspondente superior, todos em forma ligeiramente trapezoidal, providos de pestanas retangulares, e abotoadas no têrço inferior do centro, por um botão pequeno dourado, descrito no artigo 11, item XIII; sendo os superiores guarnercidos de “machos”, em cada ombro uma platina de veludo azul-marinho descrita na alínea <em>“c”</em> do item XII do artigo 11 (figuras 45 a 50), prêsa junto à gola por um botão pequeno dourado do tipo acima referido; ostentando sôbre estas platinas as insígnias do pôsto descritas no mesmo item; dispondo sob a “pestana” do bolso inferior esquerdo, convenientemente dissimulada, de uma abertura horizontal para a saída da guia da espada, que será fixada no cinto da calça, quando fôr preciso portar essa arma, e completada com os distintivos de arma que couberam, conforme item V, do artigo 11, dispostos na lapela, um de cada lado e acima das respectivas aberturas, conforme se vê nas figuras 6, 7 e 21 a 30.
+2\) Túnica - Tipo palitó saco; de gabardine ou tropical cinza-pardo, abotoada na frente por uma carreira vertical-central, de quatro botões grandes dourados, descritos no artigo 11, item XIII, simétrica e convenientemente espaçados com uma só costura vertical central no dôrso; dotada de canhões retos de 0,11m, nos punhos; de lapelas; abertas em ângulo reto, com dois bolsos menores simétricos um em cada lado do peito e dois ditos maiores, também simétricos, um em cada lado inferior da túnica e mais ou menos na direção do seu correspondente superior, todos em forma ligeiramente trapezoidal, providos de pestanas retangulares, e abotoadas no têrço inferior do centro, por um botão pequeno dourado, descrito no artigo 11, item XIII; sendo os superiores guarnercidos de “machos”, em cada ombro uma platina de veludo azul-marinho descrita na alínea *“c”* do item XII do artigo 11 (figuras 45 a 50), prêsa junto à gola por um botão pequeno dourado do tipo acima referido; ostentando sôbre estas platinas as insígnias do pôsto descritas no mesmo item; dispondo sob a “pestana” do bolso inferior esquerdo, convenientemente dissimulada, de uma abertura horizontal para a saída da guia da espada, que será fixada no cinto da calça, quando fôr preciso portar essa arma, e completada com os distintivos de arma que couberam, conforme item V, do artigo 11, dispostos na lapela, um de cada lado e acima das respectivas aberturas, conforme se vê nas figuras 6, 7 e 21 a 30.
 
 3\) Calça - De gabardine ou tropical cinza-parto, sem bainhas e provida de sete passadeiras no cós para a fixação do cinto; munida; de dois bolsinhos pequenos horizontais, descobertos, dispostos simètricamente, na frente, um de cada lado, na costura do cós; de dois ditos grandes dispostos ligeiramente oblíquos, um de cada lado, na altura da linha da costura lateral, descobertos e abotoados cada um por um botão comum dissimulado; de dois outros grandes, horizontais, dispostos um de cada lado, simètricamente na parte posterior e cobertos, cada qual, por uma pestana retangular adotada no têrço inferior do centro, por um botão comum da côr da calça; e, finalmente, de quatro plissés verticais, dispostos simètricamente na frente dois sôbre cada bolsinho - (figs. 37, 38 e 39).
 
@@ -174,7 +172,7 @@ Tipo A
 
 2\) Casquete - De brim beje-claro, tipo Triunfador, conforme figuras 57 e 58.
 
-3\) Túnica - De brim beje-claro, tipo Triunfador, cintada; de gola dupla, fechada na frente por dois colchetes de gancho; abotoada por um carreira vertical central anterior de sete botões pretos grandes, descritos no item XIIII do artigo 11, dispostos simètricamente da gola até o limite do têrco inferior; provida de quatro bolsos dotados de “pestanas”, todos idênticos a seus correspondentes da túnica do 2º uniforme, grupo A, e abotoados nas mesmas condições, cada qual, por um botão pequeno, preto, descrito no item XIII do artigo 11; com uma só costura vertical central do dôrso, e aberta aí, no têrço inferior; dotada de canhões retos nos punhos e de uma alheta do mesmo pano, prêsa em cada ombro e abotoada no extremo junto à gola, por um botão pequeno preto, igual ao precedente, sôbre a qual são dispostas as insígnias do pôsto descritas na alínea <em>“d”</em> do item XII do artigo 11; e, finalmente, ostentando, em cada lado, junto ao ângulo inferior da gola, o distintivo da arma ou serviço descrito no artigo 11, item V (figs. 21 a 30).
+3\) Túnica - De brim beje-claro, tipo Triunfador, cintada; de gola dupla, fechada na frente por dois colchetes de gancho; abotoada por um carreira vertical central anterior de sete botões pretos grandes, descritos no item XIIII do artigo 11, dispostos simètricamente da gola até o limite do têrco inferior; provida de quatro bolsos dotados de “pestanas”, todos idênticos a seus correspondentes da túnica do 2º uniforme, grupo A, e abotoados nas mesmas condições, cada qual, por um botão pequeno, preto, descrito no item XIII do artigo 11; com uma só costura vertical central do dôrso, e aberta aí, no têrço inferior; dotada de canhões retos nos punhos e de uma alheta do mesmo pano, prêsa em cada ombro e abotoada no extremo junto à gola, por um botão pequeno preto, igual ao precedente, sôbre a qual são dispostas as insígnias do pôsto descritas na alínea *“d”* do item XII do artigo 11; e, finalmente, ostentando, em cada lado, junto ao ângulo inferior da gola, o distintivo da arma ou serviço descrito no artigo 11, item V (figs. 21 a 30).
 
 4\) Camisa - De tricoline branca, com mangas compridas.
 
@@ -580,9 +578,9 @@ I - Para oficiais e aspirante-a-oficial (figura 11).
 
 1\) Boné - do 2º uniforme, grupo A.
 
-2\) Jaqueta - de linho branco; de gola simples em pé; de fechar na frente, com transpasse para o lado direito onde é abotoada por uma carreira oblíqua  de cinco botões dourados, grandes, idênticos aos do 2º uniforme, grupo A, e levando uma segunda carreira de cinco botões iguais, do lado esquerdo, correspondente dos primeiros; em cada punho, do lado exterior, as insígnias do posto, preconizadas para o 1º uniforme, tipo B, grupo A; em cada lado anterior da gola, um distintivo de arma igual ao do 2º uniforme, grupo A e em cada ombro, uma dragona de cacho, de metal lavrado, dourado: adaptado na extremidade inferior, um cinto com fiador idêntico ao do 4<sup>o</sup> uniforme, grupo A, mas confeccionado em couro branco (fig. 11).
+2\) Jaqueta - de linho branco; de gola simples em pé; de fechar na frente, com transpasse para o lado direito onde é abotoada por uma carreira oblíqua  de cinco botões dourados, grandes, idênticos aos do 2º uniforme, grupo A, e levando uma segunda carreira de cinco botões iguais, do lado esquerdo, correspondente dos primeiros; em cada punho, do lado exterior, as insígnias do posto, preconizadas para o 1º uniforme, tipo B, grupo A; em cada lado anterior da gola, um distintivo de arma igual ao do 2º uniforme, grupo A e em cada ombro, uma dragona de cacho, de metal lavrado, dourado: adaptado na extremidade inferior, um cinto com fiador idêntico ao do 4º uniforme, grupo A, mas confeccionado em couro branco (fig. 11).
 
-3\) calça - do 2<sup>o</sup> uniforme, grupo A.
+3\) calça - do 2º uniforme, grupo A.
 
 4\) polainas - brancas com borzeguins de couro prêto.
 
@@ -608,7 +606,7 @@ Tipo A:
 
 2\) Camisa e gravata - do 3º uniforme.
 
-3\) Blusão - branco com os complementos e o feitio idêntico ao referido na letra “<em>a</em>” do nº 1 das Combinações do artigo 9º, tendo êste, porém, em vez de alhêtas nos ombros, as platinas com as respectivas insígnias do posto, previstas para a túnica do 2º uniforme grupo A.
+3\) Blusão - branco com os complementos e o feitio idêntico ao referido na letra “*a*” do nº 1 das Combinações do artigo 9º, tendo êste, porém, em vez de alhêtas nos ombros, as platinas com as respectivas insígnias do posto, previstas para a túnica do 2º uniforme grupo A.
 
 Tipo B:
 
@@ -712,11 +710,11 @@ Observações
 
 2ª) Os serventes usam os mesmos uniformes das enfermeiras, porém, sem os distintivos.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>(DO USO DOS UNIFORMES E DAS COMBINAÇÕES)</em>
+*(DO USO DOS UNIFORMES E DAS COMBINAÇÕES)*
 
-<strong>Art</strong>. 9º. As normas gerais de uso e as combinações permitidas são as seguintes:
+**Art**. 9º. As normas gerais de uso e as combinações permitidas são as seguintes:
 
 I - Do uso
 
@@ -772,15 +770,15 @@ b) o uso, quando no interior dos quartéis, nos trabalhos burocráticos, nas via
 
 2\) No 4º uniforme - tipos A e B:
 
-a) o uso do blusão de brim beje-claro tipo Triunfador do mesmo feitio do descrito para a letra “<em>a</em>” do nº 1 das combinações do art. 9º, sendo, porém, os botões pretos, os trabalhos burocráticos, em trânsito e nas apresentações individuais ou coletivas, podendo o boné ser substituído pelo casquete de brim beje-claro tipo Triunfador ou de gabardine ou tropical cinza-pardo, respectivamente, no interior dos quartéis ou repartições (grupos A, B, e C).
+a) o uso do blusão de brim beje-claro tipo Triunfador do mesmo feitio do descrito para a letra “*a*” do nº 1 das combinações do art. 9º, sendo, porém, os botões pretos, os trabalhos burocráticos, em trânsito e nas apresentações individuais ou coletivas, podendo o boné ser substituído pelo casquete de brim beje-claro tipo Triunfador ou de gabardine ou tropical cinza-pardo, respectivamente, no interior dos quartéis ou repartições (grupos A, B, e C).
 
 b) o uso no interior dos quartéis e repartições da camisa e gravata do 2º unifome com a calça do 4º uniforme, sendo o casquete do mesmo tecido da calça (grupos A, B, C e D).
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>(Dos Complementos do Uniforme e seu uso)</em>
+*(Dos Complementos do Uniforme e seu uso)*
 
-<strong>Art</strong>. 10. São consideradas peças complementares dos uniformes referidos neste Regulamento as seguintes:
+**Art**. 10. São consideradas peças complementares dos uniformes referidos neste Regulamento as seguintes:
 
 1º - Os distintivos e símbolos privativos da Corporação.
 
@@ -792,7 +790,7 @@ b) o uso no interior dos quartéis e repartições da camisa e gravata do 2º un
 
 5º - Os acessórios.
 
-<strong>Art</strong>. 11. Os distintivos, símbolos, medalhas, agasalhos, insígnias e acessórios referidos na art. 10, são os seguintes:
+**Art**. 11. Os distintivos, símbolos, medalhas, agasalhos, insígnias e acessórios referidos na art. 10, são os seguintes:
 
 I - Símbolo da Corporação - De forma elíptica, na côr azul-celeste; carregado de 20 estrêlas de prata representando a União Federativa; tendo no interior da elípse, uma estrêla dourada, circunscrita por um aro, também dourado, em campo vermelho; a estrêla central simboliza o Distrito Federal e a côr vermelho do campo, a Justiça; êle é circundado por fôlhas e frutos de louro dispostos lateralmente à guisa de paquife, em ponta com o vértice para cima, o qual se remata na base da peça onde um listel azul-celeste se atravessa, terminando em duas pontas de cada lado e carregado com o nome Distrito Federal em caracteres de prata (fig. 52).
 
@@ -990,7 +988,7 @@ As referidas insígnias são adaptadas por intermédio de colchetes próprios, n
 
 c) Nos 2º e 3º uniformes - platinas de veludo azul-marinho com os galões de soutache de metal dourado em ângulo agudo, de vértice voltado para cima e as extremidades dos lados tangenciando os cantos da base, todos êles juxtapostos, com espaços de 0,002m e a largura de 0,004m completados com um laço húngaro de soutache também de metal dourado de 0,002m de largura, cuja volta superior enlaça, cruzando-se na base, o respectivo botão (fig. 48).
 
-d) Nos 4º, 5º e 7º uniformes - aplicados nas respectivas alhêtas, em soutache branco de 0,004m de largura tendo conforme o previsto para os da alínea <em>c</em>.
+d) Nos 4º, 5º e 7º uniformes - aplicados nas respectivas alhêtas, em soutache branco de 0,004m de largura tendo conforme o previsto para os da alínea *c*.
 
 e) Na pelerine - em peças de metal dourado e lavrado imitando soutache, dispostos um de cada lado da gola, em forma de ângulo agudo com o vértice para cima, tendo os ramos 0,004m x 0,025 e os espaços 0,002m, e na abertura do ângulo, em metal dourado lavrado, símbolo sintético da Corporação (fig. 73)
 
@@ -1166,14 +1164,14 @@ Observações
 
 Para as lanças do Regimento da Cavalaria ficam adotadas bandeirolas de 0,20 m de largura e 0,45 de comprimento, terminadas em duas pontas e divididas horizontalmente em duas partes iguais sendo vermelha a de cima e amarela a de baixo com uma estrêla azul ao centro como na figura 89.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>(Da ilustração)</em>
+*(Da ilustração)*
 
-<strong>Art</strong>. 12 Os uniformes e peças de uniformes referidos nos títulos e capitulos anteriores terão de acôrdo com o que ficou estabelecido os aspecto e os detalhes que se obsrvam nas pranchas gráficas seguintes: - Clichês D. 848-62.
+**Art**. 12 Os uniformes e peças de uniformes referidos nos títulos e capitulos anteriores terão de acôrdo com o que ficou estabelecido os aspecto e os detalhes que se obsrvam nas pranchas gráficas seguintes: - Clichês D. 848-62.
 
 Rio de Janeiro, em 4 de Dezembro de 1953.
 
-<strong>TANCREDO DE ALMEIDA NEVES</strong>
+**TANCREDO DE ALMEIDA NEVES**
 
 Ministro da Justiça

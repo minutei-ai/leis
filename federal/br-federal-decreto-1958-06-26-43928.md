@@ -1,18 +1,16 @@
-###DEC-043928-0-000-26-06-1958@@@
+**DECRETO Nº 43.928, DE 26 DE JUNHO DE 1958.**
 
-<strong>DECRETO Nº 43.928, DE 26 DE JUNHO DE 1958.</strong>
+***Institui a Companhia Nacional de Teatro.***
 
-<em><strong>Institui a Companhia Nacional de Teatro.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica instituída a Companhia Nacional de Teatro (C.N.T.), a cargo do Serviço Nacional de Teatro, do Ministério da Educação e Cultura.
 
-<strong>Art</strong>. 1º Fica instituída a Companhia Nacional de Teatro (C.N.T.), a cargo do Serviço Nacional de Teatro, do Ministério da Educação e Cultura.
+**Art**. 2º Caberá à C.N.T. promover o desenvolvimento e o aprimoramento do teatro no país, mediante a organização e o financiamento de planos de proteção e ajuda e a realização de empreendimentos artísticos, técnicos e assistências.
 
-<strong>Art</strong>. 2º Caberá à C.N.T. promover o desenvolvimento e o aprimoramento do teatro no país, mediante a organização e o financiamento de planos de proteção e ajuda e a realização de empreendimentos artísticos, técnicos e assistências.
-
-<strong>Art</strong>. 3º Para a consecução de seus objetivos, a C.N.T. deverá:
+**Art**. 3º Para a consecução de seus objetivos, a C.N.T. deverá:
 
 a) auxiliar companhias teatrais profissionais, circos, grupos de amadores, escolas de teatro, entidades e atividades relacionadas com o teatro, exigindo dos beneficiários a observância das diretrizes culturais que estabelecer;
 
@@ -38,9 +36,9 @@ k) manter um serviço de intercâmbio com instituições nacionais e estrangeira
 
 1\) cooperar com os órgãos federais, estaduais e municipais de caráter cultural e relacionados com a atividade teatral.
 
-<strong>Art</strong>. 4º A C.N.T. será superintendida pelo Diretor do Serviço Nacional de Teatro, com a colaboração de assessôres, que designará.
+**Art**. 4º A C.N.T. será superintendida pelo Diretor do Serviço Nacional de Teatro, com a colaboração de assessôres, que designará.
 
-<strong>Art</strong>. 5º Para o custeio das atividades da C.N.T. haverá um fundo especial, de natureza bancária, depositado em conta especial no Banco do Brasil, a ser movimentada pelo Diretor do S.N.T. e constituído de:
+**Art**. 5º Para o custeio das atividades da C.N.T. haverá um fundo especial, de natureza bancária, depositado em conta especial no Banco do Brasil, a ser movimentada pelo Diretor do S.N.T. e constituído de:
 
 a) dotações e contribuições que para isso forem consignadas no orçamento da União, dos Estados, dos Municípios e de entidades paraestatais e sociedades de economia mista;
 
@@ -48,16 +46,16 @@ b) contribuições de entidades públicas e privadas;
 
 c) donativos, contribuições e legados particulares;
 
-<strong>Art</strong>. 6º O S.N.T. poderá firmar contratos e ajustes com entidades públicas e privadas, para a realização de planos visando ao desenvolvimento e o aperfeiçoamento do teatro.
+**Art**. 6º O S.N.T. poderá firmar contratos e ajustes com entidades públicas e privadas, para a realização de planos visando ao desenvolvimento e o aperfeiçoamento do teatro.
 
-<strong>Art</strong>. 7º O Ministro de Estado da Educação e Cultura baixará as instruções necessárias à organização e à execução da C.N.T.
+**Art**. 7º O Ministro de Estado da Educação e Cultura baixará as instruções necessárias à organização e à execução da C.N.T.
 
-<strong>Art</strong>. 8º A aplicação dos recursos da C.N.T. será feita de acôrdo com plano anualmente apresentado ao Ministro da Educação e Cultura e aprovado pelo Presidente da República.
+**Art**. 8º A aplicação dos recursos da C.N.T. será feita de acôrdo com plano anualmente apresentado ao Ministro da Educação e Cultura e aprovado pelo Presidente da República.
 
-<strong>Art</strong>. 9º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 9º Êste decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, em 26 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Clovis Salgado

@@ -1,5 +1,3 @@
-###DEC-007321-0-000-30-09-2010-PUB-01@@@
-
 DECRETO Nº 7.321, DE 30 DE SETEMBRO DE 2010.
 
 Altera o art. 8o e os Anexos VII, VIII, IX e X do Decreto no 7.094, de 3 de fevereiro de 2010, que dispõe sobre a programação orçamentária e financeira, estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2010, e dá outras providências.

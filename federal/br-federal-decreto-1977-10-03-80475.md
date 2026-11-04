@@ -1,5 +1,3 @@
-###DEC-080475-0-000-03-10-1977@@@
-
 DECRETO Nº 80.475, DE 3 DE OUTUBRO DE 1977.
 
 Concede à Cerâmica Chiarelli S.A. o direito de lavrar folhelho argiloso no Município de Mogi Guaçu, Estado de São Paulo

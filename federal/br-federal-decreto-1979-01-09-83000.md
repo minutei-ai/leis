@@ -1,5 +1,3 @@
-###DEC-083000-0-000-09-01-1979@@@
-
 Decreto nº 83.000, de 09 de janeiro de 1979
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Município do Rio de Janeiro, Estado do Rio de Janeiro e de Salvador, Estado da Bahia.

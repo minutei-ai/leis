@@ -1,5 +1,3 @@
-###DEL-005307-0-000-06-03-1943@@@
-
 decreto-lei n. 5.307 - de 6 de março de 1943
 
 Cria cargos de Juizes de Casamento e dá outras providências

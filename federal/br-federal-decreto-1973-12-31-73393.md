@@ -1,5 +1,3 @@
-###DEC-073393-0-000-31-12-1973@@@
-
 DECRETO Nº 73.393 - de 31 de Dezembro de 1973
 
 Redistribui, para o Quadro de Pessoal da Superintendência Nacional da Marinha Mercante, cargos, com os respectivos ocupantes, e dá outras providências.

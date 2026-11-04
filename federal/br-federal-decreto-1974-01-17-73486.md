@@ -1,5 +1,3 @@
-###DEC-073486-0-000-17-01-1974@@@
-
 DECRETO Nº 73.486, DE 17 DE JANEIRO DE 1974.
 
 Concede reconhecimento aos cursos de Letras: Português-Inglês e Português-Francês (licenciatura plena) e de Ciências (licenciatura de 1º grau) da Faculdade de Filosofia, Ciências e Letras de Cruz Alta, mantida pela Associação de Professores de Cruz Alta, com sede na cidade de Cruz Alta, Estado do Rio Grande do Sul.

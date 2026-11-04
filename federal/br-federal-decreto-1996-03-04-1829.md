@@ -1,5 +1,3 @@
-###DEC-001829-0-000-04-03-1996@@@
-
 DECRETO N° 1.829, DE 4 DE MARÇO DE 1996
 
 Altera o Decreto n° 1.764, de 26 de dezembro de 1995, que reduz alíquotas do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

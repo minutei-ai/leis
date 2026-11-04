@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212839)<br>
-
 # DECRETO N° 70.756, DE 14 DE JULHO DE 2026
 
 ### Altera o Decreto n° 69.182, de 18 de dezembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria da Fazenda e Planejamento.
@@ -168,7 +166,8 @@ Rogerio Campos
 
 #### ANEXO I
 
-#### ANEXO II<br>
+#### ANEXO II
+
 Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria da Fazenda e Planejamento
 
 | UNIDADE | QTD. | DENOMINAÇÃO CARGO/FUNÇÃO | CCESP/FCESP |
@@ -801,7 +800,8 @@ Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Se
 
 #### ANEXO II
 
-#### ANEXO III<br>
+#### ANEXO III
+
 Quadro Resumo de Custos dos Cargos em Comissão e das Funções de Confiança da Secretaria da Fazenda e Planejamento
 
 | CÓDIGO | VALOR UNITÁRIO | SITUAÇÃO NOVA |

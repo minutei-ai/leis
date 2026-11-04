@@ -1,5 +1,3 @@
-###DEC-073894-0-000-05-04-1974@@@
-
 DECRETO Nº 73.894, DE 5 DE ABRIL DE 1974.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Faculdade de Filosofia, Ciência e Letras "Barão de Mauá", mantida pela Organização Educacional "Barão de Mauá", com sede na cidade de Ribeirão Preto, Estado de São Paulo.

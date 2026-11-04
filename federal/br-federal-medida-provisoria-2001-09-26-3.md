@@ -1,5 +1,3 @@
-###MPV-000003-0-000-26-09-2001@@@
-
 MEDIDA PROVISÓRIA Nº 3, DE 26 DE SETEMBRO DE 2001
 
  Estabelece normas para registro do resultado líquido negativo decorrente do ajuste dos valores em reais de obrigações e créditos, e dá outras providências.

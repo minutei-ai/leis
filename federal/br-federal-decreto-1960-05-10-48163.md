@@ -1,5 +1,3 @@
-###DEC-048163-0-000-10-05-1960@@@
-
 DECRETO Nº 48.163, DE 10 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Bernardo Hermann Wolfgang Werner a pesquisar minério de ferro no município de Luiz Alves, Estado de Santa Catarina.

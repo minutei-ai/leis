@@ -1,5 +1,3 @@
-###DEC-052496-0-000-23-09-1963@@@
-
 Decreto nº 52.496, de 23 de setembro de 1963.
 
 Revoga o art. 2º do Decreto nº 50.564 de 9 de maio de 1961.

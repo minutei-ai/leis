@@ -1,5 +1,3 @@
-###DEC-083401-0-000-03-05-1979@@@
-
 Decreto nº 83.401, de 03 de maio de 1979.
 
 Concede reconhecimento aos cursos de Administração da Faculdade de Administração de Dourados e de Direito da Faculdade de Direito de Dourados, com sede na cidade de Dourados, Estado de Mato Grosso do Sul.

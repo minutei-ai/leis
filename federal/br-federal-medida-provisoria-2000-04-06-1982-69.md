@@ -1,5 +1,3 @@
-###MPV-001982-0-069\-06-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.982-69, DE 6 DE ABRIL DE 2000.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

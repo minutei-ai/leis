@@ -1,5 +1,3 @@
-###DEC-092868-0-000-30-06-1986@@@
-
 DECRETO Nº 92.868, DE 30 DE JUNHO DE 1986
 
 Extingue o Consulado-Geral do Brasil em Liverpool.

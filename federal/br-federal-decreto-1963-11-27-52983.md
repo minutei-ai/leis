@@ -1,5 +1,3 @@
-###DEC-052983-0-000-27-11-1963@@@
-
 DECRETO Nº 53.983, DE 27 NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Geraldo Simões Monteiro a pesquisar quartzo e mica no município de Governador Valadares, Estado de Minas Gerais.

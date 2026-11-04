@@ -1,4 +1,5 @@
-LEI Nº 21.833, DE 26 DE MARÇO DE 2023<br>
+LEI Nº 21.833, DE 26 DE MARÇO DE 2023
+
 \- [Declarada Inconstitucional pelo STF/ADI nº 7402/2023](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18336).
 
 ~~Dispõe sobre a natureza da contraprestação pelo exercício de cargos em comissão e de funções de natureza administrativa ou de representação pelos membros e servidores do Tribunal de Contas dos Municípios do Estado de Goiás e pelos procuradores do Ministério Público de Contas.~~

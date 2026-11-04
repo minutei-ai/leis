@@ -1,5 +1,3 @@
-###DEC-049354-0-000-28-11-1960@@@
-
 decreto nº 49.354, de 28 de novembro de 1960.
 
 Cria cargos e função gratificada no quadro do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

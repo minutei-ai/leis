@@ -1,5 +1,3 @@
-###DEL-002938-0-000-09-01-1941@@@
-
 DECRETO-LEI N. 2.938 – DE 9 DE JANEIRO DE 1941
 
 Abre, pelo Ministério de Agricultura., o crédito especial de 502 :329$0, para pagamento de auxílios devidos às empresas de fiação de seda nacional e à Inspetoria Regional de Sericultura de Barbacena.

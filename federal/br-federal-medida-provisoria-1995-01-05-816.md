@@ -1,7 +1,3 @@
-1
-
-###MPV-000816-0-000-05-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 816, DE 05 DE JANEIRO DE 1995
 
 Dispõe sobre a implementação da autarquia Conselho Administrativo de Defesa Econômica (Cade) criada pela Lei nº 8.884, de 11 de junho de 1994, e dá outras providências.

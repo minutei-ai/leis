@@ -1,5 +1,3 @@
-###DEC-059140-0-000-25-08-1966@@@
-
 DECRETO Nº 59.140, DE 25 DE AGÔSTO DE 1966.
 
 Declara de utilidade pública o Serviço de Assistência Rural com sede em Natal, Estado do Rio Grande do Norte.

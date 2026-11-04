@@ -1,5 +1,3 @@
-###DEC-056282-0-000-13-05-1965@@@
-
 DECRETO Nº 56.282, DE 13 DE MAIO DE 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à emprêsa “Renda Priori & Cia . Ltda.”, de Recife Pe).
@@ -14,7 +12,89 @@ decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, com a ressalva neste expressa a pertinente aos motores elétricos que acompanham alguns dos maquinismos neste relacionados, a importação de equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Renda Priori & Cia Ltda”, de Recife (Pe):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item - Especificação</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 - Formadora de corpos de latas 1 Kg, marca OSAI modêlo FO3, sem motor elétrico, Fabricação italiana ................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>23.064</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2 - Pestanheira marca OSAI para pestanhar latas, equipada com motor elétrico de 1,5 HP trifásico, Fabricação italiana .........................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>13.836</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 - Elevador magnético marca OSAI equipado com motor elétrico (trifásico de 0,5 HP. Fabricação italiana ..............................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.791</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4 - Recravadeira marca Luciani, modêlo Mirca 31 para latas redondas e retangulares. Fabricação italiana ......................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>15.876</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 - Borracheira marca Vulcano, modêlo A-9, dimensões mínima e máxima 51x51 e 72x38 mm, comprimento 1.32m, potência I C V Fabricação portuguesa .........................................................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7.503</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6 - Emassadores marca Vulcano, para funcionarem conjunto com as prensas automáticas ou independentes. Fabricação Portuguêsa .......</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.105</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7 - Cortantes de ameaços marca Vulcano, para cortar os tampos ou fundos e fazer o furo ............................................................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.263</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8 - Prensa marca Sacmi, modêlo S-85, para cortar e estampar rolhas metálicas, sem motor elétrico. Fabricação italiana, acompanhadas de 75 cunhas, 24 pinças e 10 correias de braços também equipamento de centralização completo ....................................................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>34.054</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9 - Máquina de colar gachetas em alta velocidade, marca Adarex, modêlo CRO, equipada com 3 motores elétricos de 1 HP. Fabricação inglêsa. .................................................................................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>22.995</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10 - Estufa Darex, modêlo 100 HP, poder calorífico para a seção principal e de pré-aquecimento respectivamente 175.000 e 60.000 BTU/hora, acoplada com motores elétricos de 1 e 3 HP para o ventilador principal, de 1/4 de HP para correia e de 1 HP para ventilador de resfriamento. Fabricação inglêsa. ...................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8.470</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>11 - Bomba Darex. Modêlo SE, unidade totalmente, fechada, acoplada com motores elétricos de ¾ de HP para a bomba do composto e de 1/6 de HP para a bomba de óleo. Tanque com capacidade para 5 galões, equipada com aquecedor elétrico, bomba de óleo, termometro para contrôle de temperatura. Fabricação Inglêsa. .................................................................................................</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.049</span></p></td></tr><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12 - Freza universal marca Saimp modêlo FUR-2/Mn acoplada com 3 motores elétricos trifásicos, sendo um de 4 HP, um de 1/3 de HP e um de 0,15 HP. Rotação da mesa dos dois lados 45º distância mínima e máxima entre mandril e o plano da mesa 0,0 e 440 mm, rotações mínima e máxima 34 e 1400 r.p.m. Fabricação italiana ........</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.839</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>TOTAL ........................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>141.845</span></p></td></tr></tbody></table>
+Item - Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1 - Formadora de corpos de latas 1 Kg, marca OSAI modêlo FO3, sem motor elétrico, Fabricação italiana ................................................
+
+2
+
+23.064
+
+2 - Pestanheira marca OSAI para pestanhar latas, equipada com motor elétrico de 1,5 HP trifásico, Fabricação italiana .........................
+
+3
+
+13.836
+
+3 - Elevador magnético marca OSAI equipado com motor elétrico (trifásico de 0,5 HP. Fabricação italiana ..............................................
+
+3
+
+4.791
+
+4 - Recravadeira marca Luciani, modêlo Mirca 31 para latas redondas e retangulares. Fabricação italiana ......................................
+
+8
+
+15.876
+
+5 - Borracheira marca Vulcano, modêlo A-9, dimensões mínima e máxima 51x51 e 72x38 mm, comprimento 1.32m, potência I C V Fabricação portuguesa .........................................................................
+
+3
+
+7.503
+
+6 - Emassadores marca Vulcano, para funcionarem conjunto com as prensas automáticas ou independentes. Fabricação Portuguêsa .......
+
+4
+
+2.105
+
+7 - Cortantes de ameaços marca Vulcano, para cortar os tampos ou fundos e fazer o furo ............................................................................
+
+4
+
+1.263
+
+8 - Prensa marca Sacmi, modêlo S-85, para cortar e estampar rolhas metálicas, sem motor elétrico. Fabricação italiana, acompanhadas de 75 cunhas, 24 pinças e 10 correias de braços também equipamento de centralização completo ....................................................................
+
+2
+
+34.054
+
+9 - Máquina de colar gachetas em alta velocidade, marca Adarex, modêlo CRO, equipada com 3 motores elétricos de 1 HP. Fabricação inglêsa. .................................................................................................
+
+2
+
+22.995
+
+10 - Estufa Darex, modêlo 100 HP, poder calorífico para a seção principal e de pré-aquecimento respectivamente 175.000 e 60.000 BTU/hora, acoplada com motores elétricos de 1 e 3 HP para o ventilador principal, de 1/4 de HP para correia e de 1 HP para ventilador de resfriamento. Fabricação inglêsa. ...................................
+
+1
+
+8.470
+
+11 - Bomba Darex. Modêlo SE, unidade totalmente, fechada, acoplada com motores elétricos de ¾ de HP para a bomba do composto e de 1/6 de HP para a bomba de óleo. Tanque com capacidade para 5 galões, equipada com aquecedor elétrico, bomba de óleo, termometro para contrôle de temperatura. Fabricação Inglêsa. .................................................................................................
+
+2
+
+3.049
+
+12 - Freza universal marca Saimp modêlo FUR-2/Mn acoplada com 3 motores elétricos trifásicos, sendo um de 4 HP, um de 1/3 de HP e um de 0,15 HP. Rotação da mesa dos dois lados 45º distância mínima e máxima entre mandril e o plano da mesa 0,0 e 440 mm, rotações mínima e máxima 34 e 1400 r.p.m. Fabricação italiana ........
+
+1
+
+4.839
+
+TOTAL ........................................................
+
+-
+
+141.845
 
 Parágrafo único. Para efeito da isenção de que trata o presente decreto e com respeito aos motores elétricos citados na descrição retro, fica sua similaridade para ser examinada pela alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Sr. Ministro da Fazenda.
 

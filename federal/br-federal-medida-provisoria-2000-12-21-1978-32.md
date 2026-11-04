@@ -1,5 +1,3 @@
-###MPV-001978-0-032\-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.978-32, De 21 de dezembro DE 2000.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

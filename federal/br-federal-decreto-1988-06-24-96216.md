@@ -1,5 +1,3 @@
-###DEC-096216-0-000-24-06-1988@@@
-
 DECRETO N° 96.216, DE 24 DE JUNHO DE 1988
 
 Autoriza a Telecomunicações Brasilei­ras S.A. -   TELEBRÁS e suas controladas a promoverem aumento de capital social.

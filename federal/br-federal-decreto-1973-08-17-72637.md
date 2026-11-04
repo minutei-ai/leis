@@ -1,5 +1,3 @@
-###DEC-072637-0-000-17-08-1973@@@
-
 DECRETO Nº 72.637, DE 17 DE AGOSTO DE 1973.
 
 Modifica a Organização da Força Terrestre e dá outras providências.

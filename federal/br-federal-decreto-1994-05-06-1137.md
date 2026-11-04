@@ -1,7 +1,3 @@
-1
-
-###DEC-001137-0-000-06-05-1994@@@
-
 DECRETO N° 1.137, DE 6 DE MAIO DE 1994
 
 Cria o Comando Naval da Amazônia Ocidental e dá outras providências.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/da595691-3e5f-4500-8855-e06d98438f3a/texto#nowhere)
 
-###DEL-000934-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 934, DE 13 DE OUTUBRO DE 1969
 
 Transfere cargo do Ministério da Fazenda para o Ministério das Minas e Energia.

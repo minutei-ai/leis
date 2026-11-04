@@ -1,5 +1,3 @@
-###DEL-004746-0-000-25-09-1942@@@
-
 DECRETO-LEI N. 4.746 – DE 25 DE SETEMBRO DE 1942
 
 Institue, com personalidade própria de natureza autárquica, a Rede de Viação Paraná-Santa Catarina e dá outras providências

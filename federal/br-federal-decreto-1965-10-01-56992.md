@@ -1,5 +1,3 @@
-###DEC-056992-0-000-01-10-1965@@@
-
 DECRETO Nº 56.992, DE 1º DE OUTUBRO de 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste para efeito de isenção de quaisquer taxas e impostos federais a importação de equipamentos novos, sem similar nacional registrado neste descritos e consignados à emprêsa “CONAC S.A. Indústria de Artefatos do Couro”, de Fortaleza, Estado do Ceará.
@@ -14,7 +12,59 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar registrado no país, a seguir descritos e consignados à emprêsa “CONAC S.A.- Indústria de Artefatos do Couro”, de Fortaleza (Ce):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Máquina de pespontar à esquerda, Adler, tipo 49-1, sòmente o cabeçote a ser equipada com motor nacional de ¼ HP, adquirida da Kochs Adlernahmaschinem Wernke A. G. Bielefeld, Alemanha Ocidental...................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Máquina de pespontar, de coluna e duas agulhas, Adler, tipo 68/202- SR. Sòmente o cabeçote, a ser equipada com motor nacional de 1/4HP- Alemanha Ocidental.................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Máquina de pespontar e refilar, de coluna marca Adler, tipo 68/502, sòmente o cabeçote a ser equipada com motor de 1/4HP, Alemanha Ocidental.......................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Máquina de pespontar em zig-zag, Adler, tipo 98-2-8, sòmente o cabeçote, a ser equipada, com motor de 1/4HP- Alemanha Ocidental...................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Máquina plana de pespontar, com duas agulhas Adler, tipo 67-203-S, a ser equipada com motor nacional de 1/4HP.- Alemanha Ocidental...................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>14</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>5</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>5</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.464</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.675</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.470</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>650</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>285</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total...........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.544</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Máquina de pespontar à esquerda, Adler, tipo 49-1, sòmente o cabeçote a ser equipada com motor nacional de ¼ HP, adquirida da Kochs Adlernahmaschinem Wernke A. G. Bielefeld, Alemanha Ocidental...................................................
+
+Máquina de pespontar, de coluna e duas agulhas, Adler, tipo 68/202- SR. Sòmente o cabeçote, a ser equipada com motor nacional de 1/4HP- Alemanha Ocidental.................................
+
+Máquina de pespontar e refilar, de coluna marca Adler, tipo 68/502, sòmente o cabeçote a ser equipada com motor de 1/4HP, Alemanha Ocidental.......................................................
+
+Máquina de pespontar em zig-zag, Adler, tipo 98-2-8, sòmente o cabeçote, a ser equipada, com motor de 1/4HP- Alemanha Ocidental...................................................................
+
+Máquina plana de pespontar, com duas agulhas Adler, tipo 67-203-S, a ser equipada com motor nacional de 1/4HP.- Alemanha Ocidental...................................................................
+
+14
+
+5
+
+5
+
+2
+
+1
+
+2.464
+
+1.675
+
+1.470
+
+650
+
+285
+
+Total...........................................................................................
+
+-
+
+6.544
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinária, fica sua similaridade, para efeito da isenção de que trata o presente decreto, para ser examinada pela alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

@@ -1,5 +1,3 @@
-###DEC-071277-0-000-31-10-1972@@@
-
 DECRETO Nº 71.277 - DE 31 DE OUTUBRO DE 1972.
 
 Regulamenta o Decreto-lei nº 1.236, de 28 de agosto de 1972, dispõe sobre a aplicação de medidas previstas no Decreto-lei nº 1.244, de 31 de outubro de 1972, e dá outras providências.

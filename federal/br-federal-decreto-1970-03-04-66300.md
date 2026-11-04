@@ -1,5 +1,3 @@
-###DEC-066300-0-000-04-03-1970@@@
-
 DECRETO Nº 66.300 - DE 4 DE MARÇO DE 1970
 
 Concede permissão, em caráter permanente, à firma DOMINIUM S.A. Indústria e Comércio, estabelecida na Capital do Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos, e dá outras providências.

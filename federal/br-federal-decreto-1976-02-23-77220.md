@@ -1,5 +1,3 @@
-###DEC-077220-0-000-23-02-1976@@@
-
 DECRETO Nº 77.220, DE 23 DE FEVEREIRO DE 1976
 
 Prorroga o prazo da autorização concedida pelo Decreto n.º 73.709, de 1 de março de 1974, alterado pelo Decreto número 75.517, de 19 de março de 1975 à Companhia Marlin International Drilling Company.

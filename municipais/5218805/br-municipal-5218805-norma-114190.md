@@ -12,12 +12,10 @@ Art. 3º Esta lei entrará em vigência na data de sua publicação, revogando-s
 
 Gabinete do Prefeito de Rio Verde, aos 12 de novembro de 2025.
 
-WELLINGTON SOARES CARRIJO FILHO<br>
+WELLINGTON SOARES CARRIJO FILHO
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
-Procurador-Geral
+VINÍCIUS FONSÊCA CAMPOS
 
-<br>
-<br>
+Procurador-Geral

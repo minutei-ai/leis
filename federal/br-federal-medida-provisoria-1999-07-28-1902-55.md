@@ -1,5 +1,3 @@
-###MPV-001902-0-055-28-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.902-55, DE 28 DE JULHO DE 1999.
 
 Dá nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996.

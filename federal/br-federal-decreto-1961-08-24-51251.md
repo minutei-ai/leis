@@ -1,5 +1,3 @@
-###DEC-051251-0-000-24-08-1961@@@
-
 DECRETO Nº 51.251, DE 24 DE AGÔSTO DE 1961.
 
 Institui sob a Presidência do Instituto Nacional de Imigração e Colonização, o “Grupo de Estudos de Mão-de-Obra”.

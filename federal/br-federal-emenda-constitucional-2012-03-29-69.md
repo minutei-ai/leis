@@ -1,8 +1,6 @@
-###EMC-000069-0-000-29-03-2012-PUB-01@@@
+**EMENDA CONSTITUCIONAL Nº69**
 
-<strong>EMENDA CONSTITUCIONAL Nº</strong> <strong>69</strong>
-
-<em><strong>Altera os arts. 21, 22 e 48 da Constituição Federal, para transferir da União para o Distrito Federal as atribuições de organizar e manter a Defensoria Pública do Distrito Federal.</strong></em>
+***Altera os arts. 21, 22 e 48 da Constituição Federal, para transferir da União para o Distrito Federal as atribuições de organizar e manter a Defensoria Pública do Distrito Federal.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
@@ -40,7 +38,7 @@ Art. 4º Esta Emenda Constitucional entra em vigor na data de sua publicação, 
 
 Brasília, 29 de março de 2012.
 
-<strong>Mesa da Câmara dos Deputados</strong>                                                                                          <strong>Mesa do Senado Federal</strong>
+**Mesa da Câmara dos Deputados**                                                                                          **Mesa do Senado Federal**
 
 Deputado MARCO MAIA                                                                                                          Senador JOSÉ SARNEY
 

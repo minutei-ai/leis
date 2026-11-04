@@ -1,5 +1,3 @@
-###DEC-083605-0-000-19-06-1979@@@
-
 decreto nº 83.605, de 19 de junho de 1979.
 
 Autoriza a alienação do domínio útil de terreno com edificações pertencentes ao patrimônio da Universidade Federal do Rio Grande do Norte.

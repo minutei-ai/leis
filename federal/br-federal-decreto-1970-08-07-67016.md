@@ -1,5 +1,3 @@
-###DEC-067016-0-000-07-08-1970@@@
-
 DECRETO Nº 67.016, DE 7 DE AGÔSTO DE 1970.
 
 Declara de utilidade pública a Sociedade da Congregação Romana de São Domingos, com sede em Brasília, Distrito Federal.

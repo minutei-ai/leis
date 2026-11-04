@@ -1,5 +1,3 @@
-###DEC-079213-0-000-08-02-1977@@@
-
 Decreto nº 79.213, de 8 de fevereiro de 1977.
 
 Autoriza a transformação do curso de Matemática, em curso de Ciências, da Faculdade de Ciências e Letras de Apucarana, com sede na cidade de Apucarana, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-068154-0-000-02-02-1971@@@
-
 DECRETO Nº 68.154, DE 2 DE FEVEREIRO DE 1971.
 
 Concede reconhecimento ao Curso de Engenharia Civil da Faculdade de Engenharia, da Fundação Universidade de Minas Gerais.

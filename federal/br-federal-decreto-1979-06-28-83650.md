@@ -1,5 +1,3 @@
-###DEC-083650-0-000-28-06-1979@@@
-
 Decreto nº 83.650, de 28 de junho de 1979.
 
 Concede reconhecimento ao curso de Ciências habilitação em Química, da Universidade Federal de Alagoas.

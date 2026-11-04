@@ -1,5 +1,3 @@
-###DEC-082272-0-000-18-09-1978@@@
-
 Decreto nº 82.272, de 18 de setembro de 1978.
 
 Outorga à Companhia Fiação e Tecidos Santa Rosa concessão para o aproveitamento da energia hidráulica de um trecho do rio das Flores, no Município de Valença, no Estado do Rio de Janeiro, para uso exclusivo.

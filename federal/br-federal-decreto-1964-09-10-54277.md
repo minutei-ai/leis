@@ -1,5 +1,3 @@
-###DEC-054277-0-000-10-09-1964@@@
-
 DECRETO Nº 54.277, DE 10 DE SETEMBRO DE 1964.
 
 Concede reconhecimento ao Curso de Didática da Faculdade de Filosofia, Ciências e Letras Nossa Senhora do Patrocínio, de Itú - Estado de São Paulo, para os efeitos que especifica.

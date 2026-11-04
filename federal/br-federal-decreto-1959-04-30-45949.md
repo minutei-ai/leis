@@ -1,5 +1,3 @@
-###DEC-045949-0-000-30-04-1959@@@
-
 Decreto nº 45.949, De 30 de abril de 1959.
 
 Da nova, redação ao Decreto número 37.745, de 17 de agôsto de 1955, que regula a concessão da “Medalha do Pacificador”.

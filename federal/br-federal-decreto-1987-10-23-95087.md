@@ -1,5 +1,3 @@
-###DEC-095087-0-000-23-10-1987@@@
-
 DECRETO Nº 95.087, DE 23 DE OUTUBRO DE 1987
 
 Outorga concessão à RÁDIO TANGARÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Tangará da Serra, Estado de Mato Grosso.

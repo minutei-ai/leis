@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208971)<br>
-
 # EMENDA CONSTITUCIONAL N° 53, DE 19 DE DEZEMBRO DE 2023
 
 ### _Dá nova redação ao § 1° do artigo 167 da Constituição do Estado._

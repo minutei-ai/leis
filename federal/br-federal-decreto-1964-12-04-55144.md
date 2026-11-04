@@ -1,5 +1,3 @@
-###DEC-055144-0-000-04-12-1964@@@
-
 DECRETO Nº 55.144, DE 4 DE DEZEMBRO DE 1964.
 
 Autoriza a Cia. Cimento Portland de Sergipe a lavrar argila, no município de Aracaju, Estado de Sergipe.

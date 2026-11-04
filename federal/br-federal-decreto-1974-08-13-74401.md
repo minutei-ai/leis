@@ -1,5 +1,3 @@
-###DEC-074401-0-000-13-08-1974@@@
-
 DECRETO Nº 74.401 - DE 13 DE AGOSTO DE 1974.
 
 Concede à Empresa de Mineração Azevedo Ltda. o direito de Lavrar bentonita no Município de Campina Grande, Estado da Paraíba.

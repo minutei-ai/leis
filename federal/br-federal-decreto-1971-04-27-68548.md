@@ -1,5 +1,3 @@
-###DEC-068548-0-000-27-04-1971@@@
-
 DECRETO Nº 68.548, DE 27 DE ABRIL de 1971.
 
 Autorização para funcionamento da Faculdade de Formação de Professôres do 1º Ciclo, da Fundação Educacional do Agreste Alagoano, sediada em Arapiraca - AL.

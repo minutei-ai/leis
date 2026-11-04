@@ -1,5 +1,3 @@
-###DEC-079844-0-000-23-06-1977@@@
-
 DECRETO Nº 79.844, DE 23 DE JUNHO DE 1977
 
 Concede reconhecimento do curso de Ciências, da Faculdade Estadual de Filosofia, Ciências e Letras de Cornélio Procópio, com sede na Cidade de Cornélio Procópio, Estado do Paraná.

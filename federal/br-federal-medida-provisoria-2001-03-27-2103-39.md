@@ -1,5 +1,3 @@
-###MPV-002103-0-039-27-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.103-39, DE 27 DE MARÇO DE 2001
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

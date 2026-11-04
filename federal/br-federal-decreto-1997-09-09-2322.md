@@ -1,5 +1,3 @@
-###DEC-002322-0-000-09-09-1997@@@
-
 DECRETO Nº 2.322, DE 9 DE SETEMBRO DE 1997
 
 Dispõe sobre o registro da declaração de importação.

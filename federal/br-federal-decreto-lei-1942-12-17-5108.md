@@ -1,5 +1,3 @@
-###DEL-005108-0-000-17-12-1942@@@
-
 decreto-lei n. 5.108 - de 17 de dezembro de 1942
 
 Dispõe sobre a realização de um concurso entre artistas, para escolha de desenhos dos motivos que devem figurar nas novas notas de papel-moeda.

@@ -1,5 +1,3 @@
-###DEL-008790-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.790 – DE 22 DE JANEIRO DE 1946
 
 Autoriza o Ministro de Estado dos Negócios da Aeronáutica a celebrar contrato com o Instituto de Previdência e Assistência dos Servidores do Estado, para construção de uma vila residencial no Parque de Aeronáutica dos Afonsos.

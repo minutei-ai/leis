@@ -1,5 +1,3 @@
-###DEC-090425-0-000-08-11-1984@@@
-
 Decreto nº 90.425, de 08 de novembro de 1984
 
 Renova a concessão outorgada à AGIL RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Flores da Cunha, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-005482-0-000-13-05-1943@@@
-
 DECRETO‑LEI N. 5.482 – DE 13 DE MAIO DE 1943
 
 Altera a carreira de inspetor de Imigração do Quadro Único do Ministério do Trabalho, Indústria e Comércio e dá outras providências

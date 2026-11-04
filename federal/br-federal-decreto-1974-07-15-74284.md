@@ -1,5 +1,3 @@
-###DEC-074284-0-000-15-07-1974@@@
-
 DECRETO Nº 74.284 - DE 15 DE JULHO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora Carioca Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Feira de Santana, Estado da Bahia.

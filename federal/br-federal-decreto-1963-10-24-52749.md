@@ -1,5 +1,3 @@
-###DEC-052749-0-000-24-10-1963@@@
-
 DECRETO Nº 52.749, DE 24 DE OUTUBRO DE 1963.
 
 Transfere, com os respectivos cargos para o Conselho Nacional de Telecomunicações, servidores em exercício na Comissão Técnica de Rádio.

@@ -1,5 +1,3 @@
-###DEC-049666-0-000-31-12-1960@@@
-
 DECRETO Nº 49.666, DE 31 DE DEZEMBRO DE 1960.
 
 Concede à Mineração Caeté S.A. autorização para funcionar como emprêsa de mineração.

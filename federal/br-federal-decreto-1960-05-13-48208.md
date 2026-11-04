@@ -1,5 +1,3 @@
-###DEC-048208-0-000-13-05-1960@@@
-
 DECRETO Nº 48.208, DE 13 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Isaac Abramson a pesquisar argila no município de Nova Iguaçu, Estado do Rio de Janeiro.

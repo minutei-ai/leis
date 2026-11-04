@@ -1,5 +1,3 @@
-###DEC-081819-0-000-23-06-1978@@@
-
 Decreto nº 81.819, de 23 de junho de 1978.
 
 Concede à Mineração Rio do Norte S.A. o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

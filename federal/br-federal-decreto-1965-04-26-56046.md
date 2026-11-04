@@ -1,5 +1,3 @@
-###DEC-056046-0-000-26-04-1965@@@
-
 decreto nº 56.046, de 26 de abril de 1965.
 
 Autoriza o cidadão brasileiro Arthur Sanches a pesquisar feldspato no município de Monte Alegre do Sul, Estado de São Paulo.

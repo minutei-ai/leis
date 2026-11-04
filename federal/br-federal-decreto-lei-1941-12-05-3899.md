@@ -1,5 +1,3 @@
-###DEL-003899-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.899 – DE 5 DE DEZEMBRO DE 1941
 
 Altera a importância do crédito suplementar aberto ao Ministério da Justiça e Negócios Interiores, pelo artigo 19 do decreto-lei nº 3.761, de 25 de outubro de 1941

@@ -1,5 +1,3 @@
-###DEC-074412-0-000-14-08-1974@@@
-
 DECRETO Nº 74.412, DE 14 DE agosto DE 1974.
 
 Autoriza a transformação, para curso de Educação Artística, do curso de Desenho e Plástica da Escola Superior de Artes Santa Marcelina, mantida pela Associação Colégio dos Anjos, com sede na cidade de São Paulo, Estado de São Paulo.

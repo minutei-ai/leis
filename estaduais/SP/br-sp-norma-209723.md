@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209723)<br>
-
 # DECRETO N° 68.697, DE 15 DE JULHO DE 2024
 
 ### _Altera as alíneas "b" e "c" do inciso I do artigo 2° do Decreto n° 66.273, de 29 de novembro de 2021._

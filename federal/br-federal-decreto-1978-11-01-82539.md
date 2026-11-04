@@ -1,5 +1,3 @@
-###DEC-082539-0-000-01-11-1978@@@
-
 Decreto nº 82 539, de 01 de novembro de 1978
 
 Concede reconhecimento ao curso de Ciências ministrado pela Universidade Federal de São Carlos, Estado de São Paulo.

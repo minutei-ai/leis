@@ -1,5 +1,3 @@
-###DEL-003284-0-000-19-05-1941@@@
-
 DECRETO-LEI N. 3.284 – DE 19 DE MAIO DE 1941
 
 Dá nova redação ao artigo 26 do decreto-lei n. 3.200, de 19 de abril de 1941.

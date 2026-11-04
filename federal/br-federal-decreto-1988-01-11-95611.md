@@ -1,7 +1,3 @@
-1
-
-###DEC-095611-0-000-11-01-1988@@@
-
 DECRETO N° 95.611, DE 11 DE JANEIRO DE 1988
 
 Autoriza o funcionamento do curso de Desenho Industrial da Faculdade de Ciências e Artes Aplicadas de Londrina, Paraná.

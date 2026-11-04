@@ -1,5 +1,3 @@
-###DEC-056834-0-000-03-09-1965@@@
-
 DECRETO Nº 56.834, DE 3 DE SETEMBRO DE 1965.
 
 Dispensa o Ministério da Guerra de encargos relativos à Rodovia BR-82.

@@ -1,5 +1,3 @@
-###DEC-095497-0-000-16-12-1987@@@
-
 DECRETO Nº 95.497, DE 16 DE DEZEMBRO DE 1987
 
 Outorga concessão à RÁDIO VANGUARDA DE SANTA LUZIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santa Luzia, Estado do Maranhão.

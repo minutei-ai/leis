@@ -1,5 +1,3 @@
-###DEL-008423-0-000-21-12-1945@@@
-
 DECRETO-LEI N. 8.423 – DE 21 DE DEZEMBRO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 180,000,00, á verba que especifica.

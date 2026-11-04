@@ -1,5 +1,3 @@
-###DEC-047629-0-000-15-01-1960@@@
-
 Decreto nº 47.629, de 15 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro João Quarezemin a pesquisar fluorita no município de Tubarão, Estado de Santa Catarina.

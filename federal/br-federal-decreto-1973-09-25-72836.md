@@ -1,5 +1,3 @@
-###DEC-072836-0-000-25-09-1973@@@
-
 decreto nº 72.836, de 25 de setembro de 1973.
 
 Concede reconhecimento aos cursos de Administração e Ciências Contábeis, da Faculdade de Economia e Administração da Universidade de Passo Fundo, mantida pela Fundação Universidade de Passo Fundo, com sede na cidade de Passo Fundo, Estado do Rio Grande do Sul.

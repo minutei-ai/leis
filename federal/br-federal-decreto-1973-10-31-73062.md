@@ -1,5 +1,3 @@
-###DEC-073062-0-000-31-10-1973@@@
-
 decreto nº 73.062, de 31 de outubro de 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Assunção Cearense Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Fortaleza, Estado do Ceará.

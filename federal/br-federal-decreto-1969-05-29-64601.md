@@ -1,5 +1,3 @@
-###DEC-064601-0-000-29-05-1969@@@
-
 DECRETO Nº 64.601, DE 29 DE MAIO DE 1969.
 
 Redistribui, com os respectivos ocupantes para o Quadro de Pessoal - Parte Especial - do Ministério da Agricultura, cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

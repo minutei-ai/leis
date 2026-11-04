@@ -1,5 +1,3 @@
-###DEL-005130-0-000-23-12-1942@@@
-
 DECRETO-LEI N. 5.130 – DE 23 DE DEZEMBRO DE 1942
 
 Altera o decreto-lei n. 4.558, de 10 de agosto de 1942

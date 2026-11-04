@@ -1,5 +1,3 @@
-###DEC-090792-0-000-09-01-1985@@@
-
 Decreto nº 90.792, de 09 de janeiro de 1985.
 
 Dispõe sobre a declaração de área de relevante interesse ecológico, no Município de Volta Redonda, no Estado do Rio de Janeiro, e dá outras providências.

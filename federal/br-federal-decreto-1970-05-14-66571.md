@@ -1,5 +1,3 @@
-###DEC-066571-0-000-14-05-1970@@@
-
 DECRETO Nº 66.571, DE 14 DE MAIO DE 1970.
 
 Declara de utilidade pública a Santa Casa de Caridade de Diamantina, com sede em Diamantina, Estado de Minas Gerais.

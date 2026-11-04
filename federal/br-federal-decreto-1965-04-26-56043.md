@@ -1,5 +1,3 @@
-###DEC-056043-0-000-26-04-1965@@@
-
 DECRETO Nº 56.043, DE 26 DE ABRIL DE 1965.
 
 Re-retifica o Decreto nº 48.317, de 20 de junho de 1960.

@@ -1,5 +1,3 @@
-###DEC-045804-0-000-15-04-1959@@@
-
 DECRETO Nº 45.804, DE 15 DE ABRIL DE 1959.
 
 Transfere função da Tabela Numérica Especial de Extranumerário Mensalista do Ministério da Marinha, que menciona.

@@ -1,5 +1,3 @@
-###DEL-006480-0-000-09-05-1944@@@
-
 DECRETO-LEI N. 6.480 – DE 9 DE MAIO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 41.661,30, para pagamento da vantagem (Pessoal) que indica

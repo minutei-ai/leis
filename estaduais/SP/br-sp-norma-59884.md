@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59884)
-
 # LEI Nº 12.205, DE 06 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 426/2005, da Deputada Rosmary Corrêa - PSDB)

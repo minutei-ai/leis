@@ -1,5 +1,3 @@
-###DEL-008315-0-000-07-12-1945@@@
-
 DECRETO-LEI N. 8.315 – DE 7 DE DEZEMBRO DE 1945
 
 Dispõe sôbre gratificação de magistério.

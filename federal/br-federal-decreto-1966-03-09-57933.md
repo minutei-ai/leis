@@ -1,5 +1,3 @@
-###DEC-057933-0-000-09-03-1966@@@
-
 DECRETO Nº 57.933, DE 9 DE MARÇO DE 1966.
 
 Concede a The Yasuda Fire and Marine Insurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

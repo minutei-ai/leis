@@ -1,5 +1,3 @@
-###DEC-052313-0-000-31-07-1963@@@
-
 DECRETO Nº 52.313, DE 31 DE JULHO De 1963.
 
 Abre pelo Ministério da Fazenda, o crédito especial de Cr$210.000.000.000,00, para os fins que especifica.

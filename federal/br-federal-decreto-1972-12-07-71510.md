@@ -1,5 +1,3 @@
-###DEC-071510-0-000-07-12-1972@@@
-
 DECRETO Nº 71.510 - DE 7 DE DEZEMBRO DE 1972
 
 Confisca bens do cidadão Isaac Mariz Nobre, domiciliado no Estado da Paraíba, para a reparação de danos causados ao patrimônio público, e dá outras providências.

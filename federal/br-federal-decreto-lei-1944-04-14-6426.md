@@ -1,5 +1,3 @@
-###DEL-006426-0-000-14-04-1944@@@
-
 DECRETO-LEI N. 6.426 – DE 14 DE ABRIL DE 1944
 
 Incorpora os imóveis que menciona ao patrimônio nacional

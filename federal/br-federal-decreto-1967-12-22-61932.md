@@ -1,5 +1,3 @@
-###DEC-061932-0-000-22-12-1967@@@
-
 DECRETO Nº 61.932, DE 22 DE DEZEMBRO DE 1967.
 
 Extingue o Consulado honorário do Brasil em Málaga, Espanha.

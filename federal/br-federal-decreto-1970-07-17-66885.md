@@ -1,5 +1,3 @@
-###DEC-066885-0-000-17-07-1970@@@
-
 Decreto nº 66.885, de 17 de julho de 1970.
 
 Autoriza o funcionamento do Curso de Administração de Emprêsas da Faculdade de Ciências Econômicas do Paraná.

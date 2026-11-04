@@ -1,5 +1,3 @@
-###MPV-001738-0-023-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.738-23, DE 2 DE JUNHO DE 1999.
 
 Cria o Fundo de Garantia à Exportação - FGE, e dá outras providências.

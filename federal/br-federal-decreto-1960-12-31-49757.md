@@ -1,5 +1,3 @@
-###DEC-049757-0-000-31-12-1960@@@
-
 DECRETO Nº 49.757, de 31 de dezembro DE 1960.
 
 Dá nova redação ao § 2º do art. 4º do Decreto nº 48.270, de 4 de junho de 1960.

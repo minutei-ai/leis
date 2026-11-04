@@ -1,5 +1,3 @@
-###DEC-086892-0-000-01-02-1982@@@
-
 decreto nº 86.892, de 01 de fevereiro de 1982.
 
 Declara de interesse social para fins de desapropriação, imóveis situados em Recife, Estado de Pernambuco, e dá outras providências.

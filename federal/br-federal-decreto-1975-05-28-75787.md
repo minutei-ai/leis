@@ -1,5 +1,3 @@
-###DEC-075787-0-000-28-05-1975@@@
-
 Decreto nº 75.787, de 28 de maio de 1975
 
 Concede à Azulejos do Pará S. A. - AZPA o direito de lavrar argila caulínica no Município de Irituia, Estado do Pará.

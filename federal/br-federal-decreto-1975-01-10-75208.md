@@ -1,5 +1,3 @@
-###DEC-075208-0-000-10-01-1975@@@
-
 DECRETO Nº 75.208, DE 10 DE JANEIRO DE 1975.
 
 Estende aos garimpeiros autônomos os benefícios do PRORURAL, extingue a Fundação de Assistência aos Garimpeiros e dá outras providências.

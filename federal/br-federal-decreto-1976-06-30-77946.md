@@ -1,5 +1,3 @@
-###DEC-077946-0-000-30-06-1976@@@
-
 DECRETO Nº 77.946, DE 30 DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Ciências e Letras da Alta Sorocabana, com sede na cidade de Presidente Prudente, São Paulo.

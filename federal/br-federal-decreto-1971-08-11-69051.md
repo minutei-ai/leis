@@ -1,5 +1,3 @@
-###DEC-069051-0-000-11-08-1971@@@
-
 decreto nº 69.051, de 11 de agôsto de 1971.
 
 Concede autorização a sociedade seguradora estrangeira para aumentar o capital de suas operações no Brasil.

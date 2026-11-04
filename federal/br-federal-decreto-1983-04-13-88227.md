@@ -1,5 +1,3 @@
-###DEC-088227-0-000-13-04-1983@@@
-
 Decreto nº 88.227, de 13 de abril de 1983
 
 Autoriza o aumento do Capital Social da Companhia Vale do Rio Doce - CVRD.

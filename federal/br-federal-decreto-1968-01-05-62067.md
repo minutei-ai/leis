@@ -1,30 +1,28 @@
-###DEC-062067-0-000-05-01-1968@@@
+**DECRETO Nº 62.067, DE 5 DE JANEIRO DE 1968.**
 
-<strong>DECRETO Nº 62.067, DE 5 DE JANEIRO DE 1968.</strong>
+***Aprova o Regimento Interno da Comissão Executiva do Sal.***
 
-<em><strong>Aprova o Regimento Interno da Comissão Executiva do Sal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II da Constituição, e tendo em vista o disposto no artigo 24, do Decreto-lei nº 257, de 28 de fevereiro de 1967,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II da Constituição, e tendo em vista o disposto no artigo 24, do Decreto-lei nº 257, de 28 de fevereiro de 1967,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento Interno da Comissão Executiva do Sal (CES) que com êste baixa, assinado pelo Ministro de Estado da Indústria e do Comércio.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento Interno da Comissão Executiva do Sal (CES) que com êste baixa, assinado pelo Ministro de Estado da Indústria e do Comércio.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 5 de janeiro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 José Fernandes de Luna
 
-<strong>REGIMENTO INTERNO DA COMISSÃO EXECUTIVA DO SAL DO MINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO</strong>
+**REGIMENTO INTERNO DA COMISSÃO EXECUTIVA DO SAL DO MINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Das Finalidades</em>
+*Das Finalidades*
 
-<strong>Art</strong>. 1º A Comissão Executiva do Sal (CES), criada pelo Decreto-lei nº 257, de 28 de fevereiro de 1967, é órgão integrante do Gabinete do Ministro de Estado da Indústria e do Comércio e tem por objetivos:
+**Art**. 1º A Comissão Executiva do Sal (CES), criada pelo Decreto-lei nº 257, de 28 de fevereiro de 1967, é órgão integrante do Gabinete do Ministro de Estado da Indústria e do Comércio e tem por objetivos:
 
 a) estudar a situação econômica do sal, não só o obtido por evaporação solar como o extraído de jazidas minerais ou produzido por quaisquer outros processos;
 
@@ -62,11 +60,11 @@ r) promover, sempre que fôr necessário, a adoção de medidas que assegurem o 
 
 s) baixar, em casos especiais, as normas necessárias sôbre a fixação dos preços do sal.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Dos recursos e sua aplicação</em>
+*Dos recursos e sua aplicação*
 
-<strong>Art</strong>. 2º A receita da Comissão Executiva do Sal, destinada à manutenção dos seus serviços e à execução da Política Econômica do Sal, será constituída pelas seguintes fontes:
+**Art**. 2º A receita da Comissão Executiva do Sal, destinada à manutenção dos seus serviços e à execução da Política Econômica do Sal, será constituída pelas seguintes fontes:
 
 a)”Fundo de Desenvolvimento da Indústria Salineira”, criado pelo Decreto nº 55.842, de 16 de março de 1965;
 
@@ -82,39 +80,39 @@ f) multas;
 
 g) rendas eventuais.
 
-<strong>Art</strong>. 3º Os recursos atribuídos à Comissão Executiva do Sal destinam-se à manutenção dos seus serviços de execução da Política Econômica do Sal, sendo permitido o seu investimento para a obtenção de recursos destinados ao mesmo fim.
+**Art**. 3º Os recursos atribuídos à Comissão Executiva do Sal destinam-se à manutenção dos seus serviços de execução da Política Econômica do Sal, sendo permitido o seu investimento para a obtenção de recursos destinados ao mesmo fim.
 
 Parágrafo único. Os recursos da Comissão Executiva do Sal são depositados no Banco do Brasil S.A., em conta especial.
 
-<strong>Art</strong>. 4º A movimentação dos recursos financeiros da Comissão Executiva do Sal será efetivada pelo Vice-Presidente Executivo, em conformidade com o disposto no art.10, alínea <em>b</em>, do Decreto-lei nº 257, citado.
+**Art**. 4º A movimentação dos recursos financeiros da Comissão Executiva do Sal será efetivada pelo Vice-Presidente Executivo, em conformidade com o disposto no art.10, alínea *b*, do Decreto-lei nº 257, citado.
 
 Parágrafo único. Dos cheques emitidos para movimentação dos recursos tratados neste artigo deverão constar a assinatura do Chefe da Turma Financeira e de Contabilidade do órgão e o visto do Vice-Presidente Executivo.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do patrimônio e sua utilização</em>
+*Do patrimônio e sua utilização*
 
-<strong>Art</strong>. 5º O patrimônio da Comissão Executiva do Sal é constituído pelos bens e valôres a que alude o art. 19 do Decreto-lei nº 257, citado, acrescidos dos recursos que lhe forem destinados, de acôrdo com o art. 2º dêste Regimento Interno.
+**Art**. 5º O patrimônio da Comissão Executiva do Sal é constituído pelos bens e valôres a que alude o art. 19 do Decreto-lei nº 257, citado, acrescidos dos recursos que lhe forem destinados, de acôrdo com o art. 2º dêste Regimento Interno.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Regime Financeiro</em>
+*Do Regime Financeiro*
 
-<strong>Art</strong>. 6º O exercício financeiro coincidirá com o ano civil.
+**Art**. 6º O exercício financeiro coincidirá com o ano civil.
 
-<strong>Art</strong>. 7º Compete ao Vice-Presidente Executivo, em colaboração com os órgãos competentes do Ministério da Indústria e do Comércio, a elaboração da proposta orçamentária da Comissão Executiva do Sal ou do plano de aplicação da verba consignada no orçamento do Ministério em causa, a ela destinada.
+**Art**. 7º Compete ao Vice-Presidente Executivo, em colaboração com os órgãos competentes do Ministério da Indústria e do Comércio, a elaboração da proposta orçamentária da Comissão Executiva do Sal ou do plano de aplicação da verba consignada no orçamento do Ministério em causa, a ela destinada.
 
-<strong>Art</strong>. 8º O Vice-Presidente Executivo encaminhará, anualmente, ao Plenário da Comissão Executiva do Sal, o relatório de suas atividades, concernentes ao exercício anterior, assim como a prestação de contas do mesmo exercício, na forma da legislação em vigor.
+**Art**. 8º O Vice-Presidente Executivo encaminhará, anualmente, ao Plenário da Comissão Executiva do Sal, o relatório de suas atividades, concernentes ao exercício anterior, assim como a prestação de contas do mesmo exercício, na forma da legislação em vigor.
 
-<strong>Art</strong>. 9º Mensalmente, o Vice-Presidente Executivo submeterá à apreciação da Inspetoria Geral de Finanças do Ministério da Indústria e do Comércio o balancete financeiro da Comissão Executiva do Sal, o qual, uma vez examinado e com parecer da Inspetoria, será encaminhado ao Plenário da Comissão.
+**Art**. 9º Mensalmente, o Vice-Presidente Executivo submeterá à apreciação da Inspetoria Geral de Finanças do Ministério da Indústria e do Comércio o balancete financeiro da Comissão Executiva do Sal, o qual, uma vez examinado e com parecer da Inspetoria, será encaminhado ao Plenário da Comissão.
 
-<strong>Art</strong>. 10. No fim de cada exercício será encaminhado para exame à Inspetoria-Geral de Finanças do Ministério da Indústria e do Comércio, o balanço financeiro, a qual sôbre o mesmo emitirá parecer, sendo depois submetido ao plenário da Comissão.
+**Art**. 10. No fim de cada exercício será encaminhado para exame à Inspetoria-Geral de Finanças do Ministério da Indústria e do Comércio, o balanço financeiro, a qual sôbre o mesmo emitirá parecer, sendo depois submetido ao plenário da Comissão.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 11. A CES, que será presidida pelo Ministro da Indústria e do Comércio e, nos seus impedimentos, pelo Vice-Presidente Executivo, compreende:
+**Art**. 11. A CES, que será presidida pelo Ministro da Indústria e do Comércio e, nos seus impedimentos, pelo Vice-Presidente Executivo, compreende:
 
 I - Presidência
 
@@ -166,19 +164,19 @@ g) Seção de Administração (AS)
 
 IV - Junta Consultiva (JC)
 
-<strong>Art</strong>. 12. As gratificações de representação de Gabinete obedecerão às normas regulamentares e serão fixadas de acôrdo com os recursos orçamentários.
+**Art**. 12. As gratificações de representação de Gabinete obedecerão às normas regulamentares e serão fixadas de acôrdo com os recursos orçamentários.
 
-<strong>Art</strong>. 13. Haverá também pessoal contratado de acôrdo com o artigo 14 do Decreto-lei nº 257, de 28 de fevereiro de 1967.
+**Art**. 13. Haverá também pessoal contratado de acôrdo com o artigo 14 do Decreto-lei nº 257, de 28 de fevereiro de 1967.
 
-<strong>Art</strong>. 14. O Pessoal da CES servirá, de preferência, em regime de tempo integral.
+**Art**. 14. O Pessoal da CES servirá, de preferência, em regime de tempo integral.
 
-<strong>Art</strong>. 15. A CES contará com colaboração de natureza eventual para a prestação de serviços, retribuída mediante recibo, de acôrdo com o art. 111, do Decreto-lei nº 200, de 25 de fevereiro de 1967.
+**Art**. 15. A CES contará com colaboração de natureza eventual para a prestação de serviços, retribuída mediante recibo, de acôrdo com o art. 111, do Decreto-lei nº 200, de 25 de fevereiro de 1967.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Competência dos órgãos</em>
+*Competência dos órgãos*
 
-<strong>Art</strong>. 16. Compete ao Plenário decidir sôbre os assuntos a que se referem o art. 6º e seu § 1º, do Decreto-lei número 257, de 28 de fevereiro de 1967, e o que fôr determinado em Resoluções aprovadas pelo mesmo.
+**Art**. 16. Compete ao Plenário decidir sôbre os assuntos a que se referem o art. 6º e seu § 1º, do Decreto-lei número 257, de 28 de fevereiro de 1967, e o que fôr determinado em Resoluções aprovadas pelo mesmo.
 
 § 1º O Plenário se reunirá ordinàriamente uma vez por semana, podendo também se reunir extraordinàriamente por convocação do Presidente, Vice-Presidente Executivo ou pela maioria dos seus membros.
 
@@ -186,9 +184,9 @@ IV - Junta Consultiva (JC)
 
 § 3º Cada processo distribuído poderá ser relatado, discutido e votado na mesma reunião, ou na seguinte.
 
-<strong>Art</strong>. 17. Competem à Vice-Presidência Executiva as atribuições constantes do artigo 10, do Decreto-lei número 257, de 28 de fevereiro de 1967, e o mais que fôr determinado em Resoluções aprovadas pelo Plenário.
+**Art**. 17. Competem à Vice-Presidência Executiva as atribuições constantes do artigo 10, do Decreto-lei número 257, de 28 de fevereiro de 1967, e o mais que fôr determinado em Resoluções aprovadas pelo Plenário.
 
-<strong>Art</strong>. 18. São atribuições do Gabinete da Vice-Presidência Executiva:
+**Art**. 18. São atribuições do Gabinete da Vice-Presidência Executiva:
 
 a) cooperar no estudo, e execução das providências de ordem administrativa e técnico-econômica, submetidos à decisão ou parecer da Vice-Presidência Executiva;
 
@@ -200,9 +198,9 @@ d) preparar e providenciar a expedição da correspondência da Vice-Presidênci
 
 e) controlar os processos e documentos em tramitação na Secretaria e submetidos à apreciação da Vice-Presidência Executiva.
 
-<strong>Art</strong>. 19. À Assessoria Jurídica incumbe assessorar o Vice-Presidente Executivo nos assuntos jurídicos, estudando os que lhe forem submetidos, emitindo pareceres e sugestões, bem como participar da elaboração de minutas, convênios, acôrdos e contratos.
+**Art**. 19. À Assessoria Jurídica incumbe assessorar o Vice-Presidente Executivo nos assuntos jurídicos, estudando os que lhe forem submetidos, emitindo pareceres e sugestões, bem como participar da elaboração de minutas, convênios, acôrdos e contratos.
 
-<strong>Art</strong>. 20. Ao Serviço de Estudos Técnicos compete a prestação de assistência técnica à indústria do sal, em geral, promovendo:
+**Art**. 20. Ao Serviço de Estudos Técnicos compete a prestação de assistência técnica à indústria do sal, em geral, promovendo:
 
 1\) Pela Assessoria Técnica:
 
@@ -230,7 +228,7 @@ l) introdução de normas técnicas para padronização, classificação e contr
 
 2\) Pelo Laboratório a análise da composição química do Sal nos seus diversos tipos e apicações.
 
-<strong>Art</strong>. 21. Ao Serviço de Planejamento Econômico incube elaborar pesquisas e estudos econômicos, objetivando maior produtividade e equacionamento dos problemas da indústria salineira do país, promovendo:
+**Art**. 21. Ao Serviço de Planejamento Econômico incube elaborar pesquisas e estudos econômicos, objetivando maior produtividade e equacionamento dos problemas da indústria salineira do país, promovendo:
 
 1\) Pela Assessoria Econômica:
 
@@ -278,7 +276,7 @@ e) o estudo e informação dos processos de sua competência; e
 
 f) a execução dos demais serviços estatísticos que forem julgados indispensáveis.
 
-<strong>Art</strong>. 22. À Inspetoria Geral de Fiscalização, através das suas Inspetorias Regionais compete:
+**Art**. 22. À Inspetoria Geral de Fiscalização, através das suas Inspetorias Regionais compete:
 
 a) zelar pela observância das disposições legais e regulamentares e das resoluções da CES, no que diz respeito à produção, entrega ao consumo, transporte de sal, etc.;
 
@@ -288,7 +286,7 @@ c) exercer severa vigilância nos navios, quer no carregamento quer na descarga 
 
 d) executar outras tarefas correlatas.
 
-<strong>Art</strong>. 23. À Seção de Documentação e Divulgação incumbe:
+**Art**. 23. À Seção de Documentação e Divulgação incumbe:
 
 a) reunir e organizar as documentações técnicas e econômicas da CES, instituindo, também um sistema de catálogo coletivo que permita a localização de qualquer documento técnico ou econômico existente em outros centros de documentação;
 
@@ -302,7 +300,7 @@ e) executar as demais tarefas específicas de documentação e informação que 
 
 f) manter uma biblioteca especializada com assinatura de revistas nacionais e estrangeiras.
 
-<strong>Art</strong>. 24. À Seção de Administração compete:
+**Art**. 24. À Seção de Administração compete:
 
 1\) À Turma Financeira e de Contabilidade:
 
@@ -336,15 +334,15 @@ h) entregar ao destinatário a correspondência recebida pela Portaria; e
 
 i) ter sob sua jurisdição os serviços telefônicos da sede, zelando pelo seu perfeito funcionamento.
 
-<strong>Art</strong>. 25. À Junta Consultiva incumbe assessorar, nos têrmos do artigo 9º do Decreto-lei nº 257, de 28 de fevereiro de 1967, a Comissão Executiva do Sal.
+**Art**. 25. À Junta Consultiva incumbe assessorar, nos têrmos do artigo 9º do Decreto-lei nº 257, de 28 de fevereiro de 1967, a Comissão Executiva do Sal.
 
 Parágrafo único. A Junta Consultiva se reunirá ordinariàmente uma vez por mês e extraordinàriamente por convocação do Vice-Presidente Executivo ou pela maioria dos seus membros.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Do Pessoal e suas Atribuições</em>
+*Do Pessoal e suas Atribuições*
 
-<strong>Art</strong>. 26. Ao Presidente compete:
+**Art**. 26. Ao Presidente compete:
 
 a) presidir as reuniões do Plenário;
 
@@ -358,23 +356,23 @@ e) atribuir gratificações de representação de gabinete, nos têrmos da legis
 
 f) praticar os demais atos que se fizerem necessários ao fiel cumprimento dos objetivos da CES.
 
-<strong>Art</strong>. 27. Ao Chefe da Secretaria do Plenário incumbe chefiar a mesma distribuindo os trabalhos, controlando a produção e executando as demais tarefas previstas no Regimento Interno do Plenário.
+**Art**. 27. Ao Chefe da Secretaria do Plenário incumbe chefiar a mesma distribuindo os trabalhos, controlando a produção e executando as demais tarefas previstas no Regimento Interno do Plenário.
 
-<strong>Art</strong>. 28. Compete ao Vice-Presidente Executivo, além das atribuições constantes do artigo 10 do Decreto-lei número 257, de 28 de fevereiro de 1967, e o mais que fôr determinado em Resoluções aprovadas pelo Plenário, ou instruções do Ministro da Indústria e do Comércio:
+**Art**. 28. Compete ao Vice-Presidente Executivo, além das atribuições constantes do artigo 10 do Decreto-lei número 257, de 28 de fevereiro de 1967, e o mais que fôr determinado em Resoluções aprovadas pelo Plenário, ou instruções do Ministro da Indústria e do Comércio:
 
 a) designar os substitutos eventuais dos funcionários da CES;
 
-b) julgar em 1ª instância os autos de infração, inclusive os lavrados na vigência da legislação anterior, interpondo recurso <em>ex offício</em> das decisões que concluírem pela inprocedência do auto ou pelo arquivamento do processo.
+b) julgar em 1ª instância os autos de infração, inclusive os lavrados na vigência da legislação anterior, interpondo recurso *ex offício* das decisões que concluírem pela inprocedência do auto ou pelo arquivamento do processo.
 
-<strong>Art</strong>. 29. Aos Chefes das unidades administrativas da CES compete dirigir os respectivos serviços, distribuindo, coordenando e controlando os trabalhos, bem assim zelar pela disciplina das mesmas.
+**Art**. 29. Aos Chefes das unidades administrativas da CES compete dirigir os respectivos serviços, distribuindo, coordenando e controlando os trabalhos, bem assim zelar pela disciplina das mesmas.
 
-<strong>Art</strong>. 30. Aos demais servidores que não tenham atribuições definidas neste Regimento, incumbe executar os serviços próprios dos seus cargos e funções, sob determinação e supervisão dos respectivos chefes.
+**Art**. 30. Aos demais servidores que não tenham atribuições definidas neste Regimento, incumbe executar os serviços próprios dos seus cargos e funções, sob determinação e supervisão dos respectivos chefes.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 31. Serão substituídos, automàticamente, em suas faltas eventuais até 30 dias:
+**Art**. 31. Serão substituídos, automàticamente, em suas faltas eventuais até 30 dias:
 
 I - O Vice-Presidente Executivo pelo Chefe do Gabinete ou Chefe de Serviço;
 
@@ -382,34 +380,34 @@ II - Os demais Chefes por um funcionário pôr eles indicados e designados pelo 
 
 Parágrafo único. Haverá, sempre, substitutos previamente designados para tôdas as funções referidas neste Regimento.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Da Administração do “Fundo de Desenvolvimento da Indústria Salineira e Melhoria do Sistema de Distribuição do Sal”</em>
+*Da Administração do “Fundo de Desenvolvimento da Indústria Salineira e Melhoria do Sistema de Distribuição do Sal”*
 
-<strong>Art</strong>. 32. A aplicação dos recursos do “Fundo” de que trata o Decreto nº 55.842, de 16 de março de 1965, será feita de acôrdo com o que dispõe o referido decreto.
+**Art**. 32. A aplicação dos recursos do “Fundo” de que trata o Decreto nº 55.842, de 16 de março de 1965, será feita de acôrdo com o que dispõe o referido decreto.
 
-<strong>Art</strong>. 33. Os recursos financeiros de que trata o artigo anterior serão recolhidos em conta especial no Banco do Brasil S.A.
+**Art**. 33. Os recursos financeiros de que trata o artigo anterior serão recolhidos em conta especial no Banco do Brasil S.A.
 
-<strong>Art</strong>. 34. Os recursos do “Fundo” serão movimentados pelo Vice-Presidente Executivo, de acôrdo com as instruções que deverão ser baixadas pelo Ministro de Estado da Indústria e do Comércio.
+**Art**. 34. Os recursos do “Fundo” serão movimentados pelo Vice-Presidente Executivo, de acôrdo com as instruções que deverão ser baixadas pelo Ministro de Estado da Indústria e do Comércio.
 
-<strong>Art</strong>. 35. As prestações de contas relativas aos recursos do “Fundo” serão feitas, trimestralmente, mediante balancete, perante o Plenário da CES, que as julgará no curso do mês seguinte ao do trimestre respectivo, depois de ouvida a Inspetoria Geral de Finanças do MIC.
+**Art**. 35. As prestações de contas relativas aos recursos do “Fundo” serão feitas, trimestralmente, mediante balancete, perante o Plenário da CES, que as julgará no curso do mês seguinte ao do trimestre respectivo, depois de ouvida a Inspetoria Geral de Finanças do MIC.
 
-<strong>Art</strong>. 36. A Turma Financeira e de Contabilidade deverá manter uma escrituração contábil dos recursos do “Fundo”, de modo a registrar tôdas as operações realizadas e a permitir o contrôle imediato das mesmas.
+**Art**. 36. A Turma Financeira e de Contabilidade deverá manter uma escrituração contábil dos recursos do “Fundo”, de modo a registrar tôdas as operações realizadas e a permitir o contrôle imediato das mesmas.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>Das Disposições Gerais e Transitórias</em>
+*Das Disposições Gerais e Transitórias*
 
-<strong>Art</strong>. 37. O horário normal de trabalho será fixado pelo Vice-Presidente Executivo da CES, respeitado o número de horas mensais obrigatório, estabelecido pela legislação específica.
+**Art**. 37. O horário normal de trabalho será fixado pelo Vice-Presidente Executivo da CES, respeitado o número de horas mensais obrigatório, estabelecido pela legislação específica.
 
 Parágrafo único. O Vice-Presidente Executivo, os Chefes de Serviço e o Chefe da Secretaria do Plenário não estão sujeitos a ponto, devendo, porém, observar o horário fixado na legislação vigente.
 
-<strong>Art</strong>. 38. O Plenário da CES julgará os recursos sôbre os autos de infração, inclusive os lavrados na vigência da legislação anterior.
+**Art**. 38. O Plenário da CES julgará os recursos sôbre os autos de infração, inclusive os lavrados na vigência da legislação anterior.
 
-<strong>Art</strong>. 39. Os casos não previstos no presente Regimento Interno serão resolvidos pelo Plenário da CES.
+**Art**. 39. Os casos não previstos no presente Regimento Interno serão resolvidos pelo Plenário da CES.
 
-<strong>Art</strong>. 40. Subordinada à Vice-Presidência Executiva, funcionará, com a mesma denominação e atribuições, até o final cumprimento das disposições constantes do artigo 23 do Decreto-lei nº 257, de 28 de fevereiro de 1967, a Seção de Assistência Social, de que trata o artigo 20 do Decreto número 46.002, de 15 de maio de 1959.
+**Art**. 40. Subordinada à Vice-Presidência Executiva, funcionará, com a mesma denominação e atribuições, até o final cumprimento das disposições constantes do artigo 23 do Decreto-lei nº 257, de 28 de fevereiro de 1967, a Seção de Assistência Social, de que trata o artigo 20 do Decreto número 46.002, de 15 de maio de 1959.
 
 Brasília, 5 de janeiro de 1967.
 
-<strong>JOSÉ FERNANDES DE LUNA</strong>
+**JOSÉ FERNANDES DE LUNA**

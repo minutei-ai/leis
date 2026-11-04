@@ -1,5 +1,3 @@
-###DEC-054624-0-000-27-10-1964@@@
-
 Decreto nº 54.624, de 27 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Alexandre Ambrogi a pesquisar água mineral no município de Mairiporã, Estado de São Paulo.

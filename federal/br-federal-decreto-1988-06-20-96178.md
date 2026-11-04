@@ -1,5 +1,3 @@
-###DEC-096178-0-000-20-06-1988@@@
-
 DECRETO N° 96.178, DE 20 DE JUNHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessária à implantação da estação repetidora da Barra da Tijuca, bem como seu caminho de acesso, da LIGHT - Serviços de Eletricidade S.A. no Município do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095971-0-000-27-04-1988@@@
-
 # DECRETO N° 95.971, DE 27 DE ABRIL DE 1988
 
 Altera a redação dos arts. 34 e 35 do Decreto n° 82.385, de 5 de outubro de 1978, que "regulamenta a Lei n° 6.533, de 24 de maio de 1978, que dispõe sobre as profissões de Artista e de Técnico em Espetáculos de Diversões e dá outras providências."

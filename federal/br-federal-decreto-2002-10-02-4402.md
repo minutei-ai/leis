@@ -1,5 +1,3 @@
-###DEC-004402-0-000-02-10-2002@@@
-
 DECRETO Nº 4.402, DE 2 DE OUTUBRO DE 2002
 
 Dispõe sobre o Conselho Nacional de Turismo e dá outras providências.

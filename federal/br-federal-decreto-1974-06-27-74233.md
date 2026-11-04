@@ -1,5 +1,3 @@
-###DEC-074233-0-000-27-06-1974@@@
-
 DECRETO Nº 74.233, DE 27 DE JUNHO DE 1974.
 
 Autoriza o funcionamento do curso de Comunicação Social da Faculdade de Comunicação Social "Santa Edwiges", mantida pela Sociedade de Ensino Superior "Santa Edwiges", com sede na cidade do Rio de Janeiro, Estado da Guanabara.

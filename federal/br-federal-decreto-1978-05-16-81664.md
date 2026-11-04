@@ -1,5 +1,3 @@
-###DEC-081664-0-000-16-05-1978@@@
-
 Decreto nº 81.664, de 16 de maio de 1678.
 
 Dispõe sobre o capital do Serviço Federal de Processamento de Dados (SERPRO).

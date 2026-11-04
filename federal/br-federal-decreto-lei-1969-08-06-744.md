@@ -1,7 +1,3 @@
-1
-
-###DEL-000744-0-000-06-08-1969@@@
-
 Decreto-lei Nº 744, DE 6 DE AGÔSTO DE 1969
 
 Altera o artigo 379 da Consolidação das Leis do Trabalho, que dispõe sôbre o trabalho noturno da mulher, e dá outras providências.

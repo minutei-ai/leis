@@ -1,5 +1,3 @@
-###DEC-070525-0-000-16-05-1972@@@
-
 DECRETO Nº 70.525, DE 16 DE MAIO DE 1972.
 
 Declara de utilidade pública a Sociedade de São Vicente de Paulo, com sede em Santos, Estado de São Paulo.

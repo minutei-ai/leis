@@ -1,5 +1,3 @@
-###DEC-072906-0-000-10-10-1973@@@
-
 Decreto nº 72.906, de 10 de outubro de 1973
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas à bacia de acumulação do aproveitamento de energia hidráulica de um trecho do Rio Tietê entre os Municípios de Promissão e José Bonifácio, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-049311-0-000-21-11-1960@@@
-
 decreto nº 49.311, de 21 de novembro de 1960.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação dos equipamentos novos e a serem trazidos do exterior pela emprêsa “Fiação Brasileira de Sisal S.A. - Fribrasa”, de Bayeux (Pb).

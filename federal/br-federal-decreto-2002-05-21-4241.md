@@ -1,5 +1,3 @@
-###DEC-004241-0-000-21-05-2002@@@
-
 DECRETO Nº 4.241, DE 21 DE MAIO DE 2002
 
 Promulga o Acordo-Quadro de Cooperação Científica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da República da Eslovênia, celebrado em Brasília, em 29 de julho de 1998.

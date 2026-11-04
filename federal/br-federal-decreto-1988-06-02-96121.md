@@ -1,5 +1,3 @@
-###DEC-096121-0-000-02-06-1988@@@
-
 # DECRETO N° 96.121, DE 2 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Fazenda Aldeia, constituído dos lotes n°s 36, 37, 38, 39, 46 e 47 da Gleba Nova Glória, classificado como latifúndio por exploração, situado nos Municípios de Santana do Araguaia e Redenção, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 2 de maio de 1986, e dá outras providências.

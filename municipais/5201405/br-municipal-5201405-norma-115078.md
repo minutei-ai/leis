@@ -1,4 +1,5 @@
-LEI MUNICIPAL 3.379, DE 13 DE SETEMBRO DE 2017<br>
+LEI MUNICIPAL 3.379, DE 13 DE SETEMBRO DE 2017
+
 ​​​​​​​(Revogada pela Lei Ordinária nº 3.761, de 11 de dezembro de 2023).
 
 ~~Estabelece prazo para construção da sede do Ministério Público do Estado de Goiás.~~
@@ -19,8 +20,10 @@ LEI MUNICIPAL 3.379, DE 13 DE SETEMBRO DE 2017<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 13 de setembro de 2017.~~
 
-~~VETER MARTINS MORAIS<br>
+~~VETER MARTINS MORAIS
+
 Prefeito em exercício~~
 
-~~AFONSO BOAVENTURA<br>
-Chefe da Casa Civil~~<br>
+~~AFONSO BOAVENTURA
+
+Chefe da Casa Civil~~

@@ -1,5 +1,3 @@
-###DEL-009225-0-000-02-05-1946@@@
-
 DECRETO-LEI N. 9.225 – DE 2 MAIO DE 1946
 
 Estende aos reservistas de primeira categoria da Aeronáutica e da Marinha os benefícios a que alude o Decreto-lei nº 844, de 9 de Novembro de 1938.

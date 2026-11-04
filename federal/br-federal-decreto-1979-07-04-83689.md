@@ -1,5 +1,3 @@
-###DEC-083689-0-000-04-07-1979@@@
-
 DECRETO Nº 83.689, DE 04 DE JULHO DE 1979.
 
 Autoriza o registro em nome da União Federal, do imóvel que menciona, situado no Município de João Pessoa, Estado da Paraíba.

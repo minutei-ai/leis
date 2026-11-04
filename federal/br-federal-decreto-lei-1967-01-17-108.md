@@ -1,5 +1,3 @@
-###DEL-000108-0-000-17-01-1967@@@
-
 DECRETO-LEI Nº 108, DE 17 DE JANEIRO DE 1967
 
 Modifica disposição da Lei nº 4.595, de 31 de dezembro de 1964.

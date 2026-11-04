@@ -1,5 +1,3 @@
-###DEC-083636-0-000-27-06-1979@@@
-
 Decreto nº 83.636, de 27 de junho de 1979.
 
 Autoriza troca da freqüência e aumento da potência diurna da Rádio Educação e Cultura de Sertãozinho Ltda., na cidade de Sertãozinho, estado de São Paulo.

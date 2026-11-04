@@ -1,5 +1,3 @@
-###DEC-005879-0-000-22-08-2006@@@
-
 DECRETO Nº 5.879, DE 22 DE AGOSTO DE 2006.
 
 Regulamenta o inciso III do art. 4o da Lei no 9.991, de 24 de julho de 2000, que dispõe sobre realização de investimentos em pesquisa e desenvolvimento e em eficiência energética por parte das empresas concessionárias, permissionárias e autorizadas do setor de energia elétrica, e dá outras providências.
@@ -27,5 +25,3 @@ Brasília, 22 de agosto de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
           Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no D.O.U. de 23.8.2006.

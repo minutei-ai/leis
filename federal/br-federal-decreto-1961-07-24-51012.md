@@ -1,5 +1,3 @@
-###DEC-051012-0-000-24-07-1961@@@
-
 Decreto nº 51.012, de 24 de julho de 1961.
 
 Eleva à categoria de Embaixada a representação diplomática do Brasil em Adis-Abeba.

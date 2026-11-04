@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=52347)
-
 # LEI Nº 11.815, DE 23 DE DEZEMBRO DE 2004
 
 ## (PL 1236/2003 - João Caramez)

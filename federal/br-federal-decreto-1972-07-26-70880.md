@@ -1,5 +1,3 @@
-###DEC-070880-0-000-26-07-1972@@@
-
 DECRETO Nº 70.880, DE 26 DE JULHO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras do Instituto Izabela Hendrix- MG.

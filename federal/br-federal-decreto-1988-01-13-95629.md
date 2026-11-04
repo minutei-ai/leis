@@ -1,7 +1,3 @@
-1
-
-###DEC-095629-0-000-13-01-1988@@@
-
 DECRETO N° 95.629, DE 13 DE JANEIRO DE 1988
 
 Renova a concessão outorgada à EMPRESA SÃO BORJENSE DE COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Borja, Estado do Rio Grande do Sul.

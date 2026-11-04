@@ -1,5 +1,3 @@
-###DEC-080530-0-000-10-10-1977@@@
-
 DECRETO Nº 80.530, DE 10 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplina Especializadas de 2º Grau, da Faculdade de Educação "Campos Salles" com sede na cidade São Paulo, Estado de São Paulo.

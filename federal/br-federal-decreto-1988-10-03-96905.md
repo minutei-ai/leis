@@ -1,5 +1,3 @@
-###DEC-096905-0-000-03-10-1988@@@
-
 DECRETO N° 96.905, DE 3 DE OUTUBRO DE 1988
 
 Transferência para a Secretaria de Planejamento e Coordenação da Presidência da República a vinculação do Fundo Nacional de Desenvolvimento e da outras providências.

@@ -54,22 +54,23 @@ ANEXO I
 
 CARGOS EM COMISSÃO
 
-<table border="1" cellspacing="0" cellpadding="0" width="378" style="width:283.5pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>CARGO<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>SÍMBOLO<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.05pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>QUANTIDADE<quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Diretor do Centro Regional<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.05pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="180" valign="top" style="width:134.65pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Integrado - CERIN<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>4-C<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.05pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>17<quebra></quebra></span></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Diretor do Centro Regional<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+Integrado - CERIN<quebra></quebra>
+
+4-C<quebra></quebra>
+
+17<quebra></quebra>
 
 LEIS ORDINÁRIAS - 1974
 

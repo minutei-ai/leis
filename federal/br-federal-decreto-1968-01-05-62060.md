@@ -1,5 +1,3 @@
-###DEC-062060-0-000-05-01-1968@@@
-
 DECRETO Nº 62.060, DE 5 DE JANEIRO DE 1968.
 
 Retifica o artigo 1º do Decreto 58.736, de 27 de junho de 1966.

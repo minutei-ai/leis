@@ -1,5 +1,3 @@
-###DEC-066645-0-000-29-05-1970@@@
-
 DECRETO Nº 66.645, DE 29 DE MAIO DE 1970.
 
 Declara de utilidade pública a Associação Beneficente de Senhoras "São Francisco de Assis", com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

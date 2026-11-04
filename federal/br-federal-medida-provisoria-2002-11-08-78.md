@@ -1,5 +1,3 @@
-###MPV-000078-0-000-08-11-2002@@@
-
 MEDIDA PROVISÓRIA Nº 78, DE 8 DE NOVEMBRO DE 2002
 
 Autoriza o Poder Executivo a doar à República do Paraguai vacinas e equipamentos indispensáveis ao combate à febre aftosa.

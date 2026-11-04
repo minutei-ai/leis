@@ -1,5 +1,3 @@
-###DEC-086066-0-000-03-06-1981@@@
-
 DECRETO Nº 86.066, DE 03 DE JUNHO DE 1981.
 
 Altera o Decreto nº 72.699, de 27 de agosto de 1973, que dispõe sobre o Regulamento da Escola Superior de Guerra e dá outras providências.

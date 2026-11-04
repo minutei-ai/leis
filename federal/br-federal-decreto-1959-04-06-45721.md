@@ -1,5 +1,3 @@
-###DEC-045721-0-000-06-04-1959@@@
-
 Decreto nº 45.721, de 6 de abril de 1959.
 
 Autoriza o cidadão brasileiro Lourival Cardoso Gomes a pesquisar areias ilmeniticas e associados no município de Primeira Cruz, Estado do Maranhão.

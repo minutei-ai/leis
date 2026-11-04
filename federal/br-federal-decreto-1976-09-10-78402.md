@@ -1,5 +1,3 @@
-###DEC-078402-0-000-10-09-1976@@@
-
 DECRETO Nº 78.402, DE 10 DE SETEMBRO DE 1976.
 
 Altera o Decreto nº 68.459, de 1º de abril de 1971, que regulamenta a pesca, tendo em vista o aproveitamento racional e a conservação dos recursos vivos do mar territorial brasileiro.

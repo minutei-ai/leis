@@ -1,5 +1,3 @@
-###DEL-005528-0-000-28-05-1943@@@
-
 DECRETO‑LEI N. 5.528 – DE 28 DE MAIO DE 1943
 
 Abre ao Ministério da justiça e Negócios Interiores o crédito especial de Cr$ 60.000,00 para as despesas decorrentes da reunião de delegados dos Tribunais de Apelação do País.

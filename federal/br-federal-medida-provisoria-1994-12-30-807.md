@@ -1,7 +1,3 @@
-1
-
-###MPV-000807-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 807, DE 30 DE DEZEMBRO DE 1994
 
 Cria a Gratificação de Desempenho e Fiscalização, a Gratificação de Desempenho de Atividade de Proteção ao Vôo, e dá outras providências.

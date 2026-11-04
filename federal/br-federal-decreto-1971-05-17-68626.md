@@ -1,5 +1,3 @@
-###DEC-068626-0-000-17-05-1971@@@
-
 DECRETO Nº 68.626 - DE 17 DE MAIO DE 1971.
 
 Declara de utilidade pública o Jardim Escola São José, com sede em Jacarepaguá, Estado da Guanabara.

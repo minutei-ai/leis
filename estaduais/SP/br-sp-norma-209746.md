@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209746)<br>
-
 # LEI N° 17.996, DE 23 DE JULHO DE 2024
 
 ## (Projeto de lei n° 1695/2023, do Deputado Valdomiro Lopes - PSB)

@@ -1,5 +1,3 @@
-###DEL-001796-0-000-09-07-1980@@@
-
 # DECRETO-LEI Nº 1.796, de 09 de Julho de 1980.
 
 Estabelece alíquota para a incidência do imposto de renda sobre remessas em pagamento de transmissão dos Jogos Olímpicos do corrente ano, em Moscou.

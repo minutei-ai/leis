@@ -1,5 +1,3 @@
-###DEC-050813-0-000-20-06-1961@@@
-
 DECRETO Nº 50.813, DE 20 DE JUNHO DE 1961.
 
 Declara protetoras, de conformidade com o art. 11 e seu parágrafo único, do Decreto nº 23.793, de 23 de janeiro de 1934, as florestas que indica.

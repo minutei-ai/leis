@@ -1,5 +1,3 @@
-###DEC-066424-0-000-07-04-1970@@@
-
 DECRETO Nº 66.424, DE 7 DE ABRIL DE 1970.
 
 Autoriza funcionamento de Faculdade.

@@ -1,5 +1,3 @@
-###DEC-090006-0-000-30-07-1984@@@
-
 Decreto nº 90.006, de 30 de julho de 1984
 
 Transforma em Procuradorias Gerais as Consultorias Gerais do INPS a do INAMPS, dispõe sobre os Serviços Jurídicos das entidades do SINPAS e dá outras providências.

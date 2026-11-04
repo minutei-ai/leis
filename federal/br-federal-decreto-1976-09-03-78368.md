@@ -1,5 +1,3 @@
-###DEC-078368-0-000-03-09-1976@@@
-
 DECRETO Nº 78.368, DE 3 DE SETEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Engenharia de Operações, da Faculdade de Tecnologia da Universidade Mackenzie, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-000397-0-000-30-12-1968@@@
-
 DECRETO-LEI Nº 397, DE 30 DE DeZEMBRO DE 1968
 
 Cria a Taxa Rodoviária Federal, destinada à conservação de estradas de rodagem.

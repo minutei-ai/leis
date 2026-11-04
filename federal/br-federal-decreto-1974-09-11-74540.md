@@ -1,5 +1,3 @@
-###DEC-074540-0-000-11-09-1974@@@
-
 DECRETO Nº 74.540, DE 11 DE SETEMBRO DE 1974.
 
 Altera requisito para comissionamento de Embaixador.

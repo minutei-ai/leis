@@ -1,5 +1,3 @@
-###DEC-069896-0-000-05-01-1972@@@
-
 DECRETO Nº 69.896, DE 5 DE JANEIRO DE 1972.
 
 Aprova o regulamento de Fôrça Aérea.

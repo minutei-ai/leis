@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ab0e1073-4ddc-4365-bf77-6488078496c8/texto#nowhere)
 
-###DEL-001808-0-000-06-10-1980@@@
-
 # Decreto-lei nº 1.808, de 06 de outubro de 1980
 
 Concede isenção do Imposto sobre Produtos Industrializados ao equipamento que menciona e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-045246-0-000-15-01-1959@@@
-
 DECRETO Nº 45.246, DE 15 DE JANEIRO DE 1959.
 
 Retifica o decreto nº 43.366, de 12 de março de 1958.

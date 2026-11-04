@@ -1,5 +1,3 @@
-###DEC-064373-0-000-18-04-1969@@@
-
 DECRETO Nº 64.373, DE 18 DE ABRIL DE 1969.
 
 Concede a José Vitti & Irmãos o direito de lavrar calcário dolomítico, no município de Rio Claro, Estado de São Paulo.

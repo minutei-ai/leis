@@ -1,5 +1,3 @@
-###DEC-087201-0-000-19-05-1982@@@
-
 Decreto nº 87.201, de 19 de maio de 1982
 
 Suprime o parágrafo único do artigo 3º e dá nova redação ao artigo 10 do Decreto nº 79.966, de 14 de julho de 1977, que disciplina a concessão da indenização de transporte.

@@ -1,5 +1,3 @@
-###DEL-000139-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 139 – DE 29 DE DEZEMBRO DE 1937
 
 Interpreta o art. 89 e seu parágrafo do decreto n. 54, de 12 de setembro de 1934

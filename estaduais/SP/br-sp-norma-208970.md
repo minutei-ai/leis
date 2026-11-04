@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208970)<br>
-
 # DECRETO N° 68.221, DE 15 DE DEZEMBRO DE 2023
 
 ### _Autoriza a Secretaria de Esportes a representar o Estado na celebração de convênios com os Municípios paulistas, visando a transferência de equipamentos esportivos destinados à implantação do Projeto "100% Esporte para Todos"._
@@ -54,7 +52,8 @@ Secretária de Esportes
 
 Publicado na Casa Civil, aos 15 de dezembro de 2023.
 
-#### ANEXO I <br>
+#### ANEXO I 
+
 a que se refere o artigo 4° do Decreto n° 68.221, de 15 de dezembro de 2023
 
 Processo SEI n°: \_\_\_\_
@@ -65,7 +64,8 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRE
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DE ESPORTES, com sede na Praça Antônio Prado, n° 9, São Paulo, Capital, inscrita no CNPJ sob o n° 47.173.729/0001-23, neste ato representada pelo Secretário de Estado, \_\_\_\_\_\_\_\_, nos termos da autorização constante do Decreto n°\_\_\_\_\_\_\_\_, de \_\_\_\_\_\_\_\_de \_\_\_\_\_\_\_\_de 2023, doravante designado ESTADO, e o Município de \_\_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_\_, inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_, neste ato representado por seu Prefeito, \_\_\_\_\_\_\_\_, inscrito no CPF sob o n°\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, resolvem celebrar o presente convênio que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021 (Obs.: ou da Lei federal n° 8.666, de 21 de junho de 1993), e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos destinados à implantação do "Parque Radical SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
@@ -86,7 +86,8 @@ Constitui objeto do presente convênio a transferência e instalação de equipa
 
 **§ 3° -** O MUNICÍPIO se compromete a destinar os bens objeto deste instrumento à consecução de atividades voltadas ao esporte e lazer, visando à realização do Projeto "100% Esporte para Todos".
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução
 
 São executores do presente convênio:
@@ -95,7 +96,8 @@ I - pelo ESTADO, a Secretaria de Esportes;
 
 II - pelo MUNICÍPIO, \_\_\_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o ESTADO e o MUNICÍPIO terão as seguintes obrigações:
@@ -130,26 +132,30 @@ g) responsabilizar-se pela destinação adequada dos equipamentos, observando as
 
 **Parágrafo único -** Na hipótese de perda superveniente da posse do imóvel referido no § 1° da cláusula primeira, o MUNICÍPIO deverá providenciar, às suas expensas, a remoção dos equipamentos e a instalação desses em outra área que atenda o disposto naquele parágrafo, sob pena de restituição do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_ ( \_\_\_\_\_\_\_\_\_ ), de responsabilidade do ESTADO.
 
 **Parágrafo único -** Os recursos de responsabilidade do ESTADO correspondem ao valor dos equipamentos a serem transferidos ao MUNICÍPIO, bem como das obras de base, e onerarão o elemento econômico \_\_\_\_\_\_\_\_\_ do orçamento da Secretaria de Esportes.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Transferência dos Equipamentos
 
 Os equipamentos serão transferidos pelo ESTADO ao MUNICÍPIO no prazo de 15 (quinze) dias contados da data da conclusão das obras de base, em conformidade com as especificações constantes do Plano de Trabalho.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo ESTADO, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e o cumprimento das respectivas obrigações deste convênio.
 
 **Parágrafo único -** O ESTADO poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 12 (doze) meses, contados da data de assinatura deste instrumento.
@@ -158,7 +164,8 @@ O prazo de vigência do presente convênio é de 12 (doze) meses, contados da da
 
 **§ 2° -** Eventual atraso no cumprimento do prazo a que se refere a cláusula quinta deste instrumento, desde que devidamente justificada nos autos, ensejará a prorrogação da vigência deste convênio pelo mesmo número de dias de atraso, independentemente de termo aditivo, mediante autorização do Titular da Pasta.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas, respondendo cada partícipe, em qualquer hipótese, pelas obrigações assumidas até a data do rompimento do ajuste.
@@ -167,12 +174,14 @@ Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, median
 
 **§ 2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento, à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por sua Secretaria de Esportes, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões oriundas ou relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
@@ -197,7 +206,8 @@ Nome:
 
 CPF:
 
-#### ANEXO II <br>
+#### ANEXO II 
+
 a que se refere o artigo 4° do Decreto n°68.221, de 15 de dezembro de 2023
 
 Processo SEI n° \_\_\_\_
@@ -208,7 +218,8 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRE
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DE ESPORTES, com sede na Praça Antônio Prado, n° 9, São Paulo, Capital, inscrita no CNPJ sob o n° 47.173.729/0001-23, neste ato representada pelo Secretário de Estado, \_\_\_\_\_\_\_\_, nos termos da autorização constante do Decreto n° \_\_\_\_\_\_\_\_, de \_\_\_\_\_\_\_\_de \_\_\_\_\_\_\_\_de 2023, doravante designado ESTADO, e o Município de \_\_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_\_, inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_, neste ato representado por seu Prefeito, \_\_\_\_\_\_\_\_, inscrito no CPF sob o n°\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, resolvem celebrar o presente convênio que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021 (Obs.: ou da Lei federal n° 8.666, de 21 de junho de 1993), e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Academia Vida Ativa", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
@@ -241,7 +252,8 @@ Constitui objeto do presente convênio a transferência e instalação de equipa
 
 **§ 3°** O MUNICÍPIO se compromete a destinar os bens objeto deste instrumento à consecução de atividades voltadas ao esporte e lazer, visando a realização do Projeto "100% Esporte para Todos".
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução
 
 São executores do presente convênio:
@@ -250,7 +262,8 @@ I - pelo ESTADO, a Secretaria de Esportes;
 
 II - pelo MUNICÍPIO, \_\_\_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o ESTADO e o MUNICÍPIO terão as seguintes obrigações:
@@ -281,24 +294,28 @@ g) responsabilizar-se pela destinação adequada dos equipamentos, observando as
 
 **Parágrafo único -** Na hipótese de perda superveniente da posse do imóvel referido no § 1° da cláusula primeira, o MUNICÍPIO deverá providenciar, às suas expensas, a remoção dos equipamentos e a instalação desses em outra área que atenda o disposto naquele parágrafo, sob pena de restituição do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_( \_\_\_\_\_\_\_\_\_ ), de responsabilidade do ESTADO.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Transferência dos Equipamentos
 
 Os equipamentos serão transferidos pelo ESTADO ao MUNICÍPIO no prazo de 15 (quinze) dias contados da data da conclusão das obras de base, em conformidade com as especificações constantes do Plano de Trabalho.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo ESTADO, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e o cumprimento das respectivas obrigações deste convênio.
 
 **Parágrafo único -** O ESTADO poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 12 (doze) meses, contados da data de assinatura deste instrumento.
@@ -307,7 +324,8 @@ O prazo de vigência do presente convênio é de 12 (doze) meses, contados da da
 
 **§ 2° -** Eventual atraso no cumprimento do prazo a que se refere a cláusula quinta deste instrumento, desde que devidamente justificada nos autos, ensejará a prorrogação da vigência deste convênio pelo mesmo número de dias de atraso, independentemente de termo aditivo, mediante autorização do Titular da Pasta.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas, respondendo cada partícipe, em qualquer hipótese, pelas obrigações assumidas até a data do rompimento do ajuste.
@@ -316,12 +334,14 @@ Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, median
 
 **§ 2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por sua Secretaria de Esportes, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões oriundas ou relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
@@ -348,7 +368,8 @@ Nome:
 
 CPF:
 
-#### ANEXO III <br>
+#### ANEXO III 
+
 a que se refere o artigo 4° do Decreto n° 68.221, de 15 de dezembro de 2023
 
 Processo SEI n° \_\_\_\_\_
@@ -359,7 +380,8 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRE
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DE ESPORTES, com sede na Praça Antônio Prado, n° 9, São Paulo, Capital, inscrita no CNPJ sob o n° 47.173.729/0001-23, neste ato representada pelo Secretário de Estado, \_\_\_\_\_\_\_\_, nos termos da autorização constante do Decreto n° \_\_\_\_\_\_\_\_, de \_\_\_\_\_\_\_\_de \_\_\_\_\_\_\_\_de 2023, doravante designado ESTADO, e o Município de \_\_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_\_, inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_, neste ato representado por seu Prefeito, \_\_\_\_\_\_\_\_, inscrito no CPF sob o n°\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, resolvem celebrar o presente convênio que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021 (Obs.: ou da Lei federal n° 8.666, de 21 de junho de 1993), e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos destinados à revitalização de quadras poliesportivas ("Revitaliza SP"), no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
@@ -378,7 +400,8 @@ Constitui objeto do presente convênio a transferência e instalação de equipa
 
 **§ 3° -** O MUNICÍPIO se compromete a destinar os bens objeto deste instrumento à consecução de atividades voltadas ao esporte e lazer, visando a realização do Projeto "100% Esporte para Todos".
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução
 
 São executores do presente convênio:
@@ -387,7 +410,8 @@ I - pelo ESTADO, a Secretaria de Esportes;
 
 II - pelo MUNICÍPIO, \_\_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o ESTADO e o MUNICÍPIO terão as seguintes obrigações:
@@ -418,26 +442,30 @@ g) responsabilizar-se pela destinação adequada dos equipamentos, observando as
 
 **Parágrafo único -** Na hipótese de perda superveniente da posse do imóvel referido no § 1° da cláusula primeira, o MUNICÍPIO deverá providenciar, às suas expensas, a remoção dos equipamentos e a instalação desses em outra área que atenda o disposto naquele parágrafo, sob pena de restituição do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_( \_\_\_\_\_\_\_\_\_ ), de responsabilidade do ESTADO.
 
 **Parágrafo único -** Os recursos de responsabilidade do ESTADO correspondem ao valor dos equipamentos a serem transferidos ao MUNICÍPIO e onerarão o elemento econômico \_\_\_\_\_\_\_\_\_ do orçamento da Secretaria de Esportes.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Transferência dos Equipamentos
 
 Os equipamentos serão transferidos pelo ESTADO ao MUNICÍPIO no prazo de 15 (quinze) dias contados da emissão de ordem de serviço à empresa contratada, em conformidade com as especificações constantes do Plano de Trabalho.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo ESTADO, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e o cumprimento das respectivas obrigações deste convênio.
 
 **Parágrafo único -** O ESTADO poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 12 (doze) meses, contados da data de assinatura deste instrumento.
@@ -446,7 +474,8 @@ O prazo de vigência do presente convênio é de 12 (doze) meses, contados da da
 
 **§ 2° -** Eventual atraso no cumprimento do prazo a que se refere a cláusula quinta deste instrumento, desde que devidamente justificada nos autos, ensejará a prorrogação da vigência deste convênio pelo mesmo número de dias de atraso, independentemente de termo aditivo, mediante autorização do Titular da Pasta.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas, respondendo cada partícipe, em qualquer hipótese, pelas obrigações assumidas até a data do rompimento do ajuste.
@@ -455,12 +484,14 @@ Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, median
 
 **§ 2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por sua Secretaria de Esportes, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões oriundas ou relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
@@ -487,7 +518,8 @@ Nome:
 
 CPF:
 
-#### ANEXO IV <br>
+#### ANEXO IV 
+
 a que se refere o artigo 4° do Decreto n° 68.221, de 15 de dezembro de 2023
 
 Processo SEI n° \_\_\_\_\_
@@ -498,7 +530,8 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRE
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DE ESPORTES, com sede na Praça Antônio Prado, n° 9, São Paulo, Capital, inscrita no CNPJ sob o n° 47.173.729/0001-23, neste ato representada pelo Secretário de Estado, \_\_\_\_\_\_\_\_, nos termos da autorização constante do Decreto n° \_\_\_\_\_\_\_\_, de \_\_\_\_\_\_\_\_de \_\_\_\_\_\_\_\_de 2023, doravante designado ESTADO, e o Município de \_\_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_\_, inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_, neste ato representado por seu Prefeito, \_\_\_\_\_\_\_\_, inscrito no CPF sob o n°\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, resolvem celebrar o presente convênio que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021 (Obs.: ou da Lei federal n° 8.666, de 21 de junho de 1993), e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de campo de futebol com gramado sintético, no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
@@ -513,7 +546,8 @@ Constitui objeto do presente convênio a transferência e instalação de equipa
 
 **§ 3° -** O MUNICÍPIO se compromete a destinar os bens objeto deste instrumento à consecução de atividades voltadas ao esporte e lazer, visando a realização do Projeto "100% Esporte para Todos".
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução
 
 São executores do presente convênio:
@@ -522,7 +556,8 @@ I - pelo ESTADO, a Secretaria de Esportes;
 
 II - pelo MUNICÍPIO, \_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o ESTADO e o MUNICÍPIO terão as seguintes obrigações:
@@ -553,26 +588,30 @@ g) responsabilizar-se pela destinação adequada dos equipamentos, observando as
 
 **Parágrafo único -** Na hipótese de perda superveniente da posse do imóvel referido no § 1° da cláusula primeira, o MUNICÍPIO deverá providenciar, às suas expensas, a remoção dos equipamentos e a instalação desses em outra área que atenda o disposto naquele parágrafo, sob pena de restituição do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_ ( \_\_\_\_\_\_\_\_\_ ), de responsabilidade do ESTADO.
 
 **Parágrafo único -** Os recursos de responsabilidade do ESTADO correspondem ao valor dos equipamentos a serem transferidos ao MUNICÍPIO e onerarão o elemento econômico \_\_\_\_\_\_\_\_\_ do orçamento da Secretaria de Esportes.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Transferência dos Equipamentos
 
 Os equipamentos serão transferidos pelo ESTADO ao MUNICÍPIO no prazo de 15 (quinze) dias contados da emissão de Ordem de Serviço à empresa contratada, em conformidade com as especificações constantes do Plano de Trabalho.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo ESTADO, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e o cumprimento das respectivas obrigações deste convênio.
 
 **Parágrafo único -** O ESTADO poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 12 (doze) meses, contados da data de assinatura deste instrumento.
@@ -581,7 +620,8 @@ O prazo de vigência do presente convênio é de 12 (doze) meses, contados da da
 
 **§ 2° -** Eventual atraso no cumprimento do prazo a que se refere a cláusula quinta deste instrumento, desde que devidamente justificada nos autos, ensejará a prorrogação da vigência deste convênio pelo mesmo número de dias de atraso, independentemente de termo aditivo, mediante autorização do Titular da Pasta.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas, respondendo cada partícipe, em qualquer hipótese, pelas obrigações assumidas até a data do rompimento do ajuste.
@@ -590,12 +630,14 @@ Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, median
 
 **§ 2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por sua Secretaria de Esportes, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões oriundas ou relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
@@ -622,7 +664,8 @@ Nome:
 
 CPF:
 
-#### ANEXO V<br>
+#### ANEXO V
+
 a que se refere o artigo 4° do Decreto n° 68.221, de 15 de dezembro de 2023
 
 Processo SEI n° \_\_\_ Convênio n° \_\_\_\_\_
@@ -631,7 +674,8 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRE
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DE ESPORTES, com sede na Praça Antônio Prado, n° 9, São Paulo, Capital, inscrita no CNPJ sob o n° 47.173.729/0001-23, neste ato representada pelo Secretário de Estado, \_\_\_\_\_\_\_\_, nos termos da autorização constante do Decreto n° \_\_\_\_\_\_\_\_, de \_\_\_\_\_\_\_\_de \_\_\_\_\_\_\_\_de 2023, doravante designado ESTADO, e o Município de \_\_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_\_, inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_, neste ato representado por seu Prefeito, \_\_\_\_\_\_\_\_, inscrito no CPF sob o n°\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, resolvem celebrar o presente convênio que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021 (Obs.: ou da Lei federal n° 8.666, de 21 de junho de 1993), e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Arena Lazer SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
@@ -646,7 +690,8 @@ Constitui objeto do presente convênio a transferência e instalação de equipa
 
 **§ 3° -** O MUNICÍPIO se compromete a destinar os bens objeto deste instrumento à consecução de atividades voltadas ao esporte e lazer, visando a realização do Projeto "100% Esporte para Todos".
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução
 
 São executores do presente convênio:
@@ -655,7 +700,8 @@ I - pelo ESTADO, a Secretaria de Esportes;
 
 II - pelo MUNICÍPIO, \_\_\_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o ESTADO e o MUNICÍPIO terão as seguintes obrigações:
@@ -690,26 +736,30 @@ h) responsabilizar-se pela destinação adequada dos equipamentos, observando as
 
 **Parágrafo único -** Na hipótese de perda superveniente da posse do imóvel referido no § 1° da cláusula primeira, o MUNICÍPIO deverá providenciar, às suas expensas, a remoção dos equipamentos e a instalação desses em outra área que atenda o disposto naquele parágrafo, sob pena de restituição do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_( \_\_\_\_\_\_\_\_\_ ), de responsabilidade do ESTADO.
 
 **Parágrafo único -** Os recursos de responsabilidade do ESTADO correspondem ao valor dos equipamentos a serem transferidos ao MUNICÍPIO, bem como das obras de base, e onerarão o elemento econômico \_\_\_\_\_\_\_\_\_ do orçamento da Secretaria de Esportes.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Transferência dos Equipamentos
 
 Os equipamentos serão transferidos pelo ESTADO ao MUNICÍPIO no prazo de 15 (quinze) dias contados da data da conclusão das obras de base, em conformidade com as especificações constantes do Plano de Trabalho.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo ESTADO, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e o cumprimento das respectivas obrigações deste convênio.
 
 **Parágrafo único -** O ESTADO poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 12 (doze) meses, contados da data de assinatura deste instrumento.
@@ -718,7 +768,8 @@ O prazo de vigência do presente convênio é de 12 (doze) meses, contados da da
 
 **§ 2° -** Eventual atraso no cumprimento do prazo a que se refere a cláusula quinta deste instrumento, desde que devidamente justificada nos autos, ensejará a prorrogação da vigência deste convênio pelo mesmo número de dias de atraso, independentemente de termo aditivo, mediante autorização do Titular da Pasta.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas, respondendo cada partícipe, em qualquer hipótese, pelas obrigações assumidas até a data do rompimento do ajuste.
@@ -727,12 +778,14 @@ Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, median
 
 **§ 2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por sua Secretaria de Esportes, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões oriundas ou relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
@@ -759,7 +812,8 @@ Nome:
 
 CPF:
 
-#### ANEXO VI <br>
+#### ANEXO VI 
+
 a que se refere o artigo 4° do Decreto n° 68.221, de 15 de dezembro de 2023
 
 Processo SEI n° \_\_\_\_
@@ -770,7 +824,8 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRE
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DE ESPORTES, com sede na Praça Antônio Prado, n° 9, São Paulo, Capital, inscrita no CNPJ sob o n° 47.173.729/0001-23, neste ato representada pelo Secretário de Estado, \_\_\_\_\_\_\_\_, nos termos da autorização constante do Decreto n°\_\_\_\_\_\_\_\_, de \_\_\_\_\_\_\_\_de \_\_\_\_\_\_\_\_de 2023, doravante designado ESTADO, e o Município de \_\_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_\_, inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_, neste ato representado por seu Prefeito, \_\_\_\_\_\_\_\_, inscrito no CPF sob o n°\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, resolvem celebrar o presente convênio que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021 (Obs.: ou da Lei federal n° 8.666, de 21 de junho de 1993), e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de quadra de futebol de 7 oficial - "ECO (fut7)", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
@@ -781,7 +836,8 @@ Constitui objeto do presente convênio a transferência e instalação de equipa
 
 **§ 3° -** O MUNICÍPIO se compromete a destinar os bens objeto deste instrumento à consecução de atividades voltadas ao esporte e lazer, visando a realização do Projeto "100% Esporte para Todos".
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução
 
 São executores do presente convênio:
@@ -790,7 +846,8 @@ I - pelo ESTADO, a Secretaria de Esportes;
 
 II - pelo MUNICÍPIO, \_\_\_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o ESTADO e o MUNICÍPIO terão as seguintes obrigações:
@@ -825,26 +882,30 @@ h) responsabilizar-se pela destinação adequada dos equipamentos, observando as
 
 **Parágrafo único -** Na hipótese de perda superveniente da posse do imóvel referido no § 1° da cláusula primeira, o MUNICÍPIO deverá providenciar, às suas expensas, a remoção dos equipamentos e a instalação desses em outra área que atenda o disposto naquele parágrafo, sob pena de restituição do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_ ( \_\_\_\_\_\_\_\_\_ ), de responsabilidade do ESTADO.
 
 **Parágrafo único -** Os recursos de responsabilidade do ESTADO correspondem ao valor dos equipamentos a serem transferidos ao MUNICÍPIO, bem como das obras de base, e onerarão o elemento econômico \_\_\_\_\_\_\_\_\_ do orçamento da Secretaria de Esportes.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Transferência dos Equipamentos
 
 Os equipamentos serão transferidos pelo ESTADO ao MUNICÍPIO no prazo de 15 (quinze) dias contados da data da conclusão das obras de base, em conformidade com as especificações constantes do Plano de Trabalho.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo ESTADO, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e o cumprimento das respectivas obrigações deste convênio.
 
 **Parágrafo único -** O ESTADO poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 12 (doze) meses, contados da data de assinatura deste instrumento.
@@ -853,7 +914,8 @@ O prazo de vigência do presente convênio é de 12 (doze) meses, contados da da
 
 **§ 2° -** Eventual atraso no cumprimento do prazo a que se refere a cláusula quinta deste instrumento, desde que devidamente justificada nos autos, ensejará a prorrogação da vigência deste convênio pelo mesmo número de dias de atraso, independentemente de termo aditivo, mediante autorização do Titular da Pasta.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas, respondendo cada partícipe, em qualquer hipótese, pelas obrigações assumidas até a data do rompimento do ajuste.
@@ -862,12 +924,14 @@ Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, median
 
 **§2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por sua Secretaria de Esportes, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões oriundas ou relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
@@ -894,7 +958,8 @@ Nome:
 
 CPF:
 
-#### ANEXO VII <br>
+#### ANEXO VII 
+
 a que se refere o artigo 4° do Decreto n° 68.221, de 15 de dezembro de 2023
 
 Processo SEI n° \_\_\_\_\_\_\_
@@ -905,7 +970,8 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRE
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DE ESPORTES, com sede na Praça Antônio Prado, n° 9, São Paulo, Capital, inscrita no CNPJ sob o n° 47.173.729/0001-23, neste ato representada pelo Secretário de Estado, \_\_\_\_\_\_\_\_, nos termos da autorização constante do Decreto n° \_\_\_\_\_\_\_\_, de \_\_\_\_\_\_\_\_de \_\_\_\_\_\_\_\_de 2023, doravante designado ESTADO, e o Município de \_\_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_\_, inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_, neste ato representado por seu Prefeito, \_\_\_\_\_\_\_\_, inscrito no CPF sob o n°\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, resolvem celebrar o presente convênio que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021 (Obs.: ou da Lei federal n° 8.666, de 21 de junho de 1993), e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Arena Praia SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
@@ -922,7 +988,8 @@ Constitui objeto do presente convênio a transferência e instalação de equipa
 
 **§ 3° -** O MUNICÍPIO se compromete a destinar os bens objeto deste instrumento à consecução de atividades voltadas ao esporte e lazer, visando a realização do Projeto "100% Esporte para Todos".
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução
 
 São executores do presente convênio:
@@ -931,7 +998,8 @@ I - pelo ESTADO, a Secretaria de Esportes;
 
 II - pelo MUNICÍPIO, \_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o ESTADO e o MUNICÍPIO terão as seguintes obrigações:
@@ -966,26 +1034,30 @@ h) responsabilizar-se pela destinação adequada dos equipamentos, observando as
 
 **Parágrafo único -** Na hipótese de perda superveniente da posse do imóvel referido no § 1° da cláusula primeira, o MUNICÍPIO deverá providenciar, às suas expensas, a remoção dos equipamentos e a instalação desses em outra área que atenda o disposto naquele parágrafo, sob pena de restituição do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_( \_\_\_\_\_\_\_\_\_ ), de responsabilidade do ESTADO.
 
 **Parágrafo único -** Os recursos de responsabilidade do ESTADO correspondem ao valor dos equipamentos a serem transferidos ao MUNICÍPIO, bem como das obras de base, e onerarão o elemento econômico \_\_\_\_\_\_\_\_\_ do orçamento da Secretaria de Esportes.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Transferência dos Equipamentos
 
 Os equipamentos serão transferidos pelo ESTADO ao MUNICÍPIO no prazo de 15 (quinze) dias contados da data da conclusão das obras de base, em conformidade com as especificações constantes do Plano de Trabalho.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo ESTADO, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e o cumprimento das respectivas obrigações deste convênio.
 
 **Parágrafo único -** O ESTADO poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 12 (doze) meses, contados da data de assinatura deste instrumento.
@@ -994,7 +1066,8 @@ O prazo de vigência do presente convênio é de 12 (doze) meses, contados da da
 
 **§ 2° -** Eventual atraso no cumprimento do prazo a que se refere a cláusula quinta deste instrumento, desde que devidamente justificada nos autos, ensejará a prorrogação da vigência deste convênio pelo mesmo número de dias de atraso, independentemente de termo aditivo, mediante autorização do Titular da Pasta.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas, respondendo cada partícipe, em qualquer hipótese, pelas obrigações assumidas até a data do rompimento do ajuste.
@@ -1003,12 +1076,14 @@ Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, median
 
 **§ 2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por sua Secretaria de Esportes, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões oriundas ou relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
@@ -1035,7 +1110,8 @@ Nome:
 
 CPF:
 
-#### ANEXO VIII<br>
+#### ANEXO VIII
+
 a que se refere o artigo 4° do Decreto n° 68.221, de 15 de dezembro de 2023
 
 Processo SEI n° \_\_\_\_\_\_\_
@@ -1046,7 +1122,8 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRE
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DE ESPORTES, com sede na Praça Antônio Prado, n° 9, Centro, São Paulo, Capital, inscrita no CNPJ sob o n° 47.173.729/0001-23, neste ato representada pelo Secretário de Estado, \_\_\_\_\_\_\_\_, nos termos da autorização constante do Decreto n° \_\_\_\_\_\_\_\_, de \_\_\_\_\_\_\_\_de \_\_\_\_\_\_\_\_de 2023, doravante designado ESTADO, e o Município de \_\_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_\_, inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_, neste ato representado por seu Prefeito, \_\_\_\_\_\_\_\_, inscrito no CPF sob o n°\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, resolvem celebrar o presente convênio que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021 (Obs.: ou da Lei federal n° 8.666, de 21 de junho de 1993), e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Palácio de Lutas SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
@@ -1073,7 +1150,8 @@ Constitui objeto do presente convênio a transferência e instalação de equipa
 
 **§ 3° -** O MUNICÍPIO se compromete a destinar os bens objeto deste instrumento à consecução de atividades voltadas ao esporte e lazer, visando a realização do Projeto "100% Esporte para Todos".
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução
 
 São executores do presente convênio:
@@ -1082,7 +1160,8 @@ I - pelo ESTADO, a Secretaria de Esportes;
 
 II - pelo MUNICÍPIO, \_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o ESTADO e o MUNICÍPIO terão as seguintes obrigações:
@@ -1115,26 +1194,30 @@ g) facilitar a supervisão e fiscalização do ESTADO, fornecendo, sempre que so
 
 h) responsabilizar-se pela destinação adequada dos equipamentos, observando as normas técnicas e legais aplicáveis.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_( \_\_\_\_\_\_\_\_\_ ), de responsabilidade do ESTADO.
 
 **Parágrafo único -** Os recursos de responsabilidade do ESTADO correspondem ao valor dos equipamentos a serem transferidos ao MUNICÍPIO, bem como das obras de base, e onerarão o elemento econômico \_\_\_\_\_\_\_\_\_ do orçamento da Secretaria de Esportes.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Transferência dos Equipamentos
 
 Os equipamentos serão transferidos pelo ESTADO ao MUNICÍPIO no prazo de 15 (quinze) dias contados da data da conclusão das obras de base, em conformidade com as especificações constantes do Plano de Trabalho.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo ESTADO, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e o cumprimento das respectivas obrigações deste convênio.
 
 **Parágrafo único -** O ESTADO poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 12 (doze) meses, contados da data de assinatura deste instrumento.
@@ -1143,7 +1226,8 @@ O prazo de vigência do presente convênio é de 12 (doze) meses, contados da da
 
 **§ 2° -** Eventual atraso no cumprimento do prazo a que se refere a cláusula quinta deste instrumento, desde que devidamente justificada nos autos, ensejará a prorrogação da vigência deste convênio pelo mesmo número de dias de atraso, independentemente de termo aditivo, mediante autorização do Titular da Pasta.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas, respondendo cada partícipe, em qualquer hipótese, pelas obrigações assumidas até a data do rompimento do ajuste.
@@ -1152,12 +1236,14 @@ Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, median
 
 **§ 2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por sua Secretaria de Esportes, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões oriundas ou relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
@@ -1184,7 +1270,8 @@ Nome:
 
 CPF:
 
-#### ANEXO IX <br>
+#### ANEXO IX 
+
 a que se refere o artigo 4° do Decreto n° 68.221, de 15 de dezembro de 2023
 
 Processo SEI n° \_\_\_\_\_\_\_\_\_\_
@@ -1195,7 +1282,8 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRE
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DE ESPORTES, com sede na Praça Antônio Prado, n° 9, São Paulo, Capital, inscrita no CNPJ sob o n° 47.173.729/0001-23, neste ato representada pelo Secretário de Estado, \_\_\_\_\_\_\_\_, nos termos da autorização constante do Decreto n° \_\_\_\_\_\_\_\_, de \_\_\_\_de \_\_\_\_\_\_\_\_de 2023, doravante designado ESTADO, e o Município de \_\_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_\_, inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_, neste ato representado por seu Prefeito, \_\_\_\_\_\_\_\_, inscrito no CPF sob o n°\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, resolvem celebrar o presente convênio que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021 (Obs.: ou da Lei federal n° 8.666, de 21 de junho de 1993), e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Espaço Nadar SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
@@ -1212,7 +1300,8 @@ Constitui objeto do presente convênio a transferência e instalação de equipa
 
 **§ 3° -** O MUNICÍPIO se compromete a destinar os bens objeto deste instrumento à consecução de atividades voltadas ao esporte e lazer, visando a realização do Projeto "100% Esporte para Todos".
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução
 
 São executores do presente convênio:
@@ -1221,7 +1310,8 @@ I - pelo ESTADO, a Secretaria de Esportes;
 
 II - pelo MUNICÍPIO, \_\_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o ESTADO e o MUNICÍPIO terão as seguintes obrigações:
@@ -1256,26 +1346,30 @@ h) responsabilizar-se pela destinação adequada dos equipamentos, observando as
 
 i) ter um salva-vidas permanente no local durante a utilização dos equipamentos.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_ ( \_\_\_\_\_\_\_\_\_ ), de responsabilidade do ESTADO.
 
 **Parágrafo único -** Os recursos de responsabilidade do ESTADO correspondem ao valor dos equipamentos a serem transferidos ao MUNICÍPIO, bem como das obras de base, e onerarão o elemento econômico \_\_\_\_\_\_\_\_\_ do orçamento da Secretaria de Esportes.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Transferência dos Equipamentos
 
 Os equipamentos serão transferidos pelo ESTADO ao MUNICÍPIO no prazo de 15 (quinze) dias contados da data da conclusão das obras de base, em conformidade com as especificações constantes do Plano de Trabalho.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo ESTADO, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e o cumprimento das respectivas obrigações deste convênio.
 
 **Parágrafo único -** O ESTADO poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 12 (doze) meses, contados da data de assinatura deste instrumento.
@@ -1284,7 +1378,8 @@ O prazo de vigência do presente convênio é de 12 (doze) meses, contados da da
 
 **§2° -** Eventual atraso no cumprimento do prazo a que se refere a cláusula quinta deste instrumento, desde que devidamente justificada nos autos, ensejará a prorrogação da vigência deste convênio pelo mesmo número de dias de atraso, independentemente de termo aditivo, mediante autorização do.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas, respondendo cada partícipe, em qualquer hipótese, pelas obrigações assumidas até a data do rompimento do ajuste.
@@ -1293,12 +1388,14 @@ Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, median
 
 **§2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por sua Secretaria de Esportes, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões oriundas ou relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia de qualquer outro, por mais privilegiado que seja.
@@ -1325,7 +1422,8 @@ Nome:
 
 CPF:
 
-#### ANEXO X <br>
+#### ANEXO X 
+
 a que se refere o artigo 4° do Decreto n° 68.221, de 15 de dezembro de 2023
 
 Processo SEI n° \_\_\_\_\_\_
@@ -1336,7 +1434,8 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRE
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DE ESPORTES, com sede na Praça Antônio Prado, n° 9, São Paulo, Capital, inscrita no CNPJ sob o n° 47.173.729/0001-23, neste ato representada pelo Secretário de Estado, \_\_\_\_\_\_\_\_, nos termos da autorização constante do Decreto n° \_\_\_\_\_\_\_\_, de \_\_\_\_de \_\_\_\_\_\_\_\_de 2023, doravante designado ESTADO, e o Município de \_\_\_\_\_\_\_\_, com sede na \_\_\_\_\_\_\_\_, inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_, neste ato representado por seu Prefeito, \_\_\_\_\_\_\_\_, inscrito no CPF sob o n°\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, resolvem celebrar o presente convênio que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021 (Obs.: ou da Lei federal n° 8.666, de 21 de junho de 1993), e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), mediante as cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a transferência e instalação de equipamentos para implantação de "Parque Atlético SP", no âmbito do Projeto "100% Esporte para Todos", de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_\_\_\_, que integra como anexo o presente instrumento.
@@ -1361,7 +1460,8 @@ Constitui objeto do presente convênio a transferência e instalação de equipa
 
 **§ 3° -** O MUNICÍPIO se compromete a destinar os bens objeto deste instrumento à consecução de atividades voltadas ao esporte e lazer, visando a realização do Projeto "100% Esporte para Todos".
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução
 
 São executores do presente convênio:
@@ -1370,7 +1470,8 @@ I - pelo ESTADO, a Secretaria de Esportes;
 
 II - pelo MUNICÍPIO, \_\_\_\_\_\_\_\_\_\_\_.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o ESTADO e o MUNICÍPIO terão as seguintes obrigações:
@@ -1401,26 +1502,30 @@ g) facilitar a supervisão e fiscalização do ESTADO, fornecendo, sempre que so
 
 h) responsabilizar-se pela destinação adequada dos equipamentos, observando as normas técnicas e legais aplicáveis.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_ ( \_\_\_\_\_\_\_\_\_ ), de responsabilidade do ESTADO.
 
 **Parágrafo único -** Os recursos de responsabilidade do ESTADO correspondem ao valor dos equipamentos a serem transferidos ao MUNICÍPIO, bem como das obras de base, e onerarão o elemento econômico \_\_\_\_\_\_\_\_\_ do orçamento da Secretaria de Esportes.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Transferência dos Equipamentos
 
 Os equipamentos serão transferidos pelo ESTADO ao MUNICÍPIO no prazo de 60 (sessenta) dias contados da data da conclusão das obras de base, em conformidade com as especificações constantes do Plano de Trabalho.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo ESTADO, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e o cumprimento das respectivas obrigações deste convênio.
 
 **Parágrafo único -** O ESTADO poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 12 (doze) meses, contados da data de assinatura deste instrumento.
@@ -1429,7 +1534,8 @@ O prazo de vigência do presente convênio é de 12 (doze) meses, contados da da
 
 **§ 2° -** Eventual atraso no cumprimento do prazo a que se refere a cláusula quinta deste instrumento, desde que devidamente justificada nos autos, ensejará a prorrogação da vigência deste convênio pelo mesmo número de dias de atraso, independentemente de termo aditivo, mediante autorização do Titular da Pasta.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas, respondendo cada partícipe, em qualquer hipótese, pelas obrigações assumidas até a data do rompimento do ajuste.
@@ -1438,12 +1544,14 @@ Este convênio poderá ser denunciado pelos partícipes a qualquer tempo, median
 
 **§ 2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste instrumento.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por sua Secretaria de Esportes, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer dúvidas ou questões oriundas ou relativas à execução do presente ajuste, não resolvidas na esfera administrativa, com expressa renúncia de qualquer outro, por mais privilegiado que seja.

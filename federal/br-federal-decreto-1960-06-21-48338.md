@@ -1,5 +1,3 @@
-###DEC-048338-0-000-21-06-1960@@@
-
 DECRETO Nº 48.338, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Bendito Ferreira Lopes a pesquisar argila e caulim no município  de Mogi das Cruzes, Estado de São Paulo.

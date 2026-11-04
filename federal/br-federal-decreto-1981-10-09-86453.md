@@ -1,5 +1,3 @@
-###DEC-086453-0-000-09-10-1981@@@
-
 Decreto nº 86.453, de 09 de outubro de 1981.
 
 Declara de interesse social, para fins de desapropriação, imóveis situados em Manaus, Estado do Amazonas, e dá outras providências.

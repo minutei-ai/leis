@@ -1,5 +1,3 @@
-###DEC-059371-0-000-05-10-1966@@@
-
 DECRETO Nº 59.371, DE 5 DE OUTUBRO DE 1966.
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$10.000.000 para atender a despesas decorrentes da visita do Presidente da República ao Chile e ao Uruguai.

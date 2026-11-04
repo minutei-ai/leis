@@ -1,5 +1,3 @@
-###DEC-058710-0-000-24-06-1966@@@
-
 DECRETO Nº 58.710, DE 24 DE JUNHO DE 1966.
 
 Concede a E. S. Ponso & Cia. Ltda., autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-080890-0-000-30-11-1977@@@
-
 decreto nº 80.890, de 30 de novembro de 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Ouro Preto, Estado de Minas Gerais.

@@ -1,4 +1,5 @@
-LEI Nº 23.231, DE 16 DE JANEIRO DE 2025<br>
+LEI Nº 23.231, DE 16 DE JANEIRO DE 2025
+
  
 
 Altera a [Lei nº 22.489](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108263/lei-22489), de 22 de dezembro de 2023, que dispõe sobre o Plano de Carreira e Remuneração do Quadro Permanente dos servidores da Secretaria de Estado de Desenvolvimento Social.
@@ -39,14 +40,14 @@ II – a promoção, a execução e a dinamização de atividades, ações e ofi
 
 .........................................................................................................................." (NR)
 
-"Art 11. …………………………............................................................................<br>
-<br>
+"Art 11. …………………………............................................................................
+
 ...................................................................................................................................
 
 § 3º Os ocupantes dos cargos de Agente Socioeducativo e de Analista de Desenvolvimento Social poderão cumprir a jornada de trabalho em regime de plantão, diurno e noturno, conforme for fixado pelo titular do órgão, atendidos o interesse público e a conveniência do serviço e facultada a adoção de escala que melhor atenda à singularidade de suas atribuições, inclusive de 24 (vinte e quatro) por 72 (setenta e duas) horas.
 
-§ 4º Aos ocupantes do cargo de Analista de Desenvolvimento Social poderá ser permitida a redução de até 25% (vinte e cinco por cento) da jornada de trabalho semanal, mediante a opção do servidor e a autorização do titular do órgão de origem, com a aplicação de redutor proporcional na remuneração, enquanto perdurar o novo regime de trabalho.<br>
-<br>
+§ 4º Aos ocupantes do cargo de Analista de Desenvolvimento Social poderá ser permitida a redução de até 25% (vinte e cinco por cento) da jornada de trabalho semanal, mediante a opção do servidor e a autorização do titular do órgão de origem, com a aplicação de redutor proporcional na remuneração, enquanto perdurar o novo regime de trabalho.
+
 .........................................................................................................................." (NR)
 
 "Art. 12. Os cargos de provimento efetivo e regime estatutário de Analista de Políticas de Assistência Social, Agente de Segurança Educacional, Agente de Segurança Socioeducativo e Assistente Operacional Social de que trata a [Lei nº 15.694](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/79743/lei-15694), de 06 de junho de 2006, passam a integrar esta Lei, com a correspondência entre cargos estabelecida no Anexo III desta última." (NR)
@@ -95,7 +96,8 @@ ANEXO ÚNICO
 
 "ANEXO I
 
-QUADRO PERMANENTE DOS SERVIDORES<br>
+QUADRO PERMANENTE DOS SERVIDORES
+
 DA SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL
 
 | **CARGO** | **QUANTITATIVO** | **REQUISITOS PARA PROVIMENTO** |
@@ -121,12 +123,16 @@ TABELA DE VENCIMENTOS
 
 CORRESPONDÊNCIA ENTRE CARGOS
 
-| DE (ESTRUTURA DA LEI Nº 15.694,<br>
+| DE (ESTRUTURA DA LEI Nº 15.694,
+
 DE 06 DE JUNHO DE 2006) | PARA |
 | --- | --- |
-| GRUPO<br>
-OCUPACIONAL | CARGO | GRUPO<br>
-OCUPACIONAL | NOVO<br>
+| GRUPO
+
+OCUPACIONAL | CARGO | GRUPO
+
+OCUPACIONAL | NOVO
+
 CARGO |
 | ................................. | ................................. | .......................... | Analista de Desenvolvimento Social |
 | ................................. | ................................. |   | ................................. |

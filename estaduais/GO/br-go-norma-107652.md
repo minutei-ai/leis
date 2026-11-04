@@ -10,6 +10,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 16 de agosto de 2023.
 
-<br>
-Deputado BRUNO PEIXOTO<br>
+Deputado BRUNO PEIXOTO
+
 \- PRESIDENTE -

@@ -1,5 +1,3 @@
-###DEC-089906-0-000-03-07-1984@@@
-
 Decreto nº 89.906, de 03 de julho de 1984
 
 Dispõe sobre fixação de área prioritária, para fins de reforma agrária, no Município de Guia Lopes da Laguna, no Estado de Mato Grosso do Sul.

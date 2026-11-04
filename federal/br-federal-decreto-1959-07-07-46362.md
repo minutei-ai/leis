@@ -1,5 +1,3 @@
-###DEC-046362-0-000-07-07-1959@@@
-
 DECRETO Nº 46.362, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre as medidas necessárias ao aproveitamento de vales úmidos no Estado de Sergipe, com o desenvolvimento da agricultura nas áreas dos rios São Francisco, Sergipe, Vaza Barris, Mangue Sêco e Japaratuba.

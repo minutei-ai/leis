@@ -1,5 +1,3 @@
-###DEC-082518-0-000-30-10-1978@@@
-
 Decreto nº 82 518, de 30 de outubro de 1978
 
 Concede reconhecimento à habilitação em Supervisão Escolar do curso de Pedagogia do Centro Pedagógico de Três Lagoas, mantido pela Universidade Estadual de Mato Grosso na cidade de Três Lagoas, Estado de Mato Grosso.

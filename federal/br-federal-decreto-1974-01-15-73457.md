@@ -1,5 +1,3 @@
-###DEC-073457-0-000-15-01-1974@@@
-
 DECRETO Nº 73.457, DE 15 DE JANEIRO DE 1974.
 
 Concede à empresa Thomson-CSF autorização para funcionar na República Federativa do Brasil.

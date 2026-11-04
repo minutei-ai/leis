@@ -1,5 +1,3 @@
-###DEC-093331-0-000-02-10-1986@@@
-
 DECRETO Nº 93.331, DE 2 DE OUTUBRO DE 1986
 
 Declara de ocupação dos indígenas, área de terras que menciona no Estado de Alagoas e dá outras providências.

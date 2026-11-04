@@ -1,5 +1,3 @@
-###DEC-084590-0-000-25-03-1980@@@
-
 DECRETO Nº 84.590, DE 25 DE MARÇO DE 1980
 
 Dá nova redação ao item IV, do artigo 83, do Decreto nº 81.771, de 7 de junho de 1978, que cria a Comissão Nacional de Sementes e Mudas - CONASEM.

@@ -1,5 +1,3 @@
-###DEC-050464-0-000-14-04-1961@@@
-
 DECRETO Nº 50.464, DE 14 DE ABRIL DE 1961.
 
 Define os encargos atribuídos ao Departamento Nacional de Estradas de Rodagem pelo Decreto nº 50.272, de 15 de fevereiro de 1961, alterado pelo Decreto nº 50.409, de 4 de abril de 1961, e dá outras providências.

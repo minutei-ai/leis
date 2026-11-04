@@ -1,5 +1,3 @@
-###LEI-000000-A-000-20-10-1823@@@
-
 LEI - DE 20 DE OUTUBRO DE 1823
 
 Revoga o Decreto de 16 de Fevereiro de 1822 que creou o Conselho de Procuradores de Provincia.

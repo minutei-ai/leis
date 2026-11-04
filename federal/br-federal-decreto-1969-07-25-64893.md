@@ -1,5 +1,3 @@
-###DEC-064893-0-000-25-07-1969@@@
-
 DECRETO Nº 64.893 - DE 25 DE JULHO DE 1969.
 
 Declara de utilidade pública a Sociedade Caritativa e Literária São Francisco de Assis - Zona Norte, com sede em Santa Maria, Estado do Rio Grande do Sul.

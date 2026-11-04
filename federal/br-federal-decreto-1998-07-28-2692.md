@@ -1,5 +1,3 @@
-###DEC-002692-0-000-28-07-1998@@@
-
 DECRETO Nº 2.692, DE 28 DE JULHO DE 1998
 
 Promulga o Acordo de Cooperação Cultural e Educacional, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Árabe da Síria, em Brasília, em 25 de fevereiro de 1997.
@@ -116,4 +114,14 @@ Artigo 14
 
 Feito em Brasília, em 25 de fevereiro de 1997, em dois exemplares originais, nos idiomas português, árabe e inglês, sendo todos os textos igualmente autênticos. Em caso de divergência de interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:202.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Árabe Síria</span></p></td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Paulo Renato de Souza</span></p></td><td style="width:202.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Mohammad Gassan AI-Halabi</span></p></td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro da Educação</span></p></td><td style="width:202.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro da Educação</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República Árabe Síria
+
+Paulo Renato de Souza
+
+Mohammad Gassan AI-Halabi
+
+Ministro da Educação
+
+Ministro da Educação

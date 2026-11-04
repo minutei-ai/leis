@@ -1,5 +1,3 @@
-###DEC-075519-0-000-20-03-1975@@@
-
 DECRETO Nº 75.519, DE 20 DE MARÇO DE 1975.
 
 Autoriza o Banco Nacional de Desenvolvimento Econômico a garantir empréstimo a ser contraído no exterior, pela Light Serviços de Eletricidade S .A., nas condições que menciona.

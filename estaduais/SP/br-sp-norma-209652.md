@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209652)<br>
-
 # DECRETO N° 68.668, DE 28 DE JUNHO DE 2024
 
 ### _Autoriza a outorga de uso, ao Município de José Bonifácio, do imóvel que especifica, e dá providências correlatas._

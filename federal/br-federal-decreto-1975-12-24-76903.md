@@ -1,5 +1,3 @@
-###DEC-076903-0-000-24-12-1975@@@
-
 DECRETO Nº 76.903, DE 24 DE DEZEMBRO DE 1975.
 
 Outorga à Companhia Industrial Aliança Bandespachense concessão para o aproveitamento hidráulico de um trecho do rio Lambari, no Estado de Minas Gerais, para uso exclusivo.

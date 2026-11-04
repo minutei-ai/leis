@@ -1,5 +1,3 @@
-###DEL-008309-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.309 – DE 6 DE DEZEMBRO DE 1945
 
 Reorganiza o Departamento Nacional de Estradas de Rodagem e dá outras providências.

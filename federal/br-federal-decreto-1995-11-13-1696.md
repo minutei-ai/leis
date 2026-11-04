@@ -1,7 +1,3 @@
-1
-
-###DEC-001696-0-000-13-11-1995@@@
-
 DECRETO Nº 1.696, DE 13 DE NOVEMBRO DE 1995.
 
 Cria a Câmara de Políticas dos Recursos Naturais, do Conselho de Governo.

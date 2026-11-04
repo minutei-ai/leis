@@ -1,5 +1,3 @@
-###DEC-000594-0-000-06-07-1992@@@
-
 DECRETO N° 594, DE 6 DE JULHO DE 1992
 
 Promulga o Protocolo Adicional ao Convênio Cultural, na Área de Rádio e Televisão, entre o Governo da República Federativa do Brasil e o Governo da República Oriental do Uruguai.

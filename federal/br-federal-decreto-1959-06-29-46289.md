@@ -1,5 +1,3 @@
-###DEC-046289-0-000-29-06-1959@@@
-
 DECRETO Nº 46.289, DE 29 DE junho DE 1959.
 
 Autoriza o cidadão brasileiro Antonino Lourenço Bispo a pesquisar mica no município de Virgolândia, Estado de Minas Gerais.

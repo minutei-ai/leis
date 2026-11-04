@@ -1,7 +1,3 @@
-1
-
-###DEC-001596-0-000-17-08-1995@@@
-
 DECRETO Nº 1.596, DE 17 DE AGOSTO DE 1995.
 
 Autoriza a realização de levantamento dos trabalhadores portuários em atividade, e dá outras providências.

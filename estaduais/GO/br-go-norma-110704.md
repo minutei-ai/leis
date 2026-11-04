@@ -1,4 +1,5 @@
-LEI Nº 23.438, DE 21 DE MAIO DE 2025<br>
+LEI Nº 23.438, DE 21 DE MAIO DE 2025
+
 \- [Revogada pela Lei nº 23.720, de 3-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111365), art. 2º.
 
 ~~Dá denominação ao próprio público que específica.~~

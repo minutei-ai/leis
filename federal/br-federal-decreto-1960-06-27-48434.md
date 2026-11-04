@@ -1,5 +1,3 @@
-###DEC-048434-0-000-27-06-1960@@@
-
 DECRETO Nº 48.434, DE 27 DE JUNHO DE 1960.
 
 Concede autorização para o funcionamento de curso.

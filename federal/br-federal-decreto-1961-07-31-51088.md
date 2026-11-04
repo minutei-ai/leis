@@ -1,5 +1,3 @@
-###DEC-051088-0-000-31-07-1961@@@
-
 DECRETO Nº 51.088, DE 31 DE JULHO DE 1961.
 
 Altera os arts. 247, 250, 359, 365 e 485 do Regulamento Geral da Previdência Social.

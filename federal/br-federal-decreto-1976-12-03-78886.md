@@ -1,5 +1,3 @@
-###DEC-078886-0-000-03-12-1976@@@
-
 DECRETO Nº 78.886, de 3 de Dezembro de 1976.
 
 Dispõe sobre o recolhimento de diferença de preços sobre estoques de trigo e dá outras providências.

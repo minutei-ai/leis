@@ -1,5 +1,3 @@
-###DEC-081584-0-000-19-04-1978@@@
-
 Decreto nº 81.584, de 19 de abril de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Subestação Mogi-Guaçu II da CESP-Companhia Energética de São Paulo, no Estado de São Paulo.

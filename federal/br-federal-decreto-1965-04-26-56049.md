@@ -1,5 +1,3 @@
-###DEC-056049-0-000-26-04-1965@@@
-
 DECRETO Nº 56.049, DE 26 DE ABRIL DE 1965.
 
 Declara caduco o decreto nº 49.503, de 12 de dezembro de 1960.

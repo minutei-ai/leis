@@ -1,5 +1,3 @@
-###DEC-061213-0-000-22-08-1967@@@
-
 decreto Nº 61.213, de 22 de agôsto de 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno necessária à construção de açude público “Custódia”, município de igual nome, no Estado de Pernambuco.

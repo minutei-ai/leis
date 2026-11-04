@@ -1,32 +1,30 @@
-###DEC-059741-0-000-15-12-1966@@@
+**DECRETO Nº 59.741, DE 15 DE DEZEMBRO DE 1966.**
 
-<strong>DECRETO Nº 59.741, DE 15 DE DEZEMBRO DE 1966.</strong>
+***Aprova o Regimento do Conselho Nacional de Águas e Energia Elétrica do Ministério das Minas e Energia.***
 
-<em><strong>Aprova o Regimento do Conselho Nacional de Águas e Energia Elétrica do Ministério das Minas e Energia.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 28 da Lei nº 4.904, de 7 de dezembro de 1965,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 28 da Lei nº 4.904, de 7 de dezembro de 1965,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Conselho Nacional de Águas e Energia Elétrica (C.N.A.E.E.), que com êste baixa, assinado pelo Ministro de Estado das Minas e Energia.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Conselho Nacional de Águas e Energia Elétrica (C.N.A.E.E.), que com êste baixa, assinado pelo Ministro de Estado das Minas e Energia.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 15 de dezembro de 1966; 145º da Independência e 78º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Mauro Thibau
 
-<strong>REGIMENTO DO CONSELHO NACIONAL DE ÁGUAS E ENERGIA ELÉTRICA DO MINISTÉRIO DAS MINAS E ENERGIA</strong>
+**REGIMENTO DO CONSELHO NACIONAL DE ÁGUAS E ENERGIA ELÉTRICA DO MINISTÉRIO DAS MINAS E ENERGIA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade e Competência</em>
+*Da Finalidade e Competência*
 
-<strong>Art</strong>. 1º O Conselho Nacional de Águas e Energia Elétrica (C.N.A.E.E.), criado pelo Decreto-lei nº 1.285, de 18 de maio de 1939, e diretamente subordinado ao Ministro das Minas e Energia, com sede na Capital da República, é órgão de consulta, orientação e contrôle quanto à utilização dos recursos hidráulicos e da energia elétrica, com jurisdição em todo o território nacional.
+**Art**. 1º O Conselho Nacional de Águas e Energia Elétrica (C.N.A.E.E.), criado pelo Decreto-lei nº 1.285, de 18 de maio de 1939, e diretamente subordinado ao Ministro das Minas e Energia, com sede na Capital da República, é órgão de consulta, orientação e contrôle quanto à utilização dos recursos hidráulicos e da energia elétrica, com jurisdição em todo o território nacional.
 
-<strong>Art</strong>. 2º Ao C.N.A.E.E. compete assessorar o Ministro de Estado em todos os assuntos de que trata o art. 1º bem como:
+**Art**. 2º Ao C.N.A.E.E. compete assessorar o Ministro de Estado em todos os assuntos de que trata o art. 1º bem como:
 
 I - Estudar:
 
@@ -56,13 +54,13 @@ VI - Desempenhar as atribuições que lhe forem cometidas pela legislação do I
 
 VII - Promover, independentemente de solicitação, estudos pertinentes à matéria de sua competência e apresentar sugestões ao Ministro de Estado, para a solução de problemas afetos ao Ministério das Minas e Energia.
 
-<strong>Art</strong>. 3º O Conselho reunir-se-á, na sua sede, em sessões ordinárias e extraordinárias, ou em qualquer ponto do País, tôdas as vêzes em que nisso houver conveniência pública.
+**Art**. 3º O Conselho reunir-se-á, na sua sede, em sessões ordinárias e extraordinárias, ou em qualquer ponto do País, tôdas as vêzes em que nisso houver conveniência pública.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 4º O C.N.A.E.E. compõe-se dos seguintes órgãos:
+**Art**. 4º O C.N.A.E.E. compõe-se dos seguintes órgãos:
 
 I - Plenário (Pl.);
 
@@ -74,9 +72,9 @@ IV - Divisão Econômica (D.E.);
 
 V - Seção de Administração (S.A.).
 
-<strong>Art</strong>. 5º O Plenário terá uma Secretaria, que exercerá as atribuições revistas no artigo 38 dêste Regimento.
+**Art**. 5º O Plenário terá uma Secretaria, que exercerá as atribuições revistas no artigo 38 dêste Regimento.
 
-<strong>Art</strong>. 6º A Divisão Técnica (D.T.) compreende:
+**Art**. 6º A Divisão Técnica (D.T.) compreende:
 
 I - Seção de Estudos e Planejamento (D.T.-1);
 
@@ -84,7 +82,7 @@ II - Seção de Recursos Hidráulicos (D.T.-2);
 
 III - Seção de Energia Elétrica (D.T.-3).
 
-<strong>Art</strong>. 7º A Divisão Econômica (D.E.) compreende:
+**Art**. 7º A Divisão Econômica (D.E.) compreende:
 
 I - Seção de Estudos e Estatística (D.E.-1);
 
@@ -92,7 +90,7 @@ II - Seção de Cálculo de Quotas (D.E.-2);
 
 III - Seção de Contrôle de Quotas (D.E.-3).
 
-<strong>Art</strong>. 8º A Seção de Administração (S.A.) compreende:
+**Art**. 8º A Seção de Administração (S.A.) compreende:
 
 I - Turma de Pessoal (S.A.-1);
 
@@ -106,39 +104,39 @@ V - Turma de Comunicações (S.A.-5);
 
 VI - Turma de Serviços Gerais (S.A.-6).
 
-<strong>Art</strong>. 9º O C.N.A.E.E. será presidido por um Presidente nomeado, em comissão, pelo Presidente da República, por indicação do Ministro de Estado.
+**Art**. 9º O C.N.A.E.E. será presidido por um Presidente nomeado, em comissão, pelo Presidente da República, por indicação do Ministro de Estado.
 
 Parágrafo único. O Presidente do Conselho terá 1 (um) Secretário e 3 (três) Assessores, escolhidos dentre servidores públicos federais.
 
-<strong>Art</strong>. 10. A Secretaria do Plenário, Assessoria Jurídica e Seção de Administração terão Chefes, designados pelo Presidente do Conselho.
+**Art**. 10. A Secretaria do Plenário, Assessoria Jurídica e Seção de Administração terão Chefes, designados pelo Presidente do Conselho.
 
-<strong>Art</strong>. 11. As Divisões serão dirigidas por Diretores, nomeados em comissão pelo Presidente da República, por indicação do Ministro de Estado e mediante proposta do Presidente do Conselho.
+**Art**. 11. As Divisões serão dirigidas por Diretores, nomeados em comissão pelo Presidente da República, por indicação do Ministro de Estado e mediante proposta do Presidente do Conselho.
 
 Parágrafo único. Os Diretores de que trata êste artigo terão, cada um, 1 (um) Assistente, 1 (um) Secretário e 1 (um) Auxiliar, todos escolhidos dentre servidores públicos federais.
 
-<strong>Art</strong>. 12. As Seções terão Chefes, e as Turmas, Encarregados, designados pelo Presidente do Conselho.
+**Art**. 12. As Seções terão Chefes, e as Turmas, Encarregados, designados pelo Presidente do Conselho.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>A Composição, Competência e Funcionamento do Plenário</em>
+*A Composição, Competência e Funcionamento do Plenário*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Composição</em>
+*Da Composição*
 
-<strong>Art</strong>. 13. Além do Presidente do Conselho, que participará, automàticamente, da composição e será o Presidente do Plenário, compor-se-á êste de mais 4 (quatro) membros, de livre, designação e dispensa do Presidente da República, que designará, dentre êles, o Vice-Presidente.
+**Art**. 13. Além do Presidente do Conselho, que participará, automàticamente, da composição e será o Presidente do Plenário, compor-se-á êste de mais 4 (quatro) membros, de livre, designação e dispensa do Presidente da República, que designará, dentre êles, o Vice-Presidente.
 
 § 1º Os membros do Plenário não poderão ser empregados de pessoas ou emprêsas que se dediquem à geração, transmissão ou distribuição de energia elétrica, ou a quaisquer negócios a estas pertinentes, nem possuir títulos de tais entidades, ou, de qualquer maneira, nelas estar interessados.
 
 § 2º Haverá 2 (dois) suplentes, designados da mesma forma que os membros do Plenário.
 
-<strong>Art</strong>. 14. Os membros do Plenário e os suplentes terão, aquêles, o mandato de 5 (cinco) anos, e êstes, o de 2 (dois), devendo ser o Plenário renovado anualmente pelo quinto, admitida a recondução de membros e suplentes.
+**Art**. 14. Os membros do Plenário e os suplentes terão, aquêles, o mandato de 5 (cinco) anos, e êstes, o de 2 (dois), devendo ser o Plenário renovado anualmente pelo quinto, admitida a recondução de membros e suplentes.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Competência</em>
+*Da Competência*
 
-<strong>Art</strong>. 15. Compete ao Plenário:
+**Art**. 15. Compete ao Plenário:
 
 I - deliberar sôbre assuntos atribuídos ao C.N.A.E.E.;
 
@@ -148,15 +146,15 @@ III - expedir instruções sôbre matéria concernente a seus serviços e atribu
 
 IV - propor ao Ministro de Estado a alteração dêste Regimento, tôda vez que houver conveniência administrativa.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Do Funcionamento</em>
+*Do Funcionamento*
 
-<strong>SUBSEÇÃO I</strong>
+**SUBSEÇÃO I**
 
-<em>Das Sessões</em>
+*Das Sessões*
 
-<strong>Art</strong>. 16. O Plenário reunir-se-á, ordinariamente, em dias e horas designados pelo Presidente, e, quando possível, a intervalos regulares, com número máximo de 4 (quatro) sessões mensais, fazendo observar as normas da legislação aplicável aos órgãos de deliberação coletiva.
+**Art**. 16. O Plenário reunir-se-á, ordinariamente, em dias e horas designados pelo Presidente, e, quando possível, a intervalos regulares, com número máximo de 4 (quatro) sessões mensais, fazendo observar as normas da legislação aplicável aos órgãos de deliberação coletiva.
 
 § 1º O Presidente, a seu juízo ou a requerimento, justificado, de qualquer membro, poderá convocar sessões extraordinárias.
 
@@ -164,9 +162,9 @@ IV - propor ao Ministro de Estado a alteração dêste Regimento, tôda vez que 
 
 § 3º Se o dia marcado para a realização de uma sessão recair em feriado ou em dia em que, por qualquer motivo, não houver expediente, o Plenário se reunirá, à mesma hora, no primeiro dia útil subseqüente.
 
-<strong>Art</strong>. 17. O Plenário do Conselho deliberará com a presença de, pelo menos, 3 (três) de seus membros, sempre pelo voto da maioria dos presentes, inclusive o do Presidente.
+**Art**. 17. O Plenário do Conselho deliberará com a presença de, pelo menos, 3 (três) de seus membros, sempre pelo voto da maioria dos presentes, inclusive o do Presidente.
 
-<strong>Art</strong>. 18. A ordem dos trabalhos é a seguinte:
+**Art**. 18. A ordem dos trabalhos é a seguinte:
 
 a) verificação de presença;
 
@@ -186,7 +184,7 @@ g) encerramento.
 
 § 2º Deliberada, finalmente, a matéria como de processamento, ao membro proponente ou indicante cumprirá entregar ao Secretário do Plenário, por escrito, dentro de 48 (quarenta e oito) horas, a proposta ou indicação feita para os devidos fins.
 
-<strong>Art</strong>. 19. Na direção dos trabalhos, compete ao Presidente:
+**Art**. 19. Na direção dos trabalhos, compete ao Presidente:
 
 a) propor as questões, delimitando-lhes o âmbito;
 
@@ -196,81 +194,81 @@ c) manter a disciplina regimental na sessão;
 
 d) designar relator.
 
-<strong>Art</strong>. 20. A ata resumirá, com clareza, tudo quanto ocorrer na sessão e será lavrada mesmo quando, por falta de número, não houver deliberação.
+**Art**. 20. A ata resumirá, com clareza, tudo quanto ocorrer na sessão e será lavrada mesmo quando, por falta de número, não houver deliberação.
 
 Parágrafo único. A ata será assinada pelo Presidente e demais membros presentes e pelo Secretário.
 
-<strong>Art</strong>. 21. As retificações feitas à ata da sessão anterior, reconhecidas procedentes pelo Plenário, serão consignadas na ata do dia.
+**Art**. 21. As retificações feitas à ata da sessão anterior, reconhecidas procedentes pelo Plenário, serão consignadas na ata do dia.
 
-<strong>SUBSEÇÃO II</strong>
+**SUBSEÇÃO II**
 
-<em>Da Ordenação Processual</em>
+*Da Ordenação Processual*
 
-<strong>Art</strong>. 22. Os processos serão registrados na Secretaria, no mesmo dia do recebimento ou no dia imediato, depois de protocolizados na S.A.-5.
+**Art**. 22. Os processos serão registrados na Secretaria, no mesmo dia do recebimento ou no dia imediato, depois de protocolizados na S.A.-5.
 
-<strong>Art</strong>. 23. Instruídos os processos ou verificada a dispensa de instrução, serão os mesmos apresentados ao presidente para distribuição ao Relator.
+**Art**. 23. Instruídos os processos ou verificada a dispensa de instrução, serão os mesmos apresentados ao presidente para distribuição ao Relator.
 
 Parágrafo único. Nos casos previstos no item IV do art. 2º, o Conselho solicitará sempre informação ao órgão recorrido, que a prestará na forma estabelecida no art. 50 do Regulamento aprovado pelo Decreto número 57.810, de 14-2-066.
 
-<strong>Art</strong>. 24. Antes de serem distribuídos ao Relator, os processos, a juízo do Presidente, poderão transitar pela A.J., D.T. e D.E.
+**Art**. 24. Antes de serem distribuídos ao Relator, os processos, a juízo do Presidente, poderão transitar pela A.J., D.T. e D.E.
 
-<strong>Art</strong>. 25. Ao Relator compete:
+**Art**. 25. Ao Relator compete:
 
 I - relatar o processo que lhe fôr distribuído;
 
-II - ordenar diligências <em>ex officio</em> ou a requerimento do interessado no processo, quando assim julgar necessário, pronunciando-se sôbre a apensação ou juntada de processos de natureza conexa;
+II - ordenar diligências *ex officio* ou a requerimento do interessado no processo, quando assim julgar necessário, pronunciando-se sôbre a apensação ou juntada de processos de natureza conexa;
 
 III - pronunciar-se, quando solicitado em Plenário, sôbre assunto do processo que lhe haja sido distribuído.
 
-<strong>Art</strong>. 26. Anunciado o julgamento de cada processo, pelo número e pelo nome do interessado, o Presidente dará a palavra ao Relator, que dela dará a palavra ao Relator, que dela se utilizará pelo tempo necessário à leitura de seu relatório e das conclusões dêste, que sempre findarão pelo seu voto.
+**Art**. 26. Anunciado o julgamento de cada processo, pelo número e pelo nome do interessado, o Presidente dará a palavra ao Relator, que dela dará a palavra ao Relator, que dela se utilizará pelo tempo necessário à leitura de seu relatório e das conclusões dêste, que sempre findarão pelo seu voto.
 
-<strong>Art</strong>. 27. Apresentado pelo Relator o seu voto, dará o Presidente a palavra aos demais membros, pela ordem, seguindo-se o julgamento do mérito, caso não haja sido levantada qualquer questão preliminar.
+**Art**. 27. Apresentado pelo Relator o seu voto, dará o Presidente a palavra aos demais membros, pela ordem, seguindo-se o julgamento do mérito, caso não haja sido levantada qualquer questão preliminar.
 
-<strong>Art</strong>. 28. Tôda questão preliminar será julgada antes do mérito, dêste não se conhecendo se incompatível com a decisão adotada.
+**Art**. 28. Tôda questão preliminar será julgada antes do mérito, dêste não se conhecendo se incompatível com a decisão adotada.
 
-<strong>Art</strong>. 29. Rejeitada a preliminar, não sendo a decisão incompatível com a apreciação do mérito, seguir-se-á o julgamento da matéria principal, devendo pronunciar-se, também, a seu respeito, os membros vencidos naquela.
+**Art**. 29. Rejeitada a preliminar, não sendo a decisão incompatível com a apreciação do mérito, seguir-se-á o julgamento da matéria principal, devendo pronunciar-se, também, a seu respeito, os membros vencidos naquela.
 
-<strong>Art</strong>. 30. O membro que não se julgar suficientemente esclarecido, quanto à matéria em discussão, poderá pedir vista do processo.
+**Art**. 30. O membro que não se julgar suficientemente esclarecido, quanto à matéria em discussão, poderá pedir vista do processo.
 
 Parágrafo único. Os pedidos de vista serão sempre formulados na primeira sessão em que a matéria fôr debatida.
 
-<strong>Art</strong>. 31. Ao voto do Relator seguir-se-ão os votos dos demais membros.
+**Art**. 31. Ao voto do Relator seguir-se-ão os votos dos demais membros.
 
-<strong>Art</strong>. 32. O Presidente votará em último lugar, cabendo-lhe, além do voto comum, o do desempate.
+**Art**. 32. O Presidente votará em último lugar, cabendo-lhe, além do voto comum, o do desempate.
 
-<strong>SUBSEÇÃO III</strong>
+**SUBSEÇÃO III**
 
-<em>Das Decisões</em>
+*Das Decisões*
 
-<strong>Art</strong>. 33. As decisões do Plenário constarão de proposições e pareceres, assinados pelo Relator, ou de Resoluções firmadas pelos membros que dêles participarem, declarando-se vencido o que discordar.
+**Art**. 33. As decisões do Plenário constarão de proposições e pareceres, assinados pelo Relator, ou de Resoluções firmadas pelos membros que dêles participarem, declarando-se vencido o que discordar.
 
-<strong>Art</strong>. 34. A decisão, a respectiva ementa e os atos essenciais ou complementares que a formalizarem serão redigidos pelo Relator, até 8 (oito) dias após a data do julgamento.
+**Art**. 34. A decisão, a respectiva ementa e os atos essenciais ou complementares que a formalizarem serão redigidos pelo Relator, até 8 (oito) dias após a data do julgamento.
 
 § 1º Se o Relator fôr vencido no mérito, o Presidente designará para redigi-los, no mesmo prazo, o primeiro membro que houver proferido o voto vencedor, o qual se tornará o Relator do processo.
 
 § 2º Os votos vencidos, quando fundamentados, deverão integrar a decisão.
 
-<strong>Art</strong>. 35. No caso de decisão que ordene a diligência interna, a ser satisfeita no próprio Conselho, cumprirá ao Secretário do Plenário certificá-la no processo.
+**Art**. 35. No caso de decisão que ordene a diligência interna, a ser satisfeita no próprio Conselho, cumprirá ao Secretário do Plenário certificá-la no processo.
 
-<strong>Art</strong>. 36. As decisões do Plenário, bem como os atos que as formalizaram, serão publicados no <em>Diário Oficial</em> da União.
+**Art**. 36. As decisões do Plenário, bem como os atos que as formalizaram, serão publicados no *Diário Oficial* da União.
 
-§ 1º Salvo expressa determinação em contrário, as decisões do Plenário vigorarão a partir de sua publicação no <em>Diário Oficial.</em>
+§ 1º Salvo expressa determinação em contrário, as decisões do Plenário vigorarão a partir de sua publicação no *Diário Oficial.*
 
 § 2º As decisões do Plenário serão comunicadas diretamente aos interessados, exigindo-se recibo ou aviso postal de recebimento.
 
-<strong>Art</strong>. 37. Das decisões proferidas, caberá pedido de reconsideração para o próprio Plenário, desde que, versando sôbre matéria nova, seja apresentado dentro de 30 (trinta) dias corridos, contados da ciência, ao interessado, da decisão ou da publicação, desta última no <em>Diário Oficial</em>.
+**Art**. 37. Das decisões proferidas, caberá pedido de reconsideração para o próprio Plenário, desde que, versando sôbre matéria nova, seja apresentado dentro de 30 (trinta) dias corridos, contados da ciência, ao interessado, da decisão ou da publicação, desta última no *Diário Oficial*.
 
 Parágrafo único. Apresentado, em tempo hábil, pedido de reconsideração, será êste apensado ao processo originário, que prosseguirá, nos têrmos ulteriores, feita a distribuição a nôvo Relator.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da Competência dos demais Órgãos</em>
+*Da Competência dos demais Órgãos*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Secretaria do Plenário</em>
+*Da Secretaria do Plenário*
 
-<strong>Art</strong>. 38. À Secretaria do Plenário compete:
+**Art**. 38. À Secretaria do Plenário compete:
 
 I - controlar o recebimento e a distribuição do expediente, relacionado com às atividades do Plenário;
 
@@ -282,11 +280,11 @@ IV - enviar à S.A.-5 os processos ou documentos despachados pelo Presidente do 
 
 V - elaborar o expediente que fôr determinado pelo Presidente do Plenário.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Assessoria Jurídica</em>
+*Da Assessoria Jurídica*
 
-<strong>Art</strong>. 39. À Assessoria Jurídica (A.J.), diretamente subordinada ao Presidente do Conselho, compete:
+**Art**. 39. À Assessoria Jurídica (A.J.), diretamente subordinada ao Presidente do Conselho, compete:
 
 I - estudar e informar os processos e papéis que envolvam matéria jurídica e que, para tal fim, lhe sejam encaminhados pelo Presidente, bem como emitir parecer sôbre os mesmos;
 
@@ -296,11 +294,11 @@ III - assessorar o Plenário em todos os assuntos de natureza jurídica ligados 
 
 IV - manter fichário de legislação e jurisprudência de assuntos relativos às atividades do Conselho.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Divisião Técnica</em>
+*Da Divisião Técnica*
 
-<strong>Art</strong>. 40. À Divisão Técnica (D.T.), diretamente subordinada ao Presidente do Conselho, compete:
+**Art**. 40. À Divisão Técnica (D.T.), diretamente subordinada ao Presidente do Conselho, compete:
 
 A) Através da Seção de Estudos e Planejamento (D.T.-1):
 
@@ -330,11 +328,11 @@ III - apreciar os programas de unificação de frequência e acompanhar o desenv
 
 IV - estudar e emitir parecer nos processos que digam respeito à interligação de usinas, interconexão integração e coordenação de sistemas elétricos.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Divisão Econômica</em>
+*Da Divisão Econômica*
 
-<strong>Art</strong>. 41. À Divisão Econômica (D.E.), diretamente subordinada ao Presidente do Conselho, compete:
+**Art**. 41. À Divisão Econômica (D.E.), diretamente subordinada ao Presidente do Conselho, compete:
 
 A) Através da Seção de Estudos e Estatísticas (D.E.-1):
 
@@ -364,11 +362,11 @@ I - examinar as comprovações da aplicação das quotas do Impôsto Único sôb
 
 II - contabilizar os valores do Impôsto Único liberados, entregues e aplicados.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Seção de Administração</em>
+*Da Seção de Administração*
 
-<strong>Art</strong>. 42. A Seção de Administração (S.A.), diretamente subordinada ao Presidente do Conselho, compete:
+**Art**. 42. A Seção de Administração (S.A.), diretamente subordinada ao Presidente do Conselho, compete:
 
 A) Através da Turma de Pessoal (S.A.-1):
 
@@ -490,15 +488,15 @@ V - manter sob sua guarda e responsabilidade o claviculário da repartição;
 
 VI - providenciar o hasteamento do Pavilhão Nacional, de acôrdo com a legislação em vigor.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Do Presidente e dos demais membros</em>
+*Do Presidente e dos demais membros*
 
-<strong>Art</strong>. 43. Ao Presidente do Conselho, a quem são subordinados todos os servidores em exercício no C.N.A.E.E., incumbe:
+**Art**. 43. Ao Presidente do Conselho, a quem são subordinados todos os servidores em exercício no C.N.A.E.E., incumbe:
 
 I - representar o C.N.A.E.E. nas suas relações com autoridades ou com terceiros e despachar com o Ministro de Estado;
 
@@ -584,7 +582,7 @@ XLI - zelar pela fiel observância dêste Regimento;
 
 XLII - propor ao Ministro de Estado a nomeação dos Diretores-de-Divisão.
 
-<strong>Art</strong>. 44. Aos demais membros de Plenário competem as atribuições contidas no art. 15 dêste Regulamento e ainda:
+**Art**. 44. Aos demais membros de Plenário competem as atribuições contidas no art. 15 dêste Regulamento e ainda:
 
 I - comparecer às sessões do Plenário e requerer a convocação de sessões extraordinárias, justificando sua necessidade;
 
@@ -598,11 +596,11 @@ V - apresentar indicações e levantar questões de ordem;
 
 VI - solicitar ao Presidente as medidas que considerem necessárias no desempenho de suas atribuições.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Do Secretário do Plenário</em>
+*Do Secretário do Plenário*
 
-<strong>Art</strong>. 45. Ao Secretário do Plenário incumbe:
+**Art**. 45. Ao Secretário do Plenário incumbe:
 
 I - responder pela execução dos trabalhos da competência da Secretaria do Plenário de acôrdo com as determinações do Presidente;
 
@@ -614,11 +612,11 @@ IV - certificar nos processos as decisões do Plenário que ordenem diligência 
 
 V - cumprir outras determinações de serviço, emanadas do Presidente do Plenário.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Do Chefe da Assessoria Jurídica</em>
+*Do Chefe da Assessoria Jurídica*
 
-<strong>Art</strong>. 46. Ao Chefe da Assessoria Jurídica incumbe:
+**Art**. 46. Ao Chefe da Assessoria Jurídica incumbe:
 
 I - dirigir os serviços da Assessoria Jurídica;
 
@@ -632,11 +630,11 @@ V - aprovar a escala de férias do pessoal lotado na Assessoria Jurídica;
 
 VI - executar outros serviços que lhe forem atribuídos pelo Presidente do Conselho.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Dos Diretores-de-Divisão</em>
+*Dos Diretores-de-Divisão*
 
-<strong>Art</strong>. 47. Aos Diretores-de-Divisão incumbe:
+**Art**. 47. Aos Diretores-de-Divisão incumbe:
 
 I - coordenar, dirigir e fiscalizar as atividades dos respectivos órgãos;
 
@@ -662,11 +660,11 @@ XI - baixar, na esfera da respectiva competência, portaria, ordens de serviço 
 
 XII - apresentar, anualmente, até 15 de janeiro, ao Presidente do Conselho, relatório das atividades da Divisão no ano anterior, bem como o plano de trabalho para o nôvo exercício.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Do Chefe da Seção de Administração</em>
+*Do Chefe da Seção de Administração*
 
-<strong>Art</strong>. 48. Ao Chefe da Seção de Administração incumbe:
+**Art**. 48. Ao Chefe da Seção de Administração incumbe:
 
 I - orientar, coordenar e controlar a execução e fiscalização dos trabalhos a cargo dos órgãos sob sua chefia;
 
@@ -692,11 +690,11 @@ XI - cumprir e fazer cumprir as determinações do Presidente do Conselho;
 
 XII - representar ao Presidente do Conselho quanto a irregularidade de que tiver ciência, zelando pela disciplina no órgão a seu cargo.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Dos Assessôres e Assistentes</em>
+*Dos Assessôres e Assistentes*
 
-<strong>Art</strong>. 49. Aos Assessôres do Presidente e Assistentes dos Diretores de Divisão incumbe:
+**Art**. 49. Aos Assessôres do Presidente e Assistentes dos Diretores de Divisão incumbe:
 
 I - auxiliá-los no exame dos assuntos que forem submetidos às suas decisões;
 
@@ -706,11 +704,11 @@ III - representá-los, quando para tanto forem designados;
 
 IV - desempenhar outras atribuições que lhes forem determinadas pela autoridade a que estiverem subordinados.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Dos Chefes de Seção e Encarregados de Turma</em>
+*Dos Chefes de Seção e Encarregados de Turma*
 
-<strong>Art</strong>. 50. Aos Chefes das demais Seções e Encarregados de Turma incumbe:
+**Art**. 50. Aos Chefes das demais Seções e Encarregados de Turma incumbe:
 
 I - orientar e dirigir os trabalhos afetos aos respectivos órgãos;
 
@@ -724,11 +722,11 @@ V - representar, ao dirigente a que estiver subordinado, sôbre irregularidade d
 
 VI - fornecer ao respectivo chefe imediato dados da Seção ou Turma, para elaboração do relatório e planos de trabalho.
 
-<strong>SEÇÃO VIII</strong>
+**SEÇÃO VIII**
 
-<em>Dos Secretários do Presidente e dos Diretores de Divisão</em>
+*Dos Secretários do Presidente e dos Diretores de Divisão*
 
-<strong>Art</strong>. 51. Aos Secretários do Presidente e dos Diretores de Divisão incumbe:
+**Art**. 51. Aos Secretários do Presidente e dos Diretores de Divisão incumbe:
 
 I - atender às pessoas que se dirijam ao Presidente ou ao Diretor, levando-lhes ao conhecimento, quando fôr o caso, o assunto a tratar;
 
@@ -738,27 +736,27 @@ III - representar o Presidente ou o Diretor, quando para isso designado;
 
 IV - executar outros serviços que lhes forem atribuídos pelo Presidente ou Diretor.
 
-<strong>SEÇÃO IX</strong>
+**SEÇÃO IX**
 
-<em>Dos Auxiliares e demais Servidores</em>
+*Dos Auxiliares e demais Servidores*
 
-<strong>Art</strong>. 52. Aos auxiliares dos Diretores de Divisão, bem como aos demais servidores lotados ou em exercício no C.N.A.E.E., cabe executar os trabalhos de que forem incumbidos pelos chefes imediatos, observada as normas legais vigentes.
+**Art**. 52. Aos auxiliares dos Diretores de Divisão, bem como aos demais servidores lotados ou em exercício no C.N.A.E.E., cabe executar os trabalhos de que forem incumbidos pelos chefes imediatos, observada as normas legais vigentes.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 53. O C.N.A.E.E., terá lotação aprovada por decreto, na forma da legislação em vigor.
+**Art**. 53. O C.N.A.E.E., terá lotação aprovada por decreto, na forma da legislação em vigor.
 
 Parágrafo único. Além dos funcionários constantes da lotação, poderá o C.N.A.E.E., dispor de pessoal requisitado na conformidade das normas vigentes.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 54. O Presidente do Conselho será substituído pelo Vice-Presidente e, êste, pelo membro mais antigo ou pelo mais idoso, se fôr igual a antigüidade.
+**Art**. 54. O Presidente do Conselho será substituído pelo Vice-Presidente e, êste, pelo membro mais antigo ou pelo mais idoso, se fôr igual a antigüidade.
 
-<strong>Art</strong>. 55. Em suas faltas e impedimentos eventuais, até 30 (trinta) dias, serão substituídos:
+**Art**. 55. Em suas faltas e impedimentos eventuais, até 30 (trinta) dias, serão substituídos:
 
 a) o Secretário do Plenário, por servidor designado pelo Presidente do Plenário;
 
@@ -768,36 +766,36 @@ c) os Diretores de Divisão e o Chefe da Seção de Administração, respectivam
 
 d) os Chefes de Seção e Encarregados de Turma, pelos funcionários de sua indicação, designados pela autoridade competente.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 56. O horário normal de expediente do C.N.A.E.E. obedecerá ao disposto na legislação aplicável à matéria.
+**Art**. 56. O horário normal de expediente do C.N.A.E.E. obedecerá ao disposto na legislação aplicável à matéria.
 
 Parágrafo único. Os servidores em exercício no C.N.A.E.E. poderão ter os seus horários de trabalho antecipados ou prorrogados, na forma prevista neste Regimento e na legislação atinente ao assunto.
 
-<strong>Art</strong>. 57. A freqüência do pessoal será apurada mediante registro de ponto, de acôrdo com a legislação vigente e instruções que forem expedidas pelo Presidente do C.N.A.E.E.
+**Art**. 57. A freqüência do pessoal será apurada mediante registro de ponto, de acôrdo com a legislação vigente e instruções que forem expedidas pelo Presidente do C.N.A.E.E.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Disposições Gerais e Transitórias</em>
+*Disposições Gerais e Transitórias*
 
-<strong>Art</strong>. 58. No interêsse do serviço e na forma do Decreto-lei nº 5.287, de 26 de fevereiro de 1943, as repartições federais que exerçam atividades relacionadas com as do Conselho, ouvidas, prèviamente, poderão ser declaradas Órgãos Auxiliares do C.N.A.E.E., mediante proposta ao Ministro de Estado.
+**Art**. 58. No interêsse do serviço e na forma do Decreto-lei nº 5.287, de 26 de fevereiro de 1943, as repartições federais que exerçam atividades relacionadas com as do Conselho, ouvidas, prèviamente, poderão ser declaradas Órgãos Auxiliares do C.N.A.E.E., mediante proposta ao Ministro de Estado.
 
 § 1º O Conselho poderá, autorizado pelo Ministro de Estado, firmar convênios com repartições estaduais e municipais, para os fins previstos no Decreto-lei nº 5.287, de 26 de fevereiro de 1943.
 
 § 2º O disposto neste artigo não abrangerá os assuntos da competência específica do Departamento Nacional de Águas e Energia (DNAE).
 
-<strong>Art</strong>. 59. O Presidente do Conselho designará comissão constituída de servidores do órgão, para examinar e emitir parecer a respeito dos pedidos de redução do Impôsto Único sôbre Energia Elétrica, formulados por consumidores industriais.
+**Art**. 59. O Presidente do Conselho designará comissão constituída de servidores do órgão, para examinar e emitir parecer a respeito dos pedidos de redução do Impôsto Único sôbre Energia Elétrica, formulados por consumidores industriais.
 
-<strong>Art</strong>. 60. Os servidores do C.N.A.E.E. não poderão dar entrevistas, promover publicações ou fazer conferências que se relacionem com a orientação técnica e administrativa do Conselho, sem prévia autorização, por escrito, do seu Presidente.
+**Art**. 60. Os servidores do C.N.A.E.E. não poderão dar entrevistas, promover publicações ou fazer conferências que se relacionem com a orientação técnica e administrativa do Conselho, sem prévia autorização, por escrito, do seu Presidente.
 
-<strong>Art</strong>. 61. É vedado aos servidores, em geral, utilizar dados, informações ou documentos do C.N.A.E.E. para quaisquer objetivos alheios à matéria de serviço.
+**Art**. 61. É vedado aos servidores, em geral, utilizar dados, informações ou documentos do C.N.A.E.E. para quaisquer objetivos alheios à matéria de serviço.
 
-<strong>Art</strong>. 62. Enquanto não se efetivar sua tranferência para o Distrito Federal, o Conselho funcionara na cidade do Rio de Janeiro, Estado da Guanabara.
+**Art**. 62. Enquanto não se efetivar sua tranferência para o Distrito Federal, o Conselho funcionara na cidade do Rio de Janeiro, Estado da Guanabara.
 
-<strong>Art</strong>. 63. Os casos omissos, que envolvam matéria regimental serão resolvidos pelo Ministro de Estado, nos têrmos da legislação.
+**Art**. 63. Os casos omissos, que envolvam matéria regimental serão resolvidos pelo Ministro de Estado, nos têrmos da legislação.
 
 Brasília, 15 de dezembro de 1966.
 
-<strong>MAURO TIBAU</strong>
+**MAURO TIBAU**

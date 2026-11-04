@@ -1,5 +1,3 @@
-###DEC-062267-0-000-14-02-1968@@@
-
 DECRETO Nº 62.267, DE 14 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública o “Centro de Letras do Paraná”, com sede em Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-054287-0-000-15-09-1964@@@
-
 DECRETO Nº 54.287, DE 15 DE SETEMBRO DE 1964.
 
 Altera a redação do artigo 2º do Decreto nº 54.057, de 27 de julho de 1964, e dá outras providências.

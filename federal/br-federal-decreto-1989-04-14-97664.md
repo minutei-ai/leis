@@ -1,7 +1,3 @@
-1
-
-###DEC-097664-0-000-14-04-1989@@@
-
 DECRETO N° 97.664, DE 14 DE ABRIL DE 1989
 
 Cria a Zona de Processamento de Exportação - ZPE de Nossa Senhora do Socorro, no Estado de Sergipe.

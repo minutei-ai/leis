@@ -1,5 +1,3 @@
-###DEC-049066-0-000-06-10-1960@@@
-
 DECRETO Nº 49.066, DE 6 DE OUTUBRO DE 1960.
 
 Autoriza o funcionamento de curso.

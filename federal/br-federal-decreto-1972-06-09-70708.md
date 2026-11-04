@@ -1,5 +1,3 @@
-###DEC-070708-0-000-09-06-1972@@@
-
 DECRETO Nº 70.708, DE 9 DE JUNHO DE 1972.
 
 Considera a cor azul celeste, como cor heráldica da Força Aérea Brasileira e o ouro e a prata seus metais.

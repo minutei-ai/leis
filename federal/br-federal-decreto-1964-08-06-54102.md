@@ -1,5 +1,3 @@
-###DEC-054102-0-000-06-08-1964@@@
-
 DECRETO Nº 54.102, DE 6 DE AGÔSTO DE 1964.
 
 Autoriza estrangeiros a adquirirem em transferência de aforamento, o domínio útil de frações ideais do terreno de marinha que menciona no Estado da Guanabara.

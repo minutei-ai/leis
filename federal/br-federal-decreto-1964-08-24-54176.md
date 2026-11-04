@@ -1,5 +1,3 @@
-###DEC-054176-0-000-24-08-1964@@@
-
 Decreto nº 54.176, de 24 de aGÔSTO de 1964.
 
 Autoriza o cidadão brasileiro João Viana Lelis a pesquisar galena e calcário, no município de Manga, Estado de Minas Gerais.

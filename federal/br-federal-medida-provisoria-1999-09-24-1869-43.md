@@ -1,5 +1,3 @@
-###MPV-001869-0-043-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.869-43, DE 24 DE SETEMBRO DE 1999.
 
 Dispõem sobre o salário mínimo para o período de 1º de maio de 1996 a 30 de abril de 1997.

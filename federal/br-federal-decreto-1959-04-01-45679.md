@@ -1,5 +1,3 @@
-###DEC-045679-0-000-01-04-1959@@@
-
 Decreto nº 45.679, de 1 de abril de 1959.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Guarani.

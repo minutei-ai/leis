@@ -1,5 +1,3 @@
-###DEL-004415-0-000-29-06-1942@@@
-
 DECRETO-LEI N. 4.415 – DE 29 DE JUNHO DE 1942
 
 Dispõe sobre a aplicação do crédito àberto pelo decreto-Iei n. 3.386, de 3 de julho de 1941.

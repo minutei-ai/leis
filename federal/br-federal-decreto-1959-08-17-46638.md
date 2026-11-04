@@ -1,5 +1,3 @@
-###DEC-046638-0-000-17-08-1959@@@
-
 DECRETO Nº 46.638, de 17 de agÔsto de 1959.
 
 Autoriza a Companhia Siderúrgica Pitangui a pesquisar calcário no município de Pitangui, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-009165-0-000-12-04-1946@@@
-
 DECRETO-LEI N. 9.165 – DE 12 DE ABRIL DE 1946
 
 Altera o efetivo do Corpo de Oficiais da Armada e dos demais Corpos e Quadros da Marinha e dà outras providências.

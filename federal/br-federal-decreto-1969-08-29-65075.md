@@ -1,5 +1,3 @@
-###DEC-065075-0-000-29-08-1969@@@
-
 DECRETO Nº 65.075 - DE 29 DE AGÔSTO DE 1969.
 
 Concede à emprêsa Société de Sucreries Brésiliennes autorização para continuar a funcionar na República Federativa do Brasil.

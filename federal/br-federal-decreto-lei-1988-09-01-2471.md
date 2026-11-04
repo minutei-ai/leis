@@ -1,7 +1,3 @@
-1
-
-###DEL-002471-0-000-01-09-1988@@@
-
 # DECRETO-LEI N° 2.471, DE 1º de SETEMBRO DE 1988
 
 Modifica a legislação à contribuição de que tratam os Decretos-Leis n°s 308, de 28 de fevereiro de 1967, e 1.712, de 14 de novembro de 1979, e do adicional de que trata o Decreto-Lei n° 1.952, de 15 de julho de 1982, e dá outras providências.

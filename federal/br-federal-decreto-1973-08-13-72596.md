@@ -1,5 +1,3 @@
-###DEC-072596-0-000-13-08-1973@@@
-
 DECRETO Nº 72.596, DE 13 DE AGOSTO DE 1973.
 
 Declara de utilidade pública para fins de desapropriação, o imóvel que menciona necessário ao Ministério do Exército.

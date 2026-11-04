@@ -1,5 +1,3 @@
-###DEC-096190-0-000-21-06-1988@@@
-
 DECRETO N° 96.190, DE 21 DE JUNHO DE 1988
 
 Cria, no Estado do Amazonas, a Floresta Nacional do Purus, com limites que especifica, e dá outras providências.

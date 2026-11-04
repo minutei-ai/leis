@@ -1,5 +1,3 @@
-###DEC-053413-0-000-17-01-1964@@@
-
 DECRETO Nº 53.413, DE 17 DE JANEIRO DE 1964.
 
 Dispõe sôbre de classes especializadas de autarquias vinculadas ao Ministério da Viação e Obras Públicas e dá outras providências.

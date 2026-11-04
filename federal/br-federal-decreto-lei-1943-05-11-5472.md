@@ -1,5 +1,3 @@
-###DEL-005472-0-000-11-05-1943@@@
-
 DECRETO‑LEI N. 5.472 – DE 11 DE MAIO DE 1943
 
 Altera a redação do art. 102, do decreto‑lei n. 2.035, de 27 de fevereiro de 1940, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-060840-0-000-09-06-1967@@@
-
 DECRETO Nº 60.840, DE 9 DE JUNHO DE 1967.
 
 Declara de utilidade publica para fins de desapropriação, o imóveis constituindo a área que menciona, no Município de Santos, no Estado de São Paulo.

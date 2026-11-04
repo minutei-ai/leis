@@ -1,7 +1,3 @@
-1
-
-###DEC-001758-0-000-26-12-1995@@@
-
 DECRETO Nº 1.758, DE 26 DE DEZEMBRO DE 1995.
 
 Ativa o Comando de Defesa Aeroespacial Brasileiro (COMDABRA) de que trata o Decreto Reservado nº 9, de 18 de março de 1980, e dá outras providências.

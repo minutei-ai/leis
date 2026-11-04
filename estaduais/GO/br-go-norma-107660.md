@@ -94,13 +94,16 @@ XXIX – estimular o turismo nas unidades de conservação existentes, bem como 
 
 XXX – estimular a instalação de sinalização turística de caráter informativo, educativo e, quando necessário, restritivo, utilizando linguagem visual padronizada nacionalmente, observados os indicadores de sinalização turística utilizados tanto pela Organização Mundial do Turismo, quanto pelos demais órgãos que disciplinem a sinalização, a depender das especificidades do local a ser contemplado.
 
-XXXI – estimular a realização de campanhas e publicidades para incentivar a população e investidores a conhecerem os municípios goianos;<br>
+XXXI – estimular a realização de campanhas e publicidades para incentivar a população e investidores a conhecerem os municípios goianos;
+
 \- [Acrescido pela Lei nº 24.080, de 4-2-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112713).
 
-XXXII – estimular a celebração de parcerias ou convênios com órgãos públicos e com a organização da sociedade civil para potencializar os atrativos turísticos que cada município pode apresentar aos visitantes;<br>
+XXXII – estimular a celebração de parcerias ou convênios com órgãos públicos e com a organização da sociedade civil para potencializar os atrativos turísticos que cada município pode apresentar aos visitantes;
+
 \- [Acrescido pela Lei nº 24.080, de 4-2-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112713).
 
-XXXIII – estimular a análise de formas para apresentar as atividades e os atrativos dos municípios, em um ambiente central na capital do Estado, para facilitar o acesso à informação aos turistas e investidores.<br>
+XXXIII – estimular a análise de formas para apresentar as atividades e os atrativos dos municípios, em um ambiente central na capital do Estado, para facilitar o acesso à informação aos turistas e investidores.
+
 \- [Acrescido pela Lei nº 24.080, de 4-2-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112713).
 
 Art. 5º (VETADO).

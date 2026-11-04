@@ -1,5 +1,3 @@
-###DEC-045766-0-000-07-04-1959@@@
-
 DECRETO Nº 45.766, DE 7 DE ARIL DE 1959.
 
 Autoriza a Companhia de Fôrça e Luz de Minas Gerais a utilizar, em caráter de emergência, a Usina Térmica Diesel, instalada na Cidade Industrial, de propriedade da “Centrais Elétricas de Minas Gerais S.A.” (CEMIG).

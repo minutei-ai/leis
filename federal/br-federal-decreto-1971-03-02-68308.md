@@ -1,5 +1,3 @@
-###DEC-068308-0-000-02-03-1971@@@
-
 DECRETO Nº 68.308, DE 2 DE MARÇO DE 1971.
 
 Concede reconhecimento aos Cursos que menciona.

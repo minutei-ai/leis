@@ -1,6 +1,7 @@
 LEI Nº 1.532 DE 20 DE OUTUBRO DE 1961
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.364](javascript: openDoc\() de 29 de junho de 2015 - Atualiza, na forma da Lei 12.057, de 11 de janeiro de 2011, os limites dos municípios de Água Fria, Anguera, Antônio Cardoso, Conceição da Feira, Coração de Maria, Ipecaetá, Irará, Santa Bárbara, Santanópolis, Santo Estêvão, Tanquinho, Teodoro Sampaio e Terra Nova.
 
 Cria o Município de Terra Nova, desmembrado do de Santo Amaro.
@@ -85,4 +86,4 @@ LEIA-SE:
 
 Palácio do Governo do Estado da Bahia, em 20 de outubro de 1961.
 
-* * *
+ *

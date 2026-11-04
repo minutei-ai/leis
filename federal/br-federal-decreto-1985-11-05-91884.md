@@ -1,5 +1,3 @@
-###DEC-091884-0-000-05-11-1985@@@
-
 DECRETO Nº 91.884, DE 05 DE NOVEMBRO DE 1985.
 
 Declara como Área de Relevante Interesse Ecológico - ARIE as porções de terras de vários ecossistemas que integram o Projeto Dinâmica Biológica de Fragmentos Florestais, localizada no Estado do Amazonas, e dá outras providências.

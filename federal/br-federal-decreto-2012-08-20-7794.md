@@ -1,5 +1,3 @@
-###DEC-007794-0-000-20-08-2012-PUB-01@@@
-
 DECRETO Nº 7.794, DE 20 DE AGOSTO DE 2012
 
 Institui a Política Nacional de Agroecologia e Produção Orgânica.

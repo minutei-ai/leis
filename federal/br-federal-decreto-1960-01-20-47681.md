@@ -1,5 +1,3 @@
-###DEC-047681-0-000-20-01-1960@@@
-
 DECRETO Nº47.681, DE 20 de janeiro DE 1960.
 
 Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão da Central Elétrica de Furnas S.A., que liga a Usina Hidrelétrica de Peixotos e a cidade de Belo Horizonte, no Estado de Minas Gerais.
@@ -957,8 +955,6 @@ Rio de Janeiro, 20 de janeiro de 1960; 139º da Independência e 72º da Repúbl
 Juscelino Kubitschek
 
 Mário Meneghetti
-
-###DEC-047681-0-000-20-01-1960@@@RET01+++
 
 DECRETO Nº 47.681, DE 20 DE JANEIRO DE 1960.
 

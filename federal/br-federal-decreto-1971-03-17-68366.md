@@ -1,5 +1,3 @@
-###DEC-068366-0-000-17-03-1971@@@
-
 DECRETO Nº 68.366, DE 17 DE MARÇO 1971.
 
 Declara de utilidade pública para fins de desapropriação, um terreno rural e duas faixas de terra destinados a instalação, pela Companhia Telefônica Brasileira de uma estação repetidora de microondas no Município de Taquaritinga, Estado de São Paulo.

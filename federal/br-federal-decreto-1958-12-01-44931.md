@@ -1,5 +1,3 @@
-###DEC-044931-0-000-01-12-1958@@@
-
 DECRETO Nº 44.931, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Otto Júlio Brutschke a lavrar caulim e argila no município de Rio Pardo, Estado do Rio Grande do Sul.

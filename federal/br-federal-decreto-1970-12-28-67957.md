@@ -1,5 +1,3 @@
-###DEC-067957-0-000-28-12-1970@@@
-
 Decreto nº 67.957, de 28 de dezembro de 1970.
 
 Redistribui cargo, com a respectiva ocupante, para o Ministério da Aeronáutica, e dá outras providencias.

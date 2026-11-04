@@ -1,5 +1,3 @@
-###DEC-089301-0-000-13-01-1984@@@
-
 decreto nº 89.301 de 13 de janeiro de 1984
 
 Prorroga, pelo prazo de 12 (doze) meses, os projetos de reflorestamento protocolados no Instituto Brasileiro de Desenvolvimento Florestal - IBDF, nos anos de 1980, 1981 e 1982, aprovados para a região semi-árida do Nordeste Setentrional, com seus respectivos cronogramas de execução.

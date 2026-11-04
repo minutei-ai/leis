@@ -394,7 +394,7 @@ LISTA DE FÁRMACOS E MEDICAMENTOS DESTINADOS A ÓRGÃOS E ENTIDADES DA ADMINISTR
 
 (CONVÊNIO ICMS 87/02, DO CONFAZ)
 
-<table><tbody><tr><td rowspan="2"><p>ITEM</p><p></p></td><td rowspan="2"><p>FÁRMACOS</p><p></p></td><td><p>NCM</p></td><td rowspan="2"><p>MEDICAMENTOS</p><p></p></td><td><p>NCM</p></td></tr><tr><td><p>FÁRMACOS</p></td><td><p>MEDICAMENTOS</p></td></tr><tr><td><p class="redaoatualtabela">..........</p></td><td><p class="redaoatualtabela">...........................</p></td><td><p class="redaoatualtabela">.....................</p></td><td><p class="redaoatualtabela">..............................................</p></td><td><p class="redaoatualtabela">.............................</p></td></tr><tr><td><p class="redaoatualtabela">96</p></td><td><p class="redaoatualtabela">Somatropina</p></td><td><p class="redaoatualtabela">2937.11.00</p></td><td><p class="redaoatualtabela">Somatropina - 4 UI - injetável - por frasco-ampola</p></td><td><p class="redaoatualtabela">3003.39.11</p><p class="redaoatualtabela">3004.39.11</p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Somatropina - 12 UI - Injetável - por frasco-ampola ou carpule</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Somatropina - 15 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Somatropina - 16 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Somatropina - 18 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Somatropina - 24 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Somatropina - 30 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Somatropina - 36 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Somatropina - 45 UI - por frasco-ampola (com ou sem dispositivo de aplicaçao) ou seringa preenchida ou carpule</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela">........</p></td><td><p class="redaoatualtabela">..........................</p></td><td><p class="redaoatualtabela">..................</p></td><td><p class="redaoatualtabela">....................................................</p></td><td><p class="redaoatualtabela">........................</p></td></tr><tr><td><p class="redaoatualtabela">162</p></td><td><p class="redaoatualtabela">Natalizumabe</p></td><td><p class="redaoatualtabela">3002.13.00</p></td><td><p class="redaoatualtabela">Natalizumabe 300 mg (por frasco-ampola)</p></td><td><p class="redaoatualtabela">3002.15.90</p></td></tr><tr><td><p class="redaoatualtabela">.........</p></td><td><p class="redaoatualtabela">........................</p></td><td><p class="redaoatualtabela">...................</p></td><td><p class="redaoatualtabela">.....................................................</p></td><td><p class="redaoatualtabela">..........................</p></td></tr><tr><td><p class="redaoatualtabela">221</p></td><td><p class="redaoatualtabela">Insulina Glulisina</p></td><td><p class="redaoatualtabela">2937.19.90</p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 1 carp vd inc x 3 ml</p></td><td><p class="redaoatualtabela">3004.39.29</p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 5 carp vd inc x 3 ml</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 1 carp vd inc x 3 ml + 1 sist aplic plas</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 5 carp vd inc x 5 ml</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela">222</p></td><td><p class="redaoatualtabela">Insulina Lispro</p></td><td><p class="redaoatualtabela">2937.19.90</p></td><td><p class="redaoatualtabela">100 ui/ml sol inj ct 5 carp vd inc x 3 ml</p></td><td><p class="redaoatualtabela">3004.39.29</p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 ui/ml sol inj ct 1 carp vd inc x 3 ml</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 2 carp vd inc x 3 ml</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 5 carp vd inc x 3 ml + 5 sist aplic plas</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 1 carp vd inc x 3 ml + 1 sist aplic plas</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 2 carp vd inc x 3 ml + 2 sist aplic plas</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela">223</p></td><td><p class="redaoatualtabela">Insulina Humana NPH</p></td><td><p class="redaoatualtabela">2937.12.00</p></td><td><p class="redaoatualtabela">Caneta Injetável 100 ui/ml x 3 ml</p></td><td><p class="redaoatualtabela">3004.31.00</p></td></tr><tr><td><p class="redaoatualtabela">224</p></td><td><p class="redaoatualtabela">Insulina Humana NPH</p></td><td><p class="redaoatualtabela">2937.12.00</p></td><td><p class="redaoatualtabela">Caneta Injetável 100 ui/ml x 3 ml x 5</p></td><td><p class="redaoatualtabela">3004.31.00</p></td></tr><tr><td><p class="redaoatualtabela">225</p></td><td><p class="redaoatualtabela">Cloridrato de Cinacalcete</p></td><td><p class="redaoatualtabela">2921.49.90</p></td><td><p class="redaoatualtabela">Cloridrato de Cinacalcete 30 mg, comprimido</p></td><td><p class="a7-1tabelasubtitulo">3003.90.33</p><p class="redaoatualtabela">3004.90.99</p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Cloridrato de Cinacalcete 60 mg, comprimido</p></td><td><p class="a7-1tabelasubtitulo">3003.90.33</p><p class="redaoatualtabela">3004.90.99</p></td></tr><tr><td><p class="redaoatualtabela">226</p></td><td><p class="redaoatualtabela">Paricalcitol</p></td><td><p class="redaoatualtabela">2906.19.90</p></td><td><p class="redaoatualtabela">Paricalcitol ampolas de 1ml com 5.0 µg/ml</p></td><td><p class="redaoatualtabela">3004.90.99</p></td></tr><tr><td><p class="redaoatualtabela">227</p></td><td><p class="redaoatualtabela">Idursulfase Alfa</p></td><td><p class="redaoatualtabela">3507.90.39</p></td><td><p class="redaoatualtabela">Idursulfase Alfa 2 mg/ml solução injetável (frasco com 3 ml)</p></td><td><p class="a7-1tabelasubtitulo">3004.90.14</p><p class="redaoatualtabela">3004.90.99</p></td></tr><tr><td><p class="redaoatualtabela">228</p></td><td><p class="redaoatualtabela">Fumarato de Dimetila</p></td><td><p class="redaoatualtabela">2917.19.30</p></td><td><p class="redaoatualtabela">Fumarato de Dimetila 120 mg, cápsula liberação retardada</p></td><td><p class="redaoatualtabela">3004.90.29</p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Fumarato de Dimetila 240 mg, cápsula liberação retardada</p></td><td><p class="redaoatualtabela">3004.90.29</p></td></tr><tr><td><p class="redaoatualtabela">229</p></td><td><p class="redaoatualtabela">Laronidase</p></td><td><p class="redaoatualtabela">3507.90.39</p></td><td><p class="redaoatualtabela">Laronidase 0,58 mg/ml solução injetável (frasco 5 ml)</p></td><td><p class="redaoatualtabela">3004.90.19</p></td></tr><tr><td><p class="redaoatualtabela">230</p></td><td><p class="redaoatualtabela">Mesilato de Rasagilina</p></td><td><p class="redaoatualtabela">2921.49.90</p></td><td><p class="redaoatualtabela">Mesilato de Rasagilina 1 mg, comprimido</p></td><td><p class="redaoatualtabela">3004.90.39</p></td></tr><tr><td><p class="redaoatualtabela">231</p></td><td><p class="redaoatualtabela">Teriflunomida</p></td><td><p class="redaoatualtabela">2926.90.99</p></td><td><p class="redaoatualtabela">Teriflunomida 14 mg, comprimido revestido</p></td><td><p class="redaoatualtabela">3004.90.49</p></td></tr><tr><td><p class="redaoatualtabela">232</p></td><td><p class="redaoatualtabela">Tofacitinibe</p></td><td><p class="redaoatualtabela">2933.99.49</p></td><td><p class="redaoatualtabela">Tofacitinibe 5 mg, comprimido revestido</p></td><td><p class="a7-1tabelasubtitulo">3004.90.69</p><p class="redaoatualtabela">3004.90.99</p></td></tr><tr><td><p class="redaoatualtabela">233</p></td><td><p class="redaoatualtabela">Insulina Degludeca</p></td><td><p class="redaoatualtabela">2937.19.90</p></td><td><p class="redaoatualtabela">Tresiba 100 u/ml sol inj ct 1 car vd trans x 3 ml x 1 sist aplic plas (<i>flextouch</i>)</p></td><td><p class="redaoatualtabela">3004.39.29</p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Tresiba 100 u/ml sol inj ct 5 car vd trans x 3 ml (<i>penfill</i>)</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela">234</p></td><td><p class="redaoatualtabela">Insulina Glargina</p></td><td><p class="redaoatualtabela">2937.12.00</p></td><td><p class="redaoatualtabela">300 ul/ml sol inj ct car vd trans x 1,5 ml + can aplic</p></td><td><p class="redaoatualtabela">3004.39.29</p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 ul/ml sol inj ct carp vd inc x 3 ml + sistema aplic plas</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 ul/ml sol inj ct carp vd inc x 3 ml</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 ul/ml sol inj ct fa vd inc x 10 ml</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela">235</p></td><td><p class="redaoatualtabela">Insulina Detemir</p></td><td><p class="redaoatualtabela">2937.19.90</p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 5 carp vd inc x 3 ml x 5 sist aplic plast</p></td><td><p class="redaoatualtabela">3004.39.29</p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 5 carp vd inc x 3 ml</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">100 u/ml sol inj ct 1 carp vd inc x 3 ml x 1 sist aplic plast</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela">236</p></td><td><p class="redaoatualtabela">Ustequinumabe</p></td><td><p class="redaoatualtabela">3002.13.00</p></td><td><p class="redaoatualtabela">Ustequinumabe 45 mg/0,5 ml</p></td><td><p class="redaoatualtabela">3002.15.90</p></td></tr><tr><td><p class="redaoatualtabela">237</p></td><td><p class="redaoatualtabela">Emicizumabe</p></td><td><p class="redaoatualtabela">3002.13.00</p></td><td><p class="redaoatualtabela">Emicizumabe - 30 mg sol inj sc ct 1 fa vd trans x 1 ml - solução injetável (30 mg/ml)</p></td><td><p class="redaoatualtabela">3002.15.90</p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Emicizumabe - 60 mg sol inj sc ct 1 fa vd trans x 0,4 ml - solução injetável (150 mg/ml)</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Emicizumabe - 105 mg sol inj sc ct 1 fa vd trans x 0,7 ml - solução injetável(150 mg/ml)</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela"></p></td><td><p class="redaoatualtabela">Emicizumabe - 150 mg sol inj sc ct 1 fa vd trans x 1 ml - solução injetável(150 mg/ml)</p></td><td><p class="redaoatualtabela"></p></td></tr><tr><td><p class="redaoatualtabela">238</p></td><td><p class="redaoatualtabela">Risanquizumabe</p></td><td><p class="redaoatualtabela">3002.13.00</p></td><td><p class="redaoatualtabela">Risanquizumabe - 75 mg/0,83 ml - solução injetável</p></td><td><p class="redaoatualtabela">3002.15.90</p></td></tr><tr><td><p class="redaoatualtabela">239</p></td><td><p class="redaoatualtabela">Ranibizumabe</p></td><td><p class="redaoatualtabela">3002.13.00</p></td><td><p class="redaoatualtabela">Ranibizumabe - 10 mg/ml - solução injetável</p></td><td><p class="redaoatualtabela">3002.15.90</p></td></tr><tr><td><p class="redaoatualtabela">240</p></td><td><p class="redaoatualtabela">Delamanida</p></td><td><p class="redaoatualtabela">2934.99.39</p></td><td><p class="redaoatualtabela">Delamanida - 50 mg - comprimido revestido</p></td><td><p class="redaoatualtabela">3003.90.89 3004.90.79</p></td></tr><tr><td><p class="redaoatualtabela">241</p></td><td><p class="redaoatualtabela">Bedaquilina</p></td><td><p class="redaoatualtabela">2933.49.90</p></td><td><p class="redaoatualtabela">Bedaquilina - 100 mg - comprimido</p></td><td><p class="redaoatualtabela">3003.90.79 3004.90.69</p></td></tr><tr><td><p class="redaoatualtabela">242</p></td><td><p class="redaoatualtabela">Alentuzumabe</p></td><td><p class="redaoatualtabela">3002.13.00</p></td><td><p class="redaoatualtabela">Alentuzumabe 10 mg/ml - solução para diluição para infusão</p></td><td><p class="redaoatualtabela">3002.15.90</p></td></tr><tr><td><p class="redaoatualtabela">243</p></td><td><p class="redaoatualtabela">Ocrelizumabe</p></td><td><p class="redaoatualtabela">3002.13.00</p></td><td><p class="redaoatualtabela">Ocrelizumabe 30 mg/ml sol dil infus iv ct fa vd trans x 10 ml</p></td><td><p class="redaoatualtabela">3002.15.90</p></td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2"> ITEM </td><td rowspan="2"> FÁRMACOS </td><td> NCM </td><td rowspan="2"> MEDICAMENTOS </td><td> NCM </td></tr><tr><td> FÁRMACOS </td><td> MEDICAMENTOS </td></tr><tr><td> .......... </td><td> ........................... </td><td> ..................... </td><td> .............................................. </td><td> ............................. </td></tr><tr><td> 96 </td><td> Somatropina </td><td> 2937.11.00 </td><td> Somatropina - 4 UI - injetável - por frasco-ampola </td><td> 3003.39.11 3004.39.11 </td></tr><tr><td> </td><td> </td><td> </td><td> Somatropina - 12 UI - Injetável - por frasco-ampola ou carpule </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> Somatropina - 15 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> Somatropina - 16 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> Somatropina - 18 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> Somatropina - 24 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> Somatropina - 30 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> Somatropina - 36 UI - por frasco-ampola (com ou sem dispositivo de aplicação) ou seringa preenchida ou carpule </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> Somatropina - 45 UI - por frasco-ampola (com ou sem dispositivo de aplicaçao) ou seringa preenchida ou carpule </td><td> </td></tr><tr><td> ........ </td><td> .......................... </td><td> .................. </td><td> .................................................... </td><td> ........................ </td></tr><tr><td> 162 </td><td> Natalizumabe </td><td> 3002.13.00 </td><td> Natalizumabe 300 mg (por frasco-ampola) </td><td> 3002.15.90 </td></tr><tr><td> ......... </td><td> ........................ </td><td> ................... </td><td> ..................................................... </td><td> .......................... </td></tr><tr><td> 221 </td><td> Insulina Glulisina </td><td> 2937.19.90 </td><td> 100 u/ml sol inj ct 1 carp vd inc x 3 ml </td><td> 3004.39.29 </td></tr><tr><td> </td><td> </td><td> </td><td> 100 u/ml sol inj ct 5 carp vd inc x 3 ml </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> 100 u/ml sol inj ct 1 carp vd inc x 3 ml + 1 sist aplic plas </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> 100 u/ml sol inj ct 5 carp vd inc x 5 ml </td><td> </td></tr><tr><td> 222 </td><td> Insulina Lispro </td><td> 2937.19.90 </td><td> 100 ui/ml sol inj ct 5 carp vd inc x 3 ml </td><td> 3004.39.29 </td></tr><tr><td> </td><td> </td><td> </td><td> 100 ui/ml sol inj ct 1 carp vd inc x 3 ml </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> 100 u/ml sol inj ct 2 carp vd inc x 3 ml </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> 100 u/ml sol inj ct 5 carp vd inc x 3 ml + 5 sist aplic plas </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> 100 u/ml sol inj ct 1 carp vd inc x 3 ml + 1 sist aplic plas </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> 100 u/ml sol inj ct 2 carp vd inc x 3 ml + 2 sist aplic plas </td><td> </td></tr><tr><td> 223 </td><td> Insulina Humana NPH </td><td> 2937.12.00 </td><td> Caneta Injetável 100 ui/ml x 3 ml </td><td> 3004.31.00 </td></tr><tr><td> 224 </td><td> Insulina Humana NPH </td><td> 2937.12.00 </td><td> Caneta Injetável 100 ui/ml x 3 ml x 5 </td><td> 3004.31.00 </td></tr><tr><td> 225 </td><td> Cloridrato de Cinacalcete </td><td> 2921.49.90 </td><td> Cloridrato de Cinacalcete 30 mg, comprimido </td><td> 3003.90.33 3004.90.99 </td></tr><tr><td> </td><td> </td><td> </td><td> Cloridrato de Cinacalcete 60 mg, comprimido </td><td> 3003.90.33 3004.90.99 </td></tr><tr><td> 226 </td><td> Paricalcitol </td><td> 2906.19.90 </td><td> Paricalcitol ampolas de 1ml com 5.0 µg/ml </td><td> 3004.90.99 </td></tr><tr><td> 227 </td><td> Idursulfase Alfa </td><td> 3507.90.39 </td><td> Idursulfase Alfa 2 mg/ml solução injetável (frasco com 3 ml) </td><td> 3004.90.14 3004.90.99 </td></tr><tr><td> 228 </td><td> Fumarato de Dimetila </td><td> 2917.19.30 </td><td> Fumarato de Dimetila 120 mg, cápsula liberação retardada </td><td> 3004.90.29 </td></tr><tr><td> </td><td> </td><td> </td><td> Fumarato de Dimetila 240 mg, cápsula liberação retardada </td><td> 3004.90.29 </td></tr><tr><td> 229 </td><td> Laronidase </td><td> 3507.90.39 </td><td> Laronidase 0,58 mg/ml solução injetável (frasco 5 ml) </td><td> 3004.90.19 </td></tr><tr><td> 230 </td><td> Mesilato de Rasagilina </td><td> 2921.49.90 </td><td> Mesilato de Rasagilina 1 mg, comprimido </td><td> 3004.90.39 </td></tr><tr><td> 231 </td><td> Teriflunomida </td><td> 2926.90.99 </td><td> Teriflunomida 14 mg, comprimido revestido </td><td> 3004.90.49 </td></tr><tr><td> 232 </td><td> Tofacitinibe </td><td> 2933.99.49 </td><td> Tofacitinibe 5 mg, comprimido revestido </td><td> 3004.90.69 3004.90.99 </td></tr><tr><td> 233 </td><td> Insulina Degludeca </td><td> 2937.19.90 </td><td> Tresiba 100 u/ml sol inj ct 1 car vd trans x 3 ml x 1 sist aplic plas (*flextouch*) </td><td> 3004.39.29 </td></tr><tr><td> </td><td> </td><td> </td><td> Tresiba 100 u/ml sol inj ct 5 car vd trans x 3 ml (*penfill*) </td><td> </td></tr><tr><td> 234 </td><td> Insulina Glargina </td><td> 2937.12.00 </td><td> 300 ul/ml sol inj ct car vd trans x 1,5 ml + can aplic </td><td> 3004.39.29 </td></tr><tr><td> </td><td> </td><td> </td><td> 100 ul/ml sol inj ct carp vd inc x 3 ml + sistema aplic plas </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> 100 ul/ml sol inj ct carp vd inc x 3 ml </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> 100 ul/ml sol inj ct fa vd inc x 10 ml </td><td> </td></tr><tr><td> 235 </td><td> Insulina Detemir </td><td> 2937.19.90 </td><td> 100 u/ml sol inj ct 5 carp vd inc x 3 ml x 5 sist aplic plast </td><td> 3004.39.29 </td></tr><tr><td> </td><td> </td><td> </td><td> 100 u/ml sol inj ct 5 carp vd inc x 3 ml </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> 100 u/ml sol inj ct 1 carp vd inc x 3 ml x 1 sist aplic plast </td><td> </td></tr><tr><td> 236 </td><td> Ustequinumabe </td><td> 3002.13.00 </td><td> Ustequinumabe 45 mg/0,5 ml </td><td> 3002.15.90 </td></tr><tr><td> 237 </td><td> Emicizumabe </td><td> 3002.13.00 </td><td> Emicizumabe - 30 mg sol inj sc ct 1 fa vd trans x 1 ml - solução injetável (30 mg/ml) </td><td> 3002.15.90 </td></tr><tr><td> </td><td> </td><td> </td><td> Emicizumabe - 60 mg sol inj sc ct 1 fa vd trans x 0,4 ml - solução injetável (150 mg/ml) </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> Emicizumabe - 105 mg sol inj sc ct 1 fa vd trans x 0,7 ml - solução injetável(150 mg/ml) </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> Emicizumabe - 150 mg sol inj sc ct 1 fa vd trans x 1 ml - solução injetável(150 mg/ml) </td><td> </td></tr><tr><td> 238 </td><td> Risanquizumabe </td><td> 3002.13.00 </td><td> Risanquizumabe - 75 mg/0,83 ml - solução injetável </td><td> 3002.15.90 </td></tr><tr><td> 239 </td><td> Ranibizumabe </td><td> 3002.13.00 </td><td> Ranibizumabe - 10 mg/ml - solução injetável </td><td> 3002.15.90 </td></tr><tr><td> 240 </td><td> Delamanida </td><td> 2934.99.39 </td><td> Delamanida - 50 mg - comprimido revestido </td><td> 3003.90.89 3004.90.79 </td></tr><tr><td> 241 </td><td> Bedaquilina </td><td> 2933.49.90 </td><td> Bedaquilina - 100 mg - comprimido </td><td> 3003.90.79 3004.90.69 </td></tr><tr><td> 242 </td><td> Alentuzumabe </td><td> 3002.13.00 </td><td> Alentuzumabe 10 mg/ml - solução para diluição para infusão </td><td> 3002.15.90 </td></tr><tr><td> 243 </td><td> Ocrelizumabe </td><td> 3002.13.00 </td><td> Ocrelizumabe 30 mg/ml sol dil infus iv ct fa vd trans x 10 ml </td><td> 3002.15.90 </td></tr></tbody></table>
 
 ” (NR)
 
@@ -408,7 +408,95 @@ LISTA DE EQUIPAMENTOS E INSUMOS DESTINADOS À PRESTAÇÃO DE SERVIÇOS DE SAÚDE
 
 (CONVÊNIO ICMS 01/99, DO CONFAZ)
 
-<table><tbody><tr><td><p>ITEM</p></td><td><p>NCM</p></td><td><p>EQUIPAMENTOS E INSUMOS</p></td></tr><tr><td><p>............</p></td><td><p>....................</p></td><td><p>......................................................................................................................</p></td></tr><tr><td><p>5</p></td><td><p>3006.10.90</p></td><td><p>Hemostático absorvível</p></td></tr><tr><td><p>............</p></td><td><p>....................</p></td><td><p>......................................................................................................................</p></td></tr><tr><td><p>9</p></td><td><p>3006.40.20</p></td><td><p>Cimento ortopédico com medicamento ou não</p></td></tr><tr><td><p>............</p></td><td><p>....................</p></td><td><p>......................................................................................................................</p></td></tr><tr><td><p>51</p></td><td><p>9018.90.95</p></td><td><p>Clipe venoso</p></td></tr><tr><td><p>............</p></td><td><p>....................</p></td><td><p>......................................................................................................................</p></td></tr><tr><td><p>54</p></td><td><p>9018.90.99</p></td><td><p>Conjunto de circulação assistida, equipo cassete</p></td></tr><tr><td><p>............</p></td><td><p>....................</p></td><td><p>......................................................................................................................</p></td></tr><tr><td><p>191</p></td><td><p>9021.90.12</p></td><td><p><i>Stent</i> vascular</p></td></tr><tr><td><p>............</p></td><td><p>....................</p></td><td><p>......................................................................................................................</p></td></tr><tr><td><p>197</p></td><td><p>9021.90.12</p></td><td><p>Espiral para embolização</p></td></tr><tr><td><p>............</p></td><td><p>....................</p></td><td><p>......................................................................................................................</p></td></tr><tr><td><p>198</p></td><td><p>9018.39.29</p></td><td><p>Sonda vesical para incontinência e continência</p></td></tr></tbody></table>
+ITEM
+
+NCM
+
+EQUIPAMENTOS E INSUMOS
+
+............
+
+....................
+
+......................................................................................................................
+
+5
+
+3006.10.90
+
+Hemostático absorvível
+
+............
+
+....................
+
+......................................................................................................................
+
+9
+
+3006.40.20
+
+Cimento ortopédico com medicamento ou não
+
+............
+
+....................
+
+......................................................................................................................
+
+51
+
+9018.90.95
+
+Clipe venoso
+
+............
+
+....................
+
+......................................................................................................................
+
+54
+
+9018.90.99
+
+Conjunto de circulação assistida, equipo cassete
+
+............
+
+....................
+
+......................................................................................................................
+
+191
+
+9021.90.12
+
+*Stent* vascular
+
+............
+
+....................
+
+......................................................................................................................
+
+197
+
+9021.90.12
+
+Espiral para embolização
+
+............
+
+....................
+
+......................................................................................................................
+
+198
+
+9018.39.29
+
+Sonda vesical para incontinência e continência
 
 ” (NR)
 
@@ -422,7 +510,365 @@ LISTA DE MEDICAMENTOS DESTINADOS AO TRATAMENTO DE CÂNCER
 
 (CONVÊNIO ICMS 162/94, DO CONFAZ)
 
-<table><tbody><tr><td><p>ITEM</p></td><td><p>MEDICAMENTO</p></td></tr><tr><td><p>..........</p></td><td><p>...............................................................................................................................................</p></td></tr><tr><td><p>82</p></td><td><p>Pegaspargase</p></td></tr><tr><td><p>83</p></td><td><p>Abemaciclibe</p></td></tr><tr><td><p>84</p></td><td><p>Acalabrutinibe</p></td></tr><tr><td><p>85</p></td><td><p>Acetato de abiraterona</p></td></tr><tr><td><p>86</p></td><td><p>Acetato de degarelix</p></td></tr><tr><td><p>87</p></td><td><p>Aflibercepte</p></td></tr><tr><td><p>88</p></td><td><p>Alfaepoetina</p></td></tr><tr><td><p>89</p></td><td><p>Alfatirotropina</p></td></tr><tr><td><p>90</p></td><td><p>Alpelisibe</p></td></tr><tr><td><p>91</p></td><td><p>Apalutamida</p></td></tr><tr><td><p>92</p></td><td><p>Aprepitanto</p></td></tr><tr><td><p>93</p></td><td><p>Atezolizumabe</p></td></tr><tr><td><p>94</p></td><td><p>Avelumabe</p></td></tr><tr><td><p>95</p></td><td><p>Axitinibe</p></td></tr><tr><td><p>96</p></td><td><p>Blinatumomabe</p></td></tr><tr><td><p>97</p></td><td><p>Brentuximabe vedotina</p></td></tr><tr><td><p>98</p></td><td><p>Brigatinibe</p></td></tr><tr><td><p>99</p></td><td><p>Cabazitaxel</p></td></tr><tr><td><p>100</p></td><td><p>Carfilzomibe</p></td></tr><tr><td><p>101</p></td><td><p>Cisplatinum</p></td></tr><tr><td><p>102</p></td><td><p>Citrato de ixazomibe</p></td></tr><tr><td><p>103</p></td><td><p>Cladribina</p></td></tr><tr><td><p>104</p></td><td><p>Cloreto de rádio (223 RA)</p></td></tr><tr><td><p>105</p></td><td><p>Cloridrato de aminolevulinato de metila</p></td></tr><tr><td><p>106</p></td><td><p>Cloridrato de alectinibe</p></td></tr><tr><td><p>107</p></td><td><p>Cloridrato de daunorubicina</p></td></tr><tr><td><p>108</p></td><td><p>Cloridrato de doxorubicina</p></td></tr><tr><td><p>109</p></td><td><p>Cloridrato de epirrubicina</p></td></tr><tr><td><p>110</p></td><td><p>Cloridrato de idarubicina</p></td></tr><tr><td><p>111</p></td><td><p>Cloridrato de irinotecana</p></td></tr><tr><td><p>112</p></td><td><p>Cloridrato de irinotecano tri-hidratado</p></td></tr><tr><td><p>113</p></td><td><p>Cloridrato de ondansetrona di-hidratado</p></td></tr><tr><td><p>114</p></td><td><p>Cloridrato de palonosetrona</p></td></tr><tr><td><p>115</p></td><td><p>Cloridrato de ponatinibe</p></td></tr><tr><td><p>116</p></td><td><p>Crizanlizumabe</p></td></tr><tr><td><p>117</p></td><td><p>Crizotinibe</p></td></tr><tr><td><p>118</p></td><td><p>Daratumumabe</p></td></tr><tr><td><p>119</p></td><td><p>Darolutamida</p></td></tr><tr><td><p>120</p></td><td><p>Degarrelix</p></td></tr><tr><td><p>121</p></td><td><p>Denosumabe</p></td></tr><tr><td><p>122</p></td><td><p>Mesilato de desferroxamina</p></td></tr><tr><td><p>123</p></td><td><p>Diaspartato de pasireotida</p></td></tr><tr><td><p>124</p></td><td><p>Dimaleato de afatinibe</p></td></tr><tr><td><p>125</p></td><td><p>Dimetilsulfóxido de trametinibe</p></td></tr><tr><td><p>126</p></td><td><p>Ditartarato de vinflunina</p></td></tr><tr><td><p>127</p></td><td><p>Ditartarato de vinorelbina</p></td></tr><tr><td><p>128</p></td><td><p>Docetaxel</p></td></tr><tr><td><p>129</p></td><td><p>Docetaxel anidro</p></td></tr><tr><td><p>130</p></td><td><p>Durvalumabe</p></td></tr><tr><td><p>131</p></td><td><p>Elotuzumabe</p></td></tr><tr><td><p>132</p></td><td><p>Eltrombopague olamina</p></td></tr><tr><td><p>133</p></td><td><p>Enzalutamida</p></td></tr><tr><td><p>134</p></td><td><p>Erdafitinibe</p></td></tr><tr><td><p>135</p></td><td><p>Esilato de nintedanibe</p></td></tr><tr><td><p>136</p></td><td><p>Exemestano</p></td></tr><tr><td><p>137</p></td><td><p>Filgrastim</p></td></tr><tr><td><p>138</p></td><td><p>Fluconazol</p></td></tr><tr><td><p>139</p></td><td><p>Folinato de cálcio</p></td></tr><tr><td><p>140</p></td><td><p>Fosaprepitanto dimeglumina</p></td></tr><tr><td><p>141</p></td><td><p>Fosfato de ruxolitinibe</p></td></tr><tr><td><p>142</p></td><td><p>Hemitartarato de vinorelbina</p></td></tr><tr><td><p>143</p></td><td><p>Ibrutinibe</p></td></tr><tr><td><p>144</p></td><td><p>Ipilimumabe</p></td></tr><tr><td><p>145</p></td><td><p>Sulfato de larotrectinibe</p></td></tr><tr><td><p>146</p></td><td><p>Lipegfilgrastim</p></td></tr><tr><td><p>147</p></td><td><p>Mesilato de dabrafenibe</p></td></tr><tr><td><p>148</p></td><td><p>Mesilato de desferroxamina</p></td></tr><tr><td><p>149</p></td><td><p>Mesilato de osimertinibe</p></td></tr><tr><td><p>150</p></td><td><p>Metotrexate</p></td></tr><tr><td><p>151</p></td><td><p>Midostaurina</p></td></tr><tr><td><p>152</p></td><td><p>Mifamurtida</p></td></tr><tr><td><p>153</p></td><td><p>Nimotuzumabe</p></td></tr><tr><td><p>154</p></td><td><p>Nivolumabe</p></td></tr><tr><td><p>155</p></td><td><p>Olaparibe</p></td></tr><tr><td><p>156</p></td><td><p>Olaratumabe</p></td></tr><tr><td><p>157</p></td><td><p>Palbociclibe</p></td></tr><tr><td><p>158</p></td><td><p>Panitumumabe</p></td></tr><tr><td><p>159</p></td><td><p>Pegfilgrastim</p></td></tr><tr><td><p>160</p></td><td><p>Pemetrexede dissódico di-hidratado</p></td></tr><tr><td><p>161</p></td><td><p>Plerixafor</p></td></tr><tr><td><p>162</p></td><td><p>Ramucirumabe</p></td></tr><tr><td><p>163</p></td><td><p>Rasburicase</p></td></tr><tr><td><p>164</p></td><td><p>Regorafenibe</p></td></tr><tr><td><p>165</p></td><td><p>Succinato de ribociclibe</p></td></tr><tr><td><p>166</p></td><td><p>Vincristina</p></td></tr><tr><td><p>167</p></td><td><p>Tensirolimo</p></td></tr><tr><td><p>168</p></td><td><p>Vandetanibe</p></td></tr><tr><td><p>169</p></td><td><p>Vinorelbina</p></td></tr></tbody></table>
+ITEM
+
+MEDICAMENTO
+
+..........
+
+...............................................................................................................................................
+
+82
+
+Pegaspargase
+
+83
+
+Abemaciclibe
+
+84
+
+Acalabrutinibe
+
+85
+
+Acetato de abiraterona
+
+86
+
+Acetato de degarelix
+
+87
+
+Aflibercepte
+
+88
+
+Alfaepoetina
+
+89
+
+Alfatirotropina
+
+90
+
+Alpelisibe
+
+91
+
+Apalutamida
+
+92
+
+Aprepitanto
+
+93
+
+Atezolizumabe
+
+94
+
+Avelumabe
+
+95
+
+Axitinibe
+
+96
+
+Blinatumomabe
+
+97
+
+Brentuximabe vedotina
+
+98
+
+Brigatinibe
+
+99
+
+Cabazitaxel
+
+100
+
+Carfilzomibe
+
+101
+
+Cisplatinum
+
+102
+
+Citrato de ixazomibe
+
+103
+
+Cladribina
+
+104
+
+Cloreto de rádio (223 RA)
+
+105
+
+Cloridrato de aminolevulinato de metila
+
+106
+
+Cloridrato de alectinibe
+
+107
+
+Cloridrato de daunorubicina
+
+108
+
+Cloridrato de doxorubicina
+
+109
+
+Cloridrato de epirrubicina
+
+110
+
+Cloridrato de idarubicina
+
+111
+
+Cloridrato de irinotecana
+
+112
+
+Cloridrato de irinotecano tri-hidratado
+
+113
+
+Cloridrato de ondansetrona di-hidratado
+
+114
+
+Cloridrato de palonosetrona
+
+115
+
+Cloridrato de ponatinibe
+
+116
+
+Crizanlizumabe
+
+117
+
+Crizotinibe
+
+118
+
+Daratumumabe
+
+119
+
+Darolutamida
+
+120
+
+Degarrelix
+
+121
+
+Denosumabe
+
+122
+
+Mesilato de desferroxamina
+
+123
+
+Diaspartato de pasireotida
+
+124
+
+Dimaleato de afatinibe
+
+125
+
+Dimetilsulfóxido de trametinibe
+
+126
+
+Ditartarato de vinflunina
+
+127
+
+Ditartarato de vinorelbina
+
+128
+
+Docetaxel
+
+129
+
+Docetaxel anidro
+
+130
+
+Durvalumabe
+
+131
+
+Elotuzumabe
+
+132
+
+Eltrombopague olamina
+
+133
+
+Enzalutamida
+
+134
+
+Erdafitinibe
+
+135
+
+Esilato de nintedanibe
+
+136
+
+Exemestano
+
+137
+
+Filgrastim
+
+138
+
+Fluconazol
+
+139
+
+Folinato de cálcio
+
+140
+
+Fosaprepitanto dimeglumina
+
+141
+
+Fosfato de ruxolitinibe
+
+142
+
+Hemitartarato de vinorelbina
+
+143
+
+Ibrutinibe
+
+144
+
+Ipilimumabe
+
+145
+
+Sulfato de larotrectinibe
+
+146
+
+Lipegfilgrastim
+
+147
+
+Mesilato de dabrafenibe
+
+148
+
+Mesilato de desferroxamina
+
+149
+
+Mesilato de osimertinibe
+
+150
+
+Metotrexate
+
+151
+
+Midostaurina
+
+152
+
+Mifamurtida
+
+153
+
+Nimotuzumabe
+
+154
+
+Nivolumabe
+
+155
+
+Olaparibe
+
+156
+
+Olaratumabe
+
+157
+
+Palbociclibe
+
+158
+
+Panitumumabe
+
+159
+
+Pegfilgrastim
+
+160
+
+Pemetrexede dissódico di-hidratado
+
+161
+
+Plerixafor
+
+162
+
+Ramucirumabe
+
+163
+
+Rasburicase
+
+164
+
+Regorafenibe
+
+165
+
+Succinato de ribociclibe
+
+166
+
+Vincristina
+
+167
+
+Tensirolimo
+
+168
+
+Vandetanibe
+
+169
+
+Vinorelbina
 
 ” (NR)
 
@@ -434,7 +880,23 @@ ANEXO IV
 
 RELAÇÃO DAS NORMAS QUE TRATAM DAS ISENÇÕES, DOS INCENTIVOS E DOS BENEFÍCIOS FISCAIS OU FINANCEIRO-FISCAIS REINSTITUÍDOS COM FUNDAMENTO NO CONVÊNIO ICMS 190/17, DE 2017, DO CONSELHO NACIONAL DE POLÍTICA FAZENDÁRIA (CONFAZ)
 
-<table><tbody><tr><td><p>ITEM</p></td><td><p>NORMA</p></td><td><p>DISPOSITIVOS ESPECÍFICOS</p></td></tr><tr><td><p>.............</p></td><td><p>.......................................</p></td><td><p>..................................................................................................</p></td></tr><tr><td><p>84</p></td><td><p>RICMS</p></td><td><p>Inciso XIX do <i>caput</i> do art. 2º do Anexo 2</p></td></tr></tbody></table>
+ITEM
+
+NORMA
+
+DISPOSITIVOS ESPECÍFICOS
+
+.............
+
+.......................................
+
+..................................................................................................
+
+84
+
+RICMS
+
+Inciso XIX do *caput* do art. 2º do Anexo 2
 
 ” (NR)
 
@@ -444,7 +906,139 @@ LISTA DE PRODUTOS DESTINADOS AO APROVEITAMENTO DE ENERGIA SOLAR E EÓLICA
 
 (CONVÊNIO ICMS 101/97)
 
-<table><tbody><tr><td><p>ITEM</p></td><td><p>DESCRIÇÃO</p></td><td><p>NCM</p></td></tr><tr><td><p>1</p></td><td><p>Aerogeradores para conversão de energia dos ventos em energia mecânica para fins de bombeamento de água e/ou moagem de grãos</p></td><td><p>8412.80.00</p></td></tr><tr><td><p>2</p></td><td><p>Bomba para líquidos, para uso em sistema de energia solar fotovoltaico em corrente contínua, com potência não superior a 2 HP</p></td><td><p>8413.81.00</p></td></tr><tr><td><p>3</p></td><td><p>Aquecedores solares de água</p></td><td><p>8419.19.10</p></td></tr><tr><td><p>4</p></td><td><p>Gerador fotovoltaico de potência não superior a 750 W</p></td><td><p>8501.31.20</p></td></tr><tr><td><p>5</p></td><td><p>Gerador fotovoltaico de potência superior a 750 W, mas não superior a 75 kW</p></td><td><p>8501.32.20</p></td></tr><tr><td><p>6</p></td><td><p>Gerador fotovoltaico de potência superior a 75 kW, mas não superior a 375 kW</p></td><td><p>8501.33.20</p></td></tr><tr><td><p>7</p></td><td><p>Gerador fotovoltaico de potência superior a 375 kW</p></td><td><p>8501.34.20</p></td></tr><tr><td><p>8</p></td><td><p>Aerogeradores de energia eólica</p></td><td><p>8502.31.00</p></td></tr><tr><td><p>9</p></td><td><p>Células solares não montadas</p></td><td><p>8541.40.16</p></td></tr><tr><td><p>10</p></td><td><p>Células solares em módulos ou painéis</p></td><td><p>8541.40.32</p></td></tr><tr><td><p>11</p></td><td><p>Torre para suporte de gerador de energia eólica</p></td><td><p>7308.20.00</p><p>9406.00.99</p></td></tr><tr><td><p>12</p></td><td><p>Pá de motor ou turbina eólica</p></td><td><p>8503.00.90</p></td></tr><tr><td><p>13</p></td><td><p>Partes e peças utilizadas exclusiva ou principalmente em aerogeradores, classificados no código 8502.31.00, em geradores fotovoltaicos, classificados nos códigos 8501.31.20, 8501.32.20, 8501.33.20 e 8501.34.20 - 8503.00.90</p></td><td><p>8503.00.90</p></td></tr><tr><td><p>13.1</p></td><td><p>Partes e peças utilizadas em torres para suporte de energia eólica, classificadas no código 7308.20.00</p></td><td><p>7308.90.90</p></td></tr><tr><td><p>14</p></td><td><p>Chapas de aço</p></td><td><p>7308.90.10</p></td></tr><tr><td><p>15</p></td><td><p>Cabos de controle</p></td><td><p>8544.49.00</p></td></tr><tr><td><p>16</p></td><td><p>Cabos de potência</p></td><td><p>8544.49.00</p></td></tr><tr><td><p>17</p></td><td><p>Anéis de modelagem</p></td><td><p>8479.89.99</p></td></tr><tr><td><p>18</p></td><td><p>Conversor de frequência de 1.600 kVA e 620 V</p></td><td><p>8504.40.50</p></td></tr><tr><td><p>19</p></td><td><p>Fio retangular de cobre esmaltado 10 x 3,55 mm</p></td><td><p>8544.11.00</p></td></tr><tr><td><p>20</p></td><td><p>Barra de cobre 9,4 x 3,5 m</p></td><td><p>8544.11.00</p></td></tr></tbody></table>
+ITEM
+
+DESCRIÇÃO
+
+NCM
+
+1
+
+Aerogeradores para conversão de energia dos ventos em energia mecânica para fins de bombeamento de água e/ou moagem de grãos
+
+8412.80.00
+
+2
+
+Bomba para líquidos, para uso em sistema de energia solar fotovoltaico em corrente contínua, com potência não superior a 2 HP
+
+8413.81.00
+
+3
+
+Aquecedores solares de água
+
+8419.19.10
+
+4
+
+Gerador fotovoltaico de potência não superior a 750 W
+
+8501.31.20
+
+5
+
+Gerador fotovoltaico de potência superior a 750 W, mas não superior a 75 kW
+
+8501.32.20
+
+6
+
+Gerador fotovoltaico de potência superior a 75 kW, mas não superior a 375 kW
+
+8501.33.20
+
+7
+
+Gerador fotovoltaico de potência superior a 375 kW
+
+8501.34.20
+
+8
+
+Aerogeradores de energia eólica
+
+8502.31.00
+
+9
+
+Células solares não montadas
+
+8541.40.16
+
+10
+
+Células solares em módulos ou painéis
+
+8541.40.32
+
+11
+
+Torre para suporte de gerador de energia eólica
+
+7308.20.00
+
+9406.00.99
+
+12
+
+Pá de motor ou turbina eólica
+
+8503.00.90
+
+13
+
+Partes e peças utilizadas exclusiva ou principalmente em aerogeradores, classificados no código 8502.31.00, em geradores fotovoltaicos, classificados nos códigos 8501.31.20, 8501.32.20, 8501.33.20 e 8501.34.20 - 8503.00.90
+
+8503.00.90
+
+13.1
+
+Partes e peças utilizadas em torres para suporte de energia eólica, classificadas no código 7308.20.00
+
+7308.90.90
+
+14
+
+Chapas de aço
+
+7308.90.10
+
+15
+
+Cabos de controle
+
+8544.49.00
+
+16
+
+Cabos de potência
+
+8544.49.00
+
+17
+
+Anéis de modelagem
+
+8479.89.99
+
+18
+
+Conversor de frequência de 1.600 kVA e 620 V
+
+8504.40.50
+
+19
+
+Fio retangular de cobre esmaltado 10 x 3,55 mm
+
+8544.11.00
+
+20
+
+Barra de cobre 9,4 x 3,5 m
+
+8544.11.00
 
 ANEXO VI
 
@@ -452,7 +1046,191 @@ PRODUTOS INTERMEDIÁRIOS DESTINADOS À PRODUÇÃO DE MEDICAMENTO DE USO HUMANO P
 
 (CONVÊNIO ICMS 10/02)
 
-<table><tbody><tr><td><p>ITEM</p></td><td><p>DESCRIÇÃO</p></td><td><p>NCM</p></td></tr><tr><td><p>1</p></td><td><p>Ácido3-hidroxi-2-metilbenzoico</p></td><td><p>2918.19.90</p></td></tr><tr><td><p>2</p></td><td><p>Glioxilato de L-Mentila, e 1,4-Ditiano 2,5 Diol, Mentiloxatiolano</p></td><td><p>2930.90.39</p></td></tr><tr><td><p>3</p></td><td><p>Cloridrato de 3-cloro-metilpiridina, 2-Cloro-3-(2-clorometil-4-piridilcarboxamido)-4-metilpiridina, 2-Cloro-3-(2-ciclopropilamino-3-piridilcarboxamido)-4-metilpiridina</p></td><td><p>2933.39.29</p></td></tr><tr><td><p>4</p></td><td><p>Benzoato de [3S-(2(2S*3S*)2alfa,4aBeta,8aBeta)]-N-(1,1-dimetiletil) decahidro-2-(2-hidroxi-3-amino-4-(feniltiobutil)-3-isoquinolina carboxamida</p></td><td><p>2933.49.90</p></td></tr><tr><td><p>5</p></td><td><p>N-terc-butil-1-(2(S)-hidroxi-4-(R)-[N-[(2)-hidroxiindan-1(S)-il]carbamoil]-5-fenilpentil) piperazina-2(S)-carboxamida</p></td><td><p>2933.59.19</p></td></tr><tr><td><p>6</p></td><td><p>Indinavir Base: [1(1S,2R),5(S)]-2,3,5-trideoxi-N-(2,3-dihidro-2-hidroxi-1H-inden-1-il)-5-[2-[[(1,1-dimetiletil)-amino]carbonil]-4-(3-piridinilmetil)-1-piperazinil]-2-(fenilmetil)-D-eritro-pentonamida</p></td><td><p>2933.59.19</p></td></tr><tr><td><p>7</p></td><td><p>Citosina</p></td><td><p>2933.59.99</p></td></tr><tr><td><p>8</p></td><td><p>Timidina</p></td><td><p>2934.99.23</p></td></tr><tr><td><p>9</p></td><td><p>Hidroxibenzoato de (2R-cis)-4-amino-1-[2-hidroxi-metil)-1,3-oxatiolan-5-il]-2(1H)-pirimidinona</p></td><td><p>2934.99.39</p></td></tr><tr><td><p>10</p></td><td><p>(2R,5R)-5-(4-amino-2-oxo-2H-pirimidin-1-il)-[1,3]-oxatiolan-2-carboxilato de 2S-isopropil-5R-metil-1R-ciclohexila</p></td><td><p>2934.99.99</p></td></tr><tr><td><p>11</p></td><td><p>Ciclopropil-Acetileno</p></td><td><p>2902.90.90</p></td></tr><tr><td><p>12</p></td><td><p>Cloreto de Tritila</p></td><td><p>2903.69.19</p></td></tr><tr><td><p>13</p></td><td><p>Tiofenol</p></td><td><p>2908.20.90</p></td></tr><tr><td><p>14</p></td><td><p>4-Cloro-2-(trifluoroacetil)-anilina</p></td><td><p>2921.42.29</p></td></tr><tr><td><p>15</p></td><td><p>N-tritil-4-cloro-2-(trifluoroacetil)-anilina</p></td><td><p>2921.42.29</p></td></tr><tr><td><p>16</p></td><td><p>(S)-4-cloro-alfa-ciclopropiletinil-alfa-trifluorometil-anilina</p></td><td><p>2921.42.29</p></td></tr><tr><td><p>17</p></td><td><p>N-metil-2-pirrolidinona</p></td><td><p>2924.21.90</p></td></tr><tr><td><p>18</p></td><td><p>Cloreto de terc-butil-dimetil-silano</p></td><td><p>2931.00.29</p></td></tr><tr><td><p>19</p></td><td><p>(3S,4aS,8aS)-2-{(2R)-2-[(4S)-2-(3-hidroxi-2-metil-fenil)-4,5-dihidro-1,3-oxazol-4-il]-2-hidroxietil}-N-(1,1-dimetil-etil)-decahidroisoquinolina-3-carboxamida</p></td><td><p>2933.49.90</p></td></tr><tr><td><p>20</p></td><td><p>Oxetano (ou: 3´,5´-Anidro-timidina)</p></td><td><p>2934.99.29</p></td></tr><tr><td><p>21</p></td><td><p>5-metil-uridina</p></td><td><p>2934.99.29</p></td></tr><tr><td><p>22</p></td><td><p>Tritil-azido-timidina</p></td><td><p>2334.99.29</p></td></tr><tr><td><p>23</p></td><td><p>2,3-Dideidro-2,3-dideoxi-inosina</p></td><td><p>2934.99.39</p></td></tr><tr><td><p>24</p></td><td><p>Inosina</p></td><td><p>2934.99.39</p></td></tr><tr><td><p>25</p></td><td><p>3-(2-cloro-3-piridil-carbonil)-amino-2-cloro-4-metilpiridina</p></td><td><p>2933.39.29</p></td></tr><tr><td><p>26</p></td><td><p>N-(2-cloro-4-metil-3-piridil-2-ciclopropilamino)-3-pridinocarboxamida</p></td><td><p>2933.39.29</p></td></tr><tr><td><p>27</p></td><td><p>5’ - Benzoil - 2’ - 3’ - dideidro - 3’ - deoxi-timidina</p></td><td><p>2933.39.29</p></td></tr><tr><td><p>28</p></td><td><p>(s)-5-cloro-alfa-(ciclopropiletinil)-2-[((4-metoxifenil)-metil)amino]-alfa-(trifluormetil)benzenometanol</p></td><td><p>2921.42.29</p></td></tr><tr><td><p>29</p></td><td><p>Chloromethyl Isopropil Carbonate</p></td><td><p>2920.90.90</p></td></tr><tr><td><p>30</p></td><td><p>(R)-[[2-(6-Amino-9H-purin-9-yl)-1-methylethoxy]methyl]phosporic acid</p></td><td><p>2934.99.99</p></td></tr></tbody></table>
+ITEM
+
+DESCRIÇÃO
+
+NCM
+
+1
+
+Ácido3-hidroxi-2-metilbenzoico
+
+2918.19.90
+
+2
+
+Glioxilato de L-Mentila, e 1,4-Ditiano 2,5 Diol, Mentiloxatiolano
+
+2930.90.39
+
+3
+
+Cloridrato de 3-cloro-metilpiridina, 2-Cloro-3-(2-clorometil-4-piridilcarboxamido)-4-metilpiridina, 2-Cloro-3-(2-ciclopropilamino-3-piridilcarboxamido)-4-metilpiridina
+
+2933.39.29
+
+4
+
+Benzoato de [3S-(2(2S*3S*)2alfa,4aBeta,8aBeta)]-N-(1,1-dimetiletil) decahidro-2-(2-hidroxi-3-amino-4-(feniltiobutil)-3-isoquinolina carboxamida
+
+2933.49.90
+
+5
+
+N-terc-butil-1-(2(S)-hidroxi-4-(R)-[N-[(2)-hidroxiindan-1(S)-il]carbamoil]-5-fenilpentil) piperazina-2(S)-carboxamida
+
+2933.59.19
+
+6
+
+Indinavir Base: [1(1S,2R),5(S)]-2,3,5-trideoxi-N-(2,3-dihidro-2-hidroxi-1H-inden-1-il)-5-[2-[[(1,1-dimetiletil)-amino]carbonil]-4-(3-piridinilmetil)-1-piperazinil]-2-(fenilmetil)-D-eritro-pentonamida
+
+2933.59.19
+
+7
+
+Citosina
+
+2933.59.99
+
+8
+
+Timidina
+
+2934.99.23
+
+9
+
+Hidroxibenzoato de (2R-cis)-4-amino-1-[2-hidroxi-metil)-1,3-oxatiolan-5-il]-2(1H)-pirimidinona
+
+2934.99.39
+
+10
+
+(2R,5R)-5-(4-amino-2-oxo-2H-pirimidin-1-il)-[1,3]-oxatiolan-2-carboxilato de 2S-isopropil-5R-metil-1R-ciclohexila
+
+2934.99.99
+
+11
+
+Ciclopropil-Acetileno
+
+2902.90.90
+
+12
+
+Cloreto de Tritila
+
+2903.69.19
+
+13
+
+Tiofenol
+
+2908.20.90
+
+14
+
+4-Cloro-2-(trifluoroacetil)-anilina
+
+2921.42.29
+
+15
+
+N-tritil-4-cloro-2-(trifluoroacetil)-anilina
+
+2921.42.29
+
+16
+
+(S)-4-cloro-alfa-ciclopropiletinil-alfa-trifluorometil-anilina
+
+2921.42.29
+
+17
+
+N-metil-2-pirrolidinona
+
+2924.21.90
+
+18
+
+Cloreto de terc-butil-dimetil-silano
+
+2931.00.29
+
+19
+
+(3S,4aS,8aS)-2-{(2R)-2-[(4S)-2-(3-hidroxi-2-metil-fenil)-4,5-dihidro-1,3-oxazol-4-il]-2-hidroxietil}-N-(1,1-dimetil-etil)-decahidroisoquinolina-3-carboxamida
+
+2933.49.90
+
+20
+
+Oxetano (ou: 3´,5´-Anidro-timidina)
+
+2934.99.29
+
+21
+
+5-metil-uridina
+
+2934.99.29
+
+22
+
+Tritil-azido-timidina
+
+2334.99.29
+
+23
+
+2,3-Dideidro-2,3-dideoxi-inosina
+
+2934.99.39
+
+24
+
+Inosina
+
+2934.99.39
+
+25
+
+3-(2-cloro-3-piridil-carbonil)-amino-2-cloro-4-metilpiridina
+
+2933.39.29
+
+26
+
+N-(2-cloro-4-metil-3-piridil-2-ciclopropilamino)-3-pridinocarboxamida
+
+2933.39.29
+
+27
+
+5’ - Benzoil - 2’ - 3’ - dideidro - 3’ - deoxi-timidina
+
+2933.39.29
+
+28
+
+(s)-5-cloro-alfa-(ciclopropiletinil)-2-[((4-metoxifenil)-metil)amino]-alfa-(trifluormetil)benzenometanol
+
+2921.42.29
+
+29
+
+Chloromethyl Isopropil Carbonate
+
+2920.90.90
+
+30
+
+(R)-[[2-(6-Amino-9H-purin-9-yl)-1-methylethoxy]methyl]phosporic acid
+
+2934.99.99
 
 ANEXO VII
 
@@ -460,7 +1238,65 @@ FÁRMACOS DESTINADOS À PRODUÇÃO DE MEDICAMENTO DE USO HUMANO PARA O TRATAMENT
 
 (CONVÊNIO ICMS 10/02)
 
-<table><tbody><tr><td><p>ITEM</p></td><td><p>DESCRIÇÃO</p></td><td><p>NCM</p></td></tr><tr><td><p>1</p></td><td><p>Nelfinavir Base: 3S-[2(2S*,3S*),3alfa,4aBeta,8aBeta]]-N-(1,1-dimetiletil)decahidro-2-[2-hidroxi-3-[(3-hidroxi-2-etilbenzoil)amino]-4-(feniltio)butil]-3-isoquinolina carboxamida</p></td><td><p>2933.49.90</p></td></tr><tr><td><p>2</p></td><td><p>Zidovudina - AZT</p></td><td><p>2934.99.22</p></td></tr><tr><td><p>3</p></td><td><p>Sulfato de Indinavir</p></td><td><p>2934.99.93</p></td></tr><tr><td><p>4</p></td><td><p>Lamivudina</p></td><td><p>2933.49.90</p></td></tr><tr><td><p>5</p></td><td><p>Didanosina</p></td><td><p>2934.99.29</p></td></tr><tr><td><p>6</p></td><td><p>Nevirapina</p></td><td><p>2934.99.99</p></td></tr><tr><td><p>7</p></td><td><p>Mesilato de nelfinavir</p></td><td><p>2933.49.90</p></td></tr><tr><td><p>8</p></td><td><p>Fumarato de Tenofovir Desoproxila</p></td><td><p>2933.59.49</p></td></tr><tr><td><p>9</p></td><td><p>Entricitabina</p></td><td><p>2934.99.29</p></td></tr></tbody></table>
+ITEM
+
+DESCRIÇÃO
+
+NCM
+
+1
+
+Nelfinavir Base: 3S-[2(2S*,3S*),3alfa,4aBeta,8aBeta]]-N-(1,1-dimetiletil)decahidro-2-[2-hidroxi-3-[(3-hidroxi-2-etilbenzoil)amino]-4-(feniltio)butil]-3-isoquinolina carboxamida
+
+2933.49.90
+
+2
+
+Zidovudina - AZT
+
+2934.99.22
+
+3
+
+Sulfato de Indinavir
+
+2934.99.93
+
+4
+
+Lamivudina
+
+2933.49.90
+
+5
+
+Didanosina
+
+2934.99.29
+
+6
+
+Nevirapina
+
+2934.99.99
+
+7
+
+Mesilato de nelfinavir
+
+2933.49.90
+
+8
+
+Fumarato de Tenofovir Desoproxila
+
+2933.59.49
+
+9
+
+Entricitabina
+
+2934.99.29
 
 ANEXO VIII
 
@@ -468,7 +1304,99 @@ BASES PARA MEDICAMENTOS DE USO HUMANO PARA O TRATAMENTO DE PORTADORES DO VÍRUS 
 
 (CONVÊNIO ICMS 10/02)
 
-<table><tbody><tr><td><p>ITEM</p></td><td><p>DESCRIÇÃO</p></td><td><p>NCM</p></td></tr><tr><td><p>1</p></td><td><p>Zalcitabina, Didanosina, Estavudina, Delavirdina, Lamivudina, medicamento resultante da associação de Lopinavir e Ritonavir</p></td><td><p>3003.90.99 3004.90.99 3003.90.69 3004.90.59</p></td></tr><tr><td><p>2</p></td><td><p>Saquinavir, Sulfato de Indinavir, Sulfato de Abacavir</p></td><td><p>3003.90.78 3004.90.68</p></td></tr><tr><td><p>3</p></td><td><p>Ziagenavir</p></td><td><p>3003.90.79 3004.90.69</p></td></tr><tr><td><p>4</p></td><td><p>Efavirenz, Ritonavir</p></td><td><p>3003.90.88 3004.90.78</p></td></tr><tr><td><p>5</p></td><td><p>Mesilato de nelfinavir</p></td><td><p>3004.90.68</p><p>3003.90.78</p></td></tr><tr><td><p>6</p></td><td><p>Sulfato de Atazanavir</p></td><td><p>3004.90.68</p></td></tr><tr><td><p>7</p></td><td><p>Darunavir</p></td><td><p>3004.90.79</p></td></tr><tr><td><p>8</p></td><td><p>Enfurvitida – T – 20</p></td><td><p>3004.90.68</p></td></tr><tr><td><p>9</p></td><td><p>Fosamprenavir</p></td><td><p>3003.90.88</p><p>3004.90.78</p></td></tr><tr><td><p>10</p></td><td><p>Raltegravir</p></td><td><p>3004.90.79</p></td></tr><tr><td><p>11</p></td><td><p>Tipranavir</p></td><td><p>3004.90.79</p></td></tr><tr><td><p>12</p></td><td><p>Maraviroque</p></td><td><p>3004.90.69</p></td></tr><tr><td><p>13</p></td><td><p>Etravirina</p></td><td><p>3004.90.69</p></td></tr><tr><td><p>14</p></td><td><p>Fumarato de Tenofovir Desoproxila e Entricitabina</p></td><td><p>3004.90.68</p></td></tr></tbody></table>
+ITEM
+
+DESCRIÇÃO
+
+NCM
+
+1
+
+Zalcitabina, Didanosina, Estavudina, Delavirdina, Lamivudina, medicamento resultante da associação de Lopinavir e Ritonavir
+
+3003.90.99 3004.90.99 3003.90.69 3004.90.59
+
+2
+
+Saquinavir, Sulfato de Indinavir, Sulfato de Abacavir
+
+3003.90.78 3004.90.68
+
+3
+
+Ziagenavir
+
+3003.90.79 3004.90.69
+
+4
+
+Efavirenz, Ritonavir
+
+3003.90.88 3004.90.78
+
+5
+
+Mesilato de nelfinavir
+
+3004.90.68
+
+3003.90.78
+
+6
+
+Sulfato de Atazanavir
+
+3004.90.68
+
+7
+
+Darunavir
+
+3004.90.79
+
+8
+
+Enfurvitida – T – 20
+
+3004.90.68
+
+9
+
+Fosamprenavir
+
+3003.90.88
+
+3004.90.78
+
+10
+
+Raltegravir
+
+3004.90.79
+
+11
+
+Tipranavir
+
+3004.90.79
+
+12
+
+Maraviroque
+
+3004.90.69
+
+13
+
+Etravirina
+
+3004.90.69
+
+14
+
+Fumarato de Tenofovir Desoproxila e Entricitabina
+
+3004.90.68
 
 ANEXO IX
 
@@ -476,7 +1404,83 @@ FÁRMACOS DESTINADOS À PRODUÇÃO DE MEDICAMENTO DE USO HUMANO PARA O TRATAMENT
 
 (CONVÊNIO ICMS 10/02)
 
-<table><tbody><tr><td><p>ITEM</p></td><td><p>DESCRIÇÃO</p></td><td><p>NCM</p></td></tr><tr><td><p>1</p></td><td><p>Sulfato de Indinavir</p></td><td><p>2924.29.99</p></td></tr><tr><td><p>2</p></td><td><p>Ganciclovir</p></td><td><p>2933.59.49</p></td></tr><tr><td><p>3</p></td><td><p>Zidovudina</p></td><td><p>2934.99.22</p></td></tr><tr><td><p>4</p></td><td><p>Didanosina</p></td><td><p>2934.99.29</p></td></tr><tr><td><p>5</p></td><td><p>Estavudina</p></td><td><p>2934.99.27</p></td></tr><tr><td><p>6</p></td><td><p>Lamivudina</p></td><td><p>2934.99.93</p></td></tr><tr><td><p>7</p></td><td><p>Nevirapina</p></td><td><p>2934.99.99</p></td></tr><tr><td><p>8</p></td><td><p>Efavirenz</p></td><td><p>2933.99.99</p></td></tr><tr><td><p>9</p></td><td><p>Tenofovir</p></td><td><p>2933.59.49</p></td></tr><tr><td><p>10</p></td><td><p>Etravirina</p></td><td><p>2933.59.99</p></td></tr><tr><td><p>11</p></td><td><p>Sulfato de Atazanavir</p></td><td><p>2933.39.99</p></td></tr><tr><td><p>12</p></td><td><p>Entricitabina</p></td><td><p>2934.99.29</p></td></tr></tbody></table>
+ITEM
+
+DESCRIÇÃO
+
+NCM
+
+1
+
+Sulfato de Indinavir
+
+2924.29.99
+
+2
+
+Ganciclovir
+
+2933.59.49
+
+3
+
+Zidovudina
+
+2934.99.22
+
+4
+
+Didanosina
+
+2934.99.29
+
+5
+
+Estavudina
+
+2934.99.27
+
+6
+
+Lamivudina
+
+2934.99.93
+
+7
+
+Nevirapina
+
+2934.99.99
+
+8
+
+Efavirenz
+
+2933.99.99
+
+9
+
+Tenofovir
+
+2933.59.49
+
+10
+
+Etravirina
+
+2933.59.99
+
+11
+
+Sulfato de Atazanavir
+
+2933.39.99
+
+12
+
+Entricitabina
+
+2934.99.29
 
 ANEXO X
 
@@ -484,4 +1488,94 @@ BASES PARA MEDICAMENTOS DE USO HUMANO PARA O TRATAMENTO DE PORTADORES DO VÍRUS 
 
 (CONVÊNIO ICMS 10/02)
 
-<table><tbody><tr><td><p>ITEM</p></td><td><p>DESCRIÇÃO</p></td><td><p>NCM</p></td></tr><tr><td><p>1.</p></td><td><p>Ritonavir</p></td><td><p>3003.90.88 3004.90.78</p></td></tr><tr><td><p>2.</p></td><td><p>Zalcitabina, Didanosina, Estavudina, Delavirdina, Lamivudina, medicamento resultante da associação de Lopinavir e Ritonavir</p></td><td><p>3003.90.99 3004.90.99 3003.90.69 3004.90.59</p></td></tr><tr><td><p>3.</p></td><td><p>Saquinavir, Sulfato de Indinavir, Sulfato de Abacavir</p></td><td><p>3003.90.78 3004.90.68</p></td></tr><tr><td><p>4.</p></td><td><p>Ziagenavir</p></td><td><p>3003.90.79 3004.90.69</p></td></tr><tr><td><p>5.</p></td><td><p>Mesilato de nelfinavir</p></td><td><p>3004.90.68</p><p>3003.90.78</p></td></tr><tr><td><p>6.</p></td><td><p>Zidovudina - AZT e Nevirapina</p></td><td><p>3004.90.79 3004.90.99</p></td></tr><tr><td><p>7.</p></td><td><p>Darunavir</p></td><td><p>3004.90.79</p></td></tr><tr><td><p>8.</p></td><td><p>Fumarato de tenofovir desoproxila</p></td><td><p>3003.90.78</p></td></tr><tr><td><p>9.</p></td><td><p>Enfurvitida – T – 20</p></td><td><p>3004.90.68</p></td></tr><tr><td><p>10.</p></td><td><p>Fosamprenavir</p></td><td><p>3003.90.88 3004.90.78</p></td></tr><tr><td><p>11.</p></td><td><p>Raltegravir</p></td><td><p>3004.90.79</p></td></tr><tr><td><p>12.</p></td><td><p>Tipranavir</p></td><td><p>3004.90.79</p></td></tr><tr><td><p>13.</p></td><td><p>Maraviroque</p></td><td><p>3004.90.69</p></td></tr><tr><td><p>14.</p></td><td><p>Fumarato de Tenofovir Desoproxila e Entricitabina</p></td><td><p>3004.90.68</p></td></tr></tbody></table>
+ITEM
+
+DESCRIÇÃO
+
+NCM
+
+1.
+
+Ritonavir
+
+3003.90.88 3004.90.78
+
+2.
+
+Zalcitabina, Didanosina, Estavudina, Delavirdina, Lamivudina, medicamento resultante da associação de Lopinavir e Ritonavir
+
+3003.90.99 3004.90.99 3003.90.69 3004.90.59
+
+3.
+
+Saquinavir, Sulfato de Indinavir, Sulfato de Abacavir
+
+3003.90.78 3004.90.68
+
+4.
+
+Ziagenavir
+
+3003.90.79 3004.90.69
+
+5.
+
+Mesilato de nelfinavir
+
+3004.90.68
+
+3003.90.78
+
+6.
+
+Zidovudina - AZT e Nevirapina
+
+3004.90.79 3004.90.99
+
+7.
+
+Darunavir
+
+3004.90.79
+
+8.
+
+Fumarato de tenofovir desoproxila
+
+3003.90.78
+
+9.
+
+Enfurvitida – T – 20
+
+3004.90.68
+
+10.
+
+Fosamprenavir
+
+3003.90.88 3004.90.78
+
+11.
+
+Raltegravir
+
+3004.90.79
+
+12.
+
+Tipranavir
+
+3004.90.79
+
+13.
+
+Maraviroque
+
+3004.90.69
+
+14.
+
+Fumarato de Tenofovir Desoproxila e Entricitabina
+
+3004.90.68

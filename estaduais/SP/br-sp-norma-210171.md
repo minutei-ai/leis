@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210171)<br>
-
 # EMENDA CONSTITUCIONAL N° 54, DE 29 DE OUTUBRO DE 2024
 
 ### _Altera o § 2° do artigo 11 da Constituição do Estado._

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/94130acf-0ad5-472d-9cc8-78412e55bb0f/texto#nowhere)
 
-###DEL-000847-0-000-09-09-1969@@@
-
 DECRETO-Lei Nº 847, DE 9 De SETEMBRO De 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério da Agricultura o crédito especial de NCr$5.956.000,00 (cento milhões, novecentos e cinqüenta e seis mil cruzeiros novos), para o fim que especifica.

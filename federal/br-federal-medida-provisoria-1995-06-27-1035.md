@@ -1,7 +1,3 @@
-1
-
-###MPV-001035-0-000-27-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.035, DE 27 DE JUNHO DE 1995.
 
 Dispõe sobre a fixação das mensalidades escolares e dá outras providências.

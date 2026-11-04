@@ -1,5 +1,3 @@
-###DEL-009216-0-000-30-04-1946@@@
-
 DECRETO-LEI N. 9.216 – DE 30 DE ABRIL DE 1946
 
 Dispõe sôbre a substituição de Ministros do Supremo Tribunal Federal.

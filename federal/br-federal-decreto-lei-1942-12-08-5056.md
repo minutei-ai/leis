@@ -1,5 +1,3 @@
-###DEL-005056-0-000-08-12-1942@@@
-
 DECRETO-LEI N. 5.056 – DE 8 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$ 19.000,00 à verba que especifica

@@ -1,5 +1,3 @@
-###DEL-002152-0-000-18-07-1984@@@
-
 # Decreto nº 2.152, de 18 de julho de 1984
 
 Estende o prazo limite fixado no Decreto-lei nº 1.825, de 22 de dezembro de 1980, que isenta do imposto de renda os empreendimentos integrantes do Programa Grande Carajás.

@@ -1,5 +1,3 @@
-###DEC-076851-0-000-17-12-1975@@@
-
 DECRETO Nº 76.851, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia da Universidade Federal do Acre, com sede na cidade de Rio Branco, Estado do Acre.

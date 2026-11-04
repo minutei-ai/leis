@@ -1,5 +1,3 @@
-###DEC-048078-0-000-07-04-1960@@@
-
 DECRERTO Nº 48.078, DE 7 DE ABRIL DE 1960.
 
 Autoriza o cidadão brasileiro Abelardo Vieira Santos, a pesquisar amianto e minérios de prata, chumbo e antimônio, no município de Pilar de Goiás, Estado de Goiás.

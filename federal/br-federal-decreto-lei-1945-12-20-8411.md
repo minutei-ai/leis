@@ -1,5 +1,3 @@
-###DEL-008411-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.411 – DE 20 DE DEZEMBRO DE 1945
 
 Altera a carreira de Médico do Trabalho do Quadro Permanente do Ministério do Trabalho, Indústria e Comércio, e dá outras providências.

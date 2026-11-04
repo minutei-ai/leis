@@ -1,5 +1,3 @@
-###DEL-003560-0-000-28-08-1941@@@
-
 DECRETO-LEI N. 3.560 – DE 28 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de 158 :400$0, para pagamento de gratificações

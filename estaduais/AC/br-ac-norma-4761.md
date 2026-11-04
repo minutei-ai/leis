@@ -1,6 +1,10 @@
 > **LEI Nº 3.750, DE 08 DE JULHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede anistia do pagamento de multa e juros das dívidas originadas em decorrência de notificações aplicadas pela Agência Reguladora dos Serviços Públicos do Estado do Acre – AGEAC, no período estabelecido por esta lei.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede anistia do pagamento de multa e juros das dívidas originadas em decorrência de notificações aplicadas pela Agência Reguladora dos Serviços Públicos do Estado do Acre – AGEAC, no período estabelecido por esta lei.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual c/c o art. 15, § 1º, X, do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 

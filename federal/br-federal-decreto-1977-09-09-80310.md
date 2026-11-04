@@ -1,5 +1,3 @@
-###DEC-080310-0-000-09-09-1977@@@
-
 Decreto nº 80.310, de 9 de Setembro de 1977.
 
 Concede à Edgar Cubas Filho & Cia. Ltda. o direito de lavrar caulim nos Municípios de São Bento do Sul, Jaraguá do Sul e Campo Alegre, Estado de Santa Catarina.

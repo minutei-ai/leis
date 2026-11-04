@@ -1,5 +1,3 @@
-###DEC-092249-0-000-30-12-1985@@@
-
 Decreto nº 92.249, de 30 de dezembro 1985
 
 Autoriza à Companhia Siderúrgica Nacional (GRUPO SIDERBRÁS) a promover o aumento do seu capital social.

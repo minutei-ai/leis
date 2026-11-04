@@ -1,5 +1,3 @@
-###DEC-002533-0-000-01-04-1998@@@
-
 DECRETO Nº 2.533, DE 1º DE ABRIL DE 1998
 
 Dispõe sobre remanejamento dos cargos em comissão que menciona.

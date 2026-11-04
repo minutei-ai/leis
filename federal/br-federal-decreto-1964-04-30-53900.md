@@ -1,5 +1,3 @@
-###DEC-053900-0-000-30-04-1964@@@
-
 Decreto nº 53.900, de 30 de abril de 1964.
 
 Prorroga os prazos indicados nos artigos 1º e 3º do Decreto nº 53.584, de 21 de fevereiro de 1964.

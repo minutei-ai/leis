@@ -1,5 +1,3 @@
-###DEL-007759-0-000-19-07-1945@@@
-
 DECRETO-LEI N. 7.759 – DE 19 DE JULHO DE 1945
 
 Cria e inclui um cargo de Ajudante de Tesoureiro (Tesouro Nacional), Padrão 23, no Quadro Suplementar do Ministério da Fazenda

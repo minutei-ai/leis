@@ -1,6 +1,4 @@
-###DEL-005902-0-000-21-10-1943@@@
-
- DECRETO‑LEI N. 5.902 – DE 21 OUTUBRO DE 1943
+DECRETO‑LEI N. 5.902 – DE 21 OUTUBRO DE 1943
 
 Dispõe sôbre o uniforme do pessoal das Guardamorias das Alfândegas e dá outras providências
 

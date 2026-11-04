@@ -1,5 +1,3 @@
-###DEC-084584-0-000-20-03-1980@@@
-
 Decreto nº 84.584, de 20 de março de 1980.
 
 Altera dispositivos do Decreto nº 82 341, de 27 de setembro de 1978, que cria a Comissão Gerencial de Projetos Especiais (ComGePE).

@@ -1,5 +1,3 @@
-###DEL-006725-0-000-24-07-1944@@@
-
 DECRETO-LEI N. 6.725 – DE 24 DE JULHO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a elevar para 6%, nas condições que menciona, a taxa de juros do empréstimo de Cr$ 100.000.000,00 da emissão de apólices autorizada pelo Decreto nº 3.462, de 4 de março de 1931, e dá outras providências

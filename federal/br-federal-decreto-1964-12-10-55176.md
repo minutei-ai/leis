@@ -1,5 +1,3 @@
-###DEC-055176-0-000-10-12-1964@@@
-
 Decreto nº 55.176, de 10 de dezembro de 1964.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco concessão para distribuir energia elétrica.

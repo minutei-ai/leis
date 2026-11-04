@@ -1,5 +1,3 @@
-###DEC-005889-0-000-06-09-2006@@@
-
 DECRETO Nº 5.889, DE 6 DE SETEMBRO DE 2006.
 
 Promulga o Acordo de Cooperação Educacional entre o Governo da República Federativa do Brasil e o Governo de Barbados, celebrado em Brasília, em 5 de outubro de 2004.
@@ -24,11 +22,7 @@ Brasília, 6 de setembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-          Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 8.9.2006.
-
-ACORDO DE COOPERAÇÃO EDUCACIONAL ENTRE O GOVERNO DA REPÚBLICA
+          Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO EDUCACIONAL ENTRE O GOVERNO DA REPÚBLICA
 
 FEDERATIVA DO BRASIL E O GOVERNO DE BARBADOS
 

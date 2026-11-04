@@ -1,5 +1,3 @@
-###DEC-061967-0-000-22-12-1967@@@
-
 Decreto nº 61.967, de 22 de dezembro de 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel sito à Avenida Francisco Matarazzo nº 101, na cidade de São Paulo, Estado de São Paulo.

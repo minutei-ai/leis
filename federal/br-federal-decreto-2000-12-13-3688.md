@@ -1,5 +1,3 @@
-###DEC-003688-0-000-13-12-2000@@@
-
 decreto nº 3.688, de 13 de dezembro de 2000.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

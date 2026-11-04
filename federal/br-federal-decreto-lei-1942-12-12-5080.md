@@ -1,5 +1,3 @@
-###DEL-005080-0-000-12-12-1942@@@
-
 DECRETO-LEI N. 5.080 – DE 12 DE DEZEMBRO DE 1942
 
 Cria, no Ministério da Agricultura, as Secção de Fomento Agrícola do Distrito Federal

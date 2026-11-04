@@ -1,7 +1,3 @@
-1
-
-###DEC-000005-0-000-14-01-1991@@@
-
 DECRETO N° 5, DE 14 DE JANEIRO DE 1991
 
 Regulamenta a Lei N° 6.321, de 14 de abril de 1976, que trata do Programa de Alimentação do Trabalhador, revoga o Decreto n° 78.676, de 8 de novembro de 1976 e dá outras providências.

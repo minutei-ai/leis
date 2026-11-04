@@ -1,5 +1,3 @@
-###DEC-002071-0-000-13-11-1996@@@
-
 DECRETO N° 2.071, DE 13 DE NOVEMBRO DE 1996.
 
 Aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas da Fundação Alexandre de Gusmão.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210637)<br>
-
 # DECRETO N° 69.362, DE 19 DE FEVEREIRO DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado._

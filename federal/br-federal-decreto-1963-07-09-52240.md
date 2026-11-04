@@ -1,5 +1,3 @@
-###DEC-052240-0-000-09-07-1963@@@
-
 DECRETO Nº 52.240, DE 9 DE JULHO DE 1963.
 
 Autoriza a Companhia Paulista de Mineração a pesquisar feldspato e caulim no município de Mar da Espanha, Estado de Minas Gerais.

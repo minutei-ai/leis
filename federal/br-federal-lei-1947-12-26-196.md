@@ -1,16 +1,14 @@
-###LEI-000196-0-000-26-12-1947@@@
+**LEI N. 196 – DE 26 DE DEZEMBRO DE 1947**
 
-<strong>LEI N. 196 – DE 26 DE DEZEMBRO DE 1947</strong>
-
-<em><strong>Fixa as forças de terra, mar e ar para o tempo de paz</strong></em>
+***Fixa as forças de terra, mar e ar para o tempo de paz***
 
 O Presidente da República:
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-<strong>Art.</strong> 1º As fôrças Armadas, para o tempo de paz, serão constituídas de acôrdo com a presente Lei:
+**Art.** 1º As fôrças Armadas, para o tempo de paz, serão constituídas de acôrdo com a presente Lei:
 
-<strong>Art.</strong> 2º As Fôrças de terra compreenderão :
+**Art.** 2º As Fôrças de terra compreenderão :
 
 a) os oficiais do Exército ativo, constantes dos diversos quadros (oficiais das armas e dos serviços de acôrdo, quanto ao número, com as exigências da organização do Exército em tempo de paz;
 
@@ -50,7 +48,7 @@ b) até o tipo da organização de paz, em circunstâncias especiais, e, se a se
 
 c) ao efetivo de guerra em caso de mobilização.
 
-<strong>Art.</strong> 3º As fôrças navais serão constituídas:
+**Art.** 3º As fôrças navais serão constituídas:
 
 a) dos oficiais constantes dos respectivos quadros inclusive dos da Reserva Ativa;
 
@@ -86,7 +84,7 @@ c) em tempo de guerra a Armada compor-se-á do pessoal que fôr necessário.
 
 § 3º Os claros, que se abrirem nos efetivo; do pessoal, serão preenchidos pela Escola Naval, por concurso, na forma da lei, pelas Escolas de Aprendizes Marinheiros, pelo voluntariado sem prêmio e pelo sorteio ou recrutamento para a Armada, nos têrmos da Lei do Serviço Militar. (Decreto-lei nº 9.500, de 23 de julho de 1946, combinado com o Decreto-lei nº 9.423, de 4 de julho de 1946).
 
-<strong>Art.</strong> 4º As Fôrças Aéreas compreenderão:
+**Art.** 4º As Fôrças Aéreas compreenderão:
 
 a) os oficiais da Aeronáutica ativa, constantes dos diversos Quadros, de acôrdo, quanto ao número, com as exigências da Organização da Fôrça Aérea em tempo de paz;
 
@@ -126,11 +124,11 @@ Taifeiros de 1ª Classe ........................................................
 
 Taifeiros de 2ª Classe ......................................................................................................................1.029
 
-<strong>Art.</strong> 5º A presente Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art.** 5º A presente Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 26 de dezembro de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G.</strong>  <strong>DUTRA</strong>
+**EURICO G.**  **DUTRA**
 
 Sylvio de Noronha
 

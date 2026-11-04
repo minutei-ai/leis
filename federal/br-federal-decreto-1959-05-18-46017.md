@@ -1,5 +1,3 @@
-###DEC-046017-0-000-18-05-1959@@@@
-
 DECRETO Nº 46.017, DE 18 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Sebastião Geraldo da Silva a lavrar ouro e diamante no município de Diamantina, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-060224-0-000-16-02-1967@@@
-
 DECRETO Nº 60.224, DE 16 DE FEVEREIRO DE 1967.
 
 Regulamenta o Decreto-lei nº 55, de 18 de novembro de 1966.

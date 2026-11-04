@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185540)
-
 # DECRETO Nº 63.275, DE 15 DE MARÇO DE 2018
 
 ### _Dispõe sobre a concessão onerosa de obra no Parque Capivari, localizado no município de Campos do Jordão e dá providências correlatas_
@@ -78,21 +76,30 @@ Palácio dos Bandeirantes, 15 de março de 2018
 
 GERALDO ALCKMIN
 
-Clodoaldo Pelissioni<br>
-Secretário dos Transportes Metropolitanos<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Clodoaldo Pelissioni
+
+Secretário dos Transportes Metropolitanos
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 15 de março de 2018.
 
-#### <br>
-ANEXO<br>
+####
+
+ANEXO
+
 a que se refere o artigo 5º do [Decreto nº 63.275, de 15 de março de 2018](https://www.al.sp.gov.br/norma/185540)
 
 #### REGULAMENTO DA CONCESSÃO DE OBRA NO PARQUE CAPIVARI, LOCALIZADO NO MUNICÍPIO DE CAMPOS DO JORDÃO
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Objetivo
 
 Artigo 1º - Este Regulamento tem por objetivo disciplinar a concessão onerosa de obra no Parque Capivari, localizado no Município de Campos do Jordão/SP.

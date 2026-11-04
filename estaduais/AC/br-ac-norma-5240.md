@@ -1,6 +1,10 @@
 > **LEI Nº 3.953, DE 24 DE JUNHO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.179, de 9 de dezembro de 2009, que dispõe sobre o Plano de Cargos, Carreiras e Remuneração do Quadro de Servidores do Instituto Socioeducativo do Estado do Acre - ISE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.179, de 9 de dezembro de 2009, que dispõe sobre o Plano de Cargos, Carreiras e Remuneração do Quadro de Servidores do Instituto Socioeducativo do Estado do Acre - ISE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-050304-0-000-28-02-1961@@@
-
 DECRETO Nº 50.304, DE 28 DE FEVEREIRO DE 1961.
 
 Dispõe sôbre a denominação de Faculdade.

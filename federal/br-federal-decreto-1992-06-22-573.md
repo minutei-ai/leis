@@ -1,5 +1,3 @@
-###DEC-000573-0-000-22-06-1992@@@
-
 DECRETO N° 573, DE 22 DE JUNHO DE 1992
 
 Dá nova redação ao art. 1º do Decreto nº 99.532, de 19 de setembro de 1990, que dispõe sobre a composição do Conselho Nacional de Metrologia, Normalização e Qualidade Industrial - CONMETRO.

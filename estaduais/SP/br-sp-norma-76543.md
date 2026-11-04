@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=76543)
-
 # LEI COMPLEMENTAR Nº 1.039, DE 18 DE MARÇO DE 2008
 
 ### _Cria cargos na Secretaria da Cultura e dá providências correlatas_

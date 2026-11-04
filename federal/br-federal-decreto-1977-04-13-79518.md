@@ -1,5 +1,3 @@
-###DEC-079518-0-000-13-04-1977@@@
-
 Decreto nº 79.518, de 13 de abril de 1977.
 
 Declara a utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de São Paulo S.A. - CESP, no Estado de São Paulo.

@@ -148,8 +148,6 @@ b) ao § 2º do art. 167-S-H do RCTE.
 
 Goiânia, 02 de fevereiro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

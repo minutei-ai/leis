@@ -1,5 +1,3 @@
-###DEC-074147-0-000-05-06-1974@@@
-
 decreto nº 74.147, de 5 de junho de 1974.
 
 Autoriza contratação de operação externa e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068688-0-000-27-05-1971@@@
-
 DECRETO Nº 68.688 - de 27 de maio de 1971.
 
 Autoriza a Comissão Executiva do Plano de Recuperação Econômico-Rural da Lavoura Cacaueira a realizar operações especiais de refinanciamento de dívidas dos produtores de cacau e dá outras providências.

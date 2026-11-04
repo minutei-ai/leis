@@ -1,5 +1,3 @@
-###DEC-066933-0-000-21-07-1970@@@
-
 DECRETO Nº 66.933, DE 21 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 21.634, de 13 de agôsto de 1946.

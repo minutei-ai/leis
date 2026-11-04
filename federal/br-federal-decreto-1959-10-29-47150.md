@@ -1,5 +1,3 @@
-###DEC-047150-0-000-29-10-1959@@@
-
 DECRETO Nº 47.150, DE 29 DE OUTUBRO DE 1959
 
 Autoriza o cidadão brasileiro Afonso Calicchio a lavrar filito argiloso no município de Itapeva, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-056812-0-000-31-08-1965@@@
-
 DECRETO Nº 56.812, DE 31 DE AGôSTO DE 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Passa Tempo, Estado de Minas Gerais.

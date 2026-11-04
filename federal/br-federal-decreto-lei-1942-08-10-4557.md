@@ -1,5 +1,3 @@
-###DEL-004557-0-000-10-08-1942@@@
-
 DECRETO-LEI N. 4.557 - DE 3 DE AGOSTO DE 1942
 
 Dispõe sobre a entrada, a saida e o movimento interno de navios e embarcações nos portos e águas interiores brasileiras

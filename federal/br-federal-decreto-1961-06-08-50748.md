@@ -1,5 +1,3 @@
-###DEC-050748-0-000-08-06-1961@@@
-
 DECRETO Nº 50.748, DE 8 DE JUNHO DE 1961.
 
 Concede à Companhia Paulista de Comércio Marítimo autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

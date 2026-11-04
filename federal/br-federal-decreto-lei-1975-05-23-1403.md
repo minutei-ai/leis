@@ -1,5 +1,3 @@
-###DEL-001403-0-000-23-05-1975@@@
-
 # DECRETO-LEI Nº 1.403, DE 23 DE MAIO DE 1975
 
 Isenta dos impostos de importação e sobre produtos industrializados as importações de componentes destinados ao Programa de Construção Naval e Plano Diretor da Reparação Naval.

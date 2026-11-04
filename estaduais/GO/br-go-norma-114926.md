@@ -204,5 +204,6 @@ Art. 8º Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Goiânia, 28 de maio de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado

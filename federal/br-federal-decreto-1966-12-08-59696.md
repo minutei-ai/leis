@@ -1,5 +1,3 @@
-###DEC-059696-0-000-08-12-1966@@@
-
 decreto nº 59.696, de 8 de dezembro de 1966.
 
 Concede à Minérios, Ferros e Metais S.A., autorização para funcionar como emprêsa de mineração.

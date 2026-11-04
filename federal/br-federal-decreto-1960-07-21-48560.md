@@ -1,5 +1,3 @@
-###DEC-048560-0-000-21-07-1960@@@
-
 DECRETO Nº 48.560, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro José Martinho da Silva a pesquisar fluorita no município de Jaguaruna, Estado de Santa Catarina.

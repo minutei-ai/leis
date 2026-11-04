@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183820)
-
 # DECRETO Nº 62.897, DE 30 DE OUTUBRO DE 2017
 
 ### _Introduz alteração no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS_
@@ -18,12 +16,18 @@ Palácio dos Bandeirantes, 30 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 30 de outubro de 2017.
 
 OFÍCIO GS-CAT Nº 977/2017
@@ -42,7 +46,10 @@ Helcio Tokeshi
 
 Secretário da Fazenda
 
-A Sua Excelência o Senhor<br>
-GERALDO ALCKMIN<br>
-Governador do Estado de São Paulo<br>
+A Sua Excelência o Senhor
+
+GERALDO ALCKMIN
+
+Governador do Estado de São Paulo
+
 Palácio dos Bandeirantes

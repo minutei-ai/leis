@@ -1,5 +1,3 @@
-###DEC-089247-0-000-27-12-1983@@@
-
 DECRETO Nº 89.247, DE 27 DE DEZEMBRO DE 1983
 
 Altera dispositivos do Regulamento do Imposto sobre Produtos Industrializados.

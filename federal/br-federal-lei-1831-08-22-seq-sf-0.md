@@ -1,5 +1,3 @@
-###LEI-000000-0-000-22-08-1831@@@
-
 LEI - DE 22 DE AGOSTO DE 1831
 
 Dissolve os Corpos de Milicianos Ligeiros da Provincia do Pará.

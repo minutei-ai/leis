@@ -1,5 +1,3 @@
-###DEC-007732-0-000-25-05-2012-PUB-01@@@
-
 DECRETO N° 7.732, DE 25 DE MAIO DE 2012
 
 Dispõe sobre a integralização de cotas do Fundo Garantidor de Operações.

@@ -1,5 +1,3 @@
-###DEC-077983-0-000-07-07-1976@@@
-
 DECRETO Nº 77.983, DE 7 DE JULHO DE 1976
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Imbituba, Estado de Santa Catarina.

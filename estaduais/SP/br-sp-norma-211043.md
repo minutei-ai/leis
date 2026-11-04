@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211043)<br>
-
 # DECRETO N° 69.594, DE 09 DE JUNHO DE 2025
 
 ### _Convoca a V Conferência Estadual de Políticas para as Mulheres e dá providências correlatas._

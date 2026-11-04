@@ -1,5 +1,3 @@
-###DEL-000664-0-000-30-06-1969@@@
-
 DECRETO-LEI Nº 664, DE 30 DE JUNHO DE 1969
 
 Aprova a Convenção nº 124, da Organização Internacional do Trabalho, relativa ao exame médico para determinação da aptidão dos adolescentes a emprêgo em trabalhos subterrâneos nas minas.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.568, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Torna obrigatória a instalação de câmeras de monitoramento sem captação de áudio em clínicas e hospitais públicos e privados onde ocorrem sessões de terapias multidisciplinares para pessoas neurodivergentes.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Torna obrigatória a instalação de câmeras de monitoramento sem captação de áudio em clínicas e hospitais públicos e privados onde ocorrem sessões de terapias multidisciplinares para pessoas neurodivergentes.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

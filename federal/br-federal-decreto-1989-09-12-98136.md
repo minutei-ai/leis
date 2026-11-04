@@ -1,5 +1,3 @@
-###DEC-098136-0-000-12-09-1989@@@
-
 DECRETO N° 98.136, DE 12 DE SETEMBRO DE 1989
 
 Abre ao Ministério da Marinha, em favor da Secretaria-Geral da Marinha, o crédito suplementar de NCz$ 3.199.090,00, para reforço de dotações consignadas no vigente Orçamento.

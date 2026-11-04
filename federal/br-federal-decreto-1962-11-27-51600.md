@@ -1,5 +1,3 @@
-###DEC-051600-0-000-27-11-1962@@@
-
 DECRETO Nº 51.600, de 27 de novembro de 1962.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Educação e Cultura e dá outras providências.

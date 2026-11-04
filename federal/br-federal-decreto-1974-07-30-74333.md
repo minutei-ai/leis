@@ -1,5 +1,3 @@
-###DEC-074333-0-000-30-07-1974@@@
-
 DECRETO Nº 74.333 - DE 30 DE JULHO DE 1974.
 
 Regulamenta a Lei Complementar n.º 19-74 e estabelece as diretrizes de aplicação dos recursos do PIS e do PASEP.

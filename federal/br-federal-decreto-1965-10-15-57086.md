@@ -1,5 +1,3 @@
-###DEC-057086-0-000-15-10-1965@@@
-
 DECRETO Nº 57.086, de 15 de outubro de 1965.
 
 Autoriza o cidadão brasileiro João Gabriel Freire a pesquisar diamantes no município de Gouvêa, Estado de Minas Gerais.

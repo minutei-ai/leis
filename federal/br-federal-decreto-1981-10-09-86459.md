@@ -1,5 +1,3 @@
-###DEC-086459-0-000-09-10-1981@@@
-
 Decreto nº 86.459, de 09 de outubro de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

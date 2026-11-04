@@ -1,5 +1,3 @@
-###DEL-001375-0-000-11-12-1974@@@
-
 # DECRETO-LEI Nº 1.375, DE 11 DE DEZEMBRO DE 1974
 
 Reajusta os vencimentos e salários dos sevidores dos Quadros das Secretarias do Tribunal Superior do Trabalho e Tribunais Regionais do Trabalho, e dá outras providências.

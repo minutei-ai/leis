@@ -1,5 +1,3 @@
-###DEC-068836-0-000-01-07-1971@@@
-
 DECRETO Nº 68.836, DE 1 DE JULHO DE 1971.
 
 Aprova o Regulamento para a Imprensa Naval.

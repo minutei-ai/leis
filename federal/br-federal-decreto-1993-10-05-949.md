@@ -1,7 +1,3 @@
-1
-
-###DEC-000949-0-000-05-10-1993@@@
-
 DECRETO Nº 949, DE 5 DE OUTUBRO DE 1993
 
 Regulamenta a Lei nº 8.661, de 2 de junho de 1993, que dispõe sobre os incentivos fiscais para a capacitação tecnológica da indústria e da agropecuária e dá outras providências.

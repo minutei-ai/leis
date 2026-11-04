@@ -1,5 +1,3 @@
-###DEC-066547-0-000-11-05-1970@@@
-
 DECRETO Nº 66.547, de 11 de maio de 1970.
 
 Regulamenta os incentivos para o Fundo de Recuperação Econômica do Estado do Espírito Santos e dá outras providências.

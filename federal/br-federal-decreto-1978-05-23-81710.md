@@ -1,5 +1,3 @@
-###DEC-081710-0-000-23-05-1978@@@
-
 Decreto nº 81.710, de 23 de maio de 1978
 
 Declara de utilidade pública, para fins da constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas Matogrossenses S.A. CEMAT, no Estado de Mato Grosso.

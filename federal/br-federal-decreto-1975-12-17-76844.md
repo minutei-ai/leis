@@ -1,5 +1,3 @@
-###DEC-076844-0-000-17-12-1975@@@
-
 DECRETO Nº 76.844, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade "Auxilium" de Filosofia, Ciências e Letras de Lins, com sede na cidade de Lins, Estado de São Paulo.

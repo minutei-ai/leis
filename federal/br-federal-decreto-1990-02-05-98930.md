@@ -1,7 +1,3 @@
-1
-
-###DEC-098930-0-000-05-02-1990@@@
-
 DECRETO Nº 98.930, DE 5 DE FEVEREIRO DE 1990
 
 Outorga concessão à TELEVISÃO ABRIL LIMITADA, para explorar Serviço Especial de Televisão por Assinatura TVA, na região metropolitana do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-091521-0-000-09-08-1985@@@
-
 Decreto nº 91.521, de 09 de agosto de 1985.
 
 Revoga a concessão outorgada à RÁDIO DIFUSORA SUL DA BAHIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Itabuna, Estado da Bahia.

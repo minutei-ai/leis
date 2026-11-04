@@ -1,5 +1,3 @@
-###DEL-003613-0-000-12-09-1941@@@
-
 DECRETO-LEI N. 3.613 – DE 12 DE SETEMBRO DE 1941
 
 Autoriza a aquisição de três lotes de terreno em Porto Murtinho, Estado de Mato Grosso, para serventia da 2ª Cia. Independente de Fronteiras.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001150-0-000-24-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.150, DE 24 DE OUTUBRO DE 1995.
 
 Dá nova redação a dispositivos da Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, e dá outras providências.

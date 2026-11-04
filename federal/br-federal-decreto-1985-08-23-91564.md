@@ -1,5 +1,3 @@
-###DEC-091564-0-000-23-08-1985@@@
-
 Decreto nº 91.564, de 23 de agosto de 1985
 
 Renova a concessão outorgada à RÁDIO EDUCADORA DE DOIS VIZINHOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Dois Vizinhos, Estado do Paraná.

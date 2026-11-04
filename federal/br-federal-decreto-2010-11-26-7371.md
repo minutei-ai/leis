@@ -1,5 +1,3 @@
-###DEC-007371-0-000-26-11-2010-PUB-01@@@
-
 DECRETO Nº 7.371, DE 26 DE NOVEMBRO DE 2010.
 
 Delega competência ao Ministro de Estado do Planejamento, Orçamento e Gestão para a realização da discriminação administrativa de que trata o art. 2o, inciso I, da Lei no 5.972, de 11 de dezembro de 1973.

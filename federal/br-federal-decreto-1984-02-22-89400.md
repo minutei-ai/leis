@@ -1,5 +1,3 @@
-###DEC-089400-0-000-22-02-1984@@@
-
 Decreto nº 89.400, de 22 de fevereiro de 1984
 
 Dispõe sobre o limite do Capital Autorizado da INDÚSTRIA CARBOQUÍMICA CATARINENSE S.A. - ICC.

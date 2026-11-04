@@ -1,5 +1,3 @@
-###DEC-056481-0-000-18-06-1965@@@
-
 Decreto nº 56.481, de 18 de junho de 1965.
 
 Concede à sociedade E.C. de Witt & Co. Ltd. Autorização para continuar a funcionar na República.

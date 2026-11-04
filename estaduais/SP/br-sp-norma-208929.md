@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208929)<br>
-
 # DECRETO N° 68.175, DE 09 DE DEZEMBRO DE 2023
 
 ### _Transfere a gestão da Estação Ecológica do Noroeste Paulista do Estado de São Paulo para a Fundação para a Conservação e a Produção Florestal do Estado de São Paulo_
@@ -38,10 +36,12 @@ Secretária de Meio Ambiente, Infraestrutura e Logística
 
 Publicado na Casa Civil, aos 9 de dezembro de 2023.
 
-#### Anexo <br>
+#### Anexo 
+
 a que se refere o artigo 3° do Decreto n° 68.175, de 9 de dezembro de 2023
 
-#### Anexo I <br>
+#### Anexo I 
+
 a que se refere o artigo 5° do [Decreto n° 51.453, de 29 de dezembro de 2006](https://www.al.sp.gov.br/norma/69454) 
 
 1\. ESTAÇÃO ECOLÓGICA DE BANANAL;

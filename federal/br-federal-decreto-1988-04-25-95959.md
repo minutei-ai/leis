@@ -1,5 +1,3 @@
-###DEC-095959-0-000-25-04-1988@@@
-
 DECRETO N° 95.959, DE 25 DE ABRIL DE 1988
 
 Autoriza a doação dos imóveis que menciona.

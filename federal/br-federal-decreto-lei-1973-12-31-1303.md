@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4252e86a-76c4-4afc-85bd-0e7462cafa6b/texto#nowhere)
 
-###DEL-001303-0-000-31-12-1973@@@
-
 # DECRETO-LEi Nº 1.303, DE 31 DE DEZEMbRO DE 1973
 
 Permite a amortização de despesas e outros encargos por mais de um exercício financeiro e dá outras providências.

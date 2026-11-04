@@ -1,5 +1,3 @@
-###MPV-001862-0-071-22-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.862-71, DE 22 DE SETEMBRO DE 1999.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

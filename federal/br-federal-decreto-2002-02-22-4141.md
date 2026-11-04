@@ -1,5 +1,3 @@
-###DEC-004141-0-000-22-02-2002@@@
-
 DECRETO Nº 4.141, DE 22 DE FEVEREIRO DE 2002
 
 Delega competência ao Ministro de Estado da Ciência e Tecnologia para designar os membros do Conselho Superior da Agência Espacial Brasileira - AEB.

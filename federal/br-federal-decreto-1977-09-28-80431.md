@@ -1,5 +1,3 @@
-###DEC-080431-0-000-28-09-1977@@@
-
 DECRETO Nº 80.431, DE 28 DE SETEMBRO DE 1977.
 
 Autoriza aterro de área em mar e a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Jurujuba, Município de Niterói, Estado do Rio de Janeiro.

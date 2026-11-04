@@ -1,5 +1,3 @@
-###DEL-003217-0-000-28-04-1941@@@
-
 DECRETO-LEI N. 3.217 – DE 28 DE ABRIL DE 1941
 
 Dispõe sobre o suprimento de energia elétrica à Prefeitura Municipal de Bofete, no Estado de São Paulo, pela Companhia Paulista de Força e Luz

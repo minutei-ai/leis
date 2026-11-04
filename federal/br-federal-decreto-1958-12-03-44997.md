@@ -1,5 +1,3 @@
-###DEC-044997-0-000-03-12-1958@@@
-
 DECRETO Nº 44.997, DE 3 DE DEZEMBRO DE 1958.
 
 Autoriza a Indústria e Comércio de Minérios S.A. “Icomi”, a instalar uma usina termoelétrica na mina “Serra do Navio”, situada no distrito de Pôrto Grande, do município de Macapá, Território Federal do Amapá, para uso exclusivo.

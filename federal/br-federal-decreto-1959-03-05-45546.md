@@ -1,5 +1,3 @@
-###DEC-045546-0-000-05-03-1959@@@
-
 DECRETO Nº 45.546, de 05 DE março DE 1959.
 
 Concede à Sociedade de Mineração, indústria e Comércio Sominco Ltda, autorização para funcionar como emprêsa de Mineração.

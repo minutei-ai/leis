@@ -1,5 +1,3 @@
-###DEC-074432-0-000-19-08-1974@@@
-
 DECRETO Nº 74.432 - DE 19 DE AGOSTO DE 1974.
 
 Prorroga o prazo de autorização concedida pelo Decreto nº 72.867, de 1 de outubro de 1973 á Companhia norte-americana Astro Marine Incoporated.

@@ -1,5 +1,3 @@
-###MPV-002103-0-042-22-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.103- 42, DE 22 DE JUNHO DE 2001
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

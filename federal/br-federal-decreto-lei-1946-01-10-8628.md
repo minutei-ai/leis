@@ -1,5 +1,3 @@
-###DEL-008628-0-000-10-01-1946@@@
-
 DECRETO-LEI N. 8.628 – DE 10 DE JANEIRO DE 1946
 
 Dispõe sôbre o fechamento de terrenos baldios no Distrito Federal e dá outras providências.

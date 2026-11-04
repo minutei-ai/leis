@@ -1,5 +1,3 @@
-###DEC-092586-0-000-25-04-1986@@@
-
 DECRETO Nº 92.586, DE 25 DE ABRIL DE 1986
 
 Revoga dispositivo do Decreto nº 60.768, de 29 de maio de 1967.

@@ -1,5 +1,3 @@
-###DEC-058081-0-000-25-03-1966@@@
-
 DECRETO Nº 58.081, DE 25 DE MARÇO DE 1966.
 
 Autoriza a cessão, sob o regime de aforamento, de ilhas situadas na baia de Sepetiba, Estado do Rio de Janeiro, nos têrmos dos artigos 125 e 126 do Decreto-lei nº 9.760, de 1946.

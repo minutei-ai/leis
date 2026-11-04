@@ -1,7 +1,3 @@
-1
-
-###DEC-097909-0-000-05-07-1989@@@
-
 DECRETO Nº 97.909, DE 5 DE JULHO DE 1989
 
 Dispõe sobre o aumento do capital social da EMBRAER - Empresa Brasileiro de Aeronáutica S.A.

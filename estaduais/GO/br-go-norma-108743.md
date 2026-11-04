@@ -135,15 +135,18 @@ Parágrafo único. O disposto no _caput_ deste artigo não confere qualquer dire
 
 Art. 5º Os automóveis com motor de cilindrada não superior a 2.000 cm³ (dois mil centímetros cúbicos) movidos exclusivamente a combustíveis fósseis ficam excluídos da isenção de que trata o inciso XXII do art. 7º do Anexo IX do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997.
 
-Art. 6º  Este Decreto entra em vigor na data de sua publicação, porém produz efeitos a partir de:<br>
+Art. 6º  Este Decreto entra em vigor na data de sua publicação, porém produz efeitos a partir de:
+
 \- [Redalçao dada pelo Decreto n° 10.617, de 26-12-2024, (](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110220) [produz efeitos a partir de 2 de maio de 2024, art. 2º, II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110220)[).](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110220)
 
 ~~Art. 6º Este Decreto entra em vigor na data de sua publicação, porém produz efeitos a partir de 29 de dezembro de 2022 quanto ao seu art. 5º.~~
 
-I – 29 de dezembro de 2022, quanto ao seu art. 5º; e<br>
+I – 29 de dezembro de 2022, quanto ao seu art. 5º; e
+
 \- [Acrescido pelo Decreto n° 10.617, de 26-12-2024, (](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110220)[efeitos a partir de 2 de maio de 2024, art. 2º, II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110220)[).](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110220)
 
-II – 1º de maio de 2024, quanto ao inciso XVI do § 4º do art. 12 do Anexo IX do Decreto nº 4.852, de 1997<br>
+II – 1º de maio de 2024, quanto ao inciso XVI do § 4º do art. 12 do Anexo IX do Decreto nº 4.852, de 1997
+
 \- [Acrescido pelo Decreto n° 10.617, de 26-12-2024, (](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110220)[efeitos a partir de 2 de maio de 2024, art. 2º, II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110220)[).](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110220)
 
 Goiânia, 2 de maio de 2024; 136º da República.

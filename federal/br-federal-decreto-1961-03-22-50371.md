@@ -1,5 +1,3 @@
-###DEC-050371-0-000-22-03-1961@@@
-
 DECRETO Nº 50.371, DE 22 DE MARÇO DE 1961.
 
 Revoga o Decreto nº 49.914, de 12 de janeiro de 1961.

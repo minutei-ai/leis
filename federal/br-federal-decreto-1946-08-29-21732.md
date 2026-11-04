@@ -1,24 +1,22 @@
-###DEC-021732-0-000-29-08-1946@@@
+**DECRETO Nº 21.732,DE 29 DE AGÔSTO DE 1946.**
 
-<strong>DECRETO Nº 21.732,DE 29 DE AGÔSTO DE 1946.</strong>
+***Concede permissão à Comissão Telefônica Brasileira para assentar um cabo telefônico submarino entre o Distrito Federal e a cidade de Niterói, Estado do Rio de Janeiro.***
 
-<em><strong>Concede permissão à Comissão Telefônica Brasileira para assentar um cabo telefônico submarino entre o Distrito Federal e a cidade de Niterói, Estado do Rio de Janeiro.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição, atendendo ao que requereu a Companhia Telefônica Brasileira e tendo em vista o que consta do processo norte nº 16.573-46, do Departamento da Viação e Obras Públicas,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição, atendendo ao que requereu a Companhia Telefônica Brasileira e tendo em vista o que consta do processo norte nº 16.573-46, do Departamento da Viação e Obras Públicas,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica concedida permissão à Companhia Telefônica Brasileira para assentar novo cabo telefônico submarino ligando a sua rêde telefônica do Distrito Federal com a de Niterói, Estado do Rio de Janeiro, de acôrdo com a planta e memória discretiva e mediante as cláusulas que com este baixam, assinadas pelo ministro da Viação e Obras Públicas.
 
-<strong>Art</strong>. 1º Fica concedida permissão à Companhia Telefônica Brasileira para assentar novo cabo telefônico submarino ligando a sua rêde telefônica do Distrito Federal com a de Niterói, Estado do Rio de Janeiro, de acôrdo com a planta e memória discretiva e mediante as cláusulas que com este baixam, assinadas pelo ministro da Viação e Obras Públicas.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 29 de agôsto de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO DUTRA</strong>
+**EURICO DUTRA**
 
 Edmundo de Macedo Soares e Silzva
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº21.732, DE 29 DE AGÔSTO DE 1946</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº21.732, DE 29 DE AGÔSTO DE 1946**
 
 I
 
@@ -42,4 +40,4 @@ A concessionária fica obrigada a assinar dentro de 60 dias, um têrmo de contra
 
 Rio de Janeiro, 29 de agôsto de1946.
 
-<strong>EDMUNDO DE MACEDO SOARES E SILVA</strong>
+**EDMUNDO DE MACEDO SOARES E SILVA**

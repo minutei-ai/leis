@@ -1,5 +1,3 @@
-###DEL-001320-0-000-12-03-1974@@@
-
 # DECRETO-LEI Nº 1.320, DE 12 De MARÇO DE 1974
 
 Reajusta os vencimentos e salários dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal e dá outras providências.

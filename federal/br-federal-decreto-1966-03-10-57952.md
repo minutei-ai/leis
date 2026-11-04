@@ -1,5 +1,3 @@
-###DEC-057952-0-000-10-03-1966@@@.
-
 DECRETO Nº 57.952, DE 10 DE MARÇO DE 1966.
 
 Concede a A. Millah & Teixeira Limitada autorização para funcionar como emprêsa de mineração.

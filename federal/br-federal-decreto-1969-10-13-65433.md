@@ -1,5 +1,3 @@
-###DEC-065433-0-000-13-10-1969@@@
-
 DECRETO Nº 65.433 - DE 13 DE OUTUBRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargos originários dos extintos Serviços de Navegação da Amazônia e da Administração do Pôrto do Pará, da Companhia Nacional de Navegação Costeira - Autarquia Federal e Lloyd Brasileiro - Patrimônio Nacional, e dá outras providências.

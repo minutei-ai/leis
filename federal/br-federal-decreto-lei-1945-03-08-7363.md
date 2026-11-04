@@ -1,5 +1,3 @@
-###DEL-007363-0-000-08-03-1945@@@
-
 DECRETO-LEI N. 7.363 – DE 8 DE MARÇO DE 1945
 
 Altera, sem aumento de despesa, dando nova redação ao artigo 2º, na aplicação do crédito especial aberto pelo Decreto-lei nº 7.218, de 30 de dezembro de 1944.

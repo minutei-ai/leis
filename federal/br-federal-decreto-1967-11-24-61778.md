@@ -1,5 +1,3 @@
-###DEC-061778-0-000-24-11-1967@@@
-
 DECRETO Nº 61.778, DE 24 DE NOVEMBRO DE 1967.
 
 Autoriza a contratação das operações de crédito que menciona e dá outras providências.

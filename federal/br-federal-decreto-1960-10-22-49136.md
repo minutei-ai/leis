@@ -1,5 +1,3 @@
-###DEC-049136-0-000-22-10-1960@@@
-
 DECRETO Nº 49.136, DE 22 DE OUTUBRO DE 1960.
 
 Estabelece em Campinas, Estado de São Paulo, um Pôsto Fiscal Aduaneiro, e dá outras providências.

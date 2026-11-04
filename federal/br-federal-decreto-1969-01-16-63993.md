@@ -1,5 +1,3 @@
-###DEC-063993-0-000-16-01-1969@@@
-
 DECRETO Nº 63.993, DE 16 DE JANEIRO DE 1969.
 
 Amplia a composição da Comissão da Bacia do Prata

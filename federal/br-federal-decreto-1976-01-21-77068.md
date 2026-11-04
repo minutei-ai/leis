@@ -1,5 +1,3 @@
-###DEC-077068-0-000-21-01-1976@@@
-
 DECRETO Nº 77.068, DE 21 DE JANEIRO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Florianópolis, Estado de Santa Catarina.

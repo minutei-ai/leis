@@ -1,5 +1,3 @@
-###DEC-093976-0-000-27-01-1987@@@
-
 DECRETO Nº 93.976, DE 27 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Suíça", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Canindé, no Estado do Ceará e, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 02 de maio de 1986, e dá outras providências.

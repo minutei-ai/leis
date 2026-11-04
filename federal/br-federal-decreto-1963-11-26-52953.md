@@ -1,5 +1,3 @@
-###DEC-052953-0-000-26-11-1963@@@
-
 DECRETO Nº 52.953, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a S.A. de Cimento Mineração e Cabotagem “Cimimar” a pesquisar argila, no município de Arujá, Estado de São Paulo.

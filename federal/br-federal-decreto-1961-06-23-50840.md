@@ -1,5 +1,3 @@
-###DEC-050840-0-000-23-06-1961@@@
-
 DECRETO Nº 50.840, DE 23 DE JUNHO DE 1961.
 
 Modifica o Regulamento para a execução dos serviços de radiocomunicação, de que trata o Decreto número 21.111 de 1º de março de 1932, e dá outras providências.

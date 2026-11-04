@@ -1,6 +1,10 @@
 > **LEI Nº 3.639, DE 02 DE JULHO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei 3.547 de 13 de novembro de 2019, que autoriza o Poder Executivo a contratar operação de crédito com a Caixa Econômica Federal e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei 3.547 de 13 de novembro de 2019, que autoriza o Poder Executivo a contratar operação de crédito com a Caixa Econômica Federal e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

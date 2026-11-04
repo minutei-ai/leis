@@ -1,5 +1,3 @@
-###DEC-052988-0-000-27-11-1963@@@
-
 DECRETO Nº 52.988, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Oswaldo Gerola a pesquisar água mineral no Município de Descalvado, Estado de São Paulo.

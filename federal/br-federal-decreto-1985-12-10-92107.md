@@ -1,5 +1,3 @@
-###DEC-092107-0-000-10-12-1985@@@
-
 DECRETO Nº 92.107, DE 10 DE DEZEmbRO DE 1985
 
 Altera o Decreto nº 89.404, de 24 de fevereiro de 1984, que constitui Reserva Nacional de cobre e seus associados a área que menciona, no Estado do Pará e no Território Federal do Amapá.

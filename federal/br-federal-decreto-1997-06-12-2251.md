@@ -1,5 +1,3 @@
-###DEC-002251-0-000-12-06-1997@@@
-
 DECRETO Nº 2.251, DE 12 DE JUNHO DE 1997
 
 Dispõe sobre a atualização de dados cadastrais dos servidores aposentados e dos pensionistas de União, e dá outras providências.

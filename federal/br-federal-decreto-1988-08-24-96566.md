@@ -1,5 +1,3 @@
-###DEC-096566-0-000-24-08-1988@@@
-
 DECRETO N° 96.566, DE 24 DE AGOSTO DE 1988
 
 Renova a concessão outorgada à L & C  RÁDIO EMISSORAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Agudos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-044911-0-000-28-11-1958@@@
-
 DECRETO Nº 44.911, DE 28 DE NOVEMBRO DE 1958.
 
 Transfere sem aumento de despesas função de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Educação e Cultura.

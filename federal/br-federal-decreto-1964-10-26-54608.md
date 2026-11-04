@@ -1,5 +1,3 @@
-###DEC-054608-0-000-26-10-1964@@@
-
 DECRETO Nº 54.608, DE 26 DE OUTUBRO DE 1964.
 
 Outorga à Emprêsa de Luz e Fôrça de Florianópolis S.A. concessão para distribuir energia elétrica e dá outras providências.

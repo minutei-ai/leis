@@ -1,5 +1,3 @@
-###DEC-096705-0-000-15-09-1988@@@
-
 DECRETO N° 96.705, DE 15 DE SETEMBRO DE 1988
 
 Dispõe sobre a realização do X Recenseamento Geral do Brasil.

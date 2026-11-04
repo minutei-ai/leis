@@ -1,7 +1,3 @@
-1
-
-###MPV-000808-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 808, DE 30 DE DEZEMBRO DE 1994
 
 Cria a Gratificação Temporária devida a integrantes da Carreira Policial Federal, e dá outras providências.

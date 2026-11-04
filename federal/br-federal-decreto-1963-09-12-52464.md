@@ -1,5 +1,3 @@
-###DEC-052464-0-000-12-09-1963@@@
-
 Decreto nº 52.464, de 12 de setembro de 1963.
 
 Baixa Normas Técnicas Especiais para orientação, organização e funcionamento e a fiscalização de instituições de assistência médico-social no País.

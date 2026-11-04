@@ -1,7 +1,3 @@
-1
-
-###DEC-098377-0-000-08-11-1989@@@
-
 DECRETO Nº 98.377, DE 08 DE NOVEMBRO DE 1989
 
 Dispõe sobre a criação de novos cursos de ensino superior na área da saúde.

@@ -1,5 +1,3 @@
-###DEL-004085-0-000-04-02-1942@@@
-
 DECRETO-LEI N. 4.085 – DE 4 DE FEVEREIRO DE 1942
 
 Cria um cargo, em comissão, de ajudante de tesoureiro, padrão F, no Quadro III – Parte Permanente – do Ministério da Viação e Obras Públicas

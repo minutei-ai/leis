@@ -1,5 +1,3 @@
-###DEC-051254-0-000-25-08-1961@@@
-
 DECRETO Nº 51.254, DE 25 DE AGÔSTO DE 1961.
 
 Declara prioritária para o desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação dos equipamentos novos sem similar nacional, abaixo descritos.
@@ -14,7 +12,47 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de todos e quaisquer impostos e taxas federais, a importação de equipamentos novos, a seguir especificados, consignados à firma SISAL DO BRASIL S.A. (SIBRASIL), destinados à sua fábrica de artigos de sisal, situada na cidade de Bayeux, Estado da Paraíba.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ordem</span></p></td><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIFICAÇÃO</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor CIF em US$</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Juntadeira (“</span><span style="font-style:italic">stranding machine</span><span>”) com 2 fusos para preparar “pernas de cordas”, voadores acionados por correias sem fim, em formas de V, com pertences e acessórios ......................................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Cordoeira horizontal (“</span><span style="font-style:italic">rope layer</span><span>”) para assentamento de 3 ou 4 pernas, formando corda de 5/16” a 7/8”, com voadores de aço, com pertences e acessórios ..........................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ................................................................................................................</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.500</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="text-decoration:underline">5.400</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9.900</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle">
+
+Ordem
+
+</td><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle">
+
+ESPECIFICAÇÃO
+
+</td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle">
+
+Valor CIF em US$
+
+</td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+1
+
+&nbsp;
+
+&nbsp;
+
+2
+
+</td><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Juntadeira (“stranding machine”) com 2 fusos para preparar “pernas de cordas”, voadores acionados por correias sem fim, em formas de V, com pertences e acessórios ......................................................................................
+
+Cordoeira horizontal (“rope layer”) para assentamento de 3 ou 4 pernas, formando corda de 5/16” a 7/8”, com voadores de aço, com pertences e acessórios ..........................................................................................................
+
+TOTAL ................................................................................................................
+
+</td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom">
+
+4.500
+
+&nbsp;
+
+5.400
+
+9.900
+
+</td></tr></tbody></table>
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,19 +1,17 @@
-###DEC-062922-0-000-28-06-1968@@@
+**DECRETO Nº 62.922, DE 28 DE JUNHO DE 1968.**
 
-<strong>DECRETO Nº 62.922, DE 28 DE JUNHO DE 1968.</strong>
+***Revoga o Decreto nº 62.788, de 30 de maio de 1968.***
 
-<em><strong>Revoga o Decreto nº 62.788, de 30 de maio de 1968.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso das atribuições que lhe confere o artigo 83, item II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso das atribuições que lhe confere o artigo 83, item II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica revogado o Decreto nº 62.788, de 30 de maio de 1968, que dispõe sôbre a revisão de enquadramento do pessoal da Administração do Porto do Rio de Janeiro e dá outras providência.
 
-<strong>Art</strong>. 1º Fica revogado o Decreto nº 62.788, de 30 de maio de 1968, que dispõe sôbre a revisão de enquadramento do pessoal da Administração do Porto do Rio de Janeiro e dá outras providência.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
 Brasília, 28 de junho de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Mário David Andreazza

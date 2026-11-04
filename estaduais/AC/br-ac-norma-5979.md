@@ -1,6 +1,10 @@
 > **LEI Nº 4.294, DE 27 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a Lei Orgânica da Administração Tributária do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a Lei Orgânica da Administração Tributária do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -492,13 +496,13 @@
 
 **XVIII -** elaborar, executar, monitorar e avaliar os projetos e programas de fiscalização e controle da situação cadastral ou econômico-fiscal, facilitando a aplicação dos métodos de gerenciamento das diretrizes e da rotina;
 
-**XI****X -** gerir informações econômico-tributárias;
+**XIX -** gerir informações econômico-tributárias;
 
 **XX -** prestar e/ou participar na formulação, planejamento e monitoramento da implementação de políticas públicas na administração tributária;
 
 **XXI -** dirigir unidades técnicas normativas da Administração Tributária.
 
-**Parágra****fo ú****nico.** O Auditor Fiscal da Receita Estadual II está impedido de exercer as atribuições previstas nos incisos XIII, XIV e XXI, deste artigo.
+**Parágrafo único.** O Auditor Fiscal da Receita Estadual II está impedido de exercer as atribuições previstas nos incisos XIII, XIV e XXI, deste artigo.
 
 **Art. 34.** As carreiras de Administração Tributária são compostas por 150 (cento e cinquenta) cargos de Auditor Fiscal da Receita Estadual e de 12 (doze) cargos em extinção de Auditor Fiscal da Receita Estadual II.
 

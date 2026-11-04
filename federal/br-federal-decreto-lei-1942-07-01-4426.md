@@ -1,5 +1,3 @@
-###DEL-004426-0-000-01-07-1942@@@
-
 DECRETO-LEI N. 4.426 – DE 1 DE JULHO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de réis 15:330$0 à verba que especifica

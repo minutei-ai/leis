@@ -1,5 +1,3 @@
-###DEC-084973-0-000-29-07-1980@@@
-
 DECRETO Nº 84.973, DE 29 DE JULHO DE 1980.
 
 Dispõe sobre a co-localização de Estações Ecológicas e Usinas Nucleares.

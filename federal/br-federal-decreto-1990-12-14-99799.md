@@ -1,7 +1,3 @@
-1
-
-###DEC-099799-0-000-14-12-1990@@@
-
 # DECRETO N° 99.799, DE 14 DE DEZEMBRO DE 1990
 
 Dá nova redação ao § 1° do art. 35 do Decreto nº 99.266, de 28 de maio de 1990, alterado pelo art. 1º do Decreto nº 99.664, de 1º de novembro de 1990.

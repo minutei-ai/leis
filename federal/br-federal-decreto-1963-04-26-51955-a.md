@@ -1,5 +1,3 @@
-###DEC-051955-A-000-26-04-1963@@@
-
 DECRETO Nº 51.955-A, DE 26 DE ABRIL DE 1963.
 
 Declara caduco o Decreto nº 2.413, de 23 de fevereiro de 1938.

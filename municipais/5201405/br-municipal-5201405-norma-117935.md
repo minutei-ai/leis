@@ -18,8 +18,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 04 de
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA <br>
+FÁBIO PASSAGLIA 
+
 Secretário de Governo

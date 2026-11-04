@@ -1,5 +1,3 @@
-###DEC-088772-0-000-27-09-1983@@@
-
 Decreto nº 88.772, de 27 de setembro de 1983
 
 Concede à Companhia Brasileira de Armazenamento - CIBRAZEM autorização para proceder ao aumento de seu Capital Social.

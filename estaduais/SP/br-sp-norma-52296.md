@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=52296)
-
 # LEI COMPLEMENTAR Nº 965, DE 16 DE DEZEMBRO DE 2004
 
 ### _Institui Bônus Mérito aos servidores técnicos, administrativos e docentes do Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS, e dá outras providências correlatas_

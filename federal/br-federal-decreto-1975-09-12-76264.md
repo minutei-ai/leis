@@ -1,5 +1,3 @@
-###DEC-076264-0-000-12-09-1975@@@
-
 DECRETO Nº 76.264 - DE 12 DE SETEMBRO DE 1975
 
 Concede à Mineração Nirvana Ltda. o direito de lavrar calcário no Município de Cantagalo, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-008287-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.287– DE 5 DE DEZEMBRO DE 1945
 
 Altera e cria carreiras nos Quadros Permanente e Suplementar do Ministério da Aeronáutica.

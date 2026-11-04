@@ -1,5 +1,3 @@
-###DEC-003572-0-000-22-08-2000@@@
-
 DECRETO Nº 3.572, DE 22 DE AGOSTO DE 2000.
 
 Altera dispositivos do Decreto nº 2.771, de 8 de setembro de 1998, que regulamenta a Lei nº 9.675, de 29 de junho de 1998, que dispõe sobre o registro provisório para o estrangeiro em situação ilegal no território nacional.

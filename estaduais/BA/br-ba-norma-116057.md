@@ -64,6 +64,28 @@ ANEXO I
 
 CARGOS EM COMISSÃO CRIADOS PELA LEI Nº 3.255/74
 
-<table style="width: 375.65pt; margin-left: 14.2pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt;" width="501" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 54.35pt; border: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="72"><p class="Tabela-Texto"><span>NÚMERO</span></p></td><td style="width: 264.6pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="353"><p class="Tabela-Texto"><span>CARGO</span></p></td><td style="width: 56.7pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="76"><p class="Tabela-Texto"><span>SÍMBOLO</span></p></td></tr><tr><td style="width: 54.35pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="72"><p class="Tabela-Texto"><span>1</span></p></td><td style="width: 264.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="353"><p class="Tabela-Texto"><span>DIRETOR EXECUTIVO</span></p></td><td style="width: 56.7pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="76"><p class="Tabela-Texto"><span>3-C</span></p></td></tr><tr><td style="width: 54.35pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="72"><p class="Tabela-Texto"><span>8</span></p></td><td style="width: 264.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="353"><p class="Tabela-Texto"><span>ASSESSORES</span></p></td><td style="width: 56.7pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="76"><p class="Tabela-Texto"><span>6-C</span></p></td></tr><tr><td style="width: 54.35pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="72"><p class="Tabela-Texto"><span>1</span></p></td><td style="width: 264.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="353"><p class="Tabela-Texto"><span>CHEFE DE SERVIÇO DE DOCUMENTAÇÃO E INFORMAÇÃO</span></p></td><td style="width: 56.7pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="76"><p class="Tabela-Texto"><span>7-C</span></p></td></tr></tbody></table>
+NÚMERO
+
+CARGO
+
+SÍMBOLO
+
+1
+
+DIRETOR EXECUTIVO
+
+3-C
+
+8
+
+ASSESSORES
+
+6-C
+
+1
+
+CHEFE DE SERVIÇO DE DOCUMENTAÇÃO E INFORMAÇÃO
+
+7-C
 
 (\*) Republicada por haver saído com incorreção.

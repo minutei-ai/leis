@@ -1,5 +1,3 @@
-###DEC-074660-0-000-07-10-1974@@@
-
 DECRETO Nº 74.660, DE 7 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento dos cursos de Letras e de Estudos Sociais da Faculdade de Educação, Ciências e Letras "Princesa Isabel", mantida pela Associação "Princesa Isabel" de Educação e Cultura - APIEC -, com sede na cidade de São Paulo, Estado de São Paulo.

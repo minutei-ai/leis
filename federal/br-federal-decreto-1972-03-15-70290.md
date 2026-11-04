@@ -1,5 +1,3 @@
-###DEC-070290-0-000-15-03-1972@@@
-
 Decreto nº 70.290, de 15 de março de 1972.
 
 Redistribui, com o respectivo ocupante, para o Ministério da Educação e Cultura, cargo do Ministério da Justiça, e dá outras providências.

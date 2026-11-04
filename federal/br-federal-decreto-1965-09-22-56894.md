@@ -1,5 +1,3 @@
-###DEC-056894-0-000-22-09-1965@@@
-
 DECRETO Nº 56.894, DE 22 DE SETEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Sabará - Estado de Minas Gerais.

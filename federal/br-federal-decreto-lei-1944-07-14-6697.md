@@ -1,5 +1,3 @@
-###DEL-006697-0-000-14-07-1944@@@
-
 DECRETO-LEI N. 6.697 – DE 14 DE JULHO DE 1944
 
 Cria, no Quadro Permanente do Ministério da Agricultara, a função gratificada de Chefe de Portaria, do Serviço Florestal e dá outras providências

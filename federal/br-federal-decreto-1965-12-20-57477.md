@@ -1,5 +1,3 @@
-###DEC-057477-0-000-20-12-1965@@@
-
 DECRETO Nº 57.477, DE 20 DE DEZEMBRO DE 1965.
 
 Dispõe sôbre manipulação, receituário, industrialização e venda de produtos utilizados em homeopatia e dá outras providências.
@@ -135,8 +133,6 @@ Brasília, 20 de dezembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Raymundo de Britto
-
-###DEC-057477-0-000-20-12-1965@@@RET01+++
 
 Decreto nº 57.477, de 20 de dezembro de 1965.
 

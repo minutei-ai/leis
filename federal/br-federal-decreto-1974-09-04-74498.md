@@ -1,5 +1,3 @@
-###DEC-074498-0-000-04-09-1974@@@
-
 DECRETO Nº 74.498, DE 4 DE SETEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade Camaquense de Ciências Contábeis e Administrativas, mantida pela Fundação de Ensino Superior da Região Centro-Sul, com sede na cidade de Camaquã, Estado do Rio Grande do Sul.

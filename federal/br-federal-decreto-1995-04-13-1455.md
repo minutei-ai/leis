@@ -1,7 +1,3 @@
-1
-
-###DEC-001455-0-000-13-04-1995@@@
-
 DECRETO Nº 1.455, DE 13 DE ABRIL DE 1995
 
 Dá nova redação ao art. 93 do Decreto nº 86.715, de 10 de dezembro de 1981, que regulamenta a Lei nº 6.815, de 19 de agosto de 1980, que define a situação jurídica do estrangeiro no Brasil e cria o Conselho Nacional de Imigração.

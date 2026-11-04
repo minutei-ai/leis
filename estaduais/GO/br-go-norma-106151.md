@@ -60,8 +60,6 @@ c) à alínea "b" do inciso IV do Apêndice II do Anexo VIII.
 
 Goiânia, 23 de setembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

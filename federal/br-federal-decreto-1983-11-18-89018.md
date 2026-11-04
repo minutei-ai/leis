@@ -1,5 +1,3 @@
-###DEC-089018-0-000-18-11-1983@@@
-
 Decreto nº 89.018, de 18 de novembro de 1983
 
 Autoriza alienação de bem imóvel pertencente ao patrimônio da Universidade do Rio de Janeiro (UNI-RIO).

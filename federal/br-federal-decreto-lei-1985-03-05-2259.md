@@ -1,5 +1,3 @@
-###DEL-002259-0-000-05-03-1985@@@
-
 # DECRETO-LEI Nº 2.259, DE 05 DE MARÇO DE 1985
 
 Estende a gratificação instituída pela Decreto-lei nº 2.111, de 04 de abril de 1984, com as alterações introduzidas pelo Decreto-lei nº 2.196, de 26 de dezembro de 1984, aos integrantes da Polícia Rodoviária Federal.

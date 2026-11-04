@@ -1,5 +1,3 @@
-###DEC-075662-0-000-25-04-1975@@@
-
 DECRETO Nº 75.662, DE 25 DE ABRIL de 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, uma gleba de terra situada na faixa de terrenos onde se acha estabelecida a linha de transmissão que se estende desde o ramal Duratex, no Município de Jundiaí, Estado de São Paulo, até a subestação da Elekeiroz produtos químicos no Município de Várzea Paulista, naquela Estado.

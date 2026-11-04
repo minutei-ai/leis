@@ -1,5 +1,3 @@
-###DEC-084309-0-000-17-12-1979@@@
-
 Decreto nº 84.309, de 17 de dezembro de 1979
 
 Decreta de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Vicente de Carvalho da CESP- Companhia Energética de São Paulo, no Estado de São Paulo.

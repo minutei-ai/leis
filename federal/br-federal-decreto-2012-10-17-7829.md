@@ -1,5 +1,3 @@
-###DEC-007829-0-000-17-10-2012-PUB-01@@@
-
 DECRETO Nº 7.829, DE 17 DE OUTUBRO DE 2012
 
 Regulamenta a Lei nº 12.414, de 9 de junho de 2011, que disciplina a formação e consulta a bancos de dados com informações de adimplemento, de pessoas naturais ou de pessoas jurídicas, para formação de histórico de crédito.

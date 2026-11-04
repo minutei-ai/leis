@@ -1,6 +1,10 @@
 > **LEI Nº 4.558, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece diretrizes básicas para as ações de enfrentamento de intolerância religiosa e a implementação de cultura de paz na administração pública, direta e indireta, do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece diretrizes básicas para as ações de enfrentamento de intolerância religiosa e a implementação de cultura de paz na administração pública, direta e indireta, do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

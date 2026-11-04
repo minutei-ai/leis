@@ -1,5 +1,3 @@
-###DEC-073781-0-000-11-03-1974@@@
-
 Decreto nº 73.781, de 11 de março de 1974.
 
 Aprova os Estatutos da Fundação Casa de Rui Barbosa

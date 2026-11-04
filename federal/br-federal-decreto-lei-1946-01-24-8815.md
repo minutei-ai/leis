@@ -1,5 +1,3 @@
-###DEL-008815-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.815 – DE 24 DE JANEIRO DE 1946
 
 Fica incorporada à Universidade do Brasil a antiga Faculdade de Ciências Econômicas e Administrativas do Rio de Janeiro sob a denominação de Faculdade Nacional de Ciências Econômicas (Fundação Mauá).

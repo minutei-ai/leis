@@ -1,5 +1,3 @@
-###DEC-080568-0-000-17-10-1977@@@
-
 Decreto nº 80.568, de 17 de outubro de 1977.
 
 Altera a redação do Decreto nº 80.416,de 27 de setembro de 1977.

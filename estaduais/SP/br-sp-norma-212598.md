@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212598)<br>
-
 # DECRETO N° 70.604, DE13 DE MAIO DE 2026
 
 ### _Oficializa, sem ônus para os cofres públicos, a "Medalha Combatente Adelino Ramos", instituída pela Sociedade Veteranos de 32 - M.M.D.C. - Núcleo Jarinu e dá providências correlatas_
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e à v
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Honraria
 
 **Artigo 1° -** Fica oficializada, sem ônus aos cofres públicos, a "Medalha Combatente Adelino Ramos", instituída pela Sociedade Veteranos de 32 - M.M.D.C. - Núcleo Jarinu, que tem por objetivo reconhecer e galardoar personalidades, físicas ou jurídicas, civis ou militares, nacionais ou estrangeiras, que tenham prestado relevantes serviços em prol das causas defendidas pela Sociedade Veteranos de 32 - M.M.D.C., que tenham contribuído para a proteção da Constituição, da justiça e da liberdade, evidenciando compromisso institucional, responsabilidade pública e respeito aos princípios do Estado Democrático de Direito, ou que, de algum modo, tenham prestado relevantes serviços ao Estado de São Paulo e seu povo.
@@ -55,7 +54,8 @@ a) anverso: nome da honraria; nome completo do(a) agraciado(a); nome da institui
 
 b) verso: dados de registro do diploma na Instituição (Livro e Página/Sequência); chancela de registro do diploma junto ao Conselho Estadual de Honrarias e Mérito - CEHM.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Chancelaria e da Comissão de Outorgas
 
 **Artigo 4° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pelo Conselho de Outorgas.
@@ -68,7 +68,8 @@ Da Chancelaria e da Comissão de Outorgas
 
 **Parágrafo único -** O total de membros da Comissão de Outorgas, incluindo seu presidente, deve ser em número ímpar para evitar empates nas votações.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 6° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual de Honrarias e Mérito - CEHM.
@@ -95,7 +96,8 @@ IV - Chanceler, para os membros da Comissão de Outorgas.
 
 **Artigo 9° -** Caso a honraria permaneça por muito tempo sem ser outorgada ou nos casos em que a Comissão de Outorgas seja dissolvida, será necessário acender novamente a Fonte de Honra (Fons Honorum), conforme previsto no artigo 7° deste decreto.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 10 -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas à Comissão de Outorgas em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -130,7 +132,8 @@ Do Direito de Honra (Jus Honorum)
 
 **Artigo 17 -** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Do Registro e das Chancelas Oficiais dos Diplomas
 
 **Artigo 18 -** O agraciamento por meio da outorga da honraria possui caráter personalíssimo e intransferível, sendo o diploma o documento formal e oficial que atesta sua autenticidade.
@@ -151,7 +154,8 @@ Do Registro e das Chancelas Oficiais dos Diplomas
 
 **§ 3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual de Honrarias e Mérito - CEHM.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Das Cerimônias de Outorga
 
 **Artigo 21 -** A entrega das medalhas será feita, anualmente, em solenidade pública, de preferência na data de 29 de maio, na presença do Grão-Mestre.
@@ -172,7 +176,8 @@ Das Cerimônias de Outorga
 
 **Parágrafo único -** Os agraciados devem ser orientados a comparecer ao evento sem outras condecorações (heraldicamente nus).
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Disposições Finais
 
 **Artigo 24 -** É vedada a comercialização da honraria, sob pena de revogação do decreto de oficialização.

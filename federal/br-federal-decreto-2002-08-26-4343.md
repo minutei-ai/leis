@@ -1,5 +1,3 @@
-###DEC-004343-0-000-26-08-2002@@@
-
 DECRETO Nº 4.343, DE 26 DE AGOSTO DE 2002
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 39, entre os Governos da República Federativa do Brasil e da República da Colômbia, da República do Equador, da República do Peru e da República Bolivariana da Venezuela (países-membros da Comunidade Andina), de 28 de junho de 2002.

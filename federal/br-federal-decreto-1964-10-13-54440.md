@@ -1,5 +1,3 @@
-###DEC-054440-0-000-13-10-1964@@@
-
 decreto nº 54.440, de 13 de outubro de 1964.
 
 Autoriza a S.A. de Cimento Mineração e Cabotagem “Ciminar” a pesquisar argila no município de Taubaté, Estado de São Paulo.

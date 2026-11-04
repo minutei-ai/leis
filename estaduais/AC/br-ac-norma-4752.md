@@ -1,6 +1,10 @@
 > **LEI Nº 3.769, DE 09 DE AGOSTO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o Conselho Estadual dos Direitos da Mulher – CEDIM, e revoga a Lei nº 2.431, de 21 de julho de 2011 e suas alterações, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o Conselho Estadual dos Direitos da Mulher – CEDIM, e revoga a Lei nº 2.431, de 21 de julho de 2011 e suas alterações, e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

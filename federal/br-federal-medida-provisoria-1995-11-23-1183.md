@@ -1,7 +1,3 @@
-1
-
-###MPV-001183-0-000-23-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.183, DE 23 DE NOVEMBRO DE 1995.
 
 Institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

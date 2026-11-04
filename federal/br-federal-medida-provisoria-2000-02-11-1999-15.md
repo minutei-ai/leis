@@ -1,5 +1,3 @@
-###MPV-001999-0-015-11-02-2000@@@
-
 medida provisória nº 1.999-15, de 11 de fevereiro de 2000.
 
 Altera dispositivos da Lei nº 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

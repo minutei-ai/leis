@@ -1,5 +1,3 @@
-###DEC-087218-0-000-31-05-1982@@@
-
 Decreto Nº 87.218, de 31 de maio de 1982
 
 Regulamenta a Lei nº 6.965, de 09 de dezembro de 1981, que dispõe sobre a regulamentação da profissão de Fonoaudiólogo, e determina outras providências.

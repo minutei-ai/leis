@@ -1,5 +1,3 @@
-###DEC-005643-0-000-27-12-2005@@@
-
 DECRETO Nº 5.643, DE 27 DE DEZEMBRO DE 2005.
 
        Dispõe sobre a tutoria na Fundação Universidade Federal da Grande Dourados pela Universidade Federal de Goiás e dá outras providências.
@@ -41,5 +39,3 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 LUIZ INÁCIO LULA DA SILVA
 
      Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 28.12.2005

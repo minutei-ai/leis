@@ -1,5 +1,3 @@
-###DEC-089093-0-000-02-12-1983@@@
-
 Decreto nº 89.093, de 02 de deZembrO de 1983.
 
 Promulga o Acordo de Cooperação Científica, Tecnológica e Técnica entre o Governo da República Federativa do Brasil e o Governo da República Argelina Democrática e Popular.
@@ -92,4 +90,20 @@ ARTIGO VIII
 
 Feito em Brasília, aos 3 dias do mês de junho de 1981, em três exemplares originais, nas línguas portuguesa, árabe e francesa, sendo os três textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA ARGELINA DEMOCRÁTICA E POPULAR:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Ramiro Saraiva Guerreiro</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">M'hamed Yalá</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA ARGELINA DEMOCRÁTICA E POPULAR:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Ramiro Saraiva Guerreiro
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+M'hamed Yalá
+
+</td></tr></tbody></table>

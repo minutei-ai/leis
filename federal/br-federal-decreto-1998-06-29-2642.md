@@ -1,5 +1,3 @@
-###DEC-002642-0-000-29-06-1998@@@
-
 DECRETO Nº 2.642, DE 29 DE JUNHO DE 1998
 
 Dá nova redação ao art. 17 do Decreto nº 87.737, de 20 de outubro de 1982, que dispõe sobre o Regulamento do Estado-Maior das Forças Armadas.

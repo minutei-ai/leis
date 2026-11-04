@@ -1,5 +1,3 @@
-###DEL-009145-0-000-08-04-1946@@@
-
 DECRETO-LEI N. 9.145 – DE 8 DE ABRIL DE 1946
 
 Dispõe sôbre salário de extranumerário contratado

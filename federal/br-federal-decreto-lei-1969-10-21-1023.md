@@ -1,7 +1,3 @@
-1
-
-###DEL-001023-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.023, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre a tarifa de utilização de Faróis e dá outras providências.

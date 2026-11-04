@@ -1,5 +1,3 @@
-###DEL-006063-0-000-02-12-1943@@@
-
 DECRETO‑LEI N. 6.063 – DE 2 DE DEZEMBRO DE 1943
 
 Abre ao Conselho Nacional do Petróleo, o crédito suplementar de Cr$ 10.000.000,00, à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-005275-0-000-19-11-2004@@@
-
 DECRETO Nº 5.275 DE 19 DE NOVEMBRO DE 2004
 
 Regulamenta a Gratificação de Desempenho de Atividade Médico-Pericial - GDAMP e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047244-0-000-16-11-1959@@@
-
 DECRETO Nº 47.244, DE 16 DE NOVEMBRO DE 1959.
 
 Aprova alterações introduzidas nos estatutos, inclusive aumento de capital social da Seguradora das Américas S.A.

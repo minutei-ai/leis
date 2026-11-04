@@ -1,14 +1,12 @@
-###DEC-039907-0-000-05-09-1956@@@
+**DECRETO Nº 39.907, DE 5 DE SETEMBRO DE 1956.**
 
-<strong>DECRETO Nº 39.907, DE 5 DE SETEMBRO DE 1956.</strong>
+***Dá nova redação, a letra b do artigo 23 e artigo 25 do Regulamento aprovado pelo Decreto número 34.999, de 2 de fevereiro de 1954.***
 
-<em><strong>Dá nova redação, a letra b do artigo 23 e artigo 25 do Regulamento aprovado pelo Decreto número 34.999, de 2 de fevereiro de 1954.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É dada a letra <em>b</em> do artigo 23 do regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954, a seguinte redação:
+**Art**. 1º É dada a letra *b* do artigo 23 do regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954, a seguinte redação:
 
 b) Para sargentos em serviço nos parques de material bélico, arsenais, oficinas e fábricas; para cabos e soldados:
 
@@ -22,7 +20,7 @@ Idêntica a anterior, porém com as seguintes alterações:
 
 \-sem ombreira (Fig. 51).
 
-<strong>Art</strong>. 2º É dada ao artigo 25 do Regulamento aprovado pelo mesmo Decreto nº 34.999, a seguinte redação:
+**Art**. 2º É dada ao artigo 25 do Regulamento aprovado pelo mesmo Decreto nº 34.999, a seguinte redação:
 
 “Art. 25 Véstia - Para oficiais e Aspirantes e oficial:
 
@@ -40,10 +38,10 @@ Idêntica a anterior, porém com as seguintes alterações:
 
 \- ombreiras de forma e feito idênticos aos da blusa de instrução;
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 5 de setembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

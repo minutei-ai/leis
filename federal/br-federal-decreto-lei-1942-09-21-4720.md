@@ -1,5 +1,3 @@
-###DEL-004720-0-000-21-09-1942@@@
-
 DECRETO-LEI N. 4.720 – DE 21 DE SETEMBRO DE 1942
 
 Fixa normas gerais para o cultivo de plantas entorpecentes e para a extração, transformação e purificação dos seus princípios ativo-terapêuticos

@@ -1,5 +1,3 @@
-###DEC-089654-0-000-15-05-1984@@@
-
 Decreto nº 89.654, de 15 de maio de 1984
 
 Outorga à Companhia Geral de Melhoramentos em Pernambuco concessão para o aproveitamento da energia hidráulica de um trecho do rio Camaragibe, no Município de Rio Formoso, Estado de Pernambuco, para uso exclusivo.

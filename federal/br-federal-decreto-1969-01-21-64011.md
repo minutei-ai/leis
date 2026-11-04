@@ -1,5 +1,3 @@
-###DEC-064011-0-000-21-01-1969@@@
-
 DECRETO Nº 64.011, DE 21 DE JANEIRO DE 1969.
 
 Institui Grupo de Trabalho para estudar e propor a estrutura de serviço destinado a divulgar o Brasil no exterior.

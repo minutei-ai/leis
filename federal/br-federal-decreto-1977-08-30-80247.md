@@ -1,5 +1,3 @@
-###DEC-080247-0-000-30-08-1977@@@
-
 Decreto nº 80.247, de 30 de agosto de 1977.
 
 Concede à Mineração Santa Patrícia Ltda. o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

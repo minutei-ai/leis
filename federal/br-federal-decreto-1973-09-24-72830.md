@@ -1,5 +1,3 @@
-###DEC-072830-0-000-24-09-1973@@@
-
 Decreto nº 72.830, de 24 de setembro de 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão, no Estado de Goiás.

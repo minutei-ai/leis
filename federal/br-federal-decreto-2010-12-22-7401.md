@@ -1,5 +1,3 @@
-###DEC-007401-0-000-22-12-2010-PUB-01@@@
-
 DECRETO Nº 7.401, DE 22 DE DEZEMBRO DE 2010
 
 Dispõe sobre a criação da Embaixada do Brasil em Palikir, nos Estados Federados da Micronésia, cumulativa com a Embaixada em Manila.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208191)<br>
-
 # LEI N° 17.698, DE 13 DE JUNHO DE 2023
 
 ## (Projeto de lei n° 834, de 2021, da Deputada Dra. Damaris Moura - PSDB)

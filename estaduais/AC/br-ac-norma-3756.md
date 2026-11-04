@@ -1,6 +1,10 @@
 > **LEI Nº 3.621, DE 05 DE MAIO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Proíbe a majoração, sem justa causa, do preço de produtos e serviços em geral durante o plano de contingência da Secretaria de Estado de Saúde relacionado ao Covid -19.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Proíbe a majoração, sem justa causa, do preço de produtos e serviços em geral durante o plano de contingência da Secretaria de Estado de Saúde relacionado ao Covid -19.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

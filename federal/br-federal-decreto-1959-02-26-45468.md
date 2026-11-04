@@ -1,5 +1,3 @@
-###DEC-045468-0-000-26-02-1959@@@
-
 DECRETO Nº 45.468, DE 26 DE FEVEREIRO DE 1959.
 
 Concede à sociedade Neptunia Sociedade de Navegação Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

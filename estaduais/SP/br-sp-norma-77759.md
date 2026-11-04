@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=77759)
-
 # LEI COMPLEMENTAR Nº 1.046, DE 02 DE JUNHO DE 2008
 
 ### _Altera Lei complementar nº 847, de 16 de julho de 1998, que instituiu o "POUPATEMPO"_

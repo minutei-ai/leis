@@ -16,10 +16,14 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS</b><br>101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">COTA PARA O EXERCÍCIO DA ATIVIDADE PARLAMENTAR - CEAP - ALEGO</td><td style=" width:85px;    ">01 031 1010 2033</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.639.536,26</td><td style=" width:85px;    ">R$ 18.784.876,54</td><td style=" width:85px;    ">R$ 20.424.412,80</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA ALEGO</td><td style=" width:85px;    ">01 031 4200 4201</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 787.944,34</td><td style=" width:85px;    ">R$ 10.597.922,09</td><td style=" width:85px;    ">R$ 11.385.866,43</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS** 101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>COTA PARA O EXERCÍCIO DA ATIVIDADE PARLAMENTAR - CEAP - ALEGO</td><td>01 031 1010 2033</td><td>25000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 1.639.536,26</td><td>R$ 18.784.876,54</td><td>R$ 20.424.412,80</td></tr><tr><td>GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA ALEGO</td><td>01 031 4200 4201</td><td>25000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 787.944,34</td><td>R$ 10.597.922,09</td><td>R$ 11.385.866,43</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 29.382.798,63</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 29.382.798,63 &nbsp;</td></tr></tbody></table>
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
 
-<br>
+R$ 29.382.798,63
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 29.382.798,63

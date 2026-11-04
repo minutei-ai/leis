@@ -1,5 +1,3 @@
-###DEC-007769-0-000-28-06-2012-PUB-01@@@
-
 DECRETO N°\- 7.769, DE 28 DE JUNHO DE 2012
 
 Dispõe sobre a gestão do planejamento, da construção e do lançamento do Satélite Geoestacionário de Defesa e Comunicações Estratégicas - SGDC.

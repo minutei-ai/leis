@@ -1,5 +1,3 @@
-###DEC-069542-0-000-17-11-1971@@@
-
 DECRETO Nº 69.542 - DE 17 DE NOVEMBRO DE 1971
 
 Autoriza o funcionamento da Faculdade de Ciências Administrativas e Contábeis de Atibaia - SP.

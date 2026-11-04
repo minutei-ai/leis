@@ -76,5 +76,6 @@ MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 25 de Abril de 2022.
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

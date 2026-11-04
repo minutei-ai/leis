@@ -1,5 +1,3 @@
-###DEC-077042-0-000-15-01-1976@@@
-
 DECRETO Nº 77.042, DE 15 DE JANEIRO DE 1976.
 
 Concede reconhecimento ao curso de Administração da Universidade Mackenzie, com sede na Cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-004123-0-000-13-02-2002@@@
-
 DECRETO Nº 4.123, DE 13 DE FEVEREIRO DE 2002.
 
 Regulamenta a Medida Provisória no 21, de 8 de janeiro de 2002, que institui o Auxílio-Aluno no âmbito do Projeto de Profissionalização dos Trabalhadores da Área de Enfermagem - PROFAE.

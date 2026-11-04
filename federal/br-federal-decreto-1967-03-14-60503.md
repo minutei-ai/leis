@@ -1,5 +1,3 @@
-###DEC-060503-0-000-14-03-1967@@@
-
 DECRETO Nº 60.503, DE 14 DE MARÇO DE 1967.
 
 Cria o Fundo Especial para o Desenvolvimento do Programa Habitacional do Instituto de Previdência e Assistência dos Servidores do Estado.
@@ -61,8 +59,6 @@ Brasília, 14 de março de 1967; 146º da Independência e 79º da República.
 H. Castello Branco
 
 L. G. do Nascimento e Silva
-
-###DEC-060503-0-000-14-03-1967@@@RET01+++
 
 DECRETO Nº 60.503, DE 14 DE MARÇO DE 1967.
 

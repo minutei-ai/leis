@@ -1,5 +1,3 @@
-###DEC-057627-0-000-13-01-1966@@@
-
 decreto nº 57.627, de 13 de janeiro de 1966.
 
 Regulamento o artigo 2º da Lei número 4.725, de 13 de julho de 1965, com a redação dada pela Lei número 4.903, de 16 de dezembro de 1965.

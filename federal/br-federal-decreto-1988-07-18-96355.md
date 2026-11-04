@@ -1,5 +1,3 @@
-###DEC-096355-0-000-18-07-1988@@@
-
 DECRETO N° 96.355, DE 18 DE JULHO DE 1988
 
 Altera o Estatuto da Empresa Pública Casa da Moeda do Brasil.

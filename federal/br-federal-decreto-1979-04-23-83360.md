@@ -1,5 +1,3 @@
-###DEC-083360-0-000-23-04-1979@@@
-
 DECRETO Nº 83.360, De 23 De abril de 1979.
 
 Promulga o Convênio entre a República Federativa do Brasil e a República do Peru sobre Transportes Fluviais.

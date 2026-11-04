@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209552)<br>
-
 # DECRETO N° 68.598, DE 10 DE JUNHO DE 2024
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as faixas de terra necessárias à implantação de rede coletora de esgoto, parte integrante do Sistema de Esgotamento Sanitário - S.E.S., no Jardim São Paulo/Santana, no Município de São Paulo, e dá providências correlatas._

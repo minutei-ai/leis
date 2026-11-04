@@ -1,5 +1,3 @@
-###DEC-083186-0-000-19-02-1979@@@
-
 DECRETO Nº 83.186, DE 19 DE FEVEREIRO DE 1979
 
 Inclui na ordem de precedência estabelecida no artigo 8º das Normas do Cerimonial Público aprovadas pelo Decreto nº 70.274, de 9 de março de 1972, o Estado de Mato Grosso do Sul.

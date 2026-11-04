@@ -1,5 +1,3 @@
-###DEC-090609-0-000-04-12-1984@@@
-
 Decreto nº 90.609, de 04 de dezembro de 1984
 
 Outorga concessão à TELEVISÃO CARIMÃ LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Cascavel, Estado do Paraná.

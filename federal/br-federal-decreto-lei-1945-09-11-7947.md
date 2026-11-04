@@ -1,5 +1,3 @@
-###DEL-007947-0-000-11-09-1945@@@
-
 DECRETO-LEI N. 7.947 – DE 11 DE SETEMBRO DE 1945
 
 Determina o fechamento dos estabelecimentos comerciais do Distrito Federal aos sábados, às doze horas.

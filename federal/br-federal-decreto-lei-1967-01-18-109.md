@@ -1,5 +1,3 @@
-###DEL-000109-0-000-18-01-1967@@@
-
 DECRETO-LEI Nº 109, DE 18 DE JANEIRO DE 1967
 
 Altera o Decreto-lei nº 94, de 30 de dezembro de 1966.

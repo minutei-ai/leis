@@ -1,5 +1,3 @@
-###DEC-003384-0-000-16-03-2000@@@
-
 DECRETO Nº 3.384, DE 16 DE MARÇO DE 2000.
 
 Altera a denominação do cargo que menciona, constante do Anexo II ao Decreto nº 3.354, de 28 de janeiro de 2000, que aprova a Estrutura Regimental do Ministério das Comunicações.

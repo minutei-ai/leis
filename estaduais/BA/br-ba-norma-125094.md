@@ -1,15 +1,19 @@
 LEI Nº 7.685 DE 26 DE JUNHO DE 2000
 
-NOTA: Anexos disponíveis no download.<br>
-Ver também:<br>
-Lei nº 7.755, 27 de dezembro de 2000 - Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2001.<br>
+NOTA: Anexos disponíveis no download.
+
+Ver também:
+
+Lei nº 7.755, 27 de dezembro de 2000 - Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2001.
+
 Lei nº7.991, de 28 de dezembro de 2001 - Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2002.
 
 Dispõe sobre as diretrizes orçamentárias para o exercício de 2001 e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÃO PRELIMINAR
 
 Art. 1º - Ficam estabelecidas as diretrizes orçamentárias do Estado para o exercício de 2001, compreendendo:
@@ -26,24 +30,28 @@ V - a política de aplicação de recursos das agências financeiras estaduais d
 
 VI - a organização e estrutura dos orçamentos.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA ESTADUAL
 
 Art. 2º - As prioridades e metas para o exercício de 2001, em consonância com as estratégias estabelecidas no Plano Plurianual para o período 2000 a 2003, instituído pela Lei nº 7.525, de 22 de outubro de 1999, são as constantes do Anexo I, que integra esta Lei.
 
 Parágrafo único - As prioridades e metas previstas neste artigo e as ações do Programa Especial Faz Cidadão nos cem municípios de menor índice de desenvolvimento terão precedência na alocação de recursos nos orçamentos para o exercício de 2001, sem constituírem limites à programação da despesa.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS DIRETRIZES PARA A ELABORAÇÃO E A EXECUÇÃO DOS ORÇAMENTOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Diretrizes Gerais
 
 Art. 3º - Na elaboração do projeto de lei, na aprovação e na execução dos orçamentos fiscal e da seguridade social deverá ser perseguida a obtenção de resultados compatíveis com o ajuste fiscal do Estado, na forma das receitas, despesas e do resultado primário, previstos no Anexo II, de Metas Fiscais, que integra a presente Lei.
 
 Parágrafo único - As metas fiscais previstas na forma do anexo referido neste artigo e as metas de que trata o art. 2º desta Lei poderão ser alteradas na ocasião da remessa do Projeto de Lei Orçamentária, se verificado que o comportamento das receitas e das despesas indica a necessidade de revisão.
 
-Redação do Parágrafo único do art. 3º de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.<br>
+Redação do Parágrafo único do art. 3º de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.
+
 Redação original: "Parágrafo único - As metas fiscais, previstas na forma do anexo referido neste artigo, poderão ser alteradas na ocasião do envio do Projeto da Lei Orçamentária, se verificado que o comportamento das receitas e das despesas indicam a necessidade de revisão."
 
 Art. 4º - As propostas orçamentárias dos órgãos e entidades da Administração Pública direta e indireta do Estado, inclusive dos seus fundos, terão seus valores orçados a preços vigentes em julho de 2000.
@@ -58,7 +66,8 @@ Art. 6º - Os créditos orçamentários serão alocados diretamente à unidade o
 
 Parágrafo único - Observadas as vedações contidas no inciso VI, do art. 161, da Constituição Estadual, é facultada a descentralização de créditos orçamentários para a execução de ações de responsabilidade da unidade descentralizadora.
 
-Redação do Parágrafo único do art. 6º de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.<br>
+Redação do Parágrafo único do art. 6º de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.
+
 Redação original: "Parágrafo único - Observadas as vedações contidas no inciso VI, do art. 161, da Constituição Estadual, é facultada a descentralização de créditos orçamentários para a execução de ações de responsabilidade da unidade descentralizadora, desde que especificados na lei orçamentária as unidades envolvidas, o projeto a que se destinam e o limite dos créditos."
 
 Art. 7º - A alocação dos recursos na lei orçamentária anual e em seus créditos adicionais, observadas as demais diretrizes estabelecidas nesta Lei, será feita de forma a propiciar o acompanhamento e o controle das ações e a avaliação dos resultados dos programas governamentais.
@@ -141,7 +150,8 @@ Art. 17 - É vedada a inclusão, na lei orçamentária e em seus créditos adici
 
 I - sejam de atendimento direto ao público nas áreas de assistência social, saúde, educação e que prestem serviços culturais, conforme previsto no art. 63, da Lei nº 2.322, de 11 de abril de 1966;
 
-Redação do inciso I do art. 17 de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.<br>
+Redação do inciso I do art. 17 de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.
+
 Redação original: "I - sejam de atendimento direto e gratuito ao público nas áreas de assistência social, saúde ou educação;"
 
 II - atendam ao disposto no art. 204, da Constituição Federal e no art. 61, do ADCT;
@@ -162,17 +172,20 @@ Art. 18 - A proposta orçamentária conterá reserva de contingência no orçame
 
 Parágrafo único - A reserva de contingência de que trata este artigo será constituída em montante correspondente a até 3% (três por cento), calculado sobre o total da receita corrente líquida do Tesouro Estadual.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Diretrizes dos Orçamentos Fiscal e da Seguridade Social
 
 Art. 19 - Os orçamentos fiscal e da seguridade social compreenderão as receitas e a programação dos Poderes do Estado, seus órgãos, fundos, autarquias, fundações por ele instituídas e mantidas, bem assim das empresas públicas, sociedades de economia mista e demais entidades em que o Estado, direta ou indiretamente, detenha a maioria do capital social com direito a voto e que recebam recursos do Tesouro Estadual.
 
-Redação do caput do art. 19 de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.<br>
+Redação do caput do art. 19 de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.
+
 Redação original: "Art. 19 - O orçamento fiscal compreenderá a receita e a programação da despesa dos Poderes do Estado, seus fundos, órgãos da Administração direta, autarquias, inclusive as especiais, e fundações instituídas e mantidas pelo Poder Público e os fundos por eles geridos, bem como das empresas públicas que dele recebam recursos financeiros para pagamento de despesas com pessoal, custeio em geral ou de capital, excluídos, no último caso, aqueles destinados ao aumento de capital."
 
 Parágrafo único - Excluem-se do disposto neste artigo as empresas que, integrantes do orçamento de investimento, recebam recursos do Estado por uma das seguintes formas:
 
-Redação do Parágrafo único do art. 19 de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.<br>
+Redação do Parágrafo único do art. 19 de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.
+
 Redação original: "Parágrafo único - As despesas de investimento das sociedades de economia mista serão fixadas no Orçamento de Investimento, de que trata o art. 159, § 5º, inciso II, da Constituição Estadual e o art. 22 desta Lei."
 
 I - participação acionária;
@@ -193,12 +206,14 @@ Inciso IV acrescido ao art. 19 pelo art. 2º da Lei nº 7.708, de 23 de outubro 
 
 Art. 20 - Somente serão incluídas, no projeto de lei orçamentária, as dotações relativas às operações de crédito contratadas ou cujo pedido de autorização tenha sido encaminhado ao Poder Legislativo até 20 de setembro, salvo se referentes à dívida mobiliária estadual.
 
-Redação do art. 20 de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.<br>
+Redação do art. 20 de acordo com o art. 2º da Lei nº 7.708, de 23 de outubro de 2000.
+
 Redação original: "Art. 20 - Somente serão incluídas, no projeto de lei orçamentária, as dotações relativas às operações de crédito já contratadas ou com autorizações legislativas concedidas até a data do encaminhamento do referido projeto à Assembléia Legislativa, salvo se referentes à dívida mobiliária estadual."
 
 Art. 21 - O orçamento da seguridade social abrangerá os recursos e as programações dos órgãos e entidades da administração direta e indireta do Estado, inclusive seus fundos e fundações, que atuem nas áreas de saúde, previdência e assistência social, inclusive os referentes ao Sistema de Seguridade Social dos Servidores Públicos Estaduais de que trata a Lei nº 7.249, de 07 de janeiro de 1998.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Das Diretrizes do Orçamento de Investimento das Empresas
 
 Art. 22 - O orçamento de investimento das empresas em que o Estado, direta ou indiretamente, detenha a maioria do capital social com direito a voto, será apresentado por cada empresa, especificando as fontes de financiamento de forma a evidenciar a origem dos recursos, e as despesas, segundo a classificação funcional, programas, as categorias programáticas a que se vinculam, e a categoria econômica e o grupo de despesa nos quais serão aplicados os recursos.
@@ -209,7 +224,8 @@ Art. 23 - Não se aplicam às empresas integrantes do orçamento de investimento
 
 Art. 24 - A programação dos investimentos à conta de recursos do Tesouro Estadual observará o valor e a destinação previstos nas dotações consignadas na Lei Orçamentária ou em créditos adicionais, sujeitando-se na sua execução a utilização do Sistema de Informações Contábeis e Financeiras - SICOF.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS DO ESTADOCOM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 25 - As dotações orçamentárias destinadas às despesas com pessoal e encargos sociais, em cada Poder, serão estimadas, para o exercício de 2001, com base na despesa média mensal executadas até julho de 2000, observados, além da legislação pertinente em vigor:
@@ -268,7 +284,8 @@ II - não sejam inerentes a categorias funcionais abrangidas por plano de cargos
 
 Art. 28-A acrescido pelo art. 1º da Lei nº 7.708, de 23 de outubro de 2000.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIADO ESTADO E MEDIDAS PARA INCREMENTO DA RECEITA
 
 Art. 29 - Em caso de necessidade, o Poder Executivo encaminhará à Assembléia Legislativa projeto de lei dispondo sobre alterações na legislação tributária estadual e incremento da receita, incluindo:
@@ -283,7 +300,8 @@ IV - geração de receita própria pelas entidades da administração indireta, 
 
 Parágrafo único - Os recursos eventualmente decorrentes das alterações previstas neste artigo serão incorporados aos orçamentos do Estado, mediante a abertura de créditos adicionais no decorrer do exercício, observada a legislação vigente.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA POLÍTICA DE APLICAÇÃO DE RECURSOS PELAS AGÊNCIASFINANCEIRAS ESTADUAIS DE FOMENTO
 
 Art. 30 - Na concessão de empréstimos e financiamentos por agência financeira oficial de fomento do Estado, além de sua compatibilização com o Plano Plurianual 2000-2003, serão observadas as seguintes diretrizes:
@@ -300,7 +318,8 @@ V - a promoção de setores vinculados à indústria cultural e ao turismo, de m
 
 Parágrafo único - Na concessão de empréstimos ou financiamentos, na forma deste artigo, a Municípios, inclusive às suas autarquias, fundações, empresas e sociedades de economia mista e outras sob seu controle, serão observadas as normas gerais e regulamentares pertinentes à matéria, inclusive emitidas pelo Banco Central do Brasil, bem como as condições a que se refere o art. 16, desta Lei.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
 
 Art. 31 - A proposta orçamentária anual que o Poder Executivo encaminhará à Assembléia Legislativa será composta, além da mensagem e do respectivo projeto de lei, de:
@@ -409,7 +428,8 @@ II - acompanhadas de exposição de motivos que as justifique.
 
 Art. 37 - A criação de novos projetos ou atividades, além dos constantes da proposta de lei orçamentária anual, somente será admitida mediante a redução de dotações alocadas a outros projetos ou atividades, observado o disposto na Constituição do Estado e nesta Lei.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 38 - No caso de haver necessidade da limitação do empenho das dotações orçamentárias e da movimentação financeira para atingir as metas fiscais previstas, esta será feita de forma proporcional ao montante dos recursos alocados para o atendimento das despesas em "outras despesas correntes", "investimentos" e "inversões financeiras" de cada Poder e do Ministério Público do Estado, sendo adotadas as medidas estabelecidas no art. 9º e seus parágrafos da Lei Complementar nº 101, de 04 de maio de 2000.

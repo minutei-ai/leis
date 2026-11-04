@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209223)<br>
-
 # DECRETO N° 68.406, DE 21 DE MARÇO DE 2024
 
 ### _Altera o Decreto n° 68.178, de 9 de dezembro de 2023, que introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._

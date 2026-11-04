@@ -1,5 +1,3 @@
-###DEC-002743-0-000-21-08-1998@@@
-
 DECRETO Nº 2.743, DE 21 DE AGOSTO DE 1998
 
 Regulamenta o Sistema de Registro de Preços previsto no art. 15 da Lei nº 8.666, de 21 de junho de 1993, e dá outras providências.

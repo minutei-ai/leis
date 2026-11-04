@@ -1,5 +1,3 @@
-###DEC-081340-0-000-14-02-1978@@@
-
 Decreto nº 81.340, de 14 de fevereiro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Anajatuba, Estado do Maranhão.

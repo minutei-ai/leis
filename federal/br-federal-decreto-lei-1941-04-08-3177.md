@@ -1,5 +1,3 @@
-###DEL-003177-0-000-08-04-1941@@@
-
 DECRETO-LEI N. 3.177 – DE 8 DE ABRIL DE 1941
 
 Altera, sem aumento de despesa, o atual, orçamento do Ministério da Guerra.

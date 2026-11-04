@@ -1,5 +1,3 @@
-###MPV-000496-0-000-19-07-2010@@@
-
 MEDIDA PROVISÓRIA Nº 496, DE 19 DE JULHO DE 2010.
 
 Dispõe sobre o limite de endividamento de Municípios em operações de crédito destinadas ao financiamento de infraestrutura para a realização da Copa do Mundo FIFA 2014 e dos Jogos Olímpicos e Paraolímpicos de 2016, sobre imóveis oriundos da extinta Rede Ferroviária Federal S.A. - RFFSA, sobre dívidas referentes ao patrimônio imobiliário da União, sobre acordos envolvendo patrimônio imobiliário da União, transfere o domínio útil de imóveis para a Companhia Docas do Rio de Janeiro - CDRJ, e dá outras providências.

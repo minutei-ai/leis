@@ -1,5 +1,3 @@
-###DEC-094160-0-000-31-03-1987@@@
-
 DECRETO N° 94.160, DE 31 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Esmeralda", classificado no Cadastro de Imóveis Rurais do INCRA como "latifúndio por exploração" situado nos Municípios de Pereira Barreto e Mirandópolis, no Estado de São Paulo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.688, de 19 de maio de 1986, e dá outras providências.

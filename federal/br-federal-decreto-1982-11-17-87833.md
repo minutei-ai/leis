@@ -1,5 +1,3 @@
-###DEC-087833-0-000-17-11-1982@@@
-
 Decreto nº 87.833, de 17 de novembro de 1982
 
 Concede indulto, reduz penas, e dá outras providências.

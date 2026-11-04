@@ -1,5 +1,3 @@
-###DEC-050077-0-000-25-01-1961@@@
-
 DECRETO Nº 50.077, DE 25 DE JANEIRO DE 1961.
 
 Cria no Estado da Guanabara, uma Inspetoria Regional do Instituto de Fermentação do Serviço Nacional de Pesquisa Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas.

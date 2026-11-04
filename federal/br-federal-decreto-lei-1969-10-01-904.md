@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b32883e0-5799-4a31-9668-facee979cddb/texto#nowhere)
 
-###DEL-000904-0-000-01-10-1969@@@
-
 DECRETO-LEI Nº 904, DE 1 DE OUTUBRO DE 1969
 
 Dispõe sôbre entidades do Ministério da Saúde.

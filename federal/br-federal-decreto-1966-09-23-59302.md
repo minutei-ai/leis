@@ -1,5 +1,3 @@
-###DEC-059302-0-000-23-09-1966@@@
-
 DECRETO Nº 59.302, DE 23 DE SETEMBRO DE 1966.
 
 Declara públicas, de uso comum, as águas do curso dágua que especifica.

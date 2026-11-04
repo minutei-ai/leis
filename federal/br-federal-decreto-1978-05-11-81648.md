@@ -1,5 +1,3 @@
-###DEC-081648-0-000-11-05-1978@@@
-
 Decreto n.º 81.648, de 11 de maio de 1978.
 
 Autoriza a instituição de servidão de solo, em favor da concessão de lavra outorgada à Mineração Vale do Paraíba S/A - VALEP pelo Decreto nº 76.102, de 11 de agosto de 1975.

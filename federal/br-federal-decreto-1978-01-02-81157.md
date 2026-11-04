@@ -1,5 +1,3 @@
-###DEC-081157-0-000-02-01-1978@@@
-
 Decreto nº 81 157, de 02 de Janeiro de 1978.
 
 Concede Sociedade de Mineração Ceramite Ltda. o direito de lavrar argila no município de Inhaúma , Estado de Minas Gerais.

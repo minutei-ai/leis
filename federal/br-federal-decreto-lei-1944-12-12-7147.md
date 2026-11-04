@@ -1,5 +1,3 @@
-###DEL-007147-0-000-12-12-1944@@@
-
 DECRETO-LEI N. 7.147 – DE 12 DE DEZEMBRO DE 1944
 
 Altera a organização do Serviço de Saúde da Aeronáutica e estabelece o efetivo do Quadro de Saúde da Aeronáutica
@@ -28,7 +26,29 @@ Instituto de Pesquisas
 
 Art. 2º O Quadro de Saúde da Aeronáutica, do Corpo de Oficiais da Aeronáutica, criado pelo Decreto-lei nº 3. 872, de 2 de dezembro de 1941, passa a ter o seguinte efetivo:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:435.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Brigadeiro Médico ..............................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td></tr><tr><td style="width:435.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coronel Médico ..................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4</span></p></td></tr><tr><td style="width:435.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tenente-Coronel Médico ....................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:435.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Major Médico ......................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15</span></p></td></tr><tr><td style="width:435.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitão Médico ..................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>45</span></p></td></tr><tr><td style="width:435.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Primeiro Tenente Médico ......................................................................................... .........................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>75</span></p></td></tr></tbody></table>
+Brigadeiro Médico ..............................................................................................................................
+
+1
+
+Coronel Médico ..................................................................................................................................
+
+4
+
+Tenente-Coronel Médico ....................................................................................................................
+
+10
+
+Major Médico ......................................................................................................................................
+
+15
+
+Capitão Médico ..................................................................................................................................
+
+45
+
+Primeiro Tenente Médico ......................................................................................... .........................
+
+75
 
           Art. 3º Êste Decreto-lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

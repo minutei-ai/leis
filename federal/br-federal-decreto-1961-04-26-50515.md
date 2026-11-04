@@ -1,5 +1,3 @@
-###DEC-050515-0-000-26-04-1961@@@
-
 Decreto nº 50.515, de 26 de abril de 1961.
 
 Concede à Companhia de Navegação Cabo Frio autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEL-009078-0-000-19-03-1946@@@
-
 DECRETO-LEI N. 9.078 – DE 19 DE MARÇO DE 1946
 
 Dá nova redação à letra b, das isenções constantes da alínea I, Tabela A, do Decreto-lei nº 7.404, de 22 de Março de 1945.

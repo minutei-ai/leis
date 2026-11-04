@@ -1,5 +1,3 @@
-###DEC-002898-0-000-23-12-1998@@@
-
 DECRETO Nº 2.898, DE 23 DE DEZEMBRO DE 1998.
 
 Prorroga o prazo estabelecido no art. 2º do Decreto nº 2.641, de 29 de junho de 1998.

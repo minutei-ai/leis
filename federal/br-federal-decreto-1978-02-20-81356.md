@@ -1,5 +1,3 @@
-###DEC-081356-0-000-20-02-1978@@@
-
 Decreto nº 81.356, de 20 de fevereiro de 1978.
 
 Declara sem efeito o Decreto nº 9.034, de 19 de março de 1942, que autorizou a Companhia Minas da Jangada S/A a lavrar minério de ferro no Município de Nova Lima, Estado de Minas Gerais.

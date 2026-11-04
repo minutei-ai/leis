@@ -6,13 +6,16 @@ Altera a Lei Complementar n. 5.727/2009 – Código Tributário Municipal para r
 
 Art. 1º Altera o art. 29 da Lei Complementar nº. 5.727/2009 - Código Tributário Municipal, que passa a vigorar com a seguinte redação:
 
-**“Seção V<br>
+**“Seção V
+
 Da Alíquota**
 
-Art. 29. ......................................................................................<br>
+Art. 29. ......................................................................................
+
 ...................................................................................................
 
-III - sobre as transferências e transmissões de imóveis financiados pelo Sistema Financeiro Habitacional enquadrados no Programa Minha Casa Minha Vida, Faixas 1, 2 e 3, sobre o valor efetivamente financiado em empreendimentos que contenham acima de 100 (cem) unidades, a alíquota do imposto será de 0,2% (zero vírgula dois por cento).<br>
+III - sobre as transferências e transmissões de imóveis financiados pelo Sistema Financeiro Habitacional enquadrados no Programa Minha Casa Minha Vida, Faixas 1, 2 e 3, sobre o valor efetivamente financiado em empreendimentos que contenham acima de 100 (cem) unidades, a alíquota do imposto será de 0,2% (zero vírgula dois por cento).
+
 Parágrafo único. A alíquota prevista no inciso III deste artigo será aplicada conforme a classificação de faixa de renda que for dada pela instituição financeira financiadora, em conformidade com o regramento estabelecido pelo Governo Federal.”
 
 Art. 2º Esta Lei Complementar entrará em vigor na data de sua publicação.

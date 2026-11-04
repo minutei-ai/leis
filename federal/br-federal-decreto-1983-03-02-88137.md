@@ -1,5 +1,3 @@
-###DEC-088137-0-000-02-03-1983@@@
-
 Decreto nº 88.137, de 02 de março de 1983.
 
 Concede autorização ao navio de pesquisa "KNORR" de bandeira norte-americana, para realizar em águas brasileiras os serviços que especifica.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097811-0-000-06-06-1989@@@
-
 DECRETO N° 97.811, DE 06 DE JUNHO DE 1989
 
 Autoriza a Escola Técnica Federal de Campos a organizar e manter cursos de nível superior de ensino.

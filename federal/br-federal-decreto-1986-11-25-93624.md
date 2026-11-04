@@ -1,5 +1,3 @@
-###DEC-093624-0-000-25-11-1986@@@
-
 DECRETO Nº 93.624, DE 25 DE NOVEMBRO DE 1986
 
 Acrescenta parágrafo único ao artigo 2º do Decreto nº 93.083, de 7 de agosto de 1986, que dispõe sobre a composição do Conselho Administrativo de Defesa Econômica, e dá outras providências.

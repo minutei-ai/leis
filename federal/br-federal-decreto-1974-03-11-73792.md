@@ -1,5 +1,3 @@
-###DEC-073792-0-000-11-03-1974@@@
-
 DECRETO Nº 73.792, DE 11 DE MARÇO DE 1974.
 
 Declara de interesse social, para fins de desapropriação, área de terras no Estado do Rio de Janeiro.

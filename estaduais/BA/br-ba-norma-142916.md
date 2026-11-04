@@ -4,12 +4,14 @@ Institui a Organização Básica do Corpo de Bombeiros Militar da Bahia, dispõe
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Esta Lei organiza o Corpo de Bombeiros Militar da Bahia - CBMBA, define a sua finalidade e competências, as unidades que o compõem e dispõe sobre o seu efetivo.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA FINALIDADE E DAS COMPETÊNCIAS
 
 **Art. 2º** - O Corpo de Bombeiros Militar da Bahia - CBMBA, força auxiliar e reserva do Exército, organizado com base na hierarquia e disciplina, é órgão em regime especial de administração direta, vinculado à Secretaria da Segurança Pública e integrante do Sistema Estadual de Segurança Pública, que tem por finalidade a execução dos serviços específicos de bombeiros militares no território do Estado da Bahia, ao qual compete:
@@ -114,7 +116,8 @@ DA FINALIDADE E DAS COMPETÊNCIAS
 
 **Parágrafo único -** O Subcomandante-Geral é o substituto imediato do Comandante-Geral nos seus eventuais impedimentos.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ORGANIZAÇÃO
 
 **Art. 7º** - O CBMBA tem a seguinte estrutura básica:
@@ -293,14 +296,16 @@ DA ORGANIZAÇÃO
 
 **Parágrafo único -** As Companhias, integrantes dos Batalhões de Bombeiros Militar, serão organizadas em regulamento.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA REGIONALIZAÇÃO E DO DESDOBRAMENTO
 
 **Art. 35** - A ação de bombeiro militar dar-se-á em todo território do Estado da Bahia, de forma regionalizada, por meio de planejamento e acompanhamento do Comando de Operações de Bombeiros Militar, sob as diretrizes do Comando-Geral da Corporação.
 
 **Art. 36** - O desdobramento das regiões em áreas, subáreas e setores será estabelecido em conformidade com as necessidades e características fisiográficas, psicossociais, políticas e econômicas, ficando autorizado o Comandante-Geral do Corpo de Bombeiros Militar da Bahia a adotar as providências necessárias.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO PESSOAL
 
 **Art. 37** - O efetivo do CBMBA será distribuído nos seguintes quadros:
@@ -371,7 +376,8 @@ Revogado pela Lei [15.172](https://www.legislabahia.ba.gov.br/documentos/lei-no-
 
 **Art. 48** - A distribuição do quantitativo do efetivo da ativa do CBMBA, entre as Unidades do Quadro Organizacional, será definida por Portaria do Comandante-Geral.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS ATRIBUIÇÕES DOS TITULARES DE CARGOS EM COMISSÃO
 
 **Art. 49** - Aos titulares dos cargos em comissão, além do desempenho das atividades concernentes aos Sistemas Estaduais definidos em legislação própria, cabe o exercício das atribuições gerais e específicas a seguir enumeradas:
@@ -680,7 +686,8 @@ Inciso XXXVIII acrescido pela Lei n° [15.043](https://www.legislabahia.ba.gov.b
 
 Parágrafo § 5º acrescido pela Lei n° [15.043](https://www.legislabahia.ba.gov.br/documentos/lei-no-15043-de-12-de-dezembro-de-2025) de 12 de dezembro de 2025.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 50** - Constituem Comissões Permanentes do CBMBA, regidas por legislação específica:
@@ -845,631 +852,15 @@ Marcelo Werner Derschum Filho
 
 Secretário da Segurança Pública
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:444.85pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:13.15pt"><td colspan="2" style="width:444.85pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="593"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">ANEXO I<br>QUANTITATIVO DAS UNIDADES DA ESTRUTURA ORGANIZACIONAL DO CORPO DE BOMBEIROS MILITAR DA BAHIA - CBMBA</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">UNIDADES</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">QTD</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comando-Geral</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomando-Geral</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandos de Operações de Bombeiros Militar</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comando de Segurança Contra Incêndio</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Corregedoria do Corpo de Bombeiros Militar</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Departamentos</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Gabinete do Comando-Geral</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Instituto Militar de Ensino Superior de Bombeiros</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandos Regionais de Bombeiros Militar</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Academia de Bombeiros Militar</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Gabinete do Subcomando-Geral</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Centros</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Núcleos de Gestão Administrativa e Financeira</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenadoria de Saúde</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenadoria de Inteligência</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenadoria de Formação e Aperfeiçoamento de Praças</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenadoria de Treinamento Operacional</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenadoria de Gestão de Frota</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td></tr><tr style="height:13.15pt"><td style="width:276.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Batalhões</span></p></td><td style="width:168.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.15pt" valign="top" width="224"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">20</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> ANEXO I QUANTITATIVO DAS UNIDADES DA ESTRUTURA ORGANIZACIONAL DO CORPO DE BOMBEIROS MILITAR DA BAHIA - CBMBA </td></tr><tr><td valign="top"> UNIDADES </td><td valign="top"> QTD </td></tr><tr><td valign="top"> Comando-Geral </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Subcomando-Geral </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Comandos de Operações de Bombeiros Militar </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Comando de Segurança Contra Incêndio </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Corregedoria do Corpo de Bombeiros Militar </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Departamentos </td><td valign="top"> 5 </td></tr><tr><td valign="top"> Gabinete do Comando-Geral </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Instituto Militar de Ensino Superior de Bombeiros </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Comandos Regionais de Bombeiros Militar </td><td valign="top"> 4 </td></tr><tr><td valign="top"> Academia de Bombeiros Militar </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Gabinete do Subcomando-Geral </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Centros </td><td valign="top"> 3 </td></tr><tr><td valign="top"> Núcleos de Gestão Administrativa e Financeira </td><td valign="top"> 6 </td></tr><tr><td valign="top"> Coordenadoria de Saúde </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Coordenadoria de Inteligência </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Coordenadoria de Formação e Aperfeiçoamento de Praças </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Coordenadoria de Treinamento Operacional </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Coordenadoria de Gestão de Frota </td><td valign="top"> 1 </td></tr><tr><td valign="top"> Batalhões </td><td valign="top"> 20 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:463.15pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:13.45pt"><td colspan="3" style="width:463.15pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="618"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">ANEXO II (Alterado pela Lei n° <a href="https://www.legislabahia.ba.gov.br/documentos/lei-no-15043-de-12-de-dezembro-de-2025">15.043</a> de 12 de dezembro de 2025.)<br>QUADRO DE CARGOS EM COMISSÃO DO CORPO DE BOMBEIROS MILITAR DA BAHIA - CBMBA</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">CARGO</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">SÍMBOLO</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">QTD</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante-Geral do Corpo de Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-1</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:2.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante-Geral do Corpo de Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2A</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante de Operações de Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">0l</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante de Segurança Contra Incêndio</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Corregedor-Chefe</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.8pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor de Instituto Militar de Ensino Superior de Bombeiros</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante Regional de Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.55pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.35pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.35pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor de Departamento</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">05</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.35pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor de Academia</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:19.8pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador de Saúde</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador de Inteligência</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.3pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.45pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador de Formação e Aperfeiçoamento de Praças</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador&nbsp; de Treinamento Operacional</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.2pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador de Gestão de Frota</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.2pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">0l</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.35pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante de Operações Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.2pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.3pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante de Segurança Contra Incêndio</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.45pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">0l</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Corregedor Adjunto</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.45pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">0l</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.85pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor·Adjunto de Instituto</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">0l</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.8pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante Regional de Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Assessor Especial</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador I</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.65pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">05</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Chefe do Centro de Gestão do Vetor Aéreo</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.85pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.35pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante de Aeronave</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.2pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.4pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.8pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante de Aeronave</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:19.55pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.4pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante de Batalhão</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.8pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">20</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Chefe do Centro de Engenharia e Arquitetura</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.8pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.95pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor Adjunto de Departamento</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:19.5pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:2.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">05</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador Adjunto</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:19.65pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.65pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">05</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.85pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor Adjunto de Academia</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.5pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:2.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Chefe de Núcleo de Gestão</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.8pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.15pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">06</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador Técnico</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.1pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">08</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:2.85pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante de Batalhão</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:26.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:2.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">20</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:2.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador II</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:26.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.35pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">83</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Assessor de Comunicação Social I</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:25.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.5pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante de Companhia</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:26.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">60</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador III</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:26.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.95pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">26</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Tripulante Operacional</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:26.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.65pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">06</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Mecânico de Voo</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:26.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.3pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">02</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> ANEXO II (Alterado pela Lei n° <a href="https://www.legislabahia.ba.gov.br/documentos/lei-no-15043-de-12-de-dezembro-de-2025">15.043</a> de 12 de dezembro de 2025.) QUADRO DE CARGOS EM COMISSÃO DO CORPO DE BOMBEIROS MILITAR DA BAHIA - CBMBA </td></tr><tr><td valign="top"> CARGO </td><td valign="top"> SÍMBOLO </td><td valign="top"> QTD </td></tr><tr><td valign="top"> Comandante-Geral do Corpo de Bombeiros Militar </td><td valign="top"> DAS-1 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Subcomandante-Geral do Corpo de Bombeiros Militar </td><td valign="top"> DAS-2A </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Comandante de Operações de Bombeiros Militar </td><td valign="top"> DAS-2B </td><td valign="top"> 0l </td></tr><tr><td valign="top"> Comandante de Segurança Contra Incêndio </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Corregedor-Chefe </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor de Instituto Militar de Ensino Superior de Bombeiros </td><td valign="top"> DAS-2B </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Comandante Regional de Bombeiros Militar </td><td valign="top"> DAS-2B </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Diretor de Departamento </td><td valign="top"> DAS-2C </td><td valign="top"> 05 </td></tr><tr><td valign="top"> Diretor de Academia </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Saúde </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Inteligência </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Formação e Aperfeiçoamento de Praças </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador&nbsp; de Treinamento Operacional </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador de Gestão de Frota </td><td valign="top"> DAS-2C </td><td valign="top"> 0l </td></tr><tr><td valign="top"> Subcomandante de Operações Bombeiros Militar </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Subcomandante de Segurança Contra Incêndio </td><td valign="top"> DAS-2C </td><td valign="top"> 0l </td></tr><tr><td valign="top"> Corregedor Adjunto </td><td valign="top"> DAS-2C </td><td valign="top"> 0l </td></tr><tr><td valign="top"> Diretor·Adjunto de Instituto </td><td valign="top"> DAS-2C </td><td valign="top"> 0l </td></tr><tr><td valign="top"> Subcomandante Regional de Bombeiros Militar </td><td valign="top"> DAS-2C </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Assessor Especial </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador I </td><td valign="top"> DAS-2C </td><td valign="top"> 05 </td></tr><tr><td valign="top"> Chefe do Centro de Gestão do Vetor Aéreo </td><td valign="top"> DAS-2C </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Comandante de Aeronave </td><td valign="top"> DAS-2C </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Subcomandante de Aeronave </td><td valign="top"> DAS-2D </td><td valign="top"> 04 </td></tr><tr><td valign="top"> Comandante de Batalhão </td><td valign="top"> DAS-2D </td><td valign="top"> 20 </td></tr><tr><td valign="top"> Chefe do Centro de Engenharia e Arquitetura </td><td valign="top"> DAS-2D </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor Adjunto de Departamento </td><td valign="top"> DAS-2D </td><td valign="top"> 05 </td></tr><tr><td valign="top"> Coordenador Adjunto </td><td valign="top"> DAS-2D </td><td valign="top"> 05 </td></tr><tr><td valign="top"> Diretor Adjunto de Academia </td><td valign="top"> DAS-2D </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Chefe de Núcleo de Gestão </td><td valign="top"> DAS-2D </td><td valign="top"> 06 </td></tr><tr><td valign="top"> Coordenador Técnico </td><td valign="top"> DAS-2D </td><td valign="top"> 08 </td></tr><tr><td valign="top"> Subcomandante de Batalhão </td><td valign="top"> DAS-3 </td><td valign="top"> 20 </td></tr><tr><td valign="top"> Coordenador II </td><td valign="top"> DAS-3 </td><td valign="top"> 83 </td></tr><tr><td valign="top"> Assessor de Comunicação Social I </td><td valign="top"> DAS-3 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Comandante de Companhia </td><td valign="top"> DAI-4 </td><td valign="top"> 60 </td></tr><tr><td valign="top"> Coordenador III </td><td valign="top"> DAI-4 </td><td valign="top"> 26 </td></tr><tr><td valign="top"> Tripulante Operacional </td><td valign="top"> DAI-4 </td><td valign="top"> 06 </td></tr><tr><td valign="top"> Mecânico de Voo </td><td valign="top"> DAI-4 </td><td valign="top"> 02 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:445.55pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:19.15pt"><td colspan="2" style="width:445.55pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.15pt" valign="top" width="594"><p class="Tabela-Texto" style="margin-left:11.7pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">ANEXO III<br>QUADRO DE CARGOS PRIVATIVOS DO POSTO DE CORONEL DO CORPO DE BOMBEIROS MILITAR DA BAHIA - CBMBA</span></p></td></tr><tr style="height:19.15pt"><td style="width:72.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:19.15pt" valign="top" width="96"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:.7pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">&nbsp;</span></p></div></td><td style="width:373.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.15pt" valign="top" width="498"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:3.1pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">CARGOS</span></p></div></td></tr><tr style="height:19.15pt"><td style="width:72.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:19.15pt" valign="top" width="96"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:.7pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">01</span></p></div></td><td style="width:373.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.15pt" valign="top" width="498"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:3.1pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">Comandante-Geral do Corpo de Bombeiros Militar</span></p></div></td></tr><tr style="height:19.65pt"><td style="width:72.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="96"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:.7pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">02</span></p></div></td><td style="width:373.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="498"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:3.1pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">Subcomandante-Geral do Corpo de Bombeiros Militar</span></p></div></td></tr><tr style="height:19.65pt"><td style="width:72.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="96"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:.7pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">03</span></p></div></td><td style="width:373.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="498"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:3.1pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">Comandante de Operações Bombeiros Militar</span></p></div></td></tr><tr style="height:19.65pt"><td style="width:72.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="96"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:.7pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">04</span></p></div></td><td style="width:373.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="498"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:3.1pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">Comandante de Segurança Contra Incêndio</span></p></div></td></tr><tr style="height:19.65pt"><td style="width:72.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="96"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:.7pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">05</span></p></div></td><td style="width:373.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="498"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:3.1pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">Corregedor-Chefe</span></p></div></td></tr><tr style="height:19.65pt"><td style="width:72.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="96"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:.7pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">06</span></p></div></td><td style="width:373.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="498"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:3.1pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">Diretor de Instituto Militar de Ensino Superior Bombeiros</span></p></div></td></tr><tr style="height:19.65pt"><td style="width:72.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="96"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:.7pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">07</span></p></div></td><td style="width:373.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.65pt" valign="top" width="498"><div style="border:none;border-right:solid black 1.0pt;padding:0cm 4.0pt 0cm 0cm;
-  margin-left:3.1pt;margin-right:3.1pt"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
-  border:none;padding:0cm"><span style="color:black;font-weight:normal">Comandante Regional de Bombeiros Militar</span></p></div></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> ANEXO III QUADRO DE CARGOS PRIVATIVOS DO POSTO DE CORONEL DO CORPO DE BOMBEIROS MILITAR DA BAHIA - CBMBA </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> CARGOS </td></tr><tr><td valign="top"> 01 </td><td valign="top"> Comandante-Geral do Corpo de Bombeiros Militar </td></tr><tr><td valign="top"> 02 </td><td valign="top"> Subcomandante-Geral do Corpo de Bombeiros Militar </td></tr><tr><td valign="top"> 03 </td><td valign="top"> Comandante de Operações Bombeiros Militar </td></tr><tr><td valign="top"> 04 </td><td valign="top"> Comandante de Segurança Contra Incêndio </td></tr><tr><td valign="top"> 05 </td><td valign="top"> Corregedor-Chefe </td></tr><tr><td valign="top"> 06 </td><td valign="top"> Diretor de Instituto Militar de Ensino Superior Bombeiros </td></tr><tr><td valign="top"> 07 </td><td valign="top"> Comandante Regional de Bombeiros Militar </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:550.15pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td colspan="13" style="width:550.15pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="734"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">ANEXO IV(Alterado pela Lei 15.172 de 17 de junho de 2026.)<br>QUADRO DE EFETIVO DE OFICIAIS DO CORPO DE BOMBEIROS MILITAR</span></p></td></tr><tr><td rowspan="2" style="width:93.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="116"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">POSTO</span></p></td><td colspan="2" style="width:93.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="124"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">QOBM</span></p></td><td colspan="3" style="width:86.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="117"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">QOSBM MÉDICO</span></p></td><td colspan="2" style="width:102.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="134"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">QOSBM ODONTÓLOGO</span></p></td><td colspan="3" style="width:89.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="119"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">QOABM</span></p></td><td colspan="2" style="width:85.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="123"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">TOTAL</span></p></td></tr><tr><td style="width:45.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.O.</span></p></td><td style="width:47.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.C.E.</span></p></td><td style="width:38.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="53"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.O.</span></p></td><td style="width:48.1pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.C.E.</span></p></td><td colspan="2" style="width:47.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.O.</span></p></td><td style="width:54.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.C.E.</span></p></td><td style="width:40.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="54"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.O.</span></p></td><td style="width:48.1pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.C.E.</span></p></td><td colspan="2" style="width:45.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.O.</span></p></td><td style="width:39.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.C.E.</span></p></td></tr><tr><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="116"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coronel</span></p></td><td style="width:45.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:47.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:38.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="53"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:48.1pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td colspan="2" style="width:47.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:54.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:40.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="54"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:48.1pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td colspan="2" style="width:45.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:39.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td></tr><tr><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="116"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Tenente Coronel</span></p></td><td style="width:45.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">53</span></p></td><td style="width:47.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:38.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="53"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:48.1pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td colspan="2" style="width:47.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:54.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:40.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="54"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:48.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td colspan="2" style="width:45.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">57</span></p></td><td style="width:39.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td></tr><tr><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="116"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Major</span></p></td><td style="width:45.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">100</span></p></td><td style="width:47.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:38.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="53"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:48.1pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td colspan="2" style="width:47.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:54.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:40.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="54"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:48.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td colspan="2" style="width:45.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">112</span></p></td><td style="width:39.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td></tr><tr><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="116"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Capitão</span></p></td><td style="width:45.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">130</span></p></td><td style="width:47.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:38.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="53"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:48.1pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td colspan="2" style="width:47.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:54.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:40.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="54"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">29</span></p></td><td style="width:48.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td colspan="2" style="width:45.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">167</span></p></td><td style="width:39.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td></tr><tr><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="116"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1º Tenente</span></p></td><td style="width:45.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">170</span></p></td><td style="width:47.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:38.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="53"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">16</span></p></td><td style="width:48.1pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td colspan="2" style="width:47.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:54.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:40.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="54"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">155</span></p></td><td style="width:48.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">25</span></p></td><td colspan="2" style="width:45.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">349</span></p></td><td style="width:39.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">25</span></p></td></tr><tr><td style="width:93.6pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="116"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Total</span></p></td><td style="width:45.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">463</span></p></td><td style="width:47.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">15</span></p></td><td style="width:38.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="53"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">25</span></p></td><td style="width:48.1pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td colspan="2" style="width:47.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="62"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">14</span></p></td><td style="width:54.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="73"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:40.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="54"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">193</span></p></td><td style="width:48.1pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">32</span></p></td><td colspan="2" style="width:45.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="60"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">695</span></p></td><td style="width:39.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="64"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">53</span></p></td></tr><tr height="0"></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="13"> ANEXO IV(Alterado pela Lei 15.172 de 17 de junho de 2026.) QUADRO DE EFETIVO DE OFICIAIS DO CORPO DE BOMBEIROS MILITAR </td></tr><tr><td rowspan="2"> POSTO </td><td colspan="2"> QOBM </td><td colspan="3"> QOSBM MÉDICO </td><td colspan="2"> QOSBM ODONTÓLOGO </td><td colspan="3"> QOABM </td><td colspan="2"> TOTAL </td></tr><tr><td> *P.O. </td><td> *P.C.E. </td><td> *P.O. </td><td> *P.C.E. </td><td colspan="2"> *P.O. </td><td> *P.C.E. </td><td> *P.O. </td><td> *P.C.E. </td><td colspan="2"> *P.O. </td><td> *P.C.E. </td></tr><tr><td> Coronel </td><td valign="bottom"> 10 </td><td valign="bottom"> 6 </td><td> - </td><td> - </td><td colspan="2"> - </td><td> - </td><td> - </td><td> - </td><td colspan="2"> 10 </td><td> 6 </td></tr><tr><td> Tenente Coronel </td><td valign="bottom"> 53 </td><td valign="bottom"> 5 </td><td> 1 </td><td> 1 </td><td colspan="2"> 1 </td><td> 1 </td><td valign="bottom"> 2 </td><td valign="bottom"> 1 </td><td colspan="2"> 57 </td><td> 8 </td></tr><tr><td> Major </td><td valign="bottom"> 100 </td><td valign="bottom"> 2 </td><td> 3 </td><td> 1 </td><td colspan="2"> 2 </td><td> 1 </td><td valign="bottom"> 7 </td><td valign="bottom"> 2 </td><td colspan="2"> 112 </td><td> 6 </td></tr><tr><td> Capitão </td><td valign="bottom"> 130 </td><td valign="bottom"> 2 </td><td> 5 </td><td> 1 </td><td colspan="2"> 3 </td><td> 1 </td><td valign="bottom"> 29 </td><td valign="bottom"> 4 </td><td colspan="2"> 167 </td><td> 8 </td></tr><tr><td> 1º Tenente </td><td valign="bottom"> 170 </td><td> - </td><td> 16 </td><td> - </td><td colspan="2"> 8 </td><td> - </td><td valign="bottom"> 155 </td><td valign="bottom"> 25 </td><td colspan="2"> 349 </td><td> 25 </td></tr><tr><td> Total </td><td> 463 </td><td> 15 </td><td> 25 </td><td> 3 </td><td colspan="2"> 14 </td><td> 3 </td><td> 193 </td><td> 32 </td><td colspan="2"> 695 </td><td> 53 </td></tr><tr height="0"></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:374.05pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td colspan="5" style="width:374.05pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="499"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">QUADRO DE EFETIVO DE PRAÇAS DO CORPO DE BOMBEIROS MILITAR</span></p></td></tr><tr><td rowspan="2" style="width:86.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Graduação</span></p></td><td colspan="2" style="width:148.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="198"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">QPBM</span></p></td><td colspan="2" style="width:139.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="186"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">TOTAL</span></p></td></tr><tr><td style="width:72.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.O.</span></p></td><td style="width:75.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="101"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.C.E.</span></p></td><td style="width:65.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.O.</span></p></td><td style="width:74.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="99"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">*P.C.E.</span></p></td></tr><tr><td style="width:86.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Subtenente</span></p></td><td style="width:72.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">317</span></p></td><td style="width:75.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="101"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">14</span></p></td><td style="width:65.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">317</span></p></td><td style="width:74.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="99"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">14</span></p></td></tr><tr><td style="width:86.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">1º Sargento</span></p></td><td style="width:72.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">691</span></p></td><td style="width:75.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="101"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:65.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">691</span></p></td><td style="width:74.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="99"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td></tr><tr><td style="width:86.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Cabo</span></p></td><td style="width:72.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">860</span></p></td><td style="width:75.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="101"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">28</span></p></td><td style="width:65.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">860</span></p></td><td style="width:74.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="99"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">28</span></p></td></tr><tr><td style="width:86.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Soldado</span></p></td><td style="width:72.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="96"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.787</span></p></td><td style="width:75.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="101"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td><td style="width:65.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="bottom" width="87"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.787</span></p></td><td style="width:74.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="99"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td></tr><tr><td style="width:86.5pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="115"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Total</span></p></td><td style="width:72.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="96"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">4.655</span></p></td><td style="width:75.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="101"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">51</span></p></td><td style="width:65.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="87"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">4.655</span></p></td><td style="width:74.4pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="99"><p class="Tabela-Texto" style="margin-right:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">51</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5"> QUADRO DE EFETIVO DE PRAÇAS DO CORPO DE BOMBEIROS MILITAR </td></tr><tr><td rowspan="2"> Graduação </td><td colspan="2"> QPBM </td><td colspan="2"> TOTAL </td></tr><tr><td> *P.O. </td><td> *P.C.E. </td><td> *P.O. </td><td> *P.C.E. </td></tr><tr><td> Subtenente </td><td valign="bottom"> 317 </td><td valign="bottom"> 14 </td><td valign="bottom"> 317 </td><td valign="bottom"> 14 </td></tr><tr><td> 1º Sargento </td><td valign="bottom"> 691 </td><td valign="bottom"> 9 </td><td valign="bottom"> 691 </td><td valign="bottom"> 9 </td></tr><tr><td> Cabo </td><td valign="bottom"> 860 </td><td valign="bottom"> 28 </td><td valign="bottom"> 860 </td><td valign="bottom"> 28 </td></tr><tr><td> Soldado </td><td valign="bottom"> 2.787 </td><td> - </td><td valign="bottom"> 2.787 </td><td> - </td></tr><tr><td> Total </td><td> 4.655 </td><td> 51 </td><td> 4.655 </td><td> 51 </td></tr></tbody></table>
 
 \*P.O - Provimento Ordinário
 

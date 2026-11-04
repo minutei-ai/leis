@@ -1,5 +1,3 @@
-###DEC-075783-0-000-27-05-1975@@@
-
 DECRETO Nº 75.783, DE 27 MAIO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na cidade e Estado do Rio de Janeiro.

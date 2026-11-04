@@ -1,5 +1,3 @@
-###DEC-083140-0-000-06-02-1979@@@
-
 Decreto nº 83.140, de 06 de fevereiro de 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Guarujá, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###MPV-001803-0-004-22-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.803-4, DE 22 DE ABRIL DE 1999.
 
 Estabelece prazo para as ratificações de concessões e alienações de terras feitas pelos Estados na Faixa de Fronteira, e dá outras providências.

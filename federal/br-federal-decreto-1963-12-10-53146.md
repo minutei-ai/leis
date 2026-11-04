@@ -1,5 +1,3 @@
-###DEC-053146-0-000-10-12-1963@@@
-
 Decreto nº 53.146, de 10 de dezembro de 1963.
 
 Autoriza a Companhia Paranaense de Energia Elétrica a construir linha de transmissão no Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-053648-0-000-28-02-1964@@@
-
 DECRETO Nº 53.648, DE 28 DE FEVEREIRO DE 1964.
 
 Dispõe sôbre a distribuição de créditos orçamentários atribuídos ao Conselho Administrativo de Defesa Econômica.
@@ -19,8 +17,6 @@ Art. 1º Até que seja completada a organização do C.A.D.E. e aprovado o seu q
 Brasília, em 28 de fevereiro de 1964; 143º da Independência e 76º da República.
 
 João Goulart
-
-###DEC-053648-0-000-28-02-1964@@@RET01+++
 
 DECRETO Nº 53.648, DE 28 DE FEVEREIRO DE 1964.
 

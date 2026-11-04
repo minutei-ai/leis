@@ -1,5 +1,3 @@
-###DEC-005441-0-000-05-05-2005@@@
-
 DECRETO Nº 5.441, DE 5 DE MAIO DE 2005
 
 Dá nova redação ao § 3º do art. 19 do Regulamento do exercício da profissão de médico-veterinário e dos Conselhos de Medicina Veterinária, aprovado pelo Decreto nº 64.704, de 17 de junho de 1969.

@@ -1,5 +1,3 @@
-###DEC-059783-0-000-19-12-1966@@@
-
 DECRETO Nº 59.783, DE 19 DE DEZEMBRO DE 1966.
 
 Declara caduco o Decreto nº 29.785, de 19 de julho de 1951.

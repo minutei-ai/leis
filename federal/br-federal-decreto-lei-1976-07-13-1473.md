@@ -1,5 +1,3 @@
-###DEL-001473-0-000-13-07-1976@@@
-
 # DECRETO-LEI Nº 1.473, De 13 DE JULHO DE 1976
 
 Altera o Decreto-lei nº 1.164, de 1 de abril de 1971

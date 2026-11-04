@@ -1,5 +1,3 @@
-###DEC-066855-0-000-07-07-1970@@@
-
 decreto nº 66.855, de 7 de julho de 1970.
 
 Autoriza funcionamento do Curso de Pedagogia do Instituto de Educação de Minas Gerais, sediado em Belo Horizonte, no Estado de Minas Gerais.

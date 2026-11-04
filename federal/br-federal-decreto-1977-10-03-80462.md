@@ -1,5 +1,3 @@
-###DEC-080462-0-000-03-10-1977@@@
-
 decreto nº 80.462, de 3 de outubro de 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de São Paulo S.A. - CESP, no Estado de São Paulo.

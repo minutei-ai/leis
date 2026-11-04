@@ -1,5 +1,3 @@
-###DEC-051029-0-000-25-07-1961@@@
-
 DECRETO Nº 51.029, DE 25 DE JULHO DE 1961.
 
 Cria a Reserva Florestal de Gorotire e dá outras providências.

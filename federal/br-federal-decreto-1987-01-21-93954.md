@@ -1,5 +1,3 @@
-###DEC-093954-0-000-21-01-1987@@@
-
 DECRETO Nº 93.954, DE 21 DE JANEIRO DE 1987
 
 Institui, no Gabinete Pessoal do Presidente da República, a Secretaria Especial de Comunicação Social da Administração Federal - SECAF.

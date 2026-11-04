@@ -1,5 +1,3 @@
-###DEL-003342-0-000-12-06-1941@@@
-
 DECRETO-LEI N. 3.342 – DE 12 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 160:188$3, para auxílio a mutilados e paralíticos

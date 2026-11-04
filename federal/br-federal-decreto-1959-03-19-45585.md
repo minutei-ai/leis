@@ -1,5 +1,3 @@
-###DEC-045585-0-000-19-03-1959@@@
-
 DECRETO Nº 45.585, DE 19 DE MARÇO DE 1959.
 
 Concede à Sociedade anônima “Singer Swing Machine Company” autorização para continuar a funcionar na Republica.

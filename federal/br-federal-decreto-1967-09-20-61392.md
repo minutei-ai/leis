@@ -1,5 +1,3 @@
-###DEC-061392-0-000-20-09-1967@@@
-
 DECRETO Nº 61.392, DE 20 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública o “Centro Espírita Amor e Caridade”, com sede em Bauru, Estado de São Paulo.

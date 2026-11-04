@@ -1,5 +1,3 @@
-###DEC-073761-0-000-07-03-1974@@@
-
 DECRETO Nº 73.761, DE 7 DE MARÇO DE 1974.
 
 Concede reconhecimento ao curso de Medicina da Faculdade de Ciências Médicas da Universidade de Caxias do Sul, mantida pela Fundação Universidade de Caxias do Sul com sede na cidade de Caxias do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-062255-0-000-12-02-1968@@@
-
 DECRETO Nº 62.255, DE 12 DE FEVEREIRO DE 1968.
 
 Provê sôbre a convocação da Conferência Nacional de Educação.

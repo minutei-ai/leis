@@ -1,5 +1,3 @@
-###DEL-005587-0-000-18-06-1943@@@
-
 DECRETO-LEI  N. 5.587 – DE 18 DE JUNHO  DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o ,crédito especial de Cr$ 1.000.000,00 para serviços de dragagem e estudos do ria Jacuí

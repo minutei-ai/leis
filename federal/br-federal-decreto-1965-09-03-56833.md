@@ -1,5 +1,3 @@
-###DEC-056833-0-000-03-09-1965@@@
-
 DECRETO Nº 56.833, DE 3 DE SETEMBRO DE 1965.
 
 Dá a denominação de Regimento Vidal de Negreiros ao atual 15º Regimento de Infantaria.

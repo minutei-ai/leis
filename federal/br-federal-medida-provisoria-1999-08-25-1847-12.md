@@ -1,5 +1,3 @@
-###MPV-001847-0-012-25-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.847-12, DE 25 DE AGOSTO DE 1999.
 
 Altera dispositivos do Decreto-Lei nº 73, de 21 de novembro de 1966, da Lei nº 6.435, de 15 de julho de 1977, da Lei nº 5.627, de 1º dezembro de 1970, e dá outras providências.

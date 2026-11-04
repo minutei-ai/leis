@@ -1,5 +1,3 @@
-###DEC-007047-0-000-22-12-2009@@@
-
 DECRETO Nº 7.047, DE 22 DE DEZEMBRO DE 2009.
 
 Institui o Prêmio Mais Mulheres.

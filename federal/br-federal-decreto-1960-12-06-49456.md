@@ -1,5 +1,3 @@
-###DEC-049456-0-000-06-12-1960@@@
-
 DECRETO Nº 49.456, DE 6 DE DEZEMBRO DE 1960.
 
 Renova o Decreto nº 43.223, de 22 de fevereiro de 1938

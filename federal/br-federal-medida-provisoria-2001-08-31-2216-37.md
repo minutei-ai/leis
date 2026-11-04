@@ -1,5 +1,3 @@
-###MPV-002216-0-037-31-08-2001@@@
-
 MEDIDA PROVISÓRIA No 2.216-37, DE 31 DE AGOSTO DE 2001.
 
  Altera dispositivos da Lei no 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.
@@ -1291,8 +1289,6 @@ Gilmar Ferreira Mendes
 A. Andrea Matarazzo
 
 Anadyr de Mendonça Rodrigues
-
-###MPV-002216-0-037-31-08-2001@@@RET01+++
 
 MEDIDA PROVISÓRIA Nº 2.216- 37 DE 31 DE AGOSTO DE 2001
 

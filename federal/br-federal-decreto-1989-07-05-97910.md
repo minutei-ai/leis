@@ -1,7 +1,3 @@
-1
-
-###DEC-097910-0-000-05-07-1989@@@
-
 DECRETO Nº 97.910, DE 5 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado” FAZENDA MONTE SANTO”, também conhecido como “LAGOA DAS AREIAS”, classificado como latifúndio por exploração, situado nos Municípios de Nossa Senhora da Glória e Monte Alegre de Sergipe, no Estado de Sergipe, compreendido na zona prioritária fixada pelo Decreto n° 92.687, de 19 de maio de 1986, e dá outras providências.

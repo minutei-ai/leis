@@ -1,14 +1,12 @@
-###DEC-027769-0-000-08-02-1950@@@
+**DECRETO Nº 27.769, DE 08 DE FEVEREIRO DE 1950.**
 
-<strong>DECRETO Nº 27.769, DE 08 DE FEVEREIRO DE 1950.</strong>
+***Outorga ao estado de São Paulo concessão para o aproveitamento progressivo de energia hidráulica em dois trechos do Rio Paranapanema.***
 
-<em><strong>Outorga ao estado de São Paulo concessão para o aproveitamento progressivo de energia hidráulica em dois trechos do Rio Paranapanema.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitamos os direitos de terceiros, é outorgada ao Estado de São Paulo concessão para o aproveitamento progressivo de energia hidráulica em dois trechos do Rio Paranapanema, compreendido: o primeiro, a cachoeira de Salto Grande do Paranapanema e as parte inferior do rio Itararé, entre os municípios de Salto Grande, Ourinhos, Xavantes, Ipauçu, Piraju e Farturas, no Estado de São Paulo, município de Jacarezinho e Ribeirão Claro, no Estado do Paraná, e a segundo trecho, abrangendo a cachoeira Jura-Mirim, o rio Taquari e outros afluentes, os municípios de Cerqueira César, Avare Itai, Piraju e Taquari, no Estado de São Paulo.
+**Art**. 1º Respeitamos os direitos de terceiros, é outorgada ao Estado de São Paulo concessão para o aproveitamento progressivo de energia hidráulica em dois trechos do Rio Paranapanema, compreendido: o primeiro, a cachoeira de Salto Grande do Paranapanema e as parte inferior do rio Itararé, entre os municípios de Salto Grande, Ourinhos, Xavantes, Ipauçu, Piraju e Farturas, no Estado de São Paulo, município de Jacarezinho e Ribeirão Claro, no Estado do Paraná, e a segundo trecho, abrangendo a cachoeira Jura-Mirim, o rio Taquari e outros afluentes, os municípios de Cerqueira César, Avare Itai, Piraju e Taquari, no Estado de São Paulo.
 
 § 1º Em portaria do Ministro da Agricultura no ato de aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga da derivação e a potências da etapa inicial, bem como das subseqüentes, à medida que forem sendo aprovados os projetos correspondentes.
 
@@ -18,7 +16,7 @@ I À produção, transmissão e distribuição da energia elétrica, para fornec
 
 II Ao suprimento de energia elétrica em alta tensão aos concessionários de serviços públicos de eletricidade, que o requerem, situados dentro dum saio de operação econômica das usinas geradoras, a juizo do Gôverno Federal, compatível com as potência geradora total do sistema, em seu estágio final.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
 
 I Registra-lo na divisão de Águas do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -104,28 +102,28 @@ V Iniciar e concluir as obras nos prazos que forem determinados pelo Ministério
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º O concessionário ficas obrigado a construir e manter, nas proximidade do aproveitamento onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d\`água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º O concessionário ficas obrigado a construir e manter, nas proximidade do aproveitamento onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d\`água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a remunerar será o efetivamento investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energias elétrica.
+**Art**. 4º O capital a remunerar será o efetivamento investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energias elétrica.
 
-<strong>Art</strong>. 5º as tabelas de preço de energias serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 5º as tabelas de preço de energias serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 6º Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações, determinadas pelas depreciação ou impostas por acidentes.
+**Art**. 6º Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações, determinadas pelas depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por cota especial, que incidirá sôbre as tarifas, sob forma de percentagem. Essa cota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reservas terá que atender, podendo ser modificada, trienalmente, na época das revisão das tarifas.
 
-<strong>Art</strong>. 7º Fica o prazo da presente concessão, todos os bens e instalações que, no momento, existem em função exclusiva e permanente das produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Gôverno Federal em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere ao parágrafo único do art. 6º.
+**Art**. 7º Fica o prazo da presente concessão, todos os bens e instalações que, no momento, existem em função exclusiva e permanente das produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Gôverno Federal em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere ao parágrafo único do art. 6º.
 
 Parágrafo único. Se o Govêrno Federal não fizer uso do seu direito a êssa reversão o concessionário poderá requereer a sua renovação até seis (6) meses antes de findar o prazo de vigências da concessão, entendendo-se, se o não fizer, que não pretende a renovação.
 
-<strong>Art</strong>. 8º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo copntrato pelo Tribunal de Contas.
+**Art**. 8º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo copntrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 9º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 9º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 10º Revogam-se as disposições em contrário.
+**Art**. 10º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 8 de fevereiro de 1950; 129º da Indepedência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

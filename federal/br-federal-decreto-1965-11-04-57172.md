@@ -1,5 +1,3 @@
-###DEC-057172-0-000-04-11-1965@@@
-
 DECRETO Nº 57.172, DE 4 DE NOVEMBRO DE 1965.
 
 Reduz interstícios previstos na Lei de Promoções de Oficiais do Exército.

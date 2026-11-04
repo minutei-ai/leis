@@ -1,5 +1,3 @@
-###DEC-083077-0-000-23-01-1979@@@
-
 Decreto nº 83.077, de 23 de janeiro de 1979
 
 Concede reconhecimento ao curso de Formação de Professores das Disciplinas Profissionalizantes, da Faculdade de Filosofia, Ciências e Letras de Jales, com sede na cidade de Jales, Estado de São Paulo.

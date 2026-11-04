@@ -1,5 +1,3 @@
-###DEC-094085-0-000-10-03-1987@@@
-
 DECRETO N° 94.085, DE 10 DE MARÇO DE 1987
 
 Altera a alínea i, item II, do artigo 6°, do Decreto n° 93.630, de 28 de novembro de 1986, que dispõe sobre os representantes do Ministério da Indústria e do Comércio no Conselho Nacional de Meio Ambiente - CONAMA.

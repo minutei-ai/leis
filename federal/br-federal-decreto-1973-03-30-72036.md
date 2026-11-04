@@ -1,5 +1,3 @@
-###DEC-072036-0-000-30-03-1973@@@
-
 DECRETO Nº 72.036, DE 30 DE MARÇO DE 1973.
 
 Concede à Companhia de Cimento Portland Gaúcho o direito de lavrar calcário no Município de Arroio Grande, Estado do Rio Grande do Sul.

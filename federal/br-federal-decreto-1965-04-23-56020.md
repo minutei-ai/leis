@@ -1,5 +1,3 @@
-###DEC-056020-0-000-23-04-1965@@@
-
 decreto nº 56.020, de 23 de abril de 1965.
 
 Autoriza o cidadão Barquef Sarian a pesquisar água mineral, no município de Palestina, Estado de São Paulo.

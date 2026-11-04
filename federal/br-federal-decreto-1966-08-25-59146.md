@@ -1,5 +1,3 @@
-###DEC-059146-0-000-25-08-1966@@@
-
 DECRETO Nº 59.146, DE 25 DE AGôSTO DE 1966.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, ao Banco Central da República do Brasil.

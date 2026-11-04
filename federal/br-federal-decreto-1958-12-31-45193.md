@@ -1,5 +1,3 @@
-###DEC-045193-0-000-31-12-1958@@@
-
 Decreta nº 45.193, de 31 de dezembro de 1958.
 
 Cria o Hospital Naval de Belém, e dá outras providências.

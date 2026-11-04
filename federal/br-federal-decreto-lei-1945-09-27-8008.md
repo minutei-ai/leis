@@ -1,5 +1,3 @@
-###DEL-008008-0-000-27-09-1945@@@
-
 DECRETO-LEI N. 8.008 – DE 27 DE DE SETEMBRO DE 1945
 
 Autoriza o Ministério da Guerra a celebrar contrato para a aquisição de instrumentos óticos militares e dá outras providências.

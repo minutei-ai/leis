@@ -1,5 +1,3 @@
-###DEC-077744-0-000-03-06-1976@@@
-
 DEcRETO Nº 77.744, DE 3 DE JUNHO DE 1976.
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados Mucatu, Garapu e Andreza, localizados nos Municípios de Alhandra e Pitimbu, no Estado da Paraíba, compreendidos na área prioritária, para fins de reforma agrária, de que trata o artigo 1º do Decreto nº 56.583, de 19 de julho de 1965, com o prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 60.465, de 14 de março de 1967, 68.085, de 19 de janeiro de 1971 e 75.147 de 27 de dezembro de 1974.

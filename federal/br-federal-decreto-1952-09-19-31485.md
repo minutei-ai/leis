@@ -1,16 +1,14 @@
-###DEC-031485-0-000-19-09-1952@@@
+**DECRETO Nº 31.485, DE 19 DE SETEMBRO DE 1952.**
 
-<strong>DECRETO Nº 31.485, DE 19 DE SETEMBRO DE 1952.</strong>
+***Declara de utilidade pública uma faixa de terra destina à passagem da linha tronco de transmissão de energia elétrica de 220kv da Companhia Hidrelétrica de São Francisco, de Paulo Afonso e Recife (Linha Norte), e autoriza a referida Companhia a promover a desapropriação.***
 
-<em><strong>Declara de utilidade pública uma faixa de terra destina à passagem da linha tronco de transmissão de energia elétrica de 220kv da Companhia Hidrelétrica de São Francisco, de Paulo Afonso e Recife (Linha Norte), e autoriza a referida Companhia a promover a desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, nº I, da Constituição, tendo em vista o disposto do artigo 157, letras “*b*” e “*c*” do Código das Águas e no Decreto-lei nº 3.365, de 21 de julho de 1941, bem como o requerido pela Companhia Hidrelétrica de São Francisco, concessionárias do aproveitamento da energia Hidráulica do Rio São Francisco, no trecho compreendido entre Juazeiro e Piranhas, em virtude do Decreto nº 19.706, de 3 de outubro de 1945, revalidado pelo de nº 27.723, de 23 de janeiro de 1950,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, nº I, da Constituição, tendo em vista o disposto do artigo 157, letras “<em>b</em>” e “<em>c</em>” do Código das Águas e no Decreto-lei nº 3.365, de 21 de julho de 1941, bem como o requerido pela Companhia Hidrelétrica de São Francisco, concessionárias do aproveitamento da energia Hidráulica do Rio São Francisco, no trecho compreendido entre Juazeiro e Piranhas, em virtude do Decreto nº 19.706, de 3 de outubro de 1945, revalidado pelo de nº 27.723, de 23 de janeiro de 1950,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - É declarada de utilidade pública uma faixa de terras, com a largura de cem (100) metros, destinada a passagem, aérea ou subterrânea, da linha tronco de transmissão de energia elétrica de 220kv da Companhia Hidrelétrica de São Francisco, de Paulo Afonso, no Km, 0, a Recife, no Km 405-250 (Linha Norte).
 
-<strong>Art</strong>. 1º - É declarada de utilidade pública uma faixa de terras, com a largura de cem (100) metros, destinada a passagem, aérea ou subterrânea, da linha tronco de transmissão de energia elétrica de 220kv da Companhia Hidrelétrica de São Francisco, de Paulo Afonso, no Km, 0, a Recife, no Km 405-250 (Linha Norte).
-
-<strong>Art</strong>. 2º - A faixa de terra destinada no artigo anterior compõem-se da área das plantas aprovada pelo Ministério da Agricultura, situada nos Estados de Alagoas e Pernambuco, de propriedade atribuídas as pessoas a baixo relacionadas na ordem ao que se encontram ao longo do traçado da linha:
+**Art**. 2º - A faixa de terra destinada no artigo anterior compõem-se da área das plantas aprovada pelo Ministério da Agricultura, situada nos Estados de Alagoas e Pernambuco, de propriedade atribuídas as pessoas a baixo relacionadas na ordem ao que se encontram ao longo do traçado da linha:
 
 I - ALAGOAS
 
@@ -1088,14 +1086,14 @@ Município de Recife
 
 361-A - Companhia Pernambucana de Terrenos S. A.
 
-<strong>Art</strong>. 3º Fica autorizada a Companhia Hidro Elétrica de São Francisco a promover a desapropriação dos referidos terrenos, na forma da legislação vigente.
+**Art**. 3º Fica autorizada a Companhia Hidro Elétrica de São Francisco a promover a desapropriação dos referidos terrenos, na forma da legislação vigente.
 
-<strong>Art</strong>. 4º O presente Decreto entrará em vigor na data da sua publicação.
+**Art**. 4º O presente Decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de setembro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

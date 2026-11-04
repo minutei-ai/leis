@@ -1,5 +1,3 @@
-###DEC-045123-0-000-29-12-1958@@@
-
 Decreto nº 45.123, de 29 de dezembro de 1958.
 
 Autoriza Liz S.A. - Comércio e Beneficiamento de Calcário a lavrar calcário no município de Maroim, Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-002661-0-000-08-07-1998@@@
-
 DECRETO Nº 2.661, DE 8 DE JULHO DE 1998
 
 Regulamenta o parágrafo único do art. 27 da Lei nº 4.771, de 15 de setembro de 1965 (código florestal), mediante o estabelecimento de normas de precaução relativas ao emprego do fogo em práticas agropastoris e florestais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-062048-0-000-05-01-1968@@@
-
 DECRETO Nº 62.048, DE 5 DE JANEIRO DE 1968.
 
 Outorga à Companhia de Eletricidade de Pernambuco concessão para distribuir energia elétrica em diversos municípios do Estado de Pernambuco.

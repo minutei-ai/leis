@@ -1,5 +1,3 @@
-###DEC-065288-0-000-07-10-1969@@@
-
 DECRETO Nº 65.288 - DE 7 DE OUTUBRO DE 1969.
 
 Concede a emprêsa Sinval Duarte Pereira S.A. - Agro-Industrial e Mineração o direito de lavrar diatomita, no município de Macaíba, Estado do Rio Grande do Norte.

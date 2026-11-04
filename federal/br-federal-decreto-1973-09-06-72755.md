@@ -1,5 +1,3 @@
-###DEC-072755-0-000-06-09-1973@@@
-
 DECRETO Nº 72.755, DE 6 DE SETEMBRO DE 1973.
 
 Concede á Empresa Rada de Mineração Ltda. o direito de lavrar cromita no Município de Alvorada de Minas, Estado de Minas Gerais.

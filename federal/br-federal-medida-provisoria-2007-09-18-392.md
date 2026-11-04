@@ -1,5 +1,3 @@
-###MPV-000392-0-000-18-09-2007@@@
-
 MEDIDA PROVISÓRIA Nº 392, DE 18 DE SETEMBRO DE 2007.
 
 Revoga a Medida Provisória no 382, de 24de julho de 2007, dispõe sobre o desconto de créditos da Contribuição para o PIS/PASEP e da COFINS, na aquisição no mercado interno ou importação de bens de capita destinados à produção dos bens relacionados nos Anexos I e II da Lei nº 10.485, de 3 de julho de 2002, e dos produtos classificados na Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 6.006, de 28 de dezembro de 2006; autoriza a concessão de subvenção econômica nas operações de empréstimo e financiamento destinadas às empresas dos setores de calçados e artefatos de couro, têxtil, de confecção e de móveis de madeira.
@@ -15,5 +13,3 @@ Revoga a Medida Provisória no 382, de 24de julho de 2007, dispõe sobre o desco
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 19.9.2007

@@ -1,5 +1,3 @@
-###DEC-007790-0-000-15-08-2012-PUB-01@@@
-
 DECRETO N° 7.790, DE 15 DE AGOSTO DE 2012
 
 Dispõe sobre financiamento do Fundo de Financiamento Estudantil - FIES.

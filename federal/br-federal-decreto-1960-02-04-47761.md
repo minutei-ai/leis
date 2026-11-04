@@ -1,5 +1,3 @@
-###DEC-047761-0-000-04-02-1960@@@
-
 DECRETO Nº 47.761, DE 4 DE FEVEREIRO DE 1960.
 
 Concede autorização para o funcionamento de cursos.

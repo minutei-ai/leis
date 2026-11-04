@@ -1,5 +1,3 @@
-###MPV-001851-0-044-22-09-1999@@@
-
 Medida Provisória Nº 1.851-44, DE 22 DE SETEMBRO DE 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

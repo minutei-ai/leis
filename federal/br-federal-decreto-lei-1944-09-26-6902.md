@@ -1,5 +1,3 @@
-###DEL-006902-0-000-26-09-1944@@@
-
 DECRETO-LEI N. 6.902 – DE 26 DE SETEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 40.000,00, para o fim que especifica

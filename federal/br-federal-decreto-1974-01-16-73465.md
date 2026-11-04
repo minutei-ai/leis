@@ -1,5 +1,3 @@
-###DEC-073465-0-000-16-01-1974@@@
-
 DECRETO Nº 73.465, DE 16 DE JANEIRO DE 1974.
 
 Autoriza o funcionamento dos cursos de Matemática e Desenho e Plástica da Faculdade de Ciências, Letras e Educação de Presidente Prudente, mantida pela Associação Prudentina de Educação e Cultura - APE, com sede na cidade de Presidente Prudente, Estado de São Paulo.

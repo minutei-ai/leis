@@ -1,5 +1,3 @@
-###DEC-089418-0-000-01-03-1984@@@
-
 Decreto nº 89.418, de 01 de março de 1984.
 
 Autoriza o Banco Central do Brasil a contratar refinanciamento, no valor de até US$ 156.000.000,00 em favor da República da Bolívia.

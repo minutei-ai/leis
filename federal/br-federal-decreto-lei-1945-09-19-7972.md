@@ -1,5 +1,3 @@
-###DEL-007972-0-000-19-09-1945@@@
-
 DECRETO-LEI N. 7.972 – DE 19 DE SETEMBRO DE 1945
 
 Cria função gratificada de Chefe da Biblioteca do Departamento de Administração do Ministério da Educação e Saúde.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209222)<br>
-
 # DECRETO N° 68.405, DE 21 DE MARÇO DE 2024
 
 ### _Reformula as Oficinas Culturais do Estado, da Secretaria da Cultura, Economia e Indústria Criativas._

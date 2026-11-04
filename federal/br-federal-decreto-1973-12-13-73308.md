@@ -1,5 +1,3 @@
-###DEC-073308-0-000-13-12-1973@@@
-
 DECRETO Nº 73.308 - DE 13 DE DEZEMBRO DE 1973
 
 Concede a Indústrias Brasileiras de Artigos Refratários S. A. - IBAR o direito de lavrar argila, no Município de Salesópolis, Estado de São Paulo.

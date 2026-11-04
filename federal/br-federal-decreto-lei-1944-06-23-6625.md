@@ -1,5 +1,3 @@
-###DEL-006625-0-000-23-06-1944@@@
-
 DECRETO-LEI N. 6.625 – DE 23 DE JUNHO DE 1944
 
 Desapropria, para fins de utilidade pública, um terreno em Natal, Estado do Rio Grande do Norte

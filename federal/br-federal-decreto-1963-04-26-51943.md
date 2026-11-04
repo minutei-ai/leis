@@ -1,5 +1,3 @@
-###DEC-051943-0-000-26-04-1963@@@
-
 Decreto nº 51.943, de 26 de abril de 1963.
 
 Declara instalada, a título provisório, a Procuradoria da Fazenda Nacional no Distrito Federal e dá outras providências.

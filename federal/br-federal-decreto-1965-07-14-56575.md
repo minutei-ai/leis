@@ -1,5 +1,3 @@
-###DEC-056575-0-000-14-07-1965@@@
-
 DECRETO Nº 56.575, de 14 de julho de 1965.
 
 Aprova os Estatutos da Fundação Nacional do Bem-Estar do Menor.
@@ -391,8 +389,6 @@ Em 2 de julho de 1965.
 Mário de Mordes Altenfelder Silva
 
 Presidente
-
-###DEC-056575-0-000-14-07-1965@@@RET01+++
 
 DECRETO Nº 56.575, DE 14 DE JULHO DE 1965.
 

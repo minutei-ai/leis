@@ -4,7 +4,8 @@ Dispõe sobre a criação do Programa de Assistência a Vítimas, Testemunhas e 
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA PROTEÇÃO ESPECIAL A VÍTIMAS E A TESTEMUNHAS
 
 Art. 1º - Fica criado o Programa de Assistência a Vítimas, Testemunhas e Familiares de Vítimas de Crimes no Estado da Bahia - PROVITA/BA, em conformidade com as disposições da Lei Federal nº 9.807, de 13 de julho de 1999, que disciplina a matéria.
@@ -47,13 +48,20 @@ VII - 2 (dois) representantes de entidades não-governamentais;
 
 VIII - 1 (um) representante da Comissão de Direitos Humanos da Assembléia Legislativa do Estado.
 
-Redação do caput do art. 3º e seus incisos de acordo com o [art. 1º da Lei nº 8.483, de 06 de novembro de 2002](https://www.legislabahia.ba.gov.br/documentos/lei-no-8483-de-06-de-novembro-de-2002#LO_8_483_Art__1) . Redação original: "Art. 3º -Fica criado o Conselho Deliberativo do Programa, com competência para decidir sobre providências necessárias ao cumprimento do programa, composto de representantes de órgãos públicos e entidades não-governamentais, a saber:<br>
-I -1 (um) representante da Secretaria da Justiça e Direitos Humanos;<br>
-II -1 (um) representante da Secretaria do Trabalho e Ação Social;<br>
-III -1 (um) representante do Poder Judiciário;<br>
-IV -1 (um) representante do Ministério Público Estadual;<br>
-V -1 (um) representante da Secretaria da Segurança Pública;<br>
-VI -1 (um) representante de entidade não-governamental relacionada com a defesa dos direitos humanos;<br>
+Redação do caput do art. 3º e seus incisos de acordo com o [art. 1º da Lei nº 8.483, de 06 de novembro de 2002](https://www.legislabahia.ba.gov.br/documentos/lei-no-8483-de-06-de-novembro-de-2002#LO_8_483_Art__1) . Redação original: "Art. 3º -Fica criado o Conselho Deliberativo do Programa, com competência para decidir sobre providências necessárias ao cumprimento do programa, composto de representantes de órgãos públicos e entidades não-governamentais, a saber:
+
+I -1 (um) representante da Secretaria da Justiça e Direitos Humanos;
+
+II -1 (um) representante da Secretaria do Trabalho e Ação Social;
+
+III -1 (um) representante do Poder Judiciário;
+
+IV -1 (um) representante do Ministério Público Estadual;
+
+V -1 (um) representante da Secretaria da Segurança Pública;
+
+VI -1 (um) representante de entidade não-governamental relacionada com a defesa dos direitos humanos;
+
 VII -1 (um) representante da Comissão de Direitos Humanos da Assembléia Legislativa. "
 
 § 1º - Cada representante terá o respectivo suplente.
@@ -160,7 +168,8 @@ Art. 12 - A proteção oferecida pelo Programa terá a duração máxima de 2 (d
 
 Parágrafo único - Em circunstâncias excepcionais, perdurando os motivos que autorizam a admissão, a permanência poderá ser prorrogada, por decisão do Conselho Deliberativo.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 13 - As despesas com a execução do PROVITA/BA correrão, anualmente, por conta das dotações orçamentárias da Secretaria da Justiça e Direitos Humanos, bem como de recursos que forem obtidos através de convênios ou acordos com órgãos públicos e entidades não-governamentais.
@@ -185,4 +194,4 @@ Heraldo Eduardo Rocha
 
 Secretário da Justiça e Direitos Humanos
 
-* * *
+ *

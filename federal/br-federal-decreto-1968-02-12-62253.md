@@ -1,5 +1,3 @@
-###DEC-062253-0-000-12-02-1968@@@
-
 Decreto nº 62.253, de 12 de fevereiro de 1968.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, o domínio útil do terreno acrescido de marinha que menciona, no Estado do Rio de Janeiro.

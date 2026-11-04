@@ -1,5 +1,3 @@
-###DEC-066832-0-000-03-07-1970@@@
-
 DECRETO Nº 66.832, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Associação de Assistência Social dos Doentes do Dispensário de Tuberculose de Pinheiros, com sede em São Paulo, Estado de São Paulo.

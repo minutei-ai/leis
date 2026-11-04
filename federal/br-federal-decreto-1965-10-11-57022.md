@@ -1,5 +1,3 @@
-###DEC-057022-0-000-11-10-1965@@@
-
 decreto nº 57.022, de 11 de outubro de 1965.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco, concessão para distribuir energia elétrica.
@@ -41,8 +39,6 @@ Brasília, 11 de outubro de 1965; 144º da Independência e 77º da República.
 h. castello branco
 
 Mauro Thibau
-
-###DEC-057022-0-000-11-10-1965@@@RET01+++
 
 decreto nº 57.022, de 11 de outubro de 1965.
 

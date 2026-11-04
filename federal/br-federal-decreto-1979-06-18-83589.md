@@ -1,5 +1,3 @@
-###DEC-083589-0-000-18-06-1979@@@
-
 Decreto nº 83.589, de 18 de junho de 1979
 
 Concede à Mineração Alumil Ltda. o direito de lavrar argila refratária no Município de Uberaba, Estado de Minas Gerais.

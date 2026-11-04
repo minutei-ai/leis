@@ -1,5 +1,3 @@
-###DEC-083382-0-000-30-04-1979@@@
-
 Decreto nº 83.382, de 30 de abril de 1979.
 
 Concede reconhecimento aos cursos de Educação Artística, de História e Geografia, da Universidade do Rio Grande, com sede na cidade do Rio Grande, Estado do Rio Grande do Sul.

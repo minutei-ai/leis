@@ -1,5 +1,3 @@
-###DEC-083088-0-000-24-01-1979@@@
-
 Decreto nº 83.088, de 24 de janeiro de 1979
 
 Reajusta valores da Indenização de Representação de que trata o Decreto nº 77.805, de 10 de junho de 1976.

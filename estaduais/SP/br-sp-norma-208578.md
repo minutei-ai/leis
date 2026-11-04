@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208578)<br>
-
 # DECRETO N° 67.983, DE 27 DE SETEMBRO DE 2023
 
 ### _Altera o Decreto n° 56.651, de 11 de janeiro de 2011, que dispõe sobre a classificação institucional da Secretaria da Cultura, atualmente denominada Secretaria da Cultura, Economia e Indústria Criativas._

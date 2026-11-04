@@ -1,5 +1,3 @@
-###DEC-079333-0-000-03-03-1977@@@
-
 DECRETO Nº 79.333, DE 3 DE MARÇO DE 1977.
 
 Autoriza a instituição de servidão de solo, em favor da concessão de lavra outorgada à Mineração Catalão de Goiás Sociedade Anônima pelo Decreto nº 75.178, de 31 de dezembro de 1974.

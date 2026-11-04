@@ -1,5 +1,3 @@
-###DEL-003287-0-000-20-05-1941@@@
-
 DECRETO-LEI N. 3.287 – DE 20 DE MAIO DE 1941
 
 Abre o crédito especial de 205:653$4 ao Ministério da Viação e Obras Públicas.

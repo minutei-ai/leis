@@ -1,5 +1,3 @@
-###MPV-000542-0-000-12-08-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 542, DE 12 DE AGOSTO DE 2011.
 
   Dispõe sobre alterações nos limites do Parque Nacional Amazônia, do Parque Nacional dos Campos Amazônicos, do Parque Nacional da Mapinguari e dá outras providências.

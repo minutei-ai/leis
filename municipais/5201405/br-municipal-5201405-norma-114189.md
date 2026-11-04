@@ -4,7 +4,8 @@ Institui a Política Municipal de Incentivo à Reciclagem de Garrafas de Vidro e
 
 O PREFEITO DE APARECIDA DE GOIÂNIA Faço saber que a Câmara Municipal de Aparecida de Goiânia aprova e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 1º Fica instituída a Política Municipal de Incentivo à Reciclagem de Garrafas de Vidro e Polietileno Tereftalato (PET), com o objetivo de estabelecer diretrizes gerais para a gestão e o descarte ambientalmente adequado desses materiais no território do Município.
@@ -23,7 +24,8 @@ V - grandes geradores: pessoas físicas ou jurídicas, de direito público ou pr
 
 VI - logística reversa: instrumento de desenvolvimento econômico e social caracterizado por um conjunto de ações, procedimentos e meios destinados a viabilizar a coleta e a restituição dos resíduos sólidos ao setor empresarial, para reaproveitamento, em seu ciclo ou em outros ciclos produtivos, ou para outra destinação final ambientalmente adequada.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA POLÍTICA MUNICIPAL DE INCENTIVO À RECICLAGEM DE VIDRO E PET
 
 Art. 3º A Política Municipal de Incentivo à Reciclagem de Garrafas de Vidro e PET tem por objetivos:
@@ -50,14 +52,16 @@ IV - o incentivo ao desenvolvimento de mercados, produção e consumo de produto
 
 V - a promoção de práticas educativas e de comunicação para incentivar a segregação correta dos resíduos.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS RESPONSABILIDADES
 
 Art. 5º Constituem obrigações gerais dos munícipes a separação adequada das garrafas de vidro e PET dos demais resíduos e seu descarte nos locais designados pelo Poder Público para a coleta seletiva.
 
 Art. 6º Os estabelecimentos comerciais, industriais e de serviços, em especial os grandes geradores, deverão segregar adequadamente os resíduos de vidro e PET gerados em suas atividades e disponibilizá-los para coleta, em conformidade com as normas a serem estabelecidas pelo Poder Executivo.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO FOMENTO E DOS INCENTIVOS
 
 Art. 7º Fica o Poder Executivo autorizado a criar e regulamentar programas de incentivo para os cidadãos e estabelecimentos que aderirem às práticas de reciclagem de vidro e PET, podendo incluir:
@@ -70,7 +74,8 @@ Art. 8º O Município poderá firmar convênios, termos de parceria ou contratos
 
 Art. 9º Fica o Poder Executivo autorizado a celebrar parcerias com a iniciativa privada para a instalação e manutenção de pontos de entrega voluntária (PEVs) e para o desenvolvimento de sistemas de logística reversa.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA EDUCAÇÃO AMBIENTAL
 
 Art. 10. O Poder Executivo poderá promover, de forma contínua e permanente, campanhas de educação ambiental com o objetivo de conscientizar a população sobre:
@@ -81,7 +86,8 @@ II - a forma correta de separação, acondicionamento e descarte dos materiais r
 
 III - os impactos negativos do descarte inadequado de resíduos.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS SANÇÕES
 
 Art. 11. O descumprimento do disposto nos artigos 5º e 6º desta Lei sujeitará o infrator às seguintes penalidades, a serem aplicadas conforme regulamentação do Poder Executivo:
@@ -92,7 +98,8 @@ II – (VETADO).
 
 Parágrafo único. A aplicação das sanções será precedida de processo administrativo, assegurados o contraditório e a ampla defesa.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 12. (VETADO).
@@ -107,5 +114,6 @@ Aparecida de Goiânia, 30 de abril de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

@@ -1,5 +1,3 @@
-###DEC-071129-0-000-20-09-1972@@@
-
 DECRETO Nº 71.129, DE 20 DE SETEMBRO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, um terreno urbano, sem benfeitorias, situado na cidade de Campo Grande, Estado de Mato Grosso, destinado à ampliação da estação terminal de microondas e instalação de equipamentos de telex, telegrafia e outros serviços afins, integrantes do Sistema Nacional de Telecomunicações.
@@ -23,8 +21,6 @@ Brasília, 20 de setembro de 1972; 151º da Independência e 84º da República.
 EMÍLIO G. MÉDICI
 
 Hygino C. Corsetti
-
-###DEC-071129-0-000-20-09-1972@@@
 
 DECRETO Nº 71.129, DE 20 DE SETEMBRO DE 1972.
 

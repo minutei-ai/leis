@@ -1,6 +1,10 @@
 > **LEI Nº 3.595, DE 20 DE DEZEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos das Leis nº 1.022, de 21 de janeiro de 1992, da Lei nº 1.117, de 26 de janeiro de 1994 e da Lei nº 1.426, de 27 de dezembro de 2001.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos das Leis nº 1.022, de 21 de janeiro de 1992, da Lei nº 1.117, de 26 de janeiro de 1994 e da Lei nº 1.426, de 27 de dezembro de 2001.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

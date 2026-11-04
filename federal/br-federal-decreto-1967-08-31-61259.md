@@ -1,5 +1,3 @@
-###DEC-061259-0-000-31-08-1967@@@
-
 DECRETO Nº 61.259, DE 31 DE AGôSTO DE 1967.
 
 Declara de utilidade pública a “Sociedade Providência dos Desamparados”, com sede no Estado da Guanabara.

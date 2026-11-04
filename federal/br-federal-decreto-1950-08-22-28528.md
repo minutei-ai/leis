@@ -1,20 +1,18 @@
-###DEC-028528-0-000-22-08-1950@@@
+**DECRETO N. 28.528 – DE 22 DE AGÔSTO DE 1950**
 
-<strong>DECRETO N. 28.528 – DE 22 DE AGÔSTO DE 1950</strong>
-
-<em><strong>Outorga a Sabino Gomes Cardoso concessão para o aproveitamento energia hidráulica da cachoeira Bicuiba, existente no rio Glória, distrito de São Francisco da Glória, município de Carangola, Estado de Minas Gerais.</strong></em>
+***Outorga a Sabino Gomes Cardoso concessão para o aproveitamento energia hidráulica da cachoeira Bicuiba, existente no rio Glória, distrito de São Francisco da Glória, município de Carangola, Estado de Minas Gerais.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 150 do Código de Águas (Decreto nº 24.643, de 10 de Julho de 1934),
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Respeitados os direitos de terceiros, é outorgada a Sabino Gomes Cardoso concessão para o aproveitamento progressivo de energia hidráulica da cachoeira Bicuiba, existente no rio Glória, distrito de São Francisco da Glória, município de Carangola, Estado de Minas Gerais.
+**Art.** 1º Respeitados os direitos de terceiros, é outorgada a Sabino Gomes Cardoso concessão para o aproveitamento progressivo de energia hidráulica da cachoeira Bicuiba, existente no rio Glória, distrito de São Francisco da Glória, município de Carangola, Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga de derivação e a potência da etapa inicial, bem como das subseqüentes, à medida que forem sendo aprovados os projetos correspondentes.             
 
 § 2º O aproveitamento destina-se ao uso exclusivo do concessionário, que não poderá, ceder energia a terceiros, mesmo a título gratuito, excluídas, todavia, desta proibição, as vilas operárias do concessionário, desde que seja gratuito o fornecimento de energia que lhes for feito.
 
-<strong>Art.</strong> 2º Caducará, o presente título, independente de ato declaratório, se o concessionário não satisfizer as condições seguintes:
+**Art.** 2º Caducará, o presente título, independente de ato declaratório, se o concessionário não satisfizer as condições seguintes:
 
 I – Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -100,22 +98,22 @@ V – Iniciar e concluir as obras nos prazos que forem determinados pelo Minist�
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art.</strong> 5º O concessionário fica obrigado a construir e manter nas proximidades do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art.** 5º O concessionário fica obrigado a construir e manter nas proximidades do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art.</strong> 4º Findo o prazo da concessão, todos os bens e instalações, que no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão Govêrno da União, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas.
+**Art.** 4º Findo o prazo da concessão, todos os bens e instalações, que no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão Govêrno da União, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas.
 
 § 1º O concessionário poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipulas, desde que faça a prova de que o Govêrno da União não se opõe à utilização dos bens objeto da reversão.
 
 § 2º O concessionário deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de fizer o prazo de vigência da concessão, entendendo-se, se não o fizer, que não pretende a renovação.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art.</strong> 6º O presente Decreto entra em vigor na data de sua publicação.
+**Art.** 6º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art.</strong> 7º Revogam-se as disposições em contrário.
+**Art.** 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 22 de agôsto de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 A. de Novaes Filho

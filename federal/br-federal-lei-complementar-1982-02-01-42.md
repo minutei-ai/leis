@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2b6b11ca-f95d-4134-87dd-9a478b719c45/texto#nowhere)
 
-###LCP-000042-0-000-01-02-1982@@@
-
 # LEi COMPLEMENTAR Nº 42, DE 1º DE FEVErEIRO dE 1982
 
 Altera a Lei Complementar nº 5, de 29 de abril de 1970, que estabelece, de acordo com o art. 151 e seu parágrafo único da Emenda Constitucional nº 1, de 17 de outubro de 1969, casos de inelegibilidade, e dá outras providências.

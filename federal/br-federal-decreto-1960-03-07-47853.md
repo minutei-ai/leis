@@ -1,5 +1,3 @@
-###DEC-047853-0-000-07-03-1960@@@
-
 DECRETO Nº 47.853, DE 7 DE MARÇO DE 1960.
 
 Autoriza o cidadão brasileiro Humberto de Lima Dantas a pesquisar minérios de manganês no município de Campo Formoso, Estado da Bahia.

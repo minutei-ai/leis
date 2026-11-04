@@ -1,5 +1,3 @@
-###DEC-007396-0-000-22-12-2010-PUB-01@@@
-
 DECRETO Nº 7.396, DE 22 DE DEZEMBRO DE 2010
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Chile sobre Cooperação em Matéria de Defesa, firmado em Santiago, em 3 de dezembro de 2007.

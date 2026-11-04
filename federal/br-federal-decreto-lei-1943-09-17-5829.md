@@ -1,5 +1,3 @@
-###DEL-005829-0-000-17-09-1943@@@
-
 DECRETO-LEI N. 5.829 – DE  17 DE SETEMBRO DE 1943
 
 Prorroga o prazo referido no parágrafo único do artigo 2º do decreto-lei n. 2.618, de 23 de setembro de 1940

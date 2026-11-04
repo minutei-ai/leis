@@ -1,5 +1,3 @@
-###DEC-059171-0-000-05-09-1966@@@
-
 DECRETO Nº 59.171, DE 5 DE SETEMBRO DE 1966.
 
 Dá nova redação ao art. 6º do Decreto nº 40.026, de 25 de setembro de 1956, que dispõe sôbre assistência médico-hospitalar a ser prestada nos Estabelecimentos do Serviço de Saúde do Exército aos servidores civis do Ministério da Guerra, contribuintes do IPASE ou dos Montepios civil ou militar.

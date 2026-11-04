@@ -1,5 +1,3 @@
-###DEC-093841-0-000-22-12-1986@@@
-
 DECRETO Nº 93.841, DE 22 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "FAZENDA BARRA GRANDE", situado no Município de Paraty, no Estado do Rio de Janeiro, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.691, de 19 de maio de 1986 e dá outras providências.

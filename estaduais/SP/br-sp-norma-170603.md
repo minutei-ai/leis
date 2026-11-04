@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/170603)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2013/compilacao-lei-15060-01.07.2013.html)
 
 # LEI N° 15.060, DE 01 DE JULHO DE 2013

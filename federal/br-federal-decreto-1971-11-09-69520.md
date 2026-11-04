@@ -1,5 +1,3 @@
-###DEC-069520-0-000-09-11-1971@@@
-
 Decreto nº 69.520 - de 9 de novembro de 1971
 
 Aproveita no Ministério da Marinha servidores em disponibilidade e dá outras providências.

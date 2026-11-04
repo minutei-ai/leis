@@ -1,5 +1,3 @@
-###DEC-048954-0-000-16-09-1960@@@
-
 Decreto nº 48.954, de 16 de setembro de 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 35.736, de 28-6-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Barreiras, no Município de Fronteiras, no Estado do Piauí.
@@ -17,8 +15,6 @@ Brasília, 16 de setembro de 1960, 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 Ernani do Amaral Peixoto
-
-###DEC-048954-0-000-16-09-1960@@@RET01+++
 
 DECRETO Nº 498.954, DE 16 DE SETEMBRO DE 1960.
 

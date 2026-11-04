@@ -1,5 +1,3 @@
-###DEC-005858-0-000-25-07-2006@@@
-
 DECRETO Nº 5.858, DE 25 DE JULHO DE 2006.
 
 Delega competência ao Ministro de Estado do Desenvolvimento Social e Combate à Fome para designação dos membros do Conselho Nacional de Assistência Social - CNAS e altera o Decreto no 5.003, de 4 de março de 2004, que dispõe sobre o processo de escolha dos representantes da sociedade civil naquele Conselho.
@@ -21,5 +19,3 @@ Brasília, 25 de julho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
          Dilma Rousseff
-
-Este texto não substitui o publicado no D.O.U. de 26.7.2006

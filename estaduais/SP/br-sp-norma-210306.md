@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210306)<br>
-
 # DECRETO N° 69.122, DE 09 DE DEZEMBRO DE 2024
 
 ### _Dispõe sobre a apuração preliminar e o termo de ajustamento de conduta a que se referem os artigos 265 e 267-E a 267-M da Lei n° 10.261, de 28 de outubro de 1968, bem como sobre a apuração preliminar atinente à prática de assédio moral, assédio sexual, conduta discriminatória e enriquecimento ilícito, por agente público, no âmbito da Administração Pública estadual._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Gerais
 
 **Artigo 1° -** Este decreto disciplina:
@@ -65,7 +64,8 @@ c) as provas e evidências que permitam a tipificação da conduta e imputação
 
 **Artigo 5° -** As unidades de apuração preliminar adotarão as medidas necessárias à proteção de informações e dados, pessoais ou protegidos por sigilo legal, juntados aos autos, bem como para o resguardo da finalidade pública do processo, nos termos da Lei federal n° 12.527, de 18 de novembro de 2011, e da Lei federal n.° 13.709, de 14 de agosto de 2018.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Apuração Preliminar
 
 **Artigo 6° -** A apuração preliminar será regida pelos princípios da legalidade, impessoalidade, moralidade, razoabilidade, proporcionalidade, finalidade, supremacia do interesse público e motivação dos atos administrativos e será conduzida de modo a preservar a dignidade dos envolvidos.
@@ -130,7 +130,8 @@ II - determinar a complementação da instrução;
 
 III - remeter os autos à autoridade competente para a instauração de procedimento disciplinar, se não detiver competência para prática deste ato.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Apuração preliminar de assédio moral, assédio sexual e conduta discriminatória
 
 **Artigo 12 -** A apuração preliminar que tenha por objeto conduta tipificada como assédio moral, assédio sexual ou conduta discriminatória será conduzida de modo a evitar a revitimização ao longo do procedimento.
@@ -141,7 +142,8 @@ Da Apuração preliminar de assédio moral, assédio sexual e conduta discrimina
 
 **Artigo 14 -** Caberá à Controladoria Geral do Estado conduzir, na forma disciplinada em ato do Controlador Geral do Estado, a apuração preliminar de fatos que envolvam assédio sexual.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Apuração Preliminar de Evolução Patrimonial
 
 **Artigo 15 -** Quando da análise das declarações de bens de que trata o [Decreto n.° 41.865, de 16 de junho de 1997](https://www.al.sp.gov.br/norma/8939), resultar suspeita fundamentada de evolução patrimonial do agente público incompatível com os recursos e disponibilidades que compõem seu patrimônio, a Controladoria Geral do Estado instaurará apuração preliminar, nos termos deste Capítulo.
@@ -182,7 +184,8 @@ II - pela instauração do procedimento sancionatório cabível, inclusive no ca
 
 4 - expedição de ofício à autoridade competente para instauração de inquérito civil ou ajuizamento de ação penal, nos casos em que a conduta possa caracterizar infração dessa natureza.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Do Termo de Ajustamento de Conduta
 
 **Artigo 21 -** A celebração do termo de ajustamento de conduta - TAC poderá ser proposta pela autoridade competente para a instauração da apuração preliminar, ou requerida pelo interessado, enquanto não iniciado o procedimento disciplinar, na hipótese de a conduta não constituir falta grave e quando atendidos os seguintes requisitos em relação ao servidor:
@@ -249,7 +252,8 @@ VI - a sujeição a controles específicos relativos à conduta irregular pratic
 
 **Artigo 25 -** No caso de descumprimento do TAC, ou cometimento de nova falta funcional durante o prazo de cumprimento do ajuste, a autoridade encarregada da fiscalização providenciará, se necessário, a conclusão da apuração preliminar e informará à autoridade competente para que esta delibere sobre a instauração do procedimento disciplinar cabível.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Das Disposições finais
 
 **Artigo 26 -** Caberá à Controladoria Geral do Estado emitir orientações técnicas para o desempenho das atividades das unidades de apuração preliminar.

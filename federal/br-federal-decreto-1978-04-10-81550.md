@@ -1,5 +1,3 @@
-###DEC-081550-0-000-10-04-1978@@@
-
 Decreto nº 81.500, de 10 de abril 1978.
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos que menciona, situados no Município de Duque de Caxias, Estado do Rio de Janeiro.

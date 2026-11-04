@@ -1,5 +1,3 @@
-###DEL-004643-0-000-02-09-1942@@@
-
 DECRETO-LEI N. 4.643 – DE 2 DE SETEMBRO DE 1942
 
 Altera, sem aumento de despesa, o vigente orçamento do Ministério da Agricultura

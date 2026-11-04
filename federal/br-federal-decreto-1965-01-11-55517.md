@@ -1,5 +1,3 @@
-###DEC-055517-0-000-11-01-1965@@@
-
 Decreto nº 55.517, de 11 de janeiro de 1965.
 
 Autoriza a Leprevost & Cia. Ltda. a pesquisar sericita-xisto e argila, no município de Almirante Tamandaré, Estado do Paraná.

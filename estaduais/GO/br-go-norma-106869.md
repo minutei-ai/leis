@@ -30,7 +30,8 @@ Parágrafo único. O procedimento de cobrança administrativa dos créditos trib
 
 Art. 4º O parcelamento administrativo disciplinado nesta Lei será requerido ao Presidente do Tribunal de Justiça, ou ao Corregedor-Geral da Justiça, a depender da natureza do crédito, podendo ser objeto de delegação por ato próprio, e implicará em confissão irretratável da dívida por parte do sujeito passivo e a expressa renúncia a qualquer defesa ou recurso, bem como desistência em relação aos já interpostos.
 
-Art. 5º O parcelamento poderá ser deferido em até 18 (dezoito) parcelas mensais, observado o disposto na regulamentação própria.<br>
+Art. 5º O parcelamento poderá ser deferido em até 18 (dezoito) parcelas mensais, observado o disposto na regulamentação própria.
+
 \- [Redação dada pela Lei nº 23.994, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111986).
 
 ~~Art. 5º O parcelamento poderá ser deferido em até 40 (quarenta) parcelas mensais e sucessivas, de acordo com o valor da dívida.~~

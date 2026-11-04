@@ -1,5 +1,3 @@
-###DEC-000076-0-000-02-04-1991@@@
-
 DECRETO Nº 76, DE 2 DE ABRIL DE 1991
 
 Dispõe sobre o pessoal inativo das autarquias e fundações públicas extintas e dá outras providências.

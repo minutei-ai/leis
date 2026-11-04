@@ -1,5 +1,3 @@
-###DEC-092984-0-000-24-07-1986@@@
-
 DECRETO Nº 92.984, DE 24 DE JULHO DE 1986
 
 Outorga concessão à RÁDIO ALVORADA DE QUIRINÓPOLIS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Qurinópolis, Estado de Goiás.

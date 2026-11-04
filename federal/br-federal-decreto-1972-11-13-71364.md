@@ -1,5 +1,3 @@
-###DEC-071364-0-000-13-11-1972@@@
-
 DECRETO Nº 71.364 - DE 13 DE NOVEMBRO DE 1972.
 
 Autoriza realização de programas de investimentos na zona dos Alagados, na cidade de Salvador (BA) e dá outras providências.

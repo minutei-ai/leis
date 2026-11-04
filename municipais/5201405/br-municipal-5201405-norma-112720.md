@@ -12,21 +12,178 @@ Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as di
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, AOS 22 DIAS DO MÊS DE OUTUBRO DE 2013.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-DOMINGOS PEREIRA DA SILVA<br>
+DOMINGOS PEREIRA DA SILVA
+
 Secretário Municipal de Educação
 
 ANEXO I
 
-<table><tbody><tr><td colspan="2" style="  height:23px;   ">&nbsp; <b>CATEGORIA FUNCIONAL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Profissional da Educação –I (PE-I)</b> &nbsp;</td></tr><tr><td colspan="2" style="  height:16px;    "><b>DESCRIÇÃO DA FUNÇÃO</b></td></tr><tr><td colspan="2" style="  height:167px;   "><b>Missão:</b> - Exercer atividades docentes na Educação Infantil e no Ensino fundamental bem com atividades de suporte pedagógico direto, incluídas as de direção, planejamento, capacitação, pesquisa, coordenação, supervisão, inspeção, orientação e assistência educacional em Unidades Escolares, Unidades Regionais de Ensino e nas Unidades Técnicas da Secretaria Municipal de Educação. <b>Atribuições:</b> - Elaborar planos de ensino, de aula e projetos educacionais; - Preparar e selecionar material didático, elaborando, aplicando e corrigindo avaliações e atividades dos alunos para assegurar a formação do mesmo; - Exercer atividades administrativas e de apoio pedagógico nas Unidades Escolares, Unidades Regionais de Ensino e nas Unidades Técnicas da Secretaria Municipal.</td></tr><tr><td colspan="2" style="  height:15px;   "><b>CARACTERÍSTICAS BÁSICAS</b></td></tr><tr><td colspan="2" style="  height:16px;    "><b>CAPACIDADE REQUERIDA / REQUISITOS MENTAIS</b></td></tr><tr><td style="  height:178px;   "><b>Escolaridade:</b> - Licenciatura plena completa em Pedagogia com habilitação para docência no Ensino Fundamental – séries iniciais e na Educação Infantil. - Licenciatura plena completa em: Letras-Espanhol ou Letras-Português/Espanhol, Artes Cênicas, Educação Física, ou Dança, Artes Visuais, Música, para docência no Ensino Fundamental series iniciais (1º ao 5º ano). - Licenciatura plena completa em Educação Física, para docência no Ensino Fundamental (1º ao 9º ano). - Licenciatura plena completa em: Letras-Língua Portuguesa, História, Letras-Inglês ou Letras-Português/Inglês, Matemática, Artes, Geografia e Ciências, para docência no Ensino Fundamental Séries finais (6º ao 9º ano). &nbsp;</td><td style="  height:178px;   "><b>Experiência:</b> - Não requerida.</td></tr><tr><td colspan="2" style="  height:33px;   ">Aperfeiçoamento Profissional: - Cursos de treinamento presencial ou virtual com carga horária até 180 horas na área de atuação.</td></tr><tr><td colspan="2" style="  height:61px;   "><b>Iniciativa e Criatividade: </b>Tarefas diversificadas, baseadas em normas e procedimentos simples que dependendo da interpretação e adaptação às situações apresentadas, requerem iniciativa para programar o trabalho e decidir entre alternativas que se apresentam na execução baseando-se em situações precedentes. Requer que o ocupante aceite com desprendimento as novas situações, demonstrando criatividade em suas ações.</td></tr><tr><td colspan="2" style="  height:15px;    "><b>CONDIÇÕES DO TRABALHO / REQUISITOS FÍSICOS</b></td></tr><tr><td colspan="2" style="  height:66px;   "><b>Esforço mental / visual: </b>Tarefas tipicamente minuciosas que exigem do ocupante do cargo, elevado esforço mental / visual, com curtos períodos de relaxamento. &nbsp; <b>Físico: </b>Esforço físico baixo: produz alguma fadiga ao fim do período por exigir que o colaborador permaneça grande parte do tempo em pé.</td></tr><tr><td colspan="2" style="  height:16px;    "><b>RESPONSABILIDADES</b></td></tr><tr><td style="  height:64px;   "><b>Relacionamento Interpessoal:</b> - Contatos que objetiva a coordenação de esforços no sentido de obter cooperação para o cumprimento de diretrizes, normas ou processo determinado.</td><td style="  height:64px;   "><b>Supervisão Exercida:</b> - Supervisiona indiretamente tarefas variadas dando suporte técnico especializado para a realização dos trabalhos.</td></tr><tr><td colspan="2" style="  height:48px;   "><b>Resultados:</b> - Os erros cometidos poderiam causar confusão nas rotinas de trabalho ou afetar as relações na escola e na comunidade, pois seu trabalho exige grande exatidão e senso de responsabilidade – ELEVADA.</td></tr><tr><td colspan="2" style="  height:16px;    "><b>CONDIÇÕES ESSENCIAIS DO PROVIMENTO</b></td></tr><tr><td style="  height:204px;   "><b>Conhecimentos específicos:</b> - Informática Básica; - Licenciatura plena completa em Pedagogia com habilitação para docência no Ensino Fundamental – séries iniciais e na Educação Infantil. - Licenciatura plena completa em: Letras-Espanhol ou Letras-Português/Espanhol, Artes Cênicas, Educação Física, ou Dança, Artes Visuais, Música, para docência no Ensino Fundamental series iniciais (1º ao 5º ano). - Licenciatura plena completa em Educação Física, para docência no Ensino Fundamental (1º ao 9º ano). - Licenciatura plena completa em: Letras-Língua Portuguesa, História, Letras-Inglês ou Letras-Português/Inglês, Matemática, Artes, Geografia e Ciências, para docência no Ensino Fundamental Séries finais (6º ao 9º ano). &nbsp;</td><td style="  height:204px;   "><b>Requisitos para provimento:</b> - Comprovante de escolaridade; - Princípios éticos e valores compatíveis com a instituição; - Provas e cursos internos; &nbsp; &nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">&nbsp; **CATEGORIA FUNCIONAL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Profissional da Educação –I (PE-I)** &nbsp;</td></tr><tr><td colspan="2">**DESCRIÇÃO DA FUNÇÃO**</td></tr><tr><td colspan="2">**Missão:** - Exercer atividades docentes na Educação Infantil e no Ensino fundamental bem com atividades de suporte pedagógico direto, incluídas as de direção, planejamento, capacitação, pesquisa, coordenação, supervisão, inspeção, orientação e assistência educacional em Unidades Escolares, Unidades Regionais de Ensino e nas Unidades Técnicas da Secretaria Municipal de Educação. **Atribuições:** - Elaborar planos de ensino, de aula e projetos educacionais; - Preparar e selecionar material didático, elaborando, aplicando e corrigindo avaliações e atividades dos alunos para assegurar a formação do mesmo; - Exercer atividades administrativas e de apoio pedagógico nas Unidades Escolares, Unidades Regionais de Ensino e nas Unidades Técnicas da Secretaria Municipal.</td></tr><tr><td colspan="2">**CARACTERÍSTICAS BÁSICAS**</td></tr><tr><td colspan="2">**CAPACIDADE REQUERIDA / REQUISITOS MENTAIS**</td></tr><tr><td>**Escolaridade:** - Licenciatura plena completa em Pedagogia com habilitação para docência no Ensino Fundamental – séries iniciais e na Educação Infantil. - Licenciatura plena completa em: Letras-Espanhol ou Letras-Português/Espanhol, Artes Cênicas, Educação Física, ou Dança, Artes Visuais, Música, para docência no Ensino Fundamental series iniciais (1º ao 5º ano). - Licenciatura plena completa em Educação Física, para docência no Ensino Fundamental (1º ao 9º ano). - Licenciatura plena completa em: Letras-Língua Portuguesa, História, Letras-Inglês ou Letras-Português/Inglês, Matemática, Artes, Geografia e Ciências, para docência no Ensino Fundamental Séries finais (6º ao 9º ano). &nbsp;</td><td>**Experiência:** - Não requerida.</td></tr><tr><td colspan="2">Aperfeiçoamento Profissional: - Cursos de treinamento presencial ou virtual com carga horária até 180 horas na área de atuação.</td></tr><tr><td colspan="2">**Iniciativa e Criatividade: **Tarefas diversificadas, baseadas em normas e procedimentos simples que dependendo da interpretação e adaptação às situações apresentadas, requerem iniciativa para programar o trabalho e decidir entre alternativas que se apresentam na execução baseando-se em situações precedentes. Requer que o ocupante aceite com desprendimento as novas situações, demonstrando criatividade em suas ações.</td></tr><tr><td colspan="2">**CONDIÇÕES DO TRABALHO / REQUISITOS FÍSICOS**</td></tr><tr><td colspan="2">**Esforço mental / visual: **Tarefas tipicamente minuciosas que exigem do ocupante do cargo, elevado esforço mental / visual, com curtos períodos de relaxamento. &nbsp; **Físico: **Esforço físico baixo: produz alguma fadiga ao fim do período por exigir que o colaborador permaneça grande parte do tempo em pé.</td></tr><tr><td colspan="2">**RESPONSABILIDADES**</td></tr><tr><td>**Relacionamento Interpessoal:** - Contatos que objetiva a coordenação de esforços no sentido de obter cooperação para o cumprimento de diretrizes, normas ou processo determinado.</td><td>**Supervisão Exercida:** - Supervisiona indiretamente tarefas variadas dando suporte técnico especializado para a realização dos trabalhos.</td></tr><tr><td colspan="2">**Resultados:** - Os erros cometidos poderiam causar confusão nas rotinas de trabalho ou afetar as relações na escola e na comunidade, pois seu trabalho exige grande exatidão e senso de responsabilidade – ELEVADA.</td></tr><tr><td colspan="2">**CONDIÇÕES ESSENCIAIS DO PROVIMENTO**</td></tr><tr><td>**Conhecimentos específicos:** - Informática Básica; - Licenciatura plena completa em Pedagogia com habilitação para docência no Ensino Fundamental – séries iniciais e na Educação Infantil. - Licenciatura plena completa em: Letras-Espanhol ou Letras-Português/Espanhol, Artes Cênicas, Educação Física, ou Dança, Artes Visuais, Música, para docência no Ensino Fundamental series iniciais (1º ao 5º ano). - Licenciatura plena completa em Educação Física, para docência no Ensino Fundamental (1º ao 9º ano). - Licenciatura plena completa em: Letras-Língua Portuguesa, História, Letras-Inglês ou Letras-Português/Inglês, Matemática, Artes, Geografia e Ciências, para docência no Ensino Fundamental Séries finais (6º ao 9º ano). &nbsp;</td><td>**Requisitos para provimento:** - Comprovante de escolaridade; - Princípios éticos e valores compatíveis com a instituição; - Provas e cursos internos; &nbsp; &nbsp;</td></tr></tbody></table>
 
 ANEXO II
 
 QUANTITATIVO POR CARGO
 
-<table><tbody><tr><td style=" width:365px;  height:21px;   "><b>CARGO EFETIVO</b></td><td style=" width:195px;  height:21px;   "><b>QUANTITATIVO</b></td></tr><tr><td style=" width:365px;  height:20px;   ">AUXILIAR DE MERENDEIRA I</td><td style=" width:195px;  height:20px;   ">190</td></tr><tr><td style=" width:365px;  height:20px;   ">AUXILIAR DE SECRETARIA I</td><td style=" width:195px;  height:20px;   ">260</td></tr><tr><td style=" width:365px;  height:20px;   ">AUXILIAR DE SECRETARIA II</td><td style=" width:195px;  height:20px;   ">160</td></tr><tr><td style=" width:365px;  height:20px;   ">AUXILIAR DE SECRETARIA III</td><td style=" width:195px;  height:20px;   ">50</td></tr><tr><td style=" width:365px;  height:20px;   ">BIBLIOTECÁRIO I</td><td style=" width:195px;  height:20px;   ">90</td></tr><tr><td style=" width:365px;  height:20px;   ">BIBLIOTECÁRIO II</td><td style=" width:195px;  height:20px;   ">35</td></tr><tr><td style=" width:365px;  height:20px;   ">BIBLIOTECÁRIO III</td><td style=" width:195px;  height:20px;   ">3</td></tr><tr><td style=" width:365px;  height:20px;   ">INSPETOR DE ALUNOS I</td><td style=" width:195px;  height:20px;   ">160</td></tr><tr><td style=" width:365px;  height:20px;   ">INSPETOR DE ALUNOS II</td><td style=" width:195px;  height:20px;   ">70</td></tr><tr><td style=" width:365px;  height:20px;   ">INSTRUTOR DE INFORMÁTICA I</td><td style=" width:195px;  height:20px;   ">170</td></tr><tr><td style=" width:365px;  height:20px;   ">INSTRUTOR DE INFORMÁTICA II</td><td style=" width:195px;  height:20px;   ">30</td></tr><tr><td style=" width:365px;  height:20px;   ">INTERPRETE DE LIBRAS I</td><td style=" width:195px;  height:20px;   ">100</td></tr><tr><td style=" width:365px;  height:20px;   ">INTERPRETE DE LIBRAS II</td><td style=" width:195px;  height:20px;   ">30</td></tr><tr><td style=" width:365px;  height:20px;   ">INSTRUTOR DE SURDO I</td><td style=" width:195px;  height:20px;   ">100</td></tr><tr><td style=" width:365px;  height:20px;   ">INSTRUTOR DE SURDO II</td><td style=" width:195px;  height:20px;   ">30</td></tr><tr><td style=" width:365px;  height:20px;   ">MERENDEIRA I</td><td style=" width:195px;  height:20px;   ">150</td></tr><tr><td style=" width:365px;  height:20px;   ">MERENDEIRA II</td><td style=" width:195px;  height:20px;   ">45</td></tr><tr><td style=" width:365px;  height:20px;   ">MERENDEIRA III</td><td style=" width:195px;  height:20px;   ">15</td></tr><tr><td style=" width:365px;  height:20px;   ">PROFESSOR DE INFORMÁTICA I</td><td style=" width:195px;  height:20px;   ">70</td></tr><tr><td style=" width:365px;  height:20px;   ">PROFESSOR DE INFORMÁTICA II</td><td style=" width:195px;  height:20px;   ">35</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I ESPECIAL</td><td style=" width:195px;  height:20px;   ">510</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I PEDAGOGIA</td><td style=" width:195px;  height:20px;   ">1435</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I EDUCAÇÃO FÍSICA</td><td style=" width:195px;  height:20px;   ">50</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I LETRAS-ESPANHOL</td><td style=" width:195px;  height:20px;   ">15</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I LETRAS-LÍNGUA PORTUGUESA</td><td style=" width:195px;  height:20px;   ">20</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I LETRAS-INGLÊS</td><td style=" width:195px;  height:20px;   ">15</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I MATEMÁTICA</td><td style=" width:195px;  height:20px;   ">20</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I HISTÓRIA</td><td style=" width:195px;  height:20px;   ">20</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I ARTES CÊNICAS</td><td style=" width:195px;  height:20px;   ">15</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I ARTES</td><td style=" width:195px;  height:20px;   ">15</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I ARTES VISUAIS</td><td style=" width:195px;  height:20px;   ">15</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I MÚSICA</td><td style=" width:195px;  height:20px;   ">20</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I DANÇA</td><td style=" width:195px;  height:20px;   ">20</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I GEOGRAFIA</td><td style=" width:195px;  height:20px;   ">20</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - I CIÊNCIAS</td><td style=" width:195px;  height:20px;   ">20</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - II</td><td style=" width:195px;  height:20px;   ">1104</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - III</td><td style=" width:195px;  height:20px;   ">50</td></tr><tr><td style=" width:365px;  height:20px;   ">PE - IV</td><td style=" width:195px;  height:20px;   ">5</td></tr></tbody></table>
+**CARGO EFETIVO**
+
+**QUANTITATIVO**
+
+AUXILIAR DE MERENDEIRA I
+
+190
+
+AUXILIAR DE SECRETARIA I
+
+260
+
+AUXILIAR DE SECRETARIA II
+
+160
+
+AUXILIAR DE SECRETARIA III
+
+50
+
+BIBLIOTECÁRIO I
+
+90
+
+BIBLIOTECÁRIO II
+
+35
+
+BIBLIOTECÁRIO III
+
+3
+
+INSPETOR DE ALUNOS I
+
+160
+
+INSPETOR DE ALUNOS II
+
+70
+
+INSTRUTOR DE INFORMÁTICA I
+
+170
+
+INSTRUTOR DE INFORMÁTICA II
+
+30
+
+INTERPRETE DE LIBRAS I
+
+100
+
+INTERPRETE DE LIBRAS II
+
+30
+
+INSTRUTOR DE SURDO I
+
+100
+
+INSTRUTOR DE SURDO II
+
+30
+
+MERENDEIRA I
+
+150
+
+MERENDEIRA II
+
+45
+
+MERENDEIRA III
+
+15
+
+PROFESSOR DE INFORMÁTICA I
+
+70
+
+PROFESSOR DE INFORMÁTICA II
+
+35
+
+PE - I ESPECIAL
+
+510
+
+PE - I PEDAGOGIA
+
+1435
+
+PE - I EDUCAÇÃO FÍSICA
+
+50
+
+PE - I LETRAS-ESPANHOL
+
+15
+
+PE - I LETRAS-LÍNGUA PORTUGUESA
+
+20
+
+PE - I LETRAS-INGLÊS
+
+15
+
+PE - I MATEMÁTICA
+
+20
+
+PE - I HISTÓRIA
+
+20
+
+PE - I ARTES CÊNICAS
+
+15
+
+PE - I ARTES
+
+15
+
+PE - I ARTES VISUAIS
+
+15
+
+PE - I MÚSICA
+
+20
+
+PE - I DANÇA
+
+20
+
+PE - I GEOGRAFIA
+
+20
+
+PE - I CIÊNCIAS
+
+20
+
+PE - II
+
+1104
+
+PE - III
+
+50
+
+PE - IV
+
+5

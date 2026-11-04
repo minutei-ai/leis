@@ -1,5 +1,3 @@
-###DEC-007049-0-000-23-12-2009@@@
-
 DECRETO Nº 7.049 DE 23 DE DEZEMBRO DE 2009.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Superintendência de Seguros Privados - SUSEP, e dá outras providências.

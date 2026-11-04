@@ -1,5 +1,3 @@
-###DEL-004014-A-000-13-01-1942@@@
-
 DECRETO-LEI N. 1.014-A - DE 13 DE JANEIRO DE 1942
 
 Cria o Destacamento Misto de Guarnição com sede em Fernando de Noronha

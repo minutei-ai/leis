@@ -1,5 +1,3 @@
-###DEC-004861-0-000-20-10-2003@@@
-
 DECRETO Nº 4.861,  DE 20 DE OUTUBRO DE 2003.
 
        Fixa o valor mínimo anual por aluno de que trata o art. 6º, § 1º, da Lei nº 9.424, de 24 de dezembro de 1996, para o exercício de 2003.
@@ -18,7 +16,10 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 20 de outubro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Antonio Palocci Filho<br>
-Cristovam Ricardo Cavalcanti Buarque<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Antonio Palocci Filho
+
+Cristovam Ricardo Cavalcanti Buarque
+
 Guido Mantega

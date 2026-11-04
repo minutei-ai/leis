@@ -1,5 +1,3 @@
-###DEC-090568-0-000-27-11-1984@@@
-
 Decreto nº 90.568, de 27 de noVeMbrO de 1984
 
 Revoga o Decreto nº 22.744, de 10 de março de 1947.

@@ -1,5 +1,3 @@
-###DEC-050060-0-000-25-01-1961@@@
-
 decreto nº 50.060, de 25 de janeiro de 1961.
 
 Declara de utilidade pública a “Casa das Domésticas” com sede em Belo Horizonte, Estado de Minas Gerais.

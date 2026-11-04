@@ -1,5 +1,3 @@
-###DEC-060214-0-000-14-02-1967@@@
-
 DECRETO Nº 60.214, DE 14 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

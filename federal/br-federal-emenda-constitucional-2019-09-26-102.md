@@ -27,7 +27,6 @@ sha256_markdown: "fba26b2acc5adfecd29c4f0b2b8fa40a7c7a5f35724eb46984063b6d7baa82
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 102, DE 26 DE SETEMBRO DE 2019
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2019/emendaconstitucional-102-26-setembro-2019-789165-publicacaooriginal-159100-pl.html.
 >
-> Este texto não substitui o publicado no DOU de 27.9.2019
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2019-09-26-102.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -118,8 +116,4 @@ Brasília, em 26 de setembro de 2019
 | Deputada SORAYA SANTOS 1ª Secretária | Senador SÉRGIO PETECÃO 1º Secretário |
 | Deputado MÁRIO HERINGER 2º Secretário | Senador EDUARDO GOMES 2º Secretário |
 | Deputado FÁBIO FARIA 3º Secretário | Senador FLÁVIO BOLSONARO 3º Secretário |
-| Deputado ANDRÉ FUFUCA 4º Secretário | Senador LUIS CARLOS HEINZE 4º Secretário |
-
-Este texto não substitui o publicado no DOU 27.9.2019
-
-\*
+| Deputado ANDRÉ FUFUCA 4º Secretário | Senador LUIS CARLOS HEINZE 4º Secretário |\*

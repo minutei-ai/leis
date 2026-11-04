@@ -4,7 +4,8 @@ O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, co
 
 **RESOLVE:**
 
-Art. 1º Fica aberto à SECRETARIA DE ESTADO DE CULTURA, crédito suplementar no valor de R$ 6.436,90 (seis mil quatrocentos e trinta e seis reais e noventa centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.<br>
+Art. 1º Fica aberto à SECRETARIA DE ESTADO DE CULTURA, crédito suplementar no valor de R$ 6.436,90 (seis mil quatrocentos e trinta e seis reais e noventa centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
 \- [Vide errata publicada no D.O. de 16-9-2026](https://admin.legisla.casacivil.go.gov.br/api/v1/arquivos/19134).
 
 Art. 2º Recurso de superávit financeiro oriundo de cancelamento de restos a pagar de empenho da Unidade Orçamentária 2501, fonte: 27190001, documento: 2024.2501.019.00001.
@@ -19,8 +20,14 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2500 - SECRETARIA DE ESTADO DE CULTURA</b><br>2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOMENTO E INCENTIVO À&nbsp; CULTURA GOIANA</td><td style=" width:85px;    ">13 392 1026 2098</td><td style=" width:85px;    ">27190001</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 6.436,90</td><td style=" width:85px;    ">R$ 16.436,90</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**2500 - SECRETARIA DE ESTADO DE CULTURA** 2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>FOMENTO E INCENTIVO À&nbsp; CULTURA GOIANA</td><td>13 392 1026 2098</td><td>27190001</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 10.000,00</td><td>R$ 6.436,90</td><td>R$ 16.436,90</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">27190001 - TRANSFERÊNCIAS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À&nbsp; CULTURA - LEI Nº&nbsp; 14.399/2022 - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 6.436,90</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 6.436,90</td></tr></tbody></table>
+27190001 - TRANSFERÊNCIAS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À  CULTURA - LEI Nº  14.399/2022 - EXERCÍCIOS ANTERIORES
+
+R$ 6.436,90
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 6.436,90

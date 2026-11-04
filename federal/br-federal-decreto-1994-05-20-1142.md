@@ -1,7 +1,3 @@
-1
-
-###DEC-001142-0-000-20-05-1994@@@
-
 DECRETO N° 1.142, DE 20 DE MAIO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão que menciona.

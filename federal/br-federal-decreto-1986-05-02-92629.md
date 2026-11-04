@@ -1,5 +1,3 @@
-###DEC-092629-0-000-02-05-1986@@@
-
 DECRETO Nº 92.629, DE 2 DE MAIO DE 1986
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO BOM JESUS DA LAPA LTDA., para a Fundação Cultural e Educacional Bom Jesus.

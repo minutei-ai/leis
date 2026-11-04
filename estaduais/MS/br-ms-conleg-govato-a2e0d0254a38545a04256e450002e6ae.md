@@ -6,23 +6,28 @@ Declara de Utilidade Pública Estadual a Associação de Pais e Amigos dos Excep
 
 Publicada no Diário Oficial nº 4.104, de 22 de agosto de 1995.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL, no uso de suas<br>
-atribuições legais,<br>
-<br>
-RESOLVE:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual, a Associação de<br>
-Pais e Amigos dos Excepcionais de Bandeirantes, com sede e foro no<br>
-Município de Bandeirantes-MS.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação.<br>
-<br>
-Art. 3º Revogam-se as disposições em contrário.<br>
-<br>
-Campo Grande, 21 de agosto de 1995.<br>
-<br>
-WILSON BARBOSA MARTINS<br>
-Governador<br>
-<br>
-JOÃO PEREIRA DA SILVA<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL, no uso de suas
+
+atribuições legais,
+
+RESOLVE:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual, a Associação de
+
+Pais e Amigos dos Excepcionais de Bandeirantes, com sede e foro no
+
+Município de Bandeirantes-MS.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Campo Grande, 21 de agosto de 1995.
+
+WILSON BARBOSA MARTINS
+
+Governador
+
+JOÃO PEREIRA DA SILVA
+
 Secretário de Estado de Justiça e Trabalho

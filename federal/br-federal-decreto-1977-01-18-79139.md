@@ -1,5 +1,3 @@
-###DEC-079139-0-000-18-01-1977@@@
-
 DECRETO Nº 79.139, DE 18 DE JANEIRO DE 1977.
 
 Autoriza a Universidade de Uberlândia, a ministrar, por sua Faculdade de Filosofia, Ciências e Letras, cursos nos meses de férias, janeiro, fevereiro e julho, na cidade de Monte Carmelo, Estado de Minas Gerais.

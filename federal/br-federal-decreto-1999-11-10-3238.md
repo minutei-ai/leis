@@ -1,5 +1,3 @@
-###DEC-003238-0-000-10-11-1999@@@
-
 DECRETO Nº 3.238, DE 10 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a criação da Reserva Extrativista do Lago do Cuniã, Estado de Rondônia, e dá outras providências.

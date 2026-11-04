@@ -1,7 +1,3 @@
-1
-
-###DEC-095652-0-000-21-01-1988@@@
-
 DECRETO N° 95.652, DE 21 DE JANEIRO DE 1988
 
 Concede à USINAS SIDERÚRGICAS DE MINAS GERAIS S.A.  USIMINAS (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital social.

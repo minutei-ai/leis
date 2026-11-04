@@ -10,7 +10,8 @@ Parágrafo único - A pensão a que se refere a presente Lei será consignada, p
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da rubrica 3.5.08 - 3. 1.4.17, do orçamento em vigor.
 
-Redação de acordo com a Lei nº 2.336, de 23 de maio de 1966.<br>
+Redação de acordo com a Lei nº 2.336, de 23 de maio de 1966.
+
 Redação original: "Art. 2º - Para fazer face, no exercício de 1966, às despesas decorrentes da pensão instituída nesta Lei, fica o Poder Executivo autorizado a abrir, na Secretaria da Fazenda, o crédito especial de Cr$2.400.000 (dois milhões e quatrocentos mil cruzeiros), à conta da verba 3.5.08 - 3.1.4.0, do orçamento de 1966."
 
 Art. 3º - Revogam-se as disposições em contrário.
@@ -25,4 +26,4 @@ Paulo Almeida
 
 Ivo Braga
 
-* * *
+ *

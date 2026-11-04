@@ -1,5 +1,3 @@
-###DEC-051964-A-000-26-04-1963@@@
-
 DECRETO Nº 51.964, DE 26 DE ABRIL DE 1963.
 
 Autoriza emprêsa de mineração Companhia Siderúrgica Cruzeiro do Sul - CRUZUL - a pesquisar dolonita, mármore, minério de ferro e maganês, no município de Santa Bárbara, Estado de Minas Gerais

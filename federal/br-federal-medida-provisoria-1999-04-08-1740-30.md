@@ -1,5 +1,3 @@
-###MPV-001740-0-030-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.740-30, DE 8 DE ABRIL DE 1999
 
 Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências.

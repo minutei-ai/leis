@@ -1,5 +1,3 @@
-###DEC-007897-0-000-01-02-2013-PUB-01@@@
-
 DECRETO Nº\- 7.897, DE 1º\- DE FEVEREIRO DE 2013
 
 Regulamenta a constituição de gravames e ônus sobre ativos financeiros e valores mobiliários em operações realizadas no âmbito do mercado de valores mobiliários ou do sistema de pagamentos brasileiro, de que trata o parágrafo único do art. 63-A da Lei nº 10.931, de 2 de agosto de 2004.

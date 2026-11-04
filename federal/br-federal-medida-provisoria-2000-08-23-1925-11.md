@@ -1,5 +1,3 @@
-###MPV-001925-0-011-23-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.925-11, de 23 de agosto de 2000.
 
 Dispõe sobre a Cédula de Crédito Bancário.

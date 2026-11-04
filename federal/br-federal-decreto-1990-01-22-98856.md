@@ -1,7 +1,3 @@
-1
-
-###DEC-098856-0-000-22-01-1990@@@
-
 DECRETO N° 98.856, DE 22 DE JANEIRO DE 1990
 
 Autoriza a Telecomunicações Brasileiras S.A. TELEBRÁS, a promover aumento de capital social.

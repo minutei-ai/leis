@@ -1,5 +1,3 @@
-###DEC-073303-0-000-13-12-1973@@@
-
 DECRETO Nº 73.303 - de 13 DE DEZEMBRO DE 1973
 
 Concede à Mineração Faisca Ltda. o direito de lavrar pedras semipreciosas, no Município de Teófilo Otoni - Estado de Minas Gerais.

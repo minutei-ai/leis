@@ -1,5 +1,3 @@
-###DEC-006607-0-000-21-10-2008@@@
-
 DECRETO Nº 6.607, DE 21 DE OUTUBRO DE 2008.
 
 Dá nova redação ao art. 3~~º~~ do Decreto n~~º~~ 5.288, de 29 de novembro de 2004, que dispõe sobre o Programa Nacional de Microcrédito Produtivo Orientado - PNMPO.

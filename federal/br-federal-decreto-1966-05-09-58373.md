@@ -1,5 +1,3 @@
-###DEC-058373-0-000-09-05-1966@@@
-
 DECRETO Nº 58.373, de 9 de maio de 1966.
 
 Constitui Grupo Especial de Estudos dos problemas relativos ao aproveitamento do álcool e suas vinculações com a COPERBO.

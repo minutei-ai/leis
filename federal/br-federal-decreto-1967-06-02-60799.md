@@ -1,5 +1,3 @@
-###DEC-060799-0-000-02-06-1967@@@
-
 decreto nº 60.799, de 2 de junho de 1967.
 
 Dispõe sôbre o Estabelecimento Rural do Tapajós, transferido para o Ministério da Agricultura pela Lei número 4.504, de 30 de novembro de 1964.

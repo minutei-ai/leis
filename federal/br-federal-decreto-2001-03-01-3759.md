@@ -1,5 +1,3 @@
-###DEC-003759-0-000-01-03-2001@@@
-
 DECRETO Nº 3.759, DE 1º DE MARÇO DE 2001
 
 Dispõe sobre a execução do Trigésimo Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 1º de setembro de 2000.

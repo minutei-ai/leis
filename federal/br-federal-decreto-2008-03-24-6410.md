@@ -1,5 +1,3 @@
-###DEC-006410-0-000-24-03-2008@@@
-
 DECRETO Nº 6.410, DE 24 DE MARÇO DE 2008.
 
 Dispõe sobre a execução da Ata de Retificação, de 30 de novembro de 2006, do Acordo de Complementação Econômica no 58, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República do Peru.
@@ -22,11 +20,7 @@ Brasília, 24 de março de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 25.3.2008
-
-ATA DE RETIFICAÇÃO
+Celso Luiz Nunes AmorimATA DE RETIFICAÇÃO
 
 ACORDO DE COMPLEMENTAÇÃO ECONÔMICA nº 58
 
@@ -38,7 +32,155 @@ Segundo. Que por Nota no 80, de 23 de março de 2006, a Delegação Permanente d
 
 Terceiro. Que os erros constatados pela Secretaria-Geral no texto em português do Acordo de Complementação Econômica no 58, são os seguintes:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Localização</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Onde consta...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Deve constar:</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Índice - Anexo I</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PÁRÁGRAFO</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PARÁGRAFO</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Índice - Anexo III</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CARGAS</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ENCARGOS</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Índice - Anexo IV</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">GRAVÁMES</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">GRAVAMES</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Índice - Anexo V</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RÉGIME</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">REGIME</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Índice - Anexo X</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">RÉGIME</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">REGIME</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo II-B, Apêndice I-B</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Rodapés 1 a 157</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">…otorgadas…</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">…Paraguay ao Perú…</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">…Apéndice…</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">…outorgadas</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">…Paraguai ao Peru….</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">….Apêndice…</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Anexo II-A, Apêndice II-A Páginas 20 e 25</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nâo se aplica…</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Não se aplica…</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo II-B, Apêndice II-B</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Rodapés 1 a 151</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">…pelo Perú…</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">…Apéndice…</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">…pelo Peru…</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">…Apêndice…</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo II-A, Apêndice IV</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Rodapés 1 a 17</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">… á …</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em; -aw-import:spaces">&nbsp;</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">… à …</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em; -aw-import:spaces">&nbsp;</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo II-A, Apêndice IV</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 16, Título da chamada (1)</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">...ESTÀ...</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">... AGROPECUÀRIOS</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; font-size:0.83em">...(... AGROPECUÀRIO)...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">...ESTÁ...</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">... AGROPECUÁRIOS</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">...(... AGROPECUÁRIO)...</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo II-A, Apêndice IV</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 16, chamada (1)</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">… agràrios...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">… agropecuários…</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo II-B, Apêndice VIII</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Rodapés 1 a 6</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">... a ...</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">... II-A...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">... ao ...</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">... II-B...</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo II-B, Apêndice VIII</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 5, Título da chamada (1)</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">...ESTÀ...</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">... AGROPECUÀRIOS </span><span style="font-family:'  Arial           '; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; font-size:0.83em">...(... AGROPECUÀRIO)...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">...ESTÁ...</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">... AGROPECUÁRIOS </span><span style="font-family:'  Arial           '; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; font-size:0.83em">...(... AGROPECUÁRIO)...</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo II-B, Apêndice VIII</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 5, chamada (1.1)</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">… agrários...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">… agropecuários…</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo III, Notas Argentina</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 4, Número 20</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">...daSaúde.</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em; -aw-import:spaces">&nbsp;</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">...da Saúde.</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo III, Notas Argentina</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 7, Número 39</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">...monitoragem...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">...monitoramento...</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo III, Notas Argentina</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 7, Número 40</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">...anfiboles...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">...anfíbolis...</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo III, Notas Brasil</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 8, Título</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">REPUBLICA...</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em; -aw-import:spaces">&nbsp;</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">REPÚBLICA...</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em; -aw-import:spaces">&nbsp;</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo III, Notas Brasil</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 8, Número 1</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">...Aeroportuaria...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">...Aeroportuária...</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo V, Apêndice 1</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Páginas 76 e 77 (itens 85442000 a 85446090)</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">… de as ...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">... das ...</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo VII</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Artigo 14, letra d)</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 5</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">....noArtigo...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">...no Artigo...</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo VII</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Artigo 15, segundo parágrafo</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 5</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">....deveráo...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">...deverão...</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo VIII, Artigos 1, 5 e 6</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Páginas 3 e 4</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">... comercio...</span></p></td><td style="width:138.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">... comércio...</span></p></td></tr><tr><td style="width:169.4pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:Arial; font-size:0.83em">Anexo IX, Artigo 23, terceiro parágrafo</span><span style="font-family:'  Arial           '"> </span><span style="font-family:Arial; font-size:0.83em">Página 7</span></p></td><td style="width:132.78pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">…a …</span></p></td><td style="width:138.82pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">…à …</span></p></td></tr></tbody></table>
+Localização
+
+Onde consta...
+
+Deve constar:
+
+Índice - Anexo I
+
+PÁRÁGRAFO
+
+PARÁGRAFO
+
+Índice - Anexo III
+
+CARGAS
+
+ENCARGOS
+
+Índice - Anexo IV
+
+GRAVÁMES
+
+GRAVAMES
+
+Índice - Anexo V
+
+RÉGIME
+
+REGIME
+
+Índice - Anexo X
+
+RÉGIME
+
+REGIME
+
+Anexo II-B, Apêndice I-B Rodapés 1 a 157
+
+…otorgadas… …Paraguay ao Perú… …Apéndice…
+
+…outorgadas …Paraguai ao Peru…. ….Apêndice…
+
+Anexo II-A, Apêndice II-A Páginas 20 e 25
+
+Nâo se aplica…
+
+Não se aplica…
+
+Anexo II-B, Apêndice II-B Rodapés 1 a 151
+
+…pelo Perú… …Apéndice…
+
+…pelo Peru… …Apêndice…
+
+Anexo II-A, Apêndice IV Rodapés 1 a 17
+
+… á …
+
+… à …
+
+Anexo II-A, Apêndice IV Página 16, Título da chamada (1)
+
+...ESTÀ... ... AGROPECUÀRIOS  ...(... AGROPECUÀRIO)...
+
+...ESTÁ... ... AGROPECUÁRIOS ...(... AGROPECUÁRIO)...
+
+Anexo II-A, Apêndice IV Página 16, chamada (1)
+
+… agràrios...
+
+… agropecuários…
+
+Anexo II-B, Apêndice VIII Rodapés 1 a 6
+
+... a ... ... II-A...
+
+... ao ... ... II-B...
+
+Anexo II-B, Apêndice VIII Página 5, Título da chamada (1)
+
+...ESTÀ... ... AGROPECUÀRIOS  ...(... AGROPECUÀRIO)...
+
+...ESTÁ... ... AGROPECUÁRIOS  ...(... AGROPECUÁRIO)...
+
+Anexo II-B, Apêndice VIII Página 5, chamada (1.1)
+
+… agrários...
+
+… agropecuários…
+
+Anexo III, Notas Argentina Página 4, Número 20
+
+...daSaúde.
+
+...da Saúde.
+
+Anexo III, Notas Argentina Página 7, Número 39
+
+...monitoragem...
+
+...monitoramento...
+
+Anexo III, Notas Argentina Página 7, Número 40
+
+...anfiboles...
+
+...anfíbolis...
+
+Anexo III, Notas Brasil Página 8, Título
+
+REPUBLICA...
+
+REPÚBLICA...
+
+Anexo III, Notas Brasil Página 8, Número 1
+
+...Aeroportuaria...
+
+...Aeroportuária...
+
+Anexo V, Apêndice 1 Páginas 76 e 77 (itens 85442000 a 85446090)
+
+… de as ...
+
+... das ...
+
+Anexo VII Artigo 14, letra d) Página 5
+
+....noArtigo...
+
+...no Artigo...
+
+Anexo VII Artigo 15, segundo parágrafo Página 5
+
+....deveráo...
+
+...deverão...
+
+Anexo VIII, Artigos 1, 5 e 6 Páginas 3 e 4
+
+... comercio...
+
+... comércio...
+
+Anexo IX, Artigo 23, terceiro parágrafo Página 7
+
+…a …
+
+…à …
 
 Quarto. Que a existência desses erros foi verificada pela Secretaria-Geral, levando ao conhecimento da Representação Argentina junto ao MERCOSUL e à ALADI, da Delegação Permanente do Brasil junto à ALADI e ao MERCOSUL, da Representação Permanente do Paraguai junto à ALADI e ao MERCOSUL, da Representação Permanente do Peru junto à ALADI e MERCOSUR e da Representação Permanente do Uruguai junto à ALADI e ao MERCOSUL, por meio da Nota ALADI/SUB-JRB-148/06, de 14 de março de 2006, estabelecendo um prazo de cinco dias para apresentar observações.
 

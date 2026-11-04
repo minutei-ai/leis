@@ -1,5 +1,3 @@
-###DEC-083274-0-000-12-03-1979@@@
-
 Decreto nº 83.274, de 12 de março de 1979
 
 Autoriza a conversão do curso de Matemática, em curso de Ciências da Faculdade de Filosofia, Ciências e Letras Teresa Martin, com sede na cidade de São Paulo, Estado de São Paulo.

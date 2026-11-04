@@ -1,5 +1,3 @@
-###DEC-076487-0-000-22-10-1975@@@
-
 Decreto Nº 76.487, de 22 de outubro de 1975.
 
 Dispõe sobre a extinção e destino do patrimônio da Comissão de Readaptação dos Incapazes das Forças Armadas (CRIFA) e dá outras providências.

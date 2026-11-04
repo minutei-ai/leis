@@ -1,5 +1,3 @@
-###DEC-080250-0-000-30-08-1977@@@
-
 DECRETO Nº 80.250, DE 30 DE AGOSTO DE 1977.
 
 Concede à Companhia Brasileira do Cobre o direito de lavrar minério de cobre no Município de Caçapava do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-006956-0-000-12-10-1944@@@
-
 DECRETO-LEI N. 6.956 – DE 12 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 270.000,00, á verba que especifica

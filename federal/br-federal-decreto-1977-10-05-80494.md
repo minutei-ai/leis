@@ -1,5 +1,3 @@
-###DEC-080494-0-000-05-10-1977@@@
-
 DECRETO N° 80.494, DE 5 DE OUTUBRO DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

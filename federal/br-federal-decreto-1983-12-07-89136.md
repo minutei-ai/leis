@@ -1,5 +1,3 @@
-###DEC-089136-0-000-07-12-1983@@@
-
 Decreto nº 89.136, de 07 de dezembro de 1983
 
 Autoriza o aumento do Capital Social da Companhia de Eletricidade do Amapá - CEA.

@@ -1,5 +1,3 @@
-###DEC-076617-0-000-17-11-1975@@@
-
 DECRETO Nº 76.617, DE 17 DE NOVEMBRO DE 1975.
 
 Concede à EMIG - Empresa de Mineração Guapi - Modelo Limitada, o direito de lavrar areia, areia quartzosa e cascalho, no Município de Cachoeiras de Macacu, Estado do Rio de Janeiro.

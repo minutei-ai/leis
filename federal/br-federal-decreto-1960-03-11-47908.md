@@ -1,5 +1,3 @@
-###DEC-047908-0-000-11-03-1960@@@
-
 DECRETO Nº 47.908, DE 11 DE MARÇO DE 1960.
 
 Promulga o Protocolo, concluído em Paris, a 19 de novembro de 1948, destinado a colocar sob contrôle internacional as drogas não incluídas na Convenção de 13 de julho de 1931, para limitar a fabricação e regulamentar a distribuição dos estupefacientes, emendada pelo Protocolo assinado em Lake Success, a 11 de dezembro de 1946.

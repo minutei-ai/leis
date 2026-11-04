@@ -1,5 +1,3 @@
-###DEC-057408-0-000-10-12-1965@@@
-
 DECRETO Nº 57.408, DE 10 DE DEZEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

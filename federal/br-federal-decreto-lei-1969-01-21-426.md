@@ -1,5 +1,3 @@
-###DEL-000426-0-000-21-01-1969@@@
-
 DECRETO-LEI Nº 426, de 21 de janeiro de 1969
 
 Decreta a intervenção federal na Cruz Vermelha Brasileira.

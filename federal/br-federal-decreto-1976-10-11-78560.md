@@ -1,5 +1,3 @@
-###DEC-078560-0-000-11-10-1976@@@
-
 DECRETO Nº 78.560, DE 11 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Psicologia, da Faculdade Dom Bosco de Filosofia, Ciências e Letras, com sede na cidade de São João Del Rei, Estado de Minas Gerais.

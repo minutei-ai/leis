@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a74e66e8-9fc5-4afd-ade2-076ec50f924b/texto#nowhere)
 
-###DEL-001045-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.045, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sobre a opção e aproveitamento em caráter definitivo de servidores que exerçam cargo de Procurador da República, nos têrmos da Lei nº 5.010, de 30 de maio de 1966, e dá outras providências.

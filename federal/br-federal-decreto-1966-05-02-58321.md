@@ -1,5 +1,3 @@
-###DEC-058321-0-000-02-05-1966@@@
-
 Decreto nº 58.321, de 2 de maio de 1966.
 
 Autoriza o Departamento de Águas e energia Elétrica do Estado de São Paulo a construir sistemas de distribuição de energia elétrica.
@@ -27,8 +25,6 @@ Brasília, 2 de maio de 1966; 145º da Independência e 78º da República.
 H. Castelo Branco
 
 Mauro Thibau
-
-###DEC-058321-0-000-02-05-1966@@@RET01+++
 
 DECRETO Nº 58.321, DE 2 DE MAIO DE 1966.
 

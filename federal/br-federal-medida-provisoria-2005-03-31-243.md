@@ -1,5 +1,3 @@
-###MPV-000243-0-000-31-03-2005@@@
-
 MEDIDA PROVISÓRIA Nº 243, DE 31 DE MARÇO DE 2005
 
  Altera a legislação tributária Federal e dá outras providências.

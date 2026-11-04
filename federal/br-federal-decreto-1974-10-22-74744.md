@@ -1,5 +1,3 @@
-###DEC-074744-0-000-22-10-1974@@@
-
 DECRETO Nº 74.744, DE 22 DE OUTUBRO DE 1974.
 
 Aprova os Estatutos da Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF -, e dá outras providências.

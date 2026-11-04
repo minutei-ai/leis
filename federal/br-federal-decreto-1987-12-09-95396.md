@@ -1,5 +1,3 @@
-###DEC-095396-0-000-09-12-1987@@@
-
 DECRETO Nº 95.396, DE 09 DE DEZEMBRO DE 1987
 
 Outorga concessão à RÁDIO CRUZEIRO DE PEDRO II LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Pedro II, Estado do Piauí.

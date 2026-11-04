@@ -1,5 +1,3 @@
-###DEC-060596-A-000-15-04-1967@@@
-
 DECRETO Nº 60.596-A, DE 15 DE ABRIL DE 1967.
 
 Defini a organização da Inspetoria Geral das Polícias Militares e dá outras providências.

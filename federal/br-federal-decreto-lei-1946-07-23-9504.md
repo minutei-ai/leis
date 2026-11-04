@@ -1,5 +1,3 @@
-###DEL-009504-0-000-23-07-1946@@@
-
 DECRETO-LEI N. 9.504 – DE 23 DE JULHO DE 1946
 
 Altera dispositivos do Decreto-lei número 9.258, de 14 de  Maio de 1946.

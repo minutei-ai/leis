@@ -1,5 +1,3 @@
-###DEL-006457-0-000-02-05-1944@@@
-
 DECRETO-LEI  N.  6.457 – DE 2 DE MAIO DE 1944
 
 Cria o Serviço de Lucros Extraordinários na Divisão de Impôsto de Renda e dá outras providências

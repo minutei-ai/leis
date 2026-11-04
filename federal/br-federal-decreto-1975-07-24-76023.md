@@ -1,5 +1,3 @@
-###DEC-076023-0-000-24-07-1975@@@
-
 Decreto Nº 76.023 - DE 24 DE JULHO DE 1975.
 
 Altera a redação de dispositivos do Regulamento do Programa de Assistência ao Trabalhador Rural (PRORURAL).

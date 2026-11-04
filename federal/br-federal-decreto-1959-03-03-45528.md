@@ -1,5 +1,3 @@
-###DEC-045528-0-000-03-03-1959@@@
-
 DECRETO Nº 45.528, DE 3 MARÇO DE 1959.
 
 Declara de utilidade pública a “Associação Brasileira de Assistência aos Cancerosos”, com sede no Distrito Federal.

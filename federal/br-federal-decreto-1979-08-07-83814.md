@@ -1,5 +1,3 @@
-###DEC-083814-0-000-07-08-1979@@@
-
 Decreto nº 83.814, de 07 de agosto de 1979.
 
 Regulamenta a concessão de Incentivo Funcional aos servidores pertencentes à Categoria Funcional de Sanitarista, do Grupo-Saúde Pública, e dá outras providências.

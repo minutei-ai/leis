@@ -1,5 +1,3 @@
-###DEC-003511-0-000-16-06-2000@@@
-
 DECRETO Nº 3.511, DE 16 DE JUNHO DE 2000.
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

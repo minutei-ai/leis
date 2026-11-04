@@ -1,5 +1,3 @@
-###DEL-005839-0-000-21-09-1943@@@
-
 DECRETO‑LEI N. 5.839 – DE 21 DE SETEMBRO DE 1943
 
 Dispõe sôbre a administração dos Territórios Federais do Amapá, do Rio Branco, do Guaporé, de Ponta Porã e do Iguassú

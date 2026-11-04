@@ -1,5 +1,3 @@
-###DEC-049553-0-000-17-12-1960@@@
-
 DECRETO Nº 49.553, DE 17 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Boavista de Seguros.
@@ -17,8 +15,6 @@ Brasília, 17 de dezembro de 1960; 139º da Independência e 72º da República.
 Juscelino kubitschek
 
 Allyrio de Salles Coelho
-
-###DEC-049553-0-000-17-12-1960@@@RET01+++
 
 Decreto nº 49.553, de 17 de dezembro de 1960.
 

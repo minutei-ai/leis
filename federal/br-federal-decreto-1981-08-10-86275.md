@@ -1,5 +1,3 @@
-###DEC-086275-0-000-10-08-1981@@@
-
 Decreto nº 86.275, dE 10 dE agosto de 1981
 
 Declara de interesse social, para fins de desapropriação, a área que menciona, situada no Município de Maravilha, no Estado de Santa Catarina, compreendida na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

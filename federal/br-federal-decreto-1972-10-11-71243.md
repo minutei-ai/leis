@@ -1,5 +1,3 @@
-###DEC-071243-0-000-11-10-1972@@@
-
 decreto nº 71.243, de 11 de outubro de 1972.
 
 Aprova o Plano de Reestruturação da Universidade Federal de Minas Gerais, em Belo Horizonte - MG.

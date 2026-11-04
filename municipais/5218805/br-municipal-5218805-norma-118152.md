@@ -6,7 +6,8 @@ Altera Lei Complementar n. 5.727/2009 – Código Tributário do Município de R
 
 Art. 1º Fica alterada a Lei Complementar n. 5.727/2009, de 11 de dezembro de 2009, para inserir o inciso III, no art. 60, Seção IV, que passará a viger com a seguinte redação:
 
-“ Art. 60. ........................................................................................<br>
+“ Art. 60. ........................................................................................
+
 I - ..................................................................................................;
 
 II – (revogado pela Lei 5.809/2010);

@@ -1,5 +1,3 @@
-###DEC-085014-0-000-07-08-1980@@@
-
 Decreto nº 85.014, de 07 de agosto de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Batatais da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

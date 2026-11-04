@@ -1,5 +1,3 @@
-###DEC-055451-0-000-05-01-1965@@@
-
 DECRETO Nº 55.451, DE 5 DE JANEIRO DE 1965.
 
 Autoriza a Magnesita S.A. a lavrar argila, no município de Pitangui, Estado de Minas Gerais.

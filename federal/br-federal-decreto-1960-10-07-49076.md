@@ -1,5 +1,3 @@
-###DEC-049076-0-000-07-10-1960@@@
-
 DECRETO Nº 49.076, DE 7 DE OUTUBRO DE 1960.
 
 Autoriza o Govêrno do Estado do Rio de Janeiro a ampliar seu sistema de transmissão de energia elétrica, mediante a construção de uma linha de transmissão entre os distritos sede dos municípios de São Pedro da Aldeia e Araruama, e dá outras providências.

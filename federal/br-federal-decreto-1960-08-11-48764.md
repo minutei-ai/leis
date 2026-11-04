@@ -1,5 +1,3 @@
-###DEC-048764-0-000-11-08-1960@@@
-
 decreto nº 48.764, de 11 de agôsto de 1960.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

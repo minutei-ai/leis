@@ -1,5 +1,3 @@
-###DEC-044889-0-000-27-11-1958@@@
-
 Decreto nº 44.889, de 27 de novembro de 1958.
 
 Transfere, sem aumento de despesa, funções de referências únicas da Tabela Única de Extranumerário-Mensalista do Departamento Administrativo do Serviço Público para idêntica Tabela do Ministério do Trabalho, Indústria e comércio, e dá outras providências.

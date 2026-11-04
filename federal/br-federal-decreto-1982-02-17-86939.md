@@ -1,5 +1,3 @@
-###DEC-086939-0-000-17-02-1982@@@
-
 Decreto nº 86.939, dE 17 de fevereiro de 1982
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO DIFUSORA DE TERESINA LIMITADA, autoriza a transferência direta para a TV ACAUÃ LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Teresina, Estado do Piauí.

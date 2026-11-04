@@ -1,5 +1,3 @@
-###DEC-007708-0-000-02-03-2012-PUB-01@@@
-
 DECRETO Nº 7.708, DE 2 DE ABRIL DE 2012
 
 Institui a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio - NBS e as Notas Explicativas da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio - NEBS.

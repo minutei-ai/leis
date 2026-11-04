@@ -1,5 +1,3 @@
-###DEC-075273-0-000-23-01-1975@@@
-
 DECRETO Nº 75.273, DE 23 DE JANEIRO DE 1975.
 
 Declara a caducidade do Manifesto de Mina que menciona.

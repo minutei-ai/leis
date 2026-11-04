@@ -1,5 +1,3 @@
-###DEC-092093-0-000-09-12-1985@@@
-
 Decreto nº 92.093, de 09 de dezembro de 1985.
 
 Altera dispositivo do Decreto 70.951, de 9 de agosto de 1972.

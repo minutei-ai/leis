@@ -1,11 +1,13 @@
-LEI COMPLEMENTAR Nº 118, DE 04 DE JANEIRO DE 2016.<br>
+LEI COMPLEMENTAR Nº 118, DE 04 DE JANEIRO DE 2016.
+
 (Revogada pela Lei Complementar nº 167, de 10 de outubro de 2019).
 
 ~~Dispõe sobre a criação do Parque Tecnológico de Aparecida de Goiânia - APARECIDATEC e dá outras providências.~~
 
 ~~FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA – GO APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:~~
 
-~~Capítulo I<br>
+~~Capítulo I
+
 Da Criação do Parque Tecnológico de Aparecida de Goiânia - APARECIDATEC~~
 
 ~~Art. 1º. Com o intuito de fomentar o desenvolvimento econômico, geração de emprego e tributos ao Município de Aparecida de Goiânia, fica criado o Parque Tecnológico de Aparecida de Goiânia - APARECIDATEC.~~
@@ -26,7 +28,8 @@ Da Criação do Parque Tecnológico de Aparecida de Goiânia - APARECIDATEC~~
 
 ~~Parágrafo Único. Os projetos conterão vias de circulação e os módulos empresariais de pequeno, médio e grande porte, afim de atender a cada empresa e/ou conjunto de empresas de conformidade com sua capacidade.~~
 
-~~CAPÍTULO II<br>
+~~CAPÍTULO II
+
 DOS OBJETIVOS~~
 
 ~~Art. 6º. O APARECIDATEC tem como propósito criar um ambiente de convivência e sinergia entre universidades, o Poder Público e empresas que realizem atividades de pesquisa, desenvolvimento e inovação (PD&I), por meio da instalação de unidades de P&D e atividades voltadas a produtos e processos inovadores.~~
@@ -51,7 +54,8 @@ DOS OBJETIVOS~~
 
 ~~VIII - estimular a cooperação universidade-empresa, com benefícios recíprocos para ambas;~~
 
-~~CAPÍTULO III<br>
+~~CAPÍTULO III
+
 DA PARTICIPAÇAO DE ICTs~~
 
 ~~Art. 9º. O APARECIDATEC será implantado pelo Município de Aparecida de Goiânia e contará com apoio de Instituições Cientificas e Tecnológicas (ICTs).~~
@@ -62,24 +66,28 @@ DA PARTICIPAÇAO DE ICTs~~
 
 ~~Art. 11. Compete as ICTs facilitarem a cooperação e o acesso de empresas instaladas no APARECIDATEC aos serviços e recursos de apoio científico, tecnológico e de suporte técnico de forma compartilhada para desenvolvimento de pesquisas tecnológicas, elaboração ou aperfeiçoamento de produtos e/ou serviços, desde que tal cooperação não interfira diretamente na sua atividade-fim, nem com ela conflite.~~
 
-~~CAPÍTULO IV<br>
+~~CAPÍTULO IV
+
 DA DELEGAÇÃO DA ADMINISTRAÇÃO~~
 
 ~~Art. 12. Fica definido que o município determinará um modelo de governança através de diretrizes de um estatuto interno de condomínio, que será determinado pela tríplice hélice da inovação (Governo municipal, universidade e iniciativa privada).~~
 
-~~CAPITULO V<br>
+~~CAPITULO V
+
 DA MANUTENÇÃO~~
 
 ~~Art. 13. As empresas que vierem a se estabelecer no APARECIDATEC deverão contribuir mensalmente com um valor que será calculado com base no espaço físico utilizado pelo empreendimento em metros quadrados, multiplicado por uma variável denominada Valor do Espaço Compartilhado - VEC que terá seu valor inicial definido na modalidade de condomínio e reajustado anualmente, por ato do Chefe do Poder Executivo.~~
 
 ~~Parágrafo Único. A contribuição prevista no caput será gerida pela Secretaria Municipal de Indústria, Comércio, Ciência, Tecnologia e Turismo – SICCT diretamente ou por outra entidade delegatária, sendo que esse recurso só poderá ser utilizado no custeio e em investimentos na infraestrutura e conservação do APARECIDATEC e nas próprias despesas dessas entidades.~~
 
-~~CAPITULO VI<br>
+~~CAPITULO VI
+
 DOS INCENTIVOS PARA INSTALAÇÃO DE EMPRESAS NO APARECIDATEC~~
 
 ~~Art. 15. Além da concessão de áreas prevista no Capítulo III, o Município de Aparecida de Goiânia poderá instituir como incentivo para as empresas que se instalarem no APARECIDATEC o Imposto sobre Serviços de Qualquer Natureza – ISSQN, com alíquota de 2%.~~
 
-~~CAPITULO VI<br>
+~~CAPITULO VI
+
 Das Disposições Gerais~~
 
 ~~Art. 16. Essa Lei será regulamentada em 90 (noventa) dias pelo Poder Executivo Municipal após publicação.~~
@@ -88,14 +96,18 @@ Das Disposições Gerais~~
 
 ~~Gabinete do Prefeito do Município de Aparecida Goiânia, aos 04 dias do mês de Janeiro do ano de 2016.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~
 
-~~CARLOS EDUARDO DE PAULA RODRIGUES<br>
+~~CARLOS EDUARDO DE PAULA RODRIGUES
+
 Secretário Municipal da Fazenda~~
 
-~~RALPH VICENTE<br>
+~~RALPH VICENTE
+
 Secretário Municipal de Indústria, Comércio, Ciência e Tecnologia~~

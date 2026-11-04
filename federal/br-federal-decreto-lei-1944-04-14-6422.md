@@ -1,5 +1,3 @@
-###DEL-006422-0-000-14-04-1944@@@
-
 DECRETO-LEI N. 6.422 – DE 14 DE ABRIL DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 2.848.212,00, à verba que especifica

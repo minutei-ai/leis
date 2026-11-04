@@ -1,5 +1,3 @@
-###DEC-047076-0-000-22-10-1959@@@
-
 DECRETO Nº 47.076, DE 22 DE OUTUBRO DE 1959.
 
 Autoriza estrangeiro a adquirir, em regime de ocupação, terreno de marinha que menciona, em Recife, Pernambuco.

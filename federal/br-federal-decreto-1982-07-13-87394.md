@@ -1,5 +1,3 @@
-###DEC-087394-0-000-13-07-1982@@@
-
 Decreto nº 87.394, de 13 de julho de 1982
 
 Conceda à Companhia Aços Especiais Itabira - ACESITA autorização para proceder a aumento do seu capital social.

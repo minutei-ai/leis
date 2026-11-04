@@ -1,5 +1,3 @@
-###DEC-084350-0-000-27-12-1979@@@
-
 DECRETO Nº 84.350, DE 27 DE DEZEMBRO DE 1979.
 
 Revoga o Decreto nº 62.980, de 12 de junho de 1968.

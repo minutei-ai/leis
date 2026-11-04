@@ -1,5 +1,3 @@
-###DEC-075079-0-000-12-12-1974@@@
-
 DECRETO nº 75.079, DE 12 DE DEZEMBRO DE 1974.
 
 Dispõe sobre a organização das Escolas Técnicas Federais e dá outras providências.

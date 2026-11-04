@@ -1,5 +1,3 @@
-###DEC-002352-0-000-20-10-1997@@@
-
 DECRETO Nº 2.352, DE 20 DE OUTUBRO DE 1997
 
 Cria o Grupo Executivo para a Conclusão do Projeto de Reassentamento de Populações da Usina Hidrelétrica de ltaparica.

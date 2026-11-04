@@ -1,6 +1,10 @@
 Lei Ordinária n° 20.912 / 2020
 
-<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%"><p style="TEXT-ALIGN: right" align="right">&nbsp;</p></td></tr><tr><td width="100%"><p style="TEXT-ALIGN: center" align="center"><font color="#808000" size="2" face="Arial"><img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif"><br><strong>GOVERNO DO ESTADO DE GOIÁS</strong></font><font size="2" face="Arial"><br></font><strong><font size="2" color="#808000" face="Arial">Secretaria de Estado da Casa Civil</font></strong></p></td></tr></tbody></table>
+<img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
+**GOVERNO DO ESTADO DE GOIÁS**
+
+**Secretaria de Estado da Casa Civil
+**
 
 **LEI Nº 20.912, DE 08 DE DEZEMBRO DE 2020.**
 
@@ -26,20 +30,314 @@ Governador do Estado
 
  **ANEXO I**
 
-<table class="tablepoct" border="1" cellspacing="0" cellpadding="0" width="415" style="width: 80%; border-collapse: collapse; border: medium none; margin-left: 1.4pt" id="table1"><tbody><tr><td width="10" style="width: 5.65pt; border: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Exercício</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2020</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Órgão</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Unidade</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Função</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">04 - ADMINISTRAÇÃO</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Subfunção</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">122 - ADMINISTRAÇÃO GERAL</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Programa</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">4100 - ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Ação</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">4118 - FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SEDUC</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Grupo de Despesa</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">03 - OUTRAS DESPESAS CORRENTES</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Fonte</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">100 - RECEITAS ORDINÁRIAS</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Modalidade Aplicação</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">90 - APLICAÇÕES DIRETAS</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt" align="justify"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Valor</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">R$ 1.370.690,00</span></p></td></tr></tbody></table>
+Exercício
+
+2020
+
+Órgão
+
+2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO
+
+Unidade
+
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+Função
+
+04 - ADMINISTRAÇÃO
+
+Subfunção
+
+122 - ADMINISTRAÇÃO GERAL
+
+Programa
+
+4100 - ENCARGOS DA FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS
+
+Ação
+
+4118 - FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SEDUC
+
+Grupo de Despesa
+
+03 - OUTRAS DESPESAS CORRENTES
+
+Fonte
+
+100 - RECEITAS ORDINÁRIAS
+
+Modalidade Aplicação
+
+90 - APLICAÇÕES DIRETAS
+
+Valor
+
+R$ 1.370.690,00
 
 **ANEXO II** 
 
-<table class="tablepoct" border="1" cellspacing="0" cellpadding="0" width="415" style="width: 80%; border-collapse: collapse; border: medium none; margin-left: 1.4pt" id="table2"><tbody><tr><td width="10" style="width: 5.65pt; border: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Exercício</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2020</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Órgão</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1100 - SECRETARIA DE ESTADO DA CASA CIVIL &nbsp;</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Unidade</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1101 - GABINETE DO SECRETÁRIO DA CASA CIVIL</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Função</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">04 - ADMINISTRAÇÃO</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Subfunção</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">122 - ADMINISTRAÇÃO GERAL</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Programa</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1013 - PARTICIPAÇÃO E CONTROLE SOCIAL</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Ação</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">3017 - REVISÃO DO ORDENAMENTO JURÍDICO ESTADUAL</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Grupo de Despesa</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">03 - OUTRAS DESPESAS CORRENTES</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Fonte</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">100 - RECEITAS ORDINÁRIAS</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Modalidade Aplicação</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">90 - APLICAÇÕES DIRETAS</span></p></td></tr><tr><td width="10" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Valor</span></p></td><td width="10" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">R$ 200.000,00</span></p></td></tr></tbody></table>
+Exercício
 
-<table class="tablepoct" border="1" cellspacing="0" cellpadding="0" width="415" style="width: 80%; border-collapse: collapse; border: medium none; margin-left: 1.4pt" id="table3"><tbody><tr><td width="10" valign="top" style="width: 5.65pt; border: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Exercício</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2020</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Órgão</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1100 - SECRETARIA DE ESTADO DA CASA CIVIL &nbsp;</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Unidade</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1101 - GABINETE DO SECRETÁRIO DA CASA CIVIL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Função</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">04 - ADMINISTRAÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Subfunção</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">122 - ADMINISTRAÇÃO GERAL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Programa</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1013 - PARTICIPAÇÃO E CONTROLE SOCIAL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Ação</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">3017 - REVISÃO DO ORDENAMENTO JURÍDICO ESTADUAL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Grupo de Despesa</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">04 - INVESTIMENTOS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Fonte</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">100 - RECEITAS ORDINÁRIAS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Modalidade Aplicação</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">90 - APLICAÇÕES DIRETAS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Valor</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">R$ 70.000,00</span></p></td></tr></tbody></table>
+2020
 
-<table class="tablepoct" border="1" cellspacing="0" cellpadding="0" width="415" style="width: 80%; border-collapse: collapse; border: medium none; margin-left: 1.4pt" id="table4"><tbody><tr><td width="10" valign="top" style="width: 5.65pt; border: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Exercício</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2020</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Órgão</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1100 - SECRETARIA DE ESTADO DA CASA CIVIL &nbsp;</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Unidade</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1101 - GABINETE DO SECRETÁRIO DA CASA CIVIL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Função</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">04 - ADMINISTRAÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Subfunção</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">122 - ADMINISTRAÇÃO GERAL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Programa</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">4200 - GESTÃO E MANUTENÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Ação</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">4202 - GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA CASA CIVIL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Grupo de Despesa</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">03 - OUTRAS DESPESAS CORRENTES</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Fonte</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">100 - RECEITAS ORDINÁRIAS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Modalidade Aplicação</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">90 - APLICAÇÕES DIRETAS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Valor</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">R$ 240.000,00</span></p></td></tr></tbody></table>
+Órgão
 
-<table class="tablepoct" border="1" cellspacing="0" cellpadding="0" width="415" style="width: 80%; border-collapse: collapse; border: medium none; margin-left: 1.4pt" id="table5"><tbody><tr><td width="10" valign="top" style="width: 5.65pt; border: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Exercício</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2020</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Órgão</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1100 - SECRETARIA DE ESTADO DA CASA CIVIL &nbsp;</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Unidade</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1101 - GABINETE DO SECRETÁRIO DA CASA CIVIL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Função</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">04 - ADMINISTRAÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Subfunção</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">122 - ADMINISTRAÇÃO GERAL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Programa</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">4200 - GESTÃO E MANUTENÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Ação</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">4202 - GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA CASA CIVIL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Grupo de Despesa</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">04 - INVESTIMENTOS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Fonte</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">100 - RECEITAS ORDINÁRIAS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Modalidade Aplicação</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">90 - APLICAÇÕES DIRETAS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Valor</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">R$ 90.000,00</span></p></td></tr></tbody></table>
+1100 - SECRETARIA DE ESTADO DA CASA CIVIL
 
-<table class="tablepoct" border="1" cellspacing="0" cellpadding="0" width="415" style="width: 80%; border-collapse: collapse; border: medium none; margin-left: 1.4pt" id="table6"><tbody><tr><td width="10" valign="top" style="width: 5.65pt; border: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Exercício</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2020</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Órgão</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Unidade</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Função</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">12 - EDUCAÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Subfunção</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">122 - ADMINISTRAÇÃO GERAL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Programa</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">4200 - GESTÃO E MANUTENÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Ação</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">4218 - GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA SEDUC</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Grupo de Despesa</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">03 - OUTRAS DESPESAS CORRENTES</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Fonte</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">100 - RECEITAS ORDINÁRIAS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Modalidade Aplicação</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="text-align: justify; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">91 - APLICAÇÃO DIRETA DECORRENTE DE OPERAÇÕES ENTRE ÓRGÃOS, FUNDOS E ENTIDADES INTEGRANTES DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Valor</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">R$ 57.143,18</span></p></td></tr></tbody></table>
+Unidade
 
-<table class="tablepoct" border="1" cellspacing="0" cellpadding="0" width="415" style="width: 80%; border-collapse: collapse; border: medium none; margin-left: 1.4pt" id="table7"><tbody><tr><td width="10" valign="top" style="width: 5.65pt; border: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Exercício</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">2020</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Órgão</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1700 - SECRETARIA DE ESTADO DA ECONOMIA</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Unidade</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Função</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">04 - ADMINISTRAÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Subfunção</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">122 - ADMINISTRAÇÃO GERAL</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Programa</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">4200 - GESTÃO E MANUTENÇÃO</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Ação</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">4209 - GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA ECONOMIA</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Grupo de Despesa</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">03 - OUTRAS DESPESAS CORRENTES</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Fonte</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">100 - RECEITAS ORDINÁRIAS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Modalidade Aplicação</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">90 - APLICAÇÕES DIRETAS</span></p></td></tr><tr><td width="10" valign="top" style="width: 5.65pt; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" style="line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">Valor</span></p></td><td width="10" valign="top" style="width: 5.65pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding: 1.4pt"><p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-top: 0; margin-bottom: 0"><span style="font-size: 8.0pt; font-family: Arial; background: white">R$ 713.546,82</span></p></td></tr></tbody></table>
+1101 - GABINETE DO SECRETÁRIO DA CASA CIVIL
+
+Função
+
+04 - ADMINISTRAÇÃO
+
+Subfunção
+
+122 - ADMINISTRAÇÃO GERAL
+
+Programa
+
+1013 - PARTICIPAÇÃO E CONTROLE SOCIAL
+
+Ação
+
+3017 - REVISÃO DO ORDENAMENTO JURÍDICO ESTADUAL
+
+Grupo de Despesa
+
+03 - OUTRAS DESPESAS CORRENTES
+
+Fonte
+
+100 - RECEITAS ORDINÁRIAS
+
+Modalidade Aplicação
+
+90 - APLICAÇÕES DIRETAS
+
+Valor
+
+R$ 200.000,00
+
+Exercício
+
+2020
+
+Órgão
+
+1100 - SECRETARIA DE ESTADO DA CASA CIVIL
+
+Unidade
+
+1101 - GABINETE DO SECRETÁRIO DA CASA CIVIL
+
+Função
+
+04 - ADMINISTRAÇÃO
+
+Subfunção
+
+122 - ADMINISTRAÇÃO GERAL
+
+Programa
+
+1013 - PARTICIPAÇÃO E CONTROLE SOCIAL
+
+Ação
+
+3017 - REVISÃO DO ORDENAMENTO JURÍDICO ESTADUAL
+
+Grupo de Despesa
+
+04 - INVESTIMENTOS
+
+Fonte
+
+100 - RECEITAS ORDINÁRIAS
+
+Modalidade Aplicação
+
+90 - APLICAÇÕES DIRETAS
+
+Valor
+
+R$ 70.000,00
+
+Exercício
+
+2020
+
+Órgão
+
+1100 - SECRETARIA DE ESTADO DA CASA CIVIL
+
+Unidade
+
+1101 - GABINETE DO SECRETÁRIO DA CASA CIVIL
+
+Função
+
+04 - ADMINISTRAÇÃO
+
+Subfunção
+
+122 - ADMINISTRAÇÃO GERAL
+
+Programa
+
+4200 - GESTÃO E MANUTENÇÃO
+
+Ação
+
+4202 - GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA CASA CIVIL
+
+Grupo de Despesa
+
+03 - OUTRAS DESPESAS CORRENTES
+
+Fonte
+
+100 - RECEITAS ORDINÁRIAS
+
+Modalidade Aplicação
+
+90 - APLICAÇÕES DIRETAS
+
+Valor
+
+R$ 240.000,00
+
+Exercício
+
+2020
+
+Órgão
+
+1100 - SECRETARIA DE ESTADO DA CASA CIVIL
+
+Unidade
+
+1101 - GABINETE DO SECRETÁRIO DA CASA CIVIL
+
+Função
+
+04 - ADMINISTRAÇÃO
+
+Subfunção
+
+122 - ADMINISTRAÇÃO GERAL
+
+Programa
+
+4200 - GESTÃO E MANUTENÇÃO
+
+Ação
+
+4202 - GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA CASA CIVIL
+
+Grupo de Despesa
+
+04 - INVESTIMENTOS
+
+Fonte
+
+100 - RECEITAS ORDINÁRIAS
+
+Modalidade Aplicação
+
+90 - APLICAÇÕES DIRETAS
+
+Valor
+
+R$ 90.000,00
+
+Exercício
+
+2020
+
+Órgão
+
+2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO
+
+Unidade
+
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+Função
+
+12 - EDUCAÇÃO
+
+Subfunção
+
+122 - ADMINISTRAÇÃO GERAL
+
+Programa
+
+4200 - GESTÃO E MANUTENÇÃO
+
+Ação
+
+4218 - GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA SEDUC
+
+Grupo de Despesa
+
+03 - OUTRAS DESPESAS CORRENTES
+
+Fonte
+
+100 - RECEITAS ORDINÁRIAS
+
+Modalidade Aplicação
+
+91 - APLICAÇÃO DIRETA DECORRENTE DE OPERAÇÕES ENTRE ÓRGÃOS, FUNDOS E ENTIDADES INTEGRANTES DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
+
+Valor
+
+R$ 57.143,18
+
+Exercício
+
+2020
+
+Órgão
+
+1700 - SECRETARIA DE ESTADO DA ECONOMIA
+
+Unidade
+
+1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA
+
+Função
+
+04 - ADMINISTRAÇÃO
+
+Subfunção
+
+122 - ADMINISTRAÇÃO GERAL
+
+Programa
+
+4200 - GESTÃO E MANUTENÇÃO
+
+Ação
+
+4209 - GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA ECONOMIA
+
+Grupo de Despesa
+
+03 - OUTRAS DESPESAS CORRENTES
+
+Fonte
+
+100 - RECEITAS ORDINÁRIAS
+
+Modalidade Aplicação
+
+90 - APLICAÇÕES DIRETAS
+
+Valor
+
+R$ 713.546,82
 
 _Este texto não substitui o publicado no Suplemento do D.O. de 08-12-2020._

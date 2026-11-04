@@ -1,5 +1,3 @@
-###DEC-006020-0-000-22-01-2007@@@
-
 DECRETO Nº 6.020, DE 22 DE JANEIRO DE 2007.
 
 Dispõe sobre a dissolução e liquidação da Companhia de Navegação do São Francisco - FRANAVE.
@@ -59,5 +57,3 @@ Paulo Sérgio Oliveira Passos
 Luiz Fernando Furlan
 
 João Bernardo de Azevedo Bringel
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra

@@ -1,5 +1,3 @@
-###DEC-049410-0-000-02-12-1960@@@
-
 DECRETO Nº 49.410, DE 2 DE DEZEMBRO DE 1960.
 
 Autoriza Bornhausen & Cia. Limitada a pesquisar calcário, no município de Rio do Sul, Estado de Santa Catarina.

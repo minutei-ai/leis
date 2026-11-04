@@ -1,5 +1,3 @@
-###DEL-003691-0-000-06-10-1941@@@
-
 DECRETO-LEI N. 3.691 – DE 6 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Marinha, o credito especial de 36:000$0 para atender à despesa com a admissão de pessoal extranumerário contratado e dá outras providências

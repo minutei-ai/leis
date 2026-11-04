@@ -1,5 +1,3 @@
-###DEC-053110-0-000-10-12-1963@@@
-
 DECRETO Nº 53.110, de 10 DE DEZEMBRO DE 1963.
 
 Renova o Decreto n 49.291, de 19 de novembro de 1960.

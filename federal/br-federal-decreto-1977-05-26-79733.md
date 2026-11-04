@@ -1,5 +1,3 @@
-###DEC-079733-0-000-26-05-1977@@@
-
 DECRETO Nº 79.733, DE 26 DE MAIO DE 1977.
 
 Concede reconhecimento à habilitação em Orientação Educacional, do curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Cruzeiro, com sede na Cidade de Cruzeiro, Estado de São Paulo.

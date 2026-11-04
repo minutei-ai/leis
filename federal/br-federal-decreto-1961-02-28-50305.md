@@ -1,5 +1,3 @@
-###DEC-050305-0-000-28-02-1961@@@
-
 DECRETO Nº 50.305, DE 28 DE FEVEREIRO DE 1961.
 
 Concede reconhecimento a cursos.

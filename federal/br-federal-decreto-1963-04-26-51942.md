@@ -1,5 +1,3 @@
-###DEC-051942-0-000-26-04-1963@@@
-
 DECRETO Nº 51.942, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Sylvio Costa Rodrigues a pesquisar quartzo e mica, no município de Galiléia, Estado de Minas Gerais.

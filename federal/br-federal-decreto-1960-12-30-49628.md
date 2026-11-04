@@ -1,5 +1,3 @@
-###DEC-049628-0-000-30-12-1960@@@
-
 DECRETO Nº 49.628, DE 30 DE DEZEMBRO DE 1960.
 
 Concede à Ordim, Organização de Indústria Metalúrgica Limitada, autorização para funcionar como emprêsa de mineração.

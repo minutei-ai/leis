@@ -1,5 +1,3 @@
-###DEC-045151-0-000-31-12-1958@@@
-
 decreto nº 45.151, de 31 de dezembro de 1958.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S.A. - Petrobrás, em caráter de urgência, área de terrenos situada na ilha do Governador, entre a Praia do Barão e a Praia da Pelônias, no Distrito Federal.

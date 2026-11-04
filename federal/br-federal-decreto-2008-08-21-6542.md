@@ -1,5 +1,3 @@
-###DEC-006542-0-000-21-08-2008@@@
-
 DECRETO Nº 6.542, DE 21 DE AGOSTO DE 2008.
 
 Dispõe sobre a execução do Sexagésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica no 18, entre os Governos da República da Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, de 11 de abril de 2008.

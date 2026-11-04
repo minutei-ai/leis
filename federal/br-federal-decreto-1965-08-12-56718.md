@@ -1,5 +1,3 @@
-###DEC-056718-0-000-12-08-1965@@@
-
 decreto nº 56.718, de 12 de agôsto de 1965.
 
 Altera dispositivos do Regulamento para o Comando da Zona Aérea.

@@ -4,7 +4,8 @@ Institui, sob a forma de Fundação Estatal de Direito Público, o Museu Artíst
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA INSTITUIÇÃO E FINALIDADE
 
 Art. 1º - Fica instituído, nos termos do art. 37, inciso XIX, da Constituição Federal e da Lei Complementar Estadual nº 29, de 21 de dezembro de 2007, sob a forma de fundação estatal, com personalidade jurídica de direito público, o Museu Artístico e Ecológico FransKrajcberg, com patrimônio e receitas próprios, com autonomias gerencial, patrimonial, orçamentária e financeira, observadas as regras desta Lei.
@@ -19,7 +20,8 @@ Art. 3º - O Museu Artístico e Ecológico FransKrajcberg estará sujeito à fis
 
 Art. 4º - O Museu Artístico e Ecológico FransKrajcberg reger-se-á por esta Lei e por seu estatuto social.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PATRIMÔNIO E DAS RECEITAS
 
 Art. 5º - O patrimônio do Museu Artístico e Ecológico FransKrajcberg será constituído por:
@@ -50,7 +52,8 @@ V - as resultantes da alienação de bens não essenciais à sua finalidade, aut
 
 VI - as resultantes de aplicações financeiras, na forma da legislação vigente.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ESTRUTURA
 
 Art. 7º - O Museu Artístico e Ecológico FransKrajcberg contará com os seguintes órgãos:
@@ -113,7 +116,8 @@ III - 01 (um) membro indicado pela Secretaria da Fazenda.
 
 Art. 11 - O Museu Artístico e Ecológico FransKrajcberg contará em sua estrutura com uma Assessoria Jurídica, vinculada à Diretoria Geral, que exercerá atividades de consultoria e assessoramento jurídicos diretamente à Fundação, em caráter eventual ou permanente, conforme a natureza dos serviços e a intensidade da demanda.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO REGIME DE EMPREGO E DO PESSOAL
 
 Art. 12 - O regime jurídico que regerá as relações de trabalho do Museu Artístico e Ecológico FransKrajcberg será o previsto na Lei nº 6.677, de 26 de setembro de 1994, e demais normas pertinentes.
@@ -124,7 +128,8 @@ Art. 12 - O regime jurídico que regerá as relações de trabalho do Museu Art�
 
 § 3º - O concurso público poderá ser realizado para provimento permanente de pessoal, conforme disponibilidade financeira e de vagas criadas por lei específica.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS RESPONSABILIDADES DOS DIRIGENTES
 
 Art. 13 - Constitui responsabilidade dos membros do Conselho Curador e da Diretoria Executiva o fiel cumprimento das cláusulas do contrato de gestão firmado com a Secretaria de Cultura, especialmente no que se refere ao plano de trabalho.
@@ -143,14 +148,16 @@ II - com violação da lei, do estatuto e do contrato de gestão.
 
 Parágrafo único - Exime-se de responsabilidade o dirigente que faça consignar sua divergência em ata de reunião do Conselho Curador ou da Diretoria Executiva ou, não sendo possível, dela dê ciência à Secretaria de Cultura.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS CONTRATAÇÕES
 
 Art. 15 - Para aquisição de bens e serviços, o Museu Artístico e Ecológico FransKrajcberg submeter-se-á às disposições da Lei de Licitações e Contratos Administrativos, podendo elaborar regulamento especial, observados os princípios que regem a Administração Pública.
 
 Parágrafo único - O regulamento a que se refere este artigo, após aprovado pelo Conselho Curador e por ato do Chefe do Poder Executivo Estadual, deverá ser publicado na imprensa oficial.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DO CONTRATO DE GESTÃO
 
 Art. 16 - Para os efeitos desta Lei, e nos termos do art. 37, § 8º, da Constituição Federal, entende-se por contrato de gestão o instrumento firmado entre a Administração Pública direta e o Museu Artístico e Ecológico FransKrajcberg, com vistas a atribuir-lhe autonomia gerencial e administrativa, mediante o repasse de recursos e estabelecimento de metas, para a guarda, conservação, utilização e exposição do acervo artístico como instrumento de fomento à cultura, além de valorização da cultura da região onde serão desempenhadas suas atividades.
@@ -179,7 +186,8 @@ II - em razão de reiterada insuficiência de desempenho da Fundação;
 
 III - na hipótese de não atendimento às recomendações da Secretaria de Cultura.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA FISCALIZAÇÃO, SUPERVISÃO E CONTROLE DO CONTRATO DE GESTÃO
 
 Art. 19 - A Secretaria de Cultura avaliará, periodicamente, o cumprimento dos contratos de gestão firmados, especialmente quanto ao cumprimento das obrigações e metas pactuadas.
@@ -206,7 +214,8 @@ Art. 24 - O órgão competente da Secretaria de Cultura, responsável pela super
 
 Art. 25 - Os servidores da Secretaria de Cultura, responsáveis pela supervisão, fiscalização e avaliação do contrato de gestão, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública, dela darão ciência ao órgão de controle interno do Estado e à Procuradoria Geral do Estado, para as providências relativas aos seus respectivos âmbitos de atuação, sob pena de responsabilidade solidária.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DISPOSIÇÕES GERAIS
 
 Art. 26 - A Fundação poderá solicitar a disposição de servidores ou empregados de órgãos e entidades integrantes da Administração Pública Federal, Estadual ou Municipal, direta ou indireta, quaisquer que sejam as atividades a serem exercidas, sem prejuízo dos direitos e vantagens inerentes aos respectivos cargos efetivos.

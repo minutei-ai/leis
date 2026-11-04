@@ -1,5 +1,3 @@
-###DEL-006780-0-000-10-08-1944@@@
-
 DECRETO-LEI N. 6.780 – DE 10 DE AGÔSTO DE 1944
 
 Autoriza a permuta de próprio nacional por terrenos pertencentes à Prefeitura Municipal de Nioaque, no Estado de Mato Grosso, e dá outras providências

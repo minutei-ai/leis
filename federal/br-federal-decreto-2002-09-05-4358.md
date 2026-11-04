@@ -1,5 +1,3 @@
-###DEC-004358-0-000-05-09-2002@@@
-
 DECRETO Nº 4.358, DE 5 DE SETEMBRO DE 2002
 
 Regulamenta a Lei nº 9.854, de 27 de outubro de 1999, que acrescentou os incisos V ao art. 27 e XVIII ao art. 78 da Lei nº 8.666, de 21 de junho de 1993, referente ao cumprimento do disposto no inciso XXXIII do art. 7º da Constituição.

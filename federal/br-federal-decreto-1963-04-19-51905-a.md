@@ -1,5 +1,3 @@
-###DEC-051905-A-000-19-04-1963@@@
-
 DECRETO Nº 51905-A, DE 19 DE ABRIL DE 1963.
 
 Acresce a constituição do Gabinete Militar da Presidência da República de mais um Adjunto.

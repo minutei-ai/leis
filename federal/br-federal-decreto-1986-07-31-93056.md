@@ -1,5 +1,3 @@
-###DEC-093056-0-000-31-07-1986@@@
-
 DECRETO Nº 93.056, DE 31 DE JULHO DE 1986
 
 Revoga a concessão outorgada à Rádio Cultura da Bahia S/A, para executar serviço de radiodifusão sonora em ondas curtas, na cidade de Salvador, Estado da Bahia.

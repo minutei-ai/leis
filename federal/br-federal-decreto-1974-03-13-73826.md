@@ -1,5 +1,3 @@
-###DEC-073826-0-000-13-03-1974@@@
-
 DECRETO Nº 73.826, DE 13 DE MARÇO DE 1974.
 
 Exclui cargos do relacionamento da disponibilidade e aproveita servidores no Ministério da Fazenda.

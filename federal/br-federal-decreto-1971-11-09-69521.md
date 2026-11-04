@@ -1,5 +1,3 @@
-###DEC-069521-0-000-09-11-1971@@@
-
 DECRETO Nº 69.521 - de 9 de novembro de 1971
 
 Modifica o Decreto nº 66.543, de 11 de maio de 1970 e dá outras providências.

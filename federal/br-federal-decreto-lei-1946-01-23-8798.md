@@ -1,5 +1,3 @@
-###DEL-008798-0-000-23-01-1946@@@
-
 DECRETO-LEI N. 8.798 – DE 23 DE JANEIRO DE 1946
 
 Abre ao Ministério das Relações, Exteriores o crédito especial de Cr$ 500.00,00 para o fim que especifica.

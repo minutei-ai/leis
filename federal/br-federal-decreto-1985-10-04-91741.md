@@ -1,5 +1,3 @@
-###DEC-091741-0-000-04-10-1985@@@
-
 Decreto nº 91.741, de 04 de outubro de 1985
 
 Autoriza o funcionamento do curso de História da Faculdade de Filosofia, Ciências e Letras, de Bagé, Rio Grande do Sul.

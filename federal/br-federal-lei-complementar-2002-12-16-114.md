@@ -1,5 +1,3 @@
-###LCP-000114-0-000-16-12-2002@@@
-
 LEI COMPLEMENTAR Nº 114 – DE 16 DE DEZEMBRO DE 2002
 
 Altera dispositivos da Lei Complementar nº 87, de 13 de setembro de 1996, que dispõe sobre o imposto dos Estados e do Distrito Federal sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, e dá outras providências.

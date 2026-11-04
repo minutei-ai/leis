@@ -1,5 +1,3 @@
-###DEC-090433-0-000-08-11-1984@@@
-
 Decreto nº 90.433, de 08 de novembro de 1984
 
 Aprova alteração introduzida no Estatuto da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

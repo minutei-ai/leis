@@ -1,5 +1,3 @@
-###DEC-081463-0-000-21-03-1978@@@
-
 Decreto nº 81.463, de 21 de março de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia da República Federativa do Brasil a operação externa.

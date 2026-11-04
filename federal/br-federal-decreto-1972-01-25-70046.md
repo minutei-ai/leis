@@ -1,5 +1,3 @@
-###DEC-070046-0-000-25-01-1972@@@
-
 DECRETO Nº 70.046, DE 25 DE JANEIRO DE 1972.
 
 Dispõe sobre a estruturação da Carreira de Procurador do Instituto Brasileiro do Café.

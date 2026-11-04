@@ -1,5 +1,3 @@
-###DEC-080919-0-000-05-12-1977@@@
-
 DECRETO Nº 80.919, DE 05 DE DEZEMBRO DE 1977.
 
 Declara sem efeito o Decreto nº 47.690, de 20 de janeiro de 1960, que autorizou o cidadão brasileiro José Procópio de Rezende a lavrar minério de ferro no Município de Mateus Leme, Estado de Minas Gerais.

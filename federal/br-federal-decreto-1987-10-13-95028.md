@@ -1,5 +1,3 @@
-###DEC-095028-0-000-13-10-1987@@@
-
 DECRETO Nº 95.028, DE 13 DE OUTUBRO DE 1987
 
 Concede permissão em caráter permanente, às agências da Caixa Econômica Federal, localizadas nas áreas integrantes do Sistema Nacional de Centrais de Abastecimento - SINAC - , para funcionar aos sábados, domingos e feriados civis e religiosos.

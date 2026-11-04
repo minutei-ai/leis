@@ -1,5 +1,3 @@
-###DEC-087377-0-000-12-07-1982@@@
-
 DECRETO Nº 87.377, DE 12 DE JULHO DE 1982.
 
 Altera o Regulamento de Movimentação para Oficiais e Praças do Exército (R-50), aprovado pelo Decreto nº 83.079, de 23 de janeiro de 1979.

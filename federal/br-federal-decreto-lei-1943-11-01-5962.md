@@ -1,5 +1,3 @@
-###DEL-005962-0-000-01-11-1943@@@
-
 DECRETO‑LEI N. 5.962 – DE 1 DE NovEmBRo DE 1943
 
 Determina a que postos são atinentes as funções de comandantes da Escola de Aeronáutica, é de outros Estabelecimentos da Aeronáutica

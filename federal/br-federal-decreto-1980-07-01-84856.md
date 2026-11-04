@@ -1,5 +1,3 @@
-###DEC-084856-0-000-01-07-1980@@@
-
 DECRETO Nº 84.856, DE 01 DE JULHO DE 1980.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.C.S., área de terra abrangida pela bacia hidráulica e faixa seca do açude público "ENTREMONTES" e pelo Projeto de Irrigação "ENTREMONTES", no Município de Parnamirim, Estado de Pernambuco, e dá outras providências.

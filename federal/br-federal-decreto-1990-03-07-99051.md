@@ -1,7 +1,3 @@
-1
-
-###DEC-099051-0-000-07-03-1990@@@
-
 DECRETO Nº 99.051, DE 7 DE MARÇO DE 1990
 
 Renova a concessão outorgada à RÁDIO A TRIBUNA DE SANTOS LTDA., para explorar serviço de radiodifusão sonora em onda mé­dia, na Cidade de Santos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-056944-0-000-01-10-1965@@@
-
 DECRETO Nº 56.944, de 1º de outubro de 1965.
 
 Autoriza a Companhia Siderúrgica Pitangui a lavrar calcário no município de Pitangui, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-045838-0-000-22-04-1959@@@
-
 decreto nº 45.838, de 22 de abril de 1959.
 
 Dispõe sôbre tempo de serviço nacional relevante.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095723-0-000-11-02-1988@@@
-
 DECRETO N° 95.723, DE 11 DE FEVEREIRO DE 1988
 
 Cria a Embaixada do Brasil na República Popular da Mongólia.

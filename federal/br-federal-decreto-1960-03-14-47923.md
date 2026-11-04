@@ -1,5 +1,3 @@
-###DEC-047923-0-000-14-03-1960@@@
-
 DECRETO Nº 47.923, DE 14 DE MARÇO DE 1960.
 
 Autoriza a Emprêsa Sul Brasileira S.A. a alienar bens de sua propriedade.

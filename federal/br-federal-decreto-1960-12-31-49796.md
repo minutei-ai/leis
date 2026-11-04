@@ -1,5 +1,3 @@
-###DEC-049796-0-000-31-12-1960@@@
-
 DECRETO Nº 49.796, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Paulo Lohner a pesquisar talco, no município de Passos, Estado de Minas Gerais.

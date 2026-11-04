@@ -1,5 +1,3 @@
-###DEC-049396-0-000-01-12-1960@@@
-
 DECRETO Nº 49.396, DE 1º DEZEMBRO DE 1960.
 
 Retifica a Tabela Numérico de Mensalistas da Comissão Federal de Abastecimento e Preços.

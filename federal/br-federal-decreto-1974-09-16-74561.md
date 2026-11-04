@@ -1,5 +1,3 @@
-###DEC-074561-0-000-16-09-1974@@@
-
 DECRETO Nº 74.561, DE 16 DE SETEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, os terrenos que menciona, destinados ao Ministério de Exército.

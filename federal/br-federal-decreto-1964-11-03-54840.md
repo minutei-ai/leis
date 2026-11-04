@@ -1,5 +1,3 @@
-###DEC-054840-0-000-03-11-1964@@@
-
 DECRETO Nº 54.840, de 3 de NOVEMBRO de 1864.
 
 Autoriza o cidadão brasileiro Aquelino Peres de Moura a pesquisar grafite no município de Arcos, Estado de Minas Gerais.

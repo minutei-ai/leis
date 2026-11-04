@@ -1,5 +1,3 @@
-###DEC-050719-0-000-31-05-1961@@@
-
 Decreto nº 50.719, de 31 de maio de 1961.
 
 Autoriza a Emprêsa Elétrica de Londrina S.A. a ampliar seu sistema de transmissão de energia elétrica.

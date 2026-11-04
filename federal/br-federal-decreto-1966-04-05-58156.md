@@ -1,5 +1,3 @@
-###DEC-058156-0-000-05-04-1966@@@
-
 Decreto nº 58.156, de 5 de abril de 1966.
 
 Autoriza o Serviço do Patrimônio da União a restituir o terreno que menciona, ao Município de Macaé, Estado do Rio de Janeiro.

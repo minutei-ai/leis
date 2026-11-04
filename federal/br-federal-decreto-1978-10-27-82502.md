@@ -1,5 +1,3 @@
-###DEC-082502-0-000-27-10-1978@@@
-
 Decreto nº 82.502, de 27 de outubro de 1978.
 
 Retifica a autorização de lavra conferida à Companhia Siderúrgica do Sul - CRUZUL pelo Decreto nº 44.753, de 27 de outubro de 1978.

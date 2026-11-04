@@ -1,5 +1,3 @@
-###DEC-004531-0-000-19-12-2002@@@
-
 DECRETO N. 4.531 – DE 19 DE DEZEMBRO DE 2002
 
 Dá nova redação ao § 1º do art. 21 do Regulamento para as Polícias Militares e Corpo de Bombeiros Militares (R-200), aprovado pelo Decreto nº 88.777, de 30 de setembro de 1983.

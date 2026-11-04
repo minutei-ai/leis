@@ -1,5 +1,3 @@
-###DEC-079167-0-000-25-01-1977@@@
-
 DECRETO Nº 79.167, DE 25 DE JANEIRO DE 1977.
 
 Dispõe sobre a finalidade e a constituição da Comissão do Serviço Militar (COSEMI), a que se refere o artigo 15, item II, do Decreto número 79.031, de 23 de dezembro de 1979.

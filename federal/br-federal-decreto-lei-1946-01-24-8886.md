@@ -1,5 +1,3 @@
-###DEL-008886-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.886 – DE 24 DE JANEIRO DE 1946
 
 Restabelece a carreira de Carteiro na Parte Permanente do Quadro III do Ministério da Viação e Obras Públicas (Departamento aos Correios e Telégrafos) e dá outras providências.

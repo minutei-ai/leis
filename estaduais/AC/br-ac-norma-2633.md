@@ -1,6 +1,10 @@
 > **LEI Nº 3.252, DE 29 DE MAIO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera o art. 23 da Lei nº 1.908 de 31 de julho de 2007, que “Dispõe sobre o Instituto de Administração Penitenciária do Acre – IAPEN/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera o art. 23 da Lei nº 1.908 de 31 de julho de 2007, que “Dispõe sobre o Instituto de Administração Penitenciária do Acre – IAPEN/AC.
+
+</td></tr></tbody></table>
 
 **GOVERNADOR DO ESTADO DO ACRE**
 

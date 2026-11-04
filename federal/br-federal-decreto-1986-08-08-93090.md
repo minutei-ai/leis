@@ -1,5 +1,3 @@
-###DEC-093090-0-000-08-08-1986@@@
-
 DECRETO Nº 93.090, DE 08 DE AGOSTO DE 1986
 
 Fixa cargos privativos de Oficial-General da Aeronáutica, em tempo de paz, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055878-0-000-30-03-1965@@@
-
 DECRETO Nº 55.878, DE 30 DE MARÇO DE 1965.
 
 Altera o Regulamento da Ordem do Mérito Médico, aprovado pelo Decreto nº 29.198, de 24 de janeiro de 1951.
@@ -21,8 +19,6 @@ Brasília, 30 de março de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Raymundo Brito
-
-###DEC-055878-0-000-30-03-1965@@@RET01+++
 
 DECRETO Nº 55.878, DE 30 DE MARÇO DE 1965.
 

@@ -1,5 +1,3 @@
-###MPV-000584-0-000-10-10-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº  584, DE 10 DE OUTUBRO DE 2012
 
 Dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016.

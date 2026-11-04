@@ -1,5 +1,3 @@
-###DEC-056076-0-000-26-04-1965@@@
-
 Decreto nº 56.076, de 26 de abril de 1965.
 
 Autoriza a Companhia de Mineração Rosicler a pesquisar feldspato, no Município de Maricá, Estado do Rio de Janeiro.

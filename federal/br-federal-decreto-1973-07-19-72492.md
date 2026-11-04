@@ -1,5 +1,3 @@
-###DEC-072492-0-000-10-07-1973@@@
-
 DECRETO Nº 72.492, DE 10 DE JULHO DE1973.
 
 Dispõe sobre a execução do Plano de Melhoramento da Alimentação e do Manejo do Gado Leiteiro pelo Ministério da Agricultura, e dá outras providências.

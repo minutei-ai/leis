@@ -1,5 +1,3 @@
-###DEC-047421-0-000-11-12-1959@@@
-
 DECRETO Nº 47.421, DE 11 DE Dezembro DE 1959.
 
 Autoriza a execução de obras complementares da Adutora de Boqueirão no Estado da Paraíba.

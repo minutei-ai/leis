@@ -1,6 +1,10 @@
 > **LEI Nº 4.403, DE 30 DE SETEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.865, de 3 de abril de 2014, para dispor sobre instrumento excepcional e específico destinado a viabilizar o chamamento de militares do Corpo Voluntário da Reserva Remunerada para atuar em atividades especiais, assessoria militar e segurança institucional no âmbito do Tribunal de Contas do Estado do Acre, nos termos que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.865, de 3 de abril de 2014, para dispor sobre instrumento excepcional e específico destinado a viabilizar o chamamento de militares do Corpo Voluntário da Reserva Remunerada para atuar em atividades especiais, assessoria militar e segurança institucional no âmbito do Tribunal de Contas do Estado do Acre, nos termos que especifica.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

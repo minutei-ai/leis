@@ -1,5 +1,3 @@
-###DEC-060883-0-000-21-06-1967@@@
-
 Decreto nº 60.883, de 21 de junho de 1967.
 
 Regulamenta o artigo 5º e seus parágrafos do Decreto-lei 244, de 28 de fevereiro de 1967, que dispõe sôbre a indústria de construção naval.

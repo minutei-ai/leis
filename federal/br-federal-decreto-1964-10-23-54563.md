@@ -1,5 +1,3 @@
-###DEC-054563-0-000-23-10-1964@@@
-
 DECRETO Nº 54.563, DE 23 DE OUTUBRO DE 1964.
 
 Autoriza Alexandre Hahn a comprar pedras preciosas.

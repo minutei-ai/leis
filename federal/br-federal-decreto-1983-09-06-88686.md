@@ -1,5 +1,3 @@
-###DEC-088686-0-000-06-09-1983@@@
-
 DECreto Nº 88.686, DE 6 DE SETEMbro DE 1983
 
 Altera o Regulamento do Código Nacional de Trânsito e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077629-0-000-18-05-1976@@@
-
 DECRETO Nº 77.629 - DE 18 DE MAIO DE 1976
 
 Dá nova redação a disposições do Decreto número 72.912, de 10 de outubro de 1973, que estruturou o Grupo Direção e Assistência Intermediárias.

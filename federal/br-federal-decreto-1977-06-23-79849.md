@@ -1,5 +1,3 @@
-###DEC-079849-0-000-23-06-1977@@@
-
 DECRETO Nº 79.849, DE 23 DE junho DE 1977
 
 Concede reconhecimento ao curso de Engenharia Elétrica, da Faculdade de Engenharia, com sede na Cidade de São Paulo, Estado de São Paulo.

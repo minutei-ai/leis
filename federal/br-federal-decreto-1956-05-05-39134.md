@@ -1,40 +1,38 @@
-###DEC-039134-0-000-05-05-1956@@@
+**DECRETO Nº 39.134, DE 5 DE MAIO DE 1956.**
 
-<strong>DECRETO Nº 39.134, DE 5 DE MAIO DE 1956.</strong>
+***Aprova o novo Regimento do Gabinete do Ministério da Justiça e Negócio Interiores.***
 
-<em><strong>Aprova o novo Regimento do Gabinete do Ministério da Justiça e Negócio Interiores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº 1, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº 1, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Gabinete do Ministério da Justiça e Negócios Interiores, que com êste baixa, assinado pelo titular da referida pasta.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Gabinete do Ministério da Justiça e Negócios Interiores, que com êste baixa, assinado pelo titular da referida pasta.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 5 de maio de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 
-<strong>REGIMENTO DO GABINETE DO MINISTRO DA JUSTIÇA E NEGÓCIOS INTERIORES</strong>
+**REGIMENTO DO GABINETE DO MINISTRO DA JUSTIÇA E NEGÓCIOS INTERIORES**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Gabinete do Ministro de Estado da Justiça e Negócios Interiores (GM) tem por finalidade o exame de assuntos e questões dependentes da deliberação do Ministro e a execução dos expedientes relacionados com os mesmos.
+**Art**. 1º O Gabinete do Ministro de Estado da Justiça e Negócios Interiores (GM) tem por finalidade o exame de assuntos e questões dependentes da deliberação do Ministro e a execução dos expedientes relacionados com os mesmos.
 
-<strong>Art</strong>. 2º O GM compor-se-á de Chefe, Subchefe, Oficiais, Assistentes, Assistente Militar, Ajudante de Ordens e Secretário Particular, designado pelo Ministro.
+**Art**. 2º O GM compor-se-á de Chefe, Subchefe, Oficiais, Assistentes, Assistente Militar, Ajudante de Ordens e Secretário Particular, designado pelo Ministro.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 3º O GM compreende:
+**Art**. 3º O GM compreende:
 
 I - Secretaria Geral (SGM)
 
@@ -48,11 +46,11 @@ V - Portaria (PGM)
 
 Parágrafo único. Todos êsses órgãos funcionaram em regime de mútua cooperação, sob a supervisão do Chefe do GM.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência e Atribuições dos órgãos</em>
+*Da Competência e Atribuições dos órgãos*
 
-<strong>Art</strong>. 4º À SGM compete:
+**Art**. 4º À SGM compete:
 
 a) redigir, dactilografar e conferir todo o expediente a ser submetido, após exame pelo Chefe do GM, à deliberação do Ministro;
 
@@ -80,7 +78,7 @@ m) lavrar têrmos de posse; e
 
 n) executar outros serviços que lhe forem atribuídos pelo Chefe do GM.
 
-<strong>Art</strong>. 5º Ao SEGM compete:
+**Art**. 5º Ao SEGM compete:
 
 a) estudar processos e projetos relativos às atividades gerais e especificas do Ministério;
 
@@ -104,7 +102,7 @@ j) manter documentação atualizada das atividades do Ministério e fiscalizar o
 
 l) emitir parecer ou executar outros serviços determinados pelo Chefe do GM.
 
-<strong>Art</strong>. 6º Ao SDGM compete:
+**Art**. 6º Ao SDGM compete:
 
 a) redigir o noticiário do GM e providenciar sua publicação, mediante autorização prévia do Chefe do GM;
 
@@ -112,7 +110,7 @@ b) manter ligação permanente com o Comitê de Imprensa do Ministério e com a 
 
 c) emitir parecer ou executar os serviços determinados pelo Chefe do GM.
 
-<strong>Art</strong>. 7º Ao SRGM compete:
+**Art**. 7º Ao SRGM compete:
 
 a) marcar as audiências do Ministro;
 
@@ -124,7 +122,7 @@ d) registrar as queixas, reclamações ou sugestões apresentadas e submetê-las
 
 e) emitir parecer sôbre os assuntos que lhe forem submetidos e executar quaisquer outros trabalhos determinados pelo Minitério ou pelo Chefe do GM.
 
-<strong>Art</strong>. 8º À PGM compete:
+**Art**. 8º À PGM compete:
 
 a) receber e anunciar as pessoas que tiverem assuntos a tratar no GM ou audiências marcadas pelo Ministro;
 
@@ -136,11 +134,11 @@ d) manter as dependências do GM em perfeitas condições de conservação, asse
 
 e) conservar em perfeito funcionamento todos os aparelhos do GM, bem como em perfeito estado de conservação os respectivos móveis.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 9º Ao Chefe do Gabinete incumbe:
+**Art**. 9º Ao Chefe do Gabinete incumbe:
 
 a) distribuir, orientar, coordenar, fiscalizar e supervisionar os trabalhos do GM e de todos os seus componentes;
 
@@ -176,7 +174,7 @@ q) designar o seu Secretário; e,
 
 r) aplicar a pena de repreensão ou suspensão até trinta dias aos servidores do GM.
 
-<strong>Art</strong>. 10. Ao Subchefe do GM incumbe:
+**Art**. 10. Ao Subchefe do GM incumbe:
 
 a) substituir o Chefe do GM na sua falta ou impedimento eventual;
 
@@ -184,7 +182,7 @@ b) representar o Ministro ou o Chefe do GM, quando por êle designado; e
 
 c) desincumbir-se dos trabalhos que lhe forem distribuídos pelo Ministro ou pelo Chefe do GM;
 
-<strong>Art</strong>. 11. Ao Secretário Particular incumbe:
+**Art**. 11. Ao Secretário Particular incumbe:
 
 a) preparar a correspondência particular do Ministro;
 
@@ -192,11 +190,11 @@ b) organizar e manter em ordem e em dia o arquivo pessoal do Ministro; e,
 
 c) executar quaisquer outros trabalhos determinados pelo Ministro ou pelo Chefe do GM.
 
-<strong>Art</strong>. 12. Aos Oficiais de Gabinete, Assistentes e Auxiliares do GM incumbe a execução dos serviços próprios dos Setores para os quais forem designados pelo Chefe do GM, além de outros trabalhos que lhe forem distribuídos pelo Ministro ou pelo Chefe do GM.
+**Art**. 12. Aos Oficiais de Gabinete, Assistentes e Auxiliares do GM incumbe a execução dos serviços próprios dos Setores para os quais forem designados pelo Chefe do GM, além de outros trabalhos que lhe forem distribuídos pelo Ministro ou pelo Chefe do GM.
 
 Parágrafo único. Incumbe, ainda aos oficiais de Gabinete representar o Ministro ou o Chefe do GM, quando põe êle designados.
 
-<strong>Art</strong>. 13. Ao Assistente Militar incumbe:
+**Art**. 13. Ao Assistente Militar incumbe:
 
 a) transmitir as ordens do Ministro ou do Chefe do GM às corporações subordinadas ao Ministério;
 
@@ -208,28 +206,28 @@ d) supervisionar os serviços de policiamento; e,
 
 e) representar o Ministro ou o Chefe do GM, quando designado.
 
-<strong>Art</strong>. 14. Ao ajudante de Ordens incumbe:
+**Art**. 14. Ao ajudante de Ordens incumbe:
 
 a) auxiliar o Assistente Militar; e,
 
 b) representar o Ministro ou o Chefe do GM, quando designado.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 15. O Assistente Militar e o Ajudante de Ordens serão escolhidos pelo Ministro, dentre os Oficiais da Polícia Militar do Distrito Federal ou do Corpo de Bombeiros do Distrito Federal.
+**Art**. 15. O Assistente Militar e o Ajudante de Ordens serão escolhidos pelo Ministro, dentre os Oficiais da Polícia Militar do Distrito Federal ou do Corpo de Bombeiros do Distrito Federal.
 
-<strong>Art</strong>. 16. As chefias dos setores do GM serão atribuídas aos oficiais, assistentes ou auxiliares do GM, por designação do Chefe do GM.
+**Art**. 16. As chefias dos setores do GM serão atribuídas aos oficiais, assistentes ou auxiliares do GM, por designação do Chefe do GM.
 
 Parágrafo único. A chefia dos trabalhos da GM e da PGM ficará a cargo de servidores públicos, designados pelo Chefe do GM.
 
-<strong>Art</strong>. 17. Poderão ser designadas pessoas estranhas ao Serviço Público para a função de Chefe, Subchefe, Oficial e Assistente do GM e para a de Secretário Particular do Ministro.
+**Art**. 17. Poderão ser designadas pessoas estranhas ao Serviço Público para a função de Chefe, Subchefe, Oficial e Assistente do GM e para a de Secretário Particular do Ministro.
 
-<strong>Art</strong>. 18. Os casos omissos neste Regimento serão resolvidos pelo Ministro, por proposta do Chefe do GM.
+**Art**. 18. Os casos omissos neste Regimento serão resolvidos pelo Ministro, por proposta do Chefe do GM.
 
-<strong>Art</strong> 19. Êste Regimento entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+**Art** 19. Êste Regimento entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, em 5 de maio de 1956.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**

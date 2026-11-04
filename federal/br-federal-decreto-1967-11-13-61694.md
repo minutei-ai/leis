@@ -1,5 +1,3 @@
-###DEC-061694-0-000-13-11-1967@@@
-
 DECRETO N º 61.694, DE 13 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública o “Ginásio Rainha do Brasil”, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-045916-0-000-29-04-1959@@@
-
 DECRETO Nº 45.916, DE 29 de ABRIL DE 1959.
 
 Autoriza a Prefeitura Municipal de Coimbra, Estado de Minas Gerais, a construir uma linha de transmissão.

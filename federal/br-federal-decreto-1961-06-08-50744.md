@@ -1,5 +1,3 @@
-###DEC-050744-0-000-08-06-1961@@@
-
 DECRETO Nº 50.744, DE 8 DE JUNHO DE 1961.
 
 Cria o Parque Nacional de Sete Cidades, integrante da Seção de Parques e Florestas Nacionais do Serviço Florestal, do Ministério da Agricultura.

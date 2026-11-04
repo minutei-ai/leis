@@ -1,5 +1,3 @@
-###DEC-068469-0-000-05-04-1971@@@
-
 Decreto nº 68.469, de 5 de abril de 1971.
 
 Confisca bens do cidadão Benedito Lepri, domiciliado no Município de Rolândia, no Estado do Paraná, e dá outras providências.

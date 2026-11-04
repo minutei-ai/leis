@@ -1,5 +1,3 @@
-###DEC-064961-0-000-07-08-1969@@@
-
 DECRETO Nº 64.961 - DE 7 DE AGÔSTO DE 1969.
 
 Concede à Carbonífera Criciúma Limitada o direito de lavrar carvão mineral, no município de Criciúma, Estado de Santa Catarina.

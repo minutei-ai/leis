@@ -1,5 +1,3 @@
-###DEC-077579-0-000-11-05-1976@@@
-
 DECRETO Nº 77.579 - DE 11 DE MAIO DE 1976
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências da Administração de Pernambuco, em Recife, Pernambuco.

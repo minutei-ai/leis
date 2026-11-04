@@ -1,5 +1,3 @@
-###DEC-056085-0-000-26-04-1965@@@
-
 Decreto nº 56.085, de 26 de abril de 1965.
 
 Concede à Mineração Rocha Ltda, autorização para funcionar como emprêsa de mineração.

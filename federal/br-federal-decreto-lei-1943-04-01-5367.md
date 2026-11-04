@@ -1,5 +1,3 @@
-###DEL-005367-0-000-01-04-1943@@@
-
 DECRETO‑LEI N. 5.367 – DE 1 DE ABRIL DE 1943
 
 Cria o 3º Batalhão de Engenharia com sede em Porto Alegre

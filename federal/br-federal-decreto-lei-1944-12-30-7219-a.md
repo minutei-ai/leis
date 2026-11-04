@@ -1,5 +1,3 @@
-###DEL-007219-A-000-30-12-1944@@@
-
 DECRETO-LEI N. 7.219 A – DE 30 DE DEZEMBRO DE 1944
 
 Dispõe sôbre o impôsto de Consumo
@@ -2288,7 +2286,51 @@ O impôsto incide sôbre:
 
 os de qualquer espécie, tipo, formato, qualidade ou matéria, inclusive as galochas, as perneiras e as polainas, por par, de acôrdo com o preço de venda no varejo marcado pelo fabricante:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:443.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><br><span style="font-size:10pt">Até o preço de Cr$ 5,00 ........................................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">5,00 até Cr$ 12,00 ....................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">12,00 até Cr$ 20,00 ...................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">20,00 até Cr$ 30,00 ...................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">30,00 até Cr$ 50,00 ...................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">50,00 até Cr$ 75,00 ...................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">75,00 até Cr$ 100,00 .................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 100,00 até Cr$ 150,00 ................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 150,00 até Cr$ 200,00 ................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 200,00 por Cr$ 50,00 ou fração excedente ...............................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Artigos de procedência estrangeira, de qualquer preço .......................................................................</span></p></td><td style="width:31.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Cr$</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,10</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,25</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,60</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,90</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">2,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">3,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">5,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">7,50</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">10,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">5,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">20,00</span></p></td></tr></tbody></table>
+Até o preço de Cr$ 5,00 ........................................................................................................................
+
+De mais de Cr$   5,00 até Cr$ 12,00 ....................................................................................................
+
+De mais de Cr$  12,00 até Cr$ 20,00 ...................................................................................................
+
+De mais de Cr$  20,00 até Cr$ 30,00 ...................................................................................................
+
+De mais de Cr$  30,00 até Cr$ 50,00 ...................................................................................................
+
+De mais de Cr$  50,00 até Cr$ 75,00 ...................................................................................................
+
+De mais de Cr$  75,00 até Cr$ 100,00 .................................................................................................
+
+De mais de Cr$ 100,00 até Cr$ 150,00 ................................................................................................
+
+De mais de Cr$ 150,00 até Cr$ 200,00 ................................................................................................
+
+De mais de Cr$ 200,00 por Cr$ 50,00 ou fração excedente ...............................................................
+
+Artigos de procedência estrangeira, de qualquer preço .......................................................................
+
+Cr$
+
+0,10
+
+0,25
+
+0,60
+
+0,90
+
+2,00
+
+3,00
+
+5,00
+
+7,50
+
+10,00
+
+5,00
+
+20,00
 
 Notas
 
@@ -2350,7 +2392,43 @@ vitrines.
 
 Por unidade ou peça ainda que se trate de guarnição, conjunto ou mobília, pelo preço de fábrica ou da importação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Até o preço de Cr$ 5,00 ..........................................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 5,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">10,00 ........................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 10,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">25,00 ......................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 25,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">50,00 ......................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 50,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">75,00 ......................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 75,00 até Cr$ 100,00 .....................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 100,00 até Cr$ 150,00 ...................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 150,00 até Cr$ 200,00 ...................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 200,00 por Cr$ 100,00 ou fração excedente .................................................................</span></p></td><td style="width:24.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">Cr$</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0.20</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,40</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">2,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">3,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">4,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">6,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">8,00</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">4,00</span></p></td></tr></tbody></table>
+Até o preço de Cr$ 5,00 ..........................................................................................................................
+
+De mais de Cr$ 5,00 até Cr$  10,00 ........................................................................................................
+
+De mais de Cr$ 10,00 até Cr$  25,00 ......................................................................................................
+
+De mais de Cr$ 25,00 até Cr$  50,00 ......................................................................................................
+
+De mais de Cr$ 50,00 até Cr$  75,00 ......................................................................................................
+
+De mais de Cr$ 75,00 até Cr$ 100,00 .....................................................................................................
+
+De mais de Cr$ 100,00 até Cr$ 150,00 ...................................................................................................
+
+De mais de Cr$ 150,00 até Cr$ 200,00 ...................................................................................................
+
+De mais de Cr$ 200,00 por Cr$ 100,00 ou fração excedente .................................................................
+
+Cr$
+
+0.20
+
+0,40
+
+1,00
+
+2,00
+
+3,00
+
+4,00
+
+6,00
+
+8,00
+
+4,00
 
 Os produtos de procedência estrangeira ficam ainda sujeitos ao impôsto de 50 % calculado sôbre o valor total das estampilhas a serem adquiridas de acôrdo com as bases de incidência, pago por verba.
 
@@ -2410,7 +2488,23 @@ O imposto incide sôbre:
 
 o de uva, cana, mandioca, milho ou batata, ou de qualquer fruta ou planta assim considerado o produto de mais de 74º Gay Lussac.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:443.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Por 0,33 L (meia garrafa) ......................................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Por 0,50 L (meio litro) ...........................................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Por 0,66 L (garrafa) ...............................................................................................................................</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Por</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">1 L (litro) .......................................................................................................................................</span></p></td><td style="width:31.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">Cr$</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,04</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,06</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,08</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,12</span></p></td></tr></tbody></table>
+Por 0,33 L (meia garrafa) ......................................................................................................................
+
+Por 0,50 L (meio litro) ...........................................................................................................................
+
+Por 0,66 L (garrafa) ...............................................................................................................................
+
+Por   1 L (litro) .......................................................................................................................................
+
+Cr$
+
+0,04
+
+0,06
+
+0,08
+
+0,12
 
 Os produtos de procedéncia estrangeira ficam ainda sujeitos ao impôsto de 50%. calculado sôbre o valor total das estampilhas a serem adquiridas de acôrdo com as bases de incidência, pago por verba.
 
@@ -3884,7 +3978,47 @@ Impôsto de 3% para os produtos nacionais e de 6% para os produtos estrangeiros,
 
 Tecidos, filós e feltros, quando de sêda natural ou artificial (fios químicos), de acôrdo com o preço de venda do fabricante ou do importador por metro ou fração:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cr$</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Até Cr$ 6,00.............................................................................................................................................</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,50</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt"><span>De mais de Cr$ 6,00 até Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span>10,00 .....................................................................................................</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">0,70</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 10,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">15,00 .....................................................................................................</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1,00</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 15,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">20,00 .....................................................................................................</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1,40</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 20,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">30,00 .....................................................................................................</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">2,10</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 30,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">40,00 .....................................................................................................</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">2,80</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 40,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">50,00......................................................................................................</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">3,50</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 50,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">80,00......................................................................................................</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">5,60</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 80,00 até Cr$</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:10pt">100,00....................................................................................................</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">7,00</span></p></td></tr><tr><td style="width:450.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">De mais de Cr$ 100,00 por Cr$ 100,00 ou fração excedente..................................................................</span></p></td><td style="width:24.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">7,00</span></p></td></tr></tbody></table>
+Cr$
+
+Até Cr$ 6,00.............................................................................................................................................
+
+0,50
+
+De mais de Cr$ 6,00 até Cr$     10,00 .....................................................................................................
+
+0,70
+
+De mais de Cr$ 10,00 até Cr$   15,00 .....................................................................................................
+
+1,00
+
+De mais de Cr$ 15,00 até Cr$   20,00 .....................................................................................................
+
+1,40
+
+De mais de Cr$ 20,00 até Cr$   30,00 .....................................................................................................
+
+2,10
+
+De mais de Cr$ 30,00 até Cr$   40,00 .....................................................................................................
+
+2,80
+
+De mais de Cr$ 40,00 até Cr$   50,00......................................................................................................
+
+3,50
+
+De mais de Cr$ 50,00 até Cr$   80,00......................................................................................................
+
+5,60
+
+De mais de Cr$ 80,00 até Cr$   100,00....................................................................................................
+
+7,00
+
+De mais de Cr$ 100,00 por Cr$ 100,00 ou fração excedente..................................................................
+
+7,00
 
 Notas
 

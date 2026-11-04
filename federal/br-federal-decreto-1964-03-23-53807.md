@@ -1,5 +1,3 @@
-###DEC-053807-0-000-23-03-1964@@@
-
 DECRETO Nº 53.807, de 23 de março de 1964.
 
 Autoriza o cidadão brasileiro João Cândido Ribeiro a pesquisar minério de ferro no município de Conceição do Mato Dentro, Estado de Minas Gerais.

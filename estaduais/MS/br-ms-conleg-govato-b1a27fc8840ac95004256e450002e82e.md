@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:33:27.000Z"
 sha256_fonte: "935beff851eb86db87ebc598416bbe729935880d53a7f7417a28b5b951844eff"
 sha256_markdown: "86ea8aad71dad14e40e27d2625af2baab4443504744b6dd7046e94ff493b927d"
 ---
-
 # LEI Nº 649, DE 23 DE JUNHO DE 1986.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,17 +20,22 @@ Dispõe sobre a suspensão da cobrança do Imposto Sobre Propriedade de Veículo
 
 Publicada no Diário Oficial nº 1.843, de 24 de junho de 1986, página 1.
 
-O Governador do Estado de Mato Grosso do Sul, faço saber que<br>
-a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º - Fica suspensa pelo prazo de 02 (dois) anos, a cobrança do<br>
-IPVA incidente sobre Veículos destinados a exploração dos<br>
-serviços de Táxi.<br>
-<br>
-Art. 2º - Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 23 de junho de 1.986.<br>
-<br>
-RAMEZ TEBET<br>
+O Governador do Estado de Mato Grosso do Sul, faço saber que
+
+a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º - Fica suspensa pelo prazo de 02 (dois) anos, a cobrança do
+
+IPVA incidente sobre Veículos destinados a exploração dos
+
+serviços de Táxi.
+
+Art. 2º - Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 23 de junho de 1.986.
+
+RAMEZ TEBET
+
 Governador

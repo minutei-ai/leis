@@ -1,5 +1,3 @@
-###DEC-075363-0-000-13-02-1975@@@
-
 DECRETO Nº 75.363, DE 13 DE FEVEREIRO DE 1975.
 
 Declara a cessação da exploração de serviço de geração de energia elétrica, outorga à Companhia Paranaense de Energia Elétrica - COPEL concessão e dá outras providências.

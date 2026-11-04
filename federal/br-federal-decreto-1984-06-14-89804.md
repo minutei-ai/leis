@@ -1,5 +1,3 @@
-###DEC-089804-0-000-14-06-1984@@@
-
 Decreto Nº 89.804, de 14 de junho de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à operação da usina hidrelétrica Dr. Geraldo Tosta, da Empresa Elétrica Bragantina S.A., no Estado dá são Paulo.

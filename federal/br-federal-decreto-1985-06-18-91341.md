@@ -1,5 +1,3 @@
-###DEC-091341-0-000-18-06-1985@@@
-
 Decreto nº 91.341, de 18 de junho de 1985
 
 Cancela autorização para funcionamento no Brasil da The Home Insurance Company.

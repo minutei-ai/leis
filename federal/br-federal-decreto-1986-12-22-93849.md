@@ -1,5 +1,3 @@
-###DEC-093849-0-000-22-12-1986@@@
-
 DECRETO Nº 93.849, DE 22 DE DEZEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação transformadora de distribuição Curicica, da LIGHT Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-096629-0-000-31-08-1988@@@
-
 DECRETO N° 96.629, DE 31 DE AGOSTO DE 1988
 
 Declara de interesse social, para fins de desapropriação o imóvel rural denominado Gleba Triângulo, classificado como latifúndio por exploração, situado no Município de Tangará da Serra, no Estado de Mato Grosso, compreendido na zona prioritária para fins de reforma agrária fixada pelo Decreto n° 92.620, de 2 de maio de 1986 e dá outras providências.

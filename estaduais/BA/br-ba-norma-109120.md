@@ -14,7 +14,8 @@ III - recaindo a opção sobre o subsídio de Secretário de Estado ou equivalen
 
 IV - recaindo a opção sobre a remuneração do seu cargo efetivo ou emprego público, ser-lhe-á atribuído o percentual de 30% (trinta por cento) do valor do subsídio ou a diferença entre este e o vencimento ou salário base do cargo ou emprego público, na forma que o servidor ou empregado público indicar.
 
-Redação de acordo com o art. [21](https://www.legislabahia.ba.gov.br/documentos/lei-no-12204-de-18-de-marco-de-2011#art21) da Lei nº 12.204, de 18 de março de 2011.<br>
+Redação de acordo com o art. [21](https://www.legislabahia.ba.gov.br/documentos/lei-no-12204-de-18-de-marco-de-2011#art21) da Lei nº 12.204, de 18 de março de 2011.
+
 Redação original: "IV - recaindo a opção sobre a remuneração do cargo efetivo ou emprego público, ser-lhe-á atribuído o percentual de 30% (trinta por cento) do valor do subsídio do cargo de Secretário ou equivalente;"
 
 V- o tempo de serviço prestado no cargo de Secretário ou equivalente será contado para todos os efeitos legais, inclusive para integralização do decênio aquisitivo do direito à vantagem prevista no art. 92, da Lei nº 6.677, de 26 de setembro de 1994, cuja fixação do valor será feita, no caso de permanência neste cargo por mais de dois anos, no símbolo correspondente ao cargo de provimento temporário da administração direta que mais se aproxime do valor percebido no cargo político;

@@ -1,5 +1,3 @@
-###DEC-088021-0-000-05-01-1983@@@
-
 DECRETO Nº 88.021, DE 05 DE JANEIRO DE 1983
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra, com as respectivas benfeitorias, necessárias à construção da "Barragem do Flores", sobre o rio das Flores, nos Municípios de Joselândia, Tuntum e Presidente Dutra, no Estado do Maranhão, a dá outras providências.

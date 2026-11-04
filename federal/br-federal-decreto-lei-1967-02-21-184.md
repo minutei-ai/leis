@@ -1,5 +1,3 @@
-###DEL-000184-0-000-21-02-1967@@@
-
 DECRETO-LEI Nº 184, DE 21 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a criação de cargos em comissão, no Conselho Federal de Cultura.

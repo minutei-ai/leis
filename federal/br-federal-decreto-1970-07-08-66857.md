@@ -1,5 +1,3 @@
-###DEC-066857-0-000-08-07-1970@@@
-
 decreto nº 66.857, de 8 de julho de 1970.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Nova Iguaçu, Estado do Rio de Janeiro.

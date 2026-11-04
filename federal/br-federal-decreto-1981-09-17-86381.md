@@ -1,5 +1,3 @@
-###DEC-086381-0-000-17-09-1981@@@
-
 Decreto nº 86.381, de 17 de setembro de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão de FURNAS - Centrais Elétricas S.A., no Estado do Paraná.

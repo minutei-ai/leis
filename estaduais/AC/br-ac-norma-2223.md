@@ -1,6 +1,10 @@
 > **LEI Nº 3.466, DE 26 DE DEZEMBRO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a Gestão Democrática Intercultural no âmbito da Educação Escolar Indígena.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a Gestão Democrática Intercultural no âmbito da Educação Escolar Indígena.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

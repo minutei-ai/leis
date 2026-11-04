@@ -1,5 +1,3 @@
-###DEC-069929-0-000-13-01-1972@@@
-
 DECRETO Nº 69.929, DE 13 DE janeiro DE 1972.
 
 Retifica o Decreto nº 57.667, de 24 de janeiro de 1966, que aprovou o enquadramento do pessoal beneficiado pelo parágrafo único do art. 23 da Lei nº 4.069, de 11 de junho de 1962, retificado pelo Decreto nº 65.855, de 11 de dezembro de 1969, e dá outras providências.

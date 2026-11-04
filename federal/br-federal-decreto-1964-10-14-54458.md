@@ -1,5 +1,3 @@
-###DEC-054458-0-000-14-10-1964@@@
-
 Decreto nº 54.458, de 14 de outubro de 1964.
 
 Concede à Carbonífera Alencastro Limitada autorização para funcionar como emprêsa de mineração.

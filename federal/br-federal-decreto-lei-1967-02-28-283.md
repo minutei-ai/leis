@@ -1,5 +1,3 @@
-###DEL-000283-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 283, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre empréstimos contraídos no exterior destinados à construção e venda de habitações.

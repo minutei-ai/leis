@@ -1,5 +1,3 @@
-###DEC-006635-0-000-05-11-2008@@@
-
 DECRETO Nº 6.635, DE 5 DE NOVEMBRO DE 2008.
 
 Altera e acresce dispositivos ao Regimento do Serviço Nacional de Aprendizagem Industrial - SENAI, aprovado pelo Decreto no 494, de 10 de janeiro de 1962.

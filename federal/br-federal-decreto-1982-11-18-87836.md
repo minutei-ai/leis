@@ -1,5 +1,3 @@
-###DEC-087836-0-000-18-11-1982@@@
-
 DECRETO Nº 87.836, DE 18 DE NOVEMBRO DE 1982.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado nos Municípios de Sítio Novo é Itaguatins, no Estado de Goiás, compreendido na área prioritária de reforma agrária de que trata o Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975, e 85.075, de 27 de agosto de 1980, e amparada pelo Decreto nº 87.095, de 16 de abril de 1982.

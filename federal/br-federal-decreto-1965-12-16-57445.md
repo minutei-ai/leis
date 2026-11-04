@@ -1,5 +1,3 @@
-###DEC-057445-0-000-16-12-1965@@@
-
 DECRETO Nº 57.445, DE 16 DE DEZEMBRO DE 1965.
 
 Modifica o Regulamento para a Eleição dos Representantes da Lavoura, na Junta Administrativa do IBC, baixado pelo Decreto nº 57.095, de 19 de outubro de 1965, a que se refere o art. 5º da Lei nº 1.779, de 22 de dezembro de 1952.
@@ -29,8 +27,6 @@ Brasília, 16 de dezembro de 1965; 144º da Independência e 77º da República.
 H. CASTELLO BRANCO
 
 Daniel Faraco
-
-###DEC-057445-0-000-16-12-1965@@@RET01+++
 
 DECRETO Nº 57.445, DE 16 DE DEZEMBRO DE 1965.
 

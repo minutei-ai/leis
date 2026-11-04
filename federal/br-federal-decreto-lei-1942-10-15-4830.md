@@ -1,5 +1,3 @@
-###DEL-004830-0-000-15-10-1942@@@
-
 DECRETO-LEI N. 4.830 – DE 15 DE OUTUBRO DE 1942
 
 Estabelece contribuição especial para a Legião Brasileira de Assistência e dá outras providências

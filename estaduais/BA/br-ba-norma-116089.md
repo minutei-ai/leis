@@ -4,10 +4,12 @@ Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado da Bahia e dá out
 
 O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições e considerando o disposto no [artigo 26, § 3º, da Emenda Constitucional nº 02, de 29 de novembro de 1969](https://www.legislabahia.ba.gov.br/documentos/lei-no-3428-de-02-de-dezembro-de-1975#CE1967_Emenda_2_Art__26_P_3) , faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA ORGANIZAÇÃO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA SEDE E DA CONSTITUIÇÃO
 
 Art. 1º - O Tribunal de Contas do Estado da Bahia, órgão auxiliar da Assembléia Legislativa no controle externo da Administração financeira e orçamentária, tem sede na Cidade do Salvador e jurisdição em todo o território estadual.
@@ -16,7 +18,8 @@ Art. 2º - Compõe-se o Tribunal de Contas de sete Conselheiros.
 
 Art. 3º - Integram a estrutura do Tribunal de Contas serviços de natureza técnica e de administração, organizados na forma que dispuser o Regimento Interno, obedecido o disposto no [§ 1º do art. 45 da Constituição do Estado](https://www.legislabahia.ba.gov.br/documentos/lei-no-3428-de-02-de-dezembro-de-1975#CE1967_Art__45_P_1) e no inciso II do art. 115 da Constituição da República Federativa do Brasil.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS CONSELHEIROS
 
 Art. 4º - Os Conselheiros do Tribunal de Contas serão nomeados pelo Governador do Estado, obedecidos os requisitos previstos na Constituição Estadual, e terão as seguintes garantias, prerrogativas e direitos:
@@ -79,20 +82,24 @@ Art. 9º - Os Conselheiros serão substituídos em suas licenças, férias e imp
 
 § 4º - Quando a substituição for exercida durante um ano consecutivo, o substituto fará jus a férias por período igual às de Conselheiro.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS CÂMARAS
 
 Art. 10 - O Tribunal de Contas dividir-se-á em duas Câmaras, cujas competências serão fixadas no Regimento Interno.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA PROCURADORIA DO ESTADO
 
 Art. 11 - A defesa dos interesses da Administração Estadual junto ao Tribunal de Contas, compete à Procuradoria Geral do Estado, na forma prevista na lei específica.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DA COMPETÊNCIA E JURISDIÇÃO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA COMPETÊNCIA
 
 Art. 12 - A competência do Tribunal de Contas decorre de sua condição de órgão auxiliar da Assembléia Legislativa no exercício do controle externo da fiscalização financeira e orçamentária e das demais atribuições que lhe são conferidas pela Constituição do Estado e por esta Lei.
@@ -183,7 +190,8 @@ Art. 18 - A competência do Tribunal de Contas, discriminada no [artigo 16, inci
 
 Art. 19 - As competências previstas no artigo 17 serão distribuídas na forma que dispuser o Regimento Interno.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA JURISDIÇÃO
 
 Art. 20 - O Tribunal de Contas tem jurisdição própria e privativa sobre as pessoas e matérias sujeitas à sua competência, abrangendo todo aquele que arrecadar ou gerir dinheiros, valores e bens do Estado ou pelos quais este responda, bem como os administradores das entidades da administração descentralizada.
@@ -202,7 +210,8 @@ IV - o administrador de fundos especiais ou serviço autônomo do Estado, de qua
 
 V - todos quantos, por expressa disposição de lei, lhe devam prestar contas.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DA AUDITORIA FINANCEIRA E ORÇAMENTÁRIA
 
 Art. 22 - A auditoria financeira e orçamentária que será exercida sobre as contas das unidades administrativas dos três Poderes do Estado, bem assim das entidades da administração descentralizada, visa a auxiliar a fiscalização que compete ao Tribunal de Contas, na forma do disposto nos [artigos 16](https://www.legislabahia.ba.gov.br/documentos/lei-no-3428-de-02-de-dezembro-de-1975#LO_3_428_Art__16) , [20](https://www.legislabahia.ba.gov.br/documentos/lei-no-3428-de-02-de-dezembro-de-1975#LO_3_428_Art__20) e [21](https://www.legislabahia.ba.gov.br/documentos/lei-no-3428-de-02-de-dezembro-de-1975#LO_3_428_Art__21) e o respectivo exame.
@@ -269,10 +278,12 @@ Art. 28 - No exercício de suas atribuições, o Tribunal de Contas do Estado, q
 
 § 2º - Na hipótese da aplicação de sanções pelo Tribunal de Contas do Estado, nos casos em que julgar desnecessária a representação, este dará ciência à Assembléia Legislativa, para conhecimento da comissão técnica respectiva.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DAS PRESTAÇÕES E TOMADAS DE CONTAS E SEU JULGAMENTO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS PRESTAÇÕES E TOMADAS DE CONTAS
 
 Art. 29 - os responsáveis indicados nos [artigos 20](https://www.legislabahia.ba.gov.br/documentos/lei-no-3428-de-02-de-dezembro-de-1975#LO_3_428_Art__20) e [21](https://www.legislabahia.ba.gov.br/documentos/lei-no-3428-de-02-de-dezembro-de-1975#LO_3_428_Art__21) , estão obrigados a prestação de contas, cujo julgamento é da competência do Tribunal de Contas.
@@ -321,7 +332,8 @@ Art. 37 - A notificação do responsável será feita pessoalmente ou por edital
 
 § 3º - O relator, a requerimento do responsável, poderá prorrogar, a seu critério, o prazo inicial por período não excedente ao fixado no parágrafo anterior.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO JULGAMENTO
 
 Art. 38 - O julgamento, pelo Tribunal, das contas dos administradores das entidades da administração descentralizada e das que, por força de lei, lhe devam prestar contas, será feito à base dos seguintes documentos que lhe deverão ser presentes:
@@ -368,7 +380,8 @@ Art. 45 - Julgado em débito o responsável, e não tendo recolhido aos cofres p
 
 Art. 46 - Proposto pelo Tribunal o afastamento do responsável, e não sendo efetivada a medida, poderá ele determinar a suspensão da entrega de recursos financeiros à entidades ou repartição, responsabilizando a autoridade que não der cumprimento à sua decisão.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 DAS CONSULTAS
 
 Art. 47 - O Tribunal de Contas resolverá sobre as consultas que lhe forem feitas quanto à aplicação das disposições legais relativas à administração financeira e orçamentária.
@@ -377,10 +390,12 @@ Art. 47 - O Tribunal de Contas resolverá sobre as consultas que lhe forem feita
 
 § 2º - As decisões proferidas em virtude de consultas terão caráter normativo.
 
-TÍTULO VI -<br>
+TÍTULO VI -
+
 DOS RECURSOS, RECLAMAÇÕES E EXECUÇÕES DAS DECISÕES
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DOS RECURSOS
 
 Art. 48 - Das decisões do Tribunal de Contas poderão recorrer, na forma do Regimento, os interessados ou a Procuradoria do Estado, dentro de sessenta dias da respectiva publicação no Diário Oficial.
@@ -425,7 +440,8 @@ III - se ocorrer superveniência de documentos novos, com eficácia sobre a prov
 
 Art. 54 - A rescisão processar-se-á como pedido autônomo, podendo ser requerida até 2 (dois) anos depois de passada em julgado a decisão rescindenda.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS RECLAMAÇÕES
 
 Art. 55 - Caberá reclamação contra ato ou despacho de autoridade administrativa que altere, dificulte ou impeça a execução de julgado do Tribunal ou embarace o andamento regular do respectivo processo.
@@ -436,7 +452,8 @@ Art. 55 - Caberá reclamação contra ato ou despacho de autoridade administrati
 
 Art. 56 - Provida a reclamação, o Tribunal de Contas, para fazer respeitar e cumprir sua primeira decisão, representará à autoridade superior à reclamada.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA EXECUÇÃO DAS DECISÕES
 
 Art. 57 - Decorrido o prazo para recurso, previsto no [artigo 48](https://www.legislabahia.ba.gov.br/documentos/lei-no-3428-de-02-de-dezembro-de-1975#LO_3_428_Art__48) , o Tribunal expedirá, conforme o caso:
@@ -463,7 +480,8 @@ Art. 61 - As infrações das leis e regulamentos relativos à administração fi
 
 Parágrafo único - A multa de que trata o presente artigo será imposta pelo Tribunal de Contas que providenciará a sua cobrança na forma dos [artigos 57, inciso I](https://www.legislabahia.ba.gov.br/documentos/lei-no-3428-de-02-de-dezembro-de-1975#LO_3_428_Art__57_I) , e [58, inciso III, desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-3428-de-02-de-dezembro-de-1975#LO_3_428_Art__58_III) .
 
-TÍTULO VII -<br>
+TÍTULO VII -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 62 - O Tribunal de Contas disporá de quadro próprio de pessoal dos órgãos que integram a sua estrutura, respeitada a paridade de vencimentos com cargos de atribuições iguais ou assemelhadas do Poder Executivo, Assembléia Legislativa e Poder Judiciário.

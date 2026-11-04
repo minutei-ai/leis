@@ -1,5 +1,3 @@
-###DEC-059676-0-000-06-12-1966@@@
-
 DECRETO Nº 59.676, DE 6 DE DEZEMBRO DE 1966.
 
 Regulamenta a Lei n° 4.881-A, de 6 de dezembro de 1965, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-088151-0-000-08-03-1983@@@
-
 DECRETO Nº 88.151, de 08 de março de 1983
 
 Cria, no âmbito do Ministério Público da Justiça Militar, o Conselho Superior, a Corregedoria Geral e o Colégio de Procuradores Militares.

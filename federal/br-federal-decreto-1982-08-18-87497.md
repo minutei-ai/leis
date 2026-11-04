@@ -1,5 +1,3 @@
-###DEC-087497-0-000-18-08-1982@@@
-
 DecretO Nº 87.497, de 18 de agosto de 1982
 
 Regulamenta a Lei nº 6.494, de 07 de dezembro de 1977, que dispõe sobre o estágio de estudantes de estabelecimentos de ensino superior e de 2º grau regular e supletivo, nos limites que especifica e dá outras providências.

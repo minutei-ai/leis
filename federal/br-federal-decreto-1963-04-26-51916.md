@@ -1,5 +1,3 @@
-###DEC-051916-0-000-26-04-1963@@@
-
 DECRETO Nº 51.916, DE 26 DE ABRIL DE 1963.
 
 Autoriza estrangeira a adquirir, em regime de ocupação, fração ideal de terreno de marinha que menciona no Estado da Guanabara.

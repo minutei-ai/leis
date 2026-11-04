@@ -1,5 +1,3 @@
-###DEC-054565-0-000-23-10-1964@@@
-
 DECRETO Nº 54.565, DE 23 DE OUTUIBRO DE 1964.
 
 Autoriza a firma J.Q. Carvalho a comprar pedras preciosas.

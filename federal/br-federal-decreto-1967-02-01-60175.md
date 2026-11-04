@@ -1,5 +1,3 @@
-###DEC-060175-0-000-01-02-1967@@@
-
 DECRETO Nº 60.175, DE 1 DE FEVEREIRO DE 1967.
 
 Concede à “CIVA” Companhia Vale do Amazonas autorização para funcionar como emprêsa de mineração.

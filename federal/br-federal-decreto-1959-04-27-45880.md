@@ -1,5 +1,3 @@
-###DEC-045880-0-000-27-04-1959@@@
-
 Decreto nº 45.880, de 27 de abril de 1959.
 
 Autoriza estrangeiro a adquirir o domínio pleno do terreno que menciona, situado em Sepetiba, no Distrito Federal.

@@ -1,5 +1,3 @@
-###MPV-000173-0-000-16-03-2004@@@
-
 MEDIDA PROVISÓRIA Nº 173, DE 16 DE MARÇO 2004.
 
 Institui o Programa Nacional de Apoio ao Transporte do Escolar - PNATE e o Programa de Apoio aos Sistemas de Ensino para Atendimento à Educação de Jovens e Adultos, dispõe sobre o repasse de recursos financeiros do Programa Brasil Alfabetizado, altera o art. 4º da Lei nº 9.424, de 24 de dezembro de 1996, e dá outras providências.

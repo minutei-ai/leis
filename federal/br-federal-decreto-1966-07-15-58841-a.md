@@ -1,5 +1,3 @@
-###DEC-058841-A-000-15-07-1966@@@
-
 DECRETO Nº 58.841-A, de 15 de julho de 1966
 
 Declara de utilidade pública a “Sociedade Italiana de Beneficência e Mútuo Socorro” com sede no Estado da Guanabara,

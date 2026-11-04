@@ -1,5 +1,3 @@
-###DEC-055965-0-000-20-04-1965@@@
-
 DECRETO Nº 55.965, DE 20 DE ABRIL DE 1965.
 
 Declara de utilidade pública o “Aprendizado Agrícola São Judas Tadeu”, com sede em Pindamonhangaba, Estado de São Paulo.

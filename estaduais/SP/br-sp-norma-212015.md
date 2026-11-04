@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212015)<br>
-
 # LEI N° 18.367, DE 15 DE DEZEMBRO DE 2025
 
 ## (Projeto de lei n° 909/2025, do Deputado Mauro Bragato - PSDB)

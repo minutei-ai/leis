@@ -1,7 +1,3 @@
-1
-
-###DEC-098597-0-000-19-12-1989@@@
-
 DECRETO Nº 98.597, DE 19 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de trecho de linha de transmissão das Centrais Elétricas de Santa Catarina S.A. - CELESC, no Município de Jaraguá do Sul, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-075025-0-000-03-12-1974@@@
-
 Decreto nº 75.025, de 3 de dezembro de 1974.
 
 Concede reconhecimento ao Curso de Pedagogia da Universidade Federal de São Carlos, com sede na cidade São Carlos, Estado de São Paulo.

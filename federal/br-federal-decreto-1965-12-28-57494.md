@@ -1,5 +1,3 @@
-###DEC-057494-0-000-28-12-1965@@@
-
 DECRETO Nº 57.494, DE 28 DE DEZEMBRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Atlântica Companhia Nacional de Seguros, inclusive aumento do capital social.

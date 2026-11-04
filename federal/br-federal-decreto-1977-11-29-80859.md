@@ -1,5 +1,3 @@
-###DEC-080859-0-000-29-11-1977@@@
-
 DECRETO Nº 80.859, DE 29 DE NOVEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado no Município de Fortaleza, Estado do Ceará.

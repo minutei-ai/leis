@@ -1,5 +1,3 @@
-###DEC-048137-0-000-22-04-1960@@@
-
 DECRETO Nº 43.137, DE 22 DE ABRIL DE 1960.
 
 Altera a denominação de repartição do Ministério da Fazenda

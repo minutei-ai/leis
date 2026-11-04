@@ -1,5 +1,3 @@
-###DEC-096508-0-000-15-08-1988@@@
-
 DECRETO N° 96.508, DE 15 DE AGOSTO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA LOGRADOURO ou BREJO VERDE”, classificado como “latifúndio por exploração”, situado no Município de São Romão, no Estado de Minas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.694, de 19 de maio de 1986, e dá outras providências.

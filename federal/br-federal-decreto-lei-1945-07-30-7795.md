@@ -1,5 +1,3 @@
-###DEL-007795-0-000-30-07-1945@@@
-
 DECRETO-LEI N. 7.795 – DE 30 DE JULHO DE 1945
 
 Modifica a redação do art. 2º do Decreto-lei n º 7.637, de 12 de junho de 1945

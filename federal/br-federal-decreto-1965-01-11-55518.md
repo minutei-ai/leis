@@ -1,5 +1,3 @@
-###DEC-055518-0-000-11-01-1965@@@
-
 DECRETO Nº 55.518, de 11 de janeiro de 1965.
 
 Autoriza Alumínio Poços de Caldas S.A. a pesquisar bauxita, no município de Mariana, Estado de Minas Gerais.

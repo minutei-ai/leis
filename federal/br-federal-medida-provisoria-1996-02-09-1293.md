@@ -1,7 +1,3 @@
-1
-
-###MPV-001293-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.293, DE 9 DE FEVEREIRO DE 1996.
 
 Autoriza a utilização de recursos do Fundo da Marinha Mercante - FMM, em favor da Companhia de Navegação Lloyd Brasileiro - LLOYDBRAS, e dá outras providências.

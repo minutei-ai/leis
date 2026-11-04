@@ -1,5 +1,3 @@
-###MPV-001865-0-007-18-11-1999@@@
-
 medida provisória nº 1865-7, de 18 de novembro de 1999.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

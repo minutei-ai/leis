@@ -1,7 +1,3 @@
-1
-
-###DEC-001617-0-000-04-09-1995@@@
-
 DECRETO Nº 1.617, DE 4 DE SETEMBRO DE 1995.
 
 Dispõe sobre a organização e o funcionamento do Conselho Nacional do Trabalho, e dá outras providências.

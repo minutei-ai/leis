@@ -1,5 +1,3 @@
-###DEL-005315-0-000-11-03-1943@@@
-
 DECRETO‑LEI N. 5.315 – DE 11 DE MARÇO DE 1943
 
 Prorroga o prazo a que se refere o art. 8º do decreto‑lei n. 2.610, de 20 de setembro de 1940

@@ -1,5 +1,3 @@
-###DEC-081445-0-000-14-03-1978@@@
-
 Decreto nº 81.445, de 14 de março de 1978
 
 Autoriza o aterro de área em mar e a cessão, sob o regime de aforamento, do terreno que menciona, situado na Cidade de Niterói, Estado do Rio de Janeiro.

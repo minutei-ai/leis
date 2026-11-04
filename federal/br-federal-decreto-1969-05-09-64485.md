@@ -1,5 +1,3 @@
-###DEC-064485-0-000-09-05-1969@@@
-
 DECRETO Nº 64.485, DE 9 DE MAIO DE 1969.
 
 Declara do intêresse social, para fins de desapropriação, imóveis situados nos municípios de Cruz Alta e Santa Bárbara do Sul, no Estado do Rio Grande do Sul.

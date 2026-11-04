@@ -1,5 +1,3 @@
-###DEL-008397-0-000-18-12-1945@@@
-
 DECRETO-LEI N. 8.397 – DE 18 DE DEZEMBRO DE 1945
 
 Altera o art. 48 do Decreto-lei número 1.713  de 28 de outubro de 1939

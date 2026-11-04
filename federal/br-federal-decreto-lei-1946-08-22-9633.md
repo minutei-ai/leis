@@ -1,5 +1,3 @@
-###DEL-009633-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.633 – DE 22 DE AGÔSTO DE 1946
 
 Dispõe sôbre arrolamento e inventário do material do Ministério da Agricultura, e dá outras providências.

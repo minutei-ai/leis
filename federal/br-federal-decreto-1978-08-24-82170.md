@@ -1,5 +1,3 @@
-###DEC-082170-0-000-24-08-1978@@@
-
 Decreto nº 82.170, de 24 de agosto de 1978.
 
 Concede reconhecimento à habilitação Engenharia Química do curso de Engenharia, ministrado pela Universidade Federal do Rio Grande do Norte, com sede na cidade de Natal, Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-061444-0-000-04-10-1967@@@
-
 decreto nº 61.444, de 4 de outubro de 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Companhia Industrial Ouropretana, no distrito de Rio Dôce, município de Rio Doce, Estado de Minas Gerais, outorga concessão à Centrais Elétricas de Minas Gerais S. A., no distrito e município acima referidos e dá outras providências.

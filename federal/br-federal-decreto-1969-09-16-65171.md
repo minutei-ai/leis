@@ -1,5 +1,3 @@
-###DEC-065171-0-000-16-09-1969@@@
-
 DECRETO Nº 65.171 - DE 16 DE SETEMBRO DE 1969.
 
 Dispõe sôbre a presidência das comissões especiais e grupos de trabalho do Ministério da Educação e Cultura, que menciona.

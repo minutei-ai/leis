@@ -1,5 +1,3 @@
-###DEC-071301-0-000-01-11-1972@@@
-
 DECRETO Nº 71.301, DE 1 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação e Ciências Humanas "Prof. Laerte de Carvalho", em Santos, Estado de São Paulo.

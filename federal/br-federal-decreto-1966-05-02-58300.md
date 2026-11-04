@@ -1,5 +1,3 @@
-###DEC-058300-0-000-02-05-1966@@@
-
 DECRETO Nº 58.300, DE 2 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Itagiba Campos da Silva, a pesquisar minério de ferro no município de Rio Piracicaba Estado de Minas Gerais.

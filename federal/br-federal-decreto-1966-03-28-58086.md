@@ -1,5 +1,3 @@
-###DEC-058086-0-000-28-03-1966@@@
-
 DECRETO Nº 58.086, DE 28 DE MARÇO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Paranaense de Seguros Gerais, relativa ao aumento do capital social.

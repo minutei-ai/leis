@@ -1,5 +1,3 @@
-###DEC-086310-0-000-24-08-1981@@@
-
 DECRETO Nº 86.310, DE 24 DE AGOSTO DE 1981
 
 Autoriza a NITRIFLEX S.A - Indústria e Comércio a proceder ao aumento do seu Capital Social.

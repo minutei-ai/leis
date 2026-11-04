@@ -1,5 +1,3 @@
-###DEL-001319-0-000-12-03-1974@@@
-
 # DECRETO-LEI Nº 1.319, DE 12 DE MARÇO DE 1974
 
 Reajusta os vencimentos dos servidores do Distrito Federal e dá outras providências.

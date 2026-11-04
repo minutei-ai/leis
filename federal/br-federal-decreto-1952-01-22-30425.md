@@ -1,12 +1,10 @@
-###DEC-030425-0-000-22-01-1952@@@
+**DECRETO Nº 30.425, DE 22 DE JANEIRO DE 1952.**
 
-<strong>DECRETO Nº 30.425, DE 22 DE JANEIRO DE 1952.</strong>
+***Abre, pelo Ministério da Educação e Saúde, o crédito especial de Cr$100.000.000,00, para atender, em 1951, às despesas de pessoal, de estabelecimento de ensino superior federalizados.***
 
-<em><strong>Abre, pelo Ministério da Educação e Saúde, o crédito especial de Cr$100.000.000,00, para atender, em 1951, às despesas de pessoal, de estabelecimento de ensino superior federalizados.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da autorização contida na Lei número 1.523, de 26 de dezembro de 1951, e tendo ouvido o Tribunal de Contas nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da autorização contida na Lei número 1.523, de 26 de dezembro de 1951, e tendo ouvido o Tribunal de Contas nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica aberto, pelo Ministério da Educação e Saúde, o crédito especial de Cr$100.000.000,00 (cem milhões de cruzeiros), para atender, no exercício de 1951, às despesas com pessoal dos seguintes estabelecimentos de ensino superior federalizados pela Lei nº 1.254, 4 de dezembro de 1950, inclusive Reitorias das Universidades do Recife, da Bahia e de Minas Gerais:
 
@@ -108,7 +106,7 @@ XII - Minas Gerais:
 
 Rio de Janeiro, em 22 de janeiro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 E. Simões Filho
 

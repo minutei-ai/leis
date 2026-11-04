@@ -1,5 +1,3 @@
-###DEC-049747-0-000-31-12-1960@@@
-
 DECRETO Nº 49.747, DE 31 DE DEZEMBRO DE 1960.
 
 Altera o Regulamento da Diretoria do Pessoal da Aeronáutica, aprovado pelo Decreto número 27.001, de 3 de agôsto de 1949.

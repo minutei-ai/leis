@@ -1,5 +1,3 @@
-###DEL-001616-0-000-03-03-1978@@@
-
 # Decreto-lEI Nº 1.616, de 3 de março de 1978
 
 Reajusta os vencimentos, salários e proventos dos servidores dos Quadros Permanentes e Suplementares do Superior Tribunal Militar e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008692-0-000-16-01-1946@@@
-
 DECRETO-LEI N. 8.692 – DE 16 de JANEIRO DE 1946
 
 Altera o padrão de vencimentos de cargos em comissão do Quadro Permanente do Ministério da Agricultura.

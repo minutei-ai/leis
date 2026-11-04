@@ -1,5 +1,3 @@
-###DEL-008207-0-000-22-11-1945@@@
-
 DECRETO-LEI N. 8.207 – DE 22 DE NOVEMBRO DE 1945
 
 Altera a redação dos artigos 1.594 e 1.612 do Código Civil, revoga o Decreto-lei nº 1.907, de 26 de dezembro de 1939, e dá outras providências. 

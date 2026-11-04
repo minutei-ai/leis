@@ -1,5 +1,3 @@
-###DEC-058916-0-000-22-07-1966@@@
-
 decreto Nº 58.916, DE 22 DE JULHO DE 1966.
 
 Autoriza no Ministério da Aeronáutica a fixação de normas reguladoras para as funções de Ajudante-de-Ordens.

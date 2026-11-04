@@ -1,5 +1,3 @@
-###DEC-068013-0-000-31-12-1970@@@
-
 DECRETO Nº 68.013, DE 31 DE DEZEMBRO DE 1970.
 
 Altera o enquadramento dos servidores do Departamento Nacional de Obras de Saneamento, beneficiados pelo parágrafo único do artigo 23 da Lei nº 4.069, de 11 de junho de 1962, e dá outras providências.

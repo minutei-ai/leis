@@ -1,5 +1,3 @@
-###DEC-082307-0-000-21-09-1978@@@
-
 Decreto nº 82.307, de 21 de setembro de 1978.
 
 Dispõe sobre concessão de vistos de entrada para estrangeiros com base em reciprocidade.

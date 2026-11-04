@@ -1,5 +1,3 @@
-###DEC-073265-0-000-06-12-1973@@@
-
 DECRETO Nº 73.265 - DE 6 DE DEZEMBRO DE 1973
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras "Farias Brito", mantida pela Associação Paulista de Educação e Cultura, com sede na cidade de Guarulhos, Estado de São Paulo.

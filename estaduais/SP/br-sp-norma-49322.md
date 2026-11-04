@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49322)
-
 # LEI Nº 11.668, DE 13 DE JANEIRO DE 2004
 
 ## (PL 1061/2003 - Maria Lúcia Amary)

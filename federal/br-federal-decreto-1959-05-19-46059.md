@@ -1,5 +1,3 @@
-###DEC-046059-0-000-19-05-1959@@@
-
 DECRETO Nº 46.059, DE 19 DE maio DE 1959.
 
 Abre, ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Rio Grande do Sul, o crédito especial de Cr$120.000,00, para o fim que específica.

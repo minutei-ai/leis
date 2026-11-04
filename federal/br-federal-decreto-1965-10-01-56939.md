@@ -1,5 +1,3 @@
-###DEC-056939-0-000-01-10-1965@@@
-
 DECRETO Nº 56.939, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza Mineração Santa Rosa Ltda. A pesquisar minério de cobre no município de Ituaçu, Estado da Bahia.

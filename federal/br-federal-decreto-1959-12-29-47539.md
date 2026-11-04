@@ -1,5 +1,3 @@
-###DEC-047539-0-000-29-12-1959@@@
-
 DECRETO Nº 47.539, DE 29 DE Dezembro DE 1959.
 
 Inclui funções gratificadas no Quadro Permanente do Ministério da Fazenda e dá outras providencias.

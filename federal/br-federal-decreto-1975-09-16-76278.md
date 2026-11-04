@@ -1,5 +1,3 @@
-###DEC-076278-0-000-16-09-1975@@@
-
 DECRETO Nº 76.278 - DE 16 DE SETEMBRO DE 1975
 
 Confisca bens pertencentes a Nicolau João Abdalla, e dá outras providências.

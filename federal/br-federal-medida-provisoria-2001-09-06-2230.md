@@ -1,5 +1,3 @@
-###MPV-002230-0-000-06-09-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.230, DE 6 DE SETEMBRO DE 2001.
 
  Altera a Lei no 10.213, de 27 de março de 2001, que define normas de regulação para o setor de medicamentos, institui a Fórmula Paramétrica de Reajuste de Preços de Medicamentos - FPR e cria a Câmara de Medicamentos.

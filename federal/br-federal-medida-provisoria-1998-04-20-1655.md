@@ -1,5 +1,3 @@
-###MPV-001655-0-000-20-04-1998@@@
-
 # MEDIDA PROVISóRIA Nº 1.655, DE 20 DE ABRIL DE 1998
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e o Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

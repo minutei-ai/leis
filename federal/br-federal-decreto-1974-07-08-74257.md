@@ -1,5 +1,3 @@
-###DEC-074257-0-000-08-07-1974@@@
-
 DECRETO Nº 74.257 - DE 8 DE JULHO DE 1974.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Econômicas da Universidade Católica de Petrópolis com sede na Cidade de Petrópolis, Estado do Rio de Janeiro.

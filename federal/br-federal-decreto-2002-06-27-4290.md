@@ -1,5 +1,3 @@
-###DEC-004290-0-000-27-06-2002@@@
-
 DECRETO Nº 4.290, DE 27 DE JUNHO DE 2002
 
 Dispõe sobre a estrutura e as atribuições do Departamento de Ensino e Pesquisa, órgão de direção setorial do Comando do Exército, e dá outras providências.

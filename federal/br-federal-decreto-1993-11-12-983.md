@@ -1,7 +1,3 @@
-1
-
-###DEC-000983-0-000-12-11-1993@@@
-
 DECRETO N° 983, DE 12 DE NOVEMBRO DE 1993
 
 Dispõe sobre a colaboração dos órgãos e entidades da Administração Pública Federal com o Ministério Público Federal na repressão a todas as formas de improbidade administrativa.

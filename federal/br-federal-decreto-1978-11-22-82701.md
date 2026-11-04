@@ -1,5 +1,3 @@
-###DEC-082701-0-000-22-11-1978@@@
-
 DECRETO Nº 82.701, DE 22 DE NOVEMBRO DE 1978.
 
 Concede reconhecimento ao curso de Estudos Sociais, ministrado pela Faculdade de Ciências Humanas do Sul Paulista, com sede na cidade de Itapeva, Estado de São Paulo.

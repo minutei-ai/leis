@@ -1,5 +1,3 @@
-###DEC-054794-0-000-03-11-1964@@@
-
 DECRETO Nº 54.794, DE 3 DE NOVEMBRO DE 1964.
 
 Concede à Comércio e Mineração Itabirito Ltda., autorização para funcionar como emprêsa de mineração.

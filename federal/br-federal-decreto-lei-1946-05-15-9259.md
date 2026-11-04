@@ -1,5 +1,3 @@
-###DEL-009259-0-000-15-05-1946@@@
-
 DECRETO-LEI N. 9.259 – DE 15 DE MAIO DE 1946
 
 Cria, no Quadro Permanente da Prefeitura do Distrito Federal, cargo isolado de provimento em comissão.

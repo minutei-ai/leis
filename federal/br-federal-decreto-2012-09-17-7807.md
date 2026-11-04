@@ -1,5 +1,3 @@
-###DEC-007807-0-000-17-09-2012-PUB-01@@@
-
 DECRETO N°\- 7.807, DE 17 DE SETEMBRO DE 2012
 
 Dispõe sobre a definição de produtos estratégicos para o Sistema Único de Saúde - SUS, para fins do disposto no inciso XXXII do caput, e no § 2º, do art. 24 da Lei nº 8.666, de 21 de junho de 1993.

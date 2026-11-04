@@ -1,5 +1,3 @@
-###DEC-080778-0-000-22-11-1977@@@
-
 Decreto nº 80.778, de 22 de novembro de 1977.
 
 Concede à FOSFAGO - Fosfatos de Goiás S/A o direito de lavrar fosfato no Município de Ouvidor, Estado de Goiás.

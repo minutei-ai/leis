@@ -1,5 +1,3 @@
-###DEC-068115-0-000-27-01-1971@@@
-
 DECRETO Nº 68.115, DE 27 DE JANEIRO DE 1971.
 
 Altera o artigo 1º do Decreto nº 56.261, de 5 de maio de 1965, que instituiu a Semana do Cavalo.

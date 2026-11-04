@@ -1,5 +1,3 @@
-###DEC-048646-0-000-01-08-1960@@@
-
 DECRETO Nº 43.646, DE 1º DE AGôSTO DE 1960.
 
 Dispõe sôbre empréstimos a cargo das instituições de Previdência Social e Caixas Econômicas Federais.

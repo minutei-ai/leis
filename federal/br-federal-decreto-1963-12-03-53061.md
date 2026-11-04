@@ -1,5 +1,3 @@
-###DEC-053061-0-000-03-12-1963@@@
-
 Decreto nº 53.061, de 3 de dezembro de 1963.
 
 Prorroga, por mais de 10 (dez) anos, o prazo de autorização para funcionar, do banco de Crédito Real do Rio Grande do Sul, S.A., com sede em Pôrto Alegre (RS).

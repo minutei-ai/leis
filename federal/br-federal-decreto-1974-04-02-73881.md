@@ -1,5 +1,3 @@
-###DEC-073881-0-000-02-04-1974@@@
-
 DECRETO Nº 73.881, DE 2 DE ABRIL DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, terreno situado na cabeceira da pista de pouso do Aeroporto Internacional de Manaus, necessário ao Ministério da Aeronáutica.

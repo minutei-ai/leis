@@ -4,7 +4,8 @@ Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2011
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 1º - Esta Lei estima a receita e fixa a despesa do Estado para o exercício financeiro de 2011, nos termos das normas das Constituições Federal e Estadual e da Lei nº 12.039, de 28 de dezembro de 2010, que dispõe sobre as diretrizes orçamentárias para o exercício de 2011, compreendendo:
@@ -15,10 +16,12 @@ II - o Orçamento da Seguridade Social, abrangendo todos os órgãos e entidades
 
 III - o Orçamento de Investimento das Empresas em que o Estado, direta ou indiretamente, detém a maioria do capital social com direito a voto.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da Estimativa da Receita e Fixação da Despesa
 
 Art. 2º - A receita total é estimada em R$ 26.249.638.817,00 (vinte e seis bilhões, duzentos e quarenta e nove milhões, seiscentos e trinta e oito mil e oitocentos e dezessete reais).
@@ -27,7 +30,173 @@ Art. 3º - A receita decorrerá da arrecadação efetuada nos termos da legisla�
 
 R$ 1,00
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 163.05pt; border: solid black 1.0pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Especificação</p></td><td style="width: 92.1pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">Tesouro</p></td><td style="width: 92.15pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">Outras Fontes</p></td><td style="width: 99.25pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">Total</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receitas Correntes</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">22.509.948.171</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">3.028.152.663</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">25.538.100.834</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receita Tributária</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">12.991.934.471</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">-<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">12.991.934.471</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receita de Contribuições</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">-<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">1.281.072.384</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1.281.072.384</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receita Patrimonial</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">164.853.701</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">88.851.077</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">253.704.778</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receita Agropecuária</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">-<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">1.712.641</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1.712.641</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receita Industrial</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">-<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">216.000</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">216.000</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receita de Serviços</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">101.720.924</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">86.085.367</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">187.806.291</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Transferências Correntes</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">8.745.943.681</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">1.042.836.720</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">9.788.780.401</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Outras Receitas Correntes</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">505.495.394</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">527.378.474</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1.032.873.868</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receitas de Capital</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">1.787.048.444</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">162.854.803</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1.949.903.247</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Operação de Crédito</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">1.014.626.940</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">-<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1.014.626.940</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Alienação de Bens</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">81.000.000</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">4.807.000</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">85.807.000</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Amortização de Empréstimos</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">5.417.504</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">67.000.000</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">72.417.504</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Transferências de Capital</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">686.004.000</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">86.507.803</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">772.511.803</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Outras Receitas de Capital</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">-<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">4.540.000</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">4.540.000</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receitas Intra-Orçamentárias Correntes</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">-<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">1.607.757.000</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1.607.757.000</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receita de Contribuições</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">-<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">1.567.802.000</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1.567.802.000</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Receita de Serviços</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">-<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">39.955.000</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">39.955.000</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">Deduções das Receitas Correntes</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">(2.846.122.264)</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">-<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">(2.846.122.264)</p></td></tr><tr><td style="width: 163.05pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="217"><p class="Tabela-Texto">RECEITA TOTAL</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">21.450.874.351</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">4.798.764.466</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">26.249.638.817</p></td></tr></tbody></table>
+Especificação
+
+Tesouro
+
+Outras Fontes
+
+Total
+
+Receitas Correntes
+
+22.509.948.171
+
+3.028.152.663
+
+25.538.100.834
+
+Receita Tributária
+
+12.991.934.471
+
+-
+
+12.991.934.471
+
+Receita de Contribuições
+
+-
+
+1.281.072.384
+
+1.281.072.384
+
+Receita Patrimonial
+
+164.853.701
+
+88.851.077
+
+253.704.778
+
+Receita Agropecuária
+
+-
+
+1.712.641
+
+1.712.641
+
+Receita Industrial
+
+-
+
+216.000
+
+216.000
+
+Receita de Serviços
+
+101.720.924
+
+86.085.367
+
+187.806.291
+
+Transferências Correntes
+
+8.745.943.681
+
+1.042.836.720
+
+9.788.780.401
+
+Outras Receitas Correntes
+
+505.495.394
+
+527.378.474
+
+1.032.873.868
+
+Receitas de Capital
+
+1.787.048.444
+
+162.854.803
+
+1.949.903.247
+
+Operação de Crédito
+
+1.014.626.940
+
+-
+
+1.014.626.940
+
+Alienação de Bens
+
+81.000.000
+
+4.807.000
+
+85.807.000
+
+Amortização de Empréstimos
+
+5.417.504
+
+67.000.000
+
+72.417.504
+
+Transferências de Capital
+
+686.004.000
+
+86.507.803
+
+772.511.803
+
+Outras Receitas de Capital
+
+-
+
+4.540.000
+
+4.540.000
+
+Receitas Intra-Orçamentárias Correntes
+
+-
+
+1.607.757.000
+
+1.607.757.000
+
+Receita de Contribuições
+
+-
+
+1.567.802.000
+
+1.567.802.000
+
+Receita de Serviços
+
+-
+
+39.955.000
+
+39.955.000
+
+Deduções das Receitas Correntes
+
+(2.846.122.264)
+
+-
+
+(2.846.122.264)
+
+RECEITA TOTAL
+
+21.450.874.351
+
+4.798.764.466
+
+26.249.638.817
 
 Art. 4º - A despesa total, no mesmo valor da receita, é fixada em R$26.249.638.817,00 (vinte e seis bilhões, duzentos e quarenta e nove milhões, seiscentos e trinta e oito mil e oitocentos e dezessete reais), sendo:
 
@@ -39,9 +208,288 @@ Art. 5º - A despesa fixada, observada a consolidação e o detalhamento da prog
 
 R$ 1,00
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 1.4pt 0cm 1.4pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 7.0cm; border: solid black 1.0pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="265"><p class="Tabela-Texto">Especificação</p></td><td style="width: 3.0cm; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">Tesouro</p></td><td style="width: 3.0cm; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">Outras Fontes</p></td><td style="width: 3.0cm; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">Total</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="265"><p class="Tabela-Texto">Assembléia Legislativa</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">303.648.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">303.648.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="265"><p class="Tabela-Texto">Tribunal de Contas do Estado</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">138.552.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">50.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">138.602.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="265"><p class="Tabela-Texto">Tribunal de Contas dos Municípios</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">111.626.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">111.626.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="265"><p class="Tabela-Texto">Tribunal de Justiça</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">1.196.992.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">1.196.992.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="265"><p class="Tabela-Texto">Casa Militar do Governador</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">23.636.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">23.636.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="265"><p class="Tabela-Texto">Procuradoria Geral do Estado</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">91.368.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">91.368.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="265"><p class="Tabela-Texto">Gabinete do Vice-Governador</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">1.643.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt;" valign="top" width="113"><p class="Tabela-Texto">1.643.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria da Administração</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">1.101.756.673</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">2.888.218.123</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">3.989.974.796</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria da Agricultura, Irrigação e Reforma Agrária</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">336.098.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">20.752.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">356.850.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria da Educação</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">3.660.064.811</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">66.753.036</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">3.726.817.847</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria da Fazenda</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">1.073.885.400</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">221.941.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">1.295.826.400</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Casa Civil</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">184.444.098</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">184.444.098</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria da Indústria, Comércio e Mineração</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">155.922.909</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">55.881.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">211.803.909</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria da Justiça, Cidadania e Direitos Humanos</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">241.149.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">241.149.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria do Planejamento</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">166.426.429</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">1.432.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">167.858.429</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria da Saúde</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">2.108.646.705</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">1.061.300.077</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">3.169.946.782</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria da Segurança Pública</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">2.435.136.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">12.308.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">2.447.444.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria do Trabalho, Emprego, Renda e Esporte</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">103.012.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">6.980.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">109.992.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria de Cultura</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">187.619.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">37.359.173</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">224.978.173</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria de Infra-Estrutura</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">527.555.250</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">24.264.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">551.819.250</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria de Desenvolvimento Social e Combate à Pobreza</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">226.675.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">21.564.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">248.239.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria de Desenvolvimento Urbano</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">1.288.606.399</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">3.830.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">1.292.436.399</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria do Meio Ambiente</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">278.769.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">49.225.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">327.994.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria de Ciência, Tecnologia e Inovação</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">92.332.451</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">20.630.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">112.962.451</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria de Relações Institucionais</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">6.366.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">6.366.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria de Promoção da Igualdade</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">7.259.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">7.259.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria de Desenvolvimento e Integração Regional</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">104.997.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">184.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">105.181.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Secretaria de Turismo</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">127.853.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">2.624.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">130.477.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Gabinete do Governador</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">15.118.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">15.118.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Encargos Gerais do Estado</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">4.708.602.409</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">303.469.057</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">5.012.071.466</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Reserva de Contingência</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">12.500.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">12.500.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Ministério Público</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">343.318.817</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">343.318.817</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">Defensoria Pública do Estado da Bahia</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">89.296.000</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">-</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">89.296.000</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="265"><p class="Tabela-Texto">DESPESA TOTAL</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">21.450.874.351</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">4.798.764.466</p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 1.4pt 0cm 1.4pt; height: 14.15pt;" valign="top" width="113"><p class="Tabela-Texto">26.249.638.817</p></td></tr></tbody></table>
+Especificação
 
-SEÇÃO II -<br>
+Tesouro
+
+Outras Fontes
+
+Total
+
+Assembléia Legislativa
+
+303.648.000
+
+-
+
+303.648.000
+
+Tribunal de Contas do Estado
+
+138.552.000
+
+50.000
+
+138.602.000
+
+Tribunal de Contas dos Municípios
+
+111.626.000
+
+-
+
+111.626.000
+
+Tribunal de Justiça
+
+1.196.992.000
+
+-
+
+1.196.992.000
+
+Casa Militar do Governador
+
+23.636.000
+
+-
+
+23.636.000
+
+Procuradoria Geral do Estado
+
+91.368.000
+
+-
+
+91.368.000
+
+Gabinete do Vice-Governador
+
+1.643.000
+
+-
+
+1.643.000
+
+Secretaria da Administração
+
+1.101.756.673
+
+2.888.218.123
+
+3.989.974.796
+
+Secretaria da Agricultura, Irrigação e Reforma Agrária
+
+336.098.000
+
+20.752.000
+
+356.850.000
+
+Secretaria da Educação
+
+3.660.064.811
+
+66.753.036
+
+3.726.817.847
+
+Secretaria da Fazenda
+
+1.073.885.400
+
+221.941.000
+
+1.295.826.400
+
+Casa Civil
+
+184.444.098
+
+-
+
+184.444.098
+
+Secretaria da Indústria, Comércio e Mineração
+
+155.922.909
+
+55.881.000
+
+211.803.909
+
+Secretaria da Justiça, Cidadania e Direitos Humanos
+
+241.149.000
+
+-
+
+241.149.000
+
+Secretaria do Planejamento
+
+166.426.429
+
+1.432.000
+
+167.858.429
+
+Secretaria da Saúde
+
+2.108.646.705
+
+1.061.300.077
+
+3.169.946.782
+
+Secretaria da Segurança Pública
+
+2.435.136.000
+
+12.308.000
+
+2.447.444.000
+
+Secretaria do Trabalho, Emprego, Renda e Esporte
+
+103.012.000
+
+6.980.000
+
+109.992.000
+
+Secretaria de Cultura
+
+187.619.000
+
+37.359.173
+
+224.978.173
+
+Secretaria de Infra-Estrutura
+
+527.555.250
+
+24.264.000
+
+551.819.250
+
+Secretaria de Desenvolvimento Social e Combate à Pobreza
+
+226.675.000
+
+21.564.000
+
+248.239.000
+
+Secretaria de Desenvolvimento Urbano
+
+1.288.606.399
+
+3.830.000
+
+1.292.436.399
+
+Secretaria do Meio Ambiente
+
+278.769.000
+
+49.225.000
+
+327.994.000
+
+Secretaria de Ciência, Tecnologia e Inovação
+
+92.332.451
+
+20.630.000
+
+112.962.451
+
+Secretaria de Relações Institucionais
+
+6.366.000
+
+-
+
+6.366.000
+
+Secretaria de Promoção da Igualdade
+
+7.259.000
+
+-
+
+7.259.000
+
+Secretaria de Desenvolvimento e Integração Regional
+
+104.997.000
+
+184.000
+
+105.181.000
+
+Secretaria de Turismo
+
+127.853.000
+
+2.624.000
+
+130.477.000
+
+Gabinete do Governador
+
+15.118.000
+
+-
+
+15.118.000
+
+Encargos Gerais do Estado
+
+4.708.602.409
+
+303.469.057
+
+5.012.071.466
+
+Reserva de Contingência
+
+12.500.000
+
+-
+
+12.500.000
+
+Ministério Público
+
+343.318.817
+
+-
+
+343.318.817
+
+Defensoria Pública do Estado da Bahia
+
+89.296.000
+
+-
+
+89.296.000
+
+DESPESA TOTAL
+
+21.450.874.351
+
+4.798.764.466
+
+26.249.638.817
+
+SEÇÃO II -
+
 Da Autorização para Abertura de Créditos Suplementares e Contratação de Operações de Crédito
 
 Art. 6º - Fica o Poder Executivo autorizado a abrir créditos suplementares:
@@ -64,26 +512,28 @@ Parágrafo único - Não serão computados, para efeito do limite previsto neste
 
 Art. 7º - Fica o Poder Executivo autorizado a realizar operações de crédito por antecipação da receita até o limite de 20% (vinte por cento) da receita corrente líquida estimada nesta Lei, observado o disposto nos arts. 32 e 38 da Lei Complementar nº 101, de 04 de maio de 2000.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO ORÇAMENTO DE INVESTIMENTO DAS EMPRESAS
 
 Art. 8º - As despesas do Orçamento de Investimento das Empresas, fixadas em R$ 371.436.429,00 (trezentos e setenta e um milhões, quatrocentos e trinta e seis mil e quatrocentos e vinte e nove reais), constantes do Anexo II, têm o seguinte desdobramento:
 
 R$ 1,00
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 319.05pt; border: solid black 1.0pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" valign="top" width="425"><p class="Tabela-Texto">Especificação</p></td><td style="width: 134.65pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2" valign="top" width="180"><p class="Tabela-Texto">Valor</p></td></tr><tr><td style="width: 319.6pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">Secretaria da Administração</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">1.400.000</p></td></tr><tr><td style="width: 319.6pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">Secretaria da Fazenda</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">55.000.000</p></td></tr><tr><td style="width: 319.6pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">Casa Civil</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">15.368.429</p></td></tr><tr><td style="width: 319.6pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">Secretaria da Indústria, Comércio e Mineração</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">9.180.000</p></td></tr><tr><td style="width: 319.6pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">Secretaria de Infra-Estrutura</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">31.250.000</p></td></tr><tr><td style="width: 319.6pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">Secretaria de Desenvolvimento Urbano</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">259.238.000</p></td></tr><tr><td style="width: 319.6pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">TOTAL DA DESPESA</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">371.436.429</p></td></tr><tr><td style="border: none;" width="425">&nbsp;</td><td style="border: none;" width="1">&nbsp;</td><td style="border: none;" width="179">&nbsp;</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> Especificação </td><td colspan="2" valign="top"> Valor </td></tr><tr><td colspan="2" valign="top"> Secretaria da Administração </td><td valign="top"> 1.400.000 </td></tr><tr><td colspan="2" valign="top"> Secretaria da Fazenda </td><td valign="top"> 55.000.000 </td></tr><tr><td colspan="2" valign="top"> Casa Civil </td><td valign="top"> 15.368.429 </td></tr><tr><td colspan="2" valign="top"> Secretaria da Indústria, Comércio e Mineração </td><td valign="top"> 9.180.000 </td></tr><tr><td colspan="2" valign="top"> Secretaria de Infra-Estrutura </td><td valign="top"> 31.250.000 </td></tr><tr><td colspan="2" valign="top"> Secretaria de Desenvolvimento Urbano </td><td valign="top"> 259.238.000 </td></tr><tr><td colspan="2" valign="top"> TOTAL DA DESPESA </td><td valign="top"> 371.436.429 </td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
 Art. 9º - As fontes de financiamento para cobertura dos investimentos fixados no artigo anterior, vedado o endividamento junto a empreiteiras, fornecedores ou instituições financeiras para compensar frustração de receita, são estimadas com o seguinte desdobramento:
 
 R$ 1,00
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 319.05pt; border: solid black 1.0pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" valign="top" width="425"><p class="Tabela-Texto">Especificação</p></td><td style="width: 134.7pt; border: solid black 1.0pt; border-left: none; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 15.0pt;" colspan="2" valign="top" width="180"><p class="Tabela-Texto">Valor</p></td></tr><tr><td style="width: 319.65pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">Geração Própria</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">326.436.429</p></td></tr><tr><td style="width: 319.65pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">Originárias de Terceiros</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">45.000.000</p></td></tr><tr><td style="width: 319.65pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">Operações de Crédito Interna</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">45.000.000</p></td></tr><tr><td style="width: 319.65pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt; height: 15.0pt;" colspan="2" valign="top" width="426"><p class="Tabela-Texto">TOTAL DAS FONTES DE FINANCIAMENTO</p></td><td style="width: 134.1pt; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt; height: 15.0pt;" valign="top" width="179"><p class="Tabela-Texto">371.436.429</p></td></tr><tr><td style="border: none;" width="425">&nbsp;</td><td style="border: none;" width="1">&nbsp;</td><td style="border: none;" width="179">&nbsp;</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> Especificação </td><td colspan="2" valign="top"> Valor </td></tr><tr><td colspan="2" valign="top"> Geração Própria </td><td valign="top"> 326.436.429 </td></tr><tr><td colspan="2" valign="top"> Originárias de Terceiros </td><td valign="top"> 45.000.000 </td></tr><tr><td colspan="2" valign="top"> Operações de Crédito Interna </td><td valign="top"> 45.000.000 </td></tr><tr><td colspan="2" valign="top"> TOTAL DAS FONTES DE FINANCIAMENTO </td><td valign="top"> 371.436.429 </td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
 Art. 10 - Fica o Poder Executivo autorizado a abrir créditos suplementares até o limite de 30% (trinta por cento) do valor do orçamento atualizado de cada empresa, observado o disposto no art. 8º desta Lei.
 
 Parágrafo único - Nos créditos suplementares financiados com operações de crédito, inclusive as respectivas variações monetária e cambial, o limite será o valor autorizado em lei ou previsto no cronograma de recebimento e, nos casos de convênios e outros acordos, o valor neles previsto.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES FINAIS
 
 Art. 11 - As metas fiscais, definidas no Anexo II da Lei nº 12.039, de 28 de dezembro de 2010, que dispõe sobre as diretrizes orçamentárias para o exercício de 2011, ficam ajustadas na forma dos quadros integrantes do Anexo I desta Lei.

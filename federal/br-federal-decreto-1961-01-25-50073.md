@@ -1,5 +1,3 @@
-###DEC-050073-0-000-25-01-1961@@@
-
 DECRETO Nº 50.073, DE 25 DE JANEIRO DE 1961.
 
 Eleva à categoria de Embaixada a representação diplomática do Brasil junto ao Govêrno do Irão, com sede em Teerã.

@@ -20,8 +20,178 @@ Ivo Braga
 
 RELAÇÃO DOS PROCESSOS A SEREM PAGOS ATRAVÉS CRÉDITO ESPECIAL.
 
-<table style="width: 404.0pt; margin-left: 7.1pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="539" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 77.95pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>PROTOCOLO</span></p></td><td style="width: 233.9pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>NOME</span></p></td><td style="width: 92.15pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>IMPORTÂNCIAS</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1125-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Anexo Tabacalera do Brasil S/A</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>15.480,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2465-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312">&nbsp;</td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123">&nbsp;</td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>780-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Comissão do Vale do S. Francisco Ser. de Navegação</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>2.082,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>319-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Estrada de Ferro de Nazaré</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>5.336,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>318-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Estrada de Ferro de Nazaré</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>5.048,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>837-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Cia. de Navegação Bahiana</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>370,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>808-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Cia. de Navegação Bahiana</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>3.640,50</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>882-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Cia. de Navegação Bahiana</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>23.430,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4394-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Cia. de Navegação Bahiana</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>4.763,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>536-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Rede Ferroviária Federal S/A</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>9.211,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>513-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Viação Bahiana do São Francisco</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>2.407,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1180-59</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Revista da Semana</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>20.000,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2812-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Waldemar Jambeiro dos Santos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>317.080,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2812-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Waldemar Jambeiro dos Santos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>277.480,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2812-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Waldemar Jambeiro dos Santos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>34.338,50</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2812-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Manoel Macimiliano de Almeida</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>146.149,80</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>32-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Abelardo Torres Brandão</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>43.200,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3240-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Imprensa Oficial da Bahia</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>1.163.959,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2812-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Deptº. dos Correios e Telégrafos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>13.644,10</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4042-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Deptº. dos Correios e Telégrafos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>5.899,40</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4085-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Deptº. dos Correios e Telégrafos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>20.514,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4388-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Deptº. dos Correios e Telégrafos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>24.309,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3778-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Deptº. dos Correios e Telégrafos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>23.726,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3474-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Deptº. dos Correios e Telégrafos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>3.033,80</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>271-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Deptº. dos Correios e Telégrafos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>10.351,40</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4629-61</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Deptº. dos Correios e Telégrafos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>41.182,00</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>5-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Deptº. dos Correios e Telégrafos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>4.535,40</span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>211-62</span></p></td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312"><p class="Tabela-Texto"><span>Deptº. dos Correios e Telégrafos</span></p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span style="text-decoration: underline;"><span>43.099,00</span></span></p></td></tr><tr><td style="width: 77.95pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104">&nbsp;</td><td style="width: 233.9pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="312">&nbsp;</td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto"><span>2.269.728,90</span></p></td></tr></tbody></table>
+PROTOCOLO
+
+NOME
+
+IMPORTÂNCIAS
+
+1125-62
+
+Anexo Tabacalera do Brasil S/A
+
+15.480,00
+
+2465-61
+
+780-61
+
+Comissão do Vale do S. Francisco Ser. de Navegação
+
+2.082,00
+
+319-62
+
+Estrada de Ferro de Nazaré
+
+5.336,00
+
+318-62
+
+Estrada de Ferro de Nazaré
+
+5.048,00
+
+837-62
+
+Cia. de Navegação Bahiana
+
+370,00
+
+808-61
+
+Cia. de Navegação Bahiana
+
+3.640,50
+
+882-61
+
+Cia. de Navegação Bahiana
+
+23.430,00
+
+4394-61
+
+Cia. de Navegação Bahiana
+
+4.763,00
+
+536-62
+
+Rede Ferroviária Federal S/A
+
+9.211,00
+
+513-62
+
+Viação Bahiana do São Francisco
+
+2.407,00
+
+1180-59
+
+Revista da Semana
+
+20.000,00
+
+2812-62
+
+Waldemar Jambeiro dos Santos
+
+317.080,00
+
+2812-62
+
+Waldemar Jambeiro dos Santos
+
+277.480,00
+
+2812-62
+
+Waldemar Jambeiro dos Santos
+
+34.338,50
+
+2812-62
+
+Manoel Macimiliano de Almeida
+
+146.149,80
+
+32-62
+
+Abelardo Torres Brandão
+
+43.200,00
+
+3240-61
+
+Imprensa Oficial da Bahia
+
+1.163.959,00
+
+2812-61
+
+Deptº. dos Correios e Telégrafos
+
+13.644,10
+
+4042-61
+
+Deptº. dos Correios e Telégrafos
+
+5.899,40
+
+4085-61
+
+Deptº. dos Correios e Telégrafos
+
+20.514,00
+
+4388-61
+
+Deptº. dos Correios e Telégrafos
+
+24.309,00
+
+3778-61
+
+Deptº. dos Correios e Telégrafos
+
+23.726,00
+
+3474-61
+
+Deptº. dos Correios e Telégrafos
+
+3.033,80
+
+271-61
+
+Deptº. dos Correios e Telégrafos
+
+10.351,40
+
+4629-61
+
+Deptº. dos Correios e Telégrafos
+
+41.182,00
+
+5-62
+
+Deptº. dos Correios e Telégrafos
+
+4.535,40
+
+211-62
+
+Deptº. dos Correios e Telégrafos
+
+43.099,00
+
+2.269.728,90
 
 Importa a presente relação em dois milhões duzentos e sessenta e nove mil setecentos e vinte e oito cruzeiros e noventa centavos (Cr$2.269,728,90).
 
-* * *
+ *

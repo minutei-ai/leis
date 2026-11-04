@@ -1,5 +1,3 @@
-###DEC-095504-0-000-17-12-1987@@@
-
 DECRETO Nº 95.504, DE 17 DE DEZEMBRO DE 1987
 
 Altera dispositivo do Decreto no 92.559, de 16 de abril de 1986, que dispõe sobre a requisição de servidores para a Superintendência Nacional do Abastecimento - SUNAB.

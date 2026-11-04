@@ -1,5 +1,3 @@
-###DEC-004359-0-000-05-09-2002@@@
-
 DECRETO Nº 4.359, DE 5 DE SETEMBRO DE 2002
 
 Altera o § 1º do art. 1º da Resolução da Câmara de Gestão da Crise de energia Elétrica - GCE nº 91, de 21 de dezembro de 2001.

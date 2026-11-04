@@ -1,5 +1,3 @@
-###DEL-005862-0-000-30-09-1943@@@
-
 DECRETO‑LEI N. 5.862 – DE 30 DE SETEMBRO DE 1943
 
 Dispõe sôbre faiscacão e garimpagem nas regiões produtoras de borracha do Estado de Mato Grosso

@@ -1,5 +1,3 @@
-###DEC-045158-0-000-31-12-1958@@@
-
 DECRETO Nº 45.158, DE 31 DE DEZEMBRO DE 1958
 
 Renova o Decreto nº 39.808, de 16 de agosto de 1956.

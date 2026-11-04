@@ -1,7 +1,3 @@
-1
-
-###MPV-000750-0-000-06-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 750, DE 6 DE DEZEMBRO DE 1994
 
 Dispõe sobre a implementação da autarquia Conselho Administrativo de Defesa Econômica (Cade), criada pela Lei nº 8.884, de 11 de junho de 1994, e dá outras providências.

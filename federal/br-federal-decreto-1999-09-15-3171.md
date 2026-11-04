@@ -1,5 +1,3 @@
-###DEC-003171-0-000-15-09-1999@@@
-
 DECRETO Nº 3.171, DE 15 DE SETEMBRO de 1999.
 
 Dispõe sobre a alocação, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores – DAS que menciona, e dá outras providências.

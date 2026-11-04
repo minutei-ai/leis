@@ -1,5 +1,3 @@
-###DEC-003806-0-000-26-04-2001@@@
-
 DECRETO Nº 3.806, DE 26 DE ABRIL DE 2001
 
 Acresce inciso ao art. 2º do Decreto nº 3.789, de 18 de abril de 2001, que dispõe sobre medidas emergenciais de racionalização, visando a redução de consumo e aumento da oferta de energia elétrica.

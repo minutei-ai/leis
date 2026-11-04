@@ -1,5 +1,3 @@
-###DEC-071132-0-000-21-09-1972@@@
-
 DECRETO Nº 71.132, DE 21 DE SETEMBRO DE 1972.
 
 Altera o artigo 7º do Decreto número 67.505, de 6 de novembro de 1970.

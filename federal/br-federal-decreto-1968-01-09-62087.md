@@ -1,5 +1,3 @@
-###DEC-062087-0-000-09-01-1968@@@
-
 DECRETO Nº 62.087, DE 9 DE JANEIRO DE 1968.
 
 Autoriza o cidadão Vilberto Giese a comprar pedras preciosas.

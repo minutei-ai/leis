@@ -1,5 +1,3 @@
-###DEC-068577-0-000-03-05-1971@@@
-
 DECRETO Nº 68.577 - DE 3 DE MAIO DE 1971.
 
 Declara de utilidade pública a Fundação São Dimas, com sede em Nôvo Hamburgo, Estado do Rio Grande do Sul.

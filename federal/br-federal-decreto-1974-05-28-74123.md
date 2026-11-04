@@ -1,5 +1,3 @@
-###DEC-074123-0-000-28-05-1974@@@
-
 DECRETO nº 74.123, de 28 de maio de 1974.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068928-0-000-15-07-1971@@@
-
 DECRETO Nº 68.928, de 15 de julHo de 1971.
 
 Concede autorização à firma "Zapata Marine Service, Ltda." para operar em águas brasileiras com os barcos especializados M/V Tropic Service e M/VB Blue Chip Service, ambas de bandeira panamenha.

@@ -1,5 +1,3 @@
-###DEC-074095-0-000-23-05-1974@@@
-
 DECRETO Nº 74.095, DE 23 DE MAIO DE 1974.
 
 Torna sem efeito aproveitamento de disponível no Quadro do Ministério do Trabalho, antigo Ministério do Trabalho e Previdência Social, e dá outras providências.

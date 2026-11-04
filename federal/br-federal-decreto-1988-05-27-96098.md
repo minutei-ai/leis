@@ -1,5 +1,3 @@
-###DEC-096098-0-000-27-05-1988@@@
-
 DECRETO N° 96.098, DE 27 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA PANTANAL (PARTE”), constituído dos Lotes nºs 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 23, 24, 30, 31 e 32, do Loteamento Pantanal de Cima, classificado como “latifúndio por exploração”, situado nos Municípios de Cristalândia e Formoso do Araguaia, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.690, de 19 de maio de 1986, e dá outras providências.

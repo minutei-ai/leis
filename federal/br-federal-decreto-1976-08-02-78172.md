@@ -1,5 +1,3 @@
-###DEC-078172-0-000-02-08-1976@@@
-
 DECRETO Nº 78.172, DE 2 DE AGOSTO DE 1976
 
 Declara a caducidade da concessão de lavra que menciona

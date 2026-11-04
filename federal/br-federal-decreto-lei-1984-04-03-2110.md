@@ -1,5 +1,3 @@
-###DEL-002110-0-000-03-04-1984@@@
-
 # Decreto-lei nº 2.110, de 03 de abril de 1984
 
 Concede isenção do Imposto de Importação e do Imposto sobre Produtos Industrializados nos casos que especifica.

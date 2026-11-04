@@ -1,5 +1,3 @@
-###DEC-045410-0-000-12-02-1959@@@
-
 DECRETO Nº 45.410, DE 12 DE FEVEREIRO DE 1959.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia Urbanizadora da Nova Capital do Brasil (NOVACAP).

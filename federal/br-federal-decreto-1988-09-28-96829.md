@@ -1,5 +1,3 @@
-###DEC-096829-0-000-28-09-1988@@@
-
 DECRETO Nº 96.829, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO CULTURA DO NORDESTE S.A., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Caruaru, Estado de Pernambuco.

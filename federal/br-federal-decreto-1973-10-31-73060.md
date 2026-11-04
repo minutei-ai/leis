@@ -1,5 +1,3 @@
-###DEC-073060-0-000-31-10-1973@@@
-
 DECRETO Nº 73.060 de 31 de Outubro de 1973.
 
 Declara perempta a concessão outorgada á Fundação Rádio Mauá, para executar serviço de radiodifusão sonora em onda Tropical no cidade do Rio de Janeiro, estado da Guanabara.

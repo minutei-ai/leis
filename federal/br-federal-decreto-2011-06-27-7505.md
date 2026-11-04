@@ -1,5 +1,3 @@
-###DEC-007505-0-000-27-06-2011-PUB-01@@@
-
 DECRETO Nº 7.505, DE 27 DE JUNHO DE 2011
 
 Altera o Decreto nº 7.257, de 4 de agosto de 2010, que regulamenta a Medida Provisória nº 494, de 2 de julho de 2010, convertida na Lei nº 12.340, de 1o de dezembro de 2010, para dispor sobre o Cartão de Pagamento de Defesa Civil - CPDC, e dá outras providências.

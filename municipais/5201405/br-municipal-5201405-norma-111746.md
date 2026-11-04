@@ -1,5 +1,7 @@
-ESTADO DE GOIÁS<br>
-CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA<br>
+ESTADO DE GOIÁS
+
+CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA
+
 EMENDA À LEI ORGÂNICA N.º 005 DE 23 DE JUNHO DE 2017
 
 Altera o § 1º, do artigo 168 da Lei Orgânica do Município de Aparecida de Goiânia.

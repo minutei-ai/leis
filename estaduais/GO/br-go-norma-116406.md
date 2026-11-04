@@ -4,7 +4,8 @@ Portaria Orçamentária nº 250/2026 - Economia
 
 **RESOLVE:**
 
-Art. 1º Fica aberto à SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS, crédito suplementar no valor de R$ 4.408.486,30 (quatro milhões quatrocentos e oito mil quatrocentos e oitenta e seis reais e trinta centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.<br>
+Art. 1º Fica aberto à SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS, crédito suplementar no valor de R$ 4.408.486,30 (quatro milhões quatrocentos e oito mil quatrocentos e oitenta e seis reais e trinta centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
 \- [Vide errata publicada no D.O. de 16-9-2026](https://admin.legisla.casacivil.go.gov.br/api/v1/arquivos/19135). 
 
 Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
@@ -21,7 +22,8 @@ QUADRO 1
 
 | **SUPLEMENTAÇÃO** |
 | --- |
-| **3300 - SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS**<br>
+| **3300 - SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS**
+
 3301 - GAB. SEC. DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS |
 | --- |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
@@ -37,14 +39,16 @@ QUADRO 2
 
 | **REDUÇÃO** |
 | --- |
-| **4200 - SECRETARIA DE ESTADO DA RETOMADA**<br>
+| **4200 - SECRETARIA DE ESTADO DA RETOMADA**
+
 4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA |
 | --- |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | FOMENTO A ARRANJOS PRODUTIVOS LOCAIS - APL'S | 11 334 1054 2448 | 17610156 | 90 | 4 - INVESTIMENTOS | R$ 0,00 | R$ 266.552,36 | R$ 266.552,36 |
 
-| **3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO**<br>
+| **3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO**
+
 3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO |
 | --- |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |

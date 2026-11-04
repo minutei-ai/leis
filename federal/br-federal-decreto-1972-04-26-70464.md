@@ -1,5 +1,3 @@
-###DEC-070464-0-000-26-04-1972@@@
-
 DECRETO Nº 70.464, DE 26 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Escola Ambulatório Padre Maria, com sede em Natal, Estado do Rio Grande do Norte.

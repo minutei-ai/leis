@@ -1,5 +1,3 @@
-###DEC-062418-0-000-15-03-1968@@@
-
 DECRETO Nº 62.418, DE 15 DE MARÇO DE 1968.
 
 Outorga concessão à Universidade Federal de Santa Maria para estabelecer, na cidade de Santa Maria, Estado do Rio Grande do sul, uma Estação de Radiodifusão de sons e imagens (televisão), para fins educativos.

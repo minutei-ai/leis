@@ -1,5 +1,3 @@
-###DEC-045154-0-000-31-12-1958@@@
-
 decreto nº 45.154, de 31 de dezembro de 1958.
 
 Retifica o Decreto nº 39.932, de 5 de setembro de 1956.

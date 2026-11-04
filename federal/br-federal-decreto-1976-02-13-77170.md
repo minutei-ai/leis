@@ -1,5 +1,3 @@
-###DEC-077170-0-000-13-02-1976@@@
-
 DECRETO Nº 77.170, DE 13 DE FEVEREIRO DE 1976.
 
 Autoriza o funcionamento do curso de Educação Física da Faculdade Dom Bosco de Educação Física, em Brasília, Distrito Federal, mantida pela Inspetoria São João Bosco, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

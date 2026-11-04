@@ -1,5 +1,3 @@
-###DEC-003475-0-000-19-05-2000@@@
-
 DECRETO Nº 3.475, DE 19 DE MAIO DE 2000.
 
 Regulamenta a Lei Complementar nº 93, de 4 de fevereiro de 1998, que criou o Fundo de Terras e da Reforma Agrária - Banco da Terra, e dá outras providências.

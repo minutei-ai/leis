@@ -1,5 +1,3 @@
-###DEC-056978-0-000-01-10-1965@@@
-
 DECRETO Nº 56.978, de 1 de outubro de 1965.
 
 Fixa a ordem de renovação dos mandatos dos atuais membros do Conselho Técnico do Instituto Brasileiro de Reforma Agrária - IBRA.

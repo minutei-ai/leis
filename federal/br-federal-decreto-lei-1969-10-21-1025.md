@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/556867d0-37f7-4c88-a3d2-805e97d3e7ed/texto#nowhere)
 
-###DEL-001025-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.025, de 21 de Outubro de 1969
 
 Declara extinta a participação de servidores públicos na cobrança da Dívida Ativa da União e dá outras providências.

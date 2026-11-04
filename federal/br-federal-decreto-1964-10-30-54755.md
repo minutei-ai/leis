@@ -1,5 +1,3 @@
-###DEC-054755-0-000-30-10-1964@@@
-
 DECRETO Nº 54.755, DE 30 DE OUTUBRO DE 1964.
 
 Outorga ao Município de Graco Cardoso, Estado de Sergipe, concessão para distribuir energia elétrica.

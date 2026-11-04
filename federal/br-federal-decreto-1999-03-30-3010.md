@@ -1,5 +1,3 @@
-###DEC-003010-0-000-30-03-1999@@@
-
 DECRETO Nº 3.010, DE 30 DE MARÇO DE 1999
 
 Altera o art. 1º do Decreto nº 2.661, de 8 de julho de 1998.

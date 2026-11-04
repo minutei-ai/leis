@@ -1,5 +1,3 @@
-###DEC-064198-0-000-13-03-1969@@@
-
 DECRETO Nº 64.198, DE 13 DE MARÇO DE 1969.
 
 Extingue a Coudelaria de Campos, Estado do Rio de Janeiro, e cria a 6ª Companhia de Infantaria, com sede na mesma cidade.

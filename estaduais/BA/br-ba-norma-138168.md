@@ -16,10 +16,12 @@ IV - auxílio-reclusão.” (NR)
 
 .................................................................................................................
 
-CAPÍTULO II - DAS VANTAGENS<br>
+CAPÍTULO II - DAS VANTAGENS
+
 .................................................................................................................
 
-SEÇÃO II - Dos Auxílios Pecuniários<br>
+SEÇÃO II - Dos Auxílios Pecuniários
+
 .................................................................................................................
 
 SUBSEÇÃO IV - Do Auxílio-Reclusão
@@ -164,10 +166,12 @@ Parágrafo único - Revogado.” (NR)
 
 "TÍTULO III - DOS BENEFÍCIOS
 
-CAPÍTULO I - DISPOSIÇÕES INTRODUTÓRIAS<br>
+CAPÍTULO I - DISPOSIÇÕES INTRODUTÓRIAS
+
 .................................................................................................................
 
-SEÇÃO I - Das Aposentadorias<br>
+SEÇÃO I - Das Aposentadorias
+
 SUBSEÇÃO I - Da Aposentadoria por Incapacidade Permanente para o Trabalho
 
 Art. 15 - A aposentadoria por incapacidade permanente para o trabalho será devida ao segurado que, estando ou não em gozo de licença para tratamento de saúde, for considerado, por laudo médico pericial oficial, incapaz de readaptação para o exercício de seu cargo e retroagirá à data da expedição do referido laudo.

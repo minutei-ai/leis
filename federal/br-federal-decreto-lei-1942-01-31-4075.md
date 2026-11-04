@@ -1,5 +1,3 @@
-###DEL-004075-0-000-31-01-1942@@@
-
 DECRETO-LEI N. 4.075 – DE 31 DE JANEIRO DE 1942
 
 Organiza a 7ª Divisão de Infantaria, com sede em Recife

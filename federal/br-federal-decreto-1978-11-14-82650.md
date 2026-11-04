@@ -1,5 +1,3 @@
-###DEC-082650-0-000-14-11-1978@@@
-
 Decreto nº 82.650, de 14 de novembro de 1978.
 
 Concede reconhecimento ao curso de Ciências, da Faculdades de Filosofia, Ciência e Letras de São José do Rio de Pardo, Estado de São Paulo.

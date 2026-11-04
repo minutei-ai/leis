@@ -1,5 +1,3 @@
-###DEC-092267-0-000-03-01-1986@@@
-
 DECRETO Nº 92.267, DE 03 DE JANEIRO DE 1986
 
 Aprova o Sistema de Balizamento Marítimo, Região "B", da Associação Internacional de Sinalização Náutica - IALA.

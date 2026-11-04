@@ -1,5 +1,3 @@
-###DEC-056546-0-000-07-07-1965@@@
-
 DECRETO Nº 56.546, DE 7 DE JULHO DE 1965.
 
 Abre ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Piauí - o crédito especial de Cr$13.500 (treze mil e quinhentos cruzeiros), para o fim que especifica.

@@ -10,8 +10,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação, e seus efeitos ret
 
 Goiânia, 20 de maio de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -141,7 +141,3 @@ Instituto de Terras do Estado de Minas Gerais – ITER
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Diretoria-Geral Diretor-Geral 01 1.784,00 Gabinete Chefe de Gabinete 01 1.338,00 Gabinete Assessor de Comunicação Social 01 1.250,00 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1.338,00 Diretoria de Promoção e da Defesa da Cidadania no Campo Diretor 01 1.338,00 Diretoria Fundiária Diretor 01 1.338,00 Diretoria do Desenvolvimento Rural Sustentável Diretor 01 1.338,00 Assessoria Jurídica Assessor Jurídico 01 1.338,00 Auditoria Seccional Auditor Seccional 01 1.250,00
-
-\=================================
-
-Data da última atualização: 25/1/2011.

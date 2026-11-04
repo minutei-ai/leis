@@ -27,7 +27,6 @@ sha256_markdown: "aeaef034eb52acaf6c0cb4c747efac651799f887a3fd5665aceebf7f9d1551
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 115, DE 10 DE FEVEREIRO DE 2022
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
-> Este texto não substitui o publicado no DOU de 11.2.2022
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-02-10-115.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -98,8 +96,4 @@ Brasília, em 10 de fevereiro de 2022
 | Deputado LUCIANO BIVAR 1º Secretário | Senador IRAJÁ 1º Secretário |
 | Deputada MARÍLIA ARRAES 2ª Secretária | Senador ELMANO FÉRRER 2º Secretário |
 | Deputada ROSE MODESTO 3ª Secretária | Senador ROGÉRIO CARVALHO 3º Secretário |
-| Deputada ROSANGELA GOMES 4ª Secretária | Senador WEVERTON 4º Secretário |
-
-Este texto não substitui o publicado no DOU 11.2.2022
-
-\*
+| Deputada ROSANGELA GOMES 4ª Secretária | Senador WEVERTON 4º Secretário |\*

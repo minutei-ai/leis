@@ -1,7 +1,3 @@
-1
-
-###DEL-002427-0-000-08-04-1988@@@
-
 # DECRETO‑LEI Nº 2.427, DE 8 DE ABRIL DE 1988
 
 Altera o Decreto‑lei nº 2.400, de 21 de dezembro de 1987.

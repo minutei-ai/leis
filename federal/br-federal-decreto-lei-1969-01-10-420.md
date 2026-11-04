@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/50eadcf0-c077-4db7-a4ab-52cf3851bad8/texto#nowhere)
 
-###DEL-000420-0-000-10-01-1969@@@
-
 DECRETO-LEI Nº 420, DE 10 DE JANEIRO DE 1969
 
 Provê sôbre a retificação da Lei nº 4.255, de 9 de setembro de 1963.

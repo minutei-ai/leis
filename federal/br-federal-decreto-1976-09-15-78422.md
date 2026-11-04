@@ -1,5 +1,3 @@
-###DEC-078422-0-000-15-09-1976@@@
-
 DECRETO Nº 78.422, DE 15 DE SETEMBRO DE 1976.
 
 Amplia a área prioritária, para fins de Reforma Agrária, assim declarada pelo Decreto nº 69.411, de 22 de outubro de 1971, e prorroga o prazo de intervenção governamental na área ora ampliada.

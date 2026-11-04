@@ -1,5 +1,3 @@
-###DEC-059675-0-000-06-12-1966@@@
-
 decreto Nº 59.675, de 6 de dezembro de 1966.
 
 Autoriza a firma Intercâmbio Comercial “Atlas” Ltda., a comprar pedras preciosas.

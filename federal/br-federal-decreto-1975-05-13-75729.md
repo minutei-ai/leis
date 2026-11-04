@@ -1,5 +1,3 @@
-###DEC-075729-0-000-13-05-1975@@@
-
 DECRETO Nº 75.729, DE 13 DE MAIO DE 1975.
 
 Revoga o Decreto nº 75.437, de 3 de março de 1975, que autoriza o funcionamento do curso de Administração da Faculdade de Administração de São Paulo, mantida pela Sociedade Civil Ateneu Brasil, com sede na Cidade de São Paulo, Estado de São Paulo.

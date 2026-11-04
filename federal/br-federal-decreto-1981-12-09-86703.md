@@ -1,5 +1,3 @@
-###DEC-086703-0-000-09-12-1981@@@
-
 Decreto nº 86.703, de 09 de dezembro de 1981.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem e/ou administrativa, em favor da Petróleo Brasileiro S.A. - Petrobrás, os imóveis constituidos de terras e benfeitorias de propriedade particular, que menciona.

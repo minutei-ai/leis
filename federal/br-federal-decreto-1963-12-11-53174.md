@@ -1,5 +1,3 @@
-###DEC-053174-0-000-11-12-1963@@@
-
 DECRETO Nº 53.174, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza Emprêsa de Caolim Ltda. a pesquisar caulim no município de Juiz de Fora, Estado de Minas Gerais.

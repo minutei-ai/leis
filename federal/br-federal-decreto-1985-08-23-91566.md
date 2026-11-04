@@ -1,5 +1,3 @@
-###DEC-091566-0-000-23-08-1985@@@
-
 # decreto nº 91.566, de 23 de agosto de 1985
 
 Renova a concessão outorgada à FUNDAÇÃO "PADRE ANCHIETA" - CENTRO PAU LISTA DE RÁDIO E TV EDUCATIVAS, para explorar serviço de radiodifusão sonora em ondas curtas, na cidade de São Paulo, Estado de São Paulo.

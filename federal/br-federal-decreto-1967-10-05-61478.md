@@ -1,5 +1,3 @@
-###DEC-061478-0-000-05-10-1967@@@
-
 decreto Nº 61.478, DE 5 DE OUTUBRO DE 1967.
 
 Altera o Regulamento para o Corpo do Pessoal Subalterno da Aeronáutica.

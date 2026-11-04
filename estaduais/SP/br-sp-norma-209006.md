@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209006)<br>
-
 # DECRETO N° 68.235, DE 22 DE DEZEMBRO DE 2023
 
 ### _Institui Grupo de Trabalho com o objetivo de elaborar estudos e apresentar propostas visando à participação do Estado de São Paulo na candidatura do Brasil como sede da Copa do Mundo Feminina da FIFA 2027._

@@ -1,5 +1,3 @@
-###DEC-055662-0-000-30-01-1965@@@
-
 DECRETO Nº 55.662, DE 30 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Benedito José Veloso Cesar a pesquisar conchas calcárias no município de Goiana, Estado de Pernambuco.

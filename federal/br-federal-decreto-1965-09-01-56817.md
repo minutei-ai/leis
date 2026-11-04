@@ -1,5 +1,3 @@
-###DEC-056817-0-000-01-09-1965@@@
-
 DECRETO Nº 56.817, de 1º de setembro de 1965.
 
 Transferência de imóvel do Instituto Brasileiro do Café para o Serviço de Alimentação da Previdência Social.

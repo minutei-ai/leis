@@ -1,5 +1,3 @@
-###DEC-060009-0-000-10-01-1967@@@
-
 DECRETO Nº 60.009, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Osvaldo João Barni a pesquisar calcário, no município de Vidal Ramos, Estado de Santa Catarina.

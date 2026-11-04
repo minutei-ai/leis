@@ -1,5 +1,3 @@
-###DEC-064633-0-000-03-06-1969@@@
-
 DECRETO Nº 64.633, DE 3 DE JUNHO DE 1969.
 
 Redistribui com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Departamento de Polícia Federal, cargo originário do Serviço de Navegação da Bacia do Prata, e dá outras providências.

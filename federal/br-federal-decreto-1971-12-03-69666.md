@@ -1,5 +1,3 @@
-###DEC-069666-0-000-03-12-1971@@@
-
 DECRETO Nº 69.666 - DE 3 DE DEZEMBRO DE 1971
 
 Aprova a incorporação de empresa concessionária de serviço de energia elétrica, Companhia Força e luz de Casa Branca, pela Companhia paulista de Energia Elétrica.

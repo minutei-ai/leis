@@ -1,5 +1,3 @@
-###DEC-045573-0-000-16-03-1959@@@
-
 DECRETO Nº 45.573, DE 16 DE março DE 1959.
 
 Oficializa o 3.º Congresso Internacional de Instituições Superiores de Contrôle das Finanças Públicas, a realizar-se, no corrente ano, na cidade do Rio de Janeiro.

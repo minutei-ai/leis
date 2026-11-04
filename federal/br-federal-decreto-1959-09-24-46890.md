@@ -1,5 +1,3 @@
-###DEC-046890-0-000-24-09-1959@@@
-
 DECRETO Nº 46.890, DE 24 DE SETEMBRO DE 1959.
 
 Concede permissão em caráter permanente, à Indústria de Sêdas São Carlos S/A (Seção de Retorcedeiras), com sede em São Carlos, no Estado de São Paulo, para funcionar aos domingos e nos feriados civis e religiosos.

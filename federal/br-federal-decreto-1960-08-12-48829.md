@@ -1,5 +1,3 @@
-###DEC-048829-0-000-12-08-1960@@@
-
 DECRETO Nº48.829, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza a “Carbonífera Brasileira S.A.” a construir uma linha de transmissão.

@@ -1,5 +1,3 @@
-###DEC-058124-0-000-30-03-1966@@@
-
 Decreto nº 58.124, de 30 de março de 1966.
 
 Autoriza o cidadão Mauro Attílio Mellone, a comprar pedras preciosas.

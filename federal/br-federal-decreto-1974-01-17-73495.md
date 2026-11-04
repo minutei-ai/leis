@@ -1,5 +1,3 @@
-###DEC-073495-0-000-17-01-1974@@@
-
 decreto nº 73.495, de 17 de janeiro de 1974.
 
 Autoriza o funcionamento da habilitação em Teleducação no Curso de Pedagogia da Faculdade de Ciências Humanas do Instituto Metodista de Ensino Superior, com sede na cidade de São Bernardo do Campo, Estado de São Paulo.

@@ -28,7 +28,6 @@ sha256_markdown: "ee860b085cd3c8c86b09030984fe6687bb2ce5106b102af3457179356984b1
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # LEI COMPLEMENTAR Nº 227, DE 13 DE JANEIRO DE 2026
@@ -5655,8 +5654,6 @@ Geraldo José Rodrigues Alckmin Filho
 
 Arthur Cerqueira Valerio
 
-Silvio Serafim Costa Filho
-
-Este texto não substitui o publicado no DOU de 14.1.2026, [republicado no DOU de 15.1.2026](https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Ret/LCP227-26-Rep.doc) e [retificado em 23.1.2026](https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Ret/LCP227-26-ret.doc).
+Silvio Serafim Costa Filhovil_03/_Ato2023-2026/2026/Ret/LCP227-26-Rep.doc) e [retificado em 23.1.2026](https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Ret/LCP227-26-ret.doc).
 
 \*

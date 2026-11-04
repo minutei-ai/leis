@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212609)<br>
-
 # DECRETO N° 70.615, DE 13 DE MAIO DE 2026
 
 ### _Declara de utilidade pública, para fins de desapropriação, os imóveis necessários à implantação de Programa Habitacional e de Desenvolvimento Urbano, no Município de São Paulo, e dá providências correlatas._

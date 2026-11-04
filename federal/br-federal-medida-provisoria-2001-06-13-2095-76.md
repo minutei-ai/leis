@@ -1,5 +1,3 @@
-###MPV-002095-0-076-13-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.095‑76, DE 13 DE JUNHO DE 2001
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

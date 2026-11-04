@@ -1,5 +1,3 @@
-###DEC-076750-0-000-05-12-1975@@@
-
 Decreto nº 76.750, de 5 de dezembro de 1975.
 
 Altera o Regulamento do Fundo de Garantia do Tempo de Serviço - (FGTS), aprovado pelo Decreto nº 59.820, de 20 de dezembro de 1966, e dá outras providências.

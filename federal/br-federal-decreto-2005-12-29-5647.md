@@ -1,5 +1,3 @@
-###DEC-005647-0-000-29-12-2005@@@
-
 DECRETO Nº 5.647, DE 29 DE DEZEMBRO DE 2005.
 
 Dispõe sobre a execução do Quadragésimo Protocolo Adicional ao Acordo de Complementação Econômica no 35, entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, na condição de Estados Partes do MERCOSUL, e da República do Chile, de 15 de setembro de 2005.

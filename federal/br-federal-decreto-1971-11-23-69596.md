@@ -1,5 +1,3 @@
-###DEC-069596-0-000-23-11-1971@@@
-
 DECRETO Nº 69.596 - de 23 de novembro de 1971
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos que menciona, situados no Estado da Guanabara.

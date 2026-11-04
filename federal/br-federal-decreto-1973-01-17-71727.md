@@ -1,5 +1,3 @@
-###DEC-071727-0-000-17-01-1973@@@
-
 DECRETO Nº 71.727, DE 17 DE JANEIRO DE 1973.
 
 Regulamenta, para a Marinha, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

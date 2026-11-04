@@ -1,5 +1,3 @@
-###DEL-002309-0-000-22-12-1986@@@
-
 # decRETO-LEI Nº 2.309, DE 22 DE DEZEMBRO DE 1986
 
 Prorroga até 31 de dezembro de 1988 o prazo de isenção fiscal concedida às empresas siderúrgicas pelo Decreto-lei nº 569, de 7 de maio de 1969.

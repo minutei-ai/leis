@@ -1,5 +1,3 @@
-###DEC-080817-0-000-24-11-1977@@@
-
 Decreto nº 80.817, de 24 de novembro de 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Paranaguá, Estado do Paraná.

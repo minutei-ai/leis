@@ -1,5 +1,3 @@
-###DEC-068762-0-000-16-06-1971@@@
-
 DECRETO Nº 68.762 - DE 16 DE JUNHO DE 1971.
 
 Altera o artigo 1º do Decreto nº 67.113, de 26 de agôsto de 1970.

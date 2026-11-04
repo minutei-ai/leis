@@ -1,5 +1,3 @@
-###DEC-083243-0-000-07-03-1979@@@
-
 Decreto nº 83.243, de 07 de março de 1979
 
 Concede reconhecimento ao curso de Nutrição, ministrado pela Universidade de Mogi das Cruzes, com sede na cidade de Mogi das Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-083987-0-000-18-09-1979@@@
-
 Decreto nº 83.987, de 18 de setembro de 1979.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor do Petróleo Brasileiro S.A. PETROBRÁS, imóveis constituídos de terras e benfeitorias, que menciona.

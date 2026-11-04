@@ -1,5 +1,3 @@
-###DEL-001522-0-000-02-02-1977@@@
-
 # DECRETO-LEI Nº 1.522, de 2 de FEVEREIRO DE 1977
 
 Concede isenção dos impostos de importação e sobre produtos industrializados aos bens destinados a projetos prioritários em execução no setor de energia elétrica, e dá outra providências.

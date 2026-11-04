@@ -1,5 +1,3 @@
-###DEC-002723-0-000-10-08-1998@@@
-
 DECRETO Nº 2.723, DE 10 DE AGOSTO DE 1998
 
 Dispõe sobre a execução da Ata de Retificação do Décimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre Brasil, Argentina, Paraguai e Uruguai, lavrada em 13 de abril de 1998.

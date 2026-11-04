@@ -1,5 +1,3 @@
-###DEC-045663-0-000-30-03-1959@@@
-
 DECRETO Nº 45.663, DE 30 DE MARÇO DE 1959.
 
 Renova o Decreto nº 30.232, de 3 de dezembro de 1951, que declarou de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no Município de Senhor do Bonfim, Estado da Bahia.

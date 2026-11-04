@@ -1,5 +1,3 @@
-###DEC-057283-0-000-18-11-1965@@@
-
 DECRETO Nº 57.283, DE 18 DE NOVEMBRO DE 1965.
 
 Abre, pelo Ministério do Trabalho e Previdência Social, o crédito especial de Cr$60.000.000 para os fins que especifica.

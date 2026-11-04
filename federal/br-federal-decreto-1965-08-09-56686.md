@@ -1,5 +1,3 @@
-###DEC-056686-0-000-09-08-1965@@@
-
 DECRETO Nº 56.686, DE 9 DE AGÔSTO DE 1965.
 
 Autoriza a Indústrias Brasileiras de Artigos Refratários S. A. - IBAR - a pesquisar argila refratária no município de Suzano, Estado de São Paulo.

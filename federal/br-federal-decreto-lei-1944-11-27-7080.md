@@ -1,5 +1,3 @@
-###DEL-007080-0-000-27-11-1944@@@
-
 DECRETO-LEI N. 7.080 – DE 27 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 15.000.000,00 para atender ao prosseguimento e início de obras a cargo do Departamento Nacional de Estradas de Rodagem

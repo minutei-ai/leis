@@ -1,5 +1,3 @@
-###DEC-067760-0-000-09-12-1970@@@
-
 DECRETO Nº 67.760, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto número 10.992, de 2 de dezembro de1942.

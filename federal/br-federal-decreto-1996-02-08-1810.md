@@ -1,5 +1,3 @@
-###DEC-001810-0-000-08-02-1996@@@
-
 DECRETO Nº 1.810, DE 8 DE FEVEREIRO DE 1996
 
 Promulga o Acordo sobre Transporte Aéreo celebrado entre o Governo da República Federativa do Brasil e o Governo de Macau, em Macau, em 15 de julho de 1994.

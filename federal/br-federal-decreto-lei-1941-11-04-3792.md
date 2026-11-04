@@ -1,5 +1,3 @@
-###DEL-003792-0-000-04-11-1941@@@
-
 DECRETO-LEI N. 3.792 – DE 4 DE NOVEMBRO DE 1941
 
 Concede subvenção à linha Rio-Fortaleza, da “Navegação Aérea Brasileira S.A.”

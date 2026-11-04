@@ -1,5 +1,3 @@
-###DEC-002735-0-000-13-08-1998@@@
-
 DECRETO Nº 2.735, DE 13 DE AGOSTO DE 1998
 
 Promulga o Protocolo de Emenda à Convenção de Aviação Civil Internacional (Artigo 83 bis), assinado em Montreal, em 6 de outubro de 1980.
@@ -82,4 +80,20 @@ Em fé do que o Presidente e o Secretário-Geral da vigésima-terceira Sessão d
 
 Feito em Montreal em seis de outubro de mil novecentos e oitenta em documento singular em versões inglesa, francesa, russa e espanhola, todas de igual validade. O presente Protocolo ficará depositado no arquivo da Organização de Aviação Civil Internacional e cópias devidamente certificadas dos referidos textos serão transmitidos, pelo Secretário-Geral da Organização, a cada um dos Estados signatários da Convenção de Aviação Civil Internacional elaborada em Chicago em sete de dezembro de 1944.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:292.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">R.S. Nyaga</span></p></td><td style="width:128.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Yves Lambert</span></p></td></tr><tr><td style="width:292.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Presidente da 23ª Sessão da Assembléia</span></p></td><td style="width:128.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Secretário-Geral</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:292.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+R.S. Nyaga
+
+</td><td style="width:128.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Yves Lambert
+
+</td></tr><tr><td style="width:292.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Presidente da 23ª Sessão da Assembléia
+
+</td><td style="width:128.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Secretário-Geral
+
+</td></tr></tbody></table>

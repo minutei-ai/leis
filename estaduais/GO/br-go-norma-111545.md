@@ -16,10 +16,64 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:100%;    "><b>4091-GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">MANUTENÇÃO DA REDE DE FIBRA ÓTICA EM MUNICÍPIOS</td><td style=" width:12%;    ">24 722 1049 3235</td><td style=" width:12%;    ">15010220</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 165.521,86</td><td style=" width:12%;    ">R$ 422.208,59</td><td style=" width:12%;    ">R$ 587.730,45</td></tr><tr><td style=" width:12%;    ">INSTALAÇÃO DE PONTOS DE CONECTIVIDADE NOS ÓRGÃOS PÚBLICOS</td><td style=" width:12%;    ">24 722 1049 2562</td><td style=" width:12%;    ">15010220</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 6.639,00</td><td style=" width:12%;    ">R$ 200.000,00</td><td style=" width:12%;    ">R$ 206.639,00</td></tr></tbody></table>
+**4091-GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style=" width:50%;  height:19px;   ">R$ 622.208,59</td></tr><tr><td style=" width:50%;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:50%;    ">R$ 622.208,59</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+MANUTENÇÃO DA REDE DE FIBRA ÓTICA EM MUNICÍPIOS
+
+24 722 1049 3235
+
+15010220
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 165.521,86
+
+R$ 422.208,59
+
+R$ 587.730,45
+
+INSTALAÇÃO DE PONTOS DE CONECTIVIDADE NOS ÓRGÃOS PÚBLICOS
+
+24 722 1049 2562
+
+15010220
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 6.639,00
+
+R$ 200.000,00
+
+R$ 206.639,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 622.208,59
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 622.208,59

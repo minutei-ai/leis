@@ -1,5 +1,3 @@
-###DEC-083466-0-000-21-05-1979@@@
-
 Decreto nº 83.466 de 21 de maio de 1979
 
 Autoriza o funcionamento da Faculdade de Formação de Professores de Araripina, Estado de Pernambuco.

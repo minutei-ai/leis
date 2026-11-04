@@ -14,10 +14,12 @@ I – que a entidade seja constituída no município de Aparecida de Goiânia;
 
 II – que seja inscrita no Cadastro Nacional de Pessoa Jurídica (CNPJ);
 
-III – que comprove seu efetivo e contínuo funcionamento nos 12 (doze) meses imediatamente anteriores à formulação do pedido, mediante declaração emitida por um dos seguintes agentes públicos do local de seu funcionamento.<br>
+III – que comprove seu efetivo e contínuo funcionamento nos 12 (doze) meses imediatamente anteriores à formulação do pedido, mediante declaração emitida por um dos seguintes agentes públicos do local de seu funcionamento.
+
 (Redação alterada pela Lei Ordinária nº 3.627, de 29 de setembro de 2021).
 
-~~III - que comprove seu efetivo e contínuo funcionamento nos 24 (vinte e quatro) meses imediatamente anteriores à formulação do pedido, mediante declaração emitida por um dos seguintes agentes públicos do local de seu funcionamento:<br>
+~~III - que comprove seu efetivo e contínuo funcionamento nos 24 (vinte e quatro) meses imediatamente anteriores à formulação do pedido, mediante declaração emitida por um dos seguintes agentes públicos do local de seu funcionamento:
+
 (Redação alterada pela Lei Ordinária nº 3.158, de 20 de janeiro de 2014).~~
 
 ~~III – que comprove seu efetivo e contínuo funcionamento nos 24 (vinte e quatro) meses imediatamente anteriores à formulação do pedido, mediante declaração emitida por um dos seguintes agentes públicos do local de seu funcionamento.~~
@@ -34,7 +36,8 @@ IV – que apresente seu estatuto com as alterações, se existentes;
 
 V – que apresente ata da eleição e posse da diretoria em exercício;
 
-VI- que os cargos da diretoria da entidade não sejam remunerados, exceto no caso de associações assistenciais ou fundações, sem fins lucrativos, cujos dirigentes poderão ser remunerados, desde que atuem efetivamente na gestão executiva, respeitados como limites máximos os valores praticados pelo mercado na região correspondente à sua área de atuação, os quais deverão ser fixados pelo órgão de deliberação superior da entidade, registrados em ata, com comunicação ao Ministério Público, no caso das fundações; <br>
+VI- que os cargos da diretoria da entidade não sejam remunerados, exceto no caso de associações assistenciais ou fundações, sem fins lucrativos, cujos dirigentes poderão ser remunerados, desde que atuem efetivamente na gestão executiva, respeitados como limites máximos os valores praticados pelo mercado na região correspondente à sua área de atuação, os quais deverão ser fixados pelo órgão de deliberação superior da entidade, registrados em ata, com comunicação ao Ministério Público, no caso das fundações; 
+
 (Redação alterada pela Lei Ordinária nº 3.718, de 25 de maio de 2023).
 
 ~~VI – cláusula estatutária dispondo que não sejam remunerados, por qualquer forma, os cargos de diretoria e que não distribua lucros, bonificações ou vantagens a dirigentes, mantenedores ou associados, sob nenhuma forma ou pretexto;~~
@@ -75,8 +78,10 @@ Art. 6º Esta Lei entrará em vigor na data de sua publicação, revogando as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 11 dias do mês de dezembro de 2009.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO

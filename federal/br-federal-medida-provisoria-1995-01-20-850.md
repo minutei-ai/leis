@@ -1,7 +1,3 @@
-1
-
-###MPV-000850-0-000-20-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 850, DE 20 DE JANEIRO DE 1995
 
 Altera o art. 60 da Lei nº 8.694, de 12 de agosto de 1993, que dispõe sobre as diretrizes para a elaboração e execução da lei orçamentária anual de 1994.

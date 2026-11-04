@@ -1,5 +1,3 @@
-###DEC-001855-0-000-10-04-1996@@@
-
 DECRETO Nº 1.855, DE 10 DE ABRIL DE 1996
 
 Promulga a Convenção 158 sobre o Término da Relação de Trabalho por Iniciativa do Empregador, de 22 de junho de 1982.

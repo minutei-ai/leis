@@ -1,5 +1,3 @@
-###DEL-006434-0-000-17-04-1944@@@
-
 DECRETO-LEI N. 6.434 – DE 17 DE ABRIL DE 1944
 
 Altera as carreiras de Marinheiro e Patrão, do Quadro Suplementar do Ministério da Guerra e dá outras providências

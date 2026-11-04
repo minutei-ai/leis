@@ -1,5 +1,3 @@
-###DEC-091966-0-000-20-11-1985@@@
-
 Decreto nº 91.966, de 20 de novembro de 1985
 
 Revoga a concessão outorgada à RÁDIO TV DO AMAZONAS S/A., para executar serviço de radiodifusão sonora em onda média, na cidade de Brasiléia, Estado do Acre.

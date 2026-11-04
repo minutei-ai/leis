@@ -1,5 +1,3 @@
-###DEC-059805-0-000-19-12-1966@@@
-
 DECRETO Nº 59.805, DE 19 DE DEZEMBRO DE 1966
 
 Outorga à Companhia Estadual de Energia Elétrica do Estado do Rio Grande do Sul concessão para distribuir energia elétrica.

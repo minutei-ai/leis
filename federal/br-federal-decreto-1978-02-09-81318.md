@@ -1,5 +1,3 @@
-###DEC-081318-0-000-09-02-1978@@@
-
 Decreto nº 81.318, de 9 de fevereiro de 1978.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Piraju, Estado de São Paulo.

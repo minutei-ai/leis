@@ -4,7 +4,8 @@ Estima a receita e fixa a despesa do Município de Aparecida de Goiânia – GO 
 
 **O PREFEITO DE APARECIDA DE GOIÂNIA** Faço saber que a Câmara Municipal de Aparecida de Goiânia aprova e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1° Esta Lei estima a receita e fixa a despesa do Município de Aparecida de Goiânia para o exercício financeiro de 2026, nos termos do art. 165, § 5º, da Constituição Federal de 1988, do art. 93, da Lei Orgânica do Município, e da Lei nº 3.838, de 16 de junho de 2025 - Lei de Diretrizes Orçamentárias, no montante de R$ 3.200.000.000,00 (três bilhões e duzentos milhões de reais), compreendendo:
@@ -137,78 +138,94 @@ Aparecida de Goiânia, 19 de novembro de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
-[ANEXO I<br>
+[ANEXO I
+
 Demonstrativo da Receita e Despesa Segundo as Categorias Econômicas](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18679)
 
  
 
-[ANEXO II.A<br>
+[ANEXO II.A
+
 Demonstrativo da Despesa por Categoria Econômica – Consolidação Geral](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18680)
 
  
 
-[ANEXO II.B<br>
+[ANEXO II.B
+
 Demonstrativo da Receita Por Categoria Econômica - Consolidado](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18681)
 
  
 
-[ANEXO III<br>
+[ANEXO III
+
 Quadro Demonstrativo dos Recursos Recebidos e sua Aplicação - FUNDEB](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18682)
 
  
 
-[ANEXO IV <br>
+[ANEXO IV 
+
 Demonstrativo das Despesas por Projetos, Atividades e Operações Especiais conforme as Fontes de Recursos e as Categorias Econômicas](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18683)
 
  
 
-[ANEXO V<br>
+[ANEXO V
+
 Quadro de Detalhamento da Despesa por Órgãos, Grupos e Fontes](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18684)
 
  
 
-[ANEXO VI<br>
+[ANEXO VI
+
 Demonstrativo do Programa de Trabalho de Governo](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18685)
 
  
 
-[ANEXO VII<br>
+[ANEXO VII
+
 Demonstrativo de Funções, Subfunções e Programas para Projetos e Atividades](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18686)
 
  
 
-[ANEXO VIII<br>
+[ANEXO VIII
+
 Demonstrativo da Despesa por Funções, Subfunções e Programas, conforme o Vínculo com os Recursos](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18687)
 
  
 
-[ANEXO IX<br>
+[ANEXO IX
+
 Demonstrativo da Despesa por Órgãos e Funções](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18688)
 
  
 
-[ANEXO X<br>
+[ANEXO X
+
 Quadro de Detalhamento da Despesa - QDD](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18689)
 
  
 
-[ANEXO XI<br>
+[ANEXO XI
+
 Demonstrativo das Despesas com Pessoal](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18690)
 
  
 
-[ANEXO XII<br>
+[ANEXO XII
+
 Quadro Demonstrativo das Dotações por Órgão de Governo](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18691)
 
  
 
-[ANEXO XIII<br>
+[ANEXO XIII
+
 Quadro Demonstrativo Programa Anual de Trabalho do Governo em Termos de Realização de Obras e Prestação de Serviços](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18692)
 
  
 
-[ANEXO XIV<br>
+[ANEXO XIV
+
 Sumário Geral da Receita Prevista](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18693)

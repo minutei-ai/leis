@@ -1,5 +1,3 @@
-###DEC-053321-0-000-18-12-1963@@@
-
 DECRETO Nº 53.321, DE 18 DE DEZEMBRO DE 1963.
 
 Exclui do Plano de Contenção de despesas a verba que especifica do Ministério da Educação e Cultura.

@@ -1,5 +1,3 @@
-###DEC-062551-0-000-16-04-1968@@@
-
 Decreto nº 62.551, de 16 de abril de 1968.
 
 Autoriza a cessão gratuita de terreno que menciona e dá outras providências.

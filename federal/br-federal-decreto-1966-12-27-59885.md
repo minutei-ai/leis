@@ -1,5 +1,3 @@
-###DEC-059885-0-000-27-12-1966@@@
-
 DECRETO Nº 59.885, DE 27 DE DEZEMBRO DE 1966.
 
 Cria cargos necessários à implantação do Instituto Nacional de Previdência Social (INPS) e dá outras providências.
@@ -41,8 +39,6 @@ Brasília, 27 de dezembro de 1966; 145º da Independência e 78º da Republica.
 H. Castello Branco
 
 L. G. do Nascimento e Silva
-
-###DEC-059885-0-000-27-12-1966@@@RET01+++
 
 decreto nº 59.885, de 27 de dezembro de 1966.
 

@@ -1,5 +1,3 @@
-###DEC-067302-0-000-30-09-1970@@@
-
 DECRETO Nº 67.302, DE 30 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública o Instituto Educacional de Dourados, com sede em Dourados, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-096851-0-000-28-09-1988@@@
-
 DECRETO Nº 96.851, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO PLANALTO DE VILHENA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Vilhena, Estado de Rondônia.

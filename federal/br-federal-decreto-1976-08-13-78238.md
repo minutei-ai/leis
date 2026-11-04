@@ -1,5 +1,3 @@
-###DEC-078238-0-000-13-08-1976@@@
-
 Decreto nº 78.238, de 13 de agosto de 1976.
 
 Aprova a incorporação da Companhia Força e Luz do Paraná - CFLP pela Companhia Paranaense de Energia Elétrica - COPEL, e dá outras providências.

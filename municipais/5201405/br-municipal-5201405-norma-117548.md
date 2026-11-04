@@ -1,4 +1,5 @@
-DECRETO “N” Nº 71 DE 09 DE FEVEREIRO DE 2024.<br>
+DECRETO “N” Nº 71 DE 09 DE FEVEREIRO DE 2024.
+
 (Revogado pelo Decreto "N" Nº 399, de 28 de maio de 2024).
 
 ~~Dispõe sobre desmembramento de imóvel.~~
@@ -28,8 +29,10 @@ DECRETO “N” Nº 71 DE 09 DE FEVEREIRO DE 2024.<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 09 de fevereiro de 2024.~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana~~

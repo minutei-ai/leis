@@ -1,5 +1,3 @@
-###DEC-061997-0-000-28-12-1967@@@
-
 DECRETO Nº 61.997, DE 28 DE DEZEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação pela Rêde Ferroviária Federal S.A., as áreas de terreno e respectivas benfeitorias situadas fora da faixa de domínio da Viação Férrea do Rio Grande do Sul, necessárias à construção de variante, pátios de triagem, registros de estações e obras de arte, no Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-008513-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.513 – DE 31 DE DEZEMBRO DE 1945
 
 Cria Auditorias de Aeronáutica e dá outras providências.

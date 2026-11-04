@@ -1,6 +1,10 @@
 > **LEI Nº 3.495, DE 02 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a adesão do Estado do Acre ao benefício fiscal previsto na legislação do Estado de Rondônia, nos termos da Lei Complementar Federal nº 160/2017 e Convênio ICMS 190/2017.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a adesão do Estado do Acre ao benefício fiscal previsto na legislação do Estado de Rondônia, nos termos da Lei Complementar Federal nº 160/2017 e Convênio ICMS 190/2017.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

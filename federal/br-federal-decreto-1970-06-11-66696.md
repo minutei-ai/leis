@@ -1,5 +1,3 @@
-###DEC-066696-0-000-11-06-1970@@@
-
 DECRETO Nº 66.696, DE 11 DE JUNHO DE 1970.
 
 Decreta Intervenção Federal no Município de Guarulhos, Estado de São Paulo, e dá outras providências.

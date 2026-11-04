@@ -1,5 +1,3 @@
-###DEC-072385-0-000-22-06-1973@@@
-
 DECRETO Nº 72.385, DE 22 DE JUNHO DE 1973.
 
 Concede permissão, em caráter permanente, à Eletro-Flex, Indústria de Plásticos Ltda., com sede em São Paulo, para funcionar, no seu estabelecimento fabril, situado na mesma cidade, aos domingos e nos dias feriados civis e religiosos.

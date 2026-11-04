@@ -1,5 +1,3 @@
-###DEL-001168-0-000-29-04-1971@@@
-
 # DECRETO-LEI Nº 1.168, DE 29 DE ABRIL DE 1971
 
 Autoriza o Poder Executivo a integralizar o capital da Companhia Vale do Rio Dôce - CVRD, da Centrais Elétricas Brasileiras Sociedade Anônima -  ELETROBRÁS e da Companhia de Pesquisa de Recursos Minerais - CPRM.

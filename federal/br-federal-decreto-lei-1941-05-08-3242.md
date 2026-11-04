@@ -1,5 +1,3 @@
-###DEL-003242-0-000-08-05-1941@@@
-
 DECRETO-LEI N. 3.242 – DE 8 DE MAIO DE 1941
 
 Transfere para a Prefeitura do Distrito Federal o imóvel que menciona e dá outras providências

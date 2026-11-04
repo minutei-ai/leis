@@ -1,5 +1,3 @@
-###DEC-054777-0-000-31-10-1964@@@
-
 DECRETO Nº 54.777, DE 31 DE OUTUBRO DE 1964.
 
 Retifica o art. 1º do Decreto número 11.057, de 9 de dezembro de 1942.

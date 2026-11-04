@@ -1,5 +1,3 @@
-###DEC-064304-0-000-02-04-1969@@@
-
 DECRETO Nº 64.304, DE 2 DE ABRIL DE 1969.
 
 Torna insubsistente o Decreto número 38.565, de 13 de janeiro de 1956.

@@ -1,5 +1,3 @@
-###DEC-071056-0-000-31-08-1972@@@
-
 DECRETO Nº 71.056, DE 31 DE AGOSTO DE 1972.
 
 Altera o Decreto nº 54.488, de 15 de outubro de 1964, que dispõe sobre o Regulamento de Acesso dos funcionários públicos civis do Poder Executivo.

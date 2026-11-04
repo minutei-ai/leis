@@ -1,5 +1,3 @@
-###DEL-006973-0-000-19-10-1944@@@
-
 DECRETO-LEI N. 6.973 – DE 19 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 150.000,00, à verba que especifica

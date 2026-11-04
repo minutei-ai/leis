@@ -1,5 +1,3 @@
-###DEC-053004-0-000-27-11-1963@@@
-
 DECRETO Nº 53.004, DE 27 DE NOVEMBRO DE 1963.
 
 Renova o Decreto nº 48.343, de 21 de junho de 1960.

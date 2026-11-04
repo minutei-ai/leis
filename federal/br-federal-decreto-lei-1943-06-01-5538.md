@@ -1,5 +1,3 @@
-###DEL-005538-0-000-01-06-1943@@@
-
 DECRETO‑LEI N. 5.538 – DE 1 DE JUNHO De 1943
 
 Autoriza a revisão da taxa anual por prédio esgotado por "The Rio de Ja­neiro City Improvements Company Limited", no Distrito Federal

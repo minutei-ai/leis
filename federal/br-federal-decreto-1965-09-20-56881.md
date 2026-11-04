@@ -1,5 +1,3 @@
-###DEC-056881-0-000-20-09-1965@@@
-
 DECRETO Nº 56.881, DE 20 DE SETEMBRO DE 1965.
 
 Declara de utilidade pública o “Instituto Mauá de Tecnologia”, com sede em São Paulo, Estado de São Paulo.

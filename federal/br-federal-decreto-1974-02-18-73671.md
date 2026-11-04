@@ -1,5 +1,3 @@
-###DEC-073671-0-000-18-02-1974@@@
-
 DECRETO Nº 73.671, DE 18 DE FEVEREIRO DE 1974.
 
 Concede reconhecimento à Faculdade de Educação Física de Marília, mantida pela Associação de Ensino de Marília, com sede na cidade de Marília, Estado de São Paulo.

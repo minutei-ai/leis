@@ -1,5 +1,3 @@
-###DEL-005943-0-000-28-10-1943@@@
-
 DECRETO‑LEI N. 5.943 – DE 28 DE OUTUBRO DE 1943
 
 Abre ao Ministério da justiça e Negócios Interiores o crédito especial de Cr$ 80.000,00, para despesas com representação à II Grande Exposição de Curitiba.

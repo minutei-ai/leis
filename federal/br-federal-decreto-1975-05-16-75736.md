@@ -1,5 +1,3 @@
-###DEC-075736-0-000-16-05-1975@@@
-
 DECRETO Nº 75.736, DE 16 DE MAIO DE 1975.
 
 Eleva o Capital da Empresa pública financiadora de Estudos e Projetos - FINEP.

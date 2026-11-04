@@ -1,5 +1,3 @@
-###DEC-048039-0-000-05-04-1960@@@
-
 DECRETO Nº 48.039, DE 5 DE ABRIL DE 1960.
 
 Outorga à Prefeitura Municipal de Castro Alves, Estado da Bahia, concessão para distribuir energia elétrica, e dá outras providências.

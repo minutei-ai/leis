@@ -1,5 +1,3 @@
-###DEC-089915-0-000-04-07-1984@@@
-
 Decreto nº 89.915, de 04 de julho de 1984
 
 Outorga concessão à RÁDIO PARECIS DE DIAMANTINO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Diamantino, Estado do Mato Grosso.

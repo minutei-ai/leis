@@ -1,5 +1,3 @@
-###DEC-007679-0-000-14-02-2012-PUB-01@@@
-
 DECRETO Nº 7.679, DE 14 DE FEVEREIRO DE 2012
 
 Distribui os efetivos de oficiais da Marinha, em tempo de paz, para o ano de 2012.

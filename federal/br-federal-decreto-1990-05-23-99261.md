@@ -1,7 +1,3 @@
-1
-
-###DEC-099261-0-000-23-05-1990@@@
-
 DECRETO Nº 99.261, DE 23 DE MAIO DE 1990
 
 Dispõe sobre a estrutura básica do Ministério das Relações Exteriores e dá outras providências.

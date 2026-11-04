@@ -1,5 +1,3 @@
-###DEL-003603-0-000-10-09-1941@@@
-
 DECRETO-LEI N. 3.603 – DE 10 DE SETEMBRO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério das Relações Exteriores

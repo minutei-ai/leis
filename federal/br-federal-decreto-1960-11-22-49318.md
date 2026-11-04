@@ -1,5 +1,3 @@
-###DEC-049318-0-000-22-11-1960@@@
-
 DECRETO Nº 49.318 DE 22 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Laudenor Lins a pesquisar gipsita no município de Oricuri, Estado de Pernambuco.

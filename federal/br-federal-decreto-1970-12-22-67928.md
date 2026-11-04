@@ -1,5 +1,3 @@
-###DEC-067928-0-000-22-12-1970@@@
-
 DECRETO Nº 67.928, DE 22 DE DEZEMBRO DE 1970.
 
 Reconhece a Faculdade de Engenharia de Guaratinguetá com o Curso de Engenharia Mecânica, sediada na cidade de Guaratinguetá, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001154-0-000-24-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.154, DE 24 DE OUTUBRO 1995.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

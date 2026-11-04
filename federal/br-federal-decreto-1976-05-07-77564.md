@@ -1,5 +1,3 @@
-###DEC-077564-0-000-07-05-1976@@@
-
 decreto nº 77.564, de 7 de maio de 1976
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no lugar denominado Sol Posto, no Município de Campo Maior, Estado do Piauí.

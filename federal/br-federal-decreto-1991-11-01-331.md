@@ -1,7 +1,3 @@
-1
-
-###DEC-000331-0-000-01-11-1991@@@
-
 DECRETO Nº 331, DE 1º DE NOVEMBRO DE 1991
 
 Dá nova redação ao § 1º do art. 1º do Decreto nº 80.536, de 11 de outubro de 1977, que regulamenta a Lei nº 6.420, de 3 de junho de 1977.

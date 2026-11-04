@@ -1,5 +1,3 @@
-###DEL-007768-0-000-20-07-1945@@@
-
 DECRETO-LEI N. 7.768 – DE 20 DE JULHO DE 1945
 
 Altera carreiras do Quadro único – Parte Permanente – do Ministério do Trabalho, Indústria e Comércio e dá outras providências.

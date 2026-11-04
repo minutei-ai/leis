@@ -1,5 +1,3 @@
-###DEC-078313-0-000-26-08-1976@@@
-
 DECRETO Nº 78.313, DE 26 DE AGOSTO DE 1976.
 
 Autoriza o Ministro da Fazenda a contratar operações externa e dá outras providências.

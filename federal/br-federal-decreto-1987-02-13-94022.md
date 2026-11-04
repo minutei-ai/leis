@@ -1,5 +1,3 @@
-###DEC-094022-0-000-13-02-1987@@@
-
 DECRETO Nº 94.022, DE 13 DE FEVEREIRO DE 1987.
 
 Autoriza o aumento de capital social da Rede Federal de Armazéns Gerais Ferroviários S.A. - AGEF.

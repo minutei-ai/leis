@@ -1,5 +1,3 @@
-###DEC-089357-0-000-07-02-1984@@@
-
 Decreto nº 89.357, de 07 de fevereiro de 1984
 
 Declara de utilidade pública para fins de desapropriação, área de terreno a ser desmembrada de área maior, com benfeitoria, situada no Município de São Paulo, Estado de São Paulo, destinada à instalação de Central Telefônica a cargo da Telecomunicações de São Paulo S.A. - TELESP.

@@ -1,5 +1,3 @@
-###DEC-072489-0-000-18-07-1973@@@
-
 DECRETO Nº 72.489, DE 18 DE julho DE 1973.
 
 Concede reconhecimento à Faculdade de Ciências Médicas de Santos, com o curso de Medicina, mantida pela Fundação Lusíada, com sede na cidade de Santos, Estado de São Paulo.

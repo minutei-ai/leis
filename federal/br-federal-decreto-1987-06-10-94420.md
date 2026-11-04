@@ -1,5 +1,3 @@
-###DEC-094420-0-000-10-06-1987@@@
-
 DECRETO Nº 94.420, DE 10 DE JUNHO DE 1987
 
 Declara perempta a concessão outorgada à RÁDIO SOCIEDADE TRIÂNGULO MINEIRO LTDA., para executar serviço de radiodifusão sonora em onda Tropical, na cidade de Uberada, Estado de Minas Gerais.

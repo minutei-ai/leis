@@ -1,5 +1,3 @@
-###DEC-088661-0-000-31-08-1983@@@
-
 decreto nº 88.661, de 31 de agosto de 1983
 
 Concede à Companhia Siderúrgica Nacional - CSN (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital social.

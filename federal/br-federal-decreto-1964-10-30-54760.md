@@ -1,5 +1,3 @@
-###DEC-054760-0-000-30-10-1964@@@
-
 DECRETO Nº 54.760, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza Manoel Mendes da Silva a comprar pedras preciosas.

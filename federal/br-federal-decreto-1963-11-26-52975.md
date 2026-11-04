@@ -1,5 +1,3 @@
-###DEC-052975-0-000-26-11-1963@@@
-
 DECRETO Nº 52.975, DE 26 DE NOVEMBRO DE 1963.
 
 Concede à Industrial Agrícola Santa Rosa S.A. autorização para funcionar como emprêsa de mineração.

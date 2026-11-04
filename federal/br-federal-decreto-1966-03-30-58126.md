@@ -1,5 +1,3 @@
-###DEC-058126-0-000-30-03-1966@@@
-
 Decreto nº 58.126, de 30 de março de 1966.
 
 Autoriza Mineração Rio das Mortes S.A. a pesquisar minério de ouro e cassiterita, no Município de Macapá, Território Federal do Amapá.

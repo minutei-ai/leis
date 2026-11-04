@@ -1,5 +1,3 @@
-###DEC-069986-0-000-20-01-1972@@@
-
 DECRETO Nº 69.986, DE 20 DE JANEIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Comunicação Hélio Alonso, mantida pela Organização Hélio Alonso de Educação e Cultura, no Rio de Janeiro - GB.

@@ -1,5 +1,3 @@
-###DEC-084032-0-000-26-09-1979@@@
-
 Decreto nº 84.032, de 26 de setembro de 1979.
 
 Autoriza a permuta de terrenos que menciona, situados nos Municípios de Vitória e de Vila Velha, no Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-050784-0-000-12-06-1961@@@
-
 DECRETO Nº 50.784, DE 12 DE JUNHO DE 1961.
 
 Cria, no Regulamento de Uniformes da Marinha do Brasil, as insígnias de Ministro da Marinha.

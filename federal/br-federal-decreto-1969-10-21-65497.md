@@ -1,5 +1,3 @@
-###DEC-065497-0-000-21-10-1969@@@
-
 DECRETO Nº 65.497 - DE 21 DE OUTUBRO DE 1969.
 
 Redistribui servidores no Quadro de Pessoal - Parte Especial - da Caixa Econômica Federal do Rio de Janeiro e dá outras providências.

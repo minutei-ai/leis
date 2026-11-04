@@ -1,5 +1,3 @@
-###MPV-002092-0-022-22-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.092-22, DE 22 DE MARÇO DE 2001
 
 Institui, no âmbito do Poder Executivo da União, o Programa de Desligamento Voluntário - PDV, a jornada de trabalho reduzida com remuneração proporcional e a licença sem remuneração com pagamento de incentivo em pecúnia, destinados ao servidor da administração pública direta, autárquica e fundacional.

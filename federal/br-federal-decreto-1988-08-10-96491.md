@@ -1,5 +1,3 @@
-###DEC-096491-0-000-10-08-1988@@@
-
 DECRETO N° 96.491, DE 10 DE AGOSTO DE 1988
 
 Altera a redação do Regulamento do Fundo de Estudos do Mar - FUNDEM, aprovado pelo Decreto n° 94.661, de 22 de julho de 1987.

@@ -1,5 +1,3 @@
-###DEC-052702-0-000-21-10-1963@@@
-
 DECRETO Nº 52.702, DE 21 DE OUTUBRO DE 1963.
 
 Autoriza a Minas da Serra Geral Limitida a pequisar minério de ferro no município de Ouro Prêto, Estado de Minas Gerais.

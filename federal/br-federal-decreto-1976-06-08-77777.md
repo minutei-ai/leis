@@ -1,5 +1,3 @@
-###DEC-077777-0-000-08-06-1976@@@
-
 DECRETO Nº 77.777, DE 8 DE JUNHO DE 1976.
 
 Declara a caducidade da concessão outorgada à Companhia Brasileira de Mineração de Grafite, para lavrar mínerio de manganês grafitoso no Município de Itaperuna, Estado do Rio de Janeiro.

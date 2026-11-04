@@ -1,5 +1,3 @@
-###DEC-048604-0-000-25-07-1960@@@
-
 DECRETO Nº 48.604, DE 25 DE JULHO DE 1960.
 
 Declara de utilidade pública diversas áreas de terra no município de Santo André, Estado de São Paulo, necessária à construção da linha de transmissão de 88 kv, entre a linha tronco Cubatão-São Caetano e o núcleo industrial de Vila Curuçá, a que se refere o Decreto nº 45.763 de 7 de abril de 1959 e autoriza a São Paulo Light S.A. Serviços de Eletricidade a promover a desapropriação das mesmas.

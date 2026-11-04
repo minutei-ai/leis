@@ -1,5 +1,3 @@
-###DEL-004176-0-000-13-03-1942@@@
-
 DECRETO-LEI N. 4.176 – DE 13 DE MARÇO DE 1942
 
 Institue, com personalidade própria de natureza autárquica, a Estrada de Ferro Noroeste do Brasil e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-057381-0-000-03-12-1965@@@
-
 DECRETO Nº 57.381, DE 3 DE DEZEMBRO DE 1965.
 
 Concede a Emprêsa de Navegação Santa Catarina Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001533-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.533, DE 18 DE DEZEMBRO DE 1996.
 
 Extingue créditos oriundos de contribuições arrecadadas pelo Instituto Nacional do Seguro Social - INSS, no valor e condições que especifica, e dá outras providências.

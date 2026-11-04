@@ -1,5 +1,3 @@
-###DEC-044998-0-000-03-12-1958@@@
-
 DECRETO Nº 44.998, DE 3 DE DEZEMBRO DE 1958.
 
 Autoriza a Indústria e Comércio de Minérios S. A. - ICOMI - a instalar uma usina termoelétrica, para uso exclusivo no Pôrto de Macapá, situado no município de Macapá, Território Federal de Amapá.

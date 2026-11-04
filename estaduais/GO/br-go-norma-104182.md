@@ -92,43 +92,52 @@ Parágrafo único. Na hipótese prevista no inciso VI deste artigo, quando não 
 
 Art. 7º No processo licitatório para a contratação de obras e serviços de engenharia, o valor estimado, acrescido do percentual de benefícios e despesas indiretas — BDI de referência e dos encargos sociais — ES cabíveis, será deﬁnido por meio da utilização dos seguintes parâmetros, em ordem preferencial:
 
-I – composição de custos unitários, menores ou iguais ao item correspondente das tabelas de obras rodoviárias da Agência Goiana de Infraestrutura e Transportes — GOINFRA, para os serviços e as obras de infraestrutura de transportes, ou da tabela de obras civis, para as demais obras e os demais serviços de engenharia;<br>
+I – composição de custos unitários, menores ou iguais ao item correspondente das tabelas de obras rodoviárias da Agência Goiana de Infraestrutura e Transportes — GOINFRA, para os serviços e as obras de infraestrutura de transportes, ou da tabela de obras civis, para as demais obras e os demais serviços de engenharia;
+
 \- [Redação dada pelo Decreto nº 10.840, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111896/decreto-10840).
 
 ~~I – composição de custos unitários, menores ou iguais à mediana do item correspondente das tabelas de obras rodoviárias da Agência Goiana de Infraestrutura e Transportes — GOINFRA ([http://www.goinfra.go.gov.br/Tabelas/113](http://www.goinfra.go.gov.br/Tabelas/113)), para os serviços e as obras de infraestrutura de transportes, ou da tabela de obras civis, para as demais obras e os demais serviços de engenharia;~~
 
 II – composição de custos unitários e/ou insumos menores ou iguais à mediana do item correspondente do Sistema de Custos Referenciais de Obras — SICRO, para os serviços e as obras de infraestrutura de transportes, ou do Sistema Nacional de Pesquisa de Custos e Índices de Construção Civil — SINAPI, para as demais obras e os demais serviços de engenharia;
 
-III – tabela de referência formalmente aprovada pelo Poder Executivo federal e pelo estadual;<br>
+III – tabela de referência formalmente aprovada pelo Poder Executivo federal e pelo estadual;
+
 \- [Redação dada pelo Decreto nº 10.840, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111896/decreto-10840).
 
 ~~III – utilização de dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelos Poderes Executivos federal e estadual e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e a hora de acesso;~~
 
-IV – utilização de dados de pesquisa publicada em mídia especializada e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e a hora de acesso;<br>
+IV – utilização de dados de pesquisa publicada em mídia especializada e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e a hora de acesso;
+
 \- [Redação dada pelo Decreto nº 10.840, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111896/decreto-10840).
 
 ~~IV – contratações similares feitas pela administração pública em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, observado o índice de atualização de preços correspondente;~~
 
-V – contratações similares feitas pela administração pública em execução ou concluídas até um ano antes da data da pesquisa de preços, observado o índice de atualização de preços correspondente, que poderá ser:<br>
+V – contratações similares feitas pela administração pública em execução ou concluídas até um ano antes da data da pesquisa de preços, observado o índice de atualização de preços correspondente, que poderá ser:
+
 \- [Redação dada pelo Decreto nº 10.840, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111896/decreto-10840).
 
 ~~V – pesquisa na base nacional de notas fiscais eletrônicas; e~~
 
-a) o índice de obras e serviços rodoviários publicado pelo Departamento Nacional de Infraestrutura de Transportes – DNIT, para orçamentos de obras de infraestrutura; ou<br>
+a) o índice de obras e serviços rodoviários publicado pelo Departamento Nacional de Infraestrutura de Transportes – DNIT, para orçamentos de obras de infraestrutura; ou
+
 \- [Acrescido pelo Decreto nº 10.840, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111896/decreto-10840).
 
-b) o Índice Nacional de Custo da Construção – INCC, para orçamentos cujo objeto sejam obras de edificação e afins;<br>
+b) o Índice Nacional de Custo da Construção – INCC, para orçamentos cujo objeto sejam obras de edificação e afins;
+
 \- [Acrescido pelo Decreto nº 10.840, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111896/decreto-10840).
 
-VI – pesquisa na base nacional de notas fiscais eletrônicas; e<br>
+VI – pesquisa na base nacional de notas fiscais eletrônicas; e
+
 \- [Redação dada pelo Decreto nº 10.840, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111896/decreto-10840).
 
 ~~VI – pesquisa direta, com no mínimo 3 (três) fornecedores, apresentada via relatório de cotações do orçamentista, com antecedência máxima de 6 (seis) meses em relação à data de realização do orçamento.~~
 
-VII – pesquisa direta, com no mínimo três fornecedores, apresentada via relatório de cotações do orçamentista, com a antecedência máxima de seis meses em relação à data de realização do orçamento.<br>
+VII – pesquisa direta, com no mínimo três fornecedores, apresentada via relatório de cotações do orçamentista, com a antecedência máxima de seis meses em relação à data de realização do orçamento.
+
 \- [Acrescido pelo Decreto nº 10.840, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111896/decreto-10840).
 
-§ 1º  O orçamento estimado da contratação será válido por um ano da data-base da tabela referencial predominantemente adotada como base do orçamento, sem prejuízo à possibilidade de utilização da tabela referencial mais recente antes do decurso desse prazo, caso se constate que os preços orçados não mais refletem os preços de mercado.<br>
+§ 1º  O orçamento estimado da contratação será válido por um ano da data-base da tabela referencial predominantemente adotada como base do orçamento, sem prejuízo à possibilidade de utilização da tabela referencial mais recente antes do decurso desse prazo, caso se constate que os preços orçados não mais refletem os preços de mercado.
+
 \- [Redação dada pelo Decreto nº 10.840, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111896/decreto-10840).
 
 ~~§ 1º Caso as tabelas de referência citadas nos incisos I e II deste artigo apresentem defasagem de tempo entre sua publicação e a realização do certame maior que 90 (noventa) dias, os valores constantes do orçamento deverão ser reajustados segundo a variação dos índices mais atuais de obras e serviços rodoviários ou do Índice Nacional de Custo da Construção — INCC, fornecidos pela Fundação Getúlio Vargas, a depender dos serviços que compõem o orçamento da obra.~~

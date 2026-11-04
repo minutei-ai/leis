@@ -1,5 +1,3 @@
-###DEC-004592-0-000-11-02-2003@@@
-
 DECRETO Nº 4.592, DE 11 DE FEVEREIRO DE 2003.
 
 Acresce parágrafo ao art. 47-A do Decreto no 3.179, de 21 de setembro de 1999, que dispõe sobre a especificação das sanções aplicáveis às condutas e atividades lesivas ao meio ambiente.

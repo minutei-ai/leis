@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/223ccc59-fdd2-4694-b6ca-ff100aac0544/texto#nowhere)
 
-###DEL-000486-0-000-03-03-1969@@@
-
 DECRETO-LEI Nº 486, DE 3 DE MARÇO de 1969
 
 Dispõe sôbre escrituração e livros mercantis e dá outras providências.

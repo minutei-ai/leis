@@ -1,5 +1,3 @@
-###DEC-082099-0-000-09-08-1978@@@
-
 DECRETO Nº 82.099, DE 09 DE AGOSTO DE 1978.
 
 Retifica a concessão de lavra outorgada à Empresa Caulim Ltda. pelo Decreto nº 23.112, de 28 de maio de 1947.

@@ -1,8 +1,6 @@
-###LEI-000126-A-000-21-11-1892@@@
+**LEI N. 126 A – DE 21 DE NOVEMBRO DE 1892**
 
-<strong>LEI N. 126 A – DE 21 DE NOVEMBRO DE 1892</strong>
-
-<em><strong>Orça a receita geral da Republica dos Estados Unidos do Brazil para o exercicio de 1893, e dá outras providencias.</strong></em>
+***Orça a receita geral da Republica dos Estados Unidos do Brazil para o exercicio de 1893, e dá outras providencias.***
 
 O Vice-Presidente da Republica dos Estados Unidos do Brazil:
 
@@ -10,7 +8,7 @@ Faço saber que o Congresso Nacional decreta e eu sancciono a lei seguinte:
 
 RECEITA GERAL
 
-<strong>Art.</strong> 1º A receita geral da Republica dos Estados Unidos do Brazil, para o exercicio de 1893, é orçada na quantia de 233 268:300$, e será realizada com o producto do que for arrecadado dentro do exercicio da presente lei, sob os titulos abaixo designados:
+**Art.** 1º A receita geral da Republica dos Estados Unidos do Brazil, para o exercicio de 1893, é orçada na quantia de 233 268:300$, e será realizada com o producto do que for arrecadado dentro do exercicio da presente lei, sob os titulos abaixo designados:
 
 RECEITA ORDINARIA
 
@@ -96,7 +94,47 @@ Imposto de 2 <sup>1</sup>/<sub>2</sub> % sobre o dividendo dos titulos das compa
 
 Cobrança da divida activa.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt"><span>Consumo</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Fumo em bruto de producção estrangeira, por 500 grammas ou fracção desta unidade.......................</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$100</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Fumo picado, desfiado ou migado, por 25 grammas ou fracção desta unidade, de producção nacional...................................................................................................................................................</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$010</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>De producção estrangeira.......................................................................................................................</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:30.25pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Charutos por um:</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>De fabrico estrangeiro.............................................................................................................................</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$100</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:30.25pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Cigarros por maço até 20, e por qualquer fracção excedente de 20:</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>De fabrico nacional..................................................................................................................................</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$010</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>De fabrico estrangeiro.............................................................................................................................</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$030</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:30.25pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Os cigarros de mortalha ou capa de fumo pagarão o dobro destas taxas:</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:30.25pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Rapé, por 125 grammas ou fracção desta unidade:</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>De fabrico nacional..........................................................................................................................</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr><tr><td style="width:448.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>De fabrico estrangeiro.........................................................................................................................</span></span></p></td><td style="width:26.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$060</span></span></p></td></tr></tbody></table>
+Consumo
+
+Fumo em bruto de producção estrangeira, por 500 grammas ou fracção desta unidade.......................
+
+$100
+
+Fumo picado, desfiado ou migado, por 25 grammas ou fracção desta unidade, de producção nacional...................................................................................................................................................
+
+$010
+
+De producção estrangeira.......................................................................................................................
+
+$020
+
+Charutos por um:
+
+De fabrico estrangeiro.............................................................................................................................
+
+$100
+
+Cigarros por maço até 20, e por qualquer fracção excedente de 20:
+
+De fabrico nacional..................................................................................................................................
+
+$010
+
+De fabrico estrangeiro.............................................................................................................................
+
+$030
+
+Os cigarros de mortalha ou capa de fumo pagarão o dobro destas taxas:
+
+Rapé, por 125 grammas ou fracção desta unidade:
+
+De fabrico nacional..........................................................................................................................
+
+$020
+
+De fabrico estrangeiro.........................................................................................................................
+
+$060
 
 Estas taxas serão arrecadadas á sahida do producto nas alfandegas e entrepostos aduaneiros e nas fabricas e depositos respectivos.
 
@@ -128,7 +166,7 @@ Saldo ou excesso entre os recebimentos e as restituições.
 
 DISPOSIÇÕES GERAES
 
-<strong>Art.</strong> 2º E' o Governo autorisado:
+**Art.** 2º E' o Governo autorisado:
 
 1º, a emittir bilhetes do Thesouro até á somma de 16.000:000$, como antecipação de receita no exercício desta lei; devendo, porém, ser resgatados até ao fim do mesmo exercicio;
 
@@ -168,7 +206,7 @@ c) elevando ate ao decuplo do que dispõe o actual regulamento as multas imposta
 
 7º, a arrendar os armazens das alfandegas, resalvando as condições de effectiva fiscalização por parte da Fazenda, correndo por conta dos arrendatarios os serviços das capatazias.
 
-<strong>Art.</strong> 3º E' revogada a prohibição da venda, na Capital Federal, de bilhetes de loterias dos Estados.
+**Art.** 3º E' revogada a prohibição da venda, na Capital Federal, de bilhetes de loterias dos Estados.
 
 Antes, porém, de expostos á venda os bilhetes de qualquer dessas loterias, os seus thesoureiros, contractantes ou agentes são obrigados, sob as penas que forem comminadas:
 
@@ -180,9 +218,9 @@ Antes, porém, de expostos á venda os bilhetes de qualquer dessas loterias, os 
 
 § 2º Da importancia arrecadada á conta do accrescimo de 2 % na taxa das loterias dos Estados, a qual será computada na receita geral, sahirá a quantia que for julgada necessaria até ao maximo de 5:000$, para gratificação do serviço que, pelo n. 1 deste artigo, é incumbido á fiscalização das loterias.
 
-<strong>Art.</strong> 4º Continúa em vigor o art. 4º da lei n. 25 de 30 de dezembro de 1891, até definitiva organização de todos os Estados da União e do Districto Federal, e o art. 7º da mesma lei.
+**Art.** 4º Continúa em vigor o art. 4º da lei n. 25 de 30 de dezembro de 1891, até definitiva organização de todos os Estados da União e do Districto Federal, e o art. 7º da mesma lei.
 
-<strong>Art.</strong> 5º Revogam-se as disposições em contrario.
+**Art.** 5º Revogam-se as disposições em contrario.
 
 Mando, portanto, a todas as autoridades a quem o conhecimento e execução desta lei pertencerem, que a executem e façam executar e observar fiel e inteiramente como nella se contém.
 
@@ -190,7 +228,7 @@ O Ministro de Estado dos Negocios da Fazenda a faça imprimir e publicar.
 
 Capital Federal, 21 de novembro de 1892, 4º da Republica.
 
-<strong>FLORIANO PEIXOTO.</strong>
+**FLORIANO PEIXOTO.**
 
 Serzedello Corréa.
 

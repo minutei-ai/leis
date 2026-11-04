@@ -1,7 +1,3 @@
-1
-
-###DEC-000328-0-000-01-11-1991@@@
-
 DECRETO Nº 328, DE 1º DE NOVEMBRO DE 1991
 
 Altera a alíquota do Imposto sobre Produtos Industrializados IPI incidente sobre os cigarros.

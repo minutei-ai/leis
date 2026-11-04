@@ -1,5 +1,3 @@
-###DEC-007889-0-000-15-01-2013-PUB-01@@@
-
 DECRETO Nº 7.889, DE 15 DE JANEIRO DE 2013
 
 Institui a Comissão Interministerial de Aquisições do Programa de Aceleração do Crescimento - CIA-PAC, regulamenta o art. 3º\-A da Lei nº 11.578, de 26 de novembro de 2007, e dá outras providências.

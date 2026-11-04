@@ -1,5 +1,3 @@
-###DEC-068908-0-000-13-07-1971@@@
-
 DECRETO Nº 68.908, DE 13 DE JUlHO DE 1971.
 
 Dispõe sôbre Concurso Vestibular para admissão aos cursos superiores de graduação.

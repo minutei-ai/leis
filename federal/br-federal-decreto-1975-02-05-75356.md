@@ -1,5 +1,3 @@
-###DEC-075356-0-000-05-02-1975@@@
-
 Decreto N.° 75.356 DE 5 DE FEVEREIRO DE 1975.
 
 Autoriza a cessão gratuita de uso de imóvel ao Iate Clube ao Natal, Estado do Rio Grande do Norte.

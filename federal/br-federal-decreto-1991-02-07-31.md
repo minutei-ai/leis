@@ -1,5 +1,3 @@
-###DEC-000031-0-000-07-02-1991@@@
-
 DECRETO Nº 31, DE 7 DE FEVEREIRO DE 1991
 
 Altera os Decretos nºs 99.209, de 16 de abril de 1990, 99.266, de 28 de maio de 1990, e dá outras providências.

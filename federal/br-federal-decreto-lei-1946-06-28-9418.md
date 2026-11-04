@@ -1,5 +1,3 @@
-###DEL-009418-0-000-28-06-1946@@@
-
 DECRETO-LEI N. 9.418 – DE 28 DE JUNHO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 51.443,40 para execução de uma casa tipo"guarda-florestal” na Estação Meteorológica do Itatiaia e torna sem aplicação uma dotação do Plano de Obras e Equipamentos para 1946.

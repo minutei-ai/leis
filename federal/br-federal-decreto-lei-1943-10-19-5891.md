@@ -1,5 +1,3 @@
-###DEL-005891-0-000-19-10-1943@@@
-
 DECRETO‑LEI N. 5. 891 – DE 19 DE OUTUBRO DE 1943
 
 Cria função gratificada no Quadro Permanente do Ministério da Marinha

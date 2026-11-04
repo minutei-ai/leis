@@ -1,5 +1,3 @@
-###DEC-089425-0-000-08-03-1984@@@
-
 decreto nº 89.425, de 08 de março de 1984.
 
 Autoriza o aumento do Capital Social da Empresa Brasileira dos Transportes Urbanos - EBTU.

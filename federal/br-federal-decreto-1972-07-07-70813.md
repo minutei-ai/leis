@@ -1,5 +1,3 @@
-###DEC-070813-0-000-07-07-1972@@@
-
 decreto nº 70.813, de 7 de julho de 1972.
 
 Concede reconhecimento à Faculdade de Ciências e Letras de Bragança Paulista - São Paulo.

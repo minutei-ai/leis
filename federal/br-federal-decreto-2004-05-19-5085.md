@@ -1,5 +1,3 @@
-###DEC-005085-0-000-19-05-2004@@@
-
 DECRETO Nº 5.085,  DE 19 DE MAIO DE 2004
 
 Define as ações continuadas de assistência social.

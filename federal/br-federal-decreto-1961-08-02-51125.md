@@ -1,5 +1,3 @@
-###DEC-051125-0-000-02-08-1961@@@
-
 DECRETO Nº 51.125, DE 02 DE AGÔSTO DE 1961.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, o domínio útil da fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

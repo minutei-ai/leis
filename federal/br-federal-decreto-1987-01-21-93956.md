@@ -1,5 +1,3 @@
-###DEC-093956-0-000-21-01-1987@@@
-
 DECRETO Nº 93.956, DE 21 DE JANEIRO DE 1987
 
 Reduz alíquota do Imposto sobre Produtos Industrializados.

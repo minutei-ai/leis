@@ -1,5 +1,3 @@
-###DEL-009662-0-000-28-08-1946@@@
-
 DECRETO-LEI N. 9.662 – DE 28 DE AGÔSTO DE 1946
 
 Concede adiantamento à Navegação Aérea Brasileira S. A., e dá outras providências.

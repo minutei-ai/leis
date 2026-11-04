@@ -1,5 +1,3 @@
-###DEC-049683-0-000-31-12-1960@@@
-
 DECRETO Nº 49.683, DE 31 DE DEZEMBRO DE 1960.
 
 Prorroga, temporariamente, o disposto no artigo 126 do Regimento de Promoções para o Oficiais da Marinha.

@@ -1,5 +1,3 @@
-###DEC-073836-0-000-13-03-1974@@@
-
 DECRETO Nº 73.836, DE 13 DE MARÇO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do domínio direto de imóvel, em Marabá PA, destinado ao Ministério do Exército.

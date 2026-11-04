@@ -1,5 +1,3 @@
-###DEC-083621-0-000-26-06-1979@@@
-
 Decreto nº 83.621, de 26 de junho de 1979.
 
 Retifica a concessão de lavra outorgada à Companhia de Estanho Minas Brasil pelo Decreto nº 71.906, de 14 de março de 1973.

@@ -1,5 +1,3 @@
-###DEC-071397-0-000-17-11-1972@@@
-
 DeCRETO Nº 71.397, DE 17 de NOVEMBRO DE 1972.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

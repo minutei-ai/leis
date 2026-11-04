@@ -1,7 +1,3 @@
-1
-
-###DEC-099209-0-000-16-04-1990@@@
-
 DECRETO N° 99.209, DE 16 DE ABRIL DE 1990
 
 Regulamenta a Lei n° 8.011, de 4 de abril de 1990, que dispõe sobre a venda de imóveis da União situados em Brasília, Distrito Federal, e dá outras providências.

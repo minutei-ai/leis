@@ -1,5 +1,3 @@
-###DEC-055545-0-000-11-01-1965@@@
-
 DECRETO Nº 55.545, DE 11 DE JANEIRO DE 1965.
 
 Autoriza Liz S.A., Comércio e Beneficiamento de Calcário a pesquisar calcário no município de Laranjeiras, Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-083829-0-000-09-08-1979@@@
-
 DECRETO Nº 83.829, DE 09 DE AGOSTO DE 1979.
 
 Concede autorização ao R/V EASTWARD para realizar, no mar territorial do Brasil, os serviços que especifica.

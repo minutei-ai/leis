@@ -1,5 +1,3 @@
-###DEC-094352-0-000-20-05-1987@@@
-
 DECRETO Nº 94.352, DE 20 DE MAIO DE 1987.
 
 Outorga concessão à VALEC - Engenharia e Construções Limitada, para construção, uso e gozo de uma estrada de ferro ligando a região de Guarapuava até Guaíra, no Estado do Paraná, estendendo-se até a região de Miranda, no Estado de Mato Grosso do Sul, incluindo a construção de variantes na malha ferroviária do Paraná entre Guarapuava e Paranaguá, nos termos das Cláusulas do Contrato a ser celebrado entre o Ministério dos Transportes e aquela empresa.

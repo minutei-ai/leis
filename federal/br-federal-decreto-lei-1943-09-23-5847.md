@@ -1,5 +1,3 @@
-###DEL-005847-0-000-23-09-1943@@@
-
 DECRETO‑LEI N. 5.847 – DE 23 DE SETEMBRO DE  1943
 
 Cria a 2ª coletoria de Uberlândia, no Estado de Minas Gerais, e dá outra providências

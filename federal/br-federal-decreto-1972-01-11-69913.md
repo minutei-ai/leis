@@ -1,5 +1,3 @@
-###DEC-069913-0-000-11-01-1972@@@
-
 DECRETO Nº 69.913, DE 11 DE JANEIRO DE 1972.
 
 Autoriza o funcionamento do Instituto Universitário do Grande ABC, com os cursos de Estudos Sociais e Ciências Contábeis, Santo André-SP.

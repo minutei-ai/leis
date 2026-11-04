@@ -1,5 +1,3 @@
-###DEC-061775-0-000-24-11-1967@@@
-
 DECRETO Nº 61.775, DE 24 DE NOVEMBRO DE 1967.
 
 Dispõe sôbre o afastamento de Servidores Públicos Federais para o exterior.

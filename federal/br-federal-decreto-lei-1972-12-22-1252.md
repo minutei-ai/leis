@@ -1,5 +1,3 @@
-###DEL-001252-0-000-22-12-1972@@@
-
 # DECRETO-LEI Nº 1.252, DE 22 DE DEZEMBRO DE 1972
 
 Altera e consolida a legislação referente ao Fundo Aeronáutico.

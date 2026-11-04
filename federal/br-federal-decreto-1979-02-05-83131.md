@@ -1,5 +1,3 @@
-###DEC-083131-0-000-05-02-1979@@@
-
 Decreto nº 83.131, de 05 de fevereiro de 1979
 
 Concede à Construções e Comércio Camargo Corrêa S.A. o direito de lavrar diamante no Município de Nortelândia, Estado de Mato Grosso.

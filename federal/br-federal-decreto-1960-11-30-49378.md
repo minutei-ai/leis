@@ -1,5 +1,3 @@
-###DEC-049378-0-000-30-11-1960@@@
-
 DECRETO Nº 49.378, DE 30 DE NOVEMBRO DE 1960.
 
 Altera a estrutura e o Quadro do Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082704-0-000-22-11-1978@@@
-
 Decreto nº 82.704, de 22 de novembro de 1978.
 
 Concede reconhecimento ao curso de Letras das Faculdades Integradas Estácio de Sá, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

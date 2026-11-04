@@ -1,5 +1,3 @@
-###DEC-060367-A-000-10-03-1967@@@
-
 decreto nº 60.367-A, de 10 de março de 1967.
 
 Confere ao Ministro de Estado da Educação a Grã-Cruz da Ordem Nacional da Educação.

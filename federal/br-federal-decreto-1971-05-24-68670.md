@@ -1,5 +1,3 @@
-###DEC-068670-0-000-24-05-1971@@@
-
 DECRETO Nº 68.670 - DE 24 DE MAIO DE 1971.
 
 Declara de utilidade pública o Centro Cultural Brasil-Estados Unidos, com sede em Curitiba, Estado do Paraná.

@@ -10,7 +10,8 @@ Art. 1º Na organização administrativa do Poder Executivo do Estado de Goiás,
 
 I – ficam criadas:
 
-a) a Subsecretaria de Agricultura Familiar, Produção Rural e Inclusão Produtiva, integrante da estrutura básica, subordinada ao Gabinete do Secretário, com o respectivo cargo de provimento em comissão de Subsecretário, símbolo DAS-2; e<br>
+a) a Subsecretaria de Agricultura Familiar, Produção Rural e Inclusão Produtiva, integrante da estrutura básica, subordinada ao Gabinete do Secretário, com o respectivo cargo de provimento em comissão de Subsecretário, símbolo DAS-2; e
+
 \- [Vide Errata publicada no Suplemento do D.O. de 18-12-2024](https://diariooficial.abc.go.gov.br/portal/edicoes/download/6454).
 
 b) a Gerência de Infraestrutura de Irrigação e Barragens, integrante da estrutura complementar, subordinada à Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável, com o respectivo cargo de provimento em comissão de Gerente, símbolo DAI-1; e
@@ -48,7 +49,7 @@ ANEXO ÚNICO
 |   |   | DENOMINAÇÃO | QUANTIDADE | SÍMBOLO |
 | I – Administração do Poder Executivo |
 | .................................................................................................................. |
-| **r)** **Secretaria de Estado de Agricultura, Pecuária e Abastecimento – SEAPA** |
+| **r)Secretaria de Estado de Agricultura, Pecuária e Abastecimento – SEAPA** |
 | ................................................................................................................... |
 | 4.11. Subsecretaria de Agricultura Familiar, Produção Rural e Inclusão Produtiva | Básica | Subsecretário | 1 | DAS-2 |
 | 4.11.1. Superintendência de Produção Rural | Básica | Superintendente | 1 | DAS-4 |

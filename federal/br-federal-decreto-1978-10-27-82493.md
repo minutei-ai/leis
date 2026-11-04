@@ -1,5 +1,3 @@
-###DEC-082493-0-000-27-10-1978@@@
-
 Decreto n.º 82.493, de 27 de outubro de 1978
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

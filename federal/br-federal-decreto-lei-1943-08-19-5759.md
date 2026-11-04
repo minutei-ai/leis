@@ -1,5 +1,3 @@
-###DEL-005759-0-000-19-08-1943@@@
-
 DECRETO-LEI N. 5.759 – DE 19 DE AGôSTO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 5.231.664,20, para pagamento ao Lóide Brasileiro, e dá outras providências

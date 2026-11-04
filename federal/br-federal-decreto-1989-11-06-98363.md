@@ -1,7 +1,3 @@
-1
-
-###DEC-098363-0-000-06-11-1989@@@
-
 DECRETO Nº 98.363, DE 6 DE NOVEMBRO DE 1989
 
 Revoga o Decreto nº 81.085, de 20 de dezembro de 1977, que aprova o Regulamento para o Serviço de Assistência Social da Marinha.

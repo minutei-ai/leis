@@ -1,5 +1,3 @@
-###DEL-005791-0-000-02-09-1943@@@
-
 DECRETO–LEI N. 5.791 – DE 2 DE SETEMBRO DE 1943
 
 Cria uma coletoria federal no município de Sertanópolis, no Estado do Paraná, . o dá outras providências

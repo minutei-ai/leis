@@ -1,5 +1,3 @@
-###DEC-070105-0-000-03-02-1972@@@
-
 DECRETO Nº 70.105, DE 3 DE FEVEREIRO DE 1972.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal da Comissão Nacional de Energia Nuclear, e dá outras providências.

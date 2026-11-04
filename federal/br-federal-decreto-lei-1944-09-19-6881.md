@@ -1,5 +1,3 @@
-###DEL-006881-0-000-19-09-1944@@@
-
 DECRETO-LEI N. 6.881 – DE 19 DE SETEMBRO DE 1944
 
 Dispõe sôbre o pessoal do Instituto Nacional do Mate

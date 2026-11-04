@@ -1,5 +1,3 @@
-###DEC-006340-0-000-03-01-2008@@@
-
 DECRETO Nº 6.340, DE 3 DE JANEIRO DE 2008.
 
 Promulga a Convenção Interamericana sobre Assistência Mútua em Matéria Penal, assinada em Nassau, em 23 de maio de 1992, e seu Protocolo Facultativo, assinado em Manágua, em 11 de junho de 1993.
@@ -22,11 +20,7 @@ Brasília, 3 de janeiro de 2008; 187o da Independência e 120o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 4.1.2008
-
-CONVENÇÃO INTERAMERICANA SOBRE ASSISTÊNCIA MÚTUA EM MATÉRIA PENAL
+Samuel Pinheiro Guimarães NetoCONVENÇÃO INTERAMERICANA SOBRE ASSISTÊNCIA MÚTUA EM MATÉRIA PENAL
 
 Os Estados Membros da Organização dos Estados Americanos, 
 

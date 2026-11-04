@@ -1,5 +1,3 @@
-###DEC-046074-0-000-19-05-1959@@@
-
 DECRETO Nº 46.074, DE 19 DE MAIO DE 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura, que menciona.

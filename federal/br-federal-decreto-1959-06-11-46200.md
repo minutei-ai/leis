@@ -1,5 +1,3 @@
-###DEC-046200-0-000-11-06-1959@@@
-
 DECRETO Nº 46.200, DE 11 DE JUNHO DE 1959.
 
 Autoriza Geraldo Dias a comprar Tobias Duarte a pesquisar areias ilmeníticas no município de Primeira Cruz, Estado do Maranhão.

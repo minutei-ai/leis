@@ -1,5 +1,3 @@
-###DEC-004543-0-000-26-12-2002@@@
-
 DECRETO N. 4.543 – DE 26 DE DEZEMBRO DE 2002
 
 Regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.

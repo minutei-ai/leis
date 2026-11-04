@@ -1,5 +1,3 @@
-###DEC-079030-0-000-23-12-1976@@@
-
 DECRETO Nº 79.030, DE 23 DE DEZEMBRO DE 1976
 
 Altera dispositivos do Regulamento para o Centro de Informações da Marinha, aprovado pelo Decreto nº 68.447, de 30 de março de 1971.

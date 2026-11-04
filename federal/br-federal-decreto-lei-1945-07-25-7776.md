@@ -1,5 +1,3 @@
-###DEL-007776-0-000-25-07-1945@@@
-
 DECRETO-LEI N. 7.776 – DE 25 DE JULHO DE 1945
 
 Dispõe sôbre a organização da Comissão de Readaptação dos Incapazes das Fôrças Armadas e dá outras providências.

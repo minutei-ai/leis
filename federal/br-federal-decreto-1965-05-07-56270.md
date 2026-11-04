@@ -1,5 +1,3 @@
-###DEC-056270-0-000-07-05-1965@@@
-
 decreto nº 56.270, de 7 de maio de 1965.
 
 Passa a denominar-se “Faculdade de Música Sagrado Coração de Jesus” o Conservatório Musical Sagrado Coração de Jesus, de São Paulo.

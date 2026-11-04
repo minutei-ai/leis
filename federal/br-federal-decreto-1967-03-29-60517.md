@@ -1,5 +1,3 @@
-###DEC-060517-0-000-29-03-1967@@@
-
 Decreto nº 60.517, de 29 de março de 1967.
 
 Autoriza a ratificação, pelo Tesouro Nacional, da garantia concedida a operação de crédito que menciona.

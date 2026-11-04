@@ -1,5 +1,3 @@
-###DEC-072629-0-000-16-08-1973@@@
-
 DECRETO Nº 72.629, DE 16 DE AGOSTO DE 1973.
 
 Concede a Calfibra S.A. - Mineração, Indústria e Comércio o direito de lavrar dolomita no Município de Bocaiuva do Sul, Estado do Paraná.

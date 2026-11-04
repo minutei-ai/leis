@@ -1,5 +1,3 @@
-###DEC-078610-0-000-21-10-1976@@@
-
 DECRETO Nº 78.610, DE 21 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Educação Física, da Escola Superior de Educação Física do Pará, com sede na Cidade de Belém, Estado do Pará.

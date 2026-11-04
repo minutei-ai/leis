@@ -1,7 +1,3 @@
-1
-
-###DEC-001077-0-000-04-03-1994@@@
-
 DECRETO N° 1.077, DE 4 DE MARÇO DE 1994
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980 (Acordo n° 12), entre Brasil e Peru, de 28 de junho de 1990.

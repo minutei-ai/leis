@@ -1,5 +1,3 @@
-###DEC-055817-0-000-08-03-1965@@@
-
 Decreto nº 55.817, de 8 de março de 1965.
 
 Altera a composição do Conselho Nacional de Defesa Agrícola, criado pelo Decreto nº 24.114, de 21 abril de 1934, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-084378-0-000-07-01-1980@@@
-
 DECRETO Nº 84.378 DE 7 DE JANEIRO DE 1980
 
 Dispensa a licitação para a alienação de terras devolutas da União que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210351)<br>
-
 # DECRETO LEGISLATIVO N° 2.557, DE 17 DE DEZEMBRO DE 2024
 
 ### _Considera regulares e aprova as contas anuais apresentadas pelo Senhor Chefe do Poder Executivo relativas ao exercício econômico-financeiro de 2023._

@@ -1,5 +1,3 @@
-###DEL-006139-0-000-28-12-1943@@@
-
 DECRETO‑LEI N. 6.139 – DE 28 DE DEZEMBRO de 1943
 
 Autoriza a emissão de "Letras do Tesouro"

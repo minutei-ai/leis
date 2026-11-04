@@ -1,5 +1,3 @@
-###DEC-067710-0-000-07-12-1970@@@
-
 Decreto nº 67.710, de 7 de dezembro de 1970.
 
 Dispõe sôbre a inclusão, na série de classes de Médico, de servidores do Ministério da Saúde diplomados em Medicina e dá outras providências.

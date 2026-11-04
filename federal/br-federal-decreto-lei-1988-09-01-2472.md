@@ -1,7 +1,3 @@
-1
-
-###DEL-002472-0-000-01-09-1988@@@
-
 # DECRETO-lEI N° 2.472, DE 1° DE SETEMBRO DE 1988
 
 Altera disposições da legislação aduaneira, consubstanciada no Decreto-Lei n° 37, de 18 de novembro de 1966,e dá outras providências.

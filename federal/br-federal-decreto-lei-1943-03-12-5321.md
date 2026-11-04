@@ -1,5 +1,3 @@
-###DEL-005321-0-000-12-03-1943@@@
-
 DECRETO‑LEI N. 5.321 – DE 12 DE MARÇO DE 1943
 
 Cancela termo de deserção e indulta Nicolau Mariano da Silva

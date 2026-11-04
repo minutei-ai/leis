@@ -1,5 +1,3 @@
-###DEC-082876-0-000-18-12-1978@@@
-
 Decreto nº 82.876, de 18 de dezembro de 1978
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Econômicas, Contábeis e Administrativas de Nova Iguaçu, Estado do Rio de Janeiro.

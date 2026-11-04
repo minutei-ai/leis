@@ -1,5 +1,3 @@
-###DEC-093484-0-000-29-10-1986@@@
-
 DECRETO Nº 93.484, DE 29 DE OUTUBRO DE 1986.
 
 Dá nova redação ao § 3º do artigo 16 do Decreto nº 89.496, de 29 de março de 1984, alterado pelo Decreto nº 90.309, de 16 de outubro de 1984 e pelo Decreto nº 90.991, de 26 de fevereiro de 1985, que dispõem sobre a Política Nacional de Irrigação.

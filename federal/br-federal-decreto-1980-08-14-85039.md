@@ -1,5 +1,3 @@
-###DEC-085039-0-000-14-08-1980@@@
-
 Decreto nº 85.039, de 14 de agosto de 1980.
 
 Concede autorização ao Instituto de Pesquisas Oceanográficas da Universidade de Tóquio, Japão, para realizar, no Brasil, os serviços que especifica.

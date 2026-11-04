@@ -1,5 +1,3 @@
-###DEC-058195-0-000-15-04-1966@@@
-
 DECRETO Nº 58.195, DE 15 DE ABRIL DE 1966.
 
 Reduz o interstício de permanência no pôsto de Tenente Coronel, no Quadro de Oficiais Médicos do Serviço de Saúde do Exército.

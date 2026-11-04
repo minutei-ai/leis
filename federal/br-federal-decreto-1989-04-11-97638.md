@@ -1,7 +1,3 @@
-1
-
-###DEC-097638-0-000-11-04-1989@@@
-
 DECRETO N° 97.638, DE 11 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Pedagogia das Faculdades Unidas do Centro Norte, em Rio Verde de Mato Grosso, Mato Grosso do Sul.

@@ -1,5 +1,3 @@
-###DEC-081868-0-000-27-06-1978@@@
-
 Decreto nº 81.868, de 27 de junho de 1978.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia, Ciências e Letras Boa Esperança, com sede na cidade de Boa Esperança, Estado de Minas Gerais.

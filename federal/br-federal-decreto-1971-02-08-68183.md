@@ -1,5 +1,3 @@
-###DEC-068183-0-000-08-02-1971@@@
-
 DECRETO Nº 68.183, DE 8 DE FEVEREIRO DE 1971.
 
 Torna sem efeito redistribuição de cargo, com o respectivo ocupante, originário do extinto Lloyd Brasileiro - Patrimônio Nacional.

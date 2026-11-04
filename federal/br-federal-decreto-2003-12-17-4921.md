@@ -1,5 +1,3 @@
-###DEC-004921-0-000-17-12-2003@@@
-
 DECRETO Nº 4.921 DE 17 DE DEZEMBRO DE 2003.
 
 Promulga o Convênio entre o Governo da República Federativa do Brasil e o Governo da República Argentina sobre Assistência aos Nacionais de cada uma das Partes que se Encontrem em Território de Estados nos quais não haja Representação Diplomática ou Consular de seus Respectivos Países, de 14 de agosto de 2001.
@@ -74,5 +72,6 @@ Artigo 6º
 
 Pelo Governo da República Federativa do Brasil
 
-Pelo Governo da República<br>
+Pelo Governo da República
+
 Argentina

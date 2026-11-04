@@ -1,5 +1,3 @@
-###DEC-007254-0-000-02-08-2010@@@
-
 DECRETO Nº 7.254, DE 2 DE AGOSTO DE 2010.
 
 Institui o Comitê da Bacia Hidrográfica do Rio Grande, com área de atuação localizada nos Estados de Minas Gerais e São Paulo, e dá outras providências.

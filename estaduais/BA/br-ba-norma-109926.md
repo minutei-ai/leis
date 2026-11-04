@@ -1,6 +1,7 @@
 LEI Nº 8.626 DE 09 DE MAIO DE 2003
 
-Ver também:<br>
+Ver também:
+
 Lei nº [11.356](https://www.legislabahia.ba.gov.br/documentos/lei-no-11356-de-06-de-janeiro-de-2009#LO%2011.356) , de 06 de janeiro de 2009 - Cria o Prêmio por Desempenho Policial, altera a estrutura organizacional e de cargos em comissão da Polícia Militar da Bahia e dispositivos das Leis nº [7.990](https://www.legislabahia.ba.gov.br/documentos/lei-no-7990-de-27-de-dezembro-de-2001#LO_7_990) , de 27.12.2001, nº [8.626](https://www.legislabahia.ba.gov.br/documentos/lei-no-8626-de-09-de-maio-de-2003#LO_8_626) , de 09.05.2003, nº [9.002](https://www.legislabahia.ba.gov.br/documentos/lei-no-9002-de-29-de-janeiro-de-2004#LO_9_002) , de 29.01.2004, e nº [9.848](https://www.legislabahia.ba.gov.br/documentos/lei-no-9848-de-29-de-dezembro-de-2005#LO_9_848) , de 29.12.2005, e dá outras providências.
 
 Altera a estrutura da Polícia Militar da Bahia, da estrutura da Secretaria da Segurança Pública, na forma que indica, e dá outras providências.
@@ -41,4 +42,4 @@ Marcelo Barros
 
 Secretário da Administração
 
-* * *
+ *

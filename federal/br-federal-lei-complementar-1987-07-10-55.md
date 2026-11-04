@@ -1,7 +1,3 @@
-1
-
-###LCP-000055-0-000-10-07-1987@@@
-
 # LEI COMPLEMENTAR N° 55, DE 10 DE JULHO DE 1987
 
 Declara não sujeitas à contribuição incidente sobre o produto rural para o custeio do Prorural, as indústrias pesqueiras.

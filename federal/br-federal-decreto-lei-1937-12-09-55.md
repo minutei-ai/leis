@@ -1,5 +1,3 @@
-###DEL-000055-0-000-09-12-1937@@@
-
 DECRETO-LEI N. 55 – DE 9 DE DEZEMBRO DE 1937
 
 Autoriza a utilização e instalação, pelo Ministério da Agricultura, de uma câmara de expurgo adquirida, em 1936, juntamente com outros materiais agrícolas destinados a serem cedidos pelo custo aos lavradores inscritos no mesmo ministério

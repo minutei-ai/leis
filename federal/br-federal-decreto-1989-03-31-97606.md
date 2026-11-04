@@ -1,5 +1,3 @@
-###DEC-097606-0-000-31-03-1989@@@
-
 DECRETO N° 97.606, DE 31 DE MARÇO DE 1989
 
 Altera o inciso “d” do Artigo 1° do Decreto n° 92.503, de 26 de março de 1986, que fixa os cargos privativos de Oficial-General do Exército em Tempo de Paz.

@@ -1,5 +1,3 @@
-###DEL-001500-0-000-20-12-1976@@@
-
 # DECRETO-LEI Nº 1.500, DE 20 DE DEZEMBRO DE 1976
 
 Assegura a manutenção e utilização do crédito do Imposto sobre Produtos Industrializados relativo aos insumos empregados na industrialização dos produtos não tributados que indica.

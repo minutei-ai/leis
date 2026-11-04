@@ -1,5 +1,3 @@
-###DEC-075548-0-000-02-04-1975@@@
-
 DECRETO Nº 75.548, DE 2 DE ABRIL DE 1975.
 
 Renova por 10 (dez) anos a concessão Outorgada à Rádio Difusora Paraisense S. A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de São Sebastião do Paraiso, Estado de Minas Gerais.

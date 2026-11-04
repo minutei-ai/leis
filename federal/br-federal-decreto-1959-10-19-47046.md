@@ -1,5 +1,3 @@
-###DEC-047046-0-000-19-10-1959@@@
-
 DECRETO Nº 47.046, DE 19 DE OUTUBRO DE 1959.
 
 Regula a fixação das tarifas das linhas regulares de transporte aéreo e dá outras providências.

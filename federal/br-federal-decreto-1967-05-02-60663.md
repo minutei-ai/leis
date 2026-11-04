@@ -1,5 +1,3 @@
-###DEC-060663-0-000-02-05-1967@@@
-
 DECRETO Nº 60.663, DE 2 DE MAIO DE 1967.
 
 Autoriza o Superintendente da SUFRAMA - a praticar os atos de sua competência necessários à imediata instalação, funcionamento e consecução dos objetivos da autarquia.

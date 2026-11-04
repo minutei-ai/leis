@@ -1,5 +1,3 @@
-###DEC-078305-0-000-24-08-1976@@@
-
 DECRETO Nº 78.305, DE 24 DE AGOSTO DE 1976.
 
 Altera o dispositivo do Decreto número 74.436, de 20 de agosto de 1974, que autorizou o funcionamento dos cursos de Turismo e de Comunicação Social da Faculdade de Relações Públicas e Turismo do Brooklyn, mantida pela Associação Nacional de Educação e Cultura - ANEC, em São Paulo, Estado de São Paulo.

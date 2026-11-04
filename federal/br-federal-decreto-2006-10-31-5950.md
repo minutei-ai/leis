@@ -1,5 +1,3 @@
-###DEC-005950-0-000-31-10-2006@@@
-
 DECRETO Nº 5.950, DE 31 DE OUTUBRO DE 2006.
 
 Regulamenta o art. 57-A da Lei no 9.985, de 18 de julho de 2000, para estabelecer os limites para o plantio de organismos geneticamente modificados nas áreas que circundam as unidades de conservação.
@@ -29,5 +27,3 @@ LUIZ INÁCIO LULA DA SILVA
        Luís Carlos Guedes Pinto
 
  Marina Silva
-
-Este texto não substitui o publicado no DOU de 1º.11.2006

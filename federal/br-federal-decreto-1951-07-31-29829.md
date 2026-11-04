@@ -1,14 +1,12 @@
-###DEC-029829-0-000-31-07-1951@@@
+**DECRETO Nº 29.829, DE 31 DE JULHO DE 1951.**
 
-<strong>DECRETO Nº 29.829, DE 31 DE JULHO DE 1951.</strong>
+***Modifica a redação do art. 3º do Decreto nº 29.806, de 25 de julho de 1951, que criou a Comissão de Desenvolvimento Industrial.***
 
-<em><strong>Modifica a redação do art. 3º do Decreto nº 29.806, de 25 de julho de 1951, que criou a Comissão de Desenvolvimento Industrial.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 3º do Decreto número 29.806, de 25 de julho de 1951, passa a ter a seguinte redação:
+**Art**. 1º O art. 3º do Decreto número 29.806, de 25 de julho de 1951, passa a ter a seguinte redação:
 
 Art. 3º A Comissão será constituída:
 
@@ -30,11 +28,11 @@ h) De dois representantes da Confederação Nacional da Indústria, por esta ind
 
 i) De um representante dos órgãos de classe da agricultura.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 31 de julho de 1951; 130º da Independência e 63º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Francisco Negrão de Lima
 

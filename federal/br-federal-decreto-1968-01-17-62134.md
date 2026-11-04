@@ -1,5 +1,3 @@
-###DEC-062134-0-000-17-01-1968@@@
-
 DECRETO Nº 62.134, DE 17 DE JANEIRO DE 1968.
 
 Declara de utilidade pública o “Sanatório Espírita Vicente de Paulo”, com sede em Ribeirão Prêto, Estado de São Paulo.

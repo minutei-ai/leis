@@ -1,5 +1,3 @@
-###DEC-050101-0-000-26-01-1961@@@
-
 DECRETO Nº 50.101, DE 26 DE JANEIRO 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive transferência da sede social da Companhia Salvador de Seguros.

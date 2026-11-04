@@ -1,5 +1,3 @@
-###DEL-004912-0-000-31-10-1942@@@
-
 DECRETO-LEI N. 4.912 – DE 31 DE OUTUBRO DE 1942
 
 Cria o 3º Batalhão de Fronteira, com sede em Oiapoque

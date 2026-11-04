@@ -1,5 +1,3 @@
-###DEC-002848-0-000-25-11-1998@@@
-
 DECRETO Nº 2.848, DE 25 DE NOVEMBRO DE 1998.
 
 Dispõe sobre a Ordem Nacional do Mérito Científico, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-086482-0-000-16-10-1981@@@
-
 DECRETO Nº 86.482, DE 16 DE OUTUBRO DE 1981
 
 Autoriza o aumento do Capital Social da Centrais Elétricas de Roraima S.A. - CER.

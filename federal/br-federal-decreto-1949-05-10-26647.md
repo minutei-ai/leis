@@ -1,18 +1,16 @@
-###DEC-026647-0-000-10-05-1949@@@
+**DECRETO Nº 26.647, DE 10 DE MAIO DE 1949.**
 
-<strong>DECRETO Nº 26.647, DE 10 DE MAIO DE 1949.</strong>
+***Outorga a Teolina Junqueira concessão para o aproveitamento progressivo da energia hidráulica da corredeira de Jaguará, situada no Rio Grande, nos limites dos municípios de Pedregulho, Estado de São Paulo e Sacramento, Estado de Minas Gerais.***
 
-<em><strong>Outorga a Teolina Junqueira concessão para o aproveitamento progressivo da energia hidráulica da corredeira de Jaguará, situada no Rio Grande, nos limites dos municípios de Pedregulho, Estado de São Paulo e Sacramento, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTA DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Art. 150 do Código de Águas (Decreto n.º 24.643, de 10 de julho de 1934), decreta;
 
-<strong>O PRESIDENTA DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Art. 150 do Código de Águas (Decreto n.º 24.643, de 10 de julho de 1934), decreta;
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, é outorgada a Teolina Junqueira concessão para o aproveitamento progressivo da energia hidráulica da corredeira de Jaguará, situada no rio Grande, nos limites dos municípios de Pedregulho, no Estado de São Paulo e Sacramento, no Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros, é outorgada a Teolina Junqueira concessão para o aproveitamento progressivo da energia hidráulica da corredeira de Jaguará, situada no rio Grande, nos limites dos municípios de Pedregulho, no Estado de São Paulo e Sacramento, no Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga e a potência concedidas.
 
 § 2º O aproveitamento se destina á produção de energia elétrica para consumo exclusivo da concessionária que não fornecer a terceiros, mesmo a título gratuito, excluídas, todavia, dessa proibição, as vilas operárias da concessionária, desde que seja gratuito o fornecimento de energia que lhes for feito.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declarátorio, se a concessionária não satisfizer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declarátorio, se a concessionária não satisfizer as condições seguintes:
 
 I – Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, após a sua publicação.
 
@@ -64,26 +62,26 @@ V – Obedecer, em todos os projetos, as prescrições de ordem técnica determi
 
 Parágrafo único. Os prazos a que se refere êste artigo, poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias e medições de descarga e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias e medições de descarga e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4º A minuta de contrato será preparada pela Divisão de Águas e submetida á aprovação do ministro da Agricultura.
+**Art**. 4º A minuta de contrato será preparada pela Divisão de Águas e submetida á aprovação do ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro respectivo contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º Findo o prazo da concessão tôda a propriedade da concessionária que, no momento existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Govêrno Federal, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado.
+**Art**. 6º Findo o prazo da concessão tôda a propriedade da concessionária que, no momento existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Govêrno Federal, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado.
 
 § 1º Se o Governo Federal não fizer uso do seu direito a essa reversão, a concessionária poderá requerer que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º Para  os efeitos do § 1º dêste artigo fica a concessionária obrigada a dar conhecimento ao Governo Federal da decisão do Estado de São Paulo e a entrar com o requerimento da prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 7º A concessionária gozará desde a data do registro de que trata o art. 5º e enquanto vigorar a concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 7º A concessionária gozará desde a data do registro de que trata o art. 5º e enquanto vigorar a concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 8º o presente Decreto entrará em vigor na data da sua publicação.
+**Art**. 8º o presente Decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 9º Revogam-se as disposições em contrário.
+**Art**. 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 10 de maio de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

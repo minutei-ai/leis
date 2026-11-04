@@ -1,5 +1,3 @@
-###DEL-000021-0-000-17-09-1966@@@
-
 DECRETO-LEI Nº 21, DE 17 DE SETEMBRO DE 1966
 
 Dispõe sôbre assistência financeira às emprêsas pelas Caixas Econômicas Federais.

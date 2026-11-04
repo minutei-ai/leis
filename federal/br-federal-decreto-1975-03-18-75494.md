@@ -1,5 +1,3 @@
-###DEC-075494-0-000-18-03-1975@@@
-
 DECRETO Nº 75.494, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Artes Práticas do Centro de Ensino Superior de Juiz de Fora, com sede na Cidade de Juiz de Fora Estado de Minas Gerais.

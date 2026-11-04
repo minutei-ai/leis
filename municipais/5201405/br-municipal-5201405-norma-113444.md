@@ -4,7 +4,8 @@ LEI COMPLEMENTAR N° 218, DE 18 DE AGOSTO 2023.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º Esta Lei institui o Plano de Cargos, Carreira e Remuneração dos Servidores – PCCR e os Cargos de Provimento Efetivo dos Servidores Operacionais, Administrativos, Auxiliares, Técnicos e Analistas do Município de Aparecida de Goiânia.
@@ -59,7 +60,8 @@ IV – Anexo IV: Tabela de progressão
 
 V- Anexo V: Quadro de Vagas
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ESTRUTURA E ATRIBUIÇÕES DOS CARGOS
 
 Art. 4º. A Carreira dos servidores Operacionais, Administrativos, Auxiliares, Técnicos e Analistas é constituída pelos cargos abaixo relacionados:
@@ -104,7 +106,8 @@ Parágrafo único. A lotação dos cargos de provimento efetivo será fixada por
 
 Art. 6º. Os cargos de provimento efetivo são estruturados em classes e padrões representados na Tabela de Vencimentos dos Cargos Efetivos, constantes do Anexos III e IV desta Lei.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO INGRESSO, PROVIMENTO E DESENVOLVIMENTO
 
 Art. 7º. O ingresso nos cargos efetivos de que trata esta Lei dar-se-á mediante concurso público de provas ou de provas e títulos, observados os requisitos dos cargos e aqueles estabelecidos no Edital de Concurso Público.
@@ -187,7 +190,8 @@ Art. 14 Perderá o direito de concorrer às progressões funcionais o servidor q
 
 § 1º. Não poderá ser progredido o servidor que se encontre cumprindo estágio probatório.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA JORNADA DE TRABALHO
 
 Art. 15. A duração da jornada de trabalho será de 40 (quarenta) horas semanais.
@@ -196,7 +200,8 @@ Art. 15. A duração da jornada de trabalho será de 40 (quarenta) horas semanai
 
 § 2º. A frequência dos servidores que não estejam sujeitos ao controle de ponto será apurada pela forma determinada em Ato do Prefeito Municipal.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA ESTRUTURA DE REMUNERAÇÃO
 
 Art. 16. A estrutura de remuneração dos servidores ocupantes de cargos efetivos estabelecidos por esta Lei é composta pelas seguintes parcelas: Vencimento Básico - VBA; Adicional por Tempo de Serviço – ATS; Demais vantagens previstas no Estatuto do Servidor Público do Município.
@@ -205,7 +210,8 @@ Art.17. O Vencimento Básico – VBA dos servidores ocupantes de cargos de provi
 
 Art. 18. Fica instituído o Adicional por Tempo de Serviço – ATS por quinquênio de efetivo exercício no serviço público municipal de Aparecida de Goiânia, concedido ao servidor em um valor correspondente à cinco por cento do vencimento inicial do seu cargo efetivo, até o limite de sete quinquênios.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO ADICIONAL DE INCENTIVO À PROFISSIONALIZAÇÃO
 
 Art.19 O adicional de incentivo à profissionalização será devido ao servidor em razão do aprimoramento de sua qualificação profissional e conforme o grau de instrução, após comprovação e aprovação nos termos da Lei.
@@ -234,7 +240,8 @@ V - 20% (vinte por cento) para um total igual ou superior a 720 (setecentas e vi
 
 § 3º Não será considerado para fins de concessão de incentivo à profissionalização, bem como para progressões, a qualificação exigida para investidura no cargo.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA INTEGRAÇÃO E DOS CARGOS EXTINTOS A VAGAR
 
 Art.21. Os servidores, ocupantes de cargos do Quadro de Pessoal da Administração Direta e Indireta de direito público poderão ser enquadrados no Novo Plano de Cargos, Carreira e Remuneração - PCCR, a partir do primeiro dia do mês subsequente à sua vigência, de acordo com a seguinte Tabela:
@@ -266,10 +273,12 @@ Art.21. Os servidores, ocupantes de cargos do Quadro de Pessoal da Administraç�
 
 § 4°. A opção descrita no parágrafo primeiro deste artigo deverá ser realizada pelo servidor interessado no prazo máximo de 06 (seis) meses após a promulgação desta Lei.
 
-Art. 22. A vacância dos cargos de artífice operacional, auxiliar de artífice operacional, auxiliar de serviços diversos, motorista, operador de máquinas e trabalhador urbano, ocorrerão na forma prevista na Lei Complementar Municipal nº 003, de 28 de dezembro de 2001 (Estatuto dos Servidores da Prefeitura e da Câmara Municipal de Aparecida de Goiânia) e, quando de sua ocorrência, ficarão automaticamente extintos.<br>
+Art. 22. A vacância dos cargos de artífice operacional, auxiliar de artífice operacional, auxiliar de serviços diversos, motorista, operador de máquinas e trabalhador urbano, ocorrerão na forma prevista na Lei Complementar Municipal nº 003, de 28 de dezembro de 2001 (Estatuto dos Servidores da Prefeitura e da Câmara Municipal de Aparecida de Goiânia) e, quando de sua ocorrência, ficarão automaticamente extintos.
+
   
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA COMISSÃO PERMANENTE E DOS RECURSOS
 
 Art.23. As avaliações dos servidores destas carreiras serão coordenadas por Comissão Permanente da Secretaria Municipal de Administração do Município, cuja composição conterá, no mínimo, 02 (dois) servidores das carreiras avaliadas, à qual incumbirá:
@@ -290,7 +299,8 @@ Parágrafo único. O prazo do recurso previsto neste artigo é de 30 (trinta) di
 
 Art.25. O servidor que compuser a Comissão deverá ser substituído quando da análise de requerimento próprio.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 26. Os servidores enquadrados no novo Plano de Cargos, Carreira e Remuneração instituído por esta Lei poderão optar por se manter submetidos as regras vigentes na data da Publicação desta Lei. 
@@ -317,8 +327,10 @@ Art. 33. Esta lei entrará em vigor na data de sua publicação, revogando dispo
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 18 de Agosto de 2023.
 
-VILMAR MARIANO DA SILVA<br>
-Prefeito<br>
+VILMAR MARIANO DA SILVA
+
+Prefeito
+
  
 
-[ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18796)<br>
+[ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18796)

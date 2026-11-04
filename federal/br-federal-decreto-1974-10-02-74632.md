@@ -1,5 +1,3 @@
-###DEC-074632-0-000-02-10-1974@@@
-
 DECRETO Nº 74.632, DE 2 DE OUTUBRO DE 1974.
 
 Altera a redação dos artigos 6º, 9º e 10, do Decreto número 58.155, de 5 de abril de 1966.

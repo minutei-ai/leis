@@ -1,5 +1,3 @@
-###DEC-006571-0-000-17-09-2008@@@
-
 DECRETO Nº 6.571, DE 17 DE SETEMBRO DE 2008.
 
 Dispõe sobre o atendimento educacional especializado, regulamenta o parágrafo único do art. 60 da Lei no 9.394, de 20 de dezembro de 1996, e acrescenta dispositivo ao Decreto no 6.253, de 13 de novembro de 2007.

@@ -1,5 +1,3 @@
-###DEC-097545-0-000-01-03-1989@@@
-
 DECRETO N° 97.545, DE 1° DE MARÇO DE 1989
 
 Cria, no Estado de Roraima, a Floresta Nacional de Roraima, com os limites que específica e dá outras providências.

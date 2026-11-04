@@ -1,5 +1,3 @@
-###MPV-000285-0-000-06-03-2006@@@
-
 MEDIDA PROVISÓRIA Nº 285, DE 6 DE MARÇO DE 2006.
 
 Dispõe sobre as operações de crédito rural, contratadas com recursos do Fundo Constitucional de Financiamento do Nordeste - FNE, na área de atuação da Agência de Desenvolvimento do Nordeste - ADENE, e não renegociadas, nos termos da Lei no 10.177, de 12 de janeiro de 2001, e dá outras providências.

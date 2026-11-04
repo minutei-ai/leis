@@ -1,7 +1,3 @@
-1
-
-###DEC-098347-0-000-31-10-1989@@@
-
 DECRETO Nº 98.347, DE 31 DE OUTUBRO DE 1989
 
 Revoga o inciso III, do artigo 6º, do Regulamento para os Adidos, Adjuntos e Auxiliares de Adidos Militares junto às Missões Diplomáticas, aprovado pelo Decreto nº 79.900, de 1º de julho de 1977.

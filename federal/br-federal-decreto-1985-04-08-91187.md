@@ -1,5 +1,3 @@
-###DEC-091187-0-000-08-04-1985@@@
-
 Decreto nº 91.187, de 08 de abril de 1985.
 
 Autoriza o funcionamento do Curso de Estudos Sociais da Faculdade de Formação de Professores de Jacobina.

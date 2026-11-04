@@ -1,5 +1,3 @@
-###DEC-092638-0-000-12-05-1986@@@
-
 DECRETO Nº 92.638, DE 12 DE MAIO DE 1986
 
 Acrescenta § 1º ao art. 17 do Decreto nº 83.161, de 12 de fevereiro de 1979, que regulamenta a Lei nº 6.540, de 28 de junho de 1978, que dispõe sobre o Ensino na Marinha.

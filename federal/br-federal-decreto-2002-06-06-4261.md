@@ -1,5 +1,3 @@
-###DEC-004261-0-000-06-06-2002@@@
-
 DECRETO Nº 4.261, DE 6 DE JUNHO DE 2002
 
 Atribui competência ao Ministério de Minas e Energia, altera o Decreto nº 3.520, de 21 de junho de 2000, que dispõe sobre a estrutura e funcionamento do Conselho Nacional de Política Energética - CNPE, dá nova redação ao parágrafo único do art. 1do Decreto nº 4.131, de 14 de fevereiro de 2002, extingue a Câmara de Gestão da Crise de Energia Elétrica - GCE e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049123-0-000-18-10-1960@@@
-
 DECRETO Nº 49.123, DE 18 DE OUTUBRO DE 1960.
 
 Concede reconhecimento a curso.

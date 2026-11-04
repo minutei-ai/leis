@@ -1,5 +1,3 @@
-###DEC-062175-0-000-25-01-1968@@@
-
 DECRETO Nº 62.175, DE 25 DE JANEIRO DE 1968.
 
 Estabelece normas provisórias sôbre a aplicação da Lei 5.374, de 7 de dezembro de 1967.

@@ -1,5 +1,3 @@
-###DEL-007157-0-000-14-12-1944@@@
-
 DECRETO-LEI N. 7.157 – DE 14 DE DEZEMBRO DE 1944
 
 Manda abolir a taxa constante da tabela C – item XI –, n. 241, do Decreto-lei n. 2.740, de 24 de novembro de 1940, na parte que menciona

@@ -1,5 +1,3 @@
-###DEC-060737-0-000-23-05-1967@@@
-
 DECRETO Nº 60.737, DE 23 DE MAIO DE 1967.
 
 Ajusta a estrutura administrativa do IBC ao disposto no artigo 177 do Decreto-lei nº 200, de 25 de fevereiro de 1967 e dá outras providências.

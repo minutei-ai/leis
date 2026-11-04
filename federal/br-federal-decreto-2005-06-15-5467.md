@@ -1,5 +1,3 @@
-###DEC-005467-0-000-15-06-2005@@@
-
 DECRETO Nº 5.467, DE 15 DE JUNHO DE 2005
 
 Estabelece termos e condições para a redução a zero das alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes sobre a receita de venda dos produtos de informática de que trata o Programa de Inclusão Digital, nos termos do § 2º do art. 28 da Medida Provisória nº 252, de 15 de junho de 2005.

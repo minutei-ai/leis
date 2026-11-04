@@ -1,7 +1,3 @@
-1
-
-###DEC-099340-0-000-22-06-1990@@@
-
 DECRETO N° 99.340, DE 22 DE JUNHO DE 1990
 
 Promulga o Tratado de Extradição, entre a República Federativa do Brasil e o Reino da Espanha.

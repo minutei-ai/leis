@@ -1,5 +1,3 @@
-###DEC-047870-0-000-08-03-1960@@@
-
 DECRETO Nº 47.870, DE 8 DE março DE 1960.
 
 Autoriza cessão gratuita do terreno que menciona, situado na Fazenda Rincão, Município de Curitiba, Estado do Paraná.

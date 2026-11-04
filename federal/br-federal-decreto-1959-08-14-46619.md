@@ -1,5 +1,3 @@
-###DEC-046619-0-000-14-08-1959@@@
-
 DECRETO Nº 46.619, DE 14 DE AGÔSTO DE 1959.
 
 Transfere de Valentim Lorenzini para Frederico Alves Pinto a concessão para a produção e fornecimento de energia elétrica ao Município de Joanópolis, Estado de São Paulo.

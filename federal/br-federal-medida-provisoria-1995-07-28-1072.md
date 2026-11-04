@@ -1,7 +1,3 @@
-1
-
-###MPV-001072-0-000-28-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.072, DE 28 DE JULHO DE 1995.
 
 Dispõe sobre crédito rural, e dá outras providências.

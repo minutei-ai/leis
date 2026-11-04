@@ -1,5 +1,3 @@
-###DEC-006127-0-000-18-06-2007@@@
-
 DECRETO Nº 6.127, DE 18 DE JUNHO DE 2007.
 
 Dispõe sobre a suspensão da exigência da Contribuição para o PIS/PASEP e da COFINS incidentes sobre a receita auferida na comercialização de material de embalagem a empresa sediada no exterior para entrega em território nacional.
@@ -35,5 +33,3 @@ Brasília, 18 de junho de 2007; 186º da Independência e 119º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 19.6.2007
